@@ -5,11 +5,19 @@ unique issues to overcome in conversion.
 
 Be sure you have the dependencies for this project installed:
 
-```
+```sh
 pip install mysql-connector-python
 pip install future
 pip install pysword
-pip install pyyaml
+pip install PyYAML
+pip install pyarrow
+pip install pymysql
+```
+
+You may also install all PyPI dependencies from the root project directory with:
+
+```sh
+python -m pip install -r requirements.txt
 ```
 
 ## Step One: Find the translation...

@@ -46,6 +46,10 @@ This repository contains a collection of scripts designed to generate various fo
   - **Description**: Generates MySQL SQL dump files for Bible translations. Each translation is processed and output as an SQL dump file.
   - **Usage**: Run the script to create SQL dump files for each translation.
 
+- **generate_parquet.py**
+  - **Description**: Generate Parquet files for Bible translations. Each translation is processed and output as a .parquet file.
+  - **Usage**: Run the script to create .parquet files for each translation.
+
 - **generate_sqlite.py**
   - **Description**: Generates SQLite database files for Bible translations. Each translation is processed and output as an SQLite database file.
   - **Usage**: Run the script to create SQLite database files for each translation.
