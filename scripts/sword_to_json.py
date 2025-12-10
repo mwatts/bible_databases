@@ -2,7 +2,7 @@ from pysword.modules import SwordModules
 import argparse, json, sys
 
 if sys.version_info > (3, 0):
-    from past.builtins import xrange
+    xrange = range
 
 
 def generate_dict(source_file, bible_version):
@@ -24,7 +24,7 @@ def generate_dict(source_file, bible_version):
                     'verse': verse,
                     'chapter': chapter,
                     'name': book.name + " " + str(chapter) + ":" + str(verse),
-                    'text': bible.get(books=[book.name], chapters=[chapter], verses=[verse])
+                    'text': bible.get(books=[book.name], chapters=[chapter], verses=[verse], clean=False)
                     })
             chapters.append({
                 'chapter': chapter,
