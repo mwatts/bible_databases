@@ -28886,7 +28886,7 @@
 
 **[1:5]** I me doo sang Kot akan sota pan pwai kida nan kadeik, o me dipan akan nan momod en me pung kan.
 
-**[1:6]** Pwe Ieowa kotin mangi al en me pung kan; a al en ir, me doo sang Kot akan, pan soredi. 
+**[1:6]** Pwe Ieowa kotin mangi al en me pung kan; a al en ir, me doo sang Kot akan, pan soredi.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Papang Ieowa ni lan o pereperen ni masak!
 
-**[2:12]** Metik sapwilim a Ol, pwe a der ongiong, o komail ap lokidokila pon al o, pwe a ongiong kak madang tapida. A meid pai ir karos, me liki i. 
+**[2:12]** Metik sapwilim a Ol, pwe a der ongiong, o komail ap lokidokila pon al o, pwe a ongiong kak madang tapida. A meid pai ir karos, me liki i.
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** Kom kotida Maing, Ieowa o sauasa ia, ai Kot! Pwe kom kotin pikir ai imwintiti karos, o kawelar ngi en me sapung kan.
 
-**[3:8]** Ieowa me sauas patail. Kom kotin kamauiada sapwilim omui aramas akan! Sela. 
+**[3:8]** Ieowa me sauas patail. Kom kotin kamauiada sapwilim omui aramas akan! Sela.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** Komui kotin kaperenda mongiong i laud sang ansaun arail wain o korn me toto.
 
-**[4:8]** I kin wonon o mamair ni popol; pwe komui ta Maing, me kotin sauasa ia da, pwe i en kak moleilei. 
+**[4:8]** I kin wonon o mamair ni popol; pwe komui ta Maing, me kotin sauasa ia da, pwe i en kak moleilei.
 
 ### Chapter 5
 
@@ -28958,7 +28958,7 @@
 
 **[5:3]** Maing Ieowa, kotin mangi ngil ai nin soran, nin soran i men tu ong komui o masamasan.
 
-**[5:4]** Pwe komui kaidin Kot amen, me kin mauki tiak sapung, me morsued sota pan mimieta mo ’mui.
+**[5:4]** Pwe komui kaidin Kot amen, me kin mauki tiak sapung, me morsued sota pan mimieta mo’mui.
 
 **[5:5]** Me aklapalap akan sota pan pwaida mon silang omui, kom kin kotin suede ki me sapung kan.
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** Karos, me liki komui ap pan peren kida, re pan pereperen kokolata, pwe kom kin kotin sinsila irail. Irail pan pereperen, me kin pok ong mar omui.
 
-**[5:12]** Pwe komui Maing kin kapaiada me pung kan. Komui kin kotin nekid ir ala ki omui kalangan dueta pere eu. 
+**[5:12]** Pwe komui Maing kin kapaiada me pung kan. Komui kin kotin nekid ir ala ki omui kalangan dueta pere eu.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** Ieowa kotin mangi ai ngidingid, o Ieowa kotin mangier ai kapakap.
 
-**[6:10]** Ai imwintiti karos pan namenokela o masakada melel, re pan tangwei o madang sarodi. 
+**[6:10]** Ai imwintiti karos pan namenokela o masakada melel, re pan tangwei o madang sarodi.
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** A men kamela pan sapale dong pein mong a, o a dodok sued pan pupedi ong pein a al en wel.
 
-**[7:17]** I pan kapinga Ieowa, pweki a pung, o i pan kauleki mar en Ieowa me lapalapia. 
+**[7:17]** I pan kapinga Ieowa, pweki a pung, o i pan kauleki mar en Ieowa me lapalapia.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** O manpir en pan lang, o mam en nan sed, karos me kin memaureki nan madau.
 
-**[8:9]** Ieowa at Kaun, mar omui meid lingan nan sap karos! 
+**[8:9]** Ieowa at Kaun, mar omui meid lingan nan sap karos!
 
 ### Chapter 9
 
@@ -29078,13 +29078,13 @@
 
 **[9:11]** Kauleki Ieowa, me kin kaunda nan Sion. Komail padaki ong wei kan a wiawia!
 
-**[9:12]** Pwe a kotin taman irail ada o kotin kainoma nta ’rail. A sota kin kotin maliela likwir en me samama kan.
+**[9:12]** Pwe a kotin taman irail ada o kotin kainoma nta’rail. A sota kin kotin maliela likwir en me samama kan.
 
 **[9:13]** Maing Ieowa, kom kotin maki ong ia. Re kotin mangi ai apwal ren ai imwintiti kan, kom kotin dore ia la sang nan wanim en mela.
 
 **[9:14]** Pwe i en kasokasoiia duen omui dodok kapuriamui pan wanim en nain Sion, perenki sauas pa om.
 
-**[9:15]** Men liki kan pupedi ong nan por o, me pein irail weiradar, o nä ’rail lodi ong insar, me pein irail wiadar.
+**[9:15]** Men liki kan pupedi ong nan por o, me pein irail weiradar, o nä’rail lodi ong insar, me pein irail wiadar.
 
 **[9:16]** I me kitail asaki, Ieowa me kotin kapung pung. Me sapung kan salidi ong pein ar dodok en pa ar akan. Sela.
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** Maing, kom kotida! Pwe aramas ender pwaida, a men liki kan karos en pakadeikada mo omui.
 
-**[9:20]** Maing, kotiki ong ir men kamasak, pwe men liki kan en dedeki, me re udan aramas eta. Sela. 
+**[9:20]** Maing, kotiki ong ir men kamasak, pwe men liki kan en dedeki, me re udan aramas eta. Sela.
 
 ### Chapter 10
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** Maing, kom kotin mangier inong en me luet akan; kom kotin kamanada mongiong arail, karong omui mamangi mepukat,
 
-**[10:18]** Pwen sauasa me sapoupou o samama o, pwe aramas en sappa en solar kangudi. 
+**[10:18]** Pwen sauasa me sapoupou o samama o, pwe aramas en sappa en solar kangudi.
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** A pan kotin kamoredi ong me doo sang Kot akan liol, o kisiniai, o swepel, o a pan katinge kin irail melimel.
 
-**[11:7]** Ieowa me pung o a kotin pok ong me pung. Silang i irerong ong me melel o. 
+**[11:7]** Ieowa me pung o a kotin pok ong me pung. Silang i irerong ong me melel o.
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Komui Maing, pan kotin pera irail, o sinsila mon di wet kokolata.
 
-**[12:8]** Pwe me sapung kan pan totolar wasa karos, ma aramas sued pukat kin kaunda aramas akan. 
+**[12:8]** Pwe me sapung kan pan totolar wasa karos, ma aramas sued pukat kin kaunda aramas akan.
 
 ### Chapter 13
 
@@ -29178,13 +29178,13 @@
 
 **[13:4]** Pwe ai imwintiti ender inda: I kaloedier i. O me palian ia ender perenki ai pupedier.
 
-**[13:5]** A i kin liki omui kalangan; mongiong i en peren kida omui kotin sauasa ia. I pan kauleki Ieowa duen a kotin wiawia mau ong ia. 
+**[13:5]** A i kin liki omui kalangan; mongiong i en peren kida omui kotin sauasa ia. I pan kauleki Ieowa duen a kotin wiawia mau ong ia.
 
 **[13:6]** 
 
 ### Chapter 14
 
-**[14:1]** ME pweipwei o kin indinda nan mongiong i: Sota Kot. Sota katepa ’rail, o arail tiak meid sued; sota amen mia, me kin wia me mau.
+**[14:1]** ME pweipwei o kin indinda nan mongiong i: Sota Kot. Sota katepa’rail, o arail tiak meid sued; sota amen mia, me kin wia me mau.
 
 **[14:2]** Ieowa kin irerong aramas akan sang nanlang, pwen masani, ma amen mia, me lolekong o rapaki Kot.
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** Komail kin kawela inong en me luet; aki Ieowa, me a kin kaporoporeki.
 
-**[14:7]** O i men, sauas pan Israel en kodo sang nan Sion, o Ieowa en kotin lapwada sapwilim a salidi kan! I me Iakop pan insenemauki o Israel pan pereperenki. 
+**[14:7]** O i men, sauas pan Israel en kodo sang nan Sion, o Ieowa en kotin lapwada sapwilim a salidi kan! I me Iakop pan insenemauki o Israel pan pereperenki.
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** Me kin mamaleki me lokidokilar o, ap kakaki me masak Ieowa kan, o me kin kaula melel, menda ma a suedi ong pein i;
 
-**[15:5]** Me sota pan piti sang en amen na moni, o me sota pan ale kisakis, pwen kawela me pung amen. Ari, me kin apwali mepukat, sota pan luetala kokolata. 
+**[15:5]** Me sota pan piti sang en amen na moni, o me sota pan ale kisakis, pwen kawela me pung amen. Ari, me kin apwali mepukat, sota pan luetala kokolata.
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** Pwe kom sota pan kotin mauki, ngen i en mimieta nan wasan mela, o kom sota pan mueid ong, me sapwilim omui saraui men pan mor pasang.
 
-**[16:11]** Kom kin kotin kaasa kin ia al maur; peren lapalap mi mon silang omui, o meid lingan ni pali maun en lim omui kokolata. 
+**[16:11]** Kom kin kotin kaasa kin ia al maur; peren lapalap mi mon silang omui, o meid lingan ni pali maun en lim omui kokolata.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** Sang ren aramas akan ki lim omui, Maing Ieowa, sang ren aramas en sappa wet, me pwais arail ni maur et; kom kotin kadire kila kaped arail omui dipiso kan, me nairail seri ol me toto, o nairail akan me pan sosoki luan arail kapwa.
 
-**[17:15]** A i pan ariri silang omui ni ai pung, o i pan medikila mom omui ni ai pan pirida. 
+**[17:15]** A i pan ariri silang omui ni ai pung, o i pan medikila mom omui ni ai pan pirida.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** I me i men danke komui, Maing Ieowa, nan pung en men liki kan o kauleki duen mar omui,
 
-**[18:50]** Komui me kotin kamaurada melel sapwilim a nanmarki o a kotin sauasa mau sapwilim a Dawid keiedier o kadaudok a kokolata. 
+**[18:50]** Komui me kotin kamaurada melel sapwilim a nanmarki o a kotin sauasa mau sapwilim a Dawid keiedier o kadaudok a kokolata.
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** Pil perewei sang sapwilim omui ladu me aklapalap, pwe ren der kaloe ia di, i ap pan pungala, o pan makelekel sang dip lapalap kokolata.
 
-**[19:14]** Kom kotin kupura kaparok en au ai o lokolokaia en mongiong i mo ’mui, Ieowa ai paipalap o ai saundor. 
+**[19:14]** Kom kotin kupura kaparok en au ai o lokolokaia en mongiong i mo’mui, Ieowa ai paipalap o ai saundor.
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** Irail lodier o pupedier, a kit uda o kasinenda.
 
-**[20:9]** Maing kom kotin sauasa nanmarki o, o kotin mangi at likwir ong komui! 
+**[20:9]** Maing kom kotin sauasa nanmarki o, o kotin mangi at likwir ong komui!
 
 ### Chapter 21
 
@@ -29438,13 +29438,13 @@
 
 **[21:9]** Kom pan wia kin ir ala stop en kisiniai eu, ni omui pan kotin pwarado. Ieowa pan kotin kawe ir ala ni a ongiong, o kisiniai pan kang ir ala.
 
-**[21:10]** Kom pan kotin karosela kadaudok arail sang nan sappa, o wa ’rail sang nan pung en aramas akan.
+**[21:10]** Kom pan kotin karosela kadaudok arail sang nan sappa, o wa’rail sang nan pung en aramas akan.
 
 **[21:11]** Pwe irail inau kidar, me re pan wia sued ong komui a re sota pan itar ong.
 
 **[21:12]** Pwe komui pan kotin kasaloe ir ada, pwe ren tang; kom pan kotin padok wong ir omui sal en kasik katieu.
 
-**[21:13]** Maing kom kotida ni omui rosong kit ap kauleki o kapinga omui manaman. 
+**[21:13]** Maing kom kotida ni omui rosong kit ap kauleki o kapinga omui manaman.
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Kadaudok eu mia, me pan papa i, re pan padaki ong seri o seri en seri kan duen Ieowa.
 
-**[22:31]** Re pan pwarado o padaki ong aramas akan, me pan ipwidi mur duen a pung, o duen me a kotin wiadar. 
+**[22:31]** Re pan pwarado o padaki ong aramas akan, me pan ipwidi mur duen a pung, o duen me a kotin wiadar.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Kom kotin kaonop dang ia tepel eu salong ai imwintiti kan. Kom kotin keiekidi mong ai le, o ai dal kin wudewudok.
 
-**[23:6]** Pai o kalangan pan idauen ia arain ai maur, o i pan mimieta nan tanpas en Ieowa kokolata. 
+**[23:6]** Pai o kalangan pan idauen ia arain ai maur, o i pan mimieta nan tanpas en Ieowa kokolata.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** Komail ritingada wanim laud o langada wanim nin sappa, pwe Nanmarki lingan en kotilong!
 
-**[24:10]** Is Nanmarki lingan men et? I Ieowa Sepaot; I Nanmarki lingan. Sela. 
+**[24:10]** Is Nanmarki lingan men et? I Ieowa Sepaot; I Nanmarki lingan. Sela.
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Melel o pung en sinsila ia, pwe i auiaui komui.
 
-**[25:22]** Maing Kot, kom kotin dorela Israel sang nan ar apwal akan karos! 
+**[25:22]** Maing Kot, kom kotin dorela Israel sang nan ar apwal akan karos!
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** A ngai kin weweid ni makelekel. Dore ia la o kotin maki ong ia!
 
-**[26:12]** Nä i kin aluwei pung. I pan kapinga Ieowa nan momodisou kan. 
+**[26:12]** Nä i kin aluwei pung. I pan kapinga Ieowa nan momodisou kan.
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** Ari so, i asa, me i pan ududial kalangan en Ieowa nan sap en me memaur akan.
 
-**[27:14]** Auiaui Ieowa! Der masak, o mongiong om ender masak, o auiaui Ieowa! 
+**[27:14]** Auiaui Ieowa! Der masak, o mongiong om ender masak, o auiaui Ieowa!
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** Ieowa kele parail; i me manaman ong sauasa sapwilim a me keidier.
 
-**[28:9]** Kotin sauasa sapwilim omui aramas akan o kotin kamauiala sapwilim omui soso, o kotin kamanga ir o apwali irail ada kokolata! 
+**[28:9]** Kotin sauasa sapwilim omui aramas akan o kotin kamauiala sapwilim omui soso, o kotin kamanga ir o apwali irail ada kokolata!
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** Ieowa kotikot pon pil akan o Ieowa pan Nanmarki kokolata.
 
-**[29:11]** Ieowa pan kamanada sapwilim a aramas akan; Ieowa pan kotin kamaui sapwilim a aramas akan ki popol. 
+**[29:11]** Ieowa pan kamanada sapwilim a aramas akan; Ieowa pan kotin kamaui sapwilim a aramas akan ki popol.
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** Kom kotin kawukila ai insensued ong ngisingis; kom koti ki sanger ai tuken likau, ap id kalikauwi ia dar popol.
 
-**[30:12]** Pwe ngen i en kauli ong komui, a ender nenenla. Maing ai Kot, i pan kapinga komui kokolata. 
+**[30:12]** Pwe ngen i en kauli ong komui, a ender nenenla. Maing ai Kot, i pan kapinga komui kokolata.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Komail sapwilim a saraui kan karos, pok ong Ieowa! Ieowa kin kotin sinsila me poson akan, ap depuk ong ir melel, me aklapalap akan.
 
-**[31:24]** Komail karos me kaporoporeki Ieowa, en kelail o der masak! 
+**[31:24]** Komail karos me kaporoporeki Ieowa, en kelail o der masak!
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Me sapung o kin lodi ong song en madak toto, a me kaporoporeki Ieowa, kalangan en Ieowa pan kapil pena i.
 
-**[32:11]** Polauleki Ieowa, o pereperen komail me pung kan, o kapikapinga komail karos me lelapok melel akan. 
+**[32:11]** Polauleki Ieowa, o pereperen komail me pung kan, o kapikapinga komail karos me lelapok melel akan.
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** Pwe mongiong atail kin peren kida i, pwe kitail kin liki mar a saraui.
 
-**[33:22]** Maing, Ieowa, omui kalangan en mi po at duen at kaporoporeki komui. 
+**[33:22]** Maing, Ieowa, omui kalangan en mi po at duen at kaporoporeki komui.
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** Me sued kot pan kamela mo doo sang Kot akan, o me kin kailonki me pung kan, pan kalokolok.
 
-**[34:22]** Ieowa kin kotin dorela ngen en sapwilim a ladu kan, o karos me liki i sota pan kalokolok. 
+**[34:22]** Ieowa kin kotin dorela ngen en sapwilim a ladu kan, o karos me liki i sota pan kalokolok.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** Irail me kin peren kida ai pung en ngisingis o pereperen, o ren inda ansau karos: Meid kapinga ong Ieowa, me kin perenki sauasa sapwilim a ladu o,
 
-**[35:28]** O lo i en kapakaparok duen omui pung, o kapinga komui ran karos. 
+**[35:28]** O lo i en kapakaparok duen omui pung, o kapinga komui ran karos.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Kom der mueid ong, i en tiatidi pan me aklapalap akan, o pa en me sapung kan ender kapup ia di.
 
-**[36:12]** A mesued akan en pupedi wasa o, pwe ren lokidokila o solar memaureda. 
+**[36:12]** A mesued akan en pupedi wasa o, pwe ren lokidokila o solar memaureda.
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** A Ieowa kotin sauasa me pung kan, i me kele parail ni ar apwal akan.
 
-**[37:40]** O Ieowa pan kotin ieiang ir o pan dore ir ala; A pan kotin dore ir ala sang me sapung kan, o a pan sauasa ir, pwe re kin liki i. 
+**[37:40]** O Ieowa pan kotin ieiang ir o pan dore ir ala; A pan kotin dore ir ala sang me sapung kan, o a pan sauasa ir, pwe re kin liki i.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** Ieowa ai Kot, kom der muei sang ia o der doowei sang ia!
 
-**[38:22]** Kom kotin madang dong ia, Maing sauas pa i. 
+**[38:22]** Kom kotin madang dong ia, Maing sauas pa i.
 
 ### Chapter 39
 
@@ -30106,7 +30106,7 @@
 
 **[39:4]** Maing, kotin padaki ong ia, me maur i pan imwisokela, o imwi pan ai ran akan, me i pan samoer.
 
-**[39:5]** Mangi, ai ran akan dueta tälap en pa en aramas re omui; o maur i likamata sota meakot mo ’mui. Melel aramas, me kin keleki pein i, kin dueta adiniai. Sela.
+**[39:5]** Mangi, ai ran akan dueta tälap en pa en aramas re omui; o maur i likamata sota meakot mo’mui. Melel aramas, me kin keleki pein i, kin dueta adiniai. Sela.
 
 **[39:6]** Re kin alialu sili rasong mota, o re kin katoutouki pein irail dodok mal. Re kin nanak pena ap sasa, is me pan naineki.
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** Maing kom kotin ereki ai kapakap, o mangi ai likwir, o der sapaimokid ni ai sangesang, pwe ngai sapwilim omui men kairu o pweledan omui wei men dueta sam ai kan karos.
 
-**[39:13]** Kom kotin muei sang ia, pwe i en kelailada, mon ai pan kokowei o solar mia. 
+**[39:13]** Kom kotin muei sang ia, pwe i en kelailada, mon ai pan kokowei o solar mia.
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** Karos me idok komui, en pereperen o popol. O me pok ong omui maur, ansau karos ren inda: Meid kapingan Ieowa!
 
-**[40:17]** Pwe ngai samama o luet; a Ieowa kin kotin apwali ia. Komui sauas pa i o ai saundor; ai Kot, kom der kotin pwand! 
+**[40:17]** Pwe ngai samama o luet; a Ieowa kin kotin apwali ia. Komui sauas pa i o ai saundor; ai Kot, kom der kotin pwand!
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** A kom kin kolekol ia pweki ia lelapok, o kom pan kotin kasone ia di mon silang omui kokolata.
 
-**[41:13]** Kapinga ong Ieowa, Kot en Israel sang met o kokolata! Amen. Amen. 
+**[41:13]** Kapinga ong Ieowa, Kot en Israel sang met o kokolata! Amen. Amen.
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** Likamata kokon ai kan mut pasanger, ni ai imwintiti lalaue ia. Pwe re kin indang ia ran karos: Ia om Kot?
 
-**[42:11]** Ngen i, da me koe insensuedeki o sota moleileiki? Auiaui Kot! Pwe i pan danke i, pwe i sauas pan mas ai o ai Kot. 
+**[42:11]** Ngen i, da me koe insensuedeki o sota moleileiki? Auiaui Kot! Pwe i pan danke i, pwe i sauas pan mas ai o ai Kot.
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** Pwe i en pedelong ong nan pei saraui en Kot, iei Kot me kaperen pa i o kapol pa i, o i en danke komui Kot ki arp, ai Kot.
 
-**[43:5]** Ngen i, da me koe insensuedeki o sota moleileiki? Auiaui Kot! Pwe i pan danke i, pwe i sauas pan mas ai o ai Kot. 
+**[43:5]** Ngen i, da me koe insensuedeki o sota moleileiki? Auiaui Kot! Pwe i pan danke i, pwe i sauas pan mas ai o ai Kot.
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** Pwe ngen it poridier ni pwel par; kaped it pas ong pwel.
 
-**[44:26]** Kom kotida, sauasa kit, o dore kit ala pweki omui kalangan. 
+**[44:26]** Kom kotida, sauasa kit, o dore kit ala pweki omui kalangan.
 
 ### Chapter 45
 
@@ -30302,7 +30302,7 @@
 
 **[45:11]** Nanmarki ap pan peren kida mom om kaselel; pwe i om Kaun, a koe en kaudoki ong i.
 
-**[45:12]** Nain Tirus, me kapwapa re ’rail pan wado kisakis; o ngidingid re om.
+**[45:12]** Nain Tirus, me kapwapa re’rail pan wado kisakis; o ngidingid re om.
 
 **[45:13]** Sapwilim en Nanmarki seripein, me mi lole, meid kaselel ni mongiong i, a kapwateki likau kold.
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** Noumui manakap akan pan wiliandi sam omui kan; i me kom pan kasapwiladang saupeidi en sap akan karos.
 
-**[45:17]** I pan tamanda mar omui ni di kan karos; i me wei kan karos pan kapinga komui kokolata. 
+**[45:17]** I pan tamanda mar omui ni di kan karos; i me wei kan karos pan kapinga komui kokolata.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** Komail nenenla o asada, me Ngai ta Kot. I pan kawauwi pein Ngai ren men liki kan, I pan kalinganada nin sappa.
 
-**[46:11]** Ieowa Sepaot kotin ieiang kitail; Kot en Iakop i pere patail. Sela. 
+**[46:11]** Ieowa Sepaot kotin ieiang kitail; Kot en Iakop i pere patail. Sela.
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** Kot Nanmarki en men liki kan; Kot kotikot pon mol a saraui.
 
-**[47:9]** Saupeidi en wei kan pokon pena wiala wein Kot en Apraam; pwe pere en mauin nin sappa me sapwilim en Kot. A kotin lapalap melel. 
+**[47:9]** Saupeidi en wei kan pokon pena wiala wein Kot en Apraam; pwe pere en mauin nin sappa me sapwilim en Kot. A kotin lapalap melel.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Kilekilang mau a kel takai kan, o kasakasaui a im kalaimun akan, pwe komail en kak kasoia ong men mur akan,
 
-**[48:14]** Me Kot men et, pan atail Kot ansau karos kokolata. A pan kotin kalua kitail kokolata. 
+**[48:14]** Me Kot men et, pan atail Kot ansau karos kokolata. A pan kotin kalua kitail kokolata.
 
 ### Chapter 49
 
@@ -30410,13 +30410,13 @@
 
 **[49:10]** Pwe a kin kilang, me lolekong kan kin mela dueta me pweipwei o iakalar akan, o re pan mueid ong amen ar dipisou kan.
 
-**[49:11]** I me re kin peren kida, ma im arail pan duedueta, o deu ’rail pan mimieta kokolata; o re konekon melel nin sappa.
+**[49:11]** I me re kin peren kida, ma im arail pan duedueta, o deu’rail pan mimieta kokolata; o re konekon melel nin sappa.
 
 **[49:12]** Ari so, aramas me konekon sota kak mimieta ni mepukat, pwe a pan kokowei dueta man amen.
 
 **[49:13]** Iet ar wiawia pukat meid pweipwei; ari so, kadaudok ar kin kapinga ki au arail. Sela.
 
-**[49:14]** Re wonon nan wasan mela dueta pwin sip; mela kin kamanga ir; a me lelapok kan pan kaun irail da madang, o mom ar pan soredi, o re pan doo sang deu ’rail, mimieta nan pweleko.
+**[49:14]** Re wonon nan wasan mela dueta pwin sip; mela kin kamanga ir; a me lelapok kan pan kaun irail da madang, o mom ar pan soredi, o re pan doo sang deu’rail, mimieta nan pweleko.
 
 **[49:15]** A Kot pan kotin dorela ngen i sang nan mana en wasan mela, pwe a pan kotin sapwilimane kin ia. Sela!
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** A pan idauen la sam a kan, ap solar kilang marain kokolata.
 
-**[49:20]** Ari, ma aramas amen indand mau, ap sota a lamalam, a pan kokowei dueta man amen. 
+**[49:20]** Ari, ma aramas amen indand mau, ap sota a lamalam, a pan kokowei dueta man amen.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Komail me mamaleki Kot, en asa, I pan kasor komail la o sota sauas pamail pan mia.
 
-**[50:23]** Me kin mairongki danke, kin kapinga ia; o i al o, me I pan kasale ong i duen maur en Kot. 
+**[50:23]** Me kin mairongki danke, kin kapinga ia; o i al o, me I pan kasale ong i duen maur en Kot.
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** Kom kotin sauasa Sion ki omui kalangan, kotin kauada kel en Ierusalem.
 
-**[51:19]** Komui ap pan kupura mairong pung, mairong isis o mairong unsok. I ansau me kau ol pan iseda pon sapwilim omui pei saraui. 
+**[51:19]** Komui ap pan kupura mairong pung, mairong isis o mairong unsok. I ansau me kau ol pan iseda pon sapwilim omui pei saraui.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** A ngai dueta tuka oliwe pot nan tanpas en Kot, i kaporoporeki kalangan en Kot kokolata.
 
-**[52:9]** I pan kapinga komui kokolata, pwe kom kak kotin wiada; i pan kapinga mar omui, pwe a lingan ren sapwilim omui lelapok kan. 
+**[52:9]** I pan kapinga komui kokolata, pwe kom kak kotin wiada; i pan kapinga mar omui, pwe a lingan ren sapwilim omui lelapok kan.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** Rap masak ni sota karepa, pwe Kot kotin kamueit pasanger kokon en ir, me kin kapil uk pena. Kom kotin kanamenok ir alar, pwe Kot kotin kase ir ala.
 
-**[53:6]** O i men, sauas pan Israel en kodo sang nan Sion, o Kot en kotin lapwada sapwilim a salidi kan! I me Iakop pan insen mauki o Israel pan pereperenki. 
+**[53:6]** O i men, sauas pan Israel en kodo sang nan Sion, o Kot en kotin lapwada sapwilim a salidi kan! I me Iakop pan insen mauki o Israel pan pereperenki.
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** I ap pan wiai ong komui mairong kaperen, o kapinga mar omui, pwe a me mau.
 
-**[54:7]** Pwe a kotin dore ia la sang nan ai apwal akan karos, o mas ai peren kidar ai imwintiti kan. 
+**[54:7]** Pwe a kotin dore ia la sang nan ai apwal akan karos, o mas ai peren kidar ai imwintiti kan.
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Mueid ong Ieowa, me koe inong iong, a pan apwali uk ada, a sota pan kotin mueid ong me pung kan en wukiwuk sili.
 
-**[55:23]** Maing Kot, kom pan kotin kase ir long ong nan por lol en me sued o; me inong iong nta o likam kan sota pan lel ong apali en maur arail. A i pan kaporoporeki komui. 
+**[55:23]** Maing Kot, kom pan kotin kase ir long ong nan por lol en me sued o; me inong iong nta o likam kan sota pan lel ong apali en maur arail. A i pan kaporoporeki komui.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Maing Kot, i inauki ong komui, me i pan mairongki danke ong komui;
 
-**[56:13]** Pwe kom kotin dorelar ngen i sang mela o nä, i kat sang ai krisidi, pwe i en weweid mon silang en Kot nan marain en me maur akan. 
+**[56:13]** Pwe kom kotin dorelar ngen i sang mela o nä, i kat sang ai krisidi, pwe i en weweid mon silang en Kot nan marain en me maur akan.
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** Pwe omui kalangan me laud dueta nanlang, o omui melel dueta tapok kan.
 
-**[57:11]** Maing Kot, kom kotida ileila sang lang, o wau omui lingan nan sappa karos. 
+**[57:11]** Maing Kot, kom kotida ileila sang lang, o wau omui lingan nan sappa karos.
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** Me pung o pan peren kida a lao kilang depuk ong ir, o a pan widen nä a nan ntan me doo sang Kot o.
 
-**[58:11]** Aramas akan ap pan inda: Me pung kan pan tungole kating; pwe Kot eta saunkadeik nin sappa. 
+**[58:11]** Aramas akan ap pan inda: Me pung kan pan tungole kating; pwe Kot eta saunkadeik nin sappa.
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** A i pan kauleki duen omui manaman, o ni mansang i pan kapinga omui kalangan, pwe komui pere pa i o ai paip ni ran en ai apwal.
 
-**[59:17]** I pan kauli ong komui ai paip, pwe Kot pere pa i o ai Kot kalangan. 
+**[59:17]** I pan kauli ong komui ai paip, pwe Kot pere pa i o ai Kot kalangan.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Kom kotin sauasa kit ni at apwal akan, pwe en aramas ar sauase sota katepa.
 
-**[60:12]** Iangaki at Kot kit pan kapwaiada dodok apwal akan. A pan kotin tiakedi at imwintiti kan. 
+**[60:12]** Iangaki at Kot kit pan kapwaiada dodok apwal akan. A pan kotin tiakedi at imwintiti kan.
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Pwe a en mimieta mon Kot kokolata; kom kotin kasale ong i kalangan o melel, me pan sinsila i.
 
-**[61:8]** I ap pan kauli ong mar omui kokolata, pwe i en kapwaiada ai inau kan ni ran karos. 
+**[61:8]** I ap pan kauli ong mar omui kokolata, pwe i en kapwaiada ai inau kan ni ran karos.
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** Kot kotikidar masan eu, me i ronger akai ansau, iet: Kot eta me manaman.
 
-**[62:12]** Komui Maing me kalangan o komui kin pwain ong amen amen duen a wiawia kan. 
+**[62:12]** Komui Maing me kalangan o komui kin pwain ong amen amen duen a wiawia kan.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** Re pan pupedi ong nan kodlas, o kidi en wel pan kang ir ala;
 
-**[63:11]** A nanmarki pan peren kida Kot. Me kin kaula ong i, pan pwaida, pwe au en me likam akan pan pena pinla. 
+**[63:11]** A nanmarki pan peren kida Kot. Me kin kaula ong i, pan pwaida, pwe au en me likam akan pan pena pinla.
 
 ### Chapter 64
 
@@ -30828,7 +30828,7 @@
 
 **[64:2]** Kom kotin karuki ia la sang mon pokon en me sued akan, mon pwin en me wia sapung kan.
 
-**[64:3]** Me kin ada lo ’rail dueta kodlas pot, o me kaonopada ar kasik katieu, iei ar lokaia sued,
+**[64:3]** Me kin ada lo’rail dueta kodlas pot, o me kaonopada ar kasik katieu, iei ar lokaia sued,
 
 **[64:4]** Pwen rir kasikiedi me lelapok o; madang re pan kasikiedi i, o sota insenoki.
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** O aramas karos pan masak o inda: Mepukat Kot kotin wiadar. O re pan asa, me i sapwilim a dodok.
 
-**[64:10]** Me pung o pan perenki Ieowa, o pan liki i, o me lelapok kan karos pan pereperen. 
+**[64:10]** Me pung o pan perenki Ieowa, o pan liki i, o me lelapok kan karos pan pereperen.
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** Mos en nan sap tan pil pwaida mau, o dol akan kin pereperen.
 
-**[65:13]** O mal akan me dir en pwin sip, o sap me rokeki korn, me mau ong ngisingis o kakaul. 
+**[65:13]** O mal akan me dir en pwin sip, o sap me rokeki korn, me mau ong ngisingis o kakaul.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** A Kot kotin ereki ai kapakap, o a kotin mangier ai ngidingid.
 
-**[66:20]** Kapinga ong Kot, me sota kotin mamaleki ai kapakap, o a sota kotiki wei sang ia a kalangan. 
+**[66:20]** Kapinga ong Kot, me sota kotin mamaleki ai kapakap, o a sota kotiki wei sang ia a kalangan.
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Sap o kin kapwaiada a tuka kan. Kot pan kotin kapai kit ada, at Kot.
 
-**[67:7]** Kot pan kotin kapai kit ada, o toun sappa karos pan masak i! 
+**[67:7]** Kot pan kotin kapai kit ada, o toun sappa karos pan masak i!
 
 ### Chapter 68
 
@@ -30964,7 +30964,7 @@
 
 **[68:16]** Menda komail nana kalaimun akan kin kilekilang ap peirin ong nana, me Kot kotin piladar en kotikot ia? O Ieowa pan kotikot wasa o kokolata.
 
-**[68:17]** War en Kot me kid toto pan pak kid; Ieowa kotikot re ’rail ni nana Sinai.
+**[68:17]** War en Kot me kid toto pan pak kid; Ieowa kotikot re’rail ni nana Sinai.
 
 **[68:18]** Komui kotidalang poa o saliedier me salidi kan, o kom kotin ale ong aramas pai kan, pil ong ir me katiwo kan, pwe Ieowa en kotikot wasa o.
 
@@ -30992,7 +30992,7 @@
 
 **[68:30]** Kom kotin lipor ong man en nan rau, o pwin kau ol iangaki na kan, o wei kan, me kin pepei pweki kisin moni. Kotin kamueit pasang wek kan, me kin men mauin.
 
-**[68:31]** Saupedi en Äkipten pan pwarado; men Moren pan pokadang Kot pa ’rail.
+**[68:31]** Saupedi en Äkipten pan pwarado; men Moren pan pokadang Kot pa’rail.
 
 **[68:32]** Komail wei kan nin sappa kauli ong Kot, kakaul o kapinga Ieowa. Sela.
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** Komail kamelele mana en Kot! A lingan mi ren Israel, o a mana mi nan tapok kan.
 
-**[68:35]** Kot meid kapuriamui nan mole saraui. I Kot en Israel. A pan kotiki ong aramas akan mana o kelail. Kapinga Kot! 
+**[68:35]** Kot meid kapuriamui nan mole saraui. I Kot en Israel. A pan kotiki ong aramas akan mana o kelail. Kapinga Kot!
 
 ### Chapter 69
 
@@ -31050,9 +31050,9 @@
 
 **[69:23]** Mas arail en rotorotala, pwe ren der kilang wasa, o irail en kos pena kokolata.
 
-**[69:24]** Wudokidi ong po ’rail omui ongiong, o omui ongiong melel en lel ong irail.
+**[69:24]** Wudokidi ong po’rail omui ongiong, o omui ongiong melel en lel ong irail.
 
-**[69:25]** Deu ’rail en liselipingda, o sota me pan kauson nan im arail.
+**[69:25]** Deu’rail en liselipingda, o sota me pan kauson nan im arail.
 
 **[69:26]** Pwe re kin pakipaki, me kom kotin kaloker, o re kin indinda, me dene komui kin kaloke mal sapwilim omui kan.
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** Pwe Kot pan kotin sauasa Sion, o a pan kauada kanim en Iuda kan, pwe aramas en kauson wasa o, o aneki.
 
-**[69:36]** O wan a ladu kan pan sosoki irail, o me kin pok ong mar a, pan kauson wasa o. 
+**[69:36]** O wan a ladu kan pan sosoki irail, o me kin pok ong mar a, pan kauson wasa o.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** A me kin idok komui, en pereperen o popolki komui, o me kin pok ong omui maur, en indinda ansau karos: Kot meid kapingan!
 
-**[70:5]** A ngai me luet o samama. Maing Kot, kom kotin madang dong ia, pwe komui ta sauas pa i o ai saundor; Maing Ieowa, kom der kotin pwand! 
+**[70:5]** A ngai me luet o samama. Maing Kot, kom kotin madang dong ia, pwe komui ta sauas pa i o ai saundor; Maing Ieowa, kom der kotin pwand!
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** Kil in au ai o ngen i, me re kotin dorelar, pan pereperen o kauli ong komui.
 
-**[71:24]** Pil lo i pan indinda duen omui pung sang mansang lel sautik. Pwe irail, me men kawe ia la, namenokala o sarodier. 
+**[71:24]** Pil lo i pan indinda duen omui pung sang mansang lel sautik. Pwe irail, me men kawe ia la, namenokala o sarodier.
 
 ### Chapter 72
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** O kaping ong mar a lingan kokolata, o sap karos en direki a wau! Amen, amen!
 
-**[72:20]** Iet imwilan kapakap en Dawid nain Isai. 
+**[72:20]** Iet imwilan kapakap en Dawid nain Isai.
 
 ### Chapter 73
 
@@ -31218,7 +31218,7 @@
 
 **[73:18]** Melel kom kotin pwili kin irail edi wasa likakeris; kom kotin kapup irail edi ong nani pwel.
 
-**[73:19]** Iaduen arail madang soredier. Irail lokidokila, o imwila ’rail meid kamasapwek.
+**[73:19]** Iaduen arail madang soredier. Irail lokidokila, o imwila’rail meid kamasapwek.
 
 **[73:20]** Maing Ieowa, kom kin kotin kawela mom arail nan kanim o dueta auramen.
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** Pwe kom kotin mangi irail, me muei sang komui pan lokidokila; Kom pan kotin kasapokela karos, me wuki wei sang komui.
 
-**[73:28]** A iet ai peren, i en tengeteng ong Kot, o i en kaporoporeki Kot Ieowa, pwen kalok sili omui wiawia kan karos. 
+**[73:28]** A iet ai peren, i en tengeteng ong Kot, o i en kaporoporeki Kot Ieowa, pwen kalok sili omui wiawia kan karos.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Maing Kot, kom kotida o kotin kaimwisokala sapwilim omui dodok; kom kotin tamanda kankaurur, me kin wiaui ong komui sang ren me pweipwei kan.
 
-**[74:23]** Kom kotin der maliela weriwer en sapwilim omui imwintiti, morongorong en me palian komui kan, me kin lalaudalar ansau karos. 
+**[74:23]** Kom kotin der maliela weriwer en sapwilim omui imwintiti, morongorong en me palian komui kan, me kin lalaudalar ansau karos.
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** A i pan padapadak kokolata, o kauli ong Kot en Iakop.
 
-**[75:10]** I pan kawela mana en me doo sang Kot akan karos, a mana en me pung kan pan kakairida. 
+**[75:10]** I pan kawela mana en me doo sang Kot akan karos, a mana en me pung kan pan kakairida.
 
 ### Chapter 76
 
@@ -31322,7 +31322,7 @@
 
 **[76:6]** Maing Kot en Iakop os o war kin pupekidi omui masan akan.
 
-**[76:7]** Komui meid kamasapwek. Is me kak u mo ’mui ni omui ongiong?
+**[76:7]** Komui meid kamasapwek. Is me kak u mo’mui ni omui ongiong?
 
 **[76:8]** Ni omui kotin kasaledar omui kadeik sang nanlang, sappa ap masapwekadar o nenenlar,
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** Komail inau ong Ieowa omail Kot o kapwaiada. Komail karos, me mi impa, wa dong ren me kalom omail kisakis akan.
 
-**[76:12]** I me pan atia sang saupeidi kan ar komad, a meid kalom ong nanmarki en sappa kan. 
+**[76:12]** I me pan atia sang saupeidi kan ar komad, a meid kalom ong nanmarki en sappa kan.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Al omui mi nan madau, al omui tätik nan pil kalaimun akan, o sota me kaan aluwilu omui.
 
-**[77:20]** Kom kotin kalua sapwilim omui kan dueta pwin eu ren Moses o Aron. 
+**[77:20]** Kom kotin kalua sapwilim omui kan dueta pwin eu ren Moses o Aron.
 
 ### Chapter 78
 
@@ -31438,7 +31438,7 @@
 
 **[78:30]** A ni ar kapwaiadar ar inong, o ni ar mangamanga,
 
-**[78:31]** Ongiong en Kot ap lel ong irail er, o kamelar ol lapalap re ’rail, o kotin wokiedi manakap en Israel kasampwal akan.
+**[78:31]** Ongiong en Kot ap lel ong irail er, o kamelar ol lapalap re’rail, o kotin wokiedi manakap en Israel kasampwal akan.
 
 **[78:32]** A re kalaudelar arail dip, o re sota kamelele a manaman akan.
 
@@ -31486,7 +31486,7 @@
 
 **[78:54]** A kotin wa ir ala lel ni irair en sap saraui, lel nana wet, me lim a pali maun kileledier.
 
-**[78:55]** O kotin pakipaki men liki kan mo ’rail, o kotin nek ong ir sap arail, pwen sosoki, o a kotiki ong kainok en Israel akan, en kaukauson nan im arail.
+**[78:55]** O kotin pakipaki men liki kan mo’rail, o kotin nek ong ir sap arail, pwen sosoki, o a kotiki ong kainok en Israel akan, en kaukauson nan im arail.
 
 **[78:56]** A re songesong? o kaongiong Kot lapalap, o sota peiki ong i, o sota duki ong a masan akan.
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** A kotin kalua i sang ren sip en kadidi kan, pwen kamanga sapwilim a kainok en Iakop o a soso men Israel.
 
-**[78:72]** O a kotin apapwali ir ni tiak en mongiong melel o pung, o kakaun irail ada ni koiok en lim a kan. 
+**[78:72]** O a kotin apapwali ir ni tiak en mongiong melel o pung, o kakaun irail ada ni koiok en lim a kan.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** Kom kotin depukki ong men imp at pan pak isu ar lalaue, me re lalaue kin komui.
 
-**[79:13]** A kit, sapwilim omui aramas akan, o sip en sapwilim omui mos, pan danke komui kokolata, kapakaparok duen omui lingan ansau karos. 
+**[79:13]** A kit, sapwilim omui aramas akan, o sip en sapwilim omui mos, pan danke komui kokolata, kapakaparok duen omui lingan ansau karos.
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** Kit ap sota pan wuki wei sang komui. Kom kotin kamaur kit da, kit ap pan kapinga mar omui.
 
-**[80:19]** Ieowa Kot Sepaot, kom kotin kamait kit ala o kotin kasaleda silang omui, kit ap pan kelail kida. 
+**[80:19]** Ieowa Kot Sepaot, kom kotin kamait kit ala o kotin kasaleda silang omui, kit ap pan kelail kida.
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** O irail me kailongki Ieowa, sota pan kak ong irail; o ansaun arail pakadeik pan duedeuta kokolata;
 
-**[81:16]** O I pan kamanga kin irail korn kaselelia, o I pan katungole kin i onik sang nan paip o. 
+**[81:16]** O I pan kamanga kin irail korn kaselelia, o I pan katungole kin i onik sang nan paip o.
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** Ari so, komail pan mela dueta aramas akan, o komail pan lokidokila dueta me weit amen.
 
-**[82:8]** Maing Kot, kom kotida o kotin kadeikada sappa, pwe komui pan sosoki men liki kan karos. 
+**[82:8]** Maing Kot, kom kotida o kotin kadeikada sappa, pwe komui pan sosoki men liki kan karos.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Ren namenokala o masapwekada kokolata, o ren soredi o mela.
 
-**[83:18]** Rap pan asaki, me komui ta maraneki Kaun o me komui ta lapalap nan sap karos. 
+**[83:18]** Rap pan asaki, me komui ta maraneki Kaun o me komui ta lapalap nan sap karos.
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** Pwe Kot Ieowa rasong katipin o pere, Ieowa kin kotikida mak o wau, a sota pan kotin mueid ong me lelapok kan, en anane me mau kot.
 
-**[84:12]** Maing Ieowa Sepaot, meid pai aramas amen, me kin liki komui! 
+**[84:12]** Maing Ieowa Sepaot, meid pai aramas amen, me kin liki komui!
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Ieowa pil pan kotikido me mau, pwe sap atail en kida wa kan.
 
-**[85:13]** Pwe pung pan ti ong mo a, o a kak akan pan wiala al arail. 
+**[85:13]** Pwe pung pan ti ong mo a, o a kak akan pan wiala al arail.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Kom kotin wukidoki dong ia, o maki ong ia, o kamaui kida sapwilim omui ladu omui manaman, o kotin sauasa nain sapwilim omui lidu!
 
-**[86:17]** Kom kotiki ong ia kilel eu, me i pan paie kida, pwe ai imwintiti kan en kilang, rap namenok kila omui kotin sauasa ia, Maing Ieowa, o kom kotin kamait ia la. 
+**[86:17]** Kom kotiki ong ia kilel eu, me i pan paie kida, pwe ai imwintiti kan en kilang, rap namenok kila omui kotin sauasa ia, Maing Ieowa, o kom kotin kamait ia la.
 
 ### Chapter 87
 
@@ -31784,11 +31784,11 @@
 
 **[87:6]** Ieowa pan kotin wadok, ni a pan kotin kileledi aramas akan: Mepukat ipwidier wasa o. Sela.
 
-**[87:7]** O ni ar madomadong re pan kauleki: Ai parer karos mi re om! 
+**[87:7]** O ni ar madomadong re pan kauleki: Ai parer karos mi re om!
 
 ### Chapter 88
 
-**[88:1]** MAING Ieowa, Kot ai saunkamaur, i kin likwir nin ran o ni pong mo ’mui.
+**[88:1]** MAING Ieowa, Kot ai saunkamaur, i kin likwir nin ran o ni pong mo’mui.
 
 **[88:2]** Kom kotin mueid ong, ai kapakap en lelda wong komui. Kom kotin kapaik dong karong omui kan ai likelikwir.
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** Re kapil ia pena dueta pil akan sang ni mansang lel sautik, ir karos kapil ia pena.
 
-**[88:18]** Kom kotiki wonger kompoke pa i o ai warok kan wasa doo, rotorot eta ai warok. 
+**[88:18]** Kom kotiki wonger kompoke pa i o ai warok kan wasa doo, rotorot eta ai warok.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** Maing Ieowa, iaduen lalaue en omui imwintiti kan, iduen ar lalaue lip en sapwilim omui me keidier.
 
-**[89:52]** Kaping ong Ieowa kokolata! Amen, iei Amen! 
+**[89:52]** Kaping ong Ieowa kokolata! Amen, iei Amen!
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Kom kotin kasale ong sapwilim omui ladu kan omui wiawia kan, o omui wau ong na seri kan.
 
-**[90:17]** Ieowa at Kot, en kalangan dong kit o kotin kapwaiada dodok en pa at akan re at; ei kom kotin kapwaiada dodok en pa at akan! 
+**[90:17]** Ieowa at Kot, en kalangan dong kit o kotin kapwaiada dodok en pa at akan re at; ei kom kotin kapwaiada dodok en pa at akan!
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** A pan likwir dong ia, I ap pan sapeng i, I pan iang i ni wasa apwal, I pan kapitila i o kalinganada i.
 
-**[91:16]** I pan kamedi kin i maur warai, o I pan kasale ong i ai sauas. 
+**[91:16]** I pan kamedi kin i maur warai, o I pan kasale ong i ai sauas.
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** Menda ma re pan mala, pwe re pan pil masal pasang, o wa, o kelail.
 
-**[92:15]** Pwe re pan kasaleda, me Kot me pung, i ai paip o sota sapung mi re a. 
+**[92:15]** Pwe re pan kasaleda, me Kot me pung, i ai paip o sota sapung mi re a.
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** Ieowa kotikot wasa ileile. A manaman sang ngil en pil kalaimun akan o iluk en madau kalaimun akan.
 
-**[93:5]** Omui masan akan meid pung. Tanpas omui me linganaki saraui kokolata, Maing Ieowa. 
+**[93:5]** Omui masan akan meid pung. Tanpas omui me linganaki saraui kokolata, Maing Ieowa.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** A Ieowa ai paip lapalap, o Kot iei paip, me i pan rukila ia.
 
-**[94:23]** A pan kotin depuk ong ir ar me sued, o a pan kotin kame ir ala, pweki ar katiwo, Ieowa atail Kot pan kame ir ala. 
+**[94:23]** A pan kotin depuk ong ir ar me sued, o a pan kotin kame ir ala, pweki ar katiwo, Ieowa atail Kot pan kame ir ala.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** Par paeisok I suede kilar di wet, o I indada: Mongiong en song en aramas duen met kin wukiwuk sili, o re sota men asa duen al ai kan.
 
-**[95:11]** I ap kaula ni ai makar: Irail sota pan konodi ai kamol. 
+**[95:11]** I ap kaula ni ai makar: Irail sota pan konodi ai kamol.
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Sap en pereperen o audepa karos, o tuka en nan wel karos en ngisingis.
 
-**[96:13]** Ong Ieowa, ni a kotido, ni a kotido, en kadeikada sappa. A pan kotin kaunda sappa ni tiak pung, o kainok kan ni a melel. 
+**[96:13]** Ong Ieowa, ni a kotido, ni a kotido, en kadeikada sappa. A pan kotin kaunda sappa ni tiak pung, o kainok kan ni a melel.
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Marain pan dakadang me pung kan, o peren ong me lelapok melel.
 
-**[97:12]** Komail me pung kan perenki Ieowa o kapinga mar a saraui! 
+**[97:12]** Komail me pung kan perenki Ieowa o kapinga mar a saraui!
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Pilap akan en lopolopeki pa arail; o nana kan en pereperenki.
 
-**[98:9]** Ieowa, ni a kotidon kadeikada sappa. A pan kotin kadeikada sappa nin tiak pung o kainok kan nin tiak inen. 
+**[98:9]** Ieowa, ni a kotidon kadeikada sappa. A pan kotin kadeikada sappa nin tiak pung o kainok kan nin tiak inen.
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** Ieowa at Kot, kom kotin sapeng irail er. Maing Kot kom kotin maki ong irail er, o kotin depuk ong ir ar sapung kan.
 
-**[99:9]** Kapinga Ieowa atail Kot, o poridier ni sapwilim a nana saraui, pwe Ieowa atail Kot me saraui. 
+**[99:9]** Kapinga Ieowa atail Kot, o poridier ni sapwilim a nana saraui, pwe Ieowa atail Kot me saraui.
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Pedelong ong nan sapwilim a wanim laud ki danke, o kaul en kaping mon sapwilim a pera saraui. Danke i o kapinga mar a!
 
-**[100:5]** Pwe Ieowa me mau, a kalangan soutuk, o a melel pan due lueta kokolata. 
+**[100:5]** Pwe Ieowa me mau, a kalangan soutuk, o a melel pan due lueta kokolata.
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** Me kin kotaue, sota pan kauson nan im ai, me kin likam, sota pan pwaida mon mas ai.
 
-**[101:8]** Ni mansang karos i pan kawela me katiwo nan sap o, pwen kokosang kanim en Ieowa karos, me kin wia sapung. 
+**[101:8]** Ni mansang karos i pan kawela me katiwo nan sap o, pwen kokosang kanim en Ieowa karos, me kin wia sapung.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** A kom pan deudueta o ansaun omui roson sota pan tukedi.
 
-**[102:28]** Nain sapwilim omui ladu kan pan mimieta, o kadaudok a pan pwaida re omui. 
+**[102:28]** Nain sapwilim omui ladu kan pan mimieta, o kadaudok a pan pwaida re omui.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Kapikapinga Ieowa sapwilim a pokon akan karos, o sapwilim a ladu kan, me kin kapwaiada kupur a!
 
-**[103:22]** Kapikapinga Ieowa sapwilim a dipisou kan ni wasa karos, me a kotin kakaun, ngen i kapinga Ieowa! 
+**[103:22]** Kapikapinga Ieowa sapwilim a dipisou kan ni wasa karos, me a kotin kakaun, ngen i kapinga Ieowa!
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** I men, ai kasokasoi en kaparenda kupur a; i pan polauleki Ieowa.
 
-**[104:35]** Me dipan akan en niki sang sappa, o me doo sang Kot akan en sola mia. Ngen i kalingada Ieowa! Aleluia! 
+**[104:35]** Me dipan akan en niki sang sappa, o me doo sang Kot akan en sola mia. Ngen i kalingada Ieowa! Aleluia!
 
 ### Chapter 105
 
@@ -32450,7 +32450,7 @@
 
 **[105:16]** A lao kotiki ong sap o ansaun lek; o kotin kawelar wasan kaporopor en manga,
 
-**[105:17]** A kotin poronelar ol amen mo ’rail; Iosep, me netilar, pwen wiala ladu men.
+**[105:17]** A kotin poronelar ol amen mo’rail; Iosep, me netilar, pwen wiala ladu men.
 
 **[105:18]** Nä a kan kalokolokki sal mata, o pali war a wonon nan mata,
 
@@ -32506,7 +32506,7 @@
 
 **[105:44]** A ap kotiki ong ir sap en men liki kan, o re aleer dipisou en kainok kan.
 
-**[105:45]** Pwe ren peiki ong sapwilim a masan kan o kolekol a kusoned akan. Aleluia! 
+**[105:45]** Pwe ren peiki ong sapwilim a masan kan o kolekol a kusoned akan. Aleluia!
 
 ### Chapter 106
 
@@ -32540,7 +32540,7 @@
 
 **[106:15]** Ap kotin mueid ong insen arail, o kotiki ong ir, lol ar lao suedala.
 
-**[106:16]** Re ap kangudi ong Moses nan deu ’rail, ong Aron me saraui en Ieowa men.
+**[106:16]** Re ap kangudi ong Moses nan deu’rail, ong Aron me saraui en Ieowa men.
 
 **[106:17]** Sap ap sar pasang katalala Datan, o pur penang pon pwin en Apiram.
 
@@ -32592,7 +32592,7 @@
 
 **[106:41]** A kotin mueid ong ir nan pa en men liki kan, o me kailong kin ir, wialar ar kaun.
 
-**[106:42]** O ar imwintiti katoutoui ir, o re namenokalar pan pa ’rail.
+**[106:42]** O ar imwintiti katoutoui ir, o re namenokalar pan pa’rail.
 
 **[106:43]** A kotin dore ir ala pan pak toto, a re duedueta ni ar inong sued o madamadaua, o re malaulau kilar ar sapung.
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Ieowa at Kot, kom kotin dore kit ala, sang ren men liki kan, pwe kit en danke mar omui saraui o sapwilim ar dodok mau kan.
 
-**[106:48]** Kaping ong Ieowa, Kot en Israel, sang mas kokodo o pil kokolata! O aramas karos en inda: Amen, Aleluia! 
+**[106:48]** Kaping ong Ieowa, Kot en Israel, sang mas kokodo o pil kokolata! O aramas karos en inda: Amen, Aleluia!
 
 ### Chapter 107
 
@@ -32614,7 +32614,7 @@
 
 **[107:3]** Me a kotin kapokon pena sang sap en mas en lang, o kapin lang, o pali apang, o sang madau.
 
-**[107:4]** Irail sansalong sili nan sap tan, pol al apwal, re sota diarada deu ’rail.
+**[107:4]** Irail sansalong sili nan sap tan, pol al apwal, re sota diarada deu’rail.
 
 **[107:5]** Re men mangadar o men nim piladar, o kaped arail luetalar.
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** Me melel akan pan kilang, ap peren kida, o sapung kan karos pan kaku pena au arail.
 
-**[107:43]** Me lolekong kan pan kasampwale ki mepukat, o re pan dedeki kalangan en Ieowa. 
+**[107:43]** Me lolekong kan pan kasampwale ki mepukat, o re pan dedeki kalangan en Ieowa.
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Kom kotin ieiang kit ni at apwal akan, pwe en aramas ar sauasa sota katepa.
 
-**[108:13]** Iangaki at Kot kit pan kapwaiada dodok manaman akan. A pan kotin tiakedi at imwintiti kan. 
+**[108:13]** Iangaki at Kot kit pan kapwaiada dodok manaman akan. A pan kotin tiakedi at imwintiti kan.
 
 ### Chapter 109
 
@@ -32772,7 +32772,7 @@
 
 **[109:24]** Nä i kat luete kilar kaisesol, o uduk ai tikitikilar;
 
-**[109:25]** O i wialar men lalaue re ’rail; ni ar kilang ia, re kin dueduälok!
+**[109:25]** O i wialar men lalaue re’rail; ni ar kilang ia, re kin dueduälok!
 
 **[109:26]** Maing Ieowa, ai Kot, kom kotin dore ia la duen omui kalangan!
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** I pan danke Ieowa melel ni au ai, o i pan kapinga i nan pung en me toto.
 
-**[109:31]** Pwe a kotikot ni pali maun en me samama, pwen dorela i sang ir, me kadeikada i, en kamela. 
+**[109:31]** Pwe a kotikot ni pali maun en me samama, pwen dorela i sang ir, me kadeikada i, en kamela.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** A pan kotin kaunda nan pung en men liki kan, a pan kadir kila kalep akan wasa karos, a kotin palang pasang tapwi en wei lapalap.
 
-**[110:7]** A pan nima sang pil ni kailan al, i me a pan sara kida. 
+**[110:7]** A pan nima sang pil ni kailan al, i me a pan sara kida.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** A kotiki ong sapwilim a kan saunkamaur, o a kupureda, me a inau pan duedueta kokolata; mar a me saraui o kalom.
 
-**[111:10]** Masak Ieowa iei tapin pan lolekong; irail meid pai, me kin wia due met, pwe a pai pan potopot eta. 
+**[111:10]** Masak Ieowa iei tapin pan lolekong; irail meid pai, me kin wia due met, pwe a pai pan potopot eta.
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** A kin kamoredi o kisakis ong me samama kan; a pung pan potopot eta; os a pan kokoda o indand mau.
 
-**[112:10]** Me doo sang Kot pan kilang ap makara kida; a pan teterokki ngi a kan ap soredi; inong en me doo sang Kot akan pan nikila. 
+**[112:10]** Me doo sang Kot pan kilang ap makara kida; a pan teterokki ngi a kan ap soredi; inong en me doo sang Kot akan pan nikila.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** Pwen kamondi i ren me lapalap akan, ren me lapalap en sapwilim a aramas akan;
 
-**[113:9]** Me kotin sauasa li dapwan men, pwen wiala en ol oko ar nono peren amen. Aleluia! 
+**[113:9]** Me kotin sauasa li dapwan men, pwen wiala en ol oko ar nono peren amen. Aleluia!
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** Sappa, koe en rerer mon Ieowa, mon Kot en Iakop,
 
-**[114:8]** Me kotin kawuki ong len pil paip o, o kantakai ong utun pil. 
+**[114:8]** Me kotin kawuki ong len pil paip o, o kantakai ong utun pil.
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** Me melar akan solar pan kapinga Ieowa, pil karos, me kodi wasan kaporemen;
 
-**[115:18]** A kitail pan kapinga Ieowa sang met o kokolata. Aleluia! 
+**[115:18]** A kitail pan kapinga Ieowa sang met o kokolata. Aleluia!
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** I pan kapwai ong Ieowa ai inau sansal mon sapwilim a aramas akan karos,
 
-**[116:19]** Mon pera en tanpas omui im saraui, nan warong en Ierusalem. Aleluia! 
+**[116:19]** Mon pera en tanpas omui im saraui, nan warong en Ierusalem. Aleluia!
 
 ### Chapter 117
 
 **[117:1]** MEN liki kan karos kapinga Ieowa! O kainok karos kapinga i!
 
-**[117:2]** Pwe a kalangan me sansal melel ong kitail, o melel en Ieowa pan potopot eta. Aleluia! 
+**[117:2]** Pwe a kalangan me sansal melel ong kitail, o melel en Ieowa pan potopot eta. Aleluia!
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Komui ai Kot, o i pan danke komui; ai Kot, i pan kalinganada komui.
 
-**[118:29]** Danke Ieowa, pwe i me mau, pwe a kalangan pan potopot eta. 
+**[118:29]** Danke Ieowa, pwe i me mau, pwe a kalangan pan potopot eta.
 
 ### Chapter 119
 
@@ -33364,7 +33364,7 @@
 
 **[119:167]** Mongiong i kin kolekol sapwilim omui kadede kan, o kin pok ong irail melel.
 
-**[119:168]** I kin kolekol sapwilim omui kusoned o kadede kan, pwe al ai kan karos me sansal mo ’mui.
+**[119:168]** I kin kolekol sapwilim omui kusoned o kadede kan, pwe al ai kan karos me sansal mo’mui.
 
 **[119:169]** Maing Ieowa, kotin mangi ai ngidingid, o kotin padaki ong ia duen omui masan.
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Kom kotin ieiang ngen i, pwen memaur eta ap kapinga komui, o lim omui pali maun en sauasa ia.
 
-**[119:176]** Ngai ras ong sip amen me sansalong sili o salongala; kom kotin rapaki sapwilim omui ladu, pwe i sota monokela omui kusoned akan. 
+**[119:176]** Ngai ras ong sip amen me sansalong sili o salongala; kom kotin rapaki sapwilim omui ladu, pwe i sota monokela omui kusoned akan.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** Meid warai ong ai kaukauson ren aramas akan me kin tataki muei mau.
 
-**[120:7]** I inong iong muei mau, a ni ai pan lokaia, re kin mauki mauin. 
+**[120:7]** I inong iong muei mau, a ni ai pan lokaia, re kin mauki mauin.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** Ieowa pan kotin pera wei sang uk song en sued karos, a pan kotin sinsila ngen om.
 
-**[121:8]** Ieowa pan kotin sinsila uk ni om pedoi o pedelong, sang met o kokolata. 
+**[121:8]** Ieowa pan kotin sinsila uk ni om pedoi o pedelong, sang met o kokolata.
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** I pan kapakapa kin uk pweki ri ai o kompoke pai kan.
 
-**[122:9]** I pan rapaki ong uk me mau melel, pweki tanpas en Ieowa at Kot. 
+**[122:9]** I pan rapaki ong uk me mau melel, pweki tanpas en Ieowa at Kot.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Maing Ieowa, kom kotin maki ong, kotin maki ong kit! Pwe kit me dir en namenok.
 
-**[123:4]** Moniong i toutouki en me sued akan ar mamale kin kit o en me aklapalap akan ar kanamenok kin kit. 
+**[123:4]** Moniong i toutouki en me sued akan ar mamale kin kit o en me aklapalap akan ar kanamenok kin kit.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Ngen it piti sang insar en sauninsar dueta manpir amen; insar ola, a kit pitila.
 
-**[124:8]** Sauas pat iei mar en Ieowa, me kotin kapikadar lang o sappa. 
+**[124:8]** Sauas pat iei mar en Ieowa, me kotin kapikadar lang o sappa.
 
 ### Chapter 125
 
@@ -33474,13 +33474,13 @@
 
 **[125:4]** Maing Ieowa, kotin kasansaleda omui kalangan ong me mau kan o ong ir, me melel nan mongiong arail.
 
-**[125:5]** A me kin wuki wong ni al sapung, Ieowa pan kotin paki irail wei iangaki me sued akan. Israel en popol! 
+**[125:5]** A me kin wuki wong ni al sapung, Ieowa pan kotin paki irail wei iangaki me sued akan. Israel en popol!
 
 ### Chapter 126
 
 **[126:1]** NI ansau Ieowa kotin kapuredor me salidi en Israel akan, kit rasong ir, me auramen.
 
-**[126:2]** I ansau au at me dir en kaurur, o lo at me dir en ngisingis. I ansau men iki kan ap inda: Meid laud dodok en Ieowa re ’rail!
+**[126:2]** I ansau au at me dir en kaurur, o lo at me dir en ngisingis. I ansau men iki kan ap inda: Meid laud dodok en Ieowa re’rail!
 
 **[126:3]** Melel, dodok en Ieowa meid laud ong kit er, o i me se kin peren kida.
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** Me kamore kidi pil en mas arail, pan dolung ni peren.
 
-**[126:6]** Re kin weweidki sangesang, o kin wewa wa kasampwal, a ni ar puredo, re pan peren, wado ar kap en wa kan. 
+**[126:6]** Re kin weweidki sangesang, o kin wewa wa kasampwal, a ni ar puredo, re pan peren, wado ar kap en wa kan.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** Duen kanangan kasik katieu nan pa en ol komad amen, iduen putak ko ar pan pwaida.
 
-**[127:5]** Meid pai ol o, me a lepan me direki mepukat! Re sota pan sarodi, ni ar kapung pena ren ar imwintiti kan. 
+**[127:5]** Meid pai ol o, me a lepan me direki mepukat! Re sota pan sarodi, ni ar kapung pena ren ar imwintiti kan.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** Ieowa pan kapai uk ada sang nan Sion, pwe koe en kilang pai en Ierusalem arain om maur.
 
-**[128:6]** O koe pan kilang seri eu noum seri ko. Israel en popol! 
+**[128:6]** O koe pan kilang seri eu noum seri ko. Israel en popol!
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** Me sota kin kadirela kumut en pa en saundolung, de pa en me kin pir pena kap akan.
 
-**[129:8]** Pwe me kin daulul wasa o, ren der inda: Kot en kotin kupura maui komail! Kit kapai komail da ni mar en Ieowa! 
+**[129:8]** Pwe me kin daulul wasa o, ren der inda: Kot en kotin kupura maui komail! Kit kapai komail da ni mar en Ieowa!
 
 ### Chapter 130
 
@@ -33540,7 +33540,7 @@
 
 **[130:2]** Maing, kotin ereki ngil ai! Karong omui en mamangi ai ngidingid!
 
-**[130:3]** Ma komui Ieowa, pan kotin kapokonki ong aramas dip akan, Maing, is me ap pan kak kasinenda mo ’mui?
+**[130:3]** Ma komui Ieowa, pan kotin kapokonki ong aramas dip akan, Maing, is me ap pan kak kasinenda mo’mui?
 
 **[130:4]** A komui kin kotin mak, pwe aramas en masak komui.
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** Israel auiaui Ieowa, pwe Ieowa me kalangan, o wasa en kamaio mi re a;
 
-**[130:8]** A pan kotin dorela Israel sang dip a kan karos. 
+**[130:8]** A pan kotin dorela Israel sang dip a kan karos.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** Melel, i kamoleileilar mongiong i dueta kisin seri me muei sang didi en a nono; duen seri me muei sang didi en a nono, iduen mongiong i moleileilar.
 
-**[131:3]** Israel, auiaui Ieowa sang met o kokolata! 
+**[131:3]** Israel, auiaui Ieowa sang met o kokolata!
 
 ### Chapter 132
 
@@ -33590,13 +33590,13 @@
 
 **[132:14]** Iet wasan ai kamol kokolata; wata et, me I pan kaukauson ia, pwe wasa et I kin mauki.
 
-**[132:15]** I pan kapaiada kan a manga, o pan ki ong me samama re ’rail prot toto.
+**[132:15]** I pan kapaiada kan a manga, o pan ki ong me samama re’rail prot toto.
 
-**[132:16]** O I pan kalikauwi kida maur arail, samero kan, o me lelapok re ’rail pan ngisingis laud.
+**[132:16]** O I pan kalikauwi kida maur arail, samero kan, o me lelapok re’rail pan ngisingis laud.
 
 **[132:17]** I wasa mana en Dawid pan pwaida mau, I kaonopadang nai, me keidier, marain eu.
 
-**[132:18]** I pan kalikauwi kida namenok a imwintiti kan a kapwat en nanmarki pan mi pon monga. 
+**[132:18]** I pan kalikauwi kida namenok a imwintiti kan a kapwat en nanmarki pan mi pon monga.
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** A dueta le pon kadokenmai, me kin kerekeredi nan alis en Aron, me kin kerekeredi ni imwin a likau;
 
-**[133:3]** Dueta poik en Ermon, me kin moredi pon dol en Sion kan, pwe i wasa, me Ieowa pan kotin kapaiada o kamaurada kokolata. 
+**[133:3]** Dueta poik en Ermon, me kin moredi pon dol en Sion kan, pwe i wasa, me Ieowa pan kotin kapaiada o kamaurada kokolata.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Komail pokada pa omail nan pera saraui o kapinga Ieowa!
 
-**[134:3]** Ieowa kotin kapai uk ada sang nan Sion, i me kotin kapikadar lang o sappa. 
+**[134:3]** Ieowa kotin kapai uk ada sang nan Sion, i me kotin kapikadar lang o sappa.
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** Kadaudok en Lewi en kapinga Ieowa! Komail me masak Ieowa, en kapinga Ieowa!
 
-**[135:21]** Kaping ong Ieowa sang nan Sion, me kotikot Ierusalem! Aleluia! 
+**[135:21]** Kaping ong Ieowa sang nan Sion, me kotikot Ierusalem! Aleluia!
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** Me kotin kamanga me maur akan karos, pwe a kalangan pan potopot eta,
 
-**[136:26]** Danke ong Kot en nanlang, pwe a kalangan pan potopot eta. 
+**[136:26]** Danke ong Kot en nanlang, pwe a kalangan pan potopot eta.
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** Toun Papel, morsued koe, re meid pai, me pan wiai ong uk duen me koe wiadar!
 
-**[137:9]** Meid pai ir, me pan koledi noum seri pwelel o kasuk pasang nin takai! 
+**[137:9]** Meid pai ir, me pan koledi noum seri pwelel o kasuk pasang nin takai!
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Ni ai weweid nan kamasak melel, kom kin kotin kolekol ong ia maur i, o kom kin kapa wong lim omui pan makar en ai imwintiti kan, o kom sauasa ia da ki lim omui maun.
 
-**[138:8]** Ieowa pan kotin wiawia ia. Maing Ieowa, omui kalangan me pan potopot eta; Kom der kotin muei sang dodok en lim omui kan. 
+**[138:8]** Ieowa pan kotin wiawia ia. Maing Ieowa, omui kalangan me pan potopot eta; Kom der kotin muei sang dodok en lim omui kan.
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Maing Kot, kom kotin kasaui ia, o mangi duen mongiong i, kotin rapaki duen me i kin lamelame.
 
-**[139:24]** O kom kotin masani, ma i mi pon al sued, o kotin kalua ia pon al soutuk. 
+**[139:24]** O kom kotin masani, ma i mi pon al sued, o kotin kalua ia pon al soutuk.
 
 ### Chapter 140
 
@@ -33820,13 +33820,13 @@
 
 **[140:9]** Me sued kot, me ai imwintiti kaonopadang ia en sapal wong pein irail.
 
-**[140:10]** Kisiniai en moredi ong po ’rail; A en kotin kase irail di nan kisiniai, nan lapake, pwe ren solar pitila.
+**[140:10]** Kisiniai en moredi ong po’rail; A en kotin kase irail di nan kisiniai, nan lapake, pwe ren solar pitila.
 
 **[140:11]** Me lo a sued, ender pwaida nan sap o, ol morsued, me sued en pakipaki i, lao a pan pupedi.
 
 **[140:12]** I asa, me Ieowa pan kotin apapwali me luet akan, o sauas pung en me samama kan.
 
-**[140:13]** Melel, me pung kan pan kapinga mar omui, me melel akan pan mimieta mon silang ar. 
+**[140:13]** Melel, me pung kan pan kapinga mar omui, me melel akan pan mimieta mon silang ar.
 
 ### Chapter 141
 
@@ -33842,13 +33842,13 @@
 
 **[141:6]** Kalua parail en pisikendi sang pon paip; irail ap pan duki ong ai padak o asa, me ir me mau.
 
-**[141:7]** Duen amen pan wera pasang sap, iduen ti ’t akan, me lokidokila ni kailan wasan mela.
+**[141:7]** Duen amen pan wera pasang sap, iduen ti’t akan, me lokidokila ni kailan wasan mela.
 
 **[141:8]** Ari so, mas ai kin ariri komui, Maing ai Kot, i liki komui, kom der kotin kasapokela maur i.
 
 **[141:9]** Pera wei sang ia insar, me re kaonop ong ia, o song en men kol ia di ren me morsued akan.
 
-**[141:10]** Me doo sang Kot akan en pein lodi ong arail insar, a ngai en dauli. 
+**[141:10]** Me doo sang Kot akan en pein lodi ong arail insar, a ngai en dauli.
 
 ### Chapter 142
 
@@ -33864,13 +33864,13 @@
 
 **[142:6]** Kom kotin mangi ai weriwer, pwe ngai meid luet; dore ia la sang me kin pakipaki ia; pwe ngai sota itar ong ir.
 
-**[142:7]** Kalua sang ngen i nan imateng, pwe i en kapinga mar omui. Me pung kan pan pokon dong ia, ma kom pan kotin sauasa ia. 
+**[142:7]** Kalua sang ngen i nan imateng, pwe i en kapinga mar omui. Me pung kan pan pokon dong ia, ma kom pan kotin sauasa ia.
 
 ### Chapter 143
 
 **[143:1]** MAING Ieowa, kom kotin ereki ai kapakap, o karong ar en mangi ai ngidingid; mangi ia ni ar melel o ar pung.
 
-**[143:2]** Kom der kotin kadeikada sapwilim omui ladu, pwe mo ’mui sota me maur men me pung.
+**[143:2]** Kom der kotin kadeikada sapwilim omui ladu, pwe mo’mui sota me maur men me pung.
 
 **[143:3]** Pwe imwintiti kin masamasan ia, o kin tiakedi maur i; a kin kase ia di wasa rotorot dueta ir me melar mas o.
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** Maing Ieowa, kom kotin kamau ia da pweki mar omui; kalua ia sang nan wasa apwal ni omui pung.
 
-**[143:12]** O kotin kawela ai imwintiti kan, pweki omui kalangan; o kotin kamela karos me kin katoutoui ngen i, pwe ngai sapwilim omui ladu. 
+**[143:12]** O kotin kawela ai imwintiti kan, pweki omui kalangan; o kotin kamela karos me kin katoutoui ngen i, pwe ngai sapwilim omui ladu.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** O at kau ol en kak ong dodok toto, pwe sota me sued kot de men kuli, de sangesang en wiaui nan al at akan.
 
-**[144:15]** Meid pai wei eu, me kin due met! Meid pai wei eu, me Ieowa arail Kot! 
+**[144:15]** Meid pai wei eu, me kin due met! Meid pai wei eu, me Ieowa arail Kot!
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** Ieowa kin kotin sinsila karos, me pok ong i, a pan kamela me doo sang Kot akan karos.
 
-**[145:21]** Au ai pan kapinga Ieowa, o uduk karos kapinga mar a saraui ansau kan karos kokolata. 
+**[145:21]** Au ai pan kapinga Ieowa, o uduk karos kapinga mar a saraui ansau kan karos kokolata.
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** Ieowa kin kotin sinsila men wai kan, o sauasa me sapoupou o li odi kan, ap kotin kawela al en me doo sang Kot akan.
 
-**[146:10]** Ieowa iei Nanmarki soutuk, om Kot Sion kokolata. Aleluia! 
+**[146:10]** Ieowa iei Nanmarki soutuk, om Kot Sion kokolata. Aleluia!
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** A kotin kasansale ong Iakop a masan o ong Israel a kusoned o pung.
 
-**[147:20]** A sota kin kotin wia due ong eu wei, i me re sota kin asa ki a pung. Aleluia! 
+**[147:20]** A sota kin kotin wia due ong eu wei, i me re sota kin asa ki a pung. Aleluia!
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Irail karos en kapinga mar en Ieowa; pwe i eta mar, me lapalap, a manaman mi pon angin sappa o lang.
 
-**[148:14]** A kotin sauasa os en sapwilim a kan. Sapwilim a lelapok kan en kapinga i, kadaudok en Israel, iei wei, me kin upa i. Aleluia! 
+**[148:14]** A kotin sauasa os en sapwilim a kan. Sapwilim a lelapok kan en kapinga i, kadaudok en Israel, iei wei, me kin upa i. Aleluia!
 
 ### Chapter 149
 
@@ -34078,9 +34078,9 @@
 
 **[149:7]** Pwe ren depuk ong men liki kan, o kaloke wei kan,
 
-**[149:8]** Pwen salie kidi arail nanmarki kan sal, o me kasampwal re ’rail ki sal mata,
+**[149:8]** Pwen salie kidi arail nanmarki kan sal, o me kasampwal re’rail ki sal mata,
 
-**[149:9]** Pwe ren kapwaiada kalokolok, me kileledi ong irail er mas o. Iduen wau en sapwilim a lelapok kan. Aleluia! 
+**[149:9]** Pwe ren kapwaiada kalokolok, me kileledi ong irail er mas o. Iduen wau en sapwilim a lelapok kan. Aleluia!
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Kapinga i ki simpel; kapinga i ki simpel kaselel!
 
-**[150:6]** Karos, me kin memaur, en kapinga Ieowa! Aleluia! 
+**[150:6]** Karos, me kin memaur, en kapinga Ieowa! Aleluia!
 
 ## Proverbs
 
@@ -48288,17 +48288,17 @@
 
 **[2:3]** A nanmarki Erodes lao rongadar mepukat, ap landar o toun Ierusalem karos,
 
-**[2:4]** Ap kupokon pena samero lapalap karos o sounkawewe en aramas akan kainoma re ’rail, wasa Kristus pan ipwidi ia.
+**[2:4]** Ap kupokon pena samero lapalap karos o sounkawewe en aramas akan kainoma re’rail, wasa Kristus pan ipwidi ia.
 
 **[2:5]** Irail ari potoan ong i: Nan Petleem en Iudäa; pwe iduen a intingidi ren saukop o:
 
 **[2:6]** A koe Petleem, sap en Iuda, kaidin me tikitik nan pung en saupeidi en Iuda kan; pwe Kaun amen pan tapi sang uk, me pan kaunda nai aramas en Israel akan.
 
-**[2:7]** Erodes ap kawai pena ol lolekong kan, kalelapok mau re ’rail ansau o, me usu o pwarado.
+**[2:7]** Erodes ap kawai pena ol lolekong kan, kalelapok mau re’rail ansau o, me usu o pwarado.
 
 **[2:8]** I ari porone ir alang Petleem masani: Komail kowei raparapaki mau seri o; a komail lao diaradar, en kaireki dong ia, pwe i en pil kola pongi i.
 
-**[2:9]** Irail lao ronger nanmarki o ap koieila. A kilang usu o, me irail kilanger nan sap en mas en lang, ti ong mo ’rail, a lao udi ong wasa o, me seri pwelel kotikot ia.
+**[2:9]** Irail lao ronger nanmarki o ap koieila. A kilang usu o, me irail kilanger nan sap en mas en lang, ti ong mo’rail, a lao udi ong wasa o, me seri pwelel kotikot ia.
 
 **[2:10]** Irail lao kilanger usu o, re ap peren kida kaualapia.
 
@@ -48440,7 +48440,7 @@
 
 **[5:11]** Komail meid pai, ma irail lalaue o paki komail o palian komail ni arail lokaia sued o likam pweki ngai.
 
-**[5:12]** Komail insenemau o perenda kaualap; pweki katinge pamail me lapalap nanlang. Pwe iduen irail paki saukop oko, me mo ’mail.
+**[5:12]** Komail insenemau o perenda kaualap; pweki katinge pamail me lapalap nanlang. Pwe iduen irail paki saukop oko, me mo’mail.
 
 **[5:13]** Sol pan sappa komail. A ma sol sara sang, da me a pan soleki? Nan a pan me mal kot, men lokidokila, o aramas en tiak pasang.
 
@@ -48508,7 +48508,7 @@
 
 **[5:45]** Pwe komail en sapwilim en Sam omail, me kotikot nanlang. Pwe a kin kapwareda sapwilim a katipin pon me sued o me mau kan, o kotin kamoredi katau pon me pung o me sapung kan.
 
-**[5:46]** Pwe ma komail pok ong, me kin pok ong komail, da me pan kating pa ’mail? Saunopwei sota kin wia due met?
+**[5:46]** Pwe ma komail pok ong, me kin pok ong komail, da me pan kating pa’mail? Saunopwei sota kin wia due met?
 
 **[5:47]** O ma komail ranamau ong ri omail akan, da me komail sikiki sang me tei kan? Men liki kan sota kin wia due met?
 
@@ -48744,7 +48744,7 @@
 
 **[9:14]** En Ioanes a tounpadak kan ap pwara dong re a potoan ong: Da me kit o Parisär akan kin kaisesol pan pak toto, a sapwilim omui tounpadak kang sota kin kaisesol?
 
-**[9:15]** Iesus ap kotin masani ong irail: Da, toun kamadip en kapapaud pan kak kamauk ni ansau ol kamot mi re ’rail? A kadekadeo eu ran ol kamod pan peukawei sang irail, re ap pan kaisesol.
+**[9:15]** Iesus ap kotin masani ong irail: Da, toun kamadip en kapapaud pan kak kamauk ni ansau ol kamot mi re’rail? A kadekadeo eu ran ol kamod pan peukawei sang irail, re ap pan kaisesol.
 
 **[9:16]** Sota amen me kin deipinaki likau kap likau maring, pwe me depin a pan teirok sang likau o, a por o pan laudela.
 
@@ -48898,7 +48898,7 @@
 
 **[11:9]** De da me komail koieila en kilang? Saukop amen? Ei I indai ong komail a laude sang saukop amen.
 
-**[11:10]** Pwe iei i, me intingidier: Kilang I kadarala mo ’mui ai men kadar, me pan koko al mo ’mui.
+**[11:10]** Pwe iei i, me intingidier: Kilang I kadarala mo’mui ai men kadar, me pan koko al mo’mui.
 
 **[11:11]** Melel I indai ong komail, sota me ipwidi sang ren li akan, me laude sang Ioanes saunpaptais. Ari so, me tikitik nan wein nanlang, iei me laude sang i.
 
@@ -49172,7 +49172,7 @@
 
 **[14:5]** O a men kamela i, a a masak aramas akan, pwe re wiakin i saukop amen.
 
-**[14:6]** A en Erodes a ran en ipwidi wiauier, nain Erodias seripein ap kakalek mo ’rail, i me Erodes peren kidar.
+**[14:6]** A en Erodes a ran en ipwidi wiauier, nain Erodias seripein ap kakalek mo’rail, i me Erodes peren kidar.
 
 **[14:7]** I ari inauki ong i, me a pan ki ong i, meakaros, me a pan poeki, ap kotin kaula,
 
@@ -49188,7 +49188,7 @@
 
 **[14:13]** Iesus lao mangi mepukat, ap kotin iangalar sop pot, kotilang sap tan eu. Pokon lao rongadar, rap idauenla i sapasapal sang nan kanim akan.
 
-**[14:14]** A lao kotila sang wasa o, ap kotin masani pokon kalaimun, ap kupuro kin ir ala, o kotin kakelada, me somau re ’rail.
+**[14:14]** A lao kotila sang wasa o, ap kotin masani pokon kalaimun, ap kupuro kin ir ala, o kotin kakelada, me somau re’rail.
 
 **[14:15]** A lao sautik penaer sapwilim a tounpadak kan kaidong i potoan ong: Sap tan eu met o ansau daulier; re kotin kadar pasang pokon o, pwe ren kola nan kanim akan, netiada kang ar manga.
 
@@ -49376,7 +49376,7 @@
 
 **[17:1]** MURIN pong wonu pong Iesus ap kotin ukadar Petrus, o Iakopus, o ri a Ioanes kalua ir dalang pon nana ileila eu kalapuk.
 
-**[17:2]** I ari kotin linganla mo ’rail silang i lingaling dueta katipin, o sapwilim a likau o puetpuet eta marain eu.
+**[17:2]** I ari kotin linganla mo’rail silang i lingaling dueta katipin, o sapwilim a likau o puetpuet eta marain eu.
 
 **[17:3]** A kilang, Moses o Elias pwara dong ir, kasokasoi ong i.
 
@@ -49396,7 +49396,7 @@
 
 **[17:11]** A kotin sapeng masani ong irail: Nan melel, Elias pan pwarado mas kapungala karos.
 
-**[17:12]** A ngai indai ong komail, Elias me pwaradoer, a re sasa i, pwe irail wiai ong i meakan, me re men wiada. Iduen Nain aramas pil pan kamekam re ’rail.
+**[17:12]** A ngai indai ong komail, Elias me pwaradoer, a re sasa i, pwe irail wiai ong i meakan, me re men wiada. Iduen Nain aramas pil pan kamekam re’rail.
 
 **[17:13]** Tounpadak kan ap asadar, me a kotin masani ong irail duen Ioanes saunpaptais o.
 
@@ -49526,11 +49526,11 @@
 
 **[19:12]** Pwe akai mia, me udan sota unsok, a akai, me aramas ki sanger, a pil akai, me wia kapwat pweki wein nanlang. Meamen kak ong weweki, i en weweki.
 
-**[19:13]** Kisin seri kai ap wisike dong i, pwen pwil po ’rail lim a kan o laolaoki, a tounpadak kan kapoui irail.
+**[19:13]** Kisin seri kai ap wisike dong i, pwen pwil po’rail lim a kan o laolaoki, a tounpadak kan kapoui irail.
 
 **[19:14]** A Iesus kotin masani: Mueid ong kisin seri kan, en ko dong ia. Der kalik irail edi! Pwe iei song en me udan wein nanlang.
 
-**[19:15]** I ari kotikida po ’rail lim a kan, ap kotila sang wasa o.
+**[19:15]** I ari kotikida po’rail lim a kan, ap kotila sang wasa o.
 
 **[19:16]** O kilang, amen poto dong i potoan ong: Saunpadak da me mau kot, i en wiada, pwe i en aneki maur soutuk?
 
@@ -49588,7 +49588,7 @@
 
 **[20:12]** Indada: Mepukat dodok auer ta ieu, a komui karasai kit pena; kit me dodokki apwal en ran o karakar en katipin.
 
-**[20:13]** A ap kotin sapeng masani ong amen re ’rail: Kompoke pai, kaidin me sapung, me i wiai ong uk. Kita sota inauki pena denar eu?
+**[20:13]** A ap kotin sapeng masani ong amen re’rail: Kompoke pai, kaidin me sapung, me i wiai ong uk. Kita sota inauki pena denar eu?
 
 **[20:14]** Ale me om, kowei, i men pwain ong me pwand pukat rasong uk.
 
@@ -49646,7 +49646,7 @@
 
 **[21:6]** A tounpadak ko lao kolar, o wiadar duen Iesus kotin masani ong ira,
 
-**[21:7]** Ira ap wado esel o na, ap irepadi po ’ra arail likau kan a ap kotin kaipokedi poa.
+**[21:7]** Ira ap wado esel o na, ap irepadi po’ra arail likau kan a ap kotin kaipokedi poa.
 
 **[21:8]** O pokon kalaimunia irepadi arail likau kan nani al o, a akai paledier ran tuka kan irepadi nani al o.
 
@@ -49694,7 +49694,7 @@
 
 **[21:30]** O a kola ren me teio indai ong pil dueta. I me sapeng indada: Ei maing; ap sota kola.
 
-**[21:31]** Ari, is re ’ra, me wiadar insen en sam a? Irail potoan ong i: Men mas o. Iesus kotin masani ong irail: Melel I indai ong komail, saunopwei o me nenek kan pan mo ’mail pedelong ong nan wein Kot.
+**[21:31]** Ari, is re’ra, me wiadar insen en sam a? Irail potoan ong i: Men mas o. Iesus kotin masani ong irail: Melel I indai ong komail, saunopwei o me nenek kan pan mo’mail pedelong ong nan wein Kot.
 
 **[21:32]** Pwe Ioanes pwara dong komail, padapadak ong komail duen al pung, a komail sota kamelele i; a saunopwei o me nenek kan kamelele i. A komail lao kilanger, komail sota kalukila, pwen kamele i.
 
@@ -49808,7 +49808,7 @@
 
 **[22:40]** Kusoned riau met me audepan kapung o saukop akan.
 
-**[22:41]** Ni en Parisär akan ar momod pena, Iesus ap kotin kainoma re ’rail.
+**[22:41]** Ni en Parisär akan ar momod pena, Iesus ap kotin kainoma re’rail.
 
 **[22:42]** Masani: Da me komail lamelame duen Kristus, nain is i? Re potoan ong: Sapwilim en Dawid.
 
@@ -50162,7 +50162,7 @@
 
 **[26:31]** Iesus ap kotin masani ong irail: Komail karos pan makar kin ia pongpong wet, pwe a intingidier: I pan kame silepa o, a pwin sip o pan more pasang.
 
-**[26:32]** A murin ai maureda, I pan ti ong mo ’mail kola Kaliläa.
+**[26:32]** A murin ai maureda, I pan ti ong mo’mail kola Kaliläa.
 
 **[26:33]** A Petrus sapeng potoan ong i: Ma karos pan makar kin ir a ngai sota pan makar.
 
@@ -50238,7 +50238,7 @@
 
 **[26:69]** Petrus momod liki panakepir; lidu men ap ko dong i indada: Koe me pil iang Iesus en Kaliläa.
 
-**[26:70]** A i me kamamaki mo ’rail karos indada: I poneponeki me koe inda.
+**[26:70]** A i me kamamaki mo’rail karos indada: I poneponeki me koe inda.
 
 **[26:71]** A ni a pedoi wei sang nan wanim, amen lidu ap kilang i indang irail, me mi wasa o: Lap men et me pil iang Iesus en Nasaret.
 
@@ -50282,7 +50282,7 @@
 
 **[27:15]** Ari, ni kamadip o kopina kin lapwa ong irail amen me salidi, meamen, me re mauki,
 
-**[27:16]** A i ansau o ol amen, ad a Parapas, me salidi re ’rail.
+**[27:16]** A i ansau o ol amen, ad a Parapas, me salidi re’rail.
 
 **[27:17]** Irail lao pokon penaer, Pilatus ap masani ong irail: Is me komail mauki, i en lapwa dang komail, Parapas de Iesus, me maraneki Kristus?
 
@@ -50292,13 +50292,13 @@
 
 **[27:20]** A samero lapalap akan o saumas akan sairen kila pokon o, ar poekipoeki Parapas o kamatala Iesus.
 
-**[27:21]** A kopina sapeng masani ong irail: Is re ’ra, me komail mauki, i en lapwadang komail? Irail potoan ong: Parapas.
+**[27:21]** A kopina sapeng masani ong irail: Is re’ra, me komail mauki, i en lapwadang komail? Irail potoan ong: Parapas.
 
 **[27:22]** Pilatus ap masani ong irail: Da me i en wiaki Iesus, me maraneki Kristus? Irail karos potoan ong: A en kalopuela!
 
 **[27:23]** A kopina masani: Pwe sued da, me a wiadar? A re kalaudela ar weriwer: A pan kalopuela!
 
-**[27:24]** Pilatus lao kilang, me a sota kak wiada meakot, pwe moromorong pan wiaui, ap ale pil, omiom mo ’rail masani: Ngai makelekel sang ntan ol pung men et, komail pan wia.
+**[27:24]** Pilatus lao kilang, me a sota kak wiada meakot, pwe moromorong pan wiaui, ap ale pil, omiom mo’rail masani: Ngai makelekel sang ntan ol pung men et, komail pan wia.
 
 **[27:25]** Aramas karos ap wiaki eu sapeng indada: Nta en kapokon ong kit o nait seri kan!
 
@@ -50398,7 +50398,7 @@
 
 **[28:6]** A soer met, pwe a iasadar, duen a kotin masanier. Kodo udial wasa, me Kaun nekinekidi mas o,
 
-**[28:7]** O tangwei kaireki sapwilim a tounpadak kan, me a kotin iasadar sang ren me melar akan. A kilang a pan kotin tiong mo ’mail kotilang Kaliläa. I wasa komail pan diarada i. Kilang, i kop ong komail er.
+**[28:7]** O tangwei kaireki sapwilim a tounpadak kan, me a kotin iasadar sang ren me melar akan. A kilang a pan kotin tiong mo’mail kotilang Kaliläa. I wasa komail pan diarada i. Kilang, i kop ong komail er.
 
 **[28:8]** Ira ari madang sang ni sousou o masak o peren kaualap, o tangwei kaireki ong sapwilim a tounpadak kan.
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Komail ari kola o padaki ong toun sappa karos o paptais ir ala ni mar en Sam o Na o Ngen saraui.
 
-**[28:20]** Padaki ong irail, me ren dadaurata meakan, me I kakalik ong komail er. O kilang, I pan daudaulole komail sili kokolata, lao lel sappa imwisokela. 
+**[28:20]** Padaki ong irail, me ren dadaurata meakan, me I kakalik ong komail er. O kilang, I pan daudaulole komail sili kokolata, lao lel sappa imwisokela.
 
 ## Mark
 
@@ -50432,7 +50432,7 @@
 
 **[1:1]** TAPIN rongamau en Iesus Kristus, Sapwilim en Kot.
 
-**[1:2]** Duen a intingidi ren saukop Iesaia: Kilang, i kadarala mo ’mui ai men kadar me pan kaonopada al omui!
+**[1:2]** Duen a intingidi ren saukop Iesaia: Kilang, i kadarala mo’mui ai men kadar me pan kaonopada al omui!
 
 **[1:3]** Ngil eu likelikwir sili nan sap tan: Komail kaonopada al en Kaun o kaineneda al a!
 
@@ -50544,7 +50544,7 @@
 
 **[2:11]** I indai ong uk: Uda! Al eki om! U ko ong ni im om!
 
-**[2:12]** I ari madang uda, ale ki, aluwei mo ’rail karos. Irail karos ari malamalaua kila, kapinga Kot inda: Se saikenta man kilang meakot et!
+**[2:12]** I ari madang uda, ale ki, aluwei mo’rail karos. Irail karos ari malamalaua kila, kapinga Kot inda: Se saikenta man kilang meakot et!
 
 **[2:13]** I ari pil kotila liman sed o. Irail karos ap pokon dong i, i ari kotin kawewe ong irail.
 
@@ -50588,7 +50588,7 @@
 
 **[3:4]** A ap kotin masani ong irail: Me pung, wia mau ni ran en sapat de wia sued? Kamaur de kamela? Ir ari nenenla.
 
-**[3:5]** I ari angiang aupwili sili po ’rail, kupurokila ar kapitakai, ap kotin masani ong aramas o: Kapawei pa om! I ari kapawei. Pa a ap kelailada.
+**[3:5]** I ari angiang aupwili sili po’rail, kupurokila ar kapitakai, ap kotin masani ong aramas o: Kapawei pa om! I ari kapawei. Pa a ap kelailada.
 
 **[3:6]** Parisär oko ap madangalang ren iang en Erodes. Re ap kapakaparok duen ar pan kamatala i.
 
@@ -50646,7 +50646,7 @@
 
 **[3:33]** A ap kotin sapeng irail masani: Is in ai de ri ai kan?
 
-**[3:34]** A ap kotin aupwil sili po ’rail, me mod impa ko, masani: Kilang, in ai o ri ai ol akan!
+**[3:34]** A ap kotin aupwil sili po’rail, me mod impa ko, masani: Kilang, in ai o ri ai ol akan!
 
 **[3:35]** Pwe meamen wiawia kupur en Kot, iei me ri ai ol o ri ai li o in ai.
 
@@ -50684,7 +50684,7 @@
 
 **[4:16]** O mepukat me moredi ong wasan takain, re lao rongadar masan o ap madang peren kida ale.
 
-**[4:17]** A sota kalaua re ’rail ap dadaur eta ekis, lao songesong o kamekam wiaui pweki masan o, re ap madang makar kida.
+**[4:17]** A sota kalaua re’rail ap dadaur eta ekis, lao songesong o kamekam wiaui pweki masan o, re ap madang makar kida.
 
 **[4:18]** A mepukat me moredi ong nan tuka teketek, me rongada masan.
 
@@ -50932,7 +50932,7 @@
 
 **[6:54]** Irail lao keredi sang nan sop o, re ap madang asada i.
 
-**[6:55]** Re ap tang pasang wasa karos tapiada wa dong i me somau pon ro ’rail wasa re rong, me a kot ia.
+**[6:55]** Re ap tang pasang wasa karos tapiada wa dong i me somau pon ro’rail wasa re rong, me a kot ia.
 
 **[6:56]** O wasa, me a kot ia, kisin kanim laud akan de sap, re kin pwilikidi nani al akan me somau kan, ap poekipoeki, pwe re en sair kailan sapwilim a likau ta. Ari, me doke ko karos ap kelailada.
 
@@ -51054,7 +51054,7 @@
 
 **[8:20]** O isu nan pung en me pakid, kopou en maremor depa, me komail deukada? Re ap potoan: Me isu.
 
-**[8:21]** A ap kotin kainoma re ’rail: A da me komail sota dedeki?
+**[8:21]** A ap kotin kainoma re’rail: A da me komail sota dedeki?
 
 **[8:22]** A ap koti dong Petsaida. Re ap wa dong i maskun amen, poekipoeki en sair i.
 
@@ -51094,7 +51094,7 @@
 
 **[9:1]** A AP kotin masani ong irail: Melel I indai ong komail: Akai me iang mi met, sota pan mela, lao kilang wein Kot a kokido manaman.
 
-**[9:2]** Murin pong wonu pong Iesus ap kotin ukada Petrus o Iakopus o Ioanes kalua ir dalang pon nana ileile eu, ir kalapuk. I ari kotin wukila mo ’rail.
+**[9:2]** Murin pong wonu pong Iesus ap kotin ukada Petrus o Iakopus o Ioanes kalua ir dalang pon nana ileile eu, ir kalapuk. I ari kotin wukila mo’rail.
 
 **[9:3]** Sapwilim a likau ko lingalingala, puetepueteta sno. Sota saunlopolop nan sappa kak kapuetepuetetala dueta.
 
@@ -51106,7 +51106,7 @@
 
 **[9:7]** Pali en dapok pali ap kadupwal irail edi; o ngil eu peidido sang nan dapok o: I met nai. Ol kompok! Komail rong i!
 
-**[9:8]** Ari, re saliokeda, solar amen me re kilang, Iesus ta, me kotikot re ’rail.
+**[9:8]** Ari, re saliokeda, solar amen me re kilang, Iesus ta, me kotikot re’rail.
 
 **[9:9]** Ari, ni arail kotikot kotido sang nin nana o, a kotin kalik irail edi, re depa indai ong meamen, me re kilang ko, lao Nain aramas mauredar sang ren me melar akan.
 
@@ -51122,7 +51122,7 @@
 
 **[9:15]** Ni ar kilangadar i, pokon o ap puriamuiki la tangado ranamau ong i.
 
-**[9:16]** A ap kotin kainoma re irail: Peidok da kai, me komail idedok re ’rail?
+**[9:16]** A ap kotin kainoma re irail: Peidok da kai, me komail idedok re’rail?
 
 **[9:17]** Amen toun pokon o sapeng i potoan ong: Saunpadak, i potoan dong komui nai putak o, me ngen lotong mi poa.
 
@@ -51156,9 +51156,9 @@
 
 **[9:32]** A irail sota dedeki masan o; a re masak kalelapok re a.
 
-**[9:33]** A ap koti dong Kapernaum; ni a kotikot nan im o a ap kotin kainoma re ’rail: Da me komail akakamaiki nani al o?
+**[9:33]** A ap koti dong Kapernaum; ni a kotikot nan im o a ap kotin kainoma re’rail: Da me komail akakamaiki nani al o?
 
-**[9:34]** Irail ari nenenla, pwe re akamaiki nani al o, is me pan laud re ’rail.
+**[9:34]** Irail ari nenenla, pwe re akamaiki nani al o, is me pan laud re’rail.
 
 **[9:35]** I ari kotidi, molipedo ekriamen oko, ap masani ong irail: Meamen men moa, a en mi muri o papa ong karos.
 
@@ -51224,7 +51224,7 @@
 
 **[10:15]** Melel I indai ong komail, meamen, me sota ale wein Kot rasong kisin seri men, a sota pan pedelong ong lole.
 
-**[10:16]** A kotin palo irail edi, pwil po ’rail lim a ko, kapai irail ada.
+**[10:16]** A kotin palo irail edi, pwil po’rail lim a ko, kapai irail ada.
 
 **[10:17]** Ni a kotiieilang nani al o, meamen ap tang dong i, kelepukedi, kalelapok re a: Saunpadak mau, da me i en wia, pwe i en soki maur soutuk?
 
@@ -51256,7 +51256,7 @@
 
 **[10:31]** A me toto men moa, pan men murla, o men mur pan moala.
 
-**[10:32]** Ni arail kotikot kodalang Ierusalem, Iesus me kotin tiong mo ’rail; a irail puriamui kila, idedauen wapon. A ap kotin ale ekriamen oko, ap kotin tapiada masani ong irail, me pan wiaui ong i ko:
+**[10:32]** Ni arail kotikot kodalang Ierusalem, Iesus me kotin tiong mo’rail; a irail puriamui kila, idedauen wapon. A ap kotin ale ekriamen oko, ap kotin tapiada masani ong irail, me pan wiaui ong i ko:
 
 **[10:33]** Kilang, kitail kodalang Ierusalem. Nain aramas pan pangalang samero lapalap o saunkawewe kan; re ap pan kadeikada, en kamela, ap id kilang ren me kisan men liki kan.
 
@@ -51406,13 +51406,13 @@
 
 **[12:19]** Saunpadak, Moses intinge dong kit er, ma ri en ol amen mela, kidi a paud, sota na seri ko, a ri a ol ap pan id ale a paud, pwen wiada kadaudok a ong ri a ol o.
 
-**[12:20]** Ari pirien, ol isimen mia. Men mas re ’rail paude kida li amen ap melar, sota kadaudok a.
+**[12:20]** Ari pirien, ol isimen mia. Men mas re’rail paude kida li amen ap melar, sota kadaudok a.
 
 **[12:21]** Men muri ap id ale, ap melar, pil sota kadaudok a. A kasilimen pil dueta.
 
 **[12:22]** A irail isimen oko paude kida i, sota kadaudok a. Ari, murin karos li o ari pil melar.
 
-**[12:23]** Ran en iasada ni ar pan maureda, is me pan paudeki i re ’rail, pwe irail isimen oko paudekier i?
+**[12:23]** Ran en iasada ni ar pan maureda, is me pan paudeki i re’rail, pwe irail isimen oko paudekier i?
 
 **[12:24]** Iesus ap kotin sapeng, masani ong irail: Omail sota lelapokki kisin likau kan o roson en Kot, kaidik iei me kareda omail sas kida?
 
@@ -51588,7 +51588,7 @@
 
 **[14:27]** Iesus ap kotin masani ong irail: Komail karos pan makarada; pwe a intingidi: I pan kame silepa, ari pwin sip ap pan muei pasang.
 
-**[14:28]** A murin ai pan maureda, I pan tiong wei mo ’mail ong Kaliläa.
+**[14:28]** A murin ai pan maureda, I pan tiong wei mo’mail ong Kaliläa.
 
 **[14:29]** A Petrus potoan ong i: Karusia pan makar kila, a ngai so.
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Ari, Kaun o lao kotin masani ong irail mepukat, a ap peukadala nanlang o kotido ong pali maun en Kot.
 
-**[16:20]** Irail ap kola, padapadak sili wasa karos. A Kaun o kotin iang dodok, kameleleki masan manaman me iang. 
+**[16:20]** Irail ap kola, padapadak sili wasa karos. A Kaun o kotin iang dodok, kameleleki masan manaman me iang.
 
 ## Luke
 
@@ -52068,7 +52068,7 @@
 
 **[2:43]** Ran oko lao daulier, irail purelang sap arail, a seri Iesus kotikot eta Ierusalem, a sam o in a sota mangi.
 
-**[2:44]** A ira kiki ong, me a kotin iang kapar o tiong mo ’ra. Ira kokola ran eu, ap rapaki i nan pung en sau ’ra o ren men imp arail akan.
+**[2:44]** A ira kiki ong, me a kotin iang kapar o tiong mo’ra. Ira kokola ran eu, ap rapaki i nan pung en sau’ra o ren men imp arail akan.
 
 **[2:45]** Ni ara sota diaradar i, ira ap purelang Ierusalem rapaki i.
 
@@ -52206,7 +52206,7 @@
 
 **[4:20]** A kotin lim pena puk o ap kupure ong me papa men o kotidi. Mas en karos nan sinakoke kangkakil i.
 
-**[4:21]** I ari tapiada masani ong irail: Kisin likau wet pwaidar mo ’mail ran wet.
+**[4:21]** I ari tapiada masani ong irail: Kisin likau wet pwaidar mo’mail ran wet.
 
 **[4:22]** Ir karos ap kadede o puriamuiki masan kompok kan, me pwili sang silang i, ap indada: Kaidin i nain Iosep?
 
@@ -52218,7 +52218,7 @@
 
 **[4:26]** A sota amen, me Elias pakadar wong, pwe ren li odi men nan Sarepta nan sap Sidon.
 
-**[4:27]** O me tuketuk kan me toto nan Israel ni muein saukop Elias, a sota amen re ’rail, me kelailadar, pwe Naeman eta men Sirien.
+**[4:27]** O me tuketuk kan me toto nan Israel ni muein saukop Elias, a sota amen re’rail, me kelailadar, pwe Naeman eta men Sirien.
 
 **[4:28]** Karos, me mi nan sinakoke ni ar rongadar mepukat, ap makar kida kaualap,
 
@@ -52304,7 +52304,7 @@
 
 **[5:24]** A pwe komail en asa, me Nain aramas manaman ong lapwada dip akan nin sappa, iei me a kotin masanieki ong me kokon madak: I indai ong uk, uda, ale ki om kola deu om!
 
-**[5:25]** A madang uda mo ’rail, kida a pet, me a wonon poa, koieilang im a kapikapinga Kot.
+**[5:25]** A madang uda mo’rail, kida a pet, me a wonon poa, koieilang im a kapikapinga Kot.
 
 **[5:26]** Ir karos ap puriamui kida o kapikapinga Kot, o dire kila masak indada: Ran wet kitail kilanger me kapwuriamui melel.
 
@@ -52322,7 +52322,7 @@
 
 **[5:33]** Irail ap potoan ong i: Da me tounpadak en Ioanes akan kaisesol pan pak toto o re kapakap toto, o pil dueta en Parisär akan, a sapwilim omui kan kin tungole o nim?
 
-**[5:34]** A Iesus kotin masani ong irail: O komail sota kak ki ong toun kapar en kamadip en kapapaud en kaisesol arain ol kamod mi re ’rail!
+**[5:34]** A Iesus kotin masani ong irail: O komail sota kak ki ong toun kapar en kamadip en kapapaud en kaisesol arain ol kamod mi re’rail!
 
 **[5:35]** A eu ran ol kamod pan peuka wei sang irail, i ran oko re ap pan kaisesol.
 
@@ -52354,7 +52354,7 @@
 
 **[6:9]** Iesus ap kotin masani ong irail: I men idok re omail, da me pung en wiada ni ran en sapat ren me mau de me sued? En kolekol de kawela maur en aramas?
 
-**[6:10]** I ari kotin aupwil sili po ’rail masani ong i: Kapawei pa om! A ap wiada, pa a ap kelailada, a maula dueta me teio.
+**[6:10]** I ari kotin aupwil sili po’rail masani ong i: Kapawei pa om! A ap wiada, pa a ap kelailada, a maula dueta me teio.
 
 **[6:11]** Irail ap makaradar kaualap o kapukapung pena, da me re pan wiai ong Iesus.
 
@@ -52488,7 +52488,7 @@
 
 **[7:26]** De da me komail koieila en kilang? Saukop amen? Ei, I indai ong komail, a laude sang saukop amen.
 
-**[7:27]** Pwe iei i me intingidier due: Kilang, I kadarala mo mui nai men kadar amen, me pan koki al mo ’mui.
+**[7:27]** Pwe iei i me intingidier due: Kilang, I kadarala mo mui nai men kadar amen, me pan koki al mo’mui.
 
 **[7:28]** Pwe I indai ong komail, sota saukop amen me ipwi sang ren li akan, me laude sang Ioanes saunpaptais, ari so, me tikitik nan wein Kot, iei me laude sang i.
 
@@ -52518,7 +52518,7 @@
 
 **[7:41]** Ol amen mia, me aramas riamen pwaipwand ong. Amen ira pwaipwandeki denar limepuki, a amen limeisok,
 
-**[7:42]** A ni ara sota men kapungala, a kisakisa kin ira la karos. Indang ia, is re ’ra, me pan pok ong i laud?
+**[7:42]** A ni ara sota men kapungala, a kisakisa kin ira la karos. Indang ia, is re’ra, me pan pok ong i laud?
 
 **[7:43]** Simon sapeng potoan ong: I lamelame i, me a kisakis laud ong. A kotin masani ong i: Koe meid pung kasauiada.
 
@@ -52562,7 +52562,7 @@
 
 **[8:12]** A me mi pon kailan al o, iei ir, me rongadar, a muri tewil pwarada katia sang masan en Kot nan mongiong arail, pwe ren der poson, rap maurela.
 
-**[8:13]** A me mi pon paip, iei ir, me kin rong masan o ap pereperen ale, a sota kalau re ’rail. Ansau kis re kin poson, a ni ansaun songesong, irail kin pupe sang.
+**[8:13]** A me mi pon paip, iei ir, me kin rong masan o ap pereperen ale, a sota kalau re’rail. Ansau kis re kin poson, a ni ansaun songesong, irail kin pupe sang.
 
 **[8:14]** A me moredi nan tuka teketek, iei irail me kin rong, ap koieila tiropeki anan o pai, o inong sued en maur et, rap sokekila, ap sota wa.
 
@@ -52610,7 +52610,7 @@
 
 **[8:36]** Me iang udialer, ap kaire kin irail duen tanwar en tewil a kakeladar.
 
-**[8:37]** Men Kadara karos ap poekipoeki i, en koti wei sang re ’rail, pwe re masakadar kaualap. I ari kotida pon sop o, ap kotin purelar.
+**[8:37]** Men Kadara karos ap poekipoeki i, en koti wei sang re’rail, pwe re masakadar kaualap. I ari kotida pon sop o, ap kotin purelar.
 
 **[8:38]** A ol o, me tewil oko kodi sanger, poeki re a, en iang i; a Iesus sota kotin mueid ong i masani:
 
@@ -52686,7 +52686,7 @@
 
 **[9:17]** Irail sak, o karos medier, ap rikada dodo eisokriau luan kamadip o.
 
-**[9:18]** Kadekadeo ni a kotin laolao kelep, sapwilim a tounpadak kan iang i. A kotin kainoma re ’rail masani: Is me aramas kin inda me ngai?
+**[9:18]** Kadekadeo ni a kotin laolao kelep, sapwilim a tounpadak kan iang i. A kotin kainoma re’rail masani: Is me aramas kin inda me ngai?
 
 **[9:19]** Irail sapeng potoan ong: Ioanes saunpaptais, a akai me inda Elias, o pil akai kin inda, me dene saukop en kaua men iasadar.
 
@@ -52742,7 +52742,7 @@
 
 **[9:45]** A irail sota weweki masan wet, pwe a rir sang irail, i me irail sasaki. Irail ari masak kalelapok re a duen masan pot et.
 
-**[9:46]** Irail ap pil lamelame, is me pan lapalap re ’rail?
+**[9:46]** Irail ap pil lamelame, is me pan lapalap re’rail?
 
 **[9:47]** A Iesus lao kotin mangi ar lamelam nan mongiong arail, ap ale seri men, kida impa a,
 
@@ -52790,7 +52790,7 @@
 
 **[10:6]** A ma popol amen mi wasa o, omail popol pan mimieta re a, a ma so, omail popol pan pure dong komail.
 
-**[10:7]** A komail pan mimieta nan im ota, o manga o nim, me mi re ’rail pwe toun dodok me warong pwain a. Komail der pedoi sang nan eu im ap kolong ong nan eu.
+**[10:7]** A komail pan mimieta nan im ota, o manga o nim, me mi re’rail pwe toun dodok me warong pwain a. Komail der pedoi sang nan eu im ap kolong ong nan eu.
 
 **[10:8]** A ma komail pan pedelong nan eu kanim, o re pan kasamo komail, i wasa komail pan tungole, me pan wisike dong komail.
 
@@ -52866,7 +52866,7 @@
 
 **[11:1]** KADEKADEO ni a kotikot wasa kis pwen laolao, a lao kotin erelar, amen sapwilim a tounpadak kan ap potoan ong i: Maing re kotin padaki ong kit kapakap, dueta Ioanes kin padaki ong a tounpadak kan.
 
-**[11:2]** A ap kotin masani ong irail: Komail lao wia kapakap, ap inda: Sam at, mar omui en saraui, wei ’mui en pwaida,
+**[11:2]** A ap kotin masani ong irail: Komail lao wia kapakap, ap inda: Sam at, mar omui en saraui, wei’mui en pwaida,
 
 **[11:3]** Kotikido ran wet at tungol kaukaule.
 
@@ -52880,7 +52880,7 @@
 
 **[11:8]** I indai ong komail, ma a sota pan paurida o ki ong i aki kompokepa a, nan a pan paurida o ki ong, me itar ong i aki a ngidingid.
 
-**[11:9]** I indai ong komail, poeki, a komail pan tungole; rapaki, a komail pan diarada; letelet, a a pan ritida mo ’mail.
+**[11:9]** I indai ong komail, poeki, a komail pan tungole; rapaki, a komail pan diarada; letelet, a a pan ritida mo’mail.
 
 **[11:10]** Pwe karos me poekipoeki, kin tungole; o me kin rapaki, kin diarada; o me kin letelet, nan a pan ritida mo a.
 
@@ -53260,7 +53260,7 @@
 
 **[15:11]** A kotin masani: Aramas amen mia, me na ol riamen.
 
-**[15:12]** A me tikitik re ’ra indai ong sam a: Sam ai, kotiki dong ia pwais ai en soso, me udan ai. I ari nene ong ira ara dipisou kan.
+**[15:12]** A me tikitik re’ra indai ong sam a: Sam ai, kotiki dong ia pwais ai en soso, me udan ai. I ari nene ong ira ara dipisou kan.
 
 **[15:13]** A murin ran akai me tikitik ren ol oko ki pena a dipisou karos, ap sailokalang sap doo, wasa a kasela mal a kapwa kan nin tiak sued.
 
@@ -53274,7 +53274,7 @@
 
 **[15:18]** I pan uda purela ren sam ai indai ong i: Sam ai, i wiadar dip ong nanlang o ong komui.
 
-**[15:19]** I solar warong adaneki noumui putak, komui ari wia kin ia ladu ’mui men.
+**[15:19]** I solar warong adaneki noumui putak, komui ari wia kin ia ladu’mui men.
 
 **[15:20]** I ari uda purela ren sam a. A ni a mi wasa doo, sam a kilangada i, ap pokela, pitipiti dong i o polodi i, metik i.
 
@@ -53360,7 +53360,7 @@
 
 **[16:28]** Pwe ri ai ol me limen, me a pan kaasaki irail; pwe ren de lel ong wasa apwal wet!
 
-**[16:29]** A Apraam masani ong i: Moses o saukop akan mi re ’rail, ren nok rong irail.
+**[16:29]** A Apraam masani ong i: Moses o saukop akan mi re’rail, ren nok rong irail.
 
 **[16:30]** A ol o potoan ong: Kaidin sam (ai) Apraam, a ma amen sang ren me melar akan pan pwara dong irail, rap pan kalula.
 
@@ -53538,7 +53538,7 @@
 
 **[19:3]** A men kilang Iesus, pwen asa, is i, ap sota kak, pweki pokon o, o a sakakair.
 
-**[19:4]** I ari tiong mo ’rail, dauda nin tuka pot, pwen kak kilang i, pwe a pan kotin daulul wasa o.
+**[19:4]** I ari tiong mo’rail, dauda nin tuka pot, pwen kak kilang i, pwe a pan kotin daulul wasa o.
 
 **[19:5]** A lao lel wasa o Iesus ap kotin masanda diar i, masani ong i: Sakäus, madang daudi, pwe I pan pedelong ong nan im om ran wet.
 
@@ -53896,7 +53896,7 @@
 
 **[22:46]** Masani ong irail: Da me komail mamairki? Paurida o kapakap, pwe komail de ko ong nan songesong!
 
-**[22:47]** A ni a kotin masani mepukat, kilang, pokon o, o me adaneki Iudas, amen ir ekriamen, tiong mo ’rail, kaikai dong Iesus, pwen metik i.
+**[22:47]** A ni a kotin masani mepukat, kilang, pokon o, o me adaneki Iudas, amen ir ekriamen, tiong mo’rail, kaikai dong Iesus, pwen metik i.
 
 **[22:48]** A Iesus kotin masani ong i: Iudas, koe pan pang kila metik eu Nain aramas?
 
@@ -53974,7 +53974,7 @@
 
 **[23:13]** A Pilatus kapokon pena samero lapalap, o monsap, o aramas akan,
 
-**[23:14]** Ap masani ong irail: Komail wa dong ia aramas men et, dene kaweid sapung aramas akan. A kilang, i kalekalelapok re a mo ’mail, ap sota dip, me i diar ren aramas men et, duen me komail katikatipiaki i.
+**[23:14]** Ap masani ong irail: Komail wa dong ia aramas men et, dene kaweid sapung aramas akan. A kilang, i kalekalelapok re a mo’mail, ap sota dip, me i diar ren aramas men et, duen me komail katikatipiaki i.
 
 **[23:15]** Erodes pil so, pwe i kadar wong i komail. A kilang, sota me a wiadar pwen kame kila i.
 
@@ -54082,11 +54082,11 @@
 
 **[24:10]** Maria men Makdala, o Ioana, o Maria in en Iokopus, o me tei ko me iang irail, me kaireki mepukat ong wanporon akan.
 
-**[24:11]** A arail kasoi likamata kasoi likam pot re ’rail, ap sota kamelele.
+**[24:11]** A arail kasoi likamata kasoi likam pot re’rail, ap sota kamelele.
 
 **[24:12]** Petrus ap uda tangalang sousou o, rukedi ong lole, ap diarada, me likau linen akan ta wonon wasa kis, ap purodo sang o puriamui kida me wiauier.
 
-**[24:13]** A kilang ni ran ota riamen re ’rail momaitelang kisin kanim eu ad a Emaus; a doo sang Ierusalem mail wonu de isu.
+**[24:13]** A kilang ni ran ota riamen re’rail momaitelang kisin kanim eu ad a Emaus; a doo sang Ierusalem mail wonu de isu.
 
 **[24:14]** Ira ari kasokasoi penaer duen mepukat karos.
 
@@ -54122,7 +54122,7 @@
 
 **[24:30]** Kadekadeo ni a kotin iang ira ni tepel o, a kotin limada prot, laolaoki, a lao pilitiki pena, a kotiki ong ira.
 
-**[24:31]** Mas ara ap pad pasanger, ira ap asa i. A ap kotin soredi sang mo ’ra.
+**[24:31]** Mas ara ap pad pasanger, ira ap asa i. A ap kotin soredi sang mo’ra.
 
 **[24:32]** Ira ap inda nan pung ara: Mongiong ata sota mokimokid ni a kotin mamasani ong kita pon al o, ni a kotin kawewe ong kita kisin likau kan?
 
@@ -54146,7 +54146,7 @@
 
 **[24:42]** Rap ki ong i kisan mam inin o onik.
 
-**[24:43]** I ari konot mo ’rail.
+**[24:43]** I ari konot mo’rail.
 
 **[24:44]** A kotin masani ong irail: I masan akan, me I ki ong komail er, ni ai mimieta re omail, pwe karos en pwaida, me intingidier duen ngai nan kapung en Moses, o saukop akan, o psalm akan.
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Irail ari kaudok ong i, ap pure dong Ierusalem perenda kaualap;
 
-**[24:53]** O re potopot nan im en kaudok kapinga o kaudok ong Kot. 
+**[24:53]** O re potopot nan im en kaudok kapinga o kaudok ong Kot.
 
 ## John
 
@@ -54480,7 +54480,7 @@
 
 **[4:39]** Men Samaria toto kisan kanim o posonla i pweki kasoi en li o, me kadede: A kotin kasale ong ia karos, me i wiadar.
 
-**[4:40]** Men Samaria kan lao pokon dong i, rap poeki re a, en kotikot re ’rail. I ari kotikot ia pong ria pong.
+**[4:40]** Men Samaria kan lao pokon dong i, rap poeki re a, en kotikot re’rail. I ari kotikot ia pong ria pong.
 
 **[4:41]** A me toto me posonlar pweki a masan,
 
@@ -54504,7 +54504,7 @@
 
 **[4:51]** A ni a kodila, a ladu kan me tu ong i, kasoi ong i, me na putak mauredar.
 
-**[4:52]** I ap kalelapok re ’rail: Ansau da me a pikikidi maur? Irail indang i: Aio ni auer kaisu karakar ko sanger.
+**[4:52]** I ap kalelapok re’rail: Ansau da me a pikikidi maur? Irail indang i: Aio ni auer kaisu karakar ko sanger.
 
 **[4:53]** Sam o ap asadar, me i ansau, me Iesus kotin masani ong i: Noum ol memaur. I ari o na kan me posonla i.
 
@@ -54972,7 +54972,7 @@
 
 **[8:56]** Sam omail Apraam peren kida, me a pan kilang ai ran. I ari kilanger ap peren kidar,
 
-**[8:57]** Sus oko ap indang i: Par limeisok kaik dau po ’mui, a kom kilanger Apraam?
+**[8:57]** Sus oko ap indang i: Par limeisok kaik dau po’mui, a kom kilanger Apraam?
 
 **[8:58]** Iesus kotin masani ong irail: Melel, melel I indai ong komail, I mier mon Apraam.
 
@@ -55016,7 +55016,7 @@
 
 **[9:18]** Men Sus oko ap sota kamelele, me a ipwiki wei maskun, ap kilangada wasa. Irail lao ekeredo sam o in en me kilangada wasa.
 
-**[9:19]** Irail idok re ’ra: Nouma ol men et, me komail indinda, me a ipwiki wei maskun? Iaduen a ngarada wasa ansau wet?
+**[9:19]** Irail idok re’ra: Nouma ol men et, me komail indinda, me a ipwiki wei maskun? Iaduen a ngarada wasa ansau wet?
 
 **[9:20]** Sam a in a sapeng ir indada: Se asa, me nait ol et, me ipwiki wei maskun.
 
@@ -55070,7 +55070,7 @@
 
 **[10:3]** Iei me silepan wanim o kin ritingada mo a; a sip akan kin rong ngil a; i me ekereki na sip akan ad arail, kare irail wei.
 
-**[10:4]** A kin kapedoi na sip akan, ap tiong mo ’rail, o sip akan kin idedauen i, pwe re anlar ngil a.
+**[10:4]** A kin kapedoi na sip akan, ap tiong mo’rail, o sip akan kin idedauen i, pwe re anlar ngil a.
 
 **[10:5]** A re sota pan idauen, me re san, pwe re pan tang sang, pwe re san ngil arail.
 
@@ -55102,7 +55102,7 @@
 
 **[10:19]** Iei me Sus oko ap pil liak toror pasang pweki masan pukat.
 
-**[10:20]** Me toto re ’rail indada: A tanwar en tewil o iakalar. Menda komail rong i?
+**[10:20]** Me toto re’rail indada: A tanwar en tewil o iakalar. Menda komail rong i?
 
 **[10:21]** Akai me indada: Kaidik padak en tanwar en tewil pukat, da, tewil pan kak kapad pasang mas en me maskun amen?
 
@@ -55140,7 +55140,7 @@
 
 **[10:38]** A ma I kin wiawia, komail en posonki dodok kan, ma komail sota poson ia, pwe komail en asa o poson, me Sam ai podidi ong ia, o ngai podidi ong i.
 
-**[10:39]** Irail ap pil song saikidi i. I ari piti sang ni pa ’rail.
+**[10:39]** Irail ap pil song saikidi i. I ari piti sang ni pa’rail.
 
 **[10:40]** O kotin purelang palilan Iordan, wasa Ioanes kin wia paptais ia mas; I ari kotikot wasa o.
 
@@ -55268,7 +55268,7 @@
 
 **[12:1]** PONG wonu pong mon pasa Iesus kotilang Petanien, wasa Lasarus me melar, kauson ia, me Iesus kotin kamauredar sang ren me melar akan.
 
-**[12:2]** Irail ari kaonopada konot, pwe a en kotin kasipong re ’rail; Marta papa, a Lasarus amen irail me iang I kotikot ni tepel.
+**[12:2]** Irail ari kaonopada konot, pwe a en kotin kasipong re’rail; Marta papa, a Lasarus amen irail me iang I kotikot ni tepel.
 
 **[12:3]** Maria ap wado paun en men kei eu, udan pil en narde, me kasampwalia, keiedi ong ni aluwilu en Iesus o limwieki a pwilipeipei aluwilu a; a im o me dir kila po en men kei.
 
@@ -55338,7 +55338,7 @@
 
 **[12:36]** Poson marain, ni a mimi re omail, pwe komail en seri en marainla. Iesus kotin masani mepukat, ap kotila karukila pein i sang irail.
 
-**[12:37]** A i me kotin wiadar kilel toto mo ’rail, ari so, irail sota poson i,
+**[12:37]** A i me kotin wiadar kilel toto mo’rail, ari so, irail sota poson i,
 
 **[12:38]** Pwe kokop en saukop Iesaia en pwaida, me a masani: Kaun o, is me poson at kasoi? O is me lim en Kaun kasansal ong?
 
@@ -55448,9 +55448,9 @@
 
 **[14:1]** MONGIONG omail der padau! Komail kin poson Kot; en pil poson ia!
 
-**[14:2]** Nan tanpas en Sam ai pera toto mia. Ma so I pan indai ong komail. Pwe I kokolan kaonopada deu ’mail,
+**[14:2]** Nan tanpas en Sam ai pera toto mia. Ma so I pan indai ong komail. Pwe I kokolan kaonopada deu’mail,
 
-**[14:3]** Ma I kola kaonopada deu ’mail, I pan puredo, uk komail dong ia. Pwe wasa I kin mi ia, komail en pil mi ia.
+**[14:3]** Ma I kola kaonopada deu’mail, I pan puredo, uk komail dong ia. Pwe wasa I kin mi ia, komail en pil mi ia.
 
 **[14:4]** A komail asa, wasa I kola ia, o komail asa al o.
 
@@ -55658,7 +55658,7 @@
 
 **[17:12]** Ni ai mi re irail, I nikid irail er ni mar omui, me komui ki ong ia er; I nikid irail er; sota amen ir salongalar, seri salongala eta, pwe kisin likau en pwaida.
 
-**[17:13]** A met I koko wei re omui. I padaki wei mepukat nan sappa, pwe ai peren unsok en mi re ’rail.
+**[17:13]** A met I koko wei re omui. I padaki wei mepukat nan sappa, pwe ai peren unsok en mi re’rail.
 
 **[17:14]** I ki ong irail er omui masan, o sappa kailong kin irail er, pwe irail kaidin kisan sappa, dueta, ngai kaidin kisan sappa.
 
@@ -55874,7 +55874,7 @@
 
 **[20:9]** Pwe ira kaikenta weweki kisin likau, me a en iasada sang a matala,
 
-**[20:10]** Tounpadak ko ap pur onger nan deu ’ra.
+**[20:10]** Tounpadak ko ap pur onger nan deu’ra.
 
 **[20:11]** A Maria u liki sal ong sousou o sangesang. O ni a sangesang a poridi, kilanglong ong nan sousou o,
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** Iet tounpadak, me kadele mepukat o intingiedier mepukat; a se asa, me a kadede me melel.
 
-**[21:25]** A song toto, me Iesus kotin wiadar a ma irail karos pan intingidi, i lamelame, me sappa sota itar ong koledi puk kan, me pan intingidi. 
+**[21:25]** A song toto, me Iesus kotin wiadar a ma irail karos pan intingidi, i lamelame, me sappa sota itar ong koledi puk kan, me pan intingidi.
 
 ## Acts
 
@@ -55980,7 +55980,7 @@
 
 **[1:3]** Me a pil kotin kasansale ong pein i ieias ki kilel melel toto murin a kalokolok o a pwara dong irail ran paeisok o kapakaparokeki duen tiak en wein Kot.
 
-**[1:4]** A ni a kotikot re ’rail, a kotin kakaliki ong irail, ren der kowei sang Ierusalem, a ren auiaui, inau en Sam lao pwaidar, me komail ronga sang ia er.
+**[1:4]** A ni a kotikot re’rail, a kotin kakaliki ong irail, ren der kowei sang Ierusalem, a ren auiaui, inau en Sam lao pwaidar, me komail ronga sang ia er.
 
 **[1:5]** Pwe Ioanes wia paptais ki pil, a komail pan paptais kila Ngen saraui ni eu ran me koren.
 
@@ -55992,7 +55992,7 @@
 
 **[1:9]** A lao masanier mepukat, ap peukedalar ni ar kangkakil, pali en dapok pali idandalar i sang mon mas arail.
 
-**[1:10]** Ni ar kilekilang nanlang, ni ansaun a kotidala, kilang, ol riamen mi nan likau pwetepwet, kotikot re ’rail.
+**[1:10]** Ni ar kilekilang nanlang, ni ansaun a kotidala, kilang, ol riamen mi nan likau pwetepwet, kotikot re’rail.
 
 **[1:11]** Me pil masani: Ol en Kaliläa komail, da me komail sarakidang nanlang? Iei Iesus, me peukedala nanlang sang komail, a pan kotin puredo, duen komail udialer a kotidalar.
 
@@ -56132,7 +56132,7 @@
 
 **[3:4]** A Petrus i Ioanes masani i, ap masani ong: Saradang kit!
 
-**[3:5]** I ari saradang ira, kasikasiki, me a pan tungole meakot re ’ra.
+**[3:5]** I ari saradang ira, kasikasiki, me a pan tungole meakot re’ra.
 
 **[3:6]** Petrus ap kotin masani: Sota ai silper de kold, a meakot mi re i, me i pan ki ong uk: Ukida mar en Iesus Kristus en Nasaret o alu!
 
@@ -56190,7 +56190,7 @@
 
 **[4:6]** A samero lapalap Anas, o Kaipas, o Ioanes, o Aleksander, o karos, me kisan kainok en samero lapalap,
 
-**[4:7]** Irail pwiliki ira di nan pung arail, ap kainoma re ’ra: Ni kel en is, de ni mar en is, me komail wiaki met?
+**[4:7]** Irail pwiliki ira di nan pung arail, ap kainoma re’ra: Ni kel en is, de ni mar en is, me komail wiaki met?
 
 **[4:8]** Petrus me dir en Ngen saraui ap masani ong irail: Maing ko, saumas en wei o monsap en Israel komail,
 
@@ -56224,7 +56224,7 @@
 
 **[4:23]** Ira lao lapwadar, ap kola ren iang ara ko, kaireki meakan, me samero lapalap o saumas akan katiti ong ira.
 
-**[4:24]** A irail lao rongadar, rap wiaki eu potoan ong Kot: Maing ir me Kot, me kotin kapikadar lang o sappa, o madau o audepa ’ra karos.
+**[4:24]** A irail lao rongadar, rap wiaki eu potoan ong Kot: Maing ir me Kot, me kotin kapikadar lang o sappa, o madau o audepa’ra karos.
 
 **[4:25]** Ir me kotin masani ren Dawid, sapwilim ar ladu: Da me men liki kan lingarangaraki, o da me wei kan lamelameki me mal akan?
 
@@ -56306,7 +56306,7 @@
 
 **[5:26]** Kapin iangaki ladu kai ap koieila uk irail do, a re kadek ong irail, pwe re masak aramas akan, pwe re de kate irail.
 
-**[5:27]** Irail wa ir do, ap kidi ong mon kapung o, a samero lapalap idok re ’rail.
+**[5:27]** Irail wa ir do, ap kidi ong mon kapung o, a samero lapalap idok re’rail.
 
 **[5:28]** Masani: Kit so inapwi komail edi kaualap, me komail ender kawewe ni mar wet? A kilang, komail kadire kila Ierusalem omail lamalam o, o komail kin men kapokon ong kit ntan aramas men et.
 
@@ -56350,7 +56350,7 @@
 
 **[6:5]** Pokon o ari peren kida kaparok pot et. Re ap piladar Stepanus, ol amen, me dir en poson o Ngen saraui, pil Pilipus, o Prokorus, o Nikanor, o Timon, o Parmenas, o Nikolaus, proselite sang Antiokien amen.
 
-**[6:6]** Re kidang irail mon wanporon akan. Re lao kapakaper ap kidang po ’rail lim ar.
+**[6:6]** Re kidang irail mon wanporon akan. Re lao kapakaper ap kidang po’rail lim ar.
 
 **[6:7]** Masan en Kot ari pwaida kaualap, o tounpadak kan madang totolar nan Ierusalem, o samero toto pil iang lamalam o.
 
@@ -56422,7 +56422,7 @@
 
 **[7:25]** Pwe a kupura, me ri a ol akan pan dedeki, me Kot pan kotin kapiti kin ir sang lim a; a re sota dedeki,
 
-**[7:26]** A mandan ran o a kotila re ’rail ni ar akamai pena, ap men kotin kapol ira la, masani: Koma pirien eu, menda koma wia sapung nan pung oma?
+**[7:26]** A mandan ran o a kotila re’rail ni ar akamai pena, ap men kotin kapol ira la, masani: Koma pirien eu, menda koma wia sapung nan pung oma?
 
 **[7:27]** A me wiada sapung ong men imp a o sikon wei i, inda: Is me kasapwil uk adar, pwen at saumas o saunkapung?
 
@@ -56526,9 +56526,9 @@
 
 **[8:16]** Pwe a saikenta moredi ong amen irail. Re paptaiselar eta ni mar en Kaun Iesus.
 
-**[8:17]** Ira ari kotiki ong po ’rail lim ar akan, irail ap aleer Ngen saraui.
+**[8:17]** Ira ari kotiki ong po’rail lim ar akan, irail ap aleer Ngen saraui.
 
-**[8:18]** Simon lao kilanger, me Ngen saraui kokido en wanporon oko ara pwil po ’rail lim ar akan, ap men ki ong ira kisin moni.
+**[8:18]** Simon lao kilanger, me Ngen saraui kokido en wanporon oko ara pwil po’rail lim ar akan, ap men ki ong ira kisin moni.
 
 **[8:19]** Indada: Koma pil kotiki dong ia manaman wet, pwe ma i pan pwil pon amen pa i kat, i en ale Ngen saraui.
 
@@ -56652,7 +56652,7 @@
 
 **[9:38]** A Lida me koren iong Iope. Tounpadak kan lao ronger, me Petrus kotikot wasa o, rap kadarala ol riamen re a, poekipoeki: Kom der peikasal, koti dong kit!
 
-**[9:39]** Petrus ari kotida iang ir ala. I lao pwarado, re ap ukadala i pera poa, o li odi karos u impa, sangesang o kapwareda sakit o likau kan, me Torkas wiadar ni a mimi re ’rail.
+**[9:39]** Petrus ari kotida iang ir ala. I lao pwarado, re ap ukadala i pera poa, o li odi karos u impa, sangesang o kapwareda sakit o likau kan, me Torkas wiadar ni a mimi re’rail.
 
 **[9:40]** A Petrus kiiei sang ir karos, ap kelepuki kapakap, ap saupei ong kalep o masani: Tapea, paurida! I ari pad pasang, kilangada Petrus, ap modadar.
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Is me pan inapwiedi pil, me mepukat ender paptaisela, pwe re aleer Ngen saraui dueta kitail?
 
-**[10:48]** I ari masani, me ren paptaisela ni mar en Iesus Kristus. Irail ap poeki, a en mimieta re ’rail ran akai.
+**[10:48]** I ari masani, me ren paptaisela ni mar en Iesus Kristus. Irail ap poeki, a en mimieta re’rail ran akai.
 
 ### Chapter 11
 
@@ -56766,7 +56766,7 @@
 
 **[11:2]** Petrus lao pwara dong Ierusalem, me kisan sirkomsais oko ap akamai ong i indada:
 
-**[11:3]** Kom pwarala ren ol akai me so sirkomsais oko o manga re ’rail.
+**[11:3]** Kom pwarala ren ol akai me so sirkomsais oko o manga re’rail.
 
 **[11:4]** A Petrus pikikidi masani ong irail karos me wiauier irerokedo masani:
 
@@ -56790,7 +56790,7 @@
 
 **[11:14]** Me pan padaki ong uk, me koe o noumui kan karos pan maur kila.
 
-**[11:15]** Ni ai pikikidi padak, Ngen saraui ap moredi ong po ’rail, dueta a kotin moredi ong po ’tail ni tapi o.
+**[11:15]** Ni ai pikikidi padak, Ngen saraui ap moredi ong po’rail, dueta a kotin moredi ong po’tail ni tapi o.
 
 **[11:16]** Ngai ari tamanda masan en Kaun o, me a kotin masani: Melel, pil me Ioanes paptais kier, a komail pan paptais kila Ngen saraui.
 
@@ -56842,7 +56842,7 @@
 
 **[12:9]** I ari pedoido sang o idauenla i, o a sota dedeki, me melel en tounlang a wiawia. Pwe a kiki ong, me a auramandar.
 
-**[12:10]** Ira lao kotin daulier pwin en silepa kaieu, o kariau, ira ap lel ong wanim mata, me salong kanim, i me pein ritida mo ’ra. Ira ari kotila pon al apot. A tounlang ap madang kotin rir sang mo a.
+**[12:10]** Ira lao kotin daulier pwin en silepa kaieu, o kariau, ira ap lel ong wanim mata, me salong kanim, i me pein ritida mo’ra. Ira ari kotila pon al apot. A tounlang ap madang kotin rir sang mo a.
 
 **[12:11]** A Petrus lao dedeki me wiauier, ap masaniada: I ap asa melel, me Kaun o kotin poronedo sapwilim a tounlang o kapit ia sang ni pa en Erodes o sang en Sus akan ar masamasan.
 
@@ -56880,7 +56880,7 @@
 
 **[13:2]** A ni arail papa ong Kaun o, o kaisesol, Ngen saraui ap kotin masani: Katorore sang ong ia Parnapas o Saulus, pwen wia dok eu, me I ki ong ira er!
 
-**[13:3]** Irail ap kaisesol o kapakap o kidang po ’ra pa ar, re ap kadar ira wei.
+**[13:3]** Irail ap kaisesol o kapakap o kidang po’ra pa ar, re ap kadar ira wei.
 
 **[13:4]** Ira ari me pakadara kila Ngen saraui ap kotila Seloisia, wasa ira kereda pon sop pot tangalang Sipern.
 
@@ -57010,7 +57010,7 @@
 
 **[14:14]** A wanporon oko Parnapas i Paulus lao mangi mepukat, ira ap ter pasang ara likau o tang wong nan pung en aramas akan likelikwir:
 
-**[14:15]** Maing ko, da me komail wiawiaki mepukat? Kit aramas dueta komail, ap padaki ong komail, pwe komail en wuki sang kot mal pukat, wuki ong Kot ieias, me kotin kapikadar lang, o sappa, o sed, o audepa ’rail karos.
+**[14:15]** Maing ko, da me komail wiawiaki mepukat? Kit aramas dueta komail, ap padaki ong komail, pwe komail en wuki sang kot mal pukat, wuki ong Kot ieias, me kotin kapikadar lang, o sappa, o sed, o audepa’rail karos.
 
 **[14:16]** Me kotin mueid ong toun sap karos en wia pein insen ar mas o.
 
@@ -57110,7 +57110,7 @@
 
 **[15:35]** A Paulus i Parnapas kotikoteta Antiokien, kawewedar o padapadaki masan en Kaun o, o me toto pil iang.
 
-**[15:36]** Kadekadeo murin ran akai Paulus masani on Parnapas: Kita pan purela ren saulang kan, me mi kanim akan, wasa kita padakier duen masan en Kaun o, o kalekalelapok due ’rail.
+**[15:36]** Kadekadeo murin ran akai Paulus masani on Parnapas: Kita pan purela ren saulang kan, me mi kanim akan, wasa kita padakier duen masan en Kaun o, o kalekalelapok due’rail.
 
 **[15:37]** A Parnapas men ukada Ioanes, me pil ad a Markus.
 
@@ -57170,7 +57170,7 @@
 
 **[16:23]** Irail wokiwoki ira pan pak toto, rap kase ira di nan imateng o kapiedi silepa o, en katengeteng ira di.
 
-**[16:24]** A lao aleer kusoned wet ap kase ira di ong nan warong, en imateng o saliedi aluwilu ’ra nin tuka kai.
+**[16:24]** A lao aleer kusoned wet ap kase ira di ong nan warong, en imateng o saliedi aluwilu’ra nin tuka kai.
 
 **[16:25]** A lao ni ailep en pong Paulus o Silas kapakap o melkaka ong Kot, o me salidi ko rongerong ira,
 
@@ -57190,7 +57190,7 @@
 
 **[16:33]** I ari uk ira ni auer ota ni pong o, widen ara pwal oko. I o na kan karos ap madang paptaiselar.
 
-**[16:34]** I ap kalua wong ira nan im a, ap kida mo ’ra kisin manga, o peren kidar a posonla Kot, i o iang a kan.
+**[16:34]** I ap kalua wong ira nan im a, ap kida mo’ra kisin manga, o peren kidar a posonla Kot, i o iang a kan.
 
 **[16:35]** A lao ran pasang, saupeidi ko poronela papa ko indada: Lapwada aramas pukat!
 
@@ -57200,7 +57200,7 @@
 
 **[16:38]** A papa ko kaireki saupeidi kan masan pukat. Irail ap masakadar ni ar rongadar, me ira men Rom.
 
-**[16:39]** Irail ari kodo, poeki re ’ra o wa ira la sang, o ngidingideki ira, en sapal wei sang nan kanim o.
+**[16:39]** Irail ari kodo, poeki re’ra o wa ira la sang, o ngidingideki ira, en sapal wei sang nan kanim o.
 
 **[16:40]** Ira ari pedoido sang nan imateng o, ap kotila ren Lidia. Ira lao tu ong saulang kan, ap panaui irail o sipale wei.
 
@@ -57208,7 +57208,7 @@
 
 **[17:1]** IRA kotin weid nan Ampipolis o Apolonia, ap pwara dong Tesalonik, wasa sinakoke en Sus oko mi ia.
 
-**[17:2]** Paulus ap kotilong ong re ’rail duen a kin wiawia o iang ir kapakaparok pena sang kisin likau kan ni ran en sapat silu.
+**[17:2]** Paulus ap kotilong ong re’rail duen a kin wiawia o iang ir kapakaparok pena sang kisin likau kan ni ran en sapat silu.
 
 **[17:3]** A kotin padaki o kasaleda, me Kristus udan kalokolok o iasada sang ren me melar akan, o me Iesus men et, me i kawewe ong komail, me Kristus.
 
@@ -57270,7 +57270,7 @@
 
 **[17:32]** Irail lao rongadar duen mauredan me melar akan akai ap lalaue, a akai inda: Se men pur ong rong sang komui duen met.
 
-**[17:33]** Paulus ari kotila sang re ’rail.
+**[17:33]** Paulus ari kotila sang re’rail.
 
 **[17:34]** A ol akai waroki ong i o posonlar. Amen ir Dionisius kisan saunkapung kan; a li amen, me ad a Damaris, o pil akai iang irail.
 
@@ -57278,9 +57278,9 @@
 
 **[18:1]** MURIN mepukat a kotila sang Aten o kotilang Korint,
 
-**[18:2]** A lao diaradar Sus amen me ad a Akwila me ipwidier Pontus, me apton kodo sang Italien o a paud Prisila, aki Klaudius masani, me Sus oko karos en kokoke sang Rom, i ari kotilang re ’ra.
+**[18:2]** A lao diaradar Sus amen me ad a Akwila me ipwidier Pontus, me apton kodo sang Italien o a paud Prisila, aki Klaudius masani, me Sus oko karos en kokoke sang Rom, i ari kotilang re’ra.
 
-**[18:3]** O kotikot re ’ra, iang dodok, pwe ira song ta ieu wiada im likau.
+**[18:3]** O kotikot re’ra, iang dodok, pwe ira song ta ieu wiada im likau.
 
 **[18:4]** O ni ran en sapat karos a kin kotin padapadak nan sinakoke o kalekalolekonge men Sus o men Krik kan.
 
@@ -57314,7 +57314,7 @@
 
 **[18:19]** I ari supi ong Episus, pwilikidi ong ira wasa o, a pein i kotilong ong nan sinakoke o kaparok ong Sus oko.
 
-**[18:20]** Irail poeki i, en mimieta re ’rail ansau warai, a sota kotin duki ong.
+**[18:20]** Irail poeki i, en mimieta re’rail ansau warai, a sota kotin duki ong.
 
 **[18:21]** O a kotin kamurimuri ong irail masani: I udan iang kamadip kokodo nan Ierusalem. A ma Kot pan kotin mueid ong ia, i pan pure dong komail. A ap kotin masel sang Episus.
 
@@ -57328,7 +57328,7 @@
 
 **[18:26]** I ari tapiada aima padapadak nan sinakoke. A Akwila o Prisila lao rong i, ap uke dong ira i, kawewe ong i al en Kot.
 
-**[18:27]** A lao men kola Akaia, saulang kai ap inting wong tounpadak kan, poeki re ’rail, ren kasamo i. I lao pwarado, ap sauasa irail, me poson kilar mak en Kot.
+**[18:27]** A lao men kola Akaia, saulang kai ap inting wong tounpadak kan, poeki re’rail, ren kasamo i. I lao pwarado, ap sauasa irail, me poson kilar mak en Kot.
 
 **[18:28]** Pwe a manaman ong Sus akan, kasale ong irail sang kisin likau kan me Iesus me Kristus.
 
@@ -57344,7 +57344,7 @@
 
 **[19:5]** Irail lao rongadar met, re ap paptais ong mar en Kaun Iesus.
 
-**[19:6]** Paulus lao kotin pwil po ’rail lim a kan, Ngen saraui ap kotidi po ’rail, irail ari lokaia ngil toror pasang o deideikop.
+**[19:6]** Paulus lao kotin pwil po’rail lim a kan, Ngen saraui ap kotidi po’rail, irail ari lokaia ngil toror pasang o deideikop.
 
 **[19:7]** A ir ol oko me ekriamen.
 
@@ -57396,7 +57396,7 @@
 
 **[19:31]** O saumas en Asien kai, me kompokepa kan, ilake dong i, panaui i, ender kotilang im en madong o.
 
-**[19:32]** Ari, akai wia eu song en lokaia, a akai eu, pwe pokon o pingidar. A me toto re ’rail sasa karep en ar pokon pena.
+**[19:32]** Ari, akai wia eu song en lokaia, a akai eu, pwe pokon o pingidar. A me toto re’rail sasa karep en ar pokon pena.
 
 **[19:33]** Irail sikon sang nan pokon o Aleksander; Sus oko me sikonla i. A Aleksander olol ong irail, ap men sapeng pokon o.
 
@@ -57408,7 +57408,7 @@
 
 **[19:37]** Pwe komail ukedo ol pukat, me sota kin kuliada im en kaudok o, pil sota lalaue omail kot li.
 
-**[19:38]** A ma Demetrius o iang a kan mauki meakot ren amen, kapung ap pan wiaui, pwe saunkapung kai mia, ren kapukapung re ’rail.
+**[19:38]** A ma Demetrius o iang a kan mauki meakot ren amen, kapung ap pan wiaui, pwe saunkapung kai mia, ren kapukapung re’rail.
 
 **[19:39]** A ma komail mauki eu song toror, i me pan kapungala nan kapung o.
 
@@ -57428,7 +57428,7 @@
 
 **[20:5]** Mepukat tiong mas ap aui kit nan Troas.
 
-**[20:6]** Murin kamadip en prot somut se serok wei sang Pilipi, tangatangki ran limau kokola re ’rail Troas, wasa se mimi ia ran isu.
+**[20:6]** Murin kamadip en prot somut se serok wei sang Pilipi, tangatangki ran limau kokola re’rail Troas, wasa se mimi ia ran isu.
 
 **[20:7]** A ni ran kaieu en wik, ni at pokon pena, pwen pilitiki pena prot, Paulus ap kotin padaki ong irail. A mandan ran o a pan samala. A kotin kawarailar a padak lao lel ailep en pong.
 
@@ -57506,9 +57506,9 @@
 
 **[21:5]** Kadekadeo kit lao kaimwisokila ran oko, se ap masel kokola. Irail karos me likid kit lel likin kanim, li o seri kan pil iang; kit ap kelepuki ni oror, o kapakap.
 
-**[21:6]** Kit lao kamurimur pena, se ap kereda pon sop o, a irail purelang deu ’rail.
+**[21:6]** Kit lao kamurimur pena, se ap kereda pon sop o, a irail purelang deu’rail.
 
-**[21:7]** Kit tangatang kodo sang Tirus ap ko dong Ptolomais; kit ap ranamaui saulang kan o kairu re ’rail ran eu.
+**[21:7]** Kit tangatang kodo sang Tirus ap ko dong Ptolomais; kit ap ranamaui saulang kan o kairu re’rail ran eu.
 
 **[21:8]** A mandan ran o se maseler, ap lel ong Säsarea, kit ap pedelong ong nan im en saunpadak Pilipus, me kisan isimen oko, o mimieta re a.
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Me kodo kadeikada i, ap madang pure sang i, o kaun lapalap lao asadar, me i ol en Rom amen, a pil masakadar, pweki a saliedi i.
 
-**[22:30]** A mandan ran o a inong iong melel asa karep en Sus oko ar pangala i, ap lapwada i o kapokon pena samero lapalap o toun kapung o, ap wadila Paulus o kotikidi ong i mo ’rail.
+**[22:30]** A mandan ran o a inong iong melel asa karep en Sus oko ar pangala i, ap lapwada i o kapokon pena samero lapalap o toun kapung o, ap wadila Paulus o kotikidi ong i mo’rail.
 
 ### Chapter 23
 
@@ -57692,7 +57692,7 @@
 
 **[23:26]** Ngai Klaudius Lisias kadar wong komui maing kopina Peliks ai ranamau.
 
-**[23:27]** Ol men et, me Sus oko saikidier, o metar kis a pan kamela re ’rail. A ngai ukada saunpei kei dorela i ni ai rongada, me i men Rom amen.
+**[23:27]** Ol men et, me Sus oko saikidier, o metar kis a pan kamela re’rail. A ngai ukada saunpei kei dorela i ni ai rongada, me i men Rom amen.
 
 **[23:28]** A ni ai men kalelapok, da me re weiweilokedi i, i ap wadila ren ar kapung o.
 
@@ -57748,7 +57748,7 @@
 
 **[24:18]** I ansau, me re diar ia makelekeladar nan im en kaudok o sota weriwer de moromorong.
 
-**[24:19]** A ir pukat Sus akai nan Asien menda re sota mi met mo ’mui, kadede ngai, ma re diar me sued kot re i?
+**[24:19]** A ir pukat Sus akai nan Asien menda re sota mi met mo’mui, kadede ngai, ma re diar me sued kot re i?
 
 **[24:20]** De mepukat en pein kasansaleda sapung da, me re diar re i ni ai mi mon kapung o.
 
@@ -57778,7 +57778,7 @@
 
 **[25:5]** A me lapalap re omail pan kak iang ia kodila o kadede ol o, ma dip a mia.
 
-**[25:6]** A lao kotikot re ’rail pong walu pong de ngaul, ap kotidilang Säsarea o mandan ran o a kaipokedi pon mol en kadeik o masani, Paulus en wisikedo.
+**[25:6]** A lao kotikot re’rail pong walu pong de ngaul, ap kotidilang Säsarea o mandan ran o a kaipokedi pon mol en kadeik o masani, Paulus en wisikedo.
 
 **[25:7]** A lao pwarador, Sus oko, me kodido sang Ierusalem, ap kapil pena i o kadipe i kaualap, ap sota kak kadededa.
 
@@ -57818,7 +57818,7 @@
 
 **[25:25]** A i lao diarada, me sota me a wiadar, me war ong kamela o pein i dorolang Aukustus, ngai ap kileledier me i pan kadarala i.
 
-**[25:26]** A sota me i asa, en intingiedi wong nai saupeidi. I me i waki dong komail i, mo ’mui ta maing nanmarki Akripa, pwe kapung lao nikier, i en asa, da me i en intingieki wei.
+**[25:26]** A sota me i asa, en intingiedi wong nai saupeidi. I me i waki dong komail i, mo’mui ta maing nanmarki Akripa, pwe kapung lao nikier, i en asa, da me i en intingieki wei.
 
 **[25:27]** Pwe i lamelame, me sapung, en kadarala me salidi amen, ap sota kaireki duen karep en salidi.
 
@@ -57826,7 +57826,7 @@
 
 **[26:1]** AKRIPA ap masani ong Paulus: Koe me saladoklar en kapakaparok ki pein uk. Paulus ap kapa wei lim a, kadededar pein i:
 
-**[26:2]** I ap peren kidar maing nanmarki Akripa, me i pan kapakaparok mo ’mui ran wet duen meakan, me Sus oko pang kin ia la,
+**[26:2]** I ap peren kidar maing nanmarki Akripa, me i pan kapakaparok mo’mui ran wet duen meakan, me Sus oko pang kin ia la,
 
 **[26:3]** Pwe komui me erekilar en Sus oko ar lamalam o peipeidok kan, i ap poeki re omui, en kotin kanongama mamangi ia.
 
@@ -57844,7 +57844,7 @@
 
 **[26:10]** I me i pil wiadar nan Ierusalem; o me saraui kan toto me i saliedier ong nan imateng murin ai aleer manaman sang ren samero lapalap akan o irail lao kamelar, ngai pil sauasa.
 
-**[26:11]** I kame irail pan pak toto nan sinakoke kan karos, o koidong ong irail, re en lalaue, o ngai lingarangar kaualap pa ’rail; i kin kame irail lel ong kanim en wai kan.
+**[26:11]** I kame irail pan pak toto nan sinakoke kan karos, o koidong ong irail, re en lalaue, o ngai lingarangar kaualap pa’rail; i kin kame irail lel ong kanim en wai kan.
 
 **[26:12]** A ni ai wiawia mepukat, o kokolang Damaskus ni manaman en samero lapalap,
 
@@ -57958,7 +57958,7 @@
 
 **[27:34]** Ngai ari panauki komail, en manga, pwe i me komail pil pan piti kila. Pwe sota pit en mong pit pan pupedi sang amen komail.
 
-**[27:35]** A lao masanier met, ap ale prot, danke Kot mo ’rail karos. I lao pilitiki pasang ap sak.
+**[27:35]** A lao masanier met, ap ale prot, danke Kot mo’rail karos. I lao pilitiki pasang ap sak.
 
 **[27:36]** Irail karos ap kaporopor maular o pil manga.
 
@@ -58006,7 +58006,7 @@
 
 **[28:13]** O sang wasa o se pidok tangatang lela dong Rekium, o manda ang air irepokedo o pong ta pong se lel ong Puteoli.
 
-**[28:14]** I wasa o se tu ong ia saulang kai, me poeki re at, sen mondi re ’rail pong isi pong. Kit ari tangatang kokolang Rom.
+**[28:14]** I wasa o se tu ong ia saulang kai, me poeki re at, sen mondi re’rail pong isi pong. Kit ari tangatang kokolang Rom.
 
 **[28:15]** O saulang kan en wasa o lao rongadar duen kit, re ap kodo tu ong kit Apipor o Tretapern; Paulus lao diar ir ada, ap kapinga Kot o kaporopor maular.
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** A Paulus kotikot nan im eu, me a kin isesa par riau, o kasamo karos, me ko dong i,
 
-**[28:31]** Kaweweda wein Kot o aima padapadaki duen Kaun Iesus Kristus pwe sota me inapwiedi. 
+**[28:31]** Kaweweda wein Kot o aima padapadaki duen Kaun Iesus Kristus pwe sota me inapwiedi.
 
 ## Romans
 
@@ -58096,7 +58096,7 @@
 
 **[1:25]** Me kawukila melel en Kot ong likam, ap pongi o papa ong dipisou mon Saun wia meakaros, me iasanai potepoteta amen.
 
-**[1:26]** Nan i me Kot mueidela kin ir ong inong sued akan, en lel ong arail li akan, en wuki sang ira ’rail, kaokaoe ira ’rail.
+**[1:26]** Nan i me Kot mueidela kin ir ong inong sued akan, en lel ong arail li akan, en wuki sang ira’rail, kaokaoe ira’rail.
 
 **[1:27]** Pil dueta ol akan liki sang iran li, ap kalel nan pung arail; ol asada ol, me so kon, ap pein kapokala nan war arail mangidi en ar wiawia kan.
 
@@ -58650,7 +58650,7 @@
 
 **[11:13]** Pwe men liki komail, me i men padaki ong, pwe ngai wanporon en men liki kan, i men kaindinda ai dodok.
 
-**[11:14]** Pwe ma i kak ong, i pan kainong irail, me kit eu ni pali uduk pwe akai re ’rail en dorela.
+**[11:14]** Pwe ma i kak ong, i pan kainong irail, me kit eu ni pali uduk pwe akai re’rail en dorela.
 
 **[11:15]** Pwe ma arail kalikilar id kalamalam maula sappa, arail kasapaledo so pan kamaurela sang ren me melar akan?
 
@@ -58746,7 +58746,7 @@
 
 **[13:2]** Ari, me pan katiwo ong kaun akan kin katiwo ong kusoned en Kot, a me katiwo kan, pan lodi ong kapung.
 
-**[13:3]** Pwe saupeidi kan sota kin kamasakki, me kin wia mau, pwe me kin wia me sued. A ma koe sota men masak kaun akan, en wiada me mau, koe ap pan indandeki pa ’rail.
+**[13:3]** Pwe saupeidi kan sota kin kamasakki, me kin wia mau, pwe me kin wia me sued. A ma koe sota men masak kaun akan, en wiada me mau, koe ap pan indandeki pa’rail.
 
 **[13:4]** Pwe a papan Kot o iei me mau ong uk, a ma koe wia me sued, masak, pwe a sota kin wa mal kodlas. Pwe a papan Kot o, pwen kame me wia sued.
 
@@ -58784,7 +58784,7 @@
 
 **[14:6]** Meamen me moaki ran eu, Kaun o me a moaki ong, me kin manga, Kaun o me a manga ong, pwe a kin dangke Kot, o me sota manga, nan Kaun o me a so manga ong, ap kin danke Kot.
 
-**[14:7]** Pwe sota meamen re ’tail kin memaur iong pein i, o sota me kin mela ong pein i.
+**[14:7]** Pwe sota meamen re’tail kin memaur iong pein i, o sota me kin mela ong pein i.
 
 **[14:8]** Pwe ma kitail memaur, Kaun o me kitail kin memaur iong, o kitail mela, Kaun o me kitail pan mela ong, ari, kitail memaur de mela, sapwilim en Kaun o kitail.
 
@@ -58914,9 +58914,9 @@
 
 **[16:13]** Ranamau ong Rupus, me pilipildar ren Kaun o o in a pil in ai.
 
-**[16:14]** Ranamau ong Asinkritus, Plekon, Ermas, Patropas, Ermes o ri atail akan, me mi re ’rail.
+**[16:14]** Ranamau ong Asinkritus, Plekon, Ermas, Patropas, Ermes o ri atail akan, me mi re’rail.
 
-**[16:15]** Ranamau ong Pilolokus, o Iulia, o Nereus, ri ai li, o Olimpas, o saraui kan karos, mi re ’rail.
+**[16:15]** Ranamau ong Pilolokus, o Iulia, o Nereus, ri ai li, o Olimpas, o saraui kan karos, mi re’rail.
 
 **[16:16]** Komail ranamauki pena metik saraui. Momodisou en Kristus akan kin ranamau ong komail.
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** A met a sansaledar, pwe kisin likau en saukop akan kaloki ong men liki kan karos duen kusoned en Kot ieias, pwe ren poson o peik;
 
-**[16:27]** I Kot eta me erpit, lingan en ko ong i ki Iesus Kristus kokolata! Amen. 
+**[16:27]** I Kot eta me erpit, lingan en ko ong i ki Iesus Kristus kokolata! Amen.
 
 ## I Corinthians
 
@@ -59200,7 +59200,7 @@
 
 **[6:18]** Komail tange wei sang nenek, pwe dip karos, me aramas kin wia, kin wiaui likin war a, a me kin nenek, kin wiada dip ong pein war a.
 
-**[6:19]** De komail so asa, me war omail tanpas en Ngen saraui me kotikot lol omail, me komail aleer sang ren Kot, a kaidin uta ’mail komail.
+**[6:19]** De komail so asa, me war omail tanpas en Ngen saraui me kotikot lol omail, me komail aleer sang ren Kot, a kaidin uta’mail komail.
 
 **[6:20]** Pwe komail neti kidar pai eu, komail ari kalinganada Kot ki war omail.
 
@@ -59378,9 +59378,9 @@
 
 **[10:3]** O karos tungoler sak ngenin,
 
-**[10:4]** O karos nim sang pil ngenin; pwe irail nim sang paip ngenin, me kotikot re ’rail, iei paip o Kristus.
+**[10:4]** O karos nim sang pil ngenin; pwe irail nim sang paip ngenin, me kotikot re’rail, iei paip o Kristus.
 
-**[10:5]** A me toto re ’rail, me Kot sota kak kupuramauki, pwe irail lokidokilar nan sap tan.
+**[10:5]** A me toto re’rail, me Kot sota kak kupuramauki, pwe irail lokidokilar nan sap tan.
 
 **[10:6]** A mepukat wiauier, pwe kitail de kaalemongi, pwe kitail ender inong iong me sued akan duen irail inong iong.
 
@@ -59598,11 +59598,11 @@
 
 **[13:12]** Pwe ansau wet kitail kin irerong nan klas edied eu, a mur a pan sansal mau. Ansau wet i ekis lolekonglar, a mur i pan asa duen a asa ia.
 
-**[13:13]** Ari song silu pukat: Poson, kaporopor o limpok pan mimieta, a me lapalap re ’rail limpok.
+**[13:13]** Ari song silu pukat: Poson, kaporopor o limpok pan mimieta, a me lapalap re’rail limpok.
 
 ### Chapter 14
 
-**[14:1]** KOMAIL anane limpok, pil inong iong pai ngenin akan, a iet me kasampwal re ’rail, kokopada!
+**[14:1]** KOMAIL anane limpok, pil inong iong pai ngenin akan, a iet me kasampwal re’rail, kokopada!
 
 **[14:2]** Pwe me kin lokaia kida ngil en wai, kaidin aramas akan, me a kin lokaia ong, a ong Kot, pwe sota amen kin dedeki; ari so, ni ngen o a kin lokaia kida me rir akan.
 
@@ -59670,7 +59670,7 @@
 
 **[14:34]** Omail li akan en nenenla nan momodisou kan, pwe a sota muei ong irail, en kaparok; a irail en papa, duen kapung me pil masani.
 
-**[14:35]** A ma irail men asa okotme, irail en kalelapok ren arail warok kan ni deu ’rail, pwe me kanamenok, li en kaparok nan momodisou.
+**[14:35]** A ma irail men asa okotme, irail en kalelapok ren arail warok kan ni deu’rail, pwe me kanamenok, li en kaparok nan momodisou.
 
 **[14:36]** De masan en Kot tapi sang komail? De a ko wong komail eta?
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Mak en Kaun Iesus Kristus en mimieta re omail!
 
-**[16:24]** Ai limpok ong komail pan Kristus Iesus pan mimieta re omail! Amen. 
+**[16:24]** Ai limpok ong komail pan Kristus Iesus pan mimieta re omail! Amen.
 
 ## II Corinthians
 
@@ -59986,7 +59986,7 @@
 
 **[4:4]** Me kot en sappa wet karotongala nan mongiong en me soposon akan, pwe ren der kilang marain en rongamau duen lingan en Kristus me mom en Kot.
 
-**[4:5]** Pwe kit sota kin padaki duen pein kit, a duen Kristus Iesus, me i Kaun, a kit ladu ’mail pweki Iesus.
+**[4:5]** Pwe kit sota kin padaki duen pein kit, a duen Kristus Iesus, me i Kaun, a kit ladu’mail pweki Iesus.
 
 **[4:6]** Pwe Kot me masanier, marain en pwarada sang ni rotorot, me kotin kamarainiedar nan mongiong it, pwe sen maraineki o dedeki lingan en Kot ni silang en Iesus Kristus.
 
@@ -60032,7 +60032,7 @@
 
 **[5:8]** Ari so, kitail kin insenemau o inong iong muei sang war atail, ap mimi nan deu atail ren Kaun o.
 
-**[5:9]** Nan i me kitail kin nantiong kaperen i, ma ni deu ’tail de ni at doo wei sang.
+**[5:9]** Nan i me kitail kin nantiong kaperen i, ma ni deu’tail de ni at doo wei sang.
 
 **[5:10]** Pwe kitail karos pan sansal mon mol en kadeik en Kristus, pwe amen amen en ale pwain en a wiawia arain a maur ni pali war, ma me mau de me sued.
 
@@ -60082,7 +60082,7 @@
 
 **[6:11]** Men Korint, au at ritidang komail, o nan mongiong it me laudi ong komail.
 
-**[6:12]** Kaidin me tikitik deu ’mail nan mongiong it, a mongiong omail me tikitik.
+**[6:12]** Kaidin me tikitik deu’mail nan mongiong it, a mongiong omail me tikitik.
 
 **[6:13]** I kin padaki ong komail dueta ong seri kan, pwe komail en pil wiai ong ia dueta, o kalaudela nan mongiong omail.
 
@@ -60090,7 +60090,7 @@
 
 **[6:15]** De iaduen Kristus o Pelial ara kak parok pena? De da pwais en me poson ren me soposon?
 
-**[6:16]** De tanpas en Kot pan kak pat ong ani mal akan? Pwe tanpas en Kot ieias iei komail, duen Kot kotin masanier: I pan kauson re ’rail o daudaulole irail, o Ngai pan arail Kot, a irail pan nai aramas akan.
+**[6:16]** De tanpas en Kot pan kak pat ong ani mal akan? Pwe tanpas en Kot ieias iei komail, duen Kot kotin masanier: I pan kauson re’rail o daudaulole irail, o Ngai pan arail Kot, a irail pan nai aramas akan.
 
 **[6:17]** Komail ari muei sang irail o katoror sang pein komail, me Kaun o kotin masani, o ender doke me kasaut kot, Ngai ap pan apwali komail,
 
@@ -60388,7 +60388,7 @@
 
 **[13:12]** Komail ranamauki pena metik saraui. En saraui kan karos ar ranamau wong komail.
 
-**[13:13]** Mak en Kaun Iesus Kristus, o limpok en Kot, o atail saupena ren Ngen saraui en kotikot re omail karos! Amen. 
+**[13:13]** Mak en Kaun Iesus Kristus, o limpok en Kot, o atail saupena ren Ngen saraui en kotikot re omail karos! Amen.
 
 **[13:14]** 
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Sang met kokolata sota amen en morouo ong ia, pwe i wa sili ta nan war ai lip en Iesus akan.
 
-**[6:18]** Mak en atail Kaun Iesus Kristus en kotikot ren ngen omail ri ai kan! Amen. 
+**[6:18]** Mak en atail Kaun Iesus Kristus en kotikot ren ngen omail ri ai kan! Amen.
 
 ## Ephesians
 
@@ -60784,7 +60784,7 @@
 
 **[2:14]** Pwe i atail popol, me wia kin ira eu, o me kotin kawela kel o, me mi nan pung ara,
 
-**[2:15]** Ni a kotiki sang imwintiti re ’ra ki pali uduk a. Iei kapung o me audekier kusoned akan, pwe en kotin wia kin ir ala aramas kap ta men ong pein i.
+**[2:15]** Ni a kotiki sang imwintiti re’ra ki pali uduk a. Iei kapung o me audekier kusoned akan, pwe en kotin wia kin ir ala aramas kap ta men ong pein i.
 
 **[2:16]** Pwen kalolamaui ong Kot ira ni war ta ieu pan lopu murin a kotin tiakedi imwintiti ki lopu.
 
@@ -60990,7 +60990,7 @@
 
 **[6:5]** Komail ladu kan en oke omail saumas akan ni pali uduk ni masak o rerer o pil ni tiak en karakarak en mongiong omail dueta ong Kristus.
 
-**[6:6]** Kaidin sansal mon aramas eta, pwen konekon re ’rail, a en dueta ladu en Kristus, me kin pereperen wiawia kupur en Kot sang mongiong omail.
+**[6:6]** Kaidin sansal mon aramas eta, pwen konekon re’rail, a en dueta ladu en Kristus, me kin pereperen wiawia kupur en Kot sang mongiong omail.
 
 **[6:7]** O komail en papa mau, pwe ong Kaun o, a kaidin ong aramas akan.
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Popol ong ri atail, o limpok iangaki poson sang ren Kot Sam o Kaun Iesus Kristus!
 
-**[6:24]** Mak en mimi ren karos, me kin pok ong atail Kaun Iesus Kristus kokolata! 
+**[6:24]** Mak en mimi ren karos, me kin pok ong atail Kaun Iesus Kristus kokolata!
 
 ## Philippians
 
@@ -61192,7 +61192,7 @@
 
 **[3:18]** Pwe pan pak toto i indang komail er duen me toto, me kin kekeid wei, a met i indang komail ki sangesang, me irail imwintiti pan lopu en Kristus,
 
-**[3:19]** Me pan lokidokila ni imwi ’rail, me wia aniki kaped arail, me ar wau pan soredi, me kin paieki dipisou en sappa.
+**[3:19]** Me pan lokidokila ni imwi’rail, me wia aniki kaped arail, me ar wau pan soredi, me kin paieki dipisou en sappa.
 
 **[3:20]** A deu atail mi nanlang, wasa me se kin auiaui Kaun Iesus Kristus atail Saunkamaur pan pwarado sang ia.
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Saraui kan karos kin ranamau wong komail, pil toun im en Sisa mon karos.
 
-**[4:23]** Mak en atail Kaun Iesus Kristus en mi ren ngen omail! Amen. 
+**[4:23]** Mak en atail Kaun Iesus Kristus en mi ren ngen omail! Amen.
 
 ## Colossians
 
@@ -61394,7 +61394,7 @@
 
 **[3:18]** Komail li akan udi ong omail warok kan ni Kaun o, duen me kon ong.
 
-**[3:19]** Komail ol akan, pok ong omail warok kan o der makar pa ’rail.
+**[3:19]** Komail ol akan, pok ong omail warok kan o der makar pa’rail.
 
 **[3:20]** Komail seri kan, peiki ong me wia komail da ni meakaros, pwe i me kon ong Kaun o.
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Komail indai ong Arkipus: Kanekanai ong dodok, me koe aleer sang ren Kaun o, pwe koe en kapwaiada.
 
-**[4:18]** Iet ngai Paulus intingki pa i ai ranamau. Tamatamanda ai salidi. Mak en mimieta re omail! 
+**[4:18]** Iet ngai Paulus intingki pa i ai ranamau. Tamatamanda ai salidi. Mak en mimieta re omail!
 
 ## I Thessalonians
 
@@ -61502,7 +61502,7 @@
 
 **[2:15]** Me pil kamatalar Kaun Iesus, o saukop akan, me re kaloke, o re sota konekon ren Kot, o re kin palian aramas akan karos.
 
-**[2:16]** O re kainapwi sang kit, ender padak ong men liki kan, pwe ren der maurela, pwe re kin kadirela dip arail ansau karos, a ongiong mi po ’rail.
+**[2:16]** O re kainapwi sang kit, ender padak ong men liki kan, pwe ren der maurela, pwe re kin kadirela dip arail ansau karos, a ongiong mi po’rail.
 
 **[2:17]** A kit ri ai kan ni at doo wei sang komail ansau kis ni pali war at, a kaidin ni mongiong it, se ap nantiong o inong iong melel kilang mas omail.
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** I kauki ong Kaun, me komail pan wadok kisin likau kis et ong saulang saraui kan karos.
 
-**[5:28]** Mak en atail Kaun Iesus Kristus en mi re omail! 
+**[5:28]** Mak en atail Kaun Iesus Kristus en mi re omail!
 
 ## II Thessalonians
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Ngai Paulus ranamau ni mangin pa i, me kisin likau karos kilelekidi, iduen ai inting.
 
-**[3:18]** Mak en atail Kaun Iesus Kristus en mi re omail karos! 
+**[3:18]** Mak en atail Kaun Iesus Kristus en mi re omail karos!
 
 ## I Timothy
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** O Timoteus, pereki pai, me pangalang re om, ni om liki sang poupou mal kai o padak likam en me aklolekong.
 
-**[6:21]** Me akai lodi ong ap salongala sang poson. Mak o en me re om! 
+**[6:21]** Me akai lodi ong ap salongala sang poson. Mak o en me re om!
 
 ## II Timothy
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Kaporisokki uk, pwen kodo mon ansaun kapau. En Eupulus a ranamau wong uk, o pil en Pudens, o Linus, o Klaudia, o ri atail karos.
 
-**[4:22]** Kaun o en kotikot ni ngen om! Mak en mi re omail! 
+**[4:22]** Kaun o en kotikot ni ngen om! Mak en mi re omail!
 
 ## Titus
 
@@ -62250,9 +62250,9 @@
 
 **[3:13]** Saunkawewe Senas o Apolos kadara dong ia madang. Sauasa ira, pwe ira de anane meakot.
 
-**[3:14]** O naitail akan en porisok o koiokki ong wiawia mau, pwe ren der so wa ’rail.
+**[3:14]** O naitail akan en porisok o koiokki ong wiawia mau, pwe ren der so wa’rail.
 
-**[3:15]** Karos, me mi re i, kin ranamau wong uk. Ranamau wong karos, me kin pok ong kit ni poson. Mak o en mi re omail karos! 
+**[3:15]** Karos, me mi re i, kin ranamau wong uk. Ranamau wong karos, me kin pok ong kit ni poson. Mak o en mi re omail karos!
 
 ## Philemon
 
@@ -62268,7 +62268,7 @@
 
 **[1:5]** Pwe i ronger duen omui limpok o poson ong Kaun Iesus o ong saraui kan karos.
 
-**[1:6]** Pwe poson o me mi re ’tail en kakairida re omui, ni omui dedeki duen me mau kan karos, me mi reatail sang ren Kristus.
+**[1:6]** Pwe poson o me mi re’tail en kakairida re omui, ni omui dedeki duen me mau kan karos, me mi reatail sang ren Kristus.
 
 **[1:7]** Kit peren kidar o kamait kilar omui limpok, pwe mongiong en saraui kan en kelail kilar komui, ri ai.
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** O Markus, o Aristarkus, o Demas, o Lukas ai warok en dodok kan.
 
-**[1:25]** Mak en atail Kaun Iesus Kristus kin iang ngen omail! Amen. 
+**[1:25]** Mak en atail Kaun Iesus Kristus kin iang ngen omail! Amen.
 
 ## Hebrews
 
@@ -62490,7 +62490,7 @@
 
 **[6:3]** A i me kitail pan wiada, ma Kot pan kotin mueid ong.
 
-**[6:4]** Pwe a so kak pa ’rail, me marainlar, o me wewekier kisakis sang lang, o audaudkier Ngen saraui,
+**[6:4]** Pwe a so kak pa’rail, me marainlar, o me wewekier kisakis sang lang, o audaudkier Ngen saraui,
 
 **[6:5]** O lolekong kilar masan en Kot mau, o manaman en muei mau kokodo,
 
@@ -62604,7 +62604,7 @@
 
 **[8:10]** A iet inau o, me I pan wiai ong men Israel murin ran oko, me Kaun o kotin masani: I pan audeki ngen arail ai kapung, o intingiedi nan mongiong arail, I pan wiala arail Kot, o re pan wiala nai aramas.
 
-**[8:11]** Sota amen me pan padaki ong men imp a, o ri a indinda: Lelapokki Kaun! Pwe amen amen pan lelapok kin ia sang ren me tikitik o lel ong me lapalap re ’rail.
+**[8:11]** Sota amen me pan padaki ong men imp a, o ri a indinda: Lelapokki Kaun! Pwe amen amen pan lelapok kin ia sang ren me tikitik o lel ong me lapalap re’rail.
 
 **[8:12]** Pwe I pan makeki ong ir ar sapung kan, o dip arail I solar pan tamanda.
 
@@ -62832,7 +62832,7 @@
 
 ### Chapter 12
 
-**[12:1]** ARI, pweki saunkadede pukat, me ras ong dapok kalaimun eu, me kapil pena kitail, kitail en meui sang katoutou patail o dip, me kin kolekole kitail, ap dadaurata tang ni weir, me mi mo ’tail.
+**[12:1]** ARI, pweki saunkadede pukat, me ras ong dapok kalaimun eu, me kapil pena kitail, kitail en meui sang katoutou patail o dip, me kin kolekole kitail, ap dadaurata tang ni weir, me mi mo’tail.
 
 **[12:2]** Ududial Iesus, me tapi pan o kaimwisoke pan atail poson, me sota kotin kupukupure peren me moa, ap kotin kanongama ni lopu, mamaleki kanamenokpa, ap kotidi ni pali maun en mol en Kot.
 
@@ -62840,7 +62840,7 @@
 
 **[12:4]** Pwe komail saikenta kelail ong en palian dip, me kareda kamela.
 
-**[12:5]** O komail monokelar kamait pa ’mail, me padaki ong komail ni tiak en seri: Nai ol, koe der rongarongan soreki kapung en Kaun o, o der luetalar ni a pan kotin kapung uk ala.
+**[12:5]** O komail monokelar kamait pa’mail, me padaki ong komail ni tiak en seri: Nai ol, koe der rongarongan soreki kapung en Kaun o, o der luetalar ni a pan kotin kapung uk ala.
 
 **[12:6]** Pwe Kaun o kin kotin kame, me a kin pok ong o kin kaloke seri karos, me a pan sapwilimaneki.
 
@@ -62918,7 +62918,7 @@
 
 **[13:13]** Kitail ari en koie lang re a likin kanim o iang i kankaururla.
 
-**[13:14]** Pwe sota atail kanim potopot met, a kitail raparapaki eu, me mi mo ’tail.
+**[13:14]** Pwe sota atail kanim potopot met, a kitail raparapaki eu, me mi mo’tail.
 
 **[13:15]** Kitail ari poden mairongki kaping ong Kot ren (Iesus); iei wan kilin aua, me kadededa mar a.
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Ranamau ong omail kaun akan karos o me saraui kan karos. Men Italien kan ar ranamau wong komail.
 
-**[13:25]** Mak en mi re omail karos! 
+**[13:25]** Mak en mi re omail karos!
 
 ## James
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Ri ai ko, meamen mi re omail, me salongala ni melel, o amen kasapaledo i,
 
-**[5:20]** I en asa, me kasapaledo me dipan amen sang ni a salongala, a kamaureda sang mela ngen eu, me a pan pwain kidi dip toto. 
+**[5:20]** I en asa, me kasapaledo me dipan amen sang ni a salongala, a kamaureda sang mela ngen eu, me a pan pwain kidi dip toto.
 
 ## I Peter
 
@@ -63194,7 +63194,7 @@
 
 **[1:10]** Iei maur o, me saukop oko raparapaki o kalekalelapok, me kokop kida mak, me pan pwara dong komail.
 
-**[1:11]** O re raparapaki, iad ansau o duen ansau me Ngen en Kristus me kotikot re ’rail, kotin kasaledar, o me kotin kokopkido kamekam en Kristus o a lingan, me mi muri.
+**[1:11]** O re raparapaki, iad ansau o duen ansau me Ngen en Kristus me kotikot re’rail, kotin kasaledar, o me kotin kokopkido kamekam en Kristus o a lingan, me mi muri.
 
 **[1:12]** A pakair pwara dong irail, kaidin pwen papa pein irail, a komail, rap kalok ong komail er sang ren me padaki ong komail rongamau ki Ngen saraui, me pakadarado sang nanlang, me pil tounlang kan inong iong kilang.
 
@@ -63266,7 +63266,7 @@
 
 **[2:20]** Pwe da kadepa, ma komail pan pukoki pein dip omail? A ni omail wiawia me mau, ap kamekam ki o kanongama, nan i me mak ren Kot.
 
-**[2:21]** Pwe i me komail paeker kido, pwe pil Kristus kamekam kin komail, wiala kilel pa ’mail, pwe komail en idauen wei lip a.
+**[2:21]** Pwe i me komail paeker kido, pwe pil Kristus kamekam kin komail, wiala kilel pa’mail, pwe komail en idauen wei lip a.
 
 **[2:22]** Me sota wia dip, pil sota widing diarok nin silang i.
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** Pein i tomki dip atail nan war a nin tuka o, pwe kitail en mela sang dip atail akan, ap pan maur iong me pung, me moun lip a komail kelail kidar.
 
-**[2:25]** Pwe komail rasong sip, me salongalar, a met komail sapale dong silepa ’mail o Kaun pan ngen omail.
+**[2:25]** Pwe komail rasong sip, me salongalar, a met komail sapale dong silepa’mail o Kaun pan ngen omail.
 
 ### Chapter 3
 
@@ -63346,7 +63346,7 @@
 
 **[4:11]** Ma amen pan wiada padak, a en wiada duen masan en Kot, o ma amen kin papa, a en papa duen Kot kotin kupurai ong i a mana, pwe kaping en ko ong Kot ni meakan karos, ren Iesus Kristus, me wau o manaman en ko ong kokolata soutuk! Amen.
 
-**[4:12]** Kompok kan, komail der puriamuiki songapa ’mail karakar, me pan lel ong komail, pwen kasongesong komail, der lamelame, me komail ta lel ong mepukat.
+**[4:12]** Kompok kan, komail der puriamuiki songapa’mail karakar, me pan lel ong komail, pwen kasongesong komail, der lamelame, me komail ta lel ong mepukat.
 
 **[4:13]** A komail peren kida, pwe komail pwaisaneki en Kristus a kamekam, pwe ni a lingan sansaldo, komail pil pan perenda kaualapia.
 
@@ -63356,7 +63356,7 @@
 
 **[4:16]** A ma a kamekameki a saulang, a ender namenokki; a en kapinga Kot ni mepukat.
 
-**[4:17]** Pwe a leler ansaun kamekam, me pan tapida sang ni tanpas en Kot; a ma a tapida re ’tail, ia pan imwi en me sota poson rongamau en Kot?
+**[4:17]** Pwe a leler ansaun kamekam, me pan tapida sang ni tanpas en Kot; a ma a tapida re’tail, ia pan imwi en me sota poson rongamau en Kot?
 
 **[4:18]** A ma me apwal, en kamaureda me pung o, a ia wasa, me san Kot o me dipan akan pan pwaralang ia?
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** Irail, me iang komail pilipildar nan Papilon o nai ol Markus ara ranamau wong komail.
 
-**[5:14]** Komail ranamauiki pena metik en limpok. Popol en mi re omail karos, me warok ki ong er Kristus! Amen. 
+**[5:14]** Komail ranamauiki pena metik en limpok. Popol en mi re omail karos, me warok ki ong er Kristus! Amen.
 
 ## II Peter
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** Mak eta, ma re sota asa duen al en pung, sang ar asa, ap wuki wei sang kusoned saraui, me re aleer.
 
-**[2:22]** Pwe, karaseras o pwaida re ’rail, me inda: Kiti men kin pur ong kang a mus, o pwik, me duduer, pur ong uledok nan pwel.
+**[2:22]** Pwe, karaseras o pwaida re’rail, me inda: Kiti men kin pur ong kang a mus, o pwik, me duduer, pur ong uledok nan pwel.
 
 ### Chapter 3
 
@@ -63514,13 +63514,13 @@
 
 **[3:14]** Kompok kan, pweki omail auiaui mepukat, komail en nantiong, pwe komail en diarokada re a so samin, o so sapung ni popol.
 
-**[3:15]** Pwe komail asa duen kanongama en atail Kaun, pwe i kamaur pa ’mail, duen ri atail Paulus kompok inting wong komail er ni lolekong, me ko ong i.
+**[3:15]** Pwe komail asa duen kanongama en atail Kaun, pwe i kamaur pa’mail, duen ri atail Paulus kompok inting wong komail er ni lolekong, me ko ong i.
 
 **[3:16]** Duen a kasokasoi nan a kisin likau karos, a akai wasa me apwal en dedeki, me sololekong o so lolin akan kin kawukila, dueta ar pil kawukila masan tei kan, me pan kare ong irail pein ar lokidokila.
 
 **[3:17]** Kompok kan, pweki omail asa mepukat, komail kalaka, pwe komail der sapung kila padak en me sued akan, ap pupedi sang katengeteng komail.
 
-**[3:18]** A komail kairida ni mak o lolekongki padak en atail Kaun o Saunkamaur Iesus Kristus. I me kon ong en ale wau metet o kokolata lel ong ni ran soutuk. 
+**[3:18]** A komail kairida ni mak o lolekongki padak en atail Kaun o Saunkamaur Iesus Kristus. I me kon ong en ale wau metet o kokolata lel ong ni ran soutuk.
 
 ## I John
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** A kitail asa, me Sapwilim en Kot pwarador, kalolekong kitail er, pwe kitail en asa i me melel, o kitail kisan i me melel, iei sapwilim a Iesus Kristus. I me Kot melel o maur soutuk.
 
-**[5:21]** Sama ko, kalaka pein komail sang dikedik en ani kan! 
+**[5:21]** Sama ko, kalaka pein komail sang dikedik en ani kan!
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** Kasoi me toto mi re i, me i men inting wong komail, a i sota pan wiaki ki kisin likau o ink, pwe i kaporoporeki, me i pan pwara wong komail, kitail ap pan kasoi pena, pwe atail peren en unsokela.
 
-**[1:13]** Ari, nain ri om li lipilipil seriko me ranamau wong komui. Amen. 
+**[1:13]** Ari, nain ri om li lipilipil seriko me ranamau wong komui. Amen.
 
 ## III John
 
@@ -63806,7 +63806,7 @@
 
 **[1:14]** A i kaporoporeki, me koren, me i pan kilang uk, kita ap pan kasokasoi pena.
 
-**[1:15]** Popol en mi re om. Kompok kan kin ranamau wong uk. Ranamauieki kompok kan mar arail. 
+**[1:15]** Popol en mi re om. Kompok kan kin ranamau wong uk. Ranamauieki kompok kan mar arail.
 
 ## Jude
 
@@ -63834,7 +63834,7 @@
 
 **[1:11]** Suedi ong irail! Irail weweid kier al en Kain, o re lodi ong pakotaue en Pileam pweki moni, o ni ar kangudi dueta Kora, re mekilar,
 
-**[1:12]** Ir pukat me kaopan omail kamadip limpok kan, ni ar sokrau somasak o kamanga pein irail. Re rasong dapok madekong kan, me ang kin wewa sili, o rasong tuka, me so ta o so wa kan mia, me melar pan riapak, o solar due ’rail.
+**[1:12]** Ir pukat me kaopan omail kamadip limpok kan, ni ar sokrau somasak o kamanga pein irail. Re rasong dapok madekong kan, me ang kin wewa sili, o rasong tuka, me so ta o so wa kan mia, me melar pan riapak, o solar due’rail.
 
 **[1:13]** Re rasong iluk en matau, me pungpung potpoteta, kapwereda pein ar kanamenok kan, rasong moal en usu, ap nekinek ong rotorot soutuk.
 
@@ -63860,7 +63860,7 @@
 
 **[1:24]** A i me kak pera komail, sang omail pan depikelekel, o kamotan di ong komail mon a lingan, makelekel, o pereperen,
 
-**[1:25]** I Kot eta Saunkamaur patail, ren Iesus Kristus atail Kaun lingan, lomin, o wiawia, o manaman en ko ong, met o potopot eta kokolata! Amen. 
+**[1:25]** I Kot eta Saunkamaur patail, ren Iesus Kristus atail Kaun lingan, lomin, o wiawia, o manaman en ko ong, met o potopot eta kokolata! Amen.
 
 ## Revelation of John
 
@@ -63954,7 +63954,7 @@
 
 **[2:23]** O I pan kamekila na seri kan kamekam eu. Ari, momodisou karos pan asaki, me ngai i, me kin irerong nan mudilik o mongiong kan, o I pan ki ong amen amen komail iran omail wiawia kan.
 
-**[2:24]** A I indai ong komail tei kan, me mi Tiatira, karos me sota apwali lamalam wet, me so dedeki widing en Satan, duen ar lokaia. I sota pan ki ong komail eu katoutou pa ’mail.
+**[2:24]** A I indai ong komail tei kan, me mi Tiatira, karos me sota apwali lamalam wet, me so dedeki widing en Satan, duen ar lokaia. I sota pan ki ong komail eu katoutou pa’mail.
 
 **[2:25]** A me mi re omail, kolekoleta, I lao pwarado.
 
@@ -64184,9 +64184,9 @@
 
 **[9:8]** Pit en mong arail rasong pit en mong en li, o ngi arail dueta ngi en laien.
 
-**[9:9]** Pere me mi re ’rail dueta pere mata, o ngirsok en pa arail dueta ngirsok en war, me os toto me tangaki wong nan mauin.
+**[9:9]** Pere me mi re’rail dueta pere mata, o ngirsok en pa arail dueta ngirsok en war, me os toto me tangaki wong nan mauin.
 
-**[9:10]** O iki ’rail dueta skorpion, o ose ar mia, o re keleki iki ’rail, o re kin kame aramas saunipong limau.
+**[9:10]** O iki’rail dueta skorpion, o ose ar mia, o re keleki iki’rail, o re kin kame aramas saunipong limau.
 
 **[9:11]** O arail nanmarki ani en kadar en wasa lol, ad a ni lokaia en Ipru Apadon, a ad a ni lokaia en Krik Apolion.
 
@@ -64394,9 +64394,9 @@
 
 ### Chapter 15
 
-**[15:1]** O I kilanger pil kilel eu nanlang, me lap o kalom: Tounlang isimen, a kalokolok isu mi re ’rail, pwe ongiong en Kot kaimwisokki ir la.
+**[15:1]** O I kilanger pil kilel eu nanlang, me lap o kalom: Tounlang isimen, a kalokolok isu mi re’rail, pwe ongiong en Kot kaimwisokki ir la.
 
-**[15:2]** O i kilanger sed klas eu, me doleki kisiniai o irail me kaloedi man o dikedik en man, o wadawad en mar a, uda ni kailan sed o, o arp en Kot mi re ’rail,
+**[15:2]** O i kilanger sed klas eu, me doleki kisiniai o irail me kaloedi man o dikedik en man, o wadawad en mar a, uda ni kailan sed o, o arp en Kot mi re’rail,
 
 **[15:3]** O irail kauleki kaul en Moses ladu en Kot amen, o kaul en Sippul indinda: Omui wiawia kan me lapalap o kalom. Maing Kot, me pung o melel omui wiawia kan, komui Nanmarki en wei kan, Kaun en meakaros.
 
@@ -64404,7 +64404,7 @@
 
 **[15:5]** Murin mepukat i kilanger nan im en kaudok kadedepa mi nanlang me ritida.
 
-**[15:6]** O tounlang isimen pedoi wei sang nan im en kaudok kalokolok isu re ’rail, kapwateki likau min o puetepuet, o ir piraki ni pan ati waiwai kold.
+**[15:6]** O tounlang isimen pedoi wei sang nan im en kaudok kalokolok isu re’rail, kapwateki likau min o puetepuet, o ir piraki ni pan ati waiwai kold.
 
 **[15:7]** O amen ren man pamen pangalang tounlang isimen dal kold isu, direki ongiong en Kot, me ieiasata soutuk.
 
@@ -64624,7 +64624,7 @@
 
 **[21:2]** O i kilanger kanim isou, Ierusalem kap, peidido sang lang ren Kot, kapwater due li kamod kapwater ong a paud ol.
 
-**[21:3]** O i ronger ngil laud sang mol o masani: Kilang, tanpas en Kot mi ren aramas akan, o a pan kotikot re ’rail, o irail pan wia sapwilim a aramas ala, o pein Kot pan kotikot re ’rail.
+**[21:3]** O i ronger ngil laud sang mol o masani: Kilang, tanpas en Kot mi ren aramas akan, o a pan kotikot re’rail, o irail pan wia sapwilim a aramas ala, o pein Kot pan kotikot re’rail.
 
 **[21:4]** O a pan kotin limwi sang pil en mas ar karos; o mela pan solar, pil solar maiei, o solar sangesang, madak kokolata, pwe men mas solar mia.
 
@@ -64716,5 +64716,5 @@
 
 **[22:20]** Me kin kadede mepukat, masanier: Iei I pan madang pwarado. Amen, kotido Maing Iesus!
 
-**[22:21]** Mak en Kaun Iesus Kristus en mi ren saraui kan karos! Amen. 
+**[22:21]** Mak en Kaun Iesus Kristus en mi ren saraui kan karos! Amen.
 

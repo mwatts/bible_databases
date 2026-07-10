@@ -1,9 +1,8 @@
 -- SQL Dump for # Webster: Webster Bible (Webster)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `Webster_books`;
 DROP TABLE IF EXISTS `Webster_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `Webster_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'Webster', '# Webster: Webster Bible', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'Webster'
-            );
+            VALUES ('Webster', '# Webster: Webster Bible', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `Webster_books` (
@@ -10699,7 +10698,7 @@ INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13,
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 20, 'And Elienai, and Zilthai, and Eliel,');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 21, 'And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 22, 'And Ishpan, and Heber, and Eliel,');
-INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 23, 'And  Abdon, and Zichri, and Hanan,');
+INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 23, 'And Abdon, and Zichri, and Hanan,');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 24, 'And Hananiah, and Elam, and Antothijah,');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 25, 'And Iphedeiah, and Penuel, the sons of Shashak;');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (13, 8, 26, 'And Shamsherai, and Shehariah, and Athaliah,');
@@ -15319,7 +15318,7 @@ INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19,
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 17, 'Let thy hand be upon the man of thy right hand, upon the son of man [whom] thou madest strong for thyself.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 18, 'So will we not go back from thee: revive us, and we will call upon thy name.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 19, 'Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved.');
-INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 1, 'To the chief Musician upon Gittith, [A Psalm]  of Asaph. Sing aloud to God our strength: make a joyful noise to the God of Jacob.');
+INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 1, 'To the chief Musician upon Gittith, [A Psalm] of Asaph. Sing aloud to God our strength: make a joyful noise to the God of Jacob.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 2, 'Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 3, 'Blow the trumpet in the new moon, in the time appointed, on our solemn feast day.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 4, 'For this [was] a statute for Israel, [and] a law of the God of Jacob.');
@@ -17160,7 +17159,7 @@ INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20,
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 12, 'Apply thy heart to instruction, and thy ears to the words of knowledge.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 13, 'Withhold not correction from the child: for [if] thou beatest him with the rod, he shall not die.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 14, 'Thou shalt beat him with the rod, and shalt deliver his soul from hell.');
-INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 15, 'My son, if thy heart be wise, my heart shall rejoice,  even mine.');
+INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 15, 'My son, if thy heart be wise, my heart shall rejoice, even mine.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 16, 'Yes, my reins shall rejoice, when thy lips speak right things.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 17, 'Let not thy heart envy sinners: but [be thou] in the fear of the LORD all the day long.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 23, 18, 'For surely there is an end; and thy expectation shall not be cut off.');
@@ -25808,7 +25807,7 @@ INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42,
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 16, 'But Jesus called them [to him], and said, Suffer little children to come to me, and forbid them not: for of such is the kingdom of God.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 17, 'Verily I say to you, Whoever shall not receive the kingdom of God as a little child, shall in no wise enter into it.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 18, 'And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?');
-INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 19, 'And Jesus said to him, Why callest thou me good?  none [is] good, save one, [that is] God.');
+INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 19, 'And Jesus said to him, Why callest thou me good? none [is] good, save one, [that is] God.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 20, 'Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor thy father and thy mother.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 21, 'And he said, All these have I kept from my youth.');
 INSERT INTO `Webster_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 18, 22, 'Now when Jesus heard these things, he said to him, Yet lackest thou one thing: sell all that thou hast, and distribute to the poor, and thou shalt have treasure in heaven: and come, follow me.');

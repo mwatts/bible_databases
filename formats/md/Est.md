@@ -50502,7 +50502,7 @@
 
 **[1:36]** Ja Siimon ning tema kaaslased tõttasid Ta järele
 
-**[1:37]** ja leidsid Tema ning ,ütlesid Talle: "Kõik otsivad Sind!"
+**[1:37]** ja leidsid Tema ning,ütlesid Talle: "Kõik otsivad Sind!"
 
 **[1:38]** ütles neile: "Lähme teisale, lähemaisse aleveisse, et Ma sealgi kuulutaksin, sest selleks Ma olen välja tulnud!"
 
@@ -50528,7 +50528,7 @@
 
 **[2:3]** Ja Ta juure tuldi ning toodi halvatut, keda kandsid neli meest.
 
-**[2:4]** Ja kui nad rahva pärast ei pääsnud teda tooma Tema , ligi võtsid nad sealt kohalt, kus Ta oli, katuse lahti, tegid augu ja lasksid alla sängi, millel halvatu lamas.
+**[2:4]** Ja kui nad rahva pärast ei pääsnud teda tooma Tema, ligi võtsid nad sealt kohalt, kus Ta oli, katuse lahti, tegid augu ja lasksid alla sängi, millel halvatu lamas.
 
 **[2:5]** Kui Jeesus nende usku nägi, ütles Ta halvatule: "Poeg, su patud antakse andeks!"
 
@@ -54358,7 +54358,7 @@
 
 **[3:15]** et igaühel, kes usub Temasse, oleks igavene elu!
 
-**[3:16]** Sest nõnda on Jumal maailma armastanud, et Ta Oma Ainusündinud Poja , on annud, et ükski, kes Temasse usub, ei saaks hukka, vaid et temal oleks igavene elu!
+**[3:16]** Sest nõnda on Jumal maailma armastanud, et Ta Oma Ainusündinud Poja, on annud, et ükski, kes Temasse usub, ei saaks hukka, vaid et temal oleks igavene elu!
 
 **[3:17]** Sest Jumal ei ole Oma Poega läkitanud maailma, et Ta maailma üle kohut mõistaks, vaid et maailm Tema läbi õndsaks saaks!
 
@@ -54708,7 +54708,7 @@
 
 **[6:50]** See on leib, mis taevast alla tuleb, et inimene seda sööks ega sureks.
 
-**[6:51]** Mina olen elav leib, mis taevast on alla tulnud. Kui keegi sööb seda leiba, siis ta elab igavesti; ja leib, mille Mina annan, on Minu Liha, mille annan maailma elu eest !"
+**[6:51]** Mina olen elav leib, mis taevast on alla tulnud. Kui keegi sööb seda leiba, siis ta elab igavesti; ja leib, mille Mina annan, on Minu Liha, mille annan maailma elu eest!"
 
 **[6:52]** Siis riidlesid juudid isekeskis, üteldes: "Kuidas see võib meile anda Oma Liha süüa?"
 

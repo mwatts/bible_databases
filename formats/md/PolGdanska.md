@@ -518,7 +518,7 @@
 
 **[10:13]** Micraim też spłodził Ludyma, i Hananima, i Laubima, i Neftuhyma.
 
-**[10:14]** I Patrusyma, i Chasluchyma, ( z których poszli Filistynowie, ) i Kaftoryma.
+**[10:14]** I Patrusyma, i Chasluchyma, (z których poszli Filistynowie,) i Kaftoryma.
 
 **[10:15]** Chanaan też spłodził Sydona pierworodnego swego, i Heta.
 
@@ -986,7 +986,7 @@
 
 **[19:15]** A gdy weszła zorza, przymuszali Aniołowie Lota, mówiąc: Wstań, weźmij żonę twoję, i dwie córki twoje, które tu są, byś snać nie zginął w nieprawości miasta tego.
 
-**[19:16]** A gdy się ociągał, ujęli mężowie oni rękę jego, i rękę żony jego, i rękę dwóch córek jego, ( albowiem mu Pan folgował, ) i wywiedli go, i postawili go przed miastem.
+**[19:16]** A gdy się ociągał, ujęli mężowie oni rękę jego, i rękę żony jego, i rękę dwóch córek jego, (albowiem mu Pan folgował,) i wywiedli go, i postawili go przed miastem.
 
 **[19:17]** I gdy je wywiedli precz, rzekł jeden: Jeźli chcesz, zachowaj duszę twoję, a nie oglądaj się nazad, ani stawaj na tej wszystkiej równinie; uchodź na górę, byś snać nie zginął.
 
@@ -994,7 +994,7 @@
 
 **[19:19]** Oto teraz znalazł sługa twój łaskę w oczach twoich, i okazałeś obficie miłosierdzie twoje, któreś uczynił ze mną, zachowawszy duszę moję; aleć ja nie będę mógł ujść na tę górę, by mię snać nie zachwyciło to złe, i umarłbym.
 
-**[19:20]** Ale oto tu jest miasto nie daleko, do którego bym uciekł, małeć jest; proszę niech tam ujdę, ( wszak małe jest, ) a będzie żywa dusza moja.
+**[19:20]** Ale oto tu jest miasto nie daleko, do którego bym uciekł, małeć jest; proszę niech tam ujdę, (wszak małe jest,) a będzie żywa dusza moja.
 
 **[19:21]** Tedy rzekł do niego: Oto, i wtem wysłuchałem cię, abym nie wywrócił miasta tego, o któremeś mówił.
 
@@ -1210,7 +1210,7 @@
 
 **[23:9]** Aby mi ustąpił jaskini swojej Machpela, którą ma na końcu pola swego, za słuszne pieniądze; niech mi ją spuści przed wami w osiadłość grobu.
 
-**[23:10]** ( A Efron siedział w pośrodku synów Hetowych. ) Tedy odpowiedział Efron Hetejczyk Abrahamowi, w przytomności synów Hetowych, przed wszystkimi, którzy chodzili w bramę miasta jego, mówiąc:
+**[23:10]** (A Efron siedział w pośrodku synów Hetowych.) Tedy odpowiedział Efron Hetejczyk Abrahamowi, w przytomności synów Hetowych, przed wszystkimi, którzy chodzili w bramę miasta jego, mówiąc:
 
 **[23:11]** Nie tak, panie mój, ale słuchaj mię: Pole to dam tobie i jaskinią, która jest w niem, dawam ją tobie; przed oczyma synów ludu mego, dawam ją tobie, pogrzebże umarłego twego.
 
@@ -1224,7 +1224,7 @@
 
 **[23:16]** I usłuchał Abraham Efrona; i odważył Abraham Efronowi srebro, jako był rzekł w przytomności synów Hetowych, cztery sta syklów srebra, tak jako szły między kupcami.
 
-**[23:17]** I dostało się pole Efronowe ( które jest w Machpelu przeciwko Mamre, pole i jaskinia, która jest na niem, i wszystkie drzewa, które były na polu, które były na wszystkich granicach jego w około ) .
+**[23:17]** I dostało się pole Efronowe (które jest w Machpelu przeciwko Mamre, pole i jaskinia, która jest na niem, i wszystkie drzewa, które były na polu, które były na wszystkich granicach jego w około).
 
 **[23:18]** Abrahamowi w osiadłość przed oczyma synów Hetowych, i wszystkich, którzy wchodzili w bramę miasta onego.
 
@@ -1294,7 +1294,7 @@
 
 **[24:30]** Bo ujrzawszy nausznicę, i manele na ręku siostry swej, i usłyszawszy słowa Rebeki, siostry swej, mówiącej: Tak mówił do mnie ten mąż; przyszedł do onego męża, a oto, on stał przy wielbłądach u studni.
 
-**[24:31]** I rzekł do niego: Wnijdź błogosławiony Pański; przecz byś stał na dworze, jużem ja nagotował dom, i miejsce wielbłądom ?
+**[24:31]** I rzekł do niego: Wnijdź błogosławiony Pański; przecz byś stał na dworze, jużem ja nagotował dom, i miejsce wielbłądom?
 
 **[24:32]** Tedy wszedł mąż on w dom; a Laban rozsiodłał wielbłądy, i dał plew i pastwy wielbłądom, i wody dla umycia nóg jego, i nóg mężów onych, którzy z nim byli.
 
@@ -1714,7 +1714,7 @@
 
 **[29:31]** A widząc Pan, że nienawidził Liję, otworzył żywot jej; a Rachel niepłodna była.
 
-**[29:32]** Tedy począwszy Lija porodziła syna, i nazwała imię jego Ruben, bo rzekła : Zaiste wejrzał Pan na utrapienie moje; a tak teraz miłować mię będzie mąż mój.
+**[29:32]** Tedy począwszy Lija porodziła syna, i nazwała imię jego Ruben, bo rzekła: Zaiste wejrzał Pan na utrapienie moje; a tak teraz miłować mię będzie mąż mój.
 
 **[29:33]** I zasię poczęła, i porodziła syna, a rzekła: Zaiste usłyszał Pan, żem ja była w nienawiści, przetoż dał mi też i tego; i nazwała imię jego Symeon.
 
@@ -1798,7 +1798,7 @@
 
 **[30:37]** Nabrał tedy Jakób prętów zielonych topolowych, i laskowych, i kasztanowych, i obłupił miejscami skórę ich do białego, obnażając białość, która na prętach była.
 
-**[30:38]** I nakładł onych prętów, które był obłupił, do rynien i do koryt, gdzie lano wody ( gdy przychodziły owce, aby piły) nakładł ich przeciwko owcom, aby poczynały, gdyby pić przychodziły.
+**[30:38]** I nakładł onych prętów, które był obłupił, do rynien i do koryt, gdzie lano wody (gdy przychodziły owce, aby piły) nakładł ich przeciwko owcom, aby poczynały, gdyby pić przychodziły.
 
 **[30:39]** I poczynały owce patrząc na one pręty, i rodziły jagnięta strokate, pstre i nakrapiane.
 
@@ -1998,7 +1998,7 @@
 
 **[33:4]** I zaszedł mu drogę Ezaw, i obłapiwszy go, upadł na szyję jego, i całował go; i płakali.
 
-**[33:5]** Potem podniósłszy ( Ezaw ) oczy swe, ujrzał żony i dzieci, i rzekł: A ci co zacz są, twoiż to? i odpowiedział: Dziatki to są, które Bóg dał z łaski słudze twemu.
+**[33:5]** Potem podniósłszy (Ezaw) oczy swe, ujrzał żony i dzieci, i rzekł: A ci co zacz są, twoiż to? i odpowiedział: Dziatki to są, które Bóg dał z łaski słudze twemu.
 
 **[33:6]** I przybliżyły się służebnice i synowie ich, a pokłoniły się.
 
@@ -2130,7 +2130,7 @@
 
 **[35:17]** A gdy ciężko pracowała przy rodzeniu, rzekła baba do niej: Nie bój się; bo i tego syna będziesz miała.
 
-**[35:18]** A stało się, gdy wychodziła dusza jej, ( bo tamże umarła ), nazwała imię jego Ben Oni; ale ojciec jego nazwał go Benjamin.
+**[35:18]** A stało się, gdy wychodziła dusza jej, (bo tamże umarła), nazwała imię jego Ben Oni; ale ojciec jego nazwał go Benjamin.
 
 **[35:19]** A tak umarła Rachel, i pogrzebiona jest na drodze ku Efracie; tać jest Betlehem.
 
@@ -2230,7 +2230,7 @@
 
 **[36:37]** I umarł Samla, a królował miasto niego Saul, z Rechobot u rzeki.
 
-**[36:38]** I umarł Saul , a królował miasto niego Balanan, syn Achborów.
+**[36:38]** I umarł Saul, a królował miasto niego Balanan, syn Achborów.
 
 **[36:39]** I umarł Balanan, syn Achborów, a królował miasto niego Hadar, a imię miasta jego Pahu, a imię żony jego Mehetabel, córka Matredy, córki Mezaabowej.
 
@@ -2246,7 +2246,7 @@
 
 **[37:1]** I mieszkał Jakób w ziemi, gdzie przychodniem był ojciec jego, w ziemi Chananejskiej.
 
-**[37:2]** Teć są pokolenia Jakóbowe: Józef, gdy miał siedemnaście lat, pasł z bracią swoją trzody, ( będąc pacholęciem ), z synami Bali, i z synami Zelfy, żon ojca swego; i odnosił Józef sławę ich złą do ojca ich.
+**[37:2]** Teć są pokolenia Jakóbowe: Józef, gdy miał siedemnaście lat, pasł z bracią swoją trzody, (będąc pacholęciem), z synami Bali, i z synami Zelfy, żon ojca swego; i odnosił Józef sławę ich złą do ojca ich.
 
 **[37:3]** A Izrael miłował Józefa nad wszystkie syny swe, iż mu się był w starości jego urodził, i sprawił mu suknią rozmaitych farb.
 
@@ -2920,11 +2920,11 @@
 
 **[46:26]** Wszystkie dusze, które przyszły z Jakóbem do Egiptu, co wyszły z biódr jego, okrom żon synów Jakóbowych, wszystkich dusz było sześćdziesiąt i sześć.
 
-**[46:27]** A synów Józefowych , którzy mu się urodzili w Egipcie, dusz dwie. A tak wszystkich dusz domu Jakóbowego, które weszły do Egiptu, było siedemdziesiąt.
+**[46:27]** A synów Józefowych, którzy mu się urodzili w Egipcie, dusz dwie. A tak wszystkich dusz domu Jakóbowego, które weszły do Egiptu, było siedemdziesiąt.
 
 **[46:28]** I posłał przed sobą Judasa do Józefa, aby mu oznajmił pierwej, niżby przyjechał do Gosen. I przyjechali do ziemi Gosen.
 
-**[46:29]** A zaprzągłszy Józef wóz swój, wyjechał przeciw Izraelowi, ojcu swemu, do Gosen; a ujrzawszy go ( Jakób ) padł na szyję jego, i płakał na szyi jego chwilę.
+**[46:29]** A zaprzągłszy Józef wóz swój, wyjechał przeciw Izraelowi, ojcu swemu, do Gosen; a ujrzawszy go (Jakób) padł na szyję jego, i płakał na szyi jego chwilę.
 
 **[46:30]** Tedy rzekł Izrael do Józefa: Niechże już umrę, gdym ujrzał oblicze twoje, ponieważeś ty jeszcze żyw.
 
@@ -3120,9 +3120,9 @@
 
 **[50:2]** I rozkazał Józef sługom swym lekarzom, aby wonnemi maściami namazali ojca jego; i namazali wonnemi maściami lekarze Izraela.
 
-**[50:3]** A gdy się mazania jego wypełniło czterdzieści dni, ( bo się tak wypełniają dni tych, którzy wonnemi maściami mazani bywają ), tedy go płakali Egipczanie przez siedemdziesiąt dni.
+**[50:3]** A gdy się mazania jego wypełniło czterdzieści dni, (bo się tak wypełniają dni tych, którzy wonnemi maściami mazani bywają), tedy go płakali Egipczanie przez siedemdziesiąt dni.
 
-**[50:4]** A po wyjściu dni żałoby jego rzekł Józef do sług Faraonowych, mówiąc: Jeźlim teraz znalazł łaskę w oczach waszych, powiedzcie proszę Faraonowi , mówiąc:
+**[50:4]** A po wyjściu dni żałoby jego rzekł Józef do sług Faraonowych, mówiąc: Jeźlim teraz znalazł łaskę w oczach waszych, powiedzcie proszę Faraonowi, mówiąc:
 
 **[50:5]** Ojciec mój poprzysiągł mię mówiąc: Oto, ja umieram; w grobie moim, którym sobie wykopał w ziemi Chananejskiej, tam mię pogrzebiesz; a teraz niech jadę, proszę, i pogrzebię ojca mego, i zaś się wrócę.
 
@@ -3304,7 +3304,7 @@
 
 **[3:17]** I rzekłem: Wyprowadzę was z utrapienia Egipskiego do ziemi Chananejczyka, i Hetejczyka, i Amorejczyka, i Ferezejczyka, i Hewejczyka, i Jebuzejczyka, do ziemi opływającej mlekiem i miodem.
 
-**[3:18]** Tedy usłuchają głosu twego, a pójdziesz ty i starsi Izraelscy do króla Egipskiego, i rzeczecie do niego: Pan, Bóg Hebrajczyków, zabieżał nam; przetoż teraz niech pójdziemy proszę w drogę trzech dni na puszczą, abyśmy ofiarowali Panu, Bogu naszemu .
+**[3:18]** Tedy usłuchają głosu twego, a pójdziesz ty i starsi Izraelscy do króla Egipskiego, i rzeczecie do niego: Pan, Bóg Hebrajczyków, zabieżał nam; przetoż teraz niech pójdziemy proszę w drogę trzech dni na puszczą, abyśmy ofiarowali Panu, Bogu naszemu.
 
 **[3:19]** Ale ja wiem, że wam nie pozwoli król Egipski odejść, jedno przez możną rękę.
 
@@ -3662,7 +3662,7 @@
 
 **[9:27]** Posłał tedy Farao, a wezwał Mojżesza i Aarona, mówiąc do nich: Zgrzeszyłem i tym razem; Pan jest sprawiedliwy, ale ja i lud mój niezbożniśmy.
 
-**[9:28]** Módlcież się Panu,( boć dosyć jest,) aby przestały gromy Boże i grad; a wypuszczę was, i nie będziecie tu mieszkać dalej.
+**[9:28]** Módlcież się Panu,(boć dosyć jest,) aby przestały gromy Boże i grad; a wypuszczę was, i nie będziecie tu mieszkać dalej.
 
 **[9:29]** I rzekł Mojżesz do niego: Gdy wynijdę z miasta, wyciągnę ręce swe do Pana, a gromy ustaną, i grad nie będzie więcej, abyś wiedział, że Pańska jest ziemia;
 
@@ -5046,7 +5046,7 @@
 
 ### Chapter 32
 
-**[32:1]** A widząc lud, iż omieszkiwał Mojżesz zejść z góry, tedy zebrał się lud przeciw Aaronowi, i mówili do niego: Wstań, uczyń nam bogi, którzy by szli przed nami; bo Mojżeszowi, mężowi temu, który nas wywiódł z ziemi Egipskiej, nie wiemy co się stało .
+**[32:1]** A widząc lud, iż omieszkiwał Mojżesz zejść z góry, tedy zebrał się lud przeciw Aaronowi, i mówili do niego: Wstań, uczyń nam bogi, którzy by szli przed nami; bo Mojżeszowi, mężowi temu, który nas wywiódł z ziemi Egipskiej, nie wiemy co się stało.
 
 **[32:2]** Tedy im rzekł Aaron: Odejmijcie nausznice złote, które są na uszach żon waszych, synów waszych, i córek waszych, a przynieście do mnie.
 
@@ -5282,7 +5282,7 @@
 
 **[35:22]** Przychodzili tedy mężowie z niewiastami, każdy, kto był ochotnego serca, przynosili zapony, i nausznice, i pierścienie, i manele, i wszelakie naczynia złote, i ktokolwiek przynosił ofiarę złotą Panu.
 
-**[35:23]** Każdy też co miał hijacynt, i szarłat, i karmazyn dwa kroć farbowany , i biały jedwab, i sierść kozią, i skóry baranie czerwono farbowane, i skóry borsukowe, przynosili.
+**[35:23]** Każdy też co miał hijacynt, i szarłat, i karmazyn dwa kroć farbowany, i biały jedwab, i sierść kozią, i skóry baranie czerwono farbowane, i skóry borsukowe, przynosili.
 
 **[35:24]** Ktokolwiek ofiarował podarek srebra i miedzi, przynosili na ofiarę Panu, każdy też, co miał drzewo sytym, na wszelaką potrzebę ku usłudze przynosili.
 
@@ -6056,7 +6056,7 @@
 
 **[8:9]** Także włożył czapkę na głowę jego, a włożył na czapkę na przodek blachę złotą, koronę świętą, jako był rozkazał Pan Mojżeszowi.
 
-**[8:10]** Wziął też Mojżesz olejek pomazywania, i pomazał przybytek, i wszystkie rzeczy, które w nim były , i poświęcił je.
+**[8:10]** Wziął też Mojżesz olejek pomazywania, i pomazał przybytek, i wszystkie rzeczy, które w nim były, i poświęcił je.
 
 **[8:11]** Potem pokropił nim ołtarz siedem kroć, i pomazał ołtarz ze wszystkiem naczyniem jego, i wannę, i stolec jej, aby je poświęcił.
 
@@ -6098,7 +6098,7 @@
 
 **[8:30]** Wziął jeszcze Mojżesz olejku pomazywania i krwi, która była na ołtarzu, a pokropił Aarona i szaty jego, także syny jego, i szaty synów jego z nim. A tak poświęcił Aarona i szaty jego, i syny jego, i szaty synów jego z nim.
 
-**[8:31]** I rzekł Mojżesz do Aarona , i do synów jego: Warzcie to mięso u drzwi namiotu zgromadzenia, i tam je jedzcie, i chleb, który jest w koszu poświęcenia, jakom przykazał, mówiąc: Aaron i synowie jego będą je jedli.
+**[8:31]** I rzekł Mojżesz do Aarona, i do synów jego: Warzcie to mięso u drzwi namiotu zgromadzenia, i tam je jedzcie, i chleb, który jest w koszu poświęcenia, jakom przykazał, mówiąc: Aaron i synowie jego będą je jedli.
 
 **[8:32]** A coby zostało z mięsa i z chleba, ogniem spalicie.
 
@@ -6172,7 +6172,7 @@
 
 **[10:5]** Przyszli tedy, a wynieśli je i z szatami ich precz za obóz, jako był rozkazał Mojżesz.
 
-**[10:6]** Rzekł potem Mojżesz do Aarona i do Eleazara i do Itamara, synów jego: Głów waszych nie obnażajcie, ani szat swych rozdzierajcie, byście nie pomarli, a Bóg nie rozgniewał się na wszystko zgromadzenie. Ale bracia wasi, wszystek dom synów Izraelskich , niech płaczą tego spalenia, które uczynił Pan.
+**[10:6]** Rzekł potem Mojżesz do Aarona i do Eleazara i do Itamara, synów jego: Głów waszych nie obnażajcie, ani szat swych rozdzierajcie, byście nie pomarli, a Bóg nie rozgniewał się na wszystko zgromadzenie. Ale bracia wasi, wszystek dom synów Izraelskich, niech płaczą tego spalenia, które uczynił Pan.
 
 **[10:7]** Ze drzwi też namiotu zgromadzenia nie wychodźcie, byście snać nie pomarli; albowiem olejek pomazania Pańskiego jest na was. I uczynili według rozkazania Mojżeszowego.
 
@@ -6210,7 +6210,7 @@
 
 **[11:3]** Wszelkie bydlę, które ma rozdzielone stopy, i rozdwojone kopyta, a przeżuwa, to jeść będziecie.
 
-**[11:4]** Ale z tych jeść nie będziecie, które tylko przeżuwają, i z tych, które tylko kopyta dwoją: Wielbłąd, który choć przeżuwa, ale kopyta rozdzielonego nie ma , nieczystym wam będzie.
+**[11:4]** Ale z tych jeść nie będziecie, które tylko przeżuwają, i z tych, które tylko kopyta dwoją: Wielbłąd, który choć przeżuwa, ale kopyta rozdzielonego nie ma, nieczystym wam będzie.
 
 **[11:5]** Także królik, który choć przeżuwa, ale kopyta rozdzielonego nie ma, nieczystym wam będzie.
 
@@ -6602,7 +6602,7 @@
 
 **[15:24]** A jeźliby mąż spał z nią, a zostałaby nieczystość jej na nim, nieczysty będzie przez siedem dni, i każde łoże, na którem by leżał, nieczyste będzie.
 
-**[15:25]** Jeźliby też niewiasta płynienie krwi cierpiała przez wiele dni, mimo czasu miesiąców jej, albo żeby krwi płynienie cierpiała w zwyczajnej chorobie, tedy po wszystkie dni płynienia nieczystości swojej, jako i czasu choroby swojej, nieczystą będzie .
+**[15:25]** Jeźliby też niewiasta płynienie krwi cierpiała przez wiele dni, mimo czasu miesiąców jej, albo żeby krwi płynienie cierpiała w zwyczajnej chorobie, tedy po wszystkie dni płynienia nieczystości swojej, jako i czasu choroby swojej, nieczystą będzie.
 
 **[15:26]** Każda pościel jej, na której by leżała po wszystkie dni płynienia swego, jako pościel w przyrodzonej chorobie będzie, i każda rzecz, na której by siedziała, nieczysta będzie według nieczystości przyrodzonej choroby jej.
 
@@ -7958,7 +7958,7 @@
 
 ### Chapter 7
 
-**[7:1]** I stało się w dzień, którego dokończył Mojżesz, a wystawił przybytek, a pomazał go, i poświęcił go ze wszystkim sprzętem jego, i ołtarz ze wszystkiem naczyniem jego, pomazał je , i poświęcił je,
+**[7:1]** I stało się w dzień, którego dokończył Mojżesz, a wystawił przybytek, a pomazał go, i poświęcił go ze wszystkim sprzętem jego, i ołtarz ze wszystkiem naczyniem jego, pomazał je, i poświęcił je,
 
 **[7:2]** Że ofiarowały książęta Izraelskie, przedniejsze z domów ojców swych, (co byli hetmany z każdego pokolenia, i przełożonymi nad policzonymi.)
 
@@ -8434,7 +8434,7 @@
 
 **[13:7]** Z pokolenia Judy Kaleb, syn Jefunów.
 
-**[13:8]** Z pokolenia Isaschar Igal, syn Józefów .
+**[13:8]** Z pokolenia Isaschar Igal, syn Józefów.
 
 **[13:9]** Z pokolenia Efraimowego Ozeasz, syn Nunów.
 
@@ -10738,7 +10738,7 @@
 
 **[10:14]** Oto Pana, Boga twego, są niebiosa, i niebiosa niebios, ziemia i wszystko co na niej.
 
-**[10:15]** Wszakże tylko w ojcach twoich upodobało się Panu, że je umiłował, i obrał nasienie ich po nich, to jest, was, ze wszystkich narodów , jako się to dziś okazuje.
+**[10:15]** Wszakże tylko w ojcach twoich upodobało się Panu, że je umiłował, i obrał nasienie ich po nich, to jest, was, ze wszystkich narodów, jako się to dziś okazuje.
 
 **[10:16]** Przetoż obrzeżcie nieobrzezkę serca waszego, i karku waszego nie zatwardzajcie więcej.
 
@@ -10758,7 +10758,7 @@
 
 **[11:1]** Miłujże tedy Pana, Boga twego, i przestrzegaj obrzędów jego, i ustaw jego, i sądów jego, i przykazań jego, po wszystkie dni.
 
-**[11:2]** A poznajcie dziś( bo nie mówię do synów waszych, którzy nie znali, ani widzieli karania Pana, Boga waszego); wielmożność jego, rękę jego mocną, i ramię jego wyciągnione;
+**[11:2]** A poznajcie dziś(bo nie mówię do synów waszych, którzy nie znali, ani widzieli karania Pana, Boga waszego); wielmożność jego, rękę jego mocną, i ramię jego wyciągnione;
 
 **[11:3]** I cuda jego, i sprawy jego, które uczynił w pośród Egiptu, Faraonowi, królowi Egipskiemu, i wszystkiej ziemi jego;
 
@@ -11370,7 +11370,7 @@
 
 **[23:3]** Nie wnijdzie też Ammonita, i Moabczyk do zgromadzenia Pańskiego, ani dziesiąte pokolenie ich nie wnijdzie do zgromadzenia Pańskiego, aż na wieki;
 
-**[23:4]** Dla tego, że wam nie zabieżeli z chlebem, ani z wodą w drodze, gdyście szli z Egiptu, a że najęli za zapłatę przeciw tobie Balaama, syna Beorowego , z Pethor Mesopotamii Syryjskiej, aby cię przeklinał.
+**[23:4]** Dla tego, że wam nie zabieżeli z chlebem, ani z wodą w drodze, gdyście szli z Egiptu, a że najęli za zapłatę przeciw tobie Balaama, syna Beorowego, z Pethor Mesopotamii Syryjskiej, aby cię przeklinał.
 
 **[23:5]** Acz nie chciał Pan, Bóg twój, wysłuchać Balaama, ale obrócił Pan, Bóg twój, tobie jego przeklęstwo w błogosławieństwo; bo cię umiłował Pan, Bóg twój.
 
@@ -11776,7 +11776,7 @@
 
 **[29:21]** I wyłączy go Pan na złe jego ze wszystkich pokoleń Izraelskich, według każdego przeklęstwa przymierza napisanego w księgach zakonu tego,
 
-**[29:22]** Tak, że rzecze naród potomny, synowie wasi, którzy powstaną po was, i cudzoziemiec, który przyjdzie z ziemi dalekiej ( gdy obaczą plagi ziemi tej, i niemoce jej, któremi ją zarazi Pan;
+**[29:22]** Tak, że rzecze naród potomny, synowie wasi, którzy powstaną po was, i cudzoziemiec, który przyjdzie z ziemi dalekiej (gdy obaczą plagi ziemi tej, i niemoce jej, któremi ją zarazi Pan;
 
 **[29:23]** Bo siarka i sól wypali tę wszystkę ziemię, że nie będzie osiewana, ani też rodzić będzie, i nie zrośnie na niej żadna trawa, na kształt podwrócenia Sodomy i Gomorry, Adamy i Seboim, które podwrócił Pan w gniewie swym, i w popędliwości swej.)
 
@@ -12116,7 +12116,7 @@
 
 **[1:12]** Rubenitom też, i Gadytom, i połowie pokolenia Manasesowego rzekł Jozue mówiąc:
 
-**[1:13]** Pamiętajcie na słowo, które wam rozkazał Mojżesz, sługa Pański, mówiąc: Pan , Bóg wasz, sprawił wam odpoczynienie, i dał wam tę ziemię;
+**[1:13]** Pamiętajcie na słowo, które wam rozkazał Mojżesz, sługa Pański, mówiąc: Pan, Bóg wasz, sprawił wam odpoczynienie, i dał wam tę ziemię;
 
 **[1:14]** Żony wasze, dziatki wasze, i bydła wasze niech zostaną w ziemi, którą wam dał Mojżesz z tej strony Jordanu; ale wy pójdziecie zbrojni przed bracią waszą, wszyscy duży w sile, a będziecie ich posiłkować,
 
@@ -12550,7 +12550,7 @@
 
 **[10:7]** Ruszył się tedy Jozue z Galgal, sam i wszystek lud wojenny z nim, i wszyscy mężowie waleczni.
 
-**[10:8]** (Bo był rzekł Pan do Jozuego: Nie bój się ich; albowiem w ręce twoje podałem je , a nie ostoi się żaden z nich przed tobą.)
+**[10:8]** (Bo był rzekł Pan do Jozuego: Nie bój się ich; albowiem w ręce twoje podałem je, a nie ostoi się żaden z nich przed tobą.)
 
 **[10:9]** I przypadł na nie Jozue nagle; bo całą noc ciągnął z Galgal.
 
@@ -12558,7 +12558,7 @@
 
 **[10:11]** I stało się, gdy uciekali przed Izraelem, bieżąc z góry do Betoron, że Pan spuścił na nie kamienie wielkie z nieba aż do Aseka, i umierali; więcej ich pomarło od kamienia gradowego, niż ich pobili synowie Izraelscy mieczem.
 
-**[10:12]** Tedy mówił Jozue do Pana, dnia, którego podał Pan Amorejczyka w ręce synom Izraelskim, i rzekł przed oczyma Izraela : Słońce w Gabaon zastanów się, a miesiącu w dolinie Ajalon!
+**[10:12]** Tedy mówił Jozue do Pana, dnia, którego podał Pan Amorejczyka w ręce synom Izraelskim, i rzekł przed oczyma Izraela: Słońce w Gabaon zastanów się, a miesiącu w dolinie Ajalon!
 
 **[10:13]** I zastanowiło się słońce, a miesiąc stanął, aż się lud pomścił nad nieprzyjacioły swymi. Izali to nie jest napisano w księgach sprawiedliwego? Tedy stanęło słońce w pośród nieba, a nie pospieszyło się zachodzić, jakoby przez cały dzień.
 
@@ -13380,7 +13380,7 @@
 
 **[23:13]** Wiedźcież wiedząc, żeć nie będzie więcej Pan, Bóg wasz, wyganiał tych narodów od twarzy waszej; ale będą wam sidłem, i zawadą, i biczem na boki wasze, i cierniem na oczy wasze, póki nie wyginiecie z tej przewybornej ziemi, którą wam dał Pan, Bóg wasz.
 
-**[23:14]** A oto, ja idę dziś w drogę wszystkiej ziemi; poznajcież tedy ze wszystkiego serca waszego, i ze wszystkiej duszy waszej, żeć nie chybiło żadne słowo ze wszystkich słów najlepszych, które mówił Pan, Bóg wasz o was; wszystkie się nad wami wypełniły , a nie chybiło z nich żadne słowo.
+**[23:14]** A oto, ja idę dziś w drogę wszystkiej ziemi; poznajcież tedy ze wszystkiego serca waszego, i ze wszystkiej duszy waszej, żeć nie chybiło żadne słowo ze wszystkich słów najlepszych, które mówił Pan, Bóg wasz o was; wszystkie się nad wami wypełniły, a nie chybiło z nich żadne słowo.
 
 **[23:15]** Przetoż jako się wypełniło nad wami każde słowo dobre, które mówił Pan, Bóg wasz, do was, tak przywiedzie Pan na was każde słowo złe, aż was wytraci z ziemi tej przewybornej, którą wam dał Pan, Bóg wasz.
 
@@ -13538,7 +13538,7 @@
 
 **[2:3]** Przetożem tak rzekł: Nie wypędzę ich od obliczności waszej; ale będą wam jako ciernie na boki, a bogowie ich będą wam jako sidło.
 
-**[2:4]** I stało się, gdy mówił Anioł Pański te słowa do wszystkich synów Izraelskich, że lud podniósł głos swój , i płakali.
+**[2:4]** I stało się, gdy mówił Anioł Pański te słowa do wszystkich synów Izraelskich, że lud podniósł głos swój, i płakali.
 
 **[2:5]** I nazwali imię miejsca onego Bochym, a tamże ofiarowali Panu.
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** Wyszłam stąd obfitą a próżną mię przywrócił Pan. Przeczże mię tedy zowiecie Noemi, gdyż mię Pan utrapił, a Wszechmogący złe na mię dopuścił?
 
-**[1:22]** A tak wróciła się Noemi i Rut Moabitka, synowa jej, z nią; wróciła się z krainy Moabskiej, i przyszły do Betlehem na początku żniwa jęczmiennego .
+**[1:22]** A tak wróciła się Noemi i Rut Moabitka, synowa jej, z nią; wróciła się z krainy Moabskiej, i przyszły do Betlehem na początku żniwa jęczmiennego.
 
 ### Chapter 2
 
@@ -15416,7 +15416,7 @@
 
 **[11:6]** Tedy zstąpił Duch Boży na Saula, gdy usłyszał słowa te, i zapalił się gniew jego bardzo.
 
-**[11:7]** A wziąwszy parę wołów, rozrąbał je na sztuki, i rozesłał po wszystkich granicach Izraelskich przez też posły, mówiąc: Ktokolwiek nie wynijdzie za Saulem i za Samuelem, tak się stanie wołom jego. I padł strach Pański na lud, i wyszli jako mąż jeden .
+**[11:7]** A wziąwszy parę wołów, rozrąbał je na sztuki, i rozesłał po wszystkich granicach Izraelskich przez też posły, mówiąc: Ktokolwiek nie wynijdzie za Saulem i za Samuelem, tak się stanie wołom jego. I padł strach Pański na lud, i wyszli jako mąż jeden.
 
 **[11:8]** I obliczył je w Bezeku; a było synów Izraelskich trzy kroć sto tysięcy, a mężów Juda trzydzieści tysięcy.
 
@@ -15644,7 +15644,7 @@
 
 **[15:1]** I rzekł Samuel do Saula: Posłał mię Pan, abym cię pomazał za króla nad ludem jego Izraelskim, przetoż teraz posłuchaj głosu słów Pańskich.
 
-**[15:2]** Tak mówi Pan zastępów: Wspomniałem na to, co uczynił Amalek Izraelowi, jako się nań zasadził na drodze gdy wychodził z Egiptu. Przetoż idź, a pobij Amaleka, i wytrać jako przeklęte wszystko, co ma; nie folguj mu, ale wybij od męża aż do niewiasty , od małego aż do ssącego, od wołu aż do owcy, od wielbłąda aż do osła.
+**[15:2]** Tak mówi Pan zastępów: Wspomniałem na to, co uczynił Amalek Izraelowi, jako się nań zasadził na drodze gdy wychodził z Egiptu. Przetoż idź, a pobij Amaleka, i wytrać jako przeklęte wszystko, co ma; nie folguj mu, ale wybij od męża aż do niewiasty, od małego aż do ssącego, od wołu aż do owcy, od wielbłąda aż do osła.
 
 **[15:3]** A tak Saul zebrawszy lud, policzył go w Telaim, dwa kroć sto tysięcy pieszych, a dziesięć tysięcy mężów z Juda.
 
@@ -16714,7 +16714,7 @@
 
 **[2:28]** A tak zatrąbił Joab w trąbę i zastanowił się wszystek lud, a nie gonili dalej Izraela, ani się więcej potykali.
 
-**[2:29]** Ale Abner i mężowie jego szli polem całą onę noc, a przeprawiwszy się przez Jordan , przeszli przez wszystko Betoron, aż przyszli do Mahanaim.
+**[2:29]** Ale Abner i mężowie jego szli polem całą onę noc, a przeprawiwszy się przez Jordan, przeszli przez wszystko Betoron, aż przyszli do Mahanaim.
 
 **[2:30]** A Joab wróciwszy się z pogoni za Abnerem, zebrał wszystek lud, i nie dostawało mu sług Dawidowych dziewiętnastu mężów, i Asaela.
 
@@ -16874,7 +16874,7 @@
 
 **[5:22]** Znowu jeszcze przyciągnęli Filistynowie, i rozpostarli się w dolinie Refaim.
 
-**[5:23]** I pytał się Dawid Pana, który odpowiedział: Nie pójdziesz przeciwko nim; ale je obtoczywszy z tyłu natrzesz na nie przeciwko morwom .
+**[5:23]** I pytał się Dawid Pana, który odpowiedział: Nie pójdziesz przeciwko nim; ale je obtoczywszy z tyłu natrzesz na nie przeciwko morwom.
 
 **[5:24]** A gdy usłyszysz, iż zaszumią wierzchy morwów, tedy się ruszysz, gdyż na ten czas pójdzie Pan przed tobą, aby poraził wojska Filistyńskie.
 
@@ -17204,7 +17204,7 @@
 
 **[12:26]** Potem walczył Joab przeciw Rabbie synów Ammonowych, i wziął miasto królewskie
 
-**[12:27]** A posławszy Joab posły do Dawida, rzekł : Walczyłem przeciw Rabbie i wziąłam miasto wód.
+**[12:27]** A posławszy Joab posły do Dawida, rzekł: Walczyłem przeciw Rabbie i wziąłam miasto wód.
 
 **[12:28]** Przetoż teraz zbierz ostatek ludu, a połóż się obozem przeciwko miastu, i weźmij je, bym ja snać nie wziął miasta tego, a przypisanoby zwycięstwo imieniowi memu.
 
@@ -17398,7 +17398,7 @@
 
 **[15:17]** A gdy wyszedł król i wszystek lud pieszo, stanęli na jednem miejscu z daleka.
 
-**[15:18]** Wszyscy też słudzy jego szli przy nim , i wszyscy Cheretczycy, i wszyscy Feletczycy, i wszyscy Gietejczycy, sześć set mężów, którzy byli przyszli pieszo z Giet, szli przed twarzą królewską.
+**[15:18]** Wszyscy też słudzy jego szli przy nim, i wszyscy Cheretczycy, i wszyscy Feletczycy, i wszyscy Gietejczycy, sześć set mężów, którzy byli przyszli pieszo z Giet, szli przed twarzą królewską.
 
 **[15:19]** Tedy rzekł król do Itaja Gietejczyka: Czemuż i ty z nami idziesz? Wróć się, a zostań przy królu; boś ty cudzoziemiec, a nie długo wrócisz się do miejsca twego.
 
@@ -17570,7 +17570,7 @@
 
 **[18:11]** Tedy rzekł Joab mężowi, który mu to oznajmił: Jeźliś widział, a czmużeś go tam nie zabił i nie zrzucił na ziemię? A ja bym ci był powinien dać dziesięć srebników i jeden pas rycerski.
 
-**[18:12]** I odpowiedział on mąż Joabowi: A ja choćbym miał odważonych na rękach mych tysiąc srebników, nie podniósłbym ręki mojej na syna królewskiego; bośmy słyszeli, gdy przykazał król tobie i Abisajowi i Itajowi, mówiąc: Ochraniajcie wszyscy syna mego A	bsaloma.
+**[18:12]** I odpowiedział on mąż Joabowi: A ja choćbym miał odważonych na rękach mych tysiąc srebników, nie podniósłbym ręki mojej na syna królewskiego; bośmy słyszeli, gdy przykazał król tobie i Abisajowi i Itajowi, mówiąc: Ochraniajcie wszyscy syna mego A bsaloma.
 
 **[18:13]** Chyba, żebym chciał wdać duszę moję w niebezpieczeństwo; bo nie bywa nic zatajono przed królem; i ty sam byłbyś przeciwko mnie.
 
@@ -18934,7 +18934,7 @@
 
 **[12:1]** Tedy jechał Roboam do Sychem; bo w Sychem zebrał się był wszystek Izrael, aby go postanowili królem.
 
-**[12:2]** I stało się, gdy usłyszał Jeroboam, syn Nabata, który był jeszcze w Egipcie; ( bo był uciekł przed królem Salomonem, i mieszkał Jeroboam w Egipcie.)
+**[12:2]** I stało się, gdy usłyszał Jeroboam, syn Nabata, który był jeszcze w Egipcie; (bo był uciekł przed królem Salomonem, i mieszkał Jeroboam w Egipcie.)
 
 **[12:3]** Tedy posłali i wezwali go. Przetoż przyszedłszy Jeroboam, i wszystko zgromadzenie Izraelskie, rzekli do Roboama, mówiąc:
 
@@ -20094,7 +20094,7 @@
 
 **[7:7]** A tak wstawszy uciekli w zmierzch, zostawiwszy namioty swe, i konie swe i osły swe, i obóz jaki był, a uciekli, chcąc zachować duszę swoję.
 
-**[7:8]** A gdy przyszli oni trędowaci aż na przodek obozu, weszli do jednego namiotu, i jedli i pili, a nabrawszy stamtąd srebra i złota, i szat, szli i skryli. Potem się wrócili, i weszli do drugiego namiotu, a nabrawszy także stamtąd, odeszli i pokryli .
+**[7:8]** A gdy przyszli oni trędowaci aż na przodek obozu, weszli do jednego namiotu, i jedli i pili, a nabrawszy stamtąd srebra i złota, i szat, szli i skryli. Potem się wrócili, i weszli do drugiego namiotu, a nabrawszy także stamtąd, odeszli i pokryli.
 
 **[7:9]** Zatem rzekł jeden do drugiego: Nie dobrze czynimy. Dzień ten jest dzień dobrej nowiny, a my milczymy? Jeźli będziemy czekali aż do zaranku, będziemy winni grzechu. Przetoż teraz pójdźcie, wnijdźmy, a opowiedzmy to domowi królewskiemu.
 
@@ -20196,7 +20196,7 @@
 
 **[9:7]** I wytracisz dom Achaba, pana twego; albowiem pomszczę się krwi sług moich proroków, i krwi wszystkich sług Pańskich, z ręki Jezabeli.
 
-**[9:8]** A tak zginie wszystek dom Achabowy; i wykorzenię z domu Achabowego aż do najmniejszego szczenięcia, i więźnia , i opuszczonego w Izraelu.
+**[9:8]** A tak zginie wszystek dom Achabowy; i wykorzenię z domu Achabowego aż do najmniejszego szczenięcia, i więźnia, i opuszczonego w Izraelu.
 
 **[9:9]** I uczynię domowi Achabowemu, jako domowi Jeroboama, syna Nabatowego, i jako domowi Baazy, syna Achyjaszowego.
 
@@ -20360,7 +20360,7 @@
 
 **[11:14]** A gdy ujrzała, że oto król stał na majestacie według zwyczaju, a książęta i trąby około króla, a wszystek lud ziemi weselący się, i trąbiący w trąby, rozdarła Atalija odzienie swoje, i wołała: Sprzysiężenie, sprzysiężenie!
 
-**[11:15]** Przetoż rozkazał Jojada kapłan rotmistrzom, którzy byli nad wojskiem, i rzekł do nich: Wywiedźcie ją z zagrodzenia kościoła, a ktobykolwiek chciał iść za nią, niech zabity będzie mieczem; bo rzekł był kapłan: Niech nie będzie zabita w domu Pańskim .
+**[11:15]** Przetoż rozkazał Jojada kapłan rotmistrzom, którzy byli nad wojskiem, i rzekł do nich: Wywiedźcie ją z zagrodzenia kościoła, a ktobykolwiek chciał iść za nią, niech zabity będzie mieczem; bo rzekł był kapłan: Niech nie będzie zabita w domu Pańskim.
 
 **[11:16]** I uczynili jej plac; a gdy przyszła na drogę, którą wodzono konie do domu królewskiego, tamże jest zabita.
 
@@ -21160,7 +21160,7 @@
 
 **[25:7]** A synów Sedekijaszowych pozabijali przed oczyma jego; potem Sedekijasza oślepiwszy związali go łańcuchami miedzianemi, i zawiedli go do Babilonu.
 
-**[25:8]** Potem miesiąca piątego, siódmego dnia tegoż miesiąca, ( ten jest rok dziewiętnasty królowania Nabuchodonozora, króla Babilońskiego) przyciągnął Nabuzardan, hetman żołnierski, sługa króla Babilońskiego, do Jeruzalemu;
+**[25:8]** Potem miesiąca piątego, siódmego dnia tegoż miesiąca, (ten jest rok dziewiętnasty królowania Nabuchodonozora, króla Babilońskiego) przyciągnął Nabuzardan, hetman żołnierski, sługa króla Babilońskiego, do Jeruzalemu;
 
 **[25:9]** I spalił do Pański, i dom królewski, i wszystkie domy w Jeruzalemie, owa wszystko budowanie kosztowne popalił ogniem.
 
@@ -23498,7 +23498,7 @@
 
 **[8:13]** Cokolwiek zwyczajnie na każdy dzień ofiarować miano według rozkazania Mojżeszowego w sabaty, na nowiu miesiąca, i w święta uroczyste, trzy kroć do roku, w święto przaśników, i w święto tygodni, i w święto kuczek.
 
-**[8:14]** I postanowił według rozrządzenia Dawida, ojca swego, rozdziały kapłanów w posługiwaniu ich, i Lewitów w powinnościach ich, aby chwalili Boga, i służyli przy kapłanach według zwyczaju każdego dnia; odźwiernych też w rzędach ich przy każdej bramie ; albowiem tak było rozkazanie Dawida, męża Bożego.
+**[8:14]** I postanowił według rozrządzenia Dawida, ojca swego, rozdziały kapłanów w posługiwaniu ich, i Lewitów w powinnościach ich, aby chwalili Boga, i służyli przy kapłanach według zwyczaju każdego dnia; odźwiernych też w rzędach ich przy każdej bramie; albowiem tak było rozkazanie Dawida, męża Bożego.
 
 **[8:15]** I nie ustąpili od rozkazania królewskiego o kapłanach i o Lewitach, około wszystkich rzeczy i około skarbów.
 
@@ -23524,7 +23524,7 @@
 
 **[9:7]** Błogosławieni mężowie twoi i błogosławieni ci słudzy twoi, którzy stoją przed tobą zawsze, a słuchają mądrości twojej.
 
-**[9:8]** Niechże będzie Pan, Bóg twój, błogosławiony, który cię sobie upodobał, aby cię posadził na stolicy swojej za króla przed Panem, Bogiem twoim. Dla tego, iż umiłował Bóg twój Izraela, aby go umocnił na wieki, przetoż postanowił cię nad nimi za króla , abyś czynił sąd i sprawiedliwość.
+**[9:8]** Niechże będzie Pan, Bóg twój, błogosławiony, który cię sobie upodobał, aby cię posadził na stolicy swojej za króla przed Panem, Bogiem twoim. Dla tego, iż umiłował Bóg twój Izraela, aby go umocnił na wieki, przetoż postanowił cię nad nimi za króla, abyś czynił sąd i sprawiedliwość.
 
 **[9:9]** I dała królowi sto i dwadzieścia talentów złota, i rzeczy wonnych bardzo wiele, i kamienia drogiego; a nieprzyszło nigdy więcej takich rzeczy wonnych, jakie dała królowa z Saby królowi Salomonowi.
 
@@ -24230,7 +24230,7 @@
 
 **[25:4]** Wszakże synów ich niepobił: ale uczynił, jako napisano w zakonie, w księgach Mojżeszowych, gdzie przykazał Pan, mówiąc: Nie umrą ojcowie za synów, ani synowie umrą za ojców, ale każdy za grzech swój umrze.
 
-**[25:5]** Tedy zgromadził Amazyjasz lud Judzki, i postanowił ich według domów ojcowskich za półkowników i za rotmistrzów po wszystkiem pokoleniu Judowem, i Benjaminowem, a policzywszy ich od dwudziestu lat i wyżej, znalazł ich trzy kroć sto tysięcy na wybór , gotowych do boju, noszących drzewce i tarczę.
+**[25:5]** Tedy zgromadził Amazyjasz lud Judzki, i postanowił ich według domów ojcowskich za półkowników i za rotmistrzów po wszystkiem pokoleniu Judowem, i Benjaminowem, a policzywszy ich od dwudziestu lat i wyżej, znalazł ich trzy kroć sto tysięcy na wybór, gotowych do boju, noszących drzewce i tarczę.
 
 **[25:6]** Najął także za pieniądze z Izraela sto tysięcy mężów dużych za sto talentów srebra.
 
@@ -24364,7 +24364,7 @@
 
 **[28:8]** Nadto pojmali synowie Izraelscy z braci swych dwa kroć sto tysięcy niewiast, synów, i córek, i bardzo wiele łupów pobrali od nich, i zaprowadzili korzyść do Samaryi.
 
-**[28:9]** I był tam prorok Pański, imieniem Obed, który zaszedłszy onemu wojsku idącemu do Samaryi, rzekł im: Oto, rozgniewawszy się Pan, Bóg ojców waszych, na Judę, podał ich w rękę waszę, a wyście ich pomordowali w popędliwości, która aż do nieba przyszła .
+**[28:9]** I był tam prorok Pański, imieniem Obed, który zaszedłszy onemu wojsku idącemu do Samaryi, rzekł im: Oto, rozgniewawszy się Pan, Bóg ojców waszych, na Judę, podał ich w rękę waszę, a wyście ich pomordowali w popędliwości, która aż do nieba przyszła.
 
 **[28:10]** A jeszcze lud z Judy i z Jeruzalemu chcecie sobie podbić za niewolników i za niewolnice; azaż i przy was samych nie ma występku przeciw Panu, Bogu waszemu?
 
@@ -26256,7 +26256,7 @@
 
 **[13:14]** Wspomnij na mię o Boże mój! dla tego, a nie wymazuj dobroczynności moich, którem czynił przy domu Boga mego, i przy obrzędach jego.
 
-**[13:15]** W oneż dni widziałem w Judzie tłoczących prasy w sabat, i noszących snopy, które kładli na osły, także i winne grona, i figi, i wszelki ciężar, a przynoszących do Jeruzalemu w dzień sabatu, i zgromiłem ich onegoż dnia, którego sprzedawali żywność .
+**[13:15]** W oneż dni widziałem w Judzie tłoczących prasy w sabat, i noszących snopy, które kładli na osły, także i winne grona, i figi, i wszelki ciężar, a przynoszących do Jeruzalemu w dzień sabatu, i zgromiłem ich onegoż dnia, którego sprzedawali żywność.
 
 **[13:16]** Także Tyryjczycy, którzy mieszkali w niem, przynosili ryby, i rozmaite towary, a sprzedawali w sabat synom Judy, i w Jeruzalemie.
 
@@ -26472,7 +26472,7 @@
 
 **[5:8]** Jeźlim znalazła łaskę w oczach królewskich, a jeźli się królowi podoba, aby przyzwolił na prośbę moję, i wypełnił żądość moję, aby jeszcze przyszedł król i Haman na ucztę, którą im zgotuję, a jutro uczynię według słowa królewskiego.
 
-**[5:9]** A tak wyszedł Haman dnia onego wesoły, i z dobrą myślą; ale gdy ujrzał Haman Mardocheusza w bramie królewskiej, że ani powstał, ani się ruszył przed nim , napełniony był Haman przeciwko Mardocheuszowi popędliwością.
+**[5:9]** A tak wyszedł Haman dnia onego wesoły, i z dobrą myślą; ale gdy ujrzał Haman Mardocheusza w bramie królewskiej, że ani powstał, ani się ruszył przed nim, napełniony był Haman przeciwko Mardocheuszowi popędliwością.
 
 **[5:10]** Wszakże zatrzymał się Haman, aż przyszedł do domu swego, a posławszy wezwał przyjaciół swoich, i Zeres, żony swej.
 
@@ -26924,7 +26924,7 @@
 
 **[6:23]** I wybawcie mię z rąk nieprzyjaciela, a z rąk okrutników odkupcie mię?
 
-**[6:24]** Nauczcież mię , a ja umilknę; a w czemem zbłądził pokażcie mi.
+**[6:24]** Nauczcież mię, a ja umilknę; a w czemem zbłądził pokażcie mi.
 
 **[6:25]** O jakoż są mocne słowa prawdziwe! Ale cóż sprawi obwinienie wasze?
 
@@ -33448,7 +33448,7 @@
 
 ### Chapter 124
 
-**[124:1]** Pieśń stopni Dawidowa. Gdyby był Pan z nami nie był , ( powiedz teraz Izraelu!)
+**[124:1]** Pieśń stopni Dawidowa. Gdyby był Pan z nami nie był, (powiedz teraz Izraelu!)
 
 **[124:2]** Gdyby był Pan z nami nie był, gdy ludzie powstawali przeciwko nam:
 
@@ -33718,7 +33718,7 @@
 
 **[137:2]** Na wierzbach, które są w nim, zawieszaliśmy harfy nasze.
 
-**[137:3]** A gdy nas tam pytali ci, którzy nas zawiedli w niewolę, o słowa pieśni,( chociażeśmy byli zawiesili pieśni radości,) mówiąc: Śpiewajcie nam pieśń z pieśni Syońskich,
+**[137:3]** A gdy nas tam pytali ci, którzy nas zawiedli w niewolę, o słowa pieśni,(chociażeśmy byli zawiesili pieśni radości,) mówiąc: Śpiewajcie nam pieśń z pieśni Syońskich,
 
 **[137:4]** Odpowiedzieliśmy: Jakoż mamy śpiewać pieśń Pańską w ziemi cudzoziemców?
 
@@ -33806,7 +33806,7 @@
 
 **[140:2]** Wyrwij mię, Panie! od człowieka złego, od męża okrutnego strzeż mię;
 
-**[140:3]** Którzy myślą złe rzeczy w sercu , a na każdy dzień zbierają się na wojnę.
+**[140:3]** Którzy myślą złe rzeczy w sercu, a na każdy dzień zbierają się na wojnę.
 
 **[140:4]** Zaostrzają język swój, jako wąż; jad żmij pod wargami ich. Sela.
 
@@ -34014,7 +34014,7 @@
 
 **[147:11]** Kocha się Pan w tych, którzy się go boją, a którzy ufają w miłosierdziu jego.
 
-**[147:12]** Chwalże, Jeruzalemie! Pana; chwalże , Syonie! Boga twego.
+**[147:12]** Chwalże, Jeruzalemie! Pana; chwalże, Syonie! Boga twego.
 
 **[147:13]** Albowiem on umacnia zawory bram twoich, a błogosławi synów twoich w pośrodku ciebie.
 
@@ -34972,7 +34972,7 @@
 
 **[15:15]** Wszystkie dni ubogiego są złe; ale kto jest wesołego serca, ma gody ustawiczne.
 
-**[15:16]** Lepsza jest trocha w bojaźni Pańskiej , niżeli skarb wielki z kłopotem.
+**[15:16]** Lepsza jest trocha w bojaźni Pańskiej, niżeli skarb wielki z kłopotem.
 
 **[15:17]** Lepszy jest pokarm z jarzyny, gdzie jest miłość, niżeli z karmnego wołu, gdzie jest nienawiść.
 
@@ -35360,7 +35360,7 @@
 
 **[21:26]** Każdego dnia pała pożądliwością; ale sprawiedliwy udziela, a nie szczędzi.
 
-**[21:27]** Ofiara niepobożnych jest obrzydliwością , a dopieroż gdyby ją w grzechu ofiarował.
+**[21:27]** Ofiara niepobożnych jest obrzydliwością, a dopieroż gdyby ją w grzechu ofiarował.
 
 **[21:28]** Świadek fałszywy zaginie; ale mąż dobry to, co słyszy, statecznie mówić będzie.
 
@@ -35436,7 +35436,7 @@
 
 **[23:2]** Inaczej wraziłbyś nóż w gardło swoje, jeźlibyś był chciwy pokarmu.
 
-**[23:3]** Nie pragnij łakoci jego ; bo są pokarmem obłudnym.
+**[23:3]** Nie pragnij łakoci jego; bo są pokarmem obłudnym.
 
 **[23:4]** Nie staraj się, abyś się zbogacił; owszem, zaniechaj opatrzności twojej.
 
@@ -35796,7 +35796,7 @@
 
 **[28:25]** Wysokomyślny wszczyna zwadę; ale kto nadzieję ma w Panu, dostatek mieć będzie.
 
-**[28:26]** Kto ufa w sercu swem, głupi jest; ale kto sobie mądrze poczyna, ten ujdzie nieszczęścia .
+**[28:26]** Kto ufa w sercu swem, głupi jest; ale kto sobie mądrze poczyna, ten ujdzie nieszczęścia.
 
 **[28:27]** Kto daje ubogiemu, nie będzie miał niedostatku; ale kto od niego odwraca oczy swe, wielkie przeklęstwa nań przyjdą.
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** A chociażem udał serce swe na to, abym doszedł mądrości, i zrozumiał kłopoty, które się dzieją na ziemi, dla których człowiek ani we dnie ani w nocy nie śpi;
 
-**[8:17]** A wszakże widziałem przy każdym uczynku Bożym, że nie może człowiek doścignąć sprawy, która się dzieje pod słońcem. Starać się człowiek chcąc tego dojść, ale nie dochodzi; owszem choćby rzekł mądry, że się chce dowiedzieć, nie będzie mógł znaleść .
+**[8:17]** A wszakże widziałem przy każdym uczynku Bożym, że nie może człowiek doścignąć sprawy, która się dzieje pod słońcem. Starać się człowiek chcąc tego dojść, ale nie dochodzi; owszem choćby rzekł mądry, że się chce dowiedzieć, nie będzie mógł znaleść.
 
 ### Chapter 9
 
@@ -36816,7 +36816,7 @@
 
 **[2:18]** Lecz bałwany ich do szczętu pokruszone będą.
 
-**[2:19]** Tedy wnijdą do jaskiń skalnych, i do jam podziemnych przed strachem Pańskim, i przed chwałą majestatu jego, gdy powstanie , aby ziemię potarł.
+**[2:19]** Tedy wnijdą do jaskiń skalnych, i do jam podziemnych przed strachem Pańskim, i przed chwałą majestatu jego, gdy powstanie, aby ziemię potarł.
 
 **[2:20]** Dnia onego wrzuci człowiek bałwany swe srebrne i bałwany swe złote, które mu naczyniono, aby się im kłaniał, w dziury kretów i nietoperzy.
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Oto są jako plewa; ogień popali ich, nie wybawią ani duszy swej z mocy płomienia; nie zostanie węgla do ogrzania się, ani ognia, coby posiedzieć przy nim.
 
-**[47:15]** Takci się stanie kupcom twoim, z którymiś się zabawiała od młodości twojej: każdy się z nich w swą stronę uda, nie będzie , ktoby cię wybawił.
+**[47:15]** Takci się stanie kupcom twoim, z którymiś się zabawiała od młodości twojej: każdy się z nich w swą stronę uda, nie będzie, ktoby cię wybawił.
 
 ### Chapter 48
 
@@ -39084,7 +39084,7 @@
 
 **[57:17]** Dla nieprawości łakomstwa jego rozgniewałem się, a uderzyłem go; ukryłem się, a rozgniewałem się, przeto, że odpornym będąc, poszedł drogą serca swego.
 
-**[57:18]** Widzę drogi jego, wszakże uzdrowię go; doprowadzę go; i przywrócę mu pociechy, i tym , którzy z nim płaczą.
+**[57:18]** Widzę drogi jego, wszakże uzdrowię go; doprowadzę go; i przywrócę mu pociechy, i tym, którzy z nim płaczą.
 
 **[57:19]** Stworzę owoc warg, pokój dalekiemu i bliskiemu, mówi Pan; a tak uzdrowię go.
 
@@ -39926,7 +39926,7 @@
 
 **[9:9]** Izali dlatego nienawidzę ich? mówi Pan; izali nad narodem takowym nie pomści się dusza moja?
 
-**[9:10]** Dla tych gór udam się na płacz i na narzekanie, i dla pastwisk, które są na puszczy, na kwilenie; bo spalone będą, tak, że nie będzie, ktoby je przechodził, ani tam głosu bydlęcia słychać będzie; ptastwo niebieskie i bydlęta rozbieżą się i odejdą .
+**[9:10]** Dla tych gór udam się na płacz i na narzekanie, i dla pastwisk, które są na puszczy, na kwilenie; bo spalone będą, tak, że nie będzie, ktoby je przechodził, ani tam głosu bydlęcia słychać będzie; ptastwo niebieskie i bydlęta rozbieżą się i odejdą.
 
 **[9:11]** I obrócę Jeruzalem w gromady rumu, w mieszkanie smoków; a miasta Judzkie obrócę w pustynię, tak, iż nie będzie obywatela.
 
@@ -40674,7 +40674,7 @@
 
 **[25:8]** Przetoż tak mówi Pan zastępów: Dlatego, iżeście nie usłuchali słów moich,
 
-**[25:9]** Oto Ja poślę i pobiorę wszystkie narody północne, mówi Pan, i do Nabuchodonozora króla Babilońskiego, sługi mego, i przywiodę je na tę ziemię, i na obywateli jej, i na te wszystkie narody okoliczne, które do szczętu wygładzę, i położę je na podziw , i na poświstanie, i na spustoszenie wieczne.
+**[25:9]** Oto Ja poślę i pobiorę wszystkie narody północne, mówi Pan, i do Nabuchodonozora króla Babilońskiego, sługi mego, i przywiodę je na tę ziemię, i na obywateli jej, i na te wszystkie narody okoliczne, które do szczętu wygładzę, i położę je na podziw, i na poświstanie, i na spustoszenie wieczne.
 
 **[25:10]** I sprawię to, aby im zginął głos wesela, i głos radości, głos oblubieńca, i głos oblubienicy, głos żarn, i światłość pochodni,
 
@@ -41176,7 +41176,7 @@
 
 **[33:10]** Tak mówi Pan: Jeszcze słyszany będzie na tem miejscu, (o którem wy powiadacie: Jest spustoszone, tak, że niemasz ani człowieka, ani bydlęcia, w miastach Judzkich i na ulicach Jeruzalemskich spustoszonych, tak, że niemasz ani człowieka, ani obywa tela, ani bydlęcia.)
 
-**[33:11]** Słyszany, mówię, będzie głos radości, i głos wesela, głos oblubieńca, i głos oblubienicy, głos mówiących: Wysławiajcie Pana zastępów; albowiem dobry jest Pan, albowiem na wieki miłosierdzie jego; i głos przynoszący ofiarę chwały do domu Pańskiego , gdyż przywrócę pojmanych z tej ziemi, jako na początku, mówi Pan.
+**[33:11]** Słyszany, mówię, będzie głos radości, i głos wesela, głos oblubieńca, i głos oblubienicy, głos mówiących: Wysławiajcie Pana zastępów; albowiem dobry jest Pan, albowiem na wieki miłosierdzie jego; i głos przynoszący ofiarę chwały do domu Pańskiego, gdyż przywrócę pojmanych z tej ziemi, jako na początku, mówi Pan.
 
 **[33:12]** Tak mówi Pan zastępów: Jeszcze będzie na tem miejscu pustem, na którem niemasz ani człowieka, ani bydlęcia, i we wszystkich miastach jego mieszkanie pasterzy, gdzieby chowali trzody;
 
@@ -41242,7 +41242,7 @@
 
 **[34:16]** Aleście się zaś cofnęli, i splugawiliście imię moje, żeście zaś wzięli każdy sługę swego, i każdy służebnicę swoję, któreście byli wolno puścili według żądności ich, i zniewoliliście ich, aby byli sługami i służebnicami waszymi.
 
-**[34:17]** Dlategoż tak mówi Pan: Wyście mię nie słuchali, abyście ogłosili wolność każdy bratu swemu, i każdy bliźniemu swemu; otoż Ja przeciwko wam ogłaszam wolność, mówi Pan, miecza, moru, i głodu, a podam was na potłukanie po wszystkich królestwach ziemi .
+**[34:17]** Dlategoż tak mówi Pan: Wyście mię nie słuchali, abyście ogłosili wolność każdy bratu swemu, i każdy bliźniemu swemu; otoż Ja przeciwko wam ogłaszam wolność, mówi Pan, miecza, moru, i głodu, a podam was na potłukanie po wszystkich królestwach ziemi.
 
 **[34:18]** Podam zaiste tych ludzi, którzy przestąpili przymierze moje, którzy nie dotrzymali słów przymierza tego, które uczynili przed twarzą moją, gdy cielca na dwoje rozcięli, i przeszli między częściami jego;
 
@@ -41670,7 +41670,7 @@
 
 **[44:11]** Przetoż tak mówi Pan zastępów, Bóg Izraelski: Oto Ja obrócę oblicze moje przeciwko wam na złe, aby wykorzenił wszystkiego Judę.
 
-**[44:12]** Wygubię zaiste ostatki Judzkie, którzy upornie weszli do ziemi Egipskiej, aby tam pielgrzymowali, tak, że zniszczeją wszyscy w ziemi Egipskiej, polegną od miecza, od głodu zniszczeją od najmniejszego aż do największego, od miecza i od głodu pomrą ; nadto będą na przeklinanie, i na zdumienie, i na złoszczenie, i na hańbę.
+**[44:12]** Wygubię zaiste ostatki Judzkie, którzy upornie weszli do ziemi Egipskiej, aby tam pielgrzymowali, tak, że zniszczeją wszyscy w ziemi Egipskiej, polegną od miecza, od głodu zniszczeją od najmniejszego aż do największego, od miecza i od głodu pomrą; nadto będą na przeklinanie, i na zdumienie, i na złoszczenie, i na hańbę.
 
 **[44:13]** Bo nawiedzę tych, którzy mieszkają w ziemi Egipskiej, jakom nawiedził Jeruzalem mieczem, głodem i morem.
 
@@ -44210,7 +44210,7 @@
 
 **[31:15]** Tak mówi panujący Pan: Dnia, którego on zstąpił do grobu, uczyniłem lament, zawarłem dla niego przepaść, i zahamowałem strumienie jej, aby się zastanowiły wody wielkie; i uczyniłaem, że się zaćmił dla niego Liban, a wszystkie drzewa polne dla nie go zemdlały.
 
-**[31:16]** Od grzmotu upadku jego zatrwożyłem narody, gdym go wepchnął do grobu z tymi, co w dół zstępują, nad czem się ucieszyły na ziemi na dole wszystkie drzewa Eden, i co jest najwyborniejszego, i najlepszego na Libanie, i wszystko, co jest opojone wodą .
+**[31:16]** Od grzmotu upadku jego zatrwożyłem narody, gdym go wepchnął do grobu z tymi, co w dół zstępują, nad czem się ucieszyły na ziemi na dole wszystkie drzewa Eden, i co jest najwyborniejszego, i najlepszego na Libanie, i wszystko, co jest opojone wodą.
 
 **[31:17]** I ci z nim zstąpili do grobu, do pobitych mieczem, którzy byli ramieniem jego, i którzy siadali w cieniu jego w pośrodku narodów.
 
@@ -45336,7 +45336,7 @@
 
 **[2:30]** Mnie też nie przez mądrość, któraby przy mnie była nad wszystkich ludzi, tajemnica ta objawiona jest, ale przez modlitwę, aby ten wykład królowi oznajmiony był, a iżbyś się myśli serca twego dowiedział.
 
-**[2:31]** Tyś, królu! widział, a oto obraz jeden wielki( obraz to był wielki, a blask jego znaczny )stał przeciwko tobie, który na wejrzeniu był straszny.
+**[2:31]** Tyś, królu! widział, a oto obraz jeden wielki(obraz to był wielki, a blask jego znaczny)stał przeciwko tobie, który na wejrzeniu był straszny.
 
 **[2:32]** Tego obrazu głowa była ze złota szczerego, piersi jego i ramiona jego ze srebra, brzuch jego i biodra jego z miedzi;
 
@@ -45600,7 +45600,7 @@
 
 **[6:11]** Tedy oni mężowie zgromadziwszy się, a znalazłszy Danijela modlącego się i prośby wylewającego do Boga swego,
 
-**[6:12]** Przystąpili i mówili królowi o wyroku królewskim: Izaliś wyroku nie wydał, aby każdy człowiek, któryby do trzydziestu dni o cokolwiek prosił którego boga albo człowieka oprócz ciebie, królu! był wrzucony do dołu lwiego? Odpowiedział król, i rzekł : Prawdziwa to mowa według prawa Medskiego i Perskiego, które się nie odmienia.
+**[6:12]** Przystąpili i mówili królowi o wyroku królewskim: Izaliś wyroku nie wydał, aby każdy człowiek, któryby do trzydziestu dni o cokolwiek prosił którego boga albo człowieka oprócz ciebie, królu! był wrzucony do dołu lwiego? Odpowiedział król, i rzekł: Prawdziwa to mowa według prawa Medskiego i Perskiego, które się nie odmienia.
 
 **[6:13]** Tedy odpowiadając rzekli do króla: Ten Danijel, który jest z więźniów synów Judzkich, nie ma względu na cię, o królu! ani na twój wyrok, któryś wydał; bo trzy kroć przez dzień odprawuje modlitwy swoje.
 
@@ -45760,7 +45760,7 @@
 
 **[9:5]** Zgrzeszyliśmy i przewrotnieśmy czynili, i niezbożnieśmy się sprawowali, i sprzeciwiliśmy się, a odstąpiliśmy od przykazań twoich i od sądów twoich;
 
-**[9:6]** I nie słuchaliśmy sług twoich, proroków , którzy mawiali w imieniu twojem do królów naszych, do książąt naszych, i do ojców naszych, i do wszystkiego ludu ziemi.
+**[9:6]** I nie słuchaliśmy sług twoich, proroków, którzy mawiali w imieniu twojem do królów naszych, do książąt naszych, i do ojców naszych, i do wszystkiego ludu ziemi.
 
 **[9:7]** Tobie, Panie! sprawiedliwość, a nam zawstydzenie twarzy należy, jako się to dzieje dnia tego mężom Judzkim i obywatelom Jeruzalemskim i wszystkiemu Izraelowi, bliskim i dalekim we wszystkich ziemiach, do którycheś ich wygnał dla przestępstwa ich, którem wystąpili przeciwko tobie.
 
@@ -45856,7 +45856,7 @@
 
 **[11:3]** I powstanie król mocny, a będzie panował mocą wielką, a będzie czynił według woli swojej.
 
-**[11:4]** A gdy się on zmocni, będzie skruszone królestwo jego, i będzie rozdzielone na cztery strony świata, wszakże nie między potomków jego, ani będzie państwo jego takie, jakie było; bo wykorzenione będzie królestwo jego, a innym mimo onych dostanie się .
+**[11:4]** A gdy się on zmocni, będzie skruszone królestwo jego, i będzie rozdzielone na cztery strony świata, wszakże nie między potomków jego, ani będzie państwo jego takie, jakie było; bo wykorzenione będzie królestwo jego, a innym mimo onych dostanie się.
 
 **[11:5]** Tedy się zmocni król z południa i jeden z książąt jego; ten mocniejszy będzie nadeń, i panować będzie, a państwo jego będzie państwo szerokie.
 
@@ -46066,7 +46066,7 @@
 
 **[4:5]** Przetoż upadniesz we dnie, upadnie też i prorok z tobą w nocy; zagładzę i matkę twoję.
 
-**[4:6]** Lud mój wygładzony będzie dla nieumiejętności; a ponieważeś ty odrzucił umiejętność , i Ja też ciebie odrzucę, abyś mi kapłańskiego urzędu nie odprawował; a iżeś zapomniał zakonu Boga twego, Ja też zapomnę na synów twoich.
+**[4:6]** Lud mój wygładzony będzie dla nieumiejętności; a ponieważeś ty odrzucił umiejętność, i Ja też ciebie odrzucę, abyś mi kapłańskiego urzędu nie odprawował; a iżeś zapomniał zakonu Boga twego, Ja też zapomnę na synów twoich.
 
 **[4:7]** Czem się więcej rozmnożyli, tem więcej grzeszyli przeciwko mnie; dlatego sławę ich odmienię w hańbę.
 
@@ -47388,7 +47388,7 @@
 
 **[2:5]** Dopieroż człowiek opiły, przewrotny i hardy nie ostoi się w mieszkaniu swojem, który rozszerza jako piekło duszę swoję, a jest jako śmierć, która się nie może nasycić, choćby zgromadził do siebie wszystkie narody, a zebrał do siebie wszystkich lud zi.
 
-**[2:6]** Izali ci wszyscy o nim przypowieści nie uczynią i wykładów i gadanin o nim? mówiąc: Biada temu, który rozmnaża rzeczy nie swoje, ( a dokądże? ) i obciąża się gęstem błotem!
+**[2:6]** Izali ci wszyscy o nim przypowieści nie uczynią i wykładów i gadanin o nim? mówiąc: Biada temu, który rozmnaża rzeczy nie swoje, (a dokądże?) i obciąża się gęstem błotem!
 
 **[2:7]** Izali nie powstaną z prędka, którzy cię kąsać będą, i nie ocucą się, którzy cię szarpać będą? i staniesz się im łupem.
 
@@ -47480,7 +47480,7 @@
 
 **[1:9]** Nawiedzę też dnia onego każdego, który próg przeskakuje, którzy napełniają domy panów swych łupiestwem i bezprawiem.
 
-**[1:10]** A dnia onego, mówi Pan, będzie głos wołania od bramy rybnej, i narzekanie od drugiej strony ( miasta ), i skruszenie wielkie od pagórków.
+**[1:10]** A dnia onego, mówi Pan, będzie głos wołania od bramy rybnej, i narzekanie od drugiej strony (miasta), i skruszenie wielkie od pagórków.
 
 **[1:11]** Narzekajcie wy, którzy mieszkacie wewnątrz: bo wygładzony będzie wszystek lud kupiecki, wygładzeni będą wszyscy, którzy srebro noszą.
 
@@ -48008,7 +48008,7 @@
 
 **[11:15]** I rzekł Pan do mnie: Weźmij sobie jeszcze oręż pasterza głupiego.
 
-**[11:16]** Bo oto Ja wzbudzę pasterza w tej ziemi, który nie będzie obłąkanych nawiedzał, ani będzie jagniątek szukał, złamanego też leczyć , i tego, co ustanie, nosić nie będzie; ale mięso tłustych jeść będzie, a kopyta ich postrąca.
+**[11:16]** Bo oto Ja wzbudzę pasterza w tej ziemi, który nie będzie obłąkanych nawiedzał, ani będzie jagniątek szukał, złamanego też leczyć, i tego, co ustanie, nosić nie będzie; ale mięso tłustych jeść będzie, a kopyta ich postrąca.
 
 **[11:17]** Biada pasterzowi niepożytecznemu, który opuszcza trzodę! miecz nad ramieniem jego i nad prawem okiem jego; ramię jego cale uschnie, a prawe oko jego cale zaćmione będzie.
 
@@ -49076,7 +49076,7 @@
 
 **[13:16]** Ale oczy wasze błogosławione, że widzą, i uszy wasze, że słyszą;
 
-**[13:17]** Bo zaprawdę powiadam wam, iż wiele proroków i sprawiedliwych żądało widzieć to, co wy widzicie, ale nie widzieli, i słyszeć to, co słyszycie, ale nie słyszeli .
+**[13:17]** Bo zaprawdę powiadam wam, iż wiele proroków i sprawiedliwych żądało widzieć to, co wy widzicie, ale nie widzieli, i słyszeć to, co słyszycie, ale nie słyszeli.
 
 **[13:18]** Wy tedy słuchajcie podobieństwa onego rozsiewcy.
 
@@ -50606,7 +50606,7 @@
 
 **[3:13]** I wstąpił na górę, a wezwał do siebie tych, których sam chciał, i przyszli do niego.
 
-**[3:14]** I postanowił ich dwanaście , aby z nim byli, a iżby je wysłał kazać Ewangieliję:
+**[3:14]** I postanowił ich dwanaście, aby z nim byli, a iżby je wysłał kazać Ewangieliję:
 
 **[3:15]** I żeby mieli moc uzdrawiać choroby i wyganiać dyjabły:
 
@@ -55266,7 +55266,7 @@
 
 ### Chapter 12
 
-**[12:1]** Tedy Jezus szóstego dnia przed wielkanocą przyszedł do Betanii, kędy był Łazarz, który był umarł, którego wzbudził od umarłych .
+**[12:1]** Tedy Jezus szóstego dnia przed wielkanocą przyszedł do Betanii, kędy był Łazarz, który był umarł, którego wzbudził od umarłych.
 
 **[12:2]** Tamże mu sprawili wieczerzę, a Marta posługiwała, a Łazarz był jednym z onych, którzy z nim społem u stołu siedzieli.
 
@@ -55952,7 +55952,7 @@
 
 **[21:16]** Rzekł mu zasię po wtóre: Szymonie Jonaszowy! miłujesz mię? Rzekł mu: Tak jest, Panie! ty wiesz, że cię miłuję. Rzekł mu: Paśże owce moje.
 
-**[21:17]** Rzekł mu po trzecie: Szymonie Jonaszowy! miłujesz mię? I zasmucił się Piotr, że mu po trzecie rzekł: Miłujesz mię? I odpowiedział mu : Panie! ty wszystko wiesz, ty znasz, że cię miłuję. Rzekł mu Jezus: Paśże owce moje.
+**[21:17]** Rzekł mu po trzecie: Szymonie Jonaszowy! miłujesz mię? I zasmucił się Piotr, że mu po trzecie rzekł: Miłujesz mię? I odpowiedział mu: Panie! ty wszystko wiesz, ty znasz, że cię miłuję. Rzekł mu Jezus: Paśże owce moje.
 
 **[21:18]** Zaprawdę, zaprawdę powiadam tobie: Gdyś był młodszym, opasywałeś się i chodziłeś, kędyś chciał; lecz gdy się zestarzejesz, wyciągniesz ręce twoje, a inny cię opasze i poprowadzi, gdzie byś nie chciał.
 
@@ -57110,7 +57110,7 @@
 
 **[15:35]** Także Paweł i Barnabasz zamieszkali w Antyjochyi, nauczając i opowiadając z wieloma innymi słowo Pańskie.
 
-**[15:36]** A po kilku dniach rzekł Paweł do Barnabasza: Wróciwszy się , nawiedźmy braci naszych po wszystkich miastach, w którycheśmy opowiadali słowo Pańskie, jakoli się mają.
+**[15:36]** A po kilku dniach rzekł Paweł do Barnabasza: Wróciwszy się, nawiedźmy braci naszych po wszystkich miastach, w którycheśmy opowiadali słowo Pańskie, jakoli się mają.
 
 **[15:37]** Tedy Barnabasz radził, aby z sobą wzięli i Jana, którego zwano Markiem.
 
@@ -57316,7 +57316,7 @@
 
 **[18:20]** A gdy go oni prosili, aby u nich przez dłuższy czas zamieszkał, nie zezwolił;
 
-**[18:21]** Ale się z nimi pożegnawszy, rzekł: Koniecznie ja muszę święto nadchodzące w Jeruzalemie obchodzić; lecz się zasię do was wrócę, będzieli wola Boża. I puścił się z Efezu .
+**[18:21]** Ale się z nimi pożegnawszy, rzekł: Koniecznie ja muszę święto nadchodzące w Jeruzalemie obchodzić; lecz się zasię do was wrócę, będzieli wola Boża. I puścił się z Efezu.
 
 **[18:22]** A gdy przyszedł do Cezaryi, wstąpiwszy do Jeruzalemu a pozdrowiwszy zbór, szedł do Antyjochyi.
 
@@ -57802,7 +57802,7 @@
 
 **[25:17]** Gdy się tedy tu zeszli, bez wszelkiej odwłoki nazajutrz zasiadłszy na sądzie, kazałem przywieść tego męża.
 
-**[25:18]** Przeciw któremu stanąwszy ci, co nań skarżyli, żadnej winy nie przynieśli z tych, którychem się ja spodziewał .
+**[25:18]** Przeciw któremu stanąwszy ci, co nań skarżyli, żadnej winy nie przynieśli z tych, którychem się ja spodziewał.
 
 **[25:19]** Lecz jakieś spory o swoich zabobonach mieli przeciwko niemu i o niejakim Jezusie umarłym, o którym Paweł twierdził, że żyw jest.
 
@@ -61542,7 +61542,7 @@
 
 ### Chapter 4
 
-**[4:1]** A dalej mówiąc, bracia! prosimy was i napominamy przez Pana Jezusa, jakoście przyjęli od nas, jakobyście sobie mieli postępować i Bogu się podobać, ( ), abyście tem więcej obfitowali;
+**[4:1]** A dalej mówiąc, bracia! prosimy was i napominamy przez Pana Jezusa, jakoście przyjęli od nas, jakobyście sobie mieli postępować i Bogu się podobać, (), abyście tem więcej obfitowali;
 
 **[4:2]** Gdyż wiecie, jakieśmy wam rozkazania dali przez Pana Jezusa.
 
@@ -62592,7 +62592,7 @@
 
 **[8:4]** Bo gdyby był na ziemi, nie byłby kapłanem, póki by zostawali oni kapłani, którzy według zakonu dary ofiarują,
 
-**[8:5]** Którzy służą kształtowi i cieniowi rzeczy niebieskich, jako Mojżeszowi od Boga powiedziane było, gdy miał dokończyć przybytku: Patrzajże, ( mówi), abyś uczynił wszystko według kształtu, który ci jest okazany na tej górze.
+**[8:5]** Którzy służą kształtowi i cieniowi rzeczy niebieskich, jako Mojżeszowi od Boga powiedziane było, gdy miał dokończyć przybytku: Patrzajże, (mówi), abyś uczynił wszystko według kształtu, który ci jest okazany na tej górze.
 
 **[8:6]** Ale teraz nasz kapłan tem zacniejszego urzędu dostąpił, im jest pośrednikiem lepszego przymierza, które lepszemi obietnicami jest utwierdzone.
 
@@ -63354,7 +63354,7 @@
 
 **[4:15]** A żaden z was niech nie cierpi jako mężobójca, albo złodziej, albo złoczyńca, albo jako w cudzy urząd się wtrącający.
 
-**[4:16]** Lecz jeźli cierpi jako chrześcijanin, niech się nie wstydzi, owszem niech chwali Boga w tej mierze .
+**[4:16]** Lecz jeźli cierpi jako chrześcijanin, niech się nie wstydzi, owszem niech chwali Boga w tej mierze.
 
 **[4:17]** Albowiem czas jest, aby się sąd począł od domu Bożego; a ponieważ najprzód zaczyna się od nas, jakiż będzie koniec tych, co są nieposłuszni Ewangielii Bożej?
 
@@ -63950,7 +63950,7 @@
 
 **[2:22]** Oto ja porzucę ją na łoże i tych, którzy z nią cudzołożą, w ucisk wielki, jeźliby nie pokutowali z uczynków swoich:
 
-**[2:23]** A dzieci jej pobiję na śmierć; i poznają wszystkie zbory, żem ja jest ten, który się badam nerek i serc; i dam każdemu z was według uczynków waszych .
+**[2:23]** A dzieci jej pobiję na śmierć; i poznają wszystkie zbory, żem ja jest ten, który się badam nerek i serc; i dam każdemu z was według uczynków waszych.
 
 **[2:24]** A wam mówię i drugim, którzyście w Tyjatyrzech, którzykolwiek nie mają tej nauki i którzy nie poznali głębokości szatańskich, jako mówią: Nie włożę na was innego brzemienia.
 
@@ -63968,7 +63968,7 @@
 
 **[3:1]** A aniołowi zboru, który jest w Sardziech, napisz: To mówi ten, który ma siedm duchów Bożych i siedm gwiazd: Znam uczynki twoje, i masz imię, że żyjesz; aleś jest umarły.
 
-**[3:2]** Bądź czujny, a utwierdzaj innych, którzy umrzeć mają; albowiem nie znalazłem uczynków twoich zupełnych przed Bogiem .
+**[3:2]** Bądź czujny, a utwierdzaj innych, którzy umrzeć mają; albowiem nie znalazłem uczynków twoich zupełnych przed Bogiem.
 
 **[3:3]** Pamiętaj tedy, jakoś wziął i słyszał, a chowaj i pokutuj. Jeźli tedy czuć nie będziesz, przyjdę na cię jako złodziej, a nie zrozumiesz, której godziny przyjdę na cię.
 

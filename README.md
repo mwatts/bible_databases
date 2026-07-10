@@ -1,4 +1,4 @@
-# Bible Versions and Cross-Reference Databases: MySQL, SQLite, CSV, JSON, YAML, TXT, MD.
+# Bible Versions and Cross-Reference Databases: MySQL, SQLite, CSV, JSON, YAML, TXT, MD, PARQUET.
 
 This is a collection of bible versions in different formats. Here are some quick introductions:
 
@@ -11,6 +11,10 @@ See the simple [DOCUMENTATION](https://github.com/scrollmapper/bible_databases/b
 
 > **⚠️ Important: The legacy version of this project is available on the [2024](https://github.com/scrollmapper/bible_databases/tree/2024) branch. Please note that significant changes to the database schema have been implemented in the 2025 branch and subsequent versions.**
 
+
+<p align="center">
+  <img src="docs/scrollmapper.png" alt="Scrollmapper" width="900">
+</p>
 
 ## Available Translations (140)
 
@@ -90,7 +94,7 @@ See the simple [DOCUMENTATION](https://github.com/scrollmapper/bible_databases/b
 - **LITV (en)**: LITV: Green's Literal Translation
 - **LvGluck8 (lv)**: LvGluck8: Latvian Glück 8th edition
 - **MKJV (en)**: MKJV: Green's Modern King James Version
-- **Mal1910 (mlf)**: Mal1910: Sathyavedapusthakam (Malayalam Bible)
+- **Mal1910 (ml)**: Mal1910: Sathyavedapusthakam (Malayalam Bible)
 - **ManxGaelic (gv)**: ManxGaelic: Manx Gaelic Scripture Portions
 - **Maori (mi)**: Maori: Maori Bible
 - **MapM (hbo)**: MapM: מקרא על פי המסורה (Miqra `al pi ha-Mesorah)

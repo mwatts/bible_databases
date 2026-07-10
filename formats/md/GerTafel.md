@@ -1928,7 +1928,7 @@
 
 **[32:2]** Und Jakob ging seinen Weg und die Engel Gottes stießen auf ihn.
 
-**[32:3]** Und da Jakob sie sah, sprach er: Dies ist ein Lager Gottes, und er nannte den Namen desselben Ortes Machanaim .
+**[32:3]** Und da Jakob sie sah, sprach er: Dies ist ein Lager Gottes, und er nannte den Namen desselben Ortes Machanaim.
 
 **[32:4]** Und Jakob sandte Boten vor sich her an Esau, seinen Bruder, in das Land Seir, ins Gefilde Edom;
 
@@ -3902,7 +3902,7 @@
 
 **[13:18]** Und Gott ließ das Volk herumziehen, auf dem Weg der Wüste nach dem Schilfmeer, und kampfgerüstet zogen die Söhne Israels herauf aus dem Lande Ägypten.
 
-**[13:19]** Und Mose hatte die Gebeine Josephs mit sich genommen; denn der hatte die Söhne Israels einen Eid schwören lassen, und gesprochen: Gewißlich wird euch Gott heimsuchen , und ihr sollt meine Gebeine von da mit euch hinaufbringen.
+**[13:19]** Und Mose hatte die Gebeine Josephs mit sich genommen; denn der hatte die Söhne Israels einen Eid schwören lassen, und gesprochen: Gewißlich wird euch Gott heimsuchen, und ihr sollt meine Gebeine von da mit euch hinaufbringen.
 
 **[13:20]** Und sie brachen von Sukkoth auf und lagerten in Etham, am Ende der Wüste.
 
@@ -47078,9 +47078,9 @@
 
 **[3:1]** Und ich sprach: Höret doch, ihr Häupter Jakobs, und ihr Anführer vom Hause Israel: Ist es nicht an euch, das Recht zu wissen?
 
-**[3:2]** Die ihr das Gute hasset und liebt das Böse, ihr reißt ab  von ihnen die Haut und ihr Fleisch von ihrem Gebein!
+**[3:2]** Die ihr das Gute hasset und liebt das Böse, ihr reißt ab von ihnen die Haut und ihr Fleisch von ihrem Gebein!
 
-**[3:3]** Und die das Fleisch  von Meinem Volk gegessen, und habt die Haut ihm abgezogen, und zerzahnt sein Gebein und es zerlegt , wie in den Topf, und wie Fleisch in der Mitte eines Kessels.
+**[3:3]** Und die das Fleisch von Meinem Volk gegessen, und habt die Haut ihm abgezogen, und zerzahnt sein Gebein und es zerlegt, wie in den Topf, und wie Fleisch in der Mitte eines Kessels.
 
 **[3:4]** Dann werden sie schreien zu Jehovah, und Er wird ihnen nicht antworten und wird vor ihnen Sein Angesicht verbergen zu jener Zeit, so wie sie böse machten ihr Tun.
 
@@ -50898,7 +50898,7 @@
 
 **[6:37]** Er aber antwortete und sprach zu ihnen: Gebet ihr ihnen zu essen! Und sie sagten zu Ihm: Sollen wir hingehen und um zweihundert Denare Brot kaufen, und ihnen zu essen geben?
 
-**[6:38]** Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehet hin und sehet. Und da sie es erfahren, sagten sie : Fünf, und zwei Fische.
+**[6:38]** Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehet hin und sehet. Und da sie es erfahren, sagten sie: Fünf, und zwei Fische.
 
 **[6:39]** Und Er verordnete ihnen allen, sich zu lagern nach Tischgesellschaften und Tischgesellschaften auf dem grünen Grase.
 
@@ -52000,7 +52000,7 @@
 
 **[2:9]** Und siehe, des Herrn Engel stand bei ihnen, und die Herrlichkeit des Herrn umleuchtete sie; und sie fürchteten sich mit großer Furcht.
 
-**[2:10]** Und der Engel sprach zu ihnen: Fürchtet euch nicht ! Denn siehe, ich verkündige euch große Freude, die allem Volk sein wird.
+**[2:10]** Und der Engel sprach zu ihnen: Fürchtet euch nicht! Denn siehe, ich verkündige euch große Freude, die allem Volk sein wird.
 
 **[2:11]** Denn heute ist euch ein Heiland geboren, Welcher ist Christus der Herr, in der Stadt Davids.
 

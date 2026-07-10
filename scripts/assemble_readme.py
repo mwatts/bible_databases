@@ -56,18 +56,25 @@ def assemble_readme():
 
     # Read the content of each part
     introduction = read_file(introduction_path)
+
+    logo = """
+<p align="center">
+  <img src="docs/scrollmapper.png" alt="Scrollmapper" width="900">
+</p>
+""".strip()
+
     translation_list = read_file(translation_list_path)
     schema = read_file(schema_path)
     license_content = read_file(license_path)
 
     # Assemble the README content
-    readme_content = f"{introduction}\n\n{translation_list}\n\n{schema}\n\n{license_content}"
+    readme_content = f"{introduction}\n\n{logo}\n\n{translation_list}\n\n{schema}\n\n{license_content}"
 
     # Write the assembled README
     readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'README.md'))
     write_file(readme_path, readme_content)
 
-    print(f"README.md has been assembled successfully!")
+    print("README.md has been assembled successfully!")
 
 if __name__ == "__main__":
     assemble_readme()

@@ -1,9 +1,8 @@
 -- SQL Dump for # SpaRVG: Reina Valera Gómez (SpaRVG)
 -- License: Creative Commons: BY-NC-ND 4.0
 
-DROP TABLE IF EXISTS `SpaRVG_books`;
 DROP TABLE IF EXISTS `SpaRVG_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `SpaRVG_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'SpaRVG', '# SpaRVG: Reina Valera Gómez', 'Creative Commons: BY-NC-ND 4.0'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'SpaRVG'
-            );
+            VALUES ('SpaRVG', '# SpaRVG: Reina Valera Gómez', 'Creative Commons: BY-NC-ND 4.0')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `SpaRVG_books` (

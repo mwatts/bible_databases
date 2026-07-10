@@ -1,9 +1,8 @@
 -- SQL Dump for # ChiUnL: 聖經 (文理和合) (ChiUnL)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `ChiUnL_books`;
 DROP TABLE IF EXISTS `ChiUnL_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `ChiUnL_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'ChiUnL', '# ChiUnL: 聖經 (文理和合)', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'ChiUnL'
-            );
+            VALUES ('ChiUnL', '# ChiUnL: 聖經 (文理和合)', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `ChiUnL_books` (

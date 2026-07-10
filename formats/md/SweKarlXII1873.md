@@ -64,7 +64,7 @@
 
 **[1:30]** Och allom djurom på jordene, och allom foglom under himmelen, och allo thy, som kräker på jordene, och lif hafver, att de skola hafva allahanda gröna örter till att äta. Och det skedde så.
 
-**[1:31]** Och Gud såg på allt det han gjort hade, och si, det var allt ganska godt. Och vardt af afton och morgon den sjette dagen.  
+**[1:31]** Och Gud såg på allt det han gjort hade, och si, det var allt ganska godt. Och vardt af afton och morgon den sjette dagen.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Fördenskull skall en man öfvergifva fader och moder, och blifva vid sina hustru, och skola varda till ett kött.
 
-**[2:25]** Och de voro både nakne, menniskan och hans hustru, och de blygdes intet.  
+**[2:25]** Och de voro både nakne, menniskan och hans hustru, och de blygdes intet.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** Då lät Herren Gud honom utu lustgårdenom Eden, på det han skulle bruka jordena, der han af tagen var.
 
-**[3:24]** Och dref Adam ut; och satte för lustgården Eden Cherubim, med ett bart huggande svärd, till att förvara vägen till lifsens trä.  
+**[3:24]** Och dref Adam ut; och satte för lustgården Eden Cherubim, med ett bart huggande svärd, till att förvara vägen till lifsens trä.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** Adam kände åter sina hustru, och hon födde en son, och kallade honom Seth, sägandes: Gud hafver satt mig en annor säd för Habel, som Cain ihjäl slog.
 
-**[4:26]** Vardt också Seth född en son, den han kallade Enos. Och på den samma tiden begynte man predika om Herrans namn.  
+**[4:26]** Vardt också Seth född en son, den han kallade Enos. Och på den samma tiden begynte man predika om Herrans namn.
 
 ### Chapter 5
 
@@ -286,7 +286,7 @@
 
 **[5:31]** Så att hans hela ålder vardt sjuhundrade sjutio och sju år, och blef död.
 
-**[5:32]** Noah var femhundrade år gammal, och födde Sem, Ham och Japhet.  
+**[5:32]** Noah var femhundrade år gammal, och födde Sem, Ham och Japhet.
 
 ### Chapter 6
 
@@ -332,7 +332,7 @@
 
 **[6:21]** Och du skall till dig taga allahanda mat, som man tärer, och skall samka honom till dig, att han varder dig och dem till födo.
 
-**[6:22]** Och Noah gjorde allt det Gud böd honom.  
+**[6:22]** Och Noah gjorde allt det Gud böd honom.
 
 ### Chapter 7
 
@@ -382,7 +382,7 @@
 
 **[7:23]** Så vardt då förgjordt allt det på jordene var, ifrå menniskone allt intill fänaden, intill kräkande djur, och intill foglarna under himmelen, allt vardt förgjordt utaf jordene. Allena Noah blef behållen, och hvad med honom var i arkenom.
 
-**[7:24]** Och vattnet stod på jordene hundrade och femtio dagar.  
+**[7:24]** Och vattnet stod på jordene hundrade och femtio dagar.
 
 ### Chapter 8
 
@@ -428,7 +428,7 @@
 
 **[8:21]** Och Herren luktade en söt lukt, och sade i sitt hjerta: Ingalunda skall jag mer härefter förbanna jordena för menniskones skull, förty menniskones hjertas uppsåt är ondt allt ifrå ungdomen. Och skall jag nu icke mer härefter slå allt det som lefvandes är, såsom jag gjort hafver.
 
-**[8:22]** Så länge jorden står, skall icke återvända sående och uppskärande, köld och hette, sommar och vinter, dag och natt.  
+**[8:22]** Så länge jorden står, skall icke återvända sående och uppskärande, köld och hette, sommar och vinter, dag och natt.
 
 ### Chapter 9
 
@@ -488,7 +488,7 @@
 
 **[9:28]** Och Noah lefde efter flodena trehundrade och femtio år.
 
-**[9:29]** Så att hans hela ålder vardt niohundrade och femtio år, och blef död.  
+**[9:29]** Så att hans hela ålder vardt niohundrade och femtio år, och blef död.
 
 ### Chapter 10
 
@@ -554,7 +554,7 @@
 
 **[10:31]** Dessa äro Sems barn, uti deras slägter, tungomålom, landom och folkom.
 
-**[10:32]** Detta är nu Noahs barns afföda, uti deras slägter och folkom. Af hvilkom utspridt är folket på jordene efter floden.  
+**[10:32]** Detta är nu Noahs barns afföda, uti deras slägter och folkom. Af hvilkom utspridt är folket på jordene efter floden.
 
 ### Chapter 11
 
@@ -620,7 +620,7 @@
 
 **[11:31]** Så tog Tharah sin son Abram, och Lot sins sons Harans son, och sina sonahustru Sarai, sins sons Abrams hustru, och förde dem ifrån Ur utu Chaldeen, på det de skulle fara i Canaans land; och de kommo till Haran, och bodde der.
 
-**[11:32]** Och Tharah vardt tuhundrade och fem år gammal, och blef död i Haran.  
+**[11:32]** Och Tharah vardt tuhundrade och fem år gammal, och blef död i Haran.
 
 ### Chapter 12
 
@@ -662,7 +662,7 @@
 
 **[12:19]** Hvi sade du, att det var din syster? Fördenskull ville jag taga mig henne till hustru. Och si, nu hafver du här dina hustru, tag henne och gack.
 
-**[12:20]** Och han befallte sina män om honom, att de skulle fordra honom och hans hustru, och allt det han hade.  
+**[12:20]** Och han befallte sina män om honom, att de skulle fordra honom och hans hustru, och allt det han hade.
 
 ### Chapter 13
 
@@ -700,7 +700,7 @@
 
 **[13:17]** Derföre upp, och drag genom landet, tvärs och ändalångs; förty dig vill jag gifva det.
 
-**[13:18]** Så tog Abram sitt tjäll upp, och kom och bodde vid den lunden Mamre, hvilken i Hebron är, och byggde dersammastädes Herranom ett altare.  
+**[13:18]** Så tog Abram sitt tjäll upp, och kom och bodde vid den lunden Mamre, hvilken i Hebron är, och byggde dersammastädes Herranom ett altare.
 
 ### Chapter 14
 
@@ -750,7 +750,7 @@
 
 **[14:23]** Att jag af allo det ditt är icke en tråd eller en skorem taga vill, att du icke skall säga: Jag hafver riktat Abram.
 
-**[14:24]** Undantagno det de unge karlar förtärt hafva, och de män, som med mig drogo, Aner, Escol och Mamre, dem låt taga deras del.  
+**[14:24]** Undantagno det de unge karlar förtärt hafva, och de män, som med mig drogo, Aner, Escol och Mamre, dem låt taga deras del.
 
 ### Chapter 15
 
@@ -794,7 +794,7 @@
 
 **[15:20]** De Hetheer, de Phereseer, de Reser,
 
-**[15:21]** De Amoreer, de Cananeer, de Girgaseer, de Jebuseer.  
+**[15:21]** De Amoreer, de Cananeer, de Girgaseer, de Jebuseer.
 
 ### Chapter 16
 
@@ -828,7 +828,7 @@
 
 **[16:15]** Och Hagar födde Abram en son, och Abram kallade den sonen, som Hagar födde honom, Ismael.
 
-**[16:16]** Och Abram var sex och åttatio år gammal, då Hagar födde honom Ismael.  
+**[16:16]** Och Abram var sex och åttatio år gammal, då Hagar födde honom Ismael.
 
 ### Chapter 17
 
@@ -884,7 +884,7 @@
 
 **[17:26]** Allt på enom dag vordo de alle omskorne, Abraham och hans son Ismael;
 
-**[17:27]** Och allt det mankön var i hans huse, både hemfödde tjenare och köpte, och eljest främmande; alle vordo de omskorne med honom.  
+**[17:27]** Och allt det mankön var i hans huse, både hemfödde tjenare och köpte, och eljest främmande; alle vordo de omskorne med honom.
 
 ### Chapter 18
 
@@ -952,7 +952,7 @@
 
 **[18:32]** Och han sade: Tag icke till misstycke, Herre, om jag talar än en tid: Måtte hända, att man finner tio derinne. Han sade: Jag vill icke förgöra dem för de tio skull.
 
-**[18:33]** Och Herren gick bort, sedan han hade uttalat med Abraham; och Abraham vände om och gick hem till sitt igen.  
+**[18:33]** Och Herren gick bort, sedan han hade uttalat med Abraham; och Abraham vände om och gick hem till sitt igen.
 
 ### Chapter 19
 
@@ -1030,7 +1030,7 @@
 
 **[19:37]** Och den äldsta födde en son, den hon kallade Moab; af honom kommo de Moabiter, allt intill denna dag.
 
-**[19:38]** Och den yngsta födde ock en son, och hon kallade hans namn Ammi barn; af honom kommo Ammons barn, allt intill denna dag.  
+**[19:38]** Och den yngsta födde ock en son, och hon kallade hans namn Ammi barn; af honom kommo Ammons barn, allt intill denna dag.
 
 ### Chapter 20
 
@@ -1068,7 +1068,7 @@
 
 **[20:17]** Och Abraham bad till Gud, och Gud botade Abimelech, och hans hustru, och hans tjensteqvinnor, att de födde barn.
 
-**[20:18]** Ty Herren hade tillförene hårdeliga tillyckt alla qveder i Abimelechs huse, för Sara Abrahams hustrus skull.  
+**[20:18]** Ty Herren hade tillförene hårdeliga tillyckt alla qveder i Abimelechs huse, för Sara Abrahams hustrus skull.
 
 ### Chapter 21
 
@@ -1138,7 +1138,7 @@
 
 **[21:33]** Och Abraham plantade trä i BerSaba; och predikade der om Herrans eviga Guds namn;
 
-**[21:34]** Och var en främling uti de Philisteers land i långan tid.  
+**[21:34]** Och var en främling uti de Philisteers land i långan tid.
 
 ### Chapter 22
 
@@ -1188,7 +1188,7 @@
 
 **[22:23]** Men Bethuel födde Rebecka. Dessa åtta födde Milca Nahor, Abrahams broder.
 
-**[22:24]** Och hans frilla benämnd Rehuma födde ock, nemliga Tebah, Gaham, Thahas och Maacha.  
+**[22:24]** Och hans frilla benämnd Rehuma födde ock, nemliga Tebah, Gaham, Thahas och Maacha.
 
 ### Chapter 23
 
@@ -1230,7 +1230,7 @@
 
 **[23:19]** Sedan begrof då Abraham Sara sina hustru uti kulone i åkrenom, den dubbel var, tvärs öfver ifrå Mamre, det är Hebron i Canaans lande.
 
-**[23:20]** Och alltså vardt Abraham stadfäst den åkren, och kulan, till begrafnings egendom af Hets barnom.  
+**[23:20]** Och alltså vardt Abraham stadfäst den åkren, och kulan, till begrafnings egendom af Hets barnom.
 
 ### Chapter 24
 
@@ -1366,7 +1366,7 @@
 
 **[24:66]** Och tjenaren förtäljde Isaac allt, huru han sakena uträttat hade.
 
-**[24:67]** Då förde Isaac henne in i sins moders Saras hyddo, och tog Rebecka, och hon vardt hans hustru, och han vardt kär åt henne: Och så vardt Isaac hugsvalad öfver sina moder.  
+**[24:67]** Då förde Isaac henne in i sins moders Saras hyddo, och tog Rebecka, och hon vardt hans hustru, och han vardt kär åt henne: Och så vardt Isaac hugsvalad öfver sina moder.
 
 ### Chapter 25
 
@@ -1436,7 +1436,7 @@
 
 **[25:33]** Jacob sade: Så svär mig i dag. Och han svor honom: Och sålde så Jacob sin förstfödslorätt.
 
-**[25:34]** Då gaf Jacob honom bröd och den grynvällingen, och han åt och drack, och stod upp, och gick dädan. Och så föraktade Esau sin förstfödslorätt.  
+**[25:34]** Då gaf Jacob honom bröd och den grynvällingen, och han åt och drack, och stod upp, och gick dädan. Och så föraktade Esau sin förstfödslorätt.
 
 ### Chapter 26
 
@@ -1508,7 +1508,7 @@
 
 **[26:34]** Då Esau var fyratio år gammal, tog han hustrur, Judith, Beeri dens Hetheens dotter, och Basmath, Elons dens Hetheens dotter.
 
-**[26:35]** De voro båda emot Isaac och Rebecka ganska bittra.  
+**[26:35]** De voro båda emot Isaac och Rebecka ganska bittra.
 
 ### Chapter 27
 
@@ -1602,7 +1602,7 @@
 
 **[27:45]** Och tilldess hans vrede vändes ifrå dig, och förgäter det du honom gjort hafver; så vill jag sedan sända, och låta hemta dig dädan: Hvi skulle jag mista eder båda på en dag?
 
-**[27:46]** Och Rebecka sade till Isaac: Mig ledes vid att lefva, för Hets döttrars skull: Om Jacob tager hustru af Hets döttrar, hvilka äro såsom dessa landsens döttrar, efter hvad skall jag lefva?  
+**[27:46]** Och Rebecka sade till Isaac: Mig ledes vid att lefva, för Hets döttrars skull: Om Jacob tager hustru af Hets döttrar, hvilka äro såsom dessa landsens döttrar, efter hvad skall jag lefva?
 
 ### Chapter 28
 
@@ -1648,7 +1648,7 @@
 
 **[28:21]** Och förer mig med strid åter hem igen till min fader; så skall Herren vara min Gud.
 
-**[28:22]** Och denne stenen, som jag upprest hafver till en vård, skall varda ett Guds hus: Och allt det du mig gifver, der vill jag gifva dig tionde af.  
+**[28:22]** Och denne stenen, som jag upprest hafver till en vård, skall varda ett Guds hus: Och allt det du mig gifver, der vill jag gifva dig tionde af.
 
 ### Chapter 29
 
@@ -1720,7 +1720,7 @@
 
 **[29:34]** Åter vardt hon hafvande, och födde en son, och sade: Nu varder min man åter hållandes sig till mig, ty jag hafver födt honom tre söner; derföre kallade hon honom Levi.
 
-**[29:35]** Fjerde reso vardt hon hafvande, och födde en son, och sade: Nu vill jag tacka Herranom; derföre kallade hon honom Juda, och vände så igen att föda.  
+**[29:35]** Fjerde reso vardt hon hafvande, och födde en son, och sade: Nu vill jag tacka Herranom; derföre kallade hon honom Juda, och vände så igen att föda.
 
 ### Chapter 30
 
@@ -1808,7 +1808,7 @@
 
 **[30:42]** Men när de senfödda lupo, lade han dem intet deruti. Så vordo då de senfödlingar Labans och de tidfödlingar Jacobs.
 
-**[30:43]** Deraf vardt mannen öfvermåttan riker, så att han hade mycken får, tjenarinnor och tjenare, camelar och åsnar.  
+**[30:43]** Deraf vardt mannen öfvermåttan riker, så att han hade mycken får, tjenarinnor och tjenare, camelar och åsnar.
 
 ### Chapter 31
 
@@ -1920,7 +1920,7 @@
 
 **[31:54]** Och Jacob offrade offer på bergena, och böd sina bröder att de skulle äta bröd. Och då de hade ätit, blefvo de på bergena öfver nattena.
 
-**[31:55]** Men om morgonen stod Laban bittida upp, kysste sin barn och döttrar; välsignade dem, och for sina färde, och kom hem till sitt igen.  
+**[31:55]** Men om morgonen stod Laban bittida upp, kysste sin barn och döttrar; välsignade dem, och for sina färde, och kom hem till sitt igen.
 
 ### Chapter 32
 
@@ -1986,7 +1986,7 @@
 
 **[32:31]** Och som han kom fram om Pnuel, gick honom solen upp, och han haltade i sine höft.
 
-**[32:32]** Fördenskull äta Israels barn inga höftsene ännu i dag, derföre, att Jacobs höftsena rörd vardt.  
+**[32:32]** Fördenskull äta Israels barn inga höftsene ännu i dag, derföre, att Jacobs höftsena rörd vardt.
 
 ### Chapter 33
 
@@ -2028,7 +2028,7 @@
 
 **[33:19]** Och köpte ett stycke åker af Hemors Sichems faders barnom, för hundrade penningar.
 
-**[33:20]** Der slog han upp sin tjäll, och uppreste der ett altare, och åkallade dens starka Israels Guds namn.  
+**[33:20]** Der slog han upp sin tjäll, och uppreste der ett altare, och åkallade dens starka Israels Guds namn.
 
 ### Chapter 34
 
@@ -2092,7 +2092,7 @@
 
 **[34:30]** Och Jacob sade till Simeon och Levi: I hafven åstadkommit, att jag blifver illa känder för alla dessa lands inbyggare, de Cananeer och Phereseer: Och jag är en ringa hop; när de nu församla sig öfver mig, så slå de mig ihjäl, så varder jag om intet gjord med mino huse.
 
-**[34:31]** Men de svarade: Skulle de då handla med våra syster, såsom med ene sköko?  
+**[34:31]** Men de svarade: Skulle de då handla med våra syster, såsom med ene sköko?
 
 ### Chapter 35
 
@@ -2152,7 +2152,7 @@
 
 **[35:28]** Och Isaac vardt hundrade och åttatio år gammal.
 
-**[35:29]** Och vardt sjuk, och dödde, och vardt samlad till sitt folk, gammal och mätt af lefvande: Och hans söner Esau och Jacob begrofvo honom.  
+**[35:29]** Och vardt sjuk, och dödde, och vardt samlad till sitt folk, gammal och mätt af lefvande: Och hans söner Esau och Jacob begrofvo honom.
 
 ### Chapter 36
 
@@ -2240,7 +2240,7 @@
 
 **[36:42]** Den Försten Kenas, den Försten Theman, den Försten Mibzar,
 
-**[36:43]** Den Försten Magdiel, den Försten Iram. Desse äro de Förstar i Edom, såsom de bott hafva uti deras arfvelande. Och Esau är fadren till de Edomeer.  
+**[36:43]** Den Försten Magdiel, den Försten Iram. Desse äro de Förstar i Edom, såsom de bott hafva uti deras arfvelande. Och Esau är fadren till de Edomeer.
 
 ### Chapter 37
 
@@ -2314,7 +2314,7 @@
 
 **[37:35]** Och alle hans söner och döttrar gingo till, att de skulle hugsvala honom; men han ville icke låta hugsvala sig, och sade: Jag varder med sorg nederfarande i grafvena till min son. Och hans fader gret honom.
 
-**[37:36]** Men de Midianiter sålde honom in i Egypten Potiphar, Pharaos hofmästare.  
+**[37:36]** Men de Midianiter sålde honom in i Egypten Potiphar, Pharaos hofmästare.
 
 ### Chapter 38
 
@@ -2376,7 +2376,7 @@
 
 **[38:29]** Men då han drog sina hand åter in, kom hans broder ut, och hon sade: Hvi är hinnan för dina skull sönderremnad? Och man kallade honom Perez.
 
-**[38:30]** Derefter kom hans broder ut, som hade den röda tråden om sina hand; och man kallade honom Serah.  
+**[38:30]** Derefter kom hans broder ut, som hade den röda tråden om sina hand; och man kallade honom Serah.
 
 ### Chapter 39
 
@@ -2424,7 +2424,7 @@
 
 **[39:22]** Så att han befallte alla fångarna i fängelsena under hans hand, att allt det der skedde, måste ske genom honom.
 
-**[39:23]** Förty befallningsmannen öfver fängelset såg, att Herren var med honom i allt det som under hans händer var, och att Herren lät, det han gjorde, lyckosammeliga tillgå.  
+**[39:23]** Förty befallningsmannen öfver fängelset såg, att Herren var med honom i allt det som under hans händer var, och att Herren lät, det han gjorde, lyckosammeliga tillgå.
 
 ### Chapter 40
 
@@ -2472,7 +2472,7 @@
 
 **[40:22]** Men den öfversta bakaren lät han hänga; som Joseph hade uttydt honom.
 
-**[40:23]** Men den öfverste skänken tänkte intet på Joseph, utan förgat honom.  
+**[40:23]** Men den öfverste skänken tänkte intet på Joseph, utan förgat honom.
 
 ### Chapter 41
 
@@ -2588,7 +2588,7 @@
 
 **[41:56]** När nu dyr tid var öfver allt landet, slog Joseph kornhusen upp allestäds, och sålde de Egyptier; förty som dyre tiden vardt ju längre ju större i landena.
 
-**[41:57]** Och all land kommo till Egypten, till att köpa när Joseph; förty den dyre tiden fick öfverhandena i all land.  
+**[41:57]** Och all land kommo till Egypten, till att köpa när Joseph; förty den dyre tiden fick öfverhandena i all land.
 
 ### Chapter 42
 
@@ -2666,7 +2666,7 @@
 
 **[42:37]** Ruben svarade sinom fader, och sade: Om jag icke förer dig honom hem igen, så dräp båda mina söner: Allenast gif honom i mina hand, jag vill föra dig honom hem igen.
 
-**[42:38]** Han sade: Min son skall icke fara ned med eder; ty hans broder är död, och han är allena igenblifven: Om honom vederfores något ondt i vägen, der I resten, vorden I drifvandes min grå hår med sorg neder i grafvena.  
+**[42:38]** Han sade: Min son skall icke fara ned med eder; ty hans broder är död, och han är allena igenblifven: Om honom vederfores något ondt i vägen, der I resten, vorden I drifvandes min grå hår med sorg neder i grafvena.
 
 ### Chapter 43
 
@@ -2736,7 +2736,7 @@
 
 **[43:33]** Och de sattes för honom, den förstfödde efter sina förstfödslo, och den yngste efter sin ungdom. Der förundrade de sig uppå inbördes.
 
-**[43:34]** Och man bar dem besynnerliga rätter af hans bord: Men BenJamin fem sinom mer än de andra; och de drucko, och vordo druckne med honom.  
+**[43:34]** Och man bar dem besynnerliga rätter af hans bord: Men BenJamin fem sinom mer än de andra; och de drucko, och vordo druckne med honom.
 
 ### Chapter 44
 
@@ -2806,7 +2806,7 @@
 
 **[44:33]** Derföre, låt din tjenare blifva här qvar minom herra för en träl i piltens stad; och låt pilten fara upp med sina bröder.
 
-**[44:34]** Förty, huru skulle jag fara upp till min fader, när pilten är icke med mig? Jag finge se den jämmer, som min fader uppå komme.  
+**[44:34]** Förty, huru skulle jag fara upp till min fader, när pilten är icke med mig? Jag finge se den jämmer, som min fader uppå komme.
 
 ### Chapter 45
 
@@ -2864,7 +2864,7 @@
 
 **[45:27]** Då sade de honom all Josephs ord, som han till dem sagt hade. Och då han såg vagnarna, som Joseph utsändt hade till att föra honom med, vardt hans ande lefvandes.
 
-**[45:28]** Och sade: Jag hafver nog, att min son Joseph lefver ännu. Jag vill fara bort och se honom, förra än jag dör.  
+**[45:28]** Och sade: Jag hafver nog, att min son Joseph lefver ännu. Jag vill fara bort och se honom, förra än jag dör.
 
 ### Chapter 46
 
@@ -2934,7 +2934,7 @@
 
 **[46:33]** Då nu Pharao varder eder kallandes, och säger: Hvad är edar handel?
 
-**[46:34]** Så skolen I säga: Dine tjenare äro folk, som med boskap umgå ifrå vår barndom allt härtill, både vi och våre fäder, på det I må få bo i det landet Gosen; förty alle herdar äro såsom en styggelse för de Egyptier.  
+**[46:34]** Så skolen I säga: Dine tjenare äro folk, som med boskap umgå ifrå vår barndom allt härtill, både vi och våre fäder, på det I må få bo i det landet Gosen; förty alle herdar äro såsom en styggelse för de Egyptier.
 
 ### Chapter 47
 
@@ -2998,7 +2998,7 @@
 
 **[47:30]** Utan jag vill ligga när mina fäder, och du skall föra mig ut af Egypten, och begraf mig i deras grifter. Han sade: Jag vill göra som du hafver sagt.
 
-**[47:31]** Och han sade: Så svär mig. Och han svor honom. Då böjde Israel sig intill sängenes hufvudgärd.  
+**[47:31]** Och han sade: Så svär mig. Och han svor honom. Då böjde Israel sig intill sängenes hufvudgärd.
 
 ### Chapter 48
 
@@ -3044,7 +3044,7 @@
 
 **[48:21]** Och Israel sade till Joseph: Si, jag dör, och Gud skall vara med eder, och skall föra eder åter i edra fäders land.
 
-**[48:22]** Jag hafver gifvit dig ett stycke land utan dina bröder, som jag med mitt svärd och båga utaf de Amoreers hand tagit hafver.  
+**[48:22]** Jag hafver gifvit dig ett stycke land utan dina bröder, som jag med mitt svärd och båga utaf de Amoreers hand tagit hafver.
 
 ### Chapter 49
 
@@ -3112,7 +3112,7 @@
 
 **[49:32]** I den åkrenom och de kulone, som af Heths barnom köpt är.
 
-**[49:33]** Och när Jacob hade lyktat buden till sin barn, lade han sina fötter samman på sängene, led af, och vardt samkad till sitt folk.  
+**[49:33]** Och när Jacob hade lyktat buden till sin barn, lade han sina fötter samman på sängene, led af, och vardt samkad till sitt folk.
 
 ### Chapter 50
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** Derföre tog han en ed af Israels barnom, och sade: När Gud varder eder sökandes, så förer min ben hädan.
 
-**[50:26]** Så dödde Joseph, då han var hundrade och tio år gammal. Och de smorde honom, och lade honom uti ena kisto i Egypten.   
+**[50:26]** Så dödde Joseph, då han var hundrade och tio år gammal. Och de smorde honom, och lade honom uti ena kisto i Egypten.
 
 ## Exodus
 
@@ -3214,7 +3214,7 @@
 
 **[1:21]** Och efter jordgummorna fruktade Gud, byggde han dem hus.
 
-**[1:22]** Då böd Pharao allo sino folke, och sade: Allt det mankön, som födt varder, kaster i älfvena, och allt qvinnkön låter lefva.  
+**[1:22]** Då böd Pharao allo sino folke, och sade: Allt det mankön, som födt varder, kaster i älfvena, och allt qvinnkön låter lefva.
 
 ### Chapter 2
 
@@ -3266,7 +3266,7 @@
 
 **[2:24]** Och Gud hörde deras klagan, och tänkte på sitt förbund med Abraham, Isaac och Jacob.
 
-**[2:25]** Och han såg dertill, och lät sig vårda om dem.  
+**[2:25]** Och han såg dertill, och lät sig vårda om dem.
 
 ### Chapter 3
 
@@ -3312,7 +3312,7 @@
 
 **[3:21]** Och jag vill gifva desso folkena nåde för de Egyptier, att när I utfaren, skolen I icke utgå med tomma händer;
 
-**[3:22]** Utan hvar och en qvinna skall bedas af hennes grannqvinno och värdinno silfver och gyldene tyg, och kläder; dem skolen I lägga på edra söner och döttrar, och blotta de Egyptier.  
+**[3:22]** Utan hvar och en qvinna skall bedas af hennes grannqvinno och värdinno silfver och gyldene tyg, och kläder; dem skolen I lägga på edra söner och döttrar, och blotta de Egyptier.
 
 ### Chapter 4
 
@@ -3376,7 +3376,7 @@
 
 **[4:30]** Och Aaron talade all de ord, som Herren med Mose talat hade, och gjorde tecknen för folkena.
 
-**[4:31]** Och folket trodde. Och då de hörde, att Herren hade sökt Israels barn, och sett uppå deras jämmer, föllo de neder, och tillbådo.  
+**[4:31]** Och folket trodde. Och då de hörde, att Herren hade sökt Israels barn, och sett uppå deras jämmer, föllo de neder, och tillbådo.
 
 ### Chapter 5
 
@@ -3424,7 +3424,7 @@
 
 **[5:22]** Mose kom igen till Herran, och sade: Herre, hvi gör du så illa emot detta folket? Hvi hafver du sändt mig?
 
-**[5:23]** Ty ifrå den tiden jag ingick till att tala med Pharao i ditt Namn, hafver han ännu hårdare plågat folket; och du hafver icke frälst ditt folk.  
+**[5:23]** Ty ifrå den tiden jag ingick till att tala med Pharao i ditt Namn, hafver han ännu hårdare plågat folket; och du hafver icke frälst ditt folk.
 
 ### Chapter 6
 
@@ -3486,7 +3486,7 @@
 
 **[6:29]** Och Herren sade: Jag är Herren; tala till Pharao, Konungen i Egypten, allt det jag talar med dig.
 
-**[6:30]** Och han svarade för Herranom: Si, jag hafver oomskorna läppar, huru skall Pharao höra mig?  
+**[6:30]** Och han svarade för Herranom: Si, jag hafver oomskorna läppar, huru skall Pharao höra mig?
 
 ### Chapter 7
 
@@ -3538,7 +3538,7 @@
 
 **[7:24]** Men alle Egyptier grofvo efter vatten utmed älfvene till att dricka; ty vattnet af älfvene kunde de icke dricka.
 
-**[7:25]** Och det varade i sju dagar långt, sedan Herren slog älfvena.  
+**[7:25]** Och det varade i sju dagar långt, sedan Herren slog älfvena.
 
 ### Chapter 8
 
@@ -3604,7 +3604,7 @@
 
 **[8:31]** Och Herren gjorde, såsom Mose sagt hade, och tog de ohyrona bort ifrå Pharao, ifrå hans tjenare, och ifrå hans folke, så att icke en blef qvar.
 
-**[8:32]** Men Pharao förhärdade sitt hjerta ännu i denna resone, och ville icke släppa folket.  
+**[8:32]** Men Pharao förhärdade sitt hjerta ännu i denna resone, och ville icke släppa folket.
 
 ### Chapter 9
 
@@ -3676,7 +3676,7 @@
 
 **[9:34]** Då nu Pharao såg, att regnet, och dundret, och haglet vände igen, syndade han ändå ytterligare, och förhärdade sitt hjerta, han och hans tjenare.
 
-**[9:35]** Alltså vardt Pharaos hjerta förstockadt, att han icke släppte Israels barn, såsom Herren sagt hade genom Mose.  
+**[9:35]** Alltså vardt Pharaos hjerta förstockadt, att han icke släppte Israels barn, såsom Herren sagt hade genom Mose.
 
 ### Chapter 10
 
@@ -3736,7 +3736,7 @@
 
 **[10:28]** Och Pharao sade till honom: Gack ifrå mig, och tag dig vara, att du icke mer kommer för min ögon; ty hvilken dag du för mina ögon kommer, skall du dö.
 
-**[10:29]** Mose svarade: Såsom du sagt hafver; jag vill ej mer komma för din ögon.  
+**[10:29]** Mose svarade: Såsom du sagt hafver; jag vill ej mer komma för din ögon.
 
 ### Chapter 11
 
@@ -3758,7 +3758,7 @@
 
 **[11:9]** Men Herren sade till Mose: Pharao hörer eder intet, på det mycken under skola ske i Egypti lande.
 
-**[11:10]** Och Mose och Aaron gjorde all dessa under inför Pharao; men Herren förstockade honom hans hjerta, att han icke ville släppa Israels barn utu sitt land.  
+**[11:10]** Och Mose och Aaron gjorde all dessa under inför Pharao; men Herren förstockade honom hans hjerta, att han icke ville släppa Israels barn utu sitt land.
 
 ### Chapter 12
 
@@ -3862,7 +3862,7 @@
 
 **[12:50]** Och all Israels barn gjorde såsom Herren hade budit Mose och Aaron.
 
-**[12:51]** Och så förde Herren på en dag Israels barn utur Egypti land, med deras härar.  
+**[12:51]** Och så förde Herren på en dag Israels barn utur Egypti land, med deras härar.
 
 ### Chapter 13
 
@@ -3908,7 +3908,7 @@
 
 **[13:21]** Och Herren gick före dem om dagen uti en molnstod, på det han skulle föra dem den rätta vägen; och om nattene uti en eldstod, på det han skulle lysa dem; till att vandra både dag och natt.
 
-**[13:22]** Den molnstoden och eldstoden skiljdes intet ifrå folket.  
+**[13:22]** Den molnstoden och eldstoden skiljdes intet ifrå folket.
 
 ### Chapter 14
 
@@ -3972,7 +3972,7 @@
 
 **[14:30]** Och så halp Herren Israel på den dagenom ifrå de Egyptiers hand; och de sågo de Egyptier döda på hafsstrandene;
 
-**[14:31]** Och den stora hand, som Herren hade bevisat på de Egyptier. Och folket fruktade Herran, och trodde Herranom, och hans tjenare Mose.  
+**[14:31]** Och den stora hand, som Herren hade bevisat på de Egyptier. Och folket fruktade Herran, och trodde Herranom, och hans tjenare Mose.
 
 ### Chapter 15
 
@@ -4028,7 +4028,7 @@
 
 **[15:26]** Och han sade: Vill du höra Herrans dins Guds röst, och göra hvad som rätt är för honom, och fatta hans bud i din öron, och hålla alla hans lag; så skall jag ingen den krankhet lägga uppå dig, som jag på de Egyptier lagt hafver; ty jag är Herren din läkare.
 
-**[15:27]** Och de kommo till Elim, der voro tolf vattubrunnar, och sjutio palmträ; der lägrade de sig vid vattnet.  
+**[15:27]** Och de kommo till Elim, der voro tolf vattubrunnar, och sjutio palmträ; der lägrade de sig vid vattnet.
 
 ### Chapter 16
 
@@ -4102,7 +4102,7 @@
 
 **[16:35]** Och Israels barn åto Man i fyratio år, intilldess de kommo till det land, der de bo skulle; allt intill gränsona på Canaans land åto de Man.
 
-**[16:36]** Och är gomer tionde parten af ett epha.  
+**[16:36]** Och är gomer tionde parten af ett epha.
 
 ### Chapter 17
 
@@ -4136,7 +4136,7 @@
 
 **[17:15]** Och Mose byggde ett altare, och kallade det Herren Nissi;
 
-**[17:16]** Ty han sade: Herrans strid skall vara emot Amalek genom ena hand, under Guds beskärm ifrå barn intill barnabarn.  
+**[17:16]** Ty han sade: Herrans strid skall vara emot Amalek genom ena hand, under Guds beskärm ifrå barn intill barnabarn.
 
 ### Chapter 18
 
@@ -4192,7 +4192,7 @@
 
 **[18:26]** Att de alltid skulle döma folket; men hvad svåra saker voro, dem sköto de till Mose; och de ringa saker dömde de.
 
-**[18:27]** Och så lät Mose sin svär fara hem i sitt land igen.  
+**[18:27]** Och så lät Mose sin svär fara hem i sitt land igen.
 
 ### Chapter 19
 
@@ -4244,7 +4244,7 @@
 
 **[19:24]** Herren sade till honom: Gack, stig ned; du och Aaron med dig skolen uppstiga. Men Presterna, och folket, skola icke träda intill, så att de uppstiga till Herran; på det han icke skall förgöra dem.
 
-**[19:25]** Och Mose steg neder till folket, och sade dem detta.  
+**[19:25]** Och Mose steg neder till folket, och sade dem detta.
 
 ### Chapter 20
 
@@ -4298,7 +4298,7 @@
 
 **[20:25]** Och om du vill göra mig ett stenaltare, skall du icke göra det af huggen sten; förty om du far deråt med din knif, så gör du det oskärdt.
 
-**[20:26]** Du skall ock icke uppstiga på trappor till mitt altare, att din skam icke skall der blifva upptäckt.  
+**[20:26]** Du skall ock icke uppstiga på trappor till mitt altare, att din skam icke skall der blifva upptäckt.
 
 ### Chapter 21
 
@@ -4372,7 +4372,7 @@
 
 **[21:35]** Om någors mans oxe stångar ens annars oxa, så att han dör; då skola de sälja den lefvande oxan, och byta penningarna, och desslikes byta kroppen.
 
-**[21:36]** Var det vetterligit, att oxen var tillförene van att stångas, och hans herre icke bevarade honom; då skall han gifva en oxa för den andra, och behålla kroppen.  
+**[21:36]** Var det vetterligit, att oxen var tillförene van att stångas, och hans herre icke bevarade honom; då skall han gifva en oxa för den andra, och behålla kroppen.
 
 ### Chapter 22
 
@@ -4436,7 +4436,7 @@
 
 **[22:30]** Så skall du ock göra med dinom oxa och får; i sju dagar låt det blifva när sine moder; på åttonde dagenom skall du gifva mig det.
 
-**[22:31]** I skolen vara ett heligt folk för mig; derföre skolen I intet kött äta, det som på markene af djurom rifvet är, utan kasta det för hundarna.  
+**[22:31]** I skolen vara ett heligt folk för mig; derföre skolen I intet kött äta, det som på markene af djurom rifvet är, utan kasta det för hundarna.
 
 ### Chapter 23
 
@@ -4504,7 +4504,7 @@
 
 **[23:32]** Du skall intet förbund göra med dem; eller med deras gudar;
 
-**[23:33]** Utan låt icke bo dem i dino lande, att de icke komma dig till att synda emot mig; förty, om du tjenar deras gudar, kommer det dig till förargelse.  
+**[23:33]** Utan låt icke bo dem i dino lande, att de icke komma dig till att synda emot mig; förty, om du tjenar deras gudar, kommer det dig till förargelse.
 
 ### Chapter 24
 
@@ -4542,7 +4542,7 @@
 
 **[24:17]** Och Herrans härlighets anseende var såsom en förtärande eld öfverst på bergena, för Israels barnom.
 
-**[24:18]** Och Mose gick midt in i skyn, och steg på berget; och blef uppå bergena i fyratio dagar, och fyratio nätter.  
+**[24:18]** Och Mose gick midt in i skyn, och steg på berget; och blef uppå bergena i fyratio dagar, och fyratio nätter.
 
 ### Chapter 25
 
@@ -4624,7 +4624,7 @@
 
 **[25:39]** Utaf en centener klart guld skall du göra honom, med all desse tyg.
 
-**[25:40]** Och se till, att du allt gör efter den eftersyn, som du på bergena sett hafver.  
+**[25:40]** Och se till, att du allt gör efter den eftersyn, som du på bergena sett hafver.
 
 ### Chapter 26
 
@@ -4700,7 +4700,7 @@
 
 **[26:36]** Och skall du göra ett kläde i tabernaklets dörr, virkadt med gult silke, rosenrödt, skarlakan, och hvitt tvinnadt silke.
 
-**[26:37]** Och skall du göra fem stolpar till det samma klädet af furoträ, öfverdragna med guld, med gyldene knappar; och du skall gjuta dem fem kopparfötter.  
+**[26:37]** Och skall du göra fem stolpar till det samma klädet af furoträ, öfverdragna med guld, med gyldene knappar; och du skall gjuta dem fem kopparfötter.
 
 ### Chapter 27
 
@@ -4744,7 +4744,7 @@
 
 **[27:20]** Bjud Israels barnom, att de bära till dig den aldraklaresta oljo, stött af oljoträ, till lysning; att man alltid deraf låter i lamporna;
 
-**[27:21]** Uti vittnesbördsens tabernakel utanför förlåten, som hänger för vittnesbördet. Och Aaron med hans söner skola detta sköta, ifrå morgonen allt intill aftonen för Herranom. Det skall vara eder en evig sed intill edra efterkommande, ibland Israels barn.  
+**[27:21]** Uti vittnesbördsens tabernakel utanför förlåten, som hänger för vittnesbördet. Och Aaron med hans söner skola detta sköta, ifrå morgonen allt intill aftonen för Herranom. Det skall vara eder en evig sed intill edra efterkommande, ibland Israels barn.
 
 ### Chapter 28
 
@@ -4832,7 +4832,7 @@
 
 **[28:42]** Och skall göra dem linnen nederkläder, till att skyla blygdenes kött, ifrå ländene allt ned på låren.
 
-**[28:43]** Och Aaron med hans söner skola hafva dem uppå, när de gå in uti vittnesbördsens tabernakel, eller fram till altaret, till att tjena uti thy helga, på det att de icke umgälla deras missgerning, och måste dö. Det skall vara honom, och hans säd efter honom, ett evigt sätt.  
+**[28:43]** Och Aaron med hans söner skola hafva dem uppå, när de gå in uti vittnesbördsens tabernakel, eller fram till altaret, till att tjena uti thy helga, på det att de icke umgälla deras missgerning, och måste dö. Det skall vara honom, och hans säd efter honom, ett evigt sätt.
 
 ### Chapter 29
 
@@ -4926,7 +4926,7 @@
 
 **[29:45]** Och vill bo ibland Israels barn, och vara deras Gud;
 
-**[29:46]** Att de veta skola, att jag är Herren deras Gud, som dem förde utur Egypti land, att jag skulle bo ibland dem: Jag Herren deras Gud.  
+**[29:46]** Att de veta skola, att jag är Herren deras Gud, som dem förde utur Egypti land, att jag skulle bo ibland dem: Jag Herren deras Gud.
 
 ### Chapter 30
 
@@ -5004,7 +5004,7 @@
 
 **[30:37]** Och ett sådant rökverk skolen I icke göra eder; utan det skall vara dig heligt Herranom.
 
-**[30:38]** Den som ett sådant gör, till att röka dermed, den skall utrotad varda utu sitt folk.  
+**[30:38]** Den som ett sådant gör, till att röka dermed, den skall utrotad varda utu sitt folk.
 
 ### Chapter 31
 
@@ -5042,7 +5042,7 @@
 
 **[31:17]** Han är ett evigt tecken emellan mig och Israels barn. Ty i sex dagar gjorde Herren himmel och jord, men på sjunde dagen höll han upp, och hvilte sig.
 
-**[31:18]** Och då han hade uttalat med Mose på Sinai berg, gaf han honom två vittnesbördsens taflor; de voro af sten, och skrifna med Guds finger.  
+**[31:18]** Och då han hade uttalat med Mose på Sinai berg, gaf han honom två vittnesbördsens taflor; de voro af sten, och skrifna med Guds finger.
 
 ### Chapter 32
 
@@ -5114,7 +5114,7 @@
 
 **[32:34]** Så gack nu, och för folket dit, som jag hafver sagt dig; si, min Ängel skall gå före dig. Men på min sökningsdag skall jag söka deras synder öfver dem.
 
-**[32:35]** Alltså plågade Herren folket, derföre att de hade gjort kalfven, hvilken Aaron gjorde.  
+**[32:35]** Alltså plågade Herren folket, derföre att de hade gjort kalfven, hvilken Aaron gjorde.
 
 ### Chapter 33
 
@@ -5162,7 +5162,7 @@
 
 **[33:22]** När då min härlighet går framom, vill jag sätta dig in i stenklyftona; och min hand skall hålla öfver dig, tilldess jag kommer framom.
 
-**[33:23]** Och när jag tager mina hand af dig, skall du få se mig på baken; men mitt ansigte kan man icke se.  
+**[33:23]** Och när jag tager mina hand af dig, skall du få se mig på baken; men mitt ansigte kan man icke se.
 
 ### Chapter 34
 
@@ -5234,7 +5234,7 @@
 
 **[34:34]** Och när han ingick för Herran till att tala med honom, lade han täckelset af, tilldess han gick åter ut igen; och när han kom ut, och talade med Israels barn det honom budet var;
 
-**[34:35]** Så sågo de Israels barn på hans ansigte, huru hans ansigtes hud sken; så drog han åter täckelset öfver ansigtet, tilldess han gick åter in igen till att tala med honom.  
+**[34:35]** Så sågo de Israels barn på hans ansigte, huru hans ansigtes hud sken; så drog han åter täckelset öfver ansigtet, tilldess han gick åter in igen till att tala med honom.
 
 ### Chapter 35
 
@@ -5306,7 +5306,7 @@
 
 **[35:34]** Och hafver gifvit honom undervisning i hans hjerta; samt med Aholiab, Ahisamachs son, af Dans slägte.
 
-**[35:35]** Han hafver uppfyllt deras hjerta med vishet, till att göra allahanda verk, till att snida, virka och sticka, med gult silke, skarlakan, rosenrödt, och hvitt silke, och med väfvande, så att de göra allahanda verk, och konsteligit arbete påfinna.  
+**[35:35]** Han hafver uppfyllt deras hjerta med vishet, till att göra allahanda verk, till att snida, virka och sticka, med gult silke, skarlakan, rosenrödt, och hvitt silke, och med väfvande, så att de göra allahanda verk, och konsteligit arbete påfinna.
 
 ### Chapter 36
 
@@ -5384,7 +5384,7 @@
 
 **[36:37]** Och gjorde ett kläde uti tabernaklets dörr, stickadt af gult silke, skarlakan, rosenrödt, och hvitt tvinnadt silke;
 
-**[36:38]** Och fem stolpar dertill med deras knappar, och öfverdrog deras knappar och gjordar med guld; och fem kopparfötter dertill.  
+**[36:38]** Och fem stolpar dertill med deras knappar, och öfverdrog deras knappar och gjordar med guld; och fem kopparfötter dertill.
 
 ### Chapter 37
 
@@ -5444,7 +5444,7 @@
 
 **[37:28]** Men stängerna gjorde han af furoträ, och öfverdrog dem med guld;
 
-**[37:29]** Och gjorde den helga smörjooljan, och rökverk af rent speceri, efter apothekarekonst.  
+**[37:29]** Och gjorde den helga smörjooljan, och rökverk af rent speceri, efter apothekarekonst.
 
 ### Chapter 38
 
@@ -5508,7 +5508,7 @@
 
 **[38:30]** Deraf vordo gjorde fötterna uti dörrene till vittnesbördsens tabernakel, och kopparaltaret, och koppargallret dertill; och all redskapen till altaret;
 
-**[38:31]** Dertill fötterna till gården allt omkring, och fötterna i ingången på gårdenom; alle pålarna till tabernaklet, och alle pålarna till gården allt omkring.  
+**[38:31]** Dertill fötterna till gården allt omkring, och fötterna i ingången på gårdenom; alle pålarna till tabernaklet, och alle pålarna till gården allt omkring.
 
 ### Chapter 39
 
@@ -5596,7 +5596,7 @@
 
 **[39:42]** All ting, såsom Herren hade budit Mose, gjorde Israels barn till alla denna tjenstena.
 
-**[39:43]** Och Mose såg på allt detta verket, att de gjorde såsom Herren budit hade, och välsignade dem.  
+**[39:43]** Och Mose såg på allt detta verket, att de gjorde såsom Herren budit hade, och välsignade dem.
 
 ### Chapter 40
 
@@ -5674,7 +5674,7 @@
 
 **[40:37]** När molnskyn icke gaf sig upp, då foro de intet, allt intill den dagen han sig uppgaf.
 
-**[40:38]** Förty Herrans molnsky var om dagen öfver tabernaklet, och om natten var eld derinne, för hela Israels hus ögon, så länge de reste.   
+**[40:38]** Förty Herrans molnsky var om dagen öfver tabernaklet, och om natten var eld derinne, för hela Israels hus ögon, så länge de reste.
 
 ## Leviticus
 
@@ -5712,7 +5712,7 @@
 
 **[1:16]** Och dess kräfvo med fjädrarna skall man kasta vid altaret österut på askohopen;
 
-**[1:17]** Och skall bryta dess vingar sönder, men icke rifva dem ifrå. Och alltså skall Presten uppbränna det på altaret, på vedenom och eldenom, till ett bränneoffer. Detta är ett offer, som väl luktar Herranom.  
+**[1:17]** Och skall bryta dess vingar sönder, men icke rifva dem ifrå. Och alltså skall Presten uppbränna det på altaret, på vedenom och eldenom, till ett bränneoffer. Detta är ett offer, som väl luktar Herranom.
 
 ### Chapter 2
 
@@ -5746,7 +5746,7 @@
 
 **[2:15]** Och skall låta der oljo uppå, och lägga rökelse deruppå; så är det ett spisoffer.
 
-**[2:16]** Och Presten skall taga af det stötta, och af oljone med allt rökelset, och uppbränna det till en åminnelse. Det är Herranom ett offer.  
+**[2:16]** Och Presten skall taga af det stötta, och af oljone med allt rökelset, och uppbränna det till en åminnelse. Det är Herranom ett offer.
 
 ### Chapter 3
 
@@ -5782,7 +5782,7 @@
 
 **[3:16]** Och Presten skall uppbrännat på altaret till offrens spis, till en söt lukt. Allt det feta hörer Herranom till.
 
-**[3:17]** Det vare en evig sed med edra efterkommande uti alla edra boningar, att I intet fett eller blod äten.  
+**[3:17]** Det vare en evig sed med edra efterkommande uti alla edra boningar, att I intet fett eller blod äten.
 
 ### Chapter 4
 
@@ -5854,7 +5854,7 @@
 
 **[4:34]** Och Presten skall taga af blodet med sitt finger, och stryka på hornen af bränneoffrets altare, och gjuta allt blodet på bottnen af altaret.
 
-**[4:35]** Men allt dess feta skall man aftaga, såsom han aftager det feta af tackoffrets fåre, och skall det uppbränna på altaret till ett Herrans offer. Och alltså skall Presten försona hans synd, den han gjort hafver, och honom varder det förlåtet.  
+**[4:35]** Men allt dess feta skall man aftaga, såsom han aftager det feta af tackoffrets fåre, och skall det uppbränna på altaret till ett Herrans offer. Och alltså skall Presten försona hans synd, den han gjort hafver, och honom varder det förlåtet.
 
 ### Chapter 5
 
@@ -5894,7 +5894,7 @@
 
 **[5:18]** Och skall bära en vädur af hjordenom utan vank, den ett skuldoffer värd är, till Presten. Han skall försona honom hans ovetenhet, den han gjort hafver, och visste det icke, så varder det honom förlåtet.
 
-**[5:19]** Det är skuldoffret, till hvilket han Herranom brottslig är.  
+**[5:19]** Det är skuldoffret, till hvilket han Herranom brottslig är.
 
 ### Chapter 6
 
@@ -5956,7 +5956,7 @@
 
 **[6:29]** Det mankön är ibland Presterna, de skola äta deraf; ty det är det aldrahelgasta.
 
-**[6:30]** Men allt det syndoffer, hvars blod buret varder in uti vittnesbördsens tabernakel till försoning i thy helga, det skall man icke äta, utan uppbränna det med eld.  
+**[6:30]** Men allt det syndoffer, hvars blod buret varder in uti vittnesbördsens tabernakel till försoning i thy helga, det skall man icke äta, utan uppbränna det med eld.
 
 ### Chapter 7
 
@@ -6034,7 +6034,7 @@
 
 **[7:37]** Och detta är bränneoffrens lag, spisoffrens, syndoffrens, skuldoffrens, fyllooffrens och tackoffrens;
 
-**[7:38]** Det Herren på Sinai berg Mose böd, den dagen då han böd honom till Israels barn, att de skulle offra deras offer Herranom uti den öknene Sinai.  
+**[7:38]** Det Herren på Sinai berg Mose böd, den dagen då han böd honom till Israels barn, att de skulle offra deras offer Herranom uti den öknene Sinai.
 
 ### Chapter 8
 
@@ -6108,7 +6108,7 @@
 
 **[8:35]** Och I skolen blifva för dörrene af vittnesbördsens tabernakel dag och natt i sju dagar långt; och skolen taga vara på Herrans vakt, att I icke dön; ty så är mig budet.
 
-**[8:36]** Och Aaron med hans söner gjorde allt det Herren genom Mose budit hade.  
+**[8:36]** Och Aaron med hans söner gjorde allt det Herren genom Mose budit hade.
 
 ### Chapter 9
 
@@ -6158,7 +6158,7 @@
 
 **[9:23]** Och Mose och Aaron gingo in uti vittnesbördsens tabernakel. Och då de gingo åter ut igen, välsignade de folket. Då lät Herrans härlighet se sig allo folkena.
 
-**[9:24]** Ty eld kom ut ifrå Herranom, och förtärde bränneoffret, och det feta på altaret. Då allt folket såg detta, fröjdade de sig, och föllo på deras anlete.  
+**[9:24]** Ty eld kom ut ifrå Herranom, och förtärde bränneoffret, och det feta på altaret. Då allt folket såg detta, fröjdade de sig, och föllo på deras anlete.
 
 ### Chapter 10
 
@@ -6200,7 +6200,7 @@
 
 **[10:19]** Men Aaron sade till Mose: Si, i dag hafva de offrat deras syndoffer, och deras bränneoffer för Herranom, och mig är så gånget som du ser. Skulle jag i dag äta af syndoffer, och vara vid godt mod för Herranom?
 
-**[10:20]** Då Mose det hörde, var han tillfrids.  
+**[10:20]** Då Mose det hörde, var han tillfrids.
 
 ### Chapter 11
 
@@ -6296,7 +6296,7 @@
 
 **[11:46]** Detta är lagen öfver djur, och foglar, och allahanda kräkande djur i vattnena, och allahanda djur, som kräka på jordene;
 
-**[11:47]** Att I skolen veta åtskilnad på hvad orent och rent är, och hvad djur man äta, och hvad man icke äta skall.  
+**[11:47]** Att I skolen veta åtskilnad på hvad orent och rent är, och hvad djur man äta, och hvad man icke äta skall.
 
 ### Chapter 12
 
@@ -6314,7 +6314,7 @@
 
 **[12:7]** Der skall han offrat för Herranom, och försona henne, så varder hon ren af sinom blodgång. Detta är lagen för den som föder piltabarn eller pigobarn.
 
-**[12:8]** Om hennes hand icke förmå ett får, så tage två turturdufvor, eller två unga dufvor, den ena till bränneoffer, den andra till syndoffer; så skall Presten försona henne, att hon skall varda ren.  
+**[12:8]** Om hennes hand icke förmå ett får, så tage två turturdufvor, eller två unga dufvor, den ena till bränneoffer, den andra till syndoffer; så skall Presten försona henne, att hon skall varda ren.
 
 ### Chapter 13
 
@@ -6434,7 +6434,7 @@
 
 **[13:58]** Men klädet eller varpen, eller väftet, eller allahanda skinnverk, som tvaget är, och sårnaden afgången är, skall man på nytt två, och så är det rent.
 
-**[13:59]** Detta är lagen om spitelskosårnad på kläder, ehvad de äro ullen eller linnen; på varp eller väft, och allahanda skinnverk, till att säga dem ren eller oren.  
+**[13:59]** Detta är lagen om spitelskosårnad på kläder, ehvad de äro ullen eller linnen; på varp eller väft, och allahanda skinnverk, till att säga dem ren eller oren.
 
 ### Chapter 14
 
@@ -6550,7 +6550,7 @@
 
 **[14:56]** Om blemmor, skabb och etterhvitt;
 
-**[14:57]** På det man skall veta, när något orent eller rent är. Detta är lagen om spitelsko.  
+**[14:57]** På det man skall veta, när något orent eller rent är. Detta är lagen om spitelsko.
 
 ### Chapter 15
 
@@ -6618,7 +6618,7 @@
 
 **[15:32]** Detta är lagen om den som hafver en flöd, och den som i sömnen hans säd flyter, så att han varder deraf oren;
 
-**[15:33]** Och öfver henne som hafver sina blodsflöd, och den som en flöd hafver, ehvad det är man eller qvinna, och när en man ligger när ena oreno.  
+**[15:33]** Och öfver henne som hafver sina blodsflöd, och den som en flöd hafver, ehvad det är man eller qvinna, och när en man ligger när ena oreno.
 
 ### Chapter 16
 
@@ -6688,7 +6688,7 @@
 
 **[16:33]** Och skall alltså försona den helga helgedomen, och vittnesbördsens tabernakel, och altaret, och Presterna, och allt folket af menighetene.
 
-**[16:34]** Det skall vara eder en evig rätt, att I försonen Israels barn af alla deras synder, ena reso om året. Och Mose gjorde såsom Herren honom budit hade.  
+**[16:34]** Det skall vara eder en evig rätt, att I försonen Israels barn af alla deras synder, ena reso om året. Och Mose gjorde såsom Herren honom budit hade.
 
 ### Chapter 17
 
@@ -6722,7 +6722,7 @@
 
 **[17:15]** Och hvilken själ som äter ett as, eller det af vilddjur rifvet är, vare sig en inländsk eller utländsk, han skall två sin kläder, och bada sig med vatten, och vara oren intill aftonen, så varder han ren.
 
-**[17:16]** Om han icke tvår sin kläder, eller sig icke badar, skall han bära sina missgerning.  
+**[17:16]** Om han icke tvår sin kläder, eller sig icke badar, skall han bära sina missgerning.
 
 ### Chapter 18
 
@@ -6784,7 +6784,7 @@
 
 **[18:29]** Förty de som göra denna styggelsen, deras själar skola utrotade varda utu deras folk.
 
-**[18:30]** Derföre håller mina stadgar, att I icke gören efter de styggeliga seder, som för eder voro, att I icke dermed orenade varden; ty jag är Herren edar Gud.  
+**[18:30]** Derföre håller mina stadgar, att I icke gören efter de styggeliga seder, som för eder voro, att I icke dermed orenade varden; ty jag är Herren edar Gud.
 
 ### Chapter 19
 
@@ -6860,7 +6860,7 @@
 
 **[19:36]** Rätt våg, rätt pund, rätt skäppa, rätt kanna skall vara när eder; ty jag är Herren edar Gud, som hafver fört eder utur Egypti land;
 
-**[19:37]** Att I skolen hålla och göra alla mina stadgar, och alla mina rätter; ty jag är Herren.  
+**[19:37]** Att I skolen hålla och göra alla mina stadgar, och alla mina rätter; ty jag är Herren.
 
 ### Chapter 20
 
@@ -6916,7 +6916,7 @@
 
 **[20:26]** Derföre skolen I vara mig helige; ty jag Herren är helig, den eder afskiljt hafver ifrån annat folk, att I skolen höra mig till.
 
-**[20:27]** Om någor man eller qvinna varda en spåman, eller en tecknatydare, de skola döden dö. Man skall stena dem; deras blod vare öfver dem.  
+**[20:27]** Om någor man eller qvinna varda en spåman, eller en tecknatydare, de skola döden dö. Man skall stena dem; deras blod vare öfver dem.
 
 ### Chapter 21
 
@@ -6966,7 +6966,7 @@
 
 **[21:23]** Men dock skall han icke komma in till förlåten, ej heller nalkas altarena, så länge sådana vank på honom är, att han icke ohelgar min helgedom; ty jag är Herren, som helgar dem.
 
-**[21:24]** Och Mose sade detta till Aaron, och till hans söner, och till all Israels barn.  
+**[21:24]** Och Mose sade detta till Aaron, och till hans söner, och till all Israels barn.
 
 ### Chapter 22
 
@@ -7034,7 +7034,7 @@
 
 **[22:32]** Att I icke ohelgen mitt helga Namn, och att jag må helgad varda ibland Israels barn; ty jag är Herren, den eder helgar;
 
-**[22:33]** Den eder utur Egypti land fört hafver, att jag skulle vara edar Gud: Jag är Herren.  
+**[22:33]** Den eder utur Egypti land fört hafver, att jag skulle vara edar Gud: Jag är Herren.
 
 ### Chapter 23
 
@@ -7124,7 +7124,7 @@
 
 **[23:43]** Att edra efterkommande skola veta, huru jag hafver låtit Israels barn bo i hyddor, då jag förde dem utur Egypti land. Jag är Herren edar Gud.
 
-**[23:44]** Och Mose sade Israels barnom om denna Herrans helg.  
+**[23:44]** Och Mose sade Israels barnom om denna Herrans helg.
 
 ### Chapter 24
 
@@ -7172,7 +7172,7 @@
 
 **[24:22]** Samma rätten skall vara ibland eder, så för utländningen, som för inländningen; ty jag är Herren edar Gud.
 
-**[24:23]** Och Mose sade detta för Israels barnom, och förde honom, som bannats hade, ut för lägret, och stenade honom. Och alltså gjorde Israels barn, såsom Herren Mose budit hade.  
+**[24:23]** Och Mose sade detta för Israels barnom, och förde honom, som bannats hade, ut för lägret, och stenade honom. Och alltså gjorde Israels barn, såsom Herren Mose budit hade.
 
 ### Chapter 25
 
@@ -7284,7 +7284,7 @@
 
 **[25:54]** Om han icke löser sig i denna måtto, så skall han i klangåret lös utgå, och hans barn med honom.
 
-**[25:55]** Förty Israels barn äro mine tjenare, de jag utur Egypti land fört hafver. Jag är Herren edar Gud.  
+**[25:55]** Förty Israels barn äro mine tjenare, de jag utur Egypti land fört hafver. Jag är Herren edar Gud.
 
 ### Chapter 26
 
@@ -7378,7 +7378,7 @@
 
 **[26:45]** Och jag skall för dem ihågkomma mitt första förbund, då jag förde dem utur Egypti land för Hedningarnas ögon, att jag skulle vara deras Gud: Jag Herren.
 
-**[26:46]** Dessa äro de stadgar, och rätter, och lag, som Herren emellan sig och Israels barn satt hafver, på Sinai berg, genom Mose hand.  
+**[26:46]** Dessa äro de stadgar, och rätter, och lag, som Herren emellan sig och Israels barn satt hafver, på Sinai berg, genom Mose hand.
 
 ### Chapter 27
 
@@ -7448,7 +7448,7 @@
 
 **[27:33]** Man skall icke fråga, om det är godt eller ondt; man skall icke heller vexlat. Om någor vexlar det, så skall både vara heligt, och icke löst varda.
 
-**[27:34]** Desse äro de bud, som Herren böd Mose till Israels barn på Sinai berg.   
+**[27:34]** Desse äro de bud, som Herren böd Mose till Israels barn på Sinai berg.
 
 ## Numbers
 
@@ -7560,7 +7560,7 @@
 
 **[1:53]** Men Leviterna skola lägra sig omkring vittnesbördsens tabernakel, på det icke skall komma en vrede öfver menighetena af Israels barn. Derföre skola de Leviter vakt hålla vid vittnesbördsens tabernakel.
 
-**[1:54]** Och Israels barn gjorde allt det Herren Mose budit hade.  
+**[1:54]** Och Israels barn gjorde allt det Herren Mose budit hade.
 
 ### Chapter 2
 
@@ -7630,7 +7630,7 @@
 
 **[2:33]** Men de Leviter vordo intet talde i summan med Israels barnom; såsom Herren hade budit Mose.
 
-**[2:34]** Och Israels barn gjorde allt det Herren hade budit Mose; och lägrade sig under deras baner, och drogo ut hvar i sine slägt efter deras fäders hus.  
+**[2:34]** Och Israels barn gjorde allt det Herren hade budit Mose; och lägrade sig under deras baner, och drogo ut hvar i sine slägt efter deras fäders hus.
 
 ### Chapter 3
 
@@ -7734,7 +7734,7 @@
 
 **[3:50]** Af Israels barnas förstfödingar, tusende trehundrad, och fem och sextio siklar, efter helgedomens sikel;
 
-**[3:51]** Och fick dem Aaron och hans söner, efter Herrans ord, såsom Herren hade budit Mose.  
+**[3:51]** Och fick dem Aaron och hans söner, efter Herrans ord, såsom Herren hade budit Mose.
 
 ### Chapter 4
 
@@ -7834,7 +7834,7 @@
 
 **[4:48]** Var åttatusend, femhundrad och åttatio;
 
-**[4:49]** De der talde vordo efter Herrans ord genom Mose, hvar och en till sitt ämbete och tunga, såsom Herren hade budit Mose.  
+**[4:49]** De der talde vordo efter Herrans ord genom Mose, hvar och en till sitt ämbete och tunga, såsom Herren hade budit Mose.
 
 ### Chapter 5
 
@@ -7898,7 +7898,7 @@
 
 **[5:30]** Eller när en misstankoande upptänder en man, att han misstänker sina hustru, att han skall ställa henne inför Herran; och Presten göre med henne allt efter denna lagen.
 
-**[5:31]** Och mannen skall vara utan skuld för den missgerning, men qvinnan skall bära sin skuld.  
+**[5:31]** Och mannen skall vara utan skuld för den missgerning, men qvinnan skall bära sin skuld.
 
 ### Chapter 6
 
@@ -7954,7 +7954,7 @@
 
 **[6:26]** Herren upplyfte sitt ansigte öfver dig, och gifve dig frid.
 
-**[6:27]** Ty I skolen sätta mitt Namn uppå Israels barn, att jag skall välsigna dem.  
+**[6:27]** Ty I skolen sätta mitt Namn uppå Israels barn, att jag skall välsigna dem.
 
 ### Chapter 7
 
@@ -8134,7 +8134,7 @@
 
 **[7:88]** Och summan af boskapen till tackoffret var fyra och tjugu oxar, sextio vädrar, sextio bockar, sextio årsgamla lamb. Detta är nu altarets vigning, då det vigdt vardt.
 
-**[7:89]** Och när Mose gick in uti vittnesbördsens tabernakel, att med honom skulle taladt varda, så hörde han röstena med sig tala af nådastolenom, som var på vittnesbördsens ark, emellan de två Cherubim; dädan vardt med honom taladt.  
+**[7:89]** Och när Mose gick in uti vittnesbördsens tabernakel, att med honom skulle taladt varda, så hörde han röstena med sig tala af nådastolenom, som var på vittnesbördsens ark, emellan de två Cherubim; dädan vardt med honom taladt.
 
 ### Chapter 8
 
@@ -8188,7 +8188,7 @@
 
 **[8:25]** Men ifrå femtionde året skola de vara löse ifrå tjenstenes ämbete, och skola icke mera tjena;
 
-**[8:26]** Utan taga vara på deras bröders tjenst uti vittnesbördsens tabernakel; men ämbetet skola de icke sköta. Alltså skall du göra med Leviterna, att hvar och en tager vara på sina vakt.  
+**[8:26]** Utan taga vara på deras bröders tjenst uti vittnesbördsens tabernakel; men ämbetet skola de icke sköta. Alltså skall du göra med Leviterna, att hvar och en tager vara på sina vakt.
 
 ### Chapter 9
 
@@ -8236,7 +8236,7 @@
 
 **[9:22]** Men när han två dagar, eller en månad, eller eljest länge blef öfver tabernaklet, så lågo Israels barn, och foro intet. Och när han då gaf sig upp, så foro de.
 
-**[9:23]** Ty efter Herrans mun lågo de, och efter Herrans mun foro de; så att de togo vara på Herrans vakt, efter Herrans ord genom Mose.  
+**[9:23]** Ty efter Herrans mun lågo de, och efter Herrans mun foro de; så att de togo vara på Herrans vakt, efter Herrans ord genom Mose.
 
 ### Chapter 10
 
@@ -8310,7 +8310,7 @@
 
 **[10:35]** Och när arken for, så sade Mose: Herre, statt upp, att dine fiender måga förströs; och de som dig hata, måga flyktige varda för dig.
 
-**[10:36]** Och när han sattes ned, sade han: Kom igen, Herre, till de många Israels tusend.  
+**[10:36]** Och när han sattes ned, sade han: Kom igen, Herre, till de många Israels tusend.
 
 ### Chapter 11
 
@@ -8382,7 +8382,7 @@
 
 **[11:34]** Deraf heter det samma rummet Lustgrifter; derföre, att man der begrof det lustna folket.
 
-**[11:35]** Ifrå Lustgrifterna drog folket ut till Hazeroth; och blefvo i Hazeroth.  
+**[11:35]** Ifrå Lustgrifterna drog folket ut till Hazeroth; och blefvo i Hazeroth.
 
 ### Chapter 12
 
@@ -8414,7 +8414,7 @@
 
 **[12:14]** Herren sade: Om hennes fader hade spottat henne i ansigtet, skulle hon icke skämma sig i sju dagar? Låt innelycka henne i sju dagar utan lägret; sedan låt åter taga henne igen.
 
-**[12:15]** Så vardt då MirJam innelyckt i sju dagar utan lägret, och folket for ingen vägs fram bätter, intilldess MirJam vardt igen anammad.  
+**[12:15]** Så vardt då MirJam innelyckt i sju dagar utan lägret, och folket for ingen vägs fram bätter, intilldess MirJam vardt igen anammad.
 
 **[12:16]** 
 
@@ -8484,7 +8484,7 @@
 
 **[13:32]** Men de män, som hade varit med honom uppfarne, sade: Vi förmåge icke draga ditupp emot det folk; ty de äro oss för starke.
 
-**[13:33]** Och de förtalade landet, som de skådat hade, för Israels barnom, och sade: Landet, som vi igenomgångit hafve till att bespeja det, uppfräter sina inbyggare; och allt det folk, som vi derinne sågo, är ganska långt folk. Vi såge der ock tyranner, Enaks barn af de tyranner; och vi vorom för vår ögon såsom gräshoppor, och så vorom vi ock för deras ögon.  
+**[13:33]** Och de förtalade landet, som de skådat hade, för Israels barnom, och sade: Landet, som vi igenomgångit hafve till att bespeja det, uppfräter sina inbyggare; och allt det folk, som vi derinne sågo, är ganska långt folk. Vi såge der ock tyranner, Enaks barn af de tyranner; och vi vorom för vår ögon såsom gräshoppor, och så vorom vi ock för deras ögon.
 
 ### Chapter 14
 
@@ -8576,7 +8576,7 @@
 
 **[14:44]** Men de voro förblindade till att draga upp på bergshöjdena; men Herrans förbunds ark och Mose kommo intet utu lägret.
 
-**[14:45]** Så kommo de Amalekiter och Cananeer, som på bergen bodde, neder, och slogo dem, och förföljde dem allt intill Horma.  
+**[14:45]** Så kommo de Amalekiter och Cananeer, som på bergen bodde, neder, och slogo dem, och förföljde dem allt intill Horma.
 
 ### Chapter 15
 
@@ -8660,7 +8660,7 @@
 
 **[15:40]** Derföre skolen I ihågkomma och göra all min bud, och helige vara edrom Gud.
 
-**[15:41]** Jag Herren edar Gud, den eder utur Egypti land fört hafver, att jag skulle vara edar Gud: Jag Herren edar Gud.  
+**[15:41]** Jag Herren edar Gud, den eder utur Egypti land fört hafver, att jag skulle vara edar Gud: Jag Herren edar Gud.
 
 ### Chapter 16
 
@@ -8762,7 +8762,7 @@
 
 **[16:49]** Men de som af plågone döde voro, voro fjortontusend och sjuhundrad, undantagnom dem som förgingos uti Korahs uppror.
 
-**[16:50]** Och Aaron kom igen till Mose för dörrena af vittnesbördsens tabernakel; och plågan var förtagen.  
+**[16:50]** Och Aaron kom igen till Mose för dörrena af vittnesbördsens tabernakel; och plågan var förtagen.
 
 ### Chapter 17
 
@@ -8790,7 +8790,7 @@
 
 **[17:12]** Och Israels barn sade till Mose: Si, vi förgås, och blifve borto; vi förminskas, och vardom alle.
 
-**[17:13]** Ho som kommer intill Herrans tabernakel, han dör: skole vi då platt förödas?  
+**[17:13]** Ho som kommer intill Herrans tabernakel, han dör: skole vi då platt förödas?
 
 ### Chapter 18
 
@@ -8856,7 +8856,7 @@
 
 **[18:31]** Och I mågen det äta allestäds, I och edor barn; ty det är edor lön för edart ämbete uti vittnesbördsens tabernakel.
 
-**[18:32]** Så synden I icke deröfver, när I häfoffren det feta deraf, och icke ohelgen det Israels barn helgat hafva, att I icke dön.  
+**[18:32]** Så synden I icke deröfver, när I häfoffren det feta deraf, och icke ohelgen det Israels barn helgat hafva, att I icke dön.
 
 ### Chapter 19
 
@@ -8902,7 +8902,7 @@
 
 **[19:21]** Och detta skall varda dem en evig rätt. Skall också den som med stänkevattnena stänkte, två sin kläder; och den som kommer vid stänkevattnet, han skall vara oren intill aftonen.
 
-**[19:22]** Och allt det han kommer vid, det skall vara orent. Och hvilken själ, som han vederkommer, hon skall vara oren intill aftonen.  
+**[19:22]** Och allt det han kommer vid, det skall vara orent. Och hvilken själ, som han vederkommer, hon skall vara oren intill aftonen.
 
 ### Chapter 20
 
@@ -8962,7 +8962,7 @@
 
 **[20:28]** Och Mose afklädde Aaron hans kläder, och klädde dem på hans son Eleazar. Och Aaron blef der död uppå berget; men Mose och Eleazar stego neder utaf bergena.
 
-**[20:29]** Och då hela menigheten såg att Aaron var död, begreto de honom i tretio dagar, hela Israels hus.  
+**[20:29]** Och då hela menigheten såg att Aaron var död, begreto de honom i tretio dagar, hela Israels hus.
 
 ### Chapter 21
 
@@ -9034,7 +9034,7 @@
 
 **[21:34]** Och Herren sade till Mose: Frukta dig intet för honom; ty jag hafver gifvit honom i dina hand med land och folk; och du skall göra med honom, såsom du med Sihon, de Amoreers Konung, gjort hafver, hvilken i Hesbon bodde.
 
-**[21:35]** Och de slogo honom och hans söner, och allt hans folk, tilldess att ingen var igen; och togo det landet in.  
+**[21:35]** Och de slogo honom och hans söner, och allt hans folk, tilldess att ingen var igen; och togo det landet in.
 
 ### Chapter 22
 
@@ -9118,7 +9118,7 @@
 
 **[22:40]** Och Balak offrade fä och får, och sände efter Bileam, och efter de Förstar som när honom voro.
 
-**[22:41]** Om morgonen tog Balak Bileam, och hade honom upp på Baals höjder, att han dädan af måtte se intill ändan af folket.  
+**[22:41]** Om morgonen tog Balak Bileam, och hade honom upp på Baals höjder, att han dädan af måtte se intill ändan af folket.
 
 ### Chapter 23
 
@@ -9180,7 +9180,7 @@
 
 **[23:29]** Och Bileam sade till Balak: Bygg mig här sju altare, och låt mig få sju stutar och sju vädrar.
 
-**[23:30]** Balak gjorde såsom Bileam sade, och offrade ju uppå hvart altaret en stut och en vädur.  
+**[23:30]** Balak gjorde såsom Bileam sade, och offrade ju uppå hvart altaret en stut och en vädur.
 
 ### Chapter 24
 
@@ -9232,7 +9232,7 @@
 
 **[24:24]** Och skepp utu Chittim skola förderfva Assur och Eber; men han skall ock förgås.
 
-**[24:25]** Och Bileam stod upp, och drog sina färde, och kom igen till sitt rum; och Balak for sin väg.  
+**[24:25]** Och Bileam stod upp, och drog sina färde, och kom igen till sitt rum; och Balak for sin väg.
 
 ### Chapter 25
 
@@ -9270,7 +9270,7 @@
 
 **[25:17]** Gör de Midianiter ondt, och slå dem;
 
-**[25:18]** Förty de hafva gjort eder ondt med deras list, den de eder beställt hafva med Peor, och med deras syster Cosbi, den Midianitiska Förstans dotter, hvilken slagen vardt, på plågones dag, för Peors skull.  
+**[25:18]** Förty de hafva gjort eder ondt med deras list, den de eder beställt hafva med Peor, och med deras syster Cosbi, den Midianitiska Förstans dotter, hvilken slagen vardt, på plågones dag, för Peors skull.
 
 ### Chapter 26
 
@@ -9402,7 +9402,7 @@
 
 **[26:64]** Ibland hvilka var ingen utaf den summo, då Mose och Presten Aaron talde Israels barn uti Sinai öken.
 
-**[26:65]** Förty Herren hade sagt dem, att de skulle döden dö i öknene. Och ingen blef qvar, utan Caleb, Jephunne son, och Josua, Nuns son.  
+**[26:65]** Förty Herren hade sagt dem, att de skulle döden dö i öknene. Och ingen blef qvar, utan Caleb, Jephunne son, och Josua, Nuns son.
 
 ### Chapter 27
 
@@ -9450,7 +9450,7 @@
 
 **[27:22]** Mose gjorde såsom Herren honom böd; och tog Josua, och ställde honom fram för Presten Eleazar, och för hela menighetena;
 
-**[27:23]** Och lade sina hand uppå honom, och böd honom, såsom Herren med Mose talat hade.  
+**[27:23]** Och lade sina hand uppå honom, och böd honom, såsom Herren med Mose talat hade.
 
 ### Chapter 28
 
@@ -9514,7 +9514,7 @@
 
 **[28:30]** Och en getabock till att försona eder.
 
-**[28:31]** Detta skolen I göra, förutan det dagliga bränneoffret med sitt spisoffer; utan vank skall det vara; dertill deras drickoffer.  
+**[28:31]** Detta skolen I göra, förutan det dagliga bränneoffret med sitt spisoffer; utan vank skall det vara; dertill deras drickoffer.
 
 ### Chapter 29
 
@@ -9594,7 +9594,7 @@
 
 **[29:38]** Dertill en bock till syndoffer, förutan det dagliga bränneoffret, med sitt spisoffer och sitt drickoffer.
 
-**[29:39]** Detta skolen I göra Herranom i edra högtider, undantagno det I lofven och friviljoge gifven till bränneoffer, spisoffer, drickoffer och tackoffer.  
+**[29:39]** Detta skolen I göra Herranom i edra högtider, undantagno det I lofven och friviljoge gifven till bränneoffer, spisoffer, drickoffer och tackoffer.
 
 **[29:40]** 
 
@@ -9630,7 +9630,7 @@
 
 **[30:15]** Om han tiger dertill ifrå den ena dagen till den andra; så gifver han allo hans löfte och förpligtelse magt, som han hafver på sig; derföre, att han hafver tegat, på den dagen, då han hörde det.
 
-**[30:16]** Om han efteråt ryggar det, sedan han det hört hafver, så skall han bära missgerningena. Desse äro de stadgar, som Herren hafver budit Mose emellan man och hustru, emellan fader och dotter, medan hon en piga är i sins faders huse.  
+**[30:16]** Om han efteråt ryggar det, sedan han det hört hafver, så skall han bära missgerningena. Desse äro de stadgar, som Herren hafver budit Mose emellan man och hustru, emellan fader och dotter, medan hon en piga är i sins faders huse.
 
 ### Chapter 31
 
@@ -9740,7 +9740,7 @@
 
 **[31:53]** Förty krigsfolket hade röfvat hvar och en för sig.
 
-**[31:54]** Och Mose med Prestenom Eleazar tog guldet af höfvitsmännerna öfver tusend, och öfver hundrade, och båro det in uti vittnesbördsens tabernakel, Israels barnom till en åminnelse för Herranom.  
+**[31:54]** Och Mose med Prestenom Eleazar tog guldet af höfvitsmännerna öfver tusend, och öfver hundrade, och båro det in uti vittnesbördsens tabernakel, Israels barnom till en åminnelse för Herranom.
 
 ### Chapter 32
 
@@ -9826,7 +9826,7 @@
 
 **[32:41]** Men Jair, Manasse son, drog bort, och vann deras byar, och kallade dem HavothJair.
 
-**[32:42]** Nobah drog åstad, och vann Kenath med dess döttrar, och kallade dem Nobah efter sitt namn.  
+**[32:42]** Nobah drog åstad, och vann Kenath med dess döttrar, och kallade dem Nobah efter sitt namn.
 
 ### Chapter 33
 
@@ -9940,7 +9940,7 @@
 
 **[33:55]** Om I landsens inbyggare icke fördrifven för edart ansigte, så skola de, som återlefde äro, vara eder som törne i edor ögon, och såsom spjut i edra sidor; och skola tränga eder på landena, der I uti bon.
 
-**[33:56]** Så skall då ske, att jag så varder görandes eder, som jag emot dem göra aktade.  
+**[33:56]** Så skall då ske, att jag så varder görandes eder, som jag emot dem göra aktade.
 
 ### Chapter 34
 
@@ -10000,7 +10000,7 @@
 
 **[34:28]** Pedahel, Ammihuds son, Försten för Naphthali barnas slägte.
 
-**[34:29]** Desse äro de som Herren budit hafver, att de skulle utskifta Israels barnom arfvet i Canaans land.  
+**[34:29]** Desse äro de som Herren budit hafver, att de skulle utskifta Israels barnom arfvet i Canaans land.
 
 ### Chapter 35
 
@@ -10070,7 +10070,7 @@
 
 **[35:33]** Och skämmer icke landet, der I uti bon; ty den som blodssaker är, han skämmer landet; och landet kan icke försonadt varda för det blod, som der utgjutet varder, annars utan genom hans blod, som det utgjutit hafver.
 
-**[35:34]** Orener icke landet, som I bon uti, der jag ock uti bor; ty jag är Herren, som bor ibland Israels barn.  
+**[35:34]** Orener icke landet, som I bon uti, der jag ock uti bor; ty jag är Herren, som bor ibland Israels barn.
 
 ### Chapter 36
 
@@ -10098,7 +10098,7 @@
 
 **[36:12]** Af Manasse barnas slägte, Josephs sons; alltså blef deras arfvedel vid ättena och deras faders slägte.
 
-**[36:13]** Desse äro de bud och rätter, som Herren genom Mose böd Israels barnom, på de Moabiters mark, vid Jordan, in mot Jericho.   
+**[36:13]** Desse äro de bud och rätter, som Herren genom Mose böd Israels barnom, på de Moabiters mark, vid Jordan, in mot Jericho.
 
 ## Deuteronomy
 
@@ -10194,7 +10194,7 @@
 
 **[1:45]** Då I nu igenkommen, och greten för Herranom, ville Herren icke höra edra röst, och böjde sin öron intet till eder.
 
-**[1:46]** Så blefven I uti Kades en långan tid.  
+**[1:46]** Så blefven I uti Kades en långan tid.
 
 ### Chapter 2
 
@@ -10270,7 +10270,7 @@
 
 **[2:36]** Ifrån Aroer, som ligger på strandene utmed den bäcken vid Arnon, och ifrå den staden i dalenom allt intill Gilead, ingen stad var, som sig kunde beskydda för oss; Herren vår Gud gaf alltsamman för oss;
 
-**[2:37]** Utan till Ammons barnas land kom du icke, eller till något det som var vid den bäcken Jabbok, eller till de städer på bergena, eller till något det Herren vår Gud oss förbudit hade.  
+**[2:37]** Utan till Ammons barnas land kom du icke, eller till något det som var vid den bäcken Jabbok, eller till de städer på bergena, eller till något det Herren vår Gud oss förbudit hade.
 
 ### Chapter 3
 
@@ -10330,7 +10330,7 @@
 
 **[3:28]** Utan bjud Josua, att han är tröst och frimodig; förty han skall gå öfver Jordan för folket, och skall utskifta dem landet, som du seendes varder.
 
-**[3:29]** Så blefvo vi då i den dalen in mot Peors hus.  
+**[3:29]** Så blefvo vi då i den dalen in mot Peors hus.
 
 ### Chapter 4
 
@@ -10430,7 +10430,7 @@
 
 **[4:48]** Ifrån Aroer, hvilken på den bäckens strand vid Arnon ligger, intill berget Sion, det är Hermon;
 
-**[4:49]** Och allt släta landet hinsidon Jordan, österut, allt intill hafvet, på slättene, nedanför berget Pisga.  
+**[4:49]** Och allt släta landet hinsidon Jordan, österut, allt intill hafvet, på slättene, nedanför berget Pisga.
 
 ### Chapter 5
 
@@ -10498,7 +10498,7 @@
 
 **[5:32]** Så behåller det nu, att I mån göra såsom Herren edar Gud eder budit hafver; och viker icke hvarken på högra sidon eller venstra;
 
-**[5:33]** Utan vandrer i alla de vägar, som Herren edar Gud eder budit hafver; på det I mågen lefva, och eder skall väl gå, och I länge lefven i landena, som I intaga skolen.  
+**[5:33]** Utan vandrer i alla de vägar, som Herren edar Gud eder budit hafver; på det I mågen lefva, och eder skall väl gå, och I länge lefven i landena, som I intaga skolen.
 
 ### Chapter 6
 
@@ -10550,7 +10550,7 @@
 
 **[6:24]** Och böd Herren oss att göra efter alla dessa rätter, att vi skole frukta Herran vår Gud, att oss väl går i alla våra lifsdagar, såsom det tillgår i denna dag.
 
-**[6:25]** Och det skall vara oss till rättfärdighet för Herranom vårom Gud, om vi hålle och göre all dessa buden, såsom han oss budit hafver.  
+**[6:25]** Och det skall vara oss till rättfärdighet för Herranom vårom Gud, om vi hålle och göre all dessa buden, såsom han oss budit hafver.
 
 ### Chapter 7
 
@@ -10604,7 +10604,7 @@
 
 **[7:25]** Deras afgudars beläte skall du bränna upp i elde; och skall intet begära utaf silfret eller guldet, som deruppå är, eller taga det till dig, på det att du icke skall förtaga dig derutinnan: ty sådant är Herranom dinom Gud en styggelse.
 
-**[7:26]** Derföre skall du icke föra den styggelsen in uti ditt hus, att du icke varder tillspillogifven, såsom ock det är; utan du skall hafva en vämjelse och styggelse dervid; ty det är tillspillogifvet.  
+**[7:26]** Derföre skall du icke föra den styggelsen in uti ditt hus, att du icke varder tillspillogifven, såsom ock det är; utan du skall hafva en vämjelse och styggelse dervid; ty det är tillspillogifvet.
 
 ### Chapter 8
 
@@ -10646,7 +10646,7 @@
 
 **[8:19]** Men om du förgäter Herran din Gud, och följer andra gudar efter, och tjenar dem, och tillbeder dem; så betygar jag i dag öfver eder, att I skolen slätt förgås.
 
-**[8:20]** Lika som Hedningarna, hvilka Herren förgör för edart ansigte, så skolen ock I förgås; derföre, att I icke ären Herrans edars Guds röst hörige.  
+**[8:20]** Lika som Hedningarna, hvilka Herren förgör för edart ansigte, så skolen ock I förgås; derföre, att I icke ären Herrans edars Guds röst hörige.
 
 ### Chapter 9
 
@@ -10706,7 +10706,7 @@
 
 **[9:28]** Att det landet, der du oss utfört hafver, icke skall säga: Herren kunde icke föra dem uti det land, som han dem lofvat hade, och hafver fördenskull fört dem derut, att han var vred på dem, att han skulle dräpa dem i öknene.
 
-**[9:29]** Förty de äro ditt folk, och din arfvedel, som du med dine stora magt, och med din uträckta arm, utfört hafver.  
+**[9:29]** Förty de äro ditt folk, och din arfvedel, som du med dine stora magt, och med din uträckta arm, utfört hafver.
 
 ### Chapter 10
 
@@ -10752,7 +10752,7 @@
 
 **[10:21]** Han är ditt lof, och din Gud, den med dig så stor och förfärlig ting gjort hafver, såsom din ögon sett hafva.
 
-**[10:22]** Dine fäder foro neder uti Egypten med sjutio själar; men nu hafver Herren din Gud förökat dig, såsom stjernorna på himmelen.  
+**[10:22]** Dine fäder foro neder uti Egypten med sjutio själar; men nu hafver Herren din Gud förökat dig, såsom stjernorna på himmelen.
 
 ### Chapter 11
 
@@ -10818,7 +10818,7 @@
 
 **[11:31]** Ty du måste gå öfver Jordan, att du inkommer, och tager landet in, som Herren edar Gud eder gifvit hafver, att I det intaga och deruti bo skolen.
 
-**[11:32]** Så ser nu till, att I gören efter all de bud och rätter, som jag eder i dag förelägger.  
+**[11:32]** Så ser nu till, att I gören efter all de bud och rätter, som jag eder i dag förelägger.
 
 ### Chapter 12
 
@@ -10884,7 +10884,7 @@
 
 **[12:31]** Du skall icke således göra Herranom dinom Gud; förty de hafva gjort sinom gudom allt det Herranom stygges vid, och det han hatar; ty de hafva ock uppbränt i elde sina söner och döttrar till sina gudar.
 
-**[12:32]** Allt det jag bjuder eder, det skolen I hålla, så att I gören derefter. I skolen intet lägga dertill, och intet taga derifrå.  
+**[12:32]** Allt det jag bjuder eder, det skolen I hålla, så att I gören derefter. I skolen intet lägga dertill, och intet taga derifrå.
 
 ### Chapter 13
 
@@ -10922,7 +10922,7 @@
 
 **[13:17]** Och låt intet blifva i dine hand af det som tillspillogifvet är; på det att Herren skall vändas ifrå sine vredes grymhet, och gifva dig barmhertighet, och förbarma sig öfver dig, och föröka dig, såsom han dina fäder svorit hafver;
 
-**[13:18]** Derföre, att du Herrans dins Guds röst lydt hafver, till att hålla all hans bud, som jag dig bjuder på denna dag, att du skall göra det som rätt är för Herrans dins Guds ögon.  
+**[13:18]** Derföre, att du Herrans dins Guds röst lydt hafver, till att hålla all hans bud, som jag dig bjuder på denna dag, att du skall göra det som rätt är för Herrans dins Guds ögon.
 
 ### Chapter 14
 
@@ -10982,7 +10982,7 @@
 
 **[14:28]** Efter tre år skall du afsöndra all tiond af dine säd i det året, och skall lägga henne i dina portar.
 
-**[14:29]** Så skall Leviten komma, som ingen lott eller arf hafver med dig; och främlingen, och den faderlöse, och enkan, som i dina portar äro, och äta, och mätta sig; på det Herren din Gud dig välsigna skall i alla dina händers gerningar, som du gör.  
+**[14:29]** Så skall Leviten komma, som ingen lott eller arf hafver med dig; och främlingen, och den faderlöse, och enkan, som i dina portar äro, och äta, och mätta sig; på det Herren din Gud dig välsigna skall i alla dina händers gerningar, som du gör.
 
 ### Chapter 15
 
@@ -11030,7 +11030,7 @@
 
 **[15:22]** Utan i dinom port skall du ätat, ehvad du äst ren eller oren, såsom en rå eller hjort;
 
-**[15:23]** Allenast att du icke äter af dess blod, utan gjuter det på jordena såsom vatten.  
+**[15:23]** Allenast att du icke äter af dess blod, utan gjuter det på jordena såsom vatten.
 
 ### Chapter 16
 
@@ -11076,7 +11076,7 @@
 
 **[16:21]** Du skall icke någon lund af någrahanda trä plantera vid Herrans dins Guds altare, som du dig gör.
 
-**[16:22]** Du skall ingen stod uppresa, hvilket Herren din Gud hatar.  
+**[16:22]** Du skall ingen stod uppresa, hvilket Herren din Gud hatar.
 
 ### Chapter 17
 
@@ -11118,7 +11118,7 @@
 
 **[17:19]** Hon skall vara när honom, och han skall deruti läsa i alla sina lifsdagar; på det att han skall lära frukta Herran sin Gud, att han håller all denna lagsens ord, och dessa rätter, att han gör derefter.
 
-**[17:20]** Han skall icke förhäfva sitt hjerta utöfver sina bröder; och skall icke vika ifrå budet, hvarken på den högra sidona, eller på den venstra; på det han skall förlänga sina dagar i sitt regemente, han och hans barn i Israel.  
+**[17:20]** Han skall icke förhäfva sitt hjerta utöfver sina bröder; och skall icke vika ifrå budet, hvarken på den högra sidona, eller på den venstra; på det han skall förlänga sina dagar i sitt regemente, han och hans barn i Israel.
 
 ### Chapter 18
 
@@ -11164,7 +11164,7 @@
 
 **[18:21]** Om du nu säga ville i ditt hjerta: Huru kan jag märka, hvilket ord Herren icke talat hafver?
 
-**[18:22]** När den Propheten talar i Herrans Namn, och der varder intet af, och sker intet, så är det det ord, som Herren icke talat hafver. Den Propheten hafver det talat af öfverdådighet: derföre skall du icke frukta dig för honom.  
+**[18:22]** När den Propheten talar i Herrans Namn, och der varder intet af, och sker intet, så är det det ord, som Herren icke talat hafver. Den Propheten hafver det talat af öfverdådighet: derföre skall du icke frukta dig för honom.
 
 ### Chapter 19
 
@@ -11208,7 +11208,7 @@
 
 **[19:20]** Och andre skola det höra och rädas, och icke mer taga sig före sådana ondt stycke göra ibland dig.
 
-**[19:21]** Ditt öga skall icke skona honom: själ för själ, öga för öga, tand för tand, hand för hand, fot för fot.  
+**[19:21]** Ditt öga skall icke skona honom: själ för själ, öga för öga, tand för tand, hand för hand, fot för fot.
 
 ### Chapter 20
 
@@ -11250,7 +11250,7 @@
 
 **[20:19]** Om du måste länge ligga för en stad, emot hvilken du strider, till att intagan, så skall du icke förderfva trän, så att du låter yxena komma på dem; förty du kan äta deraf, derföre skall du icke afhugga dem. Är det dock ett trä på markene, och icke menniska, och kan icke komma i bålverk emot dig.
 
-**[20:20]** Men de trä, som du vetst att man icke äter deraf, dem skall du förderfva och afhugga, och gör bålverk emot staden som med dig örligar, tilldess du honom öfvermägtig varder.  
+**[20:20]** Men de trä, som du vetst att man icke äter deraf, dem skall du förderfva och afhugga, och gör bålverk emot staden som med dig örligar, tilldess du honom öfvermägtig varder.
 
 ### Chapter 21
 
@@ -11298,7 +11298,7 @@
 
 **[21:22]** När någor hafver bedrifvit en synd, den döden värd är, och varder så dödad, att man hängre honom upp i trä;
 
-**[21:23]** Så skall hans lekamen icke blifva på trät öfver nattena; utan I skolen begrafva honom på den samma dagen; ty förbannad är den för Gud, som hängder är; på det att du icke skall orena ditt land, som Herren din Gud gifver dig till arfs.  
+**[21:23]** Så skall hans lekamen icke blifva på trät öfver nattena; utan I skolen begrafva honom på den samma dagen; ty förbannad är den för Gud, som hängder är; på det att du icke skall orena ditt land, som Herren din Gud gifver dig till arfs.
 
 ### Chapter 22
 
@@ -11360,7 +11360,7 @@
 
 **[22:29]** Så skall han, som när henne låg, gifva hennes fader femtio siklar silfver, och skall hafva henne till hustru, derföre att han hafver förnedrat henne; han må icke öfvergifva henne i hans lifsdagar.
 
-**[22:30]** Ingen skall taga sins faders hustru, och icke upptäcka sins faders täckelse.  
+**[22:30]** Ingen skall taga sins faders hustru, och icke upptäcka sins faders täckelse.
 
 ### Chapter 23
 
@@ -11412,7 +11412,7 @@
 
 **[23:24]** När du går i dins nästas vingård, så må du äta af vinbären så mycket dig täckes, tilldess du blifver mätt; men du skall intet taga med dig i dino kärile.
 
-**[23:25]** När du går i dins nästas säd, så må du afplocka ax; men med lian skall du icke gå dertill.  
+**[23:25]** När du går i dins nästas säd, så må du afplocka ax; men med lian skall du icke gå dertill.
 
 ### Chapter 24
 
@@ -11458,7 +11458,7 @@
 
 **[24:21]** När du din vingård afbergat hafver, så skall du icke sedan på nytt hemta; det skall höra främlingenom, dem faderlösa och enkone till;
 
-**[24:22]** Och skall ihågkomma, att du hafver varit en träl i Egypti land; derföre bjuder jag dig, att du detta gör.  
+**[24:22]** Och skall ihågkomma, att du hafver varit en träl i Egypti land; derföre bjuder jag dig, att du detta gör.
 
 ### Chapter 25
 
@@ -11498,7 +11498,7 @@
 
 **[25:18]** Huru de kommo emot dig på vägenom, och slogo dina eftersta, alla de svaga som efterst drogo, när du mödd och trött vast, och de fruktade icke Gud.
 
-**[25:19]** När nu Herren din Gud låter dig komma till ro ifrån alla dina fiendar omkring dig i landena, som Herren din Gud dig gifver till arfs till att intaga, så skall du utskrapa de Amalekiters åminnelse under himmelen; det förgät icke.  
+**[25:19]** När nu Herren din Gud låter dig komma till ro ifrån alla dina fiendar omkring dig i landena, som Herren din Gud dig gifver till arfs till att intaga, så skall du utskrapa de Amalekiters åminnelse under himmelen; det förgät icke.
 
 ### Chapter 26
 
@@ -11538,7 +11538,7 @@
 
 **[26:18]** Herren hafver dig tillsagt i dag, att du skall vara hans eget folk, såsom han dig sagt hafver; att du skall hålla all hans bud;
 
-**[26:19]** Och han skall göra dig det högsta, och du varder prisad, lofvad och ärad, öfver allt folk som han gjort hafver; på det du skall vara Herranom dinom Gud ett heligt folk, såsom han sagt hafver.  
+**[26:19]** Och han skall göra dig det högsta, och du varder prisad, lofvad och ärad, öfver allt folk som han gjort hafver; på det du skall vara Herranom dinom Gud ett heligt folk, såsom han sagt hafver.
 
 ### Chapter 27
 
@@ -11592,7 +11592,7 @@
 
 **[27:25]** Förbannad vare den som tager mutor, att han ens oskyldigs blods själ slå skall; och allt folket skall säga: Amen.
 
-**[27:26]** Förbannad vare den som icke fullkomnar all denna lagsens ord, så att han gör derefter; och allt folket skall säga: Amen.  
+**[27:26]** Förbannad vare den som icke fullkomnar all denna lagsens ord, så att han gör derefter; och allt folket skall säga: Amen.
 
 ### Chapter 28
 
@@ -11730,7 +11730,7 @@
 
 **[28:67]** Om morgonen skall du säga: Ack! det jag måtte lefva till aftonen; och om aftonen skall du säga: Ack! det jag måtte lefva till morgonen, för dins hjertas stora räddhåga, som dig förskräcka skall, och för det som du med din ögon se skall.
 
-**[28:68]** Och Herren skall föra dig skeppom full åter in uti Egypten på den vägen, om hvilken jag sade: Du skall icke mer se honom; och skolen varda sålde edrom fiendom till trälar och trälinnor, och der skall ingen vara, som köpa vill.  
+**[28:68]** Och Herren skall föra dig skeppom full åter in uti Egypten på den vägen, om hvilken jag sade: Du skall icke mer se honom; och skolen varda sålde edrom fiendom till trälar och trälinnor, och der skall ingen vara, som köpa vill.
 
 ### Chapter 29
 
@@ -11790,7 +11790,7 @@
 
 **[29:28]** Och Herren hafver drifvit dem utu deras land med stora vrede, grymhet och ogunst, och kastat dem uti ett annat land, såsom det i denna dag befinnes.
 
-**[29:29]** Herrans vår Guds hemlighet är uppenbarad oss och vårom barnom till evig tid, att vi all dessa lagsens ord göra skole.  
+**[29:29]** Herrans vår Guds hemlighet är uppenbarad oss och vårom barnom till evig tid, att vi all dessa lagsens ord göra skole.
 
 ### Chapter 30
 
@@ -11832,7 +11832,7 @@
 
 **[30:19]** Jag tager i dag himmel och jord till vittne öfver eder, jag hafver satt eder före lifvet och döden, välsignelse och förbannelse, att du skall utvälja lifvet, och du och din säd mågen lefva;
 
-**[30:20]** Att I skolen älska Herran edar Gud, och lyda hans röst, och hålla eder intill honom; ty det är ditt lif, och din långa ålder, att du må bo i landena, som Herren dina fäder, Abraham, Isaac och Jacob, svorit hafver dem att gifva.  
+**[30:20]** Att I skolen älska Herran edar Gud, och lyda hans röst, och hålla eder intill honom; ty det är ditt lif, och din långa ålder, att du må bo i landena, som Herren dina fäder, Abraham, Isaac och Jacob, svorit hafver dem att gifva.
 
 ### Chapter 31
 
@@ -11894,7 +11894,7 @@
 
 **[31:29]** Ty jag vet, att I efter min död skolen förderfvat, och gå utaf vägenom, den jag eder budit hafver; så skall eder vederfaras olycka derefter, derföre, att I hafven illa gjort för Herrans ögon, och förtörnat honom genom edra händers gerningar.
 
-**[31:30]** Alltså talade Mose denna visones ord all ut, för hela Israels församlings öron.  
+**[31:30]** Alltså talade Mose denna visones ord all ut, för hela Israels församlings öron.
 
 ### Chapter 32
 
@@ -12000,7 +12000,7 @@
 
 **[32:51]** Derföre, att I hafven brutit emot mig ibland Israels barn, vid trätovattnet i Kades, i den öknene Zin, att I icke helgaden mig ibland Israels barn.
 
-**[32:52]** Ty du skall få se landet tvärtifrå dig, det jag Israels barn gifver; men du skall icke komma derin.  
+**[32:52]** Ty du skall få se landet tvärtifrå dig, det jag Israels barn gifver; men du skall icke komma derin.
 
 ### Chapter 33
 
@@ -12060,7 +12060,7 @@
 
 **[33:28]** Israel skall allena trygger bo; Jacobs brunn skall vara uppå det land, som korn och vin uti är, och dess himmel skall drypa dagg.
 
-**[33:29]** Väl är dig, Israel; ho är din like? O du folk, som igenom Herran salig varder, hvilken dins hjelps sköld är, och dins segers svärd! Dine fiender skola fela, och du skall träda in på deras höjder.  
+**[33:29]** Väl är dig, Israel; ho är din like? O du folk, som igenom Herran salig varder, hvilken dins hjelps sköld är, och dins segers svärd! Dine fiender skola fela, och du skall träda in på deras höjder.
 
 ### Chapter 34
 
@@ -12086,7 +12086,7 @@
 
 **[34:11]** Till allahanda tecken och under, till hvilken Herren honom sände, att han dem göra skulle i Egypti land, på Pharao och alla hans tjenare, och på allt hans land;
 
-**[34:12]** Och till all den mägtiga hand, och stora syner, som Mose gjorde för hela Israels ögon.   
+**[34:12]** Och till all den mägtiga hand, och stora syner, som Mose gjorde för hela Israels ögon.
 
 ## Joshua
 
@@ -12126,7 +12126,7 @@
 
 **[1:17]** Såsom vi hafve varit Mose lydige, så vilje vi ock vara dig lydige; allenast vare Herren din Gud med dig, såsom han var med Mose.
 
-**[1:18]** Hvilken som din mun emotstår, och icke lyder din ord i allt det du bjuder oss, han skall dö; allenast var du tröst, och vid godt mod.  
+**[1:18]** Hvilken som din mun emotstår, och icke lyder din ord i allt det du bjuder oss, han skall dö; allenast var du tröst, och vid godt mod.
 
 ### Chapter 2
 
@@ -12176,7 +12176,7 @@
 
 **[2:23]** Så vände de två männerna tillbaka, gingo ned af berget, och foro utöfver, och kommo till Josua, Nuns son, och förtäljde honom allt, såsom de det funnit hade;
 
-**[2:24]** Och sade till Josua: Herren hafver gifvit oss allt landet i våra händer, alle landsens inbyggare äro förskräckte för oss.  
+**[2:24]** Och sade till Josua: Herren hafver gifvit oss allt landet i våra händer, alle landsens inbyggare äro förskräckte för oss.
 
 ### Chapter 3
 
@@ -12212,7 +12212,7 @@
 
 **[3:16]** Då stod det vattnet, som ofvanefter flöt, upprest i en hop, ganska långt ifrå dens stadsens folk, som ligger utmed Zarthan; men det vattnet, som nederlopp åt hafvet, som är salthafvet, det förminskades, och förlopp. Så gick då folket deröfver inåt Jericho.
 
-**[3:17]** Och Presterna, som båro Herrans förbunds ark, stodo stilla, torre midt i Jordan, och hela Israel gick torr igenom, tilldess allt folket kom öfver Jordan.  
+**[3:17]** Och Presterna, som båro Herrans förbunds ark, stodo stilla, torre midt i Jordan, och hela Israel gick torr igenom, tilldess allt folket kom öfver Jordan.
 
 ### Chapter 4
 
@@ -12262,7 +12262,7 @@
 
 **[4:23]** Då Herren edar Gud förtorkade Jordans vatten för eder, så länge I gingen deröfver, lika som Herren edar Gud gjorde i röda hafvet, hvilket han torrt gjorde för oss, så att vi ginge derigenom;
 
-**[4:24]** På det all folk på jordene skola känna Herrans hand, huru mägtig hon är; och att I skolen frukta Herran edar Gud alltid.  
+**[4:24]** På det all folk på jordene skola känna Herrans hand, huru mägtig hon är; och att I skolen frukta Herran edar Gud alltid.
 
 ### Chapter 5
 
@@ -12294,7 +12294,7 @@
 
 **[5:14]** Han sade: Nej; utan jag är Förste öfver Herrans här, och är rätt nu kommen. Då föll Josua neder på jordena på sitt ansigte, och tillbad, och sade till honom: Hvad säger min Herre till sin tjenare?
 
-**[5:15]** Och Försten öfver Herrans här sade till Josua: Drag dina skor af dina fötter; ty rummet, som du står uppå, är heligt. Och Josua gjorde så.  
+**[5:15]** Och Försten öfver Herrans här sade till Josua: Drag dina skor af dina fötter; ty rummet, som du står uppå, är heligt. Och Josua gjorde så.
 
 ### Chapter 6
 
@@ -12350,7 +12350,7 @@
 
 **[6:26]** På den tiden svor Josua, och sade: Förbannad vare den man för Herranom, som upprättar och bygger denna staden Jericho. När han lägger hans grund, det koste honom hans första son; och när han uppsätter hans port, det koste honom hans yngsta son.
 
-**[6:27]** Och var Herren med Josua, så att han vardt namnkunnig i all land.  
+**[6:27]** Och var Herren med Josua, så att han vardt namnkunnig i all land.
 
 ### Chapter 7
 
@@ -12404,7 +12404,7 @@
 
 **[7:25]** Och Josua sade: Efter du hafver plågat oss, så plåge dig Herren på denna dag! Och hela Israel stenade dem, och brände dem upp i eld.
 
-**[7:26]** Och då de hade stenat dem, gjorde de ena stora stenrösjo öfver dem, hvilken ännu varar allt intill denna dag. Så vände då Herren sig ifrå sine vredes grymhet; deraf heter det rummet Achors dal intill denna dag.  
+**[7:26]** Och då de hade stenat dem, gjorde de ena stora stenrösjo öfver dem, hvilken ännu varar allt intill denna dag. Så vände då Herren sig ifrå sine vredes grymhet; deraf heter det rummet Achors dal intill denna dag.
 
 ### Chapter 8
 
@@ -12476,7 +12476,7 @@
 
 **[8:34]** Sedan lät han utropa all lagsens ord, om välsignelsen och förbannelsen, som skrifne stå i lagbokene.
 
-**[8:35]** Det var icke ett ord, som Mose budit hade, det Josua icke lät utropa för hela Israels menighet; för qvinnor och barn, och främlingom, som ibland dem voro.  
+**[8:35]** Det var icke ett ord, som Mose budit hade, det Josua icke lät utropa för hela Israels menighet; för qvinnor och barn, och främlingom, som ibland dem voro.
 
 ### Chapter 9
 
@@ -12532,7 +12532,7 @@
 
 **[9:26]** Och han gjorde dem så, och friade dem ifrån Israels barnas hand, att de icke slogo dem ihjäl.
 
-**[9:27]** Så gjorde Josua dem på samma dagen till vedahuggare och vattudragare för menighetene, och till Herrans altare, allt intill denna dag, på det rum som han utväljandes vorde.  
+**[9:27]** Så gjorde Josua dem på samma dagen till vedahuggare och vattudragare för menighetene, och till Herrans altare, allt intill denna dag, på det rum som han utväljandes vorde.
 
 ### Chapter 10
 
@@ -12620,7 +12620,7 @@
 
 **[10:42]** Och vann alla dessa Konungarna med deras land, allt med en ryck; ty Herren Israels Gud stridde för Israel.
 
-**[10:43]** Och Josua drog åter i lägret till Gilgal med hela Israel.  
+**[10:43]** Och Josua drog åter i lägret till Gilgal med hela Israel.
 
 ### Chapter 11
 
@@ -12668,7 +12668,7 @@
 
 **[11:22]** Och lät ingen Enakim igenblifva i Israels barnas land, förutan i Gasa, i Gath, och i Asdod; der blefvo de igen.
 
-**[11:23]** Alltså tog Josua allt landet in, alldeles såsom Herren hade sagt till Mose; och gaf det Israels barnom till arfs, hvarjo slägtene sin del. Och landet vände åter att strida.  
+**[11:23]** Alltså tog Josua allt landet in, alldeles såsom Herren hade sagt till Mose; och gaf det Israels barnom till arfs, hvarjo slägtene sin del. Och landet vände åter att strida.
 
 ### Chapter 12
 
@@ -12718,7 +12718,7 @@
 
 **[12:23]** Konungen i DorNaphotDor, Konungen för de Hedningar i Gilgal;
 
-**[12:24]** Konungen i Tirza. Det äro en och tretio Konungar.  
+**[12:24]** Konungen i Tirza. Det äro en och tretio Konungar.
 
 ### Chapter 13
 
@@ -12786,7 +12786,7 @@
 
 **[13:32]** Detta är det som Mose utskifte uppå Moabs mark, hinsidon Jordan in mot Jericho, österut.
 
-**[13:33]** Men Levi slägte gaf Mose ingen arfvedel; ty Herren Israels Gud är deras arfvedel, såsom han dem sagt hade.  
+**[13:33]** Men Levi slägte gaf Mose ingen arfvedel; ty Herren Israels Gud är deras arfvedel, såsom han dem sagt hade.
 
 ### Chapter 14
 
@@ -12818,7 +12818,7 @@
 
 **[14:14]** Deraf vardt Hebron Calebs, Jephunne sons, den Kenisitens arfvedel, allt intill denna dag; derföre, att han hade troliga efterföljt Herran Israels Gud.
 
-**[14:15]** Men Hebron kallades i förtiden KiriathArba, den en stor man var ibland de Enakim. Och landet hade återvändt örliga.  
+**[14:15]** Men Hebron kallades i förtiden KiriathArba, den en stor man var ibland de Enakim. Och landet hade återvändt örliga.
 
 ### Chapter 15
 
@@ -12946,7 +12946,7 @@
 
 **[15:62]** Nibsan, och den saltstaden, och EnGedi. Det äro sex städer, och deras byar.
 
-**[15:63]** Men de Jebuseer bodde i Jerusalem, och Juda barn kunde icke fördrifva dem; alltså blefvo de Jebuseer med Juda barnom i Jerusalem allt intill denna dag.  
+**[15:63]** Men de Jebuseer bodde i Jerusalem, och Juda barn kunde icke fördrifva dem; alltså blefvo de Jebuseer med Juda barnom i Jerusalem allt intill denna dag.
 
 ### Chapter 16
 
@@ -12968,7 +12968,7 @@
 
 **[16:9]** Och alle Ephraims barnas gränsostäder med deras byar, lågo förströdde ibland Manasse barnas arfvedel.
 
-**[16:10]** Och de fördrefvo icke de Cananeer, som bodde i Gaser; så blefvo då de Cananeer ibland Ephraim allt intill denna dag, och vordo skattskyldige.  
+**[16:10]** Och de fördrefvo icke de Cananeer, som bodde i Gaser; så blefvo då de Cananeer ibland Ephraim allt intill denna dag, och vordo skattskyldige.
 
 ### Chapter 17
 
@@ -13006,7 +13006,7 @@
 
 **[17:17]** Josua sade till Josephs hus, Ephraim och Manasse: Du äst ett mycket folk; och efter du så mycket äst, måste du icke hafva en lott;
 
-**[17:18]** Utan berget skall höra dig till, der skogen är; der rödj om dig, så blifver det dins lotts ände, när du fördrifver de Cananeer, som jernvagnar hafva och mägtige äro.  
+**[17:18]** Utan berget skall höra dig till, der skogen är; der rödj om dig, så blifver det dins lotts ände, när du fördrifver de Cananeer, som jernvagnar hafva och mägtige äro.
 
 ### Chapter 18
 
@@ -13064,7 +13064,7 @@
 
 **[18:27]** Rekem, Jirpeel, Thareala,
 
-**[18:28]** Zela, Eleph, och de Jebuseer, det är Jerusalem, Gibeath, Kiriath; fjorton städer, och deras byar. Detta är nu BenJamins barnas arfvedel i deras ätter.  
+**[18:28]** Zela, Eleph, och de Jebuseer, det är Jerusalem, Gibeath, Kiriath; fjorton städer, och deras byar. Detta är nu BenJamins barnas arfvedel i deras ätter.
 
 ### Chapter 19
 
@@ -13168,7 +13168,7 @@
 
 **[19:50]** Och gåfvo honom efter Herrans befallning den stad, som han begärade, som var ThimnathSerah uppå Ephraims berg; den staden byggde han, och bodde deruti.
 
-**[19:51]** Desse äro nu de arfvedelar, som Eleazar Presten, och Josua, Nuns son, och de öfverste af fäderna ibland slägterna, genom lott utskifte Israels barnom i Silo för Herranom, inför dörrene af vittnesbördsens tabernakel; och lyktade så landsens utskiftning.  
+**[19:51]** Desse äro nu de arfvedelar, som Eleazar Presten, och Josua, Nuns son, och de öfverste af fäderna ibland slägterna, genom lott utskifte Israels barnom i Silo för Herranom, inför dörrene af vittnesbördsens tabernakel; och lyktade så landsens utskiftning.
 
 ### Chapter 20
 
@@ -13188,7 +13188,7 @@
 
 **[20:8]** Och på hinsidon Jordan vid Jericho österut skickade de Bezer i öknene på slättmarkene, af Rubens slägte; och Ramoth i Gilead, af Gads slägte, och Golan i Basan, af Manasse slägte.
 
-**[20:9]** Det voro då de städer, som Israels barnom förelagde voro, och främlingomen som ibland dem bodde, att dit skulle fly den som en själ oförvarandes sloge; att han icke skulle ihjälslås af blodhämnaren, intilldess han hade ståndit för menighetene.  
+**[20:9]** Det voro då de städer, som Israels barnom förelagde voro, och främlingomen som ibland dem bodde, att dit skulle fly den som en själ oförvarandes sloge; att han icke skulle ihjälslås af blodhämnaren, intilldess han hade ståndit för menighetene.
 
 ### Chapter 21
 
@@ -13280,7 +13280,7 @@
 
 **[21:44]** Och Herren lät dem hafva ro för allom omkring dem, såsom han deras fäder svorit hade. Och ingen af deras fiendar stod emot dem; utan alla deras fiendar gaf Herren i deras händer.
 
-**[21:45]** Och felade intet af det goda, som Herren Israels hus tillsagt hade; utan det skedde så allt.  
+**[21:45]** Och felade intet af det goda, som Herren Israels hus tillsagt hade; utan det skedde så allt.
 
 ### Chapter 22
 
@@ -13350,7 +13350,7 @@
 
 **[22:33]** Då behagade det Israels barnom väl, och lofvade Israels barnas Gud; och sade intet mer, att de ville draga upp emot dem till slags, till att förderfva landet, som Rubens och Gads barn uti bodde.
 
-**[22:34]** Och Rubens och Gads barn kallade det altaret, att det skall vara ett vittne emellan oss, och att Herren är Gud.  
+**[22:34]** Och Rubens och Gads barn kallade det altaret, att det skall vara ett vittne emellan oss, och att Herren är Gud.
 
 ### Chapter 23
 
@@ -13384,7 +13384,7 @@
 
 **[23:15]** Lika som nu allt det goda kommet är, som Herren edar Gud eder sagt hafver, så skall ock Herren låta komma öfver eder allt ondt, tilldess han förgör eder utu detta goda landet, som Herren edar Gud eder gifvit hafver;
 
-**[23:16]** Om I Herrans edars Guds förbund öfverträden, som han eder budit hafver, och gången bort, och tjenen andra gudar, och tillbedjen dem; så att Herrans vrede förgrymmar sig öfver eder, och snarliga förgör eder utu det goda landet, som han eder gifvit hafver.  
+**[23:16]** Om I Herrans edars Guds förbund öfverträden, som han eder budit hafver, och gången bort, och tjenen andra gudar, och tillbedjen dem; så att Herrans vrede förgrymmar sig öfver eder, och snarliga förgör eder utu det goda landet, som han eder gifvit hafver.
 
 ### Chapter 24
 
@@ -13452,7 +13452,7 @@
 
 **[24:32]** Och Josephs ben, som Israels barn hade fört utur Egypten, begrofvo de i Sichem, i det åkrastycket, som Jacob köpte af Hemors barnom, Sichems faders, för hundrade penningar; och vardt Josephs barnas arfvedel.
 
-**[24:33]** Blef ock Eleazar, Aarons son, död, och de begrofvo honom i Gibeath Pinehas hans sons, det honom på Ephraims berg gifvet var.   
+**[24:33]** Blef ock Eleazar, Aarons son, död, och de begrofvo honom i Gibeath Pinehas hans sons, det honom på Ephraims berg gifvet var.
 
 ## Judges
 
@@ -13528,7 +13528,7 @@
 
 **[1:35]** Och de Amoreer begynte bo på de bergena Heres i Ajalon och Saalbim; dock vardt Josephs hus hand dem för svår, så att de vordo skattpligtige.
 
-**[1:36]** Och de Amoreers gränsa var der man uppgår till Akrabbim, och ifrå klippone, och ifrå höjdene.  
+**[1:36]** Och de Amoreers gränsa var der man uppgår till Akrabbim, och ifrå klippone, och ifrå höjdene.
 
 ### Chapter 2
 
@@ -13576,7 +13576,7 @@
 
 **[2:22]** Att jag på dem må försöka Israel, om de vilja blifva på Herrans vägar, och vandra på dem, såsom deras fäder vandrat hafva, eller ej.
 
-**[2:23]** Så lät då Herren blifva dessa Hedningar, att han icke med hast fördref dem, hvilka han i Josua hand icke gifvit hade.  
+**[2:23]** Så lät då Herren blifva dessa Hedningar, att han icke med hast fördref dem, hvilka han i Josua hand icke gifvit hade.
 
 ### Chapter 3
 
@@ -13640,7 +13640,7 @@
 
 **[3:30]** Alltså vordo de Moabiter på den tiden nederlagde, under Israels barnas hand; och landet var stilla i åttatio år.
 
-**[3:31]** Efter honom var Samgar, Anaths son; han slog sexhundrade Philisteer med en herdastaf, och frälste ock han Israel.  
+**[3:31]** Efter honom var Samgar, Anaths son; han slog sexhundrade Philisteer med en herdastaf, och frälste ock han Israel.
 
 ### Chapter 4
 
@@ -13690,7 +13690,7 @@
 
 **[4:23]** Alltså nederlade Gud, på den tiden, Jabin, de Cananeers Konung för Israels barn.
 
-**[4:24]** Och Israels barnas hand fullföljde, och vardt stark emot Jabin, de Cananeers Konung, tilldess de utrotade honom.  
+**[4:24]** Och Israels barnas hand fullföljde, och vardt stark emot Jabin, de Cananeers Konung, tilldess de utrotade honom.
 
 ### Chapter 5
 
@@ -13754,7 +13754,7 @@
 
 **[5:30]** Skulle de icke finna och byta rof, hvarjom manne en ung pigo eller två till byte; och Sisera brokot stickad kläder till byte, stickad brokot kläder om halsen till byte?
 
-**[5:31]** Alltså, Herre, förgånge alle dine fiender; men de som honom kär hafva, de vare såsom uppgångande solen i sine magt. Och landet hade frid i fyratio år.  
+**[5:31]** Alltså, Herre, förgånge alle dine fiender; men de som honom kär hafva, de vare såsom uppgångande solen i sine magt. Och landet hade frid i fyratio år.
 
 ### Chapter 6
 
@@ -13836,7 +13836,7 @@
 
 **[6:39]** Och Gideon sade till Gud: Din vrede förgrymme sig icke öfver mig, om jag än en tid talar; jag vill än en tid försökat med skinnet; vare nu allena torrt på skinnena, och daggen på allo markene.
 
-**[6:40]** Gud gjorde ock så i samma natt, att allena var torrt på skinnet, och dagg uppå allo markene.  
+**[6:40]** Gud gjorde ock så i samma natt, att allena var torrt på skinnet, och dagg uppå allo markene.
 
 ### Chapter 7
 
@@ -13888,7 +13888,7 @@
 
 **[7:24]** Och Gideon sände bådskap på hela berget Ephraim, och lät säga dem: Kommer neder emot de Midianiter, och kommer förr än de till vattnet, intill BethBara och Jordan. Så ropade alle de som af Ephraim voro, och kommo förr än de till vattnet, intill BethBara och Jordan.
 
-**[7:25]** Och de fingo fatt på två de Midianiters Förstar, Oreb och Seeb; och dråpo Oreb på det hälleberget Oreb, och Seeb i Seebs press; och jagade de Midianiter; och båro Orebs och Seebs hufvud till Gideon öfver Jordan.  
+**[7:25]** Och de fingo fatt på två de Midianiters Förstar, Oreb och Seeb; och dråpo Oreb på det hälleberget Oreb, och Seeb i Seebs press; och jagade de Midianiter; och båro Orebs och Seebs hufvud till Gideon öfver Jordan.
 
 ### Chapter 8
 
@@ -13960,7 +13960,7 @@
 
 **[8:34]** Och Israels barn kommo intet Herran deras Gud ihåg, den dem frälsat hade ifrån allas deras fiendars hand allt omkring.
 
-**[8:35]** Och de gjorde ingen barmhertighet med JerubBaals Gideons huse, efter allt det goda, som han emot Israel gjort hade.  
+**[8:35]** Och de gjorde ingen barmhertighet med JerubBaals Gideons huse, efter allt det goda, som han emot Israel gjort hade.
 
 ### Chapter 9
 
@@ -14076,7 +14076,7 @@
 
 **[9:56]** Alltså betalade Gud AbiMelech det onda, som han emot sin fader gjort hade, då han drap sina sjutio bröder;
 
-**[9:57]** Desslikes allt det onda, som de män af Sichem gjorde, betalade dem Gud på deras hufvud; och öfver dem kom Jothams förbannelse, JerubBaals sons.  
+**[9:57]** Desslikes allt det onda, som de män af Sichem gjorde, betalade dem Gud på deras hufvud; och öfver dem kom Jothams förbannelse, JerubBaals sons.
 
 ### Chapter 10
 
@@ -14114,7 +14114,7 @@
 
 **[10:17]** Och Ammons barn slogo sig ihop, och lägrade sig i Gilead; men Israels barn församlade sig, och lägrade sig i Mizpa.
 
-**[10:18]** Och folket, de öfverste i Gilead, sade emellan sig: Hvilken som först begynner till att strida emot Ammons barn, han skall vara höfvitsman öfver alla de som bo i Gilead.  
+**[10:18]** Och folket, de öfverste i Gilead, sade emellan sig: Hvilken som först begynner till att strida emot Ammons barn, han skall vara höfvitsman öfver alla de som bo i Gilead.
 
 ### Chapter 11
 
@@ -14196,7 +14196,7 @@
 
 **[11:39]** Och efter två månader kom hon igen till sin fader, och han gjorde henne såsom han lofvat hade; och hon hade intet skaffa haft med någrom man.
 
-**[11:40]** Och en sedvänja kom upp i Israel, att Israels döttrar gingo årliga till, och begreto Jephthahs den Gileaditens dotter, fyra dagar om året.  
+**[11:40]** Och en sedvänja kom upp i Israel, att Israels döttrar gingo årliga till, och begreto Jephthahs den Gileaditens dotter, fyra dagar om året.
 
 ### Chapter 12
 
@@ -14228,7 +14228,7 @@
 
 **[12:14]** Han hade fyratio söner, och tretio sonasöner, som på sjutio åsnafålar redo. Han dömde Israel i åtta år;
 
-**[12:15]** Och blef död, och vardt begrafven i Pirgathon uti Ephraims lande, på de Amalekiters berg.  
+**[12:15]** Och blef död, och vardt begrafven i Pirgathon uti Ephraims lande, på de Amalekiters berg.
 
 ### Chapter 13
 
@@ -14280,7 +14280,7 @@
 
 **[13:24]** Och qvinnan födde en son, och kallade honom Simson; och pilten växte, och Herren välsignade honom.
 
-**[13:25]** Och Herrans Ande begynte till att vara med honom, uti Dans lägre, emellan Zorga och Esthaol.  
+**[13:25]** Och Herrans Ande begynte till att vara med honom, uti Dans lägre, emellan Zorga och Esthaol.
 
 ### Chapter 14
 
@@ -14322,7 +14322,7 @@
 
 **[14:19]** Och Herrans Ande föll på honom, och han gick neder till Askelon, och slog tretio män af dem, och tog deras kläder, och gaf högtidskläder dem som gåtona på råkat hade; och vardt ganska vred, och gick upp i sin faders hus.
 
-**[14:20]** Men Simsons hustru vardt gifven enom hans stallbroder, den honom tillydde.  
+**[14:20]** Men Simsons hustru vardt gifven enom hans stallbroder, den honom tillydde.
 
 ### Chapter 15
 
@@ -14364,7 +14364,7 @@
 
 **[15:19]** Då öppnade Gud ena oxlatand i kindbåganom, och der gick ut vatten; och som han drack, kom hans ande igen, och vederqvicktes; derföre heter ock det rummet åkallarens kindbågabrunn, allt intill denna dag.
 
-**[15:20]** Och han dömde Israel uti de Philisteers dagar i tjugu år.  
+**[15:20]** Och han dömde Israel uti de Philisteers dagar i tjugu år.
 
 ### Chapter 16
 
@@ -14428,7 +14428,7 @@
 
 **[16:30]** Och sade: Min själ dö med de Philisteer! och han böjde dem krafteliga. Så föll huset uppå Förstarna, och uppå allt folket, som derinne var, så att de döde, som han drap i sin död, voro flere, än de som han drap medan han lefde.
 
-**[16:31]** Då kommo hans bröder ditneder, och hela hans faders hus, och togo honom upp, och båro honom upp, och begrofvo honom i hans faders Manoahs graf, emellan Zorga och Esthaol. Men han dömde Israel i tjugu år.  
+**[16:31]** Då kommo hans bröder ditneder, och hela hans faders hus, och togo honom upp, och båro honom upp, och begrofvo honom i hans faders Manoahs graf, emellan Zorga och Esthaol. Men han dömde Israel i tjugu år.
 
 ### Chapter 17
 
@@ -14456,7 +14456,7 @@
 
 **[17:12]** Och Micha fyllde Levitenom handena, så att han vardt hans Prester, och blef så i Micha huse.
 
-**[17:13]** Och Micha sade: Nu vet jag, att Herren varder mig godt görandes, efter jag hafver en Levit till Prest.  
+**[17:13]** Och Micha sade: Nu vet jag, att Herren varder mig godt görandes, efter jag hafver en Levit till Prest.
 
 ### Chapter 18
 
@@ -14520,7 +14520,7 @@
 
 **[18:30]** Och Dans barn uppsatte sig belätet; och Jonathan, Gersons son, Manasse sons, och hans söner voro Prester uti de Daniters slägte, allt intill den tiden, som de vordo förde fångne utu landena;
 
-**[18:31]** Och satte alltså ibland sig det Micha beläte, som han gjort hade, så länge som Guds hus var i Silo.  
+**[18:31]** Och satte alltså ibland sig det Micha beläte, som han gjort hade, så länge som Guds hus var i Silo.
 
 ### Chapter 19
 
@@ -14582,7 +14582,7 @@
 
 **[19:29]** Som han hemkom, tog han en knif, och tog sina frillo, och styckade henne, med ben och med allo, i tolf stycker, och sände till alla Israels landsändar.
 
-**[19:30]** Alle de, som det sågo, sade: Sådant är aldrig skedt eller sedt, sedan Israels barn kommo utur Egypti land, intill denna dag: Nu, betänker eder häröfver, och rådens vid, och säger till.  
+**[19:30]** Alle de, som det sågo, sade: Sådant är aldrig skedt eller sedt, sedan Israels barn kommo utur Egypti land, intill denna dag: Nu, betänker eder häröfver, och rådens vid, och säger till.
 
 ### Chapter 20
 
@@ -14680,7 +14680,7 @@
 
 **[20:47]** Allenast sexhundrad män vände sig, och flydde åt öknena till den bergklippon Rimmon; och blefvo i Rimmons bergklippo i fyra månader.
 
-**[20:48]** Och de män af Israel kommo igen till BenJamins barn, och slogo med svärdsegg dem i stadenom, både folk och fä, och allt det man fann; och alla de städer, som de funno, uppbrände de i eld.  
+**[20:48]** Och de män af Israel kommo igen till BenJamins barn, och slogo med svärdsegg dem i stadenom, både folk och fä, och allt det man fann; och alla de städer, som de funno, uppbrände de i eld.
 
 ### Chapter 21
 
@@ -14732,7 +14732,7 @@
 
 **[21:24]** Israels barn foro ock dädan på den tiden, hvar och en till sina slägt, och till sina ätt; och drogo ut dädan, hvar och en till sin arfvedel.
 
-**[21:25]** På den tiden var ingen Konung i Israel; utan hvar och en gjorde hvad honom tycktes rätt vara.   
+**[21:25]** På den tiden var ingen Konung i Israel; utan hvar och en gjorde hvad honom tycktes rätt vara.
 
 ## Ruth
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** Full drog jag härut, och tomman hafver Herren låtit mig komma igen. Hvi kallen I mig då Naemi, efter Herren hafver så tryckt mig, och den Allsmägtige hafver bedröfvat mig?
 
-**[1:22]** Och det var på den tiden, då bjugganden var begynt, då Naemi och hennes sonahustru Ruth, den Moabitiskan, igenkommo af de Moabiters land till BethLehem.  
+**[1:22]** Och det var på den tiden, då bjugganden var begynt, då Naemi och hennes sonahustru Ruth, den Moabitiskan, igenkommo af de Moabiters land till BethLehem.
 
 ### Chapter 2
 
@@ -14828,7 +14828,7 @@
 
 **[2:22]** Naemi sade till Ruth sina sonahustru: Det är bättre, min dotter, att du går ut med hans pigor, att på en annan åker icke någor afvisar dig.
 
-**[2:23]** Alltså höll hon sig intill Boas pigor, och hemtade der, så länge bjugganden och hveteanden öfverfaren var; och kom igen till sina sväro.  
+**[2:23]** Alltså höll hon sig intill Boas pigor, och hemtade der, så länge bjugganden och hveteanden öfverfaren var; och kom igen till sina sväro.
 
 ### Chapter 3
 
@@ -14866,7 +14866,7 @@
 
 **[3:17]** Och sade: Dessa sex mått korn gaf han mig; ty han sade: Du skall icke komma med tomma händer till dina sväro.
 
-**[3:18]** Hon sade: Låt oss bida, min dotter, tilldess du får se hvartut det vill; ty mannen vänder icke igen, med mindre han gör der i dag en ända med.  
+**[3:18]** Hon sade: Låt oss bida, min dotter, tilldess du får se hvartut det vill; ty mannen vänder icke igen, med mindre han gör der i dag en ända med.
 
 ### Chapter 4
 
@@ -14912,7 +14912,7 @@
 
 **[4:21]** Salmon födde Boas; Boas födde Obed;
 
-**[4:22]** Obed födde Isai; Isai födde David.   
+**[4:22]** Obed födde Isai; Isai födde David.
 
 ## I Samuel
 
@@ -14972,7 +14972,7 @@
 
 **[1:27]** Då jag bad om denna pilten. Nu hafver Herren gifvit mig den bönena, som jag bad af honom.
 
-**[1:28]** Derföre gifver jag honom Herranom igen evigliga, efter han af Herranom beden är. Och de tillbådo der Herran.  
+**[1:28]** Derföre gifver jag honom Herranom igen evigliga, efter han af Herranom beden är. Och de tillbådo der Herran.
 
 ### Chapter 2
 
@@ -15046,7 +15046,7 @@
 
 **[2:35]** Och jag skall uppväcka mig en trogen Prest, och han skall göra såsom det i mino hjerta och mine själ är; honom skall jag bygga ett säkert hus, så att han skall vandra inför minom Smorda i alla dagar.
 
-**[2:36]** Och den qvar blifver af ditt hus, han skall komma och falla neder för honom, om en silfpenning och ett stycke bröd, och skall säga: Käre, låt mig komma till en Prestadel, att jag må äta en beta bröd.  
+**[2:36]** Och den qvar blifver af ditt hus, han skall komma och falla neder för honom, om en silfpenning och ett stycke bröd, och skall säga: Käre, låt mig komma till en Prestadel, att jag må äta en beta bröd.
 
 ### Chapter 3
 
@@ -15090,7 +15090,7 @@
 
 **[3:20]** Och hela Israel, allt ifrå Dan intill BerSaba, visste att Samuel var en trogen Herrans Prophet.
 
-**[3:21]** Och Herren syntes åter i Silo; ty Herren var Samuel uppenbarad vorden i Silo, genom Herrans ord.  
+**[3:21]** Och Herren syntes åter i Silo; ty Herren var Samuel uppenbarad vorden i Silo, genom Herrans ord.
 
 ### Chapter 4
 
@@ -15136,7 +15136,7 @@
 
 **[4:21]** Och hon kallade det barnet Icabod, och sade: Israels härlighet är borto; efter Guds ark tagen var, och hennes svär, och hennes man;
 
-**[4:22]** Och sade åter: Israels härlighet är borto; ty Guds ark är tagen.  
+**[4:22]** Och sade åter: Israels härlighet är borto; ty Guds ark är tagen.
 
 ### Chapter 5
 
@@ -15162,7 +15162,7 @@
 
 **[5:11]** Då sände de bort, och församlade alla de Philisteers Förstar, och sade: Sänder Israels Guds ark åter till sitt rum igen, att han icke dräper mig och mitt folk; förty Guds hand gjorde ett ganska stort rumor med dräpande i hela stadenom.
 
-**[5:12]** Och det folk, som icke blefvo döde, de vordo slagne i deras hemlig rum, så att skriet af stadenom gick upp i himmelen.  
+**[5:12]** Och det folk, som icke blefvo döde, de vordo slagne i deras hemlig rum, så att skriet af stadenom gick upp i himmelen.
 
 ### Chapter 6
 
@@ -15206,7 +15206,7 @@
 
 **[6:20]** Och det folket i BethSemes sade: Ho kan blifva ståndandes för Herranom, en sådana helig Gud? Och till hvem skall han fara ifrån oss?
 
-**[6:21]** Och de sände bådskap till de borgare af KiriathJearim, och läto säga dem: De Philisteer hafva fört igen Herrans ark; kommer hitneder, och hemter honom upp till eder.  
+**[6:21]** Och de sände bådskap till de borgare af KiriathJearim, och läto säga dem: De Philisteer hafva fört igen Herrans ark; kommer hitneder, och hemter honom upp till eder.
 
 ### Chapter 7
 
@@ -15242,7 +15242,7 @@
 
 **[7:16]** Och for hvart år omkring till BethEl, och Gilgal, och Mizpa. Och när han hade på all denna rummen dömt Israel,
 
-**[7:17]** Kom han igen till Ramath, ty der var hans hus; och dömde der Israel, och byggde der Herranom ett altare.  
+**[7:17]** Kom han igen till Ramath, ty der var hans hus; och dömde der Israel, och byggde der Herranom ett altare.
 
 ### Chapter 8
 
@@ -15288,7 +15288,7 @@
 
 **[8:21]** Så hörde Samuel allt detta, som folket sade: och sade det för Herrans öron.
 
-**[8:22]** Och Herren sade till Samuel: Hör deras röst, och gör dem en Konung. Och Samuel sade till Israels män: Går edra färde, hvar och en i sin stad.  
+**[8:22]** Och Herren sade till Samuel: Hör deras röst, och gör dem en Konung. Och Samuel sade till Israels män: Går edra färde, hvar och en i sin stad.
 
 ### Chapter 9
 
@@ -15344,7 +15344,7 @@
 
 **[9:26]** Och de stodo bittida upp; och som morgonrodnaden gick upp, kallade Samuel Saul uppå taket, och sade: Statt upp, att jag må låta dig gå. Och Saul stod upp, och de gingo både tillsammans ut, han och Samuel.
 
-**[9:27]** Och då de kommo neder till ändan på staden, sade Samuel till Saul: Säg drängenom, att han går framför oss; och han gick framföre. Men du, statt nu här qvar, att jag må undervisa dig, hvad Gud hafver sagt.  
+**[9:27]** Och då de kommo neder till ändan på staden, sade Samuel till Saul: Säg drängenom, att han går framför oss; och han gick framföre. Men du, statt nu här qvar, att jag må undervisa dig, hvad Gud hafver sagt.
 
 ### Chapter 10
 
@@ -15400,7 +15400,7 @@
 
 **[10:26]** Och Saul gick ock hem till Gibea, och en del af hären gick med honom, hvilkes hjerta Gud rörde.
 
-**[10:27]** Men somlige Belials barn sade: Hvad skulle denne hjelpa oss? Och föraktade honom, och båro honom inga gåfvor; men han låts som han intet hörde det.  
+**[10:27]** Men somlige Belials barn sade: Hvad skulle denne hjelpa oss? Och föraktade honom, och båro honom inga gåfvor; men han låts som han intet hörde det.
 
 ### Chapter 11
 
@@ -15432,7 +15432,7 @@
 
 **[11:14]** Samuel sade till folket: Kommer, låter oss gå till Gilgal, och der förnya Konungariket.
 
-**[11:15]** Så drog allt folket till Gilgal, och gjorde der Saul till Konung för Herranom i Gilgal, och offrade tackoffer inför Herranom. Och Saul med alla Israels män fröjdade sig der ganska storliga.  
+**[11:15]** Så drog allt folket till Gilgal, och gjorde der Saul till Konung för Herranom i Gilgal, och offrade tackoffer inför Herranom. Och Saul med alla Israels män fröjdade sig der ganska storliga.
 
 ### Chapter 12
 
@@ -15484,7 +15484,7 @@
 
 **[12:24]** Allenast frukter Herran, och tjener honom troliga af allo hjerta; förty I hafven sett huru stor ting han gör med eder.
 
-**[12:25]** Men om I gören det ondt är, så skolen både I och edar Konung förgås.  
+**[12:25]** Men om I gören det ondt är, så skolen både I och edar Konung förgås.
 
 ### Chapter 13
 
@@ -15532,7 +15532,7 @@
 
 **[13:22]** Då nu stridsdagen kom, vardt intet svärd eller spjut funnet i hela folkens hand, som var med Saul och Jonathan; utan Saul och hans son hade värjor.
 
-**[13:23]** Och de Philisteers lägre drog fram vid Michmas.  
+**[13:23]** Och de Philisteers lägre drog fram vid Michmas.
 
 ### Chapter 14
 
@@ -15638,7 +15638,7 @@
 
 **[14:51]** Men Kis var Sauls fader, och Ner, Abners fader, var Abiels son.
 
-**[14:52]** Och ett mägtigt örlig var emot de Philisteer, så länge Saul lefde; och hvar Saul såg en doglig och stridsam man, den tog han till sig.  
+**[14:52]** Och ett mägtigt örlig var emot de Philisteer, så länge Saul lefde; och hvar Saul såg en doglig och stridsam man, den tog han till sig.
 
 ### Chapter 15
 
@@ -15710,7 +15710,7 @@
 
 **[15:34]** Och Samuel gick bort till Ramath; men Saul drog upp till sitt hus i Gibea Sauls.
 
-**[15:35]** Och Samuel såg Saul intet mer intilldess han blef död; dock likväl sörjde Samuel för Sauls skull, att Herren hade ångrat sig, att han hade gjort honom till Konung öfver Israel.  
+**[15:35]** Och Samuel såg Saul intet mer intilldess han blef död; dock likväl sörjde Samuel för Sauls skull, att Herren hade ångrat sig, att han hade gjort honom till Konung öfver Israel.
 
 ### Chapter 16
 
@@ -15758,7 +15758,7 @@
 
 **[16:22]** Och Saul sände till Isai, och lät säga honom: Låt David blifva inför mig; ty han hafver funnit ynnest för min ögon.
 
-**[16:23]** När nu den Guds anden kom öfver Saul, så tog David harpona, och spelade med sine hand; så kom Saul till sig igen, och det vardt bättre med honom, och den onde anden vek ifrå honom.  
+**[16:23]** När nu den Guds anden kom öfver Saul, så tog David harpona, och spelade med sine hand; så kom Saul till sig igen, och det vardt bättre med honom, och den onde anden vek ifrå honom.
 
 ### Chapter 17
 
@@ -15876,7 +15876,7 @@
 
 **[17:57]** Då nu David kom igen, sedan Philisteen slagen var, tog Abner honom, och hade honom in för Saul; och han hade den Philisteens hufvud i sine hand.
 
-**[17:58]** Och Saul sade till honom: Hvars son äst du, yngling? David sade: Jag är dins tjenares Isai den BethLehemitens son.  
+**[17:58]** Och Saul sade till honom: Hvars son äst du, yngling? David sade: Jag är dins tjenares Isai den BethLehemitens son.
 
 ### Chapter 18
 
@@ -15938,7 +15938,7 @@
 
 **[18:29]** Då fruktade Saul ännu mer för David, och vardt hans fiende i alla sina lifsdagar.
 
-**[18:30]** Och då de Philisteers Förstar drogo ut, handlade David förnumsteligare än alle Sauls tjenare, när de utdrogo, så att hans namn vardt mycket aktadt.  
+**[18:30]** Och då de Philisteers Förstar drogo ut, handlade David förnumsteligare än alle Sauls tjenare, när de utdrogo, så att hans namn vardt mycket aktadt.
 
 ### Chapter 19
 
@@ -15988,7 +15988,7 @@
 
 **[19:23]** Och han gick dit till Najoth i Rama; och Guds Ande kom också öfver honom; och han gick och propheterade, tilldess han kom till Najoth i Rama.
 
-**[19:24]** Och han drog också sin kläder af, och propheterade också för Samuel, och föll naken neder den hela dagen, och den hela nattena. Deraf säger man: Är ock Saul ibland Propheter?  
+**[19:24]** Och han drog också sin kläder af, och propheterade också för Samuel, och föll naken neder den hela dagen, och den hela nattena. Deraf säger man: Är ock Saul ibland Propheter?
 
 ### Chapter 20
 
@@ -16074,7 +16074,7 @@
 
 **[20:41]** Då drängen var ingången, stod David upp af rummet på södra sidone, och föll på sitt ansigte till jordena, och tillbad tre resor; och de kysste hvarannan, och greto tillhopa, ju David aldramest.
 
-**[20:42]** Och Jonathan sade till David: Gack med frid, hvad vi både svorit hafve i Herrans Namn och sagt: Herren vare emellan mig och dig, emellan min säd och din säd, till evig tid. Och han stod upp, och gick sin väg; men Jonathan gick i staden igen.  
+**[20:42]** Och Jonathan sade till David: Gack med frid, hvad vi både svorit hafve i Herrans Namn och sagt: Herren vare emellan mig och dig, emellan min säd och din säd, till evig tid. Och han stod upp, och gick sin väg; men Jonathan gick i staden igen.
 
 ### Chapter 21
 
@@ -16106,7 +16106,7 @@
 
 **[21:14]** Då sade Achis till sina tjenare: Si, I sen, att mannen är ursinnig; hvi hafven I haft honom till mig?
 
-**[21:15]** Hafver jag icke nog ursinniga, att I skullen hafva denna in till mig, att han skulle rasa för mig? Skulle han komma i mitt hus?  
+**[21:15]** Hafver jag icke nog ursinniga, att I skullen hafva denna in till mig, att han skulle rasa för mig? Skulle han komma i mitt hus?
 
 ### Chapter 22
 
@@ -16154,7 +16154,7 @@
 
 **[22:22]** Men David sade till AbJathar: Jag visste väl den dagen, då den Edomeen Doeg der var, att han skulle säga det Saul. Jag är skyldig för alla dins faders hus själar.
 
-**[22:23]** Blif när mig, och frukta dig intet. Den som står efter mitt lif, han skall ock stå efter ditt lif, och du skall med mig blifva förvarad.  
+**[22:23]** Blif när mig, och frukta dig intet. Den som står efter mitt lif, han skall ock stå efter ditt lif, och du skall med mig blifva förvarad.
 
 ### Chapter 23
 
@@ -16212,7 +16212,7 @@
 
 **[23:27]** Men ett bådskap kom till Saul, och sade: Skynda dig, och kom; förty de Philisteer äro infallne i landet.
 
-**[23:28]** Då vände Saul om af det sökandet efter David, och drog bort emot de Philisteer. Deraf kallar man det rummet SelaMahelkoth.  
+**[23:28]** Då vände Saul om af det sökandet efter David, och drog bort emot de Philisteer. Deraf kallar man det rummet SelaMahelkoth.
 
 **[23:29]** 
 
@@ -16260,7 +16260,7 @@
 
 **[24:21]** Nu si, jag vet, att du varder Konung, och Israels Konungsrike står i dine hand.
 
-**[24:22]** Så svär mig nu vid Herran, att du icke utrotar min säd efter mig, och icke utskrapar mitt namn utu mins faders hus. Och David svor Saul; och så drog Saul hem; men David och hans män drogo upp på borgena.  
+**[24:22]** Så svär mig nu vid Herran, att du icke utrotar min säd efter mig, och icke utskrapar mitt namn utu mins faders hus. Och David svor Saul; och så drog Saul hem; men David och hans män drogo upp på borgena.
 
 ### Chapter 25
 
@@ -16350,7 +16350,7 @@
 
 **[25:43]** Desslikes tog David Ahinoam af Jisreel; och voro båda hans hustrur.
 
-**[25:44]** Men Saul gaf sina dotter Michal, Davids hustru, Phalti, Lais sone, af Gallim.  
+**[25:44]** Men Saul gaf sina dotter Michal, Davids hustru, Phalti, Lais sone, af Gallim.
 
 ### Chapter 26
 
@@ -16402,7 +16402,7 @@
 
 **[26:24]** Och såsom din själ hafver i denna dagen för min ögon mycket aktad varit, så varde ock min själ mycket aktad för Herrans ögon, och hjelpe mig utur all bedröfvelse.
 
-**[26:25]** Saul sade till David: Välsignad vare du, min son David; du skall görat, och gåt igenom. Så gick David sin väg; och Saul vände om hem igen.  
+**[26:25]** Saul sade till David: Välsignad vare du, min son David; du skall görat, och gåt igenom. Så gick David sin väg; och Saul vände om hem igen.
 
 ### Chapter 27
 
@@ -16428,7 +16428,7 @@
 
 **[27:11]** Men David lät hvarken man eller qvinno lefvande komma till Gath, och tänkte: De måga säga på oss, och sqvallra. Så gjorde David, och det var hans sedvänja, så länge han bodde uti de Philisteers land.
 
-**[27:12]** Derföre trodde Achis David, och tänkte: Han hafver gjort sig illa luktandes för sitt folk Israel; ty blifver han väl min tjenare till evig tid.  
+**[27:12]** Derföre trodde Achis David, och tänkte: Han hafver gjort sig illa luktandes för sitt folk Israel; ty blifver han väl min tjenare till evig tid.
 
 ### Chapter 28
 
@@ -16480,7 +16480,7 @@
 
 **[28:24]** Och qvinnan hade en göddan kalf i huset; då hastade hon sig, och slagtade honom, och tog mjöl, och blandade, och bakade det osyradt;
 
-**[28:25]** Och bar fram för Saul, och för hans tjenare; och då de hade ätit, stodo de upp, och gingo alla den nattena.  
+**[28:25]** Och bar fram för Saul, och för hans tjenare; och då de hade ätit, stodo de upp, och gingo alla den nattena.
 
 ### Chapter 29
 
@@ -16504,7 +16504,7 @@
 
 **[29:10]** Så var nu i morgon bittida uppe, och dins herras tjenare, som med dig komne äro; och när I ären i morgon bittida uppståndne, och ljust är, så går edar väg.
 
-**[29:11]** Så var då David och hans män bittida uppe, att de skulle om morgonen färdas, och komma uti de Philisteers land igen; men de Philisteer drogo upp till Jisreel.  
+**[29:11]** Så var då David och hans män bittida uppe, att de skulle om morgonen färdas, och komma uti de Philisteers land igen; men de Philisteer drogo upp till Jisreel.
 
 ### Chapter 30
 
@@ -16568,7 +16568,7 @@
 
 **[30:30]** Dem i Horma, dem i ChorAsan, dem i Atach,
 
-**[30:31]** Dem i Hebron, och allestäds der David vandrat hade med sina män.  
+**[30:31]** Dem i Hebron, och allestäds der David vandrat hade med sina män.
 
 ### Chapter 31
 
@@ -16596,7 +16596,7 @@
 
 **[31:12]** Reste sig upp alle de som striddogse män voro, och gingo den hela nattena, och togo Sauls och hans söners kroppar ned af muren i Bethsan, och förde dem till Jabes, och brände dem der upp;
 
-**[31:13]** Och togo deras ben, och begrofvo dem under ett trä i Jabes; och fastade i sju dagar.   
+**[31:13]** Och togo deras ben, och begrofvo dem under ett trä i Jabes; och fastade i sju dagar.
 
 ## II Samuel
 
@@ -16654,7 +16654,7 @@
 
 **[1:26]** Jag sörjer om dig, min broder Jonathan; du hafver varit mig mycket kär; din kärlek var mig närmare än qvinnokärlek.
 
-**[1:27]** Huru äro de hjeltar fallne, och vapnen borto blefne!  
+**[1:27]** Huru äro de hjeltar fallne, och vapnen borto blefne!
 
 ### Chapter 2
 
@@ -16720,7 +16720,7 @@
 
 **[2:31]** Och Davids tjenare hade slagit af BenJamin och Abners män, så att trehundrad och sextio män voro döde blefne.
 
-**[2:32]** Och de togo Asahel upp, och begrofvo honom i hans faders graf i BethLehem. Och Joab med sina män gingo den hela nattena, och kommo i morgonlysningene till Hebron.  
+**[2:32]** Och de togo Asahel upp, och begrofvo honom i hans faders graf i BethLehem. Och Joab med sina män gingo den hela nattena, och kommo i morgonlysningene till Hebron.
 
 ### Chapter 3
 
@@ -16800,7 +16800,7 @@
 
 **[3:38]** Och Konungen sade till sina tjenare: Veten I icke, att på denna dag är en Förste och stor man fallen i Israel?
 
-**[3:39]** Och jag är ännu späd, och en smord Konung; men de män ZeruJa söner äro mig allt för hårde; Herren vedergälle honom, som illa gör, efter hans ondsko.  
+**[3:39]** Och jag är ännu späd, och en smord Konung; men de män ZeruJa söner äro mig allt för hårde; Herren vedergälle honom, som illa gör, efter hans ondsko.
 
 ### Chapter 4
 
@@ -16826,7 +16826,7 @@
 
 **[4:11]** Och desse ogudaktige männerna hafva ihjälslagit en oskyldig man, uti hans hus, på hans säng? Ja, skulle jag icke utkräfva hans blod utur edra händer, och taga eder utaf jordene?
 
-**[4:12]** Och David böd sina unga män, och de slogo dem ihjäl, och höggo dem händer och fötter af, och hängde dem vid dammen i Hebron; men Isboseths hufvud togo de, och begrofvo det i Abners graf, i Hebron.  
+**[4:12]** Och David böd sina unga män, och de slogo dem ihjäl, och höggo dem händer och fötter af, och hängde dem vid dammen i Hebron; men Isboseths hufvud togo de, och begrofvo det i Abners graf, i Hebron.
 
 ### Chapter 5
 
@@ -16878,7 +16878,7 @@
 
 **[5:24]** Och när du får höra, att det ruskar öfverst uppe i skatarna af päronaträn, så var vid ett friskt mod; ty Herren är då utgången för dig, till att slå de Philisteers här.
 
-**[5:25]** David gjorde som Herren honom budit hade, och slog de Philisteer, ifrå Geba allt intilldess man kommer till Gaser.  
+**[5:25]** David gjorde som Herren honom budit hade, och slog de Philisteer, ifrå Geba allt intilldess man kommer till Gaser.
 
 ### Chapter 6
 
@@ -16926,7 +16926,7 @@
 
 **[6:22]** Och vill ännu ringare varda än så, och vill nedrig vara i min ögon, och med de tjensteqvinnor, som du af sagt hafver, till äro komma.
 
-**[6:23]** Och Michal, Sauls dotter, hade intet barn intill hennes dödsdag.  
+**[6:23]** Och Michal, Sauls dotter, hade intet barn intill hennes dödsdag.
 
 ### Chapter 7
 
@@ -16986,7 +16986,7 @@
 
 **[7:28]** Nu, Herre, Herre, du äst Gud, och din ord skola vara sanning; du hafver detta goda talat öfver din tjenare.
 
-**[7:29]** Så tag nu till, och välsigna dins tjenares hus, att det blifver evigt för dig; ty du Herre, Herre, hafver det talat; och med din välsignelse skall dins tjenares hus välsignadt varda till evig tid.  
+**[7:29]** Så tag nu till, och välsigna dins tjenares hus, att det blifver evigt för dig; ty du Herre, Herre, hafver det talat; och med din välsignelse skall dins tjenares hus välsignadt varda till evig tid.
 
 ### Chapter 8
 
@@ -17024,7 +17024,7 @@
 
 **[8:17]** Zadok, Ahitobs son, och Ahimelech, AbJathars son, voro Prester; Seraja var skrifvare;
 
-**[8:18]** Benaja, Jojada son, var öfver Crethi och Plethi; och Davids söner voro Prester.  
+**[8:18]** Benaja, Jojada son, var öfver Crethi och Plethi; och Davids söner voro Prester.
 
 ### Chapter 9
 
@@ -17052,7 +17052,7 @@
 
 **[9:12]** Och MephiBoseth hade en liten son, som het Micha; men allt det i Ziba hus bodde, det tjente MephiBoseth.
 
-**[9:13]** Och MephiBoseth bodde i Jerusalem; ty han åt dagliga vid Konungens bord; och haltade på båda sina fötter.  
+**[9:13]** Och MephiBoseth bodde i Jerusalem; ty han åt dagliga vid Konungens bord; och haltade på båda sina fötter.
 
 ### Chapter 10
 
@@ -17092,7 +17092,7 @@
 
 **[10:18]** Men de Syrer flydde för Israel, och David slog ihjäl de Syrer sjuhundrad vagnar, och fyratiotusend resenärar; dertill slog han Sobach härhöfvitsmannen, så att han blef der död.
 
-**[10:19]** Då nu de Konungar, som voro under HadarEser, sågo att de slagne voro för Israel, gjorde de frid med Israel, och vordo dem underdånige; och de Syrer fruktade sig mer hjelpa Ammons barn.  
+**[10:19]** Då nu de Konungar, som voro under HadarEser, sågo att de slagne voro för Israel, gjorde de frid med Israel, och vordo dem underdånige; och de Syrer fruktade sig mer hjelpa Ammons barn.
 
 ### Chapter 11
 
@@ -17148,7 +17148,7 @@
 
 **[11:26]** Och då Uria hustru hörde, att hennes man var död, jämrade hon sig för sin husbondas skull.
 
-**[11:27]** Då hon ut gråtit hade, sände David bort, och lät hemta henne i sitt hus; och hon vardt hans hustru, och födde honom en son; men Herranom misshagade detta ärendet, som David bedref.  
+**[11:27]** Då hon ut gråtit hade, sände David bort, och lät hemta henne i sitt hus; och hon vardt hans hustru, och födde honom en son; men Herranom misshagade detta ärendet, som David bedref.
 
 ### Chapter 12
 
@@ -17212,7 +17212,7 @@
 
 **[12:30]** Och tog deras Konungs krono utaf hans hufvud, hvilken hade i vigt en centener guld, och ädla stenar; och den vardt satt David på hans hufvud; och förde ganska mycket rof utu staden.
 
-**[12:31]** Och folket derinne förde han ut, och lade dem under jernsågar och taggar, och jernkilar, och brände dem upp uti tegelugnar; så gjorde han alla Ammons barnas städer. Så vände då David och allt folket om igen till Jerusalem.  
+**[12:31]** Och folket derinne förde han ut, och lade dem under jernsågar och taggar, och jernkilar, och brände dem upp uti tegelugnar; så gjorde han alla Ammons barnas städer. Så vände då David och allt folket om igen till Jerusalem.
 
 ### Chapter 13
 
@@ -17292,7 +17292,7 @@
 
 **[13:38]** Men då Absalom flydd var, och drog till Gesur, var han der i tre år.
 
-**[13:39]** Och Konung David öfvergaf att draga ut emot Absalom; ty han var hugsvalad öfver Amnon, att han död var.  
+**[13:39]** Och Konung David öfvergaf att draga ut emot Absalom; ty han var hugsvalad öfver Amnon, att han död var.
 
 ### Chapter 14
 
@@ -17360,7 +17360,7 @@
 
 **[14:32]** Absalom sade till Joab: Si, jag sände efter dig, och lät säga dig: Kom till mig, att jag må sända dig till Konungen, och låta säga: Hvi kom jag ifrå Gesur? Det vore mig bättre, att jag ännu vore der. Så låt mig nu få se Konungens ansigte; är ock någon missgerning i mig, så dräp mig.
 
-**[14:33]** Och Joab gick in till Konungen, och sade det honom; och han kallade Absalom, att han kom in till Konungen; och han tillbad på sitt ansigte neder till jordena för Konungenom; och Konungen kysste Absalom.  
+**[14:33]** Och Joab gick in till Konungen, och sade det honom; och han kallade Absalom, att han kom in till Konungen; och han tillbad på sitt ansigte neder till jordena för Konungenom; och Konungen kysste Absalom.
 
 ### Chapter 15
 
@@ -17436,7 +17436,7 @@
 
 **[15:36]** Och si, när dem äro två deras söner, Ahimaaz, Zadoks, och Jonathan, AbJathars son, genom dem kan du bjuda mig till hvad du förnimmer.
 
-**[15:37]** Så kom då Husai, Davids vän, i staden, och Absalom kom till Jerusalem.  
+**[15:37]** Så kom då Husai, Davids vän, i staden, och Absalom kom till Jerusalem.
 
 ### Chapter 16
 
@@ -17484,7 +17484,7 @@
 
 **[16:22]** Då gjorde de till Absalom ett tjäll uppå taket; och Absalom belåg sins faders frillor för all Israels ögon.
 
-**[16:23]** På den tiden, då Achitophel gaf ett råd, var det såsom man hade frågat Gud om någon ting; alltså var all Achitophels rådslag, både när David, och så när Absalom.  
+**[16:23]** På den tiden, då Achitophel gaf ett råd, var det såsom man hade frågat Gud om någon ting; alltså var all Achitophels rådslag, både när David, och så när Absalom.
 
 ### Chapter 17
 
@@ -17544,7 +17544,7 @@
 
 **[17:28]** Och förde sängkläder, bäcken, lerkäril, hvete, bjugg, mjöl, torkad ax, bönor, linse, gryn,
 
-**[17:29]** Hannog, smör, får, och nötaostar till David, och till folket, som med honom var, till spisning; ty de tänkte, folket varder hungrigt, trött och törstigt i öknene.  
+**[17:29]** Hannog, smör, får, och nötaostar till David, och till folket, som med honom var, till spisning; ty de tänkte, folket varder hungrigt, trött och törstigt i öknene.
 
 ### Chapter 18
 
@@ -17612,7 +17612,7 @@
 
 **[18:32]** Konungen sade till Cusi: Mår ock pilten Absalom väl? Cusi sade: Gånge så med alla mins herras Konungens fiendar såsom med piltenom går, och med alla dem som sätta sig upp emot dig, till att göra dig ondt.
 
-**[18:33]** Då vardt Konungen sorgse, och gick upp i salen i portenom, och gret; och vid han gick, sade han: Min son Absalom, min son, min son Absalom! Gifve Gud, att jag måtte dö för dig. O Absalom! min son, min son!  
+**[18:33]** Då vardt Konungen sorgse, och gick upp i salen i portenom, och gret; och vid han gick, sade han: Min son Absalom, min son, min son Absalom! Gifve Gud, att jag måtte dö för dig. O Absalom! min son, min son!
 
 ### Chapter 19
 
@@ -17700,7 +17700,7 @@
 
 **[19:42]** Då svarade de af Juda dem af Israel: Konungen är oss när åkommen; hvi ären I der vrede före? Menen I, att vi af Konungenom kost och skänker fått hafve?
 
-**[19:43]** Så svarade då de af Israel dem af Juda, och sade: Vi hafve tio sinom mer, med Konungenom, med David också, än I; hvi hafver du då så ringa aktat mig, att vi icke måtte hafva varit de förste, till att hemta vår Konung? Men de af Juda talade hårdare, än de män af Israel.  
+**[19:43]** Så svarade då de af Israel dem af Juda, och sade: Vi hafve tio sinom mer, med Konungenom, med David också, än I; hvi hafver du då så ringa aktat mig, att vi icke måtte hafva varit de förste, till att hemta vår Konung? Men de af Juda talade hårdare, än de män af Israel.
 
 ### Chapter 20
 
@@ -17754,7 +17754,7 @@
 
 **[20:25]** Seja var skrifvare; Zadok och AbJathar voro Prester;
 
-**[20:26]** Dertill var Ira, den Jairiten, Davids Prest.  
+**[20:26]** Dertill var Ira, den Jairiten, Davids Prest.
 
 ### Chapter 21
 
@@ -17800,7 +17800,7 @@
 
 **[21:21]** Och då han talade hädelse till Israel, slog honom Jonathan, Simea son, Davids broders.
 
-**[21:22]** Desse fyra voro Rapha födde i Gath; och föllo igenom Davids och hans tjenares hand.  
+**[21:22]** Desse fyra voro Rapha födde i Gath; och föllo igenom Davids och hans tjenares hand.
 
 ### Chapter 22
 
@@ -17904,7 +17904,7 @@
 
 **[22:50]** Derföre vill jag tacka dig, Herre, ibland Hedningarna, och dino Namne lofsjunga;
 
-**[22:51]** Den der stor salighet bevisar sinom Konung; och gör väl med David sinom smorda, och med hans säd i evig tid.  
+**[22:51]** Den der stor salighet bevisar sinom Konung; och gör väl med David sinom smorda, och med hans säd i evig tid.
 
 ### Chapter 23
 
@@ -17984,7 +17984,7 @@
 
 **[23:38]** Ira den Jithriten; Gareb den Jithriten;
 
-**[23:39]** Uria den Hetheen. De äro alle tillhopa sju och tretio.  
+**[23:39]** Uria den Hetheen. De äro alle tillhopa sju och tretio.
 
 ### Chapter 24
 
@@ -18036,7 +18036,7 @@
 
 **[24:24]** Men Konungen sade till Arauna: Icke så, utan jag vill köpa dig det af för penningar; ty jag vill icke göra Herranom minom Gud bränneoffer, det jag till gifvins hafver. Alltså köpte David ladona, och oxarna, för femtio siklar silfver;
 
-**[24:25]** Och byggde dersammastäds Herranom ett altare; och offrade bränneoffer, och tackoffer. Och Herren vardt landena försonad, och plågan vände åter på Israel.   
+**[24:25]** Och byggde dersammastäds Herranom ett altare; och offrade bränneoffer, och tackoffer. Och Herren vardt landena försonad, och plågan vände åter på Israel.
 
 ## I Kings
 
@@ -18146,7 +18146,7 @@
 
 **[1:52]** Salomo sade: Vill han vara redelig, så skall icke ett hår af honom falla på jordena; men varder något ondt befunnet med honom, så skall han dö.
 
-**[1:53]** Och Konung Salomo sände bort, och lät hemta honom neder ifrån altaret; och då han kom, tillbad han Konung Salomo; men Salomo sade till honom: Gack i ditt hus.  
+**[1:53]** Och Konung Salomo sände bort, och lät hemta honom neder ifrån altaret; och då han kom, tillbad han Konung Salomo; men Salomo sade till honom: Gack i ditt hus.
 
 ### Chapter 2
 
@@ -18240,7 +18240,7 @@
 
 **[2:45]** Och Konung Salomo är välsignad, och Davids stol varder befäst för Herranom i evig tid.
 
-**[2:46]** Och Konungen böd Benaja, Jojada son. Han gick ut, och slog honom, att han blef död. Och riket vardt befäst i Salomos hand.  
+**[2:46]** Och Konungen böd Benaja, Jojada son. Han gick ut, och slog honom, att han blef död. Och riket vardt befäst i Salomos hand.
 
 ### Chapter 3
 
@@ -18298,7 +18298,7 @@
 
 **[3:27]** Då svarade Konungen, och sade: Gifver desso barnet lefvandes, och dräper det icke; hon är dess moder.
 
-**[3:28]** Och den domen, som Konungen afsagt hade, spordes för hela Israel, och de fruktade Konungen; förty de sågo, att Guds vishet var i honom till att döma.  
+**[3:28]** Och den domen, som Konungen afsagt hade, spordes för hela Israel, och de fruktade Konungen; förty de sågo, att Guds vishet var i honom till att döma.
 
 ### Chapter 4
 
@@ -18368,7 +18368,7 @@
 
 **[4:33]** Och han talade om trä, ifrå ceder, som är i Libanon, allt intill isop, som växer utu väggene; desslikes talade han om djur, om foglar, om matkar, om fiskar.
 
-**[4:34]** Och utaf all folk kommo till att höra Salomos visdom, ifrån alla Konungar på jordene, som af hans visdom hört hade.  
+**[4:34]** Och utaf all folk kommo till att höra Salomos visdom, ifrån alla Konungar på jordene, som af hans visdom hört hade.
 
 ### Chapter 5
 
@@ -18406,7 +18406,7 @@
 
 **[5:17]** Och Konungen; böd, att de skulle bryta ut stora och kosteliga stenar; nämliga huggna stenar, till husets grundval.
 
-**[5:18]** Och Salomos byggningsmän, och Hirams byggningsmän, och de som vid gränsona voro, höggo ut, och tillredde trä och stenar till husets byggning.  
+**[5:18]** Och Salomos byggningsmän, och Hirams byggningsmän, och de som vid gränsona voro, höggo ut, och tillredde trä och stenar till husets byggning.
 
 ### Chapter 6
 
@@ -18484,7 +18484,7 @@
 
 **[6:37]** Uti fjerde årena i den månaden Sif vardt grundvalen lagd till Herrans hus.
 
-**[6:38]** Och i ellofte årena i den månaden Bul, det är den åttonde månaden, vardt huset redo, som det vara skulle, så att de byggde der i sju år uppå.  
+**[6:38]** Och i ellofte årena i den månaden Bul, det är den åttonde månaden, vardt huset redo, som det vara skulle, så att de byggde der i sju år uppå.
 
 ### Chapter 7
 
@@ -18588,7 +18588,7 @@
 
 **[7:50]** Dertill skålar, fat, bäcken, skedar och pannor, af klart guld. Och voro dörrahängslorna på dörrarna åt innersta huset, som var det aldrahelgasta, och åt templets husdörr, af guld.
 
-**[7:51]** Alltså vardt fullkomnadt allt verk, som Konung Salomo gjorde till Herrans hus. Och Salomo bar ditin det som hans fader David helgat hade, af silfver och guld, och käril, och lade det in uti Herrans hus skatt.  
+**[7:51]** Alltså vardt fullkomnadt allt verk, som Konung Salomo gjorde till Herrans hus. Och Salomo bar ditin det som hans fader David helgat hade, af silfver och guld, och käril, och lade det in uti Herrans hus skatt.
 
 ### Chapter 8
 
@@ -18722,7 +18722,7 @@
 
 **[8:65]** Och Salomo gjorde på den tiden en högtid, och all Israel med honom en stor församling, ifrå den gränson Hamath, allt intill Egypti bäck, för Herranom vårom Gud i sju dagar, och åter i sju dagar; det voro fjorton dagar.
 
-**[8:66]** Och på åttonde dagen lät han folket gå; och de välsignade Konungen, och gingo sina färde i sina hyddor, glädjandes och fröjdandes sig öfver allt det goda, som Herren med sinom tjenare David, och med sitt folk Israel, gjort hade.  
+**[8:66]** Och på åttonde dagen lät han folket gå; och de välsignade Konungen, och gingo sina färde i sina hyddor, glädjandes och fröjdandes sig öfver allt det goda, som Herren med sinom tjenare David, och med sitt folk Israel, gjort hade.
 
 ### Chapter 9
 
@@ -18780,7 +18780,7 @@
 
 **[9:27]** Och Hiram sände sina tjenare till skepps, som förstodo sig på skepp, och till sjös förfarne voro, med Salomos tjenare.
 
-**[9:28]** Och de kommo till Ophir, och hemtade der fyrahundrad och tjugu centener guld, och förde till Konung Salomo.  
+**[9:28]** Och de kommo till Ophir, och hemtade der fyrahundrad och tjugu centener guld, och förde till Konung Salomo.
 
 ### Chapter 10
 
@@ -18840,7 +18840,7 @@
 
 **[10:28]** Och man förde hästar utur Egypten till Salomo, och allahanda varor, och Konungens köpmän köpte samma varor;
 
-**[10:29]** Och förde dem utur Egypten; hvar vagn för sexhundrad silfpenningar, och hvar häst för hundrade och femtio. Alltså förde man dem ock till alla de Hetheers Konungar, och till de Konungar i Syrien, genom deras hand.  
+**[10:29]** Och förde dem utur Egypten; hvar vagn för sexhundrad silfpenningar, och hvar häst för hundrade och femtio. Alltså förde man dem ock till alla de Hetheers Konungar, och till de Konungar i Syrien, genom deras hand.
 
 ### Chapter 11
 
@@ -18928,7 +18928,7 @@
 
 **[11:42]** Men tiden, som Salomo var Konung i Jerusalem, öfver hela Israel, var fyratio år.
 
-**[11:43]** Och Salomo afsomnade med sina fäder, och vardt begrafven uti sins faders Davids stad; och hans son Rehabeam vardt Konung i hans stad.  
+**[11:43]** Och Salomo afsomnade med sina fäder, och vardt begrafven uti sins faders Davids stad; och hans son Rehabeam vardt Konung i hans stad.
 
 ### Chapter 12
 
@@ -18996,7 +18996,7 @@
 
 **[12:32]** Och han gjorde en högtid, på femtonde dagen i åttonde månadenom, såsom den högtiden i Juda, och offrade på altarena. Så gjorde han i BethEl, att man offrade kalfvomen, som han gjort hade; och skickade i BethEl Prester till höjderna, som han gjort hade;
 
-**[12:33]** Och offrade på altaret, som han gjort hade i BethEl, på femtonde dagen i åttonde månadenom, hvilken han utu sitt hjerta upptänkt hade; och gjorde Israels barnom högtider, och offrade på altaret, det man röka skulle.  
+**[12:33]** Och offrade på altaret, som han gjort hade i BethEl, på femtonde dagen i åttonde månadenom, hvilken han utu sitt hjerta upptänkt hade; och gjorde Israels barnom högtider, och offrade på altaret, det man röka skulle.
 
 ### Chapter 13
 
@@ -19066,7 +19066,7 @@
 
 **[13:33]** Men sedan detta skedt var, vände Jerobeam sig intet ifrå sin onda väg; utan förvände sig, och gjorde Prester till höjderna, utaf de ringesta i folket; hvilken honom täcktes, honom fyllde han handena, och han vardt Prest till höjderna.
 
-**[13:34]** Och detta vardt Jerobeams huse till synd, att han skulle förderfvas, och förgöras af jordene.  
+**[13:34]** Och detta vardt Jerobeams huse till synd, att han skulle förderfvas, och förgöras af jordene.
 
 ### Chapter 14
 
@@ -19130,7 +19130,7 @@
 
 **[14:30]** Men emellan Rehabeam och Jerobeam var örlig, så länge de lefde.
 
-**[14:31]** Och Rehabeam afsomnade med sina fäder, och vardt begrafven med sina fäder uti Davids stad; och hans moder het Naama, en Ammonitiska. Och hans son Abiam vardt Konung i hans stad.  
+**[14:31]** Och Rehabeam afsomnade med sina fäder, och vardt begrafven med sina fäder uti Davids stad; och hans moder het Naama, en Ammonitiska. Och hans son Abiam vardt Konung i hans stad.
 
 ### Chapter 15
 
@@ -19200,7 +19200,7 @@
 
 **[15:33]** Uti tredje årena Asa, Juda Konungs, vardt Baesa, Ahia son, Konung öfver hela Israel i Thirza, fyra och tjugu år;
 
-**[15:34]** Och gjorde det ondt var för Herranom, och vandrade i Jerobeams väg, och i hans synd, dermed han hade kommit Israel till att synda.  
+**[15:34]** Och gjorde det ondt var för Herranom, och vandrade i Jerobeams väg, och i hans synd, dermed han hade kommit Israel till att synda.
 
 ### Chapter 16
 
@@ -19270,7 +19270,7 @@
 
 **[16:33]** Och gjorde en lund; så att Achab mer gjorde till att förtörna Herran Israels Gud, än alle Israels Konungar, som för honom varit hade.
 
-**[16:34]** På samma tid byggde Hiel af BethEl Jericho. Det kostade honom hans första son Abiram, då han grundvalen lade; och hans yngsta son Segub, då han satte portarna derföre, efter Herrans ord, som han sagt hade genom Josua, Nuns son.  
+**[16:34]** På samma tid byggde Hiel af BethEl Jericho. Det kostade honom hans första son Abiram, då han grundvalen lade; och hans yngsta son Segub, då han satte portarna derföre, efter Herrans ord, som han sagt hade genom Josua, Nuns son.
 
 ### Chapter 17
 
@@ -19320,7 +19320,7 @@
 
 **[17:23]** Och Elia tog pilten, och bar honom neder utaf salen i huset, och fick honom hans moder, och sade: Si der, din son, lefver.
 
-**[17:24]** Och qvinnan sade till Elia: Nu förnimmer jag, att du äst en Guds man, och Herrans ord i dinom mun är visst.  
+**[17:24]** Och qvinnan sade till Elia: Nu förnimmer jag, att du äst en Guds man, och Herrans ord i dinom mun är visst.
 
 ### Chapter 18
 
@@ -19414,7 +19414,7 @@
 
 **[18:45]** Och förr än man såg till, vardt himmelen svart af moln och väder; och ett stort regn kom. Men Achab for, och kom till Jisreel.
 
-**[18:46]** Och Herrans hand kom öfver Elia, och han gjordade sina länder, och lopp för Achab, tilldess han kom till Jisreel.  
+**[18:46]** Och Herrans hand kom öfver Elia, och han gjordade sina länder, och lopp för Achab, tilldess han kom till Jisreel.
 
 ### Chapter 19
 
@@ -19458,7 +19458,7 @@
 
 **[19:20]** Men han öfvergaf oxarna, och lopp efter Elia, och sade: Låt mig kyssa min fader, och mina moder, så vill jag följa dig efter. Han sade till honom: Gack, och kom igen; ty jag hafver något beställa med dig.
 
-**[19:21]** Och han lopp åter ifrå honom, och tog ett par oxar, och offrade dem, och kokade köttet med träredskapen till oxarna, och gaf folket, att de åto; och stod upp, och följde Elia efter och tjente honom.  
+**[19:21]** Och han lopp åter ifrå honom, och tog ett par oxar, och offrade dem, och kokade köttet med träredskapen till oxarna, och gaf folket, att de åto; och stod upp, och följde Elia efter och tjente honom.
 
 ### Chapter 20
 
@@ -19546,7 +19546,7 @@
 
 **[20:42]** Och han sade till honom: Så säger Herren: Derföre, att du hafver släppt den man utu dina händer, som tillspillogifven var, skall din själ vara för hans själ, och ditt folk för hans folk.
 
-**[20:43]** Men Israels Konung for sina färde, illa tillfrids och vred, i sitt hus, och kom till Samarien.  
+**[20:43]** Men Israels Konung for sina färde, illa tillfrids och vred, i sitt hus, och kom till Samarien.
 
 ### Chapter 21
 
@@ -19606,7 +19606,7 @@
 
 **[21:28]** Och Herrans ord kom till Elia den Thisbiten, och sade:
 
-**[21:29]** Hafver du icke sett, huru Achab bugar sig för mig? Efter han nu bugar sig för mig, vill jag icke låta komma det onda i hans dagar; men i hans sons tid skall jag låta komma det onda öfver hans hus.  
+**[21:29]** Hafver du icke sett, huru Achab bugar sig för mig? Efter han nu bugar sig för mig, vill jag icke låta komma det onda i hans dagar; men i hans sons tid skall jag låta komma det onda öfver hans hus.
 
 ### Chapter 22
 
@@ -19714,7 +19714,7 @@
 
 **[22:52]** Ahasia, Achabs son, vardt Konung öfver Israel i Samarien, i sjuttonde årena i Josaphats, Juda Konungs, och regerade öfver Israel i tu år;
 
-**[22:53]** Och gjorde det ondt var för Herranom, och vandrade i sins faders och sine moders väg, och i Jerobeams, Nebats sons, väg, hvilken Israel kom till att synda. Och han tjente Baal, och tillbad honom, och förtörnade Herran Israels Gud, såsom hans fader gjorde.   
+**[22:53]** Och gjorde det ondt var för Herranom, och vandrade i sins faders och sine moders väg, och i Jerobeams, Nebats sons, väg, hvilken Israel kom till att synda. Och han tjente Baal, och tillbad honom, och förtörnade Herran Israels Gud, såsom hans fader gjorde.
 
 ## II Kings
 
@@ -19754,7 +19754,7 @@
 
 **[1:17]** Alltså blef han död, efter Herrans ord, det Elia talat hade. Och Joram vardt Konung i hans stad, i andra årena Jorams, Josaphats sons, Juda Konungs; ty han hade ingen son.
 
-**[1:18]** Hvad nu mer af Ahasia sägandes är, hvad han gjort hafver, si, det är skrifvet i Israels Konungars Chrönico.  
+**[1:18]** Hvad nu mer af Ahasia sägandes är, hvad han gjort hafver, si, det är skrifvet i Israels Konungars Chrönico.
 
 ### Chapter 2
 
@@ -19806,7 +19806,7 @@
 
 **[2:24]** Och han vände sig om; och då han såg dem, bannade han dem i Herrans Namn. Då kommo två björnar utu skogenom, och refvo två och fyratio piltar ihjäl.
 
-**[2:25]** Dädan gick han upp på Carmels berg, och vände sedan om dädan till Samarien igen.  
+**[2:25]** Dädan gick han upp på Carmels berg, och vände sedan om dädan till Samarien igen.
 
 ### Chapter 3
 
@@ -19862,7 +19862,7 @@
 
 **[3:26]** Då de Moabiters Konung såg att striden vardt honom för stark, tog han sjuhundrade män till sig, som svärd utdrogo, till att slå ut emot Edoms Konung; men de kunde icke.
 
-**[3:27]** Då tog han sin första son, som i hans stad skulle Konung vordit, och offrade honom till ett bränneoffer på muren. Då kom en stor vrede öfver Israel; så att de drogo ifrå honom, och vände till landet igen.  
+**[3:27]** Då tog han sin första son, som i hans stad skulle Konung vordit, och offrade honom till ett bränneoffer på muren. Då kom en stor vrede öfver Israel; så att de drogo ifrå honom, och vände till landet igen.
 
 ### Chapter 4
 
@@ -19952,7 +19952,7 @@
 
 **[4:43]** Hans tjenare sade: Hvad kan det slå framför hundrade män? Han sade: Gif det folkena, att de måga äta; förty så säger Herren: De skola äta, och skall ändå öfverblifva.
 
-**[4:44]** Och han lade det fram för dem, så att de åto; och blef ändå öfver, efter Herrans ord.  
+**[4:44]** Och han lade det fram för dem, så att de åto; och blef ändå öfver, efter Herrans ord.
 
 ### Chapter 5
 
@@ -20008,7 +20008,7 @@
 
 **[5:26]** Han sade till honom: Månde icke mitt hjerta vandra med dig, då mannen vände om igen ifrå sin vagn emot dig? Nu, du hafver tagit silfver och kläder, oljogårdar, vingårdar, får, oxar, tjenare och tjenarinnor.
 
-**[5:27]** Men Naamans spitelska skall låda vid dig, och dina säd, till evig tid. Så gick han ut ifrå honom spitelsker såsom en snö.  
+**[5:27]** Men Naamans spitelska skall låda vid dig, och dina säd, till evig tid. Så gick han ut ifrå honom spitelsker såsom en snö.
 
 ### Chapter 6
 
@@ -20076,7 +20076,7 @@
 
 **[6:32]** Och Elisa satt i sitt hus. Och de äldste såto när honom. Och han sände en man framför sig. Men förr än bådet kom till honom sade han till de äldsta: Hafven I sett, huru denne mördaren hafver hitsändt, att taga mitt hufvud af? Ser till, när bådet kommer, att I lycken dörrena igen, och klämmer honom med dörrene; si, dönen af hans herras fötter följer efter honom.
 
-**[6:33]** Vid han ännu med dem talade, si, då kom bådet ned till honom, och sade: Si, detta onda kommer af Herranom; hvad skall jag mer vänta af Herranom?  
+**[6:33]** Vid han ännu med dem talade, si, då kom bådet ned till honom, och sade: Si, detta onda kommer af Herranom; hvad skall jag mer vänta af Herranom?
 
 ### Chapter 7
 
@@ -20118,7 +20118,7 @@
 
 **[7:19]** Och riddaren svarade Guds mannenom, och sade: Si, om Herren än gjorde fenster på himmelen, huru kunde detta ske? Men han sade: Si, med din ögon skall du se det, och intet äta deraf.
 
-**[7:20]** Och det gick honom ock så; ty folket förtrampade honom i portenom, så att han blef död.  
+**[7:20]** Och det gick honom ock så; ty folket förtrampade honom i portenom, så att han blef död.
 
 ### Chapter 8
 
@@ -20178,7 +20178,7 @@
 
 **[8:28]** Och han drog med Joram, Achabs son, i strid emot Hasael, Konungen i Syrien, till Ramoth i Gilead; men de Syrer slogo Joram.
 
-**[8:29]** Då vände Konung Joram tillbaka, att låta läka sig i Jisreel, för de sårs skull, som de Syrer honom slagit hade i Rama, då han stridde med Hasael, Konungenom i Syrien. Och Ahasia, Jorams son, Juda Konung, kom neder till att bese Joram, Achabs son i Jisreel; ty han låg krank.  
+**[8:29]** Då vände Konung Joram tillbaka, att låta läka sig i Jisreel, för de sårs skull, som de Syrer honom slagit hade i Rama, då han stridde med Hasael, Konungenom i Syrien. Och Ahasia, Jorams son, Juda Konung, kom neder till att bese Joram, Achabs son i Jisreel; ty han låg krank.
 
 ### Chapter 9
 
@@ -20254,7 +20254,7 @@
 
 **[9:36]** Och kommo igen, och sade honom det. Han sade: Detta är nu det, som Herren genom sin tjenare Elia, den Thisbiten, talade, och sade: På Jisreels åker skola hundar äta Isebels kött.
 
-**[9:37]** Alltså vardt Isebels as såsom en träck på markene uppå Jisreels åker, så att man intet säga kunde: Detta är Isebel.  
+**[9:37]** Alltså vardt Isebels as såsom en träck på markene uppå Jisreels åker, så att man intet säga kunde: Detta är Isebel.
 
 ### Chapter 10
 
@@ -20328,7 +20328,7 @@
 
 **[10:35]** Och Jehu afsomnade med sina fäder; och de begrofvo honom i Samarien; och Joahas hans son vardt Konung i hans stad.
 
-**[10:36]** Men tiden, som Jehu öfver Israel regerade i Samarien, är åtta och tjugu år.  
+**[10:36]** Men tiden, som Jehu öfver Israel regerade i Samarien, är åtta och tjugu år.
 
 ### Chapter 11
 
@@ -20372,7 +20372,7 @@
 
 **[11:20]** Och allt folket i landet var gladt, och staden vardt stilla. Men Athalja dråpo de med svärd i Konungshuset.
 
-**[11:21]** Och Joas var sju år gammal, då han vardt Konung.  
+**[11:21]** Och Joas var sju år gammal, då han vardt Konung.
 
 ### Chapter 12
 
@@ -20416,7 +20416,7 @@
 
 **[12:20]** Och hans tjenare hofvo sig upp, och gjorde ett förbund, och slogo honom i Millo hus, der man nedergår till Silla.
 
-**[12:21]** Ty Josachar, Simeaths son, och Josabad, Somers son, hans tjenare, slogo honom ihjäl; och man begrof honom med hans fäder uti Davids stad. Och Amazia hans son vardt Konung i hans stad.  
+**[12:21]** Ty Josachar, Simeaths son, och Josabad, Somers son, hans tjenare, slogo honom ihjäl; och man begrof honom med hans fäder uti Davids stad. Och Amazia hans son vardt Konung i hans stad.
 
 ### Chapter 13
 
@@ -20468,7 +20468,7 @@
 
 **[13:24]** Och Hasael, Konungen i Syrien, blef död; och hans son Benhadad vardt Konung i hans stad.
 
-**[13:25]** Men Joas vände om, och tog de städer igen utu Benhadads, Hasaels sons, hand, som han utu hans faders Joahas hand med strid tagit hade. Tre gånger slog Joas honom, och fick Israels städer igen.  
+**[13:25]** Men Joas vände om, och tog de städer igen utu Benhadads, Hasaels sons, hand, som han utu hans faders Joahas hand med strid tagit hade. Tre gånger slog Joas honom, och fick Israels städer igen.
 
 ### Chapter 14
 
@@ -20528,7 +20528,7 @@
 
 **[14:28]** Hvad nu mer af Jerobeam sägandes är, och allt det han gjort hafver, och hans magt, huru han stridt hafver, och huru han igenfick Damascon och Hamath till Juda i Israel, si, det är skrifvet i Israels Konungars Chrönico.
 
-**[14:29]** Och Jerobeam afsomnade med sina fäder, Israels Konungar; och hans son Zacharia vardt Konung i hans stad.  
+**[14:29]** Och Jerobeam afsomnade med sina fäder, Israels Konungar; och hans son Zacharia vardt Konung i hans stad.
 
 ### Chapter 15
 
@@ -20606,7 +20606,7 @@
 
 **[15:37]** I den tiden begynte Herren sända till Juda Rezin, Konungen i Syrien, och Pekah, Remalia son.
 
-**[15:38]** Och Jotham afsomnade med sina fäder, och vardt begrafven när sina fäder, uti sins faders Davids stad; och Ahas hans son vardt Konung i hans stad.  
+**[15:38]** Och Jotham afsomnade med sina fäder, och vardt begrafven när sina fäder, uti sins faders Davids stad; och Ahas hans son vardt Konung i hans stad.
 
 ### Chapter 16
 
@@ -20648,7 +20648,7 @@
 
 **[16:19]** Hvad nu mer af Ahas sägandes är? hvad han gjort hafver, si, det är skrifvet i Juda Konungars Chrönico.
 
-**[16:20]** Och Ahas afsomnade med sina fäder, och vardt begrafven när sina fäder uti Davids stad; och Hiskia hans son vardt Konung i hans stad.  
+**[16:20]** Och Ahas afsomnade med sina fäder, och vardt begrafven när sina fäder uti Davids stad; och Hiskia hans son vardt Konung i hans stad.
 
 ### Chapter 17
 
@@ -20732,7 +20732,7 @@
 
 **[17:40]** Men desse lydde icke, utan gjorde efter sin förra sed.
 
-**[17:41]** Alltså fruktade desse Hedningarna Herran, och tjente likväl sina gudar. Sammalunda gjorde ock deras barn och barnabarn, såsom deras fäder gjort hade, allt intill denna dag.  
+**[17:41]** Alltså fruktade desse Hedningarna Herran, och tjente likväl sina gudar. Sammalunda gjorde ock deras barn och barnabarn, såsom deras fäder gjort hade, allt intill denna dag.
 
 ### Chapter 18
 
@@ -20808,7 +20808,7 @@
 
 **[18:36]** Då tigde folket, och svarade honom intet; ty Konungen hade budit, och sagt: Svarer honom intet.
 
-**[18:37]** Så kom då Eliakim, Hilkia son, hofmästaren, och Sebna skrifvaren, och Joah, Asaphs son, cancelleren, till Hiskia med rifven kläder, och gåfvo honom tillkänna RabSake ord.  
+**[18:37]** Så kom då Eliakim, Hilkia son, hofmästaren, och Sebna skrifvaren, och Joah, Asaphs son, cancelleren, till Hiskia med rifven kläder, och gåfvo honom tillkänna RabSake ord.
 
 ### Chapter 19
 
@@ -20884,7 +20884,7 @@
 
 **[19:36]** Alltså bröt Sanherib, Konungen af Assyrien, upp, drog sina färde, och vände om, och blef i Nineve.
 
-**[19:37]** Och då han tillbad i Nisrochs sins guds hus, slogo honom hans söner med svärd, Adrammelech och SarEzer, och undflydde in uti det landet Ararat; och hans son EsarHaddon vardt Konung i hans stad.  
+**[19:37]** Och då han tillbad i Nisrochs sins guds hus, slogo honom hans söner med svärd, Adrammelech och SarEzer, och undflydde in uti det landet Ararat; och hans son EsarHaddon vardt Konung i hans stad.
 
 ### Chapter 20
 
@@ -20928,7 +20928,7 @@
 
 **[20:20]** Hvad nu mer af Hiskia sägandes är, och all hans magt, och hvad han gjort hafver, och om dammen och vatturännorna, dermed han ledde vatten in i staden, si, det är skrifvet uti Juda Konungars Chrönico.
 
-**[20:21]** Och Hiskia afsomnade med sina fäder; och Manasse hans son vardt Konung i hans stad.  
+**[20:21]** Och Hiskia afsomnade med sina fäder; och Manasse hans son vardt Konung i hans stad.
 
 ### Chapter 21
 
@@ -20982,7 +20982,7 @@
 
 **[21:25]** Hvad Amon nu mer gjort hafver, si, det är skrifvet i Juda Konungars Chrönico.
 
-**[21:26]** Och man begrof honom i hans graf, i Ussa trägärd; och hans son Josia vardt Konung i hans stad.  
+**[21:26]** Och man begrof honom i hans graf, i Ussa trägärd; och hans son Josia vardt Konung i hans stad.
 
 ### Chapter 22
 
@@ -21024,7 +21024,7 @@
 
 **[22:19]** Derföre, att ditt hjerta hafver bevekt sig, af de ord, som, du hört hafver, och hafver ödmjukat dig för Herranom, då du hörde hvad jag sagt hade emot detta rum, och dess inbyggare, att de skulle varda till en förödelse och förbannelse, och hafver rifvit din kläder sönder, och hafver gråtit för mig, så hafver jag ock hört det, säger Herren.
 
-**[22:20]** Derföre vill jag samka dig till dina fäder, att du skall samkas i grafvena med frid, och din ögon icke se skola alla denna olyckona, som jag öfver detta rum föra skall. Och de sade Konungenom det igen.  
+**[22:20]** Derföre vill jag samka dig till dina fäder, att du skall samkas i grafvena med frid, och din ögon icke se skola alla denna olyckona, som jag öfver detta rum föra skall. Och de sade Konungenom det igen.
 
 ### Chapter 23
 
@@ -21100,7 +21100,7 @@
 
 **[23:36]** Fem och tjugu åra gammal var Jojakim, då han vardt Konung, och regerade ellofva år i Jerusalem; hans moder het Zebuda, Pedaja dotter af Ruma.
 
-**[23:37]** Och han gjorde det ondt var för Herranom, såsom hans fäder gjort hade.  
+**[23:37]** Och han gjorde det ondt var för Herranom, såsom hans fäder gjort hade.
 
 ### Chapter 24
 
@@ -21142,7 +21142,7 @@
 
 **[24:19]** Och han gjorde det ondt var för Herranom, såsom Jojakim gjort hade.
 
-**[24:20]** Ty det skedde alltså med Jerusalem och Juda utaf Herrans vrede, tilldess han kastade dem bort ifrå sitt ansigte. Och Zedekia vardt affällig ifrå Konungenom i Babel.  
+**[24:20]** Ty det skedde alltså med Jerusalem och Juda utaf Herrans vrede, tilldess han kastade dem bort ifrå sitt ansigte. Och Zedekia vardt affällig ifrå Konungenom i Babel.
 
 ### Chapter 25
 
@@ -21204,7 +21204,7 @@
 
 **[25:29]** Och förvandlade hans fängelsekläder; och han åt alltid inför honom i alla sina lifsdagar;
 
-**[25:30]** Och satte honom före hans del, den man honom alltid gifva skulle af Konungenom, hvar dag, så länge han lefde.   
+**[25:30]** Och satte honom före hans del, den man honom alltid gifva skulle af Konungenom, hvar dag, så länge han lefde.
 
 ## I Chronicles
 
@@ -21316,7 +21316,7 @@
 
 **[1:53]** Den Försten Kenas, den Försten Theman, den Försten Mibzar,
 
-**[1:54]** Den Försten Magdiel, den Försten Iram. Desse äro de Förstar i Edom.  
+**[1:54]** Den Försten Magdiel, den Försten Iram. Desse äro de Förstar i Edom.
 
 ### Chapter 2
 
@@ -21428,7 +21428,7 @@
 
 **[2:54]** Salma barn äro: BethLehem och de Netophathiter, kronorna till Joabs hus, och hälften af de Manathiter af den Zorgiten.
 
-**[2:55]** Och de skrifvares slägter, som i Jabez bodde, äro: de Thirathiter, Simathiter, Suchathiter. Det äro de Kiniter, som komne äro af Hamath, BethRechabs fader.  
+**[2:55]** Och de skrifvares slägter, som i Jabez bodde, äro: de Thirathiter, Simathiter, Suchathiter. Det äro de Kiniter, som komne äro af Hamath, BethRechabs fader.
 
 ### Chapter 3
 
@@ -21478,7 +21478,7 @@
 
 **[3:23]** Nearia barn voro: Eljoenai, Hiskia, Asrikam, de tre.
 
-**[3:24]** Eljoenai barn voro: Hodaja, Eljasib, Phelaja, Akkub, Johanan, Delaja, Anani, de sju.  
+**[3:24]** Eljoenai barn voro: Hodaja, Eljasib, Phelaja, Akkub, Johanan, Delaja, Anani, de sju.
 
 ### Chapter 4
 
@@ -21566,7 +21566,7 @@
 
 **[4:42]** Och gingo ut af dem af Simeons barnom, femhundrad män, intill Seirs berg, med deras öfverstar; Pelatia, Nearia, Rephaja, och Ussiel, Jisei barn;
 
-**[4:43]** Och slogo de återlefde af de Amalekiter, som undsluppne voro; och bodde der allt intill denna dag.  
+**[4:43]** Och slogo de återlefde af de Amalekiter, som undsluppne voro; och bodde der allt intill denna dag.
 
 ### Chapter 5
 
@@ -21620,7 +21620,7 @@
 
 **[5:25]** Och då de förtogo sig emot deras fäders Gud, och i horeri gingo efter de folks gudar der i landena, som Gud för dem förgjort hade,
 
-**[5:26]** Uppväckte Israels Gud Phuls anda, Konungens i Assyrien, och ThiglathPilnesers anda, Konungens i Assyrien, och förde bort de Rubeniter, Gaditer och den halfva slägtena Manasse, och lät komma dem till Halah och Hober och Hara, och till den älfvena Gosan, allt intill denna dag.  
+**[5:26]** Uppväckte Israels Gud Phuls anda, Konungens i Assyrien, och ThiglathPilnesers anda, Konungens i Assyrien, och förde bort de Rubeniter, Gaditer och den halfva slägtena Manasse, och lät komma dem till Halah och Hober och Hara, och till den älfvena Gosan, allt intill denna dag.
 
 ### Chapter 6
 
@@ -21784,7 +21784,7 @@
 
 **[6:80]** Af Gads slägte, Ramoth i Gilead och dess förstäder, Mahanaim och dess förstäder,
 
-**[6:81]** Hesbon och dess förstäder, Jaeser och dess förstäder.  
+**[6:81]** Hesbon och dess förstäder, Jaeser och dess förstäder.
 
 ### Chapter 7
 
@@ -21866,7 +21866,7 @@
 
 **[7:39]** Ulla barn voro: Arah, Haniel och Rizia.
 
-**[7:40]** Desse voro alle Assers barn, höfvitsmän, i deras fäders hus utvalde, väldige män, och hufvud öfver Förstar, och vordo räknade i här till strids vid deras tal, sex och tjugu tusend män.  
+**[7:40]** Desse voro alle Assers barn, höfvitsmän, i deras fäders hus utvalde, väldige män, och hufvud öfver Förstar, och vordo räknade i här till strids vid deras tal, sex och tjugu tusend män.
 
 ### Chapter 8
 
@@ -21948,7 +21948,7 @@
 
 **[8:39]** Eseks barn, hans broders, voro: Ullam hans förste son, Jeus den andre, Eliphelet den tredje.
 
-**[8:40]** Men Ullams barn voro väldige män, och välbehändige med bågar och hade många söner och sonasöner, hundrade och femtio. De äro alle af BenJamins barnom.  
+**[8:40]** Men Ullams barn voro väldige män, och välbehändige med bågar och hade många söner och sonasöner, hundrade och femtio. De äro alle af BenJamins barnom.
 
 ### Chapter 9
 
@@ -22038,7 +22038,7 @@
 
 **[9:43]** Moza födde Binea. Hans son var Rephaja, Hans son var Eleasa. Hans son var Azel.
 
-**[9:44]** Azel hade sex söner; de heto: Asrikam, Bochru, Ismael, Searia, Obadja, Hanan. Desse äro Azels barn.  
+**[9:44]** Azel hade sex söner; de heto: Asrikam, Bochru, Ismael, Searia, Obadja, Hanan. Desse äro Azels barn.
 
 ### Chapter 10
 
@@ -22068,7 +22068,7 @@
 
 **[10:13]** Alltså blef Saul död i sine missgerning, som han emot Herran gjort hade, emot Herrans ord, det han icke höll; också derföre, att han frågade spåqvinnona,
 
-**[10:14]** Och icke frågade Herran; derföre drap han honom, och vände riket till David, Isai son.  
+**[10:14]** Och icke frågade Herran; derföre drap han honom, och vände riket till David, Isai son.
 
 ### Chapter 11
 
@@ -22164,7 +22164,7 @@
 
 **[11:46]** Eliel den Mahaviten, Jeribai och Josavja, Elnaams söner, Jithma den Moabiten,
 
-**[11:47]** Eliel, Obed, och Jasiel af Mezobaja.  
+**[11:47]** Eliel, Obed, och Jasiel af Mezobaja.
 
 ### Chapter 12
 
@@ -22246,7 +22246,7 @@
 
 **[12:39]** Och voro der när David i tre dagar, åto och drucko; förty deras bröder hade tillredt för dem.
 
-**[12:40]** Och de som näst omkring dem voro, allt intill Isaschar, Sebulon och Naphthali, de förde bröd på åsnar, camelar, mular och oxar, till att äta; mjöl, fikon, russin, vin, oljo, oxar och får, allt fullt; ty en fröjd var i Israel.  
+**[12:40]** Och de som näst omkring dem voro, allt intill Isaschar, Sebulon och Naphthali, de förde bröd på åsnar, camelar, mular och oxar, till att äta; mjöl, fikon, russin, vin, oljo, oxar och får, allt fullt; ty en fröjd var i Israel.
 
 ### Chapter 13
 
@@ -22276,7 +22276,7 @@
 
 **[13:13]** Derföre lät han icke föra in till sig Guds ark uti Davids stad, utan förde honom in uti ObedEdoms hus, den Gitthitens.
 
-**[13:14]** Alltså blef Guds ark när ObedEdom i hans huse i tre månader. Och Herren välsignade ObedEdoms hus, och all det han hade.  
+**[13:14]** Alltså blef Guds ark när ObedEdom i hans huse i tre månader. Och Herren välsignade ObedEdoms hus, och all det han hade.
 
 ### Chapter 14
 
@@ -22312,7 +22312,7 @@
 
 **[14:16]** Och David gjorde såsom Gud honom budit hade. Och de slogo de Philisteers här, allt ifrå Gibeon intill Gaser.
 
-**[14:17]** Och Davids namn gick ut i all land. Och Herren lät hans räddhåga komma öfver alla Hedningar.  
+**[14:17]** Och Davids namn gick ut i all land. Och Herren lät hans räddhåga komma öfver alla Hedningar.
 
 ### Chapter 15
 
@@ -22372,7 +22372,7 @@
 
 **[15:28]** Alltså båro hele Israel Herrans förbunds ark upp med fröjd, basuner, trummeter och klingande cymbaler, med psaltare och harpor.
 
-**[15:29]** Då nu Herrans förbunds ark kom uti Davids stad, såg Michal, Sauls dotter, ut genom fenstret; och då hon fick se Konung David springa och spela, föraktade hon honom i sitt hjerta.  
+**[15:29]** Då nu Herrans förbunds ark kom uti Davids stad, såg Michal, Sauls dotter, ut genom fenstret; och då hon fick se Konung David springa och spela, föraktade hon honom i sitt hjerta.
 
 ### Chapter 16
 
@@ -22460,7 +22460,7 @@
 
 **[16:42]** Och med dem Heman och Jeduthun, med trummeter och cymbaler, till att klinga, och med Guds strängaspel. Men Jeduthuns söner gjorde han till dörravaktare.
 
-**[16:43]** Alltså drog allt folket sin väg, hvar och en i sitt hus. Drog också David bort till att välsigna sitt hus.  
+**[16:43]** Alltså drog allt folket sin väg, hvar och en i sitt hus. Drog också David bort till att välsigna sitt hus.
 
 ### Chapter 17
 
@@ -22516,7 +22516,7 @@
 
 **[17:26]** Nu, Herre, du äst Gud, och du hafver sådana god ting sagt till din tjenare.
 
-**[17:27]** Tag nu till att välsigna dins tjenares hus, att det blifver evinnerliga för dig; ty hvad du, Herre, välsignar, det är välsignadt evinnerliga.  
+**[17:27]** Tag nu till att välsigna dins tjenares hus, att det blifver evinnerliga för dig; ty hvad du, Herre, välsignar, det är välsignadt evinnerliga.
 
 ### Chapter 18
 
@@ -22552,7 +22552,7 @@
 
 **[18:16]** Zadok, Ahitobs son, och AbiMelech, AbJathars son, voro Prester; Sausa var skrifvare.
 
-**[18:17]** Benaja, Jojada son, var öfver Crethi och Plethi; och de förste Davids söner voro Konungenom vid handen.  
+**[18:17]** Benaja, Jojada son, var öfver Crethi och Plethi; och de förste Davids söner voro Konungenom vid handen.
 
 ### Chapter 19
 
@@ -22592,7 +22592,7 @@
 
 **[19:18]** Men de Syrer flydde för Israel; och David slog af de Syrer sjutusend vagnar, och fyratiotusend män till fot; dertill drap han Sophach härhöfvitsmannen.
 
-**[19:19]** Då HadarEsers tjenare sågo, att de voro slagne för Israel, gjorde de frid med David och hans tjenare. Och de Syrer ville icke mer hjelpa Ammons barn.  
+**[19:19]** Då HadarEsers tjenare sågo, att de voro slagne för Israel, gjorde de frid med David och hans tjenare. Och de Syrer ville icke mer hjelpa Ammons barn.
 
 ### Chapter 20
 
@@ -22610,7 +22610,7 @@
 
 **[20:7]** Han bespottade Israel; men Jonathan, Simea son, Davids broders, slog honom.
 
-**[20:8]** Desse voro födde af Rapha i Gath, och föllo genom Davids och hans tjenares hand.  
+**[20:8]** Desse voro födde af Rapha i Gath, och föllo genom Davids och hans tjenares hand.
 
 ### Chapter 21
 
@@ -22672,7 +22672,7 @@
 
 **[21:29]** Ty Herrans tabernakel, som Mose i öknene gjort hade, och bränneoffrets altare, var i den tiden på höjdene i Gibeon.
 
-**[21:30]** Men David kunde icke gå ditin för det, till att söka Gud; så var han förskräckt för Herrans Ängels svärd.  
+**[21:30]** Men David kunde icke gå ditin för det, till att söka Gud; så var han förskräckt för Herrans Ängels svärd.
 
 ### Chapter 22
 
@@ -22712,7 +22712,7 @@
 
 **[22:18]** Är icke Herren edar Gud med eder, och hafver gifvit eder rolighet allt omkring? Ty han hafver gifvit landsens inbyggare uti edra händer, och landet är undergifvet vordet för Herranom, och för hans folk.
 
-**[22:19]** Så gifver nu edor hjerta och edra själar, till att söka Herran edar Gud; och står upp, och bygger Herranom Gudi en helgedom, att man må bära Herrans förbunds ark och de heliga Guds kärilen in uti huset, som Herrans Namne skall bygdt varda.  
+**[22:19]** Så gifver nu edor hjerta och edra själar, till att söka Herran edar Gud; och står upp, och bygger Herranom Gudi en helgedom, att man må bära Herrans förbunds ark och de heliga Guds kärilen in uti huset, som Herrans Namne skall bygdt varda.
 
 ### Chapter 23
 
@@ -22778,7 +22778,7 @@
 
 **[23:31]** Och till att offra Herranom all bränneoffer på Sabbatherna, nymånadom och högtidom, efter talet och sättet, alltid för Herranom;
 
-**[23:32]** Att de skulle taga vara på vaktena vid vittnesbördsens tabernakel, och helgedomens; och Aarons barnas, deras bröders, till att tjena i Herrans hus.  
+**[23:32]** Att de skulle taga vara på vaktena vid vittnesbördsens tabernakel, och helgedomens; och Aarons barnas, deras bröders, till att tjena i Herrans hus.
 
 ### Chapter 24
 
@@ -22842,7 +22842,7 @@
 
 **[24:30]** Musi barn voro: Maheli, Eder och Jerimoth. Detta äro de Leviters barn, i deras faders hus.
 
-**[24:31]** Och man kastade också för dem lott, bredovid deras bröder Aarons barn, inför Konung David och Zadok, och Ahimelech, och inför de öfversta fäderna af Prestomen och Levitomen, dem minsta brodrenom så väl som dem öfversta af fäderna.  
+**[24:31]** Och man kastade också för dem lott, bredovid deras bröder Aarons barn, inför Konung David och Zadok, och Ahimelech, och inför de öfversta fäderna af Prestomen och Levitomen, dem minsta brodrenom så väl som dem öfversta af fäderna.
 
 ### Chapter 25
 
@@ -22906,7 +22906,7 @@
 
 **[25:30]** Den tredje och tjugonde på Mahasioth, med hans söner och bröder, de voro tolf;
 
-**[25:31]** Den fjerde och tjugonde på RomamthiEser, med hans söner och bröder, de voro tolf.  
+**[25:31]** Den fjerde och tjugonde på RomamthiEser, med hans söner och bröder, de voro tolf.
 
 ### Chapter 26
 
@@ -22972,7 +22972,7 @@
 
 **[26:31]** Var ock ibland de Hebroniter Jeria, den ypperste ibland de Hebroniter, af fäderna i hans ätt. Det vordo ock af dem sökte och funne, uti fyrationde årena af Davids rike, mägtige män, i Jaeser i Gilead;
 
-**[26:32]** Och deras bröder, mägtige män, tutusend och sjuhundrad öfverste fäder. Och David satte dem öfver de Rubeniter, Gaditer, och öfver den halfva slägtena Manasse, till all Guds och Konungens ärende.  
+**[26:32]** Och deras bröder, mägtige män, tutusend och sjuhundrad öfverste fäder. Och David satte dem öfver de Rubeniter, Gaditer, och öfver den halfva slägtena Manasse, till all Guds och Konungens ärende.
 
 ### Chapter 27
 
@@ -23042,7 +23042,7 @@
 
 **[27:33]** Achitophel var ock Konungens rådgifvare; Husai den Arachiten var Konungens vän.
 
-**[27:34]** Efter Achitophel var Jojada, Benaja son, och AbJathar; men Joab var Konungens härhöfvitsman.  
+**[27:34]** Efter Achitophel var Jojada, Benaja son, och AbJathar; men Joab var Konungens härhöfvitsman.
 
 ### Chapter 28
 
@@ -23086,7 +23086,7 @@
 
 **[28:20]** Och David sade till sin son Salomo: Var tröst och frimodig, och gör så; frukta dig intet, och var icke förskräckt; Herren Gud, min Gud, skall vara med dig, och skall icke draga sina hand ifrå dig, eller förlåta dig, allt intill du all verk till ämbeten i Herrans hus fullkomnat hafver.
 
-**[28:21]** Si, Presternas och Leviternas ordning till all ämbeten i Guds hus, äro med dig i all ärende, och äro viljoge och förståndige till all ämbeten; dertill Förstarna och allt folket i alla dina handlingar.  
+**[28:21]** Si, Presternas och Leviternas ordning till all ämbeten i Guds hus, äro med dig i all ärende, och äro viljoge och förståndige till all ämbeten; dertill Förstarna och allt folket i alla dina handlingar.
 
 ### Chapter 29
 
@@ -23148,7 +23148,7 @@
 
 **[29:29]** Men Konung Davids gerningar, både de första och de sista, si, de äro skrifna ibland Samuels den Siarens gerningar, och ibland den Prophetens Nathans gerningar, och ibland Gads den Siarens gerningar;
 
-**[29:30]** Med allt hans rike, välde och tid, som under honom förlupen är, både öfver Israel och all rike i landen.   
+**[29:30]** Med allt hans rike, välde och tid, som under honom förlupen är, både öfver Israel och all rike i landen.
 
 ## II Chronicles
 
@@ -23186,7 +23186,7 @@
 
 **[1:16]** Och man förde Salomo hästar utur Egypten, och allahanda varor. Och Konungens köpmän köpte samma varor;
 
-**[1:17]** Och förde dem utur Egypten, hvar vagn för sexhundrad silfpenningar, och hvar häst för hundrade och femtio; alltså förde man dem ock till alla de Hetheers Konungar, och till de Konungar i Syrien, genom deras hand.  
+**[1:17]** Och förde dem utur Egypten, hvar vagn för sexhundrad silfpenningar, och hvar häst för hundrade och femtio; alltså förde man dem ock till alla de Hetheers Konungar, och till de Konungar i Syrien, genom deras hand.
 
 ### Chapter 2
 
@@ -23224,7 +23224,7 @@
 
 **[2:17]** Och räknade Salomo alla främlingar i Israels land, efter det tal då David hans fader dem räknade; och vordo funne hundrade och femtio tusend, tretusend och sexhundrad.
 
-**[2:18]** Och han gjorde af dem sjutiotusend dragare, och åttatiotusend huggare på bergena, och tretusend och sexhundrad befallningsmän, som folket vid arbetet höllo.  
+**[2:18]** Och han gjorde af dem sjutiotusend dragare, och åttatiotusend huggare på bergena, och tretusend och sexhundrad befallningsmän, som folket vid arbetet höllo.
 
 ### Chapter 3
 
@@ -23260,7 +23260,7 @@
 
 **[3:16]** Och gjorde kedjoverk till choren, och satte ofvanuppå stoderna, och gjorde hundrade granatäple, och satte dem i det kedjoverket;
 
-**[3:17]** Och reste de stoderna uppför templet, ena på den högra, och den andra på den venstra sidone; och kallade den på högra sidone Jachin, och den på venstra Boas.  
+**[3:17]** Och reste de stoderna uppför templet, ena på den högra, och den andra på den venstra sidone; och kallade den på högra sidone Jachin, och den på venstra Boas.
 
 ### Chapter 4
 
@@ -23306,7 +23306,7 @@
 
 **[4:21]** Och de blommor vid lamporna, och de näpor voro af guld; allt var af rent guld.
 
-**[4:22]** Dertill knifvar, bäcken, slefvar och släcketyg, voro af klart guld; och ingången, och hans dörr innantill, åt det aldrahelgasta, och dörrarna till tempelshuset, voro af guld.  
+**[4:22]** Dertill knifvar, bäcken, slefvar och släcketyg, voro af klart guld; och ingången, och hans dörr innantill, åt det aldrahelgasta, och dörrarna till tempelshuset, voro af guld.
 
 ### Chapter 5
 
@@ -23336,7 +23336,7 @@
 
 **[5:13]** Och det var, såsom det hade varit allt en som trummetade, och sjöng, såsom man hörde ena röst, till att lofva och tacka Herranom; och då rösten upphof sig af trummeterna, cymbaler och annor strängaspel, och af Herrans lof, att han mild är, och hans barmhertighet varar till evig tid; då vardt Herrans hus uppfyldt med ett moln;
 
-**[5:14]** Så att Presterna icke stå kunde, till att tjena, för molnets skull; ty Herrans härlighet uppfyllde Guds hus.  
+**[5:14]** Så att Presterna icke stå kunde, till att tjena, för molnets skull; ty Herrans härlighet uppfyllde Guds hus.
 
 ### Chapter 6
 
@@ -23422,7 +23422,7 @@
 
 **[6:41]** Så statt nu upp, Herre Gud, till dina ro, du och dins magts ark; låt dina Prester, Herre Gud, varda iklädde med salighet, och dina heliga glädja sig öfver det goda.
 
-**[6:42]** Herre Gud, vänd icke bort din Smordas ansigte; tänk uppå den barmhertighet, som din tjenare David lofvad är.  
+**[6:42]** Herre Gud, vänd icke bort din Smordas ansigte; tänk uppå den barmhertighet, som din tjenare David lofvad är.
 
 ### Chapter 7
 
@@ -23468,7 +23468,7 @@
 
 **[7:21]** Och för desso huse, det aldrahögst vordet är, skola sig förskräcka alle de som der framom gå, och säga: Hvi hafver Herren så farit med desso lande, och med desso huse?
 
-**[7:22]** Då skall man säga: Derföre, att de öfvergåfvo Herran deras fäders Gud, den dem utur Egypti land fört hade, och togo sig andra gudar, och tillbådo dem, och tjente dem; derföre hafver han låtit allt detta onda komma öfver dem.  
+**[7:22]** Då skall man säga: Derföre, att de öfvergåfvo Herran deras fäders Gud, den dem utur Egypti land fört hade, och togo sig andra gudar, och tillbådo dem, och tjente dem; derföre hafver han låtit allt detta onda komma öfver dem.
 
 ### Chapter 8
 
@@ -23506,7 +23506,7 @@
 
 **[8:17]** Så drog Salomo till EzionGeber, och till Eloth, vid hafsstrandena i Edoms land.
 
-**[8:18]** Och Hyram sände honom skepp med sina tjenare, som sjöfarne voro; och de foro med Salomos tjenare till Ophir, och hemtade dädan fyrahundrad och femtio centener guld, och förde till Konung Salomo.  
+**[8:18]** Och Hyram sände honom skepp med sina tjenare, som sjöfarne voro; och de foro med Salomos tjenare till Ophir, och hemtade dädan fyrahundrad och femtio centener guld, och förde till Konung Salomo.
 
 ### Chapter 9
 
@@ -23570,7 +23570,7 @@
 
 **[9:30]** Och Salomo regerade i Jerusalem öfver hela Israel i fyratio år.
 
-**[9:31]** Och Salomo afsomnade med sina fäder, och man begrof honom uti Davids hans faders stad. Och Rehabeam, hans son, vardt Konung i hans stad.  
+**[9:31]** Och Salomo afsomnade med sina fäder, och man begrof honom uti Davids hans faders stad. Och Rehabeam, hans son, vardt Konung i hans stad.
 
 ### Chapter 10
 
@@ -23610,7 +23610,7 @@
 
 **[10:18]** Då sände Konung Rehabeam Hadoram räntomästaren; men Israels barn stenade honom ihjäl. Och Konung Rehabeam steg med hast på sin vagn, och flydde till Jerusalem.
 
-**[10:19]** Alltså föll Israel af ifrå Davids hus, allt intill denna dag.  
+**[10:19]** Alltså föll Israel af ifrå Davids hus, allt intill denna dag.
 
 ### Chapter 11
 
@@ -23658,7 +23658,7 @@
 
 **[11:22]** Och Rehabeam satte Abia, Maachas son, till ett hufvud och Första öfver hans bröder; ty han hade i sinnet göra honom till Konung.
 
-**[11:23]** Och han växte till, och yppade sig för alla hans söner i Juda och BenJamins land, i alla fasta städer. Och han gaf dem spisning en stor hop; och han tog många hustrur.  
+**[11:23]** Och han växte till, och yppade sig för alla hans söner i Juda och BenJamins land, i alla fasta städer. Och han gaf dem spisning en stor hop; och han tog många hustrur.
 
 ### Chapter 12
 
@@ -23692,7 +23692,7 @@
 
 **[12:15]** Men Rehabeams gerningar, både de första och de sista, äro beskrifna uti den Prophetens Semaja, och i Iddo den Siarens gerningar, och upptecknade. Och örligade Rehabeam och Jerobeam så länge de lefde.
 
-**[12:16]** Och Rehabeam afsomnade med sina fäder, och vardt begrafven uti Davids stad; och hans son Abia vardt Konung i hans stad.  
+**[12:16]** Och Rehabeam afsomnade med sina fäder, och vardt begrafven uti Davids stad; och hans son Abia vardt Konung i hans stad.
 
 ### Chapter 13
 
@@ -23738,7 +23738,7 @@
 
 **[13:21]** Då nu Abia vardt förstärkt, tog han fjorton hustrur, och födde två och tjugu söner och sexton döttrar.
 
-**[13:22]** Hvad nu mer af Abia sägande är, och om hans vägar, och hans gerningar, det är skrifvet uti den Prophetens Iddo Historia.  
+**[13:22]** Hvad nu mer af Abia sägande är, och om hans vägar, och hans gerningar, det är skrifvet uti den Prophetens Iddo Historia.
 
 ### Chapter 14
 
@@ -23770,7 +23770,7 @@
 
 **[14:14]** Och han slog alla städer omkring Gerar; ty Herrans fruktan kom öfver dem, och de skinnade alla städer; ty der var mycket rof inne.
 
-**[14:15]** Slogo de också boskapens hyddor, och togo får ganska mycken, och camelar; och kommo igen till Jerusalem.  
+**[14:15]** Slogo de också boskapens hyddor, och togo får ganska mycken, och camelar; och kommo igen till Jerusalem.
 
 ### Chapter 15
 
@@ -23810,7 +23810,7 @@
 
 **[15:18]** Och han lät komma in uti Guds hus hvad hans fader helgat hade, och hvad han helgat hade, silfver, guld och käril.
 
-**[15:19]** Och intet örlig var allt intill femte och tretionde året Asa rikes.  
+**[15:19]** Och intet örlig var allt intill femte och tretionde året Asa rikes.
 
 ### Chapter 16
 
@@ -23840,7 +23840,7 @@
 
 **[16:13]** Alltså afsomnade Asa med sina fäder, och blef död i första och fyrationde årena sins rikes.
 
-**[16:14]** Och man begrof honom uti hans graf, som han sig hade grafva låtit uti Davids stad; och de lade honom på sin säng, hvilka man uppfyllt hade med godt rökverk, och allahanda speceri, efter apothekares konst gjordt; och gjorde ett ganska stort brännande.  
+**[16:14]** Och man begrof honom uti hans graf, som han sig hade grafva låtit uti Davids stad; och de lade honom på sin säng, hvilka man uppfyllt hade med godt rökverk, och allahanda speceri, efter apothekares konst gjordt; och gjorde ett ganska stort brännande.
 
 ### Chapter 17
 
@@ -23880,7 +23880,7 @@
 
 **[17:18]** Efter honom var Josabad, och med honom voro hundrade och åttatio tusend färdige män till strid.
 
-**[17:19]** Desse vaktade alle på Konungen, förutan de som Konungen lagt hade uti de fasta städer i hela Juda.  
+**[17:19]** Desse vaktade alle på Konungen, förutan de som Konungen lagt hade uti de fasta städer i hela Juda.
 
 ### Chapter 18
 
@@ -23950,7 +23950,7 @@
 
 **[18:33]** Men en man bände sin båga hårdt, och sköt Israels Konung emellan magan och lungorna. Då sade han till sin foroman: Vänd dina hand, och för mig utu hären; förty jag är sår.
 
-**[18:34]** Och striden växte till i den dagen. Och Israels Konung stod på sinom vagn emot de Syrer, allt intill aftonen; och blef död, när solen nedergick.  
+**[18:34]** Och striden växte till i den dagen. Och Israels Konung stod på sinom vagn emot de Syrer, allt intill aftonen; och blef död, när solen nedergick.
 
 ### Chapter 19
 
@@ -23974,7 +23974,7 @@
 
 **[19:10]** Uti alla de saker, som komma till eder ifrån edra bröder, som bo i sina städer, emellan blod och blod, emellan lag och bud, emellan seder och rätter, skolen I undervisa dem, att de icke förbryta sig emot Herran, och en vrede må komma öfver eder, och edra bröder; görer alltså, så varden I icke brottslige.
 
-**[19:11]** Si, Amaria Presten är öfverste öfver eder i alla Herrans saker; så är Sebadia, Ismaels son, Förste i Juda hus, i alla Konungssaker; så hafven I ämbetsmän Leviterna för eder. Varer tröste, och görer så, och Herren varder blifvandes med dem goda.  
+**[19:11]** Si, Amaria Presten är öfverste öfver eder i alla Herrans saker; så är Sebadia, Ismaels son, Förste i Juda hus, i alla Konungssaker; så hafven I ämbetsmän Leviterna för eder. Varer tröste, och görer så, och Herren varder blifvandes med dem goda.
 
 ### Chapter 20
 
@@ -24050,7 +24050,7 @@
 
 **[20:36]** Och han samfällde sig med honom till att göra skepp, att de skulle fara till sjös; och skeppen gjorde de i EzionGeber.
 
-**[20:37]** Men Elieser, Dodava son af Maresa, spådde emot Josaphat, och sade: Derföre, att du hafver förenat dig med Ahasia, hafver Herren omintetgjort din verk. Och skeppen vordo sönderslagne, och kunde intet till sjös fara.  
+**[20:37]** Men Elieser, Dodava son af Maresa, spådde emot Josaphat, och sade: Derföre, att du hafver förenat dig med Ahasia, hafver Herren omintetgjort din verk. Och skeppen vordo sönderslagne, och kunde intet till sjös fara.
 
 ### Chapter 21
 
@@ -24092,7 +24092,7 @@
 
 **[21:19]** Och som det nu varade dag frå dag, och då tu års tid förgången var, gingo hans inelfver ut af honom med hans sjukdom; och han blef död af ondom sjukdom; och de gjorde intet brännande öfver honom, såsom de hans fäder gjort hade.
 
-**[21:20]** Tu och tretio år gammal var han, då han vardt Konung, och regerade i åtta år i Jerusalem, och vandrade så, att det icke mycket dogde; och de begrofvo honom i Davids stad; dock icke ibland Konungsgrifterna.  
+**[21:20]** Tu och tretio år gammal var han, då han vardt Konung, och regerade i åtta år i Jerusalem, och vandrade så, att det icke mycket dogde; och de begrofvo honom i Davids stad; dock icke ibland Konungsgrifterna.
 
 ### Chapter 22
 
@@ -24118,7 +24118,7 @@
 
 **[22:11]** Men Josabeath, Konungens dotter, tog Johas, Ahasia son, och stal honom undan ibland Konungsbarnen, som dräpne vordo, och lät honom med hans ammo uti en sängakammar. Alltså fördolde honom för Athalja Josabeath, Konung Jorams dotter, Prestens Jojada hustru; ty hon var Ahasia syster; att han icke dräpen vardt.
 
-**[22:12]** Och han var med dem i Guds hus fördold i sex år, medan Athalja regerade i landena.  
+**[22:12]** Och han var med dem i Guds hus fördold i sex år, medan Athalja regerade i landena.
 
 ### Chapter 23
 
@@ -24162,7 +24162,7 @@
 
 **[23:20]** Och han tog de öfversta öfver hundrade, och de mägtiga, och herrarna i folkena, och allt landsfolket, och hade Konungen neder ifrå Herrans hus; och förde honom in genom den höga porten af Konungshuset, och läto Konungen sätta sig på Konungsstolen.
 
-**[23:21]** Och allt landsfolket, var gladt, och staden var stilla; men Athalja varat dråpen med svärd.  
+**[23:21]** Och allt landsfolket, var gladt, och staden var stilla; men Athalja varat dråpen med svärd.
 
 ### Chapter 24
 
@@ -24218,7 +24218,7 @@
 
 **[24:26]** De som förbundet gjorde emot honom voro desse: Sabad, Simeaths son, den Ammonitiskones, och Josabad, Simriths son, den Moabitiskones.
 
-**[24:27]** Men hans söner, och summan som under honom församlad var, och Guds hus byggning, si, de äro beskrifne uti Historien i Konungabokene. Och hans son Amazia vardt Konung i hans stad.  
+**[24:27]** Men hans söner, och summan som under honom församlad var, och Guds hus byggning, si, de äro beskrifne uti Historien i Konungabokene. Och hans son Amazia vardt Konung i hans stad.
 
 ### Chapter 25
 
@@ -24276,7 +24276,7 @@
 
 **[25:27]** Och ifrå den tiden, att Amazia trädde ifrå Herranom, gjorde de ett förbund emot honom i Jerusalem; men han flydde till Lachis. Då sände de efter honom till Lachis, och dråpo honom der;
 
-**[25:28]** Och förde honom med hästar, och begrofvo honom när sina fäder uti Juda stad.  
+**[25:28]** Och förde honom med hästar, och begrofvo honom när sina fäder uti Juda stad.
 
 ### Chapter 26
 
@@ -24324,7 +24324,7 @@
 
 **[26:22]** Hvad nu mer af Ussia sägande är, både det första och det sista, hafver den Propheten Esaia, Amos son, skrifvit.
 
-**[26:23]** Och Ussia afsomnade med sina fäder, och de begrofvo honom med sina fäder i åkrenom när Konungagrafvarna; ty de sade: Han är spitelsk. Och Jotham hans son vardt Konung i hans stad.  
+**[26:23]** Och Ussia afsomnade med sina fäder, och de begrofvo honom med sina fäder i åkrenom när Konungagrafvarna; ty de sade: Han är spitelsk. Och Jotham hans son vardt Konung i hans stad.
 
 ### Chapter 27
 
@@ -24344,7 +24344,7 @@
 
 **[27:8]** Fem och tjugu åra gammal var han, då han Konung vardt; och regerade i sexton år i Jerusalem.
 
-**[27:9]** Och Jotham afsomnade med sina fader; och de begrofvo honom i Davids stad. Och hans son Ahas vardt Konung i hans stad.  
+**[27:9]** Och Jotham afsomnade med sina fader; och de begrofvo honom i Davids stad. Och hans son Ahas vardt Konung i hans stad.
 
 ### Chapter 28
 
@@ -24400,7 +24400,7 @@
 
 **[28:26]** Hvad nu mer af honom sägande är, och alla hans vägar, både första och sista, si, det är skrifvet i Juda och Israels Konungars bok.
 
-**[28:27]** Och Ahas afsomnade med sina fäder, och de begrofvo honom i stadenom i Jerusalem; ty de lade honom icke ibland Israels Konungars grifter. Och hans son Jehiskia vardt Konung i hans stad.  
+**[28:27]** Och Ahas afsomnade med sina fäder, och de begrofvo honom i stadenom i Jerusalem; ty de lade honom icke ibland Israels Konungars grifter. Och hans son Jehiskia vardt Konung i hans stad.
 
 ### Chapter 29
 
@@ -24474,7 +24474,7 @@
 
 **[29:35]** Var också bränneoffret mycket, med det feta af tackoffren, och drickoffret till bränneoffret. Alltså vardt ämbetet i Herrans hus redo.
 
-**[29:36]** Och Jehiskia fröjdade sig med allo folkena, att man var så redo vorden med Gudi; ty det skedde med hastighet.  
+**[29:36]** Och Jehiskia fröjdade sig med allo folkena, att man var så redo vorden med Gudi; ty det skedde med hastighet.
 
 ### Chapter 30
 
@@ -24530,7 +24530,7 @@
 
 **[30:26]** Och var en stor glädje i Jerusalem; ty ifrå Salomos, Davids sons, Israels Konungs tid, hade sådana icke varit i Jerusalem.
 
-**[30:27]** Och Presterna och Leviterna stodo upp, och välsignade folket; och deras röst vardt hörd, och deras bön kom inför hans helga boning i himmelen.  
+**[30:27]** Och Presterna och Leviterna stodo upp, och välsignade folket; och deras röst vardt hörd, och deras bön kom inför hans helga boning i himmelen.
 
 ### Chapter 31
 
@@ -24574,7 +24574,7 @@
 
 **[31:20]** Alltså gjorde Jehiskia i hela Juda, och gjorde det godt, rätt och sant var för Herranom sinom Gud.
 
-**[31:21]** Och i all handel, som han tog sig före med Guds hus tjenste, efter lagen och buden, till att söka sin Gud, det gjorde han af allt hjerta; derföre gick han det ock väl igenom.  
+**[31:21]** Och i all handel, som han tog sig före med Guds hus tjenste, efter lagen och buden, till att söka sin Gud, det gjorde han af allt hjerta; derföre gick han det ock väl igenom.
 
 ### Chapter 32
 
@@ -24642,7 +24642,7 @@
 
 **[32:32]** Hvad nu mer af Jehiskia sägande är, och om hans barmhertighet, si, det är skrifvet i den Propheten Esaia, Amos sons, syn, uti Juda och Israels Konungars bok.
 
-**[32:33]** Och Jehiskia afsomnade med sina fäder, och de begrofvo honom öfver Davids barnas grifter; och hele Juda och de i Jerusalem gjorde honom äro i hans död. Och hans son Manasse vardt Konung i hans stad.  
+**[32:33]** Och Jehiskia afsomnade med sina fäder, och de begrofvo honom öfver Davids barnas grifter; och hele Juda och de i Jerusalem gjorde honom äro i hans död. Och hans son Manasse vardt Konung i hans stad.
 
 ### Chapter 33
 
@@ -24694,7 +24694,7 @@
 
 **[33:24]** Och hans tjenare gjorde ett förbund emot honom, och dråpo honom i hans hus.
 
-**[33:25]** Då slog folket i landena alla dem som förbundet emot Konung Amon gjort hade; och folket i landena gjorde hans son Josia till Konung i hans stad.  
+**[33:25]** Då slog folket i landena alla dem som förbundet emot Konung Amon gjort hade; och folket i landena gjorde hans son Josia till Konung i hans stad.
 
 ### Chapter 34
 
@@ -24762,7 +24762,7 @@
 
 **[34:32]** Och stodo der alle de, som i Jerusalem och i BenJamin för handene voro. Och Jerusalems inbyggare gjorde efter Guds förbund, deras fäders Guds.
 
-**[34:33]** Och Josia hof bort all styggelse utur all land, som Israels barnas voro, och skaffade att alle de, som i Israel funne vordo, tjente Herranom deras Gud. Så länge Josia lefde, veko de intet ifrå Herranom deras fäders Gud.  
+**[34:33]** Och Josia hof bort all styggelse utur all land, som Israels barnas voro, och skaffade att alle de, som i Israel funne vordo, tjente Herranom deras Gud. Så länge Josia lefde, veko de intet ifrå Herranom deras fäders Gud.
 
 ### Chapter 35
 
@@ -24818,7 +24818,7 @@
 
 **[35:26]** Hvad nu mer af Josia sägande är, och om hans barmhertighet, efter skriftene i Herrans lag,
 
-**[35:27]** Och hans gerningar, både de första och de sista, si, det är skrifvet uti Israels och Juda Konungars bok.  
+**[35:27]** Och hans gerningar, både de första och de sista, si, det är skrifvet uti Israels och Juda Konungars bok.
 
 ### Chapter 36
 
@@ -24866,7 +24866,7 @@
 
 **[36:22]** Men i första årena Cores, Konungens i Persien, på det fullkomnadt skulle varda Herrans ord, taladt genom Jeremia mun, uppväckte Herren Cores anda, Konungens i Persien, att han lät utropa öfver allt sitt rike, ja ock med bref, och säga:
 
-**[36:23]** Detta säger Cores, Konungen i Persien: Herren Gud af himmelen hafver gifvit mig all rike i landen, och hafver befallt mig bygga sig ett hus i Jerusalem i Juda; hvilken som nu ibland eder är af hans folk, med honom vare Herren hans Gud, och drage ditupp.   
+**[36:23]** Detta säger Cores, Konungen i Persien: Herren Gud af himmelen hafver gifvit mig all rike i landen, och hafver befallt mig bygga sig ett hus i Jerusalem i Juda; hvilken som nu ibland eder är af hans folk, med honom vare Herren hans Gud, och drage ditupp.
 
 ## Ezra
 
@@ -24892,7 +24892,7 @@
 
 **[1:10]** Tretio gyldene skålar, och de andra silfskålar, fyrahundrad och tio, och annor kärile tusende;
 
-**[1:11]** Så att all kärilen både af guld och silfver voro femtusend och fyrahundrad. All dem förde Sesbazar upp, med dem som utu fängelset uppdrogo ifrå Babel till Jerusalem.  
+**[1:11]** Så att all kärilen både af guld och silfver voro femtusend och fyrahundrad. All dem förde Sesbazar upp, med dem som utu fängelset uppdrogo ifrå Babel till Jerusalem.
 
 ### Chapter 2
 
@@ -25034,7 +25034,7 @@
 
 **[2:69]** Och gåfvo, efter sina förmågo, till drätselen åt verket, ett och sextio tusend gylden, och fem tusend pund silfver, och hundrade Prestakjortlar.
 
-**[2:70]** Alltså satte sig Presterna och Leviterna, och somlige af folket, och sångarena och dörravaktarena, och de Nethinim, uti sina städer; och hele Israel i sina städer.  
+**[2:70]** Alltså satte sig Presterna och Leviterna, och somlige af folket, och sångarena och dörravaktarena, och de Nethinim, uti sina städer; och hele Israel i sina städer.
 
 ### Chapter 3
 
@@ -25062,7 +25062,7 @@
 
 **[3:12]** Men månge af de gamla Prester och Leviter, och öfverste fäder, som det förra huset sett hade i dess grundval, och detta hus var för deras ögon, greto med höga röst; dock upphöjde månge sina röst till glädje;
 
-**[3:13]** Så att folket icke kunde känna det glädjerop, för gråtropet i folkena; ty folket ropade högt, så att man hörde ropet långt ifrå.  
+**[3:13]** Så att folket icke kunde känna det glädjerop, för gråtropet i folkena; ty folket ropade högt, så att man hörde ropet långt ifrå.
 
 ### Chapter 4
 
@@ -25112,7 +25112,7 @@
 
 **[4:23]** Då nu Konungens Arthahsasta bref läset vardt för Rehum och Simsai skrifvarenom, och deras Råd, drogo de straxt upp till Jerusalem till Judarna, och förhindrade dem med arm och välde.
 
-**[4:24]** Då höll upp arbetet på Guds hus i Jerusalem, och blef tillbaka, allt intill det andra året Darios, Konungens i Persien.  
+**[4:24]** Då höll upp arbetet på Guds hus i Jerusalem, och blef tillbaka, allt intill det andra året Darios, Konungens i Persien.
 
 ### Chapter 5
 
@@ -25148,7 +25148,7 @@
 
 **[5:16]** Då kom samme Sesbazar, och lade grundvalen till Guds hus i Jerusalem. Ifrå den tiden hafver man byggt, och är ännu icke fullkomnadt.
 
-**[5:17]** Om nu Konungenom täckes, så låte söka i Konungens skatthuse, som i Babel är, om det så befaldt är af Konung Cores, att bygga Guds hus i Jerusalem, och sände till oss Konungens mening härom.  
+**[5:17]** Om nu Konungenom täckes, så låte söka i Konungens skatthuse, som i Babel är, om det så befaldt är af Konung Cores, att bygga Guds hus i Jerusalem, och sände till oss Konungens mening härom.
 
 ### Chapter 6
 
@@ -25194,7 +25194,7 @@
 
 **[6:21]** Och Israels barn, som af fängelsen voro igenkomne, och alle de som sig till dem afskiljt hade ifrå Hedningarnas orenhet i landena, till att söka Herran Israels Gud, åto;
 
-**[6:22]** Och höllo osyrade bröds högtid i sju dagar med glädje; förty Herren hade gjort dem glada, och vändt Konungens hjerta af Assur till dem, så att deras händer styrkta vordo i verket på Guds hus, den Israels Gud är.  
+**[6:22]** Och höllo osyrade bröds högtid i sju dagar med glädje; förty Herren hade gjort dem glada, och vändt Konungens hjerta af Assur till dem, så att deras händer styrkta vordo i verket på Guds hus, den Israels Gud är.
 
 ### Chapter 7
 
@@ -25252,7 +25252,7 @@
 
 **[7:27]** Lofvad vare Herren våra fäders Gud, som sådant Konungenom ingifvit hafver, att han skulle bepryda Herrans hus i Jerusalem;
 
-**[7:28]** Och tillböjt sina barmhertighet till mig, för Konungenom, och hans rådherrar, och alla Konungens väldiga. Och jag vardt styrkt efter Herrans mins Guds hand öfver mig, och församlade de yppersta i Israels hus, att de med mig ditupp drogo.  
+**[7:28]** Och tillböjt sina barmhertighet till mig, för Konungenom, och hans rådherrar, och alla Konungens väldiga. Och jag vardt styrkt efter Herrans mins Guds hand öfver mig, och församlade de yppersta i Israels hus, att de med mig ditupp drogo.
 
 ### Chapter 8
 
@@ -25326,7 +25326,7 @@
 
 **[8:35]** Och fängelsens barn, som utu fängelset komne voro, offrade bränneoffer Israels Gudi, tolf stutar för hela Israel, sex och niotio vädrar, sju och sjutio lamb, tolf bockar till syndoffer; alltsammans till bränneoffer Herranom.
 
-**[8:36]** Och de antvardade Konungens befallning Konungens ämbetsmän och landshöfdingom på denne sidon älfven; och de upphöjde folket, och Guds hus.  
+**[8:36]** Och de antvardade Konungens befallning Konungens ämbetsmän och landshöfdingom på denne sidon älfven; och de upphöjde folket, och Guds hus.
 
 ### Chapter 9
 
@@ -25358,7 +25358,7 @@
 
 **[9:14]** Men vi hafve vändt oss om, och låtit din bud fara, så att vi hafve befryndat oss med desso styggelsens folke; vill du då vred vara öfver oss, tilldess det allt ute är, så att intet qvart blifver, eller ingen förlossning mer är?
 
-**[9:15]** Herre, Israels Gud, du äst rättfärdig, ty vi äre igenblefne och behållne, såsom det i denna dag för ögon är; si, vi äre för dig uti vår skuld; ty fördenskull kan man intet blifva ståndandes för dig.  
+**[9:15]** Herre, Israels Gud, du äst rättfärdig, ty vi äre igenblefne och behållne, såsom det i denna dag för ögon är; si, vi äre för dig uti vår skuld; ty fördenskull kan man intet blifva ståndandes för dig.
 
 ### Chapter 10
 
@@ -25448,7 +25448,7 @@
 
 **[10:43]** Ibland Nebo barn: Jegiel, Mattithia, Sabad, Sebina, Jaddai, Joel och Benaja.
 
-**[10:44]** Desse hade alle tagit främmande hustrur; och voro somlige ibland de samma hustrur, som barn födt hade.   
+**[10:44]** Desse hade alle tagit främmande hustrur; och voro somlige ibland de samma hustrur, som barn födt hade.
 
 ## Nehemiah
 
@@ -25474,7 +25474,7 @@
 
 **[1:10]** De äro dock dine tjenare, och ditt folk, som du förlossat hafver, igenom dina stora kraft och mägtiga hand.
 
-**[1:11]** Ack! Herre, låt din öron höra till din tjenares bön, och till dina tjenares bön, som begära frukta ditt Namn; och låt lyckosamliga tillgå i dag med dinom tjenare, och gif honom barmhertighet för denna mannenom. Ty jag var Konungens skänk.  
+**[1:11]** Ack! Herre, låt din öron höra till din tjenares bön, och till dina tjenares bön, som begära frukta ditt Namn; och låt lyckosamliga tillgå i dag med dinom tjenare, och gif honom barmhertighet för denna mannenom. Ty jag var Konungens skänk.
 
 ### Chapter 2
 
@@ -25516,7 +25516,7 @@
 
 **[2:19]** Då nu Saneballat den Horoniten, och Tobia tjenaren, den Ammoniten, och Gesem den Araben, hörde det, begabbade de oss, och föraktade oss, och sade: Hvad är det I gören? Viljen I åter falla af ifrå Konungenom?
 
-**[2:20]** Då svarade jag dem, och sade: Gud af himmelen gifver oss lycko; ty vi hans tjenare hafve uppe varit, och byggom; men I hafven ingen del eller rätt, eller åminnelse i Jerusalem.  
+**[2:20]** Då svarade jag dem, och sade: Gud af himmelen gifver oss lycko; ty vi hans tjenare hafve uppe varit, och byggom; men I hafven ingen del eller rätt, eller åminnelse i Jerusalem.
 
 ### Chapter 3
 
@@ -25582,7 +25582,7 @@
 
 **[3:31]** Efter honom byggde Malchija guldsmedssonen, allt intill de Nethinims och krämares hus, emot rådsporten, och intill hörnsalen.
 
-**[3:32]** Och emellan hörnsalen allt intill fåraporten byggde guldsmederna och krämarena.  
+**[3:32]** Och emellan hörnsalen allt intill fåraporten byggde guldsmederna och krämarena.
 
 ### Chapter 4
 
@@ -25630,7 +25630,7 @@
 
 **[4:22]** Ock sade jag på den tiden till folket: Hvar och en blifve med sinom dräng öfver natten i Jerusalem, att vi om nattena tage vara på vaktena, och om dagen på arbetet.
 
-**[4:23]** Men jag och mine bröder, och mine tjenare, och de män i vaktene efter mig, drogo intet vår kläder af, när någor i vattnet gick.  
+**[4:23]** Men jag och mine bröder, och mine tjenare, och de män i vaktene efter mig, drogo intet vår kläder af, när någor i vattnet gick.
 
 ### Chapter 5
 
@@ -25670,7 +25670,7 @@
 
 **[5:18]** Och man måste beställa mig om dagen en oxa, och sex utvald får, och foglar, och ju i tio dagar allahanda vin tillfyllest. Likväl äskade jag intet höfdingakosten; förty tungen var svår på folkena.
 
-**[5:19]** Min Gud, betänk mig till godo allt det jag desso folkena gjorde.  
+**[5:19]** Min Gud, betänk mig till godo allt det jag desso folkena gjorde.
 
 ### Chapter 6
 
@@ -25710,7 +25710,7 @@
 
 **[6:18]** Ty de voro månge i Juda, som honom besvorne voro; förty han var Sechania svåger, Arahs sons; och hans son Johanan hade Mesullams dotter, Berechia sons.
 
-**[6:19]** Och de talade godt om honom för mig, och förde mitt tal ut för honom. Så sände nu Tobia bref till att afskräcka mig.  
+**[6:19]** Och de talade godt om honom för mig, och förde mitt tal ut för honom. Så sände nu Tobia bref till att afskräcka mig.
 
 ### Chapter 7
 
@@ -25858,7 +25858,7 @@
 
 **[7:72]** Och det andra folket gaf tjugutusend gylden, och tutusend pund silfver, och sju och sextio Prestakjortlar.
 
-**[7:73]** Och Presterna, och Leviterna, och dörravaktarena, sångare, och somlige af folket, och de Nethinim, och hele Israel, satte sig uti sina städer.  
+**[7:73]** Och Presterna, och Leviterna, och dörravaktarena, sångare, och somlige af folket, och de Nethinim, och hele Israel, satte sig uti sina städer.
 
 ### Chapter 8
 
@@ -25896,7 +25896,7 @@
 
 **[8:17]** Och hela menigheten af dem, som af fängelset igenkomne voro, gjorde löfhyddor, och bodde deruti; ty Israels barn hade ifrå Josua, Nuns sons, tid, allt intill denna dag, intet så gjort; och var en ganska stor glädje.
 
-**[8:18]** Och vardt hvar dag läset i Guds lagbok, ifrå första dagen allt intill den yttersta; och de höllo den högtiden i sju dagar; och på åttonde dagen församlingenes dag, såsom det borde sig.  
+**[8:18]** Och vardt hvar dag läset i Guds lagbok, ifrå första dagen allt intill den yttersta; och de höllo den högtiden i sju dagar; och på åttonde dagen församlingenes dag, såsom det borde sig.
 
 ### Chapter 9
 
@@ -25974,7 +25974,7 @@
 
 **[9:37]** Och dess årsväxt förökar sig Konungomen, som du öfver oss satt hafver för våra synders skull; och de råda öfver våra kroppar och vår boskap, efter sin vilja; och vi äre i stor nöd.
 
-**[9:38]** Och i allt detta göre vi nu ett fast förbund, och skrifvom, och låte våra Förstar, Leviter och Prester besegla det.  
+**[9:38]** Och i allt detta göre vi nu ett fast förbund, och skrifvom, och låte våra Förstar, Leviter och Prester besegla det.
 
 ### Chapter 10
 
@@ -26054,7 +26054,7 @@
 
 **[10:38]** Och Presten Aarons son skall ock del hafva af Leviternas tiond, med Leviterna; så att Leviterna skola bära tionden af sine tiond upp till vår Guds hus, i kistorna, uti skatthuset.
 
-**[10:39]** Ty Israels barn, och Levi barn, skola bära häfoffret af säd, vin och oljo, upp i kistorna. Dersammastäds äro helgedomens kärile, och Presterna, som der tjena, och dörravaktare, och sångare; att vi vår Guds hus icke öfvergifve.  
+**[10:39]** Ty Israels barn, och Levi barn, skola bära häfoffret af säd, vin och oljo, upp i kistorna. Dersammastäds äro helgedomens kärile, och Presterna, som der tjena, och dörravaktare, och sångare; att vi vår Guds hus icke öfvergifve.
 
 ### Chapter 11
 
@@ -26128,7 +26128,7 @@
 
 **[11:35]** Lod, Ono, i timberdalenom.
 
-**[11:36]** Och somlige Leviterna, som del hade i Juda, bodde ibland BenJamin.  
+**[11:36]** Och somlige Leviterna, som del hade i Juda, bodde ibland BenJamin.
 
 ### Chapter 12
 
@@ -26224,7 +26224,7 @@
 
 **[12:46]** Förty i Davids och Assaphs tid vordo stiktade öfverste sångare, och lofsånger, och tacksägningar till Gud.
 
-**[12:47]** Men hele Israel gaf sångarena och dörravaktarena delar uti Serubbabels och Nehemia tid, hvar dagen sin del. Och de gåfvo af det helgada Levitomen; och Leviterna gåfvo Aarons barnom af det helgada.  
+**[12:47]** Men hele Israel gaf sångarena och dörravaktarena delar uti Serubbabels och Nehemia tid, hvar dagen sin del. Och de gåfvo af det helgada Levitomen; och Leviterna gåfvo Aarons barnom af det helgada.
 
 ### Chapter 13
 
@@ -26288,7 +26288,7 @@
 
 **[13:30]** Alltså renade jag dem ifrån alla utländska; och beställde Presternas och Leviternas vakt, hvar och en till sitt ämbete;
 
-**[13:31]** Och till att offra ved, på bestämd tid, och förstling. Tänk uppå mig, Gud, till det bästa.   
+**[13:31]** Och till att offra ved, på bestämd tid, och förstling. Tänk uppå mig, Gud, till det bästa.
 
 ## Esther
 
@@ -26336,7 +26336,7 @@
 
 **[1:21]** Detta täcktes Konungenom och Förstarna; och Konungen gjorde efter Memuchans ord.
 
-**[1:22]** Då vordo bref utsänd i all Konungens land, i hvart landet efter dess skrift, och till hvart folk efter dess tungomål, att hvar och en man skulle vara husbonde i sitt hus; och lät tala efter sins folks tungomål.  
+**[1:22]** Då vordo bref utsänd i all Konungens land, i hvart landet efter dess skrift, och till hvart folk efter dess tungomål, att hvar och en man skulle vara husbonde i sitt hus; och lät tala efter sins folks tungomål.
 
 ### Chapter 2
 
@@ -26384,7 +26384,7 @@
 
 **[2:22]** Det förnam Mardechai, och lät Drottningena Esther få veta det; och Esther sade det för Konungenom, på Mardechai vägnar.
 
-**[2:23]** Och då man ransakade derefter, vardt det så funnet; och de vordo både hängde i trän; och det vardt beskrifvet i Chrönicon för Konungenom.  
+**[2:23]** Och då man ransakade derefter, vardt det så funnet; och de vordo både hängde i trän; och det vardt beskrifvet i Chrönicon för Konungenom.
 
 ### Chapter 3
 
@@ -26416,7 +26416,7 @@
 
 **[3:14]** Alltså höll brefvet inne, att ett båd utgånget var i all land, till att förkunna all folk, att de på den samma dagen skulle redo vara.
 
-**[3:15]** Och båden gingo ut med hast, efter Konungens befallning, och i staden Susan vardt uppslaget ett påbud; och Konungen och Haman såto och drucko; och staden Susan vardt bekymrad.  
+**[3:15]** Och båden gingo ut med hast, efter Konungens befallning, och i staden Susan vardt uppslaget ett påbud; och Konungen och Haman såto och drucko; och staden Susan vardt bekymrad.
 
 ### Chapter 4
 
@@ -26452,7 +26452,7 @@
 
 **[4:16]** Så gack nu bort, och församla alla Judar, som i Susan för handene äro; och faster för mig, så att I icke äten eller dricken i tre dygn, hvarken dag eller natt; jag och mina tjenarinnor vilje också fasta; och så vill jag gå in för Konungen, emot budet; blifver jag borto, så är jag borto.
 
-**[4:17]** Mardechai gick bort, och gjorde alltså, som Esther honom budit hade.  
+**[4:17]** Mardechai gick bort, och gjorde alltså, som Esther honom budit hade.
 
 ### Chapter 5
 
@@ -26482,7 +26482,7 @@
 
 **[5:13]** Men med detta allt kan jag intet vara tillfrids, så länge jag ser den Judan Mardechai sitta för Konungens dörr.
 
-**[5:14]** Då sade till honom hans hustru Seres, och alle hans vänner: Låt uppresa en galga, femtio alnar hög, och säg i morgon Konungenom, att man låter hänga der Mardechai uti; så kommer du med Konungenom glad till måltid. Det täcktes Haman väl, och han lät uppresa en galga.  
+**[5:14]** Då sade till honom hans hustru Seres, och alle hans vänner: Låt uppresa en galga, femtio alnar hög, och säg i morgon Konungenom, att man låter hänga der Mardechai uti; så kommer du med Konungenom glad till måltid. Det täcktes Haman väl, och han lät uppresa en galga.
 
 ### Chapter 6
 
@@ -26512,7 +26512,7 @@
 
 **[6:13]** Och förtäljde sine hustru Seres, och allom sinom vännom, allt det honom händt hade. Då sade till honom hans vise, och hans hustru Seres: Är Mardechai af Juda säd, för hvilkom du hafver begynt att falla, så hafver du ingen magt med honom, utan du måste falla för honom.
 
-**[6:14]** Vid de ännu med honom talade, kommo Konungens kamererare dertill, och hastade på Haman, till att komma till måltidena, som Esther tillredt hade.  
+**[6:14]** Vid de ännu med honom talade, kommo Konungens kamererare dertill, och hastade på Haman, till att komma till måltidena, som Esther tillredt hade.
 
 ### Chapter 7
 
@@ -26534,7 +26534,7 @@
 
 **[7:9]** Och Harbona, en af kamererarena inför Konungenom, sade: Si, uti Hamans hus står en galge femtio alnar hög, som han till Mardechai gjort hafver, hvilken för Konungenom godt talat hafver. Konungen sade: Låt hänga honom deruti.
 
-**[7:10]** Alltså hängde man Haman i galgan, som han till Mardechai gjort hade. Sedan saktade sig Konungens vrede.  
+**[7:10]** Alltså hängde man Haman i galgan, som han till Mardechai gjort hade. Sedan saktade sig Konungens vrede.
 
 ### Chapter 8
 
@@ -26570,7 +26570,7 @@
 
 **[8:16]** Men Judomen var uppgånget ljus och fröjd, glädje och ära.
 
-**[8:17]** Och i all land och städer, dit Konungens ord och bud räckte, der vardt ibland Judarna fröjd, glädje, lust och goda dagar; så att månge af folken i landen vordo Judar; ty Judarnas fruktan kom öfver dem.  
+**[8:17]** Och i all land och städer, dit Konungens ord och bud räckte, der vardt ibland Judarna fröjd, glädje, lust och goda dagar; så att månge af folken i landen vordo Judar; ty Judarnas fruktan kom öfver dem.
 
 ### Chapter 9
 
@@ -26636,7 +26636,7 @@
 
 **[9:31]** Att de skulle hålla dessa dagar Purim på deras bestämda tid, såsom Mardechai den Juden, och Drottningen Esther dem förelagt hade; såsom de uppå sina själar och uppå sina säd anammat hade det ärendet om fastone och ropet.
 
-**[9:32]** Och Esther befallde stadfästa detta ärendet om Purim, och skrifva uti en bok.  
+**[9:32]** Och Esther befallde stadfästa detta ärendet om Purim, och skrifva uti en bok.
 
 ### Chapter 10
 
@@ -26644,7 +26644,7 @@
 
 **[10:2]** Men allt det under hans våld och magt skedde, och om den stora härlighet, som Konungen gaf Mardechai, si, det är skrifvet uti de Konungars Chrönico i Meden och Persien.
 
-**[10:3]** Ty Mardechai den Juden var den andre näst Konungenom Ahasveros, och stor ibland Judarna, och täck för alla sina bröder; den der sökte det godt var för sitt folk, och talade det bästa för allo sino säd.   
+**[10:3]** Ty Mardechai den Juden var den andre näst Konungenom Ahasveros, och stor ibland Judarna, och täck för alla sina bröder; den der sökte det godt var för sitt folk, och talade det bästa för allo sino säd.
 
 ## Job
 
@@ -26692,7 +26692,7 @@
 
 **[1:21]** Och sade: Jag är naken kommen af mine moders lif; naken skall jag åter fara dit; Herren gaf, och Herren tog; välsignadt vare Herrans Namn.
 
-**[1:22]** I allt detta syndade Job intet, och gjorde intet dårligit emot Gud.  
+**[1:22]** I allt detta syndade Job intet, och gjorde intet dårligit emot Gud.
 
 ### Chapter 2
 
@@ -26720,7 +26720,7 @@
 
 **[2:12]** Och då de upphofvo sin ögon långt ifrå, kände de honom intet; och upphofvo sina röst, och greto, och hvardera ref sin kläder sönder, och kastade jord på sin hufvud upp åt himmelen;
 
-**[2:13]** Och såto med honom på jordene i sju dagar och sju nätter, och talade intet med honom; ty de sågo, att hans sveda var ganska stor.  
+**[2:13]** Och såto med honom på jordene i sju dagar och sju nätter, och talade intet med honom; ty de sågo, att hans sveda var ganska stor.
 
 ### Chapter 3
 
@@ -26774,7 +26774,7 @@
 
 **[3:25]** Ty det jag fruktade, det är kommet öfver mig; och det jag räddes, hafver råkat på mig.
 
-**[3:26]** Var jag icke lyckosam? Var jag icke stilla? Hade jag icke goda ro? Och sådana oro kommer.  
+**[3:26]** Var jag icke lyckosam? Var jag icke stilla? Hade jag icke goda ro? Och sådana oro kommer.
 
 ### Chapter 4
 
@@ -26818,7 +26818,7 @@
 
 **[4:20]** Det varar ifrå morgonen intill aftonen, så varda de upphuggne; och förr än de varda det varse, äro de platt borto;
 
-**[4:21]** Och deras käraste förgås; och dö ock oförvarandes.  
+**[4:21]** Och deras käraste förgås; och dö ock oförvarandes.
 
 ### Chapter 5
 
@@ -26874,7 +26874,7 @@
 
 **[5:26]** Och skall i ålderdomen komma till grafva, såsom en hvetekärfve införd varder, i rättom tid.
 
-**[5:27]** Si, det hafve vi ransakat, och det är så; hör dertill, och rätta dig derefter.  
+**[5:27]** Si, det hafve vi ransakat, och det är så; hör dertill, och rätta dig derefter.
 
 ### Chapter 6
 
@@ -26936,7 +26936,7 @@
 
 **[6:29]** Svarer hvad som rätt är; min svar skola väl blifva rätt.
 
-**[6:30]** Hvad gäller, min tunga hafver icke orätt, och min mun föregifver icke ondt.  
+**[6:30]** Hvad gäller, min tunga hafver icke orätt, och min mun föregifver icke ondt.
 
 ### Chapter 7
 
@@ -26980,7 +26980,7 @@
 
 **[7:20]** Hafver jag syndat, hvad skall jag göra dig, o du menniskors gömmare? Hvi gjorde du mig, att jag uppå dig stöta skulle, och är mig sjelfvom till tunga?
 
-**[7:21]** Och hvi förlåter du mig icke mina missgerning, och tager icke bort mina synd? Ty nu skall jag lägga mig i mull; och när man om morgonen söker mig, är jag då intet till.  
+**[7:21]** Och hvi förlåter du mig icke mina missgerning, och tager icke bort mina synd? Ty nu skall jag lägga mig i mull; och när man om morgonen söker mig, är jag då intet till.
 
 ### Chapter 8
 
@@ -27026,7 +27026,7 @@
 
 **[8:21]** Tilldess din mun varder full med löje, och dine läppar fulle med fröjd.
 
-**[8:22]** Men de, som dig hata, skola komma på skam, och de ogudaktigas boning skall icke blifva beståndandes.  
+**[8:22]** Men de, som dig hata, skola komma på skam, och de ogudaktigas boning skall icke blifva beståndandes.
 
 ### Chapter 9
 
@@ -27098,7 +27098,7 @@
 
 **[9:34]** Han tage sitt ris ifrå mig, och låte sin förskräckelse komma ifrå mig;
 
-**[9:35]** Att jag må tala, och icke mer torf frukta för honom; ty jag vet mig oskyldig.  
+**[9:35]** Att jag må tala, och icke mer torf frukta för honom; ty jag vet mig oskyldig.
 
 ### Chapter 10
 
@@ -27144,7 +27144,7 @@
 
 **[10:21]** Förr än jag går bort, och kommer intet igen, nämliga i mörkrens och töcknones land?
 
-**[10:22]** Det ett land är, hvilkets ljus är tjocka mörkret, och der som ingen skickelighet är; der skenet är såsom en töckna.  
+**[10:22]** Det ett land är, hvilkets ljus är tjocka mörkret, och der som ingen skickelighet är; der skenet är såsom en töckna.
 
 ### Chapter 11
 
@@ -27186,7 +27186,7 @@
 
 **[11:19]** Och du skulle lägga dig, och ingen skulle rädda dig; och månge skulle knekta dig.
 
-**[11:20]** Men de ogudaktigas ögon skola försmäkta, och skola icke undkomma kunna; ty deras hopp skall fela deras själ.  
+**[11:20]** Men de ogudaktigas ögon skola försmäkta, och skola icke undkomma kunna; ty deras hopp skall fela deras själ.
 
 ### Chapter 12
 
@@ -27238,7 +27238,7 @@
 
 **[12:24]** Han förvänder hjertat i öfverstarna för folket i landena, och låter dem fara ville i vildmarkene, der ingen väg är;
 
-**[12:25]** Att de famla i mörkret utan ljus, och förvillar dem såsom de druckna.  
+**[12:25]** Att de famla i mörkret utan ljus, och förvillar dem såsom de druckna.
 
 ### Chapter 13
 
@@ -27296,7 +27296,7 @@
 
 **[13:27]** Du hafver satt min fot i en stock, och gifver akt på alla mina stigar, och ser på all min fotspår;
 
-**[13:28]** Jag, som dock förgås som ett ruttet as, och som ett kläde, det ätet varder af mal.  
+**[13:28]** Jag, som dock förgås som ett ruttet as, och som ett kläde, det ätet varder af mal.
 
 ### Chapter 14
 
@@ -27342,7 +27342,7 @@
 
 **[14:21]** Äro hennes barn i äro, det vet hon icke; eller om de äro föraktelige, det förnimmer hon intet.
 
-**[14:22]** Medan hon är i köttena, måste hon hafva sveda; och medan hennes själ är än när henne, måste hon lida vedermödo.  
+**[14:22]** Medan hon är i köttena, måste hon hafva sveda; och medan hennes själ är än när henne, måste hon lida vedermödo.
 
 ### Chapter 15
 
@@ -27414,7 +27414,7 @@
 
 **[15:34]** Ty de skrymtares församling skall blifva ensam, och elden skall förtära hans hus, som gåfvor tager.
 
-**[15:35]** Han anar olycko, och föder vedermödo; och deras buk bär list fram.  
+**[15:35]** Han anar olycko, och föder vedermödo; och deras buk bär list fram.
 
 ### Chapter 16
 
@@ -27460,7 +27460,7 @@
 
 **[16:21]** Om en man kunde gå till rätta med Gud, såsom menniskors barn med sin nästa.
 
-**[16:22]** Men de förelagda år äro komne; och jag går den vägen bort, den jag aldrig igen kommer.  
+**[16:22]** Men de förelagda år äro komne; och jag går den vägen bort, den jag aldrig igen kommer.
 
 ### Chapter 17
 
@@ -27494,7 +27494,7 @@
 
 **[17:15]** Efter hvad skall jag bida? Och ho aktar mitt hopp?
 
-**[17:16]** Neder i helvetet varder det farandes, och varder med mig liggandes i mullene.  
+**[17:16]** Neder i helvetet varder det farandes, och varder med mig liggandes i mullene.
 
 ### Chapter 18
 
@@ -27538,7 +27538,7 @@
 
 **[18:20]** De som efter honom komma, skola gifva sig öfver hans dag; och dem, som för honom äro, skall fruktan uppå komma.
 
-**[18:21]** Detta är dens orättfärdigas boning; och detta är rummet till honom, som intet vet af Gudi.  
+**[18:21]** Detta är dens orättfärdigas boning; och detta är rummet till honom, som intet vet af Gudi.
 
 ### Chapter 19
 
@@ -27598,7 +27598,7 @@
 
 **[19:28]** Ty I sägen: Huru skole vi förfölja honom, och finna en sak emot honom?
 
-**[19:29]** Frukter eder för svärdet; förty svärdet är en hämnd öfver missgerningar; på det I veta mågen, att näpst är till.  
+**[19:29]** Frukter eder för svärdet; förty svärdet är en hämnd öfver missgerningar; på det I veta mågen, att näpst är till.
 
 ### Chapter 20
 
@@ -27658,7 +27658,7 @@
 
 **[20:28]** Hans säd i hans huse skall bortförd varda, förspilld uti hans vredes dag.
 
-**[20:29]** Detta är en ogudaktigs menniskos lön när Gudi, och hans ords arf när Gudi.  
+**[20:29]** Detta är en ogudaktigs menniskos lön när Gudi, och hans ords arf när Gudi.
 
 ### Chapter 21
 
@@ -27728,7 +27728,7 @@
 
 **[21:33]** Bäckaslem behagar honom väl, och alla menniskor varda dragna efter honom; och uppå dem, som för honom varit hafva, är intet tal.
 
-**[21:34]** Huru trösten I mig så fåfängt, och edor svar finnas dock orätt?  
+**[21:34]** Huru trösten I mig så fåfängt, och edor svar finnas dock orätt?
 
 ### Chapter 22
 
@@ -27790,7 +27790,7 @@
 
 **[22:29]** Förty de som sig ödmjuka, dem upphöjer han; och den som sin ögon nederslår, han skall blifva frälst;
 
-**[22:30]** Och den oskyldige skall hulpen varda; för sina händers renhets skull skall han hulpen varda.  
+**[22:30]** Och den oskyldige skall hulpen varda; för sina händers renhets skull skall han hulpen varda.
 
 ### Chapter 23
 
@@ -27826,7 +27826,7 @@
 
 **[23:16]** Gud hafver gjort mitt hjerta blödigt, och den Allsmägtige hafver mig förskräckt;
 
-**[23:17]** Ty mörkret vänder icke åter med mig, och mörker vill för mig intet bortgömdt varda.  
+**[23:17]** Ty mörkret vänder icke åter med mig, och mörker vill för mig intet bortgömdt varda.
 
 ### Chapter 24
 
@@ -27878,7 +27878,7 @@
 
 **[24:24]** De äro en liten tid upphäfne; men de varda omintet, och undertryckte, och taga en ända såsom all ting; och såsom agnar på axen skola de afslagne varda.
 
-**[24:25]** Är det icke så? Nu väl, ho vill straffa mig för lögn, och göra min ord om intet?  
+**[24:25]** Är det icke så? Nu väl, ho vill straffa mig för lögn, och göra min ord om intet?
 
 ### Chapter 25
 
@@ -27892,7 +27892,7 @@
 
 **[25:5]** Si månen skin icke ännu, och stjernorna äro ännu icke rena för hans ögon;
 
-**[25:6]** Huru mycket mindre en menniska, den malen, och ens menniskos barn, den matken?  
+**[25:6]** Huru mycket mindre en menniska, den malen, och ens menniskos barn, den matken?
 
 ### Chapter 26
 
@@ -27922,7 +27922,7 @@
 
 **[26:13]** På himmelen varder det klart igenom hans väder, och hans hand drifver bort hvalfisken.
 
-**[26:14]** Si, alltså går det till med hans gerningar; men hvad besynnerligit hafve vi derutinnan hört? Ho kan förstå hans magts dunder?  
+**[26:14]** Si, alltså går det till med hans gerningar; men hvad besynnerligit hafve vi derutinnan hört? Ho kan förstå hans magts dunder?
 
 ### Chapter 27
 
@@ -27970,7 +27970,7 @@
 
 **[27:22]** Detta skall han låta komma öfver honom, och skall intet skona honom; allt skall det gå honom ifrå hända.
 
-**[27:23]** Man skall klappa händer tillhopa öfver honom, och hvissla öfver honom, der han varit hafver.  
+**[27:23]** Man skall klappa händer tillhopa öfver honom, och hvissla öfver honom, der han varit hafver.
 
 ### Chapter 28
 
@@ -28028,7 +28028,7 @@
 
 **[28:27]** Då såg han henne, och räknade henne; tillredde henne, och fann henne;
 
-**[28:28]** Och sade till menniskona: Si, Herrans fruktan är vishet; och fly det onda är förståndighet.  
+**[28:28]** Och sade till menniskona: Si, Herrans fruktan är vishet; och fly det onda är förståndighet.
 
 ### Chapter 29
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** Om jag log till dem, förläto de sig intet deruppå; och torde intet bedröfva mig.
 
-**[29:25]** När jag ville komma till deras handlingar, så måste jag sitta främst; och bodde såsom en Konung ibland krigsfolk, då jag hugsvalade dem som sorgfulle voro.  
+**[29:25]** När jag ville komma till deras handlingar, så måste jag sitta främst; och bodde såsom en Konung ibland krigsfolk, då jag hugsvalade dem som sorgfulle voro.
 
 ### Chapter 30
 
@@ -28144,7 +28144,7 @@
 
 **[30:30]** Min hud öfver mig är svart vorden, och min ben är förtorkad af hetta.
 
-**[30:31]** Min harpa är vorden en klagan, och min pipa en gråt.  
+**[30:31]** Min harpa är vorden en klagan, och min pipa en gråt.
 
 ### Chapter 31
 
@@ -28226,7 +28226,7 @@
 
 **[31:39]** Hafver jag dess frukt obetalad ätit, och gjort åkermännernas lefverne tungt;
 
-**[31:40]** Så växe mig tistel för hvete, och törne för bjugg. En ända hafva Jobs ord.  
+**[31:40]** Så växe mig tistel för hvete, och törne för bjugg. En ända hafva Jobs ord.
 
 ### Chapter 32
 
@@ -28272,7 +28272,7 @@
 
 **[32:21]** Jag vill på ingens person se, och ingo mennisko till vilja tala;
 
-**[32:22]** Förty jag vet icke, om jag så gjorde, om min skapare innan en kort tid mig borttagandes vorde.  
+**[32:22]** Förty jag vet icke, om jag så gjorde, om min skapare innan en kort tid mig borttagandes vorde.
 
 ### Chapter 33
 
@@ -28340,7 +28340,7 @@
 
 **[33:32]** Men hafver du något att tala, så svara mig. Säg, äst du rättfärdig; jag vill gerna hörat.
 
-**[33:33]** Hafver du ock intet, så hör mig, och tig; jag vill lära dig visdom.  
+**[33:33]** Hafver du ock intet, så hör mig, och tig; jag vill lära dig visdom.
 
 ### Chapter 34
 
@@ -28416,7 +28416,7 @@
 
 **[34:36]** Min Fader, låt Job försökt varda allt intill ändan, derföre att han vänder sig till orättfärdiga menniskor.
 
-**[34:37]** Han hafver utöfver sina synd ännu dertill hädat; derföre låt honom inför oss slagen varda; och träte sedan med sinom ordom inför Gud.  
+**[34:37]** Han hafver utöfver sina synd ännu dertill hädat; derföre låt honom inför oss slagen varda; och träte sedan med sinom ordom inför Gud.
 
 ### Chapter 35
 
@@ -28450,7 +28450,7 @@
 
 **[35:15]** Om hans vrede icke så hastigt hemsöker, och intet sköter, att der så många laster äro,
 
-**[35:16]** Derföre hafver Job fåfängt öppnat sin mun; och gifver onyttig ord före med oförnuft.  
+**[35:16]** Derföre hafver Job fåfängt öppnat sin mun; och gifver onyttig ord före med oförnuft.
 
 ### Chapter 36
 
@@ -28518,7 +28518,7 @@
 
 **[36:32]** Han håller händerna före, och betäcker ljuset, och bjuder thy, att det skall igenkomma.
 
-**[36:33]** Om det samma förkunnar hans herde, och hans boskap om skyn.  
+**[36:33]** Om det samma förkunnar hans herde, och hans boskap om skyn.
 
 ### Chapter 37
 
@@ -28568,7 +28568,7 @@
 
 **[37:23]** Men den Allsmägtiga kunna de intet finna, den så stor är i magtene; ty han måste ingen räkenskap göra af sinom rätt och rättfärdigom sakom.
 
-**[37:24]** Derföre måste menniskorna frukta honom, och han fruktar inga visa.  
+**[37:24]** Derföre måste menniskorna frukta honom, och han fruktar inga visa.
 
 ### Chapter 38
 
@@ -28646,7 +28646,7 @@
 
 **[38:37]** Ho är så vis, att han skyarna räkna kan? Ho kan förstoppa vattuläglarna i himmelen,
 
-**[38:38]** När stoftet är vått vordet, så att det tillhopalöper, och klimparne låda tillsammans?  
+**[38:38]** När stoftet är vått vordet, så att det tillhopalöper, och klimparne låda tillsammans?
 
 **[38:39]** 
 
@@ -28714,7 +28714,7 @@
 
 **[39:29]** Flyger höken genom ditt förstånd, och utbreder sina vingar söderut?
 
-**[39:30]** Flyger örnen så högt af din befallning, att han gör sitt näste i höjdene? I bergklippon bor han, och blifver i bergskrefvom, och i fast rum. Dädan af skådar han efter mat, och hans ögon se långt bort. Hans ungar supa blod, och hvar en åtel är, der är han. Och Herren svarade Job, och sade: Den som vill träta med den Allsmägtiga, skulle han draga sig undan? Och den som vill straffa Gud, måste han icke svara? Job svarade Herranom, och sade: Si, jag hafver bannats, hvad skall jag svara? Jag vill lägga mina hand uppå min mun. Jag hafver en gång talat, derföre vill jag icke mer svara; på en annan tid vill jag icke göra det mer.  
+**[39:30]** Flyger örnen så högt af din befallning, att han gör sitt näste i höjdene? I bergklippon bor han, och blifver i bergskrefvom, och i fast rum. Dädan af skådar han efter mat, och hans ögon se långt bort. Hans ungar supa blod, och hvar en åtel är, der är han. Och Herren svarade Job, och sade: Den som vill träta med den Allsmägtiga, skulle han draga sig undan? Och den som vill straffa Gud, måste han icke svara? Job svarade Herranom, och sade: Si, jag hafver bannats, hvad skall jag svara? Jag vill lägga mina hand uppå min mun. Jag hafver en gång talat, derföre vill jag icke mer svara; på en annan tid vill jag icke göra det mer.
 
 ### Chapter 40
 
@@ -28764,7 +28764,7 @@
 
 **[40:23]** Menar du, att du kan göra ett förbund med honom, att du må hafva honom till en träl evinnerliga?
 
-**[40:24]** Kan du spela med honom såsom med en fogel; eller binda honom dinom pigom? Menar du, att sällskapet skola skära honom sönder, att han blifver utdelad ibland köpmännerna? Kan du fylla ena not med hans hud, och någon fiskaryssjo med hans hufvud? När du kommer dina hand vid honom, så kom ihåg, att det en strid är, den du icke uthålla kan. Si, hans hopp skall fela honom, och han skall uppenbarligen fördrifven varda.  
+**[40:24]** Kan du spela med honom såsom med en fogel; eller binda honom dinom pigom? Menar du, att sällskapet skola skära honom sönder, att han blifver utdelad ibland köpmännerna? Kan du fylla ena not med hans hud, och någon fiskaryssjo med hans hufvud? När du kommer dina hand vid honom, så kom ihåg, att det en strid är, den du icke uthålla kan. Si, hans hopp skall fela honom, och han skall uppenbarligen fördrifven varda.
 
 ### Chapter 41
 
@@ -28816,7 +28816,7 @@
 
 **[41:24]** På jordene kan ingen liknas honom; han är gjord till att vara utan fruktan.
 
-**[41:25]** Han föraktar allt det högt är; han är Konung öfver alla högmodiga.  
+**[41:25]** Han föraktar allt det högt är; han är Konung öfver alla högmodiga.
 
 **[41:26]** 
 
@@ -28870,7 +28870,7 @@
 
 **[42:16]** Och Job lefde derefter hundrade och fyratio år, så att han fick se sin barn och barnabarn, allt intill fjerde led.
 
-**[42:17]** Och Job blef död, gammal och mätt af lefvande.   
+**[42:17]** Och Job blef död, gammal och mätt af lefvande.
 
 ## Psalms
 
@@ -28886,7 +28886,7 @@
 
 **[1:5]** Derföre blifva icke de ogudaktige i domenom, eller syndarena i de rättfärdigas församling.
 
-**[1:6]** Ty Herren känner de rättfärdigas väg; men de ogudaktigas väg förgås.  
+**[1:6]** Ty Herren känner de rättfärdigas väg; men de ogudaktigas väg förgås.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Tjener Herranom med fruktan, och fröjder eder med bäfvande.
 
-**[2:12]** Hyller Sonen, att han icke förtörnas, och I förgås på, vägenom; ty hans vrede skall snart begynna att bränna; men salige äro alle de som trösta på honom.  
+**[2:12]** Hyller Sonen, att han icke förtörnas, och I förgås på, vägenom; ty hans vrede skall snart begynna att bränna; men salige äro alle de som trösta på honom.
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** Jag fruktar mig intet för mång hundrad tusend, de som lägga sig emot mig allt omkring.
 
-**[3:8]** Upp, Herre, och hjelp mig, min Gud; ty du slår alla mina fiendar på kindbenet, och sönderbryter de ogudaktigas tänder. När Herranom finner man hjelp; och din välsignelse öfver ditt folk. Sela.  
+**[3:8]** Upp, Herre, och hjelp mig, min Gud; ty du slår alla mina fiendar på kindbenet, och sönderbryter de ogudaktigas tänder. När Herranom finner man hjelp; och din välsignelse öfver ditt folk. Sela.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** Månge säga: Huru skulle den visa oss hvad godt är? Men upplyft, Herre, öfver oss dins ansigtes ljus.
 
-**[4:8]** Du fröjdar mitt hjerta, ändock de andre mycket vin och korn hafva. Jag ligger och sofver allstinges i frid; ty allena du, Herre, hjelper mig, att jag må säker bo.  
+**[4:8]** Du fröjdar mitt hjerta, ändock de andre mycket vin och korn hafva. Jag ligger och sofver allstinges i frid; ty allena du, Herre, hjelper mig, att jag må säker bo.
 
 ### Chapter 5
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** Döm dem, Gud, att de måga falla af sitt uppsåt; drif dem ut för deras stora öfverträdelses skull; ty de äre dig gensträfvige.
 
-**[5:12]** Låt glädja sig alla dem som trösta uppå dig, evinnerliga låt dem fröjda sig; ty du beskärmar dem; låt dem i dig glade vara, som ditt Namn kärt hafva. Ty du, Herre, välsignar de rättfärdiga; du kröner dem med nåde, såsom med en sköld.  
+**[5:12]** Låt glädja sig alla dem som trösta uppå dig, evinnerliga låt dem fröjda sig; ty du beskärmar dem; låt dem i dig glade vara, som ditt Namn kärt hafva. Ty du, Herre, välsignar de rättfärdiga; du kröner dem med nåde, såsom med en sköld.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** Viker ifrå mig, alle ogerningsmän; ty Herren hörer min gråt.
 
-**[6:10]** Herren hörer mina bön; mina bön anammar Herren. Alle mine fiender komme på skam, och förskräckes svårliga; vände sig tillbaka, och komme på skam hasteliga.  
+**[6:10]** Herren hörer mina bön; mina bön anammar Herren. Alle mine fiender komme på skam, och förskräckes svårliga; vände sig tillbaka, och komme på skam hasteliga.
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** Han hafver grafvit ena grop, och kastat der grant ut, och är i den gropena fallen, som han gjort hade.
 
-**[7:17]** Hans olycka skall uppå hans hufvud komma, och hans arghet uppå hans hjessa falla. Jag tackar Herranom för hans rättfärdighets skull, och vill lofva Herrans Namn, dens Aldrahögstas.  
+**[7:17]** Hans olycka skall uppå hans hufvud komma, och hans arghet uppå hans hjessa falla. Jag tackar Herranom för hans rättfärdighets skull, och vill lofva Herrans Namn, dens Aldrahögstas.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** Får och fä alltsamman; vilddjuren också dertill;
 
-**[8:9]** Foglarna under himmelen, och fiskarna i hafvet, och hvad i hafvena går. Herre, vår Herre, huru härligit är ditt Namn i all land.  
+**[8:9]** Foglarna under himmelen, och fiskarna i hafvet, och hvad i hafvena går. Herre, vår Herre, huru härligit är ditt Namn i all land.
 
 ### Chapter 9
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** Ty han skall icke så allstinges förgäta den fattiga; och de eländas hopp skall icke förtappadt varda evinnerliga.
 
-**[9:20]** Herre, statt upp, att menniskorna icke få öfverhandena; låt alla Hedningar för dig dömda varda. Gif dem, Herre, en mästare, att Hedningarna måga förnimma att de menniskor äro. Sela.  
+**[9:20]** Herre, statt upp, att menniskorna icke få öfverhandena; låt alla Hedningar för dig dömda varda. Gif dem, Herre, en mästare, att Hedningarna måga förnimma att de menniskor äro. Sela.
 
 ### Chapter 10
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** De fattigas trängtan hörer du, Herre; deras hjerta är visst, att ditt öra aktar deruppå;
 
-**[10:18]** Att du skaffar dem faderlösa och fattiga rätt; att menniskan icke mer skall högmodas på jordene.  
+**[10:18]** Att du skaffar dem faderlösa och fattiga rätt; att menniskan icke mer skall högmodas på jordene.
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** Han skall låta regna öfver de ogudaktiga ljungande, eld och svafvel; och skall gifva dem oväder till löna.
 
-**[11:7]** Herren är rättfärdig, och hafver rätthetena kär; derföre, att deras ansigte skådar uppå det rätt är.  
+**[11:7]** Herren är rättfärdig, och hafver rätthetena kär; derföre, att deras ansigte skådar uppå det rätt är.
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Herrans tal är klart, såsom genomluttradt silfver i enom lerdegel, bepröfvadt sju resor.
 
-**[12:8]** Du Herre, bevara dem, och förvara oss för detta slägtet, till evig tid. Ty det varder allestäds fullt med ogudaktiga, der sådana löst folk ibland menniskorna rådande är.  
+**[12:8]** Du Herre, bevara dem, och förvara oss för detta slägtet, till evig tid. Ty det varder allestäds fullt med ogudaktiga, der sådana löst folk ibland menniskorna rådande är.
 
 ### Chapter 13
 
@@ -29180,7 +29180,7 @@
 
 **[13:5]** Att min ovän icke skall berömma sig att han är mig öfvermägtig vorden, och mine motståndare glädja sig att jag nedre ligger.
 
-**[13:6]** Men jag tröstar deruppå, att du så nådelig äst; mitt hjerta gläder sig, att du så gerna hjelper. Jag vill sjunga Herranom, att han så väl emot mig gör.  
+**[13:6]** Men jag tröstar deruppå, att du så nådelig äst; mitt hjerta gläder sig, att du så gerna hjelper. Jag vill sjunga Herranom, att han så väl emot mig gör.
 
 ### Chapter 14
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** I skämmen den fattigas råd; men Gud är hans tröst.
 
-**[14:7]** Ack! att hjelpen af Zion öfver Israel komme, och Herren sitt fångna folk förlossade; så skulle Jacob glad vara, och Israel fröjda sig.  
+**[14:7]** Ack! att hjelpen af Zion öfver Israel komme, och Herren sitt fångna folk förlossade; så skulle Jacob glad vara, och Israel fröjda sig.
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** Den som de ogudaktiga för intet aktar; men dem som Herran frukta, ärar han, den som sinom nästa svär, och håller det;
 
-**[15:5]** Den som icke gifver sina penningar på ocker, och tager icke skänker öfver den oskyldiga. Den det gör, han skall blifva vid sig evinnerliga.  
+**[15:5]** Den som icke gifver sina penningar på ocker, och tager icke skänker öfver den oskyldiga. Den det gör, han skall blifva vid sig evinnerliga.
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** Ty du skall icke låta mina själ uti helvete; och icke tillstädja, att din Helige ser förgängelse.
 
-**[16:11]** Du kungör mig vägen till lifvet; för dig är glädje tillfyllest, och lustigt väsende på dine högra hand evinnerliga.  
+**[16:11]** Du kungör mig vägen till lifvet; för dig är glädje tillfyllest, och lustigt väsende på dine högra hand evinnerliga.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** Ifrå dine hands menniskom, Herre, ifrå denne verldenes menniskom, hvilka sin del hafva medan de lefva; dem du buken fyller med dina håfvor; de der barn nog hafva, och låta sina återlefvor sinom barnom.
 
-**[17:15]** Men jag vill skåda ditt ansigte i rättfärdighet; jag vill mätt varda, när jag uppvakar efter ditt beläte.  
+**[17:15]** Men jag vill skåda ditt ansigte i rättfärdighet; jag vill mätt varda, när jag uppvakar efter ditt beläte.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** Den mig hjelper ifrå mina fiendar, och upphöjer mig ifrå dem, som sätta sig emot mig; du hjelper mig ifrå de vrånga.
 
-**[18:50]** Derföre vill jag tacka dig, Herre, ibland Hedningarna, och lofsjunga dino Namne; Den sinom Konung stor salighet bevisar, och gör sinom smorda godt; David, och hans säd evinnerliga.  
+**[18:50]** Derföre vill jag tacka dig, Herre, ibland Hedningarna, och lofsjunga dino Namne; Den sinom Konung stor salighet bevisar, och gör sinom smorda godt; David, och hans säd evinnerliga.
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** Ho kan märka huru ofta han bryter? Förlåt mig mina hemliga brister.
 
-**[19:14]** Bevara ock din tjenare för de stolta, att de icke få råda öfver mig; så blifver jag utan vank, och oskyldig för stor missgerning. Låt dig täckas mins muns tal, och mins hjertans tankar för dig, Herre, min tröst och min förlossare.  
+**[19:14]** Bevara ock din tjenare för de stolta, att de icke få råda öfver mig; så blifver jag utan vank, och oskyldig för stor missgerning. Låt dig täckas mins muns tal, och mins hjertans tankar för dig, Herre, min tröst och min förlossare.
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** De andre förlåta sig på vagnar och hästar; men vi tänke på Herrans vår Guds Namn.
 
-**[20:9]** De äro nederstötte och fallne; men vi stå upprätte. Hjelp, Herre; Konungen höre oss, när vi rope.  
+**[20:9]** De äro nederstötte och fallne; men vi stå upprätte. Hjelp, Herre; Konungen höre oss, när vi rope.
 
 ### Chapter 21
 
@@ -29444,7 +29444,7 @@
 
 **[21:12]** Ty de tänkte att göra dig ondt, och togo de råd före, som de icke fullborda kunde.
 
-**[21:13]** Ty du skall göra dem till skuldror; med dina strängar skall du emot deras anlete skjuta. Herre, upphöj dig i dine kraft; så vilje vi sjunga och lofva dina magt.  
+**[21:13]** Ty du skall göra dem till skuldror; med dina strängar skall du emot deras anlete skjuta. Herre, upphöj dig i dine kraft; så vilje vi sjunga och lofva dina magt.
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Alle fete på jordene skola äta, och tillbedja; för honom skola knäböja alle de som i stoft ligga, och de der med bekymmer lefva.
 
-**[22:31]** Han skall få ena säd, den honom tjenar; om Herran skall man förkunna intill barnabarn. De skola, komma och predika hans rättfärdighet de folke, som födas skall, att han det gör.  
+**[22:31]** Han skall få ena säd, den honom tjenar; om Herran skall man förkunna intill barnabarn. De skola, komma och predika hans rättfärdighet de folke, som födas skall, att han det gör.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Du bereder till mig ett bord emot mins fiendar; du smörjer mitt hufvud med oljo, och inskänker fullt för mig.
 
-**[23:6]** Godhet och barmhertighet skola följa mig i alla mina lifsdagar; och jag skall blifva i Herrans hus evinnerliga.  
+**[23:6]** Godhet och barmhertighet skola följa mig i alla mina lifsdagar; och jag skall blifva i Herrans hus evinnerliga.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** Görer portarna vida, och dörrarna i verldene höga, att ärones Konung må draga derin.
 
-**[24:10]** Hvilken är den samme ärones Konung? Det är Herren Zebaoth; han är ärones Konung. Sela.  
+**[24:10]** Hvilken är den samme ärones Konung? Det är Herren Zebaoth; han är ärones Konung. Sela.
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Fromhet och rätthet, bevare mig; ty jag förbidar dig.
 
-**[25:22]** Gud löse Israel utaf allo sine nöd.  
+**[25:22]** Gud löse Israel utaf allo sine nöd.
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** Men jag vandrar oskyldeliga; förlös mig, och var mig nådelig.
 
-**[26:12]** Min fot går rätt; i församlingene vill jag lofva dig, Herre.  
+**[26:12]** Min fot går rätt; i församlingene vill jag lofva dig, Herre.
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** Men jag tror dock, att jag se skall Herrans goda, uti de lefvandes lande.
 
-**[27:14]** Förbida Herran; var tröst och oförfärad, och förbida Herran.  
+**[27:14]** Förbida Herran; var tröst och oförfärad, och förbida Herran.
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** Herren är deras starkhet; han är den starke, som sin smorda hjelper.
 
-**[28:9]** Hjelp ditt folk, och välsigna ditt arf, och föd dem, och upphöj dem till evig tid.  
+**[28:9]** Hjelp ditt folk, och välsigna ditt arf, och föd dem, och upphöj dem till evig tid.
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** Herren sitter till att göra ena flod, och Herren blifver en Konung i evighet.
 
-**[29:11]** Herren skall gifva sino folke kraft; Herren skall välsigna sitt folk med frid.  
+**[29:11]** Herren skall gifva sino folke kraft; Herren skall välsigna sitt folk med frid.
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** Hör, Herre, och var mig nådelig; Herre, var min hjelpare.
 
-**[30:12]** Du hafver förvandlat mig min klagan uti fröjd; du hafver afklädt mig min säck, och omgjordat mig med glädje; På det min ära skall lofsjunga dig, och icke tyst varda. Herre, min Gud, jag vill dig tacka i evighet.  
+**[30:12]** Du hafver förvandlat mig min klagan uti fröjd; du hafver afklädt mig min säck, och omgjordat mig med glädje; På det min ära skall lofsjunga dig, och icke tyst varda. Herre, min Gud, jag vill dig tacka i evighet.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Ty jag sade i mine häpenhet: Jag är bortdrifven ifrå dine ögon; likväl hörde du mine böns röst, då jag till dig ropade.
 
-**[31:24]** Älsker Herran, alle hans helige. Herren bevarar de trogna, och vedergäller dem rikeliga, som högmod öfva. Varer tröste och oförfärade, alle I, som Herran förbiden.  
+**[31:24]** Älsker Herran, alle hans helige. Herren bevarar de trogna, och vedergäller dem rikeliga, som högmod öfva. Varer tröste och oförfärade, alle I, som Herran förbiden.
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Den ogudaktige hafver många plågor; men den som hoppas uppå Herran, honom skall barmhertighet omfatta.
 
-**[32:11]** Fröjder eder af Herranom, och varer glade, I rättfärdige; och berömmer eder, alle I fromme.  
+**[32:11]** Fröjder eder af Herranom, och varer glade, I rättfärdige; och berömmer eder, alle I fromme.
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** Ty vårt hjerta gläder sig af honom, och vi hoppes på hans helga Namn.
 
-**[33:22]** Din godhet, Herre, vare öfver oss, såsom vi på dig förtröste.  
+**[33:22]** Din godhet, Herre, vare öfver oss, såsom vi på dig förtröste.
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** Han bevarar honom all hans ben, att icke ett sönderbrutet varder.
 
-**[34:22]** Den ogudaktiga skall det onda dräpa; och de som hata den rättfärdiga, de skola brottslige varda. Herren förlöser sina tjenares själar; och alle de som trösta på honom, skola icke varda brottslige.  
+**[34:22]** Den ogudaktiga skall det onda dräpa; och de som hata den rättfärdiga, de skola brottslige varda. Herren förlöser sina tjenares själar; och alle de som trösta på honom, skola icke varda brottslige.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** Berömme och glädje sig de som mig unna, att jag behåller rätt; och alltid säge: Lofvad vare Herren högeliga, den sinom tjenare godt vill.
 
-**[35:28]** Och min tunga skall tala om dine rättfärdighet, och prisa dig dagliga.  
+**[35:28]** Och min tunga skall tala om dine rättfärdighet, och prisa dig dagliga.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Utbred dina godhet öfver dem som känna dig, och dina rättfärdighet öfver de fromma.
 
-**[36:12]** Låt mig icke undertrampad varda af de stolta, och de ogudaktigas hand omstörte mig icke; Utan låt de ogerningsmän der falla, att de måga bortdrifne varda, och icke bestå kunna.  
+**[36:12]** Låt mig icke undertrampad varda af de stolta, och de ogudaktigas hand omstörte mig icke; Utan låt de ogerningsmän der falla, att de måga bortdrifne varda, och icke bestå kunna.
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** Men Herren hjelper de rättfärdiga; han är deras starkhet i nöd;
 
-**[37:40]** Och Herren skall vara dem biståndig, och hjelpa dem; han skall undsätta dem ifrå de ogudaktiga, och frälsa dem; ty de trösta uppå honom.  
+**[37:40]** Och Herren skall vara dem biståndig, och hjelpa dem; han skall undsätta dem ifrå de ogudaktiga, och frälsa dem; ty de trösta uppå honom.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** Och de mig ondt göra för godt, sätta sig emot mig; derföre, att jag far efter det godt är.
 
-**[38:22]** Förlåt mig icke, Herre; min Gud, var icke långt ifrå mig. Skynda dig till att göra mig bistånd, Herre, min hjelp.  
+**[38:22]** Förlåt mig icke, Herre; min Gud, var icke långt ifrå mig. Skynda dig till att göra mig bistånd, Herre, min hjelp.
 
 ### Chapter 39
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** När du en tuktar för syndenes skull, så varder hans fägring förtärd såsom af mal. Ack! huru platt intet äro dock alla menniskor. Sela.
 
-**[39:13]** Hör mina bön, Herre, och förnim mitt ropande, och tig icke öfver mina tårar; ty jag är en främling för dig, och en gäst såsom alle mine fäder. Håll upp af mig, att jag vederqvicker mig, förr än jag bortfar, och är icke mer här.  
+**[39:13]** Hör mina bön, Herre, och förnim mitt ropande, och tig icke öfver mina tårar; ty jag är en främling för dig, och en gäst såsom alle mine fäder. Håll upp af mig, att jag vederqvicker mig, förr än jag bortfar, och är icke mer här.
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** Förskräcke sig uti sine skam de som öfver mig ropa: Så, så.
 
-**[40:17]** Fröjde sig och vare glade i dig, alle de som fråga efter dig; och de som dina salighet älska, säga alltid: Herren vare högeliga lofvad. Ty jag är fattig och elände, men Herren sörjer för mig. Du äst min hjelpare och förlossare; min Gud, förtöfva icke.  
+**[40:17]** Fröjde sig och vare glade i dig, alle de som fråga efter dig; och de som dina salighet älska, säga alltid: Herren vare högeliga lofvad. Ty jag är fattig och elände, men Herren sörjer för mig. Du äst min hjelpare och förlossare; min Gud, förtöfva icke.
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** Derpå märker jag, att du ett behag till mig hafver, att min fiende icke skall glädja sig öfver mig.
 
-**[41:13]** Men mig uppehåller du för mina fromhets skull, och ställer mig inför ditt ansigte evinnerliga. Lofvad vare Herren, Israels Gud, ifrån nu, allt intill evighet. Amen, Amen.  
+**[41:13]** Men mig uppehåller du för mina fromhets skull, och ställer mig inför ditt ansigte evinnerliga. Lofvad vare Herren, Israels Gud, ifrån nu, allt intill evighet. Amen, Amen.
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** Jag säger till Gud, min klippa: Hvi hafver du förgätit mig? Hvi måste jag gå så sorgse, när min fiende mig tränger?
 
-**[42:11]** Det är såsom ett mord i mina ben, att mine fiender skämma mig; då de dagliga till mig säga: Hvar är nu din Gud? Hvad bedröfvar du dig, min själ, och äst så orolig i mig? Hoppas uppå Gud; ty jag skall ännu tacka honom, att han mitt ansigtes hjelp och min Gud är.  
+**[42:11]** Det är såsom ett mord i mina ben, att mine fiender skämma mig; då de dagliga till mig säga: Hvar är nu din Gud? Hvad bedröfvar du dig, min själ, och äst så orolig i mig? Hoppas uppå Gud; ty jag skall ännu tacka honom, att han mitt ansigtes hjelp och min Gud är.
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** Att jag ingår till Guds altare, till Gud, som min glädje och fröjd är, och tackar dig, Gud, på harpo, min Gud.
 
-**[43:5]** Hvad bedröfvar du dig, min själ, och äst så orolig i mig? Hoppas uppå Gud; ty jag skall ännu tacka honom, att han mitt ansigtes hjelp och min Gud är.  
+**[43:5]** Hvad bedröfvar du dig, min själ, och äst så orolig i mig? Hoppas uppå Gud; ty jag skall ännu tacka honom, att han mitt ansigtes hjelp och min Gud är.
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** Hvi fördöljer du ditt ansigte; och förgäter vårt elände och tvång?
 
-**[44:26]** Ty vår själ är nederböjd till jordena; vår buk låder vid jordena. Statt upp, hjelp oss, och förlös oss, för dina godhets skull.  
+**[44:26]** Ty vår själ är nederböjd till jordena; vår buk låder vid jordena. Statt upp, hjelp oss, och förlös oss, för dina godhets skull.
 
 ### Chapter 45
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** Man förer dem med glädje och gamman, och de gå in i Konungens palats.
 
-**[45:17]** Uti dina fäders stad skall du söner få; dem skall du sätta till Förstar i hela verldene. Jag skall tänka uppå ditt Namn, barn efter barn; derföre skola folken tacka dig alltid och i evighet.  
+**[45:17]** Uti dina fäders stad skall du söner få; dem skall du sätta till Förstar i hela verldene. Jag skall tänka uppå ditt Namn, barn efter barn; derföre skola folken tacka dig alltid och i evighet.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** Den örlig stillar i hela verldene, sönderbryter bågan, sönderbråkar spetsen, och uppbränner vagnarna med eld.
 
-**[46:11]** Varer stilla, och besinner att jag är Gud. Jag skall vinna pris ibland Hedningarna; jag skall vinna pris på jordene. Herren Zebaoth är med oss. Jacobs Gud är vårt beskydd. Sela.  
+**[46:11]** Varer stilla, och besinner att jag är Gud. Jag skall vinna pris ibland Hedningarna; jag skall vinna pris på jordene. Herren Zebaoth är med oss. Jacobs Gud är vårt beskydd. Sela.
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** Ty Gud är Konung på hela jordene. Lofsjunger honom förnufteliga.
 
-**[47:9]** Gud är Konung öfver Hedningarna. Gud sitter på sinom helga stol. Förstarne ibland folken äro församlada till ett folk Abrahams Gudi; ty Gud är fast upphöjd, när herrarna på jordene.  
+**[47:9]** Gud är Konung öfver Hedningarna. Gud sitter på sinom helga stol. Förstarne ibland folken äro församlada till ett folk Abrahams Gudi; ty Gud är fast upphöjd, när herrarna på jordene.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Går omkring Zion och beskåder det; täljer dess torn;
 
-**[48:14]** Gifver granna akt uppå dess murar, och upphöjer dess palats; på det man derom må förkunna för efterkommanderna. Ty denne Guden är vår Gud, alltid och evinnerliga; han förer oss såsom ungdomen.  
+**[48:14]** Gifver granna akt uppå dess murar, och upphöjer dess palats; på det man derom må förkunna för efterkommanderna. Ty denne Guden är vår Gud, alltid och evinnerliga; han förer oss såsom ungdomen.
 
 ### Chapter 49
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** Utan han tröstar på detta goda lefvandet, och prisar det, när en gör sig goda dagar.
 
-**[49:20]** Så fara de efter sina fäder, och få aldrig se ljuset. Korteliga: När en menniska är i värdighet, och hafver icke förstånd, så far hon hädan såsom fä.  
+**[49:20]** Så fara de efter sina fäder, och få aldrig se ljuset. Korteliga: När en menniska är i värdighet, och hafver icke förstånd, så far hon hädan såsom fä.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Märker dock det, I som Gud förgäten, att jag icke en gång bortrycker, och är så ingen förlösare mer.
 
-**[50:23]** Den der tack offrar, han prisar mig; och der är vägen, att jag visar honom Guds salighet.  
+**[50:23]** Den der tack offrar, han prisar mig; och der är vägen, att jag visar honom Guds salighet.
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** Ty du hafver icke lust till offer, eljest ville jag väl gifva dig det; och bränneoffer behaga dig intet.
 
-**[51:19]** De offer, som Gudi behaga, äro en bedröfvad ande. Ett bedröfvadt och förkrossadt hjerta varder du, Gud, icke föraktandes. Gör väl vid Zion, efter dina nåde; uppbygg murarna i Jerusalem. Då skola dig behaga rättfärdighetenes offer, bränneoffer och heloffer; då skall man oxar uppå ditt altare offra.  
+**[51:19]** De offer, som Gudi behaga, äro en bedröfvad ande. Ett bedröfvadt och förkrossadt hjerta varder du, Gud, icke föraktandes. Gör väl vid Zion, efter dina nåde; uppbygg murarna i Jerusalem. Då skola dig behaga rättfärdighetenes offer, bränneoffer och heloffer; då skall man oxar uppå ditt altare offra.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** Och de rättfärdige skola det se, och frukta sig, och skola le åt honom.
 
-**[52:9]** Si, det är den man, som icke höll Gud för sina tröst; utan förlät sig uppå sin stora rikedom, och var mägtig till att göra skada. Men jag skall blifva såsom ett grönt; oliveträ i Guds hus; jag förlåter mig på Guds godhet alltid och förutan ända. Jag tackar dig evinnerliga, ty du kan väl görat, och vill förbida ditt Namn, ty dine helige hafva der fröjd utinnan.  
+**[52:9]** Si, det är den man, som icke höll Gud för sina tröst; utan förlät sig uppå sin stora rikedom, och var mägtig till att göra skada. Men jag skall blifva såsom ett grönt; oliveträ i Guds hus; jag förlåter mig på Guds godhet alltid och förutan ända. Jag tackar dig evinnerliga, ty du kan väl görat, och vill förbida ditt Namn, ty dine helige hafva der fröjd utinnan.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** Vilja då de ogerningsmän icke låta säga sig, de der mitt folk fräta, på det de skola föda sig? Gud åkalla de intet.
 
-**[53:6]** Men der frukta de sig, der intet fruktande är; ty Gud förskingrar de plågares ben. Du gör dem till skam, ty Gud förmår dem. Ack, att den hjelp utaf Zion öfver Israel komma måtte, och Gud sitt fångna folk förlöste; så skulle Jacob fröjda sig, och Israel glad vara.  
+**[53:6]** Men der frukta de sig, der intet fruktande är; ty Gud förskingrar de plågares ben. Du gör dem till skam, ty Gud förmår dem. Ack, att den hjelp utaf Zion öfver Israel komma måtte, och Gud sitt fångna folk förlöste; så skulle Jacob fröjda sig, och Israel glad vara.
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** Si, Gud står med mig; Herren uppehåller mina själ.
 
-**[54:7]** Han skall betala minom fiendom det onda; förstör dem genom dina trohet; Så vill jag göra dig ett glädjeoffer, och tacka, Herre, dino Namne, att det så trösteligit är. Ty du hjelper mig utur all min nöd, att mina ögon måga på mina fiendar lust se.  
+**[54:7]** Han skall betala minom fiendom det onda; förstör dem genom dina trohet; Så vill jag göra dig ett glädjeoffer, och tacka, Herre, dino Namne, att det så trösteligit är. Ty du hjelper mig utur all min nöd, att mina ögon måga på mina fiendar lust se.
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Deras mun är halare än smör, och hafva dock örlig i sinnet; deras ord äro lenare än olja, och äro dock bar svärd.
 
-**[55:23]** Kasta dina omsorg uppå Herran, han skall försörja dig; och skall icke låta den rättfärdiga i oro blifva till evig tid. Men Gud, du skall nederstörta dem uti den djupa kulona; de blodgiruge och falske skola icke komma till sin halfva ålder; men jag hoppas uppå dig.  
+**[55:23]** Kasta dina omsorg uppå Herran, han skall försörja dig; och skall icke låta den rättfärdiga i oro blifva till evig tid. Men Gud, du skall nederstörta dem uti den djupa kulona; de blodgiruge och falske skola icke komma till sin halfva ålder; men jag hoppas uppå dig.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Uppå Gud hoppas jag, och fruktar mig intet; hvad kunna menniskor göra mig?
 
-**[56:13]** Jag hafver gjort dig löfte, Gud, att jag dig tacka vill. Ty du hafver frälst mina själ ifrå döden, mina fötter ifrå fall; att jag må vandra för Gudi uti de lefvandes ljuse.  
+**[56:13]** Jag hafver gjort dig löfte, Gud, att jag dig tacka vill. Ty du hafver frälst mina själ ifrå döden, mina fötter ifrå fall; att jag må vandra för Gudi uti de lefvandes ljuse.
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** Herre, jag vill tacka dig ibland folken; jag vill lofsjunga dig ibland Hedningarna.
 
-**[57:11]** Ty din godhet är så vidt som himmelen är, och din sannfärdighet så vidt som skyarna gå. Upphöj dig, Gud, öfver himmelen, och din ära öfver alla verldena.  
+**[57:11]** Ty din godhet är så vidt som himmelen är, och din sannfärdighet så vidt som skyarna gå. Upphöj dig, Gud, öfver himmelen, och din ära öfver alla verldena.
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** Förr än edor törne på buskanom mogne varda, skall vreden i växtenom bortrycka dem.
 
-**[58:11]** Den rättfärdige skall glädja sig, när han en sådana hämnd ser; och skall två sina fötter uti dens ogudaktigas blod; Att man skall säga: Den rättfärdige måste det ju njuta; Gud är ju ännu domare på jordene.  
+**[58:11]** Den rättfärdige skall glädja sig, när han en sådana hämnd ser; och skall två sina fötter uti dens ogudaktigas blod; Att man skall säga: Den rättfärdige måste det ju njuta; Gud är ju ännu domare på jordene.
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** Låt dem löpa hit och dit efter mat, och tjuta om de icke mätte varda.
 
-**[59:17]** Men jag vill sjunga om dina magt, och lofva om morgonen dina godhet; ty du äst mitt beskärm och tillflykt i mine nöd. Jag vill lofsjunga dig, min tröst; ty du, Gud, äst mitt beskärm, och min gunstige Gud.  
+**[59:17]** Men jag vill sjunga om dina magt, och lofva om morgonen dina godhet; ty du äst mitt beskärm och tillflykt i mine nöd. Jag vill lofsjunga dig, min tröst; ty du, Gud, äst mitt beskärm, och min gunstige Gud.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Ho vill föra mig uti en fast stad? Ho leder mig intill Edom?
 
-**[60:12]** Skall icke du göra det, Gud, som oss bortdrifver; och icke utdrager, Gud, med vår här? Skaffa oss bistånd i nödene; ty menniskors hjelp är fåfäng. Med Gudi vilje vi mägtig ting göra; han skall underträda våra fiendar.  
+**[60:12]** Skall icke du göra det, Gud, som oss bortdrifver; och icke utdrager, Gud, med vår här? Skaffa oss bistånd i nödene; ty menniskors hjelp är fåfäng. Med Gudi vilje vi mägtig ting göra; han skall underträda våra fiendar.
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Du gifver Konungenom långt lif, att hans år vara ifrå slägte till slägte;
 
-**[61:8]** Att han må evigliga för Gudi sittandes blifva. Bevisa honom godhet och trohet, att de bevara honom; Så vill jag lofsjunga dino Namne evinnerliga, att jag må betala mina löften dageliga.  
+**[61:8]** Att han må evigliga för Gudi sittandes blifva. Bevisa honom godhet och trohet, att de bevara honom; Så vill jag lofsjunga dino Namne evinnerliga, att jag må betala mina löften dageliga.
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** Förlåter eder icke uppå orätt och öfvervåld; håller eder icke till sådant, det intet värdt är. Faller eder rikedom till, så lägger icke hjertat deruppå.
 
-**[62:12]** Gud hafver ett ord talat; det hafver jag ofta hört, att Gud allena mägtig är. Och du, Herre, äst nådelig; och lönar hvarjom och enom såsom han förtjenar.  
+**[62:12]** Gud hafver ett ord talat; det hafver jag ofta hört, att Gud allena mägtig är. Och du, Herre, äst nådelig; och lönar hvarjom och enom såsom han förtjenar.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** Men de stå efter mina själ, till att öfverfalla mig; de måste under jordena nederfara.
 
-**[63:11]** De måste falla i svärd, och räfvomen till lott blifva. Men Konungen fröjdar sig i Gudi; den vid honom svär, han skall prisad varda; ty de lögnmunnar skola tillstoppade varda.  
+**[63:11]** De måste falla i svärd, och räfvomen till lott blifva. Men Konungen fröjdar sig i Gudi; den vid honom svär, han skall prisad varda; ty de lögnmunnar skola tillstoppade varda.
 
 ### Chapter 64
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** Deras egen tunga skall fälla dem; så att dem bespotta skall hvar och en, som dem ser.
 
-**[64:10]** Och alla menniskor, som det se, skola frukta sig, och säga: Det hafver Gud gjort; och förmärka, att det är hans gerning. De rättfärdige skola fröjda sig af Herranom, och förtrösta uppå honom, och alla fromma hjertan skola deraf berömma sig.  
+**[64:10]** Och alla menniskor, som det se, skola frukta sig, och säga: Det hafver Gud gjort; och förmärka, att det är hans gerning. De rättfärdige skola fröjda sig af Herranom, och förtrösta uppå honom, och alla fromma hjertan skola deraf berömma sig.
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** Du kröner året med ditt goda, och din fotspår drypa af fetma.
 
-**[65:13]** De boningar i öknena äro ock feta, så att de drypa; och högarna äro allt omkring lustige. Hjordmarken är full med får, och dalarna stå tjockt med säd; så att man glädes dervid, och sjunger.  
+**[65:13]** De boningar i öknena äro ock feta, så att de drypa; och högarna äro allt omkring lustige. Hjordmarken är full med får, och dalarna stå tjockt med säd; så att man glädes dervid, och sjunger.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** Derföre hörer mig Gud, och aktar uppå min bön.
 
-**[66:20]** Lofvad vare Gud, den mina bön icke förkastar, eller vänder sina godhet ifrå mig.  
+**[66:20]** Lofvad vare Gud, den mina bön icke förkastar, eller vänder sina godhet ifrå mig.
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Gud, dig tacke folk; all folk tacke dig.
 
-**[67:7]** Landet gifver sina frukt. Gud, vår Gud välsigna oss. Gud välsigne oss, och all verlden frukte honom.  
+**[67:7]** Landet gifver sina frukt. Gud, vår Gud välsigna oss. Gud välsigne oss, och all verlden frukte honom.
 
 ### Chapter 68
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** Den der vistas i himmelen, allestädes af begynnelsen; si, han skall gifva sino dundre kraft.
 
-**[68:35]** Gifver Gudi magten; hans härlighet är i Israel, och hans magt i skyn. Gud är underlig i sinom helgedom; han är Israels Gud, han skall gifva folkena magt och kraft. Lofvad vare Gud.  
+**[68:35]** Gifver Gudi magten; hans härlighet är i Israel, och hans magt i skyn. Gud är underlig i sinom helgedom; han är Israels Gud, han skall gifva folkena magt och kraft. Lofvad vare Gud.
 
 ### Chapter 69
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** Honom lofve himmelen, jorden och hafvet, och allt det deruti röres.
 
-**[69:36]** Ty Gud skall hjelpa Zion, och bygga Juda städer; att man der bo skall, och besitta dem. Och hans tjenares säd skall ärfva dem; och de som hans Namn älska, skola blifva derinne.  
+**[69:36]** Ty Gud skall hjelpa Zion, och bygga Juda städer; att man der bo skall, och besitta dem. Och hans tjenares säd skall ärfva dem; och de som hans Namn älska, skola blifva derinne.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** Att de måtte på skam komma igen, som öfver mig ropa: Så, så.
 
-**[70:5]** Fröjde, och glädje sig i dig, de som efter dig fråga; och de som dina salighet älska, säga alltid: Gud vare högeliga lofvad. Men jag är eländig och fattig; Gud, var snar till mig; ty du äst min hjelpare och förlossare; min Herre, fördröj icke.  
+**[70:5]** Fröjde, och glädje sig i dig, de som efter dig fråga; och de som dina salighet älska, säga alltid: Gud vare högeliga lofvad. Men jag är eländig och fattig; Gud, var snar till mig; ty du äst min hjelpare och förlossare; min Herre, fördröj icke.
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** Mine läppar och min själ, som du förlöst hafver, äro glade, och lofsjunga dig.
 
-**[71:24]** Ock talar min tunga dagliga dags om dina rättfärdighet; ty skämma måga sig, och på skam komma, de som mitt värsta söka.  
+**[71:24]** Ock talar min tunga dagliga dags om dina rättfärdighet; ty skämma måga sig, och på skam komma, de som mitt värsta söka.
 
 ### Chapter 72
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** Och lofvadt vare hans härliga Namn evinnerliga; och all land varde full med hans äro. Amen, Amen.
 
-**[72:20]** En ända hafva Davids böner, Isai sons.  
+**[72:20]** En ända hafva Davids böner, Isai sons.
 
 ### Chapter 73
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** Ty si, de som ifrå dig vika, de skola förgås. Du förgör alla dem som emot dig hor bedrifva.
 
-**[73:28]** Men det är min glädje, att jag håller mig intill Gud, och sätter mitt hopp till Herran, Herran, att jag må förkunna, huru du det gör.  
+**[73:28]** Men det är min glädje, att jag håller mig intill Gud, och sätter mitt hopp till Herran, Herran, att jag må förkunna, huru du det gör.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Upp, o Gud, och uträtta dina sak; tänk uppå den försmädelse, som dig dagliga af de galna vederfars.
 
-**[74:23]** Förgät icke dina fiendars skri; dina ovänners rasande varder ju längre ju större.  
+**[74:23]** Förgät icke dina fiendars skri; dina ovänners rasande varder ju längre ju större.
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** Ty Herren hafver en skål i handene, och med starkt vin fullt inskänkt, och skänker derutaf; men de ogudaktige måste alle dricka, och utsupa dräggena.
 
-**[75:10]** Men jag vill förkunna evinnerliga, och lofsjunga Jacobs Gudi; Och vill sönderbryta allt de ogudaktigas våld; att de rättfärdigas välde skall upphöjdt varda.  
+**[75:10]** Men jag vill förkunna evinnerliga, och lofsjunga Jacobs Gudi; Och vill sönderbryta allt de ogudaktigas våld; att de rättfärdigas välde skall upphöjdt varda.
 
 ### Chapter 76
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** När du ena mennisko straffar, så måste man bekänna dig, att du redo äst till att straffa andra flera.
 
-**[76:12]** Lofver, och håller det Herranom edrom Gud, alle I som omkring honom ären. Bärer fram skänker dem förskräckeliga; Den der Förstomen borttager modet, och förskräckelig är ibland Konungarna på jordene.  
+**[76:12]** Lofver, och håller det Herranom edrom Gud, alle I som omkring honom ären. Bärer fram skänker dem förskräckeliga; Den der Förstomen borttager modet, och förskräckelig är ibland Konungarna på jordene.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Det dundrade i himmelen, ditt ljungande lyste på jordene; jorden rördes och bäfvade deraf.
 
-**[77:20]** Din väg var i hafvet, och din stig i stort vatten; och man fann dock intet din fotspår. Du förde ditt folk, såsom en fårahjord, genom Mose och Aaron.  
+**[77:20]** Din väg var i hafvet, och din stig i stort vatten; och man fann dock intet din fotspår. Du förde ditt folk, såsom en fårahjord, genom Mose och Aaron.
 
 ### Chapter 78
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** Ifrå de däggande får hemtade han honom, att han hans folk Jacob föda skulle, och hans arf Israel.
 
-**[78:72]** Och han födde dem också med all trohet, och regerade dem med all flit.  
+**[78:72]** Och han födde dem också med all trohet, och regerade dem med all flit.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** Och vedergäll vårom grannom sjufaldt uti deras sköte deras försmädelse, der de dig, Herre, med försmädt hafva.
 
-**[79:13]** Men vi, ditt folk och din fosterfår, tackom dig evinnerliga, och förkunnom ditt lof förutan ända.  
+**[79:13]** Men vi, ditt folk och din fosterfår, tackom dig evinnerliga, och förkunnom ditt lof förutan ända.
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** Din hand beskydde dins högra hands folk, och de menniskor, som du dig stadeliga utvalt hafver;
 
-**[80:19]** Så vilje vi intet ifrå dig vika. Låt oss lefva, så vilje vi åkalla ditt Namn. Herre Gud Zebaoth, tröst oss. Låt ditt ansigte lysa, så varde vi hulpne.  
+**[80:19]** Så vilje vi intet ifrå dig vika. Låt oss lefva, så vilje vi åkalla ditt Namn. Herre Gud Zebaoth, tröst oss. Låt ditt ansigte lysa, så varde vi hulpne.
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** Så ville jag snart nederlägga deras fiendar, och vända mina hand emot deras motståndare.
 
-**[81:16]** Och de som Herran hata, skulle fela uppå honom; men deras tid skulle evinnerliga vara, Och jag skulle spisa dem med bästa hvete, och mätta dem med hannog utu hälleberget.  
+**[81:16]** Och de som Herran hata, skulle fela uppå honom; men deras tid skulle evinnerliga vara, Och jag skulle spisa dem med bästa hvete, och mätta dem med hannog utu hälleberget.
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** Men I måsten dö såsom menniskor, och såsom en tyrann förgås.
 
-**[82:8]** Statt upp, Gud, och döm jordena; ty du äst en Herre öfver alla Hedningar.  
+**[82:8]** Statt upp, Gud, och döm jordena; ty du äst en Herre öfver alla Hedningar.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Gör deras ansigten fulla med blygd, att de efter ditt Namn. Herre, söka måste;
 
-**[83:18]** Skämme sig, och förskräckes alltid ju mer och mer, och till skam komme, och förgås. Så skola de förnimma, att du med ditt Namn heter Herre allena, och den Högste i allo verldene.  
+**[83:18]** Skämme sig, och förskräckes alltid ju mer och mer, och till skam komme, och förgås. Så skola de förnimma, att du med ditt Namn heter Herre allena, och den Högste i allo verldene.
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** Ty en dag uti dina gårdar är bättre, än eljest tusende. Jag vill heldre vakta dörrena uti mins Guds huse, än länge bo uti de ogudaktigas hyddom.
 
-**[84:12]** Ty Herren Gud är sol och sköld. Herren gifver nåd och äro; dem frommom skall intet godt fattas. Herre Zebaoth, säll är den menniska, som sig förlåter uppå dig.  
+**[84:12]** Ty Herren Gud är sol och sköld. Herren gifver nåd och äro; dem frommom skall intet godt fattas. Herre Zebaoth, säll är den menniska, som sig förlåter uppå dig.
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Att trohet må växa på jordene, och rättfärdighet skåda neder af himmelen;
 
-**[85:13]** Att ock Herren oss godt gör; på det vårt land må sina frukt gifva; Att rättfärdighet må ändå för honom blifva, och sin rätta gång hafva.  
+**[85:13]** Att ock Herren oss godt gör; på det vårt land må sina frukt gifva; Att rättfärdighet må ändå för honom blifva, och sin rätta gång hafva.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Vänd dig till mig, var mig nådelig; stärk din tjenare med dine magt, och hjelp dine tjenarinnos son.
 
-**[86:17]** Gör ett tecken med mig, att mig väl går, att de set, som mig hata, och skämma sig, att du med mig står, Herre, och tröstar mig.  
+**[86:17]** Gör ett tecken med mig, att mig väl går, att de set, som mig hata, och skämma sig, att du med mig står, Herre, och tröstar mig.
 
 ### Chapter 87
 
@@ -31784,7 +31784,7 @@
 
 **[87:6]** Herren skall predika låta i allahanda tungomål, att ock någre af dem skola der födde varda. Sela.
 
-**[87:7]** Och de sångare skola alle i dig sjunga till skiftes, såsom i en dans.  
+**[87:7]** Och de sångare skola alle i dig sjunga till skiftes, såsom i en dans.
 
 ### Chapter 88
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** Din grymhet går öfver mig, ditt förskräckande trycker mig.
 
-**[88:18]** De omlägga mig dagliga såsom vatten, och omhvärfva mig tillsammans. Du gör, att mina vänner och näste, och mine kände draga sig långt ifrå mig, för sådana jämmers skull.  
+**[88:18]** De omlägga mig dagliga såsom vatten, och omhvärfva mig tillsammans. Du gör, att mina vänner och näste, och mine kände draga sig långt ifrå mig, för sådana jämmers skull.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** Tänk, Herre, på dina tjenares försmädelse, den jag bär i mitt sköt, af allom så mångom folkom;
 
-**[89:52]** Dermed, Herre, dine fiender dig försmäda; der de med försmäda, och med fötterna trampa på din smorda. Lofvad vare Herren evinnerliga. Amen, Amen.  
+**[89:52]** Dermed, Herre, dine fiender dig försmäda; der de med försmäda, och med fötterna trampa på din smorda. Lofvad vare Herren evinnerliga. Amen, Amen.
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Bete dinom tjenarom dina gerningar, och dina äro deras barnom.
 
-**[90:17]** Och Herren, vår Gud, vare oss blid, och främje våra händers verk med oss; ja våra händers verk främje han.  
+**[90:17]** Och Herren, vår Gud, vare oss blid, och främje våra händers verk med oss; ja våra händers verk främje han.
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** Han åkallar mig, ty vill jag höra honom; jag är när honom i nödene; jag skall taga honom derut, och låta honom till äro komma.
 
-**[91:16]** Jag skall mätta honom med långt lit, och skall bete honom mina salighet.  
+**[91:16]** Jag skall mätta honom med långt lit, och skall bete honom mina salighet.
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** De der planterade äro uti Herrans hus, de skola i vår Guds gårdom grönskas.
 
-**[92:15]** Och om de än gamle varda, skola de likväl blomstras, fruktsamme och färske vara; Att de förkunna skola, att Herren så from är; min tröst, och intet orätt är i honom.  
+**[92:15]** Och om de än gamle varda, skola de likväl blomstras, fruktsamme och färske vara; Att de förkunna skola, att Herren så from är; min tröst, och intet orätt är i honom.
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** De vågar i hafvet äro stora, och fräsa grufveliga; men Herren är ännu större i höjdene.
 
-**[93:5]** Din ord äro en rätt lära; helighet, Herre, är dins hus prydning evinnerliga.  
+**[93:5]** Din ord äro en rätt lära; helighet, Herre, är dins hus prydning evinnerliga.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** Men Herren är mitt beskärm, min Gud är mitt hopps tröst.
 
-**[94:23]** Och han skall vedergälla dem deras orätt, och skall förgöra dem för deras ondskos skull; Herren, vår Gud, skall förgöra dem.  
+**[94:23]** Och han skall vedergälla dem deras orätt, och skall förgöra dem för deras ondskos skull; Herren, vår Gud, skall förgöra dem.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** Att jag i fyratio år mödo hade med detta folk, och sade: Det är sådant folk, att deras hjerta alltid vill den orätta vägen, och de mina vägar icke lära vilja;
 
-**[95:11]** Så att jag svor i mine vrede: De skola icke komma till mina rolighet.  
+**[95:11]** Så att jag svor i mine vrede: De skola icke komma till mina rolighet.
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Marken vare glad, och allt det derpå är, och låter all trä i skogen fröjda sig,
 
-**[96:13]** För Herranom; ty han kommer; ty han kommer till att döma jordena; han skall döma jordenes krets med rättfärdighet, och folken med sine sanning.  
+**[96:13]** För Herranom; ty han kommer; ty han kommer till att döma jordena; han skall döma jordenes krets med rättfärdighet, och folken med sine sanning.
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Dem rättfärdiga skall alltid ljus uppgå igen, och frommom hjertom glädje.
 
-**[97:12]** I rättfärdige, fröjder eder af Herranom, och tacker honom, och priser hans helighet.  
+**[97:12]** I rättfärdige, fröjder eder af Herranom, och tacker honom, och priser hans helighet.
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Vattuströmmarna fröjde sig, och all berg vare glad,
 
-**[98:9]** För Herranom; ty han kommer till att döma jordena; han skall döma jordenes krets med rättfärdighet, och folken med rätt.  
+**[98:9]** För Herranom; ty han kommer till att döma jordena; han skall döma jordenes krets med rättfärdighet, och folken med rätt.
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** Herre, du äst vår Gud; du bönhörde dem; du, Gud, gaf dem till, och straffade deras verk.
 
-**[99:9]** Upphöjer Herran vår Gud, och tillbedjer på hans helga berg; tv Herren vår Gud är helig.  
+**[99:9]** Upphöjer Herran vår Gud, och tillbedjer på hans helga berg; tv Herren vår Gud är helig.
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Går in i hans portar med tackande; uti hans gårdar med lofvande; tacker honom, lofver hans Namn.
 
-**[100:5]** Ty Herren är god, och hans nåd varar evinnerliga, och hans sanning ifrå slägte till slägte.  
+**[100:5]** Ty Herren är god, och hans nåd varar evinnerliga, och hans sanning ifrå slägte till slägte.
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** Falskt folk håller jag icke i mitt hus; ljugare trifvas icke när mig.
 
-**[101:8]** Bittida förgör jag alla ogudaktiga i landena, att jag må utrota alla ogerningsmän utu Herrans stad.  
+**[101:8]** Bittida förgör jag alla ogudaktiga i landena, att jag må utrota alla ogerningsmän utu Herrans stad.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** De måste förgås, men du blifver; de skola alle föråldras såsom ett kläde; de skola förvandlade varda såsom en klädnad, när du förvandlar dem.
 
-**[102:28]** Men du blifver såsom du äst, och dine år taga ingen ända. Dina tjenares barn varda blifvande, och deras säd skall trifvas för dig.  
+**[102:28]** Men du blifver såsom du äst, och dine år taga ingen ända. Dina tjenares barn varda blifvande, och deras säd skall trifvas för dig.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Lofver Herran, alle hans härar; I hans tjenare, som hans vilja gören.
 
-**[103:22]** Lofver Herran, all hans verk uti all hans herradömes rum; min själ lofve Herran.  
+**[103:22]** Lofver Herran, all hans verk uti all hans herradömes rum; min själ lofve Herran.
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** Mitt tal behage honom väl; jag gläder mig af Herranom.
 
-**[104:35]** Syndarena hafve en ända på jordene, och de ogudaktige vare icke mer till; lofva, min själ, Herran. Halleluja.  
+**[104:35]** Syndarena hafve en ända på jordene, och de ogudaktige vare icke mer till; lofva, min själ, Herran. Halleluja.
 
 ### Chapter 105
 
@@ -32506,7 +32506,7 @@
 
 **[105:44]** Och gaf dem Hedningarnas land, så att de folks gods intogo;
 
-**[105:45]** På det de skulle hålla hans rätter, och bevara hans lag. Halleluja.  
+**[105:45]** På det de skulle hålla hans rätter, och bevara hans lag. Halleluja.
 
 ### Chapter 106
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Hjelp oss, Herre vår Gud, och för oss tillhopa ut ifrå Hedningarna; att vi måge tacka ditt helga Namn, och begå ditt lof.
 
-**[106:48]** Lofvad vare Herren, Israels Gud, ifrån evighet i evighet; och allt folk säga: Amen. Halleluja.  
+**[106:48]** Lofvad vare Herren, Israels Gud, ifrån evighet i evighet; och allt folk säga: Amen. Halleluja.
 
 ### Chapter 107
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** Detta skola de fromme se, och glädja sig; och alla ondsko skall munnen tillstoppad varda.
 
-**[107:43]** Hvilken är vis och behåller detta? Så skola de märka, huru många välgerningar Herren beviser.  
+**[107:43]** Hvilken är vis och behåller detta? Så skola de märka, huru många välgerningar Herren beviser.
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Skall icke du göra det, Gud, som oss förkastat hafver, och drager icke ut, Gud, med vårom här?
 
-**[108:13]** Skaffa oss bistånd i nödene; ty menniskos hjelp är fåfängelig. I Gudi vilje vi bevisa manlig verk; han skall underträda våra fiendar.  
+**[108:13]** Skaffa oss bistånd i nödene; ty menniskos hjelp är fåfängelig. I Gudi vilje vi bevisa manlig verk; han skall underträda våra fiendar.
 
 ### Chapter 109
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** Jag vill mycket tacka Herranom med min mun, och lofva honom ibland många.
 
-**[109:31]** Ty han står dem fattiga på högra handene, att han skall hjelpa honom ifrå dem som hans lif fördöma.  
+**[109:31]** Ty han står dem fattiga på högra handene, att han skall hjelpa honom ifrå dem som hans lif fördöma.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** Han skall döma ibland Hedningarna; han skall göra stora slagtningar. Han skall sönderkrossa hufvudet öfver stor land.
 
-**[110:7]** Han skall dricka af bäcken på vägenom, derföre skall han upphäfva hufvudet.  
+**[110:7]** Han skall dricka af bäcken på vägenom, derföre skall han upphäfva hufvudet.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** Han sänder sino folke förlossning; han lofvar, att hans förbund skall evinnerliga blifva; heligt och förskräckeligit är hans Namn.
 
-**[111:10]** Herrans fruktan är vishetenes begynnelse; det är ett godt förstånd, den derefter gör; hans lof blifver evinnerliga.  
+**[111:10]** Herrans fruktan är vishetenes begynnelse; det är ett godt förstånd, den derefter gör; hans lof blifver evinnerliga.
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** Han utströr, och gifver dem fattigom; hans rättfärdighet blifver evinnerliga; hans horn skall upphöjdt varda med äro.
 
-**[112:10]** Den ogudaktige skall det se, och honom skall förtrytat; sina tänder skall han bita tillsamman, och förgås; ty hvad de ogudaktige gerna vilja, det blifver omintet.  
+**[112:10]** Den ogudaktige skall det se, och honom skall förtrytat; sina tänder skall han bita tillsamman, och förgås; ty hvad de ogudaktige gerna vilja, det blifver omintet.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** Att han skall sätta honom bredovid Förstar, vid hans folks Förstar;
 
-**[113:9]** Den der låter den ofruktsamma bo i huset, att hon en glad barnamoder varder! Halleluja.  
+**[113:9]** Den der låter den ofruktsamma bo i huset, att hon en glad barnamoder varder! Halleluja.
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** För Herranom bäfvade jorden, för Jacobs Gud;
 
-**[114:8]** Den bergsklipporna förvandlar uti vattusjöar, och stenen i vattukällor.  
+**[114:8]** Den bergsklipporna förvandlar uti vattusjöar, och stenen i vattukällor.
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** De döde kunna dig, Herre, intet lofva; ej heller de som nederfara i det stilla;
 
-**[115:18]** Utan vi lofve Herran, ifrå nu och i evighet. Halleluja.  
+**[115:18]** Utan vi lofve Herran, ifrå nu och i evighet. Halleluja.
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** Jag vill betala mina löften Herranom, för allt hans folk;
 
-**[116:19]** Uti gårdarna åt Herrans hus, uti dig, Jerusalem. Halleluja.  
+**[116:19]** Uti gårdarna åt Herrans hus, uti dig, Jerusalem. Halleluja.
 
 ### Chapter 117
 
 **[117:1]** Lofver Herran, alle Hedningar; priser honom, all folk.
 
-**[117:2]** Ty hans nåd är väldig öfver oss, och Herrans sanning (varar) i evighet. Halleluja.  
+**[117:2]** Ty hans nåd är väldig öfver oss, och Herrans sanning (varar) i evighet. Halleluja.
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Du äst min Gud, och jag tackar dig; min Gud, jag vill prisa dig.
 
-**[118:29]** Tacker Herranom, ty han är mild, och hans godhet varar evinnerliga.  
+**[118:29]** Tacker Herranom, ty han är mild, och hans godhet varar evinnerliga.
 
 ### Chapter 119
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Låt mina själ lefva, att hon må lofva dig, och dine rätter hjelpa mig.
 
-**[119:176]** Jag är såsom ett villfarande och borttappadt får; sök din tjenare, ty jag förgäter icke din bud.  
+**[119:176]** Jag är såsom ett villfarande och borttappadt får; sök din tjenare, ty jag förgäter icke din bud.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** Det varder mine själ långt att bo när dem, som friden hata.
 
-**[120:7]** Jag håller frid; men när jag talar, så taga de till att örliga.  
+**[120:7]** Jag håller frid; men när jag talar, så taga de till att örliga.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** Herren bevare dig för allt ondt; han bevare dina själ.
 
-**[121:8]** Herren bevara din utgång och ingång, ifrå nu och i evighet.  
+**[121:8]** Herren bevara din utgång och ingång, ifrå nu och i evighet.
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** För mina bröders och fränders skull vill jag dig frid önska.
 
-**[122:9]** För Herrans vår Guds hus skull vill jag ditt bästa söka.  
+**[122:9]** För Herrans vår Guds hus skull vill jag ditt bästa söka.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Var oss nådelig, Herre, var oss nådelig; ty vi äre fast fulle med föraktelse.
 
-**[123:4]** Fast full är vår själ af de stoltas begabberi, och de högfärdigas föraktelse.  
+**[123:4]** Fast full är vår själ af de stoltas begabberi, och de högfärdigas föraktelse.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Vår själ är undkommen, såsom en fogel ens foglafängares snaro; snaran är söndergången, och vi äre löse.
 
-**[124:8]** Vår hjelp står i Herrans Namn, den himmel och jord gjort hafver.  
+**[124:8]** Vår hjelp står i Herrans Namn, den himmel och jord gjort hafver.
 
 ### Chapter 125
 
@@ -33474,7 +33474,7 @@
 
 **[125:4]** Herre, gör väl vid dem som gode och fromhjertade äro.
 
-**[125:5]** Men de som afvika uppå deras vrånga vägar, dem skall Herren bortdrifva med de ogerningsmän. Men frid vare öfver Israel.  
+**[125:5]** Men de som afvika uppå deras vrånga vägar, dem skall Herren bortdrifva med de ogerningsmän. Men frid vare öfver Israel.
 
 ### Chapter 126
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** De som med tårar så, skola med glädje uppskära.
 
-**[126:6]** De gå åstad och gråta, och bära ut ädla säd; och komma med glädje, och bära sina kärfvar.  
+**[126:6]** De gå åstad och gråta, och bära ut ädla säd; och komma med glädje, och bära sina kärfvar.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** Lika som skott uti en stark mans hand, så äro ock de unge dränger.
 
-**[127:5]** Säll är den som sitt koger af dem full hafver; de komma icke på skam, då de med sina fiendar handla i portenom.  
+**[127:5]** Säll är den som sitt koger af dem full hafver; de komma icke på skam, då de med sina fiendar handla i portenom.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** Herren skall välsigna dig af Zion, att du skall få se Jerusalems välfärd, i alla dina lifsdagar;
 
-**[128:6]** Och skall få se din barnabarn; frid öfver Israel!  
+**[128:6]** Och skall få se din barnabarn; frid öfver Israel!
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** Af hvilkom skördemannen icke uppfyller sina hand, ej heller han, som binder kärfvarna, sin famn;
 
-**[129:8]** Och de, som framom gå icke säga: Herrans välsignelse vare öfver eder; vi välsigne eder i Herrans Namn.  
+**[129:8]** Och de, som framom gå icke säga: Herrans välsignelse vare öfver eder; vi välsigne eder i Herrans Namn.
 
 ### Chapter 130
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** Israel hoppes uppå Herran; ty när Herranom är nåd, och mycken förlossning när honom.
 
-**[130:8]** Och han skall förlossa Israel ifrån alla hans synder.  
+**[130:8]** Och han skall förlossa Israel ifrån alla hans synder.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** När jag icke satte och stillte mina själ, så vardt min själ afvand, såsom en ifrå sine moder afvand varder.
 
-**[131:3]** Israel hoppes uppå Herran, ifrå nu och i evighet.  
+**[131:3]** Israel hoppes uppå Herran, ifrå nu och i evighet.
 
 ### Chapter 132
 
@@ -33596,7 +33596,7 @@
 
 **[132:17]** Dersammastäds skall uppgå Davids horn; jag hafver tillredt minom smorda ena lykto.
 
-**[132:18]** Hans fiendar vill jag bekläda med skam; men öfver honom skall hans krona blomstras.  
+**[132:18]** Hans fiendar vill jag bekläda med skam; men öfver honom skall hans krona blomstras.
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** Såsom kosteligit balsam är, det af Aarons hufvud flyter neder i allt hans skägg, det nederflyter uppå hans kläder;
 
-**[133:3]** Såsom Hermons dagg, och den på Zions berg nederfaller; ty dersammastäds lofvar Herren välsignelse och lif till evig tid.  
+**[133:3]** Såsom Hermons dagg, och den på Zions berg nederfaller; ty dersammastäds lofvar Herren välsignelse och lif till evig tid.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Lyfter edra händer upp i helgedomenom, och lofver Herran.
 
-**[134:3]** Herren välsigne dig af Zion, den himmel och jord gjort hafver.  
+**[134:3]** Herren välsigne dig af Zion, den himmel och jord gjort hafver.
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** I af Levi hus, lofver Herran; I som frukten Herran, lofver Herran.
 
-**[135:21]** Lofvad vare Herren af Zion, den i Jerusalem bor. Halleluja.  
+**[135:21]** Lofvad vare Herren af Zion, den i Jerusalem bor. Halleluja.
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** Den allo kötte mat gifver; ty hans godhet varar evinnerliga.
 
-**[136:26]** Tacker Gudi af himmelen; ty hans godhet varar evinnerliga.  
+**[136:26]** Tacker Gudi af himmelen; ty hans godhet varar evinnerliga.
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** Du förstörda dotter Babel, säll är den dig vedergäller, såsom du oss gjort hafver.
 
-**[137:9]** Säll är den, som dina unga barn tager, och slår dem emot stenen.  
+**[137:9]** Säll är den, som dina unga barn tager, och slår dem emot stenen.
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Om jag midt i ångest vandrar, så vederqvicker du mig, och räcker dina hand öfver mina fiendars vrede; och hjelper mig med dine högra hand.
 
-**[138:8]** Herren skall göra der en ända uppå för mina skuld; Herre, din godhet är evig; förlåt dock icke dina händers verk.  
+**[138:8]** Herren skall göra der en ända uppå för mina skuld; Herre, din godhet är evig; förlåt dock icke dina händers verk.
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Utransaka mig, Gud, och få veta mitt hjerta. Bepröfva mig, och förnim, huru jag menar det;
 
-**[139:24]** Och se till, om jag på enom ondom väg är, och led mig på den eviga vägen.  
+**[139:24]** Och se till, om jag på enom ondom väg är, och led mig på den eviga vägen.
 
 ### Chapter 140
 
@@ -33826,7 +33826,7 @@
 
 **[140:12]** En ond mun skall ingen lycko hafva på jordene. En vrångvis ond menniska skall förjagad och omstört varda.
 
-**[140:13]** Ty jag vet, att Herren skall uträtta dens eländas sak, och dens fattigas rätt. Och skola de rättfärdige tacka dino Namne, och de fromme skola för ditt ansigte blifva.  
+**[140:13]** Ty jag vet, att Herren skall uträtta dens eländas sak, och dens fattigas rätt. Och skola de rättfärdige tacka dino Namne, och de fromme skola för ditt ansigte blifva.
 
 ### Chapter 141
 
@@ -33848,7 +33848,7 @@
 
 **[141:9]** Bevara mig för den snaro, som de mig satt hafva, och för de ogerningsmäns gildre.
 
-**[141:10]** De ogudaktige falle med hvarannan uti sina egna nät; men jag gånge alltid framom.  
+**[141:10]** De ogudaktige falle med hvarannan uti sina egna nät; men jag gånge alltid framom.
 
 ### Chapter 142
 
@@ -33864,7 +33864,7 @@
 
 **[142:6]** Herre, till dig ropar jag, och säger: Du äst mitt hopp, min del uti de lefvandes land.
 
-**[142:7]** Akta uppå min klagan; ty jag varder svårliga plågad. Hjelp mig ifrå mina förföljare; ty de äro mig för mägtige. För mina själ utu fångahuset, att jag må tacka ditt Namn. De rättfärdige skola församla sig till mig, när du väl emot mig gör.  
+**[142:7]** Akta uppå min klagan; ty jag varder svårliga plågad. Hjelp mig ifrå mina förföljare; ty de äro mig för mägtige. För mina själ utu fångahuset, att jag må tacka ditt Namn. De rättfärdige skola församla sig till mig, när du väl emot mig gör.
 
 ### Chapter 143
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** Herre, vederqvick mig, för ditt Namns skull; för mina själ utu nödene, för dina rättfärdighets skull.
 
-**[143:12]** Och förgör mina fiendar, för dina godhets skull, och förgör alla de som mina själ bedröfva; ty jag är din tjenare.  
+**[143:12]** Och förgör mina fiendar, för dina godhets skull, och förgör alla de som mina själ bedröfva; ty jag är din tjenare.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** Att våre oxar måga mycket arbete göra; att ingen skade, ingen olycka eller klagan på våra gator är.
 
-**[144:15]** Saligt är det folk, hvilko alltså går; men saligt är det folk, hvilkets Gud Herren är.  
+**[144:15]** Saligt är det folk, hvilko alltså går; men saligt är det folk, hvilkets Gud Herren är.
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** Herren bevarar alla de honom älska, och skall förgöra alla ogudaktiga.
 
-**[145:21]** Min mun skall säga Herrans lof; allt kött lofve hans helga Namn alltid, och förutan ända!  
+**[145:21]** Min mun skall säga Herrans lof; allt kött lofve hans helga Namn alltid, och förutan ända!
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** Herren bevarar de främlingar och faderlösa, och uppehåller enkorna, och tillbakavänder de ogudaktigas väg.
 
-**[146:10]** Herren är Konung evinnerliga, din Gud, Zion, förutan ända. Halleluja.  
+**[146:10]** Herren är Konung evinnerliga, din Gud, Zion, förutan ända. Halleluja.
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** Han kungör Jacob sitt ord, Israel sina seder och rätter.
 
-**[147:20]** Så gör han ingom Hedningom; ej heller låter dem veta sina rätter. Halleluja.  
+**[147:20]** Så gör han ingom Hedningom; ej heller låter dem veta sina rätter. Halleluja.
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Skolen lofva Herrans Namn; ty hans Namn allena är högt; hans lof går så vidt som himmel och jord är.
 
-**[148:14]** Och han upphöjer sins folks horn; alle hans helige skola lofva, Israels barn, det folk, som honom tjenar. Halleluja.  
+**[148:14]** Och han upphöjer sins folks horn; alle hans helige skola lofva, Israels barn, det folk, som honom tjenar. Halleluja.
 
 ### Chapter 149
 
@@ -34080,7 +34080,7 @@
 
 **[149:8]** Till att binda deras Konungar med kedjor, och deras ädlingar med jernfjettrar;
 
-**[149:9]** Att de skola göra dem den rätt, derom skrifvet står: Denna ärona skola alle hans heliga hafva. Halleluja.  
+**[149:9]** Att de skola göra dem den rätt, derom skrifvet står: Denna ärona skola alle hans heliga hafva. Halleluja.
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Lofver honom med klara cymbaler; lofver honom med välklingande cymbaler.
 
-**[150:6]** Allt det anda hafver lofve Herran. Halleluja.   
+**[150:6]** Allt det anda hafver lofve Herran. Halleluja.
 
 ## Proverbs
 
@@ -34164,7 +34164,7 @@
 
 **[1:32]** Att de fåkunnigas luste dräper dem, och de galnas lycka förgör dem.
 
-**[1:33]** Men den mig hörer, han skall säker blifva, och nog hafva, och för intet ondt frukta.  
+**[1:33]** Men den mig hörer, han skall säker blifva, och nog hafva, och för intet ondt frukta.
 
 ### Chapter 2
 
@@ -34210,7 +34210,7 @@
 
 **[2:21]** Ty de rättfärdige skola bo i landena, och de fromme skola derinne blifva;
 
-**[2:22]** Men de ogudaktige skola utu landena utrotade varda, och de föraktare skola derut förgjorde varda.  
+**[2:22]** Men de ogudaktige skola utu landena utrotade varda, och de föraktare skola derut förgjorde varda.
 
 ### Chapter 3
 
@@ -34282,7 +34282,7 @@
 
 **[3:34]** Han skall bespotta de bespottare; men dem eländom skall han nåd gifva.
 
-**[3:35]** De vise skola ärfva äro; men om de galne än högt uppkomma, varda de likväl till skam.  
+**[3:35]** De vise skola ärfva äro; men om de galne än högt uppkomma, varda de likväl till skam.
 
 ### Chapter 4
 
@@ -34338,7 +34338,7 @@
 
 **[4:26]** Låt din fot gå lika, så går du visst.
 
-**[4:27]** Vik hvarken på högra eller på venstra sidona; vänd din fot ifrå det ondt är.  
+**[4:27]** Vik hvarken på högra eller på venstra sidona; vänd din fot ifrå det ondt är.
 
 ### Chapter 5
 
@@ -34386,7 +34386,7 @@
 
 **[5:22]** Dens ogudaktigas misshandel skall gripa honom, och med sina synders snaro skall han hållen varda.
 
-**[5:23]** Han skall dö, derföre att han icke vill låta lära sig, och för sin stora dårskaps skull vill fara.  
+**[5:23]** Han skall dö, derföre att han icke vill låta lära sig, och för sin stora dårskaps skull vill fara.
 
 ### Chapter 6
 
@@ -34458,7 +34458,7 @@
 
 **[6:34]** Ty mansens harm hafver nit, och skonar intet på hämndenes tid;
 
-**[6:35]** Och ser icke till någon person, den försona måtte; och tager intet vid, om du än mycket skänka ville.  
+**[6:35]** Och ser icke till någon person, den försona måtte; och tager intet vid, om du än mycket skänka ville.
 
 ### Chapter 7
 
@@ -34514,7 +34514,7 @@
 
 **[7:26]** Ty hon hafver många sargat och fällt, och allehanda mägtige äro dräpne af henne.
 
-**[7:27]** Hennes hus äro helvetes vägar, der man nederfar uti dödsens kammar.  
+**[7:27]** Hennes hus äro helvetes vägar, der man nederfar uti dödsens kammar.
 
 ### Chapter 8
 
@@ -34588,7 +34588,7 @@
 
 **[8:35]** Den mig finner, han finner lifvet, och skall få behag af Herranom.
 
-**[8:36]** Men den som syndar emot mig, han skadar sina själ; alle de mig hata, de älska döden.  
+**[8:36]** Men den som syndar emot mig, han skadar sina själ; alle de mig hata, de älska döden.
 
 ### Chapter 9
 
@@ -34626,7 +34626,7 @@
 
 **[9:17]** Stulet vatten är sött, och fördoldt bröd är lustigt.
 
-**[9:18]** Men han vet icke, att der äro de döde, och hennes gäster uti djupa helvetet.  
+**[9:18]** Men han vet icke, att der äro de döde, och hennes gäster uti djupa helvetet.
 
 ### Chapter 10
 
@@ -34692,7 +34692,7 @@
 
 **[10:31]** Dens rättfärdigas mun bär fram vishet; men de vrångas mun skall utrotad blifva.
 
-**[10:32]** Dens rättfärdigas läppar lära helsosam ting; men de ogudaktigas mun är vrång.  
+**[10:32]** Dens rättfärdigas läppar lära helsosam ting; men de ogudaktigas mun är vrång.
 
 ### Chapter 11
 
@@ -34756,7 +34756,7 @@
 
 **[11:30]** Dens rättfärdigas frukt är lifsens trä, och en vis man låter sig om menniskorna hjerteliga vårda.
 
-**[11:31]** Efter den rättfärdige på jordene lida måste; huru mycket mer den ogudaktige och syndaren?  
+**[11:31]** Efter den rättfärdige på jordene lida måste; huru mycket mer den ogudaktige och syndaren?
 
 ### Chapter 12
 
@@ -34814,7 +34814,7 @@
 
 **[12:27]** Enom latom lyckas icke hans handel; men en trifven menniska varder rik.
 
-**[12:28]** På rättom väg är lif, och på farnom stig är ingen död.  
+**[12:28]** På rättom väg är lif, och på farnom stig är ingen död.
 
 ### Chapter 13
 
@@ -34866,7 +34866,7 @@
 
 **[13:24]** Den sitt ris spar, han hatar sitt barn; men den som det kärt hafver, han näpser det i tid.
 
-**[13:25]** Den rättfärdige äter, att hans själ må mätt varda; men de ogudaktigas buk hafver aldrig nog.  
+**[13:25]** Den rättfärdige äter, att hans själ må mätt varda; men de ogudaktigas buk hafver aldrig nog.
 
 ### Chapter 14
 
@@ -34938,7 +34938,7 @@
 
 **[14:34]** Rättfärdighet upphöjer ett folk; men synd är folkets förderf.
 
-**[14:35]** En klok tjenare behagar Konungenom väl; men en skamlig tjenare lider han icke.  
+**[14:35]** En klok tjenare behagar Konungenom väl; men en skamlig tjenare lider han icke.
 
 ### Chapter 15
 
@@ -35006,7 +35006,7 @@
 
 **[15:32]** Den som icke låter sig aga, han gör sig sjelf till intet; men den som straff hörer han varder klok.
 
-**[15:33]** Herrans fruktan är en tuktan till vishet, och förr än man till äro kommer, måste man lida.  
+**[15:33]** Herrans fruktan är en tuktan till vishet, och förr än man till äro kommer, måste man lida.
 
 ### Chapter 16
 
@@ -35074,7 +35074,7 @@
 
 **[16:32]** En tålig man är bättre än en stark; och den, som råder sitt sinne, är bättre än en som städer vinner.
 
-**[16:33]** Lotten varder kastad i skötet; men han faller hvart Herren vill.  
+**[16:33]** Lotten varder kastad i skötet; men han faller hvart Herren vill.
 
 ### Chapter 17
 
@@ -35132,7 +35132,7 @@
 
 **[17:27]** En förnumstig man hafver hof med sitt tal, och en förståndig man håller sin anda.
 
-**[17:28]** Om en dåre tigde, vorde han ock vis räknad, och förståndig, om han munnen tillhölle.  
+**[17:28]** Om en dåre tigde, vorde han ock vis räknad, och förståndig, om han munnen tillhölle.
 
 ### Chapter 18
 
@@ -35182,7 +35182,7 @@
 
 **[18:23]** En fattig man talar med ödmjukhet; en rik man svarar stolteliga.
 
-**[18:24]** En trofast vän älskar mer, och står fastare, än en broder.  
+**[18:24]** En trofast vän älskar mer, och står fastare, än en broder.
 
 ### Chapter 19
 
@@ -35242,7 +35242,7 @@
 
 **[19:28]** Ett vrångt vittne bespottar domen; och de ogudaktigas mun uppslukar orätthetena.
 
-**[19:29]** Bespottarom är straff beredt, och slag på de dårars rygg.  
+**[19:29]** Bespottarom är straff beredt, och slag på de dårars rygg.
 
 ### Chapter 20
 
@@ -35304,7 +35304,7 @@
 
 **[20:29]** Unga mäns starkhet är deras pris, och de gamlas grå hår är deras prydning.
 
-**[20:30]** Sår fördrifver det onda, och hela hjertans skada.  
+**[20:30]** Sår fördrifver det onda, och hela hjertans skada.
 
 ### Chapter 21
 
@@ -35368,7 +35368,7 @@
 
 **[21:30]** Ingen vishet, intet förstånd, ingen konst hjelper emot Herran.
 
-**[21:31]** Hästar varda tillredde till stridsdagen; men segren kommer af Herranom.  
+**[21:31]** Hästar varda tillredde till stridsdagen; men segren kommer af Herranom.
 
 ### Chapter 22
 
@@ -35428,7 +35428,7 @@
 
 **[22:28]** För icke tillbaka de förra råmärke, som dine fäder gjort hafva.
 
-**[22:29]** Ser du en man endigan i sin ärende, han skall stå för Konungenom; och skall icke stå för de oädla.  
+**[22:29]** Ser du en man endigan i sin ärende, han skall stå för Konungenom; och skall icke stå för de oädla.
 
 ### Chapter 23
 
@@ -35500,7 +35500,7 @@
 
 **[23:34]** Och du blifver såsom en den der sofver midt i hafvet, och såsom den der sofver ofvanpå en mast.
 
-**[23:35]** De slå mig, och det gör mig intet ondt; de stöta mig, men jag känner det intet. När skall jag uppvaka, att jag måtte komma till drycks igen?  
+**[23:35]** De slå mig, och det gör mig intet ondt; de stöta mig, men jag känner det intet. När skall jag uppvaka, att jag måtte komma till drycks igen?
 
 ### Chapter 24
 
@@ -35570,7 +35570,7 @@
 
 **[24:33]** Du vill ännu något litet sofva, och ännu något litet sömnig vara, och ännu litet sammanlägga händerna till att hvila;
 
-**[24:34]** Men din armod skall komma dig, såsom en vandrare, och din fattigdom, såsom en väpnad man.  
+**[24:34]** Men din armod skall komma dig, såsom en vandrare, och din fattigdom, såsom en väpnad man.
 
 ### Chapter 25
 
@@ -35628,7 +35628,7 @@
 
 **[25:27]** Den som för mycken hannog äter, det är icke godt; och den svår ting utransakar, det varder honom för svårt.
 
-**[25:28]** En man, som sin anda icke hålla kan, han är såsom en öppen stad utan murar.  
+**[25:28]** En man, som sin anda icke hålla kan, han är såsom en öppen stad utan murar.
 
 ### Chapter 26
 
@@ -35686,7 +35686,7 @@
 
 **[26:27]** Den ena grop gör, han skall falla deruti; och den en sten välter, uppå honom skall han komma.
 
-**[26:28]** En falsk tunga hatar den henne straffar, och en smeken mun kommer förderf åstad.  
+**[26:28]** En falsk tunga hatar den henne straffar, och en smeken mun kommer förderf åstad.
 
 ### Chapter 27
 
@@ -35742,7 +35742,7 @@
 
 **[27:26]** Lamben kläda dig, och bockarna gifva dig åkerhyrona.
 
-**[27:27]** Du hafver getamjölk nog till dins hus spis, och till dina tjenarinnors födo.  
+**[27:27]** Du hafver getamjölk nog till dins hus spis, och till dina tjenarinnors födo.
 
 ### Chapter 28
 
@@ -35800,7 +35800,7 @@
 
 **[28:27]** Den som den fattiga gifver, honom skall intet fattas; men den som sin ögon afvänder, med honom skall det fast tillbakagå.
 
-**[28:28]** När de ogudaktige uppkomma, så förgömmer sig folket; men när de förgås, så varda de rättfärdige månge.  
+**[28:28]** När de ogudaktige uppkomma, så förgömmer sig folket; men när de förgås, så varda de rättfärdige månge.
 
 ### Chapter 29
 
@@ -35856,7 +35856,7 @@
 
 **[29:26]** Månge söka ens Förstas ansigte; men hvars och ens dom kommer af Herranom.
 
-**[29:27]** En orättfärdig man är dem rättfärdigom en styggelse; och den som på en rätt väg är, han är dens ogudaktigas styggelse.  
+**[29:27]** En orättfärdig man är dem rättfärdigom en styggelse; och den som på en rätt väg är, han är dens ogudaktigas styggelse.
 
 ### Chapter 30
 
@@ -35924,7 +35924,7 @@
 
 **[30:32]** Hafver du varit fåvitsk, och upphäfvit dig, och haft ondt för händer, så lägg handena på munnen.
 
-**[30:33]** Då man mjölk kärnar, gör man der smör utaf; och den der näsona trycker, han tvingar der blod ut; och den der vrede uppväcker, han tvingar der träto ut.  
+**[30:33]** Då man mjölk kärnar, gör man der smör utaf; och den der näsona trycker, han tvingar der blod ut; och den der vrede uppväcker, han tvingar der träto ut.
 
 ### Chapter 31
 
@@ -35988,7 +35988,7 @@
 
 **[31:30]** Täckeligt och dägelig vara är intet; en qvinna, som Herran fruktar, den skall man lofva.
 
-**[31:31]** Hon skall rosad varda af sina händers frukt, och hennes gerningar skola lofva henne i portomen.   
+**[31:31]** Hon skall rosad varda af sina händers frukt, och hennes gerningar skola lofva henne i portomen.
 
 ## Ecclesiastes
 
@@ -36028,7 +36028,7 @@
 
 **[1:17]** Och gaf också mitt hjerta dertill, att jag måtte lära vishet, och dårskap, och klokhet; men jag förnam, att det är ock möda.
 
-**[1:18]** Ty der mycken vishet är, der är mycken grämelse; och den mycket försöker, han måste mycket lida.  
+**[1:18]** Ty der mycken vishet är, der är mycken grämelse; och den mycket försöker, han måste mycket lida.
 
 ### Chapter 2
 
@@ -36082,7 +36082,7 @@
 
 **[2:25]** Ty ho hafver gladare ätit, och kräseligare lefvat, än jag?
 
-**[2:26]** Ty den menniska, som honom täck är, gifver han vishet, förnuft och glädje; men syndarenom gifver han olycko, att han församlar och lägger tillhopa, och det varder dock dem gifvet, som Gudi täck är; ty är det ock icke annat än jämmer.  
+**[2:26]** Ty den menniska, som honom täck är, gifver han vishet, förnuft och glädje; men syndarenom gifver han olycko, att han församlar och lägger tillhopa, och det varder dock dem gifvet, som Gudi täck är; ty är det ock icke annat än jämmer.
 
 ### Chapter 3
 
@@ -36128,7 +36128,7 @@
 
 **[3:21]** Ho vet, om menniskones ande far uppåt, och fänadens ande nederåt, under jordena?
 
-**[3:22]** Derföre säger jag, att intet är bättre, än att en menniska är glad i sitt arbete; ty det är hennes del. Ty ho vill dertill komma henne, att hon ser hvad efter henne ske skall?  
+**[3:22]** Derföre säger jag, att intet är bättre, än att en menniska är glad i sitt arbete; ty det är hennes del. Ty ho vill dertill komma henne, att hon ser hvad efter henne ske skall?
 
 ### Chapter 4
 
@@ -36162,7 +36162,7 @@
 
 **[4:15]** Och jag såg, att alle lefvande under solene vandrade med ett annat barn, som i dess andras stad uppkomma skulle.
 
-**[4:16]** Och på folket, som för honom gick, var ingen ände; och de som efter honom gingo, gladdes dock intet vid honom; det är ju ock intet annat, än fåfängelighet och jämmer. Bevara din fot, när du går till Guds hus, och kom till att höra; det är bättre, än de dårars offer; ty de veta icke hvad ondt de göra.  
+**[4:16]** Och på folket, som för honom gick, var ingen ände; och de som efter honom gingo, gladdes dock intet vid honom; det är ju ock intet annat, än fåfängelighet och jämmer. Bevara din fot, när du går till Guds hus, och kom till att höra; det är bättre, än de dårars offer; ty de veta icke hvad ondt de göra.
 
 ### Chapter 5
 
@@ -36202,7 +36202,7 @@
 
 **[5:18]** Ty hvilko mennisko Gud gifver rikedom, och ägodelar, och välde, att hon deraf äter och dricker på sin del, och är glad i sitt arbete, det är en Guds gåfva.
 
-**[5:19]** Ty han tänker icke mycket på detta elända lifvet, efter Gud fröjdar hans hjerta.  
+**[5:19]** Ty han tänker icke mycket på detta elända lifvet, efter Gud fröjdar hans hjerta.
 
 **[5:20]** 
 
@@ -36228,7 +36228,7 @@
 
 **[6:10]** Hvad äret? Fastän en högt berömder är, så vet man dock, att han är en menniska, och kan icke träta med det som honom for mägtig är.
 
-**[6:11]** Ty fåfängeligheten är alltör mycken. Hvad hafver en menniska mer deraf?  
+**[6:11]** Ty fåfängeligheten är alltör mycken. Hvad hafver en menniska mer deraf?
 
 **[6:12]** 
 
@@ -36290,7 +36290,7 @@
 
 **[7:28]** Si, det hafver jag funnit, säger Predikaren, hvart efter det andra, att jag måtte finna konst.
 
-**[7:29]** Och min själ söker ännu, och hafver intet funnit. Ibland tusende hafver jag funnit en man; men ingen qvinno hafver jag funnit ibland alla. Allena skåda härtill: Jag hafver funnit, att Gud hafver gjort menniskona rätta; men de söka många konster.  
+**[7:29]** Och min själ söker ännu, och hafver intet funnit. Ibland tusende hafver jag funnit en man; men ingen qvinno hafver jag funnit ibland alla. Allena skåda härtill: Jag hafver funnit, att Gud hafver gjort menniskona rätta; men de söka många konster.
 
 ### Chapter 8
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** Jag gaf mitt hjerta till att veta vishet, och till att skåda den vedermödo, som på jordene sker; att ock en hvarken dag eller natt får sömn i sin ögon.
 
-**[8:17]** Och jag såg all Guds verk; ty en menniska kan icke finna det verk, som under solene sker; och ju mer menniskan arbetar till att söka, ju mindre finner hon. Om hon än säger: Jag är vis, och vet det, så kan hon dock icke finnat.  
+**[8:17]** Och jag såg all Guds verk; ty en menniska kan icke finna det verk, som under solene sker; och ju mer menniskan arbetar till att söka, ju mindre finner hon. Om hon än säger: Jag är vis, och vet det, så kan hon dock icke finnat.
 
 ### Chapter 9
 
@@ -36364,7 +36364,7 @@
 
 **[9:17]** Detta våller, de visas ord gälla mer när de stilla, än herrarnas rop när de dårar.
 
-**[9:18]** Ty vishet är bättre än harnesk; men en endaste skalk förderfvar mycket godt.  
+**[9:18]** Ty vishet är bättre än harnesk; men en endaste skalk förderfvar mycket godt.
 
 ### Chapter 10
 
@@ -36406,7 +36406,7 @@
 
 **[10:19]** Det våller, att de bereda bröd till vällust, och vinet måste glädja de lefvande, och penningen måste dem allt uträtta.
 
-**[10:20]** Banna icke Konungenom i ditt hjerta, och banna icke dem rika i dinom sängakammar; ty foglarna under himmelen föra dina röst, och de der vingar hafva, säga det efter.  
+**[10:20]** Banna icke Konungenom i ditt hjerta, och banna icke dem rika i dinom sängakammar; ty foglarna under himmelen föra dina röst, och de der vingar hafva, säga det efter.
 
 ### Chapter 11
 
@@ -36428,7 +36428,7 @@
 
 **[11:9]** Så gläd dig nu, du yngling, i dinom ungdom, och låt ditt hjerta vara gladt i dinom ungdom; gör hvad dino hjerta lyster, och dinom ögom behagar; och vet, att Gud skall, för allt detta, hafva dig fram för domen.
 
-**[11:10]** Lägg bort sorg utaf ditt hjerta, och kasta bort det onda ifrå dinom kropp; ty barndom och ungdom är fåfängelighet.  
+**[11:10]** Lägg bort sorg utaf ditt hjerta, och kasta bort det onda ifrå dinom kropp; ty barndom och ungdom är fåfängelighet.
 
 ### Chapter 12
 
@@ -36458,7 +36458,7 @@
 
 **[12:13]** Låt oss höra hufvudsummona till all lärdom: Frukta Gud, och håll hans bud; ty det hörer allom menniskom till.
 
-**[12:14]** Ty Gud skall hafva fram alla gerningar för domen; ja, ock de der fördolda äro, ehvad de äro goda eller onda.   
+**[12:14]** Ty Gud skall hafva fram alla gerningar för domen; ja, ock de der fördolda äro, ehvad de äro goda eller onda.
 
 ## Song of Solomon
 
@@ -36496,7 +36496,7 @@
 
 **[1:16]** Si, min vän, du äst dägelig och ljuflig; vår säng grönskas.
 
-**[1:17]** Vår hus bjelkar äro cedreträ; våre sparrar äro cypress.  
+**[1:17]** Vår hus bjelkar äro cedreträ; våre sparrar äro cypress.
 
 ### Chapter 2
 
@@ -36532,7 +36532,7 @@
 
 **[2:16]** Min vän är min, och jag är hans, den der beter ibland roser;
 
-**[2:17]** Intilldess att dagen sval varder, och skuggorna afvika; vänd om, blif såsom en rå, min vän, eller såsom en ung hjort på skiljebergen.  
+**[2:17]** Intilldess att dagen sval varder, och skuggorna afvika; vänd om, blif såsom en rå, min vän, eller såsom en ung hjort på skiljebergen.
 
 ### Chapter 3
 
@@ -36556,7 +36556,7 @@
 
 **[3:10]** Dess stodar voro af silfver, täckelsen af guld, sätet af purpur, bottnen deruti var lusteliga lagd för Jerusalems döttrars skull.
 
-**[3:11]** Går ut, I Zions döttrar, och skåder Konung Salomo, i den krono, der hans moder honom med krönt hafver, på hans bröllopsdag, och på hans hjertas fröjds dag.  
+**[3:11]** Går ut, I Zions döttrar, och skåder Konung Salomo, i den krono, der hans moder honom med krönt hafver, på hans bröllopsdag, och på hans hjertas fröjds dag.
 
 ### Chapter 4
 
@@ -36590,7 +36590,7 @@
 
 **[4:15]** Såsom en örtegårds brunn, såsom en brunn af lefvande vatten, det af Libanon flyter.
 
-**[4:16]** Statt upp, nordanväder, och kom, sunnanväder, och blås igenom min örtegård, att hans örter måga drypa. Min vän komme uti sin örtegård, och äte sina ädla frukter.  
+**[4:16]** Statt upp, nordanväder, och kom, sunnanväder, och blås igenom min örtegård, att hans örter måga drypa. Min vän komme uti sin örtegård, och äte sina ädla frukter.
 
 ### Chapter 5
 
@@ -36624,7 +36624,7 @@
 
 **[5:15]** Hans ben äro såsom marmors pelare, grundade uppå gyldene fötter; hans skapnad är såsom Libanon, utkorad såsom cedreträ.
 
-**[5:16]** Hans hals är söt och ganska lustig: En sådana är min vän; min vän är sådana, I Jerusalems döttrar. Hvart är då din vän gången, o du dägeligasta ibland qvinnor? Hvart hafver din vän vändt sig, så vilje vi honom söka med dig.  
+**[5:16]** Hans hals är söt och ganska lustig: En sådana är min vän; min vän är sådana, I Jerusalems döttrar. Hvart är då din vän gången, o du dägeligasta ibland qvinnor? Hvart hafver din vän vändt sig, så vilje vi honom söka med dig.
 
 ### Chapter 6
 
@@ -36650,7 +36650,7 @@
 
 **[6:11]** Min själ visste icke, att han mig intill AmmiNadibs vagnar satt hade.
 
-**[6:12]** Vänd om, vänd om, o Sulamith; vänd om, vänd om, att vi måge skåda dig; hvad sen I på Sulamith annat, än dans i Mahanaim?  
+**[6:12]** Vänd om, vänd om, o Sulamith; vänd om, vänd om, att vi måge skåda dig; hvad sen I på Sulamith annat, än dans i Mahanaim?
 
 **[6:13]** 
 
@@ -36680,7 +36680,7 @@
 
 **[7:12]** Att vi måge bittida uppstå till vingårdarna, och få se, om vinträt blomstras, och hafver fått knoppar; om de granatäple utgångne äro; der vill jag gifva dig min bröst.
 
-**[7:13]** Liljorna gifva sin lukt, och för våra dörr allahanda ädla frukter; min vän, jag hafver bevarat åt dig både nytt och gammalt.  
+**[7:13]** Liljorna gifva sin lukt, och för våra dörr allahanda ädla frukter; min vän, jag hafver bevarat åt dig både nytt och gammalt.
 
 ### Chapter 8
 
@@ -36710,7 +36710,7 @@
 
 **[8:13]** Du, som bor i örtagårdarna, sällskapen akta deruppå; låt mig höra dina röst.
 
-**[8:14]** Fly, min vän, och var lik ene rå, eller enom ungom hjort, in på örtabergen.   
+**[8:14]** Fly, min vän, och var lik ene rå, eller enom ungom hjort, in på örtabergen.
 
 ## Isaiah
 
@@ -36776,7 +36776,7 @@
 
 **[1:30]** När I varden såsom en ek med torr löf, och såsom en lustgård utan vatten;
 
-**[1:31]** När beskärmet varder såsom blår, och dess verk såsom en gnista; och både tillhopa brinnen, så att ingen utsläcker det.  
+**[1:31]** När beskärmet varder såsom blår, och dess verk såsom en gnista; och både tillhopa brinnen, så att ingen utsläcker det.
 
 ### Chapter 2
 
@@ -36822,7 +36822,7 @@
 
 **[2:21]** På det han må krypa in uti stenklyftor, och i bergskrefvor, för Herrans fruktan, och för hans härliga majestät, då han tager till att förskräcka jordena.
 
-**[2:22]** Så befatter eder intet med menniskone, som anda hafver i näsone; ty I veten icke, huru högt han är aktad.  
+**[2:22]** Så befatter eder intet med menniskone, som anda hafver i näsone; ty I veten icke, huru högt han är aktad.
 
 ### Chapter 3
 
@@ -36876,7 +36876,7 @@
 
 **[3:25]** Ditt meniga folk skall falla genom svärd, och dine krigsmän i strid.
 
-**[3:26]** Och hans portar skola sörja och gräma sig, och han skall sitta jämmerliga på jordene.  
+**[3:26]** Och hans portar skola sörja och gräma sig, och han skall sitta jämmerliga på jordene.
 
 ### Chapter 4
 
@@ -36890,7 +36890,7 @@
 
 **[4:5]** Och Herren skall skapa öfver alla Zions bergs boningar, och hvar som helst det församladt är, moln och rök om dagen, och sken af eld, som brinner om nattena; ty en skärm skall vara öfver allt det härligit är.
 
-**[4:6]** Och ett skjul skall varda till en skygd om dagen för hettanom, och en tillflykt till att gömma sig för storm och regn.  
+**[4:6]** Och ett skjul skall varda till en skygd om dagen för hettanom, och en tillflykt till att gömma sig för storm och regn.
 
 ### Chapter 5
 
@@ -36952,7 +36952,7 @@
 
 **[5:29]** De ryta som lejon, och ryta som ung lejon; de skola fräsa, och taga rof, och behållat, så att ingen undsätter det.
 
-**[5:30]** Och skall på den tiden fräsa öfver dem lika som ett haf; när man då ser uppå landet, så är det mörkt af ångest, och ljuset skin intet mer för mörkrets skull.  
+**[5:30]** Och skall på den tiden fräsa öfver dem lika som ett haf; när man då ser uppå landet, så är det mörkt af ångest, och ljuset skin intet mer för mörkrets skull.
 
 ### Chapter 6
 
@@ -36980,7 +36980,7 @@
 
 **[6:12]** Ty Herren skall låta folket komma, långt bort, så att landet skall svårliga öfvergifvet varda.
 
-**[6:13]** Dock skall ännu tiondedelen blifva derinne; ty det skall varda bortfördt och förhärjadt, såsom en ek och lind, som ännu hafva bålen, ändock deras löf afslagne, varda; en helig säd skall sådana bål vara.  
+**[6:13]** Dock skall ännu tiondedelen blifva derinne; ty det skall varda bortfördt och förhärjadt, såsom en ek och lind, som ännu hafva bålen, ändock deras löf afslagne, varda; en helig säd skall sådana bål vara.
 
 ### Chapter 7
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** Så att man måste gå dit med pil och båga; ty uti hela landet skall törne och tistel vara;
 
-**[7:25]** Så att man icke komma kan till alla de berg, som man plägar uppgrafva med hacko, för tistlars och törnes styggelses skull; utan man skall låta oxar gå deruppå och får deröfver trampa.  
+**[7:25]** Så att man icke komma kan till alla de berg, som man plägar uppgrafva med hacko, för tistlars och törnes styggelses skull; utan man skall låta oxar gå deruppå och får deröfver trampa.
 
 ### Chapter 8
 
@@ -37078,7 +37078,7 @@
 
 **[8:21]** Utan skola gå, omkring i landena slagne och hungroge; men när de hunger lida, så skola de vrede varda, och banna sinom Konung och sinom Gud, och se upp.
 
-**[8:22]** De skola ock se neder på Jordena, och intet finna annat än bedröfvelse och mörker; ty de äro förmörkrade i ångest, och gå ville i mörkret.  
+**[8:22]** De skola ock se neder på Jordena, och intet finna annat än bedröfvelse och mörker; ty de äro förmörkrade i ångest, och gå ville i mörkret.
 
 ### Chapter 9
 
@@ -37122,7 +37122,7 @@
 
 **[9:20]** Röfva de på högra sidone, så lida de hunger; äta de på venstra sidone, så varda, de icke mätte; hvar och en äter sins arms kött;
 
-**[9:21]** Manasse Ephraim, Ephraim Manasse, och de båda, tillsammans emot Juda. Uti allt detta stillas icke ännu hans vrede; hans hand är ännu uträckt.  
+**[9:21]** Manasse Ephraim, Ephraim Manasse, och de båda, tillsammans emot Juda. Uti allt detta stillas icke ännu hans vrede; hans hand är ännu uträckt.
 
 ### Chapter 10
 
@@ -37192,7 +37192,7 @@
 
 **[10:33]** Men si, Herren, Herren Zebaoth skall afhugga qvistarna med magt, och afstäcka det högt står, så att de höge skola förnedrade varda.
 
-**[10:34]** Och den tjocke skogen skall med jern omkullhuggen varda, och Libanon skall falla genom den mägtiga.  
+**[10:34]** Och den tjocke skogen skall med jern omkullhuggen varda, och Libanon skall falla genom den mägtiga.
 
 ### Chapter 11
 
@@ -37226,7 +37226,7 @@
 
 **[11:15]** Och Herren skall tillspillogifva hafsens ström uti Egypten, och skall låta gå sina hand öfver älfvena med starkt väder, och slå de sju strömmar, så att man må gå torrskodd deröfver;
 
-**[11:16]** Och skall vara dem qvarlefdom af sitt folk, som igenblifvet är för de Assyrier, en väg; såsom Israel skedde på den tiden, de utur Egypti land drogo.  
+**[11:16]** Och skall vara dem qvarlefdom af sitt folk, som igenblifvet är för de Assyrier, en väg; såsom Israel skedde på den tiden, de utur Egypti land drogo.
 
 ### Chapter 12
 
@@ -37240,7 +37240,7 @@
 
 **[12:5]** Lofsjunger Herranom; ty han hafver härliga bevist sig; detta vare kunnigt i all land.
 
-**[12:6]** Fröjda dig och var glad, du inbyggerska i Zion; ty Israels Helige är stor när dig.  
+**[12:6]** Fröjda dig och var glad, du inbyggerska i Zion; ty Israels Helige är stor när dig.
 
 ### Chapter 13
 
@@ -37286,7 +37286,7 @@
 
 **[13:21]** Utan stygge foglar skola der lägga sig, och deras hus full med odjur vara, och strutser skola der bo, och gastar skola der springa;
 
-**[13:22]** Och ugglor sjunga uti hans palats, och drakar uti de lustiga borger. Och hans tid varder snart kommandes, och hans dagar skola intet dröjas.  
+**[13:22]** Och ugglor sjunga uti hans palats, och drakar uti de lustiga borger. Och hans tid varder snart kommandes, och hans dagar skola intet dröjas.
 
 ### Chapter 14
 
@@ -37352,7 +37352,7 @@
 
 **[14:31]** Jämra dig, du port, ropa, du stad, hela Philistea är förtviflad; ty nordanefter kommer en rök, och ingen ensam är uti hans tjäll.
 
-**[14:32]** Och hvad varda Hedningarnas båd sägande? Nämliga att Herren hafver grundat Zion, och der skola hans folks elände hafva tillflykt.  
+**[14:32]** Och hvad varda Hedningarnas båd sägande? Nämliga att Herren hafver grundat Zion, och der skola hans folks elände hafva tillflykt.
 
 ### Chapter 15
 
@@ -37372,7 +37372,7 @@
 
 **[15:8]** Ropet går omkring uti Moabs gränsor de gråta allt intill Eglaim, och gråta vid den brunnen Elim;
 
-**[15:9]** Ty de vatten i Dimon äro full med blod; dertill vill jag ännu låta mer komma öfver Dimon, både öfver dem som behållne äro i Moab lejonens, och öfver dem igenlefda i landena.  
+**[15:9]** Ty de vatten i Dimon äro full med blod; dertill vill jag ännu låta mer komma öfver Dimon, både öfver dem som behållne äro i Moab lejonens, och öfver dem igenlefda i landena.
 
 ### Chapter 16
 
@@ -37402,7 +37402,7 @@
 
 **[16:13]** Detta är det Herren på den tiden emot Moab talade.
 
-**[16:14]** Men nu talar Herren, och säger: Uti tre år, såsom en legodrängs år äro, skall Moabs härlighet, som stor och mycken är, klen varda, så att der skall ganska litet qvart blifva, och icke mycket.  
+**[16:14]** Men nu talar Herren, och säger: Uti tre år, såsom en legodrängs år äro, skall Moabs härlighet, som stor och mycken är, klen varda, så att der skall ganska litet qvart blifva, och icke mycket.
 
 ### Chapter 17
 
@@ -37432,7 +37432,7 @@
 
 **[17:13]** Ja, såsom stor vatten storma, så skola folken storma; men han skall näpsa dem, och de skola fly lång väg bort; och skall förfölja dem, såsom stoftena på bergen sker af vädret, och såsom enom väderhvirfvel sker af stormenom.
 
-**[17:14]** Om aftonen, si, så är förskräckelse på färde, och förr än morgonen varder, så äro de intet till. Detta är deras lön, som oss röfva, och deras arfvedel, som taga oss vårt ifrå.  
+**[17:14]** Om aftonen, si, så är förskräckelse på färde, och förr än morgonen varder, så äro de intet till. Detta är deras lön, som oss röfva, och deras arfvedel, som taga oss vårt ifrå.
 
 ### Chapter 18
 
@@ -37448,7 +37448,7 @@
 
 **[18:6]** Att man måste låta ligga dem tillsammans foglomen på bergen, och djuromen i landena, att foglarna bygga om sommaren der sitt näste uti, och allahanda djur i landena ligga deruti om vinteren.
 
-**[18:7]** På den tiden skall det refna och skinnade folket, det grufveligare är än något annat, det här och der afmätet och nedertrampadt är, hvilkets land vattuströmmarna intaga föra Herranom Zebaoth skänker, på det rum, der Herrans Zebaoths Namn är, till Zions berg.  
+**[18:7]** På den tiden skall det refna och skinnade folket, det grufveligare är än något annat, det här och der afmätet och nedertrampadt är, hvilkets land vattuströmmarna intaga föra Herranom Zebaoth skänker, på det rum, der Herrans Zebaoths Namn är, till Zions berg.
 
 ### Chapter 19
 
@@ -37500,7 +37500,7 @@
 
 **[19:24]** På samma tiden skall Israel vara sjelf tredje, med de Egyptier och Assyrier, genom den välsignelse, som på jordene vara skall.
 
-**[19:25]** Ty Herren Zebaoth skall välsigna dem, och säga: Välsignad äst du Egypten, mitt folk, och du Assur, mina händers verk, och du Israel, mitt arf.  
+**[19:25]** Ty Herren Zebaoth skall välsigna dem, och säga: Välsignad äst du Egypten, mitt folk, och du Assur, mina händers verk, och du Israel, mitt arf.
 
 ### Chapter 20
 
@@ -37514,7 +37514,7 @@
 
 **[20:5]** Och de skola förskräckas, och med skam bestå öfver Ethiopien, der de förläto sig uppå; och tvärtom Ethiopien, öfver de Egyptier, af hvilkom de sig berömde.
 
-**[20:6]** Och dessa öars inbyggare skola säga på den tiden: Är det vår tillflykt, dit vi flytt hafve efter hjelp, att vi skulle hulpne varda ifrå Konungenom i Assyrien? Ja, skönliga äre vi undsluppne.  
+**[20:6]** Och dessa öars inbyggare skola säga på den tiden: Är det vår tillflykt, dit vi flytt hafve efter hjelp, att vi skulle hulpne varda ifrå Konungenom i Assyrien? Ja, skönliga äre vi undsluppne.
 
 ### Chapter 21
 
@@ -37550,7 +37550,7 @@
 
 **[21:16]** Ty alltså, säger Herren till mig: Ännu innan ett år, såsom legodrängers år äro, skall all Kedars härlighet förgås;
 
-**[21:17]** Och de qvarblefne skyttar af hjeltarna i Kedar skola mindre varda; ty Herren Israels Gud hafver det så sagt.  
+**[21:17]** Och de qvarblefne skyttar af hjeltarna i Kedar skola mindre varda; ty Herren Israels Gud hafver det så sagt.
 
 ### Chapter 22
 
@@ -37602,7 +37602,7 @@
 
 **[22:24]** Att man skall hänga uppå honom all hans faders hus härlighet, barn och barnabarn, all små tyg, både dryckekar och allahanda strängaspel.
 
-**[22:25]** På den tiden, säger Herren Zebaoth, skall nagelen borttagen varda, den på det fasta rummet står, så att han skall söndergå och falla, och hans börda förgås; ty Herren säger det.  
+**[22:25]** På den tiden, säger Herren Zebaoth, skall nagelen borttagen varda, den på det fasta rummet står, så att han skall söndergå och falla, och hans börda förgås; ty Herren säger det.
 
 ### Chapter 23
 
@@ -37640,7 +37640,7 @@
 
 **[23:17]** Ty efter sjutio år skall Herren besöka Tyrum, att han skall åter komma till sin skökolön, och bedrifva boleri med all Konungarike på jordene.
 
-**[23:18]** Men hans köpmanshandel och skökolön skall varda helig Herranom; man varder det icke församlande för en skatt, ej heller fördöljande; utan de som för Herranom bo, skola hafva hans köpmansgods, att de skola deraf äta, och mätte varda, och väl klädde vara.  
+**[23:18]** Men hans köpmanshandel och skökolön skall varda helig Herranom; man varder det icke församlande för en skatt, ej heller fördöljande; utan de som för Herranom bo, skola hafva hans köpmansgods, att de skola deraf äta, och mätte varda, och väl klädde vara.
 
 ### Chapter 24
 
@@ -37688,7 +37688,7 @@
 
 **[24:22]** Att de skola tillhopasamkas såsom ett knippe till gropena, och skola förslutne varda uti fångahuse, och efter lång tid åter besökte varda.
 
-**[24:23]** Och månen skall skämma sig, och solen blygas; då Herren Zebaoth skall Konung varda på berget Zion, och i Jerusalem, och för sina äldsta i härlighet.  
+**[24:23]** Och månen skall skämma sig, och solen blygas; då Herren Zebaoth skall Konung varda på berget Zion, och i Jerusalem, och för sina äldsta i härlighet.
 
 ### Chapter 25
 
@@ -37714,7 +37714,7 @@
 
 **[25:11]** Och han skall utsträcka sina händer midt ibland dem, såsom en simmande dem uträcker till att simma, och förnedra deras prål med sina händers arm;
 
-**[25:12]** Och skall nederböja edra murars höga fäste, förnedra, och kasta dem i stoft på jordena.  
+**[25:12]** Och skall nederböja edra murars höga fäste, förnedra, och kasta dem i stoft på jordena.
 
 ### Chapter 26
 
@@ -37758,7 +37758,7 @@
 
 **[26:20]** Gack bort, mitt folk, uti en kammar, och slut dörrena igen efter dig; fördölj dig ett litet ögnablick, så länge vreden går öfver.
 
-**[26:21]** Ty si, Herren varder utgångandes af sitt rum, till att besöka jordenes inbyggares ondsko öfver dem, så att jorden skall uppenbara deras blod, och icke mer öfverskyla dem som på henne slagne äro.  
+**[26:21]** Ty si, Herren varder utgångandes af sitt rum, till att besöka jordenes inbyggares ondsko öfver dem, så att jorden skall uppenbara deras blod, och icke mer öfverskyla dem som på henne slagne äro.
 
 ### Chapter 27
 
@@ -37786,7 +37786,7 @@
 
 **[27:12]** På den tiden skall Herren kasta ifrå stranden af älfvene, allt intill Egypti älf; och I, Israels barn, skolen församlade varda, den ene efter den andra.
 
-**[27:13]** På den tiden skall man blåsa med en stor basun, så skola komma de förtappade uti Assurs land, och de fördrefne uti Egypti land, och skola tillbedja Herran, på det helga berget i Jerusalem.  
+**[27:13]** På den tiden skall man blåsa med en stor basun, så skola komma de förtappade uti Assurs land, och de fördrefne uti Egypti land, och skola tillbedja Herran, på det helga berget i Jerusalem.
 
 ### Chapter 28
 
@@ -37846,7 +37846,7 @@
 
 **[28:28]** Man mal det till bröds, och man tröskar det icke alldeles till intet, när man med vagnshjul och hästar uttröskar det.
 
-**[28:29]** Detta sker ock af Herranom Zebaoth; ty hans råd är underligit, och går det härliga igenom.  
+**[28:29]** Detta sker ock af Herranom Zebaoth; ty hans råd är underligit, och går det härliga igenom.
 
 ### Chapter 29
 
@@ -37896,7 +37896,7 @@
 
 **[29:23]** Ty när de få se deras barn, mina händers verk ibland dem, skola de helga mitt Namn, och skola helga den Heliga i Jacob, och frukta Israels Gud.
 
-**[29:24]** Ty de, som en villoanda hafva, skola taga vid förstånd, och de bladdrare skola sig lära låta.  
+**[29:24]** Ty de, som en villoanda hafva, skola taga vid förstånd, och de bladdrare skola sig lära låta.
 
 ### Chapter 30
 
@@ -37964,7 +37964,7 @@
 
 **[30:32]** Ty riset skall väl drabba och bita igenom, då Herren det öfver dom förer med trummor och harpor, och allestäds emot dem strider.
 
-**[30:33]** Ty gropen är tillredd sedan i går; ja, hon är ock Konungenom tillredd, djup och vid nog. Så är boningen derinne, eld och mycken ved. Herrans ande skall upptända henne såsom en svafvelström.  
+**[30:33]** Ty gropen är tillredd sedan i går; ja, hon är ock Konungenom tillredd, djup och vid nog. Så är boningen derinne, eld och mycken ved. Herrans ande skall upptända henne såsom en svafvelström.
 
 ### Chapter 31
 
@@ -37984,7 +37984,7 @@
 
 **[31:8]** Och Assur skall falla, icke genom mans svärd, och skall förtärd varda, icke genom menniskosvärd; och skall dock för svärd fly, och hans unge män skola skattskyldige varda.
 
-**[31:9]** Och deras klippa skall för fruktans skull bortdraga, och hans Förstar skola för baneret flykten gifva, säger Herren, den i Zion en eld hafver, och en ugn i Jerusalem.  
+**[31:9]** Och deras klippa skall för fruktans skull bortdraga, och hans Förstar skola för baneret flykten gifva, säger Herren, den i Zion en eld hafver, och en ugn i Jerusalem.
 
 ### Chapter 32
 
@@ -38026,7 +38026,7 @@
 
 **[32:19]** Men hagel skall vara nedre i skogenom, och staden skall ligga lågt nedre.
 
-**[32:20]** Väl eder, som sån allestäds vid vattnet; ty der mågen I låta oxars och åsnars fötter gå uppå.  
+**[32:20]** Väl eder, som sån allestäds vid vattnet; ty der mågen I låta oxars och åsnars fötter gå uppå.
 
 ### Chapter 33
 
@@ -38076,7 +38076,7 @@
 
 **[33:23]** Låt dem sätta på tågen, de skola likväl intet hålla. Alltså skola de ej heller utslå deras fåneko på mastene. Då skall mycket kosteligit byte utdeladt varda, så att de halte ock röfva skola;
 
-**[33:24]** Och ingen inbyggare skall säga: Jag är svag; (ty) folket, som deruti bor, skall hafva syndernas förlåtelse.  
+**[33:24]** Och ingen inbyggare skall säga: Jag är svag; (ty) folket, som deruti bor, skall hafva syndernas förlåtelse.
 
 ### Chapter 34
 
@@ -38112,7 +38112,7 @@
 
 **[34:16]** Söker nu uti Herrans bok, och läser: Icke ett af dessa stycken skall fela; man skall ej sakna deraf antingen ett eller annat; ty han är den der igenom min mun bjuder, och hans Ande är den det tillhopahemtar.
 
-**[34:17]** Han kastar lott öfver dem, och hans hand delar ut måttet ibland dem, att de skola hafva der arfvedel inne evinnerliga, och blifva deruti utan ända.  
+**[34:17]** Han kastar lott öfver dem, och hans hand delar ut måttet ibland dem, att de skola hafva der arfvedel inne evinnerliga, och blifva deruti utan ända.
 
 ### Chapter 35
 
@@ -38134,7 +38134,7 @@
 
 **[35:9]** Der skall intet lejon vara, och intet rifvande djur träda deruppå, eller der funnet varda; utan man skall gå der fri och säker.
 
-**[35:10]** Och Herrans förlöste skola igenkomma, och komma till Zion med glädje; evig fröjd skall vara öfver deras hufvud; lust och glädje skola de få, och värk och suckan måste bortgå.  
+**[35:10]** Och Herrans förlöste skola igenkomma, och komma till Zion med glädje; evig fröjd skall vara öfver deras hufvud; lust och glädje skola de få, och värk och suckan måste bortgå.
 
 ### Chapter 36
 
@@ -38180,7 +38180,7 @@
 
 **[36:21]** Men de tigde stilla, och svarade honom intet; ty Konungen hade budit, och sagt: Svarer honom intet.
 
-**[36:22]** Då kommo Eliakim, Hilkia son, hofmästaren, och Sebna skrifvaren, och Joah, Assaphs son, cancelleren, med sönderrifven kläder, och gåfvo honom tillkänna RabSake ord.  
+**[36:22]** Då kommo Eliakim, Hilkia son, hofmästaren, och Sebna skrifvaren, och Joah, Assaphs son, cancelleren, med sönderrifven kläder, och gåfvo honom tillkänna RabSake ord.
 
 ### Chapter 37
 
@@ -38258,7 +38258,7 @@
 
 **[37:37]** Och Konungen af Assyrien, Sanherib, bröt upp, drog sina färde, och vände om hem igen, och blef i Nineve.
 
-**[37:38]** Och det begaf sig, att då han tillbad uti sins guds Nisrochs huse, slogo honom hans söner Adrammelech och SarEzer med svärd, och flydde in uti det landet Ararat; och hans son EsarHaddon vardt Konung i hans stad.  
+**[37:38]** Och det begaf sig, att då han tillbad uti sins guds Nisrochs huse, slogo honom hans söner Adrammelech och SarEzer med svärd, och flydde in uti det landet Ararat; och hans son EsarHaddon vardt Konung i hans stad.
 
 ### Chapter 38
 
@@ -38304,7 +38304,7 @@
 
 **[38:21]** Och Esaia bad, att man skulle taga ett plåster af fikon, och lägga uppå hans böld, att han måtte helbregda varda.
 
-**[38:22]** Men Hiskia sade: Hvilket ett tecken är detta, att jag upp till Herrans hus gå skall?  
+**[38:22]** Men Hiskia sade: Hvilket ett tecken är detta, att jag upp till Herrans hus gå skall?
 
 ### Chapter 39
 
@@ -38322,7 +38322,7 @@
 
 **[39:7]** Dertill skola de taga din barn, som af dig komma skola, och du födandes varder, och de måste vara kamererare i Konungens gård i Babel.
 
-**[39:8]** Och Hiskia sade till Esaia: Herrans ord är godt, det du talar; och sade: Vare dock frid och trohet i mina dagar.  
+**[39:8]** Och Hiskia sade till Esaia: Herrans ord är godt, det du talar; och sade: Vare dock frid och trohet i mina dagar.
 
 ### Chapter 40
 
@@ -38386,7 +38386,7 @@
 
 **[40:30]** De ynglingar varda trötte, och uppgifvas, och de kanske män falla;
 
-**[40:31]** Men de som vänta efter Herran, de få en ny kraft, så att de skola uppfara med vingar såsom örnar; de skola löpa, och icke uppgifvas; de skola vandra, och icke trötte varda.  
+**[40:31]** Men de som vänta efter Herran, de få en ny kraft, så att de skola uppfara med vingar såsom örnar; de skola löpa, och icke uppgifvas; de skola vandra, och icke trötte varda.
 
 ### Chapter 41
 
@@ -38446,7 +38446,7 @@
 
 **[41:28]** Men jag skådar dit, men der är ingen; och ser ibland dem, men der är ingen rådgifvare. Jag frågar dem, men då svara de intet.
 
-**[41:29]** Si, det är alltsammans vedermöda, och intet med deras väsende; deras afgudar äro icke utan ett väder och fåfängelighet.  
+**[41:29]** Si, det är alltsammans vedermöda, och intet med deras väsende; deras afgudar äro icke utan ett väder och fåfängelighet.
 
 ### Chapter 42
 
@@ -38498,7 +38498,7 @@
 
 **[42:24]** Ho hafver öfvergifvit Jacob till sköfvels, och Israel röfvarom? Hafver icke Herren gjort det, emot hvilkom vi syndat hafve? Och de ville icke vandra på hans vägar, och lydde icke hans lag.
 
-**[42:25]** Derföre hafver han utskuddat öfver dem sina vredes grymhet, och en krigsmagt, och hafver upptändt dem allt omkring; men de aktade det intet. Han fängde uppå dem, men de lade det intet uppå hjertat.  
+**[42:25]** Derföre hafver han utskuddat öfver dem sina vredes grymhet, och en krigsmagt, och hafver upptändt dem allt omkring; men de aktade det intet. Han fängde uppå dem, men de lade det intet uppå hjertat.
 
 ### Chapter 43
 
@@ -38556,7 +38556,7 @@
 
 **[43:27]** Dine fäder hafva syndat, och dine lärare hafva misshandlat emot mig.
 
-**[43:28]** Derföre hafver jag ohelgat helgedomens Förstar, och gifvit Jacob tillspillo, och Israel till försmädelse.  
+**[43:28]** Derföre hafver jag ohelgat helgedomens Förstar, och gifvit Jacob tillspillo, och Israel till försmädelse.
 
 ### Chapter 44
 
@@ -38614,7 +38614,7 @@
 
 **[44:27]** Jag, som talar till djupet: Försvinn; och till strömmarna: Förtorkens;
 
-**[44:28]** Jag, som säger till Cores: Han är min herde, och skall fullkomna all min vilja, så att man skall säga till Jerusalem: Var byggd; och till templet: Var grundadt.  
+**[44:28]** Jag, som säger till Cores: Han är min herde, och skall fullkomna all min vilja, så att man skall säga till Jerusalem: Var byggd; och till templet: Var grundadt.
 
 ### Chapter 45
 
@@ -38666,7 +38666,7 @@
 
 **[45:24]** (Och säga:) Uti Herranom hafver jag rättfärdighet och starkhet. Desse skola ock komma till honom; men alle de, som honom emotstå, måste till skam varda.
 
-**[45:25]** Ty uti Herranom varder all Israels säd rättfärdigad, och skall berömma sig af honom.  
+**[45:25]** Ty uti Herranom varder all Israels säd rättfärdigad, och skall berömma sig af honom.
 
 ### Chapter 46
 
@@ -38694,7 +38694,7 @@
 
 **[46:12]** Hörer mig, I stolthjertade, I som långt ären ifrå rättfärdighetene.
 
-**[46:13]** Jag hafver låtit mina rättfärdighet när komma; hon är icke långt borto, och min salighet dröjer icke; ty jag vill gifva salighet I Zion, och mina härlighet i Israel.  
+**[46:13]** Jag hafver låtit mina rättfärdighet när komma; hon är icke långt borto, och min salighet dröjer icke; ty jag vill gifva salighet I Zion, och mina härlighet i Israel.
 
 ### Chapter 47
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Si, de äro såsom strå, hvilket elden uppbränner; de kunna icke fria deras lif för låganom; ty ingen glöd skall blifva, der man må värma sig vid, eller eld, der man vid sitta kan.
 
-**[47:15]** Alltså äro de, under hvilka du dig bemödt hafver, dine köpmän af din ungdom; hvar och en varder gångandes sin gång hit och dit, och du hafver ingen hjelpare.  
+**[47:15]** Alltså äro de, under hvilka du dig bemödt hafver, dine köpmän af din ungdom; hvar och en varder gångandes sin gång hit och dit, och du hafver ingen hjelpare.
 
 ### Chapter 48
 
@@ -38772,7 +38772,7 @@
 
 **[48:21]** De hade ingen törst, då han ledde dem i öknene; han lät dem flyta vatten ut af bergklippone, han klöf bergklippona, och der rann ut vatten.
 
-**[48:22]** Men de ogudaktige, säger Herren, hafva ingen frid.  
+**[48:22]** Men de ogudaktige, säger Herren, hafva ingen frid.
 
 ### Chapter 49
 
@@ -38826,7 +38826,7 @@
 
 **[49:25]** Ty så säger Herren: Nu skola de fångar kämpanom borttagne varda, och dess starkas rof löst varda, och jag skall träta med dina trätare, och hjelpa dina barn.
 
-**[49:26]** Och jag skall spisa dina plågare med deras eget kött, och de skola druckne varda af sitt eget blod, såsom af sött vin; och allt kött skall förnimma, att jag är Herren din Frälsare, och din förlossare, den mägtige i Jacob.  
+**[49:26]** Och jag skall spisa dina plågare med deras eget kött, och de skola druckne varda af sitt eget blod, såsom af sött vin; och allt kött skall förnimma, att jag är Herren din Frälsare, och din förlossare, den mägtige i Jacob.
 
 ### Chapter 50
 
@@ -38850,7 +38850,7 @@
 
 **[50:10]** Ho är den ibland eder, som fruktar Herran, den hans tjenares röst lyder? Den i mörkret vandrar, och honom skin intet; han hoppes uppå Herrans Namn, och förlåte sig uppå sin Gud.
 
-**[50:11]** Si, I alle, som upptänden en eld, väpnade med låga, vandrer uti edars elds ljus, och i låganom, som I upptändt hafven; detta vederfars eder af mine hand; uti värk skolen I ligga.  
+**[50:11]** Si, I alle, som upptänden en eld, väpnade med låga, vandrer uti edars elds ljus, och i låganom, som I upptändt hafven; detta vederfars eder af mine hand; uti värk skolen I ligga.
 
 ### Chapter 51
 
@@ -38898,7 +38898,7 @@
 
 **[51:22]** Så säger den som råder öfver dig, Herren, och din Gud, den sitt folk hämnas: Si, jag tager den dvalakalken utu dine hand, samt med dräggene af mine vredes kalk, du skall icke mer dricka honom;
 
-**[51:23]** Utan jag skall få honom dina plågare i handena, de som till dina själ sade: Bocka dig, att vi måge gå öfver dig, och lägg din rygg på jordena, och som ena gato, att man må löpa deröfver.  
+**[51:23]** Utan jag skall få honom dina plågare i handena, de som till dina själ sade: Bocka dig, att vi måge gå öfver dig, och lägg din rygg på jordena, och som ena gato, att man må löpa deröfver.
 
 ### Chapter 52
 
@@ -38930,7 +38930,7 @@
 
 **[52:14]** Så att månge skola förarga sig öfver dig, efter hans skapnad är ledare än andra menniskors, och hans anseende än menniskors barnas.
 
-**[52:15]** Men alltså skall han bestänka många Hedningar, att ock Konungar skola hålla sin mun för honom; ty dem som intet deraf förkunnadt är, de skola se det med lust, och de som intet deraf hört hafva, de skola besinnat.  
+**[52:15]** Men alltså skall han bestänka många Hedningar, att ock Konungar skola hålla sin mun för honom; ty dem som intet deraf förkunnadt är, de skola se det med lust, och de som intet deraf hört hafva, de skola besinnat.
 
 ### Chapter 53
 
@@ -38956,7 +38956,7 @@
 
 **[53:11]** Derföre, att hans själ arbetat hafver, skall han få se sina lust, och nog hafva, och genom sin kunskap skall han, min tjenare, den rättfärdige, många rättfärdiga göra; ty han bär deras synder.
 
-**[53:12]** Derföre vill jag gifva honom ganska mycket till byte, och han skall hafva de starka till rof; derföre att han gifvit sitt lif i döden, och vardt ogerningsmannom lik räknad, och mångas synder bar, och bad för öfverträdarena.  
+**[53:12]** Derföre vill jag gifva honom ganska mycket till byte, och han skall hafva de starka till rof; derföre att han gifvit sitt lif i döden, och vardt ogerningsmannom lik räknad, och mångas synder bar, och bad för öfverträdarena.
 
 ### Chapter 54
 
@@ -38992,7 +38992,7 @@
 
 **[54:16]** Si, jag gör det, att smeden, som uppblås kolen i elden, han gör der ett tyg af, till sitt verk; ty jag gör ock, att förderfvaren förgås.
 
-**[54:17]** Ty hvart och ett tyg, som emot dig tillredt varder, thy skall icke väl gå; och hvar och en tunga, som sig uppsätter emot dig, den skall du fördöma i dome. Detta är Herrans tjenares arf, och deras rättfärdighet af mig, säger Herren.  
+**[54:17]** Ty hvart och ett tyg, som emot dig tillredt varder, thy skall icke väl gå; och hvar och en tunga, som sig uppsätter emot dig, den skall du fördöma i dome. Detta är Herrans tjenares arf, och deras rättfärdighet af mig, säger Herren.
 
 ### Chapter 55
 
@@ -39020,7 +39020,7 @@
 
 **[55:12]** Ty I skolen utgå i glädje, och i frid ledsagade varda; berg och högar skola fröjdas för eder med glädje, och all trä på markene klappa med händerna;
 
-**[55:13]** Furu skall uppväxa för törne, och myrten för törnebuskar; och Herranom skall vara ett Namn och ett evigt tecken, det icke skall utrotadt varda.  
+**[55:13]** Furu skall uppväxa för törne, och myrten för törnebuskar; och Herranom skall vara ett Namn och ett evigt tecken, det icke skall utrotadt varda.
 
 ### Chapter 56
 
@@ -39046,7 +39046,7 @@
 
 **[56:11]** Men de äro starke hundar till kroppen, så att de aldrig kunna mätte varda. Si, herdarna veta intet förstånd; hvar och en ser uppå sin väg; hvar och en girigas för sig i sitt stånd:
 
-**[56:12]** Kommer, låter oss hemta vin, och dricka oss druckna, och vara så i morgon som i dag, och ändå mycket mer.  
+**[56:12]** Kommer, låter oss hemta vin, och dricka oss druckna, och vara så i morgon som i dag, och ändå mycket mer.
 
 ### Chapter 57
 
@@ -39090,7 +39090,7 @@
 
 **[57:20]** Men de ogudaktige äro såsom ett stormande haf, det icke stilla vara kan, och dess vågar häfva upp träck och orenlighet.
 
-**[57:21]** De ogudaktige hafva icke frid, säger min Gud.  
+**[57:21]** De ogudaktige hafva icke frid, säger min Gud.
 
 ### Chapter 58
 
@@ -39120,7 +39120,7 @@
 
 **[58:13]** Om du vänder din fot ifrå Sabbathen, så att du icke gör, på minom helgedag, hvad som dig tyckes, så skall det kallas en lustig Sabbath, till att helga och prisa Herran; ty så varder du honom prisandes, när du icke gör dina vägar, eller varder funnen uti det som dig täckes, eller hvad du talar.
 
-**[58:14]** Allt då skall du hafva lust i Herranom, och jag skall föra dig öfver höjderna på jordene, och skall spisa dig med dins faders Jacobs arf; ty Herrans mun säger det.  
+**[58:14]** Allt då skall du hafva lust i Herranom, och jag skall föra dig öfver höjderna på jordene, och skall spisa dig med dins faders Jacobs arf; ty Herrans mun säger det.
 
 ### Chapter 59
 
@@ -39164,7 +39164,7 @@
 
 **[59:20]** Ty dem i Zion skall komma en förlossare, och dem som sig omvända ifrå synderna i Jacob, säger Herren.
 
-**[59:21]** Och jag gör detta förbund med dem, säger Herren: Min ande, som när dig är, och min ord, de jag uti din mun satt hafver, skola icke vika ifrå dinom mun, ej heller ifrå dine säds och barnabarns mun, säger Herren, ifrå nu och i evighet.  
+**[59:21]** Och jag gör detta förbund med dem, säger Herren: Min ande, som när dig är, och min ord, de jag uti din mun satt hafver, skola icke vika ifrå dinom mun, ej heller ifrå dine säds och barnabarns mun, säger Herren, ifrå nu och i evighet.
 
 ### Chapter 60
 
@@ -39210,7 +39210,7 @@
 
 **[60:21]** Och ditt folk skola allesamman vara rättfärdige, och skola besitta jordena evinnerliga; såsom de der mine planterings qvist, och mina händers verk äro, till pris.
 
-**[60:22]** Utaf dem minsta skola varda tusende, och utaf dem ringesta ett mägtigt folk; Jag, Herren, vill detta i sinom tid snarliga uträtta.  
+**[60:22]** Utaf dem minsta skola varda tusende, och utaf dem ringesta ett mägtigt folk; Jag, Herren, vill detta i sinom tid snarliga uträtta.
 
 ### Chapter 61
 
@@ -39234,7 +39234,7 @@
 
 **[61:10]** Jag fröjdar mig i Herranom, och min själ är glad i minom Gud; ty han hafver mig utiklädt med salighetenes kläder, och dragit uppå mig rättfärdighetenes kjortel, såsom en brudgumme i sitt prål, såsom en Prest i sin prydning, och såsom en brud hofverar uti sin skrud.
 
-**[61:11]** Ty såsom frukten växer utu jordene, och fröet uppgår i örtagårdenom; alltså skall rättfärdighet och lof uppgå för alla Hedningar af Herranom Herranom.  
+**[61:11]** Ty såsom frukten växer utu jordene, och fröet uppgår i örtagårdenom; alltså skall rättfärdighet och lof uppgå för alla Hedningar af Herranom Herranom.
 
 ### Chapter 62
 
@@ -39260,7 +39260,7 @@
 
 **[62:11]** Si, Herren låter höra sig allt intill verldenes ända: Säger dottrene Zion: Si, din salighet kommer; si, hans arbete och hans verk skall icke vara utan frukt.
 
-**[62:12]** Man skall kalla dem det heliga folket, Herrans förlossade; och dig skall man kalla den besökta, och icke öfvergifna staden.  
+**[62:12]** Man skall kalla dem det heliga folket, Herrans förlossade; och dig skall man kalla den besökta, och icke öfvergifna staden.
 
 ### Chapter 63
 
@@ -39300,7 +39300,7 @@
 
 **[63:18]** De besitta ditt helga folk snart alltsamman; våre motståndare nedertrampa din helgedom.
 
-**[63:19]** Vi äre såsom tillförene, då du icke rådde öfver oss, och då vi efter ditt Namn icke nämnde vorom.  
+**[63:19]** Vi äre såsom tillförene, då du icke rådde öfver oss, och då vi efter ditt Namn icke nämnde vorom.
 
 ### Chapter 64
 
@@ -39326,7 +39326,7 @@
 
 **[64:11]** Vår helighets och härlighets hus, der våre fäder dig utinnan lofvat hafva, är uppbrändt med eld, och allt det kosteliga, som vi hadom, är till skam gjordt.
 
-**[64:12]** Vill du, Herre, vara så hård härutinnan, och stilla sitta, och så svårliga, nederslå oss?  
+**[64:12]** Vill du, Herre, vara så hård härutinnan, och stilla sitta, och så svårliga, nederslå oss?
 
 ### Chapter 65
 
@@ -39378,7 +39378,7 @@
 
 **[65:24]** Och skall ske, att förr än de ropa, vill jag svara; medan de ännu tala, vill jag höra.
 
-**[65:25]** Ulfven och lambet skola gå i bet tillsamman; lejonet skall äta strå, såsom ett nöt, och ormen skall äta jord; de skola ingen skada eller förderf göra på hela mitt helga berg, säger Herren.  
+**[65:25]** Ulfven och lambet skola gå i bet tillsamman; lejonet skall äta strå, såsom ett nöt, och ormen skall äta jord; de skola ingen skada eller förderf göra på hela mitt helga berg, säger Herren.
 
 ### Chapter 66
 
@@ -39428,7 +39428,7 @@
 
 **[66:23]** Och allt kött skall komma, den ena månaden efter den andra, och den ena Sabbathen efter den andra, till att tillbedja för mig, säger Herren.
 
-**[66:24]** Och de skola gå ut, och se de menniskors kroppar; som emot mig misshandlat hafva; ty deras matk skall icke dö, och deras eld skall icke utslockna, och skola vara en styggelse för allt kött.   
+**[66:24]** Och de skola gå ut, och se de menniskors kroppar; som emot mig misshandlat hafva; ty deras matk skall icke dö, och deras eld skall icke utslockna, och skola vara en styggelse för allt kött.
 
 ## Jeremiah
 
@@ -39470,7 +39470,7 @@
 
 **[1:18]** Ty jag vill i denna dag göra dig till en fast stad, till en jernpelare, och till en kopparmur i hela landena, emot Juda Konungar, emot hans Förstar, emot hans Prester, emot folket i landena;
 
-**[1:19]** Så att, om de än strida emot dig, skola de likväl intet öfvervinna dig; ty jag är när dig, säger Herren, att jag skall frälsa dig.  
+**[1:19]** Så att, om de än strida emot dig, skola de likväl intet öfvervinna dig; ty jag är när dig, säger Herren, att jag skall frälsa dig.
 
 ### Chapter 2
 
@@ -39546,7 +39546,7 @@
 
 **[2:36]** Hvi hvekar du så mycket, och faller nu hit och nu dit? Men du skall till skam varda med Egypten, lika som du med Assyrien till skam vorden äst.
 
-**[2:37]** Ty du måste ock dädan draga, och slå dina händer tillhopa uppå hufvudet; ty Herren skall låta ditt hopp fela, och intet skall lyckas dig när dem.  
+**[2:37]** Ty du måste ock dädan draga, och slå dina händer tillhopa uppå hufvudet; ty Herren skall låta ditt hopp fela, och intet skall lyckas dig när dem.
 
 ### Chapter 3
 
@@ -39598,7 +39598,7 @@
 
 **[3:24]** Och våra fäders stiktningar, de vi af ungdom hållit hafva, måste afgå med skam; samt med deras får, fä, söner och döttrar.
 
-**[3:25]** Ty der vi förläte oss uppå, det är oss nu alltsammans till skam; och der vi tröste uppå, der måste vi nu skämmas vid; ty vi syndadom dermed emot Herran vår Gud, både vi och våre fäder, allt ifrå vår ungdom och intill denna dag, och lyddom icke Herrans vår Guds röst.  
+**[3:25]** Ty der vi förläte oss uppå, det är oss nu alltsammans till skam; och der vi tröste uppå, der måste vi nu skämmas vid; ty vi syndadom dermed emot Herran vår Gud, både vi och våre fäder, allt ifrå vår ungdom och intill denna dag, och lyddom icke Herrans vår Guds röst.
 
 ### Chapter 4
 
@@ -39662,7 +39662,7 @@
 
 **[4:30]** Hvad Till du göra, du förstörda? Om du än prydde dig med purpurkläde, och med gyldene klenodier, och färgade ditt ansigte, så pryder du dig dock fåfängt; ty de som nu hofvera för dig, de skola förakta dig; de skola gå efter ditt lif.
 
-**[4:31]** Förty jag hörer ett rop, såsom enes den der föder; en ångest, såsom enes den der i första barnsnöd är; ett dottrenes Zions rop, den der klagar och utslår händerna: Ack! ve mig, jag måste nästan förgås för dråps skull.  
+**[4:31]** Förty jag hörer ett rop, såsom enes den der föder; en ångest, såsom enes den der i första barnsnöd är; ett dottrenes Zions rop, den der klagar och utslår händerna: Ack! ve mig, jag måste nästan förgås för dråps skull.
 
 ### Chapter 5
 
@@ -39726,7 +39726,7 @@
 
 **[5:30]** Det står grufveliga och styggeliga till i landena.
 
-**[5:31]** Propheterna lära falskt, och Presterna äro herrar i deras ämbete, och mitt folk vill gerna så hafvat; huru vill eder gå för sådant på sistone?  
+**[5:31]** Propheterna lära falskt, och Presterna äro herrar i deras ämbete, och mitt folk vill gerna så hafvat; huru vill eder gå för sådant på sistone?
 
 ### Chapter 6
 
@@ -39788,7 +39788,7 @@
 
 **[6:29]** Blåsbälgen är förbränd, blyet försvinner, smältningen är förgäfves; ty det onda är icke ifråskildt.
 
-**[6:30]** Derföre heta de ock ett förkastadt silfver; ty Herren hafver förkastat dem.  
+**[6:30]** Derföre heta de ock ett förkastadt silfver; ty Herren hafver förkastat dem.
 
 ### Chapter 7
 
@@ -39858,7 +39858,7 @@
 
 **[7:33]** Och detta folks kroppar skola himmelens foglom, och djuromen på jordene, till spis varda, och ingen skall drifva dem derifrå.
 
-**[7:34]** Och jag skall uti Juda städer, och på gatorna i Jerusalem, borttaga glädjes och fröjds rop, och brudgummes och bruds röst; ty landet skall öde vara.  
+**[7:34]** Och jag skall uti Juda städer, och på gatorna i Jerusalem, borttaga glädjes och fröjds rop, och brudgummes och bruds röst; ty landet skall öde vara.
 
 ### Chapter 8
 
@@ -39904,7 +39904,7 @@
 
 **[8:21]** Mig ömkar svårliga, att mitt folk så förderfvadt är; jag grämer mig, och hafver ganska ondt.
 
-**[8:22]** Är då nu ingen salva, i Gilead? Eller är der ingen läkare? Hvarföre är då mins folks dotter icke helad?  
+**[8:22]** Är då nu ingen salva, i Gilead? Eller är der ingen läkare? Hvarföre är då mins folks dotter icke helad?
 
 ### Chapter 9
 
@@ -39958,7 +39958,7 @@
 
 **[9:25]** Si, den tid kommer, säger Herren, att jag hemsöka skall alla de omskorna med de oomskorna;
 
-**[9:26]** Nämliga Egypten, Juda, Edom, Ammons barn, Moab, och alla de som bo uti de rum i öknene; ty alle Hedningar hafva oomskoren förhud; men hela Israels hus hafver oomskoret hjerta.  
+**[9:26]** Nämliga Egypten, Juda, Edom, Ammons barn, Moab, och alla de som bo uti de rum i öknene; ty alle Hedningar hafva oomskoren förhud; men hela Israels hus hafver oomskoret hjerta.
 
 ### Chapter 10
 
@@ -40010,7 +40010,7 @@
 
 **[10:24]** Näps mig, Herre, dock med måttelighet, och icke uti dine grymhet; på det du icke skall platt göra mig till intet.
 
-**[10:25]** Men gjut dina vrede ut öfver Hedningarna som intet känna dig, och öfver de slägte som intet åkalla ditt Namn: ty de hafva uppfrätit och uppsvulgit Jacob; de hafva gjort en ända med honom, och hans boning förödt.  
+**[10:25]** Men gjut dina vrede ut öfver Hedningarna som intet känna dig, och öfver de slägte som intet åkalla ditt Namn: ty de hafva uppfrätit och uppsvulgit Jacob; de hafva gjort en ända med honom, och hans boning förödt.
 
 ### Chapter 11
 
@@ -40058,7 +40058,7 @@
 
 **[11:22]** Derföre säger Herren Zebaoth alltså: Si, jag vill hemsöka dem; deras unge män skola med svärd dräpne varda, och deras söner och döttrar af hunger dö;
 
-**[11:23]** Så att intet af dem skall qvart blifva; ty jag skall låta en olycko gå öfver dem i Anathoth, på det året då de skola hemsökte varda.  
+**[11:23]** Så att intet af dem skall qvart blifva; ty jag skall låta en olycko gå öfver dem i Anathoth, på det året då de skola hemsökte varda.
 
 ### Chapter 12
 
@@ -40094,7 +40094,7 @@
 
 **[12:16]** Och det skall ske, om de lära af mitt folk, att de svärja vid mitt Namn: Så visst som Herren lefver; lika som de tillförene hafva lärt mitt folk svärja vid Baal, så skola de uppbyggas ibland mitt folk.
 
-**[12:17]** Men om de icke höra vilja, så skall jag det folket utrycka, och förgöra det, säger Herren.  
+**[12:17]** Men om de icke höra vilja, så skall jag det folket utrycka, och förgöra det, säger Herren.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:26]** Så vill jag ock högt upptäcka dina blygd, att man dina skam väl se skall.
 
-**[13:27]** Förty jag hafver sett ditt horeri, dina kättjo, ditt oförskämda boleri: ja, din styggelse både på högom och på åkrom; ve dig, Jerusalem; när vill du dock någon tid renad varda?  
+**[13:27]** Förty jag hafver sett ditt horeri, dina kättjo, ditt oförskämda boleri: ja, din styggelse både på högom och på åkrom; ve dig, Jerusalem; när vill du dock någon tid renad varda?
 
 ### Chapter 14
 
@@ -40196,7 +40196,7 @@
 
 **[14:21]** Men, för ditt Namns skull, låt oss icke skämde varda; låt dine härlighets säte icke begabbadt varda; kom dock ihåg, och låt icke ditt förbund med oss återvända.
 
-**[14:22]** Det är dock ingen ibland Hedningarnas afgudar, som regn gifva kan; himmelen kan ock icke regna. Du äst ju Herren vår Gud, uppå hvilken vi hoppas; ty du kan alltsammans detta göra.  
+**[14:22]** Det är dock ingen ibland Hedningarnas afgudar, som regn gifva kan; himmelen kan ock icke regna. Du äst ju Herren vår Gud, uppå hvilken vi hoppas; ty du kan alltsammans detta göra.
 
 ### Chapter 15
 
@@ -40240,7 +40240,7 @@
 
 **[15:20]** Ty jag hafver gjort dig till en fast kopparmur emot detta folket; om de emot dig strida, så skola de dock intet förmå emot dig; ty jag är när dig, till att hjelpa dig och frälsa dig, säger Herren;
 
-**[15:21]** Och skall frälsa dig utu de högmodigas hand, och förlossa dig utu de tyranners hand.  
+**[15:21]** Och skall frälsa dig utu de högmodigas hand, och förlossa dig utu de tyranners hand.
 
 ### Chapter 16
 
@@ -40284,7 +40284,7 @@
 
 **[16:20]** Huru kan en menniska göra dem till gudar, som inge gudar äro?
 
-**[16:21]** Derföre si, nu vill jag lära dem, och göra dem mina hand och mitt välde kunnigt, att de skola förnimma att jag heter Herren.  
+**[16:21]** Derföre si, nu vill jag lära dem, och göra dem mina hand och mitt välde kunnigt, att de skola förnimma att jag heter Herren.
 
 ### Chapter 17
 
@@ -40340,7 +40340,7 @@
 
 **[17:26]** Och skola komma utaf Juda städer, och de omkring Jerusalem ligga, och utaf BenJamins land, af dalom och bergom, och sunnanefter, de der framföra skola bränneoffer, offer, spisoffer, och tackoffer, till Herrans hus.
 
-**[17:27]** Men om I icke hören mig, så att I helgen Sabbathsdagen, och ingen bördo bären in genom de portar i Jerusalem på Sabbathsdagenom, skall jag upptända en eld i dess portar, den husen i Jerusalem förtära skall, och intet utsläckt varda.  
+**[17:27]** Men om I icke hören mig, så att I helgen Sabbathsdagen, och ingen bördo bären in genom de portar i Jerusalem på Sabbathsdagenom, skall jag upptända en eld i dess portar, den husen i Jerusalem förtära skall, och intet utsläckt varda.
 
 ### Chapter 18
 
@@ -40388,7 +40388,7 @@
 
 **[18:22]** Att ett rop utaf deras husom må hördt varda, huru du med hast hafver låtit krigsfolk komma öfver dem; ty de hafva grafvit ena grop till att fånga mig, och lagt ena snaro för mina fötter.
 
-**[18:23]** Och efter du, Herre, vetst all deras anslag emot mig, att de vilja dräpa mig; så förlåt dem icke deras missgerning, och låt deras synder icke utstrukna varda för dig; låt dem störta inför dig, och handla med dem efter dina vrede.  
+**[18:23]** Och efter du, Herre, vetst all deras anslag emot mig, att de vilja dräpa mig; så förlåt dem icke deras missgerning, och låt deras synder icke utstrukna varda för dig; låt dem störta inför dig, och handla med dem efter dina vrede.
 
 ### Chapter 19
 
@@ -40420,7 +40420,7 @@
 
 **[19:14]** Och då Jeremia, igenkom ifrå Thopheth, dit Herren honom sändt hade, till att prophetera, gick han in i gården åt Herrans hus, och sade till allt folket:
 
-**[19:15]** Detta säger Herren Zebaoth, Israels Gud: Si, jag skall låta komma öfver denna staden, och öfver alla hans städer, all den olycko, som jag emot dem talat hafver; derföre, att de äro halsstyfve, och min ord intet höra vilja.  
+**[19:15]** Detta säger Herren Zebaoth, Israels Gud: Si, jag skall låta komma öfver denna staden, och öfver alla hans städer, all den olycko, som jag emot dem talat hafver; derföre, att de äro halsstyfve, och min ord intet höra vilja.
 
 ### Chapter 20
 
@@ -40458,7 +40458,7 @@
 
 **[20:17]** Att du dock icke hafver dräpit mig i moderlifvena; att min moder måtte varit min graf, och hennes lif måtte evinnerliga hafvandes varit!
 
-**[20:18]** Hvi är jag dock utu moderlifvena framkommen, att jag sådana jämmer och hjertans sorg se måste, och slita mina dagar med skam?  
+**[20:18]** Hvi är jag dock utu moderlifvena framkommen, att jag sådana jämmer och hjertans sorg se måste, och slita mina dagar med skam?
 
 ### Chapter 21
 
@@ -40488,7 +40488,7 @@
 
 **[21:13]** Si, säger Herren: Jag säger dig, du som bor i dalenom, på bergen och på jemna markene, och säger: Ho vill öfverfalla oss, eller komma in uti vårt fäste?
 
-**[21:14]** Jag vill hemsöka eder, säger Herren, efter edra gerningars frukt; jag skall upptända en eld uti edar skog, han skall förtära allt det deromkring är.  
+**[21:14]** Jag vill hemsöka eder, säger Herren, efter edra gerningars frukt; jag skall upptända en eld uti edar skog, han skall förtära allt det deromkring är.
 
 ### Chapter 22
 
@@ -40550,7 +40550,7 @@
 
 **[22:29]** O land, land, land, hör Herrans ord.
 
-**[22:30]** Detta säger Herren: Skrifver denna mannen upp för en förderfvad; för en man dem i sina lifsdagar intet lyckas skall; ty han skall icke hafva den lyckona, att någor af hans säd skall sitta på Davids stol, och länger öfver Juda råda.  
+**[22:30]** Detta säger Herren: Skrifver denna mannen upp för en förderfvad; för en man dem i sina lifsdagar intet lyckas skall; ty han skall icke hafva den lyckona, att någor af hans säd skall sitta på Davids stol, och länger öfver Juda råda.
 
 ### Chapter 23
 
@@ -40632,7 +40632,7 @@
 
 **[23:39]** Si, så skall jag taga eder bort, och bortkasta eder samt med stadenom, som jag eder och edra fäder gifvit hafver, ifrå mitt ansigte;
 
-**[23:40]** Och skall foga eder en evig skam till, och en evig försmädelse, den aldrig förgäten skall varda.  
+**[23:40]** Och skall foga eder en evig skam till, och en evig försmädelse, den aldrig förgäten skall varda.
 
 ### Chapter 24
 
@@ -40654,7 +40654,7 @@
 
 **[24:9]** Jag skall foga dem olycko till, och icke låta dem blifva i något rike på jordene, så att de skola komma till skam, till ett ordspråk, till en fabel, och till bannor, i all rum, dit jag dem bortdrifvandes varder;
 
-**[24:10]** Och skall sända svärd, hunger och pestilentie ibland dem, tilldess de skola förgås af landena, som jag dem och deras fäder gifvit hafver.  
+**[24:10]** Och skall sända svärd, hunger och pestilentie ibland dem, tilldess de skola förgås af landena, som jag dem och deras fäder gifvit hafver.
 
 ### Chapter 25
 
@@ -40732,7 +40732,7 @@
 
 **[25:37]** Och deras ängar, der så väl tillstod, äro förderfvada, af Herrans grymma vrede.
 
-**[25:38]** Han hafver öfvergifvit sina hyddo, lika som ett ungt lejon; och så är deras land förstördt af tyrannens vrede, och af hans grymma vrede.  
+**[25:38]** Han hafver öfvergifvit sina hyddo, lika som ett ungt lejon; och så är deras land förstördt af tyrannens vrede, och af hans grymma vrede.
 
 ### Chapter 26
 
@@ -40782,7 +40782,7 @@
 
 **[26:23]** De förde honom utur Egypten, och hade honom in till Konung Jojakim; han lät då dräpa honom med svärd, och lät begrafva hans kropp snöpliga.
 
-**[26:24]** Alltså var Ahikams, Saphans sons, hand med Jeremia, att han icke kom i folkens händer, att de hade mått dräpit honom.  
+**[26:24]** Alltså var Ahikams, Saphans sons, hand med Jeremia, att han icke kom i folkens händer, att de hade mått dräpit honom.
 
 ### Chapter 27
 
@@ -40828,7 +40828,7 @@
 
 **[27:21]** Ty så säger Herren Zebaoth, Israels Gud, om de tyg som ännu qvarblefne äro i Herrans hus, och i Juda Konungs hus, och i Jerusalem:
 
-**[27:22]** De skola till Babel förde varda, och der blifva intill den dagen, jag söker dem, säger Herren; och jag låter dem åter här uppkomma till detta rummet igen.  
+**[27:22]** De skola till Babel förde varda, och der blifva intill den dagen, jag söker dem, säger Herren; och jag låter dem åter här uppkomma till detta rummet igen.
 
 ### Chapter 28
 
@@ -40864,7 +40864,7 @@
 
 **[28:16]** Derföre säger Herren alltså: Si, jag skall taga dig bort utaf jordene; i detta året skall du dö: ty du hafver med ditt tal afvändt dem ifrå Herranom.
 
-**[28:17]** Och så blef den Propheten Hanania död, på det samma året, i sjunde månadenom.  
+**[28:17]** Och så blef den Propheten Hanania död, på det samma året, i sjunde månadenom.
 
 ### Chapter 29
 
@@ -40930,7 +40930,7 @@
 
 **[29:31]** Sänd bort till alla fångarna, och låt säga dem: Detta säger Herren emot Semaja af Nehelam: Derföre, att Semaja propheterar eder, och jag hafver dock intet sändt honom, och hafver gjort, att I förlåten eder uppå lögn;
 
-**[29:32]** Derföre säger Herren alltså: Si, jag skall hemsöka Semaja af Nehelam, samt med hans säd, så att ingen af hans skall blifva ibland detta folket, och skall icke se det goda, som jag desso mino folke göra vill, säger Herren; ty han hafver med sitt tal afvändt dem ifrå Herranom.  
+**[29:32]** Derföre säger Herren alltså: Si, jag skall hemsöka Semaja af Nehelam, samt med hans säd, så att ingen af hans skall blifva ibland detta folket, och skall icke se det goda, som jag desso mino folke göra vill, säger Herren; ty han hafver med sitt tal afvändt dem ifrå Herranom.
 
 ### Chapter 30
 
@@ -40980,7 +40980,7 @@
 
 **[30:23]** Si, ett Herrans väder skall komma med grymhet; ett förskräckeligit oväder skall falla de ogudaktiga öfver hufvudet.
 
-**[30:24]** Ty Herrans grymma vrede skall icke upphålla, tilldess han gör och uträttar hvad han i sinnet hafver; på sistone skolen I väl förnimma det.  
+**[30:24]** Ty Herrans grymma vrede skall icke upphålla, tilldess han gör och uträttar hvad han i sinnet hafver; på sistone skolen I väl förnimma det.
 
 ### Chapter 31
 
@@ -41062,7 +41062,7 @@
 
 **[31:39]** Och rättesnöret skall gå derifrå länger ut, allt intill den högen Gareb, och vända sig inåt Goath.
 
-**[31:40]** Och hele dödodalen, och askoplatsen, samt med hela dödåkrenom, allt intill Kidrons bäck, intill hörnet af hästaportenom österut, skall varda helig Herranom, så att det aldrig mer skall omkullrifvet eller afbrutet varda.  
+**[31:40]** Och hele dödodalen, och askoplatsen, samt med hela dödåkrenom, allt intill Kidrons bäck, intill hörnet af hästaportenom österut, skall varda helig Herranom, så att det aldrig mer skall omkullrifvet eller afbrutet varda.
 
 ### Chapter 32
 
@@ -41152,7 +41152,7 @@
 
 **[32:43]** Och det skola ännu åkrar köpte varda i desso lande, om hvilket I sägen: Det skall öde ligga, så att hvarken folk eller fä deruti blifva skall, och skall varda gifvet uti de Chaldeers händer.
 
-**[32:44]** Likväl skall man ännu köpa, åkrar för penningar, och bebrefva, försegla och betyga uti BenJamins land, och omkring Jerusalem, och uti Juda städer, uti de städer på bergomen, uti de städer i dalomen, och uti de städer söderut; ty jag skall vända deras fängelse, säger Herren.  
+**[32:44]** Likväl skall man ännu köpa, åkrar för penningar, och bebrefva, försegla och betyga uti BenJamins land, och omkring Jerusalem, och uti Juda städer, uti de städer på bergomen, uti de städer i dalomen, och uti de städer söderut; ty jag skall vända deras fängelse, säger Herren.
 
 ### Chapter 33
 
@@ -41206,7 +41206,7 @@
 
 **[33:25]** Detta säger Herren: Håller jag icke mitt förbund med dag och natt, och den ordning med himmel och jord;
 
-**[33:26]** Så vill jag ock förkasta Jacobs och Davids mina tjenares säd, att jag af deras säd icke tager dem, som råda skola öfver Abrahams, Isaacs och Jacobs säd; ty jag skall omvända deras fängelse, och förbarma mig öfver dem.  
+**[33:26]** Så vill jag ock förkasta Jacobs och Davids mina tjenares säd, att jag af deras säd icke tager dem, som råda skola öfver Abrahams, Isaacs och Jacobs säd; ty jag skall omvända deras fängelse, och förbarma mig öfver dem.
 
 ### Chapter 34
 
@@ -41252,7 +41252,7 @@
 
 **[34:21]** Och Zedekia, Juda Konung, och hans Förstar, skall jag gifva uti deras fiendars händer, och i deras som efter deras lif stå, och i Konungens härs händer af Babel, hvilken nu ifrån eder afdragen är.
 
-**[34:22]** Ty si, jag vill befalla dem, säger Herren, och skall åter låta dem komma inför denna staden, och de skola strida emot honom, och vinna honom, och uppbränna honom i eld; och jag skall föröda Juda städer, så att der ingen mer bo skall.  
+**[34:22]** Ty si, jag vill befalla dem, säger Herren, och skall åter låta dem komma inför denna staden, och de skola strida emot honom, och vinna honom, och uppbränna honom i eld; och jag skall föröda Juda städer, så att der ingen mer bo skall.
 
 ### Chapter 35
 
@@ -41292,7 +41292,7 @@
 
 **[35:18]** Och till de Rechabiters hus sade Jeremia: Detta säger Herren Zebaoth, Israels Gud; derföre att I edars faders Jonadabs bud lydt hafven, och hållit all hans bud, och allt det gjort, som han eder budit hafver;
 
-**[35:19]** Derföre säger Herren Zebaoth, Israels Gud, alltså: Det skall aldrig fela Jonadab, Rechabs sone, att ju någor af hans säd alltid för mig stå skall.  
+**[35:19]** Derföre säger Herren Zebaoth, Israels Gud, alltså: Det skall aldrig fela Jonadab, Rechabs sone, att ju någor af hans säd alltid för mig stå skall.
 
 ### Chapter 36
 
@@ -41358,7 +41358,7 @@
 
 **[36:31]** Och jag skall hemsöka honom, och hans säd, och hans tjenare, för deras missgerningars skull, och jag skall låta komma öfver dem, och öfver Jerusalems inbyggare, och öfver dem i Juda, alla den olycko, som jag till dem talat hafver, och de dock intet höra ville.
 
-**[36:32]** Så tog Jeremia en annan bok, och fick henne Baruch, Neria sone, skrifvarenom: och han skref deruti, af Jeremia mun, all de ord som i bokene stodo, som Jojakim, Juda Konung, hade i eld uppbränna låtit; och till de samma vordo ännu mycket flere ord tillagd, än de förra voro.  
+**[36:32]** Så tog Jeremia en annan bok, och fick henne Baruch, Neria sone, skrifvarenom: och han skref deruti, af Jeremia mun, all de ord som i bokene stodo, som Jojakim, Juda Konung, hade i eld uppbränna låtit; och till de samma vordo ännu mycket flere ord tillagd, än de förra voro.
 
 ### Chapter 37
 
@@ -41402,7 +41402,7 @@
 
 **[37:20]** Och nu, min Herre Konung, hör mig och låt mina bön något gälla för dig, och låt mig icke återsändas uti Jonathans, skrifvarens, hus, att jag der dör.
 
-**[37:21]** Då befallde Konung Zedekia, att man skulle bevara Jeremia uti gårdenom för fångahuset, och lät gifva honom om dagen ett bröd af bakarebodene, tilldess allt brödet i stadenom åtgånget var. Alltså, blef då Jeremia uti gårdenom för fångahuset.  
+**[37:21]** Då befallde Konung Zedekia, att man skulle bevara Jeremia uti gårdenom för fångahuset, och lät gifva honom om dagen ett bröd af bakarebodene, tilldess allt brödet i stadenom åtgånget var. Alltså, blef då Jeremia uti gårdenom för fångahuset.
 
 ### Chapter 38
 
@@ -41460,7 +41460,7 @@
 
 **[38:27]** Då kommo alle Förstarna till Jeremia, och frågade honom; och han sade dem, såsom Konungen honom befallt hade. Så öfvergåfvo de honom, efter de intet kunde förfara af honom.
 
-**[38:28]** Och Jeremia blef uti gårdenom för fångahuset, allt intill den dagen då Jerusalem vunnet vardt; och der var han, då Jerusalem vardt vunnet.  
+**[38:28]** Och Jeremia blef uti gårdenom för fångahuset, allt intill den dagen då Jerusalem vunnet vardt; och der var han, då Jerusalem vardt vunnet.
 
 ### Chapter 39
 
@@ -41498,7 +41498,7 @@
 
 **[39:17]** Men dig vill jag fria på den tiden, säger Herren, och skall icke gifva dig dem i händer, som du fruktar dig före.
 
-**[39:18]** Ty jag skall hjelpa dig derut, så att du icke skall falla genom svärd, utan skall gå af med ditt lif, såsom med ett byte; derföre att du hafver satt dina tröst uppå mig, säger Herren.  
+**[39:18]** Ty jag skall hjelpa dig derut, så att du icke skall falla genom svärd, utan skall gå af med ditt lif, såsom med ett byte; derföre att du hafver satt dina tröst uppå mig, säger Herren.
 
 ### Chapter 40
 
@@ -41532,7 +41532,7 @@
 
 **[40:15]** Då sade Johanan, Kareahs son, till Gedalia hemliga i Mizpa: Käre, jag vill gå bort, och slå Ismael, Nethanja son, ihjäl, så att ingen skall få vetat; hvi skall han slå dig, att alle de Judar, som till dig församlade äro, skola förströdde varda, och de som ännu af Juda qvare blefne äro, förgås?
 
-**[40:16]** Men Gedalia, Ahikams son, sade till Johanan, Kareahs son: Det skall du icke göra; det är intet sant, som du om Ismael säger.  
+**[40:16]** Men Gedalia, Ahikams son, sade till Johanan, Kareahs son: Det skall du icke göra; det är intet sant, som du om Ismael säger.
 
 ### Chapter 41
 
@@ -41570,7 +41570,7 @@
 
 **[41:17]** Och droga bortåt, och kommo till herberge till Chimham vid BethLehem, och ville draga in uti Egypten,
 
-**[41:18]** För de Chaldeer; förty de fruktade sig för dem, efter Ismael, Nethanja son, hade dräpit Gedalia, Ahikams son, den Konungen i Babel öfver landet satt hade.  
+**[41:18]** För de Chaldeer; förty de fruktade sig för dem, efter Ismael, Nethanja son, hade dräpit Gedalia, Ahikams son, den Konungen i Babel öfver landet satt hade.
 
 ### Chapter 42
 
@@ -41616,7 +41616,7 @@
 
 **[42:21]** Det hafver jag nu i dag låtit eder få veta; men I hafven intet velat höra Herrans edars Guds röst, eller allt det han mig till eder befallt hafver.
 
-**[42:22]** Så skolen I nu veta, att I genom svärd, hunger och pestilentie, dö måsten, uti det rum, dit I akten att draga, att I der bo skolen.  
+**[42:22]** Så skolen I nu veta, att I genom svärd, hunger och pestilentie, dö måsten, uti det rum, dit I akten att draga, att I der bo skolen.
 
 ### Chapter 43
 
@@ -41644,7 +41644,7 @@
 
 **[43:12]** Och jag skall tända eld uppå de afgudars hus uti Egypten, att han dem uppbränner och bortförer; och han skall utikläda sig Egypti land, lika som en herde utikläder sig sin mantel, och draga sin väg dädan med frid.
 
-**[43:13]** Och han skall sönderslå de belätestodar i BethSemes, i Egypti land, och uppbränna de afgudakyrkor uti Egypten med eld.  
+**[43:13]** Och han skall sönderslå de belätestodar i BethSemes, i Egypti land, och uppbränna de afgudakyrkor uti Egypten med eld.
 
 ### Chapter 44
 
@@ -41706,7 +41706,7 @@
 
 **[44:29]** Och detta skall vara till ett tecken, säger Herren, att jag eder i desso rummena hemsöka vill, på det I skolen veta, att min ord skola sann varda öfver eder till olycko.
 
-**[44:30]** Så säger Herren: Si, jag skall öfvergifva Pharao Hophra, Konungen i Egypten, uti hans fiendars händer, och deras som efter hans lif stå, likasom jag Zedekia, Juda Konung, öfvergifvit hafver uti NebucadNezars, Konungens i Babel, hans fiendas, hand, och den efter hans lif stod.  
+**[44:30]** Så säger Herren: Si, jag skall öfvergifva Pharao Hophra, Konungen i Egypten, uti hans fiendars händer, och deras som efter hans lif stå, likasom jag Zedekia, Juda Konung, öfvergifvit hafver uti NebucadNezars, Konungens i Babel, hans fiendas, hand, och den efter hans lif stod.
 
 ### Chapter 45
 
@@ -41718,7 +41718,7 @@
 
 **[45:4]** Säg honom alltså: Så säger Herren: Si, det jag uppbyggt hafver, det bryter jag neder, och det jag planterat hafver, det upprycker jag, samt med allt detta mitt eget land.
 
-**[45:5]** Och du begärar dig stor ting? Begära det intet; ty Si, jag vill låta olycko komma öfver allt kött, säger Herren; men dina själ vill jag gifva dig till ett byte, ehvart du drager.  
+**[45:5]** Och du begärar dig stor ting? Begära det intet; ty Si, jag vill låta olycko komma öfver allt kött, säger Herren; men dina själ vill jag gifva dig till ett byte, ehvart du drager.
 
 ### Chapter 46
 
@@ -41776,7 +41776,7 @@
 
 **[46:27]** Men du, min tjenare Jacob, frukta dig intet, och du Israel, förtvifla intet; ty si, jag skall hjelpa dig fjerranefter, och dina säd utu sins fängelses lande, så att Jacob skall igenkomma, och vara i frid, och hafva nog, och ingen skall förskräcka honom.
 
-**[46:28]** Derföre frukta dig intet, du Jacob, min tjenare, säger Herren; ty jag är när dig. Med allom Hedningom, dit jag dig fördrifvit hafver, skall jag en ända göra; men på dig vill jag icke göra en ända, utan skall näpsa dig med måttelighet, på det jag icke skall låta dig blifva ostraffad.  
+**[46:28]** Derföre frukta dig intet, du Jacob, min tjenare, säger Herren; ty jag är när dig. Med allom Hedningom, dit jag dig fördrifvit hafver, skall jag en ända göra; men på dig vill jag icke göra en ända, utan skall näpsa dig med måttelighet, på det jag icke skall låta dig blifva ostraffad.
 
 ### Chapter 47
 
@@ -41792,7 +41792,7 @@
 
 **[47:6]** O! du Herrans svärd, när vill du dock hålla upp? Far dock uti dina skido, och hvila dig, och var stilla.
 
-**[47:7]** Men huru kan du uppehålla, medan Herren hafver gifvit dig befallning emot Askelon, och ställt dig emot hamnarna vid hafvet?  
+**[47:7]** Men huru kan du uppehålla, medan Herren hafver gifvit dig befallning emot Askelon, och ställt dig emot hamnarna vid hafvet?
 
 ### Chapter 48
 
@@ -41888,7 +41888,7 @@
 
 **[48:46]** Ve dig, Moab, förloradt är Chemos folk; ty man hafver tagit dina söner och döttrar, och fört dem bort fångna.
 
-**[48:47]** Men uti tillkommande tid skall jag omvända Moabs fängelse, säger Herren. Det vare nu sagdt om straffet öfver Moab.  
+**[48:47]** Men uti tillkommande tid skall jag omvända Moabs fängelse, säger Herren. Det vare nu sagdt om straffet öfver Moab.
 
 ### Chapter 49
 
@@ -41968,7 +41968,7 @@
 
 **[49:38]** Min stol skall jag sätta i Elam, och skall förgöra der både Konung och Förstar, säger Herren.
 
-**[49:39]** Men i tillkommande tid skall jag vända Elams fängelse om igen, säger Herren.  
+**[49:39]** Men i tillkommande tid skall jag vända Elams fängelse om igen, säger Herren.
 
 ### Chapter 50
 
@@ -42062,7 +42062,7 @@
 
 **[50:45]** Så hörer nu Herrans rådslag, det han öfver Babel hafver, och hans tankar, som han öfver de inbyggare uti de Chaldeers land hafver: Hvad gäller, att vallebarnen skola bortsläpa dem, och förstöra deras boning;
 
-**[50:46]** Och jorden skall bäfva af det skriet, och skall ibland Hedningarna spordt varda, då Babel vunnen varder.  
+**[50:46]** Och jorden skall bäfva af det skriet, och skall ibland Hedningarna spordt varda, då Babel vunnen varder.
 
 ### Chapter 51
 
@@ -42192,7 +42192,7 @@
 
 **[51:63]** Och när du hafver utläsit bokena, så bind en sten dervid, och kasta henne uti Phrath;
 
-**[51:64]** Och säg: Alltså skall Babel försänkt varda, och icke uppkomma igen, för den olycko, som jag skall öfver honom komma låta, utan förgås. Allt härtill hafver Jeremia talat.  
+**[51:64]** Och säg: Alltså skall Babel försänkt varda, och icke uppkomma igen, för den olycko, som jag skall öfver honom komma låta, utan förgås. Allt härtill hafver Jeremia talat.
 
 ### Chapter 52
 
@@ -42262,7 +42262,7 @@
 
 **[52:33]** Och förvandlade honom hans fängelses kläder; och han åt inför honom alltid i sina lifsdagar.
 
-**[52:34]** Och honom vardt alltid gifvet af Konungenom i Babel hans uppehälle, såsom honom förskickadt var i all hans lifstid, allt intill hans ända.   
+**[52:34]** Och honom vardt alltid gifvet af Konungenom i Babel hans uppehälle, såsom honom förskickadt var i all hans lifstid, allt intill hans ända.
 
 ## Lamentations
 
@@ -42310,7 +42310,7 @@
 
 **[1:21]** Man hörer väl, att jag suckar, och hafver dock ingen tröstare; alle mine fiender höra mina olycko, och glädja sig, det gör du; så låt då den dagen komma, som du utropat hafver, att dem skall gå lika som mig.
 
-**[1:22]** Låt alla deras ondsko komma inför dig, och gör med dem, såsom du med mig, för alla mina missgerningars skull, gjort hafver; ty mitt suckande är stort, och mitt hjerta är bedröfvadt.  
+**[1:22]** Låt alla deras ondsko komma inför dig, och gör med dem, såsom du med mig, för alla mina missgerningars skull, gjort hafver; ty mitt suckande är stort, och mitt hjerta är bedröfvadt.
 
 ### Chapter 2
 
@@ -42356,7 +42356,7 @@
 
 **[2:21]** På gatorna, neder på jordene, lågo både unge och gamle; mina jungfrur och ynglingar, äro fallne genom svärd; du hafver dräpit på dine vredes dag, du hafver slagtat utan barmhertighet.
 
-**[2:22]** Du hafver kallat mina fiendar allt omkring, lika som till en helgedag, så att på Herrans vredes dag ingen undsluppen och igenlefd är; de som jag uppfödt och uppfostrat hafver, dem hafver fienden förgjort.  
+**[2:22]** Du hafver kallat mina fiendar allt omkring, lika som till en helgedag, så att på Herrans vredes dag ingen undsluppen och igenlefd är; de som jag uppfödt och uppfostrat hafver, dem hafver fienden förgjort.
 
 ### Chapter 3
 
@@ -42490,7 +42490,7 @@
 
 **[3:65]** Låt dem deras hjerta förskräckas och känna dina banno.
 
-**[3:66]** Förfölj dem med grymhet, och förgör dem under Herrans himmel.  
+**[3:66]** Förfölj dem med grymhet, och förgör dem under Herrans himmel.
 
 ### Chapter 4
 
@@ -42536,7 +42536,7 @@
 
 **[4:21]** Ja, fröjda dig, och var glad, du dotter Edom, som bor i Uz lande; ty kalken skall ock komma öfver dig; du måste också drucken och blottad varda.
 
-**[4:22]** Men din ondska hafver en ända, du dotter Zion; han skall icke mer låta bortföra dig; men dina ondsko, du dotter Edom, skall han hemsöka, och upptäcka dina synder.  
+**[4:22]** Men din ondska hafver en ända, du dotter Zion; han skall icke mer låta bortföra dig; men dina ondsko, du dotter Edom, skall han hemsöka, och upptäcka dina synder.
 
 ### Chapter 5
 
@@ -42582,7 +42582,7 @@
 
 **[5:21]** Hemta oss, Herre, åter till dig, att vi måge komma hem igen; förnya våra dagar, lika som de fordom voro.
 
-**[5:22]** Ty du hafver förkastat oss, och är allt svårliga öfver oss förtörnad.   
+**[5:22]** Ty du hafver förkastat oss, och är allt svårliga öfver oss förtörnad.
 
 ## Ezekiel
 
@@ -42642,7 +42642,7 @@
 
 **[1:27]** Och jag såg, och det var såsom ett klart ljus; och innantill var det såsom en eld allt omkring; ifrå hans länder upp och neder såg jag såsom en eld blänka allt omkring.
 
-**[1:28]** Lika som regnbågen synes i molnskynom, när regnat hafver, så blänkte det allt omkring. Detta var Herrans härlighets anseende; och då jag det sett hade, föll jag uppå mitt ansigte, och hörde en tala.  
+**[1:28]** Lika som regnbågen synes i molnskynom, när regnat hafver, så blänkte det allt omkring. Detta var Herrans härlighets anseende; och då jag det sett hade, föll jag uppå mitt ansigte, och hörde en tala.
 
 ### Chapter 2
 
@@ -42664,7 +42664,7 @@
 
 **[2:9]** Och jag såg, och si, en hand vardt uträckt till mig; den hade ett sammanviket bref;
 
-**[2:10]** Hvilket hon upplät för mig, och der var beskrifvet utan och innan, och der var uti skrifvet klagan, ack och ve.  
+**[2:10]** Hvilket hon upplät för mig, och der var beskrifvet utan och innan, och der var uti skrifvet klagan, ack och ve.
 
 ### Chapter 3
 
@@ -42720,7 +42720,7 @@
 
 **[3:26]** Och jag skall låta dina tungo låda vid din gom, så att du skall varda en dumbe, och intet mer kunna straffa dem; ty det är ett ohörsamt folk.
 
-**[3:27]** Men när jag talar med dig, så vill jag öppna dig munnen, att du till dem säga skall: Detta säger Herren Herren: den det hörer, han höret; den det låter, han låtet; ty det är ett ohörsamt folk.  
+**[3:27]** Men när jag talar med dig, så vill jag öppna dig munnen, att du till dem säga skall: Detta säger Herren Herren: den det hörer, han höret; den det låter, han låtet; ty det är ett ohörsamt folk.
 
 ### Chapter 4
 
@@ -42756,7 +42756,7 @@
 
 **[4:16]** Och sade till mig: Du menniskobarn, si, jag skall borttaga bröds uppehälle i Jerusalem, så att de skola äta bröd efter vigt, och med bekymmer, och dricka vatten efter mått, med bekymmer.
 
-**[4:17]** Derföre, att det skall fattas både bröd och vatten, och den ene skall sörja med dem andra, och försmäkta uti sina missgerningar.  
+**[4:17]** Derföre, att det skall fattas både bröd och vatten, och den ene skall sörja med dem andra, och försmäkta uti sina missgerningar.
 
 ### Chapter 5
 
@@ -42792,7 +42792,7 @@
 
 **[5:16]** Och när jag onda hungrens pilar ibland dem skjutandes varder, hvilke skadelige vara skola, och jag dem utskjuta skall till att förderfva eder, och låta hungren ju större och större varda öfver eder, och taga bort ifrån eder bröds uppehälle.
 
-**[5:17]** Ja, hunger och ond vilddjur skall jag låta komma ibland eder, de skola göra eder barnlösa; och der skall pestilentie och blod vanka ibland dig; och svärdet skall jag låta komma öfver dig; Jag Herren hafver det sagt.  
+**[5:17]** Ja, hunger och ond vilddjur skall jag låta komma ibland eder, de skola göra eder barnlösa; och der skall pestilentie och blod vanka ibland dig; och svärdet skall jag låta komma öfver dig; Jag Herren hafver det sagt.
 
 ### Chapter 6
 
@@ -42822,7 +42822,7 @@
 
 **[6:13]** Att I förnimma skolen, att jag är Herren, när deras slagne skola ligga ibland deras afgudar omkring deras altare, på alla högar, och på all berg, och under all grön trä, och under alla tjocka ekar, i hvilka rum de allahanda afgudom sött rökoffer gjort hafva.
 
-**[6:14]** Jag skall utsträcka mina hand emot dem, och göra landet tomt och öde, allt ifrån öknene intill Diblath, ehvar de bo; och de skola förnimma, att jag är Herren.  
+**[6:14]** Jag skall utsträcka mina hand emot dem, och göra landet tomt och öde, allt ifrån öknene intill Diblath, ehvar de bo; och de skola förnimma, att jag är Herren.
 
 ### Chapter 7
 
@@ -42878,7 +42878,7 @@
 
 **[7:26]** En olycka skall komma efter den andra, ett rykte öfver det andra; så skola de då söka ena syn när Prophetanom; men der skall hvarken lagen mer vara när Prestenom, eller råd när de gamla.
 
-**[7:27]** Konungen skall vara bedröfvad, och Förstarna skola sorgeliga klädde vara, och folkens händer i landena skola förtviflada vara: Jag skall så ställa mig med dem, såsom de lefvat hafva, och skall döma dem, såsom de förtjent hafva, att de skola förnimma, att jag är Herren.  
+**[7:27]** Konungen skall vara bedröfvad, och Förstarna skola sorgeliga klädde vara, och folkens händer i landena skola förtviflada vara: Jag skall så ställa mig med dem, såsom de lefvat hafva, och skall döma dem, såsom de förtjent hafva, att de skola förnimma, att jag är Herren.
 
 ### Chapter 8
 
@@ -42916,7 +42916,7 @@
 
 **[8:17]** Och han sade till mig: Du menniskobarn, ser du detta? Är detta Juda huse en ringa ting, att de här all sådana styggelser göra, efter de dock eljest öfver allt landet öfvervåld och orätt bedrifva, och fara till och reta mig; och si, de hålla en löfqvist för näsone.
 
-**[8:18]** Derföre skall jag ock handla emot dem med grymhet, och mitt öga skall hvarken skona dem, eller öfverse med dem; och om de än ropa med höga röst för min öron, så vill jag dock intet höra dem.  
+**[8:18]** Derföre skall jag ock handla emot dem med grymhet, och mitt öga skall hvarken skona dem, eller öfverse med dem; och om de än ropa med höga röst för min öron, så vill jag dock intet höra dem.
 
 ### Chapter 9
 
@@ -42940,7 +42940,7 @@
 
 **[9:10]** Derföre skall mitt öga ock intet skona, och ingen nåd bevisa; utan jag skall göra med dem, som de förtjent hafva.
 
-**[9:11]** Och si, den mannen, som linnkläden uppå hade, och skriftyget vid sina sido, svarade, och sade: Jag hafver gjort såsom du mig budit hafver.  
+**[9:11]** Och si, den mannen, som linnkläden uppå hade, och skriftyget vid sina sido, svarade, och sade: Jag hafver gjort såsom du mig budit hafver.
 
 ### Chapter 10
 
@@ -42986,7 +42986,7 @@
 
 **[10:21]** Och hvartdera hade ju fyra ansigten, och fyra vingar, och under vingomen lika som menniskohänder.
 
-**[10:22]** Deras ansigte var lika som jag dem såg vid älfvena Chebar; och de gingo rätt framåt.  
+**[10:22]** Deras ansigte var lika som jag dem såg vid älfvena Chebar; och de gingo rätt framåt.
 
 ### Chapter 11
 
@@ -43038,7 +43038,7 @@
 
 **[11:24]** Och ett väder upptog mig, och förde mig, i ene syn och i Guds Anda, in uti Chaldee land, till fångarna; och den synen, som jag sett hade, försvann för mig.
 
-**[11:25]** Och jag sade fångamen all Herrans ord, som han mig vist hade.  
+**[11:25]** Och jag sade fångamen all Herrans ord, som han mig vist hade.
 
 ### Chapter 12
 
@@ -43096,7 +43096,7 @@
 
 **[12:27]** Du menniskobarn, si, Israels hus säger: Den synen, som denne ser, dit är ännu långt, och propheterar om den tid, som ännu långt borto är.
 
-**[12:28]** Derföre säg till dem: Så säger Herren Herren: Det jag talar, det skall icke länger fördröjdt varda; utan skall ske, säger Herren Herren.  
+**[12:28]** Derföre säg till dem: Så säger Herren Herren: Det jag talar, det skall icke länger fördröjdt varda; utan skall ske, säger Herren Herren.
 
 ### Chapter 13
 
@@ -43144,7 +43144,7 @@
 
 **[13:22]** Derföre, att I falskeliga bedröfven de rättfärdigas hjerta, hvilka jag intet bedröfvat hafver, och hafven styrkt de ogudaktigas händer, så att de intet omvända sig ifrå sitt onda väsende, på det de måtte lefvande blifva.
 
-**[13:23]** Derföre skolen I intet mer predika onyttiga läro, eller prophetera; utan jag skall fria mitt folk utur edra händer, och I skolen förnimma, att jag är Herren.  
+**[13:23]** Derföre skolen I intet mer predika onyttiga läro, eller prophetera; utan jag skall fria mitt folk utur edra händer, och I skolen förnimma, att jag är Herren.
 
 ### Chapter 14
 
@@ -43192,7 +43192,7 @@
 
 **[14:22]** Si, så skola någre derinne igenlefvas och undslippa, hvilke söner och döttrar der utföra skola, och komma hit till eder, att I se skolen, huru dem går, och trösta eder öfver den olycko, som jag öfver Jerusalem hafver komma låtit, samt med allt annat, det jag öfver dem hafver komma låtit.
 
-**[14:23]** De skola vara edor tröst, då I fån se huru dem går, och kunnen besinna, att jag icke utan sak gjort hafver, hvad jag derinne gjort hafver, säger Herren Herren.  
+**[14:23]** De skola vara edor tröst, då I fån se huru dem går, och kunnen besinna, att jag icke utan sak gjort hafver, hvad jag derinne gjort hafver, säger Herren Herren.
 
 ### Chapter 15
 
@@ -43210,7 +43210,7 @@
 
 **[15:7]** Och skall sätta mitt ansigte emot dem, att de icke skola undkomma elden, utan elden skall uppfräta dem; och I skolen förnimma, att jag är Herren, när jag sätter mitt ansigte emot dem;
 
-**[15:8]** Och gör landet öde; efter de hafva försmädat mig, säger Herren Herren.  
+**[15:8]** Och gör landet öde; efter de hafva försmädat mig, säger Herren Herren.
 
 ### Chapter 16
 
@@ -43338,7 +43338,7 @@
 
 **[16:62]** Utan jag vill göra mitt förbund med dig, att du förnimma skall, att jag är Herren;
 
-**[16:63]** På det du skall tänka deruppå och skämmas, och för skams skull icke djerfvas upplåta din mun, när jag dig förlåtandes varder allt det du gjort hafver, säger Herren Herren.  
+**[16:63]** På det du skall tänka deruppå och skämmas, och för skams skull icke djerfvas upplåta din mun, när jag dig förlåtandes varder allt det du gjort hafver, säger Herren Herren.
 
 ### Chapter 17
 
@@ -43388,7 +43388,7 @@
 
 **[17:23]** Nämliga på det höga berget Israel vill jag plantera honom, på det han skall gro och bära frukt, och varda ett stort cedreträ, så att allehanda foglar skola kunna bo och blifva under honom, och under hans qvistars skugga.
 
-**[17:24]** Och all trä på markene skola förnimma att jag, Herren, hafver det höga trät förnedrat, och det låga trät upphöjt, och det gröna trät förtorkat, och det torra trät grönskande gjort; jag, Herren, talar det, och gör de också.  
+**[17:24]** Och all trä på markene skola förnimma att jag, Herren, hafver det höga trät förnedrat, och det låga trät upphöjt, och det gröna trät förtorkat, och det torra trät grönskande gjort; jag, Herren, talar det, och gör de också.
 
 ### Chapter 18
 
@@ -43454,7 +43454,7 @@
 
 **[18:31]** Kaster ifrån eder all edor öfverträdelse, der I med öfverträdt hafven, och görer eder ett nytt hjerta, och ny anda; ty hvi vill du så dö, du Israels hus?
 
-**[18:32]** Ty jag hafver ingen lust till hans död, som dör, säger Herren Herren; derföre omvänder eder, så fån I lefva.  
+**[18:32]** Ty jag hafver ingen lust till hans död, som dör, säger Herren Herren; derföre omvänder eder, så fån I lefva.
 
 ### Chapter 19
 
@@ -43484,7 +43484,7 @@
 
 **[19:13]** Men nu är det planteradt i öknene, uti eno torro och törstigo lande.
 
-**[19:14]** Och en eld gick utaf dess starka qvistar, den förtärde dess frukt, så att der inge starka qvistar mer uppå äro till några herraspiro; det är en klagelig och jämmerlig ting.  
+**[19:14]** Och en eld gick utaf dess starka qvistar, den förtärde dess frukt, så att der inge starka qvistar mer uppå äro till några herraspiro; det är en klagelig och jämmerlig ting.
 
 ### Chapter 20
 
@@ -43584,7 +43584,7 @@
 
 **[20:48]** Och allt kött skall se att jag, Herren, det upptändt hafver, och ingen det utsläcka kan.
 
-**[20:49]** Och jag sade: Ack Herre Herre! de säga om mig: Denne talar icke annat än förtäckt ord:  
+**[20:49]** Och jag sade: Ack Herre Herre! de säga om mig: Denne talar icke annat än förtäckt ord:
 
 ### Chapter 21
 
@@ -43650,7 +43650,7 @@
 
 **[21:31]** Och vill utgjuta mina vrede öfver dig; jag skall uppblåsa mine grymhets eld, och öfverantvarda dig sådana menniskom i händer, som bränna och förderfva kunna.
 
-**[21:32]** Du måste varda eldenom till spis, och ditt blod måste i landena utgjutet varda, och man skall icke mer tänka uppå dig; ty jag, Herren, hafver det talat.  
+**[21:32]** Du måste varda eldenom till spis, och ditt blod måste i landena utgjutet varda, och man skall icke mer tänka uppå dig; ty jag, Herren, hafver det talat.
 
 ### Chapter 22
 
@@ -43714,7 +43714,7 @@
 
 **[22:30]** Jag sökte ibland dem, om någor ville förtaga och stilla vredena för mig, att jag icke skulle förderfva landet; men jag fann ingen.
 
-**[22:31]** Derföre utgöt jag mina vrede öfver dem, och med mine grymhets eld gjorde jag en ända med dem, och gaf dem deras förtjenst uppå deras hufvud, säger Herren Herren.  
+**[22:31]** Derföre utgöt jag mina vrede öfver dem, och med mine grymhets eld gjorde jag en ända med dem, och gaf dem deras förtjenst uppå deras hufvud, säger Herren Herren.
 
 ### Chapter 23
 
@@ -43814,7 +43814,7 @@
 
 **[23:48]** Alltså skall jag göra en ända på otuktena i landena, så att alla qvinnor skola se dervid, och icke göra efter slika otukt.
 
-**[23:49]** Och man skall lägga edra otukt uppå eder, och I skolen bära edra afgudars synder, på det I skolen förnimma, att jag är Herren Herren.  
+**[23:49]** Och man skall lägga edra otukt uppå eder, och I skolen bära edra afgudars synder, på det I skolen förnimma, att jag är Herren Herren.
 
 ### Chapter 24
 
@@ -43870,7 +43870,7 @@
 
 **[24:26]** Ja, på den samma tiden skall en, den der undsluppen är, komma till dig, och förkunna dig det.
 
-**[24:27]** På den tiden skall din mun, emot den som undsluppen är, upplåten varda, att du skall tala, och icke mer tiga; ty då måste vara dem ett tecken, på det de skola förnimma att jag är Herren.  
+**[24:27]** På den tiden skall din mun, emot den som undsluppen är, upplåten varda, att du skall tala, och icke mer tiga; ty då måste vara dem ett tecken, på det de skola förnimma att jag är Herren.
 
 ### Chapter 25
 
@@ -43906,7 +43906,7 @@
 
 **[25:16]** Derföre säger Herren Herren alltså: Si, jag skall uträcka mina hand öfver de Philisteer, och förgöra de dräpare, och förstöra dem, som igenlefvas vid hafshamnena;
 
-**[25:17]** Och göra en stor hämnd uppå dem, och näpsa dem med grymhet; att de förnimma skola att jag är Herren, när jag hafver mina hämnd öfver dem gå låtit.  
+**[25:17]** Och göra en stor hämnd uppå dem, och näpsa dem med grymhet; att de förnimma skola att jag är Herren, när jag hafver mina hämnd öfver dem gå låtit.
 
 ### Chapter 26
 
@@ -43950,7 +43950,7 @@
 
 **[26:20]** Och jag skall störta dig neder till dem som fara uti kulona, till de döda, och skall störta dig neder under jordena, och göra dig lika som ett evigt öde, med dem som uti kulona fara; på det att ingen skall bo uti dig, och du icke mer så pråla skall ibland de lefvande.
 
-**[26:21]** Ty hasteliga skall jag göra en ända med dig, att du icke mer skall vara till: så att, när man frågar efter dig, skall då ingen mer kunna finna dig, till evig tid, säger Herren Herren.  
+**[26:21]** Ty hasteliga skall jag göra en ända med dig, att du icke mer skall vara till: så att, när man frågar efter dig, skall då ingen mer kunna finna dig, till evig tid, säger Herren Herren.
 
 ### Chapter 27
 
@@ -44024,7 +44024,7 @@
 
 **[27:35]** Alle de, som på öarna bo, förskräckas öfver dig, och deras Konungar grufva sig, och se ömkeliga ut.
 
-**[27:36]** De köpmän i landena hvissla till dig, att du så hastigt förgången äst, och kan intet mer uppkomma.  
+**[27:36]** De köpmän i landena hvissla till dig, att du så hastigt förgången äst, och kan intet mer uppkomma.
 
 ### Chapter 28
 
@@ -44078,7 +44078,7 @@
 
 **[28:25]** Detta säger Herren Herren: När jag Israels hus församlandes varder ifrå folken, dit de förströdde äro, så skall jag uppå, dem bevisa för Hedningomen, att jag är helig; och de skola bo uti sitt land, det jag minom tjenare Jacob gifvit hafver;
 
-**[28:26]** Och skola bo säkre derinne, och bygga hus, och plantera vingårdar; ja, säkreskola de bo, när jag låter gå rätten öfver alla deras fiendar allt omkring; och de skola förnimma att jag, Herren, är deras Gud.  
+**[28:26]** Och skola bo säkre derinne, och bygga hus, och plantera vingårdar; ja, säkreskola de bo, när jag låter gå rätten öfver alla deras fiendar allt omkring; och de skola förnimma att jag, Herren, är deras Gud.
 
 ### Chapter 29
 
@@ -44122,7 +44122,7 @@
 
 **[29:20]** Men Egypti land vill jag gifva honom för sitt arbete, som han derpå gjort hafver; ty de hafva tjent mig, säger Herren Herren.
 
-**[29:21]** På den tiden skall jag låta växa Israels hus horn, och skall upplåta din mun ibland dem, att de skola, förnimma att jag är Herren.  
+**[29:21]** På den tiden skall jag låta växa Israels hus horn, och skall upplåta din mun ibland dem, att de skola, förnimma att jag är Herren.
 
 ### Chapter 30
 
@@ -44176,7 +44176,7 @@
 
 **[30:25]** Ja, jag vill stärka Konungens armar af Babel, på det Pharaos armar skola sönderbråkade varda; att de skola veta att jag är Herren, när jag gifver Konungenom af Babel svärdet i handena, att han det öfver Egypti land utdraga skall;
 
-**[30:26]** Och jag förströr de Egyptier ibland Hedningarna, och förjagar dem i landen, att de skola förnimma att jag är Herren.  
+**[30:26]** Och jag förströr de Egyptier ibland Hedningarna, och förjagar dem i landen, att de skola förnimma att jag är Herren.
 
 ### Chapter 31
 
@@ -44214,7 +44214,7 @@
 
 **[31:17]** Ty de måste ock med honom neder åt helvetet, till de slagna med svärd, efter de under hans arms skugga ibland Hedningarna bott hade.
 
-**[31:18]** Huru stor menar du då att du äst, med ditt prål och härlighet, ibland de lustiga trän? Ty du måste med de lustiga trän fara neder under jordena, och ligga ibland de oomskorna, hvilke med svärd slagne äro; alltså skall det gå dig, Pharao, med allo dino folke, säger Herren Herren.  
+**[31:18]** Huru stor menar du då att du äst, med ditt prål och härlighet, ibland de lustiga trän? Ty du måste med de lustiga trän fara neder under jordena, och ligga ibland de oomskorna, hvilke med svärd slagne äro; alltså skall det gå dig, Pharao, med allo dino folke, säger Herren Herren.
 
 ### Chapter 32
 
@@ -44280,7 +44280,7 @@
 
 **[32:31]** Dessa skall Pharao få se, och hugna sig med allo sino folke, som under honom med svärd slagne äro, och med sinom hela här, säger Herren Herren.
 
-**[32:32]** Ty hela verlden skall dock en dag frukta sig för mig, att Pharao och all hans hop, ibland de oomskorna och med svärd slagna, ligga skall, säger Herren Herren.  
+**[32:32]** Ty hela verlden skall dock en dag frukta sig för mig, att Pharao och all hans hop, ibland de oomskorna och med svärd slagna, ligga skall, säger Herren Herren.
 
 ### Chapter 33
 
@@ -44348,7 +44348,7 @@
 
 **[33:32]** Och si, du måste vara deras visa, den de gerna sjunga och spela skola; alltså skola de höra din ord, och intet göra derefter.
 
-**[33:33]** Men när det kommer, som komma skall, si, så skola de förnimma, att en Prophet ibland dem varit hafver.  
+**[33:33]** Men när det kommer, som komma skall, si, så skola de förnimma, att en Prophet ibland dem varit hafver.
 
 ### Chapter 34
 
@@ -44412,7 +44412,7 @@
 
 **[34:30]** Och skola veta att jag, Herren deras Gud, när dem är, och att de af Israels hus äro mitt folk, säger Herren Herren.
 
-**[34:31]** Ja, I menniskor skolen vara min fosterfår, och jag vill vara edar Gud, säger Herren Herren.  
+**[34:31]** Ja, I menniskor skolen vara min fosterfår, och jag vill vara edar Gud, säger Herren Herren.
 
 ### Chapter 35
 
@@ -44444,7 +44444,7 @@
 
 **[35:14]** Så säger nu Herren Herren: Efter du hafver allestäds fröjdat dig i ditt land, så skall jag göra dig till ett öde.
 
-**[35:15]** Och lika som du hafver fröjdat dig, och ment att du skulle intaga Israels hus, derföre att det öde var, rätt så vill jag göra med dig, att Seirs berg måste öde varda, samt med hela Edom; och de skola förnimma, att jag är Herren.  
+**[35:15]** Och lika som du hafver fröjdat dig, och ment att du skulle intaga Israels hus, derföre att det öde var, rätt så vill jag göra med dig, att Seirs berg måste öde varda, samt med hela Edom; och de skola förnimma, att jag är Herren.
 
 ### Chapter 36
 
@@ -44522,7 +44522,7 @@
 
 **[36:37]** Detta säger Herren Herren: Israels hus skall finna mig igen, att jag bevisar mig emot dem, och jag skall föröka dem, lika som en menniskohjord.
 
-**[36:38]** Såsom en helig hjord, såsom en hjord i Jerusalem, på deras högtider, så skola de förhärjade städer varda fulle med menniskohjordar, och skola förnimma att jag är Herren.  
+**[36:38]** Såsom en helig hjord, såsom en hjord i Jerusalem, på deras högtider, så skola de förhärjade städer varda fulle med menniskohjordar, och skola förnimma att jag är Herren.
 
 ### Chapter 37
 
@@ -44580,7 +44580,7 @@
 
 **[37:27]** Och jag skall bo ibland dem, och vara deras Gud, och de skola vara mitt folk;
 
-**[37:28]** Så att ock Hedningarna skola förnimma, att jag är Herren, den Israel helig gör, och min helgedom skall vara när dem evinnerliga.  
+**[37:28]** Så att ock Hedningarna skola förnimma, att jag är Herren, den Israel helig gör, och min helgedom skall vara när dem evinnerliga.
 
 ### Chapter 38
 
@@ -44628,7 +44628,7 @@
 
 **[38:22]** Och jag skall döma honom med pestilentie och blod, och skall låta regna slagregn med hagelsten, eld och svafvel, uppå honom och hans här, och uppå det myckna folket, som med honom är.
 
-**[38:23]** Alltså skall jag då härlig, helig och kunnig varda för många Hedningar, att de förnimma skola att jag är Herren.  
+**[38:23]** Alltså skall jag då härlig, helig och kunnig varda för många Hedningar, att de förnimma skola att jag är Herren.
 
 ### Chapter 39
 
@@ -44688,7 +44688,7 @@
 
 **[39:28]** Alltså skola de förnimma, att jag, Herren, är deras Gud, som dem hafver Iåtit bortföra ibland Hedningarna, och åter låtit församla dem uti sitt land igen, och icke en af dem der blifva låtit;
 
-**[39:29]** Och skall icke mer fördölja mitt ansigte för dem; ty jag hafver utgjutit min Anda öfver Israels hus, säger Herren Herren.  
+**[39:29]** Och skall icke mer fördölja mitt ansigte för dem; ty jag hafver utgjutit min Anda öfver Israels hus, säger Herren Herren.
 
 ### Chapter 40
 
@@ -44788,7 +44788,7 @@
 
 **[40:48]** Och han hade mig in uti förhuset åt templet, och mälte porten af förhuset, och väggarna på båda sidor; de voro hvardera fem alnar breda, och hvar dörren på båda sidor var tre alnar bred.
 
-**[40:49]** Men förhuset var tjugu alnar högt, och ellofva alnar bredt, och hade trappor, der man uppgick; och pelare stodo nedan under tornen, en på hvar sido.  
+**[40:49]** Men förhuset var tjugu alnar högt, och ellofva alnar bredt, och hade trappor, der man uppgick; och pelare stodo nedan under tornen, en på hvar sido.
 
 ### Chapter 41
 
@@ -44842,7 +44842,7 @@
 
 **[41:25]** Och der voro också Cherubim och löfverk uppå, lika som på väggomen, och der voro starke bommar före in mot förhuset.
 
-**[41:26]** Och voro trång fenster, och mycket löfverk allt omkring, på förhusens, och på väggomen.  
+**[41:26]** Och voro trång fenster, och mycket löfverk allt omkring, på förhusens, och på väggomen.
 
 ### Chapter 42
 
@@ -44884,7 +44884,7 @@
 
 **[42:19]** Och då han kom vesterut, mälte han ock femhundrade stänger långt.
 
-**[42:20]** Alltså höll muren, den han mält hade, i fyrkant, på hvar sidon femhundrade stänger, allt omkring, att det helga skulle åtskildt vara ifrå det ohelga.  
+**[42:20]** Alltså höll muren, den han mält hade, i fyrkant, på hvar sidon femhundrade stänger, allt omkring, att det helga skulle åtskildt vara ifrå det ohelga.
 
 ### Chapter 43
 
@@ -44940,7 +44940,7 @@
 
 **[43:26]** Och skola alltså försona altaret i sju dagar långt, och rena det, och fylla sina händer.
 
-**[43:27]** Och efter de sju dagarna skola Presterna på åttonde dagen, och sedan alltid, offra på altarena sitt bränneoffer och tackoffer; så vill jag vara eder nådelig, säger Herren Herren.  
+**[43:27]** Och efter de sju dagarna skola Presterna på åttonde dagen, och sedan alltid, offra på altarena sitt bränneoffer och tackoffer; så vill jag vara eder nådelig, säger Herren Herren.
 
 ### Chapter 44
 
@@ -45004,7 +45004,7 @@
 
 **[44:30]** Och all första frukt och förstföding af all häfoffer skall höra Prestomen till; I skolen ock gifva Prestomen förstlingen af allt det man äter, på det att välsignelse må blifva uti ditt hus.
 
-**[44:31]** Men det som ett as är eller rifvet, ehvad det är af fogel eller djur, det skola Presterna icke äta.  
+**[44:31]** Men det som ett as är eller rifvet, ehvad det är af fogel eller djur, det skola Presterna icke äta.
 
 ### Chapter 45
 
@@ -45056,7 +45056,7 @@
 
 **[45:24]** Men till spisoffer skall han ju offra ett epha till hvar stut, och ett epha till hvar vädur, och ju ett hin oljo till hvart epha.
 
-**[45:25]** På femtonde dagen i sjunde månadenom skall han hålla heligt i sju dagar efter hvarannan, lika som de andra sju dagar, och rätt så hållat med syndoffer, bränneoffer, spisoffer, och med oljo.  
+**[45:25]** På femtonde dagen i sjunde månadenom skall han hålla heligt i sju dagar efter hvarannan, lika som de andra sju dagar, och rätt så hållat med syndoffer, bränneoffer, spisoffer, och med oljo.
 
 ### Chapter 46
 
@@ -45106,7 +45106,7 @@
 
 **[46:23]** Och der gick en liten mur om dem alla fyra; der voro eldstäder gjorde nedre utmed muren allt omkring.
 
-**[46:24]** Och han sade till mig: Detta år kokorummet, der tjenarena i husens uti koka skola det som folket offrar.  
+**[46:24]** Och han sade till mig: Detta år kokorummet, der tjenarena i husens uti koka skola det som folket offrar.
 
 ### Chapter 47
 
@@ -45154,7 +45154,7 @@
 
 **[47:22]** Och när I kasten lotten, till att skifta landet emellan eder, så skolen I hålla främlingarna, som bo när eder, och föda barn ibland eder, lika som de ibland Israels barn infödde voro;
 
-**[47:23]** Och skola desslikes hafva sin del af landena, hvar och en ibland den slägt der han när bor, säger Herren Herren.  
+**[47:23]** Och skola desslikes hafva sin del af landena, hvar och en ibland den slägt der han när bor, säger Herren Herren.
 
 ### Chapter 48
 
@@ -45226,7 +45226,7 @@
 
 **[48:34]** Alltså ock vestantill, fyratusend och femhundrad stänger, och tre portar; den förste porten Gad, den andre Asser, den tredje Naphthali.
 
-**[48:35]** Alltså skall det hafva allt omkring adertontusend stänger: och sedan skall då staden kallad varda: Här är Herren.   
+**[48:35]** Alltså skall det hafva allt omkring adertontusend stänger: och sedan skall då staden kallad varda: Här är Herren.
 
 ## Daniel
 
@@ -45272,7 +45272,7 @@
 
 **[1:20]** Och Konungen fann dem i alla saker, de han dem frågade, tio sinom klokare och förståndigare, än alla stjernokikare och visa i hela sino rike.
 
-**[1:21]** Och lefde Daniel intill Konung Cores första år.  
+**[1:21]** Och lefde Daniel intill Konung Cores första år.
 
 ### Chapter 2
 
@@ -45372,7 +45372,7 @@
 
 **[2:48]** Och Konungen upphöjde Daniel, och gaf honom stora myckna skänker; och gjorde honom till en Första öfver hela landet Babel, och satte honom till en öfversta öfver alla de visa i Babel.
 
-**[2:49]** Och Daniel bad Konungen, att han måtte sätta Sadrach, Mesach och AbedNego öfver de landskap i Babel; men Daniel sjelf blef när Konungenom i hans gård.  
+**[2:49]** Och Daniel bad Konungen, att han måtte sätta Sadrach, Mesach och AbedNego öfver de landskap i Babel; men Daniel sjelf blef när Konungenom i hans gård.
 
 ### Chapter 3
 
@@ -45434,7 +45434,7 @@
 
 **[3:29]** Så är nu detta mitt bud: Att ho som helst ibland all folk, slägter och tungomål, försmäder Sadrachs, Mesachs och AbedNegos Gud, han skall förgöras, och hans hus skamliga förstördt varda; ty det är ingen annar gud, som så hjelpa kan, som denne.
 
-**[3:30]** Och Konungen gaf Sadrach, Mesach och AbedNego, stort välde i Babels land. Konung NebucadNezar, allom landom, folkom och tungomålom: Gud gifve eder mycken frid! Mig synes godt vara, att jag förkunnar de tecken och under, som Gud den Högste med mig gjort hafver; Ty hans tecken äro stor, och hans under äro mägtig, och hans rike är ett evigt rike, och hans välde varar ifrå slägte till slägte.  
+**[3:30]** Och Konungen gaf Sadrach, Mesach och AbedNego, stort välde i Babels land. Konung NebucadNezar, allom landom, folkom och tungomålom: Gud gifve eder mycken frid! Mig synes godt vara, att jag förkunnar de tecken och under, som Gud den Högste med mig gjort hafver; Ty hans tecken äro stor, och hans under äro mägtig, och hans rike är ett evigt rike, och hans välde varar ifrå slägte till slägte.
 
 ### Chapter 4
 
@@ -45504,7 +45504,7 @@
 
 **[4:33]** På samma tid kom jag till sinne igen, och till mina Konungsliga äro, till mina härlighet, och till min skapnad; och mitt Råd och väldige sökte mig: och jag vardt åter satt uti mitt rike igen, och fick ännu större härlighet.
 
-**[4:34]** Derföre lofvar jag, NebucadNezar, och ärar och prisar Konungen i himmelen; ty alla hans gerningar äro sanning, och hans vägar äro rätte, och den som stolt är, kan han ödmjuka.  
+**[4:34]** Derföre lofvar jag, NebucadNezar, och ärar och prisar Konungen i himmelen; ty alla hans gerningar äro sanning, och hans vägar äro rätte, och den som stolt är, kan han ödmjuka.
 
 **[4:35]** 
 
@@ -45574,7 +45574,7 @@
 
 **[5:30]** I den samma nattene vardt de Chaldeers Konung Belsazar ihjälslagen.
 
-**[5:31]** Och Darios utaf Meden tog riket in, då han tu och sextio år gammal var.  
+**[5:31]** Och Darios utaf Meden tog riket in, då han tu och sextio år gammal var.
 
 ### Chapter 6
 
@@ -45632,7 +45632,7 @@
 
 **[6:27]** Han är en frälsare och nödhjelpare, och han gör tecken och under, både i himmelen och på jordene; han hafver frälst Daniel ifrå lejonen.
 
-**[6:28]** Och Daniel var väldig i Darios rike, och desslikes i Cores, den Persens, rike.  
+**[6:28]** Och Daniel var väldig i Darios rike, och desslikes i Cores, den Persens, rike.
 
 ### Chapter 7
 
@@ -45690,7 +45690,7 @@
 
 **[7:27]** Men riket, magten och väldet under hela himmelen skall varda gifvit dens Högstas heligo folke, hvilkes rike evigt är; och allt välde skall tjena honom, och lyda honom.
 
-**[7:28]** Det var änden på talet. Men jag, Daniel, vardt svårliga bedröfvad i mina tankar, och mitt ansigte förvandlade sig uppå mig; dock behöll jag talet i mitt hjerta.  
+**[7:28]** Det var änden på talet. Men jag, Daniel, vardt svårliga bedröfvad i mina tankar, och mitt ansigte förvandlade sig uppå mig; dock behöll jag talet i mitt hjerta.
 
 ### Chapter 8
 
@@ -45746,7 +45746,7 @@
 
 **[8:26]** Denna synen, om afton och morgon, som dig sagd är, hon är sann; men du skall hålla synena hemliga, ty det är ännu en lång tid dit.
 
-**[8:27]** Och jag, Daniel, vardt svag, och låg i några dagar krank; sedan stod jag upp, och beställde Konungens ärende, och förundrade mig uppå synena; och ingen var, som kunde reda mig henne ut.  
+**[8:27]** Och jag, Daniel, vardt svag, och låg i några dagar krank; sedan stod jag upp, och beställde Konungens ärende, och förundrade mig uppå synena; och ingen var, som kunde reda mig henne ut.
 
 ### Chapter 9
 
@@ -45802,7 +45802,7 @@
 
 **[9:26]** Och efter de två och sextio veckor skall Christus dödad varda, och de skola icke vilja honom; och ett Förstans folk skall komma, och förstöra staden och helgedomen, så att det skall blifva ändadt, såsom igenom en flod, och efter stridena skall det öde blifva.
 
-**[9:27]** Men han skall mångom stadfästa förbundet i ena vecko långt; och midt i veckone skall offret och spisoffret återvända, och förödningens styggelse stå bredovid vingarna; och är beslutet, att det skall öde blifva allt intill ändan.  
+**[9:27]** Men han skall mångom stadfästa förbundet i ena vecko långt; och midt i veckone skall offret och spisoffret återvända, och förödningens styggelse stå bredovid vingarna; och är beslutet, att det skall öde blifva allt intill ändan.
 
 ### Chapter 10
 
@@ -45846,7 +45846,7 @@
 
 **[10:20]** Och han sade: Vetst du ock, hvarföre jag är kommen till dig? Nu vill jag åter mina färde, och strida med Förstanom i Persien; men när jag far mina färde, si, så skall Försten af Grekeland komma.
 
-**[10:21]** Dock vill jag låta dig förstå, hvad skrifvit är, det visserliga ske skall; och ingen är den mig hjelper derutinnan, utan edar Förste Michael.  
+**[10:21]** Dock vill jag låta dig förstå, hvad skrifvit är, det visserliga ske skall; och ingen är den mig hjelper derutinnan, utan edar Förste Michael.
 
 ### Chapter 11
 
@@ -45938,7 +45938,7 @@
 
 **[11:44]** Men ett rykte skall förskräcka honom, af östan och af nordan; så att han skall draga ut med stora vrede, i det sinnet, att han skall många förgöra och förderfva.
 
-**[11:45]** Och han skall uppslå sins palatses tjäll emellan hafven, omkring det lustiga helga berget, tilldess med honom varder en ände; och ingen skall hjelpa honom.  
+**[11:45]** Och han skall uppslå sins palatses tjäll emellan hafven, omkring det lustiga helga berget, tilldess med honom varder en ände; och ingen skall hjelpa honom.
 
 ### Chapter 12
 
@@ -45966,7 +45966,7 @@
 
 **[12:12]** Väl är honom, som då förbidar, och räcker intill tusende trehundrad och fem och tretio dagar.
 
-**[12:13]** Men du, Daniel, gack bort, tilldess änden kommer, och hvila dig, att du må uppstå i dinom del, när dagarna hafva ända.   
+**[12:13]** Men du, Daniel, gack bort, tilldess änden kommer, och hvila dig, att du må uppstå i dinom del, när dagarna hafva ända.
 
 ## Hosea
 
@@ -45992,7 +45992,7 @@
 
 **[1:10]** Men talet på Israels barn skall varda lika som sanden i hafvena, den man hvarken mäla eller räkna kan; och det skall ske på det rum, der man till dem sagt hafver; I ären icke mitt folk; der skall man säga till dem: O! I lefvande Guds barn.
 
-**[1:11]** Ty Juda barn och Israels barn skola sammankomma, och skola hålla sig alla under ett hufvud, och draga upp utu landena; ty Jisreels dag skall vara en stor lag.  
+**[1:11]** Ty Juda barn och Israels barn skola sammankomma, och skola hålla sig alla under ett hufvud, och draga upp utu landena; ty Jisreels dag skall vara en stor lag.
 
 ### Chapter 2
 
@@ -46040,7 +46040,7 @@
 
 **[2:22]** Och jorden skall höra kornet, must och oljo, och de skola höra Jisreel.
 
-**[2:23]** Och jag skall behålla henne mig för en säd på jordene, och förbarma mig öfver henne som i ogunst var, och säga till det som intet var mitt folk: Du äst mitt folk; och det skall säga: Du äst min Gud.  
+**[2:23]** Och jag skall behålla henne mig för en säd på jordene, och förbarma mig öfver henne som i ogunst var, och säga till det som intet var mitt folk: Du äst mitt folk; och det skall säga: Du äst min Gud.
 
 ### Chapter 3
 
@@ -46052,7 +46052,7 @@
 
 **[3:4]** Ty Israels barn skola i långan tid blifva utan Konung, utan Första, utan offer, utan altare, utan lifkjortel, och utan Theraphim.
 
-**[3:5]** Derefter skola Israels barn omvända sig, och söka Herran sin Gud, och sin Konung David; och skola ära Herran, och hans nåd i yttersta tidenom.  
+**[3:5]** Derefter skola Israels barn omvända sig, och söka Herran sin Gud, och sin Konung David; och skola ära Herran, och hans nåd i yttersta tidenom.
 
 ### Chapter 4
 
@@ -46092,7 +46092,7 @@
 
 **[4:18]** De hafva gifvit sig uti svalg och boleri; deras herrar hafva lust dertill, att de komma skam åstad.
 
-**[4:19]** Ett väder skall bortdrifva dem, hvilko de icke skola kunna emotstå, och måste öfver sina. Gudstjenst till blygd varda.  
+**[4:19]** Ett väder skall bortdrifva dem, hvilko de icke skola kunna emotstå, och måste öfver sina. Gudstjenst till blygd varda.
 
 ### Chapter 5
 
@@ -46124,7 +46124,7 @@
 
 **[5:14]** Ty jag är Ephraim lika som ett lejon, och Juda huse lika som ett ungt lejon. Jag, jag rifver, och går min väg; jag förer dem bort, och ingen kan undsätta dem.
 
-**[5:15]** Jag vill gå åter till mitt rum igen, tilldess de känna sina skuld, och söka mitt ansigte.  
+**[5:15]** Jag vill gå åter till mitt rum igen, tilldess de känna sina skuld, och söka mitt ansigte.
 
 ### Chapter 6
 
@@ -46148,7 +46148,7 @@
 
 **[6:10]** Jag ser det i Israels hus, der mig före grufvar; ty der bedrifver Ephraim boleri, Israel orenar sig.
 
-**[6:11]** Men Juda skall ännu hafva en skördeand för sig, när jag mins folks fängelse omvändandes varder.  
+**[6:11]** Men Juda skall ännu hafva en skördeand för sig, när jag mins folks fängelse omvändandes varder.
 
 ### Chapter 7
 
@@ -46182,7 +46182,7 @@
 
 **[7:15]** Jag lärer dem, och stärker deras armar; men de tacka mig illa.
 
-**[7:16]** De omvända sig dock icke rätteliga, utan äro lika som en falsk båge; derföre måste deras Förstar falla genom svärd; deras trug skall uti Egypti land till spott varda.  
+**[7:16]** De omvända sig dock icke rätteliga, utan äro lika som en falsk båge; derföre måste deras Förstar falla genom svärd; deras trug skall uti Egypti land till spott varda.
 
 ### Chapter 8
 
@@ -46212,7 +46212,7 @@
 
 **[8:13]** Det de ännu mycket offra, och frambära kött och äta i så hafver dock Herren intet behag dertill; utan han vill ihågkomma deras ondsko, och hemsöka deras synder, som sig till Egypten vända.
 
-**[8:14]** Israel förgäter sin skapare, och bygger kyrkor; så gör Juda många fasta städer; men jag skall sända eld uti hans städer i han skall förtära hans hus.  
+**[8:14]** Israel förgäter sin skapare, och bygger kyrkor; så gör Juda många fasta städer; men jag skall sända eld uti hans städer i han skall förtära hans hus.
 
 ### Chapter 9
 
@@ -46248,7 +46248,7 @@
 
 **[9:16]** Ephraim är slagen, hans rot är borttorkad så att de ingen frukt mer bära kunna; och om de än födde, så vill jag dock, den åstundada fruktena af deras lifve döda.
 
-**[9:17]** Min Gud skall förkasta dem, derföre att de icke ville höra honom; och de måste gå villeråda ibland Hedningarna.  
+**[9:17]** Min Gud skall förkasta dem, derföre att de icke ville höra honom; och de måste gå villeråda ibland Hedningarna.
 
 ### Chapter 10
 
@@ -46280,7 +46280,7 @@
 
 **[10:14]** Så skall upphäfva sig ett rumor i ditt folk, så att all din fäste skola förstörd varda, lika som Salman Arbeels hus förderfvade i stridenes tid, då modren öfver barnen slagen vardt.
 
-**[10:15]** Rätt så skall eder ock gå i BethEl, för edra stora ondskos skull, att Israels Konung skall om morgonen bittida nederlagd varda.  
+**[10:15]** Rätt så skall eder ock gå i BethEl, för edra stora ondskos skull, att Israels Konung skall om morgonen bittida nederlagd varda.
 
 ### Chapter 11
 
@@ -46306,7 +46306,7 @@
 
 **[11:11]** Och de uti Egypten skola ock förskräckas, såsom en fogel; och de i Assurs land, lika som dufvor; och jag vill sätta dem uti sin hus, säger Herren.
 
-**[11:12]** Uti Ephraim är allstädes afguderi emot mig, och i Israels hus falsk Gudstjenst; men Juda håller sig ännu fast intill Gud, och till den rätta heliga Gudstjensten.  
+**[11:12]** Uti Ephraim är allstädes afguderi emot mig, och i Israels hus falsk Gudstjenst; men Juda håller sig ännu fast intill Gud, och till den rätta heliga Gudstjensten.
 
 ### Chapter 12
 
@@ -46336,7 +46336,7 @@
 
 **[12:13]** Men derefter förde Herren Israel utur Egypten, genom en Prophet, och lät bevara honom genom en Prophet.
 
-**[12:14]** Men nu förtörnar honom Ephraim genom sina afgudar; derföre skall deras blod komma öfver dem, och deras herre skall vedergälla dem deras försmädelse.  
+**[12:14]** Men nu förtörnar honom Ephraim genom sina afgudar; derföre skall deras blod komma öfver dem, och deras herre skall vedergälla dem deras försmädelse.
 
 ### Chapter 13
 
@@ -46368,7 +46368,7 @@
 
 **[13:14]** Men jag vill förlossa dem utu helvete, och hjelpa dem ifrå döden; död, jag skall vara dig ett förgift; helvete, jag skall vara dig en plåga; dock är trösten fördold för min ögon;
 
-**[13:15]** Ty han skall skilja emellan bröder; der skall ett östanväder komma, och Herren uppstiga ifrån öknene, och uttorka hans brunnar, och utöda hans källor; han skall bortröfva all kostelig tyg och håvor.  
+**[13:15]** Ty han skall skilja emellan bröder; der skall ett östanväder komma, och Herren uppstiga ifrån öknene, och uttorka hans brunnar, och utöda hans källor; han skall bortröfva all kostelig tyg och håvor.
 
 **[13:16]** 
 
@@ -46390,7 +46390,7 @@
 
 **[14:8]** Och skola åter sitta under hans skugga; af korn skola de föda sig, och blomstras lika som ett vinträ; hans åminnelse skall vara lika som vinet på Libanon.
 
-**[14:9]** Ephraim, bort med de afgudar. Jag skall bönhöra honom, och leda honom; jag vill vara såsom ett grönt furoträ; på mig skall man finna dina frukt. Ho är vis, den detta förstår, och klok, den detta märker? Ty Herrans vägar äro rätte, och de rättfärdige vandra deruppå; men öfverträdarena falla deruppå.   
+**[14:9]** Ephraim, bort med de afgudar. Jag skall bönhöra honom, och leda honom; jag vill vara såsom ett grönt furoträ; på mig skall man finna dina frukt. Ho är vis, den detta förstår, och klok, den detta märker? Ty Herrans vägar äro rätte, och de rättfärdige vandra deruppå; men öfverträdarena falla deruppå.
 
 ## Joel
 
@@ -46434,7 +46434,7 @@
 
 **[1:19]** Herre, dig åkallar jag; ty elden hafver afbränt de lustiga planar i öknene, och lågen hafver upptändt all trä på markene.
 
-**[1:20]** Ja, vilddjuren ropa också till dig; ty vattubäckerna äro uttorkade, och elden hafver förbränt de lustiga planar i öknene.  
+**[1:20]** Ja, vilddjuren ropa också till dig; ty vattubäckerna äro uttorkade, och elden hafver förbränt de lustiga planar i öknene.
 
 ### Chapter 2
 
@@ -46500,7 +46500,7 @@
 
 **[2:31]** Solen skall förvandlad varda uti mörker, och månen uti blod, förr än den store och förskräckelige Herrans dag kommer.
 
-**[2:32]** Och det skall ske: Ho som helst Herrans Namn åkallandes varder, han skall frälst varda; ty på Zions berg och i Jerusalem skall en salighet vara, såsom Herren sagt hafver, och när de andra qvarblefna, de Herren kallandes varder.  
+**[2:32]** Och det skall ske: Ho som helst Herrans Namn åkallandes varder, han skall frälst varda; ty på Zions berg och i Jerusalem skall en salighet vara, såsom Herren sagt hafver, och när de andra qvarblefna, de Herren kallandes varder.
 
 ### Chapter 3
 
@@ -46544,7 +46544,7 @@
 
 **[3:20]** Men Juda skall besuttet varda evinnerliga, och Jerusalem till evig tid.
 
-**[3:21]** Och jag skall icke låta deras blod ohämnadt blifva; och Herren skall bo i Zion.   
+**[3:21]** Och jag skall icke låta deras blod ohämnadt blifva; och Herren skall bo i Zion.
 
 ## Amos
 
@@ -46578,7 +46578,7 @@
 
 **[1:14]** Utan jag skall upptända en eld uppå murarna i Rabba; han skall förtära hans palats, då man ropandes varder i stridstidenom, och då vädret kommandes varder i stormstidenom.
 
-**[1:15]** Så skall då deras Konung, samt med sina Förstar, varda fången bortförd, säger Herren.  
+**[1:15]** Så skall då deras Konung, samt med sina Förstar, varda fången bortförd, säger Herren.
 
 ### Chapter 2
 
@@ -46612,7 +46612,7 @@
 
 **[2:15]** Och de bågaskyttar skola icke bestå; och den der rask är till att löpa, skall icke undlöpa; och den der rider, skall icke rädda sitt lit;
 
-**[2:16]** Och den der aldramanligast är ibland de starka, måste i den tiden nakot undfly, säger Herren.  
+**[2:16]** Och den der aldramanligast är ibland de starka, måste i den tiden nakot undfly, säger Herren.
 
 ### Chapter 3
 
@@ -46644,7 +46644,7 @@
 
 **[3:14]** Ty på den tiden, då jag Israels synder hemsökandes varder, vill jag hemsöka de altare i BethEl, och bortbryta hornen af altaret, att de skola falla neder på markena;
 
-**[3:15]** Och skall slå både vinterhus och sommarhus; och de elphenbenshus skola till intet varda, och mång hus förderfvad blifva, säger Herren.  
+**[3:15]** Och skall slå både vinterhus och sommarhus; och de elphenbenshus skola till intet varda, och mång hus förderfvad blifva, säger Herren.
 
 ### Chapter 4
 
@@ -46672,7 +46672,7 @@
 
 **[4:12]** Derföre vill jag så göra med dig, Israel; efter jag nu så vill göra med dig, så skicka dig Israel, Och gack emot din Gud.
 
-**[4:13]** Ty si, han är den som gör bergen, skapar vädret, och kungör menniskone hvad hon tala skall; han gör morgonrodnan (och) mörkret; han går på jordenes höjder; han heter Herren Gud Zebaoth.  
+**[4:13]** Ty si, han är den som gör bergen, skapar vädret, och kungör menniskone hvad hon tala skall; han gör morgonrodnan (och) mörkret; han går på jordenes höjder; han heter Herren Gud Zebaoth.
 
 ### Chapter 5
 
@@ -46728,7 +46728,7 @@
 
 **[5:26]** I bären edars Molochs hyddor, och edra afgudars beläte, och edra gudars stjerno, som eder sjelfve gjort haden.
 
-**[5:27]** Så skall jag låta föra eder hädan bort till Damascus, säger Herren, som Gud Zebaoth heter.  
+**[5:27]** Så skall jag låta föra eder hädan bort till Damascus, säger Herren, som Gud Zebaoth heter.
 
 ### Chapter 6
 
@@ -46758,7 +46758,7 @@
 
 **[6:13]** Och förtrösten eder uppå det som platt intet är, och sägen: Äro vi icke mägtige och starke nog?
 
-**[6:14]** Derföre, si, jag skall uppväcka ett folk öfver eder af Israels hus, säger Herren Gud Zebaoth; det skall tränga eder ifrå det rummet, der man går till Hamath, intill pilträbäcken.  
+**[6:14]** Derföre, si, jag skall uppväcka ett folk öfver eder af Israels hus, säger Herren Gud Zebaoth; det skall tränga eder ifrå det rummet, der man går till Hamath, intill pilträbäcken.
 
 ### Chapter 7
 
@@ -46794,7 +46794,7 @@
 
 **[7:16]** Så hör nu Herrans ord: Du säger: Prophetera intet emot Israel, och tala intet emot Isaacs hus.
 
-**[7:17]** Derföre säger Herren alltså: Din hustru skall i stadenom skämd varda, och dine söner och döttrar skola falla genom svärd, och din åker skall med snöre utdelad varda; men du skall dö uti ett orent land, och Israel skall utu sitt land fördrifven varda.  
+**[7:17]** Derföre säger Herren alltså: Din hustru skall i stadenom skämd varda, och dine söner och döttrar skola falla genom svärd, och din åker skall med snöre utdelad varda; men du skall dö uti ett orent land, och Israel skall utu sitt land fördrifven varda.
 
 ### Chapter 8
 
@@ -46824,7 +46824,7 @@
 
 **[8:13]** På den tiden skola sköna jungfrur och ynglingar försmäkta af törst;
 
-**[8:14]** De der nu svärja vid Samme synd, och säga: Så sant som din gud i Dan lefver; så sant som din gud i BerSeba lefver; ty de skola så falla, att de intet skola kunna uppstå igen.  
+**[8:14]** De der nu svärja vid Samme synd, och säga: Så sant som din gud i Dan lefver; så sant som din gud i BerSeba lefver; ty de skola så falla, att de intet skola kunna uppstå igen.
 
 ### Chapter 9
 
@@ -46856,7 +46856,7 @@
 
 **[9:14]** Ty jag vill omvända mins folks Israels fängelse, att de skola uppbygga de öde städer, och besitta dem; plantera vingårdar, och dricka der vin af; göra trägårdar, och äta der frukt af.
 
-**[9:15]** Ty jag vill plantera dem uti sitt land, så att de icke mer skola varda utrotade utu sitt land, det jag dem gifvit hafver, säger Herren, din Gud.   
+**[9:15]** Ty jag vill plantera dem uti sitt land, så att de icke mer skola varda utrotade utu sitt land, det jag dem gifvit hafver, säger Herren, din Gud.
 
 ## Obadiah
 
@@ -46902,7 +46902,7 @@
 
 **[1:20]** Och de fördrefne af denna Israels barnas här, hvilke ibland de Cananeer allt intill Zarpath äro, och de fördrefne af Jerusalems stad, hvilke i Sepharad äro, skola besitta de städer söderut.
 
-**[1:21]** Och frälsare skola uppkomma på Zions berg, till att döma Esau berg. Alltså skall då riket vara Herrans.   
+**[1:21]** Och frälsare skola uppkomma på Zions berg, till att döma Esau berg. Alltså skall då riket vara Herrans.
 
 ## Jonah
 
@@ -46938,7 +46938,7 @@
 
 **[1:15]** Och de togo Jona, och kastade honom i hafvet; då vände hafvet igen af sinom storm.
 
-**[1:16]** Och männerna fruktade Herran storliga, och gjorde Herranom offer och löfte.  
+**[1:16]** Och männerna fruktade Herran storliga, och gjorde Herranom offer och löfte.
 
 **[1:17]** 
 
@@ -46962,7 +46962,7 @@
 
 **[2:9]** Men de som förlåta sig uppå sina gerningar, hvilka dock intet äro, de akta intet om nådena.
 
-**[2:10]** Men jag vill offra med tacksägelse. Min löfte vill jag betala Herranom, att han mig hulpit hafver. Och Herren sade till fisken, och han utsputade Jona in uppå landet.  
+**[2:10]** Men jag vill offra med tacksägelse. Min löfte vill jag betala Herranom, att han mig hulpit hafver. Och Herren sade till fisken, och han utsputade Jona in uppå landet.
 
 ### Chapter 3
 
@@ -46984,7 +46984,7 @@
 
 **[3:9]** Ho vet? Gud måtte omvända sig, och ångra det, och vända sig ifrå sine grymma vrede, att vi icke förgås.
 
-**[3:10]** Då nu Gud såg deras gerningar, att de omvände sig ifrå sinom onda väg, ångrade Gudi det onda, som han talat hade att han dem göra ville; och gjorde det intet.  
+**[3:10]** Då nu Gud såg deras gerningar, att de omvände sig ifrå sinom onda väg, ångrade Gudi det onda, som han talat hade att han dem göra ville; och gjorde det intet.
 
 ### Chapter 4
 
@@ -47008,7 +47008,7 @@
 
 **[4:10]** Och Herren sade: Du jämrar dig om kurbitsen, der du intet uppå arbetat hafver, och hafver ej heller låtit henne uppväxa, hvilken i ene natt vardt, och i ene natt förgicks;
 
-**[4:11]** Och jag skulle icke jämra mig öfver Nineve, en sådana stor stad, der mer uti är än hundradetusend och tjugutusend menniskor, som intet veta åtskilja mellan sina högra hand och den venstra; dertill ock mycken djur?   
+**[4:11]** Och jag skulle icke jämra mig öfver Nineve, en sådana stor stad, der mer uti är än hundradetusend och tjugutusend menniskor, som intet veta åtskilja mellan sina högra hand och den venstra; dertill ock mycken djur?
 
 ## Micah
 
@@ -47044,7 +47044,7 @@
 
 **[1:15]** Jag skall föra dig, o Maresa, den rätta arfvingan; och det härliga Israels rike skall varda en kula.
 
-**[1:16]** Låt afskära håren, och gack kullot öfver din dägeliga barn; gör dig platt kullot, såsom en örn; ty de äro fångne ifrå dig bortförde.  
+**[1:16]** Låt afskära håren, och gack kullot öfver din dägeliga barn; gör dig platt kullot, såsom en örn; ty de äro fångne ifrå dig bortförde.
 
 ### Chapter 2
 
@@ -47072,7 +47072,7 @@
 
 **[2:12]** Men jag vill församla dig, Jacob, allan samman, och låta de qvarblefna i Israel tillhopakomma. Jag vill hafva dem tillhopa, såsom en hjord uti ett fårahus, och så som en hjord uti sina hyddo; så att det skall gny af menniskom.
 
-**[2:13]** Hjelten skall för dem slå sig igenom; de skola slå sig igenom, och gå ut och in genom porten; och deras Konung skall gå för dem, och Herren främst.  
+**[2:13]** Hjelten skall för dem slå sig igenom; de skola slå sig igenom, och gå ut och in genom porten; och deras Konung skall gå för dem, och Herren främst.
 
 ### Chapter 3
 
@@ -47098,7 +47098,7 @@
 
 **[3:11]** Hans höfdingar döma för skänker, hans Prester lära för lön, och hans Propheter prophetera för penningar, förlåta sig uppå Herran, och säga: Är icke Herren ibland oss? Oss kan ingen olycka uppåkomma.
 
-**[3:12]** Derföre skall Zion för edra skull upplöjd varda såsom en åkermark, och Jerusalem varda till en stenhop, och templets berg till en skogsbacka.  
+**[3:12]** Derföre skall Zion för edra skull upplöjd varda såsom en åkermark, och Jerusalem varda till en stenhop, och templets berg till en skogsbacka.
 
 ### Chapter 4
 
@@ -47126,7 +47126,7 @@
 
 **[4:12]** Men de veta intet Herrans tankar, och märka intet hans rådslag, att han hafver hemtat dem tillhopa, såsom kärfvar uti ladona.
 
-**[4:13]** Derföre statt upp, och tröska, du dotter Zion; ty jag vill göra dig jernhorn och kopparklor, och du skall sönderkrossa mycken folk; så skall jag tillspillogifva deras gods Herranom, och deras håfvor honom som råder öfver hela verldena.  
+**[4:13]** Derföre statt upp, och tröska, du dotter Zion; ty jag vill göra dig jernhorn och kopparklor, och du skall sönderkrossa mycken folk; så skall jag tillspillogifva deras gods Herranom, och deras håfvor honom som råder öfver hela verldena.
 
 ### Chapter 5
 
@@ -47158,7 +47158,7 @@
 
 **[5:14]** Och jag skall nederhugga dina lundar, och förlägga dina städer.
 
-**[5:15]** Och jag skall drifva hämnd med grymhet och vrede, på alle de Hedningar som icke böra vilja.  
+**[5:15]** Och jag skall drifva hämnd med grymhet och vrede, på alle de Hedningar som icke böra vilja.
 
 ### Chapter 6
 
@@ -47192,7 +47192,7 @@
 
 **[6:15]** Du skall så, och intet uppskära: du skall oljo pressa, och intet smörja dig dermed, och must pressa, och intet vin dricka.
 
-**[6:16]** Ty I hållen Omri gudstjenst, och all Achabs hus verk, och följen deras läro; derföre vill jag lägga dig öde, och dess inbyggare, så att man skall hvissla åt dem, och skolen till skam varda.  
+**[6:16]** Ty I hållen Omri gudstjenst, och all Achabs hus verk, och följen deras läro; derföre vill jag lägga dig öde, och dess inbyggare, så att man skall hvissla åt dem, och skolen till skam varda.
 
 ### Chapter 7
 
@@ -47234,7 +47234,7 @@
 
 **[7:19]** Han skall ännu förbarma sig öfver oss, slå våra missgerningar neder, och kasta alla våra synder uti hafsens djup.
 
-**[7:20]** Du skall hålla Jacob trohet, och Abraham den nåd, som du våra fäder i förtiden svorit hafver.   
+**[7:20]** Du skall hålla Jacob trohet, och Abraham den nåd, som du våra fäder i förtiden svorit hafver.
 
 ## Nahum
 
@@ -47268,7 +47268,7 @@
 
 **[1:14]** Men emot dig hafver Herren budit, att ingen dins namns säd mer blifva skall. Uti dins guds huse vill jag förgöra dig; jag skall gifva dig ena graf ibland afgudar och beläte, och du måste till skam varda.
 
-**[1:15]** Si, på bergen komma ens god bådskaps fötter, den der god tiden de bär: Håll dina högtider, Juda, och betala din löfte; ty skalken skall icke mer komma öfver dig; det är platt ute med honom.  
+**[1:15]** Si, på bergen komma ens god bådskaps fötter, den der god tiden de bär: Håll dina högtider, Juda, och betala din löfte; ty skalken skall icke mer komma öfver dig; det är platt ute med honom.
 
 ### Chapter 2
 
@@ -47296,7 +47296,7 @@
 
 **[2:12]** Utan lejonet röfvade nog för sina ungar, och drap åt sina lejinnor. Sina kulor uppfyllde han med rof, och sina boning med det han rifvit hade.
 
-**[2:13]** Si, jag vill till dig, säger Herren Zebaoth, och upptända dina vagnar i rök, och svärdet skall uppfräta din unga lejon, och göra en ända på ditt röfveri på Jordene, att man dina bådskaps röst intet mer höra skall.  
+**[2:13]** Si, jag vill till dig, säger Herren Zebaoth, och upptända dina vagnar i rök, och svärdet skall uppfräta din unga lejon, och göra en ända på ditt röfveri på Jordene, att man dina bådskaps röst intet mer höra skall.
 
 ### Chapter 3
 
@@ -47336,7 +47336,7 @@
 
 **[3:18]** Dine herdar skola sofva, o Konung i Assur; dine mägtige skola lägga sig, och ditt folk skall uppå bergen förströdt varda, och ingen skall församla dem.
 
-**[3:19]** Ingen skall begråta din skada, eller bekymra sig om dina plågo, utan alle de, som detta om dig höra, skola klappa med sina händer öfver dig; ty öfver hvem är din ondska utan återvändo icke gången?   
+**[3:19]** Ingen skall begråta din skada, eller bekymra sig om dina plågo, utan alle de, som detta om dig höra, skola klappa med sina händer öfver dig; ty öfver hvem är din ondska utan återvändo icke gången?
 
 ## Habakkuk
 
@@ -47374,7 +47374,7 @@
 
 **[1:16]** Derföre offra de sinom nätom, och röka sinom garnom; efter det deras del är derigenom så fet, och deras mat så kräselig vorden.
 
-**[1:17]** Derföre kasta de sin nät ännu alltid ut, och vilja icke återvända att dräpa folk.  
+**[1:17]** Derföre kasta de sin nät ännu alltid ut, och vilja icke återvända att dräpa folk.
 
 ### Chapter 2
 
@@ -47416,7 +47416,7 @@
 
 **[2:19]** Ve honom, som säger till en stock: Vaka upp; och till stumma stenen: Statt upp. Huru skulle det kunna någon lära? Si, det är öfverdraget med guld och silfver, och der är ingen ande uti.
 
-**[2:20]** Men Herren är i sitt helga tempel. Hela verlden vare tyst för honom.  
+**[2:20]** Men Herren är i sitt helga tempel. Hela verlden vare tyst för honom.
 
 ### Chapter 3
 
@@ -47456,7 +47456,7 @@
 
 **[3:18]** Men jag vill glädja mig af Herranom, och glad vara i Gudi, minom Frälsare.
 
-**[3:19]** Ty Herren Herren är min kraft, och han skall göra mina fötter lika som hjortafötter; och skall föra mig upp i höjdena, så att jag sjunger på min strängaspel.   
+**[3:19]** Ty Herren Herren är min kraft, och han skall göra mina fötter lika som hjortafötter; och skall föra mig upp i höjdena, så att jag sjunger på min strängaspel.
 
 ## Zephaniah
 
@@ -47496,7 +47496,7 @@
 
 **[1:17]** Jag skall göra menniskomen bekymmer, så att de skola gå omkring såsom de blinde; derföre, att de emot Herran syndat hafva; deras blod skall utgjutet varda, lika som det stoft vore, och deras kroppar såsom träck.
 
-**[1:18]** Deras silfver och guld skall intet kunna hjelpa dem på Herrans vredes dag; utan hela landet skall genom hans nits eld förtärdt varda; ty han skall snarliga en ända göra med alla de som bo i landena.  
+**[1:18]** Deras silfver och guld skall intet kunna hjelpa dem på Herrans vredes dag; utan hela landet skall genom hans nits eld förtärdt varda; ty han skall snarliga en ända göra med alla de som bo i landena.
 
 ### Chapter 2
 
@@ -47528,7 +47528,7 @@
 
 **[2:14]** Så att sig deruti lägra skola allahanda djur ibland Hedningarna; och rördrommar och ufvar skola bo på deras torn, och skola sjunga i vigskården, och korpar på bjelkomen; ty cedrebräden skola afrifne varda.
 
-**[2:15]** Denne är den lustige staden, den så säker bodde, och sade i sitt hjerta: Jag äret, och ingen annan. Huru är han så öde vorden, så att djuren bo derinne; och hvilken som der framom går, han hvisslar till honom, och slår med handene öfver honom?  
+**[2:15]** Denne är den lustige staden, den så säker bodde, och sade i sitt hjerta: Jag äret, och ingen annan. Huru är han så öde vorden, så att djuren bo derinne; och hvilken som der framom går, han hvisslar till honom, och slår med handene öfver honom?
 
 ### Chapter 3
 
@@ -47570,7 +47570,7 @@
 
 **[3:19]** Si, jag skall på den tiden göra en ända uppå alla dem som dig ondt göra; och skall hjelpa den halta, och församla den fördrefna; och skall sätta dem till lof och äro i all land, der man dem föraktar.
 
-**[3:20]** På den tiden skall jag låta komma eder härin, och på den samma tiden församla eder; ty jag skall sätta eder till lof och äro, ibland all folk på jordene; då jag edart fängelse omvändandes varder, för edra ögon, säger Herren.   
+**[3:20]** På den tiden skall jag låta komma eder härin, och på den samma tiden församla eder; ty jag skall sätta eder till lof och äro, ibland all folk på jordene; då jag edart fängelse omvändandes varder, för edra ögon, säger Herren.
 
 ## Haggai
 
@@ -47602,7 +47602,7 @@
 
 **[1:13]** Då sade Haggai, Herrans Ängel, som Herrans bådskap hade till folket: Jag är med eder, säger Herren.
 
-**[1:14]** Och Herren uppväckte Serubbabels anda, Sealthiels sons, Juda Förstas, och Jehosua anda, Jozadaks sons, dens öfversta Prestens, och allt igenlefda folkens anda; så att de kommo, och arbetade uppå Herrans Zebaoths, deras Guds, hus.  
+**[1:14]** Och Herren uppväckte Serubbabels anda, Sealthiels sons, Juda Förstas, och Jehosua anda, Jozadaks sons, dens öfversta Prestens, och allt igenlefda folkens anda; så att de kommo, och arbetade uppå Herrans Zebaoths, deras Guds, hus.
 
 **[1:15]** 
 
@@ -47652,7 +47652,7 @@
 
 **[2:22]** Tala till Serubbabel, Juda Första, och säg: Jag skall röra himmel och jord;
 
-**[2:23]** Och skall omstörta rikens säten, och förgöra de mägtiga Hedningarnas rike, och skall omstörta både vagn och resenär; så att både häst och man skola nederfalla, hvar och en genom den andras svärd. På den samma tiden, säger Herren Zebaoth, skall jag taga dig, Serubbabel, Sealthiels son, min tjenare, säger Herren, och vill hålla dig såsom en signetsring; ty jag hafver utvalt dig, säger Herren Zebaoth.   
+**[2:23]** Och skall omstörta rikens säten, och förgöra de mägtiga Hedningarnas rike, och skall omstörta både vagn och resenär; så att både häst och man skola nederfalla, hvar och en genom den andras svärd. På den samma tiden, säger Herren Zebaoth, skall jag taga dig, Serubbabel, Sealthiels son, min tjenare, säger Herren, och vill hålla dig såsom en signetsring; ty jag hafver utvalt dig, säger Herren Zebaoth.
 
 ## Zechariah
 
@@ -47698,7 +47698,7 @@
 
 **[1:20]** Och Herren viste mig fyra smeder.
 
-**[1:21]** Då sade jag: Hvad vilja dessa göra? Han sade: De hornen, som Juda så förskingrat hafva, att ingen hafver kunnat upplyfta sitt hufvud; till att afskräcka dem äro desse komne, på det de skola afstöta Hedningarnas horn; hvilke hornet upphäfvit hafva öfver Juda land, till att förskingra det.  
+**[1:21]** Då sade jag: Hvad vilja dessa göra? Han sade: De hornen, som Juda så förskingrat hafva, att ingen hafver kunnat upplyfta sitt hufvud; till att afskräcka dem äro desse komne, på det de skola afstöta Hedningarnas horn; hvilke hornet upphäfvit hafva öfver Juda land, till att förskingra det.
 
 ### Chapter 2
 
@@ -47726,7 +47726,7 @@
 
 **[2:12]** Och Herren skall ärfva Juda för sin del, uti de helga landena; och skall åter utvälja Jerusalem.
 
-**[2:13]** Allt kött vare stilla för Herranom; ty han är uppstånden ifrå sitt helga rum.  
+**[2:13]** Allt kött vare stilla för Herranom; ty han är uppstånden ifrå sitt helga rum.
 
 ### Chapter 3
 
@@ -47748,7 +47748,7 @@
 
 **[3:9]** Ty si, uppå den ena stenen som jag för Jehosua lagt hafver, skola sju ögon vara; men si, jag skall uthugga honom, säger Herren Zebaoth; och skall borttaga dess lands synder på enom dag.
 
-**[3:10]** På den samma tiden, säger Herren Zebaoth skall hvar bjuda den andra under vinträ, och under fikonaträ.  
+**[3:10]** På den samma tiden, säger Herren Zebaoth skall hvar bjuda den andra under vinträ, och under fikonaträ.
 
 ### Chapter 4
 
@@ -47778,7 +47778,7 @@
 
 **[4:13]** Och han sade till mig: Vetst du icke hvad de äro? Jag sade: Nej, min Herre.
 
-**[4:14]** Och han sade: Det äro de tu oljobarn, som stå när honom, som råder öfver allt landet.  
+**[4:14]** Och han sade: Det äro de tu oljobarn, som stå när honom, som råder öfver allt landet.
 
 ### Chapter 5
 
@@ -47802,7 +47802,7 @@
 
 **[5:10]** Och jag sade till Ängelen, som med mig talade: Hvart föra de skäppona?
 
-**[5:11]** Men han sade till mig: Att henne skall ett hus bygdt och tillredt varda uti Sinears land och der satt varda på sin botten.  
+**[5:11]** Men han sade till mig: Att henne skall ett hus bygdt och tillredt varda uti Sinears land och der satt varda på sin botten.
 
 ### Chapter 6
 
@@ -47834,7 +47834,7 @@
 
 **[6:14]** Och kronorna skola vara Helem, Tobia, Jedaja, och Hen, Zephania sone, till en åminnelse i Herrans tempel.
 
-**[6:15]** Och de skola komma fjerranefter, som uppå Herrans tempel bygga skola. Så skolen I förnimma, att Herren Zebaoth mig till eder sändt hafver; och det skall ske, så framt I hörande varden Herrans edars Guds röst.  
+**[6:15]** Och de skola komma fjerranefter, som uppå Herrans tempel bygga skola. Så skolen I förnimma, att Herren Zebaoth mig till eder sändt hafver; och det skall ske, så framt I hörande varden Herrans edars Guds röst.
 
 ### Chapter 7
 
@@ -47864,7 +47864,7 @@
 
 **[7:13]** Och det år så skedt, som predikadt vardt, och de ville intet hörat; så ville jag ock intet hörat, då de ropade, säger Herren Zebaoth.
 
-**[7:14]** Alltså hafver jag förstrött dem ibland alla Hedningar, hvilka de intet känna; och landet är efter dem öde blifvet, så att der ingen uti vandrar eller bor; och det ädla landet är till ett öde gjordt.  
+**[7:14]** Alltså hafver jag förstrött dem ibland alla Hedningar, hvilka de intet känna; och landet är efter dem öde blifvet, så att der ingen uti vandrar eller bor; och det ädla landet är till ett öde gjordt.
 
 ### Chapter 8
 
@@ -47912,7 +47912,7 @@
 
 **[8:22]** Alltså skola mång folk och Hedningar hopetals komma till att söka Herran Zebaoth i Jerusalem, och bedja inför Herranom.
 
-**[8:23]** Så säger Herren Zebaoth: På den tiden skola tio män, af allahanda Hedningars mål, fatta en Judisk man i klädefliken, och sägs: Vi vilje gå med eder; ty vi höre, att Gud är med eder.  
+**[8:23]** Så säger Herren Zebaoth: På den tiden skola tio män, af allahanda Hedningars mål, fatta en Judisk man i klädefliken, och sägs: Vi vilje gå med eder; ty vi höre, att Gud är med eder.
 
 ### Chapter 9
 
@@ -47948,7 +47948,7 @@
 
 **[9:16]** Och Herren, deras Gud, skall på den tiden hjelpa dem, såsom sins folks hjord; ty vigde stenar skola i hans land uppreste varda.
 
-**[9:17]** Ty hvad godt hafva de för andra, eller hvad dägeligit hafva de för andra? Korn, som föder ynglingar, och vin, som jungfrur föder.  
+**[9:17]** Ty hvad godt hafva de för andra, eller hvad dägeligit hafva de för andra? Korn, som föder ynglingar, och vin, som jungfrur föder.
 
 ### Chapter 10
 
@@ -47974,7 +47974,7 @@
 
 **[10:11]** Och han skall gå igenom det trånga hafvet, och slå böljorna i hafvena, att alla djupa floder skola uttorkade varda. Så skall då förnedradt varda det prål i Assyrien, och spiran uti Egypten skall återvända.
 
-**[10:12]** Jag skall stärka dem i Herranom, så att de skola vandra uti hans Namn, säger Herren.  
+**[10:12]** Jag skall stärka dem i Herranom, så att de skola vandra uti hans Namn, säger Herren.
 
 ### Chapter 11
 
@@ -48010,7 +48010,7 @@
 
 **[11:16]** Ty si, jag skall uppväcka herdar i landena, de der icke skola bese det försmäktada; det slagna icke besöka, och det sönderbrutna icke hela, och det helbregda icke försörja; utan de fetas kött skola de uppäta, och sönderrifva deras klöfvar.
 
-**[11:17]** O! afgudaherdar, som hjorden öfvergifva; svärdet komme öfver deras arm, och uppå deras högra öga; deras arm borttvine, och deras högra öga varde mörkt.  
+**[11:17]** O! afgudaherdar, som hjorden öfvergifva; svärdet komme öfver deras arm, och uppå deras högra öga; deras arm borttvine, och deras högra öga varde mörkt.
 
 ### Chapter 12
 
@@ -48040,7 +48040,7 @@
 
 **[12:13]** Levi hus slägte besynnerliga, och deras hustrur besynnerliga; Simei hus slägte besynnerliga, och deras hustrur besynnerliga;
 
-**[12:14]** Alltså alla andras slägter, hvart och ett besynnerliga, och deras hustrur också besynnerliga.  
+**[12:14]** Alltså alla andras slägter, hvart och ett besynnerliga, och deras hustrur också besynnerliga.
 
 ### Chapter 13
 
@@ -48060,7 +48060,7 @@
 
 **[13:8]** Och det skall ske, uti hvilket land, säger Herren, två delar äro, de skola bortryckas och förläggas, och tredjedelen derinne qvarblifva.
 
-**[13:9]** Och jag skall föra den samma tredjedelen genom eld, och rensa honom, såsom man rensar silfver, och fäja honom, såsom man fäjar guld. Desse skola då åkalla mitt Namn, och jag skall höra dem; jag skall säga: Det är mitt folk; och de skola säga: Herren, min Gud.  
+**[13:9]** Och jag skall föra den samma tredjedelen genom eld, och rensa honom, såsom man rensar silfver, och fäja honom, såsom man fäjar guld. Desse skola då åkalla mitt Namn, och jag skall höra dem; jag skall säga: Det är mitt folk; och de skola säga: Herren, min Gud.
 
 ### Chapter 14
 
@@ -48104,7 +48104,7 @@
 
 **[14:20]** På den tiden skall hästarnas rustning vara Herranom helig; och kettlarne i Herrans hus skola vara lika som de skålar för altaret.
 
-**[14:21]** Ty alle kettlar, både i Jerusalem och Juda, skola Herranom Zebaoth helige vara; så att alle de, som offra vilja, skola komma och taga dem, och koka deruti; och ingen Cananeisk skall mer vara uti Herrans Zebaoths hus, på den tiden.   
+**[14:21]** Ty alle kettlar, både i Jerusalem och Juda, skola Herranom Zebaoth helige vara; så att alle de, som offra vilja, skola komma och taga dem, och koka deruti; och ingen Cananeisk skall mer vara uti Herrans Zebaoths hus, på den tiden.
 
 ## Malachi
 
@@ -48136,7 +48136,7 @@
 
 **[1:13]** Och I sägen: Det är icke utan mödo; och slån det i vädret, säger Herren Zebaoth; och I offren det som röfvadt, halt och krankt är, och offren så spisoffer. Skulle sådant täckas mig ifrån edra hand? säger Herren.
 
-**[1:14]** Förbannad vare den bedragaren, den i sinom hjord hafver en Han; och när han gör ett löfte, så offrar han Herranom det som intet doger; ty jag är en stor Konung, säger Herren Zebaoth, och mitt Namn är förskräckeligit ibland Hedningarna.  
+**[1:14]** Förbannad vare den bedragaren, den i sinom hjord hafver en Han; och när han gör ett löfte, så offrar han Herranom det som intet doger; ty jag är en stor Konung, säger Herren Zebaoth, och mitt Namn är förskräckeligit ibland Hedningarna.
 
 ### Chapter 2
 
@@ -48172,7 +48172,7 @@
 
 **[2:16]** Äst du henne vred, så skilj dig ifrå henne, säger Herren Israels Gud; och gif henne en klädnad för försmädelsen, säger Herren Zebaoth. Derföre ser eder före för edrom anda, och förakter henne icke.
 
-**[2:17]** I hafven rett Herran med edart tal. Så sägen I då: Hvarmed hafve vi rett honom? Dermed, att I sägen: Den der illa gör, han behagar Herranom, och han hafver lust till honom; eller, hvar är nu Gud, som straffar?  
+**[2:17]** I hafven rett Herran med edart tal. Så sägen I då: Hvarmed hafve vi rett honom? Dermed, att I sägen: Den der illa gör, han behagar Herranom, och han hafver lust till honom; eller, hvar är nu Gud, som straffar?
 
 ### Chapter 3
 
@@ -48210,7 +48210,7 @@
 
 **[3:17]** De skola, säger Herren Zebaoth, vara min egendom på dem dagenom, den jag göra skall; och jag vill skona dem, lika som man skonar sin egen son, den honom tjenar.
 
-**[3:18]** Och I skolen deremot åter se, hvad för en åtskilnad är emellan den rättfärdiga och den ogudaktiga, och emellan den som Gudi tjenar, och den som honom icke tjenar.  
+**[3:18]** Och I skolen deremot åter se, hvad för en åtskilnad är emellan den rättfärdiga och den ogudaktiga, och emellan den som Gudi tjenar, och den som honom icke tjenar.
 
 ### Chapter 4
 
@@ -48224,7 +48224,7 @@
 
 **[4:5]** Si, jag skall sända eder den Propheten Elia, förr än den store och förskräckelige Herrans dag kommer.
 
-**[4:6]** Han skall omvända fädernas hjerta till barnen, och barnens hjerta till fäderna; på det jag icke skall komma, och slå jordena med spillgifning.   
+**[4:6]** Han skall omvända fädernas hjerta till barnen, och barnens hjerta till fäderna; på det jag icke skall komma, och slå jordena med spillgifning.
 
 ## Matthew
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** När Joseph vaknade upp af sömnen, gjorde han som Herrans Ängel hade honom befallt, och tog sina hustru till sig.
 
-**[1:25]** Och kände henne intet, tilldess hon födde sin första Son; och kallade hans Namn JESUS.  
+**[1:25]** Och kände henne intet, tilldess hon födde sin första Son; och kallade hans Namn JESUS.
 
 ### Chapter 2
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** Men när han hörde, att Archelaus var rådandes i Judiska landet, i sin faders Herodis stad, räddes han fara dit; och fick befallning af Gud i sömnen, och for in uti Galilee landsändar;
 
-**[2:23]** Och kom, och bodde i den staden, som heter Nazareth; att det skulle fullkomnas, som var sagdt genom Propheterna: Han skall kallas Nazareus.  
+**[2:23]** Och kom, och bodde i den staden, som heter Nazareth; att det skulle fullkomnas, som var sagdt genom Propheterna: Han skall kallas Nazareus.
 
 ### Chapter 3
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** Och när Jesus var döpt, steg han straxt upp af vattnet; och si, då vardt honom himmelen öppnad, och han såg Guds Anda nederfara som en dufva, och komma öfver honom.
 
-**[3:17]** Och si, en röst af himmelen sade: Denne är min käre Son, i hvilkom jag hafver ett godt behag.  
+**[3:17]** Och si, en röst af himmelen sade: Denne är min käre Son, i hvilkom jag hafver ett godt behag.
 
 ### Chapter 4
 
@@ -48414,7 +48414,7 @@
 
 **[4:24]** Och hans rykte gick öfver hela Syrien; och de hade till honom alla de der kranke voro af mångahanda sjukdom, och värkbrutna och besatta, och månaderasande och borttagna; och han gjorde dem alla helbregda.
 
-**[4:25]** Och honom följde mycket folk utaf Galileen, och utaf de tio städer, och utaf Jerusalem, och utaf Judeen, och utaf de land på denna sidon vid Jordan.  
+**[4:25]** Och honom följde mycket folk utaf Galileen, och utaf de tio städer, och utaf Jerusalem, och utaf Judeen, och utaf de land på denna sidon vid Jordan.
 
 ### Chapter 5
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** Om I hafven eder vänliga mot edra bröder allenast, hvad besynnerligit gören I? Göra icke ock så de Publicaner?
 
-**[5:48]** Varer fördenskull fullkomlige, såsom edar himmelske Fader fullkomlig är.  
+**[5:48]** Varer fördenskull fullkomlige, såsom edar himmelske Fader fullkomlig är.
 
 ### Chapter 6
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** Söker först efter Guds rike, och hans rättfärdighet, så faller eder allt detta till.
 
-**[6:34]** Sörjer icke fördenskull för morgondagen; ty morgondagen hafver sjelf sina omsorg med sig. Det är nog, att hvar dag hafver sin egen plågo.  
+**[6:34]** Sörjer icke fördenskull för morgondagen; ty morgondagen hafver sjelf sina omsorg med sig. Det är nog, att hvar dag hafver sin egen plågo.
 
 ### Chapter 7
 
@@ -48642,7 +48642,7 @@
 
 **[7:28]** Och det begaf sig, när Jesus lyktade detta talet, vardt folket förskräckt öfver hans lärdom.
 
-**[7:29]** Ty han predikade väldeliga, och icke som de Skriftlärde.  
+**[7:29]** Ty han predikade väldeliga, och icke som de Skriftlärde.
 
 ### Chapter 8
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** Men herdarne flydde bort, och gingo in i staden, och förkunnade alltsammans, och huru det var tillgånget med dem som besatte voro.
 
-**[8:34]** Och si, då gick hela staden ut emot Jesum; och då de sågo honom, bådo de att han ville gå bort utu deras landsändar.  
+**[8:34]** Och si, då gick hela staden ut emot Jesum; och då de sågo honom, bådo de att han ville gå bort utu deras landsändar.
 
 ### Chapter 9
 
@@ -48790,7 +48790,7 @@
 
 **[9:37]** Då sade han till sina Lärjungar: Säden är mycken, och arbetarena äro få.
 
-**[9:38]** Beder fördenskull sädenes Herra, att han sänder arbetare i sina säd.  
+**[9:38]** Beder fördenskull sädenes Herra, att han sänder arbetare i sina säd.
 
 ### Chapter 10
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Hvilken som anammar en Prophet, i ens Prophets namn, han skall få ens Prophets lön; och hvilken som anammar en rättfärdig, i ens rättfärdigs namn, han skall få ens rättfärdigs lön.
 
-**[10:42]** Och hvilken som gifver enom af dessa minsta en bägare kallt vatten dricka allenast, i ens Lärjungas namn, sannerliga säger jag eder, det skall icke blifva honom olönt.  
+**[10:42]** Och hvilken som gifver enom af dessa minsta en bägare kallt vatten dricka allenast, i ens Lärjungas namn, sannerliga säger jag eder, det skall icke blifva honom olönt.
 
 ### Chapter 11
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Tager på eder mitt ok, och lärer af mig; ty jag är mild och ödmjuk af hjertat; och I skolen finna ro till edra själar.
 
-**[11:30]** Ty mitt ok är lustigt, och min börda är lätt.  
+**[11:30]** Ty mitt ok är lustigt, och min börda är lätt.
 
 ### Chapter 12
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** Och räckte ut handena åt sina Lärjungar, och sade: Si, min moder och mine bröder.
 
-**[12:50]** Ty hvar och en, som gör mins Faders vilja, som är i himmelen, han är min broder, och syster, och moder.  
+**[12:50]** Ty hvar och en, som gör mins Faders vilja, som är i himmelen, han är min broder, och syster, och moder.
 
 ### Chapter 13
 
@@ -49158,7 +49158,7 @@
 
 **[13:57]** Och de förargades öfver honom. Men Jesus sade till dem: En Prophet är icke föraktad, utan i sitt fädernesland, och i sitt hus.
 
-**[13:58]** Och han gjorde der icke mång tecken, för deras otros skull.  
+**[13:58]** Och han gjorde der icke mång tecken, för deras otros skull.
 
 ### Chapter 14
 
@@ -49232,7 +49232,7 @@
 
 **[14:35]** Och när folket dersammastäds förnummo honom, sände de båd i hela landet deromkring, och hade alla sjuka till honom;
 
-**[14:36]** Och bådo honom, att de måtte allenast taga på hans klädafåll; och de, som togo deruppå, blefvo alle helbregda.  
+**[14:36]** Och bådo honom, att de måtte allenast taga på hans klädafåll; och de, som togo deruppå, blefvo alle helbregda.
 
 ### Chapter 15
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** Och de som åto voro fyratusend män, förutan qvinnor och barn.
 
-**[15:39]** Och när han hade skiljt folket ifrå sig, steg han till skepps, och kom uti den gränson vid Magdala.  
+**[15:39]** Och när han hade skiljt folket ifrå sig, steg han till skepps, och kom uti den gränson vid Magdala.
 
 ### Chapter 16
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** Förty det skall ske, att menniskones Son skall komma i sins Faders härlighet, med sina Änglar; och då skall han löna hvarjom och enom efter hans gerningar.
 
-**[16:28]** Sannerliga säger jag eder: Här äro någre ståndande, som icke skola smaka döden, tilldess de få se menniskones Son komma i sitt rike.  
+**[16:28]** Sannerliga säger jag eder: Här äro någre ståndande, som icke skola smaka döden, tilldess de få se menniskones Son komma i sitt rike.
 
 ### Chapter 17
 
@@ -49426,7 +49426,7 @@
 
 **[17:26]** Sade Petrus till honom: Af de främmande. Då sade Jesus till honom: Så äro ju barnen fri.
 
-**[17:27]** Men på det vi icke skole förarga dem, så gack till hafvet, och kasta ut kroken; och den första fisk du får, tag. Och när du låter upp hans mun, varder du finnandes en penning; den tag, och få honom ut, för mig och dig.  
+**[17:27]** Men på det vi icke skole förarga dem, så gack till hafvet, och kasta ut kroken; och den första fisk du får, tag. Och när du låter upp hans mun, varder du finnandes en penning; den tag, och få honom ut, för mig och dig.
 
 ### Chapter 18
 
@@ -49498,7 +49498,7 @@
 
 **[18:34]** Och hans herre vardt vred, och antvardade honom bödlarna i händer, tilldess det var allt betaladt, som han honom skyldig var.
 
-**[18:35]** Så skall ock min himmelske Fader göra eder, om I icke förlåten af edor hjerta, hvar och en sinom broder det de bryta.  
+**[18:35]** Så skall ock min himmelske Fader göra eder, om I icke förlåten af edor hjerta, hvar och en sinom broder det de bryta.
 
 ### Chapter 19
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** Och hvar och en, som öfvergifver hus, eller bröder, eller systrar, eller fader, eller moder, eller hustru, eller barn, eller åkrar, för mitt Namns skull, han skall få hundradefaldt, och ärfva evinnerligit lif.
 
-**[19:30]** Men månge de främste blifva de ytterste, och de ytterste de främste.  
+**[19:30]** Men månge de främste blifva de ytterste, och de ytterste de främste.
 
 ### Chapter 20
 
@@ -49630,7 +49630,7 @@
 
 **[20:33]** De sade till honom: Herre, att vår ögon måtte öppnas.
 
-**[20:34]** Då varkunnade sig Jesus öfver dem, och tog på deras ögon; och straxt fingo de sina syn, och följde honom.  
+**[20:34]** Då varkunnade sig Jesus öfver dem, och tog på deras ögon; och straxt fingo de sina syn, och följde honom.
 
 ### Chapter 21
 
@@ -49724,7 +49724,7 @@
 
 **[21:45]** Och när de öfverste Presterna och Phariseerna hörde hans liknelser, förnummo de, att han talade om dem.
 
-**[21:46]** Och de ville hafva tagit fatt på honom; men de räddes för folket, ty de höllo honom för en Prophet.  
+**[21:46]** Och de ville hafva tagit fatt på honom; men de räddes för folket, ty de höllo honom för en Prophet.
 
 ### Chapter 22
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** Efter nu David kallar honom Herra, huru är han då hans son?
 
-**[22:46]** Och ingen kunde svara honom ett ord; och ifrå den dagen dristade sig ej heller någor att fråga honom något mer.  
+**[22:46]** Och ingen kunde svara honom ett ord; och ifrå den dagen dristade sig ej heller någor att fråga honom något mer.
 
 ### Chapter 23
 
@@ -49898,7 +49898,7 @@
 
 **[23:38]** Si, edart hus skall eder blifva öde.
 
-**[23:39]** Ty jag säger eder: Efter denna tiden skolen I icke se mig, tilldess I skolen säga: Välsignad vare han, som kommer i Herrans Namn.  
+**[23:39]** Ty jag säger eder: Efter denna tiden skolen I icke se mig, tilldess I skolen säga: Välsignad vare han, som kommer i Herrans Namn.
 
 ### Chapter 24
 
@@ -50002,7 +50002,7 @@
 
 **[24:50]** Så kommer dens tjenarens herre, den dag han icke väntar honom, och den stund han icke menar;
 
-**[24:51]** Och skall sönderhugga honom, och gifva honom hans lön med skrymtare. Der skall vara gråt och tandagnisslan.  
+**[24:51]** Och skall sönderhugga honom, och gifva honom hans lön med skrymtare. Der skall vara gråt och tandagnisslan.
 
 ### Chapter 25
 
@@ -50096,7 +50096,7 @@
 
 **[25:45]** Då skall han svara dem och säga: Sannerliga säger jag eder: Hvad I icke hafven gjort enom af dessa minsta, det hafven I ock icke gjort mig.
 
-**[25:46]** Och desse skola då gå uti eviga pino; men de rättfärdige i evinnerligit lif.  
+**[25:46]** Och desse skola då gå uti eviga pino; men de rättfärdige i evinnerligit lif.
 
 ### Chapter 26
 
@@ -50248,7 +50248,7 @@
 
 **[26:74]** Då begynte han förbanna sig, och svärja, att han kände icke mannen. Och straxt gol hanen.
 
-**[26:75]** Då kom Petrus ihåg Jesu ord, som han hade sagt honom: Förr än hanen gal, skall du neka mig tre resor; och gick ut, och gret bitterliga.  
+**[26:75]** Då kom Petrus ihåg Jesu ord, som han hade sagt honom: Förr än hanen gal, skall du neka mig tre resor; och gick ut, och gret bitterliga.
 
 ### Chapter 27
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** Då sade Pilatus till dem: Der hafven I vaktena; går och förvarer, som I kunnen.
 
-**[27:66]** Då gingo de bort, och förvarade grafvena med väktare, och beseglade stenen.  
+**[27:66]** Då gingo de bort, och förvarade grafvena med väktare, och beseglade stenen.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Går fördenskull ut, och lärer all folk; och döper dem, i Namn Faders, och Sons, och dens Helga Andas.
 
-**[28:20]** Och lärer dem hålla allt det jag hafver eder befallt; och si, jag är när eder alla dagar, intill verldenes ända.   
+**[28:20]** Och lärer dem hålla allt det jag hafver eder befallt; och si, jag är när eder alla dagar, intill verldenes ända.
 
 ## Mark
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** Och sade honom: Se till, att du säger ingom detta; utan gack bort, och visa dig Prestenom, och offra, för din rening, det Mose budit hafver, till ett vittnesbörd öfver dem.
 
-**[1:45]** Men då han utgången var, begynte han förkunna mycket, och berykta det som skedt var; så att han icke nu mer kunde uppenbarliga gå in uti staden, utan blef ute i öde rum; och de kommo till honom af alla ändar.  
+**[1:45]** Men då han utgången var, begynte han förkunna mycket, och berykta det som skedt var; så att han icke nu mer kunde uppenbarliga gå in uti staden, utan blef ute i öde rum; och de kommo till honom af alla ändar.
 
 ### Chapter 2
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** Och han sade till dem: Sabbathen är gjord för menniskones skull, och icke menniskan för Sabbathens skull.
 
-**[2:28]** Så är nu menniskones Son en Herre, desslikes ock öfver Sabbathen.  
+**[2:28]** Så är nu menniskones Son en Herre, desslikes ock öfver Sabbathen.
 
 ### Chapter 3
 
@@ -50648,7 +50648,7 @@
 
 **[3:34]** Och då han omkringsett hade på Lärjungarna, som der kringom honom såto, sade han: Si, min moder och mine bröder.
 
-**[3:35]** Ty den som gör Guds vilja, han är min broder, och min syster, och min moder.  
+**[3:35]** Ty den som gör Guds vilja, han är min broder, och min syster, och min moder.
 
 ### Chapter 4
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** Och han sade till dem: Hvarföre ären I så rädde? Huru kommer det till, att I icke hafven trona?
 
-**[4:41]** Och de vordo ganska förskräckte, och sade emellan sig: Ho är denne? Ty vädret och hafvet äro honom lydig.  
+**[4:41]** Och de vordo ganska förskräckte, och sade emellan sig: Ho är denne? Ty vädret och hafvet äro honom lydig.
 
 ### Chapter 5
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** Och straxt stod pigan upp, och gick; och hon var vid tolf år gammal. Och de vordo öfvermåtton förskräckte.
 
-**[5:43]** Och han förböd dem strängeliga, att ingen skulle det veta; och böd gifva henne äta.  
+**[5:43]** Och han förböd dem strängeliga, att ingen skulle det veta; och böd gifva henne äta.
 
 ### Chapter 6
 
@@ -50934,7 +50934,7 @@
 
 **[6:55]** Och lupo omkring allan den landsändan; och begynte omkringföra de sjuka på sängar, dit de hörde han var.
 
-**[6:56]** Och hvar han ingick, i byar, eller städer, eller torp, der lade de kranka på gatorna, och bådo honom, att de åtminstone måtte taga på hans klädefåll; och så månge, som kommo vid honom, de vordo helbregda.  
+**[6:56]** Och hvar han ingick, i byar, eller städer, eller torp, der lade de kranka på gatorna, och bådo honom, att de åtminstone måtte taga på hans klädefåll; och så månge, som kommo vid honom, de vordo helbregda.
 
 ### Chapter 7
 
@@ -51010,7 +51010,7 @@
 
 **[7:36]** Och böd han dem, att de skulle ingom sägat; men ju mer han det förböd, ju mer de förkunnade det.
 
-**[7:37]** Och de förundrade sig öfvermåtton, sägande: Allt hafver han väl beställt; de döfva låter han höra, och dumbar tala.  
+**[7:37]** Och de förundrade sig öfvermåtton, sägande: Allt hafver han väl beställt; de döfva låter han höra, och dumbar tala.
 
 ### Chapter 8
 
@@ -51088,7 +51088,7 @@
 
 **[8:37]** Eller hvad kan en menniska gifva, der hon sin själ med lösa må?
 
-**[8:38]** Men den som blyges vid mig och min ord, uti detta horiska och syndiga slägtet, vid honom skall ock menniskones Son blygas, när han kommer i sins Faders härlighet, med de helga Änglar.  
+**[8:38]** Men den som blyges vid mig och min ord, uti detta horiska och syndiga slägtet, vid honom skall ock menniskones Son blygas, när han kommer i sins Faders härlighet, med de helga Änglar.
 
 ### Chapter 9
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** Ty hvar och en måste med eld saltad varda, och allt offer måste med salt saltas.
 
-**[9:50]** Salt är ett godt ting; hvar nu saltet mister sin sälto, hvarmed skall man salta? Hafver salt uti eder, och hafver frid emellan eder inbördes.  
+**[9:50]** Salt är ett godt ting; hvar nu saltet mister sin sälto, hvarmed skall man salta? Hafver salt uti eder, och hafver frid emellan eder inbördes.
 
 ### Chapter 10
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** Då svarade Jesus, och sade till honom: Hvad vill du, att jag skall göra dig? Den blinde sade till honom: Rabboni, att jag måtte få min syn.
 
-**[10:52]** Jesus sade till honom: Gack, din tro hafver gjort dig helbregda. Och straxt fick han sin syn, och följde Jesum i vägen.  
+**[10:52]** Jesus sade till honom: Gack, din tro hafver gjort dig helbregda. Och straxt fick han sin syn, och följde Jesum i vägen.
 
 ### Chapter 11
 
@@ -51364,7 +51364,7 @@
 
 **[11:32]** Men säge vi, att den var af menniskom, rädes vi för folket; ty alle höllo Johannes för en sann Prophet.
 
-**[11:33]** Och så svarade de, sägande till Jesum: Vi vete det icke. Svarade Jesus, och sade till dem: Icke heller säger jag eder, af hvad magt jag detta gör.  
+**[11:33]** Och så svarade de, sägande till Jesum: Vi vete det icke. Svarade Jesus, och sade till dem: Icke heller säger jag eder, af hvad magt jag detta gör.
 
 ### Chapter 12
 
@@ -51454,7 +51454,7 @@
 
 **[12:43]** Då kallade han sina Lärjungar till sig, och sade till dem: Sannerliga säger jag eder, denna fattiga enkan lade mer in i kistona, än alle de andre som der inlade.
 
-**[12:44]** Ty de hafva alle inlagt af det dem öfverlopp; men hon inlade, utaf sin fattigdom, allt det hon hade, alla sina näring.  
+**[12:44]** Ty de hafva alle inlagt af det dem öfverlopp; men hon inlade, utaf sin fattigdom, allt det hon hade, alla sina näring.
 
 ### Chapter 13
 
@@ -51530,7 +51530,7 @@
 
 **[13:36]** Att, då han kommer hasteliga, han icke skall finna eder sofvande.
 
-**[13:37]** Men hvad jag säger eder, det säger jag allom: Vaker.  
+**[13:37]** Men hvad jag säger eder, det säger jag allom: Vaker.
 
 ### Chapter 14
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** Då begynte han till att förbanna sig, och svärja: Jag känner icke denna mannen, der I om talen.
 
-**[14:72]** Och åter gol hanen. Då begynte Petrus draga till minnes det ordet, som Jesus hade sagt till honom: Förr än hanen hafver galit två resor, skall du försaka mig tre resor. Och han begynte till att gråta.  
+**[14:72]** Och åter gol hanen. Då begynte Petrus draga till minnes det ordet, som Jesus hade sagt till honom: Förr än hanen hafver galit två resor, skall du försaka mig tre resor. Och han begynte till att gråta.
 
 ### Chapter 15
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** Och han köpte ett linkläde, och tog honom ned, och svepten uti linklädet, och lade honom ned uti ena graf, som uthuggen var uti ett hälleberg; och välte en sten för grafvenes dörr.
 
-**[15:47]** Men Maria Magdalena och Maria Jose sågo till hvart han lades.  
+**[15:47]** Men Maria Magdalena och Maria Jose sågo till hvart han lades.
 
 ### Chapter 16
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Då nu Herren Jesus med dem talat hade, vardt han upptagen i himmelen, och sitter på Guds högra hand.
 
-**[16:20]** Men de gingo ut, och predikade allestäds; och Herren verkade med dem, och stadfäste ordet med efterföljande tecken.   
+**[16:20]** Men de gingo ut, och predikade allestäds; och Herren verkade med dem, och stadfäste ordet med efterföljande tecken.
 
 ## Luke
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** Till att uppenbaras dem, som sitta i mörkret och dödsens skugga, och styra våra fötter på fridsens väg.
 
-**[1:80]** Och barnet växte upp, och stärktes i Andanom; och vistades i öknene, till den dagen han skulle framkomma för Israels folk.  
+**[1:80]** Och barnet växte upp, och stärktes i Andanom; och vistades i öknene, till den dagen han skulle framkomma för Israels folk.
 
 ### Chapter 2
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** Och så for han ned med dem, och kom till Nazareth, och var dem underdånig; men hans moder gömde all dessa ord uti sitt hjerta.
 
-**[2:52]** Och Jesus växte till i visdom, ålder och nåde, för Gud och menniskor.  
+**[2:52]** Och Jesus växte till i visdom, ålder och nåde, för Gud och menniskor.
 
 ### Chapter 3
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** Hvilken var Mathusala son; hvilken var Enochs son; hvilken var Jareds son; hvilken var Maleleels son; hvilken var Cainans son;
 
-**[3:38]** Hvilken var Enos son; hvilken var Seths son; hvilken var Adams son; hvilken var Guds.  
+**[3:38]** Hvilken var Enos son; hvilken var Seths son; hvilken var Adams son; hvilken var Guds.
 
 ### Chapter 4
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** Då sade han till dem: Andra städer måste jag ock predika Guds rike; ty jag är dertill sänd.
 
-**[4:44]** Och han predikade uti de Synagogor i Galileen.  
+**[4:44]** Och han predikade uti de Synagogor i Galileen.
 
 ### Chapter 5
 
@@ -52332,7 +52332,7 @@
 
 **[5:38]** Utan nytt vin skall man låta uti nya flaskor, och så blifva de både förvarad.
 
-**[5:39]** Och ingen, som dricker gammalt vin, begärar straxt nytt; ty han säger: Det gamla är bättre.  
+**[5:39]** Och ingen, som dricker gammalt vin, begärar straxt nytt; ty han säger: Det gamla är bättre.
 
 ### Chapter 6
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** Han är lik enom man, som bygger ett hus; hvilken grof djupt, och lade grundvalen på hälleberget; då floden kom, strömmade hon in på huset, och kunde dock intet röra det; ty det var grundadt på hälleberget.
 
-**[6:49]** Men den der hörer, och icke gör, han är lik enom man, som byggde sitt hus på jordena, utan grundval; der strömmade floden in på, och straxt föll det; och dess hus fall var stort.  
+**[6:49]** Men den der hörer, och icke gör, han är lik enom man, som byggde sitt hus på jordena, utan grundval; der strömmade floden in på, och straxt föll det; och dess hus fall var stort.
 
 ### Chapter 7
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** Då begynte de, som med honom till bords såto, säga vid sig: Ho är denne, som ock synder förlåter?
 
-**[7:50]** Då sade han till qvinnona: Din tro hafver frälst dig; gack med frid.  
+**[7:50]** Då sade han till qvinnona: Din tro hafver frälst dig; gack med frid.
 
 ### Chapter 8
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** Och hennes ande kom igen, och hon stod straxt upp; och han böd gifva henne mat.
 
-**[8:56]** Och hennes föräldrar förskräcktes. Men han böd dem, att de ingom säga skulle, hvad der skedt var.  
+**[8:56]** Och hennes föräldrar förskräcktes. Men han böd dem, att de ingom säga skulle, hvad der skedt var.
 
 ### Chapter 9
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** En annar sade: Herre, jag vill följa dig; men låt mig först gå, och skilja mig ifrå dem som i mitt hus äro.
 
-**[9:62]** Sade Jesus till honom: Hvilken som sätter sin hand till plogen, och ser tillbaka, han är icke beqväm för Guds rike.  
+**[9:62]** Sade Jesus till honom: Hvilken som sätter sin hand till plogen, och ser tillbaka, han är icke beqväm för Guds rike.
 
 ### Chapter 10
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** Svarade Jesus, och sade till henne: Martha, Martha, du hafver omsorg och bekymmer om mångahanda;
 
-**[10:42]** Men ett är nödtorftigt; Maria hafver utkorat den goda delen, hvilken henne icke skall ifråtagas.  
+**[10:42]** Men ett är nödtorftigt; Maria hafver utkorat den goda delen, hvilken henne icke skall ifråtagas.
 
 ### Chapter 11
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** När han nu detta sade till dem, begynte de lagkloke och Phariseer gå hårdt åt honom, och listeliga fråga honom om mång stycker, med försåt;
 
-**[11:54]** Sökande efter, att de något veda kunde af hans mun, der de måtte beklaga honom före.  
+**[11:54]** Sökande efter, att de något veda kunde af hans mun, der de måtte beklaga honom före.
 
 ### Chapter 12
 
@@ -53090,7 +53090,7 @@
 
 **[12:58]** När du nu går med din trätobroder till öfverstan, så vinnlägg dig i vägen, att du blifver honom fri; att han tilläfventyrs icke drager dig fram för domaren, och domaren antvardar dig stockmästaren, och stockmästaren kastar dig i fängelset.
 
-**[12:59]** Jag säger dig: Du varder icke utkommandes, tilldess du betalat hafver den yttersta skärfven.  
+**[12:59]** Jag säger dig: Du varder icke utkommandes, tilldess du betalat hafver den yttersta skärfven.
 
 ### Chapter 13
 
@@ -53162,7 +53162,7 @@
 
 **[13:34]** Jerusalem, Jerusalem, du som dräper Propheterna, och stenar dem som sändas till dig; huru ofta ville jag församla din barn, likavisst som foglen sitt näste under sina vingar; och I villen icke?
 
-**[13:35]** Si, edart hus skall varda eder öde; och säger jag eder, att I skolen icke se mig, tilldess tiden kommer, att I varden sägande: Välsignad är han, som kommer i Herrans Namn.  
+**[13:35]** Si, edart hus skall varda eder öde; och säger jag eder, att I skolen icke se mig, tilldess tiden kommer, att I varden sägande: Välsignad är han, som kommer i Herrans Namn.
 
 ### Chapter 14
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Saltet är godt; men om saltet mister sin sälto, med hvad skall man då salta?
 
-**[14:35]** Det är hvarken nyttigt i jordene, eller i dyngone; utan man kastar det bort. Den der öron hafver till att höra, han höre.  
+**[14:35]** Det är hvarken nyttigt i jordene, eller i dyngone; utan man kastar det bort. Den der öron hafver till att höra, han höre.
 
 ### Chapter 15
 
@@ -53300,7 +53300,7 @@
 
 **[15:31]** Då sade han till honom: Min son, du äst alltid när mig, och allt det mitt är, det är ditt.
 
-**[15:32]** Man måste nu glädjas och fröjdas; ty denne din broder var död, och fick lif igen; och var borttappad, och är igenfunnen.  
+**[15:32]** Man måste nu glädjas och fröjdas; ty denne din broder var död, och fick lif igen; och var borttappad, och är igenfunnen.
 
 ### Chapter 16
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** Då sade han: Nej, fader Abraham; men kommer någor till dem af de döda, då bättra de sig.
 
-**[16:31]** Då sade han till honom: Höra de icke Mosen och Propheterna, så tro de icke heller, om någor af de döda uppstode.  
+**[16:31]** Då sade han till honom: Höra de icke Mosen och Propheterna, så tro de icke heller, om någor af de döda uppstode.
 
 ### Chapter 17
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** Två skola vara i markene; den ene varder upptagen, och den andre varder qvarlåten.
 
-**[17:37]** Då svarade de, och sade till honom: Hvar då, Herre? Sade han till dem: Der som åtelen är, dit församlas ock örnarna.  
+**[17:37]** Då svarade de, och sade till honom: Hvar då, Herre? Sade han till dem: Der som åtelen är, dit församlas ock örnarna.
 
 ### Chapter 18
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** Och Jesus sade till honom: Haf din syn; din tro hafver frälst dig.
 
-**[18:43]** Och straxt fick han sin syn igen, och följde honom, prisandes Gud. Och allt folket, som detta sågo, lofvade Gud.  
+**[18:43]** Och straxt fick han sin syn igen, och följde honom, prisandes Gud. Och allt folket, som detta sågo, lofvade Gud.
 
 ### Chapter 19
 
@@ -53626,7 +53626,7 @@
 
 **[19:47]** Och han lärde hvar dag i templet. Men de öfverste Presterna, och de ypperste ibland folket, sökte efter att de kunde förgöra honom;
 
-**[19:48]** Och de kunde icke finna, hvad de skulle göra; ty allt folket höll sig intill honom, och hörde honom.  
+**[19:48]** Och de kunde icke finna, hvad de skulle göra; ty allt folket höll sig intill honom, och hörde honom.
 
 ### Chapter 20
 
@@ -53722,7 +53722,7 @@
 
 **[20:46]** Tager eder vara för de Skriftlärda, som vilja gå uti sid kläder, och vilja gerna varda helsade på torgen, och sitta främst i Synagogorna, och sitta främst i gästabåden.
 
-**[20:47]** De uppfräta enkors hus, förebärande långa böner; de skola få dess större fördömelse.  
+**[20:47]** De uppfräta enkors hus, förebärande långa böner; de skola få dess större fördömelse.
 
 ### Chapter 21
 
@@ -53800,7 +53800,7 @@
 
 **[21:37]** Och han lärde om dagen i templet; men om natten gick han ut, och vistades på Oljoberget.
 
-**[21:38]** Och allt folket var bittida uppe till honom i templet, till att höra honom.  
+**[21:38]** Och allt folket var bittida uppe till honom i templet, till att höra honom.
 
 ### Chapter 22
 
@@ -53944,7 +53944,7 @@
 
 **[22:70]** Då sade de alle: Så äst du ju Guds Son? Sade han: I sägen att jag så är.
 
-**[22:71]** Då sade de: Hvarefter begärom vi ännu vittnesbörd? Vi hafve sjelfve hört det af hans mun.  
+**[22:71]** Då sade de: Hvarefter begärom vi ännu vittnesbörd? Vi hafve sjelfve hört det af hans mun.
 
 ### Chapter 23
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** Och följde der några qvinnor efter, som med honom komna voro af Galileen och besågo grafvena, och huruledes hans lekamen lagd var;
 
-**[23:56]** Och gingo sedan tillbaka igen, och tillredde välluktandes krydder och smörjelse; men om Sabbathen voro de stilla, som budet var i lagen.  
+**[23:56]** Och gingo sedan tillbaka igen, och tillredde välluktandes krydder och smörjelse; men om Sabbathen voro de stilla, som budet var i lagen.
 
 ### Chapter 24
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Och de tillbådo honom; och gingo sedan in i Jerusalem igen, med stora glädje;
 
-**[24:53]** Och voro alltid i templet, prisade och lofvade Gud. Amen.   
+**[24:53]** Och voro alltid i templet, prisade och lofvade Gud. Amen.
 
 ## John
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** Jesus svarade, och sade till honom: Efter det jag sade dig, att jag såg dig under fikonaträt, tror du; större ting, än desse äro, skall du få se;
 
-**[1:51]** Och sade till honom: Sannerliga, sannerliga säger jag eder: Härefter skolen I få se himmelen öppen, och Guds Änglar fara upp och neder öfver menniskones Son.  
+**[1:51]** Och sade till honom: Sannerliga, sannerliga säger jag eder: Härefter skolen I få se himmelen öppen, och Guds Änglar fara upp och neder öfver menniskones Son.
 
 ### Chapter 2
 
@@ -54324,7 +54324,7 @@
 
 **[2:24]** Men Jesus betrodde icke sig sjelfvan dem; ty han kände alla;
 
-**[2:25]** Och behöfde icke, att någor skulle vittna om menniskona; ty han visste väl hvad i menniskone var.  
+**[2:25]** Och behöfde icke, att någor skulle vittna om menniskona; ty han visste väl hvad i menniskone var.
 
 ### Chapter 3
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** Fadren älskar Sonen, och allt hafver han gifvit honom i händer.
 
-**[3:36]** Hvilken som tror Sonenom, han hafver evinnerligit lif; men den som icke tror Sonenom, han skall icke få se lifvet; utan Guds vrede blifver öfver honom.  
+**[3:36]** Hvilken som tror Sonenom, han hafver evinnerligit lif; men den som icke tror Sonenom, han skall icke få se lifvet; utan Guds vrede blifver öfver honom.
 
 ### Chapter 4
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** Då förstod fadren, att det var den timmen, i hvilkom Jesus hade sagt till honom: Din son lefver. Och han trodde, och allt hans hus.
 
-**[4:54]** Detta är nu det andra tecknet, som Jesus gjorde, när han kom af Judeen i Galileen.  
+**[4:54]** Detta är nu det andra tecknet, som Jesus gjorde, när han kom af Judeen i Galileen.
 
 ### Chapter 5
 
@@ -54604,7 +54604,7 @@
 
 **[5:46]** Haden I trott Mosi, så haden I ock trott mig; ty om mig hafver han skrifvit.
 
-**[5:47]** Men tron I icke hans skrifter, huru skolen I då tro min ord?  
+**[5:47]** Men tron I icke hans skrifter, huru skolen I då tro min ord?
 
 ### Chapter 6
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** Svarade dem Jesus: Hafver jag icke eder tolf utvalt? Och en af eder är en djefvul.
 
-**[6:71]** Men det sade han om Juda Simons Ischarioth; ty han var den som honom förråda skulle, och var en af de tolf.  
+**[6:71]** Men det sade han om Juda Simons Ischarioth; ty han var den som honom förråda skulle, och var en af de tolf.
 
 ### Chapter 7
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** Svarade de, och sade till honom: Äst du icke ock en Galilee? Ransaka, och se, att af Galileen är ingen Prophet uppkommen.
 
-**[7:53]** Och så gick hvar och en hem till sitt.  
+**[7:53]** Och så gick hvar och en hem till sitt.
 
 ### Chapter 8
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Jesus sade till dem: Sannerliga, sannerliga säger jag eder: Förr än Abraham var född, är jag.
 
-**[8:59]** Då togo de upp stenar, till att kasta honom. Men Jesus gömde sig undan; och gick ut af templet.  
+**[8:59]** Då togo de upp stenar, till att kasta honom. Men Jesus gömde sig undan; och gick ut af templet.
 
 ### Chapter 9
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** Och någre af de Phariseer, som voro med honom, hörde detta, och sade till honom: Månne vi ock vara blinde?
 
-**[9:41]** Sade Jesus till dem: Voren I blinde, då haden I icke synd; men nu sägen I: Vi se; derföre blifver edor synd.  
+**[9:41]** Sade Jesus till dem: Voren I blinde, då haden I icke synd; men nu sägen I: Vi se; derföre blifver edor synd.
 
 ### Chapter 10
 
@@ -55146,7 +55146,7 @@
 
 **[10:41]** Och månge kommo till honom, och sade: Johannes gjorde intet tecken; men allt det Johannes om denna sagt hafver, är sant.
 
-**[10:42]** Och trodde månge der på honom,  
+**[10:42]** Och trodde månge der på honom,
 
 ### Chapter 11
 
@@ -55262,7 +55262,7 @@
 
 **[11:56]** Då sökte de efter Jesum, och talades vid emellan sig, ståndande i templet: Hvad synes eder, att han är icke kommen till högtidsdagen?
 
-**[11:57]** Och hade öfverste Presterna och de Phariseer budit på, att hvilken som visste hvar han vore, skulle han det kungöra, att de måtte gripa honom.  
+**[11:57]** Och hade öfverste Presterna och de Phariseer budit på, att hvilken som visste hvar han vore, skulle han det kungöra, att de måtte gripa honom.
 
 ### Chapter 12
 
@@ -55364,7 +55364,7 @@
 
 **[12:49]** Ty jag hafver icke talat af mig sjelf; utan Fadren, som mig sändt hafver, han hafver budit mig hvad jag skall säga, och hvad jag skall tala.
 
-**[12:50]** Och jag vet, att hans bud är evinnerligit lif; derföre, hvad jag talar, det talar jag såsom Fadren hafver sagt mig.  
+**[12:50]** Och jag vet, att hans bud är evinnerligit lif; derföre, hvad jag talar, det talar jag såsom Fadren hafver sagt mig.
 
 ### Chapter 13
 
@@ -55442,7 +55442,7 @@
 
 **[13:37]** Sade Petrus till honom: Herre, hvi kan jag icke nu följa dig? Mitt lif vill jag låta för dig.
 
-**[13:38]** Jesus svarade honom: Skulle du låta ditt lif för mig? Sannerliga, sannerliga säger jag dig: Hanen skall icke gala, förr än du hafver tre resor nekat mig.  
+**[13:38]** Jesus svarade honom: Skulle du låta ditt lif för mig? Sannerliga, sannerliga säger jag dig: Hanen skall icke gala, förr än du hafver tre resor nekat mig.
 
 ### Chapter 14
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Härefter talar jag icke mycket med eder; ty denna verldenes Förste kommer; och i mig hafver han intet.
 
-**[14:31]** Men på det att verlden skall förstå, att jag hafver Fadren kär, och så gör som Fadren mig budit hafver; står upp, låter oss gå hädan.  
+**[14:31]** Men på det att verlden skall förstå, att jag hafver Fadren kär, och så gör som Fadren mig budit hafver; står upp, låter oss gå hädan.
 
 ### Chapter 15
 
@@ -55562,7 +55562,7 @@
 
 **[15:26]** Men när Hugsvalaren kommer, den jag skall sända eder af Fadrenom, sanningenes Ande, som utgår af Fadrenom, han skall bära vittnesbörd om mig.
 
-**[15:27]** I skolen ock desslikes vittna; ty I hafven varit med mig af begynnelsen.  
+**[15:27]** I skolen ock desslikes vittna; ty I hafven varit med mig af begynnelsen.
 
 ### Chapter 16
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** Si, tiden tillstundar, och är redo kommen, att I varden förskingrade, hvar och en till sitt, och låten mig blifva allena; men jag är icke allena; ty Fadren är med mig.
 
-**[16:33]** Detta hafver jag talat med eder, att I skolen hafva frid i mig; i verldene hafven I tvång; men varer vid en god tröst, jag hafver öfvervunnit verldena.  
+**[16:33]** Detta hafver jag talat med eder, att I skolen hafva frid i mig; i verldene hafven I tvång; men varer vid en god tröst, jag hafver öfvervunnit verldena.
 
 ### Chapter 17
 
@@ -55684,7 +55684,7 @@
 
 **[17:25]** Rättvise Fader, verlden hafver icke känt dig; men jag hafver känt dig; och desse hafva förstått att du mig sändt hafver.
 
-**[17:26]** Och jag hafver kungjort dem ditt Namn, och skall kungörat; på det att den kärlek, som du hafver älskat mig med, skall vara i dem, och jag i dem,  
+**[17:26]** Och jag hafver kungjort dem ditt Namn, och skall kungörat; på det att den kärlek, som du hafver älskat mig med, skall vara i dem, och jag i dem,
 
 ### Chapter 18
 
@@ -55766,7 +55766,7 @@
 
 **[18:39]** I hafven sedvänjo, att jag skall gifva eder en lös om Påska; viljen I då icke, att jag skall gifva eder Judarnas Konung lös?
 
-**[18:40]** Åter ropade de alle, och sade: Icke denna, utan Barabbam. Och Barabbas var en röfvare.  
+**[18:40]** Åter ropade de alle, och sade: Icke denna, utan Barabbam. Och Barabbas var en röfvare.
 
 ### Chapter 19
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** Och var på det rummet, der han korsfast var, en örtagård, och i örtagården en ny graf, der ännu ingen hade varit uti lagd.
 
-**[19:42]** Der lade de då Jesum, för Judarnas tillredelsedags skull, efter grafven var när.  
+**[19:42]** Der lade de då Jesum, för Judarnas tillredelsedags skull, efter grafven var när.
 
 ### Chapter 20
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** Gjorde ock Jesus mång annor tecken, i sina Lärjungars åsyn, som i denna bokene icke äro skrifne.
 
-**[20:31]** Men dessa äro skrifne, på det I tro skolen, att Jesus är Christus, Guds Son; och att I, genom trona, skolen hafva lif i hans Namn.  
+**[20:31]** Men dessa äro skrifne, på det I tro skolen, att Jesus är Christus, Guds Son; och att I, genom trona, skolen hafva lif i hans Namn.
 
 ### Chapter 21
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** Denne är den Lärjungen, som vittnar härom, och den detta skrifvit hafver; och vi vete, att hans vittnesbörd är sant.
 
-**[21:25]** Äro ock mång annor ting, som Jesus gjorde, hvilka, om de det ena med det andra skrefvos, tror jag att verlden skulle icke kunna begripa de böcker, som skrifvas skulle. Amen.   
+**[21:25]** Äro ock mång annor ting, som Jesus gjorde, hvilka, om de det ena med det andra skrefvos, tror jag att verlden skulle icke kunna begripa de böcker, som skrifvas skulle. Amen.
 
 ## Acts
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** Att han skall få denna tjensten, och Apostlaämbetet, der Judas ifrå fallen är, att han skulle bortgå i sitt rum.
 
-**[1:26]** Och de kastade lott derom, och lotten föll på Matthiam; och han vardt räknad till de ellofva Apostlar.  
+**[1:26]** Och de kastade lott derom, och lotten föll på Matthiam; och han vardt räknad till de ellofva Apostlar.
 
 ### Chapter 2
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** Och hvar dag voro de stadigt och endrägteliga i templet; och bröto bröd här och der i husen, ätandes med hvarannan i fröjd; och lofvade Gud i deras hjertans enfaldighet.
 
-**[2:47]** Och de hade ynnest när allt folket. Och Herren förökade hvar dag församlingen med dem som salige vordo.  
+**[2:47]** Och de hade ynnest när allt folket. Och Herren förökade hvar dag församlingen med dem som salige vordo.
 
 ### Chapter 3
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** I ären Propheternas och förbundsens barn, det Gud hafver gjort med våra fäder, sägandes till Abraham: I dine säd skola all folk på jordene välsignad varda.
 
-**[3:26]** Eder först och främst hafver Gud uppväckt sin Son, Jesum, och sändt honom till att välsigna eder, att hvar och en af eder skulle sig omvända ifrå sine ondsko.  
+**[3:26]** Eder först och främst hafver Gud uppväckt sin Son, Jesum, och sändt honom till att välsigna eder, att hvar och en af eder skulle sig omvända ifrå sine ondsko.
 
 ### Chapter 4
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Men Joses, som ock kallades af Apostlarna Barnabas, det uttydt är, hugsvalelsens son, en Levit, bördig af Cypren;
 
-**[4:37]** Han hade en åker, den sålde han; och bar fram värdet, och ladet för Apostlarnas fötter.  
+**[4:37]** Han hade en åker, den sålde han; och bar fram värdet, och ladet för Apostlarnas fötter.
 
 ### Chapter 5
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** Men de gingo med fröjd ifrå Rådet, att de voro värdige lida smälek för hans Namns skull;
 
-**[5:42]** Och höllo hvar dag uppå, utan återvändo, att lära och predika Evangelium om Jesu Christo, uti templet, och i all hus.  
+**[5:42]** Och höllo hvar dag uppå, utan återvändo, att lära och predika Evangelium om Jesu Christo, uti templet, och i all hus.
 
 ### Chapter 6
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** Ty vi hörde honom säga: Jesus af Nazareth skall kullslå detta rummet, och skall förvandla de stadgar, som Moses hafver fått oss.
 
-**[6:15]** Och alle de på Rådet såto, sågo på honom, och sågo hans ansigte lika visst som en Ängels ansigte.  
+**[6:15]** Och alle de på Rådet såto, sågo på honom, och sågo hans ansigte lika visst som en Ängels ansigte.
 
 ### Chapter 7
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** Och de stenade Stephanum; och han åkallade, och sade: Herre Jesu, anamma min anda.
 
-**[7:60]** Och så böjde han sin knä neder, och ropade med höga röst: Herre, räkna dem icke denna synden. Och när han hade det sagt, af somnade han.  
+**[7:60]** Och så böjde han sin knä neder, och ropade med höga röst: Herre, räkna dem icke denna synden. Och när han hade det sagt, af somnade han.
 
 ### Chapter 8
 
@@ -56572,7 +56572,7 @@
 
 **[8:39]** Och när de gingo upp utu vattnet, tog Herrans Ande Philippum bort, och kamereraren såg honom intet sedan; utan for sin väg, och var glad.
 
-**[8:40]** Och Philippus vardt funnen i Azot; och vandrade omkring, och predikade Evangelium i alla städer, tilldess han kom till Cesarea.  
+**[8:40]** Och Philippus vardt funnen i Azot; och vandrade omkring, och predikade Evangelium i alla städer, tilldess han kom till Cesarea.
 
 ### Chapter 9
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** Och det vardt kunnigt öfver hela Joppe; och månge begynte tro på Herran.
 
-**[9:43]** Så begaf sig, att han blef i många dagar i Joppe, när en som het Simon, som var en lädermakare.  
+**[9:43]** Så begaf sig, att han blef i många dagar i Joppe, när en som het Simon, som var en lädermakare.
 
 ### Chapter 10
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Då svarade Petrus: Kan någor förbjuda, att desse icke döpas i vatten, som fått hafva den Helga Anda, så väl som vi?
 
-**[10:48]** Och så lät han döpa dem i Herrans Namn. Och de bådo honom, att han skulle blifva när dem i några dagar.  
+**[10:48]** Och så lät han döpa dem i Herrans Namn. Och de bådo honom, att han skulle blifva när dem i några dagar.
 
 ### Chapter 11
 
@@ -56820,7 +56820,7 @@
 
 **[11:29]** Då satte Lärjungarna sig före, efter som hvar förmådde, att sända något till hjelp till de bröder, som bodde i Judeen;
 
-**[11:30]** Hvilket de ock gjorde; och sände till de äldsta, genom Barnabe och Sauli hand.  
+**[11:30]** Hvilket de ock gjorde; och sände till de äldsta, genom Barnabe och Sauli hand.
 
 ### Chapter 12
 
@@ -56872,7 +56872,7 @@
 
 **[12:24]** Men Guds ord växte och förökades.
 
-**[12:25]** Men Barnabas och Paulus foro igen till Jerusalem, och fingo den undsättning ifrå sig; och togo med sig Johannes, som ock kallades Marcus.  
+**[12:25]** Men Barnabas och Paulus foro igen till Jerusalem, och fingo den undsättning ifrå sig; och togo med sig Johannes, som ock kallades Marcus.
 
 ### Chapter 13
 
@@ -56976,7 +56976,7 @@
 
 **[13:50]** Men Judarna togo till att egga gudeliga och ärliga qvinnor, och de öfversta i staden; och uppväckte förföljelse emot Paulum och Barnabam, och drefvo dem utu sina landsändar.
 
-**[13:51]** Men de skuddade stoftet af sina fötter på dem, och kommo till Iconien. Och Lärjungarna vordo uppfyllde med fröjd och den Helga Anda.  
+**[13:51]** Men de skuddade stoftet af sina fötter på dem, och kommo till Iconien. Och Lärjungarna vordo uppfyllde med fröjd och den Helga Anda.
 
 **[13:52]** 
 
@@ -57036,7 +57036,7 @@
 
 **[14:27]** Och då de der kommo, hade de tillhopa församlingena, och underviste dem, hvad Gud med dem gjort hade; och att han upplåtit hade trones dörr för Hedningomen.
 
-**[14:28]** Och de blefvo der med Lärjungarna ett godt skifte.  
+**[14:28]** Och de blefvo der med Lärjungarna ett godt skifte.
 
 ### Chapter 15
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** Men Paulus utvalde Silam, och for sina färde, befallder i Guds nåd af bröderna;
 
-**[15:41]** Och vandrade omkring i Syrien och Cilicien, styrkandes församlingarna.  
+**[15:41]** Och vandrade omkring i Syrien och Cilicien, styrkandes församlingarna.
 
 ### Chapter 16
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** Och kommo dit, och förmante dem; och togo dem ut, bedjande att de utgå skulle af staden.
 
-**[16:40]** Då gingo de utu fängelset, och kommo till Lydia; och när de hade sett bröderna, och styrkt dem, foro de sina färde.  
+**[16:40]** Då gingo de utu fängelset, och kommo till Lydia; och när de hade sett bröderna, och styrkt dem, foro de sina färde.
 
 ### Chapter 17
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** Och så gick Paulus ut ifrå dem.
 
-**[17:34]** Och någre män höllo sig intill honom, och trodde; ibland hvilka var Dionysius, en af Rådet, och en qvinna, benämnd Damaris, och andre med dem.  
+**[17:34]** Och någre män höllo sig intill honom, och trodde; ibland hvilka var Dionysius, en af Rådet, och en qvinna, benämnd Damaris, och andre med dem.
 
 ### Chapter 18
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** Och då han ville färdas till Achaja, skrefvo bröderna och förmanade Lärjungarna, att de skulle undfå honom. Och då han framkom, var han dem som trodde mycket till tröst genom nådena.
 
-**[18:28]** Ty han öfvervann Judarna skarpeliga, och uppenbarliga bevisade med Skrifterna, att Jesus var Christus.  
+**[18:28]** Ty han öfvervann Judarna skarpeliga, och uppenbarliga bevisade med Skrifterna, att Jesus var Christus.
 
 ### Chapter 19
 
@@ -57412,7 +57412,7 @@
 
 **[19:39]** Men hafven I om något annat handla, då må det åtskiljas uti någon tillbörlig samqväm.
 
-**[19:40]** Ty det är fara att vi komme i skuld, för det upplopp som i dag skedt är, efter ingen sak på färde är, der vi kunne någon skäl af taga till detta upplopp. Och då han det sagt hade, lät han folket gå.  
+**[19:40]** Ty det är fara att vi komme i skuld, för det upplopp som i dag skedt är, efter ingen sak på färde är, der vi kunne någon skäl af taga till detta upplopp. Och då han det sagt hade, lät han folket gå.
 
 **[19:41]** 
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** Och vardt en stor gråt med allom dem; och de föllo Paulo om halsen, och kysste honom;
 
-**[20:38]** Sörjande mest för det ordets skull, som han sagt hade, att de skulle icke mer få se hans ansigte. Och så följde de honom till skepps.  
+**[20:38]** Sörjande mest för det ordets skull, som han sagt hade, att de skulle icke mer få se hans ansigte. Och så följde de honom till skepps.
 
 ### Chapter 21
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** Då sade Paulus: Jag är en Judisk man, af Tarsen i Cilicien, en borgare i den namnkunniga staden; jag beder dig, städ till att jag må tala till folket.
 
-**[21:40]** Och han tillstadde det. Då stod Paulus på trappone, och tecknade till folket med handene. Då nu vardt en stor tysta, talade han till dem på Ebreiskt mål, sägandes:  
+**[21:40]** Och han tillstadde det. Då stod Paulus på trappone, och tecknade till folket med handene. Då nu vardt en stor tysta, talade han till dem på Ebreiskt mål, sägandes:
 
 ### Chapter 22
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Och straxt gingo de ifrå honom, som skulle hafva ransakat honom; och höfvitsmannen begynte frukta, sedan han fick veta att han var en Romare, och att han hade bundit honom.
 
-**[22:30]** Dagen derefter ville han veta förvisso, för hvad sak han var beklagad af Judomen; och löste honom utu banden, och lät öfversta Presterna komma tillhopa, och hela Rådet, och lät Paulum komma fram för dem.  
+**[22:30]** Dagen derefter ville han veta förvisso, för hvad sak han var beklagad af Judomen; och löste honom utu banden, och lät öfversta Presterna komma tillhopa, och hela Rådet, och lät Paulum komma fram för dem.
 
 ### Chapter 23
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** Då landshöfdingen hade läsit brefvet, och frågat honom, af hvad land han var, och hade förstått, att han var af Cilicien, sade han:
 
-**[23:35]** Jag vill höra dig, när dine åklagare komma ock tillstädes; och lät förvara honom uti Herodis Rådhus.  
+**[23:35]** Jag vill höra dig, när dine åklagare komma ock tillstädes; och lät förvara honom uti Herodis Rådhus.
 
 ### Chapter 24
 
@@ -57764,7 +57764,7 @@
 
 **[24:26]** Men han förhoppades också, att han skulle få penningar af Paulo, på det han skulle gifva honom lös, för hvilka saks skull han ock ofta kallade honom till sig, och talade med honom.
 
-**[24:27]** Då nu tu år voro förlupna, kom Porcius Festus i Felix stad; men Felix ville göra Judomen till vilja, och lät Paulum blifva efter sig fången.  
+**[24:27]** Då nu tu år voro förlupna, kom Porcius Festus i Felix stad; men Felix ville göra Judomen till vilja, och lät Paulum blifva efter sig fången.
 
 ### Chapter 25
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** Men efter han sköt sig till Kejsaren, så aktar jag ock sända honom. Men hvad jag skall skrifva herranom om honom, det visst är, hafver jag icke; hvarföre hafver jag nu honom här fram för eder, och mest för dig, Konung Agrippa, att när derom ransakadt är, må jag hafva hvad jag skrifva skall.
 
-**[25:27]** Ty mig synes orätt vara att sända någon fången, och icke dermed gifva saken tillkänna, för hvilka han anklagad är.  
+**[25:27]** Ty mig synes orätt vara att sända någon fången, och icke dermed gifva saken tillkänna, för hvilka han anklagad är.
 
 ### Chapter 26
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** Och vid de gingo afsides, talade de emellan sig, sägande: Denne mannen hafver intet gjort, det döden eller band värdt är.
 
-**[26:32]** Och sade Agrippa till Festum: Denne mannen måtte väl vordit lösgifven, hade han icke skjutit sig till Kejsaren.  
+**[26:32]** Och sade Agrippa till Festum: Denne mannen måtte väl vordit lösgifven, hade han icke skjutit sig till Kejsaren.
 
 ### Chapter 27
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** Men höfvitsmannen ville förvara Paulum, och stillte dem ifrå det rådet, och bad att de, som simma kunde, skulle gifva sig först ut åt landet;
 
-**[27:44]** Och de andre, somlige på bräder, och somlige på skeppsvraket. Och dermed skedde, att de undsluppo alle behållne i land.  
+**[27:44]** Och de andre, somlige på bräder, och somlige på skeppsvraket. Och dermed skedde, att de undsluppo alle behållne i land.
 
 ### Chapter 28
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Men Paulus blef i hela tu år uti det hus han lejt hade, och undfick alla de som ingingo till honom;
 
-**[28:31]** Predikandes Guds rike, och lärde om Herran Jesu, med all tröst; och ingen förböd honom det.   
+**[28:31]** Predikandes Guds rike, och lärde om Herran Jesu, med all tröst; och ingen förböd honom det.
 
 ## Romans
 
@@ -58108,7 +58108,7 @@
 
 **[1:31]** Oförnuftige, ordlöse, okärlige, trolöse, obarmhertige;
 
-**[1:32]** Hvilke, ändå de Guds rättviso veta, att de som sådant göra äro värde döden, likväl göra de det icke allenast, utan ock hålla med dem som det göra.  
+**[1:32]** Hvilke, ändå de Guds rättviso veta, att de som sådant göra äro värde döden, likväl göra de det icke allenast, utan ock hålla med dem som det göra.
 
 ### Chapter 2
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** Ty det är icke Jude, som utvärtes är Jude; ej heller det omskärelse, som utvärtes sker på köttet;
 
-**[2:29]** Utan det är Jude, som invärtes dolder är; och hjertans omskärelse är omskärelse, den som sker i andanom, och icke efter bokstafven; hvilkens pris icke är af menniskom, utan af Gudi.  
+**[2:29]** Utan det är Jude, som invärtes dolder är; och hjertans omskärelse är omskärelse, den som sker i andanom, och icke efter bokstafven; hvilkens pris icke är af menniskom, utan af Gudi.
 
 ### Chapter 3
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** Efter det en Gud är, som gör omskärelsen rättfärdig af trone, och förhudena genom trona.
 
-**[3:31]** Göre vi då lagen om intet med trone? Bort det; utan vi upprättom lagen.  
+**[3:31]** Göre vi då lagen om intet med trone? Bort det; utan vi upprättom lagen.
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** Utan ock för våra skull, som det också tillräknadt varder, när vi trom på honom, som vår Herra Jesum uppväckte ifrå de döda;
 
-**[4:25]** Hvilken för våra synders skull är utgifven, och för våra rättfärdighets skull uppväckt.  
+**[4:25]** Hvilken för våra synders skull är utgifven, och för våra rättfärdighets skull uppväckt.
 
 ### Chapter 5
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** Men lagen är också härmed inkommen, att synden skulle öfverflöda; men der synden öfverflödde, der öfverflödde då nåden mycket mer;
 
-**[5:21]** På det att, såsom synden hafver väldig varit till döden, så skulle ock nåden väldig vara genom rättfärdighetena till evinnerligit lif, genom Jesum Christum.  
+**[5:21]** På det att, såsom synden hafver väldig varit till döden, så skulle ock nåden väldig vara genom rättfärdighetena till evinnerligit lif, genom Jesum Christum.
 
 ### Chapter 6
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** Men nu, medan I ären frie vordne ifrå syndene, och vordne Guds tjenare, hafven I edor frukt, att I helige varden; och till ändalykt, evinnerligit lif.
 
-**[6:23]** Ty syndenes lön är döden; men Guds gåfva är det eviga lifvet, genom Christum Jesum, vår Herra.  
+**[6:23]** Ty syndenes lön är döden; men Guds gåfva är det eviga lifvet, genom Christum Jesum, vår Herra.
 
 ### Chapter 7
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** Jag arme menniska, ho skall lösa mig ifrå denna dödsens kropp?
 
-**[7:25]** Gudi tackar jag, genom Jesum Christum, vår Herra. Så tjenar jag nu Guds lag med hågen; men med köttet tjenar jag syndenes lag.  
+**[7:25]** Gudi tackar jag, genom Jesum Christum, vår Herra. Så tjenar jag nu Guds lag med hågen; men med köttet tjenar jag syndenes lag.
 
 ### Chapter 8
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** Ty jag är viss derpå, att hvarken död, eller lif, eller Änglar, eller Förstadöme, eller väldigheter, eller de ting som nu äro, eller de ting som tillkomma skola;
 
-**[8:39]** Eller höghet, eller djuphet, eller något annat kreatur, skall skilja oss ifrå Guds kärlek, som är i Christo Jesu, vårom Herra.  
+**[8:39]** Eller höghet, eller djuphet, eller något annat kreatur, skall skilja oss ifrå Guds kärlek, som är i Christo Jesu, vårom Herra.
 
 ### Chapter 9
 
@@ -58576,7 +58576,7 @@
 
 **[9:32]** Hvarföre? Derföre att de icke sökte det af trone, utan såsom af lagsens gerningar; ty de stötte sig på förtörnelsestenen;
 
-**[9:33]** Såsom skrifvet är: Si, jag lägger i Zion en förtörnelsesten, och ena förargelseklippo: och hvar och en som tror på honom, skall icke komma på skam.  
+**[9:33]** Såsom skrifvet är: Si, jag lägger i Zion en förtörnelsesten, och ena förargelseklippo: och hvar och en som tror på honom, skall icke komma på skam.
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** Dristar ock Esaias sig till, och säger: Jag är funnen af dem, som intet sökte mig, och är vorden uppenbar dem, som intet sporde efter mig.
 
-**[10:21]** Men till Israel säger han: Hela dagen hafver jag uträckt mina händer till det otrogna och genstörtiga folket.  
+**[10:21]** Men till Israel säger han: Hela dagen hafver jag uträckt mina händer till det otrogna och genstörtiga folket.
 
 ### Chapter 11
 
@@ -58694,7 +58694,7 @@
 
 **[11:35]** Eller ho hafver gifvit honom något tillförene, det honom skall betaladt varda?
 
-**[11:36]** Ty af honom, och igenom honom, och i honom äro all ting; honom vare ära i evighet. Amen.  
+**[11:36]** Ty af honom, och igenom honom, och i honom äro all ting; honom vare ära i evighet. Amen.
 
 ### Chapter 12
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** Om nu din ovän hungrar, så gif honom mat; törster han, så gif honom dricka; när du det gör, så församlar du glödande kol på hans hufvud.
 
-**[12:21]** Låt dig icke öfvervunnen varda af det onda; utan öfvervinn det onda med det goda.  
+**[12:21]** Låt dig icke öfvervunnen varda af det onda; utan öfvervinn det onda med det goda.
 
 ### Chapter 13
 
@@ -58768,7 +58768,7 @@
 
 **[13:13]** Låter oss ärliga vandra, såsom om dagen; icke i fråsseri och dryckenskap; icke i kamrar och okyskhet; icke i kif och nit;
 
-**[13:14]** Utan ikläder eder Herran Jesum Christum; och fordrer köttet, dock icke till kättja.  
+**[13:14]** Utan ikläder eder Herran Jesum Christum; och fordrer köttet, dock icke till kättja.
 
 ### Chapter 14
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Hafver du tron, så haf henne när dig sjelf för Gudi. Salig är den som sig intet samvet gör, om det han bepröfvar.
 
-**[14:23]** Men den som tvifvelaktig är, äter han, så är han fördömd; ty han äter icke af tron; ty allt det icke går af trone, det är synd.  
+**[14:23]** Men den som tvifvelaktig är, äter han, så är han fördömd; ty han äter icke af tron; ty allt det icke går af trone, det är synd.
 
 ### Chapter 15
 
@@ -58884,7 +58884,7 @@
 
 **[15:32]** Att jag må med glädje komma till eder, genom Guds vilja, och vederqvicka mig med eder.
 
-**[15:33]** Men fridsens Gud vare med eder allom. Amen.  
+**[15:33]** Men fridsens Gud vare med eder allom. Amen.
 
 ### Chapter 16
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** Men nu uppenbarad och kungjord, igenom Propheternas skrifter, af eviga Guds befallning; på det tron skall få lydaktighet ibland alla Hedningar;
 
-**[16:27]** Gudi, som är allena vis, vare pris och ära, genom Jesum Christum, i evighet. Amen.  Till de Romare, sänd ifrå Corintho, med Phebe, som i församlingenes tjenst var i Kenchrea.  
+**[16:27]** Gudi, som är allena vis, vare pris och ära, genom Jesum Christum, i evighet. Amen. Till de Romare, sänd ifrå Corintho, med Phebe, som i församlingenes tjenst var i Kenchrea.
 
 ## I Corinthians
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** Af hvilkom I ock ären i Christo Jesu, den oss af Gudi är gjord till visdom, och till rättfärdighet, och till helgelse, och till förlossning;
 
-**[1:31]** På det, som skrifvet står: Den som berömmer sig, han berömme sig i Herranom.  
+**[1:31]** På det, som skrifvet står: Den som berömmer sig, han berömme sig i Herranom.
 
 ### Chapter 2
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** Men den andelige dömer all ting, och varder af ingom dömd.
 
-**[2:16]** Ty ho hafver känt Herrans sinne? Eller ho vill undervisa honom? Men vi hafve Christi sinne.  
+**[2:16]** Ty ho hafver känt Herrans sinne? Eller ho vill undervisa honom? Men vi hafve Christi sinne.
 
 ### Chapter 3
 
@@ -59088,7 +59088,7 @@
 
 **[3:22]** Vare sig Paulus, eller Apollos, vare sig Cephas, eller verlden, vare sig lifvet, eller döden, vare sig det nu är, eller det komma skall; allt är det edart.
 
-**[3:23]** Men I ären Christi; och Christus är Guds.  
+**[3:23]** Men I ären Christi; och Christus är Guds.
 
 ### Chapter 4
 
@@ -59132,7 +59132,7 @@
 
 **[4:20]** Ty Guds rike står icke i ordom, utan i kraft.
 
-**[4:21]** Hvad viljen I? Skall jag komma med ris till eder, eller med kärlek och saktmodigom anda?  
+**[4:21]** Hvad viljen I? Skall jag komma med ris till eder, eller med kärlek och saktmodigom anda?
 
 ### Chapter 5
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** Ty hvad kommer mig vid döma dem, som ute äro? Dömen icke I dem, som inne äro?
 
-**[5:13]** Men dem, som ute äro, dömer Gud; drifver ock sjelfve den ut ifrån eder, som onder är.  
+**[5:13]** Men dem, som ute äro, dömer Gud; drifver ock sjelfve den ut ifrån eder, som onder är.
 
 ### Chapter 6
 
@@ -59202,7 +59202,7 @@
 
 **[6:19]** Eller veten I icke, att edar kropp är dens Helga Andas tempel, som är i eder, hvilken I hafven af Gudi; och ären icke edre egne?
 
-**[6:20]** Ty I ären dyrt köpte. Derföre priser nu Gud uti edar kropp, och i edrom anda, hvilke Gudi tillhöra.  
+**[6:20]** Ty I ären dyrt köpte. Derföre priser nu Gud uti edar kropp, och i edrom anda, hvilke Gudi tillhöra.
 
 ### Chapter 7
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** Hustrun är bunden till lagen, så länge hennes man lefver; men när hennes man är afsomnad, är hon fri att gifva sig enom androm, hvem hon vill; dock att det sker i Herranom.
 
-**[7:40]** Men saligare är hon, om hon så blifver, efter mitt sinne; jag menar, att jag ock hafver Guds Anda.  
+**[7:40]** Men saligare är hon, om hon så blifver, efter mitt sinne; jag menar, att jag ock hafver Guds Anda.
 
 ### Chapter 8
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** När I således synden på bröderna, och sargen deras svaga samvet, då synden I på Christum.
 
-**[8:13]** Derföre, om maten förargar min broder, ville jag aldrig äta kött till evig tid; på det jag icke skall vara minom broder till förargelse.  
+**[8:13]** Derföre, om maten förargar min broder, ville jag aldrig äta kött till evig tid; på det jag icke skall vara minom broder till förargelse.
 
 ### Chapter 9
 
@@ -59368,7 +59368,7 @@
 
 **[9:26]** Men jag löper icke såsom till något ovisst; så kämpar jag icke, såsom den som hugger i vädret;
 
-**[9:27]** Utan jag späker min lekamen, och underkufvar honom; på det jag icke predikar androm, och varder sjelfver straffelig.  
+**[9:27]** Utan jag späker min lekamen, och underkufvar honom; på det jag icke predikar androm, och varder sjelfver straffelig.
 
 ### Chapter 10
 
@@ -59436,7 +59436,7 @@
 
 **[10:32]** Varer sådane, att I ingen förargen, hvarken Juda, eller Grek, eller Guds församling;
 
-**[10:33]** Såsom ock jag i all ting är allom till vilja, icke sökandes min, utan mångs mans nytto, att de måga varda salige.  
+**[10:33]** Såsom ock jag i all ting är allom till vilja, icke sökandes min, utan mångs mans nytto, att de måga varda salige.
 
 ### Chapter 11
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** Derföre, mine käre bröder, när I tillhopakommen till att äta, så bide den ene den andra.
 
-**[11:34]** Men hungrar någor, han äte hemma; på det I icke tillhopakommen till fördömelse. Det andra vill jag skicka, när jag kommer.  
+**[11:34]** Men hungrar någor, han äte hemma; på det I icke tillhopakommen till fördömelse. Det andra vill jag skicka, när jag kommer.
 
 ### Chapter 12
 
@@ -59570,7 +59570,7 @@
 
 **[12:30]** Hafva de alle helbregdo gåfvor? Tala de alle mång tungomål? Kunna de alle uttyda?
 
-**[12:31]** Men farer efter de yppersta gåfvorna; och jag vill ännu visa eder en kosteligare väg.  
+**[12:31]** Men farer efter de yppersta gåfvorna; och jag vill ännu visa eder en kosteligare väg.
 
 ### Chapter 13
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** Ty vi se nu genom en spegel, uti ett mörkt tal; men då ansigte emot ansigte. Nu känner jag endels; men då skall jag kännat, såsom jag ock känd är.
 
-**[13:13]** Men nu blifver tron, hoppet, kärleken, dessa tre; men störst ibland dem är kärleken.  
+**[13:13]** Men nu blifver tron, hoppet, kärleken, dessa tre; men störst ibland dem är kärleken.
 
 ### Chapter 14
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** Derföre, käre bröder, lägger eder vinn om att I propheteren, och förmener icke att tala med tungomål.
 
-**[14:40]** Låter all ting ärliga och skickeliga tillgå.  
+**[14:40]** Låter all ting ärliga och skickeliga tillgå.
 
 ### Chapter 15
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** Men Gudi vare tack, som oss segren gifvit hafver, genom vår Herra Jesum Christum.
 
-**[15:58]** Derföre, mine käre bröder, varer faste, ovikelige, och rike uti Herrans verk alltid; efter det I veten, att edart arbete är icke fåfängt i Herranom.  
+**[15:58]** Derföre, mine käre bröder, varer faste, ovikelige, och rike uti Herrans verk alltid; efter det I veten, att edart arbete är icke fåfängt i Herranom.
 
 ### Chapter 16
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Herrans Jesu Christi nåd vare med eder.
 
-**[16:24]** Min kärlek vare med eder alla i Christo Jesu: Amen.  Den förra Epistel till de Corinthier, sänd af Philippis genom Stephanas, och Fortunatus, och Achaicus, och Timotheus.  
+**[16:24]** Min kärlek vare med eder alla i Christo Jesu: Amen. Den förra Epistel till de Corinthier, sänd af Philippis genom Stephanas, och Fortunatus, och Achaicus, och Timotheus.
 
 ## II Corinthians
 
@@ -59900,7 +59900,7 @@
 
 **[1:23]** Jag kallar Gud till vittne på min själ, det jag icke ännu kom till Corinthum, det är skedt fördenskull att jag skonade eder.
 
-**[1:24]** Icke att vi äro herrar öfver eder på trones vägna; utan vi äre hjelpare till edor glädje; ty I stån i trone.  
+**[1:24]** Icke att vi äro herrar öfver eder på trones vägna; utan vi äre hjelpare till edor glädje; ty I stån i trone.
 
 ### Chapter 2
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** Dessom en döds lukt till döden; men dem androm lifsens lukt till lifs. Ho är nu här dogse till?
 
-**[2:17]** Ty vi äre icke såsom månge, de der förfalska Guds ord; utan af renhet, och såsom af Gudi, tale vi för Gud i Christo.  
+**[2:17]** Ty vi äre icke såsom månge, de der förfalska Guds ord; utan af renhet, och såsom af Gudi, tale vi för Gud i Christo.
 
 ### Chapter 3
 
@@ -59974,7 +59974,7 @@
 
 **[3:17]** Ty Herren är en Ande; der nu Herrans Ande är, der är frihet.
 
-**[3:18]** Men nu skåde vi alle, såsom uti en spegel, Herrans klarhet med upptäckt ansigte; och vi varde förklarade uti samma beläte, ifrå den ena klarhetene till den andra, såsom af Herrans Anda.  
+**[3:18]** Men nu skåde vi alle, såsom uti en spegel, Herrans klarhet med upptäckt ansigte; och vi varde förklarade uti samma beläte, ifrå den ena klarhetene till den andra, såsom af Herrans Anda.
 
 ### Chapter 4
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** Ty vår bedröfvelse, den dock timmelig och lätt är, föder i oss en evig och öfver alla måtto vigtig härlighet;
 
-**[4:18]** Vi som icke se efter de ting, som synas, utan de som icke synas; ty de ting, som synas, äro timmelig; men de, som icke synas, äro evig.  
+**[4:18]** Vi som icke se efter de ting, som synas, utan de som icke synas; ty de ting, som synas, äro timmelig; men de, som icke synas, äro evig.
 
 ### Chapter 5
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** Så äre vi nu sändningabåd i Christi stad; ty Gud förmanar genom oss. Så bedje vi nu i Christi stad: Låter försona eder med Gud.
 
-**[5:21]** Ty den der af ingen synd visste, honom hafver han för oss gjort till synd; på det vi skulle varda Guds rättfärdighet genom honom.  
+**[5:21]** Ty den der af ingen synd visste, honom hafver han för oss gjort till synd; på det vi skulle varda Guds rättfärdighet genom honom.
 
 ### Chapter 6
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** Derföre går ut ifrå dem, och skiljens ifrå dem, säger Herren, och kommer intet vid det orent är; och så skall jag undfå eder;
 
-**[6:18]** Och vara edar Fader, och I skolen vara mine söner och döttrar, säger allsvåldige Herren.  
+**[6:18]** Och vara edar Fader, och I skolen vara mine söner och döttrar, säger allsvåldige Herren.
 
 ### Chapter 7
 
@@ -60128,7 +60128,7 @@
 
 **[7:15]** Och hans hjerta är öfvermåtton väl till sinnes om eder, då han tänker på allas edra lydno, huruledes I undfingen honom med räddhåga och bäfvan.
 
-**[7:16]** Jag fröjdar mig, att jag allt godt må förse mig till eder.  
+**[7:16]** Jag fröjdar mig, att jag allt godt må förse mig till eder.
 
 ### Chapter 8
 
@@ -60178,7 +60178,7 @@
 
 **[8:23]** Ehvad det är för Titi skull, hvilken min stallbroder och medhjelpare är när eder, eller för våra bröders skull, som äro församlingarnas Apostlar, och Christi ära.
 
-**[8:24]** Låter nu skina någon bevisning till edar kärlek, och vår berömmelse af eder, på dem; ja ock uppenbarliga för församlingarna.  
+**[8:24]** Låter nu skina någon bevisning till edar kärlek, och vår berömmelse af eder, på dem; ja ock uppenbarliga för församlingarna.
 
 ### Chapter 9
 
@@ -60210,7 +60210,7 @@
 
 **[9:14]** Och desslikes i deras böner för eder; hvilka ock längta efter eder, för den öfversvinnande Guds nåd som är i eder.
 
-**[9:15]** Men Gudi vare tack för sina osägeliga gåfvo.  
+**[9:15]** Men Gudi vare tack för sina osägeliga gåfvo.
 
 ### Chapter 10
 
@@ -60248,7 +60248,7 @@
 
 **[10:17]** Men den sig berömmer, han berömme sig i Herranom.
 
-**[10:18]** Ty den som lofvar sig sjelf, han är icke bepröfvad; utan den Herren lofvar.  
+**[10:18]** Ty den som lofvar sig sjelf, han är icke bepröfvad; utan den Herren lofvar.
 
 ### Chapter 11
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** Landshöfdingen uti Damasco, på Konung Arete vägna, förvarade de Damasceners stad, och ville gripit mig;
 
-**[11:33]** Och jag vardt i en korg genom ett fenster, öfver muren, nedersläppt, och undslapp hans händer.  
+**[11:33]** Och jag vardt i en korg genom ett fenster, öfver muren, nedersläppt, och undslapp hans händer.
 
 ### Chapter 12
 
@@ -60360,7 +60360,7 @@
 
 **[12:20]** Ty jag fruktar att, då jag kommer, må ske att jag finner eder icke såsom jag vill, och I finnen icke mig som I viljen; att der är i någon måtto trätor, nit, vrede, kif, förtal, örnatasslan, uppblåsning, uppror;
 
-**[12:21]** Att jag återkommer, och min Gud betrycker mig när eder; och måste sörja öfver många, som tillförene syndat hafva, och icke hafva gjort bot för deras orenlighet, sköraktighet och otukt, som de bedrifvit hafva.  
+**[12:21]** Att jag återkommer, och min Gud betrycker mig när eder; och måste sörja öfver många, som tillförene syndat hafva, och icke hafva gjort bot för deras orenlighet, sköraktighet och otukt, som de bedrifvit hafva.
 
 ### Chapter 13
 
@@ -60388,7 +60388,7 @@
 
 **[13:12]** Helser eder inbördes med en helig kyss; helsa eder all helgon.
 
-**[13:13]** Vårs Herras Jesu Christi nåd, och Guds kärlek, och den Helga Andas delaktighet vare med eder allom. Amen.  Den andra Epistel till de Corinthier, sänd af Philippis i Macedonien, med Tito och Luca.  
+**[13:13]** Vårs Herras Jesu Christi nåd, och Guds kärlek, och den Helga Andas delaktighet vare med eder allom. Amen. Den andra Epistel till de Corinthier, sänd af Philippis i Macedonien, med Tito och Luca.
 
 **[13:14]** 
 
@@ -60442,7 +60442,7 @@
 
 **[1:23]** Utan de hade allenast hört, att den som fordom förföljde oss, han predikar nu trona, som han fordom förstörde.
 
-**[1:24]** Och de prisade Gud för mina skull.  
+**[1:24]** Och de prisade Gud för mina skull.
 
 ### Chapter 2
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** Men jag lefver, dock icke nu jag, utan Christus lefver i mig; ty det jag nu lefver i köttet, det lefver jag i Guds Sons tro, den mig älskat hafver, och gifvit sig sjelf ut för mig.
 
-**[2:21]** Jag bortkastar icke Guds nåd; ty om rättfärdigheten kommer af lagen, så är Christus fåfängt död.  
+**[2:21]** Jag bortkastar icke Guds nåd; ty om rättfärdigheten kommer af lagen, så är Christus fåfängt död.
 
 ### Chapter 3
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** Här är icke Jude eller Grek; här är icke tjenare eller fri; här är icke man eller qvinna; alle ären I en i Christo Jesu.
 
-**[3:29]** Ären I nu Christi, så ären I ju Abrahams säd, och arfvingar efter löftet.  
+**[3:29]** Ären I nu Christi, så ären I ju Abrahams säd, och arfvingar efter löftet.
 
 ### Chapter 4
 
@@ -60610,7 +60610,7 @@
 
 **[4:30]** Men hvad säger Skriften? Drif ut tjensteqvinnona med hennes son; ty tjensteqvinnones son skall icke blifva arfvinge med dens frios son.
 
-**[4:31]** Så äro vi nu, käre bröder, icke tjensteqvinnones söner, utan dens frios.  
+**[4:31]** Så äro vi nu, käre bröder, icke tjensteqvinnones söner, utan dens frios.
 
 ### Chapter 5
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** Om vi nu lefve i Andanom, så låter oss ock vandra i Andanom.
 
-**[5:26]** Låter oss icke begära fåfänglig pris, till att förtörna och hata hvarannan inbördes.  
+**[5:26]** Låter oss icke begära fåfänglig pris, till att förtörna och hata hvarannan inbördes.
 
 ### Chapter 6
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Ingen göre mig mer bekymmer; ty jag drager på min kropp vårs Herras Jesu tecken.
 
-**[6:18]** Vårs Herras Jesu Christi nåd vare med edrom anda, käre bröder. Amen.  Till de Galater, sänd af Rom.  
+**[6:18]** Vårs Herras Jesu Christi nåd vare med edrom anda, käre bröder. Amen. Till de Galater, sänd af Rom.
 
 ## Ephesians
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** Och hafver all ting lagt under hans fötter, och hafver satt honom församlingene till ett hufvud öfver all ting;
 
-**[1:23]** Hvilken är hans kropp, och hans uppfyllelse, som allt i allom uppfyller.  
+**[1:23]** Hvilken är hans kropp, och hans uppfyllelse, som allt i allom uppfyller.
 
 ### Chapter 2
 
@@ -60798,7 +60798,7 @@
 
 **[2:21]** På hvilken hela byggningen tillhopafogad växer till ett heligt tempel i Herranom.
 
-**[2:22]** På hvilken ock I med uppbyggde varden, Gudi till ett hemman, genom Andan.  
+**[2:22]** På hvilken ock I med uppbyggde varden, Gudi till ett hemman, genom Andan.
 
 ### Chapter 3
 
@@ -60842,7 +60842,7 @@
 
 **[3:20]** Men honom, som rikeliga förmår göra, öfver allt det vi bedjom, eller tänkom, efter den kraft som verkar i oss;
 
-**[3:21]** Honom vare ära i församlingen, genom Christum Jesum, i allan tid, ifrån evighet till evighet. Amen.  
+**[3:21]** Honom vare ära i församlingen, genom Christum Jesum, i allan tid, ifrån evighet till evighet. Amen.
 
 ### Chapter 4
 
@@ -60908,7 +60908,7 @@
 
 **[4:31]** All bitterhet och grymhet, och vrede, och rop, och hädelse vare långt ifrån eder, samt med alla ondsko.
 
-**[4:32]** Men varer inbördes till hvarannan vänlige, godhjertige; och förlåter den ene dem andra, såsom ock Gud genom Christum hafver förlåtit eder.  
+**[4:32]** Men varer inbördes till hvarannan vänlige, godhjertige; och förlåter den ene dem andra, såsom ock Gud genom Christum hafver förlåtit eder.
 
 ### Chapter 5
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** Denna hemlighet är stor; men jag talar om Christo och församlingen.
 
-**[5:33]** Dock ock I, hvar i sin stad, älske sina hustru, såsom sig sjelf; men hustrun hafve mannen i vördning.  
+**[5:33]** Dock ock I, hvar i sin stad, älske sina hustru, såsom sig sjelf; men hustrun hafve mannen i vördning.
 
 ### Chapter 6
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Frid vare bröderna, och kärlek med trone, af Gud Fader och Herranom Jesu Christo.
 
-**[6:24]** Nåd vare med allom, som vår Herra Jesum Christum rättsinneliga kär hafva. Amen.  Sänd af Rom till de Epheser, med Tychico.  
+**[6:24]** Nåd vare med allom, som vår Herra Jesum Christum rättsinneliga kär hafva. Amen. Sänd af Rom till de Epheser, med Tychico.
 
 ## Philippians
 
@@ -61090,7 +61090,7 @@
 
 **[1:29]** Ty eder är gifvet för Christo, icke allenast att I tron på honom, utan jemväl liden för hans skull;
 
-**[1:30]** Hafvande samma stridena, som I sågen i mig, och I nu hören om mig.  
+**[1:30]** Hafvande samma stridena, som I sågen i mig, och I nu hören om mig.
 
 ### Chapter 2
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** Så undfår nu honom i Herranom med alla glädje; och de sådane äro, dem hafver i vördning;
 
-**[2:30]** Ty för Christi verks skull var han dödenom så när kommen, att han fögo tänkte på lifvet; på det han skulle tjena mig i edar stad.  
+**[2:30]** Ty för Christi verks skull var han dödenom så när kommen, att han fögo tänkte på lifvet; på det han skulle tjena mig i edar stad.
 
 ### Chapter 3
 
@@ -61196,7 +61196,7 @@
 
 **[3:20]** Men vår umgängelse är i himmelen, dädan vi ock vänte Frälsaren, Herran Jesum Christum;
 
-**[3:21]** Hvilken vår skröpliga lekamen skall förklara; på det han skall göra honom lik med sinom förklarada lekamen, af den kraft der han med förmår sig all ting underlägga.  
+**[3:21]** Hvilken vår skröpliga lekamen skall förklara; på det han skall göra honom lik med sinom förklarada lekamen, af den kraft der han med förmår sig all ting underlägga.
 
 ### Chapter 4
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Eder helsa all helgon, enkannerliga de, som äro utaf Kejsarens hus.
 
-**[4:23]** Vårs Herras Jesu Christi nåd vare med eder allom. Amen.  Skrifven af Rom, med Epaphrodito.  
+**[4:23]** Vårs Herras Jesu Christi nåd vare med eder allom. Amen. Skrifven af Rom, med Epaphrodito.
 
 ## Colossians
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** Den vi förkunnom, förmanande hvar menniska i all visdom; på det vi skole ställa hvar menniska fullbordada i Christo Jesu;
 
-**[1:29]** Der jag ock på arbetar och kämpar, efter hans verkan som krafteliga verkar i mig.  
+**[1:29]** Der jag ock på arbetar och kämpar, efter hans verkan som krafteliga verkar i mig.
 
 ### Chapter 2
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** Hvilket dock allt förgås i brukningene, och är efter menniskors bud och lärdom;
 
-**[2:23]** Hvilke hafva väl ett sken af visdom, genom sjelftagen andelighet och ödmjukhet, och derigenom att de icke skona kroppen, och göra icke köttena dess äro till dess nödtorft.  
+**[2:23]** Hvilke hafva väl ett sken af visdom, genom sjelftagen andelighet och ödmjukhet, och derigenom att de icke skona kroppen, och göra icke köttena dess äro till dess nödtorft.
 
 ### Chapter 3
 
@@ -61406,7 +61406,7 @@
 
 **[3:24]** Och veter, att I af Herranom skolen få arfsens lön; ty I tjenen Herranom Christo.
 
-**[3:25]** Men den som orätt gör, han skall undfå hvad han orätt gjort hafver; och varder intet anseende till personen.  
+**[3:25]** Men den som orätt gör, han skall undfå hvad han orätt gjort hafver; och varder intet anseende till personen.
 
 ### Chapter 4
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Och säger Archippo: Se på ämbetet som du fått hafver i Herranom, att du det uträttar.
 
-**[4:18]** Mina helsning med mine Pauli hand. Tänker på mina bojor. Nåd vare med eder. Amen.  Skrifven af Rom, med Tychico och Onesimo.  
+**[4:18]** Mina helsning med mine Pauli hand. Tänker på mina bojor. Nåd vare med eder. Amen. Skrifven af Rom, med Tychico och Onesimo.
 
 ## I Thessalonians
 
@@ -61468,7 +61468,7 @@
 
 **[1:9]** Ty de sjelfve förkunna om eder, hurudana ingång vi hadom till eder; och huru I omvände vorden till Gud ifrån afgudarna, till att tjena den lefvande och sanna Gud;
 
-**[1:10]** Och till att vänta hans Son af himmelen, hvilken han uppväckt hafver ifrå de döda, Jesum, den oss frälsar ifrå den tillkommande vrede.  
+**[1:10]** Och till att vänta hans Son af himmelen, hvilken han uppväckt hafver ifrå de döda, Jesum, den oss frälsar ifrå den tillkommande vrede.
 
 ### Chapter 2
 
@@ -61510,7 +61510,7 @@
 
 **[2:19]** Ty hvad är vårt hopp, eller fröjd, eller kronan till vår berömmelse? Ären ock icke I det, för vårom Herra Jesu Christo i hans tillkommelse?
 
-**[2:20]** I ären ju vår pris och fröjd.  
+**[2:20]** I ären ju vår pris och fröjd.
 
 ### Chapter 3
 
@@ -61538,7 +61538,7 @@
 
 **[3:12]** Men Herren föröke eder, och låte kärleken öfverflöda inbördes och till hvar man; såsom ock vi äre till eder:
 
-**[3:13]** Att edor hjerta måga styrkt och ostraffelig blifva, i helighet, för Gudi och vårom Fader, uti vårs Herras Jesu Christi tillkommelse, med all hans helgon.  
+**[3:13]** Att edor hjerta måga styrkt och ostraffelig blifva, i helighet, för Gudi och vårom Fader, uti vårs Herras Jesu Christi tillkommelse, med all hans helgon.
 
 ### Chapter 4
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** Derefter vi som lefve och igenblifve, vardom tillika med dem borttagne i skyn emot Herran i vädret; och så skole vi blifva när Herranom alltid.
 
-**[4:18]** Så tröster eder nu med dessa orden inbördes.  
+**[4:18]** Så tröster eder nu med dessa orden inbördes.
 
 ### Chapter 5
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Jag besvär eder vid Herran, att I denna Epistelen läsa låten för alla heliga bröderna.
 
-**[5:28]** Vårs Herras Jesu Christi nåd vare med eder. Amen.  Till de Thessalonicer den förra, skrifven af Athen.  
+**[5:28]** Vårs Herras Jesu Christi nåd vare med eder. Amen. Till de Thessalonicer den förra, skrifven af Athen.
 
 ## II Thessalonians
 
@@ -61662,7 +61662,7 @@
 
 **[1:11]** Och fördenskull bedje vi ock alltid för eder, att vår Gud ville göra eder värdiga till denna kallelsen, och uppfylla allt godhetenes uppsåt, och trones verk i kraftene;
 
-**[1:12]** På det vårs Herras Jesu Christi Namn må prisadt varda på eder, och I på honom, efter vår Guds och Herrans Jesu Christi nåd.  
+**[1:12]** På det vårs Herras Jesu Christi Namn må prisadt varda på eder, och I på honom, efter vår Guds och Herrans Jesu Christi nåd.
 
 ### Chapter 2
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** Men sjelfver vår Herre, Jesus Christus, och Gud och vår Fader, den oss älskat hafver, och gifvit en evig tröst, och ett godt hopp genom nådena;
 
-**[2:17]** Han hugsvale edor hjerta, och styrke eder uti all lärdom, och goda gerningar.  
+**[2:17]** Han hugsvale edor hjerta, och styrke eder uti all lärdom, och goda gerningar.
 
 ### Chapter 3
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Helsning med mine Pauli hand, hvilket är tecknet i all bref. Så skrifver jag:
 
-**[3:18]** Vårs Herras Jesu Christi nåd vare med eder allom. Amen.  Sänd af Athen.  
+**[3:18]** Vårs Herras Jesu Christi nåd vare med eder allom. Amen. Sänd af Athen.
 
 ## I Timothy
 
@@ -61780,7 +61780,7 @@
 
 **[1:19]** Hafvandes trona, och godt samvet; hvilket somlige hafva bortdrifvit, och äro skeppsbrutne vordne i trone;
 
-**[1:20]** Af hvilkom är Hymeneus, och Alexander, hvilka jag Satane antvardat hafver; på det de skulle lära icke mer försmäda.  
+**[1:20]** Af hvilkom är Hymeneus, och Alexander, hvilka jag Satane antvardat hafver; på det de skulle lära icke mer försmäda.
 
 ### Chapter 2
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** Och Adam vardt icke bedragen; utan qvinnan vardt bedragen, och kom öfverträdelsen åstad.
 
-**[2:15]** Men hon varder likväl salig, genom barnsbörden, om hon blifver i trone, och kärlekenom, och i helgelse, med kyskhet.  
+**[2:15]** Men hon varder likväl salig, genom barnsbörden, om hon blifver i trone, och kärlekenom, och i helgelse, med kyskhet.
 
 ### Chapter 3
 
@@ -61846,7 +61846,7 @@
 
 **[3:15]** Och om så hände att jag förtöfvar, att du må veta huruledes du umgå skall uti Guds hus, som är lefvandes Guds församling, en pelare, och sanningenes grundval.
 
-**[3:16]** Och utan tvifvel är Gudaktighetenes hemlighet stor: Gud är uppenbar vorden i köttet, rättfärdigad i Andanom, synt Änglomen, predikad Hedningomen, trodd i verldene, upptagen i härligheten.  
+**[3:16]** Och utan tvifvel är Gudaktighetenes hemlighet stor: Gud är uppenbar vorden i köttet, rättfärdigad i Andanom, synt Änglomen, predikad Hedningomen, trodd i verldene, upptagen i härligheten.
 
 ### Chapter 4
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** Detta akta; blif deruti; på det din förbättring må hvarjom manne uppenbar varda.
 
-**[4:16]** Haf akt på dig sjelfvan, och på lärdomen; blif i dessa stycker; ty om du så gör, frälsar du dig sjelfvan, och dem som dig höra.  
+**[4:16]** Haf akt på dig sjelfvan, och på lärdomen; blif i dessa stycker; ty om du så gör, frälsar du dig sjelfvan, och dem som dig höra.
 
 ### Chapter 5
 
@@ -61932,7 +61932,7 @@
 
 **[5:24]** Somliga menniskors synder äro uppenbara, att man dem tillförene döma kan; men somliga varda sedan uppenbara.
 
-**[5:25]** Sammalunda äro ock somliga goda gerningar uppenbara; och de andra blifva ock intet fördolda.  
+**[5:25]** Sammalunda äro ock somliga goda gerningar uppenbara; och de andra blifva ock intet fördolda.
 
 ### Chapter 6
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** O Timothee, förvara det dig betrodt är; och fly oandelig och onyttig ord och trätor, som gå af falskeliga berömd konst;
 
-**[6:21]** Hvilka somlige föregifva, och fara ville om trona. Nåd vare med dig. Amen.  Sänd af Laodicea, hvilken är hufvudstaden i Phrygia Pacatiana.  
+**[6:21]** Hvilka somlige föregifva, och fara ville om trona. Nåd vare med dig. Amen. Sänd af Laodicea, hvilken är hufvudstaden i Phrygia Pacatiana.
 
 ## II Timothy
 
@@ -62016,7 +62016,7 @@
 
 **[1:17]** Utan, då han var i Rom, sökte han fliteliga efter mig, och fann mig.
 
-**[1:18]** Gifve honom Herren, att han finner barmhertighet när Herranom på den dagen; och i huru mång stycke han mig till tjenst var i Epheso, vetst du bäst.  
+**[1:18]** Gifve honom Herren, att han finner barmhertighet när Herranom på den dagen; och i huru mång stycke han mig till tjenst var i Epheso, vetst du bäst.
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** Och med saktmodighet straffa dem som emotstå; om Gud en gång vill gifva dem bättring, till att förstå sanningen;
 
-**[2:26]** Och besinna sig ifrå djefvulens snaro, af hvilkom de fångne äro efter hans vilja.  
+**[2:26]** Och besinna sig ifrå djefvulens snaro, af hvilkom de fångne äro efter hans vilja.
 
 ### Chapter 3
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** Ty all skrift af Gudi utgifven är nyttig till lärdom, till straff, till bättring, till tuktan i rättfärdighet;
 
-**[3:17]** Att en Guds menniska skall vara fullbordad, till alla goda gerningar skickelig.  
+**[3:17]** Att en Guds menniska skall vara fullbordad, till alla goda gerningar skickelig.
 
 ### Chapter 4
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Vinnlägg dig, att du kommer för vintren. Dig helsar Eubulus, och Pudens, och Linus, och Claudia, och alle bröderna.
 
-**[4:22]** Herren Jesus Christus vare med din anda. Nåd vare med eder. Amen.  Den andra Epistelen till Timotheum, skrifven af Rom, då Paulus åter hades fram för Kejsar Neronem.  
+**[4:22]** Herren Jesus Christus vare med din anda. Nåd vare med eder. Amen. Den andra Epistelen till Timotheum, skrifven af Rom, då Paulus åter hades fram för Kejsar Neronem.
 
 ## Titus
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Dem, som rene äro, äro all ting rene; men dem orenom och otrognom är intet rent; utan både deras sinne och samvet är orent.
 
-**[1:16]** De säga sig känna Gud; men med gerningarna neka de det; efter de äro styggelige för Gud, och olydige, och till alla goda gerningar odugelige.  
+**[1:16]** De säga sig känna Gud; men med gerningarna neka de det; efter de äro styggelige för Gud, och olydige, och till alla goda gerningar odugelige.
 
 ### Chapter 2
 
@@ -62220,7 +62220,7 @@
 
 **[2:14]** Den sig sjelf gaf för oss; på det han skulle förlossa oss ifrån all orättfärdighet, och rena oss sig sjelfvom ett folk till egendom, det sig om goda gerningar beflitar.
 
-**[2:15]** Sådant tala, och förmana, och straffa med fullt allvar. Låt ingen förakta dig.  
+**[2:15]** Sådant tala, och förmana, och straffa med fullt allvar. Låt ingen förakta dig.
 
 ### Chapter 3
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** Men låt ock dem, som våre äro, lära i goda gerningar föregå der det behöfves, att de icke äro ofruktsamme.
 
-**[3:15]** Helsa dig alla, som med mig äro. Helsa dem, som oss älska i trone. Nåd vare med eder allom. Amen.  Skrifven af Nicopolis, i Macedonien.  
+**[3:15]** Helsa dig alla, som med mig äro. Helsa dem, som oss älska i trone. Nåd vare med eder allom. Amen. Skrifven af Nicopolis, i Macedonien.
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** Marcus, Aristarchus, Demas, Lucas, mine hjelpare.
 
-**[1:25]** Vårs Herras Jesu Christi nåd vare med edar anda. Amen.  Sänd af Rom, med Onesimo, tjenaren.  
+**[1:25]** Vårs Herras Jesu Christi nåd vare med edar anda. Amen. Sänd af Rom, med Onesimo, tjenaren.
 
 ## Hebrews
 
@@ -62338,7 +62338,7 @@
 
 **[1:13]** Men till hvilken af Änglarna hafver han någon tid sagt: Sätt dig på mina högra hand, tilldess jag lägger dina fiendar dig till en fotapall?
 
-**[1:14]** Äro de icke allesammans tjensteandar, utsände till tjenst för deras skull, som salighetena ärfva skola?  
+**[1:14]** Äro de icke allesammans tjensteandar, utsände till tjenst för deras skull, som salighetena ärfva skola?
 
 ### Chapter 2
 
@@ -62376,7 +62376,7 @@
 
 **[2:17]** Derföre måste han i all stycke vara bröderna lik; på det han skulle vara barmhertig, och en trogen öfverste Prest för Gudi, att försona folkens synder.
 
-**[2:18]** Ty deraf att han vardt pint och frestad, kan han hjelpa dem som frestas.  
+**[2:18]** Ty deraf att han vardt pint och frestad, kan han hjelpa dem som frestas.
 
 ### Chapter 3
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** Men hvilkom svor han då, att de icke skulle komma in i hans rolighet, utan dem otrognom?
 
-**[3:19]** Och vi sem, att de icke kunde ingå, för otrones skull.  
+**[3:19]** Och vi sem, att de icke kunde ingå, för otrones skull.
 
 ### Chapter 4
 
@@ -62450,7 +62450,7 @@
 
 **[4:15]** Ty vi hafve icke en öfversta Prest, som icke kan varkunna sig öfver vår svaghet; utan den som frestad är i all ting, lika som vi, dock utan synd.
 
-**[4:16]** Derföre låt oss trösteliga framgå till Nådastolen; att vi måge få barmhertighet, och finna nåd, på den tid oss hjelp behöfves.  
+**[4:16]** Derföre låt oss trösteliga framgå till Nådastolen; att vi måge få barmhertighet, och finna nåd, på den tid oss hjelp behöfves.
 
 ### Chapter 5
 
@@ -62480,7 +62480,7 @@
 
 **[5:13]** Ty hvem man ännu mjölk gifva måste, han är oförfaren i rättfärdighetenes ord; ty han är ett barn.
 
-**[5:14]** Men dem, som fullkomne äro, tillhörer stadig mat, de som genom vanan öfvade äro i sinnen, till att åtskilja godt och ondt.  
+**[5:14]** Men dem, som fullkomne äro, tillhörer stadig mat, de som genom vanan öfvade äro i sinnen, till att åtskilja godt och ondt.
 
 ### Chapter 6
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** Hvilket vi hålle, såsom ett säkert och fast vår själs ankare; det ock ingår intill det som innanför förlåten är;
 
-**[6:20]** Dit Förelöparen för oss ingången är, Jesus, en öfverste Prest vorden till evig tid, efter Melchisedeks sätt.  
+**[6:20]** Dit Förelöparen för oss ingången är, Jesus, en öfverste Prest vorden till evig tid, efter Melchisedeks sätt.
 
 ### Chapter 7
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** Hvilken icke dageliga behöfde, såsom de andre öfverste Prester, först för sina egna synder offra, och sedan för folkens synder; ty han gjorde det ena reso, då han sig sjelf offrade.
 
-**[7:28]** Ty lagen sätter menniskor till öfversta Prester, som svaghet hafva; men edsens ord, som efter lagen sagdt är, det sätter Sonen evig och fullkomlig.  
+**[7:28]** Ty lagen sätter menniskor till öfversta Prester, som svaghet hafva; men edsens ord, som efter lagen sagdt är, det sätter Sonen evig och fullkomlig.
 
 ### Chapter 8
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** Ty jag varder förblidkad öfver deras orättfärdigheter, och deras synder, och deras ondsko skall jag icke mer ihågkomma.
 
-**[8:13]** I det han säger: Ett nytt, föråldrade han det första; det nu åldrigt och gammalt är, det är hardt vid ändan.  
+**[8:13]** I det han säger: Ett nytt, föråldrade han det första; det nu åldrigt och gammalt är, det är hardt vid ändan.
 
 ### Chapter 9
 
@@ -62666,7 +62666,7 @@
 
 **[9:27]** Och såsom menniskomen är förelagdt en gång dö, men sedan domen;
 
-**[9:28]** Så är ock Christus ena reso offrad, till att borttaga mångs mans synder; men en annan gång skall han låta se sig, utan synd, dem som honom vänta till salighet.  
+**[9:28]** Så är ock Christus ena reso offrad, till att borttaga mångs mans synder; men en annan gång skall han låta se sig, utan synd, dem som honom vänta till salighet.
 
 ### Chapter 10
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** Men den rättfärdige skall lefva af tron; och hvilken sig undandrager, han skall icke behaga mine själ.
 
-**[10:39]** Men vi ärom icke de, som oss undandrage till förtappelse; utan af dem som tro, och frälsa själena.  
+**[10:39]** Men vi ärom icke de, som oss undandrage till förtappelse; utan af dem som tro, och frälsa själena.
 
 ### Chapter 11
 
@@ -62828,7 +62828,7 @@
 
 **[11:39]** Alle desse hafva genom trona fått vittnesbörd, och hafva dock icke fått löftet;
 
-**[11:40]** Derföre att Gud hade föresett om oss något det bättre var; att de icke utan oss skulle fullkomnade varda.  
+**[11:40]** Derföre att Gud hade föresett om oss något det bättre var; att de icke utan oss skulle fullkomnade varda.
 
 ### Chapter 12
 
@@ -62888,7 +62888,7 @@
 
 **[12:28]** Derföre, efter vi få det rike som icke bäfva kan, hafve vi nåd, genom hvilka vi tjene Gudi, till att täckas honom med tuktighet och fruktan;
 
-**[12:29]** Ty vår Gud är en förtärande eld.  
+**[12:29]** Ty vår Gud är en förtärande eld.
 
 ### Chapter 13
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Helser alla edra lärare, och all helgon. Eder helsa bröderne uti Valland.
 
-**[13:25]** Nåd vare med eder allom. Amen.  Till de Ebreer, skrifven af Valland, med Timotheo.  
+**[13:25]** Nåd vare med eder allom. Amen. Till de Ebreer, skrifven af Valland, med Timotheo.
 
 ## James
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** Hvar nu någor ibland eder låter sig tycka, att han tjenar Gudi, och icke styrer sina tungo, utan bedrager sitt hjerta, hans Gudstjenst är fåfäng.
 
-**[1:27]** Detta är för Gudi och Fadren en ren och obesmittad Gudstjenst, söka faderlös och moderlös barn, och enkor, uti deras bedröfvelse, och behålla sig obesmittad af verldene.  
+**[1:27]** Detta är för Gudi och Fadren en ren och obesmittad Gudstjenst, söka faderlös och moderlös barn, och enkor, uti deras bedröfvelse, och behålla sig obesmittad af verldene.
 
 ### Chapter 2
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Sammalunda ock den skökan Rahab, vardt hon icke af gerningom rättfärdigad, då hon undfick sändningabåden, och släppte dem en annan väg ut?
 
-**[2:26]** Derföre, såsom kroppen utan anda är död, så är ock tron utan gerningar död.  
+**[2:26]** Derföre, såsom kroppen utan anda är död, så är ock tron utan gerningar död.
 
 ### Chapter 3
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** Men den visdom, som ofvanefter är, han är först kysk, och sedan fridsam, saktmodig, låter säga sig, full med barmhertighet och goda frukter, opartisk, oskrymtelig.
 
-**[3:18]** Men rättfärdighetenes frukt varder sådd i frid, dem som frid hålla.  
+**[3:18]** Men rättfärdighetenes frukt varder sådd i frid, dem som frid hålla.
 
 ### Chapter 4
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** Men nu berömmen I eder i edart högmod. All sådana berömmelse är ond.
 
-**[4:17]** Den der kan göra godt, och gör icke, honom är det synd.  
+**[4:17]** Den der kan göra godt, och gör icke, honom är det synd.
 
 ### Chapter 5
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Käre bröder, om någor ibland eder fore vill ifrå sanningen, och någor omvände honom;
 
-**[5:20]** Han skall veta, att den der omvänder en syndare af hans vägars villo, han frälsar ena själ ifrå döden, och skyler all öfverträdelse.   
+**[5:20]** Han skall veta, att den der omvänder en syndare af hans vägars villo, han frälsar ena själ ifrå döden, och skyler all öfverträdelse.
 
 ## I Peter
 
@@ -63222,7 +63222,7 @@
 
 **[1:24]** Ty allt kött är såsom gräs, och all menniskos härlighet såsom blomster på gräset; gräset är vissnadt, och blomstret är affallet;
 
-**[1:25]** Men Herrans ord blifver evinnerliga; och det är det ord, som predikadt är ibland eder.  
+**[1:25]** Men Herrans ord blifver evinnerliga; och det är det ord, som predikadt är ibland eder.
 
 ### Chapter 2
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** Hvilken våra synder sjelf offrade i sin lekamen på träd; på det vi skulle vara döde syndene, och lefva rättfärdighetene; genom hvilkens sår I ären helbregda vordne.
 
-**[2:25]** Ty I voren såsom villfarande får; men I ären nu omvände till herdan, och edra själars Biskop.  
+**[2:25]** Ty I voren såsom villfarande får; men I ären nu omvände till herdan, och edra själars Biskop.
 
 ### Chapter 3
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** Hvilket nu ock oss saliga gör i dopet, som genom hint betydt är (icke att köttsens smittor afläggas, utan att man hafver ett godt samvet till Gud), genom Jesu Christi uppståndelse;
 
-**[3:22]** Hvilken är på Guds högra hand, uppfaren till himla; och honom äro Änglarna, och väldigheterna, och krafterna underdåniga.  
+**[3:22]** Hvilken är på Guds högra hand, uppfaren till himla; och honom äro Änglarna, och väldigheterna, och krafterna underdåniga.
 
 ### Chapter 4
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** Och blifver den rättfärdige med plats salig, hvar blifver då den ogudaktige och syndaren?
 
-**[4:19]** Derföre, de der lida efter Guds vilja, de skola befalla honom sina själar, såsom enom trofastom Skapare, med goda gerningar.  
+**[4:19]** Derföre, de der lida efter Guds vilja, de skola befalla honom sina själar, såsom enom trofastom Skapare, med goda gerningar.
 
 ### Chapter 5
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** Helsar eder den församling i Babylonien, utvald lika med eder; och min son Marcus.
 
-**[5:14]** Helser eder inbördes med kärlekens kyss. Frid vare med eder allom, som äro i Christo Jesu. Amen.   
+**[5:14]** Helser eder inbördes med kärlekens kyss. Frid vare med eder allom, som äro i Christo Jesu. Amen.
 
 ## II Peter
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** Och det skolen I först veta, att ingen Prophetia i Skriftene sker af egen utläggning.
 
-**[1:21]** Ty ingen Prophetia är ännu framkommen af menniskovilja; utan de helga Guds menniskor hafva talat, rörde af dem Helga Anda.  
+**[1:21]** Ty ingen Prophetia är ännu framkommen af menniskovilja; utan de helga Guds menniskor hafva talat, rörde af dem Helga Anda.
 
 ### Chapter 2
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** Och hade dem bättre varit intet förståndit rättfärdighetenes väg, än, sedan de förstodo, vända sig ifrå det helga budet, som de anammat hade.
 
-**[2:22]** Dem är vederfaret det som för ett sant ordspråk plägar sägas: Hunden går åter till sina spyo; och svinet, som tvaget är, sölar sig åter i träcken.  
+**[2:22]** Dem är vederfaret det som för ett sant ordspråk plägar sägas: Hunden går åter till sina spyo; och svinet, som tvaget är, sölar sig åter i träcken.
 
 ### Chapter 3
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Men I, mine käreste, medan I veten det tillförene, så förvarer eder, att I icke förförde varden genom de ogudaktigas villfarelse, samt med dem, och fallen ifrå eder egen stadighet;
 
-**[3:18]** Utan växer i nådene, och vårs Herras och Frälsares Jesu Christi kunskap. Honom vare ära, nu och till evig tid. Amen.   
+**[3:18]** Utan växer i nådene, och vårs Herras och Frälsares Jesu Christi kunskap. Honom vare ära, nu och till evig tid. Amen.
 
 ## I John
 
@@ -63544,7 +63544,7 @@
 
 **[1:9]** Men om vi bekänne våra synder, han är trofast och rättvis, att han förlåter oss synderna, och renar oss af alla orättfärdighet.
 
-**[1:10]** Men säge vi, att vi hafve intet syndat, då göre vi honom till ljugare, och hans ord är icke i oss.  
+**[1:10]** Men säge vi, att vi hafve intet syndat, då göre vi honom till ljugare, och hans ord är icke i oss.
 
 ### Chapter 2
 
@@ -63604,7 +63604,7 @@
 
 **[2:28]** Och nu, kära barn, blifver i honom; att när han uppenbarad varder, måge vi hafva förtröstning, och icke komma på skam för honom i hans tillkommelse.
 
-**[2:29]** Om I veten att han är rättfärdig, så skolen I ock det veta, att hvar och en som rätt gör, han är född af honom.  
+**[2:29]** Om I veten att han är rättfärdig, så skolen I ock det veta, att hvar och en som rätt gör, han är född af honom.
 
 ### Chapter 3
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** Och detta är hans bud, att vi skolom tro på hans Sons, Jesu Christi, Namn; och älska oss inbördes, såsom han oss budit hafver.
 
-**[3:24]** Och den der håller hans bud, han blifver i honom, och han i honom; och deraf vete vi, att han blifver i oss, af Andanom som han oss gifvit hafver.  
+**[3:24]** Och den der håller hans bud, han blifver i honom, och han i honom; och deraf vete vi, att han blifver i oss, af Andanom som han oss gifvit hafver.
 
 ### Chapter 4
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** Om någor säger: Jag älskar Gud, och hatar sin broder, han är en ljugare. Ty den der icke älskar sin broder, som han ser, huru kan han älska Gud, som han icke ser?
 
-**[4:21]** Och detta budet hafve vi af honom, att den der älskar Gud, han skall ock älska sin broder.  
+**[4:21]** Och detta budet hafve vi af honom, att den der älskar Gud, han skall ock älska sin broder.
 
 ### Chapter 5
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** Men vi vete, att Guds Son är kommen, och hafver gifvit oss sinne, att vi kännom den Sanna, och ärom i den Sanna, i hans Son Jesu Christo; denne är sanner Gud, och det eviga lifvet.
 
-**[5:21]** Kära barn, vakter eder för afgudarna. Amen.   
+**[5:21]** Kära barn, vakter eder för afgudarna. Amen.
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** Jag hafver väl mycket att skrifva eder, dock ville jag icke med papper eller bläck; utan jag hoppas att komma till eder, och muntliga tala med eder, på det vår glädje skall vara fullkommen.
 
-**[1:13]** Helsa dig dine utvalda systers barn. Amen.   
+**[1:13]** Helsa dig dine utvalda systers barn. Amen.
 
 ## III John
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** Jag hade mycket till att skrifva; men jag ville icke med bläck och penna skrifva dig till.
 
-**[1:14]** Men jag hoppas snarliga få se dig, så vilje vi muntliga tala med hvarannan. Frid vare med dig. Vännerna helsa dig. Helsa du vännerna, hvar vid sitt namn.   
+**[1:14]** Men jag hoppas snarliga få se dig, så vilje vi muntliga tala med hvarannan. Frid vare med dig. Vännerna helsa dig. Helsa du vännerna, hvar vid sitt namn.
 
 ## Jude
 
@@ -63858,7 +63858,7 @@
 
 **[1:24]** Men honom, som förmår förvara eder utan synd, och ställa eder för sitt härlighets ansigte ostraffeliga, med fröjd;
 
-**[1:25]** Allena visom Gudi, vårom Frälsare, vare ära, och majestät, och välde, och magt, nu och i alla evighet. Amen.   
+**[1:25]** Allena visom Gudi, vårom Frälsare, vare ära, och majestät, och välde, och magt, nu och i alla evighet. Amen.
 
 ## Revelation of John
 
@@ -63902,7 +63902,7 @@
 
 **[1:19]** Så skrif nu hvad du sett hafver, och hvad nu är, och hvad härefter ske skall;
 
-**[1:20]** Hemligheten af de sju stjernor, som du sett hafver i mine högra hand, och de sju gyldene ljusastakar: De sju stjernor äro de sju församlingars Änglar; och de sju ljusastakar, som du sett hafver, äro de sju församlingar.  
+**[1:20]** Hemligheten af de sju stjernor, som du sett hafver i mine högra hand, och de sju gyldene ljusastakar: De sju stjernor äro de sju församlingars Änglar; och de sju ljusastakar, som du sett hafver, äro de sju församlingar.
 
 ### Chapter 2
 
@@ -63962,7 +63962,7 @@
 
 **[2:28]** Såsom jag ock fått hafver af minom Fader, och vill gifva honom morgonstjernona.
 
-**[2:29]** Den der öra hafver, han höre hvad Anden säger församlingarna.  
+**[2:29]** Den der öra hafver, han höre hvad Anden säger församlingarna.
 
 ### Chapter 3
 
@@ -64008,7 +64008,7 @@
 
 **[3:21]** Den der vinner, honom skall jag sitta låta med mig på min stol, såsom ock jag vunnit hafver, och är sittandes vorden med minom Fader på hans stol.
 
-**[3:22]** Den der öra hafver, han höre hvad Anden säger församlingarna.  
+**[3:22]** Den der öra hafver, han höre hvad Anden säger församlingarna.
 
 ### Chapter 4
 
@@ -64032,7 +64032,7 @@
 
 **[4:10]** Föllo de fyra och tjugu äldste framför honom, som satt på stolen, och tillbådo den der lefver ifrån evighet till evighet; och kastade sina kronor för stolen, och sade:
 
-**[4:11]** Herre, du äst värdig taga pris, och äro, och kraft; ty du hafver skapat all ting, och för din viljas skull hafva de varelse, och äro skapt.  
+**[4:11]** Herre, du äst värdig taga pris, och äro, och kraft; ty du hafver skapat all ting, och för din viljas skull hafva de varelse, och äro skapt.
 
 ### Chapter 5
 
@@ -64062,7 +64062,7 @@
 
 **[5:13]** Och all kreatur, som i himmelen äro, och de på jordene, och de under jordene, och i hafvet, och allt det uti dem är, hörde jag säga till honom, som satt på stolen, och till Lambet: Lof, och ära, och pris, och kraft, ifrån evighet till evighet.
 
-**[5:14]** Och de fyra djuren sade: Amen; och de fyra och tjugu äldste föllo ned (på sin ansigte), och tillbådo honom, som lefver ifrån evighet till evighet.  
+**[5:14]** Och de fyra djuren sade: Amen; och de fyra och tjugu äldste föllo ned (på sin ansigte), och tillbådo honom, som lefver ifrån evighet till evighet.
 
 ### Chapter 6
 
@@ -64098,7 +64098,7 @@
 
 **[6:16]** Och sade till berg och klippor: Faller öfver oss, och skyler oss för hans ansigte, som sitter på stolen, och för Lambsens vrede;
 
-**[6:17]** Ty den store hans vredes dag är kommen; och ho kan bestå?  
+**[6:17]** Ty den store hans vredes dag är kommen; och ho kan bestå?
 
 ### Chapter 7
 
@@ -64134,7 +64134,7 @@
 
 **[7:16]** De skola intet mer hungra, eller törsta; icke heller skall solen falla på dem, icke heller någon hette;
 
-**[7:17]** Ty Lambet, som midt i stolen är, skall regera dem, och leda dem till lefvande vattukällor; och Gud skall aftorka alla tårar af deras ögon.  
+**[7:17]** Ty Lambet, som midt i stolen är, skall regera dem, och leda dem till lefvande vattukällor; och Gud skall aftorka alla tårar af deras ögon.
 
 ### Chapter 8
 
@@ -64162,7 +64162,7 @@
 
 **[8:12]** Och den fjerde Ängelen basunade; och tredje parten af solene vardt slagen, och tredjeparten af månan, och tredjeparten af stjernorna, så att tredjeparten af dem vardt förmörkrad, och tredjedelen af dagen intet skina kunde, och af nattene sammalunda.
 
-**[8:13]** Och jag såg, och hörde en Ängel, som flög midt igenom himmelen, och sade med höga röst: Ve, ve, ve dem som bo på jordene, för de andra röster af de tre Änglars basuner, som ännu basuna skola.  
+**[8:13]** Och jag såg, och hörde en Ängel, som flög midt igenom himmelen, och sade med höga röst: Ve, ve, ve dem som bo på jordene, för de andra röster af de tre Änglars basuner, som ännu basuna skola.
 
 ### Chapter 9
 
@@ -64206,7 +64206,7 @@
 
 **[9:20]** Och voro ännu menniskor, som icke voro dödade af dessa plågor, och icke bättrade sig af sina händers verk; att de icke tillbådo djefvulskap, och afgudar af guld, silfver, koppar, sten och trä, de der hvarken se kunna, eller höra, eller gå;
 
-**[9:21]** Och icke gjorde bot för sitt mord, trolldom, skörhet och tjufveri.  
+**[9:21]** Och icke gjorde bot för sitt mord, trolldom, skörhet och tjufveri.
 
 ### Chapter 10
 
@@ -64230,7 +64230,7 @@
 
 **[10:10]** Och jag tog bokena af Ängelens hand, och åt henne upp, och hon vardt i min mun söt som hannog; och då jag hade ätit henne, ref hon mig i buken.
 
-**[10:11]** Och han sade till mig: Du måste åter prophetera folkom, Hedningom, och tungomålom, och mångom Konungom.  
+**[10:11]** Och han sade till mig: Du måste åter prophetera folkom, Hedningom, och tungomålom, och mångom Konungom.
 
 ### Chapter 11
 
@@ -64270,7 +64270,7 @@
 
 **[11:18]** Och Hedningarna äro vrede vordne; och din vrede är kommen, och de dödas tid, att de skola dömas, och att du skall löna dina tjenare Propheterna, och helgonen, och dem som frukta ditt Namn, små och stora, och förderfva dem som jordena förderfvat hafva.
 
-**[11:19]** Och Guds tempel vardt upplåtet i himmelen, och hans Testaments ark vardt sedd i hans tempel, och der skedde ljungeld och röster, och tordöner, och jordbäfning, och stort hagel.  
+**[11:19]** Och Guds tempel vardt upplåtet i himmelen, och hans Testaments ark vardt sedd i hans tempel, och der skedde ljungeld och röster, och tordöner, och jordbäfning, och stort hagel.
 
 ### Chapter 12
 
@@ -64306,7 +64306,7 @@
 
 **[12:16]** Men jorden halp qvinnone, och upplät sin mun, och uppsvalg strömmen, som draken af sin mun utsputat hade.
 
-**[12:17]** Och draken vardt vred på qvinnona, och gick bort, att han skulle örliga med de andra af hennes säd, de som hålla Guds bud, och hafva Jesu Christi vittnesbörd. Och han stod på hafsens sand.  
+**[12:17]** Och draken vardt vred på qvinnona, och gick bort, att han skulle örliga med de andra af hennes säd, de som hålla Guds bud, och hafva Jesu Christi vittnesbörd. Och han stod på hafsens sand.
 
 ### Chapter 13
 
@@ -64344,7 +64344,7 @@
 
 **[13:17]** Att ingen skall må köpa, eller sälja, utan den der hafver vedertecknet, eller vilddjurets namn, eller dess namns tal.
 
-**[13:18]** Här är visdomen: Den der förstånd hafver, han räkne vilddjurets tal; ty det är ens menniskos tal, och dess tal är sexhundrad sextio och sex.  
+**[13:18]** Här är visdomen: Den der förstånd hafver, han räkne vilddjurets tal; ty det är ens menniskos tal, och dess tal är sexhundrad sextio och sex.
 
 ### Chapter 14
 
@@ -64386,7 +64386,7 @@
 
 **[14:19]** Och Ängelen högg till med sin skarpa lia på jordena, och skar upp vingårdarna på jordene, och kastade dem uti Guds vredes stora präss.
 
-**[14:20]** Och vardt prässen trampad utom staden; och blodet gick ut af prässen, allt intill betslen på hästarna, utöfver tusende sexhundrad stadier vägs.  
+**[14:20]** Och vardt prässen trampad utom staden; och blodet gick ut af prässen, allt intill betslen på hästarna, utöfver tusende sexhundrad stadier vägs.
 
 ### Chapter 15
 
@@ -64404,7 +64404,7 @@
 
 **[15:7]** Och ett af de fyra djuren gaf de sju Änglar sju gyldene skålar, fulla med Guds vrede, den der lefver af evighet till evighet.
 
-**[15:8]** Och templet vardt uppfyldt med rök af Guds härlighet, och af hans kraft; och ingen kunde gå in i templet, till dess de sju plågor, som de sju Änglar hade, fullkomnade vordo.  
+**[15:8]** Och templet vardt uppfyldt med rök af Guds härlighet, och af hans kraft; och ingen kunde gå in i templet, till dess de sju plågor, som de sju Änglar hade, fullkomnade vordo.
 
 ### Chapter 16
 
@@ -64448,7 +64448,7 @@
 
 **[16:20]** Och alle öar flydde, och bergen funnos intet.
 
-**[16:21]** Och stort hagel, såsom en centener, kom ned af himmelen på menniskorna; och menniskorna hädde Gud, för den stora plåga af haglet; ty dess plåga var ganska stor.  
+**[16:21]** Och stort hagel, såsom en centener, kom ned af himmelen på menniskorna; och menniskorna hädde Gud, för den stora plåga af haglet; ty dess plåga var ganska stor.
 
 ### Chapter 17
 
@@ -64486,7 +64486,7 @@
 
 **[17:17]** Ty Gud hafver gifvit dem i hjertat, att de skola göra det honom behagar, och göra alle ena mening, att de skulle gifva vilddjurena riket, till dess Guds ord varda fullkomnad.
 
-**[17:18]** Och qvinnan, som du sett hafver, är den store staden, som rike hafver öfver jordenes Konungar.  
+**[17:18]** Och qvinnan, som du sett hafver, är den store staden, som rike hafver öfver jordenes Konungar.
 
 ### Chapter 18
 
@@ -64536,7 +64536,7 @@
 
 **[18:23]** Och ljus och ljusastaka skall icke mer lysa i dig; och brudgummes och bruds röst skall icke mer hörd varda i dig; ty dine köpmän voro Förstar på jordene; ty i dinom trolldom hafva alle Hedningar ville farit;
 
-**[18:24]** Och i honom vardt funnen Propheternas och helgonens blod, och allas deras som dräpne äro på jordene.  
+**[18:24]** Och i honom vardt funnen Propheternas och helgonens blod, och allas deras som dräpne äro på jordene.
 
 ### Chapter 19
 
@@ -64580,7 +64580,7 @@
 
 **[19:20]** Och vilddjuret vardt fånget, och med thy den falske Propheten, som tecken gjorde för thy, med hvilko han bedrog dem, som togo vilddjursens vedertecken, och dem som tillbådo dess beläte; desse två vordo lefvande kastade uti en brinnande sjö, som brann med svafvel.
 
-**[19:21]** Och de andre vordo dräpne med hans svärd, som satt på hästen, det utu hans mun gick; och alle foglar vordo mättade af hans kött.  
+**[19:21]** Och de andre vordo dräpne med hans svärd, som satt på hästen, det utu hans mun gick; och alle foglar vordo mättade af hans kött.
 
 ### Chapter 20
 
@@ -64612,7 +64612,7 @@
 
 **[20:14]** Och döden och helvetet vordo kastade, uti den brinnande sjön; denne är den andre döden.
 
-**[20:15]** Och den der icke vardt funnen skrifven i lifsens bok, han vardt kastad i den brinnande sjön.  
+**[20:15]** Och den der icke vardt funnen skrifven i lifsens bok, han vardt kastad i den brinnande sjön.
 
 ### Chapter 21
 
@@ -64668,7 +64668,7 @@
 
 **[21:26]** Och de skola föra Hedningarnas härlighet och ära in uti honom.
 
-**[21:27]** Der skall intet inkomma, som besmitteligit är, eller det styggelse gör och lögn; utan de som skrifne äro i Lambsens lefvande bok.  
+**[21:27]** Der skall intet inkomma, som besmitteligit är, eller det styggelse gör och lögn; utan de som skrifne äro i Lambsens lefvande bok.
 
 ### Chapter 22
 
@@ -64712,5 +64712,5 @@
 
 **[22:20]** Det säger han, som vittnesbörd bär härtill: Ja, jag kommer snart. Amen. Ja, kom, Herre Jesu.
 
-**[22:21]** Vårs Herras Jesu Christi nåd vare med eder allom. Amen.   
+**[22:21]** Vårs Herras Jesu Christi nåd vare med eder allom. Amen.
 

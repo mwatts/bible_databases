@@ -76,7 +76,7 @@
 - **LITV (en)**: LITV: Green's Literal Translation
 - **LvGluck8 (lv)**: LvGluck8: Latvian Glück 8th edition
 - **MKJV (en)**: MKJV: Green's Modern King James Version
-- **Mal1910 (mlf)**: Mal1910: Sathyavedapusthakam (Malayalam Bible)
+- **Mal1910 (ml)**: Mal1910: Sathyavedapusthakam (Malayalam Bible)
 - **ManxGaelic (gv)**: ManxGaelic: Manx Gaelic Scripture Portions
 - **Maori (mi)**: Maori: Maori Bible
 - **MapM (hbo)**: MapM: מקרא על פי המסורה (Miqra `al pi ha-Mesorah)

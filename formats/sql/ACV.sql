@@ -1,9 +1,8 @@
 -- SQL Dump for # ACV: A Conservative Version (ACV)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `ACV_books`;
 DROP TABLE IF EXISTS `ACV_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `ACV_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'ACV', '# ACV: A Conservative Version', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'ACV'
-            );
+            VALUES ('ACV', '# ACV: A Conservative Version', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `ACV_books` (

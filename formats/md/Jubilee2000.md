@@ -6068,7 +6068,7 @@
 
 **[8:15]** and he slew [it]; and Moses took the blood and put [it] upon the horns of the altar round about with his finger and removed the sin from the altar and poured the [remaining] blood at the bottom of the altar and sanctified it, to make reconciliation upon it.
 
-**[8:16]** After that he took all the fat that [was] upon the intestines and the caul [above] the liver and the two kidneys, and their fat, and Moses incensed [it][ upon the altar.
+**[8:16]** After that he took all the fat that [was] upon the intestines and the caul [above] the liver and the two kidneys, and their fat, and Moses incensed [it][upon the altar.
 
 **[8:17]** But the bullock and its hide, its flesh, and its dung, he burnt with fire outside the camp, as the LORD had commanded Moses.
 
@@ -28916,7 +28916,7 @@
 
 ### Chapter 3
 
-**[3:1]** <> LORD, how are they increased that trouble me! Many [are] they that rise up against me.
+**[3:1]** > LORD, how are they increased that trouble me! Many [are] they that rise up against me.
 
 **[3:2]** [There are] many who say of my soul, [There] is no help for him in God. Selah.
 
@@ -28934,7 +28934,7 @@
 
 ### Chapter 4
 
-**[4:1]** <<To the Overcomer in Neginoth, A Psalm of David.>> Hear me when I call, O God of my righteousness; thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.
+**[4:1]** > Hear me when I call, O God of my righteousness; thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.
 
 **[4:2]** O ye sons of men, how long [will ye turn] my glory into shame? [how long] will ye love vanity, [and] seek after the lie? Selah.
 
@@ -28952,7 +28952,7 @@
 
 ### Chapter 5
 
-**[5:1]** <<To the Overcomer upon Nehiloth, A Psalm of David.>> Give ear to my words, O LORD; consider my meditation.
+**[5:1]** > Give ear to my words, O LORD; consider my meditation.
 
 **[5:2]** Hearken unto the voice of my cry, my King, and my God, for unto thee will I pray.
 
@@ -28978,7 +28978,7 @@
 
 ### Chapter 6
 
-**[6:1]** <<To the Overcomer in Neginoth upon Sheminith, A Psalm of David.>> O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
+**[6:1]** > O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
 
 **[6:2]** Have mercy upon me, O LORD; for I [am] weak; O LORD, heal me, for my bones are troubled.
 
@@ -29000,7 +29000,7 @@
 
 ### Chapter 7
 
-**[7:1]** <<Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite.>> O LORD my God, in thee I have put my trust: save me from all those that persecute me, and deliver me
+**[7:1]** > O LORD my God, in thee I have put my trust: save me from all those that persecute me, and deliver me
 
 **[7:2]** Lest they take my soul, as a lion dismembers [his prey] when [there is] none to deliver.
 
@@ -29036,7 +29036,7 @@
 
 ### Chapter 8
 
-**[8:1]** <<To the Overcomer upon Gittith, A Psalm of David.>> O LORD our Lord, how great [is] thy name in all the earth! who hast set thy praise above the heavens.
+**[8:1]** > O LORD our Lord, how great [is] thy name in all the earth! who hast set thy praise above the heavens.
 
 **[8:2]** Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou might still the enemy and the avenger.
 
@@ -29056,7 +29056,7 @@
 
 ### Chapter 9
 
-**[9:1]** <<To the Overcomer upon Muthlabben, A Psalm of David.>> I will praise [thee], O LORD, with my whole heart; I will tell of all thy marvellous works.
+**[9:1]** > I will praise [thee], O LORD, with my whole heart; I will tell of all thy marvellous works.
 
 **[9:2]** I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High
 
@@ -29136,7 +29136,7 @@
 
 ### Chapter 11
 
-**[11:1]** <<To the Overcomer, A [Psalm] of David.>> I put my trust in the LORD put I: how say ye to my soul, Flee [as] a bird to your mountain?
+**[11:1]** > I put my trust in the LORD put I: how say ye to my soul, Flee [as] a bird to your mountain?
 
 **[11:2]** For, behold, the wicked bend [their] bow; they make ready their arrow upon the string that they may secretly shoot at the upright in heart.
 
@@ -29152,7 +29152,7 @@
 
 ### Chapter 12
 
-**[12:1]** <<To the Overcomer upon Sheminith, A Psalm of David.>> Help, LORD; for the merciful man ceases, for the faithful fail from among the children of men.
+**[12:1]** > Help, LORD; for the merciful man ceases, for the faithful fail from among the children of men.
 
 **[12:2]** Each one speaks vanity with his neighbour: they speak [with] flattering lips [and] with a double heart.
 
@@ -29170,7 +29170,7 @@
 
 ### Chapter 13
 
-**[13:1]** <<To the Overcomer, A Psalm of David.>> How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
+**[13:1]** > How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
 
 **[13:2]** How long shall I take counsel in my soul, [having] sorrow in my heart daily? how long shall my enemy be exalted over me?
 
@@ -29184,7 +29184,7 @@
 
 ### Chapter 14
 
-**[14:1]** <<To the Overcomer, A [Psalm] of David.>> The fool has said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] no one that does good.
+**[14:1]** > The fool has said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] no one that does good.
 
 **[14:2]** The LORD looked down from heaven upon the children of men to see if there were any that did understand [and] seek God.
 
@@ -29200,7 +29200,7 @@
 
 ### Chapter 15
 
-**[15:1]** <> LORD, who shall abide in thy tabernacle? who shall dwell in the mountain of thy holiness?
+**[15:1]** > LORD, who shall abide in thy tabernacle? who shall dwell in the mountain of thy holiness?
 
 **[15:2]** He that walks in integrity and works righteousness, and speaks the truth in his heart.
 
@@ -29212,7 +29212,7 @@
 
 ### Chapter 16
 
-**[16:1]** <<Michtam of David.>> Preserve me, O God: for in thee I have put my trust.
+**[16:1]** > Preserve me, O God: for in thee I have put my trust.
 
 **[16:2]** I said unto the LORD, Thou [art] my goodness: I have no goodness [apart from] thee;
 
@@ -29236,7 +29236,7 @@
 
 ### Chapter 17
 
-**[17:1]** <> Hear righteousness, O LORD, attend unto my cry, give ear unto my prayer, [that] does not [go] not out of feigned lips.
+**[17:1]** > Hear righteousness, O LORD, attend unto my cry, give ear unto my prayer, [that] does not [go] not out of feigned lips.
 
 **[17:2]** Let my sentence come forth from thy presence; let thine eyes behold uprightness.
 
@@ -29268,7 +29268,7 @@
 
 ### Chapter 18
 
-**[18:1]** <<To the Overcomer, [A Psalm] of David, the servant of the LORD, who spoke unto the LORD the words of this song in the day [that] the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said,>>I will love thee, O LORD, my strength.
+**[18:1]** >I will love thee, O LORD, my strength.
 
 **[18:2]** The LORD [is] my rock and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, [and] my high tower.
 
@@ -29370,7 +29370,7 @@
 
 ### Chapter 19
 
-**[19:1]** <<To the Overcomer, A Psalm of David.>> The heavens declare the glory of God; and the firmament shows the work of his hands.
+**[19:1]** > The heavens declare the glory of God; and the firmament shows the work of his hands.
 
 **[19:2]** [One] day provides a word for the [next] day, and [one] night declares wisdom unto the [next] night.
 
@@ -29400,7 +29400,7 @@
 
 ### Chapter 20
 
-**[20:1]** <<To the Overcomer, A Psalm of David.>> [Let] the LORD hear thee in the day of trouble; [let] the name of the God of Jacob lift thee up
+**[20:1]** > [Let] the LORD hear thee in the day of trouble; [let] the name of the God of Jacob lift thee up
 
 **[20:2]** [and] send thee help from the sanctuary and strengthen thee out of Zion
 
@@ -29420,7 +29420,7 @@
 
 ### Chapter 21
 
-**[21:1]** <<To the Overcomer, A Psalm of David.>> The king shall joy in thy strength, O LORD; and in thy saving health how greatly shall he rejoice!
+**[21:1]** > The king shall joy in thy strength, O LORD; and in thy saving health how greatly shall he rejoice!
 
 **[21:2]** Thou hast given him his heart's desire and hast not withheld the request of his lips. Selah.
 
@@ -29448,7 +29448,7 @@
 
 ### Chapter 22
 
-**[22:1]** <<To the Overcomer upon Aijeleth Shahar, A Psalm of David.>> My God, my God, why hast thou forsaken me? [why art thou so] far from helping me [and from] the words of my cry?
+**[22:1]** > My God, my God, why hast thou forsaken me? [why art thou so] far from helping me [and from] the words of my cry?
 
 **[22:2]** O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
 
@@ -29512,7 +29512,7 @@
 
 ### Chapter 23
 
-**[23:1]** <> The LORD [is] my shepherd; I shall not want.
+**[23:1]** > The LORD [is] my shepherd; I shall not want.
 
 **[23:2]** He makes me to lie down in green pastures; he leads me beside the still waters.
 
@@ -29526,7 +29526,7 @@
 
 ### Chapter 24
 
-**[24:1]** <> The earth [is] the LORD'S, and the fullness thereof; the world and they that dwell therein.
+**[24:1]** > The earth [is] the LORD'S, and the fullness thereof; the world and they that dwell therein.
 
 **[24:2]** For he has founded it upon the seas and established it upon the rivers.
 
@@ -29548,7 +29548,7 @@
 
 ### Chapter 25
 
-**[25:1]** <<[A Psalm] of David.>> [Aleph] Unto thee, O LORD, do I lift up my soul.
+**[25:1]** > [Aleph] Unto thee, O LORD, do I lift up my soul.
 
 **[25:2]** [Beth] O my God, I trust in thee: let me not be ashamed, let not my enemies triumph over me.
 
@@ -29594,7 +29594,7 @@
 
 ### Chapter 26
 
-**[26:1]** <<[A Psalm] of David.>> Judge me, O LORD, for I have walked in my integrity; I have trusted also in the LORD; [therefore] I shall not slide.
+**[26:1]** > Judge me, O LORD, for I have walked in my integrity; I have trusted also in the LORD; [therefore] I shall not slide.
 
 **[26:2]** Examine me, O LORD and prove me; melt my kidneys and my heart.
 
@@ -29620,7 +29620,7 @@
 
 ### Chapter 27
 
-**[27:1]** <<[A Psalm] of David.>> The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?
+**[27:1]** > The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?
 
 **[27:2]** When the wicked, [even] my enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.
 
@@ -29650,7 +29650,7 @@
 
 ### Chapter 28
 
-**[28:1]** <<[A Psalm] of David.>> Unto thee will I cry, O LORD my rock; be not silent unto me lest, [if] thou be silent unto me, I become like those that go down into the grave.
+**[28:1]** > Unto thee will I cry, O LORD my rock; be not silent unto me lest, [if] thou be silent unto me, I become like those that go down into the grave.
 
 **[28:2]** Hear the voice of my supplications when I cry unto thee, when I lift up my hands toward the oracle of thy holiness.
 
@@ -29670,7 +29670,7 @@
 
 ### Chapter 29
 
-**[29:1]** <> Give unto the LORD, O ye mighty, give unto the LORD glory and strength.
+**[29:1]** > Give unto the LORD, O ye mighty, give unto the LORD glory and strength.
 
 **[29:2]** Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness.
 
@@ -29694,7 +29694,7 @@
 
 ### Chapter 30
 
-**[30:1]** <> I will extol thee, O LORD; for thou hast lifted me up and hast not made my foes to rejoice over me.
+**[30:1]** > I will extol thee, O LORD; for thou hast lifted me up and hast not made my foes to rejoice over me.
 
 **[30:2]** O LORD my God, I cried unto thee, and thou hast healed me.
 
@@ -29720,7 +29720,7 @@
 
 ### Chapter 31
 
-**[31:1]** <<To the Overcomer, A Psalm of David.>> In thee, O LORD, have I waited; let me never be ashamed; deliver me in thy righteousness.
+**[31:1]** > In thee, O LORD, have I waited; let me never be ashamed; deliver me in thy righteousness.
 
 **[31:2]** Incline thine ear unto me; deliver me speedily; be thou my strong rock, for a house of defence to save me.
 
@@ -29770,7 +29770,7 @@
 
 ### Chapter 32
 
-**[32:1]** <<[A Psalm] of David, Maschil.>> Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.
+**[32:1]** > Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.
 
 **[32:2]** Blessed [is] the man unto whom the LORD does not impute iniquity and in whose spirit [there is] no guile.
 
@@ -29840,7 +29840,7 @@
 
 ### Chapter 34
 
-**[34:1]** <<[A Psalm] of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.>> [Aleph] I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.
+**[34:1]** > [Aleph] I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.
 
 **[34:2]** [Beth] My soul shall glory in the LORD; the meek shall hear [of this], and be glad.
 
@@ -29886,7 +29886,7 @@
 
 ### Chapter 35
 
-**[35:1]** <> Plead [my cause], O LORD, with those that strive with me; fight against those that fight against me.
+**[35:1]** > Plead [my cause], O LORD, with those that strive with me; fight against those that fight against me.
 
 **[35:2]** Take hold of shield and buckler, and stand up in my help.
 
@@ -29944,7 +29944,7 @@
 
 ### Chapter 36
 
-**[36:1]** <<To the Overcomer, A [Psalm] of David the servant of the LORD.>> The rebellion of the wicked saith to my heart [that There] is no fear of God before his eyes.
+**[36:1]** > The rebellion of the wicked saith to my heart [that There] is no fear of God before his eyes.
 
 **[36:2]** For he flatters himself in his own eyes until his iniquity is found to be hateful.
 
@@ -29970,7 +29970,7 @@
 
 ### Chapter 37
 
-**[37:1]** <> [Aleph] Do not be angry with the evildoers, neither be thou envious of the workers of iniquity.
+**[37:1]** > [Aleph] Do not be angry with the evildoers, neither be thou envious of the workers of iniquity.
 
 **[37:2]** For they shall soon be cut down like the grass and wither as the green herb.
 
@@ -30052,7 +30052,7 @@
 
 ### Chapter 38
 
-**[38:1]** <> O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
+**[38:1]** > O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
 
 **[38:2]** For thine arrows stick fast in me, and thy hand presses me sore.
 
@@ -30098,7 +30098,7 @@
 
 ### Chapter 39
 
-**[39:1]** <<To the Overcomer, [even] to Jeduthun, A Psalm of David.>> I said, I will take heed to my ways that I sin not with my tongue: I will keep my mouth with a bit while the wicked is against me.
+**[39:1]** > I said, I will take heed to my ways that I sin not with my tongue: I will keep my mouth with a bit while the wicked is against me.
 
 **[39:2]** I was dumb with silence; I held my peace, [even] from good; and my sorrow was stirred.
 
@@ -30126,7 +30126,7 @@
 
 ### Chapter 40
 
-**[40:1]** <<To the Overcomer, A Psalm of David.>> I waited patiently for the LORD, and he inclined unto me and heard my cry.
+**[40:1]** > I waited patiently for the LORD, and he inclined unto me and heard my cry.
 
 **[40:2]** He brought me up also out of the pit of hopelessness, out of the miry clay and set my feet upon a rock [and] straightened my steps.
 
@@ -30162,7 +30162,7 @@
 
 ### Chapter 41
 
-**[41:1]** <<To the Overcomer, A Psalm of David.>> Blessed [is] he that understands regarding the poor; the LORD will deliver him in the day of evil.
+**[41:1]** > Blessed [is] he that understands regarding the poor; the LORD will deliver him in the day of evil.
 
 **[41:2]** The LORD will preserve him and keep him alive, [and] he shall be blessed upon the earth, and thou wilt not deliver him unto the will of his enemies.
 
@@ -30190,7 +30190,7 @@
 
 ### Chapter 42
 
-**[42:1]** <<To the Overcomer: Maschil, for the sons of Korah.>> As the hart pants after the water brooks, so does my soul pant after thee, O God.
+**[42:1]** > As the hart pants after the water brooks, so does my soul pant after thee, O God.
 
 **[42:2]** My soul thirsts for God, for the living God; when shall I come and appear before God?
 
@@ -30226,7 +30226,7 @@
 
 ### Chapter 44
 
-**[44:1]** <<To the Overcomer for the sons of Korah, Maschil.>> We have heard with our ears, O God, our fathers have told us, what work thou didst in their days in the times of old.
+**[44:1]** > We have heard with our ears, O God, our fathers have told us, what work thou didst in their days in the times of old.
 
 **[44:2]** [How] thou didst drive out the Gentiles with thy hand and plant them [in their place]; [how] thou didst afflict the peoples and cast them out.
 
@@ -30280,7 +30280,7 @@
 
 ### Chapter 45
 
-**[45:1]** <<To the Overcomer: upon Shoshannim [lilies], for the sons of Korah, Maschil, A Song of loves.>> My heart is overflowing with a good word; I speak of the things which I have done concerning the king; my tongue [is] the pen of a ready writer.
+**[45:1]** > My heart is overflowing with a good word; I speak of the things which I have done concerning the king; my tongue [is] the pen of a ready writer.
 
 **[45:2]** Thou art fairer than the sons of men, grace is poured into thy lips; therefore God has blessed thee for ever.
 
@@ -30316,7 +30316,7 @@
 
 ### Chapter 46
 
-**[46:1]** <<To the Overcomer: for the sons of Korah, A Song upon Alamoth.>> God [is] our refuge and strength, a very present help in tribulation.
+**[46:1]** > God [is] our refuge and strength, a very present help in tribulation.
 
 **[46:2]** Therefore we will not fear, though the earth be removed and though the mountains be carried into the midst of the sea,
 
@@ -30340,7 +30340,7 @@
 
 ### Chapter 47
 
-**[47:1]** <<To the Overcomer: A Psalm for the sons of Korah.>> O clap your hands, all ye people; shout unto God with the voice of triumph.
+**[47:1]** > O clap your hands, all ye people; shout unto God with the voice of triumph.
 
 **[47:2]** For the LORD most high [is] terrible; [he is] a great King over all the earth.
 
@@ -30360,7 +30360,7 @@
 
 ### Chapter 48
 
-**[48:1]** <> Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.
+**[48:1]** > Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.
 
 **[48:2]** Beautiful for situation, the joy of the whole earth, [is] mount Zion, [on] the sides of the north, the city of the great King.
 
@@ -30390,7 +30390,7 @@
 
 ### Chapter 49
 
-**[49:1]** <<To the Overcomer, A Psalm for the sons of Korah.>> Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:
+**[49:1]** > Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:
 
 **[49:2]** Both low and high, rich and poor, together.
 
@@ -30432,7 +30432,7 @@
 
 ### Chapter 50
 
-**[50:1]** <> The God of gods, [even] the LORD, has spoken and convocated the earth from the rising of the sun unto the going down thereof.
+**[50:1]** > The God of gods, [even] the LORD, has spoken and convocated the earth from the rising of the sun unto the going down thereof.
 
 **[50:2]** Out of Zion, the perfection of beauty, God has shined [forth].
 
@@ -30480,7 +30480,7 @@
 
 ### Chapter 51
 
-**[51:1]** <<To the Overcomer, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba.>> Have mercy upon me, O God, according to thy mercy; according unto the multitude of thy compassion eradicate my rebellion.
+**[51:1]** > Have mercy upon me, O God, according to thy mercy; according unto the multitude of thy compassion eradicate my rebellion.
 
 **[51:2]** Wash me thoroughly from my iniquity and cleanse me from my sin.
 
@@ -30520,7 +30520,7 @@
 
 ### Chapter 52
 
-**[52:1]** <<To the Overcomer, Maschil, [A Psalm] of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.>> Why dost thou boast of evil, O strong man? The mercy of God is day by day.
+**[52:1]** > Why dost thou boast of evil, O strong man? The mercy of God is day by day.
 
 **[52:2]** Thy tongue devises wickedness like a sharp razor, working deceitfully.
 
@@ -30540,7 +30540,7 @@
 
 ### Chapter 53
 
-**[53:1]** <<To the Overcomer upon Mahalath, Maschil, [A Psalm] of David.>> The fool has said in his heart, [There is] no God. They have corrupted themselves and have done abominable iniquity; [there is] no one that does good.
+**[53:1]** > The fool has said in his heart, [There is] no God. They have corrupted themselves and have done abominable iniquity; [there is] no one that does good.
 
 **[53:2]** God looked down from heaven upon the sons of Adam to see if there were [any] that did understand, that did seek God.
 
@@ -30554,7 +30554,7 @@
 
 ### Chapter 54
 
-**[54:1]** <<To the Overcomer on Neginoth, Maschil, [A Psalm] of David, when the Ziphims came and said to Saul, Does David not hide himself with us?>> Save me, O God, in thy name and defend me by thy valour.
+**[54:1]** > Save me, O God, in thy name and defend me by thy valour.
 
 **[54:2]** Hear my prayer, O God; give ear to the words of my mouth.
 
@@ -30570,7 +30570,7 @@
 
 ### Chapter 55
 
-**[55:1]** <<To the Overcomer on Neginoth, Maschil, [A Psalm] of David.>> Give ear to my prayer, O God, and do not hide thyself from my supplication.
+**[55:1]** > Give ear to my prayer, O God, and do not hide thyself from my supplication.
 
 **[55:2]** Attend unto me and hear me: I mourn in my complaint and make a noise
 
@@ -30618,7 +30618,7 @@
 
 ### Chapter 56
 
-**[56:1]** <<To the Overcomer upon: The silent dove in a distant land, Michtam of David, when the Philistines took him in Gath.>> Be merciful unto me, O God, for man would swallow me up; he oppresses me fighting me daily.
+**[56:1]** > Be merciful unto me, O God, for man would swallow me up; he oppresses me fighting me daily.
 
 **[56:2]** My enemies would daily swallow [me] up, for [they are] many that fight against me, O thou most High.
 
@@ -30646,7 +30646,7 @@
 
 ### Chapter 57
 
-**[57:1]** <<To the Overcomer [upon], Do not destroy, Michtam of David, when he fled from the presence of Saul in the cave.>> Be merciful unto me, O God, be merciful unto me: for my soul trusts in thee; and in the shadow of thy wings I will make my refuge until [these] calamities are overpast.
+**[57:1]** > Be merciful unto me, O God, be merciful unto me: for my soul trusts in thee; and in the shadow of thy wings I will make my refuge until [these] calamities are overpast.
 
 **[57:2]** I will cry unto God most high, unto God that performs [all things] for me.
 
@@ -30670,7 +30670,7 @@
 
 ### Chapter 58
 
-**[58:1]** <<To the Overcomer [upon], Do not destroy, Michtam of David.>> Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of Adam?
+**[58:1]** > Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of Adam?
 
 **[58:2]** Yea, in heart ye work iniquity; ye weigh the violence of your hands in the earth.
 
@@ -30694,7 +30694,7 @@
 
 ### Chapter 59
 
-**[59:1]** <<To the Overcomer [upon], Do not destroy, Michtam of David; when Saul sent, and they watched the house to kill him.>> Deliver me from my enemies, O my God; defend me from those that rise up against me.
+**[59:1]** > Deliver me from my enemies, O my God; defend me from those that rise up against me.
 
 **[59:2]** Deliver me from the workers of iniquity and save me from bloodthirsty men.
 
@@ -30730,7 +30730,7 @@
 
 ### Chapter 60
 
-**[60:1]** <<To the Overcomer upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned and smote of Edom in the valley of salt twelve thousand.>> O God, thou hast cast us off, thou hast scattered us; thou hast been displeased; O turn thyself to us again.
+**[60:1]** > O God, thou hast cast us off, thou hast scattered us; thou hast been displeased; O turn thyself to us again.
 
 **[60:2]** Thou hast made the earth to tremble; thou hast broken it; heal its breaches, for it shakes.
 
@@ -30756,7 +30756,7 @@
 
 ### Chapter 61
 
-**[61:1]** <<To the Overcomer upon Neginah, [A Psalm] of David.>> Hear my cry, O God; attend unto my prayer.
+**[61:1]** > Hear my cry, O God; attend unto my prayer.
 
 **[61:2]** From the end of the earth I will cry unto thee when my heart is overwhelmed; lead me to the rock [that] is higher than I.
 
@@ -30774,7 +30774,7 @@
 
 ### Chapter 62
 
-**[62:1]** <<To the Overcomer, to Jeduthun, A Psalm of David.>> Only in God does my soul rest; from him [comes] my saving health.
+**[62:1]** > Only in God does my soul rest; from him [comes] my saving health.
 
 **[62:2]** He only [is] my rock and my saving health; [he is] my defence; I shall not be greatly moved.
 
@@ -30800,7 +30800,7 @@
 
 ### Chapter 63
 
-**[63:1]** <> O God, thou [art] my God; early will I seek thee; my soul thirsts for thee; my flesh longs for thee in a dry and thirsty land where [there] is no water;
+**[63:1]** > O God, thou [art] my God; early will I seek thee; my soul thirsts for thee; my flesh longs for thee in a dry and thirsty land where [there] is no water;
 
 **[63:2]** in this manner I beheld thee in holiness when I beheld thy power and thy glory.
 
@@ -30824,7 +30824,7 @@
 
 ### Chapter 64
 
-**[64:1]** <<To the Overcomer, A Psalm of David.>> Hear my voice, O God, in my prayer; preserve my life from fear of the enemy.
+**[64:1]** > Hear my voice, O God, in my prayer; preserve my life from fear of the enemy.
 
 **[64:2]** Hide me from the secret [counsel] of the wicked, from the insurrection of the workers of iniquity:
 
@@ -30846,7 +30846,7 @@
 
 ### Chapter 65
 
-**[65:1]** <<To the Overcomer, A Psalm [and] Song of David.>> Praise doth rest in thee, O God, in Sion and unto thee shall the vow be performed.
+**[65:1]** > Praise doth rest in thee, O God, in Sion and unto thee shall the vow be performed.
 
 **[65:2]** O thou that hearest prayer, unto thee shall all flesh come.
 
@@ -30874,7 +30874,7 @@
 
 ### Chapter 66
 
-**[66:1]** <<To the Overcomer, A Song [or] Psalm.>> Make a joyful noise unto God, all the earth;
+**[66:1]** > Make a joyful noise unto God, all the earth;
 
 **[66:2]** sing forth the glory of his name; put glory [into] thy praise.
 
@@ -30916,7 +30916,7 @@
 
 ### Chapter 67
 
-**[67:1]** <<To the Overcomer on Neginoth, A Psalm [or] Song.>> God be merciful unto us and bless us [and] cause his face to shine upon us. Selah.
+**[67:1]** > God be merciful unto us and bless us [and] cause his face to shine upon us. Selah.
 
 **[67:2]** That thy way may be known upon the earth, thy saving health among all the Gentiles.
 
@@ -30932,7 +30932,7 @@
 
 ### Chapter 68
 
-**[68:1]** <<To the Overcomer, A Psalm [or] Song of David.>> Let God arise, let his enemies be scattered; let those that hate him flee before him.
+**[68:1]** > Let God arise, let his enemies be scattered; let those that hate him flee before him.
 
 **[68:2]** As smoke is driven away; [so] drive [them] away: as wax melts before the fire, [so] shall the wicked perish at the presence of God.
 
@@ -31004,7 +31004,7 @@
 
 ### Chapter 69
 
-**[69:1]** <<To the Overcomer upon Shoshannim ([lilies]), [A Psalm] of David.>> Save me, O God; for the waters are come in unto [my] soul.
+**[69:1]** > Save me, O God; for the waters are come in unto [my] soul.
 
 **[69:2]** I sink in deep mire where [there is] no standing; I am come into deep waters, where the floods overflow me.
 
@@ -31078,7 +31078,7 @@
 
 ### Chapter 70
 
-**[70:1]** <<To the Overcomer, [A Psalm] of David, to bring to remembrance.>> [Make haste], O God, to deliver me; make haste to help me, O LORD.
+**[70:1]** > [Make haste], O God, to deliver me; make haste to help me, O LORD.
 
 **[70:2]** Let them be ashamed and confounded that seek after my life; let them be turned backward and put to confusion that desire my hurt.
 
@@ -31140,7 +31140,7 @@
 
 ### Chapter 72
 
-**[72:1]** <<[A Psalm] for Solomon.>> Give the king thy judgments, O God, and thy righteousness unto the king's son.
+**[72:1]** > Give the king thy judgments, O God, and thy righteousness unto the king's son.
 
 **[72:2]** He shall judge thy people with righteousness and thy poor with judgment.
 
@@ -31182,7 +31182,7 @@
 
 ### Chapter 73
 
-**[73:1]** <> Truly God [is] good to Israel, [even] to such as are pure in heart.
+**[73:1]** > Truly God [is] good to Israel, [even] to such as are pure in heart.
 
 **[73:2]** But as for me, my feet almost departed [from the way]; my steps had almost slipped.
 
@@ -31240,7 +31240,7 @@
 
 ### Chapter 74
 
-**[74:1]** <<Maschil of Asaph.>> O God, why hast thou cast [us] off for ever? [Why] does thine anger smoke against the sheep of thy pasture?
+**[74:1]** > O God, why hast thou cast [us] off for ever? [Why] does thine anger smoke against the sheep of thy pasture?
 
 **[74:2]** Remember thy congregation, [which] thou hast purchased of old; the rod of thine inheritance, [which] thou hast redeemed, this mount Zion, in which thou hast dwelt.
 
@@ -31288,7 +31288,7 @@
 
 ### Chapter 75
 
-**[75:1]** <<To the Overcomer upon, Do not destroy, A Psalm [or] Song of Asaph.>> Unto thee, O God, do we give thanks, [unto thee] do we give thanks, for [that] thy name is near, thy wondrous works declare.
+**[75:1]** > Unto thee, O God, do we give thanks, [unto thee] do we give thanks, for [that] thy name is near, thy wondrous works declare.
 
 **[75:2]** When I shall receive the congregation, I will judge uprightly.
 
@@ -31310,7 +31310,7 @@
 
 ### Chapter 76
 
-**[76:1]** <<To the Overcomer on Neginoth, A Psalm [or] Song of Asaph.>> In Judah [is] God known; his name [is] great in Israel.
+**[76:1]** > In Judah [is] God known; his name [is] great in Israel.
 
 **[76:2]** In Salem also is his tabernacle and his dwelling place in Zion.
 
@@ -31336,7 +31336,7 @@
 
 ### Chapter 77
 
-**[77:1]** <<To the Overcomer, to Jeduthun, A Psalm of Asaph.>> I cried unto God with my voice, [even] unto God with my voice; and [he] gave ear unto me.
+**[77:1]** > I cried unto God with my voice, [even] unto God with my voice; and [he] gave ear unto me.
 
 **[77:2]** In the day of my trouble I sought the Lord; my sore bled in the night and ceased not; my soul refused to be comforted.
 
@@ -31378,7 +31378,7 @@
 
 ### Chapter 78
 
-**[78:1]** <<Maschil of Asaph.>> Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
+**[78:1]** > Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
 
 **[78:2]** I will open my mouth in a parable; I will utter enigmas of old,
 
@@ -31524,7 +31524,7 @@
 
 ### Chapter 79
 
-**[79:1]** <> O God, the Gentiles are come into thine inheritance; they have defiled the temple of thy holiness; they have laid Jerusalem on heaps.
+**[79:1]** > O God, the Gentiles are come into thine inheritance; they have defiled the temple of thy holiness; they have laid Jerusalem on heaps.
 
 **[79:2]** The dead bodies of thy servants they have given [to be] food unto the fowls of the heavens, the flesh of thy saints unto the beasts of the earth.
 
@@ -31552,7 +31552,7 @@
 
 ### Chapter 80
 
-**[80:1]** <<To the Overcomer upon Shoshannim, A testimony of Asaph: A Psalm.>> Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubim, shine forth.
+**[80:1]** > Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubim, shine forth.
 
 **[80:2]** In the presence of Ephraim and Benjamin and Manasseh stir up thy strength and come [and] save us.
 
@@ -31592,7 +31592,7 @@
 
 ### Chapter 81
 
-**[81:1]** <<To the Overcomer upon Gittith, [A Psalm] of Asaph.>> Sing aloud unto God our strength; make a joyful noise unto the God of Jacob.
+**[81:1]** > Sing aloud unto God our strength; make a joyful noise unto the God of Jacob.
 
 **[81:2]** Take the song and play the timbrel, the harp of joy with the psaltery.
 
@@ -31626,7 +31626,7 @@
 
 ### Chapter 82
 
-**[82:1]** <> God stands in the congregation of the mighty; he judges among the gods.
+**[82:1]** > God stands in the congregation of the mighty; he judges among the gods.
 
 **[82:2]** How long will ye judge unjustly and accept the persons of the wicked? Selah.
 
@@ -31644,7 +31644,7 @@
 
 ### Chapter 83
 
-**[83:1]** <> Do not keep silence, O God; do not hold thy peace, and do not be still, O God.
+**[83:1]** > Do not keep silence, O God; do not hold thy peace, and do not be still, O God.
 
 **[83:2]** For, behold, thine enemies make a tumult, and those that hate thee have lifted up their head.
 
@@ -31682,7 +31682,7 @@
 
 ### Chapter 84
 
-**[84:1]** <<To the Overcomer upon Gittith, A Psalm for the sons of Korah.>> How amiable [are] thy habitations, O LORD of the hosts!
+**[84:1]** > How amiable [are] thy habitations, O LORD of the hosts!
 
 **[84:2]** My soul longs, and even faints for the courts of the LORD; my heart and my flesh sing to the living God.
 
@@ -31708,7 +31708,7 @@
 
 ### Chapter 85
 
-**[85:1]** <<To the Overcomer, A Psalm for the sons of Korah.>> LORD, thou hast been favourable unto thy land; thou hast brought back the captivity of Jacob.
+**[85:1]** > LORD, thou hast been favourable unto thy land; thou hast brought back the captivity of Jacob.
 
 **[85:2]** Thou hast forgiven the iniquity of thy people; thou hast covered all their sin. Selah.
 
@@ -31736,7 +31736,7 @@
 
 ### Chapter 86
 
-**[86:1]** <> Bow down thine ear, O LORD, hear me, for I [am] poor and needy.
+**[86:1]** > Bow down thine ear, O LORD, hear me, for I [am] poor and needy.
 
 **[86:2]** Preserve my soul; for I [am] merciful, O thou my God, save thy servant that trusts in thee.
 
@@ -31772,7 +31772,7 @@
 
 ### Chapter 87
 
-**[87:1]** <> His foundation [is] in mountains of holiness.
+**[87:1]** > His foundation [is] in mountains of holiness.
 
 **[87:2]** The LORD loves the gates of Zion more than all the dwellings of Jacob.
 
@@ -31788,7 +31788,7 @@
 
 ### Chapter 88
 
-**[88:1]** <> O LORD God of my saving health, I cry day [and] night before Thee;
+**[88:1]** > O LORD God of my saving health, I cry day [and] night before Thee;
 
 **[88:2]** let my prayer come before thee; incline thine ear unto my cry;
 
@@ -31826,7 +31826,7 @@
 
 ### Chapter 89
 
-**[89:1]** <<Maschil of Ethan the Ezrahite.>> I will sing of the mercies of the LORD for ever; with my mouth will I make known thy faithfulness to all generations.
+**[89:1]** > I will sing of the mercies of the LORD for ever; with my mouth will I make known thy faithfulness to all generations.
 
 **[89:2]** For I have said, Mercy shall be built up for ever in the heavens; in them thou shalt establish thy truth.
 
@@ -31932,7 +31932,7 @@
 
 ### Chapter 90
 
-**[90:1]** <> Lord, thou hast been our refuge from generation to generation.
+**[90:1]** > Lord, thou hast been our refuge from generation to generation.
 
 **[90:2]** Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou [art] God.
 
@@ -32002,7 +32002,7 @@
 
 ### Chapter 92
 
-**[92:1]** <> [It is a] good [thing] to give thanks unto the LORD and to sing praises unto thy name, O most High:
+**[92:1]** > [It is a] good [thing] to give thanks unto the LORD and to sing praises unto thy name, O most High:
 
 **[92:2]** To show forth thy mercy in the morning and thy faithfulness every night
 
@@ -32172,7 +32172,7 @@
 
 ### Chapter 98
 
-**[98:1]** <> O sing unto the LORD a new song; for he has done marvellous things; his right hand has gotten him the victory, even the arm of his holiness.
+**[98:1]** > O sing unto the LORD a new song; for he has done marvellous things; his right hand has gotten him the victory, even the arm of his holiness.
 
 **[98:2]** The LORD has made known his saving health; he has openly showed his righteousness in the sight of the Gentiles.
 
@@ -32212,7 +32212,7 @@
 
 ### Chapter 100
 
-**[100:1]** <> Make a joyful noise unto the LORD all the earth.
+**[100:1]** > Make a joyful noise unto the LORD all the earth.
 
 **[100:2]** Serve the LORD with gladness; come before his presence with joy.
 
@@ -32224,7 +32224,7 @@
 
 ### Chapter 101
 
-**[101:1]** <> I will sing of mercy and judgment; unto thee, O LORD, will I sing.
+**[101:1]** > I will sing of mercy and judgment; unto thee, O LORD, will I sing.
 
 **[101:2]** When thou shalt come unto me, I will walk in the way of perfection and understand. I will walk in the midst of my house in the perfection of my heart.
 
@@ -32242,7 +32242,7 @@
 
 ### Chapter 102
 
-**[102:1]** <> Hear my prayer, O LORD, and let my cry come unto thee.
+**[102:1]** > Hear my prayer, O LORD, and let my cry come unto thee.
 
 **[102:2]** Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me; in the day [when] I call, answer me speedily.
 
@@ -32300,7 +32300,7 @@
 
 ### Chapter 103
 
-**[103:1]** <<[A Psalm] of David.>> Bless the LORD, O my soul, and all that is within me, [bless] the name of his holiness.
+**[103:1]** > Bless the LORD, O my soul, and all that is within me, [bless] the name of his holiness.
 
 **[103:2]** Bless the LORD, O my soul, and forget not all his benefits:
 
@@ -32696,7 +32696,7 @@
 
 ### Chapter 108
 
-**[108:1]** <> O God, my heart is fixed; I will sing and give praise; this is my glory.
+**[108:1]** > O God, my heart is fixed; I will sing and give praise; this is my glory.
 
 **[108:2]** Awake, psaltery and harp; I will awake the dawn.
 
@@ -32724,7 +32724,7 @@
 
 ### Chapter 109
 
-**[109:1]** <<To the Overcomer, A Psalm of David.>> Do not hold thy peace, O God of my praise;
+**[109:1]** > Do not hold thy peace, O God of my praise;
 
 **[109:2]** for the mouth of the wicked and the mouth of the deceitful are opened against me; they have spoken of me with a lying tongue.
 
@@ -32788,7 +32788,7 @@
 
 ### Chapter 110
 
-**[110:1]** <> The LORD said unto my Lord, Sit thou at my right hand until I make thine enemies thy footstool.
+**[110:1]** > The LORD said unto my Lord, Sit thou at my right hand until I make thine enemies thy footstool.
 
 **[110:2]** The LORD shall send the rod of thy strength out of Zion; rule thou in the midst of thine enemies.
 
@@ -33384,7 +33384,7 @@
 
 ### Chapter 120
 
-**[120:1]** <> In my distress I cried unto the LORD, and he answered me.
+**[120:1]** > In my distress I cried unto the LORD, and he answered me.
 
 **[120:2]** Deliver my soul, O LORD, from lying lips [and] from a deceitful tongue.
 
@@ -33400,7 +33400,7 @@
 
 ### Chapter 121
 
-**[121:1]** <> I will lift up mine eyes unto the mountains, from whence cometh my help.
+**[121:1]** > I will lift up mine eyes unto the mountains, from whence cometh my help.
 
 **[121:2]** My help [comes] from the LORD, who made the heavens and earth.
 
@@ -33418,7 +33418,7 @@
 
 ### Chapter 122
 
-**[122:1]** <> I was glad when they said unto me, Let us go into the house of the LORD.
+**[122:1]** > I was glad when they said unto me, Let us go into the house of the LORD.
 
 **[122:2]** Our feet stood within thy gates, O Jerusalem.
 
@@ -33438,7 +33438,7 @@
 
 ### Chapter 123
 
-**[123:1]** <> Unto thee I lift up mine eyes, O thou that dwellest in the heavens.
+**[123:1]** > Unto thee I lift up mine eyes, O thou that dwellest in the heavens.
 
 **[123:2]** Behold, as the eyes of servants [look] unto the hand of their masters [and] as the eyes of a maiden unto the hand of her mistress, so our eyes [wait] upon the LORD our God, until he shall have mercy upon us.
 
@@ -33448,7 +33448,7 @@
 
 ### Chapter 124
 
-**[124:1]** <> If the LORD had not been for us, now may Israel say,
+**[124:1]** > If the LORD had not been for us, now may Israel say,
 
 **[124:2]** If the LORD had not been for us, when men rose up against us,
 
@@ -33466,7 +33466,7 @@
 
 ### Chapter 125
 
-**[125:1]** <> Those that trust in the LORD [are] as mount Zion, [which] cannot be removed [but] abides for ever.
+**[125:1]** > Those that trust in the LORD [are] as mount Zion, [which] cannot be removed [but] abides for ever.
 
 **[125:2]** As the mountains [are] round about Jerusalem, so the LORD [is] round about his people from now on even for ever.
 
@@ -33478,7 +33478,7 @@
 
 ### Chapter 126
 
-**[126:1]** <> When the LORD shall turn again the captivity of Zion, we shall be like those that dream.
+**[126:1]** > When the LORD shall turn again the captivity of Zion, we shall be like those that dream.
 
 **[126:2]** Then our mouth shall be filled with laughter and our tongue with singing; then they shall say among the Gentiles, The LORD has done great things with them.
 
@@ -33492,7 +33492,7 @@
 
 ### Chapter 127
 
-**[127:1]** <> Unless the LORD builds the house, they labour in vain that build it; unless the LORD keeps the city, the watchmen watch in vain.
+**[127:1]** > Unless the LORD builds the house, they labour in vain that build it; unless the LORD keeps the city, the watchmen watch in vain.
 
 **[127:2]** [It is] vain for you to rise up early, to come home late, to eat the bread of sorrows, because he shall give his beloved sleep.
 
@@ -33504,7 +33504,7 @@
 
 ### Chapter 128
 
-**[128:1]** <> Blessed [is] every one that fears the LORD, that walks in his ways.
+**[128:1]** > Blessed [is] every one that fears the LORD, that walks in his ways.
 
 **[128:2]** When thou shalt eat the labour of thine hands; happy [shalt] thou [be], and [it shall be] well with thee.
 
@@ -33518,7 +33518,7 @@
 
 ### Chapter 129
 
-**[129:1]** <> Many a time have they afflicted me from my youth, may Israel now say:
+**[129:1]** > Many a time have they afflicted me from my youth, may Israel now say:
 
 **[129:2]** Many a time have they afflicted me from my youth; yet they have not prevailed against me.
 
@@ -33536,7 +33536,7 @@
 
 ### Chapter 130
 
-**[130:1]** <> Out of the depths I cry unto thee, O LORD.
+**[130:1]** > Out of the depths I cry unto thee, O LORD.
 
 **[130:2]** Lord, hear my voice; let thine ears be attentive to the voice of my supplications.
 
@@ -33554,7 +33554,7 @@
 
 ### Chapter 131
 
-**[131:1]** <> LORD, my heart has not become haughty, nor mine eyes lofty; neither have I walked in grandeur, nor in wonderful things [above and] beyond that which pertains to me.
+**[131:1]** > LORD, my heart has not become haughty, nor mine eyes lofty; neither have I walked in grandeur, nor in wonderful things [above and] beyond that which pertains to me.
 
 **[131:2]** Rather [I] have [quieted] myself and caused my soul to become silent, [that I might be] as a child that is weaned of his mother, as one who is weaned from my [own] life.
 
@@ -33600,7 +33600,7 @@
 
 ### Chapter 133
 
-**[133:1]** <> Behold, how good and how pleasant [it is] for brethren to dwell together in unity!
+**[133:1]** > Behold, how good and how pleasant [it is] for brethren to dwell together in unity!
 
 **[133:2]** [It is] like the precious ointment upon the head, that runs down upon the beard, [even] Aaron's beard, that goes down to the skirts of his garments;
 
@@ -33608,7 +33608,7 @@
 
 ### Chapter 134
 
-**[134:1]** <> Behold, bless ye the LORD, all [ye] servants of the LORD, who by night stand in the house of the LORD.
+**[134:1]** > Behold, bless ye the LORD, all [ye] servants of the LORD, who by night stand in the house of the LORD.
 
 **[134:2]** Lift up your hands [in] the sanctuary, and bless the LORD.
 
@@ -33734,7 +33734,7 @@
 
 ### Chapter 138
 
-**[138:1]** <<[A Psalm] of David.>> I will praise thee with my whole heart: before the gods I will sing praises unto thee.
+**[138:1]** > I will praise thee with my whole heart: before the gods I will sing praises unto thee.
 
 **[138:2]** I will worship the temple of thy holiness and praise thy name above thy mercy and thy truth; for thou hast made thy name [to be] magnificent [and raised up] thy [spoken] word above all things.
 
@@ -33752,7 +33752,7 @@
 
 ### Chapter 139
 
-**[139:1]** <<To the Overcomer, A Psalm of David.>> O LORD, thou hast searched me and known [me].
+**[139:1]** > O LORD, thou hast searched me and known [me].
 
 **[139:2]** Thou knowest my sitting down and my rising up, thou dost understand my thoughts from afar.
 
@@ -33802,7 +33802,7 @@
 
 ### Chapter 140
 
-**[140:1]** <<To the Overcomer, A Psalm of David.>> Deliver me, O LORD, from the evil man; preserve me from the man of Violence.
+**[140:1]** > Deliver me, O LORD, from the evil man; preserve me from the man of Violence.
 
 **[140:2]** Who devise evil in [their] heart; they are continually gathered together [for] war.
 
@@ -33830,7 +33830,7 @@
 
 ### Chapter 141
 
-**[141:1]** <> LORD, I have called unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
+**[141:1]** > LORD, I have called unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 
 **[141:2]** Let my prayer be set forth before thee [as] incense, the gift of my hands [as] the evening sacrifice.
 
@@ -33852,7 +33852,7 @@
 
 ### Chapter 142
 
-**[142:1]** <<Maschil of David; A Prayer when he was in the cave.>> I shall cry unto the LORD with my voice; with my voice shall I ask the LORD for mercy.
+**[142:1]** > I shall cry unto the LORD with my voice; with my voice shall I ask the LORD for mercy.
 
 **[142:2]** I shall pour out my complaint before him; before him I shall tell of my trouble.
 
@@ -33868,7 +33868,7 @@
 
 ### Chapter 143
 
-**[143:1]** <> Hear my prayer, O LORD; give ear to my supplications for [the sake of] thy truth; answer me for [the sake of] thy righteousness.
+**[143:1]** > Hear my prayer, O LORD; give ear to my supplications for [the sake of] thy truth; answer me for [the sake of] thy righteousness.
 
 **[143:2]** And enter not into judgment with thy servant; for in thy sight shall no man living be justified.
 
@@ -33894,7 +33894,7 @@
 
 ### Chapter 144
 
-**[144:1]** <> Blessed [be] the LORD my strength, who trains my hands for the battle [and] my fingers for the war:
+**[144:1]** > Blessed [be] the LORD my strength, who trains my hands for the battle [and] my fingers for the war:
 
 **[144:2]** My mercy and my fortress; my high tower and my deliverer; my shield and [he] in whom I trust, who subdues my people under me.
 
@@ -33926,7 +33926,7 @@
 
 ### Chapter 145
 
-**[145:1]** <<David's [Psalm] of praise.>> [Aleph] I will extol thee, my God, my king, and I will bless thy name for ever and ever.
+**[145:1]** > [Aleph] I will extol thee, my God, my king, and I will bless thy name for ever and ever.
 
 **[145:2]** [Beth] Each day will I bless thee, and I will praise thy name for ever and ever.
 
@@ -35272,7 +35272,7 @@
 
 **[20:13]** Do not love sleep lest thou come to poverty; open thine eyes, [and] thou shalt be satisfied with bread.
 
-**[20:14]** [It is] bad, [it is[ bad, the buyer says; but when he is gone his way, then he boasts.
+**[20:14]** [It is] bad, [it is[bad, the buyer says; but when he is gone his way, then he boasts.
 
 **[20:15]** There is gold and a multitude of precious stones, but the lips of wisdom [are] a precious vessel.
 

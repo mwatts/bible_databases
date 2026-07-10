@@ -64,7 +64,7 @@
 
 **[1:30]** Men, tout bèt ki sou tè a, tout zwazo ki nan syèl la, tout bèt ki trennen sou vant, wi tout bèt vivan, m'ap ba yo zèb vèt pou yo manje. Se konsa sa te pase.
 
-**[1:31]** Bondye gade sa l' te fè a, li wè l' bon nèt. Yon lannwit pase, yon maten rive. Se te sizyèm jou a.  
+**[1:31]** Bondye gade sa l' te fè a, li wè l' bon nèt. Yon lannwit pase, yon maten rive. Se te sizyèm jou a.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Se poutèt sa, gason an va kite papa l' ak manman l' pou l' mete tèt li ansanm ak madanm li, pou tout de fè yon sèl.
 
-**[2:25]** Nonm lan ak madanm li te toutouni. Men, yo pa t' wont rete konsa.  
+**[2:25]** Nonm lan ak madanm li te toutouni. Men, yo pa t' wont rete konsa.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** Se konsa, Seyè a, Bondye a, mete Adan deyò nan jaden Edenn lan. Li voye l' al travay tè, menm tè Bondye te pran pou fè l' la.
 
-**[3:24]** Se konsa, li te mete Adan deyò. Sou bò kote solèy leve nan jaden an, li mete kèk zanj cheriben ak yon manchèt klere kou dife nan men yo. Yo t'ap dragonnen nan tout direksyon pou anpeche moun pwoche bò pyebwa ki bay lavi a.  
+**[3:24]** Se konsa, li te mete Adan deyò. Sou bò kote solèy leve nan jaden an, li mete kèk zanj cheriben ak yon manchèt klere kou dife nan men yo. Yo t'ap dragonnen nan tout direksyon pou anpeche moun pwoche bò pyebwa ki bay lavi a.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** Adan te kouche ak madanm li ankò. Madanm li fè yon ti gason. Madanm lan di: Bondye ban m' yon lòt gason pou ranplase Abèl Kayen te touye a. Li rele l' Sèt.
 
-**[4:26]** Sèt, pou tèt pa l', vin gen yon pitit gason, li rele l' Enòk. Se lè sa a moun konmanse fè sèvis pou Seyè a.  
+**[4:26]** Sèt, pou tèt pa l', vin gen yon pitit gason, li rele l' Enòk. Se lè sa a moun konmanse fè sèvis pou Seyè a.
 
 ### Chapter 5
 
@@ -286,7 +286,7 @@
 
 **[5:31]** Lè Lemèk mouri, li te gen sètsanswasanndisetan (777 an).
 
-**[5:32]** Noe te gen senksanzan (500 an) lè li vin gen twa pitit gason: Sèm, Kam ak Jafè.  
+**[5:32]** Noe te gen senksanzan (500 an) lè li vin gen twa pitit gason: Sèm, Kam ak Jafè.
 
 ### Chapter 6
 
@@ -332,7 +332,7 @@
 
 **[6:21]** Ou menm bò pa ou, ranmase tout kalite manje, mezi ou kapab. Fè yon bèl pwovizyon mete la pou ou ka jwenn manje pou ou manje ansanm ak tout bèt yo tou.
 
-**[6:22]** Se konsa Noe fè tout sa Bondye te ba li lòd fè a. Wi, se sa menm li te fè.  
+**[6:22]** Se konsa Noe fè tout sa Bondye te ba li lòd fè a. Wi, se sa menm li te fè.
 
 ### Chapter 7
 
@@ -382,7 +382,7 @@
 
 **[7:23]** Se konsa, Seyè a detwi tout bèt, tout sa ki te sou latè, depi ou tande se moun jouk zannimo domestik, bèt ki trennen sou vant ak zwazo k'ap vole nan syèl la. Yo tout yo disparèt sou latè. Sèl moun ki te rete se te Noe avèk lòt moun ki te nan batiman an ansanm ak li yo.
 
-**[7:24]** Apre sa, dlo a rete anwo tè a pandan sansenkant (150) jou.  
+**[7:24]** Apre sa, dlo a rete anwo tè a pandan sansenkant (150) jou.
 
 ### Chapter 8
 
@@ -428,7 +428,7 @@
 
 **[8:21]** Lè Bondye pran bon sant lan, sa te fè l' plezi. Li di nan kè l' -Mwen p'ap janm bay tè a madichon ankò poutèt sa lèzòm fè, paske depi yo jenn, se move lide ase ki nan kè yo. Mwen p'ap janm detwi tout bèt vivan yo ankò, jan mwen sot fè l' la.
 
-**[8:22]** Toutotan latè a la, va gen yon lè pou plante, yon lè pou rekòlte, va gen sezon fredi ak sezon chalè, va gen sezon sèk, ak sezon lapli, va gen lajounen, va gen lannwit. Wi, toutotan latè a la, bagay sa yo p'ap janm sispann.  
+**[8:22]** Toutotan latè a la, va gen yon lè pou plante, yon lè pou rekòlte, va gen sezon fredi ak sezon chalè, va gen sezon sèk, ak sezon lapli, va gen lajounen, va gen lannwit. Wi, toutotan latè a la, bagay sa yo p'ap janm sispann.
 
 ### Chapter 9
 
@@ -488,7 +488,7 @@
 
 **[9:28]** Apre gwo inondasyon an, Noe viv twasansenkantan (350 an).
 
-**[9:29]** Lè l' mouri, li te gen nèfsansenkantan (950 an).  
+**[9:29]** Lè l' mouri, li te gen nèfsansenkantan (950 an).
 
 ### Chapter 10
 
@@ -554,7 +554,7 @@
 
 **[10:31]** Se tout pitit ak pitit pitit Sèm yo sa, yo chak sou tè pa yo, yo chak ak lang pa yo. Yo t'ap viv ansanm, fanmi ak fanmi, nasyon ak nasyon.
 
-**[10:32]** tout moun sa yo se branch fanmi pitit Noe yo, dapre zansèt yo, nasyon pa nasyon. Apre gwo inondasyon an, tout nasyon ki sou latè soti nan pitit Noe yo.  
+**[10:32]** tout moun sa yo se branch fanmi pitit Noe yo, dapre zansèt yo, nasyon pa nasyon. Apre gwo inondasyon an, tout nasyon ki sou latè soti nan pitit Noe yo.
 
 ### Chapter 11
 
@@ -620,7 +620,7 @@
 
 **[11:31]** Terak pran pitit li, Abram, pitit pitit li, Lòt, ki te pitit Aran, ansanm ak bèlfi li Sarayi ki te madanm Abram, pitit li. Li pati ak yo, li kite lavil Our nan peyi Kalde pou li ale nan peyi Kanaran. Men lè yo rive lavil Karan, yo te rete la.
 
-**[11:32]** Se la Terak mouri. Li te gen desansenkan (205 an).  
+**[11:32]** Se la Terak mouri. Li te gen desansenkan (205 an).
 
 ### Chapter 12
 
@@ -662,7 +662,7 @@
 
 **[12:19]** Poukisa ou te di m' se sè ou li ye? Mwen pa ta janm pran l' pou madanm mwen. Monchè, men madanm ou. Pran l', al fè wout ou.
 
-**[12:20]** Farawon an pase moun li yo lòd pou fè Abram pati kite peyi a, li menm ansanm ak madanm li avèk tout sa ki te pou li.  
+**[12:20]** Farawon an pase moun li yo lòd pou fè Abram pati kite peyi a, li menm ansanm ak madanm li avèk tout sa ki te pou li.
 
 ### Chapter 13
 
@@ -700,7 +700,7 @@
 
 **[13:17]** Bon. Koulye a, ou mèt pwonmennen mache nan tout peyi a, paske se ou menm mwen pral bay li.
 
-**[13:18]** Se konsa, Abram ranmase tout zafè l', li vin rete bò pye bwadchenn Manmre yo, toupre Ebwon. Se la li bati yon lotèl pou Seyè a.  
+**[13:18]** Se konsa, Abram ranmase tout zafè l', li vin rete bò pye bwadchenn Manmre yo, toupre Ebwon. Se la li bati yon lotèl pou Seyè a.
 
 ### Chapter 14
 
@@ -750,7 +750,7 @@
 
 **[14:23]** mwen p'ap pran anyen nan sa ki pou ou, li te mèt yon ti moso fil, yon kòd sapat. Konsa, ou p'ap janm ka di se ou menm ki fè Abram rich.
 
-**[14:24]** Mwen pa bezwen anyen pou tèt pa m'. Men, m'ap asepte sa moun mwen yo te manje, ansanm ak pòsyon ki pou moun ki te mache avè m' yo. Wi, se pou Ane, Echkòl ak Manmre pran sa ki vin pou yo a.  
+**[14:24]** Mwen pa bezwen anyen pou tèt pa m'. Men, m'ap asepte sa moun mwen yo te manje, ansanm ak pòsyon ki pou moun ki te mache avè m' yo. Wi, se pou Ane, Echkòl ak Manmre pran sa ki vin pou yo a.
 
 ### Chapter 15
 
@@ -794,7 +794,7 @@
 
 **[15:20]** moun Et yo, moun Ferezi yo, moun refayim yo,
 
-**[15:21]** moun Amori yo, moun Kanaran yo, moun Gigach yo ak moun Jebis yo rete.  
+**[15:21]** moun Amori yo, moun Kanaran yo, moun Gigach yo ak moun Jebis yo rete.
 
 ### Chapter 16
 
@@ -828,7 +828,7 @@
 
 **[16:15]** Aga fè yon pitit gason pou Abram. Abram rele pitit la Izmayèl.
 
-**[16:16]** Abram te gen katrevensizan lè Aga te fè Izmayèl.  
+**[16:16]** Abram te gen katrevensizan lè Aga te fè Izmayèl.
 
 ### Chapter 17
 
@@ -884,7 +884,7 @@
 
 **[17:26]** Yo tout de, yo sikonsi yo menm jou
 
-**[17:27]** ansanm ak tout domestik ki te lakay li, kit yo te fèt la, kit se achte li te achte yo nan men moun lòt nasyon yo.  
+**[17:27]** ansanm ak tout domestik ki te lakay li, kit yo te fèt la, kit se achte li te achte yo nan men moun lòt nasyon yo.
 
 ### Chapter 18
 
@@ -952,7 +952,7 @@
 
 **[18:32]** Abraram di ankò. Tanpri, Seyè, pa fache sou mwen non. M'ap di yon dènye mo. Si ou jwenn dis inonsan ase? Seyè a reponn li. Si mwen jwenn dis inonsan, m'ap fè pa lavil la.
 
-**[18:33]** Apre li fin pale ak Abraram, Seyè a al fè wout li. Abraram menm tounen lakay li.  
+**[18:33]** Apre li fin pale ak Abraram, Seyè a al fè wout li. Abraram menm tounen lakay li.
 
 ### Chapter 19
 
@@ -1030,7 +1030,7 @@
 
 **[19:37]** Pi gran an fè yon pitit gason, li rele l' Moab. Se li menm ki zansèt moun Moab yo ki la jouk koulye a.
 
-**[19:38]** Pi piti a tout fè yon pitit gason. Li rele l' Bennami. Se li menm ki zansèt moun Amon yo ki la jouk jòdi a.  
+**[19:38]** Pi piti a tout fè yon pitit gason. Li rele l' Bennami. Se li menm ki zansèt moun Amon yo ki la jouk jòdi a.
 
 ### Chapter 20
 
@@ -1068,7 +1068,7 @@
 
 **[20:17]** -
 
-**[20:18]** Poutèt sa ki te rive Sara, madanm Abraram lan, Seyè a te fè tout fanm lakay Abimelèk pa t' kapab fè pitit. Abraram lapriyè pou Abimelèk, epi Bondye geri li. Bondye geri madanm li tout ansanm ak medam k'ap travay lakay li pou yo kapab fè pitit ankò.  
+**[20:18]** Poutèt sa ki te rive Sara, madanm Abraram lan, Seyè a te fè tout fanm lakay Abimelèk pa t' kapab fè pitit. Abraram lapriyè pou Abimelèk, epi Bondye geri li. Bondye geri madanm li tout ansanm ak medam k'ap travay lakay li pou yo kapab fè pitit ankò.
 
 ### Chapter 21
 
@@ -1138,7 +1138,7 @@
 
 **[21:33]** Se la Bècheba Abraram plante yon pye tonmaren. Lèfini li fè sèvis pou Seyè a, Bondye ki la pou tout tan an.
 
-**[21:34]** Apre sa, Abraram rete kèk lanne ankò nan peyi Filisti a.  
+**[21:34]** Apre sa, Abraram rete kèk lanne ankò nan peyi Filisti a.
 
 ### Chapter 22
 
@@ -1188,7 +1188,7 @@
 
 **[22:23]** Se Betwèl ki papa Rebeka. Se wit gason sa yo Milka te fè pou Nakò, frè Abraram lan.
 
-**[22:24]** Reouma, fanm kay Nakò a te fè pitit tout pou li: se te Tebak, Gam, Tach ak Maka.  
+**[22:24]** Reouma, fanm kay Nakò a te fè pitit tout pou li: se te Tebak, Gam, Tach ak Maka.
 
 ### Chapter 23
 
@@ -1230,7 +1230,7 @@
 
 **[23:19]** Apre sa, Abraram antere Sara, madanm li, nan twou wòch ki te nan jaden Makpela a, anfas Manmre yo rele Ebwon an, nan peyi Kanaran.
 
-**[23:20]** Se konsa, Abraram achte jaden an ak tout twou wòch ki te ladan l' lan, nan men moun Et yo, li fè l' sèvi simityè pou li.  
+**[23:20]** Se konsa, Abraram achte jaden an ak tout twou wòch ki te ladan l' lan, nan men moun Et yo, li fè l' sèvi simityè pou li.
 
 ### Chapter 24
 
@@ -1366,7 +1366,7 @@
 
 **[24:66]** Domestik la rakonte Izarak tout sa li te fè.
 
-**[24:67]** Izarak mennen Rebeka lakay li, kay ki te pou Sara, manman l' lan. Li pran l' pou madanm li. Izarak te renmen Rebeka. Se konsa li te jwenn konsolasyon, apre li te fin pèdi manman l' lan.  
+**[24:67]** Izarak mennen Rebeka lakay li, kay ki te pou Sara, manman l' lan. Li pran l' pou madanm li. Izarak te renmen Rebeka. Se konsa li te jwenn konsolasyon, apre li te fin pèdi manman l' lan.
 
 ### Chapter 25
 
@@ -1436,7 +1436,7 @@
 
 **[25:33]** Jakòb di li: -Fè m' sèman anvan. Ezaou fè sèman ba li, li vann li dwa l' kòm premye pitit.
 
-**[25:34]** Lèfini, Jakòb ba li pen ak ti gout nan bouyon pwa a. Ezaou manje, li bwè. Li leve, li pati. Konsa, Ezaou te konsidere dwa li kòm premye pitit pou anyen.  
+**[25:34]** Lèfini, Jakòb ba li pen ak ti gout nan bouyon pwa a. Ezaou manje, li bwè. Li leve, li pati. Konsa, Ezaou te konsidere dwa li kòm premye pitit pou anyen.
 
 ### Chapter 26
 
@@ -1508,7 +1508,7 @@
 
 **[26:34]** Ezaou te gen karantan lè l' marye ak Jidit, pitit fi Beri, yon moun Et. Li te gen yon lòt madanm tout yo te rele Basmat, pitit fi Elon, yon moun Et tou.
 
-**[26:35]** Medam sa yo te rann Izarak ak Rebeka lavi minab.  
+**[26:35]** Medam sa yo te rann Izarak ak Rebeka lavi minab.
 
 ### Chapter 27
 
@@ -1602,7 +1602,7 @@
 
 **[27:45]** jouk tan la sispann move sou ou, jouk li va bliye sa ou te fè l' la. Lè sa a, atò, m'a voye chache ou, m'a fè ou tounen. Poukisa pou m' ta pèdi tou de pitit gason m' yo yon sèl jou a?
 
-**[27:46]** Rebeka di Izarak konsa: -Mwen degoute, mwen bouke ak bann fi Et sa yo. Pase pou m' ta wè Jakòb pran yonn nan moun sa yo, yonn nan bann fi Et sa yo k'ap viv nan peyi a pou madanm, pito m' mouri!  
+**[27:46]** Rebeka di Izarak konsa: -Mwen degoute, mwen bouke ak bann fi Et sa yo. Pase pou m' ta wè Jakòb pran yonn nan moun sa yo, yonn nan bann fi Et sa yo k'ap viv nan peyi a pou madanm, pito m' mouri!
 
 ### Chapter 28
 
@@ -1648,7 +1648,7 @@
 
 **[28:21]** si l' fè m' tounen ak kè poze lakay papa m', Seyè a va Bondye m' vre.
 
-**[28:22]** Wòch sa a mwen plante nan tè tankou bòn lan va sèvi kay pou Bondye. m'a ba ou yon dizyèm nan tout sa ou va ban mwen.  
+**[28:22]** Wòch sa a mwen plante nan tè tankou bòn lan va sèvi kay pou Bondye. m'a ba ou yon dizyèm nan tout sa ou va ban mwen.
 
 ### Chapter 29
 
@@ -1720,7 +1720,7 @@
 
 **[29:34]** Li vin ansent yon twazyèm fwa, li fè yon lòt pitit gason ankò. Li di: -Fwa sa a, mari m' pral rete avè m' nèt paske mwen fè twa pitit gason pou li. Se konsa li rele l' Levi.
 
-**[29:35]** Apre sa, li vin ansent ankò, li fè yon lòt pitit gason. Li di: -Fwa sa a, m'ap fè lwanj Seyè a. Se konsa li rele l' Jida. Apre sa, Leya sispann fè pitit.  
+**[29:35]** Apre sa, li vin ansent ankò, li fè yon lòt pitit gason. Li di: -Fwa sa a, m'ap fè lwanj Seyè a. Se konsa li rele l' Jida. Apre sa, Leya sispann fè pitit.
 
 ### Chapter 30
 
@@ -1808,7 +1808,7 @@
 
 **[30:42]** Men, li pa mete branch yo lè se bèt mèg yo k'ap kwaze. Se konsa, bèt mèg yo vin pou Laban, epi bèt gra yo vin pou Jakòb.
 
-**[30:43]** Jakòb vin rich anpil, Li te gen anpil bèt. Kanta pou sèvant, domestik, chamo ak bourik, li pa t' manke sa.  
+**[30:43]** Jakòb vin rich anpil, Li te gen anpil bèt. Kanta pou sèvant, domestik, chamo ak bourik, li pa t' manke sa.
 
 ### Chapter 31
 
@@ -1920,7 +1920,7 @@
 
 **[31:54]** Apre sa, li touye yon bèt, li ofri l' bay Bondye sou mòn lan, epi li envite moun pa l' yo vin manje. Lè yo fin manje, yo pase nwit la sou mòn lan.
 
-**[31:55]** Nan denmen maten byen bonè, Laban leve, li bo pitit pitit li yo ak pitit fi li yo. Li beni yo. Apre sa, li pati, li tounen lakay li.  
+**[31:55]** Nan denmen maten byen bonè, Laban leve, li bo pitit pitit li yo ak pitit fi li yo. Li beni yo. Apre sa, li pati, li tounen lakay li.
 
 ### Chapter 32
 
@@ -1986,7 +1986,7 @@
 
 **[32:31]** Solèy te gen tan ap leve lè Jakòb kite Penyèl, li t'ap bwete poutèt ren li.
 
-**[32:32]** Se poutèt sa, jouk jòdi a, pitit pitit Izrayèl yo pa manje venn ki kenbe zo ren an, paske se sou venn sa a Bondye te frape Jakòb.  
+**[32:32]** Se poutèt sa, jouk jòdi a, pitit pitit Izrayèl yo pa manje venn ki kenbe zo ren an, paske se sou venn sa a Bondye te frape Jakòb.
 
 ### Chapter 33
 
@@ -2028,7 +2028,7 @@
 
 **[33:19]** Li achte moso tè kote li te moute tant li a pou san (100) pyès lajan nan men pitit Amò yo. Se Amò sa a ki te papa Sichèm.
 
-**[33:20]** Jakòb bati yon lotèl la tou. Li rele l': Bondye se Bondye Izrayèl la.  
+**[33:20]** Jakòb bati yon lotèl la tou. Li rele l': Bondye se Bondye Izrayèl la.
 
 ### Chapter 34
 
@@ -2092,7 +2092,7 @@
 
 **[34:30]** Apre sa, Jakòb rele Simeyon ak Levi, li di yo: -Gade nan ki traka nou mete m'. Koulye a, moun ki rete nan peyi a, moun Kanaran yo ak moun Perezi yo, pral rayi m'. Mwen pa gen anpil moun. Si yo mete ansanm sou do mwen pou atake m', y'ap touye m' ansanm ak tout moun lakay mwen.
 
-**[34:31]** Men Simeyon ak Levi reponn: -Atò, se pou nou te kite yo trete sè nou an tankou nenpòt jennès!  
+**[34:31]** Men Simeyon ak Levi reponn: -Atò, se pou nou te kite yo trete sè nou an tankou nenpòt jennès!
 
 ### Chapter 35
 
@@ -2152,7 +2152,7 @@
 
 **[35:28]** Izarak te gen sankatreven lanne sou tèt li
 
-**[35:29]** lè li mouri. Li te fin granmoun, li te wè kont jou li lè l' al jwenn moun li yo ki te mouri deja. Ezaou ak Jakòb, pitit gason l' yo, antere li.  
+**[35:29]** lè li mouri. Li te fin granmoun, li te wè kont jou li lè l' al jwenn moun li yo ki te mouri deja. Ezaou ak Jakòb, pitit gason l' yo, antere li.
 
 ### Chapter 36
 
@@ -2240,7 +2240,7 @@
 
 **[36:42]** Kenaz, Teman, Mibza,
 
-**[36:43]** Magdiyèl, Iram. Se non chèf Edon yo sa ansanm ak non kote yo te rete nan peyi a. Se Ezaou ki papa yo tout nan peyi Edon.  
+**[36:43]** Magdiyèl, Iram. Se non chèf Edon yo sa ansanm ak non kote yo te rete nan peyi a. Se Ezaou ki papa yo tout nan peyi Edon.
 
 ### Chapter 37
 
@@ -2314,7 +2314,7 @@
 
 **[37:35]** tout lòt gason l' yo ansanm ak pitit fi l' yo te vin ba l' kouraj, men li te refize tande sa yo t'ap di l'. Li t'ap plede repete: -M'ap kriye pou pitit gason m' lan jouk m al jwenn li lè m'a mouri. Se konsa li t'ap kriye pou pitit gason l' lan.
 
-**[37:36]** Pandan tout tan sa a, moun Madyan yo te gen tan vann Jozèf nan peyi Lejip ak Potifa, yonn nan chèf lame farawon an. Se li menm ki te kòmandan gad palè yo.  
+**[37:36]** Pandan tout tan sa a, moun Madyan yo te gen tan vann Jozèf nan peyi Lejip ak Potifa, yonn nan chèf lame farawon an. Se li menm ki te kòmandan gad palè yo.
 
 ### Chapter 38
 
@@ -2376,7 +2376,7 @@
 
 **[38:29]** Men pitit la rale men an antre, epi se lòt frè a ki soti anvan. Fanmchay la di: -Se konsa ou fè chemen pou ou pase! Se poutèt sa yo rele l' Perèz.
 
-**[38:30]** Apre sa, frè li a soti ak fil wouj la mare nan men l'. Yo rele l' Zerak.  
+**[38:30]** Apre sa, frè li a soti ak fil wouj la mare nan men l'. Yo rele l' Zerak.
 
 ### Chapter 39
 
@@ -2424,7 +2424,7 @@
 
 **[39:22]** Li mete l' veye tout lòt prizonye yo. Se li menm ki te reskonsab tout bagay nan prizon an.
 
-**[39:23]** Depi li te renmèt yon bagay nan men Jozèf, li pa t' bezwen okipe anyen ankò paske Seyè a te la avèk Jozèf. Seyè a te fè tout zafè l' mache byen.  
+**[39:23]** Depi li te renmèt yon bagay nan men Jozèf, li pa t' bezwen okipe anyen ankò paske Seyè a te la avèk Jozèf. Seyè a te fè tout zafè l' mache byen.
 
 ### Chapter 40
 
@@ -2472,7 +2472,7 @@
 
 **[40:22]** Men, li fè pann chèf boulanje a, jan Jozèf te di yo a.
 
-**[40:23]** Men, chèf kanbiz la pa dòmi reve Jozèf, li bliye l' nèt.  
+**[40:23]** Men, chèf kanbiz la pa dòmi reve Jozèf, li bliye l' nèt.
 
 ### Chapter 41
 
@@ -2588,7 +2588,7 @@
 
 **[41:56]** Lè grangou a te toupatou nan peyi Lejip la, Jozèf louvri tout depo yo. Li vann moun peyi Lejip yo ble, paske grangou a te rèd anpil nan peyi Lejip la.
 
-**[41:57]** Moun soti toupatou nan tout lòt peyi yo vin achte ble nan men Jozèf nan peyi Lejip, paske grangou a te rèd anpil toupatou sou latè.  
+**[41:57]** Moun soti toupatou nan tout lòt peyi yo vin achte ble nan men Jozèf nan peyi Lejip, paske grangou a te rèd anpil toupatou sou latè.
 
 ### Chapter 42
 
@@ -2666,7 +2666,7 @@
 
 **[42:37]** Woubenn di papa l' konsa: -Papa, ou mèt touye de pitit gason m' yo, si m' pa mennen Benjamen tounen ba ou. Ou mèt renmèt mwen li nan men, m'ap mennen l' tounen ba ou.
 
-**[42:38]** Men Jakòb te di: -Pitit gason m' lan p'ap fè yon pa. Frè li a fin mouri. Se li menm sèl ki rete nan pitit manman l' yo. Si pou yon malè ta rive l' nan vwayaj nou pral fè a, m'a mouri. Mwen fin granmoun, lapenn sa a va twòp pou mwen, la fin pote m' ale.  
+**[42:38]** Men Jakòb te di: -Pitit gason m' lan p'ap fè yon pa. Frè li a fin mouri. Se li menm sèl ki rete nan pitit manman l' yo. Si pou yon malè ta rive l' nan vwayaj nou pral fè a, m'a mouri. Mwen fin granmoun, lapenn sa a va twòp pou mwen, la fin pote m' ale.
 
 ### Chapter 43
 
@@ -2736,7 +2736,7 @@
 
 **[43:33]** Frè Jozèf yo te chita anfas li. Yo te mete yo chita dapre laj yo, depi pi gran an jouk pi piti. Lè yo wè sa, yo te sezi, yonn gade lòt.
 
-**[43:34]** Jozèf te fè yo pran manje sou tab li pote ba yo. Benjamen te resevwa senk fwa plis pase lòt yo. Yo manje, yo bwè, yo fete ansanm avè l'.  
+**[43:34]** Jozèf te fè yo pran manje sou tab li pote ba yo. Benjamen te resevwa senk fwa plis pase lòt yo. Yo manje, yo bwè, yo fete ansanm avè l'.
 
 ### Chapter 44
 
@@ -2806,7 +2806,7 @@
 
 **[44:33]** Se poutèt sa, mèt, tanpri, kite ti bway la ale avèk frè l' yo, kite m' pran plas li. Gade m' pou esklav ou.
 
-**[44:34]** Mwen pa konnen ki pye pou m' ta mete devan pou m' tounen kay papa m' san ti gason an pa avèk nou. Mwen pa ta vle wè lapenn sa a tonbe sou papa m'.  
+**[44:34]** Mwen pa konnen ki pye pou m' ta mete devan pou m' tounen kay papa m' san ti gason an pa avèk nou. Mwen pa ta vle wè lapenn sa a tonbe sou papa m'.
 
 ### Chapter 45
 
@@ -2864,7 +2864,7 @@
 
 **[45:27]** Men, lè yo rakonte l' tout sa Jozèf te di yo, lè li wè cha Jozèf te voye pou l' te ka vwayaje a, Jakòb gen yon sèl kontantman ki pran l'.
 
-**[45:28]** Li di yo: -Se kont. Jozèf, pitit mwen an, vivan toujou. Fòk m ale pou m' ka wè l' anvan m' mouri.  
+**[45:28]** Li di yo: -Se kont. Jozèf, pitit mwen an, vivan toujou. Fòk m ale pou m' ka wè l' anvan m' mouri.
 
 ### Chapter 46
 
@@ -2934,7 +2934,7 @@
 
 **[46:33]** Lè farawon an va rele nou pou mande nou ki metye nou,
 
-**[46:34]** n'a reponn li: Monwa, depi nou tout piti jouk koulye a, se bèt n'ap gade, tankou tout zansèt nou yo. Konsa, nou ka rete nan peyi Gochenn lan. Li te di yo sa paske moun peyi Lejip yo pa ka sipòte wè moun k'ap gade bèt viv nan mitan yo.  
+**[46:34]** n'a reponn li: Monwa, depi nou tout piti jouk koulye a, se bèt n'ap gade, tankou tout zansèt nou yo. Konsa, nou ka rete nan peyi Gochenn lan. Li te di yo sa paske moun peyi Lejip yo pa ka sipòte wè moun k'ap gade bèt viv nan mitan yo.
 
 ### Chapter 47
 
@@ -2998,7 +2998,7 @@
 
 **[47:30]** Mwen vle pou yo antere m' menm kote ak zansèt mwen yo, lè m aval jwenn fanmi mwen yo ki mouri deja a. Se pou ou pran kadav mwen, pote l' soti peyi Lejip, al antere l' nan kavo fanmi m' yo. Jozèf reponn li: -m'a fè jan ou mande m' lan.
 
-**[47:31]** Men, Jakòb di Jozèf konsa: -Fè m' sèman w'ap fè sa pou mwen! Jozèf sèmante ba li. Apre sa, Izrayèl bese kouche nan kabann li.  
+**[47:31]** Men, Jakòb di Jozèf konsa: -Fè m' sèman w'ap fè sa pou mwen! Jozèf sèmante ba li. Apre sa, Izrayèl bese kouche nan kabann li.
 
 ### Chapter 48
 
@@ -3044,7 +3044,7 @@
 
 **[48:21]** Apre sa, Izrayèl di Jozèf: -Gade. Mwen pral mouri. Men Bondye ap la avèk ou. La fè ou tounen nan peyi zansèt ou yo.
 
-**[48:22]** Se pa pou lòt moun nan frè ou yo, se pou ou m'ap kite moso tè Sichèm lan. Se pòsyon tè sa a mwen te pran nan men moun Amori yo anba gwo goumen.  
+**[48:22]** Se pa pou lòt moun nan frè ou yo, se pou ou m'ap kite moso tè Sichèm lan. Se pòsyon tè sa a mwen te pran nan men moun Amori yo anba gwo goumen.
 
 ### Chapter 49
 
@@ -3112,7 +3112,7 @@
 
 **[49:32]** Se nan men mesye Et yo nou te achte jaden an ak tout twou wòch ki sou li a.
 
-**[49:33]** Lè Jakòb fin pale konsa ak pitit gason l' yo, li lonje kò l' sou kabann lan, li mouri, li al jwenn fanmi li yo ki te mouri deja.  
+**[49:33]** Lè Jakòb fin pale konsa ak pitit gason l' yo, li lonje kò l' sou kabann lan, li mouri, li al jwenn fanmi li yo ki te mouri deja.
 
 ### Chapter 50
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** Apre sa, Jozèf fè pitit Izrayèl yo sèmante ba li, li di yo: -Wi, Bondye gen pou vin ede nou. Lè sa a, tanpri, pote zosman m' yo moute ak nou.
 
-**[50:26]** Lè Jozèf mouri li te gen sandizan (110 an). Yo benyen kadav la, yo pare l' pou l' pa pouri. Yo mete l' nan yon sèkèy byen fèmen nan peyi Lejip.   
+**[50:26]** Lè Jozèf mouri li te gen sandizan (110 an). Yo benyen kadav la, yo pare l' pou l' pa pouri. Yo mete l' nan yon sèkèy byen fèmen nan peyi Lejip.
 
 ## Exodus
 
@@ -3214,7 +3214,7 @@
 
 **[1:21]** Paske fanmchay yo te gen krentif pou Bondye, Bondye te ba yo anpil pitit.
 
-**[1:22]** Lè sa a, farawon an bay pèp la lòd sa a: -Se pou nou jete tout ti gason ki fèt lakay moun ebre yo nan gwo larivyè a. Men, kite tout ti fi yo viv.  
+**[1:22]** Lè sa a, farawon an bay pèp la lòd sa a: -Se pou nou jete tout ti gason ki fèt lakay moun ebre yo nan gwo larivyè a. Men, kite tout ti fi yo viv.
 
 ### Chapter 2
 
@@ -3266,7 +3266,7 @@
 
 **[2:24]** Bondye tande rèl yo, li vin chonje kontra li te pase ak Abraram ak Izarak epi ak Jakòb.
 
-**[2:25]** Bondye te wè nan ki sitiyasyon moun pèp Izrayèl yo ye, li pran kòz yo nan men l'.  
+**[2:25]** Bondye te wè nan ki sitiyasyon moun pèp Izrayèl yo ye, li pran kòz yo nan men l'.
 
 ### Chapter 3
 
@@ -3312,7 +3312,7 @@
 
 **[3:21]** m'a fè mèvèy jouk tan moun peyi Lejip yo va aji byen ak pèp mwen an. Konsa, lè n'a pare pou nou pati kite yo, nou p'ap soti san anyen nan men nou.
 
-**[3:22]** Chak fanm va mande vwazin li pou yo ba li rad ak bijou an ajan ak bijou an lò. L'a fè menm bagay la ak fanm pèyi Lejip ki rete lakay li yo. Lèfini, n'a mete yo sou pitit gason ak pitit fi nou yo. Konsa, n'a pran tou sa moun peyi Lejip yo genyen.  
+**[3:22]** Chak fanm va mande vwazin li pou yo ba li rad ak bijou an ajan ak bijou an lò. L'a fè menm bagay la ak fanm pèyi Lejip ki rete lakay li yo. Lèfini, n'a mete yo sou pitit gason ak pitit fi nou yo. Konsa, n'a pran tou sa moun peyi Lejip yo genyen.
 
 ### Chapter 4
 
@@ -3376,7 +3376,7 @@
 
 **[4:30]** Arawon di yo tou sa Seyè a te di Moyiz. Moyiz menm fè tout mirak yo devan tout pèp la.
 
-**[4:31]** Pèp la vin kwè yo. Lè yo tande Seyè a te vin vizite yo, li te wè mizè y'ap pase a, yo tonbe ajenou, yo bese tèt yo jouk atè pou adore Bondye.  
+**[4:31]** Pèp la vin kwè yo. Lè yo tande Seyè a te vin vizite yo, li te wè mizè y'ap pase a, yo tonbe ajenou, yo bese tèt yo jouk atè pou adore Bondye.
 
 ### Chapter 5
 
@@ -3424,7 +3424,7 @@
 
 **[5:22]** Lè sa a, Moyiz tounen al jwenn Seyè a ankò, li di l': -Seyè, poukisa w'ap maltrete pèp la konsa? Poukisa ou te voye m'?
 
-**[5:23]** Depi menm lè mwen t al bò kote farawon an pou m' pale avè l' pou ou a, se maltrete l'ap maltrete pèp ou a. Epi ou pa fè anyen pou delivre pèp la.  
+**[5:23]** Depi menm lè mwen t al bò kote farawon an pou m' pale avè l' pou ou a, se maltrete l'ap maltrete pèp ou a. Epi ou pa fè anyen pou delivre pèp la.
 
 ### Chapter 6
 
@@ -3486,7 +3486,7 @@
 
 **[6:29]** -Se mwen menm ki Seyè a! Tou sa mwen di ou la a, se pou ou rapòte l' bay farawon an, wa Lejip la.
 
-**[6:30]** Men Moyiz koupe pawòl nan bouch Seyè a, li di l': -Pawòl pa vin nan bouch mwen fasil. Ou kwè farawon an pral chita tande m'?  
+**[6:30]** Men Moyiz koupe pawòl nan bouch Seyè a, li di l': -Pawòl pa vin nan bouch mwen fasil. Ou kwè farawon an pral chita tande m'?
 
 ### Chapter 7
 
@@ -3538,7 +3538,7 @@
 
 **[7:24]** Moun peyi Lejip yo pran fouye twou sou bò gwo larivyè a pou yo te ka jwenn dlo pròp pou yo bwè, paske yo pa t' kapab bwè dlo gwo larivyè a.
 
-**[7:25]** Apre Seyè a te fin frape gwo larivyè a, li kite sèt jou pase.  
+**[7:25]** Apre Seyè a te fin frape gwo larivyè a, li kite sèt jou pase.
 
 ### Chapter 8
 
@@ -3604,7 +3604,7 @@
 
 **[8:31]** Seyè a fè sa Moyiz te mande l' la. Li fè mouchavè yo soti sou farawon an, sou tout moun pa l' yo ansanm ak sou tout pèp la. Li fè yo ale byen lwen. Pa yon mouchavè pa t' rete.
 
-**[8:32]** Men, menm jou sa a, farawon an fè tèt di ankò, li pa t' vle kite pèp la ale.  
+**[8:32]** Men, menm jou sa a, farawon an fè tèt di ankò, li pa t' vle kite pèp la ale.
 
 ### Chapter 9
 
@@ -3676,7 +3676,7 @@
 
 **[9:34]** Lè farawon an wè lapli a, lagrèl la ak loraj la sispann, li kontinye fè peche toujou. Li fè tèt di, li menm ansanm ak tout moun pa l' yo.
 
-**[9:35]** Nan fè tèt di sa a, li pa t' kite moun pèp Izrayèl yo ale, jan Seyè a te fè Moyiz al di l' la.  
+**[9:35]** Nan fè tèt di sa a, li pa t' kite moun pèp Izrayèl yo ale, jan Seyè a te fè Moyiz al di l' la.
 
 ### Chapter 10
 
@@ -3736,7 +3736,7 @@
 
 **[10:28]** Farawon an di Moyiz konsa: -Wete kò ou devan m'. Gade! Pa janm parèt devan m' ankò, paske jou ou ta parèt devan m' ankò, m'ap disparèt ou.
 
-**[10:29]** Moyiz reponn li: -Jan ou vle! Mwen p'ap janm parèt devan ou ankò.  
+**[10:29]** Moyiz reponn li: -Jan ou vle! Mwen p'ap janm parèt devan ou ankò.
 
 ### Chapter 11
 
@@ -3758,7 +3758,7 @@
 
 **[11:9]** Seyè a di Moyiz: -Farawon an p'ap koute ou. Konsa, m'a fè plis mèvèy toujou nan peyi Lejip.
 
-**[11:10]** Moyiz ak Arawon te fè tout mirak sa yo devan farawon an. Men farawon an pa t' vle kite moun pèp Izrayèl yo soti kite peyi a. Seyè a fè farawon an fè tèt di pi rèd toujou.  
+**[11:10]** Moyiz ak Arawon te fè tout mirak sa yo devan farawon an. Men farawon an pa t' vle kite moun pèp Izrayèl yo soti kite peyi a. Seyè a fè farawon an fè tèt di pi rèd toujou.
 
 ### Chapter 12
 
@@ -3862,7 +3862,7 @@
 
 **[12:50]** Tout moun pèp Izrayèl yo te swiv lòd la, yo te fè sa Seyè a te bay Moyiz ak Arawon lòd fè a.
 
-**[12:51]** Se jou sa a Seyè a te fè tout lame moun Izrayèl yo soti kite peyi Lejip la.  
+**[12:51]** Se jou sa a Seyè a te fè tout lame moun Izrayèl yo soti kite peyi Lejip la.
 
 ### Chapter 13
 
@@ -3908,7 +3908,7 @@
 
 **[13:21]** Lajounen, Seyè a t'ap mache devan yo nan yon gwo nwaj ki te gen fòm yon poto pou moutre yo chemen pou yo pran. Lannwit, li t'ap mache devan yo nan yon dife ki te tankou yon flanm ki t'ap klere yo. Konsa, yo te ka vwayaje lajounen kou lannwit.
 
-**[13:22]** Lajounen, nwaj la te toujou ap mache devan pèp la. Lannwit, se te dife a.  
+**[13:22]** Lajounen, nwaj la te toujou ap mache devan pèp la. Lannwit, se te dife a.
 
 ### Chapter 14
 
@@ -3972,7 +3972,7 @@
 
 **[14:30]** Sè jou sa a Seyè a te delivre pèp Izrayèl la anba men moun peyi Lejip yo. Moun pèp Izrayèl yo te wè kadav moun peyi Lejip yo sou tout bò lanmè a.
 
-**[14:31]** Yo wè sa Seyè a te fè moun peyi Lejip yo pase ak fòs ponyèt pa li. Pèp Izrayèl la vin gen krentif pou Seyè a. Yo mete konfyans yo nan Seyè a ak nan Moyiz, sèvitè l' la.  
+**[14:31]** Yo wè sa Seyè a te fè moun peyi Lejip yo pase ak fòs ponyèt pa li. Pèp Izrayèl la vin gen krentif pou Seyè a. Yo mete konfyans yo nan Seyè a ak nan Moyiz, sèvitè l' la.
 
 ### Chapter 15
 
@@ -4028,7 +4028,7 @@
 
 **[15:26]** Li di yo: -Se mwen menm ki Seyè a, Bondye nou an. Si nou koute m' lè m' pale nou, si nou fè tout sa ki dwat devan mwen, si nou louvri zòrèy nou pou swiv kòmandman mwen yo, pou nou kenbe lòd mwen ban nou, mwen p'ap voye malè sou nou, jan mwen te fè moun peyi Lejip yo. Se mwen menm, Seyè a, k'ap geri nou.
 
-**[15:27]** Apre sa, yo rive Elim, yon kote ki te gen douz sous dlo ak swasanndis pye dat. Yo rete la, yo moute tant yo bò dlo a.  
+**[15:27]** Apre sa, yo rive Elim, yon kote ki te gen douz sous dlo ak swasanndis pye dat. Yo rete la, yo moute tant yo bò dlo a.
 
 ### Chapter 16
 
@@ -4102,7 +4102,7 @@
 
 **[16:35]** Moun pèp Izrayèl yo pase karantan ap manje laman, jouk jou yo rive nan yon peyi kote yo jwenn moun rete. Kifè yo manje laman jouk yo rive sou fwontyè peyi Kanaran.
 
-**[16:36]** Twa ti mamit edmi, se valè twaka yon gwo mamit. Trannsenk ti mamit fè yon gwo bidon.  
+**[16:36]** Twa ti mamit edmi, se valè twaka yon gwo mamit. Trannsenk ti mamit fè yon gwo bidon.
 
 ### Chapter 17
 
@@ -4136,7 +4136,7 @@
 
 **[17:15]** Moyiz bati yon lòtèl, li rele l': Seyè a se drapo m'.
 
-**[17:16]** Apre sa li di: -Men mwen leve men m' devan fotèy Seyè a, Seyè a p'ap janm sispann goumen ak moun Amalèk yo.  
+**[17:16]** Apre sa li di: -Men mwen leve men m' devan fotèy Seyè a, Seyè a p'ap janm sispann goumen ak moun Amalèk yo.
 
 ### Chapter 18
 
@@ -4192,7 +4192,7 @@
 
 **[18:26]** Yo te toujou la pou rann jistis pou pèp la. Yo te pote gwo zafè yo devan Moyiz. Men ti ka piti yo, yo te regle sa yo menm.
 
-**[18:27]** Apre sa, Moyiz kite bòpè l' la pati. Epi Jetwo tounen tounen l' nan peyi l'.  
+**[18:27]** Apre sa, Moyiz kite bòpè l' la pati. Epi Jetwo tounen tounen l' nan peyi l'.
 
 ### Chapter 19
 
@@ -4244,7 +4244,7 @@
 
 **[19:24]** Lè sa a Seyè a di Moyiz: -Desann non. Epi tounen ansanm ak Arawon. Men pa kite prèt yo ak pèp la depase limit ou te ba yo a pou yo kouri vin kote m'. Si yo fè sa, m'ap touye yo.
 
-**[19:25]** Moyiz desann bò kote pèp la, li di yo tout bagay.  
+**[19:25]** Moyiz desann bò kote pèp la, li di yo tout bagay.
 
 ### Chapter 20
 
@@ -4298,7 +4298,7 @@
 
 **[20:25]** Si nou fe yon lòtèl ak ròch pou mwen, pa travay ròch n'a pran pou fè l' la. Paske lè ou travay yon ròch ak sizo, li pa ka sèvi pou mwen ankò.
 
-**[20:26]** Piga nou sèvi ak macheskalye pou nou moute sou lòtèl mwen pou moun pa wè anba rad nou.  
+**[20:26]** Piga nou sèvi ak macheskalye pou nou moute sou lòtèl mwen pou moun pa wè anba rad nou.
 
 ### Chapter 21
 
@@ -4372,7 +4372,7 @@
 
 **[21:35]** Si yon moun gen yon bèf ki touye bèf yon lòt moun ak yon koutkòn, de mesye yo va vann bèf vivan an, y'a separe lajan an mwatye pou mwatye. y'a separe vyann bèf ki mouri a tou.
 
-**[21:36]** Men, si se pa premye fwa bèf la ap bay koutkòn, si yo te pale mèt li men mèt li pa t' fè anyen pou sa, nan ka sa a, mèt bèf la gen pou peye. L'a bay yon bèf vivan pou bèf ki mouri a. Bèf mouri a menm va rete pou li.  
+**[21:36]** Men, si se pa premye fwa bèf la ap bay koutkòn, si yo te pale mèt li men mèt li pa t' fè anyen pou sa, nan ka sa a, mèt bèf la gen pou peye. L'a bay yon bèf vivan pou bèf ki mouri a. Bèf mouri a menm va rete pou li.
 
 ### Chapter 22
 
@@ -4436,7 +4436,7 @@
 
 **[22:30]** N'a ban mwen tou premye pitit bèf nou yo ak premye pitit mouton nou yo. Ti bèt la va pase sèt jou avèk manman l'. Sou wityèm jou a n'a ofri l' ban mwen.
 
-**[22:31]** Se pou nou mache tankou moun k'ap viv apa pou mwen. Pa manje vyann bèt nou jwenn lòt bèt nan bwa devore. Vyann konsa se chen pou nou jete l' bay.  
+**[22:31]** Se pou nou mache tankou moun k'ap viv apa pou mwen. Pa manje vyann bèt nou jwenn lòt bèt nan bwa devore. Vyann konsa se chen pou nou jete l' bay.
 
 ### Chapter 23
 
@@ -4504,7 +4504,7 @@
 
 **[23:32]** Piga nou pase ankenn kontra ak moun sa yo, ni ak bondye yo.
 
-**[23:33]** Se pa pou yo rete nan peyi nou an, pou yo pa ankouraje nou fè peche kont mwen. Si nou sèvi bondye moun sa yo, sa ka yon malè pou nou.  
+**[23:33]** Se pa pou yo rete nan peyi nou an, pou yo pa ankouraje nou fè peche kont mwen. Si nou sèvi bondye moun sa yo, sa ka yon malè pou nou.
 
 ### Chapter 24
 
@@ -4542,7 +4542,7 @@
 
 **[24:17]** Pou moun pèp Izrayèl yo menm, pouvwa Seyè a te parèt tankou yon gwo dife ki t'ap boule sou tèt mòn lan.
 
-**[24:18]** Moyiz antre nan mitan nwaj la, li moute sou mòn lan. Moyiz pase karant jou ak karant nwit sou mòn lan.  
+**[24:18]** Moyiz antre nan mitan nwaj la, li moute sou mòn lan. Moyiz pase karant jou ak karant nwit sou mòn lan.
 
 ### Chapter 25
 
@@ -4624,7 +4624,7 @@
 
 **[25:39]** N'a pran swasannkenz liv bon lò pou fè gwo lanp lan ansanm ak tout bagay pou sèvi ak gwo lanp lan.
 
-**[25:40]** Gade byen pou ou ka fè tout bagay dapre modèl mwen te moutre ou sou mòn lan.  
+**[25:40]** Gade byen pou ou ka fè tout bagay dapre modèl mwen te moutre ou sou mòn lan.
 
 ### Chapter 26
 
@@ -4700,7 +4700,7 @@
 
 **[26:36]** Konsa tou, w'a fè yon rido an bon twal ble, violèt ak wouj ansanm ak twal fen blan tise byen sere. Rido a va sèvi pou fèmen kote yo pase pou antre nan tant lan. y'a fè bèl bodri sou tout rido a.
 
-**[26:37]** Pou kenbe rido a, w'a fè senk poto an bwa zakasya, w'a kouvri yo ak lò, w'a moute ti kwòk an lò sou yo. y'a chita sou senk sipò an kwiv.  
+**[26:37]** Pou kenbe rido a, w'a fè senk poto an bwa zakasya, w'a kouvri yo ak lò, w'a moute ti kwòk an lò sou yo. y'a chita sou senk sipò an kwiv.
 
 ### Chapter 27
 
@@ -4744,7 +4744,7 @@
 
 **[27:20]** W'a pase pèp Izrayèl la lòd pou yo pote ba ou pi bon kalite lwil oliv ki genyen pou lanp yo. Konsa, lanp lan va toujou ka rete limen.
 
-**[27:21]** Se Arawon ak pitit li yo ki va mete lwil nan lanp sa a, ki nan Tant Randevou a pa deyè rido a, devan Bwat Kontra a. Se la gwo lanp lan va limen devan Seyè a depi aswè jouk maten. Se pou moun Izrayèl yo swiv lòd sa a pou tout tan, de pitit an pitit.  
+**[27:21]** Se Arawon ak pitit li yo ki va mete lwil nan lanp sa a, ki nan Tant Randevou a pa deyè rido a, devan Bwat Kontra a. Se la gwo lanp lan va limen devan Seyè a depi aswè jouk maten. Se pou moun Izrayèl yo swiv lòd sa a pou tout tan, de pitit an pitit.
 
 ### Chapter 28
 
@@ -4832,7 +4832,7 @@
 
 **[28:42]** W'a fè kalson ak twal fen pou yo pou kò yo pa parèt anba rad la. Kalson yo va pran depi nan ren desann wotè jenou yo.
 
-**[28:43]** Se pou Arawon ak pitit gason l' yo toujou pote kalson yo lè y'ap antre nan Tant Randevou a, osinon lè y'ap pwoche bò lòtèl la pou fè sèvis nan kote ki apa pou Bondye a. Konsa, yo p'ap fè sa ki mal, yo p'ap mouri. Sa se yon lwa k'ap la pou tout tan pou Arawon ak tout pitit pitit gason li yo apre li.  
+**[28:43]** Se pou Arawon ak pitit gason l' yo toujou pote kalson yo lè y'ap antre nan Tant Randevou a, osinon lè y'ap pwoche bò lòtèl la pou fè sèvis nan kote ki apa pou Bondye a. Konsa, yo p'ap fè sa ki mal, yo p'ap mouri. Sa se yon lwa k'ap la pou tout tan pou Arawon ak tout pitit pitit gason li yo apre li.
 
 ### Chapter 29
 
@@ -4926,7 +4926,7 @@
 
 **[29:45]** M'ap rete nan mitan pèp Izrayèl la, se mwen menm ki va Bondye yo.
 
-**[29:46]** y'a konnen se mwen menm ki Seyè a, Bondye yo a, se mwen menm ki te fè yo soti kite peyi Lejip pou m' te kapab rete nan mitan yo. Se mwen ki Seyè a, Bondye yo a.  
+**[29:46]** y'a konnen se mwen menm ki Seyè a, Bondye yo a, se mwen menm ki te fè yo soti kite peyi Lejip pou m' te kapab rete nan mitan yo. Se mwen ki Seyè a, Bondye yo a.
 
 ### Chapter 30
 
@@ -5004,7 +5004,7 @@
 
 **[30:37]** Piga ou sèvi ak menm konpozisyon sa a pou fè lansan pou sèvi pou tèt pa ou. Sa se yon bagay ki rezève pou sèvis Bondye ase.
 
-**[30:38]** Si yon moun fè yon konpozisyon menm jan an pou sèvi l' odè, se pou yo disparèt li nan mitan pèp la.  
+**[30:38]** Si yon moun fè yon konpozisyon menm jan an pou sèvi l' odè, se pou yo disparèt li nan mitan pèp la.
 
 ### Chapter 31
 
@@ -5042,7 +5042,7 @@
 
 **[31:17]** Sa va yon siy ant mwen menm ak pèp Izrayèl la, paske mwen menm, Seyè a, mwen te pran sis jou pou m' fè syèl la ak latè a. Sou setyèm jou a mwen te sispann travay, mwen te pran repo.
 
-**[31:18]** Lè Seyè a te fin pale konsa ak Moyiz sou mòn Sinayi a, li ba li de ròch plat kote li te ekri kontra a ak pròp men li.  
+**[31:18]** Lè Seyè a te fin pale konsa ak Moyiz sou mòn Sinayi a, li ba li de ròch plat kote li te ekri kontra a ak pròp men li.
 
 ### Chapter 32
 
@@ -5114,7 +5114,7 @@
 
 **[32:34]** Koulye a, ou mèt ale. W'a mennen pèp la kote mwen te di ou mennen yo a. Chonje byen. Zanj mwen an ap mache devan ou. Men, lè jou a va rive pou m' vin fè regleman ak yo a, m'ap pini yo pou peche yo.
 
-**[32:35]** Seyè a te voye yon maladi sou pèp la pou pini l', paske yo te fòse Arawon fè estati yon ti bèf pou yo.  
+**[32:35]** Seyè a te voye yon maladi sou pèp la pou pini l', paske yo te fòse Arawon fè estati yon ti bèf pou yo.
 
 ### Chapter 33
 
@@ -5162,7 +5162,7 @@
 
 **[33:22]** Lè pouvwa mwen vin ap pase, m'ap mete ou nan twou ròch la, m'a kouvri ou avèk men mwen jouk mwen fin pase.
 
-**[33:23]** Apre sa, m'a wete men m' sou ou. Se do m' ase w'a wè ki prale, men ou p'ap wè figi m'.  
+**[33:23]** Apre sa, m'a wete men m' sou ou. Se do m' ase w'a wè ki prale, men ou p'ap wè figi m'.
 
 ### Chapter 34
 
@@ -5234,7 +5234,7 @@
 
 **[34:34]** Chak fwa Moyiz antre nan tant lan devan Seyè a pou pale avè l', li toujou wete twal la jouk li soti deyò ankò. Lè l' soti, li rakonte pèp Izrayèl la tou sa Seyè a te ba li lòd di yo.
 
-**[34:35]** Lè konsa, moun pèp Izrayèl yo gade, yo wè figi Moyiz te klere byen bèl. Apre sa, Moyiz remete twal la sou figi l' ankò, pou jouk lè li antre ankò pou l' pale ak Seyè a.  
+**[34:35]** Lè konsa, moun pèp Izrayèl yo gade, yo wè figi Moyiz te klere byen bèl. Apre sa, Moyiz remete twal la sou figi l' ankò, pou jouk lè li antre ankò pou l' pale ak Seyè a.
 
 ### Chapter 35
 
@@ -5306,7 +5306,7 @@
 
 **[35:34]** Bondye ba li don pou l' moutre lòt moun metye sa yo. Se menm jan an tou pou Owoliyab, pitit Ayisamak, nan branch fanmi Dann lan.
 
-**[35:35]** Seyè a ba yo konesans ak ladrès pou yo ka fè tout kalite travay atizan ka fè, desen sou bwa, bon twal koulè ble, violèt ak wouj, twal fen blan. Wi, li ba yo ladrès pou yo ka fè tout metye, pou yo ka fè tout kalite bèl bagay.  
+**[35:35]** Seyè a ba yo konesans ak ladrès pou yo ka fè tout kalite travay atizan ka fè, desen sou bwa, bon twal koulè ble, violèt ak wouj, twal fen blan. Wi, li ba yo ladrès pou yo ka fè tout metye, pou yo ka fè tout kalite bèl bagay.
 
 ### Chapter 36
 
@@ -5384,7 +5384,7 @@
 
 **[36:37]** Pou fèmen kote yo antre nan tant lan, yo fè yon rido ak bon twal ble, violèt ak wouj, ansanm ak twal fen blan tise byen sere, bwode sou tout kò l'.
 
-**[36:38]** Yo fè senk poto avèk kwòk. Yo kouvri tèt poto yo ak trenng pou soutni rido yo ak lò. Epi yo fè senk sipò an kwiv pou poto yo.  
+**[36:38]** Yo fè senk poto avèk kwòk. Yo kouvri tèt poto yo ak trenng pou soutni rido yo ak lò. Epi yo fè senk sipò an kwiv pou poto yo.
 
 ### Chapter 37
 
@@ -5444,7 +5444,7 @@
 
 **[37:28]** Li fè manch yo an bwa zakasya epi li kouvri yo nèt ak lò.
 
-**[37:29]** Bezaleyèl fè lwil ki pou sèvi pou mete moun osinon nenpòt bagay apa pou Bondye a ansanm ak lansan santi bon an, jan moun ki konn fè odè avèk ladrès yo fè yo.  
+**[37:29]** Bezaleyèl fè lwil ki pou sèvi pou mete moun osinon nenpòt bagay apa pou Bondye a ansanm ak lansan santi bon an, jan moun ki konn fè odè avèk ladrès yo fè yo.
 
 ### Chapter 38
 
@@ -5508,7 +5508,7 @@
 
 **[38:30]** Yo sèvi ak kwiv la pou fè sipò ki nan pòt antre tanp lan, lòtèl la ak griyaj kwiv la ansanm ak tout bagay y'ap bezwen pou sèvi ak lòtèl la.
 
-**[38:31]** Yo fè sipò pou galeri toutotou a, sipò pou pòt kote ki apa pou Seyè a, ansanm ak tout pikèt pou tant lan ak pou galeri a.  
+**[38:31]** Yo fè sipò pou galeri toutotou a, sipò pou pòt kote ki apa pou Seyè a, ansanm ak tout pikèt pou tant lan ak pou galeri a.
 
 ### Chapter 39
 
@@ -5596,7 +5596,7 @@
 
 **[39:42]** Se konsa moun pèp Izrayèl yo te fè tout travay la jan Seyè a te bay Moyiz lòd fè l' la.
 
-**[39:43]** Moyiz egzaminen travay yo te fè a, li wè yo te fè l' jan Seyè a te bay lòd fè l' la. Wi, se konsa yo te fè l'. Lèfini, Moyiz beni yo.  
+**[39:43]** Moyiz egzaminen travay yo te fè a, li wè yo te fè l' jan Seyè a te bay lòd fè l' la. Wi, se konsa yo te fè l'. Lèfini, Moyiz beni yo.
 
 ### Chapter 40
 
@@ -5674,7 +5674,7 @@
 
 **[40:37]** Men, si nwaj la pa t' leve anwo tant lan, yo pa t' pati. Yo te tann jouk nwaj la te leve.
 
-**[40:38]** Lajounen, nwaj Seyè a te rete anwo tant lan, men lannwit, se te yon dife tout pèp Izrayèl la te wè klere nan nwaj la. Se konsa sa te fèt pandan tout vwayaj la.   
+**[40:38]** Lajounen, nwaj Seyè a te rete anwo tant lan, men lannwit, se te yon dife tout pèp Izrayèl la te wè klere nan nwaj la. Se konsa sa te fèt pandan tout vwayaj la.
 
 ## Leviticus
 
@@ -5712,7 +5712,7 @@
 
 **[1:16]** L'a rache fal zwazo a ak tout plim li sou li. L'a jete l' bò lotèl la, sou bò solèy leve, kote yo mete sann dife a.
 
-**[1:17]** Apre sa, l'a bay yon kout kouto nan mitan de zèl yo, l'a kenbe zèl yo, l'a louvri kò zwazo a ande san li pa detache zèl yo. Lèfini, prèt la va boule l' nèt sou dife ki sou lotèl la. Se sa yo rele yon ofrann bèt yo boule pou Seyè a, yon ofrann ou boule nèt nan dife epi k'ap fè Seyè a plezi ak bon sant li.  
+**[1:17]** Apre sa, l'a bay yon kout kouto nan mitan de zèl yo, l'a kenbe zèl yo, l'a louvri kò zwazo a ande san li pa detache zèl yo. Lèfini, prèt la va boule l' nèt sou dife ki sou lotèl la. Se sa yo rele yon ofrann bèt yo boule pou Seyè a, yon ofrann ou boule nèt nan dife epi k'ap fè Seyè a plezi ak bon sant li.
 
 ### Chapter 2
 
@@ -5746,7 +5746,7 @@
 
 **[2:15]** W'a mete lwil oliv sou li ansanm ak lansan. Se konsa w'a ofri l' bay Seyè a.
 
-**[2:16]** Prèt la va pran ti gout nan ofrann manje a ak nan lwil la, l'a boule l' ansanm ak tout lansan an. Se sa yo rele yon ofrann manje yo boule nan dife pou Seyè a.  
+**[2:16]** Prèt la va pran ti gout nan ofrann manje a ak nan lwil la, l'a boule l' ansanm ak tout lansan an. Se sa yo rele yon ofrann manje yo boule nan dife pou Seyè a.
 
 ### Chapter 3
 
@@ -5782,7 +5782,7 @@
 
 **[3:16]** Prèt la va boule tou sa sou lotèl la. Tout grès la se pou Seyè a li ye. Se yon ofrann ou boule nèt nan dife epi k'ap fè Seyè a plezi ak bon sant li.
 
-**[3:17]** Piga nou janm manje ni grès ni san. Sa se yon regleman pou nou swiv, de pitit an pitit, kote nou pase.  
+**[3:17]** Piga nou janm manje ni grès ni san. Sa se yon regleman pou nou swiv, de pitit an pitit, kote nou pase.
 
 ### Chapter 4
 
@@ -5854,7 +5854,7 @@
 
 **[4:34]** Prèt la va tranpe dwèt li nan san bèt yo ofri a, l'a mete san sou kat kòn lotèl kote yo boule bèt yo ofri bay Bondye yo, epi l'a vide rès san an nan pye lotèl la.
 
-**[4:35]** Apre sa, l'a wete tout grès la, menm jan yo fè l' pou mouton yo ofri pou di Bondye mèsi a, l'a boule l' sou lotèl la ansanm ak lòt ofrann y'ap boule pou Seyè a. Se konsa prèt la va fè ofrann bèt pou wete peche moun lan te fè san l' pa t' konnen an, epi Bondye va padonnen l' sa.  
+**[4:35]** Apre sa, l'a wete tout grès la, menm jan yo fè l' pou mouton yo ofri pou di Bondye mèsi a, l'a boule l' sou lotèl la ansanm ak lòt ofrann y'ap boule pou Seyè a. Se konsa prèt la va fè ofrann bèt pou wete peche moun lan te fè san l' pa t' konnen an, epi Bondye va padonnen l' sa.
 
 ### Chapter 5
 
@@ -5894,7 +5894,7 @@
 
 **[5:18]** L'a pran yon belye nan bèt li yo, yonn ki pa gen ankenn enfimite, l'a pote l' bay prèt la. Prèt la menm va ofri l' pou peye pou sa moun lan te fè ki mal. Y'a kalkile pri bèt la dapre sistèm lajan yo sèvi nan kay Bondye a. Prèt la va fè ofrann lan pou peye pou sa moun lan te fè san l' pa t' konnen an, epi Bondye va padonnen l' sa.
 
-**[5:19]** Se sa yo rele yon ofrann moun fè pou peye pou sa yo fè ki mal kont Seyè a.  
+**[5:19]** Se sa yo rele yon ofrann moun fè pou peye pou sa yo fè ki mal kont Seyè a.
 
 ### Chapter 6
 
@@ -5956,7 +5956,7 @@
 
 **[6:29]** Tout gason nan fanmi prèt yo gen dwa manje nan vyann lan, paske se yon vyann yo mete apa nèt pou Seyè a.
 
-**[6:30]** Men, si yo pran ti gout nan san bèt la pou yo pote l' anndan Tant Randevou a pou yo sèvi avè l' tankou san bèt yo ofri pou repare sa yon moun fè ki mal, yo pa fèt pou yo manje anyen nan bèt la. Se pou yo boule l' nèt nan dife.  
+**[6:30]** Men, si yo pran ti gout nan san bèt la pou yo pote l' anndan Tant Randevou a pou yo sèvi avè l' tankou san bèt yo ofri pou repare sa yon moun fè ki mal, yo pa fèt pou yo manje anyen nan bèt la. Se pou yo boule l' nèt nan dife.
 
 ### Chapter 7
 
@@ -6034,7 +6034,7 @@
 
 **[7:37]** Men regleman pou yo swiv lè y'ap fè ofrann pou yo boule pou Seyè a, lè y'ap fè ofrann grenn ki soti nan jaden yo, lè y'ap fè ofrann pou peche moun fè san yo pa konnen, ofrann pou peye pou sa yo fè ki mal, ofrann pou lè y'ap mete prèt yo apa pou Bondye, ofrann pou di Bondye mèsi.
 
-**[7:38]** Se Seyè a menm ki te bay Moyiz regleman sa yo, sou mòn Sinayi nan mitan dezè a, jou li te mande moun pèp Izrayèl yo pou yo fè ofrann ba li.  
+**[7:38]** Se Seyè a menm ki te bay Moyiz regleman sa yo, sou mòn Sinayi nan mitan dezè a, jou li te mande moun pèp Izrayèl yo pou yo fè ofrann ba li.
 
 ### Chapter 8
 
@@ -6108,7 +6108,7 @@
 
 **[8:35]** Pandan sèt jou, lajounen kou lannwit, n'a rete la devan pòt Tant Randevou a, epi n'a fè tou sa Seyè a te ban nou lòd fè a. Si se pa sa, n'a mouri. Wi, men lòd Seyè a te ban mwen an.
 
-**[8:36]** Se konsa, Arawon ak pitit gason l' yo te fè tou sa Moyiz te di yo Seyè a te ba yo lòd fè a.  
+**[8:36]** Se konsa, Arawon ak pitit gason l' yo te fè tou sa Moyiz te di yo Seyè a te ba yo lòd fè a.
 
 ### Chapter 9
 
@@ -6158,7 +6158,7 @@
 
 **[9:23]** Moyiz ak Arawon antre anndan Tant Randevou a. Lè yo soti, yo beni pèp la ankò. Se lè sa a pouvwa Seyè a parèt devan je pèp la.
 
-**[9:24]** Yon dife rete konsa, li soti nan syèl la, li boule tout vyann ak tout grès ki te sou lotèl la. Lè pèp la wè sa, yo tout pran rele sitèlman yo te kontan epi yo tonbe fas atè devan Bondye.  
+**[9:24]** Yon dife rete konsa, li soti nan syèl la, li boule tout vyann ak tout grès ki te sou lotèl la. Lè pèp la wè sa, yo tout pran rele sitèlman yo te kontan epi yo tonbe fas atè devan Bondye.
 
 ### Chapter 10
 
@@ -6200,7 +6200,7 @@
 
 **[10:19]** Arawon reponn Moyiz: -Ou wè sa ki rive m' jòdi a? Atout pèp la te fè ofrann pou wete peche li yo ak ofrann pou boule pou Seyè a, mwen t'ap mande m' si m' te manje ofrann peche yo a jòdi a, ou kwè sa ta fè Seyè a plezi?
 
-**[10:20]** Lè Moyiz tande sa, sa te fè kè l' kontan.  
+**[10:20]** Lè Moyiz tande sa, sa te fè kè l' kontan.
 
 ### Chapter 11
 
@@ -6296,7 +6296,7 @@
 
 **[11:46]** Men regleman ki gen rapò ak bèt, zwazo ak tout lòt bèt k'ap viv nan dlo, osinon k'ap trennen sou vant.
 
-**[11:47]** Se pou nou toujou rekonèt bèt ki ka mete nou nan kondisyon pou nou pa ka sèvi Bondye ak bèt ki p'ap fè l', bèt ki bon pou nou manje ak bèt ki pa bon pou nou manje.  
+**[11:47]** Se pou nou toujou rekonèt bèt ki ka mete nou nan kondisyon pou nou pa ka sèvi Bondye ak bèt ki p'ap fè l', bèt ki bon pou nou manje ak bèt ki pa bon pou nou manje.
 
 ### Chapter 12
 
@@ -6314,7 +6314,7 @@
 
 **[12:7]** Prèt la va ofri yo bay Seyè a pou mande padon pou fanm lan. Se konsa fanm lan va fè sèvis pou san li pèdi a. Wi, se sa pou yon fanm fè apre li fin akouche, kit se yon gason, kit se yon fi li fè.
 
-**[12:8]** Si fanm lan pa gen mwayen pou l' pote yon ti mouton, lè sa a l'a pote de pijon osinon de toutrèl, yonn pou yo boule nèt pou Bondye, lòt la pou yo ofri pou mande padon. Prèt la va ofri yo bay Seyè a pou l' mande padon pou li. Se konsa fanm lan va fè sèvis pou l' ka nan kondisyon sèvi Bondye ankò.  
+**[12:8]** Si fanm lan pa gen mwayen pou l' pote yon ti mouton, lè sa a l'a pote de pijon osinon de toutrèl, yonn pou yo boule nèt pou Bondye, lòt la pou yo ofri pou mande padon. Prèt la va ofri yo bay Seyè a pou l' mande padon pou li. Se konsa fanm lan va fè sèvis pou l' ka nan kondisyon sèvi Bondye ankò.
 
 ### Chapter 13
 
@@ -6434,7 +6434,7 @@
 
 **[13:58]** Si apre yo lave yon rad, kanni an disparèt, y'a lave l' yon dezyèm fwa. Se lè sa a rad la va nan bon kondisyon, moun k'ap sèvi Bondye ka sèvi avè l'.
 
-**[13:59]** Men regleman pou nou swiv lè yon rad fèt an lenn osinon an twal fen blan bay mak tankou li ta vle kanni, ou ankò lè nan yon moso twal, fil dwat osinon fil travè yo, kit yo fèt an lenn ou ankò an kenaf, bay mak tankou li ta vle kanni, ou ankò lè yon moso po osinon nenpòt bagay ki fèt an po bay mak tankou li ta vle kanni. Se konsa n'a konnen si moun k'ap sèvi Bondye ka sèvi osinon pa ka sèvi ak yo.  
+**[13:59]** Men regleman pou nou swiv lè yon rad fèt an lenn osinon an twal fen blan bay mak tankou li ta vle kanni, ou ankò lè nan yon moso twal, fil dwat osinon fil travè yo, kit yo fèt an lenn ou ankò an kenaf, bay mak tankou li ta vle kanni, ou ankò lè yon moso po osinon nenpòt bagay ki fèt an po bay mak tankou li ta vle kanni. Se konsa n'a konnen si moun k'ap sèvi Bondye ka sèvi osinon pa ka sèvi ak yo.
 
 ### Chapter 14
 
@@ -6550,7 +6550,7 @@
 
 **[14:56]** lè yon moun gen yon kote sou po l' ki anfle osinon lè li gen yon bouton ou ankò yon tach ki parèt sou po l'.
 
-**[14:57]** Se konsa n'a konnen lè yon bagay nan bon kondisyon osinon lè li pa nan bon kondisyon pou moun k'ap sèvi Bondye. Se tout regleman yo sa pou move maladi po.  
+**[14:57]** Se konsa n'a konnen lè yon bagay nan bon kondisyon osinon lè li pa nan bon kondisyon pou moun k'ap sèvi Bondye. Se tout regleman yo sa pou move maladi po.
 
 ### Chapter 15
 
@@ -6618,7 +6618,7 @@
 
 **[15:32]** Men regleman pou yo swiv lè yon nonm pa ka fè sèvis Bondye paske li gen ekoulman osinon paske li voye sou li,
 
-**[15:33]** lè yon fanm gen règ li, osinon lè yon nonm kouche ak yon fanm ki pa nan kondisyon pou fè sèvis Bondye, wi pou tout moun, fanm kou gason, ki gen ekoulman.  
+**[15:33]** lè yon fanm gen règ li, osinon lè yon nonm kouche ak yon fanm ki pa nan kondisyon pou fè sèvis Bondye, wi pou tout moun, fanm kou gason, ki gen ekoulman.
 
 ### Chapter 16
 
@@ -6688,7 +6688,7 @@
 
 **[16:33]** L'a fè sèvis pou wete peche pou kote ki apa nèt pou Bondye a, pou Tant Randevou a ak pou lotèl la, l'a fè ofrann pou prèt yo ak pou tout pèp Izrayèl la.
 
-**[16:34]** Men regleman pou nou swiv tout tan tout tan. Se yon sèvis pou yo fè yon fwa chak lanne pou mande padon pou peche pèp Izrayèl la. Yo te fè tout bagay jan Seyè a te bay Moyiz lòd fè a.  
+**[16:34]** Men regleman pou nou swiv tout tan tout tan. Se yon sèvis pou yo fè yon fwa chak lanne pou mande padon pou peche pèp Izrayèl la. Yo te fè tout bagay jan Seyè a te bay Moyiz lòd fè a.
 
 ### Chapter 17
 
@@ -6722,7 +6722,7 @@
 
 **[17:15]** Mwen pa bezwen konnen si se moun pèp Izrayèl la osinon moun lòt nasyon k'ap viv nan mitan nou, depi yon moun manje vyann yon bèt mouri osinon vyann bèt yon lòt bèt nan bwa ta touye, l'a gen pou l' lave rad ki sou li, l'a benyen nan gwo dlo, epi li p'ap nan kondisyon pou fè sèvis Bondye jouk aswè. Se aprè sa l'a nan kondisyon pou fè sèvis Bondye ankò.
 
-**[17:16]** Men, si li pa lave rad ki sou li yo, si li pa benyen nèt, l'a peye sa l' fè a.  
+**[17:16]** Men, si li pa lave rad ki sou li yo, si li pa benyen nèt, l'a peye sa l' fè a.
 
 ### Chapter 18
 
@@ -6784,7 +6784,7 @@
 
 **[18:29]** Depi yon moun fè yonn nan bagay sal sa yo, y'ap wete l' nan mitan pèp Bondye a.
 
-**[18:30]** Epi Seyè a di: -Se pou nou kenbe lòd mwen yo. Pa swiv move mès moun ki te rete nan peyi a anvan nou yo. Pa fè vye bagay sa yo k'ap mete nou nan kondisyon pou nou pa ka fè sèvis Bondye. Se mwen menm ki Seyè a, Bondye nou an!  
+**[18:30]** Epi Seyè a di: -Se pou nou kenbe lòd mwen yo. Pa swiv move mès moun ki te rete nan peyi a anvan nou yo. Pa fè vye bagay sa yo k'ap mete nou nan kondisyon pou nou pa ka fè sèvis Bondye. Se mwen menm ki Seyè a, Bondye nou an!
 
 ### Chapter 19
 
@@ -6860,7 +6860,7 @@
 
 **[19:36]** N'a toujou gen bon balans, bon pwa, bon lòn, bon mezi. Se mwen menm ki Seyè a, Bondye nou an. Se mwen menm ki te fè nou soti kite peyi Lejip!
 
-**[19:37]** Se pou nou kenbe tout lòd ak tout kòmandman mwen ban nou yo. Se pou nou swiv yo. Se mwen menm ki Seyè a!  
+**[19:37]** Se pou nou kenbe tout lòd ak tout kòmandman mwen ban nou yo. Se pou nou swiv yo. Se mwen menm ki Seyè a!
 
 ### Chapter 20
 
@@ -6916,7 +6916,7 @@
 
 **[20:26]** Se pou nou viv apa pou mwen, paske mwen menm se yon Bondye apa mwen ye. Mwen menm Seyè a, mwen mete nou apa nan mitan tout lòt pèp yo pou nou ka pou mwen nèt.
 
-**[20:27]** Depi yon nonm osinon yon fanm gen lespri yon mò sou li, osinon yon lòt lespri k'ap fè l' fè divinò, se pou yo touye yo. Y'a touye yo ak kout wòch. Lè konsa, se yo menm sèl k'ap reskonsab lanmò yo.  
+**[20:27]** Depi yon nonm osinon yon fanm gen lespri yon mò sou li, osinon yon lòt lespri k'ap fè l' fè divinò, se pou yo touye yo. Y'a touye yo ak kout wòch. Lè konsa, se yo menm sèl k'ap reskonsab lanmò yo.
 
 ### Chapter 21
 
@@ -6966,7 +6966,7 @@
 
 **[21:23]** Men, li pa gen dwa pwoche bò rido a ni vin bò lotèl la paske li enfim nan kò l'. Li pa fèt pou derespekte bagay ki apa pou mwen yo paske se mwen menm Seyè a ki mete yo apa pou mwen.
 
-**[21:24]** Se konsa, Moyiz pale ak Arawon, ak pitit gason l' yo ansanm ak tout moun pèp Izrayèl yo, li di yo tou sa.  
+**[21:24]** Se konsa, Moyiz pale ak Arawon, ak pitit gason l' yo ansanm ak tout moun pèp Izrayèl yo, li di yo tou sa.
 
 ### Chapter 22
 
@@ -7034,7 +7034,7 @@
 
 **[22:32]** Piga nou derespekte non mwen. Se pou tout moun pèp Izrayèl la respekte m'. Se mwen menm ki Seyè a, se mwen menm ki mete nou apa pou nou viv apa pou mwen.
 
-**[22:33]** Se mwen menm ki te fè nou soti kite peyi Lejip pou m' te ka Bondye nou. Se mwen menm ki Seyè a!  
+**[22:33]** Se mwen menm ki te fè nou soti kite peyi Lejip pou m' te ka Bondye nou. Se mwen menm ki Seyè a!
 
 ### Chapter 23
 
@@ -7124,7 +7124,7 @@
 
 **[23:43]** Konsa, pitit pitit nou yo va konnen mwen menm, Seyè a, mwen te fè pèp Izrayèl rete anba joupa lè mwen te fè yo soti kite peyi Lejip la. Se mwen menm ki Seyè a, Bondye nou an!
 
-**[23:44]** Se konsa Moyiz te bay moun pèp Izrayèl yo tout kalite fèt pou yo fete pou Seyè a.  
+**[23:44]** Se konsa Moyiz te bay moun pèp Izrayèl yo tout kalite fèt pou yo fete pou Seyè a.
 
 ### Chapter 24
 
@@ -7172,7 +7172,7 @@
 
 **[24:22]** Menm jijman sa a va pou tout moun k'ap viv nan peyi a, kit se yon moun peyi a ki menm ras avè ou, kit se yon moun lòt nasyon, paske se mwen menm Seyè a ki Bondye nou an.
 
-**[24:23]** Moyiz pale ak moun pèp Izrayèl yo, epi yo pran nonm ki te nonmen non Bondye a mal la, yo mennen l' andeyò lòt bò limit kote tout moun rete a, epi yo kalonnen l' wòch jouk yo touye l'. Se konsa moun pèp Izrayèl yo te fè tou sa Seyè a te bay Moyiz lòd fè a.  
+**[24:23]** Moyiz pale ak moun pèp Izrayèl yo, epi yo pran nonm ki te nonmen non Bondye a mal la, yo mennen l' andeyò lòt bò limit kote tout moun rete a, epi yo kalonnen l' wòch jouk yo touye l'. Se konsa moun pèp Izrayèl yo te fè tou sa Seyè a te bay Moyiz lòd fè a.
 
 ### Chapter 25
 
@@ -7284,7 +7284,7 @@
 
 **[25:54]** Si li pa reachte tèt li konsa, lè lanne rejwisans lan rive, ni li menm, ni pitit gason l' yo va lib ankò. Epi y'a kite kay moun lan.
 
-**[25:55]** Se pou nou swiv regleman sa yo, paske se esklav pa m' moun pèp Izrayèl yo ye. Yo se esklav mwen te fè soti kite peyi Lejip. Se mwen menm ki Seyè a, Bondye nou an.  
+**[25:55]** Se pou nou swiv regleman sa yo, paske se esklav pa m' moun pèp Izrayèl yo ye. Yo se esklav mwen te fè soti kite peyi Lejip. Se mwen menm ki Seyè a, Bondye nou an.
 
 ### Chapter 26
 
@@ -7378,7 +7378,7 @@
 
 **[26:45]** Men, m'a fè pa yo, m'a chonje kontra mwen te pase avèk zansèt yo lè mwen te fè yo soti kite peyi Lejip devan je moun lòt nasyon yo pou m' te ka Bondye yo. Se mwen menm ki Seyè a!
 
-**[26:46]** Men tout prensip, tout lòd ak tout kòmandman Seyè a te bay Moyiz lòd mete nan kontra li te siyen ak moun pèp Izrayèl yo sou mòn Sinayi a.  
+**[26:46]** Men tout prensip, tout lòd ak tout kòmandman Seyè a te bay Moyiz lòd mete nan kontra li te siyen ak moun pèp Izrayèl yo sou mòn Sinayi a.
 
 ### Chapter 27
 
@@ -7448,7 +7448,7 @@
 
 **[27:33]** Nou pa bezwen konnen si li bon si li pa bon, ni nou pa bezwen pran yon lòt mete nan plas li. Si nou vle chanje yon bèt, ni sa nou ta vle chanje a, ni sa nou ta renmen bay nan plas li a, tou de va pou Seyè a. Epitou nou p'ap ka reachte yo ankò.
 
-**[27:34]** Men tout regleman Seyè a te bay Moyiz pou moun pèp Izrayèl yo sou mòn Sinayi a.   
+**[27:34]** Men tout regleman Seyè a te bay Moyiz pou moun pèp Izrayèl yo sou mòn Sinayi a.
 
 ## Numbers
 
@@ -7560,7 +7560,7 @@
 
 **[1:53]** Men, moun fanmi Levi yo va moute kay yo fè wonn Tant Randevou a pou kòlè Bondye pa tonbe sou pèp Izrayèl la. Se yo menm tou ki la pou veye sou Tant Randevou a.
 
-**[1:54]** Moun pèp Izrayèl yo te fè tou sa Seyè a te bay Moyiz lòd fè a. Se konsa yo te fè l' vre.  
+**[1:54]** Moun pèp Izrayèl yo te fè tou sa Seyè a te bay Moyiz lòd fè a. Se konsa yo te fè l' vre.
 
 ### Chapter 2
 
@@ -7630,7 +7630,7 @@
 
 **[2:33]** Men yo pa t' konte moun branch fanmi Levi yo ansanm ak rès moun pèp Izrayèl yo, dapre lòd Seyè a te bay Moyiz la.
 
-**[2:34]** Moun pèp Izrayèl yo te fè tou sa Seyè a te bay Moyiz lòd fè a. Se konsa yo moute kan yo, chak divizyon apa, anba làbanyè pa yo. Lè y'ap deplase, yo mache pa divizyon, chak moun ansanm ak branch fanmi zansèt yo.  
+**[2:34]** Moun pèp Izrayèl yo te fè tou sa Seyè a te bay Moyiz lòd fè a. Se konsa yo moute kan yo, chak divizyon apa, anba làbanyè pa yo. Lè y'ap deplase, yo mache pa divizyon, chak moun ansanm ak branch fanmi zansèt yo.
 
 ### Chapter 3
 
@@ -7734,7 +7734,7 @@
 
 **[3:50]** Li pran mil twasanswasannsenk (1.365) pyès lajan nan men premye pitit moun Izrayèl yo, dapre sistèm lajan yo sèvi nan kote ki apa pou Bondye a.
 
-**[3:51]** Apre sa, Moyiz pran tout lajan yo te peye pou sove lavi rès premye pitit gason yo, dapre lòd Seyè a te bay la, li bay Arawon ak pitit gason l' yo, jan Seyè a te ba li lòd la.  
+**[3:51]** Apre sa, Moyiz pran tout lajan yo te peye pou sove lavi rès premye pitit gason yo, dapre lòd Seyè a te bay la, li bay Arawon ak pitit gason l' yo, jan Seyè a te ba li lòd la.
 
 ### Chapter 4
 
@@ -7834,7 +7834,7 @@
 
 **[4:48]** Yo jwenn antou witmil senksankatreven (8.580) gason.
 
-**[4:49]** Se konsa, dapre lòd Seyè a te bay Moyiz pou pèp la, yo pran non chak gason moun Levi yo ak travay pou yo fè ak sa pou yo pote. Se Seyè a menm ki te bay Moyiz lòd fè resansman sa a.  
+**[4:49]** Se konsa, dapre lòd Seyè a te bay Moyiz pou pèp la, yo pran non chak gason moun Levi yo ak travay pou yo fè ak sa pou yo pote. Se Seyè a menm ki te bay Moyiz lòd fè resansman sa a.
 
 ### Chapter 5
 
@@ -7898,7 +7898,7 @@
 
 **[5:30]** osinon lè yon nonm sispèk madanm l' ap twonpe l'. L'a mennen madanm lan devan lotèl Seyè a, epi prèt la va fè sèvis sa a pou madanm lan.
 
-**[5:31]** Mari a p'ap reskonsab anyen ki ka rive madanm lan. Men madanm lan, si l' antò, va pote chay peche l' la.  
+**[5:31]** Mari a p'ap reskonsab anyen ki ka rive madanm lan. Men madanm lan, si l' antò, va pote chay peche l' la.
 
 ### Chapter 6
 
@@ -7954,7 +7954,7 @@
 
 **[6:26]** Se pou Seyè a fè nou wè jan li renmen nou, se pou l' ban nou kè poze.
 
-**[6:27]** Se konsa y'a nonmen non m', y'a lapriyè nan pye m' pou pèp Izrayèl la, epi m'a beni yo.  
+**[6:27]** Se konsa y'a nonmen non m', y'a lapriyè nan pye m' pou pèp Izrayèl la, epi m'a beni yo.
 
 ### Chapter 7
 
@@ -8134,7 +8134,7 @@
 
 **[7:88]** Men kantite bèt yo te ofri an total pou di Bondye mèsi: vennkat jenn ti towo, swasant belye, swasant bouk ak swasant ti mouton ki poko gen ennan. Se ofrann sa a yo te fè pou mete lotèl la apa nèt pou sèvis Seyè a, apre yo te fin vide lwil sou li.
 
-**[7:89]** Chak fwa Moyiz te antre nan Tant Randevou a pou l' pale ak Seyè a, li te tande vwa Seyè a ki t'ap pale avè l' anwo kouvèti espesyal ki sou Bwat Kontra a, nan mitan de zanj cheriben yo.  
+**[7:89]** Chak fwa Moyiz te antre nan Tant Randevou a pou l' pale ak Seyè a, li te tande vwa Seyè a ki t'ap pale avè l' anwo kouvèti espesyal ki sou Bwat Kontra a, nan mitan de zanj cheriben yo.
 
 ### Chapter 8
 
@@ -8188,7 +8188,7 @@
 
 **[8:25]** Lè y'a gen senkantan, y'a pran retrèt yo, yo p'ap reskonsab okenn travay ankò nan tant lan.
 
-**[8:26]** Men, y'a gen dwa ede moun Levi parèy yo nan nenpòt travay y'ap fè nan Tant Randevou a. Men yo menm poutèt pa yo, yo p'ap reskonsab okenn travay ankò. Se konsa w'a bay moun Levi yo travay pou yo fè.  
+**[8:26]** Men, y'a gen dwa ede moun Levi parèy yo nan nenpòt travay y'ap fè nan Tant Randevou a. Men yo menm poutèt pa yo, yo p'ap reskonsab okenn travay ankò. Se konsa w'a bay moun Levi yo travay pou yo fè.
 
 ### Chapter 9
 
@@ -8236,7 +8236,7 @@
 
 **[9:22]** Toutotan nwaj la te rete la anwo tant lan san deplase, li te mèt de jou, yon mwa, yon lanne, yo menm tou, yo pa t' deplase. Men, leve nwaj la leve, yo leve, yo pati.
 
-**[9:23]** Konsa, yo moute tant yo sou lòd Seyè a, yo leve yo pati sou lòd Seyè a: Yo te fè tou sa Seyè a te di Moyiz di yo fè.  
+**[9:23]** Konsa, yo moute tant yo sou lòd Seyè a, yo leve yo pati sou lòd Seyè a: Yo te fè tou sa Seyè a te di Moyiz di yo fè.
 
 ### Chapter 10
 
@@ -8310,7 +8310,7 @@
 
 **[10:35]** Chak fwa Bwat Kontra a pati, Moyiz di: -Leve non, Seyè! Gaye lènmi ou yo! Fè tout moun ki rayi ou yo kouri lè ou parèt!
 
-**[10:36]** Lè Bwat Kontra a kanpe, Moyiz di: -Tounen non, Seyè! Vin rete nan mitan tout lame moun pèp Izrayèl yo!  
+**[10:36]** Lè Bwat Kontra a kanpe, Moyiz di: -Tounen non, Seyè! Vin rete nan mitan tout lame moun pèp Izrayèl yo!
 
 ### Chapter 11
 
@@ -8382,7 +8382,7 @@
 
 **[11:34]** Yo rele kote sa a: Simityè Grangou, paske se la yo te antere tout moun nan pèp la ki t'ap plenyen pou vyann.
 
-**[11:35]** Apre sa, pèp la kite Simityè Grangou kote yo te ye a, yo pati pou Azewòt kote yo moute kay yo.  
+**[11:35]** Apre sa, pèp la kite Simityè Grangou kote yo te ye a, yo pati pou Azewòt kote yo moute kay yo.
 
 ### Chapter 12
 
@@ -8416,7 +8416,7 @@
 
 **[12:15]** Yo fèmen Miryam pou kont li pandan sèt jou yon kote andeyò limit kan an. Pèp la pa t' leve pati toutotan yo pa t' kite Miryam tounen nan kan an ankò.
 
-**[12:16]** Apre sa, pèp la kite Azewòt kote yo te ye a, yo pati al moute tant yo nan dezè Paran an.  
+**[12:16]** Apre sa, pèp la kite Azewòt kote yo te ye a, yo pati al moute tant yo nan dezè Paran an.
 
 ### Chapter 13
 
@@ -8484,7 +8484,7 @@
 
 **[13:32]** Se konsa yo pran pale mal sou peyi yo te al vizite a devan pèp Izrayèl la. Yo t'ap di: -Peyi nou ta l' vizite a, peyi nou ta l' chache konnen an, se yon peyi ki pa menm bay kont manje pou moun k'ap viv sou li yo. Epi, tout moun nou wè la se moun ki wo anpil.
 
-**[13:33]** Sa ki pi rèd, nou wè yon kalite gwonèg bèl wotè, moun ras Anak yo. Devan moun sa yo se krebete nou ye, tèlman nou piti. Se konsa nou te santi nou devan yo.  
+**[13:33]** Sa ki pi rèd, nou wè yon kalite gwonèg bèl wotè, moun ras Anak yo. Devan moun sa yo se krebete nou ye, tèlman nou piti. Se konsa nou te santi nou devan yo.
 
 ### Chapter 14
 
@@ -8576,7 +8576,7 @@
 
 **[14:44]** Pèp la fè tèt di, yo moute moute yo sou mòn yo pou yo seye antre nan peyi a. Men, ni Bwat Kontra Seyè a, ni Moyiz pa deplase kote yo te ye nan kan an.
 
-**[14:45]** Se konsa moun Amalèk yo ak moun Kanaran yo ki te rete nan mòn yo desann, yo bat yo, yo kouri dèyè yo jouk yon kote yo rele Oma.  
+**[14:45]** Se konsa moun Amalèk yo ak moun Kanaran yo ki te rete nan mòn yo desann, yo bat yo, yo kouri dèyè yo jouk yon kote yo rele Oma.
 
 ### Chapter 15
 
@@ -8660,7 +8660,7 @@
 
 **[15:40]** Ponpon yo va fè nou chonje tout lòd mwen te ban nou pou nou ka swiv yo, pou nou ka viv apa nèt pou mwen menm ki Bondye nou an.
 
-**[15:41]** Se mwen menm ki Seyè a, Bondye nou an. Se mwen menm ki te fè nou soti kite peyi Lejip la pou m' te ka Bondye nou. Se mwen menm ki Seyè a, Bondye nou an.  
+**[15:41]** Se mwen menm ki Seyè a, Bondye nou an. Se mwen menm ki te fè nou soti kite peyi Lejip la pou m' te ka Bondye nou. Se mwen menm ki Seyè a, Bondye nou an.
 
 ### Chapter 16
 
@@ -8762,7 +8762,7 @@
 
 **[16:49]** Te gen katòzmil sètsan moun (14.700) antou ki te mouri nan malè sa a, san konte sa ki te mouri akòz Kore yo.
 
-**[16:50]** Lè malè a sispann nèt, Arawon tounen al jwenn Moyiz, devan papòt Kay Randevou a.  
+**[16:50]** Lè malè a sispann nèt, Arawon tounen al jwenn Moyiz, devan papòt Kay Randevou a.
 
 ### Chapter 17
 
@@ -8790,7 +8790,7 @@
 
 **[17:12]** Apre sa, moun pèp Izrayèl yo pale ak Moyiz, yo di l' konsa: -Gade jan n'ap mouri, n'ap deperi, nou tout ap fini.
 
-**[17:13]** Depi yon moun pwoche bò Tant Randevou a, li mouri. Si se konsa, nou tout ap mouri!  
+**[17:13]** Depi yon moun pwoche bò Tant Randevou a, li mouri. Si se konsa, nou tout ap mouri!
 
 ### Chapter 18
 
@@ -8856,7 +8856,7 @@
 
 **[18:31]** Y'a manje l' kote yo vle, ansanm ak tout moun lakay yo. Se tankou lajan yo ba yo pou travay y'ap fè nan Tant Randevou a.
 
-**[18:32]** Depi nou ofri sa ki pi bon an bay Seyè a, nou mèt manje rès la san kè sote, anyen p'ap rive nou. Piga nou derespekte bagay moun pèp Izrayèl yo mete apa pou mwen. Si nou fè sa, n'ap mouri.  
+**[18:32]** Depi nou ofri sa ki pi bon an bay Seyè a, nou mèt manje rès la san kè sote, anyen p'ap rive nou. Piga nou derespekte bagay moun pèp Izrayèl yo mete apa pou mwen. Si nou fè sa, n'ap mouri.
 
 ### Chapter 19
 
@@ -8902,7 +8902,7 @@
 
 **[19:21]** Se va la yon regleman pou yo toujou swiv tout tan. Moun ki te voye dlo sou lòt la pou mete l' nan bon kondisyon an, va gen pou l' lave rad ki te sou l' a tou. Depi yon moun manyen dlo pou mete nan bon kondisyon an, li p'ap nan kondisyon pou l' fè sèvis pou Bondye jouk nan aswè menm jou a.
 
-**[19:22]** Depi yon nonm ki pa nan kondisyon pou sèvi Bondye manyen yon bagay, moun ki nan kondisyon pou sèvi Bondye pa ka sèvi ak bagay sa a. Depi yon moun manyen yon bagay konsa, li menm tou, li p'ap nan kondisyon pou l' sèvi Bondye jouk aswè rive.  
+**[19:22]** Depi yon nonm ki pa nan kondisyon pou sèvi Bondye manyen yon bagay, moun ki nan kondisyon pou sèvi Bondye pa ka sèvi ak bagay sa a. Depi yon moun manyen yon bagay konsa, li menm tou, li p'ap nan kondisyon pou l' sèvi Bondye jouk aswè rive.
 
 ### Chapter 20
 
@@ -8962,7 +8962,7 @@
 
 **[20:28]** Lèfini, Moyiz wete rad espesyal ki te sou Arawon yo, li mete yo sou Eleaza, pitit gason Arawon an. Se la sou tèt mòn lan Arawon mouri. Apre sa, Moyiz ak Eleaza desann desann yo sou mòn lan.
 
-**[20:29]** Tout pèp la vin konnen Arawon te mouri. Se konsa tout moun nan pèp Izrayèl la pase trant jou ap kriye pou Arawon.  
+**[20:29]** Tout pèp la vin konnen Arawon te mouri. Se konsa tout moun nan pèp Izrayèl la pase trant jou ap kriye pou Arawon.
 
 ### Chapter 21
 
@@ -9034,7 +9034,7 @@
 
 **[21:34]** Seyè a di Moyiz konsa: -Ou pa bezwen pè msye! M'ap fè nou kraze l' anba pye nou, li menm ansanm ak tout pèp l' a. M'ap fè nou pran peyi l' la pou nou. Nou pral fè l' pase sa nou te fè Siyon, wa peyi Amori ki te rete Esbon an, pase.
 
-**[21:35]** Se konsa, moun pèp Izrayèl yo touye Og, ansanm ak pitit gason l' yo ak tout pèp l' a. Yo pa kite yonn chape, yo pran tout peyi a pou yo.  
+**[21:35]** Se konsa, moun pèp Izrayèl yo touye Og, ansanm ak pitit gason l' yo ak tout pèp l' a. Yo pa kite yonn chape, yo pran tout peyi a pou yo.
 
 ### Chapter 22
 
@@ -9118,7 +9118,7 @@
 
 **[22:40]** Rive la, Balak fè touye bèf ak mouton, epi li voye kèk moso vyann bay Balaram ansanm ak chèf ki te avè l' yo.
 
-**[22:41]** Nan denmen maten, Balak pran Balaram, yo moute sou mòn Bamòtbaal. Antan yo la, yo te kapab wè yon pòsyon nan moun Izrayèl yo.  
+**[22:41]** Nan denmen maten, Balak pran Balaram, yo moute sou mòn Bamòtbaal. Antan yo la, yo te kapab wè yon pòsyon nan moun Izrayèl yo.
 
 ### Chapter 23
 
@@ -9180,7 +9180,7 @@
 
 **[23:29]** Balaram di Balak konsa: -Bati sèt lotèl pou mwen isit la. Lèfini, fè m' jwenn sèt jenn ti towo bèf ak sèt belye mouton.
 
-**[23:30]** Balak fè tou sa Balaram te di l' fè a, epi li touye yon ti towo bèf ak yon belye mouton sou chak lotèl pou Bondye.  
+**[23:30]** Balak fè tou sa Balaram te di l' fè a, epi li touye yon ti towo bèf ak yon belye mouton sou chak lotèl pou Bondye.
 
 ### Chapter 24
 
@@ -9232,7 +9232,7 @@
 
 **[24:24]** Lè sa a, moun ap soti lavil Kitim nan bato vin anvayi peyi a. Yo pral kraze peyi Lasiri ak lavil Babilòn. Men, ata moun Kitim yo gen pou disparèt nèt tou.
 
-**[24:25]** Apre sa, Balaram leve, li tounen tounen l' lakay li. Epi Balak al fè wout li.  
+**[24:25]** Apre sa, Balaram leve, li tounen tounen l' lakay li. Epi Balak al fè wout li.
 
 ### Chapter 25
 
@@ -9270,7 +9270,7 @@
 
 **[25:17]** -Al atake moun Madyan yo. Bat yo byen bay.
 
-**[25:18]** Paske se yo menm ki te atake nou anvan ak malefis yo te voye sou nou nan zafè Peyò a, ak nan zafè Kozbi a, pitit fi chèf peyi Madyan an, moun menm ras ak yo a, fanm yo te touye lè epidemi te tonbe sou nou nan peyi Peyò a.  
+**[25:18]** Paske se yo menm ki te atake nou anvan ak malefis yo te voye sou nou nan zafè Peyò a, ak nan zafè Kozbi a, pitit fi chèf peyi Madyan an, moun menm ras ak yo a, fanm yo te touye lè epidemi te tonbe sou nou nan peyi Peyò a.
 
 ### Chapter 26
 
@@ -9402,7 +9402,7 @@
 
 **[26:64]** Pami yo pa t' gen yonn menm nan sa Moyiz ak Arawon te konte lè yo t'ap fè premye resansman pèp Izrayèl la nan dezè Sinayi a.
 
-**[26:65]** Paske Seyè a te di yo tout gen pou mouri nan dezè a. Yo tout te mouri vre, esepte Kaleb, pitit gason Jefoune a ak Jozye, pitit gason Noun lan.  
+**[26:65]** Paske Seyè a te di yo tout gen pou mouri nan dezè a. Yo tout te mouri vre, esepte Kaleb, pitit gason Jefoune a ak Jozye, pitit gason Noun lan.
 
 ### Chapter 27
 
@@ -9450,7 +9450,7 @@
 
 **[27:22]** Moyiz fè jan Seyè a te ba li lòd fè a. Li pran Jozye, li fè l' kanpe devan Eleaza, prèt la, ak tout pèp la.
 
-**[27:23]** Li mete men l' sou tèt li, epi li ba li lòd li yo, jan Seyè a te di l' la.  
+**[27:23]** Li mete men l' sou tèt li, epi li ba li lòd li yo, jan Seyè a te di l' la.
 
 ### Chapter 28
 
@@ -9514,7 +9514,7 @@
 
 **[28:30]** N'a ofri tou yon bouk pou mande Bondye padon pou peche. Se konsa n'a fè ofrann bèt pou yo touye pou mande Bondye gras pou tout pèp la.
 
-**[28:31]** N'a ofri bèt sa yo ansanm ak ofrann bwason ki mache avèk yo chak, anplis ofrann bèt pou yo boule chak jou a ansanm ak ofrann grenn jaden yo. Se pou tout bèt yo san okenn enfimite.  
+**[28:31]** N'a ofri bèt sa yo ansanm ak ofrann bwason ki mache avèk yo chak, anplis ofrann bèt pou yo boule chak jou a ansanm ak ofrann grenn jaden yo. Se pou tout bèt yo san okenn enfimite.
 
 ### Chapter 29
 
@@ -9596,7 +9596,7 @@
 
 **[29:39]** Men tou sa nou va ofri bay Seyè a lè n'ap fè gwo fèt nou dwe fè pou li yo, apa ofrann n'ap fè paske nou te pran angajman pou nou te fè yo, ou ankò ofrann n'ap fè paske nou rete konsa nou vle fè l', mete sou bèt n'ap ofri pou boule nèt nan dife pou Bondye, sou ofrann grenn jaden ak ofrann bwason yo, ak sou ofrann nou fè pou di Bondye mèsi.
 
-**[29:40]** Se konsa Moyiz te di pèp Izrayèl la tou sa Seyè a te ba li lòd di yo.  
+**[29:40]** Se konsa Moyiz te di pèp Izrayèl la tou sa Seyè a te ba li lòd di yo.
 
 ### Chapter 30
 
@@ -9630,7 +9630,7 @@
 
 **[30:15]** Men si, apre mari a vin konn angajman madanm lan te pran an, mari a kite kèk jou pase anvan li di li pa dakò, se li menm k'ap sibi chatiman ki pou ta tonbe sou madanm lan pou pawòl li pa kenbe a.
 
-**[30:16]** Men tout regleman Seyè a te bay Moyiz pou yon fanm ki fè ve osinon ki pran yon angajman. Si li marye, men tout jan mari a ka boule avè l' nan ka sa a. Si li poko marye, li lakay papa l' toujou, men tout jan papa a ka pran sa.  
+**[30:16]** Men tout regleman Seyè a te bay Moyiz pou yon fanm ki fè ve osinon ki pran yon angajman. Si li marye, men tout jan mari a ka boule avè l' nan ka sa a. Si li poko marye, li lakay papa l' toujou, men tout jan papa a ka pran sa.
 
 ### Chapter 31
 
@@ -9740,7 +9740,7 @@
 
 **[31:53]** Men, sòlda yo menm te kenbe sa yo te pran pou tèt pa yo.
 
-**[31:54]** Se konsa Moyiz ak Eleaza, prèt la, pran lò chèf divizyon mil ak chèf konpayi san yo te pote ba yo a, yo pote l' nan Tant Randevou a, pou Seyè a te ka toujou chonje pwoteje pèp Izrayèl la.  
+**[31:54]** Se konsa Moyiz ak Eleaza, prèt la, pran lò chèf divizyon mil ak chèf konpayi san yo te pote ba yo a, yo pote l' nan Tant Randevou a, pou Seyè a te ka toujou chonje pwoteje pèp Izrayèl la.
 
 ### Chapter 32
 
@@ -9826,7 +9826,7 @@
 
 **[32:41]** Moun fanmi Jayi, pitit gason Manase a, al atake yon seri ti bouk. Yo anvayi yo epi yo rele yo Bouk Jayi.
 
-**[32:42]** Noba menm al atake lavil Kenat ak lòt ti bouk ki sou lòd li yo. l' anvayi l', epi li ba li non l'. Li rele l' Noba.  
+**[32:42]** Noba menm al atake lavil Kenat ak lòt ti bouk ki sou lòd li yo. l' anvayi l', epi li ba li non l'. Li rele l' Noba.
 
 ### Chapter 33
 
@@ -9940,7 +9940,7 @@
 
 **[33:55]** Men, si nou pa mete moun ki rete nan peyi a deyò, sa ki va rete yo pral ban nou gwo pwoblèm. Y'ap tankou yon pay ki tonbe nan je nou, osinon tankou pikan k'ap pike nou nan tout kò nou. Yo pral tounen yon tizon pou nou lè n'a fin tabli nan peyi a.
 
-**[33:56]** Lè sa a, sa m' te fè lide fè yo a, se nou m'ap fè l'.  
+**[33:56]** Lè sa a, sa m' te fè lide fè yo a, se nou m'ap fè l'.
 
 ### Chapter 34
 
@@ -10000,7 +10000,7 @@
 
 **[34:28]** Pou branch fanmi Neftali a, se va chèf Pedayèl, pitit gason Amiyoud la.
 
-**[34:29]** Men moun Seyè a te mete reskonsab pou fè pataj tè a pou bay chak moun nan pèp Izrayèl la pòsyon pa yo nan peyi Kanaran.  
+**[34:29]** Men moun Seyè a te mete reskonsab pou fè pataj tè a pou bay chak moun nan pèp Izrayèl la pòsyon pa yo nan peyi Kanaran.
 
 ### Chapter 35
 
@@ -10070,7 +10070,7 @@
 
 **[35:33]** Piga nou janm fè bagay ki pou fè Bondye vire do bay peyi kote nou pral viv la. Lè yon moun touye yon lòt moun, se sa k'ap mete peyi a nan kondisyon li derespekte Bondye ak san ki koule a. Lè konsa, pa gen lòt mwayen pou fè Bondye padonnen peyi a pase se touye pou nou touye moun ki touye a.
 
-**[35:34]** Piga nou janm fè bagay ki pou fè Bondye vire do bay peyi kote nou rete a, paske mwen menm Seyè a, se nan mitan moun pèp Izrayèl yo, nan mitan peyi kote yo rete a, mwen rete tou.  
+**[35:34]** Piga nou janm fè bagay ki pou fè Bondye vire do bay peyi kote nou rete a, paske mwen menm Seyè a, se nan mitan moun pèp Izrayèl yo, nan mitan peyi kote yo rete a, mwen rete tou.
 
 ### Chapter 36
 
@@ -10098,7 +10098,7 @@
 
 **[36:12]** Yo marye nan branch fanmi Manase, pitit Jozèf la. Konsa, pòsyon tè papa yo a rete nan menm branch fanmi an.
 
-**[36:13]** Men tout lòd ak regleman Seyè a te bay Moyiz pou moun pèp Izrayèl yo, lè yo te nan plenn Moab yo, lòt bò larivyè Jouden, anfas lavil Jeriko.   
+**[36:13]** Men tout lòd ak regleman Seyè a te bay Moyiz pou moun pèp Izrayèl yo, lè yo te nan plenn Moab yo, lòt bò larivyè Jouden, anfas lavil Jeriko.
 
 ## Deuteronomy
 
@@ -10194,7 +10194,7 @@
 
 **[1:45]** Lè nou tounen, nou kriye nan pye Seyè a, men Seyè a pa t' koute sa nou t'ap di l', li pa t' pran ka nou.
 
-**[1:46]** Se poutèt sa nou te blije pase tout tan sa a nan zòn Kadès la.  
+**[1:46]** Se poutèt sa nou te blije pase tout tan sa a nan zòn Kadès la.
 
 ### Chapter 2
 
@@ -10270,7 +10270,7 @@
 
 **[2:36]** Depi lavil Awoyè ki anwo bò falèz ki bay sou ravin Anon an ak lavil ki nan fon an, jouk lavil Galarad la, pa t' gen yon lavil ki te ka kenbe tèt ak nou. Seyè a, Bondye nou an, te lage yo tout nan men nou.
 
-**[2:37]** Men nou pa t' pwoche bò peyi moun Amon yo, ni bò zòn larivyè Jabòk la, ni bò lavil ki nan mòn yo, ni bò ankenn kote Seyè a te ban nou lòd pa atake.  
+**[2:37]** Men nou pa t' pwoche bò peyi moun Amon yo, ni bò zòn larivyè Jabòk la, ni bò lavil ki nan mòn yo, ni bò ankenn kote Seyè a te ban nou lòd pa atake.
 
 ### Chapter 3
 
@@ -10330,7 +10330,7 @@
 
 **[3:28]** Bay Jozye lòd tou sa pou li fè. Ankouraje l'. Ba li fòs kouraj, paske se li menm ki pral janbe lòt bò larivyè Jouden an alatèt pèp la. Se li menm ki pral fè yo pran peyi ou pral wè a pou yo.
 
-**[3:29]** Epi nou rete nan fon an, anfas lavil Bètpeyò.  
+**[3:29]** Epi nou rete nan fon an, anfas lavil Bètpeyò.
 
 ### Chapter 4
 
@@ -10430,7 +10430,7 @@
 
 **[4:48]** Peyi yo te pran an te konmanse depi lavil Awoyè ki sou tèt falèz toupre larivyè Anon an, li rive jouk mòn Siryon. Yo rele mòn sa a mòn Emon tou.
 
-**[4:49]** Yo te pran tou tout zòn Araba a, ki sou bò solèy leve larivyè Jouden an, rive lanmè Mouri a nan pye mòn Pisga.  
+**[4:49]** Yo te pran tou tout zòn Araba a, ki sou bò solèy leve larivyè Jouden an, rive lanmè Mouri a nan pye mòn Pisga.
 
 ### Chapter 5
 
@@ -10498,7 +10498,7 @@
 
 **[5:32]** Veye kò nou pou nou viv jan Seyè a, Bondye nou an, te mande nou viv la. Pa vire ni adwat ni agoch.
 
-**[5:33]** N'a mache dwat nan chemen Bondye nou an, Seyè a, mete devan nou an. Se konsa n'a gen lavi, n'a gen kè kontan. N'a viv lontan nan peyi nou pral pran pou nou rete a.  
+**[5:33]** N'a mache dwat nan chemen Bondye nou an, Seyè a, mete devan nou an. Se konsa n'a gen lavi, n'a gen kè kontan. N'a viv lontan nan peyi nou pral pran pou nou rete a.
 
 ### Chapter 6
 
@@ -10550,7 +10550,7 @@
 
 **[6:24]** Apre sa, Seyè a, Bondye nou an, te pase nou lòd pou nou kenbe tout prensip sa yo. Konsa, n'a gen krentif pou li, n'a viv ak kè kontan, epi l'a konsève lavi nou jan li fè sa pou nou jouk koulye a.
 
-**[6:25]** Si nou vle fè Bondye plezi, se pou nou fè atansyon pou nou swiv tout kòmandman sa yo nèt, se pou nou mache devan Seyè a, Bondye nou an, jan li te mande nou an.  
+**[6:25]** Si nou vle fè Bondye plezi, se pou nou fè atansyon pou nou swiv tout kòmandman sa yo nèt, se pou nou mache devan Seyè a, Bondye nou an, jan li te mande nou an.
 
 ### Chapter 7
 
@@ -10604,7 +10604,7 @@
 
 **[7:25]** N'a boule tout zidòl yo te taye nan bwa. Pa kite lò ak ajan ki kouvri zidòl yo mete move lanvi nan ke nou. Pa pran yo pou nou. Sa ka yon pèlen pou nou. Nou konnen bagay konsa se bagay Seyè a, Bondye nou an, pa vle wè menm.
 
-**[7:26]** Konsa tou, pa pran ankenn nan zidòl sa yo pou nou mete anndan lakay nou, pou menm madichon ki sou yo a pa tonbe sou nou tou. Se pou nou konsidere yo pou move bagay, pou vye bagay sal. Se bagay ki madichonnen, bagay ki fèt pou disparèt nèt.  
+**[7:26]** Konsa tou, pa pran ankenn nan zidòl sa yo pou nou mete anndan lakay nou, pou menm madichon ki sou yo a pa tonbe sou nou tou. Se pou nou konsidere yo pou move bagay, pou vye bagay sal. Se bagay ki madichonnen, bagay ki fèt pou disparèt nèt.
 
 ### Chapter 8
 
@@ -10646,7 +10646,7 @@
 
 **[8:19]** Si nou rive bliye Seyè a, Bondye nou an, pou n' al kouri dèyè lòt bondye, pou nou fè sèvis pou yo, pou n' adore yo, mwen tou avèti nou jòdi a, nou tout nou gen pou nou disparèt.
 
-**[8:20]** Si nou pa koute sa Seyè a, Bondye nou an, di nou, nou pral disparèt menm jan ak nasyon Bondye pral disparèt devan nou yo.  
+**[8:20]** Si nou pa koute sa Seyè a, Bondye nou an, di nou, nou pral disparèt menm jan ak nasyon Bondye pral disparèt devan nou yo.
 
 ### Chapter 9
 
@@ -10706,7 +10706,7 @@
 
 **[9:28]** Mwen pa ta vle pou nan peyi kote ou fè nou soti a moun yo ta di: Wi, Seyè a pa t' ka mennen yo nan peyi li te pwomèt l'ap ba yo a. Se rayi li rayi yo kifè li fè yo soti kite peyi Lejip la pou l' touye yo nan dezè a.
 
-**[9:29]** Men, se pèp ou yo ye! Yo rele ou pa ou! Se avèk gwo pouvwa ou, avèk fòs ponyèt ou ou te fè yo soti kite peyi Lejip.  
+**[9:29]** Men, se pèp ou yo ye! Yo rele ou pa ou! Se avèk gwo pouvwa ou, avèk fòs ponyèt ou ou te fè yo soti kite peyi Lejip.
 
 ### Chapter 10
 
@@ -10752,7 +10752,7 @@
 
 **[10:21]** N'a fè lwanj li, se li menm ki Bondye nou. Nou te wè ak je nou tout gwo bagay ak bèl mèvèy li te fè pou nou.
 
-**[10:22]** Lè zansèt nou yo te desann nan peyi Lejip, yo te swasanndis moun sèlman. Koulye a, Seyè a, Bondye nou an, fè nou vin anpil tankou zetwal nan syèl la.  
+**[10:22]** Lè zansèt nou yo te desann nan peyi Lejip, yo te swasanndis moun sèlman. Koulye a, Seyè a, Bondye nou an, fè nou vin anpil tankou zetwal nan syèl la.
 
 ### Chapter 11
 
@@ -10818,7 +10818,7 @@
 
 **[11:31]** Nou prèt pou nou janbe lòt bò larivyè Jouden an pou n' al pran pou nou peyi Seyè a, Bondye nou an, ap ban nou an. N'a pran peyi a pou nou, n'a rete ladan l'.
 
-**[11:32]** N'a fè atansyon pou nou kenbe tout lòd ak tout prensip mwen mete devan nou jòdi a.  
+**[11:32]** N'a fè atansyon pou nou kenbe tout lòd ak tout prensip mwen mete devan nou jòdi a.
 
 ### Chapter 12
 
@@ -10884,7 +10884,7 @@
 
 **[12:31]** Se pa konsa pou n' aji ak Seyè a, Bondye nou an. Paske, Seyè a pa ka sipòte tout vye sèvis y'ap fè pou bondye sa yo. Yo menm rive pran pwòp pitit gason ak pitit fi yo pou yo boule nan dife pou bondye yo!
 
-**[12:32]** Se pou nou toujou fè tou sa mwen mande nou fè la a, san nou pa ni mete ni wete anyen ladan yo.  
+**[12:32]** Se pou nou toujou fè tou sa mwen mande nou fè la a, san nou pa ni mete ni wete anyen ladan yo.
 
 ### Chapter 13
 
@@ -10922,7 +10922,7 @@
 
 **[13:17]** Piga nou kenbe pou nou anyen nan bagay nou fèt pou boule pou Seyè a. Se konsa Seyè a va sispann fache sou nou, l'a gen pitye pou nou. Wi, l'a fè pa nou. L'a fè nou peple jan li te pwomèt sa bay zansèt nou yo.
 
-**[13:18]** Men, se pou nou toujou koute sa Seyè a, Bondye nou an, ap di nou. Se pou nou toujou kenbe tout lòd m'ap ban nou jòdi a. Se pou nou toujou fè sa ki dwat devan Seyè a, Bondye nou an.  
+**[13:18]** Men, se pou nou toujou koute sa Seyè a, Bondye nou an, ap di nou. Se pou nou toujou kenbe tout lòd m'ap ban nou jòdi a. Se pou nou toujou fè sa ki dwat devan Seyè a, Bondye nou an.
 
 ### Chapter 14
 
@@ -10982,7 +10982,7 @@
 
 **[14:28]** Chak twazan, n'a pran ladim tout rekòt n'a fè nan lanne a, n'a mete yo nan pòtay lavil nou yo.
 
-**[14:29]** Moun Lèvi yo ki pa gen anyen ki rele yo pa yo va vini, y'a pran sa yo bezwen. Konsa tou, moun lòt nasyon yo, timoun ki pèdi papa yo, fanm vèv yo va vini, y'a pran sa yo bezwen. Se konsa, Seyè a, Bondye nou an, va beni nou nan tou sa n'ap fè.  
+**[14:29]** Moun Lèvi yo ki pa gen anyen ki rele yo pa yo va vini, y'a pran sa yo bezwen. Konsa tou, moun lòt nasyon yo, timoun ki pèdi papa yo, fanm vèv yo va vini, y'a pran sa yo bezwen. Se konsa, Seyè a, Bondye nou an, va beni nou nan tou sa n'ap fè.
 
 ### Chapter 15
 
@@ -11030,7 +11030,7 @@
 
 **[15:22]** N'a manje l' lakay nou, tout moun va manje ladan l', kit yo nan kondisyon pou sèvi Bondye, kit yo pa nan kondisyon pou fè l', menm jan yo konn manje vyann gazèl ak vyann towo bèf.
 
-**[15:23]** Tansèlman, piga nou manje san l'. Se pou nou vide tout san an atè tankou dlo.  
+**[15:23]** Tansèlman, piga nou manje san l'. Se pou nou vide tout san an atè tankou dlo.
 
 ### Chapter 16
 
@@ -11076,7 +11076,7 @@
 
 **[16:21]** Piga nou janm plante ankenn poto Achera ni ankenn pyebwa repozwa pou sèvi nou zidòl bò kote lòtèl n'ap bati pou Seyè a, Bondye nou an.
 
-**[16:22]** Piga nou janm mete wòch kanpe pou fè sèvis zidòl. Seyè a pa vle wè bagay konsa menm.  
+**[16:22]** Piga nou janm mete wòch kanpe pou fè sèvis zidòl. Seyè a pa vle wè bagay konsa menm.
 
 ### Chapter 17
 
@@ -11118,7 +11118,7 @@
 
 **[17:19]** Se pou li toujou gen liv la avèk li, se pou li li l' chak jou jouk li mouri, pou l' ka aprann gen krentif pou Seyè a, Bondye li a, pou l' ka swiv tout prensip ki nan lalwa a, pou l' ka fè tou sa yo mande l' fè ladan l'.
 
-**[17:20]** Konsa, li p'ap ka mete nan tèt li li plis pase rès pèp la, li p'ap janm dezobeyi ankenn lòd nan sa Seyè a te bay la. Se konsa, ni li ni pitit li yo y'a rete chèf lontan nan mitan pèp Izrayèl la.  
+**[17:20]** Konsa, li p'ap ka mete nan tèt li li plis pase rès pèp la, li p'ap janm dezobeyi ankenn lòd nan sa Seyè a te bay la. Se konsa, ni li ni pitit li yo y'a rete chèf lontan nan mitan pèp Izrayèl la.
 
 ### Chapter 18
 
@@ -11164,7 +11164,7 @@
 
 **[18:21]** Koulye a nou dwe ap di nan kè nou: Ki jan pou nou fè konnen si sa pwofèt la ap di a se pa pawòl ki soti nan Bondye?
 
-**[18:22]** Enben, si pwofèt la di l'ap pale nan non Seyè a, epi sa li di a pa rive vre, lè sa a, n'a konnen Seyè a pa t' janm di l' di pawòl konsa. Se lògèy ki te pouse pwofèt la di sa l' di a. Nou pa bezwen pè l'.  
+**[18:22]** Enben, si pwofèt la di l'ap pale nan non Seyè a, epi sa li di a pa rive vre, lè sa a, n'a konnen Seyè a pa t' janm di l' di pawòl konsa. Se lògèy ki te pouse pwofèt la di sa l' di a. Nou pa bezwen pè l'.
 
 ### Chapter 19
 
@@ -11208,7 +11208,7 @@
 
 **[19:20]** Lè lòt moun yo va konn sa, y'a pè, yo p'ap rekonmanse fè move bagay konsa ankò nan mitan nou.
 
-**[19:21]** Se pou nou san pitye pou moun konsa. Se pou nou fè yo peye lavi pou lavi, yon je pou yon je, yon dan pou yon dan, yon men pou yon men, yon pye pou yon pye.  
+**[19:21]** Se pou nou san pitye pou moun konsa. Se pou nou fè yo peye lavi pou lavi, yon je pou yon je, yon dan pou yon dan, yon men pou yon men, yon pye pou yon pye.
 
 ### Chapter 20
 
@@ -11250,7 +11250,7 @@
 
 **[20:19]** Si lè n'ap atake yon lavil nou wè nou blije sènen l' pandan lontan anvan pou nou ka pran l', piga nou koupe ankenn pyebwa ki bay fwi, paske nou ka bezwen fwi yo pou nou manje. Pa koupe pyebwa yo. Se pyebwa ase yo ye, se pa moun yo ye. Ou pa ka aji avèk yo tankou moun ki nan lavil ou sènen an.
 
-**[20:20]** Men, nou gen dwa debranche pyebwa ki pa bay fwi, nou ka koupe yo, nou ka sèvi ak yo pou fè zouti pou atake lavil la jouk lavil la va tonbe nan men nou.  
+**[20:20]** Men, nou gen dwa debranche pyebwa ki pa bay fwi, nou ka koupe yo, nou ka sèvi ak yo pou fè zouti pou atake lavil la jouk lavil la va tonbe nan men nou.
 
 ### Chapter 21
 
@@ -11298,7 +11298,7 @@
 
 **[21:22]** Si yo kondannen yon moun pou yon krim li fè, epi lè yo fin touye l', yo pann kadav la nan yon pyebwa,
 
-**[21:23]** pa janm kite kadav la pase nwit sou pyebwa a. Se pou nou antere l' menm jou a, paske yon kadav pann nan yon pyebwa se bagay ki pa fè Bondye plezi. Se konsa nou p'ap kite yo fè ankenn vye bagay ki pou fè Seyè a, Bondye nou an, vire do ban nou nan peyi Seyè a pral ban nou pou nou rete a.  
+**[21:23]** pa janm kite kadav la pase nwit sou pyebwa a. Se pou nou antere l' menm jou a, paske yon kadav pann nan yon pyebwa se bagay ki pa fè Bondye plezi. Se konsa nou p'ap kite yo fè ankenn vye bagay ki pou fè Seyè a, Bondye nou an, vire do ban nou nan peyi Seyè a pral ban nou pou nou rete a.
 
 ### Chapter 22
 
@@ -11360,7 +11360,7 @@
 
 **[22:29]** nèg ki te kouche avèk fi a va gen pou l' bay papa fi a senkant pyès ajan. Li va pran fi a pou madanm li, paske li te fòse l' kouche avè l'. Li p'ap janm ka divòse avè l' jouk li mouri.
 
-**[22:30]** Yon nonm pa gen dwa kouche ak madanm papa l'. Li pa gen dwa avili papa l' konsa.  
+**[22:30]** Yon nonm pa gen dwa kouche ak madanm papa l'. Li pa gen dwa avili papa l' konsa.
 
 ### Chapter 23
 
@@ -11412,7 +11412,7 @@
 
 **[23:24]** Lè nou pase nan jaden rezen yon moun pèp Izrayèl parèy nou, nou gen dwa manje kont rezen nou, jan nou vle. Men, piga nou pran anyen pote ale.
 
-**[23:25]** Si nou antre nan jaden ble yon moun pèp Izrayèl parèy nou, si ble a mi, nou gen dwa kase kèk zepi ak men nou. Men, piga nou mete manchèt pou koupe ble ki mi nan jaden moun pèp Izrayèl parèy nou.  
+**[23:25]** Si nou antre nan jaden ble yon moun pèp Izrayèl parèy nou, si ble a mi, nou gen dwa kase kèk zepi ak men nou. Men, piga nou mete manchèt pou koupe ble ki mi nan jaden moun pèp Izrayèl parèy nou.
 
 ### Chapter 24
 
@@ -11458,7 +11458,7 @@
 
 **[24:21]** Lè nou fin koupe grap rezen nan jaden nou yo, pa tounen yon dezyèm fwa anba chak pye rezen pou repase branch yo. Sa ki va rete a, n'a kite yo pou moun lòt nasyon k'ap viv nan mitan nou yo, pou timoun ki san papa ak pou fanm ki pèdi mari yo.
 
-**[24:22]** Se pou nou toujou chonje yon lè nou te esklav nan peyi Lejip. Se poutèt sa mwen mande non pou nou swiv lòd mwen ban nou la a.  
+**[24:22]** Se pou nou toujou chonje yon lè nou te esklav nan peyi Lejip. Se poutèt sa mwen mande non pou nou swiv lòd mwen ban nou la a.
 
 ### Chapter 25
 
@@ -11498,7 +11498,7 @@
 
 **[25:18]** Yo pa t' gen krentif Bondye. Yo vin kontre nou sou chemen nou. Lè sa a nou te bouke, kò nou te kraze, epi yo pase pa dèyè, yo touye tout moun ki t'ap trennen dèyè yo.
 
-**[25:19]** Se poutèt sa, lè Seyè a, Bondye nou an, va ban nou lapè ak tout lènmi sa yo ki antoure nou toupatou nan peyi l'ap ban nou pou rele nou pa nou an, se pou nou touye tout moun Amalèk yo pou pesonn sou latè pa janm chonje yo ankò. Pa bliye sa!  
+**[25:19]** Se poutèt sa, lè Seyè a, Bondye nou an, va ban nou lapè ak tout lènmi sa yo ki antoure nou toupatou nan peyi l'ap ban nou pou rele nou pa nou an, se pou nou touye tout moun Amalèk yo pou pesonn sou latè pa janm chonje yo ankò. Pa bliye sa!
 
 ### Chapter 26
 
@@ -11538,7 +11538,7 @@
 
 **[26:18]** Jòdi a tou, Seyè a te asepte nou pou pèp li renmen anpil la, jan l' te fè nou pwomès la. Epi li pase nou lòd pou nou fè tou sa l'a mande nou fè.
 
-**[26:19]** L'ap fè nou tounen nasyon ki pi gran pase tout lòt nasyon li te fè yo. N'a gen pouvwa pase yo, n'a gen repitasyon pase yo, y'a respekte nou pase yo. Wi, n'a yon pèp k'ap viv apa nèt pou Seyè a, Bondye nou an, jan l' te di l' la.  
+**[26:19]** L'ap fè nou tounen nasyon ki pi gran pase tout lòt nasyon li te fè yo. N'a gen pouvwa pase yo, n'a gen repitasyon pase yo, y'a respekte nou pase yo. Wi, n'a yon pèp k'ap viv apa nèt pou Seyè a, Bondye nou an, jan l' te di l' la.
 
 ### Chapter 27
 
@@ -11592,7 +11592,7 @@
 
 **[27:25]** -Madichon Bondye pou moun ki asepte lajan pou touye yon inonsan! Tout pèp la va reponn: -Se sa menm! Nou dakò!
 
-**[27:26]** -Madichon Bondye pou moun ki pa kenbe pawòl ki nan lalwa a, ki pa fè sa yo di ladan l'! Tout pèp la va reponn: -Se sa menm! Nou dakò!  
+**[27:26]** -Madichon Bondye pou moun ki pa kenbe pawòl ki nan lalwa a, ki pa fè sa yo di ladan l'! Tout pèp la va reponn: -Se sa menm! Nou dakò!
 
 ### Chapter 28
 
@@ -11730,7 +11730,7 @@
 
 **[28:67]** Devan bagay n'a wè k'ap pase devan je nou, n'a gen yon sèl laperèz nan kè nou, kè nou va bat bip-bip! Chak maten n'a mande kilè aswè va rive. Chak aswè n'a mande kilè la jou.
 
-**[28:68]** Seyè a va fè nou tounen nan peyi Lejip nan bato, atout se li menm ki te pwomèt nou pa t'ap janm tounen la ankò. N' aval vann tèt nou bay lènmi nou yo pou nou sèvi yo esklav, men pesonn p'ap vle achte nou.  
+**[28:68]** Seyè a va fè nou tounen nan peyi Lejip nan bato, atout se li menm ki te pwomèt nou pa t'ap janm tounen la ankò. N' aval vann tèt nou bay lènmi nou yo pou nou sèvi yo esklav, men pesonn p'ap vle achte nou.
 
 ### Chapter 29
 
@@ -11790,7 +11790,7 @@
 
 **[29:28]** Seyè a fè kòlè, li move, li fache, li rache yo met deyò nan peyi yo a, l' al jete yo nan yon lòt peyi etranje kote yo ye koulye a.
 
-**[29:29]** Gen bagay nou pa konnen, se bagay Bondye kenbe nan kè l' pou li menm. Men, bagay li fè nou konnen yo, se bagay nou menm ak pitit nou yo pa dwe janm bliye pou nou ka fè tou sa li mande nou fè nan lalwa a.  
+**[29:29]** Gen bagay nou pa konnen, se bagay Bondye kenbe nan kè l' pou li menm. Men, bagay li fè nou konnen yo, se bagay nou menm ak pitit nou yo pa dwe janm bliye pou nou ka fè tou sa li mande nou fè nan lalwa a.
 
 ### Chapter 30
 
@@ -11832,7 +11832,7 @@
 
 **[30:19]** Mwen pran syèl la ak latè a sèvi m' temwen jòdi a: Men li, mwen mete devan nou lavi yon bò, lanmò yon bò, benediksyon yon bò, madichon yon bò pou nou chwazi. Chwazi lavi tande, pou nou ka viv, nou menm ansanm ak tout pitit nou yo.
 
-**[30:20]** renmen Seyè a, Bondye nou an. Koute l'. Pa lage l' menm, paske se li menm ki tout lavi nou, se li k'ap fè nou viv lontan nan peyi Seyè a te fè pwomès li t'ap bay Abraram, Izarak ak Jakòb, zansèt nou yo.  
+**[30:20]** renmen Seyè a, Bondye nou an. Koute l'. Pa lage l' menm, paske se li menm ki tout lavi nou, se li k'ap fè nou viv lontan nan peyi Seyè a te fè pwomès li t'ap bay Abraram, Izarak ak Jakòb, zansèt nou yo.
 
 ### Chapter 31
 
@@ -11894,7 +11894,7 @@
 
 **[31:29]** Paske mwen konnen, lè m'a mouri, nou pral lage kò nou nan fè move bagay, nou pral kite chemen mwen te louvri devan nou an. Lè sa a, malè pral tonbe sou nou, paske nou te fè sa ki mal nan je Seyè a, nou te eksite kòlè li avèk tout move bagay nou t'ap fè yo.
 
-**[31:30]** Lè sa a, Moyiz pran resite byen fò tout chante sa a, depi nan konmansman jouk li bout, devan tout moun pèp Izrayèl yo ki te reyini pou yo te ka tande sa l'ap di a.  
+**[31:30]** Lè sa a, Moyiz pran resite byen fò tout chante sa a, depi nan konmansman jouk li bout, devan tout moun pèp Izrayèl yo ki te reyini pou yo te ka tande sa l'ap di a.
 
 ### Chapter 32
 
@@ -12000,7 +12000,7 @@
 
 **[32:51]** Nou tou de, nou pa t' fè sa m' te di nou fè devan pèp Izrayèl la, lè yo te bò sous dlo Meriba yo, bò lavil Kadès, nan dezè Zin lan. Nou te manke m' respe devan tout pèp Izrayèl la.
 
-**[32:52]** Se poutèt sa, w'a rete byen lwen, w'a wè peyi mwen pral bay moun pèp Izrayèl yo anba nan pye ou. Men ou menm, ou p'ap mete pye ou ladan l'.  
+**[32:52]** Se poutèt sa, w'a rete byen lwen, w'a wè peyi mwen pral bay moun pèp Izrayèl yo anba nan pye ou. Men ou menm, ou p'ap mete pye ou ladan l'.
 
 ### Chapter 33
 
@@ -12060,7 +12060,7 @@
 
 **[33:28]** Pèp Izrayèl la ap viv ak kè poze. Moun pèp Izrayèl yo p'ap viv tankou lòt nasyon yo. Y'ap viv nan yon peyi k'ap bay anpil farin ak diven, nan yon peyi kote ki p'ap janm manke lapli.
 
-**[33:29]** Ala bon sa bon pou nou, moun pèp Izrayèl! Pa gen tankou nou! Se Seyè a menm ki delivrans nou! Se li ki pwoteksyon nou! Se li ki defans nou! L'ap mache devan nou pou l' fè nou genyen batay la. Lènmi nou yo va vin mande padon nan pye nou. Men nou menm, n'a kraze sa ki fè lògèy yo a anba pye nou.  
+**[33:29]** Ala bon sa bon pou nou, moun pèp Izrayèl! Pa gen tankou nou! Se Seyè a menm ki delivrans nou! Se li ki pwoteksyon nou! Se li ki defans nou! L'ap mache devan nou pou l' fè nou genyen batay la. Lènmi nou yo va vin mande padon nan pye nou. Men nou menm, n'a kraze sa ki fè lògèy yo a anba pye nou.
 
 ### Chapter 34
 
@@ -12086,7 +12086,7 @@
 
 **[34:11]** Pa gen lòt pwofèt ki janm fè tout mirak ak tout mèvèy sa yo Seyè a te voye l' al fè nan peyi Lejip, kont farawon an, kont moun k'ap sèvi gouvenman l' yo ak tout moun ki te nan peyi a.
 
-**[34:12]** Pa gen lòt pwofèt ki janm gen menm pouvwa sa a pou fè tout kalite gwo bagay sa yo Moyiz te fè devan tout pèp Izrayèl la.   
+**[34:12]** Pa gen lòt pwofèt ki janm gen menm pouvwa sa a pou fè tout kalite gwo bagay sa yo Moyiz te fè devan tout pèp Izrayèl la.
 
 ## Joshua
 
@@ -12126,7 +12126,7 @@
 
 **[1:17]** Menm jan nou te toujou obeyi Moyiz, se konsa n'ap obeyi ou tou. Sèl bagay, n'ap lapriyè pou Bondye toujou kanpe avè ou menm jan li te kanpe ak Moyiz la.
 
-**[1:18]** Se pou yo touye tout moun ki pa dakò ak lòd ou, osinon ki pa vle obeyi lòd ou bay, osinon ki derefize fè sa ou mande yo fè. Sèlman, met gason sou ou! Pa janm dekouraje!  
+**[1:18]** Se pou yo touye tout moun ki pa dakò ak lòd ou, osinon ki pa vle obeyi lòd ou bay, osinon ki derefize fè sa ou mande yo fè. Sèlman, met gason sou ou! Pa janm dekouraje!
 
 ### Chapter 2
 
@@ -12176,7 +12176,7 @@
 
 **[2:23]** Lè sa a, de mesye yo tounen, yo desann soti nan mòn yo, yo janbe larivyè Jouden an, y' al jwenn Jozye, pitit Noun lan, yo rakonte l' tou sa ki te rive yo.
 
-**[2:24]** Yo di l' konsa: -Seyè a lage tout peyi a nan men nou. Tout moun nan peyi a ap tranble tèlman yo pè nou.  
+**[2:24]** Yo di l' konsa: -Seyè a lage tout peyi a nan men nou. Tout moun nan peyi a ap tranble tèlman yo pè nou.
 
 ### Chapter 3
 
@@ -12212,7 +12212,7 @@
 
 **[3:16]** Dlo ki t'ap koule desann lan sispann koule. Li gonfle yon sèl bò, bò anwo byen lwen, jouk Adam, lavil ki te toupre Zaretan an. Pa t' gen dlo ki t'ap koule desann nan lanmè Mouri a ankò. Se konsa pèp la janbe lòt bò larivyè a toupre lavil Jeriko.
 
-**[3:17]** Pandan pèp la t'ap janbe lòt bò san tak dlo pa mouye pye yo, prèt yo te rete kanpe nan mitan larivyè a avèk Bwat Kontra a. Pa t' gen tak dlo kote yo te ye a. Yo rete kanpe la jouk tout pèp la te fin pase nèt.  
+**[3:17]** Pandan pèp la t'ap janbe lòt bò san tak dlo pa mouye pye yo, prèt yo te rete kanpe nan mitan larivyè a avèk Bwat Kontra a. Pa t' gen tak dlo kote yo te ye a. Yo rete kanpe la jouk tout pèp la te fin pase nèt.
 
 ### Chapter 4
 
@@ -12262,7 +12262,7 @@
 
 **[4:23]** Paske Seyè a, Bondye nou an, te cheche dlo larivyè Jouden an devan nou jouk nou tout fin pase, menm jan li te cheche Lanmè Wouj la devan zansèt nou yo jouk yo tout te fin pase.
 
-**[4:24]** Se poutèt sa, tout moun sou latè va konnen jan Seyè a gen pouvwa, lèfini nou menm n'a toujou gen krentif pou Seyè a, Bondye nou an.  
+**[4:24]** Se poutèt sa, tout moun sou latè va konnen jan Seyè a gen pouvwa, lèfini nou menm n'a toujou gen krentif pou Seyè a, Bondye nou an.
 
 ### Chapter 5
 
@@ -12294,7 +12294,7 @@
 
 **[5:14]** Nonm lan reponn li: -M' pa ni yonn ni lòt. Mwen se kòmandan an chèf lame Seyè a. Mwen fèk rive. Jozye tonbe ajenou devan l', li bese tèt li jouk atè, li di l' konsa: -Se sèvitè ou mwen ye, mèt. Kisa ou vle m' fè pou ou?
 
-**[5:15]** Kòmandan an chèf lame Seyè a di l' konsa: -Wete sapat nan pye ou. Kote ou kanpe a se yon kote ki apa pou Bondye. Epi Jozye fè sa li di l' fè a.  
+**[5:15]** Kòmandan an chèf lame Seyè a di l' konsa: -Wete sapat nan pye ou. Kote ou kanpe a se yon kote ki apa pou Bondye. Epi Jozye fè sa li di l' fè a.
 
 ### Chapter 6
 
@@ -12350,7 +12350,7 @@
 
 **[6:26]** Lè sa a, Jozye bay avètisman sa a pou tout moun, li di: -Madichon Bondye pou nenpòt moun ki konprann pou l' ta rebati lavil yo rele Jeriko a. Si yon moun mete men nan fondasyon l' yo, l'ap pèdi premye pitit gason l' lan. Si yon moun remoute pòtay li yo, l'ap pèdi dènye pitit gason l' la.
 
-**[6:27]** Se konsa Seyè a te kanpe la avèk Jozye. Nan tout peyi a yo t'ap nonmen non l'.  
+**[6:27]** Se konsa Seyè a te kanpe la avèk Jozye. Nan tout peyi a yo t'ap nonmen non l'.
 
 ### Chapter 7
 
@@ -12404,7 +12404,7 @@
 
 **[7:25]** Epi Jozye di Akan konsa: -Poukisa ou rale tout malè sa a sou tèt nou? Jòdi a, Seyè a pral fè malè tonbe sou ou! Epi tout moun pèp Izrayèl yo pran wòch, yo kalonnen yo jouk yo touye yo. Yo boule tout bagay yo nan dife. Yo touye tout fanmi l' yo ak bèt li yo ak koutwòch.
 
-**[7:26]** Yo mete yon gwo pil wòch sou yo. Gwo pil wòch sa a la jouk jòdi a. Se poutèt sa, jouk jòdi a, yo rele kote sa a Fon Malè. Se konsa Seyè a te sispann move sou pèp la.  
+**[7:26]** Yo mete yon gwo pil wòch sou yo. Gwo pil wòch sa a la jouk jòdi a. Se poutèt sa, jouk jòdi a, yo rele kote sa a Fon Malè. Se konsa Seyè a te sispann move sou pèp la.
 
 ### Chapter 8
 
@@ -12476,7 +12476,7 @@
 
 **[8:34]** Lèfini, Jozye li tout pawòl ki te nan liv lalwa a, pawòl benediksyon yo kou pawòl madichon yo, jan yo ekri nan liv lalwa a.
 
-**[8:35]** Jozye li tout kòmandman Moyiz te bay yo san sote yon mo devan tout pèp Izrayèl la ki te reyini ansanm ak fanm yo, timoun yo ak tout moun lòt nasyon ki t'ap viv nan mitan yo.  
+**[8:35]** Jozye li tout kòmandman Moyiz te bay yo san sote yon mo devan tout pèp Izrayèl la ki te reyini ansanm ak fanm yo, timoun yo ak tout moun lòt nasyon ki t'ap viv nan mitan yo.
 
 ### Chapter 9
 
@@ -12532,7 +12532,7 @@
 
 **[9:26]** Se konsa Jozye delivre yo anba men moun pèp Izrayèl yo, li pa kite yo touye yo.
 
-**[9:27]** Depi jou sa a, Jozye mete yo la pou fann bwa, pou bwote dlo pou pèp Izrayèl la ak pou lotèl Seyè a. Jouk jòdi a, se sa y'ap fè tout kote Seyè a chwazi pou yo adore l' la.  
+**[9:27]** Depi jou sa a, Jozye mete yo la pou fann bwa, pou bwote dlo pou pèp Izrayèl la ak pou lotèl Seyè a. Jouk jòdi a, se sa y'ap fè tout kote Seyè a chwazi pou yo adore l' la.
 
 ### Chapter 10
 
@@ -12620,7 +12620,7 @@
 
 **[10:42]** Jozye te pran tout wa sa yo ak tout peyi yo nan yon sèl soti, paske Seyè a, Bondye pèp Izrayèl la, t'ap goumen pou pèp la.
 
-**[10:43]** Lèfini, Jozye ansanm ak tout lame Izrayèl la tounen nan kan yo Gilgal.  
+**[10:43]** Lèfini, Jozye ansanm ak tout lame Izrayèl la tounen nan kan yo Gilgal.
 
 ### Chapter 11
 
@@ -12668,7 +12668,7 @@
 
 **[11:22]** Pa t' gen yon moun Anak ankò nan peyi Izrayèl la, esepte lavil Gaza, lavil Gat ak lavil Asdòd.
 
-**[11:23]** Jozye te pran tout peyi a, jan Seyè a te di Moyiz la, epi li bay pèp Izrayèl la li pou li rele l' pa l'. Li separe l', li bay chak branch fanmi pòsyon pa yo. Apre tout batay sa yo, peyi a t'ap viv nan lapè, pa t' gen goumen ankò.  
+**[11:23]** Jozye te pran tout peyi a, jan Seyè a te di Moyiz la, epi li bay pèp Izrayèl la li pou li rele l' pa l'. Li separe l', li bay chak branch fanmi pòsyon pa yo. Apre tout batay sa yo, peyi a t'ap viv nan lapè, pa t' gen goumen ankò.
 
 ### Chapter 12
 
@@ -12718,7 +12718,7 @@
 
 **[12:23]** wa lavil Dò sou zòn bò rivaj lanmè a, wa Goyim yo nan peyi Galile,
 
-**[12:24]** wa lavil Tiza. Sa te fè antou tranteyen wa ki te peri.  
+**[12:24]** wa lavil Tiza. Sa te fè antou tranteyen wa ki te peri.
 
 ### Chapter 13
 
@@ -12786,7 +12786,7 @@
 
 **[13:32]** Se konsa Moyiz te separe tè ki lòt bò larivyè Jouden, anfas lavil Jeriko, sou bò solèy leve, lè li te nan plenn Moab yo.
 
-**[13:33]** Men, Moyiz pa t' bay moun branch fanmi Levi yo ankenn pòsyon nan peyi a pou rele yo pa yo. Li te di yo sèl byen yo se Seyè a, Bondye pèp Izrayèl la.  
+**[13:33]** Men, Moyiz pa t' bay moun branch fanmi Levi yo ankenn pòsyon nan peyi a pou rele yo pa yo. Li te di yo sèl byen yo se Seyè a, Bondye pèp Izrayèl la.
 
 ### Chapter 14
 
@@ -12818,7 +12818,7 @@
 
 **[14:14]** Jouk koulye a, Ebwon rete pou Kalèb ak pou moun ras fanmi li yo, paske Kalèb te fè tou sa Seyè a, Bondye pèp Izrayèl la, te vle l' fè.
 
-**[14:15]** Nan tan lontan, yo te rele lavil Ebwon an Kiriyat aba. Aba sa a, se li ki te pi gwonèg nan tout ras moun Anak yo. Depi apre lè sa a, peyi a t'ap viv ak kè poze. Pa t' gen goumen ankò.  
+**[14:15]** Nan tan lontan, yo te rele lavil Ebwon an Kiriyat aba. Aba sa a, se li ki te pi gwonèg nan tout ras moun Anak yo. Depi apre lè sa a, peyi a t'ap viv ak kè poze. Pa t' gen goumen ankò.
 
 ### Chapter 15
 
@@ -12946,7 +12946,7 @@
 
 **[15:62]** Nibkan, Site Sèl la ak Angedi. Antou sa te fè sis lavil ak tout ti bouk ki sou lòd yo.
 
-**[15:63]** Men, moun Jida yo pa t' janm rive mete bann moun Jebis ki te rete lavil Jerizalèm yo deyò. Kifè, jouk jòdi a moun Jebis yo rete lavil Jerizalèm ansanm ak moun Jida yo.  
+**[15:63]** Men, moun Jida yo pa t' janm rive mete bann moun Jebis ki te rete lavil Jerizalèm yo deyò. Kifè, jouk jòdi a moun Jebis yo rete lavil Jerizalèm ansanm ak moun Jida yo.
 
 ### Chapter 16
 
@@ -12968,7 +12968,7 @@
 
 **[16:9]** ansanm ak lavil yo te pran nan mitan ti mòn moun Manase yo pou bay moun Efrayim yo.
 
-**[16:10]** Men yo pa t' rive mete moun Kanaran ki te rete lavil Gezè yo deyò. Se konsa, jouk jòdi a moun Kanaran yo ap viv nan mitan moun Efrayim yo. Men, yo te fòse moun Kanaran yo fè kòve pou yo.  
+**[16:10]** Men yo pa t' rive mete moun Kanaran ki te rete lavil Gezè yo deyò. Se konsa, jouk jòdi a moun Kanaran yo ap viv nan mitan moun Efrayim yo. Men, yo te fòse moun Kanaran yo fè kòve pou yo.
 
 ### Chapter 17
 
@@ -13006,7 +13006,7 @@
 
 **[17:17]** Jozye di moun Jozèf yo, ki vle di moun Efrayim yo ak moun Manase yo: -Nou anpil vre. Nou gen anpil fòs. Nou pa ka rete ak yon sèl pòsyon tè.
 
-**[17:18]** Tout mòn yo ap pou nou. Malgre se yon gwo rakbwa yo ye. N'a koupe bwa yo, epi n'a pran tout zòn lan nèt pou nou. Pou moun Kanaran yo menm, atout nou wè yo gen cha ki fèt an fè, atout yo fò a, rive yon lè, n'a mete yo deyò.  
+**[17:18]** Tout mòn yo ap pou nou. Malgre se yon gwo rakbwa yo ye. N'a koupe bwa yo, epi n'a pran tout zòn lan nèt pou nou. Pou moun Kanaran yo menm, atout nou wè yo gen cha ki fèt an fè, atout yo fò a, rive yon lè, n'a mete yo deyò.
 
 ### Chapter 18
 
@@ -13064,7 +13064,7 @@
 
 **[18:27]** Rekèm, Jipeyèl, Tareala,
 
-**[18:28]** Sela-Elèf, Jebis ki vle di Jerizalèm, Gibeya ak Kiriyat. Sa te fè antou katòz lavil ak tout ti bouk ki sou lòd yo. Men pòsyon tè yo te bay branch fanmi Benjamen yo pou yo separe bay chak fanmi pa yo.  
+**[18:28]** Sela-Elèf, Jebis ki vle di Jerizalèm, Gibeya ak Kiriyat. Sa te fè antou katòz lavil ak tout ti bouk ki sou lòd yo. Men pòsyon tè yo te bay branch fanmi Benjamen yo pou yo separe bay chak fanmi pa yo.
 
 ### Chapter 19
 
@@ -13168,7 +13168,7 @@
 
 **[19:50]** Jan Seyè a te ba yo lòd la, yo ba li lavil li te mande a: Timnat-Sera nan mòn Efrayim. Li rebati lavil la epi li rete ladan l'.
 
-**[19:51]** Men divès pòsyon tè Eleaza, prèt la, Jozye, pitit gason Noun lan, ak chèf fanmi yo te separe bay branch fanmi pèp Izrayèl la, devan Seyè a, nan papòt Tant Randevou a, apre yo te fin tire osò. Se konsa yo te fin separe peyi a nèt.  
+**[19:51]** Men divès pòsyon tè Eleaza, prèt la, Jozye, pitit gason Noun lan, ak chèf fanmi yo te separe bay branch fanmi pèp Izrayèl la, devan Seyè a, nan papòt Tant Randevou a, apre yo te fin tire osò. Se konsa yo te fin separe peyi a nèt.
 
 ### Chapter 20
 
@@ -13188,7 +13188,7 @@
 
 **[20:8]** Lòt bò larivyè Jouden an menm, nan platon ki anfas lavil Jeriko, bò solèy leve, yo chwazi twa lavil nan dezè a pou sa tou: Bezè nan zòn ki pou moun branch fanmi Woubenn yo, Ramòt-Galarad nan zòn ki pou moun branch fanmi Gad yo, ak Golan nan peyi Bazan an nan zòn ki pou moun branch fanmi Manase yo.
 
-**[20:9]** Men non lavil yo te chwazi pou bay pwoteksyon yo. Nenpòt moun nan pèp Izrayèl la osinon nan moun lòt nasyon k'ap viv nan mitan yo ki ta touye yon moun san fè espre, l'a gen dwa kouri al kache la pou yo ka pwoteje l' pou l' pa tonbe anba men moun ki fanmi pi pre moun li te touye a, anvan li parèt devan tout pèp la pou yo jije l'.  
+**[20:9]** Men non lavil yo te chwazi pou bay pwoteksyon yo. Nenpòt moun nan pèp Izrayèl la osinon nan moun lòt nasyon k'ap viv nan mitan yo ki ta touye yon moun san fè espre, l'a gen dwa kouri al kache la pou yo ka pwoteje l' pou l' pa tonbe anba men moun ki fanmi pi pre moun li te touye a, anvan li parèt devan tout pèp la pou yo jije l'.
 
 ### Chapter 21
 
@@ -13280,7 +13280,7 @@
 
 **[21:44]** Seyè a te fè yo gen lapè sou tout fwontyè yo, jan li te pwomèt zansèt yo. Ankenn lènmi pa t' resi kenbe tèt ak yo. Seyè a te lage tout lènmi yo nan men yo.
 
-**[21:45]** Seyè a te kenbe dènye pwomès li te fè pèp Izrayèl la. Tout bagay te pase jan l' te pwomèt la.  
+**[21:45]** Seyè a te kenbe dènye pwomès li te fè pèp Izrayèl la. Tout bagay te pase jan l' te pwomèt la.
 
 ### Chapter 22
 
@@ -13350,7 +13350,7 @@
 
 **[22:33]** Sa te fè pèp Izrayèl la plezi anpil: yo fè lwanj Bondye. Depi lè sa a, yo pa janm pale ankò sou keksyon al atake moun Woubenn yo ak moun Gad yo ni sou keksyon al detwi peyi moun sa yo.
 
-**[22:34]** Moun branch fanmi Woubenn yo ak moun branch fanmi Gad yo rele lotèl la Temwen, paske yo t'ap di: L'a sèvi temwen devan nou tout se Seyè a ki Bondye.  
+**[22:34]** Moun branch fanmi Woubenn yo ak moun branch fanmi Gad yo rele lotèl la Temwen, paske yo t'ap di: L'a sèvi temwen devan nou tout se Seyè a ki Bondye.
 
 ### Chapter 23
 
@@ -13384,7 +13384,7 @@
 
 **[23:15]** Wi, menm jan Seyè a, Bondye nou an, te fè pou nou tout bèl bagay li te pwomèt nou yo, konsa tou, si nou vire do ba li, l'a voye sou nou tout kalite malè, jouk l'a disparèt nou nèt nan bon peyi Seyè a, Bondye nou an, ban nou an.
 
-**[23:16]** Si nou pa respekte kontra Seyè a, Bondye nou an, te pase ak nou an, si n' al adore lòt bondye, si n' al fè sèvis pou yo, Seyè a pral move sou nou, epi lapoula, n'ap disparèt nan bon peyi sa a li te ban nou an.  
+**[23:16]** Si nou pa respekte kontra Seyè a, Bondye nou an, te pase ak nou an, si n' al adore lòt bondye, si n' al fè sèvis pou yo, Seyè a pral move sou nou, epi lapoula, n'ap disparèt nan bon peyi sa a li te ban nou an.
 
 ### Chapter 24
 
@@ -13452,7 +13452,7 @@
 
 **[24:32]** Pèp Izrayèl la te pran zosman Jozèf yo avèk yo lè yo t'ap soti kite peyi Lejip. Yo antere zosman yo sou moso tè Jakòb te achte nan men pitit Amò yo pou san pyès ajan. Se Amò sa a ki te papa Sichèm. Moso tè a rete pou pitit pitit Jozèf yo.
 
-**[24:33]** Apre sa, lè Eleaza, pitit gason Arawon an, mouri, yo antere l' sou ti mòn ki te pou Fineas, pitit gason l' lan. Yo te ba li ti mòn sa a ki nan mitan mòn ki pou branch fanmi Efrayim lan.   
+**[24:33]** Apre sa, lè Eleaza, pitit gason Arawon an, mouri, yo antere l' sou ti mòn ki te pou Fineas, pitit gason l' lan. Yo te ba li ti mòn sa a ki nan mitan mòn ki pou branch fanmi Efrayim lan.
 
 ## Judges
 
@@ -13528,7 +13528,7 @@
 
 **[1:35]** Se konsa, moun Amori yo rete rete yo nan mòn Erès, nan lavil Ayalon ak nan lavil Chalbim. Men, lè moun fanmi Jozèf yo rive donminen sou yo, yo fè yo travay pou yo.
 
-**[1:36]** Fwontyè peyi moun Amori yo te konmanse depi pas Eskòpyon yo, moute rive gwo Wòch.  
+**[1:36]** Fwontyè peyi moun Amori yo te konmanse depi pas Eskòpyon yo, moute rive gwo Wòch.
 
 ### Chapter 2
 
@@ -13576,7 +13576,7 @@
 
 **[2:22]** Se konsa m'a wè kote m' ye ak pèp Izrayèl la. M'a konnen si wi ou non yo soti pou fè sa m' mande yo fè a jan zansèt yo te fè l' la.
 
-**[2:23]** Se konsa Seyè a te kite lòt nasyon li pa t' lage anba men Jozye yo rete nan peyi a. Li pa prese mete yo deyò.  
+**[2:23]** Se konsa Seyè a te kite lòt nasyon li pa t' lage anba men Jozye yo rete nan peyi a. Li pa prese mete yo deyò.
 
 ### Chapter 3
 
@@ -13640,7 +13640,7 @@
 
 **[3:30]** Jou sa a, moun pèp Izrayèl yo bat moun Moab yo byen bat. Apre sa, pandan katreventan te gen lapè nan peyi a.
 
-**[3:31]** Apre Eyoud, yo vin gen yon lòt chèf: Se te Chanmga, pitit Anat. Li menm menm avèk yon fwèt kach po bèf, li te touye sisan (600) sòlda nan lame moun Filisti yo. Konsa li delivre pèp Izrayèl la.  
+**[3:31]** Apre Eyoud, yo vin gen yon lòt chèf: Se te Chanmga, pitit Anat. Li menm menm avèk yon fwèt kach po bèf, li te touye sisan (600) sòlda nan lame moun Filisti yo. Konsa li delivre pèp Izrayèl la.
 
 ### Chapter 4
 
@@ -13690,7 +13690,7 @@
 
 **[4:23]** Jou sa a, Bondye te fè Jaben, wa peyi Kanaran an, bese tèt devan pèp Izrayèl la.
 
-**[4:24]** Moun pèp Izrayèl yo pran maltrete Jaben, wa peyi Kanaran an, jouk yo touye l'.  
+**[4:24]** Moun pèp Izrayèl yo pran maltrete Jaben, wa peyi Kanaran an, jouk yo touye l'.
 
 ### Chapter 5
 
@@ -13754,7 +13754,7 @@
 
 **[5:30]** -Koulye a yo dwe ap separe sa yo pran nan men lènmi yo! Yon fi, de fi pou chak sòlda, bèl twal koulè byen bwode pou Sisera, yon gwo mouchwa bwode byen bèl pou l' mete nan kou l'.
 
-**[5:31]** Wi, Seyè! Se konsa pou tout lènmi ou yo mouri. Men, zanmi ou yo ap klere tankou solèy midi. Apre sa, te gen lapè nan peyi a pandan karantan.  
+**[5:31]** Wi, Seyè! Se konsa pou tout lènmi ou yo mouri. Men, zanmi ou yo ap klere tankou solèy midi. Apre sa, te gen lapè nan peyi a pandan karantan.
 
 ### Chapter 6
 
@@ -13836,7 +13836,7 @@
 
 **[6:39]** Lèfini, Jedeyon di Bondye ankò: -Tanpri, pa fache sou mwen non! Kite m' di ou yon dènye bagay. Kite m' fè esperyans moso lenn lan yon lòt fwa ankò. Men, fwa sa a se pou moso lenn lan rete chèch, epi pou lawouze sou tout glasi a.
 
-**[6:40]** Jou lannwit sa a, Bondye fè sa konsa vre: moso lenn lan te rete byen chèch, men te gen lawouze sou tout glasi a.  
+**[6:40]** Jou lannwit sa a, Bondye fè sa konsa vre: moso lenn lan te rete byen chèch, men te gen lawouze sou tout glasi a.
 
 ### Chapter 7
 
@@ -13888,7 +13888,7 @@
 
 **[7:24]** Jedeyon menm voye mesaje nan tout mòn Efrayim yo pou di mesye yo: -Desann, vin goumen ak moun Madyan yo. Al bare yo bò dlo a sou tout longè larivyè Jouden an jouk Bèt-Bara pou anpeche yo pase. Tout moun Efrayim yo reyini vre. Epi y' al bare wout la sou bò dlo a sou tout longè larivyè Jouden an jouk Bèt-Bara.
 
-**[7:25]** Yo mete men sou Orèb ak Zeyèb, de nan chèf moun Madyan yo. Yo touye Orèb sou Wòch Orèb la, Zeyèb nan basen rezen Zeyèb la. Apre sa, yo kouri toujou dèyè moun Madyan yo. Lèfini, yo pote tèt Orèb ak tèt Zeyèb bay Jedeyon ki te sou bò solèy leve larivyè Jouden an.  
+**[7:25]** Yo mete men sou Orèb ak Zeyèb, de nan chèf moun Madyan yo. Yo touye Orèb sou Wòch Orèb la, Zeyèb nan basen rezen Zeyèb la. Apre sa, yo kouri toujou dèyè moun Madyan yo. Lèfini, yo pote tèt Orèb ak tèt Zeyèb bay Jedeyon ki te sou bò solèy leve larivyè Jouden an.
 
 ### Chapter 8
 
@@ -13960,7 +13960,7 @@
 
 **[8:34]** Se konsa, yo pa dòmi reve Seyè a, Bondye yo a, li menm ki te delivre yo anba men lènmi ki te sènen yo toupatou.
 
-**[8:35]** Yo moutre yo engra, yo bliye fanmi Jedeyon an ansanm ak tout byen li te fè pou pèp Izrayèl la.  
+**[8:35]** Yo moutre yo engra, yo bliye fanmi Jedeyon an ansanm ak tout byen li te fè pou pèp Izrayèl la.
 
 ### Chapter 9
 
@@ -14076,7 +14076,7 @@
 
 **[9:56]** Se konsa Bondye te fè Abimelèk peye pou krim li te fè kont fanmi papa l' la, lè li te touye swasanndis frè l' yo.
 
-**[9:57]** Bondye te fè moun lavil Sichèm yo soufri pou mechanste yo te fè lòt moun soufri. Se konsa, madichon Jotam, pitit gason Jewoubaal la, te wè pou yo a rive yo vre.  
+**[9:57]** Bondye te fè moun lavil Sichèm yo soufri pou mechanste yo te fè lòt moun soufri. Se konsa, madichon Jotam, pitit gason Jewoubaal la, te wè pou yo a rive yo vre.
 
 ### Chapter 10
 
@@ -14114,7 +14114,7 @@
 
 **[10:17]** Lè sa a, lame pèp Amon an sanble, y' al moute kan yo nan peyi Galarad. Lame pèp Izrayèl la menm te sanble tou, yo moute kan yo lavil Mispa.
 
-**[10:18]** Pèp peyi Galarad la ak chèf yo t'ap pale, yonn t'ap di lòt: -Moun ki pral mennen batay la kont moun Amon yo, se li menm ki pral chèf tout moun nan peyi Galarad!  
+**[10:18]** Pèp peyi Galarad la ak chèf yo t'ap pale, yonn t'ap di lòt: -Moun ki pral mennen batay la kont moun Amon yo, se li menm ki pral chèf tout moun nan peyi Galarad!
 
 ### Chapter 11
 
@@ -14196,7 +14196,7 @@
 
 **[11:39]** Sou de mwa, li tounen vin jwenn papa l' ki fè sa l' te pwomèt fè pou Seyè a. Se konsa, li mouri tifi. Se depi lè sa a sa rete yon koutim nan peyi Izrayèl la,
 
-**[11:40]** pou chak lanne medam pèp Izrayèl yo soti al pase kat jou ap kriye pou pitit fi Jefte, moun peyi Galarad la.  
+**[11:40]** pou chak lanne medam pèp Izrayèl yo soti al pase kat jou ap kriye pou pitit fi Jefte, moun peyi Galarad la.
 
 ### Chapter 12
 
@@ -14228,7 +14228,7 @@
 
 **[12:14]** Li te gen karant pitit gason ak trant pitit pitit gason ki te konn moute sou swasanndis ti bourik. Li gouvènen pèp Izrayèl la pandan witan.
 
-**[12:15]** Lè Abdon, pitit gason Ilèl la, mouri, yo antere l' lavil Piraton nan peyi Efrayim, nan mòn moun Amalèk yo.  
+**[12:15]** Lè Abdon, pitit gason Ilèl la, mouri, yo antere l' lavil Piraton nan peyi Efrayim, nan mòn moun Amalèk yo.
 
 ### Chapter 13
 
@@ -14280,7 +14280,7 @@
 
 **[13:24]** Apre sa, madanm lan fè yon pitit gason, li rele l' Samson. Pitit la grandi, Seyè a te beni l'.
 
-**[13:25]** Epi lespri Seyè a konmanse travay nan li antan li te nan kan moun Dann yo, ant Soreja ak Echtawòl.  
+**[13:25]** Epi lespri Seyè a konmanse travay nan li antan li te nan kan moun Dann yo, ant Soreja ak Echtawòl.
 
 ### Chapter 14
 
@@ -14322,7 +14322,7 @@
 
 **[14:19]** Lè sa a, lespri Seyè a desann sou Samson pou ba l' fòs. Li pati, l' ale lavil Askalon. Li touye trant gason nan moun lavil la, epi li pran rad ki te sou yo, li pote yo bay mesye ki te jwenn kont lan. Apre sa, li fè yon sèl kòlè, li tounen lakay papa l'.
 
-**[14:20]** Lè sa a, moun yo rele yonn nan moun ki te avèk Samson yo, sa ki te pi bon zanmi l' lan, yo ba li madan Samson pou madanm li.  
+**[14:20]** Lè sa a, moun yo rele yonn nan moun ki te avèk Samson yo, sa ki te pi bon zanmi l' lan, yo ba li madan Samson pou madanm li.
 
 ### Chapter 15
 
@@ -14364,7 +14364,7 @@
 
 **[15:19]** Lè sa a, Bondye louvri yon twou nan tè a bò lavil Leki a, epi dlo pete soti ladan l'. Samson bwè dlo, li santi l' refè. Se poutèt sa yo rele sous sa a Sous Akore. Sous sa a la bò lavil Leki jouk jòdi a.
 
-**[15:20]** Samson gouvènen pèp Izrayèl la pandan ventan sou rèy moun Filisti yo.  
+**[15:20]** Samson gouvènen pèp Izrayèl la pandan ventan sou rèy moun Filisti yo.
 
 ### Chapter 16
 
@@ -14428,7 +14428,7 @@
 
 **[16:30]** Epi li di: -M' te mèt mouri ansanm ak moun Filisti yo. Li pouse ak tout fòs li sou poto yo, epi tanp lan tonbe sou tout chèf yo ak sou tout moun ki te la yo. Jou li mouri a, li te touye plis moun pase kantite moun li te touye pandan lavi li.
 
-**[16:31]** Frè l' yo ansanm ak tout fanmi l' yo desann vin pran kadav la. Yo pote l' tounen lakay yo, yo antere l' nan kavo Manoak, papa li, ant lavil Soreja ak lavil Echtawòl. Li te pase ventan (20 an) ap gouvènen moun pèp Izrayèl la.  
+**[16:31]** Frè l' yo ansanm ak tout fanmi l' yo desann vin pran kadav la. Yo pote l' tounen lakay yo, yo antere l' nan kavo Manoak, papa li, ant lavil Soreja ak lavil Echtawòl. Li te pase ventan (20 an) ap gouvènen moun pèp Izrayèl la.
 
 ### Chapter 17
 
@@ -14456,7 +14456,7 @@
 
 **[17:12]** Mika menm bay moun Levi a pouvwa pou l' sèvi l' prèt. Se konsa, li rete nèt lakay Mika.
 
-**[17:13]** Lè sa a, Mika di konsa: -Koulye a, mwen konnen Seyè a pral fè tout zafè m' mache byen paske mwen gen yon moun Levi k'ap sèvi m' prèt.  
+**[17:13]** Lè sa a, Mika di konsa: -Koulye a, mwen konnen Seyè a pral fè tout zafè m' mache byen paske mwen gen yon moun Levi k'ap sèvi m' prèt.
 
 ### Chapter 18
 
@@ -14520,7 +14520,7 @@
 
 **[18:30]** Moun Dann yo fè yon zidòl pou yo sèvi. Se Jonatan, pitit gason Gèchon ki li menm te pitit Moyiz, ki te sèvi yo prèt. Se pitit li yo ki te toujou sèvi yo prèt apre sa jouk lè yo te depòte pèp la nan peyi etranje.
 
-**[18:31]** Zidòl Mika a te rete la nan mitan yo pandan tout tan kay Bondye a te lavil Silo.  
+**[18:31]** Zidòl Mika a te rete la nan mitan yo pandan tout tan kay Bondye a te lavil Silo.
 
 ### Chapter 19
 
@@ -14582,7 +14582,7 @@
 
 **[19:29]** Lè l' rive lakay li, li pran yon kouto, li koupe kadav fanm kay li a fè douz moso, epi li voye yon moso nan chak branch fanmi peyi Izrayèl la.
 
-**[19:30]** Chak moun ki te wè sa di konsa: -Nou pa janm wè bagay konsa! Bagay konsa pa janm rive nan mitan nou depi lè pèp Izrayèl la kite peyi Lejip rive jounen jòdi a. Annou kalkile byen kisa nou pral fè pou sa. Sa nou di nan sa?  
+**[19:30]** Chak moun ki te wè sa di konsa: -Nou pa janm wè bagay konsa! Bagay konsa pa janm rive nan mitan nou depi lè pèp Izrayèl la kite peyi Lejip rive jounen jòdi a. Annou kalkile byen kisa nou pral fè pou sa. Sa nou di nan sa?
 
 ### Chapter 20
 
@@ -14680,7 +14680,7 @@
 
 **[20:47]** Men, gen sisan (600) nan moun ki te kouri al nan dezè a, bò Wòch Rimon an, ki rete kache pandan kat mwa.
 
-**[20:48]** Moun Izrayèl yo menm tounen dèyè lòt moun Benjamen yo. Yo touye depi se gason, bèt ak tout lòt moun ki te nan lavil yo. Yo mete dife nan tout lavil yo jwenn sou wout yo.  
+**[20:48]** Moun Izrayèl yo menm tounen dèyè lòt moun Benjamen yo. Yo touye depi se gason, bèt ak tout lòt moun ki te nan lavil yo. Yo mete dife nan tout lavil yo jwenn sou wout yo.
 
 ### Chapter 21
 
@@ -14732,7 +14732,7 @@
 
 **[21:24]** Lè sa a, rès moun pèp Izrayèl la leve yo pati, yo tounen lakay yo al jwenn fanmi yo, nan pòsyon tè yo te bay zansèt yo.
 
-**[21:25]** Nan tan sa a pa t' gen wa nan peyi Izrayèl la. Chak moun te fè sa yo pito.   
+**[21:25]** Nan tan sa a pa t' gen wa nan peyi Izrayèl la. Chak moun te fè sa yo pito.
 
 ## Ruth
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** Lè m' te pati isit la, mwen te gen tou sa m' te bezwen. Men jòdi a, Seyè a mennen m' tounen de men m' de pye m'. Poukisa pou n'ap rele m' Naomi toujou lè Seyè a fin vire do ban mwen, lè se malè ase Bondye ki gen tout pouvwa a voye sou mwen?
 
-**[1:22]** Se konsa Naomi tounen soti nan peyi Moab ansanm ak bèlfi li, Rit, moun peyi Moab. Lè yo rive lavil Betleyèm, rekòt grenn lòj te fèk konmanse.  
+**[1:22]** Se konsa Naomi tounen soti nan peyi Moab ansanm ak bèlfi li, Rit, moun peyi Moab. Lè yo rive lavil Betleyèm, rekòt grenn lòj te fèk konmanse.
 
 ### Chapter 2
 
@@ -14828,7 +14828,7 @@
 
 **[2:22]** Naomi reponn li: -Wi, pitit mwen! Pito ou rete travay avèk medam yo nan jaden Bòz la, tande. Si ou ale nan jaden lòt moun, malè ka rive ou.
 
-**[2:23]** Se konsa, Rit rete ansanm avèk medam k'ap travay ak Bòz yo. Li t'ap ranmase tèt lòj jouk travayè yo te fin rekòlte tout lòj la ak tout ble a. Li t'ap viv tout tan sa a ak bèlmè li toujou.  
+**[2:23]** Se konsa, Rit rete ansanm avèk medam k'ap travay ak Bòz yo. Li t'ap ranmase tèt lòj jouk travayè yo te fin rekòlte tout lòj la ak tout ble a. Li t'ap viv tout tan sa a ak bèlmè li toujou.
 
 ### Chapter 3
 
@@ -14866,7 +14866,7 @@
 
 **[3:17]** Epi li di: -Anvan m' ale, li di m' konsa ou pa ka tounen san anyen. Se konsa, li ban m' dis mamit lòj sa yo.
 
-**[3:18]** Naomi di l': -Koulye a, Rit mafi, poze kò ou tann pou ou wè jan sa pral pase. Bòz p'ap bay kò l' kanpo jòdi a, tout tan li pa regle zafè sa a.  
+**[3:18]** Naomi di l': -Koulye a, Rit mafi, poze kò ou tann pou ou wè jan sa pral pase. Bòz p'ap bay kò l' kanpo jòdi a, tout tan li pa regle zafè sa a.
 
 ### Chapter 4
 
@@ -14912,7 +14912,7 @@
 
 **[4:21]** Salmon te papa Bòz. Bòz te papa Obèd,
 
-**[4:22]** Obèd te papa Izayi, epi Izayi te papa David.   
+**[4:22]** Obèd te papa Izayi, epi Izayi te papa David.
 
 ## I Samuel
 
@@ -14972,7 +14972,7 @@
 
 **[1:27]** Mwen te mande l' pou l' te ban mwen pitit gason sa a. Li ban mwen sa m' te mande l' la.
 
-**[1:28]** Se konsa m' vin mete l' apa pou l' ka viv pou Seyè a ase jouk li mouri. Apre sa, yo adore Seyè a la nan tanp lan.  
+**[1:28]** Se konsa m' vin mete l' apa pou l' ka viv pou Seyè a ase jouk li mouri. Apre sa, yo adore Seyè a la nan tanp lan.
 
 ### Chapter 2
 
@@ -15046,7 +15046,7 @@
 
 **[2:35]** Mwen pral chwazi yon lòt prèt ki p'ap janm twonpe m'. L'a fè tou sa m'a vle l' fè, tou sa mwen ta renmen wè l' fè. M'a ba li yon fanmi ki p'ap janm disparèt, se yo ki va toujou sèvi wa mwen va chwazi a.
 
-**[2:36]** Men, moun ki va rete vivan nan fanmi ou lan va ale bò kote prèt sa a pou mande l' yon ti lajan ak yon ti manje, l'a lapriyè nan pye prèt la pou prèt la kite l' ede lòt prèt yo pou li ka jwenn kichòy pou l' manje.  
+**[2:36]** Men, moun ki va rete vivan nan fanmi ou lan va ale bò kote prèt sa a pou mande l' yon ti lajan ak yon ti manje, l'a lapriyè nan pye prèt la pou prèt la kite l' ede lòt prèt yo pou li ka jwenn kichòy pou l' manje.
 
 ### Chapter 3
 
@@ -15090,7 +15090,7 @@
 
 **[3:20]** Konsa, tout pèp Izrayèl la, depi moun ki te rete nan peyi Dann lan jouk sa ki rete lavil Bècheba, te vin rekonèt Samyèl tankou yon bon pwofèt k'ap pale pawòl Seyè a.
 
-**[3:21]** Seyè a menm te toujou ap parèt lavil Silo, paske se la li te konn fè Samyèl wè li, se la li te konn pale ak li.  
+**[3:21]** Seyè a menm te toujou ap parèt lavil Silo, paske se la li te konn fè Samyèl wè li, se la li te konn pale ak li.
 
 ### Chapter 4
 
@@ -15136,7 +15136,7 @@
 
 **[4:21]** Li rele ti gason an Ikabòd, epi li di: -Pèp Izrayèl la pèdi lasistans pouvwa Bondye a. Li t'ap di sa akòz Bwat Kontra Bondye yo te sezi a.
 
-**[4:22]** Li t'ap di: -Wi, avèk Bwat Kontra Bondye yo pran an, pèp Izrayèl la pèdi lasistans pouvwa Bondye a.  
+**[4:22]** Li t'ap di: -Wi, avèk Bwat Kontra Bondye yo pran an, pèp Izrayèl la pèdi lasistans pouvwa Bondye a.
 
 ### Chapter 5
 
@@ -15162,7 +15162,7 @@
 
 **[5:11]** Yo fè chache senk chèf moun Filisti yo. Yo di yo: -Voye Bwat Kontra Bondye pèp Izrayèl la tounen nan plas li, pou li pa touye tout moun isit yo. Tout lavil la te tèt anba, moun t'ap mouri paske Seyè a t'ap manyen rèd ak yo.
 
-**[5:12]** Sa ki pa t' mouri yo te gen tout kò yo kouvri ak bouton. Tout moun t'ap rele mande bondye pa yo sekou.  
+**[5:12]** Sa ki pa t' mouri yo te gen tout kò yo kouvri ak bouton. Tout moun t'ap rele mande bondye pa yo sekou.
 
 ### Chapter 6
 
@@ -15206,7 +15206,7 @@
 
 **[6:20]** Lè sa a, moun lavil Bèt-Chemèch yo di: -Ki moun ki ka kanpe devan Seyè a, Bondye sa a ki yon Bondye apa? Ki bò pou n' voye Bwat Kontra a ale pou l' pa rete lakay nou?
 
-**[6:21]** Yo pran kèk mesaje, yo voye yo ale bò kote moun lavil Kiriyat-Jearim, yo di yo konsa: -Moun Filisti yo voye Bwat Kontra Seyè a tounen. Vin pran l' mennen lakay nou.  
+**[6:21]** Yo pran kèk mesaje, yo voye yo ale bò kote moun lavil Kiriyat-Jearim, yo di yo konsa: -Moun Filisti yo voye Bwat Kontra Seyè a tounen. Vin pran l' mennen lakay nou.
 
 ### Chapter 7
 
@@ -15242,7 +15242,7 @@
 
 **[7:16]** Chak lanne li te fè vizit nan tout peyi a, li pase lavil Betèl, lavil Gilgal ak lavil Mispa. Nan tout lavil yo, li te konn regle tout kont moun yo te gen yonn ak lòt.
 
-**[7:17]** Apre sa, li tounen lakay li lavil Rama kote li te konn regle zafè pou pèp Izrayèl la tou. Li te bati yon lotèl pou Seyè a lavil Rama.  
+**[7:17]** Apre sa, li tounen lakay li lavil Rama kote li te konn regle zafè pou pèp Izrayèl la tou. Li te bati yon lotèl pou Seyè a lavil Rama.
 
 ### Chapter 8
 
@@ -15288,7 +15288,7 @@
 
 **[8:21]** Samyèl tande tou sa pèp la t'ap di. L' ale rapòte yo bay Seyè a.
 
-**[8:22]** Lè sa a, Seyè a reponn li: -Ou mèt fè sa yo di a. Ba yo yon wa pou gouvènen yo. Epi Samyèl di moun pèp Izrayèl yo: -Tout moun mèt tounen lakay yo.  
+**[8:22]** Lè sa a, Seyè a reponn li: -Ou mèt fè sa yo di a. Ba yo yon wa pou gouvènen yo. Epi Samyèl di moun pèp Izrayèl yo: -Tout moun mèt tounen lakay yo.
 
 ### Chapter 9
 
@@ -15344,7 +15344,7 @@
 
 **[9:26]** Nan denmen yo leve byen bonè. Lè bajou kase, Samyèl rele Sayil sou teras la: -Leve non. Mwen pral voye ou ale lakay ou. Sayil leve, epi yo tou de yo soti nan lari a ansanm.
 
-**[9:27]** Lè yo rive sou limit lavil la, Samyèl di Sayil konsa: -Di domestik ou a pran devan nou. Domestik la pran devan, epi Samyèl di Sayil ankò: -Ou menm, rete la yon ti moman pou m' ka fè ou konnen sa Seyè a di.  
+**[9:27]** Lè yo rive sou limit lavil la, Samyèl di Sayil konsa: -Di domestik ou a pran devan nou. Domestik la pran devan, epi Samyèl di Sayil ankò: -Ou menm, rete la yon ti moman pou m' ka fè ou konnen sa Seyè a di.
 
 ### Chapter 10
 
@@ -15400,7 +15400,7 @@
 
 **[10:26]** Sayil tou al lakay li lavil Gibeya. Bondye te pale nan kè kèk vanyan gason. Yo menm tou, y' ale ansanm ak Sayil.
 
-**[10:27]** Men te gen kèk vòryen ki t'ap di: -Ki jan jenn gason sa a ka rive delivre nou? Yo pa okipe Sayil menm, yo pa fè l' kado anyen. Sayil menm fè tankou li pa konprann.  
+**[10:27]** Men te gen kèk vòryen ki t'ap di: -Ki jan jenn gason sa a ka rive delivre nou? Yo pa okipe Sayil menm, yo pa fè l' kado anyen. Sayil menm fè tankou li pa konprann.
 
 ### Chapter 11
 
@@ -15432,7 +15432,7 @@
 
 **[11:14]** Epi Samyèl di yo: -Leve non. Ann al lavil Gilgal. Lè n'a rive la, n'a fè seremoni pou renmèt li pouvwa a.
 
-**[11:15]** Se konsa tout moun moute lavil Gilgal. Yo fè Sayil wa devan lotèl Seyè a. Yo touye bèt yo te ofri pou di Bondye mèsi. Sayil fè gwo fèt ansanm ak tout moun pèp Izrayèl yo lavil Gilgal.  
+**[11:15]** Se konsa tout moun moute lavil Gilgal. Yo fè Sayil wa devan lotèl Seyè a. Yo touye bèt yo te ofri pou di Bondye mèsi. Sayil fè gwo fèt ansanm ak tout moun pèp Izrayèl yo lavil Gilgal.
 
 ### Chapter 12
 
@@ -15484,7 +15484,7 @@
 
 **[12:24]** Gen krentif pou Seyè a. Sèvi l' tout bon ak tout kè nou. Chonje tout bèl bagay sa yo li fè pou nou!
 
-**[12:25]** Mentou, si nou fè sa ki mal, ni nou, ni wa nou an, n'ap mouri.  
+**[12:25]** Mentou, si nou fè sa ki mal, ni nou, ni wa nou an, n'ap mouri.
 
 ### Chapter 13
 
@@ -15532,7 +15532,7 @@
 
 **[13:22]** Se sa ki fè, lè jou batay la rive, pa t' gen yonn nan mesye ki te avèk Sayil ak Jonatan yo ki te gen yon nepe osinon yon lans fè. Sèl Sayil ak Jonatan, pitit gason l' lan, te gen yonn pou yo chak.
 
-**[13:23]** Moun Filisti yo voye yon ganizon al defann pas Mikmas la.  
+**[13:23]** Moun Filisti yo voye yon ganizon al defann pas Mikmas la.
 
 ### Chapter 14
 
@@ -15638,7 +15638,7 @@
 
 **[14:51]** Kich, papa Sayil, ak Nè, papa Abnè, te pitit gason Abiyèl.
 
-**[14:52]** Sayil pase tout lavi li ap mennen gwo batay ak moun Filisti yo. Chak fwa li te jwenn yon vanyan gason osinon yon moun ki te gen anpil fòs ak kouraj, li te mete l' nan lame li a.  
+**[14:52]** Sayil pase tout lavi li ap mennen gwo batay ak moun Filisti yo. Chak fwa li te jwenn yon vanyan gason osinon yon moun ki te gen anpil fòs ak kouraj, li te mete l' nan lame li a.
 
 ### Chapter 15
 
@@ -15710,7 +15710,7 @@
 
 **[15:34]** Lèfini, Samyèl desann lavil Rama. Sayil menm moute al lakay li lavil Gibeya.
 
-**[15:35]** Depi lè sa a, Samyèl pa janm wè wa Sayil ankò jouk li mouri. Men, sa te fè l' lapenn anpil pou Sayil. Seyè a menm te règrèt deske li te fè Sayil wa pèp Izrayèl la.  
+**[15:35]** Depi lè sa a, Samyèl pa janm wè wa Sayil ankò jouk li mouri. Men, sa te fè l' lapenn anpil pou Sayil. Seyè a menm te règrèt deske li te fè Sayil wa pèp Izrayèl la.
 
 ### Chapter 16
 
@@ -15758,7 +15758,7 @@
 
 **[16:22]** Sayil voye di Izayi konsa: -Tanpri, kite David rete avè m'. Mwen renmen l' anpil.
 
-**[16:23]** Depi lè sa a, chak fwa move lespri Bondye te voye a desann sou Sayil, David pran gita a epi li tonbe jwe. Lè konsa, move lespri a kite l', epi Sayil te soulaje, li te santi l' byen ankò.  
+**[16:23]** Depi lè sa a, chak fwa move lespri Bondye te voye a desann sou Sayil, David pran gita a epi li tonbe jwe. Lè konsa, move lespri a kite l', epi Sayil te soulaje, li te santi l' byen ankò.
 
 ### Chapter 17
 
@@ -15876,7 +15876,7 @@
 
 **[17:57]** Apre David fin touye sòlda Filisti a, li tounen nan kan moun pèp Izrayèl yo. Abnè pran l', li mennen l' devan Sayil. David te kenbe tèt sòlda Filisti a nan men l' toujou.
 
-**[17:58]** Sayil mande l': -Ti gason, pitit ki moun ou ye hen! David reponn: -Mwen se pitit moun pa ou la, Izayi, moun lavil Betleyèm.  
+**[17:58]** Sayil mande l': -Ti gason, pitit ki moun ou ye hen! David reponn: -Mwen se pitit moun pa ou la, Izayi, moun lavil Betleyèm.
 
 ### Chapter 18
 
@@ -15938,7 +15938,7 @@
 
 **[18:29]** Sayil te vin pè David plis toujou. Depi jou sa a li te lènmi David jouk jou li mouri.
 
-**[18:30]** Lame moun Filisti yo te konn vin atake yo. Men chak fwa, nan tout chèf k'ap sèvi ak Sayil yo, se toujou David ki te resi kenbe tèt ak yo pi byen. Tout moun nan peyi a te vin konsidere l' anpil.  
+**[18:30]** Lame moun Filisti yo te konn vin atake yo. Men chak fwa, nan tout chèf k'ap sèvi ak Sayil yo, se toujou David ki te resi kenbe tèt ak yo pi byen. Tout moun nan peyi a te vin konsidere l' anpil.
 
 ### Chapter 19
 
@@ -15988,7 +15988,7 @@
 
 **[19:23]** Li pati dèyè yo. Antan l'ap mache konsa, lespri Bondye a desann nan tèt li tou. Li t'ap fè menm bagay ak pwofèt yo sou tout wout la, jouk li rive devan lavil Najòt nan zòn Rama a.
 
-**[19:24]** Li wete tout rad sou li, li fè tankou pwofèt yo devan Samyèl. Apre sa, li tonbe atè a toutouni. Li rete tout rès jounen an ak tout lannwit lan atè a konsa. Se depi lè sa a, yo di: Menm Sayil gen lè pwofèt tou?  
+**[19:24]** Li wete tout rad sou li, li fè tankou pwofèt yo devan Samyèl. Apre sa, li tonbe atè a toutouni. Li rete tout rès jounen an ak tout lannwit lan atè a konsa. Se depi lè sa a, yo di: Menm Sayil gen lè pwofèt tou?
 
 ### Chapter 20
 
@@ -16074,7 +16074,7 @@
 
 **[20:41]** Lè ti gason an fin ale, David soti dèyè pil wòch la, li lage kò l' atè, li bese twa fwa devan Jonatan. Apre sa, li menm ak Jonatan, yo tonbe yonn nan bra lòt, yo t'ap kriye. Men David te nan pi gwo lapenn pase Jonatan.
 
-**[20:42]** Apre sa, Jonatan di David konsa: -Ale ak kè poze! Nou te fè sèman devan Seyè a pou nou toujou zanmi. Bondye va fè fanmi nou toujou rete zanmi tou. Lè sa a, David leve, l' ale fè wout li. Jonatan menm tounen lavil la.  
+**[20:42]** Apre sa, Jonatan di David konsa: -Ale ak kè poze! Nou te fè sèman devan Seyè a pou nou toujou zanmi. Bondye va fè fanmi nou toujou rete zanmi tou. Lè sa a, David leve, l' ale fè wout li. Jonatan menm tounen lavil la.
 
 ### Chapter 21
 
@@ -16106,7 +16106,7 @@
 
 **[21:14]** Lè sa a, Akich di moun li yo: -Nou pa wè se yon moun fou? Poukisa nou mennen l' ban mwen?
 
-**[21:15]** Mwen pa gen kont moun fou avè m' deja? Poukisa nou mennen sa a ankò vin plede fè tenten andedan lakay mwen an?  
+**[21:15]** Mwen pa gen kont moun fou avè m' deja? Poukisa nou mennen sa a ankò vin plede fè tenten andedan lakay mwen an?
 
 ### Chapter 22
 
@@ -16154,7 +16154,7 @@
 
 **[22:22]** David di l' konsa: -Depi mwen te wè Doèg, nèg peyi Edon an, la, mwen te konnen li pa t'ap pa di Sayil sa. Se mwen menm ki reskonsab lanmò tout fanmi ou yo.
 
-**[22:23]** Ou mèt rete avè m'. Ou pa bezwen pè. Koulye a Sayil pral chache touye ni ou ni mwen. Bò kote m', anyen p'ap rive ou.  
+**[22:23]** Ou mèt rete avè m'. Ou pa bezwen pè. Koulye a Sayil pral chache touye ni ou ni mwen. Bò kote m', anyen p'ap rive ou.
 
 ### Chapter 23
 
@@ -16214,7 +16214,7 @@
 
 **[23:28]** Sayil sispann kouri dèyè David, l' al mache kontre moun Filisti yo. Se poutèt sa yo rele ravin sa a Galèt Separasyon.
 
-**[23:29]** David menm ale nan falèz Angedi yo, li rete kache la.  
+**[23:29]** David menm ale nan falèz Angedi yo, li rete kache la.
 
 ### Chapter 24
 
@@ -16260,7 +16260,7 @@
 
 **[24:21]** Men tanpri, pwomèt mwen, nan non Seyè a, ou p'ap touye pitit mwen yo lè m'a mouri, pou non m' pa disparèt nan fanmi papa m'.
 
-**[24:22]** David pwomèt Sayil li p'ap fè sa. Apre sa, Sayil al lakay li. David menm tounen nan kachèt li ansanm ak mesye pa l' yo.  
+**[24:22]** David pwomèt Sayil li p'ap fè sa. Apre sa, Sayil al lakay li. David menm tounen nan kachèt li ansanm ak mesye pa l' yo.
 
 ### Chapter 25
 
@@ -16350,7 +16350,7 @@
 
 **[25:43]** David te deja marye ak Akinoam, moun lavil Jizreyèl. Li vin pran Abigayèl koulye a, sa te fè l' de madanm.
 
-**[25:44]** Sayil menm bò pa l' te pran Mikal, pitit fi li a ki te madanm David, li marye l' ak Palti, pitit gason Layis, moun lavil Galim.  
+**[25:44]** Sayil menm bò pa l' te pran Mikal, pitit fi li a ki te madanm David, li marye l' ak Palti, pitit gason Layis, moun lavil Galim.
 
 ### Chapter 26
 
@@ -16402,7 +16402,7 @@
 
 **[26:24]** Menm jan mwen te gen respè pou ou jòdi a, m' pa touye ou, mwen mande Seyè a pou l' fè menm bagay la pou mwen tou, lèfini pou l' wete m' nan tout tèt chaje sa yo.
 
-**[26:25]** Sayil di David: -Se pou Bondye beni ou, pitit gason mwen! Se pou tou sa w'ap fè mache byen! Apre sa, David al fè wout li, Sayil menm tounen lakay li.  
+**[26:25]** Sayil di David: -Se pou Bondye beni ou, pitit gason mwen! Se pou tou sa w'ap fè mache byen! Apre sa, David al fè wout li, Sayil menm tounen lakay li.
 
 ### Chapter 27
 
@@ -16428,7 +16428,7 @@
 
 **[27:11]** Men David te toujou touye tout moun, fanm kou gason, paske li t'ap di nan kè l' konsa pesonn p'ap ka al di moun lavil Gat yo sa li te fè yo. Se sa David t'ap mache fè pandan tout tan li pase nan peyi Filisti a.
 
-**[27:12]** Akich menm te fè David konfyans. Li t'ap di nan kè l': -Msye tèlman fè moun pèp Izrayèl yo rayi l', l'ap blije rete pase tout rès lavi l' ap sèvi m'.  
+**[27:12]** Akich menm te fè David konfyans. Li t'ap di nan kè l': -Msye tèlman fè moun pèp Izrayèl yo rayi l', l'ap blije rete pase tout rès lavi l' ap sèvi m'.
 
 ### Chapter 28
 
@@ -16480,7 +16480,7 @@
 
 **[28:24]** Fanm lan te gen yon ti bèf li t'ap angrese lakay li. Li prese touye l'. Apre sa, li pran farin, li fè pat avè l', li kwit kèk ti pen san ledven.
 
-**[28:25]** Li pote tout bagay sa yo devan Sayil ak mesye l' yo. Yo manje. Lèfini, lannwit lan menm yo leve, yo pati.  
+**[28:25]** Li pote tout bagay sa yo devan Sayil ak mesye l' yo. Yo manje. Lèfini, lannwit lan menm yo leve, yo pati.
 
 ### Chapter 29
 
@@ -16504,7 +16504,7 @@
 
 **[29:10]** Koulye a, David, denmen maten, ou pral leve bonè bonè, ansanm ak tout mesye ki te vire do bay Sayil, mèt ou a, pou yo te vin avè ou bò isit la vin jwenn mwen. Kou bajou kase n'a pati al fè wout nou.
 
-**[29:11]** Konsa vre, nan denmen maten, bonè bonè David leve ansanm ak tout mesye l' yo, yo pati, yo tounen nan peyi Filisti a. Lame moun Filisti yo menm pran chemen pou yo ale Jizreyèl.  
+**[29:11]** Konsa vre, nan denmen maten, bonè bonè David leve ansanm ak tout mesye l' yo, yo pati, yo tounen nan peyi Filisti a. Lame moun Filisti yo menm pran chemen pou yo ale Jizreyèl.
 
 ### Chapter 30
 
@@ -16568,7 +16568,7 @@
 
 **[30:30]** bay moun lavil Oma, moun lavil Borachan ak moun lavil Atak,
 
-**[30:31]** bay moun lavil Ebwon, bay moun ki toupatou kote David ak mesye l' yo te pase.  
+**[30:31]** bay moun lavil Ebwon, bay moun ki toupatou kote David ak mesye l' yo te pase.
 
 ### Chapter 31
 
@@ -16596,7 +16596,7 @@
 
 **[31:12]** tout mesye ki te brave danje yo leve, yo mache tout lannwit jouk yo rive lavil Bèt Chean, yo desann kadav Sayil la ak kadav pitit gason l' yo ki te kloure sou miray lavil la, yo tounen ak yo lavil Jabès, kote yo boule yo.
 
-**[31:13]** Lèfini, yo pran zosman yo, yo antere yo anba pye tonmaren ki nan lavil Jabès la. Apre sa, yo pase sèt jou san manje.   
+**[31:13]** Lèfini, yo pran zosman yo, yo antere yo anba pye tonmaren ki nan lavil Jabès la. Apre sa, yo pase sèt jou san manje.
 
 ## II Samuel
 
@@ -16654,7 +16654,7 @@
 
 **[1:26]** Mwen gen gwo lapenn pou ou, Jonatan, frè mwen. Jan mwen te renmen ou sa a! Jan ou menm ou te renmen m', se pa pale. Zanmitay sa a te pi bon pou mwen lontan pase renmen ankenn fanm ta ka gen pou mwen!
 
-**[1:27]** Vanyan sòlda yo mouri! Tout zam lagè yo pa vo anyen koulye a!  
+**[1:27]** Vanyan sòlda yo mouri! Tout zam lagè yo pa vo anyen koulye a!
 
 ### Chapter 2
 
@@ -16720,7 +16720,7 @@
 
 **[2:31]** Patizan David yo te touye twasanswasant (360) nan patizan Abnè yo, tout nan branch fanmi Benjamen an.
 
-**[2:32]** Joab ak moun pa l' yo pran kadav Asayèl, y' al antere l' nan tonm fanmi an lavil Betleyèm. Apre sa, yo pase nwit lan ap mache. Solèy t'ap leve lè yo rive Ebwon.  
+**[2:32]** Joab ak moun pa l' yo pran kadav Asayèl, y' al antere l' nan tonm fanmi an lavil Betleyèm. Apre sa, yo pase nwit lan ap mache. Solèy t'ap leve lè yo rive Ebwon.
 
 ### Chapter 3
 
@@ -16800,7 +16800,7 @@
 
 **[3:38]** Wa a di moun k'ap sèvi avè l' yo: -Aa, mesye! Jòdi a pèp Izrayèl la pèdi yon chèf, yon gwo chèf wi!
 
-**[3:39]** Atout se wa Bondye chwazi a mwen ye, mwen santi m' fèb jòdi a. Pitit gason Sewouya yo twò mechan pou mwen. Se pou Bondye pini krimenèl sa yo pou mechanste yo fè a.  
+**[3:39]** Atout se wa Bondye chwazi a mwen ye, mwen santi m' fèb jòdi a. Pitit gason Sewouya yo twò mechan pou mwen. Se pou Bondye pini krimenèl sa yo pou mechanste yo fè a.
 
 ### Chapter 4
 
@@ -16826,7 +16826,7 @@
 
 **[4:11]** Sa pral pi rèd toujou pou nou, bann mechan, ki touye yon inonsan anndan lakay li, nan kabann li. Mwen pral fè nou peye pou touye nou touye l' la, mwen pral fè yo disparèt nou sou latè.
 
-**[4:12]** David bay sòlda yo lòd epi yo touye Rekab ak Bana. Yo koupe de men ak de pye yo. Y' al pann yo bò rezèvwa dlo Ebwon an. Apre sa, yo pran tèt Ichbochèt, y' al antere l' Ebwon, nan tonm Abnè a.  
+**[4:12]** David bay sòlda yo lòd epi yo touye Rekab ak Bana. Yo koupe de men ak de pye yo. Y' al pann yo bò rezèvwa dlo Ebwon an. Apre sa, yo pran tèt Ichbochèt, y' al antere l' Ebwon, nan tonm Abnè a.
 
 ### Chapter 5
 
@@ -16878,7 +16878,7 @@
 
 **[5:24]** Lè w'a tande yon bri tankou bri pye yon moun k'ap mache sou tèt pyebwa yo, w'a fonse sou yo. Paske sa vle di m'ap pran devan ou pou m' bat lame moun Filisti yo.
 
-**[5:25]** David fè sa Seyè a te mande l' fè a. Li bat moun Filisti yo, li kouri dèyè yo depi Lavil Gebarive lavil Gezè.  
+**[5:25]** David fè sa Seyè a te mande l' fè a. Li bat moun Filisti yo, li kouri dèyè yo depi Lavil Gebarive lavil Gezè.
 
 ### Chapter 6
 
@@ -16926,7 +16926,7 @@
 
 **[6:22]** M'ap desanm tèt mwen pi ba toujou pase sa. Dapre ou, se desann m'ap desann sousi m'. Men, sèvant w'ap pale yo ap toujou ka leve m' anlè.
 
-**[6:23]** Mikal, pitit fi Sayil la, pa janm fè pitit jouk li mouri.  
+**[6:23]** Mikal, pitit fi Sayil la, pa janm fè pitit jouk li mouri.
 
 ### Chapter 7
 
@@ -16986,7 +16986,7 @@
 
 **[7:28]** Koulye a, Seyè sèl Mèt, se ou ki Bondye tout bon an. Ou toujou kenbe pwomès ou yo. Gade bèl pawòl kè kontan ou di sèvitè ou la!
 
-**[7:29]** Tanpri, beni tout fanmi mwen apre mwen pou yo ka toujou anba pwoteksyon ou. Wi, Seyè sèl Mèt, ou te pwomèt mwen sa. Se pou ou toujou voye benediksyon ou sou fanmi mwen.  
+**[7:29]** Tanpri, beni tout fanmi mwen apre mwen pou yo ka toujou anba pwoteksyon ou. Wi, Seyè sèl Mèt, ou te pwomèt mwen sa. Se pou ou toujou voye benediksyon ou sou fanmi mwen.
 
 ### Chapter 8
 
@@ -17024,7 +17024,7 @@
 
 **[8:17]** Zadòk, pitit gason Akitoub la, ak Akimelèk, pitit gason Abyata a, te prèt. Seraja te sekretè.
 
-**[8:18]** Benaja, pitit gason Jeojada a, te chèf keretyen ak peletyen yo ki te gad pèsonèl wa a. Pitit gason David yo menm te prèt.  
+**[8:18]** Benaja, pitit gason Jeojada a, te chèf keretyen ak peletyen yo ki te gad pèsonèl wa a. Pitit gason David yo menm te prèt.
 
 ### Chapter 9
 
@@ -17052,7 +17052,7 @@
 
 **[9:12]** Mefibochèt te gen yon pitit gason ki te piti joujou. Li te rele Mika. Tout moun ki te rete kay Ziba t'ap travay pou Mefibochèt.
 
-**[9:13]** Se konsa, Mefibochèt ki te enfim nan tou de pye l' yo rete lavil Jerizalèm. Li t'ap manje chak jou sou tab ansanm ak wa a.  
+**[9:13]** Se konsa, Mefibochèt ki te enfim nan tou de pye l' yo rete lavil Jerizalèm. Li t'ap manje chak jou sou tab ansanm ak wa a.
 
 ### Chapter 10
 
@@ -17092,7 +17092,7 @@
 
 **[10:18]** Moun Izrayèl yo fè moun Aram yo kouri met deyò. David ak sòlda li yo touye sètsan (700) sòlda ki te sou cha lagè, katòzmil (14.000) sòlda ki te sou chwal. Yo blese Chobak, chèf lame lènmi yo, ki mouri la menm kote yo t'ap goumen an.
 
-**[10:19]** Lè tout ti wa ki te mete tèt ansanm ak Adadezè yo wè jan moun Izrayèl yo te bat yo, yo fè lapè ak yo, yo soumèt devan yo. Se konsa, moun Aram pa pran chans al pote moun Amon yo sekou ankò.  
+**[10:19]** Lè tout ti wa ki te mete tèt ansanm ak Adadezè yo wè jan moun Izrayèl yo te bat yo, yo fè lapè ak yo, yo soumèt devan yo. Se konsa, moun Aram pa pran chans al pote moun Amon yo sekou ankò.
 
 ### Chapter 11
 
@@ -17148,7 +17148,7 @@
 
 **[11:26]** Lè Batcheba vin pran nouvèl mari l' te mouri, li pran lapenn pou li.
 
-**[11:27]** Lè seremoni lantèman yo fini, David voye chache l', li pran l' lakay li. Batcheba vin madanm li. Li fè yon pitit gason pou David. Men, sa David te fè a pa t' fè Seyè a plezi menm.  
+**[11:27]** Lè seremoni lantèman yo fini, David voye chache l', li pran l' lakay li. Batcheba vin madanm li. Li fè yon pitit gason pou David. Men, sa David te fè a pa t' fè Seyè a plezi menm.
 
 ### Chapter 12
 
@@ -17212,7 +17212,7 @@
 
 **[12:30]** Estati Milkòm, zidòl moun Amon yo, te gen yon gwo kouwòn fèt an lò sou tèt li. Kouwòn lan te peze swasannkenz liv, li te gen yon gwo pyè koute chè ladan l'. David pran kouwòn lò ki te sou tèt zidòl la, li mete l' sou tèt pa l'. Lèfini, se pa de bagay li pa pran nan lavil la.
 
-**[12:31]** Li pran moun ki te rete nan lavil la, li fè yo travay ak goyin, wou ak rach. Li mete yo travay ap fè brik. Li fè menm bagay la tou nan tout lòt lavil nan peyi Amon an. Apre sa, li tounen Jerizalèm ak tout moun li yo.  
+**[12:31]** Li pran moun ki te rete nan lavil la, li fè yo travay ak goyin, wou ak rach. Li mete yo travay ap fè brik. Li fè menm bagay la tou nan tout lòt lavil nan peyi Amon an. Apre sa, li tounen Jerizalèm ak tout moun li yo.
 
 ### Chapter 13
 
@@ -17292,7 +17292,7 @@
 
 **[13:38]** Absalon rete pase twazan lavil Gechou kote li te kouri al kache a.
 
-**[13:39]** Lè wa David fin konsole apre lanmò Amnon, li vin anvi wè Absalon.  
+**[13:39]** Lè wa David fin konsole apre lanmò Amnon, li vin anvi wè Absalon.
 
 ### Chapter 14
 
@@ -17360,7 +17360,7 @@
 
 **[14:32]** Absalon reponn li: -Paske ou pa t' vle vini lè mwen te voye chache ou la. Mwen te bezwen ou ale bò kote wa a pou mwen pou ou mande l' sa m' te bezwen kite lavil Gechou a vin isit la fè. Pito m' te rete laba a. Koulye a, mwen ta renmen ou jwenn yon jan pou m' parèt devan wa a. Si m' antò, li mèt touye m'!
 
-**[14:33]** Se konsa Joab al bò kote wa David, li rapòte l' sa Absalon te di l' la. Wa a voye chache Absalon. Absalon vini, li tonbe ajenou devan wa a, li bese tèt li jouk atè. Wa resevwa l', li bo l'.  
+**[14:33]** Se konsa Joab al bò kote wa David, li rapòte l' sa Absalon te di l' la. Wa a voye chache Absalon. Absalon vini, li tonbe ajenou devan wa a, li bese tèt li jouk atè. Wa resevwa l', li bo l'.
 
 ### Chapter 15
 
@@ -17436,7 +17436,7 @@
 
 **[15:36]** Yo gen Akimaz ak Jonatan, pitit gason yo, ak yo. W'a voye yo vin di m' dènye sa w'a tande nan palè a.
 
-**[15:37]** Se konsa, Ouchayi, bon zanmi David la, tounen lavil Jerizalèm. Li antre nan lavil la an menm tan ak Absalon.  
+**[15:37]** Se konsa, Ouchayi, bon zanmi David la, tounen lavil Jerizalèm. Li antre nan lavil la an menm tan ak Absalon.
 
 ### Chapter 16
 
@@ -17484,7 +17484,7 @@
 
 **[16:22]** Se konsa, yo moute yon tant pou Absalon sou teras sou do palè a. Epi la, devan tout moun peyi Izrayèl yo, Absalon kouche ak fanm kay papa l' yo.
 
-**[16:23]** Lè sa a, nenpòt konsèy Achitofèl te bay se tankou si se te pawòl Bondye. Ni David ni Absalon te toujou swiv konsèy li yo.  
+**[16:23]** Lè sa a, nenpòt konsèy Achitofèl te bay se tankou si se te pawòl Bondye. Ni David ni Absalon te toujou swiv konsèy li yo.
 
 ### Chapter 17
 
@@ -17544,7 +17544,7 @@
 
 **[17:28]** Twa mesye sa yo te pote bagay pou moun kouche, bòl, kaswòl ak manje pou David ak moun pa l' yo. Te gen ble, lòj, farin, grenn griye, ti pwa ak gwo pwa tout kalite,
 
-**[17:29]** siwo myèl, bè, fwomaj lèt bèf, fwomaj lèt mouton. Yonn te di lòt: -Apre tout mache sa a nan dezè a, moun sa yo dwe grangou, yo dwe swaf, yo dwe bouke kont kò yo.  
+**[17:29]** siwo myèl, bè, fwomaj lèt bèf, fwomaj lèt mouton. Yonn te di lòt: -Apre tout mache sa a nan dezè a, moun sa yo dwe grangou, yo dwe swaf, yo dwe bouke kont kò yo.
 
 ### Chapter 18
 
@@ -17612,7 +17612,7 @@
 
 **[18:32]** Wa a mande l': -Ban m' nouvèl ti Absalon an non. Li byen? Nonm peyi Letiopi a reponn, li di l': -Se pou sa ki rive jenn gason sa a rive tout lènmi monwa yo ansanm ak tout lòt moun k'ap leve dèyè ou pou fè ou mal.
 
-**[18:33]** Lè wa a pran nouvèl la, sa te twòp pou li. Li moute nan chanm li anwo sou tèt pòtay la pou l' kriye. Antan li prale konsa, li t'ap rele: -Absalon! Absalon, pitit mwen! Absalon! Poukisa se pa mwen ki te mouri nan plas ou! Woy! Absalon, pitit mwen! Absalon, pitit mwen!  
+**[18:33]** Lè wa a pran nouvèl la, sa te twòp pou li. Li moute nan chanm li anwo sou tèt pòtay la pou l' kriye. Antan li prale konsa, li t'ap rele: -Absalon! Absalon, pitit mwen! Absalon! Poukisa se pa mwen ki te mouri nan plas ou! Woy! Absalon, pitit mwen! Absalon, pitit mwen!
 
 ### Chapter 19
 
@@ -17700,7 +17700,7 @@
 
 **[19:42]** Moun Jida yo reponn: -Nou fè l' paske wa a pi fanmi moun Jida yo pase li fanmi moun Izrayèl yo. Sa ki gen la a atò pou nou fache? Li pa janm peye manje pou nou ki fanmi l', ni li pa janm fè nou kado anyen.
 
-**[19:43]** Lamenm, moun peyi Izrayèl yo reponn moun peyi Jida yo: -Nou gen dis fwa plis dwa pase moun Jida yo sou wa a, menm si se fanmi yo li ye. Poukisa nou menm moun Jida yo, nou meprize moun peyi Izrayèl yo konsa? Pa bliye se nou menm premye moun ki te pale koze fè wa a tounen an. Men moun peyi Jida yo pale pi fò, yo fèmen bouch moun peyi Izrayèl yo.  
+**[19:43]** Lamenm, moun peyi Izrayèl yo reponn moun peyi Jida yo: -Nou gen dis fwa plis dwa pase moun Jida yo sou wa a, menm si se fanmi yo li ye. Poukisa nou menm moun Jida yo, nou meprize moun peyi Izrayèl yo konsa? Pa bliye se nou menm premye moun ki te pale koze fè wa a tounen an. Men moun peyi Jida yo pale pi fò, yo fèmen bouch moun peyi Izrayèl yo.
 
 ### Chapter 20
 
@@ -17754,7 +17754,7 @@
 
 **[20:25]** Cheva te sekretè gouvènman an. Zadòk ak Abyata te prèt.
 
-**[20:26]** Te gen yon nonm yo te rele Ira, moun lavil Jayi, ki te prèt wa David tou.  
+**[20:26]** Te gen yon nonm yo te rele Ira, moun lavil Jayi, ki te prèt wa David tou.
 
 ### Chapter 21
 
@@ -17800,7 +17800,7 @@
 
 **[21:21]** Li t'ap pase moun pèp Izrayèl yo nan betiz. Jonatan, pitit gason Chimeya, frè David la, touye l'.
 
-**[21:22]** Kat sòlda peyi Filisti sa yo te moun bèl wotè, potorik gason, nan ras moun Arafa yo lavil Gat. David ak moun pa li yo touye yo.  
+**[21:22]** Kat sòlda peyi Filisti sa yo te moun bèl wotè, potorik gason, nan ras moun Arafa yo lavil Gat. David ak moun pa li yo touye yo.
 
 ### Chapter 22
 
@@ -17904,7 +17904,7 @@
 
 **[22:50]** Se poutèt sa m'a fè moun lòt nasyon yo konnen ki moun ou ye. m'a chante pou fè lwanj ou.
 
-**[22:51]** Bondye delivre wa li a anpil fwa. Li moutre jan li pa janm sispann renmen David, moun li chwazi a, ansanm ak pitit pitit li yo pou tout tan.  
+**[22:51]** Bondye delivre wa li a anpil fwa. Li moutre jan li pa janm sispann renmen David, moun li chwazi a, ansanm ak pitit pitit li yo pou tout tan.
 
 ### Chapter 23
 
@@ -17984,7 +17984,7 @@
 
 **[23:38]** Ira ak Garèb, nan fanmi Jetè a,
 
-**[23:39]** Ouri, moun lavil Et la. Antou, te gen trannsèt vanyan sòlda.  
+**[23:39]** Ouri, moun lavil Et la. Antou, te gen trannsèt vanyan sòlda.
 
 ### Chapter 24
 
@@ -18036,7 +18036,7 @@
 
 **[24:24]** Men wa a reponn li, li di l': -Non. Se achte m'ap achte. Se pou m' peye pou yo. Mwen p'ap pran anyen ki pa koute m' lajan pou m' ofri pou boule nèt pou Seyè a. Se konsa, David achte anplasman glasi a ansanm ak tout bèf yo pou senkant pyès ajan.
 
-**[24:25]** Lèfini, li bati yon lotèl pou Seyè a, li fè ofrann pou boule nèt pou Bondye ak ofrann pou di Bondye mèsi. Seyè a tande lapriyè yo pou peyi a. Epidemi an sispann nan peyi Izrayèl la.   
+**[24:25]** Lèfini, li bati yon lotèl pou Seyè a, li fè ofrann pou boule nèt pou Bondye ak ofrann pou di Bondye mèsi. Seyè a tande lapriyè yo pou peyi a. Epidemi an sispann nan peyi Izrayèl la.
 
 ## I Kings
 
@@ -18146,7 +18146,7 @@
 
 **[1:52]** Salomon reponn: -Si msye aji tankou moun debyen, yon grenn cheve nan tèt li p'ap tonbe. Men, si li fè sa li pa t' dwe fè, l'ap mouri.
 
-**[1:53]** Salomon voye chache Adonija soti bò lotèl la. Yo fè l' desann lotèl la. Li vin bese byen ba devan wa Salomon. Wa a di l' konsa: -Ou mèt al lakay ou.  
+**[1:53]** Salomon voye chache Adonija soti bò lotèl la. Yo fè l' desann lotèl la. Li vin bese byen ba devan wa Salomon. Wa a di l' konsa: -Ou mèt al lakay ou.
 
 ### Chapter 2
 
@@ -18240,7 +18240,7 @@
 
 **[2:45]** Men, l'ap beni m', mwen menm Salomon. L'ap fè gouvènman fanmi David la chita pou tout tan.
 
-**[2:46]** Apre sa, wa a pase Benaja, pitit Jeyoada a, lòd. Benaja soti, l' al touye Chimeyi. Se konsa Chimeyi mouri. Depi lè sa a, Salomon te gen tout pouvwa a nan men l'.  
+**[2:46]** Apre sa, wa a pase Benaja, pitit Jeyoada a, lòd. Benaja soti, l' al touye Chimeyi. Se konsa Chimeyi mouri. Depi lè sa a, Salomon te gen tout pouvwa a nan men l'.
 
 ### Chapter 3
 
@@ -18298,7 +18298,7 @@
 
 **[3:27]** Lè sa a Salomon di: -Pa touye pitit la. Renmèt li bay premye fanm lan. Se li menm ki manman ti pitit ki vivan an.
 
-**[3:28]** Lè pèp Izrayèl la tande jan Salomon te regle kont lan, yo vin gen anpil respè pou li, paske yo te wè se Bondye menm ki te ba li bon konprann sa a pou regle tout bagay san patipri.  
+**[3:28]** Lè pèp Izrayèl la tande jan Salomon te regle kont lan, yo vin gen anpil respè pou li, paske yo te wè se Bondye menm ki te ba li bon konprann sa a pou regle tout bagay san patipri.
 
 ### Chapter 4
 
@@ -18368,7 +18368,7 @@
 
 **[4:33]** Li fè bèl pawoli sou pyebwa ak tout kalite plant, depi pye sèd peyi Liban yo jouk lyann izòp ki pouse sou miray. Li pale tou sou bèt kat pat, sou zwazo, sou bèt ki trennen sou vant ak sou pwason.
 
-**[4:34]** Moun te soti toupatou pou vin tande Salomon ap pale. Ata wa tout lòt peyi latè yo te pran nouvèl jan li te gen anpil bon konprann. Yo menm tou yo te voye moun vin tande l'.  
+**[4:34]** Moun te soti toupatou pou vin tande Salomon ap pale. Ata wa tout lòt peyi latè yo te pran nouvèl jan li te gen anpil bon konprann. Yo menm tou yo te voye moun vin tande l'.
 
 ### Chapter 5
 
@@ -18406,7 +18406,7 @@
 
 **[5:17]** Wa Salomon te bay lòd pou yo taye kèk gwo blòk nan bèl wòch pou sèvi fondasyon kay la.
 
-**[5:18]** Se konsa bòs mason Salomon yo ak bòs mason Iram yo ansanm ak mesye lavil Gebal yo te pare blòk wòch ak bwa pou bati Tanp lan.  
+**[5:18]** Se konsa bòs mason Salomon yo ak bòs mason Iram yo ansanm ak mesye lavil Gebal yo te pare blòk wòch ak bwa pou bati Tanp lan.
 
 ### Chapter 6
 
@@ -18484,7 +18484,7 @@
 
 **[6:37]** Se nan katriyèm lanne rèy Salomon, nan mwa Ziv la, yo te mete men nan fondasyon kay Seyè a.
 
-**[6:38]** Tanp lan te fin bati ak tout ti detay li yo, jan yo te fè plan an, nan onzyèm lanne rèy Salomon nan wityèm mwa kalandriye jwif yo, ki rele Boul. Salomon te pran sètan pou l' bati Tanp lan.  
+**[6:38]** Tanp lan te fin bati ak tout ti detay li yo, jan yo te fè plan an, nan onzyèm lanne rèy Salomon nan wityèm mwa kalandriye jwif yo, ki rele Boul. Salomon te pran sètan pou l' bati Tanp lan.
 
 ### Chapter 7
 
@@ -18588,7 +18588,7 @@
 
 **[7:50]** gode yo, kouto pou netwaye lanp yo, bòl yo, plato pou lansan yo, plato pou pote chabon dife tou limen yo, gon pou pòt pyès ki apa nèt pou Seyè a, ak gon pou lòt pòt tanp lan menm. Tout bagay sa yo te fèt ak bon lò.
 
-**[7:51]** Lè wa Salomon te fin fè tout travay pou bati Tanp Seyè a, li fè yo pote tout ajan ak tout lò David, papa l', te ofri bay Seyè a ansanm ak tout lòt bagay li menm li te bay, li fè mete yo nan chanm trezò Tanp lan.  
+**[7:51]** Lè wa Salomon te fin fè tout travay pou bati Tanp Seyè a, li fè yo pote tout ajan ak tout lò David, papa l', te ofri bay Seyè a ansanm ak tout lòt bagay li menm li te bay, li fè mete yo nan chanm trezò Tanp lan.
 
 ### Chapter 8
 
@@ -18722,7 +18722,7 @@
 
 **[8:65]** Lè sa a, Salomon ansanm ak tout pèp Izrayèl la fete Fèt Joupa yo pandan sèt jou. Foul moun te soti depi Pas Amat la nan nò jouk sou fwontyè ak peyi Lejip la nan sid, yo vin fete fèt la pandan sèt jou. Lèfini, yo fete pandan sèt jou ankò. Sa te fè antou katòz jou.
 
-**[8:66]** Sou wityèm jou a, Salomon voye tout moun tounen lakay yo. Yo tout t'ap fè lwanj li, y' al lakay yo ak kè kontan, paske sa te fè yo plezi pou wè tout benediksyon Seyè a te bay David, sèvitè l' la, ansanm ak pèp Izrayèl li a.  
+**[8:66]** Sou wityèm jou a, Salomon voye tout moun tounen lakay yo. Yo tout t'ap fè lwanj li, y' al lakay yo ak kè kontan, paske sa te fè yo plezi pou wè tout benediksyon Seyè a te bay David, sèvitè l' la, ansanm ak pèp Izrayèl li a.
 
 ### Chapter 9
 
@@ -18780,7 +18780,7 @@
 
 **[9:27]** wa Iram te voye kèk moun peyi l' ki te bon maren pou sèvi ansanm ak moun Salomon yo sou batiman yo.
 
-**[9:28]** Yo vwayaje rive peyi Ofi kote y' al chache sèz tòn lò pote bay Salomon.  
+**[9:28]** Yo vwayaje rive peyi Ofi kote y' al chache sèz tòn lò pote bay Salomon.
 
 ### Chapter 10
 
@@ -18840,7 +18840,7 @@
 
 **[10:28]** Chwal Salomon yo te soti nan peyi Lejip ak nan peyi Silisi. Wa a te gen moun pa l' ki te konn al achte chwal yo pou li la.
 
-**[10:29]** Chak cha lagè achte nan peyi Lejip te koute sisan (600) pyès ajan, chak chwal te koute sansenkant (150) pyès ajan. Se menm moun sa yo ki te konn al achte chwal pou revann wa peyi Et yo ak wa peyi Siri yo.  
+**[10:29]** Chak cha lagè achte nan peyi Lejip te koute sisan (600) pyès ajan, chak chwal te koute sansenkant (150) pyès ajan. Se menm moun sa yo ki te konn al achte chwal pou revann wa peyi Et yo ak wa peyi Siri yo.
 
 ### Chapter 11
 
@@ -18928,7 +18928,7 @@
 
 **[11:42]** Salomon te wa lavil Jerizalèm, li te gouvènen tout pèp Izrayèl la pandan karantan.
 
-**[11:43]** Lè li mouri, yo antere l' nan lavil David, papa l'. Se Woboram, pitit li, ki moute nan plas li sou fotèy la.  
+**[11:43]** Lè li mouri, yo antere l' nan lavil David, papa l'. Se Woboram, pitit li, ki moute nan plas li sou fotèy la.
 
 ### Chapter 12
 
@@ -18996,7 +18996,7 @@
 
 **[12:32]** Jewoboram chwazi kenzyèm jou nan wityèm mwa a pou yon jou fèt, tankou fèt yo fè nan peyi Jida a. Sou lotèl lavil Betèl la, li touye bèt pou estati towo li te fè fè yo. Lèfini, se la lavil Betèl ankò li mete prèt ki pou sèvi nan lòt kote li te bati pou fè sèvis yo.
 
-**[12:33]** Se konsa, sou kenzyèm jou wityèm mwa a, jou li menm li te chwazi a, li moute lavil Betèl, l' al touye bèt sou lotèl la pou fete fèt li menm li te fè lide fete pou pèp Izrayèl la.  
+**[12:33]** Se konsa, sou kenzyèm jou wityèm mwa a, jou li menm li te chwazi a, li moute lavil Betèl, l' al touye bèt sou lotèl la pou fete fèt li menm li te fè lide fete pou pèp Izrayèl la.
 
 ### Chapter 13
 
@@ -19066,7 +19066,7 @@
 
 **[13:33]** Apre tout bagay sa yo, Jewoboram, wa peyi Izrayèl la, donnen pi rèd nan vye bagay li t'ap fè yo. Li t'ap chwazi moun nan pèp la toujou pou sèvi prèt nan tanp li te bati pou zidòl yo. Depi yon moun te vle prèt, li te ba l' pouvwa a pou li te sèvi prèt nan tanp zidòl yo.
 
-**[13:34]** Se konsa, tout fanmi Jewoboram lan lage kò yo nan fè sa ki mal. Se poutèt sa, tout fanmi sa a fini, li disparèt nèt sou latè.  
+**[13:34]** Se konsa, tout fanmi Jewoboram lan lage kò yo nan fè sa ki mal. Se poutèt sa, tout fanmi sa a fini, li disparèt nèt sou latè.
 
 ### Chapter 14
 
@@ -19130,7 +19130,7 @@
 
 **[14:30]** Pandan tout tan sa a se te yon lagè san rete ant Woboram ak Jewoboran.
 
-**[14:31]** Lè Woboram mouri, yo antere l' nan tonm fanmi an nan lavil David la. Manman l' te rele Nama, se te moun lavil Amon. Se Abijam, pitit gason Woboram lan, ki moute sou fotèy la nan plas papa l'.  
+**[14:31]** Lè Woboram mouri, yo antere l' nan tonm fanmi an nan lavil David la. Manman l' te rele Nama, se te moun lavil Amon. Se Abijam, pitit gason Woboram lan, ki moute sou fotèy la nan plas papa l'.
 
 ### Chapter 15
 
@@ -19200,7 +19200,7 @@
 
 **[15:33]** Wa Asa t'ap mache sou twazan depi li t'ap gouvènen peyi Jida a lè Bacha, pitit gason Akija, moute wa nan peyi Izrayèl.
 
-**[15:34]** Li gouvènen pandan vennkatran nan lavil Tiza. Li te fè sa ki mal devan Seyè a. Tankou Jewoboram, li pa t' mache dwat devan Bondye. Li te lakòz pèp la fè sa ki mal tou.  
+**[15:34]** Li gouvènen pandan vennkatran nan lavil Tiza. Li te fè sa ki mal devan Seyè a. Tankou Jewoboram, li pa t' mache dwat devan Bondye. Li te lakòz pèp la fè sa ki mal tou.
 
 ### Chapter 16
 
@@ -19270,7 +19270,7 @@
 
 **[16:33]** Li fè yon estati pou Astate tou. Li fè pi mal pase tout lòt wa peyi Izrayèl ki te pase anvan l' yo pou fè Seyè a, Bondye pèp Izrayèl la, fache.
 
-**[16:34]** Se pandan rèy Akab la, yon nonm yo rele Iyèl, moun lavil Betèl, rebati lavil Jeriko. Men, pawòl Seyè a te di Jozye, pitit Noun lan, rive vre. Abiram, premye pitit Iyèl la, mouri lè yo t'ap fouye fondasyon lavil la, lèfini Segoub, dezyèm pitit gason Iyèl la, mouri lè yo t'ap moute pòtay lavil la.  
+**[16:34]** Se pandan rèy Akab la, yon nonm yo rele Iyèl, moun lavil Betèl, rebati lavil Jeriko. Men, pawòl Seyè a te di Jozye, pitit Noun lan, rive vre. Abiram, premye pitit Iyèl la, mouri lè yo t'ap fouye fondasyon lavil la, lèfini Segoub, dezyèm pitit gason Iyèl la, mouri lè yo t'ap moute pòtay lavil la.
 
 ### Chapter 17
 
@@ -19320,7 +19320,7 @@
 
 **[17:23]** Eli pran ti bway la, li desann anba avè l', li renmèt li bay manman l', li di l': -Gade! Ti gason ou lan vivan!
 
-**[17:24]** Madanm lan reponn: -Koulye a mwen wè se yon sèvite Bondye ou ye vre. Pawòl nan bouch ou se pawòl Bondye vre.  
+**[17:24]** Madanm lan reponn: -Koulye a mwen wè se yon sèvite Bondye ou ye vre. Pawòl nan bouch ou se pawòl Bondye vre.
 
 ### Chapter 18
 
@@ -19414,7 +19414,7 @@
 
 **[18:45]** Yon sèl lè a, syèl la gen tan kouvri ak nwaj nwa. Van an tanmen soufle, yon gwo lapli pran tonbe. Akab moute sou cha li, li pati pou Jizreyèl.
 
-**[18:46]** Pouvwa Seyè a vin sou Eli. Eli mare rad li nan ren, li pran kouri devan Akab jouk yo rive lavil Jizreyèl.  
+**[18:46]** Pouvwa Seyè a vin sou Eli. Eli mare rad li nan ren, li pran kouri devan Akab jouk yo rive lavil Jizreyèl.
 
 ### Chapter 19
 
@@ -19458,7 +19458,7 @@
 
 **[19:20]** Menm lè a, Elize kite bèf li yo, li kouri dèyè Eli. Li di l' konsa: -Kite m' al di manman m' ak papa m' orevwa anvan. Apre sa m'a swiv ou. Eli reponn li: -Ou mèt tounen tounen ou. M' pa rete ou, mwen menm! Kisa m' fè ou la a?
 
-**[19:21]** Elize kite Eli, li tounen tounen l', li pran yon pè bèf, li touye yo. Li pran bwa jouk yo, li limen dife, li kwit vyann lan. Li bay moun ki te avè l' yo pou yo manje. Lèfini, li pati al jwenn Eli, li rete avè l'.  
+**[19:21]** Elize kite Eli, li tounen tounen l', li pran yon pè bèf, li touye yo. Li pran bwa jouk yo, li limen dife, li kwit vyann lan. Li bay moun ki te avè l' yo pou yo manje. Lèfini, li pati al jwenn Eli, li rete avè l'.
 
 ### Chapter 20
 
@@ -19546,7 +19546,7 @@
 
 **[20:42]** Pwofèt la di wa a: -Men mesaj Seyè a voye di ou: Poutèt ou kite moun mwen te bay lòd pou yo touye a chape, se ou menm ki pral peye pou li. Ou pral mouri. Se lame ou ki pral peye pou lame pa l'. Yo pral mouri.
 
-**[20:43]** Se konsa, wa peyi Izrayèl la tounen lakay li lavil Samari, li te boulvèse, men li byen mare.  
+**[20:43]** Se konsa, wa peyi Izrayèl la tounen lakay li lavil Samari, li te boulvèse, men li byen mare.
 
 ### Chapter 21
 
@@ -19606,7 +19606,7 @@
 
 **[21:28]** Apre sa, Seyè a pale ak Eli, moun lavil Tichbe a, li di l' konsa:
 
-**[21:29]** -Ou wè jan Akab vin dou nan pye m'! Paske li fè sa, m'ap tann li mouri anvan m' voye malè a sou fanmi li. Se va pandan rèy pitit gason l' lan m'a voye malè sou fanmi l'.  
+**[21:29]** -Ou wè jan Akab vin dou nan pye m'! Paske li fè sa, m'ap tann li mouri anvan m' voye malè a sou fanmi li. Se va pandan rèy pitit gason l' lan m'a voye malè sou fanmi l'.
 
 ### Chapter 22
 
@@ -19714,7 +19714,7 @@
 
 **[22:52]** Li fè sa ki mal nan je Seyè a. Li swiv egzanp papa l' ak manman l'. Li fè tankou Jewoboram, pitit gason Nebat la, ki te lakòz moun pèp Izrayèl yo fè sa ki mal.
 
-**[22:53]** Li sèvi Baal, li adore l' tankou papa l' te fè a. Se konsa li te fè Seyè a, Bondye pèp Izrayèl la, fache anpil.   
+**[22:53]** Li sèvi Baal, li adore l' tankou papa l' te fè a. Se konsa li te fè Seyè a, Bondye pèp Izrayèl la, fache anpil.
 
 ## II Kings
 
@@ -19754,7 +19754,7 @@
 
 **[1:17]** Okozyas mouri vre, jan Seyè a te di l' la nan bouch Eli. Okozyas pa t' gen pitit gason. Se Joram, frè li, ki moute sou fotèy la nan plas li. Lè sa a, Joram, pitit gason Jozafa a, t'ap mache sou dezan depi li t'ap gouvènen nan peyi Jida.
 
-**[1:18]** Tout rès istwa Okozyas la ansanm ak tou sa li te fè, n'a jwenn yo ekri nan liv Istwa wa peyi Izrayèl yo.  
+**[1:18]** Tout rès istwa Okozyas la ansanm ak tou sa li te fè, n'a jwenn yo ekri nan liv Istwa wa peyi Izrayèl yo.
 
 ### Chapter 2
 
@@ -19806,7 +19806,7 @@
 
 **[2:24]** Elize vire, li gade ti gason yo, li ba yo madichon nan non Seyè a. Lamenm, de lous soti nan rakbwa a, yo dechire karannde nan ti gason yo.
 
-**[2:25]** Apre sa, Elize ale mòn Kamèl. Lèfini li tounen lavil Samari.  
+**[2:25]** Apre sa, Elize ale mòn Kamèl. Lèfini li tounen lavil Samari.
 
 ### Chapter 3
 
@@ -19862,7 +19862,7 @@
 
 **[3:26]** Lè wa peyi Moab la wè li t'ap pèdi batay la, li pran sètsan (700) sòlda avè l'. Avèk nepe yo, yo chache mwayen pou yo pase nan mitan sòlda Izrayèl yo al fè wout yo nan direksyon peyi Edon, men yo pa t' kapab.
 
-**[3:27]** Lè sa a, wa peyi Moab la pran premye pitit gason l' lan, sa ki te pou pran plas li sou fotèy la, li ofri l' bay bondye peyi Moab la, li touye l' sou tèt miray lavil la. Lè moun Izrayèl yo wè sa, yo pè pou malè pa rive yo. Yo rale kò yo dèyè, yo tounen nan peyi yo.  
+**[3:27]** Lè sa a, wa peyi Moab la pran premye pitit gason l' lan, sa ki te pou pran plas li sou fotèy la, li ofri l' bay bondye peyi Moab la, li touye l' sou tèt miray lavil la. Lè moun Izrayèl yo wè sa, yo pè pou malè pa rive yo. Yo rale kò yo dèyè, yo tounen nan peyi yo.
 
 ### Chapter 4
 
@@ -19952,7 +19952,7 @@
 
 **[4:43]** Men domestik la di l': --Ki jan pou m' rive bay san moun manje ak ti pwovizyon sa a? Elize reponn li: --Ba yo l' pou yo manje, paske Seyè a di y'ap manje kont yo, y'ap kite rès.
 
-**[4:44]** Domestik la sèvi manje a. Tout pwofèt yo manje, yo kite rès jan Seyè a te di l' la.  
+**[4:44]** Domestik la sèvi manje a. Tout pwofèt yo manje, yo kite rès jan Seyè a te di l' la.
 
 ### Chapter 5
 
@@ -20008,7 +20008,7 @@
 
 **[5:26]** Elize di li: --Mwen te la avè ou, nan lespri m', lè nonm lan desann soti sou cha li a pou l' resevwa ou. Men se pa lè sa a pou nou resevwa lajan ak rad ni pou n' achte jaden oliv, jaden rezen, bèf, mouton, kabrit, osinon fanm ak gason pou sèvi nou esklav.
 
-**[5:27]** Se poutèt sa, maladi Naaman an pral tonbe sou ou, sou pitit ak pitit pitit ou yo pou tout tan. Lè Gerazi soti, li te gen maladi po a. Po kò l' te blan kou koton.  
+**[5:27]** Se poutèt sa, maladi Naaman an pral tonbe sou ou, sou pitit ak pitit pitit ou yo pou tout tan. Lè Gerazi soti, li te gen maladi po a. Po kò l' te blan kou koton.
 
 ### Chapter 6
 
@@ -20076,7 +20076,7 @@
 
 **[6:32]** Wa a voye yon mesaje al chache Elize. Lè sa a, Elize te chita lakay li ak kèk chèf fanmi ki t'ap vizite l'. Men, anvan mesaje wa a gen tan rive, Elize di chèf fanmi yo: --Gade, Ansasen an voye yon moun pou touye m'. Men sa n'ap fè. Lè mesaje wa a va rive, fèmen pòt la sou li. Pa kite l' antre. Wa a pye pou pye dèyè l'.
 
-**[6:33]** Elize pankò fèmen bouch li, lè wa a rive devan l'. Wa a di l' konsa: --Se Seyè a ki voye malè sa a sou nou! Sa m' bezwen rete ap tann li fè kichòy pou nou ankò?  
+**[6:33]** Elize pankò fèmen bouch li, lè wa a rive devan l'. Wa a di l' konsa: --Se Seyè a ki voye malè sa a sou nou! Sa m' bezwen rete ap tann li fè kichòy pou nou ankò?
 
 ### Chapter 7
 
@@ -20118,7 +20118,7 @@
 
 **[7:19]** Se konsa chèf gadkò a te di Seyè a te mèt louvri syèl la pou voye bagay sa yo, sa Elize di a pa ka fèt. Elize menm te reponn li, li te di l': Ou wè ou menm, w'ap wè sa rive ak pwòp je ou, men ou p'ap gen chans manje ladan l'.
 
-**[7:20]** Se sa menm ki rive l'. Li mouri pilonnen anba pye pèp la lè y'ap pase nan pòtay lavil la.  
+**[7:20]** Se sa menm ki rive l'. Li mouri pilonnen anba pye pèp la lè y'ap pase nan pòtay lavil la.
 
 ### Chapter 8
 
@@ -20178,7 +20178,7 @@
 
 **[8:28]** Wa Okozyas mete tèt ansanm ak wa Joram, pitit Akab, pou y' al atake Azayèl, wa peyi Siri a. Lame yo kontre yonn ak lòt bò lavil Ramòt nan peyi Galarad. Sòlda peyi Siri yo blese Joram nan batay la.
 
-**[8:29]** Joram tounen lavil Jizreyèl pou l' te refè anba kou sòlda peyi Siri yo te ba li lavi Ramòt lè li t'ap goumen ak Azayèl, wa peyi Siri a. Okozyas, pitit Joram, wa peyi Jida a, desann lavil Jizreyèl al wè wa Joram, pitit Akab la, paske Joram te malad.  
+**[8:29]** Joram tounen lavil Jizreyèl pou l' te refè anba kou sòlda peyi Siri yo te ba li lavi Ramòt lè li t'ap goumen ak Azayèl, wa peyi Siri a. Okozyas, pitit Joram, wa peyi Jida a, desann lavil Jizreyèl al wè wa Joram, pitit Akab la, paske Joram te malad.
 
 ### Chapter 9
 
@@ -20254,7 +20254,7 @@
 
 **[9:36]** Yo tounen al fè rapò yo bay Jeou. Jeou di konsa: --Se sa menm Seyè a te di ki pou te rive l' lè li te bay Eli, moun Tichbe a mesaj sa a pou li: Chen va manje Jezabèl nan peyi Jizreyèl.
 
-**[9:37]** Kadav li pral tounen fimye gaye nan tout jaden zòn Jizreyèl la. Konsa pesonn p'ap ka rekonèt li.  
+**[9:37]** Kadav li pral tounen fimye gaye nan tout jaden zòn Jizreyèl la. Konsa pesonn p'ap ka rekonèt li.
 
 ### Chapter 10
 
@@ -20328,7 +20328,7 @@
 
 **[10:35]** Lè Jeou mouri, yo antere l' lavil Samari. Se Joakaz, pitit li, ki moute wa nan plas li.
 
-**[10:36]** Jeou te gouvènen peyi Izrayèl pandan ventwitan nan lavil Samari.  
+**[10:36]** Jeou te gouvènen peyi Izrayèl pandan ventwitan nan lavil Samari.
 
 ### Chapter 11
 
@@ -20372,7 +20372,7 @@
 
 **[11:20]** Tout pèp la te kontan anpil. Yo te touye Atali ak kout nepe nan palè wa a. Apre sa, pa t' gen yon ti bri nan tout lavil la.
 
-**[11:21]** Joas te gen sètan lè l' moute wa.  
+**[11:21]** Joas te gen sètan lè l' moute wa.
 
 ### Chapter 12
 
@@ -20416,7 +20416,7 @@
 
 **[12:20]** Se pwòp chèf li yo ki te moute yon konplo sou do l'. Yo touye l' nan kay yo te bati sou ranblè ki sou bò solèy leve lavil Jerizalèm lan, sou wout ki mennen desann bò Sila a.
 
-**[12:21]** Se Jozaka, pitit Chimeya, ak Jozabab, pitit Chomè, de chèf ki t'ap sèvi ak wa a, ki touye l'. Yo antere Joas nan lavil David nan kavo fanmi an. Se Amasya, pitit gason li, ki moute wa nan plas li.  
+**[12:21]** Se Jozaka, pitit Chimeya, ak Jozabab, pitit Chomè, de chèf ki t'ap sèvi ak wa a, ki touye l'. Yo antere Joas nan lavil David nan kavo fanmi an. Se Amasya, pitit gason li, ki moute wa nan plas li.
 
 ### Chapter 13
 
@@ -20468,7 +20468,7 @@
 
 **[13:24]** Lè Azayèl, wa peyi Siri a, mouri, se Bennadad, pitit li, ki moute wa nan plas li.
 
-**[13:25]** Wa Joas, pitit gason Joakaz, repran nan men Bennadad tout lavil Azayèl te pran yo lè li t'ap fè lagè ak Joakaz la, papa l'. Joas bat Bennadad an twa fwa, li reprann tout lavil peyi Izrayèl yo nan men l'.  
+**[13:25]** Wa Joas, pitit gason Joakaz, repran nan men Bennadad tout lavil Azayèl te pran yo lè li t'ap fè lagè ak Joakaz la, papa l'. Joas bat Bennadad an twa fwa, li reprann tout lavil peyi Izrayèl yo nan men l'.
 
 ### Chapter 14
 
@@ -20528,7 +20528,7 @@
 
 **[14:28]** Tout rès istwa Jewoboram lan, tou sa li fè, jan li te vanyan sòlda lè li t'ap fè lagè, jan li te fè lavil Damas ak lavil Amat soti anba men moun Jida yo tounen anba otorite wa Izrayèl la, n'a jwenn tou sa ekri nan liv Istwa wa Izrayèl yo.
 
-**[14:29]** Lè Jewoboram mouri, yo antere l' menm kote ak tout wa Izrayèl yo. Se Zakari, pitit li, ki moute wa nan plas li.  
+**[14:29]** Lè Jewoboram mouri, yo antere l' menm kote ak tout wa Izrayèl yo. Se Zakari, pitit li, ki moute wa nan plas li.
 
 ### Chapter 15
 
@@ -20606,7 +20606,7 @@
 
 **[15:37]** Se sou reny li Seyè a te voye Rezin, wa peyi Siri, ak Peka, pitit Remalya a, vin atake peyi Jida yonn apre lòt.
 
-**[15:38]** Lè Jotam mouri, yo antere l' menm kote ak zansèt li yo nan lavil David, zansèt li a. Se Akaz, pitit gason li, ki moute wa nan plas li.  
+**[15:38]** Lè Jotam mouri, yo antere l' menm kote ak zansèt li yo nan lavil David, zansèt li a. Se Akaz, pitit gason li, ki moute wa nan plas li.
 
 ### Chapter 16
 
@@ -20648,7 +20648,7 @@
 
 **[16:19]** Tout rès istwa wa Akaz la, tou sa li te fè, n'a jwenn sa ekri nan liv Istwa wa peyi Jida yo.
 
-**[16:20]** Lè wa Akaz mouri, yo antere l' menm kote ak zansèt li yo nan Lavil David. Se Ezekyas, pitit li, ki moute wa nan plas li.  
+**[16:20]** Lè wa Akaz mouri, yo antere l' menm kote ak zansèt li yo nan Lavil David. Se Ezekyas, pitit li, ki moute wa nan plas li.
 
 ### Chapter 17
 
@@ -20732,7 +20732,7 @@
 
 **[17:40]** Men, moun yo pa koute m', yo toujou ap fè sa yo te konn fè anvan an.
 
-**[17:41]** Konsa moun nasyon sa yo t'ap sèvi Seyè a, men yo te toujou ap sèvi zidòl pa yo tou. Pitit yo ak pitit pitit yo ap fè tankou papa yo jouk jounen jòdi a.  
+**[17:41]** Konsa moun nasyon sa yo t'ap sèvi Seyè a, men yo te toujou ap sèvi zidòl pa yo tou. Pitit yo ak pitit pitit yo ap fè tankou papa yo jouk jounen jòdi a.
 
 ### Chapter 18
 
@@ -20808,7 +20808,7 @@
 
 **[18:36]** Men pèp la pa louvri bouch reponn, yo pa di yon mo paske wa a te bay lòd pou pesonn pa reponn.
 
-**[18:37]** Apre sa, Elyakim, pitit Ilkija a, ki chèf moun k'ap travay nan palè a, Chebna, sekretè a ak Joak, pitit Azaf la, ki te reskonsab achiv leta a, chire rad sou yo sitèlman sa te fè yo lapenn. Yo tounen al jwenn Ezekyas, yo rapòte l' tou sa chèf gad palè wa Lasiri a te di.  
+**[18:37]** Apre sa, Elyakim, pitit Ilkija a, ki chèf moun k'ap travay nan palè a, Chebna, sekretè a ak Joak, pitit Azaf la, ki te reskonsab achiv leta a, chire rad sou yo sitèlman sa te fè yo lapenn. Yo tounen al jwenn Ezekyas, yo rapòte l' tou sa chèf gad palè wa Lasiri a te di.
 
 ### Chapter 19
 
@@ -20884,7 +20884,7 @@
 
 **[19:36]** Senakerib, wa peyi Lasiri a, leve, li pati, li tounen lavil Neniv.
 
-**[19:37]** Yon jou, antan wa a t'ap fè sèvis nan tanp Niswòk, bondye li a, de nan pitit gason l' yo touye l' ak nepe yo, epi yo kouri al kache nan peyi Arara. Yo te rele Adramelèk ak Sarezè. Se yon lòt nan pitit gason li yo ki te rele Asaradon ki moute wa nan plas li.  
+**[19:37]** Yon jou, antan wa a t'ap fè sèvis nan tanp Niswòk, bondye li a, de nan pitit gason l' yo touye l' ak nepe yo, epi yo kouri al kache nan peyi Arara. Yo te rele Adramelèk ak Sarezè. Se yon lòt nan pitit gason li yo ki te rele Asaradon ki moute wa nan plas li.
 
 ### Chapter 20
 
@@ -20928,7 +20928,7 @@
 
 **[20:20]** Tout rès istwa Ezekyas la, jan li te vanyan sòlda, jan li te bati rezèvwa dlo a ak gwo kannal anba tè pou mennen dlo nan lavil la, nou jwenn tou sa ekri nan liv Istwa wa peyi Jida yo.
 
-**[20:21]** Lè Ezekyas mouri, se Manase, pitit gason l' lan, ki moute wa nan plas li.  
+**[20:21]** Lè Ezekyas mouri, se Manase, pitit gason l' lan, ki moute wa nan plas li.
 
 ### Chapter 21
 
@@ -20982,7 +20982,7 @@
 
 **[21:25]** Tout rès istwa Amon an, tou sa li te fè, n'a jwenn tou sa ekri nan liv Istwa wa peyi Jida yo.
 
-**[21:26]** Lè Amon mouri, yo antere l' nan kavo fanmi an, nan jaden Ouza a. Lèfini, se Jozyas, pitit gason l' lan, ki moute wa nan plas li.  
+**[21:26]** Lè Amon mouri, yo antere l' nan kavo fanmi an, nan jaden Ouza a. Lèfini, se Jozyas, pitit gason l' lan, ki moute wa nan plas li.
 
 ### Chapter 22
 
@@ -21024,7 +21024,7 @@
 
 **[22:19]** Sa fè kè ou fè ou mal, ou soumèt ou devan mwen, lè ou tande deklarasyon mwen fè sou lavil sa a ak sou tout moun li yo. Se bagay ki pral fè moun mete men nan bouch. Y'ap sèvi ak non yo pou bay madichon. Wi, lè ou tande sa ou chire rad sou ou, dlo koule nan je ou. Se poutèt sa, mwen menm tou, mwen tande ou. Se mwen menm, Seyè a, k'ap di ou sa.
 
-**[22:20]** Ou menm, w'ap mouri ak kè poze nan kabann ou, y'ap antere ou nan menm kavo ak zansèt ou yo. Ou p'ap gen tan wè malè m'ap voye sou lavil Jerizalèm lan. Mesye yo tounen pote mesaj la bay wa Jozyas.  
+**[22:20]** Ou menm, w'ap mouri ak kè poze nan kabann ou, y'ap antere ou nan menm kavo ak zansèt ou yo. Ou p'ap gen tan wè malè m'ap voye sou lavil Jerizalèm lan. Mesye yo tounen pote mesaj la bay wa Jozyas.
 
 ### Chapter 23
 
@@ -21100,7 +21100,7 @@
 
 **[23:36]** Jojakim te gen vennsenkan lè li moute wa peyi Jida. Li gouvènen lavil Jerizalèm pandan onzan. Manman l' te rele Zebida. Se te pitit fi Pedaja, moun lavil Wouma.
 
-**[23:37]** Men li fè sa ki mal nan je Seyè a tankou zansèt li yo.  
+**[23:37]** Men li fè sa ki mal nan je Seyè a tankou zansèt li yo.
 
 ### Chapter 24
 
@@ -21142,7 +21142,7 @@
 
 **[24:19]** Wa Sedesyas te fè sa ki mal devan Bondye menm jan ak Jojakin.
 
-**[24:20]** Se konsa, Seyè a te fache ni sou moun lavil Jerizalèm yo, ni sou moun peyi Jida yo jouk jou li wete yo devan je l'. Men, rive yon lè Sedesyas derefize soumèt devan Nèbikadneza, wa Babilòn lan.  
+**[24:20]** Se konsa, Seyè a te fache ni sou moun lavil Jerizalèm yo, ni sou moun peyi Jida yo jouk jou li wete yo devan je l'. Men, rive yon lè Sedesyas derefize soumèt devan Nèbikadneza, wa Babilòn lan.
 
 ### Chapter 25
 
@@ -21204,7 +21204,7 @@
 
 **[25:29]** Li wete rad prizonye ki te sou Jojakin lan, li fè l' vin manje sou menm tab avè l' chak jou jouk Jojakin mouri.
 
-**[25:30]** Chak jou, wa a ba li sa li te bezwen pou l' viv, konsa, konsa, jouk li mouri.   
+**[25:30]** Chak jou, wa a ba li sa li te bezwen pou l' viv, konsa, konsa, jouk li mouri.
 
 ## I Chronicles
 
@@ -21316,7 +21316,7 @@
 
 **[1:53]** Kenaz, Teman, Mibza,
 
-**[1:54]** Masdiyèl, Iram. Se te non tout chèf peyi Edon yo sa.  
+**[1:54]** Masdiyèl, Iram. Se te non tout chèf peyi Edon yo sa.
 
 ### Chapter 2
 
@@ -21428,7 +21428,7 @@
 
 **[2:54]** Salma, papa Betleyèm, te zansèt moun lavil Netofat, moun lavil Atwòt-Bèt-Joab, ak moun Sora yo ki te yonn nan de branch fanmi ki te rete Manarat yo.
 
-**[2:55]** Men branch fanmi moun ki te abil nan ekri ak kopye dokiman. Yo te rete lavil Jabèz. Se te moun Tira yo, moun Chima yo ak moun Souka yo. Se moun branch fanmi Kayen ki soti nan fanmi Amat, zansèt moun Rekab yo.  
+**[2:55]** Men branch fanmi moun ki te abil nan ekri ak kopye dokiman. Yo te rete lavil Jabèz. Se te moun Tira yo, moun Chima yo ak moun Souka yo. Se moun branch fanmi Kayen ki soti nan fanmi Amat, zansèt moun Rekab yo.
 
 ### Chapter 3
 
@@ -21478,7 +21478,7 @@
 
 **[3:23]** Nearya te gen twa pitit gason: Elioenayi, Izkiya ak Azrikam.
 
-**[3:24]** Elioenayi te gen sèt pitit gason: Odavya, Elyachib, Pelaya, Akoub, Joanan, Delaya ak Anani.  
+**[3:24]** Elioenayi te gen sèt pitit gason: Odavya, Elyachib, Pelaya, Akoub, Joanan, Delaya ak Anani.
 
 ### Chapter 4
 
@@ -21566,7 +21566,7 @@
 
 **[4:42]** Senksan (500) lòt moun nan branch fanmi Simeyon an pati pou mòn Seyi, nan peyi Edon. Yo te gen pou chèf kat pitit gason Icheyi yo: Pelatya, Nearya, Refaja ak Ouzyèl.
 
-**[4:43]** Lè yo rive, yo touye rès moun Amalèk yo. Depi lè sa a se la yo rete jouk jounen jòdi a.  
+**[4:43]** Lè yo rive, yo touye rès moun Amalèk yo. Depi lè sa a se la yo rete jouk jounen jòdi a.
 
 ### Chapter 5
 
@@ -21620,7 +21620,7 @@
 
 **[5:25]** Men, pèp la te vire do bay Bondye zansèt yo a, y' al kouri fè sèvis pou bondye lòt nasyon Bondye te disparèt pou fè plas pou yo.
 
-**[5:26]** Se poutèt sa, Bondye pèp Izrayèl la fè Poul, wa peyi Lasiri a ki te rele Tiglat-Pilesè tou, anvayi peyi yo a, depòte moun branch fanmi Woubenn yo, moun branch fanmi Gad yo ak moun mwatye branch fanmi Manase yo. Li mennen yo lavil Ala, lavil Abò, lavil Ara ak bò larivyè Gozan kote yo rete jouk jounen jòdi a.  
+**[5:26]** Se poutèt sa, Bondye pèp Izrayèl la fè Poul, wa peyi Lasiri a ki te rele Tiglat-Pilesè tou, anvayi peyi yo a, depòte moun branch fanmi Woubenn yo, moun branch fanmi Gad yo ak moun mwatye branch fanmi Manase yo. Li mennen yo lavil Ala, lavil Abò, lavil Ara ak bò larivyè Gozan kote yo rete jouk jounen jòdi a.
 
 ### Chapter 6
 
@@ -21784,7 +21784,7 @@
 
 **[6:80]** Nan pòsyon tè ki pou branch fanmi Gad la, yo ba yo Ramòt nan peyi Galarad ak tout savann pou bèt yo, Manayim ak tout savann pou bèt yo,
 
-**[6:81]** Esbon ak tout savann pou bèt yo, Jazè ak tout savann pou bèt yo.  
+**[6:81]** Esbon ak tout savann pou bèt yo, Jazè ak tout savann pou bèt yo.
 
 ### Chapter 7
 
@@ -21866,7 +21866,7 @@
 
 **[7:39]** Men pitit Oula yo: Ara, Anyèl ak Rizya.
 
-**[7:40]** Tout moun sa yo te moun branch fanmi Asè. Yo tout te chèf fanmi, vanyan sòlda, grannèg. Dapre rejis fanmi yo, te gen vennsimil (26.000) gason ki te gen laj pou fè sèvis lame, epi ki te bon pou fè lagè.  
+**[7:40]** Tout moun sa yo te moun branch fanmi Asè. Yo tout te chèf fanmi, vanyan sòlda, grannèg. Dapre rejis fanmi yo, te gen vennsimil (26.000) gason ki te gen laj pou fè sèvis lame, epi ki te bon pou fè lagè.
 
 ### Chapter 8
 
@@ -21948,7 +21948,7 @@
 
 **[8:39]** Echèk, frè Azèl la, te gen twa pitit gason: Oulam, Jeouch ak Elifelèt.
 
-**[8:40]** Pitit gason Oulam yo te vanyan sòlda ki te gen anpil ladrès nan sèvi ak banza. Yo te gen sansenkant (150) pitit ak pitit pitit antou. Tout moun sa yo te fè pati branch fanmi Benjamen an.  
+**[8:40]** Pitit gason Oulam yo te vanyan sòlda ki te gen anpil ladrès nan sèvi ak banza. Yo te gen sansenkant (150) pitit ak pitit pitit antou. Tout moun sa yo te fè pati branch fanmi Benjamen an.
 
 ### Chapter 9
 
@@ -22038,7 +22038,7 @@
 
 **[9:43]** Moza te papa Binea ki te papa Rafad. Rafad te papa Eleaza ki te papa Azèl.
 
-**[9:44]** Azèl te gen sis pitit gason. Se te Azrikam, Bokewou, Ichmayèl, Chearya, Obadya ak Anan, Se non pitit gason Azèl yo sa.  
+**[9:44]** Azèl te gen sis pitit gason. Se te Azrikam, Bokewou, Ichmayèl, Chearya, Obadya ak Anan, Se non pitit gason Azèl yo sa.
 
 ### Chapter 10
 
@@ -22068,7 +22068,7 @@
 
 **[10:13]** Se konsa Sayil mouri paske li pa t' kenbe pawòl li ak Seyè a. Li pa t' obeyi lòd Seyè a te ba li. Li te pito fè yo rele nanm moun mouri pou l' te konnen sa ki tapral rive l',
 
-**[10:14]** pase pou l' te al mande Seyè a sa. Se poutèt sa Seyè a te touye l', li renmèt gouvènman an nan men David, pitit lzayi a.  
+**[10:14]** pase pou l' te al mande Seyè a sa. Se poutèt sa Seyè a te touye l', li renmèt gouvènman an nan men David, pitit lzayi a.
 
 ### Chapter 11
 
@@ -22164,7 +22164,7 @@
 
 **[11:46]** Eliyèl, moun lavil Manayim, Jeribayi ak Josavya, pitit gason Elnam, Jitma, moun lavil Moab,
 
-**[11:47]** Eliyèl, Obèd ak Jasiyèl, moun lavil Soba.  
+**[11:47]** Eliyèl, Obèd ak Jasiyèl, moun lavil Soba.
 
 ### Chapter 12
 
@@ -22246,7 +22246,7 @@
 
 **[12:39]** Yo pase twa jou la ansanm ak David, yo t'ap manje, yo t'ap bwè, paske moun Izrayèl parèy yo te pare tout bagay pou yo.
 
-**[12:40]** Lèfini, moun soti nan tout vwazinaj la, jouk nan peyi Isaka, peyi Zabilon ak peyi Neftali, yo pote manje sou bourik, sou chamo, sou milèt ak sou bèf. Te gen pwovizyon farin frans, gato, fig frans, grap rezen chèch, diven, lwil ak kantite bèf, mouton ak kabrit. Tout pèp Izrayèl la t'ap fè fèt nan tout peyi a.  
+**[12:40]** Lèfini, moun soti nan tout vwazinaj la, jouk nan peyi Isaka, peyi Zabilon ak peyi Neftali, yo pote manje sou bourik, sou chamo, sou milèt ak sou bèf. Te gen pwovizyon farin frans, gato, fig frans, grap rezen chèch, diven, lwil ak kantite bèf, mouton ak kabrit. Tout pèp Izrayèl la t'ap fè fèt nan tout peyi a.
 
 ### Chapter 13
 
@@ -22276,7 +22276,7 @@
 
 **[13:13]** Se konsa, li pran desizyon pa pote Bwat Kontra Seyè a lakay li nan lavil David. Li fè yo pote l' kay Obèd-Edon, yon moun lavil Gat.
 
-**[13:14]** Bwat la pase twa mwa lakay Obèd-Edon, Seyè a te beni fanmi Obèd-Edon ak tout bagay ki te pou yo.  
+**[13:14]** Bwat la pase twa mwa lakay Obèd-Edon, Seyè a te beni fanmi Obèd-Edon ak tout bagay ki te pou yo.
 
 ### Chapter 14
 
@@ -22312,7 +22312,7 @@
 
 **[14:16]** David fè sa Seyè a te mande l' fè a. Yo bat lame moun Filisti yo, yo kouri dèyè yo depi lavil Geba rive lavil Gezè.
 
-**[14:17]** Se konsa toupatou yo t'ap nonmen non wa David. Seyè a te fè tout nasyon yo pè li.  
+**[14:17]** Se konsa toupatou yo t'ap nonmen non wa David. Seyè a te fè tout nasyon yo pè li.
 
 ### Chapter 15
 
@@ -22372,7 +22372,7 @@
 
 **[15:28]** Se konsa, tout pèp Izrayèl la ale ansanm ak Bwat Kontra Seyè a, yo pote l' lavil Jerizalèm. Yo t'ap rele, yo t'ap fè fèt. Yo t'ap jwe klewon, twonpèt, senbal, gita ak bandjo sou tout wout la.
 
-**[15:29]** Antan yo t'ap antre ak Bwat Kontra a lavil Jerizalèm, Mikal, pitit fi Sayil la, te kanpe bò yon fennèt ap gade. Li wè David ki t'ap danse fè laviwonn devan Bwat la. Li vin pa gen yon san pou li ankò.  
+**[15:29]** Antan yo t'ap antre ak Bwat Kontra a lavil Jerizalèm, Mikal, pitit fi Sayil la, te kanpe bò yon fennèt ap gade. Li wè David ki t'ap danse fè laviwonn devan Bwat la. Li vin pa gen yon san pou li ankò.
 
 ### Chapter 16
 
@@ -22460,7 +22460,7 @@
 
 **[16:42]** Eyman ak Jedoutoun te gen twonpèt, senbal ki fè gwo bri yo ak lòt enstriman mizik pou yo jwe antan yo t'ap chante fè lwanj pou Bondye. Manm fanmi Jedoutoun yo te reskonsab veye pòtay yo.
 
-**[16:43]** Apre sa, tout pèp la tounen lakay yo. David tounen lakay li tou pou l' beni fanmi pa l' tou.  
+**[16:43]** Apre sa, tout pèp la tounen lakay yo. David tounen lakay li tou pou l' beni fanmi pa l' tou.
 
 ### Chapter 17
 
@@ -22516,7 +22516,7 @@
 
 **[17:26]** Koulye a, Seyè, se ou ki Bondye, se ou ki pwomèt sèvitè ou la bèl bagay sa yo.
 
-**[17:27]** Tanpri, beni tout fanmi mwen apre mwen, pou yo ka toujou anba pwoteksyon ou. Wi, Seyè, se ou ki bay benediksyon. Se pou ou toujou voye benediksyon ou sou fanmi mwen.  
+**[17:27]** Tanpri, beni tout fanmi mwen apre mwen, pou yo ka toujou anba pwoteksyon ou. Wi, Seyè, se ou ki bay benediksyon. Se pou ou toujou voye benediksyon ou sou fanmi mwen.
 
 ### Chapter 18
 
@@ -22552,7 +22552,7 @@
 
 **[18:16]** Zadòk, pitit gason Akitoub, ak Akimelèk, pitit gason Abyata a, te prèt. Chaoucha te sekretè.
 
-**[18:17]** Benaja, pitit gason Jeojada a, te chèf keretyen yo ak pelesyen yo ki te gad pèsonèl wa a. Pitit gason David yo menm te gwo chèf apre wa a.  
+**[18:17]** Benaja, pitit gason Jeojada a, te chèf keretyen yo ak pelesyen yo ki te gad pèsonèl wa a. Pitit gason David yo menm te gwo chèf apre wa a.
 
 ### Chapter 19
 
@@ -22592,7 +22592,7 @@
 
 **[19:18]** Moun Izrayèl yo fè moun Aram yo kouri met deyò. David ak sòlda li yo touye sòlda ki te sou sètmil (7.000) cha lagè ak karantmil (40.000) sòlda ki te apye. Yo touye Chofak, chèf lame lènmi an.
 
-**[19:19]** Lè moun ki te avek Adadezè yo wè jan moun Izrayèl yo te bat yo, yo fè lapè ak David. Yo soumèt devan li. Se konsa, moun Aram yo pa t' vle vin pote moun Amon yo sekou ankò.  
+**[19:19]** Lè moun ki te avek Adadezè yo wè jan moun Izrayèl yo te bat yo, yo fè lapè ak David. Yo soumèt devan li. Se konsa, moun Aram yo pa t' vle vin pote moun Amon yo sekou ankò.
 
 ### Chapter 20
 
@@ -22610,7 +22610,7 @@
 
 **[20:7]** Li t'ap pase moun pèp Izrayèl yo nan betiz. Jonatan, pitit gason Chimeya, frè David la, touye l'.
 
-**[20:8]** Kat sòlda peyi Filisti sa yo te soti nan ras moun Arafa yo, nan lavil Gat. David ak sòlda li yo touye yo.  
+**[20:8]** Kat sòlda peyi Filisti sa yo te soti nan ras moun Arafa yo, nan lavil Gat. David ak sòlda li yo touye yo.
 
 ### Chapter 21
 
@@ -22672,7 +22672,7 @@
 
 **[21:29]** Men lè sa a, Tant Randevou Moyiz te fè moute pou Seyè a nan dezè a ansanm ak lotèl pou boule ofrann bèt yo te sou mòn Gabawon toujou, kote yo te mete apa pou Seyè a.
 
-**[21:30]** Men, David pa t' ka ale la pou adore Seyè a, paske li te pè nepe zanj Seyè a.  
+**[21:30]** Men, David pa t' ka ale la pou adore Seyè a, paske li te pè nepe zanj Seyè a.
 
 ### Chapter 22
 
@@ -22712,7 +22712,7 @@
 
 **[22:18]** Li di yo konsa: -Seyè a, Bondye nou an, te toujou la avèk nou. Li fè nou viv nan lapè ak tout moun toupatou. Li lage nan men mwen tout lòt moun ki rete nan peyi a, kifè tout peyi a soumèt nèt devan Seyè a ak devan pèp li a.
 
-**[22:19]** Koulye a, se pou nou pran desizyon chache fè volonte Seyè a, Bondye nou an, ak tout kè nou, ak tout nanm nou. Pare kò nou pou nou bati tanp Seyè a, Bondye nou an, pou nou ka mete Bwat Kontra Seyè a ak tout lòt bagay yo mete apa pou fè sèvis Seyè a ladan l'.  
+**[22:19]** Koulye a, se pou nou pran desizyon chache fè volonte Seyè a, Bondye nou an, ak tout kè nou, ak tout nanm nou. Pare kò nou pou nou bati tanp Seyè a, Bondye nou an, pou nou ka mete Bwat Kontra Seyè a ak tout lòt bagay yo mete apa pou fè sèvis Seyè a ladan l'.
 
 ### Chapter 23
 
@@ -22778,7 +22778,7 @@
 
 **[23:31]** Se pou yo la tou lè y'ap fè ofrann pou yo boule nèt pou Seyè a jou repo yo, premye jou chak mwa yo, ak pou lòt jou fèt yo. Te gen regleman ki te bay travay moun Levi yo gen pou fè ak kantite moun ki pou fè chak travay. Se te reskonsablite yo pou yo te toujou ap sèvi Seyè a.
 
-**[23:32]** Se yo menm tou ki te reskonsab okipe Tant Randevou a, ak kote yo mete apa pou Seyè a, ak prèt yo, fanmi yo ki soti nan branch fanmi Arawon an, lè y'ap sèvi nan Tanp lan.  
+**[23:32]** Se yo menm tou ki te reskonsab okipe Tant Randevou a, ak kote yo mete apa pou Seyè a, ak prèt yo, fanmi yo ki soti nan branch fanmi Arawon an, lè y'ap sèvi nan Tanp lan.
 
 ### Chapter 24
 
@@ -22842,7 +22842,7 @@
 
 **[24:30]** Mouchi te gen twa gason: Makli, Edè ak Jerimòt. Se tout fanmi Levi yo sa dapre non zansèt yo.
 
-**[24:31]** Tankou moun fanmi Arawon yo, yo menm tou, yo piye devan wa David, devan Zadòk ak Akimelèk, devan chèf fanmi prèt yo ak moun Levi yo, pou yo separe travay la bay chak moun pa yo, depi sou fanmi chèf yo rive sou fanmi pi piti ladan yo, san patipri.  
+**[24:31]** Tankou moun fanmi Arawon yo, yo menm tou, yo piye devan wa David, devan Zadòk ak Akimelèk, devan chèf fanmi prèt yo ak moun Levi yo, pou yo separe travay la bay chak moun pa yo, depi sou fanmi chèf yo rive sou fanmi pi piti ladan yo, san patipri.
 
 ### Chapter 25
 
@@ -22906,7 +22906,7 @@
 
 **[25:30]** -(We vèsè 31)
 
-**[25:31]** Desankatrevenwit (288) mesye sa yo te separe chak fanmi apa. Sa te fè vennkat gwoup. Chak gwoup te gen douz moun. Nan chak gwoup te gen yon chèf ak pitit gason l' yo ansanm ak frè l' yo. Men nan ki lòd yo te soti apre yo fin piye a. Premye a te Jozèf nan fanmi Asaf la, dezyèm lan Gedalya, twazyèm lan Zakou, katriyèm lan Jisri, senkyèm lan Netanya, sizyèm lan Boukya, setyèm lan Acharela, wityèm lan Izayi, nevyèm lan Matanya, dizyèm lan Chimeyi, onzyèm lan Azareyèl, douzyèm lan Achabya, trèzyèm lan Choubayèl, katòzyèm lan Matatya, kenzyèm lan Jerimòt, sèzyèm lan Ananya, disetyèm lan Josbekacha, dizwityèm lan Anani, diznevyèm lan Maloti, ventyèm lan Elyata, venteyenyèm lan Oti, venndezyèm lan Gidalti, venntwazyèm lan Maziòt, vennkatryèm lan Womanti-Ezè.  
+**[25:31]** Desankatrevenwit (288) mesye sa yo te separe chak fanmi apa. Sa te fè vennkat gwoup. Chak gwoup te gen douz moun. Nan chak gwoup te gen yon chèf ak pitit gason l' yo ansanm ak frè l' yo. Men nan ki lòd yo te soti apre yo fin piye a. Premye a te Jozèf nan fanmi Asaf la, dezyèm lan Gedalya, twazyèm lan Zakou, katriyèm lan Jisri, senkyèm lan Netanya, sizyèm lan Boukya, setyèm lan Acharela, wityèm lan Izayi, nevyèm lan Matanya, dizyèm lan Chimeyi, onzyèm lan Azareyèl, douzyèm lan Achabya, trèzyèm lan Choubayèl, katòzyèm lan Matatya, kenzyèm lan Jerimòt, sèzyèm lan Ananya, disetyèm lan Josbekacha, dizwityèm lan Anani, diznevyèm lan Maloti, ventyèm lan Elyata, venteyenyèm lan Oti, venndezyèm lan Gidalti, venntwazyèm lan Maziòt, vennkatryèm lan Womanti-Ezè.
 
 ### Chapter 26
 
@@ -22972,7 +22972,7 @@
 
 **[26:31]** David te gen karantan depi li te wa, lè yo mennen yon ankèt nan branch fanmi Ebwon an. Lè sa a, yo jwenn te gen anpil vanyan sòlda nan fanmi sa a ki t'ap viv lavil Jazè nan zòn Galarad. Chèf fanmi Ebwon an te rele Jerija.
 
-**[26:32]** Nan fanmi an, te gen antou demilsètsan (2700) vanyan gason ki te chèf fanmi yo. Wa David te mete yo reskonsab branch fanmi Woubenn lan, branch fanmi Gad la ak mwatye nan branch fanmi Manase a ki t'ap viv lòt bò larivyè Jouden sou bò solèy leve, pou wè si tout bagay ki gen rapò ak sèvis Bondye ansanm ak zafè wa a t'ap mache byen.  
+**[26:32]** Nan fanmi an, te gen antou demilsètsan (2700) vanyan gason ki te chèf fanmi yo. Wa David te mete yo reskonsab branch fanmi Woubenn lan, branch fanmi Gad la ak mwatye nan branch fanmi Manase a ki t'ap viv lòt bò larivyè Jouden sou bò solèy leve, pou wè si tout bagay ki gen rapò ak sèvis Bondye ansanm ak zafè wa a t'ap mache byen.
 
 ### Chapter 27
 
@@ -23042,7 +23042,7 @@
 
 **[27:33]** Akitofèl te konseye wa a tou. Ouzayi, moun peyi Ak, te bon zanmi wa a.
 
-**[27:34]** Lè Akitofèl mouri, se Abyata ak Jeojada, pitit Benaja, ki vin konseye wa a. Joab te kòmandan lame wa a.  
+**[27:34]** Lè Akitofèl mouri, se Abyata ak Jeojada, pitit Benaja, ki vin konseye wa a. Joab te kòmandan lame wa a.
 
 ### Chapter 28
 
@@ -23086,7 +23086,7 @@
 
 **[28:20]** Apre sa, wa David di Salomon, pitit li a: -Mete gason sou ou! Pran kouraj, pitit mwen! Fè sa ou gen pou fè a! Pa kite anyen fè ou pè, paske Seyè a, Bondye mwen an, kanpe la avè ou, jouk tout travay pou sèvis Tanp lan fini.
 
-**[28:21]** Gwoup prèt yo ak gwoup moun Levi yo deja resevwa travay pou yo fè nan Tanp lan. Pou tout lòt travay yo, ou gen avè ou ouvriye ki vle ede ou, lèfini ki gen ladrès nan tout kalite djòb. Chèf yo ak tout pèp la ap tann lòd ou pou tout bagay fèt.  
+**[28:21]** Gwoup prèt yo ak gwoup moun Levi yo deja resevwa travay pou yo fè nan Tanp lan. Pou tout lòt travay yo, ou gen avè ou ouvriye ki vle ede ou, lèfini ki gen ladrès nan tout kalite djòb. Chèf yo ak tout pèp la ap tann lòd ou pou tout bagay fèt.
 
 ### Chapter 29
 
@@ -23148,7 +23148,7 @@
 
 **[29:29]** Se nan liv istwa pwofèt Samyèl, liv istwa pwofèt Natan ak liv istwa pwofèt Gad nou jwenn istwa tou sa David te fè depi nan konmansman jouk li mouri.
 
-**[29:30]** Liv sa yo fè nou konnen jan li te gouvènen, jan li te yon vanyan gason, ansanm ak tou sa ki te rive l', tou sa ki pase nan peyi Izrayèl la ak nan lòt peyi yo tou.   
+**[29:30]** Liv sa yo fè nou konnen jan li te gouvènen, jan li te yon vanyan gason, ansanm ak tou sa ki te rive l', tou sa ki pase nan peyi Izrayèl la ak nan lòt peyi yo tou.
 
 ## II Chronicles
 
@@ -23186,7 +23186,7 @@
 
 **[1:16]** Chwal Salomon yo te soti nan peyi Moukri ak nan peyi Silisi. Wa a te gen moun pa l' ki te konn al achte chwal yo la pou li.
 
-**[1:17]** Chak cha lagè yo te achte nan peyi Lejip te koute sisan (600) pyès ajan, chak chwal te koute sansenkant (150) pyès ajan. Se menm moun sa yo ki te konn al achte pou revann wa peyi Et yo ak wa peyi Siri yo.  
+**[1:17]** Chak cha lagè yo te achte nan peyi Lejip te koute sisan (600) pyès ajan, chak chwal te koute sansenkant (150) pyès ajan. Se menm moun sa yo ki te konn al achte pou revann wa peyi Et yo ak wa peyi Siri yo.
 
 ### Chapter 2
 
@@ -23224,7 +23224,7 @@
 
 **[2:17]** Lè sa a, Salomon fè konte mete sou lis tout moun lòt nasyon ki t'ap viv nan peyi Izrayèl la, menm jan David, papa l', te fè l' la. Li jwenn sansenkanntwamil sisan (153.600) moun.
 
-**[2:18]** Li pran swasanndimil (70.000) ladan yo pou pote materyo, katrevenmil (80.000) pou taye wòch nan mòn yo. Lèfini, li pran twamilsisan (3.600) ki rete yo, li mete yo fòmann reskonsab pou fè pèp la travay.  
+**[2:18]** Li pran swasanndimil (70.000) ladan yo pou pote materyo, katrevenmil (80.000) pou taye wòch nan mòn yo. Lèfini, li pran twamilsisan (3.600) ki rete yo, li mete yo fòmann reskonsab pou fè pèp la travay.
 
 ### Chapter 3
 
@@ -23260,7 +23260,7 @@
 
 **[3:16]** Li fè ti chenn mare yonn ak lòt, li mete yo fè wonn anwo tèt poto yo ansanm ak pòtre grenad li mare nan ti chenn yo.
 
-**[3:17]** Li mete poto yo devan Tanp lan, yo yonn chak bò pòtay la. Yo rele sa ki te bò dwat la Jakin, sa ki te bò gòch la Boaz.  
+**[3:17]** Li mete poto yo devan Tanp lan, yo yonn chak bò pòtay la. Yo rele sa ki te bò dwat la Jakin, sa ki te bò gòch la Boaz.
 
 ### Chapter 4
 
@@ -23306,7 +23306,7 @@
 
 **[4:21]** flè yo, lanp yo ak pensèt pou gwo lanp sèt branch yo,
 
-**[4:22]** kouto yo, gode yo, bòl yo, recho pou pote chabon tou limen yo. Tout bagay sa yo te fèt ak bon jan lò. Batan pòt ki bay sou deyò Tanp lan ak batan pòt ki bay sou pyès ki apa nèt pou Seyè a te kouvri nèt ak lò tou.  
+**[4:22]** kouto yo, gode yo, bòl yo, recho pou pote chabon tou limen yo. Tout bagay sa yo te fèt ak bon jan lò. Batan pòt ki bay sou deyò Tanp lan ak batan pòt ki bay sou pyès ki apa nèt pou Seyè a te kouvri nèt ak lò tou.
 
 ### Chapter 5
 
@@ -23336,7 +23336,7 @@
 
 **[5:13]** Lè tout moun sa yo mete ansanm pou yo pran kònen twonpèt, pou yo chante fè lwanj Bondye, pou di li mèsi, nan mitan bèl mizik yo t'ap jwe nan twonpèt ak senbal ak lòt enstriman mizik yo, ou tande vwa moun yo ki t'ap chante: Lwanj pou Seyè a, paske li bon! Li p'ap janm sispann renmen nou! Lè sa a, nwaj la plen Tanp Seyè a nèt.
 
-**[5:14]** Poutèt nwaj la, prèt yo pa t' ka rete fè sèvis yo, paske limyè prezans Seyè a te plen Tanp lan nèt.  
+**[5:14]** Poutèt nwaj la, prèt yo pa t' ka rete fè sèvis yo, paske limyè prezans Seyè a te plen Tanp lan nèt.
 
 ### Chapter 6
 
@@ -23422,7 +23422,7 @@
 
 **[6:41]** Koulye a, leve non, Seyè, Bondye! Vin kote pou ou pran repo a! Vini non ansanm ak Bwat Kontra ou la ki fè wè jan ou gen pouvwa. Se pou prèt yo fè konnen jan ou bay pèp ou a delivrans! Se pou tout pèp ou a rele tèlman yo kontan!
 
-**[6:42]** Poutèt pwomès ou te fè David, sèvitè ou la, tanpri, Seyè, pa vire do bay moun ou te chwazi a!  
+**[6:42]** Poutèt pwomès ou te fè David, sèvitè ou la, tanpri, Seyè, pa vire do bay moun ou te chwazi a!
 
 ### Chapter 7
 
@@ -23468,7 +23468,7 @@
 
 **[7:21]** Kay sa a ki te sitèlman bèl pral tounen yon pil mazi. Tout moun ki va pase bò la a va sezi, y'a mete men nan bouch, y'a mande poukisa Seyè a fè peyi a ak tanp lan sa.
 
-**[7:22]** Y'a reponn: Se paske yo te vire do bay Seyè a, Bondye zansèt yo a, ki te fè yo soti kite peyi Lejip. Yo kouri dèyè lòt bondye, yo fè sèvis pou yo, yo adore yo. Se poutèt sa Seyè a te voye gwo malè sa a sou yo.  
+**[7:22]** Y'a reponn: Se paske yo te vire do bay Seyè a, Bondye zansèt yo a, ki te fè yo soti kite peyi Lejip. Yo kouri dèyè lòt bondye, yo fè sèvis pou yo, yo adore yo. Se poutèt sa Seyè a te voye gwo malè sa a sou yo.
 
 ### Chapter 8
 
@@ -23506,7 +23506,7 @@
 
 **[8:17]** Apre sa, Salomon ale lavil Ezyongebè ak lavil Elat bò Lanmè Wouj la, nan pòsyon tè ki pou moun Edon yo.
 
-**[8:18]** Wa Iram te voye batiman ansanm ak moun peyi l' ki te konn lanmè bay Salomon pou sèvi ansanm ak moun Salomon yo sou batiman yo. Se chèf ki t'ap sèvi nan gouvènman Iram yo ki te vin renmèt batiman yo. Maren Iram yo vwayaje ansanm ak moun pa Salomon yo rive peyi Ofi, kote yo al chache trèz tòn lò pote bay Salomon.  
+**[8:18]** Wa Iram te voye batiman ansanm ak moun peyi l' ki te konn lanmè bay Salomon pou sèvi ansanm ak moun Salomon yo sou batiman yo. Se chèf ki t'ap sèvi nan gouvènman Iram yo ki te vin renmèt batiman yo. Maren Iram yo vwayaje ansanm ak moun pa Salomon yo rive peyi Ofi, kote yo al chache trèz tòn lò pote bay Salomon.
 
 ### Chapter 9
 
@@ -23570,7 +23570,7 @@
 
 **[9:30]** Salomon te wa lavil Jerizalèm, li te gouvènen tout pèp Izrayèl la pandan karantan.
 
-**[9:31]** Lè li mouri, yo antere l' nan lavil David, papa l'. Se Woboram, pitit li, ki moute wa nan plas li.  
+**[9:31]** Lè li mouri, yo antere l' nan lavil David, papa l'. Se Woboram, pitit li, ki moute wa nan plas li.
 
 ### Chapter 10
 
@@ -23610,7 +23610,7 @@
 
 **[10:18]** Apre sa, wa Woboram voye Adoram ki te reskonsab travay kòve yo al bò kote moun Izrayèl yo. Men, moun Izrayèl yo kalonnen li koutwòch jouk li mouri. Lè sa a, wa Woboram prese moute sou cha li, li kouri ale lavil Jerizalèm.
 
-**[10:19]** Depi lè sa a, moun pèp Izrayèl yo vire do bay moun fanmi David yo jouk jounen jòdi a.  
+**[10:19]** Depi lè sa a, moun pèp Izrayèl yo vire do bay moun fanmi David yo jouk jounen jòdi a.
 
 ### Chapter 11
 
@@ -23658,7 +23658,7 @@
 
 **[11:22]** Konsa tou, li te pito Abija, pitit gason Maka te fè pou li a, pase tout lòt pitit li yo. Li mete l' chèf tout frè l' yo. Li te vle se li ki pou pran plas li lè li mouri.
 
-**[11:23]** Li te fè lide bay chak pitit gason l' yo yon reskonsablite. Se konsa, li voye yo al rete toupatou nan peyi Jida ak nan peyi Benjamen, nan tout lavil li te ranfòse yo, li ba yo pwovizyon an kantite epi li marye yo ak anpil fanm.  
+**[11:23]** Li te fè lide bay chak pitit gason l' yo yon reskonsablite. Se konsa, li voye yo al rete toupatou nan peyi Jida ak nan peyi Benjamen, nan tout lavil li te ranfòse yo, li ba yo pwovizyon an kantite epi li marye yo ak anpil fanm.
 
 ### Chapter 12
 
@@ -23692,7 +23692,7 @@
 
 **[12:15]** Tou sa wa Woboram te fè, depi premye jou li te moute wa a rive jouk dènye jou a, nou jwenn yo ekri nan liv travay pwofèt Chemaya ak nan liv vizyon pwofèt Ido ki bay lis fanmi yo. Se te yon lagè san rete ant Woboram ak Jewoboram.
 
-**[12:16]** Lè Woboram mouri, yo antere l' nan lavil David la. Se Abija, pitit gason li, ki pran plas li sou fotèy la.  
+**[12:16]** Lè Woboram mouri, yo antere l' nan lavil David la. Se Abija, pitit gason li, ki pran plas li sou fotèy la.
 
 ### Chapter 13
 
@@ -23738,7 +23738,7 @@
 
 **[13:21]** Abija menm te vin pi fò toujou, li te gen katòz fanm ki te fè vennde pitit gason ak sèz pitit fi pou li.
 
-**[13:22]** Tout rès istwa Abija a, tou sa li te fè ak tou sa li te di, nou jwenn yo nan liv istwa pwofèt Ido te ekri a.  
+**[13:22]** Tout rès istwa Abija a, tou sa li te fè ak tou sa li te di, nou jwenn yo nan liv istwa pwofèt Ido te ekri a.
 
 ### Chapter 14
 
@@ -23770,7 +23770,7 @@
 
 **[14:14]** Lèfini, yo detwi tout ti bouk ki te nan zòn Gera a, paske moun la yo te pè Seyè a anpil. Lame Jida a piye lavil yo. Yo pote anpil anpil bagay ale paske moun sa yo te gen anpil byen.
 
-**[14:15]** Yo atake gadò mouton yo anba tant yo. Yo pran yon bon valè mouton ak chamo. Apre sa, yo tounen tounen yo lavil Jerizalèm.  
+**[14:15]** Yo atake gadò mouton yo anba tant yo. Yo pran yon bon valè mouton ak chamo. Apre sa, yo tounen tounen yo lavil Jerizalèm.
 
 ### Chapter 15
 
@@ -23810,7 +23810,7 @@
 
 **[15:18]** Li pran tou sa papa l' te bay pou sèvis Bondye a, li mete yo nan Tanp lan ak tout bagay an lò ak an ajan li menm li te bay pou Bondye.
 
-**[15:19]** Pat gen lagè menm jouk wa Asa rive sou trannsenkan depi li t'ap gouvènen.  
+**[15:19]** Pat gen lagè menm jouk wa Asa rive sou trannsenkan depi li t'ap gouvènen.
 
 ### Chapter 16
 
@@ -23840,7 +23840,7 @@
 
 **[16:13]** Lè li mouri, li t'ap mache sou karanteyennan depi li te wa.
 
-**[16:14]** Yo antere l' nan kavo li te fè fouye pou tèt pa li nan lavil David la. Yo mete kadav la kouche sou yon payas fèt ak fèy santi bon ak tout kalite bon odè yo te pare jan yo konn fè l' la. Apre sa, yo limen yon gwo boukan pou li.  
+**[16:14]** Yo antere l' nan kavo li te fè fouye pou tèt pa li nan lavil David la. Yo mete kadav la kouche sou yon payas fèt ak fèy santi bon ak tout kalite bon odè yo te pare jan yo konn fè l' la. Apre sa, yo limen yon gwo boukan pou li.
 
 ### Chapter 17
 
@@ -23880,7 +23880,7 @@
 
 **[17:18]** Avè l' te gen Jeozabad avèk sankatrevenmil (180.000) sòlda byen ame pou lagè.
 
-**[17:19]** Se moun sa yo ki t'ap sèvi wa a lavil Jerizalèm, san konte lòt sòlda wa a te mete an ganizon nan lòt lavil ak ranpa nan peyi Jida a.  
+**[17:19]** Se moun sa yo ki t'ap sèvi wa a lavil Jerizalèm, san konte lòt sòlda wa a te mete an ganizon nan lòt lavil ak ranpa nan peyi Jida a.
 
 ### Chapter 18
 
@@ -23950,7 +23950,7 @@
 
 **[18:33]** Lè sa a, yon sòlda peyi Siri rete konsa li voye yon flèch. Flèch la al pran Akab, wa Izrayèl la, nan fant rad lagè ki te sou li a. Wa a di sòlda ki t'ap mennen cha li a: -Kase tèt tounen. Annou kite batay la, paske mwen blese grav.
 
-**[18:34]** Jou sa a, batay la te makònen anpil. Wa Akab menm te rete kanpe sou cha li a, l'ap gade moun peyi Siri yo jouk aswè. Lè solèy kouche li mouri.  
+**[18:34]** Jou sa a, batay la te makònen anpil. Wa Akab menm te rete kanpe sou cha li a, l'ap gade moun peyi Siri yo jouk aswè. Lè solèy kouche li mouri.
 
 ### Chapter 19
 
@@ -23974,7 +23974,7 @@
 
 **[19:10]** Chak fwa frè nou yo ki rete nan lòt lavil yo vin pote yon ka devan nou, kit se pou yon moun yo touye, kit se pou yon lwa, yon lòd, yon regleman osinon yon prensip yo dezobeyi, se pou nou pale ak yo pou yo pa fè anyen ki mal devan Seyè a. Si nou pa fè sa, Seyè a ap move ni sou nou ni sou moun nou yo. Si nou fè sa nou dwe fè, nou p'ap koupab nou menm.
 
-**[19:11]** Amarya, granprèt la, va pi gwo jij pou tout ka ki an rapò ak lalwa Bondye a. Zebadya, pitit Izmayèl la, chèf branch fanmi Jida a, va pi gwo jij pou tou sa ki an rapò ak lalwa peyi a. Se va reskonsablite moun Levi yo pou yo fè respekte tout desizyon n'a pran. Mete gason sou nou. Fe travay nou. Se pou Seyè a toujou kanpe la ak moun ki mache dwat yo.  
+**[19:11]** Amarya, granprèt la, va pi gwo jij pou tout ka ki an rapò ak lalwa Bondye a. Zebadya, pitit Izmayèl la, chèf branch fanmi Jida a, va pi gwo jij pou tou sa ki an rapò ak lalwa peyi a. Se va reskonsablite moun Levi yo pou yo fè respekte tout desizyon n'a pran. Mete gason sou nou. Fe travay nou. Se pou Seyè a toujou kanpe la ak moun ki mache dwat yo.
 
 ### Chapter 20
 
@@ -24050,7 +24050,7 @@
 
 **[20:36]** Yo mete ansanm, yo fè fè anpil gwo batiman nan pò lavil Ezyongebè pou al fè trafik sou lanmè jouk nan peyi Tasis.
 
-**[20:37]** Men Elyezè, pitit gason Dodava a, moun lavil Marecha, te avèti Jozafa. Li te di l': -Paske ou te mete tèt ou ak Okozyas, Seyè a pral kraze sa ou te bati a. Batiman yo kraze, yo pa janm rive vwayaje pou peyi Tasis.  
+**[20:37]** Men Elyezè, pitit gason Dodava a, moun lavil Marecha, te avèti Jozafa. Li te di l': -Paske ou te mete tèt ou ak Okozyas, Seyè a pral kraze sa ou te bati a. Batiman yo kraze, yo pa janm rive vwayaje pou peyi Tasis.
 
 ### Chapter 21
 
@@ -24092,7 +24092,7 @@
 
 **[21:19]** Pandan dezan maladi a t'ap minen l', trip li yo soti, li t'ap soufri anpil lè li mouri. Pèp la pa t' limen boukan pou li jan yo te fè l' pou zansèt li yo.
 
-**[21:20]** Joram te gen tranndezan lè li moute wa, li gouvènen lavil Jerizalèm pandan witan. Pesonn pa t' pran lapenn pou li lè li mouri. Yo antere l' nan lavil David la, men yo pa mete l' nan tonm wa yo.  
+**[21:20]** Joram te gen tranndezan lè li moute wa, li gouvènen lavil Jerizalèm pandan witan. Pesonn pa t' pran lapenn pou li lè li mouri. Yo antere l' nan lavil David la, men yo pa mete l' nan tonm wa yo.
 
 ### Chapter 22
 
@@ -24118,7 +24118,7 @@
 
 **[22:11]** Men, lè yo t'ap touye pitit wa yo, Jozabèt, pitit fi wa Joram lan, pran Joas, pitit gason Okozyas la, li sere l'. Li kache l' ansanm ak moun ki te sèvi l' nouris la nan yon chanm kote moun dòmi nan Tanp lan. Se konsa, Jozabèt, pitit fi wa Joram lan, sè menm papa ak Okozyas, epi ki te madanm Jeojada, prèt la, te sere Joas san Atali pa konn sa, kifè li pa t' mouri tou.
 
-**[22:12]** Pandan sizan Joas te rete kache nan Tanp lan ansanm ak moun ki te sèvi l' nouris la. Atali menm t'ap gouvènen peyi a.  
+**[22:12]** Pandan sizan Joas te rete kache nan Tanp lan ansanm ak moun ki te sèvi l' nouris la. Atali menm t'ap gouvènen peyi a.
 
 ### Chapter 23
 
@@ -24162,7 +24162,7 @@
 
 **[23:20]** Apre sa, li pran kaptenn yo, notab yo, otorite yo ak tout rès pèp la, yo soti nan Tanp lan ansanm ak wa a, yo mennen l' ale nan palè a. Yo pase antre nan pòtay Wa a. Lèfini, yo fè wa a chita sou fotèy li.
 
-**[23:21]** Tout pèp la te kontan anpil. Pat gen yon ti bri nan lavil la depi yo te fin touye Atali ak kout nepe a.  
+**[23:21]** Tout pèp la te kontan anpil. Pat gen yon ti bri nan lavil la depi yo te fin touye Atali ak kout nepe a.
 
 ### Chapter 24
 
@@ -24218,7 +24218,7 @@
 
 **[24:26]** Men non chèf ki te fè konplo a: se te Zabad, pitit gason Chimeya, yon fanm peyi Amon ak Jeozabad, pitit Chimrit, yon fanm peyi Moab.
 
-**[24:27]** Nan esplikasyon yo bay sou liv wa yo, n'a jwenn istwa pitit gason Joas yo, mesaj pwofèt yo te bay sou li, epi yo rakonte ki jan li te rebati Tanp Bondye a. Se Amasya, pitit Joas la, ki moute wa nan plas li.  
+**[24:27]** Nan esplikasyon yo bay sou liv wa yo, n'a jwenn istwa pitit gason Joas yo, mesaj pwofèt yo te bay sou li, epi yo rakonte ki jan li te rebati Tanp Bondye a. Se Amasya, pitit Joas la, ki moute wa nan plas li.
 
 ### Chapter 25
 
@@ -24276,7 +24276,7 @@
 
 **[25:27]** Depi lè Amasya te lage pye Seyè a, yo t'ap fè konplo sou do l' lavil Jerizalèm. Bout pou bout, li kouri al kache lavil lakis. Men, yo voye dèyè l' jouk lavil lakis, yo pran l', yo touye l'.
 
-**[25:28]** Lèfini yo pote kadav li sou chwal lavil Jerizalèm. Yo antere l' nan tonm wa yo nan lavil David la.  
+**[25:28]** Lèfini yo pote kadav li sou chwal lavil Jerizalèm. Yo antere l' nan tonm wa yo nan lavil David la.
 
 ### Chapter 26
 
@@ -24324,7 +24324,7 @@
 
 **[26:22]** Pwofèt Izayi, pitit Amòz la, te ekri tout rès istwa Ozyas la, depi premye jou li te moute wa a rive jouk dènye jou a.
 
-**[26:23]** Lè Ozyas mouri, yo antere l' apa nan simityè wa yo. Poutèt vye maladi po li a, yo pa t' mete l' nan tonm wa yo. Se Jotam, pitit li a, ki moute wa nan plas li.  
+**[26:23]** Lè Ozyas mouri, yo antere l' apa nan simityè wa yo. Poutèt vye maladi po li a, yo pa t' mete l' nan tonm wa yo. Se Jotam, pitit li a, ki moute wa nan plas li.
 
 ### Chapter 27
 
@@ -24344,7 +24344,7 @@
 
 **[27:8]** Li te gen vennsenkan lè li moute wa nan peyi Jida. Li gouvènen nan lavil Jerizalèm pandan sèzan.
 
-**[27:9]** Lè Jotam mouri, yo antere l' nan lavil David la. Se Akaz, pitit li, ki moute wa nan plas li.  
+**[27:9]** Lè Jotam mouri, yo antere l' nan lavil David la. Se Akaz, pitit li, ki moute wa nan plas li.
 
 ### Chapter 28
 
@@ -24400,7 +24400,7 @@
 
 **[28:26]** Tout rès istwa Akaz la ak tou sa li te fè depi premye jou li te moute wa a rive jouk dènye jou a, n'a jwenn tou sa ekri nan Liv Istwa wa peyi Jida ak wa peyi Izrayèl yo.
 
-**[28:27]** Lè li mouri, yo antere l' lavil Jerizalèm, men yo pa t' mete l' nan tonm wa Izrayèl yo. Se Ezekyas, pitit li, ki moute wa nan plas li.  
+**[28:27]** Lè li mouri, yo antere l' lavil Jerizalèm, men yo pa t' mete l' nan tonm wa Izrayèl yo. Se Ezekyas, pitit li, ki moute wa nan plas li.
 
 ### Chapter 29
 
@@ -24474,7 +24474,7 @@
 
 **[29:35]** Lèfini, san konte tout bèt yo te touye pou boule nèt pou Seyè a, prèt yo te gen pou ofri bay Bondye grès lòt bèt yo te touye pou mande Bondye padon ak ofrann diven ki mache ak bèt yo boule nèt pou Seyè a. Se konsa yo konmanse ankò ap fè sèvis pou Bondye nan Tanp lan.
 
-**[29:36]** Wa Ezekyas ak tout pèp la te kontan deske Bondye te penmèt yo fè tou sa san pèdi twòp tan.  
+**[29:36]** Wa Ezekyas ak tout pèp la te kontan deske Bondye te penmèt yo fè tou sa san pèdi twòp tan.
 
 ### Chapter 30
 
@@ -24530,7 +24530,7 @@
 
 **[30:26]** Se te gwo fèt nan lavil Jerizalèm, paske depi sou rèy Salomon, pitit David, wa pèp Izrayèl la, pa t' janm gen bagay konsa lavil Jerizalèm.
 
-**[30:27]** Apre sa, prèt yo ak moun Levi yo kanpe, yo mande benediksyon Bondye pou tout pèp la. Lapriyè yo moute rive jouk nan syèl la, kay Bondye a menm, kote Bondye ki apa nèt la rete a. Bondye tande lapriyè yo.  
+**[30:27]** Apre sa, prèt yo ak moun Levi yo kanpe, yo mande benediksyon Bondye pou tout pèp la. Lapriyè yo moute rive jouk nan syèl la, kay Bondye a menm, kote Bondye ki apa nèt la rete a. Bondye tande lapriyè yo.
 
 ### Chapter 31
 
@@ -24574,7 +24574,7 @@
 
 **[31:20]** Se konsa Ezekyas te fè nan tout peyi Jida a. Li te fè sa ki byen, sa ki dwat ak tout kè li devan Seyè a, Bondye li a.
 
-**[31:21]** Nan tou sa li te fè pou sèvis Tanp Bondye a, pou lalwa ak pou kòmandman Bondye yo, li te chache fè volonte Bondye ak tout kè li. Se poutèt sa tout bagay te mache byen pou li.  
+**[31:21]** Nan tou sa li te fè pou sèvis Tanp Bondye a, pou lalwa ak pou kòmandman Bondye yo, li te chache fè volonte Bondye ak tout kè li. Se poutèt sa tout bagay te mache byen pou li.
 
 ### Chapter 32
 
@@ -24642,7 +24642,7 @@
 
 **[32:32]** Tout lòt bagay wa Ezekyas te fè yo, jan li te sevi Bondye nan tou sa li t'ap fè, tou sa ekri nan liv Vizyon pwofèt Ezayi, pitit Amòz la, ak nan liv Istwa wa peyi Jida ak wa peyi Izrayèl yo.
 
-**[32:33]** Lè Ezekyas mouri, yo antere l' nan yon chanm anwo nan kavo fanmi David yo. Lè l' mouri, tout moun peyi Jida yo ak moun lavil Jerizalèm yo fè bèl lantèman pou li. Se Manase, pitit li, ki moute wa nan plas li.  
+**[32:33]** Lè Ezekyas mouri, yo antere l' nan yon chanm anwo nan kavo fanmi David yo. Lè l' mouri, tout moun peyi Jida yo ak moun lavil Jerizalèm yo fè bèl lantèman pou li. Se Manase, pitit li, ki moute wa nan plas li.
 
 ### Chapter 33
 
@@ -24694,7 +24694,7 @@
 
 **[33:24]** Chèf ki t'ap sèvi avèk Amon yo fè konplo, yo touye l' anndan palè a.
 
-**[33:25]** Moun peyi Jida yo touye mesye ki te fè konplo pou touye Amon yo. Yo mete Jozyas, pitit gason Amon an, wa nan plas li.  
+**[33:25]** Moun peyi Jida yo touye mesye ki te fè konplo pou touye Amon yo. Yo mete Jozyas, pitit gason Amon an, wa nan plas li.
 
 ### Chapter 34
 
@@ -24762,7 +24762,7 @@
 
 **[34:32]** Apre sa, wa a fè tout moun ki te lavil Jerizalèm ansanm ak moun branch fanmi Benjamen yo pran menm angajman an tou. Depi lè sa a, moun lavil Jerizalèm yo mache dapre kontra yo te pase ak Bondye zansèt yo a.
 
-**[34:33]** Jozyas fè disparèt tout vye zidòl sal nan peyi ki te pou moun pèp Izrayèl yo. Li mete tout moun ki te rete nan peyi Izrayèl la nan obligasyon pou yo sèvi Seyè a, Bondye yo a. Se konsa pandan tout tan Jozyas te vivan an, tout pèp la te kenbe pye Seyè a, Bondye zansèt yo a, fèm.  
+**[34:33]** Jozyas fè disparèt tout vye zidòl sal nan peyi ki te pou moun pèp Izrayèl yo. Li mete tout moun ki te rete nan peyi Izrayèl la nan obligasyon pou yo sèvi Seyè a, Bondye yo a. Se konsa pandan tout tan Jozyas te vivan an, tout pèp la te kenbe pye Seyè a, Bondye zansèt yo a, fèm.
 
 ### Chapter 35
 
@@ -24818,7 +24818,7 @@
 
 **[35:26]** Tou sa Jozyas te fè, jan li sèvi Seyè a ak tout kè li, jan li te mache dapre sa ki ekri nan Lalwa Seyè a,
 
-**[35:27]** wi, tout istwa Jozyas la nèt, depi premye jou li te moute wa rive jouk dènye jou a, n'a jwenn tou sa ekri nan Liv Istwa Wa peyi Jida ak wa peyi Izrayèl yo.  
+**[35:27]** wi, tout istwa Jozyas la nèt, depi premye jou li te moute wa rive jouk dènye jou a, n'a jwenn tou sa ekri nan Liv Istwa Wa peyi Jida ak wa peyi Izrayèl yo.
 
 ### Chapter 36
 
@@ -24866,7 +24866,7 @@
 
 **[36:22]** Lè sa a, wa Siris pa t' ankò gen ennan depi li t'ap gouvènen peyi Pès la, lè Seyè a mete lide nan tèt wa a pou li bay yon lòd, fè kouche l' sou papye, voye l' toupatou nan peyi a pou yo te ka li l' pou tout moun tande. Sa te pase konsa pou pawòl Seyè a te mete nan bouch pwofèt Jeremi an te ka rive vre. Men lòd la:
 
-**[36:23]** -Mwen menm Siris, wa peyi Pès la, men lòd mwen bay: Seyè a, Bondye nan syèl la, te mete m' chèf sou tout peyi ki sou latè. Li ban m' reskonsablite pou m' bati yon Tanp pou li lavil Jerizalèm nan peyi Jida. Nou mande pou Bondye pèp sa a beni tout moun ki fè pati pèp Izrayèl la, pou yo moute lavil Jerizalèm.   
+**[36:23]** -Mwen menm Siris, wa peyi Pès la, men lòd mwen bay: Seyè a, Bondye nan syèl la, te mete m' chèf sou tout peyi ki sou latè. Li ban m' reskonsablite pou m' bati yon Tanp pou li lavil Jerizalèm nan peyi Jida. Nou mande pou Bondye pèp sa a beni tout moun ki fè pati pèp Izrayèl la, pou yo moute lavil Jerizalèm.
 
 ## Ezra
 
@@ -24892,7 +24892,7 @@
 
 **[1:10]** trant ti bòl an lò katsandis (410) ti bòl an ajan mil (1.000) lòt kalite bagay.
 
-**[1:11]** Antou, sa te fè senkmilkatsan (5.400) divès kalite bagay an lò ak an ajan. Se tout bagay sa yo Chechbaza te pran ak li lè li t'ap kite lavil Babilòn ansanm ak lòt moun yo te depòte yo, pou tounen lavil Jerizalèm.  
+**[1:11]** Antou, sa te fè senkmilkatsan (5.400) divès kalite bagay an lò ak an ajan. Se tout bagay sa yo Chechbaza te pran ak li lè li t'ap kite lavil Babilòn ansanm ak lòt moun yo te depòte yo, pou tounen lavil Jerizalèm.
 
 ### Chapter 2
 
@@ -25034,7 +25034,7 @@
 
 **[2:69]** Yo bay tou sa yo te ka bay pou travay la: sèzmil senksanven (16.520) ons lò, sandisètmil (117.000) ons ajan ak san (100) gwo rad pou prèt yo mete sou yo.
 
-**[2:70]** Prèt yo, moun Levi yo ak kèk moun nan pèp la al rete lavil Jerizalèm ak nan vwazinaj lavil la. Mizisyen yo, gad yo ak travayè tanp yo al rete nan lavil ki pa twò lwen kapital la. Tout rès pèp Izrayèl la al rete nan lavil kote yo moun.  
+**[2:70]** Prèt yo, moun Levi yo ak kèk moun nan pèp la al rete lavil Jerizalèm ak nan vwazinaj lavil la. Mizisyen yo, gad yo ak travayè tanp yo al rete nan lavil ki pa twò lwen kapital la. Tout rès pèp Izrayèl la al rete nan lavil kote yo moun.
 
 ### Chapter 3
 
@@ -25062,7 +25062,7 @@
 
 **[3:12]** Te gen anpil prèt, anpil moun Levi ak anpil chèf fanmi ki te fin vye granmoun. Yo te konnen ansyen tanp lan anvan li te kraze. Lè yo wè fondasyon tanp lan t'ap moute ankò devan je yo, genyen ki t'ap kriye ak dlo nan je. Men, anpil lòt t'ap rele sitèlman yo te kontan.
 
-**[3:13]** Men, pesonn pa t' ka di kilès ki t'ap rele ak kè kontan, kilès ki t'ap plede kriye ak dlo nan je, paske tout pèp la t'ap rele ansanm byen fò. Moun te ka tande yo byen lwen.  
+**[3:13]** Men, pesonn pa t' ka di kilès ki t'ap rele ak kè kontan, kilès ki t'ap plede kriye ak dlo nan je, paske tout pèp la t'ap rele ansanm byen fò. Moun te ka tande yo byen lwen.
 
 ### Chapter 4
 
@@ -25112,7 +25112,7 @@
 
 **[4:23]** Fini yo fini li lèt wa Atagzèsès la bay Reyoum, gouvènè a, Chimchayi, sekretè pwovens la, ak lòt kòlèg yo nan gouvènman an, mesye yo leve, yo kouri lavil Jerizalèm al jwenn jwif yo, avèk zam nan men yo, yo fòse yo sispann travay la.
 
-**[4:24]** Se konsa yo te rete travay tanp Bondye a lavil Jerizalèm. Travay la rete bloke jouk dezyèm lanne rèy Dariyis, wa peyi Pès la.  
+**[4:24]** Se konsa yo te rete travay tanp Bondye a lavil Jerizalèm. Travay la rete bloke jouk dezyèm lanne rèy Dariyis, wa peyi Pès la.
 
 ### Chapter 5
 
@@ -25148,7 +25148,7 @@
 
 **[5:16]** Se konsa, Chechbaza sa a vini, li moute fondasyon tanp Bondye a lavil Jerizalèm. Depi lè sa a, travay la ap mache, men yo poko fini.
 
-**[5:17]** Koulye a menm, si wa a ta vle, li ta ka mande yo chache nan achiv wa yo lavil Babilòn, pou wè si tout bon vre, wa Siris te ba yo otorizasyon rebati tanp Bondye a lavil Jerizalèm. Apre sa, y'a fè nou konnen desizyon wa a sou zafè sa a.  
+**[5:17]** Koulye a menm, si wa a ta vle, li ta ka mande yo chache nan achiv wa yo lavil Babilòn, pou wè si tout bon vre, wa Siris te ba yo otorizasyon rebati tanp Bondye a lavil Jerizalèm. Apre sa, y'a fè nou konnen desizyon wa a sou zafè sa a.
 
 ### Chapter 6
 
@@ -25194,7 +25194,7 @@
 
 **[6:21]** Men moun ki te manje manje Delivrans lan. Se te tout jwif ki te tounen soti nan peyi kote yo te depòte yo a ansanm ak rès moun pèp Izrayèl yo ki pa t' janm kite peyi yo men ki te vire do bay vye bagay lòt moun yo t'ap fè nan peyi yo epi ki te vin mete tèt ansanm ak moun ki te tounen yo pou adore Seyè a, Bondye pèp Izrayèl la.
 
-**[6:22]** Pandan sèt jou, yo fete Fèt Pen san ledven an ak kè kontan. Yo te kontan anpil dèske Seyè a te manyen kè wa peyi Lasiri a, ki te ankouraje yo anpil nan tout gwo travay yo t'ap fè a pou rebati tanp Bondye pèp Izrayèl la.  
+**[6:22]** Pandan sèt jou, yo fete Fèt Pen san ledven an ak kè kontan. Yo te kontan anpil dèske Seyè a te manyen kè wa peyi Lasiri a, ki te ankouraje yo anpil nan tout gwo travay yo t'ap fè a pou rebati tanp Bondye pèp Izrayèl la.
 
 ### Chapter 7
 
@@ -25252,7 +25252,7 @@
 
 **[7:27]** Lè sa a, Esdras di: -Lwanj pou Seyè a, Bondye zansèt nou yo! Li mete nan tèt wa a lide pou l' fè tout bèl bagay sa yo pou tanp Seyè a lavil Jerizalèm.
 
-**[7:28]** Li fè m' jwenn favè devan wa a, devan konseye l' yo ak tout lòt gwo zotobre k'ap travay ak wa a. Li te ban m' kouraj, mwen te rive sanble tout chèf fanmi pèp Izrayèl la pou yo pati avè mwen!  
+**[7:28]** Li fè m' jwenn favè devan wa a, devan konseye l' yo ak tout lòt gwo zotobre k'ap travay ak wa a. Li te ban m' kouraj, mwen te rive sanble tout chèf fanmi pèp Izrayèl la pou yo pati avè mwen!
 
 ### Chapter 8
 
@@ -25326,7 +25326,7 @@
 
 **[8:35]** Moun ki te tounen soti nan peyi kote yo te depòte yo a ofri bèt pou yo boule nèt pou Bondye pèp Izrayèl la. Yo ofri douz towo pou tout pèp Izrayèl la, katrevensèz belye mouton, swasanndisèt ti mouton ak douz bouk kabrit pou mande Bondye padon pou peche yo. Yo boule tout bèt sa yo nèt nan dife pou Seyè a.
 
-**[8:36]** Yo pran tout dokiman wa a te ba yo, yo renmèt prefè wa yo ak gouvènè yo ki reskonsab pwovens lòt bò larivyè Lefrat la. Se konsa, tout chèf sa yo vin ede pèp la, yo bay konkou yo pou tanp Bondye a.  
+**[8:36]** Yo pran tout dokiman wa a te ba yo, yo renmèt prefè wa yo ak gouvènè yo ki reskonsab pwovens lòt bò larivyè Lefrat la. Se konsa, tout chèf sa yo vin ede pèp la, yo bay konkou yo pou tanp Bondye a.
 
 ### Chapter 9
 
@@ -25358,7 +25358,7 @@
 
 **[9:14]** Epi pou koulye a ankò pou nou pa swiv kòmandman ou yo, pou n' al marye avèk kalite move moun sa yo? Fwa sa a, p'ap gen anyen ki pou anpeche ou fache sou nou jouk pou ou detwi nou nèt, san ou pa kite pesonn chape!
 
-**[9:15]** Seyè, ou menm ki Bondye pèp Izrayèl la, se paske ou bon anpil pou nou kifè gen yon ti ponyen nan nou ki rete toujou, jan sa ye jòdi a. Epi, gade koulye a, men nou kanpe devan ou avèk tout peche nou yo! Wi, nou pa gen dwa rete vivan devan ou ankò poutèt sa!  
+**[9:15]** Seyè, ou menm ki Bondye pèp Izrayèl la, se paske ou bon anpil pou nou kifè gen yon ti ponyen nan nou ki rete toujou, jan sa ye jòdi a. Epi, gade koulye a, men nou kanpe devan ou avèk tout peche nou yo! Wi, nou pa gen dwa rete vivan devan ou ankò poutèt sa!
 
 ### Chapter 10
 
@@ -25448,7 +25448,7 @@
 
 **[10:43]** Nan branch fanmi Nebo a te gen Jeyèl, Matitya, Zabab, Zebina, Jadayi, Joèl ak Benaja.
 
-**[10:44]** Tout mesye sa yo te marye ak fanm lòt nasyon. Yo ranvwaye medam yo ansanm ak tout pitit yo te fè pou yo.   
+**[10:44]** Tout mesye sa yo te marye ak fanm lòt nasyon. Yo ranvwaye medam yo ansanm ak tout pitit yo te fè pou yo.
 
 ## Nehemiah
 
@@ -25474,7 +25474,7 @@
 
 **[1:10]** Enben! Seyè, men yo, moun k'ap sèvi ou yo. Men pèp ou a, pèp ou te delivre ak gwo pouvwa ou ak fòs ponyèt ou a.
 
-**[1:11]** Aa! Seyè, panche zòrèy ou pou tande lapriyè mwen menm, sèvitè ou, m'ap fè nan pye ou, lapriyè tout sèvitè ou yo ki pran plezi nan gen krentif pou ou. Tanpri, Seyè, fè tout bagay mache byen pou mwen jòdi a. Fè wa a resevwa m' byen. Lè sa a, mwen te chèf kanbiz wa a.  
+**[1:11]** Aa! Seyè, panche zòrèy ou pou tande lapriyè mwen menm, sèvitè ou, m'ap fè nan pye ou, lapriyè tout sèvitè ou yo ki pran plezi nan gen krentif pou ou. Tanpri, Seyè, fè tout bagay mache byen pou mwen jòdi a. Fè wa a resevwa m' byen. Lè sa a, mwen te chèf kanbiz wa a.
 
 ### Chapter 2
 
@@ -25516,7 +25516,7 @@
 
 **[2:19]** Men, lè Sanbala, moun lavil Bèt-Owon an, Tobija, moun Amon ki t'ap travay nan gouvènman an, ak Gechèm, arab la, vin pran nouvèl la, yo ri nou kont kò yo, epi yo pase nou nan kont betiz yo. Yo di nou: -Sa n'ap fè la a, mesye? Apa n'ap dezobeyi lòd wa a!
 
-**[2:20]** Mwen reponn, mwen di yo: -Se Bondye nan syèl la k'ap fè nou reyisi nan sa nou vle fè a. Nou menm ki sèvitè Bondye, nou pral konmanse rebati l'. Men nou menm, moun lòt nasyon, nou pa gen ankenn dwa sou lavil Jerizalèm. Nou pa gen anyen pou nou wè nan sa. Pesonn pa janm nonmen non nou nan koze lavil Jerizalèm.  
+**[2:20]** Mwen reponn, mwen di yo: -Se Bondye nan syèl la k'ap fè nou reyisi nan sa nou vle fè a. Nou menm ki sèvitè Bondye, nou pral konmanse rebati l'. Men nou menm, moun lòt nasyon, nou pa gen ankenn dwa sou lavil Jerizalèm. Nou pa gen anyen pou nou wè nan sa. Pesonn pa janm nonmen non nou nan koze lavil Jerizalèm.
 
 ### Chapter 3
 
@@ -25582,7 +25582,7 @@
 
 **[3:31]** Malchiya, yon òfèv, te repare pòsyon ki vin apre a, jouk kote travayè tanp yo ak kòmèsan yo rete, anfas Pòtay Mifkad la ki bay sou tanp lan, toupre pyès chanm ki anwo kwen sou bò miray la.
 
-**[3:32]** Efèv yo ak kòmèsan yo te rebati pòsyon miray ki soti bò pyès chanm anwo kwen nò a rive Pòtay Mouton yo.  
+**[3:32]** Efèv yo ak kòmèsan yo te rebati pòsyon miray ki soti bò pyès chanm anwo kwen nò a rive Pòtay Mouton yo.
 
 ### Chapter 4
 
@@ -25630,7 +25630,7 @@
 
 **[4:22]** Nan menm epòk la, mwen pale ak pèp la. Mwen di yo konsa: -Se pou tout moun rete pase nwit lavil Jerizalèm ansanm ak domestik yo. Konsa, n'a pase tout nwit la ap veye. Lajounen, n'a travay.
 
-**[4:23]** Se konsa, lannwit, nou pa janm wete rad sou nou, ni mwen, ni frè parèy mwen yo, ni domestik nou yo, ni gad kò m' yo. Nou tout nou te gen zam nou bò kote nou.  
+**[4:23]** Se konsa, lannwit, nou pa janm wete rad sou nou, ni mwen, ni frè parèy mwen yo, ni domestik nou yo, ni gad kò m' yo. Nou tout nou te gen zam nou bò kote nou.
 
 ### Chapter 5
 
@@ -25670,7 +25670,7 @@
 
 **[5:18]** Chak jou mwen te fè yo kwit pou mwen yon bèf, sis bon mouton byen gra ak anpil bèt volay. Se mwen menm ki te peye pou tout bagay sa yo ak lajan nan pòch mwen. Chak dis jou mwen fè yon pwovizyon diven fre. Men, malgre sa, mwen pa janm mande pou yo ban mwen sa pou yo bay gouvènè a pou manje l', paske pèp la te gen kont chay sou do li deja.
 
-**[5:19]** Bondye mwen, tanpri, pa bliye anyen nan tou sa mwen fè pou pèp sa a. Make sa yon kote pou mwen!  
+**[5:19]** Bondye mwen, tanpri, pa bliye anyen nan tou sa mwen fè pou pèp sa a. Make sa yon kote pou mwen!
 
 ### Chapter 6
 
@@ -25710,7 +25710,7 @@
 
 **[6:18]** Te gen anpil moun nan peyi Jida a ki te pou Tobija paske se bofis Chekanya, pitit Arak la, li te ye. Lèfini Jokanan, pitit gason li a, te marye ak pitit fi Mechoulam, pitit Berekya a.
 
-**[6:19]** Yo te konn ap fè lwanj Tobija devan m', yo t'ap di tout bèl bagay Tobija te fè. Epi apre sa, y' al rapòte l' tou sa m' te di. Tobija menm t'ap voye lèt ban mwen pou kraponnen m'.  
+**[6:19]** Yo te konn ap fè lwanj Tobija devan m', yo t'ap di tout bèl bagay Tobija te fè. Epi apre sa, y' al rapòte l' tou sa m' te di. Tobija menm t'ap voye lèt ban mwen pou kraponnen m'.
 
 ### Chapter 7
 
@@ -25858,7 +25858,7 @@
 
 **[7:72]** Rès moun pèp la te fè anpil kado tou. Antou, yo te bay senkmil katsan (5.400) ons lò, karannsimil sètsanswasanndis (46.770) ons ajan ak swasannsèt rad pou prèt yo.
 
-**[7:73]** Prèt yo, moun Levi yo, gad pòtay tanp yo, mizisyen yo ak anpil nan moun pèp Izrayèl yo ansanm ak travayè tanp yo, wi tout pèp Izrayèl la al rete nan lavil kote yo moun.  
+**[7:73]** Prèt yo, moun Levi yo, gad pòtay tanp yo, mizisyen yo ak anpil nan moun pèp Izrayèl yo ansanm ak travayè tanp yo, wi tout pèp Izrayèl la al rete nan lavil kote yo moun.
 
 ### Chapter 8
 
@@ -25896,7 +25896,7 @@
 
 **[8:17]** Se konsa, tout moun ki te tounen nan peyi kote yo te depòte yo a moute ti joupa epi yo rete anba yo. Depi sou rèy Jozye, pitit Noun lan, se te premye fwa moun pèp Izrayèl yo t'ap fete fèt sa a konsa. Tout moun te kontan. Yo t'ap fete.
 
-**[8:18]** Yo pase sèt jou ap fete. Chak jou, depi premye jou a jouk dènye jou a, yo t'ap li nan liv lalwa Bondye a. Sou wityèm jou a, yo fè yon gwo reyinyon pou fèmen fèt la jan regleman an mande l' la.  
+**[8:18]** Yo pase sèt jou ap fete. Chak jou, depi premye jou a jouk dènye jou a, yo t'ap li nan liv lalwa Bondye a. Sou wityèm jou a, yo fè yon gwo reyinyon pou fèmen fèt la jan regleman an mande l' la.
 
 ### Chapter 9
 
@@ -25974,7 +25974,7 @@
 
 **[9:37]** Tout rekòt peyi a al nan pòch wa ou mete sou kou nou. Tou sa, paske nou te fè peche. Yo fè sa yo vle ak nou ansanm ak bèt nou yo. Aa! Gade nan ki mizè nou ye non!
 
-**[9:38]** Avèk tout bagay sa yo ki rive nou, jòdi a nou menm pèp Izrayèl la, n'ap pran yon angajman, n'ap kouche l' sou papye. Epi tout chèf nou yo, tout moun Levi nou yo ak tout prèt nou yo pral siyen dokiman an anvan nou mete so sou li.  
+**[9:38]** Avèk tout bagay sa yo ki rive nou, jòdi a nou menm pèp Izrayèl la, n'ap pran yon angajman, n'ap kouche l' sou papye. Epi tout chèf nou yo, tout moun Levi nou yo ak tout prèt nou yo pral siyen dokiman an anvan nou mete so sou li.
 
 ### Chapter 10
 
@@ -26054,7 +26054,7 @@
 
 **[10:38]** Yonn nan pret yo, ki soti nan branch fanmi Arawon an, va toujou ale avèk moun Levi yo lè yo pral ranmase ladim lan. Lèfini, moun Levi yo va pote mete nan depo pwovizyon tanp lan yon dizyèm nan tout ladim y'a ranmase a pou sèvis Tanp lan.
 
-**[10:39]** Se nan chanm depo tanp lan moun pèp Izrayèl yo ak moun Levi yo va pote tout grenn, tout diven ak tout lwil yo fèt pou bay la. Se la tou y'a mete tout veso ak tout lòt bagay ki pou sèvi nan tanp lan. Epitou, prèt desèvis yo, gad pòtay tanp yo ak mizisyen tanp yo va gen kote pou yo rete la tou. Se konsa nou pran angajman nou p'ap janm neglije kay Bondye nou an ankò!  
+**[10:39]** Se nan chanm depo tanp lan moun pèp Izrayèl yo ak moun Levi yo va pote tout grenn, tout diven ak tout lwil yo fèt pou bay la. Se la tou y'a mete tout veso ak tout lòt bagay ki pou sèvi nan tanp lan. Epitou, prèt desèvis yo, gad pòtay tanp yo ak mizisyen tanp yo va gen kote pou yo rete la tou. Se konsa nou pran angajman nou p'ap janm neglije kay Bondye nou an ankò!
 
 ### Chapter 11
 
@@ -26128,7 +26128,7 @@
 
 **[11:35]** lavil Lòd, lavil Ono ak nan Fon Atizan yo.
 
-**[11:36]** Te gen kèk moun Levi ki te rete nan teritwa moun Jida yo, yo voye yo al rete nan teritwa moun Benjamen yo.  
+**[11:36]** Te gen kèk moun Levi ki te rete nan teritwa moun Jida yo, yo voye yo al rete nan teritwa moun Benjamen yo.
 
 ### Chapter 12
 
@@ -26164,7 +26164,7 @@
 
 **[12:16]** Zekarya, chèf branch fanmi Ido a, Mechoulam, chèf branch fanmi Gineton an,
 
-**[12:17]** Zikri, chèf branch fanmi Abija a, ...chèf branch fanmi Minyamen, Piltayi, chèf branch fanmi Moadya a,
+**[12:17]** Zikri, chèf branch fanmi Abija a,...chèf branch fanmi Minyamen, Piltayi, chèf branch fanmi Moadya a,
 
 **[12:18]** Chamwa, chèf branch fanmi Bilga a, Jonatan, chèf branch fanmi Chemaja a,
 
@@ -26224,7 +26224,7 @@
 
 **[12:46]** Depi lontan, sou rèy David, nan tan Asaf te chèf mizisyen yo, te gen yon gwoup mizisyen ki te la pou chante lwanj Bondye ak lòt chante pou di l' mèsi.
 
-**[12:47]** Se konsa, nan tan Zowobabèl ak nan tan Neemi, tout pèp Izrayèl la te pote kado chak jou bay mizisyen yo ak gad pòtay tanp yo. Yo te pote renmèt moun Levi yo ofrann yo te mete apa pou Bondye. Moun Levi yo menm te bay prèt yo, moun fanmi Arawon yo, pòsyon pa yo.  
+**[12:47]** Se konsa, nan tan Zowobabèl ak nan tan Neemi, tout pèp Izrayèl la te pote kado chak jou bay mizisyen yo ak gad pòtay tanp yo. Yo te pote renmèt moun Levi yo ofrann yo te mete apa pou Bondye. Moun Levi yo menm te bay prèt yo, moun fanmi Arawon yo, pòsyon pa yo.
 
 ### Chapter 13
 
@@ -26288,7 +26288,7 @@
 
 **[13:30]** Mwen te wete tout bagay ki pou moun lòt nasyon yo nan mitan pèp la pou yo te ka nan kondisyon pou sèvi Bondye. Mwen fè regleman pou prèt yo ak moun Levi yo. Konsa, chak moun te gen travay pa yo.
 
-**[13:31]** Mwen bay lè pou yo fè ofrann bwa yo ak ofrann premye grenn ak premye fwi ki mi nan jaden lè rekòt. O Bondye mwen, pa bliye m' tande! Pa bliye se mwen menm ki fè tou sa!   
+**[13:31]** Mwen bay lè pou yo fè ofrann bwa yo ak ofrann premye grenn ak premye fwi ki mi nan jaden lè rekòt. O Bondye mwen, pa bliye m' tande! Pa bliye se mwen menm ki fè tou sa!
 
 ## Esther
 
@@ -26336,7 +26336,7 @@
 
 **[1:21]** Wa a ansanm ak chèf yo te renmen lide Mimoukan te bay la. Se konsa wa a fè sa Mimoukan te di fè a.
 
-**[1:22]** Li voye mesaj nan tout peyi ki te anba baton kòmandman l' lan. Mesaj la te ekri nan lang chak peyi, jan yo ekri lang lan nan peyi a. Li voye di se pou chak gason chèf lakay yo: Lè yo pale, se fini!  
+**[1:22]** Li voye mesaj nan tout peyi ki te anba baton kòmandman l' lan. Mesaj la te ekri nan lang chak peyi, jan yo ekri lang lan nan peyi a. Li voye di se pou chak gason chèf lakay yo: Lè yo pale, se fini!
 
 ### Chapter 2
 
@@ -26384,7 +26384,7 @@
 
 **[2:22]** Madoche vin konn sa. Li di larenn Estè sa. Larenn Estè menm al di wa a men sa Madoche voye di l'.
 
-**[2:23]** Yo mennen ankèt, yo jwenn sa Madoche te di a se te vre. Yo pann de mesye yo. Lèfini, wa a bay lòd pou yo ekri koze a nan gwo liv achiv gouvènman yo.  
+**[2:23]** Yo mennen ankèt, yo jwenn sa Madoche te di a se te vre. Yo pann de mesye yo. Lèfini, wa a bay lòd pou yo ekri koze a nan gwo liv achiv gouvènman yo.
 
 ### Chapter 3
 
@@ -26416,7 +26416,7 @@
 
 **[3:14]** Yo voye yon kopi piblikasyon an nan chak pwovens avèk lòd esprès pou yo te fè tout moun konnen pou yo pare kò yo pou jou sa a.
 
-**[3:15]** Dapre lòd wa a, mesaje yo kouri pote mesaj la nan tout pwovens yo. Yo pibliye nouvèl la tou nan lavil Souz, kapital la. Tout lavil Souz te tèt anba, wa a menm te chita ap bwè ak Aman.  
+**[3:15]** Dapre lòd wa a, mesaje yo kouri pote mesaj la nan tout pwovens yo. Yo pibliye nouvèl la tou nan lavil Souz, kapital la. Tout lavil Souz te tèt anba, wa a menm te chita ap bwè ak Aman.
 
 ### Chapter 4
 
@@ -26452,7 +26452,7 @@
 
 **[4:16]** -Ou mèt ale. Reyini dènye jwif ki nan lavil Souz; fè yo fè jèn pou mwen. N'a pase twa jou twa nwit san manje san bwè. Mwen menm bò pa m' ansanm ak sèvant mwen yo, nou pral fè jèn tou. Apre sa, m' aval kote wa a, atout lalwa defann sa. Si se pou m' mouri, m'a mouri.
 
-**[4:17]** Madoche ale, li fè tou sa Estè te di l' fè a.  
+**[4:17]** Madoche ale, li fè tou sa Estè te di l' fè a.
 
 ### Chapter 5
 
@@ -26482,7 +26482,7 @@
 
 **[5:13]** Men, tou sa pa di m' anyen, toutotan m'a wè jwif yo rele Madoche a chita nan papòt palè wa a.
 
-**[5:14]** Lè sa a, Zerès, madanm li, ak tout zanmi l' yo di l' konsa: -Poukisa ou pa fè yo kanpe yon poto swasannkenz pye wotè nan lakou lakay ou? Denmen maten, w'a mande wa a pou yo pann Madoche nan poto a. Apre sa, wa va ale nan fèt la ak kè kontan. Aman wè se te yon bon lide yo te ba li la a. Li fè kanpe yon poto swasannkenz pye wotè nan lakou lakay li.  
+**[5:14]** Lè sa a, Zerès, madanm li, ak tout zanmi l' yo di l' konsa: -Poukisa ou pa fè yo kanpe yon poto swasannkenz pye wotè nan lakou lakay ou? Denmen maten, w'a mande wa a pou yo pann Madoche nan poto a. Apre sa, wa va ale nan fèt la ak kè kontan. Aman wè se te yon bon lide yo te ba li la a. Li fè kanpe yon poto swasannkenz pye wotè nan lakou lakay li.
 
 ### Chapter 6
 
@@ -26512,7 +26512,7 @@
 
 **[6:13]** Li rakonte madanm li ak tout zanmi l' yo tou sa ki te rive l'. Lèfini, Zerès, madanm li, ak zanmi l' yo ki te gen bon konprann di l' konsa: -Si Madoche se yon jwif vre, koulye a ou p'ap ka fè l' anyen. Ou konmanse pèdi pye devan l'. Ou mèt sèten se li k'ap kraze ou.
 
-**[6:14]** Zanmi l' yo t'ap pale toujou, lè domestik konfyans wa yo rive vin chache Aman pou l' ale touswit nan fèt Estè te pare a.  
+**[6:14]** Zanmi l' yo t'ap pale toujou, lè domestik konfyans wa yo rive vin chache Aman pou l' ale touswit nan fèt Estè te pare a.
 
 ### Chapter 7
 
@@ -26534,7 +26534,7 @@
 
 **[7:9]** Yonn ladan yo ki te rele Abona, di konsa: -Aman te menm gen tan fè kanpe yon poto nan lakou lakay li pou l' te pann Madoche ki te sove lavi wa a. Poto a gen swasannkenz pye wotè. Wa a bay lòd pou yo pann Aman ladan l'.
 
-**[7:10]** Se konsa yo pann Aman nan poto li te pare pou Madoche a. Apre sa, kòlè wa a tonbe.  
+**[7:10]** Se konsa yo pann Aman nan poto li te pare pou Madoche a. Apre sa, kòlè wa a tonbe.
 
 ### Chapter 8
 
@@ -26570,7 +26570,7 @@
 
 **[8:16]** Pou jwif yo menm, se te yon gwo soulajman; yo te kontan, yo t'ap fè fèt, se te yon bèl bagay pou yo.
 
-**[8:17]** Nan tout pwovens yo, nan chak lavil yo, toupatou kote yo te li lèt wa a te voye a, jwif yo pase jou a ap fè fèt, yo te kontan, yo fè resepsyon, yo bay manje. Anpil moun lòt nasyon fè yo jwif lè sa a, paske yo te pè jwif yo anpil.  
+**[8:17]** Nan tout pwovens yo, nan chak lavil yo, toupatou kote yo te li lèt wa a te voye a, jwif yo pase jou a ap fè fèt, yo te kontan, yo fè resepsyon, yo bay manje. Anpil moun lòt nasyon fè yo jwif lè sa a, paske yo te pè jwif yo anpil.
 
 ### Chapter 9
 
@@ -26636,7 +26636,7 @@
 
 **[9:31]** Lèfini, li mande yo pou ni yo ni pitit yo, ni pitit pitit yo, pou yo toujou fete jou chans sa yo lè dat la rive, jan Madoche ak larenn Estè te bay lòd la, menm jan yo te swiv lòd yo te bay pou fè jèn epi pou yo te leve men yo nan syèl pou plenn sò yo.
 
-**[9:32]** Yo pran lèt larenn Estè te ekri pou bay regleman jou chans sa yo plis fòs la, yo ekri l' nan liv la.  
+**[9:32]** Yo pran lèt larenn Estè te ekri pou bay regleman jou chans sa yo plis fòs la, yo ekri l' nan liv la.
 
 ### Chapter 10
 
@@ -26644,7 +26644,7 @@
 
 **[10:2]** Yo ekri tou sa wa a te fè nan gwo liv istwa wa peyi Medi ak peyi Pès yo. Yo di tout bèl bagay li te fè, jan li te yon vanyan gason. Yo bay tout ti detay sou jan li te rive mete Madoche nan gwo plas sa a.
 
-**[10:3]** Madoche, nonm jwif la, te sèl chèf apre wa Asyeris. Tout jwif parèy li yo te respekte l', yo te renmen l' anpil. Li te travay anpil pou byen pèp la, li te vle pou tout moun nan ras jwif la viv ak kè poze.   
+**[10:3]** Madoche, nonm jwif la, te sèl chèf apre wa Asyeris. Tout jwif parèy li yo te respekte l', yo te renmen l' anpil. Li te travay anpil pou byen pèp la, li te vle pou tout moun nan ras jwif la viv ak kè poze.
 
 ## Job
 
@@ -26692,7 +26692,7 @@
 
 **[1:21]** Epi li di: -San anyen m' soti nan vant manman m'. San anyen m'ap tounen anba tè. Seyè a bay! Seyè a pran! Lwanj pou Seyè a!
 
-**[1:22]** Malgre tout malè sa yo ki te rive l', Jòb pa t' fè ankenn peche, ni li pa janm di sa li pa t' dwe di sou Bondye.  
+**[1:22]** Malgre tout malè sa yo ki te rive l', Jòb pa t' fè ankenn peche, ni li pa janm di sa li pa t' dwe di sou Bondye.
 
 ### Chapter 2
 
@@ -26720,7 +26720,7 @@
 
 **[2:12]** Yo te yon bèl ti distans toujou lè yo wè Jòb. Yo pa t' rekonèt li. Lè yo rekonèt li, dlo vin nan je yo, yo konmanse rele, yo kriye. Yo chire rad sou yo, yo voye pousyè tè sou tèt yo tèlman sa te fè yo lapenn.
 
-**[2:13]** Apre sa, yo chita atè a bò kot Jòb pandan sèt jou sèt nwit san di yon mo, paske yo te wè jan l'ap soufri.  
+**[2:13]** Apre sa, yo chita atè a bò kot Jòb pandan sèt jou sèt nwit san di yon mo, paske yo te wè jan l'ap soufri.
 
 ### Chapter 3
 
@@ -26774,7 +26774,7 @@
 
 **[3:25]** Sa m' pè rive m' lan, se li k'ap rive m'. Sa m' pa ta vle wè a, se li ki tonbe sou mwen.
 
-**[3:26]** Kè m' pa poze. Tèt mwen pa la. Mwen pa ka dòmi. Se soti nan ka tonbe nan ka.  
+**[3:26]** Kè m' pa poze. Tèt mwen pa la. Mwen pa ka dòmi. Se soti nan ka tonbe nan ka.
 
 ### Chapter 4
 
@@ -26818,7 +26818,7 @@
 
 **[4:20]** Yon sèl jou kont pou yo tounen pousyè, yo disparèt nèt. Pesonn pa wè sa.
 
-**[4:21]** Yo rete konsa yo kase kòd. Yo mouri san yo pa janm rive fin gen bon konprann.  
+**[4:21]** Yo rete konsa yo kase kòd. Yo mouri san yo pa janm rive fin gen bon konprann.
 
 ### Chapter 5
 
@@ -26874,7 +26874,7 @@
 
 **[5:26]** Menm jan se lè mayi fin mi yo kase l', konsa tou se lè ou fin vye granmoun, w'a mouri.
 
-**[5:27]** Jòb monchè, nou te kalkile sou bagay sa yo anpil. Se konsa sa ye, tande. Pa fè tèt di. Asepte verite a.  
+**[5:27]** Jòb monchè, nou te kalkile sou bagay sa yo anpil. Se konsa sa ye, tande. Pa fè tèt di. Asepte verite a.
 
 ### Chapter 6
 
@@ -26936,7 +26936,7 @@
 
 **[6:29]** Tounen non! Pa fè m' lenjistis sa a! Tounen, mwen di ou. Se kòz mwen m'ap defann.
 
-**[6:30]** Eske se manti m'ap bay? Dapre nou, mwen pa konnen sa ki byen ak sa ki mal?  
+**[6:30]** Eske se manti m'ap bay? Dapre nou, mwen pa konnen sa ki byen ak sa ki mal?
 
 ### Chapter 7
 
@@ -26980,7 +26980,7 @@
 
 **[7:20]** Si m' fè peche, kisa m' fè ou? Di m' non, ou menm k'ap veye tou sa moun ap fè? Poukisa w'ap plante tout flèch ou yo nan kò m' konsa? Poukisa ou fè m' tounen yon chay pou ou?
 
-**[7:21]** Se sipòte ou pa ka sipòte ankò sa mwen fè ki mal? Se padonnen ou pa ka padonnen peche m' yo? Talè konsa mwen pral anba tè. W'a chache m', ou p'ap jwenn mwen ankò.  
+**[7:21]** Se sipòte ou pa ka sipòte ankò sa mwen fè ki mal? Se padonnen ou pa ka padonnen peche m' yo? Talè konsa mwen pral anba tè. W'a chache m', ou p'ap jwenn mwen ankò.
 
 ### Chapter 8
 
@@ -27026,7 +27026,7 @@
 
 **[8:21]** L'a fè kè ou kontan ankò, bouch ou pral chante bèl chante pou li.
 
-**[8:22]** Men, l'ap fè moun ki pa vle wè ou yo wont. Fanmi mechan yo va disparèt.  
+**[8:22]** Men, l'ap fè moun ki pa vle wè ou yo wont. Fanmi mechan yo va disparèt.
 
 ### Chapter 9
 
@@ -27098,7 +27098,7 @@
 
 **[9:34]** Pa gen moun ki ka kenbe men l' pou li sispann fè m' pè.
 
-**[9:35]** Men, mwen pa pè l'. M'ap pale, paske se mwen ki konnen sa ki nan kè m'.  
+**[9:35]** Men, mwen pa pè l'. M'ap pale, paske se mwen ki konnen sa ki nan kè m'.
 
 ### Chapter 10
 
@@ -27144,7 +27144,7 @@
 
 **[10:21]** Talè konsa mwen prale pou m' pa janm tounen. Mwen prale nan peyi kote ki fè nwa a, kote moun pè a,
 
-**[10:22]** nan peyi kote se fènwa ak dezòd ase ki gen toutan, kote menm gwo lajounen fè nwa tankou lannwit!  
+**[10:22]** nan peyi kote se fènwa ak dezòd ase ki gen toutan, kote menm gwo lajounen fè nwa tankou lannwit!
 
 ### Chapter 11
 
@@ -27186,7 +27186,7 @@
 
 **[11:19]** Lè w'ap dòmi, pesonn p'ap deranje ou. Anpil moun va vin achte figi ou.
 
-**[11:20]** Men, mechan yo ap voye je yo bouske toupatou, yo p'ap jwenn kote pou yo chape kò yo. Sèl espwa yo, se lanmò y'ap tann.  
+**[11:20]** Men, mechan yo ap voye je yo bouske toupatou, yo p'ap jwenn kote pou yo chape kò yo. Sèl espwa yo, se lanmò y'ap tann.
 
 ### Chapter 12
 
@@ -27238,7 +27238,7 @@
 
 **[12:24]** Li fè chèf pèp yo pèdi tèt yo, li fè yo moute desann nan dezè, san yo pa konn kote yo prale.
 
-**[12:25]** Y'ap tatonnen nan fènwa, y'ap titibe tankou moun sou.  
+**[12:25]** Y'ap tatonnen nan fènwa, y'ap titibe tankou moun sou.
 
 ### Chapter 13
 
@@ -27296,7 +27296,7 @@
 
 **[13:27]** Ou mete pye m' nan sèp. Ou veye tout vire tounen m'. Ou gade tout kote m'ap mete pye m'.
 
-**[13:28]** M'ap dekale tankou bwa pouri, tankou rad sizo ap manje.  
+**[13:28]** M'ap dekale tankou bwa pouri, tankou rad sizo ap manje.
 
 ### Chapter 14
 
@@ -27342,7 +27342,7 @@
 
 **[14:21]** Moun fè lwanj pitit mò yo, men mò yo menm yo pa konn anyen. Moun pase yo nan betiz, men yo menm, sa pa di yo anyen.
 
-**[14:22]** Yon sèl soufrans yo santi se sa k'ap manje yo nan tout kò yo a. Se pou tèt pa yo ase y'ap plenyen!  
+**[14:22]** Yon sèl soufrans yo santi se sa k'ap manje yo nan tout kò yo a. Se pou tèt pa yo ase y'ap plenyen!
 
 ### Chapter 15
 
@@ -27414,7 +27414,7 @@
 
 **[15:34]** Wi, mechan yo p'ap gen pitit. Dife ap boule tout kay yo bati ak lajan yo volè.
 
-**[15:35]** Lè yon moun ap chache fè moun mal, se sou li malè a tonbe. Se pwòp tèt li l'ap twonpe.  
+**[15:35]** Lè yon moun ap chache fè moun mal, se sou li malè a tonbe. Se pwòp tèt li l'ap twonpe.
 
 ### Chapter 16
 
@@ -27460,7 +27460,7 @@
 
 **[16:21]** Mwen bezwen moun pou plede kòz mwen ak Bondye a, menm jan yon moun plede kòz zanmi l'.
 
-**[16:22]** M' pa lontan mouri. Mwen pral pran chemen kote moun pa janm tounen an.  
+**[16:22]** M' pa lontan mouri. Mwen pral pran chemen kote moun pa janm tounen an.
 
 ### Chapter 17
 
@@ -27494,7 +27494,7 @@
 
 **[17:15]** Kote ki gen espwa pou mwen ankò? Ki moun ki wè yon bon lavi pou mwen ankò?
 
-**[17:16]** Lè m'a mouri, lè m'a fin desann nan peyi kote mò yo ye a, èske m'a ka pote espwa m' yo ansanm avè m'?  
+**[17:16]** Lè m'a mouri, lè m'a fin desann nan peyi kote mò yo ye a, èske m'a ka pote espwa m' yo ansanm avè m'?
 
 ### Chapter 18
 
@@ -27538,7 +27538,7 @@
 
 **[18:20]** Depi solèy leve jouk solèy kouche, tout moun pral sezi wè jan li fini.
 
-**[18:21]** Wi, men sa k'ap tann lakou moun k'ap fè mechanste yo, fanmi moun ki pa respekte Bondye yo.  
+**[18:21]** Wi, men sa k'ap tann lakou moun k'ap fè mechanste yo, fanmi moun ki pa respekte Bondye yo.
 
 ### Chapter 19
 
@@ -27598,7 +27598,7 @@
 
 **[19:28]** paske n'ap mande ki jan pou n' fè m' pase mizè ankò? Ki rezon n'ap jwenn nan mwen pou nou atake m'?
 
-**[19:29]** Men, atansyon pou se pa sou nou nepe a tonbe, lè Bondye va soti pou pini moun ki antò yo. Lè sa a, n'a konnen gen yon moun k'ap jije tout bon.  
+**[19:29]** Men, atansyon pou se pa sou nou nepe a tonbe, lè Bondye va soti pou pini moun ki antò yo. Lè sa a, n'a konnen gen yon moun k'ap jije tout bon.
 
 ### Chapter 20
 
@@ -27658,7 +27658,7 @@
 
 **[20:28]** Yon sèl dlo desann va pote kay li ale, jou Bondye va fè kolè sa a sou li.
 
-**[20:29]** Wi, se sa Bondye sere pou mechan yo. Se sa mechan yo pral resevwa nan men Bondye.  
+**[20:29]** Wi, se sa Bondye sere pou mechan yo. Se sa mechan yo pral resevwa nan men Bondye.
 
 ### Chapter 21
 
@@ -27728,7 +27728,7 @@
 
 **[21:33]** Foul moun ap swiv sèkèy yo, yon pati moun devan, yon pati moun dèyè. Menm tè a chita dous sou kadav yo.
 
-**[21:34]** Lèfini, n'ap chache konsole m' ak yon bann pawòl san sans. Tou sa n'ap reponn mwen la a se manti.  
+**[21:34]** Lèfini, n'ap chache konsole m' ak yon bann pawòl san sans. Tou sa n'ap reponn mwen la a se manti.
 
 ### Chapter 22
 
@@ -27790,7 +27790,7 @@
 
 **[22:29]** Bondye kraze lògèy moun awogan. Men, li sove moun ki bese tèt devan li.
 
-**[22:30]** L'ap delivre ou si ou inonsan. L'a sove ou, si ou pa janm sal men ou nan anyen.  
+**[22:30]** L'ap delivre ou si ou inonsan. L'a sove ou, si ou pa janm sal men ou nan anyen.
 
 ### Chapter 23
 
@@ -27826,7 +27826,7 @@
 
 **[23:16]** Men wi, se Bondye k'ap kraze kouraj mwen. Se Bondye menm mwen soti pè. Se pa fènwa a.
 
-**[23:17]** Fènwa a kache Bondye pou m' pa wè l'. L' enpoze m' santi prezans li. Se tout!  
+**[23:17]** Fènwa a kache Bondye pou m' pa wè l'. L' enpoze m' santi prezans li. Se tout!
 
 ### Chapter 24
 
@@ -27878,7 +27878,7 @@
 
 **[24:24]** Zafè mechan yo mache byen pou yon tan. Men, apre sa, yo fennen tankou zèb savann, tankou tèt ble yo koupe.
 
-**[24:25]** Si se pa konsa sa ye, ki moun ki ka demanti sa m' di la a? Ki moun ki ka fè wè pawòl mwen yo pa vo anyen?  
+**[24:25]** Si se pa konsa sa ye, ki moun ki ka demanti sa m' di la a? Ki moun ki ka fè wè pawòl mwen yo pa vo anyen?
 
 ### Chapter 25
 
@@ -27892,7 +27892,7 @@
 
 **[25:5]** Nan je Bondye, menm lalin lan pa klere ase. Pa gen yonn nan zetwal yo ki bon nèt pou li.
 
-**[25:6]** Ale wè pou moun, yon vètè, yon ti krebete! Kisa yo vo nan je Bondye?  
+**[25:6]** Ale wè pou moun, yon vètè, yon ti krebete! Kisa yo vo nan je Bondye?
 
 ### Chapter 26
 
@@ -27922,7 +27922,7 @@
 
 **[26:13]** Avèk souf li, li fè syèl la vin klè. Avèk men li, li touye gwo koulèv ki t'ap kouri chape a.
 
-**[26:14]** Sa se yon ti kal nan tou sa li fè. Se sa ase ki resi rive nan zòrèy nou! Men, ki moun ki ka konnen tou sa Bondye fè?  
+**[26:14]** Sa se yon ti kal nan tou sa li fè. Se sa ase ki resi rive nan zòrèy nou! Men, ki moun ki ka konnen tou sa Bondye fè?
 
 ### Chapter 27
 
@@ -27970,7 +27970,7 @@
 
 **[27:22]** Van an ap vante sou li san pitye. Li menm l'ap fè sa li kapab pou l' chape anba l'.
 
-**[27:23]** Moun kontan wè jan li fini. Kote l' pase, y'ap rele chalbari dèyè l'.  
+**[27:23]** Moun kontan wè jan li fini. Kote l' pase, y'ap rele chalbari dèyè l'.
 
 ### Chapter 28
 
@@ -28028,7 +28028,7 @@
 
 **[28:27]** se lè sa a li te wè bon konprann, li wè sa li vo. Li egzaminen l' byen egzaminen, li sonde l' byen sonde.
 
-**[28:28]** Apre sa, Bondye di moun konsa: -Gen krentif pou Bondye, se sa ki rele bon konprann. Vire do bay sa ki mal, men sa ki rele gen lespri.  
+**[28:28]** Apre sa, Bondye di moun konsa: -Gen krentif pou Bondye, se sa ki rele bon konprann. Vire do bay sa ki mal, men sa ki rele gen lespri.
 
 ### Chapter 29
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** Lè yo dekouraje, mwen fè yon ti ri ak yo. Sa te kont pou remoute kouraj yo.
 
-**[29:25]** Mwen te kanpe alatèt yo. Mwen mennen yo tankou yon wa k'ap mennen sòlda li yo. Mwen di yo sa pou yo fè. Mwen te ba yo kouraj lè yo nan lafliksyon.  
+**[29:25]** Mwen te kanpe alatèt yo. Mwen mennen yo tankou yon wa k'ap mennen sòlda li yo. Mwen di yo sa pou yo fè. Mwen te ba yo kouraj lè yo nan lafliksyon.
 
 ### Chapter 30
 
@@ -28144,7 +28144,7 @@
 
 **[30:30]** Po m' vin tou nwa, l'ap dekale. Lafyèb ap manje m' nan zo.
 
-**[30:31]** Lontan se mizik gita ak fif ase ki te nan zòrèy mwen. Men, koulye a, se plenn, se kriye ase m'ap tande.  
+**[30:31]** Lontan se mizik gita ak fif ase ki te nan zòrèy mwen. Men, koulye a, se plenn, se kriye ase m'ap tande.
 
 ### Chapter 31
 
@@ -28226,7 +28226,7 @@
 
 **[31:39]** si mwen te manje rekòt jaden an san peye travayè yo kifè koulye a y'ap pote plent pou mwen,
 
-**[31:40]** enben, se pikan ak chadwon ki pou leve nan jaden m' kote ble ak lòj te konn pouse. Se konsa Jòb te fin pale.  
+**[31:40]** enben, se pikan ak chadwon ki pou leve nan jaden m' kote ble ak lòj te konn pouse. Se konsa Jòb te fin pale.
 
 ### Chapter 32
 
@@ -28272,7 +28272,7 @@
 
 **[32:21]** Mwen p'ap pran defans pyès moun. Mwen pa pral achte figi nou yonn la a.
 
-**[32:22]** Mwen pa konn flate moun. Lèfini, si m' ta fè sa, Bondye ki kreye m' lan ta disparèt mwen lapoula.  
+**[32:22]** Mwen pa konn flate moun. Lèfini, si m' ta fè sa, Bondye ki kreye m' lan ta disparèt mwen lapoula.
 
 ### Chapter 33
 
@@ -28340,7 +28340,7 @@
 
 **[33:32]** Men, si ou gen kichòy ou vle di, pale; m'ap koute ou. Paske mwen ta vle ba ou rezon.
 
-**[33:33]** Osinon, pe bouch ou, koute m' pito! Kite m' moutre ou sa ki rele gen bon konprann.  
+**[33:33]** Osinon, pe bouch ou, koute m' pito! Kite m' moutre ou sa ki rele gen bon konprann.
 
 ### Chapter 34
 
@@ -28416,7 +28416,7 @@
 
 **[34:36]** Egzaminen byen tou sa Jòb di la a. N'a wè li pale tankou yon moun ki mechan nan kè l'.
 
-**[34:37]** Li fin fè kont peche l', koulye a l'ap kenbe tèt ak Bondye. L'ap seye fè nou konprann li pa antò. L'ap plede fè Bondye remontrans.  
+**[34:37]** Li fin fè kont peche l', koulye a l'ap kenbe tèt ak Bondye. L'ap seye fè nou konprann li pa antò. L'ap plede fè Bondye remontrans.
 
 ### Chapter 35
 
@@ -28450,7 +28450,7 @@
 
 **[35:15]** Ou di ankò: Bondye pa nan pini. Mwen te mèt peche, sa pa di l' anyen.
 
-**[35:16]** Jòb monchè, w'ap louvri bouch ou pou ou pa di anyen. W'ap fè tout pale anpil sa a paske ou pa konn sa w'ap di.  
+**[35:16]** Jòb monchè, w'ap louvri bouch ou pou ou pa di anyen. W'ap fè tout pale anpil sa a paske ou pa konn sa w'ap di.
 
 ### Chapter 36
 
@@ -28518,7 +28518,7 @@
 
 **[36:32]** Li kenbe zèklè yo nan pla men li. Li bay lòd pou loraj tonbe kote li menm li vize a.
 
-**[36:33]** Loraj la anonse move tan. Ata bèt yo santi move tan an ap vini.  
+**[36:33]** Loraj la anonse move tan. Ata bèt yo santi move tan an ap vini.
 
 ### Chapter 37
 
@@ -28568,7 +28568,7 @@
 
 **[37:23]** Nou pa ka pwoche bò kote Bondye ki gen tout pouvwa a. Li sèl gwo chèf, li sèl jij, li pa nan patipri. Li p'ap kondannen yon moun ki inonsan.
 
-**[37:24]** Se poutèt sa, tout moun fèt pou gen krentif pou li. Li p'ap okipe moun ki pretann yo gen bon konprann.  
+**[37:24]** Se poutèt sa, tout moun fèt pou gen krentif pou li. Li p'ap okipe moun ki pretann yo gen bon konprann.
 
 ### Chapter 38
 
@@ -28652,7 +28652,7 @@
 
 **[38:40]** kote yo kache nan twou yo a, osinon kote yo kouche ap tann nan nich yo a?
 
-**[38:41]** Ki moun ki pare manje pou kònèy yo, lè grangou fè yo soti nan nich yo, lè pitit yo ap rele nan pye m' pou m' ba yo manje?  
+**[38:41]** Ki moun ki pare manje pou kònèy yo, lè grangou fè yo soti nan nich yo, lè pitit yo ap rele nan pye m' pou m' ba yo manje?
 
 ### Chapter 39
 
@@ -28714,7 +28714,7 @@
 
 **[39:29]** Se la li rete, l'ap veye bèt pou l' trape manje. Li te mèt byen lwen, l'ap wè yo ak je li.
 
-**[39:30]** Se san bèt ti malfini yo bwè. Kote ki gen kadav, se la yo ye.  
+**[39:30]** Se san bèt ti malfini yo bwè. Kote ki gen kadav, se la yo ye.
 
 ### Chapter 40
 
@@ -28764,7 +28764,7 @@
 
 **[40:23]** Larivyè ap desann, sa pa di l' anyen. Larivyè Jouden gonfle rive wotè bouch li, li kè pòpòz.
 
-**[40:24]** Ki moun ki ka pete je l' pou mete men sou li? Ki moun ki ka pèse bwa nen l' ak yon fwenn bwa.  
+**[40:24]** Ki moun ki ka pete je l' pou mete men sou li? Ki moun ki ka pèse bwa nen l' ak yon fwenn bwa.
 
 ### Chapter 41
 
@@ -28834,7 +28834,7 @@
 
 **[41:33]** Pa gen bèt tankou l' sou latè. Bondye kreye l' pou l' pa janm pè anyen.
 
-**[41:34]** Li gade bèt ki pi fewòs yo nan je. Se li ki wa tout bèt sovaj yo.  
+**[41:34]** Li gade bèt ki pi fewòs yo nan je. Se li ki wa tout bèt sovaj yo.
 
 ### Chapter 42
 
@@ -28870,7 +28870,7 @@
 
 **[42:16]** Apre sa, Jòb viv jouk li rive gen sankarantan sou tèt li. Li wè pitit pitit li yo ak pitit pitit pitit li yo, jouk rive sou kat jenerasyon.
 
-**[42:17]** Lè li mouri, li te fin vye granmoun, li te viv kont li.   
+**[42:17]** Lè li mouri, li te fin vye granmoun, li te viv kont li.
 
 ## Psalms
 
@@ -28886,7 +28886,7 @@
 
 **[1:5]** Se poutèt sa, jou jijman an, mechan yo p'ap ka leve tèt yo devan Bondye, moun ki fè mal yo p'ap chita ansanm ak moun ki fè byen yo.
 
-**[1:6]** Paske, Seyè a konnen jan moun ki fè byen yo ap viv. Men, jan mechan yo ap viv la, yo gen pou yo fini mal.  
+**[1:6]** Paske, Seyè a konnen jan moun ki fè byen yo ap viv. Men, jan mechan yo ap viv la, yo gen pou yo fini mal.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Sèvi Seyè a avèk krentif, tranble nan tout kò nou,
 
-**[2:12]** bese tèt devan li. Si se pa sa, n'a fè l' fache, n'a mouri, paske kòlè l' moute fasil. Ala bon sa bon pou moun k'ap chache pwoteksyon anba zèl li!  
+**[2:12]** bese tèt devan li. Si se pa sa, n'a fè l' fache, n'a mouri, paske kòlè l' moute fasil. Ala bon sa bon pou moun k'ap chache pwoteksyon anba zèl li!
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** Mwen pa pè tout kantite moun sa yo ki sènen m' toupatou.
 
-**[3:8]** Leve non, Seyè! Sove m' non, Bondye mwen! Ou bay tout lènmi m' yo yon souflèt. Ou kase dan mechan yo. Se ou menm sèl, Seyè, ki ka sove nou. Beni tout pèp ou a.  
+**[3:8]** Leve non, Seyè! Sove m' non, Bondye mwen! Ou bay tout lènmi m' yo yon souflèt. Ou kase dan mechan yo. Se ou menm sèl, Seyè, ki ka sove nou. Beni tout pèp ou a.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** Gen anpil moun k'ap di: -Jan nou ta renmen Bondye beni nou! Tanpri, Seyè, fè nou santi ou la avèk nou!
 
-**[4:8]** Kontantman ou mete nan kè m' pi gwo pase kontantman ki nan kè lèzòm lè yo gen anpil manje ak anpil bwason. Mwen moute kabann mwen ak kè poze. Kou m' kouche, dòmi pran m'. Seyè, se ou menm sèl ki p'ap janm kite anyen rive m'.  
+**[4:8]** Kontantman ou mete nan kè m' pi gwo pase kontantman ki nan kè lèzòm lè yo gen anpil manje ak anpil bwason. Mwen moute kabann mwen ak kè poze. Kou m' kouche, dòmi pran m'. Seyè, se ou menm sèl ki p'ap janm kite anyen rive m'.
 
 ### Chapter 5
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** Se mechan yo ye. Kondannen yo, Bondye. Gate tout plan yo te fè. Pou valè peche yo fè, wete yo devan jè ou. paske se kenbe y'ap kenbe tèt ak ou.
 
-**[5:12]** Men, tout moun ki mete konfyans yo nan ou, fè kè yo kontan. Se pou yo chante san rete tèlman yo kontan. W'ap pwoteje moun ki renmen ou. Ou fè yo chante pou ou tèlman yo kontan. Paske ou menm Seyè, ou beni moun ki obeyi ou. Ou kouvri yo avèk favè ou, w'ap kanpe bò kote yo pou pran defans yo.  
+**[5:12]** Men, tout moun ki mete konfyans yo nan ou, fè kè yo kontan. Se pou yo chante san rete tèlman yo kontan. W'ap pwoteje moun ki renmen ou. Ou fè yo chante pou ou tèlman yo kontan. Paske ou menm Seyè, ou beni moun ki obeyi ou. Ou kouvri yo avèk favè ou, w'ap kanpe bò kote yo pou pran defans yo.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** Wete kò nou sou mwen, nou tout k'ap fè sa ki mal, paske Seyè a tande lè m'ap kriye.
 
-**[6:10]** Li tande m' lè m'ap rele nan pye li. Li reponn mwen lè m'ap lapriyè li. Tout lènmi m' yo pral wont, y'ap pè. Se vre wi. Y'ap kouri fè bak. Y'ap rete konsa lawont ap pran yo.  
+**[6:10]** Li tande m' lè m'ap rele nan pye li. Li reponn mwen lè m'ap lapriyè li. Tout lènmi m' yo pral wont, y'ap pè. Se vre wi. Y'ap kouri fè bak. Y'ap rete konsa lawont ap pran yo.
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** Li fouye yon gwo twou byen fon nan tè a. Lèfini, se li menm ki tonbe ladan li.
 
-**[7:17]** Se konsa, malè li te pare pou lòt moun, se sou li li tonbe. Se pwòp mechanste l' ki tounen kont li! Mwen menm, m'ap di Seyè a mèsi pou jistis li. M'ap fè lwanj Seyè a ki anwo nan syèl la.  
+**[7:17]** Se konsa, malè li te pare pou lòt moun, se sou li li tonbe. Se pwòp mechanste l' ki tounen kont li! Mwen menm, m'ap di Seyè a mèsi pou jistis li. M'ap fè lwanj Seyè a ki anwo nan syèl la.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** Bèf kou kabrit, ansanm ak tout bèt nan bwa yo,
 
-**[8:9]** zwazo nan syèl, pwason nan dlo, ansanm ak tout lòt bèt k'ap viv nan lanmè. Seyè, Mèt nou, se toupatou sou latè yo rekonèt jan ou gen pouvwa!  
+**[8:9]** zwazo nan syèl, pwason nan dlo, ansanm ak tout lòt bèt k'ap viv nan lanmè. Seyè, Mèt nou, se toupatou sou latè yo rekonèt jan ou gen pouvwa!
 
 ### Chapter 9
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** Se pa tout tan yo ka bliye moun ki nan mizè. Se pa tout tan yo ka wete espwa moun ki nan lafliksyon.
 
-**[9:20]** Leve non, Seyè! Pa kite lèzòm genyen batay la! Mennen moun lòt nasyon yo vin jije devan ou. Fè kè yo kase, Seyè! Fè yo konnen se moun ase yo ye.  
+**[9:20]** Leve non, Seyè! Pa kite lèzòm genyen batay la! Mennen moun lòt nasyon yo vin jije devan ou. Fè kè yo kase, Seyè! Fè yo konnen se moun ase yo ye.
 
 ### Chapter 10
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** Seyè, w'a koute moun ki soumèt devan ou lè y'ap lapriyè. W'a ba yo kouraj.
 
-**[10:18]** W'a tande rèl moun y'ap peze yo, rèl timoun ki san papa yo. W'a fè yo jistis. Konsa, lèzòm ki fèt ak pousyè tè p'ap kapab fè moun pè ankò.  
+**[10:18]** W'a tande rèl moun y'ap peze yo, rèl timoun ki san papa yo. W'a fè yo jistis. Konsa, lèzòm ki fèt ak pousyè tè p'ap kapab fè moun pè ankò.
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** Li voye chabon dife ak souf cho sou mechan yo tankou lapli. Li soufle yon van cho kou dife sou yo. Se sa yo tout yo merite.
 
-**[11:7]** Seyè a pa nan patipri, li renmen lè moun fè bagay ki byen. Moun ki mache dwat yo va parèt devan li.  
+**[11:7]** Seyè a pa nan patipri, li renmen lè moun fè bagay ki byen. Moun ki mache dwat yo va parèt devan li.
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Pawòl Seyè a se bon pawòl. Li tankou lajan yo pase sèt fwa nan dife pou wè si li bon.
 
-**[12:8]** Ou menm, Seyè, w'a toujou defann nou! Pa kite moun sa yo fè nou anyen! Mechan yo ap pwonmennen sou moun toupatou: se tout moun k'ap fè lwanj move bagay y'ap fè yo.  
+**[12:8]** Ou menm, Seyè, w'a toujou defann nou! Pa kite moun sa yo fè nou anyen! Mechan yo ap pwonmennen sou moun toupatou: se tout moun k'ap fè lwanj move bagay y'ap fè yo.
 
 ### Chapter 13
 
@@ -29180,7 +29180,7 @@
 
 **[13:5]** Konsa, moun k'ap pèsekite m' yo p'ap ka di: Nou fini avè l'! Yo p'ap gen chans wè m' tonbe pou yo kontan!
 
-**[13:6]** Pou mwen menm, se sou ou mwen konte, paske ou renmen m' anpil. Kè m' kontan, paske ou delivre mwen. M'ap chante pou Seyè a, paske li te bon pou mwen.  
+**[13:6]** Pou mwen menm, se sou ou mwen konte, paske ou renmen m' anpil. Kè m' kontan, paske ou delivre mwen. M'ap chante pou Seyè a, paske li te bon pou mwen.
 
 ### Chapter 14
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** Y'ap pase sa malere yo gen lide fè a nan betiz, men se nan Seyè a malere yo mete konfyans yo.
 
-**[14:7]** Oo! Kilè Bondye va soti sou mòn Siyon an pou l' vin delivre pèp Izrayèl la? Lè Seyè a va fè pèp li a kanpe ankò, pitit pitit Jakòb yo pral fè fèt. Se vre wi, pèp Izrayèl la pral kontan.  
+**[14:7]** Oo! Kilè Bondye va soti sou mòn Siyon an pou l' vin delivre pèp Izrayèl la? Lè Seyè a va fè pèp li a kanpe ankò, pitit pitit Jakòb yo pral fè fèt. Se vre wi, pèp Izrayèl la pral kontan.
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** Li meprize tout moun Bondye vire do bay, men, li respekte tout moun ki gen krentif pou Seyè a. Li toujou kenbe pawòl li, menm si sa koute l' chè.
 
-**[15:5]** Li prete moun san mande enterè. Li p'ap pran lajan anba pou l' bay manti sou moun ki inonsan. Moun ki fè bagay sa yo p'ap janm tonbe!  
+**[15:5]** Li prete moun san mande enterè. Li p'ap pran lajan anba pou l' bay manti sou moun ki inonsan. Moun ki fè bagay sa yo p'ap janm tonbe!
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** Paske ou p'ap kite m' kote mò yo ye a, ou p'ap penmèt moun k'ap sèvi ou la pouri anba tè.
 
-**[16:11]** W'a fè m' konnen chemen ki bay lavi a. Paske ou la avè m', mwen pa manke kontan. Bò kote ou, Seyè, se yon plèzi ki p'ap janm fini.  
+**[16:11]** W'a fè m' konnen chemen ki bay lavi a. Paske ou la avè m', mwen pa manke kontan. Bò kote ou, Seyè, se yon plèzi ki p'ap janm fini.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** Sove m' anba moun alekile yo avèk fòs ponyèt ou. Tout byen yo se byen latè. Ou pran nan richès ou yo, ou ba yo tou sa yo bezwen. Pitit yo pa manke anyen. Yo kite rès pou pitit pitit yo.
 
-**[17:15]** Men pou mwen menm, m'ap parèt devan ou, paske mwen inonsan. Lè m'a leve, m'ap kontan nèt ale, paske w'ap toujou la avèk mwen.  
+**[17:15]** Men pou mwen menm, m'ap parèt devan ou, paske mwen inonsan. Lè m'a leve, m'ap kontan nèt ale, paske w'ap toujou la avèk mwen.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** Li sove m' anba lènmi m' yo. Li wete m' anba men moun ki t'ap konbat mwen yo. Ou delivre m' anba ansasen yo.
 
-**[18:50]** Se poutèt sa, Seyè, m'a fè moun lòt nasyon yo konnen ki moun ou ye. M'a chante pou fè lwanj ou. Bondye delivre wa li a anpil fwa. Li moutre jan li pa janm sispann renmen David, moun li te chwazi a, ansanm ak pitit pitit li yo pou tout tan.  
+**[18:50]** Se poutèt sa, Seyè, m'a fè moun lòt nasyon yo konnen ki moun ou ye. M'a chante pou fè lwanj ou. Bondye delivre wa li a anpil fwa. Li moutre jan li pa janm sispann renmen David, moun li te chwazi a, ansanm ak pitit pitit li yo pou tout tan.
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** Ki moun ki konnen tou sa li fè ki mal? Tanpri, Seyè, delivre m' anba sa mwen fè ki mal san m' pa konnen!
 
-**[19:14]** Mwen menm k'ap sèvi ou la, pwoteje m' tou anba peche mwen fè ak tout konesans mwen. Pa kite yo pran pye sou mwen. Se lè sa a m'a san repwòch. Se lè sa a m'a delivre anba gwo peche a. Seyè, se ou ki twou wòch kote m' kache a, se ou ki delivrans mwen, mwen mande ou pou pawòl ki soti nan bouch mwen, ak lide k'ap travay nan tèt mwen fè ou plezi.  
+**[19:14]** Mwen menm k'ap sèvi ou la, pwoteje m' tou anba peche mwen fè ak tout konesans mwen. Pa kite yo pran pye sou mwen. Se lè sa a m'a san repwòch. Se lè sa a m'a delivre anba gwo peche a. Seyè, se ou ki twou wòch kote m' kache a, se ou ki delivrans mwen, mwen mande ou pou pawòl ki soti nan bouch mwen, ak lide k'ap travay nan tèt mwen fè ou plezi.
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** Gen moun ki mete konfyans yo nan machin pou fè lagè. Gen lòt moun, se nan chwal yo yo mete konfyans yo. Men nou menm, se nan pouvwa Seyè a, Bondye nou an, nou mete konfyans nou.
 
-**[20:9]** Yo menm, yo gen pou yo bite, pou yo tonbe. Men nou menm, nou kanpe, n'ap kenbe fèm. Seyè, fè wa a genyen batay la non! Reponn nou non, lè n'ap rele ou!  
+**[20:9]** Yo menm, yo gen pou yo bite, pou yo tonbe. Men nou menm, nou kanpe, n'ap kenbe fèm. Seyè, fè wa a genyen batay la non! Reponn nou non, lè n'ap rele ou!
 
 ### Chapter 21
 
@@ -29444,7 +29444,7 @@
 
 **[21:12]** Y'ap fè move plan, y'ap fè konplo sou wa a, men sa p'ap mache pou yo.
 
-**[21:13]** L'ap tire flèch li sou yo, l'ap fè yo kouri ale. Seyè, leve non. Fè yo wè fòs ou! N'a chante, n'a fè lwanj pou jan ou gen pouvwa!  
+**[21:13]** L'ap tire flèch li sou yo, l'ap fè yo kouri ale. Seyè, leve non. Fè yo wè fòs ou! N'a chante, n'a fè lwanj pou jan ou gen pouvwa!
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Tout grannèg sou latè va bese tèt devan li. Yo tout ki la pou mouri, yo tout ki la pou al anba tè, yo pral adore li.
 
-**[22:31]** Jenerasyon k'ap vini yo va sèvi li. Moun va rakonte istwa Seyè a bay pitit yo. Pitit yo menm, lè y'a fè pitit, y'a fè konnen jan Seyè a te delivre yo ansanm ak tou sa li te fè pou yo.  
+**[22:31]** Jenerasyon k'ap vini yo va sèvi li. Moun va rakonte istwa Seyè a bay pitit yo. Pitit yo menm, lè y'a fè pitit, y'a fè konnen jan Seyè a te delivre yo ansanm ak tou sa li te fè pou yo.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Ou pare yon tab pou mwen devan je tout lènmi m' yo. Ou resevwa m', ou fè kè m' kontan ou ban m' tou sa m' bezwen.
 
-**[23:6]** Wi, mwen konnen w'ap toujou renmen m', w'ap toujou bon pou mwen pandan tout lavi m'. Se lakay ou m'ap rete tout tan tout tan.  
+**[23:6]** Wi, mwen konnen w'ap toujou renmen m', w'ap toujou bon pou mwen pandan tout lavi m'. Se lakay ou m'ap rete tout tan tout tan.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** Wete lento pòt yo! Louvri batan pòt yo gran louvri pou wa ki gen pouvwa a ka antre!
 
-**[24:10]** Kilès ki wa ki gen pouvwa sa a? Se Seyè ki chèf lame zanj yo, se li menm ki wa ki gen pouvwa a.  
+**[24:10]** Kilès ki wa ki gen pouvwa sa a? Se Seyè ki chèf lame zanj yo, se li menm ki wa ki gen pouvwa a.
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Fè m' viv yon jan ki san repwòch. Fè m' mache dwat pou ou ka pwoteje m', paske tout espwa mwen se nan ou li ye.
 
-**[25:22]** O Bondye, delivre pèp Izrayèl la anba tray l'ap pase yo.  
+**[25:22]** O Bondye, delivre pèp Izrayèl la anba tray l'ap pase yo.
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** Pou mwen menm, m'ap mennen yon lavi ki san repwòch. Delivre m', gen pitye pou mwen.
 
-**[26:12]** M'ap mache byen fèm nan chemen ki pa gen move pa a. M'a fè lwanj Seyè a nan mitan pèp la lè l' reyini.  
+**[26:12]** M'ap mache byen fèm nan chemen ki pa gen move pa a. M'a fè lwanj Seyè a nan mitan pèp la lè l' reyini.
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** Mwen menm, mwen sèten m'a viv pou m' wè jan Bondye sèvi byen ak pèp li a.
 
-**[27:14]** Mete espwa ou nan Seyè a! Gen konfyans, pa dekouraje! Wi, mete espwa ou nan Seyè a!  
+**[27:14]** Mete espwa ou nan Seyè a! Gen konfyans, pa dekouraje! Wi, mete espwa ou nan Seyè a!
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** Se Seyè a ki tout fòs pèp li a. L'ap defann wa li chwazi a, l'ap delivre l'.
 
-**[28:9]** Seyè, sove pèp ou a non! Beni tout moun pa ou yo! Aji ak yo tankou yon bon gadò. Pran swen yo tout tan tout tan.  
+**[28:9]** Seyè, sove pèp ou a non! Beni tout moun pa ou yo! Aji ak yo tankou yon bon gadò. Pran swen yo tout tan tout tan.
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** Seyè a te chita sou fotèy li lè te gen gwo inondasyon an. L'ap gouvènen tankou wa pou tout tan.
 
-**[29:11]** Seyè a va bay pèp li a fòs, l'a beni yo, l'a ba yo kè poze.  
+**[29:11]** Seyè a va bay pèp li a fòs, l'a beni yo, l'a ba yo kè poze.
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** Koute m' non, Seyè! Gen pitye pou mwen! Seyè, pote m' sekou!
 
-**[30:12]** Ou siye dlo nan je m', ou fè kè m' kontan anpil. Ou wete rad dèy ki te sou mwen an, ou ban m' yon bèl rad mete sou mwen pou m' fè fèt. Mwen p'ap rete ak bouch mwen fèmen, m'ap chante lwanj ou. Seyè, se ou menm ki Bondye mwen! Se tout tan tout tan m'ap di ou mèsi.  
+**[30:12]** Ou siye dlo nan je m', ou fè kè m' kontan anpil. Ou wete rad dèy ki te sou mwen an, ou ban m' yon bèl rad mete sou mwen pou m' fè fèt. Mwen p'ap rete ak bouch mwen fèmen, m'ap chante lwanj ou. Seyè, se ou menm ki Bondye mwen! Se tout tan tout tan m'ap di ou mèsi.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Mwen te pè, mwen t'ap di nan kè m': -Gen lè ou voye m' jete byen lwen ou. Men, ou te tande rèl mwen, lè m' t'ap mande ou sekou.
 
-**[31:24]** Nou tout k'ap sèvi Seyè a, se pou nou renmen l'. Wi, Seyè a pwoteje tout moun ki kenbe fèm nan li. Men, se pa ti pini l'ap pini moun k'ap vante tèt yo. Nou tout ki met espwa nou nan Seyè a, pran kouraj, kenbe fèm.  
+**[31:24]** Nou tout k'ap sèvi Seyè a, se pou nou renmen l'. Wi, Seyè a pwoteje tout moun ki kenbe fèm nan li. Men, se pa ti pini l'ap pini moun k'ap vante tèt yo. Nou tout ki met espwa nou nan Seyè a, pran kouraj, kenbe fèm.
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Mechan yo gen pou yo soufri anpil. Men, Seyè a ap toujou pwoteje moun ki met konfyans yo nan li paske li renmen yo.
 
-**[32:11]** Nou tout k'ap viv jan Bondye vle l' la, fè kè nou kontan, chante pou sa Seyè a fè pou nou. Nou tout k'ap mache dwat devan Bondye, rele, fè wè jan nou kontan.  
+**[32:11]** Nou tout k'ap viv jan Bondye vle l' la, fè kè nou kontan, chante pou sa Seyè a fè pou nou. Nou tout k'ap mache dwat devan Bondye, rele, fè wè jan nou kontan.
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** Se li ki fè kè nou kontan. Nou mete konfyans nou nan li ki yon Bondye apa.
 
-**[33:22]** Tanpri, Seyè, toujou fè nou favè, menm jan nou menm nou mete tout espwa nou nan ou.  
+**[33:22]** Tanpri, Seyè, toujou fè nou favè, menm jan nou menm nou mete tout espwa nou nan ou.
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** L'ap pwoteje l' nèt ale. Pa yon ti zo nan kò l' p'ap kraze.
 
-**[34:22]** Malè gen pou fini ak mechan yo. Moun ki pa vle wè moun k'ap mache dwat yo gen pou yo tonbe anba chatiman. Seyè a ap delivre moun k'ap sèvi l' yo, li p'ap kondannen okenn moun ki chache pwoteksyon bò kote l'.  
+**[34:22]** Malè gen pou fini ak mechan yo. Moun ki pa vle wè moun k'ap mache dwat yo gen pou yo tonbe anba chatiman. Seyè a ap delivre moun k'ap sèvi l' yo, li p'ap kondannen okenn moun ki chache pwoteksyon bò kote l'.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** Se pou moun ki kontan wè jan m' inonsan an pran rele byen fò san rete. Se pou yo di: -Seyè a gen gwo pouvwa! Li vle pou sèvitè li viv ak kè poze.
 
-**[35:28]** Lè sa a, m'a fè konnen jistis ou, m'a fè lwanj ou tout lajounen.  
+**[35:28]** Lè sa a, m'a fè konnen jistis ou, m'a fè lwanj ou tout lajounen.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Toujou renmen moun ki konnen ou! Toujou fè byen pou moun ki san repwòch devan ou!
 
-**[36:12]** Pa kite awogan yo mete pye sou kou m'. Pa kite mechan yo fè m' kouri. Gade jan moun k'ap fè mal yo tonbe non! Yo rete atè a, yo pa ka kanpe sou pye yo ankò!  
+**[36:12]** Pa kite awogan yo mete pye sou kou m'. Pa kite mechan yo fè m' kouri. Gade jan moun k'ap fè mal yo tonbe non! Yo rete atè a, yo pa ka kanpe sou pye yo ankò!
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** Se Seyè a k'ap sove moun ki mache dwat yo. L'ap sèvi yo defans lè yo nan tray.
 
-**[37:40]** L'ap pote yo sekou, l'ap delivre yo. L'ap wete yo anba men mechan yo, paske se anba zèl li y' al chache pwoteksyon.  
+**[37:40]** L'ap pote yo sekou, l'ap delivre yo. L'ap wete yo anba men mechan yo, paske se anba zèl li y' al chache pwoteksyon.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** Moun sa yo rann mwen mal pou byen, yo leve kont mwen, paske m'ap chache fè byen.
 
-**[38:22]** Pa lage m' Seyè! Bondye mwen, pa rale kò ou dèyè! Prese vin pote m' sekou, Seyè, ou menm ki delivrans mwen.  
+**[38:22]** Pa lage m' Seyè! Bondye mwen, pa rale kò ou dèyè! Prese vin pote m' sekou, Seyè, ou menm ki delivrans mwen.
 
 ### Chapter 39
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** Lè w'ap korije moun ou pini yo pou fòt yo fè, ou detwi tou sa yo pi renmen tankou mit k'ap manje rad. Se vre wi, moun se tankou lafimen yo ye.
 
-**[39:13]** Tanpri, Seyè, koute m' lè m'ap lapriyè. Tande jan m'ap rele, pa fèmen kè ou lè m'ap kriye nan pye ou. Mwen tankou tout zansèt mwen yo, se etranje mwen ye, se pase m'ap pase lakay ou. Tanpri, wete je ou sou mwen, pou m' ka pran yon ti souf, anvan m' ale, anvan m' mouri.  
+**[39:13]** Tanpri, Seyè, koute m' lè m'ap lapriyè. Tande jan m'ap rele, pa fèmen kè ou lè m'ap kriye nan pye ou. Mwen tankou tout zansèt mwen yo, se etranje mwen ye, se pase m'ap pase lakay ou. Tanpri, wete je ou sou mwen, pou m' ka pran yon ti souf, anvan m' ale, anvan m' mouri.
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** Moun k'ap lonje dwèt sou mwen yo, se pou sezisman pran yo tèlman yo wont.
 
-**[40:17]** Men, tout moun ki vin jwenn ou, se pou yo kontan, se pou yo fè fèt. Tout moun ki renmen jan ou delivre yo a, se tout tan pou yo di: -Seyè a gen gwo pouvwa! Pou mwen menm, se yon pòv malere san sekou mwen ye. Men ou menm ki mèt mwen, pa bliye m'. Se ou ki tout sekou mwen, se ou ki tout delivrans mwen. Bondye mwen, pa mize!  
+**[40:17]** Men, tout moun ki vin jwenn ou, se pou yo kontan, se pou yo fè fèt. Tout moun ki renmen jan ou delivre yo a, se tout tan pou yo di: -Seyè a gen gwo pouvwa! Pou mwen menm, se yon pòv malere san sekou mwen ye. Men ou menm ki mèt mwen, pa bliye m'. Se ou ki tout sekou mwen, se ou ki tout delivrans mwen. Bondye mwen, pa mize!
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** M'a konnen ou kontan avè m' vre si m' wè lènmi m' yo pa banboche sou do m'.
 
-**[41:13]** Wi, w'ap soutni m', paske mwen pa fè anyen ki mal. W'ap fè m' kanpe la devan ou pou tout tan. Ann fè lwanj Seyè a, Bondye pèp Izrayèl la. Ann fè lwanj li pou tout tan. Amèn! Se vre!  
+**[41:13]** Wi, w'ap soutni m', paske mwen pa fè anyen ki mal. W'ap fè m' kanpe la devan ou pou tout tan. Ann fè lwanj Seyè a, Bondye pèp Izrayèl la. Ann fè lwanj li pou tout tan. Amèn! Se vre!
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** Mwen di Bondye ki twou wòch kote pou m' kache a: -Poukisa ou bliye m' konsa? Poukisa pou m'ap viv ak tout lapenn sa a nan kè m', lè lènmi m' yo ap kraze m' anba pye yo?
 
-**[42:11]** Mwen santi tout zo nan kò m' ap fè m' mal. lè moun k'ap pèsekite m' yo ap joure m', lè tout tan y'ap mande m': -Kote Bondye ou la? Wi, poukisa mwen kagou konsa? Poukisa m'ap plenn konsa nan kè mwen? M'ap mete espwa m' nan Bondye, paske mwen gen pou m' fè lwanj li ankò. Se li k'ap delivre m', se li ki Bondye mwen.  
+**[42:11]** Mwen santi tout zo nan kò m' ap fè m' mal. lè moun k'ap pèsekite m' yo ap joure m', lè tout tan y'ap mande m': -Kote Bondye ou la? Wi, poukisa mwen kagou konsa? Poukisa m'ap plenn konsa nan kè mwen? M'ap mete espwa m' nan Bondye, paske mwen gen pou m' fè lwanj li ankò. Se li k'ap delivre m', se li ki Bondye mwen.
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** Lè sa a, m'a tounen vin bò lotèl Bondye a, Bondye ki fè kè m' kontan an, Bondye k'ap fè m' fè fèt la. M'a jwe enstriman mizik pou Bondye, pou Bondye pa m' lan.
 
-**[43:5]** Wi, men poukisa m' kagou konsa? Poukisa m'ap plenn konsa nan kè m'? M'ap mete espwa mwen nan Bondye, paske mwen gen pou m' fè lwanj li ankò. Se li k'ap delivre m', se li ki Bondye mwen.  
+**[43:5]** Wi, men poukisa m' kagou konsa? Poukisa m'ap plenn konsa nan kè m'? M'ap mete espwa mwen nan Bondye, paske mwen gen pou m' fè lwanj li ankò. Se li k'ap delivre m', se li ki Bondye mwen.
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** Poukisa ou vire do ban nou konsa? Poukisa ou bliye anba ki tray nou ye, jan y'ap peze nou?
 
-**[44:26]** Nou tonbe san fòs nan pousyè a. Nou kouche sou vant atè plat. Leve non. vin pote nou sekou! Jan ou renmen nou sa, vin delivre nou non!  
+**[44:26]** Nou tonbe san fòs nan pousyè a. Nou kouche sou vant atè plat. Leve non. vin pote nou sekou! Jan ou renmen nou sa, vin delivre nou non!
 
 ### Chapter 45
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** Y'ap vini, yo kontan, y'ap chante, y'ap antre nan palè wa a.
 
-**[45:17]** Monwa, pitit ou yo va chita kote zansèt ou yo te chita a. W'ap mete yo chèf sou tout latè. Mwen vle chante pou yo pa janm bliye ou, konsa moun lòt peyi yo va fè lwanj ou tout tan tout tan.  
+**[45:17]** Monwa, pitit ou yo va chita kote zansèt ou yo te chita a. W'ap mete yo chèf sou tout latè. Mwen vle chante pou yo pa janm bliye ou, konsa moun lòt peyi yo va fè lwanj ou tout tan tout tan.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** Se li menm ki fè yo sispann fè lagè toupatou sou latè. Li kase banza yo, li kase frenn yo de bout, li boule tout cha yo nèt.
 
-**[46:11]** Li di: -Rete la! Sispann goumen! Konnen se mwen menm ki Bondye. Se mwen k'ap dominen sou tout nasyon yo. Se mwen k'ap dominen sou tout latè. Seyè ki gen tout pouvwa a la avèk nou. Se bò kote Bondye Jakòb la nou jwenn kote pou n' kache!  
+**[46:11]** Li di: -Rete la! Sispann goumen! Konnen se mwen menm ki Bondye. Se mwen k'ap dominen sou tout nasyon yo. Se mwen k'ap dominen sou tout latè. Seyè ki gen tout pouvwa a la avèk nou. Se bò kote Bondye Jakòb la nou jwenn kote pou n' kache!
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** Paske, se Bondye ki wa sou tout latè. Chante yon chante espesyal pou li!
 
-**[47:9]** Bondye dominen sou tout nasyon yo. Bondye chita sou fotèy ki apa pou li a. Chèf lòt peyi yo mete tèt yo ansanm ak pèp Bondye Abraram lan, paske se Bondye ki gen tout zam pou defann pèp yo. L'ap dominen sou tout bagay.  
+**[47:9]** Bondye dominen sou tout nasyon yo. Bondye chita sou fotèy ki apa pou li a. Chèf lòt peyi yo mete tèt yo ansanm ak pèp Bondye Abraram lan, paske se Bondye ki gen tout zam pou defann pèp yo. L'ap dominen sou tout bagay.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Mache, fè tout tou lavil la. Konte konbe fò li genyen.
 
-**[48:14]** Egzaminen miray lavil la byen egzaminen. Vizite tout pòs faksyonnè yo, pou nou kapab fè pitit pitit nou yo konnen se Bondye sa a ki Bondye nou pou tout tan tout tan. Se li menm k'ap kondi nou jouk sa kaba.  
+**[48:14]** Egzaminen miray lavil la byen egzaminen. Vizite tout pòs faksyonnè yo, pou nou kapab fè pitit pitit nou yo konnen se Bondye sa a ki Bondye nou pou tout tan tout tan. Se li menm k'ap kondi nou jouk sa kaba.
 
 ### Chapter 49
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** Li te mèt kontan jan l' t'ap viv la, yo te mèt ap fè lwanj li pou jan afè l' ap mache byen,
 
-**[49:20]** yon lè, li gen pou l' mouri tankou zansèt li yo ki p'ap janm wè limyè ankò. Yon moun te mèt grannèg kou l' grannèg, si li pa gen konprann, li tankou zannimo y'ap mennen labatwa.  
+**[49:20]** yon lè, li gen pou l' mouri tankou zansèt li yo ki p'ap janm wè limyè ankò. Yon moun te mèt grannèg kou l' grannèg, si li pa gen konprann, li tankou zannimo y'ap mennen labatwa.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Koute sa byen, nou menm ki bliye si gen Bondye. Si se pa sa, m'ap dechire nou. Lè sa a, p'ap gen moun ki ka delivre nou.
 
-**[50:23]** Lè yon moun chonje di m' mèsi pou tout bagay, se lè sa a li fè lwanj mwen. M'ap delivre tout moun k'ap veye kote y'ap mete pye yo.  
+**[50:23]** Lè yon moun chonje di m' mèsi pou tout bagay, se lè sa a li fè lwanj mwen. M'ap delivre tout moun k'ap veye kote y'ap mete pye yo.
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** Si se bèt ou ta vle yo touye pou ofri ou, mwen ta ofri bèt ba ou. Men, ou pa pran plezi nan vyann bèt y'ap boule ofri ba ou yo.
 
-**[51:19]** Ofrann ki fè Bondye plezi, se lè yon moun soumèt tèt li devan li. Bondye, ou p'ap janm meprize moun ki soumèt tèt li devan ou, moun ki rekonèt tò li. O Bondye, fe anpil byen pou mòn Siyon, paske ou gen bon kè. Rebati miray lavil Jerizalèm yo. Se lè sa a w'a pran plezi nan ofrann bèt ou mande pou yo touye pou ou yo, nan vyann bèt ak lòt ofrann y'ap boule nèt pou ou yo. Se lè sa a y'a ofri jenn towo bèf sou lotèl ou a.  
+**[51:19]** Ofrann ki fè Bondye plezi, se lè yon moun soumèt tèt li devan li. Bondye, ou p'ap janm meprize moun ki soumèt tèt li devan ou, moun ki rekonèt tò li. O Bondye, fe anpil byen pou mòn Siyon, paske ou gen bon kè. Rebati miray lavil Jerizalèm yo. Se lè sa a w'a pran plezi nan ofrann bèt ou mande pou yo touye pou ou yo, nan vyann bèt ak lòt ofrann y'ap boule nèt pou ou yo. Se lè sa a y'a ofri jenn towo bèf sou lotèl ou a.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** Moun k'ap mache dwat yo va wè sa, y'a gen krentif pou Bondye. Men y'a pase ou nan betiz, y'a di:
 
-**[52:9]** Men moun ki te derefize chache pwoteksyon bò kot Bondye a. Li te pito mete tout konfyans li nan gwo richès li yo. Li te pito ap fè grandizè pou sa li fè ki mal. Men, mwen tankou yon bèl pye oliv tou vèt nan kay Bondye a. M'ap toujou mete tout konfyans mwen nan li, paske li p'ap janm sispann renmen mwen. M'ap toujou di ou mèsi pou sa ou fè, Bondye. Tout espwa mwen se nan ou li ye. M'ap kanpe nan mitan moun k'ap sevi ou yo pou m' fè konnen jan ou bon.  
+**[52:9]** Men moun ki te derefize chache pwoteksyon bò kot Bondye a. Li te pito mete tout konfyans li nan gwo richès li yo. Li te pito ap fè grandizè pou sa li fè ki mal. Men, mwen tankou yon bèl pye oliv tou vèt nan kay Bondye a. M'ap toujou mete tout konfyans mwen nan li, paske li p'ap janm sispann renmen mwen. M'ap toujou di ou mèsi pou sa ou fè, Bondye. Tout espwa mwen se nan ou li ye. M'ap kanpe nan mitan moun k'ap sevi ou yo pou m' fè konnen jan ou bon.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** Bondye di: -Moun sa yo k'ap fè mechanste, se konnen yo pa konnen? Yo rete, y'ap souse pèp mwen an pou yo ka viv. Pa gen yonn ladan yo ki rele non mwen.
 
-**[53:6]** Men tou, yo pral sezi, yo pral tranble, san pa gen rezon pou yo tranble. Men Bondye pral gaye zo tout lènmi ou yo, w'ap fè yo wont, paske Bondye lage yo. Oo! Kilè Bondye va soti sou mòn Siyon an pou l' delivre pèp Izrayèl li a? Lè Bondye va fè pèp li a kanpe ankò, pitit pitit Jakòb yo pral fè fèt. Se vre wi, pèp Izrayèl la pral kontan.  
+**[53:6]** Men tou, yo pral sezi, yo pral tranble, san pa gen rezon pou yo tranble. Men Bondye pral gaye zo tout lènmi ou yo, w'ap fè yo wont, paske Bondye lage yo. Oo! Kilè Bondye va soti sou mòn Siyon an pou l' delivre pèp Izrayèl li a? Lè Bondye va fè pèp li a kanpe ankò, pitit pitit Jakòb yo pral fè fèt. Se vre wi, pèp Izrayèl la pral kontan.
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** Men, Bondye ap vin ede m'. Seyè a ap pran defans mwen.
 
-**[54:7]** L'ap fè mechanste moun ki pa vle wè m' yo tonbe sou tèt yo; l'ap fini nèt ak yo paske l'ap toujou kenbe pawòl li. Seyè, m'a ofri bèt pou yo touye pou ou ak kè kontan, m'a fè lwanj ou, paske ou bon pou mwen. Ou delivre m' anba tray mwen te ye a; ou fè m' wè lènmi m' yo pèdi batay la.  
+**[54:7]** L'ap fè mechanste moun ki pa vle wè m' yo tonbe sou tèt yo; l'ap fini nèt ak yo paske l'ap toujou kenbe pawòl li. Seyè, m'a ofri bèt pou yo touye pou ou ak kè kontan, m'a fè lwanj ou, paske ou bon pou mwen. Ou delivre m' anba tray mwen te ye a; ou fè m' wè lènmi m' yo pèdi batay la.
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Pawòl nan bouch yo pi dous pase siwo. Men, nan fon kè yo se yon sèl bagay yo konnen: se goumen. Pawòl yo koule dous tankou lwil, men lang yo se razwa.
 
-**[55:23]** Renmèt sò ou nan men Seyè a, l'a kenbe ou fèm. Li p'ap janm kite moun ki mache dwat devan li yo rete atè lè yo tonbe. Men ou menm, Bondye, w'ap fè bann ansasen sa yo ak bann vòlè sa yo desann anba tè. Yo p'ap wè mwatye nan lavi yo. Men, mwen menm, se nan ou m'ap mete tout konfyans mwen.  
+**[55:23]** Renmèt sò ou nan men Seyè a, l'a kenbe ou fèm. Li p'ap janm kite moun ki mache dwat devan li yo rete atè lè yo tonbe. Men ou menm, Bondye, w'ap fè bann ansasen sa yo ak bann vòlè sa yo desann anba tè. Yo p'ap wè mwatye nan lavi yo. Men, mwen menm, se nan ou m'ap mete tout konfyans mwen.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Mwen gen konfyans nan Bondye, mwen pa pè anyen. Kisa lèzòm ka fè mwen?
 
-**[56:13]** O Bondye, m'ap ofri ou sa mwen te pwomèt ou yo, m'ap ofri bèt pou yo touye pou ou pou m' di ou mèsi. Paske ou pa kite m' mouri, ou pa kite m' bite, pou m' kapab mache devan ou nan mitan bèl limyè k'ap klere moun k'ap viv pou ou yo.  
+**[56:13]** O Bondye, m'ap ofri ou sa mwen te pwomèt ou yo, m'ap ofri bèt pou yo touye pou ou pou m' di ou mèsi. Paske ou pa kite m' mouri, ou pa kite m' bite, pou m' kapab mache devan ou nan mitan bèl limyè k'ap klere moun k'ap viv pou ou yo.
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** Seyè, m'a fè lwanj ou nan mitan pèp yo! M'a chante pou ou nan mitan tout nasyon yo!
 
-**[57:11]** Ou renmen nou anpil anpil, ou toujou kenbe pawòl ou. Bondye, fè wè nan syèl la jan ou gen pouvwa non! Fè wè pouvwa ou sou tout latè!  
+**[57:11]** Ou renmen nou anpil anpil, ou toujou kenbe pawòl ou. Bondye, fè wè nan syèl la jan ou gen pouvwa non! Fè wè pouvwa ou sou tout latè!
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** Anvan menm yo konnen sa k'ap rive yo, se pou yo boule tankou raje. Bondye ap fè kòlè, l'ap rache yo pandan yo tou vivan.
 
-**[58:11]** Moun ki mache dwat devan Bondye gen pou yo kontan lè yo wè jan yo pini mechan yo. Y'a lave pye yo nan san mechan yo. Lè sa a, moun va di: -Wi, sa vo lapenn pou moun mache dwat devan Bondye. Wi, gen yon Bondye k'ap jije moun sou latè.  
+**[58:11]** Moun ki mache dwat devan Bondye gen pou yo kontan lè yo wè jan yo pini mechan yo. Y'a lave pye yo nan san mechan yo. Lè sa a, moun va di: -Wi, sa vo lapenn pou moun mache dwat devan Bondye. Wi, gen yon Bondye k'ap jije moun sou latè.
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** Y'ap moute desann, y'ap chache manje. Y'ap plenn paske yo pa jwenn ase pou plen vant yo.
 
-**[59:17]** Men mwen menm, m'ap chante pou m' di jan ou gen pouvwa. Chak maten m'a fè lwanj ou pou m' di jan ou pa janm sispann renmen nou. Paske, se ou ki tout defans mwen, se bò kote ou mwen te jwenn pwoteksyon lè m' te anba tray. Wi, m'ap fè lwanj ou, ou menm ki tout defans mwen. Se bò kot Bondye mwen jwenn pwoteksyon, bò kot Bondye ki renmen m' lan.  
+**[59:17]** Men mwen menm, m'ap chante pou m' di jan ou gen pouvwa. Chak maten m'a fè lwanj ou pou m' di jan ou pa janm sispann renmen nou. Paske, se ou ki tout defans mwen, se bò kote ou mwen te jwenn pwoteksyon lè m' te anba tray. Wi, m'ap fè lwanj ou, ou menm ki tout defans mwen. Se bò kot Bondye mwen jwenn pwoteksyon, bò kot Bondye ki renmen m' lan.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Ki moun ki pou mennen m' nan lavil ki byen gade a? Ki moun ki pou mennen m' lavil Edon?
 
-**[60:12]** Eske se pa ou menm, Bondye, ki pou fè sa pou mwen, ou menm ki te vire do ban nou, ou menm ki pa soti ansanm ak lame nou yo ankò? Tanpri, ede nou goumen kont lènmi nou yo, paske sekou lèzòm se pawòl nan bouch. Avèk Bondye bò kote nou, n'a fè bèl bagay nan lagè. Se li menm k'ap kraze lènmi nou yo anba pye l'.  
+**[60:12]** Eske se pa ou menm, Bondye, ki pou fè sa pou mwen, ou menm ki te vire do ban nou, ou menm ki pa soti ansanm ak lame nou yo ankò? Tanpri, ede nou goumen kont lènmi nou yo, paske sekou lèzòm se pawòl nan bouch. Avèk Bondye bò kote nou, n'a fè bèl bagay nan lagè. Se li menm k'ap kraze lènmi nou yo anba pye l'.
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Mete kèk jou sou lavi wa a: Se pou l' viv lontan lontan ankò.
 
-**[61:8]** Se pou l' gouvènen tout tan devan Bondye. Bondye va fè l' wè jan li renmen li, jan li toujou kenbe pawòl li: Bondye va pwoteje l'. Konsa, mwen p'ap janm sispann chante pou ou. Chak jou m'a fè sa m' te pwomèt ou a.  
+**[61:8]** Se pou l' gouvènen tout tan devan Bondye. Bondye va fè l' wè jan li renmen li, jan li toujou kenbe pawòl li: Bondye va pwoteje l'. Konsa, mwen p'ap janm sispann chante pou ou. Chak jou m'a fè sa m' te pwomèt ou a.
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** Pa mete konfyans nou nan fè britalite. Pa mete nan tèt nou nou ka genyen anyen nan vòlò. Lè nou wè n'ap fè lajan, pa kite l' pran nanm nou.
 
-**[62:12]** An de fwa, men sa m' tande Bondye di: -Se nan men m' pouvwa rete. Wi, Seyè, ou gen bon kè, paske w'ap bay chak moun sa yo merite dapre sa yo fè.  
+**[62:12]** An de fwa, men sa m' tande Bondye di: -Se nan men m' pouvwa rete. Wi, Seyè, ou gen bon kè, paske w'ap bay chak moun sa yo merite dapre sa yo fè.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** Men, moun k'ap chache touye m' yo, yo gen pou yo desann kote mò yo ye a.
 
-**[63:11]** Yo gen pou yo mouri nan lagè, chen mawon gen pou manje kadav yo. Men, Bondye ap fè kè wa a kontan. Tout moun ki mete non l' devan va gen kè kontan tou. Men, y'ap fèmen bouch moun k'ap bay manti yo.  
+**[63:11]** Yo gen pou yo mouri nan lagè, chen mawon gen pou manje kadav yo. Men, Bondye ap fè kè wa a kontan. Tout moun ki mete non l' devan va gen kè kontan tou. Men, y'ap fèmen bouch moun k'ap bay manti yo.
 
 ### Chapter 64
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** Se lang yo k'ap bat yo. Tout moun ki wè yo ap pase yo nan betiz.
 
-**[64:10]** Lè sa a, tout moun pral pè, y'a mache fè konnen sa Bondye fè. Y'a egzaminen tou sa li fè. Tout moun ki mache dwat yo ap kontan tou poutèt sa Seyè a fè. Y'a jwenn pwoteksyon anba zèl li. Tout moun ki viv jan Bondye vle l' la va fè lwanj li.  
+**[64:10]** Lè sa a, tout moun pral pè, y'a mache fè konnen sa Bondye fè. Y'a egzaminen tou sa li fè. Tout moun ki mache dwat yo ap kontan tou poutèt sa Seyè a fè. Y'a jwenn pwoteksyon anba zèl li. Tout moun ki viv jan Bondye vle l' la va fè lwanj li.
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** Ala yon bèl rekòt ou ban nou lè lanne a fini! Tout kote ou pase gen abondans an kantite!
 
-**[65:13]** Jaden ki nan dezè a jwenn kont dlo yo. Ti mòn yo kontan. Jaden yo plen zannimo. Jaden mayi kouvri tout fon yo. Fon yo kontan, y'ap chante sitèlman yo kontan.  
+**[65:13]** Jaden ki nan dezè a jwenn kont dlo yo. Ti mòn yo kontan. Jaden yo plen zannimo. Jaden mayi kouvri tout fon yo. Fon yo kontan, y'ap chante sitèlman yo kontan.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** Men Bondye te koute sa m' t'ap di l' la, li te tande m' lè m' t'ap lapriyè.
 
-**[66:20]** Lwanj pou Bondye! Mèsi Bondye! Ou pa t' kite m' lapriyè pou gremesi. Ou pa t' refize fè m' wè jan ou gen bon kè.  
+**[66:20]** Lwanj pou Bondye! Mèsi Bondye! Ou pa t' kite m' lapriyè pou gremesi. Ou pa t' refize fè m' wè jan ou gen bon kè.
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Se pou tout pèp sou latè fè lwanj ou, Bondye. Wi, se pou tout pèp sou latè fè lwanj ou.
 
-**[67:7]** Latè bay rekòt. Bondye ki Bondye nou an te voye benediksyon li sou nou. Wi, Bondye te voye benediksyon li sou nou. Se pou tout moun toupatou sou latè gen krentif pou li.  
+**[67:7]** Latè bay rekòt. Bondye ki Bondye nou an te voye benediksyon li sou nou. Wi, Bondye te voye benediksyon li sou nou. Se pou tout moun toupatou sou latè gen krentif pou li.
 
 ### Chapter 68
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** pou Bondye k'ap kouri chwal li nan syèl la, nan syèl ki la depi lontan lontan an. Tande jan l'ap rele, jan l'ap rele byen fò.
 
-**[68:35]** L'ap di: -Rekonèt jan Bondye gen pouvwa! L'ap dominen sou pèp Izrayèl la. Syèl la fè nou konnen jan li gen pouvwa. Bondye chita kote ki apa pou li a, li fè tout moun respekte l'. Bondye pèp Izrayèl la bay pèp li a fòs ak kouraj. Di Bondye mèsi!  
+**[68:35]** L'ap di: -Rekonèt jan Bondye gen pouvwa! L'ap dominen sou pèp Izrayèl la. Syèl la fè nou konnen jan li gen pouvwa. Bondye chita kote ki apa pou li a, li fè tout moun respekte l'. Bondye pèp Izrayèl la bay pèp li a fòs ak kouraj. Di Bondye mèsi!
 
 ### Chapter 69
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** Se pou syèl la ansanm ak latè a, lanmè a ansanm ak tout sa ki ladan li fè lwanj Bondye.
 
-**[69:36]** L'a delivre peyi Siyon. L'a rebati lavil peyi Jida yo. Pèp li va bati kay yo la ankò. Y'a pran tè a pou yo. Pitit pitit sèvitè l' yo va eritye peyi a. Se la moun ki renmen l' yo va viv.  
+**[69:36]** L'a delivre peyi Siyon. L'a rebati lavil peyi Jida yo. Pèp li va bati kay yo la ankò. Y'a pran tè a pou yo. Pitit pitit sèvitè l' yo va eritye peyi a. Se la moun ki renmen l' yo va viv.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** Moun k'ap lonje dwèt sou mwen yo, se pou sezisman pran yo sitèlman yo wont.
 
-**[70:5]** Men, tout moun ki vin jwenn ou, se pou yo kontan, se pou yo fè fèt. Tout moun ki renmen jan ou delivre yo a, se tout tan pou yo di: Bondye gen gwo pouvwa! Pou mwen menm, se yon pòv malere san sekou mwen ye. Men ou menm, prese vin delivre m'! Se ou ki tout sekou mwen, se ou ki tout delivrans mwen. Prese non, Seyè!  
+**[70:5]** Men, tout moun ki vin jwenn ou, se pou yo kontan, se pou yo fè fèt. Tout moun ki renmen jan ou delivre yo a, se tout tan pou yo di: Bondye gen gwo pouvwa! Pou mwen menm, se yon pòv malere san sekou mwen ye. Men ou menm, prese vin delivre m'! Se ou ki tout sekou mwen, se ou ki tout delivrans mwen. Prese non, Seyè!
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** M'a chante pou ou. M'a rele sitèlman mwen kontan. M'a chante ak tout kè m' paske ou te delivre m'.
 
-**[71:24]** Tout lajounen m'a fè konnen jan ou pa nan patipri, paske moun ki te vle wè malè rive m' yo gen pou yo wont. Yo p'ap konn sa pou yo fè.  
+**[71:24]** Tout lajounen m'a fè konnen jan ou pa nan patipri, paske moun ki te vle wè malè rive m' yo gen pou yo wont. Yo p'ap konn sa pou yo fè.
 
 ### Chapter 72
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** Fè lwanj li pou gwo pouvwa li. Se pou toupatou sou latè yo rekonèt gwo pouvwa li. Wi, se vre! Amèn!
 
-**[72:20]** Avèk sòm sa a, nou fini ak lapriyè David, pitit Izayi a, te fè.  
+**[72:20]** Avèk sòm sa a, nou fini ak lapriyè David, pitit Izayi a, te fè.
 
 ### Chapter 73
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** Se vre wi, moun ki vire do ba ou pral mouri, w'ap fini nèt ak moun ki pa kenbe pawòl yo gen avè ou.
 
-**[73:28]** Mwen menm, sa bon nèt pou m' rete bò kot Bondye: Se nan Seyè a mwen jwenn pwoteksyon. M'a fè konnen tou sa li fè.  
+**[73:28]** Mwen menm, sa bon nèt pou m' rete bò kot Bondye: Se nan Seyè a mwen jwenn pwoteksyon. M'a fè konnen tou sa li fè.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Leve non, Bondye! Defann kòz ou! Pa bliye jan moun fou sa yo ap joure ou tout lajounen!
 
-**[74:23]** Pa bliye jan lènmi ou yo ap rele byen fò! Pa bliye jan moun ki pa vle wè ou yo ap fè eskandal san rete.  
+**[74:23]** Pa bliye jan lènmi ou yo ap rele byen fò! Pa bliye jan moun ki pa vle wè ou yo ap fè eskandal san rete.
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** Seyè a kenbe yon gode nan men l'. Gode a plen divès kalite tranpe ki fèt ak diven. L'ap vide diven bay tout mechan ki sou latè, y'ap bwè, y'ap bwè san yo pa kite yon ti tak.
 
-**[75:10]** Mwen menm, mwen p'ap janm sispann nonmen non Bondye Jakòb la. Mwen p'ap janm sispann chante pou fè lwanj li. L'a kraze fòs kouraj mechan yo. Men, l'ap bay moun ki mache dwat yo plis kouraj ankò!  
+**[75:10]** Mwen menm, mwen p'ap janm sispann nonmen non Bondye Jakòb la. Mwen p'ap janm sispann chante pou fè lwanj li. L'a kraze fòs kouraj mechan yo. Men, l'ap bay moun ki mache dwat yo plis kouraj ankò!
 
 ### Chapter 76
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** Menm lè lèzòm an kòlè, sa sèvi yon lwanj pou ou. Moun ou sove anba lanmò va fè fèt pou ou.
 
-**[76:12]** Fè pwomès ou bay Seyè a ki Bondye, epi kenbe pawòl ou. Nou menm, tout nasyon ki bò kote l' yo, pote kado bay Bondye ki fè moun respekte l' la. Li kraze lògèy chèf yo, li fè wa latè yo respekte l'.  
+**[76:12]** Fè pwomès ou bay Seyè a ki Bondye, epi kenbe pawòl ou. Nou menm, tout nasyon ki bò kote l' yo, pote kado bay Bondye ki fè moun respekte l' la. Li kraze lògèy chèf yo, li fè wa latè yo respekte l'.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Bri loraj la pran woule nan syèl la. Kout zèklè klere toupatou. Tè a soti pè, li pran tranble.
 
-**[77:20]** Ou louvri yon chemen pou ou nan mitan lanmè a. Ou pase nan mitan gwo lanmè fon fon an. Men pesonn pa ka wè mak pye kote ou pase. Ou pran Moyiz ak Arawon, ou fè yo mennen pèp ou a tankou yon bann mouton y'ap mennen.  
+**[77:20]** Ou louvri yon chemen pou ou nan mitan lanmè a. Ou pase nan mitan gwo lanmè fon fon an. Men pesonn pa ka wè mak pye kote ou pase. Ou pran Moyiz ak Arawon, ou fè yo mennen pèp ou a tankou yon bann mouton y'ap mennen.
 
 ### Chapter 78
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** dèyè manman mouton ki gen pitit dèyè yo, li fè l' wa sou pitit Jakòb yo. Li mete l' gadò pèp Izrayèl la.
 
-**[78:72]** David pran swen yo ak tout kè li. Li kondi yo avèk anpil ladrès.  
+**[78:72]** David pran swen yo ak tout kè li. Li kondi yo avèk anpil ladrès.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** Seyè, rann moun lòt nasyon yo sèt fwa laparèy pou tout joure yo joure ou yo.
 
-**[79:13]** Lè sa a nou menm, pèp ou a, mouton ki nan savann ou yo, nou p'ap janm sispann di ou mèsi. Pitit an pitit, n'a fè lwanj ou.  
+**[79:13]** Lè sa a nou menm, pèp ou a, mouton ki nan savann ou yo, nou p'ap janm sispann di ou mèsi. Pitit an pitit, n'a fè lwanj ou.
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** Pwoteje peyi ou te fè tounen yon gwo peyi a! Pwoteje pèp ou te chwazi a!
 
-**[80:19]** Nou p'ap janm vire do ba ou ankò! Ban nou lavi ankò! N'a fè lwanj ou! Bondye ki gen tout pouvwa a, mete nou sou pye nou ankò! Fè nou santi ou la avèk nou, epi n'a delivre!  
+**[80:19]** Nou p'ap janm vire do ba ou ankò! Ban nou lavi ankò! N'a fè lwanj ou! Bondye ki gen tout pouvwa a, mete nou sou pye nou ankò! Fè nou santi ou la avèk nou, epi n'a delivre!
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** Anvan yo ta bat je yo, mwen ta fè lènmi yo wont, mwen ta kraze tout lènmi yo.
 
-**[81:16]** Moun ki rayi Seyè a ta vin flate yo. Pèp Izrayèl la t'ap alèz pou tout tan. Mwen ta ba yo pi bon kalite manje pou yo manje. Mwen ta plen vant yo ak bon siwo myèl ki soti nan twou wòch!  
+**[81:16]** Moun ki rayi Seyè a ta vin flate yo. Pèp Izrayèl la t'ap alèz pou tout tan. Mwen ta ba yo pi bon kalite manje pou yo manje. Mwen ta plen vant yo ak bon siwo myèl ki soti nan twou wòch!
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** Men, nou gen pou nou mouri tankou tout moun, wi, nou gen pou nou mouri tankou nenpòt chèf.
 
-**[82:8]** Leve non, Bondye, vin jije latè! Paske, se pou ou tout nasyon yo ye.  
+**[82:8]** Leve non, Bondye, vin jije latè! Paske, se pou ou tout nasyon yo ye.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Fè yo wont, fè yo blije kache figi yo, Seyè, pou yo ka chache konnen ou.
 
-**[83:18]** Se pou yo wont nèt jouk yo pa konn sa pou yo fè. Se pou yo kouri kache, se pou yo mouri. Fè yo konnen se ou menm sèl ki Seyè, se ou menm ki sèl chèf sou tout latè.  
+**[83:18]** Se pou yo wont nèt jouk yo pa konn sa pou yo fè. Se pou yo kouri kache, se pou yo mouri. Fè yo konnen se ou menm sèl ki Seyè, se ou menm ki sèl chèf sou tout latè.
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** Yon jou pase anndan lakay ou pi bon pase mil jou pase nenpòt lòt kote. Mwen ta pito rete kanpe nan papòt kay Bondye a pase pou m' ta rete anndan kay mechan yo.
 
-**[84:12]** Paske, se Seyè a ki tout defans mwen, se li menm k'ap pwoteje nou. L'ap ban nou favè li, l'ap fè yo respekte nou. Lè yon moun ap mennen yon vi ki san repwòch, Bondye p'ap janm refize l' okenn bon bagay. Bondye ki gen tout pouvwa, ala bon sa bon pou moun ki mete konfyans yo nan ou!  
+**[84:12]** Paske, se Seyè a ki tout defans mwen, se li menm k'ap pwoteje nou. L'ap ban nou favè li, l'ap fè yo respekte nou. Lè yon moun ap mennen yon vi ki san repwòch, Bondye p'ap janm refize l' okenn bon bagay. Bondye ki gen tout pouvwa, ala bon sa bon pou moun ki mete konfyans yo nan ou!
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Sou latè moun p'ap vire do bay Bondye. Bondye menm, bò pa li, va rete nan syèl la, l'a gade anba san patipri.
 
-**[85:13]** Seyè a va fè nou jwenn tout kalite bon bagay. Jaden nou yo va bay bèl rekòt. Moun k'ap mache dwat yo va pran devan. Kote yo pase moun ap viv byen yonn ak lòt.  
+**[85:13]** Seyè a va fè nou jwenn tout kalite bon bagay. Jaden nou yo va bay bèl rekòt. Moun k'ap mache dwat yo va pran devan. Kote yo pase moun ap viv byen yonn ak lòt.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Voye je ou sou mwen. Gen pitye pou mwen! Ban m' fòs ankò, delivre m', paske mwen se pitit manman m' ki te toujou sèvi ou.
 
-**[86:17]** Fè kichòy pou mwen, Seyè! Fè moun ki pa vle wè m' yo wont, lè yo wè se ou menm ki pote m' sekou, se ou menm ki ban m' konsolasyon!  
+**[86:17]** Fè kichòy pou mwen, Seyè! Fè moun ki pa vle wè m' yo wont, lè yo wè se ou menm ki pote m' sekou, se ou menm ki ban m' konsolasyon!
 
 ### Chapter 87
 
@@ -31784,7 +31784,7 @@
 
 **[87:6]** Seyè a fè lis tout pèp yo, li fè yo tout pase pou moun lavil Jerizalèm.
 
-**[87:7]** Moun k'ap chante yo ansanm ak moun k'ap danse yo ap repete byen fò: -Se ou menm ki manman nou tout.  
+**[87:7]** Moun k'ap chante yo ansanm ak moun k'ap danse yo ap repete byen fò: -Se ou menm ki manman nou tout.
 
 ### Chapter 88
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** Nan kòlè ou, ou fè m' pase kont tray mwen. Se fini ou fini avè m' tèlman ou pini m'.
 
-**[88:18]** Tout lajounen ou sènen m' tankou dlo inondasyon, ou fèmen m' toupatou. Ou te fè tout kanmarad mwen yo ak zanmi m' yo vire do ban mwen. Moun mwen te konn rakonte ti koze m' yo disparèt.  
+**[88:18]** Tout lajounen ou sènen m' tankou dlo inondasyon, ou fèmen m' toupatou. Ou te fè tout kanmarad mwen yo ak zanmi m' yo vire do ban mwen. Moun mwen te konn rakonte ti koze m' yo disparèt.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** Seyè, pa bliye jan y'ap pase sèvitè ou yo nan betiz! Pa bliye jan moun lòt nasyon yo ap joure mwen!
 
-**[89:52]** Seyè, pa bliye jan lènmi ou yo ap joure, jan y'ap joure wa ou te chwazi a kote l' pase. Ann toujou fè lwanj Seyè a! Wi, se vre! Amèn!  
+**[89:52]** Seyè, pa bliye jan lènmi ou yo ap joure, jan y'ap joure wa ou te chwazi a kote l' pase. Ann toujou fè lwanj Seyè a! Wi, se vre! Amèn!
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Fè moun k'ap sèvi ou yo wè sa ou ka fè. Fè pitit pitit yo wè jan ou gen pouvwa.
 
-**[90:17]** Seyè, Bondye nou, pa sispann ban nou favè ou. Fè nou reyisi nan tou sa n'ap fè. Wi, fè nou reyisi nan tou sa n'ap fè.  
+**[90:17]** Seyè, Bondye nou, pa sispann ban nou favè ou. Fè nou reyisi nan tou sa n'ap fè. Wi, fè nou reyisi nan tou sa n'ap fè.
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** Lè l' rele m', m'ap reponn li. Lè l' nan tray, m'ap la avèk li. M'ap delivre l', m'ap fè yo respekte l'.
 
-**[91:16]** M'ap fè l' viv lontan, m'a fè l' wè jan m'ap delivre l'.  
+**[91:16]** M'ap fè l' viv lontan, m'a fè l' wè jan m'ap delivre l'.
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** Yo tankou pyebwa yo plante nan kay Seyè a, y'ap pouse bèl branch nan tanp Bondye nou an.
 
-**[92:15]** Yo te mèt granmoun, y'ap donnen, y'ap toujou vèt, y'ap toujou gen fòs. Sa fè nou wè jan Seyè a pa gen patipri. Se li ki tout pwoteksyon mwen. Pa gen lenjistis nan kè li.  
+**[92:15]** Yo te mèt granmoun, y'ap donnen, y'ap toujou vèt, y'ap toujou gen fòs. Sa fè nou wè jan Seyè a pa gen patipri. Se li ki tout pwoteksyon mwen. Pa gen lenjistis nan kè li.
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** Men, Seyè a se sèl chèf nan syèl la. Li gen plis pouvwa pase lanmè a ki fin debòde, li pi fò pase lanm lanmè yo k'ap fè bri.
 
-**[93:5]** Seyè, kòmandman ou yo la pou tout tan. Kay ou se yon kay ki apa pou ou pou tout tan tout tan.  
+**[93:5]** Seyè, kòmandman ou yo la pou tout tan. Kay ou se yon kay ki apa pou ou pou tout tan tout tan.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** Men, Seyè a se tout defans mwen. Bondye mwen, se twou wòch kote m' jwenn pwoteksyon.
 
-**[94:23]** L'ap fè mechanste yo a tonbe sou pwòp tèt yo, l'ap fè peche yo a touye yo. Seyè a, Bondye nou an, ap disparèt yo.  
+**[94:23]** L'ap fè mechanste yo a tonbe sou pwòp tèt yo, l'ap fè peche yo a touye yo. Seyè a, Bondye nou an, ap disparèt yo.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** Pandan karantan, ras moun sa yo ban m' degoutans. Mwen te di: Y'ap fè move lide nan tèt yo. Yo derefize obeyi kòmandman mwen yo.
 
-**[95:11]** Se sak fè, lè m' te ankòlè a, mwen sèmante yo p'ap janm mete pye yo kote pou yo pran repo ansanm ak mwen an.  
+**[95:11]** Se sak fè, lè m' te ankòlè a, mwen sèmante yo p'ap janm mete pye yo kote pou yo pran repo ansanm ak mwen an.
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Se pou jaden yo ak tou sa ki ladan yo fè fèt. Se pou tout pyebwa nan gwo rak yo rele sitèlman yo kontan,
 
-**[96:13]** lè Seyè a parèt. Paske, l'ap vini. L'ap vini pou l' jije tout moun ki sou latè. L'ap jije tout moun san patipri. L'ap jije tout pèp yo jan sa dwe fèt.  
+**[96:13]** lè Seyè a parèt. Paske, l'ap vini. L'ap vini pou l' jije tout moun ki sou latè. L'ap jije tout moun san patipri. L'ap jije tout pèp yo jan sa dwe fèt.
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Limyè Bondye klere moun ki mache dwat devan li. Moun ki fe sa ki byen, l'ap fè kè yo kontan.
 
-**[97:12]** Nou tout ki mache dwat devan Bondye, fè kè nou kontan pou sa Seyè a fè pou nou. Di l' mèsi! Li pa tankou tout moun.  
+**[97:12]** Nou tout ki mache dwat devan Bondye, fè kè nou kontan pou sa Seyè a fè pou nou. Di l' mèsi! Li pa tankou tout moun.
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Se pou larivyè yo pran bat men yo. Se pou tout ti mòn yo pran chante ansanm sitèlman yo kontan.
 
-**[98:9]** Paske, l'ap vini pou l' jije tout moun ki sou latè! L'ap jije tout moun san patipri. L'ap jije tout pèp yo dapre sa yo merite.  
+**[98:9]** Paske, l'ap vini pou l' jije tout moun ki sou latè! L'ap jije tout moun san patipri. L'ap jije tout pèp yo dapre sa yo merite.
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** Seyè, Bondye nou, ou te reponn yo lè yo te lapriyè ou! Ou te moutre yo se yon Bondye ki konn padonnen ou ye. Men, ou te pini yo pou sa yo fè ki mal.
 
-**[99:9]** Lwanj pou Seyè a, Bondye nou an! Adore l' sou mòn ki apa pou li a! Paske, Seyè a, Bondye nou an, se Bondye tout bon li ye.  
+**[99:9]** Lwanj pou Seyè a, Bondye nou an! Adore l' sou mòn ki apa pou li a! Paske, Seyè a, Bondye nou an, se Bondye tout bon li ye.
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Antre nan tanp li, di l' mèsi! Antre kote ki apa pou li a, chante pou li! Wi, fè lwanj li, di l' mèsi!
 
-**[100:5]** Seyè a gen bon kè, li p'ap janm sispann renmen nou. De pitit an pitit, l'ap toujou kenbe pawòl li.  
+**[100:5]** Seyè a gen bon kè, li p'ap janm sispann renmen nou. De pitit an pitit, l'ap toujou kenbe pawòl li.
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** Mwen p'ap kite moun k'ap twonpe moun rete lakay mwen. Moun k'ap bay manti p'ap rete kanpe devan mwen.
 
-**[101:8]** Chak maten m'ap fini avèk tout mechan ki nan peyi a. Konsa, m'ap mete tout moun k'ap fè sa ki mal yo deyò nan lavil Seyè a.  
+**[101:8]** Chak maten m'ap fini avèk tout mechan ki nan peyi a. Konsa, m'ap mete tout moun k'ap fè sa ki mal yo deyò nan lavil Seyè a.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** Yo gen pou yo disparèt, men ou menm w'ap toujou la. Yo gen pou yo vin vye tankou rad. W'ap chanje yo tankou yo chanje rad, w'a mete yo sou kote.
 
-**[102:28]** Men ou menm, ou p'ap janm chanje, ou p'ap janm mouri. Pitit sèvitè ou yo va rete nan peyi a san danje. Pitit pitit yo va toujou viv devan je ou.  
+**[102:28]** Men ou menm, ou p'ap janm chanje, ou p'ap janm mouri. Pitit sèvitè ou yo va rete nan peyi a san danje. Pitit pitit yo va toujou viv devan je ou.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Nou tout ki fè pati lame ki nan syèl la, nou tout k'ap sèvi l', k'ap fè volonte li, di Seyè a mèsi!
 
-**[103:22]** Nou tout kreyati Bondye, nou tout ki toupatou kote l'ap gouvènen, di Seyè a mèsi! Wi, kite m' di Seyè a mèsi!  
+**[103:22]** Nou tout kreyati Bondye, nou tout ki toupatou kote l'ap gouvènen, di Seyè a mèsi! Wi, kite m' di Seyè a mèsi!
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** Mwen ta swete pawòl mwen fè l' plezi, paske se li ki fè kè m' kontan.
 
-**[104:35]** Se pou moun k'ap fè sa ki mal yo disparèt sou latè. Se pou pa gen mechan ankò! Kite m' di Seyè a mèsi! Lwanj pou Seyè a!  
+**[104:35]** Se pou moun k'ap fè sa ki mal yo disparèt sou latè. Se pou pa gen mechan ankò! Kite m' di Seyè a mèsi! Lwanj pou Seyè a!
 
 ### Chapter 105
 
@@ -32506,7 +32506,7 @@
 
 **[105:44]** Li ba yo tè lòt nasyon yo, li kite yo ranmase rekòt jaden lòt moun,
 
-**[105:45]** pou pèp li a te ka kenbe lòd li yo, pou yo te ka obeyi kòmandman li yo. Lwanj pou Seyè a!  
+**[105:45]** pou pèp li a te ka kenbe lòd li yo, pou yo te ka obeyi kòmandman li yo. Lwanj pou Seyè a!
 
 ### Chapter 106
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Delivre nou non, Seyè, Bondye nou. Fè nou soti nan tout peyi kote nou gaye yo. Sanble nou non, pou nou ka di ou mèsi pou tout bagay ou menm ase ou ka fè, pou nou ka kontan lè n'ap fè lwanj ou.
 
-**[106:48]** Ann fè lwanj Seyè a, Bondye pèp Izrayèl la! Ann fè lwanj li depi tout tan ak pou tout tan! Epi tout pèp la pran reponn: Wi, se vre! Lwanj pou Seyè a!  
+**[106:48]** Ann fè lwanj Seyè a, Bondye pèp Izrayèl la! Ann fè lwanj li depi tout tan ak pou tout tan! Epi tout pèp la pran reponn: Wi, se vre! Lwanj pou Seyè a!
 
 ### Chapter 107
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** Moun ki mache dwat yo wè sa, yo kontan. Men, mechan yo rete ak bouch yo fèmen.
 
-**[107:43]** Se pou moun ki gen konprann chache konprann bagay sa yo! Se pou yo rekonèt jan Seyè a gen bon kè!  
+**[107:43]** Se pou moun ki gen konprann chache konprann bagay sa yo! Se pou yo rekonèt jan Seyè a gen bon kè!
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Eske se pa ou menm, Bondye, ki pou fè sa pou mwen, ou menm ki te vire do ban nou, ou menm ki pa soti ansanm ak lame nou yo ankò?
 
-**[108:13]** Tanpri, ede nou goumen kont lènmi nou yo, paske sekou lèzòm se pawòl nan bouch. Avèk Bondye bò kote nou, n'a fè bèl bagay nan lagè. Se li menm k'ap kraze lènmi nou yo anba pye l'.  
+**[108:13]** Tanpri, ede nou goumen kont lènmi nou yo, paske sekou lèzòm se pawòl nan bouch. Avèk Bondye bò kote nou, n'a fè bèl bagay nan lagè. Se li menm k'ap kraze lènmi nou yo anba pye l'.
 
 ### Chapter 109
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** M'ap louvri bouch mwen tout lajè pou m' di Seyè a mèsi. M'ap fè lwanj li lè tout pèp la reyini,
 
-**[109:31]** paske li pran defans pòv malere a, li delivre l' anba men moun ki te kondannen l' yo.  
+**[109:31]** paske li pran defans pòv malere a, li delivre l' anba men moun ki te kondannen l' yo.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** L'ap jije nasyon yo, l'ap anpile kadav sou kadav, l'ap kraze chèf yo toupatou sou latè.
 
-**[110:7]** Wa a ap bwè dlo larivyè k'ap koule bò wout la. Se poutèt sa li p'ap janm bese tèt devan lènmi l' yo.  
+**[110:7]** Wa a ap bwè dlo larivyè k'ap koule bò wout la. Se poutèt sa li p'ap janm bese tèt devan lènmi l' yo.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** Li delivre pèp li a, li pase ak yo yon kontra ki p'ap janm kase. Se Bondye tout bon li ye. Li merite vre pou moun pè li!
 
-**[111:10]** Lè ou gen krentif pou Bondye, se lè sa a ou konmanse gen bon konprann! Bondye ap bay moun ki gen krentif pou li bon jijman. Wi, se tout tan pou yo fè lwanj li.  
+**[111:10]** Lè ou gen krentif pou Bondye, se lè sa a ou konmanse gen bon konprann! Bondye ap bay moun ki gen krentif pou li bon jijman. Wi, se tout tan pou yo fè lwanj li.
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** Li bay moun ki nan nesesite san gad dèyè. L'ap toujou fè sa ki dwat devan Bondye. L'ap gen pouvwa, y'ap respekte l'.
 
-**[112:10]** Lè mechan wè sa, li move. li manje dan l', kè l' grenn. Tou sa mechan an t'ap tann lan pa rive.  
+**[112:10]** Lè mechan wè sa, li move. li manje dan l', kè l' grenn. Tou sa mechan an t'ap tann lan pa rive.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** Li fè l' chita menm kote ak chèf yo, wi, sou menm tab ak chèf pèp li a.
 
-**[113:9]** Li bay fanm ki pa ka fè pitit la yon fanmi. Li fè kè l' kontan lakay li, li ba l' pitit. Lwanj pou Seyè a!  
+**[113:9]** Li bay fanm ki pa ka fè pitit la yon fanmi. Li fè kè l' kontan lakay li, li ba l' pitit. Lwanj pou Seyè a!
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** Ou menm latè, tranble devan Seyè a, devan Bondye Jakòb la.
 
-**[114:8]** Se li menm ki fè gwo wòch la tounen yon basen dlo, li fè wòch la tounen yon sous dlo.  
+**[114:8]** Se li menm ki fè gwo wòch la tounen yon basen dlo, li fè wòch la tounen yon sous dlo.
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** Se pa moun mouri k'ap fè lwanj Seyè a. Non! Se pa moun ki desann kote mò yo ye a k'ap fè lwanj li.
 
-**[115:18]** Men, nou menm ki vivan, n'ap di l' mèsi depi koulye a ak pou tout tan tout tan. Lwanj pou Seyè a!  
+**[115:18]** Men, nou menm ki vivan, n'ap di l' mèsi depi koulye a ak pou tout tan tout tan. Lwanj pou Seyè a!
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** -(we vèsè pwochen)
 
-**[116:19]** Nan mitan tout pèp Bondye a, lè yo reyini, nan mitan kay li a, nan mitan lavil Jerizalèm m'a fè sa m' te pwomèt li a. Lwanj pou Seyè a!  
+**[116:19]** Nan mitan tout pèp Bondye a, lè yo reyini, nan mitan kay li a, nan mitan lavil Jerizalèm m'a fè sa m' te pwomèt li a. Lwanj pou Seyè a!
 
 ### Chapter 117
 
 **[117:1]** Nou menm nasyon yo, fè lwanj Seyè a! Nou menm tout pèp yo, fè lwanj li!
 
-**[117:2]** Paske, li renmen nou anpil anpil, l'ap toujou kenbe pawòl li. Lwanj pou Seyè a!  
+**[117:2]** Paske, li renmen nou anpil anpil, l'ap toujou kenbe pawòl li. Lwanj pou Seyè a!
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Se ou ki Bondye mwen, m'ap di ou mèsi. Bondye mwen, m'ap di jan ou gen pouvwa!
 
-**[118:29]** Fè lwanj Seyè a paske li bon. Li p'ap janm sispann renmen nou!  
+**[118:29]** Fè lwanj Seyè a paske li bon. Li p'ap janm sispann renmen nou!
 
 ### Chapter 119
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Ban m' lavi pou m' fè lwanj ou, pou ou ka vin ede m', jan ou te deside l' la.
 
-**[119:176]** Mwen tankou yon mouton ki pèdi bann li. Tanpri, vin chache m', paske mwen pa janm bliye kòmandman ou yo.  
+**[119:176]** Mwen tankou yon mouton ki pèdi bann li. Tanpri, vin chache m', paske mwen pa janm bliye kòmandman ou yo.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** Mwen rete twò lontan ak yon bann moun ki pa renmen viv ak kè poze!
 
-**[120:7]** Lè mwen menm m'ap pale yo jan pou yo viv byen yonn ak lòt, yo menm se yon sèl bagay ki nan tèt yo, se fè lagè.  
+**[120:7]** Lè mwen menm m'ap pale yo jan pou yo viv byen yonn ak lòt, yo menm se yon sèl bagay ki nan tèt yo, se fè lagè.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** Seyè a ap pwoteje ou pou anyen pa rive ou, li p'ap kite anyen rive ou.
 
-**[121:8]** L'ap pwoteje ou kit w'ap antre, kit w'ap soti, depi koulye a ak pou tout tan.  
+**[121:8]** L'ap pwoteje ou kit w'ap antre, kit w'ap soti, depi koulye a ak pou tout tan.
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** Poutèt fanmi m' yo ak zanmi m' yo, m'ap di: -Benediksyon Bondye sou lavil la!
 
-**[122:9]** Poutèt kay Seyè a, Bondye nou an, ki nan lavil la, m'ap mande Bondye pou fè kè ou kontan.  
+**[122:9]** Poutèt kay Seyè a, Bondye nou an, ki nan lavil la, m'ap mande Bondye pou fè kè ou kontan.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Gen pitye pou nou, Seyè, gen pitye pou nou, paske nou sibi kont nou anba moun k'ap meprize nou yo.
 
-**[123:4]** Moun ki alèz yo pase nou nan kont betiz. Moun k'ap gonfle lestonmak yo sou moun ap foule nou anba pye yo.  
+**[123:4]** Moun ki alèz yo pase nou nan kont betiz. Moun k'ap gonfle lestonmak yo sou moun ap foule nou anba pye yo.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Nou chape tankou yon ti zwezo ki chape soti nan pèlen chasè. Fil pèlen an kase. Nou chape, n' ale.
 
-**[124:8]** Se Seyè a k'ap pote nou sekou, se li menm ki fè syèl la ak latè a.  
+**[124:8]** Se Seyè a k'ap pote nou sekou, se li menm ki fè syèl la ak latè a.
 
 ### Chapter 125
 
@@ -33474,7 +33474,7 @@
 
 **[125:4]** Seyè, aji byen avèk moun k'ap fè byen, avèk moun k'ap mennen yon lavi san repwòch.
 
-**[125:5]** Men, kanta pou moun ki vire do ba ou yo pou swiv chemen kwochi, se pou ou disparèt yo ansanm ak tout moun k'ap fè mechanste. Benediksyon Bondye sou pèp Izrayèl la.  
+**[125:5]** Men, kanta pou moun ki vire do ba ou yo pou swiv chemen kwochi, se pou ou disparèt yo ansanm ak tout moun k'ap fè mechanste. Benediksyon Bondye sou pèp Izrayèl la.
 
 ### Chapter 126
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** Moun ki simen ak dlo nan je ap rekòlte ak kè kontan.
 
-**[126:6]** Moun ki t'ap kriye lè yo t'aprale avèk grenn pou yo simen nan jaden yo, y'ap tounen ak bèl chante nan bouch yo sitèlman yo kontan lè y'ap pote rekòt la lakay yo.  
+**[126:6]** Moun ki t'ap kriye lè yo t'aprale avèk grenn pou yo simen nan jaden yo, y'ap tounen ak bèl chante nan bouch yo sitèlman yo kontan lè y'ap pote rekòt la lakay yo.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** Menm jan yon sòlda santi li gen kouraj lè l' gen zam li nan men l', se menm jan an tou pou yon moun ki fè pitit gason depi lè l' te jenn.
 
-**[127:5]** Ala bon sa bon pou moun ki gen anpil zam konsa! Li p'ap janm wont lè li kanpe nan pòtay lavil la pou l' diskite ak moun k'ap chache l' kont.  
+**[127:5]** Ala bon sa bon pou moun ki gen anpil zam konsa! Li p'ap janm wont lè li kanpe nan pòtay lavil la pou l' diskite ak moun k'ap chache l' kont.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** Se pou Seyè a rete sou mòn Siyon an pou l' beni ou! Mwen mande l' pou l' fè ou wè lavil Jerizalèm rete kanpe jouk jou ou mouri.
 
-**[128:6]** Mwen mande l' pou l' fè ou wè pitit pitit ou yo! Benediksyon Bondye sou pèp Izrayèl la!  
+**[128:6]** Mwen mande l' pou l' fè ou wè pitit pitit ou yo! Benediksyon Bondye sou pèp Izrayèl la!
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** Moun k'ap ranmase rekòt p'ap okipe yo menm, moun k'ap antre rekòt la p'ap mete yo nan pakèt li.
 
-**[129:8]** Moun k'ap pase bò la yo p'ap di: -Se pou Seyè a beni nou! N'ap beni ou nan non Seyè a!  
+**[129:8]** Moun k'ap pase bò la yo p'ap di: -Se pou Seyè a beni nou! N'ap beni ou nan non Seyè a!
 
 ### Chapter 130
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** Nou menm pèp Izrayèl, mete tout espwa nou nan Seyè a, paske li renmen nou anpil. Li toujou pare pou delivre.
 
-**[130:8]** Se li menm ki va delivre pèp Izrayèl la anba tout mechanste yo fè yo.  
+**[130:8]** Se li menm ki va delivre pèp Izrayèl la anba tout mechanste yo fè yo.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** Mwen rete tou dousman, byen trankil tankou yon timoun sevre ki rete byen dousman sou janm manman l'. Wi, tankou yon timoun sevre, se konsa mwen rete dousman.
 
-**[131:3]** Nou menm pèp Izrayèl, mete tout espwa nou nan Seyè a, depi koulye a ak pou tout tan.  
+**[131:3]** Nou menm pèp Izrayèl, mete tout espwa nou nan Seyè a, depi koulye a ak pou tout tan.
 
 ### Chapter 132
 
@@ -33596,7 +33596,7 @@
 
 **[132:17]** Se la m'ap fè yonn nan pitit David yo tounen yon gwo wa. Mwen p'ap kite limyè a soti nan fanmi moun mwen chwazi a.
 
-**[132:18]** M'ap fè lènmi l' yo wont, kouwòn ki sou tèt li a ap toujou rete byen klere.  
+**[132:18]** M'ap fè lènmi l' yo wont, kouwòn ki sou tèt li a ap toujou rete byen klere.
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** Se tankou yon lwil santi bon yo vide sou tèt Arawon, k'ap koule sou bab li desann nan kou rad li.
 
-**[133:3]** Se tankou lawouze ki soti sou mòn Emon, k'ap desann sou mòn Siyon yo. Se la Seyè a pwomèt pou l' bay benediksyon l', lavi ki p'ap janm fini an.  
+**[133:3]** Se tankou lawouze ki soti sou mòn Emon, k'ap desann sou mòn Siyon yo. Se la Seyè a pwomèt pou l' bay benediksyon l', lavi ki p'ap janm fini an.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Louvri bra nou nan tanp li, lapriyè, fè lwanj Seyè a!
 
-**[134:3]** Se pou Seyè a rete sou mòn Siyon pou l' beni ou. Se li menm ki fè syèl la ak latè a.  
+**[134:3]** Se pou Seyè a rete sou mòn Siyon pou l' beni ou. Se li menm ki fè syèl la ak latè a.
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** Nou menm k'ap sèvi nan tanp li a, fè lwanj Seyè a! Nou tout ki gen krentif pou Seyè a, fè lwanj li!
 
-**[135:21]** Fè lwanj Seyè a nan peyi Siyon. nan lavil Jerizalèm, kote l' rete a. Lwanj pou Seyè a!  
+**[135:21]** Fè lwanj Seyè a nan peyi Siyon. nan lavil Jerizalèm, kote l' rete a. Lwanj pou Seyè a!
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** Se li ki bay tout moun ak tout zannimo manje. Wi, li p'ap janm sispann renmen nou!
 
-**[136:26]** Di Bondye ki anwo nan syèl la mèsi. Wi, li p'ap janm sispann renmen nou!  
+**[136:26]** Di Bondye ki anwo nan syèl la mèsi. Wi, li p'ap janm sispann renmen nou!
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** Nou menm moun lavil Babilòn, yo gen pou yo fini ak nou yon lè. Benediksyon pou moun ki va fè ou sibi menm bagay ou te fè nou sibi a.
 
-**[137:9]** Benediksyon pou moun ki va pran pitit ou yo, ki va kraze yo sou gwo wòch!  
+**[137:9]** Benediksyon pou moun ki va pran pitit ou yo, ki va kraze yo sou gwo wòch!
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Menm lè mwen nan gwo tèt chaje, ou pa kite m' mouri. Ou leve men ou pou rete lènmi m' yo ki ankòlè. Ou sove m' avèk fòs ponyèt ou.
 
-**[138:8]** W'a fin fè sa ou te konmanse fè pou mwen an. Seyè, ou p'ap janm sispann renmen nou. Pa vire do ou kite travay ou konmanse fè a!  
+**[138:8]** W'a fin fè sa ou te konmanse fè pou mwen an. Seyè, ou p'ap janm sispann renmen nou. Pa vire do ou kite travay ou konmanse fè a!
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Sonde m', Bondye! Wè tou sa ki nan kè m'! Fouye m'! Wè tou sa ki nan lide m'!
 
-**[139:24]** Gade wè si m' sou yon move chemen. Mennen m' sou chemen ki la pou tout tan an.  
+**[139:24]** Gade wè si m' sou yon move chemen. Mennen m' sou chemen ki la pou tout tan an.
 
 ### Chapter 140
 
@@ -33826,7 +33826,7 @@
 
 **[140:12]** Se pou moun k'ap pale moun mal yo pèdi pye nan peyi a. Se pou malè tonbe sou ansasen yo pou l' touye yo.
 
-**[140:13]** Mwen konnen Seyè a va fè pòv yo jistis. L'a defann kòz moun ki san sekou yo. Wi, moun k'ap mache dwat yo va fè lwanj li. Moun ki obeyi l' yo va toujou viv devan l'.  
+**[140:13]** Mwen konnen Seyè a va fè pòv yo jistis. L'a defann kòz moun ki san sekou yo. Wi, moun k'ap mache dwat yo va fè lwanj li. Moun ki obeyi l' yo va toujou viv devan l'.
 
 ### Chapter 141
 
@@ -33848,7 +33848,7 @@
 
 **[141:9]** Pa kite m' pran nan pèlen yo tann pou mwen, nan pèlen moun k'ap fè mal yo.
 
-**[141:10]** Se pou mechan yo pran nan pèlen y'ap pare pou lòt moun, epi mwen menm, pou m' fè chemen mwen!  
+**[141:10]** Se pou mechan yo pran nan pèlen y'ap pare pou lòt moun, epi mwen menm, pou m' fè chemen mwen!
 
 ### Chapter 142
 
@@ -33864,7 +33864,7 @@
 
 **[142:6]** Mwen kriye nan pye ou, Seyè! Mwen di: Se ou menm ki tout pwoteksyon mwen. Se ou menm ki tout mwen nan lavi sa a.
 
-**[142:7]** Panche zòrèy ou, koute sa m'ap di ou! Mwen fin dekouraje. Delivre m' anba men moun k'ap pèsekite m' yo, paske yo pi fò pase m'. Wete m' nan prizon sa a pou m' ka di ou mèsi. Lè sa a, m'a kanpe nan mitan moun ki mache dwat devan ou yo, paske ou te bon pou mwen.  
+**[142:7]** Panche zòrèy ou, koute sa m'ap di ou! Mwen fin dekouraje. Delivre m' anba men moun k'ap pèsekite m' yo, paske yo pi fò pase m'. Wete m' nan prizon sa a pou m' ka di ou mèsi. Lè sa a, m'a kanpe nan mitan moun ki mache dwat devan ou yo, paske ou te bon pou mwen.
 
 ### Chapter 143
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** Seyè, poutèt non ou pote a, ban m' lavi ankò. Ou menm ki pa nan patipri, tanpri, wete m' nan tray kote m' ye a.
 
-**[143:12]** Ou renmen m' anpil. Fè tout lènmi m' yo disparèt. Detwi tout moun k'ap peze m' yo, paske se sèvitè ou mwen ye.  
+**[143:12]** Ou renmen m' anpil. Fè tout lènmi m' yo disparèt. Detwi tout moun k'ap peze m' yo, paske se sèvitè ou mwen ye.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** Se pou bèf nou yo toujou bay rapò, san yo pa fè avòtman, ni pèt. Se pou lènmi pa anvayi peyi a. Pa kite yo depòte nou. Se pou pa gen okenn rèl nan lari nou yo.
 
-**[144:15]** Ala bon sa bon lè sa mache konsa pou pèp la! Ala bon sa bon pou yon pèp ki gen Seyè a pou Bondye li!  
+**[144:15]** Ala bon sa bon lè sa mache konsa pou pèp la! Ala bon sa bon pou yon pèp ki gen Seyè a pou Bondye li!
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** L'ap pwoteje tout moun ki renmen l'. Men, l'ap detwi tout mechan yo.
 
-**[145:21]** M'a fè lwanj Seyè a ak bouch mwen. Se pou tout moun fè lwanj Bondye ki yon Bondye apa. Se pou yo fè l' tout tan tout tan.  
+**[145:21]** M'a fè lwanj Seyè a ak bouch mwen. Se pou tout moun fè lwanj Bondye ki yon Bondye apa. Se pou yo fè l' tout tan tout tan.
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** Seyè a pwoteje etranje k'ap viv nan peyi a. L'ap pran swen vèv yo ak timoun ki san papa yo. Men, li detounen plan mechan yo gen nan tèt yo.
 
-**[146:10]** Seyè a ap gouvènen pou tout tan. Nou menm, moun Siyon, Bondye nou an ap gouvènen pou tout tan. Lwanj pou Seyè a!  
+**[146:10]** Seyè a ap gouvènen pou tout tan. Nou menm, moun Siyon, Bondye nou an ap gouvènen pou tout tan. Lwanj pou Seyè a!
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** Li fè pitit Jakòb yo konnen pawòl li. li fè pèp Izrayèl la konnen lòd li yo ak sa li deside.
 
-**[147:20]** Li pa aji konsa ak okenn lòt nasyon. Li pa fè yo konnen sa l' deside fè. Lwanj pou Seyè a!  
+**[147:20]** Li pa aji konsa ak okenn lòt nasyon. Li pa fè yo konnen sa l' deside fè. Lwanj pou Seyè a!
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Se pou nou tout fè lwanj Seyè a, paske li gen yon non ki pi gwo pase tout lòt non. Pouvwa li pi wo pase syèl la ak latè a.
 
-**[148:14]** Li rebay pèp li a fòs ankò. Sa te yon lwanj pou tout moun k'ap sèvi l' yo, pou pitit Izrayèl yo, pou pèp li renmen anpil la. Lwanj pou Seyè a!  
+**[148:14]** Li rebay pèp li a fòs ankò. Sa te yon lwanj pou tout moun k'ap sèvi l' yo, pou pitit Izrayèl yo, pou pèp li renmen anpil la. Lwanj pou Seyè a!
 
 ### Chapter 149
 
@@ -34080,7 +34080,7 @@
 
 **[149:8]** pou yo mete wa yo nan chenn, pou mete grannèg yo nan sèp an fè,
 
-**[149:9]** pou ba yo chatiman ki te ekri a. Se va yon bèl bagay pou tout moun k'ap sèvi Bondye. Lwanj pou Seyè a!  
+**[149:9]** pou ba yo chatiman ki te ekri a. Se va yon bèl bagay pou tout moun k'ap sèvi Bondye. Lwanj pou Seyè a!
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Lwanj pou li ak senbal ki bay bèl son! Lwanj pou li ak senbal ki fè gwo bri!
 
-**[150:6]** Se pou tou sa ki gen souf fè lwanj Seyè a! Lwanj pou Seyè a!   
+**[150:6]** Se pou tou sa ki gen souf fè lwanj Seyè a! Lwanj pou Seyè a!
 
 ## Proverbs
 
@@ -34164,7 +34164,7 @@
 
 **[1:32]** Moun ki san esperyans yo mouri paske yo refize aprann. Bann moun fou yo menm, yo pa pran anyen pou anyen, se sa k'ap pèdi yo tou.
 
-**[1:33]** Men, moun ki koute sa m' di yo jwenn lasirans, y'a viv ak kè poze, yo p'ap bezwen pè anyen.  
+**[1:33]** Men, moun ki koute sa m' di yo jwenn lasirans, y'a viv ak kè poze, yo p'ap bezwen pè anyen.
 
 ### Chapter 2
 
@@ -34210,7 +34210,7 @@
 
 **[2:21]** Paske se moun k'ap mache dwat yo ki pral rete nan peyi a. Se moun serye yo ki pral la.
 
-**[2:22]** Men, Bondye ap disparèt mechan yo nan peyi a. L'ap rache moun k'ap fè sa ki mal yo tankou yo rache move zèb.  
+**[2:22]** Men, Bondye ap disparèt mechan yo nan peyi a. L'ap rache moun k'ap fè sa ki mal yo tankou yo rache move zèb.
 
 ### Chapter 3
 
@@ -34282,7 +34282,7 @@
 
 **[3:34]** Moun k'ap pase moun nan betiz, Bondye ap pase yo nan betiz tou. Men, moun ki fè byen, l'ap moutre yo jan li renmen yo.
 
-**[3:35]** Y'a fè lwanj moun ki gen bon konprann yo, men moun fou yo, se wont y'a wont.  
+**[3:35]** Y'a fè lwanj moun ki gen bon konprann yo, men moun fou yo, se wont y'a wont.
 
 ### Chapter 4
 
@@ -34338,7 +34338,7 @@
 
 **[4:26]** Chache konnen byen sa w'ap fè. Konsa, tou sa w'ap fè ap mache byen pou ou.
 
-**[4:27]** Pa vire ni adwat ni agoch. Pa lage kò ou nan fè sa ki mal.  
+**[4:27]** Pa vire ni adwat ni agoch. Pa lage kò ou nan fè sa ki mal.
 
 ### Chapter 5
 
@@ -34386,7 +34386,7 @@
 
 **[5:22]** Mechanste mechan yo se yon pèlen pou pwòp tèt yo. Sa yo pare pou lòt moun, se yo menm li rive.
 
-**[5:23]** Y'ap mouri paske yo pa konn kontwole tèt yo. Y'ap peri paske yo fin pèdi tèt yo nèt.  
+**[5:23]** Y'ap mouri paske yo pa konn kontwole tèt yo. Y'ap peri paske yo fin pèdi tèt yo nèt.
 
 ### Chapter 6
 
@@ -34458,7 +34458,7 @@
 
 **[6:34]** Lè yon mari ap fè jalouzi pou madanm li, nanpwen move tankou l'. Jou li mete men sou nèg la, pa gen anyen li p'ap fè l'.
 
-**[6:35]** Li p'ap asepte lajan. Nanpwen kado ki pou fè l' bliye sa.  
+**[6:35]** Li p'ap asepte lajan. Nanpwen kado ki pou fè l' bliye sa.
 
 ### Chapter 7
 
@@ -34514,7 +34514,7 @@
 
 **[7:26]** Li lakòz anpil gason tonbe mouri. Li lakòz anpil vanyan gason pèdi lavi yo.
 
-**[7:27]** Depi ou mete pye lakay li, ou sou chemen lanmò. W'ap desann yon pant k'ap mennen ou tou dwat nan simityè.  
+**[7:27]** Depi ou mete pye lakay li, ou sou chemen lanmò. W'ap desann yon pant k'ap mennen ou tou dwat nan simityè.
 
 ### Chapter 8
 
@@ -34588,7 +34588,7 @@
 
 **[8:35]** Lè yon moun jwenn mwen, se lavi li jwenn. Li antre nan favè Bondye.
 
-**[8:36]** Men moun ki vire do ban mwen ap fè tèt yo mal. Moun ki rayi m', se moun k'ap mache ak sèkèy yo anba bra yo.  
+**[8:36]** Men moun ki vire do ban mwen ap fè tèt yo mal. Moun ki rayi m', se moun k'ap mache ak sèkèy yo anba bra yo.
 
 ### Chapter 9
 
@@ -34626,7 +34626,7 @@
 
 **[9:17]** Dlo kay moun toujou pi fre. Manje deyò toujou gen pi bon gou!
 
-**[9:18]** Men, moun ki pran nan pawòl fanm sa a pa konnen lè yo mete pye lakay li se papye lanmò yo yo senyen. Depi yo antre lakay li, yo deja mouri.  
+**[9:18]** Men, moun ki pran nan pawòl fanm sa a pa konnen lè yo mete pye lakay li se papye lanmò yo yo senyen. Depi yo antre lakay li, yo deja mouri.
 
 ### Chapter 10
 
@@ -34692,7 +34692,7 @@
 
 **[10:31]** Lè moun k'ap mache dwat yo ap pale, se bon koze yo bay. Men, moun k'ap pale mal yo ap disparèt.
 
-**[10:32]** Moun k'ap mache dwat yo konn bèl pawòl pou yo di. Men, lang mechan yo, se kouto de bò.  
+**[10:32]** Moun k'ap mache dwat yo konn bèl pawòl pou yo di. Men, lang mechan yo, se kouto de bò.
 
 ### Chapter 11
 
@@ -34756,7 +34756,7 @@
 
 **[11:30]** Lè ou mache dwat, sa fè moun viv. Lè ou gen bon konprann, ou sove lòt moun.
 
-**[11:31]** Gade! Moun ki mache dwat jwenn rekonpans yo isit sou latè. Men, nou pa bezwen mande si moun k'ap fè mechanste ak moun k'ap viv nan peche p'ap jwenn ak pa yo tou!  
+**[11:31]** Gade! Moun ki mache dwat jwenn rekonpans yo isit sou latè. Men, nou pa bezwen mande si moun k'ap fè mechanste ak moun k'ap viv nan peche p'ap jwenn ak pa yo tou!
 
 ### Chapter 12
 
@@ -34814,7 +34814,7 @@
 
 **[12:27]** Parese ap toujou rete grangou. Tout richès yon moun se travay li.
 
-**[12:28]** Fè sa ki dwat, w'a jwenn ak lavi. Fè sa ki mal, w'a jwenn ak lanmò.  
+**[12:28]** Fè sa ki dwat, w'a jwenn ak lavi. Fè sa ki mal, w'a jwenn ak lanmò.
 
 ### Chapter 13
 
@@ -34866,7 +34866,7 @@
 
 **[13:24]** Si ou pè bat pitit gason ou, ou pa renmen l'. Si ou renmen l', se pou ou korije l'.
 
-**[13:25]** Moun k'ap mache dwat toujou gen ase pou yo manje. Men, vant mechan yo pa janm plen.  
+**[13:25]** Moun k'ap mache dwat toujou gen ase pou yo manje. Men, vant mechan yo pa janm plen.
 
 ### Chapter 14
 
@@ -34938,7 +34938,7 @@
 
 **[14:34]** Lè gen jistis nan yon peyi, sa leve peyi a. Men, peche lenjistis se yon wont pou yon nasyon.
 
-**[14:35]** Wa a kontan lè moun k'ap travay avè l' yo fè travay yo byen. Men, l'ap move sou moun k'ap fè travay yo mal.  
+**[14:35]** Wa a kontan lè moun k'ap travay avè l' yo fè travay yo byen. Men, l'ap move sou moun k'ap fè travay yo mal.
 
 ### Chapter 15
 
@@ -35006,7 +35006,7 @@
 
 **[15:32]** Moun ki refize mache sou prigad yo rayi tèt yo. Men, moun ki asepte lè yo rale zòrèy yo ap vin gen plis konprann.
 
-**[15:33]** Lè ou gen krentif pou Bondye, ou deja konprann anpil bagay. Lè ou soumèt devan Bondye, moun va fè lwanj ou.  
+**[15:33]** Lè ou gen krentif pou Bondye, ou deja konprann anpil bagay. Lè ou soumèt devan Bondye, moun va fè lwanj ou.
 
 ### Chapter 16
 
@@ -35074,7 +35074,7 @@
 
 **[16:32]** Pito ou aji ak pasyans pase pou ou fè fòs sou moun. Pito ou konn kontwole tèt ou pase pou ou gwo chèf lame k'ap mache pran lavil.
 
-**[16:33]** Moun tire kat pou yo konnen sa pou yo fè. Men, desizyon an se nan men Bondye li ye.  
+**[16:33]** Moun tire kat pou yo konnen sa pou yo fè. Men, desizyon an se nan men Bondye li ye.
 
 ### Chapter 17
 
@@ -35132,7 +35132,7 @@
 
 **[17:27]** Moun ki gen konesans pa nan pale anpil. Moun ki rete dousman se moun ki gen konprann.
 
-**[17:28]** Moun ki gen lespri pa janm cho pou pale. Men moun sòt, lè yo rete ak bouch yo fèmen, yo pase pou moun ki gen konprann.  
+**[17:28]** Moun ki gen lespri pa janm cho pou pale. Men moun sòt, lè yo rete ak bouch yo fèmen, yo pase pou moun ki gen konprann.
 
 ### Chapter 18
 
@@ -35182,7 +35182,7 @@
 
 **[18:23]** Lè yon pòv ap pale, li toujou nan tanpri souple. Men, moun rich toujou ap rele sou moun.
 
-**[18:24]** Gen zanmi se pran yo vin pran. Men, gen zanmi tou yo plis pase frè.  
+**[18:24]** Gen zanmi se pran yo vin pran. Men, gen zanmi tou yo plis pase frè.
 
 ### Chapter 19
 
@@ -35242,7 +35242,7 @@
 
 **[19:28]** Yon temwen k'ap bay manti pase lajistis nan betiz. Mechan yo pran plezi nan fè mechanste.
 
-**[19:29]** Baton an tou la pou moun k'ap pase moun nan betiz. Fwèt la tou pare pou dèyè moun ki san konprann.  
+**[19:29]** Baton an tou la pou moun k'ap pase moun nan betiz. Fwèt la tou pare pou dèyè moun ki san konprann.
 
 ### Chapter 20
 
@@ -35304,7 +35304,7 @@
 
 **[20:29]** Se kouraj ki fè valè yon jenn gason. Men, pou granmoun, se cheve blan l' yo ki fè valè l'.
 
-**[20:30]** Move esperyans ka fè nou chanje. Malè ka fè nou vin gen bon santiman.  
+**[20:30]** Move esperyans ka fè nou chanje. Malè ka fè nou vin gen bon santiman.
 
 ### Chapter 21
 
@@ -35368,7 +35368,7 @@
 
 **[21:30]** Devan Seyè a pa gen ni moun konnen, ni moun lespri, ni moun ki gen bon konprann.
 
-**[21:31]** Moun pare chwal pou y' al fè lagè, men se Seyè a k'ap deside kilès k'ap genyen batay la.  
+**[21:31]** Moun pare chwal pou y' al fè lagè, men se Seyè a k'ap deside kilès k'ap genyen batay la.
 
 ### Chapter 22
 
@@ -35428,7 +35428,7 @@
 
 **[22:28]** Pa janm deplase bòn tè kote granmoun lontan te mete yo.
 
-**[22:29]** Moutre m' yon nonm ki gen ladrès nan sa l'ap fè. Se moun konsa k'ap rive travay ak chèf. Li pa pral travay ak moun ki pa anyen.  
+**[22:29]** Moutre m' yon nonm ki gen ladrès nan sa l'ap fè. Se moun konsa k'ap rive travay ak chèf. Li pa pral travay ak moun ki pa anyen.
 
 ### Chapter 23
 
@@ -35500,7 +35500,7 @@
 
 **[23:34]** W'ap santi tankou si ou te sou lanmè: w'ap tankou si ou te sou tèt yon ma batiman.
 
-**[23:35]** Lè sa a w'a di: Gen lè yo bat mwen, mwen pa santi sa. Gen lè yo te ban m' kou, mwen pa konn sa. Kilè m'a leve la a? Mwen ta pran yon ti kou ankò.  
+**[23:35]** Lè sa a w'a di: Gen lè yo bat mwen, mwen pa santi sa. Gen lè yo te ban m' kou, mwen pa konn sa. Kilè m'a leve la a? Mwen ta pran yon ti kou ankò.
 
 ### Chapter 24
 
@@ -35570,7 +35570,7 @@
 
 **[24:33]** Dòmi, kabicha, kouche sou do, kwaze men ou dèyè tèt ou... Se bon!
 
-**[24:34]** W'ap rete konsa, w'ap wè ou pòv. Mizè ap tonbe sou ou tankou yon ansasen san ou pa atann.  
+**[24:34]** W'ap rete konsa, w'ap wè ou pòv. Mizè ap tonbe sou ou tankou yon ansasen san ou pa atann.
 
 ### Chapter 25
 
@@ -35628,7 +35628,7 @@
 
 **[25:27]** Twòp siwo myèl pa bon pou lasante. Konsa tou, pa chache pou moun nonmen non ou twòp.
 
-**[25:28]** Si ou pa kapab kontwole kòlè ou, ou tankou yon lavil san ranpa. Y'ap anvayi l' fasil. Y'ap mete men sou ou fasil.  
+**[25:28]** Si ou pa kapab kontwole kòlè ou, ou tankou yon lavil san ranpa. Y'ap anvayi l' fasil. Y'ap mete men sou ou fasil.
 
 ### Chapter 26
 
@@ -35686,7 +35686,7 @@
 
 **[26:27]** Moun k'ap tann pèlen pou lòt se yo menm k'ap pran ladan li. Moun ki konmanse woule wòch la, se li menm ankò wòch la ap kraze.
 
-**[26:28]** Fòk ou rayi yon moun vre pou fè manti sou li. Lè w'ap flate moun, se tèt ou w'ap fè tò.  
+**[26:28]** Fòk ou rayi yon moun vre pou fè manti sou li. Lè w'ap flate moun, se tèt ou w'ap fè tò.
 
 ### Chapter 27
 
@@ -35742,7 +35742,7 @@
 
 **[27:26]** Mouton ou yo ap ba ou lenn pou fè rad met sou ou. Bouk kabrit yo ap rapòte ou lajan pou achte tè pou fè jaden.
 
-**[27:27]** W'a jwenn kont lèt kabrit pou ou bwè ak fanmi ou ansanm ak moun k'ap sèvi lakay ou.  
+**[27:27]** W'a jwenn kont lèt kabrit pou ou bwè ak fanmi ou ansanm ak moun k'ap sèvi lakay ou.
 
 ### Chapter 28
 
@@ -35800,7 +35800,7 @@
 
 **[28:27]** Moun ki bay pòv p'ap janm manke anyen. Men, moun ki fè tankou li pa wè pòv yo chaje ak madichon.
 
-**[28:28]** Lè se mechan ki rive chèf, tout moun al kache. Men, tonbe mechan yo tonbe, moun k'ap mache dwat yo kanpe ankò.  
+**[28:28]** Lè se mechan ki rive chèf, tout moun al kache. Men, tonbe mechan yo tonbe, moun k'ap mache dwat yo kanpe ankò.
 
 ### Chapter 29
 
@@ -35856,7 +35856,7 @@
 
 **[29:26]** Anpil moun ap kouri dèyè favè chèf. Men, se Bondye k'ap jije tout moun san patipri.
 
-**[29:27]** Moun ki mache dwat pa vle wè mechan. Mechan pa vle wè moun k'ap mache dwat.  
+**[29:27]** Moun ki mache dwat pa vle wè mechan. Mechan pa vle wè moun k'ap mache dwat.
 
 ### Chapter 30
 
@@ -35924,7 +35924,7 @@
 
 **[30:32]** Si ou te sòt jouk pou ou te rive fè grandizè, kalkile sou sa ou fè a: Pe bouch ou!
 
-**[30:33]** Si ou bat lèt, l'ap fè bè. Si ou frape yon moun sou men l', l'ap senyen. Si ou nan pouse dife, ou nan gwo kont.  
+**[30:33]** Si ou bat lèt, l'ap fè bè. Si ou frape yon moun sou men l', l'ap senyen. Si ou nan pouse dife, ou nan gwo kont.
 
 ### Chapter 31
 
@@ -35988,7 +35988,7 @@
 
 **[31:30]** Bèl fanm pa di bon madanm pou sa. Bèl figi pa la pou lontan. Men, y'a fè lwanj yon fanm ki gen krentif pou Seyè a.
 
-**[31:31]** Ba li sa ki pou li a. Lè y'a wè sa l' fè, se pou tout moun fè lwanj li.   
+**[31:31]** Ba li sa ki pou li a. Lè y'a wè sa l' fè, se pou tout moun fè lwanj li.
 
 ## Ecclesiastes
 
@@ -36028,7 +36028,7 @@
 
 **[1:17]** Mwen te soti pou m' te konnen diferans ki genyen ant moun ki gen konprann ak moun egare, ant moun ki gen konesans ak moun sòt. Men, la ankò, mwen wè anyen pa rapòte anyen.
 
-**[1:18]** Paske plis ou gen konprann, se plis ou nan tèt chaje. Plis ou konnen, se plis ou soufri.  
+**[1:18]** Paske plis ou gen konprann, se plis ou nan tèt chaje. Plis ou konnen, se plis ou soufri.
 
 ### Chapter 2
 
@@ -36082,7 +36082,7 @@
 
 **[2:25]** Paske, san Bondye, ki moun ki ka manje? Ki moun ki ka bwè.
 
-**[2:26]** Bondye bay moun ki fè l' plezi bon konprann, konesans ak kè kontan. Konsa tou, li fè mechan yo travay fè lajan sere pou l' ka bay moun ki fè l' plezi. La tou, sa pa vo anyen. Sa pa rapòte anyen.  
+**[2:26]** Bondye bay moun ki fè l' plezi bon konprann, konesans ak kè kontan. Konsa tou, li fè mechan yo travay fè lajan sere pou l' ka bay moun ki fè l' plezi. La tou, sa pa vo anyen. Sa pa rapòte anyen.
 
 ### Chapter 3
 
@@ -36128,7 +36128,7 @@
 
 **[3:21]** Ki moun ki konnen si nanm moun moute anwo nan syèl epi nanm zannimo desann anba tè vre?
 
-**[3:22]** Konsa, mwen wè pa gen pi bon bagay yon moun ka fè sou latè pase jwi sa travay li rapòte l'. Se sèlman sa li ka fè. Epitou, ki moun k'ap fè l' tounen pou l' ka konnen sa k'ap rive apre li fin mouri?  
+**[3:22]** Konsa, mwen wè pa gen pi bon bagay yon moun ka fè sou latè pase jwi sa travay li rapòte l'. Se sèlman sa li ka fè. Epitou, ki moun k'ap fè l' tounen pou l' ka konnen sa k'ap rive apre li fin mouri?
 
 ### Chapter 4
 
@@ -36162,7 +36162,7 @@
 
 **[4:15]** Mwen kalkile, mwen gade tout moun k'ap viv sou latè, mwen di nan mitan tout moun sa yo gen jenn gason ki pral pran plas wa a.
 
-**[4:16]** Ou pa ka konte kantite moun yon wa ka gouvènen, kantite moun yon wa ka dirije. Men lè l' mouri, pesonn p'ap chonje di l' mèsi pou sa li te fè pou yo. Tou sa pa vo anyen. Sa pa rapòte anyen.  
+**[4:16]** Ou pa ka konte kantite moun yon wa ka gouvènen, kantite moun yon wa ka dirije. Men lè l' mouri, pesonn p'ap chonje di l' mèsi pou sa li te fè pou yo. Tou sa pa vo anyen. Sa pa rapòte anyen.
 
 ### Chapter 5
 
@@ -36204,7 +36204,7 @@
 
 **[5:19]** Si Bondye bay yon moun richès ak byen, se pou li jwi yo, se pou l' di Bondye mèsi, se pou l' jwi tou sa li travay fè. Sa se kado Bondye ba li.
 
-**[5:20]** Li pa bezwen chonje jan lavi a kout, paske Bondye ba li kont bagay pou l' fè pou fè kè l' kontan.  
+**[5:20]** Li pa bezwen chonje jan lavi a kout, paske Bondye ba li kont bagay pou l' fè pou fè kè l' kontan.
 
 ### Chapter 6
 
@@ -36230,7 +36230,7 @@
 
 **[6:11]** Plis ou nan pale anpil, plis se tan ou w'ap pèdi. Kisa sa ap rapòte ou?
 
-**[6:12]** Ki moun ki konnen sa ki bon pou yon moun k'ap mennen yon lavi ki pa vo anyen, yon lavi k'ap pase tankou yon nwaj, pandan de twa jou l'ap pase sou tè a? Ki moun ki ka fè lèzòm konnen sa ki gen pou rive sou latè apre y'a fin mouri?  
+**[6:12]** Ki moun ki konnen sa ki bon pou yon moun k'ap mennen yon lavi ki pa vo anyen, yon lavi k'ap pase tankou yon nwaj, pandan de twa jou l'ap pase sou tè a? Ki moun ki ka fè lèzòm konnen sa ki gen pou rive sou latè apre y'a fin mouri?
 
 ### Chapter 7
 
@@ -36290,7 +36290,7 @@
 
 **[7:28]** M'ap chache yon lòt esplikasyon. Men mwen pa jwenn li. Sou mil gason mwen kontre, se yon sèl mwen jwenn ki gen konprann. Men pou fanm, mwen pa jwenn yonn menm.
 
-**[7:29]** Men sa ase mwen jwenn: Bondye kreye moun pou yo viv san pwoblèm, li mete yon chemen tou dwat devan yo, men se yo menm ki chache traka bay tèt yo.  
+**[7:29]** Men sa ase mwen jwenn: Bondye kreye moun pou yo viv san pwoblèm, li mete yon chemen tou dwat devan yo, men se yo menm ki chache traka bay tèt yo.
 
 ### Chapter 8
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** Chak fwa mwen pran desizyon pou m' chache konprann, chak fwa mwen pran kalkile sa k'ap pase sou latè, mwen wè ou te mèt pa janm dòmi lajounen kou lannwit,
 
-**[8:17]** ou p'ap janm ka konprann travay Bondye sou latè. Ou mèt fè sa ou vle, ou p'ap janm ka rive jwenn sa w'ap chache a. Moun ki gen bon konprann kwè yo konnen. Men yo pa konnen plis pase yon lòt.  
+**[8:17]** ou p'ap janm ka konprann travay Bondye sou latè. Ou mèt fè sa ou vle, ou p'ap janm ka rive jwenn sa w'ap chache a. Moun ki gen bon konprann kwè yo konnen. Men yo pa konnen plis pase yon lòt.
 
 ### Chapter 9
 
@@ -36364,7 +36364,7 @@
 
 **[9:17]** Pito ou koute pawòl yon moun ki gen konprann ap di ou tou dousman pase pawòl chèf k'ap rele byen fò nan mitan yon bann moun sòt.
 
-**[9:18]** Konesans pi bon pase tout zam pou fè lagè. Men, fòt yon sèl moun ka fè anpil byen pèdi tou.  
+**[9:18]** Konesans pi bon pase tout zam pou fè lagè. Men, fòt yon sèl moun ka fè anpil byen pèdi tou.
 
 ### Chapter 10
 
@@ -36406,7 +36406,7 @@
 
 **[10:19]** Yo fè resepsyon pou yo pran plezi yo, yo bwè diven pou fè kè yo kontan, men se lajan ki penmèt yo fè tou sa.
 
-**[10:20]** Pa kritike yon wa, pa menm nan kè ou. Pa kritike rich yo, pa menm anndan chanm ou. Paske raje gen zòrèy.  
+**[10:20]** Pa kritike yon wa, pa menm nan kè ou. Pa kritike rich yo, pa menm anndan chanm ou. Paske raje gen zòrèy.
 
 ### Chapter 11
 
@@ -36428,7 +36428,7 @@
 
 **[11:9]** menm, jenn gason, pwofite jennès nou. Fè kè nou kontan pandan tout tan nou jenn gason toujou. Fè tou sa nou ta vle fè, tou sa nou anvi fè. Men pa bliye Bondye gen pou mande nou kont pou tou sa nou fè.
 
-**[11:10]** Pa kite lapenn chita nan kè nou. Pa kite anyen fè nou soufri nan kò nou. Ou p'ap rete jenn gason ak cheve nwa tou tan.  
+**[11:10]** Pa kite lapenn chita nan kè nou. Pa kite anyen fè nou soufri nan kò nou. Ou p'ap rete jenn gason ak cheve nwa tou tan.
 
 ### Chapter 12
 
@@ -36458,7 +36458,7 @@
 
 **[12:13]** Apre tout pawòl sa yo, se yon sèl bagay pou m' di nan sa: Gen krentif pou Bondye. Fè tou sa li mande ou fè yo. Se pou sa ase Bondye te kreye moun.
 
-**[12:14]** Paske Bondye ap jije tou sa n'ap fè, kit yo bon, kit yo pa bon, ata bagay nou fè an kachèt.   
+**[12:14]** Paske Bondye ap jije tou sa n'ap fè, kit yo bon, kit yo pa bon, ata bagay nou fè an kachèt.
 
 ## Song of Solomon
 
@@ -36496,7 +36496,7 @@
 
 **[1:16]** Ala bèl ou bèl, mennaj mwen! Se pa ti kontan ou fè m' kontan. Zèb yo sèvi nou kabann!
 
-**[1:17]** Branch bwa sèd yo sèvi nou travès kay, branch pye chenn yo sèvi nou twati.  
+**[1:17]** Branch bwa sèd yo sèvi nou travès kay, branch pye chenn yo sèvi nou twati.
 
 ### Chapter 2
 
@@ -36532,7 +36532,7 @@
 
 **[2:16]** Mennaj mwen, se pou mwen li ye! Mwen menm, se pou li mwen ye! L'ap fè mouton l' yo manje nan mitan pye woz yo.
 
-**[2:17]** Anvan labrin tonbe, anvan solèy vin kouche, kouri tounen vin jwenn mwen, mennaj mwen, tankou yon kabrit, tankou yon jenn ti kabrit k'ap kouri sou mòn byen wo yo.  
+**[2:17]** Anvan labrin tonbe, anvan solèy vin kouche, kouri tounen vin jwenn mwen, mennaj mwen, tankou yon kabrit, tankou yon jenn ti kabrit k'ap kouri sou mòn byen wo yo.
 
 ### Chapter 3
 
@@ -36556,7 +36556,7 @@
 
 **[3:10]** Poto kwen yo fèt an ajan. Tèt divan an kouvri an lò. Matla a kouvri ak bèl twal wouj, tout anndan an bwode. Se medam lavil Jerizalèm yo ki fè l' pou li ak tout kè yo.
 
-**[3:11]** Soti non, medam mòn Siyon yo! Vin wè wa Salomon ak kouwòn manman l' te mete sou tèt li jou maryaj li, jou kè l' te kontan anpil la.  
+**[3:11]** Soti non, medam mòn Siyon yo! Vin wè wa Salomon ak kouwòn manman l' te mete sou tèt li jou maryaj li, jou kè l' te kontan anpil la.
 
 ### Chapter 4
 
@@ -36590,7 +36590,7 @@
 
 **[4:15]** Fontenn jaden mwen an, se yon sous dlo k'ap koule desann byen fre soti nan mòn Liban an.
 
-**[4:16]** Van nòde, leve non! Van swèt, kouri vini soufle sou jaden mwen an! Plen lè a ak bon sant. Vini non, mennaj mwen! Antre nan jaden ki pou ou a! Manje nan pi bon fwi yo!  
+**[4:16]** Van nòde, leve non! Van swèt, kouri vini soufle sou jaden mwen an! Plen lè a ak bon sant. Vini non, mennaj mwen! Antre nan jaden ki pou ou a! Manje nan pi bon fwi yo!
 
 ### Chapter 5
 
@@ -36624,7 +36624,7 @@
 
 **[5:15]** Janm li yo, ou ta di de poto mab byen kanpe sou de moso lò bon kalite. Lè ou gade l', li tankou mòn Liban, li kanpe tankou gwo pye sèd Liban yo.
 
-**[5:16]** Anndan bouch li dous tankou siwo myèl. Li bèl gason nan tout kò li. Se konsa mennaj mwen an ye, se konsa zanmi m' lan ye, medam lavil Jerizalèm!  
+**[5:16]** Anndan bouch li dous tankou siwo myèl. Li bèl gason nan tout kò li. Se konsa mennaj mwen an ye, se konsa zanmi m' lan ye, medam lavil Jerizalèm!
 
 ### Chapter 6
 
@@ -36652,7 +36652,7 @@
 
 **[6:12]** Apre sa, m' pa konn sa ki pase m'. M' santi m' tankou yon sòlda sou cha lagè ki anvi al goumen.
 
-**[6:13]** Tounen non, fanm lavil Choulam! Tounen! Tounen non pou n' ka gade ou! Poukisa nou vle gade fanm lavil Choulam lan k'ap danse nan mitan de ran moun?  
+**[6:13]** Tounen non, fanm lavil Choulam! Tounen! Tounen non pou n' ka gade ou! Poukisa nou vle gade fanm lavil Choulam lan k'ap danse nan mitan de ran moun?
 
 ### Chapter 7
 
@@ -36680,7 +36680,7 @@
 
 **[7:12]** Nan maten, n'apral gade pye rezen yo pou wè si yo konmanse boujonnen, si flè yo ap louvri, si pye grenad yo ap fleri. Se la n'a karese nèt ale.
 
-**[7:13]** Ou ka pran sant mandragò yo. Devan papòt nou an gen tout kalite bon fwi, fwi ki fèk keyi ak fwi ki byen mi. Mennaj mwen, se mwen ki te sere yo pou ou.  
+**[7:13]** Ou ka pran sant mandragò yo. Devan papòt nou an gen tout kalite bon fwi, fwi ki fèk keyi ak fwi ki byen mi. Mennaj mwen, se mwen ki te sere yo pou ou.
 
 ### Chapter 8
 
@@ -36710,7 +36710,7 @@
 
 **[8:13]** Zanmi kanmarad ap pare zòrèy pou tande ou. Fè m' tande vwa ou non, ou menm ki rete nan jaden yo!
 
-**[8:14]** Kouri non, mennaj mwen! Kouri tankou yon kabrit, tankou yon jenn ti kabrit sou mòn ki gen bon sant yo!   
+**[8:14]** Kouri non, mennaj mwen! Kouri tankou yon kabrit, tankou yon jenn ti kabrit sou mòn ki gen bon sant yo!
 
 ## Isaiah
 
@@ -36776,7 +36776,7 @@
 
 **[1:30]** N'ap tankou yon pye bwadchenn k'ap deperi, tankou yon jaden ki pa jwenn dlo.
 
-**[1:31]** Menm jan yon ti tensèl mete dife nan yon pil fachin bwa chèch, se konsa sa gwonèg yo ap fè a ap tounen yon tizon dife nan dèyè yo. Pesonn p'ap ka fè anyen pou sove yo.  
+**[1:31]** Menm jan yon ti tensèl mete dife nan yon pil fachin bwa chèch, se konsa sa gwonèg yo ap fè a ap tounen yon tizon dife nan dèyè yo. Pesonn p'ap ka fè anyen pou sove yo.
 
 ### Chapter 2
 
@@ -36822,7 +36822,7 @@
 
 **[2:21]** Lè Seyè a va vini pou l' fè tè a tranble, yo pral kache kò yo nan twou wòch, yo pral fouye twou anba tè. Sezisman va pran yo lè y'a wè Seyè a. Y'a kouri al kache lè pouvwa li ap parèt aklè.
 
-**[2:22]** Pa mete konfyans nou nan moun parèy nou! Talè yo pa pèdi souf yo, yo pa mouri! Lè sa a, kisa yo ka fè pou nou ankò?  
+**[2:22]** Pa mete konfyans nou nan moun parèy nou! Talè yo pa pèdi souf yo, yo pa mouri! Lè sa a, kisa yo ka fè pou nou ankò?
 
 ### Chapter 3
 
@@ -36876,7 +36876,7 @@
 
 **[3:25]** Tout mesye yo pral mouri nan lagè. Tout sòlda yo pral mouri nan batay.
 
-**[3:26]** Moun pral plenn nan pòtay lavil yo, y'ap nan lapenn. Lavil la ap tankou yon fanm ki chita atè, san rad sou li.  
+**[3:26]** Moun pral plenn nan pòtay lavil yo, y'ap nan lapenn. Lavil la ap tankou yon fanm ki chita atè, san rad sou li.
 
 ### Chapter 4
 
@@ -36890,7 +36890,7 @@
 
 **[4:5]** Lajounen, Seyè a va voye yon gwo nwaj vin poze sou tout mòn Siyon an ak sou tout moun ki sanble la a. Lannwit, se va lafimen ak yon gwo flanm dife la voye. Pouvwa Bondye a pral kouvri yo, l'ap pwoteje tout lavil la.
 
-**[4:6]** Lajounen, l'ap kouvri lavil la pou chalè solèy pa bat li. L'ap pwoteje l' pou loray ak lapli pa fè l' anyen.  
+**[4:6]** Lajounen, l'ap kouvri lavil la pou chalè solèy pa bat li. L'ap pwoteje l' pou loray ak lapli pa fè l' anyen.
 
 ### Chapter 5
 
@@ -36952,7 +36952,7 @@
 
 **[5:29]** Sòlda yo gwonde tankou fenmèl lyon. Yo rele tankou yon bann ti lyon. Yo gwonde, yo tonbe sou bèt yo pran an, yo pote l' ale. Pa gen moun ki pou rache l' soti nan bouch yo!
 
-**[5:30]** Jou sa a, y'ap gwonde sou pèp Izrayèl la. Y'ap fè bri tankou lanmè lè li move. Voye je, gade peyi a! Se renk fènwa ak tray pou tout moun. Nwaj nwa bouche toupatou nan syèl la!  
+**[5:30]** Jou sa a, y'ap gwonde sou pèp Izrayèl la. Y'ap fè bri tankou lanmè lè li move. Voye je, gade peyi a! Se renk fènwa ak tray pou tout moun. Nwaj nwa bouche toupatou nan syèl la!
 
 ### Chapter 6
 
@@ -36980,7 +36980,7 @@
 
 **[6:12]** Mwen menm, Seyè a, m'a mete tout moun deyò nan peyi a. Tout peyi a pral rete san moun ladan l'.
 
-**[6:13]** Menm si rete yon sèl moun sou chak dis moun nan peyi a, y'ap toujou disparèt yo. Se va tankou lè yo koupe pye kajou ak pye bwadchenn. Chouk la ase ki va rete. Chouk sa a va pouse ankò, pèp Bondye a va kanpe ankò.  
+**[6:13]** Menm si rete yon sèl moun sou chak dis moun nan peyi a, y'ap toujou disparèt yo. Se va tankou lè yo koupe pye kajou ak pye bwadchenn. Chouk la ase ki va rete. Chouk sa a va pouse ankò, pèp Bondye a va kanpe ankò.
 
 ### Chapter 7
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** Si yon moun pa gen zam nan men l', li p'ap ka pase la. Wi, pikan ak raje pral kouvri tout peyi a.
 
-**[7:25]** Nan tout mòn kote yo te konn travay ak wou pou plante, pesonn p'ap ka ale la ankò poutèt pikan ak raje. Se bèf y'a lage la, se la mouton yo pral manje.  
+**[7:25]** Nan tout mòn kote yo te konn travay ak wou pou plante, pesonn p'ap ka ale la ankò poutèt pikan ak raje. Se bèf y'a lage la, se la mouton yo pral manje.
 
 ### Chapter 8
 
@@ -37078,7 +37078,7 @@
 
 **[8:21]** Moun pral pwonmennen mache nan tout peyi a, y'ap dekouraje, y'ap grangou. Grangou pral fè yo move, y'a rive rele madichon pou wa yo a ansanm ak Bondye yo a. Y'a leve je yo gade nan syèl,
 
-**[8:22]** y'a bese je yo gade atè. Toupatou se va renk kè sere ak fènwa, yon fènwa k'ap fè kè tout moun kase. Y'ap pèdi nan gwo fènwa. Tout moun nan peyi a te mèt gen kè kase, rive yon lè sa gen pou chanje, fènwa a p'ap toujou rete la.  
+**[8:22]** y'a bese je yo gade atè. Toupatou se va renk kè sere ak fènwa, yon fènwa k'ap fè kè tout moun kase. Y'ap pèdi nan gwo fènwa. Tout moun nan peyi a te mèt gen kè kase, rive yon lè sa gen pou chanje, fènwa a p'ap toujou rete la.
 
 ### Chapter 9
 
@@ -37122,7 +37122,7 @@
 
 **[9:20]** Yo vire adwat, yo pran sa yo jwenn, yo grangou toujou. Yo vire agoch, yo devore sa yo jwenn, se atò yo grangou. Yo menm rive manje pwòp pitit yo!
 
-**[9:21]** Moun Manase yo ak moun Efrayim yo, yonn ap devore lòt. Lèfini, yo mete tèt ansanm pou atake moun Jida yo. Men, se poko sa toujou! Se atò Seyè a move. Li poko fin regle ak yo!  
+**[9:21]** Moun Manase yo ak moun Efrayim yo, yonn ap devore lòt. Lèfini, yo mete tèt ansanm pou atake moun Jida yo. Men, se poko sa toujou! Se atò Seyè a move. Li poko fin regle ak yo!
 
 ### Chapter 10
 
@@ -37192,7 +37192,7 @@
 
 **[10:33]** Seyè sèl Mèt ki gen tout pouvwa a pral desann yo tankou branch bwa y'ap koupe mete atè. L'ap koupe tèt tou sa ki wo yo. Tou sa ki byen kanpe yo, l'ap lage yo atè.
 
-**[10:34]** L'ap koupe yo tankou lè y'ap mete rach nan gwo pyebwa nan rak. Bèl pyebwa ki sou mòn Liban yo pral kouche plat atè!  
+**[10:34]** L'ap koupe yo tankou lè y'ap mete rach nan gwo pyebwa nan rak. Bèl pyebwa ki sou mòn Liban yo pral kouche plat atè!
 
 ### Chapter 11
 
@@ -37226,7 +37226,7 @@
 
 **[11:15]** Seyè a pral voye yon van cho ki pral cheche tout dlo gwo larivyè Lejip la. Li pral cheche dlo larivyè Lefrat la. L'ap fè l' tounen sèt ti kannal dlo, konsa tout moun ka janbe l' ak tout sapat nan pye yo.
 
-**[11:16]** L'ap louvri yon gran chemen soti peyi Lasiri pou rès pèp li a k'ap viv laba a, menm jan li te fè l' pou pèp Izrayèl la jou yo t'ap soti kite Lejip la.  
+**[11:16]** L'ap louvri yon gran chemen soti peyi Lasiri pou rès pèp li a k'ap viv laba a, menm jan li te fè l' pou pèp Izrayèl la jou yo t'ap soti kite Lejip la.
 
 ### Chapter 12
 
@@ -37240,7 +37240,7 @@
 
 **[12:5]** Chante pou Seyè a, paske li fè gwo mèvèy. Fè tout moun sou latè konn sa!
 
-**[12:6]** Nou menm ki rete sou mòn Siyon an, rele, fè fèt! Bondye pèp Izrayèl la se yon Bondye apa, li gen anpil pouvwa. Se nan mitan nou li rete.  
+**[12:6]** Nou menm ki rete sou mòn Siyon an, rele, fè fèt! Bondye pèp Izrayèl la se yon Bondye apa, li gen anpil pouvwa. Se nan mitan nou li rete.
 
 ### Chapter 13
 
@@ -37286,7 +37286,7 @@
 
 **[13:21]** Se la tout bèt nan bwa pral rete. Koukou pral fè nich nan tout kay yo. Se la otrich pral fè kay yo. Se la kabrit mawon pral danse kalenda.
 
-**[13:22]** Chen mawon pral wouke nan gwo kay yo. Chat mawon pral pran plezi yo nan bèl palè yo. Lè a prèt pou sonnen pou lavil Babilòn, jou l' prèt pou bout.  
+**[13:22]** Chen mawon pral wouke nan gwo kay yo. Chat mawon pral pran plezi yo nan bèl palè yo. Lè a prèt pou sonnen pou lavil Babilòn, jou l' prèt pou bout.
 
 ### Chapter 14
 
@@ -37352,7 +37352,7 @@
 
 **[14:31]** Nou menm k'ap veye pòtay lavil moun Filisti yo, nou mèt plenn kont kò nou! Nou menm ki rete anndan lavil yo, nou mèt pouse kont rèl nou. Nou tout moun peyi Filisti yo, nou mèt tranble nan tout kò nou. Yon nwaj nwa ap vini soti nan nò. Se yon gwo lame. Pa gen yonn nan sòlda li yo k'ap fè kazwèl!
 
-**[14:32]** Kisa n'a reponn mesaje moun peyi Filisti yo va voye kote nou an? N'a di yo se Seyè a menm ki mete peyi Siyon an kanpe ankò pou tout bon. Se la tout pèp li a, pèp ki t'ap soufri a, va vin jwenn pwoteksyon.  
+**[14:32]** Kisa n'a reponn mesaje moun peyi Filisti yo va voye kote nou an? N'a di yo se Seyè a menm ki mete peyi Siyon an kanpe ankò pou tout bon. Se la tout pèp li a, pèp ki t'ap soufri a, va vin jwenn pwoteksyon.
 
 ### Chapter 15
 
@@ -37372,7 +37372,7 @@
 
 **[15:8]** Toupatou, sou fwontyè peyi Moab la, se rèl. Rèl yo rive jouk nan zòrèy moun lavil Eglayim ak moun lavil Berelim.
 
-**[15:9]** Lavil Dimon, dlo larivyè a wouj ak san! Men Bondye pare yon pi gwo malè pou lavil Dimon. Se la yon lyon pral touye dènye moun peyi Moab ki te resi chape kò yo. Se la tout rès moun peyi Moab yo pral mouri.  
+**[15:9]** Lavil Dimon, dlo larivyè a wouj ak san! Men Bondye pare yon pi gwo malè pou lavil Dimon. Se la yon lyon pral touye dènye moun peyi Moab ki te resi chape kò yo. Se la tout rès moun peyi Moab yo pral mouri.
 
 ### Chapter 16
 
@@ -37402,7 +37402,7 @@
 
 **[16:13]** Anvan sa, men sa Seyè a te di k'ap rive lavil Moab la.
 
-**[16:14]** Koulye a, Seyè a pale ankò. Li di konsa: Nan twazan, jou pou jou, tankou moun k'ap travay pou lajan kalkile lè travay yo, yo pral pase sa ki fè pouvwa peyi Moab la nan tenten. Atout li gen anpil moun koulye a, se de twa ase ki pral rete, yon ti ponyen tou fèb ki p'ap vo anyen!  
+**[16:14]** Koulye a, Seyè a pale ankò. Li di konsa: Nan twazan, jou pou jou, tankou moun k'ap travay pou lajan kalkile lè travay yo, yo pral pase sa ki fè pouvwa peyi Moab la nan tenten. Atout li gen anpil moun koulye a, se de twa ase ki pral rete, yon ti ponyen tou fèb ki p'ap vo anyen!
 
 ### Chapter 17
 
@@ -37432,7 +37432,7 @@
 
 **[17:13]** Nasyon yo ap bat kò yo tankou lanmè lè li move. Men, Bondye rele dèyè yo, li fè yo kouri al byen lwen. Li bwote yo ale tankou van k'ap leve pousyè sou mòn yo, tankou van siklòn k'ap pote pay ale.
 
-**[17:14]** Nan aswè, y'ap bay moun kè sote. Anvan solèy leve, w'ap chache yo, ou p'ap jwenn yo. Men sa k'ap tann tout moun k'ap piye nou yo, moun k'ap pwofite sou nou yo.  
+**[17:14]** Nan aswè, y'ap bay moun kè sote. Anvan solèy leve, w'ap chache yo, ou p'ap jwenn yo. Men sa k'ap tann tout moun k'ap piye nou yo, moun k'ap pwofite sou nou yo.
 
 ### Chapter 18
 
@@ -37448,7 +37448,7 @@
 
 **[18:6]** Yo pral kite kadav sòlda yo konsa pou zwezo ki manje vyann epi ki rete nan mòn ak pou bèt nan bwa. Nan sezon chalè, zwezo va vin manje yo. Nan sezon fredi, se bèt nan bwa ki va vin manje yo.
 
-**[18:7]** Lè sa a, bann moun bèl wotè ki gen po yo boule nan solèy, pèp tout moun pè a, moun ki rete nan gwo peyi ki gen fò anpil la, yo menm ki rete nan peyi ki nan tèt dlo larivyè Nil lan, y'a pote kado bay Seyè ki gen tout pouvwa a. Y'a vin jouk sou mòn Siyon an kote moun fè sèvis pou Seyè ki gen tout pouvwa a.  
+**[18:7]** Lè sa a, bann moun bèl wotè ki gen po yo boule nan solèy, pèp tout moun pè a, moun ki rete nan gwo peyi ki gen fò anpil la, yo menm ki rete nan peyi ki nan tèt dlo larivyè Nil lan, y'a pote kado bay Seyè ki gen tout pouvwa a. Y'a vin jouk sou mòn Siyon an kote moun fè sèvis pou Seyè ki gen tout pouvwa a.
 
 ### Chapter 19
 
@@ -37500,7 +37500,7 @@
 
 **[19:24]** Lè sa a, peyi Izrayèl la va sou menm pye ak peyi Lejip ansanm ak peyi Lasiri: twa nasyon sa yo va yon benediksyon pou tout moun sou latè.
 
-**[19:25]** Seyè a va beni yo, l'a di konsa: -benediksyon pou Lejip, pèp mwen an, pou Lasiri mwen te fè ak men mwen an, ak pou Izrayèl ki rele m' pa m' lan.  
+**[19:25]** Seyè a va beni yo, l'a di konsa: -benediksyon pou Lejip, pèp mwen an, pou Lasiri mwen te fè ak men mwen an, ak pou Izrayèl ki rele m' pa m' lan.
 
 ### Chapter 20
 
@@ -37514,7 +37514,7 @@
 
 **[20:5]** Moun ki te konte sou peyi Letiopi ak moun ki t'ap fè lwanj peyi Lejip yo pral wont, yo pral dekouraje.
 
-**[20:6]** Lè jou sa a va rive, moun ki rete sou rivaj peyi Filisti a va di: Gade sa ki rive moun sa yo! Epi se sou yo nou te konte, se lakay yo nou te fè lide al chache pwoteksyon pou yo te ka sove nou anba men wa peyi Lasiri a! Koulye a, kote n'ap bay tèt pou n' chape kò nou?  
+**[20:6]** Lè jou sa a va rive, moun ki rete sou rivaj peyi Filisti a va di: Gade sa ki rive moun sa yo! Epi se sou yo nou te konte, se lakay yo nou te fè lide al chache pwoteksyon pou yo te ka sove nou anba men wa peyi Lasiri a! Koulye a, kote n'ap bay tèt pou n' chape kò nou?
 
 ### Chapter 21
 
@@ -37550,7 +37550,7 @@
 
 **[21:16]** Lè sa a, Seyè a di m' konsa: -Nan yon lanne, jou pou jou, tankou moun k'ap travay pou lajan kalkile lè travay yo, p'ap rete anyen nan tout bèl pouvwa peyi Keda a!
 
-**[21:17]** Ou tande jan nan peyi sa a gen anpil vanyan sòlda ki konn tire banza byen? Enben! Se de twa ase ki va rete. Se mwen menm, Seyè a, Bondye pèp Izrayèl la, ki di sa.  
+**[21:17]** Ou tande jan nan peyi sa a gen anpil vanyan sòlda ki konn tire banza byen? Enben! Se de twa ase ki va rete. Se mwen menm, Seyè a, Bondye pèp Izrayèl la, ki di sa.
 
 ### Chapter 22
 
@@ -37602,7 +37602,7 @@
 
 **[22:24]** Men, tout fanmi l', tout ti fanmi l' yo pral tounen yon chay twò lou pou li. Yo pral pandye nan kou l' tankou gode ak bòl ki pandye nan yon zegwi bwa.
 
-**[22:25]** Lè sa a, men sa Seyè a, Bondye ki gen tout pouvwa a di: Zegwi yo te fè antre byen fon nan poto a pral rache. L'ap soti, l'ap tonbe atè, epi tout chay ki sou li a pral tonbe tou. Se Seyè a ki di sa.  
+**[22:25]** Lè sa a, men sa Seyè a, Bondye ki gen tout pouvwa a di: Zegwi yo te fè antre byen fon nan poto a pral rache. L'ap soti, l'ap tonbe atè, epi tout chay ki sou li a pral tonbe tou. Se Seyè a ki di sa.
 
 ### Chapter 23
 
@@ -37640,7 +37640,7 @@
 
 **[23:17]** Wi, apre swasanndizan, Seyè a va kite lavil Tir reprann menm vye kòmès li a. Lavil Tir pral lage kò l' nan fè bagay derespektan ankò, li pral nan fè dezòd ak tout chèf k'ap gouvènen toupatou sou latè.
 
-**[23:18]** Men, y'ap pran lajan y'ap ba li a ansanm ak benefis l'ap fè nan kòmès sal li a, y'ap mete yo apa pou Seyè a. Li p'ap ka ranmase yo pou l' sere. Se moun k'ap sèvi Seyè a ki pral sèvi ak lajan sa a pou achte manje plen vant yo ak bèl rad pou mete sou yo.  
+**[23:18]** Men, y'ap pran lajan y'ap ba li a ansanm ak benefis l'ap fè nan kòmès sal li a, y'ap mete yo apa pou Seyè a. Li p'ap ka ranmase yo pou l' sere. Se moun k'ap sèvi Seyè a ki pral sèvi ak lajan sa a pou achte manje plen vant yo ak bèl rad pou mete sou yo.
 
 ### Chapter 24
 
@@ -37688,7 +37688,7 @@
 
 **[24:22]** L'ap mete yo ansanm nan prizon nan yon tonm. L'ap fèmen yo nan kacho. Apre yon bon tan, l'ap pini yo.
 
-**[24:23]** lalin lan pral vin tou nwa. Solèy la p'ap klere ankò, paske Seyè ki gen tout pouvwa a pral sèl wa. Li pral gouvènen nan lavil Jerizalèm sou tèt mòn Siyon an. Tout chèf fanmi pèp li a pral wè gwo pouvwa li.  
+**[24:23]** lalin lan pral vin tou nwa. Solèy la p'ap klere ankò, paske Seyè ki gen tout pouvwa a pral sèl wa. Li pral gouvènen nan lavil Jerizalèm sou tèt mòn Siyon an. Tout chèf fanmi pèp li a pral wè gwo pouvwa li.
 
 ### Chapter 25
 
@@ -37714,7 +37714,7 @@
 
 **[25:11]** Nan mitan labou a, y'a lonje bra yo tankou si yo ta vle naje soti. Men Seyè a pral kraze lògèy yo, l'ap defèt tou sa yo te fè ak men yo.
 
-**[25:12]** L'ap kraze gwo ranpa byen wo yo te bati sou miray yo, l'ap jete yo plat atè, l'ap fè yo tounen pousyè.  
+**[25:12]** L'ap kraze gwo ranpa byen wo yo te bati sou miray yo, l'ap jete yo plat atè, l'ap fè yo tounen pousyè.
 
 ### Chapter 26
 
@@ -37758,7 +37758,7 @@
 
 **[26:20]** Ale non, pèp mwen an! Antre lakay nou. Fèmen pòt dèyè nou. Kache kò nou pou yon ti tan, jouk kòlè Bondye a va fin pase.
 
-**[26:21]** Seyè a ap met deyò, li pral pini mezi moun sou latè ki fè krim. Yo pral devwale tout krim yo te fè an kachèt. Yo pral dekouvri kadav tout moun yo te touye.  
+**[26:21]** Seyè a ap met deyò, li pral pini mezi moun sou latè ki fè krim. Yo pral devwale tout krim yo te fè an kachèt. Yo pral dekouvri kadav tout moun yo te touye.
 
 ### Chapter 27
 
@@ -37786,7 +37786,7 @@
 
 **[27:12]** Jou sa a, tankou lè y'ap bat pwa sou glasi, se Seyè a menm ki pral jije tout moun nan peyi a, depi bò larivyè Lefrat la jouk ravin ki sou fwontyè ak peyi Lejip la. Apre sa, nou menm pitit Izrayèl yo, l'ap ranmase nou grenn pa grenn, tankou lè y'ap ranmase grenn pwa sou glasi.
 
-**[27:13]** Wi, jou sa a, y'a kònen gwo twonpèt la. Tout moun ki t'ap deperi nan peyi Lasiri, tout moun yo te depòte nan peyi Lejip yo pral tounen lakay yo. Y'ap vin adore Seyè a sou mòn ki apa pou li a, nan lavil Jerizalèm.  
+**[27:13]** Wi, jou sa a, y'a kònen gwo twonpèt la. Tout moun ki t'ap deperi nan peyi Lasiri, tout moun yo te depòte nan peyi Lejip yo pral tounen lakay yo. Y'ap vin adore Seyè a sou mòn ki apa pou li a, nan lavil Jerizalèm.
 
 ### Chapter 28
 
@@ -37846,7 +37846,7 @@
 
 **[28:28]** Lè y'ap bat ble a pou degrennen l', yo pa bat li san rete. Yo konnen jan pou yo fè woulo a pase sou ble a san yo pa kraze grenn yo.
 
-**[28:29]** Tout konesans sa a se nan Bondye ki gen tout pouvwa a li soti. Plan travay li se bèl bagay. Li bay bon konsèy, li gen anpil bon konprann.  
+**[28:29]** Tout konesans sa a se nan Bondye ki gen tout pouvwa a li soti. Plan travay li se bèl bagay. Li bay bon konsèy, li gen anpil bon konprann.
 
 ### Chapter 29
 
@@ -37896,7 +37896,7 @@
 
 **[29:23]** Lè y'a wè pitit mwen menm m'ap ba yo nan kò kay yo, y'a rekonèt se yon Bondye apa mwen ye. Y'a rekonèt Bondye fanmi Jakòb la se yon Bondye apa. Y'a respekte m', y'a genyen m' krentif.
 
-**[29:24]** Moun ki te pèdi tèt yo va rive gen bon konprann. Moun ki te toujou ap bougonnen yo va kontan aprann nan men mwen.  
+**[29:24]** Moun ki te pèdi tèt yo va rive gen bon konprann. Moun ki te toujou ap bougonnen yo va kontan aprann nan men mwen.
 
 ### Chapter 30
 
@@ -37964,7 +37964,7 @@
 
 **[30:32]** Chak fwa Seyè a va ba yo yon kout baton pou l' pini yo, y'a tande son tanbou ak son gita k'ap jwe nan peyi Izrayèl. Se Seyè a menm ki pral goumen ak moun Lasiri yo.
 
-**[30:33]** Depi lontan yo te pare yon gwo twou pou dife boukan an. Se ladan l' yo pral boule wa a. Yo fè twou a byen fon, byen laj. Yo plen l' bwa. Seyè a pral soufle yon flanm dife melanje ak souf sou li pou boule l'.  
+**[30:33]** Depi lontan yo te pare yon gwo twou pou dife boukan an. Se ladan l' yo pral boule wa a. Yo fè twou a byen fon, byen laj. Yo plen l' bwa. Seyè a pral soufle yon flanm dife melanje ak souf sou li pou boule l'.
 
 ### Chapter 31
 
@@ -37984,7 +37984,7 @@
 
 **[31:8]** Lagè pral fini ak peyi Lasiri, men se pa moun ki pral fè lagè avè l'. Lè batay la, li pral kouri met deyò, men y'ap pran tout jenn gason l' yo fè yo tounen esklav.
 
-**[31:9]** Wa a menm pral kouri met deyò sitèlman l'ap pè. Yon sèl latranblad pral pran chèf lagè li yo, y'ap lage drapo yo atè kouri ale. Seyè a pale, se pou li dife k'ap boule sou mòn Siyon an, se pou li gwo boukan ki nan lavil Jerizalèm lan.  
+**[31:9]** Wa a menm pral kouri met deyò sitèlman l'ap pè. Yon sèl latranblad pral pran chèf lagè li yo, y'ap lage drapo yo atè kouri ale. Seyè a pale, se pou li dife k'ap boule sou mòn Siyon an, se pou li gwo boukan ki nan lavil Jerizalèm lan.
 
 ### Chapter 32
 
@@ -38026,7 +38026,7 @@
 
 **[32:19]** Men lagrèl pral tonbe sou gwo rakbwa a. Yo pral kraze lavil la.
 
-**[32:20]** Ala kontan n'a kontan jwenn kont dlo nou pou fè jaden! Lè sa a, nou p'ap bezwen mete bèf ak bourik nou yo nan kòd ankò!  
+**[32:20]** Ala kontan n'a kontan jwenn kont dlo nou pou fè jaden! Lè sa a, nou p'ap bezwen mete bèf ak bourik nou yo nan kòd ankò!
 
 ### Chapter 33
 
@@ -38076,7 +38076,7 @@
 
 **[33:23]** Tout kòd batiman yo p'ap sèvi yo anyen. Ma yo pèdi fòs, vwal yo pa ka louvri. Y'ap piye tou sa lènmi yo te pote sou batiman yo. Ata moun enfenm pral nan piyay la tou.
 
-**[33:24]** Pesonn nan peyi a p'ap plenyen di li malad ankò. Bondye pral padonnen peche tout moun ki rete lavil Jerizalèm.  
+**[33:24]** Pesonn nan peyi a p'ap plenyen di li malad ankò. Bondye pral padonnen peche tout moun ki rete lavil Jerizalèm.
 
 ### Chapter 34
 
@@ -38112,7 +38112,7 @@
 
 **[34:16]** Ale gade nan liv Bondye a. Li sa ki ladan l'. Pa manke yon sèl nan tout bèt li kreye yo. Yo yonn pa pèdi parèy yo. Se Seyè a menm ki bay lòd sa a. Se lespri li k'ap mete yo ansanm yonn ak lòt.
 
-**[34:17]** Se li menm menm ki pral separe tè a ba yo chak pòsyon pa yo. Y'ap rete nan peyi a pou tout tan. Peyi a va rele yo pa yo jouk sa kaba.  
+**[34:17]** Se li menm menm ki pral separe tè a ba yo chak pòsyon pa yo. Y'ap rete nan peyi a pou tout tan. Peyi a va rele yo pa yo jouk sa kaba.
 
 ### Chapter 35
 
@@ -38134,7 +38134,7 @@
 
 **[35:9]** P'ap gen lyon sou wout sa a. P'ap gen bèt bwa k'ap pase la. Se moun Seyè a delivre ase ki pral vwayaje sou li. P'ap gen lòt moun ankò!
 
-**[35:10]** Moun Seyè a te delivre yo pral tounen. Y'ap rive lavil Siyon ak chante nan bouch yo, ak kè kontan make sou figi yo. Tout moun pral kontan, yo pral fè fèt. Moun p'ap nan lapenn. Ou p'ap tande plenyen ankò!  
+**[35:10]** Moun Seyè a te delivre yo pral tounen. Y'ap rive lavil Siyon ak chante nan bouch yo, ak kè kontan make sou figi yo. Tout moun pral kontan, yo pral fè fèt. Moun p'ap nan lapenn. Ou p'ap tande plenyen ankò!
 
 ### Chapter 36
 
@@ -38180,7 +38180,7 @@
 
 **[36:21]** Men pèp la pa louvri bouch li reponn. Yo pa di yon mo paske wa a te bay lòd pou pesonn pa reponn.
 
-**[36:22]** Apre sa, Elyakim, pitit Ilkiya a, ki te chèf moun k'ap travay nan palè a, Chebna, sekretè a, ak Joak, pitit Asaf la, ki te reskonsab achiv leta a, chire rad sou yo sitèlman sa te fè yo lapenn. Yo tounen al jwenn Ezekyas, yo rapòte l' tou sa chèf gad palè wa Lasiri a te di.  
+**[36:22]** Apre sa, Elyakim, pitit Ilkiya a, ki te chèf moun k'ap travay nan palè a, Chebna, sekretè a, ak Joak, pitit Asaf la, ki te reskonsab achiv leta a, chire rad sou yo sitèlman sa te fè yo lapenn. Yo tounen al jwenn Ezekyas, yo rapòte l' tou sa chèf gad palè wa Lasiri a te di.
 
 ### Chapter 37
 
@@ -38258,7 +38258,7 @@
 
 **[37:37]** Senakerib, wa peyi Lasiri a, leve, li pati. Li tounen lavil Niniv.
 
-**[37:38]** Yon jou, antan wa a t'ap fè sèvis nan tanp Niswòk, bondye li a, de nan pitit gason l' yo touye l' ak nepe yo, epi yo kouri al kache nan peyi Arara. Yo te rele Adramelèk ak Sarezè. Se yon lòt nan pitit gason l' yo ki te rele Asaradon, ki te vin moute wa nan plas li.  
+**[37:38]** Yon jou, antan wa a t'ap fè sèvis nan tanp Niswòk, bondye li a, de nan pitit gason l' yo touye l' ak nepe yo, epi yo kouri al kache nan peyi Arara. Yo te rele Adramelèk ak Sarezè. Se yon lòt nan pitit gason l' yo ki te rele Asaradon, ki te vin moute wa nan plas li.
 
 ### Chapter 38
 
@@ -38304,7 +38304,7 @@
 
 **[38:21]** Ezayi mande pou yo fè yon kataplas ak fig frans mete sou kote wa a malad la, pou li ka geri.
 
-**[38:22]** Lè sa a, wa Ezekyas mande: -Kisa k'ap fè m' konnen m'a ka al nan tanp lan ankò?  
+**[38:22]** Lè sa a, wa Ezekyas mande: -Kisa k'ap fè m' konnen m'a ka al nan tanp lan ankò?
 
 ### Chapter 39
 
@@ -38322,7 +38322,7 @@
 
 **[39:7]** Y'ap pran kèk nan pwòp pitit pitit ou yo, y'ap depòte yo, y'ap chatre yo pou yo ka sèvi nèg konfyans nan palè wa Babilòn lan.
 
-**[39:8]** Ezekyas reponn Ezayi, li di l' konsa: -Mesaj Bondye ba ou pou di m' lan gen tan bon. Men li t'ap di nan kè l': Depi pa gen boulvès, depi pa gen lagè nan peyi a tout tan m'ap viv la!  
+**[39:8]** Ezekyas reponn Ezayi, li di l' konsa: -Mesaj Bondye ba ou pou di m' lan gen tan bon. Men li t'ap di nan kè l': Depi pa gen boulvès, depi pa gen lagè nan peyi a tout tan m'ap viv la!
 
 ### Chapter 40
 
@@ -38386,7 +38386,7 @@
 
 **[40:30]** Jenn gason konn pèdi souf, yo konn bouke. Lè konsa, yo bite, yo tonbe.
 
-**[40:31]** Men, Seyè a ap bay moun ki mete konfyans yo nan li fòs ankò. Tankou malfini, y'ap pran zèl pou yo leve ale. Y'ap kouri san yo p'ap janm bouke. Y'ap mache, yo p'ap janm febli.  
+**[40:31]** Men, Seyè a ap bay moun ki mete konfyans yo nan li fòs ankò. Tankou malfini, y'ap pran zèl pou yo leve ale. Y'ap kouri san yo p'ap janm bouke. Y'ap mache, yo p'ap janm febli.
 
 ### Chapter 41
 
@@ -38446,7 +38446,7 @@
 
 **[41:28]** Lè mwen gade nan tout bondye nou yo, mwen pa wè yonn ki te gen anyen pou l' te di. Pa t' gen yonn ki ta kapab reponn mwen si m' ta mande l' anyen.
 
-**[41:29]** Tout bondye sa yo pa vo anyen. Yo pa kapab fè anyen menm. Estati zidòl yo, se van. Yo pa vo anyen.  
+**[41:29]** Tout bondye sa yo pa vo anyen. Yo pa kapab fè anyen menm. Estati zidòl yo, se van. Yo pa vo anyen.
 
 ### Chapter 42
 
@@ -38498,7 +38498,7 @@
 
 **[42:24]** Ki moun ki te lage moun Jakòb yo nan men vòlò yo? Ki moun ki te lage moun Izrayèl yo nan men piyajè yo? Se te Seyè a menm ki te fè sa. Nou te fè peche kont li. Nou pa t' vle viv jan l' te mande nou viv la. Nou pa t' vle swiv lòd li.
 
-**[42:25]** Se konsa, li fè pèp la santi jan l' te move, li fè yo konnen soufrans lagè. Tankou dife, kòlè Bondye tonbe sou tout peyi a. Men yo yonn pa t' vle rekonèt sa. Kòlè Bondye boule peyi a nèt. Men, yo yonn pa t' pran sa pou anyen!  
+**[42:25]** Se konsa, li fè pèp la santi jan l' te move, li fè yo konnen soufrans lagè. Tankou dife, kòlè Bondye tonbe sou tout peyi a. Men yo yonn pa t' vle rekonèt sa. Kòlè Bondye boule peyi a nèt. Men, yo yonn pa t' pran sa pou anyen!
 
 ### Chapter 43
 
@@ -38556,7 +38556,7 @@
 
 **[43:27]** Premye zansèt nou an te fè sa li pa t' dwe fè. Mesaje nou yo te vire do ban mwen.
 
-**[43:28]** Se poutèt sa mwen avili moun ki reskonsab kay yo mete apa pou mwen an. Se poutèt sa mwen lage fanmi Jakòb la pou yo detwi yo nèt. Mwen kite yo pase moun pèp Izrayèl yo nan betiz.  
+**[43:28]** Se poutèt sa mwen avili moun ki reskonsab kay yo mete apa pou mwen an. Se poutèt sa mwen lage fanmi Jakòb la pou yo detwi yo nèt. Mwen kite yo pase moun pèp Izrayèl yo nan betiz.
 
 ### Chapter 44
 
@@ -38614,7 +38614,7 @@
 
 **[44:27]** Mwen menm ki te bay lanmè a lòd pou li cheche, m'ap cheche tout rivyè nou yo.
 
-**[44:28]** Mwen di wa Siris se li ki pral gouvènen pou mwen! Li pral fè tou sa m'a mande l' fè. Li pral bay lòd pou yo rebati lavil Jerizalèm, pou yo refè fondasyon tanp Bondye a.  
+**[44:28]** Mwen di wa Siris se li ki pral gouvènen pou mwen! Li pral fè tou sa m'a mande l' fè. Li pral bay lòd pou yo rebati lavil Jerizalèm, pou yo refè fondasyon tanp Bondye a.
 
 ### Chapter 45
 
@@ -38666,7 +38666,7 @@
 
 **[45:24]** Y'a di: Se nan Seyè a sèl nou jwenn jistis ak fòs kouraj! Tout moun ki t'ap kenbe tèt avè l' yo pral wont, y'ap vin nan pye l'.
 
-**[45:25]** Men, gremesi Seyè a, moun ras Izrayèl yo pral kanpe ankò. Yo pral fè lwanj mwen.  
+**[45:25]** Men, gremesi Seyè a, moun ras Izrayèl yo pral kanpe ankò. Yo pral fè lwanj mwen.
 
 ### Chapter 46
 
@@ -38694,7 +38694,7 @@
 
 **[46:12]** Koute sa m'ap di nou, bann tèt di, nou menm ki pa soti pou fè sa ki dwat:
 
-**[46:13]** M'ap fè jou delivrans nou an pwoche. Li pa lwen rive. Mwen p'ap mize vin delivre nou. Mwen pral delivre mòn Siyon. Mwen pral fè pèp Izrayèl la wè pouvwa mwen.  
+**[46:13]** M'ap fè jou delivrans nou an pwoche. Li pa lwen rive. Mwen p'ap mize vin delivre nou. Mwen pral delivre mòn Siyon. Mwen pral fè pèp Izrayèl la wè pouvwa mwen.
 
 ### Chapter 47
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Yo tankou ti moso pay. Yon sèl dife pral boule yo. Yo p'ap menm ka sove pwòp tèt pa yo. Se p'ap yon ti dife tankou dife yo fè pou kwit manje ni tankou boukan yo limen pou moun chofe dife.
 
-**[47:15]** Men kote konsèy moun sa yo ap mennen ou. Ou te touye tèt ou ap sèvi yo depi ou te jenn tifi. Y'ap kouri kite ou, yo chak bò pa yo. Yo yonn p'ap rete pou delivre ou!  
+**[47:15]** Men kote konsèy moun sa yo ap mennen ou. Ou te touye tèt ou ap sèvi yo depi ou te jenn tifi. Y'ap kouri kite ou, yo chak bò pa yo. Yo yonn p'ap rete pou delivre ou!
 
 ### Chapter 48
 
@@ -38772,7 +38772,7 @@
 
 **[48:21]** Lè li t'ap mennen yo nan dezè a, yo pa t' swaf dlo. Li fè sous dlo pete nan wòch pou yo. Li fann wòch la, dlo koule soti.
 
-**[48:22]** Men Seyè a di: Pa gen kè poze pou mechan yo!  
+**[48:22]** Men Seyè a di: Pa gen kè poze pou mechan yo!
 
 ### Chapter 49
 
@@ -38826,7 +38826,7 @@
 
 **[49:25]** Men sa Seyè a reponn: Wi! Yo ka wete nan men yon vanyan sòlda sa li pran nan lagè. Yo ka lage prizonye ki anba men yon gwo chèf. M'ap goumen pou nou ak tout moun k'ap fè nou lagè. M'a delivre pitit nou yo.
 
-**[49:26]** Moun k'ap fè nou pase tray yo, m'ap fè yo yonn manje lòt. Y'ap bwè pwòp san yo jouk y'a sou tankou moun ki bwè diven. Lè sa a, tout moun va konnen se mwen menm, Seyè a, k'ap sove nou. Se mwen menm, Bondye fanmi Jakòb la, Bondye ki gen pouvwa a, k'ap delivre nou.  
+**[49:26]** Moun k'ap fè nou pase tray yo, m'ap fè yo yonn manje lòt. Y'ap bwè pwòp san yo jouk y'a sou tankou moun ki bwè diven. Lè sa a, tout moun va konnen se mwen menm, Seyè a, k'ap sove nou. Se mwen menm, Bondye fanmi Jakòb la, Bondye ki gen pouvwa a, k'ap delivre nou.
 
 ### Chapter 50
 
@@ -38850,7 +38850,7 @@
 
 **[50:10]** Nou tout ki gen krentif pou Seyè a, nou tout k'ap koute pawòl sèvitè li a, nou wè jan chemen m'ap swiv la fè nwa san yon ti limyè ladan l'. Se pou nou met konfyans nou nan Seyè a. Apiye sou Bondye nou an!
 
-**[50:11]** Men nou tout k'ap pouse dife, k'ap fè plan pou detwi lòt moun, se nou menm ki pral boule nan dife nou limen an, se nou menm ki pral pran nan plan n'ap fè yo. Se Seyè a menm ki pral fè sa rive nou: Nou pral tòde ak doulè nan kabann nou.  
+**[50:11]** Men nou tout k'ap pouse dife, k'ap fè plan pou detwi lòt moun, se nou menm ki pral boule nan dife nou limen an, se nou menm ki pral pran nan plan n'ap fè yo. Se Seyè a menm ki pral fè sa rive nou: Nou pral tòde ak doulè nan kabann nou.
 
 ### Chapter 51
 
@@ -38898,7 +38898,7 @@
 
 **[51:22]** Seyè a, Bondye nou an, pale. Men sa Bondye k'ap pran defans pèp li a di: -Mwen pral wete nan men nou gode mwen te ban nou bwè nan kòlè mwen an. Nou p'ap gen pou nou bwè ankò nan gode k'ap fè nou sou a.
 
-**[51:23]** Se moun ki t'ap maltrete nou yo mwen pral bay li, moun ki t'ap fè nou pase tray yo epi ki t'ap di nou: Kouche kò nou atè pou nou ka pase sou nou. Lè konsa, nou pare do nou ba yo vre atè a, yo mache sou nou, tankou sou granchemen kote moun ap pase!  
+**[51:23]** Se moun ki t'ap maltrete nou yo mwen pral bay li, moun ki t'ap fè nou pase tray yo epi ki t'ap di nou: Kouche kò nou atè pou nou ka pase sou nou. Lè konsa, nou pare do nou ba yo vre atè a, yo mache sou nou, tankou sou granchemen kote moun ap pase!
 
 ### Chapter 52
 
@@ -38930,7 +38930,7 @@
 
 **[52:14]** Menm jan anpil moun te pran sezisman lè yo te wè l', sitèlman li te defigire, sitèlman figi l' pa t' sanble menm ak figi moun,
 
-**[52:15]** konsa tou, anpil nasyon va kontan lè y'a wè l' fwa sa a. Wa yo va rete bouch be devan li sitèlman y'a sezi. Paske y'a wè bagay moun pa t' janm rakonte yo anvan sa, y'a konprann bagay yo pa t' janm tande anvan.  
+**[52:15]** konsa tou, anpil nasyon va kontan lè y'a wè l' fwa sa a. Wa yo va rete bouch be devan li sitèlman y'a sezi. Paske y'a wè bagay moun pa t' janm rakonte yo anvan sa, y'a konprann bagay yo pa t' janm tande anvan.
 
 ### Chapter 53
 
@@ -38956,7 +38956,7 @@
 
 **[53:11]** Apre tout soufrans sa yo, l'a jwenn kè kontan ankò. L'a konnen li pa t' soufri pou gremesi. Li te sèvi Bondye yon jan ki kòrèk nèt. Li te pran chatiman anpil moun sou do l'. L'a fè Bondye fè yo gras.
 
-**[53:12]** Se poutèt sa, m'ap pran l' mete l' chèf. M'ap ba li plas nan mitan grannèg yo. L'ap gen menm pouvwa ak gwo chèf yo. Paske se limenm menm ki te bay tèt li pou l' mouri konsa. Li te kite yo mete l' ansanm ak krimenèl yo. Li pran plas anpil moun ki t'ap fè sa ki mal. Li mande padon pou moun ki te fè mal yo.  
+**[53:12]** Se poutèt sa, m'ap pran l' mete l' chèf. M'ap ba li plas nan mitan grannèg yo. L'ap gen menm pouvwa ak gwo chèf yo. Paske se limenm menm ki te bay tèt li pou l' mouri konsa. Li te kite yo mete l' ansanm ak krimenèl yo. Li pran plas anpil moun ki t'ap fè sa ki mal. Li mande padon pou moun ki te fè mal yo.
 
 ### Chapter 54
 
@@ -38992,7 +38992,7 @@
 
 **[54:16]** Se mwen menm ki kreye bòs fòjon k'ap chofe dife chabon pou fè tout kalite zam. Se mwen menm tou ki fè lwijanboje yo pou kraze brize.
 
-**[54:17]** Men, tout zam y'a fè pou sèvi kont ou yo p'ap fè ou anyen. W'a gen repons nan bouch ou pou tout moun ki va akize ou nan tribinal. Se sa m'ap fè pou tout sèvitè m' yo. Se mwen k'ap defann kòz yo. Se Seyè a menm ki di sa!  
+**[54:17]** Men, tout zam y'a fè pou sèvi kont ou yo p'ap fè ou anyen. W'a gen repons nan bouch ou pou tout moun ki va akize ou nan tribinal. Se sa m'ap fè pou tout sèvitè m' yo. Se mwen k'ap defann kòz yo. Se Seyè a menm ki di sa!
 
 ### Chapter 55
 
@@ -39020,7 +39020,7 @@
 
 **[55:12]** N'a kite lavil Babilòn ak kè kontan. Y'a mennen nou tounen lakay nou ak kè poze. Gwo mòn yo ak ti mòn yo va pran chante pou nou sitèlman y'a kontan. Tout pyebwa nan plenn yo va bat bravo pou nou!
 
-**[55:13]** Pye pichpen va pouse kote ki te plen pikan. Pye ilan-ilan va pouse kote ki te plen chadwon. Sa va sèvi yon lwanj pou Seyè a, yon remak k'ap la pou tout tan, yon siy pesonn p'ap ka detwi.  
+**[55:13]** Pye pichpen va pouse kote ki te plen pikan. Pye ilan-ilan va pouse kote ki te plen chadwon. Sa va sèvi yon lwanj pou Seyè a, yon remak k'ap la pou tout tan, yon siy pesonn p'ap ka detwi.
 
 ### Chapter 56
 
@@ -39046,7 +39046,7 @@
 
 **[56:11]** Yo tankou chen aloufa, anyen pa janm kont yo. Se yon bann chèf san konprann. Yo tout fè sa yo pito. Se avantaj yo ase y'ap defann.
 
-**[56:12]** Y'ap plede di: Vini non! N'a jwenn diven. N'a pran kèk bon razad gwòg. Denmen menm, bagay la ap pi bon toujou pase jòdi a.  
+**[56:12]** Y'ap plede di: Vini non! N'a jwenn diven. N'a pran kèk bon razad gwòg. Denmen menm, bagay la ap pi bon toujou pase jòdi a.
 
 ### Chapter 57
 
@@ -39090,7 +39090,7 @@
 
 **[57:20]** Men, mechan yo tankou lanmè ki boulvèse. Lanm lanmè yo ap bat san rete, y'ap jete kras ak labou sou rivaj la.
 
-**[57:21]** Bondye mwen an di: Pa gen kè poze pou mechan yo.  
+**[57:21]** Bondye mwen an di: Pa gen kè poze pou mechan yo.
 
 ### Chapter 58
 
@@ -39120,7 +39120,7 @@
 
 **[58:13]** Si nou veye kò nou pou nou respekte jou repo a, pou nou pa regle pwòp zafè nou jou ki apa pou mwen an, si se yon plezi pou nou lè jou repo a rive, si nou respekte jou ki apa pou mwen menm, Seyè a, pou jou sa a nou pa nan fè sa ki nan lide nou, nou pa nan vwayaje, nou pa nan fè travay, ni nou pa nan pale vye koze,
 
-**[58:14]** lè sa a, n'a jwenn plezi nou nan fè sèvis pou mwen. M'a fè tout moun sou latè pote nou anlè, n'a jwi lavi nan peyi mwen te bay Jakòb, zansèt nou an. Se mwen menm, Seyè a, ki di sa!  
+**[58:14]** lè sa a, n'a jwenn plezi nou nan fè sèvis pou mwen. M'a fè tout moun sou latè pote nou anlè, n'a jwi lavi nan peyi mwen te bay Jakòb, zansèt nou an. Se mwen menm, Seyè a, ki di sa!
 
 ### Chapter 59
 
@@ -39164,7 +39164,7 @@
 
 **[59:20]** M'ap vin sou mòn Siyon an pou m' delivre tout moun fanmi Jakòb yo ki va vire do bay peche yo. Se Seyè a menm ki di sa.
 
-**[59:21]** Seyè a di ankò: Men kontra mwen pral pase ak yo a: M'ap mete lespri m' sou yo. M'ap ba yo lòd mwen yo pou lòd mwen yo ka nan bouch yo, nan bouch pitit yo ak nan bouch pitit pitit yo, pou tout tan tout tan. Se mwen menm Seyè a ki di sa.  
+**[59:21]** Seyè a di ankò: Men kontra mwen pral pase ak yo a: M'ap mete lespri m' sou yo. M'ap ba yo lòd mwen yo pou lòd mwen yo ka nan bouch yo, nan bouch pitit yo ak nan bouch pitit pitit yo, pou tout tan tout tan. Se mwen menm Seyè a ki di sa.
 
 ### Chapter 60
 
@@ -39210,7 +39210,7 @@
 
 **[60:21]** Tout moun nan pèp nou an va fè sa ki dwat. Y'a rete nan peyi a pou tout tan. Tankou kreyòl jaden mwen, se mwen ki plante yo, se mwen ki fè yo ak men mwen, pou m' ka fè tout moun wè pouvwa mwen.
 
-**[60:22]** Fanmi ki pi piti nan mitan nou an pral gen mil (1.000) moun. Fanmi ki pa vo anyen an pral tounen yon gwo nasyon. Se mwen menm Seyè a ki p'ap mize fè sa, lè lè a va rive.  
+**[60:22]** Fanmi ki pi piti nan mitan nou an pral gen mil (1.000) moun. Fanmi ki pa vo anyen an pral tounen yon gwo nasyon. Se mwen menm Seyè a ki p'ap mize fè sa, lè lè a va rive.
 
 ### Chapter 61
 
@@ -39234,7 +39234,7 @@
 
 **[61:10]** Se pa ti kontan kè m' kontan pou sa Seyè a fè. M'ap fè fèt pou Bondye mwen an. Paske mwen tankou yon nèg k'ap marye ki fin abiye pou nòs la, tankou yon lamarye k'ap ranje bijou l' yo sou li. Li kouvri m' ak pouvwa li pou l' sove m'. Li vlope m' nan bra li pou l' delivre m'.
 
-**[61:11]** Menm jan tè a fè ti plant yo pouse, menm jan grenn yo leve nan jaden, konsa tou, Seyè ki la pou tout tan an va delivre pèp li a. Tout nasyon va fè lwanj li toupatou.  
+**[61:11]** Menm jan tè a fè ti plant yo pouse, menm jan grenn yo leve nan jaden, konsa tou, Seyè ki la pou tout tan an va delivre pèp li a. Tout nasyon va fè lwanj li toupatou.
 
 ### Chapter 62
 
@@ -39260,7 +39260,7 @@
 
 **[62:11]** Seyè a pral fè tout latè a konnen nouvèl la: -Di moun lavil ki sou mòn Siyon an: Men moun ki delivre nou an ap vini. L'ap mennen moun li sove yo avè l'. Y'ap mache devan l'. Se rekonpans li, se rezilta travay li.
 
-**[62:12]** Y'a rele nou pèp ki apa pou Bondye a, pèp Bondye delivre a. Y'a rele lavil Jerizalèm lavil Bondye renmen an, lavil Bondye p'ap janm lage a.  
+**[62:12]** Y'a rele nou pèp ki apa pou Bondye a, pèp Bondye delivre a. Y'a rele lavil Jerizalèm lavil Bondye renmen an, lavil Bondye p'ap janm lage a.
 
 ### Chapter 63
 
@@ -39300,7 +39300,7 @@
 
 **[63:18]** Nou poko chita, lènmi nou yo te gen tan pran peyi a nan men nou, yo derespekte tanp ou a.
 
-**[63:19]** Depi kèk tan ou sèvi ak nou tankou si se pa ou ki chèf nou ankò, tankou si nou pa pèp ou a ankò.  
+**[63:19]** Depi kèk tan ou sèvi ak nou tankou si se pa ou ki chèf nou ankò, tankou si nou pa pèp ou a ankò.
 
 ### Chapter 64
 
@@ -39326,7 +39326,7 @@
 
 **[64:11]** Tanp nou an, bèl kay yo te mete apa pou ou a, kay kote tout zansèt nou yo t'ap fè lwanj ou a, dife fin boule sa. Tout bèl kote nou te renmen yo fin kraze.
 
-**[64:12]** Seyè, tou sa pa di ou anyen? Ou p'ap fè anyen pou nou? Ou pral kite nou soufri jouk nou p'ap kapab ankò?  
+**[64:12]** Seyè, tou sa pa di ou anyen? Ou p'ap fè anyen pou nou? Ou pral kite nou soufri jouk nou p'ap kapab ankò?
 
 ### Chapter 65
 
@@ -39378,7 +39378,7 @@
 
 **[65:24]** Anvan menm yo fin lapriyè, m'ap gen tan reponn yo. Anvan menm yo fèmen bouch yo, m'ap gen tan ba yo sa yo mande a.
 
-**[65:25]** Chen mawon ak mouton pral manje ansanm. Lyon pral manje zèb menm jan ak bèf. Sèpan p'ap yon danje ankò pou pesonn. Sou tout mòn ki apa pou mwen an, p'ap gen mechanste, p'ap gen rayisab ankò. Se Seyè a menm ki di sa!  
+**[65:25]** Chen mawon ak mouton pral manje ansanm. Lyon pral manje zèb menm jan ak bèf. Sèpan p'ap yon danje ankò pou pesonn. Sou tout mòn ki apa pou mwen an, p'ap gen mechanste, p'ap gen rayisab ankò. Se Seyè a menm ki di sa!
 
 ### Chapter 66
 
@@ -39428,7 +39428,7 @@
 
 **[66:23]** Pou chak fèt lalin nouvèl, pou chak jou repo, moun tout peyi va vin fè sèvis pou mwen isit lavil Jerizalèm. Se Seyè a menm ki di sa.
 
-**[66:24]** Lè y'ap kite lavil la, y'a wè kadav moun ki te vire do ban mwen yo. Vè k'ap manje yo p'ap janm mouri, dife k'ap boule yo a p'ap janm tenyen. Tout moun sou latè pral gen kè plen lè y'a wè sa!   
+**[66:24]** Lè y'ap kite lavil la, y'a wè kadav moun ki te vire do ban mwen yo. Vè k'ap manje yo p'ap janm mouri, dife k'ap boule yo a p'ap janm tenyen. Tout moun sou latè pral gen kè plen lè y'a wè sa!
 
 ## Jeremiah
 
@@ -39470,7 +39470,7 @@
 
 **[1:18]** Jòdi a m'ap ba ou fòs pou kenbe tèt ak tout moun nan peyi Jida a, ak wa l' yo, ak chèf li yo, ak prèt li yo, ak tout rès pèp la. W'ap tankou yon lavil ak gwo miray ranpa, tankou yon poto fè, tankou yon miray fèt an kwiv.
 
-**[1:19]** Yo tout pral leve dèyè ou. Men, yo p'ap ka fè ou anyen. Paske m'ap kanpe la avè ou pou m' delivre ou. Se mwen menm, Seyè sèl Mèt la, ki di sa.  
+**[1:19]** Yo tout pral leve dèyè ou. Men, yo p'ap ka fè ou anyen. Paske m'ap kanpe la avè ou pou m' delivre ou. Se mwen menm, Seyè sèl Mèt la, ki di sa.
 
 ### Chapter 2
 
@@ -39546,7 +39546,7 @@
 
 **[2:36]** Gade jan w'ap avili tèt ou, lè w'ap kouri dèyè bondye lòt nasyon yo! W'ap pran wont nan men peyi Lejip menm jan sa te rive ou avèk peyi Lasiri.
 
-**[2:37]** W'a vire do ou kite peyi Lejip. Avèk men ou, w'a bouche figi ou tèlman w'a wont. Mwen menm, Seyè a, mwen voye moun ou fè konfyans yo jete. Yo p'ap ka fè anyen pou ou.  
+**[2:37]** W'a vire do ou kite peyi Lejip. Avèk men ou, w'a bouche figi ou tèlman w'a wont. Mwen menm, Seyè a, mwen voye moun ou fè konfyans yo jete. Yo p'ap ka fè anyen pou ou.
 
 ### Chapter 3
 
@@ -39598,7 +39598,7 @@
 
 **[3:24]** Men, depi nou te tou piti, zidòl k'ap fè nou wont la fin manje dènye sa zansèt nou yo te kite pou nou: bèf, kabrit ak mouton, pitit gason ak pitit fi.
 
-**[3:25]** Se pou nou bese tèt nou jouk atè tèlman nou wont. Wont la twòp pou nou! Li kouvri nou nèt! Wi, ni nou ni zansèt nou yo, depi nou tou piti rive jouk jòdi a, n'ap fè sa ki mal devan Seyè a, Bondye nou an. Nou pa koute Seyè a, Bondye nou an, pou nou fè sa l' mande nou fè.  
+**[3:25]** Se pou nou bese tèt nou jouk atè tèlman nou wont. Wont la twòp pou nou! Li kouvri nou nèt! Wi, ni nou ni zansèt nou yo, depi nou tou piti rive jouk jòdi a, n'ap fè sa ki mal devan Seyè a, Bondye nou an. Nou pa koute Seyè a, Bondye nou an, pou nou fè sa l' mande nou fè.
 
 ### Chapter 4
 
@@ -39662,7 +39662,7 @@
 
 **[4:30]** Ou menm, lavil Jerizalèm, ou fini! Kisa ou ka fè? W'ap mete bèl rad wouj sou ou? W'ap mete tout bijou ou yo? W'ap pentire po je ou? Ou mèt fè ou bèl, sa p'ap sèvi ou anyen. Se meprize moun ki te renmen ou yo ap meprize ou! Yo soti pou yo touye ou.
 
-**[4:31]** Mwen tande yon rèl, tankou rèl fanm ki gen tranche, rèl fanm k'ap fè premye pitit li. Se rèl moun lavil Jerizalèm yo k'ap chache pran souf. Y'ap lonje men yo. Y'ap rele: -Anmwe! Nou pa kapab ankò! Men y'ap fin touye nou.  
+**[4:31]** Mwen tande yon rèl, tankou rèl fanm ki gen tranche, rèl fanm k'ap fè premye pitit li. Se rèl moun lavil Jerizalèm yo k'ap chache pran souf. Y'ap lonje men yo. Y'ap rele: -Anmwe! Nou pa kapab ankò! Men y'ap fin touye nou.
 
 ### Chapter 5
 
@@ -39726,7 +39726,7 @@
 
 **[5:30]** Sa k'ap pase nan peyi a, se bagay pou moun mete men nan tèt, bagay pou fè moun pè.
 
-**[5:31]** Annik manti ase pwofèt yo ap bay. Prèt yo menm, se pòch yo ase yo konnen. Pèp la menm renmen l' konsa. Men, kisa y'a fè lè tou sa va fini?  
+**[5:31]** Annik manti ase pwofèt yo ap bay. Prèt yo menm, se pòch yo ase yo konnen. Pèp la menm renmen l' konsa. Men, kisa y'a fè lè tou sa va fini?
 
 ### Chapter 6
 
@@ -39788,7 +39788,7 @@
 
 **[6:29]** Y'ap vante dife a byen fò nan fòj la. Dife a fè tout plon yo disparèt. Men, pou pèp mwen an, ou te mèt fonn yo sou fonn, kras yo p'ap soti, move grenn yo p'ap disparèt.
 
-**[6:30]** Yo rele yo vye lajan san valè, paske mwen menm Seyè a, mwen voye yo jete.  
+**[6:30]** Yo rele yo vye lajan san valè, paske mwen menm Seyè a, mwen voye yo jete.
 
 ### Chapter 7
 
@@ -39858,7 +39858,7 @@
 
 **[7:33]** Kadav moun yo va sèvi manje pou zwazo nan syèl ak bèt nan bwa. P'ap gen pesonn pou pouse bèt yo ale.
 
-**[7:34]** Peyi a pral tounen yon dezè. Nan lavil peyi Jida yo ak nan lari lavil Jerizalèm, ou p'ap tande yon moun ap pran plezi l', ou p'ap tande yon moun ap ri. p'ap menm gen fèt pou moun marye yo. Se mwen menm k'ap fè tou sa rive.  
+**[7:34]** Peyi a pral tounen yon dezè. Nan lavil peyi Jida yo ak nan lari lavil Jerizalèm, ou p'ap tande yon moun ap pran plezi l', ou p'ap tande yon moun ap ri. p'ap menm gen fèt pou moun marye yo. Se mwen menm k'ap fè tou sa rive.
 
 ### Chapter 8
 
@@ -39904,7 +39904,7 @@
 
 **[8:21]** Kè m' ap fann lè m' wè jan y'ap kraze pèp mwen an. M' pa wè sa pou m' fè ankò! M' dekouraje nèt.
 
-**[8:22]** Pa gen renmèd pou yo nan peyi Galarad? Pa gen dòktè ankò laba a? Poukisa atò pèp mwen an pa ka jwenn lasante?  
+**[8:22]** Pa gen renmèd pou yo nan peyi Galarad? Pa gen dòktè ankò laba a? Poukisa atò pèp mwen an pa ka jwenn lasante?
 
 ### Chapter 9
 
@@ -39958,7 +39958,7 @@
 
 **[9:25]** Seyè a di ankò: -Yon jou pral rive kote mwen pral regle moun ki pote mak kontra m' lan sou kò yo, men ki pa konnen m' nan kè yo:
 
-**[9:26]** moun peyi Lejip yo, moun peyi Jida yo, moun peyi Edon yo, moun peyi Amon yo, moun peyi Moab yo, moun ki koupe cheve yo kout epi ki rete nan dezè a. Yo yonn pa kenbe kontra m' lan. Wi, ni moun peyi sa yo ni moun pèp Izrayèl yo, yo yonn pa kenbe kontra m' lan.  
+**[9:26]** moun peyi Lejip yo, moun peyi Jida yo, moun peyi Edon yo, moun peyi Amon yo, moun peyi Moab yo, moun ki koupe cheve yo kout epi ki rete nan dezè a. Yo yonn pa kenbe kontra m' lan. Wi, ni moun peyi sa yo ni moun pèp Izrayèl yo, yo yonn pa kenbe kontra m' lan.
 
 ### Chapter 10
 
@@ -40010,7 +40010,7 @@
 
 **[10:24]** Korije pèp ou a, Seyè. Men, pa peze l' twòp! Pa fè kòlè sou li, paske w'a fini avè l'.
 
-**[10:25]** Mete ou ankòlè sou nasyon ki pa konnen ou yo, sou pèp ki p'ap sèvi ou yo. Paske se yo menm k'ap fin touye pitit Jakòb yo. Y'ap touye yo nèt. Yo fin ravaje peyi kote nou rete a.  
+**[10:25]** Mete ou ankòlè sou nasyon ki pa konnen ou yo, sou pèp ki p'ap sèvi ou yo. Paske se yo menm k'ap fin touye pitit Jakòb yo. Y'ap touye yo nèt. Yo fin ravaje peyi kote nou rete a.
 
 ### Chapter 11
 
@@ -40058,7 +40058,7 @@
 
 **[11:22]** Enben, men sa Seyè ki gen tout pouvwa a di: M' pral regle ak yo! Jenn gason yo pral mouri nan lagè. Pitit gason ak pitit fi yo pral mouri grangou.
 
-**[11:23]** Lè lè a va rive pou yo peye pou sa yo fè a, m'ap voye yon sèl malè sou moun lavil Anatòt yo. Yo yonn p'ap chape.  
+**[11:23]** Lè lè a va rive pou yo peye pou sa yo fè a, m'ap voye yon sèl malè sou moun lavil Anatòt yo. Yo yonn p'ap chape.
 
 ### Chapter 12
 
@@ -40094,7 +40094,7 @@
 
 **[12:16]** Si lè sa a yo aprann viv byen tankou pèp mwen, si yo pran non m' pou fè sèman sa a: Nan non Seyè ki vivan an!, menm jan yo te moutre pèp mwen an pou li fè sèman nan non Baal, enben, lè sa a yo menm tou, y'a fè pati pèp mwen an, epi zafè yo va mache byen.
 
-**[12:17]** Men, si yon nasyon pa koute m', m'ap rache l', m'ap derasinen l', m'ap detwi li nèt. Se mwen menm Seyè a ki di sa.  
+**[12:17]** Men, si yon nasyon pa koute m', m'ap rache l', m'ap derasinen l', m'ap detwi li nèt. Se mwen menm Seyè a ki di sa.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:26]** Se mwen menm menm ki pral leve rad nou jouk sou tèt nou, pou yo wè nou toutouni.
 
-**[13:27]** Mwen te wè n'ap fè bagay mwen rayi. Tankou yon nonm marye k'ap kouri dèyè madanm lòt moun, tankou poulen k'ap ranni dèyè jiman, nou kouri dèyè lòt bondye, n'ap rele nan pye yo. San ankenn wont, n'ap fè sèvis pou yo sou tèt ti mòn yo ak nan laplenn. Aa! moun lavil Jerizalèm, nou fini vre! Kilè n'a sispann? Kilè n'a manyè netwaye kè nou?  
+**[13:27]** Mwen te wè n'ap fè bagay mwen rayi. Tankou yon nonm marye k'ap kouri dèyè madanm lòt moun, tankou poulen k'ap ranni dèyè jiman, nou kouri dèyè lòt bondye, n'ap rele nan pye yo. San ankenn wont, n'ap fè sèvis pou yo sou tèt ti mòn yo ak nan laplenn. Aa! moun lavil Jerizalèm, nou fini vre! Kilè n'a sispann? Kilè n'a manyè netwaye kè nou?
 
 ### Chapter 14
 
@@ -40196,7 +40196,7 @@
 
 **[14:21]** Chonje ki moun ou ye, pa meprize nou! Jerizalèm, se la fotèy pouvwa ou la chita. Pa avili l'. Pa bliye pwomès ou yo. Pa kase kontra ou te fè ak nou an.
 
-**[14:22]** Zidòl moun lòt nasyon yo pa vo anyen. Pa gen yonn ladan yo ki ka voye lapli. Syèl la pou kont pa l' pa ka bay lapli. Se ou menm ki Seyè a, Bondye nou an! Se ou menm ki tout espwa nou, paske se ou menm ki fè tout bagay sa yo.  
+**[14:22]** Zidòl moun lòt nasyon yo pa vo anyen. Pa gen yonn ladan yo ki ka voye lapli. Syèl la pou kont pa l' pa ka bay lapli. Se ou menm ki Seyè a, Bondye nou an! Se ou menm ki tout espwa nou, paske se ou menm ki fè tout bagay sa yo.
 
 ### Chapter 15
 
@@ -40240,7 +40240,7 @@
 
 **[15:20]** M'ap fè ou kanpe devan moun sa yo tankou yon miray fèt an kwiv byen solid. Y'a goumen avè ou, men yo p'ap ka fè ou anyen. M'ap kanpe la avè ou pou m' pwoteje ou, pou m' delivre ou. Se mwen menm Seyè a ki di sa.
 
-**[15:21]** M'ap delivre ou anba men mechan yo, m'ap fè ou soti anba ponyèt lwijanboje yo.  
+**[15:21]** M'ap delivre ou anba men mechan yo, m'ap fè ou soti anba ponyèt lwijanboje yo.
 
 ### Chapter 16
 
@@ -40284,7 +40284,7 @@
 
 **[16:20]** Eske moun ka fè bondye pa yo? Zidòl sa yo pa bondye tout bon.
 
-**[16:21]** Se konsa, fwa sa a, mwen pral fè yo konprann. Fwa sa a, mwen pral fè yo konnen fòs ponyèt mwen. Lè sa a, y'a konnen se mwen menm ki Bondye sèl Mèt la.  
+**[16:21]** Se konsa, fwa sa a, mwen pral fè yo konprann. Fwa sa a, mwen pral fè yo konnen fòs ponyèt mwen. Lè sa a, y'a konnen se mwen menm ki Bondye sèl Mèt la.
 
 ### Chapter 17
 
@@ -40340,7 +40340,7 @@
 
 **[17:26]** Moun va soti nan tout lavil peyi Jida yo, nan tout vwazinaj lavil Jerizalèm lan, y'a soti nan peyi moun Benjamen yo, nan zòn ki nan pye mòn yo, nan mòn yo ak nan sid peyi Jida a, y'a pote bèt pou boule nèt pou Seyè a, bèt pou yo touye sou lotèl li a, ofrann grenn jaden yo ak lansan, ansanm ak ofrann pou di Bondye mèsi nan kay Seyè a.
 
-**[17:27]** Tansèlman, si nou pa koute m', si nou pa mete jou repo a apa pou Bondye, si jou sa a nou pote chay, si nou kite moun antre nan pòtay lavil Jerizalèm yo ak chay, m'ap mete dife nan pòtay li yo. Dife a va boule tout gwo kay lavil Jerizalèm yo. Pesonn p'ap ka touye dife sa a.  
+**[17:27]** Tansèlman, si nou pa koute m', si nou pa mete jou repo a apa pou Bondye, si jou sa a nou pote chay, si nou kite moun antre nan pòtay lavil Jerizalèm yo ak chay, m'ap mete dife nan pòtay li yo. Dife a va boule tout gwo kay lavil Jerizalèm yo. Pesonn p'ap ka touye dife sa a.
 
 ### Chapter 18
 
@@ -40388,7 +40388,7 @@
 
 **[18:22]** Y'ap rete konsa, w'ap voye yon bann piyajè sou yo. Lè sa a se va rèl nan tout kay yo. Tou sa, paske yo te fouye yon twou pou fè m' tonbe ladan l'. Yo te mete pèlen pou mwen sou wout mwen.
 
-**[18:23]** Men ou menm, Seyè, ou konnen tout konplo y'ap fè pou touye m'. Pa padonnen mechanste yo. Pa janm padonnen peche yo. Se pou yo tonbe atè la devan je ou. Lè ou an kòlè, regle yo.  
+**[18:23]** Men ou menm, Seyè, ou konnen tout konplo y'ap fè pou touye m'. Pa padonnen mechanste yo. Pa janm padonnen peche yo. Se pou yo tonbe atè la devan je ou. Lè ou an kòlè, regle yo.
 
 ### Chapter 19
 
@@ -40420,7 +40420,7 @@
 
 **[19:14]** Lèfini, Jeremi kite Tofèt kote Seyè a te voye l' al bay mesaj li a, li al kanpe nan gwo lakou Tanp lan. Li di pèp la konsa:
 
-**[19:15]** -Men pawòl Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la: Mwen pral voye sou lavil sa a ansanm ak tout ti bouk ki sou kont li yo, tout chatiman mwen te di m'ap voye yo, paske yo fè tèt di, yo pa vle koute sa m' di yo.  
+**[19:15]** -Men pawòl Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la: Mwen pral voye sou lavil sa a ansanm ak tout ti bouk ki sou kont li yo, tout chatiman mwen te di m'ap voye yo, paske yo fè tèt di, yo pa vle koute sa m' di yo.
 
 ### Chapter 20
 
@@ -40458,7 +40458,7 @@
 
 **[20:17]** Paske li pa t' touye m' anvan m' te fèt la, pou vant manman m' te tou sèvi m' kavo: li ta rete ansent mwen pou tout tan.
 
-**[20:18]** Poukisa m' te fèt atò? Pou m' te ka nan lapenn, nan lafliksyon, pou m' te ka mouri nan lawont?  
+**[20:18]** Poukisa m' te fèt atò? Pou m' te ka nan lapenn, nan lafliksyon, pou m' te ka mouri nan lawont?
 
 ### Chapter 21
 
@@ -40488,7 +40488,7 @@
 
 **[21:13]** Nou menm moun Jerizalèm ki chita nan fon an, tankou gwo wòch nan mitan yon plenn, mwen menm Seyè a, mwen pral regle nou. N'ap plede di: Pa gen moun ki ka atake nou, pa gen moun ki ka antre kote n' kache a.
 
-**[21:14]** Men m'ap pini nou pou sa nou fè. M'ap mete dife nan gwo bèl kay bwa nou yo. Dife a pral boule tou sa ki bò kote yo. Se mwen menm Seyè a ki di sa.  
+**[21:14]** Men m'ap pini nou pou sa nou fè. M'ap mete dife nan gwo bèl kay bwa nou yo. Dife a pral boule tou sa ki bò kote yo. Se mwen menm Seyè a ki di sa.
 
 ### Chapter 22
 
@@ -40550,7 +40550,7 @@
 
 **[22:29]** O latè, latè, latè! Koute sa Seyè a di:
 
-**[22:30]** Nonm sa a kondannen pou l' pèdi tout pitit li yo, pou l' pa janm wè zafè l' mache. P'ap janm gen yonn nan pitit li yo ki pou rive chita sou fotèy wa David la, ki pou rive chèf nan peyi Jida a ankò.  
+**[22:30]** Nonm sa a kondannen pou l' pèdi tout pitit li yo, pou l' pa janm wè zafè l' mache. P'ap janm gen yonn nan pitit li yo ki pou rive chita sou fotèy wa David la, ki pou rive chèf nan peyi Jida a ankò.
 
 ### Chapter 23
 
@@ -40632,7 +40632,7 @@
 
 **[23:39]** m'ap pran nou leve anlè, m'ap voye nou jete byen lwen mwen, ni nou, ni lavil mwen te bay pou nou ansanm ak pou zansèt nou yo.
 
-**[23:40]** M'ap fè nou wont yon wont ki p'ap janm fini, yon wont moun p'ap janm bliye.  
+**[23:40]** M'ap fè nou wont yon wont ki p'ap janm fini, yon wont moun p'ap janm bliye.
 
 ### Chapter 24
 
@@ -40654,7 +40654,7 @@
 
 **[24:9]** Mwen pral mennen yon sèl malè sou yo. Tout lòt nasyon ki sou latè a pral tranble lè y'a wè sa. Moun pral pase yo nan betiz, yo pral rakonte istwa sou yo. Yo pral mete yo nan chante. Y'ap pran non yo pou sèvi jouman, pou bay madichon nan tout peyi kote mwen pral gaye yo.
 
-**[24:10]** Mwen pral voye lagè, grangou ak move maladi sou yo jouk p'ap gen yonn k'ap rete nan peyi mwen te ba yo a, peyi mwen te bay zansèt yo a.  
+**[24:10]** Mwen pral voye lagè, grangou ak move maladi sou yo jouk p'ap gen yonn k'ap rete nan peyi mwen te ba yo a, peyi mwen te bay zansèt yo a.
 
 ### Chapter 25
 
@@ -40732,7 +40732,7 @@
 
 **[25:37]** Tout bèl peyi yo pral tounen mazi, paske Seyè a move anpil.
 
-**[25:38]** Tankou yon lyon ki kouri kite twou li, tout moun ap mete deyò. Peyi a pral tounen yon dezè apre lagè san manman sa a, apre gwo kòlè Seyè a.  
+**[25:38]** Tankou yon lyon ki kouri kite twou li, tout moun ap mete deyò. Peyi a pral tounen yon dezè apre lagè san manman sa a, apre gwo kòlè Seyè a.
 
 ### Chapter 26
 
@@ -40782,7 +40782,7 @@
 
 **[26:23]** Yo pran Ouri nan peyi Lejip, yo mennen l' bay wa a. Wa a fè yo touye l'. Lèfini, yo jete kadav li nan gwo fòs endijan yo.
 
-**[26:24]** Men, Akikam, pitit Chafan an, t'ap pwoteje Jeremi. Se konsa li pa t' kite yo lage Jeremi nan men pèp la pou yo te touye l'.  
+**[26:24]** Men, Akikam, pitit Chafan an, t'ap pwoteje Jeremi. Se konsa li pa t' kite yo lage Jeremi nan men pèp la pou yo te touye l'.
 
 ### Chapter 27
 
@@ -40828,7 +40828,7 @@
 
 **[27:21]** Wi, men sa Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la, te di sou rès bon bagay ki te nan kay Seyè a, nan kay wa Jida a ak nan lavil Jerizalèm:
 
-**[27:22]** Y'ap pote yo ale lavil Babilòn. Y'ap rete la jouk lè m'a vin pran yo pou m' fè yo tounen nan plas yo. Se mwen menm Seyè a ki di sa.  
+**[27:22]** Y'ap pote yo ale lavil Babilòn. Y'ap rete la jouk lè m'a vin pran yo pou m' fè yo tounen nan plas yo. Se mwen menm Seyè a ki di sa.
 
 ### Chapter 28
 
@@ -40864,7 +40864,7 @@
 
 **[28:16]** Se sa ki fè men sa Seyè a di: Li pral disparèt ou sou latè. Anvan lanne an bout, w'ap mouri, paske ou pouse pèp la pou l' te kenbe tèt ak Seyè a!
 
-**[28:17]** Menm lanne an vre, nan setyèm mwa a, pwofèt Ananya mouri.  
+**[28:17]** Menm lanne an vre, nan setyèm mwa a, pwofèt Ananya mouri.
 
 ### Chapter 29
 
@@ -40930,7 +40930,7 @@
 
 **[29:31]** -Voye mesaj sa a bay tout moun yo depòte lavil Babilòn yo. Men sa Seyè a di sou Chemaja, moun Nekelam. Chemaja pran pòz pwofèt li, men se pa mwen ki voye l'. Li fè nou bwè yon bann manti.
 
-**[29:32]** Se poutèt sa, mwen menm Seyè a, mwen pral pini Chemaya ansanm ak tout kòt fanmi li. Mwen p'ap kite yon moun nan fanmi li vivan nan mitan nou pou wè bèl bagay mwen pral fè pou pèp mwen an, paske li te moute tèt pèp la kont Bondye, Seyè a.  
+**[29:32]** Se poutèt sa, mwen menm Seyè a, mwen pral pini Chemaya ansanm ak tout kòt fanmi li. Mwen p'ap kite yon moun nan fanmi li vivan nan mitan nou pou wè bèl bagay mwen pral fè pou pèp mwen an, paske li te moute tèt pèp la kont Bondye, Seyè a.
 
 ### Chapter 30
 
@@ -40980,7 +40980,7 @@
 
 **[30:23]** Lè Bondye ankòlè se tankou yon van tanpèt, yon siklòn k'ap tonbe sou tèt mechan yo.
 
-**[30:24]** Li p'ap sispann toutotan li pa fin fè tou sa li soti pou li fè a. Nan jou k'ap vini yo, pèp la va konprann sa pi byen.  
+**[30:24]** Li p'ap sispann toutotan li pa fin fè tou sa li soti pou li fè a. Nan jou k'ap vini yo, pèp la va konprann sa pi byen.
 
 ### Chapter 31
 
@@ -41062,7 +41062,7 @@
 
 **[31:39]** Limit lavil la va konmanse la, l'a pran direksyon ti mòn Garèb la sou bò lwès, l'a vire bò Goa.
 
-**[31:40]** Y'a pran tout fon ki sèvi pou antere kadav ak pou boule fatra a, tout tè ki soti depi bò ravin Sedwon an rive nan kwen Pòtay Chwal yo sou bò lès, y'a mete yo apa pou mwen. Yo p'ap janm kraze, ni yo p'ap janm demoli yo ankò.  
+**[31:40]** Y'a pran tout fon ki sèvi pou antere kadav ak pou boule fatra a, tout tè ki soti depi bò ravin Sedwon an rive nan kwen Pòtay Chwal yo sou bò lès, y'a mete yo apa pou mwen. Yo p'ap janm kraze, ni yo p'ap janm demoli yo ankò.
 
 ### Chapter 32
 
@@ -41152,7 +41152,7 @@
 
 **[32:43]** W'ap di ansanm ak lòt moun yo: Peyi a fini. Pa gen yon moun, pa gen yon bèt ladan l'. Yo lage peyi a nan men moun Babilòn yo. Men yon lè, moun va achte tè nan peyi a ankò.
 
-**[32:44]** Wi, nan tout peyi Benjamen an, nan tout ti bouk ki nan vwazinaj lavil Jerizalèm yo, nan tout lavil Jida yo, nan lavil ki nan mòn yo, nan tout lavil ki nan plenn yo, bò lanmè, ak nan sid peyi a, moun va achte jaden, y'a pase papye tè, y'a sele yo, y'a fè temwen siyen yo. Paske m'ap fè pèp la tounen nan peyi a ankò. Se mwen menm Seyè a ki di sa. Jerizalèm  
+**[32:44]** Wi, nan tout peyi Benjamen an, nan tout ti bouk ki nan vwazinaj lavil Jerizalèm yo, nan tout lavil Jida yo, nan lavil ki nan mòn yo, nan tout lavil ki nan plenn yo, bò lanmè, ak nan sid peyi a, moun va achte jaden, y'a pase papye tè, y'a sele yo, y'a fè temwen siyen yo. Paske m'ap fè pèp la tounen nan peyi a ankò. Se mwen menm Seyè a ki di sa. Jerizalèm
 
 ### Chapter 33
 
@@ -41206,7 +41206,7 @@
 
 **[33:25]** Men sa mwen menm Seyè a, mwen di: Mwen fè yon kontra ak lajounen, mwen fè yon kontra ak lannwit. Mwen bay regleman jan pou tout bagay nan syèl la ak sou latè a mache.
 
-**[33:26]** Menm jan m'ap toujou kenbe kontra sa yo, konsa tou m'ap toujou kenbe pawòl mwen ak pitit Jakòb yo, mwen p'ap janm voye pitit pitit David, sèvitè m' lan, jete. M'ap toujou chwazi yonn nan fanmi David la pou gouvènen moun ki soti nan ras Abraram, Izarak ak Jakòb yo. Wi, m'a gen pitye pou yo, m'a fè yo kanpe ankò.  
+**[33:26]** Menm jan m'ap toujou kenbe kontra sa yo, konsa tou m'ap toujou kenbe pawòl mwen ak pitit Jakòb yo, mwen p'ap janm voye pitit pitit David, sèvitè m' lan, jete. M'ap toujou chwazi yonn nan fanmi David la pou gouvènen moun ki soti nan ras Abraram, Izarak ak Jakòb yo. Wi, m'a gen pitye pou yo, m'a fè yo kanpe ankò.
 
 ### Chapter 34
 
@@ -41252,7 +41252,7 @@
 
 **[34:21]** M'ap pran Sedesyas, wa peyi Jida a, ansanm ak tout chèf li yo, m'ap lage yo nan men lènmi yo, nan men moun ki soti pou touye yo. M'ap lage yo nan men lame wa Babilòn lan ki fin leve kan yo pou yo ale.
 
-**[34:22]** M'ap pase yo lòd, y'ap tounen vin atake lavil la. Y'ap pran l', y'ap mete dife ladan l'. M'ap fè lavil peyi Jida yo tounen yon dezè san pyès moun ladan yo. Se mwen menm Seyè a ki di sa.  
+**[34:22]** M'ap pase yo lòd, y'ap tounen vin atake lavil la. Y'ap pran l', y'ap mete dife ladan l'. M'ap fè lavil peyi Jida yo tounen yon dezè san pyès moun ladan yo. Se mwen menm Seyè a ki di sa.
 
 ### Chapter 35
 
@@ -41292,7 +41292,7 @@
 
 **[35:18]** Apre sa, Jeremi di moun Rekab yo: -Men sa Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la, voye di nou: Nou te swiv lòd zansèt nou, Jonadab, te ban nou an. Nou te fè tou sa li te mande nou fè, tout lòd li te ban nou yo.
 
-**[35:19]** Se poutèt sa, men sa mwen menm Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la, mwen di: Va toujou gen yon gason nan fanmi Jonadab, pitit Rekab la, pou sèvi mwen.  
+**[35:19]** Se poutèt sa, men sa mwen menm Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la, mwen di: Va toujou gen yon gason nan fanmi Jonadab, pitit Rekab la, pou sèvi mwen.
 
 ### Chapter 36
 
@@ -41358,7 +41358,7 @@
 
 **[36:31]** M'ap pini yo, ni li menm ni pitit li yo, ni chèf li yo pou tou sa yo fè ki mal. Ni yo, ni moun lavil Jerizalèm yo, ni moun peyi Jida yo pa t' koute m' lè mwen t'ap avèti yo. M'ap voye sou yo malè mwen te di m'ap voye a.
 
-**[36:32]** Se konsa Jeremi pran yon lòt woulo liv. Li bay Bawouk, sekretè li a, pitit Nerija a. Bawouk menm ekri tou sa Jeremi te di l'. Li ekri tout mesaj ki te nan premye woulo liv wa Jojakim te boule a, ansanm ak anpil lòt mesaj menm jan ak premye yo.  
+**[36:32]** Se konsa Jeremi pran yon lòt woulo liv. Li bay Bawouk, sekretè li a, pitit Nerija a. Bawouk menm ekri tou sa Jeremi te di l'. Li ekri tout mesaj ki te nan premye woulo liv wa Jojakim te boule a, ansanm ak anpil lòt mesaj menm jan ak premye yo.
 
 ### Chapter 37
 
@@ -41402,7 +41402,7 @@
 
 **[37:20]** Koulye a, monwa, mèt mwen, tanpri, koute sa m'ap mande ou. Tanpri souple, pa voye m' tounen nan prizon kay Jonatan, sekretè a. Si ou fè sa, nanpwen rechap pou mwen.
 
-**[37:21]** Se konsa, wa Sedesyas bay lòd pou yo fèmen Jeremi nan lakou gad palè yo. Chak jou se pou yo ba li yon pen y'a pran nan Riyèl Boulanje yo jouk jou p'ap gen pen ankò nan lavil la. Se konsa Jeremi rete nan lakou gad palè yo.  
+**[37:21]** Se konsa, wa Sedesyas bay lòd pou yo fèmen Jeremi nan lakou gad palè yo. Chak jou se pou yo ba li yon pen y'a pran nan Riyèl Boulanje yo jouk jou p'ap gen pen ankò nan lavil la. Se konsa Jeremi rete nan lakou gad palè yo.
 
 ### Chapter 38
 
@@ -41460,7 +41460,7 @@
 
 **[38:27]** Tout chèf yo vini jwenn Jeremi vre. Yo mande l' yon bann pawòl. Jeremi reponn yo jan wa a te di l' la. Pa t' gen anyen chèf yo te ka fè paske pesonn pa t' tande koze Jeremi te gen ak wa a.
 
-**[38:28]** Jeremi rete nan lakou gad palè yo jouk jou yo pran lavil Jerizalèm.  
+**[38:28]** Jeremi rete nan lakou gad palè yo jouk jou yo pran lavil Jerizalèm.
 
 ### Chapter 39
 
@@ -41498,7 +41498,7 @@
 
 **[39:17]** Men jou sa a m'ap sove ou. Se mwen menm Seyè a ki di sa. Ou p'ap tonbe nan men moun k'ap fè ou pè yo.
 
-**[39:18]** Se vre wi, m'ap sove ou, yo p'ap touye ou. W'ap sove, w'ap vivan paske ou te gen konfyans nan mwen. Wi, se mwen menm Seyè a ki di sa.  
+**[39:18]** Se vre wi, m'ap sove ou, yo p'ap touye ou. W'ap sove, w'ap vivan paske ou te gen konfyans nan mwen. Wi, se mwen menm Seyè a ki di sa.
 
 ### Chapter 40
 
@@ -41532,7 +41532,7 @@
 
 **[40:15]** Lè sa a, Jokanan al jwenn Gedalya an kachèt lavil Mispa, li di l' konsa: -Eske ou vle m' al touye Izmayèl pou ou? Pesonn p'ap konn anyen. Poukisa pou ou kite l' ansasinen ou? Si li touye ou, sa pral lakòz tout jwif ki te sanble bò kote ou yo pral gaye ankò. Sa pral lakòz ti ponyen moun ki rete nan peyi Jida a rive disparèt.
 
-**[40:16]** Men, Gedalya reponn: -Pa fè sa, monchè! Sa w'ap di sou Izmayèl la pa vre!  
+**[40:16]** Men, Gedalya reponn: -Pa fè sa, monchè! Sa w'ap di sou Izmayèl la pa vre!
 
 ### Chapter 41
 
@@ -41570,7 +41570,7 @@
 
 **[41:17]** Yo fè yon ti rete nan lotèl Kimean an, toupre lavil Betleyèm. Yo te fè lide desann peyi Lejip
 
-**[41:18]** paske yo te pè moun Babilòn yo, depi Izmayèl te fin touye Gedalya, moun wa Babilòn lan te mete pou gouvènen peyi a.  
+**[41:18]** paske yo te pè moun Babilòn yo, depi Izmayèl te fin touye Gedalya, moun wa Babilòn lan te mete pou gouvènen peyi a.
 
 ### Chapter 42
 
@@ -41616,7 +41616,7 @@
 
 **[42:21]** Jòdi a, mwen fè nou konnen repons li, men nou pa vle koute anyen nan sa li voye m' di nou an.
 
-**[42:22]** Enben, konn sa byen, nou pral mouri nan lagè, grangou ap touye nou, move maladi ap fini ak nou nan peyi kote nou vle al rete a.  
+**[42:22]** Enben, konn sa byen, nou pral mouri nan lagè, grangou ap touye nou, move maladi ap fini ak nou nan peyi kote nou vle al rete a.
 
 ### Chapter 43
 
@@ -41644,7 +41644,7 @@
 
 **[43:12]** L'a mete dife nan kay tout bondye moun peyi Lejip yo. L'ap boule bondye moun Lejip yo osinon l'a pran yo, l'a pote yo ale avè l'. Menm jan yon gadò mouton netwaye dènye vèmen ki nan rad li, konsa tou wa a pral piye peyi Lejip la kite l' blanch. Lèfini, l'ap vire do l' san pesonn pa di l' anyen.
 
-**[43:13]** L'ap kraze tout gwo moniman wòch lavil Eliopolis nan peyi Lejip, l'ap boule tout kay zidòl peyi Lejip yo.  
+**[43:13]** L'ap kraze tout gwo moniman wòch lavil Eliopolis nan peyi Lejip, l'ap boule tout kay zidòl peyi Lejip yo.
 
 ### Chapter 44
 
@@ -41706,7 +41706,7 @@
 
 **[44:29]** Se mwen menm Seyè a ki di sa: m'ap ban nou yon siy, m'ap pini nou isit la menm. Konsa, n'a konnen malè mwen te pwomèt m'ap voye sou nou an rive vre.
 
-**[44:30]** Se mwen menm Seyè a ki di sa. Mwen pral lage farawon Ofra, wa peyi Lejip la, nan men lènmi ki soti pou touye l' yo, menm jan mwen te lage Sedesyas, wa peyi Jida a, nan men Nèbikadneza, wa peyi Babilòn, lènmi ki te soti pou touye l' la tou.  
+**[44:30]** Se mwen menm Seyè a ki di sa. Mwen pral lage farawon Ofra, wa peyi Lejip la, nan men lènmi ki soti pou touye l' yo, menm jan mwen te lage Sedesyas, wa peyi Jida a, nan men Nèbikadneza, wa peyi Babilòn, lènmi ki te soti pou touye l' la tou.
 
 ### Chapter 45
 
@@ -41718,7 +41718,7 @@
 
 **[45:4]** Enben, men mesaj Seyè a ban mwen pou ou: Se mwen menm Seyè k'ap demoli tou sa mwen te bati. m'ap derasinen tou sa mwen te plante. M'ap fè sa toupatou sou latè!
 
-**[45:5]** Epi ou menm, w'ap mande pou yo fè pa ou, w'ap mande yon soulajman pou tèt ou ase? Pa mande anyen. M'ap voye malè a sou tout moun sou latè. Se mwen menm Seyè a ki di sa. Men ou menm, ou mèt ale kote ou vle, ou p'ap mouri, w'ap sove lavi ou!  
+**[45:5]** Epi ou menm, w'ap mande pou yo fè pa ou, w'ap mande yon soulajman pou tèt ou ase? Pa mande anyen. M'ap voye malè a sou tout moun sou latè. Se mwen menm Seyè a ki di sa. Men ou menm, ou mèt ale kote ou vle, ou p'ap mouri, w'ap sove lavi ou!
 
 ### Chapter 46
 
@@ -41776,7 +41776,7 @@
 
 **[46:27]** Nou pa bezwen pè, nou menm pitit Jakòb, sèvitè mwen an. Nou pa bezwen tranble, nou menm moun pèp Izrayèl yo. M'ap vin delivre nou nan peyi lwen sa yo. M'ap vin sove pitit nou yo nan peyi kote yo te depòte nou an. N'ap tounen lakay nou pou nou viv ak kè poze, san pesonn pa chache nou kont ankò.
 
-**[46:28]** Nou menm pitit Jakòb, sèvitè mwen an, nou pa bezwen pè. M'ap vin jwenn nou, m'ap sove nou. Se Seyè a menm ki di sa. M'ap disparèt tout nasyon kote mwen te gaye nou yo. Nou menm, mwen p'ap detwi nou. Men, pou pini se pou m' pini nou, jan sa dwe fèt. Mwen p'ap kite anyen pou nou.  
+**[46:28]** Nou menm pitit Jakòb, sèvitè mwen an, nou pa bezwen pè. M'ap vin jwenn nou, m'ap sove nou. Se Seyè a menm ki di sa. M'ap disparèt tout nasyon kote mwen te gaye nou yo. Nou menm, mwen p'ap detwi nou. Men, pou pini se pou m' pini nou, jan sa dwe fèt. Mwen p'ap kite anyen pou nou.
 
 ### Chapter 47
 
@@ -41792,7 +41792,7 @@
 
 **[47:6]** Adye! Kilè nepe Seyè a va sispann touye moun? Tounen nan djenn ou! Rete tou dousman, poze kò ou la!
 
-**[47:7]** Men, ki jan pou li fè poze lè Seyè a ba li lòd travay? Li gen pou l' ale jouk lavil Askalon dèyè moun ki rete bò lanmè a. Se la mwen voye l' ale.  
+**[47:7]** Men, ki jan pou li fè poze lè Seyè a ba li lòd travay? Li gen pou l' ale jouk lavil Askalon dèyè moun ki rete bò lanmè a. Se la mwen voye l' ale.
 
 ### Chapter 48
 
@@ -41888,7 +41888,7 @@
 
 **[48:46]** Sa fè lapenn pou moun Moab yo! Tout moun ki t'ap sèvi Kèmòch yo fini. Yo pran pitit gason ak pitit fi yo, yo fè yo prizonye, yo depòte yo.
 
-**[48:47]** Men nan jou k'ap vin apre yo, m'ap mete peyi Moab la kanpe ankò. Se mwen menm, Seyè a, ki di sa. Se tou sa ki pral rive moun Moab yo.  
+**[48:47]** Men nan jou k'ap vin apre yo, m'ap mete peyi Moab la kanpe ankò. Se mwen menm, Seyè a, ki di sa. Se tou sa ki pral rive moun Moab yo.
 
 ### Chapter 49
 
@@ -41968,7 +41968,7 @@
 
 **[49:38]** M'ap disparèt wa yo a ansanm ak tout lòt chèf yo. Se la m'ap mete fotèy mwen an. Se mwen menm Seyè a ki di sa.
 
-**[49:39]** Men, nan jou k'ap vini apre sa yo, m'ap mete peyi Elam lan kanpe ankò. Se mwen menm Seyè a ki di sa.  
+**[49:39]** Men, nan jou k'ap vini apre sa yo, m'ap mete peyi Elam lan kanpe ankò. Se mwen menm Seyè a ki di sa.
 
 ### Chapter 50
 
@@ -42062,7 +42062,7 @@
 
 **[50:45]** Konsa, koute sa mwen soti pou m' fè moun lavil Babilòn yo, sa mwen fè lide fè moun peyi Kalde yo: Sèten, ata timoun yo yo pral trennen pot ale. Yo pral devaste tout peyi a devan je yo.
 
-**[50:46]** Lè lavil Babilòn tonbe, l'ap fè yon kokennchenn bri, latè ap tranble. Y'ap tande rèl moun yo nan tout lòt nasyon yo.  
+**[50:46]** Lè lavil Babilòn tonbe, l'ap fè yon kokennchenn bri, latè ap tranble. Y'ap tande rèl moun yo nan tout lòt nasyon yo.
 
 ### Chapter 51
 
@@ -42192,7 +42192,7 @@
 
 **[51:63]** Lè w'a fin li liv sa a, w'a mare l' sou yon wòch, w'a voye l' jete nan mitan larivyè Lefrat.
 
-**[51:64]** Apre sa, w'a di: Se konsa lavil Babilòn lan pral koule, li p'ap janm ka leve ankò apre malè mwen menm Seyè a, mwen pral voye sou li a. Se isit la pawòl pwofèt Jeremi yo fini.  
+**[51:64]** Apre sa, w'a di: Se konsa lavil Babilòn lan pral koule, li p'ap janm ka leve ankò apre malè mwen menm Seyè a, mwen pral voye sou li a. Se isit la pawòl pwofèt Jeremi yo fini.
 
 ### Chapter 52
 
@@ -42262,7 +42262,7 @@
 
 **[52:33]** Li wete rad prizonye ki te sou Jojakim lan, li fè l' vin manje sou menm tab avè l' jouk Jojakim mouri.
 
-**[52:34]** Chak jou, wa a ba li sa li te bezwen pou l' viv, konsa, konsa, jouk li mouri.   
+**[52:34]** Chak jou, wa a ba li sa li te bezwen pou l' viv, konsa, konsa, jouk li mouri.
 
 ## Lamentations
 
@@ -42310,7 +42310,7 @@
 
 **[1:21]** Koute jan m'ap plenn. Pa gen pesonn pou ban m' kouraj. Lènmi m' yo vin konnen nan ki malè mwen ye. Yo kontan wè se ou menm ki fè m' sa. Tanpri, fè jou ou te pwomèt la rive non, pou lènmi m' yo ka vin jan mwen ye a.
 
-**[1:22]** Jije yo pou mechanste yo. Pini yo menm jan ou pini m' pou peche m' yo. M'ap plenn anpil. Kè m' ap fann.  
+**[1:22]** Jije yo pou mechanste yo. Pini yo menm jan ou pini m' pou peche m' yo. M'ap plenn anpil. Kè m' ap fann.
 
 ### Chapter 2
 
@@ -42356,7 +42356,7 @@
 
 **[2:21]** Jenn gason kou granmoun mouri atè nan mitan lari. Jenn tifi yo ak jenn tigason yo mouri nan lagè! Jou ou fè kòlè a, ou touye moun, ou kraze moun san gad dèyè.
 
-**[2:22]** Ou fè moun k'ap fè m' pè yo soti toupatou pou yo vin danse, fè fèt sou do m'. Lè Seyè a move, pesonn pa ka chape, tout moun gen pou mouri. Lènmi m' yo touye ata timoun mwen te renmen yo, timoun mwen te elve yo.  
+**[2:22]** Ou fè moun k'ap fè m' pè yo soti toupatou pou yo vin danse, fè fèt sou do m'. Lè Seyè a move, pesonn pa ka chape, tout moun gen pou mouri. Lènmi m' yo touye ata timoun mwen te renmen yo, timoun mwen te elve yo.
 
 ### Chapter 3
 
@@ -42490,7 +42490,7 @@
 
 **[3:65]** Madichonnen yo! Fè yo pèdi tèt yo!
 
-**[3:66]** Move sou yo, Seyè! Pati dèyè yo! Disparèt yo sou latè!  
+**[3:66]** Move sou yo, Seyè! Pati dèyè yo! Disparèt yo sou latè!
 
 ### Chapter 4
 
@@ -42536,7 +42536,7 @@
 
 **[4:21]** Nou menm, moun peyi Edon ki rete lavil Ouz, nou mèt fè kè nou kontan, nou mèt fè fèt! Tou pa nou dèyè, tande! Jou sa a, nou pral titibe toutouni nan tout lari.
 
-**[4:22]** Nou menm, moun lavil Siyon, nou fin peye pou peche nou yo. Bondye ap sispann pini nou! Men, nou menm moun Edon, Seyè a pral pini nou pou peche nou yo. L'ap denonse tou sa nou fè ki mal.  
+**[4:22]** Nou menm, moun lavil Siyon, nou fin peye pou peche nou yo. Bondye ap sispann pini nou! Men, nou menm moun Edon, Seyè a pral pini nou pou peche nou yo. L'ap denonse tou sa nou fè ki mal.
 
 ### Chapter 5
 
@@ -42582,7 +42582,7 @@
 
 **[5:21]** Seyè, fè nou tounen vin jwenn ou non! Fè nou tounen vin jwenn ou! Fè nou viv jan nou te konn viv nan tan lontan an non!
 
-**[5:22]** Eske ou voye nou jete pou tout bon? Pou di ou p'ap janm sispann fache sou nou?   
+**[5:22]** Eske ou voye nou jete pou tout bon? Pou di ou p'ap janm sispann fache sou nou?
 
 ## Ezekiel
 
@@ -42642,7 +42642,7 @@
 
 **[1:27]** Depi nan ren l' moute, li te klere nan je m' tankou kwiv yo poli. Depi nan ren l' desann, ou ta di li te nan mitan yon gwo dife ki te klere tout kote l' te ye a.
 
-**[1:28]** Li te nan mitan yon limyè tout koulè tankou lakansyèl yon jou lapli. Gwo bèl limyè sa a te fè m' konprann se Seyè a ki te parèt devan m'. Lè mwen wè sa, mwen tonbe sou de jenou m', tèt mwen bese jouk atè. Lèfini mwen tande yon vwa moun k'ap pale.  
+**[1:28]** Li te nan mitan yon limyè tout koulè tankou lakansyèl yon jou lapli. Gwo bèl limyè sa a te fè m' konprann se Seyè a ki te parèt devan m'. Lè mwen wè sa, mwen tonbe sou de jenou m', tèt mwen bese jouk atè. Lèfini mwen tande yon vwa moun k'ap pale.
 
 ### Chapter 2
 
@@ -42664,7 +42664,7 @@
 
 **[2:9]** M' gade, mwen wè yon men lonje sou mwen. Li te kenbe yon woulo liv tou fèmen.
 
-**[2:10]** Li louvri liv la devan je m', mwen wè li te ekri sou tou de bò l' yo. Li te plen pawòl moun di lè y'ap plenn sò yo, lè yo nan gwo lapenn, lè y'ap soufri anpil.  
+**[2:10]** Li louvri liv la devan je m', mwen wè li te ekri sou tou de bò l' yo. Li te plen pawòl moun di lè y'ap plenn sò yo, lè yo nan gwo lapenn, lè y'ap soufri anpil.
 
 ### Chapter 3
 
@@ -42720,7 +42720,7 @@
 
 **[3:26]** Mwen pral fè lang ou lou nan bouch ou. W'ap bèbè, ou p'ap ka avèti move ras moun tèt di sa yo.
 
-**[3:27]** Apre sa, lè m'a pale avè ou ankò, m'a ba ou lapawòl, epi w'a ba yo mesaj mwen menm, Seyè a, Bondye ki gen tout pouvwa a, m'a ba ou. Sa ki vle koute va koute, sa ki pa vle koute, zafè yo! Se yon move ras moun tèt di yo ye.  
+**[3:27]** Apre sa, lè m'a pale avè ou ankò, m'a ba ou lapawòl, epi w'a ba yo mesaj mwen menm, Seyè a, Bondye ki gen tout pouvwa a, m'a ba ou. Sa ki vle koute va koute, sa ki pa vle koute, zafè yo! Se yon move ras moun tèt di yo ye.
 
 ### Chapter 4
 
@@ -42756,7 +42756,7 @@
 
 **[4:16]** Epi li di ankò: -Nonm o! Mwen pral koupe viv moun lavil Jerizalèm yo. Moun yo pral gen kè sere, yo pral gen kè sote lè yo pral kontwole kantite pen pou yo manje ak kantite dlo pou yo bwè.
 
-**[4:17]** Yo p'ap jwenn kantite pen ak dlo yo bezwen: yo tout y'ap depafini ansanm, y'ap deperi poutèt peche yo fè yo.  
+**[4:17]** Yo p'ap jwenn kantite pen ak dlo yo bezwen: yo tout y'ap depafini ansanm, y'ap deperi poutèt peche yo fè yo.
 
 ### Chapter 5
 
@@ -42792,7 +42792,7 @@
 
 **[5:16]** M'ap koupe viv nou, m'ap kite nou mouri grangou. Nou pral santi doulè grangou a tankou si se flèch yo voye sou nou pou touye nou.
 
-**[5:17]** M'ap voye grangou ak bèt nan bwa k'ap touye tout pitit nou yo. Move maladi pral tonbe sou nou, y'ap mete san nou deyò. M'ap voye lènmi vin fè nou lagè. Se mwen menm Seyè a ki pale.  
+**[5:17]** M'ap voye grangou ak bèt nan bwa k'ap touye tout pitit nou yo. Move maladi pral tonbe sou nou, y'ap mete san nou deyò. M'ap voye lènmi vin fè nou lagè. Se mwen menm Seyè a ki pale.
 
 ### Chapter 6
 
@@ -42822,7 +42822,7 @@
 
 **[6:13]** Kadav yo pral gaye nan mitan zidòl bò lotèl yo, sou tèt tout ti mòn yo, sou tèt tout gwo mòn yo, anba pyebwa plen fèy vèt yo, anba gwo bwadchenn yo, kote yo te konn boule bèt yo ofri pou fè zidòl yo plezi ak bon sant yo. Lè sa a, y'a konnen se mwen men ki Seyè a.
 
-**[6:14]** Wi, m'ap lonje men m' sou yo pou m' touye yo tout. M'ap fè dènye kote yo te rete nan pèyi a tounen yon savann san moun ladan l', depi dezè ki sou bò sid la rive lavil Ribla sou bò nò. Lè sa a, y'a konnen se mwen menm ki Seyè a.  
+**[6:14]** Wi, m'ap lonje men m' sou yo pou m' touye yo tout. M'ap fè dènye kote yo te rete nan pèyi a tounen yon savann san moun ladan l', depi dezè ki sou bò sid la rive lavil Ribla sou bò nò. Lè sa a, y'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 7
 
@@ -42878,7 +42878,7 @@
 
 **[7:26]** Malè ap tonbe sou yo yonn apre lòt. Yon seri move nouvèl ap vini yonn dèyè lòt. Yo pral mande pwofèt la ki vizyon li fè pou yo. Prèt yo p'ap gen anyen pou moutre pèp la. Granmoun yo p'ap gen konsèy pou ba yo.
 
-**[7:27]** Wa a pral nan gwo lapenn. Pitit wa a pral rete sezi, tout pèp la pral tranble. M'ap pini yo pou sa yo fè, m'ap fè yo menm sa yo te fè lòt moun. Lè sa a, y'a konnen se mwen menm ki Seyè a.  
+**[7:27]** Wa a pral nan gwo lapenn. Pitit wa a pral rete sezi, tout pèp la pral tranble. M'ap pini yo pou sa yo fè, m'ap fè yo menm sa yo te fè lòt moun. Lè sa a, y'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 8
 
@@ -42916,7 +42916,7 @@
 
 **[8:17]** Seyè a di m' konsa: -Nonm o! Eske ou wè sa? Moun peyi Jida sa yo ap fè tout vye bagay derespektan y'ap plede fè yo. Y'ap mache fè mechanste nan tout peyi a. Men sa pa kont yo toujou, se pou yo vini jouk isit la nan tanp lan pou fè yo, pou yo fè m' pi move toujou. Men y'ap fè move jès pou derespekte m', yo mete yon ti branch bwa anba nen yo.
 
-**[8:18]** Mwen menm tou mwen pral fè yo santi jan mwen move sou yo. Yo mèt rele byen fò nan zòrèy mwen. Mwen p'ap tande yo. Mwen p'ap gen pitye pou yo. Yo mèt rele jan yo vle nan zòrèy mwen, mwen p'ap pran priyè.  
+**[8:18]** Mwen menm tou mwen pral fè yo santi jan mwen move sou yo. Yo mèt rele byen fò nan zòrèy mwen. Mwen p'ap tande yo. Mwen p'ap gen pitye pou yo. Yo mèt rele jan yo vle nan zòrèy mwen, mwen p'ap pran priyè.
 
 ### Chapter 9
 
@@ -42940,7 +42940,7 @@
 
 **[9:10]** Enben, mwen p'ap gen pitye pou yo, mwen p'ap fè pa yo. M'ap fè yo peye pou sa yo fè.
 
-**[9:11]** Apre sa, nonm ki te gen rad twal fin tou blan sou li a ak poban lank mare nan ren l' lan tounen. Li fè rapò l' bay Seyè a, li di l' konsa: -Mwen fè tou sa ou te ban m' lòd fè a.  
+**[9:11]** Apre sa, nonm ki te gen rad twal fin tou blan sou li a ak poban lank mare nan ren l' lan tounen. Li fè rapò l' bay Seyè a, li di l' konsa: -Mwen fè tou sa ou te ban m' lòd fè a.
 
 ### Chapter 10
 
@@ -42986,7 +42986,7 @@
 
 **[10:21]** Yo chak te gen kat figi, kat zèl ak yon fòm men moun anba chak zèl.
 
-**[10:22]** Figi yo se te menm figi mwen te wè bò larivyè Keba a. Chak bèt vivan t'ap mache dwat devan yo.  
+**[10:22]** Figi yo se te menm figi mwen te wè bò larivyè Keba a. Chak bèt vivan t'ap mache dwat devan yo.
 
 ### Chapter 11
 
@@ -43038,7 +43038,7 @@
 
 **[11:24]** Nan vizyon an toujou, mwen wè lespri Bondye a pran m', li mennen m' tounen lavil Babilòn nan mitan moun yo te depòte yo. Lèfini, vizyon an disparèt.
 
-**[11:25]** Mwen rakonte moun yo te depòte yo tou sa Seyè a te fè m' wè.  
+**[11:25]** Mwen rakonte moun yo te depòte yo tou sa Seyè a te fè m' wè.
 
 ### Chapter 12
 
@@ -43096,7 +43096,7 @@
 
 **[12:27]** -Nonm o! Moun pèp Izrayèl yo ap di vizyon w'ap fè a poko prèt pou l' rive. Mesaj w'ap bay yo, se pa pou yo, y'a gen tan mouri anvan sa ou di a rive.
 
-**[12:28]** Se poutèt sa, w'a di yo: Men sa Seyè a, Bondye sèl mèt la, voye di yo: Mesaj m'ap bay la p'ap pran tan pou l' rive vre. Pawòl m'ap di a pral rive. Se mwen menm Seyè a, Bondye sèl Mèt la, ki di sa.  
+**[12:28]** Se poutèt sa, w'a di yo: Men sa Seyè a, Bondye sèl mèt la, voye di yo: Mesaj m'ap bay la p'ap pran tan pou l' rive vre. Pawòl m'ap di a pral rive. Se mwen menm Seyè a, Bondye sèl Mèt la, ki di sa.
 
 ### Chapter 13
 
@@ -43144,7 +43144,7 @@
 
 **[13:22]** Mwen pa ta renmen anyen rive bon moun yo. Men nou menm, avèk manti n'ap bay yo, n'ap dekouraje yo. N'ap ankouraje mechan yo pou yo pa chanje. Nou pa ba yo chans sove lavi yo.
 
-**[13:23]** Enben! Se poutèt sa koulye a, nou p'ap fè vizyon pou twonpe moun ankò, ni nou p'ap ba yo manti sou sa ki pral rive yo. Mwen pral sove pèp mwen an anba men nou. Konsa, n'a konnen se mwen menm ki Seyè a.  
+**[13:23]** Enben! Se poutèt sa koulye a, nou p'ap fè vizyon pou twonpe moun ankò, ni nou p'ap ba yo manti sou sa ki pral rive yo. Mwen pral sove pèp mwen an anba men nou. Konsa, n'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 14
 
@@ -43192,7 +43192,7 @@
 
 **[14:22]** Men, si nou wè gen kèk moun ki chape, epi ki sove pitit gason yo ak pitit fi yo, gade yo byen lè y'a vin jwenn nou. Gade jan yo viv, gade sa yo fè. Lè sa a, n'a wè si m' pa t' gen rezon voye tout malè sa yo sou lavil Jerizalèm.
 
-**[14:23]** Wi, lè n'a wè jan moun sa yo t'ap viv ak sa yo t'ap fè, n'a konnen mwen te gen rezon fè lavil Jerizalèm sa m' te fè l' la. Se mwen menm, Seyè sèl Mèt la, ki di sa.  
+**[14:23]** Wi, lè n'a wè jan moun sa yo t'ap viv ak sa yo t'ap fè, n'a konnen mwen te gen rezon fè lavil Jerizalèm sa m' te fè l' la. Se mwen menm, Seyè sèl Mèt la, ki di sa.
 
 ### Chapter 15
 
@@ -43210,7 +43210,7 @@
 
 **[15:7]** M'ap kenbe tèt ak yo. Yo te chape anba dife a yon fwa, men se dife k'ap boule yo. Lè m'a kenbe tèt ak yo, n'a konnen se mwen menm ki Seyè a.
 
-**[15:8]** Yo twonpe m' tankou yon fanm k'ap twonpe mari l'. Se poutèt sa m'ap fè peyi a tounen yon dezè. Se mwen menm, Seyè sèl Mèt la, ki di sa.  
+**[15:8]** Yo twonpe m' tankou yon fanm k'ap twonpe mari l'. Se poutèt sa m'ap fè peyi a tounen yon dezè. Se mwen menm, Seyè sèl Mèt la, ki di sa.
 
 ### Chapter 16
 
@@ -43338,7 +43338,7 @@
 
 **[16:62]** Wi, se mwen menm k'ap siyen kontra mwen an avè ou ankò. Lè sa a, w'a konnen se mwen menm ki Seyè a.
 
-**[16:63]** M'ap padonnen ou tou sa ou te fè. Men ou menm, w'ap chonje sa ou te fè yo, w'a wont, ou p'ap ka louvri bouch ou ankò tèlman w'a wont. Se mwen menm, Seyè a, ki di sa.  
+**[16:63]** M'ap padonnen ou tou sa ou te fè. Men ou menm, w'ap chonje sa ou te fè yo, w'a wont, ou p'ap ka louvri bouch ou ankò tèlman w'a wont. Se mwen menm, Seyè a, ki di sa.
 
 ### Chapter 17
 
@@ -43388,7 +43388,7 @@
 
 **[17:23]** sou tèt mòn ki pi wo nan peyi Izrayèl la. L'ap fè branch, l'ap donnen. L'ap vin fè yon bèl bèl pye sèd. Tout kalite zwezo pral rete ladan l'. Y'ap pare solèy nan lonbraj branch li yo.
 
-**[17:24]** Tout pyebwa nan peyi a va konnen se mwen menm ki Seyè a. Mwen koupe gwo pyebwa yo mete atè. Ti pyebwa piti yo, m'ap fè yo grandi. Mwen cheche pyebwa ki vèt yo. Pyebwa ki fin mouri yo, mwen fè yo boujonnen ankò. Se mwen menm Seyè a ki pale. Sa mwen di m'ap fè a, m'ap fè l'.  
+**[17:24]** Tout pyebwa nan peyi a va konnen se mwen menm ki Seyè a. Mwen koupe gwo pyebwa yo mete atè. Ti pyebwa piti yo, m'ap fè yo grandi. Mwen cheche pyebwa ki vèt yo. Pyebwa ki fin mouri yo, mwen fè yo boujonnen ankò. Se mwen menm Seyè a ki pale. Sa mwen di m'ap fè a, m'ap fè l'.
 
 ### Chapter 18
 
@@ -43454,7 +43454,7 @@
 
 **[18:31]** Vire do bay tout vye peche nou te konn fè yo. Chanje kè nou, chanje lide nou. Poukisa atò, nou menm moun pèp Izrayèl yo, pou n'ap chache lanmò konsa?
 
-**[18:32]** Mwen pa ta renmen wè pesonn mouri. Se mwen menm, Seyè sèl Mèt la, ki di sa. Tounen vin jwenn mwen epi n'a viv.  
+**[18:32]** Mwen pa ta renmen wè pesonn mouri. Se mwen menm, Seyè sèl Mèt la, ki di sa. Tounen vin jwenn mwen epi n'a viv.
 
 ### Chapter 19
 
@@ -43484,7 +43484,7 @@
 
 **[19:13]** Koulye a, se nan yon dezè li kanpe, nan yon tè sèk san dlo.
 
-**[19:14]** Dife pran nan pye rezen an. Li boule ni branch li yo ni donn li yo. Li pa gen gwo branch ankò ki pou ta sèvi baton kòmandman pou wa. Sa a se yon chante pou yo chante anpil fwa pou plenn sò chèf peyi Izrayèl yo.  
+**[19:14]** Dife pran nan pye rezen an. Li boule ni branch li yo ni donn li yo. Li pa gen gwo branch ankò ki pou ta sèvi baton kòmandman pou wa. Sa a se yon chante pou yo chante anpil fwa pou plenn sò chèf peyi Izrayèl yo.
 
 ### Chapter 20
 
@@ -43584,7 +43584,7 @@
 
 **[20:48]** Tout moun pral wè se mwen menm, Seyè a, ki limen dife a. Anyen p'ap ka touye l'.
 
-**[20:49]** Lè sa a mwen di: -Aa! Seyè sèl Mèt mwen! Pa fè m' di sa non! Moun deja ap plenyen se an daki ase m'ap pale!  
+**[20:49]** Lè sa a mwen di: -Aa! Seyè sèl Mèt mwen! Pa fè m' di sa non! Moun deja ap plenyen se an daki ase m'ap pale!
 
 ### Chapter 21
 
@@ -43650,7 +43650,7 @@
 
 **[21:31]** M'ap fè ou santi jan m' move. Tankou yon gwo dife k'ap boule, m'ap soufle sou ou, m'ap lage ou nan men lwijanboje yo ki pa konnen pase kraze moun.
 
-**[21:32]** Dife pral boule tout kò ou. San ou pral koule nan tout peyi a. Pesonn p'ap janm chonje ou ankò. Se mwen menm, Seyè a, ki pale.  
+**[21:32]** Dife pral boule tout kò ou. San ou pral koule nan tout peyi a. Pesonn p'ap janm chonje ou ankò. Se mwen menm, Seyè a, ki pale.
 
 ### Chapter 22
 
@@ -43714,7 +43714,7 @@
 
 **[22:30]** Mwen chache nan mitan yo yon moun ki ta ka bati yon miray, ki ta ka kanpe kote miray yo ap kraze a, pou pran defans peyi a lè m'a fè kòlè pou m' detwi l', men mwen pa jwenn pesonn.
 
-**[22:31]** Se konsa, mwen pral move sou yo. Tankou yon dife, mwen pral disparèt yo. Mwen pral fè yo peye pou sa yo fè. Se mwen menm Seyè sèl Mèt la ki pale.  
+**[22:31]** Se konsa, mwen pral move sou yo. Tankou yon dife, mwen pral disparèt yo. Mwen pral fè yo peye pou sa yo fè. Se mwen menm Seyè sèl Mèt la ki pale.
 
 ### Chapter 23
 
@@ -43814,7 +43814,7 @@
 
 **[23:48]** Nan tout peyi a, m'ap fè moun sispann fè libètinaj. Sa va sèvi yon avètisman pou tout medam yo, pou yo pa fè tankou nou.
 
-**[23:49]** Pou nou menm, de sè sa yo, mwen pral pini nou pou libètinaj nou. M'ap fè nou peye peche nou fè lè nou t'ap sèvi zidòl yo. Lè sa a, n'a konnen se mwen menm Seyè a ki sèl Mèt.  
+**[23:49]** Pou nou menm, de sè sa yo, mwen pral pini nou pou libètinaj nou. M'ap fè nou peye peche nou fè lè nou t'ap sèvi zidòl yo. Lè sa a, n'a konnen se mwen menm Seyè a ki sèl Mèt.
 
 ### Chapter 24
 
@@ -43870,7 +43870,7 @@
 
 **[24:26]** Jou sa a, yon moun va chape kò l', l'a kouri vin pote nouvèl la ba ou.
 
-**[24:27]** Menm jou sa a, w'a ka louvri bouch ou pale ak moun ki chape a. Wi, w'a ka pale, ou p'ap bèbè ankò. Se konsa ou va yon siy pou pèp la. Lè sa a, y'a konnen se mwen menm ki Seyè a.  
+**[24:27]** Menm jou sa a, w'a ka louvri bouch ou pale ak moun ki chape a. Wi, w'a ka pale, ou p'ap bèbè ankò. Se konsa ou va yon siy pou pèp la. Lè sa a, y'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 25
 
@@ -43906,7 +43906,7 @@
 
 **[25:16]** Enben, men sa Seyè sèl Mèt la di: M'ap lonje men m' sou moun Filisti yo pou m' pini yo, m'ap disparèt yo, m'ap detwi ti rès moun ki rete nan plenn Filisti ki bò lanmè a.
 
-**[25:17]** Se pa ti pini m' pral pini yo, m'ap tire revanj mwen sou yo. M' pral move anpil sou yo. Lè m'a tire revanj mwen sou yo, y'a konnen se mwen menm ki Seyè a.  
+**[25:17]** Se pa ti pini m' pral pini yo, m'ap tire revanj mwen sou yo. M' pral move anpil sou yo. Lè m'a tire revanj mwen sou yo, y'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 26
 
@@ -43950,7 +43950,7 @@
 
 **[26:20]** M'ap fè nou desann nan peyi kote mò yo ye a, m'ap voye nou al jwenn moun ki mouri depi lontan yo. M'ap fè nou al rete nan peyi ki anba tè a, kote nou pral rete pou kont nou, pou tout tan ansanm ak moun ki mouri deja yo. Konsa, nou p'ap gen plas nou ankò sou latè pami vivan yo.
 
-**[26:21]** Mwen pral fè tout moun pè lè yo wè sa ki rive nou. Se konsa n'a fini. Moun va chache nou, men yo p'ap janm jwenn nou. Se Seyè sèl Mèt la ki di sa.  
+**[26:21]** Mwen pral fè tout moun pè lè yo wè sa ki rive nou. Se konsa n'a fini. Moun va chache nou, men yo p'ap janm jwenn nou. Se Seyè sèl Mèt la ki di sa.
 
 ### Chapter 27
 
@@ -44024,7 +44024,7 @@
 
 **[27:35]** Tout moun ki rete nan peyi bò gwo lanmè a sezi tande sa ki rive ou. Ata wa yo gen kè sote. Yo kagou sitèlman yo pè.
 
-**[27:36]** Moun k'ap fè kòmès nan lòt peyi yo sezi, yo pè pou sa ki rive ou la pa rive yo tou. Wi, ou fini, ou fini nèt.  
+**[27:36]** Moun k'ap fè kòmès nan lòt peyi yo sezi, yo pè pou sa ki rive ou la pa rive yo tou. Wi, ou fini, ou fini nèt.
 
 ### Chapter 28
 
@@ -44078,7 +44078,7 @@
 
 **[28:25]** Seyè sèl Mèt la di ankò: -Mwen pral ranmase moun pèp Izrayèl yo nan mitan tout nasyon kote m' te gaye yo a, m'ap mennen yo tounen. Konsa, mwen pral fè tout nasyon yo wè se yon Bondye apa mwen ye. Moun pèp Izrayèl yo va rete nan peyi mwen te bay Jakòb, sèvitè m' lan.
 
-**[28:26]** Yo pral viv nan peyi a san danje, san malè. Yo pral bati kay, y'ap plante jaden rezen. M'ap pini tout nasyon ki rete toupre yo epi ki pa vle wè yo. Pèp Izrayèl la menm ap viv san danje, san malè. Lè sa a, y'a konnen se mwen menm, Seyè a, ki Bondye yo a.  
+**[28:26]** Yo pral viv nan peyi a san danje, san malè. Yo pral bati kay, y'ap plante jaden rezen. M'ap pini tout nasyon ki rete toupre yo epi ki pa vle wè yo. Pèp Izrayèl la menm ap viv san danje, san malè. Lè sa a, y'a konnen se mwen menm, Seyè a, ki Bondye yo a.
 
 ### Chapter 29
 
@@ -44122,7 +44122,7 @@
 
 **[29:20]** Wi, pou tout gwo sèvis li rann mwen yo, m'ap fè l' kado peyi Lejip la. Paske, se pou mwen yo t'ap travay. Se mwen menm Seyè sèl Mèt la ki di sa.
 
-**[29:21]** Lè sa a, m'ap fè pèp Izrayèl la pran fòs. Ou menm menm, Ezekyèl, m'ap ba ou lizay lapawòl ankò pou tout moun ka tande ou. Konsa, y'a konnen se mwen menm ki Seyè a.  
+**[29:21]** Lè sa a, m'ap fè pèp Izrayèl la pran fòs. Ou menm menm, Ezekyèl, m'ap ba ou lizay lapawòl ankò pou tout moun ka tande ou. Konsa, y'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 30
 
@@ -44176,7 +44176,7 @@
 
 **[30:25]** Wi, m'ap bay ponyèt wa Babilòn lan fòs, men m'ap febli ponyèt farawon an. Lè m'a bay wa Babilòn lan nepe pa m' lan, lè l'a lonje l' sou peyi Lejip la, tout moun va konnen se mwen menm ki Seyè a.
 
-**[30:26]** M'ap gaye moun peyi Lejip yo nan lòt peyi, mwen pral simaye yo nan mitan divès lòt nasyon sou latè. Lè sa a, y'a konnen se mwen menm ki Seyè a.  
+**[30:26]** M'ap gaye moun peyi Lejip yo nan lòt peyi, mwen pral simaye yo nan mitan divès lòt nasyon sou latè. Lè sa a, y'a konnen se mwen menm ki Seyè a.
 
 ### Chapter 31
 
@@ -44214,7 +44214,7 @@
 
 **[31:17]** Y'ap desann ansanm avè l' nan peyi kote mò yo ye a pou y' al jwenn sa ki te mouri nan lagè anvan yo. Lè sa a, tout moun ki t'ap viv nan lonbraj li yo pral gaye nan mitan tout lòt nasyon yo.
 
-**[31:18]** Nan tout pyebwa jaden Edenn yo, kilès ki te bèl, kilès ki te wo tankou ou? Men koulye a, tankou tout lòt pyebwa jaden an, ou pral desann ale nan peyi ki anba tè a. Ou pral jwenn moun ki pa pote mak kontra Bondye a, moun ki mouri nan lagè yo. Se sa k'ap rive farawon an ansanm ak tout pèp li a. Se mwen menm Seyè sèl Mèt la ki pale.  
+**[31:18]** Nan tout pyebwa jaden Edenn yo, kilès ki te bèl, kilès ki te wo tankou ou? Men koulye a, tankou tout lòt pyebwa jaden an, ou pral desann ale nan peyi ki anba tè a. Ou pral jwenn moun ki pa pote mak kontra Bondye a, moun ki mouri nan lagè yo. Se sa k'ap rive farawon an ansanm ak tout pèp li a. Se mwen menm Seyè sèl Mèt la ki pale.
 
 ### Chapter 32
 
@@ -44280,7 +44280,7 @@
 
 **[32:31]** Se pral yon gwo konsolasyon pou wa peyi Lejip la ansanm ak sòlda li yo, lè y'a wè tout kantite moun ki te mouri nan lagè. Se Seyè sèl Mèt la menm ki di sa.
 
-**[32:32]** Atout mwen te fè wa peyi Lejip la mache fè moun pè l' toupatou sou latè, y'ap touye l' ansanm ak tout sòlda li yo. Ni li ni sòlda li yo pral kouche ansanm ak moun ki pa pote mak kontra Bondye a epi ki mouri nan lagè yo. Se mwen menm, Seyè sèl Mèt la, ki di sa.  
+**[32:32]** Atout mwen te fè wa peyi Lejip la mache fè moun pè l' toupatou sou latè, y'ap touye l' ansanm ak tout sòlda li yo. Ni li ni sòlda li yo pral kouche ansanm ak moun ki pa pote mak kontra Bondye a epi ki mouri nan lagè yo. Se mwen menm, Seyè sèl Mèt la, ki di sa.
 
 ### Chapter 33
 
@@ -44348,7 +44348,7 @@
 
 **[33:32]** Pou yo, ou pa anyen pase yon mizisyen ki gen bèl vwa, k'ap chante bèl ti chante swa, ki konn jwe mizik byen. Y'ap koute tou sa w'ap di yo, men yo p'ap fè sa ou di yo fè.
 
-**[33:33]** Men, lè sa ou di ki gen pou rive a rive vre, paske l'ap rive vre, se lè sa a y'a rekonèt te gen yon pwofèt nan mitan yo.  
+**[33:33]** Men, lè sa ou di ki gen pou rive a rive vre, paske l'ap rive vre, se lè sa a y'a rekonèt te gen yon pwofèt nan mitan yo.
 
 ### Chapter 34
 
@@ -44412,7 +44412,7 @@
 
 **[34:30]** Tout moun va konnen se mwen menm Seyè a, Bondye yo a, ki kanpe la avèk yo. Yo menm, moun fanmi Izrayèl yo, se pèp pa m' lan menm yo ye. Se mwen menm, Seyè sèl Mèt la, ki di sa.
 
-**[34:31]** Nou menm, moun, se mouton mwen nou ye, bann mouton m'ap okipe yo. Mwen menm, se Bondye nou mwen ye. Se Seyè sèl Mèt la ki di sa.  
+**[34:31]** Nou menm, moun, se mouton mwen nou ye, bann mouton m'ap okipe yo. Mwen menm, se Bondye nou mwen ye. Se Seyè sèl Mèt la ki di sa.
 
 ### Chapter 35
 
@@ -44444,7 +44444,7 @@
 
 **[35:14]** Men sa Seyè sèl Mèt la di ankò: -Tout moun sou latè pral kontan lè m'a fè peyi nou an tounen yon dezè
 
-**[35:15]** menm jan nou te kontan wè peyi moun Izrayèl yo, peyi moun ki rele m' pa m' yo, tounen yon dezè. Tout mòn Seyi yo, wi, tout peyi Edon an, pral tounen dezè. Lè sa a, tout moun va konnen se mwen menm ki Seyè a.  
+**[35:15]** menm jan nou te kontan wè peyi moun Izrayèl yo, peyi moun ki rele m' pa m' yo, tounen yon dezè. Tout mòn Seyi yo, wi, tout peyi Edon an, pral tounen dezè. Lè sa a, tout moun va konnen se mwen menm ki Seyè a.
 
 ### Chapter 36
 
@@ -44522,7 +44522,7 @@
 
 **[36:37]** Seyè sèl Mèt la pale, li di: M'ap kite moun pèp Izrayèl yo vin mande m' sekou. M'ap kite yo peple tankou yon bann mouton.
 
-**[36:38]** Lavil ki te fin kraze yo pral plen moun tankou lavil Jerizalèm plen mouton yo mennen pou touye pou Bondye lè jou fèt yo. Lè sa a, tout moun va konnen se mwen menm ki Seyè a.  
+**[36:38]** Lavil ki te fin kraze yo pral plen moun tankou lavil Jerizalèm plen mouton yo mennen pou touye pou Bondye lè jou fèt yo. Lè sa a, tout moun va konnen se mwen menm ki Seyè a.
 
 ### Chapter 37
 
@@ -44580,7 +44580,7 @@
 
 **[37:27]** Se la m'ap viv avèk yo. Se mwen menm k'ap Bondye yo. Yo menm, se pèp ki rele m' pa m' lan y'ap ye.
 
-**[37:28]** Wi, m'a fè kay ki apa pou mwen an toujou rete la nan mitan yo. Lè sa a, lòt nasyon yo va konnen se mwen menm, Seyè a, ki te chwazi pèp Izrayèl la pou l' te ka viv apa pou mwen.  
+**[37:28]** Wi, m'a fè kay ki apa pou mwen an toujou rete la nan mitan yo. Lè sa a, lòt nasyon yo va konnen se mwen menm, Seyè a, ki te chwazi pèp Izrayèl la pou l' te ka viv apa pou mwen.
 
 ### Chapter 38
 
@@ -44628,7 +44628,7 @@
 
 **[38:22]** M'ap pini l', m'ap voye maladi sou li, m'ap mete san l' deyò. Mwen pral voye gwo lapli avèk lagrèl, dife ak souf sou li, sou lame li a ak sou tout nasyon ki kanpe avè l' yo.
 
-**[38:23]** Se konsa m'ap fè tout nasyon yo konnen jan mwen gen pouvwa, jan mwen se yon Bondye apa. Lè sa a, m'a fè tout nasyon yo konnen se mwen menm ki Seyè a.  
+**[38:23]** Se konsa m'ap fè tout nasyon yo konnen jan mwen gen pouvwa, jan mwen se yon Bondye apa. Lè sa a, m'a fè tout nasyon yo konnen se mwen menm ki Seyè a.
 
 ### Chapter 39
 
@@ -44688,7 +44688,7 @@
 
 **[39:28]** Lè sa a, pèp mwen an va konnen se mwen menm, Seyè a, ki Bondye yo. Wi, mwen te fè depòte yo nan mitan lòt nasyon. Koulye a, m'ap ranmase yo, m'ap mete yo ansanm ankò nan peyi pa yo a, san mwen pa kite yonn dèyè.
 
-**[39:29]** Mwen p'ap janm vire do ba yo ankò paske m'ap voye lespri m' sou pèp Izrayèl la. Se Seyè sèl Mèt la ki di sa.  
+**[39:29]** Mwen p'ap janm vire do ba yo ankò paske m'ap voye lespri m' sou pèp Izrayèl la. Se Seyè sèl Mèt la ki di sa.
 
 ### Chapter 40
 
@@ -44788,7 +44788,7 @@
 
 **[40:48]** Li fè m' antre nan premye pyès Tanp lan. Li mezire papòt chanm devan an, li jwenn li te gen nèf pye pwofondè ak vennkat pye lajè. Miray bò pòtay la te gen senk pye epesè.
 
-**[40:49]** Te gen dis macheskalye pou moute devan pòt premye pyès Tanp lan. Pyès la te mezire vin pye lajè ak trannkat pye fondè. Te gen de gwo poto won, yonn chak bò pòt la.  
+**[40:49]** Te gen dis macheskalye pou moute devan pòt premye pyès Tanp lan. Pyès la te mezire vin pye lajè ak trannkat pye fondè. Te gen de gwo poto won, yonn chak bò pòt la.
 
 ### Chapter 41
 
@@ -44842,7 +44842,7 @@
 
 **[41:25]** Yo te travay bwa pòt yo tou. Yo te fè pòtre pye palmis ak pòtre zanj cheriben sou tout pòt yo tankou pou miray yo. Yo te mete yon ti twati an bwa ki soti sou deyò devan pòt premye pyès Tanp lan.
 
-**[41:26]** Sou miray pyès devan an, te gen fennèt ak griyay. Tout mi yo te dekore ak pòtre pye palmis.  
+**[41:26]** Sou miray pyès devan an, te gen fennèt ak griyay. Tout mi yo te dekore ak pòtre pye palmis.
 
 ### Chapter 42
 
@@ -44884,7 +44884,7 @@
 
 **[42:19]** Lèfini, li mezire bò ki bay sou solèy kouche a, li jwenn witsankarant (840) pye tou.
 
-**[42:20]** Konsa, li jwenn miray ki te fè wonn tanp lan ansanm ak gwo lakou a te kare kare, witsankarant (840) pye chak bò. Miray la te sèvi pou separe sa ki te apa pou Seyè a ak sa yo pa t' mete apa pou Seyè a.  
+**[42:20]** Konsa, li jwenn miray ki te fè wonn tanp lan ansanm ak gwo lakou a te kare kare, witsankarant (840) pye chak bò. Miray la te sèvi pou separe sa ki te apa pou Seyè a ak sa yo pa t' mete apa pou Seyè a.
 
 ### Chapter 43
 
@@ -44940,7 +44940,7 @@
 
 **[43:26]** Pandan sèt jou, prèt yo va fè seremoni pou mete lotèl la nan kondisyon pou fè sèvis pou mwen. Se konsa y'a pare l' pou li ka sèvi nan Tanp lan, y'a mete l' apa pou Bondye.
 
-**[43:27]** Apre sèt jou sa yo, prèt yo va konmanse ofri sou lotèl la lòt ofrann bèt pou yo boule nèt yo ansanm ak ofrann pèp la pou di Bondye mèsi. Se konsa m'a kontan ak nou. Se mwen menm Seyè sèl Mèt la ki di sa.  
+**[43:27]** Apre sèt jou sa yo, prèt yo va konmanse ofri sou lotèl la lòt ofrann bèt pou yo boule nèt yo ansanm ak ofrann pèp la pou di Bondye mèsi. Se konsa m'a kontan ak nou. Se mwen menm Seyè sèl Mèt la ki di sa.
 
 ### Chapter 44
 
@@ -45004,7 +45004,7 @@
 
 **[44:30]** Tou sa ki pi bon nan premye rekòt nou yo, tou sa n'a pran angajman pou ofri ban mwen, ak tout lòt ofrann n'a fè, se pou prèt yo y'a ye. Chak fwa n'ap kwit pen, se pou nou bay prèt yo premye pen an tankou ofrann, konsa benediksyon mwen va chita lakay nou.
 
-**[44:31]** Prèt yo pa gen dwa manje ankenn bèt, kit se zwezo, kit se lòt bèt, ki mouri mò natirèl osinon bèt nan bwa devore.  
+**[44:31]** Prèt yo pa gen dwa manje ankenn bèt, kit se zwezo, kit se lòt bèt, ki mouri mò natirèl osinon bèt nan bwa devore.
 
 ### Chapter 45
 
@@ -45056,7 +45056,7 @@
 
 **[45:24]** Pou chak towo bèf ak pou chak belye mouton yo gen pou yo touye, se pou yo ofri yon demi mezi grenn jaden ak twaka yon mezi lwil oliv.
 
-**[45:25]** Pou fèt Joupa yo, ki konmanse nan kenzyèm jou setyèm mwa a, wa a va fè menm bagay la tou chak jou, pandan sèt jou: ofrann pou mande Bondye padon, ofrann bèt pou boule nèt yo, ofrann grenn jaden yo ak ofrann lwil oliv yo.  
+**[45:25]** Pou fèt Joupa yo, ki konmanse nan kenzyèm jou setyèm mwa a, wa a va fè menm bagay la tou chak jou, pandan sèt jou: ofrann pou mande Bondye padon, ofrann bèt pou boule nèt yo, ofrann grenn jaden yo ak ofrann lwil oliv yo.
 
 ### Chapter 46
 
@@ -45106,7 +45106,7 @@
 
 **[46:23]** Yo chak te gen yon miray wòch ki te fèmen yo. Nan pye miray yo, te gen yon seri fouye dife ki te fè wonn lakou a.
 
-**[46:24]** Nonm lan di m': -Sa se kizin kote moun k'ap sèvi nan Tanp lan va bouyi vyann bèt pèp la ofri bay Bondye.  
+**[46:24]** Nonm lan di m': -Sa se kizin kote moun k'ap sèvi nan Tanp lan va bouyi vyann bèt pèp la ofri bay Bondye.
 
 ### Chapter 47
 
@@ -45154,7 +45154,7 @@
 
 **[47:22]** N'a separe peyi a bay chak moun sa ki vin pou yo. Moun lòt nasyon k'ap viv nan mitan nou epi ki gen pitit ki fèt la va resevwa moso tè pa yo tou lè n'ap separe peyi a. Se pou nou konsidere yo tankou nenpòt moun pèp Izrayèl k'ap viv nan peyi a. Y'a tire osò pou pòsyon ki pou vin pou yo nan peyi a ansanm ak moun branch fanmi pèp Izrayèl yo.
 
-**[47:23]** Chak moun lòt nasyon ki rete nan peyi a va resevwa moso tè pa yo nan pòsyon ki pou branch fanmi moun kote y'ap viv la. Se mwen menm, Seyè sèl Mèt la, ki di sa.  
+**[47:23]** Chak moun lòt nasyon ki rete nan peyi a va resevwa moso tè pa yo nan pòsyon ki pou branch fanmi moun kote y'ap viv la. Se mwen menm, Seyè sèl Mèt la, ki di sa.
 
 ### Chapter 48
 
@@ -45226,7 +45226,7 @@
 
 **[48:34]** Miray bò solèy kouche a va mezire demil senksanven (2520) mèt longè. L'a gen twa pòtay: pòtay Gad, pòtay Asè, pòtay Neftali.
 
-**[48:35]** Tout miray la nèt va mezire dimil katreven (10.080) mèt longè antou. Depi jou sa a, y'a rele lavil la: Se la Seyè a ye!   
+**[48:35]** Tout miray la nèt va mezire dimil katreven (10.080) mèt longè antou. Depi jou sa a, y'a rele lavil la: Se la Seyè a ye!
 
 ## Daniel
 
@@ -45272,7 +45272,7 @@
 
 **[1:20]** Lè wa a mande yo konsèy pou nenpòt pwoblèm ki mande konesans ak lespri, li wè jenn gason sa yo te konnen dis fwa plis pase tout lòt divinò ak moun ki li zetwal nan tout peyi a.
 
-**[1:21]** Se konsa, Danyèl rete nan palè a jouk lè wa Siris antre lavil Babilòn.  
+**[1:21]** Se konsa, Danyèl rete nan palè a jouk lè wa Siris antre lavil Babilòn.
 
 ### Chapter 2
 
@@ -45372,7 +45372,7 @@
 
 **[2:48]** Wa a mete Danyèl nan yon gwo pozisyon, li fè l' kado anpil bèl bagay, li nonmen l' gouvènè pwovens Babilòn lan, li mete l' sèl chèf sou tout nèg save lavil Babilòn yo.
 
-**[2:49]** Danyèl mande wa a pou li mete Chadrak, Mechak ak Abèdnego reskonsab òganize travay gouvènman an nan pwovens Babilòn lan. Danyèl menm te rete nan palè wa a.  
+**[2:49]** Danyèl mande wa a pou li mete Chadrak, Mechak ak Abèdnego reskonsab òganize travay gouvènman an nan pwovens Babilòn lan. Danyèl menm te rete nan palè wa a.
 
 ### Chapter 3
 
@@ -45434,7 +45434,7 @@
 
 **[3:29]** Koulye a, men lòd mwen bay pou tout pèp, moun tout peyi ak moun tout ras ki pale lòt lang yo: si yonn nan nou pale Bondye Chadrak, Mechak ak Abèdnego a mal, se pou yo depatcha l'. Lèfini, se pou yo kraze kay li nèt mete atè. Paske pa gen lòt bondye ki ka delivre moun konsa.
 
-**[3:30]** Wa a moute Chadrak, Mechak ak Abèdnego grad nan pwovens Babilòn lan.  
+**[3:30]** Wa a moute Chadrak, Mechak ak Abèdnego grad nan pwovens Babilòn lan.
 
 ### Chapter 4
 
@@ -45510,7 +45510,7 @@
 
 **[4:36]** Lè bonnanj mwen tounen sou mwen, yo renmèt mwen pouvwa mwen, otorite mwen ak tout bèl bagay mwen te genyen. Konseye mwen yo ak chèf k'ap sèvi mwen yo voye chache m', yo mete m' wa ankò. Mwen vin gen plis pouvwa pase anvan.
 
-**[4:37]** Koulye a, mwen menm Nèbikadneza, m'ap fè fèt pou wa ki nan syèl la, m'ap fè lwanj pou li, m'ap di jan li gen pouvwa. Tou sa li fè bon. Li pa fè paspouki pou pesonn. Li konn jan pou l' fè ak moun ki kite lògèy vire tèt yo. L'ap desann kòlèt yo.  
+**[4:37]** Koulye a, mwen menm Nèbikadneza, m'ap fè fèt pou wa ki nan syèl la, m'ap fè lwanj pou li, m'ap di jan li gen pouvwa. Tou sa li fè bon. Li pa fè paspouki pou pesonn. Li konn jan pou l' fè ak moun ki kite lògèy vire tèt yo. L'ap desann kòlèt yo.
 
 ### Chapter 5
 
@@ -45574,7 +45574,7 @@
 
 **[5:30]** Menm jou lannwit sa a, yo touye Bèlchaza, wa lavil Babilòn lan.
 
-**[5:31]** Epi, Dariyis, moun peyi Medi a, pran pouvwa a. Dariyis te gen swasanndezan sou tèt li lè sa a.  
+**[5:31]** Epi, Dariyis, moun peyi Medi a, pran pouvwa a. Dariyis te gen swasanndezan sou tèt li lè sa a.
 
 ### Chapter 6
 
@@ -45632,7 +45632,7 @@
 
 **[6:27]** Li sove, li delivre, li fè bèl bagay ak gwo mirak nan syèl la ak sou latè. Li sove Danyèl, li pa kite lyon yo devore l'!
 
-**[6:28]** Zafè Danyèl te mache byen pandan tout rèy wa Dariyis ak wa Siris, moun peyi Pès la.  
+**[6:28]** Zafè Danyèl te mache byen pandan tout rèy wa Dariyis ak wa Siris, moun peyi Pès la.
 
 ### Chapter 7
 
@@ -45690,7 +45690,7 @@
 
 **[7:27]** Y'ap pran pouvwa, otorite ak gouvènman tout gwo peyi ki sou latè yo, y'ap bay pèp k'ap sèvi Bondye ki anwo nan syèl la. Pèp sa a ap gouvènen tankou yon wa pou tout tan. Tout chèf sou latè pral sèvi li, y'ap obeyi li.
 
-**[7:28]** Se tou sa li te rakonte m'. Mwen menm Danyèl, mwen te boulvèse anpil, mwen chanje koulè. Mwen kenbe tout bagay sa yo nan kè m'.  
+**[7:28]** Se tou sa li te rakonte m'. Mwen menm Danyèl, mwen te boulvèse anpil, mwen chanje koulè. Mwen kenbe tout bagay sa yo nan kè m'.
 
 ### Chapter 8
 
@@ -45746,7 +45746,7 @@
 
 **[8:26]** Vizyon ou te fè pou maten ak aswè yo gen pou rive vre jan yo te esplike ou li a. Men, pa di anyen sou sa, paske l'ap pran yon bon ti tan anvan li rive vre.
 
-**[8:27]** Lè sa a, mwen santi mwen t'ap faya. Mwen pase kèk jou malad. Apre sa, mwen leve, m' al fè travay wa a te ban m' fè a. Men, vizyon an t'ap boulvèse lespri m' toujou, m' pa t' ka konprann li.  
+**[8:27]** Lè sa a, mwen santi mwen t'ap faya. Mwen pase kèk jou malad. Apre sa, mwen leve, m' al fè travay wa a te ban m' fè a. Men, vizyon an t'ap boulvèse lespri m' toujou, m' pa t' ka konprann li.
 
 ### Chapter 9
 
@@ -45802,7 +45802,7 @@
 
 **[9:26]** Apre sèt fwa swasanndezan sa yo, yo pral touye chèf Bondye te chwazi a san rezon. Yon lòt chèf ap vini sot byen lwen, l'ap detwi lavil la ansanm ak Tanp lan. Tout bagay pral rete konsa, y'ap fini tankou lè gwo dlo desann. Lè sa a, pral gen lagè ak ravaj jan Bondye te pare l' la.
 
-**[9:27]** Chèf sa a pral siyen yon kontra solid avèk anpil lòt pèp pandan sètan. Men, sou twazan sis mwa l'ap fè yo sispann touye bèt ak fè ofrann pou Bondye. Yo pral mete bagay nou pa ta renmen wè a, bagay k'ap bay gwo lapenn lan chita byen wo nan Tanp lan. L'ap rete la jouk moun ki va mete l' la a va kontre ak bout li, jan Bondye pare sa pou li a.  
+**[9:27]** Chèf sa a pral siyen yon kontra solid avèk anpil lòt pèp pandan sètan. Men, sou twazan sis mwa l'ap fè yo sispann touye bèt ak fè ofrann pou Bondye. Yo pral mete bagay nou pa ta renmen wè a, bagay k'ap bay gwo lapenn lan chita byen wo nan Tanp lan. L'ap rete la jouk moun ki va mete l' la a va kontre ak bout li, jan Bondye pare sa pou li a.
 
 ### Chapter 10
 
@@ -45846,7 +45846,7 @@
 
 **[10:20]** Lè sa a, li di m': -Ou konnen poukisa mwen vin bò kote ou la? Se pou m' te ka fè ou konnen sa ki te ekri nan liv verite a. Koulye a, mwen gen pou m' al goumen ak zanj chèf peyi Pès la. Apre sa, zanj chèf peyi Lagrès la va parèt.
 
-**[10:21]** Pa gen lòt moun pou vin ede m' pase Michèl, zanj chèf pèp Izrayèl la.  
+**[10:21]** Pa gen lòt moun pou vin ede m' pase Michèl, zanj chèf pèp Izrayèl la.
 
 ### Chapter 11
 
@@ -45938,7 +45938,7 @@
 
 **[11:44]** Men, l'ap vin tande nouvèl k'ap kouri soti nan nò ak bò solèy leve. L'ap pè, l'ap kase tèt tounen. L'ap debòde, l'ap kraze brize, l'ap masakre anpil moun.
 
-**[11:45]** L'ap moute gwo tant li a ant lanmè a ak mòn kote tanp Bondye a kanpe a. Men, l'ap mouri, p'ap gen pesonn pou pote l' sekou.  
+**[11:45]** L'ap moute gwo tant li a ant lanmè a ak mòn kote tanp Bondye a kanpe a. Men, l'ap mouri, p'ap gen pesonn pou pote l' sekou.
 
 ### Chapter 12
 
@@ -45966,7 +45966,7 @@
 
 **[12:12]** Ala bon sa pral bon pou moun ki va kenbe fèm jouk mil twasantrannsenk (1.335) jou sa yo va fin pase!
 
-**[12:13]** Ou menm, Danyèl, kenbe fèm jouk sa kaba. Apre sa, w'a mouri. Men, w'a leve vivan ankò pou resevwa rekonpans ou lè tout bagay va fini!   
+**[12:13]** Ou menm, Danyèl, kenbe fèm jouk sa kaba. Apre sa, w'a mouri. Men, w'a leve vivan ankò pou resevwa rekonpans ou lè tout bagay va fini!
 
 ## Hosea
 
@@ -45992,7 +45992,7 @@
 
 **[1:10]** Moun pèp Izrayèl yo va tankou sab bò lanmè: moun p'ap ka ni konte yo, ni konnen kantite ki va genyen. Si koulye a Bondye ap di: Nou pa moun pa m' ankò, yon jou l'a di yo: Nou se pitit Bondye vivan an.
 
-**[1:11]** Moun peyi Jida ak moun peyi Izrayèl va mete tèt yo ansanm ankò. Y'a chwazi yon sèl chèf pou mache alatèt yo. Y'a grandi. Zafè yo va mache nan peyi a. Wi, jou Jizreyèl la pral yon gwo jou.  
+**[1:11]** Moun peyi Jida ak moun peyi Izrayèl va mete tèt yo ansanm ankò. Y'a chwazi yon sèl chèf pou mache alatèt yo. Y'a grandi. Zafè yo va mache nan peyi a. Wi, jou Jizreyèl la pral yon gwo jou.
 
 ### Chapter 2
 
@@ -46040,7 +46040,7 @@
 
 **[2:22]** Tè a va bay manje, diven ak lwil. Se konsa m'a reponn lapriyè moun Jizreyèl yo.
 
-**[2:23]** M'ap fè yo peple nan peyi a. M'a gen pitye pou moun mwen te meprize yo. M'a pale ak moun ki pa moun pa m' yo, m'a di yo: Se pèp mwen nou ye. Yo menm, y'a reponn: Wi, se Bondye nou ou ye.  
+**[2:23]** M'ap fè yo peple nan peyi a. M'a gen pitye pou moun mwen te meprize yo. M'a pale ak moun ki pa moun pa m' yo, m'a di yo: Se pèp mwen nou ye. Yo menm, y'a reponn: Wi, se Bondye nou ou ye.
 
 ### Chapter 3
 
@@ -46052,7 +46052,7 @@
 
 **[3:4]** Konsa tou, moun Izrayèl yo pral rete pase kèk tan san wa, san chèf, san fè ofrann bèt, san wòch lotèl, san plastwon pou prèt yo.
 
-**[3:5]** Apre sa, moun Izrayèl yo va tounen sou sa yo te fè a. Seyè a, Bondye yo a, va fè yo chache l', y'a tounen vin jwenn David, wa yo a. Y'a gen krentif pou Seyè a. Apre sa, y'a toujou resevwa favè l'.  
+**[3:5]** Apre sa, moun Izrayèl yo va tounen sou sa yo te fè a. Seyè a, Bondye yo a, va fè yo chache l', y'a tounen vin jwenn David, wa yo a. Y'a gen krentif pou Seyè a. Apre sa, y'a toujou resevwa favè l'.
 
 ### Chapter 4
 
@@ -46092,7 +46092,7 @@
 
 **[4:18]** Yo mete tèt yo ansanm ak yon bann gwògè. Yo lage kò yo nan fanm. Yo pito sa ki pou fè yo wont la pase sa ki pou ta fè moun respekte yo.
 
-**[4:19]** Yo pran nan yon move kouran. Y'a wont ofrann bèt y'ap fè pou touye pou zidòl yo.  
+**[4:19]** Yo pran nan yon move kouran. Y'a wont ofrann bèt y'ap fè pou touye pou zidòl yo.
 
 ### Chapter 5
 
@@ -46124,7 +46124,7 @@
 
 **[5:14]** M'ap atake moun Efrayim yo tankou yon lyon. M'ap tonbe sou moun Jida yo tankou yon jenn ti lyon. Wi, se mwen k'ap dechire yo an miyèt moso. Apre sa, m'ap kite yo, m'ap depòte yo byen lwen peyi yo. Pesonn p'ap ka sove yo anba men m'.
 
-**[5:15]** M'ap vire do m' tounen lakay mwen jouk y'a rekonèt fòt yo. Se lè sa a y'a chache m'. Wi, lè y'a wè jan y'ap soufri a, y'a mete chache m'.  
+**[5:15]** M'ap vire do m' tounen lakay mwen jouk y'a rekonèt fòt yo. Se lè sa a y'a chache m'. Wi, lè y'a wè jan y'ap soufri a, y'a mete chache m'.
 
 ### Chapter 6
 
@@ -46148,7 +46148,7 @@
 
 **[6:10]** Mwen wè yo fè nan peyi Izrayèl la yon bagay ki fè m' tranble: Moun Efrayim yo lage kò yo nan sèvi zidòl. Moun Izrayèl yo ap fè bagay ki mete yo nan kondisyon yo pa ka fè sèvis pou mwen.
 
-**[6:11]** Men, pou nou menm tou, moun peyi Jida, mwen fikse yon jou pou pini nou pou tou sa nou fè, lè m'a fè moun yo depòte yo tounen nan peyi yo.  
+**[6:11]** Men, pou nou menm tou, moun peyi Jida, mwen fikse yon jou pou pini nou pou tou sa nou fè, lè m'a fè moun yo depòte yo tounen nan peyi yo.
 
 ### Chapter 7
 
@@ -46182,7 +46182,7 @@
 
 **[7:15]** Atout se mwen menm ki te mennen yo, ki te ba yo fòs, yo fè konplo sou mwen.
 
-**[7:16]** Yo vire do ban mwen pou y' al dèyè lòt bondye. Yo tankou yon banza ki pa ka sèvi ankò. Chèf yo ap pale ak twòp awogans. Se poutèt sa, yo pral mouri nan lagè. Lè sa a, moun peyi Lejip yo pral pase yo nan kont rizib yo.  
+**[7:16]** Yo vire do ban mwen pou y' al dèyè lòt bondye. Yo tankou yon banza ki pa ka sèvi ankò. Chèf yo ap pale ak twòp awogans. Se poutèt sa, yo pral mouri nan lagè. Lè sa a, moun peyi Lejip yo pral pase yo nan kont rizib yo.
 
 ### Chapter 8
 
@@ -46212,7 +46212,7 @@
 
 **[8:13]** Yo renmen fè ofrann bèt. Yo touye bèt yo ofri yo epi yo manje vyann lan. Men, mwen menm, Seyè a, se pa sa ki fè m' plezi. Koulye a mwen chonje tout peche yo fè, m'ap pini yo pou sa. M'ap fè yo tounen nan peyi Lejip.
 
-**[8:14]** Moun Izrayèl yo bliye moun ki te fè yo a. Y'ap bati gwo palè. Moun Jida yo menm ap bati gwo lavil ak miray ranpa pou pwoteje yo. Men mwen menm, m'ap voye dife nan lavil yo. Dife a ap boule tout palè yo ak tout gwo kay yo.  
+**[8:14]** Moun Izrayèl yo bliye moun ki te fè yo a. Y'ap bati gwo palè. Moun Jida yo menm ap bati gwo lavil ak miray ranpa pou pwoteje yo. Men mwen menm, m'ap voye dife nan lavil yo. Dife a ap boule tout palè yo ak tout gwo kay yo.
 
 ### Chapter 9
 
@@ -46248,7 +46248,7 @@
 
 **[9:16]** Peyi Efrayim lan tankou yon pyebwa ki pa ka donnen ankò. Rasin li yo fin cheche. Yo p'ap fè pitit. Menm si yo rive fè pitit, m'ap touye pitit yo pi renmen yo.
 
-**[9:17]** Bondye m'ap sèvi a ap voye yo jete, paske yo pa t' koute li. Yo pral mache pwomennen san rete nan mitan nasyon yo.  
+**[9:17]** Bondye m'ap sèvi a ap voye yo jete, paske yo pa t' koute li. Yo pral mache pwomennen san rete nan mitan nasyon yo.
 
 ### Chapter 10
 
@@ -46280,7 +46280,7 @@
 
 **[10:14]** Se konsa, lènmi pral tonbe sou moun nou yo. Y'a detwi tout fò nou yo. Se va tankou lè wa Chalman te sakaje lavil Betabèl jou gwo batay la. Lè sa a, yo te kraze ata manman ak pitit.
 
-**[10:15]** Men sa k'ap rive nou, nou menm moun lavil Betèl. Poutèt gwo mechanste nou te fè a, konmanse batay la va konmanse, wa Izrayèl la gen pou mouri.  
+**[10:15]** Men sa k'ap rive nou, nou menm moun lavil Betèl. Poutèt gwo mechanste nou te fè a, konmanse batay la va konmanse, wa Izrayèl la gen pou mouri.
 
 ### Chapter 11
 
@@ -46306,7 +46306,7 @@
 
 **[11:11]** Y'a vole tankou zwazo, y'a kouri kite peyi Lejip. Y'a pran zèl tankou toutrèl, y'a kouri kite peyi Lasiri. M'a fè yo tounen vin rete nan peyi yo a. Se mwen menm, Seyè a, ki di sa.
 
-**[11:12]** Seyè a di ankò: Moun Efrayim yo kouvri m' anba manti. Moun Izrayèl yo vlope m' ak bèl pawòl. Men, moun peyi Jida yo ap kenbe tèt avè m' toujou, mwen menm Bondye ki toujou kenbe pawòl mwen, mwen menm ki yon Bondye apa!  
+**[11:12]** Seyè a di ankò: Moun Efrayim yo kouvri m' anba manti. Moun Izrayèl yo vlope m' ak bèl pawòl. Men, moun peyi Jida yo ap kenbe tèt avè m' toujou, mwen menm Bondye ki toujou kenbe pawòl mwen, mwen menm ki yon Bondye apa!
 
 ### Chapter 12
 
@@ -46336,7 +46336,7 @@
 
 **[12:13]** Seyè a voye yon pwofèt pou fè pèp Izrayèl la soti kite peyi Lejip. Li fè menm pwofèt la pran swen yo.
 
-**[12:14]** Men, pèp Efrayim lan te fè bagay ki te fè Seyè a fache anpil. Se poutèt sa, l'ap fè yo peye krim yo fè a. L'ap fè yo peye wont yo te fè l' wont la.  
+**[12:14]** Men, pèp Efrayim lan te fè bagay ki te fè Seyè a fache anpil. Se poutèt sa, l'ap fè yo peye krim yo fè a. L'ap fè yo peye wont yo te fè l' wont la.
 
 ### Chapter 13
 
@@ -46370,7 +46370,7 @@
 
 **[13:15]** Menm si Izrayèl ta fleri tankou wozo bò dlo, m'ap fè yon van leve nan dezè kote solèy leve a, m'ap fè l' vante sou li, l'ap cheche tout sous dlo ak tout fontenn li yo. L'ap pran tout bagay ki gen valè nan byen l' yo, l'ap pote yo ale.
 
-**[13:16]** Peyi Samari a pral peye pou sa l' fè a, paske li te leve sou do Bondye li a. Yo pral mouri nan lagè. Y'ap pran pitit yo, y'ap kraze yo atè, y'ap fann vant fanm ansent yo.  
+**[13:16]** Peyi Samari a pral peye pou sa l' fè a, paske li te leve sou do Bondye li a. Yo pral mouri nan lagè. Y'ap pran pitit yo, y'ap kraze yo atè, y'ap fann vant fanm ansent yo.
 
 ### Chapter 14
 
@@ -46390,7 +46390,7 @@
 
 **[14:8]** Nou menm moun Izrayèl, konnen mwen pa gen anyen pou mwen wè ak zidòl. Mwen menm m'a reponn yo lè y'ap lapriyè. M'ap okipe yo tankou pye bwapen ki rete toujou vèt, m'ap ba yo lonbraj. Se mwen menm k'ap ba yo tout kalite benediksyon.
 
-**[14:9]** Se pou moun ki gen konprann chache konprann sa ki ekri la a. Se pou moun ki gen lespri chache konprann li. Paske chemen Bondye se chemen ki dwat. Moun k'ap viv dapre volonte Bondye ap mache ladan l' san anyen p'ap rive yo. Men, moun ki vire do yo bay Bondye ap bite sou wout la.   
+**[14:9]** Se pou moun ki gen konprann chache konprann sa ki ekri la a. Se pou moun ki gen lespri chache konprann li. Paske chemen Bondye se chemen ki dwat. Moun k'ap viv dapre volonte Bondye ap mache ladan l' san anyen p'ap rive yo. Men, moun ki vire do yo bay Bondye ap bite sou wout la.
 
 ## Joel
 
@@ -46434,7 +46434,7 @@
 
 **[1:19]** Seyè, m'ap rele nan pye ou! paske chechrès la fini ak jaden zèb yo. Ou ta di se dife ki boule tout pyebwa yo!
 
-**[1:20]** Ata zannimo nan savann yo ap rele nan pye ou, paske tout larivyè yo chèch nèt. Dife boule tout zèb nan savann yo.  
+**[1:20]** Ata zannimo nan savann yo ap rele nan pye ou, paske tout larivyè yo chèch nèt. Dife boule tout zèb nan savann yo.
 
 ### Chapter 2
 
@@ -46500,7 +46500,7 @@
 
 **[2:31]** Solèy la pral vin tou nwa, lalin lan pral vin wouj kou san anvan jou Seyè a va rive. Aa! Se va yon gwo jou, yon jou k'ap fè moun tranble.
 
-**[2:32]** Lè sa a, tout moun ki va rele nan pye Seyè a va sove. Paske sou mòn Siyon ak nan lavil Jerizalèm va gen moun ki va chape, jan Seyè a te di l' la. Wi, tout moun Seyè a va chwazi, se yo ki va chape.  
+**[2:32]** Lè sa a, tout moun ki va rele nan pye Seyè a va sove. Paske sou mòn Siyon ak nan lavil Jerizalèm va gen moun ki va chape, jan Seyè a te di l' la. Wi, tout moun Seyè a va chwazi, se yo ki va chape.
 
 ### Chapter 3
 
@@ -46544,7 +46544,7 @@
 
 **[3:20]** -(we vèsè pwochen)
 
-**[3:21]** Men, m'a pran revanj moun yo te touye yo. Mwen p'ap fè pa moun ki koupab yo. Men, va gen moun rete nan peyi Jida a ak nan lavil Jerizalèm pou tout tan. Epitou, mwen menm, Seyè a, m'a fè mòn Siyon an tounen kay mwen ankò.   
+**[3:21]** Men, m'a pran revanj moun yo te touye yo. Mwen p'ap fè pa moun ki koupab yo. Men, va gen moun rete nan peyi Jida a ak nan lavil Jerizalèm pou tout tan. Epitou, mwen menm, Seyè a, m'a fè mòn Siyon an tounen kay mwen ankò.
 
 ## Amos
 
@@ -46578,7 +46578,7 @@
 
 **[1:14]** Se poutèt sa, m'ap limen yon dife sou miray lavil Raba. L'a boule gwo kay yo ra tè. Se lè sa a w'a tande rèl moun k'ap goumen nan lagè yo, tankou bri van siklòn k'ap pase.
 
-**[1:15]** Y'a fè wa yo ak tout chèf yo prizonye. Y'a depòte yo. Se Seyè a menm ki di sa.  
+**[1:15]** Y'a fè wa yo ak tout chèf yo prizonye. Y'a depòte yo. Se Seyè a menm ki di sa.
 
 ### Chapter 2
 
@@ -46612,7 +46612,7 @@
 
 **[2:15]** Moun k'ap tire flèch yo p'ap ka rete kanpe. Moun k'ap kouri vit yo p'ap ka chape. Kavalye sou chwal p'ap ka sove lavi yo.
 
-**[2:16]** Jou sa a, ata sòlda ki pi vanyan yo ap lage zam yo atè, y'ap kouri met deyò tankou manman yo te fè yo. Se Seyè a menm ki di sa.  
+**[2:16]** Jou sa a, ata sòlda ki pi vanyan yo ap lage zam yo atè, y'ap kouri met deyò tankou manman yo te fè yo. Se Seyè a menm ki di sa.
 
 ### Chapter 3
 
@@ -46644,7 +46644,7 @@
 
 **[3:14]** Lè jou a rive pou m' pini pèp Izrayèl la pou peche l' yo, m'a detwi tout lotèl ki nan lavil Betèl la. Kòn lotèl yo ap kase, y'ap tonbe atè.
 
-**[3:15]** M'ap detwi kay yo fè pou sezon fredi ak kay yo fè pou sezon chalè. M'ap demoli kay yo fè ak ivwa yo ra tè. Tout gwo kay yo pral disparèt. Se Seyè a menm ki di sa.  
+**[3:15]** M'ap detwi kay yo fè pou sezon fredi ak kay yo fè pou sezon chalè. M'ap demoli kay yo fè ak ivwa yo ra tè. Tout gwo kay yo pral disparèt. Se Seyè a menm ki di sa.
 
 ### Chapter 4
 
@@ -46672,7 +46672,7 @@
 
 **[4:12]** Se poutèt sa, nou menm moun pèp Izrayèl, mwen pral pini nou. E paske mwen pral pini nou konsa a, nou mèt pare kò nou pou n'a l' kontre ak Bondye nou an.
 
-**[4:13]** Se Bondye ki te fè mòn yo. Se li menm ki te kreye van yo. Li fè lèzòm konnen lide li gen nan tèt li. Li fè lajounen soti nan lannwit. L'ap gouvènen sou tout latè. Se poutèt sa, men jan yo rele l': Seyè a, Bondye ki gen tout pouvwa a.  
+**[4:13]** Se Bondye ki te fè mòn yo. Se li menm ki te kreye van yo. Li fè lèzòm konnen lide li gen nan tèt li. Li fè lajounen soti nan lannwit. L'ap gouvènen sou tout latè. Se poutèt sa, men jan yo rele l': Seyè a, Bondye ki gen tout pouvwa a.
 
 ### Chapter 5
 
@@ -46728,7 +46728,7 @@
 
 **[5:26]** Se konsa, koulye a nou gen pou nou pote lakay nou pòtre nou te fè pou nou yo: pòtre Sakit, wa nou an, ak pòtre zetwal Kevan an, bondye n'ap sèvi a.
 
-**[5:27]** M'ap depòte nou nan yon peyi lòt bò Damas. Men sa Seyè a di, li menm yo rele Bondye ki gen tout pouvwa a.  
+**[5:27]** M'ap depòte nou nan yon peyi lòt bò Damas. Men sa Seyè a di, li menm yo rele Bondye ki gen tout pouvwa a.
 
 ### Chapter 6
 
@@ -46758,7 +46758,7 @@
 
 **[6:13]** Nou fè kè nou kontan paske nou pran lavil Lodeba. N'ap plede di: O wi, se avèk fòs kouraj nou nou pran kòn lan.
 
-**[6:14]** Men sa Seyè a, li menm ki Bondye ki gen tout pouvwa a, di: Nou menm, moun Izrayèl, m'ap fè yon nasyon leve dèyè nou. Wi, se mwen menm menm k'ap fè sa, yon nasyon k'ap pran peyi a nan men nou, yon nasyon ki pral peze nou depi nan pas Amat nan nò rive jouk ravin Araba nan sid.  
+**[6:14]** Men sa Seyè a, li menm ki Bondye ki gen tout pouvwa a, di: Nou menm, moun Izrayèl, m'ap fè yon nasyon leve dèyè nou. Wi, se mwen menm menm k'ap fè sa, yon nasyon k'ap pran peyi a nan men nou, yon nasyon ki pral peze nou depi nan pas Amat nan nò rive jouk ravin Araba nan sid.
 
 ### Chapter 7
 
@@ -46794,7 +46794,7 @@
 
 **[7:16]** Koulye a menm, koute pawòl Seyè a voye di ou: Ou menm w'ap mande m' pou m' pa bay ankenn mesaj sou pèp Izrayèl la, pou m' sispann pale sou pitit Izarak yo.
 
-**[7:17]** Poutèt sa, Amatsya, men sa Seyè a di: Madanm ou ap tounen jennès nan lavil la! Pitit gason ou yo ak pitit fi ou yo ap mouri nan lagè! Y'ap pran tè ou yo, y'ap separe yo moso pa moso. Ou menm, ou gen pou ou mouri nan yon peyi etranje kote yo pa sèvi Seyè a. Pèp Izrayèl la menm, y'ap pran l', y'ap depòte l' byen lwen peyi l'.  
+**[7:17]** Poutèt sa, Amatsya, men sa Seyè a di: Madanm ou ap tounen jennès nan lavil la! Pitit gason ou yo ak pitit fi ou yo ap mouri nan lagè! Y'ap pran tè ou yo, y'ap separe yo moso pa moso. Ou menm, ou gen pou ou mouri nan yon peyi etranje kote yo pa sèvi Seyè a. Pèp Izrayèl la menm, y'ap pran l', y'ap depòte l' byen lwen peyi l'.
 
 ### Chapter 8
 
@@ -46824,7 +46824,7 @@
 
 **[8:13]** Nan tan sa a, bèl jenn fi yo ak jenn gason yo va tonbe feblès paske yo p'ap jwenn sa y'ap pwonmennen chache a.
 
-**[8:14]** Kanta pou moun k'ap fè sèman sou Achima, zidòl peyi Samari a, moun sa yo k'ap plede di: Anverite bondye Dann lan! Anverite bondye Bècheba a! yo gen pou yo tonbe pou yo pa janm ka leve ankò.  
+**[8:14]** Kanta pou moun k'ap fè sèman sou Achima, zidòl peyi Samari a, moun sa yo k'ap plede di: Anverite bondye Dann lan! Anverite bondye Bècheba a! yo gen pou yo tonbe pou yo pa janm ka leve ankò.
 
 ### Chapter 9
 
@@ -46856,7 +46856,7 @@
 
 **[9:14]** M'ap mennen pèp mwen an tounen nan peyi l' ankò. Y'a rebati lavil ki te fin kraze yo, y'a rete ladan yo. Y'a plante jaden rezen, y'a bwè diven. Y'a fè bèl jaden, y'a manje rekòt jaden yo.
 
-**[9:15]** M'a plante pèp mwen an nan peyi yo a, nan peyi mwen te ba yo a. Pesonn p'ap janm ka derasinen yo ankò. Se Seyè a, Bondye a, ki pale.   
+**[9:15]** M'a plante pèp mwen an nan peyi yo a, nan peyi mwen te ba yo a. Pesonn p'ap janm ka derasinen yo ankò. Se Seyè a, Bondye a, ki pale.
 
 ## Obadiah
 
@@ -46902,7 +46902,7 @@
 
 **[1:20]** Nan moun yo te depòte yo, sòlda ki moun nan nò peyi Izrayèl la va pran peyi Kanaran an pou yo, rive lavil Sarepta. Men, moun lavil Jerizalèm yo te depòte nan peyi Sefara a va pran tout lavil Negèv yo pou yo.
 
-**[1:21]** Yo tout, y'a moute sou mòn Siyon an pou delivre l'. Se yo ki va gouvènen tout mòn Ezaou a. Lè sa a, se Seyè a menm ki va sèl wa.   
+**[1:21]** Yo tout, y'a moute sou mòn Siyon an pou delivre l'. Se yo ki va gouvènen tout mòn Ezaou a. Lè sa a, se Seyè a menm ki va sèl wa.
 
 ## Jonah
 
@@ -46940,7 +46940,7 @@
 
 **[1:16]** Lè marin yo wè sa, yo te vin pè Seyè a anpil. Yo ofri bèt pou touye ba li. Yo pwomèt pou yo sèvi l'.
 
-**[1:17]** Seyè a fè yon gwo pwason vin vale Jonas. Jonas te pase twa jou twa nwit nan vant pwason an.  
+**[1:17]** Seyè a fè yon gwo pwason vin vale Jonas. Jonas te pase twa jou twa nwit nan vant pwason an.
 
 ### Chapter 2
 
@@ -46962,7 +46962,7 @@
 
 **[2:9]** Men, m'ap chante pou m' fè lwanj ou, m'a ofri bèt pou yo touye pou ou. M'a kenbe angajman mwen te pran an. Se Seyè a ki delivrans nou.
 
-**[2:10]** Lè sa a, Seyè a bay pwason an lòd pou li vonmi Jonas sou rivaj lanmè a.  
+**[2:10]** Lè sa a, Seyè a bay pwason an lòd pou li vonmi Jonas sou rivaj lanmè a.
 
 ### Chapter 3
 
@@ -46984,7 +46984,7 @@
 
 **[3:9]** Nou pa janm konnen, Bondye ka chanje lide. L'a règrèt sa li tapral fè a, li p'ap fache sou nou ankò. Konsa, nou p'ap mouri.
 
-**[3:10]** Bondye wè sa yo t'ap fè a. Li wè yo te soti pou yo chanje lavi yo vre. Se konsa li chanje lide. Li pa pini yo ankò jan li te di li tapral pini yo a.  
+**[3:10]** Bondye wè sa yo t'ap fè a. Li wè yo te soti pou yo chanje lavi yo vre. Se konsa li chanje lide. Li pa pini yo ankò jan li te di li tapral pini yo a.
 
 ### Chapter 4
 
@@ -47008,7 +47008,7 @@
 
 **[4:10]** Lè sa a, Seyè a reponn li: -An! Ou pran lapenn pou yon ti pye masketi ki pa koute ou anyen. Se pa ou ki te fè l' grandi. Li pran yon sèl nwit pou l' grandi. Apre yon sèl jou, li mouri.
 
-**[4:11]** Epi ou pa ta vle m' pran lapenn pou lavil Niniv, gwo kapital sa a, kote ki gen depase sanven mil (120.000) timoun inonsan, moun ki pa konnen ni sa ki byen ni sa ki mal, ansanm ak yon kantite bèt!   
+**[4:11]** Epi ou pa ta vle m' pran lapenn pou lavil Niniv, gwo kapital sa a, kote ki gen depase sanven mil (120.000) timoun inonsan, moun ki pa konnen ni sa ki byen ni sa ki mal, ansanm ak yon kantite bèt!
 
 ## Micah
 
@@ -47044,7 +47044,7 @@
 
 **[1:15]** Kanta pou nou menm, moun lavil Marecha, mwen menm Seyè a, m'ap fè lènmi pran lavil la nan men nou. Grannèg nan peyi Izrayèl yo pral kache nan twou wòch Adoulam lan.
 
-**[1:16]** Nou menm moun Jida, reziyen nou, paske sa fè kè nou fè nou mal pou nou wè sa timoun nou renmen anpil yo ap fè. Mare ren nou tankou moun ki nan lapenn, paske y'ap depòte timoun nou yo ale byen lwen nou.  
+**[1:16]** Nou menm moun Jida, reziyen nou, paske sa fè kè nou fè nou mal pou nou wè sa timoun nou renmen anpil yo ap fè. Mare ren nou tankou moun ki nan lapenn, paske y'ap depòte timoun nou yo ale byen lwen nou.
 
 ### Chapter 2
 
@@ -47072,7 +47072,7 @@
 
 **[2:12]** Men, m'ap reyini tout pitit Jakòb yo ansanm. M'ap ranmase tout ti rès ki rete nan moun Izrayèl yo. M'ap mennen yo ansanm tankou bann mouton k'ap tounen nan pak yo. Peyi a pral tankou yon savann plen mouton. Li pral plen moun ankò.
 
-**[2:13]** Bondye ap pran devan, l'ap louvri yon chemen pou yo. Yo menm, y'a kraze pòtay yo, y'a pase lib soti deyò. Wa yo a va mache devan yo. Wi, se Seyè a ki va mache alatèt yo.  
+**[2:13]** Bondye ap pran devan, l'ap louvri yon chemen pou yo. Yo menm, y'a kraze pòtay yo, y'a pase lib soti deyò. Wa yo a va mache devan yo. Wi, se Seyè a ki va mache alatèt yo.
 
 ### Chapter 3
 
@@ -47098,7 +47098,7 @@
 
 **[3:11]** Moun ap achte chèf yo ak lajan. Prèt yo menm ap esplike lalwa a pou lajan. Ata pwofèt yo ap fè prediksyon pou lajan tou. Yo tout yo pretann di Seyè a avèk yo. Y'ap di: O wi, anyen p'ap rive nou! Seyè a bò kote nou!
 
-**[3:12]** Se konsa, n'ap lakòz peyi Siyon an pral tankou yon jaden y'ap raboure. Jerizalèm ap tounen mazi. Gwo pyebwa pral kouvri tout mòn kote tanp lan ye a.  
+**[3:12]** Se konsa, n'ap lakòz peyi Siyon an pral tankou yon jaden y'ap raboure. Jerizalèm ap tounen mazi. Gwo pyebwa pral kouvri tout mòn kote tanp lan ye a.
 
 ### Chapter 4
 
@@ -47126,7 +47126,7 @@
 
 **[4:12]** Men, moun sa yo pa konnen lide Bondye gen nan tèt li. Yo pa konprann plan travay li. Li te sanble yo pou l' ka pini yo tankou lè yo sanble pwa sou glasi anvan yo bat yo.
 
-**[4:13]** Seyè a di: Nou menm moun lavil Siyon, leve non! Foule lènmi nou yo anba pye nou! M'ap ban nou fòs, n'ap tankou towo bèf ki gen kòn ak zago fè. N'ap kraze anpil nasyon an miyèt moso. N'a pran tou sa yo genyen ansanm ak tout richès yo, n'a ofri yo ban mwen, mwen menm Seyè a, ki mèt tout latè.  
+**[4:13]** Seyè a di: Nou menm moun lavil Siyon, leve non! Foule lènmi nou yo anba pye nou! M'ap ban nou fòs, n'ap tankou towo bèf ki gen kòn ak zago fè. N'ap kraze anpil nasyon an miyèt moso. N'a pran tou sa yo genyen ansanm ak tout richès yo, n'a ofri yo ban mwen, mwen menm Seyè a, ki mèt tout latè.
 
 ### Chapter 5
 
@@ -47158,7 +47158,7 @@
 
 **[5:14]** M'ap derasinen tout pyebwa repozwa nan peyi a. M'ap detwi tout lavil nou yo.
 
-**[5:15]** Lè sa a, m'ap fache, m'ap fè gwo kòlè, m'ap pran revanj mwen sou tout nasyon ki pa t' obeyi m' yo.  
+**[5:15]** Lè sa a, m'ap fache, m'ap fè gwo kòlè, m'ap pran revanj mwen sou tout nasyon ki pa t' obeyi m' yo.
 
 ### Chapter 6
 
@@ -47192,7 +47192,7 @@
 
 **[6:15]** N'a plante, men se pa nou ki va rekòlte. N'a kraze grenn oliv pou fè lwil, men nou p'ap gen tan sèvi avè l'. N'a kraze rezen fè diven, men nou p'ap gen tan goute ladan l'.
 
-**[6:16]** Nou pran swiv move mès wa Omri a ansanm ak move bagay wa Akab, pitit gason l' lan, t'ap fè a. N'ap fè menm bagay yo t'ap fè a toujou. Se poutèt sa, m'ap fè malè tonbe sou nou. Tout moun pral rele chalbari dèyè nou. Moun toupatou pral trete nou tankou fatra.  
+**[6:16]** Nou pran swiv move mès wa Omri a ansanm ak move bagay wa Akab, pitit gason l' lan, t'ap fè a. N'ap fè menm bagay yo t'ap fè a toujou. Se poutèt sa, m'ap fè malè tonbe sou nou. Tout moun pral rele chalbari dèyè nou. Moun toupatou pral trete nou tankou fatra.
 
 ### Chapter 7
 
@@ -47234,7 +47234,7 @@
 
 **[7:19]** Wi, w'a gen pitye pou nou ankò. W'a pran peche nou yo mete anba pye ou. W'a voye yo jete nan fon lanmè!
 
-**[7:20]** W'a moutre pitit Jakòb yo jan ou toujou kenbe pawòl ou. W'a moutre pitit Abraram yo jan ou p'ap janm sispann renmen yo, jan ou te sèmante l' bay zansèt nou yo nan tan lontan!   
+**[7:20]** W'a moutre pitit Jakòb yo jan ou toujou kenbe pawòl ou. W'a moutre pitit Abraram yo jan ou p'ap janm sispann renmen yo, jan ou te sèmante l' bay zansèt nou yo nan tan lontan!
 
 ## Nahum
 
@@ -47268,7 +47268,7 @@
 
 **[1:14]** Men lòd Seyè a bay sou moun peyi Lasiri yo: -Yo pral bliye non nou nèt. Mwen pral detwi tout ras nou. M'ap kraze tout estati zidòl nou gen nan tanp bondye nou yo, kit yo te an bwa, kit yo te an fè. M'ap pare yon tonm pou nou. Nou pa vo anyen ankò!
 
-**[1:15]** Gade! Men yon mesaje k'ap vin sou mòn yo! L'ap pote bon nouvèl k'ap ban nou kè poze. Nou menm moun peyi Jida, nou mèt fete tout fèt nou yo! Fè ofrann nou te pwomèt Bondye yo. Mechan yo p'ap pase lakay nou ankò! Mwen detwi yo nèt.  
+**[1:15]** Gade! Men yon mesaje k'ap vin sou mòn yo! L'ap pote bon nouvèl k'ap ban nou kè poze. Nou menm moun peyi Jida, nou mèt fete tout fèt nou yo! Fè ofrann nou te pwomèt Bondye yo. Mechan yo p'ap pase lakay nou ankò! Mwen detwi yo nèt.
 
 ### Chapter 2
 
@@ -47296,7 +47296,7 @@
 
 **[2:12]** Lyon an te konn dechire vyann bèt yo pou pitit li yo, li te konn trangle bèt pou fenmèl lyon yo. Lè konsa yo plen twou yo ak bèt yo pran, yo plen nich yo ak moso vyann dechikete.
 
-**[2:13]** Koulye a, se mwen menm k'ap regle ak nou! Se Seyè ki gen tout pouvwa a menm ki di sa. Moun pral boule tout cha lagè nou yo nan dife. Nan lagè a, m'ap fè yo touye tout jenn ti lyon nou yo. M'ap rache nan men nou tou sa nou te pran lakay lòt yo. Yo p'ap janm tande vwa delege nou yo ankò nan okenn peyi sou latè.  
+**[2:13]** Koulye a, se mwen menm k'ap regle ak nou! Se Seyè ki gen tout pouvwa a menm ki di sa. Moun pral boule tout cha lagè nou yo nan dife. Nan lagè a, m'ap fè yo touye tout jenn ti lyon nou yo. M'ap rache nan men nou tou sa nou te pran lakay lòt yo. Yo p'ap janm tande vwa delege nou yo ankò nan okenn peyi sou latè.
 
 ### Chapter 3
 
@@ -47336,7 +47336,7 @@
 
 **[3:18]** Ou menm wa peyi Lasiri a, faksyonnè ou yo ap dòmi. Chèf lame ou yo mouri. Moun ou yo gaye nan tout mòn. Pa gen pesonn pou fè yo tounen lakay yo ankò.
 
-**[3:19]** Pa gen renmèd pou ou pou jan ou donmaje a. Pa gen gerizon pou malenng ou a. Tout moun ki va pran nouvèl la va kontan, y'a bat men. Paske, ak tout mechanste ou yo, pa gen moun ou pa t' fè pase mizè.   
+**[3:19]** Pa gen renmèd pou ou pou jan ou donmaje a. Pa gen gerizon pou malenng ou a. Tout moun ki va pran nouvèl la va kontan, y'a bat men. Paske, ak tout mechanste ou yo, pa gen moun ou pa t' fè pase mizè.
 
 ## Habakkuk
 
@@ -47374,7 +47374,7 @@
 
 **[1:16]** Se sak fè tou, yo fè ofrann bèt yo touye pou senn yo, yo boule lansan pou nas yo, paske se nan senn yo ak nan nas yo yo jwenn tout kalite bon pwason pou yo manje.
 
-**[1:17]** Eske yo pral toujou sèvi ak nepe yo san rete, pou yo touye moun lòt nasyon san yo pa gen pitye pou yo?  
+**[1:17]** Eske yo pral toujou sèvi ak nepe yo san rete, pou yo touye moun lòt nasyon san yo pa gen pitye pou yo?
 
 ### Chapter 2
 
@@ -47416,7 +47416,7 @@
 
 **[2:19]** Madichon pou moun k'ap pale ak yon bout bwa, epi k'ap di l': Leve non! Madichon pou moun k'ap pale ak yon moso wòch ki pa gen lapawòl, epi k'ap di l': Kanpe non! Eske bout bwa ak moso ròch ka di ou anyen? Ou kouvri yo avèk plak lò ak plak ajan, se vre. Men yo pa gen lavi.
 
-**[2:20]** Seyè a kanpe nan kay ki apa pou li a. Se pou tout moun sou latè pe bouch devan li.  
+**[2:20]** Seyè a kanpe nan kay ki apa pou li a. Se pou tout moun sou latè pe bouch devan li.
 
 ### Chapter 3
 
@@ -47456,7 +47456,7 @@
 
 **[3:18]** mwen menm, m'ap toujou kontan poutèt Seyè a. M'ap fè fèt pou Bondye k'ap delivre m' lan.
 
-**[3:19]** Se Seyè a ki tout fòs mwen. Li asire pye m' tankou pye kabrit. Li fè m' mache sou mòn yo, san m' pa tonbe. Pou chèf k'ap dirije moun k'ap chante yo.   
+**[3:19]** Se Seyè a ki tout fòs mwen. Li asire pye m' tankou pye kabrit. Li fè m' mache sou mòn yo, san m' pa tonbe. Pou chèf k'ap dirije moun k'ap chante yo.
 
 ## Zephaniah
 
@@ -47496,7 +47496,7 @@
 
 **[1:17]** Seyè a te di ankò: -Mwen pral manyen ak lèzòm! Yo pral tatonnen tankou avèg, paske yo te peche kont Seyè a. San yo pral koule kou dlo, kadav yo pral pouri tankou fatra.
 
-**[1:18]** Jou Seyè a pral move sou yo a, ni lajan yo ni lò yo p'ap ka sove yo. Kòlè li tankou yon dife k'ap boule tout tè a, paske yon sèl kou a, l'ap disparèt tout moun ki rete sou latè. L'ap fini ak yo.  
+**[1:18]** Jou Seyè a pral move sou yo a, ni lajan yo ni lò yo p'ap ka sove yo. Kòlè li tankou yon dife k'ap boule tout tè a, paske yon sèl kou a, l'ap disparèt tout moun ki rete sou latè. L'ap fini ak yo.
 
 ### Chapter 2
 
@@ -47528,7 +47528,7 @@
 
 **[2:14]** Se la tout kalite bèt savann pral chwazi fè kay yo. Koukou ak zagoudi pral fè nich yo nan mitan moso demoli kay wòch yo. Y'ap rele bò fennèt yo. Kaou va rele nan papòt kay yo. Y'ap rache tout bwa sèd nan chapant kay yo.
 
-**[2:15]** Men sa ki pral rive lavil kote moun t'ap pran plezi yo, lavil kote moun te mete nan tèt yo anyen pa ka rive yo, lavil kote moun yo t'ap di nan kè yo: Se mwen menm sèl chèf! Pa gen lòt! Tout moun k'ap pase bò la pral sezi, y'ap mete men nan tèt lè yo wè sa ki rive.  
+**[2:15]** Men sa ki pral rive lavil kote moun t'ap pran plezi yo, lavil kote moun te mete nan tèt yo anyen pa ka rive yo, lavil kote moun yo t'ap di nan kè yo: Se mwen menm sèl chèf! Pa gen lòt! Tout moun k'ap pase bò la pral sezi, y'ap mete men nan tèt lè yo wè sa ki rive.
 
 ### Chapter 3
 
@@ -47570,7 +47570,7 @@
 
 **[3:19]** Jou sa a, m'a pini tout moun ki t'ap peze nou yo. M'a sove moun k'ap bwete yo, m'a fè moun yo te depòte yo tounen lakay yo. Nan tout peyi kote moun t'ap fè yo wont mwen pral fè yo fè lwanj pou yo, tout moun pral nonmen non yo.
 
-**[3:20]** Lè sa a, m'a fè nou tounen lakay nou. Wi, m'a fè nou sanble ankò nan peyi nou an. M'a fè moun toupatou sou latè fè lwanj nou, y'a nonmen non nou. N'a wè m'a fè peyi nou an kanpe ankò. Se Seyè a menm ki di sa.   
+**[3:20]** Lè sa a, m'a fè nou tounen lakay nou. Wi, m'a fè nou sanble ankò nan peyi nou an. M'a fè moun toupatou sou latè fè lwanj nou, y'a nonmen non nou. N'a wè m'a fè peyi nou an kanpe ankò. Se Seyè a menm ki di sa.
 
 ## Haggai
 
@@ -47604,7 +47604,7 @@
 
 **[1:14]** Seyè a mete nan tèt tout moun lanvi pou yo travay nan tanp Bondye yo a, depi Zowobabèl, pitit gason Chealtyèl la, gouvènè peyi Jida a, Jozye, granprèt la, pitit gason Jozadak la, jouk dènye moun ki te tounen soti nan peyi kote yo te depòte yo a. Yo konmanse travay nan tanp Seyè ki gen tout pouvwa a, Bondye yo a,
 
-**[1:15]** jou ki te make vennkatriyèm jou nan sizyèm mwa nan dezyèm lanne rèy wa Dariyis la.  
+**[1:15]** jou ki te make vennkatriyèm jou nan sizyèm mwa nan dezyèm lanne rèy wa Dariyis la.
 
 ### Chapter 2
 
@@ -47652,7 +47652,7 @@
 
 **[2:22]** Mwen pral jete wa k'ap gouvènen yo, mwen pral detwi pouvwa nasyon yo. Mwen pral chavire cha lagè yo ansanm ak moun ki sou yo. Tout chwal yo pral mouri. Pou moun ki te sou chwal yo menm, yonn pral touye lòt ak nepe yo.
 
-**[2:23]** Jou sa a, m'ap pran ou, ou menm Zowobabèl, sèvitè m' lan, pitit gason Chealtyèl la, m'ap ba ou pouvwa pou gouvènen nan non mwen, paske se ou menm mwen chwazi pou sa. Se Seyè ki gen tout pouvwa a ki di sa   
+**[2:23]** Jou sa a, m'ap pran ou, ou menm Zowobabèl, sèvitè m' lan, pitit gason Chealtyèl la, m'ap ba ou pouvwa pou gouvènen nan non mwen, paske se ou menm mwen chwazi pou sa. Se Seyè ki gen tout pouvwa a ki di sa
 
 ## Zechariah
 
@@ -47698,7 +47698,7 @@
 
 **[1:20]** Apre sa, Seyè a fè m' wè kat bòs fòjon ak mato nan men yo.
 
-**[1:21]** Mwen mande l': -Kisa moun sa yo vin fè la a? Li reponn mwen: -Kòn sa yo, se nasyon ki te depòte tout pèp peyi Jida a, ki te fè tout moun Jida yo t'ap mache tèt bese. Men, bòs fòjon sa yo vini pou yo fè nasyon yo pè, pou kraze pouvwa tout nasyon ki t'ap pwofite sou pèp peyi Jida a, lèfini ki te gaye yo toupatou.  
+**[1:21]** Mwen mande l': -Kisa moun sa yo vin fè la a? Li reponn mwen: -Kòn sa yo, se nasyon ki te depòte tout pèp peyi Jida a, ki te fè tout moun Jida yo t'ap mache tèt bese. Men, bòs fòjon sa yo vini pou yo fè nasyon yo pè, pou kraze pouvwa tout nasyon ki t'ap pwofite sou pèp peyi Jida a, lèfini ki te gaye yo toupatou.
 
 ### Chapter 2
 
@@ -47726,7 +47726,7 @@
 
 **[2:12]** Seyè a va pran peyi Jida a pou li tankou pòsyon pa l' nan tè yo mete apa pou li a. L'a chwazi lavil Jerizalèm ankò.
 
-**[2:13]** Se pou tout moun pe bouch yo devan Seyè a, paske l'ap soti kote ki apa pou li a, l'ap vin delivre nou!  
+**[2:13]** Se pou tout moun pe bouch yo devan Seyè a, paske l'ap soti kote ki apa pou li a, l'ap vin delivre nou!
 
 ### Chapter 3
 
@@ -47748,7 +47748,7 @@
 
 **[3:9]** Men m'ap mete yon wòch devan Jozye. Wòch sa a gen sèt fas. Se mwen menm ki pral make pawòl ki pou make sou wòch la. Se mwen menm Seyè ki gen tout pouvwa a ki di sa. M'ap pran yon sèl jou pou m' wete tout peche ki nan peyi a.
 
-**[3:10]** Jou sa a, yonn pral envite lòt vin lakay nou anba pye rezen ak pye fig frans nou yo. Se Seyè ki gen tout pouvwa a menm ki di sa.  
+**[3:10]** Jou sa a, yonn pral envite lòt vin lakay nou anba pye rezen ak pye fig frans nou yo. Se Seyè ki gen tout pouvwa a menm ki di sa.
 
 ### Chapter 4
 
@@ -47778,7 +47778,7 @@
 
 **[4:13]** Li reponn mwen. -Ou pa konnen sa yo vle di? Mwen di l': -Non, mèt. M' pa konnen non!
 
-**[4:14]** Li di m' konsa: -Se de moun Bondye chwazi pou fè travay Seyè a, Mèt latè a.  
+**[4:14]** Li di m' konsa: -Se de moun Bondye chwazi pou fè travay Seyè a, Mèt latè a.
 
 ### Chapter 5
 
@@ -47802,7 +47802,7 @@
 
 **[5:10]** Mwen mande zanj ki t'ap pale avè m' lan: -Kote yo prale ak panyen an la a?
 
-**[5:11]** Li reponn mwen: -Yo pral bati yon tanp pou li nan peyi Babilòn. Y'ap fè yon pye pou li. Lèfini, y'ap mete l' la pou moun adore l'.  
+**[5:11]** Li reponn mwen: -Yo pral bati yon tanp pou li nan peyi Babilòn. Y'ap fè yon pye pou li. Lèfini, y'ap mete l' la pou moun adore l'.
 
 ### Chapter 6
 
@@ -47834,7 +47834,7 @@
 
 **[6:14]** Kouwòn lan menm va rete nan kay ki apa pou Seyè a. L'a sèvi pou fè moun toujou chonje Eldayi, Tobija, Jedaja ak Jozyas, pitit gason Sofoni an.
 
-**[6:15]** Moun ki rete byen lwen va vini, y'a ede nou rebati tanp Seyè a. Lè sa a, n'a konnen se Seyè ki gen tout pouvwa a ki te voye m' kote nou. Se sa menm ki va rive si nou fè tou sa Seyè a, Bondye nou an, ban nou lòd fè.  
+**[6:15]** Moun ki rete byen lwen va vini, y'a ede nou rebati tanp Seyè a. Lè sa a, n'a konnen se Seyè ki gen tout pouvwa a ki te voye m' kote nou. Se sa menm ki va rive si nou fè tou sa Seyè a, Bondye nou an, ban nou lòd fè.
 
 ### Chapter 7
 
@@ -47864,7 +47864,7 @@
 
 **[7:13]** Sa ki rive lè sa a? Menm jan yo pa t' koute l' lè li t'ap pale ak yo a, li menm tou, li pa t' reponn yo lè yo te lapriyè nan pye l'.
 
-**[7:14]** Li gaye yo nan mitan yon bann nasyon yo pa t' konnen. Lènmi fin devalize tout peyi a, yo pa kite pesonn ladan l'. Yon bon peyi konsa, yo fè l' tounen yon dezè.  
+**[7:14]** Li gaye yo nan mitan yon bann nasyon yo pa t' konnen. Lènmi fin devalize tout peyi a, yo pa kite pesonn ladan l'. Yon bon peyi konsa, yo fè l' tounen yon dezè.
 
 ### Chapter 8
 
@@ -47912,7 +47912,7 @@
 
 **[8:22]** Anpil moun ap soti nan gran peyi, y'ap vini lavil Jerizalèm pou yo adore Seyè ki gen tout pouvwa a. Y'ap vin lapriyè nan pye l' pou mande l' benediksyon.
 
-**[8:23]** Wi, men sa Seyè ki gen tout pouvwa a di ankò: Lè sa a, dis moun ap soti nan lòt peyi kote yo pale lòt lang, y'a kenbe yon jwif nan rad, y'a di l': Nou vle ale avè ou, paske nou tande se avèk jwif yo Bondye ye.  
+**[8:23]** Wi, men sa Seyè ki gen tout pouvwa a di ankò: Lè sa a, dis moun ap soti nan lòt peyi kote yo pale lòt lang, y'a kenbe yon jwif nan rad, y'a di l': Nou vle ale avè ou, paske nou tande se avèk jwif yo Bondye ye.
 
 ### Chapter 9
 
@@ -47948,7 +47948,7 @@
 
 **[9:16]** Jou sa a, Seyè a, Bondye yo a, va delivre yo. Tankou yon bon gadò, l'ap sove bann mouton l' yo. Yo pral klere nan peyi li a tankou bèl pyè nan yon kouwòn.
 
-**[9:17]** Ala bon sa pral bon nan peyi a! Ala bèl peyi a pral bèl! Jenn gason ak jenn fi pral grandi ak tout grenn jaden ak tout diven yo pral rekòlte nan peyi a.  
+**[9:17]** Ala bon sa pral bon nan peyi a! Ala bèl peyi a pral bèl! Jenn gason ak jenn fi pral grandi ak tout grenn jaden ak tout diven yo pral rekòlte nan peyi a.
 
 ### Chapter 10
 
@@ -47974,7 +47974,7 @@
 
 **[10:11]** Lè pou yo janbe lanmè peyi Lejip la, mwen menm, Seyè a, m'a frape dlo lanmè a. Epi tout kote larivyè Nil ap koule yo pral chèch. Mwen pral kraze lògèy peyi Lasiri a. Peyi Lejip pral pèdi pouvwa li.
 
-**[10:12]** Mwen pral bay pèp mwen fòs kouraj ankò. Y'a sèvi m', y'a fè lwanj mwen. Se Seyè a menm ki di sa!  
+**[10:12]** Mwen pral bay pèp mwen fòs kouraj ankò. Y'a sèvi m', y'a fè lwanj mwen. Se Seyè a menm ki di sa!
 
 ### Chapter 11
 
@@ -48010,7 +48010,7 @@
 
 **[11:16]** Paske mwen pral mete yon gadò pou okipe bann mouton m' yo. Men, lè yon mouton pèdi, se pa pou li sa. Si yonn egare, li pa pral chache l'. Si yonn blese, li p'ap fè anyen pou geri l'. Si yonn bouke, li p'ap fè anyen pou soutni l'. Okontrè, l'ap manje sa ki pi gra yo, l'ap fann zago tout lòt yo.
 
-**[11:17]** Madichon pou move gadò a! Li kouri kite mouton yo pou kont yo. Se pou lagè fini ak pouvwa l' la. Se pou bra l' vin pòk, se pou li pa wè nan je dwat li.  
+**[11:17]** Madichon pou move gadò a! Li kouri kite mouton yo pou kont yo. Se pou lagè fini ak pouvwa l' la. Se pou bra l' vin pòk, se pou li pa wè nan je dwat li.
 
 ### Chapter 12
 
@@ -48040,7 +48040,7 @@
 
 **[12:13]** gason nan fanmi Levi yo yon bò, medam yo yon lòt bò, gason nan fanmi Chimèy yo yon bò, medam yo yon lòt bò.
 
-**[12:14]** Tout rès fanmi yo va kenbe rèl la tou, gason yo yon bò, medam yo yon lòt bò, chak fanmi bò pa yo.  
+**[12:14]** Tout rès fanmi yo va kenbe rèl la tou, gason yo yon bò, medam yo yon lòt bò, chak fanmi bò pa yo.
 
 ### Chapter 13
 
@@ -48060,7 +48060,7 @@
 
 **[13:8]** Nan tout peyi a, sou chak twa moun, de pral mouri, yonn va rete.
 
-**[13:9]** Mwen pral pase rès moun sa yo nan dife. Mwen pral netwaye yo menm jan yo netwaye ajan nan dife. Mwen pral wè ki kalite moun yo ye menm jan yo pase lò nan dife pou wè si li bon. Y'a lapriyè nan pye m', m'a reponn yo. M'a di yo se pèp pa m' yo ye. Y'a di se mwen menm, Seyè a, ki Bondye yo.  
+**[13:9]** Mwen pral pase rès moun sa yo nan dife. Mwen pral netwaye yo menm jan yo netwaye ajan nan dife. Mwen pral wè ki kalite moun yo ye menm jan yo pase lò nan dife pou wè si li bon. Y'a lapriyè nan pye m', m'a reponn yo. M'a di yo se pèp pa m' yo ye. Y'a di se mwen menm, Seyè a, ki Bondye yo.
 
 ### Chapter 14
 
@@ -48104,7 +48104,7 @@
 
 **[14:20]** Lè jou sa a va rive, y'a make sou ti klòch ki nan lekipay chwal yo: Apa pou Seyè a! Batri koujen ki nan tanp Seyè a va tankou ti bòl ki devan lotèl yo: yo va apa nèt pou Seyè a.
 
-**[14:21]** Y'a mete tout mamit ak tout chodyè moun yo ap sèvi lavil Jerizalèm ak nan tout peyi Jida a apa pou sèvis Seyè ki gen tout pouvwa a. Konsa, tout moun ki vle ofri yon bèt pou yo touye pou Seyè a va vin pran yonn pou yo bouyi vyann bèt yo ofri a. Lè jou sa a va rive, p'ap gen moun k'ap vann ankò nan tanp Seyè ki gen tout pouvwa a.   
+**[14:21]** Y'a mete tout mamit ak tout chodyè moun yo ap sèvi lavil Jerizalèm ak nan tout peyi Jida a apa pou sèvis Seyè ki gen tout pouvwa a. Konsa, tout moun ki vle ofri yon bèt pou yo touye pou Seyè a va vin pran yonn pou yo bouyi vyann bèt yo ofri a. Lè jou sa a va rive, p'ap gen moun k'ap vann ankò nan tanp Seyè ki gen tout pouvwa a.
 
 ## Malachi
 
@@ -48136,7 +48136,7 @@
 
 **[1:13]** Lèfini, n'ap plede di: Nou bouke ak tout bagay sa yo. Nou pa pran ka m' ankò. Se Seyè ki gen tout pouvwa a ki di sa. Nou pran bèt nou vòlò, bèt enfim, osinon bèt malad, nou vin ofri ban mwen. Seyè a mande nou: Nou kwè mwen ka asepte bagay konsa nan men nou? Se Seyè a ki mande nou sa.
 
-**[1:14]** Madichon pou moun k'ap twonpe m' yo. Yo vin ofri bèt ki pa bon pou yo touye pou mwen epi yo kite bon ti mal yo te pwomèt y'ap ban mwen an nan bann mouton yo. Paske, se yon wa ki gen anpil pouvwa mwen ye. Moun tout nasyon va respekte m'. Se Seyè ki gen tout pouvwa a ki di sa.  
+**[1:14]** Madichon pou moun k'ap twonpe m' yo. Yo vin ofri bèt ki pa bon pou yo touye pou mwen epi yo kite bon ti mal yo te pwomèt y'ap ban mwen an nan bann mouton yo. Paske, se yon wa ki gen anpil pouvwa mwen ye. Moun tout nasyon va respekte m'. Se Seyè ki gen tout pouvwa a ki di sa.
 
 ### Chapter 2
 
@@ -48172,7 +48172,7 @@
 
 **[2:16]** Mwen rayi wè lè mouche separe ak madanm. Se Seyè ki gen tout pouvwa a, Bondye pèp Izrayèl la, ki di sa. Mwen rayi wè moun k'ap aji mal konsa ak madanm yo. Se poutèt sa, fè respè tèt nou! Kenbe pwomès nou te fè madanm nou.
 
-**[2:17]** N'ap fatige tèt Seyè a ak yon bann pawòl. Epi n'ap di: Ki jan n'ap fatige l' la? Se lè n'ap plede di: Tout moun ki fè sa ki mal yo bon nan je Seyè a. Li kontan ak yo. Ou ankò lè n'ap mande: Kote Bondye k'ap rann jistis la?  
+**[2:17]** N'ap fatige tèt Seyè a ak yon bann pawòl. Epi n'ap di: Ki jan n'ap fatige l' la? Se lè n'ap plede di: Tout moun ki fè sa ki mal yo bon nan je Seyè a. Li kontan ak yo. Ou ankò lè n'ap mande: Kote Bondye k'ap rann jistis la?
 
 ### Chapter 3
 
@@ -48210,7 +48210,7 @@
 
 **[3:17]** Seyè a di konsa: Y'ap yon pèp apa pou mwen. Jou m'a deside pou m' aji a, se moun pa m' nèt y'ap ye. m'a gen pitye pou yo, menm jan yon papa gen pitye pou pitit gason l' k'ap sèvi l'.
 
-**[3:18]** Lè sa a ankò, n'a wè diferans ant moun k'ap mache dwat ak moun k'ap fè sa ki mal, ant moun k'ap sèvi Bondye ak moun ki p'ap sèvi l'.  
+**[3:18]** Lè sa a ankò, n'a wè diferans ant moun k'ap mache dwat ak moun k'ap fè sa ki mal, ant moun k'ap sèvi Bondye ak moun ki p'ap sèvi l'.
 
 ### Chapter 4
 
@@ -48224,7 +48224,7 @@
 
 **[4:5]** Jou m' lan pral yon gwo jou, yon jou ki pral fè moun tranble. Men, anvan li rive, mwen gen pou m' voye pwofèt Eli.
 
-**[4:6]** Li gen pou l' fè papa byen ankò ak pitit, pitit vin byen ankò ak papa. Si se pa sa, m'ap vini, m'ap detwi peyi nou an nèt ale.    
+**[4:6]** Li gen pou l' fè papa byen ankò ak pitit, pitit vin byen ankò ak papa. Si se pa sa, m'ap vini, m'ap detwi peyi nou an nèt ale.
 
 ## Matthew
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** Lè Jozèf leve nan dòmi an, li fè tou sa zanj Bondye a te di l' fè: li pran madanm li lakay li.
 
-**[1:25]** Men, Jozèf pa t' kouche ak Mari, jouk lè li te fin akouche yon ti gason. Jozèf te rele pitit la Jezi.  
+**[1:25]** Men, Jozèf pa t' kouche ak Mari, jouk lè li te fin akouche yon ti gason. Jozèf te rele pitit la Jezi.
 
 ### Chapter 2
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** Men, lè Jozèf vin konnen se Akelayis ki t'ap gouvènen peyi Jide a nan plas Ewòd, papa l', Jozèf te pè ale la. Bondye pale avè l' ankò nan dòmi. Lè sa a, li pati, li ale nan peyi Galile.
 
-**[2:23]** Li vin rete nan yon vil yo rele Nazarèt. Se konsa, pawòl pwofèt yo te di a rive vre: y'a rele l' moun Nazarèt.  
+**[2:23]** Li vin rete nan yon vil yo rele Nazarèt. Se konsa, pawòl pwofèt yo te di a rive vre: y'a rele l' moun Nazarèt.
 
 ### Chapter 3
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** Fini Jan fin batize l', Jezi soti nan dlo a. Menm lè a, syèl la louvri, Jezi wè Lespri Bondye a desann sou fòm yon ti pijon vin sou li.
 
-**[3:17]** Lè sa a, yon vwa soti nan syèl la, li di: Sa se pitit mwen renmen anpil la. Li fè kè m' kontan anpil.  
+**[3:17]** Lè sa a, yon vwa soti nan syèl la, li di: Sa se pitit mwen renmen anpil la. Li fè kè m' kontan anpil.
 
 ### Chapter 4
 
@@ -48414,7 +48414,7 @@
 
 **[4:24]** Toupatou nan peyi Siri a, se tout moun ki t'ap nonmen non li. Se sa ki fè yo te mennen tout kalite moun malad ba li, ansanm ak tout moun ki soufri doulè, moun ki te gen move lespri sou yo, moun ki soufri malkadi ak moun ki paralize. Jezi geri yo tout.
 
-**[4:25]** Yon bann moun t'ap swiv li. Yo te soti toupatou: te gen moun Galile, moun Dis Vil yo, moun lavil Jerizalèm, moun Jide ak moun nan peyi lòt bò larivyè Jouden an.  
+**[4:25]** Yon bann moun t'ap swiv li. Yo te soti toupatou: te gen moun Galile, moun Dis Vil yo, moun lavil Jerizalèm, moun Jide ak moun nan peyi lòt bò larivyè Jouden an.
 
 ### Chapter 5
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** Lèfini, si se frè nou ase nou di bonjou, se yon pakèt afè sa ye atò? Eske moun lòt nasyon yo pa fè sa tou?
 
-**[5:48]** Non, nou fèt pou nou bon nèt, menm jan Bondye Papa nou ki nan syèl la bon nèt.  
+**[5:48]** Non, nou fèt pou nou bon nèt, menm jan Bondye Papa nou ki nan syèl la bon nèt.
 
 ### Chapter 6
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** Pito nou chache bay bagay peyi Wa ki nan syèl la premye plas nan lavi nou, chache viv jan Bondye vle l' la anvan. Lè sa a, Bondye va ban nou tout lòt bagay sa yo tou.
 
-**[6:34]** Se sa ki fè, pa chaje tèt nou pou denmen, paske denmen va gen zafè pa li. Chak jou gen kont chay pa yo.  
+**[6:34]** Se sa ki fè, pa chaje tèt nou pou denmen, paske denmen va gen zafè pa li. Chak jou gen kont chay pa yo.
 
 ### Chapter 7
 
@@ -48642,7 +48642,7 @@
 
 **[7:28]** Lè Jezi fin di pawòl sa yo, foul moun yo te sezi tande sa l' t'ap moutre yo.
 
-**[7:29]** Se pa t' menm jan ak dirèktè lalwa yo, paske li te pale ak yo tankou yon moun ki otorize.  
+**[7:29]** Se pa t' menm jan ak dirèktè lalwa yo, paske li te pale ak yo tankou yon moun ki otorize.
 
 ### Chapter 8
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** Moun ki t'ap gade kochon yo pran kouri. Y ale lavil la, yo rakonte tou sa ki te pase ansanm ak sa ki te rive de mesye yo ki te gen move lespri sou yo.
 
-**[8:34]** Lè sa a, tout moun lavil la soti vin jwenn Jezi. Lè yo wè l', yo mande li: Tanpri souple, ale fè wout ou.  
+**[8:34]** Lè sa a, tout moun lavil la soti vin jwenn Jezi. Lè yo wè l', yo mande li: Tanpri souple, ale fè wout ou.
 
 ### Chapter 9
 
@@ -48790,7 +48790,7 @@
 
 **[9:37]** Lè sa a, li di disip li yo: Rekòt la anpil, men manke travayè pou ranmase l'.
 
-**[9:38]** Mande mèt jaden an pou li voye travayè nan jaden l' lan.  
+**[9:38]** Mande mèt jaden an pou li voye travayè nan jaden l' lan.
 
 ### Chapter 10
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Moun ki resevwa yon pwofèt Bondye paske se pwofèt Bondye li ye, moun sa a va resevwa rekonpans yo bay yon pwofèt. Moun ki resevwa yon nonm k'ap mache dwat devan Bondye paske se yon moun dwat li ye, moun sa a va resevwa rekonpans yo bay yon moun k'ap mache dwat.
 
-**[10:42]** Sa m'ap di nou la a, se vre wi: Nenpòt moun ki va bay yonn nan ti piti sa yo menm yon gode dlo frèt paske se disip mwen li ye, moun sa a p'ap pèdi rekonpans li.  
+**[10:42]** Sa m'ap di nou la a, se vre wi: Nenpòt moun ki va bay yonn nan ti piti sa yo menm yon gode dlo frèt paske se disip mwen li ye, moun sa a p'ap pèdi rekonpans li.
 
 ### Chapter 11
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Pran jouk mwen, mete l' sou zepòl nou. Pran leson nan men mwen. Paske mwen dou, mwen toujou soumèt mwen tout bon devan Bondye. Konsa, n'a viv ak kè poze.
 
-**[11:30]** Paske, jouk m'ap ban nou an fasil pou pote, chay m'ap ban nou an pa lou.  
+**[11:30]** Paske, jouk m'ap ban nou an fasil pou pote, chay m'ap ban nou an pa lou.
 
 ### Chapter 12
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** Lè sa a, li lonje men l' sou disip li yo, li di: Gade non: men manman m' ak frè m' yo.
 
-**[12:50]** Tout moun ki fè sa Papa m' ki nan syèl la mande pou yo fè, se moun sa yo ki frè m', ki sè m', ki manman m'.  
+**[12:50]** Tout moun ki fè sa Papa m' ki nan syèl la mande pou yo fè, se moun sa yo ki frè m', ki sè m', ki manman m'.
 
 ### Chapter 13
 
@@ -49158,7 +49158,7 @@
 
 **[13:57]** Se sak fè yo te jwenn nan li okazyon tonbe nan peche. Lè sa a, Jezi di yo: Yon pwofèt jwenn respè toupatou, esepte nan peyi l' ak nan fanmi li.
 
-**[13:58]** Se konsa Jezi pa t' fè anpil mirak la, paske yo pa t' kwè nan li.  
+**[13:58]** Se konsa Jezi pa t' fè anpil mirak la, paske yo pa t' kwè nan li.
 
 ### Chapter 14
 
@@ -49232,7 +49232,7 @@
 
 **[14:35]** Moun peyi a rekonèt Jezi, yo voye nouvèl la nan tout rejyon an. Yo mennen tout malad yo ba li.
 
-**[14:36]** Yo di Jezi: Tanpri souple, kite malad yo manyen bò rad ou ase. Tout moun malad ki te manyen rad li te geri.  
+**[14:36]** Yo di Jezi: Tanpri souple, kite malad yo manyen bò rad ou ase. Tout moun malad ki te manyen rad li te geri.
 
 ### Chapter 15
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** Te gen antou katmil (4.000) gason ki te jwenn manje pou yo manje, san konte fanm ak timoun.
 
-**[15:39]** Apre sa, Jezi voye foul moun yo ale, li menm li moute nan kannòt la, li ale nan yon peyi yo rele Magadan.  
+**[15:39]** Apre sa, Jezi voye foul moun yo ale, li menm li moute nan kannòt la, li ale nan yon peyi yo rele Magadan.
 
 ### Chapter 16
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** Konprann sa byen, Moun Bondye voye nan lachè a gen pou l' tounen ak zanj li yo, nan tout bèl pouvwa Papa l' la. Lè sa a, li va bay chak moun sa yo merite dapre sa yo fè.
 
-**[16:28]** Sa m'ap di nou la a, se vre wi: Nan moun ki la koulye a, gen ladan yo ki p'ap gen tan mouri san yo pa wè Moun Bondye voye nan lachè a tounen tankou yon wa k'ap gouvènen.  
+**[16:28]** Sa m'ap di nou la a, se vre wi: Nan moun ki la koulye a, gen ladan yo ki p'ap gen tan mouri san yo pa wè Moun Bondye voye nan lachè a tounen tankou yon wa k'ap gouvènen.
 
 ### Chapter 17
 
@@ -49426,7 +49426,7 @@
 
 **[17:26]** Pyè reponn li: Etranje yo. Lè sa a, Jezi di li: Si se konsa, sitwayen yo egzan.
 
-**[17:27]** Men, nou pa vle bay move egzanp: Ale bò lanmè a, voye yon zen nan dlo a. Rale premye pwason ki va mòde ladan l' lan. Louvri bouch li, wa jwenn yon pyès lajan, mezi pou peye taks pa m' ak taks pa ou. Pran l', al peye pou nou de.  
+**[17:27]** Men, nou pa vle bay move egzanp: Ale bò lanmè a, voye yon zen nan dlo a. Rale premye pwason ki va mòde ladan l' lan. Louvri bouch li, wa jwenn yon pyès lajan, mezi pou peye taks pa m' ak taks pa ou. Pran l', al peye pou nou de.
 
 ### Chapter 18
 
@@ -49498,7 +49498,7 @@
 
 **[18:34]** Mèt la fè gwo kòlè, li fè mete msye nan prizon pou yo bat li jouk lè li fin peye tou sa l' te dwe a.
 
-**[18:35]** Se konsa Papa m' ki anwo nan syèl la va aji ak nou, si nou pa padonnen frè nou yo ak tout kè nou.  
+**[18:35]** Se konsa Papa m' ki anwo nan syèl la va aji ak nou, si nou pa padonnen frè nou yo ak tout kè nou.
 
 ### Chapter 19
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** Nenpòt moun ki va kite kay li, osinon frè l', osinon sè l', osinon papa l', osinon manman l', osinon pitit li, osinon jaden l', poutèt mwen, moun sa a gen pou l' resevwa san (100) fwa plis pase sa, ansanm ak lavi ki p'ap janm fini an.
 
-**[19:30]** Anpil nan moun ki devan yo va rete dèyè. Anpil nan moun ki dèyè yo va pran devan.  
+**[19:30]** Anpil nan moun ki devan yo va rete dèyè. Anpil nan moun ki dèyè yo va pran devan.
 
 ### Chapter 20
 
@@ -49630,7 +49630,7 @@
 
 **[20:33]** Yo di li: Mèt, fè nou wè nan je nou ankò.
 
-**[20:34]** Kè Jezi fè l' mal pou yo, li manyen je yo. Menm lè a de mesye yo wè, epi yo swiv Jezi.  
+**[20:34]** Kè Jezi fè l' mal pou yo, li manyen je yo. Menm lè a de mesye yo wè, epi yo swiv Jezi.
 
 ### Chapter 21
 
@@ -49724,7 +49724,7 @@
 
 **[21:45]** Lè chèf prèt yo ak farizyen yo tande parabòl sa yo, yo vin konprann se pou yo Jezi t'ap pale.
 
-**[21:46]** Lè sa a, yo t'ap chache yon jan pou mete men sou li. Men, yo te pè foul moun yo ki te pran Jezi pou yon bon pwofèt.  
+**[21:46]** Lè sa a, yo t'ap chache yon jan pou mete men sou li. Men, yo te pè foul moun yo ki te pran Jezi pou yon bon pwofèt.
 
 ### Chapter 22
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** Si David rele Kris la Seyè, ki jan pou Kris la ka pitit pitit David?
 
-**[22:46]** Okenn moun pa t' kapab reponn li yon mo. Depi jou sa a pesonn pa t' gen odas poze l' keksyon ankò.  
+**[22:46]** Okenn moun pa t' kapab reponn li yon mo. Depi jou sa a pesonn pa t' gen odas poze l' keksyon ankò.
 
 ### Chapter 23
 
@@ -49898,7 +49898,7 @@
 
 **[23:38]** Enben, tout kay ou yo pral rete san yon moun ladan yo.
 
-**[23:39]** Paske, m'ap di ou sa: Depi jòdi a, nou p'ap wè m' ankò jouk lè a va rive pou nou di: Benediksyon pou Moun ki vini nan non Mèt la.  
+**[23:39]** Paske, m'ap di ou sa: Depi jòdi a, nou p'ap wè m' ankò jouk lè a va rive pou nou di: Benediksyon pou Moun ki vini nan non Mèt la.
 
 ### Chapter 24
 
@@ -50002,7 +50002,7 @@
 
 **[24:50]** Mèt domestik sa a va rive jou l' pa t'ap tann, yon lè li p'ap konnen.
 
-**[24:51]** L'ap rachonnen msye anba kou, l'ap regle avè l' menm jan yo regle ak moun ipokrit yo. Se lè sa a va gen rèl, se lè sa a va gen manje dan.  
+**[24:51]** L'ap rachonnen msye anba kou, l'ap regle avè l' menm jan yo regle ak moun ipokrit yo. Se lè sa a va gen rèl, se lè sa a va gen manje dan.
 
 ### Chapter 25
 
@@ -50096,7 +50096,7 @@
 
 **[25:45]** Wa a va reponn yo: Sa m'ap di nou la a, se vre wi: chak fwa nou pa t' fè sa pou yonn nan pi piti sa yo, se pou mwen nou pa t' fè li.
 
-**[25:46]** Apre sa, l'ap voye yo resevwa chatiman ki p'ap janm fini an. Men, pou moun ki te fè byen yo, y'ap antre nan lavi ki p'ap janm fini an.  
+**[25:46]** Apre sa, l'ap voye yo resevwa chatiman ki p'ap janm fini an. Men, pou moun ki te fè byen yo, y'ap antre nan lavi ki p'ap janm fini an.
 
 ### Chapter 26
 
@@ -50248,7 +50248,7 @@
 
 **[26:74]** Lè sa a, Pyè pran fè sèman, li di yo: Mwen mande Bondye pou nenpòt bagay rive m' si m' manti: Mwen di nou non, mwen pa konnen nonm sa a. Menm lè a, kòk chante.
 
-**[26:75]** Latou, Pyè vin chonje pawòl Jezi te di l' la: Anvan kòk chante, ou va gen tan di twa fwa ou pa janm konnen mwen. Pyè soti, li tonbe kriye jouk li pa t' kapab ankò.  
+**[26:75]** Latou, Pyè vin chonje pawòl Jezi te di l' la: Anvan kòk chante, ou va gen tan di twa fwa ou pa janm konnen mwen. Pyè soti, li tonbe kriye jouk li pa t' kapab ankò.
 
 ### Chapter 27
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** Pilat di yo: Men yon eskwad gad. Ale, veye kavo a jan nou vle a.
 
-**[27:66]** Y ale. Pou yo pi asire kavo a te byen fèmen, yo poze sele sou wòch ki te devan bouch kavo a, epi yo mete eskwad gad la veye li.  
+**[27:66]** Y ale. Pou yo pi asire kavo a te byen fèmen, yo poze sele sou wòch ki te devan bouch kavo a, epi yo mete eskwad gad la veye li.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Ale fè disip pou mwen nan tout nasyon, batize yo nan non Papa a, Pitit la ak Sentespri a.
 
-**[28:20]** Moutre yo pou yo obsève tou sa mwen te ban nou lòd fè. Chonje sa byen: mwen la avèk nou toulejou, jouk sa kaba.   
+**[28:20]** Moutre yo pou yo obsève tou sa mwen te ban nou lòd fè. Chonje sa byen: mwen la avèk nou toulejou, jouk sa kaba.
 
 ## Mark
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** Li di l' konsa: -Piga ou pale sa ak pesonn. Men, al fè prèt la wè ki jan ou ye. Apre sa, wa ofri sa Moyiz te bay lòd pou ofri a. Konsa wa bay tout moun prèv ou geri.
 
-**[1:45]** Men, nonm lan pati, li pran mache fè konnen bagay la toupatou. Li sitèlman gaye nouvèl la, Jezi pa t' kapab antre ankò nan okenn lavil pou moun pa t' wè li. Li te pito rete andeyò, kote ki pa gen moun. Men, moun te soti toupatou vin jwenn li.  
+**[1:45]** Men, nonm lan pati, li pran mache fè konnen bagay la toupatou. Li sitèlman gaye nouvèl la, Jezi pa t' kapab antre ankò nan okenn lavil pou moun pa t' wè li. Li te pito rete andeyò, kote ki pa gen moun. Men, moun te soti toupatou vin jwenn li.
 
 ### Chapter 2
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** Jezi di yo ankò: -Jou repo a te fèt pou moun; se pa moun ki te fèt pou jou repo a.
 
-**[2:28]** Konsa tou, mwen menm, Moun Bondye voye nan lachè a, mwen se mèt repo a.  
+**[2:28]** Konsa tou, mwen menm, Moun Bondye voye nan lachè a, mwen se mèt repo a.
 
 ### Chapter 3
 
@@ -50648,7 +50648,7 @@
 
 **[3:34]** Epi li pwonmennen je l' sou moun ki te chita sou kote l' yo, li di konsa: -Gade: men manman m', men frè m' yo.
 
-**[3:35]** Paske, tout moun ki fè sa Bondye mande yo fè, se moun sa yo ki frè m', ki sè m', ki manman mwen.  
+**[3:35]** Paske, tout moun ki fè sa Bondye mande yo fè, se moun sa yo ki frè m', ki sè m', ki manman mwen.
 
 ### Chapter 4
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** Apre sa, li di yo: -Men, poukisa nou pè konsa? Nou poko gen konfyans toujou?
 
-**[4:41]** Men disip yo te pè anpil anpil, yonn t'ap di lòt konsa: -Ki moun li ye menm, pou jouk van ak dlo lanmè a obeyi li?  
+**[4:41]** Men disip yo te pè anpil anpil, yonn t'ap di lòt konsa: -Ki moun li ye menm, pou jouk van ak dlo lanmè a obeyi li?
 
 ### Chapter 5
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** Menm lè a, ti fi a leve, li pran mache, li te gen douzan. Se pa ti sezi moun yo te sezi lè yo wè sa.
 
-**[5:43]** Men, Jezi pase yo lòd sevè pou yo pa t' kite pesonn konn sa. Apre sa, li di yo: -Bay ti fi a manje.  
+**[5:43]** Men, Jezi pase yo lòd sevè pou yo pa t' kite pesonn konn sa. Apre sa, li di yo: -Bay ti fi a manje.
 
 ### Chapter 6
 
@@ -50934,7 +50934,7 @@
 
 **[6:55]** Pèp la kouri nan tout peyi a; yo pote malad yo tou kouche sou nat ba li kote yo tande li te ye a.
 
-**[6:56]** Toupatou kote Jezi te rive, kit nan bouk, kit nan lavil ou andeyò, yo te mete malad yo sou plas piblik, yo te mande Jezi pou l' te kite yo manyen bò rad li ase. Tout moun ki te manyen rad li te geri.  
+**[6:56]** Toupatou kote Jezi te rive, kit nan bouk, kit nan lavil ou andeyò, yo te mete malad yo sou plas piblik, yo te mande Jezi pou l' te kite yo manyen bò rad li ase. Tout moun ki te manyen rad li te geri.
 
 ### Chapter 7
 
@@ -51010,7 +51010,7 @@
 
 **[7:36]** Jezi te mande yo tout pou yo pa t' di pesonn sa. Men plis li te defann yo pale se plis yo te mache pale bagay la.
 
-**[7:37]** Moun yo te pi sezi ankò. Yo t'ap di: -Nonm sa a fè tout afè l' byen. Li fè soudè yo tande, li fè bèbè yo pale.  
+**[7:37]** Moun yo te pi sezi ankò. Yo t'ap di: -Nonm sa a fè tout afè l' byen. Li fè soudè yo tande, li fè bèbè yo pale.
 
 ### Chapter 8
 
@@ -51088,7 +51088,7 @@
 
 **[8:37]** Ou ankò, kisa yon nonm kapab bay pou l' gen lavi?
 
-**[8:38]** Si yon moun wont di se moun mwen li ye, si li wont pale pawòl mwen nan mitan bann moun alèkile yo ki vire do bay Bondye pou viv nan peche, enben, mwen menm tou, Moun Bondye voye nan lachè a, lè m'a tounen avèk zanj Bondye yo nan tout bèl pouvwa Papa m' lan, m'a wont pran li pou moun pa m' tou.  
+**[8:38]** Si yon moun wont di se moun mwen li ye, si li wont pale pawòl mwen nan mitan bann moun alèkile yo ki vire do bay Bondye pou viv nan peche, enben, mwen menm tou, Moun Bondye voye nan lachè a, lè m'a tounen avèk zanj Bondye yo nan tout bèl pouvwa Papa m' lan, m'a wont pran li pou moun pa m' tou.
 
 ### Chapter 9
 
@@ -51136,7 +51136,7 @@
 
 **[9:22]** Anpil fwa menm, move lespri a jete l' nan dife, osinon nan dlo pou touye li. Men, si ou kapab fè kichòy, tanpri, ede nou. Gen pitye pou nou!
 
-**[9:23]** Jezi di li: -Si m' kapab menm! ...Tout bagay posib wi pou moun ki met konfyans yo nan Bondye.
+**[9:23]** Jezi di li: -Si m' kapab menm!...Tout bagay posib wi pou moun ki met konfyans yo nan Bondye.
 
 **[9:24]** Menm lè a, papa tibway la di byen fò: -Mwen gen konfyans nan Bondye! Men, vin ede m' pou m' sa gen plis konfyans toujou.
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** Paske, tout moun ap sale ak dife.
 
-**[9:50]** Sèl, se yon bon bagay. Men, si sèl la pèdi gou l', ak kisa poun sale l' ankò? Mete sèl nan kè nou, epi viv byen yonn ak lòt.  
+**[9:50]** Sèl, se yon bon bagay. Men, si sèl la pèdi gou l', ak kisa poun sale l' ankò? Mete sèl nan kè nou, epi viv byen yonn ak lòt.
 
 ### Chapter 10
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** Jezi mande li: -Kisa ou vle m' fè pou ou? Avèg la reponn li: -Mèt, fè m' wè ankò.
 
-**[10:52]** Jezi di li: -Ale non, se konfyans ou nan Bondye ki geri ou. Menm lè a, avèg la wè, epi li swiv Jezi nan chemen an.  
+**[10:52]** Jezi di li: -Ale non, se konfyans ou nan Bondye ki geri ou. Menm lè a, avèg la wè, epi li swiv Jezi nan chemen an.
 
 ### Chapter 11
 
@@ -51364,7 +51364,7 @@
 
 **[11:32]** Si nou reponn: Se moun ki voye l'... oum! Yo te pè pèp la, paske tout moun sa yo te pran Jan Batis pou yon bon pwofèt.
 
-**[11:33]** Lè sa a yo reponn Jezi: -Nou pa konnen. Jezi di yo: -Enben, mwen menm tou, mwen p'ap di nou avèk ki otorite mwen fè bagay sa yo.  
+**[11:33]** Lè sa a yo reponn Jezi: -Nou pa konnen. Jezi di yo: -Enben, mwen menm tou, mwen p'ap di nou avèk ki otorite mwen fè bagay sa yo.
 
 ### Chapter 12
 
@@ -51454,7 +51454,7 @@
 
 **[12:43]** Lè sa a Jezi rele disip li yo, li di yo; -Sa m'ap di nou la a, se vre wi: Pòv vèv sa a bay plis pase tout moun ki mete ofrann nan bwat la.
 
-**[12:44]** Paske, tout moun sa yo mete sa yo pa bezwen; men li menm, nan tout mizè li, li bay tou sa l' te genyen, tout sa l' te gen pou l' viv.  
+**[12:44]** Paske, tout moun sa yo mete sa yo pa bezwen; men li menm, nan tout mizè li, li bay tou sa l' te genyen, tout sa l' te gen pou l' viv.
 
 ### Chapter 13
 
@@ -51530,7 +51530,7 @@
 
 **[13:36]** Si l' rive yon lè nou pa t'ap tann li, piga li jwenn nou ap dòmi.
 
-**[13:37]** Sa m' di nou la a, mwen di l' pou tout moun: Pa kite dòmi pran nou.  
+**[13:37]** Sa m' di nou la a, mwen di l' pou tout moun: Pa kite dòmi pran nou.
 
 ### Chapter 14
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** Lè sa a, Pyè kòmanse di: -Mwen mande Bondye nenpòt bagay rive m' si m' manti: mwen pa konnen nonm n'ap pale la a.
 
-**[14:72]** Menm lè a, kòk la chante yon dezyèm fwa. Lè sa a Pyè vin chonje pawòl Jezi te di l' la: anvan kòk chante de fwa, w'a gen tan di twa fwa ou pa janm konnen mwen. Epi li tonbe kriye.  
+**[14:72]** Menm lè a, kòk la chante yon dezyèm fwa. Lè sa a Pyè vin chonje pawòl Jezi te di l' la: anvan kòk chante de fwa, w'a gen tan di twa fwa ou pa janm konnen mwen. Epi li tonbe kriye.
 
 ### Chapter 15
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** Jozèf achte yon bèl dra blan, li desann kò Jezi sou kwa a, li vlope l' nan dra a, epi li mete l' nan yon kavo yo te fouye nan wòch la. Apre sa, li woule yon gwo wòch devan bouch kavo a.
 
-**[15:47]** Mari, moun lavil Magdala a, ansanm ak Mari, manman Jòz, t'ap gade kote yo mete kò a.  
+**[15:47]** Mari, moun lavil Magdala a, ansanm ak Mari, manman Jòz, t'ap gade kote yo mete kò a.
 
 ### Chapter 16
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Apre Seyè Jezi te fin pale ak yo konsa, li moute nan syèl, li al chita sou bò dwat Bondye.
 
-**[16:20]** Disip yo pati, y' al anonse Bon Nouvèl la toupatou. Seyè a t'ap travay ansanm ak yo: Anmenmtan li t'ap fè anpil mirak tou pou moutre sa yo t'ap di a se vre.   
+**[16:20]** Disip yo pati, y' al anonse Bon Nouvèl la toupatou. Seyè a t'ap travay ansanm ak yo: Anmenmtan li t'ap fè anpil mirak tou pou moutre sa yo t'ap di a se vre.
 
 ## Luke
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** Li gen pou l' klere tout moun k'ap viv nan fènwa ak nan lonbraj lanmò. Li gen pou l' fè nou mache nan chemen k'ap ban nou kè poze a.
 
-**[1:80]** Ti pitit la menm t'ap grandi, lespri l' t'ap devlope. Li te rete nan dezè a jouk jou pou l' te parèt an piblik devan pèp Izrayèl la.  
+**[1:80]** Ti pitit la menm t'ap grandi, lespri l' t'ap devlope. Li te rete nan dezè a jouk jou pou l' te parèt an piblik devan pèp Izrayèl la.
 
 ### Chapter 2
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** Apre sa, li desann ak yo, li tounen Nazarèt. Li te soumèt devan yo. Manman l' menm te kenbe tout bagay sa yo nan kè li.
 
-**[2:52]** Jezi t'ap devlope, li te vin gen plis lespri toujou, li t'ap aji yon jan ki te fè ni Bondye ni lèzòm plezi.  
+**[2:52]** Jezi t'ap devlope, li te vin gen plis lespri toujou, li t'ap aji yon jan ki te fè ni Bondye ni lèzòm plezi.
 
 ### Chapter 3
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** Lamèk te pitit Matizala, Matizala te pitit Enòk, Enòk te pitit Jarèd, Jarèd te pitit Maleleyèl, Maleleyèl te pitit Kaynan.
 
-**[3:38]** Kaynan te pitit Enòs, Enòs te pitit Sèt, Sèt te pitit Adan, epi Adan te pitit Bondye.  
+**[3:38]** Kaynan te pitit Enòs, Enòs te pitit Sèt, Sèt te pitit Adan, epi Adan te pitit Bondye.
 
 ### Chapter 4
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** Men li di yo: Fòk m' anonse bon nouvèl gouvènman Bondye ki Wa a bay moun lòt lavil yo tou, paske se pou sa Bondye voye mwen.
 
-**[4:44]** Se konsa, li t'ap mache bay mesaj la nan sinagòg Jide yo.  
+**[4:44]** Se konsa, li t'ap mache bay mesaj la nan sinagòg Jide yo.
 
 ### Chapter 5
 
@@ -52332,7 +52332,7 @@
 
 **[5:38]** Men, diven ki fenk fèt, sa dwe ale nan veso an po ki fenk fèt tou.
 
-**[5:39]** Yon moun ki fin bwè diven ki la lontan p'ap vle bwè diven ki fenk fèt. Se sa pawòl la di: Pi vye pi bon.  
+**[5:39]** Yon moun ki fin bwè diven ki la lontan p'ap vle bwè diven ki fenk fèt. Se sa pawòl la di: Pi vye pi bon.
 
 ### Chapter 6
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** L'ap tankou yon nonm k'ap bati yon kay; li fouye tè a byen fon, li moute fondasyon kay la sou wòch. Dlo desann, lavalas frape kay la. Men, kay la pa brannen paske li te byen bati.
 
-**[6:49]** Men, moun ki tande pawòl mwen, ki pa fè sa mwen di fè, li tankou yon nonm ki bati yon kay ratè, san fondasyon. Lavalas frape kay la, yon sèl kou kay la tonbe, li kraze nèt.  
+**[6:49]** Men, moun ki tande pawòl mwen, ki pa fè sa mwen di fè, li tankou yon nonm ki bati yon kay ratè, san fondasyon. Lavalas frape kay la, yon sèl kou kay la tonbe, li kraze nèt.
 
 ### Chapter 7
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** Moun ki te chita bò tab la avèk li yo pran di nan kè yo: Ki moun nonm sa a ye menm pou li padonnen peche?
 
-**[7:50]** Men Jezi di fanm lan: Se konfyans ou nan Bondye ki sove ou. Ale ak kè poze.  
+**[7:50]** Men Jezi di fanm lan: Se konfyans ou nan Bondye ki sove ou. Ale ak kè poze.
 
 ### Chapter 8
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** Lespri tifi a tounen sou li ankò, menm lè a li leve. Jezi pase lòd pou yo ba l' manje.
 
-**[8:56]** Papa ak manman tifi a te sezi anpil, men Jezi bay yo lòd pou yo pa di pesonn sak te pase.  
+**[8:56]** Papa ak manman tifi a te sezi anpil, men Jezi bay yo lòd pou yo pa di pesonn sak te pase.
 
 ### Chapter 9
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** Yon lòt di l' ankò: M'ap swiv ou wi, Mèt. Men, kite m' al di moun lakay mwen yo orevwa.
 
-**[9:62]** Jezi reponn li: Moun ki mete men nan yon travay, epi k'ap vire tèt gade dèyè, moun konsa pa ka sèvi nan peyi kote Bondye Wa a.  
+**[9:62]** Jezi reponn li: Moun ki mete men nan yon travay, epi k'ap vire tèt gade dèyè, moun konsa pa ka sèvi nan peyi kote Bondye Wa a.
 
 ### Chapter 10
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** Jezi reponn li: Mat, Mat. W'ap trakase tèt ou, w'ap bat kò ou pou yon bann bagay.
 
-**[10:42]** Men, se yon sèl bagay ki nesesè. Se li Mari chwazi, yo p'ap janm wete l' nan men li.  
+**[10:42]** Men, se yon sèl bagay ki nesesè. Se li Mari chwazi, yo p'ap janm wete l' nan men li.
 
 ### Chapter 11
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** Lè Jezi kite kote l' te ye a, dirèktè lalwa yo ak farizyen yo kòmanse atake l' avèk fòs; yo t'ap poze l' keksyon sou anpil bagay.
 
-**[11:54]** Yo t'ap pare pèlen pou li pou pran kèk pawòl nan bouch li.  
+**[11:54]** Yo t'ap pare pèlen pou li pou pran kèk pawòl nan bouch li.
 
 ### Chapter 12
 
@@ -53090,7 +53090,7 @@
 
 **[12:58]** Si yon moun pote plent lajistis pou ou, si nou tou de nou pral nan tribinal ansanm, pito n' chache antann nou pandan nou nan chemen. Si se pa sa, l'ap trennen ou devan jij la, jij la ap lage ou nan men lapolis, lapolis ap mete ou nan prizon.
 
-**[12:59]** M'ap di ou sa: ou p'ap soti nan prizon an tout tan ou pa peye dènye lajan ou dwe a.  
+**[12:59]** M'ap di ou sa: ou p'ap soti nan prizon an tout tan ou pa peye dènye lajan ou dwe a.
 
 ### Chapter 13
 
@@ -53162,7 +53162,7 @@
 
 **[13:34]** Jerizalèm, Jerizalèm, ou menm k'ap touye pwofèt yo, k'ap touye moun Bondye voye ba ou yo ak kout wòch, depi lontan mwen te vle sanble moun ou yo tankou yon manman poul sanble ti pitit li yo anba zèl li, men ou pa t' vle!
 
-**[13:35]** Enben, kay ou yo va rete san moun. M'ap di ou sa: nou p'ap wè m' ankò, jouk lè a va rive pou nou di: benediksyon pou moun ki vini nan non Mèt la.  
+**[13:35]** Enben, kay ou yo va rete san moun. M'ap di ou sa: nou p'ap wè m' ankò, jouk lè a va rive pou nou di: benediksyon pou moun ki vini nan non Mèt la.
 
 ### Chapter 14
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Sèl, se yon bon bagay; men si sèl la pèdi gou l', ak kisa pou n' fè l' sale ankò?
 
-**[14:35]** Lè sa a, sèl la pa bon pou mete ni nan jaden ni nan fimye, se jete pou yo voye sa jete. Si nou gen zòrèy pou n' tande, tande.  
+**[14:35]** Lè sa a, sèl la pa bon pou mete ni nan jaden ni nan fimye, se jete pou yo voye sa jete. Si nou gen zòrèy pou n' tande, tande.
 
 ### Chapter 15
 
@@ -53300,7 +53300,7 @@
 
 **[15:31]** Papa a di li: Pitit mwen, ou toujou la avè m'; tout sa m' genyen se pou ou.
 
-**[15:32]** Men, fòk kanmenm nou te fè fèt, nou pa t' ka pa kontan, paske frè ou la te mouri, men li tounen vivan, li te pèdi, mwen jwenn li koulye a.  
+**[15:32]** Men, fòk kanmenm nou te fè fèt, nou pa t' ka pa kontan, paske frè ou la te mouri, men li tounen vivan, li te pèdi, mwen jwenn li koulye a.
 
 ### Chapter 16
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** Li di li: Non, papa Abraram, yo p'ap koute. Men, si yonn nan mò yo al jwenn yo, y'a chanje lavi yo.
 
-**[16:31]** Lè sa a, Abraram di li: Si yo pa koute Moyiz ak pwofèt yo, yo p'ap kite pesonn lòt fè yo wè verite a. Li ta mèt yon mò ki ta leve vivan ankò, yo p'ap koute li.  
+**[16:31]** Lè sa a, Abraram di li: Si yo pa koute Moyiz ak pwofèt yo, yo p'ap kite pesonn lòt fè yo wè verite a. Li ta mèt yon mò ki ta leve vivan ankò, yo p'ap koute li.
 
 ### Chapter 17
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** Va gen dezòm nan yon menm jaden; y'ap pran yonn, y'ap kite lòt la.
 
-**[17:37]** Disip yo pran lapawòl, yo mande l' konsa: Ki kote sa pral fèt, Mèt? Li reponn yo: Kote kadav la va ye, se la votou yo va sanble.  
+**[17:37]** Disip yo pran lapawòl, yo mande l' konsa: Ki kote sa pral fèt, Mèt? Li reponn yo: Kote kadav la va ye, se la votou yo va sanble.
 
 ### Chapter 18
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** Epi Jezi di li: Wè non. Se konfyans ou nan Bondye ki geri ou.
 
-**[18:43]** Menm lè a, avèg la wè. Apre sa, li t'ap swiv Jezi. Li t'ap fè lwanj Bondye. Lè pèp la wè sa, yo tout pran fè lwanj Bondye tou.  
+**[18:43]** Menm lè a, avèg la wè. Apre sa, li t'ap swiv Jezi. Li t'ap fè lwanj Bondye. Lè pèp la wè sa, yo tout pran fè lwanj Bondye tou.
 
 ### Chapter 19
 
@@ -53626,7 +53626,7 @@
 
 **[19:47]** Chak jou, Jezi te nan tanp lan, li t'ap moutre moun yo anpil bagay. Chèf prèt yo, dirèktè lalwa yo ak chèf pèp la t'ap chache ki jan pou yo touye li.
 
-**[19:48]** Men, yo pa t' kapab jwenn yon jan pou yo te fè sa, paske tout pèp la t'ap koute sa l' t'ap di san yo pa pèdi yon mo.  
+**[19:48]** Men, yo pa t' kapab jwenn yon jan pou yo te fè sa, paske tout pèp la t'ap koute sa l' t'ap di san yo pa pèdi yon mo.
 
 ### Chapter 20
 
@@ -53722,7 +53722,7 @@
 
 **[20:46]** Pran prekosyon nou avèk dirèktè lalwa yo. Yo renmen pwonmennen avèk rad long yo; yo renmen moun bese tèt yo jouk atè pou di yo bonjou sou plas piblik; lè y' al nan sinagòg, yo toujou ap chache pou yo chita kote pou tout moun ka wè yo; nan resepsyon yo chache pi bon plas la.
 
-**[20:47]** Se piye y'ap piye pòv vèv yo, anmenmtan y'ap plede fè lapriyè byen long pou parèt pi bon. Chatiman moun sa yo pral pi rèd.  
+**[20:47]** Se piye y'ap piye pòv vèv yo, anmenmtan y'ap plede fè lapriyè byen long pou parèt pi bon. Chatiman moun sa yo pral pi rèd.
 
 ### Chapter 21
 
@@ -53800,7 +53800,7 @@
 
 **[21:37]** Tout lajounen Jezi te nan tanp lan, li t'ap moutre moun yo anpil bagay. Men, lè solèy fin kouche, li te konn soti al pase nwit sou mòn Oliv la.
 
-**[21:38]** Chak maten, byen bonè, tout pèp la te konn al jwenn li nan tanp lan pou tande sa l' t'ap di.  
+**[21:38]** Chak maten, byen bonè, tout pèp la te konn al jwenn li nan tanp lan pou tande sa l' t'ap di.
 
 ### Chapter 22
 
@@ -53944,7 +53944,7 @@
 
 **[22:70]** Yo tout di li: Ou se pitit Bondye a, pa vre? Li reponn yo: Apa nou di li. Wi, se sa mwen ye menm.
 
-**[22:71]** Lè sa a yo di: Sa nou bezwen temwen ankò fè. Nou menm nou fèk tande pawòl ki soti nan bouch li.  
+**[22:71]** Lè sa a yo di: Sa nou bezwen temwen ankò fè. Nou menm nou fèk tande pawòl ki soti nan bouch li.
 
 ### Chapter 23
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** Medam ki t'ap mache avèk Jezi depi nan peyi Galile yo te ale ansanm ak Jozèf. Yo wè kavo a, yo wè ki jan yo te mete kò Jezi ladan li.
 
-**[23:56]** Apre sa, yo tounen lakay yo, y' al pare lwil santi bon ak odè pou benyen kò a. Men, jou repo a yo pa t' fè anyen, jan lalwa Moyiz te vle l' la.  
+**[23:56]** Apre sa, yo tounen lakay yo, y' al pare lwil santi bon ak odè pou benyen kò a. Men, jou repo a yo pa t' fè anyen, jan lalwa Moyiz te vle l' la.
 
 ### Chapter 24
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Yo menm menm, lè yo fin adore l', yo tounen lavil Jerizalèm ak yon gwo kè kontan.
 
-**[24:53]** Se tout tan yo te nan tanp lan ap fè lwanj Bondye.   
+**[24:53]** Se tout tan yo te nan tanp lan ap fè lwanj Bondye.
 
 ## John
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** Jezi reponn li: Paske mwen di ou mwen te wè ou anba fig frans lan, poutèt sa ase ou kwè? Ou gen pou wè bagay pi gwo pase sa.
 
-**[1:51]** Apre sa, li di yo: Sa m'ap di nou la a, se vre wi: N'a wè syèl la louvri, avèk zanj Bondye yo k'ap moute desann sou Moun Bondye voye nan lachè a.  
+**[1:51]** Apre sa, li di yo: Sa m'ap di nou la a, se vre wi: N'a wè syèl la louvri, avèk zanj Bondye yo k'ap moute desann sou Moun Bondye voye nan lachè a.
 
 ### Chapter 2
 
@@ -54324,7 +54324,7 @@
 
 **[2:24]** Men, Jezi pa t' fè okenn ladan yo konfyans, paske li te konnen yo tout byen.
 
-**[2:25]** Li pa t' bezwen moun te di l' anyen sou pesonn, paske li menm li te konnen sa ki nan kè yo.  
+**[2:25]** Li pa t' bezwen moun te di l' anyen sou pesonn, paske li menm li te konnen sa ki nan kè yo.
 
 ### Chapter 3
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** Papa a renmen Pitit la, li ba li pouvwa sou tout bagay.
 
-**[3:36]** Moun ki mete konfyans yo nan Pitit la, yo gen lavi ki p'ap janm fini an. Moun ki desobeyi Pitit la, yo p'ap gen lavi sa a. Se kòlè Bondye k'ap tonbe sou yo.  
+**[3:36]** Moun ki mete konfyans yo nan Pitit la, yo gen lavi ki p'ap janm fini an. Moun ki desobeyi Pitit la, yo p'ap gen lavi sa a. Se kòlè Bondye k'ap tonbe sou yo.
 
 ### Chapter 4
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** Papa a vin rekonèt se te lè sa a menm Jezi te di l': Pitit gason ou lan p'ap mouri. Se konsa li menm ansanm ak tout moun lakay li yo kwè nan Jezi.
 
-**[4:54]** Sa te fè dezyèm mirak Jezi te fè lè l' tounen soti Jide vini nan peyi Galile.  
+**[4:54]** Sa te fè dezyèm mirak Jezi te fè lè l' tounen soti Jide vini nan peyi Galile.
 
 ### Chapter 5
 
@@ -54604,7 +54604,7 @@
 
 **[5:46]** Si nou te kwè tout bon nan Moyiz, nou ta kwè nan mwen tou, paske li ekri sou mwen tou.
 
-**[5:47]** Men, nou pa kwè nan sa l' te ekri a. Ki jan pou n' ta fè kwè sa m'ap di nou an?  
+**[5:47]** Men, nou pa kwè nan sa l' te ekri a. Ki jan pou n' ta fè kwè sa m'ap di nou an?
 
 ### Chapter 6
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** Jezi reponn yo: Eske se pa mwen ki chwazi nou touledouz? Malgre sa, yonn nan nou se yon dyab.
 
-**[6:71]** Li t'ap pale sou Jida, pitit Simon Iskariòt la. Paske, atout Jida te yonn nan douz disip yo, se li ki tapral trayi li.  
+**[6:71]** Li t'ap pale sou Jida, pitit Simon Iskariòt la. Paske, atout Jida te yonn nan douz disip yo, se li ki tapral trayi li.
 
 ### Chapter 7
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** Yo reponn li: Gen lè, ou menm tou, ou se moun Galile? Al etidye sa ki ekri nan Liv la, wa wè pa gen pwofèt ki janm soti nan peyi Galile.
 
-**[7:53]** Apre sa, tout moun al lakay yo.  
+**[7:53]** Apre sa, tout moun al lakay yo.
 
 ### Chapter 8
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Jezi reponn yo: Sa m'ap di nou la a, se vre wi: Abraram pa t' ankò fèt, mwen menm, mwen te la deja.
 
-**[8:59]** Lè sa a, yo ranmase wòch pou kalonnen li. Men, Jezi kache kò l' yon kote epi li soti nan tanp lan.  
+**[8:59]** Lè sa a, yo ranmase wòch pou kalonnen li. Men, Jezi kache kò l' yon kote epi li soti nan tanp lan.
 
 ### Chapter 9
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** Te gen kèk farizyen la avèk li. Lè yo tande pawòl sa yo, yo mande l': Eske nou menm tou, nou avèg?
 
-**[9:41]** Jezi reponn yo: Si nou te avèg, nou pa ta koupab. Men, n'ap plede di nou wè, nou wè. Se poutèt sa nou antò toujou.  
+**[9:41]** Jezi reponn yo: Si nou te avèg, nou pa ta koupab. Men, n'ap plede di nou wè, nou wè. Se poutèt sa nou antò toujou.
 
 ### Chapter 10
 
@@ -55146,7 +55146,7 @@
 
 **[10:41]** Anpil moun te vin jwenn li. Yo t'ap di: Jan pa t' fè okenn mirak, men tou sa li te di nou sou nonm sa a, se te vre wi.
 
-**[10:42]** Anpil moun la te kwè nan Jezi.  
+**[10:42]** Anpil moun la te kwè nan Jezi.
 
 ### Chapter 11
 
@@ -55262,7 +55262,7 @@
 
 **[11:56]** Yo t'ap chache Jezi. Antan yo tout te nan tanp lan, yonn t'ap mande lòt: Sa nou di? Ou kwè l'ap vin nan fèt la?
 
-**[11:57]** Chèf prèt yo ansanm ak farizyen yo te bay lòd sa a: Si yon moun te konnen kote Jezi te ye, se pou l' fè yo konnen pou yo ka arete li.  
+**[11:57]** Chèf prèt yo ansanm ak farizyen yo te bay lòd sa a: Si yon moun te konnen kote Jezi te ye, se pou l' fè yo konnen pou yo ka arete li.
 
 ### Chapter 12
 
@@ -55364,7 +55364,7 @@
 
 **[12:49]** Se pa pawòl pa m' m'ap pale la a. Men, Papa ki voye m' lan, se li menm ki ban m' lòd sa pou m' di ak sa pou m' pale.
 
-**[12:50]** Mwen menm, mwen konnen tout kòmandman l' yo bay lavi ki p'ap janm fini an. Se sak fè sa m'ap di a, m'ap di l' jan Papa m' te ban m' lòd la.  
+**[12:50]** Mwen menm, mwen konnen tout kòmandman l' yo bay lavi ki p'ap janm fini an. Se sak fè sa m'ap di a, m'ap di l' jan Papa m' te ban m' lòd la.
 
 ### Chapter 13
 
@@ -55442,7 +55442,7 @@
 
 **[13:37]** Pyè di li: Seyè, poukisa m' pa kapab swiv ou koulye a? Mwen tou pare pou m' bay lavi m' pou ou.
 
-**[13:38]** Jezi reponn li: Ou kwè ou pare vre pou bay lavi ou pou mwen? Sa m'ap di ou la a, se vre wi: Kòk p'ap ankò chante, w'ap gen tan di ou pa janm konnen m' an twa fwa.  
+**[13:38]** Jezi reponn li: Ou kwè ou pare vre pou bay lavi ou pou mwen? Sa m'ap di ou la a, se vre wi: Kòk p'ap ankò chante, w'ap gen tan di ou pa janm konnen m' an twa fwa.
 
 ### Chapter 14
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Mwen p'ap pale anpil ankò avè nou, paske chèf k'ap dominen lemonn lan ap vini. Li pa gen okenn pouvwa sou mwen.
 
-**[14:31]** Men, se pou tout moun sou latè konnen mwen renmen Papa m'. Wi, fòk yo konnen m'ap fè sa Papa m' te ban m' lòd fè a. Leve non. Ann sot isit la.  
+**[14:31]** Men, se pou tout moun sou latè konnen mwen renmen Papa m'. Wi, fòk yo konnen m'ap fè sa Papa m' te ban m' lòd fè a. Leve non. Ann sot isit la.
 
 ### Chapter 15
 
@@ -55562,7 +55562,7 @@
 
 **[15:26]** Moun ki gen pou ankouraje nou an ap vini, se Lespri k'ap moutre nou verite a, se nan Bondye li soti. Papa a ap ban mwen l' pou m' voye ban nou, la pale nou sou mwen.
 
-**[15:27]** Nou menm tou, n'a pale sou mwen, paske nou te la avè m' depi nan konmansman.  
+**[15:27]** Nou menm tou, n'a pale sou mwen, paske nou te la avè m' depi nan konmansman.
 
 ### Chapter 16
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** Gade, lè a ap rive, li rive deja, kote nou pral gaye, chak moun pral kouri bò pa yo: nou pral kite m' pou kont mwen. Men, mwen pa pou kont mwen, paske Papa a la avèk mwen.
 
-**[16:33]** Mwen pale konsa pou nou kapab gen kè poze nan mwen. Nou gen pou n' soufri anpil sou latè. Men, pran kouraj, lemonn deja pèdi devan mwen.  
+**[16:33]** Mwen pale konsa pou nou kapab gen kè poze nan mwen. Nou gen pou n' soufri anpil sou latè. Men, pran kouraj, lemonn deja pèdi devan mwen.
 
 ### Chapter 17
 
@@ -55684,7 +55684,7 @@
 
 **[17:25]** O Papa, ou menm ki fè tout bagay byen, moun ki nan lemonn yo pa konnen ou. Men mwen menm, mwen konnen ou. Moun sa yo konnen se ou ki te voye mwen.
 
-**[17:26]** Mwen te fè yo konnen ki moun ou ye. M'ap kontinye fè sa toujou, pou kalite renmen ou gen pou mwen an ka nan yo, pou mwen menm mwen ka nan yo tou.  
+**[17:26]** Mwen te fè yo konnen ki moun ou ye. M'ap kontinye fè sa toujou, pou kalite renmen ou gen pou mwen an ka nan yo, pou mwen menm mwen ka nan yo tou.
 
 ### Chapter 18
 
@@ -55766,7 +55766,7 @@
 
 **[18:39]** Dapre koutim nou genyen, mwen toujou lage yon prizonye pou fèt Delivrans lan ban nou. Eske nou ta vle m' lage wa jwif yo ban nou?
 
-**[18:40]** Lè sa a, yo tout pran rele: Non. Nou pa vle li. Se Barabas nou vle! Barabas sa a te yon bandi.  
+**[18:40]** Lè sa a, yo tout pran rele: Non. Nou pa vle li. Se Barabas nou vle! Barabas sa a te yon bandi.
 
 ### Chapter 19
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** Kote yo te kloure Jezi sou kwa a te gen yon jaden. Nan jaden an te gen yon kavo tou nèf. Yo pa t' ankò mete pesonn ladan li.
 
-**[19:42]** Se te lavèy jou repo jwif yo, epi kavo a te toupre. Se sak fè, se la yo te mete kò Jezi a.  
+**[19:42]** Se te lavèy jou repo jwif yo, epi kavo a te toupre. Se sak fè, se la yo te mete kò Jezi a.
 
 ### Chapter 20
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** Jezi te fè anpil lòt mirak ankò devan disip li yo, men nou pa rapòte yo nan liv sa a.
 
-**[20:31]** Tou sa ki ekri nan Liv sa a, mwen ekri yo pou nou ka kwè Jezi se Kris la, Pitit Bondye, pou lè nou kwè a nou ka gen lavi nan li.  
+**[20:31]** Tou sa ki ekri nan Liv sa a, mwen ekri yo pou nou ka kwè Jezi se Kris la, Pitit Bondye, pou lè nou kwè a nou ka gen lavi nan li.
 
 ### Chapter 21
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** Se menm disip sa a k'ap rapòte tout bagay sa yo. Se li menm ki ekri yo. Nou konnen sa l'ap di a se verite.
 
-**[21:25]** Jezi te fè anpil lòt bagay ankò. Si yon moun ta pran ekri liv pou rakonte yo tout, yonn apre lòt, mwen pa kwè ta gen plas sou latè pou mete liv sa yo.   
+**[21:25]** Jezi te fè anpil lòt bagay ankò. Si yon moun ta pran ekri liv pou rakonte yo tout, yonn apre lòt, mwen pa kwè ta gen plas sou latè pou mete liv sa yo.
 
 ## Acts
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** pou sèvi apòt nan plas Jida te kite pou li al kote ki te pou li a.
 
-**[1:26]** Apre sa, yo tire osò: se Matyas ki soti. Se konsa yo mete l' ansanm ak onz apòt yo.  
+**[1:26]** Apre sa, yo tire osò: se Matyas ki soti. Se konsa yo mete l' ansanm ak onz apòt yo.
 
 ### Chapter 2
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** Toulejou, yo tout reyini ansanm nan tanp lan; yo te konn separe pen an bay tout moun nan kay yo, yo te manje ansanm avèk kè kontan san okenn pretansyon.
 
-**[2:47]** Yo t'ap fè lwanj Bondye. Tout moun te renmen yo. Chak jou Bondye t'ap mete lòt moun li t'ap delivre yo nan gwoup la.  
+**[2:47]** Yo t'ap fè lwanj Bondye. Tout moun te renmen yo. Chak jou Bondye t'ap mete lòt moun li t'ap delivre yo nan gwoup la.
 
 ### Chapter 3
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** Pwomès Bondye te fè pwofèt li yo di ak bouch yo, se pou nou yo ye, lèfini nou gen pòsyon pa nou tou nan kontra Bondye te fè avèk zansèt nou yo. Se sa l' te di Abraram: Gremèsi pitit pitit ou yo, tout fanmi ki sou latè va jwenn benediksyon.
 
-**[3:26]** Se konsa Bondye fè sèvitè l' la parèt, li voye l' ban nou anvan pou l' beni nou, pou l' fè nou tout kite mechanste nou yo.  
+**[3:26]** Se konsa Bondye fè sèvitè l' la parèt, li voye l' ban nou anvan pou l' beni nou, pou l' fè nou tout kite mechanste nou yo.
 
 ### Chapter 4
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Se konsa, te gen yon nonm yo rele Jozèf, yon moun Levi ki soti lil Chip. Apòt yo te ba l' yon ti non Banabas, ki te vle di: Nonm k'ap ankouraje a.
 
-**[4:37]** Enben, li vann yon jaden li te genyen, li pote lajan an renmèt apòt yo.  
+**[4:37]** Enben, li vann yon jaden li te genyen, li pote lajan an renmèt apòt yo.
 
 ### Chapter 5
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** Apòt yo kite Gran Konsèy la. Yo te kontan dèske Bondye te wè yo merite pou moun te avili yo konsa poutèt non Jezi.
 
-**[5:42]** Toulejou, yo te nan tanp lan, yo t'ap mache kay an kay, yo pa t' janm sispann moutre moun yo anpil bagay. Yo t'ap anonse Bon Nouvèl ki pale sou Jezikri a.  
+**[5:42]** Toulejou, yo te nan tanp lan, yo t'ap mache kay an kay, yo pa t' janm sispann moutre moun yo anpil bagay. Yo t'ap anonse Bon Nouvèl ki pale sou Jezikri a.
 
 ### Chapter 6
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** Nou tande l' di konsa: Jezi, moun Nazarèt la, gen pou kraze tanp lan, l'ap chanje tout koutim Moyiz te kite pou nou yo.
 
-**[6:15]** Tout moun ki te chita nan sal reyinyon Gran Konsèy la te gen je yo fikse sou Etyèn. Yo te wè figi l' te sanble ak figi yon zanj Bondye.  
+**[6:15]** Tout moun ki te chita nan sal reyinyon Gran Konsèy la te gen je yo fikse sou Etyèn. Yo te wè figi l' te sanble ak figi yon zanj Bondye.
 
 ### Chapter 7
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** Pandan yo t'ap voye wòch sou Etyèn, Etyèn menm t'ap lapriyè, li t'ap di: Seyè Jezi, resevwa lespri mwen.
 
-**[7:60]** Apre sa, li tonbe ajenou, li rele byen fò: Seyè, pa mete peche sa a sou kont yo. Lè l' fin di sa, li mouri.  
+**[7:60]** Apre sa, li tonbe ajenou, li rele byen fò: Seyè, pa mete peche sa a sou kont yo. Lè l' fin di sa, li mouri.
 
 ### Chapter 8
 
@@ -56572,7 +56572,7 @@
 
 **[8:39]** Lè yo soti nan dlo a, Lespri Bondye fè Filip disparèt, gwo chèf la pa janm wè l' ankò. Men, li kontinye chemen l' ak kè kontan.
 
-**[8:40]** Filip menm rete konsa li wè li lavil Azòt. Apre sa, li pran mache. Nan tout ti bouk kote l' pase, li anonse bon nouvèl la jouk li rive lavil Sezare.  
+**[8:40]** Filip menm rete konsa li wè li lavil Azòt. Apre sa, li pran mache. Nan tout ti bouk kote l' pase, li anonse bon nouvèl la jouk li rive lavil Sezare.
 
 ### Chapter 9
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** Yo vin konn sa nan lavil Jope. Anpil moun mete konfyans yo nan Seyè a.
 
-**[9:43]** Apre sa, Pyè rete lontan nan lavil Jope, lakay yon bòs tanè yo rele Simon.  
+**[9:43]** Apre sa, Pyè rete lontan nan lavil Jope, lakay yon bòs tanè yo rele Simon.
 
 ### Chapter 10
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Moun sa yo resevwa Sentespri menm jan avèk nou. Koulye a, ki moun ki ka anpeche nou batize yo nan dlo tou?
 
-**[10:48]** Epi li bay lòd batize yo nan non Jezikri. Apre sa, yo mande Pyè pou l' rete pase kèk jou avèk yo.  
+**[10:48]** Epi li bay lòd batize yo nan non Jezikri. Apre sa, yo mande Pyè pou l' rete pase kèk jou avèk yo.
 
 ### Chapter 11
 
@@ -56820,7 +56820,7 @@
 
 **[11:29]** Disip yo deside pou chak moun bay sa yo kapab pou yo voye ede frè yo ki te nan peyi Jide.
 
-**[11:30]** Se sa menm yo te fè. Apre sa, yo voye Banabas ak Sòl pote sa yo te ranmase a bay chèf fanmi yo ki te nan Jide.  
+**[11:30]** Se sa menm yo te fè. Apre sa, yo voye Banabas ak Sòl pote sa yo te ranmase a bay chèf fanmi yo ki te nan Jide.
 
 ### Chapter 12
 
@@ -56872,7 +56872,7 @@
 
 **[12:24]** Pawòl Bondye a menm t'ap gaye plis toujou, li t'ap fè anpil avans.
 
-**[12:25]** Lè Banabas ak Sòl fin fè misyon yo lavil Jerizalèm, yo tounen lakay yo, yo pran Jan ki te gen ti non Mak la ak yo.  
+**[12:25]** Lè Banabas ak Sòl fin fè misyon yo lavil Jerizalèm, yo tounen lakay yo, yo pran Jan ki te gen ti non Mak la ak yo.
 
 ### Chapter 13
 
@@ -56978,7 +56978,7 @@
 
 **[13:51]** Pòl ak Banabas souke pousyè pye yo sou yo, y' ale lavil Ikoniòm.
 
-**[13:52]** Nan Antiòch menm, disip yo te kontan anpil, Sentespri te plen kè yo.  
+**[13:52]** Nan Antiòch menm, disip yo te kontan anpil, Sentespri te plen kè yo.
 
 ### Chapter 14
 
@@ -57036,7 +57036,7 @@
 
 **[14:27]** Lè yo rive Antiòch, yo reyini legliz la, yo rakonte tou sa Bondye te ba yo pouvwa fè pou li, ki jan li te louvri pòt pou moun ki pa jwif yo kapab kwè tou.
 
-**[14:28]** Apre sa, yo rete lontan avèk disip Antiòch yo.  
+**[14:28]** Apre sa, yo rete lontan avèk disip Antiòch yo.
 
 ### Chapter 15
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** Pòl menm chwazi Silas. Apre frè yo fin renmèt li nan men Bondye k'ap ba l' favè l', li pati.
 
-**[15:41]** Li pase nan peyi Siri ak peyi Silisi; sou tout wout la li t'ap fòtifye legliz yo nan konfyans yo nan Bondye.  
+**[15:41]** Li pase nan peyi Siri ak peyi Silisi; sou tout wout la li t'ap fòtifye legliz yo nan konfyans yo nan Bondye.
 
 ### Chapter 16
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** Yo vin eskize yo bò kote apòt yo, yo lage yo. Lèfini yo mande yo pou kite lavil la.
 
-**[16:40]** Lè apòt yo soti nan prizon an, yo antre lakay Lidi. Yo wè frè yo, yo ba yo kèk pawòl ankourajman, epi yo pati, y' ale.  
+**[16:40]** Lè apòt yo soti nan prizon an, yo antre lakay Lidi. Yo wè frè yo, yo ba yo kèk pawòl ankourajman, epi yo pati, y' ale.
 
 ### Chapter 17
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** Se konsa Pòl soti nan mitan yo.
 
-**[17:34]** Men, atousa, te gen ladan yo ki te dakò pou yo te mache ak Pòl epi ki te kwè. Pami yo te gen Deni, manm Aewopaj la, yon fanm yo te rele Damaris ak kèk lòt ankò.  
+**[17:34]** Men, atousa, te gen ladan yo ki te dakò pou yo te mache ak Pòl epi ki te kwè. Pami yo te gen Deni, manm Aewopaj la, yon fanm yo te rele Damaris ak kèk lòt ankò.
 
 ### Chapter 18
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** Apre sa, Apolòs fè lide ale Lakayi. Frè yo te ankouraje li. Yo ekri yon lèt voye bay disip yo ki nan peyi sa a pou yo te byen resevwa Apolòs. Lè li rive Lakayi, li bay moun Bondye te fè favè kwè yo yon gwo konkou.
 
-**[18:28]** Se avèk gwo konviksyon devan tout moun li t'ap moutre jwif yo ki jan yo te nan lerè: li pran sa ki ekri nan Liv yo a, li t'ap ba yo prèv se Jezi ki Kris la.  
+**[18:28]** Se avèk gwo konviksyon devan tout moun li t'ap moutre jwif yo ki jan yo te nan lerè: li pran sa ki ekri nan Liv yo a, li t'ap ba yo prèv se Jezi ki Kris la.
 
 ### Chapter 19
 
@@ -57414,7 +57414,7 @@
 
 **[19:40]** Avèk sa ki pase jòdi a, yo kapab al pote plent pou nou, yo kapab al di n'ap fè revolisyon. Pa gen okenn rezon pou tout dezòd sa a. Nou p'ap kapab bay okenn esplikasyon pou sa.
 
-**[19:41]** Lè li fin di sa, li voye tout moun lakay yo.  
+**[19:41]** Lè li fin di sa, li voye tout moun lakay yo.
 
 ### Chapter 20
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** Yo tout t'ap kriye, yo pran Pòl nan bra yo, yo bo l', yo di li: Bondye avèk ou!
 
-**[20:38]** Sa ki te fè yo plis lapenn, se lè li di yo p'ap janm wè l' ankò. Apre sa, yo kondi l' mennen jouk sou batiman an.  
+**[20:38]** Sa ki te fè yo plis lapenn, se lè li di yo p'ap janm wè l' ankò. Apre sa, yo kondi l' mennen jouk sou batiman an.
 
 ### Chapter 21
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** Pòl reponn li: Se jwif mwen ye. Mwen fèt lavil Tas nan peyi Silisi. Ou wè se sitwayen yon gwo lavil mwen ye. Tanpri, kite m' pale ak pèp la.
 
-**[21:40]** Kòmandan an ba l' pèmisyon. Lè sa a, Pòl kanpe sou eskalye a, li fè pèp la yon siy avèk men li. Lè yo sispann fè bri, Pòl pale ak yo nan lang ebre. Li di yo konsa:  
+**[21:40]** Kòmandan an ba l' pèmisyon. Lè sa a, Pòl kanpe sou eskalye a, li fè pèp la yon siy avèk men li. Lè yo sispann fè bri, Pòl pale ak yo nan lang ebre. Li di yo konsa:
 
 ### Chapter 22
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Lamenm, moun ki tapral bat li pou te fè l' pale yo renka kò yo dèyè. Ata kòmandan an te pè lè l' vin rann li kont li te fè mare Pòl ki te yon sitwayen women avèk chenn.
 
-**[22:30]** Kòmandan an te vle konnen egzakteman kisa jwif yo t'ap akize Pòl fè. Se konsa, nan denmen li fè lage chenn yo, epi li voye lòd bay chèf prèt yo pou yo reyini ansanm ak Gran Konsèy la. Li mennen Pòl, li mete l' devan yo.  
+**[22:30]** Kòmandan an te vle konnen egzakteman kisa jwif yo t'ap akize Pòl fè. Se konsa, nan denmen li fè lage chenn yo, epi li voye lòd bay chèf prèt yo pou yo reyini ansanm ak Gran Konsèy la. Li mennen Pòl, li mete l' devan yo.
 
 ### Chapter 23
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** Gouvènè a li lèt la, li mande Pòl moun ki pwovens li ye. Lè l' vin konnen se moun Silisi li ye, li di li:
 
-**[23:35]** Lè moun k'ap akize ou yo va vini, m'a tande sa ou gen pou di. Epi li bay lòd pou yo mete Pòl sou bon gad nan gwo palè Ewòd la.  
+**[23:35]** Lè moun k'ap akize ou yo va vini, m'a tande sa ou gen pou di. Epi li bay lòd pou yo mete Pòl sou bon gad nan gwo palè Ewòd la.
 
 ### Chapter 24
 
@@ -57764,7 +57764,7 @@
 
 **[24:26]** Li te mete nan tèt li Pòl ta ka ba li lajan. Se poutèt sa plizyè fwa li te fè l' vin koze avèk li.
 
-**[24:27]** Dezan pase konsa. Feliks menm ki te vle fè jwif yo plezi te kite Pòl nan prizon tout tan sa a. Apre sa, Pòsiyis Festis vin moute gouvènè nan plas Feliks.  
+**[24:27]** Dezan pase konsa. Feliks menm ki te vle fè jwif yo plezi te kite Pòl nan prizon tout tan sa a. Apre sa, Pòsiyis Festis vin moute gouvènè nan plas Feliks.
 
 ### Chapter 25
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** Mwen pa gen anyen ki sèten pou m' ekri sou li. Se poutèt sa mwen fè l' konparèt devan nou, devan ou menm sitou, wa Agripa. Konsa m'a jwenn sa pou m' ekri lè n'a fin poze l' keksyon.
 
-**[25:27]** Pou mwen menm, sa pa gen sans pou espedye yon prizonye konsa san ou pa di egzakteman kisa li fè.  
+**[25:27]** Pou mwen menm, sa pa gen sans pou espedye yon prizonye konsa san ou pa di egzakteman kisa li fè.
 
 ### Chapter 26
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** Apre yo fin ale, yonn t'ap di lòt: Nonm sa a pa fè anyen ki merite prizon, ale wè lanmò.
 
-**[26:32]** Agripa di Festis konsa: Si nonm sa a pa t' mande pou Seza tande l', ou ta ka lage l' wi.  
+**[26:32]** Agripa di Festis konsa: Si nonm sa a pa t' mande pou Seza tande l', ou ta ka lage l' wi.
 
 ### Chapter 27
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** Men, kòmandan women an ki te vle sove Pòl di yo non pa fè sa. Li bay lòd pou tout moun ki konn naje jete kò yo nan dlo anvan pou y' al atè.
 
-**[27:44]** Lòt moun yo va swiv apre, y'a kenbe kèk planch osinon kèk moso nan batiman an. Se konsa nou tout nou rive atè anbyen, san lòt donmaj ni malè.  
+**[27:44]** Lòt moun yo va swiv apre, y'a kenbe kèk planch osinon kèk moso nan batiman an. Se konsa nou tout nou rive atè anbyen, san lòt donmaj ni malè.
 
 ### Chapter 28
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Pòl te rete pandan dezan nan yon kay li te lwe. Li te resevwa tout moun ki te vin wè li.
 
-**[28:31]** Li t'ap fè konnen gouvènman Bondye ki wa a, li t'ap moutre moun yo tout bagay sou Jezikri, Seyè a, kareman san pesonn pa janm chache l' kont.   
+**[28:31]** Li t'ap fè konnen gouvènman Bondye ki wa a, li t'ap moutre moun yo tout bagay sou Jezikri, Seyè a, kareman san pesonn pa janm chache l' kont.
 
 ## Romans
 
@@ -58108,7 +58108,7 @@
 
 **[1:31]** Yo san konsyans, yo pa kenbe pawòl yo. Kè yo di konsa, yo san pitye pou lòt moun.
 
-**[1:32]** Yo konn jijman Bondye a byen pwòp: yo konnen moun ki fè bagay sa yo merite lanmò. Atousa, y'ap plede fè yo toujou. Sa ki pi rèd, yo dakò ak moun k'ap fè yo tou.  
+**[1:32]** Yo konn jijman Bondye a byen pwòp: yo konnen moun ki fè bagay sa yo merite lanmò. Atousa, y'ap plede fè yo toujou. Sa ki pi rèd, yo dakò ak moun k'ap fè yo tou.
 
 ### Chapter 2
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** Se pa moun ki gen aparans jwif ki jwif tout bon. Se pa sikonsizyon ki kite mak nan kò moun ki sikonsizyon tout bon an.
 
-**[2:29]** Jwif ki jwif tout bon, se moun ki jwif nan kè yo. Sikonsizyon tout bon an, se sikonsizyon ki make kè moun. Sa se travay Lespri Bondye a, se pa travay lalwa ki ekri nan liv. Lwanj yon jwif konsa pa soti nan men moun, men nan men Bondye.  
+**[2:29]** Jwif ki jwif tout bon, se moun ki jwif nan kè yo. Sikonsizyon tout bon an, se sikonsizyon ki make kè moun. Sa se travay Lespri Bondye a, se pa travay lalwa ki ekri nan liv. Lwanj yon jwif konsa pa soti nan men moun, men nan men Bondye.
 
 ### Chapter 3
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** Paske se yon sèl Bondye a ki genyen. L'ap fè moun ki sikonsi yo gras paske yo gen konfyans nan li. Konsa tou, l'ap fè moun ki pa sikonsi yo gras paske yo menm tou yo gen konfyans nan li.
 
-**[3:31]** Bon. Jan nou pale a, èske konfyans nan Bondye fè lalwa a pèdi valè li? Men non, okontrè, nou kanpe lalwa a pi rèd.  
+**[3:31]** Bon. Jan nou pale a, èske konfyans nan Bondye fè lalwa a pèdi valè li? Men non, okontrè, nou kanpe lalwa a pi rèd.
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** Pawòl sa yo te ekri pou nou tou. L'ap fè nou gras tou, nou menm ki mete konfyans nou nan moun li fè soti vivan pami mò yo, Jezikri, Seyè nou an.
 
-**[4:25]** Se Jezi sa a ki te mouri pou peche nou yo epi ki leve soti vivan ankò pou fè Bondye fè nou gras.  
+**[4:25]** Se Jezi sa a ki te mouri pou peche nou yo epi ki leve soti vivan ankò pou fè Bondye fè nou gras.
 
 ### Chapter 5
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** Lalwa antre nan koze a pou fè moun peche plis toujou. Men, kote moun fè plis peche a, se la favè Bondye a vide pi rèd sou yo.
 
-**[5:21]** Se sak fè, menm jan peche a te bay lanmò lè l' te donminen sou nou, konsa tou lè se favè Bondye a ki donminen sou nou, li fè moun gras, li ba yo lavi ki pa janm fini an, gremesi Jezikri, Seyè nou an.  
+**[5:21]** Se sak fè, menm jan peche a te bay lanmò lè l' te donminen sou nou, konsa tou lè se favè Bondye a ki donminen sou nou, li fè moun gras, li ba yo lavi ki pa janm fini an, gremesi Jezikri, Seyè nou an.
 
 ### Chapter 6
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** Men, koulye a nou delivre anba peche a, nou se esklav Bondye, se sak fè n'ap viv apa pou Bondye; epi bout pou bout n'a resevwa lavi ki p'ap janm fini an.
 
-**[6:23]** Peche peye nou kach: li ban nou lanmò; men kadò Bondye ban nou gratis la, se lavi ansanm ak Jezikri, Seyè nou an, yon lavi ki p'ap janm fini.  
+**[6:23]** Peche peye nou kach: li ban nou lanmò; men kadò Bondye ban nou gratis la, se lavi ansanm ak Jezikri, Seyè nou an, yon lavi ki p'ap janm fini.
 
 ### Chapter 7
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** Ala malere mwen malere, mezanmi! Kilès ki va delivre m' anba kò sa a k'ap trennen m' nan lanmò?
 
-**[7:25]** Gremesi Jezikri, Seyè nou an, mwen ka di: Mèsi Bondye! Konsa, men ki jan mwen ye: dapre konesans pa mwen, mwen se esklav lalwa Bondye a. Men, dapre sa m' santi nan tout kò mwen, mwen se esklav lalwa peche a.  
+**[7:25]** Gremesi Jezikri, Seyè nou an, mwen ka di: Mèsi Bondye! Konsa, men ki jan mwen ye: dapre konesans pa mwen, mwen se esklav lalwa Bondye a. Men, dapre sa m' santi nan tout kò mwen, mwen se esklav lalwa peche a.
 
 ### Chapter 8
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** Paske, mwen gen lasirans anyen pa ka fè nou pèdi renmen Kris la gen pou nou: ni lanmò, ni lavi, ni zanj Bondye yo, ni lòt otorite ak pouvwa ki nan syèl la, ni bagay ki la jòdi a, ni sa ki gen pou vini pita,
 
-**[8:39]** ni pouvwa ki anwo nan syèl la, ni pouvwa ki anba tè a. Non. Pa gen anyen nan tout kreyasyon Bondye a ki ka janm fè nou pèdi renmen Bondye fè nou wè nan Jezikri, Seyè nou an.  
+**[8:39]** ni pouvwa ki anwo nan syèl la, ni pouvwa ki anba tè a. Non. Pa gen anyen nan tout kreyasyon Bondye a ki ka janm fè nou pèdi renmen Bondye fè nou wè nan Jezikri, Seyè nou an.
 
 ### Chapter 9
 
@@ -58576,7 +58576,7 @@
 
 **[9:32]** Poukisa? Paske yo pa t' mete konfyans yo nan Bondye; yo t'ap chache mwayen pou Bondye fè yo gras ak zèv yo t'ap fè yo. Se konsa y' al frape pye yo sou wòch k'ap fè moun bite a,
 
-**[9:33]** jan sa te ekri a: Men li, mwen mete yon wòch nan mitan peyi Siyon, yon wòch k'ap fè moun bite wi, yon gwo wòch k'ap fè moun tonbe. Men, moun ki mete konfyans yo nan li p'ap janm soti wont.  
+**[9:33]** jan sa te ekri a: Men li, mwen mete yon wòch nan mitan peyi Siyon, yon wòch k'ap fè moun bite wi, yon gwo wòch k'ap fè moun tonbe. Men, moun ki mete konfyans yo nan li p'ap janm soti wont.
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** Ezayi menm pouse radiyès li pi lwen toujou lè l' di: Moun ki pa t'ap chache m' yo, se yo menm ki jwenn mwen. Moun ki pa t'ap mande pou mwen yo, se yo menm mwen fè wè mwen.
 
-**[10:21]** Men, men sa li di sou Izrayèl: Tout lajounen m'ap lonje men m' bay yon pèp ki rebèl, k'ap fè wòklò.  
+**[10:21]** Men, men sa li di sou Izrayèl: Tout lajounen m'ap lonje men m' bay yon pèp ki rebèl, k'ap fè wòklò.
 
 ### Chapter 11
 
@@ -58694,7 +58694,7 @@
 
 **[11:35]** Ki moun ki te janm ba li kichòy nan lide pou Bondye renmèt li sa?
 
-**[11:36]** Se li menm, Bondye, ki fè tout bagay. Se gremesi li tout bagay la. Se pou li tout bagay ye. Lwanj pou Bondye tout tan tout tan! Amèn.  
+**[11:36]** Se li menm, Bondye, ki fè tout bagay. Se gremesi li tout bagay la. Se pou li tout bagay ye. Lwanj pou Bondye tout tan tout tan! Amèn.
 
 ### Chapter 12
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** Okontrè, dapre sa ki ekri ankò: Si lènmi ou grangou, ba l' manje. Si li swaf dlo, ba l' bwè. Lè ou fè sa, se yon chalè dife ou mete nan kò l' pou fè l' chanje.
 
-**[12:21]** Pa kite sa ki mal gen pye sou ou. Okontrè, fè sa ki byen pou n' kraze sa ki mal.  
+**[12:21]** Pa kite sa ki mal gen pye sou ou. Okontrè, fè sa ki byen pou n' kraze sa ki mal.
 
 ### Chapter 13
 
@@ -58768,7 +58768,7 @@
 
 **[13:13]** Ann mennen bak nou jan nou dwe, tankou moun k'ap viv gwo lajounen. Pa fè eksè nan manje ni nan bwè. Pa lage tèt nou nan debòch ni nan vis. Pa chache moun kont, pa fè jalouzi.
 
-**[13:14]** Se pou nou pran Jezikri Seyè a tankou yon zam mete sou nou. Pa kite ekzijans kò a pran pye sou nou pou fè nou fè tou sa li anvi fè.  
+**[13:14]** Se pou nou pran Jezikri Seyè a tankou yon zam mete sou nou. Pa kite ekzijans kò a pran pye sou nou pou fè nou fè tou sa li anvi fè.
 
 ### Chapter 14
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Sa ou kwè ou menm sou sa, gade l' pou tèt ou devan Bondye. benediksyon pou yon moun ki pa santi l' koupab lè l'ap fè sa li kwè li dwe fè.
 
-**[14:23]** Men, moun ki gen doutans sou sa l'ap manje a, Bondye kondannen l' lè l' manje l', paske li aji san konviksyon. Tout sa ou fè san konviksyon se peche.  
+**[14:23]** Men, moun ki gen doutans sou sa l'ap manje a, Bondye kondannen l' lè l' manje l', paske li aji san konviksyon. Tout sa ou fè san konviksyon se peche.
 
 ### Chapter 15
 
@@ -58884,7 +58884,7 @@
 
 **[15:32]** Konsa, si Bondye vle, m'a rive lakay nou ak kè kontan, epi m'a pran yon ti repo nan mitan nou.
 
-**[15:33]** Se pou Bondye ki bay kè poze a avèk nou tout. Amèn.  
+**[15:33]** Se pou Bondye ki bay kè poze a avèk nou tout. Amèn.
 
 ### Chapter 16
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** Men, koulye a, li parèt aklè nan liv pwofèt yo te ekri yo. Konsa, dapre lòd ki soti nan Bondye ki la pou tout tan an, plan travay la rive an konesans moun tout lòt nasyon yo pou yo kapab mete konfyans yo nan Bondye, pou yo kapab fè volonte Bondye.
 
-**[16:27]** Wi, lwanj pou Bondye, li menm sèl ki gen bon konprann! Lwanj pou li nan Jezikri, depi tout tan epi pou tout tan! Amèn.   
+**[16:27]** Wi, lwanj pou Bondye, li menm sèl ki gen bon konprann! Lwanj pou li nan Jezikri, depi tout tan epi pou tout tan! Amèn.
 
 ## I Corinthians
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** Bondye mete nou ansanm ak Jezikri, li fè Kris la tounen bon konprann pou nou. Se Kris la ki fè Bondye fè nou gras. Se li menm k'ap fè nou viv apa pou Bondye, se li menm ki delivre nou.
 
-**[1:31]** Konsa, jan sa ekri nan Liv la: Si yon moun vle fè lwanj tèt li, se pou l' fè lwanj tèt li nan sa Bondye fè pou li.  
+**[1:31]** Konsa, jan sa ekri nan Liv la: Si yon moun vle fè lwanj tèt li, se pou l' fè lwanj tèt li nan sa Bondye fè pou li.
 
 ### Chapter 2
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** Okontrè, moun ki gen Lespri Bondye a nan kè l', li kapab jije tout bagay. Men li menm, pesonn pa ka jije li.
 
-**[2:16]** Jan sa ekri nan Liv la: Ki moun ki konnen sa k'ap pase nan tèt Mèt la? Ki moun ki pou moutre l' sa pou l' fè? Men nou menm, nou konnen sa ki nan lide Kris la.  
+**[2:16]** Jan sa ekri nan Liv la: Ki moun ki konnen sa k'ap pase nan tèt Mèt la? Ki moun ki pou moutre l' sa pou l' fè? Men nou menm, nou konnen sa ki nan lide Kris la.
 
 ### Chapter 3
 
@@ -59088,7 +59088,7 @@
 
 **[3:22]** Ni Pòl, ni Apolòs, ni Pyè, ni tou sa ki sou latè, se pou nou yo ye. Lavi, lanmò, bagay ki la koulye a, bagay ki gen pou vini, tou sa se pou nou yo ye tou.
 
-**[3:23]** Men nou menm, se pou Kris la nou ye. Kris la menm, se pou Bondye.  
+**[3:23]** Men nou menm, se pou Kris la nou ye. Kris la menm, se pou Bondye.
 
 ### Chapter 4
 
@@ -59132,7 +59132,7 @@
 
 **[4:20]** Paske, nan peyi kote Bondye wa a, pale anpil pa di anyen, se fè ki tout bagay la.
 
-**[4:21]** Kisa nou pito? Nou ta vle mwen vin ak yon baton pou nou, osinon avèk renmen, avèk dousè nan kè mwen pou nou? Libètinaj nan legliz la  
+**[4:21]** Kisa nou pito? Nou ta vle mwen vin ak yon baton pou nou, osinon avèk renmen, avèk dousè nan kè mwen pou nou? Libètinaj nan legliz la
 
 ### Chapter 5
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** Zafè moun deyò pa gade m', mwen pa gen dwa jije yo. Se Bondye ki va jije yo.
 
-**[5:13]** Men, èske se pa devwa nou pou n' jije moun ki anndan yo, moun ki ansanm avè n' yo? Tankou yo di l' nan Liv la: Wete mechan an nan mitan nou.  
+**[5:13]** Men, èske se pa devwa nou pou n' jije moun ki anndan yo, moun ki ansanm avè n' yo? Tankou yo di l' nan Liv la: Wete mechan an nan mitan nou.
 
 ### Chapter 6
 
@@ -59202,7 +59202,7 @@
 
 **[6:19]** Se konnen nou pa konnen kò nou se tanp Sentespri k'ap viv nan kè nou, Sentespri Bondye te ban nou an? Nou pa mèt tèt nou ankò.
 
-**[6:20]** Bondye achte nou kach, li peye chè pou sa. Se poutèt sa, sèvi ak kò nou yon jan pou fè lwanj Bondye.  
+**[6:20]** Bondye achte nou kach, li peye chè pou sa. Se poutèt sa, sèvi ak kò nou yon jan pou fè lwanj Bondye.
 
 ### Chapter 7
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** Yon fanm marye gen angajman ak mari l' toutotan mari a vivan. Men, si mari a mouri, li lib marye ak moun li vle, depi se ak yon moun ki patizan Kris la.
 
-**[7:40]** Men, l'ap gen mwens tèt chaje si l' rete jan l' ye a. Sa se lide pa mwen. Epi mwen kwè poutèt pa m' mwen gen Lespri Bondye a avè mwen.  
+**[7:40]** Men, l'ap gen mwens tèt chaje si l' rete jan l' ye a. Sa se lide pa mwen. Epi mwen kwè poutèt pa m' mwen gen Lespri Bondye a avè mwen.
 
 ### Chapter 8
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** Lè sa a, se pa sèlman kont frè ou yo ou fè peche, se pa sèlman konsyans yo ki fèb ou blese, men se kont Kris la menm ou fè peche.
 
-**[8:13]** Pase pou yon manje fè frè m' tonbe nan peche, mwen pito pa janm manje vyann ankò pou m' pa fè frè m' tonbe nan peche.  
+**[8:13]** Pase pou yon manje fè frè m' tonbe nan peche, mwen pito pa janm manje vyann ankò pou m' pa fè frè m' tonbe nan peche.
 
 ### Chapter 9
 
@@ -59368,7 +59368,7 @@
 
 **[9:26]** Se poutèt sa, m'ap kouri, men je m' pa soti sou kote pou m' rive a. Mwen tankou yon nonm k'ap tire koutpwen, men mwen pa tankou moun k'ap goumen ak lonbraj li.
 
-**[9:27]** Mwen aji di ak kò m', mwen kenbe l' kout, pou mwen menm yo pa voye m' jete apre mwen fin moutre lòt yo sa pou yo fè.  
+**[9:27]** Mwen aji di ak kò m', mwen kenbe l' kout, pou mwen menm yo pa voye m' jete apre mwen fin moutre lòt yo sa pou yo fè.
 
 ### Chapter 10
 
@@ -59436,7 +59436,7 @@
 
 **[10:32]** Se pou nou viv yon jan pou nou pa bay ni jwif yo, ni moun ki pa jwif yo, ni legliz Bondye a okazyon tonbe nan peche.
 
-**[10:33]** Se pou nou fè tankou m': nan tou sa m'ap fè, m'ap fè mwayen posib pou m' fè tout moun plezi; mwen p'ap chache avantaj pa m', men avantaj tout moun, pou tout moun ka sove.  
+**[10:33]** Se pou nou fè tankou m': nan tou sa m'ap fè, m'ap fè mwayen posib pou m' fè tout moun plezi; mwen p'ap chache avantaj pa m', men avantaj tout moun, pou tout moun ka sove.
 
 ### Chapter 11
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** Se sak fè, frè m' yo, lè nou reyini ansanm pou manje manje Seyè a, se pou yonn tann lòt.
 
-**[11:34]** Si yon moun grangou, se pou l' manje lakay li, pou l' pa rale jijman Bondye sou nou lè nou reyini. Pou lòt keksyon yo, m'a regle sa lè m'a rive lakay nou.  
+**[11:34]** Si yon moun grangou, se pou l' manje lakay li, pou l' pa rale jijman Bondye sou nou lè nou reyini. Pou lòt keksyon yo, m'a regle sa lè m'a rive lakay nou.
 
 ### Chapter 12
 
@@ -59570,7 +59570,7 @@
 
 **[12:30]** Tout moun pa gen don pou geri moun malad. Tout moun pa gen don pou pale langaj, osinon pou esplike sans pawòl langaj la.
 
-**[12:31]** Nan fon kè nou, se pou nou chache gen don ki pi enpòtan yo. Men, mwen pral moutre nou yon jan ki bon nèt. Pa gen pase li.  
+**[12:31]** Nan fon kè nou, se pou nou chache gen don ki pi enpòtan yo. Men, mwen pral moutre nou yon jan ki bon nèt. Pa gen pase li.
 
 ### Chapter 13
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** Konsa tou, sa nou wè koulye a, se tankou yon pòtre n'ap gade yon jan twoub twoub nan yon glas. Men, pita nou pral wè fasafas. Koulye a nou pa fin konn tout bagay. Men, pita n'a konnen nèt ale menm jan Bondye konnen nou an.
 
-**[13:13]** Koulye a se twa bagay sa yo ki toujou la: se konfyans, se espwa, se renmen. Men, nan twa bagay sa yo, se renmen ki pi gran.  
+**[13:13]** Koulye a se twa bagay sa yo ki toujou la: se konfyans, se espwa, se renmen. Men, nan twa bagay sa yo, se renmen ki pi gran.
 
 ### Chapter 14
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** Konsa, frè m' yo, anvan tout bagay, se pou nou chache don pou nou ka bay mesaj ki soti nan Bondye. Pa anpeche moun pale langaj.
 
-**[14:40]** Men, tout bagay fèt pou fèt avèk respè, avèk disiplen.  
+**[14:40]** Men, tout bagay fèt pou fèt avèk respè, avèk disiplen.
 
 ### Chapter 15
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** Men, ann di Bondye mèsi, li menm ki fè nou genyen batay la sou lanmò gremesi Jezikri, Seyè nou an!
 
-**[15:58]** Konsa, frè m' yo, kenbe fèm, pa brannen. Se pou n' toujou pi cho nan travay Seyè a, paske nou konnen travay n'ap fè pandan n'ap viv ansanm ak Seyè a p'ap janm pèdi.  
+**[15:58]** Konsa, frè m' yo, kenbe fèm, pa brannen. Se pou n' toujou pi cho nan travay Seyè a, paske nou konnen travay n'ap fè pandan n'ap viv ansanm ak Seyè a p'ap janm pèdi.
 
 ### Chapter 16
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Se pou benediksyon Jezi Seyè a toujou la avè nou.
 
-**[16:24]** Mwen renmen nou tout nan Jezikri.   
+**[16:24]** Mwen renmen nou tout nan Jezikri.
 
 ## II Corinthians
 
@@ -59900,7 +59900,7 @@
 
 **[1:23]** Mwen pran Bondye pou temwen sou lavi m': se pou m' te ka menaje nou kifè mwen chanje lide, mwen pa rive Korent.
 
-**[1:24]** Mwen p'ap chache fòse nou kwè anyen, paske nou deja kanpe fèm nan lafwa. Men, mwen ta renmen travay ansanm ak nou pou fè kè nou kontan.  
+**[1:24]** Mwen p'ap chache fòse nou kwè anyen, paske nou deja kanpe fèm nan lafwa. Men, mwen ta renmen travay ansanm ak nou pou fè kè nou kontan.
 
 ### Chapter 2
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** Pou moun k'ap peri yo, se yon sant lanmò k'ap touye yo. Men, pou moun k'ap sove yo, se yon sant lavi k'ap ba yo lavi. Ki moun ki kapab fè yon travay konsa?
 
-**[2:17]** Nou pa tankou anpil moun k'ap defòme pawòl Bondye a. Okontrè, nou pale pawòl la jan li ye a devan Bondye, tankou moun k'ap viv nan Kris la, paske se Bondye menm ki voye nou.  
+**[2:17]** Nou pa tankou anpil moun k'ap defòme pawòl Bondye a. Okontrè, nou pale pawòl la jan li ye a devan Bondye, tankou moun k'ap viv nan Kris la, paske se Bondye menm ki voye nou.
 
 ### Chapter 3
 
@@ -59974,7 +59974,7 @@
 
 **[3:17]** Kilès Seyè y'ap pale la a? Se Lespri Bondye a. Kote Lespri Bondye a ye, la gen libète.
 
-**[3:18]** Nou tout, nou pa kouvri figi nou; nou tankou yon glas k'ap fè moun wè pouvwa Bondye a: konsa chak jou n'ap transfòme, pouvwa li ap grandi nan nou, jouk tan n'a rive sanble nèt ak Seyè a. Sa se travay Seyè a. Lespri Bondye.  
+**[3:18]** Nou tout, nou pa kouvri figi nou; nou tankou yon glas k'ap fè moun wè pouvwa Bondye a: konsa chak jou n'ap transfòme, pouvwa li ap grandi nan nou, jouk tan n'a rive sanble nèt ak Seyè a. Sa se travay Seyè a. Lespri Bondye.
 
 ### Chapter 4
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** Sa m'ap sibi koulye a, se yon ti soufrans ki la pou pase. Men, soufrans sa a ap pare pou mwen yon bèl pouvwa k'ap la pou tout tan, pouvwa ki depase ti soufrans sa a anpil.
 
-**[4:18]** Paske, mwen p'ap konsidere bagay moun wè, men bagay moun pa wè. Sa moun wè, se bagay ki pa la pou lontan, men sa moun pa wè, se bagay ki la pou tout tan.  
+**[4:18]** Paske, mwen p'ap konsidere bagay moun wè, men bagay moun pa wè. Sa moun wè, se bagay ki pa la pou lontan, men sa moun pa wè, se bagay ki la pou tout tan.
 
 ### Chapter 5
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** Se sak fè mwen pale nan non Kris la menm ki te voye m', tankou si se Bondye menm k'ap pale nan bouch mwen pou di nou: tanpri, nan non Kris la, tounen vin byen ak Bondye ankò.
 
-**[5:21]** Kris la pa t' janm fè okenn peche, men Bondye fè l' pran sò nou sou li, yo trete l' tankou yon moun ki fè peche. Konsa, lè nou fè yon sèl kò ak Kris la, Bondye fè nou gras.  
+**[5:21]** Kris la pa t' janm fè okenn peche, men Bondye fè l' pran sò nou sou li, yo trete l' tankou yon moun ki fè peche. Konsa, lè nou fè yon sèl kò ak Kris la, Bondye fè nou gras.
 
 ### Chapter 6
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** Se poutèt sa, Bondye te di nou: Soti nan mitan moun sa yo. Pa mele ak yo. Pa manyen anyen nou pa dwe manyen. Lè sa a, mwen menm, m'a resevwa nou.
 
-**[6:18]** M'a tankou yon papa pou nou. Nou menm, n'a tankou pitit gason m' ak pitit fi mwen. Se Mèt ki gen tout pouvwa a ki di sa.  
+**[6:18]** M'a tankou yon papa pou nou. Nou menm, n'a tankou pitit gason m' ak pitit fi mwen. Se Mèt ki gen tout pouvwa a ki di sa.
 
 ### Chapter 7
 
@@ -60128,7 +60128,7 @@
 
 **[7:15]** Koulye a, li vin renmen nou plis toujou lè l' chonje jan nou tout nou te dispoze obeyi, jan nou te resevwa l' avèk krentif sitèlman nou t'ap tranble.
 
-**[7:16]** Mwen kontan nèt mwen ka toujou konte sou nou.  
+**[7:16]** Mwen kontan nèt mwen ka toujou konte sou nou.
 
 ### Chapter 8
 
@@ -60178,7 +60178,7 @@
 
 **[8:23]** Konsa, Tit se yon bon zanmi m' k'ap travay ansanm avè m' pou nou. Pou lòt frè ki avè l' yo, se legliz yo ki voye yo. Se yon lwanj pou Kris la.
 
-**[8:24]** Fè yo wè jan nou renmen yo, pou legliz yo ka sèten nou renmen yo, pou yo ka konnen mwen gen rezòn pale byen pou nou konsa.  
+**[8:24]** Fè yo wè jan nou renmen yo, pou legliz yo ka sèten nou renmen yo, pou yo ka konnen mwen gen rezòn pale byen pou nou konsa.
 
 ### Chapter 9
 
@@ -60210,7 +60210,7 @@
 
 **[9:14]** Y'a lapriyè pou nou, y'a renmen nou anpil akòz gwo favè sa a Bondye fè pou nou.
 
-**[9:15]** Ann di Bondye mèsi pou gwo kado sa a li ban nou, yon kado ki pa gen parèy li!  
+**[9:15]** Ann di Bondye mèsi pou gwo kado sa a li ban nou, yon kado ki pa gen parèy li!
 
 ### Chapter 10
 
@@ -60248,7 +60248,7 @@
 
 **[10:17]** Paske, jan sa ekri nan Liv la: Si yon moun vle fè lwanj tèt li, se pou l' fè lwanj tèt li nan sa Bondye fè pou li.
 
-**[10:18]** Se konsa wi: Se pa moun k'ap fè lwanj tèt yo ki bon pou travay la, men se moun Seyè a rekòmande ki bon pou travay la.  
+**[10:18]** Se konsa wi: Se pa moun k'ap fè lwanj tèt yo ki bon pou travay la, men se moun Seyè a rekòmande ki bon pou travay la.
 
 ### Chapter 11
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** Lè m' te lavil Damas, moun wa Aretas te mete pou gouvènen lavil la pran gad, li mete yo nan tout pòtay lavil la pou yo te arete m'.
 
-**[11:33]** Men frè yo fè m' pase nan yon fennèt nan gwo miray lavil la. Yo file m' desann nan yon panyen. Se konsa mwen te chape kò m' anba men li.  
+**[11:33]** Men frè yo fè m' pase nan yon fennèt nan gwo miray lavil la. Yo file m' desann nan yon panyen. Se konsa mwen te chape kò m' anba men li.
 
 ### Chapter 12
 
@@ -60360,7 +60360,7 @@
 
 **[12:20]** Mwen pè pou lè m' rive lakay nou, mwen pa jwenn nou jan mwen ta vle l' la. Mwen pè pou m' pa jwenn kont, jalouzi, bouyay, rayisab, joure, tripotaj, lògèy, dezòd nan mitan nou.
 
-**[12:21]** Mwen pè pou lè m' rive lakay nou, Bondye m'ap sèvi a pa rabese m' ankò devan nou, pou m' pa bezwen nan kriye pou anpil nan nou ki te fè peche anvan sa, epi ki pa tounen vin jwenn Bondye, men ki toujou rete nan malpwòpte yo, nan imoralite yo, nan tout vis yo t'ap fè yo.  
+**[12:21]** Mwen pè pou lè m' rive lakay nou, Bondye m'ap sèvi a pa rabese m' ankò devan nou, pou m' pa bezwen nan kriye pou anpil nan nou ki te fè peche anvan sa, epi ki pa tounen vin jwenn Bondye, men ki toujou rete nan malpwòpte yo, nan imoralite yo, nan tout vis yo t'ap fè yo.
 
 ### Chapter 13
 
@@ -60388,7 +60388,7 @@
 
 **[13:12]** Se pou nou yonn bo lòt tankou moun k'ap viv pou Bondye. Tout frè k'ap viv apa pou Bondye yo voye bonjou pou nou.
 
-**[13:13]** Se pou benediksyon Seyè Jezikri ban nou an, ak renmen Bondye gen pou nou an, ansanm ak pouvwa Sentespri k'ap fè nou viv ansanm lan toujou la ak nou tout.   
+**[13:13]** Se pou benediksyon Seyè Jezikri ban nou an, ak renmen Bondye gen pou nou an, ansanm ak pouvwa Sentespri k'ap fè nou viv ansanm lan toujou la ak nou tout.
 
 **[13:14]** 
 
@@ -60442,7 +60442,7 @@
 
 **[1:23]** Yo te sèlman konn tande moun ap di yo: Nonm ki t'ap pesekite nou nan tan lontan an, koulye a men l'ap mache anonse bon nouvèl li te vle kraze a.
 
-**[1:24]** Yo t'ap fè lwanj Bondye pou tèt mwen.  
+**[1:24]** Yo t'ap fè lwanj Bondye pou tèt mwen.
 
 ### Chapter 2
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** Se sak fè, se pa mwen k'ap viv ankò, se Kris la k'ap viv nan mwen: lavi m'ap mennen nan kò m' koulye a, m'ap viv li nan konfyans mwen gen nan Pitit Bondye a ki te renmen m' sitèlman li te rive bay lavi l' pou mwen.
 
-**[2:21]** Mwen pa voye favè Bondye fè m' lan jete. Paske, si lalwa ka fè Bondye fè yon moun gras, enben, Kris la mouri pou gremesi.  
+**[2:21]** Mwen pa voye favè Bondye fè m' lan jete. Paske, si lalwa ka fè Bondye fè yon moun gras, enben, Kris la mouri pou gremesi.
 
 ### Chapter 3
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** Koulye a pa gen diferans ant moun ki jwif ak moun ki pa jwif, pa gen diferans ant moun ki esklav ak moun ki pa esklav, ant fanm ak gason. Nou tout nou fè yonn nan Jezikri.
 
-**[3:29]** Si ou se moun Kris la, enben ou se pitit pitit Abraram. Ou gen pou resevwa eritaj Bondye te pwomèt la.  
+**[3:29]** Si ou se moun Kris la, enben ou se pitit pitit Abraram. Ou gen pou resevwa eritaj Bondye te pwomèt la.
 
 ### Chapter 4
 
@@ -60610,7 +60610,7 @@
 
 **[4:30]** Men, kisa ki ekri nan Liv la? Liv la di: Mete esklav la deyò ansanm ak tout pitit li a. Paske pitit esklav la pa gen dwa eritye nan byen papa a ansanm avèk pitit fanm ki pa t' esklav la.
 
-**[4:31]** Konsa, frè m' yo, nou pa pitit esklav la, nou se pitit fanm ki pa t' esklav la.  
+**[4:31]** Konsa, frè m' yo, nou pa pitit esklav la, nou se pitit fanm ki pa t' esklav la.
 
 ### Chapter 5
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** Se Lespri Bondye a ki ban nou lavi, se pou n' kite li dirije lavi nou nan tout bagay.
 
-**[5:26]** Pa kite lògèy moute nou nan tèt. Piga yonn chache lòt kont. Piga yonn rayi sò lòt.  
+**[5:26]** Pa kite lògèy moute nou nan tèt. Piga yonn chache lòt kont. Piga yonn rayi sò lòt.
 
 ### Chapter 6
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Apre sa, piga pesonn ban m' traka ankò. Paske, mak m'ap pote nan kò mwen moutre se esklav Jezikri mwen ye.
 
-**[6:18]** Frè m' yo, se pou benediksyon Jezikri, Seyè nou an, toujou la ak nou tout. Amèn.   
+**[6:18]** Frè m' yo, se pou benediksyon Jezikri, Seyè nou an, toujou la ak nou tout. Amèn.
 
 ## Ephesians
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** Bondye mete tout bagay anba pye Kris la, li mete l' pou l' sèl chèf legliz la.
 
-**[1:23]** Legliz la se kò Kris la, li konplete Kris la. Kris la menm, avèk pouvwa li, li konplete tout bagay ki toupatou.  
+**[1:23]** Legliz la se kò Kris la, li konplete Kris la. Kris la menm, avèk pouvwa li, li konplete tout bagay ki toupatou.
 
 ### Chapter 2
 
@@ -60798,7 +60798,7 @@
 
 **[2:21]** Se li menm ki kenbe tout kò kay la kanpe byen fèm, ki fè l' grandi pou l' tounen yon sèl kay yo mete apa pou Bondye.
 
-**[2:22]** Konsa, nou menm tou avèk lavi n'ap mennen nan Kris la, nou antre nan batisman sa a pou nou fè ansanm ak lòt yo yon sèl kay kote Bondye ap viv ak pouvwa Sentespri li.  
+**[2:22]** Konsa, nou menm tou avèk lavi n'ap mennen nan Kris la, nou antre nan batisman sa a pou nou fè ansanm ak lòt yo yon sèl kay kote Bondye ap viv ak pouvwa Sentespri li.
 
 ### Chapter 3
 
@@ -60842,7 +60842,7 @@
 
 **[3:20]** Tout lwanj lan se pou Bondye. Paske, ak pouvwa k'ap travay nan nou an, li kapab fè pi plis pase tou sa nou ka mande, pi plis pase tou sa nou ka mete nan lide nou.
 
-**[3:21]** Wi, tout lwanj lan pou Bondye nan legliz la ak nan Jezikri, pou tout tan ak pou tout tan. Amèn. Se sa menm!  
+**[3:21]** Wi, tout lwanj lan pou Bondye nan legliz la ak nan Jezikri, pou tout tan ak pou tout tan. Amèn. Se sa menm!
 
 ### Chapter 4
 
@@ -60908,7 +60908,7 @@
 
 **[4:31]** Piga yo jwenn nan mitan nou moun ki kenbe lòt nan kè yo, moun ki gen san wo, moun ki renmen fè kòlè. Piga yo tande woywoy ak joure nan mitan nou. Nou pa fèt pou gen okenn lòt kalite mechanste k'ap fèt nan mitan nou.
 
-**[4:32]** Okontrè, se pou nou aji byen yonn ak lòt, se pou nou gen bon kè yonn pou lòt, pou nou yonn padonnen lòt, menm jan Bondye te padonnen nou nan Kris la.  
+**[4:32]** Okontrè, se pou nou aji byen yonn ak lòt, se pou nou gen bon kè yonn pou lòt, pou nou yonn padonnen lòt, menm jan Bondye te padonnen nou nan Kris la.
 
 ### Chapter 5
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** Se yon gwo verite wi Bondye fè nou konnen nan pawòl sa a. Mwen menm, mwen kwè verite sa a se pou Kris la ak legliz la.
 
-**[5:33]** Men, li bon pou nou tou: se pou chak mari renmen madanm yo tankou yo renmen tèt pa yo, epitou se pou chak madanm respekte mari yo.  
+**[5:33]** Men, li bon pou nou tou: se pou chak mari renmen madanm yo tankou yo renmen tèt pa yo, epitou se pou chak madanm respekte mari yo.
 
 ### Chapter 6
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Mwen mande Bondye, Papa a, ansanm ak Jezikri, Seyè a, pou yo bay tout frè yo kè poze, renmen ak konfyans nan Bondye.
 
-**[6:24]** benediksyon Bondye pou tout moun ki renmen Jezikri, Seyè nou an, ak yon renmen ki p'ap janm fini.   
+**[6:24]** benediksyon Bondye pou tout moun ki renmen Jezikri, Seyè nou an, ak yon renmen ki p'ap janm fini.
 
 ## Philippians
 
@@ -61090,7 +61090,7 @@
 
 **[1:29]** Paske nou menm k'ap sèvi Kris la, Bondye ban nou favè sa a, non sèlman pou nou gen konfyans nan li, men pou nou ka soufri avè li tou.
 
-**[1:30]** Batay n'ap mennen an, se menm batay la m'ap mennen tou. Se menm batay nou te wè m'ap mennen nan tan lontan an. Se li menm m'ap mennen jouk koulye a, jan nou konnen an.  
+**[1:30]** Batay n'ap mennen an, se menm batay la m'ap mennen tou. Se menm batay nou te wè m'ap mennen nan tan lontan an. Se li menm m'ap mennen jouk koulye a, jan nou konnen an.
 
 ### Chapter 2
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** Konsa, resevwa l' ak kè kontan tankou yon frè nan Seyè a. Se pou nou gen anpil respè pou moun ki tankou Epafwodit,
 
-**[2:30]** paske li te prèt pou mouri pou travay Kris la, li riske lavi l' pou l' te ka ban mwen konkou nou menm nou pa t' kapab ban mwen.  
+**[2:30]** paske li te prèt pou mouri pou travay Kris la, li riske lavi l' pou l' te ka ban mwen konkou nou menm nou pa t' kapab ban mwen.
 
 ### Chapter 3
 
@@ -61196,7 +61196,7 @@
 
 **[3:20]** Men nou menm, nou se sitwayen peyi ki nan syèl la. Se tann n'ap tann Delivrans nou, Jezikri, Seyè a, ki gen pou desann sot nan syèl la.
 
-**[3:21]** Se li menm k'ap pran pouvwa li genyen pou soumèt tout bagay anba men l' lan, l'ap chanje vye kò tou fèb nou yo pou l' fè yo tounen tankou kò pa l' la ki gen bèl pouvwa.  
+**[3:21]** Se li menm k'ap pran pouvwa li genyen pou soumèt tout bagay anba men l' lan, l'ap chanje vye kò tou fèb nou yo pou l' fè yo tounen tankou kò pa l' la ki gen bèl pouvwa.
 
 ### Chapter 4
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Tout pèp Bondye a ki isit la, espesyalman sa ki nan palè Seza a, voye bonjou pou nou.
 
-**[4:23]** Se pou benediksyon Jezikri, Seyè a, toujou avè nou.   
+**[4:23]** Se pou benediksyon Jezikri, Seyè a, toujou avè nou.
 
 ## Colossians
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** Konsa, m'ap fè tout moun konnen Kris la. M'ap bay tout moun konsèy, m'ap moutre yo tout bagay avè bon konprann, jan m' kapab pou yo tout ka parèt devan Bondye tankou granmoun ki byen grandi nan lavi y'ap mennen ansanm ak Kris la.
 
-**[1:29]** Se pou sa m'ap travay, se pou sa m'ap goumen ak tout pouvwa Kris la k'ap travay ak fòs nan mwen.  
+**[1:29]** Se pou sa m'ap travay, se pou sa m'ap goumen ak tout pouvwa Kris la k'ap travay ak fòs nan mwen.
 
 ### Chapter 2
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** Tout bagay sa yo, fini ou fin fè yo, yo pa fè anyen pou ou. Se lèzòm ki mande bagay konsa, se yo ki moutre bagay sa yo.
 
-**[2:23]** Se vre, bagay sa yo sanble yo bon, paske sa mande moun anpil volonte pou yo pran pòz sèvi zanj yo konsa, pou yo pran pòz pa vante tèt yo, pou yo fè bagay pou swadizan kraze pouvwa lachè nan kò yo. Men, tou sa pa vo anyen. Paske, atousa, yo pa ka rive donmennen egzijans lachè a.  
+**[2:23]** Se vre, bagay sa yo sanble yo bon, paske sa mande moun anpil volonte pou yo pran pòz sèvi zanj yo konsa, pou yo pran pòz pa vante tèt yo, pou yo fè bagay pou swadizan kraze pouvwa lachè nan kò yo. Men, tou sa pa vo anyen. Paske, atousa, yo pa ka rive donmennen egzijans lachè a.
 
 ### Chapter 3
 
@@ -61406,7 +61406,7 @@
 
 **[3:24]** Chonje byen: Seyè a gen pou ban nou rekonpans nou: l'ap ban nou eritaj li sere pou moun pa l' yo. Paske, mèt n'ap sèvi tout bon an se Kris la.
 
-**[3:25]** Men, moun ki fè sa ki mal va resevwa sa ki pou li dapre mal li te fè a. Paske, Bondye pa gade sou figi moun.  
+**[3:25]** Men, moun ki fè sa ki mal va resevwa sa ki pou li dapre mal li te fè a. Paske, Bondye pa gade sou figi moun.
 
 ### Chapter 4
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Di Achip pou mwen: Fè atansyon. Sèvis yo ba l' fè nan travay Seyè a, se pou l' fè l' byen.
 
-**[4:18]** Se mwen menm Pòl, ak men pa m', k'ap ekri nou koulye a: Bonjou pou nou tout. Pa bliye m' nan prizon an. benediksyon Bondye pou nou tout.   
+**[4:18]** Se mwen menm Pòl, ak men pa m', k'ap ekri nou koulye a: Bonjou pou nou tout. Pa bliye m' nan prizon an. benediksyon Bondye pou nou tout.
 
 ## I Thessalonians
 
@@ -61468,7 +61468,7 @@
 
 **[1:9]** Okontrè, yo tout ap rakonte jan nou te resevwa m' lè m' te rive lakay nou, jan nou te kite zidòl yo pou n' tounen vin jwenn Bondye, pou nou te ka sèvi Bondye vivan an, Bondye tout bon an.
 
-**[1:10]** Y'ap di tou jan n'ap tann Jezi, Pitit Bondye a, k'ap vini sot nan syèl la. Se Jezi sa a Bondye te leve vivan soti nan lanmò. Se li menm k'ap delivre nou anba kòlè Bondye k'ap vini an.  
+**[1:10]** Y'ap di tou jan n'ap tann Jezi, Pitit Bondye a, k'ap vini sot nan syèl la. Se Jezi sa a Bondye te leve vivan soti nan lanmò. Se li menm k'ap delivre nou anba kòlè Bondye k'ap vini an.
 
 ### Chapter 2
 
@@ -61510,7 +61510,7 @@
 
 **[2:19]** Se nou menm, moun Tesalonik, ki tout espwa mwen, se pa lòt moun. Se nou menm ki fè kè m' kontan. Se nou menm k'ap ban m' okazyon pou m' vante tèt mwen devan Jezi, Seyè nou an, lè la vini.
 
-**[2:20]** Se nou menm ki ban m' satilfaksyon, se nou menm ki fè kè m' kontan.  
+**[2:20]** Se nou menm ki ban m' satilfaksyon, se nou menm ki fè kè m' kontan.
 
 ### Chapter 3
 
@@ -61538,7 +61538,7 @@
 
 **[3:12]** Mwen mande Seyè a pou nou gen plis renmen yonn pou lòt ak pou tout moun, menm jan mwen renmen nou.
 
-**[3:13]** Konsa, nou menm moun Tesalonik, Kris la va fòtifye kè nou pou nou ka san repwòch devan Bondye, Papa nou, tankou moun k'ap viv apa pou li jouk lè Jezikri, Seyè nou an, va vini ansanm ak tout moun pa l' yo.  
+**[3:13]** Konsa, nou menm moun Tesalonik, Kris la va fòtifye kè nou pou nou ka san repwòch devan Bondye, Papa nou, tankou moun k'ap viv apa pou li jouk lè Jezikri, Seyè nou an, va vini ansanm ak tout moun pa l' yo.
 
 ### Chapter 4
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** Apre sa, nou menm ki va vivan toujou lè sa a, y'ap vin pran nou, nou menm ansanm ak moun ki soti vivan nan lanmò yo, y'ap mete nou sou nwaj yo pou n' al kontre Seyè a anwo a. Konsa, nou tout n'ap toujou ansanm ak Seyè a.
 
-**[4:18]** Se pou nou yonn ankouraje lòt ak pawòl sa yo.  
+**[4:18]** Se pou nou yonn ankouraje lòt ak pawòl sa yo.
 
 ### Chapter 5
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Tanpri souple, nan non Seyè a, li lèt sa a bay tout frè yo.
 
-**[5:28]** Se pou benediksyon Jezikri, Seyè nou an, toujou la avèk nou.   
+**[5:28]** Se pou benediksyon Jezikri, Seyè nou an, toujou la avèk nou.
 
 ## II Thessalonians
 
@@ -61662,7 +61662,7 @@
 
 **[1:11]** Se poutèt sa, mwen p'ap janm sispann lapriyè pou nou. M'ap mande Bondye pou l' ede nou pou nou viv yon jan ki dakò ak lavi li mande nou pou nou viv la. M'ap mande l' pou li ban nou pouvwa li, pou nou ka fè tout byen nou vle fè, pou nou fin reyalize nèt travay n'ap fè ak konfyans nan Bondye.
 
-**[1:12]** Konsa, tout moun va fè lwanj non Jezi a poutèt nou. Nou menm tou, y'a fè lwanj nou poutèt li, gremesi favè Bondye nou an ansanm ak Jezikri, Seyè a, fè nou.  
+**[1:12]** Konsa, tout moun va fè lwanj non Jezi a poutèt nou. Nou menm tou, y'a fè lwanj nou poutèt li, gremesi favè Bondye nou an ansanm ak Jezikri, Seyè a, fè nou.
 
 ### Chapter 2
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** M'ap lapriyè Jezikri, Seyè nou an, ansanm ak Bondye, Papa nou ki renmen nou, ki fè nou favè, ki ban nou yon kouraj ki p'ap janm febli ansanm ak yon bèl espwa.
 
-**[2:17]** M'ap mande yo pou yo fòtifye kè nou, pou yo ban nou fòs kouraj pou nou fè tou sa ki byen, pou nou di tou sa ki byen.  
+**[2:17]** M'ap mande yo pou yo fòtifye kè nou, pou yo ban nou fòs kouraj pou nou fè tou sa ki byen, pou nou di tou sa ki byen.
 
 ### Chapter 3
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Se mwen menm Pòl k'ap ekri mo sa yo: mwen voye bonjou pou nou tout. Se konsa mwen siyen tout lèt mwen yo, se konsa mwen toujou ekri.
 
-**[3:18]** Se pou benediksyon Jezikri, Seyè nou an, toujou la avèk nou tout.   
+**[3:18]** Se pou benediksyon Jezikri, Seyè nou an, toujou la avèk nou tout.
 
 ## I Timothy
 
@@ -61780,7 +61780,7 @@
 
 **[1:19]** Kenbe konfyans ou fèm nan Bondye ak konsyans ou an repo. Gen moun ki refize koute konsyans yo. Se konsa yo pèdi konfyans yo.
 
-**[1:20]** Nan yo gen Imene ak Aleksann. Mwen lage tou de nan men Satan pou yo aprann pa pale mal sou Bondye.  
+**[1:20]** Nan yo gen Imene ak Aleksann. Mwen lage tou de nan men Satan pou yo aprann pa pale mal sou Bondye.
 
 ### Chapter 2
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** Se pa t' Adan Satan te twonpe, se fanm lan li te twonpe, se fanm lan ki te dezobeyi lòd Bondye.
 
-**[2:15]** Men, yon fanm va delivre lè la fè pitit, si l' kenbe fèm nan konfyans li, nan renmen, nan lavi l'ap mennen apa pou Bondye a, si l' rete tou senp.  
+**[2:15]** Men, yon fanm va delivre lè la fè pitit, si l' kenbe fèm nan konfyans li, nan renmen, nan lavi l'ap mennen apa pou Bondye a, si l' rete tou senp.
 
 ### Chapter 3
 
@@ -61846,7 +61846,7 @@
 
 **[3:15]** Men, si m' pran reta, lèt sa a va fè ou konnen ki jan pou nou mennen tèt nou nan fanmi Bondye a, sa vle di nan legliz Bondye vivan an. Legliz la tankou yon poto k'ap soutni verite a.
 
-**[3:16]** Tout moun fèt pou rekonèt jan sekrè relijyon nou an se yo gwo zafè. Li te parèt tankou yon moun. Lespri a fè nou wè jan li mache dwat devan Bondye. Epi tout zanj yo te wè l' tou. Se li menm y'ap mache fè konnen nan tout nasyon. Se nan li moun toupatou mete konfyans yo. Apre sa, yo resevwa l' nan syèl la.  
+**[3:16]** Tout moun fèt pou rekonèt jan sekrè relijyon nou an se yo gwo zafè. Li te parèt tankou yon moun. Lespri a fè nou wè jan li mache dwat devan Bondye. Epi tout zanj yo te wè l' tou. Se li menm y'ap mache fè konnen nan tout nasyon. Se nan li moun toupatou mete konfyans yo. Apre sa, yo resevwa l' nan syèl la.
 
 ### Chapter 4
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** Fè travay sa a ak anpil swen, bay tout tan ou pou li, pou tout moun ka wè jan w'ap fè pwogrè.
 
-**[4:16]** Veye sou konpòtman ou, fè atansyon ak pawòl verite w'ap anonse a. Pa lage travay ou menm. Si ou fè sa konsa, wa sove tèt ou ansanm ak tout moun k'ap koute ou yo.  
+**[4:16]** Veye sou konpòtman ou, fè atansyon ak pawòl verite w'ap anonse a. Pa lage travay ou menm. Si ou fè sa konsa, wa sove tèt ou ansanm ak tout moun k'ap koute ou yo.
 
 ### Chapter 5
 
@@ -61932,7 +61932,7 @@
 
 **[5:24]** Gen moun, anvan menm ou jije yo, ou gen tan wè tout peche yo aklè konsa. Gen lòt menm, se lontan apre ou wè sa yo fè ki mal.
 
-**[5:25]** Konsa tou, tout byen yon moun fè gen pou parèt aklè, menm sa ou pa wè lapoula. Yo pa ka rete kache.  
+**[5:25]** Konsa tou, tout byen yon moun fè gen pou parèt aklè, menm sa ou pa wè lapoula. Yo pa ka rete kache.
 
 ### Chapter 6
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** Timote monchè, veye byen sou sa yo te renmèt ou a. Pa pèdi tan ou nan diskou san sans ki pa dakò ak verite a, ni nan diskisyon pou bagay anpil moun pran pou konesans.
 
-**[6:21]** Gen moun ki konprann yo gen konesans sa a. Ale wè atò! Se kite yo kite chemen lafwa a. Benediksyon Bondye pou ou.   
+**[6:21]** Gen moun ki konprann yo gen konesans sa a. Ale wè atò! Se kite yo kite chemen lafwa a. Benediksyon Bondye pou ou.
 
 ## II Timothy
 
@@ -62016,7 +62016,7 @@
 
 **[1:17]** Okontrè, lè li rive lavil Wòm, li touye tèt li chache m' jouk li jwenn mwen.
 
-**[1:18]** Se pou Seyè Jezi fè Bondye gen pitye pou li lè gran jou a va rive. Ou chonje tout sèvis li te rann mwen lavil Efèz?  
+**[1:18]** Se pou Seyè Jezi fè Bondye gen pitye pou li lè gran jou a va rive. Ou chonje tout sèvis li te rann mwen lavil Efèz?
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** Se pou l' korije moun ki pa dakò avè l' avèk dousè. Ou pa janm konnen: Bondye ka ba yo yon chans pou yo chanje jan y'ap viv la, pou yo vin konn verite a.
 
-**[2:26]** Lè konsa, y'a reprann bon sans yo, y'a chape kò yo soti nan pèlen Satan ki te mete men sou yo pou l' te fè yo fè sa l' vle.  
+**[2:26]** Lè konsa, y'a reprann bon sans yo, y'a chape kò yo soti nan pèlen Satan ki te mete men sou yo pou l' te fè yo fè sa l' vle.
 
 ### Chapter 3
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** Tou sa ki ekri nan Liv la, se nan Lespri Bondye a yo soti. Y'ap sèvi pou moutre moun verite a, pou konbat moun ki nan lerè, pou korije moun k'ap fè fòt, pou moutre yo ki jan pou yo viv byen devan Bondye.
 
-**[3:17]** Konsa, yon moun k'ap sèvi Bondye, li tou pare, li gen tou sa li bezwen pou l' fè tou sa ki byen.  
+**[3:17]** Konsa, yon moun k'ap sèvi Bondye, li tou pare, li gen tou sa li bezwen pou l' fè tou sa ki byen.
 
 ### Chapter 4
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Fè posib ou pou ou vin jwenn mwen anvan sezon fredi a rive. Ebilis, Pidans, Lenis, Klodya ak tout lòt frè yo voye bonjou pou ou.
 
-**[4:22]** Mwen mande Seyè a pou l' toujou la avèk ou. benediksyon Bondye avèk nou tout. Amèn.   
+**[4:22]** Mwen mande Seyè a pou l' toujou la avèk ou. benediksyon Bondye avèk nou tout. Amèn.
 
 ## Titus
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Pou yon moun k'ap fè volonte Bondye, tout bagay bon. Men, anyen pa bon pou moun k'ap fè sa ki mal, pou moun ki pa gen konfyans nan Bondye, paske lespri yo ak konsyans yo fin pran nan sa ki mal.
 
-**[1:16]** Y'ap mache di yo konn Bondye. Men, sa y'ap fè a demanti yo. Yo bay degoutans, yo rebèl, yo pa ka fè anyen ki bon.  
+**[1:16]** Y'ap mache di yo konn Bondye. Men, sa y'ap fè a demanti yo. Yo bay degoutans, yo rebèl, yo pa ka fè anyen ki bon.
 
 ### Chapter 2
 
@@ -62220,7 +62220,7 @@
 
 **[2:14]** Li te asepte mouri pou nou pou li te ka delivre nou anba mechanste, pou li te fè nou tounen yon pèp ki nan kondisyon pou sèvi li, ki rele li pa li, epi ki toujou pare pou fè sa ki byen.
 
-**[2:15]** Se bagay sa yo pou ou moutre moun yo. Otorite yo ba ou a se pou ankouraje sa ki bezwen ankouraje, pou rale zòrèy sa ki bezwen gen zòrèy yo rale. Pa bay pesonn okazyon meprize ou.  
+**[2:15]** Se bagay sa yo pou ou moutre moun yo. Otorite yo ba ou a se pou ankouraje sa ki bezwen ankouraje, pou rale zòrèy sa ki bezwen gen zòrèy yo rale. Pa bay pesonn okazyon meprize ou.
 
 ### Chapter 3
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** Se pou moun nou yo aprann fè sa ki byen tou, pou yo bay lè gen ka nesesite. Yo pa fèt pou y'ap viv konsa san yo pa bay anyen.
 
-**[3:15]** Tout moun ki avè m' yo voye bonjou pou ou. Di tout zanmi nou nan lafwa yo bonjou. Mwen mande pou Bondye ban nou tout favè li.   
+**[3:15]** Tout moun ki avè m' yo voye bonjou pou ou. Di tout zanmi nou nan lafwa yo bonjou. Mwen mande pou Bondye ban nou tout favè li.
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** Mak, Aristak, Demas ak Lik k'ap travay ansanm ak mwen, yo tout voye bonjou tou.
 
-**[1:25]** Se pou benediksyon Jezikri, Seyè nou an, toujou la avèk nou. Amèn.   
+**[1:25]** Se pou benediksyon Jezikri, Seyè nou an, toujou la avèk nou. Amèn.
 
 ## Hebrews
 
@@ -62338,7 +62338,7 @@
 
 **[1:13]** Bondye pa janm di okenn nan zanj li yo: Chita la sou bò dwat mwen, jouk tan mwen fè lènmi ou yo tounen yon ti ban pou lonje pye ou.
 
-**[1:14]** Kisa zanj Bondye yo ye menm? Yo tout se yonn bann lespri k'ap sèvi Bondye. Se Bondye menm ki voye yo pou ede moun ki la pou jwenn delivrans yo.  
+**[1:14]** Kisa zanj Bondye yo ye menm? Yo tout se yonn bann lespri k'ap sèvi Bondye. Se Bondye menm ki voye yo pou ede moun ki la pou jwenn delivrans yo.
 
 ### Chapter 2
 
@@ -62376,7 +62376,7 @@
 
 **[2:17]** Se konsa, li te fèt pou l' te vin tankou frè l' yo sou tout pwen, pou l' te ka sèvi yo tankou yon granprèt ki gen anpil pitye pou yo, k'ap fè sèvis li byen devan Bondye, pou ofrann li fè a ka fè Bondye padonnen peche tout pèp la.
 
-**[2:18]** Koulye a, li ka pote sekou bay tout moun ki anba tantasyon, paske li menm tou li te pase anba tantasyon, li menm tou li te soufri.  
+**[2:18]** Koulye a, li ka pote sekou bay tout moun ki anba tantasyon, paske li menm tou li te pase anba tantasyon, li menm tou li te soufri.
 
 ### Chapter 3
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** Lè Bondye te fè sèman sa a, kilès li t'ap pale? Li t'ap pale sou moun ki te chache kont ak li yo.
 
-**[3:19]** Nou wè vre, yo yonn pa t' kapab mete pye yo kote sa a, paske yo pa t' gen konfyans.  
+**[3:19]** Nou wè vre, yo yonn pa t' kapab mete pye yo kote sa a, paske yo pa t' gen konfyans.
 
 ### Chapter 4
 
@@ -62450,7 +62450,7 @@
 
 **[4:15]** Granprèt nou an, se pa yon moun ki pa kapab soufri ak nou nan feblès nou. Okontrè, nou gen yon granprèt ki te pase anba tout kalite tantasyon menm jan ak nou. Men, li pa t' janm fè okenn peche.
 
-**[4:16]** Se poutèt sa, ann pwoche avèk konfyans devan fotèy kote Bondye ki renmen nou an chita. Se la n'a jwenn padon pou peche nou yo, se la n'a jwenn pou gremesi sekou n'a bezwen lè nou nan nesesite.  
+**[4:16]** Se poutèt sa, ann pwoche avèk konfyans devan fotèy kote Bondye ki renmen nou an chita. Se la n'a jwenn padon pou peche nou yo, se la n'a jwenn pou gremesi sekou n'a bezwen lè nou nan nesesite.
 
 ### Chapter 5
 
@@ -62480,7 +62480,7 @@
 
 **[5:13]** Se timoun ki nan bwè lèt, paske timoun pa gen kont esperyans pou konnen sa ki bon ak sa ki pa bon.
 
-**[5:14]** Okontrè, se granmoun ki manje gwo manje, paske granmoun yo konn jije, yo konn fè diferans ant sa ki bon ak sa ki mal.  
+**[5:14]** Okontrè, se granmoun ki manje gwo manje, paske granmoun yo konn jije, yo konn fè diferans ant sa ki bon ak sa ki mal.
 
 ### Chapter 6
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** Espwa sa a, se tankou yon lank batiman li ye pou nou. L'ap kenbe nanm nou fè m', byen solid. Lank sa nou genyen an, li chouke jouk lòt bò rido tanp ki nan syèl la.
 
-**[6:20]** Se la Jezi te antre an premye pou louvri chemen an pou nou, li menm ki te tounen yon granprèt pou tout tan, menm jan ak Mèlkisedèk.  
+**[6:20]** Se la Jezi te antre an premye pou louvri chemen an pou nou, li menm ki te tounen yon granprèt pou tout tan, menm jan ak Mèlkisedèk.
 
 ### Chapter 7
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** Li pa tankou lòt granprèt yo. Li pa bezwen ap ofri chak jou yon bann bèt pou yo touye pou peche pa l' yo anvan, epi pou peche pèp la apre sa. Li pa nan sa li menm. Li fè yon sèl ofrann fini ak sa lè li te ofri tèt li a.
 
-**[7:28]** Dapre lalwa Moyiz la, se moun ki poko bon nèt yo te mete sèvi granprèt. Men, dapre pawòl sèman Bondye a, pawòl ki vin lontan apre lalwa a, moun Bondye mete granprèt la, se Pitit li a ki te vin bon nèt sou tout pwen pou tout tan.  
+**[7:28]** Dapre lalwa Moyiz la, se moun ki poko bon nèt yo te mete sèvi granprèt. Men, dapre pawòl sèman Bondye a, pawòl ki vin lontan apre lalwa a, moun Bondye mete granprèt la, se Pitit li a ki te vin bon nèt sou tout pwen pou tout tan.
 
 ### Chapter 8
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** M'a padonnen sa yo fè ki mal, mwen p'ap chonje peche yo ankò.
 
-**[8:13]** Lè Bondye di li pral fè yon lòt kontra, li fè premye kontra a pase mòd. Tou sa ki pase mòd, tou sa ki fin vye prèt pou disparèt.  
+**[8:13]** Lè Bondye di li pral fè yon lòt kontra, li fè premye kontra a pase mòd. Tou sa ki pase mòd, tou sa ki fin vye prèt pou disparèt.
 
 ### Chapter 9
 
@@ -62666,7 +62666,7 @@
 
 **[9:27]** Tout moun gen pou mouri yon sèl fwa, apre sa, Bondye gen pou jije yo.
 
-**[9:28]** Konsa tou, Kris la ofri tèt li pou li mouri yon sèl fwa pou wete peche anpil moun. Li gen pou l' tounen yon dezyèm fwa. Men, lè sa a, se p'ap pou wete peche nou, se va pou delivre tout moun k'ap tann li yo.  
+**[9:28]** Konsa tou, Kris la ofri tèt li pou li mouri yon sèl fwa pou wete peche anpil moun. Li gen pou l' tounen yon dezyèm fwa. Men, lè sa a, se p'ap pou wete peche nou, se va pou delivre tout moun k'ap tann li yo.
 
 ### Chapter 10
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** Moun mwen fè gras la ap viv, paske li gen konfyans nan mwen. Men, si l' vire do l' tounen fè bak, li p'ap fè kè m' kontan.
 
-**[10:39]** Nou menm, nou p'ap fè tankou moun sa yo k'ap twenn dèyè, k'ap pèdi tèt yo. N'ap fè tankou moun ki gen fèm konfyans nan Bondye, moun k'ap delivre nanm yo.  
+**[10:39]** Nou menm, nou p'ap fè tankou moun sa yo k'ap twenn dèyè, k'ap pèdi tèt yo. N'ap fè tankou moun ki gen fèm konfyans nan Bondye, moun k'ap delivre nanm yo.
 
 ### Chapter 11
 
@@ -62828,7 +62828,7 @@
 
 **[11:39]** Tout moun sa yo, Bondye te dakò ak yo paske yo te gen konfyans nan li. Men, atousa, yo pa t' resevwa sa Bondye te pwomèt la.
 
-**[11:40]** Bondye te sere yon pi bon bagay ankò pou nou. Li pa t' vle pou moun sa yo te rive bon nèt kite nou dèyè. Sèl jan pou moun sa yo te ka rive bon nèt, se ansanm ak nou.  
+**[11:40]** Bondye te sere yon pi bon bagay ankò pou nou. Li pa t' vle pou moun sa yo te rive bon nèt kite nou dèyè. Sèl jan pou moun sa yo te ka rive bon nèt, se ansanm ak nou.
 
 ### Chapter 12
 
@@ -62888,7 +62888,7 @@
 
 **[12:28]** Peyi wa nou resevwa pou eritaj la pa ka brannen. Se pou nou di mèsi pou sa. Ann fè wè nou pa bliye sa li fè pou nou. Ann sèvi Bondye yon jan ki pou fè l' plezi, avèk respè, avèk krentif.
 
-**[12:29]** Paske Bondye nou an se tankou yon dife k'ap detwi tout bagay.  
+**[12:29]** Paske Bondye nou an se tankou yon dife k'ap detwi tout bagay.
 
 ### Chapter 13
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Di tout moun k'ap dirije nou yo bonjou ansanm ak tout pèp Bondye a. Tout frè ki nan peyi Itali yo voye bonjou pou nou tout.
 
-**[13:25]** benediksyon Bondye avèk nou tout. Amèn.   
+**[13:25]** benediksyon Bondye avèk nou tout. Amèn.
 
 ## James
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** Si yon moun kwè l'ap sèvi Bondye, pou anmenmtan li pa bride lang li, se tèt li l'ap twonpe. Sèvi Bondye jan sa a pa vo anyen.
 
-**[1:27]** Men jan pou nou sèvi Bondye Papa a, si nou vle sèvi l' yon jan ki dakò ak volonte Bondye, yon jan ki bon tout bon devan li: SE pòte sekou bay timoun ki san papa. Se bay vèv yo lasistans lè yo nan lafliksyon. Se pa mele nan move bagay k'ap fèt sou latè pou nou pa pèdi kondisyon nou.  
+**[1:27]** Men jan pou nou sèvi Bondye Papa a, si nou vle sèvi l' yon jan ki dakò ak volonte Bondye, yon jan ki bon tout bon devan li: SE pòte sekou bay timoun ki san papa. Se bay vèv yo lasistans lè yo nan lafliksyon. Se pa mele nan move bagay k'ap fèt sou latè pou nou pa pèdi kondisyon nou.
 
 ### Chapter 2
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Se menm jan an tou pou Rarab, fanm movèz vi a. Eske se pa t' poutèt sa l' te fè a Bondye te fè l' gras, lè l' te resevwa mesaje jwif yo, lè l' te fè yo pran yon lòt wout pou tounen lakay yo?
 
-**[2:26]** Menm jan yon kò ki san nanm se yon kò ki mouri, konsa tou, konfyans nan Bondye ki pa mache ak fè sa ki byen se yon konfyans ki mouri.  
+**[2:26]** Menm jan yon kò ki san nanm se yon kò ki mouri, konsa tou, konfyans nan Bondye ki pa mache ak fè sa ki byen se yon konfyans ki mouri.
 
 ### Chapter 3
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** Pou konmanse, moun ki gen bon konprann ki soti nan Bondye a ap fè volonte Bondye, l'ap viv byen ak tout moun, l'ap respekte tout moun, l'ap tande rezon, l'ap gen kè sansib, l'ap fè anpil anpil byen, li pa nan de fas ni nan ipokrit.
 
-**[3:18]** Moun k'ap chache pou lèzòm viv byen yonn ak lòt, y'ap travay ak kè poze pou yo ka rekòlte yon lavi ki dwat devan Bondye.  
+**[3:18]** Moun k'ap chache pou lèzòm viv byen yonn ak lòt, y'ap travay ak kè poze pou yo ka rekòlte yon lavi ki dwat devan Bondye.
 
 ### Chapter 4
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** Men, koulye a nan grandizè nou, se vante n'ap vante tèt nou. Se yon move bagay pou moun vante tèt yo konsa.
 
-**[4:17]** Se poutèt sa, moun ki pa fè byen li konnen li gen pou l' fè a, li fè peche.  
+**[4:17]** Se poutèt sa, moun ki pa fè byen li konnen li gen pou l' fè a, li fè peche.
 
 ### Chapter 5
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Frè m' yo, si yonn nan nou pèdi chemen laverite a, epi yon lòt frè mennen l' tounen ankò,
 
-**[5:20]** konnen sa byen: lè yon moun pèdi chemen l' poutèt peche li yo, si yon lòt mennen l' tounen, se yon nanm li rache anba lanmò. Anmenmtan, li jwenn padon pou anpil peche.   
+**[5:20]** konnen sa byen: lè yon moun pèdi chemen l' poutèt peche li yo, si yon lòt mennen l' tounen, se yon nanm li rache anba lanmò. Anmenmtan, li jwenn padon pou anpil peche.
 
 ## I Peter
 
@@ -63222,7 +63222,7 @@
 
 **[1:24]** Jan sa ekri nan Liv la: Moun, se tankou zèb yo ye. Tout bèl ou wè yo bèl la, se tankou flè zèb la yo ye. Zèb la chèch, flè a tonbe.
 
-**[1:25]** Men, pawòl Bondye a la pou tout tan. Se pawòl sa a bon nouvèl la te pote ban nou.  
+**[1:25]** Men, pawòl Bondye a la pou tout tan. Se pawòl sa a bon nouvèl la te pote ban nou.
 
 ### Chapter 2
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** Kris la te pote peche nou yo nan kò li sou bwa a, pou nou te kapab mouri annegad peche, pou nou te ka viv dwat devan Bondye. Li te kite yo maltrete l' pou l' te ka geri nou.
 
-**[2:25]** Nou te tankou mouton ki te pèdi bann yo. Men, koulye a, nou tounen vin jwenn Kris la ki gadò nou, k'ap veye sou nanm nou.  
+**[2:25]** Nou te tankou mouton ki te pèdi bann yo. Men, koulye a, nou tounen vin jwenn Kris la ki gadò nou, k'ap veye sou nanm nou.
 
 ### Chapter 3
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** Pou nou menm, dlo sa a kanpe pou dlo batèm lan k'ap delivre nou koulye a. Batèm lan, se pa yon bagay k'ap wete kras sou kò nou. Men, se yon angajman nou pran devan Bondye ak yon konsyans san repwòch. Bondye sove nou gremesi Jezikri ki te leve soti vivan nan lanmò,
 
-**[3:22]** ki moute nan syèl la, ki chita sou bò dwat Bondye kote l'ap domennen sou tout zanj yo, sou tout chèf yo ak sou tout otorite yo.  
+**[3:22]** ki moute nan syèl la, ki chita sou bò dwat Bondye kote l'ap domennen sou tout zanj yo, sou tout chèf yo ak sou tout otorite yo.
 
 ### Chapter 4
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** Tankou sa ekri nan Liv la: Si moun k'ap viv dwat devan Bondye yo pa fasil pou sove, nou pa bezwen mande sa k'ap rive moun ki pa kwè nan Bondye yo, moun k'ap viv nan peche yo.
 
-**[4:19]** Se poutèt sa, moun k'ap soufri paske se sa Bondye vle pou yo a, se pou yo pa sispann fè sa ki byen, se pou yo renmèt nanm yo nan men Bondye ki kreye yo, epi ki p'ap lage yo.  
+**[4:19]** Se poutèt sa, moun k'ap soufri paske se sa Bondye vle pou yo a, se pou yo pa sispann fè sa ki byen, se pou yo renmèt nanm yo nan men Bondye ki kreye yo, epi ki p'ap lage yo.
 
 ### Chapter 5
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** Legliz Bondye chwazi nan lavil Babilòn lan voye bonjou pou nou, ansanm ak Mak, pitit mwen an.
 
-**[5:14]** Bò pa nou, yonn di lòt bonjou pou mwen, yonn bo lòt tankou frè ak frè. Mwen mande pou nou tout k'ap viv ansanm nan Kris la, pou nou gen kè poze.   
+**[5:14]** Bò pa nou, yonn di lòt bonjou pou mwen, yonn bo lòt tankou frè ak frè. Mwen mande pou nou tout k'ap viv ansanm nan Kris la, pou nou gen kè poze.
 
 ## II Peter
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** Men, anvan tout bagay, se pou nou konn sa byen: pesonn pa gen dwa pran mesaj pwofèt ki ekri nan Liv la pou li ba li sans li vle.
 
-**[1:21]** Paske, pwofèt yo pa t' janm bay mesaj paske yo menm yo te vle. Okontrè, se Sentespri ki te pouse yo lè yo t'ap bay mesaj ki soti nan Bondye.  
+**[1:21]** Paske, pwofèt yo pa t' janm bay mesaj paske yo menm yo te vle. Okontrè, se Sentespri ki te pouse yo lè yo t'ap bay mesaj ki soti nan Bondye.
 
 ### Chapter 2
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** Sa ta pi bon pou li si l' pa t' janm konnen chemen dwat la, pase pou, lè li fin konnen l' lan, li vire do bay kòmandman li te resevwa nan men Bondye a.
 
-**[2:22]** Sa ki rive yo a moutre sa pwovèb la di a se vre: Chen an tounen vin manje sa li te vonmi an. Lave manman kochon, li al woule nan labou ankò.  
+**[2:22]** Sa ki rive yo a moutre sa pwovèb la di a se vre: Chen an tounen vin manje sa li te vonmi an. Lave manman kochon, li al woule nan labou ankò.
 
 ### Chapter 3
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Se poutèt sa, frè mwen renmen anpil yo, koulye a nou tou avèti. Pran prekosyon nou pou nou pa kite mechan sa yo trennen nou ale ak manti yo, pou nou pa pèdi pozisyon kote nou kanpe fèm lan.
 
-**[3:18]** Okontrè, se pou nou grandi nan favè ak konesans Jezikri, Seyè nou ak Sovè nou. Se pou li tout lwanj la, koulye a ak pou tout tan. Amèn.   
+**[3:18]** Okontrè, se pou nou grandi nan favè ak konesans Jezikri, Seyè nou ak Sovè nou. Se pou li tout lwanj la, koulye a ak pou tout tan. Amèn.
 
 ## I John
 
@@ -63544,7 +63544,7 @@
 
 **[1:9]** Men, si nou rekonèt devan Bondye nou fè peche, nou mèt gen konfyans nan li. Paske l'ap fè sak gen pou fèt la: la padonnen tout peche nou yo, la netwaye nou anba tou sa ki mal.
 
-**[1:10]** Men, si nou di nou pa t' fè peche, nou fè Bondye pase pou mantò: Pawòl li pa nan kè nou.  
+**[1:10]** Men, si nou di nou pa t' fè peche, nou fè Bondye pase pou mantò: Pawòl li pa nan kè nou.
 
 ### Chapter 2
 
@@ -63604,7 +63604,7 @@
 
 **[2:28]** Wi, pitit mwen yo, ann toujou fè yonn ak Kris la. Konsa, lè Kris la va parèt, n'a gen konfyans. Wi, jou la vini an, nou p'ap wont devan l', yo p'ap kapab voye nou jete byen lwen li.
 
-**[2:29]** Nou konnen Kris la se yon moun ki te mache dwat devan Bondye. Se pou nou konnen tou, tout moun ki fè sa ki dwat devan Bondye se pitit Bondye yo ye.  
+**[2:29]** Nou konnen Kris la se yon moun ki te mache dwat devan Bondye. Se pou nou konnen tou, tout moun ki fè sa ki dwat devan Bondye se pitit Bondye yo ye.
 
 ### Chapter 3
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** Men sa l' mande nou: Se pou nou gen konfyans nan Pitit li, Jezikri. Se pou nou yonn renmen lòt, jan Kris la te ban nou lòd la.
 
-**[3:24]** Moun ki kenbe kòmandman Bondye yo, y'ap fè yonn ak Bondye, Bondye ap fè yonn ak yo tou. Men ki jan nou konnen Bondye fè yonn ak nou: nou konnen sa paske li ban nou Sentespri li.  
+**[3:24]** Moun ki kenbe kòmandman Bondye yo, y'ap fè yonn ak Bondye, Bondye ap fè yonn ak yo tou. Men ki jan nou konnen Bondye fè yonn ak nou: nou konnen sa paske li ban nou Sentespri li.
 
 ### Chapter 4
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** Si yon moun di: mwen renmen Bondye, pou anmenmtan pou l' rayi frè l', moun sa a ap bay manti. Paske, si li pa renmen frè l', yon moun li ka wè, li pa ka renmen Bondye li pa ka wè a.
 
-**[4:21]** Se sak fè, men kòmandman Kris la ban nou: Moun ki renmen Bondye, yo fèt pou renmen frè yo tou.  
+**[4:21]** Se sak fè, men kòmandman Kris la ban nou: Moun ki renmen Bondye, yo fèt pou renmen frè yo tou.
 
 ### Chapter 5
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** Nou konnen Pitit Bondye a te vini, li louvri lespri nou pou nou ka konnen Bondye tout bon an. N'ap viv ansanm ak Bondye tout bon an, gremesi Pitit li, Jezikri. Se li menm ki Bondye tout bon an, se li menm ki lavi ki p'ap janm fini an.
 
-**[5:21]** Pitit mwen yo, veye kò nou ak zidòl!   
+**[5:21]** Pitit mwen yo, veye kò nou ak zidòl!
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** Mwen gen anpil bagay pou m' di nou. Men, mwen pito pa ekri yo sou papye ak lank. Mwen swete m'a ka vin lakay nou pou m' pale ak nou fasafas, pou nou tout nou ka kontan nèt.
 
-**[1:13]** Pitit sè ou yo, sè Bondye te chwazi ansanm avè ou la, yo voye bonjou pou ou.   
+**[1:13]** Pitit sè ou yo, sè Bondye te chwazi ansanm avè ou la, yo voye bonjou pou ou.
 
 ## III John
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** Mwen gen anpil bagay pou m' ta di ou. Men, mwen pa vle ekri yo ak plim ak lank.
 
-**[1:14]** (14-15) Mwen swete m'a ka vin wè ou talè konsa, pou nou ka koze fasafas. Mwen mande pou Bondye ba ou kè poze. Tout zanmi ou yo voye bonjou pou ou. Di chak zanmi m' yo yon bonjou apa pou mwen.   
+**[1:14]** (14-15) Mwen swete m'a ka vin wè ou talè konsa, pou nou ka koze fasafas. Mwen mande pou Bondye ba ou kè poze. Tout zanmi ou yo voye bonjou pou ou. Di chak zanmi m' yo yon bonjou apa pou mwen.
 
 ## Jude
 
@@ -63858,7 +63858,7 @@
 
 **[1:24]** Koulye a tout lwanj, tout grandè, tout pouvwa ak tout otorite pou yon sèl Bondye a, pou Bondye ki ka kenbe nou pou nou pa tonbe, li menm ki kapab fè nou parèt san repròch ak kè kontan devan l' nan tout bèl pouvwa li.
 
-**[1:25]** Li menm, sèl Bondye ki delivre nou gremesi Jezikri, Segnè nou an, wi, se pou li tout lwanj, tout grandè, tout pouvwa ak tout otorite, depi nan tan lontan, koulye a ak pou tout tan. Amèn.   
+**[1:25]** Li menm, sèl Bondye ki delivre nou gremesi Jezikri, Segnè nou an, wi, se pou li tout lwanj, tout grandè, tout pouvwa ak tout otorite, depi nan tan lontan, koulye a ak pou tout tan. Amèn.
 
 ## Revelation of John
 
@@ -63902,7 +63902,7 @@
 
 **[1:19]** Ekri tou sa ou wè a: ni sa k'ap pase koulye a, ni sa ki gen pou rive apre.
 
-**[1:20]** Men sans kache sèt zetwal ou wè nan men dwat mwen an, ansanm ak sans sèt gwo lanp sèt branch lò yo. Sèt zetwal yo se zanj sèt legliz yo. Sèt gwo lanp sèt branch yo, se sèt legliz yo.  
+**[1:20]** Men sans kache sèt zetwal ou wè nan men dwat mwen an, ansanm ak sans sèt gwo lanp sèt branch lò yo. Sèt zetwal yo se zanj sèt legliz yo. Sèt gwo lanp sèt branch yo, se sèt legliz yo.
 
 ### Chapter 2
 
@@ -63962,7 +63962,7 @@
 
 **[2:28]** M'a ba yo bèl zetwal ki klere chak maten an tou.
 
-**[2:29]** Se pou moun ki gen zòrèy pou yo tande tande sa Lespri Bondye a ap di legliz yo.  
+**[2:29]** Se pou moun ki gen zòrèy pou yo tande tande sa Lespri Bondye a ap di legliz yo.
 
 ### Chapter 3
 
@@ -64008,7 +64008,7 @@
 
 **[3:21]** Tout moun ki goumen jouk yo genyen batay la, m'ap ba yo dwa chita bò kote m' lè m'a sou fòtèy mwen an, menm jan mwen menm mwen te goumen jouk mwen te genyen batay la, pou koulye a mwen chita bò kot Papa m' ki chita sou fòtèy li a.
 
-**[3:22]** Se pou moun ki gen zòrèy pou yo tande tande sa Lespri Bondye a ap di legliz yo.  
+**[3:22]** Se pou moun ki gen zòrèy pou yo tande tande sa Lespri Bondye a ap di legliz yo.
 
 ### Chapter 4
 
@@ -64032,7 +64032,7 @@
 
 **[4:10]** vennkat granmoun yo tonbe ajenou fas atè devan moun ki chita sou fòtèy la, yo adore moun ki vivan pou tout tan an. Yo jete kouwòn yo devan fòtèy la. Yo di:
 
-**[4:11]** O Bondye, Mèt nou, ou merite pou ou resevwa lwanj, respè ak pouvwa. Se ou menm ki fè tout bagay. Si yo la, si yo gen lavi, se paske ou vle l'.  
+**[4:11]** O Bondye, Mèt nou, ou merite pou ou resevwa lwanj, respè ak pouvwa. Se ou menm ki fè tout bagay. Si yo la, si yo gen lavi, se paske ou vle l'.
 
 ### Chapter 5
 
@@ -64062,7 +64062,7 @@
 
 **[5:13]** Apre sa, mwen tande tout kreyati Bondye yo nan sièl la, sou latè, anba tè a, nan lanmè, yo tout yo t'ap chante: Lwanj, respè, pouvwa, otorite pou Moun ki chita sou fòtèy la, ak pou ti Mouton an pou tout tan.
 
-**[5:14]** Kat bèt vivan yo t'ap reponn: Wi, se vre. Granmoun yo menm tonbe ajenou, yo t'ap adore.  
+**[5:14]** Kat bèt vivan yo t'ap reponn: Wi, se vre. Granmoun yo menm tonbe ajenou, yo t'ap adore.
 
 ### Chapter 6
 
@@ -64098,7 +64098,7 @@
 
 **[6:16]** Yo t'ap pale ak mòn yo ansanm ak wòch yo tankou ak moun. Yo t'ap di yo: Tonbe sou nou. Kache nou pou moun ki chita sou fòtèy la pa wè nou, pou kòlè ti Mouton an pa tonbe sou nou.
 
-**[6:17]** Paske, gwo jou kòlè a rive. Ki moun ki ka kenbe tèt avèk li?  
+**[6:17]** Paske, gwo jou kòlè a rive. Ki moun ki ka kenbe tèt avèk li?
 
 ### Chapter 7
 
@@ -64134,7 +64134,7 @@
 
 **[7:16]** Yo p'ap janm grangou, yo p'ap janm swaf dlo. Ni solèy, ni okenn lòt gwo chalè p'ap kapab boule yo.
 
-**[7:17]** Paske, ti Mouton ki nan mitan fòtèy la va tankou yon gadò pou yo. La mennen yo bò sous dlo ki bay lavi a. Se Bondye menm ki va siye dlo nan je yo.  
+**[7:17]** Paske, ti Mouton ki nan mitan fòtèy la va tankou yon gadò pou yo. La mennen yo bò sous dlo ki bay lavi a. Se Bondye menm ki va siye dlo nan je yo.
 
 ### Chapter 8
 
@@ -64162,7 +64162,7 @@
 
 **[8:12]** Apre sa, katriyèm zanj lan kònen klewon l' lan. Yon tiè (1/3) nan solèy la, yon tiè nan lalin lan, ak yon tiè nan zetwal yo domaje. Konsa, yo tout yo pèdi yon tiè nan limiè yo konn bay la. Pandan yon tiè lajounen an te fè nwa kou lank. Konsa tou, pandan yon tiè lannwit lan te fè tou nwa.
 
-**[8:13]** Mwen gade ankò, mwen tande yon gwo malfini ki t'ap vole byen wo nan sièl la. Li t'ap pale byen fò, li t'ap di: Ala de malè! Sa pral rèd nèt pou moun ki sou latè a, lè kout klewon twa lòt zanj yo va kònen.  
+**[8:13]** Mwen gade ankò, mwen tande yon gwo malfini ki t'ap vole byen wo nan sièl la. Li t'ap pale byen fò, li t'ap di: Ala de malè! Sa pral rèd nèt pou moun ki sou latè a, lè kout klewon twa lòt zanj yo va kònen.
 
 ### Chapter 9
 
@@ -64206,7 +64206,7 @@
 
 **[9:20]** Malgre sa, rès moun sou latè yo, sa ki pa t' mouri anba kalamite sa yo, pa t' sispann adore Satan ak zidòl fèt an lò, an ajan, an bwonz, an wòch oswa an bwa, zidòl ki pa ka wè, ki pa ka tande, ki pa ka mache.
 
-**[9:21]** Wi, atousa, moun sa yo pa t' chanje jan yo t'ap viv la, yo pa t' sispann touye moun, fè maji, lage kò yo nan imoralite ak vòlò zafè moun.  
+**[9:21]** Wi, atousa, moun sa yo pa t' chanje jan yo t'ap viv la, yo pa t' sispann touye moun, fè maji, lage kò yo nan imoralite ak vòlò zafè moun.
 
 ### Chapter 10
 
@@ -64230,7 +64230,7 @@
 
 **[10:10]** Mwen pran ti liv la nan men li. Mwen manje l', li te dous tankou siwo myèl nan bouch mwen. Men, lè m' vale l', li te anmè kou fièl nan lestonmak mwen.
 
-**[10:11]** Apre sa, yo di mwen: Se pou ou fè konnen mesaj Bondye a ankò, mesaj ki pale sou anpil pèp, anpil nasyon, anpil lang ak anpil wa.  
+**[10:11]** Apre sa, yo di mwen: Se pou ou fè konnen mesaj Bondye a ankò, mesaj ki pale sou anpil pèp, anpil nasyon, anpil lang ak anpil wa.
 
 ### Chapter 11
 
@@ -64270,7 +64270,7 @@
 
 **[11:18]** Nasyon yo te move anpil, paske lè a rive, ou pral fè wè kòlè ou. Tout moun mouri yo pral pase anba jijman. Lè a rive, ou pral bay pwofèt yo, sèvitè ou yo, rekonpans yo, ansanm ak tout moun ki pou ou yo epi ki gen krentif pou ou, piti kou gran. Wi, lè a rive pou ou detwi moun k'ap detwi latè a!
 
-**[11:19]** Lè sa a, pòt tanp Bondye nan sièl la louvri byen gran. Yo te ka wè bwat ki te gen kontra Bondye a anndan tanp lan. Zèklè pran klere, kout loraj pran gwonde, moun tande tout kalite bri. Tè a tranble, lagrèl t'ap tonbe an kantite.  
+**[11:19]** Lè sa a, pòt tanp Bondye nan sièl la louvri byen gran. Yo te ka wè bwat ki te gen kontra Bondye a anndan tanp lan. Zèklè pran klere, kout loraj pran gwonde, moun tande tout kalite bri. Tè a tranble, lagrèl t'ap tonbe an kantite.
 
 ### Chapter 12
 
@@ -64306,7 +64306,7 @@
 
 **[12:16]** Men, latè vin bay fanm lan konkou, li louvri bouch li, li vale tout dlo ki t'ap soti nan bouch dragon an.
 
-**[12:17]** (17-18) Se pa ti move dragon an te move sou fanm lan. li al goumen avèk lòt pitit fanm lan, sa vle di ak tout moun k'ap obeyi kòmandman Bondye yo, k'ap kenbe fèm nan verite Jezi te fè nou konnen an. Apre sa, dragon an kanpe bò lanmè a.  
+**[12:17]** (17-18) Se pa ti move dragon an te move sou fanm lan. li al goumen avèk lòt pitit fanm lan, sa vle di ak tout moun k'ap obeyi kòmandman Bondye yo, k'ap kenbe fèm nan verite Jezi te fè nou konnen an. Apre sa, dragon an kanpe bò lanmè a.
 
 ### Chapter 13
 
@@ -64344,7 +64344,7 @@
 
 **[13:17]** Pesonn pa t' kapab ni achte ni vann anyen si li pa t' gen mak sa a, sa vle di si l' pa t' gen non bèt la osinon nimewo ki koresponn ak non l' lan.
 
-**[13:18]** Bagay sa a mande anpil bon konprann. Moun ki gen konprann ka resoud pwoblèm nimewo bèt la. Nimewo sa a se non yon moun li ye. Men nimewo a: sisanswasannsis (666).  
+**[13:18]** Bagay sa a mande anpil bon konprann. Moun ki gen konprann ka resoud pwoblèm nimewo bèt la. Nimewo sa a se non yon moun li ye. Men nimewo a: sisanswasannsis (666).
 
 ### Chapter 14
 
@@ -64386,7 +64386,7 @@
 
 **[14:19]** Lè sa a, zanj lan pase kouto digo l' la sou latè, li koupe tout grap rezen ki sou latè a, li jete yo nan moulen rezen an kote kòlè Bondye a ap kraze yo.
 
-**[14:20]** Yo kraze tout rezen yo nan moulen andeyò lavil la. San t'ap koule soti nan moulen an tankou dlo larivyè, li kouvri yon distans twasan (300) kilomèt konsa, li moute, li rive wotè bouch chwal yo.  
+**[14:20]** Yo kraze tout rezen yo nan moulen andeyò lavil la. San t'ap koule soti nan moulen an tankou dlo larivyè, li kouvri yon distans twasan (300) kilomèt konsa, li moute, li rive wotè bouch chwal yo.
 
 ### Chapter 15
 
@@ -64404,7 +64404,7 @@
 
 **[15:7]** Yonn nan kat bèt vivan yo bay sèt zanj yo sèt gode fèt an lò ki te plen ak kòlè Bondye ki vivan pou tout tan an.
 
-**[15:8]** Lafimen ki t'ap soti nan gwo limiè prezans ak nan pouvwa Bondye a te plen tanp lan nèt. Pesonn pa t' kapab antre nan tanp lan toutotan sèt kalamite ki te nan men zanj yo pa t' ankò pase.  
+**[15:8]** Lafimen ki t'ap soti nan gwo limiè prezans ak nan pouvwa Bondye a te plen tanp lan nèt. Pesonn pa t' kapab antre nan tanp lan toutotan sèt kalamite ki te nan men zanj yo pa t' ankò pase.
 
 ### Chapter 16
 
@@ -64448,7 +64448,7 @@
 
 **[16:20]** Tout zile yo disparèt, pa t' gen mòn sou latè ankò.
 
-**[16:21]** De gwo grenn lagrèl ki pese san (100) liv konsa soti nan sièl la tonbe sou moun. Moun menm t'ap joure Bondye poutèt kalamite lagrèl la, paske se te yon kalamite ki te terib anpil.  
+**[16:21]** De gwo grenn lagrèl ki pese san (100) liv konsa soti nan sièl la tonbe sou moun. Moun menm t'ap joure Bondye poutèt kalamite lagrèl la, paske se te yon kalamite ki te terib anpil.
 
 ### Chapter 17
 
@@ -64486,7 +64486,7 @@
 
 **[17:17]** Bondye mete nan kè yo lide pou yo fè sa li menm li vle, pou yo tout tonbe dakò fè menm bagay, pou yo renmèt pouvwa yo kòm wa nan men bèt la, jouk tan pawòl Bondye yo va rive vre.
 
-**[17:18]** Pou fini, fanm ou te wè a, sè gwo lavil k'ap donminen sou tout wa ki sou latè yo.  
+**[17:18]** Pou fini, fanm ou te wè a, sè gwo lavil k'ap donminen sou tout wa ki sou latè yo.
 
 ### Chapter 18
 
@@ -64536,7 +64536,7 @@
 
 **[18:23]** Okenn lanp p'ap janm klere lakay ou ankò. Yo p'ap janm tande vwa lemarie ak lamarye ankò. Kòmèsan ou yo, se yo ki te pi grannèg sou latè. Avèk maji ou yo, ou te twonpe tout nasyon yo.
 
-**[18:24]** Yo peni Babilòn, paske se la yo te jwenn san pwofèt yo ak san pèp Bondye a, ansanm ak san tout moun yo te touye sou latè.  
+**[18:24]** Yo peni Babilòn, paske se la yo te jwenn san pwofèt yo ak san pèp Bondye a, ansanm ak san tout moun yo te touye sou latè.
 
 ### Chapter 19
 
@@ -64580,7 +64580,7 @@
 
 **[19:20]** Yo fè bèt la prizonie ansanm ak fo pwofèt ki te fè anpil mirak devan l' lan. Se avèk mirak sa yo li te rive twonpe moun ki te resevwa mak bèt la, ki t'ap adore estati l' la. Yo jete bèt la ak fo pwofèt la tou vivan nan gwo letan dife kote y'ap boule souf la.
 
-**[19:21]** Nepe ki t'ap soti nan bouch moun ki te moute sou chwal la te touye tout lòt yo. Tout zwezo yo te manje viann plen vant yo.  
+**[19:21]** Nepe ki t'ap soti nan bouch moun ki te moute sou chwal la te touye tout lòt yo. Tout zwezo yo te manje viann plen vant yo.
 
 ### Chapter 20
 
@@ -64612,7 +64612,7 @@
 
 **[20:14]** Apre sa, yo jete lanmò ansanm ak kote mò yo ye a nan letan dife a. (Letan dife sa a, se li menm ki dezyèm lanmò a).
 
-**[20:15]** Tout moun ki pa t' gen non yo ekri nan liv ki gen non moun ki gen lavi a, yo jete yo nan letan dife a tou.  
+**[20:15]** Tout moun ki pa t' gen non yo ekri nan liv ki gen non moun ki gen lavi a, yo jete yo nan letan dife a tou.
 
 ### Chapter 21
 
@@ -64668,7 +64668,7 @@
 
 **[21:26]** Tout richès nasyon yo ansanm ak tout bèl bagay yo genyen va anpile nan lavil la.
 
-**[21:27]** Men, anyen ki pa bon pou sèvis Bondye p'ap antre nan lavil la. Ni yo p'ap kite moun k'ap fè bagay ki bay degoutans, moun k'ap bay manti, mete pie yo nan lavil la. Moun ki va antre nan lavil la, se sèlman moun ki gen non yo ekri nan liv ki nan men ti Mouton an, liv ki gen non moun ki gen lavi a.  
+**[21:27]** Men, anyen ki pa bon pou sèvis Bondye p'ap antre nan lavil la. Ni yo p'ap kite moun k'ap fè bagay ki bay degoutans, moun k'ap bay manti, mete pie yo nan lavil la. Moun ki va antre nan lavil la, se sèlman moun ki gen non yo ekri nan liv ki nan men ti Mouton an, liv ki gen non moun ki gen lavi a.
 
 ### Chapter 22
 
@@ -64712,5 +64712,5 @@
 
 **[22:20]** Moun ki garanti verite tout pawòl sa yo di: Wi, m'ap vin talè konsa! Amèn. Vini non, Seyè Jezi!
 
-**[22:21]** Se pou benediksyon Seyè Jezi a rete toujou la ak tout moun.    
+**[22:21]** Se pou benediksyon Seyè Jezi a rete toujou la ak tout moun.
 

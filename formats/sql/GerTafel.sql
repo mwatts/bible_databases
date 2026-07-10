@@ -1,9 +1,8 @@
 -- SQL Dump for # GerTafel: German Tafelbibel (1911) (GerTafel)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `GerTafel_books`;
 DROP TABLE IF EXISTS `GerTafel_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `GerTafel_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'GerTafel', '# GerTafel: German Tafelbibel (1911)', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'GerTafel'
-            );
+            VALUES ('GerTafel', '# GerTafel: German Tafelbibel (1911)', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `GerTafel_books` (
@@ -1032,7 +1031,7 @@ INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1,
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 31, 55, '');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 1, 'Und Laban stand frühe am Morgen auf, und küßte seine Söhne und seine Töchter und segnete sie; und Laban ging und kehrte zurück an seinen Ort.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 2, 'Und Jakob ging seinen Weg und die Engel Gottes stießen auf ihn.');
-INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 3, 'Und da Jakob sie sah, sprach er: Dies ist ein Lager Gottes, und er nannte den Namen desselben Ortes Machanaim .');
+INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 3, 'Und da Jakob sie sah, sprach er: Dies ist ein Lager Gottes, und er nannte den Namen desselben Ortes Machanaim.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 4, 'Und Jakob sandte Boten vor sich her an Esau, seinen Bruder, in das Land Seir, ins Gefilde Edom;');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 5, 'Und gebot ihnen und sagte: So sprecht zu meinem Herrn, zu Esau: Also spricht dein Knecht Jakob: Bei Laban habe ich mich aufgehalten und bis jetzt verweilet.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (1, 32, 6, 'Und ich habe Ochs und Esel, Kleinvieh, und Knechte und Dienstmägde, und ich sende es meinem Herrn, anzusagen, um Gnade in deinen Augen zu finden.');
@@ -1987,7 +1986,7 @@ INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2,
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 16, 'Und es sei zum Zeichen auf deiner Hand und zum Stirnband zwischen deinen Augen, daß mit starker Hand Jehovah uns aus Ägypten herausgebracht.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 17, 'Und es geschah, als Pharao das Volk entließ, daß Gott sie nicht auf dem Weg zu der Philister Land, weil er nahe war, führte; denn Gott sprach: Das Volk möchte sich es gereuen lassen, wenn es Streit sieht, und wieder nach Ägypten zurückkehren.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 18, 'Und Gott ließ das Volk herumziehen, auf dem Weg der Wüste nach dem Schilfmeer, und kampfgerüstet zogen die Söhne Israels herauf aus dem Lande Ägypten.');
-INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 19, 'Und Mose hatte die Gebeine Josephs mit sich genommen; denn der hatte die Söhne Israels einen Eid schwören lassen, und gesprochen: Gewißlich wird euch Gott heimsuchen , und ihr sollt meine Gebeine von da mit euch hinaufbringen.');
+INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 19, 'Und Mose hatte die Gebeine Josephs mit sich genommen; denn der hatte die Söhne Israels einen Eid schwören lassen, und gesprochen: Gewißlich wird euch Gott heimsuchen, und ihr sollt meine Gebeine von da mit euch hinaufbringen.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 20, 'Und sie brachen von Sukkoth auf und lagerten in Etham, am Ende der Wüste.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 21, 'Und Jehovah ging vor ihnen her, bei Tag in einer Wolkensäule, um sie den Weg zu führen, und bei Nacht in einer Feuersäule, um ihnen zu leuchten, auf daß sie bei Tag und bei Nacht gehen könnten.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (2, 13, 22, 'Nicht wich die Wolkensäule bei Tag, noch die Feuersäule bei Nacht, vor dem Volke.');
@@ -22711,8 +22710,8 @@ INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 2, 12, 'Versammeln werde Ich dich, Jakob, allzumal, zusammenbringen den Überrest von Israel, sie zusammenstellen wie Bozrahs Herde, wie einen Trieb inmitten seines Weideplatzes: sie dröhnen mit Menschen.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 2, 13, 'Vor ihnen geht der Durchbrecher herauf. Sie brechen durch und ziehen durch das Tor und ziehen dadurch aus, und vor ihnen her zieht ihr König vorüber, und Jehovah ihnen zum Haupt.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 1, 'Und ich sprach: Höret doch, ihr Häupter Jakobs, und ihr Anführer vom Hause Israel: Ist es nicht an euch, das Recht zu wissen?');
-INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 2, 'Die ihr das Gute hasset und liebt das Böse, ihr reißt ab  von ihnen die Haut und ihr Fleisch von ihrem Gebein!');
-INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 3, 'Und die das Fleisch  von Meinem Volk gegessen, und habt die Haut ihm abgezogen, und zerzahnt sein Gebein und es zerlegt , wie in den Topf, und wie Fleisch in der Mitte eines Kessels.');
+INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 2, 'Die ihr das Gute hasset und liebt das Böse, ihr reißt ab von ihnen die Haut und ihr Fleisch von ihrem Gebein!');
+INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 3, 'Und die das Fleisch von Meinem Volk gegessen, und habt die Haut ihm abgezogen, und zerzahnt sein Gebein und es zerlegt, wie in den Topf, und wie Fleisch in der Mitte eines Kessels.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 4, 'Dann werden sie schreien zu Jehovah, und Er wird ihnen nicht antworten und wird vor ihnen Sein Angesicht verbergen zu jener Zeit, so wie sie böse machten ihr Tun.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 5, 'So spricht Jehovah wider die Propheten, die Mein Volk irre führen, die mit ihren Zähnen beißen und rufen Frieden aus; und wer ihnen nichts gibt vor ihren Mund, wider den heiligen sie den Streit..');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (33, 3, 6, 'Darum habt ihr statt des Gesichtes Nacht, und Finsternis habt ihr statt Wahrsagung, und über den Propheten geht die Sonne unter, und verdunkelt wird über ihnen der Tag.');
@@ -24546,7 +24545,7 @@ INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 35, 'Da es aber schon spät an der Stunde war, kamen Seine Jünger zu Ihm und sagten: Der Ort ist wüste, und es ist schon spät an der Stunde.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 36, 'Entlasse sie, daß sie rings umher in die Felder und in die Dörfer gehen und sich Brot kaufen, denn sie haben nichts zu essen.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 37, 'Er aber antwortete und sprach zu ihnen: Gebet ihr ihnen zu essen! Und sie sagten zu Ihm: Sollen wir hingehen und um zweihundert Denare Brot kaufen, und ihnen zu essen geben?');
-INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 38, 'Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehet hin und sehet. Und da sie es erfahren, sagten sie : Fünf, und zwei Fische.');
+INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 38, 'Er aber sprach zu ihnen: Wie viele Brote habt ihr? Gehet hin und sehet. Und da sie es erfahren, sagten sie: Fünf, und zwei Fische.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 39, 'Und Er verordnete ihnen allen, sich zu lagern nach Tischgesellschaften und Tischgesellschaften auf dem grünen Grase.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 40, 'Und sie ließen sich nieder in Abteilungen von je hundert und je fünfzig.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 6, 41, 'Und Er nahm die fünf Brote und die zwei Fische, blickte zum Himmel auf und segnete, und brach die Brote und gab sie Seinen Jüngern, daß sie ihnen vorlegten; auch die zwei Fische teilte Er unter sie alle.');
@@ -25084,7 +25083,7 @@ INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 7, 'Und sie gebar ihren erstgeborenen Sohn, und wickelte Ihn in Windeln und legte Ihn hin in die Krippe, weil sie keinen Platz in der Herberge hatten.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 8, 'Und es waren in selbiger Gegend Hirten auf dem Felde, die hüteten der Hut ihrer Herde bei Nacht.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 9, 'Und siehe, des Herrn Engel stand bei ihnen, und die Herrlichkeit des Herrn umleuchtete sie; und sie fürchteten sich mit großer Furcht.');
-INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 10, 'Und der Engel sprach zu ihnen: Fürchtet euch nicht ! Denn siehe, ich verkündige euch große Freude, die allem Volk sein wird.');
+INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 10, 'Und der Engel sprach zu ihnen: Fürchtet euch nicht! Denn siehe, ich verkündige euch große Freude, die allem Volk sein wird.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 11, 'Denn heute ist euch ein Heiland geboren, Welcher ist Christus der Herr, in der Stadt Davids.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 12, 'Und das habt zum Zeichen: Ihr werdet finden ein Kindlein in Windeln gewickelt und in einer Krippe liegen.');
 INSERT INTO `GerTafel_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 2, 13, 'Und plötzlich war bei dem Engel die Menge der himmlischen Heerscharen, die lobten Gott und sprachen:');

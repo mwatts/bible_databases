@@ -9122,7 +9122,7 @@
 
 ### Chapter 23
 
-**[23:1]** Na ,a mea a Paraama ki a Paraka, Hanga etahi aata maku kia whitu, kia rite mai hoki maku he puru kia whitu, he hipi toa hoki kia whitu.
+**[23:1]** Na,a mea a Paraama ki a Paraka, Hanga etahi aata maku kia whitu, kia rite mai hoki maku he puru kia whitu, he hipi toa hoki kia whitu.
 
 **[23:2]** Na rite tonu t Paraka i mea ai ki nga mea i korerotia e Paraama: a whakaekea ana e Paraka raua ko Paraama he puru, he hipi, ki tetahi aata, ki tetahi aata.
 

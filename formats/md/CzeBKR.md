@@ -64,7 +64,7 @@
 
 **[1:30]** Všechněm pak živočichům zemským, i všemu ptactvu nebeskému, a všemu tomu, což se hýbe na zemi, v čemž jest duše živá, všelikou bylinu zelenou dal jsem ku pokrmu. I stalo se tak.
 
-**[1:31]** A viděl Bůh vše, což učinil, a aj, bylo velmi dobré. I byl večer a bylo jitro, den šestý. 
+**[1:31]** A viděl Bůh vše, což učinil, a aj, bylo velmi dobré. I byl večer a bylo jitro, den šestý.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Z té příčiny opustí muž otce svého i matku svou, a přídržeti se bude manželky své, i budou v jedno tělo.
 
-**[2:25]** Byli pak oba dva nazí, Adam i žena jeho, a nestyděli se. 
+**[2:25]** Byli pak oba dva nazí, Adam i žena jeho, a nestyděli se.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** I vypustil jej Hospodin Bůh z zahrady Eden, aby dělal zemi, z níž vzat byl.
 
-**[3:24]** A tak vyhnal člověka a osadil zahradu Eden cherubíny k východní straně s mečem plamenným blýskajícím se, aby ostříhali cesty k stromu života. 
+**[3:24]** A tak vyhnal člověka a osadil zahradu Eden cherubíny k východní straně s mečem plamenným blýskajícím se, aby ostříhali cesty k stromu života.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** Poznal pak ještě Adam ženu svou, i porodila syna a nazvala jméno jeho Set; nebo řekla: Dal mi Bůh jiné símě místo Abele, kteréhož zabil Kain.
 
-**[4:26]** Setovi pak také narodil se syn, a nazval jméno jeho Enos. Tehdáž začalo se vzývání jména Hospodinova. 
+**[4:26]** Setovi pak také narodil se syn, a nazval jméno jeho Enos. Tehdáž začalo se vzývání jména Hospodinova.
 
 ### Chapter 5
 
@@ -286,7 +286,7 @@
 
 **[5:31]** I bylo všech dnů Lámechových sedm set sedmdesáte a sedm let, i umřel.
 
-**[5:32]** A když byl Noé v pěti stech letech, zplodil Sema, Chama a Jáfeta. 
+**[5:32]** A když byl Noé v pěti stech letech, zplodil Sema, Chama a Jáfeta.
 
 ### Chapter 6
 
@@ -332,7 +332,7 @@
 
 **[6:21]** Ty pak nabeř s sebou všeliké potravy, kteráž se jísti může, a shromažď sobě, aby byla tobě i jim ku pokrmu.
 
-**[6:22]** I učinil Noé podlé všeho, jakž mu rozkázal Bůh, tak učinil. 
+**[6:22]** I učinil Noé podlé všeho, jakž mu rozkázal Bůh, tak učinil.
 
 ### Chapter 7
 
@@ -382,7 +382,7 @@
 
 **[7:23]** A tak vyhladil Bůh všelikou podstatu, kteráž byla na tváři země, od člověka až do hovada, až do zeměplazu, a až do ptactva nebeského, vyhlazeno jest, pravím, z země; a zůstal toliko Noé, a kteříž s ním byli v korábu.
 
-**[7:24]** I trvaly vody nad zemí za sto a padesáte dnů. 
+**[7:24]** I trvaly vody nad zemí za sto a padesáte dnů.
 
 ### Chapter 8
 
@@ -428,7 +428,7 @@
 
 **[8:21]** I zachutnal Hospodin vůni tu příjemnou, a řekl Hospodin v srdci svém: Nebudu více zlořečiti zemi pro člověka, proto že myšlení srdce lidského zlé jest od mladosti jeho; aniž budu více bíti všeho, což živo jest, jako jsem učinil.
 
-**[8:22]** Nýbrž dokavadž země trvati bude, setí a žeň, studeno i horko, léto a zima, den také a noc nepřestanou. 
+**[8:22]** Nýbrž dokavadž země trvati bude, setí a žeň, studeno i horko, léto a zima, den také a noc nepřestanou.
 
 ### Chapter 9
 
@@ -488,7 +488,7 @@
 
 **[9:28]** Živ pak byl Noé po potopě tři sta a padesáte let.
 
-**[9:29]** A tak bylo všech dnů Noé devět set a padesáte let; i umřel jest. 
+**[9:29]** A tak bylo všech dnů Noé devět set a padesáte let; i umřel jest.
 
 ### Chapter 10
 
@@ -554,7 +554,7 @@
 
 **[10:31]** Tiť jsou synové Semovi po čeledech svých, vedlé jazyků svých, po krajinách svých, v národech svých.
 
-**[10:32]** Ty jsou čeledi synů Noé po rodech svých, v národech svých; a od těch rozdělili se národové na zemi po potopě. 
+**[10:32]** Ty jsou čeledi synů Noé po rodech svých, v národech svých; a od těch rozdělili se národové na zemi po potopě.
 
 ### Chapter 11
 
@@ -620,7 +620,7 @@
 
 **[11:31]** I vzal Táre Abrama syna svého, a Lota syna Háranova, vnuka svého, a Sarai nevěstu svou, ženu Abrama syna svého, a vyšli spolu z Ur Kaldejských, aby se brali do země Kananejské, a přišli až do Cháran, a bydlili tam.
 
-**[11:32]** A byli dnové Táre dvě stě a pět let; i umřel Táre v Cháran. 
+**[11:32]** A byli dnové Táre dvě stě a pět let; i umřel Táre v Cháran.
 
 ### Chapter 12
 
@@ -662,7 +662,7 @@
 
 **[12:19]** Proč jsi řekl: Sestra má jest? A vzal jsem ji sobě za ženu. Protož nyní, teď máš manželku svou, vezmi a jdi.
 
-**[12:20]** I poručil o něm Farao mužům, a propustili ho, i manželku jeho i všecko, což měl. 
+**[12:20]** I poručil o něm Farao mužům, a propustili ho, i manželku jeho i všecko, což měl.
 
 ### Chapter 13
 
@@ -700,7 +700,7 @@
 
 **[13:17]** Vstaň, projdi tu zemi na dýl i na šíř její; nebo tobě ji dám.
 
-**[13:18]** Tedy Abram hnuv se s stanem, přišel a bydlil v rovinách Mamre, kteréž jsou při Hebronu, kdežto vzdělal oltář Hospodinu. 
+**[13:18]** Tedy Abram hnuv se s stanem, přišel a bydlil v rovinách Mamre, kteréž jsou při Hebronu, kdežto vzdělal oltář Hospodinu.
 
 ### Chapter 14
 
@@ -750,7 +750,7 @@
 
 **[14:23]** Že nevezmu od niti až do řeménka obuvi ze všech věcí, kteréž jsou tvé, abys neřekl: Já jsem obohatil Abrama,
 
-**[14:24]** Kromě toliko toho, což snědli bojovníci, a dílu mužů, kteříž se mnou šli, totiž Aner, Eškol a Mamre; oni nechať vezmou díl svůj. 
+**[14:24]** Kromě toliko toho, což snědli bojovníci, a dílu mužů, kteříž se mnou šli, totiž Aner, Eškol a Mamre; oni nechať vezmou díl svůj.
 
 ### Chapter 15
 
@@ -794,7 +794,7 @@
 
 **[15:20]** A Hetejské, Ferezejské, a Refaimské,
 
-**[15:21]** Amorejské, i Kananejské také, a Gergezejské a Jebuzejské. 
+**[15:21]** Amorejské, i Kananejské také, a Gergezejské a Jebuzejské.
 
 ### Chapter 16
 
@@ -828,7 +828,7 @@
 
 **[16:15]** Porodila pak Agar Abramovi syna; a nazval Abram jméno syna svého, kteréhož porodila Agar, Izmael.
 
-**[16:16]** Abram pak byl v osmdesáti šesti letech, když mu porodila Agar Izmaele. 
+**[16:16]** Abram pak byl v osmdesáti šesti letech, když mu porodila Agar Izmaele.
 
 ### Chapter 17
 
@@ -884,7 +884,7 @@
 
 **[17:26]** Jednoho a téhož dne obřezáni jsou, Abraham a Izmael syn jeho.
 
-**[17:27]** I všickni domácí jeho, doma zrození i za stříbro od cizozemce koupení, obřezáni jsou s ním. 
+**[17:27]** I všickni domácí jeho, doma zrození i za stříbro od cizozemce koupení, obřezáni jsou s ním.
 
 ### Chapter 18
 
@@ -952,7 +952,7 @@
 
 **[18:32]** Řekl ještě: Prosím, ať se nehněvá Pán můj, jestliže jednou ještě mluviti budu: Snad se jich najde tam deset? Odpověděl: Nezahladím i pro těch deset.
 
-**[18:33]** I odšel Hospodin, když dokonal řeč k Abrahamovi; Abraham pak navrátil se k místu svému. 
+**[18:33]** I odšel Hospodin, když dokonal řeč k Abrahamovi; Abraham pak navrátil se k místu svému.
 
 ### Chapter 19
 
@@ -1030,7 +1030,7 @@
 
 **[19:37]** I porodila prvorozená syna, a nazvala jméno jeho Moáb; onť jest otec Moábských až do dnešního dne.
 
-**[19:38]** I mladší také porodila syna, a nazvala jméno jeho Ben Ammon; onť jest otcem Ammonitských až do dnešního dne. 
+**[19:38]** I mladší také porodila syna, a nazvala jméno jeho Ben Ammon; onť jest otcem Ammonitských až do dnešního dne.
 
 ### Chapter 20
 
@@ -1068,7 +1068,7 @@
 
 **[20:17]** I modlil se Abraham Bohu, a uzdravil Bůh Abimelecha, a ženu jeho, a děvky jeho; i rodily.
 
-**[20:18]** Nebo byl zavřel Hospodin každý život ženský v domě Abimelechově, pro Sáru manželku Abrahamovu. 
+**[20:18]** Nebo byl zavřel Hospodin každý život ženský v domě Abimelechově, pro Sáru manželku Abrahamovu.
 
 ### Chapter 21
 
@@ -1138,7 +1138,7 @@
 
 **[21:33]** I nasázel stromoví v Bersabé, a vzýval tam jméno Hospodina, Boha silného, věčného.
 
-**[21:34]** A bydlil Abraham v zemi Filistinské za mnoho dní. 
+**[21:34]** A bydlil Abraham v zemi Filistinské za mnoho dní.
 
 ### Chapter 22
 
@@ -1188,7 +1188,7 @@
 
 **[22:23]** Bathuel pak zplodil Rebeku. Osm těchto porodila Melcha Náchorovi, bratru Abrahamovu.
 
-**[22:24]** Ale i ženina jeho, jejíž jméno bylo Réma, porodila také ona Tábe a Gahama, Thása a Máchu. 
+**[22:24]** Ale i ženina jeho, jejíž jméno bylo Réma, porodila také ona Tábe a Gahama, Thása a Máchu.
 
 ### Chapter 23
 
@@ -1230,7 +1230,7 @@
 
 **[23:19]** A potom pochoval Abraham Sáru, manželku svou, v jeskyni pole Machpelah, proti Mamre, (to slove Hebron), v zemi Kananejské.
 
-**[23:20]** Protož odevzdáno jest pole to i jeskyně, kteráž byla na něm, Abrahamovi k dědičnému pohřbu od synů Het. 
+**[23:20]** Protož odevzdáno jest pole to i jeskyně, kteráž byla na něm, Abrahamovi k dědičnému pohřbu od synů Het.
 
 ### Chapter 24
 
@@ -1366,7 +1366,7 @@
 
 **[24:66]** Tedy vypravoval služebník Izákovi vše, což působil.
 
-**[24:67]** I uvedl ji Izák do stanu Sáry matky své, a vzal Rebeku, a měl ji za manželku, a miloval ji. I potěšil se Izák po smrti matky své. 
+**[24:67]** I uvedl ji Izák do stanu Sáry matky své, a vzal Rebeku, a měl ji za manželku, a miloval ji. I potěšil se Izák po smrti matky své.
 
 ### Chapter 25
 
@@ -1436,7 +1436,7 @@
 
 **[25:33]** Dí Jákob: Přisáhni mi dnes hned. I přisáhl mu, a prodal prvorozenství své Jákobovi.
 
-**[25:34]** Tedy Jákob dal Ezauchovi chleba a té krmě z šocovice. Kterýžto jedl a pil, a vstav, odšel; a tak pohrdl Ezau prvorozenstvím. 
+**[25:34]** Tedy Jákob dal Ezauchovi chleba a té krmě z šocovice. Kterýžto jedl a pil, a vstav, odšel; a tak pohrdl Ezau prvorozenstvím.
 
 ### Chapter 26
 
@@ -1508,7 +1508,7 @@
 
 **[26:34]** Ezau pak jsa v letech čtyřidcíti, pojal ženu Judit, dceru Béry Hetejského, a Bazematu, dceru Elona Hetejského.
 
-**[26:35]** A kormoutily Izáka a Rebeku. 
+**[26:35]** A kormoutily Izáka a Rebeku.
 
 ### Chapter 27
 
@@ -1602,7 +1602,7 @@
 
 **[27:45]** A přestalo rozhněvání bratra tvého na tebe, a zapomenul by na to, což jsi mu učinil. Potom já pošli a vezmu tě odtud. Proč mám zbavena býti obou synů jednoho dne?
 
-**[27:46]** I řekla Rebeka Izákovi: Stýště mi se živu býti pro dcery Het. Vezme-li Jákob ženu ze dcer Het, jako tyto jsou ze dcer země této, k čemu mi život? 
+**[27:46]** I řekla Rebeka Izákovi: Stýště mi se živu býti pro dcery Het. Vezme-li Jákob ženu ze dcer Het, jako tyto jsou ze dcer země této, k čemu mi život?
 
 ### Chapter 28
 
@@ -1648,7 +1648,7 @@
 
 **[28:21]** A navrátím-li se v pokoji do domu otce svého, a bude mi Hospodin za Boha:
 
-**[28:22]** Kámen tento, kterýž jsem postavil na památku, bude domem Božím; a ze všech věcí, kteréž mi dáš, desátky spravedlivě tobě dám. 
+**[28:22]** Kámen tento, kterýž jsem postavil na památku, bude domem Božím; a ze všech věcí, kteréž mi dáš, desátky spravedlivě tobě dám.
 
 ### Chapter 29
 
@@ -1720,7 +1720,7 @@
 
 **[29:34]** A opět počala a porodila syna, a řekla: Již nyní připojí se ke mně muž můj, nebo jsem mu porodila tři syny. Z té příčiny nazváno jest jméno jeho Léví.
 
-**[29:35]** I počala ještě a porodila syna, a řekla: Již nyní chváliti budu Hospodina. Pročež nazvala jméno jeho Juda; i přestala roditi. 
+**[29:35]** I počala ještě a porodila syna, a řekla: Již nyní chváliti budu Hospodina. Pročež nazvala jméno jeho Juda; i přestala roditi.
 
 ### Chapter 30
 
@@ -1808,7 +1808,7 @@
 
 **[30:42]** Když pak pozdní dobytek připouštín býval, nekladl jich; a tak býval pozdní Lábanův a ranný Jákobův.
 
-**[30:43]** Vzrostl tedy muž ten náramně velmi, a měl dobytka mnoho, děvek i služebníků, velbloudů i oslů. 
+**[30:43]** Vzrostl tedy muž ten náramně velmi, a měl dobytka mnoho, děvek i služebníků, velbloudů i oslů.
 
 ### Chapter 31
 
@@ -1920,7 +1920,7 @@
 
 **[31:54]** Nabil také Jákob hovad na té hoře, a pozval bratří svých, aby hodovali; i hodovali a zůstali přes noc na též hoře.
 
-**[31:55]** I vstal Lában velmi ráno, a políbiv synů svých a dcer svých, požehnal jich; i odšel a navrátil se k místu svému. 
+**[31:55]** I vstal Lában velmi ráno, a políbiv synů svých a dcer svých, požehnal jich; i odšel a navrátil se k místu svému.
 
 ### Chapter 32
 
@@ -1986,7 +1986,7 @@
 
 **[32:31]** I vzešlo mu slunce, když pominul místa toho Fanuel, a kulhal na nohu svou.
 
-**[32:32]** Protož nejedí synové Izraelští až do tohoto dne té žily krátké, kteráž jest v vrchním příhbí stehna, proto že obrazil příhbí stehna Jákobova na žile krátké. 
+**[32:32]** Protož nejedí synové Izraelští až do tohoto dne té žily krátké, kteráž jest v vrchním příhbí stehna, proto že obrazil příhbí stehna Jákobova na žile krátké.
 
 ### Chapter 33
 
@@ -2028,7 +2028,7 @@
 
 **[33:19]** I koupil díl pole toho, na němž byl rozbil stan svůj, od synů Emora, otce Sichemova, za sto ovec.
 
-**[33:20]** A postavil tu oltář, kterémužto dal jméno Bůh silný, Bůh Izraelský. 
+**[33:20]** A postavil tu oltář, kterémužto dal jméno Bůh silný, Bůh Izraelský.
 
 ### Chapter 34
 
@@ -2092,7 +2092,7 @@
 
 **[34:30]** Řekl pak Jákob Simeonovi a Léví: Zkormoutili jste mne, a zošklivili jste mne u obyvatelů krajiny této, u Kananejských a Ferezejských, a já jsem s malým počtem lidí. Seberou-li se na mne, zbijí mne, a tak vyhlazen budu já i dům můj.
 
-**[34:31]** A oni odpověděli: A což měli jako nevěstky zle užívati sestry naší? 
+**[34:31]** A oni odpověděli: A což měli jako nevěstky zle užívati sestry naší?
 
 ### Chapter 35
 
@@ -2152,7 +2152,7 @@
 
 **[35:28]** A bylo dnů Izákových sto osmdesáte let.
 
-**[35:29]** I dokonal Izák, a umřel, a připojen jest k lidu svému, stár jsa a plný dnů; i pochovali ho Ezau a Jákob, synové jeho. 
+**[35:29]** I dokonal Izák, a umřel, a připojen jest k lidu svému, stár jsa a plný dnů; i pochovali ho Ezau a Jákob, synové jeho.
 
 ### Chapter 36
 
@@ -2240,7 +2240,7 @@
 
 **[36:42]** Kníže Kenaz, kníže Teman, kníže Mabsar.
 
-**[36:43]** Kníže Magdiel, kníže Híram. Tať jsou knížata Idumejská, tak jakž kteří bydlili v zemi dědictví svého. Toť jest ten Ezau, otec Idumejských. 
+**[36:43]** Kníže Magdiel, kníže Híram. Tať jsou knížata Idumejská, tak jakž kteří bydlili v zemi dědictví svého. Toť jest ten Ezau, otec Idumejských.
 
 ### Chapter 37
 
@@ -2290,7 +2290,7 @@
 
 **[37:23]** A když přišel Jozef k bratřím svým, strhli s něho sukni jeho, sukni proměnných barev, kterouž měl na sobě.
 
-**[37:24]** A pochopivše, uvrhli jej do čisterny. Čisterna pak ta byla prázdná, v níž nebylo vody.
+**[37:24]** A pochopivše, uvrhli jej do čisterny. Čisterna pak ta byla prázdná, v níž ne bylo vody.
 
 **[37:25]** I usadili se, aby jedli chléb. A pozdvihše očí svých, uzřeli, a aj, množství Izmaelitských přicházejících z Galád, kteřížto na velbloudích svých nesli vonné věci a kadidlo a mirru do Egypta.
 
@@ -2300,7 +2300,7 @@
 
 **[37:28]** Když pak mimo ně jeli muži ti, kupci Madianští, vytáhli a vyvedli Jozefa z té čisterny, a prodali jej Izmaelitským za dvadceti stříbrných. Ti zavedli Jozefa do Egypta.
 
-**[37:29]** A navrátil se Ruben k čisterně, a aj, již nebylo Jozefa v ní. I roztrhl roucha svá.
+**[37:29]** A navrátil se Ruben k čisterně, a aj, již ne bylo Jozefa v ní. I roztrhl roucha svá.
 
 **[37:30]** A navrátiv se k bratřím svým, řekl: Pacholete není, a já kam se mám podíti?
 
@@ -2314,7 +2314,7 @@
 
 **[37:35]** Sešli se pak všickni synové jeho, a všecky dcery jeho, aby ho těšili. Ale on nedal se potěšiti, a řekl: Nýbrž já tak v zámutku sstoupím za synem svým do hrobu. A plakal ho otec jeho.
 
-**[37:36]** Mezi tím Madianští prodali Jozefa do Egypta Putifarovi, dvořeninu Faraonovu, hejtmanu žoldnéřů. 
+**[37:36]** Mezi tím Madianští prodali Jozefa do Egypta Putifarovi, dvořeninu Faraonovu, hejtmanu žoldnéřů.
 
 ### Chapter 38
 
@@ -2376,7 +2376,7 @@
 
 **[38:29]** Když pak vtáhl ruku svou zase, hle, vyšel bratr jeho. I řekla: Jak jsi protrhl? Tvéť jest protržení. I nazváno jest jméno jeho Fáres.
 
-**[38:30]** A potom vyšel bratr jeho, kterýž měl na ruce nitku červenou. I nazváno jest jméno jeho Zára. 
+**[38:30]** A potom vyšel bratr jeho, kterýž měl na ruce nitku červenou. I nazváno jest jméno jeho Zára.
 
 ### Chapter 39
 
@@ -2424,7 +2424,7 @@
 
 **[39:22]** I dal vládař žaláře v moc Jozefovi všecky vězně, kteříž byli v věži žalářné; a cožkoli tam činiti měli, on to spravoval.
 
-**[39:23]** Aniž vládař žaláře k čemu dohlídal,což jemu svěřil; proto že Hospodin byl s ním, a což on činil, Hospodin tomu prospěch dával. 
+**[39:23]** Aniž vládař žaláře k čemu dohlídal,což jemu svěřil; proto že Hospodin byl s ním, a což on činil, Hospodin tomu prospěch dával.
 
 ### Chapter 40
 
@@ -2472,7 +2472,7 @@
 
 **[40:22]** Vládaře pak nad pekaři oběsil, tak jakž jim byl sen vyložil Jozef.
 
-**[40:23]** A nezpomenul správce nad šeňky na Jozefa, ale zapomenul na něj. 
+**[40:23]** A nezpomenul správce nad šeňky na Jozefa, ale zapomenul na něj.
 
 ### Chapter 41
 
@@ -2588,7 +2588,7 @@
 
 **[41:56]** A byl hlad na tváři vší země. Tedy otevřel Jozef všecky obilnice, v nichž obilí bylo, a prodával Egyptským; nebo rozmohl se hlad v zemi Egyptské.
 
-**[41:57]** A všickni obyvatelé země přicházeli do Egypta k Jozefovi, aby kupovali; nebo rozmohl se byl hlad po vší zemi. 
+**[41:57]** A všickni obyvatelé země přicházeli do Egypta k Jozefovi, aby kupovali; nebo rozmohl se byl hlad po vší zemi.
 
 ### Chapter 42
 
@@ -2666,7 +2666,7 @@
 
 **[42:37]** Tedy řekl Ruben otci svému těmito slovy: Dva syny mé zabí, jestliže ho nepřivedu zase k tobě; poruč ho v ruce mé, a já zase přivedu ho k tobě.
 
-**[42:38]** I řekl: Nesstoupíť syn můj s vámi. Nebo bratr jeho umřel, a on sám pozůstal; a přihodilo-li by se mu co zlého na té cestě, kterouž půjdete, uvedli byste šediny mé s bolestí do hrobu. 
+**[42:38]** I řekl: Nesstoupíť syn můj s vámi. Nebo bratr jeho umřel, a on sám pozůstal; a přihodilo-li by se mu co zlého na té cestě, kterouž půjdete, uvedli byste šediny mé s bolestí do hrobu.
 
 ### Chapter 43
 
@@ -2736,7 +2736,7 @@
 
 **[43:33]** Tedy seděli proti němu, prvorozený podlé prvorozenství svého, a mladší podlé mladšího věku svého. I divili se muži ti vespolek.
 
-**[43:34]** A bera jídlo před sebou, podával jim; Beniaminovi pak dostalo se pětkrát více než jiným. I hodovali a hojně se s ním napili. 
+**[43:34]** A bera jídlo před sebou, podával jim; Beniaminovi pak dostalo se pětkrát více než jiným. I hodovali a hojně se s ním napili.
 
 ### Chapter 44
 
@@ -2806,7 +2806,7 @@
 
 **[44:33]** Protož nyní nechť zůstane, prosím, služebník tvůj místo pacholete tohoto za služebníka pánu svému, a pachole ať vstoupí s bratry svými.
 
-**[44:34]** Nebo jak bych já vstoupil k otci svému, kdyby tohoto pacholete nebylo se mnou? Leč bych chtěl viděti trápení, kteréž by přišlo na otce mého. 
+**[44:34]** Nebo jak bych já vstoupil k otci svému, kdyby tohoto pacholete nebylo se mnou? Leč bych chtěl viděti trápení, kteréž by přišlo na otce mého.
 
 ### Chapter 45
 
@@ -2864,7 +2864,7 @@
 
 **[45:27]** Tedy vypravovali jemu všecka slova Jozefova, kteráž mluvil jim; a vida vozy, kteréž poslal Jozef pro něho, okřál duch Jákoba otce jejich.
 
-**[45:28]** I řekl Izrael: Dostiť jest, když ještě syn můj živ jest; půjdu a uzřím ho, prvé než umru. 
+**[45:28]** I řekl Izrael: Dostiť jest, když ještě syn můj živ jest; půjdu a uzřím ho, prvé než umru.
 
 ### Chapter 46
 
@@ -2934,7 +2934,7 @@
 
 **[46:33]** A když by povolal vás Farao, a řekl: Jaký jest obchod váš?
 
-**[46:34]** Odpovíte: Dobytkem se živili služebníci tvoji od mladosti své až do této chvíle, i my i otcové naši; abyste bydlili v zemi Gesen; nebo v mrzkosti mají Egyptští všecky pastýře stáda. 
+**[46:34]** Odpovíte: Dobytkem se živili služebníci tvoji od mladosti své až do této chvíle, i my i otcové naši; abyste bydlili v zemi Gesen; nebo v mrzkosti mají Egyptští všecky pastýře stáda.
 
 ### Chapter 47
 
@@ -2998,7 +2998,7 @@
 
 **[47:30]** Když spáti budu s otci svými, vyneseš mne z Egypta, a pochováš mne v hrobě jejich. Tedy řekl jemu: Já učiním podlé slova tvého.
 
-**[47:31]** I řekl Jákob: Přisáhni mi. Tedy přisáhl jemu. I sklonil se Izrael k hlavám lůže. 
+**[47:31]** I řekl Jákob: Přisáhni mi. Tedy přisáhl jemu. I sklonil se Izrael k hlavám lůže.
 
 ### Chapter 48
 
@@ -3044,7 +3044,7 @@
 
 **[48:21]** Řekl také Izrael Jozefovi: Aj, já umírám, a budeť Bůh s vámi, a zase vás přivede do země otců vašich.
 
-**[48:22]** Já pak dal jsem tobě jeden díl výš nad bratří tvé, kteréhož jsem mečem svým a lučištěm svým dosáhl z ruky Amorejského. 
+**[48:22]** Já pak dal jsem tobě jeden díl výš nad bratří tvé, kteréhož jsem mečem svým a lučištěm svým dosáhl z ruky Amorejského.
 
 ### Chapter 49
 
@@ -3112,7 +3112,7 @@
 
 **[49:32]** Koupeno pak bylo pole a jeskyně, kteráž na něm, od synů Het.
 
-**[49:33]** A když přestal Jákob přikazovati synům svým, složil nohy své na ložci a umřel; a připojen jest k lidu svému. 
+**[49:33]** A když přestal Jákob přikazovati synům svým, složil nohy své na ložci a umřel; a připojen jest k lidu svému.
 
 ### Chapter 50
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** Protož přísahou zavázal Jozef syny Izraelovy, řka: Když navštíví vás Bůh, vynestež kosti mé odsud.
 
-**[50:26]** I umřel Jozef, když byl ve stu a v desíti letech; a pomazán jsa vonnými věcmi, vložen jest do truhly v Egyptě.  
+**[50:26]** I umřel Jozef, když byl ve stu a v desíti letech; a pomazán jsa vonnými věcmi, vložen jest do truhly v Egyptě.
 
 ## Exodus
 
@@ -3214,7 +3214,7 @@
 
 **[1:21]** Stalo se pak proto, že se bály baby ty Boha, vzdělal jim domy.
 
-**[1:22]** I přikázal Farao všemu lidu svému, řka: Každého syna, kterýž se narodí, do řeky uvrzte; každé pak dcery nechte živé. 
+**[1:22]** I přikázal Farao všemu lidu svému, řka: Každého syna, kterýž se narodí, do řeky uvrzte; každé pak dcery nechte živé.
 
 ### Chapter 2
 
@@ -3266,7 +3266,7 @@
 
 **[2:24]** A uslyšel Bůh naříkání jejich, a rozpomenul se Bůh na smlouvu svou s Abrahamem, Izákem a Jákobem.
 
-**[2:25]** I vzhlédl Bůh na syny Izraelské, a poznal Bůh. 
+**[2:25]** I vzhlédl Bůh na syny Izraelské, a poznal Bůh.
 
 ### Chapter 3
 
@@ -3312,7 +3312,7 @@
 
 **[3:21]** A dám milost lidu tomuto před očima Egyptských. I stane se, že když půjdete, neodejdete prázdní.
 
-**[3:22]** Ale vypůjčí žena od sousedy své, a od hospodyně domu svého klínotů stříbrných, a klínotů zlatých a roucha; i vložíte to na syny a na dcery své, a tak obloupíte Egypt. 
+**[3:22]** Ale vypůjčí žena od sousedy své, a od hospodyně domu svého klínotů stříbrných, a klínotů zlatých a roucha; i vložíte to na syny a na dcery své, a tak obloupíte Egypt.
 
 ### Chapter 4
 
@@ -3376,7 +3376,7 @@
 
 **[4:30]** I mluvil Aron všecka slova, kteráž byl mluvil Hospodin k Mojžíšovi, a činil znamení před očima lidu.
 
-**[4:31]** A uvěřil lid, když uslyšeli, že navštívil Hospodin syny Izraelské, a že viděl ssoužení jejich. A sklonivše se, poklonu učinili. 
+**[4:31]** A uvěřil lid, když uslyšeli, že navštívil Hospodin syny Izraelské, a že viděl ssoužení jejich. A sklonivše se, poklonu učinili.
 
 ### Chapter 5
 
@@ -3424,7 +3424,7 @@
 
 **[5:22]** I navrátil se Mojžíš k Hospodinu a řekl: Pane, proč jsi tyto zlé věci uvedl na lid tento? Proč jsi mne sem poslal?
 
-**[5:23]** Nebo od té chvíle, jakž jsem všel k Faraonovi, abych mluvil jménem tvým, hůře nakládá s lidem tímto, a ty jsi vždy nevysvobodil lidu svého. 
+**[5:23]** Nebo od té chvíle, jakž jsem všel k Faraonovi, abych mluvil jménem tvým, hůře nakládá s lidem tímto, a ty jsi vždy nevysvobodil lidu svého.
 
 ### Chapter 6
 
@@ -3486,7 +3486,7 @@
 
 **[6:29]** Že mu řekl takto: Já Hospodin; mluv k Faraonovi, králi Egyptskému, všecko, což já mluvím tobě.
 
-**[6:30]** A řekl Mojžíš před Hospodinem: Aj, já jsem zpozdilý v řeči, kterakž tedy poslouchati mne bude Farao? 
+**[6:30]** A řekl Mojžíš před Hospodinem: Aj, já jsem zpozdilý v řeči, kterakž tedy poslouchati mne bude Farao?
 
 ### Chapter 7
 
@@ -3538,7 +3538,7 @@
 
 **[7:24]** Kopali pak všickni Egyptští vůkol řeky, hledajíce vody ku pití; nebo nemohli píti vody z řeky.
 
-**[7:25]** A vyplnilo se dní sedm, jakž ranil Hospodin řeku. 
+**[7:25]** A vyplnilo se dní sedm, jakž ranil Hospodin řeku.
 
 ### Chapter 8
 
@@ -3604,7 +3604,7 @@
 
 **[8:31]** I učinil Hospodin podlé slova Mojžíšova, a odjal tu směsici od Faraona, od služebníků jeho i od lidu jeho, tak že ani jedné žížaly nezůstalo.
 
-**[8:32]** Ale Farao ztížil srdce své také i tehdáž, a nepropustil lidu. 
+**[8:32]** Ale Farao ztížil srdce své také i tehdáž, a nepropustil lidu.
 
 ### Chapter 9
 
@@ -3676,7 +3676,7 @@
 
 **[9:34]** Uzřev pak Farao, že přestal déšť a krupobití a hřímání, opět hřešil; a více obtížil srdce své, on i služebníci jeho.
 
-**[9:35]** I zsililo se srdce Faraonovo, a nepropustil synů Izraelských, tak jakž byl mluvil Hospodin skrze Mojžíše. 
+**[9:35]** I zsililo se srdce Faraonovo, a nepropustil synů Izraelských, tak jakž byl mluvil Hospodin skrze Mojžíše.
 
 ### Chapter 10
 
@@ -3700,7 +3700,7 @@
 
 **[10:10]** Tedy řekl jim: Nechať jest tak Hospodin s vámi, jako já propustím vás i dítky vaše. Hleďte, nebo zlé jest před tváři vaší.
 
-**[10:11]** Nebudeť tak. Jděte vy sami muži, a služte Hospodinu, nebo toho vy toliko žádáte. I vyhnáni jsou od tváři Faraonovy.
+**[10:11]** Ne budeť tak. Jděte vy sami muži, a služte Hospodinu, nebo toho vy toliko žádáte. I vyhnáni jsou od tváři Faraonovy.
 
 **[10:12]** Tedy řekl Hospodin Mojžíšovi: Vztáhni ruku svou na zemi Egyptskou pro kobylky, ať vystoupí na zemi Egyptskou, a sežerou všelikou bylinu země té, cožkoli zůstalo po krupobití.
 
@@ -3736,7 +3736,7 @@
 
 **[10:28]** I řekl mu Farao: Odejdi ode mne, a varuj se, abys více neviděl tváři mé; nebo v který den uzříš tvář mou, umřeš.
 
-**[10:29]** Odpověděl Mojžíš: Dobře jsi řekl; neuzřímť více tváři tvé. 
+**[10:29]** Odpověděl Mojžíš: Dobře jsi řekl; neuzřímť více tváři tvé.
 
 ### Chapter 11
 
@@ -3758,7 +3758,7 @@
 
 **[11:9]** I řekl Hospodin Mojžíšovi: Neposlechneť vás Farao, abych rozmnožil zázraky své v zemi Egyptské.
 
-**[11:10]** Ale Mojžíš a Aron činili všecky ty zázraky před Faraonem; Hospodin pak zatvrdil srdce Faraonovo, tak že nepropustil synů Izraelských z země své. 
+**[11:10]** Ale Mojžíš a Aron činili všecky ty zázraky před Faraonem; Hospodin pak zatvrdil srdce Faraonovo, tak že nepropustil synů Izraelských z země své.
 
 ### Chapter 12
 
@@ -3862,7 +3862,7 @@
 
 **[12:50]** Tedy učinili všickni synové Izraelští, jakž přikázal Hospodin Mojžíšovi a Aronovi; tak učinili.
 
-**[12:51]** A tak stalo se právě toho dne, že vyvedl Hospodin syny Izraelské z země Egyptské s vojsky jejich. 
+**[12:51]** A tak stalo se právě toho dne, že vyvedl Hospodin syny Izraelské z země Egyptské s vojsky jejich.
 
 ### Chapter 13
 
@@ -3908,7 +3908,7 @@
 
 **[13:21]** Hospodin pak předcházel je ve dne v sloupu oblakovém, aby je vedl cestou, v noci pak v sloupu ohnivém, aby svítil jim, aby ve dne i v noci jíti mohli.
 
-**[13:22]** Neodjal sloupu oblakového ve dne, ani ohnivého sloupu v noci od tváři toho lidu. 
+**[13:22]** Neodjal sloupu oblakového ve dne, ani ohnivého sloupu v noci od tváři toho lidu.
 
 ### Chapter 14
 
@@ -3932,7 +3932,7 @@
 
 **[14:10]** A když se přiblížil Farao, pozdvihli synové Izraelští očí svých, a aj, Egyptští táhnou za nimi. I báli se velmi, a volali synové Izraelští k Hospodinu.
 
-**[14:11]** A řekli Mojžíšovi: Zdali proto, že nebylo hrobů v Egyptě, vyvedl jsi nás, abychom zemřeli na poušti? Co jsi nám to učinil, že jsi vyvedl nás z Egypta?
+**[14:11]** A řekli Mojžíšovi: Zdali proto, že ne bylo hrobů v Egyptě, vyvedl jsi nás, abychom zemřeli na poušti? Co jsi nám to učinil, že jsi vyvedl nás z Egypta?
 
 **[14:12]** Zdali jsme toho nemluvili tobě ještě v Egyptě, řkouce: Nech nás, ať sloužíme Egyptským? Nebo lépe bylo nám sloužiti Egyptským, než zemříti na poušti.
 
@@ -3972,7 +3972,7 @@
 
 **[14:30]** A tak vysvobodil Hospodin v ten den Izraele z ruky Egyptských; a viděl Izrael Egyptské mrtvé na břehu mořském.
 
-**[14:31]** Viděl také Izrael moc velikou, kterouž prokázal Hospodin na Egyptských. I bál se lid Hospodina, a věřili Hospodinu i Mojžíšovi, služebníku jeho. 
+**[14:31]** Viděl také Izrael moc velikou, kterouž prokázal Hospodin na Egyptských. I bál se lid Hospodina, a věřili Hospodinu i Mojžíšovi, služebníku jeho.
 
 ### Chapter 15
 
@@ -4028,7 +4028,7 @@
 
 **[15:26]** A řekl: Jestliže skutečně poslouchati budeš hlasu Hospodina Boha svého, a činiti budeš, což spravedlivého jest před očima jeho, a nakloníš uší k přikázaním jeho, a ostříhati budeš všech ustavení jeho: žádné nemoci, kterouž jsem dopustil na Egypt, nedopustím na tebe; nebo já jsem Hospodin, kterýž tě uzdravuji.
 
-**[15:27]** I přišli do Elim, kdež bylo dvanácte studnic vod a sedmdesáte palm; i rozbili tu stany při vodách. 
+**[15:27]** I přišli do Elim, kdež bylo dvanácte studnic vod a sedmdesáte palm; i rozbili tu stany při vodách.
 
 ### Chapter 16
 
@@ -4102,7 +4102,7 @@
 
 **[16:35]** Jedli pak synové Izraelští mannu za čtyřidceti let, dokudž nevešli do země, v níž bydliti měli; mannu jedli, dokudž nepřišli k končinám země Kananejské.
 
-**[16:36]** Gomer pak jest desátý díl efi. 
+**[16:36]** Gomer pak jest desátý díl efi.
 
 ### Chapter 17
 
@@ -4136,7 +4136,7 @@
 
 **[17:15]** Tedy vzdělal Mojžíš oltář a nazval jméno jeho: Hospodin korouhev má.
 
-**[17:16]** Nebo řekl: Tak má jmenován býti, proto že ruka nad trůnem Hospodinovým osvědčuje boj Hospodinův proti Amalechovi od národu až do národu. 
+**[17:16]** Nebo řekl: Tak má jmenován býti, proto že ruka nad trůnem Hospodinovým osvědčuje boj Hospodinův proti Amalechovi od národu až do národu.
 
 ### Chapter 18
 
@@ -4192,7 +4192,7 @@
 
 **[18:26]** Kteříž soudili lid každého času. Nesnadnější věci vznášeli na Mojžíše, všecky pak menší pře sami soudili.
 
-**[18:27]** Potom propustil Mojžíš tchána svého; i odšel do země své. 
+**[18:27]** Potom propustil Mojžíš tchána svého; i odšel do země své.
 
 ### Chapter 19
 
@@ -4244,7 +4244,7 @@
 
 **[19:24]** I řekl jemu Hospodin: Jdi, sstup, a potom vstup ty a Aron s tebou. Kněží pak a lid ať se nepokoušejí vstoupiti k Hospodinu, aby se na ně neobořil.
 
-**[19:25]** I sešel Mojžíš k lidu, a to jim oznámil. 
+**[19:25]** I sešel Mojžíš k lidu, a to jim oznámil.
 
 ### Chapter 20
 
@@ -4298,7 +4298,7 @@
 
 **[20:25]** Jestliže mi pak vzděláš oltář kamenný, nedělej ho z kamene tesaného; nebo jestliže pozdvihneš železa na něj, poškvrníš ho.
 
-**[20:26]** Aniž po stupních vstupovati budeš k oltáři mému, aby hanba tvá u něho odkryta nebyla. 
+**[20:26]** Aniž po stupních vstupovati budeš k oltáři mému, aby hanba tvá u něho odkryta nebyla.
 
 ### Chapter 21
 
@@ -4372,7 +4372,7 @@
 
 **[21:35]** A ustrčil-li by vůl něčí vola sousedova, že byl umřel: tedy prodadí vola toho živého, a podělí se penězi jeho; i s zabitým volem také se rozdělí.
 
-**[21:36]** Pakli vědíno bylo, že vůl byl trkavý prvé, a nezavřel ho pán jeho: bez výmluvy ať dá vola za vola, a zabitý ať mu zůstane. 
+**[21:36]** Pakli vědíno bylo, že vůl byl trkavý prvé, a nezavřel ho pán jeho: bez výmluvy ať dá vola za vola, a zabitý ať mu zůstane.
 
 ### Chapter 22
 
@@ -4436,7 +4436,7 @@
 
 **[22:30]** Tak učiníš s volem svým a s dobytkem svým: Sedm dní bude s matkou svou, dne pak osmého mně je dáš.
 
-**[22:31]** Lid svatý budete mi, a nebudete jísti masa z udáveného na poli; psu je vržete. 
+**[22:31]** Lid svatý budete mi, a nebudete jísti masa z udáveného na poli; psu je vržete.
 
 ### Chapter 23
 
@@ -4504,7 +4504,7 @@
 
 **[23:32]** Neučiníš s nimi a bohy jejich smlouvy.
 
-**[23:33]** Nebudou bydliti v zemi tvé, aby nepřipravili tě k hříchu proti mně, když bys ctil bohy jejich; nebo by to bylo tobě osídlem. 
+**[23:33]** Nebudou bydliti v zemi tvé, aby nepřipravili tě k hříchu proti mně, když bys ctil bohy jejich; nebo by to bylo tobě osídlem.
 
 ### Chapter 24
 
@@ -4542,7 +4542,7 @@
 
 **[24:17]** A tvárnost slávy Hospodinovy byla jako spalující oheň na vrchu hory, před očima synů Izraelských.
 
-**[24:18]** I všel Mojžíš do prostřed oblaku a vstoupil na horu. A byl Mojžíš na hoře čtyřidceti dní a čtyřidceti nocí. 
+**[24:18]** I všel Mojžíš do prostřed oblaku a vstoupil na horu. A byl Mojžíš na hoře čtyřidceti dní a čtyřidceti nocí.
 
 ### Chapter 25
 
@@ -4624,7 +4624,7 @@
 
 **[25:39]** Z centnéře zlata čistého uděláno bude to se vším tím nádobím.
 
-**[25:40]** Hlediž pak, abys udělal podlé podobenství toho, kteréž tobě ukázáno jest na hoře. 
+**[25:40]** Hlediž pak, abys udělal podlé podobenství toho, kteréž tobě ukázáno jest na hoře.
 
 ### Chapter 26
 
@@ -4700,7 +4700,7 @@
 
 **[26:36]** A uděláš zastření dveří stánku z postavce modrého a z šarlatu, a z červce dvakrát barveného, a z bílého hedbáví přesukovaného, dílem vyšívaným.
 
-**[26:37]** K zastření pak tomu uděláš pět sloupů z dříví setim, kteréž obložíš zlatem, a hákové jejich zlatí; a sleješ k nim pět podstavků měděných. 
+**[26:37]** K zastření pak tomu uděláš pět sloupů z dříví setim, kteréž obložíš zlatem, a hákové jejich zlatí; a sleješ k nim pět podstavků měděných.
 
 ### Chapter 27
 
@@ -4744,7 +4744,7 @@
 
 **[27:20]** Ty také přikaž synům Izraelským, ať nanesou oleje olivového čistého, vytlačeného k svícení, aby lampy vždycky rozsvěcovány byly.
 
-**[27:21]** V stánku úmluvy před oponou, kteráž zastírati bude svědectví, spravovati je budou Aron a synové jeho od večera až do jitra před Hospodinem. Toť bude řád věčný, kterýž zachovávati budou potomci jejich mezi syny Izraelskými. 
+**[27:21]** V stánku úmluvy před oponou, kteráž zastírati bude svědectví, spravovati je budou Aron a synové jeho od večera až do jitra před Hospodinem. Toť bude řád věčný, kterýž zachovávati budou potomci jejich mezi syny Izraelskými.
 
 ### Chapter 28
 
@@ -4832,7 +4832,7 @@
 
 **[28:42]** Nadělej jim i košilek lněných k zakrytí nahoty těla; od bedr až do stehen budou.
 
-**[28:43]** A ať je na sobě mají Aron i synové, když vcházeti budou do stánku úmluvy, aneb když přistupovati budou k oltáři, aby sloužili v svatyni; a neponesou nepravosti, aniž zemrou. Řád tento bude věčný jemu i potomkům jeho po něm. 
+**[28:43]** A ať je na sobě mají Aron i synové, když vcházeti budou do stánku úmluvy, aneb když přistupovati budou k oltáři, aby sloužili v svatyni; a neponesou nepravosti, aniž zemrou. Řád tento bude věčný jemu i potomkům jeho po něm.
 
 ### Chapter 29
 
@@ -4926,7 +4926,7 @@
 
 **[29:45]** A bydliti budu u prostřed synů Izraelských, a budu jim za Boha.
 
-**[29:46]** A zvědíť, že já jsem Hospodin Bůh jejich, kterýž jsem je vyvedl z země Egyptské, abych přebýval u prostřed nich, já Hospodin Bůh jejich. 
+**[29:46]** A zvědíť, že já jsem Hospodin Bůh jejich, kterýž jsem je vyvedl z země Egyptské, abych přebýval u prostřed nich, já Hospodin Bůh jejich.
 
 ### Chapter 30
 
@@ -5004,7 +5004,7 @@
 
 **[30:37]** Neuděláte sobě kadidla podlé složení tohoto, kteréž připravíš; za svatou věc tobě bude pro Hospodina.
 
-**[30:38]** Kdo by koli dělal co podobného k vůni sobě, vyhlazen bude z lidu svého. 
+**[30:38]** Kdo by koli dělal co podobného k vůni sobě, vyhlazen bude z lidu svého.
 
 ### Chapter 31
 
@@ -5042,7 +5042,7 @@
 
 **[31:17]** Mezi mnou a syny Izraelskými za znamení jest na věčnost; nebo šest dní činil Hospodin nebe i zemi, v den pak sedmý přestal a odpočinul.
 
-**[31:18]** I dal Pán Mojžíšovi po dokonání těchto řečí s ním na hoře Sinai dvě dsky svědectví, dsky kamenné, psané prstem Božím. 
+**[31:18]** I dal Pán Mojžíšovi po dokonání těchto řečí s ním na hoře Sinai dvě dsky svědectví, dsky kamenné, psané prstem Božím.
 
 ### Chapter 32
 
@@ -5114,7 +5114,7 @@
 
 **[32:34]** Protož nyní jdi, veď lid tento, kamž jsem rozkázal tobě. Aj, anděl můj půjde před tebou; v den pak navštívení mého navštívím i na nich hřích jejich.
 
-**[32:35]** I bil Hospodin lid, proto že učinili tele, kteréž byl udělal Aron. 
+**[32:35]** I bil Hospodin lid, proto že učinili tele, kteréž byl udělal Aron.
 
 ### Chapter 33
 
@@ -5162,7 +5162,7 @@
 
 **[33:22]** A když tudy půjde sláva má, postavím tě v rozsedlině skály, a přikryji tě rukou svou, dokudž nepřejdu.
 
-**[33:23]** Potom odejmu ruku svou, i uzříš hřbet můj, ale tvář má nebude spatřína. 
+**[33:23]** Potom odejmu ruku svou, i uzříš hřbet můj, ale tvář má nebude spatřína.
 
 ### Chapter 34
 
@@ -5234,7 +5234,7 @@
 
 **[34:34]** Ale když vcházel Mojžíš před tvář Hospodina, aby mluvil s ním, odjímal zástěru, dokudž nevyšel. Vyšed pak, mluvil synům Izraelským, což mu bylo rozkázáno.
 
-**[34:35]** Tedy viděli synové Izraelští tvář Mojžíšovu, že se stkvěla kůže tváři jeho. A kladl zase Mojžíš zástěru na tvář svou, dokudž nevcházel, aby mluvil s ním. 
+**[34:35]** Tedy viděli synové Izraelští tvář Mojžíšovu, že se stkvěla kůže tváři jeho. A kladl zase Mojžíš zástěru na tvář svou, dokudž nevcházel, aby mluvil s ním.
 
 ### Chapter 35
 
@@ -5306,7 +5306,7 @@
 
 **[35:34]** Dal nadto v srdce jeho i to, aby učiti mohl on i Aholiab, syn Achisamechův z pokolení Dan.
 
-**[35:35]** Naplnil je moudrostí srdce, aby dělali všelijaké dílo tesařské a řemeslné, i krumpéřské a vytkávané z postavce modrého a šarlatu, a červce dvakrát barveného, a bílého hedbáví, a aby dělali všelijaké dílo a vymýšleli vtipné věci. 
+**[35:35]** Naplnil je moudrostí srdce, aby dělali všelijaké dílo tesařské a řemeslné, i krumpéřské a vytkávané z postavce modrého a šarlatu, a červce dvakrát barveného, a bílého hedbáví, a aby dělali všelijaké dílo a vymýšleli vtipné věci.
 
 ### Chapter 36
 
@@ -5384,7 +5384,7 @@
 
 **[36:37]** Udělal také zastření ke dveřům stánku z postavce modrého, z šarlatu a z červce dvakrát barveného a z bílého hedbáví přesukovaného, dílem krumpéřským,
 
-**[36:38]** A sloupů k tomu zastření pět s háky jejich, (obložil pak makovice a přepásaní jich zlatem,) a podstavků pět měděných. 
+**[36:38]** A sloupů k tomu zastření pět s háky jejich, (obložil pak makovice a přepásaní jich zlatem,) a podstavků pět měděných.
 
 ### Chapter 37
 
@@ -5444,7 +5444,7 @@
 
 **[37:28]** A zdělal ty sochory z dříví setim, a obložil je zlatem.
 
-**[37:29]** Nadělal také oleje pomazání svatého, a kadidla z vonných věcí, čistého, dílem apatykářským. 
+**[37:29]** Nadělal také oleje pomazání svatého, a kadidla z vonných věcí, čistého, dílem apatykářským.
 
 ### Chapter 38
 
@@ -5508,7 +5508,7 @@
 
 **[38:30]** A udělal z ní podstavky ke dveřům stánku svědectví a oltář měděný, a rošt měděný k němu, a všecky nádoby oltáře,
 
-**[38:31]** A podstavky síně vůkol a podstavky brány síně, všecky také kolíky příbytku a všecky kolíky síňce vůkol. 
+**[38:31]** A podstavky síně vůkol a podstavky brány síně, všecky také kolíky příbytku a všecky kolíky síňce vůkol.
 
 ### Chapter 39
 
@@ -5596,7 +5596,7 @@
 
 **[39:42]** Vedlé všeho, což přikázal Hospodin Mojžíšovi, tak udělali synové Izraelští všecko to dílo.
 
-**[39:43]** A viděl Mojžíš všecko to dílo, a aj, udělali je, jakž byl přikázal Hospodin, tak udělali. I požehnal jim Mojžíš. 
+**[39:43]** A viděl Mojžíš všecko to dílo, a aj, udělali je, jakž byl přikázal Hospodin, tak udělali. I požehnal jim Mojžíš.
 
 ### Chapter 40
 
@@ -5674,7 +5674,7 @@
 
 **[40:37]** Pakli se neodnášel oblak, nehýbali se až do dne, v němž se zdvihl.
 
-**[40:38]** A byl oblak Hospodinův nad příbytkem ve dne, a oheň býval v noci na něm, před očima všeho domu Izraelského ve všech taženích jejich.  
+**[40:38]** A byl oblak Hospodinův nad příbytkem ve dne, a oheň býval v noci na něm, před očima všeho domu Izraelského ve všech taženích jejich.
 
 ## Leviticus
 
@@ -5712,7 +5712,7 @@
 
 **[1:16]** Odejme také vole jeho s nečistotami jeho, a povrže je blízko oltáře k straně východní na místo, kdež jest popel.
 
-**[1:17]** A natrhne ho za křídla jeho, kterýchž však neodtrhne. I páliti bude je kněz na oltáři na dříví, kteréž jest na ohni; zápalť jest v obět ohnivou, vůně spokojující Hospodina. 
+**[1:17]** A natrhne ho za křídla jeho, kterýchž však neodtrhne. I páliti bude je kněz na oltáři na dříví, kteréž jest na ohni; zápalť jest v obět ohnivou, vůně spokojující Hospodina.
 
 ### Chapter 2
 
@@ -5746,7 +5746,7 @@
 
 **[2:15]** A poleješ ji svrchu olejem, kadidlo také vložíš na ni; obět suchá jest.
 
-**[2:16]** I páliti bude kněz pamětné její z obilí zetřeného, a z oleje toho, se vším tím kadidlem jejím; v obět ohnivou bude Hospodinu. 
+**[2:16]** I páliti bude kněz pamětné její z obilí zetřeného, a z oleje toho, se vším tím kadidlem jejím; v obět ohnivou bude Hospodinu.
 
 ### Chapter 3
 
@@ -5782,7 +5782,7 @@
 
 **[3:16]** I páliti to bude kněz na oltáři, pokrm oběti ohnivé u vůni příjemnou. Všecken tuk Hospodinu bude.
 
-**[3:17]** Právem věčným po rodech vašich, ve všech příbytcích vašich žádného tuku a žádné krve nebudete jísti. 
+**[3:17]** Právem věčným po rodech vašich, ve všech příbytcích vašich žádného tuku a žádné krve nebudete jísti.
 
 ### Chapter 4
 
@@ -5854,7 +5854,7 @@
 
 **[4:34]** Potom vezma kněz krve z oběti té za hřích na prst svůj, pomaže rohů oltáře zápalu, ostatek pak krve její vyleje k spodku oltáře.
 
-**[4:35]** Všecken také tuk její odejme, jakž se odjímá tuk beránka z obětí pokojných, a páliti jej bude kněz na oltáři v obět ohnivou Hospodinu. A tak očistí jej kněz od hříchu jeho, kterýmž zhřešil, a odpuštěn bude jemu. 
+**[4:35]** Všecken také tuk její odejme, jakž se odjímá tuk beránka z obětí pokojných, a páliti jej bude kněz na oltáři v obět ohnivou Hospodinu. A tak očistí jej kněz od hříchu jeho, kterýmž zhřešil, a odpuštěn bude jemu.
 
 ### Chapter 5
 
@@ -5894,7 +5894,7 @@
 
 **[5:18]** A přivede skopce bez poškvrny z drobného dobytka vedlé ceny tvé v obět za vinu k knězi. I očistí jej kněz od poblouzení jeho, kterýmž pobloudil a o němž nevěděl, a bude mu odpuštěno.
 
-**[5:19]** Obět za provinění jest, nebo zavinil Hospodinu. 
+**[5:19]** Obět za provinění jest, nebo zavinil Hospodinu.
 
 ### Chapter 6
 
@@ -5956,7 +5956,7 @@
 
 **[6:29]** Všeliký pohlaví mužského mezi kněžími jísti to bude; svaté svatých jest.
 
-**[6:30]** Ale žádná obět za hřích, (z jejížto krve něco vneseno bylo by do stánku úmluvy k očištění v svatyni,) nebude jedena; ohněm spálena bude. 
+**[6:30]** Ale žádná obět za hřích, (z jejížto krve něco vneseno bylo by do stánku úmluvy k očištění v svatyni,) nebude jedena; ohněm spálena bude.
 
 ### Chapter 7
 
@@ -6034,7 +6034,7 @@
 
 **[7:37]** Tenť jest řád oběti zápalné, oběti suché, oběti za hřích, oběti za vinu, a posvěcování i obětí pokojných,
 
-**[7:38]** Kteréž přikázal Hospodin Mojžíšovi na hoře Sinai toho dne, když přikázal synům Izraelským, aby obětovali oběti své Hospodinu na poušti Sinai. 
+**[7:38]** Kteréž přikázal Hospodin Mojžíšovi na hoře Sinai toho dne, když přikázal synům Izraelským, aby obětovali oběti své Hospodinu na poušti Sinai.
 
 ### Chapter 8
 
@@ -6108,7 +6108,7 @@
 
 **[8:35]** Protož u dveří stánku úmluvy zůstanete ve dne i v noci za sedm dní, a ostříhati budete nařízení Hospodinova, abyste nezemřeli; nebo tak mi jest přikázáno.
 
-**[8:36]** Učinil tedy Aron i synové jeho všecky věci, kteréž přikázal Hospodin skrze Mojžíše. 
+**[8:36]** Učinil tedy Aron i synové jeho všecky věci, kteréž přikázal Hospodin skrze Mojžíše.
 
 ### Chapter 9
 
@@ -6158,7 +6158,7 @@
 
 **[9:23]** Tedy všel Mojžíš s Aronem do stánku úmluvy; a když vycházeli z něho, požehnání dávali lidu. I ukázala se sláva Hospodinova všemu lidu.
 
-**[9:24]** Nebo sstoupil oheň od tváři Hospodina, a spálil na oltáři obět zápalnou i všecken tuk. Což když uzřel veškeren lid, zkřikli a padli na tváři své. 
+**[9:24]** Nebo sstoupil oheň od tváři Hospodina, a spálil na oltáři obět zápalnou i všecken tuk. Což když uzřel veškeren lid, zkřikli a padli na tváři své.
 
 ### Chapter 10
 
@@ -6200,7 +6200,7 @@
 
 **[10:19]** Tedy odpověděl Aron Mojžíšovi: Aj, dnes obětovali obět svou za hřích a obět svou zápalnou před Hospodinem, ale přihodila se mně taková věc, že, kdybych byl jedl obět za hřích dnes, zdali by se to líbilo Hospodinu?
 
-**[10:20]** Což když uslyšel Mojžíš, přestal na tom. 
+**[10:20]** Což když uslyšel Mojžíš, přestal na tom.
 
 ### Chapter 11
 
@@ -6296,7 +6296,7 @@
 
 **[11:46]** Toť jest právo strany hovada, ptactva a všeliké duše živé, kteráž se hýbe u vodách, a každé duše živé, kteráž se plazí na zemi,
 
-**[11:47]** Aby rozdíl činěn byl mezi nečistým a čistým, a mezi živočichy, kteříž se mají jísti, a mezi živočichy, kteříž se nemají jísti. 
+**[11:47]** Aby rozdíl činěn byl mezi nečistým a čistým, a mezi živočichy, kteříž se mají jísti, a mezi živočichy, kteříž se nemají jísti.
 
 ### Chapter 12
 
@@ -6314,7 +6314,7 @@
 
 **[12:7]** Kterýž obětovati ji bude před Hospodinem, a očistí ji, a tak očištěna bude od toku krve své. Ten jest zákon té, kteráž porodila pacholíka aneb děvečku.
 
-**[12:8]** Pakli nebude moci býti s beránka, tedy vezme dvé hrdličátek, aneb dvé holoubátek, jedno v obět zápalnou a druhé v obět za hřích. I očistí ji kněz, a tak čistá bude. 
+**[12:8]** Pakli nebude moci býti s beránka, tedy vezme dvé hrdličátek, aneb dvé holoubátek, jedno v obět zápalnou a druhé v obět za hřích. I očistí ji kněz, a tak čistá bude.
 
 ### Chapter 13
 
@@ -6434,7 +6434,7 @@
 
 **[13:58]** Roucho pak aneb osnovu, aneb outek, aneb kteroukoli nádobu koženou, když bys zepral, a odešla by od ní ta rána, ještě po druhé zpéřeš, a čisté bude.
 
-**[13:59]** Tenť jest zákon o ráně malomocenství na rouchu soukenném aneb lněném, aneb na osnově, aneb na outku, aneb na kterékoli nádobě kožené, kterak má za čistou aneb za nečistou uznána býti. 
+**[13:59]** Tenť jest zákon o ráně malomocenství na rouchu soukenném aneb lněném, aneb na osnově, aneb na outku, aneb na kterékoli nádobě kožené, kterak má za čistou aneb za nečistou uznána býti.
 
 ### Chapter 14
 
@@ -6550,7 +6550,7 @@
 
 **[14:56]** I otekliny, prašiviny a poškvrny pobělavé,
 
-**[14:57]** K ukázání, kdy jest kdo čistý, aneb kdy jest kdo nečistý. Tenť jest zákon malomocenství. 
+**[14:57]** K ukázání, kdy jest kdo čistý, aneb kdy jest kdo nečistý. Tenť jest zákon malomocenství.
 
 ### Chapter 15
 
@@ -6618,7 +6618,7 @@
 
 **[15:32]** Toť jest právo trpícího tok semene, i toho, z něhož vychází símě scházení, jímž poškvrněn bývá,
 
-**[15:33]** Též nemocné ženy v oddělení jejím, i všelikého trpícího tok svůj, buď mužského pohlaví neb ženského, a muže, kterýž by spal s nečistou. 
+**[15:33]** Též nemocné ženy v oddělení jejím, i všelikého trpícího tok svůj, buď mužského pohlaví neb ženského, a muže, kterýž by spal s nečistou.
 
 ### Chapter 16
 
@@ -6688,7 +6688,7 @@
 
 **[16:33]** A očistí svatyni svatou a stánek úmluvy, očistí také i oltář, i kněží, i všecken lid shromážděný očistí.
 
-**[16:34]** A bude vám to ustanovením věčným k očišťování synů Izraelských ode všech hříchů jejich, každého roku jednou. I učinil Mojžíš tak, jakž jemu byl přikázal Hospodin. 
+**[16:34]** A bude vám to ustanovením věčným k očišťování synů Izraelských ode všech hříchů jejich, každého roku jednou. I učinil Mojžíš tak, jakž jemu byl přikázal Hospodin.
 
 ### Chapter 17
 
@@ -6722,7 +6722,7 @@
 
 **[17:15]** Kdož by pak koli jedl tělo mrtvé aneb udávené, buď on doma zrozený aneb příchozí: zpéře roucha svá, a umyje se vodou, a nečistý bude až do večera, potom pak čistý bude.
 
-**[17:16]** A pakli nezpéře roucha svého, a těla svého neumyje, tedy ponese nepravost svou. 
+**[17:16]** A pakli nezpéře roucha svého, a těla svého neumyje, tedy ponese nepravost svou.
 
 ### Chapter 18
 
@@ -6784,7 +6784,7 @@
 
 **[18:29]** Nebo kdož by koli dopustil se některé ze všech ohavností těch: duše zajisté, kteréž by činily to, vyhlazeny budou z prostředku lidu svého.
 
-**[18:30]** Protož ostříhejte přikázaní mých, abyste nečinili ničeho z obyčejů ohavných, kteříž činěni jsou před vámi, aniž sebe jimi poškvrňujte: Já jsem Hospodin Bůh váš. 
+**[18:30]** Protož ostříhejte přikázaní mých, abyste nečinili ničeho z obyčejů ohavných, kteříž činěni jsou před vámi, aniž sebe jimi poškvrňujte: Já jsem Hospodin Bůh váš.
 
 ### Chapter 19
 
@@ -6860,7 +6860,7 @@
 
 **[19:36]** Závaží spravedlivé, kámen spravedlivý, korec spravedlivý, pintu spravedlivou míti budete: Já jsem Hospodin Bůh váš, kterýž jsem vás vyvedl z země Egyptské.
 
-**[19:37]** Protož ostříhejte všech ustanovení mých a všech soudů mých, a čiňte je, nebo já jsem Hospodin. 
+**[19:37]** Protož ostříhejte všech ustanovení mých a všech soudů mých, a čiňte je, nebo já jsem Hospodin.
 
 ### Chapter 20
 
@@ -6916,7 +6916,7 @@
 
 **[20:26]** Ale budete mi svatí; nebo svatý jsem já Hospodin, a oddělil jsem vás od jiných národů, abyste byli moji.
 
-**[20:27]** Muž pak neb žena, kteříž by měli ducha čarodějného a věštího, smrtí umrou. Kamením uházejí je, krev jejich bude na ně. 
+**[20:27]** Muž pak neb žena, kteříž by měli ducha čarodějného a věštího, smrtí umrou. Kamením uházejí je, krev jejich bude na ně.
 
 ### Chapter 21
 
@@ -6966,7 +6966,7 @@
 
 **[21:23]** Ale za oponu nebude vcházeti a k oltáři nebude přistupovati, nebo vada jest na něm, aby nepoškvrnil svatyně mé; nebo já jsem Hospodin posvětitel jejich.
 
-**[21:24]** Ta slova mluvil Mojžíš k Aronovi a k synům jeho, i ke všechněm synům Izraelským. 
+**[21:24]** Ta slova mluvil Mojžíš k Aronovi a k synům jeho, i ke všechněm synům Izraelským.
 
 ### Chapter 22
 
@@ -7034,7 +7034,7 @@
 
 **[22:32]** A nepoškvrňujte jména svatého mého, i buduť posvěcen u prostřed synů Izraelských: Já jsem Hospodin posvětitel váš,
 
-**[22:33]** Kterýž jsem vás vyvedl z země Egyptské, abych vám byl za Boha: Já jsem Hospodin. 
+**[22:33]** Kterýž jsem vás vyvedl z země Egyptské, abych vám byl za Boha: Já jsem Hospodin.
 
 ### Chapter 23
 
@@ -7124,7 +7124,7 @@
 
 **[23:43]** Aby věděli potomci vaši, že jsem choval v staních syny Izraelské, když jsem je vyvedl z země Egyptské: Já Hospodin Bůh váš.
 
-**[23:44]** I oznámil Mojžíš slavnosti Hospodinovy synům Izraelským. 
+**[23:44]** I oznámil Mojžíš slavnosti Hospodinovy synům Izraelským.
 
 ### Chapter 24
 
@@ -7172,7 +7172,7 @@
 
 **[24:22]** Jednostejné právo míti budete. Jakož příchozímu, tak domácímu stane se; nebo já jsem Hospodin Bůh váš.
 
-**[24:23]** Tedy mluvil Mojžíš k synům Izraelským ty věci. I vyvedli toho ruhače ven za stany, a kamením ho zametali. Učinili, pravím, synové Izraelští vedlé toho, jakož přikázal Hospodin Mojžíšovi. 
+**[24:23]** Tedy mluvil Mojžíš k synům Izraelským ty věci. I vyvedli toho ruhače ven za stany, a kamením ho zametali. Učinili, pravím, synové Izraelští vedlé toho, jakož přikázal Hospodin Mojžíšovi.
 
 ### Chapter 25
 
@@ -7284,7 +7284,7 @@
 
 **[25:54]** Pakli by se nevyplatil v těch letech, tedy vyjde léta milostivého on, i synové jeho s ním.
 
-**[25:55]** Nebo synové Izraelští jsou moji služebníci, služebníci moji jsou, kteréž jsem vyvedl z země Egyptské: Já Hospodin Bůh váš. 
+**[25:55]** Nebo synové Izraelští jsou moji služebníci, služebníci moji jsou, kteréž jsem vyvedl z země Egyptské: Já Hospodin Bůh váš.
 
 ### Chapter 26
 
@@ -7378,7 +7378,7 @@
 
 **[26:45]** Ale rozpomenu se na ně pro smlouvu učiněnou s předky jejich, kteréž jsem vyvedl z země Egyptské před očima pohanů, abych jim byl za Boha: Já Hospodin.
 
-**[26:46]** Ta jsou ustanovení a soudové, i zákonové, kteréž vydal Hospodin na hoře Sinai skrze Mojžíše, aby byli mezi ním a mezi syny Izraelskými. 
+**[26:46]** Ta jsou ustanovení a soudové, i zákonové, kteréž vydal Hospodin na hoře Sinai skrze Mojžíše, aby byli mezi ním a mezi syny Izraelskými.
 
 ### Chapter 27
 
@@ -7448,7 +7448,7 @@
 
 **[27:33]** Nebude vyhledávati, dobré-li by bylo čili zlé, aniž ho smění. Pakli je předce smění, bude to i ono odměněné svaté, a nebude vyplaceno.
 
-**[27:34]** Ta jsou přikázaní, kteráž přikázal Hospodin Mojžíšovi na hoře Sinai, aby je oznámil synům Izraelským.  
+**[27:34]** Ta jsou přikázaní, kteráž přikázal Hospodin Mojžíšovi na hoře Sinai, aby je oznámil synům Izraelským.
 
 ## Numbers
 
@@ -7560,7 +7560,7 @@
 
 **[1:53]** Levítové pak klásti se budou vůkol příbytku svědectví, aby nepřišlo rozhněvání mé na shromáždění synů Izraelských; i budou Levítové držeti stráž u příbytku svědectví.
 
-**[1:54]** Učinili tedy to synové Izraelští; všecko, jakž přikázal Hospodin Mojžíšovi, tak učinili. 
+**[1:54]** Učinili tedy to synové Izraelští; všecko, jakž přikázal Hospodin Mojžíšovi, tak učinili.
 
 ### Chapter 2
 
@@ -7630,7 +7630,7 @@
 
 **[2:33]** Levítové pak nejsou počítáni mezi syny Izraelské, jakož přikázal Hospodin Mojžíšovi.
 
-**[2:34]** I učinili synové Izraelští všecko; jakž přikázal Hospodin Mojžíšovi, tak rozbijeli stany při korouhvech svých, a tak táhli jeden každý po čeledech svých a po domích otců svých. 
+**[2:34]** I učinili synové Izraelští všecko; jakž přikázal Hospodin Mojžíšovi, tak rozbijeli stany při korouhvech svých, a tak táhli jeden každý po čeledech svých a po domích otců svých.
 
 ### Chapter 3
 
@@ -7734,7 +7734,7 @@
 
 **[3:50]** Od prvorozených synů Izraelských vzal peněz tisíc, tři sta, šedesáte pět lotů, vedlé lotu svatyně.
 
-**[3:51]** I dal ty peníze výplaty Aronovi a synům jeho, podlé řeči Hospodinovy, jakož byl přikázal jemu Hospodin. 
+**[3:51]** I dal ty peníze výplaty Aronovi a synům jeho, podlé řeči Hospodinovy, jakož byl přikázal jemu Hospodin.
 
 ### Chapter 4
 
@@ -7834,7 +7834,7 @@
 
 **[4:48]** Sečtených těch bylo osm tisíců, pět set a osmdesáte.
 
-**[4:49]** Vedlé rozkazu Hospodinova sečtl je Mojžíš, jednoho každého vedlé přisluhování jeho, a vedlé břemene jeho. Sečteni pak jsou ti, kteréž rozkázal čísti Hospodin Mojžíšovi. 
+**[4:49]** Vedlé rozkazu Hospodinova sečtl je Mojžíš, jednoho každého vedlé přisluhování jeho, a vedlé břemene jeho. Sečteni pak jsou ti, kteréž rozkázal čísti Hospodin Mojžíšovi.
 
 ### Chapter 5
 
@@ -7898,7 +7898,7 @@
 
 **[5:30]** Aneb když by se pohnul duch veliké horlivosti v manželu, tak že by horlil velmi proti ženě své, aby postavil ji před Hospodinem, a aby vykonal při ní kněz všecko vedlé zákona tohoto.
 
-**[5:31]** I bude ten muž očištěn od hříchu, žena pak ponese nepravost svou. 
+**[5:31]** I bude ten muž očištěn od hříchu, žena pak ponese nepravost svou.
 
 ### Chapter 6
 
@@ -7954,7 +7954,7 @@
 
 **[6:26]** Obratiž Hospodin tvář svou k tobě, a dejž tobě pokoj.
 
-**[6:27]** I budou vzývati jméno mé nad syny Izraelskými, a já jim žehnati budu. 
+**[6:27]** I budou vzývati jméno mé nad syny Izraelskými, a já jim žehnati budu.
 
 ### Chapter 7
 
@@ -8134,7 +8134,7 @@
 
 **[7:88]** Všeho pak dobytka k oběti pokojné čtyřmecítma volů, skopců šedesáte, kozlů šedesáte, beránků ročních šedesáte. To bylo posvěcení oltáře, když pomazán byl.
 
-**[7:89]** Potom když vcházel Mojžíš do stánku úmluvy, aby mluvil s Bohem, tedy slýchal hlas mluvícího k sobě z slitovnice, kteráž byla nad truhlou svědectví mezi dvěma cherubíny, a mluvíval k němu. 
+**[7:89]** Potom když vcházel Mojžíš do stánku úmluvy, aby mluvil s Bohem, tedy slýchal hlas mluvícího k sobě z slitovnice, kteráž byla nad truhlou svědectví mezi dvěma cherubíny, a mluvíval k němu.
 
 ### Chapter 8
 
@@ -8188,7 +8188,7 @@
 
 **[8:25]** V padesáti pak letech přestane od práce služby té, a více přisluhovati nebude.
 
-**[8:26]** Ale přisluhovati bude bratřím svým při stánku úmluvy stráž držícím, sám pak služeb konati nebude. Tak učiníš s Levíty při pracech jejich. 
+**[8:26]** Ale přisluhovati bude bratřím svým při stánku úmluvy stráž držícím, sám pak služeb konati nebude. Tak učiníš s Levíty při pracech jejich.
 
 ### Chapter 9
 
@@ -8236,7 +8236,7 @@
 
 **[9:22]** Buď že za dva dni, aneb za měsíc, aneb za rok prodléval oblak nad příbytkem, zůstávaje nad ním, synové Izraelští také leželi, a nehnuli se; když pak on vznášel se, též i oni táhli.
 
-**[9:23]** K rozkazu Hospodinovu kladli se, a k rozkazu Hospodinovu hýbali se, stráž Hospodinovu držíce podlé rozkazu jeho skrze Mojžíše. 
+**[9:23]** K rozkazu Hospodinovu kladli se, a k rozkazu Hospodinovu hýbali se, stráž Hospodinovu držíce podlé rozkazu jeho skrze Mojžíše.
 
 ### Chapter 10
 
@@ -8310,7 +8310,7 @@
 
 **[10:35]** Když pak počínali jíti s truhlou, říkával Mojžíš: Povstaniž Hospodine, a rozptýleni buďte nepřátelé tvoji, a ať utíkají před tváří tvou, kteříž tě v nenávisti mají.
 
-**[10:36]** Když pak stavína byla, říkával: Navratiž se, Hospodine, k desíti tisícům tisíců Izraelských. 
+**[10:36]** Když pak stavína byla, říkával: Navratiž se, Hospodine, k desíti tisícům tisíců Izraelských.
 
 ### Chapter 11
 
@@ -8382,7 +8382,7 @@
 
 **[11:34]** Protož nazváno jest jméno místa toho Kibrot Hattáve; nebo tu pochovali lid, kterýž žádal masa.
 
-**[11:35]** I bral se lid z Kibrot Hattáve na poušť Hazerot, a pozůstali v Hazerot. 
+**[11:35]** I bral se lid z Kibrot Hattáve na poušť Hazerot, a pozůstali v Hazerot.
 
 ### Chapter 12
 
@@ -8416,7 +8416,7 @@
 
 **[12:15]** Tedy vyloučena jest Maria ven z stanů za sedm dní; a lid nehnul se odtud, až zase uvedena jest Maria.
 
-**[12:16]** Potom pak bral se lid z Hazerot, a položil se na poušti Fáran. 
+**[12:16]** Potom pak bral se lid z Hazerot, a položil se na poušti Fáran.
 
 ### Chapter 13
 
@@ -8484,7 +8484,7 @@
 
 **[13:32]** I zhaněli a zošklivili zemi shlédnutou synům Izraelským, mluvíce: Země, již jsme prošli a spatřili, jest země taková, ješto hubí obyvatele své; a všecken lid, kterýž jsme viděli u prostřed ní, jsou muži postavy vysoké velmi.
 
-**[13:33]** Také jsme tam viděli obry, syny Enakovy, kteříž jsou větší než jiní obrové, ješto se nám zdálo, že jsme proti nim jako kobylky, a takoví jsme se i jim zdáli. 
+**[13:33]** Také jsme tam viděli obry, syny Enakovy, kteříž jsou větší než jiní obrové, ješto se nám zdálo, že jsme proti nim jako kobylky, a takoví jsme se i jim zdáli.
 
 ### Chapter 14
 
@@ -8576,7 +8576,7 @@
 
 **[14:44]** Oni pak předce usilovali vstoupiti na vrch hory, ale truhla smlouvy Hospodinovy a Mojžíš nevycházeli z stanů.
 
-**[14:45]** Tedy sstoupili Amalechitský a Kananejský, kteříž bydlili na těch horách, a porazili je, a potírali je až do Horma. 
+**[14:45]** Tedy sstoupili Amalechitský a Kananejský, kteříž bydlili na těch horách, a porazili je, a potírali je až do Horma.
 
 ### Chapter 15
 
@@ -8660,7 +8660,7 @@
 
 **[15:40]** Ale abyste pamatovali a činili všecka přikázaní má, a byli svatí Bohu svému.
 
-**[15:41]** Já jsem Hospodin Bůh váš, kterýž jsem vyvedl vás z země Egyptské, abych vám byl za Boha: Já Hospodin Bůh váš. 
+**[15:41]** Já jsem Hospodin Bůh váš, kterýž jsem vyvedl vás z země Egyptské, abych vám byl za Boha: Já Hospodin Bůh váš.
 
 ### Chapter 16
 
@@ -8718,7 +8718,7 @@
 
 **[16:27]** I odstoupili se všech stran od příbytku Chóre, Dátana a Abirona; ale Dátan a Abiron vyšedše, stáli u dveří stanů svých, i ženy jejich a synové jejich, i maličcí jejich.
 
-**[16:28]** Tedy řekl Mojžíš: Po tomto poznáte, že Hospodin poslal mne, abych činil všecky skutky tyto, a že nic o své ujmě nečiním:
+**[16:28]** Tedy řekl Mojžíš: Po tomto poznáte, že Hospodin poslal mne, abych činil všecky skutky tyto, a že nic o své ujmě ne činím:
 
 **[16:29]** Jestliže tak jako jiní lidé mrou, zemrou i tito, a navštívením obecným všechněm lidem jestliže navštíveni budou, neposlal mne Hospodin.
 
@@ -8762,7 +8762,7 @@
 
 **[16:49]** Bylo pak těch, kteříž od té rány zemřeli, čtrnácte tisíců a sedm set, kromě těch, jenž zemřeli příčinou Chóre.
 
-**[16:50]** I navrátil se Aron k Mojžíšovi, ke dveřím stánku úmluvy, když ta rána přetržena byla. 
+**[16:50]** I navrátil se Aron k Mojžíšovi, ke dveřím stánku úmluvy, když ta rána přetržena byla.
 
 ### Chapter 17
 
@@ -8790,7 +8790,7 @@
 
 **[17:12]** Tedy mluvili synové Izraelští k Mojžíšovi, řkouce: Hle, již mřeme, mizíme a všickni my hyneme.
 
-**[17:13]** Kdožkoli blízko přistoupá k příbytku Hospodinovu, umírá. Všickni-liž smrtí zhyneme? 
+**[17:13]** Kdožkoli blízko přistoupá k příbytku Hospodinovu, umírá. Všickni-liž smrtí zhyneme?
 
 ### Chapter 18
 
@@ -8856,7 +8856,7 @@
 
 **[18:31]** Jísti pak budete ty desátky na všelikém místě vy i čeled vaše; nebo mzda vaše jest za službu vaši při stánku úmluvy.
 
-**[18:32]** A neponesete pro to hříchu, když obětovati budete to, což nejlepšího jest; a tak nepoškvrníte věcí posvěcených od synů Izraelských, a nezemřete. 
+**[18:32]** A neponesete pro to hříchu, když obětovati budete to, což nejlepšího jest; a tak nepoškvrníte věcí posvěcených od synů Izraelských, a nezemřete.
 
 ### Chapter 19
 
@@ -8902,7 +8902,7 @@
 
 **[19:21]** I bude jim to za ustanovení věčné. Kdož by pak tou vodou očišťování kropil, zpéře roucha svá, a kdož by se dotkl vody očišťování, nečistý bude až do večera.
 
-**[19:22]** Čehokoli dotkl by se nečistý, nečisté bude; člověk také, kterýž by se dotkl toho, nečistý bude až do večera. 
+**[19:22]** Čehokoli dotkl by se nečistý, nečisté bude; člověk také, kterýž by se dotkl toho, nečistý bude až do večera.
 
 ### Chapter 20
 
@@ -8962,7 +8962,7 @@
 
 **[20:28]** A svlékl Mojžíš Arona z roucha jeho, a oblékl v ně Eleazara syna jeho. I umřel tam Aron na pahrbku hory, Mojžíš pak a Eleazar sstoupili s hory.
 
-**[20:29]** Vidouce pak všecko množství, že umřel Aron, plakali ho za třidceti dní všecken dům Izraelský. 
+**[20:29]** Vidouce pak všecko množství, že umřel Aron, plakali ho za třidceti dní všecken dům Izraelský.
 
 ### Chapter 21
 
@@ -9034,7 +9034,7 @@
 
 **[21:34]** Tedy řekl Hospodin Mojžíšovi: Neboj se ho; nebo v ruce tvé dal jsem jej, i všecken lid jeho, i zemi jeho, a učiníš jemu tak, jakož jsi učinil Seonovi, králi Amorejskému, kterýž bydlil v Ezebon.
 
-**[21:35]** I porazili jej i syny jeho, i všecken lid jeho, tak že žádný živý po něm nezůstal, a uvázali se dědičně v zemi jeho. 
+**[21:35]** I porazili jej i syny jeho, i všecken lid jeho, tak že žádný živý po něm nezůstal, a uvázali se dědičně v zemi jeho.
 
 ### Chapter 22
 
@@ -9118,7 +9118,7 @@
 
 **[22:40]** Kdežto nabiv Balák volů a ovec, poslal k Balámovi a k knížatům, kteříž s ním byli.
 
-**[22:41]** Nazejtří pak ráno, pojav Balák Baláma, uvedl ho na výsosti modly Bál, odkudž shlédl i nejdalší díl lidu Izraelského. 
+**[22:41]** Nazejtří pak ráno, pojav Balák Baláma, uvedl ho na výsosti modly Bál, odkudž shlédl i nejdalší díl lidu Izraelského.
 
 ### Chapter 23
 
@@ -9180,7 +9180,7 @@
 
 **[23:29]** Tedy řekl Balám Balákovi: Udělej mi tuto sedm oltářů, a připrav mi také sedm volků a sedm skopců.
 
-**[23:30]** I učinil Balák, jakž řekl Balám, a obětoval volka a skopce na každém oltáři. 
+**[23:30]** I učinil Balák, jakž řekl Balám, a obětoval volka a skopce na každém oltáři.
 
 ### Chapter 24
 
@@ -9232,7 +9232,7 @@
 
 **[24:24]** A bárky z země Citim připlynou a ssouží Assyrské, ssouží také Židy, ale i ten lid do konce zahyne.
 
-**[24:25]** Potom vstav Balám, odšel a navrátil se na místo své; Balák také odšel cestou svou. 
+**[24:25]** Potom vstav Balám, odšel a navrátil se na místo své; Balák také odšel cestou svou.
 
 ### Chapter 25
 
@@ -9270,7 +9270,7 @@
 
 **[25:17]** Nepřátelsky zacházejte s těmi Madianskými, a zbíte je.
 
-**[25:18]** Nebo i oni nepřátelsky a lstivě chovali se k vám, a oklamali vás skrze modlu Fegor, a skrze Kozbu, dceru knížete Madianského, sestru svou, kteráž zabita jest v den pomsty přišlé z příčiny Fegor. 
+**[25:18]** Nebo i oni nepřátelsky a lstivě chovali se k vám, a oklamali vás skrze modlu Fegor, a skrze Kozbu, dceru knížete Madianského, sestru svou, kteráž zabita jest v den pomsty přišlé z příčiny Fegor.
 
 ### Chapter 26
 
@@ -9402,7 +9402,7 @@
 
 **[26:64]** Mezi těmito pak nebyl žádný z oněch sečtených od Mojžíše a Arona kněze, když počítali syny Izraelské na poušti Sinai;
 
-**[26:65]** (Nebo řekl byl Hospodin o nich: Smrtí zemrou na poušti;) a žádný z nich nepozůstal, jediné Kálef, syn Jefonův, a Jozue, syn Nun. 
+**[26:65]** (Nebo řekl byl Hospodin o nich: Smrtí zemrou na poušti;) a žádný z nich nepozůstal, jediné Kálef, syn Jefonův, a Jozue, syn Nun.
 
 ### Chapter 27
 
@@ -9450,7 +9450,7 @@
 
 **[27:22]** I učinil Mojžíš tak, jakž mu byl rozkázal Hospodin, a pojav Jozue, postavil jej před Eleazarem knězem a přede vším shromážděním.
 
-**[27:23]** A vloživ ruce své na něj, dal jemu naučení, jakž mluvil Hospodin skrze Mojžíše. 
+**[27:23]** A vloživ ruce své na něj, dal jemu naučení, jakž mluvil Hospodin skrze Mojžíše.
 
 ### Chapter 28
 
@@ -9514,7 +9514,7 @@
 
 **[28:30]** Kozla jednoho k očištění vašemu.
 
-**[28:31]** To mimo obět zápalnou ustavičnou, a obět suchou její obětovati budete; bez poškvrny ať jsou s obětmi svými mokrými. 
+**[28:31]** To mimo obět zápalnou ustavičnou, a obět suchou její obětovati budete; bez poškvrny ať jsou s obětmi svými mokrými.
 
 ### Chapter 29
 
@@ -9596,7 +9596,7 @@
 
 **[29:39]** Ty věci vykonávati budete Hospodinu při slavnostech vašich, kromě toho, což byste z slibu aneb z dobré vůle své obětovali, buď zápalné, aneb suché, aneb mokré, aneb pokojné oběti vaše.
 
-**[29:40]** I oznámil Mojžíš synům Izraelským všecky ty věci, kteréž přikázal jemu Hospodin. 
+**[29:40]** I oznámil Mojžíš synům Izraelským všecky ty věci, kteréž přikázal jemu Hospodin.
 
 ### Chapter 30
 
@@ -9630,7 +9630,7 @@
 
 **[30:15]** Jestliže by pak slyše, potom teprv zrušiti to chtěl, tedy on ponese nepravost její.
 
-**[30:16]** Ta jsou ustanovení, kteráž přikázal Hospodin Mojžíšovi, mezi mužem a ženou jeho, mezi otcem a dcerou jeho v mladosti její, dokudž jest v domě otce svého. 
+**[30:16]** Ta jsou ustanovení, kteráž přikázal Hospodin Mojžíšovi, mezi mužem a ženou jeho, mezi otcem a dcerou jeho v mladosti její, dokudž jest v domě otce svého.
 
 ### Chapter 31
 
@@ -9740,7 +9740,7 @@
 
 **[31:53]** (Muži zajisté bojovní, což loupeží vzali, to sobě měli.)
 
-**[31:54]** A vzavše Mojžíš a Eleazar kněz od hejtmanů nad tisíci a setníků to zlato, vnesli je do stánku úmluvy, na památku synů Izraelských před Hospodinem. 
+**[31:54]** A vzavše Mojžíš a Eleazar kněz od hejtmanů nad tisíci a setníků to zlato, vnesli je do stánku úmluvy, na památku synů Izraelských před Hospodinem.
 
 ### Chapter 32
 
@@ -9826,7 +9826,7 @@
 
 **[32:41]** Jair také syn Manassesův táhl a vzal vsi jejich, a nazval je vsi Jairovy.
 
-**[32:42]** Nobe také táhl, a vzal Kanat a městečka jeho, a nazval je Nobe od jména svého. 
+**[32:42]** Nobe také táhl, a vzal Kanat a městečka jeho, a nazval je Nobe od jména svého.
 
 ### Chapter 33
 
@@ -9940,7 +9940,7 @@
 
 **[33:55]** Pakli nevyženete obyvatelů země od tváři své, tedy ti, kterýchž zanecháte, budou vám jako trní v očích vašich, a jako ostnové po bocích vašich, a budou vás ssužovati na zemi, na kteréž vy bydliti budete.
 
-**[33:56]** A na to přijde, abych to, což jsem jim umínil učiniti, vám učinil. 
+**[33:56]** A na to přijde, abych to, což jsem jim umínil učiniti, vám učinil.
 
 ### Chapter 34
 
@@ -10000,7 +10000,7 @@
 
 **[34:28]** A z pokolení synů Neftalím kníže Fedael, syn Amiudův.
 
-**[34:29]** Ti jsou, jimž přikázal Hospodin, aby rozdělili země k dědictví synům Izraelským v zemi Kananejské. 
+**[34:29]** Ti jsou, jimž přikázal Hospodin, aby rozdělili země k dědictví synům Izraelským v zemi Kananejské.
 
 ### Chapter 35
 
@@ -10070,7 +10070,7 @@
 
 **[35:33]** Abyste nepoškvrnili země, v níž jste. Nebo krev taková poškvrnila by země, aniž také země očištěna býti může od krve, kteráž jest vylita na ní, jediné krví toho, kterýž vylil ji.
 
-**[35:34]** Protož nepoškvrňujte země, v kteréž bydlíte, kdežto já přebývám; nebo já Hospodin přebývám u prostřed synů Izraelských. 
+**[35:34]** Protož nepoškvrňujte země, v kteréž bydlíte, kdežto já přebývám; nebo já Hospodin přebývám u prostřed synů Izraelských.
 
 ### Chapter 36
 
@@ -10098,7 +10098,7 @@
 
 **[36:12]** Do čeledi synů Manasse, syna Jozefova, vdaly se, a zůstalo dědictví jejich při pokolení čeledi otce jejich.
 
-**[36:13]** Tato jsou přikázaní a soudové, kteréž přikázal Hospodin skrze Mojžíše synům Izraelským, na rovinách Moábských, při Jordánu proti Jerichu.  
+**[36:13]** Tato jsou přikázaní a soudové, kteréž přikázal Hospodin skrze Mojžíše synům Izraelským, na rovinách Moábských, při Jordánu proti Jerichu.
 
 ## Deuteronomy
 
@@ -10194,7 +10194,7 @@
 
 **[1:45]** A navrátivše se, plakali jste před Hospodinem, ale neuslyšel Hospodin hlasu vašeho, a uší svých nenaklonil k vám.
 
-**[1:46]** I zůstali jste v Kádes za mnohé dny, podlé počtu dnů, v nichž jste tam byli. 
+**[1:46]** I zůstali jste v Kádes za mnohé dny, podlé počtu dnů, v nichž jste tam byli.
 
 ### Chapter 2
 
@@ -10270,7 +10270,7 @@
 
 **[2:36]** Od Aroer jenž jest na břehu potoka Arnon, a od města, kteréž jest v údolí, až do Galád nebylo města, kteréž by ostáti mohlo před námi; všecka nám dal Hospodin Bůh náš.
 
-**[2:37]** Toliko k zemi synů Ammon nepřiblížils se, ani k žádné krajině ležící při potoku Jabok, ani k městům na horách, a k žádnému místu, kteréž zapověděl Hospodin Bůh náš. 
+**[2:37]** Toliko k zemi synů Ammon nepřiblížils se, ani k žádné krajině ležící při potoku Jabok, ani k městům na horách, a k žádnému místu, kteréž zapověděl Hospodin Bůh náš.
 
 ### Chapter 3
 
@@ -10330,7 +10330,7 @@
 
 **[3:28]** Ale přikaž Jozue, a posilň ho, i potvrď ho; nebo půjde před lidem tímto, a on uvede jim v dědictví zemi, kterouž uzříš.
 
-**[3:29]** I zůstali jsme v údolí naproti Betfegor. 
+**[3:29]** I zůstali jsme v údolí naproti Betfegor.
 
 ### Chapter 4
 
@@ -10430,7 +10430,7 @@
 
 **[4:48]** Od Aroer, (jenž leží při břehu potoka Arnon,) až k hoře Sion, kteráž jest Hermon,
 
-**[4:49]** I ve všecku rovinu před Jordánem k východu až k moři pustému, ležící pod horou Fazga. 
+**[4:49]** I ve všecku rovinu před Jordánem k východu až k moři pustému, ležící pod horou Fazga.
 
 ### Chapter 5
 
@@ -10498,7 +10498,7 @@
 
 **[5:32]** Hleďtež tedy, abyste činili, jakž přikázal vám Hospodin Bůh váš; neuchylujte se na pravo ani na levo.
 
-**[5:33]** Po vší té cestě, kterouž vám přikázal Hospodin Bůh váš, choditi budete, abyste živi byli, a dobře bylo vám, a abyste prodlili dnů na zemi, kterouž dědičně obdržíte. 
+**[5:33]** Po vší té cestě, kterouž vám přikázal Hospodin Bůh váš, choditi budete, abyste živi byli, a dobře bylo vám, a abyste prodlili dnů na zemi, kterouž dědičně obdržíte.
 
 ### Chapter 6
 
@@ -10550,7 +10550,7 @@
 
 **[6:24]** Protož přikázal nám Hospodin, abychom ostříhali všech ustanovení těchto, bojíce se Hospodina Boha svého, aby nám dobře bylo po všecky dny, a aby zachoval nás při životu, jakž to činí i v dnešní den.
 
-**[6:25]** A spravedlnost míti budeme, když ostříhati budeme a činiti všecka přikázaní tato před Hospodinem Bohem svým, jakož přikázal nám. 
+**[6:25]** A spravedlnost míti budeme, když ostříhati budeme a činiti všecka přikázaní tato před Hospodinem Bohem svým, jakož přikázal nám.
 
 ### Chapter 7
 
@@ -10604,7 +10604,7 @@
 
 **[7:25]** Ryté bohy jejich ohněm popálíš; nepožádáš stříbra a zlata, kteréž jest na nich, aniž ho sobě vezmeš, aby nebylo tobě osídlem, nebo ohavnost jest Hospodinu Bohu tvému.
 
-**[7:26]** Aniž vneseš ohavnosti do domu svého, abys nebyl proklatý, jako i ona; všelijak v ohyzdnosti a v ohavnosti budeš míti ji, nebo proklatá jest. 
+**[7:26]** Aniž vneseš ohavnosti do domu svého, abys nebyl proklatý, jako i ona; všelijak v ohyzdnosti a v ohavnosti budeš míti ji, nebo proklatá jest.
 
 ### Chapter 8
 
@@ -10646,7 +10646,7 @@
 
 **[8:19]** Pakli zapomena se na Hospodina Boha svého, postoupil bys po bozích cizích, a sloužil bys jim a klaněl bys se jim: osvědčuji proti vám dnes, že konečně zahynete.
 
-**[8:20]** Jako pohané, kteréž Hospodin zahladil před tváří vaší, tak zahynete, proto že jste neposlouchali hlasu Hospodina Boha svého. 
+**[8:20]** Jako pohané, kteréž Hospodin zahladil před tváří vaší, tak zahynete, proto že jste neposlouchali hlasu Hospodina Boha svého.
 
 ### Chapter 9
 
@@ -10706,7 +10706,7 @@
 
 **[9:28]** Aby neřekli obyvatelé země té, z níž jsi nás vyvedl: Proto že nemohl Hospodin uvésti jich do země, kterouž zaslíbil jim, aneb že je měl v nenávisti, vyvedl je, aby je pobil na poušti.
 
-**[9:29]** Však oni jsou lid tvůj a dědictví tvé, kteréž jsi vyvedl v síle své veliké a v rameni svém vztaženém. 
+**[9:29]** Však oni jsou lid tvůj a dědictví tvé, kteréž jsi vyvedl v síle své veliké a v rameni svém vztaženém.
 
 ### Chapter 10
 
@@ -10752,7 +10752,7 @@
 
 **[10:21]** Onť jest chvála tvá, a onť jest Bůh tvůj, kterýž učinil s tebou tyto veliké a hrozné věci, kteréž viděly oči tvé.
 
-**[10:22]** V sedmdesáti dušech sstoupili otcové tvoji do Egypta, nyní pak rozmnožil tě Hospodin Bůh tvůj, abys byl v množství jako hvězdy nebeské. 
+**[10:22]** V sedmdesáti dušech sstoupili otcové tvoji do Egypta, nyní pak rozmnožil tě Hospodin Bůh tvůj, abys byl v množství jako hvězdy nebeské.
 
 ### Chapter 11
 
@@ -10818,7 +10818,7 @@
 
 **[11:31]** Nebo vy půjdete přes Jordán, abyste vešli a dědičně vládli zemí, kterouž Hospodin Bůh váš dá vám; i obdržíte ji dědičně, a budete v ní bydliti.
 
-**[11:32]** Hleďtež tedy, abyste činili všecka ustanovení a soudy, kteréž já dnes vám předkládám. 
+**[11:32]** Hleďtež tedy, abyste činili všecka ustanovení a soudy, kteréž já dnes vám předkládám.
 
 ### Chapter 12
 
@@ -10884,7 +10884,7 @@
 
 **[12:31]** Neučiníš tak Hospodinu Bohu svému, nebo všecko, což v ohavnosti má Hospodin, a čehož nenávidí, činili bohům svým; také i syny své a dcery své ohněm pálili ke cti bohům svým.
 
-**[12:32]** Cožkoli já přikazuji vám, ostříhati budete, činíce to; nepřidáte k tomu, aniž co z toho ujmete. 
+**[12:32]** Cožkoli já přikazuji vám, ostříhati budete, činíce to; nepřidáte k tomu, aniž co z toho ujmete.
 
 ### Chapter 13
 
@@ -10922,7 +10922,7 @@
 
 **[13:17]** A nevezmeš ničehož z věcí proklatých, aby Hospodin odvrátil se od hněvu prchlivosti své, a učinil tobě milosrdenství svá, a smiloval se nad tebou, i rozmnožil tě, jakož s přísahou zaslíbil otcům tvým.
 
-**[13:18]** Protož poslouchati budeš hlasu Hospodina Boha svého, ostříhaje všech přikázaní jeho, kteráž já dnes přikazuji tobě, abys činil, což pravého jest, před očima Hospodina Boha svého. 
+**[13:18]** Protož poslouchati budeš hlasu Hospodina Boha svého, ostříhaje všech přikázaní jeho, kteráž já dnes přikazuji tobě, abys činil, což pravého jest, před očima Hospodina Boha svého.
 
 ### Chapter 14
 
@@ -10982,7 +10982,7 @@
 
 **[14:28]** Každého léta třetího oddělíš všecky desátky z užitků svých toho léta, a složíš je v branách svých.
 
-**[14:29]** I přijde Levíta, (nebo nemá dílu a dědictví s tebou,) a host a sirotek i vdova, kteříž jsou v branách tvých, i budou jísti a nasytí se, aby požehnal tobě Hospodin Bůh tvůj při všelikém díle rukou tvých, kteréž bys dělal. 
+**[14:29]** I přijde Levíta, (nebo nemá dílu a dědictví s tebou,) a host a sirotek i vdova, kteříž jsou v branách tvých, i budou jísti a nasytí se, aby požehnal tobě Hospodin Bůh tvůj při všelikém díle rukou tvých, kteréž bys dělal.
 
 ### Chapter 15
 
@@ -11030,7 +11030,7 @@
 
 **[15:22]** V branách svých budeš je jísti, buďto čistý neb nečistý, rovně jako srnu aneb jelena;
 
-**[15:23]** Toliko krve jeho nebudeš jísti, ale na zem vycedíš ji jako vodu. 
+**[15:23]** Toliko krve jeho nebudeš jísti, ale na zem vycedíš ji jako vodu.
 
 ### Chapter 16
 
@@ -11076,7 +11076,7 @@
 
 **[16:21]** Nevysadíš sobě háje jakýmkoli dřívím u oltáře Hospodina Boha svého, kterýž uděláš sobě,
 
-**[16:22]** Ani vyzdvihneš sobě modly, což v ohavnosti má Hospodin Bůh tvůj. 
+**[16:22]** Ani vyzdvihneš sobě modly, což v ohavnosti má Hospodin Bůh tvůj.
 
 ### Chapter 17
 
@@ -11118,7 +11118,7 @@
 
 **[17:19]** A bude jej míti při sobě, a čísti jej bude po všecky dny života svého, aby se naučil báti Hospodina Boha svého, a aby ostříhal všech slov zákona tohoto i ustanovení těch, a činil je,
 
-**[17:20]** Aby nepozdvihlo se srdce jeho nad bratří jeho, a neuchýlilo se od přikázaní na pravo aneb na levo, aby dlouho živ byl v království svém, on i synové jeho u prostřed Izraele. 
+**[17:20]** Aby nepozdvihlo se srdce jeho nad bratří jeho, a neuchýlilo se od přikázaní na pravo aneb na levo, aby dlouho živ byl v království svém, on i synové jeho u prostřed Izraele.
 
 ### Chapter 18
 
@@ -11164,7 +11164,7 @@
 
 **[18:21]** Jestliže pak díš v srdci svém: Kterak poznáme slovo to, jehož by nemluvil Hospodin?
 
-**[18:22]** Když by mluvil něco prorok ve jménu Hospodinovu, a však by se toho nestalo, aniž by přišlo, toť jest to slovo, jehož nemluvil Hospodin; z pychuť jest to mluvil prorok ten, nebojž se ho. 
+**[18:22]** Když by mluvil něco prorok ve jménu Hospodinovu, a však by se toho nestalo, aniž by přišlo, toť jest to slovo, jehož nemluvil Hospodin; z pychuť jest to mluvil prorok ten, nebojž se ho.
 
 ### Chapter 19
 
@@ -11208,7 +11208,7 @@
 
 **[19:20]** A kteříž zůstanou, slyšíce to, báti se budou, a nikoli více nedopustí se takových zlých věcí u prostřed tebe.
 
-**[19:21]** A neslituje se oko tvé; život za život, oko za oko, zub za zub, ruka za ruku, noha za nohu bude. 
+**[19:21]** A neslituje se oko tvé; život za život, oko za oko, zub za zub, ruka za ruku, noha za nohu bude.
 
 ### Chapter 20
 
@@ -11250,7 +11250,7 @@
 
 **[20:19]** Když oblehneš město některé, za dlouhý čas dobývaje ho, abys je vzal, nezkazíš stromů jeho, sekerou je vytínaje, nebo z nich ovoce jísti budeš; protož jich nevysekáš, (nebo potrava člověka jest strom polní,) chtěje užívati jich k obraně své.
 
-**[20:20]** A však stromoví, kteréž znáš, že nenese ovoce ku pokrmu, pohubíš a posekáš, a vzděláš ohrady proti městu tomu, kteréž s tebou bojuje, dokudž ho sobě nepodmaníš. 
+**[20:20]** A však stromoví, kteréž znáš, že nenese ovoce ku pokrmu, pohubíš a posekáš, a vzděláš ohrady proti městu tomu, kteréž s tebou bojuje, dokudž ho sobě nepodmaníš.
 
 ### Chapter 21
 
@@ -11298,7 +11298,7 @@
 
 **[21:22]** Když by kdo zhřešil, že by hoden byl smrti, a byl by odsouzen k ní a pověsil bys ho na dřevě:
 
-**[21:23]** Nezůstane přes noc tělo jeho na dřevě, ale hned v ten den pochováš jej, nebo zlořečený jest před Bohem pověšený; protož nepoškvrňuj země své, kterouž Hospodin Bůh tvůj dává tobě v dědictví. 
+**[21:23]** Nezůstane přes noc tělo jeho na dřevě, ale hned v ten den pochováš jej, nebo zlořečený jest před Bohem pověšený; protož nepoškvrňuj země své, kterouž Hospodin Bůh tvůj dává tobě v dědictví.
 
 ### Chapter 22
 
@@ -11360,7 +11360,7 @@
 
 **[22:29]** Tedy dá muž ten, kterýž by obýval s ní, otci děvečky padesáte stříbrných, a bude jeho manželka, protože ponížil jí; nebude moci jí propustiti po všecky dny své.
 
-**[22:30]** Nevezme žádný manželky otce svého, a neodkryje podolka otce svého. 
+**[22:30]** Nevezme žádný manželky otce svého, a neodkryje podolka otce svého.
 
 ### Chapter 23
 
@@ -11412,7 +11412,7 @@
 
 **[23:24]** Všel-li bys do vinice bližního svého, jísti budeš hrozny podlé žádosti své do sytosti své, ale do nádoby své nevložíš.
 
-**[23:25]** Všel-li bys do obilí bližního svého, natrháš sobě klasů rukou svou, ale srpem nebudeš žíti obilí bližního svého. 
+**[23:25]** Všel-li bys do obilí bližního svého, natrháš sobě klasů rukou svou, ale srpem nebudeš žíti obilí bližního svého.
 
 ### Chapter 24
 
@@ -11458,7 +11458,7 @@
 
 **[24:21]** Když bys sbíral víno na vinici své, nebudeš paběrovati jahodek za sebou; příchozímu, sirotku a vdově to bude.
 
-**[24:22]** Pamatuj, že jsi byl služebníkem v zemi Egyptské; protož přikazujiť, abys to činil. 
+**[24:22]** Pamatuj, že jsi byl služebníkem v zemi Egyptské; protož přikazujiť, abys to činil.
 
 ### Chapter 25
 
@@ -11498,7 +11498,7 @@
 
 **[25:18]** Kterak vyšed tobě v cestu, zadní houf tvůj všech mdlých, kteříž šli za tebou, pobil, když jsi ty byl zemdlený a ustalý, a nebál se Boha.
 
-**[25:19]** Protož když byl Hospodin Bůh tvůj dal tobě odpočinutí ode všech nepřátel tvých vůkol v zemi, kterouž Hospodin Bůh tvůj dává tobě v dědictví, abys dědičně obdržel ji, vyhladíš památku Amalecha pod nebem; nezapomínejž na to. 
+**[25:19]** Protož když byl Hospodin Bůh tvůj dal tobě odpočinutí ode všech nepřátel tvých vůkol v zemi, kterouž Hospodin Bůh tvůj dává tobě v dědictví, abys dědičně obdržel ji, vyhladíš památku Amalecha pod nebem; nezapomínejž na to.
 
 ### Chapter 26
 
@@ -11538,7 +11538,7 @@
 
 **[26:18]** Hospodin také připověděl se k tobě dnes, že tě bude míti za lid zvláštní, jakož mluvil tobě, abys ostříhal všech přikázaní jeho,
 
-**[26:19]** A že tě vyvýší nade všecky národy, kteréž učinil, abys byl vzácnější, slovoutnější a slavnější nad ně, a tak lid svatý Hospodinu Bohu svému, jakož jest mluvil. 
+**[26:19]** A že tě vyvýší nade všecky národy, kteréž učinil, abys byl vzácnější, slovoutnější a slavnější nad ně, a tak lid svatý Hospodinu Bohu svému, jakož jest mluvil.
 
 ### Chapter 27
 
@@ -11592,7 +11592,7 @@
 
 **[27:25]** Zlořečený, kdož by vzal dary, aby zabil člověka nevinného; i dí všecken lid: Amen.
 
-**[27:26]** Zlořečený, kdož by nezůstal v řečech zákona tohoto a nečinil jich; a řekne všecken lid: Amen. 
+**[27:26]** Zlořečený, kdož by nezůstal v řečech zákona tohoto a nečinil jich; a řekne všecken lid: Amen.
 
 ### Chapter 28
 
@@ -11730,7 +11730,7 @@
 
 **[28:67]** Ráno díš: Ó by již byl večer! a večer díš: Ó by již bylo jitro! pro strach srdce svého, jímž se lekáš, a pro ty věci, na něž očima svýma hleděti musíš.
 
-**[28:68]** A zavede tě Hospodin do Egypta na lodech, cestou, o níž jsem řekl tobě: Nebudeš jí viděti více; a tam prodávati se budete nepřátelům svým za služebníky a děvky, a nebude, kdo by koupil. 
+**[28:68]** A zavede tě Hospodin do Egypta na lodech, cestou, o níž jsem řekl tobě: Nebudeš jí viděti více; a tam prodávati se budete nepřátelům svým za služebníky a děvky, a nebude, kdo by koupil.
 
 ### Chapter 29
 
@@ -11790,7 +11790,7 @@
 
 **[29:28]** Protož vyplénil je Hospodin z země jejich v hněvě, v rozpálení a v prchlivosti veliké, a vyvrhl je do země jiné, jakž to ukazuje dnešní den.
 
-**[29:29]** Věci skryté jsou Hospodina Boha našeho, věci pak zjevené ty jsou naše a synů našich, abychom plnili všecka slova zákona tohoto. 
+**[29:29]** Věci skryté jsou Hospodina Boha našeho, věci pak zjevené ty jsou naše a synů našich, abychom plnili všecka slova zákona tohoto.
 
 ### Chapter 30
 
@@ -11832,7 +11832,7 @@
 
 **[30:19]** Osvědčuji proti tobě dnes nebem a zemí, žeť jsem život i smrt předložil, požehnání i zlořečenství; vyvoliž sobě tedy život, abys živ byl ty i símě tvé,
 
-**[30:20]** A miloval Hospodina Boha svého, poslouchaje hlasu jeho a přídrže se jeho, (nebo on jest život tvůj, a dlouhost dnů tvých), abys bydlil v zemi, kterouž s přísahou zaslíbil Hospodin otcům tvým Abrahamovi, Izákovi a Jákobovi, že jim ji dá. 
+**[30:20]** A miloval Hospodina Boha svého, poslouchaje hlasu jeho a přídrže se jeho, (nebo on jest život tvůj, a dlouhost dnů tvých), abys bydlil v zemi, kterouž s přísahou zaslíbil Hospodin otcům tvým Abrahamovi, Izákovi a Jákobovi, že jim ji dá.
 
 ### Chapter 31
 
@@ -11894,7 +11894,7 @@
 
 **[31:29]** Nebo vím, že po mé smrti velmi porušíte se a vystoupíte z cesty, kterouž jsem přikázal vám; pročež přijde na vás toto zlé v posledních dnech, když byste činili to, což se nelíbí Hospodinu, popouzejíce ho dílem rukou svých.
 
-**[31:30]** Mluvil tedy Mojžíš v uši všeho shromáždění Izraelského slova písně této, až je i dokonal. 
+**[31:30]** Mluvil tedy Mojžíš v uši všeho shromáždění Izraelského slova písně této, až je i dokonal.
 
 ### Chapter 32
 
@@ -12000,7 +12000,7 @@
 
 **[32:51]** Nebo jste zhřešili proti mně u prostřed synů Izraelských, při vodách odpírání v Kádes, na poušti Tsin, proto že jste neposvětili mne u prostřed synů Izraelských.
 
-**[32:52]** Před sebou zajisté uzříš zemi tu, ale tam nevejdeš do země té, kterouž dávám synům Izraelským. 
+**[32:52]** Před sebou zajisté uzříš zemi tu, ale tam nevejdeš do země té, kterouž dávám synům Izraelským.
 
 ### Chapter 33
 
@@ -12060,7 +12060,7 @@
 
 **[33:28]** Aby sám bezpečně bydlil Izrael, rodina Jákobova, a to v zemi obilím a vínem oplývající, jehož nebesa také i rosu vydávati budou.
 
-**[33:29]** Blahoslavený jsi, Izraeli. Kdo jest podobný tobě, lide vysvobozený skrze Hospodina, jenž jest pavéza spomožení tvého a meč důstojnosti tvé? Tvoji zajisté nepřátelé poníženi budou, ale ty po všech vyvýšenostech jejich šlapati budeš. 
+**[33:29]** Blahoslavený jsi, Izraeli. Kdo jest podobný tobě, lide vysvobozený skrze Hospodina, jenž jest pavéza spomožení tvého a meč důstojnosti tvé? Tvoji zajisté nepřátelé poníženi budou, ale ty po všech vyvýšenostech jejich šlapati budeš.
 
 ### Chapter 34
 
@@ -12086,7 +12086,7 @@
 
 **[34:11]** Ve všech znameních a zázracích, pro něž poslal jej Hospodin, aby činil je v zemi Egyptské, před Faraonem a přede všechněmi služebníky jeho, a vší zemí jeho,
 
-**[34:12]** Také i ve všech skutcích ruky silné, a ve všeliké hrůzi veliké, kteréžto věci činil Mojžíš před očima všeho Izraele.  
+**[34:12]** Také i ve všech skutcích ruky silné, a ve všeliké hrůzi veliké, kteréžto věci činil Mojžíš před očima všeho Izraele.
 
 ## Joshua
 
@@ -12126,7 +12126,7 @@
 
 **[1:17]** Rovně jakž jsme poslouchali Mojžíše, tak poslouchati budeme tebe; jediné nechť jest Hospodin Bůh tvůj s tebou, jako byl s Mojžíšem.
 
-**[1:18]** Kdo by koli odporný byl rozkázaní tvému, a neposlouchal by řečí tvých ve všech věcech, kteréž bys přikázal jemu, umřeť; toliko posilň se a zmužile se měj. 
+**[1:18]** Kdo by koli odporný byl rozkázaní tvému, a neposlouchal by řečí tvých ve všech věcech, kteréž bys přikázal jemu, umřeť; toliko posilň se a zmužile se měj.
 
 ### Chapter 2
 
@@ -12176,7 +12176,7 @@
 
 **[2:23]** Ti pak dva muži sšedše s hory, navrátili se a přeplavili se přes Jordán; i přišli k Jozue, synu Nun, a vypravovali jemu všecko, co se s nimi dálo.
 
-**[2:24]** A řekli k Jozue: Dalť jest Hospodin v ruce naše všecku zemi, nebo se zděsili všickni obyvatelé země tváři naší. 
+**[2:24]** A řekli k Jozue: Dalť jest Hospodin v ruce naše všecku zemi, nebo se zděsili všickni obyvatelé země tváři naší.
 
 ### Chapter 3
 
@@ -12212,7 +12212,7 @@
 
 **[3:16]** Že se zastavily vody, kteréž s hůry přicházely, a shrnuly se v hromadu jednu velmi daleko od Adam města, kteréž leží k straně Sartan, kteréž pak odcházely k moři dolů, k moři slanému sešly a sběhly, a lid přešel naproti Jerichu.
 
-**[3:17]** Stáli pak kněží, kteříž nesli truhlu smlouvy Hospodinovy na suše u prostřed Jordánu, nehýbajíce se, (a všecken Izrael šel po suše), až se lid všecken přepravil přes Jordán. 
+**[3:17]** Stáli pak kněží, kteříž nesli truhlu smlouvy Hospodinovy na suše u prostřed Jordánu, nehýbajíce se, (a všecken Izrael šel po suše), až se lid všecken přepravil přes Jordán.
 
 ### Chapter 4
 
@@ -12262,7 +12262,7 @@
 
 **[4:23]** Nebo vysušil Hospodin Bůh váš vody Jordánské před tváří vaší, až jste přešli, jakož učinil Hospodin Bůh váš moři Rudému, kteréž vysušil před tváří naší, až jsme přešli,
 
-**[4:24]** Aby poznali všickni národové země ruku Hospodinovu, že silná jest, a abyste se báli Hospodina Boha vašeho po všecky dny. 
+**[4:24]** Aby poznali všickni národové země ruku Hospodinovu, že silná jest, a abyste se báli Hospodina Boha vašeho po všecky dny.
 
 ### Chapter 5
 
@@ -12294,7 +12294,7 @@
 
 **[5:14]** I odpověděl: Nikoli, ale já jsem kníže vojska Hospodinova, a nyní jsem přišel. I padl Jozue tváří svou na zem, a pokloniv se, řekl jemu: Co pán můj chce mluviti služebníku svému?
 
-**[5:15]** Tedy odpověděl kníže vojska Hospodinova k Jozue: Szuj obuv svou s noh svých, nebo místo, na němž stojíš, svaté jest. I učinil tak Jozue. 
+**[5:15]** Tedy odpověděl kníže vojska Hospodinova k Jozue: Szuj obuv svou s noh svých, nebo místo, na němž stojíš, svaté jest. I učinil tak Jozue.
 
 ### Chapter 6
 
@@ -12350,7 +12350,7 @@
 
 **[6:26]** Toho času vydal klatbu Jozue, řka: Zlořečený buď před Hospodinem muž ten, kterýž by povstal, aby stavěl město Jericho. V prvorozeném svém založí je, a v nejmenším postaví brány jeho.
 
-**[6:27]** Byl pak Hospodin s Jozue, a rozhlásila se pověst o něm po vší zemi. 
+**[6:27]** Byl pak Hospodin s Jozue, a rozhlásila se pověst o něm po vší zemi.
 
 ### Chapter 7
 
@@ -12404,7 +12404,7 @@
 
 **[7:25]** Kdež řekl Jozue: Proč jsi zkormoutil nás? Zkormutiž tebe Hospodin v tento den. I uházel jej všecken lid kamením, a spálili je ohněm, ukamenovavše je kamením.
 
-**[7:26]** Potom nametali naň hromadu kamení velikou, kteráž trvá až do tohoto dne; a tak odvrácen jest Hospodin od hněvu prchlivosti své. Protož nazváno jest jméno místa toho údolí Achor, až do dnešního dne. 
+**[7:26]** Potom nametali naň hromadu kamení velikou, kteráž trvá až do tohoto dne; a tak odvrácen jest Hospodin od hněvu prchlivosti své. Protož nazváno jest jméno místa toho údolí Achor, až do dnešního dne.
 
 ### Chapter 8
 
@@ -12476,7 +12476,7 @@
 
 **[8:34]** A potom četl všecka slova zákona, požehnání i zlořečení, tak jakž psáno jest v knize zákona.
 
-**[8:35]** Nebylo ani slova ze všeho, což přikázal Mojžíš, jehož by nečetl Jozue přede vším shromážděním Izraelským, i ženami i dětmi i příchozími, kteříž šli u prostřed nich. 
+**[8:35]** Nebylo ani slova ze všeho, což přikázal Mojžíš, jehož by nečetl Jozue přede vším shromážděním Izraelským, i ženami i dětmi i příchozími, kteříž šli u prostřed nich.
 
 ### Chapter 9
 
@@ -12532,7 +12532,7 @@
 
 **[9:26]** I učinil jim tak, a vysvobodil je z rukou synů Izraelských, aby jich nepobili.
 
-**[9:27]** A ustanovil je Jozue v ten den, aby dříví sekali a vodu nosili všemu shromáždění, i k oltáři Hospodinovu, až do tohoto dne, na místě, kteréž by vyvolil. 
+**[9:27]** A ustanovil je Jozue v ten den, aby dříví sekali a vodu nosili všemu shromáždění, i k oltáři Hospodinovu, až do tohoto dne, na místě, kteréž by vyvolil.
 
 ### Chapter 10
 
@@ -12620,7 +12620,7 @@
 
 **[10:42]** A všecky krále ty a zemi jejich vzal Jozue pojednou, nebo Hospodin Bůh Izraelský bojoval za Izraele.
 
-**[10:43]** Potom navrátil se Jozue a všecken Izrael s ním do ležení, kteréž bylo v Galgala. 
+**[10:43]** Potom navrátil se Jozue a všecken Izrael s ním do ležení, kteréž bylo v Galgala.
 
 ### Chapter 11
 
@@ -12668,7 +12668,7 @@
 
 **[11:22]** Nezůstal žádný z Enaků v zemi synů Izraelských; toliko v Gáze, v Gát a v Azotu zůstali.
 
-**[11:23]** Tak tedy vzal Jozue všecku tu zemi, jakž byl rozkázal Hospodin Mojžíšovi, a dal ji Jozue v dědictví Izraelovi vedlé dílů jejich, po pokoleních jejich. I odpočinula země od válek. 
+**[11:23]** Tak tedy vzal Jozue všecku tu zemi, jakž byl rozkázal Hospodin Mojžíšovi, a dal ji Jozue v dědictví Izraelovi vedlé dílů jejich, po pokoleních jejich. I odpočinula země od válek.
 
 ### Chapter 12
 
@@ -12718,7 +12718,7 @@
 
 **[12:23]** Král Dor z krajiny Dor jeden, král z Goim v Galgal jeden;
 
-**[12:24]** Král Tersa jeden. Všech králů třidceti a jeden. 
+**[12:24]** Král Tersa jeden. Všech králů třidceti a jeden.
 
 ### Chapter 13
 
@@ -12786,7 +12786,7 @@
 
 **[13:32]** Ta jsou dědictví, kteráž rozdělil Mojžíš na rovinách Moábských před Jordánem proti Jerichu k východu.
 
-**[13:33]** Pokolení pak Léví nedal Mojžíš dědictví; Hospodin Bůh Izraelský jest dědictví jejich, jakož mluvil jim. 
+**[13:33]** Pokolení pak Léví nedal Mojžíš dědictví; Hospodin Bůh Izraelský jest dědictví jejich, jakož mluvil jim.
 
 ### Chapter 14
 
@@ -12818,7 +12818,7 @@
 
 **[14:14]** Protož dostal se Hebron Kálefovi, synu Jefona Cenezejského, v dědictví až do tohoto dne, proto že cele kráčel za Hospodinem Bohem Izraelským.
 
-**[14:15]** Sloulo pak Hebron prvé město Arbe, kterýžto Arbe byl člověk veliký mezi Enakim. I odpočinula země od bojů. 
+**[14:15]** Sloulo pak Hebron prvé město Arbe, kterýžto Arbe byl člověk veliký mezi Enakim. I odpočinula země od bojů.
 
 ### Chapter 15
 
@@ -12946,7 +12946,7 @@
 
 **[15:62]** A Nibsam, a město solné, a Engadi, měst šest i vsi jejich.
 
-**[15:63]** Jebuzejských pak obyvatelů Jeruzaléma nemohli synové Juda vypléniti, protož bydlil Jebuzejský s syny Judskými v Jeruzalémě až do tohoto dne. 
+**[15:63]** Jebuzejských pak obyvatelů Jeruzaléma nemohli synové Juda vypléniti, protož bydlil Jebuzejský s syny Judskými v Jeruzalémě až do tohoto dne.
 
 ### Chapter 16
 
@@ -12968,7 +12968,7 @@
 
 **[16:9]** Města pak oddělená synům Efraimovým byla u prostřed dědictví synů Manassesových, všecka města s vesnicemi svými.
 
-**[16:10]** A nevyplénili Kananea bydlícího v Gázer. I bydlil Kananejský u prostřed Efraima až do dnes, dávaje plat. 
+**[16:10]** A nevyplénili Kananea bydlícího v Gázer. I bydlil Kananejský u prostřed Efraima až do dnes, dávaje plat.
 
 ### Chapter 17
 
@@ -13006,7 +13006,7 @@
 
 **[17:17]** I řekl Jozue domu Jozefovu, Efraimovu a Manassesovu, řka: Lid mnohý a silný jsi, nebudeš míti toliko dílu jednoho,
 
-**[17:18]** Ale horu budeš míti. Jestližeť překáží les, tedy vysekáš jej, a obdržíš končiny její; nebo vyhladíš Kananejského, ačkoli má vozy železné a jest silný. 
+**[17:18]** Ale horu budeš míti. Jestližeť překáží les, tedy vysekáš jej, a obdržíš končiny její; nebo vyhladíš Kananejského, ačkoli má vozy železné a jest silný.
 
 ### Chapter 18
 
@@ -13064,7 +13064,7 @@
 
 **[18:27]** Rekem, Jarefel a Tarela;
 
-**[18:28]** A Sela, Elef a Jebus, (jenž jest Jeruzalém,) Gibat, Kariat, měst čtrnácte i vsi jejich. To jest dědictví synů Beniaminových po čeledech jejich. 
+**[18:28]** A Sela, Elef a Jebus, (jenž jest Jeruzalém,) Gibat, Kariat, měst čtrnácte i vsi jejich. To jest dědictví synů Beniaminových po čeledech jejich.
 
 ### Chapter 19
 
@@ -13168,7 +13168,7 @@
 
 **[19:50]** Podlé rozkázaní Hospodinova dali jemu město, kteréhož žádal, Tamnatsára, na hoře Efraim. I vystavěl město, a přebýval v něm.
 
-**[19:51]** Ta jsou dědictví, kteráž dali k vládařství Eleazar kněz a Jozue syn Nun, i přední z otců pokolení synů Izraelských, losem v Sílo před Hospodinem, u dveří stánku úmluvy, a tak dokonali rozdělování země. 
+**[19:51]** Ta jsou dědictví, kteráž dali k vládařství Eleazar kněz a Jozue syn Nun, i přední z otců pokolení synů Izraelských, losem v Sílo před Hospodinem, u dveří stánku úmluvy, a tak dokonali rozdělování země.
 
 ### Chapter 20
 
@@ -13188,7 +13188,7 @@
 
 **[20:8]** Před Jordánem pak proti Jerichu k východu oddělili Bozor, kteréž leží na poušti v rovině pokolení Rubenova, a Rámot v Galád z pokolení Gádova, a Golan v Bázan z pokolení Manassesova.
 
-**[20:9]** Ta města byla útočišťná všechněm synům Izraelským, i příchozímu, kterýž pohostinu jest mezi nimi, aby utekl tam, kdo by koli zabil někoho nechtě, a nesešel od ruky přítele toho zabitého prvé, než by stál před shromážděním. 
+**[20:9]** Ta města byla útočišťná všechněm synům Izraelským, i příchozímu, kterýž pohostinu jest mezi nimi, aby utekl tam, kdo by koli zabil někoho nechtě, a nesešel od ruky přítele toho zabitého prvé, než by stál před shromážděním.
 
 ### Chapter 21
 
@@ -13280,7 +13280,7 @@
 
 **[21:44]** Dal také Hospodin jim odpočinutí se všech stran podlé všeho, jakž byl s přísahou zaslíbil otcům jejich, aniž kdo byl, ješto by ostál proti nim ze všech nepřátel jejich; všecky nepřátely jejich dal Hospodin v ruku jejich.
 
-**[21:45]** Nepominulo ani jedno slovo ze všelikého slova dobrého, kteréž mluvil Hospodin k domu Izraelskému, ale všecko se tak stalo. 
+**[21:45]** Nepominulo ani jedno slovo ze všelikého slova dobrého, kteréž mluvil Hospodin k domu Izraelskému, ale všecko se tak stalo.
 
 ### Chapter 22
 
@@ -13350,7 +13350,7 @@
 
 **[22:33]** I líbilo se to synům Izraelským, a dobrořečili Boha synové Izraelští, a již více nemluvili o to, aby táhli proti nim k boji a zkazili zemi, v kteréž synové Rubenovi a synové Gádovi bydlili.
 
-**[22:34]** Nazvali pak synové Rubenovi a synové Gádovi oltář ten Ed, řkouce: Nebo svědkem bude mezi námi, že Hospodin jest Bůh. 
+**[22:34]** Nazvali pak synové Rubenovi a synové Gádovi oltář ten Ed, řkouce: Nebo svědkem bude mezi námi, že Hospodin jest Bůh.
 
 ### Chapter 23
 
@@ -13384,7 +13384,7 @@
 
 **[23:15]** Jakož tedy naplnilo se vám dnes každé slovo dobré, kteréž mluvil k vám Hospodin Bůh váš, takť uvede na vás každé slovo zlé, dokudž nevyhladí vás z země této výborné, kterouž dal vám Hospodin Bůh váš,
 
-**[23:16]** Jestliže přestoupíte smlouvu Hospodina Boha svého, kterouž přikázal vám, a jdouce, sloužiti budete bohům cizím, a klaněti se jim. I rozhněvá se prchlivost Hospodinova na vás, a zahynete rychle z země této výborné, kterouž vám dal. 
+**[23:16]** Jestliže přestoupíte smlouvu Hospodina Boha svého, kterouž přikázal vám, a jdouce, sloužiti budete bohům cizím, a klaněti se jim. I rozhněvá se prchlivost Hospodinova na vás, a zahynete rychle z země této výborné, kterouž vám dal.
 
 ### Chapter 24
 
@@ -13452,7 +13452,7 @@
 
 **[24:32]** Kosti pak Jozefovy, kteréž byli vynesli synové Izraelští z Egypta, pochovali v Sichem, v dílu pole, kteréž koupil Jákob od synů Emora otce Sichemova za sto peněz; i byly u synů Jozefových v dědictví jejich.
 
-**[24:33]** Eleazar také, syn Aronův, umřel, a pochovali jej na pahrbku Fínesa syna jeho, kterýž dán byl jemu na hoře Efraim.  
+**[24:33]** Eleazar také, syn Aronův, umřel, a pochovali jej na pahrbku Fínesa syna jeho, kterýž dán byl jemu na hoře Efraim.
 
 ## Judges
 
@@ -13528,7 +13528,7 @@
 
 **[1:35]** Nebo počal Amorejský svobodně bydliti na hoře Heres, v Aialon a v Salbim, ale když se zsilila ruka čeledi Jozefovy, uvedeni jsou pod plat.
 
-**[1:36]** Pomezí pak Amorejského bylo od začátku hor Akrabim, od skály jejich i výše. 
+**[1:36]** Pomezí pak Amorejského bylo od začátku hor Akrabim, od skály jejich i výše.
 
 ### Chapter 2
 
@@ -13576,7 +13576,7 @@
 
 **[2:22]** Abych skrze ně zkušoval Izraele, budou-li ostříhati cesty přikázaní Hospodinových, chodíce v nich, jakož ostříhali otcové jejich, čili nic.
 
-**[2:23]** I zanechal Hospodin národů těch, a nevyhnal jich rychle, aniž dal jich v ruku Jozue. 
+**[2:23]** I zanechal Hospodin národů těch, a nevyhnal jich rychle, aniž dal jich v ruku Jozue.
 
 ### Chapter 3
 
@@ -13640,7 +13640,7 @@
 
 **[3:30]** I snížen jest Moáb v ten den pod mocí Izraele, a pokoj měla země za osmdesáte let.
 
-**[3:31]** Po něm pak byl Samgar, syn Anatův, a pobil Filistinských šest set mužů ostnem volů, a vysvobodil i on Izraele. 
+**[3:31]** Po něm pak byl Samgar, syn Anatův, a pobil Filistinských šest set mužů ostnem volů, a vysvobodil i on Izraele.
 
 ### Chapter 4
 
@@ -13690,7 +13690,7 @@
 
 **[4:23]** A tak ponížil Bůh toho dne Jabína krále Kananejského před syny Izraelskými.
 
-**[4:24]** I dotírala ruka synů Izraelských vždy více, a silila se proti Jabínovi králi Kananejskému, až i vyhladili téhož Jabína krále Kananejského. 
+**[4:24]** I dotírala ruka synů Izraelských vždy více, a silila se proti Jabínovi králi Kananejskému, až i vyhladili téhož Jabína krále Kananejského.
 
 ### Chapter 5
 
@@ -13754,7 +13754,7 @@
 
 **[5:30]** Zdali ale dosáhli něčeho, a dělí kořisti? Děvečku jednu neb dvě na každého muže, loupeže rozdílných barev samému Zizarovi, kořisti rozdílných barev krumpovaným dílem, roucho rozdílných barev krumpovaným dílem na hrdlo loupežníků.
 
-**[5:31]** Tak ať zahynou všickni nepřátelé tvoji, ó Hospodine, tebe pak milující ať jsou jako slunce vzcházející v síle své. I byla v pokoji země za čtyřidceti let. 
+**[5:31]** Tak ať zahynou všickni nepřátelé tvoji, ó Hospodine, tebe pak milující ať jsou jako slunce vzcházející v síle své. I byla v pokoji země za čtyřidceti let.
 
 ### Chapter 6
 
@@ -13836,7 +13836,7 @@
 
 **[6:39]** Řekl také Gedeon Bohu: Nerozpaluj se prchlivost tvá proti mně, že promluvím ještě jednou. Prosím, nechažť zkusím ještě jednou na rouně. Nechť jest, prosím, samo rouno suché, a na vší zemi rosa.
 
-**[6:40]** I učinil Bůh té noci tak, a bylo samo rouno suché, a na vší zemi byla rosa. 
+**[6:40]** I učinil Bůh té noci tak, a bylo samo rouno suché, a na vší zemi byla rosa.
 
 ### Chapter 7
 
@@ -13888,7 +13888,7 @@
 
 **[7:24]** I rozeslal Gedeon posly na všecky hory Efraimské, řka: Vyjděte v cestu Madianským, a zastupte jim vody až k Betabaře a Jordánu. Tedy shromáždivše se všickni muži Efraim, zastoupili vody až k Betabaře a Jordánu.
 
-**[7:25]** A chytili dvé knížat Madianských, Goréba a Zéba. I zabili Goréba na skále Goréb a Zéba zabili v lisu Zéb, a honili Madianské, hlavu pak Gorébovu a Zébovu přinesli k Gedeonovi za Jordán. 
+**[7:25]** A chytili dvé knížat Madianských, Goréba a Zéba. I zabili Goréba na skále Goréb a Zéba zabili v lisu Zéb, a honili Madianské, hlavu pak Gorébovu a Zébovu přinesli k Gedeonovi za Jordán.
 
 ### Chapter 8
 
@@ -13960,7 +13960,7 @@
 
 **[8:34]** A nerozpomenuli se synové Izraelští na Hospodina Boha svého, kterýž je vytrhl z ruky všech nepřátel jejich vůkol.
 
-**[8:35]** A neučinili milosrdenství s domem Jerobále Gedeona, jako on všecko dobré činil Izraelovi. 
+**[8:35]** A neučinili milosrdenství s domem Jerobále Gedeona, jako on všecko dobré činil Izraelovi.
 
 ### Chapter 9
 
@@ -14076,7 +14076,7 @@
 
 **[9:56]** A tak odměnil Bůh zlým Abimelechovi za nešlechetnost, kterouž páchal proti otci svému, zmordovav sedmdesáte bratří svých.
 
-**[9:57]** Tolikéž i všecku nešlechetnost mužů Sichemských vrátil Bůh na hlavu jejich, a přišlo na ně zlořečení Jotama syna Jerobálova. 
+**[9:57]** Tolikéž i všecku nešlechetnost mužů Sichemských vrátil Bůh na hlavu jejich, a přišlo na ně zlořečení Jotama syna Jerobálova.
 
 ### Chapter 10
 
@@ -14114,7 +14114,7 @@
 
 **[10:17]** Svolali se pak Ammonitští, a položili se v Galád; shromáždili se také synové Izraelští, a položili se v Masfa.
 
-**[10:18]** I řekli lid s knížaty Galád jedni druhým: Kdokoli počne bojovati proti Ammonitským, bude vůdce všech obyvatelů Galád. 
+**[10:18]** I řekli lid s knížaty Galád jedni druhým: Kdokoli počne bojovati proti Ammonitským, bude vůdce všech obyvatelů Galád.
 
 ### Chapter 11
 
@@ -14196,7 +14196,7 @@
 
 **[11:39]** A při dokonání dvou měsíců navrátila se k otci svému, a vykonal při ní slib svůj, kterýž byl učinil. Ona pak nepoznala muže. I byl ten obyčej v Izraeli,
 
-**[11:40]** Že každého roku scházívaly se dcery Izraelské, aby plakaly nad dcerou Jefte Galádského za čtyři dni v roce. 
+**[11:40]** Že každého roku scházívaly se dcery Izraelské, aby plakaly nad dcerou Jefte Galádského za čtyři dni v roce.
 
 ### Chapter 12
 
@@ -14228,7 +14228,7 @@
 
 **[12:14]** Ten měl čtyřidceti synů a třidceti vnuků, kteříž jezdili na sedmdesáti mezcích; i soudil Izraele osm let.
 
-**[12:15]** Umřev pak Abdon syn Hellelův Faratonský, pohřben jest v Faraton, v zemi Efraim na hoře Amalechitské. 
+**[12:15]** Umřev pak Abdon syn Hellelův Faratonský, pohřben jest v Faraton, v zemi Efraim na hoře Amalechitské.
 
 ### Chapter 13
 
@@ -14280,7 +14280,7 @@
 
 **[13:24]** A tak žena ta porodila syna a nazvala jméno jeho Samson. I rostlo dítě, a žehnal jemu Hospodin.
 
-**[13:25]** I počal ho Duch Hospodinův ponoukati v Mahane Dan, mezi Zaraha a Estaol. 
+**[13:25]** I počal ho Duch Hospodinův ponoukati v Mahane Dan, mezi Zaraha a Estaol.
 
 ### Chapter 14
 
@@ -14322,7 +14322,7 @@
 
 **[14:19]** I sstoupil na něj Duch Hospodinův, a šel do Aškalon, a pobil z nich třidceti mužů. A vzav loupeže jejich, dal šaty proměnné těm, jenž uhodli pohádku, a rozhněvav se velmi, odšel do domu otce svého.
 
-**[14:20]** Žena pak Samsonova dostala se jednomu z tovaryšů jeho, kteréhož on byl k sobě připojil. 
+**[14:20]** Žena pak Samsonova dostala se jednomu z tovaryšů jeho, kteréhož on byl k sobě připojil.
 
 ### Chapter 15
 
@@ -14364,7 +14364,7 @@
 
 **[15:19]** Tedy otevřel Bůh skálu v Lechi, i vyšly z ní vody, a napil se; i okřál, a jako ožil. Protož nazval jméno její studnice vzývajícího, kteráž jest v Lechi až do dnešního dne.
 
-**[15:20]** Soudil pak Izraele za času Filistinských dvadceti let. 
+**[15:20]** Soudil pak Izraele za času Filistinských dvadceti let.
 
 ### Chapter 16
 
@@ -14428,7 +14428,7 @@
 
 **[16:30]** Potom řekl Samson: Nechť umře život můj s Filistinskými. A nalehl silně, i padl dům na knížata a na všecken lid, kterýž byl v něm; i bylo mrtvých, kteréž pobil on umíraje, více než těch, kteréž pobil, živ jsa.
 
-**[16:31]** Tedy přišli přátelé jeho, a všecken dům otce jeho, a vzavše jej, odešli, a pochovali jej mezi Zaraha a Estaol v hrobě Manue otce jeho. A on soudil lid Izraelský dvadceti let. 
+**[16:31]** Tedy přišli přátelé jeho, a všecken dům otce jeho, a vzavše jej, odešli, a pochovali jej mezi Zaraha a Estaol v hrobě Manue otce jeho. A on soudil lid Izraelský dvadceti let.
 
 ### Chapter 17
 
@@ -14456,7 +14456,7 @@
 
 **[17:12]** I posvětil Mícha rukou Levíty, a byl mu mládenec ten za kněze; i bydlil v domě jeho.
 
-**[17:13]** Řekl pak Mícha: Nyníť vím, že mi dobře učiní Hospodin, proto že mám toho Levítu za kněze. 
+**[17:13]** Řekl pak Mícha: Nyníť vím, že mi dobře učiní Hospodin, proto že mám toho Levítu za kněze.
 
 ### Chapter 18
 
@@ -14520,7 +14520,7 @@
 
 **[18:30]** Postavili pak sobě synové Dan tu rytinu, a Jonatan syn Gersonův, syna Mojžíšova, on i synové jeho byli kněžími v pokolení Dan, až do dne zajetí obyvatelů země.
 
-**[18:31]** Vystavili tedy sobě tu rytinu, kterouž udělal Mícha, a byla tam po všecky dny, v nichž dům Boží byl v Sílo. 
+**[18:31]** Vystavili tedy sobě tu rytinu, kterouž udělal Mícha, a byla tam po všecky dny, v nichž dům Boží byl v Sílo.
 
 ### Chapter 19
 
@@ -14582,7 +14582,7 @@
 
 **[19:29]** Když pak přišel do domu svého, vzal meč, a pochytiv ženinu svou, rozsekal ji s kostmi jejími na dvanácte kusů, a rozeslal ji po všech končinách Izraelských.
 
-**[19:30]** A bylo, že kdožkoli uzřel, pravil: Nikdy se nestalo ani vidíno bylo co podobného od toho času, jakž vyšli synové Izraelští z země Egyptské, až do tohoto dne. Posuďte toho pilně, poraďte se a promluvte o to. 
+**[19:30]** A bylo, že kdožkoli uzřel, pravil: Nikdy se nestalo ani vidíno bylo co podobného od toho času, jakž vyšli synové Izraelští z země Egyptské, až do tohoto dne. Posuďte toho pilně, poraďte se a promluvte o to.
 
 ### Chapter 20
 
@@ -14680,7 +14680,7 @@
 
 **[20:47]** I obrátilo se na poušť a uteklo k skále Remmon šest set mužů, kteříž zůstali v skále Remmon za čtyři měsíce.
 
-**[20:48]** Potom muži Izraelští navrátili se k synům Beniamin, a zbili je ostrostí meče, tak lidi v městech jako hovada, i všecko, což nalezeno bylo; také i všecka města, kteráž ještě pozůstávala, ohněm vypálili. 
+**[20:48]** Potom muži Izraelští navrátili se k synům Beniamin, a zbili je ostrostí meče, tak lidi v městech jako hovada, i všecko, což nalezeno bylo; také i všecka města, kteráž ještě pozůstávala, ohněm vypálili.
 
 ### Chapter 21
 
@@ -14732,7 +14732,7 @@
 
 **[21:24]** A tak odešli odtud synové Izraelští toho času, jeden každý k svému pokolení a k čeledi své; a vrátili se odtud jeden každý k dědictví svému.
 
-**[21:25]** Těch dnů nebylo krále v Izraeli, ale každý, což se mu vidělo, to činil.  
+**[21:25]** Těch dnů nebylo krále v Izraeli, ale každý, což se mu vidělo, to činil.
 
 ## Ruth
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** Vyšla jsem plná, teď pak prázdnou mne zase Hospodin přivedl. Pročež tedy nazýváte mne Noémi, poněvadž mne Hospodin ssoužil, a Všemohoucí mne znuzil?
 
-**[1:22]** A navrátila se Noémi s Rut Moábskou, nevěstou svou; navrátila se pak z krajiny Moábské. I přišly do Betléma, když počínali žíti ječmene. 
+**[1:22]** A navrátila se Noémi s Rut Moábskou, nevěstou svou; navrátila se pak z krajiny Moábské. I přišly do Betléma, když počínali žíti ječmene.
 
 ### Chapter 2
 
@@ -14828,7 +14828,7 @@
 
 **[2:22]** Tedy řekla Noémi Rut nevěstě své: Dobré jest tedy, dcero má, abys vycházela s děvečkami jeho, ať by na jiném poli něco nepřekazili.
 
-**[2:23]** A tak se přídržela Rut děvek Bózových, a sbírala klasy, dokudž nesžali ječmene a pšenice, a bydlela u svegruše své. 
+**[2:23]** A tak se přídržela Rut děvek Bózových, a sbírala klasy, dokudž nesžali ječmene a pšenice, a bydlela u svegruše své.
 
 ### Chapter 3
 
@@ -14866,7 +14866,7 @@
 
 **[3:17]** A řekla: Šest měr těchto ječmene dal mi, nebo řekl ke mně: Nenavrátíš se prázdná k svegruši své.
 
-**[3:18]** I řekla jí Noémi: Počekej, dcero má, až porozumíš, jak to padne; neboť neobleví muž ten, až tu věc dnes k místu přivede. 
+**[3:18]** I řekla jí Noémi: Počekej, dcero má, až porozumíš, jak to padne; neboť neobleví muž ten, až tu věc dnes k místu přivede.
 
 ### Chapter 4
 
@@ -14912,7 +14912,7 @@
 
 **[4:21]** Salmon pak zplodil Bóza, Bóz pak zplodil Obéda;
 
-**[4:22]** Obéd pak zplodil Izai, Izai pak zplodil Davida.  
+**[4:22]** Obéd pak zplodil Izai, Izai pak zplodil Davida.
 
 ## I Samuel
 
@@ -14972,7 +14972,7 @@
 
 **[1:27]** Za toto dítě jsem prosila, a dal mi Hospodin k prosbě mé to, čehož jsem prosila od něho.
 
-**[1:28]** Protož já také oddávám jej Hospodinu; po všecky dny, v nichž živ bude, oddanýť jest Hospodinu. A učinil tu poklonu Hospodinu. 
+**[1:28]** Protož já také oddávám jej Hospodinu; po všecky dny, v nichž živ bude, oddanýť jest Hospodinu. A učinil tu poklonu Hospodinu.
 
 ### Chapter 2
 
@@ -15046,7 +15046,7 @@
 
 **[2:35]** Vzbudím pak sobě kněze věrného, kterýž vedlé srdce mého a vedlé duše mé vše konati bude, a vzdělám jemu dům stálý, aby přisluhoval před pomazaným mým po všecky dny.
 
-**[2:36]** A budeť, že kdožkoli pozůstane z domu tvého, přijde, aby se poklonil jemu, pro peníz stříbrný a pro skyvu chleba, a řekne: Připusť mne, prosím, k jedné třídě kněžské, abych jedl chléb. 
+**[2:36]** A budeť, že kdožkoli pozůstane z domu tvého, přijde, aby se poklonil jemu, pro peníz stříbrný a pro skyvu chleba, a řekne: Připusť mne, prosím, k jedné třídě kněžské, abych jedl chléb.
 
 ### Chapter 3
 
@@ -15090,7 +15090,7 @@
 
 **[3:20]** Z čehož poznal všecken Izrael od Dan až do Bersabé, že Samuel jest věrný prorok Hospodinův.
 
-**[3:21]** Nebo se jemu i potom ukazoval Hospodin v Sílo, jakož se byl prvé zjevil Hospodin Samuelovi v Sílo, skrze řeč Hospodinovu. 
+**[3:21]** Nebo se jemu i potom ukazoval Hospodin v Sílo, jakož se byl prvé zjevil Hospodin Samuelovi v Sílo, skrze řeč Hospodinovu.
 
 ### Chapter 4
 
@@ -15136,7 +15136,7 @@
 
 **[4:21]** I nazvala dítě Ichabod, řkuci: Přestěhovala se sláva z Izraele; proto že vzata byla truhla Boží, a umřel tchán i muž její.
 
-**[4:22]** Protož řekla: Přestěhovala se sláva z Izraele, nebo vzata jest truhla Boží. 
+**[4:22]** Protož řekla: Přestěhovala se sláva z Izraele, nebo vzata jest truhla Boží.
 
 ### Chapter 5
 
@@ -15162,7 +15162,7 @@
 
 **[5:11]** Protož poslavše, shromáždili všecka knížata Filistinská, a řekli: Odešlete truhlu Boha Izraelského, ať se navrátí na místo své, a nezmoří nás i lidu našeho. Nebo bylo trápení smrtelné po všem tom městě, a velmi těžká byla ruka Boží tam.
 
-**[5:12]** Muži pak, kteříž nezemřeli, raněni byli neduhy na zadku, tak že křik města vstupoval až k nebi. 
+**[5:12]** Muži pak, kteříž nezemřeli, raněni byli neduhy na zadku, tak že křik města vstupoval až k nebi.
 
 ### Chapter 6
 
@@ -15206,7 +15206,7 @@
 
 **[6:20]** Protož řekli muži Betsemští: Kdož bude moci ostáti před Hospodinem Bohem svatým tímto? A k komu odejde od nás?
 
-**[6:21]** I poslali posly k obyvatelům Kariatjeharim, řkouce: Vrátili zase Filistinští truhlu Hospodinovu; přiďte, vezměte ji k sobě. 
+**[6:21]** I poslali posly k obyvatelům Kariatjeharim, řkouce: Vrátili zase Filistinští truhlu Hospodinovu; přiďte, vezměte ji k sobě.
 
 ### Chapter 7
 
@@ -15242,7 +15242,7 @@
 
 **[7:16]** A chodě každého roku, obcházel Bethel a Galgala i Masfa, a soudil Izraele na všech těch místech.
 
-**[7:17]** (Potom navracoval se do Ramata, nebo tam byl dům jeho, a tam soudil Izraele.) Tam také vzdělal oltář Hospodinu. 
+**[7:17]** (Potom navracoval se do Ramata, nebo tam byl dům jeho, a tam soudil Izraele.) Tam také vzdělal oltář Hospodinu.
 
 ### Chapter 8
 
@@ -15288,7 +15288,7 @@
 
 **[8:21]** Vyslyšev tedy Samuel všecka slova lidu, oznámil je Hospodinu.
 
-**[8:22]** I řekl Hospodin Samuelovi: Uposlechni hlasu jejich, a ustanov jim krále. Protož řekl Samuel mužům Izraelským: Jdětež jeden každý do města svého. 
+**[8:22]** I řekl Hospodin Samuelovi: Uposlechni hlasu jejich, a ustanov jim krále. Protož řekl Samuel mužům Izraelským: Jdětež jeden každý do města svého.
 
 ### Chapter 9
 
@@ -15344,7 +15344,7 @@
 
 **[9:26]** Potom vstali velmi ráno. I stalo se, když záře vzcházela, že zavolal Samuel Saule na hůru, řka: Vstaň, a propustím tě. Vstal tedy Saul, a vyšli oba ven, on i Samuel.
 
-**[9:27]** A když přicházeli na konec města, řekl Samuel Saulovi: Rci služebníku, ať jde napřed, (i šel;) ty pak pozastav se málo, ažť oznámím řeč Boží. 
+**[9:27]** A když přicházeli na konec města, řekl Samuel Saulovi: Rci služebníku, ať jde napřed, (i šel;) ty pak pozastav se málo, ažť oznámím řeč Boží.
 
 ### Chapter 10
 
@@ -15400,7 +15400,7 @@
 
 **[10:26]** Také i Saul odšel do domu svého do Gabaa; a odešla s ním vojska, jichžto srdcí Bůh se dotekl.
 
-**[10:27]** Ale lidé nešlechetní řekli: Tento-liž nás vysvobodí? I pohrdali jím, ani mu pocty nepřinesli. On pak činil se neslyše. 
+**[10:27]** Ale lidé nešlechetní řekli: Tento-liž nás vysvobodí? I pohrdali jím, ani mu pocty nepřinesli. On pak činil se neslyše.
 
 ### Chapter 11
 
@@ -15432,7 +15432,7 @@
 
 **[11:14]** I řekl Samuel lidu: Přiďte, a poďme do Galgala, obnovíme tam království.
 
-**[11:15]** Šel tedy všecken lid do Galgala, a ustanovili tam Saule za krále před Hospodinem v Galgala, a obětovali také tam oběti pokojné před Hospodinem. I veselil se tam Saul a všickni muži Izraelští velmi velice. 
+**[11:15]** Šel tedy všecken lid do Galgala, a ustanovili tam Saule za krále před Hospodinem v Galgala, a obětovali také tam oběti pokojné před Hospodinem. I veselil se tam Saul a všickni muži Izraelští velmi velice.
 
 ### Chapter 12
 
@@ -15484,7 +15484,7 @@
 
 **[12:24]** A však bojte se Hospodina a služte jemu v pravdě celým srdcem svým; nebo vidíte, jak veliké věci učinil s vámi.
 
-**[12:25]** Jestliže pak předce zle činiti budete, i vy i král váš zahynete. 
+**[12:25]** Jestliže pak předce zle činiti budete, i vy i král váš zahynete.
 
 ### Chapter 13
 
@@ -15532,7 +15532,7 @@
 
 **[13:22]** I bylo, že v čas boje nenalézalo se meče ani kopí u žádného z lidu toho, kterýž byl s Saulem a s Jonatou, toliko u Saule a u Jonaty syna jeho.
 
-**[13:23]** Vyšla pak stráž Filistinských k cestám Michmas. 
+**[13:23]** Vyšla pak stráž Filistinských k cestám Michmas.
 
 ### Chapter 14
 
@@ -15638,7 +15638,7 @@
 
 **[14:51]** Nebo Cis byl otec Saulův, a Ner otec Abnerův, syn Abielův.
 
-**[14:52]** Byla pak válka veliká s Filistinskými po všecky dny Saulovy, protož kohožkoli Saul viděl muže silného, a kohokoli udatného, bral ho k sobě. 
+**[14:52]** Byla pak válka veliká s Filistinskými po všecky dny Saulovy, protož kohožkoli Saul viděl muže silného, a kohokoli udatného, bral ho k sobě.
 
 ### Chapter 15
 
@@ -15710,7 +15710,7 @@
 
 **[15:34]** Potom odšel Samuel do Ráma, Saul pak vstoupil do domu svého, do Gabaa Saulova.
 
-**[15:35]** A již potom více Samuel neviděl Saule až do dne smrti své; však plakal Samuel Saule. Hospodin pak želel toho, že učinil Saule králem nad Izraelem. 
+**[15:35]** A již potom více Samuel neviděl Saule až do dne smrti své; však plakal Samuel Saule. Hospodin pak želel toho, že učinil Saule králem nad Izraelem.
 
 ### Chapter 16
 
@@ -15726,7 +15726,7 @@
 
 **[16:6]** Když pak přišli, vida Eliába, řekl: Jistě před Hospodinem jest pomazaný jeho.
 
-**[16:7]** Ale Hospodin řekl Samuelovi: Nehleď na tvárnost jeho a na zrůst postavy jeho, nebo jsem ho zavrhl; neboť nepatřím, nač patří člověk. Člověk zajisté hledí na to, což jest před očima, ale Hospodin hledí k srdci.
+**[16:7]** Ale Hospodin řekl Samuelovi: Nehleď na tvárnost jeho a na zrůst postavy jeho, nebo jsem ho zavrhl; neboť ne patřím, nač patří člověk. Člověk zajisté hledí na to, což jest před očima, ale Hospodin hledí k srdci.
 
 **[16:8]** I povolal Izai Abinadaba, a kázal mu jíti před Samuele. Kterýž řekl: Také ani toho nevyvolil Hospodin.
 
@@ -15758,7 +15758,7 @@
 
 **[16:22]** Potom poslal opět Saul k Izai, řka: Medle, nechť David stojí přede mnou, neboť jest našel milost před očima mýma.
 
-**[16:23]** I bývalo, že kdyžkoli napadal duch Boží Saule, David, bera harfu, hrával rukou svou; i míval Saul polehčení, a lépe mu bývalo, nebo ten duch zlý odstupoval od něho. 
+**[16:23]** I bývalo, že kdyžkoli napadal duch Boží Saule, David, bera harfu, hrával rukou svou; i míval Saul polehčení, a lépe mu bývalo, nebo ten duch zlý odstupoval od něho.
 
 ### Chapter 17
 
@@ -15876,7 +15876,7 @@
 
 **[17:57]** Když se pak vracoval David od zabití Filistinského toho, pojav ho Abner, přivedl jej před Saule, an drží hlavu Filistinského v ruce své.
 
-**[17:58]** I řekl jemu Saul: Čí jsi syn, mládenče? Odpověděl David: Syn služebníka tvého Izai Betlémského. 
+**[17:58]** I řekl jemu Saul: Čí jsi syn, mládenče? Odpověděl David: Syn služebníka tvého Izai Betlémského.
 
 ### Chapter 18
 
@@ -15938,7 +15938,7 @@
 
 **[18:29]** Ještě tím více Saul obával se Davida. I byl Saul nepřítelem Davidovým po všecky dny.
 
-**[18:30]** Vtrhovali pak do země knížata Filistinská; i bývalo, že kdyžkoli vycházeli, opatrněji sobě počínal David proti nim nade všecky služebníky Saulovy, pročež i jméno jeho bylo velmi slavné. 
+**[18:30]** Vtrhovali pak do země knížata Filistinská; i bývalo, že kdyžkoli vycházeli, opatrněji sobě počínal David proti nim nade všecky služebníky Saulovy, pročež i jméno jeho bylo velmi slavné.
 
 ### Chapter 19
 
@@ -15988,7 +15988,7 @@
 
 **[19:23]** I šel tam do Náiot v Ráma; a sstoupil i na něj Duch Boží, a jda dále, prorokoval, až i přišel do Náiot v Ráma.
 
-**[19:24]** Kdežto svlékl také sám roucho své a prorokoval i on před Samuelem, a padna, ležel svlečený celý ten den a noc. Odkudž se říká: Zdali také Saul mezi proroky? 
+**[19:24]** Kdežto svlékl také sám roucho své a prorokoval i on před Samuelem, a padna, ležel svlečený celý ten den a noc. Odkudž se říká: Zdali také Saul mezi proroky?
 
 ### Chapter 20
 
@@ -16074,7 +16074,7 @@
 
 **[20:41]** A když odešlo pachole, vstal David s strany polední, a padna na tvář svou k zemi, poklonil se třikrát; a políbivše jeden druhého plakali oba, až Jonata Davida pozdvihl.
 
-**[20:42]** I řekl Jonata Davidovi: Jdiž u pokoji, a což jsme sobě oba přisáhli ve jménu Hospodinovu, řkouce: Hospodin budiž svědkem mezi mnou a tebou, i mezi semenem mým a mezi semenem tvým, nechť trvá až na věky. A tak vstav David, odšel, Jonata pak navrátil se do města. 
+**[20:42]** I řekl Jonata Davidovi: Jdiž u pokoji, a což jsme sobě oba přisáhli ve jménu Hospodinovu, řkouce: Hospodin budiž svědkem mezi mnou a tebou, i mezi semenem mým a mezi semenem tvým, nechť trvá až na věky. A tak vstav David, odšel, Jonata pak navrátil se do města.
 
 ### Chapter 21
 
@@ -16106,7 +16106,7 @@
 
 **[21:14]** Tedy řekl Achis služebníkům svým: Hle, viděvše člověka blázna, pročež jste ho ke mně přivedli?
 
-**[21:15]** Nedostává-liž se mi bláznů, že jste uvedli tohoto, aby bláznil přede mnou? Ten-liž má vjíti do mého domu? 
+**[21:15]** Nedostává-liž se mi bláznů, že jste uvedli tohoto, aby bláznil přede mnou? Ten-liž má vjíti do mého domu?
 
 ### Chapter 22
 
@@ -16154,7 +16154,7 @@
 
 **[22:22]** I řekl David Abiatarovi: Vědělť jsem toho dne, když tam byl Doeg Idumejský, že jistotně oznámí Saulovi; jáť jsem příčinu dal k zhubení všech duší domu otce tvého.
 
-**[22:23]** Zůstaň u mne, neboj se; nebo kdož hledati bude bezživotí mého, hledati bude bezživotí tvého, ale ochráněn budeš u mne. 
+**[22:23]** Zůstaň u mne, neboj se; nebo kdož hledati bude bezživotí mého, hledati bude bezživotí tvého, ale ochráněn budeš u mne.
 
 ### Chapter 23
 
@@ -16214,7 +16214,7 @@
 
 **[23:28]** A protož navrátil se Saul od honění Davida, táhl proti Filistinským. Pročež nazvali to místo: Skála rozdělující.
 
-**[23:29]** Odšed pak David odtud, bydlil v místech bezpečných Engadi. 
+**[23:29]** Odšed pak David odtud, bydlil v místech bezpečných Engadi.
 
 ### Chapter 24
 
@@ -16260,7 +16260,7 @@
 
 **[24:21]** Nyní, pravím, přisáhni mi skrze Hospodina, že nevypléníš semene mého po mně, a nevyhladíš jména mého z domu otce mého.
 
-**[24:22]** A tak přisáhl David Saulovi. I odšel Saul do domu svého, David pak a muži jeho vstoupili na bezpečné místo. 
+**[24:22]** A tak přisáhl David Saulovi. I odšel Saul do domu svého, David pak a muži jeho vstoupili na bezpečné místo.
 
 ### Chapter 25
 
@@ -16350,7 +16350,7 @@
 
 **[25:43]** Též i Achinoam pojal David z Jezreel, a byly i tyto dvě manželky jeho.
 
-**[25:44]** Nebo Saul Míkol dceru svou, manželku Davidovu, dal byl Faltiovi, synu Lais, kterýž byl z Gallim. 
+**[25:44]** Nebo Saul Míkol dceru svou, manželku Davidovu, dal byl Faltiovi, synu Lais, kterýž byl z Gallim.
 
 ### Chapter 26
 
@@ -16402,7 +16402,7 @@
 
 **[26:24]** A protož jakož jsem já dnes sobě draze vážil života tvého, tak budiž draze vážen život můj před Hospodinem, aby mne vysvobodil ze vší úzkosti.
 
-**[26:25]** Tedy řekl Saul Davidovi: Požehnaný jsi, synu můj Davide. Tak čině, dokážeš ctnosti, a v tom se zmocňuje, zkvetneš. V tom odšel David cestou svou, Saul také navrátil se k místu svému. 
+**[26:25]** Tedy řekl Saul Davidovi: Požehnaný jsi, synu můj Davide. Tak čině, dokážeš ctnosti, a v tom se zmocňuje, zkvetneš. V tom odšel David cestou svou, Saul také navrátil se k místu svému.
 
 ### Chapter 27
 
@@ -16428,7 +16428,7 @@
 
 **[27:11]** Neživil pak David ani muže ani ženy, aby koho přivoditi měl do Gát; nebo myslil: Aby na nás nežalovali, řkouce: Tak učinil David. A ten obyčej jeho byl po všecky dny, dokudž zůstával v krajině Filistinské.
 
-**[27:12]** I věřil Achis Davidovi, řka: Jižtě se velice zošklivil lidu svému Izraelskému, protož budeť mi za služebníka na věky. 
+**[27:12]** I věřil Achis Davidovi, řka: Jižtě se velice zošklivil lidu svému Izraelskému, protož budeť mi za služebníka na věky.
 
 ### Chapter 28
 
@@ -16480,7 +16480,7 @@
 
 **[28:24]** Měla pak ta žena tele tučné v domě, kteréž spěšně zabila, a vzavši mouky, zadělala, a napekla z ní chlebů přesných.
 
-**[28:25]** Potom přinesla před Saule a služebníky jeho, kteříž jedli, a vstavše v touž noc, odešli. 
+**[28:25]** Potom přinesla před Saule a služebníky jeho, kteříž jedli, a vstavše v touž noc, odešli.
 
 ### Chapter 29
 
@@ -16504,7 +16504,7 @@
 
 **[29:10]** Nyní tedy vstaň tím raněji a služebníci pána tvého, kteříž přišli s tebou, a vstanouce tím spíše ráno, hned jakž by zasvitávalo, odejděte.
 
-**[29:11]** I vstal David, on i muži jeho, aby odšel tím raněji, a navrátil se do země Filistinské. Filistinští pak táhli do Jezreel. 
+**[29:11]** I vstal David, on i muži jeho, aby odšel tím raněji, a navrátil se do země Filistinské. Filistinští pak táhli do Jezreel.
 
 ### Chapter 30
 
@@ -16568,7 +16568,7 @@
 
 **[30:30]** I těm, kteříž v Horma, a kteříž v Korasan, a kteříž v Atach;
 
-**[30:31]** A kteříž byli v Hebronu, i po všech místech, na nichž býval David s lidem svým. 
+**[30:31]** A kteříž byli v Hebronu, i po všech místech, na nichž býval David s lidem svým.
 
 ### Chapter 31
 
@@ -16596,7 +16596,7 @@
 
 **[31:12]** Zdvihli se všickni muži silní, a jdouce celou noc, sňali tělo Saulovo i těla synů jeho se zdi Betsanské; a když se navrátili do Jábes, spálili je tam.
 
-**[31:13]** A vzavše kosti jejich, pochovali je pod stromem v Jábes, a postili se sedm dní.  
+**[31:13]** A vzavše kosti jejich, pochovali je pod stromem v Jábes, a postili se sedm dní.
 
 ## II Samuel
 
@@ -16654,7 +16654,7 @@
 
 **[1:26]** Velice jsem po tobě teskliv, bratře můj Jonato. Byl jsi mi příjemný náramně; vzácnější u mne byla milost tvá nežli milost žen.
 
-**[1:27]** Ach, jakť jsou padli udatní, a zahynula odění válečná. 
+**[1:27]** Ach, jakť jsou padli udatní, a zahynula odění válečná.
 
 ### Chapter 2
 
@@ -16720,7 +16720,7 @@
 
 **[2:31]** Služebníci pak Davidovi zbili z Beniaminských a z mužů Abnerových tři sta a šedesáte mužů, kteříž tu zahynuli.
 
-**[2:32]** A vzavše Azaele, pohřbili jej v hrobě otce jeho, kterýž byl v Betlémě. Potom šli celou tu noc Joáb a muži jeho; i rozednilo se, když přicházeli do Hebronu. 
+**[2:32]** A vzavše Azaele, pohřbili jej v hrobě otce jeho, kterýž byl v Betlémě. Potom šli celou tu noc Joáb a muži jeho; i rozednilo se, když přicházeli do Hebronu.
 
 ### Chapter 3
 
@@ -16800,7 +16800,7 @@
 
 **[3:38]** Řekl pak král služebníkům svým: Nevíte-liž, že kníže, a veliké, padlo dnes v Izraeli?
 
-**[3:39]** A já ještě nyní mdlý jsem, jakožto pomazaný král, muži pak tito, synové Sarvie, jsou mi nepovolní. Odplatiž Hospodin tomu, kdož zle činí, vedlé zlosti jeho. 
+**[3:39]** A já ještě nyní mdlý jsem, jakožto pomazaný král, muži pak tito, synové Sarvie, jsou mi nepovolní. Odplatiž Hospodin tomu, kdož zle činí, vedlé zlosti jeho.
 
 ### Chapter 4
 
@@ -16826,7 +16826,7 @@
 
 **[4:11]** Čím pak více lidi bezbožné, kteříž zamordovali muže spravedlivého v domě jeho na ložci jeho? A nyní, zdaliž nebudu vyhledávati krve jeho z ruky vaší, a nevyhladím vás z země?
 
-**[4:12]** I rozkázal David služebníkům, aby je zbili. I zutínali jim ruce i nohy jejich, a pověsili u rybníka při Hebronu. Hlavu pak Izbozetovu vzavše, pochovali v hrobě Abnerově v Hebronu. 
+**[4:12]** I rozkázal David služebníkům, aby je zbili. I zutínali jim ruce i nohy jejich, a pověsili u rybníka při Hebronu. Hlavu pak Izbozetovu vzavše, pochovali v hrobě Abnerově v Hebronu.
 
 ### Chapter 5
 
@@ -16878,7 +16878,7 @@
 
 **[5:24]** A když uslyšíš, že šustí vrchové moruší, hneš se také; nebo tehdáž vyjde Hospodin před tebou, aby zbil vojska Filistinských.
 
-**[5:25]** I učinil David tak, jakž mu přikázal Hospodin, a porazil Filistinské od Gabaa, až kudy se jde do Gázer. 
+**[5:25]** I učinil David tak, jakž mu přikázal Hospodin, a porazil Filistinské od Gabaa, až kudy se jde do Gázer.
 
 ### Chapter 6
 
@@ -16926,7 +16926,7 @@
 
 **[6:22]** Anobrž čím se ještě více opovrhu nežli tuto, a ponížím se u sebe sám, tím i u těch děvek, o nichž jsi mluvila, i u těch, pravím, slavnější budu.
 
-**[6:23]** Protož Míkol dcera Saulova neměla žádného plodu až do dne smrti své. 
+**[6:23]** Protož Míkol dcera Saulova neměla žádného plodu až do dne smrti své.
 
 ### Chapter 7
 
@@ -16986,7 +16986,7 @@
 
 **[7:28]** A tak již, Panovníče Hospodine, ty sám jsi Bůh, a slova tvá jsou pravda, jimiž jsi zaslíbil služebníku svému dobré věci tyto.
 
-**[7:29]** Již tedy rač požehnati domu služebníka svého, aby trval na věky před oblíčejem tvým. Nebo ty jsi, Hospodine Bože, mluvil, že požehnáním tvým požehnán bude dům služebníka tvého na věky. 
+**[7:29]** Již tedy rač požehnati domu služebníka svého, aby trval na věky před oblíčejem tvým. Nebo ty jsi, Hospodine Bože, mluvil, že požehnáním tvým požehnán bude dům služebníka tvého na věky.
 
 ### Chapter 8
 
@@ -17024,7 +17024,7 @@
 
 **[8:17]** Sádoch také syn Achitobův a Achimelech syn Abiatarův kněžími, a Saraiáš písařem.
 
-**[8:18]** Benaiáš pak syn Joiadův byl nad Cheretejskými a Peletejskými, a synové Davidovi knížaty. 
+**[8:18]** Benaiáš pak syn Joiadův byl nad Cheretejskými a Peletejskými, a synové Davidovi knížaty.
 
 ### Chapter 9
 
@@ -17052,7 +17052,7 @@
 
 **[9:12]** Měl také Mifibozet syna malého, jemuž jméno bylo Mícha; a všickni, kteříž bydlili v domě Síbově, byli za služebníky Mifibozetovi.
 
-**[9:13]** A tak Mifibozet zůstával v Jeruzalémě, proto že vždycky za stolem královským jídal; a byl kulhavý na obě noze. 
+**[9:13]** A tak Mifibozet zůstával v Jeruzalémě, proto že vždycky za stolem královským jídal; a byl kulhavý na obě noze.
 
 ### Chapter 10
 
@@ -17092,7 +17092,7 @@
 
 **[10:18]** Tedy utekli Syrští před Izraelem, a porazil David z Syrských sedm set vozů a čtyřidceti tisíc jezdců. Sobacha také hejtmana vojska toho ranil, i umřel tu.
 
-**[10:19]** Když pak viděli všickni králové, kteříž byli při Hadarezerovi, že jsou poraženi od Izraele, vešli v pokoj s Izraelem a sloužili jemu. A nesměli již více Syrští táhnouti na pomoc Ammonitským. 
+**[10:19]** Když pak viděli všickni králové, kteříž byli při Hadarezerovi, že jsou poraženi od Izraele, vešli v pokoj s Izraelem a sloužili jemu. A nesměli již více Syrští táhnouti na pomoc Ammonitským.
 
 ### Chapter 11
 
@@ -17148,7 +17148,7 @@
 
 **[11:26]** Uslyševši pak manželka Uriášova, že umřel Uriáš muž její, plakala manžela svého.
 
-**[11:27]** A když pominul pláč, poslav David, vzal ji do domu svého, a měl ji za manželku; i porodila mu syna. Ale nelíbilo se to Hospodinu, co učinil David. 
+**[11:27]** A když pominul pláč, poslav David, vzal ji do domu svého, a měl ji za manželku; i porodila mu syna. Ale nelíbilo se to Hospodinu, co učinil David.
 
 ### Chapter 12
 
@@ -17212,7 +17212,7 @@
 
 **[12:30]** A sňal korunu krále jejich s hlavy jeho, kteráž vážila centnéř zlata, a bylo v ní kamení drahé, a vstavena byla na hlavu Davidovu. Vyvezl též kořisti města velmi veliké.
 
-**[12:31]** Lid pak, kterýž v něm byl, vyvedl a dal jej pod pily a pod brány železné a pod sekery železné, a vehnal je do peci cihelné. A tak činil všechněm městům Ammonitským. Potom navrátil se David se vším lidem do Jeruzaléma. 
+**[12:31]** Lid pak, kterýž v něm byl, vyvedl a dal jej pod pily a pod brány železné a pod sekery železné, a vehnal je do peci cihelné. A tak činil všechněm městům Ammonitským. Potom navrátil se David se vším lidem do Jeruzaléma.
 
 ### Chapter 13
 
@@ -17292,7 +17292,7 @@
 
 **[13:38]** Absolon tedy utíkaje, přišel do Gessur, a byl tam tři léta.
 
-**[13:39]** Potom žádal David vyjíti k Absolonovi, nebo již byl oželel smrti Amnonovy. 
+**[13:39]** Potom žádal David vyjíti k Absolonovi, nebo již byl oželel smrti Amnonovy.
 
 ### Chapter 14
 
@@ -17360,7 +17360,7 @@
 
 **[14:32]** Odpověděl Absolon Joábovi: Aj, poslal jsem k tobě, řka: Přiď sem, a pošli tě k králi, abys řekl jemu: I proč jsem přišel z Gessur? Lépe mi bylo ještě tam zůstati. Protož nyní nechať uzřím tvář královu. Pakliť jest na mně nepravost, nechť mne rozkáže zabiti.
 
-**[14:33]** Tedy přišel Joáb k králi a oznámil to jemu. I povolal Absolona. Kterýž přišed k králi, poklonil se na tvář svou až k zemi před ním. I políbil král Absolona. 
+**[14:33]** Tedy přišel Joáb k králi a oznámil to jemu. I povolal Absolona. Kterýž přišed k králi, poklonil se na tvář svou až k zemi před ním. I políbil král Absolona.
 
 ### Chapter 15
 
@@ -17436,7 +17436,7 @@
 
 **[15:36]** Aj, tam s nimi jsou dva synové jejich, Achimaas Sádochův a Jonata Abiatarův, po nichž mi vzkážete, což byste koli uslyšeli.
 
-**[15:37]** Šel tedy Chusai, přítel Davidův do města; Absolon také přijel do Jeruzaléma. 
+**[15:37]** Šel tedy Chusai, přítel Davidův do města; Absolon také přijel do Jeruzaléma.
 
 ### Chapter 16
 
@@ -17484,7 +17484,7 @@
 
 **[16:22]** A protož rozbili Absolonovi stan na paláci. I všel Absolon k ženinám otce svého před očima všeho Izraele.
 
-**[16:23]** Rada pak Achitofelova, kterouž dával toho času, byla, jako by se kdo doptával na řeč Boží. Taková byla každá rada Achitofelova, jakož u Davida tak u Absolona. 
+**[16:23]** Rada pak Achitofelova, kterouž dával toho času, byla, jako by se kdo doptával na řeč Boží. Taková byla každá rada Achitofelova, jakož u Davida tak u Absolona.
 
 ### Chapter 17
 
@@ -17544,7 +17544,7 @@
 
 **[17:28]** Lůže, číše a nádoby hliněné, též pšenice, ječmene, mouky, krup, bobu, šocovice a pražmy,
 
-**[17:29]** Ano i medu, másla a ovcí i syrů kravských přinesli Davidovi a lidu, kterýž s ním byl, aby jedli. Nebo řekli: Lid ten jest hladovitý a ustalý, i žíznivý na té poušti. 
+**[17:29]** Ano i medu, másla a ovcí i syrů kravských přinesli Davidovi a lidu, kterýž s ním byl, aby jedli. Nebo řekli: Lid ten jest hladovitý a ustalý, i žíznivý na té poušti.
 
 ### Chapter 18
 
@@ -17612,7 +17612,7 @@
 
 **[18:32]** Ale král řekl k Chuzi: Jest-liž živ syn můj Absolon? Odpověděl Chuzi: Nechť jsou tak, jako syn králův, nepřátelé pána mého krále, i všickni, kteříž povstávají proti tobě ke zlému.
 
-**[18:33]** I zarmoutil se král, a vstoupiv do horního pokoje na bráně, plakal a jda, mluvil takto: Synu můj Absolone, synu můj, synu můj Absolone! Ó kdybych byl umřel za tebe, Absolone synu můj, synu můj! 
+**[18:33]** I zarmoutil se král, a vstoupiv do horního pokoje na bráně, plakal a jda, mluvil takto: Synu můj Absolone, synu můj, synu můj Absolone! Ó kdybych byl umřel za tebe, Absolone synu můj, synu můj!
 
 ### Chapter 19
 
@@ -17700,7 +17700,7 @@
 
 **[19:42]** I odpověděli všickni muži Judští mužům Izraelským: Proto že král jest příbuzný náš. A proč se hněváte o to? Zdaliž nás za to král pokrmy opatroval? Zdaliž nám jaké dary dal?
 
-**[19:43]** Odpovídajíce pak muži Izraelští mužům Judským, řekli: Deset dílů máme v králi, a protož i v Davidovi máme více nežli vy. Pročež tedy málo jste nás sobě vážili? Zdaliž jsme my prvé o to nemluvili, abychom zase přivedli krále svého? Ale tvrdší byla řeč mužů Judských nad řeč mužů Izraelských. 
+**[19:43]** Odpovídajíce pak muži Izraelští mužům Judským, řekli: Deset dílů máme v králi, a protož i v Davidovi máme více nežli vy. Pročež tedy málo jste nás sobě vážili? Zdaliž jsme my prvé o to nemluvili, abychom zase přivedli krále svého? Ale tvrdší byla řeč mužů Judských nad řeč mužů Izraelských.
 
 ### Chapter 20
 
@@ -17754,7 +17754,7 @@
 
 **[20:25]** A Seiáš písařem, Sádoch pak a Abiatar byli kněžími.
 
-**[20:26]** Híra také Jairský byl knížetem Davidovým. 
+**[20:26]** Híra také Jairský byl knížetem Davidovým.
 
 ### Chapter 21
 
@@ -17800,7 +17800,7 @@
 
 **[21:21]** Ten když haněl Izraele, zabil ho Jonata, syn Semmaa bratra Davidova.
 
-**[21:22]** Ti čtyři byli synové jednoho obra v Gát, kteříž padli od ruky Davidovy a od ruky služebníků jeho. 
+**[21:22]** Ti čtyři byli synové jednoho obra v Gát, kteříž padli od ruky Davidovy a od ruky služebníků jeho.
 
 ### Chapter 22
 
@@ -17904,7 +17904,7 @@
 
 **[22:50]** Protož chváliti tě budu, Hospodine, mezi národy, a jménu tvému žalmy zpívati budu.
 
-**[22:51]** Onť jest hrad jistého spasení krále svého, a ten, kterýž činí milosrdenství pomazanému svému Davidovi, i semeni jeho až na věky. 
+**[22:51]** Onť jest hrad jistého spasení krále svého, a ten, kterýž činí milosrdenství pomazanému svému Davidovi, i semeni jeho až na věky.
 
 ### Chapter 23
 
@@ -17984,7 +17984,7 @@
 
 **[23:38]** Híra Itrejský, Gareb Itrejský,
 
-**[23:39]** Uriáš Hetejský. Všech třidceti a sedm. 
+**[23:39]** Uriáš Hetejský. Všech třidceti a sedm.
 
 ### Chapter 24
 
@@ -18036,7 +18036,7 @@
 
 **[24:24]** Řekl pak král Aravnovi: Nikoli, ale raději koupím od tebe, a zaplatím, aniž budu obětovati Hospodinu Bohu svému oběti zápalné darem dané. A tak koupil David humno a voly za padesáte lotů stříbra.
 
-**[24:25]** A vzdělav tu David oltář Hospodinu, obětoval oběti zápalné a pokojné. I byl milostiv Hospodin zemi, a přestala zhouba v Izraeli.  
+**[24:25]** A vzdělav tu David oltář Hospodinu, obětoval oběti zápalné a pokojné. I byl milostiv Hospodin zemi, a přestala zhouba v Izraeli.
 
 ## I Kings
 
@@ -18146,7 +18146,7 @@
 
 **[1:52]** I řekl Šalomoun: Bude-li muž statečný, nespadneť vlas s něho na zem; pakliť co zlého na něm nalezeno bude, umřeť.
 
-**[1:53]** Poslal tedy král Šalomoun, aby jej odvedli od oltáře. Kterýž přišed, poklonil se králi Šalomounovi. Jemuž řekl Šalomoun: Jdiž do domu svého. 
+**[1:53]** Poslal tedy král Šalomoun, aby jej odvedli od oltáře. Kterýž přišed, poklonil se králi Šalomounovi. Jemuž řekl Šalomoun: Jdiž do domu svého.
 
 ### Chapter 2
 
@@ -18240,7 +18240,7 @@
 
 **[2:45]** Král pak Šalomoun bude požehnaný, a stolice Davidova stálá před Hospodinem až na věky.
 
-**[2:46]** I přikázal král Banaiášovi synu Joiadovu, kterýž vyšed, obořil se na něj, tak že umřel. A tak utvrzeno jest království v ruce Šalomounově. 
+**[2:46]** I přikázal král Banaiášovi synu Joiadovu, kterýž vyšed, obořil se na něj, tak že umřel. A tak utvrzeno jest království v ruce Šalomounově.
 
 ### Chapter 3
 
@@ -18298,7 +18298,7 @@
 
 **[3:27]** K čemuž odpovídaje král, řekl: Dejtež této dítě to živé, a nikoli nezabijejte ho, onať jest matka jeho.
 
-**[3:28]** Tedy uslyšavše všickni Izraelští soud tento, kterýž vynesl král, báli se krále; nebo viděli, že moudrost Boží jest v srdci jeho k vykonávání soudu. 
+**[3:28]** Tedy uslyšavše všickni Izraelští soud tento, kterýž vynesl král, báli se krále; nebo viděli, že moudrost Boží jest v srdci jeho k vykonávání soudu.
 
 ### Chapter 4
 
@@ -18368,7 +18368,7 @@
 
 **[4:33]** Vypsal též i o stromích, počna od cedru, kterýž jest na Libánu, až do mchu, kterýž roste na zdi; psal i o hovadech a o ptácích, a zeměplazích a o rybách.
 
-**[4:34]** Protož přicházeli ze všech národů poslouchati moudrosti Šalomounovy, i ode všech králů země, kteříž slyšeli o moudrosti jeho. 
+**[4:34]** Protož přicházeli ze všech národů poslouchati moudrosti Šalomounovy, i ode všech králů země, kteříž slyšeli o moudrosti jeho.
 
 ### Chapter 5
 
@@ -18406,7 +18406,7 @@
 
 **[5:17]** I přikázal král, aby navozili kamení velikého, kamení nákladného k založení toho domu, a kamení tesaného,
 
-**[5:18]** Kteréž tesali kameníci Šalomounovi a kameníci Chíramovi a Gibličtí. A tak připravovali dříví i kamení k stavení domu toho. 
+**[5:18]** Kteréž tesali kameníci Šalomounovi a kameníci Chíramovi a Gibličtí. A tak připravovali dříví i kamení k stavení domu toho.
 
 ### Chapter 6
 
@@ -18444,7 +18444,7 @@
 
 **[6:17]** Pročež čtyřidcíti loktů byl dům, jenž jest chrám přední.
 
-**[6:18]** A na tom cedrovém domu vnitř otaflování byly řezby, nápodobné tykvím planým a květům otevřeným. Všecko z cedru bylo, tak že ani kamene nebylo viděti.
+**[6:18]** A na tom cedrovém domu vnitř o taflování byly řezby, nápodobné tykvím planým a květům otevřeným. Všecko z cedru bylo, tak že ani kamene nebylo viděti.
 
 **[6:19]** Svatyni pak svatých v domě vnitř připravil, aby tam postavena byla truhla smlouvy Hospodinovy.
 
@@ -18484,7 +18484,7 @@
 
 **[6:37]** Léta čtvrtého založen byl dům Hospodinův, měsíce Ziv,
 
-**[6:38]** A léta jedenáctého, měsíce Bul, (jenž jest měsíc osmý), dokonán jest dům se všemi přípravami svými, a se vším tím, což k němu přináleželo; kterýž stavěl sedm let. 
+**[6:38]** A léta jedenáctého, měsíce Bul, (jenž jest měsíc osmý), dokonán jest dům se všemi přípravami svými, a se vším tím, což k němu přináleželo; kterýž stavěl sedm let.
 
 ### Chapter 7
 
@@ -18588,7 +18588,7 @@
 
 **[7:50]** I báně a žaltáře, kotlíky, kadidlnice a nádoby k oharkům z zlata čistého, i panty zlaté ke dveřím domu vnitřního, totiž svatyně svatých, a ke dveřím chrámovým.
 
-**[7:51]** A tak dokonáno jest všecko dílo, kteréž dělal král Šalomoun k domu Hospodinovu, a vnesl tam Šalomoun věci posvěcené od Davida otce svého, stříbro a zlato i nádobí, složiv je mezi poklady domu Hospodinova. 
+**[7:51]** A tak dokonáno jest všecko dílo, kteréž dělal král Šalomoun k domu Hospodinovu, a vnesl tam Šalomoun věci posvěcené od Davida otce svého, stříbro a zlato i nádobí, složiv je mezi poklady domu Hospodinova.
 
 ### Chapter 8
 
@@ -18722,7 +18722,7 @@
 
 **[8:65]** A tak držel Šalomoun toho času slavnost, a všecken Izrael s ním, shromáždění veliké odtud, kudyž se chodí do Emat, až ku potoku Egyptskému, před Hospodinem Bohem naším, za sedm dní a opět za sedm dní, to jest za čtrnácte dní.
 
-**[8:66]** Dne pak osmého propustil lid. Kteříž požehnavše krále, odešli do obydlí svých, radujíce se a veselíce se v srdci ze všech dobrých věcí, kteréž učinil Hospodin Davidovi služebníku svému a Izraelovi lidu svému. 
+**[8:66]** Dne pak osmého propustil lid. Kteříž požehnavše krále, odešli do obydlí svých, radujíce se a veselíce se v srdci ze všech dobrých věcí, kteréž učinil Hospodin Davidovi služebníku svému a Izraelovi lidu svému.
 
 ### Chapter 9
 
@@ -18780,7 +18780,7 @@
 
 **[9:27]** A poslal Chíram na těch lodech služebníky své, plavce umělé na moři, s služebníky Šalomounovými.
 
-**[9:28]** Kteříž přeplavivše se do Ofir, nabrali tam zlata čtyři sta a dvadceti centnéřů, a přivezli králi Šalomounovi. 
+**[9:28]** Kteříž přeplavivše se do Ofir, nabrali tam zlata čtyři sta a dvadceti centnéřů, a přivezli králi Šalomounovi.
 
 ### Chapter 10
 
@@ -18840,7 +18840,7 @@
 
 **[10:28]** Přivodili také Šalomounovi koně z Egypta a koupě rozličné; nebo kupci královští brávali koupě rozličné za slušnou mzdu,
 
-**[10:29]** A vodívali spřež vozníků z Egypta za šest set lotů stříbra, koně pak jednoho za sto a padesáte, a tak všechněm králům Hetejským a králům Syrským oni dodávali. 
+**[10:29]** A vodívali spřež vozníků z Egypta za šest set lotů stříbra, koně pak jednoho za sto a padesáte, a tak všechněm králům Hetejským a králům Syrským oni dodávali.
 
 ### Chapter 11
 
@@ -18928,7 +18928,7 @@
 
 **[11:42]** Dnů pak, v nichž kraloval Šalomoun v Jeruzalémě nade vším Izraelem, bylo čtyřidceti let.
 
-**[11:43]** I usnul Šalomoun s otci svými, a pochován jest v městě Davida otce svého. Kraloval pak Roboám syn jeho místo něho. 
+**[11:43]** I usnul Šalomoun s otci svými, a pochován jest v městě Davida otce svého. Kraloval pak Roboám syn jeho místo něho.
 
 ### Chapter 12
 
@@ -18996,7 +18996,7 @@
 
 **[12:32]** Ustanovil také Jeroboám svátek měsíce osmého, v patnáctý den téhož měsíce, ku podobenství svátku, kterýž byl v Judstvu, a obětoval na oltáři. Takž učinil i v Bethel, obětuje telatům, kteréž byl udělal; také i v Bethel ustanovil kněží výsostí, kteréž byl zdělal.
 
-**[12:33]** A obětoval na oltáři, kterýž byl udělal v Bethel, v patnáctý den měsíce osmého, toho měsíce, kterýž byl sobě smyslil v srdci svém, a slavil svátek s syny Izraelskými, a přistoupil k oltáři, aby kadil. 
+**[12:33]** A obětoval na oltáři, kterýž byl udělal v Bethel, v patnáctý den měsíce osmého, toho měsíce, kterýž byl sobě smyslil v srdci svém, a slavil svátek s syny Izraelskými, a přistoupil k oltáři, aby kadil.
 
 ### Chapter 13
 
@@ -19066,7 +19066,7 @@
 
 **[13:33]** Po těchto příbězích neodvrátil se Jeroboám od cesty své zlé, ale opět nadělal z lidu obecného kněží výsostí. Kdo jen chtěl, posvětil ruky jeho, a ten byl knězem výsostí.
 
-**[13:34]** I byla ta věc domu Jeroboámovu příčinou k hřešení, aby vypléněn a vyhlazen byl se svrchku země. 
+**[13:34]** I byla ta věc domu Jeroboámovu příčinou k hřešení, aby vypléněn a vyhlazen byl se svrchku země.
 
 ### Chapter 14
 
@@ -19130,7 +19130,7 @@
 
 **[14:30]** Ano i válka, kteráž byla mezi Roboámem a Jeroboámem po všecky dny.
 
-**[14:31]** I usnul Roboám s otci svými, a pochován jest s nimi v městě Davidově. A jméno matky jeho bylo Naama Ammonitská. I kraloval Abiam syn jeho místo něho. 
+**[14:31]** I usnul Roboám s otci svými, a pochován jest s nimi v městě Davidově. A jméno matky jeho bylo Naama Ammonitská. I kraloval Abiam syn jeho místo něho.
 
 ### Chapter 15
 
@@ -19200,7 +19200,7 @@
 
 **[15:33]** Léta třetího Azy, krále Judského, kraloval Báza syn Achiášův nade vším Izraelem v Tersa za čtyřmecítma let.
 
-**[15:34]** A činil to, což zlého jest před Hospodinem, chodě po cestě Jeroboámově a v hříších jeho, jimiž k hřešení přivodil Izraele. 
+**[15:34]** A činil to, což zlého jest před Hospodinem, chodě po cestě Jeroboámově a v hříších jeho, jimiž k hřešení přivodil Izraele.
 
 ### Chapter 16
 
@@ -19270,7 +19270,7 @@
 
 **[16:33]** Udělal také Achab i háj, a tak přičinil toho, čím by popouzel Hospodina Boha Izraelského, nade všecky jiné krále Izraelské, kteříž byli před ním.
 
-**[16:34]** Za dnů jeho Hiel Bethelský vystavěl Jericho. V Abiramovi prvorozeném svém založil je, a v Segubovi nejmladším svém postavil brány jeho, vedlé řeči Hospodinovy, kterouž byl mluvil skrze Jozue syna Nun. 
+**[16:34]** Za dnů jeho Hiel Bethelský vystavěl Jericho. V Abiramovi prvorozeném svém založil je, a v Segubovi nejmladším svém postavil brány jeho, vedlé řeči Hospodinovy, kterouž byl mluvil skrze Jozue syna Nun.
 
 ### Chapter 17
 
@@ -19320,7 +19320,7 @@
 
 **[17:23]** A vzav Eliáš dítě, snesl je z síně do domu, a dal je matce jeho. I řekl Eliáš: Pohleď, syn tvůj živ jest.
 
-**[17:24]** Tedy řekla žena Eliášovi: Jižť jsem nyní poznala, že jsi muž Boží, a že řeč Hospodinova v ústech tvých jest pravá. 
+**[17:24]** Tedy řekla žena Eliášovi: Jižť jsem nyní poznala, že jsi muž Boží, a že řeč Hospodinova v ústech tvých jest pravá.
 
 ### Chapter 18
 
@@ -19414,7 +19414,7 @@
 
 **[18:45]** Stalo se mezi tím, když se nebesa zamračila oblakem a větrem, odkudž byl déšť veliký, že jel Achab a přišel do Jezreel.
 
-**[18:46]** Ruka pak Hospodinova byla s Eliášem, tak že přepásav bedra svá, běžel před Achabem, až přišel do Jezreel. 
+**[18:46]** Ruka pak Hospodinova byla s Eliášem, tak že přepásav bedra svá, běžel před Achabem, až přišel do Jezreel.
 
 ### Chapter 19
 
@@ -19458,7 +19458,7 @@
 
 **[19:20]** Kterýž zanechav volů, běžel za Eliášem a řekl: Prosím, nechť políbím otce svého a matky své, i půjdu za tebou. Jemuž řekl: Jdi, vrať se zase, nebo vidíš, coť jsem učinil.
 
-**[19:21]** Navrátil se tedy od něho, a vzav pár volů, zabil je a dřívím z pluhu uvařil maso jejich, kteréž dal lidu, i jedli. A vstav, šel za Eliášem a přisluhoval jemu. 
+**[19:21]** Navrátil se tedy od něho, a vzav pár volů, zabil je a dřívím z pluhu uvařil maso jejich, kteréž dal lidu, i jedli. A vstav, šel za Eliášem a přisluhoval jemu.
 
 ### Chapter 20
 
@@ -19546,7 +19546,7 @@
 
 **[20:42]** I řekl jemu: Takto praví Hospodin: Poněvadž jsi z ruky pustil muže k smrti odsouzeného, budeť život tvůj za život jeho, a lid tvůj za lid jeho.
 
-**[20:43]** Protož odjel král Izraelský do domu svého, smutný jsa a hněvaje se, a přišel do Samaří. 
+**[20:43]** Protož odjel král Izraelský do domu svého, smutný jsa a hněvaje se, a přišel do Samaří.
 
 ### Chapter 21
 
@@ -19606,7 +19606,7 @@
 
 **[21:28]** Tedy stala se řeč Hospodinova k Eliášovi Tesbitskému, řkoucí:
 
-**[21:29]** Viděl-lis, jak se ponížil Achab před tváří mou? Poněvadž se tak ponížil před tváří mou, neuvedu toho zlého za dnů jeho, ale za dnů syna jeho uvedu to zlé na dům jeho. 
+**[21:29]** Viděl-lis, jak se ponížil Achab před tváří mou? Poněvadž se tak ponížil před tváří mou, neuvedu toho zlého za dnů jeho, ale za dnů syna jeho uvedu to zlé na dům jeho.
 
 ### Chapter 22
 
@@ -19714,7 +19714,7 @@
 
 **[22:52]** Nebo činil zlé věci před oblíčejem Hospodinovým, a chodil po cestě otce svého a po cestě matky své, i po cestě Jeroboáma syna Nebatova, kterýž přivodil k hřešení lid Izraelský.
 
-**[22:53]** Sloužil také Bálovi a klaněl se jemu, čímž popudil k hněvu Hospodina Boha Izraelského vedlé toho všeho, což činil otec jeho.  
+**[22:53]** Sloužil také Bálovi a klaněl se jemu, čímž popudil k hněvu Hospodina Boha Izraelského vedlé toho všeho, což činil otec jeho.
 
 ## II Kings
 
@@ -19754,7 +19754,7 @@
 
 **[1:17]** I umřel podlé řeči Hospodinovy, kterouž mluvil Eliáš, a kraloval Joram místo něho léta druhého Jehorama syna Jozafatova, krále Judského; nebo on neměl syna.
 
-**[1:18]** O jiných pak věcech Ochoziášových, kteréž činil, zapsáno jest v knize o králích Izraelských. 
+**[1:18]** O jiných pak věcech Ochoziášových, kteréž činil, zapsáno jest v knize o králích Izraelských.
 
 ### Chapter 2
 
@@ -19806,7 +19806,7 @@
 
 **[2:24]** Kterýž ohlédna se, uzřel je a zlořečil jim ve jménu Hospodinovu. Protož vyskočivše dvě nedvědice z lesa, roztrhaly z nich čtyřidcatero a dvé dětí.
 
-**[2:25]** I šel odtud na horu Karmel, odkudž navrátil se do Samaří. 
+**[2:25]** I šel odtud na horu Karmel, odkudž navrátil se do Samaří.
 
 ### Chapter 3
 
@@ -19862,7 +19862,7 @@
 
 **[3:26]** A vida král Moábský, že jsou mu silní bojovníci ti, vzal s sebou sedm set mužů bojovných, chtě se probiti skrze vojska krále Idumejského. Ale nemohli.
 
-**[3:27]** Pročež jav syna jeho prvorozeného, kterýž měl kralovati místo něho, obětoval jej v obět zápalnou na zdi. I stalo se rozhněvání veliké proti Izraelovi; protož odtrhše od něho, navrátili se do země své. 
+**[3:27]** Pročež jav syna jeho prvorozeného, kterýž měl kralovati místo něho, obětoval jej v obět zápalnou na zdi. I stalo se rozhněvání veliké proti Izraelovi; protož odtrhše od něho, navrátili se do země své.
 
 ### Chapter 4
 
@@ -19952,7 +19952,7 @@
 
 **[4:43]** Odpověděl služebník jeho: Což to mám předložiti sto mužům? Opět řekl: Dej lidu, ať pojedí. Nebo tak praví Hospodin: Jísti budou, a ještě zůstane.
 
-**[4:44]** A tak předložil jim, i jedli, a zůstalo ještě vedlé řeči Hospodinovy. 
+**[4:44]** A tak předložil jim, i jedli, a zůstalo ještě vedlé řeči Hospodinovy.
 
 ### Chapter 5
 
@@ -20008,7 +20008,7 @@
 
 **[5:26]** Kterýž řekl jemu: Zdaliž srdce mé nebylo při tom, když obrátil se muž s vozu svého vstříc tobě? Zdaliž čas byl bráti stříbro aneb roucho, aneb olivoví a vinice, aneb stáda a voly, neb služebníky aneb děvky?
 
-**[5:27]** Protož malomocenství Námanovo přichytí se tebe i semene tvého na věky. I vyšel od tváři jeho malomocný jako sníh. 
+**[5:27]** Protož malomocenství Námanovo přichytí se tebe i semene tvého na věky. I vyšel od tváři jeho malomocný jako sníh.
 
 ### Chapter 6
 
@@ -20076,7 +20076,7 @@
 
 **[6:32]** (Elizeus pak seděl v domě svém, a starší s ním seděli.) I poslal jednoho z přístojících svých, a prvé než přišel posel ten k němu, již byl řekl starším: Nevíte-liž, že poslal ten syn vražedlníkův, aby sťal hlavu mou? Šetřtež, když by vcházel ten posel, zavřete dvéře a odstrčte jej ode dveří. Zdaliž i dusání noh pána jeho není za ním?
 
-**[6:33]** A když on ještě mluvil s nimi, hle, posel přicházel k němu, a řekl: Aj, toto zlé jest od Hospodina, což mám déle čekati na něj? 
+**[6:33]** A když on ještě mluvil s nimi, hle, posel přicházel k němu, a řekl: Aj, toto zlé jest od Hospodina, což mám déle čekati na něj?
 
 ### Chapter 7
 
@@ -20118,7 +20118,7 @@
 
 **[7:19]** K čemuž bylo odpovědělo kníže muži Božímu, a řeklo: Kdyby otevřel Hospodin průduchy nebeské, zdali by to podlé řeči této býti mohlo? Jemuž on řekl: Aj, ty uzříš očima svýma, ale z toho jísti nebudeš.
 
-**[7:20]** A tak se stalo jemu; nebo pošlapal ho lid v bráně, tak že umřel. 
+**[7:20]** A tak se stalo jemu; nebo pošlapal ho lid v bráně, tak že umřel.
 
 ### Chapter 8
 
@@ -20178,7 +20178,7 @@
 
 **[8:28]** Pročež vycházel s Joramem synem Achabovým, na vojnu proti Hazaelovi králi Syrskému, do Rámot Galád; ale porazili Syrští Jorama.
 
-**[8:29]** A tak navrátil se král Joram, aby se hojil v Jezreel na rány, kterýmiž ho ranili Syrští v Ráma, když bojoval s Hazaelem králem Syrským. Ochoziáš pak syn Jehorama, krále Judského, přijel, aby navštívil Jorama syna Achabova v Jezreel; nebo tam nemocen byl. 
+**[8:29]** A tak navrátil se král Joram, aby se hojil v Jezreel na rány, kterýmiž ho ranili Syrští v Ráma, když bojoval s Hazaelem králem Syrským. Ochoziáš pak syn Jehorama, krále Judského, přijel, aby navštívil Jorama syna Achabova v Jezreel; nebo tam nemocen byl.
 
 ### Chapter 9
 
@@ -20254,7 +20254,7 @@
 
 **[9:36]** A navrátivše se, pověděli jemu. Kterýž řekl: Slovo Hospodinovo jest, kteréž mluvil skrze služebníka svého, Eliáše Tesbitského, řka: Na poli Jezreel žráti budou psi tělo Jezábel.
 
-**[9:37]** Budiž tedy tělo Jezábel na poli Jezreel, jako hnůj na svrchku pole, tak aby žádný neřekl: Tato jest Jezábel. 
+**[9:37]** Budiž tedy tělo Jezábel na poli Jezreel, jako hnůj na svrchku pole, tak aby žádný neřekl: Tato jest Jezábel.
 
 ### Chapter 10
 
@@ -20328,7 +20328,7 @@
 
 **[10:35]** I usnul Jéhu s otci svými, a pochovali jej v Samaří, a kraloval Joachaz syn jeho místo něho.
 
-**[10:36]** Dnů pak, v nichž kraloval Jéhu nad lidem Izraelským v Samaří, bylo let osmmecítma. 
+**[10:36]** Dnů pak, v nichž kraloval Jéhu nad lidem Izraelským v Samaří, bylo let osmmecítma.
 
 ### Chapter 11
 
@@ -20372,7 +20372,7 @@
 
 **[11:20]** I veselil se všecken lid země, a město se upokojilo. Atalii pak zabili mečem u domu královského.
 
-**[11:21]** A byl Joas v sedmi letech, když počal kralovati. 
+**[11:21]** A byl Joas v sedmi letech, když počal kralovati.
 
 ### Chapter 12
 
@@ -20416,7 +20416,7 @@
 
 **[12:20]** Potom povstavše služebníci jeho, spikli se spolu, a zabili Joasa v Betmillo, kudy se chodí do Silla,
 
-**[12:21]** Totiž Jozachar syn Simatův, a Jozabad syn Somerův. Ti služebníci jeho zabili ho, a umřel. I pochovali jej s otci jeho v městě Davidově, a kraloval Amaziáš syn jeho místo něho. 
+**[12:21]** Totiž Jozachar syn Simatův, a Jozabad syn Somerův. Ti služebníci jeho zabili ho, a umřel. I pochovali jej s otci jeho v městě Davidově, a kraloval Amaziáš syn jeho místo něho.
 
 ### Chapter 13
 
@@ -20468,7 +20468,7 @@
 
 **[13:24]** I umřel Hazael král Syrský, a kraloval Benadad syn jeho místo něho.
 
-**[13:25]** Protož Joas syn Joachazův pobral zase města z ruky Benadada syna Hazaelova, kteráž byl vzal z ruky Joachaza otce jeho válečně; nebo po třikrát porazil ho Joas, a navrátil města Izraelská. 
+**[13:25]** Protož Joas syn Joachazův pobral zase města z ruky Benadada syna Hazaelova, kteráž byl vzal z ruky Joachaza otce jeho válečně; nebo po třikrát porazil ho Joas, a navrátil města Izraelská.
 
 ### Chapter 14
 
@@ -20528,7 +20528,7 @@
 
 **[14:28]** O jiných pak věcech Jeroboámových, a cožkoli činil, i o síle jeho, a kterak bojoval, jak zase dobyl Damašku a Emat Judova Izraelovi, psáno jest v knize o králích Izraelských.
 
-**[14:29]** I usnul Jeroboám s otci svými, s králi Izraelskými, a kraloval Zachariáš syn jeho místo něho. 
+**[14:29]** I usnul Jeroboám s otci svými, s králi Izraelskými, a kraloval Zachariáš syn jeho místo něho.
 
 ### Chapter 15
 
@@ -20606,7 +20606,7 @@
 
 **[15:37]** Za dnů těch počal Hospodin posílati na Judu Rezina krále Syrského a Pekacha syna Romeliova.
 
-**[15:38]** I usnul Jotam s otci svými, a pochován jest s otci svými v městě Davida otce svého. I kraloval Achas syn jeho místo něho. 
+**[15:38]** I usnul Jotam s otci svými, a pochován jest s otci svými v městě Davida otce svého. I kraloval Achas syn jeho místo něho.
 
 ### Chapter 16
 
@@ -20648,7 +20648,7 @@
 
 **[16:19]** Jiní pak skutkové krále Achasa, kteréž činil, zapsáni jsou v knize o králích Judských.
 
-**[16:20]** I usnul Achas s otci svými, a pochován jest s nimi v městě Davidově, a kraloval Ezechiáš syn jeho místo něho. 
+**[16:20]** I usnul Achas s otci svými, a pochován jest s nimi v městě Davidově, a kraloval Ezechiáš syn jeho místo něho.
 
 ### Chapter 17
 
@@ -20732,7 +20732,7 @@
 
 **[17:40]** A však neposlechli, ale vedlé obyčeje svého starého činili.
 
-**[17:41]** A tak ti národové ctili Hospodina, a však proto rytinám svým sloužili. Takž i synové jejich a synové synů jejich vedlé toho, což činili otcové jejich, také činí až do dnešního dne. 
+**[17:41]** A tak ti národové ctili Hospodina, a však proto rytinám svým sloužili. Takž i synové jejich a synové synů jejich vedlé toho, což činili otcové jejich, také činí až do dnešního dne.
 
 ### Chapter 18
 
@@ -20808,7 +20808,7 @@
 
 **[18:36]** Lid pak mlčel, a neodpověděl mu žádného slova; nebo takové bylo rozkázaní královo, řkoucí: Neodpovídejte jemu.
 
-**[18:37]** Přišli tedy Eliakim syn Helkie, kterýž byl správcím domu, a Sobna písař, a Joach syn Azafův kancléř k Ezechiášovi, majíce roucho roztržené, a oznámili jemu slova Rabsacova. 
+**[18:37]** Přišli tedy Eliakim syn Helkie, kterýž byl správcím domu, a Sobna písař, a Joach syn Azafův kancléř k Ezechiášovi, majíce roucho roztržené, a oznámili jemu slova Rabsacova.
 
 ### Chapter 19
 
@@ -20884,7 +20884,7 @@
 
 **[19:36]** Pročež odjel a utekl Senacherib král Assyrský, a navrátiv se, bydlil v Ninive.
 
-**[19:37]** I stalo se, když se klaněl v chrámě Nizrocha boha svého, že Adramelech a Sarasar, synové jeho, zabili jej mečem, a sami utekli do země Ararat. I kraloval Esarchaddon syn jeho místo něho. 
+**[19:37]** I stalo se, když se klaněl v chrámě Nizrocha boha svého, že Adramelech a Sarasar, synové jeho, zabili jej mečem, a sami utekli do země Ararat. I kraloval Esarchaddon syn jeho místo něho.
 
 ### Chapter 20
 
@@ -20928,7 +20928,7 @@
 
 **[20:20]** O jiných pak činech Ezechiášových, i vší síle jeho, a kterak udělal rybník, a vodu po trubách uvedl do města, zapsáno jest v knize o králích Judských.
 
-**[20:21]** I usnul Ezechiáš s otci svými, a kraloval Manasses syn jeho místo něho. 
+**[20:21]** I usnul Ezechiáš s otci svými, a kraloval Manasses syn jeho místo něho.
 
 ### Chapter 21
 
@@ -20982,7 +20982,7 @@
 
 **[21:25]** O jiných pak činech Amonových, kteréž činil, zapsáno jest v knize o králích Judských.
 
-**[21:26]** I pochoval ho lid v hrobě jeho v zahradě Uzy, a kraloval Joziáš syn jeho místo něho. 
+**[21:26]** I pochoval ho lid v hrobě jeho v zahradě Uzy, a kraloval Joziáš syn jeho místo něho.
 
 ### Chapter 22
 
@@ -21024,7 +21024,7 @@
 
 **[22:19]** Poněvadž obměkčeno jest srdce tvé, a ponížils se před tváří Hospodinovou, když jsi slyšel, které věci jsem mluvil proti místu tomuto, a proti obyvatelům jeho, že má přijíti v zpuštění a v zlořečení, a roztrhl jsi roucho své, a plakals přede mnou, i já také uslyšel jsem tě, praví Hospodin.
 
-**[22:20]** Protož, aj, já připojím tě k otcům tvým, a pochován budeš v hrobích svých v pokoji, aby neviděly oči tvé ničeho z toho zlého, kteréž přivedu na místo toto. I oznámili králi tu řeč. 
+**[22:20]** Protož, aj, já připojím tě k otcům tvým, a pochován budeš v hrobích svých v pokoji, aby neviděly oči tvé ničeho z toho zlého, kteréž přivedu na místo toto. I oznámili králi tu řeč.
 
 ### Chapter 23
 
@@ -21100,7 +21100,7 @@
 
 **[23:36]** V pětmecítma letech byl Joakim, když počal kralovati, a jedenácte let kraloval v Jeruzalémě. Jméno matky jeho bylo Zebuda, dcera Pedaiova z Ruma.
 
-**[23:37]** I činil to, což jest zlého před očima Hospodinovýma, podlé všeho, což činili otcové jeho. 
+**[23:37]** I činil to, což jest zlého před očima Hospodinovýma, podlé všeho, což činili otcové jeho.
 
 ### Chapter 24
 
@@ -21142,7 +21142,7 @@
 
 **[24:19]** I činil to, což jest zlého před očima Hospodinovýma, všecko tak, jakž byl dělal Joakim.
 
-**[24:20]** Nebo se to dálo pro rozhněvání Hospodinovo proti Jeruzalému a Judovi, až je i zavrhl od tváři své. V tom opět zprotivil se Sedechiáš králi Babylonskému. 
+**[24:20]** Nebo se to dálo pro rozhněvání Hospodinovo proti Jeruzalému a Judovi, až je i zavrhl od tváři své. V tom opět zprotivil se Sedechiáš králi Babylonskému.
 
 ### Chapter 25
 
@@ -21204,7 +21204,7 @@
 
 **[25:29]** Změnil též roucho jeho, kteréž měl v žaláři. I jídal vždycky před ním po všecky dny života svého.
 
-**[25:30]** Nebo vyměřený pokrm ustavičně dáván byl jemu od krále, a to na každý den po všecky dny života jeho.  
+**[25:30]** Nebo vyměřený pokrm ustavičně dáván byl jemu od krále, a to na každý den po všecky dny života jeho.
 
 ## I Chronicles
 
@@ -21316,7 +21316,7 @@
 
 **[1:53]** Vývoda Kenaz, vývoda Teman, vývoda Mabsar,
 
-**[1:54]** Vývoda Magdiel, vývoda Híram. Ti byli vývodové Idumejští. 
+**[1:54]** Vývoda Magdiel, vývoda Híram. Ti byli vývodové Idumejští.
 
 ### Chapter 2
 
@@ -21428,7 +21428,7 @@
 
 **[2:54]** Synové Salmy: Betlémští, Netofatští, Atarotští z čeledi Joábovy, a Zarští, kteříž užívali dílu Menuchotských,
 
-**[2:55]** A čeledi písařů obývajících v Jábezu, Tiratských, Simatských, Suchatských. Ti jsou Cinejští příchozí z Amata, otce čeledi Rechabovy. 
+**[2:55]** A čeledi písařů obývajících v Jábezu, Tiratských, Simatských, Suchatských. Ti jsou Cinejští příchozí z Amata, otce čeledi Rechabovy.
 
 ### Chapter 3
 
@@ -21478,7 +21478,7 @@
 
 **[3:23]** A syn Neariáše: Elioenai, Ezechiáš a Azrikam, ti tři.
 
-**[3:24]** Též synové Elioenai: Hodaviáš, Eliasib, Pelaiáš, Akkub, Jochanan, Delaiáš a Anani, těch sedm. 
+**[3:24]** Též synové Elioenai: Hodaviáš, Eliasib, Pelaiáš, Akkub, Jochanan, Delaiáš a Anani, těch sedm.
 
 ### Chapter 4
 
@@ -21566,7 +21566,7 @@
 
 **[4:42]** Někteří pak z těch synů Simeonových odebrali se na horu Seir, mužů pět set, jichž Pelatia, Neariáš, Refaiáš a Uziel, synové Jesi, byli vůdcové.
 
-**[4:43]** I vyplénili ostatek těch, kteříž ušli z Amalechitských, a bydlili tam až do tohoto dne. 
+**[4:43]** I vyplénili ostatek těch, kteříž ušli z Amalechitských, a bydlili tam až do tohoto dne.
 
 ### Chapter 5
 
@@ -21620,7 +21620,7 @@
 
 **[5:25]** Ale když přestoupili proti Bohu otců svých, a smilnili, následujíce bohů národů země té, kteréž shladil Bůh od tváři jejich:
 
-**[5:26]** Vzbudil Bůh Izraelský ducha Fule krále Assyrského, a ducha Tiglatfalazara krále Assyrského, kterýž přenesl pokolení Rubenovo a Gádovo a polovici pokolení Manassesova, a dovedl je do Chelach a do Chabor, až do Hara a k řece Gozan až do dnešního dne. 
+**[5:26]** Vzbudil Bůh Izraelský ducha Fule krále Assyrského, a ducha Tiglatfalazara krále Assyrského, kterýž přenesl pokolení Rubenovo a Gádovo a polovici pokolení Manassesova, a dovedl je do Chelach a do Chabor, až do Hara a k řece Gozan až do dnešního dne.
 
 ### Chapter 6
 
@@ -21784,7 +21784,7 @@
 
 **[6:80]** V pokolení pak Gád: Rámot v Galád s předměstím jeho, a Mahanaim i předměstí jeho,
 
-**[6:81]** I Ezebon s předměstím jeho, a Jazer i předměstí jeho. 
+**[6:81]** I Ezebon s předměstím jeho, a Jazer i předměstí jeho.
 
 ### Chapter 7
 
@@ -21866,7 +21866,7 @@
 
 **[7:39]** Synové pak Ulla: Arach, Haniel a Riziáš.
 
-**[7:40]** Všickni ti synové Asser, knížata domů otcovských, vybraní, udatní, přední z knížat, kteříž vyčteni do vojska k bitvě, v počtu šest a dvadceti tisíc mužů. 
+**[7:40]** Všickni ti synové Asser, knížata domů otcovských, vybraní, udatní, přední z knížat, kteříž vyčteni do vojska k bitvě, v počtu šest a dvadceti tisíc mužů.
 
 ### Chapter 8
 
@@ -21948,7 +21948,7 @@
 
 **[8:39]** Synové pak Ezeka, bratra jeho: Ulam prvorozený jeho, Jehus druhý, a Elifelet třetí.
 
-**[8:40]** A byli synové Ulamovi muži udatní a střelci umělí, kteříž měli mnoho synů a vnuků až do sta a padesáti. Všickni ti byli z synů Beniaminových. 
+**[8:40]** A byli synové Ulamovi muži udatní a střelci umělí, kteříž měli mnoho synů a vnuků až do sta a padesáti. Všickni ti byli z synů Beniaminových.
 
 ### Chapter 9
 
@@ -22038,7 +22038,7 @@
 
 **[9:43]** Moza pak zplodil Bina. Refaiáš syn jeho, Elasa syn jeho, Azel syn jeho.
 
-**[9:44]** Azel pak měl šest synů, jichžto tato jsou jména: Azrikam, Bochru, Izmael, Seariáš, Abdiáš a Chanan. Ti jsou synové Azelovi. 
+**[9:44]** Azel pak měl šest synů, jichžto tato jsou jména: Azrikam, Bochru, Izmael, Seariáš, Abdiáš a Chanan. Ti jsou synové Azelovi.
 
 ### Chapter 10
 
@@ -22068,7 +22068,7 @@
 
 **[10:13]** A tak umřel Saul pro přestoupení své, jímž byl přestoupil proti Hospodinu, totiž proti slovu Hospodinovu, jehož neostříhal, a že se také radil s duchem věštím, doptávaje se ho,
 
-**[10:14]** A nedoptával se Hospodina. Protož zabil jej, a přenesl království na Davida syna Izai. 
+**[10:14]** A nedoptával se Hospodina. Protož zabil jej, a přenesl království na Davida syna Izai.
 
 ### Chapter 11
 
@@ -22164,7 +22164,7 @@
 
 **[11:46]** Eliel Machavimský, a Jeribai a Josaviáš synové Elnámovi, a Itma Moábský,
 
-**[11:47]** Eliel, a Obéd, a Jaasiel z Mezobaia. 
+**[11:47]** Eliel, a Obéd, a Jaasiel z Mezobaia.
 
 ### Chapter 12
 
@@ -22246,7 +22246,7 @@
 
 **[12:39]** I byli tu s Davidem tři dni, jedouce a pijíce, nebo jim byli připravili bratří jejich.
 
-**[12:40]** Ano i ti, kteříž jim blízcí byli až k Izachar a Zabulon a Neftalím, přinášeli chleba na oslích a na velbloudích, i na mezcích a na volích, potravy, mouky, fíků a hroznů sušených, vína, oleje, volů, a ovcí v hojnosti. Nebo radost byla v lidu Izraelském. 
+**[12:40]** Ano i ti, kteříž jim blízcí byli až k Izachar a Zabulon a Neftalím, přinášeli chleba na oslích a na velbloudích, i na mezcích a na volích, potravy, mouky, fíků a hroznů sušených, vína, oleje, volů, a ovcí v hojnosti. Nebo radost byla v lidu Izraelském.
 
 ### Chapter 13
 
@@ -22276,7 +22276,7 @@
 
 **[13:13]** Pročež nepřenesl David truhly k sobě do města Davidova, ale obrátil ji do domu Obededoma Gittejského.
 
-**[13:14]** I pozůstala truhla Boží mezi čeledí Obededomovou, v domě jeho za tři měsíce, a požehnal Hospodin domu Obededomovu a všem věcem jeho. 
+**[13:14]** I pozůstala truhla Boží mezi čeledí Obededomovou, v domě jeho za tři měsíce, a požehnal Hospodin domu Obededomovu a všem věcem jeho.
 
 ### Chapter 14
 
@@ -22312,7 +22312,7 @@
 
 **[14:16]** I učinil David tak, jakž mu byl přikázal Bůh, a porazili vojska Filistinská od Gabaon až do Gázera.
 
-**[14:17]** A tak rozešla se pověst o Davidovi do všech zemí, a způsobil Hospodin to, že se ho báli všickni národové. 
+**[14:17]** A tak rozešla se pověst o Davidovi do všech zemí, a způsobil Hospodin to, že se ho báli všickni národové.
 
 ### Chapter 15
 
@@ -22372,7 +22372,7 @@
 
 **[15:28]** Takž všecken lid Izraelský provázeli truhlu smlouvy Hospodinovy s plésáním a zvukem trouby, a pozaunů a cymbálů, a hrali na loutny a na harfy.
 
-**[15:29]** Když pak truhla smlouvy Hospodinovy vcházela do města Davidova, Míkol dcera Saulova vyhlédla z okna, a viduci krále Davida poskakujícího a plésajícího, pohrdla jím v srdci svém. 
+**[15:29]** Když pak truhla smlouvy Hospodinovy vcházela do města Davidova, Míkol dcera Saulova vyhlédla z okna, a viduci krále Davida poskakujícího a plésajícího, pohrdla jím v srdci svém.
 
 ### Chapter 16
 
@@ -22460,7 +22460,7 @@
 
 **[16:42]** Těm také, totiž Hémanovi a Jedutunovi, nechal trub a cymbálů, aby zvučeli, i jiných nástrojů muziky Boží, syny pak Jedutunovy postavil u vrat.
 
-**[16:43]** A tak rozešel se všecken lid, jeden každý do domu svého; David též navrátil se, aby požehnání dal domu svému. 
+**[16:43]** A tak rozešel se všecken lid, jeden každý do domu svého; David též navrátil se, aby požehnání dal domu svému.
 
 ### Chapter 17
 
@@ -22516,7 +22516,7 @@
 
 **[17:26]** A tak, ó Hospodine, ty jsi sám Bůh, a mluvil jsi o služebníku svém dobré věci tyto.
 
-**[17:27]** Nyní tedy ráčil jsi požehnati domu služebníka svého, aby trval na věky před oblíčejem tvým; nebo jsi ty, Hospodine, požehnal, i budeť požehnaný na věky. 
+**[17:27]** Nyní tedy ráčil jsi požehnati domu služebníka svého, aby trval na věky před oblíčejem tvým; nebo jsi ty, Hospodine, požehnal, i budeť požehnaný na věky.
 
 ### Chapter 18
 
@@ -22552,7 +22552,7 @@
 
 **[18:16]** Sádoch také syn Achitobův a Abimelech syn Abiatarův byli kněžími, a Susa byl písařem.
 
-**[18:17]** Banaiáš pak syn Joiadův byl nad Cheretejskými a Peletejskými, a synové Davidovi knížaty při králi. 
+**[18:17]** Banaiáš pak syn Joiadův byl nad Cheretejskými a Peletejskými, a synové Davidovi knížaty při králi.
 
 ### Chapter 19
 
@@ -22592,7 +22592,7 @@
 
 **[19:18]** Tedy utekli Syrští před Izraelem. I porazil David z Syrských sedm tisíc vozů, a čtyřidceti tisíc lidu pěšího, až i Sofacha hejtmana vojska toho zabil.
 
-**[19:19]** Pročež když viděli služebníci Hadarezerovi, že jsou poraženi od Izraele, vešli v pokoj s Davidem, a sloužili jemu. A nechtěli více Syrští táhnouti na pomoc Ammonitským. 
+**[19:19]** Pročež když viděli služebníci Hadarezerovi, že jsou poraženi od Izraele, vešli v pokoj s Davidem, a sloužili jemu. A nechtěli více Syrští táhnouti na pomoc Ammonitským.
 
 ### Chapter 20
 
@@ -22610,7 +22610,7 @@
 
 **[20:7]** Ten když haněl Izraele, zabil ho Jonata syn Semmaa, bratra Davidova.
 
-**[20:8]** Ti byli synové jednoho obra v Gát, kteříž padli od ruky Davidovy a od ruky služebníků jeho. 
+**[20:8]** Ti byli synové jednoho obra v Gát, kteříž padli od ruky Davidovy a od ruky služebníků jeho.
 
 ### Chapter 21
 
@@ -22672,7 +22672,7 @@
 
 **[21:29]** Nebo stánek Hospodinův, kterýž byl učinil Mojžíš na poušti, a oltář k zápalu toho času byl na výsosti v Gabaon.
 
-**[21:30]** David pak nemohl tam choditi k němu, aby hledal Boha, proto že se zhrozil meče anděla Hospodinova. 
+**[21:30]** David pak nemohl tam choditi k němu, aby hledal Boha, proto že se zhrozil meče anděla Hospodinova.
 
 ### Chapter 22
 
@@ -22712,7 +22712,7 @@
 
 **[22:18]** Zdaliž Hospodin Bůh váš není s vámi, kterýž vám způsobil vůkol a vůkol odpočinutí? Nebo dal v ruku mou obyvatele země této, a podmaněna jest země Hospodinu a lidu jeho.
 
-**[22:19]** Nyní tedy vydejte se srdcem svým a duší svou k hledání Hospodina Boha svého, a přičiníce se, vystavějte svatyni Hospodinu Bohu, abyste tam vnesli truhlu smlouvy Hospodinovy, a nádobí Bohu posvěcená do domu vystaveného jménu Hospodinovu. 
+**[22:19]** Nyní tedy vydejte se srdcem svým a duší svou k hledání Hospodina Boha svého, a přičiníce se, vystavějte svatyni Hospodinu Bohu, abyste tam vnesli truhlu smlouvy Hospodinovy, a nádobí Bohu posvěcená do domu vystaveného jménu Hospodinovu.
 
 ### Chapter 23
 
@@ -22778,7 +22778,7 @@
 
 **[23:31]** A při všeliké oběti zápalů Hospodinových ve dny sobotní, a na novměsíce a v svátky výroční v jistém počtu, vedlé řádu jejich ustavičně před Hospodinem,
 
-**[23:32]** A tak aby drželi stráž stánku úmluvy, a stráž svatyně, i stráž synů Aronových, bratří svých v službě domu Hospodinova. 
+**[23:32]** A tak aby drželi stráž stánku úmluvy, a stráž svatyně, i stráž synů Aronových, bratří svých v službě domu Hospodinova.
 
 ### Chapter 24
 
@@ -22842,7 +22842,7 @@
 
 **[24:30]** Synové pak Musi: Moholi, Eder a Jerimot. Ti jsou synové Levítů po domích otců svých.
 
-**[24:31]** I ti také metali losy naproti bratřím svým, synům Aronovým, před Davidem králem, Sádochem a Achimelechem, i knížaty otcovských čeledí z kněží a Levítů, z čeledí otcovských, každý přednější naproti bratru svému mladšímu. 
+**[24:31]** I ti také metali losy naproti bratřím svým, synům Aronovým, před Davidem králem, Sádochem a Achimelechem, i knížaty otcovských čeledí z kněží a Levítů, z čeledí otcovských, každý přednější naproti bratru svému mladšímu.
 
 ### Chapter 25
 
@@ -22906,7 +22906,7 @@
 
 **[25:30]** Třimecítmý na Machaziota, synům a bratřím jeho dvanácti.
 
-**[25:31]** Čtyřmecítmý na Romantiezera, synům a bratřím jeho dvanácti. 
+**[25:31]** Čtyřmecítmý na Romantiezera, synům a bratřím jeho dvanácti.
 
 ### Chapter 26
 
@@ -22972,7 +22972,7 @@
 
 **[26:31]** Mezi kterýmiž Hebronskými Jeriáš kníže byl nad Hebronskými v pokolení jejich, po čeledech otcovských; nebo léta čtyřidcátého kralování Davidova vyhledáváni byli, a nalezeni jsou mezi nimi muži udatní v Jazer Galádské,
 
-**[26:32]** A bratří jeho, mužů silných, dva tisíce a sedm set, knížat otcovských čeledí. Kteréž ustanovil David král nad Rubenskými a Gádskými, a nad polovicí pokolení Manassesova, ve všech věcech Božských i věcech královských. 
+**[26:32]** A bratří jeho, mužů silných, dva tisíce a sedm set, knížat otcovských čeledí. Kteréž ustanovil David král nad Rubenskými a Gádskými, a nad polovicí pokolení Manassesova, ve všech věcech Božských i věcech královských.
 
 ### Chapter 27
 
@@ -23042,7 +23042,7 @@
 
 **[27:33]** Achitofel též rada králova, a Chusai Architský přítel králův.
 
-**[27:34]** Po Achitofelovi potom byl Joiada syn Banaiášův, a Abiatar, a kníže vojska králova Joáb. 
+**[27:34]** Po Achitofelovi potom byl Joiada syn Banaiášův, a Abiatar, a kníže vojska králova Joáb.
 
 ### Chapter 28
 
@@ -23086,7 +23086,7 @@
 
 **[28:20]** A tak řekl David Šalomounovi synu svému: Posilniž se a zmocni a dělej; neboj se, ani lekej. Nebo Hospodin Bůh, Bůh můj s tebou bude, nenecháť tebe samého, aniž tě opustí, až i dokonáno bude všecko dílo služby domu Hospodinova.
 
-**[28:21]** Hle, i houfové kněží a Levítů ke všeliké službě domu Božího s tebou také budou při všelikém díle, jsouce všickni ochotní a prozřetelní v moudrosti při všeliké práci, knížata také i všecken lid ke všechněm slovům tvým. 
+**[28:21]** Hle, i houfové kněží a Levítů ke všeliké službě domu Božího s tebou také budou při všelikém díle, jsouce všickni ochotní a prozřetelní v moudrosti při všeliké práci, knížata také i všecken lid ke všechněm slovům tvým.
 
 ### Chapter 29
 
@@ -23148,7 +23148,7 @@
 
 **[29:29]** Činové pak Davida krále první i poslední popsáni jsou v knize Samuele proroka, a v knize Nátana proroka, též v knize Gáda proroka,
 
-**[29:30]** Se vším kralováním i silou jeho, i se všemi příběhy časů při něm i při lidu Izraelském, i při všech královstvích zemských.  
+**[29:30]** Se vším kralováním i silou jeho, i se všemi příběhy časů při něm i při lidu Izraelském, i při všech královstvích zemských.
 
 ## II Chronicles
 
@@ -23186,7 +23186,7 @@
 
 **[1:16]** Přivodili také Šalomounovi koně z Egypta a koupě rozličné; nebo kupci královští brávali koupě rozličné za slušnou mzdu.
 
-**[1:17]** A vycházejíce, vodívali spřež vozníků z Egypta za šest set lotů stříbra, koně pak za půl druhého sta. A tak všechněm králům Hetejským i králům Syrským oni dodávali. 
+**[1:17]** A vycházejíce, vodívali spřež vozníků z Egypta za šest set lotů stříbra, koně pak za půl druhého sta. A tak všechněm králům Hetejským i králům Syrským oni dodávali.
 
 ### Chapter 2
 
@@ -23224,7 +23224,7 @@
 
 **[2:17]** A tak sečtl Šalomoun všecky cizozemce, kteříž byli v zemi Izraelské po sečtení tom, kterýmž sečtl je David otec jeho, a nalezeno jich sto a padesát tisíc, tři tisíce a šest set.
 
-**[2:18]** I vybral z nich sedmdesát tisíc nosičů, a osmdesát tisíc těch, kteříž sekali na hoře, tři pak tisíce a šest set úředníků, kteříž lid k dílu přídrželi. 
+**[2:18]** I vybral z nich sedmdesát tisíc nosičů, a osmdesát tisíc těch, kteříž sekali na hoře, tři pak tisíce a šest set úředníků, kteříž lid k dílu přídrželi.
 
 ### Chapter 3
 
@@ -23260,7 +23260,7 @@
 
 **[3:16]** Zdělal též i řetízky jako v svatyni svatých, a otočil je okolo makovic těch sloupů, a udělav jablek zrnatých sto, dal mezi řetízky.
 
-**[3:17]** A tak postavil ty sloupy před chrámem, jeden po pravé a druhý po levé straně, a dal jméno tomu, kterýž byl po pravici Jachin, a jméno tomu, kterýž byl po levici, Boaz. 
+**[3:17]** A tak postavil ty sloupy před chrámem, jeden po pravé a druhý po levé straně, a dal jméno tomu, kterýž byl po pravici Jachin, a jméno tomu, kterýž byl po levici, Boaz.
 
 ### Chapter 4
 
@@ -23306,7 +23306,7 @@
 
 **[4:21]** Květy také a lampy i utěradla z zlata, a to bylo zlato nejvýbornější.
 
-**[4:22]** I žaltáře a kotlíky, kadidlnice a nádoby k oharkům z zlata čistého, k tomu i bránu domu, dvéře vnitřní svatyně svatých, i dvéře domu, totiž v chrámě, byly z zlata. 
+**[4:22]** I žaltáře a kotlíky, kadidlnice a nádoby k oharkům z zlata čistého, k tomu i bránu domu, dvéře vnitřní svatyně svatých, i dvéře domu, totiž v chrámě, byly z zlata.
 
 ### Chapter 5
 
@@ -23336,7 +23336,7 @@
 
 **[5:13]** Nebo měli ti, kteříž spolu troubili v trouby, a zpěváci vydávati jeden zvuk k chválení a oslavování Hospodina); a když povyšovali hlasu na trouby a cymbály i jiné nástroje hudebné, chválíce Hospodina a řkouce, že dobrý jest, a že na věky trvá milosrdenství jeho: tedy oblak naplnil dům ten, dům totiž Hospodinův,
 
-**[5:14]** Tak že nemohli kněží ostáti a sloužiti pro ten oblak; nebo sláva Hospodinova byla naplnila dům Boží. 
+**[5:14]** Tak že nemohli kněží ostáti a sloužiti pro ten oblak; nebo sláva Hospodinova byla naplnila dům Boží.
 
 ### Chapter 6
 
@@ -23422,7 +23422,7 @@
 
 **[6:41]** Aj, nyní povstaň, ó Hospodine Bože, k odpočinutí svému, ty i truhla síly tvé; kněží tvoji, Hospodine Bože, nechť jsou oblečeni v spasení, a svatí tvoji ať se veselí v dobrých věcech.
 
-**[6:42]** Hospodine Bože, neodvracejž tváři od pomazaného svého, pamatuj na milosrdenství zaslíbená Davidovi služebníku svému. 
+**[6:42]** Hospodine Bože, neodvracejž tváři od pomazaného svého, pamatuj na milosrdenství zaslíbená Davidovi služebníku svému.
 
 ### Chapter 7
 
@@ -23468,7 +23468,7 @@
 
 **[7:21]** A tak dům ten, kterýž byl zvýšený každému jdoucímu mimo něj, bude k užasnutí, a dí: Proč tak učinil Hospodin zemi této a domu tomuto?
 
-**[7:22]** Tedy odpovědí: Proto že opustili Hospodina Boha otců svých, kterýž je vyvedl z země Egyptské, a chopili se bohů cizích, a klanějíce se jim, sloužili jim, protož uvedl na ně všecky tyto zlé věci. 
+**[7:22]** Tedy odpovědí: Proto že opustili Hospodina Boha otců svých, kterýž je vyvedl z země Egyptské, a chopili se bohů cizích, a klanějíce se jim, sloužili jim, protož uvedl na ně všecky tyto zlé věci.
 
 ### Chapter 8
 
@@ -23506,7 +23506,7 @@
 
 **[8:17]** Tedy jel Šalomoun do Aziongaber a do Elat při břehu mořském v zemi Idumejské.
 
-**[8:18]** I poslal jemu Chíram po služebnících svých lodí, a služebníky umělé na moři, kteříž plavivše se s služebníky Šalomounovými do Ofir, nabrali odtud čtyři sta a padesáte centnéřů zlata, a přinesli je králi Šalomounovi. 
+**[8:18]** I poslal jemu Chíram po služebnících svých lodí, a služebníky umělé na moři, kteříž plavivše se s služebníky Šalomounovými do Ofir, nabrali odtud čtyři sta a padesáte centnéřů zlata, a přinesli je králi Šalomounovi.
 
 ### Chapter 9
 
@@ -23570,7 +23570,7 @@
 
 **[9:30]** A kraloval Šalomoun v Jeruzalémě nade vším Izraelem čtyřidceti let.
 
-**[9:31]** I usnul Šalomoun s otci svými, a pochovali jej v městě Davida otce jeho. Kraloval pak Roboám syn jeho místo něho. 
+**[9:31]** I usnul Šalomoun s otci svými, a pochovali jej v městě Davida otce jeho. Kraloval pak Roboám syn jeho místo něho.
 
 ### Chapter 10
 
@@ -23610,7 +23610,7 @@
 
 **[10:18]** A když poslal král Roboám Adurama, kterýž byl nad platy, uházeli ho synové Izraelští kamením až do smrti, čímž král Roboám přinucen byl, aby vsedna na vůz, utekl do Jeruzaléma.
 
-**[10:19]** A tak odstoupili synové Izraelští od domu Davidova až do dnešního dne. 
+**[10:19]** A tak odstoupili synové Izraelští od domu Davidova až do dnešního dne.
 
 ### Chapter 11
 
@@ -23658,7 +23658,7 @@
 
 **[11:22]** Ustanovil pak Roboám Abiáše syna Maachy za kníže a vývodu mezi bratřími jeho; nebo myslil ho ustanoviti králem.
 
-**[11:23]** A opatrnosti užívaje, rozsadil všecky jiné syny své po všech krajích Judových a Beniaminových, ve všech městech ohrazených, i dal jim potravy hojně, a nabral jim mnoho žen. 
+**[11:23]** A opatrnosti užívaje, rozsadil všecky jiné syny své po všech krajích Judových a Beniaminových, ve všech městech ohrazených, i dal jim potravy hojně, a nabral jim mnoho žen.
 
 ### Chapter 12
 
@@ -23692,7 +23692,7 @@
 
 **[12:15]** Věci pak Roboámovy, první i poslední, zdaž zapsány nejsou v knihách Semaiáše proroka, a Iddo proroka, kdež se vyčítá pořádek rodů, ano i války mezi Roboámem a Jeroboámem, po všecky dny?
 
-**[12:16]** I usnul Roboám s otci svými, a pochován jest v městě Davidově, a kraloval Abiáš syn jeho místo něho. 
+**[12:16]** I usnul Roboám s otci svými, a pochován jest v městě Davidově, a kraloval Abiáš syn jeho místo něho.
 
 ### Chapter 13
 
@@ -23738,7 +23738,7 @@
 
 **[13:21]** Ale Abiáš zmocnil se, kterýž byl sobě pojal žen čtrnáct, a zplodil dvamecítma synů a šestnácte dcer.
 
-**[13:22]** Ostatek pak činů Abiášových, a života jeho i řečí jeho, sepsáno jest v knize proroka Iddo. 
+**[13:22]** Ostatek pak činů Abiášových, a života jeho i řečí jeho, sepsáno jest v knize proroka Iddo.
 
 ### Chapter 14
 
@@ -23770,7 +23770,7 @@
 
 **[14:14]** Pohubili také všecka města vůkol Gerar; strach zajisté Hospodinův připadl na ně. I vzebrali všecka města; nebo mnoho kořistí v nich bylo.
 
-**[14:15]** Též i obyvatele v staních při dobytcích zbili, a zajavše ovec velmi mnoho a velbloudů, navrátili se do Jeruzaléma. 
+**[14:15]** Též i obyvatele v staních při dobytcích zbili, a zajavše ovec velmi mnoho a velbloudů, navrátili se do Jeruzaléma.
 
 ### Chapter 15
 
@@ -23810,7 +23810,7 @@
 
 **[15:18]** Vnesl také ty věci, kteréž posvěceny byly od otce jeho, i to, čehož sám posvětil, do domu Božího, stříbro, zlato i nádoby.
 
-**[15:19]** A nebylo války až do léta třidcátého pátého kralování Azova. 
+**[15:19]** A nebylo války až do léta třidcátého pátého kralování Azova.
 
 ### Chapter 16
 
@@ -23840,7 +23840,7 @@
 
 **[16:13]** A tak usnul Aza s otci svými, a umřel léta čtyřidcátého prvního kralování svého.
 
-**[16:14]** A pochovali jej v hrobě jeho, kterýž byl vytesal sobě v městě Davidově, a položili ho na lůžku, kteréž byl naplnil vonnými věcmi a mastmi dílem apatykářským připravenými. I pálili to jemu ohněm velmi velikým. 
+**[16:14]** A pochovali jej v hrobě jeho, kterýž byl vytesal sobě v městě Davidově, a položili ho na lůžku, kteréž byl naplnil vonnými věcmi a mastmi dílem apatykářským připravenými. I pálili to jemu ohněm velmi velikým.
 
 ### Chapter 17
 
@@ -23880,7 +23880,7 @@
 
 **[17:18]** A po něm Jozabad, a s ním sto a osmdesát tisíc způsobných k boji.
 
-**[17:19]** Ti sloužili králi, kromě těch, kteréž byl osadil král po městech hrazených po všem Judstvu. 
+**[17:19]** Ti sloužili králi, kromě těch, kteréž byl osadil král po městech hrazených po všem Judstvu.
 
 ### Chapter 18
 
@@ -23950,7 +23950,7 @@
 
 **[18:33]** Muž pak střelil z lučiště náhodou, a postřelil krále Izraelského, kdež se pancíř spojuje. Pročež řekl vozkovi: Obrať se, a vyvez mne z vojska; nebo jsem nemocen.
 
-**[18:34]** I rozmohla se bitva v ten den. Král pak Izraelský stál na voze proti Syrským až do večera, i umřel v západ slunce. 
+**[18:34]** I rozmohla se bitva v ten den. Král pak Izraelský stál na voze proti Syrským až do večera, i umřel v západ slunce.
 
 ### Chapter 19
 
@@ -23974,7 +23974,7 @@
 
 **[19:10]** A při všeliké rozepři, kteráž by přišla před vás od bratří vašich, kteříž bydlí v městech svých, buď mezi krví a krví, mezi zákonem a přikázaním, ustanoveními a soudy, napomenete jich, aby nehřešili proti Hospodinu, tak aby nepřišla prchlivost na vás, ani na bratří vaše. Tak čiňte, a neuběhnete v hřích.
 
-**[19:11]** A aj, Amariáš, kněz nejvyšší, mezi vámi bude ve všech věcech Hospodinových, a Zebadiáš syn Izmaelův, vývoda domu Judova, ve všeliké věci královské. Máte také Levíty správce mezi sebou; posilňtež se a zmužile sobě počínejte, a budeť Hospodin s tím, kdož bude dobrý. 
+**[19:11]** A aj, Amariáš, kněz nejvyšší, mezi vámi bude ve všech věcech Hospodinových, a Zebadiáš syn Izmaelův, vývoda domu Judova, ve všeliké věci královské. Máte také Levíty správce mezi sebou; posilňtež se a zmužile sobě počínejte, a budeť Hospodin s tím, kdož bude dobrý.
 
 ### Chapter 20
 
@@ -24050,7 +24050,7 @@
 
 **[20:36]** Stovaryšil se pak s ním proto, aby nadělal lodí, kteréž by přecházely přes moře. I nadělali lodí v Aziongaber.
 
-**[20:37]** Protož prorokoval Eliezer syn Dodavahův z Maresa proti Jozafatovi, řka: Jakž jsi se stovaryšil s Ochoziášem, roztrhl Hospodin skutky tvé. I stroskotány jsou lodí, a tak nemohly se doplaviti přes moře. 
+**[20:37]** Protož prorokoval Eliezer syn Dodavahův z Maresa proti Jozafatovi, řka: Jakž jsi se stovaryšil s Ochoziášem, roztrhl Hospodin skutky tvé. I stroskotány jsou lodí, a tak nemohly se doplaviti přes moře.
 
 ### Chapter 21
 
@@ -24092,7 +24092,7 @@
 
 **[21:19]** A když se to den po dni rozmáhalo, a již čas vycházel přeběhnutí dvou let, vyšla střeva jeho pro nemoc jeho, i umřel na hrozné bolesti. A nepálil mu lid jeho vonných věcí, jako pálívali otcům jeho.
 
-**[21:20]** Ve třidcíti a ve dvou letech byl, když kralovati počal, a osm let kraloval v Jeruzalémě, a sešel tak, že po něm netoužili. A však jej pochovali v městě Davidově, ale ne v hrobích královských. 
+**[21:20]** Ve třidcíti a ve dvou letech byl, když kralovati počal, a osm let kraloval v Jeruzalémě, a sešel tak, že po něm netoužili. A však jej pochovali v městě Davidově, ale ne v hrobích královských.
 
 ### Chapter 22
 
@@ -24118,7 +24118,7 @@
 
 **[22:11]** Ale Jozabat dcera králova vzala Joasa syna Ochoziášova, a tajně ho uchvátivši z prostředku synů královských, kteříž mordováni byli, schovala jej s chůvou jeho v pokoji, kdež lůže byla. I skryla ho Jozabat dcera krále Jorama, manželka Joiady kněze, (nebo ona byla sestra Ochoziášova), před Atalií, aby ho nezamordovala.
 
-**[22:12]** I byl s nimi v domě Božím, skryt jsa za šest let, v nichž Atalia kralovala v té zemi. 
+**[22:12]** I byl s nimi v domě Božím, skryt jsa za šest let, v nichž Atalia kralovala v té zemi.
 
 ### Chapter 23
 
@@ -24162,7 +24162,7 @@
 
 **[23:20]** A pojav setníky a znamenitější, a ty, kteříž správu drželi nad lidem, i všecken lid země, provázel krále z domu Hospodinova. I šli branou hořejší do domu královského, a posadili krále na stolici královské.
 
-**[23:21]** I veselil se všecken lid země, a město se upokojilo, jakž Atalii zabili mečem. 
+**[23:21]** I veselil se všecken lid země, a město se upokojilo, jakž Atalii zabili mečem.
 
 ### Chapter 24
 
@@ -24218,7 +24218,7 @@
 
 **[24:26]** A tito jsou, kteříž se spikli proti němu: Zabad syn Simaty Ammonitského, a Jozabad syn Simrity Moábského.
 
-**[24:27]** O synech pak jeho, a o veliké dani od něho uložené, i o stavení domu Božího, to vše sepsáno jest v knize královské. Kraloval pak Amaziáš syn jeho místo něho. 
+**[24:27]** O synech pak jeho, a o veliké dani od něho uložené, i o stavení domu Božího, to vše sepsáno jest v knize královské. Kraloval pak Amaziáš syn jeho místo něho.
 
 ### Chapter 25
 
@@ -24276,7 +24276,7 @@
 
 **[25:27]** Od toho zajisté času, jakž se spustil Amaziáš Hospodina, spikli se jedovatě proti němu v Jeruzalémě. A když utekl do Lachis, poslali za ním do Lachis, a zabili jej tam.
 
-**[25:28]** A přinesše ho na koních, pochovali jej s otci jeho v městě Judově. 
+**[25:28]** A přinesše ho na koních, pochovali jej s otci jeho v městě Judově.
 
 ### Chapter 26
 
@@ -24324,7 +24324,7 @@
 
 **[26:22]** O jiných pak věcech Uziášových, prvních i posledních, psal Izaiáš prorok, syn Amosův.
 
-**[26:23]** I usnul Uziáš s otci svými, a pochovali jej s otci jeho na poli hrobů královských; nebo řekli: Malomocný jest. I kraloval Jotam syn jeho místo něho. 
+**[26:23]** I usnul Uziáš s otci svými, a pochovali jej s otci jeho na poli hrobů královských; nebo řekli: Malomocný jest. I kraloval Jotam syn jeho místo něho.
 
 ### Chapter 27
 
@@ -24344,7 +24344,7 @@
 
 **[27:8]** V pětmecítma letech byl, když kralovati začal, a šestnáct let kraloval v Jeruzalémě.
 
-**[27:9]** I usnul Jotam s otci svými, a pochovali jej v městě Davidově, a kraloval Achas syn jeho místo něho. 
+**[27:9]** I usnul Jotam s otci svými, a pochovali jej v městě Davidově, a kraloval Achas syn jeho místo něho.
 
 ### Chapter 28
 
@@ -24400,7 +24400,7 @@
 
 **[28:26]** O jiných pak věcech jeho, a o všech cestách jeho, prvních i posledních zapsáno jest v knize králů Judských a Izraelských.
 
-**[28:27]** I usnul Achas s otci svými, a pochovali jej v městě Jeruzalémě; nebo nevložili ho do hrobů králů Izraelských. I kraloval Ezechiáš syn jeho místo něho. 
+**[28:27]** I usnul Achas s otci svými, a pochovali jej v městě Jeruzalémě; nebo nevložili ho do hrobů králů Izraelských. I kraloval Ezechiáš syn jeho místo něho.
 
 ### Chapter 29
 
@@ -24474,7 +24474,7 @@
 
 **[29:35]** K tomu k zápalům bylo množství veliké tuků z obětí pokojných a obětí mokrých, kromě jiných zápalů. A tak vykonána byla služba domu Hospodinova.
 
-**[29:36]** A veselil se Ezechiáš i všecken lid, že Bůh byl nastrojil lid, tak aby se ta věc rychle spravila. 
+**[29:36]** A veselil se Ezechiáš i všecken lid, že Bůh byl nastrojil lid, tak aby se ta věc rychle spravila.
 
 ### Chapter 30
 
@@ -24530,7 +24530,7 @@
 
 **[30:26]** A bylo veselí veliké v Jeruzalémě; nebo ode dnů Šalomouna syna Davida, krále Izraelského, nic takového nebylo v Jeruzalémě.
 
-**[30:27]** Potom pak vstali kněží i Levítové, a dali požehnání lidu. I vyslyšán jest hlas jejich, a přišla modlitba jejich k příbytku svatosti Hospodinovy v nebe. 
+**[30:27]** Potom pak vstali kněží i Levítové, a dali požehnání lidu. I vyslyšán jest hlas jejich, a přišla modlitba jejich k příbytku svatosti Hospodinovy v nebe.
 
 ### Chapter 31
 
@@ -24574,7 +24574,7 @@
 
 **[31:20]** A tak učinil Ezechiáš ve všem Judstvu, a činil, což dobrého, přímého a pravého jest před Hospodinem Bohem svým.
 
-**[31:21]** A ve všelikém díle, kteréžkoli začal při službě domu Božího, a v zákoně i v přikázaní, hledaje Boha svého, celým srdcem svým to činil, a šťastně se mu vedlo. 
+**[31:21]** A ve všelikém díle, kteréžkoli začal při službě domu Božího, a v zákoně i v přikázaní, hledaje Boha svého, celým srdcem svým to činil, a šťastně se mu vedlo.
 
 ### Chapter 32
 
@@ -24642,7 +24642,7 @@
 
 **[32:32]** Jiné pak věci Ezechiášovy i pobožnost jeho zapsány jsou v proroctví Izaiáše proroka syna Amosova, a v knize o králích Judských a Izraelských.
 
-**[32:33]** I usnul Ezechiáš s otci svými, a pochovali jej výše nad hroby potomků Davidových, a učinili jemu poctivost při smrti jeho všecken Juda i obyvatelé Jeruzalémští. A kraloval Manasses syn jeho místo něho. 
+**[32:33]** I usnul Ezechiáš s otci svými, a pochovali jej výše nad hroby potomků Davidových, a učinili jemu poctivost při smrti jeho všecken Juda i obyvatelé Jeruzalémští. A kraloval Manasses syn jeho místo něho.
 
 ### Chapter 33
 
@@ -24694,7 +24694,7 @@
 
 **[33:24]** Spuntovali se pak proti němu služebníci jeho, a zamordovali jej v domě jeho.
 
-**[33:25]** Tedy pobil lid země všecky ty, kteříž se byli spuntovali proti králi Amonovi, a ustanovil lid země krále Joziáše syna jeho místo něho. 
+**[33:25]** Tedy pobil lid země všecky ty, kteříž se byli spuntovali proti králi Amonovi, a ustanovil lid země krále Joziáše syna jeho místo něho.
 
 ### Chapter 34
 
@@ -24762,7 +24762,7 @@
 
 **[34:32]** I rozkázal, aby k témuž každý stál, kdož by koli nalezen byl v Jeruzalémě a v Beniaminovi. I činili obyvatelé Jeruzalémští podlé smlouvy Boží, Boha otců svých.
 
-**[34:33]** Tehdáž také vyprázdnil Joziáš všecky ohavnosti ze všech zemí synů Izraelských, a přídržel všecky, kteřížkoli byli v Izraeli, k tomu, aby sloužili Hospodinu Bohu svému. Po všecky dny jeho neodstoupili od následování Hospodina Boha otců svých. 
+**[34:33]** Tehdáž také vyprázdnil Joziáš všecky ohavnosti ze všech zemí synů Izraelských, a přídržel všecky, kteřížkoli byli v Izraeli, k tomu, aby sloužili Hospodinu Bohu svému. Po všecky dny jeho neodstoupili od následování Hospodina Boha otců svých.
 
 ### Chapter 35
 
@@ -24818,7 +24818,7 @@
 
 **[35:26]** Jiné pak věci Joziášovy, i pobožnost jeho, jakž napsáno jest v zákoně Hospodinově,
 
-**[35:27]** I skutkové jeho první i poslední, to vše zapsáno jest v knize o králích Izraelských a Judských. 
+**[35:27]** I skutkové jeho první i poslední, to vše zapsáno jest v knize o králích Izraelských a Judských.
 
 ### Chapter 36
 
@@ -24866,7 +24866,7 @@
 
 **[36:22]** Potom léta prvního Cýra krále Perského, aby se naplnila řeč Hospodinova skrze ústa Jeremiášova, vzbudil Hospodin ducha Cýrova krále Perského. Kterýž dal provolati po všem království svém, ano také i rozepsal, řka:
 
-**[36:23]** Toto praví Cýrus král Perský: Všecka království země dal mi Hospodin Bůh nebeský, a ten mi poručil, abych mu vystavěl dům v Jeruzalémě, kterýž jest v Judstvu. Kdo jest mezi vámi ze všeho lidu jeho, Hospodin Bůh jeho budiž s ním, a ať jde.  
+**[36:23]** Toto praví Cýrus král Perský: Všecka království země dal mi Hospodin Bůh nebeský, a ten mi poručil, abych mu vystavěl dům v Jeruzalémě, kterýž jest v Judstvu. Kdo jest mezi vámi ze všeho lidu jeho, Hospodin Bůh jeho budiž s ním, a ať jde.
 
 ## Ezra
 
@@ -24892,7 +24892,7 @@
 
 **[1:10]** Koflíků zlatých třidceti, koflíků stříbrných prostějších čtyři sta a deset, nádob jiných na tisíce.
 
-**[1:11]** Všech nádob zlatých i stříbrných pět tisíc a čtyři sta. Všecko to odnesl Sesbazar, když se stěhoval lid zajatý z Babylona do Jeruzaléma. 
+**[1:11]** Všech nádob zlatých i stříbrných pět tisíc a čtyři sta. Všecko to odnesl Sesbazar, když se stěhoval lid zajatý z Babylona do Jeruzaléma.
 
 ### Chapter 2
 
@@ -25034,7 +25034,7 @@
 
 **[2:69]** Vedlé možnosti své dali náklad k dílu: Zlata jeden a šedesáte tisíc drachem, stříbra pak pět tisíc liber, a sukní kněžských sto.
 
-**[2:70]** A tak osadili se kněží i Levítové a někteří z lidu, i zpěváci i vrátní a Netinejští v městech svých, i všecken Izrael v městech svých. 
+**[2:70]** A tak osadili se kněží i Levítové a někteří z lidu, i zpěváci i vrátní a Netinejští v městech svých, i všecken Izrael v městech svých.
 
 ### Chapter 3
 
@@ -25062,7 +25062,7 @@
 
 **[3:12]** Mnozí pak z kněží a z Levítů i z knížat čeledí otcovských, starci, kteříž byli viděli prvnější dům, když zakládali tento dům před očima jejich, plakali hlasem velikým. Mnozí nazpět prokřikovali s radostí hlasem velikým,
 
-**[3:13]** Tak že lid nemohl rozeznati hlasu prokřikování radostného od hlasu plačícího lidu; nebo lid ten prokřikoval hlasem velikým, a hlas ten slyšán byl daleko. 
+**[3:13]** Tak že lid nemohl rozeznati hlasu prokřikování radostného od hlasu plačícího lidu; nebo lid ten prokřikoval hlasem velikým, a hlas ten slyšán byl daleko.
 
 ### Chapter 4
 
@@ -25112,7 +25112,7 @@
 
 **[4:23]** Když pak ten přípis listu Artaxerxa krále čten byl před Rechumem a Simsaiem písařem a tovaryši jejich, odešli rychle do Jeruzaléma k Židům, a zastavili jim mocí a silou.
 
-**[4:24]** A tak přetrženo jest dílo domu Božího, kterýž byl v Jeruzalémě, a stálo tak až do druhého léta kralování Daria krále Perského. 
+**[4:24]** A tak přetrženo jest dílo domu Božího, kterýž byl v Jeruzalémě, a stálo tak až do druhého léta kralování Daria krále Perského.
 
 ### Chapter 5
 
@@ -25148,7 +25148,7 @@
 
 **[5:16]** Tedy Sesbazar ten přišed, založil grunty domu Božího, kterýž jest v Jeruzalémě, a od toho času až po dnes staví se, a ještě není dokonán.
 
-**[5:17]** Nyní tedy jestli se za dobré králi vidí, nechť se pohledá mezi poklady královskými, kteříž jsou tam v Babyloně, jest-li tak, že by Cýrus král poručil, aby staven byl dům Boží tento, kterýž jest v Jeruzalémě. Potom vůli královskou nechť nám pošle o té věci. 
+**[5:17]** Nyní tedy jestli se za dobré králi vidí, nechť se pohledá mezi poklady královskými, kteříž jsou tam v Babyloně, jest-li tak, že by Cýrus král poručil, aby staven byl dům Boží tento, kterýž jest v Jeruzalémě. Potom vůli královskou nechť nám pošle o té věci.
 
 ### Chapter 6
 
@@ -25194,7 +25194,7 @@
 
 **[6:21]** A jedli synové Izraelští, kteříž se byli navrátili z přestěhování, i každý, kdož odděliv se od poškvrnění pohanů země, připojil se k nim, aby hledal Hospodina Boha Izraelského.
 
-**[6:22]** Drželi také slavnost přesnic za sedm dní s veselím, proto že je rozveselil Hospodin, a obrátil srdce krále Assyrského k nim, aby jich posilnil v díle domu Božího, Boha Izraelského. 
+**[6:22]** Drželi také slavnost přesnic za sedm dní s veselím, proto že je rozveselil Hospodin, a obrátil srdce krále Assyrského k nim, aby jich posilnil v díle domu Božího, Boha Izraelského.
 
 ### Chapter 7
 
@@ -25252,7 +25252,7 @@
 
 **[7:27]** Požehnaný Hospodin Bůh otců našich, kterýž dal to srdce královo, aby zvelebil dům Hospodinův, kterýž jest v Jeruzalémě,
 
-**[7:28]** A naklonil ke mně milosrdenstvím krále i rad jeho, i všech mocných knížat královských. Protož já posilněn jsa rukou Hospodina Boha svého nade mnou, shromáždil jsem z lidu Izraelského přednější, kteříž by šli se mnou. 
+**[7:28]** A naklonil ke mně milosrdenstvím krále i rad jeho, i všech mocných knížat královských. Protož já posilněn jsa rukou Hospodina Boha svého nade mnou, shromáždil jsem z lidu Izraelského přednější, kteříž by šli se mnou.
 
 ### Chapter 8
 
@@ -25326,7 +25326,7 @@
 
 **[8:35]** Vrátivše se pak z zajetí ti, kteříž byli přestěhováni, obětovali zápaly Bohu Izraelskému, volků dvanáct za všecken lid Izraelský, skopců devadesát a šest, beránků sedmdesát a sedm, kozlů za hřích dvanáct, vše v obět zápalnou Hospodinu.
 
-**[8:36]** I dali výpovědi královy vládařům královským i vývodám za řekou. Kteříž pomocni byli lidu i domu Božímu. 
+**[8:36]** I dali výpovědi královy vládařům královským i vývodám za řekou. Kteříž pomocni byli lidu i domu Božímu.
 
 ### Chapter 9
 
@@ -25358,7 +25358,7 @@
 
 **[9:14]** Opět-liž bychom rušiti měli tvá přikázaní, a přízniti se s národy těmito ohavnými? Zdaliž bys se zůřivě nehněval na nás, až bys nás do konce vyhladil, tak že by žádný nezůstal a neušel?
 
-**[9:15]** Hospodine Bože Izraelský, ty jsi spravedlivý; nebo jsme pozůstali ostatkové, jakž se to vidí dnešního dne. Aj, my jsme před tebou s proviněním svým, ač bychom neměli postavovati se před tváří tvou pro věci takové. 
+**[9:15]** Hospodine Bože Izraelský, ty jsi spravedlivý; nebo jsme pozůstali ostatkové, jakž se to vidí dnešního dne. Aj, my jsme před tebou s proviněním svým, ač bychom neměli postavovati se před tváří tvou pro věci takové.
 
 ### Chapter 10
 
@@ -25448,7 +25448,7 @@
 
 **[10:43]** Z synů Nébových: Jehiel, Mattitiáš, Zabad, Zebina, Jaddav, Joel a Benaiáš.
 
-**[10:44]** Ti všickni pojali byli ženy cizozemky, a byly z těch žen některé, že i děti zplodily.  
+**[10:44]** Ti všickni pojali byli ženy cizozemky, a byly z těch žen některé, že i děti zplodily.
 
 ## Nehemiah
 
@@ -25474,7 +25474,7 @@
 
 **[1:10]** Však tito jsou služebníci tvoji a lid tvůj, kteréž jsi vykoupil mocí svou převelikou, a rukou svou přesilnou.
 
-**[1:11]** Prosím, ó Hospodine, nechť jest nakloněné ucho tvé k modlitbě služebníka tvého, a k modlitbě služebníků tvých, kteříž žádají báti se jména tvého, a dej šťastný prospěch, prosím, služebníku svému dnes, nakloně k němu lítostí člověka toho. Já pak byl jsem šeňkéřem královským. 
+**[1:11]** Prosím, ó Hospodine, nechť jest nakloněné ucho tvé k modlitbě služebníka tvého, a k modlitbě služebníků tvých, kteříž žádají báti se jména tvého, a dej šťastný prospěch, prosím, služebníku svému dnes, nakloně k němu lítostí člověka toho. Já pak byl jsem šeňkéřem královským.
 
 ### Chapter 2
 
@@ -25516,7 +25516,7 @@
 
 **[2:19]** Což když uslyšel Sanballat Choronský, a Tobiáš služebník Ammonitský, a Gesem Arabský, posmívali se, a utrhali nám, pravíce: Což to děláte? Co se králi protivíte?
 
-**[2:20]** Jimž odpovídaje, řekl jsem: Bůh nebeský, tenť nám dá prospěch, a my služebníci jeho přičiníce se, stavěti budeme, vy pak nemáte žádného dílu, ani práva, ani památky v Jeruzalémě. 
+**[2:20]** Jimž odpovídaje, řekl jsem: Bůh nebeský, tenť nám dá prospěch, a my služebníci jeho přičiníce se, stavěti budeme, vy pak nemáte žádného dílu, ani práva, ani památky v Jeruzalémě.
 
 ### Chapter 3
 
@@ -25582,7 +25582,7 @@
 
 **[3:31]** Za ním opravoval Malkiáš syn zlatníkův až k domu Netinejských a kupců, naproti bráně Mifkad, až do paláce úhlového.
 
-**[3:32]** A mezi palácem úhlovým až do brány bravné opravovali zlatníci a kupci. 
+**[3:32]** A mezi palácem úhlovým až do brány bravné opravovali zlatníci a kupci.
 
 ### Chapter 4
 
@@ -25630,7 +25630,7 @@
 
 **[4:22]** Tehdáž také řekl jsem lidu: Každý s služebníkem svým nocuj u prostřed Jeruzaléma, ať je máme k stráži v noci, a ve dne k dílu.
 
-**[4:23]** Pročež i já, i bratří moji, i služebníci moji, i strážní, kteříž chodí za mnou, nebudeme svláčeti oděvu svého. Žádný ho nesloží, leč u vody. 
+**[4:23]** Pročež i já, i bratří moji, i služebníci moji, i strážní, kteříž chodí za mnou, nebudeme svláčeti oděvu svého. Žádný ho nesloží, leč u vody.
 
 ### Chapter 5
 
@@ -25670,7 +25670,7 @@
 
 **[5:18]** Pročež strojívalo se toho na každý den jeden vůl, šest ovec výborných, též i ptáci byli mi strojeni, a v jednom z desíti dnů všelijakého vína dávalo se dosti. Však s tím se vším pokrmu knížecího nežádal jsem, nebo těžká poroba vzložena byla na lid ten.
 
-**[5:19]** Budiž pamětliv na mne, Bože můj, k dobrému, což jsem pak koli činil při lidu tomto. 
+**[5:19]** Budiž pamětliv na mne, Bože můj, k dobrému, což jsem pak koli činil při lidu tomto.
 
 ### Chapter 6
 
@@ -25710,7 +25710,7 @@
 
 **[6:18]** Nebo mnozí v Judstvu měli s ním přísahu, proto že byl zetěm Sechaniáše syna Arachova, a Jochanan syn jeho pojal byl dceru Mesullama syna Berechiášova.
 
-**[6:19]** K tomu i dobré činy jeho vypravovali přede mnou, a řeči mé vynášeli k němu. Listy pak posílal Tobiáš, aby mne ustrašil. 
+**[6:19]** K tomu i dobré činy jeho vypravovali přede mnou, a řeči mé vynášeli k němu. Listy pak posílal Tobiáš, aby mne ustrašil.
 
 ### Chapter 7
 
@@ -25858,7 +25858,7 @@
 
 **[7:72]** Což pak dali jiní z lidu, bylo zlata dvadcet tisíc drachem, a stříbra dva tisíce liber, a sukní kněžských šedesát sedm.
 
-**[7:73]** A tak osadili se kněží a Levítové, a vrátní i zpěváci, lid a Netinejští, i všecken Izrael v městech svých. I nastal měsíc sedmý, a synové Izraelští byli v městech svých. 
+**[7:73]** A tak osadili se kněží a Levítové, a vrátní i zpěváci, lid a Netinejští, i všecken Izrael v městech svých. I nastal měsíc sedmý, a synové Izraelští byli v městech svých.
 
 ### Chapter 8
 
@@ -25896,7 +25896,7 @@
 
 **[8:17]** A tak nadělali stánků všecko shromáždění těch, jenž se vrátili z zajetí, a bydlili v nich, (ačkoli nečinili tak synové Izraelští ode dnů Jozue syna Nun, až do dne toho). I byla radost velmi veliká.
 
-**[8:18]** Četl pak v knize zákona Božího na každý den, od prvního dne až do posledního, a drželi slavnost za sedm dní. Osmého pak dne byl svátek podlé obyčeje. 
+**[8:18]** Četl pak v knize zákona Božího na každý den, od prvního dne až do posledního, a drželi slavnost za sedm dní. Osmého pak dne byl svátek podlé obyčeje.
 
 ### Chapter 9
 
@@ -25974,7 +25974,7 @@
 
 **[9:37]** Jižť úrody své vydává v hojnosti králům, kteréž jsi postavil nad námi pro hříchy naše, a oniť i nad těly našimi se potřásají, i nad hovady našimi podlé vůle své, tak že jsme u veliké úzkosti.
 
-**[9:38]** Se vším však tím činíme smlouvu nepohnutelnou, i zapisujeme, kteréž potvrzují knížata naše, Levítové naši, i kněží naši. 
+**[9:38]** Se vším však tím činíme smlouvu nepohnutelnou, i zapisujeme, kteréž potvrzují knížata naše, Levítové naši, i kněží naši.
 
 ### Chapter 10
 
@@ -26054,7 +26054,7 @@
 
 **[10:38]** Bude pak při tom kněz, syn Aronův, s Levíty, když Levítové ty desátky vyberou, a Levítové sami vnesou desátek z desátků do domu Boha našeho, do pokojů v domě skladu.
 
-**[10:39]** Nebo do těch pokojů donášeti budou synové Izraelští i synové Léví oběti obilé, mstu a oleje nového, (kdež jsou nádoby svatyně), i kněží přisluhující, vrátní i zpěváci, abychom neopouštěli domu Boha svého. 
+**[10:39]** Nebo do těch pokojů donášeti budou synové Izraelští i synové Léví oběti obilé, mstu a oleje nového, (kdež jsou nádoby svatyně), i kněží přisluhující, vrátní i zpěváci, abychom neopouštěli domu Boha svého.
 
 ### Chapter 11
 
@@ -26128,7 +26128,7 @@
 
 **[11:35]** V Lod, v Ono a v údolí řemeslníků.
 
-**[11:36]** Z Levítů pak někteří bydlili v dílích Judských a Beniaminských. 
+**[11:36]** Z Levítů pak někteří bydlili v dílích Judských a Beniaminských.
 
 ### Chapter 12
 
@@ -26224,7 +26224,7 @@
 
 **[12:46]** Nebo za času Davidova a Azafova od starodávna přední zpěváci k zpívání, chválení a oslavování Boha stáli před ním.
 
-**[12:47]** Pročež všecken Izrael za dnů Zorobábele a za času Nehemiáše dávali díly pro zpěváky a vrátné, na každý den stálé odměření, a odvodili je Levítům, Levítové pak dávali synům Aronovým. 
+**[12:47]** Pročež všecken Izrael za dnů Zorobábele a za času Nehemiáše dávali díly pro zpěváky a vrátné, na každý den stálé odměření, a odvodili je Levítům, Levítové pak dávali synům Aronovým.
 
 ### Chapter 13
 
@@ -26288,7 +26288,7 @@
 
 **[13:30]** Protož jsem je vyčistil od všelikého cizozemce, a ustanovil jsem zase třídy kněžím a Levítům, jednomu každému v práci jeho,
 
-**[13:31]** I nošení dříví k obětem časy uloženými, též i prvotin. Budiž pamětliv na mne, Bože můj, k mému dobrému.  
+**[13:31]** I nošení dříví k obětem časy uloženými, též i prvotin. Budiž pamětliv na mne, Bože můj, k mému dobrému.
 
 ## Esther
 
@@ -26336,7 +26336,7 @@
 
 **[1:21]** I líbila se ta rada králi i knížatům, a učinil král podlé rady Memuchanovy.
 
-**[1:22]** A rozeslal listy do všech krajin královských, do jedné každé krajiny písmem jejím, a do každého národu jazykem jeho, aby každý muž byl pánem domu svého. Což oznámil každý hejtman lidu jazykem jeho. 
+**[1:22]** A rozeslal listy do všech krajin královských, do jedné každé krajiny písmem jejím, a do každého národu jazykem jeho, aby každý muž byl pánem domu svého. Což oznámil každý hejtman lidu jazykem jeho.
 
 ### Chapter 2
 
@@ -26384,7 +26384,7 @@
 
 **[2:22]** Čehož dověděv se Mardocheus, oznámil to Ester královně, Ester pak oznámila králi jménem Mardocheovým.
 
-**[2:23]** A když bylo toho vyhledáváno, našlo se tak. I oběšeni jsou ti oba na šibenici, a zapsáno jest to do kronik před králem. 
+**[2:23]** A když bylo toho vyhledáváno, našlo se tak. I oběšeni jsou ti oba na šibenici, a zapsáno jest to do kronik před králem.
 
 ### Chapter 3
 
@@ -26416,7 +26416,7 @@
 
 **[3:14]** Summa toho psání byla: Aby vyhlášeno bylo v jedné každé krajině a oznámeno všechněm národům, aby hotovi byli ke dni tomu.
 
-**[3:15]** Tedy vyjeli poslové stěží s poručením královským, a vyhlášeno jest to v Susan, městě královském. Král pak a Aman seděli, kvasíce, ale měšťané Susan zkormouceni byli. 
+**[3:15]** Tedy vyjeli poslové stěží s poručením královským, a vyhlášeno jest to v Susan, městě královském. Král pak a Aman seděli, kvasíce, ale měšťané Susan zkormouceni byli.
 
 ### Chapter 4
 
@@ -26452,7 +26452,7 @@
 
 **[4:16]** Jdi a shromažď všecky Židy, což jest jich v Susan, a posťte se za mne, a nejezte ani píte za tři dni, v noci ani ve dne. Já podobně, i panny mé postiti se budou, a teprv vejdu k králi, což však neobyčejné jest, a jestližeť zahynu, nechť zahynu.
 
-**[4:17]** Tedy šel Mardocheus, a učinil všecko tak, jakž mu poručila Ester. 
+**[4:17]** Tedy šel Mardocheus, a učinil všecko tak, jakž mu poručila Ester.
 
 ### Chapter 5
 
@@ -26482,7 +26482,7 @@
 
 **[5:13]** Ale všecko to nic mi neprospívá, pokudžkoli vídám Mardochea, toho Žida, sedati u brány královské.
 
-**[5:14]** Řekla jemu Zeres žena jeho, i všickni přátelé jeho: Nechť udělají šibenici zvýši padesáti loket, a ráno rci králi, aby na ní oběsili Mardochea, a vejdi s králem na hody vesele. I líbila se ta rada Amanovi, a rozkázal postaviti šibenici. 
+**[5:14]** Řekla jemu Zeres žena jeho, i všickni přátelé jeho: Nechť udělají šibenici zvýši padesáti loket, a ráno rci králi, aby na ní oběsili Mardochea, a vejdi s králem na hody vesele. I líbila se ta rada Amanovi, a rozkázal postaviti šibenici.
 
 ### Chapter 6
 
@@ -26512,7 +26512,7 @@
 
 **[6:13]** I vypravoval Aman Zeres ženě své a všechněm přátelům svým všecko, což se mu přihodilo. I řekli jemu mudrci jeho i Zeres žena jeho: Poněvadž z národu Židovského jest Mardocheus, před jehož oblíčejem počal jsi klesati, neodoláš jemu, ale jistě padneš před oblíčejem jeho.
 
-**[6:14]** A když oni ještě mluvili s ním, komorníci královští přišli, a rychle vzali Amana na hody, kteréž připravila Ester. 
+**[6:14]** A když oni ještě mluvili s ním, komorníci královští přišli, a rychle vzali Amana na hody, kteréž připravila Ester.
 
 ### Chapter 7
 
@@ -26534,7 +26534,7 @@
 
 **[7:9]** Mezi tím řekl Charbona, jeden z komorníků, před králem: Aj, ještě šibenice, kterouž připravil Aman Mardocheovi, kterýž mluvil králi k dobrému, stojí při domě Amanově, zvýší padesáti loket. I řekl král: Oběstež ho na ní.
 
-**[7:10]** Tedy oběsili Amana na té šibenici, kterouž byl připravil Mardocheovi. A tak prchlivost královská ukojila se. 
+**[7:10]** Tedy oběsili Amana na té šibenici, kterouž byl připravil Mardocheovi. A tak prchlivost královská ukojila se.
 
 ### Chapter 8
 
@@ -26570,7 +26570,7 @@
 
 **[8:16]** Nebo Židům vzešlo světlo a radost, i veselé a sláva.
 
-**[8:17]** Ano i v každé krajině i v každém městě, na kteréžkoli místo poručení královské a výpověd jeho došla, veselé a radost měli Židé, hody a dobrou vůli, a mnozí z národů jiných přistupovali k Židům; nebo připadl na ně strach Židovský. 
+**[8:17]** Ano i v každé krajině i v každém městě, na kteréžkoli místo poručení královské a výpověd jeho došla, veselé a radost měli Židé, hody a dobrou vůli, a mnozí z národů jiných přistupovali k Židům; nebo připadl na ně strach Židovský.
 
 ### Chapter 9
 
@@ -26636,7 +26636,7 @@
 
 **[9:31]** Aby tuze drželi dny ty Purim v určité časy jich, jakž je nařídil jim Mardocheus Žid a Ester královna, a jakž to přijali na sebe a na símě své, na pamět postů a křiku jejich.
 
-**[9:32]** A tak výpověd Estery potvrdila ustanovení dnů Purim, což zapsáno jest v knize této. 
+**[9:32]** A tak výpověd Estery potvrdila ustanovení dnů Purim, což zapsáno jest v knize této.
 
 ### Chapter 10
 
@@ -26644,7 +26644,7 @@
 
 **[10:2]** Všickni pak činové síly jeho a moci jeho, i vypsání důstojnosti Mardocheovy, kterouž ho zvelebil král, to vše zapsáno jest v knize o králích Médských a Perských.
 
-**[10:3]** Nebo Mardocheus Žid byl druhý po králi Asverovi, a veliký u Židů, i vzácný u všeho množství bratří svých, pečuje o dobré lidu svého, a způsobuje pokoj všemu semeni svému.  
+**[10:3]** Nebo Mardocheus Žid byl druhý po králi Asverovi, a veliký u Židů, i vzácný u všeho množství bratří svých, pečuje o dobré lidu svého, a způsobuje pokoj všemu semeni svému.
 
 ## Job
 
@@ -26692,7 +26692,7 @@
 
 **[1:21]** A řekl: Nahý jsem vyšel z života matky své, nahý se také zase tam navrátím. Hospodin dal, Hospodin též odjal. Buď požehnáno jméno Hospodinovo.
 
-**[1:22]** V tom ve všem nezhřešil Job, a nepřivlastnil Bohu nic nemoudrého. 
+**[1:22]** V tom ve všem nezhřešil Job, a nepřivlastnil Bohu nic nemoudrého.
 
 ### Chapter 2
 
@@ -26720,7 +26720,7 @@
 
 **[2:12]** Kteříž pozdvihše očí svých zdaleka, nepoznali ho. Potom pozdvihše hlasu svého, plakali, a roztrhše jeden každý roucho své, házeli prachem nad hlavy své zhůru.
 
-**[2:13]** A seděli s ním na zemi sedm dní a sedm nocí, a žádný k němu nepromluvil slova; nebo viděli, že se velmi rozmohla bolest jeho. 
+**[2:13]** A seděli s ním na zemi sedm dní a sedm nocí, a žádný k němu nepromluvil slova; nebo viděli, že se velmi rozmohla bolest jeho.
 
 ### Chapter 3
 
@@ -26774,7 +26774,7 @@
 
 **[3:25]** To zajisté, čehož jsem se lekal, stalo se mi, a čehož jsem se obával, přišlo na mne.
 
-**[3:26]** Neměl jsem pokoje, aniž jsem se ubezpečil, ani odpočíval, až i přišlo pokušení toto. 
+**[3:26]** Neměl jsem pokoje, aniž jsem se ubezpečil, ani odpočíval, až i přišlo pokušení toto.
 
 ### Chapter 4
 
@@ -26818,7 +26818,7 @@
 
 **[4:20]** Od jitra až do večera stíráni bývají, a kdož toho nerozvažují, na věky zahynou.
 
-**[4:21]** Zdaliž nepomíjí sláva jejich s nimi? Umírají, ale ne v moudrosti. 
+**[4:21]** Zdaliž nepomíjí sláva jejich s nimi? Umírají, ale ne v moudrosti.
 
 ### Chapter 5
 
@@ -26874,7 +26874,7 @@
 
 **[5:26]** Vejdeš v šedinách do hrobu, tak jako odnášíno bývá zralé obilí časem svým.
 
-**[5:27]** Aj, toť jsme vyhledali, a takť jest; poslechniž toho, a schovej sobě to. 
+**[5:27]** Aj, toť jsme vyhledali, a takť jest; poslechniž toho, a schovej sobě to.
 
 ### Chapter 6
 
@@ -26918,7 +26918,7 @@
 
 **[6:20]** Zastyděli se, že v nich doufali; nebo přišedše až k nim, oklamáni jsou.
 
-**[6:21]** Tak zajisté i vy byvše, nejste; vidouce potření mé, děsíte se.
+**[6:21]** Tak zajisté i vy byvše, ne jste; vidouce potření mé, děsíte se.
 
 **[6:22]** Zdali jsem řekl: Přineste mi, aneb z zboží svého udělte darů pro mne?
 
@@ -26936,7 +26936,7 @@
 
 **[6:29]** Napravte se, prosím, nechť není nepravostí; napravte se, pravím, a tak poznáte, žeť jest spravedlnost v té řeči mé.
 
-**[6:30]** A jest-li na jazyku mém nepravost, neměl-liž bych, čitedlen býti bíd? 
+**[6:30]** A jest-li na jazyku mém nepravost, neměl-liž bych, čitedlen býti bíd?
 
 ### Chapter 7
 
@@ -26980,7 +26980,7 @@
 
 **[7:20]** Zhřešil jsem, což mám učiniti, ó strážce lidský? Proč jsi mne položil za cíl sobě, tak abych sám sobě byl břemenem?
 
-**[7:21]** Nýbrž proč neodejmeš přestoupení mého, a neodpustíš nepravosti mé? Nebo již v zemi lehnu. Potom bys mne i pilně hledal, nebude mne. 
+**[7:21]** Nýbrž proč neodejmeš přestoupení mého, a neodpustíš nepravosti mé? Nebo již v zemi lehnu. Potom bys mne i pilně hledal, nebude mne.
 
 ### Chapter 8
 
@@ -27026,7 +27026,7 @@
 
 **[8:21]** Až i naplní smíchem ústa tvá, a rty tvé plésáním,
 
-**[8:22]** Když nenávidící tebe v hanbu oblečeni budou, a stánku lidí bezbožných nikdež nebude. 
+**[8:22]** Když nenávidící tebe v hanbu oblečeni budou, a stánku lidí bezbožných nikdež nebude.
 
 ### Chapter 9
 
@@ -27098,7 +27098,7 @@
 
 **[9:34]** Kdyby odjal ode mne prut svůj, a strach jeho aby mne nekormoutil,
 
-**[9:35]** Tehdáž bych mluvil, a nebál bych se, poněvadž není toho tak při mně. 
+**[9:35]** Tehdáž bych mluvil, a nebál bych se, poněvadž není toho tak při mně.
 
 ### Chapter 10
 
@@ -27144,7 +27144,7 @@
 
 **[10:21]** Prvé než odejdu tam, odkudž se zase nenavrátím, do krajiny tmavé, anobrž stínu smrti,
 
-**[10:22]** Do krajiny, pravím, tmavé, kdež jest sama mrákota stínu smrti, a kdež není žádných proměn, ale sama pouhá mrákota. 
+**[10:22]** Do krajiny, pravím, tmavé, kdež jest sama mrákota stínu smrti, a kdež není žádných proměn, ale sama pouhá mrákota.
 
 ### Chapter 11
 
@@ -27186,7 +27186,7 @@
 
 **[11:19]** A tak v pokoji budeš, aniž tě kdo předěsí, a mnozí tváři tvé kořiti se budou.
 
-**[11:20]** Oči pak bezbožných zkaženy budou, a utíkání jim zhyne; nadto naděje jejich bude jako dchnutí člověka. 
+**[11:20]** Oči pak bezbožných zkaženy budou, a utíkání jim zhyne; nadto naděje jejich bude jako dchnutí člověka.
 
 ### Chapter 12
 
@@ -27238,7 +27238,7 @@
 
 **[12:24]** On odjímá srdce předním z lidu země, a v blud je uvodí na poušti bezcestné,
 
-**[12:25]** Aby šámali ve tmě bez světla. Summou, činí, aby bloudili jako opilý. 
+**[12:25]** Aby šámali ve tmě bez světla. Summou, činí, aby bloudili jako opilý.
 
 ### Chapter 13
 
@@ -27296,7 +27296,7 @@
 
 **[13:27]** A dáváš do klady nohy mé, a šetříš všech stezek mých, na paty noh mých našlapuješ;
 
-**[13:28]** Ješto člověk jako hnis kazí se, a jako roucho, kteréž jí mol. 
+**[13:28]** Ješto člověk jako hnis kazí se, a jako roucho, kteréž jí mol.
 
 ### Chapter 14
 
@@ -27342,7 +27342,7 @@
 
 **[14:21]** Budou-li slavní synové jeho, nic neví; pakli v potupě, nic o ně nepečuje.
 
-**[14:22]** Toliko tělo jeho, dokudž živ jest, bolestí okouší, a duše jeho v něm kvílí. 
+**[14:22]** Toliko tělo jeho, dokudž živ jest, bolestí okouší, a duše jeho v něm kvílí.
 
 ### Chapter 15
 
@@ -27414,7 +27414,7 @@
 
 **[15:34]** Nebo shromáždění pokrytce spustne, a oheň spálí stany oslepených dary.
 
-**[15:35]** Kteřížto když počali ssužování, a porodili nepravost, hned břicho jejich strojí jinou lest. 
+**[15:35]** Kteřížto když počali ssužování, a porodili nepravost, hned břicho jejich strojí jinou lest.
 
 ### Chapter 16
 
@@ -27460,7 +27460,7 @@
 
 **[16:21]** Ó by lze bylo muži v hádku s ním se vydati, jako synu člověka s přítelem svým.
 
-**[16:22]** Nebo léta mně odečtená přicházejí, a cestou, kterouž se zase nenavrátím, již se beru. 
+**[16:22]** Nebo léta mně odečtená přicházejí, a cestou, kterouž se zase nenavrátím, již se beru.
 
 ### Chapter 17
 
@@ -27494,7 +27494,7 @@
 
 **[17:15]** Kdež jest tedy očekávání mé? A kdo to, čím bych se troštoval, spatří?
 
-**[17:16]** Do skrýší hrobu sstoupí, poněvadž jest všechněm v prachu země odpočívati. 
+**[17:16]** Do skrýší hrobu sstoupí, poněvadž jest všechněm v prachu země odpočívati.
 
 ### Chapter 18
 
@@ -27534,11 +27534,11 @@
 
 **[18:18]** Vyženou ho z světla do tmy, anobrž z okršlku zemského vypudí jej.
 
-**[18:19]** Nepozůstaví ani syna ani vnuka v lidu svém, ani jakého ostatku v příbytcích svých.
+**[18:19]** Ne pozůstaví ani syna ani vnuka v lidu svém, ani jakého ostatku v příbytcích svých.
 
 **[18:20]** Nade dnem jeho zděsí se potomci, a přítomní strachem podjati budou.
 
-**[18:21]** Takovýť jest zajisté způsob nešlechetného, a takový cíl toho, kterýž nezná Boha silného. 
+**[18:21]** Takovýť jest zajisté způsob nešlechetného, a takový cíl toho, kterýž nezná Boha silného.
 
 ### Chapter 19
 
@@ -27598,7 +27598,7 @@
 
 **[19:28]** Ješto byste říci měli: I pročež ho trápíme? poněvadž základ dobré pře při mně se nalézá.
 
-**[19:29]** Bojte se meče, nebo pomsta za nepravosti jest meč, a vězte, žeť bude soud. 
+**[19:29]** Bojte se meče, nebo pomsta za nepravosti jest meč, a vězte, žeť bude soud.
 
 ### Chapter 20
 
@@ -27658,7 +27658,7 @@
 
 **[20:28]** Rozptýlena bude úroda domu jeho, rozplyne se v den hněvu jeho.
 
-**[20:29]** Tenť jest podíl člověka bezbožného od Boha, to, pravím, dědictví vyrčené jemu od Boha silného. 
+**[20:29]** Tenť jest podíl člověka bezbožného od Boha, to, pravím, dědictví vyrčené jemu od Boha silného.
 
 ### Chapter 21
 
@@ -27728,7 +27728,7 @@
 
 **[21:33]** Sladnou jemu hrudy údolí, nadto za sebou všecky lidi táhne, těch pak, kteříž ho předešli, není počtu.
 
-**[21:34]** Hle, jak vy mne marně troštujete, nebo v odpovědech vašich nezůstává než faleš. 
+**[21:34]** Hle, jak vy mne marně troštujete, nebo v odpovědech vašich ne zůstává než faleš.
 
 ### Chapter 22
 
@@ -27790,7 +27790,7 @@
 
 **[22:29]** Když jiní sníženi budou, tedy díš: Jáť jsem povýšen. Nebo toho, kdož jest očí ponížených, Bůh spasena učiní.
 
-**[22:30]** Vysvobodí i toho, kterýž není bez viny, vysvobodí, pravím, čistotou rukou tvých. 
+**[22:30]** Vysvobodí i toho, kterýž není bez viny, vysvobodí, pravím, čistotou rukou tvých.
 
 ### Chapter 23
 
@@ -27826,7 +27826,7 @@
 
 **[23:16]** Bůh zajisté zemdlil srdce mé, a Všemohoucí předěsil mne,
 
-**[23:17]** Tak že sotva jsem nezahynul v těch temnostech; nebo před tváří mou nezakryl mrákoty. 
+**[23:17]** Tak že sotva jsem nezahynul v těch temnostech; nebo před tváří mou ne zakryl mrákoty.
 
 ### Chapter 24
 
@@ -27878,7 +27878,7 @@
 
 **[24:24]** Bývají zvýšeni poněkud, ale hned jich není; tak jako jiní všickni sníženi, vypléněni, a jako vrškové klasů stínáni bývají.
 
-**[24:25]** Zdaliž není tak? Kdo na mne dokáže klamu, a v nic obrátí řeč mou? 
+**[24:25]** Zdaliž není tak? Kdo na mne dokáže klamu, a v nic obrátí řeč mou?
 
 ### Chapter 25
 
@@ -27892,7 +27892,7 @@
 
 **[25:5]** Hle, ani měsíc nesvítil by, ani hvězdy nebyly by čisté před očima jeho,
 
-**[25:6]** Nadto pak smrtelný člověk, jsa jako červ, a syn člověka, jako hmyz. 
+**[25:6]** Nadto pak smrtelný člověk, jsa jako červ, a syn člověka, jako hmyz.
 
 ### Chapter 26
 
@@ -27922,7 +27922,7 @@
 
 **[26:13]** Duchem svým nebesa ozdobil, a ruka jeho sformovala hada dlouhého.
 
-**[26:14]** Aj, toť jsou jen částky cest jeho, a jak nestižitelné jest i to maličko, což jsme slyšeli o něm. Hřímání pak moci jeho kdo srozumí? 
+**[26:14]** Aj, toť jsou jen částky cest jeho, a jak nestižitelné jest i to maličko, což jsme slyšeli o něm. Hřímání pak moci jeho kdo srozumí?
 
 ### Chapter 27
 
@@ -27970,7 +27970,7 @@
 
 **[27:22]** Takové věci na něj dopustí Bůh bez lítosti, ačkoli před rukou jeho prudce utíkati bude.
 
-**[27:23]** Tleskne nad ním každý rukama svýma, a ckáti bude z místa svého. 
+**[27:23]** Tleskne nad ním každý rukama svýma, a ckáti bude z místa svého.
 
 ### Chapter 28
 
@@ -28028,7 +28028,7 @@
 
 **[28:27]** Hned tehdáž viděl ji, a rozhlásil ji, připravil ji, a vystihl ji.
 
-**[28:28]** Člověku pak řekl: Aj, bázeň Páně jest moudrost, a odstoupiti od zlého rozumnost. 
+**[28:28]** Člověku pak řekl: Aj, bázeň Páně jest moudrost, a odstoupiti od zlého rozumnost.
 
 ### Chapter 29
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** Žertoval-li jsem s nimi, nevěřili; pročež u vážnosti mne míti neoblevovali.
 
-**[29:25]** Přišel-li jsem kdy k nim, sedal jsem na předním místě, a tak bydlil jsem jako král v vojště, když smutných potěšuje. 
+**[29:25]** Přišel-li jsem kdy k nim, sedal jsem na předním místě, a tak bydlil jsem jako král v vojště, když smutných potěšuje.
 
 ### Chapter 30
 
@@ -28144,7 +28144,7 @@
 
 **[30:30]** Kůže má zčernala na mně, a kosti mé vyprahly od horkosti.
 
-**[30:31]** A protož v kvílení obrátila se harfa má, a píšťalka má v hlas plačících. 
+**[30:31]** A protož v kvílení obrátila se harfa má, a píšťalka má v hlas plačících.
 
 ### Chapter 31
 
@@ -28176,7 +28176,7 @@
 
 **[31:14]** Nebo co bych činil, kdyby povstal Bůh silný? A kdyby vyhledával, co bych odpověděl jemu?
 
-**[31:15]** Zdali ten, kterýž mne v břiše učinil, neučinil i jeho? A nesformoval nás hned v životě jeden a týž?
+**[31:15]** Zdali ten, kterýž mne v břiše učinil, neučinil i jeho? A ne sformoval nás hned v životě jeden a týž?
 
 **[31:16]** Odepřel-li jsem žádosti nuzných, a oči vdovy jestliže jsem kormoutil?
 
@@ -28226,7 +28226,7 @@
 
 **[31:39]** Jídal-li jsem úrody její bez peněz, a duši držitelů jejich přivodil-li jsem k vzdychání:
 
-**[31:40]** Místo pšenice nechť vzejde trní, a místo ječmene koukol. Skonávají se slova Jobova. 
+**[31:40]** Místo pšenice nechť vzejde trní, a místo ječmene koukol. Skonávají se slova Jobova.
 
 ### Chapter 32
 
@@ -28272,7 +28272,7 @@
 
 **[32:21]** Nebuduť pak šetřiti osoby žádného, a k člověku bez proměňování jména mluviti budu.
 
-**[32:22]** Nebo neumím jmen proměňovati, nebo tudíž by mne zachvátil stvořitel můj. 
+**[32:22]** Nebo neumím jmen proměňovati, nebo tudíž by mne zachvátil stvořitel můj.
 
 ### Chapter 33
 
@@ -28340,7 +28340,7 @@
 
 **[33:32]** Jestliže máš slova, odpovídej mi, nebo bych chtěl ospravedlniti tebe.
 
-**[33:33]** Pakli nic, ty mne poslouchej; mlč, a poučím tě moudrosti. 
+**[33:33]** Pakli nic, ty mne poslouchej; mlč, a poučím tě moudrosti.
 
 ### Chapter 34
 
@@ -28406,7 +28406,7 @@
 
 **[34:31]** Jistě žeť k Bohu silnému raději toto mluveno býti má: Ponesuť, nezruším.
 
-**[34:32]** Mimo to, nevidím-li čeho, ty vyuč mne; jestliže jsem nepravost páchal, neučiním toho víc.
+**[34:32]** Mimo to, ne vidím-li čeho, ty vyuč mne; jestliže jsem nepravost páchal, neučiním toho víc.
 
 **[34:33]** Nebo zdali vedlé tvého zdání odplacovati má, že bys ty toho neliboval, že bys ono zvoloval, a ne on? Pakli co víš jiného, mluv.
 
@@ -28416,7 +28416,7 @@
 
 **[34:36]** Ó by zkušen byl Job dokonale, pro odmlouvání nám jako lidem nepravým,
 
-**[34:37]** Poněvadž k hříchu svému přidává i nešlechetnost, mezi námi také jen chloubu svou vynáší, a rozmnožuje řeči své proti Bohu. 
+**[34:37]** Poněvadž k hříchu svému přidává i nešlechetnost, mezi námi také jen chloubu svou vynáší, a rozmnožuje řeči své proti Bohu.
 
 ### Chapter 35
 
@@ -28450,7 +28450,7 @@
 
 **[35:15]** Ale nyní poněvadž nic není těch věcí, navštívil jej hněv jeho; nebo nechce znáti hojnosti této veliké.
 
-**[35:16]** A protož marně Job otvírá ústa svá, hloupě rozmnožuje řeči své. 
+**[35:16]** A protož marně Job otvírá ústa svá, hloupě rozmnožuje řeči své.
 
 ### Chapter 36
 
@@ -28460,7 +28460,7 @@
 
 **[36:3]** Vynesu smysl svůj zdaleka, a stvořiteli svému přivlastním spravedlnost.
 
-**[36:4]** V pravdě, žeť nebudou lživé řeči mé; zdravě smýšlejícího máš mne s sebou.
+**[36:4]** V pravdě, žeť ne budou lživé řeči mé; zdravě smýšlejícího máš mne s sebou.
 
 **[36:5]** Aj, Bůh silný mocný jest, aniž svých zamítá; silný jest, a srdce udatného.
 
@@ -28518,7 +28518,7 @@
 
 **[36:32]** Oblaky zakrývá světlo, a přikazuje mu ukrývati se za to, co je potkává.)
 
-**[36:33]** Ohlašuje o něm zvuk jeho, též dobytek, a to hned, když pára zhůru vstupuje. 
+**[36:33]** Ohlašuje o něm zvuk jeho, též dobytek, a to hned, když pára zhůru vstupuje.
 
 ### Chapter 37
 
@@ -28568,7 +28568,7 @@
 
 **[37:23]** Všemohoucí, jehož vystihnouti nemůžeme, ač jest veliký v moci, však soudem a přísnou spravedlností netrápí.
 
-**[37:24]** Protož bojí se ho lidé; neohlédá se na žádného z těch, kdož jsou moudrého srdce. 
+**[37:24]** Protož bojí se ho lidé; neohlédá se na žádného z těch, kdož jsou moudrého srdce.
 
 ### Chapter 38
 
@@ -28652,7 +28652,7 @@
 
 **[38:40]** Když se stulují v peleších svých, ustavičně z skrýší číhajíce?
 
-**[38:41]** Kdo připravuje krkavci pokrm jeho, když mladí jeho k Bohu silnému volají, a toulají se sem i tam pro nedostatek pokrmu? 
+**[38:41]** Kdo připravuje krkavci pokrm jeho, když mladí jeho k Bohu silnému volají, a toulají se sem i tam pro nedostatek pokrmu?
 
 ### Chapter 39
 
@@ -28714,7 +28714,7 @@
 
 **[39:29]** Odkudž hledá pokrmu, kterýž z daleka očima svýma spatřuje.
 
-**[39:30]** Ano i mladí její střebí krev, a kde těla mrtvá, tu i ona jest. 
+**[39:30]** Ano i mladí její střebí krev, a kde těla mrtvá, tu i ona jest.
 
 ### Chapter 40
 
@@ -28764,7 +28764,7 @@
 
 **[40:23]** Aj, zadržuje řeku tak, že nemůže pospíchati; tuší sobě, že požře Jordán v ústa svá.
 
-**[40:24]** Zdaž kdo před očima jeho polapí jej, aneb provazy protáhne chřípě jeho? 
+**[40:24]** Zdaž kdo před očima jeho polapí jej, aneb provazy protáhne chřípě jeho?
 
 ### Chapter 41
 
@@ -28834,7 +28834,7 @@
 
 **[41:33]** Žádného není na zemi jemu podobného, aby tak učiněn byl bez strachu.
 
-**[41:34]** Cokoli vysokého jest, za nic pokládá, jest králem nade všemi šelmami. 
+**[41:34]** Cokoli vysokého jest, za nic pokládá, jest králem nade všemi šelmami.
 
 ### Chapter 42
 
@@ -28870,7 +28870,7 @@
 
 **[42:16]** Byl pak živ Job potom sto a čtyřidceti let, a viděl syny své, a syny synů svých, až do čtvrtého pokolení.
 
-**[42:17]** I umřel Job, stár jsa a pln dnů.  
+**[42:17]** I umřel Job, stár jsa a pln dnů.
 
 ## Psalms
 
@@ -28886,7 +28886,7 @@
 
 **[1:5]** A protož neostojí bezbožní na soudu, ani hříšníci v shromáždění spravedlivých.
 
-**[1:6]** Neboť zná Hospodin cestu spravedlivých, ale cesta bezbožných zahyne. 
+**[1:6]** Neboť zná Hospodin cestu spravedlivých, ale cesta bezbožných zahyne.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Služte Hospodinu v bázni, a veselte se s třesením.
 
-**[2:12]** Líbejte syna, aby se nerozhněval, a zhynuli byste na cestě, jakž by se jen málo zapálil hněv jeho. Blahoslavení jsou všickni, kteříž doufají v něho. 
+**[2:12]** Líbejte syna, aby se nerozhněval, a zhynuli byste na cestě, jakž by se jen málo zapálil hněv jeho. Blahoslavení jsou všickni, kteříž doufají v něho.
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** Povstaniž, Hospodine, zachovej mne, Bože můj, kterýž jsi zbil všech nepřátel mých líce, a zuby bezbožníků zvyrážel.
 
-**[3:8]** Tvéť, ó Hospodine, jest spasení, a nad lidem tvým požehnání tvé. Sélah. 
+**[3:8]** Tvéť, ó Hospodine, jest spasení, a nad lidem tvým požehnání tvé. Sélah.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** I způsobíš radost v srdci mém větší, než oni mívají, když obilé a víno jejich se obrodí.
 
-**[4:8]** Jáť u pokoji i lehnu i spáti budu; nebo ty, Hospodine, sám způsobíš mi bydlení bezpečné. 
+**[4:8]** Jáť u pokoji i lehnu i spáti budu; nebo ty, Hospodine, sám způsobíš mi bydlení bezpečné.
 
 ### Chapter 5
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** A ať se všickni v tě doufající radují, na věky ať plésají, když je zastírati budeš; ať se v tobě veselí, kteřížkoli milují jméno tvé.
 
-**[5:12]** Nebo ty, Hospodine, požehnáš spravedlivému, a jako štítem přívětivostí svou vůkol zastřeš jej. 
+**[5:12]** Nebo ty, Hospodine, požehnáš spravedlivému, a jako štítem přívětivostí svou vůkol zastřeš jej.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** Vyslyšel Hospodin pokornou modlitbu mou, Hospodin modlitbu mou přijal.
 
-**[6:10]** Nechažť se zastydí a předěsí zřejmě všickni nepřátelé moji, nechažť jsou zpět obráceni a rychle zahanbeni. 
+**[6:10]** Nechažť se zastydí a předěsí zřejmě všickni nepřátelé moji, nechažť jsou zpět obráceni a rychle zahanbeni.
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** Obrátíť se usilování jeho na hlavu jeho, a na vrch hlavy jeho nepravost jeho sstoupí.
 
-**[7:17]** Slaviti budu Hospodina podlé spravedlnosti jeho, a žalmy zpívati jménu Hospodina nejvyššího. 
+**[7:17]** Slaviti budu Hospodina podlé spravedlnosti jeho, a žalmy zpívati jménu Hospodina nejvyššího.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** Ptactvo nebeské, i ryby mořské, a cožkoli chodí stezkami mořskými.
 
-**[8:9]** Hospodine Pane náš, jak důstojné jest jméno tvé na vší zemi! 
+**[8:9]** Hospodine Pane náš, jak důstojné jest jméno tvé na vší zemi!
 
 ### Chapter 9
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** Povstaniž, Hospodine, ať se nesilí člověk; národové buďte souzeni před tebou.
 
-**[9:20]** Pusť na ně strach, ó Hospodine, ať tomu porozumějí národové, že smrtelní jsou. Sélah. 
+**[9:20]** Pusť na ně strach, ó Hospodine, ať tomu porozumějí národové, že smrtelní jsou. Sélah.
 
 ### Chapter 10
 
@@ -29108,7 +29108,7 @@
 
 **[10:5]** Dobře mu se daří na cestách jeho všelikého času, soudové tvoji vzdáleni jsou od něho, i na všecky nepřátely své fouká,
 
-**[10:6]** Říkaje v srdci svém: Nepohnuť se od národu až do pronárodu, nebo nebojím se zlého.
+**[10:6]** Říkaje v srdci svém: Nepohnuť se od národu až do pronárodu, nebo ne bojím se zlého.
 
 **[10:7]** Ústa jeho plná jsou zlořečenství, i chytrosti a lsti; pod jazykem jeho trápení a starost.
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** Žádost ponížených vyslýcháš, Hospodine, utvrzuješ srdce jejich, ucha svého k nim nakloňuješ,
 
-**[10:18]** Abys soud činil sirotku a ssouženému, tak aby jich nessužoval více člověk bídný a zemský. 
+**[10:18]** Abys soud činil sirotku a ssouženému, tak aby jich nessužoval více člověk bídný a zemský.
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** Dštíti bude na bezbožníky uhlím řeřavým, ohněm a sirou, a duch vichřice bude částka kalicha jejich.
 
-**[11:7]** Nebo Hospodin spravedlivý jest, spravedlnost miluje, na upřímého oči jeho patří. 
+**[11:7]** Nebo Hospodin spravedlivý jest, spravedlnost miluje, na upřímého oči jeho patří.
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Ty, Hospodine, jim spomáhati budeš, a ostříhati každého od národu tohoto až na věky.
 
-**[12:8]** Vůkol a vůkol bezbožní se protulují, když takoví ničemní vyvýšeni bývají mezi syny lidskými. 
+**[12:8]** Vůkol a vůkol bezbožní se protulují, když takoví ničemní vyvýšeni bývají mezi syny lidskými.
 
 ### Chapter 13
 
@@ -29180,7 +29180,7 @@
 
 **[13:5]** Jáť zajisté v milosrdenství tvém doufám, plésati bude srdce mé v spasení tvém;
 
-**[13:6]** zpívati budu Hospodinu, že jest mi tak dobře učinil. 
+**[13:6]** zpívati budu Hospodinu, že jest mi tak dobře učinil.
 
 ### Chapter 14
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** Radu chudého potupujete, ale Hospodin jest naděje jeho.
 
-**[14:7]** Ó by z Siona dáno bylo spasení Izraelovi. Když Hospodin zase přivede zajaté lidu svého, plésati bude Jákob, a veseliti se Izrael. 
+**[14:7]** Ó by z Siona dáno bylo spasení Izraelovi. Když Hospodin zase přivede zajaté lidu svého, plésati bude Jákob, a veseliti se Izrael.
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** Ten, před jehož očima v nevážnosti jest zavržený, v poctivosti pak bojící se Hospodina; a přisáhl-li by i se škodou, však toho nemění.
 
-**[15:5]** Kdož peněz svých nedává na lichvu, a daru proti nevinnému nebéře. Kdož tyto věci činí, nepohneť se na věky. 
+**[15:5]** Kdož peněz svých nedává na lichvu, a daru proti nevinnému nebéře. Kdož tyto věci činí, nepohneť se na věky.
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** Nebo nenecháš duše mé v pekle, aniž dopustíš svatému svému viděti porušení.
 
-**[16:11]** Známou učiníš mi cestu života; sytost hojného veselí jest před oblíčejem tvým, a dokonalé utěšení po pravici tvé až na věky. 
+**[16:11]** Známou učiníš mi cestu života; sytost hojného veselí jest před oblíčejem tvým, a dokonalé utěšení po pravici tvé až na věky.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** Rukou svou od lidí, ó Hospodine, od lidí světských, jichžto oddíl jest v tomto životě, a jejichž břicho ty z špižírny své naplňuješ. Čímž i synové jejich nasyceni bývají, a ostatků zanechávají maličkým svým.
 
-**[17:15]** Já pak v spravedlnosti spatřovati budu tvář tvou; nasycen budu obrazem tvým, když procítím. 
+**[17:15]** Já pak v spravedlnosti spatřovati budu tvář tvou; nasycen budu obrazem tvým, když procítím.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** A protož chváliti tě budu mezi národy, ó Hospodine, a jménu tvému žalmy prozpěvovati,
 
-**[18:50]** Kterýž tak důstojně vysvobozuješ krále svého, a činíš milosrdenství pomazanému svému Davidovi, i semeni jeho až na věky. 
+**[18:50]** Kterýž tak důstojně vysvobozuješ krále svého, a činíš milosrdenství pomazanému svému Davidovi, i semeni jeho až na věky.
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** I od zúmyslných zdržuj služebníka svého, aby nade mnou nepanovali, a tehdyť dokonalý budu, a očištěný od přestoupení velikého.
 
-**[19:14]** Ó ať jsou slova úst mých tobě příjemná, i přemyšlování srdce mého před tebou, Hospodine skálo má, a vykupiteli můj. 
+**[19:14]** Ó ať jsou slova úst mých tobě příjemná, i přemyšlování srdce mého před tebou, Hospodine skálo má, a vykupiteli můj.
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** A protož oni sehnuti jsou, a padli, ale my povstali jsme, a zmužile stojíme.
 
-**[20:9]** Hospodine, zachovávejž nás, i král ať slyší nás, když k němu volati budeme. 
+**[20:9]** Hospodine, zachovávejž nás, i král ať slyší nás, když k němu volati budeme.
 
 ### Chapter 21
 
@@ -29444,7 +29444,7 @@
 
 **[21:12]** Protož je vystavíš za cíl, na tětiva svá přikládati budeš proti tváři jejich.
 
-**[21:13]** Zjeviž se, ó Hospodine, v síle své, a budemeť zpívati a oslavovati udatnost tvou. 
+**[21:13]** Zjeviž se, ó Hospodine, v síle své, a budemeť zpívati a oslavovati udatnost tvou.
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Jísti budou a skláněti se před ním všickni tuční země, jemu se klaněti budou všickni sstupující do prachu, a kteříž duše své nemohou při životu zachovati.
 
-**[22:31]** Símě jejich sloužiti mu bude, a přičteno bude ku Pánu v každém věku. Přijdouť, a lidu, kterýž z nich vyjde, vypravovati budou spravedlnost jeho; nebo ji skutkem vykonal. 
+**[22:31]** Símě jejich sloužiti mu bude, a přičteno bude ku Pánu v každém věku. Přijdouť, a lidu, kterýž z nich vyjde, vypravovati budou spravedlnost jeho; nebo ji skutkem vykonal.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Strojíš stůl před oblíčejem mým naproti mým nepřátelům, pomazuješ olejem hlavy mé, kalich můj naléváš, až oplývá.
 
-**[23:6]** Nadto i dobrota a milosrdenství následovati mne budou po všecky dny života mého, a přebývati budu v domě Hospodinově za dlouhé časy. 
+**[23:6]** Nadto i dobrota a milosrdenství následovati mne budou po všecky dny života mého, a přebývati budu v domě Hospodinově za dlouhé časy.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** Pozdvihnětež, ó brány, svrchků svých, pozdvihněte se vrata věčná, aby vjíti mohl král slávy.
 
-**[24:10]** Kdož jest to ten král slávy? Hospodin zástupů, onť jest král slávy. Sélah. 
+**[24:10]** Kdož jest to ten král slávy? Hospodin zástupů, onť jest král slávy. Sélah.
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Sprostnost a upřímnost nechať mne ostříhají, nebo na tě očekávám.
 
-**[25:22]** Vykup, ó Bože, Izraele ze všelijakých úzkostí jeho. 
+**[25:22]** Vykup, ó Bože, Izraele ze všelijakých úzkostí jeho.
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** Já pak v upřímnosti své chodím, vykupiž mne, a smiluj se nade mnou.
 
-**[26:12]** Noha má stojí na rovině, v shromážděních svatých dobrořečiti budu Hospodinu. 
+**[26:12]** Noha má stojí na rovině, v shromážděních svatých dobrořečiti budu Hospodinu.
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** Bychť nevěřil, že užívati budu dobroty Hospodinovy v zemi živých, nikoli bych neostál.
 
-**[27:14]** Očekávejž na Hospodina, posilň se, a onť posilní srdce tvého; protož očekávej na Hospodina. 
+**[27:14]** Očekávejž na Hospodina, posilň se, a onť posilní srdce tvého; protož očekávej na Hospodina.
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** Hospodin jest síla svých, a síla hojného spasení pomazaného svého on jest.
 
-**[28:9]** Spas lid svůj, Hospodine, a požehnej dědictví svému, a pas je, i vyvyš je až na věky. 
+**[28:9]** Spas lid svůj, Hospodine, a požehnej dědictví svému, a pas je, i vyvyš je až na věky.
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** Hospodin nad potopou seděl, a budeť seděti Hospodin, jsa králem i na věky.
 
-**[29:11]** Hospodin silou lid svůj daří, Hospodin požehná lidu svému v pokoji. 
+**[29:11]** Hospodin silou lid svůj daří, Hospodin požehná lidu svému v pokoji.
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** I obrátil jsi mi pláč můj v plésání, odvázal jsi pytel můj, a přepásals mne veselím.
 
-**[30:12]** Protož tobě žalmy zpívati bude jazyk můj, a nebude mlčeti. Hospodine Bože můj, na věky tě oslavovati budu. 
+**[30:12]** Protož tobě žalmy zpívati bude jazyk můj, a nebude mlčeti. Hospodine Bože můj, na věky tě oslavovati budu.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Milujtež Hospodina všickni svatí jeho, neboť ostříhá věřících Hospodin, a též odplací vrchovatě tomu, kdož pýchu provodí.
 
-**[31:24]** Zmužile sobě čiňte, (a posilní Bůh srdce vašeho), všickni, kteříž naději máte v Hospodinu. 
+**[31:24]** Zmužile sobě čiňte, (a posilní Bůh srdce vašeho), všickni, kteříž naději máte v Hospodinu.
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Mnohé bolesti jsou bezbožníka, ale toho, jenž naději skládá v Hospodinu, milosrdenství obklíčí.
 
-**[32:11]** Radujte se v Hospodinu, a plésejte spravedliví, a prozpěvujte všickni srdce upřímého. 
+**[32:11]** Radujte se v Hospodinu, a plésejte spravedliví, a prozpěvujte všickni srdce upřímého.
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** V něm zajisté rozveselí se srdce naše, nebo ve jménu jeho svatém naději skládáme.
 
-**[33:22]** Budiž milosrdenství tvé nad námi, Hospodine, jakož naději máme v tobě. 
+**[33:22]** Budiž milosrdenství tvé nad námi, Hospodine, jakož naději máme v tobě.
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** Bezbožníka zahubí zlost, a ti, kteříž nenávidí spravedlivého, zkaženi budou.
 
-**[34:22]** Služebníků pak svých duše vykoupí Hospodin, a nebudou zkaženi, kteříž doufají v něho. 
+**[34:22]** Služebníků pak svých duše vykoupí Hospodin, a nebudou zkaženi, kteříž doufají v něho.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** Ti pak, kteříž mi přejí mé spravedlnosti, ať plésají, a radují se, a ať říkají vždycky: Veleslaven budiž Hospodin, kterýž přeje pokoje služebníku svému.
 
-**[35:28]** I můj jazyk ohlašovati bude spravedlnost tvou, a na každý den chválu tvou. 
+**[35:28]** I můj jazyk ohlašovati bude spravedlnost tvou, a na každý den chválu tvou.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Nechažť nedotírá na mne noha pyšných, a ruka bezbožníků ať mne nezavozuje.
 
-**[36:12]** Tam, kdež padají činitelé nepravosti, poraženi bývají, a nemohou povstati. 
+**[36:12]** Tam, kdež padají činitelé nepravosti, poraženi bývají, a nemohou povstati.
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** Ale spasení spravedlivých jest od Hospodina, onť jest síla jejich v času ssoužení.
 
-**[37:40]** Spomáháť jim Hospodin, a je vytrhuje, vytrhuje je od bezbožníků, a zachovává je; nebo doufají v něho. 
+**[37:40]** Spomáháť jim Hospodin, a je vytrhuje, vytrhuje je od bezbožníků, a zachovává je; nebo doufají v něho.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** Neopouštějž mne, Hospodine Bože můj, nevzdalujž se ode mne.
 
-**[38:22]** Přispěj k spomožení mému, Pane spasení mého. 
+**[38:22]** Přispěj k spomožení mému, Pane spasení mého.
 
 ### Chapter 39
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** Vyslyšiž modlitbu mou, Hospodine, a volání mé přijmi v uši své; neodmlčujž se kvílení mému, nebo jsem příchozí a podruh u tebe, jako i všickni otcové moji.
 
-**[39:13]** Ponechej mne, ať se posilím, prvé než bych se odebral, a již zde více nebyl. 
+**[39:13]** Ponechej mne, ať se posilím, prvé než bych se odebral, a již zde více nebyl.
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** Ale ať radují a veselí se v tobě všickni hledající tebe, a milující spasení tvé ať říkají vždycky: Veleslaven budiž Hospodin.
 
-**[40:17]** Já pak ačkoli chudý a nuzný jsem, Pán však pečuje o mne. Pomoc má a vysvoboditel můj ty jsi. Bože můj, neprodlévejž. 
+**[40:17]** Já pak ačkoli chudý a nuzný jsem, Pán však pečuje o mne. Pomoc má a vysvoboditel můj ty jsi. Bože můj, neprodlévejž.
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** Mne pak v upřímnosti mé zachováš, a postavíš před oblíčejem svým na věky.
 
-**[41:13]** Požehnaný Hospodin Bůh Izraelský, od věků až na věky, Amen i Amen. 
+**[41:13]** Požehnaný Hospodin Bůh Izraelský, od věků až na věky, Amen i Amen.
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** Jako rána v kostech mých jest to, když mi utrhají nepřátelé moji, říkajíce mi každého dne: Kdež jest Bůh tvůj?
 
-**[42:11]** Proč jsi smutná, duše má, a proč se kormoutíš ve mně? Posečkej na Boha, neboť ještě vyznávati jej budu; onť jest hojné spasení tváři mé a Bůh můj. 
+**[42:11]** Proč jsi smutná, duše má, a proč se kormoutíš ve mně? Posečkej na Boha, neboť ještě vyznávati jej budu; onť jest hojné spasení tváři mé a Bůh můj.
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** Abych přistoupil k oltáři Božímu, k Bohu radostného plésání mého, a budu tě oslavovati na harfě, ó Bože, Bože můj.
 
-**[43:5]** Proč jsi smutná, duše má, a proč se kormoutíš ve mně? Posečkej na Boha, neboť ještě vyznávati jej budu; onť jest hojné spasení tváři mé a Bůh můj. 
+**[43:5]** Proč jsi smutná, duše má, a proč se kormoutíš ve mně? Posečkej na Boha, neboť ještě vyznávati jej budu; onť jest hojné spasení tváři mé a Bůh můj.
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** Nebotě se již sklonila až k prachu duše naše, přilnul k zemi život náš.
 
-**[44:26]** Povstaniž k našemu spomožení, a vykup nás pro své milosrdenství. 
+**[44:26]** Povstaniž k našemu spomožení, a vykup nás pro své milosrdenství.
 
 ### Chapter 45
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** Místo otců svých budeš míti syny své, kteréž postavíš za knížata po vší zemi.
 
-**[45:17]** V pamět uvoditi budu jméno tvé po všecky věky, pročež oslavovati tě budou národové na věky věků. 
+**[45:17]** V pamět uvoditi budu jméno tvé po všecky věky, pročež oslavovati tě budou národové na věky věků.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** Mluvě: Upokojtež se, a vězte, žeť jsem já Bůh, kterýž vyvýšen budu mezi národy, vyvýšen budu na zemi.
 
-**[46:11]** Hospodin zástupů jest s námi, hradem vysokým jest nám Bůh Jákobův. Sélah. 
+**[46:11]** Hospodin zástupů jest s námi, hradem vysokým jest nám Bůh Jákobův. Sélah.
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** Kralujeť Bůh nad národy, Bůh sedí na trůnu svém svatém.
 
-**[47:9]** Knížata národů připojili se k lidu Boha Abrahamova; nebo pavézy země Boží jsou, pročež on náramně vyvýšen jest. 
+**[47:9]** Knížata národů připojili se k lidu Boha Abrahamova; nebo pavézy země Boží jsou, pročež on náramně vyvýšen jest.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Přiložte mysl svou k ohradě, popatřte na paláce jeho, abyste uměli vypravovati věku potomnímu,
 
-**[48:14]** Že tento Bůh jest Bůh náš na věčné věky, a že on vůdce náš bude až do smrti. 
+**[48:14]** Že tento Bůh jest Bůh náš na věčné věky, a že on vůdce náš bude až do smrti.
 
 ### Chapter 49
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** A však musí se odebrati za věkem otců svých, a na věky světla neuzří.
 
-**[49:20]** Summou: Člověk jsa ve cti, neusrozumí-li sobě, bývá učiněn podobný hovadům, kteráž hynou. 
+**[49:20]** Summou: Člověk jsa ve cti, neusrozumí-li sobě, bývá učiněn podobný hovadům, kteráž hynou.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Srozumějtež tomu již aspoň vy, kteříž se zapomínáte na Boha, abych snad nepochytil, a nebyl by, kdo by vytrhl.
 
-**[50:23]** Kdož obětuje obět chvály, tenť mne uctí, a tomu, kdož napravuje cestu svou, ukáži spasení Boží. 
+**[50:23]** Kdož obětuje obět chvály, tenť mne uctí, a tomu, kdož napravuje cestu svou, ukáži spasení Boží.
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** Dobrotivě nakládej z milosti své s Sionem, vzdělej zdi Jeruzalémské.
 
-**[51:19]** A tehdáž sobě zalíbíš oběti spravedlnosti, zápaly a pálení celých obětí, tehdážť voly na oltáři tvém obětovati budou. 
+**[51:19]** A tehdáž sobě zalíbíš oběti spravedlnosti, zápaly a pálení celých obětí, tehdážť voly na oltáři tvém obětovati budou.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** Já pak budu jako oliva zelenající se v domě Božím; neboť jsem naději složil v milosrdenství Božím na věky věků.
 
-**[52:9]** Oslavovati tě budu, Pane, na věky, že jsi to učinil, a poshovím na jméno tvé, neboť jest vzácné před oblíčejem svatých tvých. 
+**[52:9]** Oslavovati tě budu, Pane, na věky, že jsi to učinil, a poshovím na jméno tvé, neboť jest vzácné před oblíčejem svatých tvých.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** Tuť se náramně strašiti budou, kdež není strachu. Bůh zajisté rozptýlí kosti těch, kteříž tě vojensky oblehli; zahanbíš je, nebo Bůh pohrdl jimi.
 
-**[53:6]** Ó by z Siona dáno bylo spasení Izraelovi. Když Bůh zase přivede zajaté lidu svého, plésati bude Jákob, a veseliti se Izrael. 
+**[53:6]** Ó by z Siona dáno bylo spasení Izraelovi. Když Bůh zase přivede zajaté lidu svého, plésati bude Jákob, a veseliti se Izrael.
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** I buduť dobrovolně oběti obětovati, slaviti budu jméno tvé, Hospodine, proto že jest dobré.
 
-**[54:7]** Nebo z ssoužení všelikého vytrhl mne Bůh, nýbrž i pomstu nad nepřátely mými vidělo oko mé. 
+**[54:7]** Nebo z ssoužení všelikého vytrhl mne Bůh, nýbrž i pomstu nad nepřátely mými vidělo oko mé.
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Uvrz na Hospodina břímě své, a onť opatrovati tě bude, aniž dopustí, aby na věky pohnut byl spravedlivý.
 
-**[55:23]** Ale onyno, ty Bože, svedeš do jámy zatracení; lidé zajisté vražedlní a lstiví nedojdou polovice dnů svých, já pak v tebe doufati budu. 
+**[55:23]** Ale onyno, ty Bože, svedeš do jámy zatracení; lidé zajisté vražedlní a lstiví nedojdou polovice dnů svých, já pak v tebe doufati budu.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Tobě jsem, Bože, učinil sliby, a protož tobě vzdám chvály.
 
-**[56:13]** Nebo jsi vytrhl z smrti duši mou, a nohy mé od poklesnutí, tak abych stále chodil před Bohem v světle živých. 
+**[56:13]** Nebo jsi vytrhl z smrti duši mou, a nohy mé od poklesnutí, tak abych stále chodil před Bohem v světle živých.
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** Nebo veliké jest až k nebi milosrdenství tvé, a až k nejvyšším oblakům pravda tvá.
 
-**[57:11]** Vyvyšiž se nad nebesa, ó Bože, a nade všecku zemi sláva tvá. 
+**[57:11]** Vyvyšiž se nad nebesa, ó Bože, a nade všecku zemi sláva tvá.
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** I bude se veseliti spravedlivý, když uzří pomstu, nohy své umyje ve krvi bezbožníka.
 
-**[58:11]** Ano dí každý: V pravdě, žeť má užitek spravedlivý, jistě, žeť jest Bůh soudce na zemi. 
+**[58:11]** Ano dí každý: V pravdě, žeť má užitek spravedlivý, jistě, žeť jest Bůh soudce na zemi.
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** Já pak zpívati budu o síle tvé, hned z jitra hlasitě slaviti budu milosrdenství tvé, nebo jsi byl hrad můj vysoký, a útočiště v den ssoužení mého.
 
-**[59:17]** A posilen jsa, žalmy tobě zpívati budu; nebo jsi Bůh, vysoký hrad můj, Bůh mně milosrdný. 
+**[59:17]** A posilen jsa, žalmy tobě zpívati budu; nebo jsi Bůh, vysoký hrad můj, Bůh mně milosrdný.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Uděliž nám pomoci před nepřítelem, nebo marná jest pomoc lidská.
 
-**[60:12]** V Bohu udatně sobě počínati budeme, a onť pošlapá nepřátely naše. 
+**[60:12]** V Bohu udatně sobě počínati budeme, a onť pošlapá nepřátely naše.
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Ať bydlí na věky před tváří Boží; milosrdenství a pravdu nastroj, ať ho ostříhají.
 
-**[61:8]** A tak žalmy zpívati budu jménu tvému na věky, a sliby své plniti budu den po dni. 
+**[61:8]** A tak žalmy zpívati budu jménu tvému na věky, a sliby své plniti budu den po dni.
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** Jednou mluvil Bůh, dvakrát jsem to slyšel, že Boží jest moc,
 
-**[62:12]** A že tvé, Pane, jest milosrdenství, a že ty odplatíš jednomu každému podlé skutků jeho. 
+**[62:12]** A že tvé, Pane, jest milosrdenství, a že ty odplatíš jednomu každému podlé skutků jeho.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** Zabijí každého z nich ostrostí meče, i budou liškám za podíl.
 
-**[63:11]** Král pak veseliti se bude v Bohu, i každý, kdož skrze něho přisahá, chlubiti se bude; nebo ústa mluvících lež zacpána budou. 
+**[63:11]** Král pak veseliti se bude v Bohu, i každý, kdož skrze něho přisahá, chlubiti se bude; nebo ústa mluvících lež zacpána budou.
 
 ### Chapter 64
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** I budou se báti všickni lidé, a ohlašovati skutek Boží, a k srozumívání dílu jeho příčinu dadí.
 
-**[64:10]** Spravedlivý pak veseliti se bude v Hospodinu, a v něm doufati, anobrž chlubiti se budou všickni, kteříž jsou upřímého srdce. 
+**[64:10]** Spravedlivý pak veseliti se bude v Hospodinu, a v něm doufati, anobrž chlubiti se budou všickni, kteříž jsou upřímého srdce.
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** Skropují pastviště po pustinách, tak že i pahrbkové plésáním přepasováni bývají.
 
-**[65:13]** Přiodíny bývají roviny dobytkem, a údolí přistřína obilím, tak že radostí prokřikují, a prozpěvují. 
+**[65:13]** Přiodíny bývají roviny dobytkem, a údolí přistřína obilím, tak že radostí prokřikují, a prozpěvují.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** Ale vyslyšelť Bůh, a pozoroval hlasu modlitby mé.
 
-**[66:20]** Požehnaný Bůh, kterýž neodstrčil modlitby mé, a milosrdenství svého ode mne neodjal. 
+**[66:20]** Požehnaný Bůh, kterýž neodstrčil modlitby mé, a milosrdenství svého ode mne neodjal.
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Země také vydá úrodu svou. Požehnání svého uděliž nám Bůh, Bůh náš;
 
-**[67:7]** Požehnej nás Bůh, a bojtež se jeho všecky končiny země. 
+**[67:7]** Požehnej nás Bůh, a bojtež se jeho všecky končiny země.
 
 ### Chapter 68
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** Dejte čest síly Bohu, jehož důstojnost nad Izraelem, a velikomocnost jeho na oblacích.
 
-**[68:35]** Přehrozný jsi, ó Bože, z svatých příbytků svých. Bůh silný Izraelský, onť dává moc a sílu lidu svému, Bůh požehnaný. 
+**[68:35]** Přehrozný jsi, ó Bože, z svatých příbytků svých. Bůh silný Izraelský, onť dává moc a sílu lidu svému, Bůh požehnaný.
 
 ### Chapter 69
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** Bůhť zajisté zachová Sion, a vzdělá města Judská, i budou tu bydliti, a zemi tu dědičně obdrží.
 
-**[69:36]** Tolikéž i símě služebníků jeho dědičně jí vládnouti budou, a milující jméno jeho v ní přebývati. 
+**[69:36]** Tolikéž i símě služebníků jeho dědičně jí vládnouti budou, a milující jméno jeho v ní přebývati.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** Ale ať se radují a veselí v tobě všickni ti, kteříž tě hledají, a ti, kteříž milují spasení tvé, ať říkají vždycky: Veleslaven budiž Bůh náš.
 
-**[70:5]** Já pak chudý a nuzný jsem, ó Bože, pospěšiž ke mně; pomoc má, a vysvoboditel můj ty jsi, neprodlévejž, Hospodine. 
+**[70:5]** Já pak chudý a nuzný jsem, ó Bože, pospěšiž ke mně; pomoc má, a vysvoboditel můj ty jsi, neprodlévejž, Hospodine.
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** Plésati budou rtové moji, když žalmy zpívati budu tobě, i duše má, kterouž jsi vykoupil.
 
-**[71:24]** Nadto i jazyk můj každý den vypravovati bude spravedlnost tvou; nebo se zastyděti a zahanbiti musili ti, jenž mého pádu hledali. 
+**[71:24]** Nadto i jazyk můj každý den vypravovati bude spravedlnost tvou; nebo se zastyděti a zahanbiti musili ti, jenž mého pádu hledali.
 
 ### Chapter 72
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** A požehnané jméno slávy jeho na věky. Budiž také naplněna slávou jeho všecka země, Amen i Amen.
 
-**[72:20]** Skonávají se modlitby Davidovy, syna Izai. 
+**[72:20]** Skonávají se modlitby Davidovy, syna Izai.
 
 ### Chapter 73
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** Nebo aj, ti, kteříž se vzdalují tebe, zahynou; vytínáš ty, kteříž cizoloží odcházením od tebe.
 
-**[73:28]** Ale mně nejlépe jest přídržeti se Boha; pročež skládám v Panovníku Hospodinu doufání své, abych vypravoval všecky skutky jeho. 
+**[73:28]** Ale mně nejlépe jest přídržeti se Boha; pročež skládám v Panovníku Hospodinu doufání své, abych vypravoval všecky skutky jeho.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Povstaniž, ó Bože, a veď při svou, rozpomeň se na pohanění, kteréžť se děje od nesmyslných na každý den.
 
-**[74:23]** Nezapomínej se na vykřikování svých nepřátel, a na hluk proti tobě povstávajících, kterýž se silí ustavičně. 
+**[74:23]** Nezapomínej se na vykřikování svých nepřátel, a na hluk proti tobě povstávajících, kterýž se silí ustavičně.
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** Já pak zvěstovati budu skutky Páně na věčnost, žalmy zpívati budu Bohu Jákobovu.
 
-**[75:10]** A všecky rohy bezbožníků srážím, rohové pak spravedlivého vyvýšeni budou. 
+**[75:10]** A všecky rohy bezbožníků srážím, rohové pak spravedlivého vyvýšeni budou.
 
 ### Chapter 76
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** Sliby čiňte a plňte Hospodinu Bohu vašemu; kteřížkoli jste vůkol něho, přinášejte dary Přehroznému.
 
-**[76:12]** Onť odjímá ducha knížatům, a k hrůze jest králům zemským. 
+**[76:12]** Onť odjímá ducha knížatům, a k hrůze jest králům zemským.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Skrze moře byla cesta tvá, a stezky tvé skrze vody veliké, a však šlepějí tvých nebylo znáti.
 
-**[77:20]** Vedl jsi jako stádo lid svůj skrze Mojžíše a Arona. 
+**[77:20]** Vedl jsi jako stádo lid svůj skrze Mojžíše a Arona.
 
 ### Chapter 78
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** Když chodil za ovcemi březími, zavedl jej, aby pásl Jákoba, lid jeho, a Izraele, dědictví jeho.
 
-**[78:72]** Kterýž pásl je v upřímnosti srdce svého, a zvláštní opatrností rukou svých vodil je. 
+**[78:72]** Kterýž pásl je v upřímnosti srdce svého, a zvláštní opatrností rukou svých vodil je.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** A odplať sousedům našim sedmernásobně do lůna jejich za pohanění, kteréž jsou tobě činili, ó Pane.
 
-**[79:13]** My pak, lid tvůj a ovce pastvy tvé, slaviti tě budeme na věky; od národu do pronárodu vypravovati budeme chválu tvou. 
+**[79:13]** My pak, lid tvůj a ovce pastvy tvé, slaviti tě budeme na věky; od národu do pronárodu vypravovati budeme chválu tvou.
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** A neodstoupímeť od tebe; zachovej nás při životu, ať jméno tvé vzýváme.
 
-**[80:19]** Hospodine Bože zástupů, navratiž nás zase, a dej, ať nám svítí oblíčej tvůj, a spaseni budeme. 
+**[80:19]** Hospodine Bože zástupů, navratiž nás zase, a dej, ať nám svítí oblíčej tvůj, a spaseni budeme.
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** A ti, kteříž v nenávisti mají Hospodina, úlisně by se jim poddávati musili, i byl by čas jejich až na věky.
 
-**[81:16]** A krmil bych je byl jádrem pšenice, a medem z skály sytil bych je. 
+**[81:16]** A krmil bych je byl jádrem pšenice, a medem z skály sytil bych je.
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** A však jako i jiní lidé zemřete, a jako jeden z knížat padnete.
 
-**[82:8]** Povstaniž, ó Bože, suď zemi; nebo ty dědičně vládneš všemi národy. 
+**[82:8]** Povstaniž, ó Bože, suď zemi; nebo ty dědičně vládneš všemi národy.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Nechať se hanbí a děsí na věčné časy, a ať potupu nesou a zahynou.
 
-**[83:18]** A tak ať poznají, že ty, kterýž sám jméno máš Hospodin, jsi nejvyšší nade vší zemí. 
+**[83:18]** A tak ať poznají, že ty, kterýž sám jméno máš Hospodin, jsi nejvyšší nade vší zemí.
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** Nebo Hospodin Bůh jest slunce a pavéza; tuť milosti i slávy udílí Hospodin, aniž odepře čeho dobrého chodícím v upřímnosti.
 
-**[84:12]** Hospodine zástupů, blahoslavený člověk, kterýž naději skládá v tobě. 
+**[84:12]** Hospodine zástupů, blahoslavený člověk, kterýž naději skládá v tobě.
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Dáť také Hospodin i časné dobré, tak že země naše vydá úrody své.
 
-**[85:13]** Způsobí to, aby spravedlnost před ním šla, když obrátí k cestě nohy své. 
+**[85:13]** Způsobí to, aby spravedlnost před ním šla, když obrátí k cestě nohy své.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Vzhlédniž na mne, a smiluj se nade mnou, obdař silou svou služebníka svého, a zachovávej syna děvky své.
 
-**[86:17]** Prokaž ke mně znamení dobrotivosti, tak aby vidouce to ti, kteříž mne nenávidí, zahanbeni byli, že jsi ty mi, Hospodine, spomohl, a mne potěšil. 
+**[86:17]** Prokaž ke mně znamení dobrotivosti, tak aby vidouce to ti, kteříž mne nenávidí, zahanbeni byli, že jsi ty mi, Hospodine, spomohl, a mne potěšil.
 
 ### Chapter 87
 
@@ -31784,7 +31784,7 @@
 
 **[87:6]** Sečteť Hospodin při popisu národy, a dí, že tento se tu narodil. Sélah.
 
-**[87:7]** Tou příčinou zpívají s plésáním o tobě všecky moci života mého. 
+**[87:7]** Tou příčinou zpívají s plésáním o tobě všecky moci života mého.
 
 ### Chapter 88
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** Obkličují mne jako voda, na každý den obstupují mne hromadně.
 
-**[88:18]** Vzdálil jsi ode mne přítele a tovaryše, a známým svým jsem ve tmě. 
+**[88:18]** Vzdálil jsi ode mne přítele a tovaryše, a známým svým jsem ve tmě.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** Jak jsou utrhali nepřátelé tvoji, Hospodine, jak jsou utrhali šlepějím pomazaného tvého.
 
-**[89:52]** Budiž pochválen Hospodin na věky, Amen i Amen. 
+**[89:52]** Budiž pochválen Hospodin na věky, Amen i Amen.
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Budiž zřejmé při služebnících tvých dílo tvé, a okrasa tvá při synech jejich.
 
-**[90:17]** Budiž nám přítomná i ochotnost Hospodina Boha našeho, a díla rukou našich potvrď mezi námi, díla, pravím, rukou našich potvrď. 
+**[90:17]** Budiž nám přítomná i ochotnost Hospodina Boha našeho, a díla rukou našich potvrď mezi námi, díla, pravím, rukou našich potvrď.
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** Vzývati mne bude, a vyslyším jej; já s ním budu v ssoužení, vytrhnu a oslavím jej.
 
-**[91:16]** Dlouhostí dnů jej nasytím, a ukáži jemu spasení své. 
+**[91:16]** Dlouhostí dnů jej nasytím, a ukáži jemu spasení své.
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** Ještě i v šedinách ovoce ponesou, spanilí a zelení budou,
 
-**[92:15]** Aby to zvěstováno bylo, že přímý jest Hospodin, skála má, a že nepravosti žádné při něm není. 
+**[92:15]** Aby to zvěstováno bylo, že přímý jest Hospodin, skála má, a že nepravosti žádné při něm není.
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** Nad zvuk mnohých vod, nad sílu vln mořských mnohem silnější jest na výsostech Hospodin.
 
-**[93:5]** Svědectví tvá jsou velmi jistá, domu tvému ušlechtilá svatost, Hospodine, až na věky. 
+**[93:5]** Svědectví tvá jsou velmi jistá, domu tvému ušlechtilá svatost, Hospodine, až na věky.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** Ale Hospodin jest mým hradem vysokým, a Bůh můj skalou útočiště mého.
 
-**[94:23]** Onť obrátí na ně nepravost jejich, a zlostí jejich zahladí je, zahladí je Hospodin Bůh náš. 
+**[94:23]** Onť obrátí na ně nepravost jejich, a zlostí jejich zahladí je, zahladí je Hospodin Bůh náš.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** Za čtyřidceti let měl jsem nesnáz s národem tím, a řekl jsem: Lid tento bloudí srdcem, a nepoznali cest mých.
 
-**[95:11]** Jimž jsem přisáhl v hněvě svém, že nevejdou v odpočinutí mé. 
+**[95:11]** Jimž jsem přisáhl v hněvě svém, že nevejdou v odpočinutí mé.
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Plésej pole a vše, což na něm, tehdáž ať prozpěvuje všecko dříví lesní,
 
-**[96:13]** Před tváří Hospodina; neboť se béře, béře se zajisté, aby soudil zemi. Budeť souditi okršlek světa v spravedlnosti, a národy v pravdě své. 
+**[96:13]** Před tváří Hospodina; neboť se béře, béře se zajisté, aby soudil zemi. Budeť souditi okršlek světa v spravedlnosti, a národy v pravdě své.
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Světlo vsáto jest spravedlivým, a radost těm, kteříž jsou upřímého srdce.
 
-**[97:12]** Veselte se, spravedliví v Hospodinu, a oslavujte památku svatosti jeho. 
+**[97:12]** Veselte se, spravedliví v Hospodinu, a oslavujte památku svatosti jeho.
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Řeky rukama plésejte, spolu i hory prozpěvujte,
 
-**[98:9]** Před Hospodinem; neboť se béře, aby soudil zemi. Budeť souditi okršlek světa v spravedlnosti, a národy v pravosti. 
+**[98:9]** Před Hospodinem; neboť se béře, aby soudil zemi. Budeť souditi okršlek světa v spravedlnosti, a národy v pravosti.
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** Hospodine Bože náš, tys je vyslýchal, Bože, bývals jim milostiv, i když jsi je trestal pro výstupky jejich.
 
-**[99:9]** Vyvyšujte Hospodina Boha našeho, a sklánějte se na hoře svaté jeho; neboť jest svatý Hospodin Bůh náš. 
+**[99:9]** Vyvyšujte Hospodina Boha našeho, a sklánějte se na hoře svaté jeho; neboť jest svatý Hospodin Bůh náš.
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Vcházejte do bran jeho s díkčiněním, a do síní jeho s chvalami; oslavujte jej, a dobrořečte jménu jeho.
 
-**[100:5]** Nebo dobrý jest Hospodin, na věky milosrdenství jeho, a od národu až do pronárodu pravda jeho. 
+**[100:5]** Nebo dobrý jest Hospodin, na věky milosrdenství jeho, a od národu až do pronárodu pravda jeho.
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** Nebude bydliti v domě mém činící lest, a mluvící lež nebude míti místa u mne.
 
-**[101:8]** Každého jitra pléniti budu všecky nešlechetné z země, abych tak vyplénil z města Hospodinova všecky, kdož páší nepravost. 
+**[101:8]** Každého jitra pléniti budu všecky nešlechetné z země, abych tak vyplénil z města Hospodinova všecky, kdož páší nepravost.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** Ty pak jsi tentýž, a léta tvá nikdy nepřestanou.
 
-**[102:28]** Synové služebníků tvých bydliti budou, a símě jejich zmocní se před tebou. 
+**[102:28]** Synové služebníků tvých bydliti budou, a símě jejich zmocní se před tebou.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Dobrořečte Hospodinu všickni zástupové jeho, služebníci jeho, kteříž činíte vůli jeho.
 
-**[103:22]** Dobrořečte Hospodinu všickni skutkové jeho, na všech místech panování jeho. Dobrořeč duše má Hospodinu. 
+**[103:22]** Dobrořečte Hospodinu všickni skutkové jeho, na všech místech panování jeho. Dobrořeč duše má Hospodinu.
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** Libé bude přemyšlování mé o něm, jáť rozveselím se v Hospodinu.
 
-**[104:35]** Ó by hříšníci vyhynuli z země, a bezbožných aby již nebylo. Dobrořeč duše má Hospodinu. Halelujah. 
+**[104:35]** Ó by hříšníci vyhynuli z země, a bezbožných aby již nebylo. Dobrořeč duše má Hospodinu. Halelujah.
 
 ### Chapter 105
 
@@ -32506,7 +32506,7 @@
 
 **[105:44]** A dal jim země pohanů, a tak úsilí národů dědičně obdrželi,
 
-**[105:45]** Aby zachovávali ustanovení jeho, a práv jeho ostříhali. Halelujah. 
+**[105:45]** Aby zachovávali ustanovení jeho, a práv jeho ostříhali. Halelujah.
 
 ### Chapter 106
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Zachovej nás, Hospodine Bože náš, a shromažď nás z těch pohanů, abychom slavili jméno tvé svaté, a chlubili se v chvále tvé.
 
-**[106:48]** Požehnaný Hospodin Bůh Izraelský od věků až na věky. Na to rciž všecken lid: Amen, Halelujah. 
+**[106:48]** Požehnaný Hospodin Bůh Izraelský od věků až na věky. Na to rciž všecken lid: Amen, Halelujah.
 
 ### Chapter 107
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** Nechť to spatřují upřímí, a rozveselí se, ale všeliká nepravost ať zacpá ústa svá.
 
-**[107:43]** Ale kdo jest tak moudrý, aby toho šetřil, a vyrozumíval mnohému milosrdenství Hospodinovu? 
+**[107:43]** Ale kdo jest tak moudrý, aby toho šetřil, a vyrozumíval mnohému milosrdenství Hospodinovu?
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Uděliž nám pomoci proti nepříteli, nebo marná jest pomoc lidská.
 
-**[108:13]** V Bohu udatně sobě počínati budeme, a on pošlapá nepřátely naše. 
+**[108:13]** V Bohu udatně sobě počínati budeme, a on pošlapá nepřátely naše.
 
 ### Chapter 109
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** Slaviti budu Hospodina velice ústy svými, a u prostřed mnohých chváliti jej budu,
 
-**[109:31]** Proto že stojí po pravici nuznému, aby ho zachoval od těch, kteříž odsuzují život jeho. 
+**[109:31]** Proto že stojí po pravici nuznému, aby ho zachoval od těch, kteříž odsuzují život jeho.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** Soud činiti bude mezi národy, porážku hroznou učiní, potře i hlavu panující nad mnohými krajinami.
 
-**[110:7]** Z potoka na cestě píti bude, a protož povýší hlavy. 
+**[110:7]** Z potoka na cestě píti bude, a protož povýší hlavy.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** Vykoupení poslav lidu svému, přikázal na věky smlouvu svou; svaté a hrozné jest jméno jeho.
 
-**[111:10]** Počátek moudrosti jest bázeň Hospodina; rozumu výborného nabývají všickni, kteříž činí ty věci; chvála jeho zůstává na věky. 
+**[111:10]** Počátek moudrosti jest bázeň Hospodina; rozumu výborného nabývají všickni, kteříž činí ty věci; chvála jeho zůstává na věky.
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** Rozděluje štědře, a dává nuzným; spravedlnost jeho zůstává na věky, roh jeho bude vyvýšen v slávě.
 
-**[112:10]** Bezbožný vida to, zlobiti se, zuby svými škřipěti a schnouti bude; žádost bezbožníků zahyne. 
+**[112:10]** Bezbožný vida to, zlobiti se, zuby svými škřipěti a schnouti bude; žádost bezbožníků zahyne.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** Aby jej posadil s knížaty, s knížaty lidu svého.
 
-**[113:9]** Kterýž vzdělává neplodnou v čeled, a matku veselící se z dítek. Halelujah. 
+**[113:9]** Kterýž vzdělává neplodnou v čeled, a matku veselící se z dítek. Halelujah.
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** Pro přítomnost Panovníka třásla jsem se já země, pro přítomnost Boha Jákobova,
 
-**[114:8]** Kterýž obrací i tu skálu v jezero vod, a škřemen v studnici vod. 
+**[114:8]** Kterýž obrací i tu skálu v jezero vod, a škřemen v studnici vod.
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** Ne mrtví chváliti budou Hospodina, ani kdo ze všech těch, kteříž sstupují do místa mlčení,
 
-**[115:18]** Ale my dobrořečiti budeme Hospodinu od tohoto času až na věky. Halelujah. 
+**[115:18]** Ale my dobrořečiti budeme Hospodinu od tohoto času až na věky. Halelujah.
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** Sliby své Hospodinu splním, teď přede vším lidem jeho,
 
-**[116:19]** V síňcích domu Hospodinova, u prostřed tebe, Jeruzaléme. Halelujah. 
+**[116:19]** V síňcích domu Hospodinova, u prostřed tebe, Jeruzaléme. Halelujah.
 
 ### Chapter 117
 
 **[117:1]** Chvalte Hospodina všickni národové, velebtež ho všickni lidé.
 
-**[117:2]** Neboť jest rozšířeno nad námi milosrdenství jeho, a pravda Hospodinova na věky. Halelujah. 
+**[117:2]** Neboť jest rozšířeno nad námi milosrdenství jeho, a pravda Hospodinova na věky. Halelujah.
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Bůh silný můj ty jsi, protož slaviti tě budu, Bože můj, vyvyšovati tě budu.
 
-**[118:29]** Oslavujtež Hospodina, neboť jest dobrý, nebo na věky milosrdenství jeho. 
+**[118:29]** Oslavujtež Hospodina, neboť jest dobrý, nebo na věky milosrdenství jeho.
 
 ### Chapter 119
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Živa bude duše má, a bude tě chváliti, a soudové tvoji budou mi na pomoc.
 
-**[119:176]** Bloudím jako ovce ztracená, hledejž služebníka svého, neboť se na přikázaní tvá nezapomínám. 
+**[119:176]** Bloudím jako ovce ztracená, hledejž služebníka svého, neboť se na přikázaní tvá nezapomínám.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** Dlouho bydlí duše má mezi těmi, kteříž nenávidí pokoje.
 
-**[120:7]** Já ku pokoji, ale když mluvím, oni k boji. 
+**[120:7]** Já ku pokoji, ale když mluvím, oni k boji.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** Hospodin tě ostříhati bude ode všeho zlého, ostříhati bude duše tvé.
 
-**[121:8]** Hospodin ostříhati tě bude, když vycházeti i vcházeti budeš, od tohoto času až na věky. 
+**[121:8]** Hospodin ostříhati tě bude, když vycházeti i vcházeti budeš, od tohoto času až na věky.
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** Pro bratří své a přátely své žádati budu pokoje tobě.
 
-**[122:9]** Pro dům Hospodina Boha našeho budu tvého dobrého hledati. 
+**[122:9]** Pro dům Hospodina Boha našeho budu tvého dobrého hledati.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Smiluj se nad námi, Hospodine, smiluj se nad námi, neboť jsme již příliš potupou nasyceni.
 
-**[123:4]** Jižť jest příliš nasycena duše naše posmíšky bezbožných, a potupou pyšných. 
+**[123:4]** Jižť jest příliš nasycena duše naše posmíšky bezbožných, a potupou pyšných.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Duše naše jako ptáče znikla osídla ptáčníků; osídlo se ztrhalo, i vynikli jsme.
 
-**[124:8]** Pomoc naše jest ve jménu Hospodinovu, kterýž učinil nebe i zemi. 
+**[124:8]** Pomoc naše jest ve jménu Hospodinovu, kterýž učinil nebe i zemi.
 
 ### Chapter 125
 
@@ -33474,7 +33474,7 @@
 
 **[125:4]** Dobře učiň, Hospodine, dobrým, a těm, kteříž jsou upřímého srdce.
 
-**[125:5]** Ty pak, kteříž se uchylují k cestám svým křivým, zapudiž Hospodin s činiteli nepravosti. Pokoj přijdiž na Izraele. 
+**[125:5]** Ty pak, kteříž se uchylují k cestám svým křivým, zapudiž Hospodin s činiteli nepravosti. Pokoj přijdiž na Izraele.
 
 ### Chapter 126
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** Ti, kteříž se slzami rozsívali, s prozpěvováním žíti budou.
 
-**[126:6]** Sem i tam chodící lid s pláčem rozsívá drahé símě, ale potom přijda, s plésáním snášeti bude snopy své. 
+**[126:6]** Sem i tam chodící lid s pláčem rozsívá drahé símě, ale potom přijda, s plésáním snášeti bude snopy své.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** Jako střely v ruce udatného, tak jsou dítky zdárné.
 
-**[127:5]** Blahoslavený muž, kterýž by jimi naplnil toul svůj; nebudouť zahanbeni, když v rozepři budou s nepřátely v branách. 
+**[127:5]** Blahoslavený muž, kterýž by jimi naplnil toul svůj; nebudouť zahanbeni, když v rozepři budou s nepřátely v branách.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** Požehnání tobě uděliž Hospodin z Siona, a ty spatřuj dobré věci Jeruzaléma po všecky dny života svého;
 
-**[128:6]** A viz syny synů svých, a pokoj nad Izraelem. 
+**[128:6]** A viz syny synů svých, a pokoj nad Izraelem.
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** Z níž nemůže hrsti své naplniti žnec, ani náručí svého ten, kterýž váže snopy.
 
-**[129:8]** Aniž řeknou tudy jdoucí: Požehnání Hospodinovo budiž s vámi, aneb: Dobrořečíme vám ve jménu Hospodinovu. 
+**[129:8]** Aniž řeknou tudy jdoucí: Požehnání Hospodinovo budiž s vámi, aneb: Dobrořečíme vám ve jménu Hospodinovu.
 
 ### Chapter 130
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** Očekávejž, Izraeli, na Hospodina; nebo u Hospodina jest milosrdenství, a hojné u něho vykoupení.
 
-**[130:8]** Onť zajisté vykoupí Izraele ze všech nepravostí jeho. 
+**[130:8]** Onť zajisté vykoupí Izraele ze všech nepravostí jeho.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** Zdali jsem nepoložil a neupokojil duše své, jako dítě ostavené od matky své? Ostavenému podobná byla ve mně duše má.
 
-**[131:3]** Doufej, ó Izraeli, v Hospodina, od tohoto času až na věky. 
+**[131:3]** Doufej, ó Izraeli, v Hospodina, od tohoto času až na věky.
 
 ### Chapter 132
 
@@ -33596,7 +33596,7 @@
 
 **[132:17]** Tuť způsobím, aby zkvetl roh Davidův; připravím svíci pomazanému svému.
 
-**[132:18]** Nepřátely jeho v hanbu zobláčím, nad ním pak kvésti bude koruna jeho. 
+**[132:18]** Nepřátely jeho v hanbu zobláčím, nad ním pak kvésti bude koruna jeho.
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** Jako mast výborná na hlavě, sstupující na bradu, bradu Aronovu, tekoucí až i na podolek roucha jeho.
 
-**[133:3]** A jako rosa Hermon, kteráž sstupuje na hory Sionské. Nebo tu udílí Hospodin požehnání i života až na věky. 
+**[133:3]** A jako rosa Hermon, kteráž sstupuje na hory Sionské. Nebo tu udílí Hospodin požehnání i života až na věky.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Pozdvihujte rukou svých k svatyni, a dobrořečte Hospodinu, říkajíce:
 
-**[134:3]** Požehnejž tobě Hospodin z Siona, kterýž učinil nebe i zemi. 
+**[134:3]** Požehnejž tobě Hospodin z Siona, kterýž učinil nebe i zemi.
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** Dome Léví, dobrořečte Hospodinu; kteříž se bojíte Hospodina, dobrořečte Hospodinu.
 
-**[135:21]** Požehnaný Hospodin z Siona, kterýž přebývá v Jeruzalémě. Halelujah. 
+**[135:21]** Požehnaný Hospodin z Siona, kterýž přebývá v Jeruzalémě. Halelujah.
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** Kterýž dává pokrm všelikému tělu, nebo jest věčné milosrdenství jeho.
 
-**[136:26]** Oslavujte Boha silného nebes, neboť jest věčné milosrdenství jeho. 
+**[136:26]** Oslavujte Boha silného nebes, neboť jest věčné milosrdenství jeho.
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** Ó dcero Babylonská, zkažena býti máš. Blahoslavený ten, kdož odplatí tobě za to, což jsi nám zlého učinila.
 
-**[137:9]** Blahoslavený, kdož pochytí dítky tvé a o skálu je rozrážeti bude. 
+**[137:9]** Blahoslavený, kdož pochytí dítky tvé a o skálu je rozrážeti bude.
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Bych pak chodil u prostřed ssoužení, obživíš mne; proti vzteklosti nepřátel mých vztáhneš ruku svou, a tak vysvobodí mne pravice tvá.
 
-**[138:8]** Hospodin dokoná za mne; nebo milosrdenství tvé, Hospodine, na věky, aniž díla rukou svých kdy opustíš. 
+**[138:8]** Hospodin dokoná za mne; nebo milosrdenství tvé, Hospodine, na věky, aniž díla rukou svých kdy opustíš.
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Vyzpytuj mne, Bože silný, a poznej srdce mé; zkus mne, a poznej myšlení má.
 
-**[139:24]** A popatř, chodím-liť já cestou odpornou tobě, a veď mne cestou věčnou. 
+**[139:24]** A popatř, chodím-liť já cestou odpornou tobě, a veď mne cestou věčnou.
 
 ### Chapter 140
 
@@ -33826,7 +33826,7 @@
 
 **[140:12]** Vím, žeť se Hospodin zasadí o při chudého, a pomstí nuzných.
 
-**[140:13]** A tak spravedliví slaviti budou jméno tvé, a upřímí přebývati před oblíčejem tvým. 
+**[140:13]** A tak spravedliví slaviti budou jméno tvé, a upřímí přebývati před oblíčejem tvým.
 
 ### Chapter 141
 
@@ -33848,7 +33848,7 @@
 
 **[141:9]** Zachovej mne od osídla, kteréž mi roztáhli, a od sítek činících nepravost.
 
-**[141:10]** Nechť padnou hromadně do sítek svých bezbožní, a já zatím přejdu. 
+**[141:10]** Nechť padnou hromadně do sítek svých bezbožní, a já zatím přejdu.
 
 ### Chapter 142
 
@@ -33864,7 +33864,7 @@
 
 **[142:6]** Pozorujž volání mého, neboť jsem zemdlen přenáramně; vysvoboď mne od těch, jenž stihají mne, nebo jsou silnější nežli já.
 
-**[142:7]** Vyveď z žaláře duši mou, abych oslavoval jméno tvé; obstoupí mne spravedliví, když mi dobrodiní učiníš. 
+**[142:7]** Vyveď z žaláře duši mou, abych oslavoval jméno tvé; obstoupí mne spravedliví, když mi dobrodiní učiníš.
 
 ### Chapter 143
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** Pro jméno své, Hospodine, obživ mne, pro spravedlnost svou vyveď z úzkosti duši mou.
 
-**[143:12]** A pro milosrdenství své vypleň nepřátely mé, a vyhlaď všecky, kteříž trápí duši mou; nebo já jsem služebník tvůj. 
+**[143:12]** A pro milosrdenství své vypleň nepřátely mé, a vyhlaď všecky, kteříž trápí duši mou; nebo já jsem služebník tvůj.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** Volové naši ať jsou vytylí; ať není vpádu ani zajetí, ani naříkání na ulicích našich.
 
-**[144:15]** Blahoslavený lid, jemuž se tak děje, blahoslavený ten lid, jehož Hospodin Bohem jest. 
+**[144:15]** Blahoslavený lid, jemuž se tak děje, blahoslavený ten lid, jehož Hospodin Bohem jest.
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** Ostříhá Hospodin všech, kdož jej milují, ale všecky bezbožné zatratí.
 
-**[145:21]** Chválu Hospodinovu vypravovati budou ústa má, a dobrořečiti bude všeliké tělo jménu svatému jeho od věků až na věky. 
+**[145:21]** Chválu Hospodinovu vypravovati budou ústa má, a dobrořečiti bude všeliké tělo jménu svatému jeho od věků až na věky.
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** Hospodin ostříhá příchozích, sirotku a vdově pomáhá, ale cestu bezbožných podvrací.
 
-**[146:10]** Kralovati bude Hospodin na věky, Bůh tvůj, ó Sione, od národu až do pronárodu. Halelujah. 
+**[146:10]** Kralovati bude Hospodin na věky, Bůh tvůj, ó Sione, od národu až do pronárodu. Halelujah.
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** Zvěstuje slovo své Jákobovi, ustanovení svá a soudy své Izraelovi.
 
-**[147:20]** Neučinilť tak žádnému národu, a protož soudů jeho nepoznali. Halelujah. 
+**[147:20]** Neučinilť tak žádnému národu, a protož soudů jeho nepoznali. Halelujah.
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Chvalte jméno Hospodinovo; nebo vyvýšeno jest jméno jeho samého, a sláva jeho nade všecku zemi i nebe.
 
-**[148:14]** A vyzdvihl roh lidu svého, chválu všech svatých jeho, synů Izraelských, lidu s ním spojeného. Halelujah. 
+**[148:14]** A vyzdvihl roh lidu svého, chválu všech svatých jeho, synů Izraelských, lidu s ním spojeného. Halelujah.
 
 ### Chapter 149
 
@@ -34080,7 +34080,7 @@
 
 **[149:8]** K svazování králů jejich řetězy, a šlechticů jejich pouty železnými,
 
-**[149:9]** K nakládání s nimi podlé práva zapsaného, k slávě všechněm svatým jeho. Halelujah. 
+**[149:9]** K nakládání s nimi podlé práva zapsaného, k slávě všechněm svatým jeho. Halelujah.
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Chvalte jej na cymbály hlasité, chvalte jej na cymbály zvučné.
 
-**[150:6]** Všeliký duch chval Hospodina. Halelujah.   
+**[150:6]** Všeliký duch chval Hospodina. Halelujah.
 
 ## Proverbs
 
@@ -34164,7 +34164,7 @@
 
 **[1:32]** Nebo pokoj hloupých zmorduje je, a štěstí bláznů zahubí je.
 
-**[1:33]** Ale kdož mne poslouchá, bydliti bude bezpečně, pokoj maje před strachem zlých věcí. 
+**[1:33]** Ale kdož mne poslouchá, bydliti bude bezpečně, pokoj maje před strachem zlých věcí.
 
 ### Chapter 2
 
@@ -34210,7 +34210,7 @@
 
 **[2:21]** Nebo upřímí bydliti budou v zemi, a pobožní zůstanou v ní;
 
-**[2:22]** Bezbožní pak z země vyťati budou, a přestupníci vykořeněni budou z ní. 
+**[2:22]** Bezbožní pak z země vyťati budou, a přestupníci vykořeněni budou z ní.
 
 ### Chapter 3
 
@@ -34282,7 +34282,7 @@
 
 **[3:34]** Poněvadž posměvačům on se posmívá, pokorným pak dává milost.
 
-**[3:35]** Slávu moudří dědičně obdrží, ale blázny hubí pohanění. 
+**[3:35]** Slávu moudří dědičně obdrží, ale blázny hubí pohanění.
 
 ### Chapter 4
 
@@ -34338,7 +34338,7 @@
 
 **[4:26]** Zvaž stezku noh svých, a všecky cesty tvé ať jsou spraveny.
 
-**[4:27]** Neuchyluj se na pravo ani na levo, odvrať nohu svou od zlého. 
+**[4:27]** Neuchyluj se na pravo ani na levo, odvrať nohu svou od zlého.
 
 ### Chapter 5
 
@@ -34386,7 +34386,7 @@
 
 **[5:22]** Nepravosti vlastní jímají bezbožníka takového, a v provazích hříchu svého uvázne.
 
-**[5:23]** Takovýť umře, proto že nepřijímal cvičení, a ve množství bláznovství svého blouditi bude. 
+**[5:23]** Takovýť umře, proto že nepřijímal cvičení, a ve množství bláznovství svého blouditi bude.
 
 ### Chapter 6
 
@@ -34458,7 +34458,7 @@
 
 **[6:34]** Nebo zůřivý jest hněv muže, a neodpouštíť v den pomsty.
 
-**[6:35]** Neohlídá se na žádnou záplatu, aniž přijímá, by i množství darů dával. 
+**[6:35]** Neohlídá se na žádnou záplatu, aniž přijímá, by i množství darů dával.
 
 ### Chapter 7
 
@@ -34514,7 +34514,7 @@
 
 **[7:26]** Nebo mnohé zranivši, porazila, a silní všickni zmordováni jsou od ní.
 
-**[7:27]** Cesty pekelné dům její, vedoucí do skrýší smrti. 
+**[7:27]** Cesty pekelné dům její, vedoucí do skrýší smrti.
 
 ### Chapter 8
 
@@ -34588,7 +34588,7 @@
 
 **[8:35]** Nebo kdož mne nalézá, nalézá život, a dosahuje lásky od Hospodina.
 
-**[8:36]** Ale kdož hřeší proti mně, ukrutenství provodí nad duší svou; všickni, kteříž mne nenávidí, milují smrt. 
+**[8:36]** Ale kdož hřeší proti mně, ukrutenství provodí nad duší svou; všickni, kteříž mne nenávidí, milují smrt.
 
 ### Chapter 9
 
@@ -34626,7 +34626,7 @@
 
 **[9:17]** Voda kradená sladší jest, a chléb pokoutní chutnější.
 
-**[9:18]** Ale neví hlupec, že mrtví jsou tam, a v hlubokém hrobě ti, kterýchž pozvala. 
+**[9:18]** Ale neví hlupec, že mrtví jsou tam, a v hlubokém hrobě ti, kterýchž pozvala.
 
 ### Chapter 10
 
@@ -34692,7 +34692,7 @@
 
 **[10:31]** Ústa spravedlivého vynášejí moudrost, ale jazyk převrácený vyťat bude.
 
-**[10:32]** Rtové spravedlivého znají, což jest Bohu libého, ústa pak bezbožných převrácené věci. 
+**[10:32]** Rtové spravedlivého znají, což jest Bohu libého, ústa pak bezbožných převrácené věci.
 
 ### Chapter 11
 
@@ -34756,7 +34756,7 @@
 
 **[11:30]** Ovoce spravedlivého jest strom života, a kdož vyučuje duše, jest moudrý.
 
-**[11:31]** Aj, spravedlivému na zemi odplacováno bývá, čím více bezbožnému a hříšníku? 
+**[11:31]** Aj, spravedlivému na zemi odplacováno bývá, čím více bezbožnému a hříšníku?
 
 ### Chapter 12
 
@@ -34814,7 +34814,7 @@
 
 **[12:27]** Nebude péci fortelný, což ulovil, ale člověk bedlivý statku drahého nabude.
 
-**[12:28]** Na stezce spravedlnosti jest život, a cesta stezky její nesmrtelná jest. 
+**[12:28]** Na stezce spravedlnosti jest život, a cesta stezky její nesmrtelná jest.
 
 ### Chapter 13
 
@@ -34866,7 +34866,7 @@
 
 **[13:24]** Kdo zdržuje metlu svou, nenávidí syna svého; ale kdož ho miluje, za času jej tresce.
 
-**[13:25]** Spravedlivý jí až do nasycení duše své, břicho pak bezbožných nedostatek trpí. 
+**[13:25]** Spravedlivý jí až do nasycení duše své, břicho pak bezbožných nedostatek trpí.
 
 ### Chapter 14
 
@@ -34938,7 +34938,7 @@
 
 **[14:34]** Spravedlnost zvyšuje národ, ale hřích jest ku pohanění národům.
 
-**[14:35]** Laskav bývá král na služebníka rozumného, ale hněviv na toho, kterýž hanbu činí. 
+**[14:35]** Laskav bývá král na služebníka rozumného, ale hněviv na toho, kterýž hanbu činí.
 
 ### Chapter 15
 
@@ -35006,7 +35006,7 @@
 
 **[15:32]** Kdo se vyhýbá cvičení, zanedbává duše své; ale kdož přijímá domlouvání, má rozum.
 
-**[15:33]** Bázeň Hospodinova jest cvičení se moudrosti, a slávu předchází ponížení. 
+**[15:33]** Bázeň Hospodinova jest cvičení se moudrosti, a slávu předchází ponížení.
 
 ### Chapter 16
 
@@ -35074,7 +35074,7 @@
 
 **[16:32]** Lepší jest zpozdilý k hněvu než silný rek, a kdož panuje nad myslí svou nežli ten, kterýž dobyl města.
 
-**[16:33]** Do klínu umítán bývá los, ale od Hospodina všecko řízení jeho. 
+**[16:33]** Do klínu umítán bývá los, ale od Hospodina všecko řízení jeho.
 
 ### Chapter 17
 
@@ -35132,7 +35132,7 @@
 
 **[17:27]** Zdržuje řeči své muž umělý; drahého ducha jest muž rozumný.
 
-**[17:28]** Také i blázen, mlče, za moudrého jmín bývá, a zacpávaje rty své, za rozumného. 
+**[17:28]** Také i blázen, mlče, za moudrého jmín bývá, a zacpávaje rty své, za rozumného.
 
 ### Chapter 18
 
@@ -35182,7 +35182,7 @@
 
 **[18:23]** Poníženě mluví chudý, ale bohatý odpovídá tvrdě.
 
-**[18:24]** Ten, kdož má přátely, má se míti přátelsky, poněvadž přítel bývá vlastnější než bratr. 
+**[18:24]** Ten, kdož má přátely, má se míti přátelsky, poněvadž přítel bývá vlastnější než bratr.
 
 ### Chapter 19
 
@@ -35242,7 +35242,7 @@
 
 **[19:28]** Svědek nešlechetný posmívá se soudu, a ústa bezbožných přikrývají nepravost.
 
-**[19:29]** Nebo na posměvače hotoví jsou nálezové, a rány na hřbet bláznů. 
+**[19:29]** Nebo na posměvače hotoví jsou nálezové, a rány na hřbet bláznů.
 
 ### Chapter 20
 
@@ -35304,7 +35304,7 @@
 
 **[20:29]** Ozdoba mládenců jest síla jejich, a okrasa starců šediny.
 
-**[20:30]** Modřiny ran jsou lékařství při zlém, a bití vnitřnostem života. 
+**[20:30]** Modřiny ran jsou lékařství při zlém, a bití vnitřnostem života.
 
 ### Chapter 21
 
@@ -35368,7 +35368,7 @@
 
 **[21:30]** Není žádné moudrosti, ani opatrnosti, ani rady proti Hospodinu.
 
-**[21:31]** Kůň strojen bývá ke dni boje, ale Hospodinovo jest vysvobození. 
+**[21:31]** Kůň strojen bývá ke dni boje, ale Hospodinovo jest vysvobození.
 
 ### Chapter 22
 
@@ -35428,7 +35428,7 @@
 
 **[22:28]** Nepřenášej mezníku starodávního, kterýž učinili otcové tvoji.
 
-**[22:29]** Vídáš-li, že muž snažný v díle svém před králi stává? Nestává před nepatrnými. 
+**[22:29]** Vídáš-li, že muž snažný v díle svém před králi stává? Nestává před nepatrnými.
 
 ### Chapter 23
 
@@ -35500,7 +35500,7 @@
 
 **[23:34]** A budeš jako ten, kterýž spí u prostřed moře, a jako ten, kterýž spí na vrchu sloupu bárky.
 
-**[23:35]** Díš: Zbili mne, a nestonal jsem, tloukli mne, a nečil jsem; když procítím, dám se zase v to. 
+**[23:35]** Díš: Zbili mne, a nestonal jsem, tloukli mne, a nečil jsem; když procítím, dám se zase v to.
 
 ### Chapter 24
 
@@ -35570,7 +35570,7 @@
 
 **[24:33]** Maličko pospíš, maličko zdřímeš, maličko složíš ruce, abys poležel,
 
-**[24:34]** V tom přijde jako pocestný chudoba tvá, a nouze tvá jako muž zbrojný. 
+**[24:34]** V tom přijde jako pocestný chudoba tvá, a nouze tvá jako muž zbrojný.
 
 ### Chapter 25
 
@@ -35628,7 +35628,7 @@
 
 **[25:27]** Jísti mnoho medu není dobře; tak zpytování slávy jejich není slavné.
 
-**[25:28]** Město rozbořené beze zdi jest muž, kterýž nemá moci nad duchem svým. 
+**[25:28]** Město rozbořené beze zdi jest muž, kterýž nemá moci nad duchem svým.
 
 ### Chapter 26
 
@@ -35686,7 +35686,7 @@
 
 **[26:27]** Kdo jámu kopá, do ní upadá, a kdo valí kámen, na něj se obrací.
 
-**[26:28]** Člověk jazyka ošemetného v nenávisti má ponížené, a ústy úlisnými způsobuje pád. 
+**[26:28]** Člověk jazyka ošemetného v nenávisti má ponížené, a ústy úlisnými způsobuje pád.
 
 ### Chapter 27
 
@@ -35742,7 +35742,7 @@
 
 **[27:26]** Beránkové budou k oděvu tvému, a záplata pole kozelci.
 
-**[27:27]** Nadto dostatek mléka kozího ku pokrmu tvému, ku pokrmu domu tvého, a živnosti děvek tvých. 
+**[27:27]** Nadto dostatek mléka kozího ku pokrmu tvému, ku pokrmu domu tvého, a živnosti děvek tvých.
 
 ### Chapter 28
 
@@ -35800,7 +35800,7 @@
 
 **[28:27]** Kdo dává chudému, nebude míti žádného nedostatku; kdož pak zakrývá oči své, bude míti množství zlořečení.
 
-**[28:28]** Když povstávají bezbožní, skrývá se člověk; ale když hynou, rozmnožují se spravedliví. 
+**[28:28]** Když povstávají bezbožní, skrývá se člověk; ale když hynou, rozmnožují se spravedliví.
 
 ### Chapter 29
 
@@ -35856,7 +35856,7 @@
 
 **[29:26]** Mnozí hledají tváři pánů, ješto od Hospodina jest soud jednoho každého.
 
-**[29:27]** Ohavností spravedlivým jest muž nepravý, ohavností pak bezbožnému, kdož upřímě kráčí. 
+**[29:27]** Ohavností spravedlivým jest muž nepravý, ohavností pak bezbožnému, kdož upřímě kráčí.
 
 ### Chapter 30
 
@@ -35924,7 +35924,7 @@
 
 **[30:32]** Jestliže jsi bláznil, vynášeje se, a myslil-lis zle, ruku na ústa polož.
 
-**[30:33]** Kdo tluče smetanu, stlouká máslo, a stiskání nosu vyvodí krev, tak popouzení k hněvu vyvodí svár. 
+**[30:33]** Kdo tluče smetanu, stlouká máslo, a stiskání nosu vyvodí krev, tak popouzení k hněvu vyvodí svár.
 
 ### Chapter 31
 
@@ -35988,7 +35988,7 @@
 
 **[31:30]** Oklamavatelná jest příjemnost a marná krása; žena, kteráž se bojí Hospodina, tať chválena bude.
 
-**[31:31]** Dejtež takové z ovoce rukou jejích, a nechať ji chválí v branách skutkové její.  
+**[31:31]** Dejtež takové z ovoce rukou jejích, a nechať ji chválí v branách skutkové její.
 
 ## Ecclesiastes
 
@@ -36028,7 +36028,7 @@
 
 **[1:17]** I přiložil jsem mysl svou, abych poznal moudrost a umění, nemoudrost i bláznovství, ale shledal jsem, že i to jest trápení ducha.
 
-**[1:18]** Nebo kde jest mnoho moudrosti, tu mnoho hněvu; a kdož rozmnožuje umění, rozmnožuje bolest. 
+**[1:18]** Nebo kde jest mnoho moudrosti, tu mnoho hněvu; a kdož rozmnožuje umění, rozmnožuje bolest.
 
 ### Chapter 2
 
@@ -36082,7 +36082,7 @@
 
 **[2:25]** Nebo kdož by jísti a užívati měl toho nežli já?
 
-**[2:26]** Člověku zajisté, kterýž se líbí jemu, dává moudrost, umění a veselí; hříšníku pak dává trápení, aby shromažďoval a hrnul, čehož by zanechal tomu, kterýž se líbí Bohu. I to také jest marnost a trápení ducha. 
+**[2:26]** Člověku zajisté, kterýž se líbí jemu, dává moudrost, umění a veselí; hříšníku pak dává trápení, aby shromažďoval a hrnul, čehož by zanechal tomu, kterýž se líbí Bohu. I to také jest marnost a trápení ducha.
 
 ### Chapter 3
 
@@ -36128,7 +36128,7 @@
 
 **[3:21]** Kdo to zná, že duch synů lidských vstupuje zhůru, a duch hovadí že sstupuje pod zemi?
 
-**[3:22]** Protož spatřil jsem, že nic není lepšího, než veseliti se člověku v skutcích svých, poněvadž to jest podíl jeho. Nebo kdo jej k tomu přivede, aby poznati mohl to, což jest budoucího po něm? 
+**[3:22]** Protož spatřil jsem, že nic není lepšího, než veseliti se člověku v skutcích svých, poněvadž to jest podíl jeho. Nebo kdo jej k tomu přivede, aby poznati mohl to, což jest budoucího po něm?
 
 ### Chapter 4
 
@@ -36162,7 +36162,7 @@
 
 **[4:15]** Viděl jsem všecky živé, kteříž chodí pod sluncem, ani se přídrželi pacholete, potomka onoho, kterýž měl kralovati místo něho.
 
-**[4:16]** Nebývalo konce té vrtkosti všeho lidu, jakž toho, kterýž byl před nimi, takž ani potomci nebudou se těšiti z něho. Protož i to jest marnost a trápení ducha. 
+**[4:16]** Nebývalo konce té vrtkosti všeho lidu, jakž toho, kterýž byl před nimi, takž ani potomci nebudou se těšiti z něho. Protož i to jest marnost a trápení ducha.
 
 ### Chapter 5
 
@@ -36204,7 +36204,7 @@
 
 **[5:19]** A že kterémukoli člověku dal Bůh bohatství a zboží, a dopustil, aby užíval jich, a bral díl svůj, a veselil se z práce své, to jest dar Boží.
 
-**[5:20]** Nebo nebude mnoho pamatovati na dny života svého, proto že Bůh jemu přeje veselí srdce jeho. 
+**[5:20]** Nebo nebude mnoho pamatovati na dny života svého, proto že Bůh jemu přeje veselí srdce jeho.
 
 ### Chapter 6
 
@@ -36230,7 +36230,7 @@
 
 **[6:11]** A poněvadž předsevzetí mnohá rozmnožují marnost, co na tom má člověk?
 
-**[6:12]** Nebo kdo ví, co by bylo dobrého člověku v tomto životě, v počtu dnů marného života jeho, kteříž pomíjejí jako stín? Aneb kdo oznámí člověku, co se díti bude po něm pod sluncem? 
+**[6:12]** Nebo kdo ví, co by bylo dobrého člověku v tomto životě, v počtu dnů marného života jeho, kteříž pomíjejí jako stín? Aneb kdo oznámí člověku, co se díti bude po něm pod sluncem?
 
 ### Chapter 7
 
@@ -36290,7 +36290,7 @@
 
 **[7:28]** Čeho pak přesto hledala duše má, však jsem nenalezl: Muže jednoho z tisíce našel jsem, ale ženy mezi tolika jsem nenalezl.
 
-**[7:29]** Obzvláštně pohleď i na to, což jsem nalezl: Že učinil Bůh člověka dobrého, ale oni následovali smyšlínek rozličných. 
+**[7:29]** Obzvláštně pohleď i na to, což jsem nalezl: Že učinil Bůh člověka dobrého, ale oni následovali smyšlínek rozličných.
 
 ### Chapter 8
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** A ač jsem se vydal srdcem svým na to, abych moudrost vystihnouti mohl, a vyrozuměti bídě, kteráž bývá na zemi, pro kterouž ani ve dne ani v noci nespí,
 
-**[8:17]** A však viděl jsem při každém skutku Božím, že nemůže člověk vystihnouti skutku dějícího se pod sluncem. O čež pracuje člověk, vyhledati chtěje, ale nenalézá; nýbrž byť i myslil moudrý, že se doví, nebude moci nic najíti. 
+**[8:17]** A však viděl jsem při každém skutku Božím, že nemůže člověk vystihnouti skutku dějícího se pod sluncem. O čež pracuje člověk, vyhledati chtěje, ale nenalézá; nýbrž byť i myslil moudrý, že se doví, nebude moci nic najíti.
 
 ### Chapter 9
 
@@ -36350,7 +36350,7 @@
 
 **[9:10]** Všecko, což by před se vzala ruka tvá k činění, podlé možnosti své konej; nebo není práce ani důmyslu ani umění ani moudrosti v hrobě, do něhož se béřeš.
 
-**[9:11]** A obrátiv se, spatřil jsem pod sluncem, že nezáleží běh na rychlých, ani boj na udatných, nýbrž ani živnost na moudrých, ani bohatství na opatrných, ani přízeň na umělých, ale podlé času a příhody přihází se všechněm.
+**[9:11]** A obrátiv se, spatřil jsem pod sluncem, že ne záleží běh na rychlých, ani boj na udatných, nýbrž ani živnost na moudrých, ani bohatství na opatrných, ani přízeň na umělých, ale podlé času a příhody přihází se všechněm.
 
 **[9:12]** Nebo tak nezná člověk času svého jako ryby, kteréž loveny bývají sítí škodlivou, a jako ptáci polapeni bývají osídlem; tak zlapáni bývají synové lidští v čas zlý, když na ně připadá v náhle.
 
@@ -36364,7 +36364,7 @@
 
 **[9:17]** Slov moudrých pokojně poslouchati sluší, raději než křiku panujícího mezi blázny.
 
-**[9:18]** Lepší jest moudrost než nástrojové váleční, ale nemoudrý jeden kazí mnoho dobrého. 
+**[9:18]** Lepší jest moudrost než nástrojové váleční, ale nemoudrý jeden kazí mnoho dobrého.
 
 ### Chapter 10
 
@@ -36406,7 +36406,7 @@
 
 **[10:19]** Pro obveselení strojívají hody, a víno obveseluje život, peníze pak ke všemu dopomáhají.
 
-**[10:20]** Ani sám u sebe králi nezlořeč, ani v skrýších pokoje svého nezlořeč mocnějšímu; nebo pták nebeský donesl by hlas ten, a to, což křídla má, vyjevilo by řeč tvou. 
+**[10:20]** Ani sám u sebe králi nezlořeč, ani v skrýších pokoje svého nezlořeč mocnějšímu; nebo pták nebeský donesl by hlas ten, a to, což křídla má, vyjevilo by řeč tvou.
 
 ### Chapter 11
 
@@ -36428,7 +36428,7 @@
 
 **[11:9]** Radujž se tedy, mládenče, v mladosti své, a nechť tě obveseluje srdce tvé ve dnech mladosti tvé, a choď po cestách srdce svého, a podlé žádosti očí svých, než věz, že tě s tím se vším přivede Bůh na soud.
 
-**[11:10]** Anobrž odejmi hněv od srdce svého, a odvrať zlost od těla svého; nebo dětinství a mladost jest marnost. 
+**[11:10]** Anobrž odejmi hněv od srdce svého, a odvrať zlost od těla svého; nebo dětinství a mladost jest marnost.
 
 ### Chapter 12
 
@@ -36458,7 +36458,7 @@
 
 **[12:13]** Summa všeho, což jsi slyšel: Boha se boj, a přikázaní jeho ostříhej, nebo na tom všecko člověku záleží.
 
-**[12:14]** Poněvadž všeliký skutek Bůh přivede na soud, i každou věc tajnou, buďto dobrou, buďto zlou.  
+**[12:14]** Poněvadž všeliký skutek Bůh přivede na soud, i každou věc tajnou, buďto dobrou, buďto zlou.
 
 ## Song of Solomon
 
@@ -36496,7 +36496,7 @@
 
 **[1:16]** Aj, jak jsi ty krásný, milý můj, jak utěšený! I to lůže naše zelená se.
 
-**[1:17]** Trámové domů našich jsou z cedrů, a pavlače naše z boroví. 
+**[1:17]** Trámové domů našich jsou z cedrů, a pavlače naše z boroví.
 
 ### Chapter 2
 
@@ -36532,7 +36532,7 @@
 
 **[2:16]** Milý můj jest můj, a já jeho, jenž pase mezi lilium.
 
-**[2:17]** Ažby zavítal ten den, a utekli by stínové ti, navratiž se, připodobni se, milý můj, srně neb mladému jelenu na horách Beter. 
+**[2:17]** Ažby zavítal ten den, a utekli by stínové ti, navratiž se, připodobni se, milý můj, srně neb mladému jelenu na horách Beter.
 
 ### Chapter 3
 
@@ -36556,7 +36556,7 @@
 
 **[3:10]** Při níž udělal sloupy stříbrné, dno zlaté a ponebí šarlatové, vnitřek pak jeho postlaný milostí dcer Jeruzalémských.
 
-**[3:11]** Vyjděte a pohleďte, dcery Sionské, na krále Šalomouna v koruně, kterouž ho korunovala matka jeho v den oddávání jeho a v den veselí srdce jeho. 
+**[3:11]** Vyjděte a pohleďte, dcery Sionské, na krále Šalomouna v koruně, kterouž ho korunovala matka jeho v den oddávání jeho a v den veselí srdce jeho.
 
 ### Chapter 4
 
@@ -36590,7 +36590,7 @@
 
 **[4:15]** Ó ty sám vrchoviště zahradní, studnice vod živých, a tekoucích z Libánu.
 
-**[4:16]** Věj, větříčku půlnoční, a přiď, větříčku polední, prověj zahradu mou, ať tekou vonné věci její, a ať přijde milý můj do zahrady své, a jí rozkošné ovoce své. 
+**[4:16]** Věj, větříčku půlnoční, a přiď, větříčku polední, prověj zahradu mou, ať tekou vonné věci její, a ať přijde milý můj do zahrady své, a jí rozkošné ovoce své.
 
 ### Chapter 5
 
@@ -36624,7 +36624,7 @@
 
 **[5:15]** Hnátové jeho sloupové mramoroví, na podstavcích zlata nejčistšího založení; oblíčej jeho jako Libán, výborný jako cedrové.
 
-**[5:16]** Ústa jeho přesladká, a všecken jest přežádostivý. Takovýť jest milý můj, takový jest přítel můj, ó dcery Jeruzalémské. 
+**[5:16]** Ústa jeho přesladká, a všecken jest přežádostivý. Takovýť jest milý můj, takový jest přítel můj, ó dcery Jeruzalémské.
 
 ### Chapter 6
 
@@ -36652,7 +36652,7 @@
 
 **[6:12]** Nezvěděla jsem, a žádost má ponukla mne na vůz přednějších z lidu mého.
 
-**[6:13]** Navrať se, navrať, ó Sulamitská, navrať se, navrať, ať na tě patříme. Co uzříte na Sulamitské? Jako zástup vojenský. 
+**[6:13]** Navrať se, navrať, ó Sulamitská, navrať se, navrať, ať na tě patříme. Co uzříte na Sulamitské? Jako zástup vojenský.
 
 ### Chapter 7
 
@@ -36680,7 +36680,7 @@
 
 **[7:12]** Ráno přivstaneme, na vinice pohledíme, kvete-li vinný kmen, již-li se ukázal začátek hroznů, kvetou-li jablka zrnatá, a tuť dám tobě milosti své.
 
-**[7:13]** Pěkná jablečka vydala vůni, a na dveřech našich všecky rozkoše nové i staré, milý můj, zachovala jsem tobě. 
+**[7:13]** Pěkná jablečka vydala vůni, a na dveřech našich všecky rozkoše nové i staré, milý můj, zachovala jsem tobě.
 
 ### Chapter 8
 
@@ -36710,7 +36710,7 @@
 
 **[8:13]** Ó ty, kteráž bydlíš v zahradách, přáteléť pozorují hlasu tvého, ohlašujž mi se.
 
-**[8:14]** Pospěš, milý můj, a připodobni se k srně nebo mladému jelenu, na horách vonných věcí.  
+**[8:14]** Pospěš, milý můj, a připodobni se k srně nebo mladému jelenu, na horách vonných věcí.
 
 ## Isaiah
 
@@ -36776,7 +36776,7 @@
 
 **[1:30]** Budete zajisté jako dub, s něhož lístí prší, a jako zahrada, v níž vody není.
 
-**[1:31]** I bude nejsilnější jako koudel, a učinitel jeho jako jiskra; i bude to obé hořeti spolu, a nebude žádného, ješto by uhasiti mohl. 
+**[1:31]** I bude nejsilnější jako koudel, a učinitel jeho jako jiskra; i bude to obé hořeti spolu, a nebude žádného, ješto by uhasiti mohl.
 
 ### Chapter 2
 
@@ -36822,7 +36822,7 @@
 
 **[2:21]** I vejde do slují skal a do vysedlin jejich před hrůzou Hospodinovou, a před slávou důstojnosti jeho, když povstane, aby potřel zemi.
 
-**[2:22]** Přestaňtež doufati v člověku, jehož dýchání v chřípích jeho jest. Nebo zač má jmín býti? 
+**[2:22]** Přestaňtež doufati v člověku, jehož dýchání v chřípích jeho jest. Nebo zač má jmín býti?
 
 ### Chapter 3
 
@@ -36876,7 +36876,7 @@
 
 **[3:25]** Muži tvoji od meče padnou, a silní tvoji v boji.
 
-**[3:26]** I budou plakati a kvíliti brány jeho, a spustlý na zemi seděti bude. 
+**[3:26]** I budou plakati a kvíliti brány jeho, a spustlý na zemi seděti bude.
 
 ### Chapter 4
 
@@ -36890,7 +36890,7 @@
 
 **[4:5]** A stvoří Hospodin nad každým obydlím hory Sion, a nad každým shromážděním jejím oblak ve dne, a dým a blesk plápolajícího ohně v noci; nebo nad všecku slávu bude zastření.
 
-**[4:6]** A bude stánkem k zastěňování ve dne před horkem, a za útočiště a skrýši před přívalem a deštěm. 
+**[4:6]** A bude stánkem k zastěňování ve dne před horkem, a za útočiště a skrýši před přívalem a deštěm.
 
 ### Chapter 5
 
@@ -36952,7 +36952,7 @@
 
 **[5:29]** Řvání jeho jako řvání lva, a řváti bude jako lvíčata; a mumlati bude, a pochytí loupež a uteče, aniž bude, kdo by vydřel.
 
-**[5:30]** A zvučeti bude nad ním v ten den, jako zvučí moře. Tehdy pohledíme na zemi, a aj, mrákota a úzkost; nebo se i světlo zatmí při pohubení jejím. 
+**[5:30]** A zvučeti bude nad ním v ten den, jako zvučí moře. Tehdy pohledíme na zemi, a aj, mrákota a úzkost; nebo se i světlo zatmí při pohubení jejím.
 
 ### Chapter 6
 
@@ -36980,7 +36980,7 @@
 
 **[6:12]** A nevzdálí Hospodin všelikého člověka, a nebude dokonalého zpuštění u prostřed země;
 
-**[6:13]** Dokudž ještě v ní nebude desateré zhouby, a teprv zkažena bude. Ale jakož ono jilmoví, a jako doubí onoho náspu podporou jest, tak símě svaté jest podpora její. 
+**[6:13]** Dokudž ještě v ní nebude desateré zhouby, a teprv zkažena bude. Ale jakož ono jilmoví, a jako doubí onoho náspu podporou jest, tak símě svaté jest podpora její.
 
 ### Chapter 7
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** S střelami a lučištěm tudy jíti musí; hložím zajisté a trním zaroste všecka země.
 
-**[7:25]** Všecky pak hory, kteréž motykou kopány býti mohou, nebudou se báti hloží a trní; nebo budou za pastviště volům, a bravům ku pošlapání. 
+**[7:25]** Všecky pak hory, kteréž motykou kopány býti mohou, nebudou se báti hloží a trní; nebo budou za pastviště volům, a bravům ku pošlapání.
 
 ### Chapter 8
 
@@ -37078,7 +37078,7 @@
 
 **[8:21]** Až by každý toulati se musil, zbědovaný jsa a hladovitý. I stane se, že se bude, hladovitý jsa, sám v sobě zlobiti, a zlořečiti králi svému a Bohu svému, buď že zhůru pohledí,
 
-**[8:22]** Buď že na zemi popatří, a aj, všudy ssoužení a tma, mrákota, bída i nátisk v temnostech. 
+**[8:22]** Buď že na zemi popatří, a aj, všudy ssoužení a tma, mrákota, bída i nátisk v temnostech.
 
 ### Chapter 9
 
@@ -37122,7 +37122,7 @@
 
 **[9:20]** Ale krájeje sobě po pravé straně, však lačněti bude, a zžíraje po levé, však nenasytí se. Jeden každý maso ramene svého žráti bude,
 
-**[9:21]** Manasses Efraima a Efraim Manessesa, oba pak spolu proti Judovi budou. Ve všem tom však neodvrátí se prchlivost jeho, ale předce ruka jeho bude vztažená. 
+**[9:21]** Manasses Efraima a Efraim Manessesa, oba pak spolu proti Judovi budou. Ve všem tom však neodvrátí se prchlivost jeho, ale předce ruka jeho bude vztažená.
 
 ### Chapter 10
 
@@ -37192,7 +37192,7 @@
 
 **[10:33]** Aj, Panovník Hospodin zástupů oklestí vší silou ratolesti, ty pak, kteříž jsou vysokého zrostu, podetne; i budou vysocí sníženi.
 
-**[10:34]** Vyseká též houšť lesů sekerou, i Libán od velikomocného padne. 
+**[10:34]** Vyseká též houšť lesů sekerou, i Libán od velikomocného padne.
 
 ### Chapter 11
 
@@ -37226,7 +37226,7 @@
 
 **[11:15]** Zkazí též Hospodin zátoku moře Egyptského, a vztáhne ruku svou na řeku v prudkosti větru svého, a rozrazí ji na sedm potůčků, a učiní, aby je v obuvi přejíti mohli.
 
-**[11:16]** I bude silnice ostatkům lidu toho, kterýž zanechán bude od Assyrských, jako byla Izraelovi v ten den, když vycházel z země Egyptské. 
+**[11:16]** I bude silnice ostatkům lidu toho, kterýž zanechán bude od Assyrských, jako byla Izraelovi v ten den, když vycházel z země Egyptské.
 
 ### Chapter 12
 
@@ -37240,7 +37240,7 @@
 
 **[12:5]** Žalmy zpívejte Hospodinu, nebo veliké věci učinil; a to známé buď po vší zemi.
 
-**[12:6]** Prokřikni a zpívej, obyvatelkyně Sionská, nebo veliký jest u prostřed tebe Svatý Izraelský. 
+**[12:6]** Prokřikni a zpívej, obyvatelkyně Sionská, nebo veliký jest u prostřed tebe Svatý Izraelský.
 
 ### Chapter 13
 
@@ -37286,7 +37286,7 @@
 
 **[13:21]** Ale lítá zvěř tam odpočívati bude, a domové jejich šelmami naplněni budou; bydliti budou tam i sovy, a příšery tam skákati budou.
 
-**[13:22]** Ozývati se také budou sobě hrozné potvory na palácích jejich, a draci na hradích rozkošných. A blízkoť jest, že přijde čas jeho, a dnové jeho prodlévati nebudou. 
+**[13:22]** Ozývati se také budou sobě hrozné potvory na palácích jejich, a draci na hradích rozkošných. A blízkoť jest, že přijde čas jeho, a dnové jeho prodlévati nebudou.
 
 ### Chapter 14
 
@@ -37352,7 +37352,7 @@
 
 **[14:31]** Kvěl, ó bráno, křič město, již jsi rozplynula se všecka ty země Filistinská; nebo od půlnoci oheň přijde aniž bude, kdo by stranil z obcí jeho.
 
-**[14:32]** Co pak odpovědí poslové národů? To, že Hospodin upevnil Sion, v němž útočiště mají chudí z lidu jeho. 
+**[14:32]** Co pak odpovědí poslové národů? To, že Hospodin upevnil Sion, v němž útočiště mají chudí z lidu jeho.
 
 ### Chapter 15
 
@@ -37372,7 +37372,7 @@
 
 **[15:8]** Nebo křik obejde vůkol meze Moábské, až do Eglaim kvílení jeho, a až do Beer Elim kvílení jeho,
 
-**[15:9]** Poněvadž i vody Dimon naplněny budou krví. Přidám zajisté Dimonu přídavků, a pošli na ty, kteříž ujdou z Moábských, lvy, i na pozůstalé v té zemi. 
+**[15:9]** Poněvadž i vody Dimon naplněny budou krví. Přidám zajisté Dimonu přídavků, a pošli na ty, kteříž ujdou z Moábských, lvy, i na pozůstalé v té zemi.
 
 ### Chapter 16
 
@@ -37402,7 +37402,7 @@
 
 **[16:13]** Toť jest to slovo, kteréž mluvil Hospodin o Moábovi již dávno.
 
-**[16:14]** Nyní pak praví Hospodin, řka: Po třech letech, jakáž jsou léta nájemníka, v potupu uvedena bude sláva Moábova se vším množstvím velikým, tak že ostatkové jeho budou skrovní, přemaličcí a mdlí. 
+**[16:14]** Nyní pak praví Hospodin, řka: Po třech letech, jakáž jsou léta nájemníka, v potupu uvedena bude sláva Moábova se vším množstvím velikým, tak že ostatkové jeho budou skrovní, přemaličcí a mdlí.
 
 ### Chapter 17
 
@@ -37432,7 +37432,7 @@
 
 **[17:13]** Národům jako zvuk vod mnohých zvučícím; nebo je Bůh okřikne. Pročež daleko utíkati budou, a honěni budou jako plevy po vrších od větru, a jako chumel od vichřice.
 
-**[17:14]** Nebo u večer aj, předěšení, a než jitro přijde, anť ho není. Tenť jest podíl těch, kteříž nás potlačují, a los těch, kteříž nás loupí. 
+**[17:14]** Nebo u večer aj, předěšení, a než jitro přijde, anť ho není. Tenť jest podíl těch, kteříž nás potlačují, a los těch, kteříž nás loupí.
 
 ### Chapter 18
 
@@ -37448,7 +37448,7 @@
 
 **[18:6]** I budou zanecháni všickni spolu ptactvu z hor, a šelmám zemským, a bude na nich přes léto ptactvo, a všeliké šelmy zemské na nich přes zimu zůstanou.
 
-**[18:7]** V ten čas přinesen bude dar Hospodinu zástupů (od lidu rozptýleného a zloupeného, od lidu hrozného zdávna i posavad, národu všelijak potlačeného, jehožto zemi řeky rozchvátaly), k místu jména Hospodina zástupů, hoře Sion. 
+**[18:7]** V ten čas přinesen bude dar Hospodinu zástupů (od lidu rozptýleného a zloupeného, od lidu hrozného zdávna i posavad, národu všelijak potlačeného, jehožto zemi řeky rozchvátaly), k místu jména Hospodina zástupů, hoře Sion.
 
 ### Chapter 19
 
@@ -37500,7 +37500,7 @@
 
 **[19:24]** V ten den bude Izrael Egyptským a Assyrským jako třetí z nich, i budou požehnaní u prostřed země.
 
-**[19:25]** Nebo požehná jim Hospodin zástupů, řka: Požehnaný lid můj Egyptský, a dílo rukou mých Assur, i dědictví mé Izrael. 
+**[19:25]** Nebo požehná jim Hospodin zástupů, řka: Požehnaný lid můj Egyptský, a dílo rukou mých Assur, i dědictví mé Izrael.
 
 ### Chapter 20
 
@@ -37514,7 +37514,7 @@
 
 **[20:5]** I užasnou se a zahanbí nad Mouřeníny, útočištěm svým, a nad Egyptskými, chloubou svou.
 
-**[20:6]** Tedy řekne obyvatel ostrovu tohoto v ten den: Aj hle, toť naše útočiště, k němuž jsme se utíkali o pomoc, abychom vysvobozeni byli z moci krále Assyrského. Jakž bychom my tedy ušli? 
+**[20:6]** Tedy řekne obyvatel ostrovu tohoto v ten den: Aj hle, toť naše útočiště, k němuž jsme se utíkali o pomoc, abychom vysvobozeni byli z moci krále Assyrského. Jakž bychom my tedy ušli?
 
 ### Chapter 21
 
@@ -37550,7 +37550,7 @@
 
 **[21:16]** Tak zajisté řekl Pán ke mně: Že po roce, jakýž jest rok nájemníka, přestane všecka sláva Cedar,
 
-**[21:17]** A pozůstalý počet střelců udatných synů Cedar zmenšen bude; nebo Hospodin Bůh Izraelský to mluvil. 
+**[21:17]** A pozůstalý počet střelců udatných synů Cedar zmenšen bude; nebo Hospodin Bůh Izraelský to mluvil.
 
 ### Chapter 22
 
@@ -37602,7 +37602,7 @@
 
 **[22:24]** I zavěsí na něm synové a dcery všecku slávu domu otce jeho, všecko nádobí, i to nejmenší, od nádobí, z něhož se pije, až do všech nádob vinných.
 
-**[22:25]** V ten den, praví Hospodin zástupů, pohne se hřebík, kterýž vbit byl v místě pevném, a vyťat bude, a spadne, odťato bude i břímě, kteréž jest na něm; nebo Hospodin mluvil. 
+**[22:25]** V ten den, praví Hospodin zástupů, pohne se hřebík, kterýž vbit byl v místě pevném, a vyťat bude, a spadne, odťato bude i břímě, kteréž jest na něm; nebo Hospodin mluvil.
 
 ### Chapter 23
 
@@ -37640,7 +37640,7 @@
 
 **[23:17]** I bude po dokonání sedmdesáti let, že navštíví Hospodin Týr, ale on navrátí se zase k nevěstčí mzdě své, a smilniti bude se všemi královstvími země na okršlku světa.
 
-**[23:18]** Však kupectví jeho a mzda jeho svatá bude Hospodinu. Nebude na poklad skládána, ani schovávána, ale pro ty, kteříž přebývají před Hospodinem, bude kupectví jeho, aby jedli do sytosti, a měli roucho dobré. 
+**[23:18]** Však kupectví jeho a mzda jeho svatá bude Hospodinu. Nebude na poklad skládána, ani schovávána, ale pro ty, kteříž přebývají před Hospodinem, bude kupectví jeho, aby jedli do sytosti, a měli roucho dobré.
 
 ### Chapter 24
 
@@ -37688,7 +37688,7 @@
 
 **[24:22]** Kteřížto shromážděni budou, tak jako shromažďováni bývají vězňové do žaláře, a zavříni budou u vězení; po mnohých, pravím, dnech navštíveni budou.
 
-**[24:23]** I zahanbí se měsíc, a zastydí slunce, když kralovati bude Hospodin zástupů na hoře Sion, a v Jeruzalémě, a před starci svými slavně. 
+**[24:23]** I zahanbí se měsíc, a zastydí slunce, když kralovati bude Hospodin zástupů na hoře Sion, a v Jeruzalémě, a před starci svými slavně.
 
 ### Chapter 25
 
@@ -37714,7 +37714,7 @@
 
 **[25:11]** A roztáhneť ruce své u prostřed něho, jako roztahuje ten, kterýž plyne k plování, a poníží pýchy jeho rameny rukou svých.
 
-**[25:12]** A tak pevnost i výsost zdí tvých sehne, poníží a srazí na zem až do prachu. 
+**[25:12]** A tak pevnost i výsost zdí tvých sehne, poníží a srazí na zem až do prachu.
 
 ### Chapter 26
 
@@ -37758,7 +37758,7 @@
 
 **[26:20]** Ej lide můj, vejdi do pokojů svých, a zavři dvéře své za sebou; schovej se na maličkou chvilku, dokudž nepřejde hněv.
 
-**[26:21]** Nebo aj, Hospodin béře se z místa svého, aby navštívil nepravost na obyvatelích země, a odkryje země zbité své, a nebude přikrývati více zmordovaných svých. 
+**[26:21]** Nebo aj, Hospodin béře se z místa svého, aby navštívil nepravost na obyvatelích země, a odkryje země zbité své, a nebude přikrývati více zmordovaných svých.
 
 ### Chapter 27
 
@@ -37786,7 +37786,7 @@
 
 **[27:12]** I stane se v ten den, když pomstu uvoditi bude Hospodin od toku řeky až do potoka Egyptského, že vy, synové Izraelští, po jednom sebráni budete.
 
-**[27:13]** Stane se také v ten den, že troubeno bude trubou velikou, i přijdou, kteříž byli zahynuli v zemi Assyrské, a zahnáni byli do země Egyptské, a klaněti se budou Hospodinu na hoře svaté v Jeruzalémě. 
+**[27:13]** Stane se také v ten den, že troubeno bude trubou velikou, i přijdou, kteříž byli zahynuli v zemi Assyrské, a zahnáni byli do země Egyptské, a klaněti se budou Hospodinu na hoře svaté v Jeruzalémě.
 
 ### Chapter 28
 
@@ -37846,7 +37846,7 @@
 
 **[28:28]** Pšenice mlácena bývá; však i té ne vždycky mlátiti bude, aniž ji potře kolem vozu svého, ani o zuby jeho rozdrobí.
 
-**[28:29]** I to od Hospodina zástupu vyšlo, kterýž jest divný v radě, a veleslavný v skutku. 
+**[28:29]** I to od Hospodina zástupu vyšlo, kterýž jest divný v radě, a veleslavný v skutku.
 
 ### Chapter 29
 
@@ -37896,7 +37896,7 @@
 
 **[29:23]** Nebo když uzří syny své, dílo rukou mých u prostřed sebe, an posvěcují jména mého, tedy posvěcovati budou Svatého Jákobova, a k bázni Boha Izraelského sloužiti,
 
-**[29:24]** Aby bloudící duchem nabyli rozumnosti, a reptáci naučili se umění. 
+**[29:24]** Aby bloudící duchem nabyli rozumnosti, a reptáci naučili se umění.
 
 ### Chapter 30
 
@@ -37964,7 +37964,7 @@
 
 **[30:32]** Ale stane se, že každé udeření holí, kterouž doloží na něj Hospodin, silně dolehne; s bubny a harfami a bitvou veselou bojovati bude proti němu.
 
-**[30:33]** Nebo připraveno jest již dávno peklo, také i samému králi připraveno jest. Hluboké a široké je učinil, hranic jeho, ohně a dříví mnoho; dmýchání Hospodinovo jako potok siry je zapaluje. 
+**[30:33]** Nebo připraveno jest již dávno peklo, také i samému králi připraveno jest. Hluboké a široké je učinil, hranic jeho, ohně a dříví mnoho; dmýchání Hospodinovo jako potok siry je zapaluje.
 
 ### Chapter 31
 
@@ -37984,7 +37984,7 @@
 
 **[31:8]** I padne Assur od meče ne muže, a meč ne člověka zžíře jej; a utíkati bude před mečem, a nejudatnější jeho pod plat uvedeni budou.
 
-**[31:9]** A tak skála jeho pro strach zmizí, a knížata jeho korouhve děsiti se budou, praví Hospodin, jehož jest oheň na Sionu a pec v Jeruzalémě. 
+**[31:9]** A tak skála jeho pro strach zmizí, a knížata jeho korouhve děsiti se budou, praví Hospodin, jehož jest oheň na Sionu a pec v Jeruzalémě.
 
 ### Chapter 32
 
@@ -38026,7 +38026,7 @@
 
 **[32:19]** Byť pak i krupobití spadlo na les, a velmi sníženo bylo město.
 
-**[32:20]** Blaze vám, kteříž sejete na všelikých místech úrodných, vypouštějíc tam vola i osla. 
+**[32:20]** Blaze vám, kteříž sejete na všelikých místech úrodných, vypouštějíc tam vola i osla.
 
 ### Chapter 33
 
@@ -38076,7 +38076,7 @@
 
 **[33:23]** Oslábliť jsou provazové tvoji, aniž budou moci utvrditi sloupu bárky své, ani roztáhnouti plachty, anť již rozdělena bude kořist loupeže mnohé; i chromí rozchvátají kořist.
 
-**[33:24]** Aniž dí kdo z obyvatelů: Nemocen jsem. Lid osedlý v něm zproštěn bude nepravosti. 
+**[33:24]** Aniž dí kdo z obyvatelů: Nemocen jsem. Lid osedlý v něm zproštěn bude nepravosti.
 
 ### Chapter 34
 
@@ -38112,7 +38112,7 @@
 
 **[34:16]** Hledejte v knize Hospodinově, a čtěte. Ani jedno z těch nechybí, a jeden každý bez své druže nebude; nebo to ústa Páně přikázala, a duch jeho shromáždí je.
 
-**[34:17]** Onť zajisté vrže jim losy, a ruka jeho jim rozdělí ji provazcem; až na věky dědičně ji osednou, od národu až do pronárodu v ní přebývati budou. 
+**[34:17]** Onť zajisté vrže jim losy, a ruka jeho jim rozdělí ji provazcem; až na věky dědičně ji osednou, od národu až do pronárodu v ní přebývati budou.
 
 ### Chapter 35
 
@@ -38134,7 +38134,7 @@
 
 **[35:9]** Nebude tam lva, a lítá zvěř nebude choditi po ní, aniž tam nalezena bude, ale půjdou po ní ti, jenž budou vysvobozeni.
 
-**[35:10]** Vykoupení, pravím, Hospodinovi navrátí se, a přijdou na Sion s prozpěvováním, a veselé věčné bude na hlavě jejich; radosti a veselé dojdou, zámutek pak a úpění uteče od nich. 
+**[35:10]** Vykoupení, pravím, Hospodinovi navrátí se, a přijdou na Sion s prozpěvováním, a veselé věčné bude na hlavě jejich; radosti a veselé dojdou, zámutek pak a úpění uteče od nich.
 
 ### Chapter 36
 
@@ -38180,7 +38180,7 @@
 
 **[36:21]** Oni pak mlčeli, a neodpověděli jemu slova. Nebo takové bylo rozkázaní královo, řkoucí: Neodpovídejte jemu.
 
-**[36:22]** I přišel Eliakim syn Helkiášův, kterýž byl správcím domu, a Sobna písař, a Joach syn Azafův, kancléř, k Ezechiášovi, majíce roucha roztržená, a oznámili jemu slova Rabsakova. 
+**[36:22]** I přišel Eliakim syn Helkiášův, kterýž byl správcím domu, a Sobna písař, a Joach syn Azafův, kancléř, k Ezechiášovi, majíce roucha roztržená, a oznámili jemu slova Rabsakova.
 
 ### Chapter 37
 
@@ -38258,7 +38258,7 @@
 
 **[37:37]** A tak odjel, anobrž utekl, a navrátil se Senacherib král Assyrský, a bydlil v Ninive.
 
-**[37:38]** I stalo se, když se klaněl v chrámě Nizrocha boha svého, že Adramelech a Sarasar, synové jeho, zabili jej mečem, a utekli do země Ararat. I kraloval Esarchaddon syn jeho místo něho. 
+**[37:38]** I stalo se, když se klaněl v chrámě Nizrocha boha svého, že Adramelech a Sarasar, synové jeho, zabili jej mečem, a utekli do země Ararat. I kraloval Esarchaddon syn jeho místo něho.
 
 ### Chapter 38
 
@@ -38304,7 +38304,7 @@
 
 **[38:21]** Řekl pak byl Izaiáš: Nechať vezmou hrudu suchých fíků, a přiloží na vřed, a zdráv bude.
 
-**[38:22]** I řekl byl Ezechiáš: Jaké jest znamení, že vstoupím do domu Hospodinova? 
+**[38:22]** I řekl byl Ezechiáš: Jaké jest znamení, že vstoupím do domu Hospodinova?
 
 ### Chapter 39
 
@@ -38322,7 +38322,7 @@
 
 **[39:7]** I syny tvé také, kteříž pojdou z tebe, kteréž zplodíš, poberou, a budou komorníci při dvoře krále Babylonského.
 
-**[39:8]** Tedy řekl Ezechiáš Izaiášovi: Dobréť jest slovo Hospodinovo, kteréž jsi mluvil. (A doložil): Proto že pokoj a pravda bude za dnů mých. 
+**[39:8]** Tedy řekl Ezechiáš Izaiášovi: Dobréť jest slovo Hospodinovo, kteréž jsi mluvil. (A doložil): Proto že pokoj a pravda bude za dnů mých.
 
 ### Chapter 40
 
@@ -38386,7 +38386,7 @@
 
 **[40:30]** Ustává a umdlévá mládež, a mládenci těžce klesají,
 
-**[40:31]** Ale ti, jenž očekávají na Hospodina, nabývají nové síly. Vznášejí se peřím jako orlice; běží, a však neumdlévají, chodí, a neustávají. 
+**[40:31]** Ale ti, jenž očekávají na Hospodina, nabývají nové síly. Vznášejí se peřím jako orlice; běží, a však neumdlévají, chodí, a neustávají.
 
 ### Chapter 41
 
@@ -38446,7 +38446,7 @@
 
 **[41:28]** Nebo vidím, že není žádného, není žádného mezi nimi rozumného; ač se jich otazuji, však neodpovídají slova.
 
-**[41:29]** Aj, všickni ti jsou marnost, za nic nestojí dílo jejich, vítr a daremní věc jsou slitiny jejich. 
+**[41:29]** Aj, všickni ti jsou marnost, za nic nestojí dílo jejich, vítr a daremní věc jsou slitiny jejich.
 
 ### Chapter 42
 
@@ -38498,7 +38498,7 @@
 
 **[42:24]** Kdo vydal v potlačení Jákoba, a Izraele loupežníkům? Zdali ne Hospodin, proti němuž jsme zhřešili? Nebo nechtěli po cestách jeho choditi, aniž poslouchali zákona jeho.
 
-**[42:25]** A protož vylil na něj s prchlivostí hněv svůj, a násilé boje, a zapálil jej vůkol, a však nepoznal toho. Zapálil jej, pravím, a však nepřipustil toho k srdci. 
+**[42:25]** A protož vylil na něj s prchlivostí hněv svůj, a násilé boje, a zapálil jej vůkol, a však nepoznal toho. Zapálil jej, pravím, a však nepřipustil toho k srdci.
 
 ### Chapter 43
 
@@ -38556,7 +38556,7 @@
 
 **[43:27]** Otec tvůj první zhřešil, a učitelé tvoji přestoupili proti mně.
 
-**[43:28]** A protož smeci knížata z míst svatých, a vydám v prokletí Jákoba, a Izraele v pohanění. 
+**[43:28]** A protož smeci knížata z míst svatých, a vydám v prokletí Jákoba, a Izraele v pohanění.
 
 ### Chapter 44
 
@@ -38614,7 +38614,7 @@
 
 **[44:27]** Kterýž dím hlubině: Vyschni, nebo potoky tvé vysuším.
 
-**[44:28]** Kterýž dím o Cýrovi: Pastýř můj, nebo všelikou vůli mou vykoná, a řekne Jeruzalému: Zase vystaven buď, a chrámu: Založen buď. 
+**[44:28]** Kterýž dím o Cýrovi: Pastýř můj, nebo všelikou vůli mou vykoná, a řekne Jeruzalému: Zase vystaven buď, a chrámu: Založen buď.
 
 ### Chapter 45
 
@@ -38666,7 +38666,7 @@
 
 **[45:24]** Říkaje: Toliko v Hospodinu mám všelijakou spravedlnost a sílu, a až k samému přijde; ale zahanbeni budou všickni, kteříž se koli zlobí proti němu.
 
-**[45:25]** V Hospodinu ospravedlněni budou, a chlubiti se všecko símě Izraelovo. 
+**[45:25]** V Hospodinu ospravedlněni budou, a chlubiti se všecko símě Izraelovo.
 
 ### Chapter 46
 
@@ -38694,7 +38694,7 @@
 
 **[46:12]** Slyšte mne, vy urputného srdce, kteříž jste dalecí od spravedlnosti.
 
-**[46:13]** Jáť způsobím, aby se přiblížila spravedlnost má. Nebudeť prodlévati, aniž spasení mé bude meškati; nebo složím v Sionu spasení, a v Izraeli slávu svou. 
+**[46:13]** Jáť způsobím, aby se přiblížila spravedlnost má. Nebudeť prodlévati, aniž spasení mé bude meškati; nebo složím v Sionu spasení, a v Izraeli slávu svou.
 
 ### Chapter 47
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Aj, jako pleva jsou, oheň popálí je, nevychvátí ani sami sebe z prudkosti plamene; žádného uhlí nezůstane k zhřívání se, ani ohně, aby se mohlo poseděti u něho.
 
-**[47:15]** Takť se stane i kupcům tvým, jimiž jsi se zaměstknávala od mladosti své. Jeden každý svou stranou půjde, aniž bude, kdo by tě vysvobodil. 
+**[47:15]** Takť se stane i kupcům tvým, jimiž jsi se zaměstknávala od mladosti své. Jeden každý svou stranou půjde, aniž bude, kdo by tě vysvobodil.
 
 ### Chapter 48
 
@@ -38772,7 +38772,7 @@
 
 **[48:21]** Nebudouť žízniti, když je po pustinách povede, vody z skály vyvede jim; nebo rozetne skálu, aby tekly vody.
 
-**[48:22]** Nemajíť žádného pokoje, praví Hospodin, bezbožní. 
+**[48:22]** Nemajíť žádného pokoje, praví Hospodin, bezbožní.
 
 ### Chapter 49
 
@@ -38826,7 +38826,7 @@
 
 **[49:25]** Anobrž tak praví Hospodin: I zajatý lid reku udatnému odjat bude, a to, což uchvátil násilník, vyproštěno bude; nebo s tím, kterýž se s tebou nesnadní, já se nesnadniti budu, a syny tvé já vysvobodím.
 
-**[49:26]** A nakrmím ty, kteříž tě utiskují, vlastním masem jejich, a jako mstem krví svou se zpijí. I poznáť všeliké tělo, že já Hospodin jsem spasitel tvůj, a vykupitel tvůj Bůh silný Jákobův. 
+**[49:26]** A nakrmím ty, kteříž tě utiskují, vlastním masem jejich, a jako mstem krví svou se zpijí. I poznáť všeliké tělo, že já Hospodin jsem spasitel tvůj, a vykupitel tvůj Bůh silný Jákobův.
 
 ### Chapter 50
 
@@ -38850,7 +38850,7 @@
 
 **[50:10]** Kdo jest mezi vámi, ješto se bojí Hospodina, poslouchej hlasu služebníka jeho. Kdo jest, ješto chodí v temnostech, a nemá žádného světla, doufej ve jméno Hospodinovo, a zpolehni na Boha svého.
 
-**[50:11]** Aj, vy všickni, kteříž zaněcujete oheň, a jiskrami se přepasujete, choďtež v blesku ohně svého, a v jiskrách, kteréž jste roznítili. Od ruky mé toto se vám stane, že v bolesti ležeti budete. 
+**[50:11]** Aj, vy všickni, kteříž zaněcujete oheň, a jiskrami se přepasujete, choďtež v blesku ohně svého, a v jiskrách, kteréž jste roznítili. Od ruky mé toto se vám stane, že v bolesti ležeti budete.
 
 ### Chapter 51
 
@@ -38898,7 +38898,7 @@
 
 **[51:22]** Takto praví Pán tvůj, Hospodin a Bůh tvůj, vedoucí při lidu svého: Aj, beru z ruky tvé kalich hrůzy, i kvasnice kalicha prchlivosti mé, nebudeš ho píti více.
 
-**[51:23]** Ale dám jej do ruky těch, jenž tě ssužují, kteříž říkali duši tvé: Sehni se, ať přes tě přejdeme, jimž jsi podkládala jako zemi hřbet svůj, a jako ulici přecházejícím. 
+**[51:23]** Ale dám jej do ruky těch, jenž tě ssužují, kteříž říkali duši tvé: Sehni se, ať přes tě přejdeme, jimž jsi podkládala jako zemi hřbet svůj, a jako ulici přecházejícím.
 
 ### Chapter 52
 
@@ -38930,7 +38930,7 @@
 
 **[52:14]** A jakož mnozí se nad ním užasnou, že tak zohavena jest nad jiné lidi osoba jeho, způsob jeho nad syny lidské:
 
-**[52:15]** Tak zase skropí národy mnohé, i králové před ním zacpají ústa svá, proto že což jim nebylo vypravováno, to uzří, a tomu, o čemž neslýchali, porozumějí. 
+**[52:15]** Tak zase skropí národy mnohé, i králové před ním zacpají ústa svá, proto že což jim nebylo vypravováno, to uzří, a tomu, o čemž neslýchali, porozumějí.
 
 ### Chapter 53
 
@@ -38956,7 +38956,7 @@
 
 **[53:11]** Z práce duše své uzří užitek, jímž nasycen bude. Známostí svou ospravedlní spravedlivý služebník můj mnohé; nebo nepravosti jejich on sám ponese.
 
-**[53:12]** A protož dám jemu díl pro mnohé, aby s nesčíslnými dělil se o kořist, proto že vylil na smrt duši svou, a s přestupníky počten jest. Onť sám nesl hřích mnohých, a přestupníků zástupcím byl. 
+**[53:12]** A protož dám jemu díl pro mnohé, aby s nesčíslnými dělil se o kořist, proto že vylil na smrt duši svou, a s přestupníky počten jest. Onť sám nesl hřích mnohých, a přestupníků zástupcím byl.
 
 ### Chapter 54
 
@@ -38992,7 +38992,7 @@
 
 **[54:16]** Aj, já stvořil jsem kováře dýmajícího při ohni na uhlí, a vynášejícího nádobí k dílu svému, já také stvořil jsem zhoubce, aby hubil.
 
-**[54:17]** Žádný nástroj proti tobě udělaný nepodaří se, a každý jazyk, povstávající proti tobě na soudu, potupíš. Toť jest dědictví služebníků Hospodinových, a spravedlnost jejich ode mne, praví Hospodin. 
+**[54:17]** Žádný nástroj proti tobě udělaný nepodaří se, a každý jazyk, povstávající proti tobě na soudu, potupíš. Toť jest dědictví služebníků Hospodinových, a spravedlnost jejich ode mne, praví Hospodin.
 
 ### Chapter 55
 
@@ -39020,7 +39020,7 @@
 
 **[55:12]** A protož s veselím vyjdete, a v pokoji sprovozeni budete. Hory i pahrbkové zvučně naproti vám prozpěvovati budou, a všecko dříví polní rukama plésati bude.
 
-**[55:13]** Místo chrastiny vzejde jedlé, a místo hloží vyroste myrtus, a bude to Hospodinu k slávě, na znamení věčné, kteréž nebude vyhlazeno. 
+**[55:13]** Místo chrastiny vzejde jedlé, a místo hloží vyroste myrtus, a bude to Hospodinu k slávě, na znamení věčné, kteréž nebude vyhlazeno.
 
 ### Chapter 56
 
@@ -39046,7 +39046,7 @@
 
 **[56:11]** Nadto jsou psi obžerní, nevědí, kdy jsou syti; pročež sami se pasou. Neumějí učiti, všickni k cestám svým patří, jeden každý k zisku svému po své straně.
 
-**[56:12]** Poďte, naberu vína, a opojíme se nápojem opojným, a bude rovně zítřejší jako dnešní den, nýbrž větší a mnohem hojnější. 
+**[56:12]** Poďte, naberu vína, a opojíme se nápojem opojným, a bude rovně zítřejší jako dnešní den, nýbrž větší a mnohem hojnější.
 
 ### Chapter 57
 
@@ -39090,7 +39090,7 @@
 
 **[57:20]** Bezbožní pak budou jako moře zbouřené, když se spokojiti nemůže, a jehož vody vymítají nečistotu a bláto.
 
-**[57:21]** Nemajíť žádného pokoje, praví Bůh můj, bezbožní. 
+**[57:21]** Nemajíť žádného pokoje, praví Bůh můj, bezbožní.
 
 ### Chapter 58
 
@@ -39120,7 +39120,7 @@
 
 **[58:13]** Jestliže odvrátíš od soboty nohu svou, abys nevykonával líbosti své v den svatý můj, anobrž nazůveš-li sobotu rozkoší, a svatou Hospodinu slavnou, a budeš-li ji slaviti tak, abys nečinil cest svých, ani vykonával, co by se líbilo, ani nemluvil slova:
 
-**[58:14]** Tehdy rozkoš míti budeš v Hospodinu, a uvedu tě na vysoká místa země, a způsobím to, abys užíval dědictví Jákoba otce svého; nebo ústa Hospodinova mluvila. 
+**[58:14]** Tehdy rozkoš míti budeš v Hospodinu, a uvedu tě na vysoká místa země, a způsobím to, abys užíval dědictví Jákoba otce svého; nebo ústa Hospodinova mluvila.
 
 ### Chapter 59
 
@@ -39164,7 +39164,7 @@
 
 **[59:20]** Neboť přijde k Sionu vykupitel, a k těm, kteříž se odvracují od přestoupení v Jákobovi, praví Hospodin.
 
-**[59:21]** Tatoť pak bude smlouva má s nimi, praví Hospodin: Duch můj, kterýž jest v tobě, a slova má, kteráž jsem vložil v ústa tvá, neodejdouť od úst tvých, ani od úst semene tvého, ani od úst potomků semene tvého, praví Hospodin, od tohoto času až na věky. 
+**[59:21]** Tatoť pak bude smlouva má s nimi, praví Hospodin: Duch můj, kterýž jest v tobě, a slova má, kteráž jsem vložil v ústa tvá, neodejdouť od úst tvých, ani od úst semene tvého, ani od úst potomků semene tvého, praví Hospodin, od tohoto času až na věky.
 
 ### Chapter 60
 
@@ -39210,7 +39210,7 @@
 
 **[60:21]** Lid také tvůj, kteříž by koli byli spravedliví, na věky dědičně obdrží zemi, výstřelek štípení mého, dílo rukou mých, abych v něm oslavován byl.
 
-**[60:22]** Samotný rozmnoží se v tisíce, a nejšpatnější v národ nesčíslný, já Hospodin časem svým brzo způsobím to. 
+**[60:22]** Samotný rozmnoží se v tisíce, a nejšpatnější v národ nesčíslný, já Hospodin časem svým brzo způsobím to.
 
 ### Chapter 61
 
@@ -39234,7 +39234,7 @@
 
 **[61:10]** Velice se budu radovati v Hospodinu, a plésati bude duše má v Bohu mém; nebo mne oblékl v roucho spasení, a pláštěm spravedlnosti přioděl mne jako ženicha, kterýž se strojí ozdobně, a jako nevěstu okrašlující se ozdobami svými.
 
-**[61:11]** Nebo jakož země vydává zrostlinu svou, a jakož zahrada símě své vyvodí, tak Panovník Hospodin vyvede spravedlnost a chválu přede všemi národy. 
+**[61:11]** Nebo jakož země vydává zrostlinu svou, a jakož zahrada símě své vyvodí, tak Panovník Hospodin vyvede spravedlnost a chválu přede všemi národy.
 
 ### Chapter 62
 
@@ -39260,7 +39260,7 @@
 
 **[62:11]** Aj, Hospodin rozkáže provolati až do končin země: Rcetež dceři Sionské: Aj, Spasitel tvůj béře se, aj, mzda jeho s ním, a dílo jeho před ním.
 
-**[62:12]** I nazovou syny tvé lidem svatým, vykoupenými Hospodinovými, ty pak slouti budeš městem vzácným a neopuštěným. 
+**[62:12]** I nazovou syny tvé lidem svatým, vykoupenými Hospodinovými, ty pak slouti budeš městem vzácným a neopuštěným.
 
 ### Chapter 63
 
@@ -39300,7 +39300,7 @@
 
 **[63:18]** Nejšpatnější vládne lidem svatosti tvé, nepřátelé naši pošlapali svatyni tvou.
 
-**[63:19]** My tvoji jsme od věků; nad nimi jsi nikdy nepanoval, aniž nad nimi jméno tvé vzýváno jest. 
+**[63:19]** My tvoji jsme od věků; nad nimi jsi nikdy nepanoval, aniž nad nimi jméno tvé vzýváno jest.
 
 ### Chapter 64
 
@@ -39326,7 +39326,7 @@
 
 **[64:11]** Dům svatosti naší a okrasy naší, v kterémž tě chválívali otcové naši, ohněm zkažen, a cožkoli jsme měli nejvzácnějšího, jest popléněno.
 
-**[64:12]** I zdaliž pro ty věci, Hospodine, se zdržíš? Mlčeti a nás tak velmi trápiti budeš? 
+**[64:12]** I zdaliž pro ty věci, Hospodine, se zdržíš? Mlčeti a nás tak velmi trápiti budeš?
 
 ### Chapter 65
 
@@ -39378,7 +39378,7 @@
 
 **[65:24]** Nadto stane se, že prvé než volati budou, já se ohlásím; ještě mluviti budou, a já vyslyším.
 
-**[65:25]** Vlk s beránkem budou se pásti spolu, a lev jako vůl bude jísti plevy, hadu pak za pokrm bude prach. Neuškodíť, aniž zahubí na vší mé hoře svaté, praví Hospodin. 
+**[65:25]** Vlk s beránkem budou se pásti spolu, a lev jako vůl bude jísti plevy, hadu pak za pokrm bude prach. Neuškodíť, aniž zahubí na vší mé hoře svaté, praví Hospodin.
 
 ### Chapter 66
 
@@ -39428,7 +39428,7 @@
 
 **[66:23]** I stane se, že od novměsíce do novměsíce, od soboty do soboty přicházeti bude všeliké tělo, aby se klanělo přede mnou, praví Hospodin.
 
-**[66:24]** A vyjdouce, uzří těla mrtvá lidí těch, kteříž se mi zpronevěřili; nebo červ jejich neumře, a oheň jejich neuhasne. I budouť v ošklivosti všelikému tělu.  
+**[66:24]** A vyjdouce, uzří těla mrtvá lidí těch, kteříž se mi zpronevěřili; nebo červ jejich neumře, a oheň jejich neuhasne. I budouť v ošklivosti všelikému tělu.
 
 ## Jeremiah
 
@@ -39470,7 +39470,7 @@
 
 **[1:18]** Nebo aj, já postavuji tě dnes jako město hrazené, a jako sloup železný, a jako zdi měděné proti vší této zemi, proti králům Judským, proti knížatům jejím, proti kněžím jejím, a lidu země této.
 
-**[1:19]** Kteříž bojovati budou proti tobě, ale neodolají proti tobě. Nebo já jsem s tebou, praví Hospodin, abych tě vysvobozoval. 
+**[1:19]** Kteříž bojovati budou proti tobě, ale neodolají proti tobě. Nebo já jsem s tebou, praví Hospodin, abych tě vysvobozoval.
 
 ### Chapter 2
 
@@ -39546,7 +39546,7 @@
 
 **[2:36]** Proč tak běháš, proměňujíc cestu svou? Jakož jsi zahanbena od Assyrských, tak i od Egyptských zahanbena budeš.
 
-**[2:37]** Také odtud vyjdeš, a ruce tvé budou nad hlavou tvou; nebo zamítá Hospodin troštování tvá, a nepovedeť se šťastně v nich. 
+**[2:37]** Také odtud vyjdeš, a ruce tvé budou nad hlavou tvou; nebo zamítá Hospodin troštování tvá, a nepovedeť se šťastně v nich.
 
 ### Chapter 3
 
@@ -39598,7 +39598,7 @@
 
 **[3:24]** Nebo ohavnost ta zžírala práci otců našich od dětinství našeho, bravy jejich i skoty jejich, syny jejich i dcery jejich.
 
-**[3:25]** Ležíme v hanbě své, a přikrývá nás pohanění naše, že jsme proti Hospodinu Bohu svému hřešili, my i otcové naši, od dětinství svého až do dne tohoto, a neposlouchali jsme hlasu Hospodina Boha svého. 
+**[3:25]** Ležíme v hanbě své, a přikrývá nás pohanění naše, že jsme proti Hospodinu Bohu svému hřešili, my i otcové naši, od dětinství svého až do dne tohoto, a neposlouchali jsme hlasu Hospodina Boha svého.
 
 ### Chapter 4
 
@@ -39662,7 +39662,7 @@
 
 **[4:30]** Ty pak pohubena jsuc, což činiti budeš? Ačkoli obláčíš se v šarlat, ačkoli se ozdobuješ ozdobou zlatou, ačkoli líčíš tvář svou líčidlem, darmo se okrašluješ. Pohrdají tebou frejíři, bezživotí tvého hledají.
 
-**[4:31]** Nebo slyším hlas jako rodičky, svírání jako té, kteráž po nejprvé ku porodu pracuje, hlas dcery Sionské, ustavičně vzdychající, a lomící rukama svýma, říkající: Běda mně nyní, nebo ustala duše má pro vrahy. 
+**[4:31]** Nebo slyším hlas jako rodičky, svírání jako té, kteráž po nejprvé ku porodu pracuje, hlas dcery Sionské, ustavičně vzdychající, a lomící rukama svýma, říkající: Běda mně nyní, nebo ustala duše má pro vrahy.
 
 ### Chapter 5
 
@@ -39726,7 +39726,7 @@
 
 **[5:30]** Věc užasnutí hodná a hrozná děje se v zemi této.
 
-**[5:31]** Proroci prorokují lživě, a kněží panují skrze ně, a lid můj miluje to. Čeho byste pak neučinili naposledy? 
+**[5:31]** Proroci prorokují lživě, a kněží panují skrze ně, a lid můj miluje to. Čeho byste pak neučinili naposledy?
 
 ### Chapter 6
 
@@ -39788,7 +39788,7 @@
 
 **[6:29]** Prahnou měchy, od ohně mizí olovo, nadarmo ustavičně přepaluje zlatník; nebo zlé věci nemohou býti odděleny.
 
-**[6:30]** Stříbrem falešným nazovou je, nebo Hospodin zavrhl je. 
+**[6:30]** Stříbrem falešným nazovou je, nebo Hospodin zavrhl je.
 
 ### Chapter 7
 
@@ -39858,7 +39858,7 @@
 
 **[7:33]** I budou mrtvá těla lidu tohoto za pokrm ptactvu nebeskému a šelmám zemským, a nebude žádného, kdo by odstrašil.
 
-**[7:34]** Způsobím také, aby přestal v městech Judských a v ulicích Jeruzalémských hlas radosti a hlas veselé, hlas ženicha a hlas nevěsty; nebo pustinou učiněna bude země. 
+**[7:34]** Způsobím také, aby přestal v městech Judských a v ulicích Jeruzalémských hlas radosti a hlas veselé, hlas ženicha a hlas nevěsty; nebo pustinou učiněna bude země.
 
 ### Chapter 8
 
@@ -39904,7 +39904,7 @@
 
 **[8:21]** Pro potření dcery lidu mého potřín jsem, smutek nesu, užasnutí podjalo mne.
 
-**[8:22]** Což není žádného lékařství v Galád? Což není žádného lékaře tam? Proč tedy není zhojena dcera lidu mého? 
+**[8:22]** Což není žádného lékařství v Galád? Což není žádného lékaře tam? Proč tedy není zhojena dcera lidu mého?
 
 ### Chapter 9
 
@@ -39958,7 +39958,7 @@
 
 **[9:25]** Aj, dnové jdou, praví Hospodin, v nichž navštívím každého, obřezaného i neobřezaného,
 
-**[9:26]** Egyptské i Judské, a Idumejské i Ammonitské, a Moábské, i všecky, kteříž v nejzadnějším koutě bydlí na poušti. Nebo ti všickni národové jsou neobřezaní, tolikéž všecken dům Izraelský jest neobřezaného srdce. 
+**[9:26]** Egyptské i Judské, a Idumejské i Ammonitské, a Moábské, i všecky, kteříž v nejzadnějším koutě bydlí na poušti. Nebo ti všickni národové jsou neobřezaní, tolikéž všecken dům Izraelský jest neobřezaného srdce.
 
 ### Chapter 10
 
@@ -40010,7 +40010,7 @@
 
 **[10:24]** Kárej mne, Hospodine, však milostivě, ne v hněvě svém, abys nesetřel mne.
 
-**[10:25]** Vylí hněv svůj na ty národy, kteříž tebe neznají, a na rodiny, kteréž jména tvého nevzývají; nebo zžírají Jákoba, a tak zžírají jej, aby jej všeho sežrali, a obydlí jeho v poustku obrátili. 
+**[10:25]** Vylí hněv svůj na ty národy, kteříž tebe neznají, a na rodiny, kteréž jména tvého nevzývají; nebo zžírají Jákoba, a tak zžírají jej, aby jej všeho sežrali, a obydlí jeho v poustku obrátili.
 
 ### Chapter 11
 
@@ -40058,7 +40058,7 @@
 
 **[11:22]** Protož takto praví Hospodin zástupů: Aj, já navštívím je. Mládenci zbiti budou mečem, synové jejich i dcery jejich zemrou hladem,
 
-**[11:23]** A nebudou míti potomků, když uvedu zlé na Anatotské, času toho, v němž je navštívím. 
+**[11:23]** A nebudou míti potomků, když uvedu zlé na Anatotské, času toho, v němž je navštívím.
 
 ### Chapter 12
 
@@ -40094,7 +40094,7 @@
 
 **[12:16]** Stane se také, jestliže by se pilně učili cestám lidu mého, a přisahali by ve jménu mém, říkajíce: Živť jest Hospodin, jakž oni učívali lid můj přisahati skrze Bále, že vzděláni budou u prostřed lidu mého.
 
-**[12:17]** Jestliže by pak neposlouchali, tedy pléniti budu národ ten ustavičně a hubiti, dí Hospodin. 
+**[12:17]** Jestliže by pak neposlouchali, tedy pléniti budu národ ten ustavičně a hubiti, dí Hospodin.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:26]** A tak i já také odkryji podolek tvůj nad hlavu tvou, aby spatřína byla hanba tvá,
 
-**[13:27]** Cizoložství tvá, a řehtání tvá, nešlechetná smilství tvá, na pahrbcích i na poli. Vidělť jsem ty ohavnosti tvé; běda tobě, Jeruzaléme. A což se ještě neočistíš? I až dokud pak? 
+**[13:27]** Cizoložství tvá, a řehtání tvá, nešlechetná smilství tvá, na pahrbcích i na poli. Vidělť jsem ty ohavnosti tvé; běda tobě, Jeruzaléme. A což se ještě neočistíš? I až dokud pak?
 
 ### Chapter 14
 
@@ -40196,7 +40196,7 @@
 
 **[14:21]** Nezamítejž pro jméno své, nezlehčuj stolice slávy své; rozpomeň se, neruš smlouvy své s námi.
 
-**[14:22]** Zdaliž jsou mezi marnostmi pohanskými ti, kteříž by déšť dávali? A zdaliž nebesa dávají přívaly? Zdaliž ty nejsi sám, Hospodine, Bůh náš? Protož na tebeť očekáváme, nebo ty působíš všecko to. 
+**[14:22]** Zdaliž jsou mezi marnostmi pohanskými ti, kteříž by déšť dávali? A zdaliž nebesa dávají přívaly? Zdaliž ty nejsi sám, Hospodine, Bůh náš? Protož na tebeť očekáváme, nebo ty působíš všecko to.
 
 ### Chapter 15
 
@@ -40240,7 +40240,7 @@
 
 **[15:20]** Nebo jsem tě postavil proti lidu tomuto jako zed měděnou pevnou. Kteříž bojovati budou proti tobě, ale neodolají tobě; nebo já jsem s tebou, abych tě vysvobozoval a vytrhoval, dí Hospodin.
 
-**[15:21]** Vytrhnu tě zajisté z rukou nešlechetníků, a vykoupím tě z ruky násilníků. 
+**[15:21]** Vytrhnu tě zajisté z rukou nešlechetníků, a vykoupím tě z ruky násilníků.
 
 ### Chapter 16
 
@@ -40284,7 +40284,7 @@
 
 **[16:20]** Zdaliž udělá sobě člověk bohy, poněvadž sami nejsou bohové?
 
-**[16:21]** Protož aj, já způsobím to, aby poznali té chvíle, způsobím, aby poznali ruku mou i moc mou, a zvědíť, že jméno mé jest Hospodin. 
+**[16:21]** Protož aj, já způsobím to, aby poznali té chvíle, způsobím, aby poznali ruku mou i moc mou, a zvědíť, že jméno mé jest Hospodin.
 
 ### Chapter 17
 
@@ -40340,7 +40340,7 @@
 
 **[17:26]** I budou přicházeti z měst Judských a z okolí Jeruzaléma, jakož z země Beniaminovy, tak z roviny, i z té hory, i od poledne, nesouce zápal, a obět i dar s kadidlem, také i díků činění nesouce do domu Hospodinova.
 
-**[17:27]** Jestliže pak neuposlechnete mne, abyste světili den sobotní, a nenosili břemen, chodíce skrze brány Jeruzalémské v den sobotní, tedy zanítím oheň v branách jeho, kterýžto zžíře paláce Jeruzalémské, a neuhasne. 
+**[17:27]** Jestliže pak neuposlechnete mne, abyste světili den sobotní, a nenosili břemen, chodíce skrze brány Jeruzalémské v den sobotní, tedy zanítím oheň v branách jeho, kterýžto zžíře paláce Jeruzalémské, a neuhasne.
 
 ### Chapter 18
 
@@ -40388,7 +40388,7 @@
 
 **[18:22]** Nechť jest slýchati křik z domů jejich, když přivedeš na ně vojsko náhle. Nebo vykopali jámu, aby popadli mne, a osídla polékli nohám mým;
 
-**[18:23]** Ješto ty, Hospodine, povědom jsi vší rady jejich o mém usmrcení. Nebuď milostiv nepravosti jejich, a hříchu jejich před tváří svou neshlazuj, ale nechť jsou k úrazu dostrčeni před oblíčejem tvým, a v čas prchlivosti své s nimi zacházej. 
+**[18:23]** Ješto ty, Hospodine, povědom jsi vší rady jejich o mém usmrcení. Nebuď milostiv nepravosti jejich, a hříchu jejich před tváří svou neshlazuj, ale nechť jsou k úrazu dostrčeni před oblíčejem tvým, a v čas prchlivosti své s nimi zacházej.
 
 ### Chapter 19
 
@@ -40420,7 +40420,7 @@
 
 **[19:14]** Tedy navrátiv se Jeremiáš z Tofet, kamž jej byl poslal Hospodin, aby prorokoval tam, postavil se v síňci domu Hospodinova, a řekl ke všemu lidu:
 
-**[19:15]** Takto praví Hospodin zástupů, Bůh Izraelský: Aj, já uvedu na město toto i na všecka města jeho všecko to zlé, kteréž jsem vyřkl proti němu; nebo zatvrdili šíji svou, aby neposlouchali slov mých. 
+**[19:15]** Takto praví Hospodin zástupů, Bůh Izraelský: Aj, já uvedu na město toto i na všecka města jeho všecko to zlé, kteréž jsem vyřkl proti němu; nebo zatvrdili šíji svou, aby neposlouchali slov mých.
 
 ### Chapter 20
 
@@ -40458,7 +40458,7 @@
 
 **[20:17]** Ó že mne neusmrtil od života, ješto by mi matka má byla hrobem mým, a život její věčně těhotný.
 
-**[20:18]** Proč jsem jen z života vyšel, abych okoušel těžkosti a zámutku, a aby stráveni byli v pohanění dnové moji? 
+**[20:18]** Proč jsem jen z života vyšel, abych okoušel těžkosti a zámutku, a aby stráveni byli v pohanění dnové moji?
 
 ### Chapter 21
 
@@ -40488,7 +40488,7 @@
 
 **[21:13]** Aj já, dí Hospodin, na tebe, kteráž přebýváš v údolí tomto, skálo roviny této, kteříž říkáte: Kdo by přitáhl na nás, aneb kdo by všel do příbytků našich?
 
-**[21:14]** Nebo trestati vás budu podlé skutků vašich, dí Hospodin, a zanítím oheň v lese tvém, kterýž zžíře všecko vůkol něho. 
+**[21:14]** Nebo trestati vás budu podlé skutků vašich, dí Hospodin, a zanítím oheň v lese tvém, kterýž zžíře všecko vůkol něho.
 
 ### Chapter 22
 
@@ -40550,7 +40550,7 @@
 
 **[22:29]** Ó země, země, země, slyš slovo Hospodinovo.
 
-**[22:30]** Takto praví Hospodin: Zapište to, že muž tento bez dětí bude, a že se jemu nepovede šťastně za dnů jeho. Anobrž nepovede se šťastně i tomu muži, kterýž by z semene jeho seděl na stolici Davidově, a panoval ještě nad Judou. 
+**[22:30]** Takto praví Hospodin: Zapište to, že muž tento bez dětí bude, a že se jemu nepovede šťastně za dnů jeho. Anobrž nepovede se šťastně i tomu muži, kterýž by z semene jeho seděl na stolici Davidově, a panoval ještě nad Judou.
 
 ### Chapter 23
 
@@ -40632,7 +40632,7 @@
 
 **[23:39]** Protož aj, já jistě zapomenu se na vás do konce, a zavrhu vás i to město, kteréž jsem byl dal vám i otcům vašim, od tváři své,
 
-**[23:40]** A uvedu na vás pohanění věčné i potupu věčnou, kteráž nepřijde v zapomenutí. 
+**[23:40]** A uvedu na vás pohanění věčné i potupu věčnou, kteráž nepřijde v zapomenutí.
 
 ### Chapter 24
 
@@ -40654,7 +40654,7 @@
 
 **[24:9]** Vydám je, pravím, v posmýkání k zlému po všech královstvích země, v pohanění a v přísloví, v rozprávku a v proklínání po všech těch místech, kamž je rozženu.
 
-**[24:10]** A budu posílati na ně meč, hlad a mor, dokudž by do konce vyhlazeni nebyli z země, kterouž jsem byl dal jim i otcům jejich. 
+**[24:10]** A budu posílati na ně meč, hlad a mor, dokudž by do konce vyhlazeni nebyli z země, kterouž jsem byl dal jim i otcům jejich.
 
 ### Chapter 25
 
@@ -40732,7 +40732,7 @@
 
 **[25:37]** Zkažena budou i pastviska pokoj mající, pro prchlivost hněvu Hospodinova,
 
-**[25:38]** Jako lev opustí jeskyni svou; nebo přijde země jejich na spuštění, pro prchlivost zhoubce a pro prchlivost hněvu jeho. 
+**[25:38]** Jako lev opustí jeskyni svou; nebo přijde země jejich na spuštění, pro prchlivost zhoubce a pro prchlivost hněvu jeho.
 
 ### Chapter 26
 
@@ -40782,7 +40782,7 @@
 
 **[26:23]** Kteříž vyvedše Uriáše z Egypta, přivedli jej k králi Joakimovi. I zabil jej mečem, a vhodil tělo jeho do hrobů lidu obecného.
 
-**[26:24]** A však ruka Achikamova syna Safanova byla při Jeremiášovi, aby ho nevydával v ruku lidu k usmrcení jeho. 
+**[26:24]** A však ruka Achikamova syna Safanova byla při Jeremiášovi, aby ho nevydával v ruku lidu k usmrcení jeho.
 
 ### Chapter 27
 
@@ -40828,7 +40828,7 @@
 
 **[27:21]** Takto zajisté dí Hospodin zástupů, Bůh Izraelský, o těch nádobách, pozůstávajících v domě Hospodinově a v domě krále Judského i v Jeruzalémě:
 
-**[27:22]** Do Babylona zavezeny budou, a tam budou až do dne toho, v němž je navštívím, dí Hospodin, a rozkáži je přivezti, a zase navrátím je na místo toto. 
+**[27:22]** Do Babylona zavezeny budou, a tam budou až do dne toho, v němž je navštívím, dí Hospodin, a rozkáži je přivezti, a zase navrátím je na místo toto.
 
 ### Chapter 28
 
@@ -40864,7 +40864,7 @@
 
 **[28:16]** Protož takto praví Hospodin: Aj, já sklidím tě se svrchku země, tento rok ty umřeš; nebo jsi mluvil to, čímž bys odvrátil lid od Hospodina.
 
-**[28:17]** I umřel Chananiáš prorok roku toho měsíce sedmého. 
+**[28:17]** I umřel Chananiáš prorok roku toho měsíce sedmého.
 
 ### Chapter 29
 
@@ -40930,7 +40930,7 @@
 
 **[29:31]** Pošli ke všechněm zajatým, řka: Takto praví Hospodin o Semaiášovi Nechelamitském: Proto že prorokuje vám Semaiáš, ješto jsem já ho neposlal, a přivodí vás k tomu, abyste doufání skládali ve lži,
 
-**[29:32]** Protož takto praví Hospodin: Aj, já trestati budu Semaiáše Nechelamitského i símě jeho. Nebude míti žádného, kdo by bydlil u prostřed lidu tohoto, aniž uzří toho dobrého, kteréž já učiním lidu svému, dí Hospodin; nebo mluvil to, čímž by odvrátil lid od Hospodina. 
+**[29:32]** Protož takto praví Hospodin: Aj, já trestati budu Semaiáše Nechelamitského i símě jeho. Nebude míti žádného, kdo by bydlil u prostřed lidu tohoto, aniž uzří toho dobrého, kteréž já učiním lidu svému, dí Hospodin; nebo mluvil to, čímž by odvrátil lid od Hospodina.
 
 ### Chapter 30
 
@@ -40980,7 +40980,7 @@
 
 **[30:23]** Aj, vicher Hospodinův s prchlivostí vyjde, vicher trvající nad hlavou nešlechetných trvati bude.
 
-**[30:24]** Neodvrátíť se prchlivost hněvu Hospodinova, dokudž neučiní toho, a dokudž nevykoná úmyslu srdce svého. Tehdáž porozumíte tomu. 
+**[30:24]** Neodvrátíť se prchlivost hněvu Hospodinova, dokudž neučiní toho, a dokudž nevykoná úmyslu srdce svého. Tehdáž porozumíte tomu.
 
 ### Chapter 31
 
@@ -41062,7 +41062,7 @@
 
 **[31:39]** A půjde ještě šňůra měřící naproti ní, ku pahrbku Gareb, a přitočí se k Gou.
 
-**[31:40]** A všecko údolí těl mrtvých a popela, i všecko to pole až ku potoku Cedron, až k úhlu brány východní koňské posvěcené bude Hospodinu; nebudeť pléněno, ani kaženo více na věky. 
+**[31:40]** A všecko údolí těl mrtvých a popela, i všecko to pole až ku potoku Cedron, až k úhlu brány východní koňské posvěcené bude Hospodinu; nebudeť pléněno, ani kaženo více na věky.
 
 ### Chapter 32
 
@@ -41152,7 +41152,7 @@
 
 **[32:43]** Tehdáž kupováno bude pole v zemi této, o níž vy říkáte: Pustá jest, tak že není v ní žádného člověka ani hovada, dánať jest v ruku Kaldejských.
 
-**[32:44]** Pole za peníze kupovati budou, a zapisovati do cedulí, a zpečetíce, svědky osvědčovati v zemi Beniaminově a vůkol Jeruzaléma v městech Judských, jakož v městech, kteráž jsou při horách, tak v městech na rovinách, a v městech poledních, když zase přivedu zajaté jejich, dí Hospodin. 
+**[32:44]** Pole za peníze kupovati budou, a zapisovati do cedulí, a zpečetíce, svědky osvědčovati v zemi Beniaminově a vůkol Jeruzaléma v městech Judských, jakož v městech, kteráž jsou při horách, tak v městech na rovinách, a v městech poledních, když zase přivedu zajaté jejich, dí Hospodin.
 
 ### Chapter 33
 
@@ -41206,7 +41206,7 @@
 
 **[33:25]** Takto praví Hospodin: Nebude-liť smlouva má se dnem a nocí, a ustanovení nebes i země zdržáno,
 
-**[33:26]** Také símě Jákobovo a Davida služebníka svého zavrhu, abych nebral z semene jeho těch, kteříž by panovati měli nad semenem Abrahamovým, Izákovým a Jákobovým, když zase přivedu zajaté jejich, a smiluji se nad nimi. 
+**[33:26]** Také símě Jákobovo a Davida služebníka svého zavrhu, abych nebral z semene jeho těch, kteříž by panovati měli nad semenem Abrahamovým, Izákovým a Jákobovým, když zase přivedu zajaté jejich, a smiluji se nad nimi.
 
 ### Chapter 34
 
@@ -41252,7 +41252,7 @@
 
 **[34:21]** Sedechiáše také krále Judského, i knížata jeho vydám v ruku nepřátel jejich, a v ruku hledajících bezživotí jejich, v ruku, pravím, vojska krále Babylonského, kteříž odtáhli od vás.
 
-**[34:22]** Aj, já přikáži, dí Hospodin, a přivedu je zase na město toto, aby bojovali proti němu, a vezmouce je, vypálili je ohněm; města také Judská obrátím v poušť, tak že nebude žádného obyvatele. 
+**[34:22]** Aj, já přikáži, dí Hospodin, a přivedu je zase na město toto, aby bojovali proti němu, a vezmouce je, vypálili je ohněm; města také Judská obrátím v poušť, tak že nebude žádného obyvatele.
 
 ### Chapter 35
 
@@ -41292,7 +41292,7 @@
 
 **[35:18]** Rodině pak Rechabitských řekl Jeremiáš: Takto praví Hospodin zástupů, Bůh Izraelský: Protože posloucháte přikázaní Jonadaba otce vašeho, a ostříháte všech přikázaní jeho, anobrž děláte všecko, jakž přikázal vám,
 
-**[35:19]** Protož takto praví Hospodin zástupů, Bůh Izraelský: Nebudeť vypléněn muž z rodu Jonadabova syna Rechabova, ješto by nestál před oblíčejem mým po všecky dny. 
+**[35:19]** Protož takto praví Hospodin zástupů, Bůh Izraelský: Nebudeť vypléněn muž z rodu Jonadabova syna Rechabova, ješto by nestál před oblíčejem mým po všecky dny.
 
 ### Chapter 36
 
@@ -41358,7 +41358,7 @@
 
 **[36:31]** Nebo trestati budu na něm, a na semeni jeho, i na služebnících jeho nepravost jejich, a uvedu na ně, a na obyvatele Jeruzalémské, i na muže Judské všecko to zlé, o kterémž jsem mluvíval jim, a neposlouchali.
 
-**[36:32]** I vzal Jeremiáš knihu jinou, a dal ji Báruchovi synu Neriášovu, písaři, kterýž sepsal do ní z úst Jeremiášových všecka slova té knihy, kterouž byl spálil Joakim král Judský ohněm. A ještě přidáno jest k těm slovům mnoho těm podobných. 
+**[36:32]** I vzal Jeremiáš knihu jinou, a dal ji Báruchovi synu Neriášovu, písaři, kterýž sepsal do ní z úst Jeremiášových všecka slova té knihy, kterouž byl spálil Joakim král Judský ohněm. A ještě přidáno jest k těm slovům mnoho těm podobných.
 
 ### Chapter 37
 
@@ -41402,7 +41402,7 @@
 
 **[37:20]** Nyní tedy slyš, žádám, pane můj králi, nechť, prosím, místo má před tebou pokorná prosba má; nedopouštěj mne zase voditi do domu Jonatana písaře, abych tam neumřel.
 
-**[37:21]** I přikázal král Sedechiáš, aby vsadili Jeremiáše do síně stráže, a dávali jemu pecník chleba na den z ulice pekařů, dokudž by nebyl vytráven všecken chléb v městě. A tak seděl Jeremiáš v síni stráže. 
+**[37:21]** I přikázal král Sedechiáš, aby vsadili Jeremiáše do síně stráže, a dávali jemu pecník chleba na den z ulice pekařů, dokudž by nebyl vytráven všecken chléb v městě. A tak seděl Jeremiáš v síni stráže.
 
 ### Chapter 38
 
@@ -41460,7 +41460,7 @@
 
 **[38:27]** I sešla se všecka knížata k Jeremiášovi, aby se ho tázali. Kterýžto oznámil jim podlé toho všeho, jakž přikázal král. Takž mlčkem odešli od něho, když nebylo slyšeti o té věci.
 
-**[38:28]** Jeremiáš pak seděl v síni stráže až do toho dne, v němž dobyt jest Jeruzalém, kdežto byl, když dobýván byl Jeruzalém. 
+**[38:28]** Jeremiáš pak seděl v síni stráže až do toho dne, v němž dobyt jest Jeruzalém, kdežto byl, když dobýván byl Jeruzalém.
 
 ### Chapter 39
 
@@ -41498,7 +41498,7 @@
 
 **[39:17]** Ale vysvobodím tě v ten den, dí Hospodin, aniž budeš vydán v ruku mužů těch, jejichž oblíčeje se lekáš.
 
-**[39:18]** Nebo jistotně vychvátím tě, abys od meče nepadl, a budeš míti život svůj místo kořisti, proto že jsi naději složil ve mně, dí Hospodin. 
+**[39:18]** Nebo jistotně vychvátím tě, abys od meče nepadl, a budeš míti život svůj místo kořisti, proto že jsi naději složil ve mně, dí Hospodin.
 
 ### Chapter 40
 
@@ -41532,7 +41532,7 @@
 
 **[40:15]** Nadto Jochanan syn Kareachův řekl Godoliášovi tajně v Masfa, řka: Nechť jdu medle, a zabiji Izmaele syna Netaniášova, však žádný nezví. Proč má zabiti tebe, a mají rozptýleni býti všickni Judští, kteříž shromážděni jsou k tobě, a zahynouti ostatek Judských?
 
-**[40:16]** Ale řekl Godoliáš syn Achikamův Jochananovi synu Kareachovu: Nečiň toho, nebo lež ty mluvíš o Izmaelovi. 
+**[40:16]** Ale řekl Godoliáš syn Achikamův Jochananovi synu Kareachovu: Nečiň toho, nebo lež ty mluvíš o Izmaelovi.
 
 ### Chapter 41
 
@@ -41570,7 +41570,7 @@
 
 **[41:17]** A odšedše, pobyli v hospodě Chimhamově, kteráž jest u Betléma, aby jdouce, vešli do Egypta,
 
-**[41:18]** Před Kaldejskými. Nebo báli se jich, proto že zabil Izmael syn Netaniášův Godoliáše syna Achikamova, kteréhož byl ustanovil král Babylonský nad tou zemí. 
+**[41:18]** Před Kaldejskými. Nebo báli se jich, proto že zabil Izmael syn Netaniášův Godoliáše syna Achikamova, kteréhož byl ustanovil král Babylonský nad tou zemí.
 
 ### Chapter 42
 
@@ -41616,7 +41616,7 @@
 
 **[42:21]** Když pak oznamuji vám dnes, však neposloucháte hlasu Hospodina Boha vašeho hned v ničemž, pročež mne k vám poslal:
 
-**[42:22]** Protož pravím, vězte jistotně, že mečem, hladem a morem pomřete v tom místě, kamž se vám zachtělo jíti, abyste tam byli pohostinu. 
+**[42:22]** Protož pravím, vězte jistotně, že mečem, hladem a morem pomřete v tom místě, kamž se vám zachtělo jíti, abyste tam byli pohostinu.
 
 ### Chapter 43
 
@@ -41644,7 +41644,7 @@
 
 **[43:12]** A zanítím oheň v domích bohů Egyptských, aby je popálil, a zajal je. A přioděje se zemí Egyptskou, tak jako se odívá pastýř rouchem svým, a vyjde odtud s pokojem,
 
-**[43:13]** Když poláme sochy Betsemes, kteréž jest v zemi Egyptské, a domy bohů Egyptských popálí ohněm. 
+**[43:13]** Když poláme sochy Betsemes, kteréž jest v zemi Egyptské, a domy bohů Egyptských popálí ohněm.
 
 ### Chapter 44
 
@@ -41706,7 +41706,7 @@
 
 **[44:29]** A toto mějte za znamení, dí Hospodin, že já trestati budu vás v místě tomto, abyste věděli, že jistotně ostojí slova má proti vám k zlému.
 
-**[44:30]** Takto praví Hospodin: Aj, já vydám Faraona Chofra krále Egyptského v ruku nepřátel jeho a v ruku hledajících bezživotí jeho, jako jsem vydal Sedechiáše krále Judského v ruku Nabuchodonozora krále Babylonského, nepřítele jeho, a hledajícího bezživotí jeho. 
+**[44:30]** Takto praví Hospodin: Aj, já vydám Faraona Chofra krále Egyptského v ruku nepřátel jeho a v ruku hledajících bezživotí jeho, jako jsem vydal Sedechiáše krále Judského v ruku Nabuchodonozora krále Babylonského, nepřítele jeho, a hledajícího bezživotí jeho.
 
 ### Chapter 45
 
@@ -41718,7 +41718,7 @@
 
 **[45:4]** Takto rci jemu: Takto praví Hospodin: Aj, což jsem vystavěl, já bořím, a což jsem vštípil, já pléním, totiž všecku zemi tuto.
 
-**[45:5]** A ty bys hledal sobě velikých věcí? Nehledej. Nebo aj, já uvedu bídu na všeliké tělo, dí Hospodin, ale dám tobě život tvůj místo kořisti na všech místech, kamž půjdeš. 
+**[45:5]** A ty bys hledal sobě velikých věcí? Nehledej. Nebo aj, já uvedu bídu na všeliké tělo, dí Hospodin, ale dám tobě život tvůj místo kořisti na všech místech, kamž půjdeš.
 
 ### Chapter 46
 
@@ -41776,7 +41776,7 @@
 
 **[46:27]** Ale ty neboj se, služebníče můj Jákobe, aniž se strachuj, ó Izraeli; nebo aj, já vysvobodím tě zdaleka, i símě tvé z země zajetí jejich. I navrátí se Jákob, aby odpočíval a pokoj měl, a aby nebylo žádného, kdo by předěsil.
 
-**[46:28]** Ty, pravím, neboj se, služebníče můj Jákobe, dí Hospodin; neboť jsem s tebou. Učiním zajisté konec všechněm národům, mezi kteréž tě zaženu, tobě pak neučiním konce, ale budu tě trestati v soudu, ačkoli tě naprosto bez trestání nenechám. 
+**[46:28]** Ty, pravím, neboj se, služebníče můj Jákobe, dí Hospodin; neboť jsem s tebou. Učiním zajisté konec všechněm národům, mezi kteréž tě zaženu, tobě pak neučiním konce, ale budu tě trestati v soudu, ačkoli tě naprosto bez trestání nenechám.
 
 ### Chapter 47
 
@@ -41792,7 +41792,7 @@
 
 **[47:6]** Ach, meči Hospodinův, dokudž se nespokojíš? Navrať se do pošvy své, utiš se, a zastav se.
 
-**[47:7]** I jakž by se spokojil? Však Hospodin přikázal jemu. Proti Aškalon a proti břehu mořskému, tam postavil jej. 
+**[47:7]** I jakž by se spokojil? Však Hospodin přikázal jemu. Proti Aškalon a proti břehu mořskému, tam postavil jej.
 
 ### Chapter 48
 
@@ -41888,7 +41888,7 @@
 
 **[48:46]** Běda tobě, Moábe, zahyneť lid Chámosův; nebo pobráni budou synové tvoji do zajetí, i dcery tvé do zajetí.
 
-**[48:47]** A však zase přivedu zajaté Moábské v posledních dnech, dí Hospodin. Až potud soud o Moábovi. 
+**[48:47]** A však zase přivedu zajaté Moábské v posledních dnech, dí Hospodin. Až potud soud o Moábovi.
 
 ### Chapter 49
 
@@ -41968,7 +41968,7 @@
 
 **[49:38]** I postavím stolici svou mezi Elamitskými, a vypléním odtud krále i knížata, praví Hospodin.
 
-**[49:39]** A však stane se v posledních dnech, že zase přivedu zajaté Elamitské, dí Hospodin. 
+**[49:39]** A však stane se v posledních dnech, že zase přivedu zajaté Elamitské, dí Hospodin.
 
 ### Chapter 50
 
@@ -42062,7 +42062,7 @@
 
 **[50:45]** Protož slyšte radu Hospodinovu, kterouž zavřel o Babylonu, a to, což myslil proti zemi Kaldejské: Zajisté žeť je vyvlekou nejmenší tohoto stáda, zajisté že je popléní i příbytek jejich.
 
-**[50:46]** Od zvuku při dobývání Babylona třásti se bude ta země, a křik mezi národy slyšán bude. 
+**[50:46]** Od zvuku při dobývání Babylona třásti se bude ta země, a křik mezi národy slyšán bude.
 
 ### Chapter 51
 
@@ -42192,7 +42192,7 @@
 
 **[51:63]** Když pak do konce přečteš knihu tuto, přivaž k ní kámen, a hoď ji do prostřed Eufrates,
 
-**[51:64]** A rci: Tak potopen bude Babylon, a nepovstane z toho zlého, kteréž já uvedu na něj, ačkoli ustávati budou. Až potud slova Jeremiášova. 
+**[51:64]** A rci: Tak potopen bude Babylon, a nepovstane z toho zlého, kteréž já uvedu na něj, ačkoli ustávati budou. Až potud slova Jeremiášova.
 
 ### Chapter 52
 
@@ -42262,7 +42262,7 @@
 
 **[52:33]** Změnil též roucho jeho, kteréž měl v žaláři, a jídal chléb před ním vždycky, po všecky dny života svého.
 
-**[52:34]** Nebo vyměřený pokrm ustavičně dáván byl jemu od krále Babylonského, a to na každý den, až do dne smrti jeho, po všecky dny života jeho.  
+**[52:34]** Nebo vyměřený pokrm ustavičně dáván byl jemu od krále Babylonského, a to na každý den, až do dne smrti jeho, po všecky dny života jeho.
 
 ## Lamentations
 
@@ -42310,7 +42310,7 @@
 
 **[1:21]** Slýchajíť, že já vzdychám, ale není žádného, kdo by mne potěšil. Všickni nepřátelé moji slyšíce o mých bídách, radují se, že jsi to učinil, a přivedl den předohlášený, ale budouť mně podobní.
 
-**[1:22]** Nechť přijde všecka nešlechetnost jejich před oblíčej tvůj, a učiň jim, jakož jsi učinil mně pro všecka přestoupení má; neboť jsou mnohá úpění má, a srdce mé neduživé. 
+**[1:22]** Nechť přijde všecka nešlechetnost jejich před oblíčej tvůj, a učiň jim, jakož jsi učinil mně pro všecka přestoupení má; neboť jsou mnohá úpění má, a srdce mé neduživé.
 
 ### Chapter 2
 
@@ -42356,7 +42356,7 @@
 
 **[2:21]** Leží na zemi po ulicích mladý i starý, panny mé i mládenci moji padli od meče, zmordoval jsi je, a zbil v den prchlivosti své bez lítosti.
 
-**[2:22]** Svolal jsi jako ke dni slavnosti z vůkolí ty, jichž se velice straším, a nebylo v den prchlivosti Hospodinovy, kdo by ušel neb pozůstal. Kteréž jsem na rukou pěstovala a vychovala, ty nepřítel můj do konce zhubil. 
+**[2:22]** Svolal jsi jako ke dni slavnosti z vůkolí ty, jichž se velice straším, a nebylo v den prchlivosti Hospodinovy, kdo by ušel neb pozůstal. Kteréž jsem na rukou pěstovala a vychovala, ty nepřítel můj do konce zhubil.
 
 ### Chapter 3
 
@@ -42490,7 +42490,7 @@
 
 **[3:65]** Dej jim zatvrdilé srdce a prokletí své na ně.
 
-**[3:66]** Stihej v prchlivosti, a vyhlaď je, ať nejsou pod nebem tvým. 
+**[3:66]** Stihej v prchlivosti, a vyhlaď je, ať nejsou pod nebem tvým.
 
 ### Chapter 4
 
@@ -42536,7 +42536,7 @@
 
 **[4:21]** Raduj se a vesel se, dcero Idumejská, kteráž jsi se usadila v zemi Uz. Takéť k tobě přijde kalich, opiješ se a obnažíš se.
 
-**[4:22]** Ó dcero Sionská, když vykonána bude kázeň nepravosti tvé, nenechá tě déle v zajetí tvém. Ale tvou nepravost, ó dcero Idumejská, trestati bude a odkryje hříchy tvé. 
+**[4:22]** Ó dcero Sionská, když vykonána bude kázeň nepravosti tvé, nenechá tě déle v zajetí tvém. Ale tvou nepravost, ó dcero Idumejská, trestati bude a odkryje hříchy tvé.
 
 ### Chapter 5
 
@@ -42582,7 +42582,7 @@
 
 **[5:21]** Obrať nás, ó Hospodine, k sobě, a obráceni budeme; obnov dny naše, jakž byly za starodávna.
 
-**[5:22]** Nebo zdali všelijak zavržeš nás, a hněvati se budeš na nás velice?  
+**[5:22]** Nebo zdali všelijak zavržeš nás, a hněvati se budeš na nás velice?
 
 ## Ezekiel
 
@@ -42642,7 +42642,7 @@
 
 **[1:27]** I viděl jsem na pohledění jako velmi prudkou světlost, a u vnitřku jejím vůkol na pohledění jako oheň, od bedr jeho vzhůru; od bedr pak jeho dolů viděl jsem na pohledění jako oheň, a blesk vůkol něho.
 
-**[1:28]** Na pohledění jako duha, kteráž bývá na oblace v čas deště, takový na pohledění byl blesk vůkol. To bylo vidění podobenství slávy Hospodinovy. Kteréžto viděv, padl jsem na tvář svou, a slyšel jsem hlas mluvícího. 
+**[1:28]** Na pohledění jako duha, kteráž bývá na oblace v čas deště, takový na pohledění byl blesk vůkol. To bylo vidění podobenství slávy Hospodinovy. Kteréžto viděv, padl jsem na tvář svou, a slyšel jsem hlas mluvícího.
 
 ### Chapter 2
 
@@ -42664,7 +42664,7 @@
 
 **[2:9]** I viděl jsem, a aj, ruka vztažena byla ke mně, a aj, v ní svinutá kniha.
 
-**[2:10]** Kteroužto rozvinul přede mnou, a byla popsaná s předu i z zadu, a bylo v ní psáno naříkání, kvílení a běda. 
+**[2:10]** Kteroužto rozvinul přede mnou, a byla popsaná s předu i z zadu, a bylo v ní psáno naříkání, kvílení a běda.
 
 ### Chapter 3
 
@@ -42720,7 +42720,7 @@
 
 **[3:26]** A já učiním, aby jazyk tvůj přilnul k dásním tvým, a abys oněměl, a nebyl jim mužem domlouvajícím, protože dům zpurný jsou.
 
-**[3:27]** Ale když mluviti budu s tebou, otevru ústa tvá, a díš jim: Takto praví Panovník Hospodin: Kdo slyšeti chce, nechť slyší, a kdo nechce, nechť nechá, že dům zpurný jsou. 
+**[3:27]** Ale když mluviti budu s tebou, otevru ústa tvá, a díš jim: Takto praví Panovník Hospodin: Kdo slyšeti chce, nechť slyší, a kdo nechce, nechť nechá, že dům zpurný jsou.
 
 ### Chapter 4
 
@@ -42756,7 +42756,7 @@
 
 **[4:16]** Za tím řekl mi: Synu člověčí, aj, já zlámi hůl chleba v Jeruzalémě, tak že jísti budou chléb na váhu, a to s zámutkem, a vodu na míru píti, a to s předěšením,
 
-**[4:17]** Aby nedostatek majíce v chlebě a v vodě, děsili se jeden každý z nich, a svadli pro nepravost svou. 
+**[4:17]** Aby nedostatek majíce v chlebě a v vodě, děsili se jeden každý z nich, a svadli pro nepravost svou.
 
 ### Chapter 5
 
@@ -42792,7 +42792,7 @@
 
 **[5:16]** Tehdáš když vystřelím jízlivé střely hladu k záhubě vaší, kteréž vystřelím, abych vás vyhubil, a hlad shromáždě proti vám, zlámi vám hůl chleba.
 
-**[5:17]** Pošli zajisté na vás hlad a zvěř lítou, kteráž tě na sirobu přivede; i mor a krev přijde na tebe, když uvedu na tě meč. Já Hospodin mluvil jsem. 
+**[5:17]** Pošli zajisté na vás hlad a zvěř lítou, kteráž tě na sirobu přivede; i mor a krev přijde na tebe, když uvedu na tě meč. Já Hospodin mluvil jsem.
 
 ### Chapter 6
 
@@ -42822,7 +42822,7 @@
 
 **[6:13]** A zvíte, že já jsem Hospodin, když budou zbití jejich u prostřed ukydaných bohů jejich vůkol oltářů jejich, na všelikém pahrbku vysokém, na všech vrších hor, a pod všelikým dřevem zeleným, i pod všelikým dubem hustým, na kterémkoli místě obětovávali vůni libou všelikým ukydaným bohům svým.
 
-**[6:14]** Nebo vztáhnu ruku svou na ně, a učiním zemi tuto zpustlou, zpustlejší než poušť Diblat, po všech obydlích jejich. I zvědí, že já jsem Hospodin. 
+**[6:14]** Nebo vztáhnu ruku svou na ně, a učiním zemi tuto zpustlou, zpustlejší než poušť Diblat, po všech obydlích jejich. I zvědí, že já jsem Hospodin.
 
 ### Chapter 7
 
@@ -42878,7 +42878,7 @@
 
 **[7:26]** Bída za bídou přijde, a novina bude za novinou, i budou hledati vidění od proroka, ale zákon zahyne od kněze, a rada od starců.
 
-**[7:27]** Král ustavičně kvíliti bude, a kníže obleče se v smutek, a ruce lidu v zemi předěšeny budou. Podlé cesty jejich učiním jim, a podlé soudů jejich souditi je budu. I zvědí, že já jsem Hospodin. 
+**[7:27]** Král ustavičně kvíliti bude, a kníže obleče se v smutek, a ruce lidu v zemi předěšeny budou. Podlé cesty jejich učiním jim, a podlé soudů jejich souditi je budu. I zvědí, že já jsem Hospodin.
 
 ### Chapter 8
 
@@ -42916,7 +42916,7 @@
 
 **[8:17]** I řekl mi: Viděl-lis, synu člověčí? Zdali lehká věc jest domu Judovu, aby činili ohavnosti tyto, kteréž činí zde? Nebo naplnivše zemi nátiskem, obrátili se, aby mne popouzeli, a aj, přičinějí ratolest vinnou k nosům svým.
 
-**[8:18]** Protož i já také učiním podlé prchlivosti; neslitujeť se oko mé, aniž se smiluji. I budou volati v uši mé hlasem velikým, a nevyslyším jich. 
+**[8:18]** Protož i já také učiním podlé prchlivosti; neslitujeť se oko mé, aniž se smiluji. I budou volati v uši mé hlasem velikým, a nevyslyším jich.
 
 ### Chapter 9
 
@@ -42940,7 +42940,7 @@
 
 **[9:10]** Protož já také cestu jejich na hlavu jejich obrátím; neodpustí oko mé, aniž se slituji.
 
-**[9:11]** A aj, muž oděný rouchem lněným, při jehož bedrách byl kalamář, oznámil to, řka: Učinil jsem, jakž jsi mi rozkázal. 
+**[9:11]** A aj, muž oděný rouchem lněným, při jehož bedrách byl kalamář, oznámil to, řka: Učinil jsem, jakž jsi mi rozkázal.
 
 ### Chapter 10
 
@@ -42986,7 +42986,7 @@
 
 **[10:21]** Po čtyřech tvářích měl jeden každý, a po čtyřech křídlích jeden každý; podobenství také rukou lidských pod křídly jejich.
 
-**[10:22]** Podobenství pak tváří jejich bylo jako tváří, kteréž jsem byl viděl u řeky Chebar, oblíčej jejich i oni sami. Jeden každý přímo k své straně chodil. 
+**[10:22]** Podobenství pak tváří jejich bylo jako tváří, kteréž jsem byl viděl u řeky Chebar, oblíčej jejich i oni sami. Jeden každý přímo k své straně chodil.
 
 ### Chapter 11
 
@@ -43038,7 +43038,7 @@
 
 **[11:24]** Duch pak vznesl mne, a zase mne přivedl do země Kaldejské k zajatým, u vidění skrze Ducha Božího. I odešlo ode mne vidění, kteréž jsem viděl.
 
-**[11:25]** A mluvil jsem k zajatým všecky ty věci Hospodinovy, kteréž mi ukázal. 
+**[11:25]** A mluvil jsem k zajatým všecky ty věci Hospodinovy, kteréž mi ukázal.
 
 ### Chapter 12
 
@@ -43096,7 +43096,7 @@
 
 **[12:27]** Synu člověčí, aj, dům Izraelský říkají: Vidění to, kteréž vidí tento, ke dnům mnohým patří, a na dlouhé časy tento prorokuje.
 
-**[12:28]** Protož rci jim: Takto praví Panovník Hospodin: Neprodlíť se dlouho všeliké slovo mé, ale slovo, kteréž mluviti budu, stane se, praví Panovník Hospodin. 
+**[12:28]** Protož rci jim: Takto praví Panovník Hospodin: Neprodlíť se dlouho všeliké slovo mé, ale slovo, kteréž mluviti budu, stane se, praví Panovník Hospodin.
 
 ### Chapter 13
 
@@ -43144,7 +43144,7 @@
 
 **[13:22]** Proto že kormoutíte srdce spravedlivého lžmi, ješto jsem já ho nekormoutil, a posilujete rukou bezbožného, aby se neodvrátil od zlé cesty své, obživujíce jej.
 
-**[13:23]** Protož nebudete vídati marnosti, a s hádáním nebudete se obírati více; nebo vytrhnu lid svůj z ruky vaší, i zvíte, že já jsem Hospodin. 
+**[13:23]** Protož nebudete vídati marnosti, a s hádáním nebudete se obírati více; nebo vytrhnu lid svůj z ruky vaší, i zvíte, že já jsem Hospodin.
 
 ### Chapter 14
 
@@ -43192,7 +43192,7 @@
 
 **[14:22]** A aj, pozůstali-li by v něm, kteříž by toho ušli, a vyvedeni byli, synové neb dcery: aj, i oni musejí jíti k vám, a uzříte cestu jejich a skutky jejich, i potěšíte se nad tím zlým, kteréž uvedu na Jeruzalém, nade vším, což uvedu na něj.
 
-**[14:23]** A tak potěší vás, když uzříte cestu jejich a skutky jejich. I zvíte, že jsem ne nadarmo učinil všecko to, což jsem učinil při něm, praví Panovník Hospodin. 
+**[14:23]** A tak potěší vás, když uzříte cestu jejich a skutky jejich. I zvíte, že jsem ne nadarmo učinil všecko to, což jsem učinil při něm, praví Panovník Hospodin.
 
 ### Chapter 15
 
@@ -43210,7 +43210,7 @@
 
 **[15:7]** Nebo postavím tvář svou hněvivou proti nim. Z ohně jednoho vyjdou, a oheň druhý zžíře je. I zvíte, že já jsem Hospodin, když obrátím tvář svou hněvivou proti nim.
 
-**[15:8]** A obrátím zemi tuto v poušť, proto že se přestoupení dopouštěli, praví Panovník Hospodin. 
+**[15:8]** A obrátím zemi tuto v poušť, proto že se přestoupení dopouštěli, praví Panovník Hospodin.
 
 ### Chapter 16
 
@@ -43338,7 +43338,7 @@
 
 **[16:62]** A tak utvrdím smlouvu svou s tebou, i zvíš, že já jsem Hospodin,
 
-**[16:63]** Abys se rozpomenula a styděla, a nemohla více úst otevříti pro hanbu svou, když tě očistím ode všeho, což jsi činila, praví Panovník Hospodin. 
+**[16:63]** Abys se rozpomenula a styděla, a nemohla více úst otevříti pro hanbu svou, když tě očistím ode všeho, což jsi činila, praví Panovník Hospodin.
 
 ### Chapter 17
 
@@ -43388,7 +43388,7 @@
 
 **[17:23]** Na hoře vysoké Izraelské štípím ji, i vypustí ratolesti, a ponese ovoce, a tak učiněna bude cedrem slavným, a bude bydliti pod ním všeliké ptactvo; všecko, což křídla má, v stínu ratolestí jeho bydliti bude.
 
-**[17:24]** A tak zvědí všecka dříví polní, že já Hospodin snížil jsem dřevo vysoké, a povýšil jsem dřeva nízkého; usušil jsem strom zelený, a způsobil to, aby zkvetl strom suchý. Já Hospodin mluvil jsem to i učiním. 
+**[17:24]** A tak zvědí všecka dříví polní, že já Hospodin snížil jsem dřevo vysoké, a povýšil jsem dřeva nízkého; usušil jsem strom zelený, a způsobil to, aby zkvetl strom suchý. Já Hospodin mluvil jsem to i učiním.
 
 ### Chapter 18
 
@@ -43454,7 +43454,7 @@
 
 **[18:31]** Odvrzte od sebe všecka přestoupení vaše, jichž jste se dopouštěli, a učiňte sobě srdce nové a ducha nového. I pročež mřete, ó dome Izraelský?
 
-**[18:32]** Však nemám líbosti v smrti toho, jenž umírá, dí Panovník Hospodin. Obraťte se tedy, a živi buďte. 
+**[18:32]** Však nemám líbosti v smrti toho, jenž umírá, dí Panovník Hospodin. Obraťte se tedy, a živi buďte.
 
 ### Chapter 19
 
@@ -43484,7 +43484,7 @@
 
 **[19:13]** A nyní štípen jest na poušti, v zemi vyprahlé a žíznivé.
 
-**[19:14]** Nadto vyšed oheň z prutu ratolestí jeho, sežral ovoce jeho, tak že není na něm prutu mocného k berle panovníka. Toť jest naříkání, a budeť v naříkání. 
+**[19:14]** Nadto vyšed oheň z prutu ratolestí jeho, sežral ovoce jeho, tak že není na něm prutu mocného k berle panovníka. Toť jest naříkání, a budeť v naříkání.
 
 ### Chapter 20
 
@@ -43584,7 +43584,7 @@
 
 **[20:48]** I uzří všeliké tělo, že jsem já Hospodin zapálil jej; nezhasneť.
 
-**[20:49]** I řekl jsem: Ach, Panovníče Hospodine, oni mi říkají: Však tento v přísloví nám toliko mluví. 
+**[20:49]** I řekl jsem: Ach, Panovníče Hospodine, oni mi říkají: Však tento v přísloví nám toliko mluví.
 
 ### Chapter 21
 
@@ -43650,7 +43650,7 @@
 
 **[21:31]** A vyleji na tě rozhněvání své, ohněm prchlivosti své na tě dmýchati budu, a dám tě v ruku lidí vzteklých, řemeslníků všecko kazících.
 
-**[21:32]** Budeš ohni k sežrání, krev tvá bude u prostřed země, nebudeš připomínána; neboť jsem já Hospodin mluvil. 
+**[21:32]** Budeš ohni k sežrání, krev tvá bude u prostřed země, nebudeš připomínána; neboť jsem já Hospodin mluvil.
 
 ### Chapter 22
 
@@ -43714,7 +43714,7 @@
 
 **[22:30]** Hledaje pak někoho z nich, kterýž by udělal hradbu, a postavil se v mezeře před tváří mou za tuto zemi, abych jí nezkazil, žádného nenacházím.
 
-**[22:31]** Protož vyleji na ně rozhněvání své, ohněm prchlivosti své konec jim učiním, cestu jejich jim na hlavu obrátím, praví Panovník Hospodin. 
+**[22:31]** Protož vyleji na ně rozhněvání své, ohněm prchlivosti své konec jim učiním, cestu jejich jim na hlavu obrátím, praví Panovník Hospodin.
 
 ### Chapter 23
 
@@ -43814,7 +43814,7 @@
 
 **[23:48]** A tak přítrž učiním nešlechetnosti v zemi této, i budou se tím káti všecky ženy, a nedopustí se nešlechetnosti podobné vaší.
 
-**[23:49]** Nebo vzložena bude na vás nešlechetnost vaše, a ponesete hříchy ukydaných bohů svých. I zvíte, že já jsem Panovník Hospodin. 
+**[23:49]** Nebo vzložena bude na vás nešlechetnost vaše, a ponesete hříchy ukydaných bohů svých. I zvíte, že já jsem Panovník Hospodin.
 
 ### Chapter 24
 
@@ -43870,7 +43870,7 @@
 
 **[24:26]** Zdali v ten den přijde k tobě ten, kdož uteče, vypravuje tu novinu?
 
-**[24:27]** V ten den otevrou se ústa tvá při přítomnosti toho, kterýž ušel, i budeš mluviti, a nebudeš více němým. Takž jim budeš zázrakem, i zvědí, že já jsem Hospodin. 
+**[24:27]** V ten den otevrou se ústa tvá při přítomnosti toho, kterýž ušel, i budeš mluviti, a nebudeš více němým. Takž jim budeš zázrakem, i zvědí, že já jsem Hospodin.
 
 ### Chapter 25
 
@@ -43906,7 +43906,7 @@
 
 **[25:16]** Protož takto praví Panovník Hospodin: Aj, já vztáhnu ruku svou na Filistinské, a vypléním Ceretejské, a zkazím ostatek přístavu mořského.
 
-**[25:17]** A tak vykonám při nich pomsty veliké káraními zůřivými, a zvědí, že já jsem Hospodin, když uvedu pomstu svou na ně. 
+**[25:17]** A tak vykonám při nich pomsty veliké káraními zůřivými, a zvědí, že já jsem Hospodin, když uvedu pomstu svou na ně.
 
 ### Chapter 26
 
@@ -43950,7 +43950,7 @@
 
 **[26:20]** Když učiním, že sstoupíš s sstupujícími do jámy k lidu dávnímu, a posadím tě v nejnižších stranách země, na pustinách starodávních s těmi, jenž sstupují do jámy, aby nebylo bydleno v tobě: prokáži slávu v zemi živých.
 
-**[26:21]** Nebo učiním to, že budeš k náramné hrůze, když tě nestane, a bys pak bylo hledáno, abys nebylo na věky nalezeno, praví Panovník Hospodin. 
+**[26:21]** Nebo učiním to, že budeš k náramné hrůze, když tě nestane, a bys pak bylo hledáno, abys nebylo na věky nalezeno, praví Panovník Hospodin.
 
 ### Chapter 27
 
@@ -44024,7 +44024,7 @@
 
 **[27:35]** Všickni obyvatelé ostrovů ztrnou nad tebou, a králové jejich ohromeni jsouce, zhrozí se náramně.
 
-**[27:36]** Kupci mezi národy ckáti budou nad tebou; k hrůze veliké budeš, a nebude tě na věky. 
+**[27:36]** Kupci mezi národy ckáti budou nad tebou; k hrůze veliké budeš, a nebude tě na věky.
 
 ### Chapter 28
 
@@ -44078,7 +44078,7 @@
 
 **[28:25]** Takto praví Panovník Hospodin: Když shromáždím dům Izraelský z národů, mezi něž rozptýleni jsou, a posvěcen budu v nich před očima pohanů, a bydliti budou v zemi své, kterouž jsem byl dal služebníku svému Jákobovi:
 
-**[28:26]** Tehdy bydliti budou v ní bezpečně, a nastavějí domů, a štípí vinice. Bydliti, pravím, budou bezpečně, když vykonám soudy, při všech zhoubcích jejich vůkol nich, i zvědí, že já jsem Hospodin Bůh jejich. 
+**[28:26]** Tehdy bydliti budou v ní bezpečně, a nastavějí domů, a štípí vinice. Bydliti, pravím, budou bezpečně, když vykonám soudy, při všech zhoubcích jejich vůkol nich, i zvědí, že já jsem Hospodin Bůh jejich.
 
 ### Chapter 29
 
@@ -44122,7 +44122,7 @@
 
 **[29:20]** Za práci jejich, kterouž mi sloužili, dám jim zemi Egyptskou, proto že mně pracovali, praví Panovník Hospodin.
 
-**[29:21]** V ten den rozkáži vypučiti se rohu domu Izraelského. Tobě též způsobím, že otevřeš ústa u prostřed nich, i zvědí, že já jsem Hospodin. 
+**[29:21]** V ten den rozkáži vypučiti se rohu domu Izraelského. Tobě též způsobím, že otevřeš ústa u prostřed nich, i zvědí, že já jsem Hospodin.
 
 ### Chapter 30
 
@@ -44176,7 +44176,7 @@
 
 **[30:25]** Posilním, pravím, ramen krále Babylonského, ramena pak Faraonova klesnou. I zvědí, že já jsem Hospodin, když dám meč svůj v ruku krále Babylonského, aby jej vztáhl na zemi Egyptskou.
 
-**[30:26]** A tak rozptýlím Egyptské mezi národy, a rozženu je do zemí, i zvědí, že já jsem Hospodin. 
+**[30:26]** A tak rozptýlím Egyptské mezi národy, a rozženu je do zemí, i zvědí, že já jsem Hospodin.
 
 ### Chapter 31
 
@@ -44214,7 +44214,7 @@
 
 **[31:17]** I ti s ním sstoupili do hrobu k těm, kteříž jsou zbiti mečem, i rámě jeho, i kteříž sedali v stínu jeho u prostřed národů.
 
-**[31:18]** Kterému z stromů Eden podoben jsi tak v slávě a velikosti? Však svržen budeš s dřívím Eden dolů na zem, mezi neobřezanci s zbitými mečem lehneš. Toť jest Farao i všecko množství jeho, praví Panovník Hospodin. 
+**[31:18]** Kterému z stromů Eden podoben jsi tak v slávě a velikosti? Však svržen budeš s dřívím Eden dolů na zem, mezi neobřezanci s zbitými mečem lehneš. Toť jest Farao i všecko množství jeho, praví Panovník Hospodin.
 
 ### Chapter 32
 
@@ -44280,7 +44280,7 @@
 
 **[32:31]** Ty uhlédaje Farao, potěší se nade vším množstvím svým, Farao i všecko vojsko jeho, zbiti jsouce mečem, dí Panovník Hospodin.
 
-**[32:32]** Nebo pustím strach svůj v zemi živých, a položen bude mezi neobřezanci s zbitými mečem Farao i všecko množství jeho, praví Panovník Hospodin. 
+**[32:32]** Nebo pustím strach svůj v zemi živých, a položen bude mezi neobřezanci s zbitými mečem Farao i všecko množství jeho, praví Panovník Hospodin.
 
 ### Chapter 33
 
@@ -44348,7 +44348,7 @@
 
 **[33:32]** A aj, ty jsi jim jako zpěv libý pěkného zvuku a dobře vznějící. Slyšíť zajisté slova tvá, ale žádný jich nečiní.
 
-**[33:33]** Než když to přijde, (aj, přicházíť), tedy zvědí, že prorok byl u prostřed nich. 
+**[33:33]** Než když to přijde, (aj, přicházíť), tedy zvědí, že prorok byl u prostřed nich.
 
 ### Chapter 34
 
@@ -44412,7 +44412,7 @@
 
 **[34:30]** I zvědí, že já Hospodin Bůh jejich jsem s nimi, a oni lid můj, dům Izraelský, praví Panovník Hospodin.
 
-**[34:31]** Vy pak ovce mé, ovce pastvy mé, jste vy lidé, a já Bůh váš, praví Panovník Hospodin. 
+**[34:31]** Vy pak ovce mé, ovce pastvy mé, jste vy lidé, a já Bůh váš, praví Panovník Hospodin.
 
 ### Chapter 35
 
@@ -44444,7 +44444,7 @@
 
 **[35:14]** Takto praví Panovník Hospodin: Jakž se veselí všecka ta země, tak pustinu učiním z tebe.
 
-**[35:15]** Jakž se veselíš nad dědictvím domu Izraelského, proto že zpustl, tak učiním i tobě. Pustinou budeš, ó horo Seir, i všecka země Idumejská naskrze, i zvědíť, že já jsem Hospodin. 
+**[35:15]** Jakž se veselíš nad dědictvím domu Izraelského, proto že zpustl, tak učiním i tobě. Pustinou budeš, ó horo Seir, i všecka země Idumejská naskrze, i zvědíť, že já jsem Hospodin.
 
 ### Chapter 36
 
@@ -44522,7 +44522,7 @@
 
 **[36:37]** Takto praví Panovník Hospodin: Ještě toho hledati bude při mně dům Izraelský, abych je rozmnožil. Rozmnožím je lidmi jako stády.
 
-**[36:38]** Jako stádo k obětem, jako stádo Jeruzalémské při slavnostech jeho, tak města pustá budou plná stád lidí, i zvědí, že já jsem Hospodin. 
+**[36:38]** Jako stádo k obětem, jako stádo Jeruzalémské při slavnostech jeho, tak města pustá budou plná stád lidí, i zvědí, že já jsem Hospodin.
 
 ### Chapter 37
 
@@ -44580,7 +44580,7 @@
 
 **[37:27]** Bude i příbytek můj mezi nimi, a budu jejich Bohem, a oni budou lidem mým.
 
-**[37:28]** I zvědí národové, že jsem já Hospodin, jenž posvěcuji Izraele, když bude svatyně má u prostřed nich na věky. 
+**[37:28]** I zvědí národové, že jsem já Hospodin, jenž posvěcuji Izraele, když bude svatyně má u prostřed nich na věky.
 
 ### Chapter 38
 
@@ -44628,7 +44628,7 @@
 
 **[38:22]** A vykonám při něm soud morem a krve prolitím a přívalem rozvodnilým, a kamením krupobití velikého, ohněm a sirou dštíti budu na něj i na houfy jeho, a na národy mnohé, kteříž jsou s ním.
 
-**[38:23]** A tak zveleben, a posvěcen, a v známost uveden budu před očima národů mnohých, a zvědí, že já jsem Hospodin. 
+**[38:23]** A tak zveleben, a posvěcen, a v známost uveden budu před očima národů mnohých, a zvědí, že já jsem Hospodin.
 
 ### Chapter 39
 
@@ -44688,7 +44688,7 @@
 
 **[39:28]** A tak poznají, že já jsem Hospodin Bůh jejich, když zaveda je do národů, shromáždím je do země jejich, a nepozůstavím tam žádného z nich.
 
-**[39:29]** Aniž skryji více tváři své před nimi, když vyleji Ducha svého na dům Izraelský, praví Panovník Hospodin. 
+**[39:29]** Aniž skryji více tváři své před nimi, když vyleji Ducha svého na dům Izraelský, praví Panovník Hospodin.
 
 ### Chapter 40
 
@@ -44788,7 +44788,7 @@
 
 **[40:48]** I přivedl mne k síňci domu, a změřil veřeje té síňce, pěti loket s jedné a pěti loket s druhé strany, širokost pak brány byla tří loket s jedné a tří loket s druhé strany.
 
-**[40:49]** Dlouhost síňce dvadcíti loket, širokost pak jedenácti loket i s stupni, po nichž se vstupovalo k ní; sloupové pak byli při veřejích, jeden s jedné, a druhý s druhé strany. 
+**[40:49]** Dlouhost síňce dvadcíti loket, širokost pak jedenácti loket i s stupni, po nichž se vstupovalo k ní; sloupové pak byli při veřejích, jeden s jedné, a druhý s druhé strany.
 
 ### Chapter 41
 
@@ -44842,7 +44842,7 @@
 
 **[41:25]** Byli pak uděláni na nich, na těch dveřích chrámu, cherubínové a palmy, tak jakž uděláni byli na stěnách, trámové také dřevění byli před síňcí vně.
 
-**[41:26]** Též na oknech possoužených byly palmy s obou stran po bocích síňce, i na pavlačích domu toho i trámích. 
+**[41:26]** Též na oknech possoužených byly palmy s obou stran po bocích síňce, i na pavlačích domu toho i trámích.
 
 ### Chapter 42
 
@@ -44884,7 +44884,7 @@
 
 **[42:19]** A obrátiv se k straně západní, naměřil tím prutem pět set prutů.
 
-**[42:20]** Na čtyři strany změřil to, totiž zed vůkol a vůkol, zdélí pěti set, a zšíří pěti set, aby dělila svaté místo od obecného. 
+**[42:20]** Na čtyři strany změřil to, totiž zed vůkol a vůkol, zdélí pěti set, a zšíří pěti set, aby dělila svaté místo od obecného.
 
 ### Chapter 43
 
@@ -44940,7 +44940,7 @@
 
 **[43:26]** Sedm dní očišťovati budou oltář, a vyčistí jej, a posvětí ruky své.
 
-**[43:27]** A když vyplní ty dny, osmého dne i potom obětovati budou kněží na oltáři zápaly vaše, a pokojné oběti vaše, i přijmu vás laskavě, praví Panovník Hospodin. 
+**[43:27]** A když vyplní ty dny, osmého dne i potom obětovati budou kněží na oltáři zápaly vaše, a pokojné oběti vaše, i přijmu vás laskavě, praví Panovník Hospodin.
 
 ### Chapter 44
 
@@ -45004,7 +45004,7 @@
 
 **[44:30]** I přední věci všech prvotin ze všeho, i každá obět zhůru pozdvižení všeliké věci, ze všech obětí zhůru pozdvižení vašich, kněžské bude. I prvotiny těsta vašeho dávati budete knězi, aby odpočinulo požehnání v domě tvém.
 
-**[44:31]** Žádné mrchy a udáveného, ani z ptactva ani z hovad nebudou jídati kněží. 
+**[44:31]** Žádné mrchy a udáveného, ani z ptactva ani z hovad nebudou jídati kněží.
 
 ### Chapter 45
 
@@ -45056,7 +45056,7 @@
 
 **[45:24]** A obět suchou, efi na volka a efi na skopce, připraví též oleje hin na efi.
 
-**[45:25]** Sedmého měsíce, patnáctého dne, v svátek tolikéž obětovati bude po sedm dní, jakož za hřích, tak zápal, tak obět suchou i olej. 
+**[45:25]** Sedmého měsíce, patnáctého dne, v svátek tolikéž obětovati bude po sedm dní, jakož za hřích, tak zápal, tak obět suchou i olej.
 
 ### Chapter 46
 
@@ -45106,7 +45106,7 @@
 
 **[46:23]** A v těch čtyřech byly kuchyňky vůkol, též ohniště zdělána v těch kuchyňkách vůkol.
 
-**[46:24]** I řekl mi: Ta jsou místa těch, kteříž vaří, kdežto vaří služebníci domu oběti lidu. 
+**[46:24]** I řekl mi: Ta jsou místa těch, kteříž vaří, kdežto vaří služebníci domu oběti lidu.
 
 ### Chapter 47
 
@@ -45154,7 +45154,7 @@
 
 **[47:22]** I stane se, že když ji rozměříte, bude vám v dědictví i příchozím, kteříž by pohostinu byli mezi vámi, kteříž by zplodili syny mezi vámi; nebo budou vám jako tu zrodilí mezi syny Izraelskými, s vámiť ujmou dědictví mezi pokoleními Izraelskými.
 
-**[47:23]** Protož nechť jest v tom pokolení příchozí, u něhož pohostinu jest. Tu dědictví dáte jemu, praví Panovník Hospodin. 
+**[47:23]** Protož nechť jest v tom pokolení příchozí, u něhož pohostinu jest. Tu dědictví dáte jemu, praví Panovník Hospodin.
 
 ### Chapter 48
 
@@ -45226,7 +45226,7 @@
 
 **[48:34]** Od strany západní čtyř tisíc a pět set, brány jejich tři, brána Gádova jedna, brána Asserova jedna, brána Neftalímova jedna.
 
-**[48:35]** Okolek osmnácti tisíc loket, jméno pak města od dnešního dne bude: Hospodin tam přebývá.  
+**[48:35]** Okolek osmnácti tisíc loket, jméno pak města od dnešního dne bude: Hospodin tam přebývá.
 
 ## Daniel
 
@@ -45272,7 +45272,7 @@
 
 **[1:20]** A ve všelikém slovu moudrosti a rozumnosti, na kteréž se jich doptával král, nalezl je desetkrát zběhlejší nade všecky mudrce a hvězdáře, kteříž byli ve všem království jeho.
 
-**[1:21]** I zůstával tu Daniel až do léta prvního Cýra krále. 
+**[1:21]** I zůstával tu Daniel až do léta prvního Cýra krále.
 
 ### Chapter 2
 
@@ -45372,7 +45372,7 @@
 
 **[2:48]** Tedy král zvelebil Daniele, a dary veliké a mnohé dal jemu, a pánem ho učinil nade vší krajinou Babylonskou, a knížetem nad vývodami, a nade všemi mudrci Babylonskými.
 
-**[2:49]** Daniel pak vyžádal na králi, aby představil krajině Babylonské Sidracha, Mizacha a Abdenágo. Ale Daniel býval v bráně královské. 
+**[2:49]** Daniel pak vyžádal na králi, aby představil krajině Babylonské Sidracha, Mizacha a Abdenágo. Ale Daniel býval v bráně královské.
 
 ### Chapter 3
 
@@ -45434,7 +45434,7 @@
 
 **[3:29]** A protož toto já přikazuji, aby každý ze všelikého lidu, národu a jazyku, kdož by koli co rouhavého řekl proti Bohu Sidrachovu, Mizachovu a Abdenágovu, na kusy rozsekán byl, a dům jeho v záchod obrácen, proto že není Boha jiného, kterýž by mohl vytrhovati, jako tento.
 
-**[3:30]** Tedy zvelebil zase král Sidracha, Mizacha a Abdenága v krajině Babylonské. 
+**[3:30]** Tedy zvelebil zase král Sidracha, Mizacha a Abdenága v krajině Babylonské.
 
 ### Chapter 4
 
@@ -45510,7 +45510,7 @@
 
 **[4:36]** Téhož času rozum můj navrátil se ke mně, a k slávě království mého ozdoba má, i důstojnost má navrátila se ke mně; nadto i hejtmané moji a knížata má hledali mne, a zmocněn jsem v království svém, a velebnost větší jest mi přidána.
 
-**[4:37]** Nyní tedy já Nabuchodonozor chválím, vyvyšuji a oslavuji krále nebeského, jehož všickni skutkové jsou pravda, a stezky jeho soud, a kterýž chodící v pýše může snižovati. 
+**[4:37]** Nyní tedy já Nabuchodonozor chválím, vyvyšuji a oslavuji krále nebeského, jehož všickni skutkové jsou pravda, a stezky jeho soud, a kterýž chodící v pýše může snižovati.
 
 ### Chapter 5
 
@@ -45574,7 +45574,7 @@
 
 **[5:30]** V touž noc zabit jest Balsazar král Kaldejský.
 
-**[5:31]** Darius pak Médský ujal království v letech okolo šedesáti a dvou. 
+**[5:31]** Darius pak Médský ujal království v letech okolo šedesáti a dvou.
 
 ### Chapter 6
 
@@ -45632,7 +45632,7 @@
 
 **[6:27]** Vysvobozuje a vytrhuje, a činí znamení a divy na nebi i na zemi, kterýž vysvobodil Daniele z moci lvů.
 
-**[6:28]** Danielovi pak šťastně se vedlo v království Dariovu, a v království Cýra Perského. 
+**[6:28]** Danielovi pak šťastně se vedlo v království Dariovu, a v království Cýra Perského.
 
 ### Chapter 7
 
@@ -45690,7 +45690,7 @@
 
 **[7:27]** Království pak i panství, a důstojnost královská pode vším nebem dána bude lidu svatých výsostí; jehož království bude království věčné, a všickni páni jemu sloužiti a jeho poslouchati budou.
 
-**[7:28]** Až potud konec té řeči. Mne pak Daniele myšlení má velice zkormoutila, a krása má proměnila se při mně, slovo však toto v srdci svém zachoval jsem. 
+**[7:28]** Až potud konec té řeči. Mne pak Daniele myšlení má velice zkormoutila, a krása má proměnila se při mně, slovo však toto v srdci svém zachoval jsem.
 
 ### Chapter 8
 
@@ -45746,7 +45746,7 @@
 
 **[8:26]** Vidění pak to večerní a jitřní, o němž povědíno, jest jistá pravda; pročež ty zavři to vidění, nebo jest mnohých dnů.
 
-**[8:27]** Tedy já Daniel zchuravěl jsem, a nemocen jsem byl několik dnů. Potom povstav, konal jsem povinnost od krále poručenou, byv předěšen nad tím viděním, čehož však žádný na mně neseznal. 
+**[8:27]** Tedy já Daniel zchuravěl jsem, a nemocen jsem byl několik dnů. Potom povstav, konal jsem povinnost od krále poručenou, byv předěšen nad tím viděním, čehož však žádný na mně neseznal.
 
 ### Chapter 9
 
@@ -45802,7 +45802,7 @@
 
 **[9:26]** Po téhodnech pak těch šedesáti a dvou zabit bude Mesiáš, však jemu to nic neuškodí; nýbrž to město i tu svatyni zkazí, i lid ten svůj budoucí, tak že skončení jeho bude hrozné, ano i do vykonání boje bude boj stálý všelijak do vyplénění.
 
-**[9:27]** Utvrdí však smlouvu mnohým v téhodni posledním, u prostřed pak toho téhodne učiní konec oběti zápalné i oběti suché; a skrze vojsko ohavné, až do posledního a uloženého poplénění hubící, na popléněné vylito bude zpuštění. 
+**[9:27]** Utvrdí však smlouvu mnohým v téhodni posledním, u prostřed pak toho téhodne učiní konec oběti zápalné i oběti suché; a skrze vojsko ohavné, až do posledního a uloženého poplénění hubící, na popléněné vylito bude zpuštění.
 
 ### Chapter 10
 
@@ -45846,7 +45846,7 @@
 
 **[10:20]** I řekl: Víš-liž, proč jsem přišel k tobě? Nebo již navrátím se, abych bojoval s knížetem Perským. A já odcházím, a aj, kníže Řecké přitáhne.
 
-**[10:21]** Ale oznámímť to, což jest zapsáno v psání pravdomluvném; nebo ani jednoho není, ješto by sobě zmužile počínal se mnou v těch věcech, kromě Michala knížete vašeho. 
+**[10:21]** Ale oznámímť to, což jest zapsáno v psání pravdomluvném; nebo ani jednoho není, ješto by sobě zmužile počínal se mnou v těch věcech, kromě Michala knížete vašeho.
 
 ### Chapter 11
 
@@ -45938,7 +45938,7 @@
 
 **[11:44]** V tom noviny od východu a od půlnoci přestraší jej; pročež vytáhne s prchlivostí velikou, aby hubil a mordoval mnohé.
 
-**[11:45]** I rozbije stany paláce svého mezi mořemi, na hoře okrasy svatosti; a když přijde k skonání svému, nebude míti žádného spomocníka. 
+**[11:45]** I rozbije stany paláce svého mezi mořemi, na hoře okrasy svatosti; a když přijde k skonání svému, nebude míti žádného spomocníka.
 
 ### Chapter 12
 
@@ -45966,7 +45966,7 @@
 
 **[12:12]** Blahoslavený, kdož dočeká a přijde ke dnům tisíci, třem stům, třidcíti a pěti.
 
-**[12:13]** Ty pak odejdi k místu svému, a odpočívati budeš, a zůstaneš v losu svém na skonání dnů.  
+**[12:13]** Ty pak odejdi k místu svému, a odpočívati budeš, a zůstaneš v losu svém na skonání dnů.
 
 ## Hosea
 
@@ -45992,7 +45992,7 @@
 
 **[1:10]** A však bude počet synů Izraelských jako písku mořského, kterýž ani změřen, ani sečten býti nemůže. A stane se, že místo toho, kdež řečeno jim bylo: Nejste vy lid můj, řečeno jim bude: Synové Boha silného a živého jste.
 
-**[1:11]** I budou shromážděni synové Judští a synové Izraelští spolu, a ustanovíce nad sebou hlavu jednu, vyjdou z této země, ačkoli veliký bude den Jezreel. 
+**[1:11]** I budou shromážděni synové Judští a synové Izraelští spolu, a ustanovíce nad sebou hlavu jednu, vyjdou z této země, ačkoli veliký bude den Jezreel.
 
 ### Chapter 2
 
@@ -46040,7 +46040,7 @@
 
 **[2:22]** Země pak vyslyší obilé, i mest, i olej, a ty věci vyslyší Jezreele.
 
-**[2:23]** Nebo ji rozseji sobě na zemi, a smiluji se nad Loruchámou, Loammi pak řeknu: Lid můj jsi ty, a on dí: Bože můj. 
+**[2:23]** Nebo ji rozseji sobě na zemi, a smiluji se nad Loruchámou, Loammi pak řeknu: Lid můj jsi ty, a on dí: Bože můj.
 
 ### Chapter 3
 
@@ -46052,7 +46052,7 @@
 
 **[3:4]** Nebo za mnohé dny budou synové Izraelští bez krále, bez knížete, bez oběti, bez modly, bez efodu a terafim.
 
-**[3:5]** Potom pak obrátí se synové Izraelští, a hledati budou Hospodina Boha svého i Davida krále svého; a předěšeni jsouce, poběhnou k Hospodinu a k dobrotě jeho v posledních časích. 
+**[3:5]** Potom pak obrátí se synové Izraelští, a hledati budou Hospodina Boha svého i Davida krále svého; a předěšeni jsouce, poběhnou k Hospodinu a k dobrotě jeho v posledních časích.
 
 ### Chapter 4
 
@@ -46092,7 +46092,7 @@
 
 **[4:18]** Zpurné je činí nápoj jejich, velice smilní, milují: Dejte. Ochráncové jeho jsou ohyzda.
 
-**[4:19]** Zachvátí je vítr křídly svými, i budou zahanbeni pro své oběti. 
+**[4:19]** Zachvátí je vítr křídly svými, i budou zahanbeni pro své oběti.
 
 ### Chapter 5
 
@@ -46124,7 +46124,7 @@
 
 **[5:14]** Nebo já jsem jako lítý lev Efraimovi, a jako lvíče domu Judovu; já, já uchvátím a ujdu, vezmu, a žádný nevytrhne.
 
-**[5:15]** Odejda, navrátím se na místo své, až se vinni dadí, a hledati budou tváři mé. 
+**[5:15]** Odejda, navrátím se na místo své, až se vinni dadí, a hledati budou tváři mé.
 
 ### Chapter 6
 
@@ -46148,7 +46148,7 @@
 
 **[6:10]** V domě Izraelském vidím hroznou věc: Tam smilstvím Efraimovým poškvrňuje se Izrael.
 
-**[6:11]** Ano i u tebe, ó Judo, vsadil rouby, když jsem já zase vedl zajatý lid svůj. 
+**[6:11]** Ano i u tebe, ó Judo, vsadil rouby, když jsem já zase vedl zajatý lid svůj.
 
 ### Chapter 7
 
@@ -46182,7 +46182,7 @@
 
 **[7:15]** Ješto já potrestav, posiloval jsem ramen jejich, ale oni proti mně zlé vymýšlejí.
 
-**[7:16]** Navracujíť se, ale ne k Nejvyššímu, jsou jako lučiště omylné, padají od meče knížata jejich, od rozhněvání jazyka jejich, což jim ku posměchu jest v zemi Egyptské. 
+**[7:16]** Navracujíť se, ale ne k Nejvyššímu, jsou jako lučiště omylné, padají od meče knížata jejich, od rozhněvání jazyka jejich, což jim ku posměchu jest v zemi Egyptské.
 
 ### Chapter 8
 
@@ -46212,7 +46212,7 @@
 
 **[8:13]** Z obětí darů mých obětují maso a jedí, Hospodin neoblibuje jich. Jižť zpomene na nepravost jejich, a vyhledávati bude hříchy jejich, že se oni do Egypta navracují,
 
-**[8:14]** A že se zapomenul Izrael na Učinitele svého, a nastavěl chrámů, a Juda vzdělal mnoho měst hrazených. Protož pošli oheň na města jeho, a zžíře paláce jeho. 
+**[8:14]** A že se zapomenul Izrael na Učinitele svého, a nastavěl chrámů, a Juda vzdělal mnoho měst hrazených. Protož pošli oheň na města jeho, a zžíře paláce jeho.
 
 ### Chapter 9
 
@@ -46248,7 +46248,7 @@
 
 **[9:16]** Bit bude Efraim, kořen jejich uschne, ovoce nepřinesou, a byť pak zplodili, tedy zmořím nejmilejší života jejich.
 
-**[9:17]** Pohrdne jimi Bůh můj, nebo nechtí ho poslouchati, i budou tuláci mezi pohany. 
+**[9:17]** Pohrdne jimi Bůh můj, nebo nechtí ho poslouchati, i budou tuláci mezi pohany.
 
 ### Chapter 10
 
@@ -46280,7 +46280,7 @@
 
 **[10:14]** Protož povstane rozbroj mezi lidem tvým, i každá pevnost tvá zpuštěna bude, tak jako zpustil Salman Bet Arbel v den boje; matky s syny rozrážíny budou.
 
-**[10:15]** Aj, toť vám způsobí Bethel pro přílišnou nešlechetnost vaši; na svitání docela vyhlazen bude král Izraelský. 
+**[10:15]** Aj, toť vám způsobí Bethel pro přílišnou nešlechetnost vaši; na svitání docela vyhlazen bude král Izraelský.
 
 ### Chapter 11
 
@@ -46306,7 +46306,7 @@
 
 **[11:11]** S strachem poběhnou jako ptactvo z Egypta, a jako holubice z země Assyrské, i osadím je v domích jejich, dí Hospodin.
 
-**[11:12]** Obklíčili mne Efraimští lží, a dům Izraelský lstí, když ještě Juda panoval s Bohem silným, a s svatými věrný byl. 
+**[11:12]** Obklíčili mne Efraimští lží, a dům Izraelský lstí, když ještě Juda panoval s Bohem silným, a s svatými věrný byl.
 
 ### Chapter 12
 
@@ -46336,7 +46336,7 @@
 
 **[12:13]** Sem pak skrze proroka přivedl Hospodin Izraele z Egypta, též skrze proroka ostříhán jest.
 
-**[12:14]** Vzbudilť Efraim hněv přehořký, a protož krev jeho na něj se vztáhne, a potupu svou vrátí jemu Pán jeho. 
+**[12:14]** Vzbudilť Efraim hněv přehořký, a protož krev jeho na něj se vztáhne, a potupu svou vrátí jemu Pán jeho.
 
 ### Chapter 13
 
@@ -46370,7 +46370,7 @@
 
 **[13:15]** Nebo on mezi bratřími ovoce ponese, ač prv přijde vítr východní, vítr Hospodinův od pouště vstupující, a vysuší studnice jeho, osuší i vrchoviště jeho; onenno rozchvátá poklad všech nejdražších klénotů.
 
-**[13:16]** Zpuštěna bude Samaří, proto že se protivila Bohu svému; od meče padnou, dítky jejich zrozrážíny budou, a těhotné ženy jejich zroztínány. 
+**[13:16]** Zpuštěna bude Samaří, proto že se protivila Bohu svému; od meče padnou, dítky jejich zrozrážíny budou, a těhotné ženy jejich zroztínány.
 
 ### Chapter 14
 
@@ -46390,7 +46390,7 @@
 
 **[14:8]** Efraime, což jest mi již do modl? Já vyslýchati, a patřiti budu na tě; já jsem jako jedle zelenající se, ze mneť ovoce tvé jest.
 
-**[14:9]** Kdo jest moudrý, porozuměj těmto věcem, a rozumný poznej je; nebo přímé jsou cesty Hospodinovy, a spravedliví choditi budou po nich, přestupníci pak na nich padnou.  
+**[14:9]** Kdo jest moudrý, porozuměj těmto věcem, a rozumný poznej je; nebo přímé jsou cesty Hospodinovy, a spravedliví choditi budou po nich, přestupníci pak na nich padnou.
 
 ## Joel
 
@@ -46434,7 +46434,7 @@
 
 **[1:19]** K toběť, ó Hospodine, volám; nebo oheň sežral pastviska pouště; a plamen popálil všecka dříví polní.
 
-**[1:20]** Také i zvěř polní všecka lká k tobě, proto že vyschli potokové vod, a oheň sežral pastviska na poušti. 
+**[1:20]** Také i zvěř polní všecka lká k tobě, proto že vyschli potokové vod, a oheň sežral pastviska na poušti.
 
 ### Chapter 2
 
@@ -46500,7 +46500,7 @@
 
 **[2:31]** Slunce obrátí se v tmu a měsíc v krev, prvé než přijde den Hospodinův veliký a hrozný,
 
-**[2:32]** A však stane se, že kdož by koli vzýval jméno Hospodinovo, vysvobozen bude; nebo na hoře Sion a v Jeruzalémě bude vysvobození, jakož pověděl Hospodin, totiž v ostatcích, kterýchž povolá Hospodin. 
+**[2:32]** A však stane se, že kdož by koli vzýval jméno Hospodinovo, vysvobozen bude; nebo na hoře Sion a v Jeruzalémě bude vysvobození, jakož pověděl Hospodin, totiž v ostatcích, kterýchž povolá Hospodin.
 
 ### Chapter 3
 
@@ -46544,7 +46544,7 @@
 
 **[3:20]** Juda pak na věky trvati bude, a Jeruzalém od národu do pronárodu.
 
-**[3:21]** A očistím ty, jejichž jsem krve neočistil; nebo Hospodin přebývá na Sionu.  
+**[3:21]** A očistím ty, jejichž jsem krve neočistil; nebo Hospodin přebývá na Sionu.
 
 ## Amos
 
@@ -46578,7 +46578,7 @@
 
 **[1:14]** Ale zanítím oheň na zdi Rabba, kterýžto zžíře paláce její, s troubením v den boje a s bouří v den vichřice.
 
-**[1:15]** I půjde král jejich v zajetí, on i knížata jeho s ním, praví Hospodin. 
+**[1:15]** I půjde král jejich v zajetí, on i knížata jeho s ním, praví Hospodin.
 
 ### Chapter 2
 
@@ -46612,7 +46612,7 @@
 
 **[2:15]** A ten, kterýž se chápá lučiště, neostojí, a čerstvý na nohy své neuteče, a ten, kterýž jezdí na koni, nevysvobodí života svého.
 
-**[2:16]** Ale i zmužilého srdce mezi nejudatnějšími nahý utíkati bude v ten den, praví Hospodin. 
+**[2:16]** Ale i zmužilého srdce mezi nejudatnějšími nahý utíkati bude v ten den, praví Hospodin.
 
 ### Chapter 3
 
@@ -46644,7 +46644,7 @@
 
 **[3:14]** Že v ten den, když Izraele trestati budu pro přestoupení jeho, navštívím také oltáře v Bethel, a odťati budou rohové oltáře, tak že spadnou na zem.
 
-**[3:15]** A udeřím domem zimním o dům letní, i zahynou domové z kostí slonových, a konec vezmou domové velicí, praví Hospodin. 
+**[3:15]** A udeřím domem zimním o dům letní, i zahynou domové z kostí slonových, a konec vezmou domové velicí, praví Hospodin.
 
 ### Chapter 4
 
@@ -46672,7 +46672,7 @@
 
 **[4:12]** A protož takť učiním, ó Izraeli, a poněvadž takť učiniti míním, připraviž se vstříc Bohu svému, ó Izraeli.
 
-**[4:13]** Nebo aj, on jest sformovatel hor a stvořitel větrů, a oznamuje člověku, jaké by bylo jeho myšlení; činí z záře jitřní tmu, a šlapá po vysokostech země. Hospodin Bůh zástupů jest jméno jeho. 
+**[4:13]** Nebo aj, on jest sformovatel hor a stvořitel větrů, a oznamuje člověku, jaké by bylo jeho myšlení; činí z záře jitřní tmu, a šlapá po vysokostech země. Hospodin Bůh zástupů jest jméno jeho.
 
 ### Chapter 5
 
@@ -46728,7 +46728,7 @@
 
 **[5:26]** Nýbrž nosili jste stánek Melecha vašeho a Kijuna, obrazy vaše, hvězdu boha vašeho, kteréžto věci sami jste sobě zdělali.
 
-**[5:27]** Protož přestěhuji vás dále než Damašské, praví Hospodin, jehož jméno jest Bůh zástupů. 
+**[5:27]** Protož přestěhuji vás dále než Damašské, praví Hospodin, jehož jméno jest Bůh zástupů.
 
 ### Chapter 6
 
@@ -46758,7 +46758,7 @@
 
 **[6:13]** Vy, kteříž se veselíte, ano není z čeho, říkajíce: Zdaliž jsme svou silou nevzali sobě rohů?
 
-**[6:14]** Ale aj, já vzbudím proti vám, ó dome Izraelský, praví Hospodin Bůh zástupů, národ, kterýž vás ssouží, odtud, kudy se jde do Emat, až do potoka roviny. 
+**[6:14]** Ale aj, já vzbudím proti vám, ó dome Izraelský, praví Hospodin Bůh zástupů, národ, kterýž vás ssouží, odtud, kudy se jde do Emat, až do potoka roviny.
 
 ### Chapter 7
 
@@ -46794,7 +46794,7 @@
 
 **[7:16]** Nyní tedy slyšiž slovo Hospodinovo. Ty pravíš: Neprorokuj v Izraeli, a nekaž v domě Izákově.
 
-**[7:17]** Protož takto praví Hospodin: Žena tvá cizoložiti bude v městě, synové pak tvoji i dcery tvé od meče padnou; a země tvá provazcem dělena bude, a ty v zemi nečisté umřeš, Izrael pak jistotně přestěhován bude z země své. 
+**[7:17]** Protož takto praví Hospodin: Žena tvá cizoložiti bude v městě, synové pak tvoji i dcery tvé od meče padnou; a země tvá provazcem dělena bude, a ty v zemi nečisté umřeš, Izrael pak jistotně přestěhován bude z země své.
 
 ### Chapter 8
 
@@ -46824,7 +46824,7 @@
 
 **[8:13]** V ten čas umdlévati budou panny krásné, ano i mládenci tou žízní,
 
-**[8:14]** Kteříž přisahají skrze ohavnost Samařskou, a říkají: Živť jest Bůh tvůj, ó Dan, a živa jest cesta Bersabé. I padnou, a nepovstanou více. 
+**[8:14]** Kteříž přisahají skrze ohavnost Samařskou, a říkají: Živť jest Bůh tvůj, ó Dan, a živa jest cesta Bersabé. I padnou, a nepovstanou více.
 
 ### Chapter 9
 
@@ -46856,7 +46856,7 @@
 
 **[9:14]** Přivedu také zase zajatý lid svůj Izraelský, a vystavějí města zpuštěná, aby v nich bydlili; a budou štěpovati vinice, a píti víno jejich, nadělají i zahrad, a jísti budou ovoce jejich.
 
-**[9:15]** A tak je štípím v zemi jejich, že nebudou vykořeněni více z země své, kterouž jsem dal jim, praví Hospodin Bůh tvůj.  
+**[9:15]** A tak je štípím v zemi jejich, že nebudou vykořeněni více z země své, kterouž jsem dal jim, praví Hospodin Bůh tvůj.
 
 ## Obadiah
 
@@ -46902,7 +46902,7 @@
 
 **[1:20]** I zajaté vojsko toto synů Izraelských v tom, což bylo Kananejských až do Sarepty, zajatí pak Jeruzalémští v tom, což jest na konci panství, děditi budou s městy na poledne.
 
-**[1:21]** I vstoupí vysvoboditelé na horu Sion, aby soudili horu Ezau, a tak bude Hospodinovo království.  
+**[1:21]** I vstoupí vysvoboditelé na horu Sion, aby soudili horu Ezau, a tak bude Hospodinovo království.
 
 ## Jonah
 
@@ -46940,7 +46940,7 @@
 
 **[1:16]** Pročež báli se muži ti bázní velikou Hospodina, a obětovali obět Hospodinu, a sliby činili.
 
-**[1:17]** Nastrojil pak byl Hospodin rybu velikou, aby požřela Jonáše. I byl Jonáš v střevách té ryby tři dni a tři noci. 
+**[1:17]** Nastrojil pak byl Hospodin rybu velikou, aby požřela Jonáše. I byl Jonáš v střevách té ryby tři dni a tři noci.
 
 ### Chapter 2
 
@@ -46962,7 +46962,7 @@
 
 **[2:9]** Já pak s hlasem díkčinění obětovati budu tobě; což jsem slíbil, splním. Hojné vysvobození jest u Hospodina.
 
-**[2:10]** Rozkázal pak byl Hospodin rybě té, i vyvrátila Jonáše na břeh. 
+**[2:10]** Rozkázal pak byl Hospodin rybě té, i vyvrátila Jonáše na břeh.
 
 ### Chapter 3
 
@@ -46984,7 +46984,7 @@
 
 **[3:9]** Kdo ví, neobrátí-li se a nebude-li želeti toho Bůh; neodvrátí-li se, pravím, od prchlivosti hněvu svého, abychom nezahynuli.
 
-**[3:10]** I viděl Bůh skutky jejich, že se odvrátili od cesty své zlé, a lítost měl Bůh nad tím zlým, kteréž řekl učiniti jim. A neučinil. 
+**[3:10]** I viděl Bůh skutky jejich, že se odvrátili od cesty své zlé, a lítost měl Bůh nad tím zlým, kteréž řekl učiniti jim. A neučinil.
 
 ### Chapter 4
 
@@ -47008,7 +47008,7 @@
 
 **[4:10]** Jemuž řekl Hospodin: Ty lituješ toho břečtanu, o němž jsi nepracoval, aniž jsi ho k zrostu přivedl, kterýž za jednu noc zrostl, a jedné noci zahynul,
 
-**[4:11]** A já abych nelitoval Ninive města tak velikého, v němž jest více nežli sto a dvadceti tisíc lidí, kteříž neznají rozdílu mezi pravicí svou a levicí svou, a dobytka mnoho?  
+**[4:11]** A já abych nelitoval Ninive města tak velikého, v němž jest více nežli sto a dvadceti tisíc lidí, kteříž neznají rozdílu mezi pravicí svou a levicí svou, a dobytka mnoho?
 
 ## Micah
 
@@ -47044,7 +47044,7 @@
 
 **[1:15]** Ó obyvatelkyně Maresa, i toběť tudíž přivedu dědice; až do Adulam přijde, k slávě Izraelské.
 
-**[1:16]** Učiniž sobě lysinu, a ohol se pro syny rozkoší svých; rozšiř lysinu svou jako orlice, nebo stěhují se od tebe. 
+**[1:16]** Učiniž sobě lysinu, a ohol se pro syny rozkoší svých; rozšiř lysinu svou jako orlice, nebo stěhují se od tebe.
 
 ### Chapter 2
 
@@ -47072,7 +47072,7 @@
 
 **[2:12]** Jistotně zberu tě, Jákobe, docela, jistotně shromáždím ostatky Izraele, a seženu je v hromadu jako ovce v Bozra, jako stádo do prostřed ovčince jeho, i vzejde hluk od lidu.
 
-**[2:13]** Vstoupí ten, kterýž prolamovati bude před nimi. Prolomí, a projdou bránu, a vyjdou skrze ni; ano i král jejich půjde před nimi, a Hospodin na špici jejich. 
+**[2:13]** Vstoupí ten, kterýž prolamovati bude před nimi. Prolomí, a projdou bránu, a vyjdou skrze ni; ano i král jejich půjde před nimi, a Hospodin na špici jejich.
 
 ### Chapter 3
 
@@ -47098,7 +47098,7 @@
 
 **[3:11]** Jehož přední podlé darů soudí, a kněží jeho ze mzdy učí, a proroci jeho z peněz hádají, a však na Hospodina zpoléhají, říkajíce: Zdaliž Hospodina není u prostřed nás? Nepřijdeť na nás nic zlého.
 
-**[3:12]** A protož vaší příčinou Sion jako pole orán bude, a Jeruzalém v hromady obrácen bude, a hora domu toho v vysoké lesy. 
+**[3:12]** A protož vaší příčinou Sion jako pole orán bude, a Jeruzalém v hromady obrácen bude, a hora domu toho v vysoké lesy.
 
 ### Chapter 4
 
@@ -47126,7 +47126,7 @@
 
 **[4:12]** Však oni neznají myšlení Hospodinových, aniž rozumějí radě jeho, že je shromažďuje jako snopy na humno.
 
-**[4:13]** Vstaniž a mlať, dcero Sionská; nebo rok tvůj učiním železný, a kopyta tvá učiním ocelivá. I zetřeš národy mnohé, a posvětím Hospodinu jmění jejich, a zboží jejich Pánu vší země. 
+**[4:13]** Vstaniž a mlať, dcero Sionská; nebo rok tvůj učiním železný, a kopyta tvá učiním ocelivá. I zetřeš národy mnohé, a posvětím Hospodinu jmění jejich, a zboží jejich Pánu vší země.
 
 ### Chapter 5
 
@@ -47158,7 +47158,7 @@
 
 **[5:14]** Vykořením i háje tvé z prostředku tvého, a zkazím nepřátely tvé.
 
-**[5:15]** A tak v hněvu a v prchlivosti vykonám pomstu nad těmi národy, kteříž nebyli poslušni. 
+**[5:15]** A tak v hněvu a v prchlivosti vykonám pomstu nad těmi národy, kteříž nebyli poslušni.
 
 ### Chapter 6
 
@@ -47192,7 +47192,7 @@
 
 **[6:15]** Ty budeš síti, ale nebudeš žíti; ty tlačiti budeš olivky, ale nebudeš se pomazovati olejem, i mest, ale nebudeš píti vína.
 
-**[6:16]** Nebo snažně ostříhá ustanovení Amri, i každého skutku domu Achabova, a spravujete se radami jejich, tak abych tě vydal v zpuštění, a obyvatele jeho v posměch. A protož pohanění lidu mého ponesete. 
+**[6:16]** Nebo snažně ostříhá ustanovení Amri, i každého skutku domu Achabova, a spravujete se radami jejich, tak abych tě vydal v zpuštění, a obyvatele jeho v posměch. A protož pohanění lidu mého ponesete.
 
 ### Chapter 7
 
@@ -47234,7 +47234,7 @@
 
 **[7:19]** Navrátě se, slituje se nad námi, podmaní nepravosti naše; nýbrž uvržeš do hlubin mořských všecky hříchy naše.
 
-**[7:20]** Pravdomluvným se ukážeš Jákobovi, milosrdným Abrahamovi, jakož jsi přisáhl otcům našim ode dnů starodávních.  
+**[7:20]** Pravdomluvným se ukážeš Jákobovi, milosrdným Abrahamovi, jakož jsi přisáhl otcům našim ode dnů starodávních.
 
 ## Nahum
 
@@ -47268,7 +47268,7 @@
 
 **[1:14]** Nebo přikázaní vydal proti tobě Hospodin, nebudeť rozsíváno ze jména tvého více; z domu Boha tvého vyhladím rytinu i slitinu, a když zlehčen budeš, způsobímť hrob.
 
-**[1:15]** Aj hle na horách těchto nohy potěšené věci zvěstujícího, ohlašujícího pokoj. Slaviž, o Judo, slavnosti své, plň sliby své. Neboť nepokusí se více ani mimo tebe choditi nešlechetný, docelať jest vyhlazen. 
+**[1:15]** Aj hle na horách těchto nohy potěšené věci zvěstujícího, ohlašujícího pokoj. Slaviž, o Judo, slavnosti své, plň sliby své. Neboť nepokusí se více ani mimo tebe choditi nešlechetný, docelať jest vyhlazen.
 
 ### Chapter 2
 
@@ -47296,7 +47296,7 @@
 
 **[2:12]** Lev, kterýž hojně lovíval mladým svým, a dávíval lvicím svým, kterýž naplňoval loupeží jeskyně své, a peleše své tím, což nahonil?
 
-**[2:13]** Aj, já proti tobě, praví Hospodin zástupů, a popálím na prach vozy tvé, a lvíčata tvá sžíře meč; i vypléním z země loupež tvou, a nebude slyšán více hlas poslů tvých. 
+**[2:13]** Aj, já proti tobě, praví Hospodin zástupů, a popálím na prach vozy tvé, a lvíčata tvá sžíře meč; i vypléním z země loupež tvou, a nebude slyšán více hlas poslů tvých.
 
 ### Chapter 3
 
@@ -47336,7 +47336,7 @@
 
 **[3:18]** Zdřímají pastýři tvoji, ó králi Assyrský, ležeti budou znamenití tvoji, hojnost lidu tvého bude po horách, ale nebude žádného, kdo by shromáždil.
 
-**[3:19]** K potření tvému není žádného léku, bolest rány tvé rozmohla se. Kteřížkoli uslyší pověst o tobě, rukama plésati budou nad tebou. Nebo na koho ustavičně nedocházelo ukrutenství tvé?  
+**[3:19]** K potření tvému není žádného léku, bolest rány tvé rozmohla se. Kteřížkoli uslyší pověst o tobě, rukama plésati budou nad tebou. Nebo na koho ustavičně nedocházelo ukrutenství tvé?
 
 ## Habakkuk
 
@@ -47374,7 +47374,7 @@
 
 **[1:16]** Protož síti své obětuje, a kadí nevodu svému; nebo skrze ně ztučněl díl jeho, a strava jeho zlepšena.
 
-**[1:17]** S tím-liž se vším předce zatahovati má sít svou, a ustavičně národy mordovati bez lítosti? 
+**[1:17]** S tím-liž se vším předce zatahovati má sít svou, a ustavičně národy mordovati bez lítosti?
 
 ### Chapter 2
 
@@ -47416,7 +47416,7 @@
 
 **[2:19]** Běda tomu, kterýž říká dřevu: Prociť, a kameni němému: Probuď se. On-liž by učiti mohl? Pohleď na něj. Obloženť jest zlatem a stříbrem, ale není v něm žádného ducha.
 
-**[2:20]** Hospodin pak v chrámě svatosti své jest, umlkniž před oblíčejem jeho všecka země. 
+**[2:20]** Hospodin pak v chrámě svatosti své jest, umlkniž před oblíčejem jeho všecka země.
 
 ### Chapter 3
 
@@ -47456,7 +47456,7 @@
 
 **[3:18]** Já však v Hospodinu veseliti se budu, plésati budu v Bohu spasení svého.
 
-**[3:19]** Hospodin Panovník jest síla má, kterýž činí nohy mé jako laní, a na vysokých místech mých cestu mi způsobuje. Přednímu zpěváku na můj neginot.  
+**[3:19]** Hospodin Panovník jest síla má, kterýž činí nohy mé jako laní, a na vysokých místech mých cestu mi způsobuje. Přednímu zpěváku na můj neginot.
 
 ## Zephaniah
 
@@ -47496,7 +47496,7 @@
 
 **[1:17]** V němž úzkostmi sevru lidi, aby chodili jako slepí, nebo proti Hospodinu zhřešili. I vylita bude krev jejich jako prach, a těla jejich jako lejna.
 
-**[1:18]** Ani stříbro jejich, ani zlato jejich nebude jich moci vytrhnouti v den rozhněvání Hospodinova; nebo ohněm horlivosti jeho sehlcena bude tato všecka země, proto že konec jistě rychlý učiní všechněm obyvatelům země. 
+**[1:18]** Ani stříbro jejich, ani zlato jejich nebude jich moci vytrhnouti v den rozhněvání Hospodinova; nebo ohněm horlivosti jeho sehlcena bude tato všecka země, proto že konec jistě rychlý učiní všechněm obyvatelům země.
 
 ### Chapter 2
 
@@ -47528,7 +47528,7 @@
 
 **[2:14]** I budou u prostřed něho léhati stáda, všecky šelmy národů, pelikán i výr na makovicích jeho nocovati budou; hlas zníti bude na okně, pustina na veřeji, když cedroví jeho obnaží.
 
-**[2:15]** Takovéť bude to město plésající, kteréž sedí bezpečně, říkaje v srdci svém: Já jsem, a kromě mne není žádného více. Jakť jest učiněno pusté, peleší šelmám! Kdožkoli půjde skrze ně, ckáti bude a zmítati rukou svou. 
+**[2:15]** Takovéť bude to město plésající, kteréž sedí bezpečně, říkaje v srdci svém: Já jsem, a kromě mne není žádného více. Jakť jest učiněno pusté, peleší šelmám! Kdožkoli půjde skrze ně, ckáti bude a zmítati rukou svou.
 
 ### Chapter 3
 
@@ -47570,7 +47570,7 @@
 
 **[3:19]** Aj, já konec učiním všechněm, kteříž tě trápiti budou v ten čas, a zachovám kulhavou, a zahnanou shromáždím; nýbrž způsobím jim chválu a jméno po vší zemi, v níž pohanění nesli.
 
-**[3:20]** V ten čas přivedu vás, v ten čas, pravím, shromáždím vás; nebo dám vám jméno a chválu mezi všemi národy země, když zase přivedu zajaté vaše před očima vašima, dí Hospodin.  
+**[3:20]** V ten čas přivedu vás, v ten čas, pravím, shromáždím vás; nebo dám vám jméno a chválu mezi všemi národy země, když zase přivedu zajaté vaše před očima vašima, dí Hospodin.
 
 ## Haggai
 
@@ -47604,7 +47604,7 @@
 
 **[1:14]** V tom vzbudil Hospodin ducha Zorobábele syna Salatielova, knížete Judského, a ducha Jozue syna Jozadakova, kněze nejvyššího, a ducha ostatků všeho lidu, a přišedše, dělali dílo v domě Hospodina zástupů, Boha svého.
 
-**[1:15]** Dne dvadcátého čtvrtého, měsíce šestého, léta druhého Daria krále. 
+**[1:15]** Dne dvadcátého čtvrtého, měsíce šestého, léta druhého Daria krále.
 
 ### Chapter 2
 
@@ -47652,7 +47652,7 @@
 
 **[2:22]** A podvrátím stolici království, a zkazím sílu království pohanských; podvrátím, pravím, vůz i ty, kteříž na něm jezdí, a sejdou koni i jezdci jejich jeden každý od meče bratra svého.
 
-**[2:23]** V ten den, praví Hospodin zástupů, vezmu tebe, Zorobábeli synu Salatielův, služebníče můj, praví Hospodin, a učiním tě jako pečetní prsten; nebo jsem tě vyvolil, praví Hospodin zástupů.  
+**[2:23]** V ten den, praví Hospodin zástupů, vezmu tebe, Zorobábeli synu Salatielův, služebníče můj, praví Hospodin, a učiním tě jako pečetní prsten; nebo jsem tě vyvolil, praví Hospodin zástupů.
 
 ## Zechariah
 
@@ -47698,7 +47698,7 @@
 
 **[1:20]** Ukázal mi také Hospodin čtyři kováře.
 
-**[1:21]** I řekl jsem: Co jdou dělati tito? I mluvil, řka: Tito jsou rohové, kteříž zmítali Judou, tak že žádný nemohl pozdvihnouti hlavy své. Protož přišli tito, aby je přestrašili, a srazili rohy těch národů, kteříž pozdvihli rohu proti zemi Judské, aby ní zmítali. 
+**[1:21]** I řekl jsem: Co jdou dělati tito? I mluvil, řka: Tito jsou rohové, kteříž zmítali Judou, tak že žádný nemohl pozdvihnouti hlavy své. Protož přišli tito, aby je přestrašili, a srazili rohy těch národů, kteříž pozdvihli rohu proti zemi Judské, aby ní zmítali.
 
 ### Chapter 2
 
@@ -47726,7 +47726,7 @@
 
 **[2:12]** Tehdy dědičně ujme Hospodin Judu, díl svůj, v zemi svaté, a vyvolí zase Jeruzalém.
 
-**[2:13]** Umlkniž všeliké tělo před oblíčejem Hospodinovým, neboť procítí z příbytku svatosti své. 
+**[2:13]** Umlkniž všeliké tělo před oblíčejem Hospodinovým, neboť procítí z příbytku svatosti své.
 
 ### Chapter 3
 
@@ -47748,7 +47748,7 @@
 
 **[3:9]** Nebo aj, totoť jest ten kámen, kterýž kladu před Jozue, na kámen jeden sedm očí; aj, já vyřeži na něm řezbu, praví Hospodin zástupů, a odejmu nepravost té země jednoho dne.
 
-**[3:10]** V ten den, praví Hospodin zástupů, povoláte jeden každý bližního svého pod vinný kmen a pod fík. 
+**[3:10]** V ten den, praví Hospodin zástupů, povoláte jeden každý bližního svého pod vinný kmen a pod fík.
 
 ### Chapter 4
 
@@ -47778,7 +47778,7 @@
 
 **[4:13]** I mluvil ke mně, řka: Víš-liž, co ty věci jsou? I řekl jsem: Nevím, pane můj.
 
-**[4:14]** Tedy řekl: To jsou ty dvě olivy, kteréž jsou u Panovníka vší země. 
+**[4:14]** Tedy řekl: To jsou ty dvě olivy, kteréž jsou u Panovníka vší země.
 
 ### Chapter 5
 
@@ -47802,7 +47802,7 @@
 
 **[5:10]** I řekl jsem andělu tomu, kterýž mluvil se mnou: Kam ony nesou tu efi?
 
-**[5:11]** Kterýž řekl mi: Aby sobě vystavěla dům v zemi Sinear, kdež by utvrzena byla a postavena na podstavku svém. 
+**[5:11]** Kterýž řekl mi: Aby sobě vystavěla dům v zemi Sinear, kdež by utvrzena byla a postavena na podstavku svém.
 
 ### Chapter 6
 
@@ -47834,7 +47834,7 @@
 
 **[6:14]** Budou pak ty koruny Chelemovi, a Tobiášovi, a Jedaiášovi, a Chenovi synu Sofoniášovu na památku v chrámě Hospodinově.
 
-**[6:15]** Nebo dalecí přijdou, a budou stavěti chrám Hospodinův, i zvíte, že Hospodin zástupů poslal mne k vám. A to se stane, jestliže skutečně poslouchati budete hlasu Hospodina Boha svého. 
+**[6:15]** Nebo dalecí přijdou, a budou stavěti chrám Hospodinův, i zvíte, že Hospodin zástupů poslal mne k vám. A to se stane, jestliže skutečně poslouchati budete hlasu Hospodina Boha svého.
 
 ### Chapter 7
 
@@ -47864,7 +47864,7 @@
 
 **[7:13]** Nebo stalo se, že jakož volajícího neslyšeli, tak když volali, neslyšel jsem, praví Hospodin zástupů.
 
-**[7:14]** A vichřicí rozptýlil jsem je mezi všecky ty národy, kterýchž neznali, a země tato spustla po nich, tak že nebylo žádného, kdo by tudy chodil, a tak přivedli zemi žádoucí na spuštění. 
+**[7:14]** A vichřicí rozptýlil jsem je mezi všecky ty národy, kterýchž neznali, a země tato spustla po nich, tak že nebylo žádného, kdo by tudy chodil, a tak přivedli zemi žádoucí na spuštění.
 
 ### Chapter 8
 
@@ -47912,7 +47912,7 @@
 
 **[8:22]** A tak přijdou lidé mnozí a národové nesčíslní, aby hledali Hospodina zástupů v Jeruzalémě, a kořili se tváři Hospodinově.
 
-**[8:23]** Takto praví Hospodin zástupů: V těch dnech chopí se deset mužů ze všech jazyků těch národů, chopí se, pravím, podolka jednoho Žida, řkouce: Půjdeme s vámi; nebo slyšíme, že jest Bůh s vámi. 
+**[8:23]** Takto praví Hospodin zástupů: V těch dnech chopí se deset mužů ze všech jazyků těch národů, chopí se, pravím, podolka jednoho Žida, řkouce: Půjdeme s vámi; nebo slyšíme, že jest Bůh s vámi.
 
 ### Chapter 9
 
@@ -47948,7 +47948,7 @@
 
 **[9:16]** A tak je vysvobodí v ten den Hospodin Bůh jejich, jakožto stádce lid svůj, a vystaveno bude kamení pěkně tesané místo korouhví v zemi jeho.
 
-**[9:17]** Nebo aj, jaké blahoslavenství jeho, a jak veliká okrasa jeho! Obilé mládence a mest panny učiní mluvné. 
+**[9:17]** Nebo aj, jaké blahoslavenství jeho, a jak veliká okrasa jeho! Obilé mládence a mest panny učiní mluvné.
 
 ### Chapter 10
 
@@ -47974,7 +47974,7 @@
 
 **[10:11]** Protož pro těsnost přejde přes moře, a prorazí na moři vlnobití, i vyschnou všecky hlubiny řeky, budeť snížena i pýcha Assyrie, a berla Egypta odjata bude.
 
-**[10:12]** A posilním jich v Hospodinu, aby ve jménu jeho ustavičně chodili, praví Hospodin. 
+**[10:12]** A posilním jich v Hospodinu, aby ve jménu jeho ustavičně chodili, praví Hospodin.
 
 ### Chapter 11
 
@@ -48010,7 +48010,7 @@
 
 **[11:16]** Nebo aj, já vzbudím pastýře v této zemi. Pobloudilých nebude navštěvovati, ani jehňátka hledati, ani což polámaného jest, léčiti, ani toho, což se zastavuje, nositi, ale maso toho, což tučnějšího jest, jísti bude, a kopyta jejich poláme.
 
-**[11:17]** Běda pastýři tomu ničemnému, kterýž opouští stádo. Meč na rameno jeho a na oko pravé jeho, rámě jeho docela uschne, a oko pravé jeho naprosto zatmí se. 
+**[11:17]** Běda pastýři tomu ničemnému, kterýž opouští stádo. Meč na rameno jeho a na oko pravé jeho, rámě jeho docela uschne, a oko pravé jeho naprosto zatmí se.
 
 ### Chapter 12
 
@@ -48040,7 +48040,7 @@
 
 **[12:13]** Čeled domu Léví obzvláštně, a ženy jejich obzvláštně, čeled Semei obzvláštně, a ženy jejich obzvláštně,
 
-**[12:14]** I všecky čeledi jiné, každá čeled obzvláštně, a ženy jejich obzvláštně. 
+**[12:14]** I všecky čeledi jiné, každá čeled obzvláštně, a ženy jejich obzvláštně.
 
 ### Chapter 13
 
@@ -48060,7 +48060,7 @@
 
 **[13:8]** Nebo stane se po vší zemi této, praví Hospodin, že dvě částky vyhlazeny budou v ní a zemrou, a třetí v ní zanechána bude.
 
-**[13:9]** A i tu třetí uvedu do ohně, a přeženu je, jako se přehání stříbro, a zprubuji je, jako prubováno bývá zlato. Každý vzývati bude jméno mé, a já vyslyším jej. Řeknu: Lid můj jest: a on dí: Hospodin jest Bůh můj. 
+**[13:9]** A i tu třetí uvedu do ohně, a přeženu je, jako se přehání stříbro, a zprubuji je, jako prubováno bývá zlato. Každý vzývati bude jméno mé, a já vyslyším jej. Řeknu: Lid můj jest: a on dí: Hospodin jest Bůh můj.
 
 ### Chapter 14
 
@@ -48098,13 +48098,13 @@
 
 **[14:17]** I stane se, kdo z čeledí země nebude přicházeti do Jeruzaléma klaněti se králi Hospodinu zástupů, že nebude na ně pršeti déšt.
 
-**[14:18]** A jestliže čeled Egyptská nevstoupí, ani přijde, jakkoli na ně nepršívá, přijde však táž rána, kterouž raní Hospodin národy, kteříž by nepřicházeli k slavení slavnosti stánků.
+**[14:18]** A jestliže čeled Egyptská nevstoupí, ani přijde, jakkoli na ně ne pršívá, přijde však táž rána, kterouž raní Hospodin národy, kteříž by nepřicházeli k slavení slavnosti stánků.
 
 **[14:19]** Tať bude pokuta pro hřích Egyptských a pokuta pro hřích všech národů, kteříž by nechodili k slavení slavnosti stánků.
 
 **[14:20]** V ten den bude na zvoncích koňských: Svatost Hospodinu; a bude hrnců v domě Hospodinově jako číší před oltářem.
 
-**[14:21]** Nýbrž bude všeliký hrnec v Jeruzalémě a v Judstvu svatost Hospodinu zástupů; a přicházejíce všickni, kteříž obětovati mají, budou je bráti a vařiti v nich. Aniž bude Kananejský více v domě Hospodina zástupů v ten den.  
+**[14:21]** Nýbrž bude všeliký hrnec v Jeruzalémě a v Judstvu svatost Hospodinu zástupů; a přicházejíce všickni, kteříž obětovati mají, budou je bráti a vařiti v nich. Aniž bude Kananejský více v domě Hospodina zástupů v ten den.
 
 ## Malachi
 
@@ -48136,7 +48136,7 @@
 
 **[1:13]** Říkáte také: Ach, větší práce, ješto byste to zdmýchnouti mohli, praví Hospodin zástupů. Nebo přinášíte to, což jest vydřeno, a chromé i nemocné, přinášejíce dar. To-liž mám přijímati z ruky vaší? praví Hospodin.
 
-**[1:14]** Anobrž zlořečený jest fortelný, kterýž maje v svém stádě samce, činí slib, a obětuje Pánu to, což jest churavého. Nebo král veliký já jsem, praví Hospodin zástupů, a jméno mé jest hrozné mezi národy. 
+**[1:14]** Anobrž zlořečený jest fortelný, kterýž maje v svém stádě samce, činí slib, a obětuje Pánu to, což jest churavého. Nebo král veliký já jsem, praví Hospodin zástupů, a jméno mé jest hrozné mezi národy.
 
 ### Chapter 2
 
@@ -48172,7 +48172,7 @@
 
 **[2:16]** Proto že v nenávisti má propouštění, praví Hospodin Bůh Izraelský, proto že takový přikrývá ukrutnost pláštěm jeho, praví Hospodin zástupů, protož ostříhejte ducha svého, abyste nečinili nevěrně.
 
-**[2:17]** Těžcí jste Hospodinu slovy svými, a však říkáte: V čem jsme těžcí? Když říkáte: Každý, kdož činí zlé, líbí se Hospodinu, a v těch on líbost má, aneb: Kde jest Bůh soudu? 
+**[2:17]** Těžcí jste Hospodinu slovy svými, a však říkáte: V čem jsme těžcí? Když říkáte: Každý, kdož činí zlé, líbí se Hospodinu, a v těch on líbost má, aneb: Kde jest Bůh soudu?
 
 ### Chapter 3
 
@@ -48210,7 +48210,7 @@
 
 **[3:17]** Tiť budou, praví Hospodin zástupů, v den, kterýž já učiním, mým klínotem, a slituji se nad nimi, jako se slitovává otec nad synem svým, kterýž mu slouží.
 
-**[3:18]** Tehdy obrátíte se, a uzříte rozdíl mezi spravedlivým a bezbožným, mezi tím, kdo slouží Bohu, a tím, kdo jemu neslouží. 
+**[3:18]** Tehdy obrátíte se, a uzříte rozdíl mezi spravedlivým a bezbožným, mezi tím, kdo slouží Bohu, a tím, kdo jemu neslouží.
 
 ### Chapter 4
 
@@ -48224,7 +48224,7 @@
 
 **[4:5]** Aj, já pošli vám Eliáše proroka, prvé nežli přijde den Hospodinův veliký a hrozný,
 
-**[4:6]** Aby obrátil srdce otců k synům, a srdce synů k otcům jejich, abych přijda, neranil země prokletím.  
+**[4:6]** Aby obrátil srdce otců k synům, a srdce synů k otcům jejich, abych přijda, neranil země prokletím.
 
 ## Matthew
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** Procítiv pak Jozef ze sna, učinil, jakož mu přikázal anděl Páně, a přijal manželku svou.
 
-**[1:25]** Ale nepoznal jí, až i porodila Syna svého prvorozeného, a nazvala jméno jeho Ježíš. 
+**[1:25]** Ale nepoznal jí, až i porodila Syna svého prvorozeného, a nazvala jméno jeho Ježíš.
 
 ### Chapter 2
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** Ale uslyšev, že by Archelaus kraloval v Judstvu místo Heródesa otce svého, obával se tam jíti; avšak napomenut byv od Boha ve snách, obrátil se do krajin Galilejských.
 
-**[2:23]** A přišed, bydlil v městě, kteréž slove Nazarét, aby se naplnilo, což povědíno bylo skrze proroky, že Nazaretský slouti bude. 
+**[2:23]** A přišed, bydlil v městě, kteréž slove Nazarét, aby se naplnilo, což povědíno bylo skrze proroky, že Nazaretský slouti bude.
 
 ### Chapter 3
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** A pokřtěn jsa Ježíš, vystoupil i hned z vody; a aj, otevřína jsou mu nebesa, a viděl Ducha Božího, sstupujícího jako holubici, a přicházejícího na něj.
 
-**[3:17]** A aj, hlas s nebe řkoucí: Tentoť jest ten můj milý Syn, v němž mi se dobře zalíbilo. 
+**[3:17]** A aj, hlas s nebe řkoucí: Tentoť jest ten můj milý Syn, v němž mi se dobře zalíbilo.
 
 ### Chapter 4
 
@@ -48414,7 +48414,7 @@
 
 **[4:24]** A rozešla se o něm pověst po vší Syrii. I vodili k němu všecky nemocné, rozličnými neduhy a trápeními obklíčené, i ďábelníky, i náměsičníky, i šlakem poražené, a uzdravoval je.
 
-**[4:25]** I šli za ním zástupové mnozí z Galilee a z Desíti měst, i z Jeruzaléma i z Judstva i z Zajordání. 
+**[4:25]** I šli za ním zástupové mnozí z Galilee a z Desíti měst, i z Jeruzaléma i z Judstva i z Zajordání.
 
 ### Chapter 5
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** A budete-li pozdravovati toliko bratří svých, což více činíte? Však i publikáni to činí.
 
-**[5:48]** Buďtež vy tedy dokonalí, jako i Otec váš, kterýž jest v nebesích, dokonalý jest. 
+**[5:48]** Buďtež vy tedy dokonalí, jako i Otec váš, kterýž jest v nebesích, dokonalý jest.
 
 ### Chapter 6
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** Ale hledejte nejprv království Božího a spravedlnosti jeho, a toto vše bude vám přidáno.
 
-**[6:34]** Protož nepečujte o zítřejší den, nebo zítřejší den pečovati bude o své věci. Dostiť má den na svém trápení. 
+**[6:34]** Protož nepečujte o zítřejší den, nebo zítřejší den pečovati bude o své věci. Dostiť má den na svém trápení.
 
 ### Chapter 7
 
@@ -48642,7 +48642,7 @@
 
 **[7:28]** Stalo se pak, když dokonal Ježíš řeči tyto, že se převelmi divili zástupové učení jeho.
 
-**[7:29]** Nebo učil je jako moc maje, a ne jako zákonníci. 
+**[7:29]** Nebo učil je jako moc maje, a ne jako zákonníci.
 
 ### Chapter 8
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** Pastýři pak utekli. A přišedše do města, vypravovali to všecko, i o těch ďábelnících.
 
-**[8:34]** A aj, všecko město vyšlo v cestu Ježíšovi, a uzřevše ho, prosili, aby šel z končin jejich. 
+**[8:34]** A aj, všecko město vyšlo v cestu Ježíšovi, a uzřevše ho, prosili, aby šel z končin jejich.
 
 ### Chapter 9
 
@@ -48790,7 +48790,7 @@
 
 **[9:37]** Tehdy řekl učedlníkům svým: Žeň zajisté jest mnohá, ale dělníků málo.
 
-**[9:38]** Protož proste Pána žně, ať vypudí dělníky na žeň svou. 
+**[9:38]** Protož proste Pána žně, ať vypudí dělníky na žeň svou.
 
 ### Chapter 10
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Kdo přijímá proroka ve jménu proroka, odplatu proroka vezme; a kdož přijímá spravedlivého ve jménu spravedlivého, odplatu spravedlivého vezme.
 
-**[10:42]** A kdož by koli dal jednomu z těchto maličkých toliko číši vody studené k nápoji ve jménu učedlníka, zajisté pravím vám, neztratíť odplaty své. 
+**[10:42]** A kdož by koli dal jednomu z těchto maličkých toliko číši vody studené k nápoji ve jménu učedlníka, zajisté pravím vám, neztratíť odplaty své.
 
 ### Chapter 11
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Vezměte jho mé na se, a učte se ode mne, neboť jsem tichý a pokorný srdcem, a naleznete odpočinutí dušem svým.
 
-**[11:30]** Jho mé zajisté jestiť rozkošné, a břímě mé lehké. 
+**[11:30]** Jho mé zajisté jestiť rozkošné, a břímě mé lehké.
 
 ### Chapter 12
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** A vztáhna ruku svou na učedlníky své, řekl: Aj, matka má i bratří moji.
 
-**[12:50]** Nebo kdož by koli činil vůli Otce mého nebeského, ten jest bratr můj, i sestra má, i matka má. 
+**[12:50]** Nebo kdož by koli činil vůli Otce mého nebeského, ten jest bratr můj, i sestra má, i matka má.
 
 ### Chapter 13
 
@@ -49158,7 +49158,7 @@
 
 **[13:57]** I zhoršili se na něm. Ježíš pak řekl jim: Neníť prorok beze cti, než v své vlasti a v domě svém.
 
-**[13:58]** I neučinil tu mnoho divů pro nevěru jejich. 
+**[13:58]** I neučinil tu mnoho divů pro nevěru jejich.
 
 ### Chapter 14
 
@@ -49232,7 +49232,7 @@
 
 **[14:35]** A poznavše jej muži místa toho, rozeslali po vší té krajině vůkol, a shromáždili k němu všecky neduživé.
 
-**[14:36]** A prosili ho, aby se aspoň podolka roucha jeho dotkli. A kteřížkoli dotkli se, uzdraveni jsou. 
+**[14:36]** A prosili ho, aby se aspoň podolka roucha jeho dotkli. A kteřížkoli dotkli se, uzdraveni jsou.
 
 ### Chapter 15
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** Bylo pak těch, kteříž jedli, čtyři tisíce mužů, kromě žen a dětí.
 
-**[15:39]** A rozpustiv zástupy, vstoupil na lodí. I přišel do krajiny Magdala. 
+**[15:39]** A rozpustiv zástupy, vstoupil na lodí. I přišel do krajiny Magdala.
 
 ### Chapter 16
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** Syn zajisté člověka přijde v slávě Otce svého s anděly svými, a tehdáž odplatí jednomu každému podlé skutků jeho.
 
-**[16:28]** Amen pravím vám: Jsou někteří z stojících tuto, kteříž neokusí smrti, až i uzří Syna člověka, přicházejícího v království svém. 
+**[16:28]** Amen pravím vám: Jsou někteří z stojících tuto, kteříž neokusí smrti, až i uzří Syna člověka, přicházejícího v království svém.
 
 ### Chapter 17
 
@@ -49426,7 +49426,7 @@
 
 **[17:26]** Dí jemu Petr: Od cizích. I řekl mu Ježíš: Tedy synové jsou svobodní.
 
-**[17:27]** Ale abychom jich nepohoršili, jda k moři, vrz udici, a tu rybu, kteráž nejprvé uvázne, vezmi, a otevra ústa její, nalezneš groš. Ten vezma, dej jim za mne i za sebe. 
+**[17:27]** Ale abychom jich nepohoršili, jda k moři, vrz udici, a tu rybu, kteráž nejprvé uvázne, vezmi, a otevra ústa její, nalezneš groš. Ten vezma, dej jim za mne i za sebe.
 
 ### Chapter 18
 
@@ -49498,7 +49498,7 @@
 
 **[18:34]** I rozhněvav se pán jeho, dal jej katům, dokudž by nezaplatil všeho, což mu byl dlužen.
 
-**[18:35]** Takť i Otec můj nebeský učiní vám, jestliže neodpustíte jeden každý bratru svému z srdcí svých provinění jejich. 
+**[18:35]** Takť i Otec můj nebeský učiní vám, jestliže neodpustíte jeden každý bratru svému z srdcí svých provinění jejich.
 
 ### Chapter 19
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** A každý, kdož opustil by domy, neb bratry, neb sestry, neb otce, neb matku, neb manželku, neb dítky, neb pole pro jméno mé, stokrát více vezme, a život věčný dědičně obdrží.
 
-**[19:30]** Mnozí pak první budou poslední, a poslední první. 
+**[19:30]** Mnozí pak první budou poslední, a poslední první.
 
 ### Chapter 20
 
@@ -49630,7 +49630,7 @@
 
 **[20:33]** Řkou jemu: Pane, ať se otevrou oči naše.
 
-**[20:34]** I slitovav se nad nimi Ježíš, dotekl se očí jejich, a hned prohlédly oči jejich. I šli za ním. 
+**[20:34]** I slitovav se nad nimi Ježíš, dotekl se očí jejich, a hned prohlédly oči jejich. I šli za ním.
 
 ### Chapter 21
 
@@ -49724,7 +49724,7 @@
 
 **[21:45]** A slyšavše přední kněží {biskupové} ta podobenství jeho, porozuměli, že by o nich mluvil.
 
-**[21:46]** I hledajíce ho jíti, báli se zástupů; nebo ho měli za proroka. 
+**[21:46]** I hledajíce ho jíti, báli se zástupů; nebo ho měli za proroka.
 
 ### Chapter 22
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** Poněvadž tedy David Pánem ho nazývá, i kterakž syn jeho jest?
 
-**[22:46]** A nižádný nemohl jemu odpovědíti slova, aniž směl kdo více od toho dne jeho se tázati. 
+**[22:46]** A nižádný nemohl jemu odpovědíti slova, aniž směl kdo více od toho dne jeho se tázati.
 
 ### Chapter 23
 
@@ -49898,7 +49898,7 @@
 
 **[23:38]** Aj, zanecháváť se vám dům váš pustý.
 
-**[23:39]** Neboť pravím vám, že mne již více nikoli neuzříte od této chvíle, až i díte: Požehnaný, kterýž se béře ve jménu Páně. 
+**[23:39]** Neboť pravím vám, že mne již více nikoli neuzříte od této chvíle, až i díte: Požehnaný, kterýž se béře ve jménu Páně.
 
 ### Chapter 24
 
@@ -50002,7 +50002,7 @@
 
 **[24:50]** Přijdeť pán služebníka toho v den, v kterýž se nenaděje, a v hodinu, v kterouž neví.
 
-**[24:51]** I oddělíť jej, a díl jeho položí s pokrytci. Tamť bude pláč a škřipení zubů. 
+**[24:51]** I oddělíť jej, a díl jeho položí s pokrytci. Tamť bude pláč a škřipení zubů.
 
 ### Chapter 25
 
@@ -50096,7 +50096,7 @@
 
 **[25:45]** Tedy odpoví jim, řka: Amen pravím vám: Čehož jste koli nečinili jednomu z nejmenších těchto, ani mně jste nečinili.
 
-**[25:46]** I půjdou tito do trápení věčného, ale spravedliví do života věčného. 
+**[25:46]** I půjdou tito do trápení věčného, ale spravedliví do života věčného.
 
 ### Chapter 26
 
@@ -50248,7 +50248,7 @@
 
 **[26:74]** Tedy počal se proklínati a přisahati, řka: Neznám toho člověka. A hned kohout zazpíval.
 
-**[26:75]** I rozpomenul se Petr na slovo Ježíšovo, kterýž jemu byl řekl: Prvé než kohout zazpívá, třikrát mne zapříš. A vyšed ven, plakal hořce. 
+**[26:75]** I rozpomenul se Petr na slovo Ježíšovo, kterýž jemu byl řekl: Prvé než kohout zazpívá, třikrát mne zapříš. A vyšed ven, plakal hořce.
 
 ### Chapter 27
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** Řekl jim Pilát: Máte stráž; jděte, ostříhejte, jakž víte.
 
-**[27:66]** A oni šedše, osadili hrob strážnými, zapečetivše kámen. 
+**[27:66]** A oni šedše, osadili hrob strážnými, zapečetivše kámen.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Protož jdouce, učte všecky národy, křtíce je ve jméno Otce i Syna i Ducha svatého,
 
-**[28:20]** Učíce je zachovávati všecko, což jsem koli přikázal vám. A aj, já s vámi jsem po všecky dny, až do skonání světa. Amen.  
+**[28:20]** Učíce je zachovávati všecko, což jsem koli přikázal vám. A aj, já s vámi jsem po všecky dny, až do skonání světa. Amen.
 
 ## Mark
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** A řekl mu: Viziž, abys žádnému nic nepravil. Ale jdi, ukaž se knězi, a obětuj za očištění své to, což přikázal Mojžíš, na svědectví proti nim.
 
-**[1:45]** On pak vyšed, počal vypravovati mnoho a ohlašovati tu věc, tak že již nemohl Ježíš do města zjevně vjíti, ale vně na místech pustých byl. I scházeli se k němu odevšad. 
+**[1:45]** On pak vyšed, počal vypravovati mnoho a ohlašovati tu věc, tak že již nemohl Ježíš do města zjevně vjíti, ale vně na místech pustých byl. I scházeli se k němu odevšad.
 
 ### Chapter 2
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** I pravil jim: Sobota pro člověka učiněna jest, a ne člověk pro sobotu.
 
-**[2:28]** Protož Syn člověka jest pánem také i soboty. 
+**[2:28]** Protož Syn člověka jest pánem také i soboty.
 
 ### Chapter 3
 
@@ -50648,7 +50648,7 @@
 
 **[3:34]** A obezřev učedlníky vůkol sebe sedící, řekl: Aj, matka má a bratří moji.
 
-**[3:35]** Nebo kdož by koli činil vůli Boží, ten jest bratr můj, i sestra má, i matka. 
+**[3:35]** Nebo kdož by koli činil vůli Boží, ten jest bratr můj, i sestra má, i matka.
 
 ### Chapter 4
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** I řekl jim: Proč se tak bojíte? Jakž to, že nemáte víry?
 
-**[4:41]** I báli se bázní velikou, a pravili jeden k druhému: I kdo jest medle tento, že i vítr i moře poslouchají jeho? 
+**[4:41]** I báli se bázní velikou, a pravili jeden k druhému: I kdo jest medle tento, že i vítr i moře poslouchají jeho?
 
 ### Chapter 5
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** A hned vstala děvečka, a chodila; nebo byla ve dvanácti letech. I zděsili se divením převelikým.
 
-**[5:43]** A přikázal jim pilně, aby žádný o tom nezvěděl. I rozkázal jí dáti jísti. 
+**[5:43]** A přikázal jim pilně, aby žádný o tom nezvěděl. I rozkázal jí dáti jísti.
 
 ### Chapter 6
 
@@ -50934,7 +50934,7 @@
 
 **[6:55]** A běhajíce po vší krajině té, počali na ložcích nositi nemocné, kdežkoli uslyšeli o něm, že by byl.
 
-**[6:56]** A kamžkoli vcházel do městeček neb do měst neb do vsí, na ulicech kladli neduživé, a prosili ho, aby se aspoň podolka roucha jeho dotkli. A kolikož jich koli se jeho dotklo, uzdraveni byli. 
+**[6:56]** A kamžkoli vcházel do městeček neb do měst neb do vsí, na ulicech kladli neduživé, a prosili ho, aby se aspoň podolka roucha jeho dotkli. A kolikož jich koli se jeho dotklo, uzdraveni byli.
 
 ### Chapter 7
 
@@ -51010,7 +51010,7 @@
 
 **[7:36]** I přikázal jim, aby žádnému nepravili. Ale jakžkoli on jim přikazoval, oni mnohem více ohlašovali.
 
-**[7:37]** A převelmi se divili, řkouce: Dobře všecky věci učinil. I hluchým rozkázal slyšeti, i němým mluviti. 
+**[7:37]** A převelmi se divili, řkouce: Dobře všecky věci učinil. I hluchým rozkázal slyšeti, i němým mluviti.
 
 ### Chapter 8
 
@@ -51088,7 +51088,7 @@
 
 **[8:37]** Aneb jakou dá člověk odměnu za duši svou?
 
-**[8:38]** Nebo kdož by se koli za mne styděl a za má slova v tomto pokolení cizoložném a hříšném, i Syn člověka styděti se bude za něj, když přijde v slávě Otce svého s anděly svatými. 
+**[8:38]** Nebo kdož by se koli za mne styděl a za má slova v tomto pokolení cizoložném a hříšném, i Syn člověka styděti se bude za něj, když přijde v slávě Otce svého s anděly svatými.
 
 ### Chapter 9
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** Nebo každý ohněm bude solen, a všeliká obět solí bude osolena.
 
-**[9:50]** Dobráť jest sůl. Pakli sůl bude neslaná, čím ji osolíte? Mějte sůl sami v sobě, a pokoj mějte mezi sebou. 
+**[9:50]** Dobráť jest sůl. Pakli sůl bude neslaná, čím ji osolíte? Mějte sůl sami v sobě, a pokoj mějte mezi sebou.
 
 ### Chapter 10
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** I odpověděv Ježíš, dí jemu: Co chceš, ať učiním? A slepý řekl jemu: Mistře, ať vidím.
 
-**[10:52]** Tedy Ježíš řekl jemu: Jdi, víra tvá tě uzdravila. A hned prohlédl, a šel cestou za Ježíšem. 
+**[10:52]** Tedy Ježíš řekl jemu: Jdi, víra tvá tě uzdravila. A hned prohlédl, a šel cestou za Ježíšem.
 
 ### Chapter 11
 
@@ -51364,7 +51364,7 @@
 
 **[11:32]** Pakli díme: Z lidí, bojíme se lidu. Nebo všickni o Janovi smyslili, že právě byl prorok.
 
-**[11:33]** I odpověděvše, řekli Ježíšovi: Nevíme. A Ježíš odpovídaje, řekl jim: Aniž já vám povím, jakou mocí to činím. 
+**[11:33]** I odpověděvše, řekli Ježíšovi: Nevíme. A Ježíš odpovídaje, řekl jim: Aniž já vám povím, jakou mocí to činím.
 
 ### Chapter 12
 
@@ -51454,7 +51454,7 @@
 
 **[12:43]** I svolav učedlníky své, dí jim: Amen pravím vám, že tato chudá vdova více uvrhla, než tito všickni, kteříž metali do pokladnice.
 
-**[12:44]** Nebo všickni z toho, což jim zbývalo, metali, ale tato z své chudoby, všecko, což měla, uvrhla, všecku živnost svou. 
+**[12:44]** Nebo všickni z toho, což jim zbývalo, metali, ale tato z své chudoby, všecko, což měla, uvrhla, všecku živnost svou.
 
 ### Chapter 13
 
@@ -51530,7 +51530,7 @@
 
 **[13:36]** Aby snad přijda v nenadále, nenalezl vás, a vy spíte.
 
-**[13:37]** A cožť vám pravím, všechněmť pravím: Bděte. 
+**[13:37]** A cožť vám pravím, všechněmť pravím: Bděte.
 
 ### Chapter 14
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** On pak počal se proklínati a přisahati: Neznám člověka toho, o němž pravíte.
 
-**[14:72]** A hned po druhé kohout zazpíval. I rozpomenul se Petr na slovo, kteréž byl řekl jemu Ježíš: Že prvé než kohout dvakrát zazpívá, třikrát mne zapříš. A vyšed, plakal. 
+**[14:72]** A hned po druhé kohout zazpíval. I rozpomenul se Petr na slovo, kteréž byl řekl jemu Ježíš: Že prvé než kohout dvakrát zazpívá, třikrát mne zapříš. A vyšed, plakal.
 
 ### Chapter 15
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** I koupiv plátna, a sňav ho, obvinul v plátno, a položil do hrobu, kterýž byl vytesán z skály, a přivalil kámen ke dveřům hrobovým.
 
-**[15:47]** Ale Maria Magdaléna a Maria Jozesova dívaly se, kde by byl položen. 
+**[15:47]** Ale Maria Magdaléna a Maria Jozesova dívaly se, kde by byl položen.
 
 ### Chapter 16
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Když pak jim odmluvil Pán, zhůru vzat jest do nebe, a sedí na pravici Boží.
 
-**[16:20]** A oni vyšedše, kázali všudy, a Pán jim pomáhal, a slov jejich potvrzoval činěním divů.  
+**[16:20]** A oni vyšedše, kázali všudy, a Pán jim pomáhal, a slov jejich potvrzoval činěním divů.
 
 ## Luke
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** Aby se ukázal sedícím v temnostech a v stínu smrti, k spravení noh našich na cestu pokoje.
 
-**[1:80]** Dítě pak rostlo, a posilovalo se v duchu, a bylo na poušti až do dne zjevení svého lidu Izraelskému. 
+**[1:80]** Dítě pak rostlo, a posilovalo se v duchu, a bylo na poušti až do dne zjevení svého lidu Izraelskému.
 
 ### Chapter 2
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** I šel s nimi, a přišel do Nazaréta, a byl poddán jim. Matka pak jeho zachovávala všecka slova ta v srdci svém.
 
-**[2:52]** A Ježíš prospíval moudrostí, a věkem, a milostí, u Boha i u lidí. 
+**[2:52]** A Ježíš prospíval moudrostí, a věkem, a milostí, u Boha i u lidí.
 
 ### Chapter 3
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** Kterýž byl Matuzalémův, kterýž byl Enochův, kterýž byl Járedův, kterýž byl Malalehelův, kterýž byl Kainanův.
 
-**[3:38]** Kterýž byl Enosův, kterýž byl Setův, kterýž byl Adamův, kterýž byl Boží. 
+**[3:38]** Kterýž byl Enosův, kterýž byl Setův, kterýž byl Adamův, kterýž byl Boží.
 
 ### Chapter 4
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** On pak řekl jim: I jinýmť městům musím zvěstovati království Boží; nebo na to poslán jsem.
 
-**[4:44]** I kázal v školách Galilejských. 
+**[4:44]** I kázal v školách Galilejských.
 
 ### Chapter 5
 
@@ -52332,7 +52332,7 @@
 
 **[5:38]** Ale víno nové v nádoby nové má lito býti, a obé bude zachováno.
 
-**[5:39]** A aniž kdo, když pije staré, hned chce nového, ale díť: Staré lepší jest. 
+**[5:39]** A aniž kdo, když pije staré, hned chce nového, ale díť: Staré lepší jest.
 
 ### Chapter 6
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** Podoben jest člověku stavějícímu dům, kterýž kopal a vytesal hluboko, a založil grunty v skále. A když se povodeň strhla, obořila se řeka na dům ten, ale nemohla ním pohnouti, nebo byl založen na skále.
 
-**[6:49]** Ale kdož slyší a nečiní, podoben jest člověku, kterýž staví dům svůj na zemi bez gruntu. Na kterýž obořila se řeka, a on hned padl, i byl pád domu toho veliký. 
+**[6:49]** Ale kdož slyší a nečiní, podoben jest člověku, kterýž staví dům svůj na zemi bez gruntu. Na kterýž obořila se řeka, a on hned padl, i byl pád domu toho veliký.
 
 ### Chapter 7
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** Tedy počali, kteříž tu spolu seděli za stolem, říci sami mezi sebou: Kdo jest tento, kterýž i hříchy odpouští?
 
-**[7:50]** I řekl ženě: Víra tvá tebe k spasení přivedla. Jdiž u pokoji. 
+**[7:50]** I řekl ženě: Víra tvá tebe k spasení přivedla. Jdiž u pokoji.
 
 ### Chapter 8
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** I navrátil se duch její, a vstala hned. I kázal jí dáti jísti.
 
-**[8:56]** I divili se náramně rodičové její. A on jim kázal, aby žádnému nepravili o tom, co se bylo stalo. 
+**[8:56]** I divili se náramně rodičové její. A on jim kázal, aby žádnému nepravili o tom, co se bylo stalo.
 
 ### Chapter 9
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** I řekl opět jiný: Půjdu za tebou, Pane, ale prvé dopusť mi, ať se rozžehnám s těmi, kteříž jsou v domě mém.
 
-**[9:62]** Řekl jemu Ježíš: Žádný, kdož vztáhna ruku svou k pluhu, ohlídal by se nazpět, není způsobný k království Božímu. 
+**[9:62]** Řekl jemu Ježíš: Žádný, kdož vztáhna ruku svou k pluhu, ohlídal by se nazpět, není způsobný k království Božímu.
 
 ### Chapter 10
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** A odpověděv, řekl jí Ježíš: Marta, Marta, pečlivá jsi, a rmoutíš se při mnohých věcech.
 
-**[10:42]** Ale jednohoť jest potřebí. Mariať dobrou stránku vyvolila, kteráž nebude odjata od ní. 
+**[10:42]** Ale jednohoť jest potřebí. Mariať dobrou stránku vyvolila, kteráž nebude odjata od ní.
 
 ### Chapter 11
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** A když jim to mluvil, počali zákonníci a farizeové přísně na něj dotírati, a k mnohým řečem příčiny jemu dávati.
 
-**[11:54]** Úklady činíce jemu, a hledajíce popadnouti něco z úst jeho, aby jej obžalovali. 
+**[11:54]** Úklady činíce jemu, a hledajíce popadnouti něco z úst jeho, aby jej obžalovali.
 
 ### Chapter 12
 
@@ -53090,7 +53090,7 @@
 
 **[12:58]** Když pak jdeš s protivníkem svým k vrchnosti, na cestě přičiň se o to, abys byl zproštěn od něho, aby snad netáhl tebe k soudci, a soudce dal by tebe biřici, a biřic vsadil by tě do žaláře.
 
-**[12:59]** Pravím tobě: Nevyjdeš odtud, dokudž bys i toho posledního haléře nenavrátil. 
+**[12:59]** Pravím tobě: Nevyjdeš odtud, dokudž bys i toho posledního haléře nenavrátil.
 
 ### Chapter 13
 
@@ -53162,7 +53162,7 @@
 
 **[13:34]** Jeruzaléme, Jeruzaléme, ješto morduješ proroky, a kamenuješ ty, kteříž k tobě bývají posláni, kolikrát jsem chtěl shromážditi dítky tvé, jako slepice kuřátka svá pod křídla? Ale nechtěli jste.
 
-**[13:35]** Aj, zanechán bude vám dům váš pustý. Ale jistě pravím vám, že nikoli mne neuzříte, ažť přijde, když díte: Požehnaný, kterýž se béře ve jménu Páně. 
+**[13:35]** Aj, zanechán bude vám dům váš pustý. Ale jistě pravím vám, že nikoli mne neuzříte, ažť přijde, když díte: Požehnaný, kterýž se béře ve jménu Páně.
 
 ### Chapter 14
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Dobráť jest sůl. Pakli sůl bude zmařena, čím bude napravena?
 
-**[14:35]** Ani do země, ani do hnoje se nehodí; ven ji vymítají. Kdo má uši k slyšení, slyš. 
+**[14:35]** Ani do země, ani do hnoje se nehodí; ven ji vymítají. Kdo má uši k slyšení, slyš.
 
 ### Chapter 15
 
@@ -53300,7 +53300,7 @@
 
 **[15:31]** A on řekl jemu: Synu, ty vždycky se mnou jsi, a všecky věci mé jsou tvé.
 
-**[15:32]** Ale veseliti a radovati se náleželo. Nebo bratr tvůj tento byl umřel, a zase ožil; zahynul byl, a nalezen jest. 
+**[15:32]** Ale veseliti a radovati se náleželo. Nebo bratr tvůj tento byl umřel, a zase ožil; zahynul byl, a nalezen jest.
 
 ### Chapter 16
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** A on řekl: Nic, otče Abrahame, ale kdyby kdo z mrtvých šel s nim, budou pokání činiti.
 
-**[16:31]** I řekl mu: Poněvadž Mojžíše a proroků neposlouchají, aniž byť kdo z mrtvých vstal, uvěří jemu. 
+**[16:31]** I řekl mu: Poněvadž Mojžíše a proroků neposlouchají, aniž byť kdo z mrtvých vstal, uvěří jemu.
 
 ### Chapter 17
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** Dva budou na poli; jeden bude vzat, a druhý opuštěn.
 
-**[17:37]** I odpověděvše, řekli jemu: Kde, Pane? On pak řekl jim: Kdežť bude tělo, tamť se shromáždí i orlice. 
+**[17:37]** I odpověděvše, řekli jemu: Kde, Pane? On pak řekl jim: Kdežť bude tělo, tamť se shromáždí i orlice.
 
 ### Chapter 18
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** A Ježíš řekl jemu: Prohlédni. Víra tvá tě uzdravila.
 
-**[18:43]** A i hned prohlédl, a šel za ním, velebě Boha. A všecken lid viděv to, vzdal chválu Bohu. 
+**[18:43]** A i hned prohlédl, a šel za ním, velebě Boha. A všecken lid viděv to, vzdal chválu Bohu.
 
 ### Chapter 19
 
@@ -53626,7 +53626,7 @@
 
 **[19:47]** I učil na každý den v chrámě. Přední pak kněží {biskupové} a zákonníci i přední v lidu hledali ho zahladiti.
 
-**[19:48]** Ale nenalezli, co by učinili. Nebo všecken lid jej sobě liboval, poslouchaje ho. 
+**[19:48]** Ale nenalezli, co by učinili. Nebo všecken lid jej sobě liboval, poslouchaje ho.
 
 ### Chapter 20
 
@@ -53722,7 +53722,7 @@
 
 **[20:46]** Varujte se zákonníků, kteříž rádi chodí v krásném rouše, a milují pozdravování na trzích a přední stolice v školách, a první místo na večeřích.
 
-**[20:47]** Kteříž zžírají domy vdovské pod zámyslem dlouhé modlitby. Tiť vezmou těžší odsouzení. 
+**[20:47]** Kteříž zžírají domy vdovské pod zámyslem dlouhé modlitby. Tiť vezmou těžší odsouzení.
 
 ### Chapter 21
 
@@ -53800,7 +53800,7 @@
 
 **[21:37]** I býval ve dne v chrámě, uče, ale v noci vycházeje, přebýval na hoře, kteráž slove Olivetská.
 
-**[21:38]** A všecken lid na úsvitě přicházel k němu do chrámu, aby ho poslouchal. 
+**[21:38]** A všecken lid na úsvitě přicházel k němu do chrámu, aby ho poslouchal.
 
 ### Chapter 22
 
@@ -53944,7 +53944,7 @@
 
 **[22:70]** I řekli všickni: Tedy jsi ty Syn Boží? On pak řekl jim: Vy pravíte, nebo já jsem.
 
-**[22:71]** A oni řekli: Což ještě potřebujeme svědectví? Však jsme sami slyšeli z úst jeho. 
+**[22:71]** A oni řekli: Což ještě potřebujeme svědectví? Však jsme sami slyšeli z úst jeho.
 
 ### Chapter 23
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** Šedše pak také za ním ženy, kteréž byly s Ježíšem přišly z Galilee, pohleděly na hrob, a kterak pochováno bylo tělo jeho.
 
-**[23:56]** Vrátivše se pak, připravily vonné věci a masti, ale v sobotu odpočinuly, podlé přikázaní. 
+**[23:56]** Vrátivše se pak, připravily vonné věci a masti, ale v sobotu odpočinuly, podlé přikázaní.
 
 ### Chapter 24
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** A oni poklonivše se jemu, navrátili se do Jeruzaléma s radostí velikou.
 
-**[24:53]** A byli vždycky v chrámě, chválíce a dobrořečíce Boha. Amen.  
+**[24:53]** A byli vždycky v chrámě, chválíce a dobrořečíce Boha. Amen.
 
 ## John
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** Odpověděl Natanael a řekl jemu: Mistře, ty jsi Syn Boží, ty jsi ten král Izraelský.
 
-**[1:51]** Odpověděl Ježíš a řekl jemu: Žeť jsem řekl: Viděl jsem tebe pod fíkem, věříš. Větší věci nad tyto uzříš. I dí mu: Amen, amen pravím vám: Od tohoto času uzříte nebe otevřené, a anděly Boží vstupující a sstupující na Syna člověka. 
+**[1:51]** Odpověděl Ježíš a řekl jemu: Žeť jsem řekl: Viděl jsem tebe pod fíkem, věříš. Větší věci nad tyto uzříš. I dí mu: Amen, amen pravím vám: Od tohoto času uzříte nebe otevřené, a anděly Boží vstupující a sstupující na Syna člověka.
 
 ### Chapter 2
 
@@ -54324,7 +54324,7 @@
 
 **[2:24]** Ale Ježíš nesvěřil sebe samého jim, proto že on znal všecky.
 
-**[2:25]** Aniž potřeboval, aby kdo svědectví vydával o člověku; nebo on věděl, co by bylo v člověku. 
+**[2:25]** Aniž potřeboval, aby kdo svědectví vydával o člověku; nebo on věděl, co by bylo v člověku.
 
 ### Chapter 3
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** Otec miluje Syna, a všecko dal v ruku jeho.
 
-**[3:36]** Kdož věří v Syna, má život věčný; ale kdožť jest nevěřící Synu, neuzříť života, ale hněv Boží zůstává na něm. 
+**[3:36]** Kdož věří v Syna, má život věčný; ale kdožť jest nevěřící Synu, neuzříť života, ale hněv Boží zůstává na něm.
 
 ### Chapter 4
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** Tedy poznal otec, že právě ta hodina byla, v kterouž řekl byl jemu Ježíš: Syn tvůj živ jest. I uvěřil on i dům jeho všecken.
 
-**[4:54]** To opět druhý div učinil Ježíš, přišed z Judstva do Galilee. 
+**[4:54]** To opět druhý div učinil Ježíš, přišed z Judstva do Galilee.
 
 ### Chapter 5
 
@@ -54604,7 +54604,7 @@
 
 **[5:46]** Nebo kdybyste věřili Mojžíšovi, věřili byste i mně; neb on o mně psal.
 
-**[5:47]** Ale poněvadž jeho písmům nevěříte, i kterak slovům mým uvěříte? 
+**[5:47]** Ale poněvadž jeho písmům nevěříte, i kterak slovům mým uvěříte?
 
 ### Chapter 6
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** Odpověděl jim Ježíš: Však jsem já vás dvanácte vyvolil, a jeden z vás ďábel jest.
 
-**[6:71]** A to řekl o Jidášovi Šimona Iškariotského; nebo ten jej měl zraditi, byv jeden ze dvanácti. 
+**[6:71]** A to řekl o Jidášovi Šimona Iškariotského; nebo ten jej měl zraditi, byv jeden ze dvanácti.
 
 ### Chapter 7
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** Odpověděli a řekli jemu: Nejsi-li i ty Galilejský? Ptej se a viz, žeť prorok z Galilee nepovstal.
 
-**[7:53]** I šel jeden každý do domu svého. 
+**[7:53]** I šel jeden každý do domu svého.
 
 ### Chapter 8
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Řekl jim Ježíš: Amen, amen pravím vám: Prvé nežli Abraham byl, já jsem.
 
-**[8:59]** I zchápali kamení, aby házeli na něj. Ježíš pak skryl se, a prošed skrze ně, vyšel z chrámu, a tak odšel. 
+**[8:59]** I zchápali kamení, aby házeli na něj. Ježíš pak skryl se, a prošed skrze ně, vyšel z chrámu, a tak odšel.
 
 ### Chapter 9
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** I uslyšeli to někteří z farizeů, kteříž s ním byli, a řekli jemu: Zdali i my slepí jsme?
 
-**[9:41]** Řekl jim Ježíš: Byste slepí byli, hříchu byste neměli; ale nyní pravíte: Vidíme, protož hřích váš zůstává. 
+**[9:41]** Řekl jim Ježíš: Byste slepí byli, hříchu byste neměli; ale nyní pravíte: Vidíme, protož hřích váš zůstává.
 
 ### Chapter 10
 
@@ -55146,7 +55146,7 @@
 
 **[10:41]** I přišli k němu mnozí, a pravili: Jan zajisté žádného divu neučinil, ale všecko, cožkoli mluvil Jan o tomto, pravé bylo.
 
-**[10:42]** A mnozí tam uvěřili v něho. 
+**[10:42]** A mnozí tam uvěřili v něho.
 
 ### Chapter 11
 
@@ -55262,7 +55262,7 @@
 
 **[11:56]** I hledali Ježíše, a rozmlouvali vespolek, v chrámě stojíce: Co se vám zdá, že nepřišel k svátku?
 
-**[11:57]** Vydali pak byli přední kněží {biskupové} a farizeové mandát, jestliže by kdo zvěděl, kde by byl, aby pověděl, aby jej jali. 
+**[11:57]** Vydali pak byli přední kněží {biskupové} a farizeové mandát, jestliže by kdo zvěděl, kde by byl, aby pověděl, aby jej jali.
 
 ### Chapter 12
 
@@ -55364,7 +55364,7 @@
 
 **[12:49]** Nebo já sám od sebe jsem nemluvil, ale ten, kterýž mne poslal, Otec, on mi přikázaní dal, co bych měl praviti a mluviti.
 
-**[12:50]** A vím, že přikázaní jeho jest život věčný. A protož, což já mluvím, jakž mi pověděl Otec, takť mluvím. 
+**[12:50]** A vím, že přikázaní jeho jest život věčný. A protož, což já mluvím, jakž mi pověděl Otec, takť mluvím.
 
 ### Chapter 13
 
@@ -55442,7 +55442,7 @@
 
 **[13:37]** Dí jemu Petr: Pane, proč bych nemohl nyní jíti za tebou? Duši svou za tebe položím.
 
-**[13:38]** Odpověděl jemu Ježíš: Duši svou za mne položíš? Amen, amen pravím tobě: Nezazpíváť kohout, až mne třikrát zapříš. 
+**[13:38]** Odpověděl jemu Ježíš: Duši svou za mne položíš? Amen, amen pravím tobě: Nezazpíváť kohout, až mne třikrát zapříš.
 
 ### Chapter 14
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Již nemnoho mluviti budu s vámi; neboť jde kníže tohoto světa, ale nemáť nic na mně.
 
-**[14:31]** Ale aby poznal svět, že miluji Otce, a jakož mi přikázal Otec, tak činím. Vstaňte, poďme odtud. 
+**[14:31]** Ale aby poznal svět, že miluji Otce, a jakož mi přikázal Otec, tak činím. Vstaňte, poďme odtud.
 
 ### Chapter 15
 
@@ -55562,7 +55562,7 @@
 
 **[15:26]** Když pak přijde ten Utěšitel, kteréhož já pošli vám od Otce, Duch pravdy, kterýž od Otce pochází, tenť svědectví vydávati bude o mně.
 
-**[15:27]** Ano i vy svědectví vydávati budete, nebo od počátku se mnou jste. 
+**[15:27]** Ano i vy svědectví vydávati budete, nebo od počátku se mnou jste.
 
 ### Chapter 16
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** Aj, přijdeť hodina, anobrž již přišla, že se rozprchnete jeden každý k svému, a mne samého necháte. Ale nejsemť sám, nebo Otec se mnou jest.
 
-**[16:33]** Tyto věci mluvil jsem vám, abyste ve mně pokoj měli. Na světě ssoužení míti budete, ale doufejtež, jáť jsem přemohl svět. 
+**[16:33]** Tyto věci mluvil jsem vám, abyste ve mně pokoj měli. Na světě ssoužení míti budete, ale doufejtež, jáť jsem přemohl svět.
 
 ### Chapter 17
 
@@ -55684,7 +55684,7 @@
 
 **[17:25]** Otče spravedlivý, tebeť svět nepoznal, ale já jsem tebe poznal, a i tito poznali, že jsi ty mne poslal.
 
-**[17:26]** A známéť jsem jim učinil jméno tvé, a známo učiním, aby milování, kterýmž jsi mne miloval, bylo v nich, a i já v nich. 
+**[17:26]** A známéť jsem jim učinil jméno tvé, a známo učiním, aby milování, kterýmž jsi mne miloval, bylo v nich, a i já v nich.
 
 ### Chapter 18
 
@@ -55766,7 +55766,7 @@
 
 **[18:39]** Ale jest obyčej váš, abych vám propustil jednoho na velikunoc. Chcete-liž tedy, ať vám propustím toho krále Židovského?
 
-**[18:40]** I zkřikli opět všickni, řkouce: Ne toho, ale Barabáše. Byl pak ten Barabáš lotr. 
+**[18:40]** I zkřikli opět všickni, řkouce: Ne toho, ale Barabáše. Byl pak ten Barabáš lotr.
 
 ### Chapter 19
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** A byla na tom místě, kdež ukřižován byl, zahrada, a v zahradě hrob nový, v němž ještě žádný nebyl pochován.
 
-**[19:42]** Protož tu pro den připravování Židovský, že blízko byl ten hrob, položili Ježíše. 
+**[19:42]** Protož tu pro den připravování Židovský, že blízko byl ten hrob, položili Ježíše.
 
 ### Chapter 20
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** Mnohé zajisté i jiné divy činil Ježíš před oblíčejem učedlníků svých, kteříž nejsou zapsáni v knize této.
 
-**[20:31]** Ale tito zapsáni jsou, abyste věřili, že Ježíš jest Kristus, Syn Boží, a abyste věříce, život měli ve jménu jeho. 
+**[20:31]** Ale tito zapsáni jsou, abyste věřili, že Ježíš jest Kristus, Syn Boží, a abyste věříce, život měli ve jménu jeho.
 
 ### Chapter 21
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** Toť jest učedlník ten, kterýž svědectví vydává o těchto věcech, a napsal toto, a víme, že pravé jest svědectví jeho.
 
-**[21:25]** Jestiť pak i jiných mnoho věcí, kteréž činil Ježíš, kteréž kdyby měly všecky, každá obzvláštně, psány býti, mám za to, že by ten svět nemohl přijíti těch knih, kteréž by napsány byly. Amen.  
+**[21:25]** Jestiť pak i jiných mnoho věcí, kteréž činil Ježíš, kteréž kdyby měly všecky, každá obzvláštně, psány býti, mám za to, že by ten svět nemohl přijíti těch knih, kteréž by napsány byly. Amen.
 
 ## Acts
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** Aby přijal los přisluhování tohoto a apoštolství, z něhož vypadl Jidáš, aby odšel na místo své.
 
-**[1:26]** I dali jim losy. Spadl pak los na Matěje, i připojen jest z společného snešení k jedenácti apoštolům. 
+**[1:26]** I dali jim losy. Spadl pak los na Matěje, i připojen jest z společného snešení k jedenácti apoštolům.
 
 ### Chapter 2
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** A na každý den trvajíce jednomyslně v chrámě, a lámajíce po domích chléb, přijímali pokrm s potěšením a sprostností srdce,
 
-**[2:47]** Chválíce Boha, a milost majíce u všeho lidu. Pán pak přidával církvi na každý den těch, kteříž by spaseni byli. 
+**[2:47]** Chválíce Boha, a milost majíce u všeho lidu. Pán pak přidával církvi na každý den těch, kteříž by spaseni byli.
 
 ### Chapter 3
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** Vy jste synové proroků a úmluvy, kterouž učinil Bůh s otci našimi, řka Abrahamovi: V semeni tvém požehnány budou všecky čeledi země.
 
-**[3:26]** Vám nejprvé Bůh, vzbudiv Syna svého Ježíše, poslal ho dobrořečícího vám, aby se jeden každý z vás odvrátil od nepravostí svých. 
+**[3:26]** Vám nejprvé Bůh, vzbudiv Syna svého Ježíše, poslal ho dobrořečícího vám, aby se jeden každý z vás odvrátil od nepravostí svých.
 
 ### Chapter 4
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Jozes pak, kterýž přijmí měl od apoštolů Barnabáš, (což se vykládá syn utěšení,) z pokolení Levítského, z Cypru rodem,
 
-**[4:37]** Měv pole, prodal je, a přinesl peníze, a položil k nohám apoštolským. 
+**[4:37]** Měv pole, prodal je, a přinesl peníze, a položil k nohám apoštolským.
 
 ### Chapter 5
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** Oni pak šli z toho shromáždění, radujíce se, že jsou hodni učiněni trpěti protivenství pro jméno Pána Ježíše.
 
-**[5:42]** Na každý pak den nepřestávali v chrámě i po domích učiti a zvěstovati Ježíše Krista. 
+**[5:42]** Na každý pak den nepřestávali v chrámě i po domích učiti a zvěstovati Ježíše Krista.
 
 ### Chapter 6
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** Nebo jsme slyšeli jej, an praví: Že ten Ježíš Nazaretský zkazí místo toto, a promění ustanovení, kteráž nám vydal Mojžíš.
 
-**[6:15]** A pilně patříce na něj všickni, kteříž seděli v radě, viděli tvář jeho, jako tvář anděla. 
+**[6:15]** A pilně patříce na něj všickni, kteříž seděli v radě, viděli tvář jeho, jako tvář anděla.
 
 ### Chapter 7
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** I kamenovali Štěpána modlícího se a řkoucího: Pane Ježíši, přijmi ducha mého.
 
-**[7:60]** A poklek na kolena, zvolal hlasem velikým: Pane, nepokládej jim toho za hřích. A to pověděv, usnul. 
+**[7:60]** A poklek na kolena, zvolal hlasem velikým: Pane, nepokládej jim toho za hřích. A to pověděv, usnul.
 
 ### Chapter 8
 
@@ -56572,7 +56572,7 @@
 
 **[8:39]** A když vystoupili z vody, Duch Páně pochopil Filipa, a neviděl ho více komorník; nebo jel cestou svou, raduje se.
 
-**[8:40]** Filip pak nalezen jest v Azotu; a chodě, kázal evangelium všechněm městům, až přišel do Cesaree. 
+**[8:40]** Filip pak nalezen jest v Azotu; a chodě, kázal evangelium všechněm městům, až přišel do Cesaree.
 
 ### Chapter 9
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** I rozhlášeno jest to po všem Joppen, a uvěřili mnozí v Pána.
 
-**[9:43]** I stalo se, že za mnohé dni pozůstal Petr v Joppen u nějakého Šimona koželuha. 
+**[9:43]** I stalo se, že za mnohé dni pozůstal Petr v Joppen u nějakého Šimona koželuha.
 
 ### Chapter 10
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Zdali může kdo zabrániti vody, aby tito nebyli pokřtěni, kteříž Ducha svatého přijali jako i my?
 
-**[10:48]** A rozkázal je pokřtiti ve jménu Páně. I prosili ho, aby u nich pobyl za některý den. 
+**[10:48]** A rozkázal je pokřtiti ve jménu Páně. I prosili ho, aby u nich pobyl za některý den.
 
 ### Chapter 11
 
@@ -56820,7 +56820,7 @@
 
 **[11:29]** Tedy učedlníci, jeden každý podlé možnosti své, umínili poslati ku pomoci bratřím přebývajícím v Judstvu.
 
-**[11:30]** Což i učinili, poslavše k starším skrze ruce Barnabáše a Saule. 
+**[11:30]** Což i učinili, poslavše k starším skrze ruce Barnabáše a Saule.
 
 ### Chapter 12
 
@@ -56872,7 +56872,7 @@
 
 **[12:24]** A slovo Páně rostlo a rozmáhalo se.
 
-**[12:25]** Barnabáš pak a Saul navrátili se z Jeruzaléma, vykonavše službu, pojavše s sebou i Jana, kterýž přijmí měl Marek. 
+**[12:25]** Barnabáš pak a Saul navrátili se z Jeruzaléma, vykonavše službu, pojavše s sebou i Jana, kterýž přijmí měl Marek.
 
 ### Chapter 13
 
@@ -56978,7 +56978,7 @@
 
 **[13:51]** A oni vyrazivše prach z noh svých na ně, přišli do Ikonie.
 
-**[13:52]** Učedlníci pak naplněni byli radostí a Duchem svatým. 
+**[13:52]** Učedlníci pak naplněni byli radostí a Duchem svatým.
 
 ### Chapter 14
 
@@ -57036,7 +57036,7 @@
 
 **[14:27]** A když tam přišli, a shromáždili církev, vypravovali, kteraké věci Bůh skrze ně učinil, a že otevřel pohanům dvéře víry.
 
-**[14:28]** I byli tu za nemalý čas s učedlníky. 
+**[14:28]** I byli tu za nemalý čas s učedlníky.
 
 ### Chapter 15
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** A Pavel přivzav Sílu, odšel, poručen byv milosti Boží od bratří.
 
-**[15:41]** I procházel Syrii a Cilicii, potvrzuje církví. 
+**[15:41]** I procházel Syrii a Cilicii, potvrzuje církví.
 
 ### Chapter 16
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** A přišedše, prosili jich; a vyvedše je, žádali jich, aby šli z města.
 
-**[16:40]** I vyšedše z žaláře, vešli k Lydii, a uzřevše bratří, potěšili jich, a odešli. 
+**[16:40]** I vyšedše z žaláře, vešli k Lydii, a uzřevše bratří, potěšili jich, a odešli.
 
 ### Chapter 17
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** A tak Pavel vyšel z prostředku jejich.
 
-**[17:34]** Někteří pak muži, přídržíce se ho, uvěřili, mezi kterýmiž byl i Dionyzius Areopagitský, i žena, jménem Damaris, a jiní s nimi. 
+**[17:34]** Někteří pak muži, přídržíce se ho, uvěřili, mezi kterýmiž byl i Dionyzius Areopagitský, i žena, jménem Damaris, a jiní s nimi.
 
 ### Chapter 18
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** A když chtěl jíti do Achaie, bratří napomenuvše ho, psali učedlníkům, aby jej přijali. Kterýž když tam přišel, mnoho prospěl těm, kteříž uvěřili skrze milost Boží.
 
-**[18:28]** Nebo náramně přemáhal Židy, zjevně přede všemi toho dokazuje z písem, že Ježíš jest Kristus. 
+**[18:28]** Nebo náramně přemáhal Židy, zjevně přede všemi toho dokazuje z písem, že Ježíš jest Kristus.
 
 ### Chapter 19
 
@@ -57414,7 +57414,7 @@
 
 **[19:40]** Nebo strach jest, abychom nedošli nesnáze pro tu bouřku dnešní, poněvadž žádné příčiny není, kterouž bychom mohli předložiti, proč jsme se tuto zběhli.
 
-**[19:41]** A to pověděv, propustil lid. 
+**[19:41]** A to pověděv, propustil lid.
 
 ### Chapter 20
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** I stal se pláč veliký ode všech, a padajíce na hrdlo Pavlovo, líbali jej,
 
-**[20:38]** Rmoutíce se nejvíce nad tím slovem, kteréž řekl, že by již více neměli tváři jeho viděti. I provodili jej až k lodí. 
+**[20:38]** Rmoutíce se nejvíce nad tím slovem, kteréž řekl, že by již více neměli tváři jeho viděti. I provodili jej až k lodí.
 
 ### Chapter 21
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** I řekl Pavel: Já jsem člověk Žid Tarsenský, neposledního města v Cilicii obyvatel; protož prosím tebe, dopusť mi promluviti k lidu.
 
-**[21:40]** A když mu on dopustil, Pavel stoje na stupních, pokynul rukou na lid. A když se veliké mlčení stalo, mluvil k nim Židovsky, řka: 
+**[21:40]** A když mu on dopustil, Pavel stoje na stupních, pokynul rukou na lid. A když se veliké mlčení stalo, mluvil k nim Židovsky, řka:
 
 ### Chapter 22
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Tedy i hned odstoupili od něho ti, kteříž jej měli trápiti. Ano i hejtman bál se, zvěděv, že jest Říman, a proto že jej byl kázal svázati.
 
-**[22:30]** Nazejtří pak, chtěje zvěděti jistotu, z čeho by jej vinili Židé, propustil jej z pout, a rozkázal, aby se sešli přední kněží {biskupové} i všecka rada jejich. I vyvedl Pavla, a postavil před nimi. 
+**[22:30]** Nazejtří pak, chtěje zvěděti jistotu, z čeho by jej vinili Židé, propustil jej z pout, a rozkázal, aby se sešli přední kněží {biskupové} i všecka rada jejich. I vyvedl Pavla, a postavil před nimi.
 
 ### Chapter 23
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** A přečta list vládař, otázal se ho, z které by krajiny byl. A zvěděv, že jest z Cilicie,
 
-**[23:35]** Řekl: Budu tě slyšeti, když tvoji žalobníci také přijdou. I rozkázal ho ostříhati v domě Heródesově. 
+**[23:35]** Řekl: Budu tě slyšeti, když tvoji žalobníci také přijdou. I rozkázal ho ostříhati v domě Heródesově.
 
 ### Chapter 24
 
@@ -57764,7 +57764,7 @@
 
 **[24:26]** Přitom pak nadál se, že jemu Pavel dá peníze, aby jej propustil, pročež i tím častěji, povolávaje ho, mluvíval s ním.
 
-**[24:27]** Po dvou pak letech měl po sobě náměstka Felix Porcia Festa, a chtěje se zalíbiti Židům Felix, nechal Pavla v vězení. 
+**[24:27]** Po dvou pak letech měl po sobě náměstka Felix Porcia Festa, a chtěje se zalíbiti Židům Felix, nechal Pavla v vězení.
 
 ### Chapter 25
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** O němž, co bych jistého napsal pánu, nevím. Protož jsem jej teď přivedl před vás, a zvláště před tebe, králi Agrippo, abych vyptaje se, věděl co psáti.
 
-**[25:27]** Nebo zdá mi se to neslušné býti poslati vězně, a pře jeho neoznámiti. 
+**[25:27]** Nebo zdá mi se to neslušné býti poslati vězně, a pře jeho neoznámiti.
 
 ### Chapter 26
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** A odšedše na stranu, mluvili spolu, řkouce: Nic hodného smrti neb vězení nečiní člověk tento.
 
-**[26:32]** Agrippa pak Festovi řekl: Mohl propuštěn býti člověk tento, kdyby se byl neodvolal k císaři. 
+**[26:32]** Agrippa pak Festovi řekl: Mohl propuštěn býti člověk tento, kdyby se byl neodvolal k císaři.
 
 ### Chapter 27
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** Ale setník chtěje zachovati Pavla, nedal toho učiniti. I rozkázal těm, kteříž mohli plovati, aby se pustili nejprv, a vyplynuli na zem,
 
-**[27:44]** Jiní pak na dskách, a někteří na kusích lodí. A tak se stalo, že všickni zdraví vyšli na zemi. 
+**[27:44]** Jiní pak na dskách, a někteří na kusích lodí. A tak se stalo, že všickni zdraví vyšli na zemi.
 
 ### Chapter 28
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Pavel pak trval za celé dvě létě v hospodě své, a přijímal všecky, kteříž přicházeli k němu,
 
-**[28:31]** Káže o království Božím, a uče těm věcem, kteréž jsou o Pánu Ježíši Kristu, se vší doufanlivostí bez překážky.  
+**[28:31]** Káže o království Božím, a uče těm věcem, kteréž jsou o Pánu Ježíši Kristu, se vší doufanlivostí bez překážky.
 
 ## Romans
 
@@ -58108,7 +58108,7 @@
 
 **[1:31]** Nemoudří, smluv nezdrželiví, beze vší lítosti, neukojitelní a nemilosrdní.
 
-**[1:32]** Kteříž vědouce o tom právu Božím, (že ti, kteříž takové věci činí, hodni jsou smrti,) netoliko ty věci činí, ale i činícím nakládají. 
+**[1:32]** Kteříž vědouce o tom právu Božím, (že ti, kteříž takové věci činí, hodni jsou smrti,) netoliko ty věci činí, ale i činícím nakládají.
 
 ### Chapter 2
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** Nebo ne ten jest Žid, kterýž jest zjevně; aniž to jest obřezání, kteréž bývá zjevně na těle;
 
-**[2:29]** Ale ten jest Žid, kterýž vnitř jest Židem, obřezání maje srdečné v duchu, a ne podlé litery; jehož chvála ne z lidí jest, ale z Boha. 
+**[2:29]** Ale ten jest Žid, kterýž vnitř jest Židem, obřezání maje srdečné v duchu, a ne podlé litery; jehož chvála ne z lidí jest, ale z Boha.
 
 ### Chapter 3
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** Poněvadž jeden jest Bůh, kterýž ospravedlňuje obřízku z víry, a neobřízku skrze víru.
 
-**[3:31]** Což tedy zákon vyprazdňujeme skrze víru? Nikoli, nýbrž zákon tvrdíme. 
+**[3:31]** Což tedy zákon vyprazdňujeme skrze víru? Nikoli, nýbrž zákon tvrdíme.
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** Ale i pro nás, kterýmž bude počteno, věřícím totiž v toho, kterýž vzkřísil Ježíše Pána našeho z mrtvých,
 
-**[4:25]** Kterýž vydán jest pro hříchy naše, a vstal z mrtvých pro ospravedlnění naše. 
+**[4:25]** Kterýž vydán jest pro hříchy naše, a vstal z mrtvých pro ospravedlnění naše.
 
 ### Chapter 5
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** Zákon pak k tomu přistoupil, aby se rozhojnil hřích, a kdež se rozhojnil hřích, tu ještě více rozhojnila se milost,
 
-**[5:21]** Aby jakož kraloval hřích k smrti, tak aby i milost kralovala skrze spravedlnost k životu věčnému, skrze Jezukrista Pána našeho. 
+**[5:21]** Aby jakož kraloval hřích k smrti, tak aby i milost kralovala skrze spravedlnost k životu věčnému, skrze Jezukrista Pána našeho.
 
 ### Chapter 6
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** Nyní pak vysvobozeni jsouce od hříchu, a podmaněni v službu Bohu, máte užitek svůj ku posvěcení, cíl pak život věčný.
 
-**[6:23]** Nebo odplata za hřích jest smrt, ale milost Boží život věčný v Kristu Ježíši, Pánu našem. 
+**[6:23]** Nebo odplata za hřích jest smrt, ale milost Boží život věčný v Kristu Ježíši, Pánu našem.
 
 ### Chapter 7
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** Bídný já člověk! Kdo mne vysvobodí z toho těla smrti?
 
-**[7:25]** Děkujiť Bohu skrze Jezukrista Pána našeho. A takž tedy tentýž já sloužím myslí zákonu Božímu, ale tělem zákonu hřícha. 
+**[7:25]** Děkujiť Bohu skrze Jezukrista Pána našeho. A takž tedy tentýž já sloužím myslí zákonu Božímu, ale tělem zákonu hřícha.
 
 ### Chapter 8
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** Jist jsem zajisté, že ani smrt, ani život, ani andělé, ani knížatstvo, ani mocnosti, ani nastávající věci, ani budoucí,
 
-**[8:39]** Ani vysokost, ani hlubokost, ani kterékoli jiné stvoření, nebude moci nás odloučiti od lásky Boží, kteráž jest v Kristu Ježíši, Pánu našem. 
+**[8:39]** Ani vysokost, ani hlubokost, ani kterékoli jiné stvoření, nebude moci nás odloučiti od lásky Boží, kteráž jest v Kristu Ježíši, Pánu našem.
 
 ### Chapter 9
 
@@ -58576,7 +58576,7 @@
 
 **[9:32]** Proč? Nebo ne z víry, ale jako z skutků zákona jí hledali. Urazili se zajisté o kámen urážky,
 
-**[9:33]** Jakož psáno jest: Aj, kladu na Sionu kámen urážky a skálu pohoršení, a každý, kdož uvěří v něj, nebude zahanben. 
+**[9:33]** Jakož psáno jest: Aj, kladu na Sionu kámen urážky a skálu pohoršení, a každý, kdož uvěří v něj, nebude zahanben.
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** A Izaiáš směle dí: Nalezen jsem od těch, kteříž mne nehledali; zjeven jsem těm, kteříž se na mne neptali.
 
-**[10:21]** Ale proti Izraelovi dí: Přes celý den roztahoval jsem ruce své k lidu nepovolnému a protivnému. 
+**[10:21]** Ale proti Izraelovi dí: Přes celý den roztahoval jsem ruce své k lidu nepovolnému a protivnému.
 
 ### Chapter 11
 
@@ -58694,7 +58694,7 @@
 
 **[11:35]** Nebo kdo prvé dal jemu, a budeť mu odplaceno?
 
-**[11:36]** Nebo z něho, a skrze něho, a v něm jsou všecky věci, jemuž sláva na věky. Amen. 
+**[11:36]** Nebo z něho, a skrze něho, a v něm jsou všecky věci, jemuž sláva na věky. Amen.
 
 ### Chapter 12
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** A protož lační-li nepřítel tvůj, nakrm jej, a žízní-li, dej mu píti. Nebo to učině, uhlí řeřavé shrneš na hlavu jeho.
 
-**[12:21]** Nedej se přemoci zlému, ale přemáhej v dobrém zlé. 
+**[12:21]** Nedej se přemoci zlému, ale přemáhej v dobrém zlé.
 
 ### Chapter 13
 
@@ -58768,7 +58768,7 @@
 
 **[13:13]** Jakožto ve dne poctivě choďme, ne v hodování a v opilství, ne v smilstvích a v chlipnostech, ne v sváru a v závisti.
 
-**[13:14]** Ale oblecte se v Pána Jezukrista, a nepečujte o tělo podlé žádosti jeho. 
+**[13:14]** Ale oblecte se v Pána Jezukrista, a nepečujte o tělo podlé žádosti jeho.
 
 ### Chapter 14
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Ty víru máš? Mějž ji sám u sebe před Bohem. Blahoslavený, kdož nesoudí sebe samého v tom, což oblibuje.
 
-**[14:23]** Ale kdož pak rozpakuje se, kdyby jedl, potupen jest, nebo ne z víry jí. A cožkoli není z víry, hřích jest. 
+**[14:23]** Ale kdož pak rozpakuje se, kdyby jedl, potupen jest, nebo ne z víry jí. A cožkoli není z víry, hřích jest.
 
 ### Chapter 15
 
@@ -58884,7 +58884,7 @@
 
 **[15:32]** Abych k vám bohdá s radostí přišel, a s vámi poodpočinul.
 
-**[15:33]** Bůh pak pokoje se všemi vámi. Amen. 
+**[15:33]** Bůh pak pokoje se všemi vámi. Amen.
 
 ### Chapter 16
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** Nyní pak zjeveného i skrze písma prorocká, podlé poručení věčného Boha, ku poslušenství víry všechněm národům oznámeného,
 
-**[16:27]** Tomu samému moudrému Bohu sláva skrze Jezukrista na věky. Amen.  
+**[16:27]** Tomu samému moudrému Bohu sláva skrze Jezukrista na věky. Amen.
 
 ## I Corinthians
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** Vy pak jste z něho v Kristu Ježíši, kterýž učiněn jest nám moudrost od Boha, i spravedlnost, i posvěcení, i vykoupení,
 
-**[1:31]** Aby, jakož jest napsáno, kdo se chlubí, v Pánu se chlubil. 
+**[1:31]** Aby, jakož jest napsáno, kdo se chlubí, v Pánu se chlubil.
 
 ### Chapter 2
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** Duchovní pak rozsuzuje všecko, sám pak od žádného nebývá souzen.
 
-**[2:16]** Nebo kdo pozná mysl toho Pána, kterýž jej vyučovati bude? My pak mysl Kristovu máme. 
+**[2:16]** Nebo kdo pozná mysl toho Pána, kterýž jej vyučovati bude? My pak mysl Kristovu máme.
 
 ### Chapter 3
 
@@ -59088,7 +59088,7 @@
 
 **[3:22]** Buď Pavel, buď Apollo, buď Petr, buď svět, buď život, buď smrt, buď přítomné věci, buďto budoucí, všecko jest vaše,
 
-**[3:23]** Vy pak Kristovi, a Kristus Boží. 
+**[3:23]** Vy pak Kristovi, a Kristus Boží.
 
 ### Chapter 4
 
@@ -59130,9 +59130,9 @@
 
 **[4:19]** Ale přijduť k vám brzo, bude-li Pán chtíti, a poznám ne řeč těch nadutých, ale moc.
 
-**[4:20]** Neboť nezáleží v řeči království Boží, ale v moci.
+**[4:20]** Neboť ne záleží v řeči království Boží, ale v moci.
 
-**[4:21]** Co chcete? S metlou-li abych přišel k vám, čili s láskou, a s duchem tichosti? 
+**[4:21]** Co chcete? S metlou-li abych přišel k vám, čili s láskou, a s duchem tichosti?
 
 ### Chapter 5
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** Nebo proč já mám i ty, kteříž jsou vně, souditi? Však ty, kteříž jsou vnitř, vy soudíte.
 
-**[5:13]** Ty pak, kteříž jsou vně, Bůh soudí. Vyvrztež tedy toho zlého sami z sebe. 
+**[5:13]** Ty pak, kteříž jsou vně, Bůh soudí. Vyvrztež tedy toho zlého sami z sebe.
 
 ### Chapter 6
 
@@ -59202,7 +59202,7 @@
 
 **[6:19]** Zdaliž nevíte, že tělo vaše jest chrám Ducha svatého v vás? Kteréhož máte od Boha, a nejste sami svoji.
 
-**[6:20]** Nebo koupeni jste za mzdu. Oslavujtež tedy Boha tělem svým i duchem svým, kteréžto věci Boží jsou. 
+**[6:20]** Nebo koupeni jste za mzdu. Oslavujtež tedy Boha tělem svým i duchem svým, kteréžto věci Boží jsou.
 
 ### Chapter 7
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** Žena přivázána jest zákonem dotud, dokudž její muž živ jest. Pakli by umřel muž její, svobodná jest; můž se vdáti, za kohož chce, toliko v Pánu.
 
-**[7:40]** Ale blahoslavenější jest, zůstala-li by tak, podlé mého soudu. Mámť pak za to, žeť i já mám Ducha Božího. 
+**[7:40]** Ale blahoslavenější jest, zůstala-li by tak, podlé mého soudu. Mámť pak za to, žeť i já mám Ducha Božího.
 
 ### Chapter 8
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** A tak hřešíce proti bratřím, a urážejíce svědomí jejich mdlé, proti Kristu hřešíte.
 
-**[8:13]** A protož jestližeť pohoršuje pokrm bratra mého, nebudu jísti masa na věky, abych nezhoršil bratra svého. 
+**[8:13]** A protož jestližeť pohoršuje pokrm bratra mého, nebudu jísti masa na věky, abych nezhoršil bratra svého.
 
 ### Chapter 9
 
@@ -59368,7 +59368,7 @@
 
 **[9:26]** Protož já tak běžím, ne jako v nejistotu, tak bojuji, ne jako vítr rozrážeje,
 
-**[9:27]** Ale podmaňuji tělo své, a v službu podrobuji, abych snad jiným káže, sám nebyl nešlechetný. 
+**[9:27]** Ale podmaňuji tělo své, a v službu podrobuji, abych snad jiným káže, sám nebyl nešlechetný.
 
 ### Chapter 10
 
@@ -59436,7 +59436,7 @@
 
 **[10:32]** Bez úrazu buďte i Židům i Řekům i církvi Boží,
 
-**[10:33]** Jakož i já ve všem líbím se všechněm, nehledaje v tom svého užitku, ale mnohých, aby spaseni byli. 
+**[10:33]** Jakož i já ve všem líbím se všechněm, nehledaje v tom svého užitku, ale mnohých, aby spaseni byli.
 
 ### Chapter 11
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** A tak, bratří moji, když se scházíte k jídlu, jedni na druhé čekávejte.
 
-**[11:34]** Pakli kdo lační, doma jez, abyste se nescházeli k odsouzení. Jiné pak věci, když přijdu, zřídím. 
+**[11:34]** Pakli kdo lační, doma jez, abyste se nescházeli k odsouzení. Jiné pak věci, když přijdu, zřídím.
 
 ### Chapter 12
 
@@ -59570,7 +59570,7 @@
 
 **[12:30]** Zdali všickni mají dary k uzdravování? Zdali všickni jazyky mluví? Zdali všickni vykládají?
 
-**[12:31]** Snažujte se pak dojíti darů lepších, a ještěť vyšší cestu vám ukáži. 
+**[12:31]** Snažujte se pak dojíti darů lepších, a ještěť vyšší cestu vám ukáži.
 
 ### Chapter 13
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** Nyní zajisté vidíme v zrcadle a skrze podobenství, ale tehdáž tváří v tvář. Nyní poznávám z částky, ale tehdy poznám, tak jakž i známostí obdařen budu.
 
-**[13:13]** Nyní pak zůstává víra, naděje, láska, to tré, ale největší z nich jestiť láska. 
+**[13:13]** Nyní pak zůstává víra, naděje, láska, to tré, ale největší z nich jestiť láska.
 
 ### Chapter 14
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** A takž, bratří, snažte se o to, abyste prorokovali, a jazyky mluviti nezbraňujte.
 
-**[14:40]** Všecko slušně a podlé řádu ať se děje. 
+**[14:40]** Všecko slušně a podlé řádu ať se děje.
 
 ### Chapter 15
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** Ale Bohu díka, kterýž dal nám vítězství skrze Pána našeho Jezukrista.
 
-**[15:58]** Protož, bratří moji milí, stálí buďte a nepohnutelní, rozhojňujíce se v díle Páně vždycky, vědouce, že práce vaše není daremná v Pánu. 
+**[15:58]** Protož, bratří moji milí, stálí buďte a nepohnutelní, rozhojňujíce se v díle Páně vždycky, vědouce, že práce vaše není daremná v Pánu.
 
 ### Chapter 16
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Milost Pána Jezukrista s vámi.
 
-**[16:24]** I láska má v Kristu Ježíši se všechněmi vámi. Amen.  
+**[16:24]** I láska má v Kristu Ježíši se všechněmi vámi. Amen.
 
 ## II Corinthians
 
@@ -59900,7 +59900,7 @@
 
 **[1:23]** Já pak Boha za svědka beru na svou duši, že lituje vás, ještě jsem nepřišel do Korintu.
 
-**[1:24]** Ne jako bychom panovali nad věrou vaší, ale pomocníci jsme radosti vaší; nebo věrou stojíte. 
+**[1:24]** Ne jako bychom panovali nad věrou vaší, ale pomocníci jsme radosti vaší; nebo věrou stojíte.
 
 ### Chapter 2
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** Těmto zajisté vůně smrtelná k smrti, oněmno pak vůně života k životu. Ale k tomu kdo jest způsobný?
 
-**[2:17]** Neboť nejsme, jako mnozí, cizoložící slovo Boží, ale jako z upřímnosti, ale jako z Boha, před oblíčejem Božím, o Kristu mluvíme. 
+**[2:17]** Neboť nejsme, jako mnozí, cizoložící slovo Boží, ale jako z upřímnosti, ale jako z Boha, před oblíčejem Božím, o Kristu mluvíme.
 
 ### Chapter 3
 
@@ -59974,7 +59974,7 @@
 
 **[3:17]** Nebo Pán jest Duch ten, a kdež jest ten Duch Páně, tu i svoboda.
 
-**[3:18]** My pak všickni odkrytou tváří slávu Páně jako v zrcadle spatřujíce, v týž obraz proměněni býváme od slávy v slávu, jakožto od Ducha Páně. 
+**[3:18]** My pak všickni odkrytou tváří slávu Páně jako v zrcadle spatřujíce, v týž obraz proměněni býváme od slávy v slávu, jakožto od Ducha Páně.
 
 ### Chapter 4
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** Nebo toto nynější lehoučké ssoužení naše převelmi veliké věčné slávy břímě nám působí,
 
-**[4:18]** Když nepatříme na ty věci, kteréž se vidí, ale na ty, kteréž se nevidí. Nebo ty věci, kteréž se vidí, jsou časné, ale které se nevidí, jsou věčné. 
+**[4:18]** Když nepatříme na ty věci, kteréž se vidí, ale na ty, kteréž se nevidí. Nebo ty věci, kteréž se vidí, jsou časné, ale které se nevidí, jsou věčné.
 
 ### Chapter 5
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** Protož my na místě Kristově poselství dějíce, jako by Bůh skrze náš žádal, prosíme na místě Kristově, smiřte se s Bohem.
 
-**[5:21]** Nebo toho, kterýž hříchu nepoznal, za nás učinil hříchem, abychom my učiněni byli spravedlností Boží v něm. 
+**[5:21]** Nebo toho, kterýž hříchu nepoznal, za nás učinil hříchem, abychom my učiněni byli spravedlností Boží v něm.
 
 ### Chapter 6
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** A protož vyjdětež z prostředku jejich, a oddělte se, praví Pán; a nečistého se nedotýkejte, a já přijmu vás.
 
-**[6:18]** A budu vám za Otce, a vy mi budete za syny a za dcery, praví Pán všemohoucí. 
+**[6:18]** A budu vám za Otce, a vy mi budete za syny a za dcery, praví Pán všemohoucí.
 
 ### Chapter 7
 
@@ -60128,7 +60128,7 @@
 
 **[7:15]** Ano i srdce jeho k vám jest příchylnější, když rozpomíná se na poslušenství všech vás, kterak jste ho s bázní a s strachem přijali.
 
-**[7:16]** Protož raduji se, že ve všem mohu se vám dověřiti. 
+**[7:16]** Protož raduji se, že ve všem mohu se vám dověřiti.
 
 ### Chapter 8
 
@@ -60178,7 +60178,7 @@
 
 **[8:23]** Z strany Tita, tovaryš můj jest, a mezi vámi pomocník; z strany bratří našich, poslové jsou církví a sláva Kristova.
 
-**[8:24]** Protož jistoty lásky své a chlouby naší o vás k nim dokažte, před oblíčejem církví. 
+**[8:24]** Protož jistoty lásky své a chlouby naší o vás k nim dokažte, před oblíčejem církví.
 
 ### Chapter 9
 
@@ -60210,7 +60210,7 @@
 
 **[9:14]** A modlí se za vás ti, kteříž vás převelice milují pro vyvýšenou milost Boží v vás.
 
-**[9:15]** Díka pak Bohu z nevymluvného daru jeho. 
+**[9:15]** Díka pak Bohu z nevymluvného daru jeho.
 
 ### Chapter 10
 
@@ -60248,7 +60248,7 @@
 
 **[10:17]** Ale kdo se chlubí, v Pánu se chlub.
 
-**[10:18]** Nebo ne ten, kdož se sám chválí, zkušený jest, ale ten, kohož Pán chválí. 
+**[10:18]** Nebo ne ten, kdož se sám chválí, zkušený jest, ale ten, kohož Pán chválí.
 
 ### Chapter 11
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** Hejtman v Damašku lidu Aréty krále, ostříhal města Damašku, chtěje mne do vězení vzíti.
 
-**[11:33]** Ale oknem po provaze spuštěn jsem v koši přes zed, i ušel jsem rukou jeho. 
+**[11:33]** Ale oknem po provaze spuštěn jsem v koši přes zed, i ušel jsem rukou jeho.
 
 ### Chapter 12
 
@@ -60360,7 +60360,7 @@
 
 **[12:20]** Neboť se bojím, abych snad přijda, nenalezl vás takových, jakýchž bych nechtěl, a já nebyl nalezen od vás, jakéhož byste vy nechtěli, aby snad nebylo svárů, závistí, hněvů, vád, utrhání, reptání, nadýmání, různic,
 
-**[12:21]** Aby mne opět, když bych přišel, neponížil Bůh můj u vás, a plakal bych mnohých z těch, kteříž prvé hřešili, a nečinili pokání z nečistoty, a z smilstva, a z nestydatosti, kterouž páchali. 
+**[12:21]** Aby mne opět, když bych přišel, neponížil Bůh můj u vás, a plakal bych mnohých z těch, kteříž prvé hřešili, a nečinili pokání z nečistoty, a z smilstva, a z nestydatosti, kterouž páchali.
 
 ### Chapter 13
 
@@ -60390,7 +60390,7 @@
 
 **[13:13]** Pozdravují vás všickni svatí.
 
-**[13:14]** Milost Pána Jezukrista, a láska Boží, a účastenství Ducha svatého se všechněmi vámi. Amen.  
+**[13:14]** Milost Pána Jezukrista, a láska Boží, a účastenství Ducha svatého se všechněmi vámi. Amen.
 
 ## Galatians
 
@@ -60442,7 +60442,7 @@
 
 **[1:23]** Než toliko slýchali: Že ten, kterýž se nám někdy protivil, již nyní káže víru, kterouž někdy vybojovával.
 
-**[1:24]** A slavili ve mně Boha. 
+**[1:24]** A slavili ve mně Boha.
 
 ### Chapter 2
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** S Kristem ukřižován jsem. Živť jsem pak již ne já, ale živ jest ve mně Kristus. Že pak nyní živ jsem v těle, u víře Syna Božího živ jsem, kterýž zamiloval mne, a vydal sebe samého za mne.
 
-**[2:21]** Nepohrdámť tou milostí Boží. Nebo jestližeť jest z zákona spravedlnost, tedyť Kristus nadarmo umřel. 
+**[2:21]** Nepohrdámť tou milostí Boží. Nebo jestližeť jest z zákona spravedlnost, tedyť Kristus nadarmo umřel.
 
 ### Chapter 3
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** Neníť ani Žid, ani Řek, ani slouha, ani svobodný, ani muž, ani žena. Nebo všickni vy jedno jste v Kristu Ježíši.
 
-**[3:29]** A když Kristovi jste, tedy símě Abrahamovo jste, a podlé zaslíbení dědicové. 
+**[3:29]** A když Kristovi jste, tedy símě Abrahamovo jste, a podlé zaslíbení dědicové.
 
 ### Chapter 4
 
@@ -60610,7 +60610,7 @@
 
 **[4:30]** Než co praví písmo? Vyvrz děvku i syna jejího; nebo nebudeť dědicem syn děvky s synem svobodné.
 
-**[4:31]** A tak, bratří, nejsmeť synové děvky, ale svobodné. 
+**[4:31]** A tak, bratří, nejsmeť synové děvky, ale svobodné.
 
 ### Chapter 5
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** Jsme-liť Duchem živi, Duchem i choďme.
 
-**[5:26]** Nebývejme marné chvály žádostivi, jedni druhých popouzejíce, a jedni druhým závidíce. 
+**[5:26]** Nebývejme marné chvály žádostivi, jedni druhých popouzejíce, a jedni druhým závidíce.
 
 ### Chapter 6
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Dále pak žádný mi nečiň zaměstknání, já zajisté jízvy Pána Ježíše nosím na těle svém.
 
-**[6:18]** Milost Pána Ježíše Krista s duchem vaším, bratří. Amen.  
+**[6:18]** Milost Pána Ježíše Krista s duchem vaším, bratří. Amen.
 
 ## Ephesians
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** A všecko poddal pod nohy jeho, a jej dal hlavu nade všecko církvi,
 
-**[1:23]** Kteráž jest tělo jeho, a plnost všecko ve všech naplňujícího. 
+**[1:23]** Kteráž jest tělo jeho, a plnost všecko ve všech naplňujícího.
 
 ### Chapter 2
 
@@ -60798,7 +60798,7 @@
 
 **[2:21]** Na němž všecko stavení příslušně vzdělané roste v chrám svatý v Pánu.
 
-**[2:22]** Na kterémž i vy spolu vzděláváte se v příbytek Boží, v Duchu svatém. 
+**[2:22]** Na kterémž i vy spolu vzděláváte se v příbytek Boží, v Duchu svatém.
 
 ### Chapter 3
 
@@ -60842,7 +60842,7 @@
 
 **[3:20]** Tomu pak, kterýž mocen jest nade všecko učiniti mnohem hojněji, než my prosíme aneb rozumíme, podlé moci té, kterouž dělá v nás,
 
-**[3:21]** Tomu buď sláva v církvi skrze Krista Ježíše po všecky věky věků. Amen. 
+**[3:21]** Tomu buď sláva v církvi skrze Krista Ježíše po všecky věky věků. Amen.
 
 ### Chapter 4
 
@@ -60908,7 +60908,7 @@
 
 **[4:31]** Všeliká hořkost, a rozzlobení se, i hněv, i křik, i rouhání buď odjato od vás, se vší zlostí,
 
-**[4:32]** Ale buďte k sobě vespolek dobrotiví, milosrdní, odpouštějíce sobě vespolek, jakož i Bůh v Kristu odpustil vám. 
+**[4:32]** Ale buďte k sobě vespolek dobrotiví, milosrdní, odpouštějíce sobě vespolek, jakož i Bůh v Kristu odpustil vám.
 
 ### Chapter 5
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** Tajemství toto veliké jest, ale já pravím o Kristu a o církvi.
 
-**[5:33]** A však i vy, jeden každý z vás, manželku svou tak jako sám sebe miluj. Žena pak ať se bojí muže. 
+**[5:33]** A však i vy, jeden každý z vás, manželku svou tak jako sám sebe miluj. Žena pak ať se bojí muže.
 
 ### Chapter 6
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Pokoj bratřím, a láska s věrou od Boha Otce a Pána Jezukrista.
 
-**[6:24]** Milost Boží se všechněmi milujícími Pána našeho Jezukrista k neporušitelnosti. Amen.  
+**[6:24]** Milost Boží se všechněmi milujícími Pána našeho Jezukrista k neporušitelnosti. Amen.
 
 ## Philippians
 
@@ -61090,7 +61090,7 @@
 
 **[1:29]** Nebo vám jest to z milosti dáno pro Krista, abyste netoliko v něho věřili, ale také pro něj i trpěli,
 
-**[1:30]** Týž boj majíce, jakýž jste při mně viděli, i nyní o mně slyšíte. 
+**[1:30]** Týž boj majíce, jakýž jste při mně viděli, i nyní o mně slyšíte.
 
 ### Chapter 2
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** Přijmětež jej tedy v Pánu se vší radostí, a mějtež takové v poctivosti.
 
-**[2:30]** Neboť pro dílo Kristovo až k smrti se přiblížil, opováživ se života, aby doplnil to, v čemž jste vy měli nedostatek při posloužení mně. 
+**[2:30]** Neboť pro dílo Kristovo až k smrti se přiblížil, opováživ se života, aby doplnil to, v čemž jste vy měli nedostatek při posloužení mně.
 
 ### Chapter 3
 
@@ -61196,7 +61196,7 @@
 
 **[3:20]** Ale naše obcování jest v nebesích, odkudž i spasitele očekáváme Pána Jezukrista,
 
-**[3:21]** Kterýž promění tělo naše ponížené, aby bylo podobné k tělu slávy jeho, podlé mocnosti té, kterouž mocen jest i všecky věci podmaniti sobě. 
+**[3:21]** Kterýž promění tělo naše ponížené, aby bylo podobné k tělu slávy jeho, podlé mocnosti té, kterouž mocen jest i všecky věci podmaniti sobě.
 
 ### Chapter 4
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Pozdravujíť vás všickni svatí, zvláště pak ti, kteříž jsou z domu císařova.
 
-**[4:23]** Milost Pána našeho Jezukrista se všechněmi vámi. Amen.  
+**[4:23]** Milost Pána našeho Jezukrista se všechněmi vámi. Amen.
 
 ## Colossians
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** Kteréhož my zvěstujeme, napomínajíce všelikého člověka, a učíce všelikého člověka ve vší moudrosti, abychom postavili každého člověka dokonalého v Kristu Ježíši.
 
-**[1:29]** O čež i pracuji, bojuje podlé té jeho mocnosti, kteráž dělá ve mně mocně. 
+**[1:29]** O čež i pracuji, bojuje podlé té jeho mocnosti, kteráž dělá ve mně mocně.
 
 ### Chapter 2
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** Kteréžto všecky věci samým užíváním jich kazí se,) podlé přikázaní a učení lidských.
 
-**[2:23]** Kteréžto věci mají sic tvárnost moudrosti, v způsobu té nábožnosti, a v pokoře pošmourné, i v neodpuštění tělu, a však nejsou v žádné platnosti, toliko k nasycení těla. 
+**[2:23]** Kteréžto věci mají sic tvárnost moudrosti, v způsobu té nábožnosti, a v pokoře pošmourné, i v neodpuštění tělu, a však nejsou v žádné platnosti, toliko k nasycení těla.
 
 ### Chapter 3
 
@@ -61406,7 +61406,7 @@
 
 **[3:24]** Vědouce, že ode Pána vzíti máte odplatu dědictví; nebo Pánu Kristu sloužíte.
 
-**[3:25]** Kdož by pak nepravost páchal, odměnu své nepravosti vezme. A neníť přijímání osob u Boha. 
+**[3:25]** Kdož by pak nepravost páchal, odměnu své nepravosti vezme. A neníť přijímání osob u Boha.
 
 ### Chapter 4
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** A rcete Archippovi: Viz, abys služebnost, kterouž jsi přijal od Pána, vyplnil.
 
-**[4:18]** Pozdravení mou rukou Pavlovou. Pamatujtež na mé vězení. Milost Boží s vámi. Amen.  
+**[4:18]** Pozdravení mou rukou Pavlovou. Pamatujtež na mé vězení. Milost Boží s vámi. Amen.
 
 ## I Thessalonians
 
@@ -61468,7 +61468,7 @@
 
 **[1:9]** Oniť zajisté sami o nás vypravují, jaký byl příchod náš k vám, a kterak jste se obrátili k Bohu od modl, abyste sloužili Bohu živému a pravému,
 
-**[1:10]** A očekávali Syna jeho s nebe, kteréhož vzkřísil z mrtvých, totiž Ježíše, kterýž vysvobodil nás od hněvu budoucího. 
+**[1:10]** A očekávali Syna jeho s nebe, kteréhož vzkřísil z mrtvých, totiž Ježíše, kterýž vysvobodil nás od hněvu budoucího.
 
 ### Chapter 2
 
@@ -61510,7 +61510,7 @@
 
 **[2:19]** Nebo která jest naše naděje neb radost aneb koruna chlouby? Zdali ne i vy před oblíčejem Pána našeho Jezukrista v příchodu jeho?
 
-**[2:20]** Vy jistě jste sláva naše i radost. 
+**[2:20]** Vy jistě jste sláva naše i radost.
 
 ### Chapter 3
 
@@ -61538,7 +61538,7 @@
 
 **[3:12]** Vás pak ten Pán račiž rozmnožiti a rozhojniti v lásce k sobě vespolek, i ke všechněm, jako i nás k vám,
 
-**[3:13]** Aby tak utvrzena byla srdce vaše nepoškvrněná v svatosti, před Bohem a Otcem naším, ku příští Pána našeho Jezukrista, se všechněmi svatými jeho. 
+**[3:13]** Aby tak utvrzena byla srdce vaše nepoškvrněná v svatosti, před Bohem a Otcem naším, ku příští Pána našeho Jezukrista, se všechněmi svatými jeho.
 
 ### Chapter 4
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** Potom my živí pozůstavení spolu s nimi zachváceni budeme do oblaků, vstříc Pánu v povětří, a tak vždycky se Pánem budeme.
 
-**[4:18]** A protož potěšujte jedni druhých těmito slovy. 
+**[4:18]** A protož potěšujte jedni druhých těmito slovy.
 
 ### Chapter 5
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Zavazujiť vás skrze Pána, aby čten byl list tento všechněm bratřím svatým.
 
-**[5:28]** Milost Pána našeho Jezukrista s vámi. Amen.  
+**[5:28]** Milost Pána našeho Jezukrista s vámi. Amen.
 
 ## II Thessalonians
 
@@ -61662,7 +61662,7 @@
 
 **[1:11]** Pročež i modlíme se vždycky za vás, aby vás hodné učiniti ráčil povolání toho Bůh náš, a vyplnil všecku dobře libou vůli dobrotivosti, i skutek víry mocně,
 
-**[1:12]** Aby oslaveno bylo jméno Pána našeho Jezukrista v vás, a vy v něm, podlé milosti Boha našeho, a Pána Jezukrista. 
+**[1:12]** Aby oslaveno bylo jméno Pána našeho Jezukrista v vás, a vy v něm, podlé milosti Boha našeho, a Pána Jezukrista.
 
 ### Chapter 2
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** Ten pak náš Pán Ježíš Kristus, a Bůh i Otec náš, kterýž zamiloval nás, a dal potěšení věčné, a naději dobrou z milosti,
 
-**[2:17]** Potěšujž srdcí vašich, a utvrdiž vás v každém slovu i skutku dobrém. 
+**[2:17]** Potěšujž srdcí vašich, a utvrdiž vás v každém slovu i skutku dobrém.
 
 ### Chapter 3
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Pozdravení mou rukou Pavlovou, což jest za znamení v každém listu. Takť obyčejně píši.
 
-**[3:18]** Milost Pána našeho Jezukrista se všechněmi vámi. Amen.  
+**[3:18]** Milost Pána našeho Jezukrista se všechněmi vámi. Amen.
 
 ## I Timothy
 
@@ -61780,7 +61780,7 @@
 
 **[1:19]** Maje víru a dobré svědomí, kteréž někteří potrativše, zhynuli u víře.
 
-**[1:20]** Z nichž jest Hymeneus a Alexander, kteréž jsem vydal satanu, aby strestáni jsouce, učili se nerouhati. 
+**[1:20]** Z nichž jest Hymeneus a Alexander, kteréž jsem vydal satanu, aby strestáni jsouce, učili se nerouhati.
 
 ### Chapter 2
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** A Adam nebyl sveden, ale žena svedena jsuci, příčinou přestoupení byla.
 
-**[2:15]** Ale však spasena bude v plození dětí, jestliže by zůstala u víře, a v lásce, a v posvěcení, s středmostí. 
+**[2:15]** Ale však spasena bude v plození dětí, jestliže by zůstala u víře, a v lásce, a v posvěcení, s středmostí.
 
 ### Chapter 3
 
@@ -61846,7 +61846,7 @@
 
 **[3:15]** Pakliť prodlím, abys věděl, kterak máš v domě Božím obcovati, kterýž jest církev Boha živého, sloup a utvrzení pravdy.
 
-**[3:16]** A v pravdě velikéť jest tajemství pobožnosti, že Bůh zjeven jest v těle, ospravedlněn v Duchu, ukázal se andělům, kázán jest pohanům, uvěřeno jemu na světě, zhůru přijat jest v slávu. 
+**[3:16]** A v pravdě velikéť jest tajemství pobožnosti, že Bůh zjeven jest v těle, ospravedlněn v Duchu, ukázal se andělům, kázán jest pohanům, uvěřeno jemu na světě, zhůru přijat jest v slávu.
 
 ### Chapter 4
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** O tom přemyšluj, v tom buď, aby prospěch tvůj zjevný byl všechněm.
 
-**[4:16]** Budiž sebe pilen i učení, v tom trvej; nebo to čině, i samého sebe spasíš, i ty, kteříž tebe poslouchají. 
+**[4:16]** Budiž sebe pilen i učení, v tom trvej; nebo to čině, i samého sebe spasíš, i ty, kteříž tebe poslouchají.
 
 ### Chapter 5
 
@@ -61932,7 +61932,7 @@
 
 **[5:24]** Některých lidí hříchové prvé zjevní jsou, předcházející soud, některých pak i následují.
 
-**[5:25]** A takž také i skutkové dobří prvé zjevní jsou. Což pak jest jinak, ukryti se nemůže. 
+**[5:25]** A takž také i skutkové dobří prvé zjevní jsou. Což pak jest jinak, ukryti se nemůže.
 
 ### Chapter 6
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** Ó Timotee, cožť jest svěřeno, ostříhej, utíkaje nepobožných daremních křiků, a odporů falešně nazvaného umění.
 
-**[6:21]** Kterýmž někteří chlubíce se, z strany víry pobloudili od cíle. Milost Boží s tebou. Amen.  
+**[6:21]** Kterýmž někteří chlubíce se, z strany víry pobloudili od cíle. Milost Boží s tebou. Amen.
 
 ## II Timothy
 
@@ -62016,7 +62016,7 @@
 
 **[1:17]** Nýbrž přišed do Říma, pilně mne hledal, i nalezl.
 
-**[1:18]** Dejž jemu Pán nalezti milosrdenství u Pána v onen den. A jak mi mnoho posluhoval v Efezu, ty výborně víš. 
+**[1:18]** Dejž jemu Pán nalezti milosrdenství u Pána v onen den. A jak mi mnoho posluhoval v Efezu, ty výborně víš.
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** Kterýž by v tichosti vyučoval ty, kteříž se protiví, zda by někdy dal jim Bůh pokání ku poznání pravdy.
 
-**[2:26]** Aby sami k sobě přijdouce, dobyli se z osídla ďáblova, od něhož jsou zjímáni k činění jeho vůle. 
+**[2:26]** Aby sami k sobě přijdouce, dobyli se z osídla ďáblova, od něhož jsou zjímáni k činění jeho vůle.
 
 ### Chapter 3
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** Všelikéť písmo od Boha jest vdechnuté, a užitečné k učení, k trestání, k napravování, k správě, kteráž náleží k spravedlnosti,
 
-**[3:17]** Aby byl dokonalý člověk Boží, ke všelikému skutku dobrému hotový. 
+**[3:17]** Aby byl dokonalý člověk Boží, ke všelikému skutku dobrému hotový.
 
 ### Chapter 4
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Pospěš před zimou přijíti. Pozdravuje tebe Eubulus a Pudens a Línus a Klaudia, i všickni bratří.
 
-**[4:22]** Pán Ježíš Kristus s duchem tvým. Milost Boží s vámi. Amen.  
+**[4:22]** Pán Ježíš Kristus s duchem tvým. Milost Boží s vámi. Amen.
 
 ## Titus
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Všecko zajisté čisté jest čistým, poškvrněným pak a nevěřícím nic není čistého, ale poškvrněna jest i mysl jejich i svědomí.
 
-**[1:16]** Vypravují o tom, že Boha znají, ale skutky svými toho zapírají, ohavní jsouce, a nepoddaní, a ke všelikému skutku dobrému nehodní. 
+**[1:16]** Vypravují o tom, že Boha znají, ale skutky svými toho zapírají, ohavní jsouce, a nepoddaní, a ke všelikému skutku dobrému nehodní.
 
 ### Chapter 2
 
@@ -62220,7 +62220,7 @@
 
 **[2:14]** Kterýž dal sebe samého za nás, aby nás vykoupil od všeliké nepravosti, a očistil sobě samému lid zvláštní, horlivě následovný dobrých skutků.
 
-**[2:15]** Toto mluv, a napomínej, a tresci mocně. Žádný tebou nepohrzej. 
+**[2:15]** Toto mluv, a napomínej, a tresci mocně. Žádný tebou nepohrzej.
 
 ### Chapter 3
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** A nechažť se také učí i naši v dobrých skutcích předčiti, kdež jsou toho potřeby, aby nebyli neužiteční.
 
-**[3:15]** Pozdravují tě, kteříž jsou se mnou, všickni. Pozdraviž těch, kteříž nás milují u víře. Milost Boží se všechněmi vámi. Amen.  
+**[3:15]** Pozdravují tě, kteříž jsou se mnou, všickni. Pozdraviž těch, kteříž nás milují u víře. Milost Boží se všechněmi vámi. Amen.
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** Marek, Aristarchus, Démas, a Lukáš, pomocníci moji.
 
-**[1:25]** Milost Pána našeho Jezukrista s duchem vaším. Amen.  
+**[1:25]** Milost Pána našeho Jezukrista s duchem vaším. Amen.
 
 ## Hebrews
 
@@ -62338,7 +62338,7 @@
 
 **[1:13]** A kterému kdy z andělů řekl: Seď na pravici mé, dokudž nepoložím nepřátel tvých za podnože noh tvých?
 
-**[1:14]** Zdaliž všickni nejsou služební duchové, kteříž posílání bývají k službě pro ty, jenž mají dědičně obdržeti spasení? 
+**[1:14]** Zdaliž všickni nejsou služební duchové, kteříž posílání bývají k službě pro ty, jenž mají dědičně obdržeti spasení?
 
 ### Chapter 2
 
@@ -62376,7 +62376,7 @@
 
 **[2:17]** Pročež ve všem připodobněn býti měl bratřím, aby milosrdný byl, a věrný nejvyšší kněz {biskup} v tom, což se u Boha k očištění hříchů lidu díti mělo.
 
-**[2:18]** Nebo že sám trpěl, pokoušín byv, může také pokušení trpícím spomáhati. 
+**[2:18]** Nebo že sám trpěl, pokoušín byv, může také pokušení trpícím spomáhati.
 
 ### Chapter 3
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** A kterým zapřisáhl, že nevejdou do odpočinutí jeho? Však těm, kteříž byli neposlušní.
 
-**[3:19]** A vidíme, žeť nemohli vjíti pro nevěru. 
+**[3:19]** A vidíme, žeť nemohli vjíti pro nevěru.
 
 ### Chapter 4
 
@@ -62450,7 +62450,7 @@
 
 **[4:15]** Nebo nemáme nejvyššího kněze {biskupa}, kterýž by nemohl čitedlen býti mdlob našich, ale zkušeného ve všem nám podobně, kromě hříchu.
 
-**[4:16]** Přistupmež tedy směle s doufáním k trůnu milosti, abychom dosáhli milosrdenství, a milost nalezli ku pomoci v čas příhodný. 
+**[4:16]** Přistupmež tedy směle s doufáním k trůnu milosti, abychom dosáhli milosrdenství, a milost nalezli ku pomoci v čas příhodný.
 
 ### Chapter 5
 
@@ -62480,7 +62480,7 @@
 
 **[5:13]** Kdožkoli zajisté mléka se drží, nechápá slova spravedlnosti; (nebo nemluvně jest.)
 
-**[5:14]** Ale dokonalých jest hrubý pokrm, totiž těch, kteříž pro zvyklost mají smysly způsobné k rozeznání dobrého i zlého. 
+**[5:14]** Ale dokonalých jest hrubý pokrm, totiž těch, kteříž pro zvyklost mají smysly způsobné k rozeznání dobrého i zlého.
 
 ### Chapter 6
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** Kterouž máme jako kotvu duše, i bezpečnou i pevnou, a vcházející až do vnitřku za oponu,
 
-**[6:20]** Kdežto předchůdce pro nás všel Ježíš, jsa učiněn podlé řádu Melchisedechova nejvyšším knězem {biskupem} na věky. 
+**[6:20]** Kdežto předchůdce pro nás všel Ježíš, jsa učiněn podlé řádu Melchisedechova nejvyšším knězem {biskupem} na věky.
 
 ### Chapter 7
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** Kterýž by nepotřeboval na každý den, jako onino kněží, nejprv za své vlastní hříchy oběti obětovati, potom za lid. Nebo učinil to jednou, samého sebe obětovav.
 
-**[7:28]** Zákon zajisté lidi mající nedostatky ustavoval za nejvyšší kněží {biskupy}, ale slovo přísežné, kteréž se stalo po zákonu, ustanovilo Syna dokonalého na věky. 
+**[7:28]** Zákon zajisté lidi mající nedostatky ustavoval za nejvyšší kněží {biskupy}, ale slovo přísežné, kteréž se stalo po zákonu, ustanovilo Syna dokonalého na věky.
 
 ### Chapter 8
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** Nebo milostiv budu nepravostem jejich, a na hříchy jejich, ani na nepravosti jejich nikoli nezpomenu více.
 
-**[8:13]** A kdyžť praví o nové, tedy pokládá první za vetchou; což pak vetší a schází, blízké jest zahynutí. 
+**[8:13]** A kdyžť praví o nové, tedy pokládá první za vetchou; což pak vetší a schází, blízké jest zahynutí.
 
 ### Chapter 9
 
@@ -62666,7 +62666,7 @@
 
 **[9:27]** A jakož uloženo lidem jednou umříti, a potom bude soud,
 
-**[9:28]** Tak i Kristus jednou jest obětován, k shlazení mnohých lidí hříchů; podruhé bez hříchu ukáže se těm, kteříž ho čekají k spasení. 
+**[9:28]** Tak i Kristus jednou jest obětován, k shlazení mnohých lidí hříchů; podruhé bez hříchu ukáže se těm, kteříž ho čekají k spasení.
 
 ### Chapter 10
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** Spravedlivý pak z víry živ bude. Pakli by se jinam obrátil, nezalibuje sobě duše má v něm.
 
-**[10:39]** Ale myť nejsme poběhlci k zahynutí, ale věřící k získání duše. 
+**[10:39]** Ale myť nejsme poběhlci k zahynutí, ale věřící k získání duše.
 
 ### Chapter 11
 
@@ -62828,7 +62828,7 @@
 
 **[11:39]** A ti všickni svědectví dosáhše skrze víru, neobdrželi zaslíbení,
 
-**[11:40]** Proto že Bůh něco lepšího nám obmýšlel, aby oni bez nás nepřišli k dokonalosti. 
+**[11:40]** Proto že Bůh něco lepšího nám obmýšlel, aby oni bez nás nepřišli k dokonalosti.
 
 ### Chapter 12
 
@@ -62888,7 +62888,7 @@
 
 **[12:28]** Protož království přijímajíce nepohnutelné, mějmež milost, skrze kteroužto služme libě Bohu, s vážností a uctivostí.
 
-**[12:29]** Neboť Bůh náš jest oheň spalující. 
+**[12:29]** Neboť Bůh náš jest oheň spalující.
 
 ### Chapter 13
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Pozdravtež všech správců svých, i všech svatých. Pozdravují vás bratří z Vlach.
 
-**[13:25]** Milost Boží se všechněmi vámi. Amen.  
+**[13:25]** Milost Boží se všechněmi vámi. Amen.
 
 ## James
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** Zdá-li se pak komu z vás, že jest nábožný, a v uzdu nepojímá jazyka svého, ale svodí srdce své, takového marné jest náboženství.
 
-**[1:27]** Náboženství čisté a nepoškvrněné před Bohem a Otcem totoť jest: Navštěvovati sirotky a vdovy v ssouženích jejich, a ostříhati sebe nepoškvrněného od světa. 
+**[1:27]** Náboženství čisté a nepoškvrněné před Bohem a Otcem totoť jest: Navštěvovati sirotky a vdovy v ssouženích jejich, a ostříhati sebe nepoškvrněného od světa.
 
 ### Chapter 2
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Též podobně i Raab nevěstka zdali ne z skutků ospravedlněna jest, přijavši ony posly, a jinou cestou pryč vypustivši?
 
-**[2:26]** Nebo jakož tělo bez duše jest mrtvé, takť i víra bez skutků jest mrtvá. 
+**[2:26]** Nebo jakož tělo bez duše jest mrtvé, takť i víra bez skutků jest mrtvá.
 
 ### Chapter 3
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** Ale moudrost, kteráž jest s hůry, nejprvé zajisté jest čistotná, potom pokojná, mírná, povolná, plná milosrdenství a ovoce dobrého, bez rozsuzování a bez pokrytství.
 
-**[3:18]** Ovoce pak spravedlnosti v pokoji rozsívá se těm, kteříž pokoj působí. 
+**[3:18]** Ovoce pak spravedlnosti v pokoji rozsívá se těm, kteříž pokoj působí.
 
 ### Chapter 4
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** Vy pak chlubíte se v pýše své. Všeliká taková chlouba zlá jest.
 
-**[4:17]** A protož kdo umí dobře činiti, a nečiní, hřích má. 
+**[4:17]** A protož kdo umí dobře činiti, a nečiní, hřích má.
 
 ### Chapter 5
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Bratří, jestliže by kdo z vás pobloudil od pravdy, a někdo by jej zase obrátil,
 
-**[5:20]** Věziž, že ten, kdož by odvrátil hříšníka od bludné cesty jeho, vysvobodí duši od smrti, a přikryje množství hříchů.  
+**[5:20]** Věziž, že ten, kdož by odvrátil hříšníka od bludné cesty jeho, vysvobodí duši od smrti, a přikryje množství hříchů.
 
 ## I Peter
 
@@ -63222,7 +63222,7 @@
 
 **[1:24]** Nebo všeliké tělo jest jako tráva, a všeliká sláva člověka jako květ trávy. Usvadla tráva, a květ její spadl.
 
-**[1:25]** Ale slovo Páně zůstává na věky. Totoť pak jest to slovo, kteréž zvěstováno jest vám. 
+**[1:25]** Ale slovo Páně zůstává na věky. Totoť pak jest to slovo, kteréž zvěstováno jest vám.
 
 ### Chapter 2
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** Kterýžto hříchy naše na svém těle sám vnesl na dřevo, abychom hříchům zemrouce, spravedlnosti živi byli, jehož zsinalostí uzdraveni jste.
 
-**[2:25]** Nebo jste byli jako ovce bloudící, ale nyní obráceni jste ku pastýři a biskupu duší svých. 
+**[2:25]** Nebo jste byli jako ovce bloudící, ale nyní obráceni jste ku pastýři a biskupu duší svých.
 
 ### Chapter 3
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** K čemuž připodobněn jsa nyní křest, i nás spaseny činí, ne to tělesné špiny smytí, ale dobrého svědomí u Boha dotázání, skrze vzkříšení Ježíše Krista.
 
-**[3:22]** Kterýž všed v nebe, jest na pravici Boží, podmaniv sobě anděly, i mocnosti, i moci. 
+**[3:22]** Kterýž všed v nebe, jest na pravici Boží, podmaniv sobě anděly, i mocnosti, i moci.
 
 ### Chapter 4
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** A poněvadž spravedlivý sotva k spasení přichází, bezbožný a hříšník kde se ukáže?
 
-**[4:19]** A protož i ti, kteříž trpí podlé vůle Boží, jakožto věrnému stvořiteli ať poroučejí duše své, dobře činíce. 
+**[4:19]** A protož i ti, kteříž trpí podlé vůle Boží, jakožto věrnému stvořiteli ať poroučejí duše své, dobře činíce.
 
 ### Chapter 5
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** Pozdravuje vás ta církev, kteráž jest v Babyloně, účastnice vyvolení vašeho, a Marek syn můj.
 
-**[5:14]** Pozdravtež jedni druhých v políbení laskavém. Pokoj vám všechněm, kteříž jste v Kristu Ježíši. Amen.  
+**[5:14]** Pozdravtež jedni druhých v políbení laskavém. Pokoj vám všechněm, kteříž jste v Kristu Ježíši. Amen.
 
 ## II Peter
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** Toto nejprvé znajíce, že žádného proroctví písma výklad nezáleží na rozumu lidském.
 
-**[1:21]** Nebo nikdy z lidské vůle nepošlo proroctví, ale Duchem svatým puzeni byvše, mluvili svatí Boží lidé. 
+**[1:21]** Nebo nikdy z lidské vůle nepošlo proroctví, ale Duchem svatým puzeni byvše, mluvili svatí Boží lidé.
 
 ### Chapter 2
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** Lépe by zajisté jim bylo nepoznávati cesty spravedlnosti, nežli po nabytí známosti odvrátiti se od vydaného jim svatého přikázaní.
 
-**[2:22]** Ale přihodilo se jim to, což se v přísloví pravém říkává: Pes navrátil se k vývratku svému, a svině umytá do kaliště bláta. 
+**[2:22]** Ale přihodilo se jim to, což se v přísloví pravém říkává: Pes navrátil se k vývratku svému, a svině umytá do kaliště bláta.
 
 ### Chapter 3
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Vy tedy, nejmilejší, to prvé vědouce, střeztež se, abyste bludem těch nešlechetných nebyli pojati, a nevypadli od své pevnosti.
 
-**[3:18]** Ale rozmáhejte se v milosti a v známosti Pána našeho a spasitele Jezukrista, jemuž sláva i nyní i na časy věčné. Amen.  
+**[3:18]** Ale rozmáhejte se v milosti a v známosti Pána našeho a spasitele Jezukrista, jemuž sláva i nyní i na časy věčné. Amen.
 
 ## I John
 
@@ -63544,7 +63544,7 @@
 
 **[1:9]** Jestliže pak budeme vyznávati hříchy své, věrnýť jest Bůh a spravedlivý, aby nám odpustil hříchy, a očistil nás od všeliké nepravosti.
 
-**[1:10]** Díme-li, že jsme nehřešili, činíme jej lhářem, a neníť v nás slova jeho. 
+**[1:10]** Díme-li, že jsme nehřešili, činíme jej lhářem, a neníť v nás slova jeho.
 
 ### Chapter 2
 
@@ -63604,7 +63604,7 @@
 
 **[2:28]** A nyní, synáčkové, zůstávejtež v něm, abychom, když by se ukázal, smělé doufání měli, a nebyli zahanbeni od něho v příchodu jeho.
 
-**[2:29]** Poněvadž víte, že on spravedlivý jest, znejtež také, že každý, kdož činí spravedlnost, z něho jest narozen. 
+**[2:29]** Poněvadž víte, že on spravedlivý jest, znejtež také, že každý, kdož činí spravedlnost, z něho jest narozen.
 
 ### Chapter 3
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** A totoť jest to přikázaní jeho, abychom věřili jménu Syna jeho Jezukrista, a milovali jedni druhé, jakož nám vydal přikázaní.
 
-**[3:24]** Nebo kdož ostříhá přikázaní jeho, v němť zůstává, a on také v něm. A po tomť poznáváme, že zůstává v nás, totiž po Duchu, kteréhož dal nám. 
+**[3:24]** Nebo kdož ostříhá přikázaní jeho, v němť zůstává, a on také v něm. A po tomť poznáváme, že zůstává v nás, totiž po Duchu, kteréhož dal nám.
 
 ### Chapter 4
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** Řekl-li by kdo: Miluji Boha, a bratra svého nenáviděl by, lhář jest. Nebo kdož nemiluje bratra svého, kteréhož viděl, Boha, kteréhož neviděl, kterak může milovati?
 
-**[4:21]** A totoť přikázaní máme od něho, aby ten, kdož miluje Boha, miloval i bratra svého. 
+**[4:21]** A totoť přikázaní máme od něho, aby ten, kdož miluje Boha, miloval i bratra svého.
 
 ### Chapter 5
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** A vímeť, že Syn Boží přišel a dal nám smysl, abychom poznali toho pravého, a jsmeť v tom pravém, i v Synu jeho Ježíši Kristu. Onť jest ten pravý Bůh a život věčný.
 
-**[5:21]** Synáčkové, vystříhejte se modl. Amen.  
+**[5:21]** Synáčkové, vystříhejte se modl. Amen.
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** Mnoho vám psáti měv, nechtěl jsem se svěřiti černidlu a papíru, ale mámť naději, že k vám přijdu, a ústy k ústům mluviti budu, aby radost naše plná byla.
 
-**[1:13]** Pozdravují tě synové sestry tvé v Pánu vyvolené. Amen.  
+**[1:13]** Pozdravují tě synové sestry tvé v Pánu vyvolené. Amen.
 
 ## III John
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** Mnohoť jsem měl psáti, ale nechciť psáti černidlem a pérem.
 
-**[1:14]** Nebo mám naději, že tě tudíž uzřím, a ústy k ústům mluviti budeme. Pokoj tobě. Pozdravují tě přátelé. Pozdraviž i ty přátel ze jména.  
+**[1:14]** Nebo mám naději, že tě tudíž uzřím, a ústy k ústům mluviti budeme. Pokoj tobě. Pozdravují tě přátelé. Pozdraviž i ty přátel ze jména.
 
 ## Jude
 
@@ -63858,7 +63858,7 @@
 
 **[1:24]** Tomu pak, kterýž mocen jest, zachovati vás bez úrazu, a postaviti před oblíčejem slávy své bez úhony s veselím,
 
-**[1:25]** Samému moudrému Bohu, spasiteli našemu, budiž sláva a velebnost, císařství i moc, i nyní i po všecky věky. Amen.  
+**[1:25]** Samému moudrému Bohu, spasiteli našemu, budiž sláva a velebnost, císařství i moc, i nyní i po všecky věky. Amen.
 
 ## Revelation of John
 
@@ -63902,7 +63902,7 @@
 
 **[1:19]** Napiš ty věci, kteréž jsi viděl, a kteréž jsou, a kteréž se mají díti potom.
 
-**[1:20]** Tajemství těch sedmi hvězd, kteréž jsi viděl v pravici mé, a sedm svícnů zlatých: Sedm těch hvězd jsou andělé sedmi zborů, a sedm svícnů, kteréžs viděl, jest sedm zborů. 
+**[1:20]** Tajemství těch sedmi hvězd, kteréž jsi viděl v pravici mé, a sedm svícnů zlatých: Sedm těch hvězd jsou andělé sedmi zborů, a sedm svícnů, kteréžs viděl, jest sedm zborů.
 
 ### Chapter 2
 
@@ -63962,7 +63962,7 @@
 
 **[2:28]** A dám jemu hvězdu jitřní.
 
-**[2:29]** Kdo má uši, slyš, co Duch praví církvím. 
+**[2:29]** Kdo má uši, slyš, co Duch praví církvím.
 
 ### Chapter 3
 
@@ -64008,7 +64008,7 @@
 
 **[3:21]** Kdož svítězí, dám jemu seděti s sebou na trůnu svém, jako i já svítězil jsem, a sedím s Otcem svým na trůnu jeho.
 
-**[3:22]** Kdo má uši, slyš, co Duch praví církvím. 
+**[3:22]** Kdo má uši, slyš, co Duch praví církvím.
 
 ### Chapter 4
 
@@ -64032,7 +64032,7 @@
 
 **[4:10]** Padlo těch čtyřmecítma starců před oblíčejem toho sedícího na trůnu, a klanělo se tomu živému na věky věků, a metali koruny své před trůnem, řkouce:
 
-**[4:11]** Hoden jsi, Pane, přijíti slávu, a čest, i moc; nebo ty jsi stvořil všecky věci, a pro vůli tvou trvají, i stvořeny jsou. 
+**[4:11]** Hoden jsi, Pane, přijíti slávu, a čest, i moc; nebo ty jsi stvořil všecky věci, a pro vůli tvou trvají, i stvořeny jsou.
 
 ### Chapter 5
 
@@ -64062,7 +64062,7 @@
 
 **[5:13]** Též všecko stvoření, kteréž jest na nebi, i na zemi, i pod zemí, i v moři, i všecko, což v nich jest, slyšel jsem řkoucí: Sedícímu na trůnu a Beránkovi požehnání, čest a sláva i síla na věky věků.
 
-**[5:14]** Čtvero pak těch zvířat řeklo: Amen. A těch čtyřmecítma starců padlo, a klaněli se živému na věky věků. 
+**[5:14]** Čtvero pak těch zvířat řeklo: Amen. A těch čtyřmecítma starců padlo, a klaněli se živému na věky věků.
 
 ### Chapter 6
 
@@ -64098,7 +64098,7 @@
 
 **[6:16]** A řekli horám i skálí: Padněte na nás, a skrejte nás před tváří toho, kterýž sedí na trůnu, a před hněvem toho Beránka.
 
-**[6:17]** Neboť jest přišel ten den veliký hněvu jeho. I kdo bude moci ostáti? 
+**[6:17]** Neboť jest přišel ten den veliký hněvu jeho. I kdo bude moci ostáti?
 
 ### Chapter 7
 
@@ -64134,7 +64134,7 @@
 
 **[7:16]** Nebudouť lačněti více, ani žízniti více, a nebude bíti na ně slunce, ani žádné horko.
 
-**[7:17]** Nebo Beránek, kterýž jest u prostřed trůnu, pásti je bude, a dovedeť je k živým studnicím vod, a setře Bůh všelikou slzu s očí jejich. 
+**[7:17]** Nebo Beránek, kterýž jest u prostřed trůnu, pásti je bude, a dovedeť je k živým studnicím vod, a setře Bůh všelikou slzu s očí jejich.
 
 ### Chapter 8
 
@@ -64162,7 +64162,7 @@
 
 **[8:12]** Potom čtvrtý anděl zatroubil, i udeřena jest třetina slunce, a třetina měsíce, a třetí díl hvězd, tak že se třetí díl jich zatměl, a třetina dne nesvítila, a též podobně i noci.
 
-**[8:13]** I viděl jsem a slyšel anděla jednoho, an letí po prostředku nebe, a praví hlasem velikým: Běda, běda, běda těm, kteříž přebývají na zemi, pro jiné hlasy trub tří andělů, kteříž mají troubiti. 
+**[8:13]** I viděl jsem a slyšel anděla jednoho, an letí po prostředku nebe, a praví hlasem velikým: Běda, běda, běda těm, kteříž přebývají na zemi, pro jiné hlasy trub tří andělů, kteříž mají troubiti.
 
 ### Chapter 9
 
@@ -64206,7 +64206,7 @@
 
 **[9:20]** Jiní pak lidé, kteříž nejsou zmordováni těmi ranami, nečinili pokání z skutků rukou svých, aby se neklaněli ďáblům, a modlám zlatým, a stříbrným, a měděným, i kamenným, i dřevěným, kteréž ani hleděti nemohou, ani slyšeti, ani choditi.
 
-**[9:21]** Aniž činili pokání z vražd svých, ani z trávení svých, ani z smilstva svého, ani z krádeží svých. 
+**[9:21]** Aniž činili pokání z vražd svých, ani z trávení svých, ani z smilstva svého, ani z krádeží svých.
 
 ### Chapter 10
 
@@ -64230,7 +64230,7 @@
 
 **[10:10]** I vzal jsem tu knížku z ruky anděla, a požřel jsem ji. I byla v ústech mých sladká jako med, ale když jsem ji požřel, hořko mi bylo v břiše mém.
 
-**[10:11]** I dí mi: Musíš opět prorokovati lidem, a národům, a jazykům, i králům mnohým. 
+**[10:11]** I dí mi: Musíš opět prorokovati lidem, a národům, a jazykům, i králům mnohým.
 
 ### Chapter 11
 
@@ -64270,7 +64270,7 @@
 
 **[11:18]** I rozhněvali se národové, a přišel hněv tvůj, a čas mrtvých, aby souzeni byli, a aby dána byla odplata služebníkům tvým, prorokům a svatým, a bojícím se jména tvého, malým i velikým, a aby zkaženi byli ti, kteříž nakažují zemi.
 
-**[11:19]** I otevřín jest chrám Boží na nebi, a vidína jest truhla smlouvy jeho v chrámě jeho. I stalo se blýskání, a hlasové, a hromobití, a země třesení, i krupobití veliké. 
+**[11:19]** I otevřín jest chrám Boží na nebi, a vidína jest truhla smlouvy jeho v chrámě jeho. I stalo se blýskání, a hlasové, a hromobití, a země třesení, i krupobití veliké.
 
 ### Chapter 12
 
@@ -64306,7 +64306,7 @@
 
 **[12:16]** Ale země pomohla ženě; nebo otevřela země ústa svá, a požřela řeku, kterouž vypustil drak z úst svých.
 
-**[12:17]** I rozhněval se drak na tu ženu, a šel bojovati s jinými z semene jejího, kteříž ostříhají přikázaní Božích, a mají svědectví Ježíše Krista. 
+**[12:17]** I rozhněval se drak na tu ženu, a šel bojovati s jinými z semene jejího, kteříž ostříhají přikázaní Božích, a mají svědectví Ježíše Krista.
 
 ### Chapter 13
 
@@ -64344,7 +64344,7 @@
 
 **[13:17]** A aby žádný nemohl kupovati ani prodávati, než ten, kdož má znamení aneb jméno té šelmy, aneb počet jména jejího.
 
-**[13:18]** Tuť jest moudrost. Kdo má rozum, sečtiž počet té šelmy. Nebo jest počet člověka, a jestiť počet ten šest set šedesáte a šest. 
+**[13:18]** Tuť jest moudrost. Kdo má rozum, sečtiž počet té šelmy. Nebo jest počet člověka, a jestiť počet ten šest set šedesáte a šest.
 
 ### Chapter 14
 
@@ -64386,7 +64386,7 @@
 
 **[14:19]** I spustil anděl srp svůj na zem, a sebral vinici země, a vmetal do jezera velikého hněvu Božího.
 
-**[14:20]** I tlačeno jest jezero před městem, a vyšla krev z jezera až do udidl koňům za tisíc a za šest set honů. 
+**[14:20]** I tlačeno jest jezero před městem, a vyšla krev z jezera až do udidl koňům za tisíc a za šest set honů.
 
 ### Chapter 15
 
@@ -64404,7 +64404,7 @@
 
 **[15:7]** A jedno ze čtyř zvířat dalo sedmi andělům sedm koflíků zlatých, plných hněvu Boha živého na věky věků.
 
-**[15:8]** I naplněn jest chrám dymem od slávy Boží a od moci jeho, a žádný nemohl vjíti do chrámu, dokudž se nevykonalo sedm ran těch sedmi andělů. 
+**[15:8]** I naplněn jest chrám dymem od slávy Boží a od moci jeho, a žádný nemohl vjíti do chrámu, dokudž se nevykonalo sedm ran těch sedmi andělů.
 
 ### Chapter 16
 
@@ -64448,7 +64448,7 @@
 
 **[16:20]** A všickni ostrovové pominuli, a hory nejsou nalezeny.
 
-**[16:21]** A kroupy veliké jako centnéřové pršely s nebe na lidi. I rouhali se Bohu lidé pro ránu těch krup; nebo velmi veliká byla ta jejich rána. 
+**[16:21]** A kroupy veliké jako centnéřové pršely s nebe na lidi. I rouhali se Bohu lidé pro ránu těch krup; nebo velmi veliká byla ta jejich rána.
 
 ### Chapter 17
 
@@ -64486,7 +64486,7 @@
 
 **[17:17]** Neboť dal Bůh v srdce jejich, aby činili vůli jeho, a aby se sjednomyslnili, a království své šelmě dali, dokudž by nebyla vykonána slova Boží.
 
-**[17:18]** A žena, kteroužs viděl, jest město to veliké, kteréž má království nad králi země. 
+**[17:18]** A žena, kteroužs viděl, jest město to veliké, kteréž má království nad králi země.
 
 ### Chapter 18
 
@@ -64536,7 +64536,7 @@
 
 **[18:23]** Ani světlo svíce nebude v tobě více svítiti, a hlas ženicha ani nevěsty nebude v tobě více slyšán, ješto kupci tvoji bývala knížata zemská, a tráveními tvými v blud uvedeni byli všickni národové.
 
-**[18:24]** Ale v něm nalezena jest krev proroků a svatých i všech zmordovaných na zemi. 
+**[18:24]** Ale v něm nalezena jest krev proroků a svatých i všech zmordovaných na zemi.
 
 ### Chapter 19
 
@@ -64580,7 +64580,7 @@
 
 **[19:20]** I jata jest ta šelma, a s ní falešný prorok ten, kterýž činíval divy před ní, jimiž svodil ty, kteříž přijali znamení šelmy, a kteříž se klaněli obrazu jejímu. I uvrženi jsou oba za živa do jezera ohnivého, hořícího sirou.
 
-**[19:21]** A jiní zbiti jsou mečem toho, kterýž seděl na koni, vycházejícím z úst jeho. A všickni ptáci nasyceni jsou těly jejich. 
+**[19:21]** A jiní zbiti jsou mečem toho, kterýž seděl na koni, vycházejícím z úst jeho. A všickni ptáci nasyceni jsou těly jejich.
 
 ### Chapter 20
 
@@ -64612,7 +64612,7 @@
 
 **[20:14]** Smrt pak a peklo uvrženi jsou do jezera ohnivého, a toť jest smrt druhá.
 
-**[20:15]** I ten, kdož není nalezen v knize života zapsán, uvržen jest do jezera ohnivého. 
+**[20:15]** I ten, kdož není nalezen v knize života zapsán, uvržen jest do jezera ohnivého.
 
 ### Chapter 21
 
@@ -64668,7 +64668,7 @@
 
 **[21:26]** A snesou do něho slávu a čest národů.
 
-**[21:27]** A nevejdeť do něho nic poškvrňujícího, aneb působícího ohyzdnost a lež, než toliko ti, kteříž napsáni jsou v knize života Beránkova. 
+**[21:27]** A nevejdeť do něho nic poškvrňujícího, aneb působícího ohyzdnost a lež, než toliko ti, kteříž napsáni jsou v knize života Beránkova.
 
 ### Chapter 22
 
@@ -64712,5 +64712,5 @@
 
 **[22:20]** Takť praví ten, kterýž svědectví vydává o těchto věcech: Jistěť přijdu brzo. Amen. Přijdiž tedy, Pane Ježíši.
 
-**[22:21]** Milost Pána našeho Jezukrista se všechněmi vámi. Amen.  
+**[22:21]** Milost Pána našeho Jezukrista se všechněmi vámi. Amen.
 

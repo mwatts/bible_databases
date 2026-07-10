@@ -1,9 +1,8 @@
 -- SQL Dump for # Maori: Maori Bible (Maori)
 -- License: Null
 
-DROP TABLE IF EXISTS `Maori_books`;
 DROP TABLE IF EXISTS `Maori_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `Maori_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'Maori', '# Maori: Maori Bible', 'Null'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'Maori'
-            );
+            VALUES ('Maori', '# Maori: Maori Bible', 'Null')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `Maori_books` (
@@ -4518,7 +4517,7 @@ INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 22
 INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 22, 39, 'Na ka haere a Paraama i a Paraka, a ka tae raua ki Kiriata Hutoto.');
 INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 22, 40, 'Na ka patua he kau, he hipi, e Paraka, a ka unga tangata i a Paraama ratou ko ona hoa, ko nga rangatira.');
 INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 22, 41, 'A i te ata ka mau a Paraka ki a Paraama, a kawea ana e ia ki runga ki nga wahi teitei o Paara, a ka kite atu ia i reira i te hiku o te iwi.');
-INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 23, 1, 'Na ,a mea a Paraama ki a Paraka, Hanga etahi aata maku kia whitu, kia rite mai hoki maku he puru kia whitu, he hipi toa hoki kia whitu.');
+INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 23, 1, 'Na,a mea a Paraama ki a Paraka, Hanga etahi aata maku kia whitu, kia rite mai hoki maku he puru kia whitu, he hipi toa hoki kia whitu.');
 INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 23, 2, 'Na rite tonu t Paraka i mea ai ki nga mea i korerotia e Paraama: a whakaekea ana e Paraka raua ko Paraama he puru, he hipi, ki tetahi aata, ki tetahi aata.');
 INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 23, 3, 'Na ka mea a Paraama ki a Paraka, E tu ki te taha o tau tahunga tinana, a ka haere ahau: tera pea a Ihowa e tupono mai ki ahau: a me korero atu e ahau ki a koe te kupu e whakakitea mai e ia ki ahau. Na ka haere ia ki tetahi puke hamore.');
 INSERT INTO `Maori_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (4, 23, 4, 'Na ka tupono a Ihowa ki a Paraama: a ka mea ia ki a ia, Kua oti i ahau nga aata e whitu, kua whakaekea ano hoki he puru, he hipi, ki tenei aata, ki tenei aata.');

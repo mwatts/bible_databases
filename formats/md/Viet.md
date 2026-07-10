@@ -2418,7 +2418,7 @@
 
 **[39:19]** Vừa khi chủ của Giô-sép nghe lời vợ nói rằng: Ðó, kẻ nô lệ ông làm điều như vậy, thì nổi giận phừng phừng,
 
-**[39:20]** bèn bắt chàng đem bỏ vào tù, là nơi cầm các kẻ phạm tội của vua. Vậy, ch@ ng ở tù tại đó.
+**[39:20]** bèn bắt chàng đem bỏ vào tù, là nơi cầm các kẻ phạm tội của vua. Vậy, ch@ ng ở tù tại đó.
 
 **[39:21]** Ðức Giê-hô-va phù hộ Giô-sép và tỏ lòng nhân từ cùng chàng, làm cho được ơn trước mặt chủ ngục.
 
@@ -41240,7 +41240,7 @@
 
 **[34:15]** Còn các ngươi, đã trở lại và làm điều đẹp mắt ta, mỗi người rao cho kẻ lân cận mình được thong thả; và đã lập giao ước trước mặt ta, tức trong nhà được xưng bằng danh ta.
 
-**[34:16]** Nhưng các ngươi đã trở ý, đã l@ m ô uế danh ta; c@¡c ngươi lại bắt tôi đòi mà mình đã buông tha cho tự do tùy ý chúng nó trở về, và ép phải lại làm tôi đòi mình như trước.
+**[34:16]** Nhưng các ngươi đã trở ý, đã l@ m ô uế danh ta; c@¡c ngươi lại bắt tôi đòi mà mình đã buông tha cho tự do tùy ý chúng nó trở về, và ép phải lại làm tôi đòi mình như trước.
 
 **[34:17]** Vậy nên, Ðức Giê-hô-va phán như vầy: Các ngươi đã chẳng nghe ta, mỗi người rao cho anh em mình, kẻ lân cận mình được tự do. Ðức Giê-hô-va phán: Nầy, ta rao sự tự do cho các ngươi, tức thả các ngươi ra cho gươm dao, ôn dịch, đói kém, khiến các ngươi bị ném lại giữa các nước thế gian.
 
@@ -47366,7 +47366,7 @@
 
 **[1:12]** Hỡi Giê-hô-va, Ðức Chúa Trời tôi, Ðấng Thánh của tôi! Ngài há chẳng phải là từ đời đời vô cùng sao? Vậy chúng tôi sẽ không chết! Hỡi Ðức Giê-hô-va, Ngài đã lập dân nầy đặng làm sự xét đoán của Ngài. Hỡi vầng Ðá! Ngài đã đặt nó đặng làm sự sửa phạt!
 
-**[1:13]** Mắt Chúa thánh sạch chẳng nhìn sự dữ, chẳng có thể nhìn được sự trái ngược. Sao Ngài nhìn xem kẻ l@ m sự dối trá, khi kẻ dữ nuốt người công bình hơn nó, sao Ngài nín lặng đi?
+**[1:13]** Mắt Chúa thánh sạch chẳng nhìn sự dữ, chẳng có thể nhìn được sự trái ngược. Sao Ngài nhìn xem kẻ l@ m sự dối trá, khi kẻ dữ nuốt người công bình hơn nó, sao Ngài nín lặng đi?
 
 **[1:14]** Sao Ngài khiến loài người như cá biển và như loài côn trùng vô chủ?
 
@@ -51646,7 +51646,7 @@
 
 **[14:56]** Vì có nhiều kẻ làm chứng dối nghịch cùng Ngài; nhưng lời họ khai chẳng hiệp nhau.
 
-**[14:57]** Bấy giờ có mấy người đứng lên làm chứng dối nghịch cùng Ng@ i rằng:
+**[14:57]** Bấy giờ có mấy người đứng lên làm chứng dối nghịch cùng Ng@ i rằng:
 
 **[14:58]** Chúng tôi có nghe người nói: Ta sẽ phá đền thờ nầy bởi tay người ta cất lên, khỏi ba ngày, ta sẽ cất một đền thờ khác không phải bởi tay người ta cất.
 
@@ -64622,7 +64622,7 @@
 
 **[21:3]** Tôi nghe một tiếng lớn từ nơi ngai mà đến, nói rằng: nầy, đền tạm của Ðức Chúa Trời ở giữa loài người! Ngài sẽ ở với chúng, và chúng sẽ làm dân Ngài; chính Ðức Chúa Trời sẽ ở với chúng.
 
-**[21:4]** Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết ,cũng không có than khóc, kêu ca, hay là đau đớn nữa; vì những sự thứ nhứt đã qua rồi.
+**[21:4]** Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết,cũng không có than khóc, kêu ca, hay là đau đớn nữa; vì những sự thứ nhứt đã qua rồi.
 
 **[21:5]** Ðấng ngự trên trôi phán rằng: Nầy, ta làm mới lại hết thảy muôn vật. Ðoạn, lại rằng: Hãy chép; vì những lời nầy đều trung tín và chơn thật.
 

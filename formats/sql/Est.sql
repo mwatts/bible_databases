@@ -1,9 +1,8 @@
 -- SQL Dump for # Est: Estonian Bible (Est)
 -- License: Null
 
-DROP TABLE IF EXISTS `Est_books`;
 DROP TABLE IF EXISTS `Est_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `Est_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'Est', '# Est: Estonian Bible', 'Null'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'Est'
-            );
+            VALUES ('Est', '# Est: Estonian Bible', 'Null')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `Est_books` (
@@ -24353,7 +24352,7 @@ INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 34, 'Ja Ta tegi terveks paljud, kes põdesid mõnesugust haigust, ja ajas välja mitu kurja vaimu ega lasknud kurje vaime rääkida, sest et nad Teda tundsid.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 35, 'Ja vara hommikul enne valget tõusis Ta üles ja väljus ning läks ära tühja paika ja palvetas seal.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 36, 'Ja Siimon ning tema kaaslased tõttasid Ta järele');
-INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 37, 'ja leidsid Tema ning ,ütlesid Talle: \"Kõik otsivad Sind!\"');
+INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 37, 'ja leidsid Tema ning,ütlesid Talle: \"Kõik otsivad Sind!\"');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 38, 'ütles neile: \"Lähme teisale, lähemaisse aleveisse, et Ma sealgi kuulutaksin, sest selleks Ma olen välja tulnud!\"');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 39, 'Ja Ta läks ning kuulutas nende kogudusekodades kogu Galileas ja ajas kurjad vaimud välja.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 40, 'Ja Tema juure tuleb pidalitõbine, palub Teda ja heidab ta ette põlvili ning ütleb Temale: \"Kui Sa tahad, võid Sa mind teha puhtaks!\"');
@@ -24365,7 +24364,7 @@ INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 1, 'Mõne päeva pärast läks Ta jälle Kapernauma, ja saadi kuulda, et Ta on kodus.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 2, 'Siis kogunes sinna palju rahvast, nii et neil väljas ukse eeski ei olnud enam maad. Ja Ta rääkis neile Jumala sõna.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 3, 'Ja Ta juure tuldi ning toodi halvatut, keda kandsid neli meest.');
-INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 4, 'Ja kui nad rahva pärast ei pääsnud teda tooma Tema , ligi võtsid nad sealt kohalt, kus Ta oli, katuse lahti, tegid augu ja lasksid alla sängi, millel halvatu lamas.');
+INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 4, 'Ja kui nad rahva pärast ei pääsnud teda tooma Tema, ligi võtsid nad sealt kohalt, kus Ta oli, katuse lahti, tegid augu ja lasksid alla sängi, millel halvatu lamas.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 5, 'Kui Jeesus nende usku nägi, ütles Ta halvatule: \"Poeg, su patud antakse andeks!\"');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 6, 'Aga seal istusid mõned kirjatundjad, ja need mõtlesid oma südames:');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 2, 7, '\"Mida Seesinane räägib? Ta pilkab Jumalat. Kes muu võib patte andeks anda kui ainuüksi Jumal?\"');
@@ -26237,7 +26236,7 @@ INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 13, 'Ja ometi ei ole ükski muu läinud taevasse kui aga See, Kes taevast on maha tulnud, Inimese Poeg!');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 14, 'Ja nõnda nagu Mooses kõrves mao ülendas, nõnda ülendatakse Inimese Poeg,');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 15, 'et igaühel, kes usub Temasse, oleks igavene elu!');
-INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 16, 'Sest nõnda on Jumal maailma armastanud, et Ta Oma Ainusündinud Poja , on annud, et ükski, kes Temasse usub, ei saaks hukka, vaid et temal oleks igavene elu!');
+INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 16, 'Sest nõnda on Jumal maailma armastanud, et Ta Oma Ainusündinud Poja, on annud, et ükski, kes Temasse usub, ei saaks hukka, vaid et temal oleks igavene elu!');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 17, 'Sest Jumal ei ole Oma Poega läkitanud maailma, et Ta maailma üle kohut mõistaks, vaid et maailm Tema läbi õndsaks saaks!');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 18, 'Kes usub Temasse, selle üle ei mõisteta kohut; aga kes ei usu, selle üle on juba kohus mõistetud, sest Ta ei ole uskunud Jumala ainusündinud Poja nimesse.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 3, 19, 'Aga see on kohus, et valgus on tulnud maailma ja inimesed armastasid pimedust rohkem kui valgust, sest nende teod olid kurjad.');
@@ -26409,7 +26408,7 @@ INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 48, 'Mina olen Eluleib.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 49, 'Teie esiisad sõid kõrves mannat ja surid.');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 50, 'See on leib, mis taevast alla tuleb, et inimene seda sööks ega sureks.');
-INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 51, 'Mina olen elav leib, mis taevast on alla tulnud. Kui keegi sööb seda leiba, siis ta elab igavesti; ja leib, mille Mina annan, on Minu Liha, mille annan maailma elu eest !\"');
+INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 51, 'Mina olen elav leib, mis taevast on alla tulnud. Kui keegi sööb seda leiba, siis ta elab igavesti; ja leib, mille Mina annan, on Minu Liha, mille annan maailma elu eest!\"');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 52, 'Siis riidlesid juudid isekeskis, üteldes: \"Kuidas see võib meile anda Oma Liha süüa?\"');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 53, 'Siis Jeesus ütles neile: \"Tõesti, tõesti Ma ütlen teile, et kui te ei söö Inimese Poja Liha ega joo Tema Verd, siis ei ole elu teis enestes!');
 INSERT INTO `Est_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 6, 54, 'Kes sööb Minu Liha ja joob Minu Verd, sel on igavene elu; ja Mina äratan tema üles viimsel päeval.');

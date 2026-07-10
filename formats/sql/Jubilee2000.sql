@@ -1,9 +1,8 @@
 -- SQL Dump for # Jubilee2000: English Jubilee 2000 Bible (Jubilee2000)
 -- License: Copyrighted; Free non-commercial distribution
 
-DROP TABLE IF EXISTS `Jubilee2000_books`;
 DROP TABLE IF EXISTS `Jubilee2000_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `Jubilee2000_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'Jubilee2000', '# Jubilee2000: English Jubilee 2000 Bible', 'Copyrighted; Free non-commercial distribution'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'Jubilee2000'
-            );
+            VALUES ('Jubilee2000', '# Jubilee2000: English Jubilee 2000 Bible', 'Copyrighted; Free non-commercial distribution')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `Jubilee2000_books` (
@@ -3034,7 +3033,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 13, 'Then Moses brought Aaron\'s sons and put coats upon them and girded them with girdles and put tiaras upon them, as the LORD had commanded Moses.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 14, 'Next he brought the bullock of the sin, and Aaron and his sons laid their hands upon the head of the bullock of the sin,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 15, 'and he slew [it]; and Moses took the blood and put [it] upon the horns of the altar round about with his finger and removed the sin from the altar and poured the [remaining] blood at the bottom of the altar and sanctified it, to make reconciliation upon it.');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 16, 'After that he took all the fat that [was] upon the intestines and the caul [above] the liver and the two kidneys, and their fat, and Moses incensed [it][ upon the altar.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 16, 'After that he took all the fat that [was] upon the intestines and the caul [above] the liver and the two kidneys, and their fat, and Moses incensed [it][upon the altar.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 17, 'But the bullock and its hide, its flesh, and its dung, he burnt with fire outside the camp, as the LORD had commanded Moses.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 18, 'After that, he brought the ram of the burnt offering, and Aaron and his sons laid their hands upon the head of the ram,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (3, 8, 19, 'and he killed [it]; and Moses sprinkled the blood upon the altar round about.');
@@ -14059,7 +14058,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 2, 10, 'Understand now therefore, O ye kings: receive chastening, ye judges of the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 2, 11, 'Serve the LORD with fear, and rejoice with trembling.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 2, 12, 'Kiss the Son lest he be angry, and ye perish [from] the way when his wrath is kindled in a little [while]. Blessed [are] all those that put their trust in him.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 1, '<> LORD, how are they increased that trouble me! Many [are] they that rise up against me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 1, '> LORD, how are they increased that trouble me! Many [are] they that rise up against me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 2, '[There are] many who say of my soul, [There] is no help for him in God. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 3, 'But thou, O LORD, [art] a shield for me; my glory and the lifter up of my head.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 4, 'I cried unto the LORD with my voice, and [he] answered me out of the mountain of his holiness. Selah.');
@@ -14067,7 +14066,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 6, 'I will not be afraid of ten thousands of people that have set [themselves] against me round about.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 7, 'Arise, O LORD; save me, O my God, for thou hast smitten all mine enemies [upon] the jawbone; thou hast broken the teeth of the ungodly.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 3, 8, 'Salvation [belongs] unto the LORD; thy blessing [shall be] upon thy people. Selah.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 1, '<<To the Overcomer in Neginoth, A Psalm of David.>> Hear me when I call, O God of my righteousness; thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 1, '> Hear me when I call, O God of my righteousness; thou hast enlarged me [when I was] in distress; have mercy upon me, and hear my prayer.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 2, 'O ye sons of men, how long [will ye turn] my glory into shame? [how long] will ye love vanity, [and] seek after the lie? Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 3, 'But know that the LORD hath set apart him that is godly for himself; the LORD will hear when I call unto him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 4, 'Stand in awe, and sin not; meditate in your heart upon your bed, and desist. Selah.');
@@ -14075,7 +14074,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 6, '[There are] many that say, Who will show us [any] good? LORD, lift thou up the light of thy countenance upon us.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 7, 'Thou hast put gladness in my heart in the time [that] their grain and their wine multiplied.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 4, 8, 'I will both lay me down in peace and sleep: for thou only, O LORD, dost make me to be confident.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 1, '<<To the Overcomer upon Nehiloth, A Psalm of David.>> Give ear to my words, O LORD; consider my meditation.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 1, '> Give ear to my words, O LORD; consider my meditation.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 2, 'Hearken unto the voice of my cry, my King, and my God, for unto thee will I pray.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 3, 'My voice shalt thou hear in the morning, O LORD; early [will I] present myself unto thee and wait.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 4, 'For thou [art] not a God that loves wickedness; neither shall one who is evil dwell with thee.');
@@ -14087,7 +14086,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 10, 'Declare them guilty, O God; let them fall by their own counsels; cast them out for the multitude of their rebellions; for they have rebelled against thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 11, 'And all those that put their trust in thee shall rejoice: they shall ever be in jubilee, for thou shalt cover them; and all that love thy name shall be joyful in thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 5, 12, 'For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as [with] a shield.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 1, '<<To the Overcomer in Neginoth upon Sheminith, A Psalm of David.>> O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 1, '> O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 2, 'Have mercy upon me, O LORD; for I [am] weak; O LORD, heal me, for my bones are troubled.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 3, 'My soul is also greatly troubled; but thou, O LORD, how long?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 4, 'Return, O LORD, deliver my soul: oh save me for thy mercies\' sake.');
@@ -14097,7 +14096,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 8, 'Depart from me, all ye workers of iniquity, for the LORD has heard the voice of my weeping.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 9, 'The LORD has heard my supplication; the LORD has received my prayer.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 6, 10, 'All my enemies shall be ashamed; they shall be sorely troubled: they shall turn back [and] be ashamed suddenly.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 1, '<<Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite.>> O LORD my God, in thee I have put my trust: save me from all those that persecute me, and deliver me');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 1, '> O LORD my God, in thee I have put my trust: save me from all those that persecute me, and deliver me');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 2, 'Lest they take my soul, as a lion dismembers [his prey] when [there is] none to deliver.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 3, 'O LORD my God, if I have done this: if there is iniquity in my hands,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 4, 'if I have rewarded evil unto him that was at peace with me, then let my persecutor escape without retribution.');
@@ -14114,7 +14113,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 15, 'He made a pit and deepened it and shall fall into the ditch [which] he made.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 16, 'His work shall return upon his own head, and his violent dealing shall come down upon his own pate.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 7, 17, 'I will praise the LORD according to his righteousness and will sing praise to the name of the LORD most high.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 1, '<<To the Overcomer upon Gittith, A Psalm of David.>> O LORD our Lord, how great [is] thy name in all the earth! who hast set thy praise above the heavens.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 1, '> O LORD our Lord, how great [is] thy name in all the earth! who hast set thy praise above the heavens.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 2, 'Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou might still the enemy and the avenger.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 3, 'When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 4, 'what is man, that thou art mindful of him? and the son of man, that thou dost visit him?');
@@ -14123,7 +14122,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 7, 'all sheep and oxen, yea, and the beasts of the field;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 8, 'The birds of the heavens, and the fish of the sea, [and whatever] passes through the paths of the seas.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 8, 9, 'O LORD our Lord, how great [is] thy name in all the earth!:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 9, 1, '<<To the Overcomer upon Muthlabben, A Psalm of David.>> I will praise [thee], O LORD, with my whole heart; I will tell of all thy marvellous works.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 9, 1, '> I will praise [thee], O LORD, with my whole heart; I will tell of all thy marvellous works.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 9, 2, 'I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 9, 3, 'because my enemies are turned back; they shall fall and perish at thy presence.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 9, 4, 'For thou hast accomplished my judgment and my cause; thou didst sit in the throne judging [according to] righteousness.');
@@ -14161,14 +14160,14 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 10, 16, 'The LORD [is] King for ever and ever; the Gentiles are perished out of his land.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 10, 17, 'LORD, thou hast heard the desire of the humble: thou wilt prepare their heart; thou wilt cause thine ear to hear:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 10, 18, 'to judge the fatherless and the oppressed that the man of the earth may no longer oppress.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 1, '<<To the Overcomer, A [Psalm] of David.>> I put my trust in the LORD put I: how say ye to my soul, Flee [as] a bird to your mountain?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 1, '> I put my trust in the LORD put I: how say ye to my soul, Flee [as] a bird to your mountain?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 2, 'For, behold, the wicked bend [their] bow; they make ready their arrow upon the string that they may secretly shoot at the upright in heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 3, 'The foundations shall be destroyed. What has the righteous done?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 4, 'The LORD [is] in the temple of his holiness, the LORD\'S throne [is] in heaven: his eyes behold, his eyelids try the children of men.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 5, 'The LORD tries the righteous, but the wicked and he that loves violence his soul hates.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 6, 'Upon the wicked he shall rain snares, fire and brimstone, with winds of whirlwinds: [this shall be] the portion of their cup.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 11, 7, 'For the righteous LORD loves righteousness; his countenance beholds the upright.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 1, '<<To the Overcomer upon Sheminith, A Psalm of David.>> Help, LORD; for the merciful man ceases, for the faithful fail from among the children of men.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 1, '> Help, LORD; for the merciful man ceases, for the faithful fail from among the children of men.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 2, 'Each one speaks vanity with his neighbour: they speak [with] flattering lips [and] with a double heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 3, 'The LORD shall cut off all flattering lips [and] the tongue that speaks proud things:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 4, 'Who have said, With our tongue we will prevail; our lips [are] our own: who [is] lord over us?');
@@ -14176,25 +14175,25 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 6, 'The words of the LORD [are] pure words: as silver tried in a furnace of earth, purified seven times.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 7, 'Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 12, 8, 'The wicked press in on every side when the vilest men are exalted.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 1, '<<To the Overcomer, A Psalm of David.>> How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 1, '> How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 2, 'How long shall I take counsel in my soul, [having] sorrow in my heart daily? how long shall my enemy be exalted over me?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 3, 'Consider [and] hear me, O LORD my God: lighten mine eyes lest I sleep the [sleep of] death,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 4, 'lest mine enemy say, I have prevailed against him; [and] those that trouble me rejoice when I am moved.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 5, 'But I have trusted in thy mercy; my heart shall rejoice in thy salvation.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 13, 6, 'I will sing unto the LORD because he has dealt bountifully with me.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 1, '<<To the Overcomer, A [Psalm] of David.>> The fool has said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] no one that does good.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 1, '> The fool has said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] no one that does good.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 2, 'The LORD looked down from heaven upon the children of men to see if there were any that did understand [and] seek God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 3, 'They are all gone aside, they are [all] together become filthy: [there is] no one that does good, no, not one.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 4, 'The workers of iniquity certainly know [this]; those who eat up my people [as] they eat bread and do not call upon the LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 5, 'There they were in great fear: for God [is] with the nation of the righteous.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 6, 'Ye have shamed the counsel of the poor because the LORD [is] his hope.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 14, 7, 'Oh that the saving health of Israel [were come] out of Zion! When the LORD turns back the captivity of his people, Jacob shall rejoice, [and] Israel shall be glad.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 15, 1, '<> LORD, who shall abide in thy tabernacle? who shall dwell in the mountain of thy holiness?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 15, 1, '> LORD, who shall abide in thy tabernacle? who shall dwell in the mountain of thy holiness?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 15, 2, 'He that walks in integrity and works righteousness, and speaks the truth in his heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 15, 3, '[He that] does not backbite with his tongue nor do evil to his neighbour nor take up a reproach against his neighbour.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 15, 4, 'In whose eyes the vile person is not esteemed; but he honours those that fear the LORD. [He that] swears to [his own] hurt and does not change.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 15, 5, '[He that] does not put out his money to usury nor take a bribe against the innocent. He that does these [things] shall never be moved.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 1, '<<Michtam of David.>> Preserve me, O God: for in thee I have put my trust.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 1, '> Preserve me, O God: for in thee I have put my trust.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 2, 'I said unto the LORD, Thou [art] my goodness: I have no goodness [apart from] thee;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 3, 'to the saints that [are] in the earth and [to] the excellent: all my delight is towards them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 4, 'The sorrows of those [that] hasten [after] another god shall be multiplied; their drink offerings of blood I will not offer, nor take up their names into my lips.');
@@ -14205,7 +14204,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 9, 'Therefore my heart is glad, and my glory rejoices: my flesh also shall rest secure.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 10, 'For thou wilt not leave my soul in Sheol; neither wilt thou suffer thy Merciful One to see corruption.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 16, 11, 'Thou wilt show me the path of life: in thy presence [is] fullness of joy; in thy right hand [there are] pleasures for evermore.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 1, '<> Hear righteousness, O LORD, attend unto my cry, give ear unto my prayer, [that] does not [go] not out of feigned lips.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 1, '> Hear righteousness, O LORD, attend unto my cry, give ear unto my prayer, [that] does not [go] not out of feigned lips.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 2, 'Let my sentence come forth from thy presence; let thine eyes behold uprightness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 3, 'Thou hast proved my heart; thou hast visited [me] in the night; thou hast refined me [and hast] found no iniquity; that which I thought did not pass through my mouth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 4, 'Concerning the works of men, by the word of thy lips I have observed the ways of the violent.');
@@ -14220,7 +14219,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 13, 'Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, [with] thy sword;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 14, 'from men, [with] thy hand, O LORD, from men of the world, [who have] their portion in [this] life and whose belly thou dost fill with thy provision: they satisfy their sons and leave the rest to their family.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 17, 15, 'As for me, I will behold thy face in righteousness; I shall be satisfied when I awake with thy likeness.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 1, '<<To the Overcomer, [A Psalm] of David, the servant of the LORD, who spoke unto the LORD the words of this song in the day [that] the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said,>>I will love thee, O LORD, my strength.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 1, '>I will love thee, O LORD, my strength.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 2, 'The LORD [is] my rock and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, [and] my high tower.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 3, 'I will call upon the LORD, [who is worthy] to be praised, so shall I be saved from my enemies.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 4, 'The pain of death compassed me, and the rivers of Belial made me afraid.');
@@ -14270,7 +14269,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 48, 'He delivers me from my enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the one who would betray me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 49, 'Therefore I will give thanks unto thee, O LORD, among the Gentiles and sing praises unto thy name.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 18, 50, 'He gives great deliverance to his king and shows mercy to his anointed, to David, and to his seed for evermore.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 1, '<<To the Overcomer, A Psalm of David.>> The heavens declare the glory of God; and the firmament shows the work of his hands.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 1, '> The heavens declare the glory of God; and the firmament shows the work of his hands.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 2, '[One] day provides a word for the [next] day, and [one] night declares wisdom unto the [next] night.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 3, '[There is] no speech nor language, [where] their voice is not heard.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 4, 'Their line is gone out through all the earth, and their words to the end of the world. In them he has set a tabernacle for the sun,');
@@ -14284,7 +14283,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 12, 'Who can understand [his] errors? cleanse thou me from secret [faults].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 13, 'Keep back thy servant also from pride [and arrogance]; let them not have dominion over me; then I shall be perfect, and I shall be innocent of the great rebellion.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 19, 14, 'Let the words of my mouth and the meditation of my heart be acceptable in thy sight, O LORD, my strength, and my redeemer.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 1, '<<To the Overcomer, A Psalm of David.>> [Let] the LORD hear thee in the day of trouble; [let] the name of the God of Jacob lift thee up');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 1, '> [Let] the LORD hear thee in the day of trouble; [let] the name of the God of Jacob lift thee up');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 2, '[and] send thee help from the sanctuary and strengthen thee out of Zion');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 3, '[and] remember all thy offerings and reduce thy burnt sacrifice to [the ashes] of [burnt] fat, Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 4, 'Grant thee according to thine heart and fulfil all thy counsel.');
@@ -14293,7 +14292,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 7, 'Some [trust] in chariots and some in horses, but we will remember the name of the LORD our God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 8, 'They are brought down and fallen, but we are risen and stand upright.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 20, 9, 'The LORD saves the king; let him hear us on the day when we call.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 1, '<<To the Overcomer, A Psalm of David.>> The king shall joy in thy strength, O LORD; and in thy saving health how greatly shall he rejoice!');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 1, '> The king shall joy in thy strength, O LORD; and in thy saving health how greatly shall he rejoice!');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 2, 'Thou hast given him his heart\'s desire and hast not withheld the request of his lips. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 3, 'For thou givest him beforehand the blessings of goodness; thou settest a crown of pure gold on his head.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 4, 'He asked life of thee, [and] thou didst give him length of days for ever and ever.');
@@ -14306,7 +14305,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 11, 'For they intended evil against thee; they imagined a wicked device, [but] they did not prevail.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 12, 'Therefore shalt thou separate them; thou shalt make ready [thine arrows] upon thy strings against the face of them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 21, 13, 'Be thou exalted, LORD, in thine own strength: [so] will we sing and praise thy valour.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 1, '<<To the Overcomer upon Aijeleth Shahar, A Psalm of David.>> My God, my God, why hast thou forsaken me? [why art thou so] far from helping me [and from] the words of my cry?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 1, '> My God, my God, why hast thou forsaken me? [why art thou so] far from helping me [and from] the words of my cry?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 2, 'O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 3, 'But thou [art] holy, O [thou] that inhabitest [in the midst of] the praises of Israel.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 4, 'Our fathers trusted in thee: they trusted, and thou didst deliver them.');
@@ -14337,13 +14336,13 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 29, 'All [those that are] fat upon earth shall eat and worship; all those that go down to the dust shall bow before him; and no one can keep his own soul alive.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 30, 'A seed shall serve him; it shall be accounted to the Lord for a generation.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 22, 31, 'They shall come and shall declare his righteousness unto a people that shall be born, that he has done [this].:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 1, '<> The LORD [is] my shepherd; I shall not want.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 1, '> The LORD [is] my shepherd; I shall not want.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 2, 'He makes me to lie down in green pastures; he leads me beside the still waters.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 3, 'He restores my soul: he leads me in the paths of righteousness for his name\'s sake.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 4, 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff shall comfort me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 5, 'Thou shalt prepare a table before me in the presence of my enemies; thou hast anointed my head with oil; my cup [is] running over.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 23, 6, 'Surely goodness and mercy shall follow me all the days of my life: and I will rest in the house of the LORD for ever.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 1, '<> The earth [is] the LORD\'S, and the fullness thereof; the world and they that dwell therein.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 1, '> The earth [is] the LORD\'S, and the fullness thereof; the world and they that dwell therein.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 2, 'For he has founded it upon the seas and established it upon the rivers.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 3, 'Who shall ascend into the hill of the LORD? or who shall stand in the place of his holiness?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 4, 'He that has clean hands and a pure heart, who has not taken my name in vain, nor sworn deceitfully.');
@@ -14353,7 +14352,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 8, 'Who [is] this King of glory? The LORD strong and mighty, the LORD mighty in battle.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 9, 'Lift up your heads, O ye gates; lift yourselves up, ye everlasting doors, and the King of glory shall come in.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 24, 10, 'Who is this King of glory? The LORD of the hosts, he [is] the King of glory. Selah.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 1, '<<[A Psalm] of David.>> [Aleph] Unto thee, O LORD, do I lift up my soul.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 1, '> [Aleph] Unto thee, O LORD, do I lift up my soul.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 2, '[Beth] O my God, I trust in thee: let me not be ashamed, let not my enemies triumph over me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 3, '[Gimel] Yea, none that wait on thee shall be ashamed; those which rebel without cause shall be ashamed.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 4, '[Daleth] Show me thy ways, O LORD; teach me thy paths.');
@@ -14375,7 +14374,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 20, '[Schin] O keep my soul and deliver me; let me not be ashamed, for I put my trust in thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 21, '[Tau] Integrity and uprightness shall preserve me, for I have waited for thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 25, 22, '[Pe] Ransom Israel, O God, out of all his troubles.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 1, '<<[A Psalm] of David.>> Judge me, O LORD, for I have walked in my integrity; I have trusted also in the LORD; [therefore] I shall not slide.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 1, '> Judge me, O LORD, for I have walked in my integrity; I have trusted also in the LORD; [therefore] I shall not slide.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 2, 'Examine me, O LORD and prove me; melt my kidneys and my heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 3, 'For thy mercy [is] before my eyes, and I walk in thy truth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 4, 'I have not sat with vain persons, neither will I go in with hypocrites.');
@@ -14387,7 +14386,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 10, 'In whose hands [are] wicked devices, and their right hand is full of bribes.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 11, 'But as for me, I will walk in my integrity; ransom me and be merciful unto me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 26, 12, 'I have walked uprightly; in the congregations I will bless the LORD.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 1, '<<[A Psalm] of David.>> The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 1, '> The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 2, 'When the wicked, [even] my enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 3, 'Though a host should encamp against me, my heart shall not fear; though war should rise against me, in this [will] I [be] confident.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 4, 'One [thing] have I desired of the LORD, that will I seek after: that I may dwell in the house of the LORD all the days of my life to behold the beauty of the LORD and to enquire in his temple.');
@@ -14401,7 +14400,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 12, 'Deliver me not over unto the will of my enemies: for false witnesses are risen up against me and such as breathe out cruelty.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 13, '[I had fainted] unless I had believed to see the goodness of the LORD in the land of the living.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 27, 14, 'Wait for the LORD: be of good courage, and he shall strengthen thine heart; wait, I say, for the LORD.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 1, '<<[A Psalm] of David.>> Unto thee will I cry, O LORD my rock; be not silent unto me lest, [if] thou be silent unto me, I become like those that go down into the grave.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 1, '> Unto thee will I cry, O LORD my rock; be not silent unto me lest, [if] thou be silent unto me, I become like those that go down into the grave.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 2, 'Hear the voice of my supplications when I cry unto thee, when I lift up my hands toward the oracle of thy holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 3, 'Do not catch me away with the wicked, and with the workers of iniquity, who speak peace to their neighbours, but evil [is] in their hearts.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 4, 'Give them according to their deeds and according to the wickedness of their endeavours: give them after the work of their hands; render unto them their desert.');
@@ -14410,7 +14409,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 7, 'The LORD [is] my strength and my shield; my heart trusted in him, and I am helped; therefore my heart greatly rejoices; and with my song I will praise him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 8, 'The LORD [is] the strength of his people, and he [is] the saving strength of his anointed.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 28, 9, 'Save thy people and bless thine inheritance; feed them also and lift them up for ever.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 1, '<> Give unto the LORD, O ye mighty, give unto the LORD glory and strength.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 1, '> Give unto the LORD, O ye mighty, give unto the LORD glory and strength.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 2, 'Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 3, 'The voice of the LORD [is] upon the waters: the God of glory thunders: the LORD [is] upon many waters.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 4, 'The voice of the LORD [is] powerful; the voice of the LORD [is] full of majesty.');
@@ -14421,7 +14420,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 9, 'The voice of the LORD shall make the hinds to calve and shall uncover the forests: and in his temple every one speaks to [his] glory.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 10, 'The LORD sits upon the flood; [yea], the LORD sat down as King for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 29, 11, 'The LORD will give strength unto his people; the LORD will bless his people in peace.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 1, '<> I will extol thee, O LORD; for thou hast lifted me up and hast not made my foes to rejoice over me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 1, '> I will extol thee, O LORD; for thou hast lifted me up and hast not made my foes to rejoice over me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 2, 'O LORD my God, I cried unto thee, and thou hast healed me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 3, 'O LORD, thou hast brought up my soul from Sheol; thou gavest me life from my descent into the grave.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 4, 'Let his merciful ones sing unto the LORD, and give thanks at the remembrance of his holiness.');
@@ -14433,7 +14432,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 10, 'Hear, O LORD and have mercy upon me: LORD, be thou my helper.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 11, 'Thou hast turned my mourning into dancing: thou hast put off my sackcloth and girded me with gladness;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 30, 12, 'to the end that [I] may sing glory unto thee and not be silent. O LORD my God, I will give thanks unto thee for ever.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 1, '<<To the Overcomer, A Psalm of David.>> In thee, O LORD, have I waited; let me never be ashamed; deliver me in thy righteousness.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 1, '> In thee, O LORD, have I waited; let me never be ashamed; deliver me in thy righteousness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 2, 'Incline thine ear unto me; deliver me speedily; be thou my strong rock, for a house of defence to save me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 3, 'For thou [art] my rock and my fortress; therefore for thy name\'s sake thou shalt lead me and guide me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 4, 'Thou shalt pull me out of the net that they have laid in secret for me; for thou [art] my strength.');
@@ -14457,7 +14456,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 22, 'For I said in my haste, I am cut off from before thine eyes; nevertheless thou hast heard the voice of my supplications when I cried unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 23, 'O love the LORD, all ye his merciful ones, [for] the LORD preserves the faithful and plentifully rewards the proud doer.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 31, 24, 'Be of good courage and strengthen your hearts, all ye that wait in the LORD.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 32, 1, '<<[A Psalm] of David, Maschil.>> Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 32, 1, '> Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 32, 2, 'Blessed [is] the man unto whom the LORD does not impute iniquity and in whose spirit [there is] no guile.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 32, 3, 'When I kept silence, my bones waxed old through my roaring all the day long.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 32, 4, 'For day and night thy hand was heavy upon me: my green [growth] is turned into the drought of summer. Selah.');
@@ -14490,7 +14489,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 33, 20, 'Our soul waited for the LORD; he [is] our help and our shield.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 33, 21, 'Therefore our heart shall rejoice in him because we have trusted in the name of his holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 33, 22, 'Let thy mercy, O LORD, be upon us, according as we have waited upon thee.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 1, '<<[A Psalm] of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.>> [Aleph] I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 1, '> [Aleph] I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 2, '[Beth] My soul shall glory in the LORD; the meek shall hear [of this], and be glad.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 3, '[Gimel] O magnify the LORD with me, and let us exalt his name together.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 4, '[Daleth] I sought the LORD, and he heard me and delivered me from all my fears.');
@@ -14512,7 +14511,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 20, '[Resh] keeping all his bones; not one of them shall be broken.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 21, '[Schin] Evil shall slay the wicked; and those that hate the righteous shall be [declared] guilty.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 34, 22, '[Tau] The LORD ransoms the soul of his servants, and none of those that trust in him shall be [declared] guilty.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 1, '<> Plead [my cause], O LORD, with those that strive with me; fight against those that fight against me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 1, '> Plead [my cause], O LORD, with those that strive with me; fight against those that fight against me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 2, 'Take hold of shield and buckler, and stand up in my help.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 3, 'Draw out also the spear, and stop [the way] against those that persecute me; say unto my soul; I [am] thy saving health.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 4, 'Let them be confounded and put to shame that seek after my soul let them be turned back and brought to confusion that devise my hurt.');
@@ -14540,7 +14539,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 26, 'Let them be ashamed and brought to confusion together that rejoice at my hurt; let them be clothed with shame and dishonour that magnify [themselves] against me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 27, 'Let them shout for joy and be glad that favour my righteous cause; let them say continually, Let the LORD be magnified, who has pleasure in the peace of his servant.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 35, 28, 'And my tongue shall speak of thy righteousness [and] of thy praise all the day long.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 1, '<<To the Overcomer, A [Psalm] of David the servant of the LORD.>> The rebellion of the wicked saith to my heart [that There] is no fear of God before his eyes.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 1, '> The rebellion of the wicked saith to my heart [that There] is no fear of God before his eyes.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 2, 'For he flatters himself in his own eyes until his iniquity is found to be hateful.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 3, 'The words of his mouth [are] iniquity and deceit; he has left off to be wise [and] to do good.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 4, 'He devises iniquity upon his bed; he sets himself in a way [that] is not good; he does not abhor evil.');
@@ -14552,7 +14551,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 10, 'Extend thy mercy unto those that know thee and thy righteousness to the upright in heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 11, 'Let not the foot of pride come against me, and let not the hand of the wicked remove me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 36, 12, 'There are the workers of iniquity fallen; they are cast down and shall not be able to rise.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 1, '<> [Aleph] Do not be angry with the evildoers, neither be thou envious of the workers of iniquity.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 1, '> [Aleph] Do not be angry with the evildoers, neither be thou envious of the workers of iniquity.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 2, 'For they shall soon be cut down like the grass and wither as the green herb.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 3, '[Beth] Wait in the LORD and do good; live in the land and uphold the truth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 4, 'In the same manner delight thyself in the LORD, and he shall give thee the desires of thy heart.');
@@ -14592,7 +14591,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 38, 'But the rebels were destroyed all together; the wicked were cut off in the end.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 39, '[Tau] But the salvation of the righteous is the LORD; [he is] their strength in the time of trouble.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 37, 40, 'And the LORD helped them and delivers them; he shall deliver them from the wicked and save them because they wait in him.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 1, '<> O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 1, '> O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 2, 'For thine arrows stick fast in me, and thy hand presses me sore.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 3, '[There is] no soundness in my flesh because of thine anger; neither [is there any] rest in my bones because of my sin.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 4, 'For my iniquities are gone over my head; as a heavy burden they are too heavy for me.');
@@ -14614,7 +14613,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 20, 'rendering evil for good they are against me because I follow [that which is] good.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 21, 'Forsake me not, O LORD; O my God, be not far from me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 38, 22, 'Make haste to help me, O Lord my salvation.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 1, '<<To the Overcomer, [even] to Jeduthun, A Psalm of David.>> I said, I will take heed to my ways that I sin not with my tongue: I will keep my mouth with a bit while the wicked is against me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 1, '> I said, I will take heed to my ways that I sin not with my tongue: I will keep my mouth with a bit while the wicked is against me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 2, 'I was dumb with silence; I held my peace, [even] from good; and my sorrow was stirred.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 3, 'My heart was hot within me, while I was musing the fire burned; [then] I spoke with my tongue,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 4, 'LORD, make me to know my end and the measure of my days, what it [is that] I may know how long I am to be of this world.');
@@ -14627,7 +14626,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 11, 'When thou with chastening dost correct man for iniquity, thou makest his greatness to consume away like a moth; surely every man [is] vanity. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 12, 'Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I [am] a stranger with thee [and] a sojourner, as all my fathers [were].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 39, 13, 'O spare me, that I may recover strength before I go from here and be no more.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 1, '<<To the Overcomer, A Psalm of David.>> I waited patiently for the LORD, and he inclined unto me and heard my cry.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 1, '> I waited patiently for the LORD, and he inclined unto me and heard my cry.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 2, 'He brought me up also out of the pit of hopelessness, out of the miry clay and set my feet upon a rock [and] straightened my steps.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 3, 'And he has put a new song in my mouth, [even] praise unto our God; many shall see [it] and fear and shall wait on the LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 4, 'Blessed [is] that man that makes the LORD his trust and does not respect the proud, nor such as turn aside to lies.');
@@ -14644,7 +14643,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 15, 'Let them be desolate for a reward of their shame that say unto me, Aha, aha.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 16, 'Let all those that seek thee rejoice and be glad in thee; let such as love thy salvation say continually, The LORD be magnified.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 40, 17, 'When I [am] poor and needy; the Lord will remember me; thou [art] my help and my deliverer; make no tarrying, O my God.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 1, '<<To the Overcomer, A Psalm of David.>> Blessed [is] he that understands regarding the poor; the LORD will deliver him in the day of evil.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 1, '> Blessed [is] he that understands regarding the poor; the LORD will deliver him in the day of evil.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 2, 'The LORD will preserve him and keep him alive, [and] he shall be blessed upon the earth, and thou wilt not deliver him unto the will of his enemies.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 3, 'The LORD will strengthen him upon the bed of languishing; thou wilt soften all his bed in his sickness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 4, 'I said, LORD, be merciful unto me; heal my soul; for I have sinned against thee.');
@@ -14657,7 +14656,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 11, 'In this I shall know that I have pleased thee, that my enemy does not triumph over me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 12, 'And as for me, thou sustained me in my integrity and hast seated me before thy face for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 41, 13, 'Blessed [be] the LORD God of Israel from everlasting and to everlasting. Amen, and Amen.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 42, 1, '<<To the Overcomer: Maschil, for the sons of Korah.>> As the hart pants after the water brooks, so does my soul pant after thee, O God.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 42, 1, '> As the hart pants after the water brooks, so does my soul pant after thee, O God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 42, 2, 'My soul thirsts for God, for the living God; when shall I come and appear before God?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 42, 3, 'My tears have been my food day and night, while they continually say unto me, Where [is] thy God?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 42, 4, 'I will remember these [things]; I will pour out my soul in me. When I shall be included in the number; I will go with them to the house of God with voice of joy and praise, dancing [in] the multitude.');
@@ -14673,7 +14672,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 43, 3, 'O send out thy light and thy truth; let them lead me; let them bring me unto the mountain of thy holiness and to thy tabernacles.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 43, 4, 'Then I will enter in to the altar of God, unto the God [of] my exceeding joy; yea, upon the harp will I praise thee, O God my God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 43, 5, 'Why art thou cast down, O my soul? and why art thou disquieted within me? Wait for God, for I shall yet praise him, [who is] the saving health of my countenance and my God.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 1, '<<To the Overcomer for the sons of Korah, Maschil.>> We have heard with our ears, O God, our fathers have told us, what work thou didst in their days in the times of old.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 1, '> We have heard with our ears, O God, our fathers have told us, what work thou didst in their days in the times of old.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 2, '[How] thou didst drive out the Gentiles with thy hand and plant them [in their place]; [how] thou didst afflict the peoples and cast them out.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 3, 'For they did not get the land in inheritance by their own sword, neither did their own arm save them, but thy right hand and thine arm, and the light of thy countenance because thy delight was in them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 4, 'Thou art my King, O God; command saving health unto Jacob.');
@@ -14699,7 +14698,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 24, 'Why dost thou hide thy face [and] forget our affliction and our oppression?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 25, 'For our soul is bowed down to the dust; our belly cleaves unto the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 44, 26, 'Arise for our help and ransom us for thy mercies\' sake.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 1, '<<To the Overcomer: upon Shoshannim [lilies], for the sons of Korah, Maschil, A Song of loves.>> My heart is overflowing with a good word; I speak of the things which I have done concerning the king; my tongue [is] the pen of a ready writer.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 1, '> My heart is overflowing with a good word; I speak of the things which I have done concerning the king; my tongue [is] the pen of a ready writer.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 2, 'Thou art fairer than the sons of men, grace is poured into thy lips; therefore God has blessed thee for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 3, 'Gird thy sword upon [thy] thigh, O [most] valiant, with thy glory and thy majesty.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 4, 'And in thy majesty be prospered; ride upon the word of truth and of humility [and] of righteousness; and thy right hand shall teach thee terrible things.');
@@ -14716,7 +14715,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 15, 'With gladness and rejoicing shall they be brought; they shall enter into the king\'s palace.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 16, 'Instead of thy fathers shall be thy sons, whom thou shalt make princes in all the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 45, 17, 'I will make thy name to be remembered in all generations; therefore shall the people praise thee eternally and for ever.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 1, '<<To the Overcomer: for the sons of Korah, A Song upon Alamoth.>> God [is] our refuge and strength, a very present help in tribulation.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 1, '> God [is] our refuge and strength, a very present help in tribulation.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 2, 'Therefore we will not fear, though the earth be removed and though the mountains be carried into the midst of the sea,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 3, '[though] the waters thereof roar [and] be troubled, [though] the mountains shake with the violence thereof. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 4, '[There is] a river, the streams of which shall make glad the city of God, the sanctuary of the tents of the most High.');
@@ -14727,7 +14726,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 9, 'He makes wars to cease unto the end of the earth; he breaks the bow and cuts the spear in sunder; he burns the chariot in the fire.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 10, 'Be still, and know that I [am] God; I will be exalted in the Gentiles, I will be exalted in the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 46, 11, 'The LORD of the hosts [is] with us; the God of Jacob [is] our refuge. Selah.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 1, '<<To the Overcomer: A Psalm for the sons of Korah.>> O clap your hands, all ye people; shout unto God with the voice of triumph.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 1, '> O clap your hands, all ye people; shout unto God with the voice of triumph.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 2, 'For the LORD most high [is] terrible; [he is] a great King over all the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 3, 'He shall guide the peoples under us, and the Gentiles under our feet.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 4, 'He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.');
@@ -14736,7 +14735,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 7, 'For God [is] the King of all the earth; sing ye [praises] with understanding.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 8, 'God reigns over the Gentiles; God sits upon the throne of his holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 47, 9, 'The princes of the peoples have joined the people of the God of Abraham; for the shields of the earth [belong] unto God; he is greatly exalted.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 1, '<> Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 1, '> Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 2, 'Beautiful for situation, the joy of the whole earth, [is] mount Zion, [on] the sides of the north, the city of the great King.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 3, 'God is known in her palaces for a refuge.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 4, 'For, behold, the kings were assembled, they passed by together.');
@@ -14750,7 +14749,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 12, 'Walk about Zion and go round about her; tell the towers thereof.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 13, 'Mark ye well her bulwarks, consider her palaces that ye may tell [it] to the generation following.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 48, 14, 'For this God [is] our God eternally and for ever; he will be our guide [even] unto death.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 1, '<<To the Overcomer, A Psalm for the sons of Korah.>> Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 1, '> Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 2, 'Both low and high, rich and poor, together.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 3, 'My mouth shall speak wisdom; and the meditation of my heart intelligence.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 4, 'I will incline mine ear to a parable; I will declare my enigma upon the harp.');
@@ -14770,7 +14769,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 18, 'Though while he lives, his life shall be blessed: and [men] will praise thee when thou art prosperous.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 19, 'He shall enter into the generation of his fathers; they shall never see light forever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 49, 20, 'Man [that is] in honour that does not understand is like the beasts [that] are cut off.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 1, '<> The God of gods, [even] the LORD, has spoken and convocated the earth from the rising of the sun unto the going down thereof.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 1, '> The God of gods, [even] the LORD, has spoken and convocated the earth from the rising of the sun unto the going down thereof.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 2, 'Out of Zion, the perfection of beauty, God has shined [forth].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 3, 'Our God shall come and shall not keep silence; a fire shall devour before him, and it shall be very tempestuous round about him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 4, 'He shall convocate the heavens of above, and the earth, that he may judge his people.');
@@ -14793,7 +14792,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 21, 'These [things] hast thou done, and I kept silence; thou didst think that I was altogether [such a one] as thyself, [but] I will reprove thee and set [them] in order before thine eyes.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 22, 'Now consider this, ye that forget God, lest I take you [away], and [there be] none to deliver.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 50, 23, 'Whosoever sacrifices praise glorifies me; and to him that orders [his] ways [aright] I will show the salvation of God.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 1, '<<To the Overcomer, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba.>> Have mercy upon me, O God, according to thy mercy; according unto the multitude of thy compassion eradicate my rebellion.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 1, '> Have mercy upon me, O God, according to thy mercy; according unto the multitude of thy compassion eradicate my rebellion.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 2, 'Wash me thoroughly from my iniquity and cleanse me from my sin.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 3, 'For I acknowledge my rebellion; and my sin [is] ever before me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 4, 'Against thee, against thee only, have I sinned and done [this] evil in thy sight that thou be declared just in thy word [and] pure in thy judgment.');
@@ -14812,7 +14811,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 17, 'The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 18, 'Do good in thy good pleasure unto Zion; build thou the walls of Jerusalem.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 51, 19, 'Then thou shalt be pleased with the sacrifices of righteousness, the burnt offering, the offering that has been totally consumed by the fire; then shall they offer bullocks upon thine altar.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 1, '<<To the Overcomer, Maschil, [A Psalm] of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.>> Why dost thou boast of evil, O strong man? The mercy of God is day by day.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 1, '> Why dost thou boast of evil, O strong man? The mercy of God is day by day.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 2, 'Thy tongue devises wickedness like a sharp razor, working deceitfully.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 3, 'Thou dost love evil more than good; [and] lying rather than to speak righteousness. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 4, 'Thou dost love all devouring words, O [thou] deceitful tongue.');
@@ -14821,20 +14820,20 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 7, 'Behold, [this is] the man [that] did not make God his strength, but trusted in the abundance of his riches [and] strengthened himself in his wickedness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 8, 'But I [am] like a green olive tree in the house of God; I trust in the eternal mercy of God for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 52, 9, 'I will praise thee for ever because thou hast done [it], and I will wait on thy name, for [it is] good before thy merciful ones.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 1, '<<To the Overcomer upon Mahalath, Maschil, [A Psalm] of David.>> The fool has said in his heart, [There is] no God. They have corrupted themselves and have done abominable iniquity; [there is] no one that does good.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 1, '> The fool has said in his heart, [There is] no God. They have corrupted themselves and have done abominable iniquity; [there is] no one that does good.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 2, 'God looked down from heaven upon the sons of Adam to see if there were [any] that did understand, that did seek God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 3, 'Every one of them is gone back; they are altogether become filthy; [there is] no one that does good, no, not one.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 4, 'Have the workers of iniquity no knowledge? who eat up my people [as] they eat bread; they have not called upon God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 5, 'They were there in great fear [where] no fear was; for God has scattered the bones of him that encamps [against] thee: thou hast put [them] to shame because God has despised them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 53, 6, 'Oh that the saving health of Israel [were come] out of Zion! When God brings back the captivity of his people, Jacob shall rejoice, [and] Israel shall be glad.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 1, '<<To the Overcomer on Neginoth, Maschil, [A Psalm] of David, when the Ziphims came and said to Saul, Does David not hide himself with us?>> Save me, O God, in thy name and defend me by thy valour.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 1, '> Save me, O God, in thy name and defend me by thy valour.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 2, 'Hear my prayer, O God; give ear to the words of my mouth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 3, 'For strangers are risen up against me, and oppressors seek after my soul; they have not set God before them. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 4, 'Behold, God [is] my helper; the Lord [is] with those that uphold my soul.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 5, 'He shall reward evil unto my enemies; cut them off in thy truth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 6, 'I will freely sacrifice unto thee; I will praise thy name, O LORD; for [it is] good.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 54, 7, 'For he has delivered me out of all trouble, and my eye has seen [his desire] upon my enemies.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 1, '<<To the Overcomer on Neginoth, Maschil, [A Psalm] of David.>> Give ear to my prayer, O God, and do not hide thyself from my supplication.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 1, '> Give ear to my prayer, O God, and do not hide thyself from my supplication.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 2, 'Attend unto me and hear me: I mourn in my complaint and make a noise');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 3, 'because of the voice of the enemy because of the oppression of the wicked; for they cast iniquity upon me, and in wrath they hate me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 4, 'My heart is sore pained within me, and the terrors of death are fallen upon me.');
@@ -14857,7 +14856,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 21, '[The words] of his mouth were smoother than butter, but war [was] in his heart; his words were softer than oil, yet they [were] drawn swords.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 22, 'Cast thy burden upon the LORD, and he shall sustain thee; he shall never suffer the righteous to be moved.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 23, 'But thou, O God, shalt bring them down into the pit of the grave; bloody and deceitful men shall not live out half their days, but I will trust in thee.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 1, '<<To the Overcomer upon: The silent dove in a distant land, Michtam of David, when the Philistines took him in Gath.>> Be merciful unto me, O God, for man would swallow me up; he oppresses me fighting me daily.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 1, '> Be merciful unto me, O God, for man would swallow me up; he oppresses me fighting me daily.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 2, 'My enemies would daily swallow [me] up, for [they are] many that fight against me, O thou most High.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 3, 'When I am afraid, I will trust in thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 4, 'In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.');
@@ -14870,7 +14869,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 11, 'In God I have put my trust; I will not be afraid [of] what man can do unto me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 12, 'Thy promises [are] upon me, O God; I will render praises unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 13, 'For [thou hast] delivered my life from death; thou hast kept my feet from falling, that I may walk before God in the light of the living.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 1, '<<To the Overcomer [upon], Do not destroy, Michtam of David, when he fled from the presence of Saul in the cave.>> Be merciful unto me, O God, be merciful unto me: for my soul trusts in thee; and in the shadow of thy wings I will make my refuge until [these] calamities are overpast.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 1, '> Be merciful unto me, O God, be merciful unto me: for my soul trusts in thee; and in the shadow of thy wings I will make my refuge until [these] calamities are overpast.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 2, 'I will cry unto God most high, unto God that performs [all things] for me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 3, 'He shall send from the heavens and save me [from] the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 4, 'My soul [is] among lions, [and] I lie [even among] those that are set on fire, [even] the sons of men, whose teeth [are] spears and arrows and their tongue a sharp sword.');
@@ -14881,7 +14880,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 9, 'I will praise thee, O Lord, among the peoples; I will sing unto thee among the nations.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 10, 'For thy mercy [is] great unto the heavens, and thy truth unto the clouds.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 57, 11, 'Be thou exalted, O God, above the heavens; [let] thy glory [be] above all the earth.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 1, '<<To the Overcomer [upon], Do not destroy, Michtam of David.>> Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of Adam?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 1, '> Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of Adam?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 2, 'Yea, in heart ye work iniquity; ye weigh the violence of your hands in the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 3, 'The wicked are estranged from the womb; they go astray as soon as they are born, speaking lies.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 4, 'Their poison [is] like the poison of a serpent; [they are] like the deaf adder [that] stops her ear,');
@@ -14892,7 +14891,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 9, 'Before your pots can feel the [fire of the] thorns, he shall take them away as with a whirlwind, both living, and in [his] wrath.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 10, 'The righteous shall rejoice when he sees the vengeance; he shall wash his feet in the blood of the wicked.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 58, 11, 'So that a man shall say, Verily [there is] a reward for the righteous; verily there is a God that judges in the earth.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 1, '<<To the Overcomer [upon], Do not destroy, Michtam of David; when Saul sent, and they watched the house to kill him.>> Deliver me from my enemies, O my God; defend me from those that rise up against me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 1, '> Deliver me from my enemies, O my God; defend me from those that rise up against me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 2, 'Deliver me from the workers of iniquity and save me from bloodthirsty men.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 3, 'For, behold, they lie in wait for my soul; the strong are gathered against me; I [am] not in rebellion, nor [in] sin, O LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 4, 'They run and prepare themselves when [I] have committed no iniquity; awake to help me and behold.');
@@ -14909,7 +14908,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 15, 'Let them wander up and down for food and murmur if they are not satisfied.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 16, 'But I will sing of thy power; I will sing aloud of thy mercy in the morning, for thou hast been my defence and refuge in the day of my trouble.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 17, 'Unto thee, O my strength, will I sing, for God [is] my defence [and] the God of my mercy.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 1, '<<To the Overcomer upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned and smote of Edom in the valley of salt twelve thousand.>> O God, thou hast cast us off, thou hast scattered us; thou hast been displeased; O turn thyself to us again.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 1, '> O God, thou hast cast us off, thou hast scattered us; thou hast been displeased; O turn thyself to us again.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 2, 'Thou hast made the earth to tremble; thou hast broken it; heal its breaches, for it shakes.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 3, 'Thou hast showed thy people hard things; thou hast made us to drink the wine of shaking.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 4, 'Thou hast given a banner to those that fear thee that they raise up for the truth. Selah.');
@@ -14921,7 +14920,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 10, 'Surely thou, O God, [who] had cast us off; and [thou], O God, [who] did not go out with our armies.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 11, 'Give us help from trouble, for vain [is] the salvation of man.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 12, 'Through God we shall do valiantly, for he [it is that] shall tread down our enemies.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 1, '<<To the Overcomer upon Neginah, [A Psalm] of David.>> Hear my cry, O God; attend unto my prayer.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 1, '> Hear my cry, O God; attend unto my prayer.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 2, 'From the end of the earth I will cry unto thee when my heart is overwhelmed; lead me to the rock [that] is higher than I.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 3, 'For thou hast been a shelter for me [and] a strong tower from the enemy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 4, 'I will abide in thy tabernacle for ever; I will trust in the covert of thy wings. Selah.');
@@ -14929,7 +14928,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 6, 'Thou wilt add days upon days unto the king\'s [life]; his years [shall be] from generation to generation.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 7, 'He shall abide before God for ever; He is aware of mercy and truth [which] preserve him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 61, 8, 'So I will sing thy name for ever, performing my vows each day.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 1, '<<To the Overcomer, to Jeduthun, A Psalm of David.>> Only in God does my soul rest; from him [comes] my saving health.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 1, '> Only in God does my soul rest; from him [comes] my saving health.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 2, 'He only [is] my rock and my saving health; [he is] my defence; I shall not be greatly moved.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 3, 'How long will ye imagine mischief against a man? Shall ye murder each other [until ye are] as a bowing wall [and as] a tottering fence?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 4, 'They only consult to cast [him] down from his greatness; they delight in lies; they bless with their mouth, but they curse in their inward parts. Selah.');
@@ -14941,7 +14940,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 10, 'Trust not in violence and become not vain in the taking of spoil; if riches increase, set not your heart [upon them].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 11, 'God has spoken once; twice have I heard this that power [belongs] unto God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 62, 12, 'Also unto thee, O Lord, [belongs] mercy, for thou renderest to every man according to his work.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 1, '<> O God, thou [art] my God; early will I seek thee; my soul thirsts for thee; my flesh longs for thee in a dry and thirsty land where [there] is no water;');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 1, '> O God, thou [art] my God; early will I seek thee; my soul thirsts for thee; my flesh longs for thee in a dry and thirsty land where [there] is no water;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 2, 'in this manner I beheld thee in holiness when I beheld thy power and thy glory.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 3, 'Because thy mercy [is] better than life, my lips shall praise thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 4, 'Thus will I bless thee in my life; in thy name shall I lift up my hands.');
@@ -14952,7 +14951,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 9, 'But those [that] sought my soul, to destroy [it], descended into the lower parts of the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 10, 'They shall be slain by the sword; they shall be a portion for foxes.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 63, 11, 'But the king shall rejoice in God; every one that swears by him shall be praised; for the mouth of those that speak lies shall be stopped.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 1, '<<To the Overcomer, A Psalm of David.>> Hear my voice, O God, in my prayer; preserve my life from fear of the enemy.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 1, '> Hear my voice, O God, in my prayer; preserve my life from fear of the enemy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 2, 'Hide me from the secret [counsel] of the wicked, from the insurrection of the workers of iniquity:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 3, 'Who whet their tongue like a sword [and] bend [their bows to shoot] their arrows, [even] bitter words');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 4, 'That they may shoot in secret at the perfect; suddenly do they shoot at him and fear not.');
@@ -14962,7 +14961,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 8, 'So they shall make their own council and agreements to fall upon themselves; all that see them shall flee away.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 9, 'And all men shall fear and shall declare the work of God, for they shall understand his doing.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 64, 10, 'The righteous shall be glad in the LORD and shall become secure in him, and all the upright in heart shall glory [in him].:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 1, '<<To the Overcomer, A Psalm [and] Song of David.>> Praise doth rest in thee, O God, in Sion and unto thee shall the vow be performed.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 1, '> Praise doth rest in thee, O God, in Sion and unto thee shall the vow be performed.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 2, 'O thou that hearest prayer, unto thee shall all flesh come.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 3, 'Words of iniquity overwhelmed me, [but] thou shalt purge away our rebellion.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 4, 'Blessed [is the man whom] thou dost choose and cause to approach [unto thee] [that] he may dwell in thy courts: we shall be satisfied with the goodness of thy house [even] of thy holy temple.');
@@ -14975,7 +14974,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 11, 'Thou dost crown the year with thy goodness, and thy clouds distill fatness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 12, 'They fall [upon] the habitations of the wilderness; and the hills gird themselves with happiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 65, 13, 'The plains clothe themselves with sheep, and the valleys cover themselves with grain; they give shouts of triumph, they even sing.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 1, '<<To the Overcomer, A Song [or] Psalm.>> Make a joyful noise unto God, all the earth;');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 1, '> Make a joyful noise unto God, all the earth;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 2, 'sing forth the glory of his name; put glory [into] thy praise.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 3, 'Say unto God, How terrible [art thou in] thy works! Through the greatness of thy power shall thine enemies submit themselves unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 4, 'All the earth shall worship thee and shall sing unto thee; they shall sing [to] thy name. Selah.');
@@ -14995,14 +14994,14 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 18, 'If I regard iniquity in my heart, the Lord will not hear [me]:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 19, '[But] verily God has heard [me]; he has attended to the voice of my prayer.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 66, 20, 'Blessed [be] God, who has not turned away my prayer nor his mercy from me.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 1, '<<To the Overcomer on Neginoth, A Psalm [or] Song.>> God be merciful unto us and bless us [and] cause his face to shine upon us. Selah.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 1, '> God be merciful unto us and bless us [and] cause his face to shine upon us. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 2, 'That thy way may be known upon the earth, thy saving health among all the Gentiles.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 3, 'Let the peoples praise thee, O God; let all the peoples praise thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 4, 'O let the Gentiles be glad and sing for joy, for thou shalt judge the people righteously and shepherd the Gentiles upon the earth. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 5, 'Let the peoples praise thee, O God; let all the peoples praise thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 6, '[Then] shall the earth bring forth her fruit, [and] God, [even] our own God, shall bless us.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 67, 7, 'God shall bless us, and all the ends of the earth shall fear him.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 1, '<<To the Overcomer, A Psalm [or] Song of David.>> Let God arise, let his enemies be scattered; let those that hate him flee before him.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 1, '> Let God arise, let his enemies be scattered; let those that hate him flee before him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 2, 'As smoke is driven away; [so] drive [them] away: as wax melts before the fire, [so] shall the wicked perish at the presence of God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 3, 'But the righteous shall be glad; they shall rejoice before God; they shall dance with joy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 4, 'Sing unto God, sing psalms unto his name; extol him that rides upon the heavens by his name JAH and rejoice before him.');
@@ -15037,7 +15036,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 33, 'To him that rides upon the heavens of the heavens [which were] of old; behold, he shall send forth his voice, [his] mighty voice.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 34, 'Ascribe ye strength unto God; his excellency [is] over Israel, and his strength [is] in the clouds.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 68, 35, 'O God, [thou art] terrible out of thy sanctuaries; the God of Israel [is] he that gives strength and power unto [his] people. Blessed [be] God.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 1, '<<To the Overcomer upon Shoshannim ([lilies]), [A Psalm] of David.>> Save me, O God; for the waters are come in unto [my] soul.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 1, '> Save me, O God; for the waters are come in unto [my] soul.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 2, 'I sink in deep mire where [there is] no standing; I am come into deep waters, where the floods overflow me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 3, 'I am weary of my crying; my throat is dried; my eyes fail while I wait for my God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 4, 'Those that hate me without a cause are more than the hairs of my head; those that would destroy me, [being] my enemies wrongfully, are mighty; then I restored [that] which I did not take away.');
@@ -15073,7 +15072,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 34, 'Let the heavens and the earth praise him, the seas, and every thing that moves in them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 35, 'For God will protect Zion and will rebuild the cities of Judah; they shall dwell there and inherit it.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 69, 36, 'The seed of his servants shall inherit it, and those that love his name shall dwell therein.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 70, 1, '<<To the Overcomer, [A Psalm] of David, to bring to remembrance.>> [Make haste], O God, to deliver me; make haste to help me, O LORD.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 70, 1, '> [Make haste], O God, to deliver me; make haste to help me, O LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 70, 2, 'Let them be ashamed and confounded that seek after my life; let them be turned backward and put to confusion that desire my hurt.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 70, 3, 'Let them be turned back for a reward of their shame that say, Aha, aha.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 70, 4, 'Let all those that seek thee rejoice and be glad in thee, and let such as love thy saving health say continually, Let God be magnified.');
@@ -15102,7 +15101,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 71, 22, 'I will also praise thee with [an] instrument of the psaltery, O my God; unto thee will I sing thy truth with the harp, O thou Holy One of Israel.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 71, 23, 'My lips shall greatly rejoice when I sing praises unto thee and my soul, which thou hast ransomed.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 71, 24, 'In the same manner my tongue shall talk of thy righteousness every day, for they are confounded, for they are brought unto shame, that seek my hurt.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 1, '<<[A Psalm] for Solomon.>> Give the king thy judgments, O God, and thy righteousness unto the king\'s son.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 1, '> Give the king thy judgments, O God, and thy righteousness unto the king\'s son.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 2, 'He shall judge thy people with righteousness and thy poor with judgment.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 3, 'The mountains shall bring peace to the people and the little hills by righteousness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 4, 'He shall judge the poor of the people; he shall save the children of the destitute and shall break in pieces the violent.');
@@ -15122,7 +15121,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 18, 'Blessed [be] the LORD God, the God of Israel, [the] only one [who] does wondrous things');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 19, 'And blessed [be] his glorious name for ever, and let the whole earth be filled [with] his glory; Amen, and Amen.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 72, 20, 'The prayers of David the son of Jesse are ended. Part Three:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 1, '<> Truly God [is] good to Israel, [even] to such as are pure in heart.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 1, '> Truly God [is] good to Israel, [even] to such as are pure in heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 2, 'But as for me, my feet almost departed [from the way]; my steps had almost slipped.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 3, 'For I became angry against the foolish [when] I saw the peace of the wicked.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 4, 'Because [there is] no restraint that would bring about their death, but their strength [is] firm.');
@@ -15150,7 +15149,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 26, 'My flesh and my heart fail; the strength of my heart [is] that God is my portion for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 27, 'For, behold, those that stray from thee shall perish; thou dost cut off all those that go a whoring from thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 73, 28, 'But [as for me], to draw near to God is good; I have put my hope in the Lord GOD, that I may declare all thy works.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 1, '<<Maschil of Asaph.>> O God, why hast thou cast [us] off for ever? [Why] does thine anger smoke against the sheep of thy pasture?');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 1, '> O God, why hast thou cast [us] off for ever? [Why] does thine anger smoke against the sheep of thy pasture?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 2, 'Remember thy congregation, [which] thou hast purchased of old; the rod of thine inheritance, [which] thou hast redeemed, this mount Zion, in which thou hast dwelt.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 3, 'Lift up thy feet unto the eternal desolations, unto every enemy who has done wickedly in the sanctuary.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 4, 'Thine enemies have roared in the midst of thy assemblies; they set up their [own] banners [for] signs.');
@@ -15173,7 +15172,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 21, 'O let not the oppressed return ashamed; the poor and destitute shall praise thy name.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 22, 'Arise, O God, plead thine own cause; remember how the foolish man reproaches thee daily.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 74, 23, 'Forget not the voices of thine enemies; the tumult of those that rise up against thee increases continually.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 1, '<<To the Overcomer upon, Do not destroy, A Psalm [or] Song of Asaph.>> Unto thee, O God, do we give thanks, [unto thee] do we give thanks, for [that] thy name is near, thy wondrous works declare.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 1, '> Unto thee, O God, do we give thanks, [unto thee] do we give thanks, for [that] thy name is near, thy wondrous works declare.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 2, 'When I shall receive the congregation, I will judge uprightly.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 3, 'The earth and all its inhabitants are dissolved; I bore up the pillars of it. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 4, 'I said unto the fools, Do not deal foolishly and to the wicked, Do not lift up the horn:');
@@ -15183,7 +15182,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 8, 'For the cup is in the hand of the LORD, and the wine is red; it is full of mixture; and he pours out of the same; yea, the dregs thereof, shall wring out and swallow up all the wicked of the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 9, 'But I will declare for ever; I will sing praises to the God of Jacob.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 75, 10, 'And I will cut off all the horns of the wicked, [but] the horns of the righteous shall be exalted.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 1, '<<To the Overcomer on Neginoth, A Psalm [or] Song of Asaph.>> In Judah [is] God known; his name [is] great in Israel.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 1, '> In Judah [is] God known; his name [is] great in Israel.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 2, 'In Salem also is his tabernacle and his dwelling place in Zion.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 3, 'There he broke the arrows of the bow, the shield, and the sword, and the war. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 4, 'Thou [art] more glorious [and] excellent than the mountains of prey.');
@@ -15195,7 +15194,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 10, 'Surely the wrath of man shall cause praise to come unto thee; the remainder of wrath shalt thou restrain.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 11, 'Vow and pay unto the LORD your God; let all that be round about him bring presents unto him that ought to be feared.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 76, 12, 'He shall cut off the spirit of princes; [he is] terrible to the kings of the earth.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 1, '<<To the Overcomer, to Jeduthun, A Psalm of Asaph.>> I cried unto God with my voice, [even] unto God with my voice; and [he] gave ear unto me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 1, '> I cried unto God with my voice, [even] unto God with my voice; and [he] gave ear unto me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 2, 'In the day of my trouble I sought the Lord; my sore bled in the night and ceased not; my soul refused to be comforted.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 3, 'I remembered God and cried out; I complained, and my spirit was overwhelmed. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 4, 'Thou didst hold my eyelids open; I am broken and did not speak.');
@@ -15215,7 +15214,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 18, 'The voice of thy thunder [was] all around; the lightnings lightened the world; the earth trembled and shook.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 19, 'Thy way [was] in the sea, and thy path in the great waters, and thy footsteps were not known.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 77, 20, 'Thou didst lead thy people like a flock by the hand of Moses and Aaron.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 1, '<<Maschil of Asaph.>> Give ear, O my people, [to] my law: incline your ears to the words of my mouth.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 1, '> Give ear, O my people, [to] my law: incline your ears to the words of my mouth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 2, 'I will open my mouth in a parable; I will utter enigmas of old,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 3, 'which we have heard and known, and our fathers have told us.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 4, 'We will not hide [them] from their sons, showing to the generation to come the praises of the LORD and his strength and his wonderful works that he has done.');
@@ -15287,7 +15286,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 70, 'He chose David also his servant and took him from the sheepfolds,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 71, 'from following the ewes great with young, he brought him to feed Jacob his people and Israel his inheritance.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 78, 72, 'So he fed them out of the integrity of his heart and guided them by the intelligence of his hands.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 1, '<> O God, the Gentiles are come into thine inheritance; they have defiled the temple of thy holiness; they have laid Jerusalem on heaps.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 1, '> O God, the Gentiles are come into thine inheritance; they have defiled the temple of thy holiness; they have laid Jerusalem on heaps.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 2, 'The dead bodies of thy servants they have given [to be] food unto the fowls of the heavens, the flesh of thy saints unto the beasts of the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 3, 'They have shed their blood like water round about Jerusalem, and [there was] no one to bury [them].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 4, 'We are reproached by our neighbours, scorned, and derided by those that are round about us.');
@@ -15300,7 +15299,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 11, 'Let the sighing of the prisoners come before thee; according to the greatness of thy power preserve those that are appointed to die');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 12, 'and render unto our neighbours sevenfold into their bosom their reproach, with which they have reproached thee, O Lord.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 79, 13, 'So we thy people and sheep of thy pasture will give thee thanks for ever: from generation to generation we will sing thy praises.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 1, '<<To the Overcomer upon Shoshannim, A testimony of Asaph: A Psalm.>> Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubim, shine forth.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 1, '> Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubim, shine forth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 2, 'In the presence of Ephraim and Benjamin and Manasseh stir up thy strength and come [and] save us.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 3, 'Turn us again, O God, and cause thy face to shine; and we shall be saved.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 4, 'O LORD God of the hosts, how long wilt thou be angry against the prayer of thy people?');
@@ -15319,7 +15318,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 17, 'Let thy hand be upon the man of thy right hand, upon the son of man [whom] thou didst make strong for thyself,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 18, 'so we will not go back from thee. Thou shalt quicken us, and we will call upon thy name.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 80, 19, 'Turn us again, O LORD God of the hosts, cause thy face to shine; and we shall be saved.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 1, '<<To the Overcomer upon Gittith, [A Psalm] of Asaph.>> Sing aloud unto God our strength; make a joyful noise unto the God of Jacob.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 1, '> Sing aloud unto God our strength; make a joyful noise unto the God of Jacob.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 2, 'Take the song and play the timbrel, the harp of joy with the psaltery.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 3, 'Blow the shofar in the new moon in the time appointed on our solemn feast day.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 4, 'For this [is] a statute of Israel [and] an ordinance of the God of Jacob.');
@@ -15335,7 +15334,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 14, 'I would soon subdue their enemies and turn my hand against their adversaries.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 15, 'The haters of the LORD would have submitted themselves unto him, and their time would endure for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 81, 16, 'And [God] would have fed them also the finest of the wheat, and with honey out of the rock I would have satisfied thee.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 1, '<> God stands in the congregation of the mighty; he judges among the gods.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 1, '> God stands in the congregation of the mighty; he judges among the gods.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 2, 'How long will ye judge unjustly and accept the persons of the wicked? Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 3, 'Do right concerning the poor and fatherless; do justice to the poor and destitute.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 4, 'Deliver the poor and destitute; deliver [them] out of the hand of the wicked.');
@@ -15343,7 +15342,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 6, 'I have said, Ye [are] gods; and all of you [are] sons of the most High.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 7, 'But ye shall die like men and fall like one of the tyrants.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 82, 8, 'Arise, O God, judge the earth, for thou shalt inherit all the Gentiles.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 1, '<> Do not keep silence, O God; do not hold thy peace, and do not be still, O God.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 1, '> Do not keep silence, O God; do not hold thy peace, and do not be still, O God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 2, 'For, behold, thine enemies make a tumult, and those that hate thee have lifted up their head.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 3, 'They have taken prudent counsel in secret against thy people and consulted against thy hidden ones.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 4, 'They have said, Come and let us cut them off from [being] a people that the name of Israel may be no more in remembrance.');
@@ -15361,7 +15360,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 16, 'Fill their faces with shame that they may seek thy name, O LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 17, 'Let them be confounded and troubled for ever; let them be put to shame and perish');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 83, 18, 'That they may know that thou, whose name alone [is] LORD, [art] the most high over all the earth.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 1, '<<To the Overcomer upon Gittith, A Psalm for the sons of Korah.>> How amiable [are] thy habitations, O LORD of the hosts!');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 1, '> How amiable [are] thy habitations, O LORD of the hosts!');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 2, 'My soul longs, and even faints for the courts of the LORD; my heart and my flesh sing to the living God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 3, 'Even the sparrow has found a house and the swallow a nest for herself, where she may lay her young upon thine altars, O LORD of the hosts, my King and my God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 4, 'Happy [are] those that dwell in thy house; they shall continually praise thee. Selah.');
@@ -15373,7 +15372,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 10, 'for a day in thy courts [is] better than a thousand [outside of them]. I would rather be a doorkeeper in the house of my God than to dwell in the tents of wickedness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 11, 'For the LORD God [is] a sun and shield [unto us]; the LORD will give grace and glory; he will not withhold good from those that walk uprightly.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 84, 12, 'O LORD of the hosts, happy [is] the man that trusts in thee.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 1, '<<To the Overcomer, A Psalm for the sons of Korah.>> LORD, thou hast been favourable unto thy land; thou hast brought back the captivity of Jacob.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 1, '> LORD, thou hast been favourable unto thy land; thou hast brought back the captivity of Jacob.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 2, 'Thou hast forgiven the iniquity of thy people; thou hast covered all their sin. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 3, 'Thou hast taken away all thy wrath; thou hast turned [thyself] from the fierceness of thine anger.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 4, 'Turn us, O God our saving health and cause thine anger toward us to cease.');
@@ -15386,7 +15385,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 11, 'Truth shall spring out of the earth, and righteousness shall look down from the heavens.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 12, 'The LORD shall give [that which is] good, and our land shall bring forth her fruit.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 85, 13, 'Righteousness shall go before him and shall set his steps in the way.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 1, '<> Bow down thine ear, O LORD, hear me, for I [am] poor and needy.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 1, '> Bow down thine ear, O LORD, hear me, for I [am] poor and needy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 2, 'Preserve my soul; for I [am] merciful, O thou my God, save thy servant that trusts in thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 3, 'Be merciful unto me, O Lord, for I cry unto thee daily.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 4, 'Rejoice the soul of thy servant, for unto thee, O Lord, do I lift up my soul.');
@@ -15403,14 +15402,14 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 15, 'But thou, O Lord, [art] a merciful and gracious God, longsuffering and plenteous in mercy and truth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 16, 'O look into me and have mercy upon me; give thy strength unto thy servant and keep the son of thine handmaid.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 86, 17, 'Show me a token for good that those who hate me may see [it] and be ashamed because thou, O LORD, hast helped me and comforted me.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 1, '<> His foundation [is] in mountains of holiness.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 1, '> His foundation [is] in mountains of holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 2, 'The LORD loves the gates of Zion more than all the dwellings of Jacob.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 3, 'Glorious things are spoken of thee, O city of God. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 4, 'I will make mention of Rahab and Babylon to those that know me; behold Philistia, and Tyre, with Ethiopia; this [one] was born there.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 5, 'And of Zion it shall be said, This and that man were born in her; and the highest himself shall establish her.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 6, 'The LORD shall count when he writes up the peoples that this [one] was born there. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 87, 7, 'And singers and players on instruments [in her shall say]: all my springs [are] in thee.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 1, '<> O LORD God of my saving health, I cry day [and] night before Thee;');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 1, '> O LORD God of my saving health, I cry day [and] night before Thee;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 2, 'let my prayer come before thee; incline thine ear unto my cry;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 3, 'for my soul is full of troubles, and my life draws near unto Sheol.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 4, 'I am counted with those that go down into the pit; I am as a man [that has] no strength:');
@@ -15428,7 +15427,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 16, 'Thy fierce wrath goes over me; thy terrors have cut me off.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 17, 'They came round about me daily like water; they compassed me about together.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 88, 18, 'Thou hast put lover and friend far from me, [and placed] my acquaintances into darkness.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 1, '<<Maschil of Ethan the Ezrahite.>> I will sing of the mercies of the LORD for ever; with my mouth will I make known thy faithfulness to all generations.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 1, '> I will sing of the mercies of the LORD for ever; with my mouth will I make known thy faithfulness to all generations.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 2, 'For I have said, Mercy shall be built up for ever in the heavens; in them thou shalt establish thy truth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 3, 'I have made a covenant with my chosen; I have sworn unto David my servant, [saying],');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 4, 'Thy seed will I establish for ever and build up thy throne to all generations. Selah.');
@@ -15480,7 +15479,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 50, 'Remember, Lord, the reproach of thy servants; [how] I do bear in my bosom [the reproach of] many peoples,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 51, 'because thine enemies have dishonoured, O LORD; they have dishonoured the footsteps of thine anointed.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 89, 52, 'Blessed [be] the LORD for ever. Amen and Amen. Part Four:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 90, 1, '<> Lord, thou hast been our refuge from generation to generation.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 90, 1, '> Lord, thou hast been our refuge from generation to generation.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 90, 2, 'Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou [art] God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 90, 3, 'Thou dost turn unto man until he is broken and thou saith, Become converted, ye sons of Adam.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 90, 4, 'For a thousand years in thy sight are but as yesterday when it is past and as a watch in the night.');
@@ -15513,7 +15512,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 91, 14, 'Because he has set his will upon me, therefore I will deliver him; I will set him on high because he has known my name.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 91, 15, 'He shall call upon me, and I will answer him; I [will be] with him in trouble; I will deliver him and glorify him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 91, 16, 'With long life I will satisfy him and show him my saving health.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 92, 1, '<> [It is a] good [thing] to give thanks unto the LORD and to sing praises unto thy name, O most High:');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 92, 1, '> [It is a] good [thing] to give thanks unto the LORD and to sing praises unto thy name, O most High:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 92, 2, 'To show forth thy mercy in the morning and thy faithfulness every night');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 92, 3, 'upon an instrument of ten strings and upon the psaltery, upon the harp with a pleasant sound.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 92, 4, 'For thou, O LORD, hast made me glad with thy work; I will delight in the works of thy hands.');
@@ -15592,7 +15591,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 97, 10, 'Ye that love the LORD [are to] hate evil; he preserves the souls of his saints; he delivers them out of the hand of the wicked.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 97, 11, 'Light is sown for the righteous and gladness for the upright in heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 97, 12, 'Rejoice in the LORD, ye righteous, and give thanks at the remembrance of his holiness.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 98, 1, '<> O sing unto the LORD a new song; for he has done marvellous things; his right hand has gotten him the victory, even the arm of his holiness.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 98, 1, '> O sing unto the LORD a new song; for he has done marvellous things; his right hand has gotten him the victory, even the arm of his holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 98, 2, 'The LORD has made known his saving health; he has openly showed his righteousness in the sight of the Gentiles.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 98, 3, 'He has remembered his mercy and his truth toward the house of Israel; all the ends of the earth have seen the saving health of our God.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 98, 4, 'Sing with joy unto the LORD, all the earth; lift up thy voice and rejoice and sing praises.');
@@ -15610,12 +15609,12 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 99, 7, 'He spoke unto them in the pillar of fire; they kept his testimonies and the order [that] he gave them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 99, 8, 'Thou didst answer them, O LORD our God; thou wast a God that didst forgive them, and [an] avenger for their works.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 99, 9, 'Exalt the LORD our God and worship at the mountain of his holiness, for the LORD our God is holy.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 100, 1, '<> Make a joyful noise unto the LORD all the earth.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 100, 1, '> Make a joyful noise unto the LORD all the earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 100, 2, 'Serve the LORD with gladness; come before his presence with joy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 100, 3, 'Know ye that the LORD he [is] God; [it is] he [that] has made us and not we ourselves; [we are] his people and the sheep of his pasture.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 100, 4, 'Enter into his gates with thanksgiving [and] into his courts with praise; be thankful unto him [and] bless his name.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 100, 5, 'For the LORD [is] good; his mercy [is] everlasting; and his truth [endures] to all generations.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 1, '<> I will sing of mercy and judgment; unto thee, O LORD, will I sing.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 1, '> I will sing of mercy and judgment; unto thee, O LORD, will I sing.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 2, 'When thou shalt come unto me, I will walk in the way of perfection and understand. I will walk in the midst of my house in the perfection of my heart.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 3, 'I will set nothing of Belial before my eyes: I hate the work of those that betray; [it] shall not cleave to me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 4, 'A perverse heart shall depart from me; I will not know a wicked [person].');
@@ -15623,7 +15622,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 6, 'My eyes [shall be] upon the faithful of the land, that they may dwell with me; he that walks in the way of perfection, he shall serve me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 7, 'He that works deceit shall not dwell within my house; he that tells lies shall not tarry in my sight.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 101, 8, 'I will early destroy all the wicked of the land, that I may cut off all the workers of iniquity from the city of the LORD.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 1, '<> Hear my prayer, O LORD, and let my cry come unto thee.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 1, '> Hear my prayer, O LORD, and let my cry come unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 2, 'Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me; in the day [when] I call, answer me speedily.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 3, 'For my days are consumed like smoke, and my bones are burned as [in] a hearth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 4, 'My heart is smitten and withered like grass so that I forget to eat my bread.');
@@ -15651,7 +15650,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 26, 'They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture thou shalt change them, and they shall be changed:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 27, 'But thou [art] the same, and thy years shall have no end.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 102, 28, 'The sons of thy servants shall continue, and their seed shall be established before thee.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 103, 1, '<<[A Psalm] of David.>> Bless the LORD, O my soul, and all that is within me, [bless] the name of his holiness.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 103, 1, '> Bless the LORD, O my soul, and all that is within me, [bless] the name of his holiness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 103, 2, 'Bless the LORD, O my soul, and forget not all his benefits:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 103, 3, 'Who forgives all thine iniquities; who heals all thy diseases;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 103, 4, 'who redeems thy life from destruction; who crowns thee with mercy and compassion;');
@@ -15844,7 +15843,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 107, 41, 'Yet he sets the poor on high from affliction and makes [his] families like a flock.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 107, 42, 'The righteous shall see [it] and rejoice, and all iniquity shall stop her mouth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 107, 43, 'Who [is] wise and will observe these [things] and shall understand the mercies of the LORD?:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 1, '<> O God, my heart is fixed; I will sing and give praise; this is my glory.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 1, '> O God, my heart is fixed; I will sing and give praise; this is my glory.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 2, 'Awake, psaltery and harp; I will awake the dawn.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 3, 'I will praise thee, O LORD, among the peoples, and I will sing praises unto thee among the nations.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 4, 'For thy mercy [is] great above the heavens, and thy truth [reaches] unto the heavens.');
@@ -15857,7 +15856,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 11, 'Surely thou, O God, [who] had cast us off and did not, O God, go forth with our hosts.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 12, 'Give us help from trouble; for the salvation of man is deception.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 108, 13, 'Through God we shall do valiantly, for he shall tread down our enemies [again].:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 1, '<<To the Overcomer, A Psalm of David.>> Do not hold thy peace, O God of my praise;');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 1, '> Do not hold thy peace, O God of my praise;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 2, 'for the mouth of the wicked and the mouth of the deceitful are opened against me; they have spoken of me with a lying tongue.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 3, 'They compassed me about with words of hatred and fought against me without a cause.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 4, 'They have [responded] to my love by becoming my adversaries, but I [give myself unto] prayer.');
@@ -15888,7 +15887,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 29, 'Let those who speak evil against me falsely be clothed with shame, and let them cover themselves with their own confusion as with a mantle.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 30, 'I will greatly praise the LORD with my mouth; [yea], I will praise him among the multitude.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 109, 31, 'For he shall stand at the right hand of the poor [in spirit] to save his soul from those that judge him.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 110, 1, '<> The LORD said unto my Lord, Sit thou at my right hand until I make thine enemies thy footstool.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 110, 1, '> The LORD said unto my Lord, Sit thou at my right hand until I make thine enemies thy footstool.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 110, 2, 'The LORD shall send the rod of thy strength out of Zion; rule thou in the midst of thine enemies.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 110, 3, 'Thy people [shall be] willing in the day of thy power, in the beauty of holiness; [as] the dew [which falls] from the womb of the morning, thus shall those who are thine be born unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 110, 4, 'The LORD has sworn and will not repent, Thou [art] a priest for ever after the order of Melchizedek.');
@@ -16176,14 +16175,14 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 119, 174, 'I have longed for thy saving health, O LORD, and thy law [is] my delight.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 119, 175, 'Let my soul live, and it shall praise thee, and let thy judgments help me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 119, 176, 'I have gone astray like a lost sheep; seek thy servant; for I have not forgotten thy commandments.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 1, '<> In my distress I cried unto the LORD, and he answered me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 1, '> In my distress I cried unto the LORD, and he answered me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 2, 'Deliver my soul, O LORD, from lying lips [and] from a deceitful tongue.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 3, 'What shall be given unto thee? or what shall be done unto thee, thou false tongue?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 4, 'Sharp arrows of the mighty, with coals of juniper.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 5, 'Woe is me, that I sojourn in Mesech, [that] I dwell in the tents of Kedar!');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 6, 'My soul has long dwelt with those that hate peace.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 120, 7, 'I [am for] peace; but when I speak, they [are] for war.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 1, '<> I will lift up mine eyes unto the mountains, from whence cometh my help.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 1, '> I will lift up mine eyes unto the mountains, from whence cometh my help.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 2, 'My help [comes] from the LORD, who made the heavens and earth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 3, 'He will not suffer thy foot to be moved; he that keeps thee will not slumber.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 4, 'Behold, he that keeps Israel shall neither slumber nor sleep.');
@@ -16191,7 +16190,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 6, 'The sun shall not smite thee by day, nor the moon by night.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 7, 'The LORD shall preserve thee from all evil; he shall preserve thy soul.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 121, 8, 'The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 1, '<> I was glad when they said unto me, Let us go into the house of the LORD.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 1, '> I was glad when they said unto me, Let us go into the house of the LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 2, 'Our feet stood within thy gates, O Jerusalem.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 3, 'Jerusalem, that one which is built as a city that is well united together');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 4, 'Because the tribes went up there, the tribes of JAH, the testimony to Israel, to praise the name of the LORD.');
@@ -16200,11 +16199,11 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 7, 'Peace be within thy walls [and] rest within thy palaces.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 8, 'For my brethren and companions\' sakes, I will now say, Peace [be] within thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 122, 9, 'Because of the house of the LORD our God, I will seek thy good.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 123, 1, '<> Unto thee I lift up mine eyes, O thou that dwellest in the heavens.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 123, 1, '> Unto thee I lift up mine eyes, O thou that dwellest in the heavens.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 123, 2, 'Behold, as the eyes of servants [look] unto the hand of their masters [and] as the eyes of a maiden unto the hand of her mistress, so our eyes [wait] upon the LORD our God, until he shall have mercy upon us.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 123, 3, 'Have mercy upon us, O LORD, have mercy upon us, for we are exceedingly weary of [being held in] contempt.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 123, 4, 'Our soul is exceedingly weary of the scorning of those that are at ease [and] of the contempt of the proud.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 1, '<> If the LORD had not been for us, now may Israel say,');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 1, '> If the LORD had not been for us, now may Israel say,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 2, 'If the LORD had not been for us, when men rose up against us,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 3, 'then they would have swallowed us up alive, when their wrath was kindled against us;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 4, 'then the waters would have overwhelmed us; the flood would have gone over our soul;');
@@ -16212,29 +16211,29 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 6, 'Blessed [be] the LORD, who did not give us [as] a prey to their teeth.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 7, 'Our soul has escaped as a bird out of the snare of the fowlers; the snare has broken, and we are escaped.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 124, 8, 'Our help [is] in the name of the LORD, who made the heaven and the earth.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 125, 1, '<> Those that trust in the LORD [are] as mount Zion, [which] cannot be removed [but] abides for ever.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 125, 1, '> Those that trust in the LORD [are] as mount Zion, [which] cannot be removed [but] abides for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 125, 2, 'As the mountains [are] round about Jerusalem, so the LORD [is] round about his people from now on even for ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 125, 3, 'For the rod of wickedness shall not rest upon the lot of the righteous because the righteous shall not put forth their hands unto iniquity.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 125, 4, 'Do good, O LORD, unto [those that are] good and [to those that are] upright in their hearts.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 125, 5, 'As for such as turn aside unto their crooked ways, the LORD shall take them away with the workers of iniquity; [and] peace [shall be] upon Israel.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 1, '<> When the LORD shall turn again the captivity of Zion, we shall be like those that dream.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 1, '> When the LORD shall turn again the captivity of Zion, we shall be like those that dream.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 2, 'Then our mouth shall be filled with laughter and our tongue with singing; then they shall say among the Gentiles, The LORD has done great things with them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 3, 'The LORD has done great things with us, [of which] we shall be glad.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 4, 'Turn again our captivity, O LORD, as the streams in the south.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 5, 'Those that sow with tears shall reap with joy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 126, 6, 'He that goes forth and weeps, bearing the precious seed, shall doubtless come again with rejoicing, bringing his sheaves [with him].:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 127, 1, '<> Unless the LORD builds the house, they labour in vain that build it; unless the LORD keeps the city, the watchmen watch in vain.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 127, 1, '> Unless the LORD builds the house, they labour in vain that build it; unless the LORD keeps the city, the watchmen watch in vain.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 127, 2, '[It is] vain for you to rise up early, to come home late, to eat the bread of sorrows, because he shall give his beloved sleep.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 127, 3, 'Behold, sons [are] a heritage of the LORD, [and] the fruit of the womb [is] to be desired.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 127, 4, 'As arrows in the hand of a mighty man, so [are] the young men.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 127, 5, 'Happy [is] the man that has filled his quiver with them: he shall not be ashamed when he speaks with the enemies in the gate.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 1, '<> Blessed [is] every one that fears the LORD, that walks in his ways.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 1, '> Blessed [is] every one that fears the LORD, that walks in his ways.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 2, 'When thou shalt eat the labour of thine hands; happy [shalt] thou [be], and [it shall be] well with thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 3, 'Thy wife [shall be] as a fruitful vine by the sides of thy house; thy children like olive plants round about thy table.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 4, 'Behold, that thus shall the man be blessed that fears the LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 5, 'The LORD shall bless thee out of Zion, and thou shalt see the good of Jerusalem all the days of thy life.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 128, 6, 'Yea, thou shalt see thy children\'s children [and] peace upon Israel.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 1, '<> Many a time have they afflicted me from my youth, may Israel now say:');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 1, '> Many a time have they afflicted me from my youth, may Israel now say:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 2, 'Many a time have they afflicted me from my youth; yet they have not prevailed against me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 3, 'The plowers plowed upon my back; they made long their furrows.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 4, 'The LORD [is] righteous; he has cut asunder the cords of the wicked.');
@@ -16242,7 +16241,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 6, 'They shall be as the grass [upon] the housetops, which withers before it grows up,');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 7, 'with which the reaper does not fill his hand nor he that binds sheaves his bosom.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 129, 8, 'Neither did those who go by say, The blessing of the LORD [be] upon you; we bless you in the name of the LORD.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 1, '<> Out of the depths I cry unto thee, O LORD.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 1, '> Out of the depths I cry unto thee, O LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 2, 'Lord, hear my voice; let thine ears be attentive to the voice of my supplications.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 3, 'If thou, O LORD, should mark iniquities, O Lord, who shall endure?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 4, 'Therefore [there is] forgiveness close to thee, that thou may be feared.');
@@ -16250,7 +16249,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 6, 'My soul [has waited] for the Lord more than those that watch for the morning: [I say, more than] those that watch for the morning.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 7, 'Let Israel wait for the LORD; for with the LORD [there is] mercy and plenteous redemption close to him.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 130, 8, 'And he shall ransom Israel from all his sins.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 131, 1, '<> LORD, my heart has not become haughty, nor mine eyes lofty; neither have I walked in grandeur, nor in wonderful things [above and] beyond that which pertains to me.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 131, 1, '> LORD, my heart has not become haughty, nor mine eyes lofty; neither have I walked in grandeur, nor in wonderful things [above and] beyond that which pertains to me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 131, 2, 'Rather [I] have [quieted] myself and caused my soul to become silent, [that I might be] as a child that is weaned of his mother, as one who is weaned from my [own] life.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 131, 3, 'Let Israel wait for the LORD from now on and for ever.:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 132, 1, 'A Song of degrees. LORD, remember David [and] all his afflictions:');
@@ -16271,10 +16270,10 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 132, 16, 'I will also clothe her priests with saving health, and her merciful ones shall shout aloud for joy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 132, 17, 'There will I make the horn of David to bud; I have ordained a lamp for my anointed.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 132, 18, 'His enemies I will clothe with shame, but upon himself shall his crown blossom.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 133, 1, '<> Behold, how good and how pleasant [it is] for brethren to dwell together in unity!');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 133, 1, '> Behold, how good and how pleasant [it is] for brethren to dwell together in unity!');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 133, 2, '[It is] like the precious ointment upon the head, that runs down upon the beard, [even] Aaron\'s beard, that goes down to the skirts of his garments;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 133, 3, 'as the dew of Hermon, that descends upon the mountains of Zion; for there the LORD commands blessing and eternal life.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 134, 1, '<> Behold, bless ye the LORD, all [ye] servants of the LORD, who by night stand in the house of the LORD.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 134, 1, '> Behold, bless ye the LORD, all [ye] servants of the LORD, who by night stand in the house of the LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 134, 2, 'Lift up your hands [in] the sanctuary, and bless the LORD.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 134, 3, 'The LORD that made the heavens and the earth bless thee out of Zion.:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 135, 1, 'Halelu-JAH. Praise ye the name of the LORD; praise [him], O ye servants of the LORD.');
@@ -16333,7 +16332,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 137, 7, 'Remember, O LORD, the sons of Edom in the day of Jerusalem; who said, Rase [it], rase [it], [even] to the foundation thereof.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 137, 8, 'O daughter of Babylon, [who art to be] destroyed; happy [shall he be], that rewards thee as thou hast served us.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 137, 9, 'Happy [shall he be], that takes and dashes thy offspring against the stones.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 1, '<<[A Psalm] of David.>> I will praise thee with my whole heart: before the gods I will sing praises unto thee.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 1, '> I will praise thee with my whole heart: before the gods I will sing praises unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 2, 'I will worship the temple of thy holiness and praise thy name above thy mercy and thy truth; for thou hast made thy name [to be] magnificent [and raised up] thy [spoken] word above all things.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 3, 'In the day when I called, thou didst answer me [and] strengthen me [with] strength in my soul.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 4, 'All the kings of the earth shall praise thee, O LORD, when they hearken unto the [spoken] words from thy mouth.');
@@ -16341,7 +16340,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 6, 'For the LORD, [who is] high [and lifted up], looks upon the humble, but the proud he does not know.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 7, 'Though I walk in the midst of trouble, thou wilt revive me; thou shalt stretch forth thy hand against the wrath of my enemies, and thy right hand shall save me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 138, 8, 'The LORD will perfect [that which] concerns me; thy mercy, O LORD, [endures] for ever; forsake not the works of thine own hands.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 1, '<<To the Overcomer, A Psalm of David.>> O LORD, thou hast searched me and known [me].');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 1, '> O LORD, thou hast searched me and known [me].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 2, 'Thou knowest my sitting down and my rising up, thou dost understand my thoughts from afar.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 3, 'Thou hast girded my walk and my rest, and hast prepared all my ways.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 4, 'For the word [is] not even upon my tongue, [and], behold, O LORD, thou dost know it altogether.');
@@ -16365,7 +16364,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 22, 'I hate them with perfect hatred; I count them mine enemies.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 23, 'Search me, O God, and know my heart; try me and know my thoughts');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 139, 24, 'and see if [there be any] wicked way in me, and lead me in the way eternal.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 1, '<<To the Overcomer, A Psalm of David.>> Deliver me, O LORD, from the evil man; preserve me from the man of Violence.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 1, '> Deliver me, O LORD, from the evil man; preserve me from the man of Violence.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 2, 'Who devise evil in [their] heart; they are continually gathered together [for] war.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 3, 'They have sharpened their tongue like a serpent; adders\' poison [is] under their lips. Selah.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 4, 'Keep me, O LORD, from the hands of the wicked; preserve me from the man of violence, who have purposed to overthrow my steps.');
@@ -16378,7 +16377,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 11, 'The man [with an evil] tongue shall not be established in the earth; evil shall hunt the man of violence to overthrow [him].');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 12, 'I know that the LORD will effect the judgment of the poor [and] the judgment of the destitute.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 140, 13, 'Surely the righteous shall give thanks unto thy name; the upright shall dwell in thy presence.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 1, '<> LORD, I have called unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 1, '> LORD, I have called unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 2, 'Let my prayer be set forth before thee [as] incense, the gift of my hands [as] the evening sacrifice.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 3, 'Set a watch, O LORD, upon my mouth; keep the door of my lips.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 4, 'Incline not my heart to [any] evil thing, to do works with ungodliness with the men that work iniquity, and let me not eat of their dainties.');
@@ -16388,14 +16387,14 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 8, 'Therefore mine eyes [look] unto thee, O GOD the Lord; in thee is my trust; leave not my soul destitute.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 9, 'Keep me from the hands of the snare [which] they have laid for me, and from the snares of the workers of iniquity.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 141, 10, 'Let the wicked fall together into their own nets, whilst I pass on [ahead] forever.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 1, '<<Maschil of David; A Prayer when he was in the cave.>> I shall cry unto the LORD with my voice; with my voice shall I ask the LORD for mercy.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 1, '> I shall cry unto the LORD with my voice; with my voice shall I ask the LORD for mercy.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 2, 'I shall pour out my complaint before him; before him I shall tell of my trouble.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 3, 'When my spirit was overwhelmed within me, then thou didst know my path. In the way in which I walked have they secretly laid a snare for me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 4, 'I looked on [my] right hand, and beheld, but [there was] no one that would know me; I had no refuge; no one cared for my soul.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 5, 'I cried unto thee, O LORD; I said, Thou [art] my hope [and] my portion in the land of the living.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 6, 'Attend unto my cry, for I am brought very low; deliver me from my persecutors; for they are stronger than I.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 142, 7, 'Bring my soul out of prison, that I may praise thy name; the righteous shall feast with me; when thou shalt have weaned me.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 1, '<> Hear my prayer, O LORD; give ear to my supplications for [the sake of] thy truth; answer me for [the sake of] thy righteousness.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 1, '> Hear my prayer, O LORD; give ear to my supplications for [the sake of] thy truth; answer me for [the sake of] thy righteousness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 2, 'And enter not into judgment with thy servant; for in thy sight shall no man living be justified.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 3, 'For the enemy has persecuted my soul; he has smitten my life down to the ground; he has made me to dwell in darkness, as those that have been long dead.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 4, 'Therefore my spirit has become overwhelmed within me; my heart within me has become desolate.');
@@ -16407,7 +16406,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 10, 'Teach me to do thy will, for thou [art] my God. Let thy good Spirit lead me into the land of uprightness.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 11, 'By thy name, O LORD, thou shalt give me life; by thy righteousness thou shalt bring my soul out of trouble.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 143, 12, 'And by thy mercy thou shalt scatter my enemies and destroy all the adversaries of my soul; for I [am] thy servant.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 1, '<> Blessed [be] the LORD my strength, who trains my hands for the battle [and] my fingers for the war:');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 1, '> Blessed [be] the LORD my strength, who trains my hands for the battle [and] my fingers for the war:');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 2, 'My mercy and my fortress; my high tower and my deliverer; my shield and [he] in whom I trust, who subdues my people under me.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 3, 'LORD, what [is] man that thou knowest him? [or] the son of man, that thou esteemest him?');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 4, 'Man is like unto vanity; his days [are] as a shadow that passes away.');
@@ -16422,7 +16421,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 13, '[that] our garners [may be] full, affording all manner of store; [that] our sheep may bring forth thousands and ten thousands in our streets;');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 14, '[that] our oxen [may be] strong to labour; [that there be] no breaking in nor going out; that [there be] no shout [of alarm] in our streets.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 144, 15, 'Blessed [is that] people, that is in such a case; [yea], blessed [is that] people, whose God [is] the LORD.:');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 145, 1, '<<David\'s [Psalm] of praise.>> [Aleph] I will extol thee, my God, my king, and I will bless thy name for ever and ever.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 145, 1, '> [Aleph] I will extol thee, my God, my king, and I will bless thy name for ever and ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 145, 2, '[Beth] Each day will I bless thee, and I will praise thy name for ever and ever.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 145, 3, '[Gimel] Great [is] the LORD and greatly to be praised, and his greatness [is] unsearchable.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 145, 4, '[Daleth] One generation shall praise thy works to another and shall declare thy mighty acts.');
@@ -17069,7 +17068,7 @@ INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES 
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 11, 'Even a child is known by his doings, whether his work [is] pure and whether [it is] right.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 12, 'The hearing ear and the seeing eye, the LORD has made both of them.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 13, 'Do not love sleep lest thou come to poverty; open thine eyes, [and] thou shalt be satisfied with bread.');
-INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 14, '[It is] bad, [it is[ bad, the buyer says; but when he is gone his way, then he boasts.');
+INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 14, '[It is] bad, [it is[bad, the buyer says; but when he is gone his way, then he boasts.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 15, 'There is gold and a multitude of precious stones, but the lips of wisdom [are] a precious vessel.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 16, 'Take his garment that is surety [for] a stranger, and take a pledge of him that is surety for a strange woman.');
 INSERT INTO `Jubilee2000_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 20, 17, 'Bread of deceit [is] sweet to a man, but afterwards his mouth shall be filled with gravel.');

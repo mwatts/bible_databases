@@ -1,9 +1,8 @@
 -- SQL Dump for # TagAngBiblia: Philippine Bible Society (1905) (TagAngBiblia)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `TagAngBiblia_books`;
 DROP TABLE IF EXISTS `TagAngBiblia_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `TagAngBiblia_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'TagAngBiblia', '# TagAngBiblia: Philippine Bible Society (1905)', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'TagAngBiblia'
-            );
+            VALUES ('TagAngBiblia', '# TagAngBiblia: Philippine Bible Society (1905)', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `TagAngBiblia_books` (

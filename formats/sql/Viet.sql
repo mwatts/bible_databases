@@ -1,9 +1,8 @@
 -- SQL Dump for # Viet: Kinh Thánh Tiếng Việt (1934) (Viet)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `Viet_books`;
 DROP TABLE IF EXISTS `Viet_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `Viet_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'Viet', '# Viet: Kinh Thánh Tiếng Việt (1934)', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'Viet'
-            );
+            VALUES ('Viet', '# Viet: Kinh Thánh Tiếng Việt (1934)', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `Viet_books` (
@@ -31158,7 +31157,7 @@ INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 20
 INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 1, 'Ðoạn, tôi thấy trời mới và đất mới; vì trời thứ nhứt và đất thứ nhứt đã biến đi mất, và biển cũng không còn nữa.');
 INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 2, 'Tôi cũng thấy thành thánh, là Giê-ru-sa-lem mới, từ trên trời, ở nơi Ðức Chúa Trời mà xuống, sửa soạn sẵn như một người vợ mới cưới trang sức cho chồng mình.');
 INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 3, 'Tôi nghe một tiếng lớn từ nơi ngai mà đến, nói rằng: nầy, đền tạm của Ðức Chúa Trời ở giữa loài người! Ngài sẽ ở với chúng, và chúng sẽ làm dân Ngài; chính Ðức Chúa Trời sẽ ở với chúng.');
-INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 4, 'Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết ,cũng không có than khóc, kêu ca, hay là đau đớn nữa; vì những sự thứ nhứt đã qua rồi.');
+INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 4, 'Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết,cũng không có than khóc, kêu ca, hay là đau đớn nữa; vì những sự thứ nhứt đã qua rồi.');
 INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 5, 'Ðấng ngự trên trôi phán rằng: Nầy, ta làm mới lại hết thảy muôn vật. Ðoạn, lại rằng: Hãy chép; vì những lời nầy đều trung tín và chơn thật.');
 INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 6, 'Ngài là phán cùng tôi rằng: Xong rồi! Ta là An-pha và Ô-mê-ga, nghĩa là đầu tiên và cuối cùng. Kẻ nào khát, ta sẽ lấy nước suối sự sống mà ban cho nhưng không.');
 INSERT INTO `Viet_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 21, 7, 'Kẻ nào thắng sẽ được những sự ấy làm cơ nghiệp, ta sẽ làm Ðức Chúa Trời người và người sẽ làm con ta.');

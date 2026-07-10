@@ -64,7 +64,7 @@
 
 **[1:30]** et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.
 
-**[1:31]** Viditque Deus cuncta quæ fecerat: et erant valde bona. Et factum est vespere et mane, dies sextus. 
+**[1:31]** Viditque Deus cuncta quæ fecerat: et erant valde bona. Et factum est vespere et mane, dies sextus.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Quamobrem relinquet homo patrem suum, et matrem, et adhærebit uxori suæ: et erunt duo in carne una.
 
-**[2:25]** Erat autem uterque nudus, Adam scilicet et uxor eius: et non erubescebant. 
+**[2:25]** Erat autem uterque nudus, Adam scilicet et uxor eius: et non erubescebant.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** Et emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est.
 
-**[3:24]** Eiecitque Adam: et collocavit ante paradisum voluptatis Cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitæ. 
+**[3:24]** Eiecitque Adam: et collocavit ante paradisum voluptatis Cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitæ.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** Cognovit quoque adhuc Adam uxorem suam: et peperit filium, vocavitque nomen eius Seth, dicens: Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.
 
-**[4:26]** Sed et Seth natus est filius, quem vocavit Enos: iste cœpit invocare nomen Domini. 
+**[4:26]** Sed et Seth natus est filius, quem vocavit Enos: iste cœpit invocare nomen Domini.
 
 ### Chapter 5
 
@@ -284,7 +284,7 @@
 
 **[5:30]** Vixitque Lamech, postquam genuit Noe, quingentis nonaginta quinque annis, et genuit filios et filias.
 
-**[5:31]** Et facti sunt omnes dies Lamech, septingenti septuaginta septem anni, et mortuus est. Noe vero cum quingentorum esset annorum, genuit Sem, Cham, et Iapheth. 
+**[5:31]** Et facti sunt omnes dies Lamech, septingenti septuaginta septem anni, et mortuus est. Noe vero cum quingentorum esset annorum, genuit Sem, Cham, et Iapheth.
 
 ### Chapter 6
 
@@ -330,7 +330,7 @@
 
 **[6:21]** Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te: et erunt tam tibi, quam illis in cibum.
 
-**[6:22]** Fecit igitur Noe omnia, quæ præceperat illi Deus. 
+**[6:22]** Fecit igitur Noe omnia, quæ præceperat illi Deus.
 
 ### Chapter 7
 
@@ -380,7 +380,7 @@
 
 **[7:23]** Et delevit omnem substantiam, quæ erat super terram, ab homine usque ad pecus, tam reptile quam volucres cæli: et deleta sunt de terra: remansit autem solus Noe, et qui cum eo erant in arca.
 
-**[7:24]** Obtinueruntque aquæ terram centum quinquaginta diebus. 
+**[7:24]** Obtinueruntque aquæ terram centum quinquaginta diebus.
 
 ### Chapter 8
 
@@ -426,7 +426,7 @@
 
 **[8:21]** Odoratusque est Dominus odorem suavitatis, et ait: Nequaquam ultra maledicam terræ propter homines: sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua: non igitur ultra percutiam omnem animam viventem sicut feci.
 
-**[8:22]** Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, nox et dies non requiescent. 
+**[8:22]** Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, nox et dies non requiescent.
 
 ### Chapter 9
 
@@ -486,7 +486,7 @@
 
 **[9:28]** Vixit autem Noe post diluvium trecentis quinquaginta annis.
 
-**[9:29]** Et impleti sunt omnes dies eius nongentorum quinquaginta annorum: et mortuus est. 
+**[9:29]** Et impleti sunt omnes dies eius nongentorum quinquaginta annorum: et mortuus est.
 
 ### Chapter 10
 
@@ -552,7 +552,7 @@
 
 **[10:31]** Isti filii Sem secundum cognationes et linguas, et regiones in gentibus suis.
 
-**[10:32]** Hæ familiæ Noe iuxta populos et nationes suas. Ab his divisæ sunt gentes in terra post diluvium. 
+**[10:32]** Hæ familiæ Noe iuxta populos et nationes suas. Ab his divisæ sunt gentes in terra post diluvium.
 
 ### Chapter 11
 
@@ -618,7 +618,7 @@
 
 **[11:31]** Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldæorum, ut irent in terram Chanaan: veneruntque usque Haran, et habitaverunt ibi.
 
-**[11:32]** Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran. 
+**[11:32]** Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.
 
 ### Chapter 12
 
@@ -660,7 +660,7 @@
 
 **[12:19]** Quam ob causam dixisti esse sororem tuam, ut tollerem eam mihi in uxorem? Nunc igitur ecce coniux tua, accipe eam, et vade.
 
-**[12:20]** Præcepitque Pharao super Abram viris: et deduxerunt eum, et uxorem illius, et omnia quæ habebat. 
+**[12:20]** Præcepitque Pharao super Abram viris: et deduxerunt eum, et uxorem illius, et omnia quæ habebat.
 
 ### Chapter 13
 
@@ -698,7 +698,7 @@
 
 **[13:17]** Surge, et perambula terram in longitudine, et in latitudine sua: quia tibi daturus sum eam.
 
-**[13:18]** Movens igitur tabernaculum suum Abram, venit et habitavit iuxta convallem Mambre, quæ est in Hebron: ædificavitque ibi altare Domino. 
+**[13:18]** Movens igitur tabernaculum suum Abram, venit et habitavit iuxta convallem Mambre, quæ est in Hebron: ædificavitque ibi altare Domino.
 
 ### Chapter 14
 
@@ -748,7 +748,7 @@
 
 **[14:23]** quod a filo subtegminis usque ad corigiam caligæ, non accipiam ex omnibus quæ tua sunt, ne dicas: Ego ditavi Abram:
 
-**[14:24]** exceptis his, quæ comederunt iuvenes, et partibus virorum, qui venerunt mecum, Aner, Eschol, et Mambre: isti accipient partes suas. 
+**[14:24]** exceptis his, quæ comederunt iuvenes, et partibus virorum, qui venerunt mecum, Aner, Eschol, et Mambre: isti accipient partes suas.
 
 ### Chapter 15
 
@@ -792,7 +792,7 @@
 
 **[15:20]** et Hethæos, et Pherezæos, Raphaim quoque,
 
-**[15:21]** et Amorrhæos, et Chananæos, et Gergesæos, et Iebusæos. 
+**[15:21]** et Amorrhæos, et Chananæos, et Gergesæos, et Iebusæos.
 
 ### Chapter 16
 
@@ -826,7 +826,7 @@
 
 **[16:15]** Peperitque Agar Abræ filium: qui vocavit nomen eius Ismael.
 
-**[16:16]** Octoginta et sex annorum erat Abram quando peperit ei Agar Ismaelem. 
+**[16:16]** Octoginta et sex annorum erat Abram quando peperit ei Agar Ismaelem.
 
 ### Chapter 17
 
@@ -882,7 +882,7 @@
 
 **[17:26]** Eadem die circumcisus est Abraham et Ismael filius eius.
 
-**[17:27]** Et omnes viri domus illius, tam vernaculi, quam emptitii et alienigenæ pariter circumcisi sunt. 
+**[17:27]** Et omnes viri domus illius, tam vernaculi, quam emptitii et alienigenæ pariter circumcisi sunt.
 
 ### Chapter 18
 
@@ -950,7 +950,7 @@
 
 **[18:32]** Obsecro, inquit, ne irascaris Domine, si loquar adhuc semel: Quid si inventi fuerint ibi decem? Et dixit: Non delebo propter decem.
 
-**[18:33]** Abiitque Dominus, postquam cessavit loqui ad Abraham: et ille reversus est in locum suum. 
+**[18:33]** Abiitque Dominus, postquam cessavit loqui ad Abraham: et ille reversus est in locum suum.
 
 ### Chapter 19
 
@@ -1028,7 +1028,7 @@
 
 **[19:37]** Peperitque maior filium, et vocavit nomen eius Moab: ipse est pater Moabitarum usque in præsentem diem.
 
-**[19:38]** Minor quoque peperit filium, et vocavit nomen eius Ammon, idest filius populi mei: ipse est pater Ammonitarum usque hodie. 
+**[19:38]** Minor quoque peperit filium, et vocavit nomen eius Ammon, idest filius populi mei: ipse est pater Ammonitarum usque hodie.
 
 ### Chapter 20
 
@@ -1066,7 +1066,7 @@
 
 **[20:17]** Orante autem Abraham, sanavit Deus Abimelech et uxorem, ancillasque eius, et pepererunt:
 
-**[20:18]** concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abrahæ. 
+**[20:18]** concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abrahæ.
 
 ### Chapter 21
 
@@ -1136,7 +1136,7 @@
 
 **[21:33]** Surrexit autem Abimelech, et Phicol princeps exercitus eius, reversique sunt in terram Palæstinorum. Abraham vero plantavit nemus in Bersabee, et invocavit ibi nomen Domini Dei æterni.
 
-**[21:34]** Et fuit colonus terræ Palæstinorum diebus multis. 
+**[21:34]** Et fuit colonus terræ Palæstinorum diebus multis.
 
 ### Chapter 22
 
@@ -1186,7 +1186,7 @@
 
 **[22:23]** ac Bathuel, de quo nata est Rebecca: octo istos genuit Melcha, Nachor fratri Abrahæ.
 
-**[22:24]** Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Tahas, et Maacha. 
+**[22:24]** Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Tahas, et Maacha.
 
 ### Chapter 23
 
@@ -1228,7 +1228,7 @@
 
 **[23:19]** Atque ita sepelivit Abraham Saram uxorem suam in spelunca agri duplici, quæ respiciebat Mambre. Hæc est Hebron in terra Chanaan.
 
-**[23:20]** Et confirmatus est ager, et antrum, quod erat in eo, Abrahæ in possessionem monumenti a filiis Heth. 
+**[23:20]** Et confirmatus est ager, et antrum, quod erat in eo, Abrahæ in possessionem monumenti a filiis Heth.
 
 ### Chapter 24
 
@@ -1364,7 +1364,7 @@
 
 **[24:66]** Servus autem cuncta, quæ gesserat, narravit Isaac.
 
-**[24:67]** Qui introduxit eam in tabernaculum Saræ matris suæ, et accepit eam uxorem: et in tantum dilexit eam, ut dolorem, qui ex morte matris eius acciderat, temperaret. 
+**[24:67]** Qui introduxit eam in tabernaculum Saræ matris suæ, et accepit eam uxorem: et in tantum dilexit eam, ut dolorem, qui ex morte matris eius acciderat, temperaret.
 
 ### Chapter 25
 
@@ -1434,7 +1434,7 @@
 
 **[25:33]** Ait Iacob: Iura ergo mihi. Iuravit ei Esau, et vendidit primogenita.
 
-**[25:34]** Et sic accepto pane et lentis edulio, comedit, et bibit, et abiit; parvipendens quod primogenita vendidisset. 
+**[25:34]** Et sic accepto pane et lentis edulio, comedit, et bibit, et abiit; parvipendens quod primogenita vendidisset.
 
 ### Chapter 26
 
@@ -1506,7 +1506,7 @@
 
 **[26:34]** Esau vero quadragenarius duxit uxores, Iudith filiam Beeri Hethæi, et Basemath filiam Elon eiusdem loci:
 
-**[26:35]** quæ ambæ offenderant animum Isaac et Rebeccæ. 
+**[26:35]** quæ ambæ offenderant animum Isaac et Rebeccæ.
 
 ### Chapter 27
 
@@ -1600,7 +1600,7 @@
 
 **[27:45]** et cesset indignatio eius, obliviscaturque eorum quæ fecisti in eum: postea mittam, et adducam te inde huc. cur utroque orbabor filio in uno die?
 
-**[27:46]** Dixitque Rebecca ad Isaac: Tædet me vitæ meæ propter filias Heth: si acceperit Iacob uxorem de stirpe huius terræ, nolo vivere. 
+**[27:46]** Dixitque Rebecca ad Isaac: Tædet me vitæ meæ propter filias Heth: si acceperit Iacob uxorem de stirpe huius terræ, nolo vivere.
 
 ### Chapter 28
 
@@ -1646,7 +1646,7 @@
 
 **[28:21]** reversusque fuero prospere ad domum patris mei: erit mihi Dominus in Deum,
 
-**[28:22]** et lapis iste, quem erexi in titulum, vocabitur Domus Dei: cunctorumque quæ dederis mihi, decimas offeram tibi. 
+**[28:22]** et lapis iste, quem erexi in titulum, vocabitur Domus Dei: cunctorumque quæ dederis mihi, decimas offeram tibi.
 
 ### Chapter 29
 
@@ -1718,7 +1718,7 @@
 
 **[29:34]** Concepitque tertio, et genuit alium filium: dixitque: Nunc quoque copulabitur mihi maritus meus, eo quod pepererim ei tres filios: et idcirco appellavit nomen eius, Levi.
 
-**[29:35]** Quarto concepit, et peperit filium, et ait: Modo confitebor Domino. et ob hoc vocavit eum, Iudam: cessavitque parere. 
+**[29:35]** Quarto concepit, et peperit filium, et ait: Modo confitebor Domino. et ob hoc vocavit eum, Iudam: cessavitque parere.
 
 ### Chapter 30
 
@@ -1806,7 +1806,7 @@
 
 **[30:42]** quando vero serotina admissura erat, et conceptus extremus, non ponebat eas. Factaque sunt ea quæ erant serotina, Laban: et quæ primi temporis, Iacob.
 
-**[30:43]** Ditatusque est homo ultra modum, et habuit greges multos, ancillas et servos, camelos et asinos. 
+**[30:43]** Ditatusque est homo ultra modum, et habuit greges multos, ancillas et servos, camelos et asinos.
 
 ### Chapter 31
 
@@ -1918,7 +1918,7 @@
 
 **[31:54]** immolatisque victimis in monte, vocavit fratres suos ut ederent panem. Qui cum comedissent, manserunt ibi.
 
-**[31:55]** Laban vero de nocte consurgens, osculatus est filios, et filias suas, et benedixit illis: reversusque est in locum suum. 
+**[31:55]** Laban vero de nocte consurgens, osculatus est filios, et filias suas, et benedixit illis: reversusque est in locum suum.
 
 ### Chapter 32
 
@@ -1984,7 +1984,7 @@
 
 **[32:31]** Ortusque est ei statim sol, postquam transgressus est Phanuel: ipse vero claudicabat pede.
 
-**[32:32]** Quam ob causam non comedunt nervum filii Israel, qui emarcuit in femore Iacob, usque in præsentem diem: eo quod tetigerit nervum femoris eius, et obstupuerit. 
+**[32:32]** Quam ob causam non comedunt nervum filii Israel, qui emarcuit in femore Iacob, usque in præsentem diem: eo quod tetigerit nervum femoris eius, et obstupuerit.
 
 ### Chapter 33
 
@@ -2026,7 +2026,7 @@
 
 **[33:19]** Emitque partem agri in qua fixerat tabernacula, a filiis Hemor patris Sichem centum agnis.
 
-**[33:20]** Et erecto ibi altari, invocavit super illud fortissimum Deum Israel. 
+**[33:20]** Et erecto ibi altari, invocavit super illud fortissimum Deum Israel.
 
 ### Chapter 34
 
@@ -2090,7 +2090,7 @@
 
 **[34:30]** Quibus patratis audacter, Iacob dixit ad Simeon et Levi: Turbastis me, et odiosum fecistis me Chananæis, et Pherezæis habitatoribus terræ huius. nos pauci sumus: illi congregati percutient me, et delebor ego, et domus mea.
 
-**[34:31]** Responderunt: Numquid ut scorto abuti debuere sorore nostra? 
+**[34:31]** Responderunt: Numquid ut scorto abuti debuere sorore nostra?
 
 ### Chapter 35
 
@@ -2150,7 +2150,7 @@
 
 **[35:28]** Et completi sunt dies Isaac centum octoginta annorum.
 
-**[35:29]** Consumptusque ætate mortuus est: et appositus est populo suo senex et plenus dierum: et sepelierunt eum Esau et Iacob filii sui. 
+**[35:29]** Consumptusque ætate mortuus est: et appositus est populo suo senex et plenus dierum: et sepelierunt eum Esau et Iacob filii sui.
 
 ### Chapter 36
 
@@ -2238,7 +2238,7 @@
 
 **[36:42]** dux Cenez, dux Theman, dux Mabsar,
 
-**[36:43]** dux Magdiel, dux Hiram: hi duces Edom habitantes in terra imperii sui, ipse est Esau pater Idumæorum. 
+**[36:43]** dux Magdiel, dux Hiram: hi duces Edom habitantes in terra imperii sui, ipse est Esau pater Idumæorum.
 
 ### Chapter 37
 
@@ -2312,7 +2312,7 @@
 
 **[37:35]** Congregatis autem cunctis liberis eius ut lenirent dolorem patris, noluit consolationem accipere, sed ait: Descendam ad filium meum lugens in infernum. Et illo perseverante in fletu,
 
-**[37:36]** Madianitæ vendiderunt Ioseph in Ægypto Putiphari eunucho Pharaonis magistro militum. 
+**[37:36]** Madianitæ vendiderunt Ioseph in Ægypto Putiphari eunucho Pharaonis magistro militum.
 
 ### Chapter 38
 
@@ -2374,7 +2374,7 @@
 
 **[38:29]** Illo vero retrahente manum, egressus est alter: dixitque mulier: Quare divisa est propter te maceria? et ob hanc causam vocavit nomen eius Phares.
 
-**[38:30]** Postea egressus est frater eius, in cuius manu erat coccinum: quem appellavit Zara. 
+**[38:30]** Postea egressus est frater eius, in cuius manu erat coccinum: quem appellavit Zara.
 
 ### Chapter 39
 
@@ -2422,7 +2422,7 @@
 
 **[39:22]** Qui tradidit in manu illius universos vinctos qui in custodia tenebantur: et quidquid fiebat, sub ipso erat.
 
-**[39:23]** Nec noverat aliquid, cunctis ei creditis: Dominus enim erat cum illo, et omnia opera eius dirigebat. 
+**[39:23]** Nec noverat aliquid, cunctis ei creditis: Dominus enim erat cum illo, et omnia opera eius dirigebat.
 
 ### Chapter 40
 
@@ -2470,7 +2470,7 @@
 
 **[40:22]** alterum suspendit in patibulo, ut coniectoris veritas probaretur.
 
-**[40:23]** Et tamen succedentibus prosperis, præpositus pincernarum oblitus est interpretis sui. 
+**[40:23]** Et tamen succedentibus prosperis, præpositus pincernarum oblitus est interpretis sui.
 
 ### Chapter 41
 
@@ -2586,7 +2586,7 @@
 
 **[41:56]** Crescebat autem quotidie fames in omni terra: aperuitque Ioseph universa horrea, et vendebat Ægyptiis: nam et illos oppresserat fames.
 
-**[41:57]** Omnesque provinciæ veniebant in Ægyptum, ut emerent escas, et malum inopiæ temperarent. 
+**[41:57]** Omnesque provinciæ veniebant in Ægyptum, ut emerent escas, et malum inopiæ temperarent.
 
 ### Chapter 42
 
@@ -2664,7 +2664,7 @@
 
 **[42:37]** Cui respondit Ruben: Duos filios meos interfice, si non reduxero illum tibi: trade illum in manu mea, et ego eum tibi restituam.
 
-**[42:38]** At ille: Non descendet, inquit, filius meus vobiscum: frater eius mortuus est, et ipse solus remansit: si quid ei adversi acciderit in terra ad quam pergitis, deducetis canos meos cum dolore ad inferos. 
+**[42:38]** At ille: Non descendet, inquit, filius meus vobiscum: frater eius mortuus est, et ipse solus remansit: si quid ei adversi acciderit in terra ad quam pergitis, deducetis canos meos cum dolore ad inferos.
 
 ### Chapter 43
 
@@ -2734,7 +2734,7 @@
 
 **[43:33]** sederunt coram eo, primogenitus iuxta primogenita sua, et minimus iuxta ætatem suam. Et mirabantur nimis,
 
-**[43:34]** sumptis partibus quas ab eo acceperant: maiorque pars venit Beniamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo. 
+**[43:34]** sumptis partibus quas ab eo acceperant: maiorque pars venit Beniamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.
 
 ### Chapter 44
 
@@ -2804,7 +2804,7 @@
 
 **[44:33]** Manebo itaque servus tuus pro puero in ministerio domini mei, et puer ascendat cum fratribus suis.
 
-**[44:34]** Non enim possum redire ad patrem meum, absente puero: ne calamitatis, quæ oppressura est patrem meum, testis assistam. 
+**[44:34]** Non enim possum redire ad patrem meum, absente puero: ne calamitatis, quæ oppressura est patrem meum, testis assistam.
 
 ### Chapter 45
 
@@ -2862,7 +2862,7 @@
 
 **[45:27]** Illi econtra referebant omnem ordinem rei. Cumque vidisset plaustra, et universa quæ miserat, revixit spiritus eius,
 
-**[45:28]** et ait: Sufficit mihi si adhuc Ioseph filius meus vivit: vadam, et videbo illum antequam moriar. 
+**[45:28]** et ait: Sufficit mihi si adhuc Ioseph filius meus vivit: vadam, et videbo illum antequam moriar.
 
 ### Chapter 46
 
@@ -2932,7 +2932,7 @@
 
 **[46:33]** Cumque vocaverit vos, et dixerit: Quod est opus vestrum?
 
-**[46:34]** Respondebitis: Viri pastores sumus servi tui, ab infantia nostra usque in præsens, et nos et patres nostri. Hæc autem dicetis, ut habitare possitis in Terra Gessen: quia detestantur Ægyptii omnes pastores ovium. 
+**[46:34]** Respondebitis: Viri pastores sumus servi tui, ab infantia nostra usque in præsens, et nos et patres nostri. Hæc autem dicetis, ut habitare possitis in Terra Gessen: quia detestantur Ægyptii omnes pastores ovium.
 
 ### Chapter 47
 
@@ -2996,7 +2996,7 @@
 
 **[47:30]** sed dormiam cum patribus meis, et auferas me de terra hac, condasque in sepulchro maiorum meorum. Cui respondit Ioseph: Ego faciam quod iussisti.
 
-**[47:31]** Et ille: Iura ergo, inquit, mihi. Quo iurante, adoravit Israel Deum, conversus ad lectuli caput. 
+**[47:31]** Et ille: Iura ergo, inquit, mihi. Quo iurante, adoravit Israel Deum, conversus ad lectuli caput.
 
 ### Chapter 48
 
@@ -3042,7 +3042,7 @@
 
 **[48:21]** Et ait ad Ioseph filium suum: En ego morior, et erit Deus vobiscum, reducetque vos ad terram patrum vestrorum.
 
-**[48:22]** Do tibi partem unam extra fratres tuos, quam tuli de manu Amorrhæi in gladio et arcu meo. 
+**[48:22]** Do tibi partem unam extra fratres tuos, quam tuli de manu Amorrhæi in gladio et arcu meo.
 
 ### Chapter 49
 
@@ -3108,7 +3108,7 @@
 
 **[49:31]** Ibi sepelierunt eum, et Saram uxorem eius: ibi sepultus est Isaac cum Rebecca coniuge sua: ibi et Lia condita iacet.
 
-**[49:32]** Finitisque mandatis quibus filios instruebat, collegit pedes suos super lectulum, et obiit: appositusque est ad populum suum. 
+**[49:32]** Finitisque mandatis quibus filios instruebat, collegit pedes suos super lectulum, et obiit: appositusque est ad populum suum.
 
 ### Chapter 50
 
@@ -3160,7 +3160,7 @@
 
 **[50:24]** Cumque adiurasset eos atque dixisset: Deus visitabit vos: asportate ossa mea vobiscum de loco isto:
 
-**[50:25]** mortuus est, expletis centum decem vitæ suæ annis. Et conditus aromatibus, repositus est in loculo in Ægypto.  
+**[50:25]** mortuus est, expletis centum decem vitæ suæ annis. Et conditus aromatibus, repositus est in loculo in Ægypto.
 
 ## Exodus
 
@@ -3208,7 +3208,7 @@
 
 **[1:21]** Et quia timuerunt obstetrices Deum, ædificavit eis domos.
 
-**[1:22]** Præcepit ergo Pharao omni populo suo, dicens: Quidquid masculini sexus natum fuerit, in flumen proiicite: quidquid feminini, reservate. 
+**[1:22]** Præcepit ergo Pharao omni populo suo, dicens: Quidquid masculini sexus natum fuerit, in flumen proiicite: quidquid feminini, reservate.
 
 ### Chapter 2
 
@@ -3260,7 +3260,7 @@
 
 **[2:24]** Et audivit gemitum eorum, ac recordatus est fœderis quod pepigit cum Abraham, Isaac, et Iacob.
 
-**[2:25]** Et respexit Dominus filios Israel et cognovit eos. 
+**[2:25]** Et respexit Dominus filios Israel et cognovit eos.
 
 ### Chapter 3
 
@@ -3306,7 +3306,7 @@
 
 **[3:21]** Daboque gratiam populo huic coram Ægyptiis: et cum egrediemini, non exibitis vacui:
 
-**[3:22]** sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum. 
+**[3:22]** sed postulabit mulier a vicina sua, et ab hospita sua, vasa argentea et aurea, ac vestes: ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.
 
 ### Chapter 4
 
@@ -3370,7 +3370,7 @@
 
 **[4:30]** Locutusque est Aaron omnia verba quæ dixerat Dominus ad Moysen: et fecit signa coram populo,
 
-**[4:31]** et credidit populus. Audieruntque quod visitasset Dominus filios Israel, et respexisset afflictionem illorum: et proni adoraverunt. 
+**[4:31]** et credidit populus. Audieruntque quod visitasset Dominus filios Israel, et respexisset afflictionem illorum: et proni adoraverunt.
 
 ### Chapter 5
 
@@ -3418,7 +3418,7 @@
 
 **[5:22]** Reversusque est Moyses ad Dominum, et ait: Domine, cur afflixisti populum istum? quare misisti me?
 
-**[5:23]** Ex eo enim quo ingressus sum ad Pharaonem ut loquerer in nomine tuo, afflixit populum tuum: et non liberasti eos. 
+**[5:23]** Ex eo enim quo ingressus sum ad Pharaonem ut loquerer in nomine tuo, afflixit populum tuum: et non liberasti eos.
 
 ### Chapter 6
 
@@ -3480,7 +3480,7 @@
 
 **[6:29]** Et locutus est Dominus ad Moysen, dicens: Ego Dominus: loquere ad Pharaonem regem Ægypti, omnia quæ ego loquor tibi.
 
-**[6:30]** Et ait Moyses coram Domino: En incircumcisus labiis sum, quo modo audiet me Pharao? 
+**[6:30]** Et ait Moyses coram Domino: En incircumcisus labiis sum, quo modo audiet me Pharao?
 
 ### Chapter 7
 
@@ -3532,7 +3532,7 @@
 
 **[7:24]** Foderunt autem omnes Ægyptii per circuitum fluminis aquam ut biberent: non enim poterant bibere de aqua fluminis.
 
-**[7:25]** Impletique sunt septem dies, postquam percussit Dominus fluvium. 
+**[7:25]** Impletique sunt septem dies, postquam percussit Dominus fluvium.
 
 ### Chapter 8
 
@@ -3598,7 +3598,7 @@
 
 **[8:31]** Qui fecit iuxta verbum illius: et abstulit muscas a Pharaone, et a servis suis, et a populo eius: non superfuit ne una quidem.
 
-**[8:32]** Et ingravatum est cor Pharaonis, ita ut nec hac quidem vice dimitteret populum. 
+**[8:32]** Et ingravatum est cor Pharaonis, ita ut nec hac quidem vice dimitteret populum.
 
 ### Chapter 9
 
@@ -3670,7 +3670,7 @@
 
 **[9:34]** Videns autem Pharao quod cessasset pluvia, et grando et tonitrua, auxit peccatum:
 
-**[9:35]** et ingravatum est cor eius, et servorum illius, et induratum nimis: nec dimisit filios Israel, sicut præceperat Dominus per manum Moysi. 
+**[9:35]** et ingravatum est cor eius, et servorum illius, et induratum nimis: nec dimisit filios Israel, sicut præceperat Dominus per manum Moysi.
 
 ### Chapter 10
 
@@ -3730,7 +3730,7 @@
 
 **[10:28]** Dixitque Pharao ad Moysen: Recede a me, et cave ne ultra videas faciem meam: quocumque die apparueris mihi, morieris.
 
-**[10:29]** Respondit Moyses: Ita fiet ut locutus es, non videbo ultra faciem tuam. 
+**[10:29]** Respondit Moyses: Ita fiet ut locutus es, non videbo ultra faciem tuam.
 
 ### Chapter 11
 
@@ -3752,7 +3752,7 @@
 
 **[11:9]** Et exivit a Pharaone iratus nimis. Dixit autem Dominus ad Moysen: Non audiet vos Pharao ut multa signa fiant in Terra Ægypti.
 
-**[11:10]** Moyses autem et Aaron fecerunt omnia ostenta quæ scripta sunt, coram Pharaone. Et induravit Dominus cor Pharaonis, nec dimisit filios Israel de terra sua. 
+**[11:10]** Moyses autem et Aaron fecerunt omnia ostenta quæ scripta sunt, coram Pharaone. Et induravit Dominus cor Pharaonis, nec dimisit filios Israel de terra sua.
 
 ### Chapter 12
 
@@ -3856,7 +3856,7 @@
 
 **[12:50]** Feceruntque omnes filii Israel sicut præceperat Dominus Moysi et Aaron.
 
-**[12:51]** Et eadem die eduxit Dominus filios Israel de terra Ægypti per turmas suas. 
+**[12:51]** Et eadem die eduxit Dominus filios Israel de terra Ægypti per turmas suas.
 
 ### Chapter 13
 
@@ -3902,7 +3902,7 @@
 
 **[13:21]** Dominus autem præcedebat eos ad ostendendam viam per diem in columna nubis, et per noctem in columna ignis: ut dux esset itineris utroque tempore.
 
-**[13:22]** Numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo. 
+**[13:22]** Numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo.
 
 ### Chapter 14
 
@@ -3966,7 +3966,7 @@
 
 **[14:30]** liberavitque Dominus in die illa Israel de manu Ægyptiorum.
 
-**[14:31]** Et viderunt Ægyptios mortuos super littus maris, et manum magnam quam exercuerat Dominus contra eos: timuitque populus Dominum, et crediderunt Domino, et Moysi servo eius. 
+**[14:31]** Et viderunt Ægyptios mortuos super littus maris, et manum magnam quam exercuerat Dominus contra eos: timuitque populus Dominum, et crediderunt Domino, et Moysi servo eius.
 
 ### Chapter 15
 
@@ -4022,7 +4022,7 @@
 
 **[15:26]** dicens: Si audieris vocem Domini Dei tui, et quod rectum est coram eo feceris, et obedieris mandatis eius, custodierisque omnia præcepta illius, cunctum languorem, quem posui in Ægypto, non inducam super te: ego enim Dominus sanator tuus.
 
-**[15:27]** Venerunt autem in Elim filii Israel, ubi erant duodecim fontes aquarum, et septuaginta palmæ: et castrametati sunt iuxta aquas. 
+**[15:27]** Venerunt autem in Elim filii Israel, ubi erant duodecim fontes aquarum, et septuaginta palmæ: et castrametati sunt iuxta aquas.
 
 ### Chapter 16
 
@@ -4096,7 +4096,7 @@
 
 **[16:35]** Filii autem Israel comederunt Man quadraginta annis, donec venirent in terram habitabilem: hoc cibo aliti sunt, usquequo tangerent fines terræ Chanaan.
 
-**[16:36]** Gomor autem decima pars est ephi. 
+**[16:36]** Gomor autem decima pars est ephi.
 
 ### Chapter 17
 
@@ -4130,7 +4130,7 @@
 
 **[17:15]** Ædificavitque Moyses altare: et vocavit nomen eius, Dominus exaltatio mea, dicens:
 
-**[17:16]** Quia manus solii Domini, et bellum Domini erit contra Amalec, a generatione in generationem. 
+**[17:16]** Quia manus solii Domini, et bellum Domini erit contra Amalec, a generatione in generationem.
 
 ### Chapter 18
 
@@ -4186,7 +4186,7 @@
 
 **[18:26]** Qui iudicabant plebem omni tempore: quidquid autem gravius erat, referebant ad eum, faciliora tantummodo iudicantes.
 
-**[18:27]** Dimisitque cognatum suum: qui reversus abiit in terram suam. 
+**[18:27]** Dimisitque cognatum suum: qui reversus abiit in terram suam.
 
 ### Chapter 19
 
@@ -4238,7 +4238,7 @@
 
 **[19:24]** Cui ait Dominus: Vade, descende: ascendesque tu, et Aaron tecum: sacerdotes autem et populus ne transeant terminos, nec ascendant ad Dominum, ne forte interficiat illos.
 
-**[19:25]** Descenditque Moyses ad populum, et omnia narravit eis. 
+**[19:25]** Descenditque Moyses ad populum, et omnia narravit eis.
 
 ### Chapter 20
 
@@ -4292,7 +4292,7 @@
 
 **[20:25]** Quod si altare lapideum feceris mihi, non ædificabis illud de sectis lapidibus: si enim levaveris cultrum super eo, polluetur.
 
-**[20:26]** Non ascendes per gradus ad altare meum, ne reveletur turpitudo tua. 
+**[20:26]** Non ascendes per gradus ad altare meum, ne reveletur turpitudo tua.
 
 ### Chapter 21
 
@@ -4366,7 +4366,7 @@
 
 **[21:35]** Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit: vendent bovem vivum, et divident pretium, cadaver autem mortui inter se dispertient.
 
-**[21:36]** Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus: reddet bovem pro bove, et cadaver integrum accipiet. 
+**[21:36]** Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus: reddet bovem pro bove, et cadaver integrum accipiet.
 
 ### Chapter 22
 
@@ -4430,7 +4430,7 @@
 
 **[22:30]** De bobus quoque, et ovibus similiter facies: septem diebus sit cum matre sua, die octava reddes illum mihi.
 
-**[22:31]** Viri sancti eritis mihi: carnem, quæ a bestiis fuerit prægustata, non comedetis, sed proiicietis canibus. 
+**[22:31]** Viri sancti eritis mihi: carnem, quæ a bestiis fuerit prægustata, non comedetis, sed proiicietis canibus.
 
 ### Chapter 23
 
@@ -4498,7 +4498,7 @@
 
 **[23:32]** Non inibis cum eis fœdus, nec cum diis eorum.
 
-**[23:33]** Non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum: quod tibi certe erit in scandalum. 
+**[23:33]** Non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum: quod tibi certe erit in scandalum.
 
 ### Chapter 24
 
@@ -4536,7 +4536,7 @@
 
 **[24:17]** Erat autem species gloriæ Domini, quasi ignis ardens super verticem montis in conspectu filiorum Israel.
 
-**[24:18]** Ingressusque Moyses medium nebulæ, ascendit in montem: et fuit ibi quadraginta diebus, et quadraginta noctibus. 
+**[24:18]** Ingressusque Moyses medium nebulæ, ascendit in montem: et fuit ibi quadraginta diebus, et quadraginta noctibus.
 
 ### Chapter 25
 
@@ -4618,7 +4618,7 @@
 
 **[25:39]** Omne pondus candelabri cum universis vasis suis habebit talentum auri purissimi.
 
-**[25:40]** Inspice, et fac secundum exemplar quod tibi in monte monstratum est. 
+**[25:40]** Inspice, et fac secundum exemplar quod tibi in monte monstratum est.
 
 ### Chapter 26
 
@@ -4694,7 +4694,7 @@
 
 **[26:36]** Facies et tentorium in introitu tabernaculi de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumarii.
 
-**[26:37]** Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium: quarum erunt capita aurea, et bases æneæ. 
+**[26:37]** Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium: quarum erunt capita aurea, et bases æneæ.
 
 ### Chapter 27
 
@@ -4738,7 +4738,7 @@
 
 **[27:20]** Præcipe filiis Israel ut afferant tibi oleum de arboribus olivarum purissimum, piloque contusum: ut ardeat lucerna semper
 
-**[27:21]** in tabernaculo testimonii, extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii eius, ut usque mane luceat coram Domino. Perpetuus erit cultus per successiones eorum a filiis Israel. 
+**[27:21]** in tabernaculo testimonii, extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii eius, ut usque mane luceat coram Domino. Perpetuus erit cultus per successiones eorum a filiis Israel.
 
 ### Chapter 28
 
@@ -4826,7 +4826,7 @@
 
 **[28:42]** Facies et feminalia linea, ut operiant carnem turpitudinis suæ, a renibus usque ad femora:
 
-**[28:43]** et utentur eis Aaron et filii eius quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini eius post eum. 
+**[28:43]** et utentur eis Aaron et filii eius quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini eius post eum.
 
 ### Chapter 29
 
@@ -4920,7 +4920,7 @@
 
 **[29:45]** Et habitabo in medio filiorum Israel, eroque eis Deus,
 
-**[29:46]** et scient quia ego Dominus Deus eorum, qui eduxi eos de Terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum. 
+**[29:46]** et scient quia ego Dominus Deus eorum, qui eduxi eos de Terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum.
 
 ### Chapter 30
 
@@ -4998,7 +4998,7 @@
 
 **[30:37]** Talem compositionem non facietis in usus vestros, quia sanctum est Domino.
 
-**[30:38]** Homo quicumque fecerit simile, ut odore illius perfruatur, peribit de populis suis. 
+**[30:38]** Homo quicumque fecerit simile, ut odore illius perfruatur, peribit de populis suis.
 
 ### Chapter 31
 
@@ -5036,7 +5036,7 @@
 
 **[31:17]** inter me et filios Israel, signumque perpetuum. sex enim diebus fecit Dominus cælum et terram, et in septimo ab opere cessavit.
 
-**[31:18]** Deditque Dominus Moysi, completis huiuscemodi sermonibus in monte Sinai, duas tabulas testimonii lapideas, scriptas digito Dei. 
+**[31:18]** Deditque Dominus Moysi, completis huiuscemodi sermonibus in monte Sinai, duas tabulas testimonii lapideas, scriptas digito Dei.
 
 ### Chapter 32
 
@@ -5108,7 +5108,7 @@
 
 **[32:34]** tu autem vade, et duc populum istum quo locutus sum tibi: angelus meus præcedet te. Ego autem in die ultionis visitabo et hoc peccatum eorum.
 
-**[32:35]** Percussit ergo Dominus populum pro reatu vituli, quem fecerat Aaron. 
+**[32:35]** Percussit ergo Dominus populum pro reatu vituli, quem fecerat Aaron.
 
 ### Chapter 33
 
@@ -5156,7 +5156,7 @@
 
 **[33:22]** Cumque transibit gloria mea, ponam te in foramine petræ, et protegam dextera mea, donec transeam:
 
-**[33:23]** tollamque manum meam, et videbis posteriora mea: faciem autem meam videre non poteris. 
+**[33:23]** tollamque manum meam, et videbis posteriora mea: faciem autem meam videre non poteris.
 
 ### Chapter 34
 
@@ -5228,7 +5228,7 @@
 
 **[34:34]** Quod ingressus ad Dominum, et loquens cum eo, auferebat donec exiret, et tunc loquebatur ad filios Israel omnia quæ sibi fuerant imperata.
 
-**[34:35]** Qui videbant faciem egredientis Moysi esse cornutam, sed operiebat ille rursus faciem suam, si quando loquebatur ad eos. 
+**[34:35]** Qui videbant faciem egredientis Moysi esse cornutam, sed operiebat ille rursus faciem suam, si quando loquebatur ad eos.
 
 ### Chapter 35
 
@@ -5300,7 +5300,7 @@
 
 **[35:34]** dedit in corde eius: Ooliab quoque filium Achisamech de tribu Dan:
 
-**[35:35]** ambos erudivit sapientia, ut faciant opera abietarii, polymitarii, ac plumarii de hyacintho ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quæque reperiant. 
+**[35:35]** ambos erudivit sapientia, ut faciant opera abietarii, polymitarii, ac plumarii de hyacintho ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quæque reperiant.
 
 ### Chapter 36
 
@@ -5378,7 +5378,7 @@
 
 **[36:37]** Fecit et tentorium in introitu tabernaculi ex hyacintho, purpura, vermiculo, byssoque retorta, opere plumarii:
 
-**[36:38]** et columnas quinque cum capitibus suis, quas operuit auro, basesque earum fudit æneas. 
+**[36:38]** et columnas quinque cum capitibus suis, quas operuit auro, basesque earum fudit æneas.
 
 ### Chapter 37
 
@@ -5438,7 +5438,7 @@
 
 **[37:28]** Ipsos autem vectes fecit de lignis setim, et operuit laminis aureis.
 
-**[37:29]** Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis opere pigmentarii. 
+**[37:29]** Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis opere pigmentarii.
 
 ### Chapter 38
 
@@ -5502,7 +5502,7 @@
 
 **[38:30]** ex quibus fusæ sunt bases in introitu tabernaculi testimonii, et altare æneum cum craticula sua, omniaque vasa, quæ ad usum eius pertinent,
 
-**[38:31]** et bases atrii tam in circuitu quam in ingressu eius, et paxilli tabernaculi atque atrii, per gyrum. 
+**[38:31]** et bases atrii tam in circuitu quam in ingressu eius, et paxilli tabernaculi atque atrii, per gyrum.
 
 ### Chapter 39
 
@@ -5590,7 +5590,7 @@
 
 **[39:42]** obtulerunt filii Israel, sicut præceperat Dominus.
 
-**[39:43]** Quæ postquam Moyses cuncta vidit completa, benedixit eis. 
+**[39:43]** Quæ postquam Moyses cuncta vidit completa, benedixit eis.
 
 ### Chapter 40
 
@@ -5664,7 +5664,7 @@
 
 **[40:35]** si pendebat desuper, manebant in eodem loco.
 
-**[40:36]** Nubes quippe Domini incubabat per diem tabernaculo, et ignis in nocte, videntibus cunctis populis Israel per cunctas mansiones suas.  
+**[40:36]** Nubes quippe Domini incubabat per diem tabernaculo, et ignis in nocte, videntibus cunctis populis Israel per cunctas mansiones suas.
 
 ## Leviticus
 
@@ -5702,7 +5702,7 @@
 
 **[1:16]** vesiculam vero gutturis, et plumas proiiciet prope altare ad orientalem plagam, in loco in quo cineres effundi solent,
 
-**[1:17]** confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino. 
+**[1:17]** confringetque ascellas eius, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.
 
 ### Chapter 2
 
@@ -5736,7 +5736,7 @@
 
 **[2:15]** fundens supra oleum, et thus imponens, quia oblatio Domini est.
 
-**[2:16]** de qua adolebit sacerdos in memoriam muneris partem farris fracti, et olei, ac totum thus. 
+**[2:16]** de qua adolebit sacerdos in memoriam muneris partem farris fracti, et olei, ac totum thus.
 
 ### Chapter 3
 
@@ -5772,7 +5772,7 @@
 
 **[3:16]** adolebitque ea super altare sacerdos in alimoniam ignis, et suavissimi odoris. Omnis adeps, Domini erit
 
-**[3:17]** iure perpetuo in generationibus, et cunctis habitaculis vestris: nec sanguinem nec adipem omnino comedetis. 
+**[3:17]** iure perpetuo in generationibus, et cunctis habitaculis vestris: nec sanguinem nec adipem omnino comedetis.
 
 ### Chapter 4
 
@@ -5844,7 +5844,7 @@
 
 **[4:34]** Sumetque sacerdos de sanguine eius digito suo, et tangens cornua altaris holocausti, reliquum fundet ad basim eius.
 
-**[4:35]** Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis: cremabit super altare in incensum Domini: rogabitque pro eo, et pro peccato eius, et dimittetur ei. 
+**[4:35]** Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis: cremabit super altare in incensum Domini: rogabitque pro eo, et pro peccato eius, et dimittetur ei.
 
 ### Chapter 5
 
@@ -5884,7 +5884,7 @@
 
 **[5:18]** offeret arietem immaculatum de gregibus sacerdoti, iuxta mensuram, æstimationemque peccati: qui orabit pro eo, quia nesciens fecerit: et dimittetur ei,
 
-**[5:19]** quia per errorem deliquit in Dominum. 
+**[5:19]** quia per errorem deliquit in Dominum.
 
 ### Chapter 6
 
@@ -5934,7 +5934,7 @@
 
 **[6:23]** Omne enim sacrificium sacerdotum igne consumetur, nec quisquam comedet ex eo.
 
-**[6:24]** Locutus est autem Dominus ad Moysen, dicens :
+**[6:24]** Locutus est autem Dominus ad Moysen, dicens:
 
 **[6:25]** Loquere Aaron et filiis eius: Ista est lex hostiæ pro peccato: In loco ubi offertur holocaustum, immolabitur coram Domino. Sanctum sanctorum est.
 
@@ -5946,7 +5946,7 @@
 
 **[6:29]** Omnis masculus de genere sacerdotali vescetur de carnibus eius, quia Sanctum sanctorum est.
 
-**[6:30]** Hostia enim quæ cæditur pro peccato, cuius sanguis infertur in tabernaculum testimonii ad expiandum in Sanctuario, non comedetur, sed comburetur igni. 
+**[6:30]** Hostia enim quæ cæditur pro peccato, cuius sanguis infertur in tabernaculum testimonii ad expiandum in Sanctuario, non comedetur, sed comburetur igni.
 
 ### Chapter 7
 
@@ -6024,7 +6024,7 @@
 
 **[7:37]** Ista est lex holocausti, et sacrificii pro peccato atque delicto, et pro consecratione et pacificorum victimis:
 
-**[7:38]** quam constituit Dominus Moysi in monte Sinai, quando mandabit filiis Israel ut offerrent oblationes suas Domino in deserto Sinai. 
+**[7:38]** quam constituit Dominus Moysi in monte Sinai, quando mandabit filiis Israel ut offerrent oblationes suas Domino in deserto Sinai.
 
 ### Chapter 8
 
@@ -6098,7 +6098,7 @@
 
 **[8:35]** Die ac nocte manebitis in tabernaculo observantes custodias Domini, ne moriamini: sic enim mihi præceptum est.
 
-**[8:36]** Feceruntque Aaron et filii eius cuncta quæ locutus est Dominus per manum Moysi. 
+**[8:36]** Feceruntque Aaron et filii eius cuncta quæ locutus est Dominus per manum Moysi.
 
 ### Chapter 9
 
@@ -6148,7 +6148,7 @@
 
 **[9:23]** Ingressi autem Moyses et Aaron in tabernaculum testimonii, et deinceps egressi benedixerunt populo. Apparuitque gloria Domini omni multitudini:
 
-**[9:24]** et ecce egressus ignis a Domino, devoravit holocaustum, et adipes qui erant super altare. Quod cum vidissent turbæ, laudaverunt Dominum, ruentes in facies suas. 
+**[9:24]** et ecce egressus ignis a Domino, devoravit holocaustum, et adipes qui erant super altare. Quod cum vidissent turbæ, laudaverunt Dominum, ruentes in facies suas.
 
 ### Chapter 10
 
@@ -6190,7 +6190,7 @@
 
 **[10:19]** Respondit Aaron: Oblata est hodie victima pro peccato, et holocaustum coram Domino: mihi autem accidit quod vides. quomodo potui comedere eam, aut placere Domino in ceremoniis mente lugubri?
 
-**[10:20]** Quod cum audisset Moyses, recepit satisfactionem. 
+**[10:20]** Quod cum audisset Moyses, recepit satisfactionem.
 
 ### Chapter 11
 
@@ -6286,7 +6286,7 @@
 
 **[11:46]** Ista est lex animantium ac volucrum, et omnis animæ viventis, quæ movetur in aqua, et reptat in terra,
 
-**[11:47]** ut differentias noveritis mundi, et immundi, et sciatis quid comedere et quid respuere debeatis. 
+**[11:47]** ut differentias noveritis mundi, et immundi, et sciatis quid comedere et quid respuere debeatis.
 
 ### Chapter 12
 
@@ -6304,7 +6304,7 @@
 
 **[12:7]** qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio sanguinis sui. ista est lex parientis masculum aut feminam.
 
-**[12:8]** Quod si non invenerit manus eius, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato. orabitque pro ea sacerdos, et sic mundabitur. 
+**[12:8]** Quod si non invenerit manus eius, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato. orabitque pro ea sacerdos, et sic mundabitur.
 
 ### Chapter 13
 
@@ -6424,7 +6424,7 @@
 
 **[13:58]** si cessaverit, lavabit aqua ea, quæ pura sunt, secundo, et munda erunt.
 
-**[13:59]** Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari. 
+**[13:59]** Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.
 
 ### Chapter 14
 
@@ -6540,7 +6540,7 @@
 
 **[14:56]** cicatricis et erumpentium papularum, lucentis maculæ, et in varias species, coloribus immutatis,
 
-**[14:57]** ut possit sciri quo tempore mundum quid, vel immundum sit. 
+**[14:57]** ut possit sciri quo tempore mundum quid, vel immundum sit.
 
 ### Chapter 15
 
@@ -6608,7 +6608,7 @@
 
 **[15:32]** Ista est lex eius, qui patitur fluxum seminis, et qui polluitur coitu,
 
-**[15:33]** et quæ menstruis temporibus separatur, vel quæ iugi fluit sanguine, et hominis, qui dormierit cum ea. 
+**[15:33]** et quæ menstruis temporibus separatur, vel quæ iugi fluit sanguine, et hominis, qui dormierit cum ea.
 
 ### Chapter 16
 
@@ -6678,7 +6678,7 @@
 
 **[16:33]** et expiabit Sanctuarium et tabernaculum testimonii atque altare, sacerdotes quoque et universum populum.
 
-**[16:34]** Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis Israel, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut præceperat Dominus Moysi. 
+**[16:34]** Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis Israel, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut præceperat Dominus Moysi.
 
 ### Chapter 17
 
@@ -6712,7 +6712,7 @@
 
 **[17:15]** Anima, quæ comederit morticinum, vel captum a bestia, tam de indigenis, quam de advenis, lavabit vestimenta sua et semetipsum aqua, et contaminatus erit usque ad vesperum: et hoc ordine mundus fiet.
 
-**[17:16]** Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam. 
+**[17:16]** Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.
 
 ### Chapter 18
 
@@ -6774,7 +6774,7 @@
 
 **[18:29]** Omnis anima, quæ fecerit de abominationibus his quippiam, peribit de medio populi sui.
 
-**[18:30]** Custodite mandata mea. Nolite facere quæ fecerunt hi qui fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester. 
+**[18:30]** Custodite mandata mea. Nolite facere quæ fecerunt hi qui fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester.
 
 ### Chapter 19
 
@@ -6850,7 +6850,7 @@
 
 **[19:36]** Statera iusta, et æqua sint pondera, iustus modius, æquusque sextarius. ego Dominus Deus vester, qui eduxi vos de Terra Ægypti.
 
-**[19:37]** Custodite omnia præcepta mea, et universa iudicia, et facite ea. ego Dominus. 
+**[19:37]** Custodite omnia præcepta mea, et universa iudicia, et facite ea. ego Dominus.
 
 ### Chapter 20
 
@@ -6906,7 +6906,7 @@
 
 **[20:26]** Eritis mihi sancti, quia sanctus sum ego Dominus, et separavi vos a ceteris populis, ut essetis mei.
 
-**[20:27]** Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur. lapidibus obruent eos: sanguis eorum sit super illos. 
+**[20:27]** Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur. lapidibus obruent eos: sanguis eorum sit super illos.
 
 ### Chapter 21
 
@@ -6956,7 +6956,7 @@
 
 **[21:23]** ita dumtaxat, ut intra velum non ingrediatur, nec accedat ad altare, quia maculam habet, et contaminare non debet Sanctuarium meum. Ego Dominus qui sanctifico eos.
 
-**[21:24]** Locutus est ergo Moyses ad Aaron, et ad filios eius, et ad omnem Israel cuncta quæ fuerant sibi imperata. 
+**[21:24]** Locutus est ergo Moyses ad Aaron, et ad filios eius, et ad omnem Israel cuncta quæ fuerant sibi imperata.
 
 ### Chapter 22
 
@@ -7024,7 +7024,7 @@
 
 **[22:32]** Ne polluatis nomen meum sanctum, ut sanctificer in medio filiorum Israel. Ego Dominus qui sanctifico vos,
 
-**[22:33]** et eduxi de Terra Ægypti, ut essem vobis in Deum. ego Dominus. 
+**[22:33]** et eduxi de Terra Ægypti, ut essem vobis in Deum. ego Dominus.
 
 ### Chapter 23
 
@@ -7114,7 +7114,7 @@
 
 **[23:43]** ut discant posteri vestri quod in tabernaculis habitare fecerim filios Israel, cum educerem eos de Terra Ægypti. ego Dominus Deus vester.
 
-**[23:44]** Locutusque est Moyses super sollemnitatibus Domini ad filios Israel. 
+**[23:44]** Locutusque est Moyses super sollemnitatibus Domini ad filios Israel.
 
 ### Chapter 24
 
@@ -7162,7 +7162,7 @@
 
 **[24:22]** Æquum iudicium sit inter vos, sive peregrinus, sive civis peccaverit: quia ego sum Dominus Deus vester.
 
-**[24:23]** Locutusque est Moyses ad filios Israel: et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israel sicut præceperat Dominus Moysi. 
+**[24:23]** Locutusque est Moyses ad filios Israel: et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israel sicut præceperat Dominus Moysi.
 
 ### Chapter 25
 
@@ -7274,7 +7274,7 @@
 
 **[25:54]** Quod si per hæc redimi non potuerit, anno iubileo egredietur cum liberis suis.
 
-**[25:55]** Mei enim sunt servi, filii Israel, quos eduxi de Terra Ægypti. 
+**[25:55]** Mei enim sunt servi, filii Israel, quos eduxi de Terra Ægypti.
 
 ### Chapter 26
 
@@ -7366,7 +7366,7 @@
 
 **[26:44]** Et tamen etiam cum essent in terra hostili, non penitus abieci eos, neque sic despexi ut consumerentur, et irritum facerent pactum meum cum eis. Ego enim sum Dominus Deus eorum,
 
-**[26:45]** et recordabor fœderis mei pristini, quando eduxi eos de Terra Ægypti in conspectu Gentium, ut essem Deus eorum. ego Dominus. Hæc sunt iudicia atque præcepta et leges, quas dedit Dominus inter se et filios Israel in monte Sinai per manum Moysi. 
+**[26:45]** et recordabor fœderis mei pristini, quando eduxi eos de Terra Ægypti in conspectu Gentium, ut essem Deus eorum. ego Dominus. Hæc sunt iudicia atque præcepta et leges, quas dedit Dominus inter se et filios Israel in monte Sinai per manum Moysi.
 
 ### Chapter 27
 
@@ -7436,7 +7436,7 @@
 
 **[27:33]** Non eligetur nec bonum nec malum, nec altero commutabitur. si quis mutaverit: et quod mutatum est, et pro quo mutatum est, sanctificabitur Domino, et non redimetur.
 
-**[27:34]** Hæc sunt præcepta, quæ mandavit Dominus Moysi ad filios Israel in monte Sinai.  
+**[27:34]** Hæc sunt præcepta, quæ mandavit Dominus Moysi ad filios Israel in monte Sinai.
 
 ## Numbers
 
@@ -7548,7 +7548,7 @@
 
 **[1:53]** Porro Levitæ per gyrum tabernaculi figent tentoria, ne fiat indignatio super multitudinem filiorum Israel, et excubabunt in custodiis tabernaculi testimonii.
 
-**[1:54]** Fecerunt ergo filii Israel iuxta omnia quæ præceperat Dominus Moysi. 
+**[1:54]** Fecerunt ergo filii Israel iuxta omnia quæ præceperat Dominus Moysi.
 
 ### Chapter 2
 
@@ -7618,7 +7618,7 @@
 
 **[2:33]** Levitæ autem non sunt numerati inter filios Israel: sic enim præceperat Dominus Moysi.
 
-**[2:34]** Feceruntque filii Israel iuxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum. 
+**[2:34]** Feceruntque filii Israel iuxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.
 
 ### Chapter 3
 
@@ -7722,7 +7722,7 @@
 
 **[3:50]** pro primogenitis filiorum Israel, mille trecentorum sexagintaquinque siclorum iuxta pondus Sanctuarii,
 
-**[3:51]** et dedit eam Aaron et filiis eius iuxta verbum quod præceperat sibi Dominus. 
+**[3:51]** et dedit eam Aaron et filiis eius iuxta verbum quod præceperat sibi Dominus.
 
 ### Chapter 4
 
@@ -7822,7 +7822,7 @@
 
 **[4:48]** fuerunt simul octo millia quingenti octoginta.
 
-**[4:49]** Iuxta verbum Domini recensuit eos Moyses, unumquemque iuxta officium et onera sua, sicut præceperat ei Dominus. 
+**[4:49]** Iuxta verbum Domini recensuit eos Moyses, unumquemque iuxta officium et onera sua, sicut præceperat ei Dominus.
 
 ### Chapter 5
 
@@ -7886,7 +7886,7 @@
 
 **[5:30]** maritusque zelotypiæ spiritu concitatus adduxerit eam in conspectu Domini, et fecerit ei sacerdos iuxta omnia quæ scripta sunt:
 
-**[5:31]** maritus absque culpa erit, et illa recipiet iniquitatem suam. 
+**[5:31]** maritus absque culpa erit, et illa recipiet iniquitatem suam.
 
 ### Chapter 6
 
@@ -7942,7 +7942,7 @@
 
 **[6:26]** Convertat Dominus vultum suum ad te, et det tibi pacem.
 
-**[6:27]** Invocabuntque nomen meum super filios Israel, et ego benedicam eis. 
+**[6:27]** Invocabuntque nomen meum super filios Israel, et ego benedicam eis.
 
 ### Chapter 7
 
@@ -8122,7 +8122,7 @@
 
 **[7:88]** In hostias pacificorum, boves viginti quattuor, arietes sexaginta, hirci sexaginta, agni anniculi sexaginta. Hæc oblata sunt in dedicatione altaris, quando unctum est.
 
-**[7:89]** Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei. 
+**[7:89]** Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos Cherubim, unde et loquebatur ei.
 
 ### Chapter 8
 
@@ -8176,7 +8176,7 @@
 
 **[8:25]** Cumque quinquagesimum annum ætatis impleverint, servire cessabunt:
 
-**[8:26]** eruntque ministri fratrum suorum in tabernaculo fœderis, ut custodiant quæ sibi fuerunt commendata, opera autem ipsa non faciant. Sic dispones Levitis in custodiis suis. 
+**[8:26]** eruntque ministri fratrum suorum in tabernaculo fœderis, ut custodiant quæ sibi fuerunt commendata, opera autem ipsa non faciant. Sic dispones Levitis in custodiis suis.
 
 ### Chapter 9
 
@@ -8224,7 +8224,7 @@
 
 **[9:22]** Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, manebant filii Israel in eodem loco, et non proficiscebantur: statim autem ut recessisset, movebant castra.
 
-**[9:23]** Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini iuxta imperium eius per manum Moysi. 
+**[9:23]** Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini iuxta imperium eius per manum Moysi.
 
 ### Chapter 10
 
@@ -8298,7 +8298,7 @@
 
 **[10:35]** Cumque elevaretur arca, dicebat Moyses: Surge Domine, et dissipentur inimici tui, et fugiant qui oderunt te, a facie tua.
 
-**[10:36]** Cum autem deponeretur, aiebat: Revertere Domine, ad multitudinem exercitus Israel. 
+**[10:36]** Cum autem deponeretur, aiebat: Revertere Domine, ad multitudinem exercitus Israel.
 
 ### Chapter 11
 
@@ -8368,7 +8368,7 @@
 
 **[11:33]** Adhuc carnes erant in dentibus eorum, nec defecerat huiuscemodi cibus: et ecce furor Domini concitatus in populum, percussit eum plaga magna nimis.
 
-**[11:34]** Vocatusque est ille locus, Sepulchra concupiscentiæ: ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiæ, venerunt in Haseroth, et manserunt ibi. 
+**[11:34]** Vocatusque est ille locus, Sepulchra concupiscentiæ: ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiæ, venerunt in Haseroth, et manserunt ibi.
 
 ### Chapter 12
 
@@ -8400,7 +8400,7 @@
 
 **[12:14]** Cui respondit Dominus: Si pater eius spuisset in faciem illius, nonne debuerat saltem septem diebus rubore suffundi? Separetur septem diebus extra castra, et postea revocabitur.
 
-**[12:15]** Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria. 
+**[12:15]** Exclusa est itaque Maria extra castra septem diebus: et populus non est motus de loco illo, donec revocata est Maria.
 
 ### Chapter 13
 
@@ -8470,7 +8470,7 @@
 
 **[13:33]** Detraxeruntque Terræ, quam inspexerant, apud filios Israel, dicentes: Terra, quam lustravimus, devorat habitatores suos: populus, quem aspeximus, proceræ staturæ est.
 
-**[13:34]** Ibi vidimus monstra quædam filiorum Enac de genere giganteo: quibus comparati, quasi locustæ videbamur. 
+**[13:34]** Ibi vidimus monstra quædam filiorum Enac de genere giganteo: quibus comparati, quasi locustæ videbamur.
 
 ### Chapter 14
 
@@ -8562,7 +8562,7 @@
 
 **[14:44]** At illi contenebrati ascenderunt in verticem montis. Arca autem testamenti Domini et Moyses non recesserunt de castris.
 
-**[14:45]** Descenditque Amalecites et Chananæus, qui habitabat in monte: et percutiens eos atque concidens, persecutus est eos usque Horma. 
+**[14:45]** Descenditque Amalecites et Chananæus, qui habitabat in monte: et percutiens eos atque concidens, persecutus est eos usque Horma.
 
 ### Chapter 15
 
@@ -8646,7 +8646,7 @@
 
 **[15:40]** sed magis memores præceptorum Domini faciant ea, sintque sancti Deo suo.
 
-**[15:41]** Ego Dominus Deus vester, qui eduxi vos de Terra Ægypti, ut essem Deus vester. 
+**[15:41]** Ego Dominus Deus vester, qui eduxi vos de Terra Ægypti, ut essem Deus vester.
 
 ### Chapter 16
 
@@ -8748,7 +8748,7 @@
 
 **[16:49]** Fuerunt autem qui percussi sunt, quattuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.
 
-**[16:50]** Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus. 
+**[16:50]** Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.
 
 ### Chapter 17
 
@@ -8776,7 +8776,7 @@
 
 **[17:12]** Dixerunt autem filii Israel ad Moysen: Ecce consumpti sumus, omnes perivimus.
 
-**[17:13]** quicumque accedit ad tabernaculum Domini, moritur. num usque ad internecionem cuncti delendi sumus? 
+**[17:13]** quicumque accedit ad tabernaculum Domini, moritur. num usque ad internecionem cuncti delendi sumus?
 
 ### Chapter 18
 
@@ -8842,7 +8842,7 @@
 
 **[18:31]** et comedetis eas in omnibus locis vestris, tam vos quam familiæ vestræ: quia pretium est pro ministerio, quo servitis in tabernaculo testimonii.
 
-**[18:32]** Et non peccabitis super hoc, egregia vobis et pinguia reservantes ne polluatis oblationes filiorum Israel, et moriamini. 
+**[18:32]** Et non peccabitis super hoc, egregia vobis et pinguia reservantes ne polluatis oblationes filiorum Israel, et moriamini.
 
 ### Chapter 19
 
@@ -8888,7 +8888,7 @@
 
 **[19:21]** erit hoc præceptum legitimum sempiternum. Ipse quoque qui aspergit aquas, lavabit vestimenta sua: Omnis qui tetigerit aquas expiationis, immundus erit usque ad vesperum.
 
-**[19:22]** Quidquid tetigerit immundus, immundum faciet: et anima, quæ horum quippiam tetigerit, immunda erit usque ad vesperum. 
+**[19:22]** Quidquid tetigerit immundus, immundum faciet: et anima, quæ horum quippiam tetigerit, immunda erit usque ad vesperum.
 
 ### Chapter 20
 
@@ -8950,7 +8950,7 @@
 
 **[20:29]** Illo mortuo in montis supercilio, descendit cum Eleazaro.
 
-**[20:30]** Omnis autem multitudo videns occubuisse Aaron, flevit super eo triginta diebus per cunctas familias suas. 
+**[20:30]** Omnis autem multitudo videns occubuisse Aaron, flevit super eo triginta diebus per cunctas familias suas.
 
 ### Chapter 21
 
@@ -9022,7 +9022,7 @@
 
 **[21:34]** Dixitque Dominus ad Moysen: Ne timeas eum, quia in manu tua tradidi illum, et omnem populum, ac terram eius: faciesque illi sicut fecisti Sehon regi Amorrhæorum habitatori Hesebon.
 
-**[21:35]** Percusserunt igitur et hunc cum filiis suis, universumque populum eius usque ad internecionem, et possederunt terram illius. 
+**[21:35]** Percusserunt igitur et hunc cum filiis suis, universumque populum eius usque ad internecionem, et possederunt terram illius.
 
 ### Chapter 22
 
@@ -9106,7 +9106,7 @@
 
 **[22:40]** Cumque occidisset Balac boves et oves, misit ad Balaam, et principes qui cum eo erant, munera.
 
-**[22:41]** Mane autem facto duxit eum ad excelsa Baal, et intuitus est extremam partem populi. 
+**[22:41]** Mane autem facto duxit eum ad excelsa Baal, et intuitus est extremam partem populi.
 
 ### Chapter 23
 
@@ -9168,7 +9168,7 @@
 
 **[23:29]** dixit ei Balaam: Ædifica mihi hic septem aras, et para totidem vitulos, eiusdemque numeri arietes.
 
-**[23:30]** Fecit Balac ut Balaam dixerat: imposuitque vitulos et arietes per singulas aras. 
+**[23:30]** Fecit Balac ut Balaam dixerat: imposuitque vitulos et arietes per singulas aras.
 
 ### Chapter 24
 
@@ -9220,7 +9220,7 @@
 
 **[24:24]** Venient in trieribus de Italia, superabunt Assyrios, vastabuntque Hebræos, et ad extremum etiam ipsi peribunt.
 
-**[24:25]** Surrexitque Balaam, et reversus est in locum suum: Balac quoque via, qua venerat, rediit. 
+**[24:25]** Surrexitque Balaam, et reversus est in locum suum: Balac quoque via, qua venerat, rediit.
 
 ### Chapter 25
 
@@ -9258,7 +9258,7 @@
 
 **[25:17]** Hostes vos sentiant Madianitæ, et percutite eos:
 
-**[25:18]** quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quæ percussa est in die plagæ pro sacrilegio Phogor. 
+**[25:18]** quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quæ percussa est in die plagæ pro sacrilegio Phogor.
 
 ### Chapter 26
 
@@ -9390,7 +9390,7 @@
 
 **[26:64]** inter quos nullus fuit eorum, qui ante numerati sunt a Moyse et Aaron in deserto Sinai:
 
-**[26:65]** Prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun. 
+**[26:65]** Prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Iephone, et Iosue filius Nun.
 
 ### Chapter 27
 
@@ -9438,7 +9438,7 @@
 
 **[27:22]** Fecit Moyses ut præceperat Dominus. Cumque tulisset Iosue, statuit eum coram Eleazaro sacerdote et omni frequentia populi.
 
-**[27:23]** Et impositis capiti eius manibus, cuncta replicavit quæ mandaverat Dominus. 
+**[27:23]** Et impositis capiti eius manibus, cuncta replicavit quæ mandaverat Dominus.
 
 ### Chapter 28
 
@@ -9502,7 +9502,7 @@
 
 **[28:30]** qui mactatur pro expiatione: præter holocaustum sempiternum et liba eius.
 
-**[28:31]** Immaculata offeretis omnia cum libationibus suis. 
+**[28:31]** Immaculata offeretis omnia cum libationibus suis.
 
 ### Chapter 29
 
@@ -9582,7 +9582,7 @@
 
 **[29:38]** et hircum pro peccato, absque holocausto sempiterno, sacrificioque eius et libamine.
 
-**[29:39]** Hæc offeretis Domino in sollemnitatibus vestris: præter vota et oblationes spontaneas in holocausto, in sacrificio, in libamine, et in hostiis pacificis. 
+**[29:39]** Hæc offeretis Domino in sollemnitatibus vestris: præter vota et oblationes spontaneas in holocausto, in sacrificio, in libamine, et in hostiis pacificis.
 
 ### Chapter 30
 
@@ -9618,7 +9618,7 @@
 
 **[30:16]** sin autem contradixerit postquam rescivit, portabit ipse iniquitatem eius.
 
-**[30:17]** Istæ sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quæ in puellari adhuc ætate est, vel quæ manet in parentis domo. 
+**[30:17]** Istæ sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quæ in puellari adhuc ætate est, vel quæ manet in parentis domo.
 
 ### Chapter 31
 
@@ -9728,7 +9728,7 @@
 
 **[31:53]** Unusquisque enim quod in præda rapuerat, suum erat.
 
-**[31:54]** Et susceptum intulerunt in tabernaculum testimonii, in monimentum filiorum Israel coram Domino. 
+**[31:54]** Et susceptum intulerunt in tabernaculum testimonii, in monimentum filiorum Israel coram Domino.
 
 ### Chapter 32
 
@@ -9814,7 +9814,7 @@
 
 **[32:41]** Iair autem filius Manasse abiit et occupavit vicos eius, quos appellavit Havoth Iair, id est, Villas Iair.
 
-**[32:42]** Nobe quoque perrexit, et apprehendit Chanath cum viculis suis: vocavitque eam ex nomine suo Nobe. 
+**[32:42]** Nobe quoque perrexit, et apprehendit Chanath cum viculis suis: vocavitque eam ex nomine suo Nobe.
 
 ### Chapter 33
 
@@ -9928,7 +9928,7 @@
 
 **[33:55]** Sin autem nolueritis interficere habitatores Terræ: qui remanserint, erunt vobis quasi clavi in oculis, et lanceæ in lateribus, et adversabuntur vobis in Terra habitationis vestræ:
 
-**[33:56]** et quidquid illis cogitaveram facere, vobis faciam. 
+**[33:56]** et quidquid illis cogitaveram facere, vobis faciam.
 
 ### Chapter 34
 
@@ -9988,7 +9988,7 @@
 
 **[34:28]** De tribu Nephthali, Phedael filius Ammiud.
 
-**[34:29]** Hi sunt, quibus præcepit Dominus ut dividerent filiis Israel Terram Chanaan. 
+**[34:29]** Hi sunt, quibus præcepit Dominus ut dividerent filiis Israel Terram Chanaan.
 
 ### Chapter 35
 
@@ -10058,7 +10058,7 @@
 
 **[35:33]** ne polluatis terram habitationis vestræ, quæ insontium cruore maculatur: nec aliter expiari potest, nisi per eius sanguinem, qui alterius sanguinem fuderit.
 
-**[35:34]** Atque ita emundabitur vestra possessio, me commorante vobiscum. ego enim sum Dominus qui habito inter filios Israel. 
+**[35:34]** Atque ita emundabitur vestra possessio, me commorante vobiscum. ego enim sum Dominus qui habito inter filios Israel.
 
 ### Chapter 36
 
@@ -10086,7 +10086,7 @@
 
 **[36:12]** de familia Manasse, qui fuit filius Ioseph: et possessio, quæ illis fuerat attributa, mansit in tribu et familia patris earum.
 
-**[36:13]** Hæc sunt mandata atque iudicia, quæ mandavit Dominus per manum Moysi ad filios Israel, in campestribus Moab supra Iordanem contra Iericho.  
+**[36:13]** Hæc sunt mandata atque iudicia, quæ mandavit Dominus per manum Moysi ad filios Israel, in campestribus Moab supra Iordanem contra Iericho.
 
 ## Deuteronomy
 
@@ -10182,7 +10182,7 @@
 
 **[1:45]** Cumque reversi ploraretis coram Domino, non audivit vos, nec voci vestræ voluit acquiescere.
 
-**[1:46]** Sedistis ergo in Cadesbarne multo tempore. 
+**[1:46]** Sedistis ergo in Cadesbarne multo tempore.
 
 ### Chapter 2
 
@@ -10258,7 +10258,7 @@
 
 **[2:36]** ab Aroer, quæ est super ripam torrentis Arnon, oppido quod in valle situm est, usque Galaad. Non fuit vicus et civitas, quæ nostras effugeret manus: omnes tradidit Dominus Deus noster nobis.
 
-**[2:37]** Absque terra filiorum Ammon, ad quam non accessimus: et cunctis quæ adiacent torrenti Ieboc, et urbibus montanis, universisque locis, a quibus nos prohibuit Dominus Deus noster. 
+**[2:37]** Absque terra filiorum Ammon, ad quam non accessimus: et cunctis quæ adiacent torrenti Ieboc, et urbibus montanis, universisque locis, a quibus nos prohibuit Dominus Deus noster.
 
 ### Chapter 3
 
@@ -10318,7 +10318,7 @@
 
 **[3:28]** Præcipe Iosue, et corrobora eum atque conforta: quia ipse præcedet populum istum, et dividet eis Terram, quam visurus es.
 
-**[3:29]** Mansimusque in valle contra fanum Phogor. 
+**[3:29]** Mansimusque in valle contra fanum Phogor.
 
 ### Chapter 4
 
@@ -10418,7 +10418,7 @@
 
 **[4:48]** Ab Aroer, quæ sita est super ripam torrentis Arnon, usque ad montem Sion, qui est et Hermon,
 
-**[4:49]** omnem planitiem trans Iordanem ad Orientalem plagam, usque ad mare solitudinis, et usque ad radices montis Phasga. 
+**[4:49]** omnem planitiem trans Iordanem ad Orientalem plagam, usque ad mare solitudinis, et usque ad radices montis Phasga.
 
 ### Chapter 5
 
@@ -10486,7 +10486,7 @@
 
 **[5:32]** Custodite igitur et facite quæ præcepit Dominus Deus vobis: non declinabitis neque ad dexteram, neque ad sinistram:
 
-**[5:33]** sed per viam, quam præcepit Dominus Deus vester, ambulabitis, ut vivatis, et bene sit vobis, et protelentur dies in terra possessionis vestræ. 
+**[5:33]** sed per viam, quam præcepit Dominus Deus vester, ambulabitis, ut vivatis, et bene sit vobis, et protelentur dies in terra possessionis vestræ.
 
 ### Chapter 6
 
@@ -10538,7 +10538,7 @@
 
 **[6:24]** Præcepitque nobis Dominus ut faciamus omnia legitima hæc, et timeamus Dominum Deum nostrum, ut bene sit nobis cunctis diebus vitæ nostræ, sicut est hodie.
 
-**[6:25]** Eritque nostri misericors, si custodierimus et fecerimus omnia præcepta eius coram Domino Deo nostro, sicut mandavit nobis. 
+**[6:25]** Eritque nostri misericors, si custodierimus et fecerimus omnia præcepta eius coram Domino Deo nostro, sicut mandavit nobis.
 
 ### Chapter 7
 
@@ -10592,7 +10592,7 @@
 
 **[7:25]** Sculptilia eorum igne combures: non concupisces argentum et aurum, de quibus facta sunt, neque assumes ex eis tibi quidquam, ne offendas, propterea quia abominatio est Domini tui.
 
-**[7:26]** Nec inferes quippiam ex idolo in domum tuam, ne fias anathema, sicut et illud est. Quasi spurcitiam detestaberis, et velut inquinamentum ac sordes abominationi habebis, quia anathema est. 
+**[7:26]** Nec inferes quippiam ex idolo in domum tuam, ne fias anathema, sicut et illud est. Quasi spurcitiam detestaberis, et velut inquinamentum ac sordes abominationi habebis, quia anathema est.
 
 ### Chapter 8
 
@@ -10634,7 +10634,7 @@
 
 **[8:19]** Sin autem oblitus Domini Dei tui, secutus fueris deos alienos, coluerisque illos et adoraveris: ecce nunc prædico tibi quod omnino dispereas.
 
-**[8:20]** Sicut Gentes, quas delevit Dominus in introitu tuo, ita et vos peribitis, si inobedientes fueritis voci Domini Dei vestri. 
+**[8:20]** Sicut Gentes, quas delevit Dominus in introitu tuo, ita et vos peribitis, si inobedientes fueritis voci Domini Dei vestri.
 
 ### Chapter 9
 
@@ -10694,7 +10694,7 @@
 
 **[9:28]** ne forte dicant habitatores terræ, de qua eduxisti nos: Non poterat Dominus introducere eos in Terram, quam pollicitus est eis, et oderat illos: idcirco eduxit, ut interficeret eos in solitudine.
 
-**[9:29]** qui sunt populus tuus et hereditas tua, quos eduxisti in fortitudine tua magna, et in brachio tuo extento. 
+**[9:29]** qui sunt populus tuus et hereditas tua, quos eduxisti in fortitudine tua magna, et in brachio tuo extento.
 
 ### Chapter 10
 
@@ -10740,7 +10740,7 @@
 
 **[10:21]** Ipse est laus tua, et Deus tuus, qui fecit tibi hæc magnalia et terribilia, quæ viderunt oculi tui.
 
-**[10:22]** In septuaginta animabus descenderunt patres tui in Ægyptum: et ecce nunc multiplicavit te Dominus Deus tuus sicut astra cæli. 
+**[10:22]** In septuaginta animabus descenderunt patres tui in Ægyptum: et ecce nunc multiplicavit te Dominus Deus tuus sicut astra cæli.
 
 ### Chapter 11
 
@@ -10806,7 +10806,7 @@
 
 **[11:31]** Vos enim transibitis Iordanem, ut possideatis Terram, quam Dominus Deus vester daturus est vobis, ut habeatis et possideatis illam.
 
-**[11:32]** Videte ergo ut impleatis ceremonias atque iudicia, quæ ego hodie ponam in conspectu vestro. 
+**[11:32]** Videte ergo ut impleatis ceremonias atque iudicia, quæ ego hodie ponam in conspectu vestro.
 
 ### Chapter 12
 
@@ -10872,7 +10872,7 @@
 
 **[12:31]** Non facies similiter Domino Deo tuo. Omnes enim abominationes, quas aversatur Dominus, fecerunt diis suis, offerentes filios et filias, et comburentes igni.
 
-**[12:32]** Quod præcipio tibi, hoc tantum facito Domino: nec addas quidquam, nec minuas. 
+**[12:32]** Quod præcipio tibi, hoc tantum facito Domino: nec addas quidquam, nec minuas.
 
 ### Chapter 13
 
@@ -10910,7 +10910,7 @@
 
 **[13:17]** et non adhærebit de illo anathemate quidquam in manu tua: ut avertatur Dominus ab ira furoris sui, et misereatur tui, multiplicetque te sicut iuravit patribus tuis,
 
-**[13:18]** quando audieris vocem Domini Dei tui, custodiens omnia præcepta eius, quæ ego præcipio tibi hodie, ut facias quod placitum est in conspectu Domini Dei tui. 
+**[13:18]** quando audieris vocem Domini Dei tui, custodiens omnia præcepta eius, quæ ego præcipio tibi hodie, ut facias quod placitum est in conspectu Domini Dei tui.
 
 ### Chapter 14
 
@@ -10970,7 +10970,7 @@
 
 **[14:28]** Anno tertio separabis aliam decimam ex omnibus quæ nascuntur tibi eo tempore: et repones intra ianuas tuas.
 
-**[14:29]** Venietque Levites qui aliam non habet partem nec possessionem tecum, et peregrinus ac pupillus et vidua, qui intra portas tuas sunt, et comedent et saturabuntur: ut benedicat tibi Dominus Deus tuus in cunctis operibus manuum tuarum quæ feceris. 
+**[14:29]** Venietque Levites qui aliam non habet partem nec possessionem tecum, et peregrinus ac pupillus et vidua, qui intra portas tuas sunt, et comedent et saturabuntur: ut benedicat tibi Dominus Deus tuus in cunctis operibus manuum tuarum quæ feceris.
 
 ### Chapter 15
 
@@ -11018,7 +11018,7 @@
 
 **[15:22]** sed intra portas urbis tuæ comedes illud: tam mundus quam immundus similiter vescentur eis quasi caprea, et cervo.
 
-**[15:23]** Hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam. 
+**[15:23]** Hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam.
 
 ### Chapter 16
 
@@ -11064,7 +11064,7 @@
 
 **[16:21]** Non plantabis lucum, et omnem arborem iuxta altare Domini Dei tui.
 
-**[16:22]** Nec facies tibi, neque constitues statuam: quæ odit Dominus Deus tuus. 
+**[16:22]** Nec facies tibi, neque constitues statuam: quæ odit Dominus Deus tuus.
 
 ### Chapter 17
 
@@ -11106,7 +11106,7 @@
 
 **[17:19]** et habebit secum, legetque illud omnibus diebus vitæ suæ, ut discat timere Dominum Deum suum, et custodire verba et ceremonias eius, quæ in lege præcepta sunt.
 
-**[17:20]** Nec elevetur cor eius in superbiam super fratres suos, neque declinet in partem dexteram vel sinistram, ut longo tempore regnet ipse, et filii eius super Israel. 
+**[17:20]** Nec elevetur cor eius in superbiam super fratres suos, neque declinet in partem dexteram vel sinistram, ut longo tempore regnet ipse, et filii eius super Israel.
 
 ### Chapter 18
 
@@ -11152,7 +11152,7 @@
 
 **[18:21]** Quod si tacita cogitatione responderis: Quo modo possum intelligere verbum, quod Dominus non est locutus?
 
-**[18:22]** hoc habebis signum: Quod in nomine Domini propheta ille prædixerit, et non evenerit: hoc Dominus non est locutus, sed per tumorem animi sui propheta confinxit: et idcirco non timebis eum. 
+**[18:22]** hoc habebis signum: Quod in nomine Domini propheta ille prædixerit, et non evenerit: hoc Dominus non est locutus, sed per tumorem animi sui propheta confinxit: et idcirco non timebis eum.
 
 ### Chapter 19
 
@@ -11196,7 +11196,7 @@
 
 **[19:20]** ut audientes ceteri timorem habeant, et nequaquam talia audeant facere.
 
-**[19:21]** Non misereberis eius, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges. 
+**[19:21]** Non misereberis eius, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.
 
 ### Chapter 20
 
@@ -11238,7 +11238,7 @@
 
 **[20:19]** Quando obsederis civitatem multo tempore, et munitionibus circumdederis ut expugnes eam, non succides arbores, de quibus vesci potest, nec securibus per circuitum debes vastare regionem: quoniam lignum est, et non homo, nec potest bellantium contra te augere numerum.
 
-**[20:20]** Si qua autem ligna non sunt pomifera, sed agrestia, et in ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quæ contra te dimicat. 
+**[20:20]** Si qua autem ligna non sunt pomifera, sed agrestia, et in ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quæ contra te dimicat.
 
 ### Chapter 21
 
@@ -11286,7 +11286,7 @@
 
 **[21:22]** Quando peccaverit homo quod morte plectendum est, et adiudicatus morti appensus fuerit in patibulo:
 
-**[21:23]** non permanebit cadaver eius in ligno, sed in eadem die sepelietur: quia maledictus a Deo est qui pendet in ligno: et nequaquam contaminabis Terram tuam, quam Dominus Deus tuus dederit tibi in possessionem. 
+**[21:23]** non permanebit cadaver eius in ligno, sed in eadem die sepelietur: quia maledictus a Deo est qui pendet in ligno: et nequaquam contaminabis Terram tuam, quam Dominus Deus tuus dederit tibi in possessionem.
 
 ### Chapter 22
 
@@ -11348,7 +11348,7 @@
 
 **[22:29]** dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam: non poterit dimittere eam cunctis diebus vitæ suæ.
 
-**[22:30]** Non accipiet homo uxorem patris sui, nec revelabit operimentum eius. 
+**[22:30]** Non accipiet homo uxorem patris sui, nec revelabit operimentum eius.
 
 ### Chapter 23
 
@@ -11400,7 +11400,7 @@
 
 **[23:24]** Ingressus vineam proximi tui, comede uvas quantum tibi placuerit: foras autem ne efferas tecum.
 
-**[23:25]** Si intraveris in segetem amici tui, franges spicas, et manu conteres: falce autem non metes. 
+**[23:25]** Si intraveris in segetem amici tui, franges spicas, et manu conteres: falce autem non metes.
 
 ### Chapter 24
 
@@ -11446,7 +11446,7 @@
 
 **[24:21]** Si vindemiaveris vineam tuam, non colliges remanentes racemos, sed cedent in usus advenæ, pupilli, ac viduæ.
 
-**[24:22]** Memento quod et tu servieris in Ægypto, et idcirco præcipio tibi ut facias hanc rem. 
+**[24:22]** Memento quod et tu servieris in Ægypto, et idcirco præcipio tibi ut facias hanc rem.
 
 ### Chapter 25
 
@@ -11486,7 +11486,7 @@
 
 **[25:18]** quomodo occurrerit tibi: et extremos agminis tui, qui lassi residebant, ceciderit, quando tu eras fame et labore confectus, et non timuerit Deum.
 
-**[25:19]** Cum ergo Dominus Deus tuus dederit tibi requiem, et subiecerit cunctas per circuitum nationes in Terra, quam tibi pollicitus est: delebis nomen eius sub cælo. Cave ne obliviscaris. 
+**[25:19]** Cum ergo Dominus Deus tuus dederit tibi requiem, et subiecerit cunctas per circuitum nationes in Terra, quam tibi pollicitus est: delebis nomen eius sub cælo. Cave ne obliviscaris.
 
 ### Chapter 26
 
@@ -11526,7 +11526,7 @@
 
 **[26:18]** et Dominus elegit te hodie ut sis ei populus peculiaris, sicut locutus est tibi, et custodias omnia præcepta illius:
 
-**[26:19]** et faciat te excelsiorem cunctis gentibus quas creavit, in laudem, et nomen, et gloriam suam: ut sis populus sanctus Domini Dei tui, sicut locutus est. 
+**[26:19]** et faciat te excelsiorem cunctis gentibus quas creavit, in laudem, et nomen, et gloriam suam: ut sis populus sanctus Domini Dei tui, sicut locutus est.
 
 ### Chapter 27
 
@@ -11580,7 +11580,7 @@
 
 **[27:25]** Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis. et dicet omnis populus: Amen.
 
-**[27:26]** Maledictus qui non permanet in sermonibus legis huius, nec eos opere perficit. et dicet omnis populus: Amen. 
+**[27:26]** Maledictus qui non permanet in sermonibus legis huius, nec eos opere perficit. et dicet omnis populus: Amen.
 
 ### Chapter 28
 
@@ -11718,7 +11718,7 @@
 
 **[28:67]** Mane dices: Quis mihi det vesperum? et vespere: Quis mihi det mane? propter cordis tui formidinem, qua terreberis, et propter ea, quæ tuis videbis oculis.
 
-**[28:68]** Reducet te Dominus classibus in Ægyptum per viam, de qua dixit tibi ut eam amplius non videres. Ibi venderis inimicis tuis in servos et ancillas, et non erit qui emat. 
+**[28:68]** Reducet te Dominus classibus in Ægyptum per viam, de qua dixit tibi ut eam amplius non videres. Ibi venderis inimicis tuis in servos et ancillas, et non erit qui emat.
 
 ### Chapter 29
 
@@ -11778,7 +11778,7 @@
 
 **[29:28]** et eiecit eos de terra sua in ira et in furore, et in indignatione maxima, proiecitque in terram alienam, sicut hodie comprobatur.
 
-**[29:29]** Abscondita, Domino Deo nostro: quæ manifesta sunt, nobis et filiis nostris usque in sempiternum, ut faciamus universa verba legis huius. 
+**[29:29]** Abscondita, Domino Deo nostro: quæ manifesta sunt, nobis et filiis nostris usque in sempiternum, ut faciamus universa verba legis huius.
 
 ### Chapter 30
 
@@ -11820,7 +11820,7 @@
 
 **[30:19]** Testes invoco hodie cælum et terram, quod proposuerim vobis vitam et mortem, benedictionem et maledictionem. Elige ergo vitam, ut et tu vivas, et semen tuum:
 
-**[30:20]** et diligas Dominum Deum tuum, atque obedias voci eius, et illi adhæreas (ipse est enim vita tua, et longitudo dierum tuorum) ut habites in Terra, pro qua iuravit Dominus patribus tuis, Abraham, Isaac, et Iacob, ut daret eam illis. 
+**[30:20]** et diligas Dominum Deum tuum, atque obedias voci eius, et illi adhæreas (ipse est enim vita tua, et longitudo dierum tuorum) ut habites in Terra, pro qua iuravit Dominus patribus tuis, Abraham, Isaac, et Iacob, ut daret eam illis.
 
 ### Chapter 31
 
@@ -11882,7 +11882,7 @@
 
 **[31:29]** Novi enim quod post mortem meam inique agetis, et declinabitis cito de via, quam præcepi vobis: et occurrent vobis mala in extremo tempore, quando feceritis malum in conspectu Domini, ut irritetis eum per opera manuum vestrarum.
 
-**[31:30]** Locutus est ergo Moyses, audiente universo cœtu Israel, verba carminis huius, et ad finem usque complevit. 
+**[31:30]** Locutus est ergo Moyses, audiente universo cœtu Israel, verba carminis huius, et ad finem usque complevit.
 
 ### Chapter 32
 
@@ -11988,7 +11988,7 @@
 
 **[32:51]** quia prævaricati estis contra me in medio filiorum Israel ad Aquas contradictionis in Cades deserti Sin: et non sanctificastis me inter filios Israel.
 
-**[32:52]** Econtra videbis terram, et non ingredieris in eam, quam ego dabo filiis Israel. 
+**[32:52]** Econtra videbis terram, et non ingredieris in eam, quam ego dabo filiis Israel.
 
 ### Chapter 33
 
@@ -12048,7 +12048,7 @@
 
 **[33:28]** Habitabit Israel confidenter, et solus. Oculus Iacob in terra frumenti et vini, cælique caligabunt rore.
 
-**[33:29]** Beatus es tu Israel: quis similis tui popule, qui salvaris in Domino? scutum auxilii tui, et gladius gloriæ tuæ: negabunt te inimici tui, et tu eorum colla calcabis. 
+**[33:29]** Beatus es tu Israel: quis similis tui popule, qui salvaris in Domino? scutum auxilii tui, et gladius gloriæ tuæ: negabunt te inimici tui, et tu eorum colla calcabis.
 
 ### Chapter 34
 
@@ -12074,7 +12074,7 @@
 
 **[34:11]** in omnibus signis atque portentis, quæ misit per eum, ut faceret in Terra Ægypti Pharaoni, et omnibus servis eius, universæque terræ illius,
 
-**[34:12]** et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israel.  
+**[34:12]** et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israel.
 
 ## Joshua
 
@@ -12114,7 +12114,7 @@
 
 **[1:17]** Sicut obedivimus in cunctis Moysi, ita obediemus et tibi: tantum sit Dominus Deus tuus tecum, sicut fuit cum Moyse.
 
-**[1:18]** Qui contradixerit ori tuo, et non obedierit cunctis sermonibus, quos præceperis ei, moriatur. tu tantum confortare, et viriliter age. 
+**[1:18]** Qui contradixerit ori tuo, et non obedierit cunctis sermonibus, quos præceperis ei, moriatur. tu tantum confortare, et viriliter age.
 
 ### Chapter 2
 
@@ -12164,7 +12164,7 @@
 
 **[2:23]** Quibus urbem ingressis, reversi sunt, et descenderunt exploratores de monte: et, transmisso Iordane, venerunt ad Iosue filium Nun, narraveruntque ei omnia quæ acciderant sibi,
 
-**[2:24]** atque dixerunt: Tradidit Dominus omnem terram hanc in manus nostras, et timore prostrati sunt cuncti habitatores eius. 
+**[2:24]** atque dixerunt: Tradidit Dominus omnem terram hanc in manus nostras, et timore prostrati sunt cuncti habitatores eius.
 
 ### Chapter 3
 
@@ -12200,7 +12200,7 @@
 
 **[3:16]** steterunt aquæ descendentes in loco uno, et ad instar montis intumescentes apparebant procul ab urbe, quæ vocatur Adom usque ad locum Sarthan: quæ autem inferiores erant, in Mare solitudinis (quod nunc vocatur mortuum) descenderunt, usquequo omnino deficerent.
 
-**[3:17]** Populus autem incedebat contra Iericho: et sacerdotes qui portabant arcam fœderis Domini, stabant super siccam humum in medio Iordanis accincti, omnisque populus per arentem alveum transibat. 
+**[3:17]** Populus autem incedebat contra Iericho: et sacerdotes qui portabant arcam fœderis Domini, stabant super siccam humum in medio Iordanis accincti, omnisque populus per arentem alveum transibat.
 
 ### Chapter 4
 
@@ -12252,7 +12252,7 @@
 
 **[4:24]** sicut fecerat prius in mari rubro, quod siccavit donec transiremus:
 
-**[4:25]** ut discant omnes terrarum populi fortissimam Domini manum, ut et vos timeatis Dominum Deum vestrum omni tempore. 
+**[4:25]** ut discant omnes terrarum populi fortissimam Domini manum, ut et vos timeatis Dominum Deum vestrum omni tempore.
 
 ### Chapter 5
 
@@ -12286,7 +12286,7 @@
 
 **[5:15]** Cecidit Iosue pronus in terram. Et adorans ait: Quid dominus meus loquitur ad servum suum?
 
-**[5:16]** Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum. 
+**[5:16]** Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Iosue ut sibi fuerat imperatum.
 
 ### Chapter 6
 
@@ -12342,7 +12342,7 @@
 
 **[6:26]** Maledictus vir coram Domino, qui suscitaverit et ædificaverit civitatem Iericho. In primogenito suo fundamenta illius iaciat, et in novissimo liberorum ponat portas eius.
 
-**[6:27]** Fuit ergo Dominus cum Iosue, et nomen eius vulgatum est in omni terra. 
+**[6:27]** Fuit ergo Dominus cum Iosue, et nomen eius vulgatum est in omni terra.
 
 ### Chapter 7
 
@@ -12396,7 +12396,7 @@
 
 **[7:25]** ubi dixit Iosue: Quia turbasti nos, exturbet te Dominus in die hac. Lapidavitque eum omnis Israel: et cuncta quæ illius erant, igne consumpta sunt.
 
-**[7:26]** Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in præsentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, Vallis Achor, usque hodie. 
+**[7:26]** Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in præsentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, Vallis Achor, usque hodie.
 
 ### Chapter 8
 
@@ -12468,7 +12468,7 @@
 
 **[8:34]** Post hæc legit omnia verba benedictionis et maledictionis, et cuncta quæ scripta erant in legis volumine.
 
-**[8:35]** Nihil ex his, quæ Moyses iusserat, reliquit intactum, sed universa replicavit coram omni multitudine Israel, mulieribus ac parvulis et advenis, qui inter eos morabantur. 
+**[8:35]** Nihil ex his, quæ Moyses iusserat, reliquit intactum, sed universa replicavit coram omni multitudine Israel, mulieribus ac parvulis et advenis, qui inter eos morabantur.
 
 ### Chapter 9
 
@@ -12524,7 +12524,7 @@
 
 **[9:26]** Fecit ergo Iosue ut dixerat, et liberavit eos de manu filiorum Israel, ut non occiderentur.
 
-**[9:27]** Decrevitque in illo die eos esse in ministerio cuncti populi, et altaris Domini, cædentes ligna, et aquas comportantes, usque in præsens tempus, in loco, quem Dominus elegisset. 
+**[9:27]** Decrevitque in illo die eos esse in ministerio cuncti populi, et altaris Domini, cædentes ligna, et aquas comportantes, usque in præsens tempus, in loco, quem Dominus elegisset.
 
 ### Chapter 10
 
@@ -12612,7 +12612,7 @@
 
 **[10:42]** universosque reges, et regiones eorum uno impetu cepit atque vastavit: Dominus enim Deus Israel pugnavit pro eo.
 
-**[10:43]** reversusque est cum omni Israel ad locum castrorum in Galgala. 
+**[10:43]** reversusque est cum omni Israel ad locum castrorum in Galgala.
 
 ### Chapter 11
 
@@ -12660,7 +12660,7 @@
 
 **[11:22]** Non reliquit ullum de stirpe Enacim, in Terra filiorum Israel: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt.
 
-**[11:23]** Cepit ergo Iosue omnem Terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israel secundum partes et tribus suas. quievitque Terra a præliis. 
+**[11:23]** Cepit ergo Iosue omnem Terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Israel secundum partes et tribus suas. quievitque Terra a præliis.
 
 ### Chapter 12
 
@@ -12710,7 +12710,7 @@
 
 **[12:23]** rex Dor, et provinciæ Dor unus, rex Gentium Galgal unus,
 
-**[12:24]** rex Thersa unus: omnes reges triginta unus. 
+**[12:24]** rex Thersa unus: omnes reges triginta unus.
 
 ### Chapter 13
 
@@ -12778,7 +12778,7 @@
 
 **[13:32]** Hanc possessionem divisit Moyses in campestribus Moab trans Iordanem contra Iericho ad Orientalem plagam.
 
-**[13:33]** Tribui autem Levi non dedit possessionem: quoniam Dominus Deus Israel ipse est possessio eius, ut locutus est illi. 
+**[13:33]** Tribui autem Levi non dedit possessionem: quoniam Dominus Deus Israel ipse est possessio eius, ut locutus est illi.
 
 ### Chapter 14
 
@@ -12810,7 +12810,7 @@
 
 **[14:14]** atque ex eo fuit Hebron Caleb filio Iephone Cenezæo usque in præsentem diem: quia secutus est Dominum Deum Israel.
 
-**[14:15]** Nomen Hebron ante vocabatur Cariath Arbe: Adam maximus ibi inter Enacim situs est: et Terra cessavit a præliis. 
+**[14:15]** Nomen Hebron ante vocabatur Cariath Arbe: Adam maximus ibi inter Enacim situs est: et Terra cessavit a præliis.
 
 ### Chapter 15
 
@@ -12938,7 +12938,7 @@
 
 **[15:62]** et Nebsan, et civitas salis, et Engaddi: civitates sex, et villæ earum.
 
-**[15:63]** Iebusæum autem habitatorem Ierusalem non potuerunt filii Iuda delere: habitavitque Iebusæus cum filiis Iuda in Ierusalem usque in præsentem diem. 
+**[15:63]** Iebusæum autem habitatorem Ierusalem non potuerunt filii Iuda delere: habitavitque Iebusæus cum filiis Iuda in Ierusalem usque in præsentem diem.
 
 ### Chapter 16
 
@@ -12960,7 +12960,7 @@
 
 **[16:9]** Urbesque separatæ sunt filiis Ephraim in medio possessionis filiorum Manasse, et villæ earum.
 
-**[16:10]** Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius. 
+**[16:10]** Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer: habitavitque Chananæus in medio Ephraim usque in diem hanc tributarius.
 
 ### Chapter 17
 
@@ -12998,7 +12998,7 @@
 
 **[17:17]** Dixitque Iosue ad domum Ioseph, Ephraim et Manasse: Populus multus es, et magnæ fortitudinis, non habebis sortem unam,
 
-**[17:18]** sed transibis ad montem, et succides tibi, atque purgabis ad habitandum spatia: et poteris ultra procedere cum subverteris Chananæum, quem dicis ferreos habere currus, et esse fortissimum. 
+**[17:18]** sed transibis ad montem, et succides tibi, atque purgabis ad habitandum spatia: et poteris ultra procedere cum subverteris Chananæum, quem dicis ferreos habere currus, et esse fortissimum.
 
 ### Chapter 18
 
@@ -13056,7 +13056,7 @@
 
 **[18:27]** et Recem, Iarephel et Tharela,
 
-**[18:28]** et Sela, Eleph, et Iebus, quæ est Ierusalem, Gabaath et Cariath: civitates quattuordecim, et villæ earum. Hæc est possessio filiorum Beniamin iuxta familias suas. 
+**[18:28]** et Sela, Eleph, et Iebus, quæ est Ierusalem, Gabaath et Cariath: civitates quattuordecim, et villæ earum. Hæc est possessio filiorum Beniamin iuxta familias suas.
 
 ### Chapter 19
 
@@ -13160,7 +13160,7 @@
 
 **[19:50]** iuxta præceptum Domini, urbem quam postulavit, Thamnath Saraa in monte Ephraim: et ædificavit civitatem, habitavitque in ea.
 
-**[19:51]** Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram. 
+**[19:51]** Hæ sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Iosue filius Nun, et principes familiarum, ac tribuum filiorum Israel in Silo, coram Domino ad ostium tabernaculi testimonii, partitique sunt Terram.
 
 ### Chapter 20
 
@@ -13180,7 +13180,7 @@
 
 **[20:8]** Et trans Iordanem contra Orientalem plagam Iericho, statuerunt Bosor, quæ sita est in campestri solitudine de tribu Ruben, et Ramoth in Galaad de tribu Gad, et Gaulon in Basan de tribu Manasse.
 
-**[20:9]** Hæ civitates constitutæ sunt cunctis filiis Israel, et advenis, qui habitabant inter eos: ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam. 
+**[20:9]** Hæ civitates constitutæ sunt cunctis filiis Israel, et advenis, qui habitabant inter eos: ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam.
 
 ### Chapter 21
 
@@ -13268,7 +13268,7 @@
 
 **[21:42]** Dataque est ab eo pax in omnes per circuitum nationes: nullusque eis hostium resistere ausus est, sed cuncti in eorum ditionem redacti sunt.
 
-**[21:43]** Ne unum quidem verbum, quod illis præstiturum se esse promiserat, irritum fuit, sed rebus expleta sunt omnia. 
+**[21:43]** Ne unum quidem verbum, quod illis præstiturum se esse promiserat, irritum fuit, sed rebus expleta sunt omnia.
 
 ### Chapter 22
 
@@ -13338,7 +13338,7 @@
 
 **[22:33]** Placuitque sermo cunctis audientibus. Et laudaverunt Deum filii Israel, et nequaquam ultra dixerunt, ut ascenderent contra eos, atque pugnarent, et delerent Terram possessionis eorum.
 
-**[22:34]** Vocaveruntque filii Ruben, et filii Gad altare, quod extruxerant, Testimonium nostrum, quod Dominus ipse sit Deus. 
+**[22:34]** Vocaveruntque filii Ruben, et filii Gad altare, quod extruxerant, Testimonium nostrum, quod Dominus ipse sit Deus.
 
 ### Chapter 23
 
@@ -13372,7 +13372,7 @@
 
 **[23:15]** Sicut ergo implevit opere quod promisit, et prospera cuncta venerunt: sic adducet super vos quidquid malorum comminatus est, donec vos auferat atque disperdat de Terra hac optima, quam tradidit vobis,
 
-**[23:16]** eo quod præterieritis pactum Domini Dei vestri, quod pepigit vobiscum, et servieritis diis alienis, ad adoraveritis eos: cito atque velociter consurget in vos furor Domini, et auferemini ab hac Terra optima, quam tradidit vobis. 
+**[23:16]** eo quod præterieritis pactum Domini Dei vestri, quod pepigit vobiscum, et servieritis diis alienis, ad adoraveritis eos: cito atque velociter consurget in vos furor Domini, et auferemini ab hac Terra optima, quam tradidit vobis.
 
 ### Chapter 24
 
@@ -13440,7 +13440,7 @@
 
 **[24:32]** Ossa quoque Ioseph, quæ tulerant filii Israel de Ægypto, sepelierunt in Sichem, in parte agri, quem emerat Iacob a filiis Hemor patris Sichem, centum novellis ovibus, et fuit in possessionem filiorum Ioseph.
 
-**[24:33]** Eleazar quoque filius Aaron mortuus est: et sepelierunt eum in Gabaath Phinees filii eius, quæ data est ei in monte Ephraim.  
+**[24:33]** Eleazar quoque filius Aaron mortuus est: et sepelierunt eum in Gabaath Phinees filii eius, quæ data est ei in monte Ephraim.
 
 ## Judges
 
@@ -13516,7 +13516,7 @@
 
 **[1:35]** habitavitque in monte Hares, quod interpretatur testaceo, in Aialon et Salebim. Et aggravata est manus domus Ioseph, factusque est ei tributarius.
 
-**[1:36]** Fuit autem terminus Amorrhæi ab Ascensu Scorpionis, petra, et superiora loca. 
+**[1:36]** Fuit autem terminus Amorrhæi ab Ascensu Scorpionis, petra, et superiora loca.
 
 ### Chapter 2
 
@@ -13564,7 +13564,7 @@
 
 **[2:22]** ut in ipsis experiar Israel, utrum custodiant viam Domini, et ambulent in ea, sicut custodierunt patres eorum, an non.
 
-**[2:23]** Dimisit ergo Dominus omnes nationes has, et cito subvertere noluit, nec tradidit in manus Iosue. 
+**[2:23]** Dimisit ergo Dominus omnes nationes has, et cito subvertere noluit, nec tradidit in manus Iosue.
 
 ### Chapter 3
 
@@ -13628,7 +13628,7 @@
 
 **[3:30]** Humiliatusque est Moab in die illo sub manu Israel: et quievit Terra octoginta annis.
 
-**[3:31]** Post hunc fuit Samgar filius Anath, qui percussit de Philisthiim sexcentos viros vomere: et ipse quoque defendit Israel. 
+**[3:31]** Post hunc fuit Samgar filius Anath, qui percussit de Philisthiim sexcentos viros vomere: et ipse quoque defendit Israel.
 
 ### Chapter 4
 
@@ -13678,7 +13678,7 @@
 
 **[4:23]** Humiliavit ergo Deus in die illo Iabin regem Chanaan coram filiis Israel:
 
-**[4:24]** qui crescebant quotidie, et forti manu opprimebant Iabin regem Chanaan, donec delerent eum. 
+**[4:24]** qui crescebant quotidie, et forti manu opprimebant Iabin regem Chanaan, donec delerent eum.
 
 ### Chapter 5
 
@@ -13744,7 +13744,7 @@
 
 **[5:31]** Sic pereant omnes inimici tui Domine: qui autem diligunt te, sicut Sol in ortu suo splendet, ita rutilent.
 
-**[5:32]** Quievitque Terra per quadraginta annos. 
+**[5:32]** Quievitque Terra per quadraginta annos.
 
 ### Chapter 6
 
@@ -13826,7 +13826,7 @@
 
 **[6:39]** Dixitque rursus ad Deum: Ne irascatur furor tuus contra me si adhuc semel tentavero, signum quærens in vellere. Oro ut solum vellus siccum sit, et omnis terra rore madens.
 
-**[6:40]** Fecitque Deus nocte illa ut postulaverat: et fuit siccitas in solo vellere, et ros in omni terra. 
+**[6:40]** Fecitque Deus nocte illa ut postulaverat: et fuit siccitas in solo vellere, et ros in omni terra.
 
 ### Chapter 7
 
@@ -13878,7 +13878,7 @@
 
 **[7:24]** Misitque Gedeon nuncios in omnem montem Ephraim, dicens: Descendite in occursum Madian, et occupate aquas usque Bethbera atque Iordanem. Clamavitque omnis Ephraim, et præoccupavit aquas atque Iordanem usque Bethbera.
 
-**[7:25]** Apprehensosque duos viros Madian, Oreb, et Zeb, interfecit Oreb in Petra Oreb, Zeb vero in Torculari Zeb. Et persecuti sunt Madian, capita Oreb et Zeb portantes ad Gedeon trans fluenta Iordanis. 
+**[7:25]** Apprehensosque duos viros Madian, Oreb, et Zeb, interfecit Oreb in Petra Oreb, Zeb vero in Torculari Zeb. Et persecuti sunt Madian, capita Oreb et Zeb portantes ad Gedeon trans fluenta Iordanis.
 
 ### Chapter 8
 
@@ -13950,7 +13950,7 @@
 
 **[8:34]** nec recordati sunt Domini Dei sui, qui eruit eos de manibus inimicorum suorum omnium per circuitum:
 
-**[8:35]** nec fecerunt misericordiam cum domo Ierobaal Gedeon iuxta omnia bona, quæ fecerat Israeli. 
+**[8:35]** nec fecerunt misericordiam cum domo Ierobaal Gedeon iuxta omnia bona, quæ fecerat Israeli.
 
 ### Chapter 9
 
@@ -14066,7 +14066,7 @@
 
 **[9:56]** et reddidit Deus malum, quod fecerat Abimelech contra patrem suum, interfectis septuaginta fratribus suis.
 
-**[9:57]** Sichimitis quoque quod operati erant, retributum est, et venit super eos maledictio Ioatham filii Ierobaal. 
+**[9:57]** Sichimitis quoque quod operati erant, retributum est, et venit super eos maledictio Ioatham filii Ierobaal.
 
 ### Chapter 10
 
@@ -14104,7 +14104,7 @@
 
 **[10:17]** Itaque filii Ammon conclamantes in Galaad fixere tentoria: contra quos congregati filii Israel, in Maspha castrametati sunt.
 
-**[10:18]** Dixeruntque principes Galaad singuli ad proximos suos: Qui primus ex nobis contra filios Ammon cœperit dimicare, erit dux populi Galaad. 
+**[10:18]** Dixeruntque principes Galaad singuli ad proximos suos: Qui primus ex nobis contra filios Ammon cœperit dimicare, erit dux populi Galaad.
 
 ### Chapter 11
 
@@ -14186,7 +14186,7 @@
 
 **[11:39]** Expletisque duobus mensibus, reversa est ad patrem suum, et fecit ei sicut voverat, quæ ignorabat virum. Exinde mos increbruit in Israel, et consuetudo servata est:
 
-**[11:40]** ut post anni circulum conveniant in unum filiæ Israel, et plangant filiam Iephte Galaaditæ diebus quattuor. 
+**[11:40]** ut post anni circulum conveniant in unum filiæ Israel, et plangant filiam Iephte Galaaditæ diebus quattuor.
 
 ### Chapter 12
 
@@ -14218,7 +14218,7 @@
 
 **[12:14]** qui habuit quadraginta filios, et triginta ex eis nepotes, ascendentes super septuaginta pullos asinarum, et iudicavit Israel octo annis:
 
-**[12:15]** mortuusque est, ac sepultus in Pharathon terræ Ephraim, in monte Amalec. 
+**[12:15]** mortuusque est, ac sepultus in Pharathon terræ Ephraim, in monte Amalec.
 
 ### Chapter 13
 
@@ -14270,7 +14270,7 @@
 
 **[13:24]** Peperit itaque filium, et vocavit nomen eius Samson. Crevitque puer, et benedixit ei Dominus.
 
-**[13:25]** Cœpitque Spiritus Domini esse cum eo in castris Dan inter Saraa et Esthaol. 
+**[13:25]** Cœpitque Spiritus Domini esse cum eo in castris Dan inter Saraa et Esthaol.
 
 ### Chapter 14
 
@@ -14312,7 +14312,7 @@
 
 **[14:19]** Irruit itaque in eum Spiritus Domini, descenditque Ascalonem, et percussit ibi triginta viros. quorum ablatas vestes dedit iis, qui problema solverant. Iratusque nimis ascendit in domum patris sui:
 
-**[14:20]** uxor autem eius accepit maritum unum de amicis eius et pronubis. 
+**[14:20]** uxor autem eius accepit maritum unum de amicis eius et pronubis.
 
 ### Chapter 15
 
@@ -14354,7 +14354,7 @@
 
 **[15:19]** Aperuit itaque Dominus molarem dentem in maxilla asini, et egressæ sunt ex eo aquæ. Quibus haustis, refocillavit spiritum, et vires recepit. Idcirco appellatum est nomen loci illius, Fons invocantis de maxilla, usque in præsentem diem.
 
-**[15:20]** Iudicavitque Israel in diebus Philisthiim viginti annis. 
+**[15:20]** Iudicavitque Israel in diebus Philisthiim viginti annis.
 
 ### Chapter 16
 
@@ -14418,7 +14418,7 @@
 
 **[16:30]** ait: Moriatur anima mea cum Philisthiim. concussisque fortiter columnis, cecidit domus super omnes principes, et ceteram multitudinem, quæ ibi erat: multoque plures interfecit moriens, quam ante vivus occiderat.
 
-**[16:31]** Descendentes autem fratres eius et universa cognatio tulerunt corpus eius, et sepelierunt inter Saraa et Esthaol in sepulchro patris sui Manue: iudicavitque Israel viginti annis. 
+**[16:31]** Descendentes autem fratres eius et universa cognatio tulerunt corpus eius, et sepelierunt inter Saraa et Esthaol in sepulchro patris sui Manue: iudicavitque Israel viginti annis.
 
 ### Chapter 17
 
@@ -14446,7 +14446,7 @@
 
 **[17:12]** implevitque Michas manum eius, et habuit puerum sacerdotem apud se,
 
-**[17:13]** Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem. 
+**[17:13]** Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.
 
 ### Chapter 18
 
@@ -14510,7 +14510,7 @@
 
 **[18:30]** Posueruntque sibi sculptile, et Ionathan filium Gersam filii Moysi, ac filios eius sacerdotes in tribu Dan, usque ad diem captivitatis suæ.
 
-**[18:31]** Mansitque apud eos idolum Michæ omni tempore, quo fuit domus Dei in Silo. in diebus illis non erat rex in Israel. 
+**[18:31]** Mansitque apud eos idolum Michæ omni tempore, quo fuit domus Dei in Silo. in diebus illis non erat rex in Israel.
 
 ### Chapter 19
 
@@ -14572,7 +14572,7 @@
 
 **[19:29]** Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis in duodecim partes ac frustra concidens, misit in omnes terminos Israel.
 
-**[19:30]** Quod cum vidissent singuli, conclamabant. Numquam res talis facta est in Israel ex eo die, quo ascenderunt patres nostri de Ægypto, usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit. 
+**[19:30]** Quod cum vidissent singuli, conclamabant. Numquam res talis facta est in Israel ex eo die, quo ascenderunt patres nostri de Ægypto, usque in præsens tempus: ferte sententiam, et in commune decernite quid facto opus sit.
 
 ### Chapter 20
 
@@ -14670,7 +14670,7 @@
 
 **[20:47]** Remanserunt itaque de omni numero Beniamin, qui evadere, et fugere in solitudinem potuerunt, sexcenti viri: sederuntque in Petra Remmon mensibus quattuor.
 
-**[20:48]** Regressi autem filii Israel, omnes reliquias civitatis a viris usque ad iumenta gladio percusserunt, cunctasque urbes et viculos Beniamin vorax flamma consumpsit. 
+**[20:48]** Regressi autem filii Israel, omnes reliquias civitatis a viris usque ad iumenta gladio percusserunt, cunctasque urbes et viculos Beniamin vorax flamma consumpsit.
 
 ### Chapter 21
 
@@ -14720,7 +14720,7 @@
 
 **[21:23]** Feceruntque filii Beniamin, ut sibi fuerat imperatum: et iuxta numerum suum rapuerunt sibi de his, quæ ducebant choros, uxores singulas: abieruntque in possessionem suam ædificantes urbes, et habitantes in eis.
 
-**[21:24]** Filii quoque Israel reversi sunt per tribus, et familias in tabernacula sua. In diebus illis non erat rex in Israel: sed unusquisque quod sibi rectum videbatur, hoc faciebat.  
+**[21:24]** Filii quoque Israel reversi sunt per tribus, et familias in tabernacula sua. In diebus illis non erat rex in Israel: sed unusquisque quod sibi rectum videbatur, hoc faciebat.
 
 ## Ruth
 
@@ -14768,7 +14768,7 @@
 
 **[1:21]** Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noemi, quam Dominus humiliavit, et afflixit Omnipotens?
 
-**[1:22]** Venit ergo Noemi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ: ac reversa est in Bethlehem, quando primum hordea metebantur. 
+**[1:22]** Venit ergo Noemi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ: ac reversa est in Bethlehem, quando primum hordea metebantur.
 
 ### Chapter 2
 
@@ -14816,7 +14816,7 @@
 
 **[2:22]** Cui dixit socrus: Melius est, filia mea, ut cum puellis eius exeas ad metendum, ne in alieno agro quispiam resistat tibi.
 
-**[2:23]** Iuncta est itaque puellis Booz: et tamdiu cum eis messuit, donec hordea et triticum in horreis conderentur. 
+**[2:23]** Iuncta est itaque puellis Booz: et tamdiu cum eis messuit, donec hordea et triticum in horreis conderentur.
 
 ### Chapter 3
 
@@ -14854,7 +14854,7 @@
 
 **[3:17]** Et ait: Ecce sex modios hordei dedit mihi, et ait: Nolo vacuam te reverti ad socrum tuam.
 
-**[3:18]** Dixitque Noemi: Expecta filia donec videamus quem res exitum habeat. neque enim cessabit homo nisi compleverit quod locutus est. 
+**[3:18]** Dixitque Noemi: Expecta filia donec videamus quem res exitum habeat. neque enim cessabit homo nisi compleverit quod locutus est.
 
 ### Chapter 4
 
@@ -14900,7 +14900,7 @@
 
 **[4:21]** Salmon genuit Booz, Booz genuit Obed,
 
-**[4:22]** Obed genuit Isai, Isai genuit David.  
+**[4:22]** Obed genuit Isai, Isai genuit David.
 
 ## I Samuel
 
@@ -14960,7 +14960,7 @@
 
 **[1:27]** Pro puero isto oravi, et dedit mihi Dominus petitionem meam, quam postulavi eum.
 
-**[1:28]** Idcirco et ego commodavi eum Domino cunctis diebus, quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait: 
+**[1:28]** Idcirco et ego commodavi eum Domino cunctis diebus, quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:
 
 ### Chapter 2
 
@@ -15034,7 +15034,7 @@
 
 **[2:35]** Et suscitabo mihi sacerdotem fidelem, qui iuxta cor meum, et animam meam faciet: et ædificabo ei domum fidelem, et ambulabit coram Christo meo cunctis diebus.
 
-**[2:36]** Futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque: Dimitte me obsecro ad unam partem sacerdotalem, ut comedam buccellam panis. 
+**[2:36]** Futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque: Dimitte me obsecro ad unam partem sacerdotalem, ut comedam buccellam panis.
 
 ### Chapter 3
 
@@ -15078,7 +15078,7 @@
 
 **[3:20]** Et cognovit universus Israel a Dan, usque Bersabee, quod fidelis Samuel propheta esset Domini.
 
-**[3:21]** Et addidit Dominus ut appareret in Silo, quoniam revelatus fuerat Dominus Samueli in Silo, iuxta verbum Domini. Et evenit sermo Samuelis universo Israeli. 
+**[3:21]** Et addidit Dominus ut appareret in Silo, quoniam revelatus fuerat Dominus Samueli in Silo, iuxta verbum Domini. Et evenit sermo Samuelis universo Israeli.
 
 ### Chapter 4
 
@@ -15124,7 +15124,7 @@
 
 **[4:21]** Et vocabit puerum, Ichabod, dicens: Translata est gloria de Israel, quia capta est arca Dei, et pro socero suo et pro viro suo;
 
-**[4:22]** et ait: Translata est gloria ab Israel, eo quod capta esset arca Dei. 
+**[4:22]** et ait: Translata est gloria ab Israel, eo quod capta esset arca Dei.
 
 ### Chapter 5
 
@@ -15150,7 +15150,7 @@
 
 **[5:11]** Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Israel, et revertatur in locum suum, et non interficiat nos cum populo nostro.
 
-**[5:12]** Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. viri quoque, qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscuiusque civitatis in cælum. 
+**[5:12]** Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. viri quoque, qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscuiusque civitatis in cælum.
 
 ### Chapter 6
 
@@ -15194,7 +15194,7 @@
 
 **[6:20]** Et dixerunt viri Bethsamitæ: Quis poterit stare in conspectu Domini Dei sancti huius? et ad quem ascendet a nobis?
 
-**[6:21]** Miseruntque nuncios ad habitatores Cariathiarim, dicentes: Reduxerunt Philisthiim arcam Domini, descendite, et reducite eam ad vos. 
+**[6:21]** Miseruntque nuncios ad habitatores Cariathiarim, dicentes: Reduxerunt Philisthiim arcam Domini, descendite, et reducite eam ad vos.
 
 ### Chapter 7
 
@@ -15230,7 +15230,7 @@
 
 **[7:16]** et ibat per singulos annos circuiens Bethel et Galgala et Masphath, et iudicabat Israelem in supradictis locis.
 
-**[7:17]** Revertebaturque in Ramatha: ibi enim erat domus eius, et ibi iudicabat Israelem: ædificavit etiam ibi altare Domino. 
+**[7:17]** Revertebaturque in Ramatha: ibi enim erat domus eius, et ibi iudicabat Israelem: ædificavit etiam ibi altare Domino.
 
 ### Chapter 8
 
@@ -15276,7 +15276,7 @@
 
 **[8:21]** Et audivit Samuel omnia verba populi, et locutus est ea in auribus Domini.
 
-**[8:22]** Dixit autem Dominus ad Samuelem: Audi vocem eorum, et constitue super eos regem. Et ait Samuel ad viros Israel: Vadat unusquisque in civitatem suam. 
+**[8:22]** Dixit autem Dominus ad Samuelem: Audi vocem eorum, et constitue super eos regem. Et ait Samuel ad viros Israel: Vadat unusquisque in civitatem suam.
 
 ### Chapter 9
 
@@ -15332,7 +15332,7 @@
 
 **[9:26]** Cumque mane surrexissent, et iam elucesceret, vocavit Samuel Saulem in solario, dicens: Surge, et dimittam te. Et surrexit Saul: egressique sunt ambo, ipse videlicet, et Samuel.
 
-**[9:27]** Cumque descenderent in extrema parte civitatis, Samuel dixit ad Saul: Dic puero ut antecedat nos, et transeat: tu autem subsiste paulisper, ut indicem tibi verbum Domini. 
+**[9:27]** Cumque descenderent in extrema parte civitatis, Samuel dixit ad Saul: Dic puero ut antecedat nos, et transeat: tu autem subsiste paulisper, ut indicem tibi verbum Domini.
 
 ### Chapter 10
 
@@ -15388,7 +15388,7 @@
 
 **[10:26]** Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda.
 
-**[10:27]** Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire. 
+**[10:27]** Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire.
 
 ### Chapter 11
 
@@ -15420,7 +15420,7 @@
 
 **[11:14]** Dixit autem Samuel ad populum: Venite, et eamus in Galgala, et innovemus ibi regnum.
 
-**[11:15]** Et perrexit omnis populus in Galgala, et fecerunt ibi regem Saul coram Domino in Galgala, et immolaverunt ibi victimas pacificas coram Domino. Et lætatus est ibi Saul, et cuncti viri Israel nimis. 
+**[11:15]** Et perrexit omnis populus in Galgala, et fecerunt ibi regem Saul coram Domino in Galgala, et immolaverunt ibi victimas pacificas coram Domino. Et lætatus est ibi Saul, et cuncti viri Israel nimis.
 
 ### Chapter 12
 
@@ -15472,7 +15472,7 @@
 
 **[12:24]** Igitur timete Dominum, et servite ei in veritate, et ex toto corde vestro. vidistis enim magnifica quæ in vobis gesserit.
 
-**[12:25]** Quod si perseveraveritis in malitia: et vos et rex vester pariter peribitis. 
+**[12:25]** Quod si perseveraveritis in malitia: et vos et rex vester pariter peribitis.
 
 ### Chapter 13
 
@@ -15520,7 +15520,7 @@
 
 **[13:22]** Cumque venisset dies prœlii, non est inventus ensis et lancea in manu totius populi, qui erat cum Saule et Ionatha, excepto Saul et Ionatha filio eius.
 
-**[13:23]** Egressa est autem statio Philisthiim, ut transcenderet in Machmas. 
+**[13:23]** Egressa est autem statio Philisthiim, ut transcenderet in Machmas.
 
 ### Chapter 14
 
@@ -15626,7 +15626,7 @@
 
 **[14:51]** Porro Cis fuit pater Saul, et Ner pater Abner, filius Abiel.
 
-**[14:52]** Erat autem bellum potens adversum Philisthæos omnibus diebus Saul. Nam quemcumque viderat Saul virum fortem, et aptum ad prælium, sociabat eum sibi. 
+**[14:52]** Erat autem bellum potens adversum Philisthæos omnibus diebus Saul. Nam quemcumque viderat Saul virum fortem, et aptum ad prælium, sociabat eum sibi.
 
 ### Chapter 15
 
@@ -15698,7 +15698,7 @@
 
 **[15:34]** Abiit autem Samuel in Ramatha: Saul vero ascendit in domum suam in Gabaa
 
-**[15:35]** Et non vidit Samuel ultra Saul usque ad diem mortis suæ: verumtamen lugebat Samuel Saulem, quoniam Dominum pœnitebat quod constituisset eum regem super Israel. 
+**[15:35]** Et non vidit Samuel ultra Saul usque ad diem mortis suæ: verumtamen lugebat Samuel Saulem, quoniam Dominum pœnitebat quod constituisset eum regem super Israel.
 
 ### Chapter 16
 
@@ -15746,7 +15746,7 @@
 
 **[16:22]** Misitque Saul ad Isai, dicens: Stet David in conspectu meo: invenit enim gratiam in oculis meis.
 
-**[16:23]** Igitur quandocumque spiritus Domini malus arripiebat Saul, David tollebat citharam, et percutiebat manu sua, et refocillabatur Saul, et levius habebat. recedebat enim ab eo spiritus malus. 
+**[16:23]** Igitur quandocumque spiritus Domini malus arripiebat Saul, David tollebat citharam, et percutiebat manu sua, et refocillabatur Saul, et levius habebat. recedebat enim ab eo spiritus malus.
 
 ### Chapter 17
 
@@ -15864,7 +15864,7 @@
 
 **[17:57]** Cumque regressus esset David, percusso Philisthæo, tulit eum Abner, et introduxit coram Saule, caput Philisthæi habentem in manu.
 
-**[17:58]** Et ait ad eum Saul: De qua progenie es o adolescens? Dixitque David: Filius servi tui Isai Bethlehemitæ ego sum. 
+**[17:58]** Et ait ad eum Saul: De qua progenie es o adolescens? Dixitque David: Filius servi tui Isai Bethlehemitæ ego sum.
 
 ### Chapter 18
 
@@ -15926,7 +15926,7 @@
 
 **[18:29]** Et Saul magis cœpit timere David: factusque est Saul inimicus David cunctis diebus.
 
-**[18:30]** Et egressi sunt principes Philisthinorum. a principio autem egressionis eorum, prudentius se gerebat David quam omnes servi Saul, et celebre factum est nomen eius nimis. 
+**[18:30]** Et egressi sunt principes Philisthinorum. a principio autem egressionis eorum, prudentius se gerebat David quam omnes servi Saul, et celebre factum est nomen eius nimis.
 
 ### Chapter 19
 
@@ -15976,7 +15976,7 @@
 
 **[19:23]** Et abiit in Naioth in Ramatha, et factus est etiam super eum Spiritus Domini, et ambulabat ingrediens, et prophetabat usque dum veniret in Naioth in Ramatha.
 
-**[19:24]** Et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram Samuele, et cecidit nudus tota die illa et nocte. Unde et exivit proverbium: Num et Saul inter prophetas? 
+**[19:24]** Et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram Samuele, et cecidit nudus tota die illa et nocte. Unde et exivit proverbium: Num et Saul inter prophetas?
 
 ### Chapter 20
 
@@ -16064,7 +16064,7 @@
 
 **[20:42]** Dixit ergo Ionathas ad David: Vade in pace: quæcumque iuravimus ambo in nomine Domini, dicentes: Dominus sit inter me et te, et inter semen meum et semen tuum usque in sempiternum.
 
-**[20:43]** Et surrexit David, et abiit: sed et Ionathas ingressus est civitatem. 
+**[20:43]** Et surrexit David, et abiit: sed et Ionathas ingressus est civitatem.
 
 ### Chapter 21
 
@@ -16096,7 +16096,7 @@
 
 **[21:14]** Et ait Achis ad servos suos: Vidistis hominem insanum: quare adduxistis eum ad me?
 
-**[21:15]** An desunt nobis furiosi, quod introduxistis istum, ut fureret me præsente? hiccine ingredietur domum meam? 
+**[21:15]** An desunt nobis furiosi, quod introduxistis istum, ut fureret me præsente? hiccine ingredietur domum meam?
 
 ### Chapter 22
 
@@ -16144,7 +16144,7 @@
 
 **[22:22]** Et ait David ad Abiathar: Sciebam in die illa, quod cum ibi esset Doeg Idumæus, proculdubio annunciaret Sauli: ego sum reus omnium animarum patris tui.
 
-**[22:23]** Mane mecum, ne timeas: si quis quæsierit animam meam, quæret et animam tuam, mecumque servaberis. 
+**[22:23]** Mane mecum, ne timeas: si quis quæsierit animam meam, quæret et animam tuam, mecumque servaberis.
 
 ### Chapter 23
 
@@ -16202,7 +16202,7 @@
 
 **[23:27]** Et nuncius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram.
 
-**[23:28]** Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum. propter hoc vocaverunt locum illum, Petram dividentem. 
+**[23:28]** Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum. propter hoc vocaverunt locum illum, Petram dividentem.
 
 ### Chapter 24
 
@@ -16250,7 +16250,7 @@
 
 **[24:22]** iura mihi in Domino, ne deleas semen meum post me, neque auferas nomen meum de domo patris mei.
 
-**[24:23]** Et iuravit David Sauli. Abiit ergo Saul in domum suam: et David, et viri eius ascenderunt ad tutiora loca. 
+**[24:23]** Et iuravit David Sauli. Abiit ergo Saul in domum suam: et David, et viri eius ascenderunt ad tutiora loca.
 
 ### Chapter 25
 
@@ -16340,7 +16340,7 @@
 
 **[25:43]** Sed et Achinoam accepit David de Iezrael: et fuit utraque uxor eius.
 
-**[25:44]** Saul autem dedit Michol filiam suam uxorem David Phalti, filio Lais, qui erat de Gallim. 
+**[25:44]** Saul autem dedit Michol filiam suam uxorem David Phalti, filio Lais, qui erat de Gallim.
 
 ### Chapter 26
 
@@ -16392,7 +16392,7 @@
 
 **[26:24]** Et sicut magnificata est anima tua hodie in oculis meis, sic magnificetur anima mea in oculis Domini, et liberet me de omni angustia.
 
-**[26:25]** Ait ergo Saul ad David: Benedictus tu fili mi David: et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saul reversus est in locum suum. 
+**[26:25]** Ait ergo Saul ad David: Benedictus tu fili mi David: et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saul reversus est in locum suum.
 
 ### Chapter 27
 
@@ -16418,7 +16418,7 @@
 
 **[27:11]** Virum et mulierem non vivificabat David, nec adducebat in Geth, dicens: Ne forte loquantur adversum nos: Hæc fecit David: et hoc erat decretum illi omnibus diebus quibus habitavit in regione Philisthinorum.
 
-**[27:12]** Credidit ergo Achis David, dicens: Multa mala operatus est contra populum suum Israel: erit igitur mihi servus sempiternus. 
+**[27:12]** Credidit ergo Achis David, dicens: Multa mala operatus est contra populum suum Israel: erit igitur mihi servus sempiternus.
 
 ### Chapter 28
 
@@ -16470,7 +16470,7 @@
 
 **[28:24]** Mulier autem illa habebat vitulum pascualem in domo, et festinavit, et occidit eum: tollensque farinam, miscuit eam, et coxit azyma,
 
-**[28:25]** et posuit ante Saul et ante servos eius. Qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam. 
+**[28:25]** et posuit ante Saul et ante servos eius. Qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam.
 
 ### Chapter 29
 
@@ -16494,7 +16494,7 @@
 
 **[29:10]** Igitur consurge mane tu, et servi domini tui, qui venerunt tecum: et cum de nocte surrexeritis, et cœperit dilucescere, pergite.
 
-**[29:11]** Surrexit itaque de nocte David ipse et viri eius, ut proficiscerentur mane, et reverterentur ad Terram Philisthiim: Philisthiim autem ascenderunt in Iezrahel. 
+**[29:11]** Surrexit itaque de nocte David ipse et viri eius, ut proficiscerentur mane, et reverterentur ad Terram Philisthiim: Philisthiim autem ascenderunt in Iezrahel.
 
 ### Chapter 30
 
@@ -16558,7 +16558,7 @@
 
 **[30:30]** et qui in Arama, et qui in lacu Asan, et qui in Athach,
 
-**[30:31]** et qui in Hebron, et reliquis qui erant in his locis, in quibus commoratus fuerat David ipse, et viri eius. 
+**[30:31]** et qui in Hebron, et reliquis qui erant in his locis, in quibus commoratus fuerat David ipse, et viri eius.
 
 ### Chapter 31
 
@@ -16586,7 +16586,7 @@
 
 **[31:12]** surrexerunt omnes viri fortissimi, et ambulaverunt tota nocte, et tulerunt cadaver Saul, et cadavera filiorum eius de muro Bethsan: veneruntque Iabes Galaad, et combusserunt ea ibi:
 
-**[31:13]** et tulerunt ossa eorum, et sepelierunt in nemore Iabes, et ieiunaverunt septem diebus.  
+**[31:13]** et tulerunt ossa eorum, et sepelierunt in nemore Iabes, et ieiunaverunt septem diebus.
 
 ## II Samuel
 
@@ -16644,7 +16644,7 @@
 
 **[1:26]** Doleo super te frater mi Ionatha decore nimis, et amabilis super amorem mulierum. Sicut mater unicum amat filium suum, ita ego te diligebam.
 
-**[1:27]** Quo modo ceciderunt robusti, et perierunt arma bellica? 
+**[1:27]** Quo modo ceciderunt robusti, et perierunt arma bellica?
 
 ### Chapter 2
 
@@ -16710,7 +16710,7 @@
 
 **[2:31]** Servi autem David percusserunt de Beniamin, et de viris, qui erant cum Abner trecentos sexaginta, qui et mortui sunt.
 
-**[2:32]** Tuleruntque Asael, et sepelierunt eum in sepulchro patris sui in Bethlehem: et ambulaverunt tota nocte Ioab et viri qui erant cum eo, et in ipso crepusculo pervenerunt in Hebron. 
+**[2:32]** Tuleruntque Asael, et sepelierunt eum in sepulchro patris sui in Bethlehem: et ambulaverunt tota nocte Ioab et viri qui erant cum eo, et in ipso crepusculo pervenerunt in Hebron.
 
 ### Chapter 3
 
@@ -16790,7 +16790,7 @@
 
 **[3:38]** Dixit quoque rex ad servos suos: Num ignoratis quoniam princeps et maximus cecidit hodie in Israel?
 
-**[3:39]** Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum iuxta malitiam suam. 
+**[3:39]** Ego autem adhuc delicatus, et unctus rex: porro viri isti filii Sarviæ duri sunt mihi: retribuat Dominus facienti malum iuxta malitiam suam.
 
 ### Chapter 4
 
@@ -16816,7 +16816,7 @@
 
 **[4:11]** Quanto magis nunc cum homines impii interfecerunt virum innoxium in domo sua, super lectum suum, non quæram sanguinem eius de manu vestra, et auferam vos de terra?
 
-**[4:12]** Præcepit itaque David pueris suis, et interfecerunt eos: præcidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron: caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron. 
+**[4:12]** Præcepit itaque David pueris suis, et interfecerunt eos: præcidentesque manus et pedes eorum, suspenderunt eos super piscinam in Hebron: caput autem Isboseth tulerunt, et sepelierunt in sepulchro Abner in Hebron.
 
 ### Chapter 5
 
@@ -16868,7 +16868,7 @@
 
 **[5:24]** Et cum audieris sonitum gradientis in cacumine pyrorum, tunc inibis prælium: quia tunc egredietur Dominus ante faciem tuam, ut percutiat castra Philisthiim.
 
-**[5:25]** Fecit itaque David sicut præceperat ei Dominus, et percussit Philisthiim de Gabaa, usque dum venias Gezer. 
+**[5:25]** Fecit itaque David sicut præceperat ei Dominus, et percussit Philisthiim de Gabaa, usque dum venias Gezer.
 
 ### Chapter 6
 
@@ -16916,7 +16916,7 @@
 
 **[6:22]** et ludam, et vilior fiam plus quam factus sum: et ero humilis in oculis meis: et cum ancillis, de quibus locuta es, gloriosior apparebo.
 
-**[6:23]** Igitur Michol filiæ Saul non est natus filius usque in diem mortis suæ. 
+**[6:23]** Igitur Michol filiæ Saul non est natus filius usque in diem mortis suæ.
 
 ### Chapter 7
 
@@ -16976,7 +16976,7 @@
 
 **[7:28]** Nunc ergo Domine Deus, tu es Deus, et verba tua erunt vera: locutus es enim ad servum tuum bona hæc.
 
-**[7:29]** Incipe ergo, et benedic domui servi tui, ut sit in sempiternum coram te: quia tu Domine Deus locutus es, et benedictione tua benedicetur domus servi tui in sempiternum. 
+**[7:29]** Incipe ergo, et benedic domui servi tui, ut sit in sempiternum coram te: quia tu Domine Deus locutus es, et benedictione tua benedicetur domus servi tui in sempiternum.
 
 ### Chapter 8
 
@@ -17014,7 +17014,7 @@
 
 **[8:17]** et Sadoc filius Achitob, et Achimelech filius Abiathar, erant sacerdotes: et Saraias, scriba:
 
-**[8:18]** Banaias autem filius Ioiadæ super cerethi et phelethi: filii autem David sacerdotes erant. 
+**[8:18]** Banaias autem filius Ioiadæ super cerethi et phelethi: filii autem David sacerdotes erant.
 
 ### Chapter 9
 
@@ -17042,7 +17042,7 @@
 
 **[9:12]** Habebat autem Miphiboseth filium parvulum nomine Micha: omnis vero cognatio domus Sibæ serviebat Miphiboseth.
 
-**[9:13]** Porro Miphiboseth habitabat in Ierusalem: quia de mensa regis iugiter vescebatur: et erat claudus utroque pede. 
+**[9:13]** Porro Miphiboseth habitabat in Ierusalem: quia de mensa regis iugiter vescebatur: et erat claudus utroque pede.
 
 ### Chapter 10
 
@@ -17082,7 +17082,7 @@
 
 **[10:18]** Fugeruntque Syri a facie Israel, et occidit David de Syris septingentos currus, et quadraginta millia equitum: et Sobach principem militiæ percussit: qui statim mortuus est.
 
-**[10:19]** Videntes autem universi reges, qui erant in præsidio Adarezer, se victos esse ab Israel, expaverunt et fugerunt quinquaginta et octo millia coram Israel. Et fecerunt pacem cum Israel: et servierunt eis, timueruntque Syri auxilium præbere ultra filiis Ammon. 
+**[10:19]** Videntes autem universi reges, qui erant in præsidio Adarezer, se victos esse ab Israel, expaverunt et fugerunt quinquaginta et octo millia coram Israel. Et fecerunt pacem cum Israel: et servierunt eis, timueruntque Syri auxilium præbere ultra filiis Ammon.
 
 ### Chapter 11
 
@@ -17138,7 +17138,7 @@
 
 **[11:26]** Audivit autem uxor Uriæ, quod mortuus esset Urias vir suus, et planxit eum.
 
-**[11:27]** Transacto autem luctu misit David, et introduxit eam in domum suam, et facta est ei uxor, peperitque ei filium: et displicuit verbum hoc, quod fecerat David, coram Domino. 
+**[11:27]** Transacto autem luctu misit David, et introduxit eam in domum suam, et facta est ei uxor, peperitque ei filium: et displicuit verbum hoc, quod fecerat David, coram Domino.
 
 ### Chapter 12
 
@@ -17202,7 +17202,7 @@
 
 **[12:30]** Et tulit diadema regis eorum de capite eius, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et prædam civitatis asportavit multam valde:
 
-**[12:31]** populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon: et reversus est David, et omnis exercitus in Ierusalem. 
+**[12:31]** populum quoque eius adducens serravit, et circumegit super eos ferrata carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit universis civitatibus filiorum Ammon: et reversus est David, et omnis exercitus in Ierusalem.
 
 ### Chapter 13
 
@@ -17280,7 +17280,7 @@
 
 **[13:37]** Porro Absalom fugiens, abiit ad Tholomai filium Ammiud regem Gessur. Luxit ergo David filium suum cunctis diebus.
 
-**[13:38]** Absalom autem cum fugisset, et venisset in Gessur, fuit ibi tribus annis. Cessavitque rex David persequi Absalom, eo quod consolatus esset super Amnon interitu. 
+**[13:38]** Absalom autem cum fugisset, et venisset in Gessur, fuit ibi tribus annis. Cessavitque rex David persequi Absalom, eo quod consolatus esset super Amnon interitu.
 
 **[13:39]** 
 
@@ -17350,7 +17350,7 @@
 
 **[14:32]** Et respondit Absalom ad Ioab: Misi ad te obsecrans ut venires ad me, et mitterem te ad regem, et diceres ei: Quare veni de Gessur? melius mihi erat ibi esse: obsecro ergo ut videam faciem regis: quod si memor est iniquitatis meæ, interficiat me.
 
-**[14:33]** Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terræ coram eo: osculatusque est rex Absalom. 
+**[14:33]** Ingressus itaque Ioab ad regem, nunciavit ei omnia: vocatusque est Absalom, et intravit ad regem, et adoravit super faciem terræ coram eo: osculatusque est rex Absalom.
 
 ### Chapter 15
 
@@ -17426,7 +17426,7 @@
 
 **[15:36]** Sunt autem cum eis duo filii eorum Achimaas filius Sadoc, et Ionathas filius Abiathar: et mittetis per eos ad me omne verbum quod audieritis.
 
-**[15:37]** Veniente ergo Chusai amico David in civitatem, Absalom quoque ingressus est Ierusalem. 
+**[15:37]** Veniente ergo Chusai amico David in civitatem, Absalom quoque ingressus est Ierusalem.
 
 ### Chapter 16
 
@@ -17474,7 +17474,7 @@
 
 **[16:22]** Tetenderunt ergo Absalom tabernaculum in solario, ingressusque est ad concubinas patris sui coram universo Israel.
 
-**[16:23]** Consilium autem Achitophel, quod dabat in diebus illis, quasi siquis consuleret Deum: sic erat omne consilium Achitophel, et cum esset cum David, et cum esset cum Absalom. 
+**[16:23]** Consilium autem Achitophel, quod dabat in diebus illis, quasi siquis consuleret Deum: sic erat omne consilium Achitophel, et cum esset cum David, et cum esset cum Absalom.
 
 ### Chapter 17
 
@@ -17534,7 +17534,7 @@
 
 **[17:28]** obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer,
 
-**[17:29]** et mel, et butyrum, oves, et pingues vitulos. dederuntque David, et populo, qui cum eo erat, ad vescendum: suspicati enim sunt, populum fame, et siti fatigari in deserto. 
+**[17:29]** et mel, et butyrum, oves, et pingues vitulos. dederuntque David, et populo, qui cum eo erat, ad vescendum: suspicati enim sunt, populum fame, et siti fatigari in deserto.
 
 ### Chapter 18
 
@@ -17602,7 +17602,7 @@
 
 **[18:32]** Dixit autem rex ad Chusi: Estne pax puero Absalom? Cui respondens Chusi, Fiant, inquit, sicut puer, inimici domini mei regis, et universi qui consurgunt adversus eum in malum.
 
-**[18:33]** Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom? 
+**[18:33]** Contristatus itaque rex, ascendit cœnaculum portæ, et flevit. Et sic loquebatur, vadens: Fili mi Absalom, Absalom fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom?
 
 ### Chapter 19
 
@@ -17690,7 +17690,7 @@
 
 **[19:42]** Et respondit omnis vir Iuda ad viros Israel: Quia mihi propior est rex: cur irasceris super hac re? numquid comedimus aliquid ex rege, aut munera nobis data sunt?
 
-**[19:43]** Et respondit vir Israel ad viros Iuda, et ait: Decem partibus maior ego sum apud regem, magisque ad me pertinet David quam ad te: cur fecisti mihi iniuriam, et non mihi nunciatum est priori, ut reducerem regem meum? Durius autem responderunt viri Iuda viris Israel. 
+**[19:43]** Et respondit vir Israel ad viros Iuda, et ait: Decem partibus maior ego sum apud regem, magisque ad me pertinet David quam ad te: cur fecisti mihi iniuriam, et non mihi nunciatum est priori, ut reducerem regem meum? Durius autem responderunt viri Iuda viris Israel.
 
 ### Chapter 20
 
@@ -17744,7 +17744,7 @@
 
 **[20:25]** Siva autem, scriba: Sadoc vero et Abiathar, sacerdotes.
 
-**[20:26]** Ira autem Iairites erat sacerdos David. 
+**[20:26]** Ira autem Iairites erat sacerdos David.
 
 ### Chapter 21
 
@@ -17790,7 +17790,7 @@
 
 **[21:21]** Et blasphemavit Israel: percussit autem eum Ionathan filius Samaa fratris David.
 
-**[21:22]** Hi quattuor nati sunt de arapha in Geth, et ceciderunt in manu David, et servorum eius. 
+**[21:22]** Hi quattuor nati sunt de arapha in Geth, et ceciderunt in manu David, et servorum eius.
 
 ### Chapter 22
 
@@ -17894,7 +17894,7 @@
 
 **[22:50]** Propterea confitebor tibi Domine in gentibus: et nomini tuo cantabo.
 
-**[22:51]** Magnificans salutes regis sui, et faciens misericordiam christo suo David, et semini eius in sempiternum. 
+**[22:51]** Magnificans salutes regis sui, et faciens misericordiam christo suo David, et semini eius in sempiternum.
 
 ### Chapter 23
 
@@ -17974,7 +17974,7 @@
 
 **[23:38]** Ira Iethrites, Gareb et ipse Iethrites,
 
-**[23:39]** Urias Hethæus. Omnes triginta septem. 
+**[23:39]** Urias Hethæus. Omnes triginta septem.
 
 ### Chapter 24
 
@@ -18026,7 +18026,7 @@
 
 **[24:24]** Cui respondens rex, ait: Nequaquam ut vis, sed emam pretio a te, et non offeram Domino Deo meo holocausta gratuita. Emit ergo David aream, et boves, argenti siclis quinquaginta:
 
-**[24:25]** et ædificavit ibi David altare Domino, et obtulit holocausta et pacifica: et propitiatus est Dominus terræ, et cohibita est plaga ab Israel.  
+**[24:25]** et ædificavit ibi David altare Domino, et obtulit holocausta et pacifica: et propitiatus est Dominus terræ, et cohibita est plaga ab Israel.
 
 ## I Kings
 
@@ -18136,7 +18136,7 @@
 
 **[1:52]** Dixitque Salomon: Si fuerit vir bonus, non cadet ne unus quidem capillus eius in terram: sin autem malum inventum fuerit in eo, morietur.
 
-**[1:53]** Misit ergo rex Salomon, et eduxit eum ab altari: et ingressus adoravit regem Salomonem: dixitque ei Salomon: Vade in domum tuam. 
+**[1:53]** Misit ergo rex Salomon, et eduxit eum ab altari: et ingressus adoravit regem Salomonem: dixitque ei Salomon: Vade in domum tuam.
 
 ### Chapter 2
 
@@ -18230,7 +18230,7 @@
 
 **[2:45]** Et rex Salomon benedictus, et thronus David erit stabilis coram Domino usque in sempiternum.
 
-**[2:46]** Iussit itaque rex Banaiæ filio Ioiadæ: qui egressus, percussit eum, et mortuus est. 
+**[2:46]** Iussit itaque rex Banaiæ filio Ioiadæ: qui egressus, percussit eum, et mortuus est.
 
 ### Chapter 3
 
@@ -18288,7 +18288,7 @@
 
 **[3:27]** Respondit rex, et ait: Date huic infantem vivum, et non occidatur: hæc est enim mater eius.
 
-**[3:28]** Audivit itaque omnis Israel iudicium quod iudicasset rex, et timuerunt regem, videntes sapientiam Dei esse in eo ad faciendum iudicium. 
+**[3:28]** Audivit itaque omnis Israel iudicium quod iudicasset rex, et timuerunt regem, videntes sapientiam Dei esse in eo ad faciendum iudicium.
 
 ### Chapter 4
 
@@ -18358,7 +18358,7 @@
 
 **[4:33]** Et disputavit super lignis a cedro, quæ est in Libano, usque ad hyssopum, quæ egreditur de pariete: et disseruit de iumentis, et volucribus, et reptilibus, et piscibus.
 
-**[4:34]** Et veniebant de cunctis populis ad audiendam sapientiam Salomonis, et ab universis regibus terræ, qui audiebant sapientiam eius. 
+**[4:34]** Et veniebant de cunctis populis ad audiendam sapientiam Salomonis, et ab universis regibus terræ, qui audiebant sapientiam eius.
 
 ### Chapter 5
 
@@ -18396,7 +18396,7 @@
 
 **[5:17]** Præcepitque rex, ut tollerent lapides grandes, lapides pretiosos in fundamentum templi, et quadrarent eos:
 
-**[5:18]** quos dolaverunt cæmentarii Salomonis, et cæmentarii Hiram: porro Giblii præparaverunt ligna et lapides ad ædificandam domum. 
+**[5:18]** quos dolaverunt cæmentarii Salomonis, et cæmentarii Hiram: porro Giblii præparaverunt ligna et lapides ad ædificandam domum.
 
 ### Chapter 6
 
@@ -18474,7 +18474,7 @@
 
 **[6:37]** Anno quarto fundata est domus Domini in mense Zio:
 
-**[6:38]** et in anno undecimo, mense Bul (ipse est mensis octavus) perfecta est domus in omni opere suo, et in universis utensilibus suis: ædificavitque eam annis septem. 
+**[6:38]** et in anno undecimo, mense Bul (ipse est mensis octavus) perfecta est domus in omni opere suo, et in universis utensilibus suis: ædificavitque eam annis septem.
 
 ### Chapter 7
 
@@ -18578,7 +18578,7 @@
 
 **[7:50]** et hydrias, et fuscinulas, et phialas, et mortariola, et thuribula, de auro purissimo: et cardines ostiorum domus interioris Sancti sanctorum, et ostiorum domus templi, ex auro erant.
 
-**[7:51]** Et perfecit omne opus quod faciebat Salomon in domo Domini, et intulit quæ sanctificaverat David pater suus, argentum et aurum, et vasa, reposuitque in thesauris domus Domini. 
+**[7:51]** Et perfecit omne opus quod faciebat Salomon in domo Domini, et intulit quæ sanctificaverat David pater suus, argentum et aurum, et vasa, reposuitque in thesauris domus Domini.
 
 ### Chapter 8
 
@@ -18712,7 +18712,7 @@
 
 **[8:65]** Fecit ergo Salomon in tempore illo festivitatem celebrem, et omnis Israel cum eo, multitudo magna ab introitu Emath usque ad Rivum Ægypti, coram Domino Deo nostro, septem diebus et septem diebus, id est, quattuordecim diebus.
 
-**[8:66]** Et in die octava dimisit populos: qui benedicentes regi, profecti sunt in tabernacula sua lætantes, et alacri corde super omnibus bonis, quæ fecerat Dominus David servo suo, et Israel populo suo. 
+**[8:66]** Et in die octava dimisit populos: qui benedicentes regi, profecti sunt in tabernacula sua lætantes, et alacri corde super omnibus bonis, quæ fecerat Dominus David servo suo, et Israel populo suo.
 
 ### Chapter 9
 
@@ -18770,7 +18770,7 @@
 
 **[9:27]** Misitque Hiram in classe illa servos suos viros nauticos et gnaros maris, cum servis Salomonis.
 
-**[9:28]** Qui cum venissent in Ophir, sumptum inde aurum quadringentorum viginti talentorum, detulerunt ad regem Salomonem. 
+**[9:28]** Qui cum venissent in Ophir, sumptum inde aurum quadringentorum viginti talentorum, detulerunt ad regem Salomonem.
 
 ### Chapter 10
 
@@ -18830,7 +18830,7 @@
 
 **[10:28]** Et educebantur equi Salomoni de Ægypto, et de Coa. Negotiatores enim regis emebant de Coa, et statuto pretio perducebant.
 
-**[10:29]** Egrediebatur autem quadriga ex Ægypto sexcentis siclis argenti, et equus centum quinquaginta. Atque in hunc modum cuncti reges Hethæorum et Syriæ equos venundabant. 
+**[10:29]** Egrediebatur autem quadriga ex Ægypto sexcentis siclis argenti, et equus centum quinquaginta. Atque in hunc modum cuncti reges Hethæorum et Syriæ equos venundabant.
 
 ### Chapter 11
 
@@ -18918,7 +18918,7 @@
 
 **[11:42]** Dies autem, quos regnavit Salomon in Ierusalem super omnem Israel, quadraginta anni sunt.
 
-**[11:43]** Dormivitque Salomon cum patribus suis, et sepultus est in Civitate David patris sui, regnavitque Roboam filius eius pro eo. 
+**[11:43]** Dormivitque Salomon cum patribus suis, et sepultus est in Civitate David patris sui, regnavitque Roboam filius eius pro eo.
 
 ### Chapter 12
 
@@ -18986,7 +18986,7 @@
 
 **[12:32]** Constituitque diem sollemnem in mense octavo, quintadecima die mensis, in similitudinem sollemnitatis, quæ celebrabatur in Iuda. Et ascendens altare, similiter fecit in Bethel, ut immolaret vitulis, quos fabricatus fuerat: constituitque in Bethel sacerdotes excelsorum, quæ fecerat.
 
-**[12:33]** Et ascendit super altare quod extruxerat in Bethel, quintadecima die mensis octavi, quem finxerat de corde suo: et fecit sollemnitatem filiis Israel, et ascendit super altare, ut adoleret incensum. 
+**[12:33]** Et ascendit super altare quod extruxerat in Bethel, quintadecima die mensis octavi, quem finxerat de corde suo: et fecit sollemnitatem filiis Israel, et ascendit super altare, ut adoleret incensum.
 
 ### Chapter 13
 
@@ -19056,7 +19056,7 @@
 
 **[13:33]** Post verba hæc non est reversus Ieroboam de via sua pessima, sed econtrario fecit de novissimis populi sacerdotes excelsorum: quicumque volebat, implebat manum suam, et fiebat sacerdos excelsorum.
 
-**[13:34]** Et propter hanc causam peccavit domus Ieroboam, et eversa est, et deleta de superficie terræ. 
+**[13:34]** Et propter hanc causam peccavit domus Ieroboam, et eversa est, et deleta de superficie terræ.
 
 ### Chapter 14
 
@@ -19120,7 +19120,7 @@
 
 **[14:30]** Fuitque bellum inter Roboam et Ieroboam cunctis diebus.
 
-**[14:31]** Dormivitque Roboam cum patribus suis, et sepultus est cum eis in civitate David: nomen autem matris eius Naama Ammanitis: et regnavit Abiam filius eius pro eo. 
+**[14:31]** Dormivitque Roboam cum patribus suis, et sepultus est cum eis in civitate David: nomen autem matris eius Naama Ammanitis: et regnavit Abiam filius eius pro eo.
 
 ### Chapter 15
 
@@ -19190,7 +19190,7 @@
 
 **[15:33]** Anno tertio Asa regis Iuda regnavit Baasa filius Ahiæ, super omnem Israel in Thersa vigintiquattuor annis.
 
-**[15:34]** Et fecit malum coram Domino, ambulavitque in via Ieroboam, et in peccatis eius, quibus peccare fecit Israel. 
+**[15:34]** Et fecit malum coram Domino, ambulavitque in via Ieroboam, et in peccatis eius, quibus peccare fecit Israel.
 
 ### Chapter 16
 
@@ -19260,7 +19260,7 @@
 
 **[16:33]** et plantavit lucum: et addidit Achab in opere suo, irritans Dominum Deum Israel super omnes reges Israel, qui fuerunt ante eum.
 
-**[16:34]** In diebus eius ædificavit Hiel de Bethel, Iericho: in Abiram primitivo suo fundavit eam, et in Segub novissimo suo posuit portas eius: iuxta verbum Domini, quod locutus fuerat in manu Iosue filii Nun. 
+**[16:34]** In diebus eius ædificavit Hiel de Bethel, Iericho: in Abiram primitivo suo fundavit eam, et in Segub novissimo suo posuit portas eius: iuxta verbum Domini, quod locutus fuerat in manu Iosue filii Nun.
 
 ### Chapter 17
 
@@ -19310,7 +19310,7 @@
 
 **[17:23]** Tulitque Elias puerum, et deposuit eum de cænaculo in inferiorem domum, et tradidit matri suæ, et ait illi: En vivit filius tuus.
 
-**[17:24]** Dixitque mulier ad Eliam: Nunc, in isto cognovi quoniam vir Dei es tu, et verbum Domini in ore tuo verum est. 
+**[17:24]** Dixitque mulier ad Eliam: Nunc, in isto cognovi quoniam vir Dei es tu, et verbum Domini in ore tuo verum est.
 
 ### Chapter 18
 
@@ -19404,7 +19404,7 @@
 
 **[18:45]** Cumque se verteret huc itaque illuc, ecce cæli contenebrati sunt, et nubes, et ventus, et facta est pluvia grandis. Ascendens itaque Achab abiit in Iezrahel:
 
-**[18:46]** et manus Domini facta est super Eliam, accinctisque lumbis currebat ante Achab, donec veniret in Iezrahel. 
+**[18:46]** et manus Domini facta est super Eliam, accinctisque lumbis currebat ante Achab, donec veniret in Iezrahel.
 
 ### Chapter 19
 
@@ -19448,7 +19448,7 @@
 
 **[19:20]** Qui statim relictis bobus cucurrit post Eliam, et ait: Osculer, oro, patrem meum, et matrem meam, et sic sequar te. Dixitque ei: Vade, et revertere: quod enim meum erat, feci tibi.
 
-**[19:21]** Reversus autem ab eo, tulit par boum, et mactavit illud, et in aratro boum coxit carnes, et dedit populo, et comederunt: consurgensque abiit, et secutus est Eliam, et ministrabat ei. 
+**[19:21]** Reversus autem ab eo, tulit par boum, et mactavit illud, et in aratro boum coxit carnes, et dedit populo, et comederunt: consurgensque abiit, et secutus est Eliam, et ministrabat ei.
 
 ### Chapter 20
 
@@ -19536,7 +19536,7 @@
 
 **[20:42]** Qui ait ad eum: Hæc dicit Dominus: Quia dimisisti virum dignum morte de manu tua, erit anima tua pro anima eius, et populus tuus pro populo eius.
 
-**[20:43]** Reversus est igitur rex Israel in domum suam, audire contemnens, et furibundus venit in Samariam. 
+**[20:43]** Reversus est igitur rex Israel in domum suam, audire contemnens, et furibundus venit in Samariam.
 
 ### Chapter 21
 
@@ -19596,7 +19596,7 @@
 
 **[21:28]** Et factus est sermo Domini ad Eliam Thesbiten, dicens:
 
-**[21:29]** Nonne vidisti humiliatum Achab coram me? quia igitur humiliatus est mei causa, non inducam malum in diebus eius, sed in diebus filii sui inferam malum domui eius. 
+**[21:29]** Nonne vidisti humiliatum Achab coram me? quia igitur humiliatus est mei causa, non inducam malum in diebus eius, sed in diebus filii sui inferam malum domui eius.
 
 ### Chapter 22
 
@@ -19706,7 +19706,7 @@
 
 **[22:53]** Et fecit malum in conspectu Domini, et ambulavit in via patris sui et matris suæ, et in via Ieroboam filii Nabat, qui peccare fecit Israel.
 
-**[22:54]** Servivit quoque Baal, et adoravit eum, et irritavit Dominum Deum Israel, iuxta omnia quæ fecerat pater eius.  
+**[22:54]** Servivit quoque Baal, et adoravit eum, et irritavit Dominum Deum Israel, iuxta omnia quæ fecerat pater eius.
 
 ## II Kings
 
@@ -19746,7 +19746,7 @@
 
 **[1:17]** Mortuus est ergo iuxta sermonem Domini, quem locutus est Elias, et regnavit Ioram frater eius pro eo, anno secundo Ioram filii Iosaphat regis Iudæ: non enim habebat filium.
 
-**[1:18]** Reliqua autem verborum Ochoziæ, quæ operatus est, nonne hæc scripta sunt in Libro sermonum dierum regum Israel? 
+**[1:18]** Reliqua autem verborum Ochoziæ, quæ operatus est, nonne hæc scripta sunt in Libro sermonum dierum regum Israel?
 
 ### Chapter 2
 
@@ -19798,7 +19798,7 @@
 
 **[2:24]** Qui cum respexisset, vidit eos, et maledixit eis in nomine Domini: egressique sunt duo ursi de saltu, et laceraverunt ex eis quadraginta duos pueros.
 
-**[2:25]** Abiit autem inde in montem Carmeli, et inde reversus est in Samariam. 
+**[2:25]** Abiit autem inde in montem Carmeli, et inde reversus est in Samariam.
 
 ### Chapter 3
 
@@ -19854,7 +19854,7 @@
 
 **[3:26]** Quod cum vidisset rex Moab, prævaluisse scilicet hostes, tulit secum septingentos viros educentes gladium, ut irrumperent ad regem Edom: et non potuerunt.
 
-**[3:27]** Arripiensque filium suum primogenitum, qui regnaturus erat pro eo, obtulit holocaustum super murum: et facta est indignatio magna in Israel, statimque recesserunt ab eo, et reversi sunt in terram suam. 
+**[3:27]** Arripiensque filium suum primogenitum, qui regnaturus erat pro eo, obtulit holocaustum super murum: et facta est indignatio magna in Israel, statimque recesserunt ab eo, et reversi sunt in terram suam.
 
 ### Chapter 4
 
@@ -19944,7 +19944,7 @@
 
 **[4:43]** Responditque ei minister eius: Quantum est hoc, ut apponam centum viris? Rursum ille ait: Da populo, ut comedat: hæc enim dicit Dominus: Comedent, et supererit.
 
-**[4:44]** Posuit itaque coram eis: qui comederunt, et superfuit iuxta verbum Domini. 
+**[4:44]** Posuit itaque coram eis: qui comederunt, et superfuit iuxta verbum Domini.
 
 ### Chapter 5
 
@@ -20000,7 +20000,7 @@
 
 **[5:26]** At ille ait: Nonne cor meum in præsenti erat, quando reversus est homo de curru suo in occursum tui? Nunc igitur accepisti argentum, et accepisti vestes ut emas oliveta, et vineas, et oves, et boves, et servos, et ancillas.
 
-**[5:27]** Sed et lepra Naaman adhærebit tibi, et semini tuo, usque in sempiternum. Et egressus est ab eo leprosus quasi nix. 
+**[5:27]** Sed et lepra Naaman adhærebit tibi, et semini tuo, usque in sempiternum. Et egressus est ab eo leprosus quasi nix.
 
 ### Chapter 6
 
@@ -20068,7 +20068,7 @@
 
 **[6:32]** Eliseus autem sedebat in domo sua, et senes sedebant cum eo. Præmisit itaque virum: et antequam veniret nuncius ille, dixit ad senes: Numquid scitis quod miserit filius homicidæ hic, ut præcidatur caput meum? videte ergo, cum venerit nuncius, claudite ostium, et non sinatis eum introire: ecce enim sonitus pedum domini eius post eum est.
 
-**[6:33]** Adhuc illo loquente eis, apparuit nuncius, qui veniebat ad eum. Et ait: Ecce, tantum malum a Domino est: quid amplius expectabo a Domino? 
+**[6:33]** Adhuc illo loquente eis, apparuit nuncius, qui veniebat ad eum. Et ait: Ecce, tantum malum a Domino est: quid amplius expectabo a Domino?
 
 ### Chapter 7
 
@@ -20110,7 +20110,7 @@
 
 **[7:19]** quando responderat dux ille viro Dei, et dixerat: Etiamsi Dominus fecerit cataractas in cælo, numquid poterit fieri quod loqueris? Et dixit ei: Videbis oculis tuis, et inde non comedes.
 
-**[7:20]** Evenit ergo ei sicut prædictum fuerat, et conculcavit eum populus in porta, et mortuus est. 
+**[7:20]** Evenit ergo ei sicut prædictum fuerat, et conculcavit eum populus in porta, et mortuus est.
 
 ### Chapter 8
 
@@ -20170,7 +20170,7 @@
 
 **[8:28]** Abiit quoque cum Ioram filio Achab, ad præliandum contra Hazael regem Syriæ in Ramoth Galaad, et vulneraverunt Syri Ioram:
 
-**[8:29]** qui reversus est ut curaretur, in Iezrahel: quia vulneraverant eum Syri in Ramoth præliantem contra Hazael regem Syriæ. Porro Ochozias filius Ioram rex Iuda, descendit invisere Ioram filium Achab in Iezrahel, quia ægrotabat ibi. 
+**[8:29]** qui reversus est ut curaretur, in Iezrahel: quia vulneraverant eum Syri in Ramoth præliantem contra Hazael regem Syriæ. Porro Ochozias filius Ioram rex Iuda, descendit invisere Ioram filium Achab in Iezrahel, quia ægrotabat ibi.
 
 ### Chapter 9
 
@@ -20246,7 +20246,7 @@
 
 **[9:36]** Reversique nunciaverunt ei. Et ait Iehu: Sermo Domini est, quem locutus est per servum suum Eliam Thesbiten, dicens: In agro Iezrahel comedent canes carnes Iezabel,
 
-**[9:37]** et erunt carnes Iezabel sicut stercus super faciem terræ in agro Iezrahel, ita ut prætereuntes dicant: Hæccine est illa Iezabel? 
+**[9:37]** et erunt carnes Iezabel sicut stercus super faciem terræ in agro Iezrahel, ita ut prætereuntes dicant: Hæccine est illa Iezabel?
 
 ### Chapter 10
 
@@ -20320,7 +20320,7 @@
 
 **[10:35]** Et dormivit Iehu cum patribus suis, sepelieruntque eum in Samaria: et regnavit Ioachaz filius eius pro eo.
 
-**[10:36]** Dies autem, quos regnavit Iehu super Israel, viginti et octo anni sunt, in Samaria. 
+**[10:36]** Dies autem, quos regnavit Iehu super Israel, viginti et octo anni sunt, in Samaria.
 
 ### Chapter 11
 
@@ -20364,7 +20364,7 @@
 
 **[11:20]** Lætatusque est omnis populus terræ, et civitas conquievit: Athalia autem occisa est gladio in domo regis.
 
-**[11:21]** Septemque annorum erat Ioas, cum regnare cœpisset. 
+**[11:21]** Septemque annorum erat Ioas, cum regnare cœpisset.
 
 ### Chapter 12
 
@@ -20408,7 +20408,7 @@
 
 **[12:20]** Surrexerunt autem servi eius, et coniuraverunt inter se, percusseruntque Ioas in Domo Mello in descensu Sella.
 
-**[12:21]** Iosachar namque filius Semaath, et Iozabad filius Somer servi eius, percusserunt eum, et mortuus est: et sepelierunt eum cum patribus suis in Civitate David, regnavitque Amasias filius eius pro eo. 
+**[12:21]** Iosachar namque filius Semaath, et Iozabad filius Somer servi eius, percusserunt eum, et mortuus est: et sepelierunt eum cum patribus suis in Civitate David, regnavitque Amasias filius eius pro eo.
 
 ### Chapter 13
 
@@ -20460,7 +20460,7 @@
 
 **[13:24]** Mortuus est autem Hazael rex Syriæ, et regnavit Benadad filius eius pro eo.
 
-**[13:25]** Porro Ioas filius Ioachaz tulit urbes de manu Benadad filii Hazael, quas tulerat de manu Ioachaz patris sui iure prælii, tribus vicibus percussit eum Ioas, et reddidit civitates Israel. 
+**[13:25]** Porro Ioas filius Ioachaz tulit urbes de manu Benadad filii Hazael, quas tulerat de manu Ioachaz patris sui iure prælii, tribus vicibus percussit eum Ioas, et reddidit civitates Israel.
 
 ### Chapter 14
 
@@ -20520,7 +20520,7 @@
 
 **[14:28]** Reliqua autem sermonum Ieroboam, et universa quæ fecit, et fortitudo eius, qua præliatus est, et quomodo restituit Damascum, et Emath Iudæ in Israel, nonne hæc scripta sunt in Libro sermonum dierum regum Israel?
 
-**[14:29]** Dormivitque Ieroboam cum patribus suis regibus Israel, et regnavit Zacharias filius eius pro eo. 
+**[14:29]** Dormivitque Ieroboam cum patribus suis regibus Israel, et regnavit Zacharias filius eius pro eo.
 
 ### Chapter 15
 
@@ -20598,7 +20598,7 @@
 
 **[15:37]** In diebus illis cœpit Dominus mittere in Iudam Rasin regem Syriæ, et Phacee filium Romeliæ.
 
-**[15:38]** Et dormivit Ioatham cum patribus suis, sepultusque est cum eis in Civitate David patris sui, et regnavit Achaz filius eius pro eo. 
+**[15:38]** Et dormivit Ioatham cum patribus suis, sepultusque est cum eis in Civitate David patris sui, et regnavit Achaz filius eius pro eo.
 
 ### Chapter 16
 
@@ -20640,7 +20640,7 @@
 
 **[16:19]** Reliqua autem verborum Achaz, quæ fecit, nonne hæc scripta sunt in Libro sermonum dierum regum Iuda?
 
-**[16:20]** Dormivitque Achaz cum patribus suis, et sepultus est cum eis in Civitate David, et regnavit Ezechias filius eius pro eo. 
+**[16:20]** Dormivitque Achaz cum patribus suis, et sepultus est cum eis in Civitate David, et regnavit Ezechias filius eius pro eo.
 
 ### Chapter 17
 
@@ -20724,7 +20724,7 @@
 
 **[17:40]** Illi vero non audierunt, sed iuxta consuetudinem suam pristinam perpetrabant.
 
-**[17:41]** Fuerunt igitur Gentes istæ timentes quidem Dominum, sed nihilominus et idolis suis servientes: nam et filii eorum, et nepotes, sicut fecerunt patres sui, ita faciunt usque in præsentem diem. 
+**[17:41]** Fuerunt igitur Gentes istæ timentes quidem Dominum, sed nihilominus et idolis suis servientes: nam et filii eorum, et nepotes, sicut fecerunt patres sui, ita faciunt usque in præsentem diem.
 
 ### Chapter 18
 
@@ -20800,7 +20800,7 @@
 
 **[18:36]** Tacuit itaque populus, et non respondit ei quidquam: siquidem præceptum regis acceperant ut non responderent ei.
 
-**[18:37]** Venitque Eliacim filius Helciæ, præpositus domus, et Sobna scriba, et Ioahe filius Asaph a commentariis ad Ezechiam scissis vestibus, et nunciaverunt ei verba Rabsacis. 
+**[18:37]** Venitque Eliacim filius Helciæ, præpositus domus, et Sobna scriba, et Ioahe filius Asaph a commentariis ad Ezechiam scissis vestibus, et nunciaverunt ei verba Rabsacis.
 
 ### Chapter 19
 
@@ -20876,7 +20876,7 @@
 
 **[19:36]** et reversus est Sennacherib rex Assyriorum, et mansit in Ninive.
 
-**[19:37]** Cumque adoraret in templo Nesroch deum suum, Adramelech et Sarasar filii eius percusserunt eum gladio, fugeruntque in terram Armeniorum, et regnavit Asarhaddon filius eius pro eo. 
+**[19:37]** Cumque adoraret in templo Nesroch deum suum, Adramelech et Sarasar filii eius percusserunt eum gladio, fugeruntque in terram Armeniorum, et regnavit Asarhaddon filius eius pro eo.
 
 ### Chapter 20
 
@@ -20920,7 +20920,7 @@
 
 **[20:20]** Reliqua autem sermonum Ezechiæ, et omnis fortitudo eius, et quomodo fecerit piscinam, et aquæductum, et introduxerit aquas in civitatem, nonne hæc scripta sunt in Libro sermonum dierum regum Iuda?
 
-**[20:21]** Dormivitque Ezechias cum patribus suis, et regnavit Manasses filius eius pro eo. 
+**[20:21]** Dormivitque Ezechias cum patribus suis, et regnavit Manasses filius eius pro eo.
 
 ### Chapter 21
 
@@ -20974,7 +20974,7 @@
 
 **[21:25]** Reliqua autem sermonum Amon quæ fecit, nonne hæc scripta sunt in Libro sermonum dierum regum Iuda?
 
-**[21:26]** Sepelieruntque eum in sepulchro suo, in horto Oza: et regnavit Iosias filius eius pro eo. 
+**[21:26]** Sepelieruntque eum in sepulchro suo, in horto Oza: et regnavit Iosias filius eius pro eo.
 
 ### Chapter 22
 
@@ -21016,7 +21016,7 @@
 
 **[22:19]** et perterritum est cor tuum, et humiliatus es coram Domino, auditis sermonibus contra locum istum, et habitatores eius, quod videlicet fierent in stuporem et in maledictum: et scidisti vestimenta tua, et flevisti coram me, et ego audivi, ait Dominus:
 
-**[22:20]** idcirco colligam te ad patres tuos, et colligeris ad sepulchrum tuum in pace, ut non videant oculi tui omnia mala quæ inducturus sum super locum istum. 
+**[22:20]** idcirco colligam te ad patres tuos, et colligeris ad sepulchrum tuum in pace, ut non videant oculi tui omnia mala quæ inducturus sum super locum istum.
 
 ### Chapter 23
 
@@ -21092,7 +21092,7 @@
 
 **[23:36]** Vigintiquinque annorum erat Ioakim cum regnare cœpisset: et undecim annis regnavit in Ierusalem: nomen matris eius Zebida filia Phadaia de Ruma.
 
-**[23:37]** Et fecit malum coram Domino iuxta omnia, quæ fecerant patres eius. 
+**[23:37]** Et fecit malum coram Domino iuxta omnia, quæ fecerant patres eius.
 
 ### Chapter 24
 
@@ -21134,7 +21134,7 @@
 
 **[24:19]** Et fecit malum coram Domino, iuxta omnia quæ fecerat Ioakim.
 
-**[24:20]** Irascebatur enim Dominus contra Ierusalem et contra Iudam, donec proiiceret eos a facie sua: recessitque Sedecias a rege Babylonis. 
+**[24:20]** Irascebatur enim Dominus contra Ierusalem et contra Iudam, donec proiiceret eos a facie sua: recessitque Sedecias a rege Babylonis.
 
 ### Chapter 25
 
@@ -21196,7 +21196,7 @@
 
 **[25:29]** Et mutavit vestes eius, quas habuerat in carcere, et comedebat panem semper in conspectu eius cunctis diebus vitæ suæ.
 
-**[25:30]** Annonam quoque constituit ei sine intermissione, quæ et dabatur ei a rege per singulos dies omnibus diebus vitæ suæ.  
+**[25:30]** Annonam quoque constituit ei sine intermissione, quæ et dabatur ei a rege per singulos dies omnibus diebus vitæ suæ.
 
 ## I Chronicles
 
@@ -21308,7 +21308,7 @@
 
 **[1:53]** dux Cenez, dux Theman, dux Mabsar,
 
-**[1:54]** dux Magdiel, dux Hiram. hi duces Edom. 
+**[1:54]** dux Magdiel, dux Hiram. hi duces Edom.
 
 ### Chapter 2
 
@@ -21420,7 +21420,7 @@
 
 **[2:54]** Filii Salma, Bethlehem, et Netophathi, Coronæ domus Ioab, et Dimidium requietionis Sarai.
 
-**[2:55]** Cognationes quoque scribarum habitantium in Iabes, canentes atque Resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab. 
+**[2:55]** Cognationes quoque scribarum habitantium in Iabes, canentes atque Resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab.
 
 ### Chapter 3
 
@@ -21470,7 +21470,7 @@
 
 **[3:23]** Filius Naariæ, Elioenai, et Ezechias, et Ezricam, tres.
 
-**[3:24]** Filii Elioenai, Oduia, et Eliasub, et Pheleia, et Accub, et Iohanan, et Dalaia, et Anani, septem. 
+**[3:24]** Filii Elioenai, Oduia, et Eliasub, et Pheleia, et Accub, et Iohanan, et Dalaia, et Anani, septem.
 
 ### Chapter 4
 
@@ -21558,7 +21558,7 @@
 
 **[4:42]** De filiis quoque Simeon abierunt in montem Seir viri quingenti, habentes principes Phalthiam et Naariam et Raphaiam et Oziel filios Iesi:
 
-**[4:43]** et percusserunt reliquias, quæ evadere potuerant, Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc. 
+**[4:43]** et percusserunt reliquias, quæ evadere potuerant, Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.
 
 ### Chapter 5
 
@@ -21612,7 +21612,7 @@
 
 **[5:25]** Reliquerunt autem Deum patrum suorum, et fornicati sunt post deos populorum terræ, quos abstulit Deus coram eis.
 
-**[5:26]** et suscitavit Deus Israel spiritum Phul regis Assyriorum, et spiritum Thelgathphalnasar regis Assur: et transtulit Ruben, et Gad, et dimidiam tribum Manasse, et adduxit eos in Lahela, et in Habor, et Ara, et fluvium Gozan, usque ad diem hanc. 
+**[5:26]** et suscitavit Deus Israel spiritum Phul regis Assyriorum, et spiritum Thelgathphalnasar regis Assur: et transtulit Ruben, et Gad, et dimidiam tribum Manasse, et adduxit eos in Lahela, et in Habor, et Ara, et fluvium Gozan, usque ad diem hanc.
 
 ### Chapter 6
 
@@ -21776,7 +21776,7 @@
 
 **[6:80]** Necnon et de tribu Gad, Ramoth in Galaad et suburbana eius, et Manaim cum suburbanis suis,
 
-**[6:81]** sed et Hesebon cum suburbanis suis, et Iezer cum suburbanis suis. 
+**[6:81]** sed et Hesebon cum suburbanis suis, et Iezer cum suburbanis suis.
 
 ### Chapter 7
 
@@ -21858,7 +21858,7 @@
 
 **[7:39]** Filii autem Olla: Aree, et Haniel, et Resia.
 
-**[7:40]** Omnes hi filii Aser, principes cognationum, electi atque fortissimi duces ducum: numerus autem eorum ætatis, quæ apta esset ad bellum, viginti sex millia. 
+**[7:40]** Omnes hi filii Aser, principes cognationum, electi atque fortissimi duces ducum: numerus autem eorum ætatis, quæ apta esset ad bellum, viginti sex millia.
 
 ### Chapter 8
 
@@ -21940,7 +21940,7 @@
 
 **[8:39]** Filii autem Esec fratris eius, Ulam primogenitus, et Iehus secundus, et Eliphalet tertius.
 
-**[8:40]** Fueruntque filii Ulam viri robustissimi, et magno robore tendentes arcum: et multos habentes filios ac nepotes, usque ad centum quinquaginta. Omnes hi, filii Beniamin. 
+**[8:40]** Fueruntque filii Ulam viri robustissimi, et magno robore tendentes arcum: et multos habentes filios ac nepotes, usque ad centum quinquaginta. Omnes hi, filii Beniamin.
 
 ### Chapter 9
 
@@ -22030,7 +22030,7 @@
 
 **[9:43]** Mosa vero genuit Banaa: cuius filius Raphaia, genuit Elasa: de quo ortus est Asel.
 
-**[9:44]** Porro Asel sex filios habuit his nominibus, Ezricam, Bocru, Ismahel, Saria, Obdia, Hanan. hi sunt filii Asel. 
+**[9:44]** Porro Asel sex filios habuit his nominibus, Ezricam, Bocru, Ismahel, Saria, Obdia, Hanan. hi sunt filii Asel.
 
 ### Chapter 10
 
@@ -22060,7 +22060,7 @@
 
 **[10:13]** Mortuus est ergo Saul propter iniquitates suas, eo quod prævaricatus sit mandatum Domini quod præceperat, et non custodierit illud: sed insuper etiam pythonissam consuluerit,
 
-**[10:14]** nec speraverit in Domino: propter quod interfecit eum, et transtulit regnum eius ad David filium Isai. 
+**[10:14]** nec speraverit in Domino: propter quod interfecit eum, et transtulit regnum eius ad David filium Isai.
 
 ### Chapter 11
 
@@ -22154,7 +22154,7 @@
 
 **[11:45]** Iedihel filius Samri, et Ioha frater eius Thosaites,
 
-**[11:46]** Eliel Mahumites, et Ieribai, et Iosaia filii Elnaem, et Iethma Moabites, Eliel, et Obed, et Iasiel de Masobia. 
+**[11:46]** Eliel Mahumites, et Ieribai, et Iosaia filii Elnaem, et Iethma Moabites, Eliel, et Obed, et Iasiel de Masobia.
 
 ### Chapter 12
 
@@ -22236,7 +22236,7 @@
 
 **[12:39]** Fueruntque ibi apud David tribus diebus comedentes et bibentes. præparaverant enim eis fratres sui.
 
-**[12:40]** Sed et qui iuxta eos erant, usque ad Issachar, et Zabulon, et Nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum: farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam. gaudium quippe erat in Israel. 
+**[12:40]** Sed et qui iuxta eos erant, usque ad Issachar, et Zabulon, et Nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum: farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam. gaudium quippe erat in Israel.
 
 ### Chapter 13
 
@@ -22266,7 +22266,7 @@
 
 **[13:13]** Et ob hanc causam non adduxit eam ad se, hoc est, in Civitatem David, sed avertit in domum Obededom Gethæi.
 
-**[13:14]** Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui eius, et omnibus quæ habebat. 
+**[13:14]** Mansit ergo arca Dei in domo Obededom tribus mensibus: et benedixit Dominus domui eius, et omnibus quæ habebat.
 
 ### Chapter 14
 
@@ -22302,7 +22302,7 @@
 
 **[14:16]** Fecit ergo David sicut præceperat ei Deus, et percussit castra Philisthinorum, de Gabaon usque Gazera.
 
-**[14:17]** Divulgatumque est nomen David in universis regionibus, et Dominus dedit pavorem eius super omnes gentes. 
+**[14:17]** Divulgatumque est nomen David in universis regionibus, et Dominus dedit pavorem eius super omnes gentes.
 
 ### Chapter 15
 
@@ -22362,7 +22362,7 @@
 
 **[15:28]** Universusque Israel deducebant arcam fœderis Domini in iubilo, et sonitu buccinæ, et tubis, et cymbalis, et nablis, et citharis concrepantes.
 
-**[15:29]** Cumque pervenisset arca fœderis Domini usque ad Civitatem David, Michol filia Saul prospiciens per fenestram, vidit regem David saltantem atque ludentem, et despexit eum in corde suo. 
+**[15:29]** Cumque pervenisset arca fœderis Domini usque ad Civitatem David, Michol filia Saul prospiciens per fenestram, vidit regem David saltantem atque ludentem, et despexit eum in corde suo.
 
 ### Chapter 16
 
@@ -22450,7 +22450,7 @@
 
 **[16:42]** Heman quoque, et Idithun canentes tuba, et quatientes cymbala, et omnia musicorum organa ad canendum Deo; filios autem Idithun fecit esse portarios.
 
-**[16:43]** Reversusque est omnis populus in domum suam: et David, ut benediceret etiam domui suæ. 
+**[16:43]** Reversusque est omnis populus in domum suam: et David, ut benediceret etiam domui suæ.
 
 ### Chapter 17
 
@@ -22506,7 +22506,7 @@
 
 **[17:26]** Nunc ergo Domine tu es Deus: et locutus es ad servum tuum tanta beneficia.
 
-**[17:27]** Et cœpisti benedicere domui servi tui, ut sit semper coram te: te enim Domine benedicente, benedicta erit in perpetuum. 
+**[17:27]** Et cœpisti benedicere domui servi tui, ut sit semper coram te: te enim Domine benedicente, benedicta erit in perpetuum.
 
 ### Chapter 18
 
@@ -22542,7 +22542,7 @@
 
 **[18:16]** Sadoc autem filius Achitob, et Ahimelech, filius Abiathar, sacerdotes: et Susa, scriba.
 
-**[18:17]** Banaias quoque filius Ioiadæ super legiones Cerethi, et Phelethi: porro filii David, primi ad manum regis. 
+**[18:17]** Banaias quoque filius Ioiadæ super legiones Cerethi, et Phelethi: porro filii David, primi ad manum regis.
 
 ### Chapter 19
 
@@ -22582,7 +22582,7 @@
 
 **[19:18]** Fugit autem Syrus Israel: et interfecit David de Syris septem millia curruum, et quadraginta millia peditum, et Sophach exercitus principem.
 
-**[19:19]** Videntes autem servi Adarezer se ab Israel esse superatos, transfugerunt ad David, et servierunt ei: noluitque ultra Syria auxilium præbere filiis Ammon. 
+**[19:19]** Videntes autem servi Adarezer se ab Israel esse superatos, transfugerunt ad David, et servierunt ei: noluitque ultra Syria auxilium præbere filiis Ammon.
 
 ### Chapter 20
 
@@ -22598,7 +22598,7 @@
 
 **[20:6]** Sed et aliud bellum accidit in Geth, in quo fuit homo longissimus, senos habens digitos, id est, simul viginti quattuor: qui et ipse de Rapha fuerat stirpe generatus.
 
-**[20:7]** Hic blasphemavit Israel: et percussit eum Ionathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum eius. 
+**[20:7]** Hic blasphemavit Israel: et percussit eum Ionathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum eius.
 
 ### Chapter 21
 
@@ -22660,7 +22660,7 @@
 
 **[21:29]** Tabernaculum autem Domini, quod fecerat Moyses in deserto, et altare holocaustorum, ea tempestate erat in excelso Gabaon.
 
-**[21:30]** Et non prævaluit David ire ad altare ut ibi obsecraret Deum: nimio enim fuerat in timore perterritus, videns gladium Angeli Domini. 
+**[21:30]** Et non prævaluit David ire ad altare ut ibi obsecraret Deum: nimio enim fuerat in timore perterritus, videns gladium Angeli Domini.
 
 ### Chapter 22
 
@@ -22700,7 +22700,7 @@
 
 **[22:18]** Cernitis, inquiens, quod Dominus Deus vester vobiscum sit, et dederit vobis requiem per circuitum, et tradiderit omnes inimicos vestros in manus vestras, et subiecta sit terra coram Domino, et coram populo eius.
 
-**[22:19]** Præbete igitur corda vestra et animas vestras, ut quæratis Dominum Deum vestrum: et consurgite, et ædificate sanctuarium Domino Deo, ut introducatur arca fœderis Domini, et vasa Domino consecrata, in domum, quæ ædificatur nomini Domini. 
+**[22:19]** Præbete igitur corda vestra et animas vestras, ut quæratis Dominum Deum vestrum: et consurgite, et ædificate sanctuarium Domino Deo, ut introducatur arca fœderis Domini, et vasa Domino consecrata, in domum, quæ ædificatur nomini Domini.
 
 ### Chapter 23
 
@@ -22766,7 +22766,7 @@
 
 **[23:31]** tam in oblatione holocaustorum Domini, quam in sabbatis et Calendis et sollemnitatibus reliquis iuxta numerum, et ceremonias uniuscuiusque rei, iugiter coram Domino.
 
-**[23:32]** Et custodiant observationes tabernaculi fœderis, et ritum sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo Domini. 
+**[23:32]** Et custodiant observationes tabernaculi fœderis, et ritum sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo Domini.
 
 ### Chapter 24
 
@@ -22830,7 +22830,7 @@
 
 **[24:30]** Filii Musi: Moholi, Eder, et Ierimoth. isti filii Levi secundum domos familiarum suarum.
 
-**[24:31]** Miseruntque et ipsi sortes contra fratres suos filios Aaron coram David rege, et Sadoc, et Ahimelech, et principibus familiarum Sacerdotalium et Leviticarum, tam maiores, quam minores. omnes sors æqualiter dividebat. 
+**[24:31]** Miseruntque et ipsi sortes contra fratres suos filios Aaron coram David rege, et Sadoc, et Ahimelech, et principibus familiarum Sacerdotalium et Leviticarum, tam maiores, quam minores. omnes sors æqualiter dividebat.
 
 ### Chapter 25
 
@@ -22894,7 +22894,7 @@
 
 **[25:30]** Vigesimatertia Mahazioth, filiis et fratribus eius duodecim.
 
-**[25:31]** Vigesimaquarta Romemthiezer, filiis et fratribus eius duodecim. 
+**[25:31]** Vigesimaquarta Romemthiezer, filiis et fratribus eius duodecim.
 
 ### Chapter 26
 
@@ -22960,7 +22960,7 @@
 
 **[26:31]** Hebronitarum autem princeps fuit Ieria secundum familias et cognationes eorum. Quadragesimo anno regni David recensiti sunt, et inventi sunt viri fortissimi in Iazer Galaad,
 
-**[26:32]** fratresque eius robustioris ætatis, duo millia septingenti principes familiarum. Præposuit autem eos David rex Rubenitis, et Gadditis, et dimidiæ tribui Manasse, in omne ministerium Dei, et regis. 
+**[26:32]** fratresque eius robustioris ætatis, duo millia septingenti principes familiarum. Præposuit autem eos David rex Rubenitis, et Gadditis, et dimidiæ tribui Manasse, in omne ministerium Dei, et regis.
 
 ### Chapter 27
 
@@ -23030,7 +23030,7 @@
 
 **[27:33]** Achitophel etiam consiliarius regis, et Chusai Arachites amicus regis.
 
-**[27:34]** Post Achitophel fuit Ioiada filius Banaiæ, et Abiathar. Princeps autem exercitus regis erat Ioab. 
+**[27:34]** Post Achitophel fuit Ioiada filius Banaiæ, et Abiathar. Princeps autem exercitus regis erat Ioab.
 
 ### Chapter 28
 
@@ -23074,7 +23074,7 @@
 
 **[28:20]** Dixit quoque David Salomoni filio suo: Viriliter age, et confortare, et fac: ne timeas, et ne paveas: Dominus enim Deus meus tecum erit, et non dimittet te, nec derelinquet donec perficias omne opus ministerii domus Domini.
 
-**[28:21]** Ecce divisiones Sacerdotum et Levitarum, in omne ministerium domus Domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus facere omnia præcepta tua. 
+**[28:21]** Ecce divisiones Sacerdotum et Levitarum, in omne ministerium domus Domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus facere omnia præcepta tua.
 
 ### Chapter 29
 
@@ -23136,7 +23136,7 @@
 
 **[29:29]** Gesta autem David regis priora, et novissima scripta sunt in Libro Samuelis Videntis, et in Libro Nathan prophetæ, atque in volumine Gad Videntis:
 
-**[29:30]** Universique regni eius, et fortitudinis, et temporum, quæ transierunt sub eo, sive in Israel, sive in cunctis regnis terrarum.  
+**[29:30]** Universique regni eius, et fortitudinis, et temporum, quæ transierunt sub eo, sive in Israel, sive in cunctis regnis terrarum.
 
 ## II Chronicles
 
@@ -23174,7 +23174,7 @@
 
 **[1:16]** Adducebantur autem ei equi de Ægypto, et de Coa a negotiatoribus regis, qui ibant, et emebant pretio,
 
-**[1:17]** quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur. 
+**[1:17]** quadrigam equorum sexcentis argenteis, et equum centum quinquaginta: similiter de universis regnis Hethæorum, et a regibus Syriæ emptio celebrabatur.
 
 ### Chapter 2
 
@@ -23212,7 +23212,7 @@
 
 **[2:17]** Numeravit igitur Salomon omnes viros proselytos, qui erant in terra Israel, post dinumerationem, quam dinumeravit David pater eius, et inventi sunt centum quinquaginta millia, et tria millia sexcenti.
 
-**[2:18]** Fecitque ex eis septuaginta millia, qui humeris onera portarent, et octoginta millia, qui lapides in montibus cæderent: tria autem millia et sexcentos præpositos operum populi. 
+**[2:18]** Fecitque ex eis septuaginta millia, qui humeris onera portarent, et octoginta millia, qui lapides in montibus cæderent: tria autem millia et sexcentos præpositos operum populi.
 
 ### Chapter 3
 
@@ -23248,7 +23248,7 @@
 
 **[3:16]** Necnon et quasi catenulas in oraculo, et superposuit eas capitibus columnarum: malogranata etiam centum, quæ catenulis interposuit.
 
-**[3:17]** Ipsas quoque columnas posuit in vestibulo templi, unam a dextris, et alteram a sinistris: eam, quæ a dextris erat, vocavit Iachin: et quæ ad lævam, Booz. 
+**[3:17]** Ipsas quoque columnas posuit in vestibulo templi, unam a dextris, et alteram a sinistris: eam, quæ a dextris erat, vocavit Iachin: et quæ ad lævam, Booz.
 
 ### Chapter 4
 
@@ -23294,7 +23294,7 @@
 
 **[4:21]** et florentia quædam, et lucernas, et forcipes aureos: omnia de auro mundissimo facta sunt.
 
-**[4:22]** Thymiateria quoque, et thuribula, et phialas, et mortariola ex auro purissimo. Et ostia cælavit templi interioris, id est, in Sancta sanctorum: et ostia templi forinsecus aurea. Sicque completum est omne opus, quod fecit Salomon in domo Domini. 
+**[4:22]** Thymiateria quoque, et thuribula, et phialas, et mortariola ex auro purissimo. Et ostia cælavit templi interioris, id est, in Sancta sanctorum: et ostia templi forinsecus aurea. Sicque completum est omne opus, quod fecit Salomon in domo Domini.
 
 ### Chapter 5
 
@@ -23324,7 +23324,7 @@
 
 **[5:13]** Igitur cunctis pariter, et tubis, et voce, et cymbalis, et organis, et diversi generis musicorum concinentibus, et vocem in sublime tollentibus; longe sonitus audiebatur, ita ut cum Dominum laudare cœpissent et dicere: Confitemini Domino quoniam bonus, quoniam in æternum misericordia eius; impleretur domus Dei nube,
 
-**[5:14]** nec possent Sacerdotes stare et ministrare propter caliginem. Compleverat enim gloria Domini domum Dei. 
+**[5:14]** nec possent Sacerdotes stare et ministrare propter caliginem. Compleverat enim gloria Domini domum Dei.
 
 ### Chapter 6
 
@@ -23410,7 +23410,7 @@
 
 **[6:41]** Nunc igitur consurge Domine Deus in requiem tuam, tu et arca fortitudinis tuæ: Sacerdotes tui Domine Deus induantur salutem, et sancti tui lætentur in bonis.
 
-**[6:42]** Domine Deus ne averteris faciem christi tui: memento misericordiarum David servi tui. 
+**[6:42]** Domine Deus ne averteris faciem christi tui: memento misericordiarum David servi tui.
 
 ### Chapter 7
 
@@ -23456,7 +23456,7 @@
 
 **[7:21]** Et domus ista erit in proverbium universis transeuntibus, et dicent stupentes: Quare fecit Dominus sic terræ huic, et domui huic?
 
-**[7:22]** Respondebuntque: Quia dereliquerunt Dominum Deum patrum suorum, qui eduxit eos de Terra Ægypti, et apprehenderunt deos alienos, et adoraverunt eos, et coluerunt: idcirco venerunt super eos universa hæc mala. 
+**[7:22]** Respondebuntque: Quia dereliquerunt Dominum Deum patrum suorum, qui eduxit eos de Terra Ægypti, et apprehenderunt deos alienos, et adoraverunt eos, et coluerunt: idcirco venerunt super eos universa hæc mala.
 
 ### Chapter 8
 
@@ -23494,7 +23494,7 @@
 
 **[8:17]** Tunc abiit Salomon in Asiongaber, et in Ailath ad oram Maris rubri, quæ est in Terra Edom.
 
-**[8:18]** Misit autem ei Hiram per manus servorum suorum naves, et nautas gnaros maris, et abierunt cum servis Salomonis in Ophir, tuleruntque inde quadringenta quinquaginta talenta auri, et attulerunt ad regem Salomonem. 
+**[8:18]** Misit autem ei Hiram per manus servorum suorum naves, et nautas gnaros maris, et abierunt cum servis Salomonis in Ophir, tuleruntque inde quadringenta quinquaginta talenta auri, et attulerunt ad regem Salomonem.
 
 ### Chapter 9
 
@@ -23558,7 +23558,7 @@
 
 **[9:30]** Regnavit autem Salomon in Ierusalem super omnem Israel quadraginta annis.
 
-**[9:31]** Dormivitque cum patribus suis, et sepelierunt eum in Civitate David: regnavitque Roboam filius eius pro eo. 
+**[9:31]** Dormivitque cum patribus suis, et sepelierunt eum in Civitate David: regnavitque Roboam filius eius pro eo.
 
 ### Chapter 10
 
@@ -23598,7 +23598,7 @@
 
 **[10:18]** Misitque rex Roboam Aduram, qui præerat tributis, et lapidaverunt eum filii Israel, et mortuus est: porro rex Roboam currum festinavit ascendere, et fugit in Ierusalem.
 
-**[10:19]** Recessitque Israel a domo David, usque ad diem hanc. 
+**[10:19]** Recessitque Israel a domo David, usque ad diem hanc.
 
 ### Chapter 11
 
@@ -23646,7 +23646,7 @@
 
 **[11:22]** Constituit vero in capite, Abiam filium Maacha ducem super omnes fratres suos: ipsum enim regem facere cogitabat,
 
-**[11:23]** quia sapientior fuit, et potentior super omnes filios eius, et in cunctis finibus Iuda, et Beniamin, et in universis civitatibus muratis: præbuitque eis escas plurimas, et multas petivit uxores. 
+**[11:23]** quia sapientior fuit, et potentior super omnes filios eius, et in cunctis finibus Iuda, et Beniamin, et in universis civitatibus muratis: præbuitque eis escas plurimas, et multas petivit uxores.
 
 ### Chapter 12
 
@@ -23680,7 +23680,7 @@
 
 **[12:15]** Opera vero Roboam prima et novissima scripta sunt in Libris Semeiæ prophetæ, et Addo Videntis, et diligenter exposita: pugnaveruntque adversum se Roboam, et Ieroboam cunctis diebus.
 
-**[12:16]** Et dormivit Roboam cum patribus suis, sepultusque est in Civitate David. Et regnavit Abia filius eius pro eo. 
+**[12:16]** Et dormivit Roboam cum patribus suis, sepultusque est in Civitate David. Et regnavit Abia filius eius pro eo.
 
 ### Chapter 13
 
@@ -23726,7 +23726,7 @@
 
 **[13:21]** Igitur Abia, confortato imperio suo, accepit uxores quattuordecim: procreavitque viginti duos filios, et sedecim filias.
 
-**[13:22]** Reliqua autem sermonum Abia, viarumque et operum eius, scripta sunt diligentissime in Libro Addo Prophetæ. 
+**[13:22]** Reliqua autem sermonum Abia, viarumque et operum eius, scripta sunt diligentissime in Libro Addo Prophetæ.
 
 ### Chapter 14
 
@@ -23758,7 +23758,7 @@
 
 **[14:14]** et percusserunt civitates omnes per circuitum Geraræ: grandis quippe cunctos terror invaserat: et diripuerunt urbes, et multam prædam asportaverunt.
 
-**[14:15]** Sed et caulas ovium destruentes, tulerunt pecorum infinitam multitudinem, et camelorum: reversique sunt in Ierusalem. 
+**[14:15]** Sed et caulas ovium destruentes, tulerunt pecorum infinitam multitudinem, et camelorum: reversique sunt in Ierusalem.
 
 ### Chapter 15
 
@@ -23798,7 +23798,7 @@
 
 **[15:18]** Eaque quæ voverat pater suus, et ipse, intulit in domum Domini, argentum, et aurum, vasorumque diversam supellectilem.
 
-**[15:19]** Bellum vero non fuit usque ad trigesimum quintum annum regni Asa. 
+**[15:19]** Bellum vero non fuit usque ad trigesimum quintum annum regni Asa.
 
 ### Chapter 16
 
@@ -23828,7 +23828,7 @@
 
 **[16:13]** Dormivitque cum patribus suis: et mortuus est anno quadragesimo primo regni sui.
 
-**[16:14]** Et sepelierunt eum in sepulchro suo quod foderat sibi in Civitate David: posueruntque eum super lectum suum plenum aromatibus et unguentibus meretriciis, quæ erant pigmentariorum arte confecta, et combusserunt super eum ambitione nimia. 
+**[16:14]** Et sepelierunt eum in sepulchro suo quod foderat sibi in Civitate David: posueruntque eum super lectum suum plenum aromatibus et unguentibus meretriciis, quæ erant pigmentariorum arte confecta, et combusserunt super eum ambitione nimia.
 
 ### Chapter 17
 
@@ -23868,7 +23868,7 @@
 
 **[17:18]** Post istum etiam Iozabad, et cum eo centum octoginta millia expeditorum militum.
 
-**[17:19]** Hi omnes erant ad manum regis, exceptis aliis, quos posuerat in urbibus muratis, in universo Iuda. 
+**[17:19]** Hi omnes erant ad manum regis, exceptis aliis, quos posuerat in urbibus muratis, in universo Iuda.
 
 ### Chapter 18
 
@@ -23938,7 +23938,7 @@
 
 **[18:33]** Accidit autem ut unus e populo sagittam in incertum iaceret, et percuteret regem Israel inter cervicem et scapulas, at ille aurigæ suo ait: Converte manum tuam, et educ me de acie, quia vulneratus sum.
 
-**[18:34]** Et finita est pugna in die illo: porro rex Israel stabat in curru suo contra Syros usque ad vesperam, et mortuus est occidente sole. 
+**[18:34]** Et finita est pugna in die illo: porro rex Israel stabat in curru suo contra Syros usque ad vesperam, et mortuus est occidente sole.
 
 ### Chapter 19
 
@@ -23962,7 +23962,7 @@
 
 **[19:10]** Omnem causam, quæ venerit ad vos fratrum vestrorum, qui habitant in urbibus suis inter cognationem et cognationem, ubicumque quæstio est de lege, de mandato, de ceremoniis, de iustificationibus: ostendite eis, ut non peccent in Dominum, et ne veniat ira super vos et super fratres vestros: sic ergo agentes non peccabitis.
 
-**[19:11]** Amarias autem sacerdos et pontifex vester, in his, quæ ad Deum pertinent, præsidebit: porro Zabadias filius Ismahel, qui est dux in domo Iuda, super ea opera erit, quæ ad regis officium pertinent: habetisque magistros Levitas coram vobis, confortamini, et agite diligenter, et erit Dominus vobiscum in bonis. 
+**[19:11]** Amarias autem sacerdos et pontifex vester, in his, quæ ad Deum pertinent, præsidebit: porro Zabadias filius Ismahel, qui est dux in domo Iuda, super ea opera erit, quæ ad regis officium pertinent: habetisque magistros Levitas coram vobis, confortamini, et agite diligenter, et erit Dominus vobiscum in bonis.
 
 ### Chapter 20
 
@@ -24038,7 +24038,7 @@
 
 **[20:36]** Et particeps fuit ut facerent naves, quæ irent in Tharsis: feceruntque classem in Asiongaber.
 
-**[20:37]** Prophetavit autem Eliezer filius Dodau de Maresa ad Iosaphat, dicens: Quia habuisti fœdus cum Ochozia, percussit Dominus opera tua, contritæque sunt naves, nec potuerunt ire in Tharsis. 
+**[20:37]** Prophetavit autem Eliezer filius Dodau de Maresa ad Iosaphat, dicens: Quia habuisti fœdus cum Ochozia, percussit Dominus opera tua, contritæque sunt naves, nec potuerunt ire in Tharsis.
 
 ### Chapter 21
 
@@ -24080,7 +24080,7 @@
 
 **[21:19]** Cumque diei succederet dies, et temporum spatia volverentur, duorum annorum expletus est circulus: et sic longa consumptus tabe, ita ut egereret etiam viscera sua, languore pariter, et vita caruit. Mortuusque est in infirmitate pessima, et non fecit ei populus secundum morem combustionis, exequias, sicut fecerat maioribus eius.
 
-**[21:20]** Trigintaduorum annorum fuit, cum regnare cœpisset, et octo annis regnavit in Ierusalem. Ambulavitque non recte, et sepelierunt eum in Civitate David: verumtamen non in sepulchro regum. 
+**[21:20]** Trigintaduorum annorum fuit, cum regnare cœpisset, et octo annis regnavit in Ierusalem. Ambulavitque non recte, et sepelierunt eum in Civitate David: verumtamen non in sepulchro regum.
 
 ### Chapter 22
 
@@ -24106,7 +24106,7 @@
 
 **[22:11]** Porro Iosabeth filia regis tulit Ioas filium Ochoziæ, et furata est eum de medio filiorum regis, cum interficerentur: absconditque eum cum nutrice sua in cubiculo lectulorum: Iosabeth autem, quæ absconderat eum, erat filia regis Ioram, uxor Ioiadæ pontificis, soror Ochoziæ, et idcirco Athalia non interfecit eum.
 
-**[22:12]** Fuit ergo cum eis in domo Dei absconditus sex annis, quibus regnavit Athalia super terram. 
+**[22:12]** Fuit ergo cum eis in domo Dei absconditus sex annis, quibus regnavit Athalia super terram.
 
 ### Chapter 23
 
@@ -24150,7 +24150,7 @@
 
 **[23:20]** Assumpsitque centuriones, et fortissimos viros ac principes populi, et omne vulgus terræ, et fecerunt descendere regem de domo Domini, et introire per medium portæ superioris in domum regis, et collocaverunt eum in solio regali.
 
-**[23:21]** Lætatusque est omnis populus terræ, et urbs quievit: porro Athalia interfecta est gladio. 
+**[23:21]** Lætatusque est omnis populus terræ, et urbs quievit: porro Athalia interfecta est gladio.
 
 ### Chapter 24
 
@@ -24206,7 +24206,7 @@
 
 **[24:26]** Insidiati vero sunt ei Zabad filius Semmaath Ammanitidis, et Iozabad filius Semarith Moabitidis.
 
-**[24:27]** Porro filii eius, ac summa pecuniæ, quæ adunata fuerat sub eo, et instauratio domus Dei scripta sunt diligentius in Libro regum: regnavit autem Amasias filius eius pro eo. 
+**[24:27]** Porro filii eius, ac summa pecuniæ, quæ adunata fuerat sub eo, et instauratio domus Dei scripta sunt diligentius in Libro regum: regnavit autem Amasias filius eius pro eo.
 
 ### Chapter 25
 
@@ -24264,7 +24264,7 @@
 
 **[25:27]** Qui postquam recessit a Domino, tetenderunt ei insidias in Ierusalem. Cumque fugisset in Lachis, miserunt, et interfecerunt eum ibi.
 
-**[25:28]** Reportantesque super equos, sepelierunt eum cum patribus suis in Civitate David. 
+**[25:28]** Reportantesque super equos, sepelierunt eum cum patribus suis in Civitate David.
 
 ### Chapter 26
 
@@ -24312,7 +24312,7 @@
 
 **[26:22]** Reliqua autem sermonum Oziæ priorum et novissimorum scripsit Isaias filius Amos, propheta.
 
-**[26:23]** Dormivitque Ozias cum patribus suis, et sepelierunt eum in agro regalium sepulchrorum, eo quod esset leprosus: regnavitque Ioatham filius eius pro eo. 
+**[26:23]** Dormivitque Ozias cum patribus suis, et sepelierunt eum in agro regalium sepulchrorum, eo quod esset leprosus: regnavitque Ioatham filius eius pro eo.
 
 ### Chapter 27
 
@@ -24332,7 +24332,7 @@
 
 **[27:8]** Vigintiquinque annorum erat cum regnare cœpisset, et sedecim annis regnavit in Ierusalem.
 
-**[27:9]** Dormivitque Ioatham cum patribus suis, et sepelierunt eum in Civitate David: et regnavit Achaz filius eius pro eo. 
+**[27:9]** Dormivitque Ioatham cum patribus suis, et sepelierunt eum in Civitate David: et regnavit Achaz filius eius pro eo.
 
 ### Chapter 28
 
@@ -24388,7 +24388,7 @@
 
 **[28:26]** Reliqua autem sermonum eius, et omnium operum suorum priorum et novissimorum scripta sunt in Libro regum Iuda et Israel.
 
-**[28:27]** Dormivitque Achaz cum patribus suis, et sepelierunt eum in civitate Ierusalem: neque enim receperunt eum in sepulchra regum Israel. Regnavitque Ezechias filius eius pro eo. 
+**[28:27]** Dormivitque Achaz cum patribus suis, et sepelierunt eum in civitate Ierusalem: neque enim receperunt eum in sepulchra regum Israel. Regnavitque Ezechias filius eius pro eo.
 
 ### Chapter 29
 
@@ -24462,7 +24462,7 @@
 
 **[29:35]** Fuerunt ergo holocausta plurima, adipes pacificorum, et libamina holocaustorum: et completus est cultus domus Domini.
 
-**[29:36]** Lætatusque est Ezechas, et omnis populus eo quod ministerium Domini esset expletum. De repente quippe hoc fieri placuerat. 
+**[29:36]** Lætatusque est Ezechas, et omnis populus eo quod ministerium Domini esset expletum. De repente quippe hoc fieri placuerat.
 
 ### Chapter 30
 
@@ -24518,7 +24518,7 @@
 
 **[30:26]** Factaque est grandis celebritas in Ierusalem, qualis a diebus Salomonis filii David regis Israel in ea urbe non fuerat.
 
-**[30:27]** Surrexerunt autem Sacerdotes atque Levitæ benedicentes populo: et exaudita est vox eorum: pervenitque oratio in habitaculum sanctum cæli. 
+**[30:27]** Surrexerunt autem Sacerdotes atque Levitæ benedicentes populo: et exaudita est vox eorum: pervenitque oratio in habitaculum sanctum cæli.
 
 ### Chapter 31
 
@@ -24562,7 +24562,7 @@
 
 **[31:20]** Fecit ergo Ezechias universa quæ diximus in omni Iuda: operatusque est bonum et rectum, et verum coram Domino Deo suo
 
-**[31:21]** in universa cultura ministerii domus Domini, iuxta legem et ceremonias, volens requirere Deum suum in toto corde suo: fecitque et prosperatus est. 
+**[31:21]** in universa cultura ministerii domus Domini, iuxta legem et ceremonias, volens requirere Deum suum in toto corde suo: fecitque et prosperatus est.
 
 ### Chapter 32
 
@@ -24630,7 +24630,7 @@
 
 **[32:32]** Reliqua autem sermonum Ezechiæ, et misericordiarum eius scripta sunt in visione Isaiæ filii Amos prophetæ, et in libro regum Iuda et Israel.
 
-**[32:33]** Dormivitque Ezechias cum patribus suis, et sepelierunt eum super sepulchra filiorum David: et celebravit eius exequias universus Iuda, et omnes habitatores Ierusalem: regnavitque Manasses filius eius pro eo. 
+**[32:33]** Dormivitque Ezechias cum patribus suis, et sepelierunt eum super sepulchra filiorum David: et celebravit eius exequias universus Iuda, et omnes habitatores Ierusalem: regnavitque Manasses filius eius pro eo.
 
 ### Chapter 33
 
@@ -24682,7 +24682,7 @@
 
 **[33:24]** Cumque coniurassent adversus eum servi sui, interfecerunt eum in domo sua.
 
-**[33:25]** Porro reliqua populi multitudo, cæsis iis, qui Amon percusserant, constituit regem Iosiam filium eius pro eo. 
+**[33:25]** Porro reliqua populi multitudo, cæsis iis, qui Amon percusserant, constituit regem Iosiam filium eius pro eo.
 
 ### Chapter 34
 
@@ -24750,7 +24750,7 @@
 
 **[34:32]** Adiuravit quoque super hoc omnes, qui reperti fuerant in Ierusalem, et Beniamin: et fecerunt habitatores Ierusalem iuxta pactum Domini Dei patrum suorum.
 
-**[34:33]** Abstulit ergo Iosias cunctas abominationes de universis regionibus filiorum Israel: et fecit omnes, qui residui erant in Israel, servire Domino Deo suo. Cunctis diebus eius non recesserunt a Domino Deo patrum suorum. 
+**[34:33]** Abstulit ergo Iosias cunctas abominationes de universis regionibus filiorum Israel: et fecit omnes, qui residui erant in Israel, servire Domino Deo suo. Cunctis diebus eius non recesserunt a Domino Deo patrum suorum.
 
 ### Chapter 35
 
@@ -24806,7 +24806,7 @@
 
 **[35:26]** Reliqua autem sermonum Iosiæ et misericordiarum eius: quæ lege præcepta sunt Domini:
 
-**[35:27]** opera quoque illius prima et novissima, scripta sunt in Libro regum Iuda et Israel. 
+**[35:27]** opera quoque illius prima et novissima, scripta sunt in Libro regum Iuda et Israel.
 
 ### Chapter 36
 
@@ -24854,7 +24854,7 @@
 
 **[36:22]** Anno autem primo Cyri regis Persarum ad explendum sermonem Domini, quem locutus fuerat per os Ieremiæ, suscitavit Dominus spiritum Cyri regis Persarum: qui iussit prædicari in universo regno suo, etiam per scripturam, dicens:
 
-**[36:23]** Hæc dicit Cyrus rex Persarum: Omnia regna terræ dedit mihi Dominus Deus cæli, et ipse præcepit mihi ut ædificarem ei domum in Ierusalem, quæ est in Iudæa: quis ex vobis est in omni populo eius? sit Dominus Deis suus cum eo, et ascendat.  
+**[36:23]** Hæc dicit Cyrus rex Persarum: Omnia regna terræ dedit mihi Dominus Deus cæli, et ipse præcepit mihi ut ædificarem ei domum in Ierusalem, quæ est in Iudæa: quis ex vobis est in omni populo eius? sit Dominus Deis suus cum eo, et ascendat.
 
 ## Ezra
 
@@ -24880,7 +24880,7 @@
 
 **[1:10]** scyphi argentei secundi quadringenti decem: vasa alia mille.
 
-**[1:11]** Omnia vasa aurea et argentea quinque millia quadringenta: universa tulit Sassabasar cum his, qui ascendebant de transmigratione Babylonis in Ierusalem. 
+**[1:11]** Omnia vasa aurea et argentea quinque millia quadringenta: universa tulit Sassabasar cum his, qui ascendebant de transmigratione Babylonis in Ierusalem.
 
 ### Chapter 2
 
@@ -25022,7 +25022,7 @@
 
 **[2:69]** Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum.
 
-**[2:70]** Habitaverunt ergo Sacerdotes, et Levitæ, et de populo, et cantores, et ianitores, et Nathinæi in urbibus suis, universusque Israel in civitatibus suis. 
+**[2:70]** Habitaverunt ergo Sacerdotes, et Levitæ, et de populo, et cantores, et ianitores, et Nathinæi in urbibus suis, universusque Israel in civitatibus suis.
 
 ### Chapter 3
 
@@ -25050,7 +25050,7 @@
 
 **[3:12]** plurimi etiam de Sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum in oculis eorum, flebant voce magna: et multi vociferantes in lætitia, elevabant vocem.
 
-**[3:13]** Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul. 
+**[3:13]** Nec poterat quisquam agnoscere vocem clamoris lætantium, et vocem fletus populi: commixtim enim populus vociferabatur clamore magno, et vox audiebatur procul.
 
 ### Chapter 4
 
@@ -25100,7 +25100,7 @@
 
 **[4:23]** Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Ierusalem ad Iudæos, et prohibuerunt eos in brachio et robore.
 
-**[4:24]** Tunc intermissum est opus domus Domini in Ierusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum. 
+**[4:24]** Tunc intermissum est opus domus Domini in Ierusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum.
 
 ### Chapter 5
 
@@ -25136,7 +25136,7 @@
 
 **[5:16]** Tunc itaque Sassabasar ille venit et posuit fundamenta templi Dei in Ierusalem, et ex eo tempore usque nunc ædificatur, et necdum completum est.
 
-**[5:17]** Nunc ergo, si videtur regi bonum, recenseat in bibliotheca regis, quæ est in Babylone, utrumnam a Cyro rege iussum fuerit ut ædificaretur domus Dei in Ierusalem, et voluntatem regis super hac re mittat ad nos. 
+**[5:17]** Nunc ergo, si videtur regi bonum, recenseat in bibliotheca regis, quæ est in Babylone, utrumnam a Cyro rege iussum fuerit ut ædificaretur domus Dei in Ierusalem, et voluntatem regis super hac re mittat ad nos.
 
 ### Chapter 6
 
@@ -25182,7 +25182,7 @@
 
 **[6:21]** Et comederunt filii Israel, qui reversi fuerant de transmigratione, et omnes qui se separaverant a coinquinatione Gentium terræ ad eos, ut quærerent Dominum Deum Israel.
 
-**[6:22]** Et fecerunt sollemnitatem azymorum septem diebus in lætitia, quoniam lætificaverat eos Dominus, et converterat cor regis Assur ad eos, ut adiuvaret manus eorum in opere domus Domini Dei Israel. 
+**[6:22]** Et fecerunt sollemnitatem azymorum septem diebus in lætitia, quoniam lætificaverat eos Dominus, et converterat cor regis Assur ad eos, ut adiuvaret manus eorum in opere domus Domini Dei Israel.
 
 ### Chapter 7
 
@@ -25240,7 +25240,7 @@
 
 **[7:27]** Benedictus Dominus Deus patrum nostrorum, qui dedit hoc in corde regis ut glorificaret domum Domini, quæ est in Ierusalem,
 
-**[7:28]** et in me inclinavit misericordiam suam coram rege et consiliatoribus eius, et universis principibus regis potentibus: et ego confortatus manu Domini Dei mei, quæ erat in me, congregavi de Israel principes qui ascenderent mecum. 
+**[7:28]** et in me inclinavit misericordiam suam coram rege et consiliatoribus eius, et universis principibus regis potentibus: et ego confortatus manu Domini Dei mei, quæ erat in me, congregavi de Israel principes qui ascenderent mecum.
 
 ### Chapter 8
 
@@ -25314,7 +25314,7 @@
 
 **[8:35]** Sed et qui venerant de captivitate filii transmigrationis, obtulerunt holocautomata Deo Israel, vitulos duodecim pro omni populo Israel, arietes nonaginta sex, agnos septuaginta septem, hircos pro peccato, duodecim: omnia in holocaustum Domino.
 
-**[8:36]** Dederunt autem edicta regis satrapis, qui erant de conspectu regis et ducibus trans Flumen, et elevaverunt populum et domum Dei. 
+**[8:36]** Dederunt autem edicta regis satrapis, qui erant de conspectu regis et ducibus trans Flumen, et elevaverunt populum et domum Dei.
 
 ### Chapter 9
 
@@ -25346,7 +25346,7 @@
 
 **[9:14]** ut non converteremur, et irrita faceremus mandata tua, neque matrimonia iungeremus cum populis abominationum istarum. Numquid iratus es nobis usque ad consummationem ne dimitteres nobis reliquias ad salutem?
 
-**[9:15]** Domine Deus Israel iustus es tu: quoniam derelicti sumus, qui salvaremur sicut die hac. Ecce coram te sumus in delicto nostro. non enim stari potest coram te super hoc. 
+**[9:15]** Domine Deus Israel iustus es tu: quoniam derelicti sumus, qui salvaremur sicut die hac. Ecce coram te sumus in delicto nostro. non enim stari potest coram te super hoc.
 
 ### Chapter 10
 
@@ -25436,7 +25436,7 @@
 
 **[10:43]** De filiis Nebo, Iehiel, Mathathias, Zabad, Zabina, Ieddu, et Ioel, et Banaia.
 
-**[10:44]** Omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, quæ pepererant filios.  
+**[10:44]** Omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, quæ pepererant filios.
 
 ## Nehemiah
 
@@ -25462,7 +25462,7 @@
 
 **[1:10]** Et ipsi servi tui, et populus tuus: quos redemisti in fortitudine tua magna, et in manu tua valida.
 
-**[1:11]** Obsecro Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. ego enim eram pincerna regis. 
+**[1:11]** Obsecro Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum: et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. ego enim eram pincerna regis.
 
 ### Chapter 2
 
@@ -25504,7 +25504,7 @@
 
 **[2:19]** Audierunt autem Sanaballat Horonites, et Tobias servus Ammanites, et Gosem Arabs, et subsannaverunt nos, et despexerunt, dixeruntque: Quæ est hæc res, quam facitis? numquid contra regem vos rebellatis?
 
-**[2:20]** Et reddidi eis sermonem, dixique ad eos: Deus cæli ipse nos iuvat, et nos servi eius sumus: surgamus et ædificemus: vobis autem non est pars, et iustitia, et memoria in Ierusalem. 
+**[2:20]** Et reddidi eis sermonem, dixique ad eos: Deus cæli ipse nos iuvat, et nos servi eius sumus: surgamus et ædificemus: vobis autem non est pars, et iustitia, et memoria in Ierusalem.
 
 ### Chapter 3
 
@@ -25568,7 +25568,7 @@
 
 **[3:30]** Post eum ædificavit Hanania filius Selemiæ, et Hanun filius Seleph sextus, mensuram secundam: post eum ædificavit Mosollam filius Barachiæ, contra gazophylacium suum. Post eum ædificavit Melchias filius aurificis usque ad domum Nathinæorum, et scruta vendentium contra portam iudicialem, et usque ad cœnaculum anguli.
 
-**[3:31]** Et inter cœnaculum anguli in porta gregis ædificaverunt aurifices et negotiatores. 
+**[3:31]** Et inter cœnaculum anguli in porta gregis ædificaverunt aurifices et negotiatores.
 
 ### Chapter 4
 
@@ -25616,7 +25616,7 @@
 
 **[4:22]** In tempore quoque illo dixi populo: Unusquisque cum puero suo maneat in medio Ierusalem, et sint nobis vices per noctem, et diem, ad operandum.
 
-**[4:23]** Ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra: unusquisque tantum nudabatur ad baptismum. 
+**[4:23]** Ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra: unusquisque tantum nudabatur ad baptismum.
 
 ### Chapter 5
 
@@ -25656,7 +25656,7 @@
 
 **[5:18]** Parabatur autem mihi per dies singulos bos unus, arietes sex electi, exceptis volatilibus, et inter dies decem vina diversa, et alia multa tribuebam: insuper et annonas ducatus mei non quæsivi: valde enim attenuatus erat populus.
 
-**[5:19]** Memento mei Deus meus in bonum secundum omnia, quæ feci populo huic. 
+**[5:19]** Memento mei Deus meus in bonum secundum omnia, quæ feci populo huic.
 
 ### Chapter 6
 
@@ -25696,7 +25696,7 @@
 
 **[6:18]** Multi enim erant in Iudæa habentes iuramentum eius, quia gener erat Secheniæ filii Area, et Iohanan filius eius acceperat filiam Mosollam filii Barachiæ:
 
-**[6:19]** sed et laudabant eum coram me, et verba mea nunciabant ei: et Tobias mittebat epistolas ut terreret me. 
+**[6:19]** sed et laudabant eum coram me, et verba mea nunciabant ei: et Tobias mittebat epistolas ut terreret me.
 
 ### Chapter 7
 
@@ -25844,7 +25844,7 @@
 
 **[7:72]** Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexagintaseptem.
 
-**[7:73]** Habitaverunt autem Sacerdotes, et Levitæ, et ianitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israel in civitatibus suis. 
+**[7:73]** Habitaverunt autem Sacerdotes, et Levitæ, et ianitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israel in civitatibus suis.
 
 ### Chapter 8
 
@@ -25882,7 +25882,7 @@
 
 **[8:17]** Fecit ergo universa ecclesia eorum, qui redierant de captivitate, tabernacula, et habitaverunt in tabernaculis: non enim fecerant a diebus Iosue filii Nun taliter filii Israel usque ad diem illum. Et fuit lætitia magna nimis.
 
-**[8:18]** Legit autem in Libro legis Dei per dies singulos, a die primo usque ad diem novissimum. et fecerunt sollemnitatem septem diebus, et in die octavo collectam iuxta ritum. 
+**[8:18]** Legit autem in Libro legis Dei per dies singulos, a die primo usque ad diem novissimum. et fecerunt sollemnitatem septem diebus, et in die octavo collectam iuxta ritum.
 
 ### Chapter 9
 
@@ -25960,7 +25960,7 @@
 
 **[9:37]** Et fruges eius multiplicantur regibus, quos posuisti super nos propter peccata nostra, et corporibus nostris dominantur, et iumentis nostris secundum voluntatem suam, et in tribulatione magna sumus.
 
-**[9:38]** Super omnibus ergo his nosipsi percutimus fœdus, et scribimus, et signant principes nostri, Levitæ nostri, et Sacerdotes nostri. 
+**[9:38]** Super omnibus ergo his nosipsi percutimus fœdus, et scribimus, et signant principes nostri, Levitæ nostri, et Sacerdotes nostri.
 
 ### Chapter 10
 
@@ -26040,7 +26040,7 @@
 
 **[10:38]** Erit autem Sacerdos filius Aaron cum Levitis in decimis Levitarum, et Levitæ offerent decimam partem decimæ suæ in domo Dei nostri, ad gazophylacium in domum thesauri.
 
-**[10:39]** Ad gazophylacium enim deportabunt filii Israel, et filii Levi primitias frumenti, vini, et olei: et ibi erunt vasa sanctificata, et Sacerdotes, et cantores, et ianitores, et ministri, et non dimittemus domum Dei nostri. 
+**[10:39]** Ad gazophylacium enim deportabunt filii Israel, et filii Levi primitias frumenti, vini, et olei: et ibi erunt vasa sanctificata, et Sacerdotes, et cantores, et ianitores, et ministri, et non dimittemus domum Dei nostri.
 
 ### Chapter 11
 
@@ -26114,7 +26114,7 @@
 
 **[11:35]** et Ono valle artificum.
 
-**[11:36]** Et de Levitis portiones Iudæ et Beniamin. 
+**[11:36]** Et de Levitis portiones Iudæ et Beniamin.
 
 ### Chapter 12
 
@@ -26208,7 +26208,7 @@
 
 **[12:45]** quia in diebus David et Asaph ab exordio erant principes constituti cantorum in carmine laudantium, et confitentium Deo.
 
-**[12:46]** Et omnis Israel, in diebus Zorobabel, et in diebus Nehemiæ dabant partes cantoribus et ianitoribus per dies singulos, et sanctificabant Levitas, et Levitæ sanctificabant filios Aaron. 
+**[12:46]** Et omnis Israel, in diebus Zorobabel, et in diebus Nehemiæ dabant partes cantoribus et ianitoribus per dies singulos, et sanctificabant Levitas, et Levitæ sanctificabant filios Aaron.
 
 ### Chapter 13
 
@@ -26272,7 +26272,7 @@
 
 **[13:30]** Igitur mundavi eos ab omnibus alienigenis, et constitui ordines Sacerdotum et Levitarum, unumquemque in ministerio suo:
 
-**[13:31]** et in oblatione lignorum in temporibus constitutis, et in primitivis: memento mei Deus meus in bonum. Amen.  
+**[13:31]** et in oblatione lignorum in temporibus constitutis, et in primitivis: memento mei Deus meus in bonum. Amen.
 
 ## Tobit
 
@@ -26326,7 +26326,7 @@
 
 **[1:24]** Post dies vero quadragintaquinque occiderunt regem filii ipsius,
 
-**[1:25]** et reversus est Tobias in domum suam, omnisque facultas eius restituta est ei. 
+**[1:25]** et reversus est Tobias in domum suam, omnisque facultas eius restituta est ei.
 
 ### Chapter 2
 
@@ -26374,7 +26374,7 @@
 
 **[2:22]** Ad hæc uxor eius irata respondit: Manifeste vana facta est spes tua, et eleemosynæ tuæ modo apparuerunt.
 
-**[2:23]** Atque his, et aliis huiuscemodi verbis exprobrabat ei. 
+**[2:23]** Atque his, et aliis huiuscemodi verbis exprobrabat ei.
 
 ### Chapter 3
 
@@ -26426,7 +26426,7 @@
 
 **[3:24]** In illo tempore exauditæ sunt preces amborum in conspectu gloriæ summi Dei:
 
-**[3:25]** et missus est Angelus Domini sanctus Raphael, ut curaret eos ambos, quorum uno tempore sunt orationes in conspectu Domini recitatæ. 
+**[3:25]** et missus est Angelus Domini sanctus Raphael, ut curaret eos ambos, quorum uno tempore sunt orationes in conspectu Domini recitatæ.
 
 ### Chapter 4
 
@@ -26474,7 +26474,7 @@
 
 **[4:22]** et ideo perquire quo modo ad eum pervenias, et recipias ab eo supra memoratum pondus argenti, et restituas ei chirographum suum.
 
-**[4:23]** Noli timere fili mi: pauperem quidem vitam gerimus, sed multa bona habebimus si timuerimus Deum, et recesserimus ab omni peccato, et fecerimus bene. 
+**[4:23]** Noli timere fili mi: pauperem quidem vitam gerimus, sed multa bona habebimus si timuerimus Deum, et recesserimus ab omni peccato, et fecerimus bene.
 
 ### Chapter 5
 
@@ -26532,7 +26532,7 @@
 
 **[5:27]** Credo enim quod Angelus Dei bonus comitetur ei, et bene disponat omnia, quæ circa eum geruntur, ita ut cum gaudio revertatur ad nos.
 
-**[5:28]** Ad hanc vocem cessavit mater eius flere, et tacuit. 
+**[5:28]** Ad hanc vocem cessavit mater eius flere, et tacuit.
 
 ### Chapter 6
 
@@ -26578,7 +26578,7 @@
 
 **[6:21]** Tertia autem nocte, benedictionem consequeris, ut filii ex vobis procreentur incolumes.
 
-**[6:22]** Transacta autem tertia nocte, accipies virginem cum timore Domini, amore filiorum magis quam libidine ductus, ut in semine Abrahæ benedictionem in filiis consequaris. 
+**[6:22]** Transacta autem tertia nocte, accipies virginem cum timore Domini, amore filiorum magis quam libidine ductus, ut in semine Abrahæ benedictionem in filiis consequaris.
 
 ### Chapter 7
 
@@ -26620,7 +26620,7 @@
 
 **[7:19]** Et introduxit illuc Saram filiam suam, et lacrymata est.
 
-**[7:20]** Dixitque ei: Forti animo esto filia mea: Dominus cæli det tibi gaudium pro tædio quod perpessa es. 
+**[7:20]** Dixitque ei: Forti animo esto filia mea: Dominus cæli det tibi gaudium pro tædio quod perpessa es.
 
 ### Chapter 8
 
@@ -26670,7 +26670,7 @@
 
 **[8:23]** Et adiuravit Raguel Tobiam, ut duas hebdomadas moraretur apud se.
 
-**[8:24]** De omnibus autem, quæ possidebat Raguel, dimidiam partem dedit Tobiæ, et fecit scripturam, ut pars dimidia quæ supererat post obitum eorum, Tobiæ dominio deveniret. 
+**[8:24]** De omnibus autem, quæ possidebat Raguel, dimidiam partem dedit Tobiæ, et fecit scripturam, ut pars dimidia quæ supererat post obitum eorum, Tobiæ dominio deveniret.
 
 ### Chapter 9
 
@@ -26696,7 +26696,7 @@
 
 **[9:11]** et videatis filios vestros, et filios filiorum vestrorum, usque in tertiam et quartam generationem: et sit semen vestrum benedictum a Deo Israel, qui regnat in sæcula sæculorum.
 
-**[9:12]** Cumque omnes dixissent, Amen, accesserunt ad convivium: sed et cum timore Domini nuptiarum convivium exercebant. 
+**[9:12]** Cumque omnes dixissent, Amen, accesserunt ad convivium: sed et cum timore Domini nuptiarum convivium exercebant.
 
 ### Chapter 10
 
@@ -26724,7 +26724,7 @@
 
 **[10:12]** Et apprehendentes parentes filiam suam, osculati sunt eam, et dimiserunt ire:
 
-**[10:13]** monentes eam honorare soceros, diligere maritum, regere familiam, gubernare domum, et seipsam irreprehensibilem exhibere. 
+**[10:13]** monentes eam honorare soceros, diligere maritum, regere familiam, gubernare domum, et seipsam irreprehensibilem exhibere.
 
 ### Chapter 11
 
@@ -26768,7 +26768,7 @@
 
 **[11:20]** Veneruntque Achior et Nabath consobrini Tobiæ, gaudentes ad Tobiam, et congratulantes ei de omnibus bonis quæ circa illum ostenderat Deus.
 
-**[11:21]** Et per septem dies epulantes, omnes cum gaudio magno gavisi sunt. 
+**[11:21]** Et per septem dies epulantes, omnes cum gaudio magno gavisi sunt.
 
 ### Chapter 12
 
@@ -26814,7 +26814,7 @@
 
 **[12:21]** Et cum hæc dixisset, ab aspectu eorum ablatus est, et ultra eum videre non potuerunt.
 
-**[12:22]** Tunc prostrati per horas tres in faciem, benedixerunt Deum: et exsurgentes narraverunt omnia mirabilia eius. 
+**[12:22]** Tunc prostrati per horas tres in faciem, benedixerunt Deum: et exsurgentes narraverunt omnia mirabilia eius.
 
 ### Chapter 13
 
@@ -26862,7 +26862,7 @@
 
 **[13:22]** Ex lapide candido et mundo omnes plateæ eius sternentur: et per vicos eius alleluia cantabitur.
 
-**[13:23]** Benedictus Dominus, qui exaltavit eam, et sit regnum eius in sæcula sæculorum super eam. Amen. 
+**[13:23]** Benedictus Dominus, qui exaltavit eam, et sit regnum eius in sæcula sæculorum super eam. Amen.
 
 ### Chapter 14
 
@@ -26898,7 +26898,7 @@
 
 **[14:16]** Et completis annis nonagintanovem in timore Domini, cum gaudio sepelierunt eum.
 
-**[14:17]** Omnis autem cognatio eius, et omnis generatio eius in bona vita, et in sancta conversatione permansit, ita ut accepti essent tam Deo, quam hominibus, et cunctis habitantibus in terra.  
+**[14:17]** Omnis autem cognatio eius, et omnis generatio eius in bona vita, et in sancta conversatione permansit, ita ut accepti essent tam Deo, quam hominibus, et cunctis habitantibus in terra.
 
 ## Judith
 
@@ -26926,7 +26926,7 @@
 
 **[1:11]** qui omnes uno animo contradixerunt, et remiserunt eos vacuos, et sine honore abiecerunt.
 
-**[1:12]** Tunc indignatus Nabuchodonosor rex adversus omnem terram illam, iuravit per thronum et regnum suum quod defenderet se de omnibus regionibus his. 
+**[1:12]** Tunc indignatus Nabuchodonosor rex adversus omnem terram illam, iuravit per thronum et regnum suum quod defenderet se de omnibus regionibus his.
 
 ### Chapter 2
 
@@ -26964,7 +26964,7 @@
 
 **[2:17]** Et post hæc descendit in campos Damasci in diebus messis, et succendit omnia sata, omnesque arbores, et vineas fecit incidi:
 
-**[2:18]** et cecidit timor illius super omnes inhabitantes terram. 
+**[2:18]** et cecidit timor illius super omnes inhabitantes terram.
 
 ### Chapter 3
 
@@ -26996,7 +26996,7 @@
 
 **[3:14]** Pertransiens autem Syriam Sobal, et omnem Apameam, omnemque Mesopotamiam, venit ad Idumæos in terram Gabaa,
 
-**[3:15]** accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ. 
+**[3:15]** accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ.
 
 ### Chapter 4
 
@@ -27032,7 +27032,7 @@
 
 **[4:16]** ita ut etiam hi, qui offerebant Domino holocausta, præcincti ciliciis offerrent sacrificia Domino, et erat cinis super capita eorum.
 
-**[4:17]** Et ex toto corde suo omnes orabant Deum, ut visitaret populum suum Israel. 
+**[4:17]** Et ex toto corde suo omnes orabant Deum, ut visitaret populum suum Israel.
 
 ### Chapter 5
 
@@ -27092,7 +27092,7 @@
 
 **[5:28]** Ut ergo agnoscat Achior quoniam fallit nos, ascendamus in montana: et cum capti fuerint potentes eorum, tunc cum eisdem gladio transverberabitur:
 
-**[5:29]** ut sciat omnis gens quoniam Nabuchodonosor deus terræ est, et præter ipsum alius non est. 
+**[5:29]** ut sciat omnis gens quoniam Nabuchodonosor deus terræ est, et præter ipsum alius non est.
 
 ### Chapter 6
 
@@ -27136,7 +27136,7 @@
 
 **[6:20]** Et vocatis omnibus presbyteris, simul expleto ieiunio refecerunt.
 
-**[6:21]** Postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt petentes auxilium a Deo Israel. 
+**[6:21]** Postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt petentes auxilium a Deo Israel.
 
 ### Chapter 7
 
@@ -27188,7 +27188,7 @@
 
 **[7:24]** Forsitan enim indignationem suam abscindet, et dabit gloriam nomini suo.
 
-**[7:25]** Si autem transactis quinque diebus non venerit adiutorium, faciemus hæc verba, quæ locuti estis. 
+**[7:25]** Si autem transactis quinque diebus non venerit adiutorium, faciemus hæc verba, quæ locuti estis.
 
 ### Chapter 8
 
@@ -27258,7 +27258,7 @@
 
 **[8:33]** Vos autem nolo ut scrutemini actum meum, et usque dum renunciem vobis, nihil aliud fiat, nisi oratio pro me ad Dominum Deum nostrum.
 
-**[8:34]** Et dixit ad eam Ozias princeps Iuda: Vade in pace, et Dominus sit tecum in ultionem inimicorum nostrorum. Et revertentes abierunt. 
+**[8:34]** Et dixit ad eam Ozias princeps Iuda: Vade in pace, et Dominus sit tecum in ultionem inimicorum nostrorum. Et revertentes abierunt.
 
 ### Chapter 9
 
@@ -27298,7 +27298,7 @@
 
 **[9:18]** Memento Domine testamenti tui, et da verbum in ore meo, et in corde meo consilium corrobora, ut domus tua in sanctificatione tua permaneat:
 
-**[9:19]** et omnes Gentes agnoscant quia tu es Deus, et non est alius præter te. 
+**[9:19]** et omnes Gentes agnoscant quia tu es Deus, et non est alius præter te.
 
 ### Chapter 10
 
@@ -27340,7 +27340,7 @@
 
 **[10:19]** Videns itaque Iudith Holofernem sedentem in conopeo, quod erat ex purpura, et auro, et smaragdo, et lapidibus pretiosis intextum:
 
-**[10:20]** et cum in faciem eius intendisset, adoravit eum, prosternens se super terram. Et elevaverunt eam servi Holofernis, iubente domino suo. 
+**[10:20]** et cum in faciem eius intendisset, adoravit eum, prosternens se super terram. Et elevaverunt eam servi Holofernis, iubente domino suo.
 
 ### Chapter 11
 
@@ -27384,7 +27384,7 @@
 
 **[11:20]** Et dixit ad illam Holofernes: Benefecit Deus, qui misit te ante populum, ut des illum tu in manibus nostris:
 
-**[11:21]** et quoniam bona est promissio tua, si fecerit mihi hoc Deus tuus, erit et Deus meus, et tu in domo Nabuchodonosor magna eris, et nomen tuum nominabitur in universa terra. 
+**[11:21]** et quoniam bona est promissio tua, si fecerit mihi hoc Deus tuus, erit et Deus meus, et tu in domo Nabuchodonosor magna eris, et nomen tuum nominabitur in universa terra.
 
 ### Chapter 12
 
@@ -27426,7 +27426,7 @@
 
 **[12:19]** Et accepit, et manducavit, et bibit coram ipso ea, quæ paraverat illi ancilla eius.
 
-**[12:20]** Et iucundus factus est Holofernes ad eam, bibitque vinum multum nimis, quantum numquam biberat in vita sua. 
+**[12:20]** Et iucundus factus est Holofernes ad eam, bibitque vinum multum nimis, quantum numquam biberat in vita sua.
 
 ### Chapter 13
 
@@ -27490,7 +27490,7 @@
 
 **[13:30]** Postea vero quam resumpto spiritu recreatus est, procidit ad pedes eius, et adoravit eam, et dixit:
 
-**[13:31]** Benedicta tu a Deo tuo in omni tabernaculo Iacob, quoniam in omni gente, quæ audierit nomen tuum, magnificabitur super te Deus Israel. 
+**[13:31]** Benedicta tu a Deo tuo in omni tabernaculo Iacob, quoniam in omni gente, quæ audierit nomen tuum, magnificabitur super te Deus Israel.
 
 ### Chapter 14
 
@@ -27528,7 +27528,7 @@
 
 **[14:17]** Quod cum audissent principes virtutis Assyriorum, sciderunt omnes vestimenta sua, et intolerabilis timor et tremor cecidit super eos, et turbati sunt animi eorum valde.
 
-**[14:18]** Et factus est clamor incomparabilis in medio castrorum eorum. 
+**[14:18]** Et factus est clamor incomparabilis in medio castrorum eorum.
 
 ### Chapter 15
 
@@ -27560,7 +27560,7 @@
 
 **[15:14]** Porro autem universa, quæ Holofernis peculiaria fuisse probata sunt, dederunt Iudith in auro, et argento, et vestibus, et gemmis, et omni supellectili, et tradita sunt omnia illi a populo.
 
-**[15:15]** Et omnes populi gaudebant cum mulieribus, et virginibus, et iuvenibus, in organis, et citharis. 
+**[15:15]** Et omnes populi gaudebant cum mulieribus, et virginibus, et iuvenibus, in organis, et citharis.
 
 ### Chapter 16
 
@@ -27624,7 +27624,7 @@
 
 **[16:30]** In omni autem spatio vitæ eius non fuit qui perturbaret Israel, et post mortem eius annis multis.
 
-**[16:31]** Dies autem victoriæ huius festivitatis, ab Hebræis in numero sanctorum dierum accipitur, et colitur a Iudæis ex illo tempore usque in præsentem diem.  
+**[16:31]** Dies autem victoriæ huius festivitatis, ab Hebræis in numero sanctorum dierum accipitur, et colitur a Iudæis ex illo tempore usque in præsentem diem.
 
 ## Esther
 
@@ -27672,7 +27672,7 @@
 
 **[1:21]** placuit consilium eius regi, et principibus: fecitque rex iuxta consilium Mamuchan,
 
-**[1:22]** et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac maiores in domibus suis: et hoc per cunctos populos divulgari. 
+**[1:22]** et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac maiores in domibus suis: et hoc per cunctos populos divulgari.
 
 ### Chapter 2
 
@@ -27720,7 +27720,7 @@
 
 **[2:22]** Quod Mardochæum non latuit, statimque nuntiavit reginæ Esther: et illa regi ex nomine Mardochæi, qui ad se rem detulerat.
 
-**[2:23]** Quæsitum est, et inventum: et appensus est uterque eorum in patibulo. Mandatumque est historiis, et annalibus traditum coram rege. 
+**[2:23]** Quæsitum est, et inventum: et appensus est uterque eorum in patibulo. Mandatumque est historiis, et annalibus traditum coram rege.
 
 ### Chapter 3
 
@@ -27752,7 +27752,7 @@
 
 **[3:14]** Summa autem epistolarum hæc fuit, ut omnes provinciæ scirent, et pararent se ad prædictam diem.
 
-**[3:15]** Festinabant cursores, qui missi erant, regis imperium explere. Statimque in Susan pependit edictum, rege et Aman celebrante convivium, et cunctis Iudæis, qui in urbe erant, flentibus. 
+**[3:15]** Festinabant cursores, qui missi erant, regis imperium explere. Statimque in Susan pependit edictum, rege et Aman celebrante convivium, et cunctis Iudæis, qui in urbe erant, flentibus.
 
 ### Chapter 4
 
@@ -27788,7 +27788,7 @@
 
 **[4:16]** Vade et congrega omnes Iudæos, quos in Susan repereris, et orate pro me. Non comedatis, et non bibatis tribus diebus, et tribus noctibus: et ego cum ancillis meis similiter ieiunabo, et tunc ingrediar ad regem contra legem faciens, non vocata, tradensque me morti et periculo.
 
-**[4:17]** Ivit itaque Mardochæus, et fecit omnia, quæ ei Esther præceperat. 
+**[4:17]** Ivit itaque Mardochæus, et fecit omnia, quæ ei Esther præceperat.
 
 ### Chapter 5
 
@@ -27818,7 +27818,7 @@
 
 **[5:13]** Et cum hæc omnia habeam, nihil me habere puto, quamdiu videro Mardochæum Iudæum sedentem ante fores regias.
 
-**[5:14]** Responderuntque ei Zales uxor eius, et ceteri amici: Iube parari excelsam trabem, habentem altitudinis quinquaginta cubitos, et dic mane regi ut appendatur super eam Mardochæus, et sic ibis cum rege lætus ad convivium. Placuit ei consilium, et iussit excelsam parari crucem. 
+**[5:14]** Responderuntque ei Zales uxor eius, et ceteri amici: Iube parari excelsam trabem, habentem altitudinis quinquaginta cubitos, et dic mane regi ut appendatur super eam Mardochæus, et sic ibis cum rege lætus ad convivium. Placuit ei consilium, et iussit excelsam parari crucem.
 
 ### Chapter 6
 
@@ -27848,7 +27848,7 @@
 
 **[6:13]** narravitque Zares uxori suæ, et amicis omnia quæ evenissent sibi. Cui responderunt sapientes, quos habebat in consilio, et uxor eius: Si de semine Iudæorum est Mardochæus, ante quem cadere cœpisti, non poteris ei resistere, sed cades in conspectu eius.
 
-**[6:14]** Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt. 
+**[6:14]** Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.
 
 ### Chapter 7
 
@@ -27870,7 +27870,7 @@
 
 **[7:9]** Dixitque Harbona, unus de eunuchis, qui stabant in ministerio regis: En lignum, quod paraverat Mardochæo, qui locutus est pro rege, stat in domo Aman, habens altitudinis quinquaginta cubitos. Cui dixit rex: Appendite eum in eo.
 
-**[7:10]** Suspensus est itaque Aman in patibulo quod paraverat Mardochæo: et regis ira quievit. 
+**[7:10]** Suspensus est itaque Aman in patibulo quod paraverat Mardochæo: et regis ira quievit.
 
 ### Chapter 8
 
@@ -27906,7 +27906,7 @@
 
 **[8:16]** Iudæis autem nova lux oriri visa est, gaudium, honor, et tripudium.
 
-**[8:17]** Apud omnes populos, urbes, atque provincias, quocumque regis iussa veniebant, mira exultatio, epulæ atque convivia, et festus dies: in tantum ut plures alterius gentis et sectæ eorum religioni et ceremoniis iungerentur. Grandis enim cunctos Iudaici nominis terror invaserat. 
+**[8:17]** Apud omnes populos, urbes, atque provincias, quocumque regis iussa veniebant, mira exultatio, epulæ atque convivia, et festus dies: in tantum ut plures alterius gentis et sectæ eorum religioni et ceremoniis iungerentur. Grandis enim cunctos Iudaici nominis terror invaserat.
 
 ### Chapter 9
 
@@ -27972,7 +27972,7 @@
 
 **[9:31]** observantes Dies sortium, et suo tempore cum gaudio celebrarent: sicut constituerant Mardochæus et Esther, et illi observanda susceperunt a se, et a semine suo ieiunia, et clamores, et Sortium dies,
 
-**[9:32]** et omnia, quæ libri huius, qui vocatur Esther, historia continentur. 
+**[9:32]** et omnia, quæ libri huius, qui vocatur Esther, historia continentur.
 
 ### Chapter 10
 
@@ -28000,7 +28000,7 @@
 
 **[10:12]** et recordatus est Dominus populi sui, ac misertus est hereditatis suæ.
 
-**[10:13]** Et observabuntur dies isti in mense Adar quartadecima, et quintadecima die eiusdem mensis, cum omni studio, et gaudio in unum cœtum populi congregati, in cunctas deinceps generationes populi Israel. 
+**[10:13]** Et observabuntur dies isti in mense Adar quartadecima, et quintadecima die eiusdem mensis, cum omni studio, et gaudio in unum cœtum populi congregati, in cunctas deinceps generationes populi Israel.
 
 ### Chapter 11
 
@@ -28026,7 +28026,7 @@
 
 **[11:11]** Lux et sol ortus est, et humiles exaltati sunt, et devoraverunt inclytos.
 
-**[11:12]** Quod cum vidisset Mardochæus, et surrexisset de strato, cogitabat quid Deus facere vellet: et fixum habebat in animo, scire cupiens quid significaret somnium. 
+**[11:12]** Quod cum vidisset Mardochæus, et surrexisset de strato, cogitabat quid Deus facere vellet: et fixum habebat in animo, scire cupiens quid significaret somnium.
 
 ### Chapter 12
 
@@ -28040,7 +28040,7 @@
 
 **[12:5]** Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneribus.
 
-**[12:6]** Aman vero filius Amadathi bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo, et populo eius pro duobus eunuchis regis, qui fuerant interfecti.Et diripuerunt bona, vel substantias eorum.Epistolæ autem hoc exemplar fuit. 
+**[12:6]** Aman vero filius Amadathi bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo, et populo eius pro duobus eunuchis regis, qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.
 
 ### Chapter 13
 
@@ -28056,7 +28056,7 @@
 
 **[13:6]** iussimus ut quoscumque Aman, qui omnibus provinciis præpositus est, et secundus a rege, et quem patris loco colimus, monstraverit, cum coniugibus ac liberis deleantur ab inimicis suis, nullusque eorum misereatur, quartadecima die duodecimi mensis Adar anni præsentis:
 
-**[13:7]** ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant.Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther.
+**[13:7]** ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther.
 
 **[13:8]** Mardochæus autem deprecatus est Dominum, memor omnium operum eius,
 
@@ -28078,7 +28078,7 @@
 
 **[13:17]** Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum Domine, et ne claudas ora te canentium.
 
-**[13:18]** Omnis quoque Israel pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet. 
+**[13:18]** Omnis quoque Israel pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.
 
 ### Chapter 14
 
@@ -28118,7 +28118,7 @@
 
 **[14:18]** et numquam lætata sit ancilla tua, ex quo huc translata sum usque in præsentem diem, nisi in te Domine Deus Abraham.
 
-**[14:19]** Deus fortis super omnes, exaudi vocem eorum, qui nullam aliam spem habent, et libera nos de manu iniquorum, et erue me a timore meo. 
+**[14:19]** Deus fortis super omnes, exaudi vocem eorum, qui nullam aliam spem habent, et libera nos de manu iniquorum, et erue me a timore meo.
 
 ### Chapter 15
 
@@ -28158,7 +28158,7 @@
 
 **[15:18]** Cumque loqueretur, rursus corruit, et pene exanimata est.
 
-**[15:19]** Rex autem turbabatur, et omnes ministri eius consolabantur eam. 
+**[15:19]** Rex autem turbabatur, et omnes ministri eius consolabantur eam.
 
 ### Chapter 16
 
@@ -28208,7 +28208,7 @@
 
 **[16:23]** omnes, qui fideliter Persis obediunt, dignam pro fide recipere mercedem: qui autem insidiantur regno eorum, perire pro scelere.
 
-**[16:24]** Omnis autem provincia et civitas, quæ noluerit sollemnitatis huius esse particeps, gladio et igne pereat, et sic deleatur, ut non solum hominibus, sed etiam bestiis invia sit in sempiternum, pro exemplo contemptus, et inobedientiæ.  
+**[16:24]** Omnis autem provincia et civitas, quæ noluerit sollemnitatis huius esse particeps, gladio et igne pereat, et sic deleatur, ut non solum hominibus, sed etiam bestiis invia sit in sempiternum, pro exemplo contemptus, et inobedientiæ.
 
 ## Job
 
@@ -28256,7 +28256,7 @@
 
 **[1:21]** et dixit: Nudus egressus sum de utero matris meæ, et nudus revertar illuc: Dominus dedit, Dominus abstulit: sicut Domino placuit, ita factum est: sit nomen Domini benedictum.
 
-**[1:22]** In omnibus his non peccavit Iob labiis suis, neque stultum quid contra Deum locutus est. 
+**[1:22]** In omnibus his non peccavit Iob labiis suis, neque stultum quid contra Deum locutus est.
 
 ### Chapter 2
 
@@ -28284,7 +28284,7 @@
 
 **[2:12]** Cumque elevassent procul oculos suos, non cognoverunt eum, et exclamantes ploraverunt, scissisque vestibus sparserunt pulverem super caput suum in cælum.
 
-**[2:13]** Et sederunt cum eo in terra septem diebus et septem noctibus, et nemo loquebatur ei verbum: videbant enim dolorem esse vehementem. 
+**[2:13]** Et sederunt cum eo in terra septem diebus et septem noctibus, et nemo loquebatur ei verbum: videbant enim dolorem esse vehementem.
 
 ### Chapter 3
 
@@ -28338,7 +28338,7 @@
 
 **[3:25]** Quia timor, quem timebam, evenit mihi: et quod verebar accidit.
 
-**[3:26]** Nonne dissimulavi? nonne silui? nonne quievi? et venit super me indignatio. 
+**[3:26]** Nonne dissimulavi? nonne silui? nonne quievi? et venit super me indignatio.
 
 ### Chapter 4
 
@@ -28382,7 +28382,7 @@
 
 **[4:20]** De mane usque ad vesperam succidentur: et quia nullus intelligit, in æternum peribunt.
 
-**[4:21]** Qui autem reliqui fuerint, auferentur ex eis: morientur, et non in sapientia. 
+**[4:21]** Qui autem reliqui fuerint, auferentur ex eis: morientur, et non in sapientia.
 
 ### Chapter 5
 
@@ -28438,7 +28438,7 @@
 
 **[5:26]** Ingredieris in abundantia sepulchrum, sicut infertur acervus tritici in tempore suo.
 
-**[5:27]** Ecce, hoc, ut investigavimus, ita est: quod auditum, mente pertracta. 
+**[5:27]** Ecce, hoc, ut investigavimus, ita est: quod auditum, mente pertracta.
 
 ### Chapter 6
 
@@ -28500,7 +28500,7 @@
 
 **[6:29]** Respondete obsecro absque contentione: et loquentes id quod iustum est, iudicate.
 
-**[6:30]** Et non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit. 
+**[6:30]** Et non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit.
 
 ### Chapter 7
 
@@ -28544,7 +28544,7 @@
 
 **[7:20]** Peccavi, quid faciam tibi o custos hominum? quare posuisti me contrarium tibi, et factus sum mihimetipsi gravis?
 
-**[7:21]** Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce, nunc in pulvere dormiam: et si mane me quæsieris, non subsistam. 
+**[7:21]** Cur non tollis peccatum meum, et quare non aufers iniquitatem meam? ecce, nunc in pulvere dormiam: et si mane me quæsieris, non subsistam.
 
 ### Chapter 8
 
@@ -28590,7 +28590,7 @@
 
 **[8:21]** Donec impleatur risu os tuum, et labia tua iubilo.
 
-**[8:22]** Qui oderunt te, induentur confusione: et tabernaculum impiorum non subsistet. 
+**[8:22]** Qui oderunt te, induentur confusione: et tabernaculum impiorum non subsistet.
 
 ### Chapter 9
 
@@ -28662,7 +28662,7 @@
 
 **[9:34]** Auferat a me virgam suam, et pavor eius non me terreat.
 
-**[9:35]** Loquar, et non timebo eum: neque enim possum metuens respondere. 
+**[9:35]** Loquar, et non timebo eum: neque enim possum metuens respondere.
 
 ### Chapter 10
 
@@ -28708,7 +28708,7 @@
 
 **[10:21]** Antequam vadam et non revertar, ad terram tenebrosam, et opertam mortis caligine:
 
-**[10:22]** Terram miseriæ et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror inhabitat. 
+**[10:22]** Terram miseriæ et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror inhabitat.
 
 ### Chapter 11
 
@@ -28750,7 +28750,7 @@
 
 **[11:19]** Requiesces, et non erit qui te exterreat: et deprecabuntur faciem tuam plurimi.
 
-**[11:20]** Oculi autem impiorum deficient, et effugium peribit ab eis, et spes illorum abominatio animæ. 
+**[11:20]** Oculi autem impiorum deficient, et effugium peribit ab eis, et spes illorum abominatio animæ.
 
 ### Chapter 12
 
@@ -28802,7 +28802,7 @@
 
 **[12:24]** Qui immutat cor principum populi terræ, et decipit eos ut frustra incedant per invium:
 
-**[12:25]** Palpabunt quasi in tenebris, et non in luce, et errare eos faciet quasi ebrios. 
+**[12:25]** Palpabunt quasi in tenebris, et non in luce, et errare eos faciet quasi ebrios.
 
 ### Chapter 13
 
@@ -28860,7 +28860,7 @@
 
 **[13:27]** Posuisti in nervo pedem meum, et observasti omnes semitas meas, et vestigia pedum meorum considerasti:
 
-**[13:28]** Qui quasi putredo consumendus sum, et quasi vestimentum quod comeditur a tinea. 
+**[13:28]** Qui quasi putredo consumendus sum, et quasi vestimentum quod comeditur a tinea.
 
 ### Chapter 14
 
@@ -28906,7 +28906,7 @@
 
 **[14:21]** Sive nobiles fuerint filii eius, sive ignobiles, non intelliget.
 
-**[14:22]** Attamen caro eius dum vivet dolebit, et anima illius super semetipso lugebit. 
+**[14:22]** Attamen caro eius dum vivet dolebit, et anima illius super semetipso lugebit.
 
 ### Chapter 15
 
@@ -28978,7 +28978,7 @@
 
 **[15:34]** Congregatio enim hypocritæ sterilis, et ignis devorabit tabernacula eorum, qui munera libenter accipiunt.
 
-**[15:35]** Concepit dolorem, et peperit iniquitatem, et uterus eius præparat dolos. 
+**[15:35]** Concepit dolorem, et peperit iniquitatem, et uterus eius præparat dolos.
 
 ### Chapter 16
 
@@ -29026,7 +29026,7 @@
 
 **[16:22]** Atque utinam sic iudicaretur vir cum Deo, quomodo iudicatur filius hominis cum collega suo.
 
-**[16:23]** Ecce enim breves anni transeunt, et semitam, per quam non revertar, ambulo. 
+**[16:23]** Ecce enim breves anni transeunt, et semitam, per quam non revertar, ambulo.
 
 ### Chapter 17
 
@@ -29060,7 +29060,7 @@
 
 **[17:15]** Ubi est ergo nunc præstolatio mea, et patientiam meam quis considerat?
 
-**[17:16]** In profundissimum infernum descendent omnia mea: putasne saltem ibi erit requies mihi? 
+**[17:16]** In profundissimum infernum descendent omnia mea: putasne saltem ibi erit requies mihi?
 
 ### Chapter 18
 
@@ -29104,7 +29104,7 @@
 
 **[18:20]** In die eius stupebunt novissimi, et primos invadet horror.
 
-**[18:21]** Hæc sunt ergo tabernacula iniqui, et iste locus eius, qui ignorat Deum. 
+**[18:21]** Hæc sunt ergo tabernacula iniqui, et iste locus eius, qui ignorat Deum.
 
 ### Chapter 19
 
@@ -29164,7 +29164,7 @@
 
 **[19:28]** Quare ergo nunc dicitis: Persequamur eum, et radicem verbi inveniamus contra eum?
 
-**[19:29]** Fugite ergo a facie gladii, quoniam ultor iniquitatum gladius est: et scitote esse iudicium. 
+**[19:29]** Fugite ergo a facie gladii, quoniam ultor iniquitatum gladius est: et scitote esse iudicium.
 
 ### Chapter 20
 
@@ -29224,7 +29224,7 @@
 
 **[20:28]** Apertum erit germen domus illius, detrahetur in die furoris Dei.
 
-**[20:29]** Hæc est pars hominis impii a Deo, et hereditas verborum eius a Domino. 
+**[20:29]** Hæc est pars hominis impii a Deo, et hereditas verborum eius a Domino.
 
 ### Chapter 21
 
@@ -29294,7 +29294,7 @@
 
 **[21:33]** Dulcis fuit glareis Cocyti, et post se omnem hominem trahet, et ante se innumerabiles.
 
-**[21:34]** Quomodo igitur consolamini me frustra, cum responsio vestra repugnare ostensa sit veritati? 
+**[21:34]** Quomodo igitur consolamini me frustra, cum responsio vestra repugnare ostensa sit veritati?
 
 ### Chapter 22
 
@@ -29356,7 +29356,7 @@
 
 **[22:29]** Qui enim humiliatus fuerit, erit in gloria: et qui inclinaverit oculos, ipse salvabitur.
 
-**[22:30]** Salvabitur innocens, salvabitur autem in munditia manuum suarum. 
+**[22:30]** Salvabitur innocens, salvabitur autem in munditia manuum suarum.
 
 ### Chapter 23
 
@@ -29392,7 +29392,7 @@
 
 **[23:16]** Deus mollivit cor meum, et Omnipotens conturbavit me.
 
-**[23:17]** Non enim perii propter imminentes tenebras, nec faciem meam operuit caligo. 
+**[23:17]** Non enim perii propter imminentes tenebras, nec faciem meam operuit caligo.
 
 ### Chapter 24
 
@@ -29444,7 +29444,7 @@
 
 **[24:24]** Elevati sunt ad modicum, et non subsistent, et humiliabuntur sicut omnia, et auferentur, et sicut summitates spicarum conterentur.
 
-**[24:25]** Quod si non est ita, quis me potest arguere esse mentitum, et ponere ante Deum verba mea? 
+**[24:25]** Quod si non est ita, quis me potest arguere esse mentitum, et ponere ante Deum verba mea?
 
 ### Chapter 25
 
@@ -29458,7 +29458,7 @@
 
 **[25:5]** Ecce luna etiam non splendet, et stellæ non sunt mundæ in conspectu eius:
 
-**[25:6]** Quanto magis homo putredo, et filius hominis vermis? 
+**[25:6]** Quanto magis homo putredo, et filius hominis vermis?
 
 ### Chapter 26
 
@@ -29488,7 +29488,7 @@
 
 **[26:13]** Spiritus eius ornavit cælos: et obstetricante manu eius, eductus est coluber tortuosus.
 
-**[26:14]** Ecce, hæc ex parte dicta sunt viarum eius: et cum vix parvam stillam sermonis eius audierimus, quis poterit tonitruum magnitudinis illius intueri? 
+**[26:14]** Ecce, hæc ex parte dicta sunt viarum eius: et cum vix parvam stillam sermonis eius audierimus, quis poterit tonitruum magnitudinis illius intueri?
 
 ### Chapter 27
 
@@ -29536,7 +29536,7 @@
 
 **[27:22]** Et mittet super eum, et non parcet: de manu eius fugiens fugiet.
 
-**[27:23]** Stringet super eum manus suas, et sibilabit super illum, intuens locum eius. 
+**[27:23]** Stringet super eum manus suas, et sibilabit super illum, intuens locum eius.
 
 ### Chapter 28
 
@@ -29594,7 +29594,7 @@
 
 **[28:27]** Tunc vidit illam, et enarravit, et præparavit, et investigavit.
 
-**[28:28]** Et dixit homini: Ecce timor Domini, ipsa est sapientia: et recedere a malo, intelligentia. 
+**[28:28]** Et dixit homini: Ecce timor Domini, ipsa est sapientia: et recedere a malo, intelligentia.
 
 ### Chapter 29
 
@@ -29646,7 +29646,7 @@
 
 **[29:24]** Siquando ridebam ad eos, non credebant, et lux vultus mei non cadebat in terram.
 
-**[29:25]** Si voluissem ire ad eos, sedebam primus: cumque sederem quasi rex, circumstante exercitu, eram tamen mœrentium consolator. 
+**[29:25]** Si voluissem ire ad eos, sedebam primus: cumque sederem quasi rex, circumstante exercitu, eram tamen mœrentium consolator.
 
 ### Chapter 30
 
@@ -29710,7 +29710,7 @@
 
 **[30:30]** Cutis mea denigrata est super me, et ossa mea aruerunt præ caumate.
 
-**[30:31]** Versa est in luctum cithara mea, et organum meum in vocem flentium. 
+**[30:31]** Versa est in luctum cithara mea, et organum meum in vocem flentium.
 
 ### Chapter 31
 
@@ -29792,7 +29792,7 @@
 
 **[31:39]** Si fructus eius comedi absque pecunia, et animam agricolarum eius afflixi:
 
-**[31:40]** Pro frumento oriatur mihi tribulus, et pro hordeo spina. Finita sunt verba Iob. 
+**[31:40]** Pro frumento oriatur mihi tribulus, et pro hordeo spina. Finita sunt verba Iob.
 
 ### Chapter 32
 
@@ -29838,7 +29838,7 @@
 
 **[32:21]** Non accipiam personam viri, et Deum homini non æquabo.
 
-**[32:22]** Nescio enim quamdiu subsistam, et si post modicum tollat me Factor meus. 
+**[32:22]** Nescio enim quamdiu subsistam, et si post modicum tollat me Factor meus.
 
 ### Chapter 33
 
@@ -29906,7 +29906,7 @@
 
 **[33:32]** Si autem habes quod loquaris, responde mihi, loquere: volo enim, te apparere iustum.
 
-**[33:33]** Quod si non habes, audi me: tace, et docebo te sapientiam. 
+**[33:33]** Quod si non habes, audi me: tace, et docebo te sapientiam.
 
 ### Chapter 34
 
@@ -29982,7 +29982,7 @@
 
 **[34:36]** Pater mi, probetur Iob usque ad finem: ne desinas ab homine iniquitatis.
 
-**[34:37]** Quia addit super peccata sua blasphemiam, inter nos interim constringatur: et tunc ad iudicium provocet sermonibus suis Deum. 
+**[34:37]** Quia addit super peccata sua blasphemiam, inter nos interim constringatur: et tunc ad iudicium provocet sermonibus suis Deum.
 
 ### Chapter 35
 
@@ -30016,7 +30016,7 @@
 
 **[35:15]** Nunc enim non infert furorem suum, nec ulciscitur scelus valde.
 
-**[35:16]** Ergo Iob frustra aperit os suum, et absque scientia verba multiplicat. 
+**[35:16]** Ergo Iob frustra aperit os suum, et absque scientia verba multiplicat.
 
 ### Chapter 36
 
@@ -30084,7 +30084,7 @@
 
 **[36:32]** In manibus abscondit lucem, et præcepit ei ut rursus adveniat.
 
-**[36:33]** Annunciat de ea amico suo, quod possessio eius sit, et ad eam possit ascendere. 
+**[36:33]** Annunciat de ea amico suo, quod possessio eius sit, et ad eam possit ascendere.
 
 ### Chapter 37
 
@@ -30134,7 +30134,7 @@
 
 **[37:23]** Digne eum invenire non possumus: magnus fortitudine, et iudicio, et iustitia et enarrari non potest.
 
-**[37:24]** Ideo timebunt eum viri, et non audebunt contemplari omnes, qui sibi videntur esse sapientes. 
+**[37:24]** Ideo timebunt eum viri, et non audebunt contemplari omnes, qui sibi videntur esse sapientes.
 
 ### Chapter 38
 
@@ -30218,7 +30218,7 @@
 
 **[38:40]** Quando cubant in antris, et in specubus insidiantur?
 
-**[38:41]** Quis præparat corvo escam suam, quando pulli eius clamant ad Deum, vagantes, eo quod non habeant cibos? 
+**[38:41]** Quis præparat corvo escam suam, quando pulli eius clamant ad Deum, vagantes, eo quod non habeant cibos?
 
 ### Chapter 39
 
@@ -30290,7 +30290,7 @@
 
 **[39:34]** Qui leviter locutus sum, respondere quid possum? manum meam ponam super os meum.
 
-**[39:35]** Unum locutus sum, quod utinam non dixissem: et alterum, quibus ultra non addam. 
+**[39:35]** Unum locutus sum, quod utinam non dixissem: et alterum, quibus ultra non addam.
 
 ### Chapter 40
 
@@ -30348,7 +30348,7 @@
 
 **[40:27]** Pone super eum manum tuam: memento belli, nec ultra addas loqui.
 
-**[40:28]** Ecce, spes eius frustrabitur eum, et videntibus cunctis præcipitabitur. 
+**[40:28]** Ecce, spes eius frustrabitur eum, et videntibus cunctis præcipitabitur.
 
 ### Chapter 41
 
@@ -30400,7 +30400,7 @@
 
 **[41:24]** Non est super terram potestas, quæ comparetur ei, qui factus est ut nullum timeret.
 
-**[41:25]** Omne sublime videt, ipse est rex super universos filios superbiæ. 
+**[41:25]** Omne sublime videt, ipse est rex super universos filios superbiæ.
 
 ### Chapter 42
 
@@ -30434,7 +30434,7 @@
 
 **[42:15]** Non sunt autem inventæ mulieres speciosæ sicut filiæ Iob in universa terra: deditque eis pater suus hereditatem inter fratres earum.
 
-**[42:16]** Vixit autem Iob post hæc, centum quadraginta annis, et vidit filios suos, et filios filiorum suorum usque ad quartam generationem, et mortuus est senex, et plenus dierum.  
+**[42:16]** Vixit autem Iob post hæc, centum quadraginta annis, et vidit filios suos, et filios filiorum suorum usque ad quartam generationem, et mortuus est senex, et plenus dierum.
 
 ## Psalms
 
@@ -30450,7 +30450,7 @@
 
 **[1:5]** Ideo non resurgent impii in iudicio: neque peccatores in concilio iustorum.
 
-**[1:6]** Quoniam novit Dominus viam iustorum: et iter impiorum peribit. 
+**[1:6]** Quoniam novit Dominus viam iustorum: et iter impiorum peribit.
 
 ### Chapter 2
 
@@ -30478,7 +30478,7 @@
 
 **[2:12]** Apprehendite disciplinam nequando irascatur Dominus, et pereatis de via iusta.
 
-**[2:13]** Cum exarserit in brevi ira eius, beati omnes, qui confidunt in eo. 
+**[2:13]** Cum exarserit in brevi ira eius, beati omnes, qui confidunt in eo.
 
 ### Chapter 3
 
@@ -30498,7 +30498,7 @@
 
 **[3:8]** Quoniam tu percussisti omnes adversantes mihi sine causa: dentes peccatorum contrivisti.
 
-**[3:9]** Domini est salus: et super populum tuum benedictio tua. 
+**[3:9]** Domini est salus: et super populum tuum benedictio tua.
 
 ### Chapter 4
 
@@ -30520,7 +30520,7 @@
 
 **[4:9]** In pace in idipsum dormiam, et requiescam;
 
-**[4:10]** Quoniam tu Domine singulariter in spe constituisti me. 
+**[4:10]** Quoniam tu Domine singulariter in spe constituisti me.
 
 ### Chapter 5
 
@@ -30548,7 +30548,7 @@
 
 **[5:12]** Et lætentur omnes, qui sperant in te, in æternum exultabunt: et habitabis in eis. Et gloriabuntur in te omnes, qui diligunt nomen tuum,
 
-**[5:13]** quoniam tu benedices iusto. Domine, ut scuto bonæ voluntatis tuæ coronasti nos. 
+**[5:13]** quoniam tu benedices iusto. Domine, ut scuto bonæ voluntatis tuæ coronasti nos.
 
 ### Chapter 6
 
@@ -30572,7 +30572,7 @@
 
 **[6:10]** Exaudivit Dominus deprecationem meam, Dominus orationem meam suscepit.
 
-**[6:11]** Erubescant, et conturbentur vehementer omnes inimici mei: convertantur et erubescant valde velociter. 
+**[6:11]** Erubescant, et conturbentur vehementer omnes inimici mei: convertantur et erubescant valde velociter.
 
 ### Chapter 7
 
@@ -30610,7 +30610,7 @@
 
 **[7:17]** Convertetur dolor eius in caput eius: et in verticem ipsius iniquitas eius descendet.
 
-**[7:18]** Confitebor Domino secundum iustitiam eius: et psallam nomini Domini altissimi. 
+**[7:18]** Confitebor Domino secundum iustitiam eius: et psallam nomini Domini altissimi.
 
 ### Chapter 8
 
@@ -30632,7 +30632,7 @@
 
 **[8:9]** Volucres cæli, et pisces maris, qui perambulant semitas maris.
 
-**[8:10]** Domine Dominus noster, quam admirabile est nomen tuum in universa terra! 
+**[8:10]** Domine Dominus noster, quam admirabile est nomen tuum in universa terra!
 
 ### Chapter 9
 
@@ -30712,7 +30712,7 @@
 
 **[9:38]** Desiderium pauperum exaudivit Dominus: præparationem cordis eorum audivit auris tua.
 
-**[9:39]** Iudicare pupillo et humili, ut non apponat ultra magnificare se homo super terram. 
+**[9:39]** Iudicare pupillo et humili, ut non apponat ultra magnificare se homo super terram.
 
 ### Chapter 10
 
@@ -30730,7 +30730,7 @@
 
 **[10:7]** Pluet super peccatores laqueos: ignis, et sulphur, et spiritus procellarum pars calicis eorum.
 
-**[10:8]** Quoniam iustus Dominus et iustitias dilexit: æquitatem vidit vultus eius. 
+**[10:8]** Quoniam iustus Dominus et iustitias dilexit: æquitatem vidit vultus eius.
 
 ### Chapter 11
 
@@ -30750,7 +30750,7 @@
 
 **[11:8]** Tu Domine servabis nos: et custodies nos a generatione hac in æternum.
 
-**[11:9]** In circuitu impii ambulant: secundum altitudinem tuam multiplicasti filios hominum. 
+**[11:9]** In circuitu impii ambulant: secundum altitudinem tuam multiplicasti filios hominum.
 
 ### Chapter 12
 
@@ -30764,7 +30764,7 @@
 
 **[12:5]** ne quando dicat inimicus meus: Prævalui adversus eum. Qui tribulant me, exultabunt si motus fuero:
 
-**[12:6]** ego autem in misericordia tua speravi. Exultabit cor meum in salutari tuo: cantabo Domino qui bona tribuit mihi: et psallam nomini Domini altissimi. 
+**[12:6]** ego autem in misericordia tua speravi. Exultabit cor meum in salutari tuo: cantabo Domino qui bona tribuit mihi: et psallam nomini Domini altissimi.
 
 ### Chapter 13
 
@@ -30780,7 +30780,7 @@
 
 **[13:6]** Quoniam Dominus in generatione iusta est, consilium inopis confudistis, quoniam Dominus spes eius est.
 
-**[13:7]** Quis dabit ex Sion salutare Israel? cum averterit Dominus captivitatem plebis suæ, exultabit Iacob, et lætabitur Israel. 
+**[13:7]** Quis dabit ex Sion salutare Israel? cum averterit Dominus captivitatem plebis suæ, exultabit Iacob, et lætabitur Israel.
 
 ### Chapter 14
 
@@ -30792,7 +30792,7 @@
 
 **[14:4]** Ad nihilum deductus est in conspectu eius malignus: timentes autem Dominum glorificat: Qui iurat proximo suo, et non decipit,
 
-**[14:5]** qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit: Qui facit hæc, non movebitur in æternum. 
+**[14:5]** qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit: Qui facit hæc, non movebitur in æternum.
 
 ### Chapter 15
 
@@ -30814,7 +30814,7 @@
 
 **[15:9]** Propter hoc lætatum est cor meum, et exultavit lingua mea: insuper et caro mea requiescet in spe.
 
-**[15:10]** Quoniam non derelinques animam meam in inferno: nec dabis sanctum tuum videre corruptionem. Notas mihi fecisti vias vitæ, adimplebis me lætitia cum vultu tuo: delectationes in dextera tua usque in finem. 
+**[15:10]** Quoniam non derelinques animam meam in inferno: nec dabis sanctum tuum videre corruptionem. Notas mihi fecisti vias vitæ, adimplebis me lætitia cum vultu tuo: delectationes in dextera tua usque in finem.
 
 **[15:11]** 
 
@@ -30848,7 +30848,7 @@
 
 **[16:14]** ab inimicis manus tuæ. Domine a paucis de terra divide eos in vita eorum: de absconditis tuis adimpletus est venter eorum. Saturati sunt filiis: et dimiserunt reliquias suas parvulis suis.
 
-**[16:15]** Ego autem in iustitia apparebo conspectui tuo: satiabor cum apparuerit gloria tua. 
+**[16:15]** Ego autem in iustitia apparebo conspectui tuo: satiabor cum apparuerit gloria tua.
 
 ### Chapter 17
 
@@ -30952,7 +30952,7 @@
 
 **[17:50]** Propterea confitebor tibi in nationibus Domine: et nomini tuo psalmum dicam,
 
-**[17:51]** Magnificans salutes regis eius, et faciens misericordiam christo suo David, et semini eius usque in sæculum. 
+**[17:51]** Magnificans salutes regis eius, et faciens misericordiam christo suo David, et semini eius usque in sæculum.
 
 ### Chapter 18
 
@@ -30984,7 +30984,7 @@
 
 **[18:14]** et ab alienis parce servo tuo. Si mei non fuerint dominati, tunc immaculatus ero: et emundabor a delicto maximo.
 
-**[18:15]** Et erunt ut complaceant eloquia oris mei: et meditatio cordis mei in conspectu tuo semper. Domine adiutor meus, et redemptor meus. 
+**[18:15]** Et erunt ut complaceant eloquia oris mei: et meditatio cordis mei in conspectu tuo semper. Domine adiutor meus, et redemptor meus.
 
 ### Chapter 19
 
@@ -31006,7 +31006,7 @@
 
 **[19:9]** Ipsi obligati sunt, et ceciderunt: nos autem surreximus et erecti sumus.
 
-**[19:10]** Domine salvum fac regem: et exaudi nos in die, qua invocaverimus te. 
+**[19:10]** Domine salvum fac regem: et exaudi nos in die, qua invocaverimus te.
 
 ### Chapter 20
 
@@ -31036,7 +31036,7 @@
 
 **[20:13]** Quoniam pones eos dorsum: in reliquiis tuis præparabis vultum eorum.
 
-**[20:14]** Exaltare Domine in virtute tua: cantabimus et psallemus virtutes tuas. 
+**[20:14]** Exaltare Domine in virtute tua: cantabimus et psallemus virtutes tuas.
 
 ### Chapter 21
 
@@ -31102,7 +31102,7 @@
 
 **[21:31]** Et anima mea illi vivet: et semen meum serviet ipsi.
 
-**[21:32]** Annunciabitur Domino generatio ventura: et annunciabunt cæli iustitiam eius populo qui nascetur, quem fecit Dominus. 
+**[21:32]** Annunciabitur Domino generatio ventura: et annunciabunt cæli iustitiam eius populo qui nascetur, quem fecit Dominus.
 
 ### Chapter 22
 
@@ -31116,7 +31116,7 @@
 
 **[22:5]** Parasti in conspectu meo mensam, adversus eos, qui tribulant me. Impinguasti in oleo caput meum: et calix meus inebrians quam præclarus est!
 
-**[22:6]** Et misericordia tua subsequetur me omnibus diebus vitæ meæ: et ut inhabitem in domo Domini, in longitudinem dierum. 
+**[22:6]** Et misericordia tua subsequetur me omnibus diebus vitæ meæ: et ut inhabitem in domo Domini, in longitudinem dierum.
 
 ### Chapter 23
 
@@ -31138,7 +31138,7 @@
 
 **[23:9]** Attollite portas principes vestras, et elevamini portæ æternales: et introibit rex gloriæ.
 
-**[23:10]** Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ. 
+**[23:10]** Quis est iste rex gloriæ? Dominus virtutum ipse est rex gloriæ.
 
 ### Chapter 24
 
@@ -31184,7 +31184,7 @@
 
 **[24:21]** Innocentes et recti adhæserunt mihi: quia sustinui te.
 
-**[24:22]** Libera Deus Israel ex omnibus tribulationibus suis. 
+**[24:22]** Libera Deus Israel ex omnibus tribulationibus suis.
 
 ### Chapter 25
 
@@ -31210,7 +31210,7 @@
 
 **[25:11]** Ego autem in innocentia mea ingressus sum: redime me, et miserere mei.
 
-**[25:12]** Pes meus stetit in directo: in ecclesiis benedicam te Domine. 
+**[25:12]** Pes meus stetit in directo: in ecclesiis benedicam te Domine.
 
 ### Chapter 26
 
@@ -31240,7 +31240,7 @@
 
 **[26:13]** Credo videre bona Domini in terra viventium.
 
-**[26:14]** Expecta Dominum, viriliter age: et confortetur cor tuum, et sustine Dominum. 
+**[26:14]** Expecta Dominum, viriliter age: et confortetur cor tuum, et sustine Dominum.
 
 ### Chapter 27
 
@@ -31260,7 +31260,7 @@
 
 **[27:8]** Dominus fortitudo plebis suæ: et protector salvationum christi sui est.
 
-**[27:9]** Salvum fac populum tuum Domine, et benedic hereditati tuæ: et rege eos, et extolle illos usque in æternum. 
+**[27:9]** Salvum fac populum tuum Domine, et benedic hereditati tuæ: et rege eos, et extolle illos usque in æternum.
 
 ### Chapter 28
 
@@ -31284,7 +31284,7 @@
 
 **[28:10]** Dominus diluvium inhabitare facit: et sedebit Dominus rex in æternum.
 
-**[28:11]** Dominus virtutem populo suo dabit: Dominus benedicet populo suo in pace. 
+**[28:11]** Dominus virtutem populo suo dabit: Dominus benedicet populo suo in pace.
 
 ### Chapter 29
 
@@ -31312,7 +31312,7 @@
 
 **[29:12]** Convertisti planctum meum in gaudium mihi: conscidisti saccum meum, et circumdedisti me lætitia:
 
-**[29:13]** Ut cantet tibi gloria mea: et non compungar: Domine Deus meus in æternum confitebor tibi. 
+**[29:13]** Ut cantet tibi gloria mea: et non compungar: Domine Deus meus in æternum confitebor tibi.
 
 ### Chapter 30
 
@@ -31364,7 +31364,7 @@
 
 **[30:24]** Diligite Dominum omnes sancti eius: quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.
 
-**[30:25]** Viriliter agite, et confortetur cor vestrum, omnes qui speratis in Domino. 
+**[30:25]** Viriliter agite, et confortetur cor vestrum, omnes qui speratis in Domino.
 
 ### Chapter 31
 
@@ -31388,7 +31388,7 @@
 
 **[31:10]** Multa flagella peccatoris, sperantem autem in Domino misericordia circumdabit.
 
-**[31:11]** Lætamini in Domino et exultate iusti, et gloriamini omnes recti corde. 
+**[31:11]** Lætamini in Domino et exultate iusti, et gloriamini omnes recti corde.
 
 ### Chapter 32
 
@@ -31434,7 +31434,7 @@
 
 **[32:21]** Quia in eo lætabitur cor nostrum: et in nomine sancto eius speravimus.
 
-**[32:22]** Fiat misericordia tua Domine super nos: quemadmodum speravimus in te. 
+**[32:22]** Fiat misericordia tua Domine super nos: quemadmodum speravimus in te.
 
 ### Chapter 33
 
@@ -31482,7 +31482,7 @@
 
 **[33:22]** Mors peccatorum pessima: et qui oderunt iustum delinquent.
 
-**[33:23]** Redimet Dominus animas servorum suorum: et non delinquent omnes qui sperant in eo. 
+**[33:23]** Redimet Dominus animas servorum suorum: et non delinquent omnes qui sperant in eo.
 
 ### Chapter 34
 
@@ -31540,7 +31540,7 @@
 
 **[34:27]** Exultent et lætentur qui volunt iustitiam meam: et dicant semper: Magnificetur Dominus, qui volunt pacem servi eius.
 
-**[34:28]** Et lingua mea meditabitur iustitiam tuam, tota die laudem tuam. 
+**[34:28]** Et lingua mea meditabitur iustitiam tuam, tota die laudem tuam.
 
 ### Chapter 35
 
@@ -31568,7 +31568,7 @@
 
 **[35:12]** Non veniat mihi pes superbiæ: et manus peccatoris non moveat me.
 
-**[35:13]** Ibi ceciderunt qui operantur iniquitatem: expulsi sunt, nec potuerunt stare. 
+**[35:13]** Ibi ceciderunt qui operantur iniquitatem: expulsi sunt, nec potuerunt stare.
 
 ### Chapter 36
 
@@ -31650,7 +31650,7 @@
 
 **[36:39]** Salus autem iustorum a Domino: et protector eorum in tempore tribulationis.
 
-**[36:40]** Et adiuvabit eos Dominus, et liberabit eos: et eruet eos a peccatoribus, et salvabit eos: quia speraverunt in eo. 
+**[36:40]** Et adiuvabit eos Dominus, et liberabit eos: et eruet eos a peccatoribus, et salvabit eos: quia speraverunt in eo.
 
 ### Chapter 37
 
@@ -31698,7 +31698,7 @@
 
 **[37:22]** Ne derelinquas me Domine Deus meus: ne discesseris a me.
 
-**[37:23]** Intende in adiutorium meum, Domine Deus salutis meæ. 
+**[37:23]** Intende in adiutorium meum, Domine Deus salutis meæ.
 
 ### Chapter 38
 
@@ -31728,7 +31728,7 @@
 
 **[38:13]** Exaudi orationem meam Domine, et deprecationem meam: auribus percipe lacrimas meas. Ne sileas: quoniam advena ego sum apud te, et peregrinus, sicut omnes patres mei.
 
-**[38:14]** Remitte mihi, ut refrigerer priusquam abeam, et amplius non ero. 
+**[38:14]** Remitte mihi, ut refrigerer priusquam abeam, et amplius non ero.
 
 ### Chapter 39
 
@@ -31766,7 +31766,7 @@
 
 **[39:17]** Exultent et lætentur super te omnes quærentes te: et dicant semper: Magnificetur Dominus: qui diligunt salutare tuum.
 
-**[39:18]** Ego autem mendicus sum, et pauper: Dominus sollicitus est mei. Adiutor meus, et protector meus tu es: Deus meus ne tardaveris. 
+**[39:18]** Ego autem mendicus sum, et pauper: Dominus sollicitus est mei. Adiutor meus, et protector meus tu es: Deus meus ne tardaveris.
 
 ### Chapter 40
 
@@ -31796,7 +31796,7 @@
 
 **[40:13]** Me autem propter innocentiam suscepisti: et confirmasti me in conspectu tuo in æternum.
 
-**[40:14]** Benedictus Dominus Deus Israel a sæculo, et usque in sæculum: fiat, fiat. 
+**[40:14]** Benedictus Dominus Deus Israel a sæculo, et usque in sæculum: fiat, fiat.
 
 ### Chapter 41
 
@@ -31822,7 +31822,7 @@
 
 **[41:11]** Dum confringuntur ossa mea, exprobraverunt mihi qui tribulant me inimici mei: Dum dicunt mihi per singulos dies: Ubi est Deus tuus?
 
-**[41:12]** quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus. 
+**[41:12]** quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
 
 ### Chapter 42
 
@@ -31834,7 +31834,7 @@
 
 **[42:4]** Et introibo ad altare Dei: ad Deum, qui lætificat iuventutem meam. Confitebor tibi in cithara Deus Deus meus:
 
-**[42:5]** quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus. 
+**[42:5]** quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
 
 **[42:6]** 
 
@@ -31890,7 +31890,7 @@
 
 **[43:25]** Quoniam humiliata est in pulvere anima nostra: conglutinatus est in terra venter noster.
 
-**[43:26]** Exurge Domine, adiuva nos: et redime nos propter nomen tuum. 
+**[43:26]** Exurge Domine, adiuva nos: et redime nos propter nomen tuum.
 
 ### Chapter 44
 
@@ -31928,7 +31928,7 @@
 
 **[44:17]** Pro patribus tuis nati sunt tibi filii: constitues eos principes super omnem terram.
 
-**[44:18]** Memores erunt nominis tui in omni generatione et generationem. Propterea populi confitebuntur tibi in æternum: et in sæculum sæculi. 
+**[44:18]** Memores erunt nominis tui in omni generatione et generationem. Propterea populi confitebuntur tibi in æternum: et in sæculum sæculi.
 
 ### Chapter 45
 
@@ -31954,7 +31954,7 @@
 
 **[45:11]** Vacate, et videte quoniam ego sum Deus: exaltabor in gentibus, et exaltabor in terra.
 
-**[45:12]** Dominus virtutum nobiscum: susceptor noster Deus Iacob. 
+**[45:12]** Dominus virtutum nobiscum: susceptor noster Deus Iacob.
 
 ### Chapter 46
 
@@ -31976,7 +31976,7 @@
 
 **[46:9]** Regnabit Deus super gentes: Deus sedet super sedem sanctam suam.
 
-**[46:10]** Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terræ, vehementer elevati sunt. 
+**[46:10]** Principes populorum congregati sunt cum Deo Abraham: quoniam dii fortes terræ, vehementer elevati sunt.
 
 ### Chapter 47
 
@@ -32008,7 +32008,7 @@
 
 **[47:14]** Ponite corda vestra in virtute eius: et distribuite domos eius, ut enarretis in progenie altera.
 
-**[47:15]** Quoniam hic est Deus, Deus noster in æternum, et in sæculum sæculi: ipse reget nos in sæcula. 
+**[47:15]** Quoniam hic est Deus, Deus noster in æternum, et in sæculum sæculi: ipse reget nos in sæcula.
 
 ### Chapter 48
 
@@ -32052,7 +32052,7 @@
 
 **[48:20]** Introibit usque in progenies patrum suorum: et usque in æternum non videbit lumen.
 
-**[48:21]** Homo, cum in honore esset, non intellexit: comparatus est iumentis insipientibus, et similis factus est illis. 
+**[48:21]** Homo, cum in honore esset, non intellexit: comparatus est iumentis insipientibus, et similis factus est illis.
 
 ### Chapter 49
 
@@ -32100,7 +32100,7 @@
 
 **[49:22]** Intelligite hæc qui obliviscimini Deum: nequando rapiat, et non sit qui eripiat.
 
-**[49:23]** Sacrificium laudis honorificabit me: et illic iter, quo ostendam illi salutare Dei. 
+**[49:23]** Sacrificium laudis honorificabit me: et illic iter, quo ostendam illi salutare Dei.
 
 ### Chapter 50
 
@@ -32144,7 +32144,7 @@
 
 **[50:20]** Benigne fac Domine in bona voluntate tua Sion: ut ædificentur muri Ierusalem.
 
-**[50:21]** Tunc acceptabis sacrificium iustitiæ, oblationes, et holocausta: tunc imponent super altare tuum vitulos. 
+**[50:21]** Tunc acceptabis sacrificium iustitiæ, oblationes, et holocausta: tunc imponent super altare tuum vitulos.
 
 ### Chapter 51
 
@@ -32168,7 +32168,7 @@
 
 **[51:10]** Ego autem, sicut oliva fructifera in domo Dei, speravi in misericordia Dei in æternum: et in sæculum sæculi.
 
-**[51:11]** Confitebor tibi in sæculum quia fecisti: et expectabo nomen tuum, quoniam bonum est in conspectu sanctorum tuorum. 
+**[51:11]** Confitebor tibi in sæculum quia fecisti: et expectabo nomen tuum, quoniam bonum est in conspectu sanctorum tuorum.
 
 ### Chapter 52
 
@@ -32184,7 +32184,7 @@
 
 **[52:6]** Deum non invocaverunt: illic trepidaverunt timore, ubi non erat timor. Quoniam Deus dissipavit ossa eorum qui hominibus placent: confusi sunt, quoniam Deus sprevit eos.
 
-**[52:7]** Quis dabit ex Sion salutare Israel? cum converterit Deus captivitatem plebis suæ, exultabit Iacob, et lætabitur Israel. 
+**[52:7]** Quis dabit ex Sion salutare Israel? cum converterit Deus captivitatem plebis suæ, exultabit Iacob, et lætabitur Israel.
 
 ### Chapter 53
 
@@ -32204,7 +32204,7 @@
 
 **[53:8]** Voluntarie sacrificabo tibi, et confitebor nomini tuo Domine: quoniam bonum est:
 
-**[53:9]** Quoniam ex omni tribulatione eripuisti me: et super inimicos meos despexit oculus meus. 
+**[53:9]** Quoniam ex omni tribulatione eripuisti me: et super inimicos meos despexit oculus meus.
 
 ### Chapter 54
 
@@ -32254,7 +32254,7 @@
 
 **[54:23]** Iacta super Dominum curam tuam, et ipse te enutriet: non dabit in æternum fluctuationem iusto.
 
-**[54:24]** Tu vero Deus deduces eos, in puteum interitus. Viri sanguinum, et dolosi non dimidiabunt dies suos: ego autem sperabo in te Domine. 
+**[54:24]** Tu vero Deus deduces eos, in puteum interitus. Viri sanguinum, et dolosi non dimidiabunt dies suos: ego autem sperabo in te Domine.
 
 ### Chapter 55
 
@@ -32282,7 +32282,7 @@
 
 **[55:12]** In me sunt Deus vota tua, quæ reddam, laudationes tibi.
 
-**[55:13]** Quoniam eripuisti animam meam de morte, et pedes meos de lapsu: ut placeam coram Deo in lumine viventium. 
+**[55:13]** Quoniam eripuisti animam meam de morte, et pedes meos de lapsu: ut placeam coram Deo in lumine viventium.
 
 ### Chapter 56
 
@@ -32308,7 +32308,7 @@
 
 **[56:11]** Quoniam magnificata est usque ad cælos misericordia tua, et usque ad nubes veritas tua.
 
-**[56:12]** Exaltare super cælos Deus: et super omnem terram gloria tua. 
+**[56:12]** Exaltare super cælos Deus: et super omnem terram gloria tua.
 
 ### Chapter 57
 
@@ -32334,7 +32334,7 @@
 
 **[57:11]** Lætabitur iustus cum viderit vindictam: manus suas lavabit in sanguine peccatoris.
 
-**[57:12]** Et dicet homo: Si utique est fructus iusto: utique est Deus iudicans eos in terra. 
+**[57:12]** Et dicet homo: Si utique est fructus iusto: utique est Deus iudicans eos in terra.
 
 ### Chapter 58
 
@@ -32372,7 +32372,7 @@
 
 **[58:17]** Ego autem cantabo fortitudinem tuam: et exultabo mane misericordiam tuam. Quia factus es susceptor meus, et refugium meum, in die tribulationis meæ.
 
-**[58:18]** Adiutor meus tibi psallam, quia Deus susceptor meus es: Deus meus misericordia mea. 
+**[58:18]** Adiutor meus tibi psallam, quia Deus susceptor meus es: Deus meus misericordia mea.
 
 ### Chapter 59
 
@@ -32402,7 +32402,7 @@
 
 **[59:13]** Da nobis auxilium de tribulatione: quia vana salus hominis.
 
-**[59:14]** In Deo faciemus virtutem: et ipse ad nihilum deducet tribulantes nos. 
+**[59:14]** In Deo faciemus virtutem: et ipse ad nihilum deducet tribulantes nos.
 
 ### Chapter 60
 
@@ -32422,7 +32422,7 @@
 
 **[60:8]** Permanet in æternum in conspectu Dei: misericordiam et veritatem eius quis requiret?
 
-**[60:9]** Sic psalmum dicam nomini tuo in sæculum sæculi: ut reddam vota mea de die in diem. 
+**[60:9]** Sic psalmum dicam nomini tuo in sæculum sæculi: ut reddam vota mea de die in diem.
 
 ### Chapter 61
 
@@ -32450,7 +32450,7 @@
 
 **[61:12]** Semel locutus est Deus, duo hæc audivi, quia potestas Dei est,
 
-**[61:13]** et tibi Domine misericordia: quia tu reddes unicuique iuxta opera sua. 
+**[61:13]** et tibi Domine misericordia: quia tu reddes unicuique iuxta opera sua.
 
 ### Chapter 62
 
@@ -32476,7 +32476,7 @@
 
 **[62:11]** tradentur in manus gladii, partes vulpium erunt.
 
-**[62:12]** Rex vero lætabitur in Deo, laudabuntur omnes qui iurant in eo: quia obstructum est os loquentium iniqua. 
+**[62:12]** Rex vero lætabitur in Deo, laudabuntur omnes qui iurant in eo: quia obstructum est os loquentium iniqua.
 
 ### Chapter 63
 
@@ -32500,7 +32500,7 @@
 
 **[63:10]** et timuit omnis homo. Et annunciaverunt opera Dei: et facta eius intellexerunt.
 
-**[63:11]** Lætabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde. 
+**[63:11]** Lætabitur iustus in Domino, et sperabit in eo, et laudabuntur omnes recti corde.
 
 ### Chapter 64
 
@@ -32530,7 +32530,7 @@
 
 **[64:13]** Pinguescent speciosa deserti: et exultatione colles accingentur.
 
-**[64:14]** Induti sunt arietes ovium, et valles abundabunt frumento: clamabunt, etenim hymnum dicent. 
+**[64:14]** Induti sunt arietes ovium, et valles abundabunt frumento: clamabunt, etenim hymnum dicent.
 
 ### Chapter 65
 
@@ -32572,7 +32572,7 @@
 
 **[65:19]** Propterea exaudivit Deus, et attendit voci deprecationis meæ.
 
-**[65:20]** Benedictus Deus, qui non amovit orationem meam, et misericordiam suam a me. 
+**[65:20]** Benedictus Deus, qui non amovit orationem meam, et misericordiam suam a me.
 
 ### Chapter 66
 
@@ -32590,7 +32590,7 @@
 
 **[66:7]** terra dedit fructum suum. Benedicat nos Deus, Deus noster,
 
-**[66:8]** benedicat nos Deus: et metuant eum omnes fines terræ. 
+**[66:8]** benedicat nos Deus: et metuant eum omnes fines terræ.
 
 ### Chapter 67
 
@@ -32664,7 +32664,7 @@
 
 **[67:35]** date gloriam Deo super Israel, magnificentia eius, et virtus eius in nubibus.
 
-**[67:36]** Mirabilis Deus in sanctis suis, Deus Israel ipse dabit virtutem, et fortitudinem plebi suæ, benedictus Deus. 
+**[67:36]** Mirabilis Deus in sanctis suis, Deus Israel ipse dabit virtutem, et fortitudinem plebi suæ, benedictus Deus.
 
 ### Chapter 68
 
@@ -32740,7 +32740,7 @@
 
 **[68:36]** Quoniam Deus salvam faciet Sion: et ædificabuntur civitates Iuda. Et inhabitabunt ibi, et hereditate acquirent eam.
 
-**[68:37]** Et semen servorum eius possidebit eam, et qui diligunt nomen eius, habitabunt in ea. 
+**[68:37]** Et semen servorum eius possidebit eam, et qui diligunt nomen eius, habitabunt in ea.
 
 ### Chapter 69
 
@@ -32754,7 +32754,7 @@
 
 **[69:5]** Exultent et lætentur in te omnes qui quærunt te, et dicant semper: Magnificetur Dominus: qui diligunt salutare tuum.
 
-**[69:6]** Ego vero egenus, et pauper sum: Deus adiuva me. Adiutor meus, et liberator meus es tu: Domine ne moreris. 
+**[69:6]** Ego vero egenus, et pauper sum: Deus adiuva me. Adiutor meus, et liberator meus es tu: Domine ne moreris.
 
 ### Chapter 70
 
@@ -32804,7 +32804,7 @@
 
 **[70:23]** Exultabunt labia mea cum cantavero tibi: et anima mea, quam redemisti.
 
-**[70:24]** Sed et lingua mea tota die meditabitur iustitiam tuam: cum confusi et reveriti fuerint qui quærunt mala mihi. 
+**[70:24]** Sed et lingua mea tota die meditabitur iustitiam tuam: cum confusi et reveriti fuerint qui quærunt mala mihi.
 
 ### Chapter 71
 
@@ -32846,7 +32846,7 @@
 
 **[71:19]** Et benedictum nomen maiestatis eius in æternum: et replebitur maiestate eius omnis terra: fiat, fiat.
 
-**[71:20]** Defecerunt laudes David filii Iesse. 
+**[71:20]** Defecerunt laudes David filii Iesse.
 
 ### Chapter 72
 
@@ -32904,7 +32904,7 @@
 
 **[72:27]** Quia ecce, qui elongant se a te, peribunt: perdidisti omnes, qui fornicantur abs te.
 
-**[72:28]** Mihi autem adhærere Deo bonum est: ponere in Domino Deo spem meam: ut annunciem omnes prædicationes tuas, in portis filiæ Sion. 
+**[72:28]** Mihi autem adhærere Deo bonum est: ponere in Domino Deo spem meam: ut annunciem omnes prædicationes tuas, in portis filiæ Sion.
 
 ### Chapter 73
 
@@ -32952,7 +32952,7 @@
 
 **[73:22]** Exurge Deus, iudica causam tuam: memor esto improperiorum tuorum, eorum quæ ab insipiente sunt tota die.
 
-**[73:23]** Ne obliviscaris voces inimicorum tuorum: superbia eorum, qui te oderunt, ascendit semper. 
+**[73:23]** Ne obliviscaris voces inimicorum tuorum: superbia eorum, qui te oderunt, ascendit semper.
 
 ### Chapter 74
 
@@ -32976,7 +32976,7 @@
 
 **[74:10]** Ego autem annunciabo in sæculum: cantabo Deo Iacob.
 
-**[74:11]** Et omnia cornua peccatorum confringam: et exaltabuntur cornua iusti. 
+**[74:11]** Et omnia cornua peccatorum confringam: et exaltabuntur cornua iusti.
 
 ### Chapter 75
 
@@ -33004,7 +33004,7 @@
 
 **[75:12]** Vovete, et reddite Domino Deo vestro: omnes qui in circuitu eius affertis munera. Terribili
 
-**[75:13]** et ei qui aufert spiritum principum, terribili apud reges terræ. 
+**[75:13]** et ei qui aufert spiritum principum, terribili apud reges terræ.
 
 ### Chapter 76
 
@@ -33048,7 +33048,7 @@
 
 **[76:20]** In mari via tua, et semitæ tuæ in aquis multis: et vestigia tua non cognoscentur.
 
-**[76:21]** Deduxisti sicut oves populum tuum, in manu Moysi et Aaron. 
+**[76:21]** Deduxisti sicut oves populum tuum, in manu Moysi et Aaron.
 
 ### Chapter 77
 
@@ -33194,7 +33194,7 @@
 
 **[77:71]** Pascere Iacob servum suum, et Israel hereditatem suam:
 
-**[77:72]** Et pavit eos in innocentia cordis sui: et in intellectibus manuum suarum deduxit eos. 
+**[77:72]** Et pavit eos in innocentia cordis sui: et in intellectibus manuum suarum deduxit eos.
 
 ### Chapter 78
 
@@ -33222,7 +33222,7 @@
 
 **[78:12]** Et redde vicinis nostris septuplum in sinu eorum: improperium ipsorum, quod exprobraverunt tibi Domine.
 
-**[78:13]** Nos autem populus tuus, et oves pascuæ tuæ, confitebimur tibi in sæculum: In generationem et generationem annunciabimus laudem tuam. 
+**[78:13]** Nos autem populus tuus, et oves pascuæ tuæ, confitebimur tibi in sæculum: In generationem et generationem annunciabimus laudem tuam.
 
 ### Chapter 79
 
@@ -33264,7 +33264,7 @@
 
 **[79:19]** Et non discedimus a te, vivificabis nos: et nomen tuum invocabimus.
 
-**[79:20]** Domine Deus virtutum converte nos: et ostende faciem tuam, et salvi erimus. 
+**[79:20]** Domine Deus virtutum converte nos: et ostende faciem tuam, et salvi erimus.
 
 ### Chapter 80
 
@@ -33300,7 +33300,7 @@
 
 **[80:16]** Inimici Domini mentiti sunt ei: et erit tempus eorum in sæcula.
 
-**[80:17]** Et cibavit eos ex adipe frumenti: et de petra, melle saturavit eos. 
+**[80:17]** Et cibavit eos ex adipe frumenti: et de petra, melle saturavit eos.
 
 ### Chapter 81
 
@@ -33318,7 +33318,7 @@
 
 **[81:7]** Vos autem sicut homines moriemini: et sicut unus de principibus cadetis.
 
-**[81:8]** Surge Deus, iudica terram: quoniam tu hereditabis in omnibus Gentibus. 
+**[81:8]** Surge Deus, iudica terram: quoniam tu hereditabis in omnibus Gentibus.
 
 ### Chapter 82
 
@@ -33358,7 +33358,7 @@
 
 **[82:18]** Erubescant, et conturbentur in sæculum sæculi: et confundantur, et pereant.
 
-**[82:19]** Et cognoscant quia nomen tibi Dominus: tu solus Altissimus in omni terra. 
+**[82:19]** Et cognoscant quia nomen tibi Dominus: tu solus Altissimus in omni terra.
 
 ### Chapter 83
 
@@ -33386,7 +33386,7 @@
 
 **[83:12]** Quia misericordiam, et veritatem diligit Deus: gratiam, et gloriam dabit Dominus.
 
-**[83:13]** Non privabit bonis eos, qui ambulant in innocentia: Domine virtutum, beatus homo, qui sperat in te. 
+**[83:13]** Non privabit bonis eos, qui ambulant in innocentia: Domine virtutum, beatus homo, qui sperat in te.
 
 ### Chapter 84
 
@@ -33416,7 +33416,7 @@
 
 **[84:13]** Etenim Dominus dabit benignitatem: et terra nostra dabit fructum suum.
 
-**[84:14]** Iustitia ante eum ambulabit: et ponet in via gressus suos. 
+**[84:14]** Iustitia ante eum ambulabit: et ponet in via gressus suos.
 
 ### Chapter 85
 
@@ -33452,7 +33452,7 @@
 
 **[85:16]** Respice in me, et miserere mei, da imperium tuum puero tuo: et salvum fac filium ancillæ tuæ.
 
-**[85:17]** Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur: quoniam tu Domine adiuvisti me, et consolatus es me. 
+**[85:17]** Fac mecum signum in bonum, ut videant qui oderunt me, et confundantur: quoniam tu Domine adiuvisti me, et consolatus es me.
 
 ### Chapter 86
 
@@ -33468,7 +33468,7 @@
 
 **[86:6]** Dominus narrabit in scripturis populorum, et principum: horum, qui fuerunt in ea.
 
-**[86:7]** Sicut lætantium omnium habitatio est in te. 
+**[86:7]** Sicut lætantium omnium habitatio est in te.
 
 ### Chapter 87
 
@@ -33508,7 +33508,7 @@
 
 **[87:18]** Circumdederunt me sicut aqua tota die: circumdederunt me simul.
 
-**[87:19]** Elongasti a me amicum, et proximum: et notos meos a miseria. 
+**[87:19]** Elongasti a me amicum, et proximum: et notos meos a miseria.
 
 ### Chapter 88
 
@@ -33616,7 +33616,7 @@
 
 **[88:52]** Quod exprobraverunt inimici tui Domine, quod exprobraverunt commutationem Christi tui.
 
-**[88:53]** Benedictus Dominus in æternum: fiat, fiat. 
+**[88:53]** Benedictus Dominus in æternum: fiat, fiat.
 
 ### Chapter 89
 
@@ -33652,7 +33652,7 @@
 
 **[89:16]** Respice in servos tuos, et in opera tua: et dirige filios eorum.
 
-**[89:17]** Et sit splendor Domini Dei nostri super nos, et opera manuum nostrarum dirige super nos: et opus manuum nostrarum dirige. 
+**[89:17]** Et sit splendor Domini Dei nostri super nos, et opera manuum nostrarum dirige super nos: et opus manuum nostrarum dirige.
 
 ### Chapter 90
 
@@ -33686,7 +33686,7 @@
 
 **[90:15]** Clamabit ad me, et ego exaudiam eum: cum ipso sum in tribulatione: eripiam eum et glorificabo eum.
 
-**[90:16]** Longitudine dierum replebo eum: et ostendam illi salutare meum. 
+**[90:16]** Longitudine dierum replebo eum: et ostendam illi salutare meum.
 
 ### Chapter 91
 
@@ -33720,7 +33720,7 @@
 
 **[91:15]** Adhuc multiplicabuntur in senecta uberi: et bene patientes erunt,
 
-**[91:16]** ut annuncient: Quoniam rectus Dominus Deus noster: et non est iniquitas in eo. 
+**[91:16]** ut annuncient: Quoniam rectus Dominus Deus noster: et non est iniquitas in eo.
 
 ### Chapter 92
 
@@ -33732,7 +33732,7 @@
 
 **[92:4]** a vocibus aquarum multarum. Mirabiles elationes maris, mirabilis in altis Dominus.
 
-**[92:5]** Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo Domine in longitudinem dierum. 
+**[92:5]** Testimonia tua credibilia facta sunt nimis: domum tuam decet sanctitudo Domine in longitudinem dierum.
 
 ### Chapter 93
 
@@ -33780,7 +33780,7 @@
 
 **[93:22]** Et factus est mihi Dominus in refugium: et Deus meus in adiutorium spei meæ.
 
-**[93:23]** Et reddet illis iniquitatem ipsorum: et in malitia eorum disperdet eos: disperdet illos Dominus Deus noster. 
+**[93:23]** Et reddet illis iniquitatem ipsorum: et in malitia eorum disperdet eos: disperdet illos Dominus Deus noster.
 
 ### Chapter 94
 
@@ -33804,7 +33804,7 @@
 
 **[94:10]** Quadraginta annis offensus fui generationi illi, et dixi: Semper hi errant corde.
 
-**[94:11]** Et isti non cognoverunt vias meas: ut iuravi in ira mea: Si introibunt in requiem meam. 
+**[94:11]** Et isti non cognoverunt vias meas: ut iuravi in ira mea: Si introibunt in requiem meam.
 
 ### Chapter 95
 
@@ -33832,7 +33832,7 @@
 
 **[95:12]** gaudebunt campi, et omnia quæ in eis sunt. Tunc exultabunt omnia ligna silvarum
 
-**[95:13]** a facie Domini, quia venit: quoniam venit iudicare terram. Iudicabit orbem terræ in æquitate, et populos in veritate sua. 
+**[95:13]** a facie Domini, quia venit: quoniam venit iudicare terram. Iudicabit orbem terræ in æquitate, et populos in veritate sua.
 
 ### Chapter 96
 
@@ -33858,7 +33858,7 @@
 
 **[96:11]** Lux orta est iusto, et rectis corde lætitia.
 
-**[96:12]** Lætamini iusti in Domino: et confitemini memoriæ sanctificationis eius. 
+**[96:12]** Lætamini iusti in Domino: et confitemini memoriæ sanctificationis eius.
 
 ### Chapter 97
 
@@ -33878,7 +33878,7 @@
 
 **[97:8]** Flumina plaudent manu, simul montes exultabunt
 
-**[97:9]** a conspectu Domini: quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in æquitate. 
+**[97:9]** a conspectu Domini: quoniam venit iudicare terram. Iudicabit orbem terrarum in iustitia, et populos in æquitate.
 
 ### Chapter 98
 
@@ -33898,7 +33898,7 @@
 
 **[98:8]** Domine Deus noster tu exaudiebas eos: Deus tu propitius fuisti eis, et ulciscens in omnes adinventiones eorum.
 
-**[98:9]** Exaltate Dominum Deum nostrum, et adorate in monte sancto eius: quoniam sanctus Dominus Deus noster. 
+**[98:9]** Exaltate Dominum Deum nostrum, et adorate in monte sancto eius: quoniam sanctus Dominus Deus noster.
 
 ### Chapter 99
 
@@ -33910,7 +33910,7 @@
 
 **[99:4]** introite portas eius in confessione, atria eius in hymnis: confitemini illi. Laudate nomen eius:
 
-**[99:5]** quoniam suavis est Dominus, in æternum misericordia eius, et usque in generationem et generationem veritas eius. 
+**[99:5]** quoniam suavis est Dominus, in æternum misericordia eius, et usque in generationem et generationem veritas eius.
 
 ### Chapter 100
 
@@ -33928,7 +33928,7 @@
 
 **[100:7]** Non habitabit in medio domus meæ qui facit superbiam: qui loquitur iniqua, non direxit in conspectu oculorum meorum.
 
-**[100:8]** In matutino interficiebam omnes peccatores terræ: ut disperderem de civitate Domini omnes operantes iniquitatem. 
+**[100:8]** In matutino interficiebam omnes peccatores terræ: ut disperderem de civitate Domini omnes operantes iniquitatem.
 
 ### Chapter 101
 
@@ -33988,7 +33988,7 @@
 
 **[101:28]** tu autem idem ipse es, et anni tui non deficient.
 
-**[101:29]** Filii servorum tuorum habitabunt: et semen eorum in sæculum dirigetur. 
+**[101:29]** Filii servorum tuorum habitabunt: et semen eorum in sæculum dirigetur.
 
 ### Chapter 102
 
@@ -34034,7 +34034,7 @@
 
 **[102:21]** Benedicite Domino omnes virtutes eius: ministri eius, qui facitis voluntatem eius.
 
-**[102:22]** Benedicite Domino omnia opera eius: in omni loco dominationis eius, benedic anima mea Domino. 
+**[102:22]** Benedicite Domino omnia opera eius: in omni loco dominationis eius, benedic anima mea Domino.
 
 ### Chapter 103
 
@@ -34106,7 +34106,7 @@
 
 **[103:34]** Iucundum sit ei eloquium meum: ego vero delectabor in Domino.
 
-**[103:35]** Deficiant peccatores a terra, et iniqui ita ut non sint: benedic anima mea Domino. 
+**[103:35]** Deficiant peccatores a terra, et iniqui ita ut non sint: benedic anima mea Domino.
 
 ### Chapter 104
 
@@ -34198,7 +34198,7 @@
 
 **[104:44]** Et dedit illis regiones gentium: et labores populorum possederunt:
 
-**[104:45]** Ut custodiant iustificationes eius, et legem eius requirant. 
+**[104:45]** Ut custodiant iustificationes eius, et legem eius requirant.
 
 ### Chapter 105
 
@@ -34296,7 +34296,7 @@
 
 **[105:47]** Salvos nos fac Domine Deus noster: et congrega nos de Nationibus: Ut confiteamur nomini sancto tuo: et gloriemur in laude tua.
 
-**[105:48]** Benedictus Dominus Deus Israel a sæculo et usque in sæculum: et dicet omnis populus: Fiat, fiat. 
+**[105:48]** Benedictus Dominus Deus Israel a sæculo et usque in sæculum: et dicet omnis populus: Fiat, fiat.
 
 ### Chapter 106
 
@@ -34384,7 +34384,7 @@
 
 **[106:42]** Videbunt recti, et lætabuntur: et omnis iniquitas oppilabit os suum.
 
-**[106:43]** Quis sapiens et custodiet hæc? et intelliget misericordias Domini? 
+**[106:43]** Quis sapiens et custodiet hæc? et intelliget misericordias Domini?
 
 ### Chapter 107
 
@@ -34414,7 +34414,7 @@
 
 **[107:13]** Da nobis auxilium de tribulatione: quia vana salus hominis.
 
-**[107:14]** In Deo faciemus virtutem: et ipse ad nihilum deducet inimicos nostros. 
+**[107:14]** In Deo faciemus virtutem: et ipse ad nihilum deducet inimicos nostros.
 
 ### Chapter 108
 
@@ -34478,7 +34478,7 @@
 
 **[108:30]** Confitebor Domino nimis in ore meo: et in medio multorum laudabo eum.
 
-**[108:31]** Quia astitit a dextris pauperis, ut salvam faceret a persequentibus animam meam. 
+**[108:31]** Quia astitit a dextris pauperis, ut salvam faceret a persequentibus animam meam.
 
 ### Chapter 109
 
@@ -34494,7 +34494,7 @@
 
 **[109:6]** Iudicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum.
 
-**[109:7]** De torrente in via bibet: propterea exaltabit caput. 
+**[109:7]** De torrente in via bibet: propterea exaltabit caput.
 
 ### Chapter 110
 
@@ -34516,7 +34516,7 @@
 
 **[110:9]** Redemptionem misit populo suo: mandavit in æternum testamentum suum. Sanctum, et terribile nomen eius:
 
-**[110:10]** initium sapientiæ timor Domini. Intellectus bonus omnibus facientibus eum: laudatio eius manet in sæculum sæculi. 
+**[110:10]** initium sapientiæ timor Domini. Intellectus bonus omnibus facientibus eum: laudatio eius manet in sæculum sæculi.
 
 ### Chapter 111
 
@@ -34538,7 +34538,7 @@
 
 **[111:9]** Dispersit, dedit pauperibus: iustitia eius manet in sæculum sæculi, cornu eius exaltabitur in gloria.
 
-**[111:10]** Peccator videbit, et irascetur, dentibus suis fremet et tabescet: desiderium peccatorum peribit. 
+**[111:10]** Peccator videbit, et irascetur, dentibus suis fremet et tabescet: desiderium peccatorum peribit.
 
 ### Chapter 112
 
@@ -34558,7 +34558,7 @@
 
 **[112:8]** Ut collocet eum cum principibus, cum principibus populi sui.
 
-**[112:9]** Qui habitare facit sterilem in domo, matrem filiorum lætantem. 
+**[112:9]** Qui habitare facit sterilem in domo, matrem filiorum lætantem.
 
 ### Chapter 113
 
@@ -34612,7 +34612,7 @@
 
 **[113:25]** Non mortui laudabunt te Domine: neque omnes, qui descendunt in infernum.
 
-**[113:26]** Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in sæculum. 
+**[113:26]** Sed nos qui vivimus, benedicimus Domino, ex hoc nunc et usque in sæculum.
 
 ### Chapter 114
 
@@ -34632,7 +34632,7 @@
 
 **[114:8]** Quia eripuit animam meam de morte: oculos meos a lacrymis, pedes meos a lapsu.
 
-**[114:9]** Placebo Domino in regione vivorum. 
+**[114:9]** Placebo Domino in regione vivorum.
 
 ### Chapter 115
 
@@ -34654,13 +34654,13 @@
 
 **[115:9]** Vota mea Domino reddam in conspectu omnis populi eius:
 
-**[115:10]** in atriis domus Domini, in medio tui Ierusalem. 
+**[115:10]** in atriis domus Domini, in medio tui Ierusalem.
 
 ### Chapter 116
 
 **[116:1]** Alleluia. Laudate Dominum omnes Gentes: laudate eum omnes populi:
 
-**[116:2]** Quoniam confirmata est super nos misericordia eius: et veritas Domini manet in æternum. 
+**[116:2]** Quoniam confirmata est super nos misericordia eius: et veritas Domini manet in æternum.
 
 ### Chapter 117
 
@@ -34720,7 +34720,7 @@
 
 **[117:28]** Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te. Confitebor tibi quoniam exaudisti me: et factus es mihi in salutem.
 
-**[117:29]** Confitemini Domino quoniam bonus: quoniam in sæculum misericordia eius. 
+**[117:29]** Confitemini Domino quoniam bonus: quoniam in sæculum misericordia eius.
 
 ### Chapter 118
 
@@ -35074,7 +35074,7 @@
 
 **[118:175]** Vivet anima mea, et laudabit te: et iudicia tua adiuvabunt me.
 
-**[118:176]** Erravi, sicut ovis, quæ periit: quære servum tuum, quia mandata tua non sum oblitus. 
+**[118:176]** Erravi, sicut ovis, quæ periit: quære servum tuum, quia mandata tua non sum oblitus.
 
 ### Chapter 119
 
@@ -35090,7 +35090,7 @@
 
 **[119:6]** multum incola fuit anima mea.
 
-**[119:7]** Cum his, qui oderunt pacem, eram pacificus: cum loquebar illis, impugnabant me gratis. 
+**[119:7]** Cum his, qui oderunt pacem, eram pacificus: cum loquebar illis, impugnabant me gratis.
 
 ### Chapter 120
 
@@ -35108,7 +35108,7 @@
 
 **[120:7]** Dominus custodit te ab omni malo: custodiat animam tuam Dominus.
 
-**[120:8]** Dominus custodiat introitum tuum, et exitum tuum: ex hoc nunc, et usque in sæculum. 
+**[120:8]** Dominus custodiat introitum tuum, et exitum tuum: ex hoc nunc, et usque in sæculum.
 
 ### Chapter 121
 
@@ -35128,7 +35128,7 @@
 
 **[121:8]** Propter fratres meos, et proximos meos, loquebar pacem de te:
 
-**[121:9]** Propter domum Domini Dei nostri, quæsivi bona tibi. 
+**[121:9]** Propter domum Domini Dei nostri, quæsivi bona tibi.
 
 ### Chapter 122
 
@@ -35138,7 +35138,7 @@
 
 **[122:3]** Miserere nostri Domine, miserere nostri: quia multum repleti sumus despectione:
 
-**[122:4]** Quia multum repleta est anima nostra: opprobrium abundantibus, et despectio superbis. 
+**[122:4]** Quia multum repleta est anima nostra: opprobrium abundantibus, et despectio superbis.
 
 ### Chapter 123
 
@@ -35156,7 +35156,7 @@
 
 **[123:7]** Anima nostra sicut passer erepta est de laqueo venantium: Laqueus contritus est, et nos liberati sumus.
 
-**[123:8]** Adiutorium nostrum in nomine Domini, qui fecit cælum et terram. 
+**[123:8]** Adiutorium nostrum in nomine Domini, qui fecit cælum et terram.
 
 ### Chapter 124
 
@@ -35168,7 +35168,7 @@
 
 **[124:4]** Benefac Domine bonis, et rectis corde.
 
-**[124:5]** Declinantes autem in obligationes, adducet Dominus cum operantibus iniquitatem: pax super Israel. 
+**[124:5]** Declinantes autem in obligationes, adducet Dominus cum operantibus iniquitatem: pax super Israel.
 
 ### Chapter 125
 
@@ -35182,7 +35182,7 @@
 
 **[125:5]** Qui seminant in lacrymis, in exultatione metent.
 
-**[125:6]** Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exultatione, portantes manipulos suos. 
+**[125:6]** Euntes ibant et flebant, mittentes semina sua. Venientes autem venient cum exultatione, portantes manipulos suos.
 
 **[125:7]** 
 
@@ -35196,7 +35196,7 @@
 
 **[126:4]** Sicut sagittæ in manu potentis: ita filii excussorum.
 
-**[126:5]** Beatus vir qui implevit desiderium suum ex ipsis: non confundetur cum loquetur inimicis suis in porta. 
+**[126:5]** Beatus vir qui implevit desiderium suum ex ipsis: non confundetur cum loquetur inimicis suis in porta.
 
 ### Chapter 127
 
@@ -35210,7 +35210,7 @@
 
 **[127:5]** Benedicat tibi Dominus ex Sion: et videas bona Ierusalem omnibus diebus vitæ tuæ.
 
-**[127:6]** Et videas filios filiorum tuorum, pacem super Israel. 
+**[127:6]** Et videas filios filiorum tuorum, pacem super Israel.
 
 ### Chapter 128
 
@@ -35228,7 +35228,7 @@
 
 **[128:7]** De quo non implevit manum suam qui metit, et sinum suum qui manipulos colligit.
 
-**[128:8]** Et non dixerunt qui præteribant: Benedictio Domini super vos: benediximus vobis in nomine Domini. 
+**[128:8]** Et non dixerunt qui præteribant: Benedictio Domini super vos: benediximus vobis in nomine Domini.
 
 ### Chapter 129
 
@@ -35246,7 +35246,7 @@
 
 **[129:7]** Quia apud Dominum misericordia: et copiosa apud eum redemptio.
 
-**[129:8]** Et ipse redimet Israel, ex omnibus iniquitatibus eius. 
+**[129:8]** Et ipse redimet Israel, ex omnibus iniquitatibus eius.
 
 ### Chapter 130
 
@@ -35254,7 +35254,7 @@
 
 **[130:2]** Si non humiliter sentiebam: sed exaltavi animam meam: Sicut ablactatus est super matre sua, ita retributio in anima mea.
 
-**[130:3]** Speret Israel in Domino, ex hoc nunc et usque in sæculum. 
+**[130:3]** Speret Israel in Domino, ex hoc nunc et usque in sæculum.
 
 ### Chapter 131
 
@@ -35292,7 +35292,7 @@
 
 **[131:17]** Illuc producam cornu David, paravi lucernam Christo meo.
 
-**[131:18]** Inimicos eius induam confusione: super ipsum autem efflorebit sanctificatio mea. 
+**[131:18]** Inimicos eius induam confusione: super ipsum autem efflorebit sanctificatio mea.
 
 ### Chapter 132
 
@@ -35300,7 +35300,7 @@
 
 **[132:2]** Sicut unguentum in capite, quod descendit in barbam, barbam Aaron, Quod descendit in oram vestimenti eius:
 
-**[132:3]** sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum. 
+**[132:3]** sicut ros Hermon, qui descendit in montem Sion. Quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.
 
 ### Chapter 133
 
@@ -35308,7 +35308,7 @@
 
 **[133:2]** In noctibus extollite manus vestras in sancta, et benedicite Dominum.
 
-**[133:3]** Benedicat te Dominus ex Sion, qui fecit cælum et terram. 
+**[133:3]** Benedicat te Dominus ex Sion, qui fecit cælum et terram.
 
 ### Chapter 134
 
@@ -35352,7 +35352,7 @@
 
 **[134:20]** Domus Levi benedicite Domino: qui timetis Dominum, benedicite Domino.
 
-**[134:21]** Benedictus Dominus ex Sion, qui habitat in Ierusalem. 
+**[134:21]** Benedictus Dominus ex Sion, qui habitat in Ierusalem.
 
 ### Chapter 135
 
@@ -35406,7 +35406,7 @@
 
 **[135:25]** Qui dat escam omni carni: quoniam in æternum misericordia eius.
 
-**[135:26]** Confitemini Deo cæli: quoniam in æternum misericordia eius. Confitemini Domino dominorum: quoniam in æternum misericordia eius. 
+**[135:26]** Confitemini Deo cæli: quoniam in æternum misericordia eius. Confitemini Domino dominorum: quoniam in æternum misericordia eius.
 
 **[135:27]** 
 
@@ -35428,7 +35428,7 @@
 
 **[136:8]** Filia Babylonis misera: beatus, qui retribuet tibi retributionem tuam, quam retribuisti nobis.
 
-**[136:9]** Beatus, qui tenebit, et allidet parvulos tuos ad petram. 
+**[136:9]** Beatus, qui tenebit, et allidet parvulos tuos ad petram.
 
 ### Chapter 137
 
@@ -35446,7 +35446,7 @@
 
 **[137:7]** Si ambulavero in medio tribulationis, vivificabis me: et super iram inimicorum meorum extendisti manum tuam, et salvum me fecit dextera tua.
 
-**[137:8]** Dominus retribuet pro me: Domine misericordia tua in sæculum: opera manuum tuarum ne despicias. 
+**[137:8]** Dominus retribuet pro me: Domine misericordia tua in sæculum: opera manuum tuarum ne despicias.
 
 ### Chapter 138
 
@@ -35496,7 +35496,7 @@
 
 **[138:23]** Proba me Deus, et scito cor meum: interroga me, et cognosce semitas meas.
 
-**[138:24]** Et vide, si via iniquitatis in me est: et deduc me in via æterna. 
+**[138:24]** Et vide, si via iniquitatis in me est: et deduc me in via æterna.
 
 ### Chapter 139
 
@@ -35526,7 +35526,7 @@
 
 **[139:13]** Cognovi quia faciet Dominus iudicium inopis: et vindictam pauperum.
 
-**[139:14]** Verumtamen iusti confitebuntur nomini tuo: et habitabunt recti cum vultu tuo. 
+**[139:14]** Verumtamen iusti confitebuntur nomini tuo: et habitabunt recti cum vultu tuo.
 
 ### Chapter 140
 
@@ -35548,7 +35548,7 @@
 
 **[140:9]** Custodi me a laqueo, quem statuerunt mihi: et a scandalis operantium iniquitatem.
 
-**[140:10]** Cadent in retiaculo eius peccatores: singulariter sum ego donec transeam. 
+**[140:10]** Cadent in retiaculo eius peccatores: singulariter sum ego donec transeam.
 
 ### Chapter 141
 
@@ -35566,7 +35566,7 @@
 
 **[141:7]** Intende ad deprecationem meam: quia humiliatus sum nimis. Libera me a persequentibus me: quia confortati sunt super me.
 
-**[141:8]** Educ de custodia animam meam ad confitendum nomini tuo: me expectant iusti, donec retribuas mihi. 
+**[141:8]** Educ de custodia animam meam ad confitendum nomini tuo: me expectant iusti, donec retribuas mihi.
 
 ### Chapter 142
 
@@ -35592,7 +35592,7 @@
 
 **[142:11]** propter nomen tuum Domine vivificabis me, in æquitate tua. Educes de tribulatione animam meam:
 
-**[142:12]** et in misericordia tua disperdes inimicos meos. Et perdes omnes, qui tribulant animam meam: quoniam ego servus tuus sum. 
+**[142:12]** et in misericordia tua disperdes inimicos meos. Et perdes omnes, qui tribulant animam meam: quoniam ego servus tuus sum.
 
 ### Chapter 143
 
@@ -35624,7 +35624,7 @@
 
 **[143:14]** boves eorum crassæ. Non est ruina maceriæ, neque transitus: neque clamor in plateis eorum.
 
-**[143:15]** Beatum dixerunt populum, cui hæc sunt: beatus populus, cuius Dominus Deus eius. 
+**[143:15]** Beatum dixerunt populum, cui hæc sunt: beatus populus, cuius Dominus Deus eius.
 
 ### Chapter 144
 
@@ -35668,7 +35668,7 @@
 
 **[144:20]** Custodit Dominus omnes diligentes se: et omnes peccatores disperdet.
 
-**[144:21]** Laudationem Domini loquetur os meum: et benedicat omnis caro nomini sancto eius in sæculum, et in sæculum sæculi. 
+**[144:21]** Laudationem Domini loquetur os meum: et benedicat omnis caro nomini sancto eius in sæculum, et in sæculum sæculi.
 
 ### Chapter 145
 
@@ -35690,7 +35690,7 @@
 
 **[145:9]** Dominus custodit advenas, pupillum et viduam suscipiet: et vias peccatorum disperdet.
 
-**[145:10]** Regnabit Dominus in sæcula Deus tuus Sion, in generationem et generationem. 
+**[145:10]** Regnabit Dominus in sæcula Deus tuus Sion, in generationem et generationem.
 
 ### Chapter 146
 
@@ -35714,7 +35714,7 @@
 
 **[146:10]** Non in fortitudine equi voluntatem habebit: nec in tibiis viri beneplacitum erit ei.
 
-**[146:11]** Beneplacitum est Domino super timentes eum: et in eis, qui sperant super misericordia eius. 
+**[146:11]** Beneplacitum est Domino super timentes eum: et in eis, qui sperant super misericordia eius.
 
 ### Chapter 147
 
@@ -35734,7 +35734,7 @@
 
 **[147:8]** Qui annunciat verbum suum Iacob: iustitias, et iudicia sua Israel.
 
-**[147:9]** Non fecit taliter omni nationi: et iudicia sua non manifestavit eis. Alleluia. 
+**[147:9]** Non fecit taliter omni nationi: et iudicia sua non manifestavit eis. Alleluia.
 
 ### Chapter 148
 
@@ -35764,7 +35764,7 @@
 
 **[148:13]** quia exaltatum est nomen eius solius.
 
-**[148:14]** Confessio eius super cælum, et terram: et exaltavit cornu populi sui. Hymnus omnibus sanctis eius: filiis Israel, populo appropinquanti sibi. Alleluia. 
+**[148:14]** Confessio eius super cælum, et terram: et exaltavit cornu populi sui. Hymnus omnibus sanctis eius: filiis Israel, populo appropinquanti sibi. Alleluia.
 
 ### Chapter 149
 
@@ -35784,7 +35784,7 @@
 
 **[149:8]** Ad alligandos reges eorum in compedibus: et nobiles eorum in manicis ferreis.
 
-**[149:9]** Ut faciant in eis iudicium conscriptum: gloria hæc est omnibus sanctis eius. Alleluia. 
+**[149:9]** Ut faciant in eis iudicium conscriptum: gloria hæc est omnibus sanctis eius. Alleluia.
 
 ### Chapter 150
 
@@ -35798,7 +35798,7 @@
 
 **[150:5]** Laudate eum in cymbalis benesonantibus: laudate eum in cymbalis iubilationis:
 
-**[150:6]** omnis spiritus laudet Dominum. Alleluia.  
+**[150:6]** omnis spiritus laudet Dominum. Alleluia.
 
 ## Proverbs
 
@@ -35868,7 +35868,7 @@
 
 **[1:32]** Aversio parvulorum interficiet eos, et prosperitas stultorum perdet illos.
 
-**[1:33]** Qui autem me audierit, absque terrore requiescet, et abundantia perfruetur, timore malorum sublato. 
+**[1:33]** Qui autem me audierit, absque terrore requiescet, et abundantia perfruetur, timore malorum sublato.
 
 ### Chapter 2
 
@@ -35914,7 +35914,7 @@
 
 **[2:21]** Qui enim recti sunt, habitabunt in terra, et simplices permanebunt in ea.
 
-**[2:22]** Impii vero de terra perdentur: et qui inique agunt, auferentur ex ea. 
+**[2:22]** Impii vero de terra perdentur: et qui inique agunt, auferentur ex ea.
 
 ### Chapter 3
 
@@ -35986,7 +35986,7 @@
 
 **[3:34]** Ipse deludet illusores, et mansuetis dabit gratiam.
 
-**[3:35]** Gloriam sapientes possidebunt: stultorum exaltatio, ignominia. 
+**[3:35]** Gloriam sapientes possidebunt: stultorum exaltatio, ignominia.
 
 ### Chapter 4
 
@@ -36042,7 +36042,7 @@
 
 **[4:26]** Dirige semitam pedibus tuis, et omnes viæ tuæ stabilientur.
 
-**[4:27]** Ne declines ad dexteram, neque ad sinistram: averte pedem tuum a malo. vias enim, quæ a dextris sunt, novit Dominus: perversæ vero sunt quæ a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet. 
+**[4:27]** Ne declines ad dexteram, neque ad sinistram: averte pedem tuum a malo. vias enim, quæ a dextris sunt, novit Dominus: perversæ vero sunt quæ a sinistris sunt. Ipse autem rectos faciet cursus tuos, itinera autem tua in pace producet.
 
 ### Chapter 5
 
@@ -36090,7 +36090,7 @@
 
 **[5:22]** Iniquitates suas capiunt impium, et funibus peccatorum suorum constringitur.
 
-**[5:23]** Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiæ suæ decipietur. 
+**[5:23]** Ipse morietur, quia non habuit disciplinam, et in multitudine stultitiæ suæ decipietur.
 
 ### Chapter 6
 
@@ -36162,7 +36162,7 @@
 
 **[6:34]** quia zelus et furor viri non parcet in die vindictæ,
 
-**[6:35]** nec acquiescet cuiusquam precibus, nec suscipiet pro redemptione dona plurima. 
+**[6:35]** nec acquiescet cuiusquam precibus, nec suscipiet pro redemptione dona plurima.
 
 ### Chapter 7
 
@@ -36218,7 +36218,7 @@
 
 **[7:26]** multos enim vulneratos deiecit, et fortissimi quique interfecti sunt ab ea.
 
-**[7:27]** Viæ inferi domus eius, penetrantes in interiora mortis. 
+**[7:27]** Viæ inferi domus eius, penetrantes in interiora mortis.
 
 ### Chapter 8
 
@@ -36292,7 +36292,7 @@
 
 **[8:35]** Qui me invenerit, inveniet vitam, et hauriet salutem a Domino:
 
-**[8:36]** qui autem in me peccaverit, lædet animam suam. Omnes, qui me oderunt, diligunt mortem. 
+**[8:36]** qui autem in me peccaverit, lædet animam suam. Omnes, qui me oderunt, diligunt mortem.
 
 ### Chapter 9
 
@@ -36330,7 +36330,7 @@
 
 **[9:17]** Aquæ furtivæ dulciores sunt, et panis absconditus suavior.
 
-**[9:18]** Et ignoravit quod ibi sint gigantes, et in profundis inferni convivæ eius. 
+**[9:18]** Et ignoravit quod ibi sint gigantes, et in profundis inferni convivæ eius.
 
 ### Chapter 10
 
@@ -36396,7 +36396,7 @@
 
 **[10:31]** Os iusti parturiet sapientiam: lingua pravorum peribit.
 
-**[10:32]** Labia iusti considerant placita: et os impiorum perversa. 
+**[10:32]** Labia iusti considerant placita: et os impiorum perversa.
 
 ### Chapter 11
 
@@ -36460,7 +36460,7 @@
 
 **[11:30]** Fructus iusti lignum vitæ: et qui suscipit animas, sapiens est.
 
-**[11:31]** Si iustus in terra recipit, quanto magis impius et peccator? 
+**[11:31]** Si iustus in terra recipit, quanto magis impius et peccator?
 
 ### Chapter 12
 
@@ -36518,7 +36518,7 @@
 
 **[12:27]** Non inveniet fraudulentus lucrum: et substantia hominis erit auri pretium.
 
-**[12:28]** In semita iustitiæ, vita: iter autem devium ducit ad mortem. 
+**[12:28]** In semita iustitiæ, vita: iter autem devium ducit ad mortem.
 
 ### Chapter 13
 
@@ -36570,7 +36570,7 @@
 
 **[13:24]** Qui parcit virgæ, odit filium suum: qui autem diligit illum, instanter erudit.
 
-**[13:25]** Iustus comedit, et replet animam suam: venter autem impiorum insaturabilis. 
+**[13:25]** Iustus comedit, et replet animam suam: venter autem impiorum insaturabilis.
 
 ### Chapter 14
 
@@ -36642,7 +36642,7 @@
 
 **[14:34]** Iustitia elevat gentem: miseros autem facit populos peccatum.
 
-**[14:35]** Acceptus est regi minister intelligens: iracundiam eius inutilis sustinebit. 
+**[14:35]** Acceptus est regi minister intelligens: iracundiam eius inutilis sustinebit.
 
 ### Chapter 15
 
@@ -36710,7 +36710,7 @@
 
 **[15:32]** Qui abiicit disciplinam, despicit animam suam: qui autem acquiescit increpationibus, possessor est cordis.
 
-**[15:33]** Timor Domini, disciplina sapientiæ: et gloriam præcedit humilitas. 
+**[15:33]** Timor Domini, disciplina sapientiæ: et gloriam præcedit humilitas.
 
 ### Chapter 16
 
@@ -36778,7 +36778,7 @@
 
 **[16:32]** Melior est patiens viro forti: et qui dominatur animo suo, expugnatore urbium.
 
-**[16:33]** Sortes mittuntur in sinum, sed a Domino temperantur. 
+**[16:33]** Sortes mittuntur in sinum, sed a Domino temperantur.
 
 ### Chapter 17
 
@@ -36836,7 +36836,7 @@
 
 **[17:27]** Qui moderatur sermones suos, doctus et prudens est: et pretiosi spiritus vir eruditus.
 
-**[17:28]** Stultus quoque si tacuerit, sapiens reputabitur: et si compresserit labia sua, intelligens. 
+**[17:28]** Stultus quoque si tacuerit, sapiens reputabitur: et si compresserit labia sua, intelligens.
 
 ### Chapter 18
 
@@ -36886,7 +36886,7 @@
 
 **[18:23]** Cum obsecrationibus loquetur pauper: et dives effabitur rigide.
 
-**[18:24]** Vir amabilis ad societatem, magis amicus erit, quam frater. 
+**[18:24]** Vir amabilis ad societatem, magis amicus erit, quam frater.
 
 ### Chapter 19
 
@@ -36946,7 +36946,7 @@
 
 **[19:28]** Testis iniquus deridet iudicium: et os impiorum devorat iniquitatem.
 
-**[19:29]** Parata sunt derisoribus iudicia: et mallei percutientes stultorum corporibus. 
+**[19:29]** Parata sunt derisoribus iudicia: et mallei percutientes stultorum corporibus.
 
 ### Chapter 20
 
@@ -37008,7 +37008,7 @@
 
 **[20:29]** Exultatio iuvenum, fortitudo eorum: et dignitas senum canities.
 
-**[20:30]** Livor vulneris absterget mala: et plagæ in secretioribus ventris. 
+**[20:30]** Livor vulneris absterget mala: et plagæ in secretioribus ventris.
 
 ### Chapter 21
 
@@ -37072,7 +37072,7 @@
 
 **[21:30]** Non est sapientia, non est prudentia, non est consilium contra Dominum.
 
-**[21:31]** Equus paratur ad diem belli: Dominus autem salutem tribuit. 
+**[21:31]** Equus paratur ad diem belli: Dominus autem salutem tribuit.
 
 ### Chapter 22
 
@@ -37132,7 +37132,7 @@
 
 **[22:28]** Ne transgrediaris terminos antiquos, quos posuerunt patres tui.
 
-**[22:29]** Vidisti virum velocem in opere suo? coram regibus stabit, nec erit ante ignobiles. 
+**[22:29]** Vidisti virum velocem in opere suo? coram regibus stabit, nec erit ante ignobiles.
 
 ### Chapter 23
 
@@ -37204,7 +37204,7 @@
 
 **[23:34]** Et eris sicut dormiens in medio mari, et quasi sopitus gubernator, amisso clavo:
 
-**[23:35]** et dices: Verberaverunt me, sed non dolui: traxerunt me, et ego non sensi: quando evigilabo, et rursus vina reperiam? 
+**[23:35]** et dices: Verberaverunt me, sed non dolui: traxerunt me, et ego non sensi: quando evigilabo, et rursus vina reperiam?
 
 ### Chapter 24
 
@@ -37274,7 +37274,7 @@
 
 **[24:33]** Parum, inquam, dormies, modicum dormitabis, pauxillum manus conseres, ut quiescas:
 
-**[24:34]** et veniet tibi quasi cursor egestas, et mendicitas quasi vir armatus. 
+**[24:34]** et veniet tibi quasi cursor egestas, et mendicitas quasi vir armatus.
 
 ### Chapter 25
 
@@ -37332,7 +37332,7 @@
 
 **[25:27]** Sicut qui mel multum comedit, non est ei bonum: sic qui scrutator est maiestatis, opprimetur a gloria.
 
-**[25:28]** Sicut urbs patens et absque murorum ambitu, ita vir, qui non potest in loquendo cohibere spiritum suum. 
+**[25:28]** Sicut urbs patens et absque murorum ambitu, ita vir, qui non potest in loquendo cohibere spiritum suum.
 
 ### Chapter 26
 
@@ -37390,7 +37390,7 @@
 
 **[26:27]** Qui fodit foveam, incidet in eam: et qui volvit lapidem, revertetur ad eum.
 
-**[26:28]** Lingua fallax non amat veritatem: et os lubricum operatur ruinas. 
+**[26:28]** Lingua fallax non amat veritatem: et os lubricum operatur ruinas.
 
 ### Chapter 27
 
@@ -37446,7 +37446,7 @@
 
 **[27:26]** Agni ad vestimentum tuum: et hœdi, ad agri pretium.
 
-**[27:27]** Sufficiat tibi lac caprarum in cibos tuos, et in necessaria domus tuæ: et ad victum ancillis tuis. 
+**[27:27]** Sufficiat tibi lac caprarum in cibos tuos, et in necessaria domus tuæ: et ad victum ancillis tuis.
 
 ### Chapter 28
 
@@ -37504,7 +37504,7 @@
 
 **[28:27]** Qui dat pauperi, non indigebit: qui despicit deprecantem, sustinebit penuriam.
 
-**[28:28]** Cum surrexerint impii, abscondentur homines: cum illi perierint, multiplicabuntur iusti. 
+**[28:28]** Cum surrexerint impii, abscondentur homines: cum illi perierint, multiplicabuntur iusti.
 
 ### Chapter 29
 
@@ -37560,7 +37560,7 @@
 
 **[29:26]** Multi requirunt faciem principis: et iudicium a Domino egreditur singulorum.
 
-**[29:27]** Abominantur iusti virum impium: et abominantur impii eos, qui in recta sunt via. Verbum custodiens filius, extra perditionem erit. 
+**[29:27]** Abominantur iusti virum impium: et abominantur impii eos, qui in recta sunt via. Verbum custodiens filius, extra perditionem erit.
 
 ### Chapter 30
 
@@ -37628,7 +37628,7 @@
 
 **[30:32]** Est qui stultus apparuit postquam elevatus est in sublime: si enim intellexisset, ori suo imposuisset manum.
 
-**[30:33]** Qui autem fortiter premit ubera ad eliciendum lac, exprimit butyrum: et qui vehementer emungit, elicit sanguinem: et qui provocat iras, producit discordias. 
+**[30:33]** Qui autem fortiter premit ubera ad eliciendum lac, exprimit butyrum: et qui vehementer emungit, elicit sanguinem: et qui provocat iras, producit discordias.
 
 ### Chapter 31
 
@@ -37692,7 +37692,7 @@
 
 **[31:30]** Fallax gratia, et vana est pulchritudo: mulier timens Dominum ipsa laudabitur.
 
-**[31:31]** Date ei de fructu manuum suarum: et laudent eam in portis opera eius.  
+**[31:31]** Date ei de fructu manuum suarum: et laudent eam in portis opera eius.
 
 ## Ecclesiastes
 
@@ -37732,7 +37732,7 @@
 
 **[1:17]** Dedique cor meum ut scirem prudentiam, atque doctrinam, erroresque et stultitiam: et agnovi quod in his quoque esset labor, et afflictio spiritus,
 
-**[1:18]** eo quod in multa sapientia multa sit indignatio: et qui addit scientiam, addit et laborem. 
+**[1:18]** eo quod in multa sapientia multa sit indignatio: et qui addit scientiam, addit et laborem.
 
 ### Chapter 2
 
@@ -37786,7 +37786,7 @@
 
 **[2:25]** Quis ita devorabit, et deliciis affluet ut ego?
 
-**[2:26]** Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam: peccatori autem dedit afflictionem, et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo: sed et hoc vanitas est, et cassa solicitudo mentis. 
+**[2:26]** Homini bono in conspectu suo dedit Deus sapientiam, et scientiam, et lætitiam: peccatori autem dedit afflictionem, et curam superfluam, ut addat, et congreget, et tradat ei qui placuit Deo: sed et hoc vanitas est, et cassa solicitudo mentis.
 
 ### Chapter 3
 
@@ -37832,7 +37832,7 @@
 
 **[3:21]** Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus iumentorum descendat deorsum?
 
-**[3:22]** Et deprehendi nihil esse melius quam lætari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet, ut post se futura cognoscat? 
+**[3:22]** Et deprehendi nihil esse melius quam lætari hominem in opere suo, et hanc esse partem illius. Quis enim eum adducet, ut post se futura cognoscat?
 
 ### Chapter 4
 
@@ -37868,7 +37868,7 @@
 
 **[4:16]** Infinitus numerus est populi omnium, qui fuerunt ante eum: et qui postea futuri sunt, non lætabuntur in eo. sed et hoc, vanitas et afflictio spiritus.
 
-**[4:17]** Custodi pedem tuum ingrediens domum Dei, et appropinqua ut audias. Multo enim melior est obedientia, quam stultorum victimæ, qui nesciunt quid faciunt mali. 
+**[4:17]** Custodi pedem tuum ingrediens domum Dei, et appropinqua ut audias. Multo enim melior est obedientia, quam stultorum victimæ, qui nesciunt quid faciunt mali.
 
 ### Chapter 5
 
@@ -37908,7 +37908,7 @@
 
 **[5:18]** Et omni homini, cui dedit Deus divitias, atque substantiam, potestatemque ei tribuit ut comedat ex eis, et fruatur parte sua, et lætetur de labore suo: hoc est donum Dei.
 
-**[5:19]** Non enim satis recordabitur dierum vitæ suæ, eo quod Deus occupet deliciis cor eius. 
+**[5:19]** Non enim satis recordabitur dierum vitæ suæ, eo quod Deus occupet deliciis cor eius.
 
 ### Chapter 6
 
@@ -37932,7 +37932,7 @@
 
 **[6:10]** Qui futurus est, iam vocatum est nomen eius: et scitur quod homo sit, et non possit contra fortiorem se in iudicio contendere.
 
-**[6:11]** Verba sunt plurima, multamque in disputando habentia vanitatem. 
+**[6:11]** Verba sunt plurima, multamque in disputando habentia vanitatem.
 
 ### Chapter 7
 
@@ -37994,7 +37994,7 @@
 
 **[7:29]** quam adhuc quærit anima mea, et non inveni. Virum de mille unum reperi, mulierem ex omnibus non inveni.
 
-**[7:30]** Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quæstionibus. Quis talis ut sapiens est? et quis cognovit solutionem verbi? 
+**[7:30]** Solummodo hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quæstionibus. Quis talis ut sapiens est? et quis cognovit solutionem verbi?
 
 ### Chapter 8
 
@@ -38030,7 +38030,7 @@
 
 **[8:16]** Et apposui cor meum ut scirem sapientiam, et intelligerem distentionem, quæ versatur in terra: est homo, qui diebus et noctibus somnum non capit oculis.
 
-**[8:17]** Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum, quæ fiunt sub sole: et quanto plus laboraverit ad quærendum, tanto minus inveniat: etiam si dixerit sapiens se nosse, non poterit reperire. 
+**[8:17]** Et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum, quæ fiunt sub sole: et quanto plus laboraverit ad quærendum, tanto minus inveniat: etiam si dixerit sapiens se nosse, non poterit reperire.
 
 ### Chapter 9
 
@@ -38068,7 +38068,7 @@
 
 **[9:17]** Verba sapientium audiuntur in silentio plus quam clamor principis inter stultos.
 
-**[9:18]** Melior est sapientia, quam arma bellica: et qui in uno peccaverit, multa bona perdet. 
+**[9:18]** Melior est sapientia, quam arma bellica: et qui in uno peccaverit, multa bona perdet.
 
 ### Chapter 10
 
@@ -38110,7 +38110,7 @@
 
 **[10:19]** In risum faciunt panem, et vinum ut epulentur viventes: et pecuniæ obediunt omnia.
 
-**[10:20]** In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti: quia et aves cæli portabunt vocem tuam, et qui habet pennas annunciabit sententiam. 
+**[10:20]** In cogitatione tua regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti: quia et aves cæli portabunt vocem tuam, et qui habet pennas annunciabit sententiam.
 
 ### Chapter 11
 
@@ -38132,7 +38132,7 @@
 
 **[11:9]** Lætare ergo iuvenis in adolescentia tua, et in bono sit cor tuum in diebus iuventutis tuæ, et ambula in viis cordis tui, et in intuitu oculorum tuorum: et scito quod pro omnibus his adducet te Deus in iudicium.
 
-**[11:10]** Aufer iram a corde tuo, et amove malitiam a carne tua. Adolescentia enim et voluptas vana sunt. 
+**[11:10]** Aufer iram a corde tuo, et amove malitiam a carne tua. Adolescentia enim et voluptas vana sunt.
 
 ### Chapter 12
 
@@ -38162,7 +38162,7 @@
 
 **[12:13]** Finem loquendi pariter omnes audiamus. Deum time, et mandata eius observa: hoc est enim omnis homo:
 
-**[12:14]** et cuncta, quæ fiunt, adducet Deus in iudicium pro omni errato, sive bonum, sive malum illud sit.  
+**[12:14]** et cuncta, quæ fiunt, adducet Deus in iudicium pro omni errato, sive bonum, sive malum illud sit.
 
 ## Song of Solomon
 
@@ -38198,7 +38198,7 @@
 
 **[1:15]** Ecce tu pulcher es dilecte mi, et decorus. Lectulus noster floridus:
 
-**[1:16]** tigna domorum nostrarum cedrina, laquearia nostra cypressina. 
+**[1:16]** tigna domorum nostrarum cedrina, laquearia nostra cypressina.
 
 ### Chapter 2
 
@@ -38234,7 +38234,7 @@
 
 **[2:16]** Dilectus meus mihi, et ego illi, qui pascitur inter lilia
 
-**[2:17]** donec aspiret dies, et inclinentur umbræ. Revertere: similis esto, dilecte mi, capreæ, hinnuloque cervorum super montes Bether. 
+**[2:17]** donec aspiret dies, et inclinentur umbræ. Revertere: similis esto, dilecte mi, capreæ, hinnuloque cervorum super montes Bether.
 
 ### Chapter 3
 
@@ -38258,7 +38258,7 @@
 
 **[3:10]** columnas eius fecit argenteas, reclinatorium aureum, ascensum purpureum: media charitate constravit propter filias Ierusalem:
 
-**[3:11]** Egredimini et videte filiæ Sion regem Salomonem in diademate, quo coronavit illum mater sua in die desponsationis illius, et in die lætitiæ cordis eius. 
+**[3:11]** Egredimini et videte filiæ Sion regem Salomonem in diademate, quo coronavit illum mater sua in die desponsationis illius, et in die lætitiæ cordis eius.
 
 ### Chapter 4
 
@@ -38292,7 +38292,7 @@
 
 **[4:15]** Fons hortorum: puteus aquarum viventium, quæ fluunt impetu de Libano.
 
-**[4:16]** Surge Aquilo, et veni Auster, perfla hortum meum, et fluant aromata illius. 
+**[4:16]** Surge Aquilo, et veni Auster, perfla hortum meum, et fluant aromata illius.
 
 ### Chapter 5
 
@@ -38328,7 +38328,7 @@
 
 **[5:16]** Guttur illius suavissimum, et totus desiderabilis: talis est dilectus meus, et ipse est amicus meus, filiæ Ierusalem.
 
-**[5:17]** Quo abiit dilectus tuus o pulcherrima mulierum? quo declinavit dilectus tuus, et quæremus eum tecum? 
+**[5:17]** Quo abiit dilectus tuus o pulcherrima mulierum? quo declinavit dilectus tuus, et quæremus eum tecum?
 
 ### Chapter 6
 
@@ -38354,7 +38354,7 @@
 
 **[6:11]** Nescivi: anima mea conturbavit me propter quadrigas Aminadab.
 
-**[6:12]** Revertere, revertere Sulamitis: revertere revertere, ut intueamur te. 
+**[6:12]** Revertere, revertere Sulamitis: revertere revertere, ut intueamur te.
 
 ### Chapter 7
 
@@ -38382,7 +38382,7 @@
 
 **[7:12]** Mane surgamus ad vineas, videamus si floruit vinea, si flores fructus parturiunt, si floruerunt mala punica: ibi dabo tibi ubera mea.
 
-**[7:13]** Mandragoræ dederunt odorem. In portis nostris omnia poma: nova et vetera, dilecte mi, servavi tibi. 
+**[7:13]** Mandragoræ dederunt odorem. In portis nostris omnia poma: nova et vetera, dilecte mi, servavi tibi.
 
 ### Chapter 8
 
@@ -38412,7 +38412,7 @@
 
 **[8:13]** Quæ habitas in hortis, amici auscultant: fac me audire vocem tuam.
 
-**[8:14]** Fuge dilecte mi, et assimilare capreæ, hinnuloque cervorum super montes aromatum.  
+**[8:14]** Fuge dilecte mi, et assimilare capreæ, hinnuloque cervorum super montes aromatum.
 
 ## Wisdom
 
@@ -38448,7 +38448,7 @@
 
 **[1:15]** Iustitia enim perpetua est, et immortalis.
 
-**[1:16]** Impii autem manibus et verbis accersierunt illam: et æstimantes illam amicam, defluxerunt, et sponsiones posuerunt ad illam: quoniam digni sunt qui sint ex parte illius. 
+**[1:16]** Impii autem manibus et verbis accersierunt illam: et æstimantes illam amicam, defluxerunt, et sponsiones posuerunt ad illam: quoniam digni sunt qui sint ex parte illius.
 
 ### Chapter 2
 
@@ -38498,9 +38498,9 @@
 
 **[2:23]** Quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suæ fecit illum.
 
-**[2:24]** Invidia autem diaboli mors introivit in orbem terrarum: 
+**[2:24]** Invidia autem diaboli mors introivit in orbem terrarum:
 
-**[2:25]** imitantur autem illum qui sunt ex parte illius. 
+**[2:25]** imitantur autem illum qui sunt ex parte illius.
 
 ### Chapter 3
 
@@ -38540,7 +38540,7 @@
 
 **[3:18]** Et si celerius defuncti fuerint, non habebunt spem, nec in die agnitionis allocutionem.
 
-**[3:19]** Nationis enim iniquæ diræ sunt consummationes. 
+**[3:19]** Nationis enim iniquæ diræ sunt consummationes.
 
 ### Chapter 4
 
@@ -38578,11 +38578,11 @@
 
 **[4:17]** Videbunt enim finem sapientis, et non intelligent quid cogitaverit de illo Deus, et quare munierit illum Dominus.
 
-**[4:18]** Videbunt et contemnent eum: illos autem Dominus irridebit. 
+**[4:18]** Videbunt et contemnent eum: illos autem Dominus irridebit.
 
 **[4:19]** et erunt post hæc decidentes sine honore, et in contumelia inter mortuos in perpetuum: quoniam disrumpet illos inflatos sine voce, et commovebit illos a fundamentis et usque ad supremum desolabuntur: et erunt gementes, et memoria illorum peribit.
 
-**[4:20]** Venient in cogitatione peccatorum suorum timidi, et traducent illos ex adverso iniquitates ipsorum. 
+**[4:20]** Venient in cogitatione peccatorum suorum timidi, et traducent illos ex adverso iniquitates ipsorum.
 
 ### Chapter 5
 
@@ -38632,7 +38632,7 @@
 
 **[5:23]** Et a petrosa ira plenæ mittentur grandines, excandescet in illos aqua maris, et flumina concurrent duriter.
 
-**[5:24]** Contra illos stabit spiritus virtutis, et tamquam turbo venti dividet illos: et ad eremum perducet omnem terram iniquitas illorum, et malignitas evertet sedes potentium. 
+**[5:24]** Contra illos stabit spiritus virtutis, et tamquam turbo venti dividet illos: et ad eremum perducet omnem terram iniquitas illorum, et malignitas evertet sedes potentium.
 
 ### Chapter 6
 
@@ -38664,7 +38664,7 @@
 
 **[6:14]** Præoccupat qui se concupiscunt, ut illis se prior ostendat.
 
-**[6:15]** Qui de luce vigilaverit ad illam, non laborabit: assidentem enim illam foribus suis inveniet. 
+**[6:15]** Qui de luce vigilaverit ad illam, non laborabit: assidentem enim illam foribus suis inveniet.
 
 **[6:16]** Cogitare ergo de illa sensus est consummatus: et qui vigilaverit propter illam, cito securus erit.
 
@@ -38688,7 +38688,7 @@
 
 **[6:26]** Multitudo autem sapientium sanitas est orbis terrarum: et rex sapiens stabilimentum populi est.
 
-**[6:27]** Ergo accipite disciplinam per sermones meos, et proderit vobis. 
+**[6:27]** Ergo accipite disciplinam per sermones meos, et proderit vobis.
 
 ### Chapter 7
 
@@ -38750,7 +38750,7 @@
 
 **[7:29]** Est enim hæc speciosior sole, et super omnem dispositionem stellarum, luci comparata invenitur prior.
 
-**[7:30]** Illi enim succedit nox, sapientiam autem non vincit malitia. 
+**[7:30]** Illi enim succedit nox, sapientiam autem non vincit malitia.
 
 ### Chapter 8
 
@@ -38794,7 +38794,7 @@
 
 **[8:20]** Et cum essem magis bonus, veni ad corpus incoinquinatum.
 
-**[8:21]** Et ut scivi quoniam aliter non possem esse continens, nisi Deus det, et hoc ipsum erat sapientiæ, scire cuius esset hoc donum: adii Dominum, et deprecatus sum illum, et dixi ex totis præcordiis meis. 
+**[8:21]** Et ut scivi quoniam aliter non possem esse continens, nisi Deus det, et hoc ipsum erat sapientiæ, scire cuius esset hoc donum: adii Dominum, et deprecatus sum illum, et dixi ex totis præcordiis meis.
 
 ### Chapter 9
 
@@ -38834,7 +38834,7 @@
 
 **[9:18]** et sic correctæ sint semitæ eorum, qui sunt in terris, et quæ tibi placent didicerint homines?
 
-**[9:19]** Nam per sapientiam sanati sunt quicumque placuerunt tibi Domine a principio. 
+**[9:19]** Nam per sapientiam sanati sunt quicumque placuerunt tibi Domine a principio.
 
 ### Chapter 10
 
@@ -38878,7 +38878,7 @@
 
 **[10:20]** et decantaverunt Domine nomen sanctum tuum, et victricem manum tuam laudaverunt pariter:
 
-**[10:21]** quoniam sapientia aperuit os mutorum, et linguas infantium fecit disertas. 
+**[10:21]** quoniam sapientia aperuit os mutorum, et linguas infantium fecit disertas.
 
 ### Chapter 11
 
@@ -38934,7 +38934,7 @@
 
 **[11:26]** Quomodo autem posset aliquid permanere, nisi tu voluisses? aut quod a te vocatum non esset, conservaretur?
 
-**[11:27]** Parcis autem omnibus: quoniam tua sunt Domine, qui amas animas. 
+**[11:27]** Parcis autem omnibus: quoniam tua sunt Domine, qui amas animas.
 
 ### Chapter 12
 
@@ -38990,7 +38990,7 @@
 
 **[12:26]** Qui autem ludibriis et increpationibus non sunt correcti, dignum Dei iudicium experti sunt.
 
-**[12:27]** In quibus enim patientes indignabantur, per hæc quos putabant deos, in ipsis cum exterminarentur videntes, illum, quem olim negabant se nosse, verum Deum agnoverunt: propter quod et finis condemnationis eorum venit super illos. 
+**[12:27]** In quibus enim patientes indignabantur, per hæc quos putabant deos, in ipsis cum exterminarentur videntes, illum, quem olim negabant se nosse, verum Deum agnoverunt: propter quod et finis condemnationis eorum venit super illos.
 
 ### Chapter 13
 
@@ -39030,7 +39030,7 @@
 
 **[13:18]** et pro sanitate quidem infirmum deprecatur, et pro vita rogat mortuum, et in adiutorium inutilem invocat:
 
-**[13:19]** et pro itinere petit ab eo, qui ambulare non potest: et de acquirendo, et de operando, et de omnium rerum eventu petit ab eo, qui in omnibus est inutilis. 
+**[13:19]** et pro itinere petit ab eo, qui ambulare non potest: et de acquirendo, et de operando, et de omnium rerum eventu petit ab eo, qui in omnibus est inutilis.
 
 ### Chapter 14
 
@@ -39048,7 +39048,7 @@
 
 **[14:7]** Benedictum est enim lignum, per quod fit iustitia.
 
-**[14:8]** Per manus autem quod fit idolum, maledictum est et ipsum, et qui fecit illud: quia ille quidem operatus est: illud autem cum esset fragile, deus cognominatus est. 
+**[14:8]** Per manus autem quod fit idolum, maledictum est et ipsum, et qui fecit illud: quia ille quidem operatus est: illud autem cum esset fragile, deus cognominatus est.
 
 **[14:9]** Similiter autem odio sunt Deo impius, et impietas eius.
 
@@ -39094,7 +39094,7 @@
 
 **[14:30]** Utraque ergo illis evenient digne, quoniam male senserunt de Deo, attendentes idolis, et iuraverunt iniuste, in dolo contemnentes iustitiam.
 
-**[14:31]** Non enim iuratorum virtus, sed peccantium pœna perambulat semper iniustorum prævaricationem. 
+**[14:31]** Non enim iuratorum virtus, sed peccantium pœna perambulat semper iniustorum prævaricationem.
 
 ### Chapter 15
 
@@ -39134,7 +39134,7 @@
 
 **[15:18]** Sed et animalia miserrima colunt: insensata enim comparata his, illis sunt deteriora.
 
-**[15:19]** Sed nec aspectu aliquis ex his animalibus bona potest conspicere. Effugerunt autem Dei laudem, et benedictionem eius. 
+**[15:19]** Sed nec aspectu aliquis ex his animalibus bona potest conspicere. Effugerunt autem Dei laudem, et benedictionem eius.
 
 ### Chapter 16
 
@@ -39194,7 +39194,7 @@
 
 **[16:28]** ut notum omnibus esset, quoniam oportet prævenire solem ad benedictionem tuam, et ad ortum lucis te adorare.
 
-**[16:29]** Ingrati enim spes tamquam hybernalis glacies tabescet, et disperiet tamquam aqua supervacua. 
+**[16:29]** Ingrati enim spes tamquam hybernalis glacies tabescet, et disperiet tamquam aqua supervacua.
 
 ### Chapter 17
 
@@ -39236,7 +39236,7 @@
 
 **[17:19]** Omnis enim orbis terrarum limpido illuminabatur lumine, et non impeditis operibus continebatur.
 
-**[17:20]** Solis autem illis superposita erat gravis nox, imago tenebrarum, quæ superventura illis erat. Ipsi ergo sibi erant graviores tenebris. 
+**[17:20]** Solis autem illis superposita erat gravis nox, imago tenebrarum, quæ superventura illis erat. Ipsi ergo sibi erant graviores tenebris.
 
 ### Chapter 18
 
@@ -39288,7 +39288,7 @@
 
 **[18:24]** In veste enim poderis, quam habebat, totus erat orbis terrarum: et parentum magnalia in quatuor ordinibus lapidum erant sculpta, et magnificientia tua in diademate capitis illius sculpta erat.
 
-**[18:25]** His autem cessit qui exterminabat, et hæc extimuit. Erat enim sola tentatio iræ sufficiens. 
+**[18:25]** His autem cessit qui exterminabat, et hæc extimuit. Erat enim sola tentatio iræ sufficiens.
 
 ### Chapter 19
 
@@ -39330,7 +39330,7 @@
 
 **[19:19]** Ignis in aqua valebat supra suam virtutem, et aqua extinguentis naturæ obliviscebatur.
 
-**[19:20]** Flammæ econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.  
+**[19:20]** Flammæ econtrario, corruptibilium animalium non vexaverunt carnes coambulantium, nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam. In omnibus enim magnificasti populum tuum Domine, et honorasti, et non despexisti, in omni tempore, et in omni loco assistens eis.
 
 ## Sirach
 
@@ -39414,7 +39414,7 @@
 
 **[1:39]** et revelet Deus absconsa tua, et in medio synagogæ elidat te:
 
-**[1:40]** quoniam accessisti maligne ad Dominum, et cor tuum plenum est dolo et fallacia. 
+**[1:40]** quoniam accessisti maligne ad Dominum, et cor tuum plenum est dolo et fallacia.
 
 ### Chapter 2
 
@@ -39462,7 +39462,7 @@
 
 **[2:22]** dicentes: Si pœnitentiam non egerimus, incidemus in manus Domini, et non in manus hominum.
 
-**[2:23]** Secundum enim magnitudinem ipsius, sic et misericordia illius cum ipso est. 
+**[2:23]** Secundum enim magnitudinem ipsius, sic et misericordia illius cum ipso est.
 
 ### Chapter 3
 
@@ -39532,7 +39532,7 @@
 
 **[3:33]** Ignem ardentem extinguit aqua, et eleemosyna resistit peccatis:
 
-**[3:34]** et Deus prospector est eius qui reddit gratiam: meminit eius in posterum, et in tempore casus sui inveniet firmamentum. 
+**[3:34]** et Deus prospector est eius qui reddit gratiam: meminit eius in posterum, et in tempore casus sui inveniet firmamentum.
 
 ### Chapter 4
 
@@ -39606,7 +39606,7 @@
 
 **[4:35]** Noli esse sicut leo in domo tua, evertens domesticos tuos, et opprimens subiectos tibi.
 
-**[4:36]** Non sit porrecta manus tua ad accipiendum, et ad dandum collecta. 
+**[4:36]** Non sit porrecta manus tua ad accipiendum, et ad dandum collecta.
 
 ### Chapter 5
 
@@ -39644,7 +39644,7 @@
 
 **[5:17]** Super furem enim est confusio et pœnitentia, et denotatio pessima super bilinguem: susurratori autem odium, et inimicitia, et contumelia.
 
-**[5:18]** Iustifica pusillum, et magnum similiter. 
+**[5:18]** Iustifica pusillum, et magnum similiter.
 
 ### Chapter 6
 
@@ -39720,7 +39720,7 @@
 
 **[6:36]** Et si videris sensatum, evigila ad eum, et gradus ostiorum illius exterat pes tuus.
 
-**[6:37]** Cogitatum tuum habe in præceptis Dei, et in mandatis illius maxime assiduus esto: et ipse dabit tibi cor, et concupiscentia sapientiæ dabitur tibi. 
+**[6:37]** Cogitatum tuum habe in præceptis Dei, et in mandatis illius maxime assiduus esto: et ipse dabit tibi cor, et concupiscentia sapientiæ dabitur tibi.
 
 ### Chapter 7
 
@@ -39802,7 +39802,7 @@
 
 **[7:39]** Non te pigeat visitare infirmum: ex his enim in dilectione firmaberis.
 
-**[7:40]** In omnibus operibus tuis memorare novissima tua, et in æternum non peccabis. 
+**[7:40]** In omnibus operibus tuis memorare novissima tua, et in æternum non peccabis.
 
 ### Chapter 8
 
@@ -39848,7 +39848,7 @@
 
 **[8:21]** Coram extraneo ne facias consilium: nescis enim quid pariet.
 
-**[8:22]** Non omni homini cor tuum manifestes: ne forte inferat tibi gratiam falsam, et convicietur tibi. 
+**[8:22]** Non omni homini cor tuum manifestes: ne forte inferat tibi gratiam falsam, et convicietur tibi.
 
 ### Chapter 9
 
@@ -39900,7 +39900,7 @@
 
 **[9:24]** In manu artificum opera laudabuntur, et princeps populi in sapientia sermonis sui, in sensu vero seniorum verbum.
 
-**[9:25]** Terribilis est in civitate sua homo linguosus: et temerarius in verbo suo odibilis erit. 
+**[9:25]** Terribilis est in civitate sua homo linguosus: et temerarius in verbo suo odibilis erit.
 
 ### Chapter 10
 
@@ -39970,7 +39970,7 @@
 
 **[10:33]** Pauper gloriatur per disciplinam et timorem suum: et est homo qui honorificatur propter substantiam suam.
 
-**[10:34]** Qui autem gloriatur in paupertate, quanto magis in substantia? et qui gloriatur in substantia, paupertatem vereatur. 
+**[10:34]** Qui autem gloriatur in paupertate, quanto magis in substantia? et qui gloriatur in substantia, paupertatem vereatur.
 
 ### Chapter 11
 
@@ -40044,7 +40044,7 @@
 
 **[11:35]** Attende tibi a pestifero, fabricat enim mala: ne inducat super te subsannationem in perpetuum.
 
-**[11:36]** Admitte ad te alienigenam, et subvertet te in turbine, et abalienabit te a tuis propriis. 
+**[11:36]** Admitte ad te alienigenam, et subvertet te in turbine, et abalienabit te a tuis propriis.
 
 ### Chapter 12
 
@@ -40084,7 +40084,7 @@
 
 **[12:18]** In oculis suis lacrymatur inimicus, et quasi adiuvans suffodiet plantas tuas.
 
-**[12:19]** Caput suum movebit, et plaudet manu, et multa susurrans commutabit vultum suum. 
+**[12:19]** Caput suum movebit, et plaudet manu, et multa susurrans commutabit vultum suum.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:31]** Cor hominis immutat faciem illius, sive in bona, sive in mala.
 
-**[13:32]** Vestigium cordis boni, et faciem bonam difficile invenies, et cum labore. 
+**[13:32]** Vestigium cordis boni, et faciem bonam difficile invenies, et cum labore.
 
 ### Chapter 14
 
@@ -40206,7 +40206,7 @@
 
 **[14:26]** statuet filios suos sub tegmine illius, et sub ramis eius morabitur.
 
-**[14:27]** protegetur sub tegmine illius a fervore, et in gloria eius requiescet. 
+**[14:27]** protegetur sub tegmine illius a fervore, et in gloria eius requiescet.
 
 ### Chapter 15
 
@@ -40252,7 +40252,7 @@
 
 **[15:21]** Nemini mandavit impie agere, et nemini dedit spatium peccandi:
 
-**[15:22]** non enim concupiscit multitudinem filiorum infidelium et inutilium. 
+**[15:22]** non enim concupiscit multitudinem filiorum infidelium et inutilium.
 
 ### Chapter 16
 
@@ -40316,7 +40316,7 @@
 
 **[16:30]** Post hæc Deus in terram respexit, et implevit illam bonis suis.
 
-**[16:31]** Anima omnis vitalis denunciavit ante faciem ipsius, et in ipsam iterum reversio illorum. 
+**[16:31]** Anima omnis vitalis denunciavit ante faciem ipsius, et in ipsam iterum reversio illorum.
 
 ### Chapter 17
 
@@ -40380,7 +40380,7 @@
 
 **[17:30]** Quid lucidius sole? et hic deficiet. Aut quid nequius quam quod excogitavit caro et sanguis? et hoc arguetur.
 
-**[17:31]** Virtutem altitudinis cæli ipse conspicit: et omnes homines terra et cinis. 
+**[17:31]** Virtutem altitudinis cæli ipse conspicit: et omnes homines terra et cinis.
 
 ### Chapter 18
 
@@ -40448,7 +40448,7 @@
 
 **[18:32]** Ne oblecteris in turbis nec in modicis: assidua enim est commissio illorum.
 
-**[18:33]** Ne fueris mediocris in contentione ex fœnore, et est tibi nihil in sacculo: eris enim invidus vitæ tuæ. 
+**[18:33]** Ne fueris mediocris in contentione ex fœnore, et est tibi nihil in sacculo: eris enim invidus vitæ tuæ.
 
 ### Chapter 19
 
@@ -40506,7 +40506,7 @@
 
 **[19:27]** Amictus corporis, et risus dentium, et ingressus hominis enunciant de illo.
 
-**[19:28]** Est correptio mendax in ira contumeliosi: et est iudicium, quod non probatur esse bonum: et est tacens, et ipse est prudens. 
+**[19:28]** Est correptio mendax in ira contumeliosi: et est iudicium, quod non probatur esse bonum: et est tacens, et ipse est prudens.
 
 ### Chapter 20
 
@@ -40574,7 +40574,7 @@
 
 **[20:32]** Sapientia absconsa et thesaurus invisus: quæ utilitas in utrisque?
 
-**[20:33]** Melior est qui celat insipientiam suam, quam homo qui abscondit sapientiam suam. 
+**[20:33]** Melior est qui celat insipientiam suam, quam homo qui abscondit sapientiam suam.
 
 ### Chapter 21
 
@@ -40638,7 +40638,7 @@
 
 **[21:30]** Dum maledicit impius diabolum, maledicit ipse animam suam.
 
-**[21:31]** Susurro coinquinabit animam suam, et in omnibus odietur: et qui cum eo manserit, odiosus erit: tacitus et sensatus honorabitur. 
+**[21:31]** Susurro coinquinabit animam suam, et in omnibus odietur: et qui cum eo manserit, odiosus erit: tacitus et sensatus honorabitur.
 
 ### Chapter 22
 
@@ -40706,7 +40706,7 @@
 
 **[22:32]** Omnis qui audiet, cavebit se ab eo.
 
-**[22:33]** Quis dabit ori meo custodiam, et super labia mea signaculum certum, ut non cadam ab ipsis, et lingua mea perdat me? 
+**[22:33]** Quis dabit ori meo custodiam, et super labia mea signaculum certum, ut non cadam ab ipsis, et lingua mea perdat me?
 
 ### Chapter 23
 
@@ -40784,7 +40784,7 @@
 
 **[23:37]** Et agnoscent qui derelicti sunt, quoniam nihil melius est quam timor Dei: et nihil dulcius, quam respicere in mandatis Domini.
 
-**[23:38]** Gloria magna est sequi Dominum: longitudo enim dierum assumetur ab eo. 
+**[23:38]** Gloria magna est sequi Dominum: longitudo enim dierum assumetur ab eo.
 
 ### Chapter 24
 
@@ -40880,7 +40880,7 @@
 
 **[24:46]** Adhuc doctrinam quasi prophetiam effundam, et relinquam illam quærentibus sapientiam, et non desinam in progenies illorum usque in ævum sanctum.
 
-**[24:47]** Videte quoniam non soli mihi laboravi, sed omnibus exquirentibus veritatem. 
+**[24:47]** Videte quoniam non soli mihi laboravi, sed omnibus exquirentibus veritatem.
 
 ### Chapter 25
 
@@ -40954,7 +40954,7 @@
 
 **[25:35]** Si non ambulaverit ad manum tuam, confundet te in conspectu inimicorum.
 
-**[25:36]** A carnibus tuis abscinde illam, ne semper te abutatur. 
+**[25:36]** A carnibus tuis abscinde illam, ne semper te abutatur.
 
 ### Chapter 26
 
@@ -41012,7 +41012,7 @@
 
 **[26:27]** et qui transgreditur a iustitia ad peccatum, Deus paravit eum ad rhomphæam.
 
-**[26:28]** Duæ species difficiles et periculosæ mihi apparuerunt, difficile exuitur negotians a negligentia: et non iustificabitur caupo a peccatis labiorum. 
+**[26:28]** Duæ species difficiles et periculosæ mihi apparuerunt, difficile exuitur negotians a negligentia: et non iustificabitur caupo a peccatis labiorum.
 
 ### Chapter 27
 
@@ -41080,7 +41080,7 @@
 
 **[27:32]** Laqueo peribunt qui oblectantur casu iustorum: dolor autem consumet illos antequam moriantur.
 
-**[27:33]** Ira et furor, utraque execrabilia sunt, et vir peccator continens erit illorum. 
+**[27:33]** Ira et furor, utraque execrabilia sunt, et vir peccator continens erit illorum.
 
 ### Chapter 28
 
@@ -41142,7 +41142,7 @@
 
 **[28:29]** Aurum tuum et argentum tuum confla, et verbis tuis facito stateram, et frenos ori tuo rectos:
 
-**[28:30]** et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem. 
+**[28:30]** et attende ne forte labaris in lingua, et cadas in conspectu inimicorum insidiantium tibi, et sit casus tuus insanabilis in mortem.
 
 ### Chapter 29
 
@@ -41212,7 +41212,7 @@
 
 **[29:33]** Exi a facie honoris amicorum meorum: necessitudine domus meæ hospitio mihi factus est frater.
 
-**[29:34]** Gravia hæc homini habenti sensum: Correptio domus, et improperium fœneratoris. 
+**[29:34]** Gravia hæc homini habenti sensum: Correptio domus, et improperium fœneratoris.
 
 **[29:35]** 
 
@@ -41270,7 +41270,7 @@
 
 **[30:26]** Zelus et iracundia minuunt dies, et ante tempus senectam adducet cogitatus.
 
-**[30:27]** Splendidum cor, et bonum in epulis est: epulæ enim illius diligenter fiunt. 
+**[30:27]** Splendidum cor, et bonum in epulis est: epulæ enim illius diligenter fiunt.
 
 ### Chapter 31
 
@@ -41356,7 +41356,7 @@
 
 **[31:41]** In convivio vini non arguas proximum: et non despicias eum in iucunditate illius:
 
-**[31:42]** verba improperii non dicas illi: et non premas illum repetendo. 
+**[31:42]** verba improperii non dicas illi: et non premas illum repetendo.
 
 ### Chapter 32
 
@@ -41414,11 +41414,11 @@
 
 **[32:27]** In omni opere tuo crede ex fide animæ tuæ: hoc est enim conservatio mandatorum.
 
-**[32:28]** Qui credit Deo, attendit mandatis: et qui confidit in illo, non minorabitur. 
+**[32:28]** Qui credit Deo, attendit mandatis: et qui confidit in illo, non minorabitur.
 
 ### Chapter 33
 
-**[33:1]** Timenti Dominum non occurrent mala, sed in tentatione Deus illum conservabit, et liberabit a malis. 
+**[33:1]** Timenti Dominum non occurrent mala, sed in tentatione Deus illum conservabit, et liberabit a malis.
 
 **[33:2]** Sapiens non odit mandata et iustitias, et non illidetur quasi in procella navis.
 
@@ -41482,7 +41482,7 @@
 
 **[33:32]** Si læseris eum iniuste, in fugam convertetur:
 
-**[33:33]** et si extollens discesserit: quem quæras, et in qua via quæras illum, nescis. 
+**[33:33]** et si extollens discesserit: quem quæras, et in qua via quæras illum, nescis.
 
 ### Chapter 34
 
@@ -41546,7 +41546,7 @@
 
 **[34:30]** Qui baptizatur a mortuo, et iterum tangit eum, quid proficit lavatio illius?
 
-**[34:31]** sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? orationem illius quis exaudiet? 
+**[34:31]** sic homo qui ieiunat in peccatis suis: et iterum eadem faciens, quid proficit humiliando se? orationem illius quis exaudiet?
 
 ### Chapter 35
 
@@ -41600,7 +41600,7 @@
 
 **[35:25]** donec iudicet iudicium plebis suæ, et oblectabit iustos misericordia sua.
 
-**[35:26]** Speciosa misericordia Dei, in tempore tribulationis, quasi nubes pluviæ in tempore siccitatis. 
+**[35:26]** Speciosa misericordia Dei, in tempore tribulationis, quasi nubes pluviæ in tempore siccitatis.
 
 ### Chapter 36
 
@@ -41658,7 +41658,7 @@
 
 **[36:27]** Ubi non est sepes, diripietur possessio: et ubi non est mulier, ingemiscit egens.
 
-**[36:28]** Quis credit ei, qui non habet nidum, et deflectens ubicumque obscuraverit, quasi succinctus latro exiliens de civitate in civitatem? 
+**[36:28]** Quis credit ei, qui non habet nidum, et deflectens ubicumque obscuraverit, quasi succinctus latro exiliens de civitate in civitatem?
 
 ### Chapter 37
 
@@ -41728,7 +41728,7 @@
 
 **[37:33]** in multis enim escis erit infirmitas, et aviditas appropinquabit usque ad choleram.
 
-**[37:34]** Propter crapulam multi obierunt: qui autem abstinens est, adiiciet vitam. 
+**[37:34]** Propter crapulam multi obierunt: qui autem abstinens est, adiiciet vitam.
 
 ### Chapter 38
 
@@ -41808,7 +41808,7 @@
 
 **[38:38]** Super sellam iudicis non sedebunt, et testamentum iudicii non intelligent, neque palam facient disciplinam et iudicium, et in parabolis non invenientur:
 
-**[38:39]** sed creaturam ævi confirmabunt, et deprecatio illorum in operatione artis, accomodantes animam suam, et conquirentes in lege Altissimi. 
+**[38:39]** sed creaturam ævi confirmabunt, et deprecatio illorum in operatione artis, accomodantes animam suam, et conquirentes in lege Altissimi.
 
 ### Chapter 39
 
@@ -41892,7 +41892,7 @@
 
 **[39:40]** Non est dicere: Hoc illo nequius est: omnia enim in tempore suo comprobabuntur.
 
-**[39:41]** Et nunc in omni corde et ore collaudate, et benedicite nomen Domini. 
+**[39:41]** Et nunc in omni corde et ore collaudate, et benedicite nomen Domini.
 
 ### Chapter 40
 
@@ -41958,7 +41958,7 @@
 
 **[40:31]** Vir autem disciplinatus, et eruditus custodiet se.
 
-**[40:32]** In ore imprudentis condulcabitur inopia, et in ventre eius ignis ardebit. 
+**[40:32]** In ore imprudentis condulcabitur inopia, et in ventre eius ignis ardebit.
 
 ### Chapter 41
 
@@ -42016,7 +42016,7 @@
 
 **[41:27]** Ne respicias mulierem alieni viri, et ne scruteris ancillam eius, neque steteris ad lectum eius.
 
-**[41:28]** Ab amicis de sermonibus improperii: et cum dederis, ne improperes. 
+**[41:28]** Ab amicis de sermonibus improperii: et cum dederis, ne improperes.
 
 ### Chapter 42
 
@@ -42070,7 +42070,7 @@
 
 **[42:25]** Omnia duplicia, unum contra unum, et non fecit quidquam deesse.
 
-**[42:26]** Uniuscuiusque confirmavit bona. Et quis satiabitur videns gloriam eius? 
+**[42:26]** Uniuscuiusque confirmavit bona. Et quis satiabitur videns gloriam eius?
 
 ### Chapter 43
 
@@ -42146,7 +42146,7 @@
 
 **[43:36]** Multa abscondita sunt maiora his: pauca enim vidimus operum eius.
 
-**[43:37]** Omnia autem Dominus fecit, et pie agentibus dedit sapientiam. 
+**[43:37]** Omnia autem Dominus fecit, et pie agentibus dedit sapientiam.
 
 ### Chapter 44
 
@@ -42202,7 +42202,7 @@
 
 **[44:26]** Agnovit eum in benedictionibus suis, et dedit illi hereditatem, et divisit illi partem in tribubus duodecim.
 
-**[44:27]** Et conservavit illi homines misericordiæ, invenientes gratiam in oculis omnis carnis. 
+**[44:27]** Et conservavit illi homines misericordiæ, invenientes gratiam in oculis omnis carnis.
 
 ### Chapter 45
 
@@ -42266,7 +42266,7 @@
 
 **[45:30]** Ideo statuit illi testamentum pacis, principem sanctorum et gentis suæ, ut sit illi et semini eius sacerdotii dignitas in æternum.
 
-**[45:31]** Et testamentum David regi filio Iesse de tribu Iuda, hereditas ipsi et semini eius, ut daret sapientiam in cor nostrum, iudicare gentem suam in iustitia, ne abolerentur bona ipsorum, et gloriam ipsorum in gentem eorum æternam fecit. 
+**[45:31]** Et testamentum David regi filio Iesse de tribu Iuda, hereditas ipsi et semini eius, ut daret sapientiam in cor nostrum, iudicare gentem suam in iustitia, ne abolerentur bona ipsorum, et gloriam ipsorum in gentem eorum æternam fecit.
 
 ### Chapter 46
 
@@ -42314,7 +42314,7 @@
 
 **[46:22]** et ante tempus finis vitæ suæ et sæculi, testimonium præbuit in conspectu Domini, et Christi, pecunias et usque ad calceamenta ab omni carne non accepit, et non accusavit illum homo.
 
-**[46:23]** Et post hoc dormivit, et notum fecit regi, et ostendit illi finem vitæ suæ, et exaltavit vocem suam de terra in prophetia delere impietatem gentis. 
+**[46:23]** Et post hoc dormivit, et notum fecit regi, et ostendit illi finem vitæ suæ, et exaltavit vocem suam de terra in prophetia delere impietatem gentis.
 
 ### Chapter 47
 
@@ -42378,7 +42378,7 @@
 
 **[47:30]** Valde averterunt illos a terra sua.
 
-**[47:31]** Et quæsivit omnes nequitias usque dum perveniret ad illos defensio, et ab omnibus peccatis liberavit eos. 
+**[47:31]** Et quæsivit omnes nequitias usque dum perveniret ad illos defensio, et ab omnibus peccatis liberavit eos.
 
 ### Chapter 48
 
@@ -42436,7 +42436,7 @@
 
 **[48:27]** Spiritu magno vidit ultima, et consolatus est lugentes in Sion. Usque in sempiternum
 
-**[48:28]** ostendit futura et abscondita antequam evenirent. 
+**[48:28]** ostendit futura et abscondita antequam evenirent.
 
 ### Chapter 49
 
@@ -42476,7 +42476,7 @@
 
 **[49:18]** et ossa ipsius visitata sunt, et post mortem prophetaverunt.
 
-**[49:19]** Seth, et Sem apud homines gloriam adepti sunt: et super omnem animam in origine Adam. 
+**[49:19]** Seth, et Sem apud homines gloriam adepti sunt: et super omnem animam in origine Adam.
 
 ### Chapter 50
 
@@ -42540,7 +42540,7 @@
 
 **[50:30]** Beatus, qui in istis versatur bonis: qui ponit illa in corde suo, sapiens erit semper.
 
-**[50:31]** Si enim hæc fecerit, ad omnia valebit: quia lux Dei, vestigium eius est. 
+**[50:31]** Si enim hæc fecerit, ad omnia valebit: quia lux Dei, vestigium eius est.
 
 ### Chapter 51
 
@@ -42618,7 +42618,7 @@
 
 **[51:37]** Lætetur anima vestra in misericordia eius, et non confundemini in laude ipsius.
 
-**[51:38]** Operamini opus vestrum ante tempus, et dabit vobis mercedem vestram in tempore suo.  
+**[51:38]** Operamini opus vestrum ante tempus, et dabit vobis mercedem vestram in tempore suo.
 
 ## Isaiah
 
@@ -42684,7 +42684,7 @@
 
 **[1:30]** cum fueritis velut quercus defluentibus foliis, et velut hortus absque aqua.
 
-**[1:31]** Et erit fortitudo vestra, ut favilla stuppæ, et opus vestrum quasi scintilla: et succendetur utrumque simul, et non erit qui extinguat. 
+**[1:31]** Et erit fortitudo vestra, ut favilla stuppæ, et opus vestrum quasi scintilla: et succendetur utrumque simul, et non erit qui extinguat.
 
 ### Chapter 2
 
@@ -42730,7 +42730,7 @@
 
 **[2:21]** Et ingreditur scissuras petrarum, et in cavernas saxorum a facie formidinis Domini, et a gloria maiestatis eius, cum surrexerit percutere terram.
 
-**[2:22]** Quiescite ergo ab homine, cuius spiritus in naribus eius est, quia excelsus reputatus est ipse. 
+**[2:22]** Quiescite ergo ab homine, cuius spiritus in naribus eius est, quia excelsus reputatus est ipse.
 
 ### Chapter 3
 
@@ -42784,7 +42784,7 @@
 
 **[3:25]** Pulcherrimi quoque viri tui gladio cadent, et fortes tui in prælio.
 
-**[3:26]** Et mœrebunt atque lugebunt portæ eius, et desolata in terra sedebit. 
+**[3:26]** Et mœrebunt atque lugebunt portæ eius, et desolata in terra sedebit.
 
 ### Chapter 4
 
@@ -42798,7 +42798,7 @@
 
 **[4:5]** Et creabit Dominus super omnem locum Montis Sion, et ubi invocatus est, nubem per diem, et fumum et splendorem ignis flammantis in nocte: super omnem enim gloriam protectio.
 
-**[4:6]** Et tabernaculum erit in umbraculum diei ab æstu, et in securitatem, et absconsionem a turbine, et a pluvia. 
+**[4:6]** Et tabernaculum erit in umbraculum diei ab æstu, et in securitatem, et absconsionem a turbine, et a pluvia.
 
 ### Chapter 5
 
@@ -42860,7 +42860,7 @@
 
 **[5:29]** Rugitus eius ut leonis, rugiet ut catuli leonum: et frendet et tenebit prædam: et amplexabitur, et non erit qui eruat.
 
-**[5:30]** Et sonabit super eum in die illa sicut sonitus maris: aspiciemus in terram, et ecce tenebræ tribulationis, et lux obtenebrata est in caligine eius. 
+**[5:30]** Et sonabit super eum in die illa sicut sonitus maris: aspiciemus in terram, et ecce tenebræ tribulationis, et lux obtenebrata est in caligine eius.
 
 ### Chapter 6
 
@@ -42888,7 +42888,7 @@
 
 **[6:12]** Et longe faciet Dominus homines, et multiplicabitur quæ derelicta fuerat in medio terræ.
 
-**[6:13]** Et adhuc in ea decimatio, et convertetur, et erit in ostensionem sicut terebinthus, et sicut quercus, quæ expandit ramos suos: semen sanctum erit id, quod steterit in ea. 
+**[6:13]** Et adhuc in ea decimatio, et convertetur, et erit in ostensionem sicut terebinthus, et sicut quercus, quæ expandit ramos suos: semen sanctum erit id, quod steterit in ea.
 
 ### Chapter 7
 
@@ -42940,7 +42940,7 @@
 
 **[7:24]** Cum sagittis et arcu ingredientur illuc: vepres enim et spinæ erunt in universa terra.
 
-**[7:25]** Et omnes montes, qui in sarculo sarrientur, non veniet illuc terror spinarum et veprium. et erit in pascua bovis, et in conculcationem pecoris. 
+**[7:25]** Et omnes montes, qui in sarculo sarrientur, non veniet illuc terror spinarum et veprium. et erit in pascua bovis, et in conculcationem pecoris.
 
 ### Chapter 8
 
@@ -42986,7 +42986,7 @@
 
 **[8:21]** Et transibit per eam, corruet, et esuriet: et cum esurierit, irascetur, et maledicet regi suo, et Deo suo, et suscipiet sursum.
 
-**[8:22]** Et ad terram intuebitur, et ecce tribulatio et tenebræ, dissolutio et angustia, et caligo persequens, et non poterit avolare de angustia sua. 
+**[8:22]** Et ad terram intuebitur, et ecce tribulatio et tenebræ, dissolutio et angustia, et caligo persequens, et non poterit avolare de angustia sua.
 
 ### Chapter 9
 
@@ -43030,7 +43030,7 @@
 
 **[9:20]** Et declinabit ad dexteram, et esuriet: et comedet ad sinistram, et non saturabitur: unusquisque carnem brachii sui vorabit: Manasses Ephraim, et Ephraim Manassen, simul ipsi contra Iudam.
 
-**[9:21]** In omnibus his non est aversus furor eius, sed adhuc manus eius extenta. 
+**[9:21]** In omnibus his non est aversus furor eius, sed adhuc manus eius extenta.
 
 ### Chapter 10
 
@@ -43100,7 +43100,7 @@
 
 **[10:33]** Ecce dominator Dominus exercituum confringet lagunculam in terrore, et excelsi statura succidentur, et sublimes humiliabuntur.
 
-**[10:34]** Et subvertentur condensa saltus ferro: et Libanus cum excelsis cadet. 
+**[10:34]** Et subvertentur condensa saltus ferro: et Libanus cum excelsis cadet.
 
 ### Chapter 11
 
@@ -43134,7 +43134,7 @@
 
 **[11:15]** Et desolabit Dominus linguam maris Ægypti, et levabit manum suam super flumen in fortitudine spiritus sui: et percutiet eum in septem rivis, ita ut transeant per eum calceati.
 
-**[11:16]** Et erit via residuo populo meo, qui relinquetur ab Assyriis: sicut fuit Israeli in die illa, qua ascendit de Terra Ægypti. 
+**[11:16]** Et erit via residuo populo meo, qui relinquetur ab Assyriis: sicut fuit Israeli in die illa, qua ascendit de Terra Ægypti.
 
 ### Chapter 12
 
@@ -43148,7 +43148,7 @@
 
 **[12:5]** Cantate Domino quoniam magnifice fecit: annunciate hoc in universa terra.
 
-**[12:6]** Exulta, et lauda habitatio Sion: quia magnus in medio tui sanctus Israel. 
+**[12:6]** Exulta, et lauda habitatio Sion: quia magnus in medio tui sanctus Israel.
 
 ### Chapter 13
 
@@ -43194,7 +43194,7 @@
 
 **[13:21]** Sed requiescent ibi bestiæ, et replebuntur domus eorum draconibus: et habitabunt ibi struthiones, et pilosi saltabunt ibi:
 
-**[13:22]** et respondebunt ibi ululæ in ædibus eius, et sirenes in delubris voluptatis. 
+**[13:22]** et respondebunt ibi ululæ in ædibus eius, et sirenes in delubris voluptatis.
 
 ### Chapter 14
 
@@ -43260,7 +43260,7 @@
 
 **[14:31]** Ulula porta, clama civitas: prostrata est Philisthæa omnis: ab Aquilone enim fumus veniet, et non est qui effugiet agmen eius.
 
-**[14:32]** Et quid respondebitur nunciis gentis? Quia Dominus fundavit Sion, et in ipso sperabunt pauperes populi eius. 
+**[14:32]** Et quid respondebitur nunciis gentis? Quia Dominus fundavit Sion, et in ipso sperabunt pauperes populi eius.
 
 ### Chapter 15
 
@@ -43280,7 +43280,7 @@
 
 **[15:8]** Quoniam circuivit clamor terminum Moab: usque ad Gallim ululatus eius, et usque ad Puteum Elim clamor eius.
 
-**[15:9]** Quia aquæ Dibon repletæ sunt sanguine: ponam enim super Dibon additamenta: his, qui fugerint de Moab leonem, et reliquiis terræ. 
+**[15:9]** Quia aquæ Dibon repletæ sunt sanguine: ponam enim super Dibon additamenta: his, qui fugerint de Moab leonem, et reliquiis terræ.
 
 ### Chapter 16
 
@@ -43310,7 +43310,7 @@
 
 **[16:13]** Hoc verbum, quod locutus est Dominus ad Moab ex tunc:
 
-**[16:14]** et nunc locutus est Dominus, dicens: In tribus annis quasi anni mercenarii auferetur gloria Moab super omni populo multo, et relinquetur parvus et modicus, nequaquam multus. 
+**[16:14]** et nunc locutus est Dominus, dicens: In tribus annis quasi anni mercenarii auferetur gloria Moab super omni populo multo, et relinquetur parvus et modicus, nequaquam multus.
 
 ### Chapter 17
 
@@ -43340,7 +43340,7 @@
 
 **[17:13]** Sonabunt populi sicut sonitus aquarum inundantium, et increpabit eum, et fugiet procul: et rapietur sicut pulvis montium a facie venti, et sicut turbo coram tempestate.
 
-**[17:14]** In tempore vespere, et ecce turbatio: in matutino, et non subsistet. hæc est pars eorum, qui vastaverunt nos, et sors diripientium nos. 
+**[17:14]** In tempore vespere, et ecce turbatio: in matutino, et non subsistet. hæc est pars eorum, qui vastaverunt nos, et sors diripientium nos.
 
 ### Chapter 18
 
@@ -43356,7 +43356,7 @@
 
 **[18:6]** Et relinquentur simul avibus montium, et bestiis terræ: et æstate perpetua erunt super eum volucres, et omnes bestiæ terræ super illum hiemabunt.
 
-**[18:7]** In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato: a populo terribili, post quem non fuit alius, a gente expectante, expectante et conculcata, cuius diripuerunt flumina terram eius, ad locum nominis Domini exercituum montem Sion. 
+**[18:7]** In tempore illo deferetur munus Domino exercituum a populo divulso et dilacerato: a populo terribili, post quem non fuit alius, a gente expectante, expectante et conculcata, cuius diripuerunt flumina terram eius, ad locum nominis Domini exercituum montem Sion.
 
 ### Chapter 19
 
@@ -43408,7 +43408,7 @@
 
 **[19:24]** In die illa erit Israel tertius Ægyptio et Assyrio: benedictio in medio terræ,
 
-**[19:25]** cui benedixit Dominus exercituum, dicens: Benedictus populus meus Ægypti, et opus manuum mearum Assyrio: hereditas autem mea Israel. 
+**[19:25]** cui benedixit Dominus exercituum, dicens: Benedictus populus meus Ægypti, et opus manuum mearum Assyrio: hereditas autem mea Israel.
 
 ### Chapter 20
 
@@ -43422,7 +43422,7 @@
 
 **[20:5]** Et timebunt, et confundentur ab Æthiopia spe sua, et ab Ægypto gloria sua.
 
-**[20:6]** Et dicet habitator insulæ huius in die illa: Ecce hæc erat spes nostra, ad quos confugimus in auxilium, ut liberarent nos a facie regis Assyriorum: et quomodo effugere poterimus nos? 
+**[20:6]** Et dicet habitator insulæ huius in die illa: Ecce hæc erat spes nostra, ad quos confugimus in auxilium, ut liberarent nos a facie regis Assyriorum: et quomodo effugere poterimus nos?
 
 ### Chapter 21
 
@@ -43458,7 +43458,7 @@
 
 **[21:16]** quoniam hæc dicit Dominus ad me: Adhuc in uno anno, quasi in anno mercenarii, et auferetur omnis gloria Cedar.
 
-**[21:17]** Et reliquiæ numeri sagittariorum fortium de filiis Cedar imminuentur: Dominus enim Deus Israel locutus est. 
+**[21:17]** Et reliquiæ numeri sagittariorum fortium de filiis Cedar imminuentur: Dominus enim Deus Israel locutus est.
 
 ### Chapter 22
 
@@ -43510,7 +43510,7 @@
 
 **[22:24]** Et suspendent super eum omnem gloriam domus patris eius, vasorum diversa genera, omne vas parvulum a vasis craterarum usque ad omne vas musicorum.
 
-**[22:25]** In die illa dicit Dominus exercituum: Auferetur paxillus, qui fixus fuerat in loco fideli: et frangetur, et cadet, et peribit quod pependerat in eo, quia Dominus locutus est. 
+**[22:25]** In die illa dicit Dominus exercituum: Auferetur paxillus, qui fixus fuerat in loco fideli: et frangetur, et cadet, et peribit quod pependerat in eo, quia Dominus locutus est.
 
 ### Chapter 23
 
@@ -43548,7 +43548,7 @@
 
 **[23:17]** Et erit post septuaginta annos: Visitabit Dominus Tyrum, et reducet eam ad mercedes suas: et rursum fornicabitur cum universis regnis terræ super faciem terræ.
 
-**[23:18]** Et erunt negotiationes eius, et mercedes eius sanctificatæ Domino: non condentur, neque reponentur: quia his, qui habitaverint coram Domino, erit negotiatio eius, ut manducent in saturitatem, et vestiantur usque ad vetustatem. 
+**[23:18]** Et erunt negotiationes eius, et mercedes eius sanctificatæ Domino: non condentur, neque reponentur: quia his, qui habitaverint coram Domino, erit negotiatio eius, ut manducent in saturitatem, et vestiantur usque ad vetustatem.
 
 ### Chapter 24
 
@@ -43596,7 +43596,7 @@
 
 **[24:22]** Et congregabuntur in congregatione unius fascis in lacum, et claudentur ibi in carcere: et post multos dies visitabuntur.
 
-**[24:23]** Et erubescet luna, et confundetur sol, cum regnaverit Dominus exercituum in monte Sion, et in Ierusalem, et in conspectu senum suorum fuerit glorificatus. 
+**[24:23]** Et erubescet luna, et confundetur sol, cum regnaverit Dominus exercituum in monte Sion, et in Ierusalem, et in conspectu senum suorum fuerit glorificatus.
 
 ### Chapter 25
 
@@ -43622,7 +43622,7 @@
 
 **[25:11]** Et extendet manus suas sub eo, sicut extendit natans ad natandum: et humiliabit gloriam eius cum allisione manuum eius.
 
-**[25:12]** Et munimenta sublimium murorum tuorum concident, et humiliabuntur, et detrahentur in terram usque ad pulverem. 
+**[25:12]** Et munimenta sublimium murorum tuorum concident, et humiliabuntur, et detrahentur in terram usque ad pulverem.
 
 ### Chapter 26
 
@@ -43666,7 +43666,7 @@
 
 **[26:20]** Vade populus meus, intra in cubicula tua, claude ostia tua super te, abscondere modicum ad momentum, donec pertranseat indignatio.
 
-**[26:21]** Ecce enim Dominus egredietur de loco suo, ut visitet iniquitatem habitatoris terræ contra eum: et revelabit terra sanguinem suum, et non operiet ultra interfectos suos. 
+**[26:21]** Ecce enim Dominus egredietur de loco suo, ut visitet iniquitatem habitatoris terræ contra eum: et revelabit terra sanguinem suum, et non operiet ultra interfectos suos.
 
 ### Chapter 27
 
@@ -43694,7 +43694,7 @@
 
 **[27:12]** Et erit: In die illa percutiet Dominus ab alveo fluminis usque ad torrentem Ægypti, et vos congregabimini unus et unus filii Israel.
 
-**[27:13]** Et erit: In die illa clangetur in tuba magna, et venient qui perditi fuerant de terra Assyriorum, et qui eiecti erant in Terra Ægypti, et adorabunt Dominum in monte sancto in Ierusalem. 
+**[27:13]** Et erit: In die illa clangetur in tuba magna, et venient qui perditi fuerant de terra Assyriorum, et qui eiecti erant in Terra Ægypti, et adorabunt Dominum in monte sancto in Ierusalem.
 
 ### Chapter 28
 
@@ -43754,7 +43754,7 @@
 
 **[28:28]** Panis autem comminuetur: verum non in perpetuum triturans triturabit illum, neque vexabit eum rota plaustri, neque ungulis suis comminuet eum.
 
-**[28:29]** Et hoc a Domino Deo exercituum exivit, ut mirabile faceret consilium, et magnificaret iustitiam. 
+**[28:29]** Et hoc a Domino Deo exercituum exivit, ut mirabile faceret consilium, et magnificaret iustitiam.
 
 ### Chapter 29
 
@@ -43804,7 +43804,7 @@
 
 **[29:23]** sed cum viderit filios suos, opera manuum mearum in medio sui sanctificantes nomen meum, et sanctificabunt sanctum Iacob, et Deum Israel prædicabunt,
 
-**[29:24]** et scient errantes spiritu intellectum, et mussitatores discent legem. 
+**[29:24]** et scient errantes spiritu intellectum, et mussitatores discent legem.
 
 ### Chapter 30
 
@@ -43872,7 +43872,7 @@
 
 **[30:32]** Et erit transitus virgæ fundatus, quam requiescere faciet Dominus super eum in tympanis et citharis: et in bellis præcipuis expugnabit eos.
 
-**[30:33]** Præparata est enim ab heri Topheth, a rege præparata, profunda, et dilatata. Nutrimenta eius, ignis et ligna multa: flatus Domini sicut torrens sulphuris succendens eam. 
+**[30:33]** Præparata est enim ab heri Topheth, a rege præparata, profunda, et dilatata. Nutrimenta eius, ignis et ligna multa: flatus Domini sicut torrens sulphuris succendens eam.
 
 ### Chapter 31
 
@@ -43892,7 +43892,7 @@
 
 **[31:8]** Et cadet Assur in gladio non viri, et gladius non hominis vorabit eum, et fugiet non a facie gladii: et iuvenes eius vectigales erunt:
 
-**[31:9]** et fortitudo eius a terrore transibit, et pavebunt fugientes principes eius: dixit Dominus: cuius ignis est in Sion. et caminus eius in Ierusalem. 
+**[31:9]** et fortitudo eius a terrore transibit, et pavebunt fugientes principes eius: dixit Dominus: cuius ignis est in Sion. et caminus eius in Ierusalem.
 
 ### Chapter 32
 
@@ -43934,7 +43934,7 @@
 
 **[32:19]** Grando autem in descensione saltus, et humilitate humiliabitur civitas.
 
-**[32:20]** Beati, qui seminatis super omnes aquas, immittentes pedem bovis et asini. 
+**[32:20]** Beati, qui seminatis super omnes aquas, immittentes pedem bovis et asini.
 
 ### Chapter 33
 
@@ -43984,7 +43984,7 @@
 
 **[33:23]** Laxati sunt funiculi tui, et non prævalebunt: sic erit malus tuus ut dilatare signum non queas. Tunc dividentur spolia prædarum multarum: claudi diripient rapinam.
 
-**[33:24]** Nec dicet vicinus: Elangui: populus qui habitat in ea, auferetur ab eo iniquitas. 
+**[33:24]** Nec dicet vicinus: Elangui: populus qui habitat in ea, auferetur ab eo iniquitas.
 
 ### Chapter 34
 
@@ -44020,7 +44020,7 @@
 
 **[34:16]** Requirite diligenter in libro Domini, et legite: unum ex eis non defuit, alter alterum non quæsivit: quia quod ex ore meo procedit, ille mandavit, et spiritus eius ipse congregavit ea.
 
-**[34:17]** Et ipse misit eis sortem, et manus eius divisit eam illis in mensuram: usque in æternum possidebunt eam, in generationem et generationem habitabunt in ea. 
+**[34:17]** Et ipse misit eis sortem, et manus eius divisit eam illis in mensuram: usque in æternum possidebunt eam, in generationem et generationem habitabunt in ea.
 
 ### Chapter 35
 
@@ -44042,7 +44042,7 @@
 
 **[35:9]** Non erit ibi leo, et mala bestia non ascendet per eam, nec invenietur ibi: et ambulabunt qui liberati fuerint.
 
-**[35:10]** Et redempti a Domino convertentur, et venient in Sion cum laude: et lætitia sempiterna super caput eorum: gaudium et lætitiam obtinebunt, et fugiet dolor et gemitus. 
+**[35:10]** Et redempti a Domino convertentur, et venient in Sion cum laude: et lætitia sempiterna super caput eorum: gaudium et lætitiam obtinebunt, et fugiet dolor et gemitus.
 
 ### Chapter 36
 
@@ -44088,7 +44088,7 @@
 
 **[36:21]** Et siluerunt, et non responderunt ei verbum. Mandaverat enim rex, dicens: Ne respondeatis ei.
 
-**[36:22]** Et ingressus est Eliacim filius Helciæ, qui erat super domum, et Sobna scriba, et Ioahe filius Asaph a commentariis ad Ezechiam scissis vestibus, et nunciaverunt ei verba Rabsacis. 
+**[36:22]** Et ingressus est Eliacim filius Helciæ, qui erat super domum, et Sobna scriba, et Ioahe filius Asaph a commentariis ad Ezechiam scissis vestibus, et nunciaverunt ei verba Rabsacis.
 
 ### Chapter 37
 
@@ -44166,7 +44166,7 @@
 
 **[37:37]** Et egressus est, et abiit, et reversus est Sennacherib rex Assyriorum, et habitavit in Ninive.
 
-**[37:38]** Et factum est, cum adoraret in templo Nesroch deum suum, Adramelech, et Sarasar filii eius percusserunt eum gladio: fugeruntque in Terram Ararat, et regnavit Asarhaddon filius eius pro eo. 
+**[37:38]** Et factum est, cum adoraret in templo Nesroch deum suum, Adramelech, et Sarasar filii eius percusserunt eum gladio: fugeruntque in Terram Ararat, et regnavit Asarhaddon filius eius pro eo.
 
 ### Chapter 38
 
@@ -44212,7 +44212,7 @@
 
 **[38:21]** Et iussit Isaias ut tollerent massam de ficis, et cataplasmarent super vulnus, et sanaretur.
 
-**[38:22]** Et dixit Ezechias: Quod erit signum quia ascendam in domum Domini? 
+**[38:22]** Et dixit Ezechias: Quod erit signum quia ascendam in domum Domini?
 
 ### Chapter 39
 
@@ -44230,7 +44230,7 @@
 
 **[39:7]** Et de filiis tuis, qui exibunt de te, quos genueris, tollent, et erunt eunuchi in palatio regis Babylonis.
 
-**[39:8]** Et dixit Ezechias ad Isaiam: Bonum verbum Domini quod locutus est. Et dixit: Fiat tantum pax, et veritas in diebus meis. 
+**[39:8]** Et dixit Ezechias ad Isaiam: Bonum verbum Domini quod locutus est. Et dixit: Fiat tantum pax, et veritas in diebus meis.
 
 ### Chapter 40
 
@@ -44294,7 +44294,7 @@
 
 **[40:30]** Deficient pueri, et laborabunt, et iuvenes in infirmitate cadent.
 
-**[40:31]** Qui autem sperant in Domino, mutabunt fortitudinem, assument pennas sicut aquilæ, current et non laborabunt, ambulabunt et non deficient. 
+**[40:31]** Qui autem sperant in Domino, mutabunt fortitudinem, assument pennas sicut aquilæ, current et non laborabunt, ambulabunt et non deficient.
 
 ### Chapter 41
 
@@ -44354,7 +44354,7 @@
 
 **[41:28]** Et vidi, et non erat neque ex istis quisquam qui iniret consilium, et interrogatus responderet verbum.
 
-**[41:29]** Ecce omnes iniusti, et vana opera eorum: ventus et inane simulachra eorum. 
+**[41:29]** Ecce omnes iniusti, et vana opera eorum: ventus et inane simulachra eorum.
 
 ### Chapter 42
 
@@ -44406,7 +44406,7 @@
 
 **[42:24]** Quis dedit in direptionem Iacob, et Israel vastantibus? nonne Dominus ipse, cui peccavimus? Et noluerunt in viis eius ambulare, et non audierunt legem eius.
 
-**[42:25]** Et effudit super eum indignationem furoris sui, et forte bellum, et combussit eum in circuitu, et non cognovit: et succendit eum, et non intellexit. 
+**[42:25]** Et effudit super eum indignationem furoris sui, et forte bellum, et combussit eum in circuitu, et non cognovit: et succendit eum, et non intellexit.
 
 ### Chapter 43
 
@@ -44464,7 +44464,7 @@
 
 **[43:27]** Pater tuus primus peccavit, et interpretes tui prævaricati sunt in me.
 
-**[43:28]** Et contaminavi principes sanctos, dedi ad internecionem Iacob, et Israel in blasphemiam. 
+**[43:28]** Et contaminavi principes sanctos, dedi ad internecionem Iacob, et Israel in blasphemiam.
 
 ### Chapter 44
 
@@ -44522,7 +44522,7 @@
 
 **[44:27]** Qui dico profundo: Desolare, et flumina tua arefaciam.
 
-**[44:28]** Qui dico Cyro: Pastor meus es, et omnem voluntatem meam complebis. Qui dico Ierusalem: Ædificaberis; et templo: Fundaberis. 
+**[44:28]** Qui dico Cyro: Pastor meus es, et omnem voluntatem meam complebis. Qui dico Ierusalem: Ædificaberis; et templo: Fundaberis.
 
 ### Chapter 45
 
@@ -44574,7 +44574,7 @@
 
 **[45:24]** Ergo in Domino, dicet, meæ sunt iustitiæ et imperium: ad eum venient, et confundentur omnes qui repugnant ei.
 
-**[45:25]** In Domino iustificabitur, et laudabitur omne semen Israel. 
+**[45:25]** In Domino iustificabitur, et laudabitur omne semen Israel.
 
 **[45:26]** 
 
@@ -44604,7 +44604,7 @@
 
 **[46:12]** Audite me duro corde, qui longe estis a iustitia.
 
-**[46:13]** Prope feci iustitiam meam, non elongabitur, et salus mea non morabitur. Dabo in Sion salutem, et in Israel gloriam meam. 
+**[46:13]** Prope feci iustitiam meam, non elongabitur, et salus mea non morabitur. Dabo in Sion salutem, et in Israel gloriam meam.
 
 ### Chapter 47
 
@@ -44636,7 +44636,7 @@
 
 **[47:14]** Ecce facti sunt quasi stipula, ignis combussit eos: non liberabunt animam suam de manu flammæ: non sunt prunæ, quibus calefiant, nec focus, ut sedeant ad eum.
 
-**[47:15]** Sic facta sunt tibi in quibuscumque laboraveras: negotiatores tui ab adolescentia tua, unusquisque in via sua erraverunt: non est qui salvet te. 
+**[47:15]** Sic facta sunt tibi in quibuscumque laboraveras: negotiatores tui ab adolescentia tua, unusquisque in via sua erraverunt: non est qui salvet te.
 
 ### Chapter 48
 
@@ -44682,7 +44682,7 @@
 
 **[48:21]** Non sitierunt in deserto, cum educeret eos: aquam de petra produxit eis, et scidit petram, et fluxerunt aquæ.
 
-**[48:22]** Non est pax impiis, dicit Dominus. 
+**[48:22]** Non est pax impiis, dicit Dominus.
 
 ### Chapter 49
 
@@ -44736,7 +44736,7 @@
 
 **[49:25]** Quia hæc dicit Dominus: Equidem, et captivitas a forti tolletur: et quod ablatum fuerit a robusto, salvabitur. Eos vero, qui iudicaverunt te, ego iudicabo, et filios tuos ego salvabo.
 
-**[49:26]** Et cibabo hostes tuos carnibus suis: et quasi musto, sanguine suo inebriabuntur: et sciet omnis caro, quia ego Dominus salvans te, et redemptor tuus fortis Iacob. 
+**[49:26]** Et cibabo hostes tuos carnibus suis: et quasi musto, sanguine suo inebriabuntur: et sciet omnis caro, quia ego Dominus salvans te, et redemptor tuus fortis Iacob.
 
 ### Chapter 50
 
@@ -44760,7 +44760,7 @@
 
 **[50:10]** Quis ex vobis timens Dominum, audiens vocem servi sui? qui ambulavit in tenebris, et non est lumen ei, speret in nomine Domini, et innitatur super Deum suum.
 
-**[50:11]** Ecce vos omnes accendentes ignem accincti flammis, ambulate in lumine ignis vestri, et in flammis, quas succendistis: de manu mea factum est hoc vobis, in doloribus dormietis. 
+**[50:11]** Ecce vos omnes accendentes ignem accincti flammis, ambulate in lumine ignis vestri, et in flammis, quas succendistis: de manu mea factum est hoc vobis, in doloribus dormietis.
 
 ### Chapter 51
 
@@ -44808,7 +44808,7 @@
 
 **[51:22]** Hæc dicit dominator tuus Dominus, et Deus tuus, qui pugnabit pro populo suo: Ecce tuli de manu tua calicem soporis, fundum calicis indignationis meæ, non adiicies ut bibas illum ultra.
 
-**[51:23]** Et ponam illum in manu eorum, qui te humiliaverunt, et dixerunt animæ tuæ: Incurvare, ut transeamus: et posuisti ut terram corpus tuum, et quasi viam transeuntibus. 
+**[51:23]** Et ponam illum in manu eorum, qui te humiliaverunt, et dixerunt animæ tuæ: Incurvare, ut transeamus: et posuisti ut terram corpus tuum, et quasi viam transeuntibus.
 
 ### Chapter 52
 
@@ -44840,7 +44840,7 @@
 
 **[52:14]** Sicut obstupuerunt super te multi, sic inglorius erit inter viros aspectus eius, et forma eius inter filios hominum.
 
-**[52:15]** Iste asperget gentes multas, super ipsum continebunt reges os suum: quia quibus non est narratum de eo, viderunt: et qui non audierunt, contemplati sunt. 
+**[52:15]** Iste asperget gentes multas, super ipsum continebunt reges os suum: quia quibus non est narratum de eo, viderunt: et qui non audierunt, contemplati sunt.
 
 ### Chapter 53
 
@@ -44866,7 +44866,7 @@
 
 **[53:11]** Pro eo quod laboravit anima eius, videbit et saturabitur: in scientia sua iustificabit ipse iustus servus meus multos, et iniquitates eorum ipse portabit.
 
-**[53:12]** Ideo dispertiam ei plurimos: et fortium dividet spolia, pro eo quod tradidit in mortem animam suam, et cum sceleratis reputatus est: et ipse peccata multorum tulit, et pro transgressoribus rogavit. 
+**[53:12]** Ideo dispertiam ei plurimos: et fortium dividet spolia, pro eo quod tradidit in mortem animam suam, et cum sceleratis reputatus est: et ipse peccata multorum tulit, et pro transgressoribus rogavit.
 
 ### Chapter 54
 
@@ -44902,7 +44902,7 @@
 
 **[54:16]** Ecce ego creavi fabrum sufflantem in igne prunas, et proferentem vas in opus suum, et ego creavi interfectorem ad disperdendum.
 
-**[54:17]** Omne vas, quod fictum est contra te, non dirigetur: et omnem linguam resistentem tibi in iudicio, iudicabis. Hæc est hereditas servorum Domini, et iustitia eorum apud me, dicit Dominus. 
+**[54:17]** Omne vas, quod fictum est contra te, non dirigetur: et omnem linguam resistentem tibi in iudicio, iudicabis. Hæc est hereditas servorum Domini, et iustitia eorum apud me, dicit Dominus.
 
 ### Chapter 55
 
@@ -44930,7 +44930,7 @@
 
 **[55:12]** Quia in lætitia egrediemini, et in pace deducemini: montes et colles cantabunt coram vobis laudem, et omnia ligna regionis plaudent manu.
 
-**[55:13]** Pro saliunca ascendet abies, et pro urtica crescet myrtus: et erit Dominus nominatus in signum æternum, quod non auferetur. 
+**[55:13]** Pro saliunca ascendet abies, et pro urtica crescet myrtus: et erit Dominus nominatus in signum æternum, quod non auferetur.
 
 ### Chapter 56
 
@@ -44956,7 +44956,7 @@
 
 **[56:11]** Et canes imprudentissimi nescierunt saturitatem: ipsi pastores ignoraverunt intelligentiam: omnes in viam suam declinaverunt, unusquisque ad avaritiam suam a summo usque ad novissimum.
 
-**[56:12]** Venite, sumamus vinum, et impleamur ebrietate: et erit sicut hodie, sic et cras, et multo amplius. 
+**[56:12]** Venite, sumamus vinum, et impleamur ebrietate: et erit sicut hodie, sic et cras, et multo amplius.
 
 ### Chapter 57
 
@@ -45000,7 +45000,7 @@
 
 **[57:20]** Impii autem quasi mare fervens, quod quiescere non potest, et redundant fluctus eius in conculcationem et lutum.
 
-**[57:21]** Non est pax impiis, dicit Dominus Deus. 
+**[57:21]** Non est pax impiis, dicit Dominus Deus.
 
 ### Chapter 58
 
@@ -45030,7 +45030,7 @@
 
 **[58:13]** Si averteris a sabbato pedem tuum, facere voluntatem tuam in die sancto meo, et vocaveris sabbatum delicatum, et sanctum Domini gloriosum, et glorificaveris eum dum non facis vias tuas, et non invenitur voluntas tua, ut loquaris sermonem:
 
-**[58:14]** Tunc delectaberis super Domino, et sustollam te super altitudines terræ, et cibabo te hereditate Iacob patris tui. os enim Domini locutum est. 
+**[58:14]** Tunc delectaberis super Domino, et sustollam te super altitudines terræ, et cibabo te hereditate Iacob patris tui. os enim Domini locutum est.
 
 ### Chapter 59
 
@@ -45074,7 +45074,7 @@
 
 **[59:20]** et venerit Sion redemptor, et eis, qui redeunt ab iniquitate in Iacob, dicit Dominus.
 
-**[59:21]** Hoc fœdus meum cum eis, dicit Dominus: Spiritus meus, qui est in te, et verba mea, quæ posui in ore tuo, non recedent de ore tuo, et de ore seminis tui, et de ore seminis seminis tui, dicit Dominus, amodo et usque in sempiternum. 
+**[59:21]** Hoc fœdus meum cum eis, dicit Dominus: Spiritus meus, qui est in te, et verba mea, quæ posui in ore tuo, non recedent de ore tuo, et de ore seminis tui, et de ore seminis seminis tui, dicit Dominus, amodo et usque in sempiternum.
 
 ### Chapter 60
 
@@ -45120,7 +45120,7 @@
 
 **[60:21]** Populus autem tuus omnes iusti, in perpetuum hereditabunt terram, germen plantationis meæ, opus manus meæ ad glorificandum.
 
-**[60:22]** Minimus erit in mille, et parvulus in gentem fortissimam: ego Dominus in tempore eius subito faciam istud. 
+**[60:22]** Minimus erit in mille, et parvulus in gentem fortissimam: ego Dominus in tempore eius subito faciam istud.
 
 ### Chapter 61
 
@@ -45144,7 +45144,7 @@
 
 **[61:10]** Gaudens gaudebo in Domino, et exultabit anima mea in Deo meo: quia induit me vestimentis salutis: et indumento iustitiæ circumdedit me, quasi sponsum decoratum corona, et quasi sponsam ornatam monilibus suis.
 
-**[61:11]** Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit iustitiam, et laudem coram universis Gentibus. 
+**[61:11]** Sicut enim terra profert germen suum, et sicut hortus semen suum germinat, sic Dominus Deus germinabit iustitiam, et laudem coram universis Gentibus.
 
 ### Chapter 62
 
@@ -45170,7 +45170,7 @@
 
 **[62:11]** Ecce Dominus auditum fecit in extremis terræ, dicite filiæ Sion: Ecce Salvator tuus venit: ecce merces eius cum eo, et opus eius coram illo.
 
-**[62:12]** Et vocabunt eos, Populus sanctus, redempti a Domino. Tu autem vocaberis: Quæsita civitas, et non Derelicta. 
+**[62:12]** Et vocabunt eos, Populus sanctus, redempti a Domino. Tu autem vocaberis: Quæsita civitas, et non Derelicta.
 
 ### Chapter 63
 
@@ -45210,7 +45210,7 @@
 
 **[63:18]** Quasi nihilum possederunt populum sanctum tuum: hostes nostri conculcaverunt sanctificationem tuam.
 
-**[63:19]** Facti sumus quasi in principio, cum non dominareris nostri, neque invocaretur nomen tuum super nos. 
+**[63:19]** Facti sumus quasi in principio, cum non dominareris nostri, neque invocaretur nomen tuum super nos.
 
 ### Chapter 64
 
@@ -45236,7 +45236,7 @@
 
 **[64:11]** Domus sanctificationis nostræ, et gloriæ nostræ, ubi laudaverunt te patres nostri, facta est in exustionem ignis, et omnia desiderabilia nostra versa sunt in ruinas.
 
-**[64:12]** Numquid super his continebis te Domine, tacebis, et affliges nos vehementer? 
+**[64:12]** Numquid super his continebis te Domine, tacebis, et affliges nos vehementer?
 
 ### Chapter 65
 
@@ -45288,7 +45288,7 @@
 
 **[65:24]** Eritque antequam clament, ego exaudiam: adhuc illis loquentibus, ego audiam.
 
-**[65:25]** Lupus et agnus pascentur simul, leo et bos comedent paleas: et serpenti pulvis panis eius: non nocebunt, neque occident in omni monte sancto meo, dicit Dominus. 
+**[65:25]** Lupus et agnus pascentur simul, leo et bos comedent paleas: et serpenti pulvis panis eius: non nocebunt, neque occident in omni monte sancto meo, dicit Dominus.
 
 ### Chapter 66
 
@@ -45338,7 +45338,7 @@
 
 **[66:23]** Et erit mensis ex mense, et sabbatum ex sabbato: veniet omnis caro ut adoret coram facie mea, dicit Dominus.
 
-**[66:24]** Et egredientur, et videbunt cadavera virorum, qui prævaricati sunt in me: vermis eorum non morietur, et ignis eorum non extinguetur: et erunt usque ad satietatem visionis omni carni.  
+**[66:24]** Et egredientur, et videbunt cadavera virorum, qui prævaricati sunt in me: vermis eorum non morietur, et ignis eorum non extinguetur: et erunt usque ad satietatem visionis omni carni.
 
 ## Jeremiah
 
@@ -45380,7 +45380,7 @@
 
 **[1:18]** Ego quippe dedi te hodie in civitatem munitam, et in columnam ferream, et in murum æreum, super omnem terram, regibus Iuda, principibus eius, et sacerdotibus, et populo terræ.
 
-**[1:19]** Et bellabunt adversum te, et non prævalebunt: quia ego tecum sum, ait Dominus, ut liberem te. 
+**[1:19]** Et bellabunt adversum te, et non prævalebunt: quia ego tecum sum, ait Dominus, ut liberem te.
 
 ### Chapter 2
 
@@ -45456,7 +45456,7 @@
 
 **[2:36]** Quam vilis facta es nimis, iterans vias tuas! et ab Ægypto confunderis, sicut confusa es ab Assur.
 
-**[2:37]** Nam et ab ista egredieris, et manus tuæ erunt super caput tuum: quoniam obtrivit Dominus confidentiam tuam, et nihil habebis prosperum in ea. 
+**[2:37]** Nam et ab ista egredieris, et manus tuæ erunt super caput tuum: quoniam obtrivit Dominus confidentiam tuam, et nihil habebis prosperum in ea.
 
 ### Chapter 3
 
@@ -45508,7 +45508,7 @@
 
 **[3:24]** Confusio comedit laborem patrum nostrorum ab adolescentia nostra, greges eorum, et armenta eorum, filios eorum, et filias eorum.
 
-**[3:25]** Dormiemus in confusione nostra, et operiet nos ignominia nostra: quoniam Domino Deo nostro peccavimus nos, et patres nostri ab adolescentia nostra usque ad diem hanc: et non audivimus vocem Domini Dei nostri. 
+**[3:25]** Dormiemus in confusione nostra, et operiet nos ignominia nostra: quoniam Domino Deo nostro peccavimus nos, et patres nostri ab adolescentia nostra usque ad diem hanc: et non audivimus vocem Domini Dei nostri.
 
 ### Chapter 4
 
@@ -45572,7 +45572,7 @@
 
 **[4:30]** Tu autem vastata quid facies? cum vestieris te coccino, cum ornata fueris monili aureo, et pinxeris stibio oculos tuos, frustra componeris: contempserunt te amatores tui, animam tuam quærent.
 
-**[4:31]** Vocem enim quasi parturientis audivi, angustias ut puerperæ: Vox filiæ Sion intermorientis, expandentisque manus suas: væ mihi, quia defecit anima mea propter interfectos. 
+**[4:31]** Vocem enim quasi parturientis audivi, angustias ut puerperæ: Vox filiæ Sion intermorientis, expandentisque manus suas: væ mihi, quia defecit anima mea propter interfectos.
 
 ### Chapter 5
 
@@ -45636,7 +45636,7 @@
 
 **[5:30]** Stupor et mirabilia facta sunt in terra:
 
-**[5:31]** prophetæ prophetabant mendacium, et sacerdotes applaudebant manibus suis: et populus meus dilexit talia: quid igitur fiet in novissimo eius? 
+**[5:31]** prophetæ prophetabant mendacium, et sacerdotes applaudebant manibus suis: et populus meus dilexit talia: quid igitur fiet in novissimo eius?
 
 ### Chapter 6
 
@@ -45698,7 +45698,7 @@
 
 **[6:29]** Defecit sufflatorium, in igne consumptum est plumbum, frustra conflavit conflator: malitiæ enim eorum non sunt consumptæ.
 
-**[6:30]** Argentum reprobum vocate eos, quia Dominus proiecit illos. 
+**[6:30]** Argentum reprobum vocate eos, quia Dominus proiecit illos.
 
 ### Chapter 7
 
@@ -45768,7 +45768,7 @@
 
 **[7:33]** Et erit morticinum populi huius in cibos volucribus cæli, et bestiis terræ, et non erit qui abigat.
 
-**[7:34]** Et quiescere faciam de urbibus Iuda, et de plateis Ierusalem vocem gaudii, et vocem lætitiæ, vocem sponsi, et vocem sponsæ: in desolationem enim erit terra. 
+**[7:34]** Et quiescere faciam de urbibus Iuda, et de plateis Ierusalem vocem gaudii, et vocem lætitiæ, vocem sponsi, et vocem sponsæ: in desolationem enim erit terra.
 
 ### Chapter 8
 
@@ -45814,7 +45814,7 @@
 
 **[8:21]** Super contritione filiæ populi mei contritus sum, et contristatus, stupor obtinuit me.
 
-**[8:22]** Numquid resina non est in Galaad? aut medicus non est ibi? quare igitur non est obducta cicatrix filiæ populi mei? 
+**[8:22]** Numquid resina non est in Galaad? aut medicus non est ibi? quare igitur non est obducta cicatrix filiæ populi mei?
 
 ### Chapter 9
 
@@ -45868,7 +45868,7 @@
 
 **[9:25]** Ecce dies veniunt, dicit Dominus: et visitabo super omnem, qui circumcisum habet præputium,
 
-**[9:26]** super Ægyptum, et super Iuda, et super Edom, et super filios Ammon, et super Moab, et super omnes qui attonsi sunt in comam, habitantes in deserto: quia omnes gentes habent præputium, omnis autem domus Israel incircumcisi sunt corde. 
+**[9:26]** super Ægyptum, et super Iuda, et super Edom, et super filios Ammon, et super Moab, et super omnes qui attonsi sunt in comam, habitantes in deserto: quia omnes gentes habent præputium, omnis autem domus Israel incircumcisi sunt corde.
 
 ### Chapter 10
 
@@ -45920,7 +45920,7 @@
 
 **[10:24]** Corripe me Domine, verumtamen in iudicio: et non in furore tuo, ne forte ad nihilum redigas me.
 
-**[10:25]** Effunde indignationem tuam super Gentes, quæ non cognoverunt te, et super provincias, quæ nomen tuum non invocaverunt: quia comederunt Iacob, et devoraverunt eum, et consumpserunt illum, et decus eius dissipaverunt. 
+**[10:25]** Effunde indignationem tuam super Gentes, quæ non cognoverunt te, et super provincias, quæ nomen tuum non invocaverunt: quia comederunt Iacob, et devoraverunt eum, et consumpserunt illum, et decus eius dissipaverunt.
 
 ### Chapter 11
 
@@ -45968,7 +45968,7 @@
 
 **[11:22]** Propterea hæc dicit Dominus exercituum: Ecce ego visitabo super eos: iuvenes morientur in gladio, filii eorum, et filiæ eorum morientur in fame.
 
-**[11:23]** Et reliquiæ non erunt ex eis: inducam enim malum super viros Anathoth, annum visitationis eorum. 
+**[11:23]** Et reliquiæ non erunt ex eis: inducam enim malum super viros Anathoth, annum visitationis eorum.
 
 ### Chapter 12
 
@@ -46004,7 +46004,7 @@
 
 **[12:16]** Et erit: si eruditi didicerint vias populi mei, ut iurent in nomine meo: Vivit Dominus, sicut docuerunt populum meum iurare in Baal: ædificabuntur in medio populi mei.
 
-**[12:17]** Quod si non audierint, evellam gentem illam evulsione et perditione, ait Dominus. 
+**[12:17]** Quod si non audierint, evellam gentem illam evulsione et perditione, ait Dominus.
 
 ### Chapter 13
 
@@ -46060,7 +46060,7 @@
 
 **[13:26]** unde et ego nudavi femora tua contra faciem tuam, et apparuit ignominia tua,
 
-**[13:27]** adulteria tua, et hinnitus tuus scelus fornicationis tuæ: super colles in agro vidi abominationes tuas. Væ tibi Ierusalem, non mundaberis post me: usquequo adhuc? 
+**[13:27]** adulteria tua, et hinnitus tuus scelus fornicationis tuæ: super colles in agro vidi abominationes tuas. Væ tibi Ierusalem, non mundaberis post me: usquequo adhuc?
 
 ### Chapter 14
 
@@ -46106,7 +46106,7 @@
 
 **[14:21]** Ne des nos in opprobrium propter nomen tuum, neque facias nobis contumeliam solii gloriæ tuæ: recordare, ne irritum facias fœdus tuum nobiscum.
 
-**[14:22]** Numquid sunt in sculptilibus Gentium qui pluant? aut cæli possunt dare imbres? nonne tu es Dominus Deus noster, quem expectavimus? tu enim fecisti omnia hæc. 
+**[14:22]** Numquid sunt in sculptilibus Gentium qui pluant? aut cæli possunt dare imbres? nonne tu es Dominus Deus noster, quem expectavimus? tu enim fecisti omnia hæc.
 
 ### Chapter 15
 
@@ -46150,7 +46150,7 @@
 
 **[15:20]** Et dabo te populo huic in murum æreum, fortem: et bellabunt adversum te, et non prævalebunt: quia ego tecum sum ut salvem te, et eruam te, dicit Dominus.
 
-**[15:21]** Et liberabo te de manu pessimorum, et redimam te de manu fortium. 
+**[15:21]** Et liberabo te de manu pessimorum, et redimam te de manu fortium.
 
 ### Chapter 16
 
@@ -46194,7 +46194,7 @@
 
 **[16:20]** Numquid faciet sibi homo deos, et ipsi non sunt dii?
 
-**[16:21]** Idcirco ecce ego ostendam eis per vicem hanc, ostendam eis manum meam, et virtutem meam: et scient quia nomen mihi Dominus. 
+**[16:21]** Idcirco ecce ego ostendam eis per vicem hanc, ostendam eis manum meam, et virtutem meam: et scient quia nomen mihi Dominus.
 
 ### Chapter 17
 
@@ -46250,7 +46250,7 @@
 
 **[17:26]** Et venient de civitatibus Iuda, et de circuitu Ierusalem, et de terra Beniamin, et de campestribus, et de montuosis, et ab Austro, portantes holocaustum, et victimam, et sacrificium, et thus, et inferent oblationem in domum Domini.
 
-**[17:27]** Si autem non audieritis me ut sanctificetis diem sabbati, et ne portetis onus, et ne inferatis per portas Ierusalem in die sabbati: succendam ignem in portis eius, et devorabit domos Ierusalem, et non extinguetur. 
+**[17:27]** Si autem non audieritis me ut sanctificetis diem sabbati, et ne portetis onus, et ne inferatis per portas Ierusalem in die sabbati: succendam ignem in portis eius, et devorabit domos Ierusalem, et non extinguetur.
 
 ### Chapter 18
 
@@ -46298,7 +46298,7 @@
 
 **[18:22]** Audiatur clamor de domibus eorum: adduces enim super eos latronem repente: quia foderunt foveam ut caperent me, et laqueos absconderunt pedibus meis.
 
-**[18:23]** Tu autem Domine scis omne consilium eorum adversum me in mortem: ne propitieris iniquitati eorum, et peccatum eorum a facie tua non deleatur: fiant corruentes in conspectu tuo, in tempore furoris tui abutere eis. 
+**[18:23]** Tu autem Domine scis omne consilium eorum adversum me in mortem: ne propitieris iniquitati eorum, et peccatum eorum a facie tua non deleatur: fiant corruentes in conspectu tuo, in tempore furoris tui abutere eis.
 
 ### Chapter 19
 
@@ -46330,7 +46330,7 @@
 
 **[19:14]** Venit autem Ieremias de Topheth, quo miserat eum Dominus ad prophetandum, et stetit in atrio domus Domini, et dixit ad omnem populum:
 
-**[19:15]** Hæc dicit Dominus exercituum Deus Israel: Ecce ego inducam super civitatem hanc, et super omnes urbes eius universa mala, quæ locutus sum adversum eam: quoniam induraverunt cervicem suam ut non audirent sermones meos. 
+**[19:15]** Hæc dicit Dominus exercituum Deus Israel: Ecce ego inducam super civitatem hanc, et super omnes urbes eius universa mala, quæ locutus sum adversum eam: quoniam induraverunt cervicem suam ut non audirent sermones meos.
 
 ### Chapter 20
 
@@ -46368,7 +46368,7 @@
 
 **[20:17]** qui non me interfecit a vulva, ut fieret mihi mater mea sepulchrum, et vulva eius conceptus æternus.
 
-**[20:18]** Quare de vulva egressus sum, ut viderem laborem et dolorem, et consumerentur in confusione dies mei? 
+**[20:18]** Quare de vulva egressus sum, ut viderem laborem et dolorem, et consumerentur in confusione dies mei?
 
 ### Chapter 21
 
@@ -46398,7 +46398,7 @@
 
 **[21:13]** Ecce ego ad te habitatricem vallis solidæ atque campestris, ait Dominus: qui dicitis: Quis percutiet nos? et quis ingredietur domos nostras?
 
-**[21:14]** Et visitabo super vos iuxta fructum studiorum vestrorum, dicit Dominus: et succendam ignem in saltu eius: et devorabit omnia in circuitu eius. 
+**[21:14]** Et visitabo super vos iuxta fructum studiorum vestrorum, dicit Dominus: et succendam ignem in saltu eius: et devorabit omnia in circuitu eius.
 
 ### Chapter 22
 
@@ -46460,7 +46460,7 @@
 
 **[22:29]** Terra, terra, terra, audi sermonem Domini.
 
-**[22:30]** Hæc dicit Dominus: Scribe virum istum sterilem, virum, qui in diebus suis non prosperabitur: nec enim erit de semine eius vir, qui sedeat super solium David, et potestatem habeat ultra in Iuda. 
+**[22:30]** Hæc dicit Dominus: Scribe virum istum sterilem, virum, qui in diebus suis non prosperabitur: nec enim erit de semine eius vir, qui sedeat super solium David, et potestatem habeat ultra in Iuda.
 
 ### Chapter 23
 
@@ -46542,7 +46542,7 @@
 
 **[23:39]** Propterea ecce ego tollam vos portans, et derelinquam vos, et civitatem, quam dedi vobis, et patribus vestris a facie mea.
 
-**[23:40]** Et dabo vos in opprobrium sempiternum, et in ignominiam æternam, quæ numquam oblivione delebitur. 
+**[23:40]** Et dabo vos in opprobrium sempiternum, et in ignominiam æternam, quæ numquam oblivione delebitur.
 
 ### Chapter 24
 
@@ -46564,7 +46564,7 @@
 
 **[24:9]** Et dabo eos in vexationem, afflictionemque omnibus regnis terræ: in opprobrium, et in parabolam, et in proverbium, et in maledictionem in universis locis, ad quæ eieci eos.
 
-**[24:10]** Et mittam in eis gladium, et famem, et pestem: donec consumantur de terra, quam dedi eis, et patribus eorum. 
+**[24:10]** Et mittam in eis gladium, et famem, et pestem: donec consumantur de terra, quam dedi eis, et patribus eorum.
 
 ### Chapter 25
 
@@ -46642,7 +46642,7 @@
 
 **[25:37]** Et conticuerunt arva pacis a facie iræ furoris Domini.
 
-**[25:38]** Dereliquit quasi leo umbraculum suum, quia facta est terra eorum in desolationem a facie iræ columbæ, et a facie iræ furoris Domini. 
+**[25:38]** Dereliquit quasi leo umbraculum suum, quia facta est terra eorum in desolationem a facie iræ columbæ, et a facie iræ furoris Domini.
 
 ### Chapter 26
 
@@ -46692,7 +46692,7 @@
 
 **[26:23]** Et eduxerunt Uriam de Ægypto: et adduxerunt eum ad regem Ioakim, et percussit eum gladio: et proiecit cadaver eius in sepulchris vulgi ignobilis.
 
-**[26:24]** Igitur manus Ahicam filii Saphan fuit cum Ieremia, ut non traderetur in manus populi, et interficerent eum. 
+**[26:24]** Igitur manus Ahicam filii Saphan fuit cum Ieremia, ut non traderetur in manus populi, et interficerent eum.
 
 ### Chapter 27
 
@@ -46738,7 +46738,7 @@
 
 **[27:21]** Quia hæc dicit Dominus exercituum Deus Israel ad vasa, quæ derelicta sunt in domo Domini, et in domo regis Iuda et Ierusalem:
 
-**[27:22]** In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto. 
+**[27:22]** In Babylonem transferentur, et ibi erunt usque ad diem visitationis suæ, dicit Dominus, et afferri faciam ea, et restitui in loco isto.
 
 ### Chapter 28
 
@@ -46774,7 +46774,7 @@
 
 **[28:16]** Idcirco hæc dicit Dominus: Ecce ego mittam te a facie terræ: hoc anno morieris: adversum enim Dominum locutus es.
 
-**[28:17]** Et mortuus est Hananias propheta in anno illo, mense septimo. 
+**[28:17]** Et mortuus est Hananias propheta in anno illo, mense septimo.
 
 ### Chapter 29
 
@@ -46840,7 +46840,7 @@
 
 **[29:31]** Mitte ad omnem transmigrationem, dicens: Hæc dicit Dominus ad Semeiam Nehelamiten: Pro eo quod prophetavit vobis Semeias, et ego non misi eum: et fecit vos confidere in mendacio:
 
-**[29:32]** idcirco hæc dicit Dominus: Ecce ego visitabo super Semeiam Nehelamiten, et super semen eius: non erit ei vir sedens in medio populi huius, et non videbit bonum, quod ego faciam populo meo, ait Dominus: quia prævaricationem locutus est adversus Dominum. 
+**[29:32]** idcirco hæc dicit Dominus: Ecce ego visitabo super Semeiam Nehelamiten, et super semen eius: non erit ei vir sedens in medio populi huius, et non videbit bonum, quod ego faciam populo meo, ait Dominus: quia prævaricationem locutus est adversus Dominum.
 
 ### Chapter 30
 
@@ -46890,7 +46890,7 @@
 
 **[30:23]** Ecce turbo Domini, furor egrediens, procella ruens, in capite impiorum conquiescet.
 
-**[30:24]** Non avertet iram indignationis Dominus, donec faciat et compleat cogitationem cordis sui: in novissimo dierum intelligetis ea. 
+**[30:24]** Non avertet iram indignationis Dominus, donec faciat et compleat cogitationem cordis sui: in novissimo dierum intelligetis ea.
 
 ### Chapter 31
 
@@ -46972,7 +46972,7 @@
 
 **[31:39]** Et exibit ultra norma mensuræ in conspectu eius super collem Gareb: et circuibit Goatha,
 
-**[31:40]** et omnem vallem cadaverum, et cineris, et universam regionem mortis, usque ad torrentem Cedron, et usque ad angulum portæ equorum Orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum. 
+**[31:40]** et omnem vallem cadaverum, et cineris, et universam regionem mortis, usque ad torrentem Cedron, et usque ad angulum portæ equorum Orientalis, Sanctum Domini: non evelletur, et non destruetur ultra in perpetuum.
 
 ### Chapter 32
 
@@ -47062,7 +47062,7 @@
 
 **[32:43]** Et possidebuntur agri in terra ista: de qua vos dicitis quod deserta sit, eo quod non remanserit homo et iumentum, et data sit in manus Chaldæorum.
 
-**[32:44]** Agri ementur pecunia, et scribentur in libro, et imprimetur signum, et testis adhibebitur: in terra Beniamin, et in circuitu Ierusalem, in civitatibus Iuda, et in civitatibus montanis, et in civitatibus campestribus, et in civitatibus, quæ ad Austrum sunt: quia convertam captivitatem eorum, ait Dominus. 
+**[32:44]** Agri ementur pecunia, et scribentur in libro, et imprimetur signum, et testis adhibebitur: in terra Beniamin, et in circuitu Ierusalem, in civitatibus Iuda, et in civitatibus montanis, et in civitatibus campestribus, et in civitatibus, quæ ad Austrum sunt: quia convertam captivitatem eorum, ait Dominus.
 
 ### Chapter 33
 
@@ -47116,7 +47116,7 @@
 
 **[33:25]** Hæc dicit Dominus: Si pactum meum inter diem et noctem, et leges cælo et terræ non posui:
 
-**[33:26]** equidem et semen Iacob et David servi mei proiiciam, ut non assumam de semine eius principes seminis Abraham, Isaac, et Iacob: reducam enim conversionem eorum, et miserebor eis. 
+**[33:26]** equidem et semen Iacob et David servi mei proiiciam, ut non assumam de semine eius principes seminis Abraham, Isaac, et Iacob: reducam enim conversionem eorum, et miserebor eis.
 
 ### Chapter 34
 
@@ -47162,7 +47162,7 @@
 
 **[34:21]** Et Sedeciam regem Iuda, et principes eius dabo in manus inimicorum suorum, et in manus quærentium animas eorum, et in manus exercituum regis Babylonis, qui recesserunt a vobis.
 
-**[34:22]** Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Iuda dabo in solitudinem, eo quod non sit habitator. 
+**[34:22]** Ecce ego præcipio, dicit Dominus, et reducam eos in civitatem hanc, et præliabuntur adversus eam, et capient eam, et incendent igni: et civitates Iuda dabo in solitudinem, eo quod non sit habitator.
 
 ### Chapter 35
 
@@ -47202,7 +47202,7 @@
 
 **[35:18]** Domui autem Rechabitarum dixit Ieremias: Hæc dicit Dominus exercituum Deus Israel: Pro eo quod obedistis præcepto Ionadab patris vestri, et custodistis omnia mandata eius, et fecistis universa, quæ præcepit vobis:
 
-**[35:19]** Propterea hæc dicit Dominus exercituum Deus Israel: Non deficiet vir de stirpe Ionadab filii Rechab, stans in conspectu meo cunctis diebus. 
+**[35:19]** Propterea hæc dicit Dominus exercituum Deus Israel: Non deficiet vir de stirpe Ionadab filii Rechab, stans in conspectu meo cunctis diebus.
 
 ### Chapter 36
 
@@ -47268,7 +47268,7 @@
 
 **[36:31]** Et visitabo contra eum, et contra semen eius, et contra servos eius iniquitates suas, et adducam super eos et super habitatores Ierusalem, et super viros Iuda omne malum, quod locutus sum ad eos, et non audierunt.
 
-**[36:32]** Ieremias autem tulit volumen aliud, et dedit illud Baruch filio Neriæ scribæ: qui scripsit in eo ex ore Ieremiæ omnes sermones libri, quem combusserat Ioakim rex Iuda igni: et insuper additi sunt sermones multo plures, quam antea fuerant. 
+**[36:32]** Ieremias autem tulit volumen aliud, et dedit illud Baruch filio Neriæ scribæ: qui scripsit in eo ex ore Ieremiæ omnes sermones libri, quem combusserat Ioakim rex Iuda igni: et insuper additi sunt sermones multo plures, quam antea fuerant.
 
 ### Chapter 37
 
@@ -47310,7 +47310,7 @@
 
 **[37:19]** Nunc ergo audi obsecro domine mi rex: Valeat deprecatio mea in conspectu tuo: et ne me remittas in domum Ionathan scribæ, ne moriar ibi.
 
-**[37:20]** Præcepit ergo rex Sedecias ut traderetur Ieremias in vestibulo carceris: et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate: et mansit Ieremias in vestibulo carceris. 
+**[37:20]** Præcepit ergo rex Sedecias ut traderetur Ieremias in vestibulo carceris: et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate: et mansit Ieremias in vestibulo carceris.
 
 ### Chapter 38
 
@@ -47368,7 +47368,7 @@
 
 **[38:27]** Venerunt ergo omnes principes ad Ieremiam, et interrogaverunt eum: et locutus est eis iuxta omnia verba, quæ præceperat ei rex, et cessaverunt ab eo: nihil enim fuerat auditum.
 
-**[38:28]** Mansit vero Ieremias in vestibulo carceris usque ad diem, quo capta est Ierusalem: et factum est ut caperetur Ierusalem. 
+**[38:28]** Mansit vero Ieremias in vestibulo carceris usque ad diem, quo capta est Ierusalem: et factum est ut caperetur Ierusalem.
 
 ### Chapter 39
 
@@ -47406,7 +47406,7 @@
 
 **[39:17]** Et liberabo te in die illa, ait Dominus: et non traderis in manus virorum, quos tu formidas:
 
-**[39:18]** Sed eruens liberabo te, et gladio non cades: sed erit tibi anima tua in salutem, quia in me habuisti fiduciam, ait Dominus. 
+**[39:18]** Sed eruens liberabo te, et gladio non cades: sed erit tibi anima tua in salutem, quia in me habuisti fiduciam, ait Dominus.
 
 ### Chapter 40
 
@@ -47440,7 +47440,7 @@
 
 **[40:15]** Iohanan autem filius Caree dixit ad Godoliam seorsum in Masphath, loquens: Ibo, et percutiam Ismahel filium Nathaniæ nullo sciente, ne interficiat animam tuam, et dissipentur omnes Iudæi, qui congregati sunt ad te, et peribunt reliquiæ Iuda.
 
-**[40:16]** Et ait Godolias filius Ahicam ad Iohanan filium Caree: Noli facere verbum hoc: falsum enim tu loqueris de Ismahel. 
+**[40:16]** Et ait Godolias filius Ahicam ad Iohanan filium Caree: Noli facere verbum hoc: falsum enim tu loqueris de Ismahel.
 
 ### Chapter 41
 
@@ -47478,7 +47478,7 @@
 
 **[41:17]** Et abierunt, et sederunt peregrinantes in Chamaam, quæ est iuxta Bethlehem, ut pergerent, et introirent Ægyptum
 
-**[41:18]** a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in Terra Iuda. 
+**[41:18]** a facie Chaldæorum: timebant enim eos, quia percusserat Ismahel filius Nathaniæ Godoliam filium Ahicam, quem præposuerat rex Babylonis in Terra Iuda.
 
 ### Chapter 42
 
@@ -47524,7 +47524,7 @@
 
 **[42:21]** Et annunciavi vobis hodie, et non audistis vocem Domini Dei vestri super universis, pro quibus misit me ad vos.
 
-**[42:22]** Nunc ergo scientes scietis quia gladio, et fame, et peste moriemini in loco, ad quem voluistis intrare ut habitaretis ibi. 
+**[42:22]** Nunc ergo scientes scietis quia gladio, et fame, et peste moriemini in loco, ad quem voluistis intrare ut habitaretis ibi.
 
 ### Chapter 43
 
@@ -47552,7 +47552,7 @@
 
 **[43:12]** Et succendet ignem in delubris deorum Ægypti, et comburet ea, et captivos ducet illos: et amicietur Terra Ægypti, sicut amicitur pastor pallio suo: et egredietur inde in pace.
 
-**[43:13]** Et conteret statuas domus Solis, quæ sunt in Terra Ægypti: et delubra deorum Ægypti comburet igni. 
+**[43:13]** Et conteret statuas domus Solis, quæ sunt in Terra Ægypti: et delubra deorum Ægypti comburet igni.
 
 ### Chapter 44
 
@@ -47614,7 +47614,7 @@
 
 **[44:29]** Et hoc vobis signum, ait Dominus, quod visitem ego super vos in loco isto: ut sciatis quia vere complebuntur sermones mei contra vos in malum.
 
-**[44:30]** Hæc dicit Dominus: Ecce ego tradam Pharaonem Ephree regem Ægypti in manu inimicorum eius, et in manu quærentium animam illius: sicut tradidi Sedeciam regem Iuda in manu Nabuchodonosor regis Babylonis inimici sui, et quærentis animam eius. 
+**[44:30]** Hæc dicit Dominus: Ecce ego tradam Pharaonem Ephree regem Ægypti in manu inimicorum eius, et in manu quærentium animam illius: sicut tradidi Sedeciam regem Iuda in manu Nabuchodonosor regis Babylonis inimici sui, et quærentis animam eius.
 
 ### Chapter 45
 
@@ -47626,7 +47626,7 @@
 
 **[45:4]** Hæc dicit Dominus: Sic dices ad eum: Ecce quos ædificavi, ego destruo: et quos plantavi, ego evello, et universam terram hanc.
 
-**[45:5]** Et tu quæris tibi grandia? noli quærere: quia ecce ego adducam malum super omnem carnem, ait Dominus: et dabo tibi animam tuam in salutem in omnibus locis, ad quæcumque perrexeris. 
+**[45:5]** Et tu quæris tibi grandia? noli quærere: quia ecce ego adducam malum super omnem carnem, ait Dominus: et dabo tibi animam tuam in salutem in omnibus locis, ad quæcumque perrexeris.
 
 ### Chapter 46
 
@@ -47684,7 +47684,7 @@
 
 **[46:27]** Et tu ne timeas serve meus Iacob, et ne paveas Israel: quia ecce ego salvum te faciam de longinquo, et semen tuum de terra captivitatis tuæ: et revertetur Iacob, et requiescet, et prosperabitur: et non erit qui exterreat eum.
 
-**[46:28]** Et tu noli timere serve meus Iacob, ait Dominus: quia tecum ego sum, quia ego consumam cunctas gentes, ad quas eieci te: te vero non consumam, sed castigabo te in iudicio, nec quasi innocenti parcam tibi. 
+**[46:28]** Et tu noli timere serve meus Iacob, ait Dominus: quia tecum ego sum, quia ego consumam cunctas gentes, ad quas eieci te: te vero non consumam, sed castigabo te in iudicio, nec quasi innocenti parcam tibi.
 
 ### Chapter 47
 
@@ -47700,7 +47700,7 @@
 
 **[47:6]** O mucro Domini usquequo non quiesces? Ingredere in vaginam tuam, refrigerare, et sile.
 
-**[47:7]** Quomodo quiescet cum Dominus præceperit ei adversus Ascalonem, et adversus maritimas eius regiones, ibique condixerit illi? 
+**[47:7]** Quomodo quiescet cum Dominus præceperit ei adversus Ascalonem, et adversus maritimas eius regiones, ibique condixerit illi?
 
 ### Chapter 48
 
@@ -47796,7 +47796,7 @@
 
 **[48:46]** Væ tibi Moab, periisti popule Chamos: quia comprehensi sunt filii tui, et filiæ tuæ in captivitatem.
 
-**[48:47]** Et convertam captivitatem Moab in novissimis diebus, ait Dominus. Hucusque iudicia Moab. 
+**[48:47]** Et convertam captivitatem Moab in novissimis diebus, ait Dominus. Hucusque iudicia Moab.
 
 ### Chapter 49
 
@@ -47876,7 +47876,7 @@
 
 **[49:38]** Et ponam solium meum in Ælam, et perdam inde reges et principes, ait Dominus.
 
-**[49:39]** In novissimis autem diebus reverti faciam captivos Ælam, dicit Dominus. 
+**[49:39]** In novissimis autem diebus reverti faciam captivos Ælam, dicit Dominus.
 
 ### Chapter 50
 
@@ -47970,7 +47970,7 @@
 
 **[50:45]** Propterea audite consilium Domini, quod mente concepit adversum Babylonem: et cogitationes eius, quas cogitavit super terram Chaldæorum: Nisi detraxerint eos parvuli gregum, nisi dissipatum fuerit cum ipsis habitaculum eorum.
 
-**[50:46]** A voce captivitatis Babylonis commota est terra, et clamor inter Gentes auditus est. 
+**[50:46]** A voce captivitatis Babylonis commota est terra, et clamor inter Gentes auditus est.
 
 ### Chapter 51
 
@@ -48100,7 +48100,7 @@
 
 **[51:63]** Cumque compleveris legere librum istum, ligabis ad eum lapidem, et proiicies illum in medium Euphraten:
 
-**[51:64]** et dices: Sic submergetur Babylon, et non consurget a facie afflictionis, quam ego adduco super eam, et dissolvetur. Hucusque verba Ieremiæ. 
+**[51:64]** et dices: Sic submergetur Babylon, et non consurget a facie afflictionis, quam ego adduco super eam, et dissolvetur. Hucusque verba Ieremiæ.
 
 ### Chapter 52
 
@@ -48170,7 +48170,7 @@
 
 **[52:33]** Et mutavit vestimenta carceris eius, et comedebat panem coram eo semper cunctis diebus vitæ suæ:
 
-**[52:34]** et cibaria eius, cibaria perpetua dabantur ei a rege Babylonis statuta per singulos dies, usque ad diem mortis suæ cunctis diebus vitæ eius.  
+**[52:34]** et cibaria eius, cibaria perpetua dabantur ei a rege Babylonis statuta per singulos dies, usque ad diem mortis suæ cunctis diebus vitæ eius.
 
 ## Lamentations
 
@@ -48218,7 +48218,7 @@
 
 **[1:21]** SIN. Audierunt quia ingemisco ego, et non est qui consoletur me: omnes inimici mei audierunt malum meum lætati sunt, quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.
 
-**[1:22]** THAU. Ingrediatur omne malum eorum coram te: et vindemia eos sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens. 
+**[1:22]** THAU. Ingrediatur omne malum eorum coram te: et vindemia eos sicut vindemiasti me propter omnes iniquitates meas: multi enim gemitus mei, et cor meum mœrens.
 
 ### Chapter 2
 
@@ -48264,7 +48264,7 @@
 
 **[2:21]** SIN. Iacuerunt in terra foris puer, et senex: virgines meæ, et iuvenes mei ceciderunt in gladio: interfecisti in die furoris tui: percussisti, nec misertus es.
 
-**[2:22]** THAU. Vocasti quasi ad diem sollemnem, qui terrerent me de circuitu, et non fuit in die furoris Domini qui effugeret, et relinqueretur: quos educavi, et enutrivi, inimicus meus consumpsit eos. 
+**[2:22]** THAU. Vocasti quasi ad diem sollemnem, qui terrerent me de circuitu, et non fuit in die furoris Domini qui effugeret, et relinqueretur: quos educavi, et enutrivi, inimicus meus consumpsit eos.
 
 ### Chapter 3
 
@@ -48398,7 +48398,7 @@
 
 **[3:65]** THAU. Dabis eis scutum cordis laborem tuum.
 
-**[3:66]** THAU. Persequeris in furore, et conteres eos sub cælis Domine. 
+**[3:66]** THAU. Persequeris in furore, et conteres eos sub cælis Domine.
 
 ### Chapter 4
 
@@ -48444,7 +48444,7 @@
 
 **[4:21]** SIN. Gaude, et lætare filia Edom, quæ habitas in Terra Hus: ad te quoque perveniet calix, inebriaberis, atque nudaberis.
 
-**[4:22]** THAU. Completa est iniquitas tua filia Sion, non addet ultra ut transmigret te: visitavit iniquitatem tuam filia Edom, discooperuit peccata tua. 
+**[4:22]** THAU. Completa est iniquitas tua filia Sion, non addet ultra ut transmigret te: visitavit iniquitatem tuam filia Edom, discooperuit peccata tua.
 
 ### Chapter 5
 
@@ -48490,7 +48490,7 @@
 
 **[5:21]** Converte nos Domine ad te, et convertemur: innova dies nostros, sicut a principio.
 
-**[5:22]** Sed proiiciens repulisti nos, iratus es contra nos vehementer.  
+**[5:22]** Sed proiiciens repulisti nos, iratus es contra nos vehementer.
 
 ## Baruch
 
@@ -48538,7 +48538,7 @@
 
 **[1:21]** Et non audivimus vocem Domini Dei nostri secundum omnia verba prophetarum, quos misit ad nos:
 
-**[1:22]** et abivimus unusquisque in sensum cordis nostri maligni, operari diis alienis, facientes mala ante oculos Domini Dei nostri. 
+**[1:22]** et abivimus unusquisque in sensum cordis nostri maligni, operari diis alienis, facientes mala ante oculos Domini Dei nostri.
 
 ### Chapter 2
 
@@ -48610,7 +48610,7 @@
 
 **[2:34]** Et revocabo illos in terram, quam iuravi patribus eorum Abraham, Isaac, et Iacob, et dominabuntur eius: et multiplicabo eos, et non minorabuntur.
 
-**[2:35]** Et statuam illis testamentum alterum sempiternum, ut sim illis in Deum, et ipsi erunt mihi in populum: et non movebo amplius populum meum, filios Israel a terra, quam dedi illis. 
+**[2:35]** Et statuam illis testamentum alterum sempiternum, ut sim illis in Deum, et ipsi erunt mihi in populum: et non movebo amplius populum meum, filios Israel a terra, quam dedi illis.
 
 ### Chapter 3
 
@@ -48688,7 +48688,7 @@
 
 **[3:37]** Hic adinvenit omnem viam disciplinæ, et tradidit illam Iacob puero suo, et Israel dilecto suo.
 
-**[3:38]** Post hæc in terris visus est, et cum hominibus conversatus est. 
+**[3:38]** Post hæc in terris visus est, et cum hominibus conversatus est.
 
 ### Chapter 4
 
@@ -48764,7 +48764,7 @@
 
 **[4:36]** Circumspice Ierusalem ad Orientem, et vide iucunditatem a Deo tibi venientem.
 
-**[4:37]** Ecce enim veniunt filii tui, quos dimisisti dispersos, veniunt collecti ab Oriente usque ad Occidentem, in verbo sancti gaudentes in honorem Dei. 
+**[4:37]** Ecce enim veniunt filii tui, quos dimisisti dispersos, veniunt collecti ab Oriente usque ad Occidentem, in verbo sancti gaudentes in honorem Dei.
 
 ### Chapter 5
 
@@ -48784,7 +48784,7 @@
 
 **[5:8]** Obumbraverunt autem et silvæ, et omne lignum suavitatis Israel et mandato Dei.
 
-**[5:9]** Adducet enim Deus Israel cum iucunditate in lumine maiestatis suæ, cum misericordia, et iustitia, quæ est ex ipso. 
+**[5:9]** Adducet enim Deus Israel cum iucunditate in lumine maiestatis suæ, cum misericordia, et iustitia, quæ est ex ipso.
 
 ### Chapter 6
 
@@ -48930,7 +48930,7 @@
 
 **[6:71]** A purpura quoque et murice, quæ supra illos tineant, scietis itaque quia non sunt dii. Ipsi etiam postremo comeduntur, et erunt opprobrium in regione.
 
-**[6:72]** Melior est homo iustus, qui non habet simulacra: nam erit longe ab opprobriis.  
+**[6:72]** Melior est homo iustus, qui non habet simulacra: nam erit longe ab opprobriis.
 
 ## Ezekiel
 
@@ -48990,7 +48990,7 @@
 
 **[1:27]** Et vidi quasi speciem electri, velut aspectum ignis, intrinsecus eius per circuitum: a lumbis eius et desuper, et a lumbis eius usque deorsum, vidi quasi speciem ignis splendentis in circuitu:
 
-**[1:28]** Velut aspectum arcus cum fuerit in nube in die pluviæ. hic erat aspectus splendoris per gyrum. 
+**[1:28]** Velut aspectum arcus cum fuerit in nube in die pluviæ. hic erat aspectus splendoris per gyrum.
 
 ### Chapter 2
 
@@ -49010,7 +49010,7 @@
 
 **[2:8]** Tu autem fili hominis audi quæcumque loquor ad te: et noli esse exasperans sicut domus exasperatrix est: aperi os tuum et comede quæcumque ego do tibi.
 
-**[2:9]** Et vidi, et ecce manus missa ad me, in qua erat involutus liber: et expandit illum coram me, qui erat scriptus intus, et foris: et scriptæ erant in eo lamentationes, et carmen, et væ. 
+**[2:9]** Et vidi, et ecce manus missa ad me, in qua erat involutus liber: et expandit illum coram me, qui erat scriptus intus, et foris: et scriptæ erant in eo lamentationes, et carmen, et væ.
 
 ### Chapter 3
 
@@ -49066,7 +49066,7 @@
 
 **[3:26]** Et linguam tuam adhærere faciam palato tuo, et eris mutus, nec quasi vir obiurgans: quia domus exasperans est.
 
-**[3:27]** Cum autem locutus fuero tibi, aperiam os tuum, et dices ad eos: Hæc dicit Dominus Deus: Qui audit, audiat: et qui quiescit, quiescat: quia domus exasperans est. 
+**[3:27]** Cum autem locutus fuero tibi, aperiam os tuum, et dices ad eos: Hæc dicit Dominus Deus: Qui audit, audiat: et qui quiescit, quiescat: quia domus exasperans est.
 
 ### Chapter 4
 
@@ -49102,7 +49102,7 @@
 
 **[4:16]** Et dixit ad me: Fili hominis: Ecce ego conteram baculum panis in Ierusalem: et comedent panem in pondere, et in solicitudine: et aquam in mensura, et in angustia bibent:
 
-**[4:17]** Ut deficientibus pane et aqua, corruat unusquisque ad fratrem suum: et contabescant in iniquitatibus suis. 
+**[4:17]** Ut deficientibus pane et aqua, corruat unusquisque ad fratrem suum: et contabescant in iniquitatibus suis.
 
 ### Chapter 5
 
@@ -49138,7 +49138,7 @@
 
 **[5:16]** Ego Dominus locutus sum: Quando misero sagittas famis pessimas in eos: quæ erunt mortiferæ, et quas mittam ut disperdam vos: et famem congregabo super vos, et conteram in vobis baculum panis.
 
-**[5:17]** Et immittam in vos famem, et bestias pessimas usque ad internecionem: et pestilentia, et sanguis transibunt per te, et gladium inducam super te. ego Dominus locutus sum. 
+**[5:17]** Et immittam in vos famem, et bestias pessimas usque ad internecionem: et pestilentia, et sanguis transibunt per te, et gladium inducam super te. ego Dominus locutus sum.
 
 ### Chapter 6
 
@@ -49168,7 +49168,7 @@
 
 **[6:13]** Et scietis quia ego Dominus, cum fuerint interfecti vestri in medio idolorum vestrorum in circuitu ararum vestrarum, in omni colle excelso, et in cunctis summitatibus montium, et subtus omne lignum nemorosum, et subtus universam quercum frondosam, locum ubi accenderunt thura redolentia universis idolis suis.
 
-**[6:14]** Et extendam manum meam super eos: et faciam terram desolatam, et destitutam a deserto Deblatha in omnibus habitationibus eorum: et scient quia ego Dominus. 
+**[6:14]** Et extendam manum meam super eos: et faciam terram desolatam, et destitutam a deserto Deblatha in omnibus habitationibus eorum: et scient quia ego Dominus.
 
 ### Chapter 7
 
@@ -49224,7 +49224,7 @@
 
 **[7:26]** Conturbatio super conturbationem veniet, et auditus super auditum: et quærent visionem de propheta, et lex peribit a sacerdote, et consilium a senioribus.
 
-**[7:27]** Rex lugebit, et princeps induetur mœrore, et manus populi terræ conturbabuntur. Secundum viam eorum faciam eis, et secundum iudicia eorum iudicabo eos: et scient quia ego Dominus. 
+**[7:27]** Rex lugebit, et princeps induetur mœrore, et manus populi terræ conturbabuntur. Secundum viam eorum faciam eis, et secundum iudicia eorum iudicabo eos: et scient quia ego Dominus.
 
 ### Chapter 8
 
@@ -49262,7 +49262,7 @@
 
 **[8:17]** Et dixit ad me: Certe vidisti fili hominis: numquid leve est hoc domui Iuda ut facerent abominationes istas, quas fecerunt hic: quia replentes terram iniquitate conversi sunt ad irritandum me? et ecce applicant ramum ad nares suas.
 
-**[8:18]** Ergo et ego faciam in furore: non parcet oculus meus, nec miserebor: et cum clamaverint ad aures meas voce magna, non exaudiam eos. 
+**[8:18]** Ergo et ego faciam in furore: non parcet oculus meus, nec miserebor: et cum clamaverint ad aures meas voce magna, non exaudiam eos.
 
 ### Chapter 9
 
@@ -49286,7 +49286,7 @@
 
 **[9:10]** Igitur et meus non parcet oculus, neque miserebor: viam eorum super caput eorum reddam.
 
-**[9:11]** Et ecce vir, qui erat indutus lineis, qui habebat atramentarium in dorso suo, respondit verbum, dicens: Feci sicut præcepisti mihi. 
+**[9:11]** Et ecce vir, qui erat indutus lineis, qui habebat atramentarium in dorso suo, respondit verbum, dicens: Feci sicut præcepisti mihi.
 
 ### Chapter 10
 
@@ -49332,7 +49332,7 @@
 
 **[10:21]** Quattuor vultus uni, et quattuor alæ uni: et similitudo manus hominis sub alis eorum.
 
-**[10:22]** Et similitudo vultuum eorum, ipsi vultus quos videram iuxta fluvium Chobar, et intuitus eorum, et impetus singulorum ante faciem suam ingredi. 
+**[10:22]** Et similitudo vultuum eorum, ipsi vultus quos videram iuxta fluvium Chobar, et intuitus eorum, et impetus singulorum ante faciem suam ingredi.
 
 ### Chapter 11
 
@@ -49384,7 +49384,7 @@
 
 **[11:24]** Et spiritus levavit me, adduxitque in Chaldæam ad transmigrationem, in visione in spiritu Dei: et sublata est a me visio, quam videram.
 
-**[11:25]** Et locutus sum ad transmigrationem omnia verba Domini, quæ ostenderat mihi. 
+**[11:25]** Et locutus sum ad transmigrationem omnia verba Domini, quæ ostenderat mihi.
 
 ### Chapter 12
 
@@ -49442,7 +49442,7 @@
 
 **[12:27]** Fili hominis, ecce domus Israel dicentium: Visio, quam hic videt, in dies multos: et in tempora longa iste prophetat.
 
-**[12:28]** Propterea dic ad eos: Hæc dicit Dominus Deus: Non prolongabitur ultra omnis sermo meus: verbum, quod locutus fuero, complebitur, dicit Dominus Deus. 
+**[12:28]** Propterea dic ad eos: Hæc dicit Dominus Deus: Non prolongabitur ultra omnis sermo meus: verbum, quod locutus fuero, complebitur, dicit Dominus Deus.
 
 ### Chapter 13
 
@@ -49490,7 +49490,7 @@
 
 **[13:22]** Pro eo quod mœrere fecistis cor iusti mendaciter, quem ego non contristavi: et confortastis manus impii, ut non reverteretur a via sua mala, et viveret:
 
-**[13:23]** propterea vana non videbitis, et divinationes non divinabitis amplius, et eruam populum meum de manu vestra: et scietis quia ego Dominus. 
+**[13:23]** propterea vana non videbitis, et divinationes non divinabitis amplius, et eruam populum meum de manu vestra: et scietis quia ego Dominus.
 
 ### Chapter 14
 
@@ -49538,7 +49538,7 @@
 
 **[14:22]** tamen relinquetur in ea salvatio educentium filios, et filias: ecce ipsi ingredientur ad vos, et videbitis viam eorum, et adinventiones eorum, et consolabimini super malo, quod induxi in Ierusalem in omnibus, quæ importavi super eam.
 
-**[14:23]** Et consolabuntur vos, cum videritis viam eorum, et adinventiones eorum: et cognoscetis quod non frustra fecerim omnia, quæ feci in ea, ait Dominus Deus. 
+**[14:23]** Et consolabuntur vos, cum videritis viam eorum, et adinventiones eorum: et cognoscetis quod non frustra fecerim omnia, quæ feci in ea, ait Dominus Deus.
 
 ### Chapter 15
 
@@ -49556,7 +49556,7 @@
 
 **[15:7]** Et ponam faciem meam in eos: de igne egredientur, et ignis consumet eos: et scietis quia ego Dominus, cum posuero faciem meam in eos,
 
-**[15:8]** et dedero terram inviam, et desolatam: eo quod prævaricatores extiterint, dicit Dominus Deus. 
+**[15:8]** et dedero terram inviam, et desolatam: eo quod prævaricatores extiterint, dicit Dominus Deus.
 
 ### Chapter 16
 
@@ -49684,7 +49684,7 @@
 
 **[16:62]** Et suscitabo ego pactum meum tecum: et scies quia ego Dominus,
 
-**[16:63]** ut recorderis, et confundaris, et non sit tibi ultra aperire os præ confusione tua, cum placatus tibi fuero in omnibus, quæ fecisti, ait Dominus Deus. 
+**[16:63]** ut recorderis, et confundaris, et non sit tibi ultra aperire os præ confusione tua, cum placatus tibi fuero in omnibus, quæ fecisti, ait Dominus Deus.
 
 ### Chapter 17
 
@@ -49734,7 +49734,7 @@
 
 **[17:23]** In monte sublimi Israel plantabo illud, et erumpet in germen, et faciet fructum, et erit in cedrum magnam: et habitabunt sub ea omnes volucres, et universum volatile sub umbra frondium eius nidificabit.
 
-**[17:24]** Et scient omnia ligna regionis, quia ego Dominus humiliavi lignum sublime, et exaltavi lignum humile: et siccavi lignum viride, et frondere feci lignum aridum. Ego Dominus locutus sum, et feci. 
+**[17:24]** Et scient omnia ligna regionis, quia ego Dominus humiliavi lignum sublime, et exaltavi lignum humile: et siccavi lignum viride, et frondere feci lignum aridum. Ego Dominus locutus sum, et feci.
 
 ### Chapter 18
 
@@ -49800,7 +49800,7 @@
 
 **[18:31]** Proiicite a vobis omnes prævaricationes vestras, in quibus prævaricati estis, et facite vobis cor novum, et spiritum novum: et quare moriemini domus Israel?
 
-**[18:32]** Quia nolo mortem morientis, dicit Dominus Deus, revertimini, et vivite. 
+**[18:32]** Quia nolo mortem morientis, dicit Dominus Deus, revertimini, et vivite.
 
 ### Chapter 19
 
@@ -49830,7 +49830,7 @@
 
 **[19:13]** Et nunc transplantata est in desertum, in terra invia, et sitienti.
 
-**[19:14]** Et egressus est ignis de virga ramorum eius, qui fructum eius comedit: et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum. 
+**[19:14]** Et egressus est ignis de virga ramorum eius, qui fructum eius comedit: et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum.
 
 ### Chapter 20
 
@@ -49930,7 +49930,7 @@
 
 **[20:48]** Et videbit universa caro quia ego Dominus succendi eam, nec extinguetur.
 
-**[20:49]** Et dixi: A a a, Domine Deus: ipsi dicunt de me: Numquid non per parabolas loquitur iste? 
+**[20:49]** Et dixi: A a a, Domine Deus: ipsi dicunt de me: Numquid non per parabolas loquitur iste?
 
 ### Chapter 21
 
@@ -49996,7 +49996,7 @@
 
 **[21:31]** et effundam super te indignationem meam: in igne furoris mei sufflabo in te, daboque te in manus hominum insipientium, et fabricantium interitum.
 
-**[21:32]** Igni eris cibus, sanguis tuus erit in medio terræ, oblivioni traderis: quia ego Dominus locutus sum. 
+**[21:32]** Igni eris cibus, sanguis tuus erit in medio terræ, oblivioni traderis: quia ego Dominus locutus sum.
 
 ### Chapter 22
 
@@ -50060,7 +50060,7 @@
 
 **[22:30]** Et quæsivi de eis virum, qui interponeret sepem, et staret oppositus contra me pro terra, ne dissiparem eam: et non inveni.
 
-**[22:31]** Et effudi super eos indignationem meam, in igne iræ meæ consumpsi eos: viam eorum in caput eorum reddidi, ait Dominus Deus. 
+**[22:31]** Et effudi super eos indignationem meam, in igne iræ meæ consumpsi eos: viam eorum in caput eorum reddidi, ait Dominus Deus.
 
 ### Chapter 23
 
@@ -50160,7 +50160,7 @@
 
 **[23:48]** Et auferam scelus de terra, et discent omnes mulieres ne faciant secundum scelus earum.
 
-**[23:49]** Et dabunt scelus vestrum super vos, et peccata idolorum vestrorum portabitis: et scietis quia ego Dominus Deus. 
+**[23:49]** Et dabunt scelus vestrum super vos, et peccata idolorum vestrorum portabitis: et scietis quia ego Dominus Deus.
 
 ### Chapter 24
 
@@ -50216,7 +50216,7 @@
 
 **[24:26]** In die illa cum venerit fugiens ad te, ut annunciet tibi:
 
-**[24:27]** In die, inquam, illa aperietur os tuum cum eo, qui fugit: et loqueris, et non silebis ultra: erisque eis in portentum, et scietis quia ego Dominus. 
+**[24:27]** In die, inquam, illa aperietur os tuum cum eo, qui fugit: et loqueris, et non silebis ultra: erisque eis in portentum, et scietis quia ego Dominus.
 
 ### Chapter 25
 
@@ -50252,7 +50252,7 @@
 
 **[25:16]** propterea hæc dicit Dominus Deus: Ecce ego extendam manum meam super Palæstinos, et interficiam interfectores, et perdam reliquias maritimæ regionis:
 
-**[25:17]** faciamque in eis ultiones magnas arguens in furore: et scient quia ego Dominus, cum dedero vindictam meam super eos. 
+**[25:17]** faciamque in eis ultiones magnas arguens in furore: et scient quia ego Dominus, cum dedero vindictam meam super eos.
 
 ### Chapter 26
 
@@ -50296,7 +50296,7 @@
 
 **[26:20]** Et detraxero te cum his, qui descendunt in lacum ad populum sempiternum et collocavero te in terra novissima sicut solitudines veteres cum his, qui deducuntur in lacum, ut non habiteris: porro cum dedero gloriam in terra viventium,
 
-**[26:21]** in nihilum redigam te, et non eris, et requisita non invenieris ultra in sempiternum, dicit Dominus Deus. 
+**[26:21]** in nihilum redigam te, et non eris, et requisita non invenieris ultra in sempiternum, dicit Dominus Deus.
 
 ### Chapter 27
 
@@ -50370,7 +50370,7 @@
 
 **[27:35]** Universi habitatores insularum obstupuerunt super te: et reges earum omnes tempestate perculsi mutaverunt vultus.
 
-**[27:36]** Negotiatores populorum sibilaverunt super te: ad nihilum deducta es, et non eris usque in perpetuum. 
+**[27:36]** Negotiatores populorum sibilaverunt super te: ad nihilum deducta es, et non eris usque in perpetuum.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:25]** Hæc dicit Dominus Deus: Quando congregavero domum Israel de populis, in quibus dispersi sunt, sanctificabor in eis coram Gentibus: et habitabunt in terra sua, quam dedi servo meo Iacob.
 
-**[28:26]** Et habitabunt in ea securi: et ædificabunt domos, et plantabunt vineas, et habitabunt confidenter, cum fecero iudicia in omnibus, qui adversantur eis per circuitum: et scient quia ego Dominus Deus eorum. 
+**[28:26]** Et habitabunt in ea securi: et ædificabunt domos, et plantabunt vineas, et habitabunt confidenter, cum fecero iudicia in omnibus, qui adversantur eis per circuitum: et scient quia ego Dominus Deus eorum.
 
 ### Chapter 29
 
@@ -50468,7 +50468,7 @@
 
 **[29:20]** et operi, quo servivit adversus eam: dedi ei Terram Ægypti, pro eo quod laboraverit mihi, ait Dominus Deus.
 
-**[29:21]** In die illo pullulabit cornu domui Israel, et tibi dabo apertum os in medio eorum: et scient quia ego Dominus. 
+**[29:21]** In die illo pullulabit cornu domui Israel, et tibi dabo apertum os in medio eorum: et scient quia ego Dominus.
 
 ### Chapter 30
 
@@ -50522,7 +50522,7 @@
 
 **[30:25]** Et confortabo brachia regis Babylonis, et brachia Pharaonis concident: et scient quia ego Dominus, cum dedero gladium meum in manu regis Babylonis, et extenderit eum super Terram Ægypti.
 
-**[30:26]** Et dispergam Ægyptum in nationes, et ventilabo eos in terras, et scient quia ego Dominus. 
+**[30:26]** Et dispergam Ægyptum in nationes, et ventilabo eos in terras, et scient quia ego Dominus.
 
 ### Chapter 31
 
@@ -50560,7 +50560,7 @@
 
 **[31:17]** Nam et ipsi cum eo descendent in infernum ad interfectos gladio: et brachium uniuscuiusque sedebit sub umbraculo eius in medio nationum.
 
-**[31:18]** Cui assimilatus es o inclyte atque sublimis inter ligna voluptatis? Ecce deductus es cum lignis voluptatis ad terram ultimam: in medio incircumcisorum dormies, cum eis, qui interfecti sunt gladio, ipse est Pharao, et omnis multitudo eius, dicit Dominus Deus. 
+**[31:18]** Cui assimilatus es o inclyte atque sublimis inter ligna voluptatis? Ecce deductus es cum lignis voluptatis ad terram ultimam: in medio incircumcisorum dormies, cum eis, qui interfecti sunt gladio, ipse est Pharao, et omnis multitudo eius, dicit Dominus Deus.
 
 ### Chapter 32
 
@@ -50626,7 +50626,7 @@
 
 **[32:31]** Vidit eos Pharao, et consolatus est super universa multitudine sua, quæ interfecta est gladio, Pharao, et omnis exercitus eius, ait Dominus Deus:
 
-**[32:32]** quia dedi terrorem meum in terra viventium, et dormivit in medio incircumcisorum cum interfectis gladio: Pharao et omnis multitudo eius: ait Dominus Deus. 
+**[32:32]** quia dedi terrorem meum in terra viventium, et dormivit in medio incircumcisorum cum interfectis gladio: Pharao et omnis multitudo eius: ait Dominus Deus.
 
 ### Chapter 33
 
@@ -50694,7 +50694,7 @@
 
 **[33:32]** Et es eis quasi carmen musicum, quod suavi, dulcique sono canitur: et audiunt verba tua, et non faciunt ea.
 
-**[33:33]** Et cum venerit quod prædictum est (ecce enim venit) tunc scient quod prophetes fuerit inter eos. 
+**[33:33]** Et cum venerit quod prædictum est (ecce enim venit) tunc scient quod prophetes fuerit inter eos.
 
 ### Chapter 34
 
@@ -50758,7 +50758,7 @@
 
 **[34:30]** Et scient quia ego Dominus Deus eorum cum eis, et ipsi populus meus domus Israel: ait Dominus Deus.
 
-**[34:31]** Vos autem greges mei, greges pascuæ meæ homines estis: et ego Dominus Deus vester, dicit Dominus Deus. 
+**[34:31]** Vos autem greges mei, greges pascuæ meæ homines estis: et ego Dominus Deus vester, dicit Dominus Deus.
 
 ### Chapter 35
 
@@ -50790,7 +50790,7 @@
 
 **[35:14]** Hæc dicit Dominus Deus: Lætante universa terra, in solitudinem te redigam.
 
-**[35:15]** Sicuti gavisus es super hereditatem domus Israel, eo quod fuerit dissipata, sic faciam tibi: dissipatus eris mons Seir, et Idumæa omnis: et scient quia ego Dominus. 
+**[35:15]** Sicuti gavisus es super hereditatem domus Israel, eo quod fuerit dissipata, sic faciam tibi: dissipatus eris mons Seir, et Idumæa omnis: et scient quia ego Dominus.
 
 ### Chapter 36
 
@@ -50868,7 +50868,7 @@
 
 **[36:37]** Hæc dicit Dominus Deus: Adhuc in hoc invenient me domus Israel, ut faciam eis: Multiplicabo eos sicut gregem hominum,
 
-**[36:38]** ut gregem sanctum, ut gregem Ierusalem in sollemnitatibus eius: Sic erunt civitates desertæ, plenæ gregibus hominum: et scient quia ego Dominus. 
+**[36:38]** ut gregem sanctum, ut gregem Ierusalem in sollemnitatibus eius: Sic erunt civitates desertæ, plenæ gregibus hominum: et scient quia ego Dominus.
 
 ### Chapter 37
 
@@ -50926,7 +50926,7 @@
 
 **[37:27]** Et erit tabernaculum meum in eis: et ero eis Deus, et ipsi erunt mihi populus.
 
-**[37:28]** Et scient Gentes quia ego Dominus sanctificator Israel, cum fuerit sanctificatio mea in medio eorum in perpetuum. 
+**[37:28]** Et scient Gentes quia ego Dominus sanctificator Israel, cum fuerit sanctificatio mea in medio eorum in perpetuum.
 
 ### Chapter 38
 
@@ -50974,7 +50974,7 @@
 
 **[38:22]** Et iudicabo eum peste, et sanguine, et imbre vehementi et lapidibus immensis: ignem, et sulphur pluam super eum, et super exercitum eius, et super populos multos, qui sunt cum eo.
 
-**[38:23]** Et magnificabor, et sanctificabor: et notus ero in oculis multarum gentium, et scient quia ego Dominus. 
+**[38:23]** Et magnificabor, et sanctificabor: et notus ero in oculis multarum gentium, et scient quia ego Dominus.
 
 ### Chapter 39
 
@@ -51034,7 +51034,7 @@
 
 **[39:28]** Et scient quia ego Dominus Deus eorum, eo quod transtulerim eos in nationes; et congregaverim eos super terram suam, et non dereliquerim quemquam ex eis ibi.
 
-**[39:29]** Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israel, ait Dominus Deus. 
+**[39:29]** Et non abscondam ultra faciem meam ab eis, eo quod effuderim spiritum meum super omnem domum Israel, ait Dominus Deus.
 
 ### Chapter 40
 
@@ -51134,7 +51134,7 @@
 
 **[40:48]** Et introduxit me in vestibulum templi: et mensus est vestibulum quinque cubitis hinc, et quinque cubitis inde: et latitudinem portæ trium cubitorum hinc, et trium cubitorum inde.
 
-**[40:49]** Longitudinem autem vestibuli viginti cubitorum, et latitudinem undecim cubitorum, et octo gradibus ascendebatur ad eam. Et columnæ erant in frontibus: una hinc, et altera inde. 
+**[40:49]** Longitudinem autem vestibuli viginti cubitorum, et latitudinem undecim cubitorum, et octo gradibus ascendebatur ad eam. Et columnæ erant in frontibus: una hinc, et altera inde.
 
 ### Chapter 41
 
@@ -51188,7 +51188,7 @@
 
 **[41:25]** Et cælata erant in ipsis ostiis templi cherubim, et sculpturæ palmarum, sicut in parietibus quoque expressæ erant: quam ob rem et grossiora erant ligna in vestibuli fronte forinsecus.
 
-**[41:26]** Super quæ fenestræ obliquæ, et similitudo palmarum hinc atque inde in humerulis vestibuli: secundum latera domus, latitudinemque parietum. 
+**[41:26]** Super quæ fenestræ obliquæ, et similitudo palmarum hinc atque inde in humerulis vestibuli: secundum latera domus, latitudinemque parietum.
 
 ### Chapter 42
 
@@ -51230,7 +51230,7 @@
 
 **[42:19]** Et ad ventum Occidentalem mensus est quingentos calamos in calamo mensuræ.
 
-**[42:20]** Per quattuor ventos mensus est murum eius undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum dividentem inter sanctuarium et vulgi locum. 
+**[42:20]** Per quattuor ventos mensus est murum eius undique per circuitum, longitudinem quingentorum cubitorum, et latitudinem quingentorum cubitorum dividentem inter sanctuarium et vulgi locum.
 
 ### Chapter 43
 
@@ -51286,7 +51286,7 @@
 
 **[43:26]** Septem diebus expiabunt altare, et mundabunt illud: et implebunt manum eius.
 
-**[43:27]** Expletis autem diebus, in die octava et ultra, facient sacerdotes super altare holocausta vestra, et quæ pro pace offerunt: et placatus ero vobis, ait Dominus Deus. 
+**[43:27]** Expletis autem diebus, in die octava et ultra, facient sacerdotes super altare holocausta vestra, et quæ pro pace offerunt: et placatus ero vobis, ait Dominus Deus.
 
 ### Chapter 44
 
@@ -51350,7 +51350,7 @@
 
 **[44:30]** Et primitiva omnium primogenitorum, et omnia libamenta ex omnibus, quæ offeruntur, sacerdotum erunt: et primitiva ciborum vestrorum dabitis sacerdoti, ut reponat benedictionem domui tuæ.
 
-**[44:31]** Omne morticinum, et captum a bestia de avibus et de pecoribus non comedent Sacerdotes. 
+**[44:31]** Omne morticinum, et captum a bestia de avibus et de pecoribus non comedent Sacerdotes.
 
 ### Chapter 45
 
@@ -51402,7 +51402,7 @@
 
 **[45:24]** Et sacrificium ephi per vitulum, et ephi per arietem faciet: et olei hin per singula ephi.
 
-**[45:25]** Septimo mense, quintadecima die mensis in sollemnitate faciet sicut supra dicta sunt per septem dies: tam pro peccato, quam pro holocausto, et in sacrificio, et in oleo. 
+**[45:25]** Septimo mense, quintadecima die mensis in sollemnitate faciet sicut supra dicta sunt per septem dies: tam pro peccato, quam pro holocausto, et in sacrificio, et in oleo.
 
 ### Chapter 46
 
@@ -51452,7 +51452,7 @@
 
 **[46:23]** Et paries per circuitum ambiens quattuor atriola: et culinæ fabricatæ erant subter porticus per gyrum.
 
-**[46:24]** Et dixit ad me: Hæc est domus culinarum, in qua coquent ministri domus Domini victimas populi. 
+**[46:24]** Et dixit ad me: Hæc est domus culinarum, in qua coquent ministri domus Domini victimas populi.
 
 ### Chapter 47
 
@@ -51500,7 +51500,7 @@
 
 **[47:22]** et mittetis eam in hereditatem vobis, et advenis, qui accesserint ad vos, qui genuerint filios in medio vestrum: et erunt vobis sicut indigenæ inter filios Israel: vobiscum divident possessionem in medio tribuum Israel.
 
-**[47:23]** In tribu autem quacumque fuerit advena, ibi dabitis possessionem illi, ait Dominus Deus. 
+**[47:23]** In tribu autem quacumque fuerit advena, ibi dabitis possessionem illi, ait Dominus Deus.
 
 ### Chapter 48
 
@@ -51572,7 +51572,7 @@
 
 **[48:34]** Et ad plagam Occidentalem, quingentos et quattuor millia, et portæ eorum tres, porta Gad una, porta Aser una, porta Nephthali una.
 
-**[48:35]** Per circuitum, decem et octo millia: et nomen civitatis ex illa die, Dominus ibidem.  
+**[48:35]** Per circuitum, decem et octo millia: et nomen civitatis ex illa die, Dominus ibidem.
 
 ## Daniel
 
@@ -51618,7 +51618,7 @@
 
 **[1:20]** Et omne verbum sapientiæ et intellectus, quod sciscitatus est ab eis Rex, invenit in eis decuplum super cunctos ariolos, et magos, qui erant in universo regno eius.
 
-**[1:21]** Fuit autem Daniel usque ad annum primum Cyri regis. 
+**[1:21]** Fuit autem Daniel usque ad annum primum Cyri regis.
 
 ### Chapter 2
 
@@ -51718,7 +51718,7 @@
 
 **[2:48]** Tunc rex Danielem in sublime extulit, et munera multa, et magna dedit ei: et constituit eum principem super omnes provincias Babylonis: et præfectum magistratuum super cunctos sapientes Babylonis.
 
-**[2:49]** Daniel autem postulavit a rege: et constituit super opera provinciæ Babylonis, Sidrach, Misach, et Abdenago: Ipse autem Daniel erat in foribus regis. 
+**[2:49]** Daniel autem postulavit a rege: et constituit super opera provinciæ Babylonis, Sidrach, Misach, et Abdenago: Ipse autem Daniel erat in foribus regis.
 
 ### Chapter 3
 
@@ -51920,7 +51920,7 @@
 
 **[3:99]** Signa, et mirabilia fecit apud me Deus excelsus. Placuit ergo mihi prædicare
 
-**[3:100]** signa eius, quia magna sunt: et mirabilia eius, quia fortia: et regnum eius regnum sempiternum, et potestas eius in generationem et generationem. 
+**[3:100]** signa eius, quia magna sunt: et mirabilia eius, quia fortia: et regnum eius regnum sempiternum, et potestas eius in generationem et generationem.
 
 ### Chapter 4
 
@@ -51990,7 +51990,7 @@
 
 **[4:33]** In ipso tempore sensus meus reversus est ad me, et ad honorem regni mei, decoremque perveni: et figura mea reversa est ad me: et optimates mei, et magistratus mei requisierunt me, et in regno meo restitutus sum: et magnificentia amplior addita est mihi.
 
-**[4:34]** Nunc igitur ego Nabuchodonosor laudo, et magnifico, et glorifico regem cæli: quia omnia opera eius vera, et viæ eius iudicia, et gradientes in superbia potest humiliare. 
+**[4:34]** Nunc igitur ego Nabuchodonosor laudo, et magnifico, et glorifico regem cæli: quia omnia opera eius vera, et viæ eius iudicia, et gradientes in superbia potest humiliare.
 
 ### Chapter 5
 
@@ -52054,7 +52054,7 @@
 
 **[5:30]** Eadem nocte interfectus est Baltassar rex Chaldæus.
 
-**[5:31]** Et Darius Medus successit in regnum annos natus sexagintaduos. 
+**[5:31]** Et Darius Medus successit in regnum annos natus sexagintaduos.
 
 ### Chapter 6
 
@@ -52112,7 +52112,7 @@
 
 **[6:27]** Ipse liberator, atque salvator, faciens signa, et mirabilia in cælo, et in terra: qui liberavit Danielem de lacu leonum.
 
-**[6:28]** Porro Daniel perseveravit usque ad regnum Darii, regnumque Cyri Persæ. 
+**[6:28]** Porro Daniel perseveravit usque ad regnum Darii, regnumque Cyri Persæ.
 
 ### Chapter 7
 
@@ -52170,7 +52170,7 @@
 
 **[7:27]** Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detur populo sanctorum Altissimi: cuius regnum, regnum sempiternum est, et omnes reges servient ei, et obedient.
 
-**[7:28]** Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi. 
+**[7:28]** Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me: verbum autem in corde meo conservavi.
 
 ### Chapter 8
 
@@ -52196,7 +52196,7 @@
 
 **[8:11]** Et usque ad principem fortitudinis magnificatum est: et ab eo tulit iuge sacrificium, et deiecit locum sanctificationis eius.
 
-**[8:12]** Robur autem datum est ei contra iuge sacrificium propter peccata: et prosternetur veritas in terra, et faciet, et prosperabitur. 
+**[8:12]** Robur autem datum est ei contra iuge sacrificium propter peccata: et prosternetur veritas in terra, et faciet, et prosperabitur.
 
 **[8:13]** Et audivi unum de sanctis loquentem: et dixit unus sanctus alteri nescio cui loquenti: Usquequo visio, et iuge sacrificium, et peccatum desolationis, quæ facta est: et sanctuarium, et fortitudo conculcabitur?
 
@@ -52226,7 +52226,7 @@
 
 **[8:26]** Et visio vespere et mane, quæ dicta est, vera est: tu ergo visionem signa, quia post multos dies erit.
 
-**[8:27]** Et ego Daniel langui, et ægrotavi per dies: cumque surrexissem, faciebam opera regis, et stupebam ad visionem, et non erat qui interpretaretur. 
+**[8:27]** Et ego Daniel langui, et ægrotavi per dies: cumque surrexissem, faciebam opera regis, et stupebam ad visionem, et non erat qui interpretaretur.
 
 ### Chapter 9
 
@@ -52282,7 +52282,7 @@
 
 **[9:26]** Et post hebdomades sexaginta duas occidetur Christus: et non erit eius populus, qui eum negaturus est. Et civitatem, et sanctuarium dissipabit populus cum duce venturo: et finis eius vastitas, et post finem belli statuta desolatio.
 
-**[9:27]** Confirmabit autem pactum multis hebdomada una: et in dimidio hebdomadis deficiet hostia et sacrificium: et erit in templo abominatio desolationis: et usque ad consummationem et finem perseverabit desolatio. 
+**[9:27]** Confirmabit autem pactum multis hebdomada una: et in dimidio hebdomadis deficiet hostia et sacrificium: et erit in templo abominatio desolationis: et usque ad consummationem et finem perseverabit desolatio.
 
 ### Chapter 10
 
@@ -52326,7 +52326,7 @@
 
 **[10:20]** Et ait: Numquid scis quare venerim ad te? et nunc revertar ut prælier adversum principem Persarum. cum ego egrederer, apparuit princeps Græcorum veniens.
 
-**[10:21]** Verumtamen annuntiabo tibi quod expressum est in scriptura veritatis: et nemo est adiutor meus in omnibus his, nisi Michael princeps vester. 
+**[10:21]** Verumtamen annuntiabo tibi quod expressum est in scriptura veritatis: et nemo est adiutor meus in omnibus his, nisi Michael princeps vester.
 
 ### Chapter 11
 
@@ -52418,7 +52418,7 @@
 
 **[11:44]** Et fama turbabit eum ab Oriente et ab Aquilone: et veniet in multitudine magna ut conterat et interficiat plurimos.
 
-**[11:45]** Et figet tabernaculum suum Apadno inter maria, super montem inclytum et sanctum: et veniet usque ad summitatem eius, et nemo auxiliabitur ei. 
+**[11:45]** Et figet tabernaculum suum Apadno inter maria, super montem inclytum et sanctum: et veniet usque ad summitatem eius, et nemo auxiliabitur ei.
 
 ### Chapter 12
 
@@ -52446,7 +52446,7 @@
 
 **[12:12]** Beatus, qui expectat, et pervenit usque ad dies mille trecentos trigintaquinque.
 
-**[12:13]** Tu autem vade ad præfinitum: et requiesces, et stabis in sorte tua in finem dierum. 
+**[12:13]** Tu autem vade ad præfinitum: et requiesces, et stabis in sorte tua in finem dierum.
 
 ### Chapter 13
 
@@ -52578,7 +52578,7 @@
 
 **[13:64]** Daniel autem factus est magnus in conspectu populi a die illa, et deinceps.
 
-**[13:65]** Et rex Astyages appositus est ad patres suos, et suscepit Cyrus Perses regnum eius. 
+**[13:65]** Et rex Astyages appositus est ad patres suos, et suscepit Cyrus Perses regnum eius.
 
 ### Chapter 14
 
@@ -52664,7 +52664,7 @@
 
 **[14:41]** Porro illos, qui perditionis eius causa fuerant, intromisit in lacum, et devorati sunt in momento coram eo.
 
-**[14:42]** Tunc rex ait: Paveant omnes habitantes in universa terra Deum Danielis: quia ipse est Salvator, faciens signa, et mirabilia in terra: qui liberavit Danielem de lacu leonum.  
+**[14:42]** Tunc rex ait: Paveant omnes habitantes in universa terra Deum Danielis: quia ipse est Salvator, faciens signa, et mirabilia in terra: qui liberavit Danielem de lacu leonum.
 
 ## Hosea
 
@@ -52690,7 +52690,7 @@
 
 **[1:10]** Et erit numerus filiorum Israel quasi arena maris, quæ sine mensura est, et non numerabitur. Et erit in loco ubi dicetur eis: Non populus meus vos: dicetur eis: Filii Dei viventis.
 
-**[1:11]** Et congregabuntur filii Iuda, et filii Israel pariter: et ponent sibimet caput unum, et ascendent de terra: quia magnus dies Iezrahel. 
+**[1:11]** Et congregabuntur filii Iuda, et filii Israel pariter: et ponent sibimet caput unum, et ascendent de terra: quia magnus dies Iezrahel.
 
 ### Chapter 2
 
@@ -52740,7 +52740,7 @@
 
 **[2:23]** Et seminabo eam mihi in terra, et miserebor eius, quæ fuit Absque misericordia.
 
-**[2:24]** Et dicam non populo meo: Populus meus es tu: et ipse dicet: Deus meus es tu. 
+**[2:24]** Et dicam non populo meo: Populus meus es tu: et ipse dicet: Deus meus es tu.
 
 ### Chapter 3
 
@@ -52752,7 +52752,7 @@
 
 **[3:4]** quia dies multos sedebunt filii Israel sine rege, et sine principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim.
 
-**[3:5]** et post hæc revertentur filii Israel, et quærent Dominum Deum suum, et David regem suum: et pavebunt ad Dominum, et ad bonum eius in novissimo dierum. 
+**[3:5]** et post hæc revertentur filii Israel, et quærent Dominum Deum suum, et David regem suum: et pavebunt ad Dominum, et ad bonum eius in novissimo dierum.
 
 ### Chapter 4
 
@@ -52792,7 +52792,7 @@
 
 **[4:18]** Separatum est convivium eorum, fornicatione fornicati sunt: dilexerunt afferre ignominiam protectores eius.
 
-**[4:19]** Ligavit eum spiritus in alis suis, et confundentur a sacrificiis suis. 
+**[4:19]** Ligavit eum spiritus in alis suis, et confundentur a sacrificiis suis.
 
 ### Chapter 5
 
@@ -52824,7 +52824,7 @@
 
 **[5:14]** Quoniam ego quasi leæna Ephraim, et quasi catulus leonis domui Iuda: ego ego capiam, et vadam: tollam, et non est qui eruat.
 
-**[5:15]** Vadens revertar ad locum meum: donec deficiatis, et quæratis faciem meam. 
+**[5:15]** Vadens revertar ad locum meum: donec deficiatis, et quæratis faciem meam.
 
 ### Chapter 6
 
@@ -52848,7 +52848,7 @@
 
 **[6:10]** In domo Israel vidi horrendum: ibi fornicationes Ephraim: contaminatus est Israel.
 
-**[6:11]** Sed et Iuda pone messem tibi, cum convertero captivitatem populi mei. 
+**[6:11]** Sed et Iuda pone messem tibi, cum convertero captivitatem populi mei.
 
 ### Chapter 7
 
@@ -52882,7 +52882,7 @@
 
 **[7:15]** Et ego erudivi eos, et confortavi brachia eorum: et in me cogitaverunt malitiam.
 
-**[7:16]** Reversi sunt ut essent absque iugo: facti sunt quasi arcus dolosus: cadent in gladio principes eorum, a furore linguæ suæ. Ista subsannatio eorum in Terra Ægypti. 
+**[7:16]** Reversi sunt ut essent absque iugo: facti sunt quasi arcus dolosus: cadent in gladio principes eorum, a furore linguæ suæ. Ista subsannatio eorum in Terra Ægypti.
 
 ### Chapter 8
 
@@ -52912,7 +52912,7 @@
 
 **[8:13]** Hostias offerent, immolabunt carnes, et comedent, et Dominus non suscipiet eas: nunc recordabitur iniquitatis eorum, et visitabit peccata eorum: ipsi in Ægyptum convertentur.
 
-**[8:14]** Et oblitus est Israel factoris sui, et ædificavit delubra: et Iudas multiplicavit urbes munitas: et mittam ignem in civitates eius, et devorabit ædes illius. 
+**[8:14]** Et oblitus est Israel factoris sui, et ædificavit delubra: et Iudas multiplicavit urbes munitas: et mittam ignem in civitates eius, et devorabit ædes illius.
 
 ### Chapter 9
 
@@ -52948,7 +52948,7 @@
 
 **[9:16]** Percussus est Ephraim, radix eorum exsiccata est: fructum nequaquam facient. Quod et si genuerint, interficiam amantissima uteri eorum.
 
-**[9:17]** Abiiciet eos Deus meus, quia non audierunt eum: et erunt vagi in nationibus. 
+**[9:17]** Abiiciet eos Deus meus, quia non audierunt eum: et erunt vagi in nationibus.
 
 ### Chapter 10
 
@@ -52980,7 +52980,7 @@
 
 **[10:14]** Consurget tumultus in populo tuo: et omnes munitiones tuæ vastabuntur, sicut vastatus est Salmana a domo eius qui iudicavit Baal in die prælii, matre super filios allisa.
 
-**[10:15]** Sic fecit vobis Bethel, a facie malitiæ nequitiarum vestrarum. 
+**[10:15]** Sic fecit vobis Bethel, a facie malitiæ nequitiarum vestrarum.
 
 ### Chapter 11
 
@@ -53006,7 +53006,7 @@
 
 **[11:11]** Et avolabunt quasi avis ex Ægypto, et quasi columba de Terra Assyriorum: et collocabo eos in domibus suis, dicit Dominus.
 
-**[11:12]** Circumdedit me in negatione Ephraim, et in dolo domus Israel: Iudas autem testis descendit cum Deo, et cum sanctis fidelis. 
+**[11:12]** Circumdedit me in negatione Ephraim, et in dolo domus Israel: Iudas autem testis descendit cum Deo, et cum sanctis fidelis.
 
 ### Chapter 12
 
@@ -53036,7 +53036,7 @@
 
 **[12:13]** In propheta autem eduxit Dominus Israel de Ægypto: et in propheta servatus est.
 
-**[12:14]** Ad iracundiam me provocavit Ephraim in amaritudinibus suis, et sanguis eius super eum veniet, et opprobrium eius restituet ei Dominus suus. 
+**[12:14]** Ad iracundiam me provocavit Ephraim in amaritudinibus suis, et sanguis eius super eum veniet, et opprobrium eius restituet ei Dominus suus.
 
 ### Chapter 13
 
@@ -53068,7 +53068,7 @@
 
 **[13:14]** De manu mortis liberabo eos, de morte redimam eos: ero mors tua o mors, morsus tuus ero inferne: consolatio abscondita est ab oculis meis.
 
-**[13:15]** Quia ipse inter fratres dividet: adducet urentem ventum Dominus de deserto ascendentem: et siccabit venas eius, et desolabit fontem eius, et ipse diripiet thesaurum omnis vasis desiderabilis. 
+**[13:15]** Quia ipse inter fratres dividet: adducet urentem ventum Dominus de deserto ascendentem: et siccabit venas eius, et desolabit fontem eius, et ipse diripiet thesaurum omnis vasis desiderabilis.
 
 ### Chapter 14
 
@@ -53090,7 +53090,7 @@
 
 **[14:9]** Ephraim quid mihi ultra idola? ego exaudiam, et dirigam eum ego ut abietem virentem: ex me fructus tuus inventus est.
 
-**[14:10]** Quis sapiens, et intelliget ista? intelligens, et sciet hæc? quia rectæ viæ Domini, et iusti ambulabunt in eis: prævaricatores vero corruent in eis.  
+**[14:10]** Quis sapiens, et intelliget ista? intelligens, et sciet hæc? quia rectæ viæ Domini, et iusti ambulabunt in eis: prævaricatores vero corruent in eis.
 
 ## Joel
 
@@ -53134,7 +53134,7 @@
 
 **[1:19]** Ad te Domine clamabo: quia ignis comedit speciosa deserti, et flamma succendit omnia ligna regionis.
 
-**[1:20]** Sed et bestiæ agri, quasi area sitiens imbrem, suspexerunt ad te: quoniam exiccati sunt fontes aquarum, et ignis devoravit speciosa deserti. 
+**[1:20]** Sed et bestiæ agri, quasi area sitiens imbrem, suspexerunt ad te: quoniam exiccati sunt fontes aquarum, et ignis devoravit speciosa deserti.
 
 ### Chapter 2
 
@@ -53200,7 +53200,7 @@
 
 **[2:31]** Sol convertetur in tenebras, et luna in sanguinem: antequam veniat dies Domini magnus, et horribilis.
 
-**[2:32]** Et erit: omnis qui invocaverit nomen Domini, salvus erit: quia in monte Sion, et in Ierusalem erit salvatio, sicut dixit Dominus, et in residuis, quos Dominus vocaverit. 
+**[2:32]** Et erit: omnis qui invocaverit nomen Domini, salvus erit: quia in monte Sion, et in Ierusalem erit salvatio, sicut dixit Dominus, et in residuis, quos Dominus vocaverit.
 
 ### Chapter 3
 
@@ -53244,7 +53244,7 @@
 
 **[3:20]** Et Iudæa in æternum habitabitur, et Ierusalem in generationem et generationem.
 
-**[3:21]** Et mundabo sanguinem eorum, quem non mundaveram: et Dominus commorabitur in Sion.  
+**[3:21]** Et mundabo sanguinem eorum, quem non mundaveram: et Dominus commorabitur in Sion.
 
 ## Amos
 
@@ -53278,7 +53278,7 @@
 
 **[1:14]** Et succendam ignem in muro Rabba: et devorabit ædes eius in ululatu in die belli, et in turbine in die commotionis.
 
-**[1:15]** Et ibit Melchom in captivitatem, ipse, et principes eius simul, dicit Dominus. 
+**[1:15]** Et ibit Melchom in captivitatem, ipse, et principes eius simul, dicit Dominus.
 
 ### Chapter 2
 
@@ -53312,7 +53312,7 @@
 
 **[2:15]** et tenens arcum non stabit, et velox pedibus suis non salvabitur, et ascensor equi non salvabit animam suam:
 
-**[2:16]** et robustus corde inter fortes nudus fugiet in illa die, dicit Dominus. 
+**[2:16]** et robustus corde inter fortes nudus fugiet in illa die, dicit Dominus.
 
 ### Chapter 3
 
@@ -53344,7 +53344,7 @@
 
 **[3:14]** quia in die cum visitare cœpero prævaricationes Israel, super eum visitabo, et super altaria Bethel: et amputabuntur cornua altaris, et cadent in terram.
 
-**[3:15]** Et percutiam domum hiemalem cum domo æstiva: et peribunt domus eburneæ, et dissipabuntur ædes multæ, dicit Dominus. 
+**[3:15]** Et percutiam domum hiemalem cum domo æstiva: et peribunt domus eburneæ, et dissipabuntur ædes multæ, dicit Dominus.
 
 ### Chapter 4
 
@@ -53372,7 +53372,7 @@
 
 **[4:12]** Quapropter hæc faciam tibi Israel: postquam autem hæc fecero tibi præparare in occursum Dei tui Israel.
 
-**[4:13]** Quia ecce formans montes, et creans ventum, et annuncians homini eloquium suum, faciens matutinam nebulam, et gradiens super excelsa terræ: Dominus Deus exercituum nomen eius. 
+**[4:13]** Quia ecce formans montes, et creans ventum, et annuncians homini eloquium suum, faciens matutinam nebulam, et gradiens super excelsa terræ: Dominus Deus exercituum nomen eius.
 
 ### Chapter 5
 
@@ -53428,7 +53428,7 @@
 
 **[5:26]** Et portastis tabernaculum Moloch vestro, et imaginem idolorum vestrorum, sidus dei vestri, quæ fecistis vobis.
 
-**[5:27]** Et migrare vos faciam trans Damascum, dicit Dominus, Deus exercituum nomen eius. 
+**[5:27]** Et migrare vos faciam trans Damascum, dicit Dominus, Deus exercituum nomen eius.
 
 ### Chapter 6
 
@@ -53460,7 +53460,7 @@
 
 **[6:14]** Qui lætamini in nihilo: qui dicitis: Numquid non in fortitudine nostra assumpsimus nobis cornua?
 
-**[6:15]** Ecce enim suscitabo super vos domus Israel, dicit Dominus Deus exercituum, gentem: et conteret vos ab introitu Emath, usque ad torrentem deserti. 
+**[6:15]** Ecce enim suscitabo super vos domus Israel, dicit Dominus Deus exercituum, gentem: et conteret vos ab introitu Emath, usque ad torrentem deserti.
 
 ### Chapter 7
 
@@ -53496,7 +53496,7 @@
 
 **[7:16]** Et nunc audi verbum Domini: Tu dicis: Non prophetabis super Israel, et non stillabis super domum idoli.
 
-**[7:17]** Propter hoc hæc dicit Dominus: Uxor tua in civitate fornicabitur: et filii tui, et filiæ tuæ in gladio cadent, et humus tua funiculo metietur: et tu in terra polluta morieris, et Israel captivus migrabit de terra sua. 
+**[7:17]** Propter hoc hæc dicit Dominus: Uxor tua in civitate fornicabitur: et filii tui, et filiæ tuæ in gladio cadent, et humus tua funiculo metietur: et tu in terra polluta morieris, et Israel captivus migrabit de terra sua.
 
 ### Chapter 8
 
@@ -53526,7 +53526,7 @@
 
 **[8:13]** In die illa deficient virgines pulchræ et adolescentes in siti.
 
-**[8:14]** Qui iurant in delicto Samariæ, et dicunt: Vivit Deus tuus Dan: et vivit via Bersabee, et cadent, et non resurgent ultra. 
+**[8:14]** Qui iurant in delicto Samariæ, et dicunt: Vivit Deus tuus Dan: et vivit via Bersabee, et cadent, et non resurgent ultra.
 
 ### Chapter 9
 
@@ -53558,7 +53558,7 @@
 
 **[9:14]** Et convertam captivitatem populi mei Israel: et ædificabunt civitates desertas, et inhabitabunt: et plantabunt vineas, et bibent vinum earum: et facient hortos, et comedent fructus eorum.
 
-**[9:15]** Et plantabo eos super humum suam: et non evellam eos ultra de terra sua, quam dedi eis, dicit Dominus Deus tuus.  
+**[9:15]** Et plantabo eos super humum suam: et non evellam eos ultra de terra sua, quam dedi eis, dicit Dominus Deus tuus.
 
 ## Obadiah
 
@@ -53604,7 +53604,7 @@
 
 **[1:20]** Et transmigratio exercitus huius filiorum Israel, omnia loca Chananæorum usque ad Sareptam: et transmigratio Ierusalem, quæ in Bosphoro est, possidebit civitates Austri.
 
-**[1:21]** Et ascendent salvatores in montem Sion iudicare montem Esau: et erit Domino regnum.  
+**[1:21]** Et ascendent salvatores in montem Sion iudicare montem Esau: et erit Domino regnum.
 
 ## Jonah
 
@@ -53640,7 +53640,7 @@
 
 **[1:15]** Et tulerunt Ionam, et miserunt in mare: et stetit mare a fervore suo.
 
-**[1:16]** Et timuerunt viri timore magno Dominum, et immolaverunt hostias Domino, et voverunt vota. 
+**[1:16]** Et timuerunt viri timore magno Dominum, et immolaverunt hostias Domino, et voverunt vota.
 
 ### Chapter 2
 
@@ -53664,7 +53664,7 @@
 
 **[2:10]** Ego autem in voce laudis immolabo tibi: quæcumque vovi, reddam pro salute Domino.
 
-**[2:11]** Et dixit Dominus pisci: et evomuit Ionam in aridam. 
+**[2:11]** Et dixit Dominus pisci: et evomuit Ionam in aridam.
 
 ### Chapter 3
 
@@ -53686,7 +53686,7 @@
 
 **[3:9]** Quis scit si convertatur, et ignoscat Deus: et revertatur a furore iræ suæ, et non peribimus?
 
-**[3:10]** Et vidit Deus opera eorum, quia conversi sunt de via sua mala: et misertus est Deus super malitiam, quam locutus fuerat ut faceret eis, et non fecit. 
+**[3:10]** Et vidit Deus opera eorum, quia conversi sunt de via sua mala: et misertus est Deus super malitiam, quam locutus fuerat ut faceret eis, et non fecit.
 
 ### Chapter 4
 
@@ -53710,7 +53710,7 @@
 
 **[4:10]** Et dixit Dominus: Tu doles super hederam, in qua non laborasti, neque fecisti ut cresceret. quæ sub una nocte nata est, et sub una nocte periit.
 
-**[4:11]** Et ego non parcam Ninive civitati magnæ, in qua sunt plus quam centum viginti millia hominum, qui nesciunt quid sit inter dexteram et sinistram suam, et iumenta multa?  
+**[4:11]** Et ego non parcam Ninive civitati magnæ, in qua sunt plus quam centum viginti millia hominum, qui nesciunt quid sit inter dexteram et sinistram suam, et iumenta multa?
 
 ## Micah
 
@@ -53746,7 +53746,7 @@
 
 **[1:15]** Adhuc heredem adducam tibi quæ habitas in Maresa: usque ad Odollam veniet gloria Israel.
 
-**[1:16]** Decalvare, et tondere super filios deliciarum tuarum: dilata calvitium tuum sicut aquila: quoniam captivi ducti sunt ex te. 
+**[1:16]** Decalvare, et tondere super filios deliciarum tuarum: dilata calvitium tuum sicut aquila: quoniam captivi ducti sunt ex te.
 
 ### Chapter 2
 
@@ -53774,7 +53774,7 @@
 
 **[2:12]** Congregatione congregabo Iacob totum te: in unum conducam reliquias Israel, pariter ponam illum quasi gregem in ovili, quasi pecus in medio caularum, tumultuabuntur a multitudine hominum.
 
-**[2:13]** Ascendet enim pandens iter ante eos: divident, et transibunt portam, et ingredientur per eam: et transibit rex eorum coram eis, et Dominus in capite eorum. 
+**[2:13]** Ascendet enim pandens iter ante eos: divident, et transibunt portam, et ingredientur per eam: et transibit rex eorum coram eis, et Dominus in capite eorum.
 
 ### Chapter 3
 
@@ -53800,7 +53800,7 @@
 
 **[3:11]** Principes eius in muneribus iudicabant, et sacerdotes eius in mercede docebant, et prophetæ eius in pecunia divinabant: et super Dominum requiescebant, dicentes: Numquid non Dominus in medio nostrum? non venient super nos mala.
 
-**[3:12]** Propter hoc, causa vestri, Sion quasi ager arabitur, et Ierusalem quasi acervus lapidum erit, et mons templi in excelsa silvarum. 
+**[3:12]** Propter hoc, causa vestri, Sion quasi ager arabitur, et Ierusalem quasi acervus lapidum erit, et mons templi in excelsa silvarum.
 
 ### Chapter 4
 
@@ -53828,7 +53828,7 @@
 
 **[4:12]** Ipsi autem non cognoverunt cogitationes Domini, et non intellexerunt consilium eius: quia congregavit eos quasi fœnum areæ.
 
-**[4:13]** Surge, et tritura filia Sion: quia cornu tuum ponam ferreum, et ungulas tuas ponam æreas: et comminues populos multos, et interficies Domino rapinas eorum, et fortitudinem eorum Domino universæ terræ. 
+**[4:13]** Surge, et tritura filia Sion: quia cornu tuum ponam ferreum, et ungulas tuas ponam æreas: et comminues populos multos, et interficies Domino rapinas eorum, et fortitudinem eorum Domino universæ terræ.
 
 ### Chapter 5
 
@@ -53858,7 +53858,7 @@
 
 **[5:13]** Et evellam lucos tuos de medio tui: et conteram civitates tuas.
 
-**[5:14]** Et faciam in furore et in indignatione ultionem in omnibus gentibus, quæ non audierunt. 
+**[5:14]** Et faciam in furore et in indignatione ultionem in omnibus gentibus, quæ non audierunt.
 
 ### Chapter 6
 
@@ -53892,7 +53892,7 @@
 
 **[6:15]** Tu seminabis, et non metes: tu calcabis olivam, et non ungeris oleo: et mustum, et non bibes vinum.
 
-**[6:16]** Et custodisti præcepta Amri, et omne opus domus Achab: et ambulasti in voluntatibus eorum, ut darem te in perditionem, et habitantes in ea in sibilum et opprobrium populi mei portabitis. 
+**[6:16]** Et custodisti præcepta Amri, et omne opus domus Achab: et ambulasti in voluntatibus eorum, ut darem te in perditionem, et habitantes in ea in sibilum et opprobrium populi mei portabitis.
 
 ### Chapter 7
 
@@ -53934,7 +53934,7 @@
 
 **[7:19]** Revertetur, et miserebitur nostri: deponet iniquitates nostras, et proiiciet in profundum maris omnia peccata nostra.
 
-**[7:20]** Dabis veritatem Iacob, misericordiam Abraham: quæ iurasti patribus nostris a diebus antiquis.  
+**[7:20]** Dabis veritatem Iacob, misericordiam Abraham: quæ iurasti patribus nostris a diebus antiquis.
 
 ## Nahum
 
@@ -53968,7 +53968,7 @@
 
 **[1:14]** Et præcipiet super te Dominus, non seminabitur ex nomine tuo amplius: de domo Dei tui interficiam sculptile, et conflatile, ponam sepulchrum tuum, quia inhonoratus es.
 
-**[1:15]** Ecce super montes pedes evangelizantis, et annunciantis pacem: celebra Iuda festivitates tuas, et redde vota tua: quia non adiiciet ultra ut pertranseat in te Belial: universus interiit. 
+**[1:15]** Ecce super montes pedes evangelizantis, et annunciantis pacem: celebra Iuda festivitates tuas, et redde vota tua: quia non adiiciet ultra ut pertranseat in te Belial: universus interiit.
 
 ### Chapter 2
 
@@ -53996,7 +53996,7 @@
 
 **[2:12]** Leo cepit sufficienter catulis suis, et necavit leænis suis: et implevit præda speluncas suas, et cubile suum rapina.
 
-**[2:13]** Ecce ego ad te, dicit Dominus exercituum, et succendam usque ad fumum quadrigas tuas, et leunculos tuos comedet gladius: et exterminabo de terra prædam tuam, et non audietur ultra vox nunciorum tuorum. 
+**[2:13]** Ecce ego ad te, dicit Dominus exercituum, et succendam usque ad fumum quadrigas tuas, et leunculos tuos comedet gladius: et exterminabo de terra prædam tuam, et non audietur ultra vox nunciorum tuorum.
 
 ### Chapter 3
 
@@ -54036,7 +54036,7 @@
 
 **[3:18]** Dormitaverunt pastores tui, rex Assur: sepelientur principes tui: latitavit populus tuus in montibus, et non est qui congreget.
 
-**[3:19]** Non est obscura contritio tua, pessima est plaga tua: omnes qui audierunt auditionem tuam, compresserunt manum super te: quia super quem non transiit malitia tua semper?  
+**[3:19]** Non est obscura contritio tua, pessima est plaga tua: omnes qui audierunt auditionem tuam, compresserunt manum super te: quia super quem non transiit malitia tua semper?
 
 ## Habakkuk
 
@@ -54074,7 +54074,7 @@
 
 **[1:16]** propterea immolabit sagenæ suæ, et sacrificabit reti suo: quia in ipsis incrassata est pars eius, et cibus eius electus.
 
-**[1:17]** Propter hoc ergo expandit sagenam suam, et semper interficere Gentes non parcet. 
+**[1:17]** Propter hoc ergo expandit sagenam suam, et semper interficere Gentes non parcet.
 
 ### Chapter 2
 
@@ -54116,7 +54116,7 @@
 
 **[2:19]** Væ qui dicit ligno: Expergiscere: Surge, lapidi tacenti: numquid ipse docere poterit? Ecce iste coopertus est auro, et argento: et omnis spiritus non est in visceribus eius.
 
-**[2:20]** Dominus autem in templo sancto suo: sileat a facie eius omnis terra. 
+**[2:20]** Dominus autem in templo sancto suo: sileat a facie eius omnis terra.
 
 ### Chapter 3
 
@@ -54156,7 +54156,7 @@
 
 **[3:18]** Ego autem in Domino gaudebo: et exultabo in Deo Iesu meo.
 
-**[3:19]** Deus Dominus fortitudo mea: et ponet pedes meos quasi cervorum. Et super excelsa mea deducet me victor in psalmis canentem.  
+**[3:19]** Deus Dominus fortitudo mea: et ponet pedes meos quasi cervorum. Et super excelsa mea deducet me victor in psalmis canentem.
 
 ## Zephaniah
 
@@ -54196,7 +54196,7 @@
 
 **[1:17]** Et tribulabo homines, et ambulabunt ut cæci, quia Domino peccaverunt: et effundetur sanguis eorum sicut humus, et corpora eorum sicut stercora.
 
-**[1:18]** Sed et argentum eorum, et aurum eorum non poterit liberare eos in die iræ Domini: in igne zeli eius devorabitur omnis terra, quia consummationem cum festinatione faciet cunctis habitantibus terram. 
+**[1:18]** Sed et argentum eorum, et aurum eorum non poterit liberare eos in die iræ Domini: in igne zeli eius devorabitur omnis terra, quia consummationem cum festinatione faciet cunctis habitantibus terram.
 
 ### Chapter 2
 
@@ -54228,7 +54228,7 @@
 
 **[2:14]** Et accubabunt in medio eius greges, omnes bestiæ Gentium: et onocrotalus, et ericius in liminibus eius morabuntur: vox cantantis in fenestra, corvus in superliminari, quoniam attenuabo robur eius.
 
-**[2:15]** Hæc est civitas gloriosa habitans in confidentia: quæ dicebat in corde suo: Ego sum, et extra me non est alia amplius: quomodo facta est in desertum cubile bestiæ? omnis, qui transit per eam, sibilabit, et movebit manum suam. 
+**[2:15]** Hæc est civitas gloriosa habitans in confidentia: quæ dicebat in corde suo: Ego sum, et extra me non est alia amplius: quomodo facta est in desertum cubile bestiæ? omnis, qui transit per eam, sibilabit, et movebit manum suam.
 
 ### Chapter 3
 
@@ -54270,7 +54270,7 @@
 
 **[3:19]** Ecce ego interficiam omnes, qui afflixerunt te in tempore illo: et salvabo claudicantem: et eam, quæ eiecta fuerat congregabo: et ponam eos in laudem, et in nomen, in omni terra confusionis eorum.
 
-**[3:20]** In tempore illo, quo adducam vos: et in tempore, quo congregabo vos: dabo enim vos in nomen, et in laudem omnibus populis terræ, cum convertero captivitatem vestram coram oculis vestris, dicit Dominus.  
+**[3:20]** In tempore illo, quo adducam vos: et in tempore, quo congregabo vos: dabo enim vos in nomen, et in laudem omnibus populis terræ, cum convertero captivitatem vestram coram oculis vestris, dicit Dominus.
 
 ## Haggai
 
@@ -54302,7 +54302,7 @@
 
 **[1:13]** Et dixit Aggæus nuncius Domini de nuntiis Domini, populo dicens: Ego vobiscum sum, dicit Dominus.
 
-**[1:14]** Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui. 
+**[1:14]** Et suscitavit Dominus spiritum Zorobabel filii Salathiel, ducis Iuda, et spiritum Iesu filii Iosedec sacerdotis magni, et spiritum reliquorum de omni populo: et ingressi sunt, et faciebant opus in domo Domini exercituum Dei sui.
 
 ### Chapter 2
 
@@ -54352,7 +54352,7 @@
 
 **[2:23]** Et subvertam solium regnorum, et conteram fortitudinem regni Gentium: et subvertam quadrigam, et ascensorem eius: et descendent equi, et ascensores eorum: vir in gladio fratris sui.
 
-**[2:24]** In die illa, dicit Dominus exercituum, assumam te Zorobabel fili Salathiel serve meus, dicit Dominus: et ponam te quasi signaculum, quia te elegi, dicit Dominus exercituum.  
+**[2:24]** In die illa, dicit Dominus exercituum, assumam te Zorobabel fili Salathiel serve meus, dicit Dominus: et ponam te quasi signaculum, quia te elegi, dicit Dominus exercituum.
 
 ## Zechariah
 
@@ -54398,7 +54398,7 @@
 
 **[1:20]** Et ostendit mihi Dominus quattuor fabros.
 
-**[1:21]** Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua, quæ ventilaverunt Iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quæ levaverunt cornu super terram Iuda ut dispergerent eam. 
+**[1:21]** Et dixi: Quid isti veniunt facere? Qui ait, dicens: Hæc sunt cornua, quæ ventilaverunt Iudam per singulos viros, et nemo eorum levavit caput suum: et venerunt isti deterrere ea, ut deiiciant cornua gentium, quæ levaverunt cornu super terram Iuda ut dispergerent eam.
 
 ### Chapter 2
 
@@ -54426,7 +54426,7 @@
 
 **[2:12]** Et possidebit Dominus Iudam partem suam in terra sanctificata: et eliget adhuc Ierusalem.
 
-**[2:13]** Sileat omnis caro a facie Domini: quia consurrexit de habitaculo sancto suo. 
+**[2:13]** Sileat omnis caro a facie Domini: quia consurrexit de habitaculo sancto suo.
 
 ### Chapter 3
 
@@ -54448,7 +54448,7 @@
 
 **[3:9]** Quia ecce lapis, quem dedi coram Iesu: super lapidem unum septem oculi sunt: ecce ego cælabo sculpturam eius, ait Dominus exercituum: et auferam iniquitatem terræ illius in die una.
 
-**[3:10]** In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem, et subter ficum. 
+**[3:10]** In die illa, dicit Dominus exercituum, vocabit vir amicum suum subter vitem, et subter ficum.
 
 ### Chapter 4
 
@@ -54478,7 +54478,7 @@
 
 **[4:13]** Et ait ad me, dicens: Numquid nescis quid sunt hæc? Et dixi: Non, domine mi.
 
-**[4:14]** Et dixit: Isti sunt duo filii olei, qui assistunt Dominatori universæ terræ. 
+**[4:14]** Et dixit: Isti sunt duo filii olei, qui assistunt Dominatori universæ terræ.
 
 ### Chapter 5
 
@@ -54502,7 +54502,7 @@
 
 **[5:10]** Et dixi ad angelum, qui loquebatur in me: Quo istæ deferunt amphoram?
 
-**[5:11]** Et dixit ad me: Ut ædificetur ei domus in terra Sennaar, et stabiliatur, et ponatur ibi super basem suam. 
+**[5:11]** Et dixit ad me: Ut ædificetur ei domus in terra Sennaar, et stabiliatur, et ponatur ibi super basem suam.
 
 ### Chapter 6
 
@@ -54534,7 +54534,7 @@
 
 **[6:14]** Et coronæ erunt Helem, et Tobiæ, et Idaiæ, et Hem, filio Sophoniæ, memoriale in templo Domini.
 
-**[6:15]** Et qui procul sunt, venient, et ædificabunt in templo Domini: et scietis quia Dominus exercituum misit me ad vos. Erit autem hoc, si auditu audieritis vocem Domini Dei vestri. 
+**[6:15]** Et qui procul sunt, venient, et ædificabunt in templo Domini: et scietis quia Dominus exercituum misit me ad vos. Erit autem hoc, si auditu audieritis vocem Domini Dei vestri.
 
 ### Chapter 7
 
@@ -54564,7 +54564,7 @@
 
 **[7:13]** Et factum est sicut locutus est, et non audierunt: sic clamabunt, et non exaudiam, dicit Dominus exercituum.
 
-**[7:14]** Et dispersi eos per omnia regna, quæ nesciunt: et terra desolata est ab eis, eo quod non esset transiens et revertens: et posuerunt terram desiderabilem in desertum. 
+**[7:14]** Et dispersi eos per omnia regna, quæ nesciunt: et terra desolata est ab eis, eo quod non esset transiens et revertens: et posuerunt terram desiderabilem in desertum.
 
 ### Chapter 8
 
@@ -54612,7 +54612,7 @@
 
 **[8:22]** Et venient populi multi, et gentes robustæ ad quærendum Dominum exercituum in Ierusalem, et deprecandam faciem Domini.
 
-**[8:23]** Hæc dicit Dominus exercituum: In diebus illis, in quibus apprehendent decem homines ex omnibus linguis Gentium, et apprehendent fimbriam viri Iudæi, dicentes: Ibimus vobiscum: audivimus enim quoniam Deus vobiscum est. 
+**[8:23]** Hæc dicit Dominus exercituum: In diebus illis, in quibus apprehendent decem homines ex omnibus linguis Gentium, et apprehendent fimbriam viri Iudæi, dicentes: Ibimus vobiscum: audivimus enim quoniam Deus vobiscum est.
 
 ### Chapter 9
 
@@ -54648,7 +54648,7 @@
 
 **[9:16]** Et salvabit eos Dominus Deus eorum in die illa, ut gregem populi sui: quia lapides sancti elevabuntur super terram eius.
 
-**[9:17]** Quid enim bonum eius est, et quid pulchrum eius, nisi frumentum electorum, et vinum germinans virgines? 
+**[9:17]** Quid enim bonum eius est, et quid pulchrum eius, nisi frumentum electorum, et vinum germinans virgines?
 
 ### Chapter 10
 
@@ -54674,7 +54674,7 @@
 
 **[10:11]** et transibit in maris freto, et percutiet in mari fluctus, et confundentur omnia profunda fluminis, et humiliabitur superbia Assur, et sceptrum Ægypti recedet.
 
-**[10:12]** Confortabo eos in Domino, et in nomine eius ambulabunt, dicit Dominus. 
+**[10:12]** Confortabo eos in Domino, et in nomine eius ambulabunt, dicit Dominus.
 
 ### Chapter 11
 
@@ -54710,7 +54710,7 @@
 
 **[11:16]** Quia ecce ego suscitabo pastorem in terra, qui derelicta non visitabit, dispersum non quæret, et contritum non sanabit, et id quod stat non enutriet, et carnes pinguium comedet, et ungulas eorum dissolvet.
 
-**[11:17]** O pastor, et idolum, derelinquens gregem: gladius super brachium eius, et super oculum dextrum eius: brachium eius ariditate siccabitur, et oculus dexter eius tenebrescens obscurabitur. 
+**[11:17]** O pastor, et idolum, derelinquens gregem: gladius super brachium eius, et super oculum dextrum eius: brachium eius ariditate siccabitur, et oculus dexter eius tenebrescens obscurabitur.
 
 ### Chapter 12
 
@@ -54740,7 +54740,7 @@
 
 **[12:13]** familiæ domus Nathan seorsum, et mulieres eorum seorsum: familiæ domus Levi seorsum, et mulieres eorum seorsum: familiæ Semei seorsum, et mulieres eorum seorsum.
 
-**[12:14]** Omnes familiæ reliquæ, familiæ et familiæ seorsum, et mulieres eorum seorsum. 
+**[12:14]** Omnes familiæ reliquæ, familiæ et familiæ seorsum, et mulieres eorum seorsum.
 
 ### Chapter 13
 
@@ -54760,7 +54760,7 @@
 
 **[13:8]** Et erunt in omni terra, dicit Dominus: partes duæ in ea dispergentur, et deficient: et tertia pars relinquetur in ea.
 
-**[13:9]** Et ducam tertiam partem per ignem, et uram eos sicut uritur argentum: et probabo eos sicut probatur aurum. Ipse vocabit nomen meum, et ego exaudiam eum. Dicam: Populus meus es; et ipse dicet: Dominus Deus meus. 
+**[13:9]** Et ducam tertiam partem per ignem, et uram eos sicut uritur argentum: et probabo eos sicut probatur aurum. Ipse vocabit nomen meum, et ego exaudiam eum. Dicam: Populus meus es; et ipse dicet: Dominus Deus meus.
 
 ### Chapter 14
 
@@ -54804,7 +54804,7 @@
 
 **[14:20]** In die illa erit quod super frenum equi est, sanctum Domino: et erunt lebetes in domo Domini quasi phialæ coram altari.
 
-**[14:21]** Et erit omnis lebes in Ierusalem, et in Iuda sanctificatus Domino exercituum: et venient omnes immolantes, et sument ex eis, et coquent in eis: et non erit mercator ultra in domo Domini exercituum in die illo.  
+**[14:21]** Et erit omnis lebes in Ierusalem, et in Iuda sanctificatus Domino exercituum: et venient omnes immolantes, et sument ex eis, et coquent in eis: et non erit mercator ultra in domo Domini exercituum in die illo.
 
 ## Malachi
 
@@ -54836,7 +54836,7 @@
 
 **[1:13]** Et dixistis: Ecce de labore, et exufflastis illud, dicit Dominus exercituum, et intulistis de rapinis claudum, et languidum, et intulistis munus: numquid suscipiam illud de manu vestra, dicit Dominus?
 
-**[1:14]** Maledictus dolosus, qui habet in grege suo masculum, et votum faciens immolat debile Domino: quia Rex magnus ego, dicit Dominus exercituum, et nomen meum horribile in Gentibus. 
+**[1:14]** Maledictus dolosus, qui habet in grege suo masculum, et votum faciens immolat debile Domino: quia Rex magnus ego, dicit Dominus exercituum, et nomen meum horribile in Gentibus.
 
 ### Chapter 2
 
@@ -54872,7 +54872,7 @@
 
 **[2:16]** Cum odio habueris, dimitte, dicit Dominus Deus Israel: operiet autem iniquitas vestimentum eius, dicit Dominus exercituum: custodite spiritum vestrum, et nolite despicere.
 
-**[2:17]** Laborare fecistis Dominum in sermonibus vestris: et dixistis: In quo eum fecimus laborare? In eo quod dicitis: Omnis qui facit malum, bonus est in conspectu Domini, et tales ei placent: aut certe ubi est Deus iudicii? 
+**[2:17]** Laborare fecistis Dominum in sermonibus vestris: et dixistis: In quo eum fecimus laborare? In eo quod dicitis: Omnis qui facit malum, bonus est in conspectu Domini, et tales ei placent: aut certe ubi est Deus iudicii?
 
 ### Chapter 3
 
@@ -54910,7 +54910,7 @@
 
 **[3:17]** Et erunt mihi, ait Dominus exercituum, in die, qua ego facio, in peculium: et parcam eis, sicut parcit vir filio suo servienti sibi.
 
-**[3:18]** Et convertemini, et videbitis quid sit inter iustum, et impium: et inter servientem Deo, et non servientem ei. 
+**[3:18]** Et convertemini, et videbitis quid sit inter iustum, et impium: et inter servientem Deo, et non servientem ei.
 
 ### Chapter 4
 
@@ -54924,7 +54924,7 @@
 
 **[4:5]** Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus, et horribilis.
 
-**[4:6]** Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.  
+**[4:6]** Et convertet cor patrum ad filios, et cor filiorum ad patres eorum: ne forte veniam, et percutiam terram anathemate.
 
 ## I Maccabees
 
@@ -55062,7 +55062,7 @@
 
 **[1:66]** et noluerunt infringere legem Dei sanctam, et trucidati sunt:
 
-**[1:67]** et facta est ira magna super populum valde. 
+**[1:67]** et facta est ira magna super populum valde.
 
 ### Chapter 2
 
@@ -55204,7 +55204,7 @@
 
 **[2:69]** Et benedixit eos, et appositus est ad patres suos.
 
-**[2:70]** Et defunctus est anno centesimo et quadragesimo sexto: et sepultus est a filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israel planctu magno. 
+**[2:70]** Et defunctus est anno centesimo et quadragesimo sexto: et sepultus est a filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israel planctu magno.
 
 ### Chapter 3
 
@@ -55326,7 +55326,7 @@
 
 **[3:59]** quoniam melius est nos mori in bello, quam videre mala gentis nostræ, et sanctorum.
 
-**[3:60]** Sicut autem fuerit voluntas in cælo, sic fiat. 
+**[3:60]** Sicut autem fuerit voluntas in cælo, sic fiat.
 
 ### Chapter 4
 
@@ -55450,7 +55450,7 @@
 
 **[4:60]** et ædificaverunt in tempore illo montem Sion, et per circuitum muros altos, et turres firmas, nequando venirent Gentes, et conculcarent eum sicut antea fecerunt.
 
-**[4:61]** Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumææ. 
+**[4:61]** Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumææ.
 
 ### Chapter 5
 
@@ -55588,7 +55588,7 @@
 
 **[5:67]** In die illa ceciderunt sacerdotes in bello, dum volunt fortiter facere, dum sine consilio exeunt in prælium.
 
-**[5:68]** Et declinavit Iudas in Azotum in terram alienigenarum, et diruit aras eorum, et sculptilia deorum ipsorum succendit igni: et cepit spolia civitatum, et reversus est in terram Iuda. 
+**[5:68]** Et declinavit Iudas in Azotum in terram alienigenarum, et diruit aras eorum, et sculptilia deorum ipsorum succendit igni: et cepit spolia civitatum, et reversus est in terram Iuda.
 
 ### Chapter 6
 
@@ -55716,7 +55716,7 @@
 
 **[6:62]** Et intravit rex montem Sion, et vidit munitionem loci: et rupit citius iuramentum, quod iuravit: et mandavit destruere murum in gyro.
 
-**[6:63]** Et discessit festinanter, et reversus est Antiochiam, et invenit Philippum dominantem civitati: et pugnavit adversus eum, et occupavit civitatem. 
+**[6:63]** Et discessit festinanter, et reversus est Antiochiam, et invenit Philippum dominantem civitati: et pugnavit adversus eum, et occupavit civitatem.
 
 ### Chapter 7
 
@@ -55818,7 +55818,7 @@
 
 **[7:49]** Et constituit agi omnibus annis diem istam tertiadecima die mensis Adar.
 
-**[7:50]** Et siluit terra Iuda dies paucos. 
+**[7:50]** Et siluit terra Iuda dies paucos.
 
 ### Chapter 8
 
@@ -55884,7 +55884,7 @@
 
 **[8:31]** Sed et de malis, quæ Demetrius rex fecit in eos, scripsimus ei, dicentes: Quare gravasti iugum tuum super amicos nostros, et socios Iudæos?
 
-**[8:32]** Si ergo iterum adierint nos, adversum te faciemus illis iudicium, et pugnabimus tecum mari terraque. 
+**[8:32]** Si ergo iterum adierint nos, adversum te faciemus illis iudicium, et pugnabimus tecum mari terraque.
 
 ### Chapter 9
 
@@ -56032,7 +56032,7 @@
 
 **[9:72]** Et reddidit ei captivitatem, quam prius erat prædatus de terra Iuda: et conversus abiit in terram suam, et non apposuit amplius venire in fines eius:
 
-**[9:73]** Et cessavit gladius ex Israel: et habitavit Ionathas in Machmas, et cœpit Ionathas ibi iudicare populum, et exterminavit impios ex Israel. 
+**[9:73]** Et cessavit gladius ex Israel: et habitavit Ionathas in Machmas, et cœpit Ionathas ibi iudicare populum, et exterminavit impios ex Israel.
 
 ### Chapter 10
 
@@ -56212,7 +56212,7 @@
 
 **[10:88]** Et factum est: ut audivit Alexander rex sermones istos, addidit adhuc glorificare Ionathan.
 
-**[10:89]** Et misit ei fibulam auream, sicut consuetudo est dari cognatis regum. Et dedit ei Accaron, et omnes fines eius in possessionem. 
+**[10:89]** Et misit ei fibulam auream, sicut consuetudo est dari cognatis regum. Et dedit ei Accaron, et omnes fines eius in possessionem.
 
 ### Chapter 11
 
@@ -56362,7 +56362,7 @@
 
 **[11:73]** Et viderunt qui fugiebant partis illius, et reversi sunt ad eum, et insequebantur cum eo omnes usque Cades ad castra sua, et pervenerunt usque illuc.
 
-**[11:74]** et ceciderunt de alienigenis in die illa tria millia virorum: et reversus est Ionathas in Ierusalem. 
+**[11:74]** et ceciderunt de alienigenis in die illa tria millia virorum: et reversus est Ionathas in Ierusalem.
 
 ### Chapter 12
 
@@ -56472,7 +56472,7 @@
 
 **[12:53]** Et quæsierunt omnes gentes, quæ erant in circuitu eorum, conterere eos. dixerunt enim:
 
-**[12:54]** Non habent principem, et adiuvantem: nunc ergo expugnemus illos, et tollamus de hominibus memoriam eorum. 
+**[12:54]** Non habent principem, et adiuvantem: nunc ergo expugnemus illos, et tollamus de hominibus memoriam eorum.
 
 ### Chapter 13
 
@@ -56582,7 +56582,7 @@
 
 **[13:53]** Et munivit montem templi, qui erat secus arcem, et habitavit ibi ipse, et qui cum eo erant.
 
-**[13:54]** Et vidit Simon Ioannem filium suum, quod fortis prælii vir esset: et posuit eum ducem virtutum universarum: et habitavit in Gazaris. 
+**[13:54]** Et vidit Simon Ioannem filium suum, quod fortis prælii vir esset: et posuit eum ducem virtutum universarum: et habitavit in Gazaris.
 
 ### Chapter 14
 
@@ -56682,7 +56682,7 @@
 
 **[14:48]** Et scripturam istam dixerunt ponere in tabulis æreis, et ponere eas in peribolo sanctorum, in loco celebri:
 
-**[14:49]** exemplum autem eorum ponere in ærario, ut habeat Simon, et filii eius. 
+**[14:49]** exemplum autem eorum ponere in ærario, ut habeat Simon, et filii eius.
 
 ### Chapter 15
 
@@ -56766,7 +56766,7 @@
 
 **[15:40]** Et pervenit Cendebæus Iamniam, et cœpit irritare plebem, et conculcare Iudæam, et captivare populum, et interficere, et ædificare Gedorem.
 
-**[15:41]** Et collocavit illic equites, et exercitum: ut egressi perambularent viam Iudææ, sicut constituit ei rex. 
+**[15:41]** Et collocavit illic equites, et exercitum: ut egressi perambularent viam Iudææ, sicut constituit ei rex.
 
 ### Chapter 16
 
@@ -56816,7 +56816,7 @@
 
 **[16:23]** Et cetera sermonum Ioannis, et bellorum eius, et bonarum virtutum, quibus fortiter gessit, et ædificii murorum, quos extruxit, et rerum gestarum eius:
 
-**[16:24]** ecce hæc scripta sunt in libro dierum sacerdotii eius, ex quo factus est princeps sacerdotum post patrem suum.  
+**[16:24]** ecce hæc scripta sunt in libro dierum sacerdotii eius, ex quo factus est princeps sacerdotum post patrem suum.
 
 ## II Maccabees
 
@@ -56892,7 +56892,7 @@
 
 **[1:35]** et cum probasset, sacerdotibus donavit multa bona, et alia atque alia munera, et accipiens manu sua, tribuebat eis.
 
-**[1:36]** Appellavit autem Nehemias hunc locum Nephthar, quod interpretatur Purificatio. Vocatur autem apud plures Nephi. 
+**[1:36]** Appellavit autem Nehemias hunc locum Nephthar, quod interpretatur Purificatio. Vocatur autem apud plures Nephi.
 
 ### Chapter 2
 
@@ -56960,7 +56960,7 @@
 
 **[2:32]** brevitatem vero dictionis sectari, et executiones rerum vitare, brevianti concedendum est.
 
-**[2:33]** Hinc ergo narrationem incipiemus: de præfatione tantum dixisse sufficiat. stultum etenim est ante historiam effluere, in ipsa autem historia succingi. 
+**[2:33]** Hinc ergo narrationem incipiemus: de præfatione tantum dixisse sufficiat. stultum etenim est ante historiam effluere, in ipsa autem historia succingi.
 
 ### Chapter 3
 
@@ -57042,7 +57042,7 @@
 
 **[3:39]** Nam ipse, qui habet in cælis habitationem, visitator, et adiutor est loci illius, et venientes ad malefaciendum percutit, ac perdit.
 
-**[3:40]** Igitur de Heliodoro, et ærarii custodia ita res se habet. 
+**[3:40]** Igitur de Heliodoro, et ærarii custodia ita res se habet.
 
 ### Chapter 4
 
@@ -57144,7 +57144,7 @@
 
 **[4:49]** Quam ob rem Tyrii quoque indignati, erga sepulturam eorum liberalissimi extiterunt.
 
-**[4:50]** Menelaus autem, propter eorum, qui in potentia erant, avaritiam, permanebat in potestate, crescens in malitia ad insidias civium. 
+**[4:50]** Menelaus autem, propter eorum, qui in potentia erant, avaritiam, permanebat in potestate, crescens in malitia ad insidias civium.
 
 ### Chapter 5
 
@@ -57200,7 +57200,7 @@
 
 **[5:26]** Omnesque qui ad spectaculum processerant, trucidavit: et civitatem cum armatis discurrens, ingentem multitudinem peremit.
 
-**[5:27]** Iudas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis. 
+**[5:27]** Iudas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat: et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.
 
 ### Chapter 6
 
@@ -57264,7 +57264,7 @@
 
 **[6:30]** Sed, cum plagis perimeretur, ingemuit, et dixit: Domine, qui habes sanctam scientiam, manifeste tu scis, quia, cum a morte possem liberari, duros corporis sustineo dolores: secundum animam vero propter timorem tuum libenter hæc patior.
 
-**[6:31]** Et iste quidem hoc modo vita decessit, non solum iuvenibus, sed et universæ genti memoriam mortis suæ ad exemplum virtutis et fortitudinis derelinquens. 
+**[6:31]** Et iste quidem hoc modo vita decessit, non solum iuvenibus, sed et universæ genti memoriam mortis suæ ad exemplum virtutis et fortitudinis derelinquens.
 
 ### Chapter 7
 
@@ -57350,7 +57350,7 @@
 
 **[7:41]** Novissime autem post filios et mater consumpta est.
 
-**[7:42]** Igitur de sacrificiis, et de nimiis crudelitatibus satis dictum est. 
+**[7:42]** Igitur de sacrificiis, et de nimiis crudelitatibus satis dictum est.
 
 ### Chapter 8
 
@@ -57424,7 +57424,7 @@
 
 **[8:35]** humiliatus auxilio Domini ab his, quos nullos existimaverat, deposita veste gloriæ, per mediterranea fugiens, solus venit Antiochiam, summam infelicitatem de interitu sui exercitus consecutus.
 
-**[8:36]** Et qui promiserat Romanis se tributum restituere de captivitate Ierosolymorum, prædicabat nunc protectorem Deum habere Iudæos, et ob ipsum invulnerabiles esse, eo quod sequerentur leges ab ipso constitutas. 
+**[8:36]** Et qui promiserat Romanis se tributum restituere de captivitate Ierosolymorum, prædicabat nunc protectorem Deum habere Iudæos, et ob ipsum invulnerabiles esse, eo quod sequerentur leges ab ipso constitutas.
 
 ### Chapter 9
 
@@ -57484,7 +57484,7 @@
 
 **[9:28]** Igitur homicida, et blasphemus pessime percussus, et ut ipse alios tractaverat, peregre in montibus miserabili obitu vita functus est.
 
-**[9:29]** Transferebat autem corpus Philippus collactaneus eius: qui, metuens filium Antiochi, ad Ptolemæum Philometorem in Ægyptum abiit. 
+**[9:29]** Transferebat autem corpus Philippus collactaneus eius: qui, metuens filium Antiochi, ad Ptolemæum Philometorem in Ægyptum abiit.
 
 ### Chapter 10
 
@@ -57562,7 +57562,7 @@
 
 **[10:37]** Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam repertum loco peremerunt: et fratrem illius Chæream, et Apollophanem occiderunt.
 
-**[10:38]** Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israel, et victoriam dedit illis. 
+**[10:38]** Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israel, et victoriam dedit illis.
 
 ### Chapter 11
 
@@ -57640,7 +57640,7 @@
 
 **[11:37]** Ideoque festinate rescribere, ut nos quoque sciamus cuius estis voluntatis.
 
-**[11:38]** Bene valete. Anno centesimo quadragesimo octavo, quintadecima die mensis Xanthici. 
+**[11:38]** Bene valete. Anno centesimo quadragesimo octavo, quintadecima die mensis Xanthici.
 
 ### Chapter 12
 
@@ -57734,7 +57734,7 @@
 
 **[12:45]** et quia considerabat quod hi, qui cum pietate dormitionem acceperant, optimam haberent repositam gratiam.
 
-**[12:46]** Sancta ergo, et salubris est cogitatio pro defunctis exorare, ut a peccatis solvantur. 
+**[12:46]** Sancta ergo, et salubris est cogitatio pro defunctis exorare, ut a peccatis solvantur.
 
 ### Chapter 13
 
@@ -57788,7 +57788,7 @@
 
 **[13:25]** Ut autem venit Ptolemaidam, graviter ferebant Ptolemenses amicitiæ conventionem, indignantes ne forte fœdus irrumperent.
 
-**[13:26]** Tunc ascendit Lysias tribunal, et exposuit rationem, et populum sedavit, regressusque est Antiochiam: et hoc modo regis profectio, et reditus processit. 
+**[13:26]** Tunc ascendit Lysias tribunal, et exposuit rationem, et populum sedavit, regressusque est Antiochiam: et hoc modo regis profectio, et reditus processit.
 
 ### Chapter 14
 
@@ -57882,7 +57882,7 @@
 
 **[14:45]** et cum adhuc spiraret, accensus animo, surrexit: et cum sanguis eius magno fluxu deflueret, et gravissimis vulneribus esset saucius, cursu turbam pertransiit:
 
-**[14:46]** et stans supra quamdam petram præruptam, et iam exanguis effectus, complexus intestina sua, utrisque manibus proiecit super turbas, invocans dominatorem vitæ ac spiritus, ut hæc illi iterum redderet: atque ita vita defunctus est. 
+**[14:46]** et stans supra quamdam petram præruptam, et iam exanguis effectus, complexus intestina sua, utrisque manibus proiecit super turbas, invocans dominatorem vitæ ac spiritus, ut hæc illi iterum redderet: atque ita vita defunctus est.
 
 ### Chapter 15
 
@@ -57964,7 +57964,7 @@
 
 **[15:39]** Et si quidem bene, et ut historiæ competit, hoc et ipse velim: sin autem minus digne, concedendum est mihi.
 
-**[15:40]** Sicut enim vinum semper bibere, aut semper aquam, contrarium est: alternis autem uti, delectabile: ita legentibus si semper exactus sit sermo, non erit gratus. Hic ergo erit consummatus.  
+**[15:40]** Sicut enim vinum semper bibere, aut semper aquam, contrarium est: alternis autem uti, delectabile: ita legentibus si semper exactus sit sermo, non erit gratus. Hic ergo erit consummatus.
 
 ## Matthew
 
@@ -58018,7 +58018,7 @@
 
 **[1:24]** Exurgens autem Ioseph a somno, fecit sicut præcepit ei angelus Domini, et accepit coniugem suam.
 
-**[1:25]** Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum. 
+**[1:25]** Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen eius Iesum.
 
 ### Chapter 2
 
@@ -58066,7 +58066,7 @@
 
 **[2:22]** Audiens autem quod Archelaus regnaret in Iudæa pro Herode patre suo, timuit illo ire: et admonitus in somnis, secessit in partes Galilææ.
 
-**[2:23]** Et veniens habitavit in civitate quæ vocatur Nazareth: ut adimpleretur quod dictum est per Prophetas: Quoniam Nazaræus vocabitur. 
+**[2:23]** Et veniens habitavit in civitate quæ vocatur Nazareth: ut adimpleretur quod dictum est per Prophetas: Quoniam Nazaræus vocabitur.
 
 ### Chapter 3
 
@@ -58102,7 +58102,7 @@
 
 **[3:16]** Baptizatus autem Iesus, confestim ascendit de aqua, et ecce aperti sunt ei cæli: et vidit spiritum Dei descendentem sicut columbam, et venientem super se.
 
-**[3:17]** Et ecce vox de cælis dicens: Hic est filius meus dilectus, in quo mihi complacui. 
+**[3:17]** Et ecce vox de cælis dicens: Hic est filius meus dilectus, in quo mihi complacui.
 
 ### Chapter 4
 
@@ -58154,7 +58154,7 @@
 
 **[4:24]** Et abiit opinio eius in totam Syriam, et obtulerunt ei omnes male habentes, variis languoribus, et tormentis comprehensos, et qui dæmonia habebant, et lunaticos, et paralyticos, et curavit eos:
 
-**[4:25]** et secutæ sunt eum turbæ multæ de Galilæa, et Decapoli, et de Ierosolymis, et de Iudæa, et de trans Iordanem. 
+**[4:25]** et secutæ sunt eum turbæ multæ de Galilæa, et Decapoli, et de Ierosolymis, et de Iudæa, et de trans Iordanem.
 
 ### Chapter 5
 
@@ -58252,7 +58252,7 @@
 
 **[5:47]** Et si salutaveritis fratres vestros tantum, quid amplius facitis? nonne et ethnici hoc faciunt?
 
-**[5:48]** Estote ergo vos perfecti, sicut et pater vester cælestis perfectus est. 
+**[5:48]** Estote ergo vos perfecti, sicut et pater vester cælestis perfectus est.
 
 ### Chapter 6
 
@@ -58322,7 +58322,7 @@
 
 **[6:33]** Quærite ergo primum regnum Dei, et iustitiam eius: et hæc omnia adiicientur vobis.
 
-**[6:34]** Nolite ergo soliciti esse in crastinum. Crastinus enim dies solicitus erit sibiipsi. sufficit diei malitia sua. 
+**[6:34]** Nolite ergo soliciti esse in crastinum. Crastinus enim dies solicitus erit sibiipsi. sufficit diei malitia sua.
 
 ### Chapter 7
 
@@ -58382,7 +58382,7 @@
 
 **[7:28]** Et factum est: cum consummasset Iesus verba hæc, admirabantur turbæ super doctrina eius.
 
-**[7:29]** Erat enim docens eos sicut potestatem habens, et non sicut Scribæ eorum, et Pharisæi. 
+**[7:29]** Erat enim docens eos sicut potestatem habens, et non sicut Scribæ eorum, et Pharisæi.
 
 ### Chapter 8
 
@@ -58452,7 +58452,7 @@
 
 **[8:33]** Pastores autem fugerunt: et venientes in civitatem, nunciaverunt omnia, et de eis, qui dæmonia habuerant.
 
-**[8:34]** Et ecce tota civitas exiit obviam Iesu: et viso eo rogabant, ut transiret a finibus eorum. 
+**[8:34]** Et ecce tota civitas exiit obviam Iesu: et viso eo rogabant, ut transiret a finibus eorum.
 
 ### Chapter 9
 
@@ -58530,7 +58530,7 @@
 
 **[9:37]** Tunc dicit discipulis suis: Messis quidem multa, operarii autem pauci.
 
-**[9:38]** Rogate ergo Dominum messis, ut mittat operarios in messem suam. 
+**[9:38]** Rogate ergo Dominum messis, ut mittat operarios in messem suam.
 
 ### Chapter 10
 
@@ -58616,7 +58616,7 @@
 
 **[10:41]** Qui recipit prophetam in nomine prophetæ, mercedem prophetæ accipiet: et qui recipit iustum in nomine iusti, mercedem iusti accipiet.
 
-**[10:42]** Et quicumque potum dederit uni ex minimis istis calicem aquæ frigidæ tantum in nomine discipuli: amen dico vobis, non perdet mercedem suam. 
+**[10:42]** Et quicumque potum dederit uni ex minimis istis calicem aquæ frigidæ tantum in nomine discipuli: amen dico vobis, non perdet mercedem suam.
 
 ### Chapter 11
 
@@ -58678,7 +58678,7 @@
 
 **[11:29]** Tollite iugum meum super vos, et discite a me, quia mitis sum, et humilis corde: et invenietis requiem animabus vestris.
 
-**[11:30]** Iugum enim meum suave est, et onus meum leve. 
+**[11:30]** Iugum enim meum suave est, et onus meum leve.
 
 ### Chapter 12
 
@@ -58780,7 +58780,7 @@
 
 **[12:49]** Et extendens manum in discipulos suos, dixit: Ecce mater mea, et fratres mei.
 
-**[12:50]** Quicumque enim fecerit voluntatem Patris mei, qui in cælis est: ipse meus frater, et soror, et mater est. 
+**[12:50]** Quicumque enim fecerit voluntatem Patris mei, qui in cælis est: ipse meus frater, et soror, et mater est.
 
 ### Chapter 13
 
@@ -58898,7 +58898,7 @@
 
 **[13:57]** Et scandalizabantur in eo. Iesus autem dixit eis: Non est propheta sine honore nisi in patria sua, et in domo sua.
 
-**[13:58]** Et non fecit ibi virtutes multas propter incredulitatem illorum. 
+**[13:58]** Et non fecit ibi virtutes multas propter incredulitatem illorum.
 
 ### Chapter 14
 
@@ -58972,7 +58972,7 @@
 
 **[14:35]** Et cum cognovissent eum viri loci illius, miserunt in universam regionem illam, et obtulerunt ei omnes male habentes:
 
-**[14:36]** et rogabant eum ut vel fimbriam vestimenti eius tangerent. Et quicumque tetigerunt, salvi facti sunt. 
+**[14:36]** et rogabant eum ut vel fimbriam vestimenti eius tangerent. Et quicumque tetigerunt, salvi facti sunt.
 
 ### Chapter 15
 
@@ -59052,7 +59052,7 @@
 
 **[15:38]** Erant autem qui manducaverunt, quattuor millia hominum, extra parvulos, et mulieres.
 
-**[15:39]** Et, dimissa turba, ascendit in naviculam: et venit in fines Magedan. 
+**[15:39]** Et, dimissa turba, ascendit in naviculam: et venit in fines Magedan.
 
 ### Chapter 16
 
@@ -59110,7 +59110,7 @@
 
 **[16:27]** Filius enim hominis venturus est in gloria Patris sui cum angelis suis: et tunc reddet unicuique secundum opera eius.
 
-**[16:28]** Amen dico vobis, sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo. 
+**[16:28]** Amen dico vobis, sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo.
 
 ### Chapter 17
 
@@ -59164,7 +59164,7 @@
 
 **[17:25]** Et ille dixit: Ab alienis. Dixit illi Iesus: Ergo liberi sunt filii.
 
-**[17:26]** Ut autem non scandalizemus eos, vade ad mare, et mitte hamum: et eum piscem, qui primus ascenderit, tolle: et aperto ore eius, invenies staterem: illum sumens, da eis pro me, et te. 
+**[17:26]** Ut autem non scandalizemus eos, vade ad mare, et mitte hamum: et eum piscem, qui primus ascenderit, tolle: et aperto ore eius, invenies staterem: illum sumens, da eis pro me, et te.
 
 ### Chapter 18
 
@@ -59236,7 +59236,7 @@
 
 **[18:34]** Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet universum debitum.
 
-**[18:35]** Sic et Pater meus cælestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris. 
+**[18:35]** Sic et Pater meus cælestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris.
 
 ### Chapter 19
 
@@ -59298,7 +59298,7 @@
 
 **[19:29]** Et omnis, qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem, aut uxorem, aut filios, aut agros propter nomen meum, centuplum accipiet, et vitam æternam possidebit.
 
-**[19:30]** Multi autem erunt primi novissimi, et novissimi primi. 
+**[19:30]** Multi autem erunt primi novissimi, et novissimi primi.
 
 ### Chapter 20
 
@@ -59368,7 +59368,7 @@
 
 **[20:33]** Dicunt illi: Domine, ut aperiantur oculi nostri.
 
-**[20:34]** Misertus autem eorum Iesus, tetigit oculos eorum. Et confestim viderunt, et secuti sunt eum. 
+**[20:34]** Misertus autem eorum Iesus, tetigit oculos eorum. Et confestim viderunt, et secuti sunt eum.
 
 ### Chapter 21
 
@@ -59462,7 +59462,7 @@
 
 **[21:45]** Et cum audissent principes sacerdotum, et Pharisæi parabolas eius, cognoverunt quod de ipsis diceret.
 
-**[21:46]** Et quærentes eum tenere, timuerunt turbas: quoniam sicut prophetam eum habebant. 
+**[21:46]** Et quærentes eum tenere, timuerunt turbas: quoniam sicut prophetam eum habebant.
 
 ### Chapter 22
 
@@ -59556,7 +59556,7 @@
 
 **[22:45]** Si ergo David vocat eum Dominum, quomodo filius eius est?
 
-**[22:46]** et nemo poterat ei respondere verbum: neque ausus fuit quisquam ex illa die eum amplius interrogare. 
+**[22:46]** et nemo poterat ei respondere verbum: neque ausus fuit quisquam ex illa die eum amplius interrogare.
 
 ### Chapter 23
 
@@ -59636,7 +59636,7 @@
 
 **[23:38]** Ecce relinquetur vobis domus vestra deserta.
 
-**[23:39]** Dico enim vobis, non me videbitis amodo, donec dicatis: Benedictus, qui venit in nomine Domini. 
+**[23:39]** Dico enim vobis, non me videbitis amodo, donec dicatis: Benedictus, qui venit in nomine Domini.
 
 ### Chapter 24
 
@@ -59740,7 +59740,7 @@
 
 **[24:50]** veniet dominus servi illius in die, qua non sperat, et hora, qua ignorat:
 
-**[24:51]** et dividet eum, partemque eius ponet cum hypocritis. illic erit fletus, et stridor dentium. 
+**[24:51]** et dividet eum, partemque eius ponet cum hypocritis. illic erit fletus, et stridor dentium.
 
 ### Chapter 25
 
@@ -59834,7 +59834,7 @@
 
 **[25:45]** Tunc respondebit illis dicens: Amen dico vobis: Quamdiu non fecistis uni de minoribus his, nec mihi fecistis.
 
-**[25:46]** Et ibunt hi in supplicium æternum: iusti autem in vitam æternam. 
+**[25:46]** Et ibunt hi in supplicium æternum: iusti autem in vitam æternam.
 
 ### Chapter 26
 
@@ -59986,7 +59986,7 @@
 
 **[26:74]** Tunc cœpit detestari, et iurare quia non novisset hominem. Et continuo gallus cantavit.
 
-**[26:75]** Et recordatus est Petrus verbi Iesu, quod dixerat: Prius quam gallus cantet, ter me negabis. Et egressus foras, flevit amare. 
+**[26:75]** Et recordatus est Petrus verbi Iesu, quod dixerat: Prius quam gallus cantet, ter me negabis. Et egressus foras, flevit amare.
 
 ### Chapter 27
 
@@ -60120,7 +60120,7 @@
 
 **[27:65]** Ait illis Pilatus: Habetis custodiam, ite, custodite sicut scitis.
 
-**[27:66]** Illi autem abeuntes, munierunt sepulchrum, signantes lapidem, cum custodibus. 
+**[27:66]** Illi autem abeuntes, munierunt sepulchrum, signantes lapidem, cum custodibus.
 
 ### Chapter 28
 
@@ -60162,7 +60162,7 @@
 
 **[28:19]** euntes ergo docete omnes gentes: baptizantes eos in nomine Patris, et Filii, et Spiritus sancti:
 
-**[28:20]** docentes eos servare omnia quæcumque mandavi vobis: et ecce ego vobiscum sum omnibus diebus, usque ad consummationem sæculi.  
+**[28:20]** docentes eos servare omnia quæcumque mandavi vobis: et ecce ego vobiscum sum omnibus diebus, usque ad consummationem sæculi.
 
 ## Mark
 
@@ -60256,7 +60256,7 @@
 
 **[1:44]** et dicit ei: Vide nemini dixeris: sed vade, ostende te principi sacerdotum, et offer pro emundatione tua, quæ præcepit Moyses in testimonium illis.
 
-**[1:45]** At ille egressus cœpit prædicare, et diffamare sermonem, ita ut iam non posset manifeste introire in civitatem, sed foris in desertis locis esset, et conveniebant ad eum undique. 
+**[1:45]** At ille egressus cœpit prædicare, et diffamare sermonem, ita ut iam non posset manifeste introire in civitatem, sed foris in desertis locis esset, et conveniebant ad eum undique.
 
 ### Chapter 2
 
@@ -60314,7 +60314,7 @@
 
 **[2:27]** Et dicebat eis: Sabbatum propter hominem factum est, et non homo propter sabbatum.
 
-**[2:28]** Itaque Dominus est filius hominis, etiam sabbati. 
+**[2:28]** Itaque Dominus est filius hominis, etiam sabbati.
 
 ### Chapter 3
 
@@ -60386,7 +60386,7 @@
 
 **[3:34]** Et circumspiciens eos, qui in circuitu eius sedebant, ait: Ecce mater mea, et fratres mei.
 
-**[3:35]** Qui enim fecerit voluntatem Dei, hic frater meus, et soror mea, et mater est. 
+**[3:35]** Qui enim fecerit voluntatem Dei, hic frater meus, et soror mea, et mater est.
 
 ### Chapter 4
 
@@ -60468,7 +60468,7 @@
 
 **[4:39]** Et exurgens comminatus est vento, et dixit mari: Tace, obmutesce. Et cessavit ventus: et facta est tranquillitas magna.
 
-**[4:40]** Et ait illis: Quid timidi estis? necdum habetis fidem? et timuerunt timore magno, et dicebant ad alterutrum: Quis, putas, est iste, quia et ventus et mare obediunt ei? 
+**[4:40]** Et ait illis: Quid timidi estis? necdum habetis fidem? et timuerunt timore magno, et dicebant ad alterutrum: Quis, putas, est iste, quia et ventus et mare obediunt ei?
 
 ### Chapter 5
 
@@ -60556,7 +60556,7 @@
 
 **[5:42]** et confestim surrexit puella, et ambulabat: erat autem annorum duodecim: et obstupuerunt stupore magno.
 
-**[5:43]** Et præcepit illis vehementer ut nemo id sciret: et dixit dari illi manducare. 
+**[5:43]** Et præcepit illis vehementer ut nemo id sciret: et dixit dari illi manducare.
 
 ### Chapter 6
 
@@ -60670,7 +60670,7 @@
 
 **[6:55]** et percurrentes universam regionem illam, cœperunt in grabatis eos, qui se male habebant, circumferre, ubi audiebant eum esse.
 
-**[6:56]** Et quocumque introibat, in vicos, vel in villas, aut civitates, in plateis ponebant infirmos, et deprecabantur eum, ut vel fimbriam vestimenti eius tangerent, et quotquot tangebant eum, salvi fiebant. 
+**[6:56]** Et quocumque introibat, in vicos, vel in villas, aut civitates, in plateis ponebant infirmos, et deprecabantur eum, ut vel fimbriam vestimenti eius tangerent, et quotquot tangebant eum, salvi fiebant.
 
 ### Chapter 7
 
@@ -60746,7 +60746,7 @@
 
 **[7:36]** Et præcepit illis ne cui dicerent. Quanto autem eis præcipiebat, tanto magis plus prædicabant:
 
-**[7:37]** et eo amplius admirabantur, dicentes: Bene omnia fecit: et surdos fecit audire, et mutos loqui. 
+**[7:37]** et eo amplius admirabantur, dicentes: Bene omnia fecit: et surdos fecit audire, et mutos loqui.
 
 ### Chapter 8
 
@@ -60826,7 +60826,7 @@
 
 **[8:38]** Qui enim me confusus fuerit, et verba mea in generatione ista adultera et peccatrice: et filius hominis confundetur eum, cum venerit in gloria patris sui cum angelis sanctis.
 
-**[8:39]** Et dicebat illis: Amen dico vobis, quia sunt quidam de hic stantibus, qui non gustabunt mortem donec videant regnum Dei veniens in virtute. 
+**[8:39]** Et dicebat illis: Amen dico vobis, quia sunt quidam de hic stantibus, qui non gustabunt mortem donec videant regnum Dei veniens in virtute.
 
 ### Chapter 9
 
@@ -60926,7 +60926,7 @@
 
 **[9:48]** Omnis enim igne salietur, et omnis victima sale salietur.
 
-**[9:49]** Bonum est sal: quod si sal insulsum fuerit: in quo illud condietis? Habete in vobis sal, et pacem habete inter vos. 
+**[9:49]** Bonum est sal: quod si sal insulsum fuerit: in quo illud condietis? Habete in vobis sal, et pacem habete inter vos.
 
 ### Chapter 10
 
@@ -61032,7 +61032,7 @@
 
 **[10:51]** Et respondens Iesus dixit illi: Quid tibi vis faciam? Cæcus autem dixit ei: Rabboni, ut videam.
 
-**[10:52]** Iesus autem ait illi: Vade, fides tua te salvum fecit. Et confestim vidit, et sequebatur eum in via. 
+**[10:52]** Iesus autem ait illi: Vade, fides tua te salvum fecit. Et confestim vidit, et sequebatur eum in via.
 
 ### Chapter 11
 
@@ -61100,7 +61100,7 @@
 
 **[11:32]** Si dixerimus, Ex hominibus, timemus populum. omnes enim habebant Ioannem quia vere propheta esset.
 
-**[11:33]** Et respondentes dicunt Iesu: Nescimus. Et respondens Iesus ait illis: Neque ego dico vobis in qua potestate hæc faciam. 
+**[11:33]** Et respondentes dicunt Iesu: Nescimus. Et respondens Iesus ait illis: Neque ego dico vobis in qua potestate hæc faciam.
 
 ### Chapter 12
 
@@ -61190,7 +61190,7 @@
 
 **[12:43]** et convocans discipulos suos, ait illis: Amen dico vobis, quoniam vidua hæc pauper plus omnibus misit, qui miserunt in gazophylacium.
 
-**[12:44]** Omnes enim ex eo, quod abundabat illis, miserunt: hæc vero de penuria sua omnia quæ habuit misit totum victum suum. 
+**[12:44]** Omnes enim ex eo, quod abundabat illis, miserunt: hæc vero de penuria sua omnia quæ habuit misit totum victum suum.
 
 ### Chapter 13
 
@@ -61266,7 +61266,7 @@
 
 **[13:36]** ne cum venerit repente, inveniat vos dormientes.
 
-**[13:37]** Quod autem vobis dico, omnibus dico: Vigilate. 
+**[13:37]** Quod autem vobis dico, omnibus dico: Vigilate.
 
 ### Chapter 14
 
@@ -61412,7 +61412,7 @@
 
 **[14:71]** Ille autem cœpit anathematizare, et iurare: Quia nescio hominem istum, quem dicitis.
 
-**[14:72]** Et statim gallus iterum cantavit. Et recordatus est Petrus verbi, quod dixerat ei Iesus: Prius quam gallus cantet bis, ter me negabis. Et cœpit flere. 
+**[14:72]** Et statim gallus iterum cantavit. Et recordatus est Petrus verbi, quod dixerat ei Iesus: Prius quam gallus cantet bis, ter me negabis. Et cœpit flere.
 
 ### Chapter 15
 
@@ -61508,7 +61508,7 @@
 
 **[15:46]** Ioseph autem mercatus sindonem, et deponens eum involvit sindone, et posuit eum in monumento, quod erat excisum de petra, et advolvit lapidem ad ostium monumenti.
 
-**[15:47]** Maria autem Magdalene, et Maria Ioseph aspiciebant ubi poneretur. 
+**[15:47]** Maria autem Magdalene, et Maria Ioseph aspiciebant ubi poneretur.
 
 ### Chapter 16
 
@@ -61550,7 +61550,7 @@
 
 **[16:19]** Et Dominus quidem Iesus postquam locutus est eis, assumptus est in cælum, et sedet a dextris Dei.
 
-**[16:20]** Illi autem profecti prædicaverunt ubique Domino cooperante, et sermonem confirmante, sequentibus signis.  
+**[16:20]** Illi autem profecti prædicaverunt ubique Domino cooperante, et sermonem confirmante, sequentibus signis.
 
 ## Luke
 
@@ -61714,7 +61714,7 @@
 
 **[1:79]** Illuminare his, qui in tenebris, et in umbra mortis sedent: ad dirigendos pedes nostros in viam pacis.
 
-**[1:80]** Puer autem crescebat, et confortabatur spiritu: et erat in desertis usque in diem ostensionis suæ ad Israel. 
+**[1:80]** Puer autem crescebat, et confortabatur spiritu: et erat in desertis usque in diem ostensionis suæ ad Israel.
 
 ### Chapter 2
 
@@ -61820,7 +61820,7 @@
 
 **[2:51]** Et descendit cum eis, et venit Nazareth: et erat subditus illis. Et mater eius conservabat omnia verba hæc in corde suo.
 
-**[2:52]** Et Iesus proficiebat sapientia, et ætate, et gratia apud Deum, et homines. 
+**[2:52]** Et Iesus proficiebat sapientia, et ætate, et gratia apud Deum, et homines.
 
 ### Chapter 3
 
@@ -61898,7 +61898,7 @@
 
 **[3:37]** qui fuit Methusale, qui fuit Henoch, qui fuit Iared, qui fuit Malaleel, qui fuit Cainan,
 
-**[3:38]** qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei. 
+**[3:38]** qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei.
 
 ### Chapter 4
 
@@ -61988,7 +61988,7 @@
 
 **[4:43]** Quibus ille ait: Quia et aliis civitatibus oportet me evangelizare regnum Dei: quia ideo missus sum.
 
-**[4:44]** Et erat prædicans in synagogis Galilææ. 
+**[4:44]** Et erat prædicans in synagogis Galilææ.
 
 ### Chapter 5
 
@@ -62068,7 +62068,7 @@
 
 **[5:38]** sed vinum novum in utres novos mittendum est, et utraque conservantur.
 
-**[5:39]** Et nemo bibens vetus, statim vult novum, dicit enim: Vetus melius est. 
+**[5:39]** Et nemo bibens vetus, statim vult novum, dicit enim: Vetus melius est.
 
 ### Chapter 6
 
@@ -62168,7 +62168,7 @@
 
 **[6:48]** similis est homini ædificanti domum, qui fodit in altum, et posuit fundamentum super petram. inundatione autem facta, illisum est flumen domui illi, et non potuit eam movere: fundata enim erat super petram.
 
-**[6:49]** Qui autem audit, et non facit: similis est homini ædificanti domum suam super terram sine fundamento: in quam illisus est fluvius, et continuo cecidit: et facta est ruina domus illius magna. 
+**[6:49]** Qui autem audit, et non facit: similis est homini ædificanti domum suam super terram sine fundamento: in quam illisus est fluvius, et continuo cecidit: et facta est ruina domus illius magna.
 
 ### Chapter 7
 
@@ -62270,7 +62270,7 @@
 
 **[7:49]** Et cœperunt qui simul accumbebant, dicere intra se: Quis est hic, qui etiam peccata dimittit?
 
-**[7:50]** Dixit autem ad mulierem: Fides tua te salvam fecit: vade in pace. 
+**[7:50]** Dixit autem ad mulierem: Fides tua te salvam fecit: vade in pace.
 
 ### Chapter 8
 
@@ -62384,7 +62384,7 @@
 
 **[8:55]** Et reversus est spiritus eius, et surrexit continuo. Et iussit illi dari manducare.
 
-**[8:56]** Et stupuerunt parentes eius, quibus præcepit ne alicui dicerent quod factum erat. 
+**[8:56]** Et stupuerunt parentes eius, quibus præcepit ne alicui dicerent quod factum erat.
 
 ### Chapter 9
 
@@ -62510,7 +62510,7 @@
 
 **[9:61]** Et ait alter: Sequar te Domine, sed permitte mihi primum renuntiare his, quæ domi sunt.
 
-**[9:62]** Ait ad illum Iesus: Nemo mittens manum suam ad aratrum, et respiciens retro, aptus est regno Dei. 
+**[9:62]** Ait ad illum Iesus: Nemo mittens manum suam ad aratrum, et respiciens retro, aptus est regno Dei.
 
 ### Chapter 10
 
@@ -62596,7 +62596,7 @@
 
 **[10:41]** Et respondens dixit illis Dominus: Martha, Martha, sollicita es, et turbaris erga plurima.
 
-**[10:42]** Porro unum est necessarium. Maria optimam partem elegit, quæ non auferetur ab ea. 
+**[10:42]** Porro unum est necessarium. Maria optimam partem elegit, quæ non auferetur ab ea.
 
 ### Chapter 11
 
@@ -62706,7 +62706,7 @@
 
 **[11:53]** Cum autem hæc ad illos diceret, cœperunt Pharisæi, et Legisperiti graviter insistere, et os eius opprimere de multis,
 
-**[11:54]** insidiantes ei, et quærentes aliquid capere de ore eius, ut accusarent eum. 
+**[11:54]** insidiantes ei, et quærentes aliquid capere de ore eius, ut accusarent eum.
 
 ### Chapter 12
 
@@ -62826,7 +62826,7 @@
 
 **[12:58]** Cum autem vadis cum adversario tuo ad principem, in via da operam liberari ab illo, ne forte trahat te ad iudicem, et iudex tradat te exactori, et exactor mittat te in carcerem.
 
-**[12:59]** Dico tibi, non exies inde, donec etiam novissimum minutum reddas. 
+**[12:59]** Dico tibi, non exies inde, donec etiam novissimum minutum reddas.
 
 ### Chapter 13
 
@@ -62898,7 +62898,7 @@
 
 **[13:34]** Ierusalem, Ierusalem, quæ occidis Prophetas, et lapidas eos, qui mittuntur ad te, quoties volui congregare filios tuos quemadmodum avis nidum suum sub pennis, et noluisti?
 
-**[13:35]** Ecce relinquetur vobis domus vestra deserta. Dico autem vobis, quia non videbitis me donec veniat cum dicetis: Benedictus, qui venit in nomine Domini. 
+**[13:35]** Ecce relinquetur vobis domus vestra deserta. Dico autem vobis, quia non videbitis me donec veniat cum dicetis: Benedictus, qui venit in nomine Domini.
 
 ### Chapter 14
 
@@ -62970,7 +62970,7 @@
 
 **[14:34]** Bonum est sal. Si autem sal evanuerit, in quo condietur?
 
-**[14:35]** Neque in terram, neque in sterquilinium utile est, sed foras mittetur. Qui habet aures audiendi, audiat. 
+**[14:35]** Neque in terram, neque in sterquilinium utile est, sed foras mittetur. Qui habet aures audiendi, audiat.
 
 ### Chapter 15
 
@@ -63036,7 +63036,7 @@
 
 **[15:31]** At ipse dixit illi: Fili, tu semper mecum es, et omnia mea tua sunt:
 
-**[15:32]** epulari autem, et gaudere oportebat, quia frater tuus hic, mortuus erat, et revixit: perierat, et inventus est. 
+**[15:32]** epulari autem, et gaudere oportebat, quia frater tuus hic, mortuus erat, et revixit: perierat, et inventus est.
 
 ### Chapter 16
 
@@ -63100,7 +63100,7 @@
 
 **[16:30]** At ille dixit: Non, pater Abraham: sed si quis ex mortuis ierit ad eos, pœnitentiam agent.
 
-**[16:31]** Ait autem illi: Si Moysen, et prophetas non audiunt, neque si quis ex mortuis resurrexerit, credent. 
+**[16:31]** Ait autem illi: Si Moysen, et prophetas non audiunt, neque si quis ex mortuis resurrexerit, credent.
 
 ### Chapter 17
 
@@ -63176,7 +63176,7 @@
 
 **[17:36]** Respondentes dicunt illi: Ubi Domine?
 
-**[17:37]** Qui dixit illis: Ubicumque fuerit corpus, illuc congregabuntur et aquilæ. 
+**[17:37]** Qui dixit illis: Ubicumque fuerit corpus, illuc congregabuntur et aquilæ.
 
 ### Chapter 18
 
@@ -63264,7 +63264,7 @@
 
 **[18:42]** Et Iesus dixit illi: Respice, fides tua te salvum fecit.
 
-**[18:43]** Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs ut vidit, dedit laudem Deo. 
+**[18:43]** Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs ut vidit, dedit laudem Deo.
 
 ### Chapter 19
 
@@ -63362,7 +63362,7 @@
 
 **[19:47]** Et erat docens quotidie in templo. Principes autem sacerdotum, et Scribæ, et Princeps plebis quærebant illum perdere:
 
-**[19:48]** et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum. 
+**[19:48]** et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum.
 
 ### Chapter 20
 
@@ -63458,7 +63458,7 @@
 
 **[20:46]** Attendite a Scribis, qui volunt ambulare in stolis, et amant salutationes in foro, et primas cathedras in synagogis, et primos discubitus in conviviis:
 
-**[20:47]** qui devorant domos viduarum, simulantes longam orationem. Hi accipient damnationem maiorem. 
+**[20:47]** qui devorant domos viduarum, simulantes longam orationem. Hi accipient damnationem maiorem.
 
 ### Chapter 21
 
@@ -63536,7 +63536,7 @@
 
 **[21:37]** Erat autem diebus docens in templo: noctibus vero exiens, morabatur in monte, qui vocatur Oliveti.
 
-**[21:38]** Et omnis populus manicabat ad eum in templo audire eum. 
+**[21:38]** Et omnis populus manicabat ad eum in templo audire eum.
 
 ### Chapter 22
 
@@ -63680,7 +63680,7 @@
 
 **[22:70]** Dixerunt autem omnes: Tu ergo es Filius Dei? Qui ait: Vos dicitis, quia ego sum.
 
-**[22:71]** At illi dixerunt: Quid adhuc desideramus testimonium? ipsi enim audivimus de ore eius. 
+**[22:71]** At illi dixerunt: Quid adhuc desideramus testimonium? ipsi enim audivimus de ore eius.
 
 ### Chapter 23
 
@@ -63794,7 +63794,7 @@
 
 **[23:55]** Subsecutæ autem mulieres, quæ cum eo venerant de Galilæa, viderunt monumentum, et quemadmodum positum erat corpus eius.
 
-**[23:56]** Et revertentes paraverunt aromata, et unguenta: et sabbato quidem siluerunt secundum mandatum. 
+**[23:56]** Et revertentes paraverunt aromata, et unguenta: et sabbato quidem siluerunt secundum mandatum.
 
 ### Chapter 24
 
@@ -63902,7 +63902,7 @@
 
 **[24:52]** Et ipsi adorantes regressi sunt in Ierusalem cum gaudio magno:
 
-**[24:53]** et erant semper in templo, laudantes, et benedicentes Deum. Amen.  
+**[24:53]** et erant semper in templo, laudantes, et benedicentes Deum. Amen.
 
 ## John
 
@@ -64008,7 +64008,7 @@
 
 **[1:50]** Respondit Iesus, et dixit ei: Quia dixi tibi: Vidi te sub ficu, credis: maius his videbis.
 
-**[1:51]** Et dicit ei: Amen, amen dico vobis, videbitis cælum apertum, et Angelos Dei ascendentes, et descendentes supra Filium hominis. 
+**[1:51]** Et dicit ei: Amen, amen dico vobis, videbitis cælum apertum, et Angelos Dei ascendentes, et descendentes supra Filium hominis.
 
 ### Chapter 2
 
@@ -64060,7 +64060,7 @@
 
 **[2:24]** Ipse autem Iesus non credebat semetipsum eis, eo quod ipse nosset omnes,
 
-**[2:25]** et quia opus ei non erat ut quis testimonium perhiberet de homine: ipse enim sciebat quid esset in homine. 
+**[2:25]** et quia opus ei non erat ut quis testimonium perhiberet de homine: ipse enim sciebat quid esset in homine.
 
 ### Chapter 3
 
@@ -64134,7 +64134,7 @@
 
 **[3:35]** Pater diligit Filium: et omnia dedit in manu eius.
 
-**[3:36]** Qui credit in Filium, habet vitam æternam: qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum. 
+**[3:36]** Qui credit in Filium, habet vitam æternam: qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum.
 
 ### Chapter 4
 
@@ -64244,7 +64244,7 @@
 
 **[4:53]** Cognovit ergo pater, quia illa hora erat, in qua dixit ei Iesus: Filius tuus vivit: et credidit ipse, et domus eius tota.
 
-**[4:54]** Hoc iterum secundum signum fecit Iesus, cum venisset a Iudæa in Galilæam. 
+**[4:54]** Hoc iterum secundum signum fecit Iesus, cum venisset a Iudæa in Galilæam.
 
 ### Chapter 5
 
@@ -64340,7 +64340,7 @@
 
 **[5:46]** Si enim crederetis Moysi, crederetis forsitan et mihi: de me enim ille scripsit.
 
-**[5:47]** Si autem illius litteris non creditis: quomodo verbis meis credetis? 
+**[5:47]** Si autem illius litteris non creditis: quomodo verbis meis credetis?
 
 ### Chapter 6
 
@@ -64486,7 +64486,7 @@
 
 **[6:71]** Respondit eis Iesus: Nonne ego vos duodecim elegi: et ex vobis unus diabolus est?
 
-**[6:72]** Dicebat autem Iudam Simonis Iscariotem: hic enim erat traditurus eum, cum esset unus ex duodecim. 
+**[6:72]** Dicebat autem Iudam Simonis Iscariotem: hic enim erat traditurus eum, cum esset unus ex duodecim.
 
 ### Chapter 7
 
@@ -64594,7 +64594,7 @@
 
 **[7:52]** Responderunt, et dixerunt ei: Numquid et tu Galilæus es? Scrutare Scripturas, et vide quia a Galilæa propheta non surgit.
 
-**[7:53]** Et reversi sunt unusquisque in domum suam. 
+**[7:53]** Et reversi sunt unusquisque in domum suam.
 
 ### Chapter 8
 
@@ -64714,7 +64714,7 @@
 
 **[8:58]** Dixit eis Iesus: Amen, amen dico vobis, antequam Abraham fieret, ego sum.
 
-**[8:59]** Tulerunt ergo lapides, ut iacerent in eum: Iesus autem abscondit se, et exivit de templo. 
+**[8:59]** Tulerunt ergo lapides, ut iacerent in eum: Iesus autem abscondit se, et exivit de templo.
 
 ### Chapter 9
 
@@ -64798,7 +64798,7 @@
 
 **[9:40]** Et audierunt quidam ex Pharisæis, qui cum ipso erant, et dixerunt ei: Numquid et nos cæci sumus?
 
-**[9:41]** Dixit eis Iesus: Si cæci essetis, non haberetis peccatum. nunc vero dicitis: Quia videmus. Peccatum vestrum manet. 
+**[9:41]** Dixit eis Iesus: Si cæci essetis, non haberetis peccatum. nunc vero dicitis: Quia videmus. Peccatum vestrum manet.
 
 ### Chapter 10
 
@@ -64884,7 +64884,7 @@
 
 **[10:41]** et multi venerunt ad eum, et dicebant: Quia Ioannes quidem signum fecit nullum.
 
-**[10:42]** Omnia autem quæcumque dixit Ioannes de hoc, vera erant. Et multi crediderunt in eum. 
+**[10:42]** Omnia autem quæcumque dixit Ioannes de hoc, vera erant. Et multi crediderunt in eum.
 
 ### Chapter 11
 
@@ -65000,7 +65000,7 @@
 
 **[11:56]** Quærebant ergo Iesum: et colloquebantur ad invicem, in templo stantes: Quid putatis, quia non venit ad diem festum?
 
-**[11:57]** Dederant autem Pontifices, et Pharisæi mandatum, ut si quis cognoverit ubi sit, indicet, ut apprehendant eum. 
+**[11:57]** Dederant autem Pontifices, et Pharisæi mandatum, ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.
 
 ### Chapter 12
 
@@ -65102,7 +65102,7 @@
 
 **[12:49]** Quia ego ex me ipso non sum locutus, sed qui misit me Pater, ipse mihi mandatum dedit quid dicam, et quid loquar.
 
-**[12:50]** Et scio quia mandatum eius vita æterna est. Quæ ergo ego loquor, sicut dixit mihi Pater, sic loquor. 
+**[12:50]** Et scio quia mandatum eius vita æterna est. Quæ ergo ego loquor, sicut dixit mihi Pater, sic loquor.
 
 ### Chapter 13
 
@@ -65180,7 +65180,7 @@
 
 **[13:37]** Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam.
 
-**[13:38]** Respondit ei Iesus: Animam tuam pro me pones? Amen, amen dico tibi: non cantabit gallus, donec ter me neges. 
+**[13:38]** Respondit ei Iesus: Animam tuam pro me pones? Amen, amen dico tibi: non cantabit gallus, donec ter me neges.
 
 ### Chapter 14
 
@@ -65244,7 +65244,7 @@
 
 **[14:30]** Iam non multa loquar vobiscum. venit enim princeps mundi huius, et in me non habet quidquam.
 
-**[14:31]** Sed ut cognoscat mundus quia diligo Patrem, et sicut mandatum dedit mihi Pater, sic facio. Surgite, eamus hinc. 
+**[14:31]** Sed ut cognoscat mundus quia diligo Patrem, et sicut mandatum dedit mihi Pater, sic facio. Surgite, eamus hinc.
 
 ### Chapter 15
 
@@ -65300,7 +65300,7 @@
 
 **[15:26]** Cum autem venerit Paraclitus, quem ego mittam vobis a Patre, spiritum veritatis, qui a Patre procedit, ille testimonium perhibebit de me:
 
-**[15:27]** et vos testimonium perhibebitis, quia ab initio mecum estis. 
+**[15:27]** et vos testimonium perhibebitis, quia ab initio mecum estis.
 
 ### Chapter 16
 
@@ -65368,7 +65368,7 @@
 
 **[16:32]** Ecce venit hora, et iam venit, ut dispergamini unusquisque in propria, et me solum relinquatis: et non sum solus, quia Pater mecum est.
 
-**[16:33]** Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis: sed confidite, ego vici mundum. 
+**[16:33]** Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis: sed confidite, ego vici mundum.
 
 ### Chapter 17
 
@@ -65422,7 +65422,7 @@
 
 **[17:25]** Pater iuste, mundus te non cognovit. ego autem te cognovi: et hi cognoverunt, quia tu me misisti.
 
-**[17:26]** Et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis. 
+**[17:26]** Et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.
 
 ### Chapter 18
 
@@ -65504,7 +65504,7 @@
 
 **[18:39]** Est autem consuetudo vobis ut unum dimittam vobis in Pascha: vultis ergo dimittam vobis regem Iudæorum?
 
-**[18:40]** Clamaverunt ergo rursum omnes, dicentes: Non hunc, sed Barabbam. Erat autem Barabbas latro. 
+**[18:40]** Clamaverunt ergo rursum omnes, dicentes: Non hunc, sed Barabbam. Erat autem Barabbas latro.
 
 ### Chapter 19
 
@@ -65590,7 +65590,7 @@
 
 **[19:41]** Erat autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum, in quo nondum quisquam positus erat.
 
-**[19:42]** Ibi ergo propter Parasceven Iudæorum, quia iuxta erat monumentum, posuerunt Iesum. 
+**[19:42]** Ibi ergo propter Parasceven Iudæorum, quia iuxta erat monumentum, posuerunt Iesum.
 
 ### Chapter 20
 
@@ -65654,7 +65654,7 @@
 
 **[20:30]** Multa quidem, et alia signa fecit Iesus in conspectu discipulorum suorum, quæ non sunt scripta in libro hoc.
 
-**[20:31]** Hæc autem scripta sunt ut credatis, quia Iesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine eius. 
+**[20:31]** Hæc autem scripta sunt ut credatis, quia Iesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine eius.
 
 ### Chapter 21
 
@@ -65706,7 +65706,7 @@
 
 **[21:24]** Hic est discipulus ille, qui testimonium perhibet de his, et scripsit hæc: et scimus, quia verum est testimonium eius.
 
-**[21:25]** Sunt autem et alia multa, quæ fecit Iesus: quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.  
+**[21:25]** Sunt autem et alia multa, quæ fecit Iesus: quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.
 
 ## Acts
 
@@ -65762,7 +65762,7 @@
 
 **[1:25]** accipere locum ministerii huius, et apostolatus, de quo prævaricatus est Iudas ut abiret in locum suum.
 
-**[1:26]** Et dederunt sortes eis, et cecidit sors super Mathiam, et annumeratus est cum undecim Apostolis. 
+**[1:26]** Et dederunt sortes eis, et cecidit sors super Mathiam, et annumeratus est cum undecim Apostolis.
 
 ### Chapter 2
 
@@ -65858,7 +65858,7 @@
 
 **[2:46]** Quotidie quoque perdurantes unanimiter in templo, et frangentes circa domos panem, sumebant cibum cum exultatione, et simplicitate cordis,
 
-**[2:47]** collaudantes Deum, et habentes gratiam ad omnem plebem. Dominus autem augebat qui salvi fierent quotidie in idipsum. 
+**[2:47]** collaudantes Deum, et habentes gratiam ad omnem plebem. Dominus autem augebat qui salvi fierent quotidie in idipsum.
 
 ### Chapter 3
 
@@ -65912,7 +65912,7 @@
 
 **[3:25]** Vos estis filii prophetarum et testamenti, quod disposuit Deus ad patres nostros, dicens ad Abraham: Et in semine tuo benedicentur omnes familiæ terræ.
 
-**[3:26]** Vobis primum Deus suscitans Filium suum, misit eum benedicentem vobis: ut convertat se unusquisque a nequitia sua. 
+**[3:26]** Vobis primum Deus suscitans Filium suum, misit eum benedicentem vobis: ut convertat se unusquisque a nequitia sua.
 
 ### Chapter 4
 
@@ -65988,7 +65988,7 @@
 
 **[4:36]** Ioseph autem, qui cognominatus est Barnabas ab Apostolis, (quod est interpretatum Filius consolationis) Levites, Cyprius genere,
 
-**[4:37]** cum haberet agrum, vendidit eum, et attulit pretium, et posuit ante pedes Apostolorum. 
+**[4:37]** cum haberet agrum, vendidit eum, et attulit pretium, et posuit ante pedes Apostolorum.
 
 ### Chapter 5
 
@@ -66074,7 +66074,7 @@
 
 **[5:41]** Et illi quidem ibant gaudentes a conspectu concilii, quoniam digni habiti sunt pro nomine Iesu contumeliam pati.
 
-**[5:42]** Omni autem die non cessabant in templo, et circa domos docentes, et evangelizantes Christum Iesum. 
+**[5:42]** Omni autem die non cessabant in templo, et circa domos docentes, et evangelizantes Christum Iesum.
 
 ### Chapter 6
 
@@ -66106,7 +66106,7 @@
 
 **[6:14]** audivimus enim eum dicentem: quoniam Iesus Nazarenus hic, destruet locum istum, et mutabit traditiones, quas tradidit nobis Moyses.
 
-**[6:15]** Et intuentes eum omnes, qui sedebant in concilio, viderunt faciem eius tamquam faciem Angeli. 
+**[6:15]** Et intuentes eum omnes, qui sedebant in concilio, viderunt faciem eius tamquam faciem Angeli.
 
 ### Chapter 7
 
@@ -66226,7 +66226,7 @@
 
 **[7:58]** Et lapidabant Stephanum invocantem, et dicentem: Domine Iesu suscipe spiritum meum.
 
-**[7:59]** Positis autem genibus, clamavit voce magna, dicens: Domine ne statuas illis hoc peccatum. Et cum hoc dixisset, obdormivit in Domino. Saulus autem erat consentiens neci eius. 
+**[7:59]** Positis autem genibus, clamavit voce magna, dicens: Domine ne statuas illis hoc peccatum. Et cum hoc dixisset, obdormivit in Domino. Saulus autem erat consentiens neci eius.
 
 ### Chapter 8
 
@@ -66308,7 +66308,7 @@
 
 **[8:39]** Cum autem ascendissent de aqua, Spiritus Domini rapuit Philippum, et amplius non vidit eum Eunuchus. Ibat autem per viam suam gaudens.
 
-**[8:40]** Philippus autem inventus est in Azoto, et pertransiens evangelizabat civitatibus cunctis, donec veniret Cæsaream. 
+**[8:40]** Philippus autem inventus est in Azoto, et pertransiens evangelizabat civitatibus cunctis, donec veniret Cæsaream.
 
 ### Chapter 9
 
@@ -66396,7 +66396,7 @@
 
 **[9:42]** Notum autem factum est per universam Ioppen: et crediderunt multi in Domino.
 
-**[9:43]** Factum est autem ut dies multos moraretur in Ioppe, apud Simonem quendam coriarium. 
+**[9:43]** Factum est autem ut dies multos moraretur in Ioppe, apud Simonem quendam coriarium.
 
 ### Chapter 10
 
@@ -66494,7 +66494,7 @@
 
 **[10:47]** Tunc respondit Petrus: Numquid aquam quis prohibere potest ut non baptizentur hi, qui Spiritum sanctum acceperunt sicut et nos?
 
-**[10:48]** Et iussit eos baptizari in nomine Domini Iesu Christi. Tunc rogaverunt eum ut maneret apud eos aliquot diebus. 
+**[10:48]** Et iussit eos baptizari in nomine Domini Iesu Christi. Tunc rogaverunt eum ut maneret apud eos aliquot diebus.
 
 ### Chapter 11
 
@@ -66556,7 +66556,7 @@
 
 **[11:29]** Discipuli autem, prout quis habebat, proposuerunt singuli in ministerium mittere habitantibus in Iudæa fratribus:
 
-**[11:30]** quod et fecerunt, mittentes ad seniores per manus Barnabæ, et Sauli. 
+**[11:30]** quod et fecerunt, mittentes ad seniores per manus Barnabæ, et Sauli.
 
 ### Chapter 12
 
@@ -66608,7 +66608,7 @@
 
 **[12:24]** Verbum autem Domini crescebat, et multiplicabatur.
 
-**[12:25]** Barnabas autem et Saulus reversi sunt ab Ierosolymis expleto ministerio, assumpto Ioanne, qui cognominatus est Marcus. 
+**[12:25]** Barnabas autem et Saulus reversi sunt ab Ierosolymis expleto ministerio, assumpto Ioanne, qui cognominatus est Marcus.
 
 ### Chapter 13
 
@@ -66714,7 +66714,7 @@
 
 **[13:51]** At illi excusso pulvere pedum in eos, venerunt Iconium.
 
-**[13:52]** Discipuli quoque replebantur gaudio, et Spiritu sancto. 
+**[13:52]** Discipuli quoque replebantur gaudio, et Spiritu sancto.
 
 ### Chapter 14
 
@@ -66770,7 +66770,7 @@
 
 **[14:26]** Cum autem venissent, et congregassent Ecclesiam, retulerunt quanta fecisset Deus cum illis, et quia aperuisset Gentibus ostium fidei.
 
-**[14:27]** Morati sunt autem tempus non modicum cum discipulis. 
+**[14:27]** Morati sunt autem tempus non modicum cum discipulis.
 
 ### Chapter 15
 
@@ -66854,7 +66854,7 @@
 
 **[15:40]** Paulus vero electo Sila profectus est, traditus gratiæ Dei a fratribus.
 
-**[15:41]** Perambulabat autem Syriam, et Ciliciam, confirmans Ecclesias: præcipiens custodire præcepta Apostolorum, et seniorum. 
+**[15:41]** Perambulabat autem Syriam, et Ciliciam, confirmans Ecclesias: præcipiens custodire præcepta Apostolorum, et seniorum.
 
 ### Chapter 16
 
@@ -66936,7 +66936,7 @@
 
 **[16:39]** et venientes deprecati sunt eos, et educentes rogabant ut egrederentur de Urbe.
 
-**[16:40]** Exeuntes autem de carcere, introierunt ad Lydiam: et visis fratribus consolati sunt eos, et profecti sunt. 
+**[16:40]** Exeuntes autem de carcere, introierunt ad Lydiam: et visis fratribus consolati sunt eos, et profecti sunt.
 
 ### Chapter 17
 
@@ -67006,7 +67006,7 @@
 
 **[17:33]** Sic Paulus exivit de medio eorum.
 
-**[17:34]** Quidam vero viri adhærentes ei, crediderunt: in quibus et Dionysius Areopagita, et mulier nomine Damaris, et alii cum eis. 
+**[17:34]** Quidam vero viri adhærentes ei, crediderunt: in quibus et Dionysius Areopagita, et mulier nomine Damaris, et alii cum eis.
 
 ### Chapter 18
 
@@ -67064,7 +67064,7 @@
 
 **[18:27]** Cum autem vellet ire Achaiam, exhortati fratres, scripserunt discipulis ut susciperent eum. Qui cum venisset, contulit multum his, qui crediderant.
 
-**[18:28]** Vehementer enim Iudæos revincebat publice, ostendens per Scripturas, esse Christum Iesum. 
+**[18:28]** Vehementer enim Iudæos revincebat publice, ostendens per Scripturas, esse Christum Iesum.
 
 ### Chapter 19
 
@@ -67146,7 +67146,7 @@
 
 **[19:39]** Si quid autem alterius rei quæritis: in legitima Ecclesia poterit absolvi.
 
-**[19:40]** Nam et periclitamur argui seditionis hodiernæ: cum nullus obnoxius sit (de quo possimus reddere rationem) concursus istius. Et cum hæc dixisset, dimisit Ecclesiam. 
+**[19:40]** Nam et periclitamur argui seditionis hodiernæ: cum nullus obnoxius sit (de quo possimus reddere rationem) concursus istius. Et cum hæc dixisset, dimisit Ecclesiam.
 
 ### Chapter 20
 
@@ -67224,7 +67224,7 @@
 
 **[20:37]** Magnus autem fletus factus est omnium: et procumbentes super collum Pauli, osculabantur eum,
 
-**[20:38]** dolentes maxime in verbo, quod dixerat, quoniam amplius faciem eius non essent visuri. Et deducebant eum ad navem. 
+**[20:38]** dolentes maxime in verbo, quod dixerat, quoniam amplius faciem eius non essent visuri. Et deducebant eum ad navem.
 
 ### Chapter 21
 
@@ -67306,7 +67306,7 @@
 
 **[21:39]** Et dixit ad eum Paulus: Ego homo sum quidem Iudæus a Tarso Ciliciæ, non ignotæ civitatis municeps. Rogo autem te, permitte mihi loqui ad populum.
 
-**[21:40]** Et cum ille permisisset, Paulus stans in gradibus, annuit manu ad plebem, et magno silentio facto, allocutus est lingua Hebræa, dicens: 
+**[21:40]** Et cum ille permisisset, Paulus stans in gradibus, annuit manu ad plebem, et magno silentio facto, allocutus est lingua Hebræa, dicens:
 
 ### Chapter 22
 
@@ -67368,7 +67368,7 @@
 
 **[22:29]** Protinus ergo discesserunt ab illo, qui eum torturi erant. Tribunus quoque timuit postquam rescivit, quia civis Romanus esset, et quia alligasset eum.
 
-**[22:30]** Postera autem die volens scire diligentius qua ex causa accusaretur a Iudæis, solvit eum, et iussit sacerdotes convenire, et omne concilium, et producens Paulum, statuit inter illos. 
+**[22:30]** Postera autem die volens scire diligentius qua ex causa accusaretur a Iudæis, solvit eum, et iussit sacerdotes convenire, et omne concilium, et producens Paulum, statuit inter illos.
 
 ### Chapter 23
 
@@ -67440,7 +67440,7 @@
 
 **[23:34]** Cum legisset autem, et interrogasset de qua provincia esset: et cognoscens quia de Cilicia,
 
-**[23:35]** Audiam te, inquit, cum accusatores tui venerint. Iussitque in prætorio Herodis custodiri eum. 
+**[23:35]** Audiam te, inquit, cum accusatores tui venerint. Iussitque in prætorio Herodis custodiri eum.
 
 ### Chapter 24
 
@@ -67496,7 +67496,7 @@
 
 **[24:26]** simul et sperans, quod pecunia ei daretur a Paulo, propter quod et frequenter accersens eum, loquebatur cum eo.
 
-**[24:27]** Biennio autem expleto, accepit successorem Felix Portium Festum. Volens autem gratiam præstare Iudæis Felix, reliquit Paulum vinctum. 
+**[24:27]** Biennio autem expleto, accepit successorem Felix Portium Festum. Volens autem gratiam præstare Iudæis Felix, reliquit Paulum vinctum.
 
 ### Chapter 25
 
@@ -67552,7 +67552,7 @@
 
 **[25:26]** De quo quid certum scribam domino, non habeo. Propter quod produxi eum ad vos, et maxime ad te rex Agrippa, ut interrogatione facta habeam quid scribam.
 
-**[25:27]** Sine ratione enim mihi videtur mittere vinctum, et causas eius non significare. 
+**[25:27]** Sine ratione enim mihi videtur mittere vinctum, et causas eius non significare.
 
 ### Chapter 26
 
@@ -67618,7 +67618,7 @@
 
 **[26:31]** Et cum secessissent, loquebantur ad invicem, dicentes: Quia nihil morte, aut vinculis dignum quid fecit homo iste.
 
-**[26:32]** Agrippa autem Festo dixit: Dimitti poterat homo hic, si non appellasset Cæsarem. 
+**[26:32]** Agrippa autem Festo dixit: Dimitti poterat homo hic, si non appellasset Cæsarem.
 
 ### Chapter 27
 
@@ -67708,7 +67708,7 @@
 
 **[27:43]** Centurio autem volens servare Paulum, prohibuit fieri: iussitque eos, qui possent natare, emittere se primos, et evadere, et ad terram exire:
 
-**[27:44]** et ceteros alios in tabulis ferebant: quosdam super ea, quæ de navi erant. Et sic factum est, ut omnes animæ evaderent ad terram. 
+**[27:44]** et ceteros alios in tabulis ferebant: quosdam super ea, quæ de navi erant. Et sic factum est, ut omnes animæ evaderent ad terram.
 
 ### Chapter 28
 
@@ -67772,7 +67772,7 @@
 
 **[28:30]** Mansit autem biennio toto in suo conducto: et suscipiebat omnes, qui ingrediebantur ad eum,
 
-**[28:31]** prædicans regnum Dei, et docens quæ sunt de Domino Iesu Christo cum omni fiducia, sine prohibitione.  
+**[28:31]** prædicans regnum Dei, et docens quæ sunt de Domino Iesu Christo cum omni fiducia, sine prohibitione.
 
 ## Romans
 
@@ -67840,7 +67840,7 @@
 
 **[1:31]** insipientes, incompositos, sine affectione, absque fœdere, sine misericordia.
 
-**[1:32]** Qui cum iustitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte: et non solum qui ea faciunt, sed etiam qui consentiunt facientibus. 
+**[1:32]** Qui cum iustitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte: et non solum qui ea faciunt, sed etiam qui consentiunt facientibus.
 
 ### Chapter 2
 
@@ -67900,7 +67900,7 @@
 
 **[2:28]** Non enim qui in manifesto, Iudæus est: neque quæ in manifesto, in carne, est circumcisio:
 
-**[2:29]** sed qui in abscondito, Iudæus est: et circumcisio cordis in spiritu, non littera: cuius laus non ex hominibus, sed ex Deo est. 
+**[2:29]** sed qui in abscondito, Iudæus est: et circumcisio cordis in spiritu, non littera: cuius laus non ex hominibus, sed ex Deo est.
 
 ### Chapter 3
 
@@ -67964,7 +67964,7 @@
 
 **[3:30]** Quoniam quidem unus est Deus, qui iustificat circumcisionem ex fide, et præputium per fidem.
 
-**[3:31]** Legem ergo destruimus per fidem? Absit: sed legem statuimus. 
+**[3:31]** Legem ergo destruimus per fidem? Absit: sed legem statuimus.
 
 ### Chapter 4
 
@@ -68016,7 +68016,7 @@
 
 **[4:24]** sed et propter nos, quibus reputabitur credentibus in eum, qui suscitavit Iesum Christum Dominum nostrum a mortuis,
 
-**[4:25]** qui traditus est propter delicta nostra, et resurrexit propter iustificationem nostram. 
+**[4:25]** qui traditus est propter delicta nostra, et resurrexit propter iustificationem nostram.
 
 ### Chapter 5
 
@@ -68060,7 +68060,7 @@
 
 **[5:20]** Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, superabundavit gratia.
 
-**[5:21]** ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam æternam, per Iesum Christum Dominum nostrum. 
+**[5:21]** ut sicut regnavit peccatum in mortem: ita et gratia regnet per iustitiam in vitam æternam, per Iesum Christum Dominum nostrum.
 
 ### Chapter 6
 
@@ -68108,7 +68108,7 @@
 
 **[6:22]** Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in santificationem, finem vero vitam æternam.
 
-**[6:23]** Stipendia enim peccati, mors. Gratia autem Dei, vita æterna, in Christo Iesu Domino nostro. 
+**[6:23]** Stipendia enim peccati, mors. Gratia autem Dei, vita æterna, in Christo Iesu Domino nostro.
 
 ### Chapter 7
 
@@ -68160,7 +68160,7 @@
 
 **[7:24]** Infelix ego homo, quis me liberabit de corpore mortis huius?
 
-**[7:25]** Gratia Dei per Iesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei: carne autem, legi peccati. 
+**[7:25]** Gratia Dei per Iesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei: carne autem, legi peccati.
 
 ### Chapter 8
 
@@ -68240,7 +68240,7 @@
 
 **[8:38]** Certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, neque virtutes, neque instantia, neque futura, neque fortitudo,
 
-**[8:39]** neque altitudo, neque profundum, neque creatura alia poterit nos separare a charitate Dei, quæ est in Christo Iesu Domino nostro. 
+**[8:39]** neque altitudo, neque profundum, neque creatura alia poterit nos separare a charitate Dei, quæ est in Christo Iesu Domino nostro.
 
 ### Chapter 9
 
@@ -68308,7 +68308,7 @@
 
 **[9:32]** Quare? Quia non ex fide, sed quasi ex operibus: offenderunt enim in lapidem offensionis,
 
-**[9:33]** sicut scriptum est: Ecce pono in Sion lapidem offensionis, et petram scandali: et omnis, qui credit in eum, non confundetur. 
+**[9:33]** sicut scriptum est: Ecce pono in Sion lapidem offensionis, et petram scandali: et omnis, qui credit in eum, non confundetur.
 
 ### Chapter 10
 
@@ -68352,7 +68352,7 @@
 
 **[10:20]** Isaias autem audet, et dicit: Inventus sum a non quærentibus me: palam apparui iis, qui me non interrogabant.
 
-**[10:21]** Ad Israel autem dicit: Tota die expandi manus meas ad populum non credentem, et contradicentem. 
+**[10:21]** Ad Israel autem dicit: Tota die expandi manus meas ad populum non credentem, et contradicentem.
 
 ### Chapter 11
 
@@ -68426,7 +68426,7 @@
 
 **[11:35]** Aut quis prior dedit illi, et retribuetur ei?
 
-**[11:36]** Quoniam ex ipso, et per ipsum, et in ipso sunt omnia: ipsi gloria in sæcula. Amen. 
+**[11:36]** Quoniam ex ipso, et per ipsum, et in ipso sunt omnia: ipsi gloria in sæcula. Amen.
 
 ### Chapter 12
 
@@ -68470,7 +68470,7 @@
 
 **[12:20]** Sed si esurierit inimicus tuus, ciba illum: si sitit, potum da illi: hoc enim faciens, carbones ignis congeres super caput eius.
 
-**[12:21]** Noli vinci a malo, sed vince in bono malum. 
+**[12:21]** Noli vinci a malo, sed vince in bono malum.
 
 ### Chapter 13
 
@@ -68500,7 +68500,7 @@
 
 **[13:13]** Sicut in die honeste ambulemus: non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et æmulatione:
 
-**[13:14]** sed induamini Dominum Iesum Christum, et carnis curam ne feceritis in desideriis. 
+**[13:14]** sed induamini Dominum Iesum Christum, et carnis curam ne feceritis in desideriis.
 
 ### Chapter 14
 
@@ -68548,7 +68548,7 @@
 
 **[14:22]** Tu fidem habes? penes temetipsum habe coram Deo: Beatus, qui non iudicat semetipsum in eo, quod probat.
 
-**[14:23]** Qui autem discernit, si manducaverit, damnatus est: quia non ex fide. Omne autem, quod non est ex fide, peccatum est. 
+**[14:23]** Qui autem discernit, si manducaverit, damnatus est: quia non ex fide. Omne autem, quod non est ex fide, peccatum est.
 
 ### Chapter 15
 
@@ -68616,7 +68616,7 @@
 
 **[15:32]** ut veniam ad vos in gaudio per voluntatem Dei, et refrigerer vobiscum.
 
-**[15:33]** Deus autem pacis sit cum omnibus vobis. Amen. 
+**[15:33]** Deus autem pacis sit cum omnibus vobis. Amen.
 
 ### Chapter 16
 
@@ -68672,7 +68672,7 @@
 
 **[16:26]** (quod nunc patefactum est per Scripturas Prophetarum secundum præceptum æterni Dei, ad obeditionem fidei) in cunctis Gentibus cogniti,
 
-**[16:27]** soli sapienti Deo, per Iesum Christum, cui honor, et gloria in sæcula sæculorum. Amen.  
+**[16:27]** soli sapienti Deo, per Iesum Christum, cui honor, et gloria in sæcula sæculorum. Amen.
 
 ## I Corinthians
 
@@ -68738,7 +68738,7 @@
 
 **[1:30]** Ex ipso autem vos estis in Christo Iesu, qui factus est nobis sapientia a Deo, et iustitia, et sanctificatio, et redemptio:
 
-**[1:31]** ut quemadmodum scriptum est: Qui gloriatur, in Domino glorietur. 
+**[1:31]** ut quemadmodum scriptum est: Qui gloriatur, in Domino glorietur.
 
 ### Chapter 2
 
@@ -68772,7 +68772,7 @@
 
 **[2:15]** Spiritualis autem iudicat omnia: et ipse a nemine iudicatur.
 
-**[2:16]** Quis enim cognovit sensum Domini, qui instruat eum? Nos autem sensum Christi habemus. 
+**[2:16]** Quis enim cognovit sensum Domini, qui instruat eum? Nos autem sensum Christi habemus.
 
 ### Chapter 3
 
@@ -68820,7 +68820,7 @@
 
 **[3:22]** Omnia enim vestra sunt, sive Paulus, sive Apollo, sive Cephas, sive mundus, sive vita, sive mors, sive præsentia, sive futura: omnia enim vestra sunt:
 
-**[3:23]** vos autem Christi: Christus autem Dei. 
+**[3:23]** vos autem Christi: Christus autem Dei.
 
 ### Chapter 4
 
@@ -68864,7 +68864,7 @@
 
 **[4:20]** Non enim in sermone est regnum Dei, sed in virtute.
 
-**[4:21]** Quid vultis? in virga veniam ad vos, an in charitate, et spiritu mansuetudinis? 
+**[4:21]** Quid vultis? in virga veniam ad vos, an in charitate, et spiritu mansuetudinis?
 
 ### Chapter 5
 
@@ -68892,7 +68892,7 @@
 
 **[5:12]** Quid enim mihi de iis, qui foris sunt, iudicare? Nonne de iis, qui intus sunt, vos iudicatis?
 
-**[5:13]** nam eos, qui foris sunt, Deus iudicabit. Auferte malum ex vobisipsis. 
+**[5:13]** nam eos, qui foris sunt, Deus iudicabit. Auferte malum ex vobisipsis.
 
 ### Chapter 6
 
@@ -68934,7 +68934,7 @@
 
 **[6:19]** An nescitis quoniam membra vestra, templum sunt Spiritus sancti, qui in vobis est, quem habetis a Deo, et non estis vestri?
 
-**[6:20]** Empti enim estis pretio magno. Glorificate, et portate Deum in corpore vestro. 
+**[6:20]** Empti enim estis pretio magno. Glorificate, et portate Deum in corpore vestro.
 
 ### Chapter 7
 
@@ -69016,7 +69016,7 @@
 
 **[7:39]** Mulier alligata est legi quanto tempore vir eius vivit. quod si dormierit vir eius, liberata est: cui vult nubat: tantum in Domino.
 
-**[7:40]** Beatior autem erit si sic permanserit secundum meum consilium: puto autem quod et ego Spiritum Dei habeam. 
+**[7:40]** Beatior autem erit si sic permanserit secundum meum consilium: puto autem quod et ego Spiritum Dei habeam.
 
 ### Chapter 8
 
@@ -69044,7 +69044,7 @@
 
 **[8:12]** Sic autem peccantes in fratres, et percutientes conscientiam eorum infirmam, in Christum peccatis.
 
-**[8:13]** Quapropter si esca scandalizat fratrem meum: non manducabo carnem in æternum, ne fratrem meum scandalizem. 
+**[8:13]** Quapropter si esca scandalizat fratrem meum: non manducabo carnem in æternum, ne fratrem meum scandalizem.
 
 ### Chapter 9
 
@@ -69100,7 +69100,7 @@
 
 **[9:26]** Ego igitur sic curro, non quasi in incertum: sic pugno, non quasi aerem verberans:
 
-**[9:27]** sed castigo corpus meum, et in servitutem redigo: ne forte cum aliis prædicaverim, ipse reprobus efficiar. 
+**[9:27]** sed castigo corpus meum, et in servitutem redigo: ne forte cum aliis prædicaverim, ipse reprobus efficiar.
 
 ### Chapter 10
 
@@ -69168,7 +69168,7 @@
 
 **[10:32]** Sine offensione estote Iudæis, et Gentibus, et Ecclesiæ Dei:
 
-**[10:33]** sicut et ego per omnia omnibus placeo, non quærens quod mihi utile est, sed quod multis: ut salvi fiant. 
+**[10:33]** sicut et ego per omnia omnibus placeo, non quærens quod mihi utile est, sed quod multis: ut salvi fiant.
 
 ### Chapter 11
 
@@ -69238,7 +69238,7 @@
 
 **[11:33]** Itaque fratres mei, cum convenitis ad manducandum, invicem expectate.
 
-**[11:34]** Si quis esurit, domi manducet: ut non in iudicium conveniatis. Cetera autem, cum venero, disponam. 
+**[11:34]** Si quis esurit, domi manducet: ut non in iudicium conveniatis. Cetera autem, cum venero, disponam.
 
 ### Chapter 12
 
@@ -69302,7 +69302,7 @@
 
 **[12:30]** numquid omnes virtutes? numquid omnes gratiam habent curationum? numquid omnes linguis loquuntur? numquid omnes interpretantur?
 
-**[12:31]** Æmulamini autem charismata meliora. Et adhuc excellentiorem viam vobis demonstro. 
+**[12:31]** Æmulamini autem charismata meliora. Et adhuc excellentiorem viam vobis demonstro.
 
 ### Chapter 13
 
@@ -69330,7 +69330,7 @@
 
 **[13:12]** Videmus nunc per speculum in ænigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum.
 
-**[13:13]** Nunc autem manent, fides, spes, charitas: tria hæc. maior autem horum est charitas. 
+**[13:13]** Nunc autem manent, fides, spes, charitas: tria hæc. maior autem horum est charitas.
 
 ### Chapter 14
 
@@ -69412,7 +69412,7 @@
 
 **[14:39]** Itaque fratres æmulamini prophetare: et loqui linguis nolite prohibere.
 
-**[14:40]** Omnia autem honeste, et secundum ordinem fiant. 
+**[14:40]** Omnia autem honeste, et secundum ordinem fiant.
 
 ### Chapter 15
 
@@ -69530,7 +69530,7 @@
 
 **[15:57]** Deo autem gratias, qui dedit nobis victoriam per Dominum nostrum Iesum Christum.
 
-**[15:58]** Itaque fratres mei dilecti, stabiles estote, et immobiles: abundantes in opere Domini semper, scientes quod labor vester non est inanis in Domino. 
+**[15:58]** Itaque fratres mei dilecti, stabiles estote, et immobiles: abundantes in opere Domini semper, scientes quod labor vester non est inanis in Domino.
 
 ### Chapter 16
 
@@ -69580,7 +69580,7 @@
 
 **[16:23]** Gratia Domini nostri Iesu Christi vobiscum.
 
-**[16:24]** Charitas mea cum omnibus vobis in Christo Iesu. Amen.  
+**[16:24]** Charitas mea cum omnibus vobis in Christo Iesu. Amen.
 
 ## II Corinthians
 
@@ -69632,7 +69632,7 @@
 
 **[1:23]** Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum:
 
-**[1:24]** non quia dominamur fidei vestæ, sed adiutores sumus gaudii vestri: nam fide statis. 
+**[1:24]** non quia dominamur fidei vestæ, sed adiutores sumus gaudii vestri: nam fide statis.
 
 ### Chapter 2
 
@@ -69668,7 +69668,7 @@
 
 **[2:16]** aliis quidem odor mortis in mortem: aliis autem odor vitæ in vitam. Et ad hæc quis tam idoneus?
 
-**[2:17]** Non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur. 
+**[2:17]** Non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur.
 
 ### Chapter 3
 
@@ -69706,7 +69706,7 @@
 
 **[3:17]** Dominus autem Spiritus est: Ubi autem Spiritus Domini: ibi libertas.
 
-**[3:18]** Nos vero omnes, revelata facie gloriam Domini speculantes, in eandem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu. 
+**[3:18]** Nos vero omnes, revelata facie gloriam Domini speculantes, in eandem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu.
 
 ### Chapter 4
 
@@ -69744,7 +69744,7 @@
 
 **[4:17]** Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, supra modum in sublimitate æternum gloriæ pondus operatur in nobis,
 
-**[4:18]** non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt: quæ autem non videntur, æterna sunt. 
+**[4:18]** non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt: quæ autem non videntur, æterna sunt.
 
 ### Chapter 5
 
@@ -69788,7 +69788,7 @@
 
 **[5:20]** Pro Christo ergo legatione fungimur, tamquam Deo exhortante per nos. Obsecramus pro Christo, reconciliamini Deo.
 
-**[5:21]** Eum, qui non noverat peccatum. pro nobis peccatum fecit, ut nos efficeremur iustitia Dei in ipso. 
+**[5:21]** Eum, qui non noverat peccatum. pro nobis peccatum fecit, ut nos efficeremur iustitia Dei in ipso.
 
 ### Chapter 6
 
@@ -69826,7 +69826,7 @@
 
 **[6:17]** Propter quod exite de medio eorum, et separamini, dicit Dominus, et immundum ne tetigeritis:
 
-**[6:18]** et ego recipiam vos: et ero vobis in patrem, et vos eritis mihi in filios, et filias, dicit Dominus omnipotens. 
+**[6:18]** et ego recipiam vos: et ero vobis in patrem, et vos eritis mihi in filios, et filias, dicit Dominus omnipotens.
 
 ### Chapter 7
 
@@ -69860,7 +69860,7 @@
 
 **[7:15]** et viscera eius abundantius in vobis sunt: reminiscentis omnium vestrum obedientiam: quomodo cum timore, et tremore excepistis illum.
 
-**[7:16]** Gaudeo quod in omnibus confido in vobis. 
+**[7:16]** Gaudeo quod in omnibus confido in vobis.
 
 ### Chapter 8
 
@@ -69910,7 +69910,7 @@
 
 **[8:23]** sive pro Tito, qui est socius meus, et in vos adiutor, sive fratres nostri, Apostoli Ecclesiarum, gloria Christi.
 
-**[8:24]** Ostensionem ergo, quæ est charitatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem Ecclesiarum. 
+**[8:24]** Ostensionem ergo, quæ est charitatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem Ecclesiarum.
 
 ### Chapter 9
 
@@ -69942,7 +69942,7 @@
 
 **[9:14]** et in ipsorum obsecratione pro vobis, desiderantium vos propter eminentem gratiam Dei in vobis.
 
-**[9:15]** Gratias Deo super inenarrabili dono eius. 
+**[9:15]** Gratias Deo super inenarrabili dono eius.
 
 ### Chapter 10
 
@@ -69980,7 +69980,7 @@
 
 **[10:17]** Qui autem gloriatur, in Domino glorietur.
 
-**[10:18]** Non enim qui seipsum commendat, ille probatus est: sed quem Deus commendat. 
+**[10:18]** Non enim qui seipsum commendat, ille probatus est: sed quem Deus commendat.
 
 ### Chapter 11
 
@@ -70048,7 +70048,7 @@
 
 **[11:32]** Damasci præpositus Gentis Aretæ regis, custodiebat civitatem Damascenorum ut me comprehenderet:
 
-**[11:33]** et per fenestram in sporta dimissus sum per murum, et sic effugi manus eius. 
+**[11:33]** et per fenestram in sporta dimissus sum per murum, et sic effugi manus eius.
 
 ### Chapter 12
 
@@ -70092,7 +70092,7 @@
 
 **[12:20]** Timeo enim ne forte cum venero, non quales volo, inveniam vos: et ego inveniar a vobis, qualem non vultis: ne forte contentiones, æmulationes, animositates, dissensiones, detractiones, susurrationes, inflationes, seditiones sint inter vos:
 
-**[12:21]** ne iterum cum venero, humiliet me Deus apud vos, et lugeam multos ex iis, qui ante peccaverunt, et non egerunt pœnitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt. 
+**[12:21]** ne iterum cum venero, humiliet me Deus apud vos, et lugeam multos ex iis, qui ante peccaverunt, et non egerunt pœnitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt.
 
 ### Chapter 13
 
@@ -70120,7 +70120,7 @@
 
 **[13:12]** Salutate invicem in osculo sancto. Salutant vos omnes sancti.
 
-**[13:13]** Gratia Domini nostri Iesu Christi, et charitas Dei, et communicatio sancti Spiritus sit cum omnibus vobis. Amen.  
+**[13:13]** Gratia Domini nostri Iesu Christi, et charitas Dei, et communicatio sancti Spiritus sit cum omnibus vobis. Amen.
 
 ## Galatians
 
@@ -70172,7 +70172,7 @@
 
 **[1:23]** tantum autem auditum habebant: Quoniam qui persequebatur nos aliquando, nunc evangelizat fidem, quam aliquando expugnabat:
 
-**[1:24]** et in me clarificabant Deum. 
+**[1:24]** et in me clarificabant Deum.
 
 ### Chapter 2
 
@@ -70216,7 +70216,7 @@
 
 **[2:20]** Vivo autem, iam non ego: vivit vero in me Christus. Quod autem nunc vivo in carne: in fide vivo filii Dei, qui dilexit me, et tradidit semetipsum pro me.
 
-**[2:21]** Non abiicio gratiam Dei. Si enim per legem iustitia, ergo gratis Christus mortuus est. 
+**[2:21]** Non abiicio gratiam Dei. Si enim per legem iustitia, ergo gratis Christus mortuus est.
 
 ### Chapter 3
 
@@ -70276,7 +70276,7 @@
 
 **[3:28]** Non est Iudæus, neque Græcus: non est servus, neque liber: non est masculus, neque femina. Omnes enim vos unum estis in Christo Iesu.
 
-**[3:29]** Si autem vos Christi: ergo semen Abrahæ estis, secundum promissionem heredes. 
+**[3:29]** Si autem vos Christi: ergo semen Abrahæ estis, secundum promissionem heredes.
 
 ### Chapter 4
 
@@ -70340,7 +70340,7 @@
 
 **[4:30]** Sed quid dicit Scriptura? Eiice ancillam, et filium eius: non enim heres erit filius ancillæ cum filio liberæ.
 
-**[4:31]** Itaque, fratres, non sumus ancillæ filii, sed liberæ: qua libertate Christus nos liberavit. 
+**[4:31]** Itaque, fratres, non sumus ancillæ filii, sed liberæ: qua libertate Christus nos liberavit.
 
 ### Chapter 5
 
@@ -70394,7 +70394,7 @@
 
 **[5:25]** Si spiritu vivimus, spiritu et ambulemus.
 
-**[5:26]** Non efficiamur inanis gloriæ cupidi, invicem provocantes, invicem invidentes. 
+**[5:26]** Non efficiamur inanis gloriæ cupidi, invicem provocantes, invicem invidentes.
 
 ### Chapter 6
 
@@ -70432,7 +70432,7 @@
 
 **[6:17]** De cetero nemo mihi molestus sit: ego enim stigmata Domini Iesu in corpore meo porto.
 
-**[6:18]** Gratia Domini nostri Iesu Christi, cum spiritu vestro, fratres. Amen.  
+**[6:18]** Gratia Domini nostri Iesu Christi, cum spiritu vestro, fratres. Amen.
 
 ## Ephesians
 
@@ -70482,7 +70482,7 @@
 
 **[1:22]** Et omnia subiecit sub pedibus eius: et ipsum dedit caput supra omnem Ecclesiam,
 
-**[1:23]** quæ est corpus ipsius, et plenitudo eius, qui omnia in omnibus adimpletur. 
+**[1:23]** quæ est corpus ipsius, et plenitudo eius, qui omnia in omnibus adimpletur.
 
 ### Chapter 2
 
@@ -70528,7 +70528,7 @@
 
 **[2:21]** in quo omnis ædificatio constructa crescit in templum sanctum in Domino,
 
-**[2:22]** in quo et vos coædificamini in habitaculum Dei in Spiritu. 
+**[2:22]** in quo et vos coædificamini in habitaculum Dei in Spiritu.
 
 ### Chapter 3
 
@@ -70572,7 +70572,7 @@
 
 **[3:20]** Ei autem, qui potens est omnia facere superabundanter quam petimus, aut intelligimus, secundum virtutem, quæ operatur in nobis:
 
-**[3:21]** Ipsi gloria in Ecclesia, et in Christo Iesu in omnes generationes sæculi sæculorum. Amen. 
+**[3:21]** Ipsi gloria in Ecclesia, et in Christo Iesu in omnes generationes sæculi sæculorum. Amen.
 
 ### Chapter 4
 
@@ -70638,7 +70638,7 @@
 
 **[4:31]** Omnis amaritudo, et ira, et indignatio, et clamor, et blasphemia tollatur a vobis cum omni malitia.
 
-**[4:32]** Estote autem invicem benigni, misericordes, donantes invicem sicut et Deus in Christo donavit vobis. 
+**[4:32]** Estote autem invicem benigni, misericordes, donantes invicem sicut et Deus in Christo donavit vobis.
 
 ### Chapter 5
 
@@ -70706,7 +70706,7 @@
 
 **[5:32]** Sacramentum hoc magnum est, ego autem dico in Christo et in Ecclesia.
 
-**[5:33]** Verumtamen et vos singuli, unusquisque uxorem suam sicut seipsum diligat: uxor autem timeat virum suum. 
+**[5:33]** Verumtamen et vos singuli, unusquisque uxorem suam sicut seipsum diligat: uxor autem timeat virum suum.
 
 ### Chapter 6
 
@@ -70756,7 +70756,7 @@
 
 **[6:23]** Pax fratribus, et charitas cum fide a Deo Patre, et Domino Iesu Christo.
 
-**[6:24]** Gratia cum omnibus, qui diligunt Dominum nostrum Iesum Christum in incorruptione. Amen.  
+**[6:24]** Gratia cum omnibus, qui diligunt Dominum nostrum Iesum Christum in incorruptione. Amen.
 
 ## Philippians
 
@@ -70820,7 +70820,7 @@
 
 **[1:29]** quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini:
 
-**[1:30]** idem certamen habentes, quale et vidistis in me, et nunc audistis de me. 
+**[1:30]** idem certamen habentes, quale et vidistis in me, et nunc audistis de me.
 
 ### Chapter 2
 
@@ -70882,7 +70882,7 @@
 
 **[2:29]** Excipite itaque illum cum omni gaudio in Domino, et eiusmodi cum honore habetote.
 
-**[2:30]** quoniam propter opus Christi usque ad mortem accessit, tradens animam suam ut impleret id, quod ex vobis deerat erga meum obsequium. 
+**[2:30]** quoniam propter opus Christi usque ad mortem accessit, tradens animam suam ut impleret id, quod ex vobis deerat erga meum obsequium.
 
 ### Chapter 3
 
@@ -70926,7 +70926,7 @@
 
 **[3:20]** Nostra autem conversatio in cælis est: unde etiam Salvatorem expectamus Dominum nostrum Iesum Christum,
 
-**[3:21]** qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subiicere sibi omnia. 
+**[3:21]** qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subiicere sibi omnia.
 
 ### Chapter 4
 
@@ -70974,7 +70974,7 @@
 
 **[4:22]** Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem qui de Cæsaris domo sunt.
 
-**[4:23]** Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.  
+**[4:23]** Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.
 
 ## Colossians
 
@@ -71036,7 +71036,7 @@
 
 **[1:28]** quem nos annunciamus, corripientes omnem hominem, et docentes omnem hominem, in omni sapientia, ut exhibeamus omnem hominem perfectum in Christo Iesu.
 
-**[1:29]** in quo et laboro, certando secundum operationem eius, quam operatur in me in virtute. 
+**[1:29]** in quo et laboro, certando secundum operationem eius, quam operatur in me in virtute.
 
 ### Chapter 2
 
@@ -71084,7 +71084,7 @@
 
 **[2:22]** quæ sunt omnia in interitum ipso usu, secundum præcepta, et doctrinas hominum:
 
-**[2:23]** quæ sunt rationem quidem habentia sapientiæ in superstitione, et humilitate, et non ad parcendum corpori, non in honore aliquo ad saturitatem carnis. 
+**[2:23]** quæ sunt rationem quidem habentia sapientiæ in superstitione, et humilitate, et non ad parcendum corpori, non in honore aliquo ad saturitatem carnis.
 
 ### Chapter 3
 
@@ -71136,7 +71136,7 @@
 
 **[3:24]** scientes quod a Domino accipietis retributionem hereditatis. Domino Christo servite.
 
-**[3:25]** qui enim iniuriam facit, recipiet id, quod inique gessit: et non est personarum acceptio apud Deum. 
+**[3:25]** qui enim iniuriam facit, recipiet id, quod inique gessit: et non est personarum acceptio apud Deum.
 
 ### Chapter 4
 
@@ -71174,7 +71174,7 @@
 
 **[4:17]** Et dicite Archippo: Vide ministerium, quod accepisti in Domino, ut illud impleas.
 
-**[4:18]** Salutatio, mea manu Pauli. Memores estote vinculorum meorum. Gratia vobiscum. Amen.  
+**[4:18]** Salutatio, mea manu Pauli. Memores estote vinculorum meorum. Gratia vobiscum. Amen.
 
 ## I Thessalonians
 
@@ -71198,7 +71198,7 @@
 
 **[1:9]** Ipsi enim de nobis annunciant qualem introitum habuerimus ad vos: et quomodo conversi estis ad Deum a simulacris, servire Deo vivo, et vero,
 
-**[1:10]** et expectare Filium eius de cælis (quem suscitavit a mortuis) Iesum, qui eripuit nos ab ira ventura. 
+**[1:10]** et expectare Filium eius de cælis (quem suscitavit a mortuis) Iesum, qui eripuit nos ab ira ventura.
 
 ### Chapter 2
 
@@ -71240,7 +71240,7 @@
 
 **[2:19]** Quæ est enim nostra spes, aut gaudium, aut corona gloriæ? Nonne vos ante Dominum nostrum Iesum Christum estis in adventu eius?
 
-**[2:20]** vos enim estis gloria nostra et gaudium. 
+**[2:20]** vos enim estis gloria nostra et gaudium.
 
 ### Chapter 3
 
@@ -71268,7 +71268,7 @@
 
 **[3:12]** Vos autem Dominus multiplicet, et abundare faciat charitatem vestram in invicem, et in omnes, quemadmodum et nos in vobis:
 
-**[3:13]** ad confirmanda corda vestra sine querela in sanctitate, ante Deum et Patrem nostrum, in adventu Domini nostri Iesu Christi cum omnibus sanctis eius. Amen. 
+**[3:13]** ad confirmanda corda vestra sine querela in sanctitate, ante Deum et Patrem nostrum, in adventu Domini nostri Iesu Christi cum omnibus sanctis eius. Amen.
 
 ### Chapter 4
 
@@ -71306,7 +71306,7 @@
 
 **[4:17]** Deinde nos, qui vivimus, qui relinquimur, simul rapiemur cum illis in nubibus obviam Christo in aera, et sic semper cum Domino erimus.
 
-**[4:18]** Itaque consolamini invicem in verbis istis. 
+**[4:18]** Itaque consolamini invicem in verbis istis.
 
 ### Chapter 5
 
@@ -71364,7 +71364,7 @@
 
 **[5:27]** Adiuro vos per Dominum ut legatur epistola hæc omnibus sanctis fratribus.
 
-**[5:28]** Gratia Domini nostri Iesu Christi vobiscum. Amen.  
+**[5:28]** Gratia Domini nostri Iesu Christi vobiscum. Amen.
 
 ## II Thessalonians
 
@@ -71392,7 +71392,7 @@
 
 **[1:11]** In quo etiam oramus semper pro vobis: ut dignetur vos vocatione sua Deus noster, et impleat omnem voluntatem bonitatis, et opus fidei in virtute,
 
-**[1:12]** ut clarificetur nomen Domini nostri Iesu Christi in vobis, et vos in illo secundum gratiam Dei nostri, et Domini Iesu Christi. 
+**[1:12]** ut clarificetur nomen Domini nostri Iesu Christi in vobis, et vos in illo secundum gratiam Dei nostri, et Domini Iesu Christi.
 
 ### Chapter 2
 
@@ -71426,7 +71426,7 @@
 
 **[2:15]** Ipse autem Dominus noster Iesus Christus, et Deus et Pater noster, qui dilexit nos, et dedit consolationem æternam, et spem bonam in gratia,
 
-**[2:16]** exhortetur corda vestra, et confirmet in omni opere, et sermone bono. 
+**[2:16]** exhortetur corda vestra, et confirmet in omni opere, et sermone bono.
 
 **[2:17]** 
 
@@ -71466,7 +71466,7 @@
 
 **[3:17]** Salutatio, mea manu Pauli: quod est signum in omni epistola. ita scribo.
 
-**[3:18]** Gratia Domini nostri Iesu Christi cum omnibus vobis. Amen.  
+**[3:18]** Gratia Domini nostri Iesu Christi cum omnibus vobis. Amen.
 
 ## I Timothy
 
@@ -71510,7 +71510,7 @@
 
 **[1:19]** habens fidem, et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt:
 
-**[1:20]** ex quibus est Hymenæus, et Alexander: quos tradidi Satanæ, ut discant non blasphemare. 
+**[1:20]** ex quibus est Hymenæus, et Alexander: quos tradidi Satanæ, ut discant non blasphemare.
 
 ### Chapter 2
 
@@ -71542,7 +71542,7 @@
 
 **[2:14]** et Adam non est seductus: mulier autem seducta in prævaricatione fuit.
 
-**[2:15]** Salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate. 
+**[2:15]** Salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate.
 
 ### Chapter 3
 
@@ -71576,7 +71576,7 @@
 
 **[3:15]** si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quæ est Ecclesia Dei vivi, columna et firmamentum veritatis.
 
-**[3:16]** Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, iustificatum est in spiritu, apparuit angelis, prædicatum est Gentibus, creditum est in mundo, assumptum est in gloria. 
+**[3:16]** Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, iustificatum est in spiritu, apparuit angelis, prædicatum est Gentibus, creditum est in mundo, assumptum est in gloria.
 
 ### Chapter 4
 
@@ -71610,7 +71610,7 @@
 
 **[4:15]** Hæc meditare, in his esto: ut profectus tuus manifestus sit omnibus.
 
-**[4:16]** Attende tibi, et doctrinæ: insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt. 
+**[4:16]** Attende tibi, et doctrinæ: insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt.
 
 ### Chapter 5
 
@@ -71662,7 +71662,7 @@
 
 **[5:24]** Quorundam hominum peccata manifesta sunt, præcedentia ad iudicium: quosdam autem et subsequuntur.
 
-**[5:25]** Similiter et facta bona manifesta sunt: et quæ aliter se habent, abscondi non possunt. 
+**[5:25]** Similiter et facta bona manifesta sunt: et quæ aliter se habent, abscondi non possunt.
 
 ### Chapter 6
 
@@ -71706,7 +71706,7 @@
 
 **[6:20]** O Timothee, depositum custodi, devitans profanas vocum novitates, et oppositiones falsi nominis scientiæ,
 
-**[6:21]** quam quidam promittentes, circa fidem exciderunt. Gratia tecum. Amen.  
+**[6:21]** quam quidam promittentes, circa fidem exciderunt. Gratia tecum. Amen.
 
 ## II Timothy
 
@@ -71746,7 +71746,7 @@
 
 **[1:17]** sed cum Romam venisset, solicite me quæsivit, et invenit.
 
-**[1:18]** Det illi Dominus invenire misericordiam a Domino in illa die. Et quanta Ephesi ministravit mihi, tu melius nosti. 
+**[1:18]** Det illi Dominus invenire misericordiam a Domino in illa die. Et quanta Ephesi ministravit mihi, tu melius nosti.
 
 ### Chapter 2
 
@@ -71800,7 +71800,7 @@
 
 **[2:25]** cum modestia corripientem eos, qui resistunt veritati: nequando Deus det illis pœnitentiam ad cognoscendam veritatem,
 
-**[2:26]** et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem. 
+**[2:26]** et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.
 
 ### Chapter 3
 
@@ -71836,7 +71836,7 @@
 
 **[3:16]** Omnis scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, et erudiendum in iustitia:
 
-**[3:17]** ut perfectus sit homo Dei, ad omne opus bonum instructus. 
+**[3:17]** ut perfectus sit homo Dei, ad omne opus bonum instructus.
 
 ### Chapter 4
 
@@ -71882,7 +71882,7 @@
 
 **[4:21]** Festina ante hiemem venire. Salutant te Eubulus, et Pudens, et Linus, et Claudia, et fratres omnes.
 
-**[4:22]** Dominus Iesus Christus cum spiritu tuo. Gratia vobiscum. Amen.  
+**[4:22]** Dominus Iesus Christus cum spiritu tuo. Gratia vobiscum. Amen.
 
 ## Titus
 
@@ -71918,7 +71918,7 @@
 
 **[1:15]** Omnia munda mundis: coinquinatis autem, et infidelibus nihil est mundum, sed inquinatæ sunt eorum et mens, et conscientia.
 
-**[1:16]** Confitentur se nosse Deum, factis autem negant: cum sint abominati, et incredibiles, et ad omne opus bonum reprobi. 
+**[1:16]** Confitentur se nosse Deum, factis autem negant: cum sint abominati, et incredibiles, et ad omne opus bonum reprobi.
 
 ### Chapter 2
 
@@ -71950,7 +71950,7 @@
 
 **[2:14]** qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.
 
-**[2:15]** Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat. 
+**[2:15]** Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.
 
 ### Chapter 3
 
@@ -71982,7 +71982,7 @@
 
 **[3:14]** Discant autem et nostri bonis operibus præesse ad usus necessarios: ut non sint infructuosi.
 
-**[3:15]** Salutant te qui mecum sunt omnes: saluta eos, qui nos amant in fide. Gratia Dei cum omnibus vobis. Amen.  
+**[3:15]** Salutant te qui mecum sunt omnes: saluta eos, qui nos amant in fide. Gratia Dei cum omnibus vobis. Amen.
 
 ## Philemon
 
@@ -72036,7 +72036,7 @@
 
 **[1:24]** Marcus, Aristarchus, Demas, et Lucas, adiutores mei.
 
-**[1:25]** Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.  
+**[1:25]** Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.
 
 ## Hebrews
 
@@ -72068,7 +72068,7 @@
 
 **[1:13]** Ad quem autem Angelorum dixit aliquando: Sede a dextris meis, quoadusque ponam inimicos tuos scabellum pedum tuorum?
 
-**[1:14]** Nonne omnes sunt administratorii spiritus, in ministerium missi propter eos, qui hereditatem capient salutis? 
+**[1:14]** Nonne omnes sunt administratorii spiritus, in ministerium missi propter eos, qui hereditatem capient salutis?
 
 ### Chapter 2
 
@@ -72106,7 +72106,7 @@
 
 **[2:17]** Unde debuit per omnia fratribus similari, ut misericors fieret, et fidelis pontifex ad Deum, ut repropitiaret delicta populi.
 
-**[2:18]** In eo enim, in quo passus est ipse et tentatus, potens est et eis, qui tentantur, auxiliari. 
+**[2:18]** In eo enim, in quo passus est ipse et tentatus, potens est et eis, qui tentantur, auxiliari.
 
 ### Chapter 3
 
@@ -72146,7 +72146,7 @@
 
 **[3:18]** Quibus autem iuravit non introire in requiem ipsius, nisi illis, qui increduli fuerunt?
 
-**[3:19]** Et videmus, quia non potuerunt introire propter incredulitatem. 
+**[3:19]** Et videmus, quia non potuerunt introire propter incredulitatem.
 
 ### Chapter 4
 
@@ -72180,7 +72180,7 @@
 
 **[4:15]** Non enim habemus pontificem, qui non possit compati infirmitatibus nostris: tentatum autem per omnia pro similitudine absque peccato.
 
-**[4:16]** Adeamus ergo cum fiducia ad thronum gratiæ: ut misericordiam consequamur, et gratiam inveniamus in auxilio opportuno. 
+**[4:16]** Adeamus ergo cum fiducia ad thronum gratiæ: ut misericordiam consequamur, et gratiam inveniamus in auxilio opportuno.
 
 ### Chapter 5
 
@@ -72210,7 +72210,7 @@
 
 **[5:13]** Omnis enim, qui lactis est particeps, expers est sermonis iustitiæ, parvulus enim est.
 
-**[5:14]** Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali. 
+**[5:14]** Perfectorum autem est solidus cibus: eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.
 
 ### Chapter 6
 
@@ -72252,7 +72252,7 @@
 
 **[6:19]** quam sicut anchoram habemus animæ tutam ac firmam, et incedentem usque ad interiora velaminis,
 
-**[6:20]** ubi præcursor pro nobis introivit Iesus, secundum ordinem Melchisedech pontifex factus in æternum. 
+**[6:20]** ubi præcursor pro nobis introivit Iesus, secundum ordinem Melchisedech pontifex factus in æternum.
 
 ### Chapter 7
 
@@ -72310,7 +72310,7 @@
 
 **[7:27]** qui non habet necessitatem quotidie, quemadmodum sacerdotes, prius pro suis delictis hostias offerre, deinde pro populi: hoc enim fecit semel, seipsum offerendo.
 
-**[7:28]** Lex enim homines constituit sacerdotes infirmitatem habentes: sermo autem iurisiurandi, qui post legem est, Filium in æternum perfectum. 
+**[7:28]** Lex enim homines constituit sacerdotes infirmitatem habentes: sermo autem iurisiurandi, qui post legem est, Filium in æternum perfectum.
 
 ### Chapter 8
 
@@ -72338,7 +72338,7 @@
 
 **[8:12]** quia propitius ero iniquitatibus eorum, et peccatorum eorum iam non memorabor.
 
-**[8:13]** Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est. 
+**[8:13]** Dicendo autem novum: veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.
 
 ### Chapter 9
 
@@ -72396,7 +72396,7 @@
 
 **[9:27]** Et quemadmodum statutum est hominibus semel mori, post hoc autem iudicium:
 
-**[9:28]** sic et Christus semel oblatus est ad multorum exhaurienda peccata: secundo sine peccato apparebit expectantibus se, in salutem. 
+**[9:28]** sic et Christus semel oblatus est ad multorum exhaurienda peccata: secundo sine peccato apparebit expectantibus se, in salutem.
 
 ### Chapter 10
 
@@ -72476,7 +72476,7 @@
 
 **[10:38]** iustus autem meus ex fide vivit. quod si subtraxerit se, non placebit animæ meæ.
 
-**[10:39]** Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ. 
+**[10:39]** Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.
 
 ### Chapter 11
 
@@ -72558,7 +72558,7 @@
 
 **[11:39]** Et hi omnes testimonio fidei probati, non acceperunt repromissionem,
 
-**[11:40]** Deo pro nobis melius aliquid providente, ut non sine nobis consummarentur. 
+**[11:40]** Deo pro nobis melius aliquid providente, ut non sine nobis consummarentur.
 
 ### Chapter 12
 
@@ -72618,7 +72618,7 @@
 
 **[12:28]** Itaque regnum immobile suscipientes, habemus gratiam: per quam serviamus placentes Deo, cum metu et reverentia.
 
-**[12:29]** Etenim Deus noster ignis consumens est. 
+**[12:29]** Etenim Deus noster ignis consumens est.
 
 ### Chapter 13
 
@@ -72670,7 +72670,7 @@
 
 **[13:24]** Salutate omnes præpositos vestros, et omnes sanctos. Salutant vos de Italia fratres.
 
-**[13:25]** Gratia cum omnibus vobis. Amen.  
+**[13:25]** Gratia cum omnibus vobis. Amen.
 
 ## James
 
@@ -72728,7 +72728,7 @@
 
 **[1:26]** Si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens cor suum, huius vana est religio.
 
-**[1:27]** Religio munda, et immaculata apud Deum et Patrem, hæc est: Visitare pupillos, et viduas in tribulatione eorum, et immaculatum se custodire ab hoc sæculo. 
+**[1:27]** Religio munda, et immaculata apud Deum et Patrem, hæc est: Visitare pupillos, et viduas in tribulatione eorum, et immaculatum se custodire ab hoc sæculo.
 
 ### Chapter 2
 
@@ -72782,7 +72782,7 @@
 
 **[2:25]** Similiter et Rahab meretrix, nonne ex operibus iustificata est, suscipiens nuncios, et alia via eiiciens?
 
-**[2:26]** Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est. 
+**[2:26]** Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.
 
 ### Chapter 3
 
@@ -72820,7 +72820,7 @@
 
 **[3:17]** Quæ autem desursum est sapientia, primum quidem pudica est, deinde pacifica, modesta, suadibilis, bonus consentiens, plena misericordia, et fructibus bonis, non iudicans, sine simulatione.
 
-**[3:18]** Fructus autem iustitiæ, in pace seminatur, facientibus pacem. 
+**[3:18]** Fructus autem iustitiæ, in pace seminatur, facientibus pacem.
 
 ### Chapter 4
 
@@ -72856,7 +72856,7 @@
 
 **[4:16]** Nunc autem exultatis in superbiis vestris. Omnis exultatio talis, maligna est.
 
-**[4:17]** Scienti igitur bonum facere, et non facienti, peccatum est illi. 
+**[4:17]** Scienti igitur bonum facere, et non facienti, peccatum est illi.
 
 ### Chapter 5
 
@@ -72898,7 +72898,7 @@
 
 **[5:19]** Fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum:
 
-**[5:20]** scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam eius a morte, et operiet multitudinem peccatorum.  
+**[5:20]** scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam eius a morte, et operiet multitudinem peccatorum.
 
 ## I Peter
 
@@ -72952,7 +72952,7 @@
 
 **[1:24]** quia omnis caro ut fœnum: et omnis gloria eius tamquam flos fœni: exaruit fœnum, et flos eius decidit.
 
-**[1:25]** Verbum autem Domini manet in æternum. hoc est autem verbum, quod evangelizatum est in vos. 
+**[1:25]** Verbum autem Domini manet in æternum. hoc est autem verbum, quod evangelizatum est in vos.
 
 ### Chapter 2
 
@@ -73004,7 +73004,7 @@
 
 **[2:24]** qui peccata nostra ipse pertulit in corpore suo super lignum: ut peccatis mortui, iustitiæ vivamus: cuius livore sanati estis.
 
-**[2:25]** Eratis enim sicut oves errantes, sed conversi estis nunc ad pastorem, et episcopum animarum vestrarum. 
+**[2:25]** Eratis enim sicut oves errantes, sed conversi estis nunc ad pastorem, et episcopum animarum vestrarum.
 
 ### Chapter 3
 
@@ -73050,7 +73050,7 @@
 
 **[3:21]** Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed conscientiæ bonæ interrogatio in Deum per resurrectionem Iesu Christi,
 
-**[3:22]** qui est in dextera Dei, deglutiens mortem ut vitæ æternæ heredes efficeremur: profectus in cælum subiectis sibi angelis, et potestatibus, et virtutibus. 
+**[3:22]** qui est in dextera Dei, deglutiens mortem ut vitæ æternæ heredes efficeremur: profectus in cælum subiectis sibi angelis, et potestatibus, et virtutibus.
 
 ### Chapter 4
 
@@ -73090,7 +73090,7 @@
 
 **[4:18]** Et si iustus vix salvabitur, impius, et peccator ubi parebunt?
 
-**[4:19]** Itaque et hi, qui patiuntur secundum voluntatem Dei, fideli Creatori commendent animas suas in benefactis. 
+**[4:19]** Itaque et hi, qui patiuntur secundum voluntatem Dei, fideli Creatori commendent animas suas in benefactis.
 
 ### Chapter 5
 
@@ -73120,7 +73120,7 @@
 
 **[5:13]** Salutat vos Ecclesia, quæ est in Babylone coelecta, et Marcus filius meus.
 
-**[5:14]** Salutate invicem in osculo sancto: Gratia vobis omnibus, qui estis in Christo Iesu. Amen.  
+**[5:14]** Salutate invicem in osculo sancto: Gratia vobis omnibus, qui estis in Christo Iesu. Amen.
 
 ## II Peter
 
@@ -73166,7 +73166,7 @@
 
 **[1:20]** hoc primum intelligentes quod omnis prophetia Scripturæ propria interpretatione non fit.
 
-**[1:21]** Non enim voluntate humana allata est aliquando prophetia: sed Spiritu sancto inspirati, locuti sunt sancti Dei homines. 
+**[1:21]** Non enim voluntate humana allata est aliquando prophetia: sed Spiritu sancto inspirati, locuti sunt sancti Dei homines.
 
 ### Chapter 2
 
@@ -73212,7 +73212,7 @@
 
 **[2:21]** Melius enim erat illis non cognoscere viam iustitiæ, quam post agnitionem, retrorsum converti ab eo, quod illis traditum est sancto mandato.
 
-**[2:22]** Contigit enim eis illud veri proverbii: Canis reversus ad suum vomitum: et, Sus lota in volutabro luti. 
+**[2:22]** Contigit enim eis illud veri proverbii: Canis reversus ad suum vomitum: et, Sus lota in volutabro luti.
 
 ### Chapter 3
 
@@ -73250,7 +73250,7 @@
 
 **[3:17]** Vos igitur fratres præscientes custodite, ne insipientium errore traducti excidatis a propria firmitate.
 
-**[3:18]** crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Iesu Christi. Ipsi gloria et nunc, et in diem æternitatis. Amen.  
+**[3:18]** crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Iesu Christi. Ipsi gloria et nunc, et in diem æternitatis. Amen.
 
 ## I John
 
@@ -73274,7 +73274,7 @@
 
 **[1:9]** Si confiteamur peccata nostra: fidelis est, et iustus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate.
 
-**[1:10]** Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis. 
+**[1:10]** Si dixerimus quoniam non peccavimus: mendacem facimus eum, et verbum eius non est in nobis.
 
 ### Chapter 2
 
@@ -73334,7 +73334,7 @@
 
 **[2:28]** Et nunc filioli manete in eo: ut cum apparuerit, habeamus fiduciam, et non confundamur ab eo in adventu eius.
 
-**[2:29]** Si scitis quoniam iustus est, scitote quoniam et omnis, qui facit iustitiam, ex ipso natus est. 
+**[2:29]** Si scitis quoniam iustus est, scitote quoniam et omnis, qui facit iustitiam, ex ipso natus est.
 
 ### Chapter 3
 
@@ -73384,7 +73384,7 @@
 
 **[3:23]** Et hoc est mandatum eius: Ut credamus in nomine Filii eius Iesu Christi: et diligamus alterutrum, sicut dedit mandatum nobis.
 
-**[3:24]** Et qui servat mandata eius, in illo manet, et ipse in eo: et in hoc scimus quoniam manet in nobis de Spiritu, quem dedit nobis. 
+**[3:24]** Et qui servat mandata eius, in illo manet, et ipse in eo: et in hoc scimus quoniam manet in nobis de Spiritu, quem dedit nobis.
 
 ### Chapter 4
 
@@ -73428,7 +73428,7 @@
 
 **[4:20]** Si quis dixerit quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?
 
-**[4:21]** Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum. 
+**[4:21]** Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.
 
 ### Chapter 5
 
@@ -73472,7 +73472,7 @@
 
 **[5:20]** Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum Deum, et simus in vero Filio eius. Hic est verus Deus, et vita æterna.
 
-**[5:21]** Filioli, custodite vos a simulacris. Amen.  
+**[5:21]** Filioli, custodite vos a simulacris. Amen.
 
 ## II John
 
@@ -73502,7 +73502,7 @@
 
 **[1:12]** Plura habens vobis scribere, nolui per chartam et atramentum: spero enim me futurum apud vos, et os ad os loqui: ut gaudium vestrum plenum sit.
 
-**[1:13]** Salutant te filii sororis tuæ Electæ.  
+**[1:13]** Salutant te filii sororis tuæ Electæ.
 
 ## III John
 
@@ -73534,7 +73534,7 @@
 
 **[1:13]** Multa habui tibi scribere: sed nolui per atramentum et calamum scribere tibi.
 
-**[1:14]** Spero autem protinus te videre, et os ad os loquemur. Pax tibi. Salutant te amici. Saluta amicos nominatim.  
+**[1:14]** Spero autem protinus te videre, et os ad os loquemur. Pax tibi. Salutant te amici. Saluta amicos nominatim.
 
 **[1:15]** 
 
@@ -73590,7 +73590,7 @@
 
 **[1:24]** Ei autem, qui potens est vos conservare sine peccato, et constituere ante conspectum gloriæ suæ immaculatos in exultatione in adventu Domini nostri Iesu Christi.
 
-**[1:25]** Soli Deo Salvatori nostro, per Iesum Christum Dominum nostrum, gloria et magnificentia, imperium et potestas ante omne sæculum, et nunc, et in omnia sæcula sæculorum. Amen.  
+**[1:25]** Soli Deo Salvatori nostro, per Iesum Christum Dominum nostrum, gloria et magnificentia, imperium et potestas ante omne sæculum, et nunc, et in omnia sæcula sæculorum. Amen.
 
 ## Revelation of John
 
@@ -73610,7 +73610,7 @@
 
 **[1:7]** Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et plangent se super eum omnes tribus terræ: Etiam: Amen.
 
-**[1:8]** Ego sum ?, et ?, principium, et finis, dicit Dominus Deus: qui est, et qui erat, et qui venturus est, omnipotens.
+**[1:8]** Ego sum?, et?, principium, et finis, dicit Dominus Deus: qui est, et qui erat, et qui venturus est, omnipotens.
 
 **[1:9]** Ego Ioannes frater vester, et particeps in tribulatione, et regno et patientia in Christo Iesu: fui in insula, quæ appellatur Patmos propter verbum Dei, et testimonium Iesu:
 
@@ -73634,7 +73634,7 @@
 
 **[1:19]** Scribe ergo quæ vidisti, et quæ sunt, et quæ oportet fieri post hæc.
 
-**[1:20]** Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea: septem stellæ Angeli sunt septem Ecclesiarum: et candelabra septem, septem Ecclesiæ sunt. 
+**[1:20]** Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea: septem stellæ Angeli sunt septem Ecclesiarum: et candelabra septem, septem Ecclesiæ sunt.
 
 ### Chapter 2
 
@@ -73694,7 +73694,7 @@
 
 **[2:28]** sicut et ego accepi a Patre meo: et dabo illi stellam matutinam.
 
-**[2:29]** Qui habet aurem, audiat quid Spiritus dicat Ecclesiis. 
+**[2:29]** Qui habet aurem, audiat quid Spiritus dicat Ecclesiis.
 
 ### Chapter 3
 
@@ -73740,7 +73740,7 @@
 
 **[3:21]** Qui vicerit, dabo ei sedere mecum in throno meo: sicut et ego vici, et sedi cum patre meo in throno eius.
 
-**[3:22]** Qui habet aurem, audiat quid Spiritus dicat Ecclesiis. 
+**[3:22]** Qui habet aurem, audiat quid Spiritus dicat Ecclesiis.
 
 ### Chapter 4
 
@@ -73764,7 +73764,7 @@
 
 **[4:10]** procidebant vigintiquattuor seniores ante sedentem in throno, et adorabant viventem in sæcula sæculorum, et mittebant coronas suas ante thronum dicentes:
 
-**[4:11]** Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt. 
+**[4:11]** Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.
 
 ### Chapter 5
 
@@ -73794,7 +73794,7 @@
 
 **[5:13]** Et omnem creaturam, quæ in cælo est, et super terram, et sub terra, et quæ sunt in mari, et quæ in eo: omnes audivi dicentes: Sedenti in throno, et Agno: benedictio, et honor, et gloria, et potestas in sæcula sæculorum.
 
-**[5:14]** Et quattuor animalia dicebant: Amen. Et viginti quattuor seniores ceciderunt in facies suas: et adoraverunt viventem in sæcula sæculorum. 
+**[5:14]** Et quattuor animalia dicebant: Amen. Et viginti quattuor seniores ceciderunt in facies suas: et adoraverunt viventem in sæcula sæculorum.
 
 ### Chapter 6
 
@@ -73830,7 +73830,7 @@
 
 **[6:16]** et dicunt montibus, et petris: Cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira Agni:
 
-**[6:17]** quoniam venit dies magnus iræ ipsorum: et quis poterit stare? 
+**[6:17]** quoniam venit dies magnus iræ ipsorum: et quis poterit stare?
 
 ### Chapter 7
 
@@ -73866,7 +73866,7 @@
 
 **[7:16]** non esurient, neque sitient amplius, nec cadet super illos sol, neque ullus æstus:
 
-**[7:17]** quoniam Agnus, qui in medio throni est, reget illos, et deducet eos ad vitæ fontes aquarum, et absterget Deus omnem lacrymam ab oculis eorum. 
+**[7:17]** quoniam Agnus, qui in medio throni est, reget illos, et deducet eos ad vitæ fontes aquarum, et absterget Deus omnem lacrymam ab oculis eorum.
 
 ### Chapter 8
 
@@ -73894,7 +73894,7 @@
 
 **[8:12]** Et quartus Angelus tuba cecinit: et percussa est tertia pars solis, et tertia pars lunæ, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter.
 
-**[8:13]** Et vidi, et audivi vocem unius aquilæ volantis per medium cæli, dicentis voce magna: Væ, væ, væ habitantibus in terra de ceteris vocibus trium Angelorum, qui erant tuba canituri. 
+**[8:13]** Et vidi, et audivi vocem unius aquilæ volantis per medium cæli, dicentis voce magna: Væ, væ, væ habitantibus in terra de ceteris vocibus trium Angelorum, qui erant tuba canituri.
 
 ### Chapter 9
 
@@ -73938,7 +73938,7 @@
 
 **[9:20]** Et ceteri homines, qui non sunt occisi in his plagis, neque pœnitentiam egerunt de operibus manuum suarum, ut non adorarent dæmonia, et simulacra aurea, et argentea, et ærea, et lapidea, et lignea, quæ neque videre possunt, neque audire, neque ambulare,
 
-**[9:21]** et non egerunt pœnitentiam ab homicidiis suis, neque a veneficiis suis, neque a fornicatione sua, neque a furtis suis. 
+**[9:21]** et non egerunt pœnitentiam ab homicidiis suis, neque a veneficiis suis, neque a fornicatione sua, neque a furtis suis.
 
 ### Chapter 10
 
@@ -73962,7 +73962,7 @@
 
 **[10:10]** Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce: et cum devorassem eum, amaricatus est venter meus:
 
-**[10:11]** et dixit mihi: Oportet te iterum prophetare Gentibus, et populis, et linguis, et regibus multis. 
+**[10:11]** et dixit mihi: Oportet te iterum prophetare Gentibus, et populis, et linguis, et regibus multis.
 
 ### Chapter 11
 
@@ -74002,7 +74002,7 @@
 
 **[11:18]** Et iratæ sunt Gentes, et advenit ira tua, et tempus mortuorum iudicari, et reddere mercedem servis tuis Prophetis, et sanctis, et timentibus nomen tuum pusillis, et magnis, et exterminandi eos, qui corruperunt terram.
 
-**[11:19]** Et apertum est templum Dei in cælo: et visa est arca testamenti eius in templo eius, et facta sunt fulgura, et voces, et terræmotus, et grando magna. 
+**[11:19]** Et apertum est templum Dei in cælo: et visa est arca testamenti eius in templo eius, et facta sunt fulgura, et voces, et terræmotus, et grando magna.
 
 ### Chapter 12
 
@@ -74040,7 +74040,7 @@
 
 **[12:17]** Et iratus est draco in mulierem: et abiit facere prælium cum reliquis de semine eius, qui custodiunt mandata Dei, et habent testimonium Iesu Christi.
 
-**[12:18]** Et stetit supra arenam maris. 
+**[12:18]** Et stetit supra arenam maris.
 
 ### Chapter 13
 
@@ -74078,7 +74078,7 @@
 
 **[13:17]** et nequis possit emere, aut vendere, nisi qui habet characterem, aut nomen bestiæ, aut numerum nominis eius.
 
-**[13:18]** Hic sapientia est. Qui habet intellectum, computet numerum bestiæ. Numerus enim hominis est: et numerus eius sexcenti sexaginta sex. 
+**[13:18]** Hic sapientia est. Qui habet intellectum, computet numerum bestiæ. Numerus enim hominis est: et numerus eius sexcenti sexaginta sex.
 
 ### Chapter 14
 
@@ -74120,7 +74120,7 @@
 
 **[14:19]** Et misit Angelus falcem suam acutam in terram, et vindemiavit vineam terræ, et misit in lacum iræ Dei magnum:
 
-**[14:20]** et calcatus est lacus extra civitatem, et exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta. 
+**[14:20]** et calcatus est lacus extra civitatem, et exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta.
 
 ### Chapter 15
 
@@ -74138,7 +74138,7 @@
 
 **[15:7]** Et unum de quattuor animalibus dedit septem Angelis septem phialas aureas, plenas iracundiæ Dei viventis in sæcula sæculorum.
 
-**[15:8]** Et impletum est templum fumo a maiestate Dei, et de virtute eius: et nemo poterat introire in templum, donec consummarentur septem plagæ septem Angelorum. 
+**[15:8]** Et impletum est templum fumo a maiestate Dei, et de virtute eius: et nemo poterat introire in templum, donec consummarentur septem plagæ septem Angelorum.
 
 ### Chapter 16
 
@@ -74182,7 +74182,7 @@
 
 **[16:20]** Et omnis insula fugit, et montes non sunt inventi.
 
-**[16:21]** Et grando magna sicut talentum descendit de cælo in homines: et blasphemaverunt Deum homines propter plagam grandinis: quoniam magna facta est vehementer. 
+**[16:21]** Et grando magna sicut talentum descendit de cælo in homines: et blasphemaverunt Deum homines propter plagam grandinis: quoniam magna facta est vehementer.
 
 ### Chapter 17
 
@@ -74220,7 +74220,7 @@
 
 **[17:17]** Deus enim dedit in corda eorum ut faciant quod placitum est illi: ut dent regnum suum bestiæ donec consummentur verba Dei.
 
-**[17:18]** Et mulier, quam vidisti, est civitas magna, quæ habet regnum super reges terræ. 
+**[17:18]** Et mulier, quam vidisti, est civitas magna, quæ habet regnum super reges terræ.
 
 ### Chapter 18
 
@@ -74270,7 +74270,7 @@
 
 **[18:23]** et lux lucernæ non lucebit in te amplius: et vox sponsi, et sponsæ non audietur adhuc in te: quia mercatores tui erant principes terræ, quia in veneficiis tuis erraverunt omnes gentes.
 
-**[18:24]** Et in ea sanguis prophetarum et sanctorum inventus est: et omnium, qui interfecti sunt in terra. 
+**[18:24]** Et in ea sanguis prophetarum et sanctorum inventus est: et omnium, qui interfecti sunt in terra.
 
 ### Chapter 19
 
@@ -74314,7 +74314,7 @@
 
 **[19:20]** Et apprehensa est bestia, et cum ea pseudopropheta: qui fecit signa coram ipso, quibus seduxit eos, qui acceperunt characterem bestiæ, et qui adoraverunt imaginem eius. Vivi missi sunt hi duo in stagnum ignis ardentis sulphure:
 
-**[19:21]** Et ceteri occisi sunt in gladio sedentis super equum, qui procedit de ore ipsius: et omnes aves saturatæ sunt carnibus eorum. 
+**[19:21]** Et ceteri occisi sunt in gladio sedentis super equum, qui procedit de ore ipsius: et omnes aves saturatæ sunt carnibus eorum.
 
 ### Chapter 20
 
@@ -74346,7 +74346,7 @@
 
 **[20:14]** Et infernus et mors missi sunt in stagnum ignis. Hæc est mors secunda.
 
-**[20:15]** Et qui non inventus est in Libro vitæ scriptus, missus est in stagnum ignis. 
+**[20:15]** Et qui non inventus est in Libro vitæ scriptus, missus est in stagnum ignis.
 
 ### Chapter 21
 
@@ -74360,7 +74360,7 @@
 
 **[21:5]** Et dixit qui sedebat in throno: Ecce nova facio omnia. Et dixit mihi: Scribe, quia hæc verba fidelissima sunt, et vera.
 
-**[21:6]** Et dixit mihi: Factum est. ego sum ?, et ?: initium, et finis. Ego sitienti dabo de fonte aquæ vitæ, gratis.
+**[21:6]** Et dixit mihi: Factum est. ego sum?, et?: initium, et finis. Ego sitienti dabo de fonte aquæ vitæ, gratis.
 
 **[21:7]** Qui vicerit, possidebit hæc, et ero illi Deus, et ille erit mihi filius.
 
@@ -74402,7 +74402,7 @@
 
 **[21:26]** Et afferent gloriam, et honorem gentium in illam.
 
-**[21:27]** Non intrabit in eam aliquod coinquinatum, aut abominationem faciens, et mendacium, nisi qui scripti sunt in libro vitæ Agni. 
+**[21:27]** Non intrabit in eam aliquod coinquinatum, aut abominationem faciens, et mendacium, nisi qui scripti sunt in libro vitæ Agni.
 
 ### Chapter 22
 
@@ -74430,7 +74430,7 @@
 
 **[22:12]** Ecce venio cito, et merces mea mecum est, reddere unicuique secundum opera sua.
 
-**[22:13]** Ego sum ?, et ?, primus, et novissimus, principium, et finis.
+**[22:13]** Ego sum?, et?, primus, et novissimus, principium, et finis.
 
 **[22:14]** Beati, qui lavant stolas suas in sanguine Agni: ut sit potestas eorum in ligno vitæ, et per portas intrent in civitatem.
 
@@ -74446,7 +74446,7 @@
 
 **[22:20]** dicit qui testimonium perhibet istorum. Etiam venio cito: Amen. Veni Domine Iesu.
 
-**[22:21]** Gratia Domini nostri Iesu Christi cum omnibus vobis. Amen.  
+**[22:21]** Gratia Domini nostri Iesu Christi cum omnibus vobis. Amen.
 
 ## Prayer of Manasses
 

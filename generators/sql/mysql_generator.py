@@ -3,6 +3,7 @@ import json
 import unicodedata
 import pymysql
 
+
 class MySQLGenerator:
     def __init__(self, source_dir, format_dir):
         self.source_dir = source_dir
@@ -15,15 +16,20 @@ class MySQLGenerator:
         prepared_data = self.prepare_data(data)
         sql_path = os.path.join(self.format_dir, 'sql', f'{translation}.sql')
 
+        escaped_translation = pymysql.converters.escape_string(translation)
+        escaped_translation_name = pymysql.converters.escape_string(translation_name)
+        escaped_license_info = pymysql.converters.escape_string(license_info)
+
         with open(sql_path, 'w', encoding='utf-8') as sqlfile:
             # Write the SQL header
             sqlfile.write(f"-- SQL Dump for {translation_name} ({translation})\n")
             sqlfile.write(f"-- License: {license_info}\n\n")
 
-            # Drop existing tables
-            sqlfile.write(f"DROP TABLE IF EXISTS `{translation}_books`;\n")
+            # Drop only translation-specific tables.
+            # Do not drop the shared `translations` table, because it is meant
+            # to preserve metadata for all imported translations.
             sqlfile.write(f"DROP TABLE IF EXISTS `{translation}_verses`;\n")
-            sqlfile.write("DROP TABLE IF EXISTS `translations`;\n\n")
+            sqlfile.write(f"DROP TABLE IF EXISTS `{translation}_books`;\n\n")
 
             # Create translations table if it doesn't exist
             sqlfile.write("""
@@ -33,12 +39,14 @@ class MySQLGenerator:
                 `license` TEXT
             );
             \n""")
+
+            # Insert or update this translation's metadata.
             sqlfile.write(f"""
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT '{translation}', '{translation_name}', '{license_info}'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = '{translation}'
-            );
+            VALUES ('{escaped_translation}', '{escaped_translation_name}', '{escaped_license_info}')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             \n""")
 
             # Create books table
@@ -51,7 +59,11 @@ class MySQLGenerator:
 
             # Insert books
             for book in prepared_data['books']:
-                sqlfile.write(f"INSERT INTO `{translation}_books` (`name`) VALUES ('{book['name']}');\n")
+                escaped_book_name = pymysql.converters.escape_string(book['name'])
+                sqlfile.write(
+                    f"INSERT INTO `{translation}_books` (`name`) "
+                    f"VALUES ('{escaped_book_name}');\n"
+                )
 
             # Create verses table
             sqlfile.write(f"""
@@ -69,8 +81,15 @@ class MySQLGenerator:
             for book_index, book in enumerate(prepared_data['books'], start=1):
                 for chapter in book['chapters']:
                     for verse in chapter['verses']:
-                        escaped_text = pymysql.converters.escape_string(normalize_text(verse['text']))
-                        sqlfile.write(f"INSERT INTO `{translation}_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES ({book_index}, {chapter['chapter']}, {verse['verse']}, '{escaped_text}');\n")
+                        escaped_text = pymysql.converters.escape_string(
+                            normalize_text(verse['text'])
+                        )
+                        sqlfile.write(
+                            f"INSERT INTO `{translation}_verses` "
+                            f"(`book_id`, `chapter`, `verse`, `text`) "
+                            f"VALUES ({book_index}, {chapter['chapter']}, "
+                            f"{verse['verse']}, '{escaped_text}');\n"
+                        )
 
         print(f"SQL dump for {translation_name} ({translation}) generated at {sql_path}")
 
@@ -93,14 +112,14 @@ class MySQLGenerator:
             return file.readline().strip()
 
     def prepare_data(self, data):
-        # This method should prepare and return the data in the required format
         return data
+
 
 def normalize_text(text):
     # Replace common characters
     text = text.replace("Æ", "'")
-    
+
     # Unicode normalization
     text = unicodedata.normalize('NFKD', text)
-    
+
     return text

@@ -1,9 +1,8 @@
 -- SQL Dump for # ArmEastern: Eastern Armenian Bible (ArmEastern)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `ArmEastern_books`;
 DROP TABLE IF EXISTS `ArmEastern_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `ArmEastern_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'ArmEastern', '# ArmEastern: Eastern Armenian Bible', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'ArmEastern'
-            );
+            VALUES ('ArmEastern', '# ArmEastern: Eastern Armenian Bible', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `ArmEastern_books` (
@@ -23579,7 +23578,7 @@ INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 16, 'Ո՞ւմ նմանեցնեմ այս սերնդին. նման է նա մանուկների, որոնք նստած են հրապարակներում, կանչում են իրենց ընկերներին եւ ասում.');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 17, 'ձեզ համար փող հնչեցրինք, բայց չպարեցիք. ձեզ համար ողբ երգեցինք, բայց դուք լաց ու կոծ չարեցիք:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 18, 'Եկաւ Յովհաննէսը. ո՛չ ուտում էր եւ ո՛չ խմում. եւ ասացին՝ նրա մէջ դեւ կայ:');
-INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 19, 'Եկաւ մարդու Որդին. ուտում է եւ խմում. եւ ասում են՝ ահա ուտող եւ խմող մարդ, բարեկամ՝ մաքսաւորների եւ մեղաւորների. բայց իմաստութիւնը արդարացուեց իր որդիների կողմից» :');
+INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 19, 'Եկաւ մարդու Որդին. ուտում է եւ խմում. եւ ասում են՝ ահա ուտող եւ խմող մարդ, բարեկամ՝ մաքսաւորների եւ մեղաւորների. բայց իմաստութիւնը արդարացուեց իր որդիների կողմից»:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 20, 'Այն ժամանակ նա սկսեց պարսաւել այն քաղաքները, որոնց մէջ նրա բազում զօրաւոր գործերը տեղի ունեցան, բայց նրանք չապաշխարեցին:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 21, '«Վա՜յ քեզ, Քորազին, վա՜յ քեզ, Բեթսայիդա. որովհետեւ եթէ Տիւրոսում եւ Սիդոնում տեղի ունեցած լինէին այն զօրաւոր գործերը, որ ձեր մէջ արուեցին, վաղուց արդէն քուրջով եւ մոխրով ապաշխարած կը լինէին:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 11, 22, 'Բայց ասում եմ ձեզ, Տիւրոսի եւ Սիդոնի երկրի համար աւելի տանելի կը լինի դատաստանի օրը, քան ձեզ համար:');
@@ -24896,7 +24895,7 @@ INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 38, 'Արթո՛ւն կացէք եւ աղօթեցէ՛ք, որպէսզի փորձութեան մէջ չընկնէք: Հոգին յօժար է, բայց մարմինը՝ տկար»:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 39, 'Եւ նորից գնաց, աղօթքի կանգնեց ու նոյն բաներն ասաց:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 40, 'Կրկին անգամ դարձաւ այնտեղ եւ նրանց քնի մէջ գտաւ. որովհետեւ նրանց աչքերը ծանրացել էին, եւ չէին իմանում, թէ ինչ պատասխան տան նրան:');
-INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 41, 'Երրորդ անգամ եկաւ եւ նրանց ասաց. «Քնեցէ՛ք այսուհետեւ եւ հանգստացէ՛ք, քանի որ վախճանը հասել . եկաւ ժամը, եւ ահա մարդու Որդին մատնւում է մեղաւորների ձեռքը:');
+INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 41, 'Երրորդ անգամ եկաւ եւ նրանց ասաց. «Քնեցէ՛ք այսուհետեւ եւ հանգստացէ՛ք, քանի որ վախճանը հասել. եկաւ ժամը, եւ ահա մարդու Որդին մատնւում է մեղաւորների ձեռքը:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 42, 'Օ՛ն, վե՛ր կացէք գնանք, որովհետեւ ահա մօտեցաւ նա, ով ինձ մատնելու է»:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 43, 'Եւ մինչ նա դեռ խօսում էր այս բաները, եկաւ Յուդա Իսկարիովտացին՝ Տասներկուսից մէկը, եւ իր հետ՝ սրերով, մահակներով զինուած ամբոխ՝ ուղարկուած քահանայապետների, օրէնսգէտների ու ծերերի կողմից:');
 INSERT INTO `ArmEastern_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 14, 44, 'Մատնիչը նրանց նշան էր տուել ասելով՝ ում հետ ես համբուրուեմ, նա՛ է, բռնեցէ՛ք նրան եւ տարէ՛ք զգուշութեամբ:');

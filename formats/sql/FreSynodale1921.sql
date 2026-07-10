@@ -1,9 +1,8 @@
 -- SQL Dump for # FreSynodale1921: Le Nouveau Testament Version Synodale 1921 et le livre des Psaumes (FreSynodale1921)
 -- License: Public Domain
 
-DROP TABLE IF EXISTS `FreSynodale1921_books`;
 DROP TABLE IF EXISTS `FreSynodale1921_verses`;
-DROP TABLE IF EXISTS `translations`;
+DROP TABLE IF EXISTS `FreSynodale1921_books`;
 
 
             CREATE TABLE IF NOT EXISTS `translations` (
@@ -14,10 +13,10 @@ DROP TABLE IF EXISTS `translations`;
             
 
             INSERT INTO `translations` (`translation`, `title`, `license`)
-            SELECT 'FreSynodale1921', '# FreSynodale1921: Le Nouveau Testament Version Synodale 1921 et le livre des Psaumes', 'Public Domain'
-            WHERE NOT EXISTS (
-                SELECT 1 FROM `translations` WHERE `translation` = 'FreSynodale1921'
-            );
+            VALUES ('FreSynodale1921', '# FreSynodale1921: Le Nouveau Testament Version Synodale 1921 et le livre des Psaumes', 'Public Domain')
+            ON DUPLICATE KEY UPDATE
+                `title` = VALUES(`title`),
+                `license` = VALUES(`license`);
             
 
             CREATE TABLE `FreSynodale1921_books` (
@@ -14857,7 +14856,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 21, 'Leur langage a plus de douceur que la crème; Mais la guerre est dans leur coeur. Leurs paroles sont plus onctueuses que l\'huile; Mais elles sont acérées comme des glaives.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 22, 'Décharge-toi de ton fardeau sur l\'Éternel, et il te soutiendra; Il ne permettra pas toujours que le juste chancelle.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 55, 23, 'C\'est toi, ô Dieu, qui les précipiteras au fond de la fosse, Ces hommes de sang et de fraude! Ils n\'arriveront pas à la moitié de leurs jours; Mais moi, je mets en toi ma confiance.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 1, 'Au maître-chantre. — Sur «Colombe des térébinthes lointains.» !!- Poème de David, lorsque les Philistins le prirent dans Gath. Aie pitié de moi, ô Dieu! Car des hommes s\'acharnent à ma perte; Tout le jour ils m\'assaillent et me persécutent.');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 1, 'Au maître-chantre. — Sur «Colombe des térébinthes lointains.»!!- Poème de David, lorsque les Philistins le prirent dans Gath. Aie pitié de moi, ô Dieu! Car des hommes s\'acharnent à ma perte; Tout le jour ils m\'assaillent et me persécutent.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 2, 'Tout le jour mes adversaires s\'acharnent à me perdre; Car ils sont nombreux, ceux qui me provoquent avec insolence.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 3, 'Aux jours d\'alarme, Je me confierai en toi.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 56, 4, 'Avec le secours de Dieu, j\'exalterai sa parole. En Dieu je me confie, je ne crains rien; Que pourrait me faire l\'homme mortel?');
@@ -14909,7 +14908,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 15, 'Qu\'ils rôdent pour trouver à manger, Et qu\'ils errent sans pouvoir se rassasier!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 16, 'Mais moi, je chanterai ta puissance. Je célébrerai dès le matin ta bonté; Car tu as été ma haute retraite. Mon refuge au jour de la détresse.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 59, 17, 'toi qui es ma force, je chanterai en ton honneur! Car Dieu est ma haute retraite, le Dieu qui m\'est propice.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 1, 'Au maître-chantre. — Sur «Le lys du témoignage». !!- Poème didactique de David, lorsqu\'il fit la guerre aux Syriens de Mésopotamie et aux Syriens de Tsoba, et que Joab revint et défit douze mille Édomites dans la Vallée du Sel. O Dieu, tu nous as rejetés, tu nous as dispersés; Tu t\'es irrité: relève-nous!');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 1, 'Au maître-chantre. — Sur «Le lys du témoignage».!!- Poème didactique de David, lorsqu\'il fit la guerre aux Syriens de Mésopotamie et aux Syriens de Tsoba, et que Joab revint et défit douze mille Édomites dans la Vallée du Sel. O Dieu, tu nous as rejetés, tu nous as dispersés; Tu t\'es irrité: relève-nous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 2, 'Tu as fait trembler la terre, tu l\'as déchirée: Répare ses brèches; car elle est ébranlée.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 3, 'Tu as fait voir à ton peuple de dures épreuves. Tu nous as abreuvés d\'un vin qui donne le vertige;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 60, 4, 'Mais tu as donné, à ceux qui te craignent, un étendard. Afin qu\'ils se lèvent au nom de la vérité. Pause');
@@ -16501,7 +16500,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 150, 3, 'Louez-le au son de là trompette; Louez-le avec la lyre et la harpe!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 150, 4, 'Louez-le avec le tambourin et les danses; Louez-le avec les instruments à cordes et avec la flûte!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 150, 5, 'Louez-le avec les cymbales sonores; Louez-le avec les cymbales retentissantes!');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 150, 6, 'Que tout ce qui respire loue l\'Éternel! Louez l\'Éternel! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (19, 150, 6, 'Que tout ce qui respire loue l\'Éternel! Louez l\'Éternel!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 1, 1, '');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 1, 2, '');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (20, 1, 3, '');
@@ -23738,7 +23737,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 1, 'Alors des pharisiens et des scribes, venus de Jérusalem, s\'approchèrent de Jésus et lui dirent:');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 2, 'Pourquoi tes disciples transgressent-ils la tradition des anciens? Car ils ne se lavent pas les mains, lorsqu\'ils prennent leur repas.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 3, 'Il leur répondit: Et vous, pourquoi transgressez-vous le commandement de Dieu par votre tradition?');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 4, 'Car Dieu a donné ce commandement: «Honore ton père et ta mère»; et: «Que celui qui maudira son père ou sa mère soit puni de mort !!-»');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 4, 'Car Dieu a donné ce commandement: «Honore ton père et ta mère»; et: «Que celui qui maudira son père ou sa mère soit puni de mort!!-»');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 5, 'Mais vous, vous dites: Celui qui dira à son père ou à sa mère: J\'ai offert à Dieu ce dont je pourrais t\'assister, — celui-là ne sera pas tenu d\'honorer son père ou sa mère.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 6, 'Ainsi, vous avez anéanti la parole de Dieu par votre tradition.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 15, 7, 'Hypocrites! Ésaïe a bien prophétisé à votre sujet, lorsqu\'il a dit:');
@@ -24084,7 +24083,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 23, 'Alors, si quelqu\'un vous dit: Voyez, le Christ est ici! — ou bien: Il est là! — ne le croyez point.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 24, 'Car de faux christs et de faux prophètes s\'élèveront et feront de grands signes et des prodiges, jusqu\'à séduire, s\'il était possible, les élus eux-mêmes.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 25, 'Vous voilà prévenus!');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 26, 'Si donc on vous dit: Le voici dans le désert. — n\'y allez pas! Le voici dans l\'intérieur de la maison !!- ne le croyez pas!');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 26, 'Si donc on vous dit: Le voici dans le désert. — n\'y allez pas! Le voici dans l\'intérieur de la maison!!- ne le croyez pas!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 27, 'Car, comme l\'éclair part de l\'Orient et brille jusqu\'à l\'Occident, il en sera de même de l\'avènement du Fils de l\'homme.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 28, 'Où sera le cadavre, là s\'assembleront les aigles.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 24, 29, 'Aussitôt après l\'affliction de ces jours-là, le soleil s\'obscurcira, la lune ne donnera plus sa lumière, les étoiles tomberont du ciel, et les puissances des cieux seront ébranlées.');
@@ -24316,7 +24315,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 28, 17, 'Quand ils le virent, ils l\'adorèrent. Or, ils avaient eu des doutes.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 28, 18, 'Jésus, s\'étant approché, leur parla ainsi: Toute puissance m\'a été donnée dans le ciel et sur la terre.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 28, 19, 'Allez donc, enseignez toutes les nations, en les baptisant au nom du Père, du Fils et du Saint-Esprit,');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 28, 20, 'et en leur apprenant à garder tout ce que je vous ai commandé. Et voici que je suis avec vous tous les jours, jusqu\'à la fin du monde! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (40, 28, 20, 'et en leur apprenant à garder tout ce que je vous ai commandé. Et voici que je suis avec vous tous les jours, jusqu\'à la fin du monde!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 1, 'Commencement de l\'Évangile de Jésus-Christ, Fils de Dieu.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 2, 'Conformément à ce qui est écrit dans le prophète Ésaïe: «Je vais envoyer mon messager devant ta face, et il te préparera le chemin.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 1, 3, 'Une voix crie dans le désert: Préparez le chemin du Seigneur, aplanissez ses sentiers». —');
@@ -24994,7 +24993,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 16, 17, 'Voici les miracles qui accompagneront ceux qui auront cru: ils chasseront des démons en mon nom; ils parleront des langues nouvelles;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 16, 18, 'ils prendront des serpents dans leurs mains; quand ils auront bu quelque breuvage mortel, il ne leur fera point de mal; ils imposeront les mains aux malades, et ceux-ci seront guéris.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 16, 19, 'Le Seigneur Jésus, après leur avoir ainsi parlé, fut enlevé au ciel, et il s\'assit à la droite de Dieu.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 16, 20, 'Pour eux, étant partis, ils prêchèrent en tous lieux. Le Seigneur agissait avec eux, et il confirmait la parole par les miracles qui l\'accompagnaient.] ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (41, 16, 20, 'Pour eux, étant partis, ils prêchèrent en tous lieux. Le Seigneur agissait avec eux, et il confirmait la parole par les miracles qui l\'accompagnaient.]');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 1, 1, 'Plusieurs ayant entrepris d\'écrire l\'histoire des faits accomplis parmi nous,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 1, 2, '— tels que nous les ont transmis ceux qui en ont été, dès le commencement, les témoins oculaires, et qui sont devenus ministres de la Parole,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 1, 3, '— j\'ai cru bon, moi aussi, très excellent Théophile, de te les exposer par écrit et dans leur ordre, après m\'être exactement informé de tout, depuis l\'origine,');
@@ -26066,7 +26065,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 27, 'Le peuple, en grande multitude, suivait Jésus, ainsi que des femmes qui se frappaient la poitrine et qui pleuraient sur lui.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 28, 'Mais Jésus, se tournant vers elles, leur dit: Filles de Jérusalem, ne pleurez pas sur moi, mais pleurez sur vous-mêmes et sur vos enfants!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 29, 'Car voici que les jours viennent où l\'on dira: Heureuses les stériles, heureuses les entrailles qui n\'ont pas enfanté, et les mamelles qui n\'ont point allaité!');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 30, 'Alors les hommes se mettront à dire aux montagnes: Tombez sur nous! !!- et aux coteaux: Couvrez-nous!');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 30, 'Alors les hommes se mettront à dire aux montagnes: Tombez sur nous!!!- et aux coteaux: Couvrez-nous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 31, 'Car si l\'on fait ces choses au bois vert, qu\'arrivera-t-il au bois sec?');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 32, 'On conduisait aussi deux autres hommes, des malfaiteurs, pour les faire mourir avec lui.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 23, 33, 'Quand ils furent arrivés au lieu appelé le lieu du Crâne, ils le crucifièrent là, ainsi que les malfaiteurs, l\'un à sa droite, et l\'autre à sa gauche.');
@@ -26145,7 +26144,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 24, 50, 'Il les emmena ensuite jusqu\'aux environs de Béthanie, et, levant ses mains, il les bénit.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 24, 51, 'Pendant qu\'il les bénissait, il se sépara d\'eux et fut élevé au ciel.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 24, 52, 'Eux, l\'ayant adoré, s\'en retournèrent à Jérusalem, pleins d\'une grande joie.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 24, 53, 'Ils se tenaient continuellement dans le temple, bénissant Dieu. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (42, 24, 53, 'Ils se tenaient continuellement dans le temple, bénissant Dieu.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 1, 1, 'Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 1, 2, 'Elle était au commencement avec Dieu.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 1, 3, 'Toutes choses ont été faites par elle, et rien de ce qui a été fait n\'a été fait sans elle.');
@@ -27024,7 +27023,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 21, 22, 'Jésus lui répondit: Si je veux qu\'il demeure jusqu\'à ce que je vienne, que t\'importe? Toi, suis-moi.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 21, 23, 'Le bruit se répandit parmi les frères que ce disciple ne mourrait point. Cependant Jésus n\'avait pas dit: Il ne mourra pas; mais: Si je veux qu\'il demeure jusqu\'à ce que je vienne, que t\'importe?');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 21, 24, 'C\'est ce même disciple qui rend témoignage de ces choses, et qui les a écrites; et nous savons que son témoignage est véridique.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 21, 25, 'Il y a encore beaucoup d\'autres choses que Jésus a faites; et si on les écrivait en détail, je ne pense pas que le monde entier pût contenir les livres qu\'on écrirait. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (43, 21, 25, 'Il y a encore beaucoup d\'autres choses que Jésus a faites; et si on les écrivait en détail, je ne pense pas que le monde entier pût contenir les livres qu\'on écrirait.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 1, 1, 'Dans mon premier livre, ô Théophile, j\'ai parlé de tout ce que Jésus a fait et enseigné depuis le commencement,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 1, 2, 'jusqu\'au jour où il fut élevé dans le ciel, après avoir donné ses ordres, par le Saint-Esprit, aux apôtres qu\'il avait choisis.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 1, 3, 'Il leur était apparu vivant, après avoir souffert; et il leur avait donné plusieurs preuves de sa résurrection, se faisant voir à eux pendant quarante jours et leur parlant de ce qui concerne le royaume de Dieu.');
@@ -28031,7 +28030,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 28, 28, 'Sachez donc que ce salut de Dieu a été envoyé aux Païens ceux-là l\'écouteront.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 28, 29, '[Lorsqu\'il eut dit cela, les Juifs s\'en allèrent, discutant vivement entre eux.]');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 28, 30, 'Paul demeura deux ans entiers dans un logement qu\'il avait loué. Il recevait tous ceux qui venaient le voir,');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 28, 31, 'prêchant le royaume de Dieu, et enseignant ce qui concerne le Seigneur Jésus-Christ, avec une entière liberté et sans aucun empêchement. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (44, 28, 31, 'prêchant le royaume de Dieu, et enseignant ce qui concerne le Seigneur Jésus-Christ, avec une entière liberté et sans aucun empêchement.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 1, 1, 'Paul, serviteur de Jésus-Christ, appelé à être apôtre, mis à part pour annoncer l\'Évangile de Dieu,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 1, 2, '— Évangile que Dieu avait promis d\'avance par ses prophètes dans les saintes Écritures,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 1, 3, 'et qui concerne son Fils né de la race de David, selon la chair,');
@@ -28084,7 +28083,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 18, 'toi qui connais sa volonté et qui sais discerner la différence des choses, instruit que tu es par la loi;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 19, 'toi qui te flattes d\'être le conducteur des aveugles, la lumière de ceux qui sont dans les ténèbres,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 20, 'le docteur des ignorants, le maître des simples, ayant dans la loi la règle de la connaissance et de la vérité,');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 21, 'toi donc qui enseignes les autres, tu ne t\'enseignes pas toi-même !!- Toi, qui prêches qu\'on ne doit pas dérober, tu dérobes!');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 21, 'toi donc qui enseignes les autres, tu ne t\'enseignes pas toi-même!!- Toi, qui prêches qu\'on ne doit pas dérober, tu dérobes!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 22, 'Toi, qui dis qu\'il ne faut pas commettre d\'adultère, tu commets l\'adultère! Toi, qui as en abomination les idoles, tu t\'empares de leurs dépouilles!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 23, 'Toi, qui te glorifies de la loi, tu déshonores Dieu par la transgression de la loi!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 2, 24, 'En effet, «le nom de Dieu est blasphémé à cause de vous parmi les nations», — comme dit l\'Ecriture.');
@@ -28464,7 +28463,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 16, 24, '[La grâce de notre Seigneur Jésus-Christ soit avec vous tous. Amen]');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 16, 25, 'A Celui qui peut vous affermir selon mon Évangile et la prédication du nom de Jésus-Christ, conformément à la révélation du mystère, tenu caché durant les siècles passés,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 16, 26, 'mais qui maintenant, sur l\'ordre du Dieu éternel, a été manifesté et porté, par les écrits prophétiques, à la connaissance de toutes les nations, pour les amener à l\'obéissance de la foi, —');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 16, 27, 'à Dieu seul sage, soit la gloire dans tous les siècles, par Jésus-Christ! Amen. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (45, 16, 27, 'à Dieu seul sage, soit la gloire dans tous les siècles, par Jésus-Christ! Amen.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 1, 1, 'Paul, appelé par la volonté de Dieu à être apôtre de Jésus-Christ, et Sosthène, notre frère,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 1, 2, 'à l\'Église de Dieu qui est à Corinthe, à ceux qui sont sanctifiés en Jésus-Christ, appelés à être saints, et à tous ceux qui invoquent, en quelque lieu que ce soit, le nom de notre Seigneur Jésus-Christ, leur Seigneur et le nôtre.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 1, 3, 'Que la grâce et la paix vous soient données de la part de Dieu, notre Père, et du Seigneur Jésus-Christ!');
@@ -28901,7 +28900,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 16, 21, 'Je vous salue, moi Paul, de ma propre main.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 16, 22, 'Si quelqu\'un n\'aime point le Seigneur, qu\'il soit anathème! Maranatha.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 16, 23, 'Que la grâce du Seigneur Jésus-Christ soit avec vous!');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 16, 24, 'Je vous aime tous, en Jésus-Christ. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (46, 16, 24, 'Je vous aime tous, en Jésus-Christ.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 1, 1, 'Paul, apôtre de Jésus-Christ par la volonté de Dieu, et Timothée, notre frère, à l\'Église de Dieu qui est à Corinthe et à tous les saints qui sont dans toute l\'Achaïe.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 1, 2, 'Que la grâce et la paix vous soient données de la part de Dieu, notre Père, et du Seigneur Jésus-Christ!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 1, 3, 'Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, le Père des miséricordes et le Dieu de toute consolation,');
@@ -29126,7 +29125,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 11, 33, 'On me descendit par une fenêtre, dans une corbeille, le long de la muraille, et c\'est ainsi que j\'échappai de ses mains.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 1, 'Faut-il se glorifier? Cela n\'est pas bon sans doute; mais j\'en viendrai pourtant aux visions et aux révélations du Seigneur.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 2, 'Je connais un homme en Christ, qui fut, il y a quatorze ans, ravi jusqu\'au troisième ciel — si ce fut en son corps, je ne sais; si ce fut hors de son corps, je ne sais: Dieu le sait! —');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 3, 'Je sais que cet homme — si ce fut en son corps, ou sans son corps, je ne sais: Dieu le sait!... !!-');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 3, 'Je sais que cet homme — si ce fut en son corps, ou sans son corps, je ne sais: Dieu le sait!...!!-');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 4, 'fut ravi jusque dans le paradis et y entendit des paroles ineffables, qu\'il n\'est pas permis à un homme de révéler.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 5, 'En ce qui concerne cet homme-là, oui, je puis me glorifier; mais en ce qui concerne exclusivement ma personne, je ne me glorifierai que de mes infirmités.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 12, 6, 'Si je voulais me glorifier, je ne serais pas un insensé; car je dirais la vérité. Mais je m\'en abstiens, afin qu\'aucun homme ne se fasse de moi une idée supérieure à ce qu\'il voit en moi, ou à ce qu\'il m\'entend dire.');
@@ -29158,7 +29157,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 13, 11, 'Au reste, frères, soyez joyeux. Tendez à la perfection; consolez-vous; soyez animés des mêmes sentiments; vivez en paix; et le Dieu d\'amour et de paix sera avec vous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 13, 12, 'Saluez-vous les uns les autres par un saint baiser.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 13, 13, 'Tous les saints vous saluent.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 13, 14, 'Que la grâce du Seigneur Jésus-Christ, l\'amour de Dieu et la communion du Saint-Esprit soient avec vous tous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (47, 13, 14, 'Que la grâce du Seigneur Jésus-Christ, l\'amour de Dieu et la communion du Saint-Esprit soient avec vous tous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 1, 1, 'Paul, apôtre — non de la part des hommes, ni par l\'intermédiaire d\'aucun homme, mais par Jésus-Christ et par Dieu, le Père, qui l\'a ressuscité des morts,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 1, 2, '— ainsi que tous les frères qui sont avec moi, — aux Églises de Galatie.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 1, 3, 'Que la grâce et la paix vous soient données de la part de Dieu, le Père, et de notre Seigneur Jésus-Christ,');
@@ -29307,7 +29306,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 6, 15, 'Car ce qui importe, ce n\'est pas la circoncision ni l\'incirconcision, c\'est d\'être une nouvelle créature.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 6, 16, 'Et pour tous ceux qui suivront cette règle, que la paix et la miséricorde repose sur eux, et sur l\'Israël de Dieu!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 6, 17, 'Que désormais personne ne me fasse de la peine, car je porte en mon corps les stigmates de Jésus.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 6, 18, 'Frères, que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit! Amen. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (48, 6, 18, 'Frères, que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit! Amen.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 1, 1, 'Paul, apôtre de Jésus-Christ par la volonté de Dieu, aux saints qui sont à Éphèse, aux fidèles en Jésus-Christ.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 1, 2, 'Que la grâce et la paix vous soient données de la part de Dieu, notre Père, et du Seigneur Jésus-Christ.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 1, 3, 'Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui nous a comblés en Christ de toutes sortes de bénédictions spirituelles dans les lieux célestes,');
@@ -29462,7 +29461,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 6, 21, 'Pour que vous sachiez, vous aussi, ce qui me concerne et ce que je fais, Tychique, notre frère bien-aimé, qui est un fidèle ministre du Seigneur, vous mettra au courant de tout.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 6, 22, 'Je vous l\'ai envoyé tout exprès, afin que vous appreniez quelle est notre situation, et pour qu\'il console vos coeurs.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 6, 23, 'Que la paix soit donnée aux frères, ainsi que l\'amour avec la foi, de la part de Dieu, le Père, et du Seigneur Jésus-Christ!');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 6, 24, 'Que la grâce soit avec tous ceux qui aiment notre Seigneur Jésus-Christ d\'un amour inaltérable! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (49, 6, 24, 'Que la grâce soit avec tous ceux qui aiment notre Seigneur Jésus-Christ d\'un amour inaltérable!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 1, 1, 'Paul et Timothée, serviteurs de Jésus-Christ, à tous les saints en Jésus-Christ, qui sont à Philippes, ainsi qu\'aux évêques et aux diacres.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 1, 2, 'Que la grâce et la paix vous soient données de la part de Dieu, notre Père, et du Seigneur Jésus-Christ!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 1, 3, 'Je rends grâces à mon Dieu, toutes les fois que je me souviens de vous;');
@@ -29566,7 +29565,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 4, 20, 'A Dieu, notre Père, soit la gloire aux siècles des siècles! Amen.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 4, 21, 'Saluez tous les saints en Jésus-Christ. Les frères qui se trouvent avec moi vous saluent.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 4, 22, 'Tous les saints vous saluent, et principalement ceux qui sont de la maison de César.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 4, 23, 'Que la grâce du Seigneur Jésus-Christ soit avec votre esprit! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (50, 4, 23, 'Que la grâce du Seigneur Jésus-Christ soit avec votre esprit!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 1, 1, 'Paul, apôtre de Jésus-Christ par la volonté de Dieu, et Timothée, notre frère, à nos frères en Christ,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 1, 2, 'les saints et les fidèles qui sont à Colosses. Que la grâce et la paix vous soient données de la part de Dieu, le Père!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 1, 3, 'Nous rendons grâces à Dieu, le Père de notre Seigneur Jésus-Christ, dans les prières que nous faisons sans cesse pour vous.');
@@ -29661,7 +29660,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 4, 15, 'Saluez les frères qui sont à Laodicée, et Nymphas, et l\'Église qui se réunit dans sa maison.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 4, 16, 'Après que cette lettre aura été lue parmi vous, ayez soin de la faire lire aussi dans l\'Église des Laodicéens, et de lire vous-mêmes celle qui viendra de Laodicée.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 4, 17, 'Enfin, dites à Archippe: Prends garde au ministère que tu as reçu au nom du Seigneur, afin de bien le remplir.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 4, 18, 'La salutation est de ma main, à moi, Paul. Souvenez-vous de mes liens. Que la grâce soit avec vous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (51, 4, 18, 'La salutation est de ma main, à moi, Paul. Souvenez-vous de mes liens. Que la grâce soit avec vous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 1, 1, 'Paul des Thessaloniciens, qui est en Dieu, le Père, et en Jésus-Christ, notre Seigneur. Que la grâce et la paix vous soient données!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 1, 2, 'Nous rendons grâces à Dieu en tout temps pour vous tous, faisant mention de vous dans nos prières;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 1, 3, 'car nous nous souvenons sans cesse devant Dieu, notre Père, de l\'oeuvre de votre foi, du travail de votre charité, et de la fermeté de votre espérance en notre Seigneur Jésus-Christ:');
@@ -29750,7 +29749,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 5, 25, 'Frères, priez pour nous.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 5, 26, 'Saluez tous les frères par un saint baiser.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 5, 27, 'Je vous en conjure par le Seigneur, que cette lettre soit lue à tous les frères.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 5, 28, 'Que la grâce de notre Seigneur Jésus-Christ soit avec vous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (52, 5, 28, 'Que la grâce de notre Seigneur Jésus-Christ soit avec vous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 1, 1, 'Paul, Silvain et Timothée, à l\'Église des Thessaloniciens, qui est en Dieu, notre Père, et en Jésus-Christ, le Seigneur.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 1, 2, 'Que la grâce et la paix vous soient données de la part de Dieu, notre Père, et du Seigneur Jésus-Christ!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 1, 3, 'Nous devons, frères, rendre sans cesse grâces à Dieu à votre sujet; et cela est bien juste, puisque votre foi fait de grands progrès, et que l\'amour que vous avez tous les uns pour les autres augmente de plus en plus.');
@@ -29797,7 +29796,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 3, 15, 'Toutefois, ne le regardez pas comme un ennemi, mais avertissez-le comme un frère.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 3, 16, 'Que le Seigneur de la paix vous donne lui-même la paix en tout temps, de toute manière! Que le Seigneur soit avec vous tous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 3, 17, 'La salutation est de ma main, à moi, Paul. C\'est là ma signature dans toutes mes lettres: c\'est ainsi que j\'écris.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 3, 18, 'Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (53, 3, 18, 'Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 1, 1, 'Paul, apôtre de Jésus-Christ, suivant l\'ordre de Dieu, notre Sauveur, et de Jésus-Christ, notre espérance, —');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 1, 2, 'à Timothée, mon vrai fils en la foi. Que la grâce, la miséricorde et la paix te soient données de la part de Dieu, le Père, et de Jésus-Christ, notre Seigneur!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 1, 3, 'Je te rappelle la recommandation que je te fis, en partant pour la Macédoine, de rester à Éphèse, afin d\'avertir certaines personnes de ne pas enseigner une autre doctrine,');
@@ -29910,7 +29909,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 6, 18, 'Recommande-leur de faire du bien, d\'être riches en bonnes oeuvres, prompts à donner et à faire part de ce qu\'ils possèdent,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 6, 19, 'amassant ainsi pour l\'avenir un bon et solide trésor, afin d\'obtenir la vie véritable.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 6, 20, 'Timothée, garde le dépôt qui t\'a été confié; évite les discours vains et profanes, et les objections d\'une science faussement ainsi nommée.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 6, 21, 'C\'est pour s\'être réclamés de cette science, que quelques-uns se sont détournés de la foi. Que la grâce soit avec vous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (54, 6, 21, 'C\'est pour s\'être réclamés de cette science, que quelques-uns se sont détournés de la foi. Que la grâce soit avec vous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 1, 1, 'Paul, apôtre de Jésus-Christ par la volonté de Dieu, — pour annoncer la promesse de la vie qui est en Jésus-Christ, —');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 1, 2, 'à Timothée, mon enfant bien-aimé. Que la grâce, la miséricorde et la paix te soient données de la part de Dieu, le Père, et de Jésus-Christ, notre Seigneur!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 1, 3, 'Je rends grâces à Dieu que je sers, comme mes ancêtres l\'ont fait, avec une conscience pure, faisant mention de toi sans cesse, nuit et jour, dans mes prières.');
@@ -29993,7 +29992,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 4, 19, 'Salue Prisca et Aquilas, et la famille d\'Onésiphore.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 4, 20, 'Éraste est resté à Corinthe, et j\'ai laissé Trophine malade à Milet.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 4, 21, 'Tâche de venir avant l\'hiver. Eubulus, Pudens, Linus, Claudia et tous les frères te saluent.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 4, 22, 'Que le Seigneur soit avec ton esprit! Que la grâce soit avec vous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (55, 4, 22, 'Que le Seigneur soit avec ton esprit! Que la grâce soit avec vous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 1, 1, 'Paul, serviteur de Dieu et apôtre de Jésus-Christ, — pour amener les élus de Dieu à la foi et à la connaissance de la vérité qui produit la piété,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 1, 2, 'dans l\'espérance de la vie éternelle, promise avant tous les siècles par le Dieu qui ne peut mentir,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 1, 3, 'et mise en évidence, au temps voulu, par sa parole, dont la prédication m\'a été confiée sur l\'ordre même de Dieu, notre Sauveur, —');
@@ -30039,7 +30038,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 3, 12, 'Lorsque je t\'aurai envoyé Artémas ou Tychique, hâte-toi de venir me rejoindre à Nicopolis; car j\'ai résolu d\'y passer l\'hiver.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 3, 13, 'Veille avec soin à ce que Zénas, le docteur de la loi, ainsi qu\'Apollos, ne manquent de rien à leur départ.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 3, 14, 'Les nôtres aussi doivent apprendre à s\'appliquer à de bonnes oeuvres pour subvenir aux besoins urgents, afin de ne pas demeurer stériles.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 3, 15, 'Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (56, 3, 15, 'Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 1, 'Paul, prisonnier de Jésus-Christ, et Timothée, notre frère, — à Philémon, notre bien-aimé et notre compagnon d\'oeuvre,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 2, 'ainsi qu\'à Appie, notre soeur, à Archippe, notre compagnon d\'armes, et à l\'Église qui se réunit dans ta maison.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 3, 'Que la grâce et la paix vous soient données de la part de Dieu, notre Père, et du Seigneur Jésus-Christ!');
@@ -30064,7 +30063,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 22, 'En même temps, prépare-toi à me donner aussi l\'hospitalité; car j\'espère vous être rendu, grâce à vos prières.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 23, 'Épaphras, qui est mon compagnon de captivité en Jésus-Christ, te salue,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 24, 'ainsi que Marc, Aristarque, Démas et Luc, mes compagnons d\'oeuvre.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 25, 'Que la grâce du Seigneur Jésus-Christ soit avec votre esprit! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (57, 1, 25, 'Que la grâce du Seigneur Jésus-Christ soit avec votre esprit!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 1, 1, 'Après avoir autrefois parlé à nos pères, à plusieurs reprises et de plusieurs manières, par les prophètes,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 1, 2, 'Dieu nous a parlé dans ces derniers temps par le Fils, celui qu\'il a établi héritier de toutes choses et par lequel il a fait le monde,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 1, 3, 'celui qui, étant le rayonnement de sa gloire, l\'empreinte même de sa personne, soutient toutes choses par sa parole puissante, et qui, après avoir accompli la purification des péchés, s\'est assis à la droite de la majesté divine dans les lieux très hauts:');
@@ -30367,7 +30366,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 13, 22, 'Frères, je vous prie de faire bon accueil à ces paroles d\'exhortation; c\'est en peu de mots que je vous ai écrit.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 13, 23, 'Sachez que notre frère Timothée a été mis en liberté; s\'il vient bientôt, j\'irai vous voir avec lui.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 13, 24, 'Saluez tous vos conducteurs et tous les saints. Ceux d\'Italie vous saluent.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 13, 25, 'Que la grâce soit avec vous tous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (58, 13, 25, 'Que la grâce soit avec vous tous!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 1, 1, 'Jacques, serviteur de Dieu et du Seigneur Jésus-Christ, aux douze tribus qui sont dispersées, salut!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 1, 2, 'Mes frères, considérez comme le sujet d\'une parfaite joie les épreuves diverses qui vous surviennent,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 1, 3, 'sachant que l\'épreuve, à laquelle est soumise votre foi, produit la patience.');
@@ -30475,7 +30474,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 5, 17, 'Élie était un homme sujet aux mêmes faiblesses que nous. Il pria, demandant avec instance qu\'il ne plût pas; et il ne plut pas sur la terre pendant trois ans et demi.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 5, 18, 'Puis, il pria de nouveau; et le ciel donna de la pluie, et la terre produisit ses fruits.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 5, 19, 'Mes frères, si l\'un de vous s\'est égaré loin de la vérité et qu\'un autre le ramène,');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 5, 20, 'qu\'il sache que celui qui ramène un pécheur de la voie où il s\'égare, sauvera une âme de la mort et couvrira une multitude de péchés. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (59, 5, 20, 'qu\'il sache que celui qui ramène un pécheur de la voie où il s\'égare, sauvera une âme de la mort et couvrira une multitude de péchés.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 1, 1, 'Pierre, apôtre de Jésus-Christ, aux élus qui sont étrangers et dispersés dans le Pont, la Galatie, la Cappadoce, l\'Asie et la Bithynie;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 1, 2, 'qui sont élus selon la prescience de Dieu, le Père, et sanctifiés par l\'Esprit, pour obéir à Jésus-Christ et pour avoir part à l\'aspersion de son sang: Que la grâce et la paix vous soient multipliées');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 1, 3, 'Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui, dans sa grande miséricorde, nous a fait renaître, pour que nous ayons, par la résurrection de Jésus-Christ d\'entre les morts, une espérance vivante,');
@@ -30580,7 +30579,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 5, 11, 'A lui soit la puissance, aux siècles des siècles! Amen.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 5, 12, 'Je vous ai écrit ces quelques mots par Silvain, que j\'estime être un frère fidèle, pour vous exhorter, et pour vous attester que c\'est à la vraie grâce de Dieu que vous êtes attachés.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 5, 13, 'L\'Église des élus, qui est à Babylone, vous salue, ainsi que Marc, mon fils.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 5, 14, 'Saluez-vous les uns les autres par un baiser fraternel. Que la paix soit avec vous tous qui êtes en Christ! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (60, 5, 14, 'Saluez-vous les uns les autres par un baiser fraternel. Que la paix soit avec vous tous qui êtes en Christ!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 1, 1, 'Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui, par la justice de notre Dieu et du Sauveur Jésus-Christ, ont reçu en partage une foi de même prix que la nôtre:');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 1, 2, 'Que la grâce et la paix vous soient multipliées par la connaissance de Dieu et de Jésus, notre Seigneur!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 1, 3, 'Sa divine puissance nous a fait don de tout ce qui contribue à la vie et à la piété, en nous faisant connaître Celui, qui nous a appelés par sa gloire et par sa vertu;');
@@ -30641,7 +30640,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 3, 15, 'Et reconnaissez que la longue patience de notre Seigneur sert à votre salut, comme Paul, notre frère bien-aimé, vous l\'a aussi écrit, avec la sagesse qui lui a été donnée.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 3, 16, 'C\'est ce qu\'il fait dans toutes les lettres où il parle de ces choses, et où se trouvent des passages difficiles à comprendre, dont les esprits ignorants et mal affermis tordent le sens, comme ils le font à l\'égard des autres Écritures, pour leur propre perdition.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 3, 17, 'Vous donc, bien aimés, puisque vous êtes prévenus, tenez-vous sur vos gardes, de peur que vous ne soyez entraînés, vous aussi, dans l\'égarement de ces pervers, et que vous ne veniez à déchoir de votre fermeté.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 3, 18, 'Croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui soit la gloire, maintenant et jusqu\'au jour de l\'éternité! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (61, 3, 18, 'Croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui soit la gloire, maintenant et jusqu\'au jour de l\'éternité!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 1, 1, 'Ce qui était dès le commencement, ce que nous avons entendu, ce que nous avons vu de nos yeux, ce que nous avons contemplé et que nos mains ont touché, concernant la Parole de vie,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 1, 2, '— car la vie a été manifestée; nous l\'avons vue, et nous lui rendons témoignage, et nous vous annonçons la vie éternelle, qui était auprès du Père et qui nous a été manifestée. —');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 1, 3, 'ce que nous avons vu et entendu, nous vous l\'annonçons, à vous aussi, afin que vous soyez vous-mêmes en communion avec nous. Or, nous sommes en communion avec le Père et avec son Fils Jésus-Christ.');
@@ -30746,7 +30745,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 5, 18, 'Nous savons que quiconque est né de Dieu, ne pèche point; mais celui qui est né de Dieu se garde lui-même, et le Malin n\'a aucune prise sur lui.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 5, 19, 'Nous savons que nous sommes de Dieu, et que le monde entier est soumis à la puissance du Malin.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 5, 20, 'Mais nous savons que le Fils de Dieu est venu, et il nous a donné l\'intelligence nécessaire pour connaître Celui qui est le Véritable; et nous sommes dans le Véritable, en son Fils Jésus-Christ. C\'est lui qui est le Dieu véritable et la vie éternelle.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 5, 21, 'Mes petits enfants, gardez-vous des idoles! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (62, 5, 21, 'Mes petits enfants, gardez-vous des idoles!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 1, 'L\'ancien, à la dame élue et à ses enfants que j\'aime véritablement, — et ce n\'est pas moi seul qui les aime, mais aussi tous ceux qui ont connu la vérité;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 2, 'et cela, à cause de la vérité même qui demeure en nous, et qui sera avec nous éternellement.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 3, 'Que la grâce, la miséricorde et la paix soient avec nous, de la part de Dieu, le Père, et de la part de Jésus-Christ, le Fils du Père, dans la vérité et la charité!');
@@ -30759,7 +30758,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 10, 'Si quelqu\'un vient à vous et n\'apporte pas cette doctrine, ne le recevez pas dans votre maison, et ne lui donnez pas le salut fraternel.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 11, 'Car celui qui lui donne ce salut, participe à ses mauvaises oeuvres.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 12, 'J\'aurais bien des choses à vous dire: je ne veux pas le faire avec le papier et l\'encre; mais j\'espère aller vous voir et vous entretenir de vive voix, afin que notre joie soit parfaite.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 13, 'Les enfants de ta soeur, l\'élue, te saluent. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (63, 1, 13, 'Les enfants de ta soeur, l\'élue, te saluent.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 1, 'L\'ancien à Gaïus le bien-aimé, que j\'aime véritablement.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 2, 'Bien-aimé, je souhaite que tu prospères en toutes choses, et que la santé de ton corps soit aussi bonne que celle de ton âme.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 3, 'En effet, j\'ai éprouvé une grande joie en voyant arriver des frères qui ont rendu témoignage à ton attachement à la vérité, et à la manière dont tu marches dans cette vérité.');
@@ -30773,7 +30772,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 11, 'Bien-aimé, n\'imite pas le mal, mais imite le bien. Celui qui fait le bien, est de Dieu; celui qui fait le mal, n\'a point vu Dieu.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 12, 'Tous rendent un bon témoignage à Démétrius, et la vérité elle-même le lui rend; nous y joignons notre propre témoignage, et tu sais qu\'il est conforme à la vérité.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 13, 'J\'aurais bien des choses à te dire; mais je ne veux pas le faire avec l\'encre et la plume.');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 14, 'J\'espère te voir bientôt, et nous nous entretiendrons de vive voix. Que la paix soit avec toi! Les amis te saluent. Salue les amis, chacun en particulier. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (64, 1, 14, 'J\'espère te voir bientôt, et nous nous entretiendrons de vive voix. Que la paix soit avec toi! Les amis te saluent. Salue les amis, chacun en particulier.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 1, 'Jude, serviteur de Jésus-Christ et frère de Jacques, à ceux qui ont été appelés, qui sont aimés en Dieu, le Père, et gardés pour Jésus-Christ.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 2, 'Que la miséricorde, la paix et l\'amour vous soient multipliés!');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 3, 'Bien-aimés, comme j\'avais fort à coeur de vous écrire au sujet de notre salut commun, je me suis senti obligé de le faire, afin de vous exhorter à combattre pour la foi qui a été jadis transmise aux saints.');
@@ -30798,7 +30797,7 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 22, 'Reprenez, les uns, ceux qui sont hésitants;');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 23, 'sauvez-en, d\'autres, en les arrachant du feu; pour d\'autres encore, ayez une pitié mêlée de crainte, haïssant jusqu\'au vêtement souillé par la chair.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 24, 'Or, à celui qui peut vous préserver de toute chute et vous faire paraître irréprochables et joyeux en sa glorieuse présence,');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 25, 'au Dieu unique, notre Sauveur par Jésus-Christ notre Seigneur, soient gloire, grandeur, force et puissance, de toute éternité, maintenant et dans tous les siècles! Amen. ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (65, 1, 25, 'au Dieu unique, notre Sauveur par Jésus-Christ notre Seigneur, soient gloire, grandeur, force et puissance, de toute éternité, maintenant et dans tous les siècles! Amen.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 1, 1, 'Révélation de Jésus-Christ, que Dieu lui a donnée pour montrer à ses serviteurs les choses qui doivent arriver bientôt: il les a fait connaître en envoyant son ange à Jean, son serviteur,');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 1, 2, 'qui a annoncé la parole de Dieu et le témoignage de Jésus-Christ, et toutes les choses qu\'il a vues.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 1, 3, 'Heureux celui qui lit et ceux qui entendent la parole de cette prophétie, et qui observent ce qui s\'y trouve écrit! Car le temps est proche.');
@@ -31202,4 +31201,4 @@ INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VAL
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 22, 18, 'Je le déclare à quiconque entend les paroles de la prophétie de ce livre: Si quelqu\'un y ajoute quelque chose, Dieu fera venir sur lui les fléaux décrits dans ce livre.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 22, 19, 'Si quelqu\'un retranche quelque chose des paroles du livre de cette prophétie, Dieu retranchera sa part de l\'arbre de vie et de la ville sainte, qui sont décrits dans ce livre.');
 INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 22, 20, 'Celui qui rend témoignage de ces choses, dit: Oui, je viens bientôt. — Amen! — Viens, Seigneur Jésus!');
-INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 22, 21, 'Que la grâce du Seigneur Jésus soit avec tous! ');
+INSERT INTO `FreSynodale1921_verses` (`book_id`, `chapter`, `verse`, `text`) VALUES (66, 22, 21, 'Que la grâce du Seigneur Jésus soit avec tous!');

@@ -13006,7 +13006,7 @@
 
 **[17:17]** Then Joshua said to the children of Joseph, to Ephraim and Manasseh, You are a great people, and have great power: you are not to have one property only,
 
-**[17:18]** For the hill-country of Gilead will be yours ... the woodland and cut down ... its outskirts will be yours ... get the Canaanites out, for they have iron war-carriages ... strong.
+**[17:18]** For the hill-country of Gilead will be yours... the woodland and cut down... its outskirts will be yours... get the Canaanites out, for they have iron war-carriages... strong.
 
 ### Chapter 18
 
@@ -13158,7 +13158,7 @@
 
 **[19:45]** And Jehud and Bene-berak and Gath-rimmon;
 
-**[19:46]** And on the west was ... opposite Joppa.
+**[19:46]** And on the west was... opposite Joppa.
 
 **[19:47]** (But the limit of the children of Dan was not wide enough for them; so the children of Dan went up and made war on Leshem and took it, putting it to the sword without mercy, and they took it for their heritage and made a place for themselves there, giving it the name of Leshem-dan, after the name of their father, Dan.)
 
@@ -13622,7 +13622,7 @@
 
 **[3:21]** And Ehud put out his left hand, and took the sword from his right side, and sent it into his stomach;
 
-**[3:22]** And the hand-part went in after the blade, and the fat was joined up over the blade; for he did not take the sword out of his stomach. And he went out into the ...
+**[3:22]** And the hand-part went in after the blade, and the fat was joined up over the blade; for he did not take the sword out of his stomach. And he went out into the...
 
 **[3:23]** Then Ehud went out into the covered way, shutting the doors of the summer-house on him and locking them.
 
@@ -18316,7 +18316,7 @@
 
 **[4:7]** And Solomon put twelve overseers over all Israel, to be responsible for the stores needed for the king and those of his house; every man was responsible for one month in the year.
 
-**[4:8]** And these are their names: ... the son of Hur in the hill country of Ephraim;
+**[4:8]** And these are their names:... the son of Hur in the hill country of Ephraim;
 
 **[4:9]** ... the son of Deker in Makaz and Shaalbim and Beth-shemesh and Elonbeth-hanan;
 
@@ -18498,7 +18498,7 @@
 
 **[7:5]** And all the doors and windows had square frames, with the windows facing one another in three lines.
 
-**[7:6]** And he made a covered room of pillars, fifty cubits long and thirty cubits wide, and ... with steps before it.
+**[7:6]** And he made a covered room of pillars, fifty cubits long and thirty cubits wide, and... with steps before it.
 
 **[7:7]** Then he made a covered room for his high seat when he gave decisions; this was the covered room of judging; it was covered with cedar-wood from floor to roof.
 
@@ -18754,9 +18754,9 @@
 
 **[9:14]** And Hiram sent the king a hundred and twenty talents of gold.
 
-**[9:15]** Now, this was the way of Solomon's system of forced work for the building of the Lord's house and of the king's house, and the Millo and the wall of Jerusalem and Megiddo and Gezer. ...
+**[9:15]** Now, this was the way of Solomon's system of forced work for the building of the Lord's house and of the king's house, and the Millo and the wall of Jerusalem and Megiddo and Gezer....
 
-**[9:16]** Pharaoh, king of Egypt, came and took Gezer, burning it down and putting to death the Canaanites living in the town, and he gave it for a bride-offering to his daughter, Solomon's wife. ...
+**[9:16]** Pharaoh, king of Egypt, came and took Gezer, burning it down and putting to death the Canaanites living in the town, and he gave it for a bride-offering to his daughter, Solomon's wife....
 
 **[9:17]** ... and Solomon was the builder of Gezer and Beth-horon the lower,
 
@@ -20162,7 +20162,7 @@
 
 **[8:20]** In his time, Edom made themselves free from the rule of Judah, and took a king for themselves.
 
-**[8:21]** Then Joram went over to Zair, with all his war-carriages; ... made an attack by night on the Edomites, whose forces were all round him, ... the captains of the war-carriages; and the people went in flight to their tents.
+**[8:21]** Then Joram went over to Zair, with all his war-carriages;... made an attack by night on the Edomites, whose forces were all round him,... the captains of the war-carriages; and the people went in flight to their tents.
 
 **[8:22]** So Edom made themselves free from the rule of Judah to this day. And at the same time, Libnah made itself free.
 
@@ -20924,7 +20924,7 @@
 
 **[20:18]** And your sons, the offspring of your body, they will take away to be unsexed servants in the house of the king of Babylon.
 
-**[20:19]** Then Hezekiah said to Isaiah, Good is the word of the Lord which you have said. Then he said, ... if in my time there is peace and righteousness?
+**[20:19]** Then Hezekiah said to Isaiah, Good is the word of the Lord which you have said. Then he said,... if in my time there is peace and righteousness?
 
 **[20:20]** Now the rest of the acts of Hezekiah, and his power, and how he made the pool and the stream, to take water into the town, are they not recorded in the book of the history of the kings of Judah?
 
@@ -21520,7 +21520,7 @@
 
 **[4:19]** And the sons of the wife of Hodiah, the sister of Naham, were the father of Keilah the Garmite, and Eshtemoa the Maacathite.
 
-**[4:20]** And the sons of Shimon: Amnon and Rinnah, Ben-hanan and Tilon. And the sons of Ishi: Zoheth; and the son of Zoheth. ...
+**[4:20]** And the sons of Shimon: Amnon and Rinnah, Ben-hanan and Tilon. And the sons of Ishi: Zoheth; and the son of Zoheth....
 
 **[4:21]** The sons of Shelah, the son of Judah: Er, the father of Lecah, and Laadah, the father of Mareshah, and the families of those who made delicate linen, of the family of Ashbea;
 
@@ -24070,7 +24070,7 @@
 
 **[21:8]** In his time Edom made themselves free from the rule of Judah, and took a king for themselves.
 
-**[21:9]** Then Jehoram went over with his captains and all his war-carriages ... made an attack by night on the Edomites, whose forces were all round him ... on the captains of the war-carriages.
+**[21:9]** Then Jehoram went over with his captains and all his war-carriages... made an attack by night on the Edomites, whose forces were all round him... on the captains of the war-carriages.
 
 **[21:10]** So Edom made themselves free from the rule of Judah, to this day: and at the same time Libnah made itself free from his rule; because he was turned away from the Lord, the God of his fathers.
 
@@ -27592,7 +27592,7 @@
 
 **[19:25]** But I am certain that he who will take up my cause is living, and that in time to come he will take his place on the dust;
 
-**[19:26]** And ... without my flesh I will see God;
+**[19:26]** And... without my flesh I will see God;
 
 **[19:27]** Whom I will see on my side, and not as one strange to me. My heart is broken with desire.
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** I was laughing at them when they had no hope, and the light of my face was never clouded by their fear.
 
-**[29:25]** I took my place as a chief, guiding them on their way, and I was as a king among his army. ...
+**[29:25]** I took my place as a chief, guiding them on their way, and I was as a king among his army....
 
 ### Chapter 30
 
@@ -28316,7 +28316,7 @@
 
 **[33:20]** He has no desire for food, and his soul is turned away from delicate meat;
 
-**[33:21]** His flesh is so wasted away, that it may not be seen, and his bones. ...
+**[33:21]** His flesh is so wasted away, that it may not be seen, and his bones....
 
 **[33:22]** And his soul comes near to the underworld, and his life to the angels of death.
 
@@ -28448,7 +28448,7 @@
 
 **[35:14]** How much less when you say that you do not see him; that the cause is before him, and you are waiting for him.
 
-**[35:15]** And now ... ;
+**[35:15]** And now...;
 
 **[35:16]** And Job's mouth is open wide to give out what is of no profit, increasing words without knowledge.
 
@@ -28916,7 +28916,7 @@
 
 ### Chapter 3
 
-**[3:1]**  Lord, how greatly are they increased who make attacks on me! in great numbers they come against me.
+**[3:1]** Lord, how greatly are they increased who make attacks on me! in great numbers they come against me.
 
 **[3:2]** Unnumbered are those who say of my soul, There is no help for him in God. (Selah.)
 
@@ -28934,7 +28934,7 @@
 
 ### Chapter 4
 
-**[4:1]**  Give answer to my cry, O God of my righteousness; make me free from my troubles; have mercy on me, and give ear to my prayer.
+**[4:1]** Give answer to my cry, O God of my righteousness; make me free from my troubles; have mercy on me, and give ear to my prayer.
 
 **[4:2]** O you sons of men, how long will you go on turning my glory into shame? how long will you give your love to foolish things, going after what is false? (Selah.)
 
@@ -28952,7 +28952,7 @@
 
 ### Chapter 5
 
-**[5:1]**  Give ear to my words, O Lord; give thought to my heart-searchings.
+**[5:1]** Give ear to my words, O Lord; give thought to my heart-searchings.
 
 **[5:2]** Let the voice of my cry come to you, my King and my God; for to you will I make my prayer.
 
@@ -28978,7 +28978,7 @@
 
 ### Chapter 6
 
-**[6:1]**  O Lord, do not be bitter with me in your wrath; do not send punishment on me in the heat of your passion.
+**[6:1]** O Lord, do not be bitter with me in your wrath; do not send punishment on me in the heat of your passion.
 
 **[6:2]** Have mercy on me, O Lord, for I am wasted away: make me well, for even my bones are troubled.
 
@@ -29000,7 +29000,7 @@
 
 ### Chapter 7
 
-**[7:1]**  O Lord my God, I put my faith in you; take me out of the hands of him who is cruel to me, and make me free;
+**[7:1]** O Lord my God, I put my faith in you; take me out of the hands of him who is cruel to me, and make me free;
 
 **[7:2]** So that he may not come rushing on my soul like a lion, wounding it, while there is no one to be my saviour.
 
@@ -29036,7 +29036,7 @@
 
 ### Chapter 8
 
-**[8:1]**  O Lord, our Lord, whose glory is higher than the heavens, how noble is your name in all the earth!
+**[8:1]** O Lord, our Lord, whose glory is higher than the heavens, how noble is your name in all the earth!
 
 **[8:2]** You have made clear your strength even out of the mouths of babies at the breast, because of those who are against you; so that you may put to shame the cruel and violent man.
 
@@ -29056,7 +29056,7 @@
 
 ### Chapter 9
 
-**[9:1]**  I will give you praise, O Lord, with all my heart; I will make clear all the wonder of your works.
+**[9:1]** I will give you praise, O Lord, with all my heart; I will make clear all the wonder of your works.
 
 **[9:2]** I will be glad and have delight in you: I will make a song of praise to your name, O Most High.
 
@@ -29136,7 +29136,7 @@
 
 ### Chapter 11
 
-**[11:1]**  In the Lord put I my faith; how will you say to my soul, Go in flight like a bird to the mountain?
+**[11:1]** In the Lord put I my faith; how will you say to my soul, Go in flight like a bird to the mountain?
 
 **[11:2]** See, the bows of the evil-doers are bent, they make ready their arrows on the cord, so that they may send them secretly against the upright in heart.
 
@@ -29152,7 +29152,7 @@
 
 ### Chapter 12
 
-**[12:1]**  Send help, Lord, for mercy has come to an end; there is no more faith among the children of men.
+**[12:1]** Send help, Lord, for mercy has come to an end; there is no more faith among the children of men.
 
 **[12:2]** Everyone says false words to his neighbour: their tongues are smooth in their talk, and their hearts are full of deceit.
 
@@ -29170,7 +29170,7 @@
 
 ### Chapter 13
 
-**[13:1]**  Will you for ever put me out of your memory, O Lord? will your face for ever be turned away from me?
+**[13:1]** Will you for ever put me out of your memory, O Lord? will your face for ever be turned away from me?
 
 **[13:2]** How long is my soul to be in doubt, with sorrow in my heart all the day? how long will he who is against me be given power over me?
 
@@ -29184,7 +29184,7 @@
 
 ### Chapter 14
 
-**[14:1]**  The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good.
+**[14:1]** The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good.
 
 **[14:2]** The Lord was looking down from heaven on the children of men, to see if there were any who had wisdom, searching after God.
 
@@ -29200,7 +29200,7 @@
 
 ### Chapter 15
 
-**[15:1]**  Lord, who may have a resting-place in your tent, a living-place on your holy hill?
+**[15:1]** Lord, who may have a resting-place in your tent, a living-place on your holy hill?
 
 **[15:2]** He who goes on his way uprightly, doing righteousness, and saying what is true in his heart;
 
@@ -29212,7 +29212,7 @@
 
 ### Chapter 16
 
-**[16:1]**  Keep me safe, O God: for in you I have put my faith.
+**[16:1]** Keep me safe, O God: for in you I have put my faith.
 
 **[16:2]** O my soul, you have said to the Lord, You are my Lord: I have no good but you.
 
@@ -29236,7 +29236,7 @@
 
 ### Chapter 17
 
-**[17:1]**  Let my cause come to your ears, O Lord, give attention to my cry; give ear to my prayer which goes not out from false lips.
+**[17:1]** Let my cause come to your ears, O Lord, give attention to my cry; give ear to my prayer which goes not out from false lips.
 
 **[17:2]** Be my judge; for your eyes see what is right.
 
@@ -29268,7 +29268,7 @@
 
 ### Chapter 18
 
-**[18:1]**  I will give you my love, O Lord, my strength.
+**[18:1]** I will give you my love, O Lord, my strength.
 
 **[18:2]** The Lord is my Rock, my walled town, and my saviour; my God, my Rock, in him will I put my faith; my breastplate, and the horn of my salvation, and my high tower.
 
@@ -29370,7 +29370,7 @@
 
 ### Chapter 19
 
-**[19:1]**  The heavens are sounding the glory of God; the arch of the sky makes clear the work of his hands.
+**[19:1]** The heavens are sounding the glory of God; the arch of the sky makes clear the work of his hands.
 
 **[19:2]** Day after day it sends out its word, and night after night it gives knowledge.
 
@@ -29400,7 +29400,7 @@
 
 ### Chapter 20
 
-**[20:1]**  May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob;
+**[20:1]** May the Lord give ear to you in the day of trouble; may you be placed on high by the name of the God of Jacob;
 
 **[20:2]** May he send you help from the holy place, and give you strength from Zion;
 
@@ -29420,7 +29420,7 @@
 
 ### Chapter 21
 
-**[21:1]**  The king will be glad in your strength, O Lord; how great will be his delight in your salvation!
+**[21:1]** The king will be glad in your strength, O Lord; how great will be his delight in your salvation!
 
 **[21:2]** You have given him his heart's desire, and have not kept back the request of his lips. (Selah.)
 
@@ -29448,7 +29448,7 @@
 
 ### Chapter 22
 
-**[22:1]**  My God, my God, why are you turned away from me? why are you so far from helping me, and from the words of my crying?
+**[22:1]** My God, my God, why are you turned away from me? why are you so far from helping me, and from the words of my crying?
 
 **[22:2]** O my God, I make my cry in the day, and you give no answer; and in the night, and have no rest.
 
@@ -29512,7 +29512,7 @@
 
 ### Chapter 23
 
-**[23:1]**  The Lord takes care of me as his sheep; I will not be without any good thing.
+**[23:1]** The Lord takes care of me as his sheep; I will not be without any good thing.
 
 **[23:2]** He makes a resting-place for me in the green fields: he is my guide by the quiet waters.
 
@@ -29526,7 +29526,7 @@
 
 ### Chapter 24
 
-**[24:1]**  The earth is the Lord's, with all its wealth; the world and all the people living in it.
+**[24:1]** The earth is the Lord's, with all its wealth; the world and all the people living in it.
 
 **[24:2]** For by him it was based on the seas, and made strong on the deep rivers.
 
@@ -29548,7 +29548,7 @@
 
 ### Chapter 25
 
-**[25:1]**  To you, O Lord, my soul is lifted up.
+**[25:1]** To you, O Lord, my soul is lifted up.
 
 **[25:2]** O my God, I have put my faith in you, let me not be shamed; let not my haters be glorying over me.
 
@@ -29594,7 +29594,7 @@
 
 ### Chapter 26
 
-**[26:1]**  O Lord, be my judge, for my behaviour has been upright: I have put my faith in the Lord, I am not in danger of slipping.
+**[26:1]** O Lord, be my judge, for my behaviour has been upright: I have put my faith in the Lord, I am not in danger of slipping.
 
 **[26:2]** Put me in the scales, O Lord, so that I may be tested; let the fire make clean my thoughts and my heart.
 
@@ -29620,7 +29620,7 @@
 
 ### Chapter 27
 
-**[27:1]**  The Lord is my light and my salvation; who is then a cause of fear to me? the Lord is the strength of my life; who is a danger to me?
+**[27:1]** The Lord is my light and my salvation; who is then a cause of fear to me? the Lord is the strength of my life; who is a danger to me?
 
 **[27:2]** When evil-doers, even my haters, came on me to put an end to me, they were broken and put to shame.
 
@@ -29650,7 +29650,7 @@
 
 ### Chapter 28
 
-**[28:1]**  My cry goes up to you, O Lord, my Rock; do not keep back your answer from me, so that I may not become like those who go down into the underworld.
+**[28:1]** My cry goes up to you, O Lord, my Rock; do not keep back your answer from me, so that I may not become like those who go down into the underworld.
 
 **[28:2]** Give ear to the voice of my prayer, when I am crying to you, when my hands are lifted up to your holy place.
 
@@ -29670,7 +29670,7 @@
 
 ### Chapter 29
 
-**[29:1]**  Give to the Lord, you sons of the gods, give to the Lord glory and strength.
+**[29:1]** Give to the Lord, you sons of the gods, give to the Lord glory and strength.
 
 **[29:2]** Give to the Lord the full glory of his name; give him worship in holy robes.
 
@@ -29694,7 +29694,7 @@
 
 ### Chapter 30
 
-**[30:1]**  I will give you praise and honour, O Lord, because through you I have been lifted up; you have not given my haters cause to be glad over me.
+**[30:1]** I will give you praise and honour, O Lord, because through you I have been lifted up; you have not given my haters cause to be glad over me.
 
 **[30:2]** O Lord my God, I sent up my cry to you, and you have made me well.
 
@@ -29720,7 +29720,7 @@
 
 ### Chapter 31
 
-**[31:1]**  In you, O Lord, have I put my hope; let me never be shamed; keep me safe in your righteousness.
+**[31:1]** In you, O Lord, have I put my hope; let me never be shamed; keep me safe in your righteousness.
 
 **[31:2]** Let your ear be turned to me; take me quickly out of danger; be my strong Rock, my place of strength where I may be safe.
 
@@ -29770,7 +29770,7 @@
 
 ### Chapter 32
 
-**[32:1]**  Happy is he who has forgiveness for his wrongdoing, and whose sin is covered.
+**[32:1]** Happy is he who has forgiveness for his wrongdoing, and whose sin is covered.
 
 **[32:2]** Happy is the man in whom the Lord sees no evil, and in whose spirit there is no deceit.
 
@@ -29786,7 +29786,7 @@
 
 **[32:8]** I will give you knowledge, teaching you the way to go; my eye will be your guide.
 
-**[32:9]** Do not be like the horse or the ass, without sense; ...
+**[32:9]** Do not be like the horse or the ass, without sense;...
 
 **[32:10]** The sinner will be full of trouble; but mercy will be round the man who has faith in the Lord.
 
@@ -29840,7 +29840,7 @@
 
 ### Chapter 34
 
-**[34:1]**  I will be blessing the Lord at all times; his praise will be ever in my mouth.
+**[34:1]** I will be blessing the Lord at all times; his praise will be ever in my mouth.
 
 **[34:2]** My soul will say great things of the Lord: the poor in spirit will have knowledge of it and be glad.
 
@@ -29886,7 +29886,7 @@
 
 ### Chapter 35
 
-**[35:1]**  O Lord, be on my side against those who are judging me; be at war with those who make war against me.
+**[35:1]** O Lord, be on my side against those who are judging me; be at war with those who make war against me.
 
 **[35:2]** Be a breastplate to me, and give me your help.
 
@@ -29944,7 +29944,7 @@
 
 ### Chapter 36
 
-**[36:1]**  The sin of the evil-doer says in his heart, There is no fear of the Lord before his eyes.
+**[36:1]** The sin of the evil-doer says in his heart, There is no fear of the Lord before his eyes.
 
 **[36:2]** For he takes comfort in the thought that his sin will not be uncovered and hated.
 
@@ -29970,7 +29970,7 @@
 
 ### Chapter 37
 
-**[37:1]**  Do not be angry because of the wrongdoers, or have envy of the workers of evil.
+**[37:1]** Do not be angry because of the wrongdoers, or have envy of the workers of evil.
 
 **[37:2]** For they will quickly be cut down like grass, and become dry like the green plants.
 
@@ -30052,7 +30052,7 @@
 
 ### Chapter 38
 
-**[38:1]**  O Lord, be not bitter with me in your wrath; let not your hand be on me in the heat of your passion.
+**[38:1]** O Lord, be not bitter with me in your wrath; let not your hand be on me in the heat of your passion.
 
 **[38:2]** For your arrows have gone into my flesh, and I am crushed under the weight of your hand.
 
@@ -30098,7 +30098,7 @@
 
 ### Chapter 39
 
-**[39:1]**  I said, I will give attention to my ways, so that my tongue may do no wrong; I will keep my mouth under control, while the sinner is before me.
+**[39:1]** I said, I will give attention to my ways, so that my tongue may do no wrong; I will keep my mouth under control, while the sinner is before me.
 
 **[39:2]** I made no sound, I said no word, even of good; and I was moved with sorrow.
 
@@ -30126,7 +30126,7 @@
 
 ### Chapter 40
 
-**[40:1]**  When I was waiting quietly for the Lord, his heart was turned to me, and he gave ear to my cry.
+**[40:1]** When I was waiting quietly for the Lord, his heart was turned to me, and he gave ear to my cry.
 
 **[40:2]** He took me up out of a deep waste place, out of the soft and sticky earth; he put my feet on a rock, and made my steps certain.
 
@@ -30162,7 +30162,7 @@
 
 ### Chapter 41
 
-**[41:1]**  Happy is the man who gives thought to the poor; the Lord will be his saviour in the time of trouble.
+**[41:1]** Happy is the man who gives thought to the poor; the Lord will be his saviour in the time of trouble.
 
 **[41:2]** The Lord will keep him safe, and give him life; the Lord will let him be a blessing on the earth, and will not give him into the hand of his haters.
 
@@ -30190,7 +30190,7 @@
 
 ### Chapter 42
 
-**[42:1]**  Like the desire of the roe for the water-streams, so is my soul's desire for you, O God.
+**[42:1]** Like the desire of the roe for the water-streams, so is my soul's desire for you, O God.
 
 **[42:2]** My soul is dry for need of God, the living God; when may I come and see the face of God?
 
@@ -30226,7 +30226,7 @@
 
 ### Chapter 44
 
-**[44:1]**  It has come to our ears, O God, our fathers have given us the story, of the works which you did in their days, in the old times,
+**[44:1]** It has come to our ears, O God, our fathers have given us the story, of the works which you did in their days, in the old times,
 
 **[44:2]** Uprooting the nations with your hand, and planting our fathers in their place; cutting down the nations, but increasing the growth of your people.
 
@@ -30280,7 +30280,7 @@
 
 ### Chapter 45
 
-**[45:1]**  My heart is flowing over with good things; my words are of that which I have made for a king; my tongue is the pen of a ready writer.
+**[45:1]** My heart is flowing over with good things; my words are of that which I have made for a king; my tongue is the pen of a ready writer.
 
 **[45:2]** You are fairer than the children of men; grace is flowing through your lips; for this cause the blessing of God is with you for ever.
 
@@ -30316,7 +30316,7 @@
 
 ### Chapter 46
 
-**[46:1]**  God is our harbour and our strength, a very present help in trouble.
+**[46:1]** God is our harbour and our strength, a very present help in trouble.
 
 **[46:2]** For this cause we will have no fear, even though the earth is changed, and though the mountains are moved in the heart of the sea;
 
@@ -30340,7 +30340,7 @@
 
 ### Chapter 47
 
-**[47:1]**  O make a glad noise with your hands, all you peoples; letting your voices go up to God with joy.
+**[47:1]** O make a glad noise with your hands, all you peoples; letting your voices go up to God with joy.
 
 **[47:2]** For the Lord Most High is to be feared; he is a great King over all the earth.
 
@@ -30360,7 +30360,7 @@
 
 ### Chapter 48
 
-**[48:1]**  Great is the Lord and greatly to be praised, in the town of our God, in his holy mountain.
+**[48:1]** Great is the Lord and greatly to be praised, in the town of our God, in his holy mountain.
 
 **[48:2]** Beautiful in its high position, the joy of all the earth, is the mountain of Zion, the mountain of God, the town of the great King.
 
@@ -30390,7 +30390,7 @@
 
 ### Chapter 49
 
-**[49:1]**  Give attention to this, all you peoples; let your ears be open, all you who are living in the world.
+**[49:1]** Give attention to this, all you peoples; let your ears be open, all you who are living in the world.
 
 **[49:2]** High and low together, the poor, and those who have wealth.
 
@@ -30432,7 +30432,7 @@
 
 ### Chapter 50
 
-**[50:1]**  The God of gods, even the Lord, has sent out his voice, and the earth is full of fear; from the coming up of the sun to its going down.
+**[50:1]** The God of gods, even the Lord, has sent out his voice, and the earth is full of fear; from the coming up of the sun to its going down.
 
 **[50:2]** From Zion, most beautiful of places, God has sent out his light.
 
@@ -30480,7 +30480,7 @@
 
 ### Chapter 51
 
-**[51:1]**  Have pity on me, O God, in your mercy; out of a full heart, take away my sin.
+**[51:1]** Have pity on me, O God, in your mercy; out of a full heart, take away my sin.
 
 **[51:2]** Let all my wrongdoing be washed away, and make me clean from evil.
 
@@ -30520,7 +30520,7 @@
 
 ### Chapter 52
 
-**[52:1]**  Why do you take pride in wrongdoing, lifting yourself up against the upright man all the day?
+**[52:1]** Why do you take pride in wrongdoing, lifting yourself up against the upright man all the day?
 
 **[52:2]** Purposing destruction, using deceit; your tongue is like a sharp blade.
 
@@ -30540,7 +30540,7 @@
 
 ### Chapter 53
 
-**[53:1]**  The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good.
+**[53:1]** The foolish man has said in his heart, God will not do anything. They are unclean, they have done evil works; there is not one who does good.
 
 **[53:2]** God was looking down from heaven on the children of men, to see if there were any who had wisdom, searching after God.
 
@@ -30554,7 +30554,7 @@
 
 ### Chapter 54
 
-**[54:1]**  Let your name be my salvation, O God; let my cause be judged by your strength.
+**[54:1]** Let your name be my salvation, O God; let my cause be judged by your strength.
 
 **[54:2]** Let my prayer come before you, O God; give ear to the words of my mouth.
 
@@ -30570,7 +30570,7 @@
 
 ### Chapter 55
 
-**[55:1]**  Give hearing to my prayer, O God; and let not your ear be shut against my request.
+**[55:1]** Give hearing to my prayer, O God; and let not your ear be shut against my request.
 
 **[55:2]** Give thought to me, and let my prayer be answered: I have been made low in sorrow;
 
@@ -30618,7 +30618,7 @@
 
 ### Chapter 56
 
-**[56:1]**  Have mercy on me, O God, for man is attempting my destruction; every day he makes cruel attacks against me.
+**[56:1]** Have mercy on me, O God, for man is attempting my destruction; every day he makes cruel attacks against me.
 
 **[56:2]** My haters are ever ready to put an end to me; great numbers are lifting themselves up against me.
 
@@ -30646,7 +30646,7 @@
 
 ### Chapter 57
 
-**[57:1]**  Have mercy on me, O God, have mercy on me; for the hope of my soul is in you: I will keep myself safely under the shade of your wings, till these troubles are past.
+**[57:1]** Have mercy on me, O God, have mercy on me; for the hope of my soul is in you: I will keep myself safely under the shade of your wings, till these troubles are past.
 
 **[57:2]** I will send up my cry to the Most High God; to God who does all things for me.
 
@@ -30670,7 +30670,7 @@
 
 ### Chapter 58
 
-**[58:1]**  Is there righteousness in your mouths, O you gods? are you upright judges, O you sons of men?
+**[58:1]** Is there righteousness in your mouths, O you gods? are you upright judges, O you sons of men?
 
 **[58:2]** The purposes of your hearts are evil; your hands are full of cruel doings on the earth.
 
@@ -30694,7 +30694,7 @@
 
 ### Chapter 59
 
-**[59:1]**  Take me out of the hands of the cruel ones, O my God; keep me safe from those who come up against me.
+**[59:1]** Take me out of the hands of the cruel ones, O my God; keep me safe from those who come up against me.
 
 **[59:2]** Take me out of the power of the workers of evil, and keep me safe from the men of blood.
 
@@ -30730,7 +30730,7 @@
 
 ### Chapter 60
 
-**[60:1]**  God, you have put us away from you, you have sent us in all directions, you have been angry; O be turned to us again.
+**[60:1]** God, you have put us away from you, you have sent us in all directions, you have been angry; O be turned to us again.
 
 **[60:2]** By the power of your hand the earth is shaking and broken; make it strong again, for it is moved.
 
@@ -30756,7 +30756,7 @@
 
 ### Chapter 61
 
-**[61:1]**  Let my cry come to you, O God; let your ears be open to my prayer.
+**[61:1]** Let my cry come to you, O God; let your ears be open to my prayer.
 
 **[61:2]** From the end of the earth will I send up my cry to you, when my heart is overcome: take me to the rock which is over-high for me.
 
@@ -30774,7 +30774,7 @@
 
 ### Chapter 62
 
-**[62:1]**  My soul, put all your faith in God; for from him comes my salvation.
+**[62:1]** My soul, put all your faith in God; for from him comes my salvation.
 
 **[62:2]** He only is my Rock and my salvation; he is my high tower; I will not be greatly moved.
 
@@ -30800,7 +30800,7 @@
 
 ### Chapter 63
 
-**[63:1]**  O God, you are my God; early will I make my search for you: my soul is dry for need of you, my flesh is wasted with desire for you, as a dry and burning land where no water is;
+**[63:1]** O God, you are my God; early will I make my search for you: my soul is dry for need of you, my flesh is wasted with desire for you, as a dry and burning land where no water is;
 
 **[63:2]** To see your power and your glory, as I have seen you in the holy place.
 
@@ -30824,7 +30824,7 @@
 
 ### Chapter 64
 
-**[64:1]**  O God, let the voice of my grief come to your ear: keep my life from the fear of those who are against me.
+**[64:1]** O God, let the voice of my grief come to your ear: keep my life from the fear of those who are against me.
 
 **[64:2]** Keep me safe from the secret purpose of wrongdoers; from the band of the workers of evil;
 
@@ -30846,7 +30846,7 @@
 
 ### Chapter 65
 
-**[65:1]**  It is right for you, O God, to have praise in Zion: to you let the offering be made.
+**[65:1]** It is right for you, O God, to have praise in Zion: to you let the offering be made.
 
 **[65:2]** To you, O hearer of prayer, let the words of all flesh come.
 
@@ -30874,7 +30874,7 @@
 
 ### Chapter 66
 
-**[66:1]**  Send up a glad cry to God, all the earth:
+**[66:1]** Send up a glad cry to God, all the earth:
 
 **[66:2]** Make a song in honour of his name: give praise and glory to him.
 
@@ -30916,7 +30916,7 @@
 
 ### Chapter 67
 
-**[67:1]**  May God give us mercy and blessing, and let the light of his face be shining on us; (Selah.)
+**[67:1]** May God give us mercy and blessing, and let the light of his face be shining on us; (Selah.)
 
 **[67:2]** So that men may see your way on the earth, and your salvation among all nations.
 
@@ -30932,7 +30932,7 @@
 
 ### Chapter 68
 
-**[68:1]**  Let God be seen, and let his haters be put to flight; let those who are against him be turned back before him.
+**[68:1]** Let God be seen, and let his haters be put to flight; let those who are against him be turned back before him.
 
 **[68:2]** Let them be like smoke before the driving wind; as wax turning soft before the fire, so let them come to an end before the power of God.
 
@@ -31004,7 +31004,7 @@
 
 ### Chapter 69
 
-**[69:1]**  Be my saviour, O God; because the waters have come in, even to my neck.
+**[69:1]** Be my saviour, O God; because the waters have come in, even to my neck.
 
 **[69:2]** My feet are deep in the soft earth, where there is no support; I have come into deep waters, the waves are flowing over me.
 
@@ -31078,7 +31078,7 @@
 
 ### Chapter 70
 
-**[70:1]**  Let your salvation come quickly, O God; come quickly to my help, O Lord.
+**[70:1]** Let your salvation come quickly, O God; come quickly to my help, O Lord.
 
 **[70:2]** Let those who go after my soul have shame and trouble; let those who have evil designs against me be turned back and made foolish.
 
@@ -31140,7 +31140,7 @@
 
 ### Chapter 72
 
-**[72:1]**  Give the king your authority, O God, and your righteousness to the king's son.
+**[72:1]** Give the king your authority, O God, and your righteousness to the king's son.
 
 **[72:2]** May he be a judge of your people in righteousness, and make true decisions for the poor.
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** Praise to the glory of his noble name for ever; let all the earth be full of his glory. So be it, So be it.
 
-**[72:20]**  The prayers of David, the son of Jesse, are ended.  
+**[72:20]** The prayers of David, the son of Jesse, are ended.
 
 ### Chapter 73
 
@@ -31240,7 +31240,7 @@
 
 ### Chapter 74
 
-**[74:1]**  Of God, why have you put us away from you for ever? why is the fire of your wrath smoking against the sheep who are your care?
+**[74:1]** Of God, why have you put us away from you for ever? why is the fire of your wrath smoking against the sheep who are your care?
 
 **[74:2]** Keep in mind your band of worshippers, for whom you gave payment in the days which are past, whom you took for yourself as the people of your heritage; even this mountain of Zion, which has been your resting-place.
 
@@ -31288,7 +31288,7 @@
 
 ### Chapter 75
 
-**[75:1]**  To you, O God, we give praise, to you we give praise: and those who give honour to your name make clear your works of power.
+**[75:1]** To you, O God, we give praise, to you we give praise: and those who give honour to your name make clear your works of power.
 
 **[75:2]** When the right time has come, I will be the judge in righteousness.
 
@@ -31310,7 +31310,7 @@
 
 ### Chapter 76
 
-**[76:1]**   In Judah is the knowledge of God; his name is great in Israel,
+**[76:1]** In Judah is the knowledge of God; his name is great in Israel,
 
 **[76:2]** In Salem is his tent, his resting-place in Zion.
 
@@ -31328,7 +31328,7 @@
 
 **[76:9]** When God took his place as judge, for the salvation of the poor on the earth. (Selah.)
 
-**[76:10]** The ... will give you praise; the rest of ...
+**[76:10]** The... will give you praise; the rest of...
 
 **[76:11]** Give to the Lord your God what is his by right; let all who are round him give offerings to him who is to be feared.
 
@@ -31336,7 +31336,7 @@
 
 ### Chapter 77
 
-**[77:1]**  I was crying to God with my voice; even to God with my voice, and he gave ear to me.
+**[77:1]** I was crying to God with my voice; even to God with my voice, and he gave ear to me.
 
 **[77:2]** In the day of my trouble, my heart was turned to the Lord: my hand was stretched out in the night without resting; my soul would not be comforted.
 
@@ -31378,7 +31378,7 @@
 
 ### Chapter 78
 
-**[78:1]**  Give ear, O my people, to my law; let your ears be bent down to the words of my mouth.
+**[78:1]** Give ear, O my people, to my law; let your ears be bent down to the words of my mouth.
 
 **[78:2]** Opening my mouth I will give out a story, even the dark sayings of old times;
 
@@ -31524,7 +31524,7 @@
 
 ### Chapter 79
 
-**[79:1]**  O God, the nations have come into your heritage; they have made your holy Temple unclean; they have made Jerusalem a mass of broken walls.
+**[79:1]** O God, the nations have come into your heritage; they have made your holy Temple unclean; they have made Jerusalem a mass of broken walls.
 
 **[79:2]** They have given the bodies of your servants as food to the birds of the air, and the flesh of your saints to the beasts of the earth.
 
@@ -31552,7 +31552,7 @@
 
 ### Chapter 80
 
-**[80:1]**  Give ear, O Keeper of Israel, guiding Joseph like a flock; you who have your seat on the winged ones, let your glory be seen.
+**[80:1]** Give ear, O Keeper of Israel, guiding Joseph like a flock; you who have your seat on the winged ones, let your glory be seen.
 
 **[80:2]** Before Ephraim and Benjamin and Manasseh, let your strength be awake from sleep, and come as our salvation.
 
@@ -31592,7 +31592,7 @@
 
 ### Chapter 81
 
-**[81:1]**  Make a song to God our strength: make a glad cry to the God of Jacob.
+**[81:1]** Make a song to God our strength: make a glad cry to the God of Jacob.
 
 **[81:2]** Take up the melody, playing on an instrument of music, even on corded instruments.
 
@@ -31626,7 +31626,7 @@
 
 ### Chapter 82
 
-**[82:1]**  God is in the meeting-place of God; he is judging among the gods.
+**[82:1]** God is in the meeting-place of God; he is judging among the gods.
 
 **[82:2]** How long will you go on judging falsely, having respect for the persons of evil-doers? (Selah.)
 
@@ -31644,7 +31644,7 @@
 
 ### Chapter 83
 
-**[83:1]**  O God, do not keep quiet: let your lips be open and take no rest, O God.
+**[83:1]** O God, do not keep quiet: let your lips be open and take no rest, O God.
 
 **[83:2]** For see! those who make war on you are out of control; your haters are lifting up their heads.
 
@@ -31682,7 +31682,7 @@
 
 ### Chapter 84
 
-**[84:1]**  How dear are your tents, O Lord of armies!
+**[84:1]** How dear are your tents, O Lord of armies!
 
 **[84:2]** The passion of my soul's desire is for the house of the Lord; my heart and my flesh are crying out for the living God.
 
@@ -31708,7 +31708,7 @@
 
 ### Chapter 85
 
-**[85:1]**  Lord, you were good to your land: changing the fate of Jacob.
+**[85:1]** Lord, you were good to your land: changing the fate of Jacob.
 
 **[85:2]** The wrongdoing of your people had forgiveness; all their sin had been covered. (Selah.)
 
@@ -31736,7 +31736,7 @@
 
 ### Chapter 86
 
-**[86:1]**  Let your ears be open to my voice, O Lord, and give me an answer; for I am poor and in need.
+**[86:1]** Let your ears be open to my voice, O Lord, and give me an answer; for I am poor and in need.
 
 **[86:2]** Keep my soul, for I am true to you; O my God, give salvation to your servant, whose hope is in you.
 
@@ -31772,7 +31772,7 @@
 
 ### Chapter 87
 
-**[87:1]**  This house is resting on the holy mountain.
+**[87:1]** This house is resting on the holy mountain.
 
 **[87:2]** The Lord has more love for the doors of Zion than for all the tents of Jacob.
 
@@ -31788,7 +31788,7 @@
 
 ### Chapter 88
 
-**[88:1]**  O Lord, God of my salvation, I have been crying to you for help by day and by night:
+**[88:1]** O Lord, God of my salvation, I have been crying to you for help by day and by night:
 
 **[88:2]** Let my prayer come before you; give ear to my cry:
 
@@ -31826,7 +31826,7 @@
 
 ### Chapter 89
 
-**[89:1]**  My song will be of the mercies of the Lord for ever: with my mouth will I make his faith clear to all generations.
+**[89:1]** My song will be of the mercies of the Lord for ever: with my mouth will I make his faith clear to all generations.
 
 **[89:2]** For you have said, Mercy will be made strong for ever; my faith will be unchanging in the heavens.
 
@@ -31932,7 +31932,7 @@
 
 ### Chapter 90
 
-**[90:1]**  Lord, you have been our resting-place in all generations.
+**[90:1]** Lord, you have been our resting-place in all generations.
 
 **[90:2]** Before the mountains were made, before you had given birth to the earth and the world, before time was, and for ever, you are God.
 
@@ -32002,7 +32002,7 @@
 
 ### Chapter 92
 
-**[92:1]**  It is a good thing to give praise to the Lord, and to make melody to your name, O Most High;
+**[92:1]** It is a good thing to give praise to the Lord, and to make melody to your name, O Most High;
 
 **[92:2]** To make clear your mercy in the morning, and your unchanging faith every night;
 
@@ -32172,7 +32172,7 @@
 
 ### Chapter 98
 
-**[98:1]**  O make a new song to the Lord, because he has done works of wonder; with his right hand, and with his holy arm, he has overcome.
+**[98:1]** O make a new song to the Lord, because he has done works of wonder; with his right hand, and with his holy arm, he has overcome.
 
 **[98:2]** The Lord has given to all the knowledge of his salvation; he has made clear his righteousness in the eyes of the nations.
 
@@ -32212,7 +32212,7 @@
 
 ### Chapter 100
 
-**[100:1]**  Make a glad sound to the Lord, all the earth.
+**[100:1]** Make a glad sound to the Lord, all the earth.
 
 **[100:2]** Give worship to the Lord with joy; come before him with a song.
 
@@ -32224,7 +32224,7 @@
 
 ### Chapter 101
 
-**[101:1]**  I will make a song of mercy and righteousness; to you, O Lord, will I make melody.
+**[101:1]** I will make a song of mercy and righteousness; to you, O Lord, will I make melody.
 
 **[101:2]** I will do wisely in the way of righteousness: O when will you come to me? I will be walking in my house with a true heart.
 
@@ -32242,7 +32242,7 @@
 
 ### Chapter 102
 
-**[102:1]**  Give ear to my prayer, O Lord, and let my cry come to you.
+**[102:1]** Give ear to my prayer, O Lord, and let my cry come to you.
 
 **[102:2]** Let not your face be veiled from me in the day of my trouble; give ear to me, and let my cry be answered quickly.
 
@@ -32300,7 +32300,7 @@
 
 ### Chapter 103
 
-**[103:1]**  Give praise to the Lord, O my soul; let everything in me give praise to his holy name.
+**[103:1]** Give praise to the Lord, O my soul; let everything in me give praise to his holy name.
 
 **[103:2]** Give praise to the Lord, O my soul; let not all his blessings go from your memory.
 
@@ -32696,7 +32696,7 @@
 
 ### Chapter 108
 
-**[108:1]**  O God, my heart is fixed; I will make songs and melody, even with my glory.
+**[108:1]** O God, my heart is fixed; I will make songs and melody, even with my glory.
 
 **[108:2]** Give out your sounds, O corded instruments: the dawn will be awaking with my song.
 
@@ -32724,7 +32724,7 @@
 
 ### Chapter 109
 
-**[109:1]**  God of my praise, let my prayer be answered;
+**[109:1]** God of my praise, let my prayer be answered;
 
 **[109:2]** For the mouth of the sinner is open against me in deceit: his tongue has said false things against me.
 
@@ -32788,7 +32788,7 @@
 
 ### Chapter 110
 
-**[110:1]**  The Lord said to my lord, Be seated at my right hand, till I put all those who are against you under your feet.
+**[110:1]** The Lord said to my lord, Be seated at my right hand, till I put all those who are against you under your feet.
 
 **[110:2]** The Lord will send out the rod of your strength from Zion; be king over your haters.
 
@@ -33030,7 +33030,7 @@
 
 ### Chapter 119
 
-**[119:1]**  Happy are they who are without sin in their ways, walking in the law of the Lord.
+**[119:1]** Happy are they who are without sin in their ways, walking in the law of the Lord.
 
 **[119:2]** Happy are they who keep his unchanging word, searching after him with all their heart.
 
@@ -33046,7 +33046,7 @@
 
 **[119:8]** I will keep your rules: O give me not up completely.
 
-**[119:9]**   How may a young man make his way clean? by guiding it after your word.
+**[119:9]** How may a young man make his way clean? by guiding it after your word.
 
 **[119:10]** I have made search for you with all my heart: O let me not go wandering far from your teaching.
 
@@ -33062,7 +33062,7 @@
 
 **[119:16]** I will have delight in your rules; I will not let your word go out of my mind.
 
-**[119:17]**   Give me, your servant, the reward of life, so that I may keep your word;
+**[119:17]** Give me, your servant, the reward of life, so that I may keep your word;
 
 **[119:18]** Let my eyes be open to see the wonders of your law.
 
@@ -33078,7 +33078,7 @@
 
 **[119:24]** Your unchanging word is my delight, and the guide of my footsteps.
 
-**[119:25]**   My soul is joined to the dust: O give me life, in keeping with your word.
+**[119:25]** My soul is joined to the dust: O give me life, in keeping with your word.
 
 **[119:26]** I put the record of my ways before you, and you gave me an answer: O give me knowledge of your rules.
 
@@ -33094,7 +33094,7 @@
 
 **[119:32]** I will go quickly in the way of your teaching, because you have given me a free heart.
 
-**[119:33]**   O Lord, let me see the way of your rules, and I will keep it to the end.
+**[119:33]** O Lord, let me see the way of your rules, and I will keep it to the end.
 
 **[119:34]** Give me wisdom, so that I may keep your law; going after it with all my heart.
 
@@ -33110,7 +33110,7 @@
 
 **[119:40]** See how great is my desire for your orders: give me life in your righteousness.
 
-**[119:41]**   Let your mercies come to me, O Lord, even your salvation, as you have said.
+**[119:41]** Let your mercies come to me, O Lord, even your salvation, as you have said.
 
 **[119:42]** So that I may have an answer for the man who would put me to shame; for I have faith in your word.
 
@@ -33126,7 +33126,7 @@
 
 **[119:48]** And so that my hands may be stretched out to you; and I will give thought to your rules.
 
-**[119:49]**   Keep in mind your word to your servant, for on it has my hope been fixed.
+**[119:49]** Keep in mind your word to your servant, for on it has my hope been fixed.
 
 **[119:50]** This is my comfort in my trouble; that your sayings have given me life.
 
@@ -33142,7 +33142,7 @@
 
 **[119:56]** This has been true of me, that I have kept your orders in my heart.
 
-**[119:57]**   The Lord is my heritage: I have said that I would be ruled by your words.
+**[119:57]** The Lord is my heritage: I have said that I would be ruled by your words.
 
 **[119:58]** I have given my mind to do your pleasure with all my heart; have mercy on me, as you have said.
 
@@ -33158,7 +33158,7 @@
 
 **[119:64]** The earth, O Lord, is full of your mercy: give me knowledge of your rules.
 
-**[119:65]**   You have done good to your servant, O Lord, in keeping with your word.
+**[119:65]** You have done good to your servant, O Lord, in keeping with your word.
 
 **[119:66]** Give me knowledge and good sense; for I have put my faith in your teachings.
 
@@ -33174,7 +33174,7 @@
 
 **[119:72]** The law of your mouth is better to me than thousands of gold and silver.
 
-**[119:73]**   Your hands have made me, and given me form: give me wisdom, so that I may have knowledge of your teaching.
+**[119:73]** Your hands have made me, and given me form: give me wisdom, so that I may have knowledge of your teaching.
 
 **[119:74]** Your worshippers will see me and be glad; because my hope has been in your word.
 
@@ -33190,7 +33190,7 @@
 
 **[119:80]** Let all my heart be given to your orders, so that I may not be put to shame.
 
-**[119:81]**   My soul is wasted with desire for your salvation: but I have hope in your word.
+**[119:81]** My soul is wasted with desire for your salvation: but I have hope in your word.
 
 **[119:82]** My eyes are full of weariness with searching for your word, saying, When will you give me comfort?
 
@@ -33206,7 +33206,7 @@
 
 **[119:88]** Give me life in your mercy; so that I may be ruled by the unchanging word of your mouth.
 
-**[119:89]**   For ever, O Lord, your word is fixed in heaven.
+**[119:89]** For ever, O Lord, your word is fixed in heaven.
 
 **[119:90]** Your faith is unchanging from generation to generation: you have put the earth in its place, and it is not moved.
 
@@ -33222,7 +33222,7 @@
 
 **[119:96]** I have seen that nothing on earth is complete; but your teaching is very wide.
 
-**[119:97]**   O what love I have for your law! I give thought to it all the day.
+**[119:97]** O what love I have for your law! I give thought to it all the day.
 
 **[119:98]** Your teaching has made me wiser than my haters: for it is mine for ever.
 
@@ -33238,7 +33238,7 @@
 
 **[119:104]** Through your orders I get wisdom; for this reason I am a hater of every false way.
 
-**[119:105]**   Your word is a light for my feet, ever shining on my way.
+**[119:105]** Your word is a light for my feet, ever shining on my way.
 
 **[119:106]** I have made an oath and kept it, to be guided by your upright decisions.
 
@@ -33254,7 +33254,7 @@
 
 **[119:112]** My heart is ever ready to keep your rules, even to the end.
 
-**[119:113]**   I am a hater of men of doubting mind; but I am a lover of your law.
+**[119:113]** I am a hater of men of doubting mind; but I am a lover of your law.
 
 **[119:114]** You are my secret place and my breastplate against danger; my hope is in your word.
 
@@ -33270,7 +33270,7 @@
 
 **[119:120]** My flesh is moved for fear of you; I give honour to your decisions.
 
-**[119:121]**   I have done what is good and right: you will not give me into the hands of those who are working against me.
+**[119:121]** I have done what is good and right: you will not give me into the hands of those who are working against me.
 
 **[119:122]** Take your servant's interests into your keeping; let me not be crushed by the men of pride.
 
@@ -33286,7 +33286,7 @@
 
 **[119:128]** Because of it I keep straight in all things by your orders; and I am a hater of every false way.
 
-**[119:129]**   Your unchanging word is full of wonder; for this reason my soul keeps it.
+**[119:129]** Your unchanging word is full of wonder; for this reason my soul keeps it.
 
 **[119:130]** The opening of your words gives light; it gives good sense to the simple.
 
@@ -33302,7 +33302,7 @@
 
 **[119:136]** Rivers of water are flowing from my eyes, because men do not keep your law.
 
-**[119:137]**   O Lord, great is your righteousness, and upright are your decisions.
+**[119:137]** O Lord, great is your righteousness, and upright are your decisions.
 
 **[119:138]** You have given your unchanging word in righteousness, and it is for ever.
 
@@ -33318,7 +33318,7 @@
 
 **[119:144]** The righteousness of your unchanging word is eternal; give me wisdom so that I may have life.
 
-**[119:145]**   I have made my prayer with all my heart; give answer to me, O Lord: I will keep your rules.
+**[119:145]** I have made my prayer with all my heart; give answer to me, O Lord: I will keep your rules.
 
 **[119:146]** My cry has gone up to you; take me out of trouble, and I will be guided by your unchanging word.
 
@@ -33334,7 +33334,7 @@
 
 **[119:152]** I have long had knowledge that your unchanging word is for ever.
 
-**[119:153]**   O see my trouble, and be my saviour; for I keep your law in my mind,
+**[119:153]** O see my trouble, and be my saviour; for I keep your law in my mind,
 
 **[119:154]** Undertake my cause, and come to my help, give me life, as you have said.
 
@@ -33350,7 +33350,7 @@
 
 **[119:160]** Your word is true from the first; and your upright decision is unchanging for ever.
 
-**[119:161]**   Rulers have been cruel to me without cause; but I have the fear of your word in my heart.
+**[119:161]** Rulers have been cruel to me without cause; but I have the fear of your word in my heart.
 
 **[119:162]** I am delighted by your saying, like a man who makes discovery of great wealth.
 
@@ -33366,7 +33366,7 @@
 
 **[119:168]** I have been ruled by your orders; for all my ways are before you.
 
-**[119:169]**   Let my cry come before you, O Lord; give me wisdom in keeping with your word.
+**[119:169]** Let my cry come before you, O Lord; give me wisdom in keeping with your word.
 
 **[119:170]** Let my prayer come before you; take me out of trouble, as you have said.
 
@@ -33384,7 +33384,7 @@
 
 ### Chapter 120
 
-**[120:1]**  In my trouble my cry went up to the Lord, and he gave me an answer.
+**[120:1]** In my trouble my cry went up to the Lord, and he gave me an answer.
 
 **[120:2]** O Lord, be the saviour of my soul from false lips, and from the tongue of deceit.
 
@@ -33400,7 +33400,7 @@
 
 ### Chapter 121
 
-**[121:1]**  My eyes are lifted up to the hills: O where will my help come from?
+**[121:1]** My eyes are lifted up to the hills: O where will my help come from?
 
 **[121:2]** Your help comes from the Lord, who made heaven and earth.
 
@@ -33418,7 +33418,7 @@
 
 ### Chapter 122
 
-**[122:1]**  I was glad because they said to me, We will go into the house of the Lord.
+**[122:1]** I was glad because they said to me, We will go into the house of the Lord.
 
 **[122:2]** At last our feet were inside your doors, O Jerusalem.
 
@@ -33438,7 +33438,7 @@
 
 ### Chapter 123
 
-**[123:1]**  To you my eyes are lifted up, even to you whose seat is in the heavens.
+**[123:1]** To you my eyes are lifted up, even to you whose seat is in the heavens.
 
 **[123:2]** See! as the eyes of servants are turned to the hands of their masters, and the eyes of a servant-girl to her owner, so our eyes are waiting for the Lord our God, till he has mercy on us.
 
@@ -33448,7 +33448,7 @@
 
 ### Chapter 124
 
-**[124:1]**  If it had not been the Lord who was on our side (let Israel now say);
+**[124:1]** If it had not been the Lord who was on our side (let Israel now say);
 
 **[124:2]** If it had not been the Lord who was on our side, when men came up against us;
 
@@ -33466,7 +33466,7 @@
 
 ### Chapter 125
 
-**[125:1]**  Those whose hope is in the Lord are like the mountain of Zion, which may not be moved, but keeps its place for ever.
+**[125:1]** Those whose hope is in the Lord are like the mountain of Zion, which may not be moved, but keeps its place for ever.
 
 **[125:2]** As the mountains are round about Jerusalem, so the Lord is round about his people, from this time and for ever.
 
@@ -33478,7 +33478,7 @@
 
 ### Chapter 126
 
-**[126:1]**  When the Lord made a change in Zion's fate, we were like men in a dream.
+**[126:1]** When the Lord made a change in Zion's fate, we were like men in a dream.
 
 **[126:2]** Then our mouths were full of laughing, and our tongues gave a glad cry; they said among the nations, The Lord has done great things for them.
 
@@ -33492,7 +33492,7 @@
 
 ### Chapter 127
 
-**[127:1]**  If the Lord is not helping the builders, then the building of a house is to no purpose: if the Lord does not keep the town, the watchman keeps his watch for nothing.
+**[127:1]** If the Lord is not helping the builders, then the building of a house is to no purpose: if the Lord does not keep the town, the watchman keeps his watch for nothing.
 
 **[127:2]** It is of no use for you to get up early, and to go late to your rest, with the bread of sorrow for your food; for the Lord gives to his loved ones in sleep.
 
@@ -33504,7 +33504,7 @@
 
 ### Chapter 128
 
-**[128:1]**  Happy is the worshipper of the Lord, who is walking in his ways.
+**[128:1]** Happy is the worshipper of the Lord, who is walking in his ways.
 
 **[128:2]** You will have the fruit of the work of your hands: happy will you be, and all will be well for you.
 
@@ -33518,7 +33518,7 @@
 
 ### Chapter 129
 
-**[129:1]**  Great have been my troubles from the time when I was young (let Israel now say);
+**[129:1]** Great have been my troubles from the time when I was young (let Israel now say);
 
 **[129:2]** Great have been my troubles from the time when I was young, but my troubles have not overcome me.
 
@@ -33536,7 +33536,7 @@
 
 ### Chapter 130
 
-**[130:1]**  Out of the deep have I sent up my cry to you, O Lord.
+**[130:1]** Out of the deep have I sent up my cry to you, O Lord.
 
 **[130:2]** Lord, let my voice come before you: let your ears be awake to the voice of my prayer.
 
@@ -33554,7 +33554,7 @@
 
 ### Chapter 131
 
-**[131:1]**  Lord, there is no pride in my heart and my eyes are not lifted up; and I have not taken part in great undertakings, or in things over-hard for me.
+**[131:1]** Lord, there is no pride in my heart and my eyes are not lifted up; and I have not taken part in great undertakings, or in things over-hard for me.
 
 **[131:2]** See, I have made my soul calm and quiet, like a child on its mother's breast; my soul is like a child on its mother's breast.
 
@@ -33562,7 +33562,7 @@
 
 ### Chapter 132
 
-**[132:1]**  Lord, give thought to David, and to all his troubles;
+**[132:1]** Lord, give thought to David, and to all his troubles;
 
 **[132:2]** How he made an oath to the Lord, and gave his word to the great God of Jacob, saying,
 
@@ -33600,7 +33600,7 @@
 
 ### Chapter 133
 
-**[133:1]**  See how good and how pleasing it is for brothers to be living together in harmony!
+**[133:1]** See how good and how pleasing it is for brothers to be living together in harmony!
 
 **[133:2]** It is like oil of great price on the head, flowing down over the face, even Aaron's face: coming down to the edge of his robe;
 
@@ -33608,7 +33608,7 @@
 
 ### Chapter 134
 
-**[134:1]**  Give praise to the Lord, all you servants of the Lord, who take your places in the house of the Lord by night.
+**[134:1]** Give praise to the Lord, all you servants of the Lord, who take your places in the house of the Lord by night.
 
 **[134:2]** Give praise to the Lord, lifting up your hands in his holy place.
 
@@ -33734,7 +33734,7 @@
 
 ### Chapter 138
 
-**[138:1]**  I will give you praise with all my heart: I will make melody to you before the gods.
+**[138:1]** I will give you praise with all my heart: I will make melody to you before the gods.
 
 **[138:2]** I will give worship before your holy Temple, praising your name for your mercy and for your unchanging faith: for you have made your word greater than all your name.
 
@@ -33752,7 +33752,7 @@
 
 ### Chapter 139
 
-**[139:1]**  O Lord, you have knowledge of me, searching out all my secrets.
+**[139:1]** O Lord, you have knowledge of me, searching out all my secrets.
 
 **[139:2]** You have knowledge when I am seated and when I get up, you see my thoughts from far away.
 
@@ -33802,7 +33802,7 @@
 
 ### Chapter 140
 
-**[140:1]**  O Lord, take me out of the power of the evil man; keep me safe from the violent man:
+**[140:1]** O Lord, take me out of the power of the evil man; keep me safe from the violent man:
 
 **[140:2]** For their hearts are full of evil designs; and they are ever making ready causes of war.
 
@@ -33830,7 +33830,7 @@
 
 ### Chapter 141
 
-**[141:1]**  Lord, I have made my cry to you; come to me quickly; give ear to my voice, when it goes up to you.
+**[141:1]** Lord, I have made my cry to you; come to me quickly; give ear to my voice, when it goes up to you.
 
 **[141:2]** Let my prayer be ordered before you like a sweet smell; and let the lifting up of my hands be like the evening offering.
 
@@ -33852,7 +33852,7 @@
 
 ### Chapter 142
 
-**[142:1]**  The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord.
+**[142:1]** The sound of my cry went up to the Lord; with my voice I made my prayer for grace to the Lord.
 
 **[142:2]** I put all my sorrows before him; and made clear to him all my trouble.
 
@@ -33868,7 +33868,7 @@
 
 ### Chapter 143
 
-**[143:1]**  Let my prayer come to you, O Lord; give ear to my requests for your grace; keep faith with me, and give me an answer in your righteousness;
+**[143:1]** Let my prayer come to you, O Lord; give ear to my requests for your grace; keep faith with me, and give me an answer in your righteousness;
 
 **[143:2]** Let not your servant come before you to be judged; for no man living is upright in your eyes.
 
@@ -33894,7 +33894,7 @@
 
 ### Chapter 144
 
-**[144:1]**  Praise be to the God of my strength, teaching my hands the use of the sword, and my fingers the art of fighting:
+**[144:1]** Praise be to the God of my strength, teaching my hands the use of the sword, and my fingers the art of fighting:
 
 **[144:2]** He is my strength, and my Rock; my high tower, and my saviour; my keeper and my hope: he gives me authority over my people.
 
@@ -33926,7 +33926,7 @@
 
 ### Chapter 145
 
-**[145:1]**  Let me give glory to you, O God, my King; and blessing to your name for ever and ever.
+**[145:1]** Let me give glory to you, O God, my King; and blessing to your name for ever and ever.
 
 **[145:2]** Every day will I give you blessing, praising your name for ever and ever.
 
@@ -35198,7 +35198,7 @@
 
 **[19:6]** Great numbers will make attempts to get the approval of a ruler: and every man is the special friend of him who has something to give.
 
-**[19:7]** All the brothers of the poor man are against him: how much more do his friends go far from him! ...
+**[19:7]** All the brothers of the poor man are against him: how much more do his friends go far from him!...
 
 **[19:8]** He who gets wisdom has love for his soul: he who keeps good sense will get what is truly good.
 
@@ -35362,7 +35362,7 @@
 
 **[21:27]** The offering of evil-doers is disgusting: how much more when they give it with an evil purpose!
 
-**[21:28]** A false witness will be cut off, ...
+**[21:28]** A false witness will be cut off,...
 
 **[21:29]** The evil-doer makes his face hard, but as for the upright, he gives thought to his way.
 
@@ -36650,7 +36650,7 @@
 
 **[6:11]** I went down into the garden of nuts to see the green plants of the valley, and to see if the vine was in bud, and the pomegranate-trees were in flower.
 
-**[6:12]** Before I was conscious of it, ...
+**[6:12]** Before I was conscious of it,...
 
 **[6:13]** Come back, come back, O Shulammite; come back, come back, so that our eyes may see you. What will you see in the Shulammite? A sword-dance.
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** Men will come there with bows and arrows, because all the land will be full of blackberries and thorns.
 
-**[7:25]** And they will send out the oxen and the sheep on all the hills which before were worked with the spade, ... fear of blackberries and thorns.
+**[7:25]** And they will send out the oxen and the sheep on all the hills which before were worked with the spade,... fear of blackberries and thorns.
 
 ### Chapter 8
 
@@ -37074,7 +37074,7 @@
 
 **[8:19]** And when they say to you, Make request for us to those who have control of spirits, and to those wise in secret arts, who make hollow bird-like sounds; is it not right for a people to make request to their gods, to make request for the living to the dead?
 
-**[8:20]** Then say to them, Put your faith in the teaching and the witness. ... If they do not say such things. ... For him there is no dawn. ...
+**[8:20]** Then say to them, Put your faith in the teaching and the witness.... If they do not say such things.... For him there is no dawn....
 
 **[8:21]** And he will go through the land in bitter trouble and in need of food; and when he is unable to get food, he will become angry, cursing his king and his God, and his eyes will be turned to heaven on high;
 
@@ -37376,7 +37376,7 @@
 
 ### Chapter 16
 
-**[16:1]** And they will send ... to the mountain of the daughter of Zion.
+**[16:1]** And they will send... to the mountain of the daughter of Zion.
 
 **[16:2]** For the daughters of Moab will be like wandering birds, like a place from which the young birds have gone in flight, at the ways across the Arnon.
 
@@ -37470,7 +37470,7 @@
 
 **[19:9]** And all the workers in linen thread, and those who make cotton cloth, will be put to shame.
 
-**[19:10]** And the makers of twisted thread will be crushed, and those who ... will be sad in heart.
+**[19:10]** And the makers of twisted thread will be crushed, and those who... will be sad in heart.
 
 **[19:11]** The chiefs of Zoan are completely foolish; the wisest guides of Pharaoh have become like beasts: how do you say to Pharaoh, I am the son of the wise, the offspring of early kings?
 
@@ -37558,11 +37558,11 @@
 
 **[22:2]** You, who are full of loud voices, a town of outcries, given up to joy; your dead men have not been put to the sword, or come to their death in war.
 
-**[22:3]** All your rulers ... have gone in flight; all your strong ones have gone far away.
+**[22:3]** All your rulers... have gone in flight; all your strong ones have gone far away.
 
 **[22:4]** For this cause I have said, Let your eyes be turned away from me in my bitter weeping; I will not be comforted for the wasting of the daughter of my people.
 
-**[22:5]** For it is a day of trouble and of crushing down and of destruction from the Lord, the Lord of armies, in the valley of vision; ...
+**[22:5]** For it is a day of trouble and of crushing down and of destruction from the Lord, the Lord of armies, in the valley of vision;...
 
 **[22:6]** And Elam was armed with arrows, and Aram came on horseback; and the breastplate of Kir was uncovered.
 
@@ -37738,7 +37738,7 @@
 
 **[26:10]** Even if you are kind to the evil-doer, he will not go after righteousness; even in the land of the upright he will still go on in his wrongdoing, and will not see the glory of the Lord.
 
-**[26:11]** Lord, your hand is lifted up, but they do not see: let them see ... yes, your haters will be burned up in the fire.
+**[26:11]** Lord, your hand is lifted up, but they do not see: let them see... yes, your haters will be burned up in the fire.
 
 **[26:12]** Lord, you will give us peace: for all our works are the outcome of your purpose.
 
@@ -38070,7 +38070,7 @@
 
 **[33:20]** Let your eyes be resting on Zion, the town of our holy feasts: you will see Jerusalem, a quiet resting-place, a tent which will not be moved, whose tent-pins will never be pulled up, and whose cords will never be broken.
 
-**[33:21]** But there the Lord will be with us in his glory, ... wide rivers and streams; where no boat will go with blades, and no fair ship will be sailing.
+**[33:21]** But there the Lord will be with us in his glory,... wide rivers and streams; where no boat will go with blades, and no fair ship will be sailing.
 
 **[33:22]** For the Lord is our judge, the Lord is our law-giver, the Lord is our king; he will be our saviour.
 
@@ -38200,7 +38200,7 @@
 
 **[37:8]** So the Rab-shakeh went back, and when he got there the king of Assyria was making war against Libnah: for it had come to his ears that the king of Assyria had gone away from Lachish.
 
-**[37:9]** And when news came to him that Tirhakah, king of Ethiopia, had made an attack on him, ... And he sent representatives to Hezekiah, king of Judah, saying,
+**[37:9]** And when news came to him that Tirhakah, king of Ethiopia, had made an attack on him,... And he sent representatives to Hezekiah, king of Judah, saying,
 
 **[37:10]** This is what you are to say to Hezekiah, king of Judah: Let not your God, in whom is your faith, give you a false hope, saying, Jerusalem will not be given into the hands of the king of Assyria.
 
@@ -38952,9 +38952,9 @@
 
 **[53:9]** And they put his body into the earth with sinners, and his last resting-place was with the evil-doers, though he had done no wrong, and no deceit was in his mouth.
 
-**[53:10]** And the Lord was pleased ... see a seed, long life, ... will do well in his hand. ...
+**[53:10]** And the Lord was pleased... see a seed, long life,... will do well in his hand....
 
-**[53:11]** ... made clear his righteousness before men ... had taken their sins on himself.
+**[53:11]** ... made clear his righteousness before men... had taken their sins on himself.
 
 **[53:12]** For this cause he will have a heritage with the great, and he will have a part in the goods of war with the strong, because he gave up his life, and was numbered with the evil-doers; taking on himself the sins of the people, and making prayer for the wrongdoers.
 
@@ -39310,7 +39310,7 @@
 
 **[64:3]** While you do acts of power for which we are not looking, and which have not come to the ears of men in the past.
 
-**[64:4]** The ear has not had news of, or the eye seen, ... any God but you, working for the man who is waiting for him.
+**[64:4]** The ear has not had news of, or the eye seen,... any God but you, working for the man who is waiting for him.
 
 **[64:5]** Will you not have mercy on him who takes pleasure in doing righteousness, even on those who keep in mind your ways? Truly you were angry, and we went on doing evil, and sinning against you in the past.
 
@@ -39538,9 +39538,9 @@
 
 **[2:32]** Is it possible for a virgin to put out of her memory her ornaments, or a bride her robes? but my people have put me out of their memories for unnumbered days.
 
-**[2:33]** With what care are your ways ordered when you are looking for love! so ... your ways.
+**[2:33]** With what care are your ways ordered when you are looking for love! so... your ways.
 
-**[2:34]** And in the skirts of your robe may be seen the life-blood of those who have done no wrong: ...
+**[2:34]** And in the skirts of your robe may be seen the life-blood of those who have done no wrong:...
 
 **[2:35]** And still you said, I have done no wrong; truly, his wrath is turned away from me. See, I will take up the cause against you, because you say, I have done no wrong.
 
@@ -39764,7 +39764,7 @@
 
 **[6:17]** And I put watchmen over you, saying, Give attention to the sound of the horn; but they said, We will not give attention.
 
-**[6:18]** So then, give ear, you nations, and ...
+**[6:18]** So then, give ear, you nations, and...
 
 **[6:19]** Give ear, O earth: see, I will make evil come on this people, even the fruit of their thoughts, because they have not given attention to my words, and they would have nothing to do with my law.
 
@@ -41162,7 +41162,7 @@
 
 **[33:3]** Let your cry come to me, and I will give you an answer, and let you see great things and secret things of which you had no knowledge.
 
-**[33:4]** For this is what the Lord, the God of Israel, has said about the houses of this town and the houses of the kings of Judah, which have been broken down to make earthworks and ...;
+**[33:4]** For this is what the Lord, the God of Israel, has said about the houses of this town and the houses of the kings of Judah, which have been broken down to make earthworks and...;
 
 **[33:5]** ... and to make them full of the dead bodies of men whom I have put to death in my wrath and in my passion, and because of whose evil-doing I have kept my face covered from this town.
 
@@ -42128,7 +42128,7 @@
 
 **[51:31]** One man, running, will give word to another, and one who goes with news will be handing it on to another, to give word to the king of Babylon that his town has been taken from every quarter:
 
-**[51:32]** And the ways across the river have been taken, and the water-holes ... burned with fire, and the men of war are in the grip of fear.
+**[51:32]** And the ways across the river have been taken, and the water-holes... burned with fire, and the men of war are in the grip of fear.
 
 **[51:33]** For these are the words of the Lord of armies, the God of Israel: The daughter of Babylon is like a grain-floor when it is stamped down; before long, the time of her grain-cutting will come.
 
@@ -43606,7 +43606,7 @@
 
 **[21:9]** Son of man, say as a prophet, These are the words of the Lord: Say, A sword, a sword which has been made sharp and polished:
 
-**[21:10]** It has been made sharp to give death; it is polished so that it may be like a thunder-flame: ...
+**[21:10]** It has been made sharp to give death; it is polished so that it may be like a thunder-flame:...
 
 **[21:11]** And I have given it to the polisher so that it may be taken in the hand: he has made the sword sharp, he has had it polished, to put it into the hand of him who gives death.
 
@@ -43802,7 +43802,7 @@
 
 **[23:42]** ... and they put jewels on her hands and beautiful crowns on her head.
 
-**[23:43]** Then I said ... now she will go on with her loose ways.
+**[23:43]** Then I said... now she will go on with her loose ways.
 
 **[23:44]** And they went in to her, as men go to a loose woman: so they went in to Oholibah, the loose woman.
 
@@ -44840,9 +44840,9 @@
 
 **[41:24]** And the holy place had two doors, and the doors had two turning leaves, two for one and two for the other.
 
-**[41:25]** And on them were pictured winged ones and palm-trees, as on the walls; and a ... of wood was on the front of the covered way outside.
+**[41:25]** And on them were pictured winged ones and palm-trees, as on the walls; and a... of wood was on the front of the covered way outside.
 
-**[41:26]** And there were sloping windows and palm-trees on one side and on the other, on the sides of the covered way: and the side-rooms of the house and the ...
+**[41:26]** And there were sloping windows and palm-trees on one side and on the other, on the sides of the covered way: and the side-rooms of the house and the...
 
 ### Chapter 42
 
@@ -45612,7 +45612,7 @@
 
 **[6:17]** Then they got a stone and put it over the mouth of the hole, and it was stamped with the king's stamp and with the stamp of the lords, so that the decision about Daniel might not be changed.
 
-**[6:18]** Then the king went to his great house, and took no food that night, and no ... were placed before him, and his sleep went from him.
+**[6:18]** Then the king went to his great house, and took no food that night, and no... were placed before him, and his sleep went from him.
 
 **[6:19]** Then very early in the morning the king got up and went quickly to the lions' hole.
 
@@ -45716,7 +45716,7 @@
 
 **[8:11]** It made itself great, even as great as the lord of the army; and by it the regular burned offering was taken away, and the place overturned and the holy place made waste.
 
-**[8:12]** ... against the regular burned offering; and ... crushed down to the earth, and it did its pleasure and things went well for it.
+**[8:12]** ... against the regular burned offering; and... crushed down to the earth, and it did its pleasure and things went well for it.
 
 **[8:13]** Then there came to my ears the voice of a holy one talking; and another holy one said to that certain one who was talking, How long will the vision be while the regular burned offering is taken away, and the unclean thing causing fear is put up, and the holy place crushed under foot?
 
@@ -45800,7 +45800,7 @@
 
 **[9:25]** Have then the certain knowledge that from the going out of the word for the building again of Jerusalem till the coming of a prince, on whom the holy oil has been put, will be seven weeks: in sixty-two weeks its building will be complete, with square and earthwork.
 
-**[9:26]** And at the end of the times, even after the sixty-two weeks, one on whom the holy oil has been put will be cut off and have no ...; and the town and the holy place will be made waste together with a prince; and the end will come with an overflowing of waters, and even to the end there will be war; the making waste which has been fixed.
+**[9:26]** And at the end of the times, even after the sixty-two weeks, one on whom the holy oil has been put will be cut off and have no...; and the town and the holy place will be made waste together with a prince; and the end will come with an overflowing of waters, and even to the end there will be war; the making waste which has been fixed.
 
 **[9:27]** And a strong order will be sent out against the great number for one week; and so for half of the week the offering and the meal offering will come to an end; and in its place will be an unclean thing causing fear; till the destruction which has been fixed is let loose on him who has made waste.
 
@@ -46306,7 +46306,7 @@
 
 **[11:11]** Shaking with fear like a bird, they will come out of Egypt, like a dove out of the land of Assyria: and I will give them rest in their houses, says the Lord.
 
-**[11:12]** The deceit of Ephraim and the false words of Israel are about me on every side. ...
+**[11:12]** The deceit of Ephraim and the false words of Israel are about me on every side....
 
 ### Chapter 12
 
@@ -48072,7 +48072,7 @@
 
 **[14:4]** And in that day his feet will be on the Mount of Olives, which is opposite Jerusalem on the east, and the Mount of Olives will be parted in the middle to the east and to the west, forming a very great valley; and half the mountain will be moved to the north and half of it to the south.
 
-**[14:5]** And the valley will be stopped ... and you will go in flight as you went in flight from the earth-shock in the days of Uzziah, king of Judah: and the Lord my God will come, and all his holy ones with him.
+**[14:5]** And the valley will be stopped... and you will go in flight as you went in flight from the earth-shock in the days of Uzziah, king of Judah: and the Lord my God will come, and all his holy ones with him.
 
 **[14:6]** And in that day there will be no heat or cold or ice;
 
@@ -51790,7 +51790,7 @@
 
 **[16:7]** But go, say to his disciples and to Peter, He goes before you into Galilee: there you will see him, as he said to you.
 
-**[16:8]** And they went out quickly from the place, because fear and great wonder had come on them: and they said nothing to anyone, because they were full of fear that ...
+**[16:8]** And they went out quickly from the place, because fear and great wonder had come on them: and they said nothing to anyone, because they were full of fear that...
 
 **[16:9]** Now when he came back from the dead early on the first day of the week, he went first to Mary Magdalene, from whom he had sent out seven evil spirits.
 

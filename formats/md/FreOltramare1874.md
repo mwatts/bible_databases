@@ -48284,7 +48284,7 @@
 
 **[2:1]** Jésus étant né à Bethléhem en Judée, au temps du roi Hérode, des mages d'Orient arrivèrent à Jérusalem, et dirent:
 
-**[2:2]** «Où est le roi des Juifs qui vient de naître ? car nous avons vu son étoile en Orient, et nous sommes venus lui rendre hommage.»
+**[2:2]** «Où est le roi des Juifs qui vient de naître? car nous avons vu son étoile en Orient, et nous sommes venus lui rendre hommage.»
 
 **[2:3]** Le roi Hérode l'ayant appris, en fut troublé, et tout Jérusalem avec lui.
 
@@ -48592,7 +48592,7 @@
 
 **[7:3]** D'où vient que tu vois la paille qui est dans l'oeil de ton frère, tandis que tu ne remarques pas la poutre qui est dans ton oeil?
 
-**[7:4]** Ou comment peux-tu dire à ton frère: «Laisse-moi ôter cette paille qui est dans ton oeil,» quand il y a une poutre dans le tien !
+**[7:4]** Ou comment peux-tu dire à ton frère: «Laisse-moi ôter cette paille qui est dans ton oeil,» quand il y a une poutre dans le tien!
 
 **[7:5]** Hypocrite, ôte premièrement la poutre qui est dans ton oeil, et alors tu verras à ôter la paille de l'oeil de ton frère.»
 
@@ -49406,7 +49406,7 @@
 
 **[17:16]** Je l'ai amené à tes disciples, et ils n'ont pu le guérir.»
 
-**[17:17]** Jésus répondit: «Race incrédule et perverse, jusqu’à quand serai-je avec vous? Jusqu'à quand vous supporterai-je ?... Amenez-le-moi ici.»
+**[17:17]** Jésus répondit: «Race incrédule et perverse, jusqu’à quand serai-je avec vous? Jusqu'à quand vous supporterai-je?... Amenez-le-moi ici.»
 
 **[17:18]** Jésus tança le démon: le démon sortit, et l'enfant fut guéri sur l'heure.
 
@@ -49506,7 +49506,7 @@
 
 **[19:2]** Une grande foule le suivit, et il guérit ceux qui étaient malades.
 
-**[19:3]** Des pharisiens vinrent vers lui, et lui dirent, pour le mettre à l'épreuve: «Est-il permis à un homme de répudier sa femme pour quelque motif que ce soit ?»
+**[19:3]** Des pharisiens vinrent vers lui, et lui dirent, pour le mettre à l'épreuve: «Est-il permis à un homme de répudier sa femme pour quelque motif que ce soit?»
 
 **[19:4]** Jésus répondit: «N'avez-vous pas lu que celui qui les créa à l'origine «les fis l’un homme l’autre femme,
 
@@ -49762,7 +49762,7 @@
 
 **[22:17]** Donne-nous donc ton avis. Est-il permis, ou non, de payer le tribut à César?»
 
-**[22:18]** Mais Jésus connaissant leur perfidie, leur dit: «Hypocrites, pourquoi essayez-vous de me surprendre ?
+**[22:18]** Mais Jésus connaissant leur perfidie, leur dit: «Hypocrites, pourquoi essayez-vous de me surprendre?
 
 **[22:19]** Montrez-moi la monnaie avec laquelle on paie le tribut.» Ils lui présentèrent un denier;
 
@@ -50118,7 +50118,7 @@
 
 **[26:9]** et dirent: «A quoi bon cette perte? On aurait pu vendre ce parfum très cher, et en donner le prix aux pauvres.»
 
-**[26:10]** Jésus, s'en étant aperçu, leur dit: «Pourquoi faites-vous de la peine à cette femme ? car elle a fait une bonne action à mon égard.
+**[26:10]** Jésus, s'en étant aperçu, leur dit: «Pourquoi faites-vous de la peine à cette femme? car elle a fait une bonne action à mon égard.
 
 **[26:11]** Vous aurez toujours des pauvres avec vous, mais vous ne m'aurez pas toujours.
 
@@ -50198,7 +50198,7 @@
 
 **[26:49]** Et aussitôt, s'approchant de Jésus, il lui dit: «Salut, Rabbi,» et il le baisa.
 
-**[26:50]** Jésus lui dit: «Mon ami, pourquoi es-tu ici ?» Alors ces gens s'avancèrent, mirent la main sur Jésus et l'arrêtèrent.
+**[26:50]** Jésus lui dit: «Mon ami, pourquoi es-tu ici?» Alors ces gens s'avancèrent, mirent la main sur Jésus et l'arrêtèrent.
 
 **[26:51]** Tout à coup un de ceux qui étaient avec Jésus, mettant l'épée à la main, frappa le serviteur du souverain sacrificateur et lui emporta l'oreille.
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Allez, instruisez toutes les nations, baptisez-les au nom du Père, du Fils et du Saint-Esprit,
 
-**[28:20]** leur enseignant à garder tout ce que je vous ai commandé; pour moi, je suis tous les jours avec vous jusqu’à la fin du monde.» 
+**[28:20]** leur enseignant à garder tout ce que je vous ai commandé; pour moi, je suis tous les jours avec vous jusqu’à la fin du monde.»
 
 ## Mark
 
@@ -51122,7 +51122,7 @@
 
 **[9:15]** Toute la foule fut surprise de le voir, et elle accourut pour le saluer.
 
-**[9:16]** Il leur demanda: «De quoi disputez-vous avec eux ?»
+**[9:16]** Il leur demanda: «De quoi disputez-vous avec eux?»
 
 **[9:17]** Et un homme de la foule lui répondit: «Maître, je t'ai amené mon fils qui est possédé d'un esprit muet:
 
@@ -51460,13 +51460,13 @@
 
 **[13:1]** Comme il sortait du temple, un de ses disciples lui dit: «Maître, vois donc, quelles pierres et quelles constructions!»
 
-**[13:2]** Et Jésus lui dit : «Tu vois ces grandes constructions? Eh bien ! il n'y restera pierre sur pierre qui ne soit renversée.»
+**[13:2]** Et Jésus lui dit: «Tu vois ces grandes constructions? Eh bien! il n'y restera pierre sur pierre qui ne soit renversée.»
 
 **[13:3]** Comme il était assis sur la montagne des Oliviers, en face du temple, Pierre, Jacques, Jean et André lui demandèrent en particulier:
 
 **[13:4]** «Dis-nous quand ces événements doivent avoir lieu, et quel sera le signe précurseur de leur accomplissement.»
 
-**[13:5]** Jésus se mit à leur dire : «Prenez garde qu'on ne vous séduise,
+**[13:5]** Jésus se mit à leur dire: «Prenez garde qu'on ne vous séduise,
 
 **[13:6]** car plusieurs viendront sous mon nom, disant: «C'est moi qui suis le Messie;» et ils séduiront beaucoup de monde.
 
@@ -51474,15 +51474,15 @@
 
 **[13:8]** Une nation s'élèvera, en effet, contre une nation, et un royaume contre un royaume; il y aura des tremblements de terre en divers lieux, il y aura des famines et des troubles. Ces calamités sont le commencement des douleurs.
 
-**[13:9]** Prenez garde à vous-mêmes; on vous livrera aux tribunaux et aux synagogues, vous serez battus, et l’on vous traduira devant les gouverneurs et devant les rois, à cause de mon nom, pour rendre témoignage devant eux :
+**[13:9]** Prenez garde à vous-mêmes; on vous livrera aux tribunaux et aux synagogues, vous serez battus, et l’on vous traduira devant les gouverneurs et devant les rois, à cause de mon nom, pour rendre témoignage devant eux:
 
 **[13:10]** il faut premièrement que l'évangile soit prêché à toutes les nations.
 
-**[13:11]** Quand on vous conduira pour vous livrer, ne vous inquiétez pas de ce que vous direz, ne vous préparez même pas, mais dites ce qui vous sera donné au moment même : ce n'est pas vous qui parlez, c'est le Saint-Esprit.
+**[13:11]** Quand on vous conduira pour vous livrer, ne vous inquiétez pas de ce que vous direz, ne vous préparez même pas, mais dites ce qui vous sera donné au moment même: ce n'est pas vous qui parlez, c'est le Saint-Esprit.
 
 **[13:12]** Le frère livrera son frère à la mort, et le père, son enfant; les enfants s'élèveront contre leurs pères et leurs mères, et les mettront à mort;
 
-**[13:13]** et vous serez haïs de tous à cause de mon nom ; mais celui qui persévérera jusqu’à la fin sera sauvé.»
+**[13:13]** et vous serez haïs de tous à cause de mon nom; mais celui qui persévérera jusqu’à la fin sera sauvé.»
 
 **[13:14]** Or, quand vous verrez l'abomination cause de la désolation établie là où elle ne doit pas être (que celui qui lit y réfléchisse), alors, que ceux qui sont en Judée s'enfuient dans les montagnes;
 
@@ -51490,7 +51490,7 @@
 
 **[13:16]** et que celui qui est allé dans son champ, ne revienne pas en arrière pour prendre son manteau.
 
-**[13:17]** Malheur aux femmes qui seront enceintes et à celles qui allaiteront en ces jours-là !
+**[13:17]** Malheur aux femmes qui seront enceintes et à celles qui allaiteront en ces jours-là!
 
 **[13:18]** Priez pour que cela n'arrive pas en hiver;
 
@@ -51498,7 +51498,7 @@
 
 **[13:20]** Et si le Seigneur n'avait abrégé ce temps, nul n'échapperait; mais il l'a abrégé à cause des élus qu'il a choisis.
 
-**[13:21]** «Si l'on vous dit alors : «Le Messie est ici,» ou bien «le Messie est là,» ne le croyez point;
+**[13:21]** «Si l'on vous dit alors: «Le Messie est ici,» ou bien «le Messie est là,» ne le croyez point;
 
 **[13:22]** car il s'élèvera de faux prophètes, qui feront des miracles et des prodiges pour séduire, s'il était possible, les élus mêmes.
 
@@ -51514,7 +51514,7 @@
 
 **[13:28]** Tirez instruction de la comparaison avec le figuier. Dès que sa branche devient tendre et que les feuilles poussent, on connaît que l'été est proche;
 
-**[13:29]** de même, quand vous verrez ces événements se produire, sachez que le Fils de l'homme est proche : il est à vos portes.
+**[13:29]** de même, quand vous verrez ces événements se produire, sachez que le Fils de l'homme est proche: il est à vos portes.
 
 **[13:30]** En vérité, je vous dis que cette génération ne passera point, que tous ces événements n'arrivent.
 
@@ -51530,7 +51530,7 @@
 
 **[13:36]** craignez qu'en arrivant tout à coup, il ne vous trouve endormis.
 
-**[13:37]** Ce que je vous dis, je le dis à tous : Veillez.»
+**[13:37]** Ce que je vous dis, je le dis à tous: Veillez.»
 
 ### Chapter 14
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Après leur avoir ainsi parlé, le Seigneur fut enlevé au ciel et il s'assit à la droite de Dieu.
 
-**[16:20]** Pour eux, ils allèrent prêcher en tous lieux. Le Seigneur les assistait dans leur oeuvre, et confirmait sa Parole par les miracles qui l'accompagnaient.] 
+**[16:20]** Pour eux, ils allèrent prêcher en tous lieux. Le Seigneur les assistait dans leur oeuvre, et confirmait sa Parole par les miracles qui l'accompagnaient.]
 
 ## Luke
 
@@ -52106,7 +52106,7 @@
 
 **[3:9]** Déjà même la cognée est mise à la racine des arbres; tout arbre donc qui ne produit pas de bon fruit, va être coupé et jeté au feu.»
 
-**[3:10]** Et le peuple lui demanda: «Que faut-il donc faire ?»
+**[3:10]** Et le peuple lui demanda: «Que faut-il donc faire?»
 
 **[3:11]** Il leur répondit: «Que celui qui a deux tuniques partage avec celui qui n'en a point; et que celui qui a de quoi manger fasse de même.»
 
@@ -53174,7 +53174,7 @@
 
 **[14:4]** Ils gardèrent le silence. Alors Jésus saisissant l'hydropique, le guérit, et le renvoya.
 
-**[14:5]** Puis, prenant la parole, il dit: «Qui de vous, si son fils ou son boeuf vient à tomber dans un puits, ne l'en retire aussitôt, le jour du sabbat ?»
+**[14:5]** Puis, prenant la parole, il dit: «Qui de vous, si son fils ou son boeuf vient à tomber dans un puits, ne l'en retire aussitôt, le jour du sabbat?»
 
 **[14:6]** Et ils ne surent que lui répondre.
 
@@ -53846,7 +53846,7 @@
 
 **[22:21]** Seulement voici, la main de celui qui me livre est avec moi à cette table!
 
-**[22:22]** Car le Fils de l'homme s'en va selon ce qui a été arrêté; mais malheur à l'homme par qui il est livré !»
+**[22:22]** Car le Fils de l'homme s'en va selon ce qui a été arrêté; mais malheur à l'homme par qui il est livré!»
 
 **[22:23]** Et les disciples se mirent à se demander les uns aux autres quel était bien celui d'entre eux qui devait commettre ce crime.
 
@@ -53856,7 +53856,7 @@
 
 **[22:26]** Qu'il n'en soit point ainsi entre vous; mais que le plus grand parmi vous soit comme le plus petit, et celui qui est à la tête comme celui qui sert.
 
-**[22:27]** Car quel est le plus grand, de celui qui est à table, ou de celui qui sert ? N'est-ce pas celui qui est à table?... et moi, cependant, je suis au milieu de vous comme celui qui sert.
+**[22:27]** Car quel est le plus grand, de celui qui est à table, ou de celui qui sert? N'est-ce pas celui qui est à table?... et moi, cependant, je suis au milieu de vous comme celui qui sert.
 
 **[22:28]** Vous êtes demeurés avec moi dans mes épreuves,
 
@@ -53990,7 +53990,7 @@
 
 **[23:21]** mais ils répondirent par les cris de «crucifie-le! crucifie-le!»
 
-**[23:22]** Il leur dit pour la troisième fois: «Quel mal a-t-il donc fait? Je n'ai rien trouvé en lui qui mérite la mort; je le relâcherai donc, après l'avoir fait châtier ?»
+**[23:22]** Il leur dit pour la troisième fois: «Quel mal a-t-il donc fait? Je n'ai rien trouvé en lui qui mérite la mort; je le relâcherai donc, après l'avoir fait châtier?»
 
 **[23:23]** Mais ils insistèrent, demandant à grands cris qu'il fût crucifié, et leurs clameurs et celles des principaux sacrificateurs prévalurent,
 
@@ -54008,7 +54008,7 @@
 
 **[23:30]** Alors on se mettra à dire aux montagnes: «Tombez sur nous;» et aux collines: «Couvrez-nous;»
 
-**[23:31]** car si l'on fait ces choses au bois vert, que fera-t-on au bois sec ?»
+**[23:31]** car si l'on fait ces choses au bois vert, que fera-t-on au bois sec?»
 
 **[23:32]** Les soldats conduisaient en même temps deux malfaiteurs pour être mis à mort avec lui.
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Pour eux, ils s'en retournèrent à Jérusalem, pleins d'une grande joie;
 
-**[24:53]** et ils étaient continuellement dans le temple, louant et bénissant Dieu. 
+**[24:53]** et ils étaient continuellement dans le temple, louant et bénissant Dieu.
 
 ## John
 
@@ -55200,7 +55200,7 @@
 
 **[11:25]** Jésus lui repartit: «Je suis la résurrection et la vie: celui qui croit en moi, vivra, quand même il serait mort,
 
-**[11:26]** et quiconque vit et croit en moi, ne mourra point pour toujours. Crois-tu cela ?»
+**[11:26]** et quiconque vit et croit en moi, ne mourra point pour toujours. Crois-tu cela?»
 
 **[11:27]** Elle lui dit: «Oui, Seigneur, je crois que tu es le Messie, le Fils de Dieu, celui qui devait venir dans le monde.»
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** C'est ce même disciple qui atteste ces faits, et qui les a écrits; et nous savons que son témoignage est véritable.
 
-**[21:25]** Jésus a fait encore beaucoup d'autres choses: si on les rapportait en détail, je ne pense pas que le monde même pût contenir les livres qu'on en écrirait. 
+**[21:25]** Jésus a fait encore beaucoup d'autres choses: si on les rapportait en détail, je ne pense pas que le monde même pût contenir les livres qu'on en écrirait.
 
 ## Acts
 
@@ -56944,7 +56944,7 @@
 
 **[13:34]** Que Dieu l’ait ressuscité des morts, pour qu'il ne retournât plus à la corruption, c'est ce qu'il a dit en ces termes: «Je vous donnerai les choses saintes promises à David, lesquelles sont certaines.»
 
-**[13:35]** C'est ce qu'il dit encore dans un autre Psaume: «Tu ne laisseras pas ton Saint voir la corruption ; »
+**[13:35]** C'est ce qu'il dit encore dans un autre Psaume: «Tu ne laisseras pas ton Saint voir la corruption; »
 
 **[13:36]** en effet, tandis que David, après avoir, pour sa propre génération, servi les desseins de Dieu, s'est endormi, a été recueilli avec ses pères et a vu la corruption,
 
@@ -57626,7 +57626,7 @@
 
 **[22:24]** Le tribun donna l'ordre d'emmener Paul dans la caserne, et de lui donner la question par le fouet, afin de savoir pour quelle cause on poussait de tels cris contre lui.
 
-**[22:25]** Quand on l'eut attaché au pilier pour le flageller, Paul dit au centurion qui se trouvait là: «Vous est-il permis de battre de verges un citoyen romain, et sans jugement encore? »
+**[22:25]** Quand on l'eut attaché au pilier pour le flageller, Paul dit au centurion qui se trouvait là: «Vous est-il permis de battre de verges un citoyen romain, et sans jugement encore? »
 
 **[22:26]** A ces mots, le centurion alla faire rapport au tribun, disant: «Que vas-tu faire? Cet homme est citoyen romain.»
 
@@ -57690,7 +57690,7 @@
 
 **[23:25]** il écrivit en même temps une lettre, dont voici la teneur:
 
-**[23:26]** « Claude Lysias au très excellent gouverneur Félix, salut!
+**[23:26]** « Claude Lysias au très excellent gouverneur Félix, salut!
 
 **[23:27]** — Les Juifs s'étaient saisis de cet homme et allaient le tuer, quand j'arrivai avec de la troupe et le leur arrachai, ayant appris qu'il était citoyen romain.
 
@@ -57850,7 +57850,7 @@
 
 **[26:13]** lorsque je vis, ô roi, en plein midi, sur la route, une lumière venant des cieux, plus éclatante que le soleil, qui m'enveloppa de sa clarté, moi et ceux qui m'accompagnaient.
 
-**[26:14]** Nous tombâmes tous par terre. J'entendis une voix qui s'adressait à moi, et me disait en hébreu: «Saul, Saul, pourquoi me persécutes-tu ? Il t'est dur de regimber contre l'aiguillon.»
+**[26:14]** Nous tombâmes tous par terre. J'entendis une voix qui s'adressait à moi, et me disait en hébreu: «Saul, Saul, pourquoi me persécutes-tu? Il t'est dur de regimber contre l'aiguillon.»
 
 **[26:15]** Je dis: «Qui es-tu, Seigneur?» Le Seigneur répondit: «Je suis Jésus que tu persécutes:
 
@@ -57876,11 +57876,11 @@
 
 **[26:26]** car le roi, à qui je parle en toute liberté, est instruit de ces faits; je suis persuadé qu'il n'en ignore aucun, car ils ne se sont point passés en un coin obscur.
 
-**[26:27]** Roi Agrippa, crois-tu aux prophètes ?... Je sais que tu y crois.»
+**[26:27]** Roi Agrippa, crois-tu aux prophètes?... Je sais que tu y crois.»
 
 **[26:28]** Agrippa dit à Paul: «C'est bien vite me persuader d'être chrétien.»
 
-**[26:29]** Paul repartit: «Ah! plût à Dieu que, vite ou longuement, non seulement toi, mais encore tous ceux qui m'écoutent aujourd'hui, vous fussiez tels que je suis... à la réserve de ces chaînes !»
+**[26:29]** Paul repartit: «Ah! plût à Dieu que, vite ou longuement, non seulement toi, mais encore tous ceux qui m'écoutent aujourd'hui, vous fussiez tels que je suis... à la réserve de ces chaînes!»
 
 **[26:30]** Le roi et le gouverneur, puis Bérénice et tous ceux qui étaient assis avec eux se levèrent;
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Paul demeura deux ans entiers dans un appartement qu'il avait loué, et il recevait tous ceux qui venaient le voir.
 
-**[28:31]** Il prêchait le royaume de Dieu, et enseignait ce qui regarde le Seigneur Jésus-Christ avec toute liberté et sans aucun empêchement. 
+**[28:31]** Il prêchait le royaume de Dieu, et enseignait ce qui regarde le Seigneur Jésus-Christ avec toute liberté et sans aucun empêchement.
 
 ## Romans
 
@@ -58322,7 +58322,7 @@
 
 **[5:17]** En effet, si, par la faute d'un seul, la mort a régné par ce seul homme, à bien plus forte raison ceux qui acceptent l'immense grâce de Dieu et le don de la justice, règneront-ils en la vie par le seul Jésus-Christ.
 
-**[5:18]** Ainsi donc, comme par la faute d'un seul, la condamnation s'est étendue sur tous les hommes, ainsi le bienfait d'un seul s'étendra sur tous les hommes en sentence de vie ;
+**[5:18]** Ainsi donc, comme par la faute d'un seul, la condamnation s'est étendue sur tous les hommes, ainsi le bienfait d'un seul s'étendra sur tous les hommes en sentence de vie;
 
 **[5:19]** car, comme par la désobéissance d'un seul homme, la plupart ont été rendus pécheurs, ainsi par l'obéissance d'un seul homme la plupart seront rendus justes.
 
@@ -58524,7 +58524,7 @@
 
 **[9:6]** Toutefois, en m'exprimant ainsi, je n'entends point que la promesse de Dieu ait failli. En effet, tous ceux qui sont issus d'Israël ne sont pas pour cela Israël;
 
-**[9:7]** et même, pour être la postérité d'Abraham, ils ne sont pas tous enfants d'Abraham, mais il est écrit: «C'est la postérité d'Isaac qui sera dite ta postérité ; »
+**[9:7]** et même, pour être la postérité d'Abraham, ils ne sont pas tous enfants d'Abraham, mais il est écrit: «C'est la postérité d'Isaac qui sera dite ta postérité; »
 
 **[9:8]** c’est-à-dire, que ce ne sont pas les enfants de la chair qui sont enfants de Dieu, mais que ce sont les enfants de la promesse qui sont considérés comme la postérité d’Abraham;
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** mais révélé maintenant, ainsi que par les écrits des Prophètes, sur l'ordre du Dieu éternel, pour amener à l'obéissance de la foi toutes les nations —
 
-**[16:27]** à Dieu, seul sage, soit la gloire aux siècles des siècles, par Jésus-Christ! Amen! 
+**[16:27]** à Dieu, seul sage, soit la gloire aux siècles des siècles, par Jésus-Christ! Amen!
 
 ## I Corinthians
 
@@ -59194,7 +59194,7 @@
 
 **[6:15]** Ne savez-vous pas que vos corps sont les membres de Christ? Je prendrai donc les membres de Christ pour en faire les membres d'une prostituée? Loin de moi une telle pensée!
 
-**[6:16]** Ne savez-vous pas que celui qui s'unit à une prostituée, fait un seul et même corps avec elle ? car il est dit: «les deux seront une seule chair.»
+**[6:16]** Ne savez-vous pas que celui qui s'unit à une prostituée, fait un seul et même corps avec elle? car il est dit: «les deux seront une seule chair.»
 
 **[6:17]** Celui qui s'unit au Seigneur, est un seul et même esprit avec lui.
 
@@ -59486,7 +59486,7 @@
 
 **[11:23]** Car, pour moi, j'ai appris du Seigneur ce que je vous ai enseigné: c'est que le Seigneur Jésus, dans la nuit où il fut livré, prit un pain,
 
-**[11:24]** et, après avoir rendu grâces, il le rompit, et dit: « Ceci est mon corps qui est pour vous; faites ceci en mémoire de moi.»
+**[11:24]** et, après avoir rendu grâces, il le rompit, et dit: « Ceci est mon corps qui est pour vous; faites ceci en mémoire de moi.»
 
 **[11:25]** De même, après avoir soupé, il prit la coupe, et dit: «Cette coupe est la nouvelle alliance en mon sang; faites ceci en mémoire de moi, toutes les fois que vous boirez.»
 
@@ -59642,7 +59642,7 @@
 
 **[14:20]** Mes frères, ne soyez pas des enfants pour la raison, mais pour la malice, restez en bas âge; pour la raison, soyez des hommes faits.
 
-**[14:21]** Il est écrit dans la Loi: «C'est par des gens de langue étrangère et avec lèvres d'étrangers que je parlerai à ce peuple; et, même de cette manière, ils ne m'écouteront pas, dit le Seigneur; »
+**[14:21]** Il est écrit dans la Loi: «C'est par des gens de langue étrangère et avec lèvres d'étrangers que je parlerai à ce peuple; et, même de cette manière, ils ne m'écouteront pas, dit le Seigneur; »
 
 **[14:22]** d'où suit, que les langues sont un signe qui est adressé, non aux croyants, mais à ceux qui ne croient pas; la prophétie, au contraire, est, non pour ceux qui ne croient pas, mais pour le croyants.
 
@@ -59746,13 +59746,13 @@
 
 **[15:31]** Je suis tous les jours exposé à la mort, aussi vrai, mes frères, que vous êtes ma gloire en Jésus-Christ, notre Seigneur.
 
-**[15:32]** Si c'est dans des vues humaines que j'ai combattu contre les bêtes à Éphèse, quel avantage m'en revient-il? Si les morts ne ressuscitent pas, «mangeons et buvons, car demain nous mourrons. »
+**[15:32]** Si c'est dans des vues humaines que j'ai combattu contre les bêtes à Éphèse, quel avantage m'en revient-il? Si les morts ne ressuscitent pas, «mangeons et buvons, car demain nous mourrons. »
 
-**[15:33]** Ne vous laissez point abuser: «les mauvaises compagnies corrompent les bonnes moeurs. »
+**[15:33]** Ne vous laissez point abuser: «les mauvaises compagnies corrompent les bonnes moeurs. »
 
 **[15:34]** Revenez à la raison, comme il faut, et ne péchez point; car il y a parmi vous des gens qui ne connaissent pas Dieu: je le dis à votre honte.
 
-**[15:35]** Mais dira quelqu'un: « Comment les morts ressuscitent-ils? Avec quel corps viennent-ils? »
+**[15:35]** Mais dira quelqu'un: « Comment les morts ressuscitent-ils? Avec quel corps viennent-ils? »
 
 **[15:36]** — Insensé que tu es, ce que tu sèmes ne reprend pas vie, s'il ne meurt auparavant.
 
@@ -59772,7 +59772,7 @@
 
 **[15:44]** il est semé corps animal, il ressuscite corps spirituel. S'il y a un corps animal, il y a aussi un corps spirituel;
 
-**[15:45]** c'est en ce sens qu'il est écrit: « Le premier homme, Adam, a été doué d'une âme vivante;» le dernier Adam l'a été d'un esprit vivifiant.
+**[15:45]** c'est en ce sens qu'il est écrit: « Le premier homme, Adam, a été doué d'une âme vivante;» le dernier Adam l'a été d'un esprit vivifiant.
 
 **[15:46]** Mais ce qui est spirituel, n'est pas le premier, c'est ce qui est animal; ensuite vient ce qui est spirituel.
 
@@ -59790,9 +59790,9 @@
 
 **[15:53]** Car il faut que ce corps corruptible revête l'incorruptibilité, et que ce corps mortel revête l'immortalité.
 
-**[15:54]** Lorsque ce corps corruptible aura revêtu l'incorruptibilité, et que ce corps mortel aura revêtu l'immortalité, alors se réalisera la parole qui est écrite: « La mort a été engloutie pour que nous soyons vainqueurs.
+**[15:54]** Lorsque ce corps corruptible aura revêtu l'incorruptibilité, et que ce corps mortel aura revêtu l'immortalité, alors se réalisera la parole qui est écrite: « La mort a été engloutie pour que nous soyons vainqueurs.
 
-**[15:55]** O mort, où est ton aiguillon? O mort, où est ta victoire? »
+**[15:55]** O mort, où est ton aiguillon? O mort, où est ta victoire? »
 
 **[15:56]** L'aiguillon de la mort, c'est le péché, et la puissance du péché, c'est la loi.
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Que la grâce du Seigneur Jésus soit avec vous!
 
-**[16:24]** Mon amour est avec vous tous, en Jésus-Christ. 
+**[16:24]** Mon amour est avec vous tous, en Jésus-Christ.
 
 ## II Corinthians
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** C'est pourquoi, sortez du milieu d'eux et séparez-vous d'eux, dit le Seigneur. Ne touchez point à ce qui est impur, et moi je vous adopterai:
 
-**[6:18]** je serai pour vous un père, et vous serez pour moi des fils et des filles, dit le Seigneur tout-puissant. »
+**[6:18]** je serai pour vous un père, et vous serez pour moi des fils et des filles, dit le Seigneur tout-puissant. »
 
 ### Chapter 7
 
@@ -60118,7 +60118,7 @@
 
 **[7:10]** La tristesse selon Dieu produit une repentance qui conduit à un salut qu'on ne regrette point, au lieu que la tristesse du monde produit la mort.
 
-**[7:11]** Voyez ce que c'est que d'avoir été attristés selon Dieu, ce que cela a produit pour vous: quel empressement! Que dis-je ? quelle justification! quelle indignation! quelle crainte! quel regret! quel dévouement! quelle punition! Vous avez bien fait voir que vous étiez, vous-mêmes, innocents dans cette affaire.
+**[7:11]** Voyez ce que c'est que d'avoir été attristés selon Dieu, ce que cela a produit pour vous: quel empressement! Que dis-je? quelle justification! quelle indignation! quelle crainte! quel regret! quel dévouement! quelle punition! Vous avez bien fait voir que vous étiez, vous-mêmes, innocents dans cette affaire.
 
 **[7:12]** Aussi bien je vous ai écrit, non à cause de l'offenseur, ni même à cause de l'offense, mais afin que votre dévouement pour nous éclatât au milieu de vous, devant Dieu:
 
@@ -60364,7 +60364,7 @@
 
 ### Chapter 13
 
-**[13:1]** Je vais me rendre chez vous pour la troisième fois. «Toute affaire sera décidée sur la déclaration de deux ou trois témoins. »
+**[13:1]** Je vais me rendre chez vous pour la troisième fois. «Toute affaire sera décidée sur la déclaration de deux ou trois témoins. »
 
 **[13:2]** Je vous l'ai déjà dit, et je vous en préviens; comme je le fis lors de mon second séjour, étant présent, je le fais encore aujourd'hui que je suis absent, je déclare à ceux qui ont péché auparavant et à tous les autres pécheurs, que, si je retourne chez vous, je ne les ménagerai pas,
 
@@ -60390,7 +60390,7 @@
 
 **[13:13]** Tous les saints vous saluent.
 
-**[13:14]** Que la grâce du Seigneur Jésus-Christ, l'amour de Dieu et la communication du Saint-Esprit soient avec vous tous! 
+**[13:14]** Que la grâce du Seigneur Jésus-Christ, l'amour de Dieu et la communication du Saint-Esprit soient avec vous tous!
 
 ## Galatians
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Qu'à l'avenir, personne ne me fasse de la peine, car je porte sur mon corps les stigmates de Jésus.
 
-**[6:18]** Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit, mes frères! Amen! 
+**[6:18]** Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit, mes frères! Amen!
 
 ## Ephesians
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Que la paix soit donnée aux frères, ainsi que la charité unie à la foi, par Dieu, notre Père, et par notre Seigneur Jésus-Christ!
 
-**[6:24]** Que la grâce soit avec tous ceux qui aiment notre Seigneur Jésus-Christ d'un amour inaltérable! 
+**[6:24]** Que la grâce soit avec tous ceux qui aiment notre Seigneur Jésus-Christ d'un amour inaltérable!
 
 ## Philippians
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Tous les saints vous saluent, et principalement ceux qui sont de la maison de César.
 
-**[4:23]** Que la grâce du Seigneur Jésus-Christ soit avec votre esprit! 
+**[4:23]** Que la grâce du Seigneur Jésus-Christ soit avec votre esprit!
 
 ## Colossians
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Dites à Archippe: «Considère bien le ministère que tu as reçu, dans le Seigneur, afin de le bien remplir.»
 
-**[4:18]** Je vous salue de ma propre main, moi Paul. Souvenez-vous de mes liens. Que la grâce soit avec vous! 
+**[4:18]** Je vous salue de ma propre main, moi Paul. Souvenez-vous de mes liens. Que la grâce soit avec vous!
 
 ## I Thessalonians
 
@@ -61508,7 +61508,7 @@
 
 **[2:18]** puisque, par deux fois, nous avons voulu (du moins, moi, Paul) nous rendre auprès de vous; mais Satan nous en a empêché.
 
-**[2:19]** Car, qui est notre espérance, notre joie et notre couronne de gloire? Ne le serez-vous pas, vous aussi, devant notre Seigneur Jésus, à son avènement ?
+**[2:19]** Car, qui est notre espérance, notre joie et notre couronne de gloire? Ne le serez-vous pas, vous aussi, devant notre Seigneur Jésus, à son avènement?
 
 **[2:20]** — Oui, vous êtes notre gloire et notre joie.
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Je vous en conjure au nom du Seigneur, que cette lettre soit lue à tous les frères.
 
-**[5:28]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous! 
+**[5:28]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous!
 
 ## II Thessalonians
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Je vous salue de ma propre main, moi Paul. C'est là ma signature dans toutes mes lettres; c'est ainsi que j'écris.
 
-**[3:18]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous! 
+**[3:18]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous!
 
 ## I Timothy
 
@@ -61824,7 +61824,7 @@
 
 **[3:4]** Il faut qu'il gouverne bien sa propre maison, qu'il maintienne ses enfants dans l'obéissance et dans un parfait respect:
 
-**[3:5]** si l'on ne sait pas gouverner sa propre maison, comment pourra-t-on prendre soin de l'Église de Dieu ?
+**[3:5]** si l'on ne sait pas gouverner sa propre maison, comment pourra-t-on prendre soin de l'Église de Dieu?
 
 **[3:6]** Qu'il ne soit point nouvellement converti, de peur que venant à s'enfler d'orgueil, il n'encoure le jugement du diable.
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** Timothée, conserve le dépôt qui t'a été confié, évitant les bavardages profanes et les controverses d'une science faussement ainsi nommée:
 
-**[6:21]** c'est pour en avoir fait profession que quelques-uns se sont éloignés de la foi. Que la grâce soit avec toi! 
+**[6:21]** c'est pour en avoir fait profession que quelques-uns se sont éloignés de la foi. Que la grâce soit avec toi!
 
 ## II Timothy
 
@@ -61984,7 +61984,7 @@
 
 **[1:1]** Paul Apôtre de Jésus-Christ par la volonté de Dieu, pour annoncer la promesse de la vie qui est en Jésus-Christ,
 
-**[1:2]** à Timothée mon enfant bien-aimé: que la grâce, la miséricorde et la paix te soient données par Dieu, notre Père, et par Jésus-Christ, notre Seigneur !
+**[1:2]** à Timothée mon enfant bien-aimé: que la grâce, la miséricorde et la paix te soient données par Dieu, notre Père, et par Jésus-Christ, notre Seigneur!
 
 **[1:3]** Je rends grâces à Dieu, qu'ont servi mes ancêtres, et que je sers avec une conscience pure, de la manière dont tu es toujours présent à ma pensée dans mes prières, le jour et la nuit.
 
@@ -62094,7 +62094,7 @@
 
 **[3:10]** Pour toi, tu m'as suivi dans mon enseignement, dans ma conduite, dans mes projets, dans ma foi, dans ma patience, dans ma charité, dans ma constance,
 
-**[3:11]** dans mes persécutions et dans mes souffrances. A quelles souffrances n'ai-je pas été exposé à Antioche, à Icône, à Lystres ? Quelles persécutions n'ai-je pas supportées? Et le Seigneur m'a constamment délivré.
+**[3:11]** dans mes persécutions et dans mes souffrances. A quelles souffrances n'ai-je pas été exposé à Antioche, à Icône, à Lystres? Quelles persécutions n'ai-je pas supportées? Et le Seigneur m'a constamment délivré.
 
 **[3:12]** Tous ceux qui veulent vivre pieusement en Jésus-Christ, seront aussi persécutés.
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Tâche de venir avant l'hiver. Eubule te salue, ainsi que Prudens, Linus, Claudia et tous les frères.
 
-**[4:22]** Que le Seigneur Jésus-Christ soit avec ton esprit! Que la grâce soit avec vous! 
+**[4:22]** Que le Seigneur Jésus-Christ soit avec ton esprit! Que la grâce soit avec vous!
 
 ## Titus
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** il faut que les nôtres aussi apprennent à pratiquer les bonnes oeuvres, de manière à subvenir aux besoins urgents, sous peine d'être des gens stériles.
 
-**[3:15]** Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment en la foi. Que la grâce soit avec vous tous! 
+**[3:15]** Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment en la foi. Que la grâce soit avec vous tous!
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** ainsi que Marc, Aristarque, Démas et Luc, les compagnons de mes travaux.
 
-**[1:25]** Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit! 
+**[1:25]** Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit!
 
 ## Hebrews
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Saluez tous vos conducteurs et tous les saints. Ceux d'Italie vous saluent.
 
-**[13:25]** Que la grâce soit avec vous tous! Amen! 
+**[13:25]** Que la grâce soit avec vous tous! Amen!
 
 ## James
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Mes frères, si quelqu'un parmi vous s'est égaré loin de la vérité, et que quelqu'un l'y ramène,
 
-**[5:20]** sachez que celui qui ramènera un pécheur de la voie où il s'égare, sauvera une âme de la mort, et couvrira une multitude de péchés. 
+**[5:20]** sachez que celui qui ramènera un pécheur de la voie où il s'égare, sauvera une âme de la mort, et couvrira une multitude de péchés.
 
 ## I Peter
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** L’église élue qui est à Babylone, vous salue, ainsi que Marc mon fils.
 
-**[5:14]** Saluez-vous les uns les autres par un baiser affectueux. Que la paix soit avec vous tous qui êtes en Jésus-Christ! 
+**[5:14]** Saluez-vous les uns les autres par un baiser affectueux. Que la paix soit avec vous tous qui êtes en Jésus-Christ!
 
 ## II Peter
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Vous donc, mes bien-aimés, qui êtes prévenus, tenez-vous sur vos gardes, de peur qu'en vous laissant entraîner par l’erreur de ces impies, vous ne veniez à perdre votre ferme conviction,
 
-**[3:18]** et croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui soit la gloire, maintenant et jusqu'au jour de l'éternité. Amen! 
+**[3:18]** et croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui soit la gloire, maintenant et jusqu'au jour de l'éternité. Amen!
 
 ## I John
 
@@ -63562,7 +63562,7 @@
 
 **[2:7]** Mes bien-aimés, ce n'est pas un commandement nouveau que je vous écris, c'est un commandement ancien, que vous avez reçu dès le commencement; ce commandement ancien, c'est la parole que vous avez entendue.
 
-**[2:8]** D'un autre côté, c'est bien un commandement nouveau que je vous écris, véritablement nouveau en Jésus et en vous, car les ténèbres se dissipent et la véritable lumière luit déjà :
+**[2:8]** D'un autre côté, c'est bien un commandement nouveau que je vous écris, véritablement nouveau en Jésus et en vous, car les ténèbres se dissipent et la véritable lumière luit déjà:
 
 **[2:9]** celui qui dit être dans la lumière, et qui hait son frère, est encore dans les ténèbres.
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** mais nous savons que le Fils de Dieu est venu, et qu'il nous a donné l'intelligence, afin que nous connaissions le vrai Dieu; et nous sommes en ce vrai Dieu, étant en son Fils, Jésus-Christ: il est bien le vrai Dieu et la vie éternelle.
 
-**[5:21]** Chers enfants, gardez-vous des idoles. 
+**[5:21]** Chers enfants, gardez-vous des idoles.
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** Quoique j'eusse beaucoup de choses à vous dire, je n'ai pas voulu le faire avec le papier et l'encre, mais j'espère aller vous voir, et m'entretenir de bouche avec vous, afin que votre joie soit parfaite.
 
-**[1:13]** Les enfants de ta soeur, l'élue, te saluent. 
+**[1:13]** Les enfants de ta soeur, l'élue, te saluent.
 
 ## III John
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** J'aurais beaucoup de choses à te dire, mais je ne veux pas le faire avec l'encre et la plume.
 
-**[1:14]** J'espère te voir prochainement, et alors nous nous entretiendrons de bouche. Que la paix soit avec toi! Nos amis te saluent. Salue nos amis, chacun en particulier. 
+**[1:14]** J'espère te voir prochainement, et alors nous nous entretiendrons de bouche. Que la paix soit avec toi! Nos amis te saluent. Salue nos amis, chacun en particulier.
 
 ## Jude
 
@@ -63858,7 +63858,7 @@
 
 **[1:24]** Or, à celui qui peut vous préserver de tout faux pas et vous faire paraître devant sa gloire, irrépréhensibles et pleins d'allégresse,
 
-**[1:25]** au seul Dieu notre Sauveur, par Jésus-Christ notre Seigneur, soient gloire, majesté, force et puissance de toute éternité, maintenant et dans tous les siècles. Amen! 
+**[1:25]** au seul Dieu notre Sauveur, par Jésus-Christ notre Seigneur, soient gloire, majesté, force et puissance de toute éternité, maintenant et dans tous les siècles. Amen!
 
 ## Revelation of John
 
@@ -64710,7 +64710,7 @@
 
 **[22:19]** et que, si quelqu'un retranche des paroles de ce livre prophétique, Dieu lui retranchera sa part de l'arbre de vie et l’exclura de la ville sainte, qui sont décrits dans ce livre.
 
-**[22:20]** Celui qui atteste ces choses, dit: «Oui, je viens bientôt.» — «Amen ! Viens, Seigneur Jésus!
+**[22:20]** Celui qui atteste ces choses, dit: «Oui, je viens bientôt.» — «Amen! Viens, Seigneur Jésus!
 
-**[22:21]** Que la grâce du Seigneur Jésus soit avec tous! 
+**[22:21]** Que la grâce du Seigneur Jésus soit avec tous!
 

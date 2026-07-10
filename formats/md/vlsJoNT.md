@@ -48262,9 +48262,9 @@
 
 **[1:16]** En Jakob gewon Jozef, den man van Maria, uit wie geboren is Jezus, genaamd Christus.
 
-**[1:17]** Al de geslachten dus van Abraham tot David zijn veertien geslachten; en van David tot de wegvoering naar Babylon, veertien geslachten; en van de wegvoering naar Babylon tot Christus, veertien geslachten. 
+**[1:17]** Al de geslachten dus van Abraham tot David zijn veertien geslachten; en van David tot de wegvoering naar Babylon, veertien geslachten; en van de wegvoering naar Babylon tot Christus, veertien geslachten.
 
-**[1:18]**  De geboorte van Jezus Christus nu was aldus. Terwijl zijn moeder Maria ondertrouwd was met Jozef, werd zij zwanger bevonden uit den Heiligen Geest, éér zij samengekomen waren.
+**[1:18]** De geboorte van Jezus Christus nu was aldus. Terwijl zijn moeder Maria ondertrouwd was met Jozef, werd zij zwanger bevonden uit den Heiligen Geest, éér zij samengekomen waren.
 
 **[1:19]** Jozef nu, haar man, die rechtvaardig was en haar niet wilde te schande maken, was van zin haar heimelijk te verlaten.
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** En Jozef uit den slaap ontwaakt zijnde, deed gelijk de engel des Heeren hem geboden had, en nam zijn vrouw tot zich.
 
-**[1:25]** En hij bekende haar niet, totdat zij haar eerstgeboren zoon gebaard had. En hij noemde zijn naam Jezus.  
+**[1:25]** En hij bekende haar niet, totdat zij haar eerstgeboren zoon gebaard had. En hij noemde zijn naam Jezus.
 
 ### Chapter 2
 
@@ -48304,21 +48304,21 @@
 
 **[2:11]** En in het huis gekomen zijnde, zagen zij het kind met Maria, zijn moeder; en nedervallende, aanbaden zij het. En zij openden hun schatten en brachten het geschenken, goud, en wierook en mirre.
 
-**[2:12]** En nadat zij in een droom van Godswege vermaand waren om niet weder te keeren naar Herodes, vertrokken zij langs een anderen weg terug naar hun land. 
+**[2:12]** En nadat zij in een droom van Godswege vermaand waren om niet weder te keeren naar Herodes, vertrokken zij langs een anderen weg terug naar hun land.
 
-**[2:13]**  Toen zij nu vertrokken waren, ziet, een engel des Heeren verscheen in een droom aan Jozef, zeggende: Sta op, neem het kind en zijn moeder mede, en vlucht naar Egypte, en blijf daar totdat Ik het u zal zeggen; want Herodes zal het kind zoeken, om het te dooden.
+**[2:13]** Toen zij nu vertrokken waren, ziet, een engel des Heeren verscheen in een droom aan Jozef, zeggende: Sta op, neem het kind en zijn moeder mede, en vlucht naar Egypte, en blijf daar totdat Ik het u zal zeggen; want Herodes zal het kind zoeken, om het te dooden.
 
 **[2:14]** En hij stond op en nam des nachts het kind en zijn moeder mede en vertrok naar Egypte.
 
-**[2:15]** En hij was daar tot den dood van Herodes; opdat vervuld zou worden hetgeen de Heere gesproken heeft door den profeet, die zegt: Uit Egypte heb Ik mijn Zoon geroepen. 
+**[2:15]** En hij was daar tot den dood van Herodes; opdat vervuld zou worden hetgeen de Heere gesproken heeft door den profeet, die zegt: Uit Egypte heb Ik mijn Zoon geroepen.
 
-**[2:16]**  Toen Herodes dan zag dat hij door de wijzen bedrogen was, werd hij zeer toornig; en hij zond heen en vermoordde al de kinderen te Bethlehem en in geheel de omliggende landstreek, die twee jaar oud waren en daarbeneden, naar den tijd dien hij van de wijzen nauwkeurig onderzocht had.
+**[2:16]** Toen Herodes dan zag dat hij door de wijzen bedrogen was, werd hij zeer toornig; en hij zond heen en vermoordde al de kinderen te Bethlehem en in geheel de omliggende landstreek, die twee jaar oud waren en daarbeneden, naar den tijd dien hij van de wijzen nauwkeurig onderzocht had.
 
 **[2:17]** Toen is vervuld het woord dat door den profeet Jeremia is gesproken:
 
-**[2:18]** Een stem is in Rama gehoord, geklag, geween en veel gejammer. Rachel beweent haar kinderen en wil niet vertroost worden, want zij zijn niet meer. 
+**[2:18]** Een stem is in Rama gehoord, geklag, geween en veel gejammer. Rachel beweent haar kinderen en wil niet vertroost worden, want zij zijn niet meer.
 
-**[2:19]**  Toen nu Herodes gestorven was, ziet, een engel des Heeren verscheen in een droom aan Jozef in Egypte,
+**[2:19]** Toen nu Herodes gestorven was, ziet, een engel des Heeren verscheen in een droom aan Jozef in Egypte,
 
 **[2:20]** zeggende: Sta op, neem het kind en zijn moeder mede, en ga naar het land Israëls; want die de ziel van het kind zochten, zijn gestorven.
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** Maar toen hij hoorde dat Archelaüs over Judea regeerde in de plaats van zijn vader Herodes, vreesde hij daarheen te gaan; maar van Godswege in een droom vermaand zijnde, vertrok hij naar de landstreek van Galilea.
 
-**[2:23]** En hij ging wonen in een stad genaamd Nazaret; opdat zou vervuld worden hetgeen door de profeten is gesproken, dat Hij Nazarener zou genaamd worden.  
+**[2:23]** En hij ging wonen in een stad genaamd Nazaret; opdat zou vervuld worden hetgeen door de profeten is gesproken, dat Hij Nazarener zou genaamd worden.
 
 ### Chapter 3
 
@@ -48352,9 +48352,9 @@
 
 **[3:11]** Ik doop u wel met water tot boetvaardigheid, maar die na mij komt is machtiger dan ik, wien ik niet waardig ben de schoenen na te dragen; die zal u doopen met den Heiligen Geest en met vuur.
 
-**[3:12]** Zijn wan is in zijn hand en Hij zal zijn dorschvloer geheel zuiveren en zijn koren verzamelen in de schuur; maar het kaf zal Hij verbranden met onuitbluschbaar vuur. 
+**[3:12]** Zijn wan is in zijn hand en Hij zal zijn dorschvloer geheel zuiveren en zijn koren verzamelen in de schuur; maar het kaf zal Hij verbranden met onuitbluschbaar vuur.
 
-**[3:13]**  Toen kwam Jezus van Galilea naar den Jordaan tot Johannes om van hem gedoopt te worden.
+**[3:13]** Toen kwam Jezus van Galilea naar den Jordaan tot Johannes om van hem gedoopt te worden.
 
 **[3:14]** Maar Johannes weigerde het Hem, zeggende: Mij is noodig om door U gedoopt te worden, en Gij komt tot mij?
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** En toen Jezus gedoopt was, kwam Hij terstond op uit het water, en ziet, de hemelen werden geopend en hij zag den Geest Gods nederdalen zooals een duive, en op Hem komen.
 
-**[3:17]** En ziet, een stem uit de hemelen zeide: Deze is mijn Zoon, de Beminde, in wien Ik welbehagen heb.  
+**[3:17]** En ziet, een stem uit de hemelen zeide: Deze is mijn Zoon, de Beminde, in wien Ik welbehagen heb.
 
 ### Chapter 4
 
@@ -48386,9 +48386,9 @@
 
 **[4:10]** Toen zeide Jezus tot hem: Ga weg Satan! want er staat geschreven: Den Heere uw God, zult gij aanbidden en Hem alleen zult gij dienen.
 
-**[4:11]** Toen verliet de duivel Hem, en ziet er kwamen engelen en zij dienden Hem. 
+**[4:11]** Toen verliet de duivel Hem, en ziet er kwamen engelen en zij dienden Hem.
 
-**[4:12]**  Nadat Jezus nu gehoord had dat Johannes was gevangen genomen, vertrok Hij naar Galilea.
+**[4:12]** Nadat Jezus nu gehoord had dat Johannes was gevangen genomen, vertrok Hij naar Galilea.
 
 **[4:13]** En Nazaret verlatende, kwam Hij wonen te Kapernaüm, dat bij de zee lag, in het gebied van Zebulon en Nephtalim.
 
@@ -48398,9 +48398,9 @@
 
 **[4:16]** het volk dat in duisternis zit, ziet een groot licht, en over hen die zitten in een land en schaduw des doods, gaat een licht op.
 
-**[4:17]** Van toen af begon Jezus te prediken en te zeggen: Doet boetvaardigheid, want het koninkrijk der hemelen is nabij. 
+**[4:17]** Van toen af begon Jezus te prediken en te zeggen: Doet boetvaardigheid, want het koninkrijk der hemelen is nabij.
 
-**[4:18]**  En wandelende langs de zee van Galilea, zag Jezus twee broeders, Simon, die Petrus genaamd wordt, en Andreas, zijn broeder, die bezig waren met hun netten in zee te werpen, want zij waren visschers.
+**[4:18]** En wandelende langs de zee van Galilea, zag Jezus twee broeders, Simon, die Petrus genaamd wordt, en Andreas, zijn broeder, die bezig waren met hun netten in zee te werpen, want zij waren visschers.
 
 **[4:19]** En Hij zeide tot hen: Komt achter Mij, en Ik zal u visschers van menschen maken.
 
@@ -48408,13 +48408,13 @@
 
 **[4:21]** En vandaar voortgaande, zag Hij twee andere broeders, Jakobus, den zoon van Zebedeüs, en Johannes, zijn broeder, die in het schip met hun vader Zebedeüs bezig waren hun netten te verstellen; en Hij riep hen.
 
-**[4:22]** En zij verlieten terstond het schip en hun vader en volgden Hem. 
+**[4:22]** En zij verlieten terstond het schip en hun vader en volgden Hem.
 
-**[4:23]**  En Jezus ging door geheel Galilea, leerende in hun synagogen en predikende het Evangelie des koninkrijks; en Hij genas alle ziekten en alle kwalen onder het volk.
+**[4:23]** En Jezus ging door geheel Galilea, leerende in hun synagogen en predikende het Evangelie des koninkrijks; en Hij genas alle ziekten en alle kwalen onder het volk.
 
 **[4:24]** En het gerucht van Hem liep door geheel Syrië; en men bracht tot Hem al de zieken, die bevangen waren van allerlei kwalen en pijnen, en bezetenen door booze geesten, en maanzieken, en verlamden, en Hij genas hen.
 
-**[4:25]** En vele scharen volgden Hem van Galilea, en Dekapolis, en Jerusalem, en Judea, en van over den Jordaan.  
+**[4:25]** En vele scharen volgden Hem van Galilea, en Dekapolis, en Jerusalem, en Judea, en van over den Jordaan.
 
 ### Chapter 5
 
@@ -48484,9 +48484,9 @@
 
 **[5:33]** Wederom hebt gij gehoord dat er tot de ouden gezegd is: Gij zult geen valschen eed doen, maar gij zult den Heere uw eeden volbrengen.
 
-**[5:34]** Maar Ik zeg u: Zweert in ‘t geheel niet; noch bij den hemel, want die is Gods troon; 
+**[5:34]** Maar Ik zeg u: Zweert in ‘t geheel niet; noch bij den hemel, want die is Gods troon;
 
-**[5:35]** noch bij de aarde, want deze is de voetbank zijner voeten; noch bij Jerusalem, want het is de stad van den grooten Koning; 
+**[5:35]** noch bij de aarde, want deze is de voetbank zijner voeten; noch bij Jerusalem, want het is de stad van den grooten Koning;
 
 **[5:36]** ook bij uw hoofd zult gij niet zweren, want gij kunt niet één haar wit of zwart maken.
 
@@ -48494,9 +48494,9 @@
 
 **[5:38]** Gij hebt gehoord dat er gezegd is: oog om oog en tand om tand.
 
-**[5:39]** Maar Ik zeg u dat gij den kwade niet moogt wederstaan, maar aan al wie u op de rechterwang slaat, moet gij de andere toekeeren; 
+**[5:39]** Maar Ik zeg u dat gij den kwade niet moogt wederstaan, maar aan al wie u op de rechterwang slaat, moet gij de andere toekeeren;
 
-**[5:40]** en aan hem die met u voor het gericht wil gaan en uw kleed nemen, moet gij ook uw mantel laten; 
+**[5:40]** en aan hem die met u voor het gericht wil gaan en uw kleed nemen, moet gij ook uw mantel laten;
 
 **[5:41]** en die u dwingt voor één mijl, ga met hem twee mijlen.
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** En als gij uw broeders alleen groet, wat doet gij dan boven anderen? Doen ook niet de heidenen alzoo?
 
-**[5:48]** Daarom weest gijlieden volmaakt, gelijk uw hemelsche Vader volmaakt is.  
+**[5:48]** Daarom weest gijlieden volmaakt, gelijk uw hemelsche Vader volmaakt is.
 
 ### Chapter 6
 
@@ -48520,7 +48520,7 @@
 
 **[6:2]** Wanneer gij dan een aalmoes geeft, bazuin het niet uit, gelijk de geveinsden doen in de synagogen en op de straten, om door de menschen geëerd te worden; voorwaar Ik zeg u, zij hebben hun loon weg.
 
-**[6:3]** Maar als gij een almoes geeft, laat dan uw linkerhand niet weten wat uw rechterhand doet; 
+**[6:3]** Maar als gij een almoes geeft, laat dan uw linkerhand niet weten wat uw rechterhand doet;
 
 **[6:4]** opdat uw aalmoes in het verborgen zij, en uw Vader die in het verborgen ziet, zal het u in het openbaar vergelden.
 
@@ -48548,7 +48548,7 @@
 
 **[6:16]** En wanneer gij vast, zijt dan niet droevig van aangezicht gelijk de geveinsden; want die misvormen hun aangezicht opdat de menschen zouden zien dat zij vasten; voorwaar Ik zeg u, dat zij hun loon weg hebben.
 
-**[6:17]** Maar gij, als gij vast, zalf dan uw hoofd en wasch uw aangezicht; 
+**[6:17]** Maar gij, als gij vast, zalf dan uw hoofd en wasch uw aangezicht;
 
 **[6:18]** opdat de menschen het niet zien dat gij vast, maar uw Vader die in het verborgen is; en uw Vader die in het verborgen ziet, zal het u vergelden.
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** Maar zoekt eerst Gods koninkrijk en zijn rechtvaardigheid, en dat alles zal er u bijgevoegd worden.
 
-**[6:34]** Zijt dan niet bekommerd tegen den dag van morgen; want de dag van morgen zal zijn eigen zorgen hebben; elke dag heeft genoeg aan zijn eigen kwaad.  
+**[6:34]** Zijt dan niet bekommerd tegen den dag van morgen; want de dag van morgen zal zijn eigen zorgen hebben; elke dag heeft genoeg aan zijn eigen kwaad.
 
 ### Chapter 7
 
@@ -48638,11 +48638,11 @@
 
 **[7:26]** En een ieder die deze mijn woorden hoort en ze niet doet, zal Ik vergelijken bij een dwaas man, die zijn huis bouwde op het zand.
 
-**[7:27]** En de regen sloeg neder, en de stortvloeden kwamen en de winden bliezen en sloegen tegen dat huis aan; en het is gevallen, en zijn val was groot. 
+**[7:27]** En de regen sloeg neder, en de stortvloeden kwamen en de winden bliezen en sloegen tegen dat huis aan; en het is gevallen, en zijn val was groot.
 
-**[7:28]**  En het geschiedde toen Jezus deze reden had geëindigd, dat de scharen verslagen stonden over zijn leer;
+**[7:28]** En het geschiedde toen Jezus deze reden had geëindigd, dat de scharen verslagen stonden over zijn leer;
 
-**[7:29]** want Hij leerde hen als machthebbende, en niet zooals hun schriftgeleerden.  
+**[7:29]** want Hij leerde hen als machthebbende, en niet zooals hun schriftgeleerden.
 
 ### Chapter 8
 
@@ -48652,9 +48652,9 @@
 
 **[8:3]** En de hand uitstrekkende, raakte Hij hem aan, zeggende: Ik wil, word gezuiverd! En terstond werd zijn melaatschheid gezuiverd.
 
-**[8:4]** En Jezus zeide tot hem: Zie toe, dat gij het aan niemand zegt; maar ga heen, vertoon u zelven aan den priester en offer de gave die Mozes heeft geboden, hun tot een getuigenis. 
+**[8:4]** En Jezus zeide tot hem: Zie toe, dat gij het aan niemand zegt; maar ga heen, vertoon u zelven aan den priester en offer de gave die Mozes heeft geboden, hun tot een getuigenis.
 
-**[8:5]**  En toen Hij in Kapernaüm was gekomen, kwam tot Hem een hoofdman die hem bad,
+**[8:5]** En toen Hij in Kapernaüm was gekomen, kwam tot Hem een hoofdman die hem bad,
 
 **[8:6]** en tot Hem zeide: Heere, mijn knecht ligt tehuis verlamd en hij lijdt vreeselijk.
 
@@ -48666,21 +48666,21 @@
 
 **[8:10]** Als Jezus nu dit hoorde, verwonderde Hij zich en zeide tot hen die Hem volgden: Voorwaar, Ik zeg u, zelfs in Israël heb Ik zoo groot een geloof niet gevonden!
 
-**[8:11]** En Ik zeg ulieden dat velen van oost en west zullen komen, en aanliggen met Abraham en Isaäk en Jakob in het koninkrijk der hemelen; 
+**[8:11]** En Ik zeg ulieden dat velen van oost en west zullen komen, en aanliggen met Abraham en Isaäk en Jakob in het koninkrijk der hemelen;
 
 **[8:12]** maar de kinderen des koninkrijks zullen worden uitgeworpen in de dikste duisternis; daar zal het geween zijn en het tandengeknars.
 
-**[8:13]** En Jezus zeide tot den hoofdman: Ga heen; en gelijk gij geloofd hebt, geschiede u! En zijn knecht werd genezen in dezelfde ure. 
+**[8:13]** En Jezus zeide tot den hoofdman: Ga heen; en gelijk gij geloofd hebt, geschiede u! En zijn knecht werd genezen in dezelfde ure.
 
-**[8:14]**  En toen Jezus in het huis van Petrus kwam, zag Hij diens schoonmoeder met de koorts liggen.
+**[8:14]** En toen Jezus in het huis van Petrus kwam, zag Hij diens schoonmoeder met de koorts liggen.
 
 **[8:15]** En Hij greep haar hand en de koorts verliet haar; en zij stond op en diende Hem.
 
 **[8:16]** En toen het avond was geworden, bracht men velen die van booze geesten bezeten waren, tot Hem; en Hij wierp de geesten uit door een woord; en genas allen die ziek waren.
 
-**[8:17]** Opdat vervuld zou worden wat door Jesaja, den profeet, is gezegd: Hij heeft onze krankheden op zich genomen en onze ziekten gedragen. 
+**[8:17]** Opdat vervuld zou worden wat door Jesaja, den profeet, is gezegd: Hij heeft onze krankheden op zich genomen en onze ziekten gedragen.
 
-**[8:18]**  Toen nu Jezus vele scharen rondom zich zag, beval Hij naar de overzijde te varen.
+**[8:18]** Toen nu Jezus vele scharen rondom zich zag, beval Hij naar de overzijde te varen.
 
 **[8:19]** En er kwam een schriftgeleerde tot Hem, die tot Hem zeide: Meester, ik zal U volgen, waar Gij ook heengaat!
 
@@ -48688,9 +48688,9 @@
 
 **[8:21]** Doch een ander van de discipelen zeide tot Hem: Heere, laat mij toe eerst heen te gaan om mijn vader te begraven.
 
-**[8:22]** Maar Hij zeide tot hem: Volg mij na en laat de dooden hun dooden begraven. 
+**[8:22]** Maar Hij zeide tot hem: Volg mij na en laat de dooden hun dooden begraven.
 
-**[8:23]**  En als Hij in het schip gegaan was, zijn Hem zijn discipelen gevolgd.
+**[8:23]** En als Hij in het schip gegaan was, zijn Hem zijn discipelen gevolgd.
 
 **[8:24]** En ziet er kwam eer groote storm op zee, zoodat het schip door de golven bedekt werd; maar Hij sliep.
 
@@ -48698,9 +48698,9 @@
 
 **[8:26]** En Hij zeide tot hen: Wat zijt gij bevreesd, gij kleingeloovigen! Toen stond Hij op en bestrafte de winden en de zee, en er kwam een groote stilte.
 
-**[8:27]** Doch de menschen verwonderden zich, zeggende: Hoedanig is deze, dat zelfs de winden en de zee Hem gehoorzamen? 
+**[8:27]** Doch de menschen verwonderden zich, zeggende: Hoedanig is deze, dat zelfs de winden en de zee Hem gehoorzamen?
 
-**[8:28]**  En toen Hij aan de overzijde kwam, in het land der Gadarenen, kwamen Hem twee door booze geesten bezetenen te gemoet, die uit de grafsteden kwamen en zeer ruw waren, zoodat niemand langs dien weg kon voorbijgaan.
+**[8:28]** En toen Hij aan de overzijde kwam, in het land der Gadarenen, kwamen Hem twee door booze geesten bezetenen te gemoet, die uit de grafsteden kwamen en zeer ruw waren, zoodat niemand langs dien weg kon voorbijgaan.
 
 **[8:29]** En ziet, zij schreeuwden, zeggende: Wat hebben wij met U te doen, Gij Jezus, Zoon van God? Zijt Gij hier gekomen om vóór den tijd ons te pijnigen?
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** En die ze geweid hadden vluchtten, en kwamen in de stad, en boodschapten alles, ook wat met de bezetenen geschied was.
 
-**[8:34]** En ziet, de geheele stad ging uit, Jezus te gemoet; en als zij Hem zagen, baden zij Hem van hun grenzen weg te gaan.  
+**[8:34]** En ziet, de geheele stad ging uit, Jezus te gemoet; en als zij Hem zagen, baden zij Hem van hun grenzen weg te gaan.
 
 ### Chapter 9
 
@@ -48730,9 +48730,9 @@
 
 **[9:7]** En opstaande, ging hij heen naar zijn huis.
 
-**[9:8]** Doch de scharen, dit ziende, werden bevreesd, en zij gaven God de glorie, die zulk een macht aan de menschen had gegeven. 
+**[9:8]** Doch de scharen, dit ziende, werden bevreesd, en zij gaven God de glorie, die zulk een macht aan de menschen had gegeven.
 
-**[9:9]**  En Jezus, vandaar heengaande, zag een mensch zitten bij het tolhuis, Mattheüs genaamd, en Hij zeide tot hem: Volg Mij na! En hij stond op en volgde Hem.
+**[9:9]** En Jezus, vandaar heengaande, zag een mensch zitten bij het tolhuis, Mattheüs genaamd, en Hij zeide tot hem: Volg Mij na! En hij stond op en volgde Hem.
 
 **[9:10]** En het geschiedde toen Hij in het huis aanlag, dat vele tollenaren en zondaren kwamen en mede aanlagen met Jezus en zijn discipelen.
 
@@ -48740,17 +48740,17 @@
 
 **[9:12]** Maar Jezus hoorde dit en zeide: Niet de gezonden hebben een geneesmeester noodig, maar de zieken.
 
-**[9:13]** Maar gaat heen en leert wat het is: Barmhartigheid wil Ik en niet een offerande. Want Ik ben niet gekomen om rechtvaardigen te roepen maar zondaars. 
+**[9:13]** Maar gaat heen en leert wat het is: Barmhartigheid wil Ik en niet een offerande. Want Ik ben niet gekomen om rechtvaardigen te roepen maar zondaars.
 
-**[9:14]**  Toen kwamen de discipelen van Johannes tot Hem, zeggende: Waarom vasten wij en de fariseërs veel, doch uw discipelen vasten niet?
+**[9:14]** Toen kwamen de discipelen van Johannes tot Hem, zeggende: Waarom vasten wij en de fariseërs veel, doch uw discipelen vasten niet?
 
 **[9:15]** En Jezus zeide tot hen: Kunnen de bruiloftsgasten wel treuren, zoolang de bruidegom bij hen is? Maar er zullen dagen komen, als de bruidegom van hen is weggerukt, en dan zullen zij vasten.
 
 **[9:16]** Niemand zet toch een stuk ongekrompen laken op een oud kleed; want dan zou dit nieuwe stuk van het kleed afscheuren en de scheur zou nog erger worden.
 
-**[9:17]** Ook giet men geen jongen wijn in oude zakken; want dan zouden de zakken barsten, en de wijn zou wegvloeien, en de zakken zouden verloren zijn. Maar jongen wijn giet men in nieuwe zakken, en dan blijven beide bewaard. 
+**[9:17]** Ook giet men geen jongen wijn in oude zakken; want dan zouden de zakken barsten, en de wijn zou wegvloeien, en de zakken zouden verloren zijn. Maar jongen wijn giet men in nieuwe zakken, en dan blijven beide bewaard.
 
-**[9:18]**  En terwijl Hij dit tot hen sprak, ziet, een overste kwam tot Hem, die Hem aanbad en zeide: Mijn dochter is zoo even gestorven, maar kom Gij, leg uw hand op haar, en zij zal leven.
+**[9:18]** En terwijl Hij dit tot hen sprak, ziet, een overste kwam tot Hem, die Hem aanbad en zeide: Mijn dochter is zoo even gestorven, maar kom Gij, leg uw hand op haar, en zij zal leven.
 
 **[9:19]** En opstaande, volgde Jezus hem met zijn discipelen.
 
@@ -48758,17 +48758,17 @@
 
 **[9:21]** want zij zeide bij zich zelve: Als ik zijn kleed maar aanraak, zal ik genezen zijn.
 
-**[9:22]** En Jezus zich omkeerende, en haar ziende, zeide: Dochter, heb goeden moed! uw geloof heeft u behouden! En de vrouw was gezond van die zelfde ure. 
+**[9:22]** En Jezus zich omkeerende, en haar ziende, zeide: Dochter, heb goeden moed! uw geloof heeft u behouden! En de vrouw was gezond van die zelfde ure.
 
-**[9:23]**  En toen Jezus in het huis van den overste kwam, en de fluitspelers en het woelende volk zag,
+**[9:23]** En toen Jezus in het huis van den overste kwam, en de fluitspelers en het woelende volk zag,
 
 **[9:24]** zeide Hij: Gaat weg, want het meisje is niet gestorven, maar het slaapt! En zij lachten Hem uit.
 
 **[9:25]** Maar toen het volk was weggejaagd, ging Hij binnen, en Hij greep haar hand. En het meisje stond op.
 
-**[9:26]** En het gerucht hiervan liep door die geheele landstreek. 
+**[9:26]** En het gerucht hiervan liep door die geheele landstreek.
 
-**[9:27]**  En toen Jezus vandaar wegging, volgden Hem twee blinden, roepende en zeggende: Ontferm U over ons, o Zoon van David!
+**[9:27]** En toen Jezus vandaar wegging, volgden Hem twee blinden, roepende en zeggende: Ontferm U over ons, o Zoon van David!
 
 **[9:28]** En als Hij in huis was gekomen, kwamen de blinden tot Hem, en Jezus zeide tot hen: Gelooft gij dat Ik dat kan doen? Zij zeiden tot Hem: Ja, Heere!
 
@@ -48776,21 +48776,21 @@
 
 **[9:30]** En hun oogen werden geopend. En Jezus verbood hun streng, zeggende: Ziet toe, dat het niemand wete.
 
-**[9:31]** Maar zij uitgaande, maakten Hem ruchtbaar in die gansche landstreek. 
+**[9:31]** Maar zij uitgaande, maakten Hem ruchtbaar in die gansche landstreek.
 
-**[9:32]**  Terwijl dezen nu uitgingen, bracht men tot Hem een stommen mensch, die door een boozen geest bezeten was.
+**[9:32]** Terwijl dezen nu uitgingen, bracht men tot Hem een stommen mensch, die door een boozen geest bezeten was.
 
 **[9:33]** En toen de booze geest was uitgedreven, sprak de stomme. En de scharen verwonderden zich, zeggende: Nooit is zoo iets in Israël gezien!
 
-**[9:34]** Maar de fariseërs zeiden: Door den overste der booze geesten werpt Hij de booze geesten uit. 
+**[9:34]** Maar de fariseërs zeiden: Door den overste der booze geesten werpt Hij de booze geesten uit.
 
-**[9:35]**  En Jezus trok door al de steden en vlekken, leerende in hun synagogen en predikende het Evangelie des koninkrijks en genezende alle ziekten en kwalen onder het volk.
+**[9:35]** En Jezus trok door al de steden en vlekken, leerende in hun synagogen en predikende het Evangelie des koninkrijks en genezende alle ziekten en kwalen onder het volk.
 
 **[9:36]** En de scharen ziende, werd Hij over hen bewogen, omdat zij geplunderd en uitgeput waren, als schapen die geen herder hebben.
 
 **[9:37]** Toen zeide Hij tot zijn discipelen: De oogst is wel groot, maar er zijn weinig arbeiders.
 
-**[9:38]** Bidt dan den Heere van den oogst dat Hij arbeiders in zijn oogst uitzende.  
+**[9:38]** Bidt dan den Heere van den oogst dat Hij arbeiders in zijn oogst uitzende.
 
 ### Chapter 10
 
@@ -48800,9 +48800,9 @@
 
 **[10:3]** Fillippus en Bartholomeüs, Thomas en Mattheüs, de tollenaar; Jakobus, de zoon van Alfeüs en Labbeüs, toegenaamd Taddeüs;
 
-**[10:4]** Simon, de Kananeër en Judas Iskariot, die Hem ook verraden heeft. 
+**[10:4]** Simon, de Kananeër en Judas Iskariot, die Hem ook verraden heeft.
 
-**[10:5]**  Deze twaalf zond Jezus uit en gebood hun, zeggende: Op den weg tot de heidenen zult gij niet gaan, en in een stad der Samaritanen zult gij niet treden.
+**[10:5]** Deze twaalf zond Jezus uit en gebood hun, zeggende: Op den weg tot de heidenen zult gij niet gaan, en in een stad der Samaritanen zult gij niet treden.
 
 **[10:6]** Maar gaat liever tot de verloren schapen van het huis Israëls.
 
@@ -48862,7 +48862,7 @@
 
 **[10:34]** Meent niet dat Ik ben gekomen om vrede op de aarde te brengen. Ik ben niet gekomen om vrede te brengen, maar het zwaard.
 
-**[10:35]** Want Ik ben gekomen om den mensch verdeeld te maken tegen zijn vader, en de dochter tegen haar moeder, en de schoondochter tegen haar schoonmoeder; 
+**[10:35]** Want Ik ben gekomen om den mensch verdeeld te maken tegen zijn vader, en de dochter tegen haar moeder, en de schoondochter tegen haar schoonmoeder;
 
 **[10:36]** en des menschen vijanden zullen zijn huisgenooten zijn.
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Wie een profeet ontvangt om zijn naam van profeet, zal het loon van een profeet ontvangen; en wie een rechtvaardige ontvangt om zijn naam van rechtvaardige, zal het loon van een rechtvaardige ontvangen.
 
-**[10:42]** En zoo wie aan een van deze geringsten maar een beker koud water te drinken geeft om zijn naam van discipel, voorwaar Ik zeg u, hij zal zijn loon niet verliezen.  
+**[10:42]** En zoo wie aan een van deze geringsten maar een beker koud water te drinken geeft om zijn naam van discipel, voorwaar Ik zeg u, hij zal zijn loon niet verliezen.
 
 ### Chapter 11
 
@@ -48888,11 +48888,11 @@
 
 **[11:4]** En Jezus antwoordde en zeide tot hen: Gaat heen, boodschapt aan Johannes wat gij hoort en ziet:
 
-**[11:5]** Blinden worden ziende, en kreupelen wandelen; melaatschen worden gezuiverd, en dooven hooren; dooden worden opgewekt, en aan armen wordt het Evangelie verkondigd; 
+**[11:5]** Blinden worden ziende, en kreupelen wandelen; melaatschen worden gezuiverd, en dooven hooren; dooden worden opgewekt, en aan armen wordt het Evangelie verkondigd;
 
-**[11:6]** en zalig is hij, die zich aan Mij niet zal ergeren. 
+**[11:6]** en zalig is hij, die zich aan Mij niet zal ergeren.
 
-**[11:7]**  Toen dezen nu heengingen, begon Jezus te zeggen tot de scharen aangaande Johannes: Wat zijt gij in de woestijn gaan zien? Een riet dat door den wind heen en weder geschud wordt?
+**[11:7]** Toen dezen nu heengingen, begon Jezus te zeggen tot de scharen aangaande Johannes: Wat zijt gij in de woestijn gaan zien? Een riet dat door den wind heen en weder geschud wordt?
 
 **[11:8]** Maar wat zijt gij gaan zien? Een mensch met schoone kleederen bekleed? Ziet, die schoone kleederen dragen, zijn in de huizen der koningen.
 
@@ -48916,9 +48916,9 @@
 
 **[11:18]** Want Johannes is gekomen, niet etende of drinkende, en men zegt: Hij heeft een boozen geest!
 
-**[11:19]** De Zoon des menschen is gekomen, etende en drinkende, en men zegt: Ziet daar, een gulzigaard en dronkaard, een vriend van tollenaars en zondaars! En de wijsheid is gerechtvaardigd door haar kinderen. 
+**[11:19]** De Zoon des menschen is gekomen, etende en drinkende, en men zegt: Ziet daar, een gulzigaard en dronkaard, een vriend van tollenaars en zondaars! En de wijsheid is gerechtvaardigd door haar kinderen.
 
-**[11:20]**  Toen begon Hij de steden te verwijten, waarin zijn meeste krachten geschied warén, omdat zij zich niet bekeerden:
+**[11:20]** Toen begon Hij de steden te verwijten, waarin zijn meeste krachten geschied warén, omdat zij zich niet bekeerden:
 
 **[11:21]** Wee u, Chorazin! Wee u, Bethsaïda! Want zoo in Tyrus en Sidon de krachten geschied waren die in u geschied zijn, zij hadden al lang in zak en assche boetvaardigheid gedaan.
 
@@ -48926,9 +48926,9 @@
 
 **[11:23]** En gij Kapernaüm! zijt gij niet tot den hemel toe verhoogd? Tot het doodenrijk toe zult gij nedergestooten worden. Want zoo in Sodom de krachten geschied, waren die in u geschied zijn, het zou tot vandaag toe bestaan hebben.
 
-**[11:24]** Maar Ik zeg u dat het den lande van Sodom verdragelijker zal zijn in den dag des oordeels dan u. 
+**[11:24]** Maar Ik zeg u dat het den lande van Sodom verdragelijker zal zijn in den dag des oordeels dan u.
 
-**[11:25]**  In dien tijd antwoordde Jezus en zeide: Ik loof U, Vader, Heere des hemels en der aarde, dat Gij deze dingen verborgen hebt voor wijzen en verstandigen, en ze aan kinderen hebt geopenbaard.
+**[11:25]** In dien tijd antwoordde Jezus en zeide: Ik loof U, Vader, Heere des hemels en der aarde, dat Gij deze dingen verborgen hebt voor wijzen en verstandigen, en ze aan kinderen hebt geopenbaard.
 
 **[11:26]** Ja, o Vader! want alzoo is het voor U welbehagelijk geweest.
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Neemt mijn juk op u en leert van Mij, want Ik ben zachtmoedig en nederig van hart, en gij zult rust vinden voor uw zielen.
 
-**[11:30]** Want mijn juk is zacht en mijn last is licht.  
+**[11:30]** Want mijn juk is zacht en mijn last is licht.
 
 ### Chapter 12
 
@@ -48956,9 +48956,9 @@
 
 **[12:7]** Maar indien gij verstondt wat het zeggen wil: Barmhartigheid wil Ik, en niet offerande, dan zoudt gij de onschuldigen niet veroordeeld hebben.
 
-**[12:8]** Want ook over den sabbat is de Zoon des menschen de Heer. 
+**[12:8]** Want ook over den sabbat is de Zoon des menschen de Heer.
 
-**[12:9]**  En vandaar weggaande kwam Hij in hun synagoge.
+**[12:9]** En vandaar weggaande kwam Hij in hun synagoge.
 
 **[12:10]** En ziet, er was daar een mensch met een stijve hand. En zij vroegen Hem, zeggende: Is het geoorloofd op den sabbat te genezen? om Hem te kunnen aanklagen.
 
@@ -48970,9 +48970,9 @@
 
 **[12:14]** En de fariseërs gingen uit en hielden te zamen raad tegen Hem, om Hem te dooden.
 
-**[12:15]** Maar Jezus wist dit en vertrok vandaar. En velen volgden Hem en Hij genas hen allen. 
+**[12:15]** Maar Jezus wist dit en vertrok vandaar. En velen volgden Hem en Hij genas hen allen.
 
-**[12:16]**  En Hij gebood hun dat zij Hem niet openbaar zouden maken.
+**[12:16]** En Hij gebood hun dat zij Hem niet openbaar zouden maken.
 
 **[12:17]** Opdat zou vervuld worden hetgeen gezegd is door Jesaja den profeet:
 
@@ -48982,9 +48982,9 @@
 
 **[12:20]** Het geknakte riet zal Hij niet verbreken en de rookende wiek zal Hij niet uitblusschen, totdat Hij het oordeel zal uitvoeren tot overwinning.
 
-**[12:21]** En op zijn Naam zullen de heidenen hopen. 
+**[12:21]** En op zijn Naam zullen de heidenen hopen.
 
-**[12:22]**  Toen werd tot Hem een bezetene gebracht, die blind en stom was. En Hij genas hem, zoodat de blinde en stomme sprak en zag.
+**[12:22]** Toen werd tot Hem een bezetene gebracht, die blind en stom was. En Hij genas hem, zoodat de blinde en stomme sprak en zag.
 
 **[12:23]** En al de scharen verwonderden zich en zeiden; Is deze niet de Zoon van David?
 
@@ -49014,9 +49014,9 @@
 
 **[12:36]** Maar Ik zeg u dat de menschen van elk ijdel woord dat zij spreken zullen, rekenschap zullen geven in den dag des oordeels.
 
-**[12:37]** Want uit uw woorden zult gij gerechtvaardigd, en uit uw woorden zult gij veroordeeld worden. 
+**[12:37]** Want uit uw woorden zult gij gerechtvaardigd, en uit uw woorden zult gij veroordeeld worden.
 
-**[12:38]**  Toen antwoordden Hem sommigen van de schriftgeleerden en fariseërs, zeggende: Meester, wij wilden wel een teeken van U zien!
+**[12:38]** Toen antwoordden Hem sommigen van de schriftgeleerden en fariseërs, zeggende: Meester, wij wilden wel een teeken van U zien!
 
 **[12:39]** Maar Hij antwoordde en zeide tot hen: Een boos en overspelig geslacht begeert een teeken, en het zal geen teeken gegeven worden dan het teeken van Jonas, den profeet.
 
@@ -49030,9 +49030,9 @@
 
 **[12:44]** Dan zegt hij: Ik zal terugkeeren naar mijn huis vanwaar ik uitgegaan ben. En als hij daar komt, vindt hij het ledig, en schoongemaakt, en versierd.
 
-**[12:45]** Dan gaat hij heen en neemt met zich zeven andere geesten, boozer dan hij zelf; en zij gaan binnen om daar te wonen; en het laatste van dien mensch wordt dan slechter dan het eerste. Zoo zal het ook zijn met dit boos geslacht. 
+**[12:45]** Dan gaat hij heen en neemt met zich zeven andere geesten, boozer dan hij zelf; en zij gaan binnen om daar te wonen; en het laatste van dien mensch wordt dan slechter dan het eerste. Zoo zal het ook zijn met dit boos geslacht.
 
-**[12:46]**  En terwijl Hij nog sprak tot te scharen, stonden zijn moeder en broeders buiten, zoekende Hem te spreken.
+**[12:46]** En terwijl Hij nog sprak tot te scharen, stonden zijn moeder en broeders buiten, zoekende Hem te spreken.
 
 **[12:47]** En iemand zeide tot Hem: Zie, uw moeder en broeders staan buiten, zoekende U te spreken.
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** En zijn hand uitstrekkende over zijn discipelen, zeide Hij: Ziet mijn moeder en mijn broeders.
 
-**[12:50]** Want zoo wie den wil doet van mijn Vader die in de hemelen is, die is mijn broeder, en zuster, en moeder.  
+**[12:50]** Want zoo wie den wil doet van mijn Vader die in de hemelen is, die is mijn broeder, en zuster, en moeder.
 
 ### Chapter 13
 
@@ -49070,7 +49070,7 @@
 
 **[13:13]** Daarom spreek Ik tot hen in gelijkenissen; want ziende zien zij niet, en hoorende hooren of verstaan zij niet.
 
-**[13:14]** En aan hen wordt vervuld de profetie van Jesaja, die zegt: Met het oor zult gij hooren en toch niet verstaan, en ziende zult gij zien en toch niet opmerken; 
+**[13:14]** En aan hen wordt vervuld de profetie van Jesaja, die zegt: Met het oor zult gij hooren en toch niet verstaan, en ziende zult gij zien en toch niet opmerken;
 
 **[13:15]** want het hart van dit volk is verhard, en met de ooren hebben zij bezwaarlijk gehoord, en hun oogen hebben zij toegesloten; opdat zij niet zouden zien met de oogen, en hooren met de ooren, en met het hart verstaan, en zich bekeeren, en Ik hen geneze.
 
@@ -49088,9 +49088,9 @@
 
 **[13:22]** En die in de doornen gezaaid is, is hij die het woord hoort, en de zorgen des tijds en de verleiding des rijkdoms verstikken het woord, en het wordt onvruchtbaar.
 
-**[13:23]** En die op den goeden grond is gezaaid, is hij die het woord hoort en verstaat; die dan vrucht draagt en voortbrengt, de een honderd– de ander zestig– de ander dertigvoud. 
+**[13:23]** En die op den goeden grond is gezaaid, is hij die het woord hoort en verstaat; die dan vrucht draagt en voortbrengt, de een honderd– de ander zestig– de ander dertigvoud.
 
-**[13:24]**  Een andere gelijkenis stelde Hij hun voor, zeggende: Het koninkrijk der hemelen is gelijk aan een mensch die goed zaad zaaide in zijn akker.
+**[13:24]** Een andere gelijkenis stelde Hij hun voor, zeggende: Het koninkrijk der hemelen is gelijk aan een mensch die goed zaad zaaide in zijn akker.
 
 **[13:25]** En terwijl de menschen sliepen, kwam zijn vijand, en die zaaide onkruid midden tusschen de tarwe en ging weg.
 
@@ -49102,19 +49102,19 @@
 
 **[13:29]** Maar hij zeide: Neen, opdat gij niet misschien, het onkruid verzamelende, te gelijk daarmee de tarwe uittrekt.
 
-**[13:30]** Laat beide opwassen tot den oogst, en ten tijde van den oogst zal ik tot de maaiers zeggen: Verzamelt eerst het onkruid en bindt het tot bussels om het te verbranden, maar verzamelt de tarwe in mijn schuur. 
+**[13:30]** Laat beide opwassen tot den oogst, en ten tijde van den oogst zal ik tot de maaiers zeggen: Verzamelt eerst het onkruid en bindt het tot bussels om het te verbranden, maar verzamelt de tarwe in mijn schuur.
 
-**[13:31]**  Een andere gelijkenis stelde Hij hun voor, zeggende: Het koninkrijk der hemelen is gelijk aan een mosterdzaad, dat iemand nam en in zijn land zaaide; 
+**[13:31]** Een andere gelijkenis stelde Hij hun voor, zeggende: Het koninkrijk der hemelen is gelijk aan een mosterdzaad, dat iemand nam en in zijn land zaaide;
 
-**[13:32]** dit is nu wel het kleinste van alle zaden, maar wanneer het opgewassen is, dan is het grooter dan alle moeskruiden en het wordt een boom, zoodat het gevogelte des hemels komt en schuilt in zijn takken. 
+**[13:32]** dit is nu wel het kleinste van alle zaden, maar wanneer het opgewassen is, dan is het grooter dan alle moeskruiden en het wordt een boom, zoodat het gevogelte des hemels komt en schuilt in zijn takken.
 
-**[13:33]**  Een andere gelijkenis sprak Hij tot hen! Het koninkrijk der hemelen is gelijk aan zuurdeesem, dien een vrouw nam en verborg in drie maten meel totdat het geheel doorzuurd was. 
+**[13:33]** Een andere gelijkenis sprak Hij tot hen! Het koninkrijk der hemelen is gelijk aan zuurdeesem, dien een vrouw nam en verborg in drie maten meel totdat het geheel doorzuurd was.
 
-**[13:34]**  Al deze dingen sprak Jezus tot de scharen in gelijkenissen en zonder gelijkenis sprak Hij niets tot hen,
+**[13:34]** Al deze dingen sprak Jezus tot de scharen in gelijkenissen en zonder gelijkenis sprak Hij niets tot hen,
 
-**[13:35]** opdat zou vervuld worden wat gesproken is door den profeet, die zegt: Ik zal mijn mond opendoen in gelijkenissen, Ik zal openbaren wat verborgen was van de schepping der wereld af. 
+**[13:35]** opdat zou vervuld worden wat gesproken is door den profeet, die zegt: Ik zal mijn mond opendoen in gelijkenissen, Ik zal openbaren wat verborgen was van de schepping der wereld af.
 
-**[13:36]**  Toen liet Jezus de scharen vertrekken, en Hij ging naar huis. En zijn discipelen kwamen tot Hem, zeggende: Verklaar ons de gelijkenis van het onkruid des akkers.
+**[13:36]** Toen liet Jezus de scharen vertrekken, en Hij ging naar huis. En zijn discipelen kwamen tot Hem, zeggende: Verklaar ons de gelijkenis van het onkruid des akkers.
 
 **[13:37]** En Hij antwoordde en zeide: Die het goede zaad zaait, is de Zoon des menschen.
 
@@ -49128,27 +49128,27 @@
 
 **[13:42]** En zij zullen dezen werpen in den brandenden oven; daar zal zijn het geween en het tandengeknars.
 
-**[13:43]** Dan zullen de rechtvaardigen blinken gelijk de zon in het koninkrijk huns Vaders. Wie ooren heeft om te hooren, die hoore. 
+**[13:43]** Dan zullen de rechtvaardigen blinken gelijk de zon in het koninkrijk huns Vaders. Wie ooren heeft om te hooren, die hoore.
 
-**[13:44]**  Het koninkrijk der hemelen is gelijk aan een verborgen schat in den akker, dien iemand vond en verborg; en uit blijdschap daarover gaat hij heen en verkoopt al wat hij heeft en koopt dien akker. 
+**[13:44]** Het koninkrijk der hemelen is gelijk aan een verborgen schat in den akker, dien iemand vond en verborg; en uit blijdschap daarover gaat hij heen en verkoopt al wat hij heeft en koopt dien akker.
 
-**[13:45]**  Wederom is het koninkrijk der hemelen gelijk aan een koopman die schoone paarlen zoekt.
+**[13:45]** Wederom is het koninkrijk der hemelen gelijk aan een koopman die schoone paarlen zoekt.
 
-**[13:46]** En als hij een kostelijke paarl had gevonden, ging hij heen en verkocht al wat hij had om haar te koopen. 
+**[13:46]** En als hij een kostelijke paarl had gevonden, ging hij heen en verkocht al wat hij had om haar te koopen.
 
-**[13:47]**  Wederom is het koninkrijk der hemelen gelijk aan een net, in zee geworpen, dat allerlei soort van visch samenbracht,
+**[13:47]** Wederom is het koninkrijk der hemelen gelijk aan een net, in zee geworpen, dat allerlei soort van visch samenbracht,
 
 **[13:48]** En wanneer het vol was, trokken zij het op den oever, en nederzittende verzamelden zij het goede in vaten, en het slechte wierpen zij weg.
 
-**[13:49]** Alzoo zal het zijn in de voleinding der eeuw: de engelen zullen uitgaan en de boozen afzonderen uit het midden der rechtvaardigen; 
+**[13:49]** Alzoo zal het zijn in de voleinding der eeuw: de engelen zullen uitgaan en de boozen afzonderen uit het midden der rechtvaardigen;
 
 **[13:50]** en zij zullen hen werpen in den brandenden oven; daar zal het geween zijn en het tandengeknars.
 
 **[13:51]** Jezus zeide tot hen: Hebt gij dit alles verstaan? Zij zeiden tot Hem: Ja, Heere!
 
-**[13:52]** En Hij zeide tot hen: Daarom is ieder schriftgeleerde, die onderwezen is in het koninkrijk der hemelen, gelijk aan een heer des huizes die uit zijn schat nieuwe en oude dingen tevoorschijn brengt. 
+**[13:52]** En Hij zeide tot hen: Daarom is ieder schriftgeleerde, die onderwezen is in het koninkrijk der hemelen, gelijk aan een heer des huizes die uit zijn schat nieuwe en oude dingen tevoorschijn brengt.
 
-**[13:53]**  En het geschiedde, toen Jezus deze gelijkenissen geëindigd had, dat Hij vandaar vertrok.
+**[13:53]** En het geschiedde, toen Jezus deze gelijkenissen geëindigd had, dat Hij vandaar vertrok.
 
 **[13:54]** En in zijn vaderland gekomen zijnde, leerde Hij hen in hun synagogen, zoodat zij zich verwonderden, zeggende: Vanwaar heeft deze die wijsheid en krachten?
 
@@ -49158,15 +49158,15 @@
 
 **[13:57]** En zij ergerden zich aan Hem. Maar Jezus zeide tot hen: Een profeet is niet ongeëerd dan in zijn eigen vaderland en in zijn huis.
 
-**[13:58]** En Hij deed daar niet veel krachten vanwege hun ongeloof.  
+**[13:58]** En Hij deed daar niet veel krachten vanwege hun ongeloof.
 
 ### Chapter 14
 
 **[14:1]** In dien tijd hoorde de vorst Herodes het gerucht van Jezus,
 
-**[14:2]** en zeide tot zijn dienaren: Deze is Johannes de Dooper; hij is verrezen van de dooden en daarom werken die krachten in hem. 
+**[14:2]** en zeide tot zijn dienaren: Deze is Johannes de Dooper; hij is verrezen van de dooden en daarom werken die krachten in hem.
 
-**[14:3]**  Want Herodes had Johannes gevangen en gebonden en hem in de gevangenis gezet om Herodias, de vrouw van zijn broeder Filippus.
+**[14:3]** Want Herodes had Johannes gevangen en gebonden en hem in de gevangenis gezet om Herodias, de vrouw van zijn broeder Filippus.
 
 **[14:4]** Want Johannes had tot hem gezegd: Gij moogt haar niet hebben.
 
@@ -49186,9 +49186,9 @@
 
 **[14:12]** En zijn discipelen kwamen en namen het lijk weg en begroeven het, en zij kwamen het aan Jezus berichten.
 
-**[14:13]** En toen Jezus het hoorde, vertrok Hij vandaar te scheep naar een eenzame plaats, alleen. 
+**[14:13]** En toen Jezus het hoorde, vertrok Hij vandaar te scheep naar een eenzame plaats, alleen.
 
-**[14:14]**  En de scharen dit vernemende, volgden Hem te voet uit de steden, en toen Hij uitging zag Hij een groote schare, en kreeg innerlijk medelijden met hen, en genas hun kranken.
+**[14:14]** En de scharen dit vernemende, volgden Hem te voet uit de steden, en toen Hij uitging zag Hij een groote schare, en kreeg innerlijk medelijden met hen, en genas hun kranken.
 
 **[14:15]** En toen het avond geworden was, kwamen zijn discipelen tot Hem en zeiden: Deze plaats is eenzaam en de tijd is al voorbij; laat nu de scharen van U, opdat zij heengaan naar de dorpen en voor zich zelven spijzen koopen.
 
@@ -49202,9 +49202,9 @@
 
 **[14:20]** En zij aten allen en werden verzadigd, en zij namen het overschot der stukken op, twaalf volle korven.
 
-**[14:21]** Zij nu, die gegeten hadden, waren omtrent vijf duizend mannen, behalve de vrouwen en kinderen. 
+**[14:21]** Zij nu, die gegeten hadden, waren omtrent vijf duizend mannen, behalve de vrouwen en kinderen.
 
-**[14:22]**  En Jezus dwong terstond de discipelen in het schip te gaan en Hem vooruit naar de overzijde te varen, terwijl Hij de scharen van zich zou laten.
+**[14:22]** En Jezus dwong terstond de discipelen in het schip te gaan en Hem vooruit naar de overzijde te varen, terwijl Hij de scharen van zich zou laten.
 
 **[14:23]** En toen Hij de scharen van zich gelaten had, ging Hij alleen op den berg om te bidden. En het was avond en Hij was alleen.
 
@@ -49226,13 +49226,13 @@
 
 **[14:32]** En toen zij in het schip geklommen waren, bedaarde de wind.
 
-**[14:33]** En die in het schip waren, kwamen en aanbaden Hem, zeggende: Waarlijk, Gods Zoon zijt Gij! 
+**[14:33]** En die in het schip waren, kwamen en aanbaden Hem, zeggende: Waarlijk, Gods Zoon zijt Gij!
 
-**[14:34]**  Toen zij nu overgevaren waren, kwamen zij in het land Gennezareth.
+**[14:34]** Toen zij nu overgevaren waren, kwamen zij in het land Gennezareth.
 
 **[14:35]** En de mannen van die plaats kenden Hem en zonden naar dien ganschen omtrek, en brachten tot Hem allen die krank waren.
 
-**[14:36]** En zij baden Hem om alleen den zoom van zijn kleed aan te raken. En zoo velen dien aanraakten, werden genezen.  
+**[14:36]** En zij baden Hem om alleen den zoom van zijn kleed aan te raken. En zoo velen dien aanraakten, werden genezen.
 
 ### Chapter 15
 
@@ -49274,9 +49274,9 @@
 
 **[15:19]** Want uit het hart komen booze overleggingen, moord, overspel, hoererij, diefstal, valsch getuigenis, lasteringen.
 
-**[15:20]** Deze dingen zijn het die den mensch verontreinigen, maar het eten met ongewasschen handen verontreinigt den mensch niet. 
+**[15:20]** Deze dingen zijn het die den mensch verontreinigen, maar het eten met ongewasschen handen verontreinigt den mensch niet.
 
-**[15:21]**  En Jezus vandaar weggaande, trok naar de omstreken van Tyrus en Sidon.
+**[15:21]** En Jezus vandaar weggaande, trok naar de omstreken van Tyrus en Sidon.
 
 **[15:22]** En ziet, een kananeesche vrouw, uit die streken komende, riep, zeggende: Ontferm U mijner, Heere, Zoon van David! mijn dochter is erg bezeten van een boozen geest.
 
@@ -49290,15 +49290,15 @@
 
 **[15:27]** En zij zeide: ‘t Is waar, Heere! doch de honden eten toch van de kruimels die vallen van de tafel hunner meesters?
 
-**[15:28]** Toen antwoordde Jezus en zeide tot haar: O vrouw! groot is uw geloof! U geschiede gelijk gij wilt. En haar dochter werd genezen in die zelfde ure. 
+**[15:28]** Toen antwoordde Jezus en zeide tot haar: O vrouw! groot is uw geloof! U geschiede gelijk gij wilt. En haar dochter werd genezen in die zelfde ure.
 
-**[15:29]**  En vandaar weggaande, ging Jezus langs de zee van Galilea, en Hij klom op den berg en zat daar neder.
+**[15:29]** En vandaar weggaande, ging Jezus langs de zee van Galilea, en Hij klom op den berg en zat daar neder.
 
 **[15:30]** En tot Hem kwamen vele scharen die bij zich hadden kreupelen, blinden, stommen, lammen en vele anderen; en zij leiden die aan zijn voeten, en Hij genas hen,
 
-**[15:31]** zoodat de scharen zich verwonderden, toen zij zagen dat stommen spraken, lammen gezond werden, kreupelen wandelden en blinden zagen; en zij gaven glorie aan den God van Israël. 
+**[15:31]** zoodat de scharen zich verwonderden, toen zij zagen dat stommen spraken, lammen gezond werden, kreupelen wandelden en blinden zagen; en zij gaven glorie aan den God van Israël.
 
-**[15:32]**  En Jezus riep zijn discipelen tot zich en zeide: Ik heb medelijden met de schare, want het is nu al drie dagen dat zij bij Mij blijven en zij hebben niets om te eten; en Ik wil hen niet hongerig laten gaan, opdat zij onderweg niet bezwijken.
+**[15:32]** En Jezus riep zijn discipelen tot zich en zeide: Ik heb medelijden met de schare, want het is nu al drie dagen dat zij bij Mij blijven en zij hebben niets om te eten; en Ik wil hen niet hongerig laten gaan, opdat zij onderweg niet bezwijken.
 
 **[15:33]** En de discipelen zeiden tot Hem: Vanwaar krijgen wij in een woestijn zooveel brooden, om zoo groote menigte te verzadigen?
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** En die gegeten hadden, waren vier duizend mannen, behalve de kinderen en de vrouwen.
 
-**[15:39]** En toen Hij de scharen had laten weggaan, ging Hij in het schip; en zij kwamen in de omstreken van Magdala.  
+**[15:39]** En toen Hij de scharen had laten weggaan, ging Hij in het schip; en zij kwamen in de omstreken van Magdala.
 
 ### Chapter 16
 
@@ -49322,9 +49322,9 @@
 
 **[16:3]** En des morgens: Vandaag ruw weer, want de hemel is somber rood. Gij geveinsden! de gedaante des hemels weet gij wel te onderscheiden, maar de teekenen der tijden kunt gij niet onderscheiden?
 
-**[16:4]** Een boos en overspelig geslacht begeert een teeken, en het zal geen teeken gegeven worden, dan het teeken van Jonas, den profeet. En Hij verliet hen en ging weg. 
+**[16:4]** Een boos en overspelig geslacht begeert een teeken, en het zal geen teeken gegeven worden, dan het teeken van Jonas, den profeet. En Hij verliet hen en ging weg.
 
-**[16:5]**  En toen zij naar den overkant gegaan waren, hadden de discipelen vergeten brooden mede te nemen.
+**[16:5]** En toen zij naar den overkant gegaan waren, hadden de discipelen vergeten brooden mede te nemen.
 
 **[16:6]** Maar Jezus zeide tot hen: Ziet toe en wacht u van den zuurdeesem der fariseërs en sadduceërs.
 
@@ -49338,9 +49338,9 @@
 
 **[16:11]** Hoe? verstaat gij niet dat Ik niet van brood tot u sprak, toen Ik zeide: Wacht u van den zuurdeesem der fariseërs en sadduceërs?
 
-**[16:12]** Toen verstonden zij dat Hij niet gezegd had dat zij zich wachten zouden van den zuurdeesem, maar van de leer der fariseërs en sadduceërs. 
+**[16:12]** Toen verstonden zij dat Hij niet gezegd had dat zij zich wachten zouden van den zuurdeesem, maar van de leer der fariseërs en sadduceërs.
 
-**[16:13]**  Toen Jezus gekomen was in de omstreken van Cesarea–Filippi, vroeg Hij aan zijn discipelen, zeggende: Wie zeggen de menschen dat Ik, de Zoon des menschen, ben?
+**[16:13]** Toen Jezus gekomen was in de omstreken van Cesarea–Filippi, vroeg Hij aan zijn discipelen, zeggende: Wie zeggen de menschen dat Ik, de Zoon des menschen, ben?
 
 **[16:14]** En zij zeiden: Sommigen, Johannes de Dooper; anderen, Elias; anderen, Jeremia, of een der profeten.
 
@@ -49354,15 +49354,15 @@
 
 **[16:19]** En Ik zal u geven de sleutelen van het koninkrijk der hemelen, en zoo wat gij zult binden op aarde zal in de hemelen gebonden zijn, en zoo wat gij zult losmaken op aarde zal in de hemelen losgemaakt zijn.
 
-**[16:20]** Toen gebood Hij aan de discipelen dat zij aan niemand zouden zeggen dat Hij Jezus, de Christus is. 
+**[16:20]** Toen gebood Hij aan de discipelen dat zij aan niemand zouden zeggen dat Hij Jezus, de Christus is.
 
-**[16:21]**  Van toen af begon Jezus aan zijn discipelen te toonen dat Hij naar Jerusalem moest opgaan, en veel lijden van de oudsten, overpriesters en schriftgeleerden, en gedood, en op den derden dag opgewekt worden.
+**[16:21]** Van toen af begon Jezus aan zijn discipelen te toonen dat Hij naar Jerusalem moest opgaan, en veel lijden van de oudsten, overpriesters en schriftgeleerden, en gedood, en op den derden dag opgewekt worden.
 
 **[16:22]** En Petrus, Hem tot zich nemende, begon Hem te berispen, zeggende: Heere, God behoede U! dat zal U niet geschieden!
 
-**[16:23]** Maar Hij keerde zich om en zeide tot Petrus: Ga weg, achter Mij, Satanas! gij zijt Mij een aanstoot; want gij bedenkt niet de dingen Gods, maar der menschen! 
+**[16:23]** Maar Hij keerde zich om en zeide tot Petrus: Ga weg, achter Mij, Satanas! gij zijt Mij een aanstoot; want gij bedenkt niet de dingen Gods, maar der menschen!
 
-**[16:24]**  Toen zeide Jezus tot zijn discipelen: Indien iemand achter Mij wil komen, die verloochene zich zelven en neme zijn kruis op en volge Mij na.
+**[16:24]** Toen zeide Jezus tot zijn discipelen: Indien iemand achter Mij wil komen, die verloochene zich zelven en neme zijn kruis op en volge Mij na.
 
 **[16:25]** Want zoo wie zijn leven wil behouden, zal het verliezen; en zoo wie zijn leven om Mijnentwil zal verliezen, die zal het vinden.
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** Want de Zoon des menschen zal komen in de glorie zijns Vaders met zijn engelen, en dan zal Hij ieder vergelden naar zijn werken.
 
-**[16:28]** Voorwaar, Ik zeg u, dat er sommigen zijn van die hier staan, die den dood in het geheel niet smaken zullen, totdat zij den Zoon des menschen hebben zien komen in zijn koninkrijk.  
+**[16:28]** Voorwaar, Ik zeg u, dat er sommigen zijn van die hier staan, die den dood in het geheel niet smaken zullen, totdat zij den Zoon des menschen hebben zien komen in zijn koninkrijk.
 
 ### Chapter 17
 
@@ -49390,17 +49390,17 @@
 
 **[17:8]** En toen zij hun oogen opsloegen, zagen zij niemand dan Jezus alleen.
 
-**[17:9]** En terwijl zij van den berg afkwamen, gebood Jezus hun, zeggende: Vertelt aan niemand dit gezicht, totdat de Zoon des menschen uit de dooden zal verrezen zijn. 
+**[17:9]** En terwijl zij van den berg afkwamen, gebood Jezus hun, zeggende: Vertelt aan niemand dit gezicht, totdat de Zoon des menschen uit de dooden zal verrezen zijn.
 
-**[17:10]**  En zijn discipelen vroegen Hem, zeggende: Waarom zeggen toch de schriftgeleerden dat Elias eerst moet komen?
+**[17:10]** En zijn discipelen vroegen Hem, zeggende: Waarom zeggen toch de schriftgeleerden dat Elias eerst moet komen?
 
-**[17:11]** En Hij antwoordde en zeide: Elias komt wel en zal alles herstellen; 
+**[17:11]** En Hij antwoordde en zeide: Elias komt wel en zal alles herstellen;
 
 **[17:12]** maar Ik zeg u dat Elias al gekomen is, en zij hebben hem niet erkend, maar zij hebben hem gedaan wat zij wilden; zoo zal ook de Zoon des menschen door hen lijden.
 
-**[17:13]** Toen verstonden de discipelen dat Hij tot hen sprak over Johannes den Dooper. 
+**[17:13]** Toen verstonden de discipelen dat Hij tot hen sprak over Johannes den Dooper.
 
-**[17:14]**  En toen zij bij de schare gekomen waren, kwam tot Hem een mensch, die voor Hem op de knieën viel en zeide:
+**[17:14]** En toen zij bij de schare gekomen waren, kwam tot Hem een mensch, die voor Hem op de knieën viel en zeide:
 
 **[17:15]** Heere! ontferm U over mijn zoon, want hij is maanziek en lijdt veel; want dikwijls valt hij in het vuur en in het water.
 
@@ -49414,19 +49414,19 @@
 
 **[17:20]** En Hij zeide tot hen: Om uw ongeloof; want voorwaar, Ik zeg u, dat gij, zoo gij geloof hadt als een mosterdzaad, tot dezen berg zoudt zeggen: Ga vanhier, derwaarts! en hij zal heengaan; en niets zal u onmogelijk zijn.
 
-**[17:21]** Maar dit geslacht vaart niet uit dan door gebed en vasten. 
+**[17:21]** Maar dit geslacht vaart niet uit dan door gebed en vasten.
 
-**[17:22]**  En terwijl zij in Galilea verkeerden, zeide Jezus tot hen: De Zoon des menschen zal overgeleverd worden in de handen der menschen,
+**[17:22]** En terwijl zij in Galilea verkeerden, zeide Jezus tot hen: De Zoon des menschen zal overgeleverd worden in de handen der menschen,
 
-**[17:23]** en zij zullen Hem dooden en op den derden dag zal Hij opgewekt worden. En zij werden zeer bedroefd. 
+**[17:23]** en zij zullen Hem dooden en op den derden dag zal Hij opgewekt worden. En zij werden zeer bedroefd.
 
-**[17:24]**  En toen zij naar Kapernaüm gekomen waren, kwamen de ontvangers der tolpenningen tot Petrus en zeiden: Betaalt uw Meester den tolpenning niet?
+**[17:24]** En toen zij naar Kapernaüm gekomen waren, kwamen de ontvangers der tolpenningen tot Petrus en zeiden: Betaalt uw Meester den tolpenning niet?
 
 **[17:25]** En hij zeide: Ja. Toen hij nu in huis gekomen was, voorkwam hem Jezus, zeggende: Wat dunkt u, Simon, van wie nemen de koningen der aarde tol of schatting? Van hun zonen of van de vreemden?
 
 **[17:26]** En hij zeide: Van de vreemden. Toen zeide Jezus tot hem: Dan zijn de zonen ook vrij.
 
-**[17:27]** Maar opdat we hun geen aanstoot geven, ga naar zee, werp een angel uit en neem den eersten visch die opkomt; en als gij zijn mond opent, zult gij een dubbelen tolpenning vinden: neem dien en geef dien aan hen voor Mij en u.  
+**[17:27]** Maar opdat we hun geen aanstoot geven, ga naar zee, werp een angel uit en neem den eersten visch die opkomt; en als gij zijn mond opent, zult gij een dubbelen tolpenning vinden: neem dien en geef dien aan hen voor Mij en u.
 
 ### Chapter 18
 
@@ -49438,7 +49438,7 @@
 
 **[18:4]** Wie dan zich zelven vernederen zal gelijk dit kind, die is de meeste in het koninkrijk der hemelen.
 
-**[18:5]** En zoo wie één zoodanig kind aannemen zal, in mijn Naam, die neemt Mij aan; 
+**[18:5]** En zoo wie één zoodanig kind aannemen zal, in mijn Naam, die neemt Mij aan;
 
 **[18:6]** en zoo wie één van die kleinen die in Mij gelooven zal ergeren, het zou hem beter zijn zoo hem een molensteen aan den hals gebonden en hij in de diepte der zee verdronken werd.
 
@@ -49450,9 +49450,9 @@
 
 **[18:10]** Ziet toe, dat gij niet één van deze kleinen veracht! Want Ik zeg u dat hun engelen in de hemelen altijd zien het aangezicht van mijn Vader die in de hemelen is.
 
-**[18:11]** Want de Zoon des menschen is gekomen om het verlorene te redden. 
+**[18:11]** Want de Zoon des menschen is gekomen om het verlorene te redden.
 
-**[18:12]**  Wat dunkt ulieden? Indien aan iemand een honderdtal schapen ten deel geworden was, en één van dezen is afgedwaald, laat hij dan niet de negen en negentig op de bergen, om heen te gaan en het afgedwaalde te zoeken?
+**[18:12]** Wat dunkt ulieden? Indien aan iemand een honderdtal schapen ten deel geworden was, en één van dezen is afgedwaald, laat hij dan niet de negen en negentig op de bergen, om heen te gaan en het afgedwaalde te zoeken?
 
 **[18:13]** En als het gebeurt dat hij het vindt, voorwaar, Ik zeg u, dat hij zich meer verblijdt over dit ééne, dan over de negen en negentig die niet afgedwaald zijn geweest.
 
@@ -49468,9 +49468,9 @@
 
 **[18:19]** Wederom zeg Ik u, wanneer twee van ulieden overeenstemmen op de aarde, over welke zaak ook, die zij zouden begeeren, het zal hun geschieden van uw Vader die in de hemelen is.
 
-**[18:20]** Want waar er twee of drie vergaderd zijn in mijn Naam, daar ben Ik in hun midden. 
+**[18:20]** Want waar er twee of drie vergaderd zijn in mijn Naam, daar ben Ik in hun midden.
 
-**[18:21]**  Toen kwam Petrus tot Hem en zeide: Heere, hoeveel malen zal ik het aan mijn broeder vergeven, als hij tegen mij zal zondigen? Tot zevenmaal?
+**[18:21]** Toen kwam Petrus tot Hem en zeide: Heere, hoeveel malen zal ik het aan mijn broeder vergeven, als hij tegen mij zal zondigen? Tot zevenmaal?
 
 **[18:22]** Jezus zeide tot hem: Ik zeg u niet tot zevenmaal, maar tot zeventigmaal zevenmaal.
 
@@ -49492,21 +49492,21 @@
 
 **[18:31]** Zijn mededienstknechten nu, ziende wat er geschied was, werden zeer bedroefd, en zij gingen heen en verhaalden aan hun heer al wat er gebeurd was.
 
-**[18:32]** Toen riep zijn heer hem tot zich en zeide tot hem: Gij booze dienstknecht! al die schuld heb ik u kwijtgescholden omdat gij mij gebeden hebt; 
+**[18:32]** Toen riep zijn heer hem tot zich en zeide tot hem: Gij booze dienstknecht! al die schuld heb ik u kwijtgescholden omdat gij mij gebeden hebt;
 
 **[18:33]** moest gij u dan ook niet ontfermen over uw mededienstknecht, gelijk ook ik mij over u ontfermd heb?
 
 **[18:34]** En zijn heer vertoornd zijnde, gaf hem over aan de pijnigers, totdat hij zou betaald hebben al wat hij schuldig was.
 
-**[18:35]** Alzoo zal ook mijn hemelsche Vader ulieden doen, indien gij niet een ieder aan zijn broeder van harte zijn misdaden vergeeft.  
+**[18:35]** Alzoo zal ook mijn hemelsche Vader ulieden doen, indien gij niet een ieder aan zijn broeder van harte zijn misdaden vergeeft.
 
 ### Chapter 19
 
 **[19:1]** En het geschiedde toen Jezus deze woorden geëindigd had, dat Hij uit Galilea vertrok en ging naar de landstreken van Judea, aan de overzijde van den Jordaan.
 
-**[19:2]** En vele scharen volgden Hem en Hij genas hen aldaar. 
+**[19:2]** En vele scharen volgden Hem en Hij genas hen aldaar.
 
-**[19:3]**  En de fariseërs kwamen tot Hem, om Hem op de proef te stellen, en zij zeiden: Is het aan iemand geoorloofd zijn vrouw te verlaten om elke reden?
+**[19:3]** En de fariseërs kwamen tot Hem, om Hem op de proef te stellen, en zij zeiden: Is het aan iemand geoorloofd zijn vrouw te verlaten om elke reden?
 
 **[19:4]** En Hij antwoordde en zeide: Hebt gij niet gelezen dat de Schepper hen van den beginne man en vrouw heeft gemaakt,
 
@@ -49524,15 +49524,15 @@
 
 **[19:11]** Doch Hij zeide tot hen: Niet allen verstaan dit woord, maar zij, wien het gegeven is.
 
-**[19:12]** Want er zijn gesnedenen die uit hun moeder alzoo geboren zijn, en er zijn gesnedenen die door de menschen gesneden zijn, en er zijn gesnedenen die zich zelven gesneden hebben om het koninkrijk der hemelen. Die het vatten kan, vatte het. 
+**[19:12]** Want er zijn gesnedenen die uit hun moeder alzoo geboren zijn, en er zijn gesnedenen die door de menschen gesneden zijn, en er zijn gesnedenen die zich zelven gesneden hebben om het koninkrijk der hemelen. Die het vatten kan, vatte het.
 
-**[19:13]**  Toen werden er kinderkens tot Hem gebracht, opdat Hij hun de handen zou opleggen en bidden; en de discipelen bestraften hen.
+**[19:13]** Toen werden er kinderkens tot Hem gebracht, opdat Hij hun de handen zou opleggen en bidden; en de discipelen bestraften hen.
 
 **[19:14]** Maar Jezus zeide tot hen: Laat de kinderkens met vrede en verhindert ze niet om tot Mij te komen, want voor zoodanigen is het koninkrijk der hemelen.
 
-**[19:15]** En als Hij hun de handen opgelegd had, ging Hij vandaar weg. 
+**[19:15]** En als Hij hun de handen opgelegd had, ging Hij vandaar weg.
 
-**[19:16]**  En ziet, er kwam een tot Hem die zeide: Goede Meester, welk goed zal ik doen opdat ik het eeuwige leven hebbe?
+**[19:16]** En ziet, er kwam een tot Hem die zeide: Goede Meester, welk goed zal ik doen opdat ik het eeuwige leven hebbe?
 
 **[19:17]** En Hij zeide tot hem: Wat vraagt gij Mij naar hetgeen goed is? Een is er goed, dat is, God! Maar zoo gij tot het leven wilt ingaan, onderhoud de geboden.
 
@@ -49544,9 +49544,9 @@
 
 **[19:21]** Jezus zeide tot hem: Indien gij volmaakt wilt zijn, ga dan heen, verkoop uw goederen en geef het aan de armen, en gij zult een schat hebben in den hemel, en kom herwaarts en volg Mij.
 
-**[19:22]** Als de jongeling nu dit woord hoorde, ging hij bedroefd weg, want hij bezat vele goederen. 
+**[19:22]** Als de jongeling nu dit woord hoorde, ging hij bedroefd weg, want hij bezat vele goederen.
 
-**[19:23]**  En Jezus zeide tot zijn discipelen: Voorwaar, Ik zeg u, dat een rijke bezwaarlijk in het koninkrijk der hemelen zal ingaan.
+**[19:23]** En Jezus zeide tot zijn discipelen: Voorwaar, Ik zeg u, dat een rijke bezwaarlijk in het koninkrijk der hemelen zal ingaan.
 
 **[19:24]** En wederom zeg Ik u, dat het gemakkelijker is dat een kameel gaat door het oog van een naald dan dat een rijke het koninkrijk der hemelen ingaat.
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** En al wie verlaten zal hebben huizen, of broeders, of zusters, of vader, of moeder, of vrouw, of kinderen, of akkers, om mijns Naams wil, die zal honderdvoudig ontvangen en het eeuwige leven beërven.
 
-**[19:30]** Doch vele eersten zullen de laatsten zijn en vele laatsten de eersten.  
+**[19:30]** Doch vele eersten zullen de laatsten zijn en vele laatsten de eersten.
 
 ### Chapter 20
 
@@ -49594,15 +49594,15 @@
 
 **[20:15]** Of mag ik met het mijne niet doen zooals ik wil? Of is uw oog kwaad omdat ik goed ben?
 
-**[20:16]** Zoo zullen de laatsten de eersten zijn en de eersten de laatsten. Want velen zijn geroepen, doch weinigen uitverkoren. 
+**[20:16]** Zoo zullen de laatsten de eersten zijn en de eersten de laatsten. Want velen zijn geroepen, doch weinigen uitverkoren.
 
-**[20:17]**  En toen Jezus naar Jerusalem opging, nam Hij de twaalf discipelen afzonderlijk, en onderweg zeide Hij tot hen:
+**[20:17]** En toen Jezus naar Jerusalem opging, nam Hij de twaalf discipelen afzonderlijk, en onderweg zeide Hij tot hen:
 
 **[20:18]** Ziet, wij gaan op naar Jerusalem en de Zoon des menschen zal overgeleverd worden aan de overpriesters en schriftgeleerden, en zij zullen Hem ter dood veroordeelen,
 
-**[20:19]** en zij zullen Hem overleveren aan de heidenen om Hem te bespotten en te geeselen en te kruisigen; en op den derden dag zal Hij verrijzen. 
+**[20:19]** en zij zullen Hem overleveren aan de heidenen om Hem te bespotten en te geeselen en te kruisigen; en op den derden dag zal Hij verrijzen.
 
-**[20:20]**  Toen kwam tot Hem de moeder der zonen van Zebedeüs met haar zonen, en zij aanbad Hem en begeerde iets van Hem.
+**[20:20]** Toen kwam tot Hem de moeder der zonen van Zebedeüs met haar zonen, en zij aanbad Hem en begeerde iets van Hem.
 
 **[20:21]** En Hij zeide tot haar: Wat wilt gij? Zij zeide tot Hem: Zeg dat deze mijn twee zonen mogen zitten aan uw rechter– en linkerhand in uw koninkrijk.
 
@@ -49614,13 +49614,13 @@
 
 **[20:25]** Doch Jezus riep hen tot zich en zeide: Gij weet dat de oversten der volken over hen heerschen en dat de grooten over hen macht gebruiken.
 
-**[20:26]** Maar zoo zal het niet zijn onder u; maar zoo wie onder u zal willen groot worden, die zal uw dienaar zijn; 
+**[20:26]** Maar zoo zal het niet zijn onder u; maar zoo wie onder u zal willen groot worden, die zal uw dienaar zijn;
 
 **[20:27]** en zoo wie onder u zal willen de eerste zijn, die zal uw dienstknecht zijn,
 
-**[20:28]** gelijk de Zoon des menschen niet is gekomen om gediend te worden, maar om te dienen en zijn leven te geven tot een losprijs voor velen. 
+**[20:28]** gelijk de Zoon des menschen niet is gekomen om gediend te worden, maar om te dienen en zijn leven te geven tot een losprijs voor velen.
 
-**[20:29]**  En toen zij Jericho uitgingen, volgde Hem een groote schare.
+**[20:29]** En toen zij Jericho uitgingen, volgde Hem een groote schare.
 
 **[20:30]** En ziet, twee blinden zaten bij den weg; en toen zij hoorden dat Jezus voorbijging, riepen zij, zeggende: Ontferm U over ons, Gij Zoon van David!
 
@@ -49630,13 +49630,13 @@
 
 **[20:33]** Zij zeiden tot Hem: Heere, dat onze oogen geopend worden!
 
-**[20:34]** En Jezus met hen bewogen zijnde, raakte hun oogen aan; en terstond zagen zij op en zij volgden Hem.  
+**[20:34]** En Jezus met hen bewogen zijnde, raakte hun oogen aan; en terstond zagen zij op en zij volgden Hem.
 
 ### Chapter 21
 
 **[21:1]** Toen zij nu Jerusalem naderden en te Bethfagé aan den berg der Olijven kwamen, zond Jezus twee discipelen en zeide tot hen:
 
-**[21:2]** Gaat naar het dorp daar tegenover u, en terstond zult gij een ezelin vinden, die vastgebonden is, en een veulen bij haar; maakt die los en brengt ze tot Mij; 
+**[21:2]** Gaat naar het dorp daar tegenover u, en terstond zult gij een ezelin vinden, die vastgebonden is, en een veulen bij haar; maakt die los en brengt ze tot Mij;
 
 **[21:3]** en als soms iemand iets tot u zegt, dan moet gij zeggen dat de Heere ze noodig heeft; en terstond zal hij ze laten volgen.
 
@@ -49654,9 +49654,9 @@
 
 **[21:10]** En toen Hij binnen Jerusalem kwam, geraakte de gansche stad in roeren, zeggende: Wie is deze?
 
-**[21:11]** En de scharen zeiden: Deze is de profeet Jezus, van Nazaret in Galilea. 
+**[21:11]** En de scharen zeiden: Deze is de profeet Jezus, van Nazaret in Galilea.
 
-**[21:12]**  En Jezus ging naar den tempel Gods en Hij wierp daaruit allen die kochten en verkochten in den tempel, en de tafelen der wisselaars keerde Hij om, en de zetels van de duivenverkoopers.
+**[21:12]** En Jezus ging naar den tempel Gods en Hij wierp daaruit allen die kochten en verkochten in den tempel, en de tafelen der wisselaars keerde Hij om, en de zetels van de duivenverkoopers.
 
 **[21:13]** En Hij zeide tot hen: Er is geschreven: Mijn huis zal een huis des gebeds genoemd worden, maar gij hebt het gemaakt tot een roovershol.
 
@@ -49666,9 +49666,9 @@
 
 **[21:16]** en zeiden tot Hem: Hoort gij wel wat dezen zeggen? En Jezus zeide tot hen: Ja! hebt gij nooit gelezen: Uit den mond van kinderen en zuigelingen hebt Gij U lof bereid?
 
-**[21:17]** En Hij verliet hen en ging de stad uit naar Bethanië en overnachtte aldaar. 
+**[21:17]** En Hij verliet hen en ging de stad uit naar Bethanië en overnachtte aldaar.
 
-**[21:18]**  Toen Hij nu des morgens vroeg naar de stad terugkeerde, had Hij honger.
+**[21:18]** Toen Hij nu des morgens vroeg naar de stad terugkeerde, had Hij honger.
 
 **[21:19]** En een vijgeboom aan den weg ziende, ging Hij er naar toe; en Hij vond er niets aan dan alleen bladeren. En Hij zeide: Dat er nooit in der eeuwigheid meer vrucht aan u kome! En de vijgeboom verdorde terstond.
 
@@ -49676,9 +49676,9 @@
 
 **[21:21]** En Jezus antwoordde en zeide tot hen: Voorwaar, Ik zeg u: Indien gij geloof hebt en niet twijfelt, dan zult gij niet alleen doen wat den vijgeboom is geschied, maar al zegt gij dan ook tot dien berg: Hef u op, en werp u in de zee! — het zal geschieden.
 
-**[21:22]** En alles wat gij geloovig begeeren zult in het gebed, dat zult gij ontvangen. 
+**[21:22]** En alles wat gij geloovig begeeren zult in het gebed, dat zult gij ontvangen.
 
-**[21:23]**  En toen Hij in den tempel was gekomen, kwamen de overpriesters en de oudsten des volks tot Hem, terwijl Hij leerde, en zij zeiden: Door welke macht doet Gij deze dingen? en wie heeft u deze macht gegeven?
+**[21:23]** En toen Hij in den tempel was gekomen, kwamen de overpriesters en de oudsten des volks tot Hem, terwijl Hij leerde, en zij zeiden: Door welke macht doet Gij deze dingen? en wie heeft u deze macht gegeven?
 
 **[21:24]** En Jezus antwoordde en zeide tot hen: Ik zal u ook één ding vragen; zoo gij Mij dit zegt, dan zal Ik u ook zeggen door welke macht Ik deze dingen doe.
 
@@ -49686,9 +49686,9 @@
 
 **[21:26]** En zij overleiden bij zich zelven, zeggende: Als wij zeggen: Uit den hemel, dan zal Hij tot ons zeggen: Waarom hebt gij hem dan niet geloofd? En als wij zeggen: Uit de menschen, dan vreezen wij het volk, want allen houden Johannes voor een profeet.
 
-**[21:27]** En zij antwoordden Jezus en zeiden: Wij weten het niet. Toen zeide ook Hij tot hen: Dan zeg Ik u ook niet door welke macht Ik deze dingen doe. 
+**[21:27]** En zij antwoordden Jezus en zeiden: Wij weten het niet. Toen zeide ook Hij tot hen: Dan zeg Ik u ook niet door welke macht Ik deze dingen doe.
 
-**[21:28]**  Maar wat dunkt u? Iemand had twee zonen. En hij kwam tot den een en zeide: Zoon, ga vandaag in mijn wijngaard werken!
+**[21:28]** Maar wat dunkt u? Iemand had twee zonen. En hij kwam tot den een en zeide: Zoon, ga vandaag in mijn wijngaard werken!
 
 **[21:29]** Doch hij antwoordde en zeide: Ik wil niet. Maar later had hij berouw en ging.
 
@@ -49696,9 +49696,9 @@
 
 **[21:31]** Wie van de twee heeft den wil van den vader gedaan? — Zij zeiden: De eerste. Jezus zeide tot hen: Voorwaar, Ik zeg u dat de tollenaars en de hoeren u voorgaan in het koninkrijk Gods.
 
-**[21:32]** Want Johannes is tot u gekomen in den weg der rechtvaardigheid, en gij hebt hem niet geloofd. Maar de tollenaars en de hoeren hebben hem geloofd; en ofschoon gij dit gezien hebt, hebt gij toch later geen berouw gehad, om hem te gelooven. 
+**[21:32]** Want Johannes is tot u gekomen in den weg der rechtvaardigheid, en gij hebt hem niet geloofd. Maar de tollenaars en de hoeren hebben hem geloofd; en ofschoon gij dit gezien hebt, hebt gij toch later geen berouw gehad, om hem te gelooven.
 
-**[21:33]**  Hoort een andere gelijkenis: Er was een heer des huizes die een wijngaard plantte; en hij leide er een haag rond en groef er een wijnpers in, en hij bouwde een wachttoren, en verhuurde den wijngaard aan landlieden en ging buitenslands.
+**[21:33]** Hoort een andere gelijkenis: Er was een heer des huizes die een wijngaard plantte; en hij leide er een haag rond en groef er een wijnpers in, en hij bouwde een wachttoren, en verhuurde den wijngaard aan landlieden en ging buitenslands.
 
 **[21:34]** Toen nu de tijd der vruchten naderde, zond hij zijn dienaren naar de landlieden om zijn vruchten te ontvangen.
 
@@ -49724,7 +49724,7 @@
 
 **[21:45]** En als de overpriesters en de fariseërs zijn gelijkenissen hoorden, verstonden zij dat Hij van hen sprak.
 
-**[21:46]** En zij zochten Hem te vangen, maar zij vreesden de scharen, omdat die Hem voor een profeet hielden.  
+**[21:46]** En zij zochten Hem te vangen, maar zij vreesden de scharen, omdat die Hem voor een profeet hielden.
 
 ### Chapter 22
 
@@ -49754,9 +49754,9 @@
 
 **[22:13]** Toen zeide de koning tot de dienaren: Bindt hem handen en voeten, neemt hem weg, en werpt hem in de duisternis daarbuiten; daar zal het geween zijn en het tandengeknars.
 
-**[22:14]** Want velen zijn geroepen, doch weinigen uitverkoren. 
+**[22:14]** Want velen zijn geroepen, doch weinigen uitverkoren.
 
-**[22:15]**  Toen gingen de fariseërs heen en beraadslaagden samen om Hem in zijn rede te verstrikken.
+**[22:15]** Toen gingen de fariseërs heen en beraadslaagden samen om Hem in zijn rede te verstrikken.
 
 **[22:16]** En zij zonden tot Hem hun discipelen met de Herodianen, zeggende: Meester, wij weten dat Gij waarachtig zijt en den weg Gods in waarheid leert, en dat Gij niemand ontziet, want Gij ziet niet op den persoon des menschen.
 
@@ -49770,9 +49770,9 @@
 
 **[22:21]** Zij zeiden: Van den keizer. Toen zeide Hij tot hen: Geeft dan aan den keizer wat den keizer, en aan God wat Gode toekomt.
 
-**[22:22]** En toen, zij dit hoorden, verwonderden zij zich, en Hem daarlatende, vertrokken zij. 
+**[22:22]** En toen, zij dit hoorden, verwonderden zij zich, en Hem daarlatende, vertrokken zij.
 
-**[22:23]**  Op dien zelfden dag kwamen er sadduceërs tot Hem, die zeggen dat er geen verrijzenis is, en zij vroegen Hem, zeggende:
+**[22:23]** Op dien zelfden dag kwamen er sadduceërs tot Hem, die zeggen dat er geen verrijzenis is, en zij vroegen Hem, zeggende:
 
 **[22:24]** Meester! Mozes heeft gezegd: Als iemand zonder kinderen sterft, dan zal zijn broeder diens vrouw trouwen en aan zijn broeder nakomelingschap verwekken.
 
@@ -49792,9 +49792,9 @@
 
 **[22:32]** Ik ben de God van Abraham, en de God van Isaäk, en de God van Jakob? Hij is toch geen God van dooden, maar van levenden!
 
-**[22:33]** En toen de scharen dit hoorden, waren zij verwonderd over zijn onderwijs. 
+**[22:33]** En toen de scharen dit hoorden, waren zij verwonderd over zijn onderwijs.
 
-**[22:34]**  En de fariseërs, hoorende dat Hij aan de sadduceërs den mond gestopt had, kwamen bijeen.
+**[22:34]** En de fariseërs, hoorende dat Hij aan de sadduceërs den mond gestopt had, kwamen bijeen.
 
 **[22:35]** En een uit hen, een wetgeleerde, Hem verzoekende, vroeg Hem:
 
@@ -49806,9 +49806,9 @@
 
 **[22:39]** Het tweede, daaraan gelijk, is: Gij zult uw naaste beminnen als uzelven.
 
-**[22:40]** Aan deze twee geboden hangt de gansche wet en de profeten. 
+**[22:40]** Aan deze twee geboden hangt de gansche wet en de profeten.
 
-**[22:41]**  Terwijl nu de fariseërs bijeen waren, vroeg Jezus hun, zeggende:
+**[22:41]** Terwijl nu de fariseërs bijeen waren, vroeg Jezus hun, zeggende:
 
 **[22:42]** Wat dunkt u van den Christus? Wiens zoon is Hij? Zij zeiden tot Hem: Van David.
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** Indien dan David Hem Heere noemt, hoe is Hij zijn zoon?
 
-**[22:46]** En niemand kon Hem een woord antwoorden; ook durfde niemand Hem van dien dag af iets meer vragen.  
+**[22:46]** En niemand kon Hem een woord antwoorden; ook durfde niemand Hem van dien dag af iets meer vragen.
 
 ### Chapter 23
 
@@ -49892,13 +49892,13 @@
 
 **[23:35]** Opdat op u kome al het rechtvaardige bloed dat op de aarde vergoten is, van het bloed van den rechtvaardigen Abel af, tot op het bloed van Zacharias, een zoon van Barachias, dien gij vermoord hebt tusschen den tempel en den altaar.
 
-**[23:36]** Voorwaar Ik zeg u, dit alles zal komen over deze natie! 
+**[23:36]** Voorwaar Ik zeg u, dit alles zal komen over deze natie!
 
-**[23:37]**  Jerusalem, Jerusalem! dat de profeten doodt en steenigt die tot u gezonden zijn! hoe dikwijls heb Ik uw kinderen willen bijeenvergaderen gelijk een klokhen haar kiekens bijeenvergadert onder de vleugelen! en gij hebt niet gewild!
+**[23:37]** Jerusalem, Jerusalem! dat de profeten doodt en steenigt die tot u gezonden zijn! hoe dikwijls heb Ik uw kinderen willen bijeenvergaderen gelijk een klokhen haar kiekens bijeenvergadert onder de vleugelen! en gij hebt niet gewild!
 
 **[23:38]** Zie, uw huis wordt u woest gelaten!
 
-**[23:39]** Want Ik zeg u: Gij zult Mij van nu aan niet meer zien, totdat gij zeggen, zult: Gezegend Hij, die komt in den Naam des Heeren!  
+**[23:39]** Want Ik zeg u: Gij zult Mij van nu aan niet meer zien, totdat gij zeggen, zult: Gezegend Hij, die komt in den Naam des Heeren!
 
 ### Chapter 24
 
@@ -49962,9 +49962,9 @@
 
 **[24:30]** En dan zal het teeken van den Zoon des menschen verschijnen aan den hemel, en al de geslachten der aarde zullen weenen en den Zoon des menschen zien komen op de wolken des hemels met kracht en veel glorie.
 
-**[24:31]** En Hij zal zijn engelen uitzenden met sterk bazuingeluid, en die zullen zijn uitverkorenen bijeenvergaderen uit de vier windstreken, van het ééne einde der hemelen tot het andere. 
+**[24:31]** En Hij zal zijn engelen uitzenden met sterk bazuingeluid, en die zullen zijn uitverkorenen bijeenvergaderen uit de vier windstreken, van het ééne einde der hemelen tot het andere.
 
-**[24:32]**  Leert dan van den vijgeboom deze gelijkenis: Zoodra zijn tak zacht wordt en de bladeren uitbotten, weet gij dat de zomer nabij is.
+**[24:32]** Leert dan van den vijgeboom deze gelijkenis: Zoodra zijn tak zacht wordt en de bladeren uitbotten, weet gij dat de zomer nabij is.
 
 **[24:33]** Alzoo ook gij, als gij dit alles ziet, dan weet gij dat Hij nabij is, vóór de deur.
 
@@ -49998,11 +49998,11 @@
 
 **[24:48]** Maar wanneer die booze dienstknecht in zijn hart zou zeggen: Mijn heer vertoeft!
 
-**[24:49]** en hij begint zijn mededienstknechten te slaan, en hij eet en drinkt met de dronkaards; 
+**[24:49]** en hij begint zijn mededienstknechten te slaan, en hij eet en drinkt met de dronkaards;
 
 **[24:50]** dan zal de heer van dien dienstknecht komen op een dag waarop hij het niet verwacht, en in een ure waarin hij het niet meent,
 
-**[24:51]** en hij zal hem in stukken houwen, en zijn deel stellen met de geveinsden. Daar zal het geween zijn en het tandengeknars.  
+**[24:51]** en hij zal hem in stukken houwen, en zijn deel stellen met de geveinsden. Daar zal het geween zijn en het tandengeknars.
 
 ### Chapter 25
 
@@ -50030,9 +50030,9 @@
 
 **[25:12]** En hij antwoordde en zeide: Voorwaar ik zeg u, ik ken u niet!
 
-**[25:13]** Waakt dan! want gij weet den dag niet, noch het uur. 
+**[25:13]** Waakt dan! want gij weet den dag niet, noch het uur.
 
-**[25:14]**  Want het is als een mensch die, buitenslands gaande, zijn eigen dienstknechten riep en hun zijn goederen overgaf,
+**[25:14]** Want het is als een mensch die, buitenslands gaande, zijn eigen dienstknechten riep en hun zijn goederen overgaf,
 
 **[25:15]** en aan den een gaf hij vijf talenten, aan den ander twee, aan den derde één, een ieder naar zijn bekwaamheid, en hij vertrok terstond.
 
@@ -50064,9 +50064,9 @@
 
 **[25:29]** Want aan ieder die heeft, zal gegeven worden en hij zal overvloed hebben; maar van hem die niet heeft, zal ook hetgeen hij heeft ontnomen worden.
 
-**[25:30]** En werpt den onnutten dienstknecht uit in de buitenste duisternis; daar zal zijn het geween en het tandengeknars. 
+**[25:30]** En werpt den onnutten dienstknecht uit in de buitenste duisternis; daar zal zijn het geween en het tandengeknars.
 
-**[25:31]**  En als de Zoon des menschen zal gekomen zijn in zijn glorie en al de heilige engelen met Hem, dan zal Hij zitten op den troon zijner glorie.
+**[25:31]** En als de Zoon des menschen zal gekomen zijn in zijn glorie en al de heilige engelen met Hem, dan zal Hij zitten op den troon zijner glorie.
 
 **[25:32]** En vóór Hem zullen al de volken vergaderd worden, en Hij zal die van malkander scheiden, gelijk de herder de schapen van de bokken scheidt.
 
@@ -50074,7 +50074,7 @@
 
 **[25:34]** Dan zal de Koning zeggen tot hen die aan zijn rechterhand zijn: Komt, gij gezegenden mijns Vaders, beërft het koninkrijk dat u is bereid van de grondlegging der wereld.
 
-**[25:35]** Want Ik heb honger gehad, en gij hebt Mij te eten gegeven; Ik heb dorst gehad, en gij hebt Mij te drinken gegeven; Ik was een vreemdeling, en gij hebt Mij geherbergd; 
+**[25:35]** Want Ik heb honger gehad, en gij hebt Mij te eten gegeven; Ik heb dorst gehad, en gij hebt Mij te drinken gegeven; Ik was een vreemdeling, en gij hebt Mij geherbergd;
 
 **[25:36]** naakt, en gij hebt Mij gekleed; Ik was krank, en gij hebt Mij bezocht; Ik was in de gevangenis, en gij zijt tot Mij gekomen.
 
@@ -50088,7 +50088,7 @@
 
 **[25:41]** Dan zal Hij ook zeggen tot die aan zijn linkerhand: Gaat van Mij weg, gij vervloekten! naar het eeuwige vuur, dat bereid is voor den duivel en zijn engelen.
 
-**[25:42]** Want Ik heb honger gehad, en gij hebt Mij niet te eten gegeven; Ik heb dorst gehad, en gij hebt Mij niet te drinken gegeven; 
+**[25:42]** Want Ik heb honger gehad, en gij hebt Mij niet te eten gegeven; Ik heb dorst gehad, en gij hebt Mij niet te drinken gegeven;
 
 **[25:43]** Ik was een vreemdeling, en gij hebt Mij niet geherbergd; naakt, en gij hebt Mij niet gekleed; krank en in de gevangenis, en gij hebt Mij niet bezocht.
 
@@ -50096,21 +50096,21 @@
 
 **[25:45]** Dan zal Hij antwoorden en tot hen zeggen: Voorwaar Ik zeg u, voor zooveel gij dit niet gedaan hebt aan één van deze geringsten, zoo hebt gij het aan Mij niet gedaan.
 
-**[25:46]** En dezen zullen heengaan tot eeuwige pijniging, maar de rechtvaardigen ten eeuwigen leven.  
+**[25:46]** En dezen zullen heengaan tot eeuwige pijniging, maar de rechtvaardigen ten eeuwigen leven.
 
 ### Chapter 26
 
 **[26:1]** En het geschiedde toen Jezus al deze woorden geëindigd had, dat Hij tot zijn discipelen zeide:
 
-**[26:2]** Gij weet het dat na twee dagen paaschfeest is, en dat de Zoon des menschen wordt overgeleverd om gekruisigd te worden. 
+**[26:2]** Gij weet het dat na twee dagen paaschfeest is, en dat de Zoon des menschen wordt overgeleverd om gekruisigd te worden.
 
-**[26:3]**  Toen vergaderden de overpriesters, en de schriftgeleerden, en de oudsten des volks in de zaal van den hoogepriester, genaamd Kajafas,
+**[26:3]** Toen vergaderden de overpriesters, en de schriftgeleerden, en de oudsten des volks in de zaal van den hoogepriester, genaamd Kajafas,
 
 **[26:4]** en zij beraadslaagden om Jezus door list te vatten en te dooden;
 
-**[26:5]** doch zij zeiden: Niet op het feest, opdat er geen oproer zij onder het volk. 
+**[26:5]** doch zij zeiden: Niet op het feest, opdat er geen oproer zij onder het volk.
 
-**[26:6]**  Toen nu Jezus in Bethanië was, in het huis van Simon, den melaatsche,
+**[26:6]** Toen nu Jezus in Bethanië was, in het huis van Simon, den melaatsche,
 
 **[26:7]** kwam tot Hem een vrouw die een albasten flesch had met kostbaren balsem, en zij goot dien uit over zijn hoofd terwijl Hij aanlag.
 
@@ -50124,15 +50124,15 @@
 
 **[26:12]** Want dat zij dezen balsem over mijn lichaam gegoten heeft, dit deed zij ter voorbereiding mijner begrafenis!
 
-**[26:13]** Voorwaar, Ik zeg u, overal waar dit Evangelie in de gansche wereld zal verkondigd worden, zal ook van hetgeen deze gedaan heeft, tot haar gedachtenis worden gesproken. 
+**[26:13]** Voorwaar, Ik zeg u, overal waar dit Evangelie in de gansche wereld zal verkondigd worden, zal ook van hetgeen deze gedaan heeft, tot haar gedachtenis worden gesproken.
 
-**[26:14]**  Toen ging een van de twaalven, genaamd Judas Iskariot, tot de overpriesters en zeide:
+**[26:14]** Toen ging een van de twaalven, genaamd Judas Iskariot, tot de overpriesters en zeide:
 
 **[26:15]** Wat wilt gij mij geven en ik zal Hem aan u overleveren? En zij wogen hem dertig zilverlingen toe.
 
-**[26:16]** En van toen af zocht hij een geschikte gelegenheid om Hem over te leveren. 
+**[26:16]** En van toen af zocht hij een geschikte gelegenheid om Hem over te leveren.
 
-**[26:17]**  En op den eersten dag der ongedeesemde brooden kwamen de discipelen tot Jezus, zeggende: Waar wilt Gij dat wij toebereidselen voor U maken om het pascha te eten?
+**[26:17]** En op den eersten dag der ongedeesemde brooden kwamen de discipelen tot Jezus, zeggende: Waar wilt Gij dat wij toebereidselen voor U maken om het pascha te eten?
 
 **[26:18]** En Hij zeide: Gaat naar de stad tot zoo iemand, en zegt tot hem: De Meester zegt: Mijn tijd is nabij, bij u houd Ik het paaschfeest met mijn discipelen.
 
@@ -50156,9 +50156,9 @@
 
 **[26:28]** want dit is mijn bloed, des Nieuwen Verbonds, dat voor velen vergoten wordt tot vergiffenis der zonden.
 
-**[26:29]** En Ik zeg u, Ik zal van nu af niet meer drinken van deze vrucht des wijnstoks tot op dien dag als Ik ze met u nieuw zal drinken in het koninkrijk mijns Vaders. 
+**[26:29]** En Ik zeg u, Ik zal van nu af niet meer drinken van deze vrucht des wijnstoks tot op dien dag als Ik ze met u nieuw zal drinken in het koninkrijk mijns Vaders.
 
-**[26:30]**  En als zij den lofzang gezongen hadden, gingen zij uit naar den Berg der Olijven.
+**[26:30]** En als zij den lofzang gezongen hadden, gingen zij uit naar den Berg der Olijven.
 
 **[26:31]** Toen zeide Jezus tot hen: Gij zult allen aan Mij geërgerd worden in dezen nacht; want er is geschreven: Ik zal den herder slaan en de schapen der kudde zullen verstrooid worden.
 
@@ -50168,9 +50168,9 @@
 
 **[26:34]** Jezus zeide tot hem: Voorwaar, Ik zeg u, dat gij in dezen zelfden nacht, voordat een haan kraait, Mij driemaal zult verloochenen.
 
-**[26:35]** Petrus zeide tot Hem: Al moest ik dan ook met U sterven, U verloochenen zal ik niet. Evenzoo spraken ook al de discipelen. 
+**[26:35]** Petrus zeide tot Hem: Al moest ik dan ook met U sterven, U verloochenen zal ik niet. Evenzoo spraken ook al de discipelen.
 
-**[26:36]**  Toen ging Jezus met hen naar een plaats, genaamd Gethsemane, en Hij zeide tot de discipelen: Zit hier neder, totdat Ik daar zal gegaan zijn om te bidden.
+**[26:36]** Toen ging Jezus met hen naar een plaats, genaamd Gethsemane, en Hij zeide tot de discipelen: Zit hier neder, totdat Ik daar zal gegaan zijn om te bidden.
 
 **[26:37]** En Petrus en de twee zonen van Zebedeüs medenemende, begon Hij bedroefd en zeer benauwd te worden.
 
@@ -50190,9 +50190,9 @@
 
 **[26:45]** Toen kwam Hij tot de discipelen en zeide tot hen: Slaapt nu voort en rust! Ziet, de ure is nabij en de Zoon des menschen wordt overgeleverd in de handen der zondaren.
 
-**[26:46]** Staat op, laat ons gaan! Ziet, hij is nabij die Mij verraadt. 
+**[26:46]** Staat op, laat ons gaan! Ziet, hij is nabij die Mij verraadt.
 
-**[26:47]**  En terwijl Hij nog sprak, ziet, Judas, een der twaalven, kwam, en met hem een groote schare met zwaarden en stokken, gezonden door de overpriesters en oudsten des volks.
+**[26:47]** En terwijl Hij nog sprak, ziet, Judas, een der twaalven, kwam, en met hem een groote schare met zwaarden en stokken, gezonden door de overpriesters en oudsten des volks.
 
 **[26:48]** En die Hem verried had hun een teeken gegeven, zeggende: Wien ik zal kussen, die is het; grijpt Hem!
 
@@ -50210,9 +50210,9 @@
 
 **[26:55]** Te dier ure zeide Jezus tot de schare: Als tegen een roover zijt gij uitgegaan met zwaarden en stokken om Mij gevangen te nemen! dagelijks was Ik bij u in den tempel gezeten om te leeren, en gij hebt Mij niet gegrepen.
 
-**[26:56]** Maar dit alles is geschied opdat de Schriften der profeten zouden vervuld worden. — Toen verlieten Hem al de discipelen en zij vluchtten. 
+**[26:56]** Maar dit alles is geschied opdat de Schriften der profeten zouden vervuld worden. — Toen verlieten Hem al de discipelen en zij vluchtten.
 
-**[26:57]**  Maar zij die Jezus gegrepen hadden, voerden Hem naar Kajafas, den hoogepriester, waar de schriftgeleerden en de oudsten vergaderd waren.
+**[26:57]** Maar zij die Jezus gegrepen hadden, voerden Hem naar Kajafas, den hoogepriester, waar de schriftgeleerden en de oudsten vergaderd waren.
 
 **[26:58]** Petrus evenwel volgde Hem van verre tot aan den voorhof van den hoogepriester, en hij ging daar binnen en zat bij de dienaren om den afloop te zien.
 
@@ -50234,9 +50234,9 @@
 
 **[26:67]** Toen spogen zij Hem in het aangezicht en sloegen Hem met vuisten, en zij sloegen Hem in zijn gezicht, zeggende:
 
-**[26:68]** Profeteer ons, Christus! Wie is hij, die U sloeg? 
+**[26:68]** Profeteer ons, Christus! Wie is hij, die U sloeg?
 
-**[26:69]**  En Petrus zat buiten in den voorhof; en er kwam een dienstmaagd bij hem, die zeide: Ook gij waart met Jezus den Galileër!
+**[26:69]** En Petrus zat buiten in den voorhof; en er kwam een dienstmaagd bij hem, die zeide: Ook gij waart met Jezus den Galileër!
 
 **[26:70]** Doch hij loochende het voor allen, zeggende: Ik weet niet wat gij zegt.
 
@@ -50248,15 +50248,15 @@
 
 **[26:74]** Toen begon hij zich te vervloeken en te zweren: Ik ken dien mensch niet! En terstond kraaide een haan.
 
-**[26:75]** En Petrus herinnerde zich het woord van Jezus, die gezegd had: Eer een haan zal kraaien, zult gij Mij driemaal verloochenen. En naar buiten gaande, weende hij bitter.  
+**[26:75]** En Petrus herinnerde zich het woord van Jezus, die gezegd had: Eer een haan zal kraaien, zult gij Mij driemaal verloochenen. En naar buiten gaande, weende hij bitter.
 
 ### Chapter 27
 
 **[27:1]** En toen het dag geworden was, beraadslaagden al de overpriesters en de oudsten des volks tegen Jezus, om Hem te dooden.
 
-**[27:2]** En zij bonden Hem en voerden Hem weg en leverden Hem over aan den stadhouder Pontius Pilatus. 
+**[27:2]** En zij bonden Hem en voerden Hem weg en leverden Hem over aan den stadhouder Pontius Pilatus.
 
-**[27:3]**  Toen nu Judas, de verrader, zag dat Jezus veroordeeld was, kreeg hij berouw en hij bracht de dertig zilverlingen aan de overpriesters en de oudsten terug en zeide:
+**[27:3]** Toen nu Judas, de verrader, zag dat Jezus veroordeeld was, kreeg hij berouw en hij bracht de dertig zilverlingen aan de overpriesters en de oudsten terug en zeide:
 
 **[27:4]** Ik heb gezondigd door onschuldig bloed te verraden! Maar zij zeiden: Wat gaat ons dat aan? dat is uw zaak!
 
@@ -50270,17 +50270,17 @@
 
 **[27:9]** Toen is vervuld wat gesproken is door den profeet Jeremia, als hij zegt: En zij hebben de dertig zilverlingen genomen, den prijs des gewaardeerden, dien zij gewaardeerd hebben, van de kinderen Israëls,
 
-**[27:10]** en zij hebben dien gegeven voor den akker des pottebakkers, gelijk mij de Heere bevolen heeft. 
+**[27:10]** en zij hebben dien gegeven voor den akker des pottebakkers, gelijk mij de Heere bevolen heeft.
 
-**[27:11]**  En Jezus stond voor den stadhouder. En de stadhouder vroeg Hem, zeggende: Zijt Gij de koning der Joden? En Jezus zeide: Gij zegt het.
+**[27:11]** En Jezus stond voor den stadhouder. En de stadhouder vroeg Hem, zeggende: Zijt Gij de koning der Joden? En Jezus zeide: Gij zegt het.
 
 **[27:12]** En terwijl Hij door de overpriesters en oudsten beschuldigd werd, antwoordde Hij niets.
 
 **[27:13]** Toen zeide Pilatus tot Hem: Hoort Gij niet hoeveel dezen tegen U getuigen?
 
-**[27:14]** Maar Hij antwoordde hem geen enkel woord, zoodat de stadhouder zich zeer verwonderde. 
+**[27:14]** Maar Hij antwoordde hem geen enkel woord, zoodat de stadhouder zich zeer verwonderde.
 
-**[27:15]**  Tegen het feest nu was de stadhouder gewoon het volk een gevangene los te laten, wien zij wilden.
+**[27:15]** Tegen het feest nu was de stadhouder gewoon het volk een gevangene los te laten, wien zij wilden.
 
 **[27:16]** En zij hadden toen een beruchten gevangene, Barabbas genaamd.
 
@@ -50302,9 +50302,9 @@
 
 **[27:25]** En het gansche volk antwoordde en zeide: Zijn bloed kome op ons en op onze kinderen!
 
-**[27:26]** Toen liet hij hun Barabbas los, en Jezus gegeeseld hebbende, gaf hij Hem over om gekruisigd te worden. 
+**[27:26]** Toen liet hij hun Barabbas los, en Jezus gegeeseld hebbende, gaf hij Hem over om gekruisigd te worden.
 
-**[27:27]**  Toen namen de soldaten van den stadhouder Jezus mede naar het rechthuis en vergaderden tegen Hem de gansche bende.
+**[27:27]** Toen namen de soldaten van den stadhouder Jezus mede naar het rechthuis en vergaderden tegen Hem de gansche bende.
 
 **[27:28]** En als zij Hem ontkleed hadden, deden zij Hem een scharlaken mantel om.
 
@@ -50338,9 +50338,9 @@
 
 **[27:43]** Op God heeft Hij vertrouwd! Dat die Hem dan nu redde, indien Hij Hem genegen is! Hij heeft toch gezegd: Ik ben Gods Zoon!
 
-**[27:44]** En hetzelfde verweten Hem ook de moordenaars die met Hem gekruisigd waren. 
+**[27:44]** En hetzelfde verweten Hem ook de moordenaars die met Hem gekruisigd waren.
 
-**[27:45]**  En van de zesde ure af was er duisternis over de geheele aarde tot de negende ure toe.
+**[27:45]** En van de zesde ure af was er duisternis over de geheele aarde tot de negende ure toe.
 
 **[27:46]** En omtrent de negende ure riep Jezus met een groote stem, zeggende: Eli! Eli! lema sabachtanei! dat is: Mijn God! mijn God! waarom hebt Gij Mij verlaten?
 
@@ -50362,9 +50362,9 @@
 
 **[27:55]** En daar waren vele vrouwen die het van verre aanschouwden; deze waren Jezus gevolgd van Galilea om Hem te dienen.
 
-**[27:56]** Onder deze was Maria Magdalena, en Maria, de moeder van Jakobus en Joses, en de moeder der zonen van Zebedeüs. 
+**[27:56]** Onder deze was Maria Magdalena, en Maria, de moeder van Jakobus en Joses, en de moeder der zonen van Zebedeüs.
 
-**[27:57]**  Toen het nu avond geworden was, kwam er een rijk man van Arimathea, genaamd Jozef, die ook zelf een discipel van Jezus was.
+**[27:57]** Toen het nu avond geworden was, kwam er een rijk man van Arimathea, genaamd Jozef, die ook zelf een discipel van Jezus was.
 
 **[27:58]** Deze kwam tot Pilatus en verzocht om het lichaam van Jezus. Toen gebood Pilatus het hem te geven.
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** En Pilatus zeide tot hen: Gij hebt een wacht; gaat heen en bewaakt het zoo goed gij kunt.
 
-**[27:66]** En zij gingen heen en bewaakten het graf met de wacht, den steen verzegeld hebbende.  
+**[27:66]** En zij gingen heen en bewaakten het graf met de wacht, den steen verzegeld hebbende.
 
 ### Chapter 28
 
@@ -50398,15 +50398,15 @@
 
 **[28:6]** Hij is hier niet; want Hij is verrezen zooals Hij gezegd heeft. Komt en ziet de plaats waar de Heere gelegen heeft.
 
-**[28:7]** En gaat spoedig heen en zegt tot zijn discipelen dat Hij is verrezen van de dooden; en ziet, Hij gaat u voor naar Galilea; daar zult gij Hem zien; ziet, ik heb het u gezegd. 
+**[28:7]** En gaat spoedig heen en zegt tot zijn discipelen dat Hij is verrezen van de dooden; en ziet, Hij gaat u voor naar Galilea; daar zult gij Hem zien; ziet, ik heb het u gezegd.
 
-**[28:8]**  En spoedig heengaande van het graf met vrees en groote vreugde, liepen zij heen om het aan zijn discipelen te boodschappen.
+**[28:8]** En spoedig heengaande van het graf met vrees en groote vreugde, liepen zij heen om het aan zijn discipelen te boodschappen.
 
 **[28:9]** En als zij heengingen om aan zijn discipelen te boodschappen, ziet, Jezus ontmoette haar en zeide: Weest gegroet! En zij kwamen toe en omhelsden zijn voeten en aanbaden Hem.
 
-**[28:10]** Toen zeide Jezus tot haar: Vreest niet! gaat heen, boodschapt aan mijn broederen dat zij naar Galilea moeten gaan en daar zullen zij Mij zien. 
+**[28:10]** Toen zeide Jezus tot haar: Vreest niet! gaat heen, boodschapt aan mijn broederen dat zij naar Galilea moeten gaan en daar zullen zij Mij zien.
 
-**[28:11]**  Terwijl zij nu heengingen, ziet, eenigen van de wacht kwamen naar de stad en boodschapten aan de overpriesters al wat er geschied was.
+**[28:11]** Terwijl zij nu heengingen, ziet, eenigen van de wacht kwamen naar de stad en boodschapten aan de overpriesters al wat er geschied was.
 
 **[28:12]** En zij vergaderden met de oudsten, en toen zij beraadslaagd hadden, gaven zij aan de soldaten veel geld, zeggende:
 
@@ -50414,9 +50414,9 @@
 
 **[28:14]** En als dit aan den stadhouder mocht ter oore komen, dan zullen wij hem tevreden en u buiten zorg stellen.
 
-**[28:15]** En zij namen het geld en deden zooals men hun gezegd had. En dit verhaal is verbreid onder de Joden tot op den huidigen dag. 
+**[28:15]** En zij namen het geld en deden zooals men hun gezegd had. En dit verhaal is verbreid onder de Joden tot op den huidigen dag.
 
-**[28:16]**  Doch de elf discipelen zijn heengegaan naar Galilea, naar den berg dien Jezus hun aangewezen had.
+**[28:16]** Doch de elf discipelen zijn heengegaan naar Galilea, naar den berg dien Jezus hun aangewezen had.
 
 **[28:17]** En als zij Hem zagen, aanbaden zij Hem; doch sommigen twijfelden.
 
@@ -50424,15 +50424,15 @@
 
 **[28:19]** Gaat heen, maakt alle volken tot mijn discipelen, hen doopende in den Naam des Vaders en des Zoons en des Heiligen Geestes; hen leerende te onderhouden alles wat Ik u geboden heb.
 
-**[28:20]** En ziet, Ik ben met u al de dagen tot aan het einde der eeuw. Amen.   
+**[28:20]** En ziet, Ik ben met u al de dagen tot aan het einde der eeuw. Amen.
 
 ## Mark
 
 ### Chapter 1
 
-**[1:1]** Begin van het Evangelie van Jezus Christus, den Zoon van God. 
+**[1:1]** Begin van het Evangelie van Jezus Christus, den Zoon van God.
 
-**[1:2]**  Zooals geschreven is in den profeet Jesaja: Zie, Ik zend mijn boodschapper voor u heen, die uw weg bereiden zal;
+**[1:2]** Zooals geschreven is in den profeet Jesaja: Zie, Ik zend mijn boodschapper voor u heen, die uw weg bereiden zal;
 
 **[1:3]** een stem van een die roept in de woestijn: Bereidt den weg des Heeren, maakt zijn paden recht!
 
@@ -50444,23 +50444,23 @@
 
 **[1:7]** En hij predikte, zeggende: Na mij komt Hij, die machtiger is dan ik, wien ik niet waardig ben, nederbukkende, den riem zijner schoenen los te maken;
 
-**[1:8]** ik heb u gedoopt met water, maar Hij zal u doopen met den Heiligen Geest. 
+**[1:8]** ik heb u gedoopt met water, maar Hij zal u doopen met den Heiligen Geest.
 
-**[1:9]**  En het geschiedde in die dagen dat Jezus kwam van Nazaret in Galilea, en gedoopt werd in den Jordaan door Johannes.
+**[1:9]** En het geschiedde in die dagen dat Jezus kwam van Nazaret in Galilea, en gedoopt werd in den Jordaan door Johannes.
 
 **[1:10]** En terstond, terwijl Hij opklom uit het water, zag hij de hemelen scheuren en den Geest zooals een duive op Hem nederdalen.
 
-**[1:11]** En een stem kwam uit de hemelen: Gij zijt mijn Zoon, de Beminde, in U heb Ik welbehagen! 
+**[1:11]** En een stem kwam uit de hemelen: Gij zijt mijn Zoon, de Beminde, in U heb Ik welbehagen!
 
-**[1:12]**  En terstond voerde de Geest Hem uit naar de woestijn;
+**[1:12]** En terstond voerde de Geest Hem uit naar de woestijn;
 
-**[1:13]** en Hij was in de woestijn veertig dagen lang, bekoord van den Satan; en Hij was bij de wilde beesten, en de engelen dienden Hem. 
+**[1:13]** en Hij was in de woestijn veertig dagen lang, bekoord van den Satan; en Hij was bij de wilde beesten, en de engelen dienden Hem.
 
-**[1:14]**  Nadat nu Johannes was overgeleverd, kwam Jezus naar Galilea, predikende het Evangelie van het koninkrijk Gods, zeggende:
+**[1:14]** Nadat nu Johannes was overgeleverd, kwam Jezus naar Galilea, predikende het Evangelie van het koninkrijk Gods, zeggende:
 
-**[1:15]** De tijd is vervuld en het koninkrijk Gods nabij! doet boetvaardigheid en gelooft in het Evangelie! 
+**[1:15]** De tijd is vervuld en het koninkrijk Gods nabij! doet boetvaardigheid en gelooft in het Evangelie!
 
-**[1:16]**  En langs de zee van Galilea gaande, zag Hij Simon en Andreas, den broeder van Simon, het net in de zee werpen, want zij waren visschers.
+**[1:16]** En langs de zee van Galilea gaande, zag Hij Simon en Andreas, den broeder van Simon, het net in de zee werpen, want zij waren visschers.
 
 **[1:17]** En Jezus zeide tot hen: Komt achter Mij, en Ik zal u visschers van menschen doen worden!
 
@@ -50468,13 +50468,13 @@
 
 **[1:19]** En vandaar een weinig voortgaande zag Hij Jakobus, den zoon van Zebedeüs, en Johannes zijn broeder, die in het schip de netten herstelden.
 
-**[1:20]** En terstond riep Hij hen, en zij lieten hun vader Zebedeüs in het schip met de knechten, en gingen heen, Hem achterna. 
+**[1:20]** En terstond riep Hij hen, en zij lieten hun vader Zebedeüs in het schip met de knechten, en gingen heen, Hem achterna.
 
-**[1:21]**  En zij kwamen naar Kapernaüm, en terstond ging Hij op den sabbat in de synagoge om onderwijs te geven.
+**[1:21]** En zij kwamen naar Kapernaüm, en terstond ging Hij op den sabbat in de synagoge om onderwijs te geven.
 
-**[1:22]** En zij stonden verbaasd over zijn onderwijs, want Hij leerde hen als een machthebbende, en niet zooals de schriftgeleerden. 
+**[1:22]** En zij stonden verbaasd over zijn onderwijs, want Hij leerde hen als een machthebbende, en niet zooals de schriftgeleerden.
 
-**[1:23]**  En er was in hun synagoge een mensch met een onzuiveren geest, en die schreeuwde en zeide:
+**[1:23]** En er was in hun synagoge een mensch met een onzuiveren geest, en die schreeuwde en zeide:
 
 **[1:24]** Wat hebben wij met U te doen, Jezus de Nazarener? Zijt Gij gekomen om ons te verderven? We weten wie Gij zijt! — de Heilige Gods!
 
@@ -50484,9 +50484,9 @@
 
 **[1:27]** En allen stonden verbaasd, zoodat zij onder malkander vroegen, zeggende: Wat is dat? Een nieuwe leer! met macht gebiedt Hij zelfs de onzuivere geesten, en die gehoorzamen Hem!
 
-**[1:28]** En zijn gerucht ging terstond overal uit, door het geheele omliggende land van Galilea. 
+**[1:28]** En zijn gerucht ging terstond overal uit, door het geheele omliggende land van Galilea.
 
-**[1:29]**  En terstond uit de synagoge gegaan zijnde kwamen zij naar het huis van Simon en van Andreas, met Jakobus en Johannes.
+**[1:29]** En terstond uit de synagoge gegaan zijnde kwamen zij naar het huis van Simon en van Andreas, met Jakobus en Johannes.
 
 **[1:30]** De schoonmoeder nu van Simon lag aan de koorts, en terstond spraken ze tot Hem over haar.
 
@@ -50496,9 +50496,9 @@
 
 **[1:33]** En de geheele stad was samenvergaderd bij de deur.
 
-**[1:34]** En Hij genas er velen die krank waren aan allerlei ziekten, en vele booze geesten wierp Hij uit, en liet de booze geesten niet toe te spreken, omdat zij Hem kenden. 
+**[1:34]** En Hij genas er velen die krank waren aan allerlei ziekten, en vele booze geesten wierp Hij uit, en liet de booze geesten niet toe te spreken, omdat zij Hem kenden.
 
-**[1:35]**  En vroeg, toen het nog diep in den nacht was, opgestaan zijnde, ging Hij uit en begaf zich naar een eenzame plaats, en daar bad Hij.
+**[1:35]** En vroeg, toen het nog diep in den nacht was, opgestaan zijnde, ging Hij uit en begaf zich naar een eenzame plaats, en daar bad Hij.
 
 **[1:36]** En Simon, en die met hem waren, volgden Hem na,
 
@@ -50506,9 +50506,9 @@
 
 **[1:38]** En Hij zeide tot hen: Laat ons heengaan naar de nabijgelegen marktplaatsen, opdat Ik ook daar predike, want daartoe ben Ik uitgegaan.
 
-**[1:39]** En Hij ging, predikende in hun synagogen door geheel Galilea, en wierp de booze geesten uit. 
+**[1:39]** En Hij ging, predikende in hun synagogen door geheel Galilea, en wierp de booze geesten uit.
 
-**[1:40]**  En er kwam een melaatsche tot Hem, die Hem bad en op de knieën vallende tot Hem zeide: Als Gij wilt, kunt Gij mij zuiveren!
+**[1:40]** En er kwam een melaatsche tot Hem, die Hem bad en op de knieën vallende tot Hem zeide: Als Gij wilt, kunt Gij mij zuiveren!
 
 **[1:41]** En Jezus met medelijden bewogen zijnde, strekte zijn hand uit, raakte hem aan en zeide: Ik wil, word gezuiverd!
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** en zeide tot hem: Zie toe, zeg aan niemand iets, maar ga heen, vertoon u aan den priester en offer voor uw zuivering wat Mozes geboden heeft, hun tot een getuigenis!
 
-**[1:45]** Maar hij ging uit en begon veel te verkondigen en de zaak te verbreiden, zoodat Jezus niet meer openlijk naar de stad kon komen; maar Hij was buiten in eenzame plaatsen; en zij kwamen tot Hem van alle kanten.  
+**[1:45]** Maar hij ging uit en begon veel te verkondigen en de zaak te verbreiden, zoodat Jezus niet meer openlijk naar de stad kon komen; maar Hij was buiten in eenzame plaatsen; en zij kwamen tot Hem van alle kanten.
 
 ### Chapter 2
 
@@ -50544,9 +50544,9 @@
 
 **[2:11]** Ik zeg u, sta op, neem uw bed op en ga heen naar uw huis!
 
-**[2:12]** En hij stond op en nam terstond het bed op en ging uit voor aller oogen, zoodat allen verbaasd waren en God de glorie gaven, zeggende: Zoo iets hebben wij nooit gezien! 
+**[2:12]** En hij stond op en nam terstond het bed op en ging uit voor aller oogen, zoodat allen verbaasd waren en God de glorie gaven, zeggende: Zoo iets hebben wij nooit gezien!
 
-**[2:13]**  En Hij ging wederom uit naar de zee en al het volk kwam tot Hem en Hij onderwees hen.
+**[2:13]** En Hij ging wederom uit naar de zee en al het volk kwam tot Hem en Hij onderwees hen.
 
 **[2:14]** En voorbijgaande zag Hij Levi, den zoon van Alfeüs, aan het tolhuis zitten, en Hij zeide tot hem: Volg Mij na! — En opstaande volgde hij Hem na.
 
@@ -50554,9 +50554,9 @@
 
 **[2:16]** En de schriftgeleerden en fariseërs, als ze zagen dat Hij at met de tollenaars en zondaars, zeiden tot zijn discipelen: Waarom eet en drinkt Hij met de tollenaars en zondaars?
 
-**[2:17]** En Jezus dit hoorende zeide tot hen: Niet de gezonden hebben een geneesmeester noodig, maar de zieken; Ik ben niet gekomen om rechtvaardigen te roepen, maar zondaars! 
+**[2:17]** En Jezus dit hoorende zeide tot hen: Niet de gezonden hebben een geneesmeester noodig, maar de zieken; Ik ben niet gekomen om rechtvaardigen te roepen, maar zondaars!
 
-**[2:18]**  En de discipelen van Johannes en van de fariseërs waren vastende, en zij kwamen en zeiden tot Hem: Waarom vasten de discipelen van Johannes en die der fariseërs, maar uw discipelen vasten niet?
+**[2:18]** En de discipelen van Johannes en van de fariseërs waren vastende, en zij kwamen en zeiden tot Hem: Waarom vasten de discipelen van Johannes en die der fariseërs, maar uw discipelen vasten niet?
 
 **[2:19]** En Jezus zeide tot hen: Kunnen dan de bruiloftsgasten vasten terwijl de bruidegom bij hen is? Zoolang zij den bruidegom bij zich hebben, kunnen zij niet vasten!
 
@@ -50564,9 +50564,9 @@
 
 **[2:21]** Niemand toch naait een stuk ongekrompen laken op een oud kleed; anders scheurt het ingezette stuk, dat nieuw is, van het oude af, en de scheur wordt erger.
 
-**[2:22]** En niemand giet jongen wijn in oude zakken, anders doet de wijn de zakken barsten, en de wijn wordt uitgestort, en de zakken gaan verloren; maar jongen wijn moet men in nieuwe zakken gieten. 
+**[2:22]** En niemand giet jongen wijn in oude zakken, anders doet de wijn de zakken barsten, en de wijn wordt uitgestort, en de zakken gaan verloren; maar jongen wijn moet men in nieuwe zakken gieten.
 
-**[2:23]**  En het geschiedde dat Hij op den sabbat door het korenveld ging, en zijn discipelen begonnen al gaande, aren te plukken.
+**[2:23]** En het geschiedde dat Hij op den sabbat door het korenveld ging, en zijn discipelen begonnen al gaande, aren te plukken.
 
 **[2:24]** En de fariseërs zeiden tot Hem: Zie, waarom doen zij op den sabbat wat niet geoorloofd is?
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** En Hij zeide tot hen: De sabbat is gemaakt om den mensch, en niet de mensch om den sabbat.
 
-**[2:28]** Zoo is de Zoon des menschen Heer, ook van den sabbat!  
+**[2:28]** Zoo is de Zoon des menschen Heer, ook van den sabbat!
 
 ### Chapter 3
 
@@ -50588,23 +50588,23 @@
 
 **[3:4]** En Hij zeide tot hen: Is het geoorloofd op den sabbat goed te doen of kwaad te doen? een ziel te behouden of te dooden? — Maar zij zwegen stil.
 
-**[3:5]** En als Hij rondom hen aangezien had met toorn, te gelijk bedroefd over de verharding van hun harte, zeide Hij tot den mensch: Steek uw hand uit! — En hij stak ze uit en zijn hand was genezen. 
+**[3:5]** En als Hij rondom hen aangezien had met toorn, te gelijk bedroefd over de verharding van hun harte, zeide Hij tot den mensch: Steek uw hand uit! — En hij stak ze uit en zijn hand was genezen.
 
-**[3:6]**  En de fariseërs gingen uit en hielden terstond met de herodianen raad tegen Hem, hoe ze Hem ten val brengen zouden. 
+**[3:6]** En de fariseërs gingen uit en hielden terstond met de herodianen raad tegen Hem, hoe ze Hem ten val brengen zouden.
 
-**[3:7]**  En Jezus vertrok met zijn discipelen naar de zee, en een groote menigte van Galilea en van Judea volgde Hem,
+**[3:7]** En Jezus vertrok met zijn discipelen naar de zee, en een groote menigte van Galilea en van Judea volgde Hem,
 
 **[3:8]** en van Jerusalem, en van Idumea, en van over den Jordaan, en van bij Tyrus en Sidon; een groote menigte, die gehoord had hoe groote dingen Hij deed, kwam tot Hem.
 
-**[3:9]** En Hij zeide tot zijn discipelen dat er een scheepken bij Hem moest blijven wegens de schare; opdat ze Hem niet zouden verdringen; 
+**[3:9]** En Hij zeide tot zijn discipelen dat er een scheepken bij Hem moest blijven wegens de schare; opdat ze Hem niet zouden verdringen;
 
 **[3:10]** want velen genas Hij, zoodat al wie krankheden hadden, op Hem aandrongen, om Hem aan te raken.
 
 **[3:11]** En de onzuivere geesten, als ze Hem zagen, vielen voor Hem neder, en schreeuwden, zeggende: Gij zijt de Zone Gods!
 
-**[3:12]** En Hij gebood hun scherpelijk dat zij Hem niet openbaar zouden maken. 
+**[3:12]** En Hij gebood hun scherpelijk dat zij Hem niet openbaar zouden maken.
 
-**[3:13]**  En Hij klom op een berg en riep tot zich die Hij zelf wilde, en zij kwamen tot Hem.
+**[3:13]** En Hij klom op een berg en riep tot zich die Hij zelf wilde, en zij kwamen tot Hem.
 
 **[3:14]** En Hij stelde er twaalf aan, om met Hem te zijn, en om die uit te zenden om te prediken,
 
@@ -50618,11 +50618,11 @@
 
 **[3:19]** en Judas Iskariot, die Hem ook verraden heeft.
 
-**[3:20]** En zij kwamen in huis, en wederom vergaderde een menigte, zoodat zij zelfs geen brood konden eten. 
+**[3:20]** En zij kwamen in huis, en wederom vergaderde een menigte, zoodat zij zelfs geen brood konden eten.
 
-**[3:21]**  En als zijn familie dit gehoord had, kwamen zij om Hem te vatten, want zij zeiden dat Hij uitzinnig was. 
+**[3:21]** En als zijn familie dit gehoord had, kwamen zij om Hem te vatten, want zij zeiden dat Hij uitzinnig was.
 
-**[3:22]**  En de schriftgeleerden, die van Jerusalem afgekomen waren, zeiden: Hij heeft Beëlzebul, en door den overste der booze geesten werpt Hij de booze geesten uit!
+**[3:22]** En de schriftgeleerden, die van Jerusalem afgekomen waren, zeiden: Hij heeft Beëlzebul, en door den overste der booze geesten werpt Hij de booze geesten uit!
 
 **[3:23]** En Hij riep hen tot zich en sprak in gelijkenissen tot hen: Hoe kan Satan den Satan uitwerpen?
 
@@ -50638,17 +50638,17 @@
 
 **[3:29]** maar zoo wie tegen den Heiligen Geest zal lasteren, — hij heeft geen vergiffenis in eeuwigheid, maar hij zal schuldig zijn aan een eeuwige zonde.
 
-**[3:30]** Want zij zeiden: Hij heeft een onzuiveren geest! 
+**[3:30]** Want zij zeiden: Hij heeft een onzuiveren geest!
 
-**[3:31]**  En zijn moeder kwam, met zijn broeders, en buiten staande zonden zij tot Hem, en riepen Hem.
+**[3:31]** En zijn moeder kwam, met zijn broeders, en buiten staande zonden zij tot Hem, en riepen Hem.
 
 **[3:32]** En er zat een menigte volks rondom Hem, en zij zeiden tot Hem: Zie, uw moeder en uw broeders daarbuiten zoeken U!
 
-**[3:33]** En Hij antwoordde en zeide tot hen: Wie zijn mijn moeder of mijn broeders?; 
+**[3:33]** En Hij antwoordde en zeide tot hen: Wie zijn mijn moeder of mijn broeders?;
 
 **[3:34]** En rondom ziende, op degenen die om Hem heen zaten, zeide Hij: Ziet, mijn moeder en mijn broeders!
 
-**[3:35]** Want al wie den wil van God doet, die is mijn broeder, en zuster, en moeder.  
+**[3:35]** Want al wie den wil van God doet, die is mijn broeder, en zuster, en moeder.
 
 ### Chapter 4
 
@@ -50668,21 +50668,21 @@
 
 **[4:8]** En een ander deel viel op den goeden grond en gaf een vrucht die opschoot en groeide, en bracht op tot dertig– en tot zestig– en tot honderdvoud.
 
-**[4:9]** En Hij zeide: Wie ooren heeft om te hooren, die hoore! 
+**[4:9]** En Hij zeide: Wie ooren heeft om te hooren, die hoore!
 
-**[4:10]**  En toen Hij alleen was vroegen zij, die bij Hem waren met de twaalven, Hem naar de gelijkenis.
+**[4:10]** En toen Hij alleen was vroegen zij, die bij Hem waren met de twaalven, Hem naar de gelijkenis.
 
 **[4:11]** En Hij zeide tot hen: Aan ulieden is de verborgenheid van het koninkrijk Gods te verstaan gegeven, maar dezen die buiten zijn, geschiedt alles in gelijkenissen,
 
-**[4:12]** opdat zij ziende zien, en niet opmerken, en hoorende hooren, en niet verstaan, opdat zij niet misschien zich zouden bekeeren en hun vergiffenis geschiede! 
+**[4:12]** opdat zij ziende zien, en niet opmerken, en hoorende hooren, en niet verstaan, opdat zij niet misschien zich zouden bekeeren en hun vergiffenis geschiede!
 
-**[4:13]**  En Hij zeide tot hen: Weet gij deze gelijkenis niet? En hoe zult gij dan al de gelijkenissen verstaan?
+**[4:13]** En Hij zeide tot hen: Weet gij deze gelijkenis niet? En hoe zult gij dan al de gelijkenissen verstaan?
 
 **[4:14]** De zaaier zaait het woord.
 
 **[4:15]** Dezen nu zijn het die bij den weg gezaaid zijn, waar het woord gezaaid wordt, en als zij het gehoord hebben, de Satan terstond komt en het woord wegneemt, dat in hen gezaaid is.
 
-**[4:16]** En zoo zijn ook dezen die op den rotsgrond worden gezaaid, die, als zij het woord gehoord hebben, het terstond met blijdschap aannemen; 
+**[4:16]** En zoo zijn ook dezen die op den rotsgrond worden gezaaid, die, als zij het woord gehoord hebben, het terstond met blijdschap aannemen;
 
 **[4:17]** doch zij hebben geen wortel in zich zelven, maar zijn voor een tijd; daarna als er verdrukking komt of vervolging om des woords wil, dan worden zij terstond geërgerd.
 
@@ -50700,27 +50700,27 @@
 
 **[4:24]** En Hij zeide tot hen: Ziet toe, wat gij hoort! Met de mate waarmede gij meet, zal u gemeten worden, en u zal nog toegevoegd worden!
 
-**[4:25]** Want wie heeft, hem zal gegeven worden; en wie niet heeft, ook wat hij heeft zal van hem weggenomen worden. 
+**[4:25]** Want wie heeft, hem zal gegeven worden; en wie niet heeft, ook wat hij heeft zal van hem weggenomen worden.
 
-**[4:26]**  En Hij zeide: Alzoo is het koninkrijk Gods, gelijk wanneer een mensch het zaad in den grond geworpen heeft,
+**[4:26]** En Hij zeide: Alzoo is het koninkrijk Gods, gelijk wanneer een mensch het zaad in den grond geworpen heeft,
 
 **[4:27]** en slaapt, en opstaat, nacht en dag, en het zaad spruit voort en wordt lang hij weet zelf niet hoe.
 
 **[4:28]** Vanzelf toch brengt de aarde vrucht voort; eerst een stengel, dan een aar, dan volkomen graan in de aar.
 
-**[4:29]** En als de vrucht het toelaat, zendt hij er terstond de sikkel in, omdat de oogst is gekomen. 
+**[4:29]** En als de vrucht het toelaat, zendt hij er terstond de sikkel in, omdat de oogst is gekomen.
 
-**[4:30]**  En Hij zeide: Hoe zullen wij het koninkrijk Gods vergelijken, of in welke gelijkenis zullen wij het voorstellen?
+**[4:30]** En Hij zeide: Hoe zullen wij het koninkrijk Gods vergelijken, of in welke gelijkenis zullen wij het voorstellen?
 
 **[4:31]** Als een mosterdzaad, dat, als het in de aarde gezaaid wordt, het kleinste is van al de zaden op de aarde,
 
 **[4:32]** en als het gezaaid is, schiet het op en het wordt het grootste van de moeskruiden, en maakt groote takken, zoodat onder zijn schaduw de vogelen des hemels kunnen verschuilen.
 
-**[4:33]** En in veel zulke gelijkenissen sprak Hij tot hen het woord, naar dat zij het konden verstaan; 
+**[4:33]** En in veel zulke gelijkenissen sprak Hij tot hen het woord, naar dat zij het konden verstaan;
 
-**[4:34]** maar zonder gelijkenis sprak Hij tot hen niet, maar afzonderlijk verklaarde Hij alles voor zijn discipelen. 
+**[4:34]** maar zonder gelijkenis sprak Hij tot hen niet, maar afzonderlijk verklaarde Hij alles voor zijn discipelen.
 
-**[4:35]**  En Hij zeide tot hen, op denzelfden dag, toen het avond was geworden: Laat ons overgaan, naar den anderen kant!
+**[4:35]** En Hij zeide tot hen, op denzelfden dag, toen het avond was geworden: Laat ons overgaan, naar den anderen kant!
 
 **[4:36]** En het volk verlatende namen zij Hem, zooals Hij was, in het schip; en er waren andere schepen bij Hem.
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** En Hij zeide tot hen: Wat zijt gij zoo bevreesd? Hoe, hebt gij geen geloof?
 
-**[4:41]** En zij vreesden met groote vreeze en zeiden tot malkander: Wie is deze toch, dat zelfs de wind en de zee Hem gehoorzamen?  
+**[4:41]** En zij vreesden met groote vreeze en zeiden tot malkander: Wie is deze toch, dat zelfs de wind en de zee Hem gehoorzamen?
 
 ### Chapter 5
 
@@ -50774,17 +50774,17 @@
 
 **[5:19]** Doch Jezus liet hem dat niet toe, maar zeide tot hem: Ga naar uw huis, tot uw familie, en vertel hun wat groote dingen de Heere u gedaan heeft en dat Hij zich over u ontfermd heeft!
 
-**[5:20]** En hij ging weg en begon te prediken in Dekapolis wat groote dingen Jezus hem gedaan had. En allen verwonderden zich. 
+**[5:20]** En hij ging weg en begon te prediken in Dekapolis wat groote dingen Jezus hem gedaan had. En allen verwonderden zich.
 
-**[5:21]**  En als Jezus wederom in het schip naar den anderen kant was overgevaren, vergaderde een groote schare bij Hem, en Hij was bij de zee.
+**[5:21]** En als Jezus wederom in het schip naar den anderen kant was overgevaren, vergaderde een groote schare bij Hem, en Hij was bij de zee.
 
 **[5:22]** En er kwam een van de oversten der synagoge, met name Jaïrus, en Hem ziende, viel hij aan zijn voeten,
 
 **[5:23]** en verzocht Hem dringend, zeggende: Mijn dochterken ligt in haar uiterste; kom toch, leg de handen op haar, opdat zij gezond worde en leve!
 
-**[5:24]** En Hij ging met hem, en een groote menigte volgde Hem en zij verdrongen Hem. 
+**[5:24]** En Hij ging met hem, en een groote menigte volgde Hem en zij verdrongen Hem.
 
-**[5:25]**  En een vrouw, die twaalf jaar lang het bloedvloeien gehad had,
+**[5:25]** En een vrouw, die twaalf jaar lang het bloedvloeien gehad had,
 
 **[5:26]** en veel geleden had van veel geneesmeesters, en al wat zij had er aan te koste gelegd had, en die niets beter maar eerder erger geworden was,
 
@@ -50802,9 +50802,9 @@
 
 **[5:33]** De vrouw nu, bevreesd en bevende zijnde, en weten de wat aan haar gebeurd was, kwam en viel voor Hem neder en zeide Hem de gansche waarheid.
 
-**[5:34]** En Hij zeide tot haar: Dochter, uw geloof heeft u gezond gemaakt! ga heen in vrede en wees genezen van uw kwaal! 
+**[5:34]** En Hij zeide tot haar: Dochter, uw geloof heeft u gezond gemaakt! ga heen in vrede en wees genezen van uw kwaal!
 
-**[5:35]**  Terwijl Hij nog sprak kwamen er van den overste der synagoge, die zeiden: Uw dochter is gestorven, wat valt gij den Meester nog lastig?
+**[5:35]** Terwijl Hij nog sprak kwamen er van den overste der synagoge, die zeiden: Uw dochter is gestorven, wat valt gij den Meester nog lastig?
 
 **[5:36]** Maar toen Jezus het woord gehoord had, dat gesproken was, zeide Hij tot den overste der synagoge: Vrees niet, geloof maar!
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** En terstond rees het dochterken op en wandelde, want het was twaalf jaar oud; en zij waren ten uiterste verwonderd.
 
-**[5:43]** En Hij gebood hun scherp dat zij dit aan niemand mochten doen weten, en zeide dat haar wat eten moest gegeven worden.  
+**[5:43]** En Hij gebood hun scherp dat zij dit aan niemand mochten doen weten, en zeide dat haar wat eten moest gegeven worden.
 
 ### Chapter 6
 
@@ -50834,9 +50834,9 @@
 
 **[6:5]** En Hij kon aldaar geen kracht doen, behalve dat Hij aan weinige zieken de handen opleide en ze genas.
 
-**[6:6]** En Hij verwonderde zich over hun ongeloof, en trok, onderwijs gevende, door de omliggende dorpen. 
+**[6:6]** En Hij verwonderde zich over hun ongeloof, en trok, onderwijs gevende, door de omliggende dorpen.
 
-**[6:7]**  En Hij riep de twaalven tot zich, en begon hen uit te zenden twee aan twee, en gaf hun macht over de onzuivere geesten.
+**[6:7]** En Hij riep de twaalven tot zich, en begon hen uit te zenden twee aan twee, en gaf hun macht over de onzuivere geesten.
 
 **[6:8]** En Hij gebood hun dat zij niets zouden meenemen op reis, dan alleen een staf; geen reiszak, geen brood, geen geld in de beurs,
 
@@ -50848,15 +50848,15 @@
 
 **[6:12]** En zij gingen uit en predikten dat zij boetvaardigheid zouden doen;
 
-**[6:13]** en veel booze geesten wierpen zij uit, en zalfden veel kranken met olie, en maakten ze gezond. 
+**[6:13]** en veel booze geesten wierpen zij uit, en zalfden veel kranken met olie, en maakten ze gezond.
 
-**[6:14]**  En de koning Herodes hoorde het, want zijn naam werd vermaard, en zeide: Johannes de Dooper is verrezen uit de dooden, en daarom werken die krachten in Hem!
+**[6:14]** En de koning Herodes hoorde het, want zijn naam werd vermaard, en zeide: Johannes de Dooper is verrezen uit de dooden, en daarom werken die krachten in Hem!
 
 **[6:15]** Anderen nu zeiden: Hij is Elias! En anderen zeiden: Hij is een profeet als een der profeten.
 
-**[6:16]** Maar toen Herodes het hoorde zeide hij: Het is Johannes, dien ik onthoofd heb, die uit de dooden is verrezen! 
+**[6:16]** Maar toen Herodes het hoorde zeide hij: Het is Johannes, dien ik onthoofd heb, die uit de dooden is verrezen!
 
-**[6:17]**  Want deze Herodes had gezonden om Johannes te vangen, en hij had hem in de gevangenis geboeid, ter oorzake van Herodias, de vrouw van Filippus, zijn broeder, omdat hij haar getrouwd had.
+**[6:17]** Want deze Herodes had gezonden om Johannes te vangen, en hij had hem in de gevangenis geboeid, ter oorzake van Herodias, de vrouw van Filippus, zijn broeder, omdat hij haar getrouwd had.
 
 **[6:18]** Want Johannes zeide tot Herodes: Het is u niet geoorloofd de vrouw uws broeders te hebben!
 
@@ -50880,17 +50880,17 @@
 
 **[6:28]** Deze nu ging weg en onthoofdde hem in de gevangenis, en hij bracht zijn hoofd op een schotel en gaf het aan het dochterken, en het dochterken gaf het aan haar moeder.
 
-**[6:29]** En zijn discipelen hoorden het en kwamen en namen zijn lijk weg en leiden het in een graf. 
+**[6:29]** En zijn discipelen hoorden het en kwamen en namen zijn lijk weg en leiden het in een graf.
 
-**[6:30]**  En de apostelen verzamelden zich tot Jezus en boodschapten Hem al wat zij gedaan en geleerd hadden.
+**[6:30]** En de apostelen verzamelden zich tot Jezus en boodschapten Hem al wat zij gedaan en geleerd hadden.
 
 **[6:31]** En Hij zeide tot hen: Komt mede, gijlieden alleen, naar een eenzame plaats en rust een weinig! — Want er waren er velen die kwamen en gingen, en zij hadden zelfs geen tijd om te eten.
 
 **[6:32]** En zij vertrokken afzonderlijk per schip naar een eenzame plaats.
 
-**[6:33]** En de schare zag hen weggaan; en velen kenden hen en liepen over land van alle steden daar samen en kwamen eer dan zij aan. 
+**[6:33]** En de schare zag hen weggaan; en velen kenden hen en liepen over land van alle steden daar samen en kwamen eer dan zij aan.
 
-**[6:34]**  En Jezus ging uit en zag een groote menigte, en kreeg innerlijk medelijden met hen, omdat ze waren als schapen die geen herder hebben, en Hij begon hun veel te leeren.
+**[6:34]** En Jezus ging uit en zag een groote menigte, en kreeg innerlijk medelijden met hen, omdat ze waren als schapen die geen herder hebben, en Hij begon hun veel te leeren.
 
 **[6:35]** En toen het al laat was geworden kwamen zijn discipelen tot Hem en zeiden: Deze plaats is eenzaam, en het is al laat;
 
@@ -50910,9 +50910,9 @@
 
 **[6:43]** en zij namen twaalf volle korven met brokken op, en ook van de visschen.
 
-**[6:44]** En die de brooden gegeten hadden, waren vijf duizend mannen. 
+**[6:44]** En die de brooden gegeten hadden, waren vijf duizend mannen.
 
-**[6:45]**  En terstond dwong Hij zijn discipelen naar het schip te gaan en vooruit te varen naar den overkant, naar Bethsaïda, terwijl Hij de schare van zich zou laten.
+**[6:45]** En terstond dwong Hij zijn discipelen naar het schip te gaan en vooruit te varen naar den overkant, naar Bethsaïda, terwijl Hij de schare van zich zou laten.
 
 **[6:46]** En als Hij van hen afscheid had genomen, ging Hij naar een berg om te bidden.
 
@@ -50926,15 +50926,15 @@
 
 **[6:51]** En Hij klom tot hen in het schip en de wind bedaarde; en zij waren in zich zelven bovenmate zeer ontroerd,
 
-**[6:52]** want zij hadden niet opgelet bij de brooden, maar hun hart was verhard. 
+**[6:52]** want zij hadden niet opgelet bij de brooden, maar hun hart was verhard.
 
-**[6:53]**  En toen zij waren overgevaren naar het land, kwamen zij naar Gennesaret en leiden daar aan.
+**[6:53]** En toen zij waren overgevaren naar het land, kwamen zij naar Gennesaret en leiden daar aan.
 
 **[6:54]** En toen zij uit het schip gegaan waren herkenden ze Hem terstond,
 
 **[6:55]** en zij liepen dat geheele land rond en begonnen op bedden de kranken om te dragen daar waar zij hoorden dat Hij was;
 
-**[6:56]** en overal waar Hij kwam, naar dorpen, of steden, of vlekken, leiden zij de zieken op de markten, en baden Hem dat zij maar den zoom van zijn kleed mochten aanraken; en zoovelen Hem aanraakten, werden genezen.  
+**[6:56]** en overal waar Hij kwam, naar dorpen, of steden, of vlekken, leiden zij de zieken op de markten, en baden Hem dat zij maar den zoom van zijn kleed mochten aanraken; en zoovelen Hem aanraakten, werden genezen.
 
 ### Chapter 7
 
@@ -50954,7 +50954,7 @@
 
 **[7:8]** Gij verlaat het gebod Gods en houdt vast aan de overlevering der menschen; het wasschen van kannen en bekers, en veel zulke dingen doet gij.
 
-**[7:9]** En Hij zeide tot hen: ’t Is wel fraai, Gods gebod te verwerpen, om uw overleveringen te onderhouden!
+**[7:9]** En Hij zeide tot hen:’t Is wel fraai, Gods gebod te verwerpen, om uw overleveringen te onderhouden!
 
 **[7:10]** Want Mozes heeft gezegd: Eer uw vader en uw moeder, en ook: Die van vader of moeder kwaadspreekt, zal den dood sterven.
 
@@ -50966,7 +50966,7 @@
 
 **[7:14]** En Hij riep de menigte wederom tot zich en zeide tot hen: Luistert allen naar Mij, en verstaat!
 
-**[7:15]** Niets is er, dat van buiten tot den mensch ingaat, dat hem kan onzuiver maken; maar wat uit den mensch uitgaat, dat is het wat den mensch onzuiver maakt; 
+**[7:15]** Niets is er, dat van buiten tot den mensch ingaat, dat hem kan onzuiver maken; maar wat uit den mensch uitgaat, dat is het wat den mensch onzuiver maakt;
 
 **[7:16]** als iemand ooren heeft om te hooren, die hoore!
 
@@ -50976,15 +50976,15 @@
 
 **[7:19]** dat dit niet komt tot zijn hart, maar tot zijn buik, en uitgaat in het geheim, zuiverende alle spijzen?
 
-**[7:20]** En Hij zeide: Wat uit den mensch uitgaat, dat maakt den mensch onzuiver; 
+**[7:20]** En Hij zeide: Wat uit den mensch uitgaat, dat maakt den mensch onzuiver;
 
 **[7:21]** want van binnen, uit het hart der menschen, komen de kwade gedachten voort, overspel, hoererij, moord,
 
 **[7:22]** diefstal, hebzucht, slechtheid, list, ontucht, afgunst, lastering, hoovaardij, onverstand.
 
-**[7:23]** Al dit kwade komt van binnen, en maakt den mensch onzuiver. 
+**[7:23]** Al dit kwade komt van binnen, en maakt den mensch onzuiver.
 
-**[7:24]**  En vandaar opstaande, ging Hij naar de omstreken van Tyrus en Sidon. En in een huis gegaan zijnde wilde Hij niet dat iemand het wist, en toch kon Hij niet verborgen blijven.
+**[7:24]** En vandaar opstaande, ging Hij naar de omstreken van Tyrus en Sidon. En in een huis gegaan zijnde wilde Hij niet dat iemand het wist, en toch kon Hij niet verborgen blijven.
 
 **[7:25]** Want toen een vrouw van Hem gehoord had, wier dochterken een onzuiveren geest had, kwam zij terstond en viel aan zijn voeten;
 
@@ -50996,9 +50996,9 @@
 
 **[7:29]** En Hij zeide tot haar: Om dezes woords wil, ga heen! de booze geest is uit uw dochter gegaan!
 
-**[7:30]** En zij ging naar haar huis en vond het kind te bed liggen en den boozen geest uitgegaan. 
+**[7:30]** En zij ging naar haar huis en vond het kind te bed liggen en den boozen geest uitgegaan.
 
-**[7:31]**  En Jezus wederom uit de omstreken van Tyrus weggegaan zijnde, kwam door Sidon naar de zee van Galilea, midden door de omstreken van Dekapolis.
+**[7:31]** En Jezus wederom uit de omstreken van Tyrus weggegaan zijnde, kwam door Sidon naar de zee van Galilea, midden door de omstreken van Dekapolis.
 
 **[7:32]** En zij brachten tot Hem een doove, die moeilijk sprak, en zij baden Hem dat Hij op dezen de hand zou leggen.
 
@@ -51010,13 +51010,13 @@
 
 **[7:36]** En Hij gebood hun dat zij het aan niemand zouden zeggen; maar hoe meer Hij het hun gebood, des te meer vertelden zij het.
 
-**[7:37]** En zij waren bovenmate verwonderd, zeggende: Alles heeft Hij goed gedaan, en de dooven doet Hij hooren en de stommen spreken.  
+**[7:37]** En zij waren bovenmate verwonderd, zeggende: Alles heeft Hij goed gedaan, en de dooven doet Hij hooren en de stommen spreken.
 
 ### Chapter 8
 
 **[8:1]** Toen er nu in die dagen wederom veel volk was, en zij niet te eten hadden, riep Jezus de discipelen samen en zeide tot hen:
 
-**[8:2]** Ik heb medelijden met het volk, omdat zij al drie dagen bij Mij zijn gebleven, en zij hebben niet te eten; 
+**[8:2]** Ik heb medelijden met het volk, omdat zij al drie dagen bij Mij zijn gebleven, en zij hebben niet te eten;
 
 **[8:3]** en als Ik ze zonder eten naar hun huis laat gaan, zullen zij onderweg bezwijken, en sommigen van hen zijn van verre gekomen!
 
@@ -51030,17 +51030,17 @@
 
 **[8:8]** En zij aten en werden verzadigd, en zij namen het overschot der brokken op, zeven manden.
 
-**[8:9]** En die gegeten hadden waren omtrent vier duizend. — En Hij liet ze weggaan. 
+**[8:9]** En die gegeten hadden waren omtrent vier duizend. — En Hij liet ze weggaan.
 
-**[8:10]**  En terstond ging Hij naar het schip met zijn discipelen en kwam naar de omstreken van Dalmanutha.
+**[8:10]** En terstond ging Hij naar het schip met zijn discipelen en kwam naar de omstreken van Dalmanutha.
 
 **[8:11]** En de fariseërs gingen uit en begonnen met Hem te twisten, verzoekende van Hem een teeken uit den hemel, om Hem te verstrikken.
 
 **[8:12]** En Hij zuchtte in zijn geest en zeide: Wat verzoekt dit geslacht een teeken? — Voorwaar zeg Ik ulieden: Aan dit geslacht zal geen teeken gegeven worden!
 
-**[8:13]** En hen verlatende ging Hij wederom per schip naar de overzijde. 
+**[8:13]** En hen verlatende ging Hij wederom per schip naar de overzijde.
 
-**[8:14]**  En de discipelen hadden vergeten brooden mede te nemen, en hadden niets dan één brood bij zich in het schip.
+**[8:14]** En de discipelen hadden vergeten brooden mede te nemen, en hadden niets dan één brood bij zich in het schip.
 
 **[8:15]** En Hij gebood hun, zeggende: Ziet toe, wacht u van den zuurdeesem der fariseërs en van den zuurdeesem van Herodes!
 
@@ -51054,9 +51054,9 @@
 
 **[8:20]** En toen Ik de zeven brak voor de vier duizend, hoeveel volle manden met brokken naamt gij toen op? — Zij zeiden: Zeven.
 
-**[8:21]** En Hij zeide tot hen: Verstaat gij dan nog niet? 
+**[8:21]** En Hij zeide tot hen: Verstaat gij dan nog niet?
 
-**[8:22]**  En zij kwamen naar Bethsaïda, en men bracht tot Hem een blinde, en bad Hem dat Hij hem zou aanraken.
+**[8:22]** En zij kwamen naar Bethsaïda, en men bracht tot Hem een blinde, en bad Hem dat Hij hem zou aanraken.
 
 **[8:23]** En den blinde bij de hand genomen hebbende, bracht Hij hem buiten het dorp. En als Hij hem op de oogen gespuwd had, leide Hij hem de handen op en vroeg hem of hij wat zag.
 
@@ -51064,23 +51064,23 @@
 
 **[8:25]** Toen leide Jezus wederom de handen op zijn oogen en hij zag op en was genezen, en zag alles klaarlijk.
 
-**[8:26]** En Hij zond hem naar zijn huis, zeggende: Ga niet naar het dorp en zeg het aan niemand. 
+**[8:26]** En Hij zond hem naar zijn huis, zeggende: Ga niet naar het dorp en zeg het aan niemand.
 
-**[8:27]**  En Jezus ging met zijn discipelen uit naar de dorpen van Cesarea Filippi, en onderweg vroeg Hij zijn discipelen en zeide tot hen: Wie zeggen de menschen dat Ik ben?
+**[8:27]** En Jezus ging met zijn discipelen uit naar de dorpen van Cesarea Filippi, en onderweg vroeg Hij zijn discipelen en zeide tot hen: Wie zeggen de menschen dat Ik ben?
 
 **[8:28]** En zij spraken tot Hem en zeiden: Johannes de Dooper; — en anderen: Elias— en anderen: Een der profeten.
 
 **[8:29]** En Hij vroeg hun: Maar gij, wie zegt gij dat Ik ben? En Petrus antwoordde en zeide tot Hem: Gij zijt de Christus!
 
-**[8:30]** En Hij gebood hun scherpelijk dat zij tot niemand over Hem spreken zouden. 
+**[8:30]** En Hij gebood hun scherpelijk dat zij tot niemand over Hem spreken zouden.
 
-**[8:31]**  En Hij begon hun te leeren dat de Zoon des menschen veel moest lijden, en verworpen worden van de oudsten en de overpriesters en de schriftgeleerden, en gedood worden, en na drie dagen verrijzen.
+**[8:31]** En Hij begon hun te leeren dat de Zoon des menschen veel moest lijden, en verworpen worden van de oudsten en de overpriesters en de schriftgeleerden, en gedood worden, en na drie dagen verrijzen.
 
 **[8:32]** En dit woord sprak Hij vrij uit. En Petrus nam Hem ter zijde en begon Hem te bestraffen.
 
-**[8:33]** Maar Hij keerde zich om en op zijn discipelen ziende, bestrafte Hij Petrus en zeide: Ga weg, achter Mij, Satan! want gij bedenkt niet de dingen van God, maar die der menschen! 
+**[8:33]** Maar Hij keerde zich om en op zijn discipelen ziende, bestrafte Hij Petrus en zeide: Ga weg, achter Mij, Satan! want gij bedenkt niet de dingen van God, maar die der menschen!
 
-**[8:34]**  En als Hij de schare met zijn discipelen tot zich geroepen had, zeide Hij tot hen: Zoo wie wil achter Mij komen die verloochene zich zelven, en neme zijn kruis op, en volge Mij na.
+**[8:34]** En als Hij de schare met zijn discipelen tot zich geroepen had, zeide Hij tot hen: Zoo wie wil achter Mij komen die verloochene zich zelven, en neme zijn kruis op, en volge Mij na.
 
 **[8:35]** Want zoo wie zijn leven wil behouden, die zal het verliezen, maar zoo wie zijn leven zal verliezen om Mijnentwil en om des Evangelies wil, die zal het behouden.
 
@@ -51088,13 +51088,13 @@
 
 **[8:37]** Wat toch zal een mensch geven in ruil voor zijn leven?
 
-**[8:38]** Want zoo wie zich over Mij en mijn woorden zal geschaamd hebben in dit overspelig en goddeloos geslacht, over dien zal ook de Zoon des menschen zich schamen, als Hij komt in de glorie zijns Vaders met de heilige engelen.  
+**[8:38]** Want zoo wie zich over Mij en mijn woorden zal geschaamd hebben in dit overspelig en goddeloos geslacht, over dien zal ook de Zoon des menschen zich schamen, als Hij komt in de glorie zijns Vaders met de heilige engelen.
 
 ### Chapter 9
 
-**[9:1]** En Hij zeide tot hen: Voorwaar, Ik zeg ulieden dat er sommigen hier staan die den dood in ‘t geheel niet smaken zullen, totdat zij het koninkrijk Gods met kracht zullen hebben zien komen! 
+**[9:1]** En Hij zeide tot hen: Voorwaar, Ik zeg ulieden dat er sommigen hier staan die den dood in ‘t geheel niet smaken zullen, totdat zij het koninkrijk Gods met kracht zullen hebben zien komen!
 
-**[9:2]**  En zes dagen daarna nam Jezus met zich Petrus, en Jakobus, en Johannes, en bracht hen alleen naar een hoogen berg, afzonderlijk; en Hij werd van gedaante veranderd in hun tegenwoordigheid.
+**[9:2]** En zes dagen daarna nam Jezus met zich Petrus, en Jakobus, en Johannes, en bracht hen alleen naar een hoogen berg, afzonderlijk; en Hij werd van gedaante veranderd in hun tegenwoordigheid.
 
 **[9:3]** En zijn kleederen werden blinkend, zeer wit, als sneeuw, zooals geen voller op de aarde ze wit kan maken.
 
@@ -51106,9 +51106,9 @@
 
 **[9:7]** En er kwam een wolk die hen overschaduwde, en er kwam een stem uit de wolk: Deze is mijn Zoon, de Beminde, hoort Hem!
 
-**[9:8]** En haastig rondziende zagen zij niemand meer; maar Jezus alleen bij zich. 
+**[9:8]** En haastig rondziende zagen zij niemand meer; maar Jezus alleen bij zich.
 
-**[9:9]**  Terwijl zij nu den berg afgingen, gebood Hij hun dat zij aan niemand zouden vertellen wat zij gezien hadden, dan wanneer de Zoon des menschen uit de dooden zou verrezen zijn.
+**[9:9]** Terwijl zij nu den berg afgingen, gebood Hij hun dat zij aan niemand zouden vertellen wat zij gezien hadden, dan wanneer de Zoon des menschen uit de dooden zou verrezen zijn.
 
 **[9:10]** En dit woord hielden zij in het geheugen, en vroegen onder malkander: Wat is dat, uit de dooden verrijzen?
 
@@ -51116,9 +51116,9 @@
 
 **[9:12]** En Hij zeide tot hen: Elias als hij komt zal wel eerst alles herstellen; en hoe is er geschreven van den Zoon des menschen? — dat Hij veel zal lijden en veracht worden.
 
-**[9:13]** Maar Ik zeg ulieden dat Elias al gekomen is, en zij hebben hem gedaan zooals zij wilden, gelijk van hem geschreven is. 
+**[9:13]** Maar Ik zeg ulieden dat Elias al gekomen is, en zij hebben hem gedaan zooals zij wilden, gelijk van hem geschreven is.
 
-**[9:14]**  En toen Jezus bij de discipelen was gekomen, zag Hij een groote schare rond hen, en schriftgeleerden die met hen twistten.
+**[9:14]** En toen Jezus bij de discipelen was gekomen, zag Hij een groote schare rond hen, en schriftgeleerden die met hen twistten.
 
 **[9:15]** En de gansche schare, zoodra zij Hem zag, werd verbaasd, en zij liepen naar Hem toe en groetten Hem.
 
@@ -51148,15 +51148,15 @@
 
 **[9:28]** En toen zij in huis gekomen waren, vroegen zijn discipelen Hem in het bijzonder: Waarom hebben wij hem niet kunnen uitwerpen?
 
-**[9:29]** En Hij zeide tot hen: Dit geslacht kan door niets uitgaan, dan door gebed en vasten. 
+**[9:29]** En Hij zeide tot hen: Dit geslacht kan door niets uitgaan, dan door gebed en vasten.
 
-**[9:30]**  En zij gingen vandaar weg en trokken door Galilea, en Hij wilde niet dat iemand het wist;
+**[9:30]** En zij gingen vandaar weg en trokken door Galilea, en Hij wilde niet dat iemand het wist;
 
 **[9:31]** want Hij onderwees zijn discipelen en zeide tot hen: De Zoon des menschen wordt overgeleverd in de handen der menschen, en zij zullen Hem dooden, en gedood zijnde zal Hij na drie dagen verrijzen.
 
-**[9:32]** Maar zij verstonden de rede niet en zij vreesden Hem er naar te vragen. 
+**[9:32]** Maar zij verstonden de rede niet en zij vreesden Hem er naar te vragen.
 
-**[9:33]**  En zij kwamen naar Kapernaüm. En toen Hij te huis was, vroeg Hij hun: Waarover hebt gij onderweg gehandeld?
+**[9:33]** En zij kwamen naar Kapernaüm. En toen Hij te huis was, vroeg Hij hun: Waarover hebt gij onderweg gehandeld?
 
 **[9:34]** Maar zij zwegen stil, want zij hadden onderweg getwist met malkander, wie toch de meeste was.
 
@@ -51164,19 +51164,19 @@
 
 **[9:36]** En Hij nam een klein kind en stelde dat in hun midden, en omhelsde het en zeide tot hen:
 
-**[9:37]** Zoo wie één van zulke kinderen zal aannemen in mijn Naam, die neemt Mij aan; en zoo wie Mij aanneemt, die neemt niet Mij aan, maar Hem die Mij gezonden heeft. 
+**[9:37]** Zoo wie één van zulke kinderen zal aannemen in mijn Naam, die neemt Mij aan; en zoo wie Mij aanneemt, die neemt niet Mij aan, maar Hem die Mij gezonden heeft.
 
-**[9:38]**  Johannes sprak tot Hem: Meester, wij hebben iemand gezien die in uw Naam booze geesten uitwerpt, en die ons niet volgt; en wij hebben het hem verboden.
+**[9:38]** Johannes sprak tot Hem: Meester, wij hebben iemand gezien die in uw Naam booze geesten uitwerpt, en die ons niet volgt; en wij hebben het hem verboden.
 
-**[9:39]** Maar Jezus zeide: Verbiedt hem niet! Niemand toch is er die een kracht zal doen in mijn Naam en spoedig van Mij zal kunnen kwaadspreken; 
+**[9:39]** Maar Jezus zeide: Verbiedt hem niet! Niemand toch is er die een kracht zal doen in mijn Naam en spoedig van Mij zal kunnen kwaadspreken;
 
 **[9:40]** want die niet tegen ons is, is vóór ons!
 
 **[9:41]** Want zoo wie ulieden een beker waters te drinken geeft in mijn Naam, omdat gij van Christus zijt, voorwaar Ik zeg ulieden, dat hij zijn loon geenszins zal verliezen.
 
-**[9:42]** En zoo wie één dezer kleinen, die in Mij gelooven, ergeren zal, het ware voor hem beter dat er een molensteen om zijn hals was gedaan, en hij in de zee geworpen was. 
+**[9:42]** En zoo wie één dezer kleinen, die in Mij gelooven, ergeren zal, het ware voor hem beter dat er een molensteen om zijn hals was gedaan, en hij in de zee geworpen was.
 
-**[9:43]**  En als uw hand u ergert, snijd ze af! het is beter dat gij verminkt naar het leven gaat, dan dat gij, twee handen hebbende, naar de helle gaat, naar het onuitbluschbaar vuur,
+**[9:43]** En als uw hand u ergert, snijd ze af! het is beter dat gij verminkt naar het leven gaat, dan dat gij, twee handen hebbende, naar de helle gaat, naar het onuitbluschbaar vuur,
 
 **[9:44]** waar hun worm niet sterft en het vuur niet wordt uitgebluscht.
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** Want ieder zal met vuur gezouten worden, en elk offer zal met zout gezouten worden.
 
-**[9:50]** Het zout is goed; maar als het zout onzout wordt, waarmede zult gij het smakelijk maken? — Hebt in u zelven zout en houdt vrede onder malkander!  
+**[9:50]** Het zout is goed; maar als het zout onzout wordt, waarmede zult gij het smakelijk maken? — Hebt in u zelven zout en houdt vrede onder malkander!
 
 ### Chapter 10
 
@@ -51202,7 +51202,7 @@
 
 **[10:4]** En zij zeiden: Mozes heeft toegestaan een akte van scheiding te schrijven en haar te verlaten.
 
-**[10:5]** Maar Jezus zeide tot hen: Om uw verhardheid van harte heeft hij voor ulieden dit gebod geschreven; 
+**[10:5]** Maar Jezus zeide tot hen: Om uw verhardheid van harte heeft hij voor ulieden dit gebod geschreven;
 
 **[10:6]** maar van het begin der schepping af heeft God hen man en vrouw gemaakt.
 
@@ -51214,19 +51214,19 @@
 
 **[10:10]** En tehuis vroegen de discipelen Hem wederom over deze zaak;
 
-**[10:11]** en Hij zeide tot hen: Zoo wie zijn vrouw zal verlaten en met een andere trouwen, doet overspel tegen haar; 
+**[10:11]** en Hij zeide tot hen: Zoo wie zijn vrouw zal verlaten en met een andere trouwen, doet overspel tegen haar;
 
-**[10:12]** en als een vrouw haar man verlaat en met een ander trouwt, doet zij overspel. 
+**[10:12]** en als een vrouw haar man verlaat en met een ander trouwt, doet zij overspel.
 
-**[10:13]**  En zij brachten kinderkens tot Hem opdat Hij die zou aanraken; maar de discipelen bestraften degenen die ze bij Hem brachten.
+**[10:13]** En zij brachten kinderkens tot Hem opdat Hij die zou aanraken; maar de discipelen bestraften degenen die ze bij Hem brachten.
 
 **[10:14]** En Jezus dit ziende nam het kwalijk en zeide tot hen: Laat de kinderkens tot Mij komen, verhindert ze niet! want voor zoodanigen is het koninkrijk Gods.
 
 **[10:15]** Voorwaar Ik zeg ulieden: Zoo wie het koninkrijk Gods niet zal aannemen als een kindeken, die zal er geenszins in komen!
 
-**[10:16]** En Hij omhelsde ze en leide hun de handen op, en zegende ze. 
+**[10:16]** En Hij omhelsde ze en leide hun de handen op, en zegende ze.
 
-**[10:17]**  En toen Hij op weg ging, liep er een naar Hem toe en voor Hem op de knieën vallende vroeg hij Hem: Goede Meester! wat zal ik doen om eeuwig leven te verkrijgen?
+**[10:17]** En toen Hij op weg ging, liep er een naar Hem toe en voor Hem op de knieën vallende vroeg hij Hem: Goede Meester! wat zal ik doen om eeuwig leven te verkrijgen?
 
 **[10:18]** Doch Jezus zeide tot hem: Wat noemt gij Mij goed? niemand is goed dan de eenige God!
 
@@ -51236,9 +51236,9 @@
 
 **[10:21]** En Jezus zag hem aan en beminde hem, en zeide tot hem: Eén zaak ontbreekt u! ga heen, verkoop al wat gij hebt en geef het aan de armen, en gij zult een schat hebben in den hemel, en kom, en volg Mij!
 
-**[10:22]** Maar hij werd bedroefd over dat woord en ging treurig heen, want hij bezat veel goederen. 
+**[10:22]** Maar hij werd bedroefd over dat woord en ging treurig heen, want hij bezat veel goederen.
 
-**[10:23]**  En Jezus zag rond en zeide tot zijn discipelen: Hoe bezwaarlijk zullen zij die goederen bezitten, tot het koninkrijk Gods ingaan!
+**[10:23]** En Jezus zag rond en zeide tot zijn discipelen: Hoe bezwaarlijk zullen zij die goederen bezitten, tot het koninkrijk Gods ingaan!
 
 **[10:24]** En de discipelen werden verwonderd over zijn woorden. Maar Jezus antwoordde wederom en zeide tot hen: Kinderen! hoe bezwaarlijk is het voor hen die op hun goederen vertrouwen, tot het koninkrijk Gods in te gaan!
 
@@ -51254,15 +51254,15 @@
 
 **[10:30]** of hij ontvangt honderdvoudig nu in dezen tijd huizen, en broeders, en zusters, en moeders, en kinderen, en akkers, met vervolgingen, en in de eeuw die komende is, eeuwig leven.
 
-**[10:31]** Doch veel eersten zullen laatsten zijn, en de laatsten eersten. 
+**[10:31]** Doch veel eersten zullen laatsten zijn, en de laatsten eersten.
 
-**[10:32]**  En zij waren op weg om naar Jerusalem te gaan, en Jezus ging vóór hen uit. En zij waren verbaasd, en volgden Hem vreezende. En de twaalven wederom tot zich nemende, begon Hij tot hen te spreken over de dingen die Hem overkomen zouden:
+**[10:32]** En zij waren op weg om naar Jerusalem te gaan, en Jezus ging vóór hen uit. En zij waren verbaasd, en volgden Hem vreezende. En de twaalven wederom tot zich nemende, begon Hij tot hen te spreken over de dingen die Hem overkomen zouden:
 
 **[10:33]** Ziet, wij gaan op naar Jerusalem, en de Zoon des menschen wordt overgeleverd aan de overpriesters en aan de schriftgeleerden, en zij zullen Hem ter dood veroordeelen, en Hem aan de heidenen overleveren,
 
-**[10:34]** en zij zullen Hem bespotten, en Hem geeselen, en Hem bespuwen, en Hem dooden, en na drie dagen zal Hij verrijzen. 
+**[10:34]** en zij zullen Hem bespotten, en Hem geeselen, en Hem bespuwen, en Hem dooden, en na drie dagen zal Hij verrijzen.
 
-**[10:35]**  En tot Hem kwamen Jakobus en Johannes, de zonen van Zebedeüs, en zeiden tot Hem: Meester! wij wenschen dat Gij ons doen zult wat wij U verzoeken!
+**[10:35]** En tot Hem kwamen Jakobus en Johannes, de zonen van Zebedeüs, en zeiden tot Hem: Meester! wij wenschen dat Gij ons doen zult wat wij U verzoeken!
 
 **[10:36]** En Hij zeide tot hen: Wat wilt gij dat Ik u doen zal?
 
@@ -51276,15 +51276,15 @@
 
 **[10:41]** En toen de tien andere aposlelen dit gehoord hadden begonnen zij het kwalijk te nemen van Jakobus en Johannes.
 
-**[10:42]** En Jezus riep hen tot zich en zeide tot hen: Gij weet dat degenen die geacht worden oversten der volken te zijn over hen heerschen, en hun grooten hebben macht over hen; 
+**[10:42]** En Jezus riep hen tot zich en zeide tot hen: Gij weet dat degenen die geacht worden oversten der volken te zijn over hen heerschen, en hun grooten hebben macht over hen;
 
-**[10:43]** doch niet alzoo is het onder u, maar zoo wie wil groot worden onder u, zal uw dienaar zijn; 
+**[10:43]** doch niet alzoo is het onder u, maar zoo wie wil groot worden onder u, zal uw dienaar zijn;
 
-**[10:44]** en zoo wie van u de eerste wil worden, zal een knecht van allen zijn; 
+**[10:44]** en zoo wie van u de eerste wil worden, zal een knecht van allen zijn;
 
-**[10:45]** want ook de Zoon des menschen is niet gekomen om gediend te worden, maar om te dienen en zijn leven te geven tot een losprijs voor velen. 
+**[10:45]** want ook de Zoon des menschen is niet gekomen om gediend te worden, maar om te dienen en zijn leven te geven tot een losprijs voor velen.
 
-**[10:46]**  En zij kwamen naar Jericho. En als Hij Jericho uitging met zijn discipelen en een groote menigte volks, zat Bartimeüs, een blinde bedelaar, zoon van Timeüs, aan den weg.
+**[10:46]** En zij kwamen naar Jericho. En als Hij Jericho uitging met zijn discipelen en een groote menigte volks, zat Bartimeüs, een blinde bedelaar, zoon van Timeüs, aan den weg.
 
 **[10:47]** En toen hij gehoord had dat het Jezus de Nazarener was, begon hij te roepen en te zeggen: Zone Davids! Jezus! ontferm U mijner!
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** En Jezus antwoordde en zeide tot hem: Wat wilt gij dat Ik u doen zal? — En de blinde zeide tot Hem: Meester, dat ik ziende mag worden!
 
-**[10:52]** Jezus zeide tot hem: Ga heen, uw geloof heeft u behouden! — En terstond werd hij ziende, en volgde Hem op den weg.  
+**[10:52]** Jezus zeide tot hem: Ga heen, uw geloof heeft u behouden! — En terstond werd hij ziende, en volgde Hem op den weg.
 
 ### Chapter 11
 
@@ -51320,15 +51320,15 @@
 
 **[11:10]** Gezegend het koninkrijk van onzen vader David, dat komt! Hosannah, in het allerhoogste!
 
-**[11:11]** En Jezus kwam naar Jerusalem, naar den tempel; en als Hij alles rondom bezien had en het al avond was geworden, ging Hij uit naar Bethanië met de twaalven. 
+**[11:11]** En Jezus kwam naar Jerusalem, naar den tempel; en als Hij alles rondom bezien had en het al avond was geworden, ging Hij uit naar Bethanië met de twaalven.
 
-**[11:12]**  En toen zij den volgenden dag uit Bethanië gingen, kreeg Hij honger.
+**[11:12]** En toen zij den volgenden dag uit Bethanië gingen, kreeg Hij honger.
 
 **[11:13]** En van verre een vijgeboom ziende, die bladeren had, ging Hij er naar toe, of Hij er ook wat aan vinden zou; en er bij gekomen zijnde, vond Hij niets dan bladeren; want het was de tijd der vijgen niet;
 
-**[11:14]** en Hij antwoordde en zeide tot den boom: Tot in eeuwigheid ete niemand meer vrucht van u! — En zijn discipelen hoorden het. 
+**[11:14]** en Hij antwoordde en zeide tot den boom: Tot in eeuwigheid ete niemand meer vrucht van u! — En zijn discipelen hoorden het.
 
-**[11:15]**  En zij kwamen naar Jerusalem, en naar den tempel gegaan zijnde, begon Jezus degenen die in den tempel kochten en verkochten uit te werpen, en de tafels der wisselaars en de zetels der duivenverkoopers keerde Hij om;
+**[11:15]** En zij kwamen naar Jerusalem, en naar den tempel gegaan zijnde, begon Jezus degenen die in den tempel kochten en verkochten uit te werpen, en de tafels der wisselaars en de zetels der duivenverkoopers keerde Hij om;
 
 **[11:16]** en Hij liet niet toe dat iemand eenig vat door den tempel droeg;
 
@@ -51336,9 +51336,9 @@
 
 **[11:18]** En de overpriesters en de schriftgeleerden hoorden dit, en zochten hoe zij Hem zouden dooden. Want zij vreesden Hem, omdat de gansche schare verbaasd stond over zijn onderwijs.
 
-**[11:19]** En toen het avond was geworden vertrok Hij uit de stad. 
+**[11:19]** En toen het avond was geworden vertrok Hij uit de stad.
 
-**[11:20]**  En des morgens vroeg voorbijgaande zagen zij dat de vijgeboom verdord was van de wortelen af.
+**[11:20]** En des morgens vroeg voorbijgaande zagen zij dat de vijgeboom verdord was van de wortelen af.
 
 **[11:21]** En Petrus, dit indachtig geworden zijnde, zeide tot Hem: Meester, zie de vijgeboom dien Gij vervloekt hebt, is verdord!
 
@@ -51346,13 +51346,13 @@
 
 **[11:23]** Voorwaar Ik zeg ulieden, zoo wie tot dezen berg zou zeggen: Hef u op en werp u in de zee! en niet twijfelt in zijn hart, maar gelooft dat wat hij zegt geschieden zal, — het zal hem geworden!
 
-**[11:24]** Daarom zeg Ik ulieden: al wat gij bidt en begeert, gelooft dat gij het ontvangen zult, en het zal u geworden. 
+**[11:24]** Daarom zeg Ik ulieden: al wat gij bidt en begeert, gelooft dat gij het ontvangen zult, en het zal u geworden.
 
-**[11:25]**  En als gij staat om te bidden, vergeeft het dan als gij iets hebt tegen iemand, opdat ook uw Vader, die in de hemelen is, ulieden uw overtredingen vergeve; 
+**[11:25]** En als gij staat om te bidden, vergeeft het dan als gij iets hebt tegen iemand, opdat ook uw Vader, die in de hemelen is, ulieden uw overtredingen vergeve;
 
-**[11:26]** maar als gijlieden niet vergeeft, dan zal ook uw Vader, die in de hemelen is, uw overtredingen niet vergeven. 
+**[11:26]** maar als gijlieden niet vergeeft, dan zal ook uw Vader, die in de hemelen is, uw overtredingen niet vergeven.
 
-**[11:27]**  En zij kwamen wederom naar Jerusalem. En terwijl Jezus in den tempel wandelde kwamen tot Hem de overpriesters, en de schriftgeleerden, en de oudsten,
+**[11:27]** En zij kwamen wederom naar Jerusalem. En terwijl Jezus in den tempel wandelde kwamen tot Hem de overpriesters, en de schriftgeleerden, en de oudsten,
 
 **[11:28]** en zeiden tot Hem: Door welke macht doet Gij deze dingen? of wie heeft U de macht gegeven om deze dingen te doen?
 
@@ -51364,11 +51364,11 @@
 
 **[11:32]** Maar als wij zeggen: Uit de menschen? — Zij vreesden het volk; want allen hielden voor vast, dat Johannes een profeet was.
 
-**[11:33]** En zij antwoordden Jezus en zeiden: Wij weten het niet. — En Jezus zeide tot hen: Dan zeg Ik u ook niet door welke macht Ik deze dingen doe.  
+**[11:33]** En zij antwoordden Jezus en zeiden: Wij weten het niet. — En Jezus zeide tot hen: Dan zeg Ik u ook niet door welke macht Ik deze dingen doe.
 
 ### Chapter 12
 
-**[12:1]** En Jezus begon tot hen in gelijkenissen te spreken: Een mensch plantte een wijngaard, en leide er een haag rond, en groef een wijnpers en bouwde een wachttoren, en verhuurde hem aan landlieden, en reisde buitenslands; 
+**[12:1]** En Jezus begon tot hen in gelijkenissen te spreken: Een mensch plantte een wijngaard, en leide er een haag rond, en groef een wijnpers en bouwde een wachttoren, en verhuurde hem aan landlieden, en reisde buitenslands;
 
 **[12:2]** en toen het tijd was, zond hij een dienstknecht tot de landlieden, om van de landlieden te ontvangen van de vruchten des wijngaards.
 
@@ -51386,13 +51386,13 @@
 
 **[12:9]** Wat zal dan de heer van den wijngaard doen? — Hij zal komen en de landlieden ombrengen, en den wijngaard aan anderen geven.
 
-**[12:10]** Hebt gij ook deze Schrifture niet gelezen: De steen, dien de bouwlieden hebben verworpen, die is geworden tot een hoeksteen; 
+**[12:10]** Hebt gij ook deze Schrifture niet gelezen: De steen, dien de bouwlieden hebben verworpen, die is geworden tot een hoeksteen;
 
 **[12:11]** van den Heer is dit geschied en het is wonder in onze oogen?
 
-**[12:12]** En zij zochten Hem te grijpen, en vreesden het volk, want zij verstonden dat Hij de gelijkenis op hen gesproken had; en zij verlieten Hem en gingen weg. 
+**[12:12]** En zij zochten Hem te grijpen, en vreesden het volk, want zij verstonden dat Hij de gelijkenis op hen gesproken had; en zij verlieten Hem en gingen weg.
 
-**[12:13]**  En zij zonden tot Hem eenigen van de fariseërs en van de herodianen, om Hem in zijn woorden te vangen.
+**[12:13]** En zij zonden tot Hem eenigen van de fariseërs en van de herodianen, om Hem in zijn woorden te vangen.
 
 **[12:14]** En zij kwamen tot Hem en zeiden: Meester, wij weten dat Gij waarachtig zijt, en niemand ontziet, want Gij ziet niet naar het aangezicht der menschen, maar leert den weg Gods naar waarheid. — Is het geoorloofd belasting aan den keizer te geven, of niet?
 
@@ -51400,9 +51400,9 @@
 
 **[12:16]** En zij brachten Hem er een. En Hij zeide tot hen: Van wien is dit beeld en het opschrift? Zij nu zeiden: Van den keizer!
 
-**[12:17]** Jezus dan zeide tot hen: Geeft dan aan den keizer wat den keizer, en aan God wat Gode toekomt! — En zij verwonderden zich over Hem. 
+**[12:17]** Jezus dan zeide tot hen: Geeft dan aan den keizer wat den keizer, en aan God wat Gode toekomt! — En zij verwonderden zich over Hem.
 
-**[12:18]**  En er kwamen sadduceërs tot Hem, die zeggen dat er geen verrijzenis is, en zij vroegen Hem, zeggende:
+**[12:18]** En er kwamen sadduceërs tot Hem, die zeggen dat er geen verrijzenis is, en zij vroegen Hem, zeggende:
 
 **[12:19]** Meester, Mozes heeft ons voorgeschreven dat, als iemands broeder sterft en deze een vrouw, maar geen kind nalaat, dat dan zijn broeder de vrouw moet nemen en voor zijn gestorven broeder nakomelingschap verwekken.
 
@@ -51420,13 +51420,13 @@
 
 **[12:26]** Aangaande de dooden nu, dat zij verrijzen zullen, hebt gij niet gelezen in het boek van Mozes, hoe God bij den braambosch tot hem sprak, zeggende: Ik ben de God van Abraham, en de God van Isaäk, en de God van Jakob?
 
-**[12:27]** Hij is niet de God van dooden, maar van levenden. Gij dwaalt dan zeer! 
+**[12:27]** Hij is niet de God van dooden, maar van levenden. Gij dwaalt dan zeer!
 
-**[12:28]**  En een der schriftgeleerden, die hen had hooren redetwisten, kwam tot Hem, en wetende dat Hij hun goed had geantwoord, vroeg hij Hem: Wat is het eerste gebod van allen?
+**[12:28]** En een der schriftgeleerden, die hen had hooren redetwisten, kwam tot Hem, en wetende dat Hij hun goed had geantwoord, vroeg hij Hem: Wat is het eerste gebod van allen?
 
 **[12:29]** Jezus antwoordde: Het eerste is: Hoor Israël, de Heere, onze God, is een éénig Heer!
 
-**[12:30]** en gij zult den Heere, uwen God, beminnen uit geheel uw hart, en uit geheel uw ziel, en uit geheel uw verstand, en uit geheel uw kracht; 
+**[12:30]** en gij zult den Heere, uwen God, beminnen uit geheel uw hart, en uit geheel uw ziel, en uit geheel uw verstand, en uit geheel uw kracht;
 
 **[12:31]** het tweede gebod is dit: Gij zult uw naaste beminnen als u zelven, Daar is geen ander gebod, grooter dan deze.
 
@@ -51434,27 +51434,27 @@
 
 **[12:33]** en Hem te beminnen uit het geheele hart, en uit het geheele verstand, en uit geheel de ziel, en uit de geheele kracht, en den naaste te beminnen als zich zelven, is meer dan al de brandoffers en slachtoffers!
 
-**[12:34]** En Jezus zag dat hij verstandig had geantwoord en zeide tot hem: Niet ver zijt gij van het koninkrijk Gods! — En niemand durfde Hem meer vragen. 
+**[12:34]** En Jezus zag dat hij verstandig had geantwoord en zeide tot hem: Niet ver zijt gij van het koninkrijk Gods! — En niemand durfde Hem meer vragen.
 
-**[12:35]**  En Jezus antwoordde en zeide, toen Hij onderwijs gaf in den tempel: Hoe zeggen de schriftgeleerden dat de Christus Davids Zoon is?
+**[12:35]** En Jezus antwoordde en zeide, toen Hij onderwijs gaf in den tempel: Hoe zeggen de schriftgeleerden dat de Christus Davids Zoon is?
 
 **[12:36]** David zelf toch heeft gezegd in den Heiligen Geest: De Heere heeft tot mijn Heere gesproken: Zit aan mijn rechterhand totdat Ik uw vijanden gezet heb tot een voetbank uwer voeten?
 
-**[12:37]** David zelf noemt Hem Heere, en vanwaar is Hij dan zijn Zoon? — En de geheele schare hoorde Hem gaarne. 
+**[12:37]** David zelf noemt Hem Heere, en vanwaar is Hij dan zijn Zoon? — En de geheele schare hoorde Hem gaarne.
 
-**[12:38]**  En in zijn onderwijs zeide Hij: Wacht u voor de schriftgeleerden, die gaarne in lange kleederen wandelen en op de markten gegroet worden,
+**[12:38]** En in zijn onderwijs zeide Hij: Wacht u voor de schriftgeleerden, die gaarne in lange kleederen wandelen en op de markten gegroet worden,
 
-**[12:39]** en vooraanzitten in de synagogen en vooraanliggen bij de maaltijden; 
+**[12:39]** en vooraanzitten in de synagogen en vooraanliggen bij de maaltijden;
 
-**[12:40]** die de huizen der weduwen opeten en voor den schijn lange gebeden doen; dezen zullen een zwaarder oordeel ontvangen. 
+**[12:40]** die de huizen der weduwen opeten en voor den schijn lange gebeden doen; dezen zullen een zwaarder oordeel ontvangen.
 
-**[12:41]**  En Hij ging zitten tegenover de schatkist en zag hoe de schare geld wierp in de schatkist; en vele rijken wierpen er veel in.
+**[12:41]** En Hij ging zitten tegenover de schatkist en zag hoe de schare geld wierp in de schatkist; en vele rijken wierpen er veel in.
 
 **[12:42]** En er kwam één arme weduwe, die twee penningskens er inwierp, dat is een kodrant.
 
-**[12:43]** En Hij riep zijn discipelen en zeide tot hen: Voorwaar, Ik zeg u dat deze arme weduwe er meer heeft ingeworpen dan allen die in de schatkist geld geworpen hebben; 
+**[12:43]** En Hij riep zijn discipelen en zeide tot hen: Voorwaar, Ik zeg u dat deze arme weduwe er meer heeft ingeworpen dan allen die in de schatkist geld geworpen hebben;
 
-**[12:44]** want allen hebben er ingeworpen van hun overvloed, maar deze heeft van haar armoede, al wat zij had, er ingeworpen, haar geheelen schat.  
+**[12:44]** want allen hebben er ingeworpen van hun overvloed, maar deze heeft van haar armoede, al wat zij had, er ingeworpen, haar geheelen schat.
 
 ### Chapter 13
 
@@ -51480,13 +51480,13 @@
 
 **[13:11]** En als zij u wegvoeren en overleveren, weest dan te voren niet bekommerd wat gij zeggen zult, maar wat u zal worden gegeven in die ure, spreekt dat; want gij zijt het niet die spreekt, maar de Heilige Geest.
 
-**[13:12]** En de eene broeder zal den anderen broeder overgeven tot den dood, en een vader zijn kind, en kinderen zullen opstaan tegen ouders en zullen hen dooden; 
+**[13:12]** En de eene broeder zal den anderen broeder overgeven tot den dood, en een vader zijn kind, en kinderen zullen opstaan tegen ouders en zullen hen dooden;
 
 **[13:13]** en gij zult gehaat zijn door allen om mijns Naams wil; maar die zal volharden tot den einde, die zal behouden worden.
 
-**[13:14]** Wanneer gij dan den gruwel der verwoesting zult zien staan waar hij niet mag zijn—( die het leest lette er op! — dat dan die in Judea zijn naar de bergen vluchten; 
+**[13:14]** Wanneer gij dan den gruwel der verwoesting zult zien staan waar hij niet mag zijn—(die het leest lette er op! — dat dan die in Judea zijn naar de bergen vluchten;
 
-**[13:15]** die dan op het dak is, kome niet naar beneden in zijn huis, en ga niet uit om iets uit zijn huis weg te nemen; 
+**[13:15]** die dan op het dak is, kome niet naar beneden in zijn huis, en ga niet uit om iets uit zijn huis weg te nemen;
 
 **[13:16]** en die op den akker is, keere niet terug om zijn kleed weg te nemen!
 
@@ -51506,13 +51506,13 @@
 
 **[13:24]** Maar in die dagen, na die verdrukking, zal de zon duister worden, en de maan zal haar licht niet geven,
 
-**[13:25]** en de sterren zullen uit den hemel vallen, en de krachten, die in de hemelen zijn, zullen beroerd worden; 
+**[13:25]** en de sterren zullen uit den hemel vallen, en de krachten, die in de hemelen zijn, zullen beroerd worden;
 
-**[13:26]** en alsdan zullen zij den Zoon des menschen zien komen in wolken, met veel kracht en glorie; 
+**[13:26]** en alsdan zullen zij den Zoon des menschen zien komen in wolken, met veel kracht en glorie;
 
-**[13:27]** en alsdan zal Hij de engelen zenden en zal de uitverkorenen verzamelen uit de vier windstreken, van het uiteinde der aarde tot het uiteinde des hemels. 
+**[13:27]** en alsdan zal Hij de engelen zenden en zal de uitverkorenen verzamelen uit de vier windstreken, van het uiteinde der aarde tot het uiteinde des hemels.
 
-**[13:28]**  Van den vijgeboom nu leert gij deze gelijkenis: Zoodra zijn tak zacht wordt en de bladeren uitbotten, dan weet gij dat de zomer nabij is.
+**[13:28]** Van den vijgeboom nu leert gij deze gelijkenis: Zoodra zijn tak zacht wordt en de bladeren uitbotten, dan weet gij dat de zomer nabij is.
 
 **[13:29]** Zoo ook gijlieden, als gij die dingen ziet geschieden, dan weet gij dat het nabij is, vóór de deur.
 
@@ -51530,33 +51530,33 @@
 
 **[13:36]** opdat hij, onverziens komende, u niet slapende vinde.
 
-**[13:37]** En wat Ik ulieden zeg, dat zeg Ik tot allen: — Waakt!  
+**[13:37]** En wat Ik ulieden zeg, dat zeg Ik tot allen: — Waakt!
 
 ### Chapter 14
 
 **[14:1]** En het feest van Paschen en van de ongedeesemde brooden was na twee dagen; en de overpriesters en de schriftgeleerden zochten hoe zij Hem met list zouden vatten en dooden.
 
-**[14:2]** Want zij zeiden: Niet op het feest, opdat er geen volksoproer geschiede. 
+**[14:2]** Want zij zeiden: Niet op het feest, opdat er geen volksoproer geschiede.
 
-**[14:3]**  En als Hij in Bethanië was, in het huis van Simon den melaatsche, terwijl Hij aanlag, kwam er een vrouw die een albasten flesch had met onvervalschten, kostbaren nardusbalsem; en zij brak de albasten flesch en goot die uit over zijn hoofd.
+**[14:3]** En als Hij in Bethanië was, in het huis van Simon den melaatsche, terwijl Hij aanlag, kwam er een vrouw die een albasten flesch had met onvervalschten, kostbaren nardusbalsem; en zij brak de albasten flesch en goot die uit over zijn hoofd.
 
 **[14:4]** Sommigen nu waren er die dit bij zich zelven kwalijk namen, en zeiden: Waartoe dient dit verlies van den balsem?
 
 **[14:5]** Want deze balsem had kunnen verkocht worden voor meer dan driehonderd penningen, en den armen gegeven zijn! — En zij werden vergramd tegen haar.
 
-**[14:6]** Maar Jezus zeide: Laat haar doen; waarom doet gij haar moeite aan? een goed werk heeft zij aan Mij gedaan; 
+**[14:6]** Maar Jezus zeide: Laat haar doen; waarom doet gij haar moeite aan? een goed werk heeft zij aan Mij gedaan;
 
-**[14:7]** Want de armen hebt gij altijd met u, en als gij wilt kunt gij hun goed doen, maar Mij hebt gij niet altijd; 
+**[14:7]** Want de armen hebt gij altijd met u, en als gij wilt kunt gij hun goed doen, maar Mij hebt gij niet altijd;
 
 **[14:8]** zij heeft gedaan wat ze kon; zij is mijn lichaam vooraf reeds komen zalven ter begrafenis.
 
-**[14:9]** Voorwaar Ik zeg ulieden: Overal waar het Evangelie zal worden gepredikt, over de geheele wereld, daar zal ook gesproken worden tot haar gedachtenis van hetgeen zij heeft gedaan. 
+**[14:9]** Voorwaar Ik zeg ulieden: Overal waar het Evangelie zal worden gepredikt, over de geheele wereld, daar zal ook gesproken worden tot haar gedachtenis van hetgeen zij heeft gedaan.
 
-**[14:10]**  En Judas Iskariot, een van de twaalven, ging heen tot de overpriesters, om Jezus aan hen over te leveren.
+**[14:10]** En Judas Iskariot, een van de twaalven, ging heen tot de overpriesters, om Jezus aan hen over te leveren.
 
-**[14:11]** Dezen nu waren verblijd toen zij dit hoorden en beloofden hem geld te geven; en hij zocht hoe hij Hem ter rechtertijd zou overleveren. 
+**[14:11]** Dezen nu waren verblijd toen zij dit hoorden en beloofden hem geld te geven; en hij zocht hoe hij Hem ter rechtertijd zou overleveren.
 
-**[14:12]**  En op den eersten dag der ongedeesemde brooden, als men het paaschlam slachtte, zeiden zijn discipelen tot Jezus: Waar wilt Gij dat wij den paaschmaaltijd gaan toebereiden om dien te eten?
+**[14:12]** En op den eersten dag der ongedeesemde brooden, als men het paaschlam slachtte, zeiden zijn discipelen tot Jezus: Waar wilt Gij dat wij den paaschmaaltijd gaan toebereiden om dien te eten?
 
 **[14:13]** En Hij zond twee zijner discipelen uit en zeide tot hen: Gaat heen naar de stad Jerusalem, en u zal een mensch ontmoeten die een kruik water draagt; volgt hem.
 
@@ -51566,25 +51566,25 @@
 
 **[14:16]** En de discipelen gingen uit en gingen naar de stad, en vonden het zooals Hij hun gezegd had, en zij bereidden het paaschmaal.
 
-**[14:17]** En toen het avond was geworden kwam Hij met de twaalven. 
+**[14:17]** En toen het avond was geworden kwam Hij met de twaalven.
 
-**[14:18]**  En toen zij aanlagen en aten zeide Jezus: Voorwaar, Ik zeg ulieden dat één uit ulieden, die met Mij eet, Mij verraden zal.
+**[14:18]** En toen zij aanlagen en aten zeide Jezus: Voorwaar, Ik zeg ulieden dat één uit ulieden, die met Mij eet, Mij verraden zal.
 
 **[14:19]** En zij begonnen bedroefd te worden en één voor één tot Hem te zeggen: Ik toch niet?
 
-**[14:20]** En Hij zeide tot hen: Eén uit de twaalven, die met Mij in den schotel indoopt; 
+**[14:20]** En Hij zeide tot hen: Eén uit de twaalven, die met Mij in den schotel indoopt;
 
-**[14:21]** de Zoon des menschen gaat wel heen, zooals van Hem is geschreven; maar wee dien mensch, door wien de Zoon des menschen wordt verraden! Het ware hem goed als die mensch niet geboren was! 
+**[14:21]** de Zoon des menschen gaat wel heen, zooals van Hem is geschreven; maar wee dien mensch, door wien de Zoon des menschen wordt verraden! Het ware hem goed als die mensch niet geboren was!
 
-**[14:22]**  En toen zij aan het eten waren nam Jezus brood, en Hij dankte, en brak het, en gaf het hun, en zeide: Neemt, dat is mijn lichaam!
+**[14:22]** En toen zij aan het eten waren nam Jezus brood, en Hij dankte, en brak het, en gaf het hun, en zeide: Neemt, dat is mijn lichaam!
 
 **[14:23]** En den beker nemende, en een dankzegging gesproken hebbende, gaf Hij hun dien, en zij dronken allen daaruit.
 
 **[14:24]** En Hij zeide tot hen: Dit is mijn bloed des nieuwen verbonds, dat voor velen wordt vergoten!
 
-**[14:25]** Voorwaar, Ik zeg ulieden dat Ik geenszins meer drinken zal van de vrucht des wijnstoks, tot op dien dag, als Ik ze nieuw zal drinken in het koninkrijk Gods. 
+**[14:25]** Voorwaar, Ik zeg ulieden dat Ik geenszins meer drinken zal van de vrucht des wijnstoks, tot op dien dag, als Ik ze nieuw zal drinken in het koninkrijk Gods.
 
-**[14:26]**  En als zij den lofzang hadden gezongen gingen zij uit naar den Berg der Olijven.
+**[14:26]** En als zij den lofzang hadden gezongen gingen zij uit naar den Berg der Olijven.
 
 **[14:27]** En Jezus zeide tot hen: Gij allen zult dezen nacht aan Mij geërgerd worden, want er is geschreven: Ik zal den Herder slaan, en de schapen zullen verstrooid worden.
 
@@ -51594,9 +51594,9 @@
 
 **[14:30]** En Jezus zeide tot hem: Voorwaar, Ik zeg u dat gij heden, in dezen nacht, eer dat een haan tweemaal zal gekraaid hebben, Mij driemaal zult verloochenen!
 
-**[14:31]** Maar Petrus zeide nog te meer: Al móest ik ook met U sterven, ik zal U geenszins verloochenen! — Desgelijks spraken zij ook allen. 
+**[14:31]** Maar Petrus zeide nog te meer: Al móest ik ook met U sterven, ik zal U geenszins verloochenen! — Desgelijks spraken zij ook allen.
 
-**[14:32]**  En zij kwamen aan een plaats, genaamd Gethsemane, en Hij zeide tot zijn discipelen: Zit hier neder, totdat Ik gebeden heb.
+**[14:32]** En zij kwamen aan een plaats, genaamd Gethsemane, en Hij zeide tot zijn discipelen: Zit hier neder, totdat Ik gebeden heb.
 
 **[14:33]** En Hij nam Petrus en Jakobus en Johannes met zich mede, en begon ontroerd en benauwd te worden,
 
@@ -51616,9 +51616,9 @@
 
 **[14:41]** En Hij kwam voor de derde maal en zeide tot hen: Slaapt nu voort en rust! Het is genoeg. De ure is gekomen; ziet, de Zoon des menschen wordt overgeleverd in de handen der zondaren!
 
-**[14:42]** Staat op, laat ons gaan! Ziet, die Mij verraadt is nabij! 
+**[14:42]** Staat op, laat ons gaan! Ziet, die Mij verraadt is nabij!
 
-**[14:43]**  En terstond, toen Hij nog sprak, kwam Judas Iskariot, één van de twaalven, en met hem een groote menigte, met zwaarden en stokken, van de overpriesters en de schriftgeleerden, en de oudsten.
+**[14:43]** En terstond, toen Hij nog sprak, kwam Judas Iskariot, één van de twaalven, en met hem een groote menigte, met zwaarden en stokken, van de overpriesters en de schriftgeleerden, en de oudsten.
 
 **[14:44]** De verrader nu had hun een teeken gegeven, zeggende: Dien ik zal kussen, die is het; grijpt Hem en voert Hem zeker weg!
 
@@ -51636,9 +51636,9 @@
 
 **[14:51]** En een zeker jongeling volgde Hem, met een linnen kleed om het naakte lichaam, en zij grepen hem;
 
-**[14:52]** maar hij liet het kleed in den steek en vluchtte naakt. 
+**[14:52]** maar hij liet het kleed in den steek en vluchtte naakt.
 
-**[14:53]**  En zij voerden Jezus naar den hoogepriester, en al de overpriesters en de oudsten en de schriftgeleerden vergaderden met hem.
+**[14:53]** En zij voerden Jezus naar den hoogepriester, en al de overpriesters en de oudsten en de schriftgeleerden vergaderden met hem.
 
 **[14:54]** En Petrus volgde Hem van verre tot binnen in den voorhof des hoogepriesters, en hij was mede gezeten niet de dienaren en warmde zich, bij het licht van het vuur.
 
@@ -51650,9 +51650,9 @@
 
 **[14:58]** Wij hebben Hem hooren zeggen: Ik zal dezen tempel, die met handen gemaakt is, afbreken, en in drie dagen een anderen bouwen, zonder handen gemaakt.
 
-**[14:59]** Doch ook alzoo kwam hun getuigenis niet overeen. 
+**[14:59]** Doch ook alzoo kwam hun getuigenis niet overeen.
 
-**[14:60]**  En de hoogepriester stond op in het midden en vroeg Jezus, zeggende: Antwoordt Gij niets? wat getuigen dezen tegen U?
+**[14:60]** En de hoogepriester stond op in het midden en vroeg Jezus, zeggende: Antwoordt Gij niets? wat getuigen dezen tegen U?
 
 **[14:61]** Maar Hij zweeg en antwoordde niets. — Wederom vroeg de hoogepriester Hem en zeide tot Hem: Gij zijt de Christus, de Zoon van den Hooggeloofde?
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** Maar hij begon te vloeken en te zweren: Ik ken dien mensch niet, van wien gij spreekt!
 
-**[14:72]** En terstond kraaide een haan voor de tweede maal. En Petrus werd het woord indachtig, hoe Jezus tot hem gezegd had: Eer een haan tweemaal zal kraaien, zult gij Mij driemaal verloochenen. — En hij dacht daarover na, en weende.  
+**[14:72]** En terstond kraaide een haan voor de tweede maal. En Petrus werd het woord indachtig, hoe Jezus tot hem gezegd had: Eer een haan tweemaal zal kraaien, zult gij Mij driemaal verloochenen. — En hij dacht daarover na, en weende.
 
 ### Chapter 15
 
@@ -51688,9 +51688,9 @@
 
 **[15:4]** Maar Pilatus vroeg Hem wederom: Antwoordt Gij niets? zie, van hoeveel beschuldigen zij U!
 
-**[15:5]** Maar Jezus antwoordde niets meer, zoodat Pilatus zich verwonderde. 
+**[15:5]** Maar Jezus antwoordde niets meer, zoodat Pilatus zich verwonderde.
 
-**[15:6]**  En op het feest liet hij hun één gevangene los, dien zij begeerden.
+**[15:6]** En op het feest liet hij hun één gevangene los, dien zij begeerden.
 
 **[15:7]** Er was nu een, Barabbas genoemd, met de oproermakers gevangen, die in een oproer een moord had begaan.
 
@@ -51708,9 +51708,9 @@
 
 **[15:14]** Pilatus nu zeide tot hen: Wat kwaads heeft Hij toch gedaan? — Maar des te meer schreeuwden zij: Kruisig Hem!
 
-**[15:15]** Pilatus nu, die aan de schare wilde voldoen, liet hun Barabbas los, en gaf Jezus over, nadat hij Hem gegeeseld had, opdat Hij zou gekruisigd worden. 
+**[15:15]** Pilatus nu, die aan de schare wilde voldoen, liet hun Barabbas los, en gaf Jezus over, nadat hij Hem gegeeseld had, opdat Hij zou gekruisigd worden.
 
-**[15:16]**  De soldaten dan voerden Hem weg, naar binnen in den voorhof, dat is het rechthuis, en zij riepen den ganschen troep samen.
+**[15:16]** De soldaten dan voerden Hem weg, naar binnen in den voorhof, dat is het rechthuis, en zij riepen den ganschen troep samen.
 
 **[15:17]** En zij deden Hem een purperen mantel om en zetten Hem een kroon op, die van doornen was gevlochten.
 
@@ -51718,9 +51718,9 @@
 
 **[15:19]** En zij sloegen op zijn hoofd met een riet, en spogen op Hem, en vielen voor Hem op de knieën en aanbaden Hem.
 
-**[15:20]** En toen zij Hem bespot hadden, trokken zij Hem het purperen kleed uit en deden Hem zijn eigen kleederen aan. 
+**[15:20]** En toen zij Hem bespot hadden, trokken zij Hem het purperen kleed uit en deden Hem zijn eigen kleederen aan.
 
-**[15:21]**  En zij voerden Hem weg om Hem te kruisigen, en dwongen zekeren Simon van Cyrene, die daar voorbijging en van den akker kwam— den vader van Alexander en Rufus— om zijn kruis op te nemen.
+**[15:21]** En zij voerden Hem weg om Hem te kruisigen, en dwongen zekeren Simon van Cyrene, die daar voorbijging en van den akker kwam— den vader van Alexander en Rufus— om zijn kruis op te nemen.
 
 **[15:22]** En zij brachten Hem naar de plaats Golgotha, dat wil zeggen: Plaats der doodshoofden.
 
@@ -51750,9 +51750,9 @@
 
 **[15:35]** En sommigen, die daarbij stonden en het hoorden, zeiden: Zie, Hij roept Elias!
 
-**[15:36]** En één liep er toe en vulde een spons met azijn en stak die op een rietstok en gaf Hem te drinken, zeggende: Wacht, laat ons zien of Elias komt om Hem af te nemen! 
+**[15:36]** En één liep er toe en vulde een spons met azijn en stak die op een rietstok en gaf Hem te drinken, zeggende: Wacht, laat ons zien of Elias komt om Hem af te nemen!
 
-**[15:37]**  En Jezus riep met een luide stem en gaf den geest.
+**[15:37]** En Jezus riep met een luide stem en gaf den geest.
 
 **[15:38]** En het voorhangsel des tempels scheurde in tweeën van boven naar beneden.
 
@@ -51760,9 +51760,9 @@
 
 **[15:40]** En er waren ook vrouwen, die het uit de verte aanschouwden, onder welke ook Maria Magdalena, en Maria, de moeder van Jakobus den jongere en van Joses, en Salome.
 
-**[15:41]** Deze volgden Hem reeds als Hij in Galilea was en dienden Hem; en vele anderen, die met Hem naar Jerusalem waren opgegaan. 
+**[15:41]** Deze volgden Hem reeds als Hij in Galilea was en dienden Hem; en vele anderen, die met Hem naar Jerusalem waren opgegaan.
 
-**[15:42]**  En toen het nu avond was geworden, daar het voorbereiding was, dat is de voorsabbat,
+**[15:42]** En toen het nu avond was geworden, daar het voorbereiding was, dat is de voorsabbat,
 
 **[15:43]** kwam Jozef van Arimathea, een aanzienlijk raadsheer, die ook zelf het koninkrijk Gods verwachtende was; en hij verstoutte zich en ging tot Pilatus en verzocht om het lichaam van Jezus.
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** En deze kocht lijnwaad en, nadat hij Hem had afgenomen, wond hij Hem in het lijnwaad en leide Hem in een graf dat uit een steenrots was gekapt, en hij rolde een steen tegen de deur des grafs.
 
-**[15:47]** Maria Magdalena nu, en Maria de moeder van Joses zagen toe waar Hij gelegd werd.  
+**[15:47]** Maria Magdalena nu, en Maria de moeder van Joses zagen toe waar Hij gelegd werd.
 
 ### Chapter 16
 
@@ -51790,31 +51790,31 @@
 
 **[16:7]** Maar gaat heen, zegt tot zijn discipelen en tot Petrus, dat Hij u voorgaat naar Galilea; daar zult gij Hem zien, zooals Hij u gezegd heeft!
 
-**[16:8]** En zij gingen heen en vloden van het graf, want zij vreesden en beefden, en zeiden aan niemand iets, want zij waren bevreesd. 
+**[16:8]** En zij gingen heen en vloden van het graf, want zij vreesden en beefden, en zeiden aan niemand iets, want zij waren bevreesd.
 
-**[16:9]**  Toen Jezus nu des morgens vroeg was verrezen, op den eersten dag der week, verscheen Hij eerst aan Maria Magdalena, uit wie Hij zeven booze geesten had uitgeworpen.
+**[16:9]** Toen Jezus nu des morgens vroeg was verrezen, op den eersten dag der week, verscheen Hij eerst aan Maria Magdalena, uit wie Hij zeven booze geesten had uitgeworpen.
 
 **[16:10]** Deze ging heen en boodschapte het aan degenen die met Hem geweest waren, die treurden en weenden.
 
-**[16:11]** En als dezen hoorden dat Hij leefde en door haar gezien was, geloofden zij het niet. 
+**[16:11]** En als dezen hoorden dat Hij leefde en door haar gezien was, geloofden zij het niet.
 
-**[16:12]**  Daarna verscheen Hij in een andere gedaante aan twee van hen, die wandelden en naar het veld gingen.
+**[16:12]** Daarna verscheen Hij in een andere gedaante aan twee van hen, die wandelden en naar het veld gingen.
 
-**[16:13]** Ook dezen gingen heen en boodschapten het aan de anderen; maar ook dezen geloofden zij niet. 
+**[16:13]** Ook dezen gingen heen en boodschapten het aan de anderen; maar ook dezen geloofden zij niet.
 
-**[16:14]**  Later verscheen Hij aan de elf apostelen toen zij aan tafel lagen, en verweet hun ongeloof en verharding des harten, omdat zij hen niet hadden geloofd die Hem gezien hadden, nadat Hij was verrezen. 
+**[16:14]** Later verscheen Hij aan de elf apostelen toen zij aan tafel lagen, en verweet hun ongeloof en verharding des harten, omdat zij hen niet hadden geloofd die Hem gezien hadden, nadat Hij was verrezen.
 
-**[16:15]**  En Hij zeide tot hen: Gaat heen door de geheele wereld, predikt het Evangelie aan alle schepsel.
+**[16:15]** En Hij zeide tot hen: Gaat heen door de geheele wereld, predikt het Evangelie aan alle schepsel.
 
 **[16:16]** Die geloofd zal hebben en gedoopt zal zijn die zal behouden worden, maar die niet geloofd zal hebben zal veroordeeld worden.
 
 **[16:17]** Dengenen nu, die geloofd zullen hebben, zullen deze teekenen volgen: In mijn Naam zullen zij booze geesten uitwerpen; met nieuwe tongen zullen zij spreken;
 
-**[16:18]** slangen zullen zij opnemen, en mochten zij iets doodelijks drinken, dat zal hun geenszins schaden; op kranken zullen zij de handen leggen en zij zullen genezen. 
+**[16:18]** slangen zullen zij opnemen, en mochten zij iets doodelijks drinken, dat zal hun geenszins schaden; op kranken zullen zij de handen leggen en zij zullen genezen.
 
-**[16:19]**  De Heere dan, nadat Hij tot hen gesproken had, is opgenomen naar den hemel en gezeten aan Gods rechterhand.
+**[16:19]** De Heere dan, nadat Hij tot hen gesproken had, is opgenomen naar den hemel en gezeten aan Gods rechterhand.
 
-**[16:20]** Zij nu gingen uit en predikten overal, terwijl de Heere medewerkte en het woord bekrachtigde door de teekenen die er op volgden.   
+**[16:20]** Zij nu gingen uit en predikten overal, terwijl de Heere medewerkte en het woord bekrachtigde door de teekenen die er op volgden.
 
 ## Luke
 
@@ -51826,9 +51826,9 @@
 
 **[1:3]** zoo heeft het ook mij goedgedacht, nadat ik alles vooraf nauwkeurig onderzocht heb, ze voor u achtereenvolgens te schrijven, voortreffelijke Theofilus!
 
-**[1:4]** opdat gij de zekere waarheid moogt erkennen van de leer waarin gij onderwezen zijt. 
+**[1:4]** opdat gij de zekere waarheid moogt erkennen van de leer waarin gij onderwezen zijt.
 
-**[1:5]**  In de dagen van Herodes, den koning van Judea, was er een zeker priester met name Zacharias, uit de dagorde van Abia, en zijn vrouw was uit de dochteren van Aäron, en haar naam was Elisabet.
+**[1:5]** In de dagen van Herodes, den koning van Judea, was er een zeker priester met name Zacharias, uit de dagorde van Abia, en zijn vrouw was uit de dochteren van Aäron, en haar naam was Elisabet.
 
 **[1:6]** En zij waren beiden rechtvaardig voor God, wandelende in al de geboden en instellingen des Heeren, onberispelijk.
 
@@ -51868,9 +51868,9 @@
 
 **[1:24]** Na die dagen nu werd Elisabet, zijn huisvrouw, zwanger; en zij hield zich vijf maanden verborgen, zeggende:
 
-**[1:25]** Alzoo heeft mij de Heere gedaan in de dagen waarin Hij neergezien heeft om mijn smaad onder de menschen weg te nemen. 
+**[1:25]** Alzoo heeft mij de Heere gedaan in de dagen waarin Hij neergezien heeft om mijn smaad onder de menschen weg te nemen.
 
-**[1:26]**  En in de zesde maand werd de engel Gabriël door God gezonden naar een stad van Galilea, genaamd Nazaret,
+**[1:26]** En in de zesde maand werd de engel Gabriël door God gezonden naar een stad van Galilea, genaamd Nazaret,
 
 **[1:27]** tot een maagd, die ondertrouwd was met een man, genaamd Jozef, uit het geslacht van David; en de naam der maagd was Maria.
 
@@ -51894,9 +51894,9 @@
 
 **[1:37]** want onmogelijk zal er bij God geen woord zijn.
 
-**[1:38]** En Maria zeide: Zie, de dienstmaagd des Heeren; mij geschiede naar uw woord! En de engel ging van haar weg. 
+**[1:38]** En Maria zeide: Zie, de dienstmaagd des Heeren; mij geschiede naar uw woord! En de engel ging van haar weg.
 
-**[1:39]**  Maria nu stond in die dagen op en ging met haast naar het gebergte, naar een stad van Juda.
+**[1:39]** Maria nu stond in die dagen op en ging met haast naar het gebergte, naar een stad van Juda.
 
 **[1:40]** En zij kwam in het huis van Zacharias en groette Elisabet.
 
@@ -51908,9 +51908,9 @@
 
 **[1:44]** want zie, toen de klank uwer begroeting in mijn ooren kwam sprong het kindeken van vreugde op in mijn lichaam;
 
-**[1:45]** en zalig is zij die geloofd heeft, want volbracht zal worden, wat haar vanwege den Heere is gezegd! 
+**[1:45]** en zalig is zij die geloofd heeft, want volbracht zal worden, wat haar vanwege den Heere is gezegd!
 
-**[1:46]**  En Maria zeide: Mijn ziel maakt den Heere groot,
+**[1:46]** En Maria zeide: Mijn ziel maakt den Heere groot,
 
 **[1:47]** en mijn geest verheugt zich over God, mijn Verlosser,
 
@@ -51930,9 +51930,9 @@
 
 **[1:55]** — gelijk Hij tot onze vaderen heeft gesproken— aan Abraham en zijn nakomelingen tot in eeuwigheid!
 
-**[1:56]** Maria nu bleef bij haar omtrent drie maanden, en zij keerde terug naar haar huis. 
+**[1:56]** Maria nu bleef bij haar omtrent drie maanden, en zij keerde terug naar haar huis.
 
-**[1:57]**  En de tijd van Elisabet werd vervuld dat zij baren zou, en zij baarde een zoon.
+**[1:57]** En de tijd van Elisabet werd vervuld dat zij baren zou, en zij baarde een zoon.
 
 **[1:58]** En de geburen en haar familie hoorden dat de Heere zijn barmhartigheid aan haar groot gemaakt had, en zij verblijdden zich met haar.
 
@@ -51950,9 +51950,9 @@
 
 **[1:65]** En er kwam vreeze over allen die daar omtrent woonden, en in het gansche gebergte van Judea werd over al deze dingen gesproken.
 
-**[1:66]** En allen die het hoorden bewaarden het in hun harten, zeggende: Wat zal toch dit kindeken wezen? Want ook de hand des Heeren was met hem. 
+**[1:66]** En allen die het hoorden bewaarden het in hun harten, zeggende: Wat zal toch dit kindeken wezen? Want ook de hand des Heeren was met hem.
 
-**[1:67]**  En Zacharias, zijn vader, werd vervuld met den Heiligen Geest en profeteerde, zeggende:
+**[1:67]** En Zacharias, zijn vader, werd vervuld met den Heiligen Geest en profeteerde, zeggende:
 
 **[1:68]** Geprezen zij de Heere, de God van Israël, omdat Hij zijn volk heeft bezocht en vrijgekocht,
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** om te verschijnen aan degenen die gezeten zijn in de duisternis en in de schaduw des doods; om onze voeten te richten op den weg des vredes.
 
-**[1:80]** Het kindeken nu groeide op en werd gesterkt naar den geest, en hij was in de woestijnen tot op den dag zijner optreding in Israël.  
+**[1:80]** Het kindeken nu groeide op en werd gesterkt naar den geest, en hij was in de woestijnen tot op den dag zijner optreding in Israël.
 
 ### Chapter 2
 
@@ -51994,9 +51994,9 @@
 
 **[2:6]** Toen zij daar nu waren geschiedde het dat de dagen werden vervuld dat zij zou baren.
 
-**[2:7]** En zij baarde haar eerstgeboren Zoon, en wond Hem in doeken, en leide Hem neder in de kribbe, omdat er geen plaats voor hen was in de herberg. 
+**[2:7]** En zij baarde haar eerstgeboren Zoon, en wond Hem in doeken, en leide Hem neder in de kribbe, omdat er geen plaats voor hen was in de herberg.
 
-**[2:8]**  En er waren herders in die zelfde landstreek, die in het veld des nachts de wacht hielden over hun kudde.
+**[2:8]** En er waren herders in die zelfde landstreek, die in het veld des nachts de wacht hielden over hun kudde.
 
 **[2:9]** En zie, een engel des Heeren stond bij hen en de glorie des Heeren omscheen hen en zij vreesden met groote vreeze.
 
@@ -52020,17 +52020,17 @@
 
 **[2:19]** Doch Maria bewaarde al deze dingen en overleide die in haar harte.
 
-**[2:20]** En de herders keerden weder aan God glorie en lof gevende over alles wat zij gehoord en gezien hadden, gelijk tot hen gesproken was. 
+**[2:20]** En de herders keerden weder aan God glorie en lof gevende over alles wat zij gehoord en gezien hadden, gelijk tot hen gesproken was.
 
-**[2:21]**  En toen er acht dagen vervuld waren dat men het kindeken besnijden zou, werd zijn naam Jezus genoemd, welke door den engel genoemd was, vóórdat Hij in het lichaam ontvangen was. 
+**[2:21]** En toen er acht dagen vervuld waren dat men het kindeken besnijden zou, werd zijn naam Jezus genoemd, welke door den engel genoemd was, vóórdat Hij in het lichaam ontvangen was.
 
-**[2:22]**  En toen de dagen hunner zuivering volgens de wet van Mozes vervuld waren, brachten zij Hem naar Jerusalem om Hem den Heere voor te stellen,
+**[2:22]** En toen de dagen hunner zuivering volgens de wet van Mozes vervuld waren, brachten zij Hem naar Jerusalem om Hem den Heere voor te stellen,
 
 **[2:23]** gelijk er geschreven is in de wet des Heeren: Alle eerstgeborene, van het mannelijk geslacht, zal den Heere heilig genaamd worden.
 
-**[2:24]** En om een offerande te geven volgens hetgeen in de wet des Heeren gezegd is: Een paar tortelduiven of twee jonge duiven. 
+**[2:24]** En om een offerande te geven volgens hetgeen in de wet des Heeren gezegd is: Een paar tortelduiven of twee jonge duiven.
 
-**[2:25]**  En ziet, er was een mensch in Jerusalem, wiens naam was Simeon. Deze mensch was rechtvaardig en godvruchtig, verwachtende de vertroosting van Israël, en de Heilige Geest was op hem.
+**[2:25]** En ziet, er was een mensch in Jerusalem, wiens naam was Simeon. Deze mensch was rechtvaardig en godvruchtig, verwachtende de vertroosting van Israël, en de Heilige Geest was op hem.
 
 **[2:26]** En hem was een openbaring gegeven door den Heiligen Geest dat hij den dood niet zien zou vóórdat hij den Gezalfde des Heeren zou zien.
 
@@ -52050,9 +52050,9 @@
 
 **[2:34]** En Simeon zegende hen en zeide tot Maria, zijn moeder: Zie, deze is gesteld tot een val en opstanding van velen in Israël, en tot een teeken dat wedersproken wordt;
 
-**[2:35]** en ook u zelve zal een zwaard door de ziel gaan— opdat uit vele harten de overleggingen openbaar worden. 
+**[2:35]** en ook u zelve zal een zwaard door de ziel gaan— opdat uit vele harten de overleggingen openbaar worden.
 
-**[2:36]**  Er was ook een profetesse, Anna, een dochter van Phanuël, uit den stam van Aser. Deze was hoog bejaard, en had van haar maagdelijken staat af zeven jaar met haar man geleefd.
+**[2:36]** Er was ook een profetesse, Anna, een dochter van Phanuël, uit den stam van Aser. Deze was hoog bejaard, en had van haar maagdelijken staat af zeven jaar met haar man geleefd.
 
 **[2:37]** En zij was een weduwe van omstreeks vier en tachtig jaar, die den tempel niet verliet, en met vasten en gebeden God nacht en dag diende.
 
@@ -52060,9 +52060,9 @@
 
 **[2:39]** Toen zij nu volgens de wet des Heeren alles volbracht hadden, keerden zij terug naar Galilea, tot hun stad Nazaret.
 
-**[2:40]** Het kindeken nu groeide op en werd versterkt, vervuld zijnde met wijsheid, en de genade Gods was op Hem. 
+**[2:40]** Het kindeken nu groeide op en werd versterkt, vervuld zijnde met wijsheid, en de genade Gods was op Hem.
 
-**[2:41]**  En zijn ouders gingen jaarlijks naar Jerusalem, met het paaschfeest.
+**[2:41]** En zijn ouders gingen jaarlijks naar Jerusalem, met het paaschfeest.
 
 **[2:42]** En toen Hij twaalf jaar oud was, gingen zij naar de gewoonte van het feest, op naar Jerusalem.
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** En Hij ging met hen af en kwam naar Nazaret en was hun onderdanig. En zijn moeder bewaarde al deze dingen in haar hart.
 
-**[2:52]** En Jezus nam toe in wijsheid en in ouderdom, en in genade bij God en menschen.  
+**[2:52]** En Jezus nam toe in wijsheid en in ouderdom, en in genade bij God en menschen.
 
 ### Chapter 3
 
@@ -52122,17 +52122,17 @@
 
 **[3:17]** Zijn wan is in zijn hand om zijn dorschvloer geheel te zuiveren en het koren te verzamelen in zijn schuur, maar het kaf zal Hij verbranden met onuitbluschbaar vuur.
 
-**[3:18]** En nog veel andere vermaningen gevende verkondigde hij den volke het Evangelie. 
+**[3:18]** En nog veel andere vermaningen gevende verkondigde hij den volke het Evangelie.
 
-**[3:19]**  Maar Herodes de viervorst, door Johannes bestraft zijnde om Herodias, de huisvrouw zijns broeders, en om al de slechte dingen die Herodes deed,
+**[3:19]** Maar Herodes de viervorst, door Johannes bestraft zijnde om Herodias, de huisvrouw zijns broeders, en om al de slechte dingen die Herodes deed,
 
-**[3:20]** heeft dit nog bij al het andere gevoegd, dat hij Johannes in de gevangenis opsloot. 
+**[3:20]** heeft dit nog bij al het andere gevoegd, dat hij Johannes in de gevangenis opsloot.
 
-**[3:21]**  Het geschiedde nu toen al het volk gedoopt werd, en ook Jezus gedoopt en biddende was, dat de hemel werd geopend,
+**[3:21]** Het geschiedde nu toen al het volk gedoopt werd, en ook Jezus gedoopt en biddende was, dat de hemel werd geopend,
 
-**[3:22]** en dat de Heilige Geest, in lichamelijke gedaante, zooals een duive, op Hem nederdaalde, en dat er een stem uit den hemel kwam: Gij zijt mijn Zoon, de Beminde: in U heb Ik welbehagen! 
+**[3:22]** en dat de Heilige Geest, in lichamelijke gedaante, zooals een duive, op Hem nederdaalde, en dat er een stem uit den hemel kwam: Gij zijt mijn Zoon, de Beminde: in U heb Ik welbehagen!
 
-**[3:23]**  En Jezus was, toen Hij optrad, omtrent dertig jaar oud en Hij was, zoo men meende, een zoon van Jozef, den zoon van Eli,
+**[3:23]** En Jezus was, toen Hij optrad, omtrent dertig jaar oud en Hij was, zoo men meende, een zoon van Jozef, den zoon van Eli,
 
 **[3:24]** den zoon van Matthat, den zoon van Levi, den zoon van Melchi, den zoon van Janna, den zoon van Jozef,
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** den zoon van Methusalem, den zoon van Henoch, den zoon van Jared, den zoon van Melaleël, den zoon van Kaïnan,
 
-**[3:38]** den zoon van Enos, den zoon van Seth, den zoon van Adam, den zoon van God.  
+**[3:38]** den zoon van Enos, den zoon van Seth, den zoon van Adam, den zoon van God.
 
 ### Chapter 4
 
@@ -52190,9 +52190,9 @@
 
 **[4:12]** En Jezus antwoordde en zeide tot hem: Er is gezegd: Den Heere uw God zult gij niet tergen.
 
-**[4:13]** En alle bekoring voleindigd hebbende, week de duivel een tijd lang van Hem. 
+**[4:13]** En alle bekoring voleindigd hebbende, week de duivel een tijd lang van Hem.
 
-**[4:14]**  En Jezus keerde in de kracht des Geestes weder haar Galilea; en een gerucht van Hem ging uit door den geheelen omtrek.
+**[4:14]** En Jezus keerde in de kracht des Geestes weder haar Galilea; en een gerucht van Hem ging uit door den geheelen omtrek.
 
 **[4:15]** En Hij gaf onderwijs in hun synagogen, geprezen zijnde van allen.
 
@@ -52224,9 +52224,9 @@
 
 **[4:29]** en opstaande wierpen zij Hem uit, buiten de stad, en zij voerden Hem naar den top des bergs, waarop hun stad was gebouwd, om Hem naar beneden te werpen.
 
-**[4:30]** Maar Hij ging midden door hen heen, en vertrok. 
+**[4:30]** Maar Hij ging midden door hen heen, en vertrok.
 
-**[4:31]**  En Hij ging af naar Kapernaüm, een stad van Galilea, en Hij onderwees hen op de sabbatdagen.
+**[4:31]** En Hij ging af naar Kapernaüm, een stad van Galilea, en Hij onderwees hen op de sabbatdagen.
 
 **[4:32]** En zij stonden verbaasd over zijn onderwijs, want zijn woord was met macht.
 
@@ -52238,13 +52238,13 @@
 
 **[4:36]** En er kwam een verbaasdheid over allen en zij spraken tot malkander zeggende: Welk een woord is dit, dat Hij met macht en kracht de onzuivere geesten gebiedt en zij gaan uit?
 
-**[4:37]** En er ging een gerucht van Hem uit naar alle plaats van den omtrek. 
+**[4:37]** En er ging een gerucht van Hem uit naar alle plaats van den omtrek.
 
-**[4:38]**  En Hij stond op en ging uit de synagoge naar het huis van Simon. De schoonmoeder nu van Simon was lijdende aan een zware koorts; en zij vroegen Hem voor haar.
+**[4:38]** En Hij stond op en ging uit de synagoge naar het huis van Simon. De schoonmoeder nu van Simon was lijdende aan een zware koorts; en zij vroegen Hem voor haar.
 
-**[4:39]** En over haar heen buigende bestrafte Hij de koorts, en deze verliet haar; en zij stond aanstonds op en bediende hen. 
+**[4:39]** En over haar heen buigende bestrafte Hij de koorts, en deze verliet haar; en zij stond aanstonds op en bediende hen.
 
-**[4:40]**  En toen de zon onderging brachten allen die kranken hadden aan allerlei ziekten, dezen tot Hem; en Hij leide aan een ieder hunner de handen op en genas hen.
+**[4:40]** En toen de zon onderging brachten allen die kranken hadden aan allerlei ziekten, dezen tot Hem; en Hij leide aan een ieder hunner de handen op en genas hen.
 
 **[4:41]** En er gingen ook booze geesten uit van velen, schreeuwende en zeggende: Gij zijt de Zone Gods! En Hij bestrafte hen en liet hun niet toe te spreken, daar zij wisten dat Hij de Christus was.
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** Maar Hij zeide tot hen: Ik moet ook aan de andere steden het Evangelie van het koninkrijk Gods verkondigen, want daartoe ben Ik uitgezonden.
 
-**[4:44]** En Hij predikte in de synagogen van Galilea.  
+**[4:44]** En Hij predikte in de synagogen van Galilea.
 
 ### Chapter 5
 
@@ -52276,9 +52276,9 @@
 
 **[5:10]** en zoo ook Jakobus en Johannes, de zonen van Zebedeüs, die Simons medgezellen waren. En Jezus zeide tot Simon: Vrees niet; van nu af zult gij menschen vangen.
 
-**[5:11]** En de schepen naar den wal gestuurd hebbende verlieten zij alles en volgden Hem. 
+**[5:11]** En de schepen naar den wal gestuurd hebbende verlieten zij alles en volgden Hem.
 
-**[5:12]**  En het geschiedde, toen Hij in een der steden was, zie, daar was een man vol melaatschheid; en Jezus ziende, viel hij op zijn aangezicht en smeekte Hem zeggende: Heere, als Gij wilt, kunt Gij mij zuiveren!
+**[5:12]** En het geschiedde, toen Hij in een der steden was, zie, daar was een man vol melaatschheid; en Jezus ziende, viel hij op zijn aangezicht en smeekte Hem zeggende: Heere, als Gij wilt, kunt Gij mij zuiveren!
 
 **[5:13]** En de hand uitstekende raakte Hij hem aan, zeggende: Ik wil, word gezuiverd! En terstond ging de melaatschheid van hem.
 
@@ -52286,9 +52286,9 @@
 
 **[5:15]** Maar het gerucht van Hem werd al meer verbreid, en veel scharen kwamen om te hooren en van hun ziekten genezen te worden.
 
-**[5:16]** Maar Hij trok zich terug in de woestijnen en was biddende. 
+**[5:16]** Maar Hij trok zich terug in de woestijnen en was biddende.
 
-**[5:17]**  En het geschiedde op een dag dat Hij bezig was te onderwijzen en dat er fariseërs zaten en wetgeleerden, die waren gekomen uit alle vlekken van Galilea, en Judea, en Jerusalem; en de kracht des Heeren was er om hen te genezen.
+**[5:17]** En het geschiedde op een dag dat Hij bezig was te onderwijzen en dat er fariseërs zaten en wetgeleerden, die waren gekomen uit alle vlekken van Galilea, en Judea, en Jerusalem; en de kracht des Heeren was er om hen te genezen.
 
 **[5:18]** En zie, eenige mannen brachten op een bed een mensch die verlamd was en zij zochten hem binnen te brengen en vóór Hem te leggen.
 
@@ -52306,9 +52306,9 @@
 
 **[5:25]** En terstond, voor hun oogen opstaande, nam hij op hetgeen waarop hij gelegen had en hij ging naar zijn huis, God de glorie gevende.
 
-**[5:26]** En een verbazing greep hen allen aan, en zij gaven God de glorie, en werden vervuld met vreeze, zeggende: Wij hebben heden onbegrijpelijke dingen gezien! 
+**[5:26]** En een verbazing greep hen allen aan, en zij gaven God de glorie, en werden vervuld met vreeze, zeggende: Wij hebben heden onbegrijpelijke dingen gezien!
 
-**[5:27]**  En daarna ging Hij uit en zag een tollenaar, met name Levi, aan het tolhuis zitten, en zeide tot hem: Volg Mij na!
+**[5:27]** En daarna ging Hij uit en zag een tollenaar, met name Levi, aan het tolhuis zitten, en zeide tot hem: Volg Mij na!
 
 **[5:28]** En alles verlatende, stond deze op en volgde Hem.
 
@@ -52316,23 +52316,23 @@
 
 **[5:30]** En hun fariseërs en schriftgeleerden murmureerden tegen zijn discipelen, zeggende: Waarom eet en drinkt gij met de tollenaars en zondaars?
 
-**[5:31]** En Jezus antwoordde en zeide tot hen: Niet de gezonden hebben een geneesmeester van noode, maar de zieken; 
+**[5:31]** En Jezus antwoordde en zeide tot hen: Niet de gezonden hebben een geneesmeester van noode, maar de zieken;
 
-**[5:32]** Ik ben niet gekomen om rechtvaardigen te roepen tot boetvaardigheid, maar zondaars. 
+**[5:32]** Ik ben niet gekomen om rechtvaardigen te roepen tot boetvaardigheid, maar zondaars.
 
-**[5:33]**  Zij nu zeiden tot Hem: De discipelen van Johannes vasten dikwijls en doen gebeden, evenals die van de fariseërs, maar de uwen eten en drinken?
+**[5:33]** Zij nu zeiden tot Hem: De discipelen van Johannes vasten dikwijls en doen gebeden, evenals die van de fariseërs, maar de uwen eten en drinken?
 
 **[5:34]** Maar Jezus zeide tot hen: Gij kunt toch de bruiloftsgasten niet doen vasten, terwijl de bruidegom bij hen is?
 
 **[5:35]** Maar er zullen dagen komen, als de bruidegom van hen is weggenomen; dan zullen zij vasten in die dagen.
 
-**[5:36]** Hij sprak tot hen ook een gelijkenis: Niemand scheurt een stuk van een nieuw kleed af en zet dat op een oud kleed, anders zou ook het nieuwe scheuren; en bij het oude zou het stuk van het nieuwe niet voegen; 
+**[5:36]** Hij sprak tot hen ook een gelijkenis: Niemand scheurt een stuk van een nieuw kleed af en zet dat op een oud kleed, anders zou ook het nieuwe scheuren; en bij het oude zou het stuk van het nieuwe niet voegen;
 
-**[5:37]** en niemand giet jongen wijn in oude zakken, anders zou de jonge wijn de zakken doen barsten, en hij zou wegvloeien en de zakken zouden verloren zijn; 
+**[5:37]** en niemand giet jongen wijn in oude zakken, anders zou de jonge wijn de zakken doen barsten, en hij zou wegvloeien en de zakken zouden verloren zijn;
 
-**[5:38]** maar jongen wijn moet men in nieuwe zakken gieten, en dan worden beide te zamen bewaard; 
+**[5:38]** maar jongen wijn moet men in nieuwe zakken gieten, en dan worden beide te zamen bewaard;
 
-**[5:39]** en niemand die ouden gedronken heeft begeert jongen, want hij zegt: De oude is beter.  
+**[5:39]** en niemand die ouden gedronken heeft begeert jongen, want hij zegt: De oude is beter.
 
 ### Chapter 6
 
@@ -52344,9 +52344,9 @@
 
 **[6:4]** hoe hij is ingegaan in het huis Gods en de toonbrooden heeft genomen en gegeten, en ook gegeven aan hen die met hem waren, ofschoon het niet geoorloofd is die te eten dan alleen aan de priesters?
 
-**[6:5]** En Hij zeide tot hen: De Zoon des menschen is Heer ook van den sabbat. 
+**[6:5]** En Hij zeide tot hen: De Zoon des menschen is Heer ook van den sabbat.
 
-**[6:6]**  En op een anderen sabbat geschiedde het dat Hij in de synagoge ging en onderwees; en daar was een mensch wiens rechterhand stijf was.
+**[6:6]** En op een anderen sabbat geschiedde het dat Hij in de synagoge ging en onderwees; en daar was een mensch wiens rechterhand stijf was.
 
 **[6:7]** De schriftgeleerden nu en de fariseërs letten op Hem of Hij op den sabbat zou genezen, opdat zij een beschuldiging tegen Hem mochten vinden.
 
@@ -52356,9 +52356,9 @@
 
 **[6:10]** En hen allen rondom aangezien hebbende, zeide Hij tot den man: Steek uw hand uit! Hij nu deed het en zijn hand werd zoo gezond als de andere.
 
-**[6:11]** En zij werden vol van uitzinnigheid en bespraken met elkander wat zij Jezus toch zouden doen. 
+**[6:11]** En zij werden vol van uitzinnigheid en bespraken met elkander wat zij Jezus toch zouden doen.
 
-**[6:12]**  En het geschiedde in een van die dagen dat Hij naar een berg ging om te bidden, en Hij bracht den nacht door in het gebed tot God.
+**[6:12]** En het geschiedde in een van die dagen dat Hij naar een berg ging om te bidden, en Hij bracht den nacht door in het gebed tot God.
 
 **[6:13]** En toen het dag werd riep Hij zijn discipelen tot zich en koos uit hen twaalf, die Hij ook apostelen noemde:
 
@@ -52366,15 +52366,15 @@
 
 **[6:15]** en Mattheüs, en Thomas, en Jakobus den zoon van Alfeüs, en Simon genaamd de ijveraar,
 
-**[6:16]** en Judas, den broeder van Jakobus, en Judas Iskariot, die de verrader is geworden. 
+**[6:16]** en Judas, den broeder van Jakobus, en Judas Iskariot, die de verrader is geworden.
 
-**[6:17]**  En met hen afgekomen zijnde, stond Hij op een vlakke plaats, alsmede een groote schare zijner discipelen, en een groote menigte volks van geheel Judea, en Jerusalem, en van den zeekant van Tyrus en Sidon, die gekomen waren om Hem te hooren en genezen te worden van hun ziekten.
+**[6:17]** En met hen afgekomen zijnde, stond Hij op een vlakke plaats, alsmede een groote schare zijner discipelen, en een groote menigte volks van geheel Judea, en Jerusalem, en van den zeekant van Tyrus en Sidon, die gekomen waren om Hem te hooren en genezen te worden van hun ziekten.
 
 **[6:18]** En zij die gekweld werden van onzuivere geesten werden genezen.
 
-**[6:19]** En de geheele schare zocht Hem aan te raken, want er ging kracht van Hem uit en Hij genas hen allen. 
+**[6:19]** En de geheele schare zocht Hem aan te raken, want er ging kracht van Hem uit en Hij genas hen allen.
 
-**[6:20]**  En Hij sloeg zijn oogen op naar zijn discipelen en zeide: Zalig, gij armen, want uwer is het koninkrijk Gods.
+**[6:20]** En Hij sloeg zijn oogen op naar zijn discipelen en zeide: Zalig, gij armen, want uwer is het koninkrijk Gods.
 
 **[6:21]** Zalig, gij die nu honger hebt, want gij zult verzadigd worden. Zalig, gij die nu weent, want gij zult lachen.
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** Hij is gelijk aan een mensch die een huis bouwde, die groef, en uitdiepte en het fundament leide op de rots; toen er nu een overstrooming kwam sloeg de stortvloed tegen dat huis aan en kon het niet bewegen, omdat het was gebouwd op een rots.
 
-**[6:49]** Maar die mijn woorden hoort en ze niet doet, is gelijk aan een mensch die een huis bouwde op den grond, zonder fundament, waar de stortvloed tegenaan sloeg; en het viel terstond en de breuke van dat huis was groot.  
+**[6:49]** Maar die mijn woorden hoort en ze niet doet, is gelijk aan een mensch die een huis bouwde op den grond, zonder fundament, waar de stortvloed tegenaan sloeg; en het viel terstond en de breuke van dat huis was groot.
 
 ### Chapter 7
 
@@ -52454,9 +52454,9 @@
 
 **[7:9]** Als Jezus dit hoorde verwonderde Hij zich, en zich omkeerende tot de schare die Hem volgde, zeide Hij: Ik zeg u, zelfs in Israël heb Ik zoo groot een geloof niet gevonden.
 
-**[7:10]** En toen de afgezondenen naar huis teruggekeerd waren vonden zij den dienstknecht gezond die krank was geweest. 
+**[7:10]** En toen de afgezondenen naar huis teruggekeerd waren vonden zij den dienstknecht gezond die krank was geweest.
 
-**[7:11]**  En op den volgenden dag geschiedde het dat Hij ging naar een stad genaamd Naïn, en met Hem gingen zijn discipelen en een groote schare.
+**[7:11]** En op den volgenden dag geschiedde het dat Hij ging naar een stad genaamd Naïn, en met Hem gingen zijn discipelen en een groote schare.
 
 **[7:12]** En als Hij dicht bij de poort der stad kwam, ziet, daar werd een doode uitgedragen, een eenige zoon zijner moeder, en zij was weduwe; en veel volks uit de stad was met haar.
 
@@ -52468,9 +52468,9 @@
 
 **[7:16]** En vreeze kwam over allen en zij prezen God, zeggende: Een groot profeet is onder ons opgestaan en God heeft zijn volk bezocht!
 
-**[7:17]** En dit gerucht ging in geheel Judea van Hem uit en in het geheele omliggende land. 
+**[7:17]** En dit gerucht ging in geheel Judea van Hem uit en in het geheele omliggende land.
 
-**[7:18]**  En de discipelen van Johannes den Dooper boodschapten aan dezen al deze dingen.
+**[7:18]** En de discipelen van Johannes den Dooper boodschapten aan dezen al deze dingen.
 
 **[7:19]** En twee zijner discipelen geroepen hebbende, zond Johannes hen tot Jezus om te zeggen: Zijt Gij degene die komen zou, of moeten wij een ander verwachten?
 
@@ -52478,7 +52478,7 @@
 
 **[7:21]** In die zelfde ure nu genas Jezus er velen van ziekten, en kwalen, en booze geesten, en aan vele blinden, gaf Hij het gezicht.
 
-**[7:22]** En Jezus antwoordde en zeide tot hen: Gaat heen, boodschapt aan Johannes, wat gij gezien en gehoord hebt: Dat blinden ziende worden, kreupelen wandelen, melaatschen gezuiverd worden, dooven hooren, dooden opgewekt worden, aan armen het Evangelie verkondigd wordt; 
+**[7:22]** En Jezus antwoordde en zeide tot hen: Gaat heen, boodschapt aan Johannes, wat gij gezien en gehoord hebt: Dat blinden ziende worden, kreupelen wandelen, melaatschen gezuiverd worden, dooven hooren, dooden opgewekt worden, aan armen het Evangelie verkondigd wordt;
 
 **[7:23]** en zalig is hij die zich aan Mij niet zal ergeren.
 
@@ -52504,9 +52504,9 @@
 
 **[7:34]** De Zoon des menschen is gekomen, etende en drinkende, en gij zegt: Ziet, een gulzigaard en dronkaard, een vriend van tollenaars en zondaars!
 
-**[7:35]** En de wijsheid is gerechtvaardigd door al haar kinderen. 
+**[7:35]** En de wijsheid is gerechtvaardigd door al haar kinderen.
 
-**[7:36]**  En een der fariseërs noodigde Hem bij zich ten eten; en in het huis van den fariseër gegaan zijnde lag Hij aan.
+**[7:36]** En een der fariseërs noodigde Hem bij zich ten eten; en in het huis van den fariseër gegaan zijnde lag Hij aan.
 
 **[7:37]** En ziet, er was een vrouw in de stad die een zondares was, en vernomen hebbende dat Hij aanlag in des fariseërs huis, nam zij een albasten flesch met balsem,
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** En de medeaanliggenden begonnen bij zich zelven te zeggen: Wie is deze, die ook zonden vergeeft?
 
-**[7:50]** En Hij zeide tot de vrouw: Uw geloof heeft u behouden; ga heen in vrede!  
+**[7:50]** En Hij zeide tot de vrouw: Uw geloof heeft u behouden; ga heen in vrede!
 
 ### Chapter 8
 
@@ -52542,9 +52542,9 @@
 
 **[8:2]** alsmede eenige vrouwen die genezen waren van booze geesten en krankheden: Maria, genaamd Magdalena, uit wie zeven booze geesten waren uitgegaan,
 
-**[8:3]** en Johanna, de vrouw van Chusas, den rentmeester van Herodes, en Suzanna en veel anderen, die Hem dienden van haar goederen. 
+**[8:3]** en Johanna, de vrouw van Chusas, den rentmeester van Herodes, en Suzanna en veel anderen, die Hem dienden van haar goederen.
 
-**[8:4]**  Toen nu een groote schare bijeengekomen was, ook van hen die van stad tot stad zich bij Hem voegden, zeide Hij door gelijkenis:
+**[8:4]** Toen nu een groote schare bijeengekomen was, ook van hen die van stad tot stad zich bij Hem voegden, zeide Hij door gelijkenis:
 
 **[8:5]** De zaaier ging uit om zijn zaad te zaaien, en als hij zaaide viel er een deel bij den weg en het werd vertreden, en de vogelen des hemels pikten het op.
 
@@ -52572,23 +52572,23 @@
 
 **[8:17]** Want er is niets verborgen dat niet openbaar zal worden, noch geheim dat niet bekend zal worden en aan het licht komen.
 
-**[8:18]** Ziet dan toe, hoe gij hoort! want zoo wie heeft, hem zal gegeven worden, en zoo wie niet heeft, ook wat hij meent te hebben zal van hem weggenomen worden. 
+**[8:18]** Ziet dan toe, hoe gij hoort! want zoo wie heeft, hem zal gegeven worden, en zoo wie niet heeft, ook wat hij meent te hebben zal van hem weggenomen worden.
 
-**[8:19]**  Zijn moeder nu en zijn broeders kwamen tot Hem en zij konden Hem niet genaken wegens de schare.
+**[8:19]** Zijn moeder nu en zijn broeders kwamen tot Hem en zij konden Hem niet genaken wegens de schare.
 
 **[8:20]** En Hem werd geboodschapt: Uw moeder en uw broeders staan buiten en willen U zien.
 
-**[8:21]** Maar Hij antwoordde en zeide tot hen: Mijn moeder en mijn broeders zijn zij die het woord Gods hooren en doen. 
+**[8:21]** Maar Hij antwoordde en zeide tot hen: Mijn moeder en mijn broeders zijn zij die het woord Gods hooren en doen.
 
-**[8:22]**  En het gebeurde op zekeren dag dat Hij en zijn discipelen in een schip gingen, en Hij zeide tot hen: Laat ons varen naar den anderen kant van het meer; en zij staken af.
+**[8:22]** En het gebeurde op zekeren dag dat Hij en zijn discipelen in een schip gingen, en Hij zeide tot hen: Laat ons varen naar den anderen kant van het meer; en zij staken af.
 
 **[8:23]** En terwijl zij voeren viel Hij in slaap; en er kwam een stormvlaag op het meer, zoodat zij vol waters en in gevaar raakten.
 
 **[8:24]** Zij kwamen dan tot Hem en maakten Hem wakker, zeggende: Meester, Meester! wij vergaan! Maar wakker geworden bestrafte Hij den wind en de golven; en zij bedaarden en er kwam een stilte.
 
-**[8:25]** Hij zeide dan tot hen: Waar is uw geloof? Maar zij vreesden en waren verwonderd, zeggende tot malkander: Wie is toch deze, dat Hij zelfs de winden en het water gebiedt, en zij gehoorzamen Hem? 
+**[8:25]** Hij zeide dan tot hen: Waar is uw geloof? Maar zij vreesden en waren verwonderd, zeggende tot malkander: Wie is toch deze, dat Hij zelfs de winden en het water gebiedt, en zij gehoorzamen Hem?
 
-**[8:26]**  En zij voeren naar het land der Gerasenen, dat tegenover Galilea ligt.
+**[8:26]** En zij voeren naar het land der Gerasenen, dat tegenover Galilea ligt.
 
 **[8:27]** En als Hij aan wal gegaan was kwam Hem een zeker man te gemoet uit de stad, die van over langen tijd door booze geesten bezeten was, en die geen kleederen aanhad, noch in een huis woonde, maar in de graven.
 
@@ -52614,15 +52614,15 @@
 
 **[8:38]** De man nu, van wien de booze geesten uitgegaan waren, smeekte Hem om met Hem te mogen gaan; maar Jezus liet hem heengaan, zeggende:
 
-**[8:39]** Keer terug naar uw huis, en vertel wat groote dingen God u gedaan heeft. En hij ging heen en verkondigde door de geheele stad wat groote dingen Jezus hem gedaan had. 
+**[8:39]** Keer terug naar uw huis, en vertel wat groote dingen God u gedaan heeft. En hij ging heen en verkondigde door de geheele stad wat groote dingen Jezus hem gedaan had.
 
-**[8:40]**  En toen Jezus terugkeerde ontving de schare Hem, want allen verwachtten Hem.
+**[8:40]** En toen Jezus terugkeerde ontving de schare Hem, want allen verwachtten Hem.
 
 **[8:41]** En ziet, er kwam een man tot Hem, met name Jaïrus, die een overste der synagoge was; en hij viel voor de voeten van Jezus en smeekte Hem naar zijn huis te komen,
 
-**[8:42]** omdat hij een eenige dochter had van omtrent twaalf jaar oud, die op sterven lag. 
+**[8:42]** omdat hij een eenige dochter had van omtrent twaalf jaar oud, die op sterven lag.
 
-**[8:43]**  Toen Hij nu heenging verdrongen de scharen Hem; en een vrouw die twaalf jaar lang het bloedvloeien gehad had, die haar gansche bezitting had ten koste gelegd aan geneesmeesters, en door niemand had kunnen genezen worden,
+**[8:43]** Toen Hij nu heenging verdrongen de scharen Hem; en een vrouw die twaalf jaar lang het bloedvloeien gehad had, die haar gansche bezitting had ten koste gelegd aan geneesmeesters, en door niemand had kunnen genezen worden,
 
 **[8:44]** kwam van achteren tot Hem en raakte den boord van zijn kleed aan; en terstond hield haar bloedvloeiing op.
 
@@ -52632,9 +52632,9 @@
 
 **[8:47]** Toen de vrouw nu zag dat zij niet onbekend kon blijven, kwam zij bevende en viel voor Hem neder, en verklaarde voor al het volk om welke reden zij Hem had aangeraakt en hoe zij terstond was genezen.
 
-**[8:48]** En Hij zeide tot haar: Dochter, uw geloof heeft u behouden! ga heen in vrede! 
+**[8:48]** En Hij zeide tot haar: Dochter, uw geloof heeft u behouden! ga heen in vrede!
 
-**[8:49]**  Terwijl Hij nog sprak kwam er iemand van den overste der synagoge om te zeggen: Uw dochter is gestorven, doe den Meester geen moeite aan!
+**[8:49]** Terwijl Hij nog sprak kwam er iemand van den overste der synagoge om te zeggen: Uw dochter is gestorven, doe den Meester geen moeite aan!
 
 **[8:50]** Maar Jezus hoorde dit en antwoordde hem: Vrees niet, geloof maar, en zij zal behouden worden!
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** En haar geest keerde terug en zij rees terstond op, en Hij gebood dat men haar te eten zou geven.
 
-**[8:56]** En haar ouders verwonderden zich; maar Hij gebood hun aan niemand te zeggen wat er geschied was.  
+**[8:56]** En haar ouders verwonderden zich; maar Hij gebood hun aan niemand te zeggen wat er geschied was.
 
 ### Chapter 9
 
@@ -52656,21 +52656,21 @@
 
 **[9:2]** en zond hen heen om te prediken het koninkrijk Gods en om kranken te genezen.
 
-**[9:3]** En Hij zeide tot hen: Neemt niets mede op den weg, geen staf, geen reiszak, geen brood, geen geld en ook zal geen uwer twee rokken hebben; 
+**[9:3]** En Hij zeide tot hen: Neemt niets mede op den weg, geen staf, geen reiszak, geen brood, geen geld en ook zal geen uwer twee rokken hebben;
 
 **[9:4]** en in welk huis gij zult ingaan, blijft daar totdat gij vandaar weggaat.
 
 **[9:5]** En zoovelen u niet zullen ontvangen, schudt dan bij het weggaan uit die stad ook het stof van uw voeten af, tot een getuigenis tegen hen.
 
-**[9:6]** En zij gingen heen en trokken door de dorpen, overal het Evangelie verkondigende en genezende. 
+**[9:6]** En zij gingen heen en trokken door de dorpen, overal het Evangelie verkondigende en genezende.
 
-**[9:7]**  Herodes nu, de viervorst, hoorde al wat er geschied was en was in verlegenheid, omdat door sommigen gezegd werd dat Johannes was verrezen uit de dooden,
+**[9:7]** Herodes nu, de viervorst, hoorde al wat er geschied was en was in verlegenheid, omdat door sommigen gezegd werd dat Johannes was verrezen uit de dooden,
 
 **[9:8]** en door sommigen dat Elias verschenen was, en door anderen dat een der oude profeten was verrezen.
 
-**[9:9]** Herodes dan zeide: Johannes heb ik onthoofd! wie is dan deze van wien ik zulke dingen hoor? — En hij zocht Hem te zien. 
+**[9:9]** Herodes dan zeide: Johannes heb ik onthoofd! wie is dan deze van wien ik zulke dingen hoor? — En hij zocht Hem te zien.
 
-**[9:10]**  En toen de apostelen teruggekeerd waren, vertelden zij Hem al wat zij gedaan hadden. En Hij nam hen mede en vertrok naar de eenzaamheid, naar een stad genaamd Bethsaïda.
+**[9:10]** En toen de apostelen teruggekeerd waren, vertelden zij Hem al wat zij gedaan hadden. En Hij nam hen mede en vertrok naar de eenzaamheid, naar een stad genaamd Bethsaïda.
 
 **[9:11]** Toen de scharen dit bemerkten volgden zij Hem, en Hij ontving hen en sprak tot hen over het koninkrijk Gods en die genezing van noode hadden maakte Hij gezond.
 
@@ -52684,9 +52684,9 @@
 
 **[9:16]** En Hij nam de vijf brooden en de twee visschen en zag op naar den hemel en zegende die en brak ze, en gaf ze aan de discipelen om ze aan de schare voor te zetten.
 
-**[9:17]** En zij zaten allen en werden verzadigd, en hetgeen hun aan brokken overschoot, werd opgenomen, twaalf korven. 
+**[9:17]** En zij zaten allen en werden verzadigd, en hetgeen hun aan brokken overschoot, werd opgenomen, twaalf korven.
 
-**[9:18]**  En het geschiedde toen Hij in de eenzaamheid biddende was, dat de discipelen bij Hem waren; en Hij vroeg hun, zeggende: Wie zeggen de scharen dat Ik ben?
+**[9:18]** En het geschiedde toen Hij in de eenzaamheid biddende was, dat de discipelen bij Hem waren; en Hij vroeg hun, zeggende: Wie zeggen de scharen dat Ik ben?
 
 **[9:19]** Zij antwoordden en zeiden: Johannes de Dooper; en anderen Elias; en anderen dat er een profeet van de oude tijden is verrezen.
 
@@ -52704,9 +52704,9 @@
 
 **[9:26]** Want zoo wie zich over Mij en mijn woorden zal schamen, over dien zal ook de Zoon des menschen zich schamen, als Hij komt in zijn glorie en in die zijns Vaders en der heilige engelen.
 
-**[9:27]** Maar Ik zeg u: Waarlijk, sommigen dergenen die hier staan zullen den dood in ‘t geheel niet smaken, totdat zij het koninkrijk Gods zullen gezien hebben! 
+**[9:27]** Maar Ik zeg u: Waarlijk, sommigen dergenen die hier staan zullen den dood in ‘t geheel niet smaken, totdat zij het koninkrijk Gods zullen gezien hebben!
 
-**[9:28]**  Omtrent acht dagen nu na deze woorden geschiedde het dat Hij Petrus en Johannes en Jakobus met zich nam en op den berg klom om te bidden.
+**[9:28]** Omtrent acht dagen nu na deze woorden geschiedde het dat Hij Petrus en Johannes en Jakobus met zich nam en op den berg klom om te bidden.
 
 **[9:29]** En terwijl Hij bad werd de gedaante van zijn aangezicht veranderd en zijn kleederen werden glinsterend wit.
 
@@ -52722,9 +52722,9 @@
 
 **[9:35]** En er kwam een stem uit de wolk die zeide: Deze is mijn Zoon, de Beminde, hoort Hem!
 
-**[9:36]** En toen de stem geschied was werd Jezus alleen gevonden; en zij zwegen en vertelden in die dagen aan niemand iets van hetgeen zij gezien hadden. 
+**[9:36]** En toen de stem geschied was werd Jezus alleen gevonden; en zij zwegen en vertelden in die dagen aan niemand iets van hetgeen zij gezien hadden.
 
-**[9:37]**  En het geschiedde den volgenden dag. toen zij van den berg afgekomen waren, dat een groote schare Hem te gemoet kwam.
+**[9:37]** En het geschiedde den volgenden dag. toen zij van den berg afgekomen waren, dat een groote schare Hem te gemoet kwam.
 
 **[9:38]** En ziet, een man uit het volk riep uit en zeide: Meester, ik smeek U, zie toch op mijn zoon, want hij is mijn eenige!
 
@@ -52740,9 +52740,9 @@
 
 **[9:44]** Legt gij deze woorden in uw ooren, want de Zoon des menschen zal worden overgeleverd in de handen der menschen.
 
-**[9:45]** Maar zij verstonden dit woord niet en het was voor hen verborgen, zoodat zij het niet begrepen; en zij durfden Hem niet over dit woord vragen. 
+**[9:45]** Maar zij verstonden dit woord niet en het was voor hen verborgen, zoodat zij het niet begrepen; en zij durfden Hem niet over dit woord vragen.
 
-**[9:46]**  Er ontstond nu een redeneering onder hen, wie van hen toch wel de grootste mocht zijn.
+**[9:46]** Er ontstond nu een redeneering onder hen, wie van hen toch wel de grootste mocht zijn.
 
 **[9:47]** Maar Jezus kende de redeneering van hun hart en nam een kind en stelde dat bij zich,
 
@@ -52750,9 +52750,9 @@
 
 **[9:49]** Johannes nu antwoordde en zeide: Meester, wij hebben iemand in uw Naam booze geesten zien uitwerpen, en wij hebben het hem verboden, omdat hij U met ons niet volgt.
 
-**[9:50]** Maar Jezus zeide tot hem: Verbiedt het niet, want wie niet tegen u is, die is vóór u. 
+**[9:50]** Maar Jezus zeide tot hem: Verbiedt het niet, want wie niet tegen u is, die is vóór u.
 
-**[9:51]**  En toen de dagen vervuld werden dat Hij zou opgenomen worden, richtte Hij zijn aangezicht om naar Jerusalem te reizen,
+**[9:51]** En toen de dagen vervuld werden dat Hij zou opgenomen worden, richtte Hij zijn aangezicht om naar Jerusalem te reizen,
 
 **[9:52]** en Hij zond boden uit voor zijn aangezicht; en deze gingen uit en kwamen in een stad der Samaritanen om voor Hem herberg te bereiden.
 
@@ -52762,9 +52762,9 @@
 
 **[9:55]** Maar Hij keerde zich om en bestrafte hen, en zeide: Gij weet niet van welken geest gij zijt!
 
-**[9:56]** Want de Zoon des menschen is niet gekomen om de zielen der menschen te verderven, maar te behouden. 
+**[9:56]** Want de Zoon des menschen is niet gekomen om de zielen der menschen te verderven, maar te behouden.
 
-**[9:57]**  En zij gingen naar een ander dorp; en terwijl zij langs den weg gingen zeide iemand tot Hem: Ik zal U volgen, Heere, waar Gij ook heengaat!
+**[9:57]** En zij gingen naar een ander dorp; en terwijl zij langs den weg gingen zeide iemand tot Hem: Ik zal U volgen, Heere, waar Gij ook heengaat!
 
 **[9:58]** En Jezus zeide tot hem: De vossen hebben holen en de vogelen des hemels nesten, maar de Zoon des menschen heeft niet waar Hij het hoofd nederlegge!
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** En ook een ander zeide: Ik zal U volgen, Heere! maar laat mij eerst toe afscheid te nemen van mijn huisgenooten!
 
-**[9:62]** Tot hem nu zeide Jezus: Niemand die zijn hand aan den ploeg geslagen heeft en omziet naar hetgeen achter is, is bekwaam voor Gods koninkrijk.  
+**[9:62]** Tot hem nu zeide Jezus: Niemand die zijn hand aan den ploeg geslagen heeft en omziet naar hetgeen achter is, is bekwaam voor Gods koninkrijk.
 
 ### Chapter 10
 
@@ -52784,7 +52784,7 @@
 
 **[10:3]** Gaat heen! ziet, Ik zend u als lammeren in het midden van wolven.
 
-**[10:4]** Draagt geen beurs, geen reiszak, geen schoenen, en groet niemand bij den weg; 
+**[10:4]** Draagt geen beurs, geen reiszak, geen schoenen, en groet niemand bij den weg;
 
 **[10:5]** en in wat huis gij inkomt, zegt eerst: Vrede dezen huize!
 
@@ -52808,9 +52808,9 @@
 
 **[10:15]** En gij, Kapernaüm, zijt gij niet tot den hemel toe verhoogd? — Tot het doodenrijk toe zult gij nedergestooten worden!
 
-**[10:16]** Die u hoort, hoort Mij, en die u versmaadt, versmaadt Mij, en die Mij versmaadt, versmaadt Hem die Mij gezonden heeft. 
+**[10:16]** Die u hoort, hoort Mij, en die u versmaadt, versmaadt Mij, en die Mij versmaadt, versmaadt Hem die Mij gezonden heeft.
 
-**[10:17]**  De zeventig nu keerden met vreugde terug en zeiden: Heere, zelfs de booze geesten waren ons onderworpen in uw Naam!
+**[10:17]** De zeventig nu keerden met vreugde terug en zeiden: Heere, zelfs de booze geesten waren ons onderworpen in uw Naam!
 
 **[10:18]** En Hij zeide tot hen: Ik zag den Satan als een bliksem uit den hemel vallen!
 
@@ -52824,9 +52824,9 @@
 
 **[10:23]** En Hij keerde zich tot de discipelen afzonderlijk en zeide: Zalig de oogen die zien wat gij ziet.
 
-**[10:24]** Want Ik zeg u dat veel profeten en koningen hebben gewenscht te zien wat gij ziet, en hebben het niet gezien; en te hooren wat gij hoort, en hebben het niet gehoord. 
+**[10:24]** Want Ik zeg u dat veel profeten en koningen hebben gewenscht te zien wat gij ziet, en hebben het niet gezien; en te hooren wat gij hoort, en hebben het niet gehoord.
 
-**[10:25]**  En ziet, een zeker wetgeleerde stond op en zeide, om Hem te verzoeken: Meester, wat moet ik doen om het eeuwige leven te verkrijgen?
+**[10:25]** En ziet, een zeker wetgeleerde stond op en zeide, om Hem te verzoeken: Meester, wat moet ik doen om het eeuwige leven te verkrijgen?
 
 **[10:26]** En Hij zeide tot hem: Wat is er in de wet geschreven? hoe leest gij?
 
@@ -52850,9 +52850,9 @@
 
 **[10:36]** Wie van deze drie schijnt u toe de naaste te zijn geweest van hem die onder de roovers was gevallen?
 
-**[10:37]** De wetgeleerde zeide: Die hem barmhartigheid heeft bewezen. — Jezus dan zeide tot hem: Gij ook, ga heen, en doe alzoo! 
+**[10:37]** De wetgeleerde zeide: Die hem barmhartigheid heeft bewezen. — Jezus dan zeide tot hem: Gij ook, ga heen, en doe alzoo!
 
-**[10:38]**  En toen zij reisden geschiedde het dat Hij kwam in zeker dorp; en zekere vrouw, met name Martha, ontving Hem in haar huis.
+**[10:38]** En toen zij reisden geschiedde het dat Hij kwam in zeker dorp; en zekere vrouw, met name Martha, ontving Hem in haar huis.
 
 **[10:39]** En deze had een zuster, met name Maria, die zich ook zette aan de voeten des Heeren om zijn woord te hooren.
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** Maar de Heere antwoordde en zeide tot haar: Martha, Martha! gij zorgt en bekommert u over veel dingen!
 
-**[10:42]** toch is er één ding noodig! Maria nu heeft het goede deel gekozen, dat niet van haar zal worden weggenomen.  
+**[10:42]** toch is er één ding noodig! Maria nu heeft het goede deel gekozen, dat niet van haar zal worden weggenomen.
 
 ### Chapter 11
 
@@ -52870,9 +52870,9 @@
 
 **[11:3]** Geef ons elken dag ons dagelijksch brood!
 
-**[11:4]** En vergeef ons onze zonden, want ook wij vergeven aan allen die ons schuldig zijn! En leid ons niet in bekoring! maar verlos ons van den kwade! 
+**[11:4]** En vergeef ons onze zonden, want ook wij vergeven aan allen die ons schuldig zijn! En leid ons niet in bekoring! maar verlos ons van den kwade!
 
-**[11:5]**  En Hij zeide tot hen: Wie van u zal een vriend hebben en zal midden in den nacht tot hem gaan en zeggen: Vriend, leen mij drie brooden,
+**[11:5]** En Hij zeide tot hen: Wie van u zal een vriend hebben en zal midden in den nacht tot hem gaan en zeggen: Vriend, leen mij drie brooden,
 
 **[11:6]** omdat er een vriend van mij van de reis is gekomen en ik niets heb om hem voor te zetten.
 
@@ -52880,7 +52880,7 @@
 
 **[11:8]** Ik zeg ulieden: Al zou hij niet opstaan en hem geven omdat het zijn vriend is, dan zal hij toch, om zijn onbeschaamdheid, opstaan en hem geven zooveel hij noodig heeft.
 
-**[11:9]** En Ik zeg ulieden: Bidt en u zal gegeven worden; zoekt, en gij zult vinden; klopt, en u zal opengedaan worden; 
+**[11:9]** En Ik zeg ulieden: Bidt en u zal gegeven worden; zoekt, en gij zult vinden; klopt, en u zal opengedaan worden;
 
 **[11:10]** want al wie bidt, die ontvangt, en wie zoekt, die vindt, en wie klopt, hem zal opengedaan worden.
 
@@ -52888,9 +52888,9 @@
 
 **[11:12]** Of als hij om een ei vraagt, zal hem een schorpioen geven?
 
-**[11:13]** Indien dan gij, die boos zijt, aan uw kinderen goede gaven weet te geven, hoeveel te meer zal uw Vader uit den hemel den Heiligen Geest geven aan hen die Hem bidden? 
+**[11:13]** Indien dan gij, die boos zijt, aan uw kinderen goede gaven weet te geven, hoeveel te meer zal uw Vader uit den hemel den Heiligen Geest geven aan hen die Hem bidden?
 
-**[11:14]**  En Hij wierp een boozen geest uit, en die was stom. En het geschiedde, toen de booze geest was uitgeworpen, dat de stomme sprak. En de scharen verwonderden zich.
+**[11:14]** En Hij wierp een boozen geest uit, en die was stom. En het geschiedde, toen de booze geest was uitgeworpen, dat de stomme sprak. En de scharen verwonderden zich.
 
 **[11:15]** Maar sommigen van hen zeiden: Door Beëlzebul, den overste der booze geesten, werpt Hij de booze geesten uit!
 
@@ -52910,13 +52910,13 @@
 
 **[11:23]** Zoo wie niet met Mij is, is tegen Mij, en die niet met Mij vergadert, die verstrooit.
 
-**[11:24]** Wanneer de onreine geest van den mensch uitgegaan is, dan trekt hij door dorre plaatsen om rust te zoeken; en als hij die niet vindt, dan zegt hij: Ik zal wederkeeren naar mijn huis vanwaar ik ben uitgegaan; 
+**[11:24]** Wanneer de onreine geest van den mensch uitgegaan is, dan trekt hij door dorre plaatsen om rust te zoeken; en als hij die niet vindt, dan zegt hij: Ik zal wederkeeren naar mijn huis vanwaar ik ben uitgegaan;
 
 **[11:25]** en als hij daar komt vindt hij het schoongemaakt en versierd.
 
-**[11:26]** Dan gaat hij heen en neemt zeven andere geesten mede, boozer dan hij zelf; en zij gaan binnen om daar te wonen; en het laatste van dien mensch wordt dan slechter dan het eerste. 
+**[11:26]** Dan gaat hij heen en neemt zeven andere geesten mede, boozer dan hij zelf; en zij gaan binnen om daar te wonen; en het laatste van dien mensch wordt dan slechter dan het eerste.
 
-**[11:27]**  En terwijl Hij dit sprak geschiedde het dat een zekere vrouw uit de schare haar stem verhief en tot Hem zeide: Zalig het lichaam dat U droeg en de borsten die Gij gezogen hebt!
+**[11:27]** En terwijl Hij dit sprak geschiedde het dat een zekere vrouw uit de schare haar stem verhief en tot Hem zeide: Zalig het lichaam dat U droeg en de borsten die Gij gezogen hebt!
 
 **[11:28]** Maar Hij zeide: Ja zeker, maar zalig die het woord Gods hooren en het bewaren!
 
@@ -52934,9 +52934,9 @@
 
 **[11:35]** Zie dan toe dat niet het licht, dat in u is, duisternis is!
 
-**[11:36]** Want wanneer geheel uw lichaam verlicht is, zonder een duister deel te hebben, dan zal het zoo geheel verlicht zijn als wanneer een lamp u met haar licht beschijnt. 
+**[11:36]** Want wanneer geheel uw lichaam verlicht is, zonder een duister deel te hebben, dan zal het zoo geheel verlicht zijn als wanneer een lamp u met haar licht beschijnt.
 
-**[11:37]**  Terwijl Hij nu sprak vroeg Hem een fariseër bij zich ter maaltijd, en Hij ging binnen en lag aan.
+**[11:37]** Terwijl Hij nu sprak vroeg Hem een fariseër bij zich ter maaltijd, en Hij ging binnen en lag aan.
 
 **[11:38]** De fariseër nu, toeziende, verwonderde zich dat Hij zich niet eerst gewasschen had, vóór den maaltijd.
 
@@ -52962,7 +52962,7 @@
 
 **[11:49]** Daarom zegt ook de wijsheid Gods: Ik zal tot hen profeten zenden en apostelen, en van dezen zullen zij er dooden en wegjagen,
 
-**[11:50]** opdat van dit geslacht worde afgeëischt het bloed van al de profeten, dat vergoten is van de schepping der wereld af; 
+**[11:50]** opdat van dit geslacht worde afgeëischt het bloed van al de profeten, dat vergoten is van de schepping der wereld af;
 
 **[11:51]** van het bloed van Abel tot op het bloed van Zacharias, die gedood is tusschen den altaar en den tempel; ja, zeg Ik u, het zal worden afgeëischt van dit geslacht!
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** Als Hij nu dit tot hen sprak, begonnen de schriftgeleerden en de fariseërs hevig aan te houden en Hem uit te hooren over veel dingen;
 
-**[11:54]** Hem strikken leggende, om iets uit zijn mond op te vangen om Hem te beschuldigen.  
+**[11:54]** Hem strikken leggende, om iets uit zijn mond op te vangen om Hem te beschuldigen.
 
 ### Chapter 12
 
@@ -52996,9 +52996,9 @@
 
 **[12:11]** Wanneer zij u zullen overleveren voor de synagogen, en de overheden, en de machten, zijt dan niet bezorgd hoe gij u verdedigen of wat gij spreken zult,
 
-**[12:12]** want de Heilige Geest zal u in die zelfde ure leeren wat gij moet zeggen. 
+**[12:12]** want de Heilige Geest zal u in die zelfde ure leeren wat gij moet zeggen.
 
-**[12:13]**  En iemand uit de schare zeide tot Hem: Meester, zeg tot mijn broeder dat hij met mij de erfenis deele!
+**[12:13]** En iemand uit de schare zeide tot Hem: Meester, zeg tot mijn broeder dat hij met mij de erfenis deele!
 
 **[12:14]** Maar Hij zeide tot hem: Mensch, wie heeft Mij aangesteld tot rechter of scheidsman over u?
 
@@ -53012,9 +53012,9 @@
 
 **[12:19]** en ik zal tot mijn ziel zeggen: Ziel, gij bezit veel goederen, opgelegd voor veel jaren; neem rust, eet, drink, zijt vroolijk!
 
-**[12:20]** Maar God zeide tot hem: Onverstandige! In dezen nacht zal men uw ziel van u afeischen; en wat gij bereid hebt, voor wien zal het zijn? 
+**[12:20]** Maar God zeide tot hem: Onverstandige! In dezen nacht zal men uw ziel van u afeischen; en wat gij bereid hebt, voor wien zal het zijn?
 
-**[12:21]**  Alzoo is het met hem die zich zelven schatten verzamelt en niet rijk is in God.
+**[12:21]** Alzoo is het met hem die zich zelven schatten verzamelt en niet rijk is in God.
 
 **[12:22]** Hij zeide nu tot zijn discipelen: Daarom zeg Ik ulieden, zijt niet bekommerd voor uw leven, wat gij eten zult, of voor uw lichaam, waarmede gij u kleeden zult.
 
@@ -53038,11 +53038,11 @@
 
 **[12:32]** Vrees niet, klein kuddeke! want uws Vaders welbehagen is het, ulieden het koninkrijk te geven.
 
-**[12:33]** Verkoopt uw goederen en geeft aalmoezen; maakt voor u beurzen die niet verslijten, een onvergankelijken schat in de hemelen, waar de dief niet bij komt en de mot niet verderft; 
+**[12:33]** Verkoopt uw goederen en geeft aalmoezen; maakt voor u beurzen die niet verslijten, een onvergankelijken schat in de hemelen, waar de dief niet bij komt en de mot niet verderft;
 
-**[12:34]** want waar uw schat is, daar zal ook uw hart zijn. 
+**[12:34]** want waar uw schat is, daar zal ook uw hart zijn.
 
-**[12:35]**  Laat uw lenden omgord zijn en uw kaarsen brandende.
+**[12:35]** Laat uw lenden omgord zijn en uw kaarsen brandende.
 
 **[12:36]** En zijt gelijk aan menschen die op hun heer wachten, als hij van de bruiloft zal terugkeeren, opdat zij voor hem terstond opendoen als hij komt en aanklopt.
 
@@ -53066,11 +53066,11 @@
 
 **[12:46]** dan zal de heer van dien dienstknecht komen op een dag waarop deze het niet verwacht, en in een ure waarin hij het niet meent, en hij zal hem in stukken houwen, en zijn deel stellen met de ontrouwen.
 
-**[12:47]** Die dienstknecht nu, die den wil van zijn heer geweten, maar zich niet gereedgemaakt heeft, of zijn wil gedaan heeft, zal veel slagen ontvangen; 
+**[12:47]** Die dienstknecht nu, die den wil van zijn heer geweten, maar zich niet gereedgemaakt heeft, of zijn wil gedaan heeft, zal veel slagen ontvangen;
 
-**[12:48]** maar die het niet geweten, doch strafwaardige dingen gedaan heeft, die zal weinig slagen ontvangen; want van een ieder, dien veel gegeven is, zal veel geëischt worden, en van hem dien veel toevertrouwd is, zal meer worden gevraagd. 
+**[12:48]** maar die het niet geweten, doch strafwaardige dingen gedaan heeft, die zal weinig slagen ontvangen; want van een ieder, dien veel gegeven is, zal veel geëischt worden, en van hem dien veel toevertrouwd is, zal meer worden gevraagd.
 
-**[12:49]**  Ik ben gekomen om vuur op de aarde te werpen, en wat wil Ik, als het reeds ontstoken is?
+**[12:49]** Ik ben gekomen om vuur op de aarde te werpen, en wat wil Ik, als het reeds ontstoken is?
 
 **[12:50]** Maar Ik moet met een doop gedoopt worden, en hoe word Ik benauwd, totdat het volbracht is!
 
@@ -53078,19 +53078,19 @@
 
 **[12:52]** Want van nu af zullen er vijf in één huis verdeeld zijn, drie tegen twee en twee tegen drie.
 
-**[12:53]** Een vader zal tegen een zoon verdeeld zijn, en een zoon tegen een vader; een moeder tegen een dochter en een dochter tegen een moeder; een schoondochter tegen een schoonmoeder en een schoonmoeder tegen een schoondochter. 
+**[12:53]** Een vader zal tegen een zoon verdeeld zijn, en een zoon tegen een vader; een moeder tegen een dochter en een dochter tegen een moeder; een schoondochter tegen een schoonmoeder en een schoonmoeder tegen een schoondochter.
 
-**[12:54]**  En Hij zeide ook tot de scharen: Wanneer gij een wolk ziet opkomen uit het westen, dan zegt gij terstond dat er regen komt, en het geschiedt alzoo.
+**[12:54]** En Hij zeide ook tot de scharen: Wanneer gij een wolk ziet opkomen uit het westen, dan zegt gij terstond dat er regen komt, en het geschiedt alzoo.
 
 **[12:55]** En wanneer gij een zuidenwind ziet waaien, zegt gij dat het heet zal zijn, en het geschiedt.
 
 **[12:56]** Geveinsden! de gesteltenis der aarde en des hemels weet gij te onderscheiden, maar hoe onderscheidt gij dan niet dezen tijd?
 
-**[12:57]** En waarom oordeelt gij ook uit u zelven niet hetgeen rechtvaardig is? 
+**[12:57]** En waarom oordeelt gij ook uit u zelven niet hetgeen rechtvaardig is?
 
-**[12:58]**  Want als gij met uw wederpartij tot de overheid gaat, doe dan onderweg uw best om van hem af te komen, opdat hij u misschien niet voor den rechter trekke, en de rechter u overgeve aan den gerechtsdienaar, en de gerechtsdienaar u in de gevangenis werpe!
+**[12:58]** Want als gij met uw wederpartij tot de overheid gaat, doe dan onderweg uw best om van hem af te komen, opdat hij u misschien niet voor den rechter trekke, en de rechter u overgeve aan den gerechtsdienaar, en de gerechtsdienaar u in de gevangenis werpe!
 
-**[12:59]** Ik zeg u, gij zult daar niet uitkomen, vóórdat gij den laatsten penning zult betaald hebben!  
+**[12:59]** Ik zeg u, gij zult daar niet uitkomen, vóórdat gij den laatsten penning zult betaald hebben!
 
 ### Chapter 13
 
@@ -53102,17 +53102,17 @@
 
 **[13:4]** Of die achttien, op wie de toren van Siloam viel en hen doodde, meent gij dat die grooter schuldenaars waren dan al de menschen die in Jerusalem waren?
 
-**[13:5]** Neen, zeg Ik u, maar indien gij geen berouw hebt zult gij allen eveneens vergaan. 
+**[13:5]** Neen, zeg Ik u, maar indien gij geen berouw hebt zult gij allen eveneens vergaan.
 
-**[13:6]**  En Hij sprak deze gelijkenis: Iemand had in zijn hof een vijgeboom geplant, en hij kwam om er vrucht op te zoeken en vond niets.
+**[13:6]** En Hij sprak deze gelijkenis: Iemand had in zijn hof een vijgeboom geplant, en hij kwam om er vrucht op te zoeken en vond niets.
 
 **[13:7]** Toen zeide hij tot den hovenier: Zie, drie jaar kom ik nu om vrucht te zoeken op dezen vijgeboom en ik vind niets; kap hem uit, waarom maakt hij den grond onvruchtbaar?
 
 **[13:8]** Maar de hovenier zeide tot hem: Heer, laat hem dit jaar nog, totdat ik rond hem gespit en mest gelegd heb,
 
-**[13:9]** of hij misschien nog vrucht voortbrengt; maar zoo niet, kap hem dan later uit. 
+**[13:9]** of hij misschien nog vrucht voortbrengt; maar zoo niet, kap hem dan later uit.
 
-**[13:10]**  Jezus nu leerde op een sabbat in een der synagogen.
+**[13:10]** Jezus nu leerde op een sabbat in een der synagogen.
 
 **[13:11]** En ziet, een vrouw was daar, die achttien jaar lang een geest van krankheid gehad had, en zij was zoo krom dat zij in ‘t geheel niet kon recht staan.
 
@@ -53126,17 +53126,17 @@
 
 **[13:16]** Moest dan deze, die een dochter van Abraham is, die de satan nu al achttien jaar gebonden heeft, niet worden losgemaakt van dezen band op een sabbatdag?
 
-**[13:17]** En als Hij dit zeide werden al zijn tegenstanders beschaamd; en de geheele schare was verblijd over al de loffelijke daden die door Hem gedaan werden. 
+**[13:17]** En als Hij dit zeide werden al zijn tegenstanders beschaamd; en de geheele schare was verblijd over al de loffelijke daden die door Hem gedaan werden.
 
-**[13:18]**  Hij zeide dan: Waaraan is het koninkrijk Gods gelijk en waarbij zal Ik dat vergelijken?
+**[13:18]** Hij zeide dan: Waaraan is het koninkrijk Gods gelijk en waarbij zal Ik dat vergelijken?
 
 **[13:19]** Het is gelijk aan een mosterdzaad, dat een mensch nam en in zijn hof wierp, en het wies op en werd tot een boom, en de vogelen des hemels nestelden in zijn takken.
 
 **[13:20]** En wederom zeide Hij: Waarbij zal Ik het koninkrijk Gods vergelijken?
 
-**[13:21]** Het is gelijk aan een zuurdeesem, dien een vrouw nam en verborg in drie maten meels, totdat het geheel doorzuurd was. 
+**[13:21]** Het is gelijk aan een zuurdeesem, dien een vrouw nam en verborg in drie maten meels, totdat het geheel doorzuurd was.
 
-**[13:22]**  En Jezus trok door steden en dorpen, onderwijzende, en Hij sloeg den weg in naar Jerusalem.
+**[13:22]** En Jezus trok door steden en dorpen, onderwijzende, en Hij sloeg den weg in naar Jerusalem.
 
 **[13:23]** En iemand zeide tot Hem: Heere, zijn het weinigen, die behouden worden?
 
@@ -53152,9 +53152,9 @@
 
 **[13:29]** En zij zullen komen van oost en west, en van noord en zuid, en zullen aanliggen in het koninkrijk Gods.
 
-**[13:30]** En ziet, er zijn laatsten die de eersten zullen zijn, en er zijn eersten die de laatsten zullen zijn. 
+**[13:30]** En ziet, er zijn laatsten die de eersten zullen zijn, en er zijn eersten die de laatsten zullen zijn.
 
-**[13:31]**  Denzelfden dag kwamen sommige fariseërs tot Hem, zeggende: Ga weg, en trek van hier, want Herodes wil U dooden!
+**[13:31]** Denzelfden dag kwamen sommige fariseërs tot Hem, zeggende: Ga weg, en trek van hier, want Herodes wil U dooden!
 
 **[13:32]** En Hij zeide tot hen: Gaat heen, zegt tot dien vos: Zie, Ik werp booze geesten uit en maak kranken gezond, heden en morgen, en op den derden dag ben Ik ten einde.
 
@@ -53162,7 +53162,7 @@
 
 **[13:34]** Jerusalem, Jerusalem! dat de profeten doodt en steenigt die tot u gezonden zijn! hoe dikwijls heb Ik uw kinderen willen bijeenvergaderen gelijk een klokhen haar kiekens bijeenvergadert onder de vleugelen, en gij hebt niet gewild!
 
-**[13:35]** Zie, uw huis wordt u onbewoond gelaten! En Ik zeg u dat gij Mij niet zult zien, voordat de tijd komt dat gij zult zeggen: Gezegend Hij die komt in den Naam des Heeren!  
+**[13:35]** Zie, uw huis wordt u onbewoond gelaten! En Ik zeg u dat gij Mij niet zult zien, voordat de tijd komt dat gij zult zeggen: Gezegend Hij die komt in den Naam des Heeren!
 
 ### Chapter 14
 
@@ -53174,9 +53174,9 @@
 
 **[14:4]** En Hij nam en genas hem en liet hem heengaan.
 
-**[14:5]** En Hij antwoordde en zeide tot hen: Wie van u, als zijn ezel of os in een put viel, zal dien niet terstond op een sabbatdag er uittrekken? 
+**[14:5]** En Hij antwoordde en zeide tot hen: Wie van u, als zijn ezel of os in een put viel, zal dien niet terstond op een sabbatdag er uittrekken?
 
-**[14:6]**  En zij konden Hem hierop niet antwoorden.
+**[14:6]** En zij konden Hem hierop niet antwoorden.
 
 **[14:7]** Hij sprak nu een gelijkenis tot de genoodigden, daar Hij bemerkte dat zij de voornaamste plaatsen verkozen, en zeide tot hen:
 
@@ -53186,15 +53186,15 @@
 
 **[14:10]** Maar als gij genoodigd zijt, neem dan de laatste plaats, opdat, wanneer hij die u genoodigd heeft komt, hij tot u zegge: Vriend, ga hooger op! dan zal het u tot eer zijn voor allen die met u aanliggen.
 
-**[14:11]** Want ieder die zich zelven verhoogt, zal vernederd worden, en wie zich zei ven vernedert, zal verhoogd worden. 
+**[14:11]** Want ieder die zich zelven verhoogt, zal vernederd worden, en wie zich zei ven vernedert, zal verhoogd worden.
 
-**[14:12]**  Hij sprak ook tot dengene die Hem genoodigd had: Als gij een middag– of avondmaal aanricht, noodig dan niet uw vrienden, of uw broeders, of uw bloedverwanten, of uw rijke geburen, opdat deze niet misschien ook u wedernoodigen en u vergelding geschiede.
+**[14:12]** Hij sprak ook tot dengene die Hem genoodigd had: Als gij een middag– of avondmaal aanricht, noodig dan niet uw vrienden, of uw broeders, of uw bloedverwanten, of uw rijke geburen, opdat deze niet misschien ook u wedernoodigen en u vergelding geschiede.
 
 **[14:13]** Maar als gij een maal aanricht, noodig dan armen, gebrekkelijken, kreupelen en blinden.
 
-**[14:14]** Dan zult gij gelukkig zijn, omdat zij niet hebben om u wedervergelding te doen; u zal dan wedervergolden worden in de verrijzenis der rechtvaardigen. 
+**[14:14]** Dan zult gij gelukkig zijn, omdat zij niet hebben om u wedervergelding te doen; u zal dan wedervergolden worden in de verrijzenis der rechtvaardigen.
 
-**[14:15]**  Als iemand der medeaanliggenden dit nu hoorde, zeide hij tot Hem: Zalig hij die brood eet in het koninkrijk Gods!
+**[14:15]** Als iemand der medeaanliggenden dit nu hoorde, zeide hij tot Hem: Zalig hij die brood eet in het koninkrijk Gods!
 
 **[14:16]** En Hij zeide tot hem: Een zeker man richtte een grooten maaltijd aan en noodigde velen.
 
@@ -53210,11 +53210,11 @@
 
 **[14:22]** En de dienstknecht zeide: Heer, wat gij bevolen hebt, is geschied en nog is er plaats.
 
-**[14:23]** En de heer zeide tot den dienstknecht: Ga uit naar de wegen en paden, en houd aan dat ze binnenkomen, opdat mijn huisvol worde; 
+**[14:23]** En de heer zeide tot den dienstknecht: Ga uit naar de wegen en paden, en houd aan dat ze binnenkomen, opdat mijn huisvol worde;
 
-**[14:24]** want ik zeg u dat niemand van die mannen, die genoodigd waren, van mijn maaltijd proeven zal! 
+**[14:24]** want ik zeg u dat niemand van die mannen, die genoodigd waren, van mijn maaltijd proeven zal!
 
-**[14:25]**  Vele scharen gingen met Hem, en Hij keerde zich om en zeide tot hen:
+**[14:25]** Vele scharen gingen met Hem, en Hij keerde zich om en zeide tot hen:
 
 **[14:26]** Zoo iemand tot Mij komt en niet haat zijn vader, en moeder, en vrouw, en kinderen, en broeders, en zusters, ja ook zelfs zijn eigen leven, die kan mijn discipel niet zijn.
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Het zout is goed; maar als ook het zout zijn kracht verliest, waarmede zal het dan smakelijk gemaakt worden?
 
-**[14:35]** Noch voor het land, noch voor mest deugt het; men werpt het weg. Die ooren heeft om te hooren, die hoore!  
+**[14:35]** Noch voor het land, noch voor mest deugt het; men werpt het weg. Die ooren heeft om te hooren, die hoore!
 
 ### Chapter 15
 
@@ -53250,15 +53250,15 @@
 
 **[15:6]** En tehuis komende roept hij de vrienden en geburen samen, zeggende tot hen: Zijt blijde met mij, want ik heb mijn schaap gevonden dat verloren was!
 
-**[15:7]** Ik zeg ulieden dat er alzoo meer blijdschap zal zijn in den hemel over één zondaar die tot berouw komt, dan over negen en negentig rechtvaardigen die geen berouw van noode hebben. 
+**[15:7]** Ik zeg ulieden dat er alzoo meer blijdschap zal zijn in den hemel over één zondaar die tot berouw komt, dan over negen en negentig rechtvaardigen die geen berouw van noode hebben.
 
-**[15:8]**  Of, zoo een vrouw tien penningen heeft, en zij verliest één penning, steekt zij dan niet een lamp aan en veegt het huis en zoekt nauwkeurig, totdat zij hem vindt?
+**[15:8]** Of, zoo een vrouw tien penningen heeft, en zij verliest één penning, steekt zij dan niet een lamp aan en veegt het huis en zoekt nauwkeurig, totdat zij hem vindt?
 
 **[15:9]** En als zij den penning gevonden heeft, roept zij de vriendinnen en geburen samen, zeggende: Zijt blijde met mij, want ik heb mijn verloren penning gevonden!
 
-**[15:10]** Alzoo, zeg Ik ulieden, is er blijdschap voor de engelen Gods over één zondaar, die tot berouw komt! 
+**[15:10]** Alzoo, zeg Ik ulieden, is er blijdschap voor de engelen Gods over één zondaar, die tot berouw komt!
 
-**[15:11]**  En Jezus zeide: Een zeker mensch had twee zonen.
+**[15:11]** En Jezus zeide: Een zeker mensch had twee zonen.
 
 **[15:12]** En de jongste van deze zeide tot den vader: Vader, geef mij het mij toekomend deel van het goed! En hij verdeelde onder hen het vermogen.
 
@@ -53300,7 +53300,7 @@
 
 **[15:31]** Maar de vader zeide tot hem: Kind, gij zijt altijd bij mij, en al het mijne is het uwe.
 
-**[15:32]** Men moest dan wel vroolijk en blijde zijn, want deze uw broeder was dood en is weer levend geworden; hij was verloren en is gevonden.  
+**[15:32]** Men moest dan wel vroolijk en blijde zijn, want deze uw broeder was dood en is weer levend geworden; hij was verloren en is gevonden.
 
 ### Chapter 16
 
@@ -53326,9 +53326,9 @@
 
 **[16:11]** Indien gij dan niet getrouw zijt geweest in den onrechtvaardigen rijkdom, wie zal u het waarachtige toevertrouwen?
 
-**[16:12]** En indien gij niet getrouw zijt geweest in het goed van een ander, wie zal u dan uw eigen goed geven? 
+**[16:12]** En indien gij niet getrouw zijt geweest in het goed van een ander, wie zal u dan uw eigen goed geven?
 
-**[16:13]**  Geen huisknecht kan twee heeren dienen, want hij zal den een haten en den anderen beminnen, of hij zal den een aanhangen en den anderen verachten; gij kunt God niet dienen en te gelijk den rijkdom.
+**[16:13]** Geen huisknecht kan twee heeren dienen, want hij zal den een haten en den anderen beminnen, of hij zal den een aanhangen en den anderen verachten; gij kunt God niet dienen en te gelijk den rijkdom.
 
 **[16:14]** Dit alles nu hoorden de fariseërs, die geldgierig waren, en zij lachten Hem uit.
 
@@ -53338,9 +53338,9 @@
 
 **[16:17]** Toch is het lichter dat de hemel en de aarde voorbijgaan dan dat er één stipken van de wet zou vallen.
 
-**[16:18]** Een ieder die zijn vrouw verlaat en een andere trouwt, doet overspel, en die een door haar man verlaten vrouw trouwt, doet overspel. 
+**[16:18]** Een ieder die zijn vrouw verlaat en een andere trouwt, doet overspel, en die een door haar man verlaten vrouw trouwt, doet overspel.
 
-**[16:19]**  Er was een zeker rijk mensch die gekleed was in purper en fijn lijnwaad, en die dagelijks wellustig leefde.
+**[16:19]** Er was een zeker rijk mensch die gekleed was in purper en fijn lijnwaad, en die dagelijks wellustig leefde.
 
 **[16:20]** En er was een zeker arme, met name Lazarus, die aan zijn poort lag, vol zweren.
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** Maar hij zeide: Neen, vader Abraham! maar als iemand van de dooden tot hen ging, dan zouden zij tot boetvaardigheid komen!
 
-**[16:31]** Doch Abraham zeide tot hem: Indien zij niet hooren naar Mozes en de profeten, dan zullen zij zich niet laten overtuigen, al zou er iemand van de dooden verrijzen!  
+**[16:31]** Doch Abraham zeide tot hem: Indien zij niet hooren naar Mozes en de profeten, dan zullen zij zich niet laten overtuigen, al zou er iemand van de dooden verrijzen!
 
 ### Chapter 17
 
@@ -53374,21 +53374,21 @@
 
 **[17:3]** Wacht u zelven! Indien uw broeder zondigt, bestraf hem, en als hij berouw heeft, vergeef het hem.
 
-**[17:4]** En als hij zevenmaal per dag tegen u zondigt, en zevenmaal tot u wederkeert, zeggende: Ik heb berouw, zoo zult gij het hem vergeven! 
+**[17:4]** En als hij zevenmaal per dag tegen u zondigt, en zevenmaal tot u wederkeert, zeggende: Ik heb berouw, zoo zult gij het hem vergeven!
 
-**[17:5]**  En de apostelen zeiden tot den Heere: Vermeerder ons geloof!
+**[17:5]** En de apostelen zeiden tot den Heere: Vermeerder ons geloof!
 
-**[17:6]** Maar de Heere zeide: Zoo gij geloof hadt als een mosterdzaad, dan zoudt gij tot dezen moerbezieboom zeggen: Ontwortel u en verplant u in de zee! — en hij zou u gehoorzamen. 
+**[17:6]** Maar de Heere zeide: Zoo gij geloof hadt als een mosterdzaad, dan zoudt gij tot dezen moerbezieboom zeggen: Ontwortel u en verplant u in de zee! — en hij zou u gehoorzamen.
 
-**[17:7]**  En wie van u die een dienstknecht heeft, ploegende of de beesten hoedende, zal tot hem zeggen als hij van den akker komt: Kom en lig terstond mede aan?
+**[17:7]** En wie van u die een dienstknecht heeft, ploegende of de beesten hoedende, zal tot hem zeggen als hij van den akker komt: Kom en lig terstond mede aan?
 
 **[17:8]** Zal hij niet liever tot hem zeggen: Maak mijn avondmaaltijd gereed, en omgord u, en bedien mij, totdat ik heb gegeten en gedronken, en daarna zult gij eten en drinken?
 
 **[17:9]** Dankt hij dan dien dienstknecht omdat deze gedaan heeft wat hem bevolen was? Ik denk het niet.
 
-**[17:10]** Alzoo ook gijlieden, als gij zult gedaan hebben alles wat u bevolen is, zegt dan: Onnutte dienstknechten zijn wij; wij hebben maar gedaan wat we verplicht waren te doen! 
+**[17:10]** Alzoo ook gijlieden, als gij zult gedaan hebben alles wat u bevolen is, zegt dan: Onnutte dienstknechten zijn wij; wij hebben maar gedaan wat we verplicht waren te doen!
 
-**[17:11]**  En als Hij naar Jerusalem trok, geschiedde het dat hij midden tusschen Samaria en Galilea doorging.
+**[17:11]** En als Hij naar Jerusalem trok, geschiedde het dat hij midden tusschen Samaria en Galilea doorging.
 
 **[17:12]** En als Hij naar zeker dorp kwam ontmoetten Hem tien melaatsche mannen, die van verre stonden,
 
@@ -53404,9 +53404,9 @@
 
 **[17:18]** Zijn er geen gevonden die wederkeeren om Gode de glorie te geven, dan deze vreemdeling?
 
-**[17:19]** En Hij zeide tot hem: Sta op, ga heen, uw geloof heeft u behouden! 
+**[17:19]** En Hij zeide tot hem: Sta op, ga heen, uw geloof heeft u behouden!
 
-**[17:20]**  Gevraagd zijnde van de fariseërs wanneer het koninkrijk Gods zou komen, antwoordde Hij hun en zeide: Het koninkrijk Gods komt niet op zichtbare wijze.
+**[17:20]** Gevraagd zijnde van de fariseërs wanneer het koninkrijk Gods zou komen, antwoordde Hij hun en zeide: Het koninkrijk Gods komt niet op zichtbare wijze.
 
 **[17:21]** En men zal niet zeggen: Hier is het, of daar! want ziet, het koninkrijk Gods is in uw midden.
 
@@ -53422,7 +53422,7 @@
 
 **[17:27]** Zij aten, zij dronken, zij trouwden, zij werden getrouwd, tot op den dag dat Noach in de ark ging; en de zondvloed kwam en verdelgde allen.
 
-**[17:28]** Desgelijks ook als het was in de dagen van Lot; zij aten, zij dronken, zij kochten, zij verkochten, zij plantten, zij bouwden; 
+**[17:28]** Desgelijks ook als het was in de dagen van Lot; zij aten, zij dronken, zij kochten, zij verkochten, zij plantten, zij bouwden;
 
 **[17:29]** maar op den dag dat Lot van Sodom uitging, regende er vuur en solfer van den hemel en verdelgde allen.
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** Twee zullen er op den akker zijn; de een zal worden meegenomen en de andere achtergelaten.
 
-**[17:37]** En zij antwoordden en zeiden tot Hem: Waar, Heere? En Hij zeide tot hen: Waar het lichaam is, daar zullen zich ook de arenden verzamelen.  
+**[17:37]** En zij antwoordden en zeiden tot Hem: Waar, Heere? En Hij zeide tot hen: Waar het lichaam is, daar zullen zich ook de arenden verzamelen.
 
 ### Chapter 18
 
@@ -53458,27 +53458,27 @@
 
 **[18:7]** En zal God dan geen recht doen aan zijn uitverkorenen, die dag en nacht tot Hem roepen? En zal hij hen lang laten wachten?
 
-**[18:8]** Ik zeg ulieden dat Hij hun spoedig zal recht doen. Maar als de Zoon des menschen komt, zal Hij dan wel het geloof vinden op aarde? 
+**[18:8]** Ik zeg ulieden dat Hij hun spoedig zal recht doen. Maar als de Zoon des menschen komt, zal Hij dan wel het geloof vinden op aarde?
 
-**[18:9]**  En Hij sprak ook tot sommigen, die van zich zelven waanden dat zij rechtvaardig waren en die de anderen verachtten, deze gelijkenis:
+**[18:9]** En Hij sprak ook tot sommigen, die van zich zelven waanden dat zij rechtvaardig waren en die de anderen verachtten, deze gelijkenis:
 
 **[18:10]** Twee menschen gingen op naar den tempel om te bidden; de een was een fariseër en de andere een tollenaar.
 
-**[18:11]** De fariseër stond recht en bad dit bij zich zelven: O God, ik dank U dat ik niet ben als de andere menschen, roovers, onrechtvaardigen, overspelers, of ook als deze tollenaar; 
+**[18:11]** De fariseër stond recht en bad dit bij zich zelven: O God, ik dank U dat ik niet ben als de andere menschen, roovers, onrechtvaardigen, overspelers, of ook als deze tollenaar;
 
 **[18:12]** ik vast tweemaal per week, ik geef tienden van al wat ik bezit!
 
 **[18:13]** Maar de tollenaar stond van verre en wilde zelfs de oogen niet ten hemel heffen, maar sloeg zich op de borst, zeggende: O God, zijt mij, den zondaar, genadig!
 
-**[18:14]** Ik zeg ulieden: Deze ging gerechtvaardigd naar zijn huis, meer dan de andere; want al wie zich zelven verhoogt zal vernederd worden, maar wie zich zelven vernedert zal verhoogd worden. 
+**[18:14]** Ik zeg ulieden: Deze ging gerechtvaardigd naar zijn huis, meer dan de andere; want al wie zich zelven verhoogt zal vernederd worden, maar wie zich zelven vernedert zal verhoogd worden.
 
-**[18:15]**  En zij brachten ook de kinderkens tot Hem opdat Hij ze mocht aanraken; doch de discipelen dit ziende bestraften hen.
+**[18:15]** En zij brachten ook de kinderkens tot Hem opdat Hij ze mocht aanraken; doch de discipelen dit ziende bestraften hen.
 
 **[18:16]** Maar Jezus riep hen tot zich, en zeide: Laat de kinderkens tot Mij komen en verhindert ze niet, want voor zoodanigen is het koninkrijk Gods.
 
-**[18:17]** Voorwaar Ik zeg ulieden: Zoo wie het koninkrijk Gods niet aanneemt als een kindeken, die zal er geenszins ingaan. 
+**[18:17]** Voorwaar Ik zeg ulieden: Zoo wie het koninkrijk Gods niet aanneemt als een kindeken, die zal er geenszins ingaan.
 
-**[18:18]**  En een zeker overste vroeg Hem en zeide: Goede Meester, wat doende zal ik het eeuwige leven beërven?
+**[18:18]** En een zeker overste vroeg Hem en zeide: Goede Meester, wat doende zal ik het eeuwige leven beërven?
 
 **[18:19]** Maar Jezus zeide tot hem: Wat noemt gij Mij goed? niemand is goed dan de eenige God!
 
@@ -53502,17 +53502,17 @@
 
 **[18:29]** En Hij zeide tot hen: Voorwaar, Ik zeg ulieden: Er is niemand die verlaten heeft huis, of ouders, of broeders, of vrouw, of kinderen, ter wille van het koninkrijk Gods,
 
-**[18:30]** die het niet veelvuldig zal weder ontvangen in dezen tijd, en in de toekomende eeuw het eeuwige leven. 
+**[18:30]** die het niet veelvuldig zal weder ontvangen in dezen tijd, en in de toekomende eeuw het eeuwige leven.
 
-**[18:31]**  En Jezus nam de twaalven tot zich en zeide tot hen: Ziet, wij gaan op naar Jerusalem en alles wat door de profeten geschreven is zal aan den Zoon des menschen volbracht worden.
+**[18:31]** En Jezus nam de twaalven tot zich en zeide tot hen: Ziet, wij gaan op naar Jerusalem en alles wat door de profeten geschreven is zal aan den Zoon des menschen volbracht worden.
 
 **[18:32]** Want Hij zal aan de heidenen worden overgeleverd en Hij zal bespot, mishandeld en bespogen worden,
 
 **[18:33]** en nadat zij Hem gegeeseld hebben, zullen zij Hem dooden, en op den derden dag zal Hij verrijzen.
 
-**[18:34]** Doch zij verstonden niets hiervan, en dit woord was voor hen verborgen, en zij begrepen niet wat er gezegd werd. 
+**[18:34]** Doch zij verstonden niets hiervan, en dit woord was voor hen verborgen, en zij begrepen niet wat er gezegd werd.
 
-**[18:35]**  En het geschiedde, toen Hij dicht bij Jericho kwam, dat er een blinde bij den weg zat te bedelen.
+**[18:35]** En het geschiedde, toen Hij dicht bij Jericho kwam, dat er een blinde bij den weg zat te bedelen.
 
 **[18:36]** Toen deze nu de schare hoorde voorbijgaan, vroeg hij wat dit zijn mocht.
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** En Jezus zeide tot hem: Word ziende! uw geloof heeft u behouden.
 
-**[18:43]** En terstond werd hij ziende en volgde Hem, God de glorie gevende. En al het volk, dat ziende, loofde God.  
+**[18:43]** En terstond werd hij ziende en volgde Hem, God de glorie gevende. En al het volk, dat ziende, loofde God.
 
 ### Chapter 19
 
@@ -53550,9 +53550,9 @@
 
 **[19:9]** En Jezus zeide tot hem: Heden is dezen huize verlossing geschied, omdat ook deze een zoon van Abraham is.
 
-**[19:10]** Want de Zoon des menschen is gekomen om het verlorene te zoeken en te behouden! 
+**[19:10]** Want de Zoon des menschen is gekomen om het verlorene te zoeken en te behouden!
 
-**[19:11]**  Terwijl zij nu dit hoorden voegde Hij er nog een gelijkenis bij, omdat Hij nabij Jerusalem was en omdat zij meenden dat het koninkrijk Gods terstond zou openbaar worden.
+**[19:11]** Terwijl zij nu dit hoorden voegde Hij er nog een gelijkenis bij, omdat Hij nabij Jerusalem was en omdat zij meenden dat het koninkrijk Gods terstond zou openbaar worden.
 
 **[19:12]** Hij zeide dan: Zeker mensch van voorname geboorte reisde naar een vergelegen land om voor zich zelven een koninkrijk te verkrijgen en dan terug te keeren.
 
@@ -53586,9 +53586,9 @@
 
 **[19:27]** Maar deze mijn vijanden, die niet hebben gewild dat ik over hen koning zou zijn, brengt ze hier en slaat ze dood voor mijn oogen.
 
-**[19:28]** En toen Hij dit gezegd had trok Jezus vooruit, den weg op naar Jerusalem. 
+**[19:28]** En toen Hij dit gezegd had trok Jezus vooruit, den weg op naar Jerusalem.
 
-**[19:29]**  En toen Jezus dicht bij Bethfage en Bethanië. gekomen was, aan den berg, die de Berg der Olijven wordt genoemd, zond Hij twee van zijn discipelen en zeide:
+**[19:29]** En toen Jezus dicht bij Bethfage en Bethanië. gekomen was, aan den berg, die de Berg der Olijven wordt genoemd, zond Hij twee van zijn discipelen en zeide:
 
 **[19:30]** Gaat naar het dorp daar vóór u, en als gij daar inkomt zult gij een veulen vastgebonden vinden, waarop nooit eenig mensch gezeten heeft; maakt dat los en brengt het hier.
 
@@ -53610,23 +53610,23 @@
 
 **[19:39]** En sommigen der fariseërs uit de schare zeiden tot Hem: Meester, bestraf uw discipelen!
 
-**[19:40]** En Hij antwoordde en zeide: Ik zeg ulieden dat, wanneer dezen zwijgen, de steenen zullen roepen! 
+**[19:40]** En Hij antwoordde en zeide: Ik zeg ulieden dat, wanneer dezen zwijgen, de steenen zullen roepen!
 
-**[19:41]**  En toen Hij nabij was gekomen, zag Hij de stad en weende over haar, zeggende:
+**[19:41]** En toen Hij nabij was gekomen, zag Hij de stad en weende over haar, zeggende:
 
 **[19:42]** Och, of ook gij erkendet, zelfs nog in dezen uwen dag, wat tot uw vrede dient! Maar nu is het voor uw oogen verborgen!
 
-**[19:43]** Want er zullen dagen over u komen, dat uw vijanden een verschansing rond u zullen opwerpen, en zij zullen u omringen en u van alle kanten benauwen; 
+**[19:43]** Want er zullen dagen over u komen, dat uw vijanden een verschansing rond u zullen opwerpen, en zij zullen u omringen en u van alle kanten benauwen;
 
-**[19:44]** en zij zullen u en uw kinderen in u, tot den grond toe verderven, en geen steen in u op den anderen laten, omdat gij niet erkend hebt den tijd waarin gij bezocht zijt! 
+**[19:44]** en zij zullen u en uw kinderen in u, tot den grond toe verderven, en geen steen in u op den anderen laten, omdat gij niet erkend hebt den tijd waarin gij bezocht zijt!
 
-**[19:45]**  En Hij ging in den tempel en begon de koopers en verkoopers uit te drijven, en zeide tot hen:
+**[19:45]** En Hij ging in den tempel en begon de koopers en verkoopers uit te drijven, en zeide tot hen:
 
 **[19:46]** Er is geschreven: Mijn huis zal een huis des gebeds zijn! Maar gij hebt dat gemaakt tot een roovershol.
 
 **[19:47]** En Hij leerde dagelijks in den tempel; maar de overpriesters en de schriftgeleerden zochten Hem te dooden, zoowel als de voornaamsten des volks,
 
-**[19:48]** en zij vonden niet, wat te doen; want het geheele volk hing Hem aan als het Hem hoorde.  
+**[19:48]** en zij vonden niet, wat te doen; want het geheele volk hing Hem aan als het Hem hoorde.
 
 ### Chapter 20
 
@@ -53644,9 +53644,9 @@
 
 **[20:7]** En zij antwoordden dat zij niet wisten vanwaar.
 
-**[20:8]** Toen zeide Jezus tot hen: Dan zeg Ik u ook niet door welke macht Ik deze dingen doe. 
+**[20:8]** Toen zeide Jezus tot hen: Dan zeg Ik u ook niet door welke macht Ik deze dingen doe.
 
-**[20:9]**  Toen begon Hij tot het volk deze gelijkenis te zeggen: Een mensch plantte een wijngaard en verhuurde dien aan landlieden en ging voor een langen tijd buitenslands.
+**[20:9]** Toen begon Hij tot het volk deze gelijkenis te zeggen: Een mensch plantte een wijngaard en verhuurde dien aan landlieden en ging voor een langen tijd buitenslands.
 
 **[20:10]** En toen het tijd was zond hij een dienstknecht naar de landlieden, opdat zij hem van de vrucht des wijngaards geven zouden; maar de landlieden mishandelden dezen en zonden hem ledig weg.
 
@@ -53666,9 +53666,9 @@
 
 **[20:18]** Ieder die op dezen steen valt, zal verpletterd worden, en op wien hij valt, dien zal hij vermorzelen.
 
-**[20:19]** En de schriftgeleerden en de overpriesters zochten in die zelfde ure aan Hem de handen te slaan, doch zij vreesden het volk; want zij verstonden dat hij deze gelijkenis op hen had gesproken. 
+**[20:19]** En de schriftgeleerden en de overpriesters zochten in die zelfde ure aan Hem de handen te slaan, doch zij vreesden het volk; want zij verstonden dat hij deze gelijkenis op hen had gesproken.
 
-**[20:20]**  En zij bespiedden Hem, en zonden eenigen uit, die door hen opgestookt waren, die, veinsden dat zij rechtvaardigen waren, opdat zij Hem op een woord mochten vatten, om zoodoende Hem over te leveren aan de overheid en aan de macht van den stadhouder.
+**[20:20]** En zij bespiedden Hem, en zonden eenigen uit, die door hen opgestookt waren, die, veinsden dat zij rechtvaardigen waren, opdat zij Hem op een woord mochten vatten, om zoodoende Hem over te leveren aan de overheid en aan de macht van den stadhouder.
 
 **[20:21]** En zij vroegen Hem, zeggende: Meester, wij weten dat Gij oprecht spreekt en leert, en dat Gij den persoon niet aanneemt, maar den weg Gods in waarheid leert.
 
@@ -53680,9 +53680,9 @@
 
 **[20:25]** En Hij zeide tot hen: Geeft dan aan den keizer wat den keizer, en aan God wat Gode toekomt.
 
-**[20:26]** En zij konden Hem voor het volk in zijn woord niet vatten; en zij verwonderden zich over zijn antwoord, en zwegen stil. 
+**[20:26]** En zij konden Hem voor het volk in zijn woord niet vatten; en zij verwonderden zich over zijn antwoord, en zwegen stil.
 
-**[20:27]**  Sommigen nu van de sadduceërs, die ontkennen dat er een verrijzenis is, kwamen tot Hem en vroegen Hem, zeggende:
+**[20:27]** Sommigen nu van de sadduceërs, die ontkennen dat er een verrijzenis is, kwamen tot Hem en vroegen Hem, zeggende:
 
 **[20:28]** Meester, Mozes heeft ons voorgeschreven, dat, wanneer iemands broeder, die een vrouw heeft, zonder kinderen sterft, dat dan zijn broeder de vrouw moet nemen, en zijn broeder nakomelingschap verwekken.
 
@@ -53696,9 +53696,9 @@
 
 **[20:33]** Bij de verrijzenis dan, van wien wordt zij dan de vrouw? want die zeven hebben haar tot vrouw gehad!
 
-**[20:34]** En Jezus zeide tot hen: De kinderen van deze eeuw trouwen en worden ten huwelijk gegeven; 
+**[20:34]** En Jezus zeide tot hen: De kinderen van deze eeuw trouwen en worden ten huwelijk gegeven;
 
-**[20:35]** maar zij die waardig geacht zullen zijn om die eeuw te verwerven en de verrijzenis uit de dooden, zullen niet trouwen of ten huwelijk gegeven worden; 
+**[20:35]** maar zij die waardig geacht zullen zijn om die eeuw te verwerven en de verrijzenis uit de dooden, zullen niet trouwen of ten huwelijk gegeven worden;
 
 **[20:36]** want zij kunnen ook niet meer sterven, omdat zij aan engelen gelijk zijn; en zij zijn kinderen Gods, dewijl zij kinderen der verrijzenis zijn.
 
@@ -53708,21 +53708,21 @@
 
 **[20:39]** Sommigen nu van de schriftgeleerden antwoordden en zeiden: Meester, Gij hebt goed gesproken!
 
-**[20:40]** Want zij durfden Hem niets meer vragen. 
+**[20:40]** Want zij durfden Hem niets meer vragen.
 
-**[20:41]**  En Hij zeide tot hen: Hoe zegt men dat de Christus de zoon is van David?
+**[20:41]** En Hij zeide tot hen: Hoe zegt men dat de Christus de zoon is van David?
 
 **[20:42]** David zelf toch zegt in het Boek der Psalmen: De Heere heeft tot mijn Heere gesproken: Zit aan mijn rechterhand,
 
 **[20:43]** totdat Ik uw vijanden gezet heb tot een voetbank uwer voeten?
 
-**[20:44]** David noemt Hem dus Heere, en hoe is Hij dan zijn Zoon? 
+**[20:44]** David noemt Hem dus Heere, en hoe is Hij dan zijn Zoon?
 
-**[20:45]**  Ten aanhoore nu van het geheele volk zeide Hij tot de discipelen:
+**[20:45]** Ten aanhoore nu van het geheele volk zeide Hij tot de discipelen:
 
 **[20:46]** Wacht u voor de schriftgeleerden, die gaarne in lange kleederen wandelen, en zich gaarne laten groeten op de markten, en vooraanzitten in de synagogen, en op de eerste plaatsen aanliggen bij de maaltijden,
 
-**[20:47]** die de huizen der weduwen opeten en voor den schijn lange gebeden doen; dezen zullen een zwaarder oordeel ontvangen.  
+**[20:47]** die de huizen der weduwen opeten en voor den schijn lange gebeden doen; dezen zullen een zwaarder oordeel ontvangen.
 
 ### Chapter 21
 
@@ -53730,11 +53730,11 @@
 
 **[21:2]** En Hij zag ook een behoeftige weduwe daar twee penningskens inwerpen.
 
-**[21:3]** En Hij zeide: Waarlijk, Ik zeg u, dat deze arme weduwe meer dan allen daarin wierp; 
+**[21:3]** En Hij zeide: Waarlijk, Ik zeg u, dat deze arme weduwe meer dan allen daarin wierp;
 
-**[21:4]** want deze allen hebben van hun overvloed bij de gaven Gods geworpen, maar zij heeft van haar armoede, al haar leeftocht dien zij had, daarin geworpen! 
+**[21:4]** want deze allen hebben van hun overvloed bij de gaven Gods geworpen, maar zij heeft van haar armoede, al haar leeftocht dien zij had, daarin geworpen!
 
-**[21:5]**  En toen sommigen tot Hem spraken van den tempel, dat die met schoone steenen en kostbare giften versierd was, zeide Hij:
+**[21:5]** En toen sommigen tot Hem spraken van den tempel, dat die met schoone steenen en kostbare giften versierd was, zeide Hij:
 
 **[21:6]** Wat gij daar ziet— er zullen dagen komen waarin geen steen op den andere zal gelaten worden, die niet zal afgebroken worden!
 
@@ -53790,17 +53790,17 @@
 
 **[21:32]** Voorwaar Ik zeg u dat deze natie niet zal voorbijgaan, totdat het alles is geschied!
 
-**[21:33]** De hemel en de aarde zullen voorbijgaan, maar mijn woorden zullen niet voorbijgaan. 
+**[21:33]** De hemel en de aarde zullen voorbijgaan, maar mijn woorden zullen niet voorbijgaan.
 
-**[21:34]**  Maar wacht u, dat niet misschien uw harten bezwaard worden door brasserij en dronkenschap en de zorgen des levens, en dat die dag u niet onverwacht overvalle, als een strik!
+**[21:34]** Maar wacht u, dat niet misschien uw harten bezwaard worden door brasserij en dronkenschap en de zorgen des levens, en dat die dag u niet onverwacht overvalle, als een strik!
 
 **[21:35]** Want hij zal komen over allen die op den geheelen aardbodem woonachtig zijn!
 
-**[21:36]** Waakt dan ten allen tijde, en bidt dat gij moogt waardig geacht worden om te ontvlieden aan al die dingen die zullen geschieden, en om te staan voor den Zoon des menschen. 
+**[21:36]** Waakt dan ten allen tijde, en bidt dat gij moogt waardig geacht worden om te ontvlieden aan al die dingen die zullen geschieden, en om te staan voor den Zoon des menschen.
 
-**[21:37]**  Overdag nu was Jezus in den tempel en leerde, maar des nachts ging Hij naar buiten en vernachtte op den berg die de Berg der Olijven genoemd wordt.
+**[21:37]** Overdag nu was Jezus in den tempel en leerde, maar des nachts ging Hij naar buiten en vernachtte op den berg die de Berg der Olijven genoemd wordt.
 
-**[21:38]** En al het volk kwam dés morgens tot Hem in den tempel om Hem te hooren.  
+**[21:38]** En al het volk kwam dés morgens tot Hem in den tempel om Hem te hooren.
 
 ### Chapter 22
 
@@ -53814,9 +53814,9 @@
 
 **[22:5]** En zij waren verblijd en kwamen overeen wegens het geld dat zij hem zouden geven.
 
-**[22:6]** En hij stemde toe, en zocht een geschikte gelegenheid om Hem aan hen over te leveren zonder volksoploop. 
+**[22:6]** En hij stemde toe, en zocht een geschikte gelegenheid om Hem aan hen over te leveren zonder volksoploop.
 
-**[22:7]**  De dag nu der ongedeesemde brooden kwam, waarop het Pascha moest geslacht worden.
+**[22:7]** De dag nu der ongedeesemde brooden kwam, waarop het Pascha moest geslacht worden.
 
 **[22:8]** En Hij zond Petrus en Johannes uit en zeide: Gaat heen, bereidt ons het Pascha, opdat wij het eten.
 
@@ -53828,11 +53828,11 @@
 
 **[22:12]** En hij zal u een groote gereed gemaakte bovenzaal wijzen; daar moet gij het bereiden.
 
-**[22:13]** Zij nu gingen heen en vonden het zooals Hij hun gezegd had, en zij bereidden het Pascha. 
+**[22:13]** Zij nu gingen heen en vonden het zooals Hij hun gezegd had, en zij bereidden het Pascha.
 
-**[22:14]**  En toen de ure gekomen was lag Hij aan, en de twaalf apostelen met Hem.
+**[22:14]** En toen de ure gekomen was lag Hij aan, en de twaalf apostelen met Hem.
 
-**[22:15]** En Hij zeide tot hen: Ik heb zeer begeerd dit Pascha met u te eten vóórdat Ik lijde; 
+**[22:15]** En Hij zeide tot hen: Ik heb zeer begeerd dit Pascha met u te eten vóórdat Ik lijde;
 
 **[22:16]** want Ik zeg ulieden dat Ik het niet meer eten zal, totdat het vervuld is in het koninkrijk Gods.
 
@@ -53848,13 +53848,13 @@
 
 **[22:22]** De Zoon des menschen gaat toch wel heen, gelijk bepaald is; maar wee dien mensch, door wien Hij wordt verraden!
 
-**[22:23]** En zij begonnen onder malkander te onderzoeken, wie van hen het toch wel mocht zijn die dat doen zou? 
+**[22:23]** En zij begonnen onder malkander te onderzoeken, wie van hen het toch wel mocht zijn die dat doen zou?
 
-**[22:24]**  Er ontstond ook een strijd onder hen, wie van hen moest geacht worden de meeste te zijn.
+**[22:24]** Er ontstond ook een strijd onder hen, wie van hen moest geacht worden de meeste te zijn.
 
 **[22:25]** En Hij zeide tot hen: De koningen der volken heerschen over hen, en die over hen macht hebben worden weldoeners genoemd.
 
-**[22:26]** Doch gij niet alzoo; maar de meeste onder u worde als de minste, en de voorganger als de dienaar; 
+**[22:26]** Doch gij niet alzoo; maar de meeste onder u worde als de minste, en de voorganger als de dienaar;
 
 **[22:27]** want wie is meer, die aanligt of die dient? — immers dié aanligt? Ik nu ben in uw midden als een dienaar.
 
@@ -53862,9 +53862,9 @@
 
 **[22:29]** En Ik beschik ulieden een koninkrijk, gelijk mijn Vader Mij beschikt heeft,
 
-**[22:30]** opdat gij eet en drinkt aan mijn tafel in mijn koninkrijk; en gij zult zitten op troonen, oordeelende de twaalf stammen van Israël. 
+**[22:30]** opdat gij eet en drinkt aan mijn tafel in mijn koninkrijk; en gij zult zitten op troonen, oordeelende de twaalf stammen van Israël.
 
-**[22:31]**  En de Heere zeide: Simon, Simon! zie, de Satan heeft ulieden voor zich begeerd, om u te ziften als de tarwe!
+**[22:31]** En de Heere zeide: Simon, Simon! zie, de Satan heeft ulieden voor zich begeerd, om u te ziften als de tarwe!
 
 **[22:32]** Doch Ik heb voor u gebeden opdat uw geloof niet bezwijke; en gij, eens bekeerd zijnde, versterk dan uw broeders.
 
@@ -53878,9 +53878,9 @@
 
 **[22:37]** Want Ik zeg ulieden dat hetgeen geschreven is, aan Mij moet volbracht worden, dit namelijk: En Hij is met de booswichten gerekend! want ook dit, aangaande Mij, wordt vervuld.
 
-**[22:38]** Zij nu zeiden: Heere, ziehier twee zwaarden! En Hij zeide tot hen: ’t Is wel! 
+**[22:38]** Zij nu zeiden: Heere, ziehier twee zwaarden! En Hij zeide tot hen:’t Is wel!
 
-**[22:39]**  En Hij ging uit en begaf zich, volgens zijn gewoonte, naar den Berg der Olijven; en Hem volgden ook de discipelen.
+**[22:39]** En Hij ging uit en begaf zich, volgens zijn gewoonte, naar den Berg der Olijven; en Hem volgden ook de discipelen.
 
 **[22:40]** En toen Hij aan die plaats gekomen was, zeide Hij tot hen: Bidt, dat gij niet in bekoring komt.
 
@@ -53894,9 +53894,9 @@
 
 **[22:45]** En van het gebed opgestaan zijnde, kwam Hij tot de discipelen en vond hen slapende van droefheid,
 
-**[22:46]** en Hij zeide tot hen: Wat slaapt gij? Staat op, en bidt, opdat gij niet in bekoring komt. 
+**[22:46]** en Hij zeide tot hen: Wat slaapt gij? Staat op, en bidt, opdat gij niet in bekoring komt.
 
-**[22:47]**  Terwijl Hij nog sprak, ziet daar een schare, en de genoemde Judas, één van de twaalven, ging vóór hen uit, en naderde tot Jezus om Hem te kussen.
+**[22:47]** Terwijl Hij nog sprak, ziet daar een schare, en de genoemde Judas, één van de twaalven, ging vóór hen uit, en naderde tot Jezus om Hem te kussen.
 
 **[22:48]** En Jezus zeide tot hem: Judas, ‘t is met een kus dat gij den Zoon des menschen verraadt?
 
@@ -53908,9 +53908,9 @@
 
 **[22:52]** Jezus zeide dan tot de overpriesters, en de hoofdmannen des tempels, en de oudsten, die op Hem afgekomen waren: Als tegen een roover zijt gij uitgegaan met zwaarden en stokken?
 
-**[22:53]** Toen Ik dagelijks met u in den tempel was, hebt gij de handen niet tegen Mij uitgestoken! Maar dit is uw ure, en de macht der duisternis! 
+**[22:53]** Toen Ik dagelijks met u in den tempel was, hebt gij de handen niet tegen Mij uitgestoken! Maar dit is uw ure, en de macht der duisternis!
 
-**[22:54]**  Zij namen Hem dan gevangen en voerden Hem weg, en brachten Hem naar het huis van den hoogepriester. En Petrus volgde van verre.
+**[22:54]** Zij namen Hem dan gevangen en voerden Hem weg, en brachten Hem naar het huis van den hoogepriester. En Petrus volgde van verre.
 
 **[22:55]** En toen zij vuur ontstoken hadden in het midden van de voorplaats, en samen nederzaten, zat Petrus midden onder hen.
 
@@ -53926,25 +53926,25 @@
 
 **[22:61]** En de Heere keerde zich om en zag Petrus aan. En Petrus werd indachtig aan het woord des Heeren, hoe Hij gezegd had: Heden, nog vóórdat de haan zal kraaien, zult gij Mij driemaal verloochenen!
 
-**[22:62]** En Petrus ging naar buiten en weende bitter. 
+**[22:62]** En Petrus ging naar buiten en weende bitter.
 
-**[22:63]**  En de mannen die Jezus vasthielden, bespotten en sloegen Hem.
+**[22:63]** En de mannen die Jezus vasthielden, bespotten en sloegen Hem.
 
 **[22:64]** En zij blinddoekten Hem, en sloegen Hem in het gezicht, en vroegen Hem zeggende: Profeteer, wie is het die U geslagen heeft?
 
-**[22:65]** En veel andere dingen zeiden zij, lasterend, tegen Hem. 
+**[22:65]** En veel andere dingen zeiden zij, lasterend, tegen Hem.
 
-**[22:66]**  En toen het dag was geworden, vergaderde de Raad des volks, de overpriesters en schriftgeleerden, en zij voerden Hem naar hun vergadering, en zeiden: Zoo Gij de Christus zijt, zeg het ons!
+**[22:66]** En toen het dag was geworden, vergaderde de Raad des volks, de overpriesters en schriftgeleerden, en zij voerden Hem naar hun vergadering, en zeiden: Zoo Gij de Christus zijt, zeg het ons!
 
 **[22:67]** En Hij zeide tot hen: Als Ik het u zou zeggen, zoudt gij het toch niet gelooven,
 
-**[22:68]** en zoo Ik u iets vroeg, gij zoudt toch niet antwoorden of Mij loslaten; 
+**[22:68]** en zoo Ik u iets vroeg, gij zoudt toch niet antwoorden of Mij loslaten;
 
 **[22:69]** van nu af zal de Zoon des menschen gezeten zijn aan de rechterhand der kracht Gods!
 
 **[22:70]** En allen zeiden: Gij zijt dan de Zoon van God? En Hij zeide tot hen: Gij zegt het, want Ik ben het!
 
-**[22:71]** Zij nu zeiden: Wat hebben wij nog getuigenis van noode? want wij zelven hebben het uit zijn mond gehoord!  
+**[22:71]** Zij nu zeiden: Wat hebben wij nog getuigenis van noode? want wij zelven hebben het uit zijn mond gehoord!
 
 ### Chapter 23
 
@@ -53970,9 +53970,9 @@
 
 **[23:11]** En Herodes met zijn soldaten smaadden en bespotten Hem; en, na Hem een blinkend kleed aangedaan te hebben, zond hij Hem terug naar Pilatus.
 
-**[23:12]** Herodes nu en Pilatus werden op dien dag vrienden met malkander; want te voren waren zij met malkander in vijandschap. 
+**[23:12]** Herodes nu en Pilatus werden op dien dag vrienden met malkander; want te voren waren zij met malkander in vijandschap.
 
-**[23:13]**  Pilatus dan riep de overpriesters, en de oversten, en het volk bijeen en zeide tot hen:
+**[23:13]** Pilatus dan riep de overpriesters, en de oversten, en het volk bijeen en zeide tot hen:
 
 **[23:14]** Gij hebt dezen mensch tot mij gebracht als een volksverleider, en ziet, ik heb Hem in uw tegenwoordigheid verhoord en ik heb dezen mensch niet schuldig bevonden aan iets waarvan gij Hem beschuldigt;
 
@@ -53996,13 +53996,13 @@
 
 **[23:24]** En Pilatus besliste dat hun eisch geschieden zou,
 
-**[23:25]** en hij liet dien los die om oproer en moord in de gevangenis was geworpen, welken zij eischten; maar Jezus gaf hij over aan hun wil. 
+**[23:25]** en hij liet dien los die om oproer en moord in de gevangenis was geworpen, welken zij eischten; maar Jezus gaf hij over aan hun wil.
 
-**[23:26]**  En toen zij Hem wegvoerden grepen zij zekeren Simon van Cyrene, die van den akker kwam, en leiden hem het kruis op om het achter Jezus te dragen.
+**[23:26]** En toen zij Hem wegvoerden grepen zij zekeren Simon van Cyrene, die van den akker kwam, en leiden hem het kruis op om het achter Jezus te dragen.
 
 **[23:27]** En Hem volgde een groote menigte van het volk en van vrouwen, die Hem beklaagden en beweenden.
 
-**[23:28]** Maar Jezus keerde zich tot haar en zeide: O dochters van Jerusalem! weent niet over Mij, maar weent over u zelven en over uw kinderen; 
+**[23:28]** Maar Jezus keerde zich tot haar en zeide: O dochters van Jerusalem! weent niet over Mij, maar weent over u zelven en over uw kinderen;
 
 **[23:29]** want ziet, er komen dagen waarin men zal zeggen: Zalig de onvruchtbaren en de lichamen die niet gebaard, en de borsten die niet gezoogd hebben!
 
@@ -54010,9 +54010,9 @@
 
 **[23:31]** want indien zij dit doen aan het groene hout, wat moet dan aan het dorre geschieden?
 
-**[23:32]** En er werden ook nog twee kwaaddoeners weggeleid om met Hem gedood te worden. 
+**[23:32]** En er werden ook nog twee kwaaddoeners weggeleid om met Hem gedood te worden.
 
-**[23:33]**  En toen zij gekomen waren aan de plaats die de Schedelplaats genoemd wordt, kruisigden zij Hem aldaar, en dé kwaaddoeners, den een ter rechter– en den andere ter linkerhand.
+**[23:33]** En toen zij gekomen waren aan de plaats die de Schedelplaats genoemd wordt, kruisigden zij Hem aldaar, en dé kwaaddoeners, den een ter rechter– en den andere ter linkerhand.
 
 **[23:34]** En Jezus zeide: Vader, vergeef het hun, want zij weten niet wat ze doen! En zijn kleederen verdeelende wierpen zij er het lot over.
 
@@ -54022,9 +54022,9 @@
 
 **[23:37]** en zij zeiden: Zoo Gij de koning der Joden zijt, verlos U zelven!
 
-**[23:38]** En er was ook een opschrift boven Hem geschreven, met grieksche, en romeinsche, en hebreeuwsche letters: De koning der Joden is deze. 
+**[23:38]** En er was ook een opschrift boven Hem geschreven, met grieksche, en romeinsche, en hebreeuwsche letters: De koning der Joden is deze.
 
-**[23:39]**  En een der gehangen kwaaddoeners lasterde Hem, zeggende: Zijt Gij de Christus niet? Verlos U zelven en ons!
+**[23:39]** En een der gehangen kwaaddoeners lasterde Hem, zeggende: Zijt Gij de Christus niet? Verlos U zelven en ons!
 
 **[23:40]** Maar de andere antwoordde en bestrafte hem, zeggende: Ook gij vreest God niet, daar gij toch in hetzelfde oordeel zijt?
 
@@ -54032,9 +54032,9 @@
 
 **[23:42]** En hij zeide tot Jezus: Heere, gedenk mijner als Gij in uw koninkrijk gekomen zijt!
 
-**[23:43]** En Jezus zeide tot hem: Voorwaar zeg Ik u, heden zult gij met Mij in het paradijs zijn! 
+**[23:43]** En Jezus zeide tot hem: Voorwaar zeg Ik u, heden zult gij met Mij in het paradijs zijn!
 
-**[23:44]**  En het was omtrent de zesde ure en er werd duisternis over de geheele aarde tot de negende ure toe.
+**[23:44]** En het was omtrent de zesde ure en er werd duisternis over de geheele aarde tot de negende ure toe.
 
 **[23:45]** En de zon werd verduisterd, en het voorhangsel des tempels scheurde door midden.
 
@@ -54044,9 +54044,9 @@
 
 **[23:48]** En al de scharen, die tot dit schouwspel samengekomen waren, toen zij gezien hadden wat er geschied was, keerden zij terug, slaande op hun borsten.
 
-**[23:49]** En al zijn bekenden stonden van verre dit aan te zien, en ook de vrouwen die Hem van Galilea gevolgd waren. 
+**[23:49]** En al zijn bekenden stonden van verre dit aan te zien, en ook de vrouwen die Hem van Galilea gevolgd waren.
 
-**[23:50]**  En ziet, een man met name Jozef, die raadsheer was, een goed en rechtvaardig man,
+**[23:50]** En ziet, een man met name Jozef, die raadsheer was, een goed en rechtvaardig man,
 
 **[23:51]** — deze had niet ingestemd met hun raad en handeling— van Arimathea, een stad der Joden, die ook het koninkrijk Gods verwachtte,
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** En ook de vrouwen volgden, die met Hem uit Galilea gekomen waren, en bezagen de grafstede en hoe zijn lichaam gelegd was.
 
-**[23:56]** En teruggekeerd zijnde, bereidden zij specerijen en balsem. En op den sabbat rustten zij volgens de wet.  
+**[23:56]** En teruggekeerd zijnde, bereidden zij specerijen en balsem. En op den sabbat rustten zij volgens de wet.
 
 ### Chapter 24
 
@@ -54084,9 +54084,9 @@
 
 **[24:11]** En deze woorden schenen hun toe als zot geklap, en zij geloofden haar niet.
 
-**[24:12]** Doch Petrus stond op en liep naar het graf; en hij bukte en zag de linnen doeken afzonderlijk liggen; en hij ging heen, zich verwonderende over hetgeen geschied was. 
+**[24:12]** Doch Petrus stond op en liep naar het graf; en hij bukte en zag de linnen doeken afzonderlijk liggen; en hij ging heen, zich verwonderende over hetgeen geschied was.
 
-**[24:13]**  En ziet, twee van hen waren dien zelfden dag op weg naar een dorp dat zestig stadiën van Jerusalem lag, met name Emmaüs,
+**[24:13]** En ziet, twee van hen waren dien zelfden dag op weg naar een dorp dat zestig stadiën van Jerusalem lag, met name Emmaüs,
 
 **[24:14]** en zij bespraken met elkander al hetgeen er was voorgevallen.
 
@@ -54130,9 +54130,9 @@
 
 **[24:34]** die zeiden: Waarlijk, de Heere is verrezen, en aan Simon verschenen!
 
-**[24:35]** En zij vertelden wat op den weg was geschied en hoe Hij hun was bekend geworden in het breken van het brood. 
+**[24:35]** En zij vertelden wat op den weg was geschied en hoe Hij hun was bekend geworden in het breken van het brood.
 
-**[24:36]**  Toen zij nu hierover spraken, stond Jezus zelf in hun midden en zeide tot hen: Vrede zij ulieden!
+**[24:36]** Toen zij nu hierover spraken, stond Jezus zelf in hun midden en zeide tot hen: Vrede zij ulieden!
 
 **[24:37]** En zij, bevreesd en verschrikt geworden zijnde, meenden een geest te zien.
 
@@ -54158,15 +54158,15 @@
 
 **[24:48]** Gij nu zijt getuigen van deze dingen.
 
-**[24:49]** En ziet, Ik zend de belofte mijns Vaders op ulieden; maar blijft gij in de stad Jerusalem totdat gij zult bekleed zijn met kracht uit de hoogte! 
+**[24:49]** En ziet, Ik zend de belofte mijns Vaders op ulieden; maar blijft gij in de stad Jerusalem totdat gij zult bekleed zijn met kracht uit de hoogte!
 
-**[24:50]**  En Hij leidde hen naar buiten tot aan Bethanië, en hief zijn handen op en zegende hen.
+**[24:50]** En Hij leidde hen naar buiten tot aan Bethanië, en hief zijn handen op en zegende hen.
 
 **[24:51]** En terwijl Hij hen zegende, geschiedde het dat Hij van hen scheidde en naar den hemel werd opgenomen.
 
 **[24:52]** En zij aanbaden Hem en keerden terug naar Jerusalem met groote vreugde.
 
-**[24:53]** En zij waren altijd in den tempel, lovende en prijzende God. Amen.   
+**[24:53]** En zij waren altijd in den tempel, lovende en prijzende God. Amen.
 
 ## John
 
@@ -54180,9 +54180,9 @@
 
 **[1:4]** In hetzelve was Leven; en het Leven was het Licht der menschen.
 
-**[1:5]** En het Licht schijnt in de duisternissen de duisternis heeft het niet begrepen. 
+**[1:5]** En het Licht schijnt in de duisternissen de duisternis heeft het niet begrepen.
 
-**[1:6]**  Er was een mensch, van God gezonden; zijn naam was Johannes.
+**[1:6]** Er was een mensch, van God gezonden; zijn naam was Johannes.
 
 **[1:7]** Deze kwam tot een getuigenis, om van het Licht te getuigen, opdat allen door hem zouden gelooven.
 
@@ -54196,9 +54196,9 @@
 
 **[1:12]** Maar zoovelen als Hem hebben aangenomen, dien heeft Hij macht gegeven om kinderen Gods te worden, aan hen die in zijn Naam gelooven;
 
-**[1:13]** die niet uit den bloede, noch uit den wille des vleesches, noch uit den wille des mans, maar uit God geboren zijn. 
+**[1:13]** die niet uit den bloede, noch uit den wille des vleesches, noch uit den wille des mans, maar uit God geboren zijn.
 
-**[1:14]**  En het Woord is vleesch geworden en heeft onder ons woning gemaakt; en wij hebben zijn glorie aanschouwd, een glorie als van den Eeniggeborene bij den Vader, vol van genade en waarheid.
+**[1:14]** En het Woord is vleesch geworden en heeft onder ons woning gemaakt; en wij hebben zijn glorie aanschouwd, een glorie als van den Eeniggeborene bij den Vader, vol van genade en waarheid.
 
 **[1:15]** Johannes getuigde van Hem en heeft uitgeroepen, zeggende: Deze was het van wien ik zeide: Die achter mij komt, is vóór mij geworden, want Hij was eer dan ik.
 
@@ -54206,9 +54206,9 @@
 
 **[1:17]** Want de wet is door Mozes gegeven; de genade en de waarheid zijn door Jezus Christus geworden.
 
-**[1:18]** Niemand heeft ooit God gezien; de eeniggeboren Zoon, die in den schoot des Vaders is, die heeft Hem bekend gemaakt. 
+**[1:18]** Niemand heeft ooit God gezien; de eeniggeboren Zoon, die in den schoot des Vaders is, die heeft Hem bekend gemaakt.
 
-**[1:19]**  En dit is de getuigenis van Johannes, toen de Joden priesters en levieten van Jerusalem tot hem afzonden, om hem te vragen: Gij, wie zijt gij?
+**[1:19]** En dit is de getuigenis van Johannes, toen de Joden priesters en levieten van Jerusalem tot hem afzonden, om hem te vragen: Gij, wie zijt gij?
 
 **[1:20]** En hij beleed en loochende niet, en beleed: Ik ben de Christus niet!
 
@@ -54226,9 +54226,9 @@
 
 **[1:27]** Deze is het die achter mij komt, die vóór mij geworden is, dien ik niet waardig ben zijn schoenriem los te maken!
 
-**[1:28]** Deze dingen zijn geschied in Bethanië, aan de overzijde van den Jordaan, waar Johannes was doopende. 
+**[1:28]** Deze dingen zijn geschied in Bethanië, aan de overzijde van den Jordaan, waar Johannes was doopende.
 
-**[1:29]**  Des anderen daags zag Johannes Jezus tot zich komen en zeide: Zie, het Lam Gods, dat de zonde der wereld wegdraagt!
+**[1:29]** Des anderen daags zag Johannes Jezus tot zich komen en zeide: Zie, het Lam Gods, dat de zonde der wereld wegdraagt!
 
 **[1:30]** Deze is het van wien ik zeide: Achter mij komt een man, die vóór mij is geworden, want Hij was eer dan ik.
 
@@ -54238,15 +54238,15 @@
 
 **[1:33]** En ik kende Hem niet, maar die mij gezonden heeft om met water te doopen, die had tot mij gezegd: Op wien gij den Geest zult zien nederdalen en blijven, die is het die doopt met den Heiligen Geest.
 
-**[1:34]** En ik heb gezien en getuigd dat deze is de Zoon van God! 
+**[1:34]** En ik heb gezien en getuigd dat deze is de Zoon van God!
 
-**[1:35]**  Des anderen daags stond Johannes daar weder en twee van zijn discipelen.
+**[1:35]** Des anderen daags stond Johannes daar weder en twee van zijn discipelen.
 
 **[1:36]** En hij zag Jezus daar wandelen en zeide: Zie, het Lam Gods!
 
 **[1:37]** En die twee discipelen hoorden hem dat zeggen en zij volgden Jezus.
 
-**[1:38]** En Jezus keerde zich om en ziende dat zij Hem volgden, zeide Hij tot hen: Wat zoekt gij? 
+**[1:38]** En Jezus keerde zich om en ziende dat zij Hem volgden, zeide Hij tot hen: Wat zoekt gij?
 
 **[1:39]** Zij nu zeiden tot Hem: Rabbi, (dat wil zeggen: Meester) waar woont Gij?
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** Nathanaël antwoordde Hem: Rabbi, Gij zijt de Zone Gods! Gij zijt de Koning Israëls!
 
-**[1:51]** Jezus antwoordde en zeide tot hem: Omdat Ik tot u gezegd heb dat Ik u onder den vijgeboom zag, daarom gelooft gij? — Grootere dingen dan deze zult gij zien!En Hij zeide tot hem: Voorwaar, voorwaar zeg Ik ulieden: Gij zult den hemel geopend zien en de engelen Gods opklimmende en nederdalende op den Zoon des menschen.  
+**[1:51]** Jezus antwoordde en zeide tot hem: Omdat Ik tot u gezegd heb dat Ik u onder den vijgeboom zag, daarom gelooft gij? — Grootere dingen dan deze zult gij zien! En Hij zeide tot hem: Voorwaar, voorwaar zeg Ik ulieden: Gij zult den hemel geopend zien en de engelen Gods opklimmende en nederdalende op den Zoon des menschen.
 
 ### Chapter 2
 
@@ -54296,11 +54296,11 @@
 
 **[2:10]** Iedereen zet eerst den goeden wijn op, en den minderen als men goed gedronken heeft; maar gij hebt den goeden wijn tot nu toe bewaard!
 
-**[2:11]** Dit eerste zijner mirakelen deed Jezus te Kana is Galilea, en Hij openbaarde zijn glorie; en zijn discipelen geloofden in Hem. 
+**[2:11]** Dit eerste zijner mirakelen deed Jezus te Kana is Galilea, en Hij openbaarde zijn glorie; en zijn discipelen geloofden in Hem.
 
-**[2:12]**  Daarna ging Hij af naar Kapernaüm, Hij en zijn moeder, en zijn broeders, en zijn discipelen, en daar bleven zij niet vele dagen. 
+**[2:12]** Daarna ging Hij af naar Kapernaüm, Hij en zijn moeder, en zijn broeders, en zijn discipelen, en daar bleven zij niet vele dagen.
 
-**[2:13]**  En het Paaschfeest der Joden was nabij, en Jezus ging op naar Jerusalem.
+**[2:13]** En het Paaschfeest der Joden was nabij, en Jezus ging op naar Jerusalem.
 
 **[2:14]** En Hij vond in den tempel de ossen– en schapen– en duivenverkoopers, en de wisselaars, die daar zaten.
 
@@ -54318,13 +54318,13 @@
 
 **[2:21]** Maar Hij sprak van den tempel zijns lichaams.
 
-**[2:22]** Daarom, toen Hij uit de dooden was verrezen, werden zijn discipelen indachtig dat Hij dit gezegd had, en zij geloofden de Schrifture en het woord dat Jezus gesproken had. 
+**[2:22]** Daarom, toen Hij uit de dooden was verrezen, werden zijn discipelen indachtig dat Hij dit gezegd had, en zij geloofden de Schrifture en het woord dat Jezus gesproken had.
 
-**[2:23]**  Terwijl Hij nu te Jerusalem op het paaschfeest was, geloofden velen in zijn Naam, toen zij de mirakelen zagen die Hij deed.
+**[2:23]** Terwijl Hij nu te Jerusalem op het paaschfeest was, geloofden velen in zijn Naam, toen zij de mirakelen zagen die Hij deed.
 
 **[2:24]** Maar Jezus zelf vertrouwde zich onder hen niet, omdat Hij allen kende,
 
-**[2:25]** en omdat Hij niet van noode had dat iemand Hem van den mensch getuigenis gaf, want Hij zelf wist wat in den mensch was.  
+**[2:25]** en omdat Hij niet van noode had dat iemand Hem van den mensch getuigenis gaf, want Hij zelf wist wat in den mensch was.
 
 ### Chapter 3
 
@@ -54366,11 +54366,11 @@
 
 **[3:19]** Dit nu is het oordeel, dat het Licht tot de wereld is gekomen en dat de menschen de duisternis meer hebben bemind dan het Licht; want hun werken waren kwaad.
 
-**[3:20]** Want al wie het kwaad doet; haat het Licht en komt niet tot het Licht, opdat zijn werken niet zouden bestraft worden; 
+**[3:20]** Want al wie het kwaad doet; haat het Licht en komt niet tot het Licht, opdat zijn werken niet zouden bestraft worden;
 
-**[3:21]** maar die de waarheid doet komt tot het Licht, opdat zijn werken bekend worden, dat zij in God gedaan zijn. 
+**[3:21]** maar die de waarheid doet komt tot het Licht, opdat zijn werken bekend worden, dat zij in God gedaan zijn.
 
-**[3:22]**  Na dezen kwam Jezus met zijn discipelen naar het land van Judea, en daar vertoefde Hij met hen en doopte.
+**[3:22]** Na dezen kwam Jezus met zijn discipelen naar het land van Judea, en daar vertoefde Hij met hen en doopte.
 
 **[3:23]** En ook Johannes doopte in Enon, nabij Salim, omdat daar veel water was. En zij kwamen daar en werden gedoopt.
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** De Vader bemint den Zoon en heeft alles in zijn hand gegeven.
 
-**[3:36]** Die in den Zoon gelooft heeft eeuwig leven, maar die den Zoon ongehoorzaam is zal geen leven zien, maar de gramschap Gods blijft op hem.  
+**[3:36]** Die in den Zoon gelooft heeft eeuwig leven, maar die den Zoon ongehoorzaam is zal geen leven zien, maar de gramschap Gods blijft op hem.
 
 ### Chapter 4
 
@@ -54412,9 +54412,9 @@
 
 **[4:5]** Hij kwam dan aan een stad van Samaria, genaamd Sichar, nabij het stuk grond dat Jakob aan zijn zoon Jozef gaf.
 
-**[4:6]** En aldaar was de put van Jakob; en omdat Jezus vermoeid was van de reize, zette Hij zich bij den put neder. Het was omtrent de zesde ure. 
+**[4:6]** En aldaar was de put van Jakob; en omdat Jezus vermoeid was van de reize, zette Hij zich bij den put neder. Het was omtrent de zesde ure.
 
-**[4:7]**  Daar kwam een vrouw uit Samaria om water te putten. Jezus zeide tot haar: Geef mij wat drinken!
+**[4:7]** Daar kwam een vrouw uit Samaria om water te putten. Jezus zeide tot haar: Geef mij wat drinken!
 
 **[4:8]** Want zijn discipelen waren naar de stad gegaan om spijze te koopen.
 
@@ -54452,9 +54452,9 @@
 
 **[4:25]** De vrouw zeide tot Hem: Ik weet dat de Messias komt, dat wil zeggen: De Christus; als die gekomen is zal Hij ons alles verkondigen!
 
-**[4:26]** Jezus zeide tot haar: Ik, die met u spreek, ben het! 
+**[4:26]** Jezus zeide tot haar: Ik, die met u spreek, ben het!
 
-**[4:27]**  En hierop kwamen zijn discipelen en waren verwonderd dat Hij met een vrouw sprak; maar niemand zeide: Wat vraagt Gij of wat spreekt Gij met haar?
+**[4:27]** En hierop kwamen zijn discipelen en waren verwonderd dat Hij met een vrouw sprak; maar niemand zeide: Wat vraagt Gij of wat spreekt Gij met haar?
 
 **[4:28]** De vrouw dan liet haar watervat achter en ging naar de stad, en zeide tot de menschen:
 
@@ -54476,23 +54476,23 @@
 
 **[4:37]** Want hierin is het woord waarachtig: De een zaait en de andere maait.
 
-**[4:38]** Ik heb u uitgezonden om te oogsten wat gij niet bearbeid hebt; anderen hebben den arbeid gedaan en gij zijt tot hun arbeid ingegaan. 
+**[4:38]** Ik heb u uitgezonden om te oogsten wat gij niet bearbeid hebt; anderen hebben den arbeid gedaan en gij zijt tot hun arbeid ingegaan.
 
-**[4:39]**  Uit die stad nu geloofden velen van de Samaritanen in Hem, op het woord der vrouw die getuigde: Hij heeft mij gezegd al wat ik gedaan heb.
+**[4:39]** Uit die stad nu geloofden velen van de Samaritanen in Hem, op het woord der vrouw die getuigde: Hij heeft mij gezegd al wat ik gedaan heb.
 
 **[4:40]** Toen dan de Samaritanen tot Hem gekomen waren, verzochten zij Hem bij hen te blijven. En Hij bleef daar twee dagen.
 
 **[4:41]** En er geloofden nog veel meer om zijns woords wil,
 
-**[4:42]** en zeiden tot de vrouw: Het is nu niet meer om uw zeggen, dat wij gelooven; want wij hebben zelf gehoord en weten dat deze waarlijk is de Verlosser der wereld. 
+**[4:42]** en zeiden tot de vrouw: Het is nu niet meer om uw zeggen, dat wij gelooven; want wij hebben zelf gehoord en weten dat deze waarlijk is de Verlosser der wereld.
 
-**[4:43]**  Na die twee dagen nu ging hij vandaar naar Galilea.
+**[4:43]** Na die twee dagen nu ging hij vandaar naar Galilea.
 
 **[4:44]** Want Jezus zelf getuigde dat een profeet in zijn eigen vaderland geen achting heeft.
 
-**[4:45]** Als Hij dan in Galilea gekomen was, ontvingen de Galileërs Hem, die alles gezien hadden wat Hij op het feest in Jerusalem had gedaan; want ook zij waren naar het feest gegaan. 
+**[4:45]** Als Hij dan in Galilea gekomen was, ontvingen de Galileërs Hem, die alles gezien hadden wat Hij op het feest in Jerusalem had gedaan; want ook zij waren naar het feest gegaan.
 
-**[4:46]**  Jezus kwam dan wederom te Kana in Galilea, waar Hij het water tot wijn gemaakt had. En daar was een koninklijk beambte, wiens zoon krank was in Kapernaüm.
+**[4:46]** Jezus kwam dan wederom te Kana in Galilea, waar Hij het water tot wijn gemaakt had. En daar was een koninklijk beambte, wiens zoon krank was in Kapernaüm.
 
 **[4:47]** Deze, gehoord hebbende dat Jezus uit Judea naar Galilea gekomen was, ging; tot Hem, en vroeg dat Hij zou afkomen en zijn zoon genezen, want hij lag op sterven.
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** De vader erkende dan dat het dezelfde ure was waarin Jezus tot hem had gezegd: Uw zoon leeft! En hij zelf geloofde en geheel zijn huisgezin.
 
-**[4:54]** Dit tweede mirakel heeft Jezus wederom gedaan als Hij uit Judea naar Galilea was gekomen.  
+**[4:54]** Dit tweede mirakel heeft Jezus wederom gedaan als Hij uit Judea naar Galilea was gekomen.
 
 ### Chapter 5
 
@@ -54516,7 +54516,7 @@
 
 **[5:2]** In Jerusalem nu is er bij de Schaapspoort een vijver, in ‘t hebreeuwsch genaamd Bethesda, die vijf gaanderijen heeft,
 
-**[5:3]** waarin lag een menigte van kranken, blinden, kreupelen, lammen, wachtende op de roering des waters; 
+**[5:3]** waarin lag een menigte van kranken, blinden, kreupelen, lammen, wachtende op de roering des waters;
 
 **[5:4]** want een engel daalde op een bepaalden tijd neder in den vijver en roerde het water; die dan het eerst daarin kwam, na de roering van het water, die werd gezond, welke ziekte hij ook had.
 
@@ -54528,9 +54528,9 @@
 
 **[5:8]** Jezus zeide tot hem: Sta op, neem uw bed op en wandel!
 
-**[5:9]** En terstond werd de man gezond en nam zijn bed op en wandelde. En het was sabbat op dien dag. 
+**[5:9]** En terstond werd de man gezond en nam zijn bed op en wandelde. En het was sabbat op dien dag.
 
-**[5:10]**  De Joden dan zeiden tot hem die genezen was: Het is sabbat en het is u niet geoorloofd het bed op te nemen!
+**[5:10]** De Joden dan zeiden tot hem die genezen was: Het is sabbat en het is u niet geoorloofd het bed op te nemen!
 
 **[5:11]** Hij antwoordde hun: Die mij gezond gemaakt heeft, die heeft tot mij gezegd: Neem uw bed op en wandel!
 
@@ -54546,9 +54546,9 @@
 
 **[5:17]** Maar Jezus antwoordde hun: Mijn Vader werkt tot nu toe, en Ik werk ook.
 
-**[5:18]** Daarom zochten de Joden te meer Hem te dooden, omdat Hij niet alleen den sabbat schond, maar ook God zijn eigen Vader noemde, zich zelven gelijk makende aan God. 
+**[5:18]** Daarom zochten de Joden te meer Hem te dooden, omdat Hij niet alleen den sabbat schond, maar ook God zijn eigen Vader noemde, zich zelven gelijk makende aan God.
 
-**[5:19]**  Jezus dan antwoordde en zeide tot hen: Voorwaar, voorwaar Ik zeg ulieden: De Zoon kan niets van zich zelven doen, dan hetgeen Hij den Vader ziet doen; want wat deze doet, dat doet ook de Zoon desgelijks.
+**[5:19]** Jezus dan antwoordde en zeide tot hen: Voorwaar, voorwaar Ik zeg ulieden: De Zoon kan niets van zich zelven doen, dan hetgeen Hij den Vader ziet doen; want wat deze doet, dat doet ook de Zoon desgelijks.
 
 **[5:20]** Want de Vader bemint den Zoon, en al wat Hij zelf doet toont Hij Hem, en nog grooter werken dan deze zal Hij Hem toonen, opdat gij u verwondert.
 
@@ -54604,7 +54604,7 @@
 
 **[5:46]** Want zoo gij in Mozes geloofdet, dan zoudt gij ook in Mij gelooven, want van Mij heeft hij geschreven.
 
-**[5:47]** Maar als gij in zijn schriften niet gelooft, hoe zult gij dan mijn woorden gelooven?  
+**[5:47]** Maar als gij in zijn schriften niet gelooft, hoe zult gij dan mijn woorden gelooven?
 
 ### Chapter 6
 
@@ -54632,13 +54632,13 @@
 
 **[6:12]** Toen zij nu verzadigd waren, zeide Hij tot zijn discipelen: Verzamelt de overgeschoten brokken, opdat er niets verloren ga!
 
-**[6:13]** Zij verzamelden ze dan en vulden twaalf korven met brokken van de vijf gerstenbrooden, die overgeschoten waren van hen die gegeten hadden. 
+**[6:13]** Zij verzamelden ze dan en vulden twaalf korven met brokken van de vijf gerstenbrooden, die overgeschoten waren van hen die gegeten hadden.
 
-**[6:14]**  De menschen dan, gezien hebbende het mirakel dat Jezus gedaan had, zeiden: Deze is waarlijk de profeet die in de wereld komen moest!
+**[6:14]** De menschen dan, gezien hebbende het mirakel dat Jezus gedaan had, zeiden: Deze is waarlijk de profeet die in de wereld komen moest!
 
-**[6:15]** Jezus dan, wetende dat zij zouden komen en Hem met geweld nemen om Hem koning te maken, vluchtte wederom naar den berg, Hij alleen. 
+**[6:15]** Jezus dan, wetende dat zij zouden komen en Hem met geweld nemen om Hem koning te maken, vluchtte wederom naar den berg, Hij alleen.
 
-**[6:16]**  Toen het nu avond was geworden, gingen zijn discipelen af naar de zee,
+**[6:16]** Toen het nu avond was geworden, gingen zijn discipelen af naar de zee,
 
 **[6:17]** en zij gingen in een schip en voeren de zee over naar Kapernaüm. Maar het was al donker geworden, en nog was Jezus niet tot hen gekomen.
 
@@ -54648,9 +54648,9 @@
 
 **[6:20]** Maar Hij zeide tot hen: Ik ben het, vreest niet!
 
-**[6:21]** Zij wilden Hem dan in het schip nemen, en terstond kwam het schip aan het land waar zij naar toe voeren. 
+**[6:21]** Zij wilden Hem dan in het schip nemen, en terstond kwam het schip aan het land waar zij naar toe voeren.
 
-**[6:22]**  Des anderen daags stond de schare aan den overkant der zee en had gezien dat aldaar geen ander scheepken was dan dat ééne, en dat Jezus met zijn discipelen niet was meegegaan in het schip, maar dat zijn discipelen alleen waren vertrokken.
+**[6:22]** Des anderen daags stond de schare aan den overkant der zee en had gezien dat aldaar geen ander scheepken was dan dat ééne, en dat Jezus met zijn discipelen niet was meegegaan in het schip, maar dat zijn discipelen alleen waren vertrokken.
 
 **[6:23]** Maar er kwamen scheepkens uit Tiberias kort bij de plaats waar zij het brood gegeten hadden, toen de Heere gedankt had.
 
@@ -54690,7 +54690,7 @@
 
 **[6:41]** De Joden dan murmureerden over Hem, omdat Hij zeide: Ik ben het brood dat uit den hemel is nedergedaald!
 
-**[6:42]** En zij zeiden: Deze is Hij niet Jezus, de zoon van Jozef, wiens vader en moeder wij kennen? Hoe, zegt deze dan nu: Uit den hemel ben Ik nedergedaald?; 
+**[6:42]** En zij zeiden: Deze is Hij niet Jezus, de zoon van Jozef, wiens vader en moeder wij kennen? Hoe, zegt deze dan nu: Uit den hemel ben Ik nedergedaald?;
 
 **[6:43]** Maar Jezus antwoordde en zeide tot hen: Murmureert niet onder malkander!
 
@@ -54724,9 +54724,9 @@
 
 **[6:58]** Dit is het brood dat uit den hemel is nedergedaald; niet zooals de vaders het manna hebben gegeten en zijn gestorven; die dit brood eet zal leven tot in eeuwigheid.
 
-**[6:59]** Deze dingen sprak Hij in de synagoge, toen Hij in Kapernaüm leerde. 
+**[6:59]** Deze dingen sprak Hij in de synagoge, toen Hij in Kapernaüm leerde.
 
-**[6:60]**  Velen dan van zijn discipelen, die Hem gehoord hadden, zeiden: Deze rede is hard; wie kan ze hooren?
+**[6:60]** Velen dan van zijn discipelen, die Hem gehoord hadden, zeiden: Deze rede is hard; wie kan ze hooren?
 
 **[6:61]** Jezus nu wist bij zich zelven dat zijn discipelen daarover murmureerden, en zeide tot hen: Dat ergert ulieden?
 
@@ -54738,9 +54738,9 @@
 
 **[6:65]** En Hij zeide: Daarom heb Ik ulieden gezegd dat niemand tot Mij kan komen, zoo het hem niet gegeven is uit den Vader.
 
-**[6:66]** Van toen af gingen velen zijner discipelen terug en wandelden niet meer met Hem. 
+**[6:66]** Van toen af gingen velen zijner discipelen terug en wandelden niet meer met Hem.
 
-**[6:67]**  Jezus zeide dan tot de twaalven: Wilt ook gij niet weggaan?
+**[6:67]** Jezus zeide dan tot de twaalven: Wilt ook gij niet weggaan?
 
 **[6:68]** Simon Petrus antwoordde Hem: Heere! tot wien zouden wij gaan? Gij hebt woorden van eeuwig leven,
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** Jezus antwoordde hun: Heb Ik u niet alle twaalf uitverkoren? en één uit u is er een duivel!
 
-**[6:71]** Dit nu zeide Hij van Judas Iskariot, den zoon van Simon; deze toch was het die Hem zou verraden, die één was van de twaalven.  
+**[6:71]** Dit nu zeide Hij van Judas Iskariot, den zoon van Simon; deze toch was het die Hem zou verraden, die één was van de twaalven.
 
 ### Chapter 7
 
@@ -54768,17 +54768,17 @@
 
 **[7:8]** Gaat gij op naar het feest! Ik ga niet op tot dit feest, omdat mijn tijd nog niet vervuld is.
 
-**[7:9]** Dit gezegd hebbende, bleef Hij in Galilea. 
+**[7:9]** Dit gezegd hebbende, bleef Hij in Galilea.
 
-**[7:10]**  Toen nu zijn broeders waren opgegaan naar het feest, toen ging Hij zelf ook op, niet openlijk, maar in het verborgen.
+**[7:10]** Toen nu zijn broeders waren opgegaan naar het feest, toen ging Hij zelf ook op, niet openlijk, maar in het verborgen.
 
 **[7:11]** De Joden dan zochten Hem op het feest en zeiden: Waar is Hij?
 
 **[7:12]** En er was veel gemompels van Hem onder de schare; sommigen zeiden: Hij is goed! anderen zeiden: Neen, maar Hij verleidt de schare!
 
-**[7:13]** Niemand sprak nochtans vrij uit van Hem uit vreeze voor de Joden. 
+**[7:13]** Niemand sprak nochtans vrij uit van Hem uit vreeze voor de Joden.
 
-**[7:14]**  Als het nu al midden in het feest was, ging Jezus op naar den tempel en onderwees.
+**[7:14]** Als het nu al midden in het feest was, ging Jezus op naar den tempel en onderwees.
 
 **[7:15]** De Joden dan verwonderden zich en zeiden: Hoe kent deze de Schrifturen? Hij die niet heeft gestudeerd!
 
@@ -54812,25 +54812,25 @@
 
 **[7:30]** Zij zochten dan Hem te grijpen, en niemand leide de hand op Hem, omdat zijn ure nog niet was gekomen.
 
-**[7:31]** Doch velen uit de schare geloofden in Hem, en zeiden: De Christus, als Hij zal komen, zal die wel meer mirakelen doen dan deze doet? 
+**[7:31]** Doch velen uit de schare geloofden in Hem, en zeiden: De Christus, als Hij zal komen, zal die wel meer mirakelen doen dan deze doet?
 
-**[7:32]**  De fariseërs hoorden de schare dit van Hem mompelen, en de overpriesters en de fariseërs zonden dienaren af, om Hem te grijpen.
+**[7:32]** De fariseërs hoorden de schare dit van Hem mompelen, en de overpriesters en de fariseërs zonden dienaren af, om Hem te grijpen.
 
 **[7:33]** Jezus dan zeide: Nog een korten tijd ben Ik bij ulieden, en dan ga Ik tot Hem die Mij gezonden heeft.
 
-**[7:34]** Gij zult Mij zoeken en niet vinden, en waar Ik ben kunt gijlieden niet komen. 
+**[7:34]** Gij zult Mij zoeken en niet vinden, en waar Ik ben kunt gijlieden niet komen.
 
-**[7:35]**  De Joden dan zeiden tot malkander: Waar zal deze heengaan, dat wij Hem niet vinden zullen? Hij zal toch niet naar de verstrooiden gaan, onder de Grieken, en de Grieken leeren?
+**[7:35]** De Joden dan zeiden tot malkander: Waar zal deze heengaan, dat wij Hem niet vinden zullen? Hij zal toch niet naar de verstrooiden gaan, onder de Grieken, en de Grieken leeren?
 
-**[7:36]** Wat is dat woord dat Hij zegt: Gij zult Mij zoeken en niet vinden? en waar Ik ben kunt gijlieden niet komen? 
+**[7:36]** Wat is dat woord dat Hij zegt: Gij zult Mij zoeken en niet vinden? en waar Ik ben kunt gijlieden niet komen?
 
-**[7:37]**  Op den laatsten dag nu, den grootste van het feest, stond Jezus en riep, zeggende: Als iemand dorst heeft, die kome tot Mij en drinke!
+**[7:37]** Op den laatsten dag nu, den grootste van het feest, stond Jezus en riep, zeggende: Als iemand dorst heeft, die kome tot Mij en drinke!
 
 **[7:38]** die in Mij gelooft, zooals de Schrifture zegt: Stroomen van levend water zullen uit zijn binnenste vloeien!
 
-**[7:39]** Dit nu zeide Hij van den Geest, dien ontvangen zouden degenen die in Hem gelooven; want de Geest was nog niet uitgestort, omdat Jezus nog niet in zijn glorie was. 
+**[7:39]** Dit nu zeide Hij van den Geest, dien ontvangen zouden degenen die in Hem gelooven; want de Geest was nog niet uitgestort, omdat Jezus nog niet in zijn glorie was.
 
-**[7:40]**  Uit de schare dan zeiden sommigen, die deze woorden gehoord hadden: Deze is waarlijk de profeet!
+**[7:40]** Uit de schare dan zeiden sommigen, die deze woorden gehoord hadden: Deze is waarlijk de profeet!
 
 **[7:41]** Anderen zeiden: Deze is de Christus! — Anderen zeiden: Het is toch niet uit Galilea dat de Christus komt?
 
@@ -54838,9 +54838,9 @@
 
 **[7:43]** Er kwam dan tweedracht onder de schare, om zijnentwil.
 
-**[7:44]** Sommigen nu uit hen wilden Hem grijpen, maar niemand leide de handen op Hem. 
+**[7:44]** Sommigen nu uit hen wilden Hem grijpen, maar niemand leide de handen op Hem.
 
-**[7:45]**  De dienaars dan kwamen tot de overpriesters en fariseërs, en die zeiden tot hen: Waarom hebt gij Hem niet meegebracht?
+**[7:45]** De dienaars dan kwamen tot de overpriesters en fariseërs, en die zeiden tot hen: Waarom hebt gij Hem niet meegebracht?
 
 **[7:46]** De dienaars antwoordden: Nooit heeft eenig mensch gesproken, zooals deze mensch spreekt!
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** Zij antwoordden en zeiden tot hem: Gij zijt toch ook niet uit Galilea? onderzoek en zie, dat er uit Galilea geen profeet is opgestaan!
 
-**[7:53]** En een ieder ging naar zijn huis, maar Jezus ging naar den Berg der Olijven.  
+**[7:53]** En een ieder ging naar zijn huis, maar Jezus ging naar den Berg der Olijven.
 
 ### Chapter 8
 
@@ -54878,9 +54878,9 @@
 
 **[8:9]** En Jezus richtte zich op en zag niemand dan de vrouw; en Hij zeide tot haar: Vrouw! waar zijn die beschuldigers van u? niemand heeft u veroordeeld?
 
-**[8:10]** Zij nu zeide: Niemand, Heere! En Jezus zeide tot haar: Ook Ik veroordeel u niet! ga heen, en zondig niet meer! 
+**[8:10]** Zij nu zeide: Niemand, Heere! En Jezus zeide tot haar: Ook Ik veroordeel u niet! ga heen, en zondig niet meer!
 
-**[8:11]**  Jezus dan sprak wederom tot hen, zeggende: Ik ben het Licht der wereld; die Mij volgt, zal niet wandelen in de duisternis, maar zal het licht des levens hebben.
+**[8:11]** Jezus dan sprak wederom tot hen, zeggende: Ik ben het Licht der wereld; die Mij volgt, zal niet wandelen in de duisternis, maar zal het licht des levens hebben.
 
 **[8:12]** De fariseërs dan zeiden tot Hem: Gij geeft getuigenis van u zelven; uw getuigenis is niet waarachtig!
 
@@ -54914,9 +54914,9 @@
 
 **[8:27]** Jezus dan zeide: Als gij den Zoon des menschen zult verhoogd hebben, dan zult gij verstaan dat Ik het ben, en dat Ik van Mij zelven niets doe, maar dat Ik deze dingen spreek zooals de Vader Mij geleerd heeft.
 
-**[8:28]** En die Mij gezonden heeft is met Mij; de Vader heeft Mij niet alleen gelaten, omdat Ik altijd doe wat Hem behagelijk is. 
+**[8:28]** En die Mij gezonden heeft is met Mij; de Vader heeft Mij niet alleen gelaten, omdat Ik altijd doe wat Hem behagelijk is.
 
-**[8:29]**  Toen Hij dit sprak, geloofden velen in Hem.
+**[8:29]** Toen Hij dit sprak, geloofden velen in Hem.
 
 **[8:30]** Jezus dan zeide tot de Joden die in Hem geloofden: Indien gij in mijn woord blijft, dan zijt gij waarlijk mijn discipelen,
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Zij namen dan steenen op, om die op Hem te werpen, maar Jezus verborg zich en ging uit den tempel.
 
-**[8:59]**  
+**[8:59]** 
 
 ### Chapter 9
 
@@ -55002,9 +55002,9 @@
 
 **[9:11]** Hij antwoordde: De mensch, Jezus genaamd, maakte slijk en bestreek mijn oogen en zeide tot mij: Ga heen naar Siloam en wasch u! Ik ging dan heen, en heb mij gewasschen en werd ziende!
 
-**[9:12]** Zij zeiden tot hem: Waar is die? Hij zeide: Ik weet niet! 
+**[9:12]** Zij zeiden tot hem: Waar is die? Hij zeide: Ik weet niet!
 
-**[9:13]**  Zij brachten hem, die te voren blind was, tot de fariseërs.
+**[9:13]** Zij brachten hem, die te voren blind was, tot de fariseërs.
 
 **[9:14]** En het was sabbat op den dag dat Jezus slijk maakte en hem de oogen opende.
 
@@ -55046,9 +55046,9 @@
 
 **[9:33]** Als deze niet van God was, dan zou Hij niets kunnen doen.
 
-**[9:34]** Zij antwoordden en zeiden tot hem: Gij zijt geheel in zonden geboren, en gij leert ons? — En zij wierpen hem buiten. 
+**[9:34]** Zij antwoordden en zeiden tot hem: Gij zijt geheel in zonden geboren, en gij leert ons? — En zij wierpen hem buiten.
 
-**[9:35]**  Jezus hoorde dat ze hem buiten geworpen hadden, en vond hem, en zeide: Gelooft gij in den Zoon van God?
+**[9:35]** Jezus hoorde dat ze hem buiten geworpen hadden, en vond hem, en zeide: Gelooft gij in den Zoon van God?
 
 **[9:36]** Hij antwoordde en zeide: Wie is Hij, Heere, opdat ik in Hem geloove?
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** Eenigen uit de fariseërs, die bij Hem waren, hoorden dit en zeiden tot Hem: Wij zijn toch ook niet blind?
 
-**[9:41]** Jezus zeide tot hen: Als gij blind waart, dan zoudt gij geen zonde hebben, maar nu gij zegt: Wij zien! zoo blijft uw zonde.  
+**[9:41]** Jezus zeide tot hen: Als gij blind waart, dan zoudt gij geen zonde hebben, maar nu gij zegt: Wij zien! zoo blijft uw zonde.
 
 ### Chapter 10
 
@@ -55074,17 +55074,17 @@
 
 **[10:5]** Een vreemdeling nu zullen zij niet volgen, maar zij zullen van hem vluchten, omdat zij de stem der vreemdelingen niet kennen.
 
-**[10:6]** Deze gelijkenis sprak Jezus tot hen, maar zij verstonden niet wat het was, waarover Hij tot hen sprak. 
+**[10:6]** Deze gelijkenis sprak Jezus tot hen, maar zij verstonden niet wat het was, waarover Hij tot hen sprak.
 
-**[10:7]**  Jezus dan zeide: Voorwaar, voorwaar Ik zeg ulieden: Ik ben de Deur der schapen!
+**[10:7]** Jezus dan zeide: Voorwaar, voorwaar Ik zeg ulieden: Ik ben de Deur der schapen!
 
 **[10:8]** Allen, zooveel als er vóór Mij gekomen zijn, die zijn dieven en moordenaars, maar de schapen hebben naar hen niet gehoord.
 
 **[10:9]** Ik ben de Deur; als iemand door Mij ingaat, die zal behouden worden, en hij zal ingaan, en uitgaan, en weide vinden.
 
-**[10:10]** De dief komt niet dan om te stelen, en te slachten, en te verderven; Ik ben gekomen opdat zij leven hebben en overvloed hebben. 
+**[10:10]** De dief komt niet dan om te stelen, en te slachten, en te verderven; Ik ben gekomen opdat zij leven hebben en overvloed hebben.
 
-**[10:11]**  Ik ben de Goede Herder; de goede herder legt zijn leven af voor de schapen.
+**[10:11]** Ik ben de Goede Herder; de goede herder legt zijn leven af voor de schapen.
 
 **[10:12]** Maar de daglooner, en die geen herder is, aan wien de schapen niet toebehooren, ziet den wolf aankomen, en verlaat de schapen, en vlucht; en de wolf rooft en verjaagt de schapen.
 
@@ -55098,15 +55098,15 @@
 
 **[10:17]** Daarom bemint de Vader Mij, omdat Ik mijn leven afleg, opdat Ik het wederom neme.
 
-**[10:18]** Niemand neemt het van Mij af, maar Ik leg het van Mij zelven af; Ik heb macht om het af te leggen, en Ik heb macht om het wederom te nemen; dit gebod heb Ik ontvangen van mijn Vader. 
+**[10:18]** Niemand neemt het van Mij af, maar Ik leg het van Mij zelven af; Ik heb macht om het af te leggen, en Ik heb macht om het wederom te nemen; dit gebod heb Ik ontvangen van mijn Vader.
 
-**[10:19]**  Wederom kwam er tweedracht onder de Joden om deze woorden.
+**[10:19]** Wederom kwam er tweedracht onder de Joden om deze woorden.
 
 **[10:20]** Velen dan uit hen zeiden: Hij heeft een boozen geest en is zot: Wat luistert gij naar Hem?
 
-**[10:21]** Anderen zeiden: Dit zijn geen woorden van een bezetene! een booze geest kan toch niet der blinden oogen openen? 
+**[10:21]** Anderen zeiden: Dit zijn geen woorden van een bezetene! een booze geest kan toch niet der blinden oogen openen?
 
-**[10:22]**  En het was het feest der tempelwijding in Jerusalem; het was winter.
+**[10:22]** En het was het feest der tempelwijding in Jerusalem; het was winter.
 
 **[10:23]** En Jezus wandelde in den tempel, in de gaanderij van Salomo.
 
@@ -55122,9 +55122,9 @@
 
 **[10:29]** Mijn Vader die ze Mij gegeven heeft, is meer dan allen, en niemand kan ze rooven uit de hand mijns Vaders.
 
-**[10:30]** Ik en de Vader zijn één. 
+**[10:30]** Ik en de Vader zijn één.
 
-**[10:31]**  De Joden namen wederom steenen op om Hem te steenigen.
+**[10:31]** De Joden namen wederom steenen op om Hem te steenigen.
 
 **[10:32]** Jezus antwoordde hun: Veel goede werken heb Ik ulieden getoond uit mijn Vader, om welk werk van die steenigt gij Mij?
 
@@ -55138,15 +55138,15 @@
 
 **[10:37]** Als Ik de werken mijns Vaders niet doe, gelooft in Mij dan niet.
 
-**[10:38]** Maar als Ik ze doe en gij gelooft in Mij niet, gelooft dan in de werken, opdat gij moogt weten en gelooven dat de Vader in Mij is en Ik in den Vader. 
+**[10:38]** Maar als Ik ze doe en gij gelooft in Mij niet, gelooft dan in de werken, opdat gij moogt weten en gelooven dat de Vader in Mij is en Ik in den Vader.
 
-**[10:39]**  Zij zochten Hem dan te grijpen, en Hij ontkwam uit hun hand.
+**[10:39]** Zij zochten Hem dan te grijpen, en Hij ontkwam uit hun hand.
 
 **[10:40]** En Hij ging wederom over den Jordaan naar de plaats waar Johannes eerst, doopende was, en Hij bleef aldaar.
 
 **[10:41]** En velen kwamen tot Hem en zeiden: Johannes deed wel geen mirakel, maar alles wat Johannes van dezen zeide, was waar.
 
-**[10:42]** En velen geloofden aldaar in Hem.  
+**[10:42]** En velen geloofden aldaar in Hem.
 
 ### Chapter 11
 
@@ -55166,7 +55166,7 @@
 
 **[11:8]** De discipelen zeiden tot Hem: Meester! kortgeleden zochten de Joden U te steenigen, en wederom gaat Gij derwaarts?
 
-**[11:9]** Jezus antwoordde: Zijn er niet twaalf uren in den dag? Als iemand bij dag wandelt dan struikelt hij niet, omdat hij het licht dezer wereld ziet; 
+**[11:9]** Jezus antwoordde: Zijn er niet twaalf uren in den dag? Als iemand bij dag wandelt dan struikelt hij niet, omdat hij het licht dezer wereld ziet;
 
 **[11:10]** maar als iemand bij nacht wandelt, dan struikelt hij, omdat het licht in hem niet is.
 
@@ -55180,9 +55180,9 @@
 
 **[11:15]** en Ik verheug Mij om uwentwil dat Ik daar niet was, opdat gij gelooven moogt; maar laat ons tot hem gaan.
 
-**[11:16]** Thomas dan, genaamd de Tweeling, zeide tot de medediscipelen: Laat ons ook gaan opdat wij met Hem sterven! 
+**[11:16]** Thomas dan, genaamd de Tweeling, zeide tot de medediscipelen: Laat ons ook gaan opdat wij met Hem sterven!
 
-**[11:17]**  Jezus dan kwam en bevond dat Lazarus al vier dagen in het graf lag.
+**[11:17]** Jezus dan kwam en bevond dat Lazarus al vier dagen in het graf lag.
 
 **[11:18]** Bethanië nu was dicht bij Jerusalem, omtrent vijftien stadiën.
 
@@ -55230,19 +55230,19 @@
 
 **[11:40]** Jezus zeide tot haar: Heb Ik u niet gezegd dat gij Gods glorie zoudt zien, als gij gelooft?
 
-**[11:41]** Zij namen dan den steen weg. En Jezus sloeg de oogen naar boven en zeide: Vader, Ik dank U dat Gij Mij gehoord hebt; 
+**[11:41]** Zij namen dan den steen weg. En Jezus sloeg de oogen naar boven en zeide: Vader, Ik dank U dat Gij Mij gehoord hebt;
 
 **[11:42]** doch Ik wist dat Gij Mij altijd hoort; maar ter wille van de schare die rondom staat, heb Ik gesproken, opdat zij zouden gelooven dat Gij Mij gezonden hebt.
 
 **[11:43]** En dit gezegd hebbende, riep Hij met een luide stem: Lazarus, kom uit!
 
-**[11:44]** De doode kwam uit, gebonden aan handen en voeten met windselen, en zijn aangezicht was bewonden met een zweetdoek. En Jezus zeide tot hen: Maakt hem los, en laat hem weggaan! 
+**[11:44]** De doode kwam uit, gebonden aan handen en voeten met windselen, en zijn aangezicht was bewonden met een zweetdoek. En Jezus zeide tot hen: Maakt hem los, en laat hem weggaan!
 
-**[11:45]**  Velen dan uit de Joden, die tot Maria gekomen waren en gezien hadden wat Jezus gedaan had, geloofden in Hem.
+**[11:45]** Velen dan uit de Joden, die tot Maria gekomen waren en gezien hadden wat Jezus gedaan had, geloofden in Hem.
 
-**[11:46]** Maar sommigen uit hen gingen heen tot de fariseërs en zeiden hun wat Jezus gedaan had. 
+**[11:46]** Maar sommigen uit hen gingen heen tot de fariseërs en zeiden hun wat Jezus gedaan had.
 
-**[11:47]**  De overpriesters dan en de fariseërs vergaderden den Raad en zeiden: Wat gaan wij doen? Want deze mensch doet veel mirakelen!
+**[11:47]** De overpriesters dan en de fariseërs vergaderden den Raad en zeiden: Wat gaan wij doen? Want deze mensch doet veel mirakelen!
 
 **[11:48]** Als wij Hem zoo laten voortgaan, dan zullen allen in Hem gelooven, en de Romeinen zullen komen en onze plaats en ons volk beide wegnemen!
 
@@ -55254,15 +55254,15 @@
 
 **[11:52]** en niet alleen voor die natie, maar opdat Hij ook de kinderen Gods, die verstrooid waren, tot één zou vergaderen.
 
-**[11:53]** Van dien dag af dan beraadslaagden zij om Hem te dooden. 
+**[11:53]** Van dien dag af dan beraadslaagden zij om Hem te dooden.
 
-**[11:54]**  Jezus dan wandelde niet meer vrij onder de Joden, maar ging vandaar naar de landstreek, dicht bij de woestijn, naar een stad genaamd Efraïm; en daar verbleef Hij met de discipelen.
+**[11:54]** Jezus dan wandelde niet meer vrij onder de Joden, maar ging vandaar naar de landstreek, dicht bij de woestijn, naar een stad genaamd Efraïm; en daar verbleef Hij met de discipelen.
 
 **[11:55]** Het Paaschfeest der Joden was nu nabij; en velen uit die landstreek gingen op naar Jerusalem voor het Paaschfeest, om zich te zuiveren.
 
 **[11:56]** Zij zochten dan Jezus en zeiden onder malkander, toen ze in den tempel stonden: Wat dunkt u? zou Hij niet naar het feest komen?
 
-**[11:57]** De overpriesters nu en de fariseërs hadden geboden dat, zoo iemand wist waar Hij was, hij het zou aanbrengen, opdat ze Hem vangen zouden.  
+**[11:57]** De overpriesters nu en de fariseërs hadden geboden dat, zoo iemand wist waar Hij was, hij het zou aanbrengen, opdat ze Hem vangen zouden.
 
 ### Chapter 12
 
@@ -55280,15 +55280,15 @@
 
 **[12:7]** Jezus zeide dan: Laat haar doen! opdat zij het beware tot den dag mijner begrafenis.
 
-**[12:8]** Want de armen hebt gij altijd met u, maar Mij hebt gij niet altijd. 
+**[12:8]** Want de armen hebt gij altijd met u, maar Mij hebt gij niet altijd.
 
-**[12:9]**  Een groote schare dan uit de Joden vernam dat Hij daar was, en zij kwamen niet alleen om Jezus, maar opdat zij ook Lazarus zouden zien dien Hij uit de dooden verwekt had.
+**[12:9]** Een groote schare dan uit de Joden vernam dat Hij daar was, en zij kwamen niet alleen om Jezus, maar opdat zij ook Lazarus zouden zien dien Hij uit de dooden verwekt had.
 
 **[12:10]** De overpriesters dan hielden samen raad om ook Lazarus te dooden,
 
-**[12:11]** want om zijnentwil gingen velen der Joden weg en geloofden in Jezus. 
+**[12:11]** want om zijnentwil gingen velen der Joden weg en geloofden in Jezus.
 
-**[12:12]**  Des anderen daags, toen een groote schare die naar het feest gekomen was, hoorde dat Jezus naar Jerusalem kwam,
+**[12:12]** Des anderen daags, toen een groote schare die naar het feest gekomen was, hoorde dat Jezus naar Jerusalem kwam,
 
 **[12:13]** namen zij takken van palmboomen en gingen uit Hem te gemoet, en riepen: Hosannah! Geprezen Hij, die komt in den Naam des Heeren, de Koning Israëls!
 
@@ -55302,23 +55302,23 @@
 
 **[12:18]** Daarom ook ging de schare Hem te gemoet, omdat zij gehoord hadden dat Hij dit mirakel gedaan had.
 
-**[12:19]** De fariseërs dan zeiden tot malkander: Gij ziet dat gij niets wint; zie, de geheele wereld loopt Hem na! 
+**[12:19]** De fariseërs dan zeiden tot malkander: Gij ziet dat gij niets wint; zie, de geheele wereld loopt Hem na!
 
-**[12:20]**  Er waren nu eenige Grieken uit degenen die opgekomen waren om op het feest te aanbidden.
+**[12:20]** Er waren nu eenige Grieken uit degenen die opgekomen waren om op het feest te aanbidden.
 
 **[12:21]** Dezen dan wendden zich tot Filippus, die van Bethsaïda was in Galilea, en vroegen hem, zeggende: Heer, wij wilden Jezus wel zien!
 
-**[12:22]** Filippus kwam en zeide het aan Andreas, en Andreas en Filippus kwamen en zeiden het aan Jezus. 
+**[12:22]** Filippus kwam en zeide het aan Andreas, en Andreas en Filippus kwamen en zeiden het aan Jezus.
 
-**[12:23]**  Jezus nu antwoordde en zeide tot hen: De ure is gekomen dat de Zoon des menschen de glorie zal ontvangen.
+**[12:23]** Jezus nu antwoordde en zeide tot hen: De ure is gekomen dat de Zoon des menschen de glorie zal ontvangen.
 
 **[12:24]** Voorwaar, voorwaar Ik zeg ulieden: Als het tarwegraan niet in de aarde valt en sterft, dan blijft het alleen, maar als het sterft dan draagt het veel vrucht!
 
 **[12:25]** Die zijn leven bemint zal het verliezen, en die zijn leven haat in deze wereld, die zal het bewaren ten eeuwigen leven.
 
-**[12:26]** Indien iemand Mij dient, die volge Mij, en waar Ik ben, daar zal ook mijn dienaar zijn; wanneer iemand Mij dient, de Vader zal hem eeren. 
+**[12:26]** Indien iemand Mij dient, die volge Mij, en waar Ik ben, daar zal ook mijn dienaar zijn; wanneer iemand Mij dient, de Vader zal hem eeren.
 
-**[12:27]**  Nu is mijn ziel ontroerd, en wat zal Ik zeggen? — Vader, verlos Mij uit deze ure? — Maar hierom ben Ik in deze ure gekomen!
+**[12:27]** Nu is mijn ziel ontroerd, en wat zal Ik zeggen? — Vader, verlos Mij uit deze ure? — Maar hierom ben Ik in deze ure gekomen!
 
 **[12:28]** Vader, verheerlijk uw Naam! — Er kwam dan een stem uit den hemel: En Ik heb Hem verheerlijkt en zal Hem wederom verheerlijken!
 
@@ -55330,15 +55330,15 @@
 
 **[12:32]** En Ik, als Ik van de aarde zal verhoogd zijn, zal allen tot Mij trekken!
 
-**[12:33]** Dit nu zeide Hij, te kennen gevende welken dood Hij zou sterven. 
+**[12:33]** Dit nu zeide Hij, te kennen gevende welken dood Hij zou sterven.
 
-**[12:34]**  De schare dan antwoordde Hem: Wij hebben gehoord uit de wet dat de Christus in eeuwigheid blijft; en hoe zegt Gij dan dat de Zoon des menschen moet verhoogd worden? Wie is die Zoon des menschen?
+**[12:34]** De schare dan antwoordde Hem: Wij hebben gehoord uit de wet dat de Christus in eeuwigheid blijft; en hoe zegt Gij dan dat de Zoon des menschen moet verhoogd worden? Wie is die Zoon des menschen?
 
 **[12:35]** Jezus dan zeide tot hen: Nog een korten tijd is het licht onder ulieden; wandelt als die het licht hebt, opdat geen duisternis u overvalle; en die wandelt in de duisternis, weet niet waar hij heengaat.
 
-**[12:36]** Als die het licht hebt; gelooft in het licht, opdat gij kinderen des lichts moogt, worden. 
+**[12:36]** Als die het licht hebt; gelooft in het licht, opdat gij kinderen des lichts moogt, worden.
 
-**[12:37]**  Dit sprak Jezus en Hij ging weg en verbergde zich van hen. Hoewel Hij nu zooveel mirakelen gedaan had voor hun oogen, zoo geloofden zij toch niet in Hem;
+**[12:37]** Dit sprak Jezus en Hij ging weg en verbergde zich van hen. Hoewel Hij nu zooveel mirakelen gedaan had voor hun oogen, zoo geloofden zij toch niet in Hem;
 
 **[12:38]** opdat het woord van Jesaja, den profeet, zou vervuld worden, dat hij gesproken heeft: Heere! wie heeft onze prediking geloofd? en de arm des Heeren, aan wien is hij geopenbaard?
 
@@ -55346,9 +55346,9 @@
 
 **[12:40]** Hij heeft hun de oogen verblind, en het harte verhard, opdat zij niet zouden zien met de oogen en verstaan met het harte, en zich bekeeren en Ik hen geneze.
 
-**[12:41]** Dit zeide Jesaja omdat hij zijn glorie zag en van Hem sprak. 
+**[12:41]** Dit zeide Jesaja omdat hij zijn glorie zag en van Hem sprak.
 
-**[12:42]**  Nochtans geloofden ook velen van de oversten in Hem, maar om der fariseërs wil beleden zij het niet, om niet uit de synagoge geworpen te worden.
+**[12:42]** Nochtans geloofden ook velen van de oversten in Hem, maar om der fariseërs wil beleden zij het niet, om niet uit de synagoge geworpen te worden.
 
 **[12:43]** Want zij beminden de glorie der menschen meer dan de glorie Gods.
 
@@ -55362,9 +55362,9 @@
 
 **[12:48]** Die Mij verwerpt en mijn woorden niet aanneemt, die heeft zijn rechter; het woord dat Ik sprak, dat zal hem oordeelen ten laatsten dage.
 
-**[12:49]** Want uit Mij zelven heb Ik niet gesproken, maar die Mij gezonden heeft, de Vader zelf, heeft Mij een gebod gegeven wat Ik zeggen en wat Ik spreken zou; 
+**[12:49]** Want uit Mij zelven heb Ik niet gesproken, maar die Mij gezonden heeft, de Vader zelf, heeft Mij een gebod gegeven wat Ik zeggen en wat Ik spreken zou;
 
-**[12:50]** en Ik weet dat zijn gebod eeuwig leven is. Wat Ik dan spreek, spreek Ik zooals de Vader Mij gezegd heeft.  
+**[12:50]** en Ik weet dat zijn gebod eeuwig leven is. Wat Ik dan spreek, spreek Ik zooals de Vader Mij gezegd heeft.
 
 ### Chapter 13
 
@@ -55396,9 +55396,9 @@
 
 **[13:14]** Maar als Ik, de Heer en de Meester, u dan de voeten heb gewasschen, dan zijt ook gij verplicht malkander de voeten te wasschen.
 
-**[13:15]** Een voorbeeld toch heb Ik u gegeven, opdat ook gij doet zooals Ik aan u gedaan heb. 
+**[13:15]** Een voorbeeld toch heb Ik u gegeven, opdat ook gij doet zooals Ik aan u gedaan heb.
 
-**[13:16]**  Voorwaar, voorwaar Ik zeg ulieden: Een dienstknecht is niet meer dan zijn heer, en een gezant niet meer dan hij die hem gezonden heeft.
+**[13:16]** Voorwaar, voorwaar Ik zeg ulieden: Een dienstknecht is niet meer dan zijn heer, en een gezant niet meer dan hij die hem gezonden heeft.
 
 **[13:17]** Zoo gij deze dingen weet, zalig zijt gij als gij ze doet.
 
@@ -55426,9 +55426,9 @@
 
 **[13:29]** Want sommigen meenden, omdat Judas de kas hield, dat Jezus tot hem zeide: Koop wat wij voor het feest van noode hebben, of, dat hij den armen wat zou geven.
 
-**[13:30]** Hij dan, de bete genomen hebbende, ging spoedig uit. — En het was nacht. 
+**[13:30]** Hij dan, de bete genomen hebbende, ging spoedig uit. — En het was nacht.
 
-**[13:31]**  Toen hij dan uitgegaan was, zeide Jezus: Nu heeft de Zoon des menschen de glorie ontvangen, en God heeft in Hem de glorie ontvangen.
+**[13:31]** Toen hij dan uitgegaan was, zeide Jezus: Nu heeft de Zoon des menschen de glorie ontvangen, en God heeft in Hem de glorie ontvangen.
 
 **[13:32]** Als God in Hem de glorie heeft ontvangen, dan zal God Hem ook in zich zelven de glorie doen ontvangen, en zal Hem terstond de glorie doen ontvangen!
 
@@ -55436,13 +55436,13 @@
 
 **[13:34]** Een nieuw gebod geef Ik u, dat gij malkander bemint; dat gij malkander bemint zooals Ik ulieden bemind heb.
 
-**[13:35]** Hierdoor zullen allen bekennen dat gij mijn discipelen zijt, als gij liefde hebt onder malkander. 
+**[13:35]** Hierdoor zullen allen bekennen dat gij mijn discipelen zijt, als gij liefde hebt onder malkander.
 
-**[13:36]**  Simon Petrus zeide tot Hem: Heere, waar gaat Gij heen? Jezus antwoordde: Waar Ik heenga kunt gij Mij nu niet volgen, maar later zult gij Mij volgen.
+**[13:36]** Simon Petrus zeide tot Hem: Heere, waar gaat Gij heen? Jezus antwoordde: Waar Ik heenga kunt gij Mij nu niet volgen, maar later zult gij Mij volgen.
 
 **[13:37]** Petrus zeide tot Hem: Heere! waarom kan ik U nu niet volgen? mijn leven zal ik voor U stellen!
 
-**[13:38]** Jezus antwoordde: Gij zult uw leven voor Mij stellen? — voorwaar, voorwaar Ik zeg u: De haan zal niet kraaien voordat Gij Mij driemaal verloochend hebt!  
+**[13:38]** Jezus antwoordde: Gij zult uw leven voor Mij stellen? — voorwaar, voorwaar Ik zeg u: De haan zal niet kraaien voordat Gij Mij driemaal verloochend hebt!
 
 ### Chapter 14
 
@@ -55452,15 +55452,15 @@
 
 **[14:3]** En als Ik heengegaan zal zijn en voor u plaats bereid zal hebben, dan kom Ik weder en Ik zal u tot Mij nemen, opdat gij ook zijn moogt waar Ik ben.
 
-**[14:4]** En waar Ik heenga weet gij, en den; weg weet gij. 
+**[14:4]** En waar Ik heenga weet gij, en den; weg weet gij.
 
-**[14:5]**  Thomas zeide tot Hem: Heere! wij weten niet waar Gij heengaat, en hoe kunnen wij den weg weten?
+**[14:5]** Thomas zeide tot Hem: Heere! wij weten niet waar Gij heengaat, en hoe kunnen wij den weg weten?
 
 **[14:6]** Jezus zeide tot hem: Ik ben de weg, en de waarheid, en het leven; niemand komt tot den Vader dan door Mij.
 
-**[14:7]** Als gij Mij gekend hadt dan zoudt gij ook mijn Vader gekend hebben; en van nu af kent gij Hem en hebt gij Hem gezien. 
+**[14:7]** Als gij Mij gekend hadt dan zoudt gij ook mijn Vader gekend hebben; en van nu af kent gij Hem en hebt gij Hem gezien.
 
-**[14:8]**  Filippus zeide tot Hem: Heere, laat ons den Vader zien, en het is ons genoeg!
+**[14:8]** Filippus zeide tot Hem: Heere, laat ons den Vader zien, en het is ons genoeg!
 
 **[14:9]** Jezus zeide tot hem: Zoo langen tijd ben Ik bij u, en gij kent Mij niet, Filippus? — Die Mij heeft gezien, die heeft den Vader gezien; hoe zegt gij: Laat ons den Vader zien?
 
@@ -55468,19 +55468,19 @@
 
 **[14:11]** Gelooft Mij, Ik ben in den Vader, en de Vader is in Mij; en zoo niet, gelooft dan om de werken zelven.
 
-**[14:12]** Voorwaar, voorwaar Ik zeg ulieden: Die in Mij gelooft, de werken die Ik doe, zal hij ook doen en grootere dan deze zal hij doen, omdat Ik tot den Vader ga; 
+**[14:12]** Voorwaar, voorwaar Ik zeg ulieden: Die in Mij gelooft, de werken die Ik doe, zal hij ook doen en grootere dan deze zal hij doen, omdat Ik tot den Vader ga;
 
 **[14:13]** en wat gij ook zult begeeren in mijn Naam, dat zal Ik doen, opdat de Vader in den Zoon de glorie ontvange.
 
-**[14:14]** Indien gij in mijn Naam iets begeeren zult, Ik zal het doen. 
+**[14:14]** Indien gij in mijn Naam iets begeeren zult, Ik zal het doen.
 
-**[14:15]**  Indien gij Mij bemint, zoo zult gij mijn geboden bewaren,
+**[14:15]** Indien gij Mij bemint, zoo zult gij mijn geboden bewaren,
 
-**[14:16]** en Ik zal den Vader vragen, en een anderen Bijstand zal Hij u geven, opdat Hij bij u zij tot in eeuwigheid; 
+**[14:16]** en Ik zal den Vader vragen, en een anderen Bijstand zal Hij u geven, opdat Hij bij u zij tot in eeuwigheid;
 
-**[14:17]** den Geest der waarheid, dien de wereld niet kan ontvangen, omdat zij Hem niet ziet, noch Hem kent; maar gij kent Hem, omdat Hij bij u blijft en in u zal zijn. 
+**[14:17]** den Geest der waarheid, dien de wereld niet kan ontvangen, omdat zij Hem niet ziet, noch Hem kent; maar gij kent Hem, omdat Hij bij u blijft en in u zal zijn.
 
-**[14:18]**  Niet als weezen zal Ik u laten! Ik kom tot u.
+**[14:18]** Niet als weezen zal Ik u laten! Ik kom tot u.
 
 **[14:19]** Nog een weinig en de wereld ziet Mij niet meer maar gij ziet Mij, omdat Ik leef en gij zult leven.
 
@@ -55492,9 +55492,9 @@
 
 **[14:23]** Jezus antwoordde en zeide tot hem: Als iemand Mij bemint, dan zal hij mijn woord bewaren, en mijn Vader zal hem beminnen, en tot hem zullen Wij komen en woonplaats bij hem maken.
 
-**[14:24]** Die Mij niet bemint, die bewaart mijn woorden niet; en het woord dat gij hoort is niet het mijne, maar des Vaders die Mij gezonden heeft. 
+**[14:24]** Die Mij niet bemint, die bewaart mijn woorden niet; en het woord dat gij hoort is niet het mijne, maar des Vaders die Mij gezonden heeft.
 
-**[14:25]**  Dit heb Ik tot ulieden gesproken terwijl Ik bij u blijf.
+**[14:25]** Dit heb Ik tot ulieden gesproken terwijl Ik bij u blijf.
 
 **[14:26]** Maar de Bijstand, de Heilige Geest, dien de Vader zal zenden in mijn Naam, die zal u alles leeren en zal u in gedachtenis brengen alles wat Ik u gezegd heb.
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Niet veel zal Ik met u meer spreken; want de overste der wereld komt, en in Mij heeft hij niets.
 
-**[14:31]** Maar opdat de wereld wete dat Ik den Vader bemin, en dat Ik zoo doe als Mij de Vader geboden heeft: Staat op, laat ons vanhier gaan!  
+**[14:31]** Maar opdat de wereld wete dat Ik den Vader bemin, en dat Ik zoo doe als Mij de Vader geboden heeft: Staat op, laat ons vanhier gaan!
 
 ### Chapter 15
 
@@ -55528,9 +55528,9 @@
 
 **[15:9]** Gelijk de Vader Mij heeft bemind, heb Ik ook u bemind. Blijft gij in mijn liefde!
 
-**[15:10]** Als gij mijn geboden onderhoudt, dan blijft gij in mijn liefde, gelijk ook Ik mijns Vaders geboden onderhouden heb, en blijf in zijn liefde. 
+**[15:10]** Als gij mijn geboden onderhoudt, dan blijft gij in mijn liefde, gelijk ook Ik mijns Vaders geboden onderhouden heb, en blijf in zijn liefde.
 
-**[15:11]**  Dit heb Ik tot u gesproken opdat mijn blijdschap in u zij, en uw blijdschap volkomen worde.
+**[15:11]** Dit heb Ik tot u gesproken opdat mijn blijdschap in u zij, en uw blijdschap volkomen worde.
 
 **[15:12]** Dit is mijn gebod, dat gij elkander bemint zooals Ik u bemind heb.
 
@@ -55542,9 +55542,9 @@
 
 **[15:16]** Niet gij hebt Mij uitverkoren, maar Ik heb ulieden uitverkoren, en u gesteld opdat gij zoudt heengaan, en vrucht dragen, en dat uw vrucht zou blijven, opdat, wat gij ook van den Vader zoudt begeeren in mijn Naam, Hij u dat geve.
 
-**[15:17]** Dit gebied Ik u, opdat gij malkander bemint. 
+**[15:17]** Dit gebied Ik u, opdat gij malkander bemint.
 
-**[15:18]**  Als de wereld u haat, weet dan dat zij Mij eer gehaat heeft, dan u.
+**[15:18]** Als de wereld u haat, weet dan dat zij Mij eer gehaat heeft, dan u.
 
 **[15:19]** Als gij uit de wereld waart, dan zou de wereld het hare beminnen; maar omdat gij uit de wereld niet zijt, maar Ik u heb uitverkoren uit de wereld, daarom haat u de wereld.
 
@@ -55560,9 +55560,9 @@
 
 **[15:25]** Maar dit geschiedt opdat het woord vervuld worde, dat in hun wet is geschreven: Zij hebben Mij gehaat zonder reden.
 
-**[15:26]** Maar als de Bijstand zal gekomen zijn, dien Ik u zal zenden van den Vader, den Geest der waarheid, die van den Vader uitgaat, die zal getuigenis geven van Mij; 
+**[15:26]** Maar als de Bijstand zal gekomen zijn, dien Ik u zal zenden van den Vader, den Geest der waarheid, die van den Vader uitgaat, die zal getuigenis geven van Mij;
 
-**[15:27]** en ook gij zult getuigenis geven, omdat gij van den beginne met Mij zijt.  
+**[15:27]** en ook gij zult getuigenis geven, omdat gij van den beginne met Mij zijt.
 
 ### Chapter 16
 
@@ -55572,9 +55572,9 @@
 
 **[16:3]** En dit zullen zij doen, omdat zij den Vader niet gekend hebben, noch Mij.
 
-**[16:4]** Maar dit heb Ik tot u gesproken, opdat, als de ure zal gekomen zijn, gij er aan gedenken zoudt, dat Ik het u gezegd heb. Dit heb Ik u van den beginne af niet gezegd, omdat Ik met u was. 
+**[16:4]** Maar dit heb Ik tot u gesproken, opdat, als de ure zal gekomen zijn, gij er aan gedenken zoudt, dat Ik het u gezegd heb. Dit heb Ik u van den beginne af niet gezegd, omdat Ik met u was.
 
-**[16:5]**  Maar nu ga Ik heen tot Hem die Mij gezonden heeft, en niemand uit u vraagt Mij: Waar gaat Gij heen?
+**[16:5]** Maar nu ga Ik heen tot Hem die Mij gezonden heeft, en niemand uit u vraagt Mij: Waar gaat Gij heen?
 
 **[16:6]** Maar omdat Ik dit tot u gesproken heb, heeft de droefheid uw harte vervuld.
 
@@ -55594,9 +55594,9 @@
 
 **[16:14]** Die zal Mij glorie toebrengen, want uit het mijne zal Hij nemen en ulieden verkondigen.
 
-**[16:15]** Al wat de Vader heeft is het mijne; daarom zeide Ik dat Hij uit het mijne neemt en ulieden verkondigt. 
+**[16:15]** Al wat de Vader heeft is het mijne; daarom zeide Ik dat Hij uit het mijne neemt en ulieden verkondigt.
 
-**[16:16]**  Een korten tijd, en gij zult Mij niet meer zien, en wederom een korten tijd, en gij zult Mij zien, want Ik ga heen tot den Vader.
+**[16:16]** Een korten tijd, en gij zult Mij niet meer zien, en wederom een korten tijd, en gij zult Mij zien, want Ik ga heen tot den Vader.
 
 **[16:17]** Eenigen uit zijn discipelen zeiden dan tot malkander: Wat is het, dat Hij tot ons zegt: Een korten tijd, en gij zult Mij niet zien, en wederom een korten tijd, en gij zult Mij zien, en: Want Ik ga heen tot den Vader?
 
@@ -55612,9 +55612,9 @@
 
 **[16:23]** En in dien dag zult gij Mij niets vragen. Voorwaar, voorwaar Ik zeg ulieden: Al wat gij den Vader bidden zult, zal Hij u geven in mijn Naam.
 
-**[16:24]** Tot nu toe hebt gij om niets gebeden in mijn Naam. — Bidt, en gij zult ontvangen, opdat uw blijdschap volkomen zij! 
+**[16:24]** Tot nu toe hebt gij om niets gebeden in mijn Naam. — Bidt, en gij zult ontvangen, opdat uw blijdschap volkomen zij!
 
-**[16:25]**  Dit heb Ik tot u gesproken in gelijkenissen; er komt een ure, dat Ik niet meer in gelijkenissen tot u zal spreken, maar u vrij uit van den Vader zal verkondigen.
+**[16:25]** Dit heb Ik tot u gesproken in gelijkenissen; er komt een ure, dat Ik niet meer in gelijkenissen tot u zal spreken, maar u vrij uit van den Vader zal verkondigen.
 
 **[16:26]** In dien dag zult gij bidden in mijn Naam, en Ik zeg u niet dat Ik den Vader voor u zal bidden,
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** Ziet, er komt een ure en die is gekomen, dat gij zult verstrooid worden, een ieder naar het zijne, en dat gij Mij alleen zult laten. En toch, Ik ben niet alleen, want de Vader is met Mij.
 
-**[16:33]** Dit heb Ik tot u gesproken opdat gij in Mij vrede hebt. In de wereld hebt gij verdrukking, maar houdt moed! Ik heb de wereld overwonnen.  
+**[16:33]** Dit heb Ik tot u gesproken opdat gij in Mij vrede hebt. In de wereld hebt gij verdrukking, maar houdt moed! Ik heb de wereld overwonnen.
 
 ### Chapter 17
 
@@ -55642,9 +55642,9 @@
 
 **[17:4]** Ik heb U de glorie gegeven op de aarde; het werk heb Ik volbracht dat Gij Mij hebt gegeven om te doen.
 
-**[17:5]** En nu, geef Gij Mij de glorie, o Vader! bij U zelven, de glorie die Ik bij U had, eer de wereld was. 
+**[17:5]** En nu, geef Gij Mij de glorie, o Vader! bij U zelven, de glorie die Ik bij U had, eer de wereld was.
 
-**[17:6]**  Ik heb uw Naam bekend gemaakt aan de menschen die Gij Mij gegeven hebt uit de wereld. De uwen waren zij en aan Mij hebt Gij hen gegeven, en uw woord hebben zij bewaard.
+**[17:6]** Ik heb uw Naam bekend gemaakt aan de menschen die Gij Mij gegeven hebt uit de wereld. De uwen waren zij en aan Mij hebt Gij hen gegeven, en uw woord hebben zij bewaard.
 
 **[17:7]** Nu erkennen zij dat alles van U is, wat Gij Mij gegeven hebt.
 
@@ -55670,9 +55670,9 @@
 
 **[17:18]** Gelijk Gij Mij tot de wereld hebt gezonden, heb Ik ook hen tot de wereld gezonden,
 
-**[17:19]** en voor hen heilig Ik Mij zelven, opdat ook zij geheiligd mogen zijn in waarheid. 
+**[17:19]** en voor hen heilig Ik Mij zelven, opdat ook zij geheiligd mogen zijn in waarheid.
 
-**[17:20]**  Doch niet voor dezen alleen bid Ik, maar ook voor degenen die door hun woord in Mij gelooven,
+**[17:20]** Doch niet voor dezen alleen bid Ik, maar ook voor degenen die door hun woord in Mij gelooven,
 
 **[17:21]** opdat zij allen één mogen zijn, gelijk Gij, Vader, in Mij, en Ik in U, dat ook dezen één zijn in ons, opdat de wereld geloove dat Gij Mij hebt gezonden.
 
@@ -55680,19 +55680,19 @@
 
 **[17:23]** Ik in hen, en Gij in Mij, opdat zij volmaakt zijn tot één, opdat de wereld bekenne dat Gij Mij hebt gezonden en dat Gij hen bemind hebt, zooals Gij Mij bemind hebt.
 
-**[17:24]** Vader! die Gij Mij hebt gegeven, die wil Ik, dat ook met Mij zijn waar Ik ben, opdat zij mijn glorie aanschouwen mogen die Gij Mij hebt gegeven, omdat Gij Mij bemind hebt vóór de schepping der wereld. 
+**[17:24]** Vader! die Gij Mij hebt gegeven, die wil Ik, dat ook met Mij zijn waar Ik ben, opdat zij mijn glorie aanschouwen mogen die Gij Mij hebt gegeven, omdat Gij Mij bemind hebt vóór de schepping der wereld.
 
-**[17:25]**  Rechtvaardige Vader! de wereld heeft U niet gekend, maar Ik heb U gekend, en dezen hebben erkend dat Gij Mij gezonden hebt; 
+**[17:25]** Rechtvaardige Vader! de wereld heeft U niet gekend, maar Ik heb U gekend, en dezen hebben erkend dat Gij Mij gezonden hebt;
 
-**[17:26]** en Ik heb hun uw Naam bekend gemaakt, en Ik zal hem bekend maken, opdat de liefde waarmede Gij Mij bemind hebt, in hen zij en Ik in hen.  
+**[17:26]** en Ik heb hun uw Naam bekend gemaakt, en Ik zal hem bekend maken, opdat de liefde waarmede Gij Mij bemind hebt, in hen zij en Ik in hen.
 
 ### Chapter 18
 
 **[18:1]** Toen Jezus dit gesproken had, ging Hij met zijn discipelen uit over de beek Kedron, waar een hof was, naar denwelken Hij ging, Hij en zijn discipelen.
 
-**[18:2]** Judas nu, de verrader, wist ook die plaats, omdat Jezus aldaar dikwijls met zijn discipelen vergaderd was. 
+**[18:2]** Judas nu, de verrader, wist ook die plaats, omdat Jezus aldaar dikwijls met zijn discipelen vergaderd was.
 
-**[18:3]**  Judas dan nam de bende en dienaars van de overpriesters en fariseërs, en kwam aldaar met lantaarns, en fakkels, en wapenen.
+**[18:3]** Judas dan nam de bende en dienaars van de overpriesters en fariseërs, en kwam aldaar met lantaarns, en fakkels, en wapenen.
 
 **[18:4]** Jezus dan, wetende al wat over Hem komen zou, ging uit en zeide tot hen: Wien zoekt gij?
 
@@ -55704,27 +55704,27 @@
 
 **[18:8]** Jezus antwoordde: Ik heb u gezegd dat Ik het ben! als gij Mij dan zoekt, laat dezen weggaan!
 
-**[18:9]** Opdat zou vervuld worden het woord dat Hij gezegd had: Van degenen die Gij Mij gegeven hebt, heb Ik niemand verloren! 
+**[18:9]** Opdat zou vervuld worden het woord dat Hij gezegd had: Van degenen die Gij Mij gegeven hebt, heb Ik niemand verloren!
 
-**[18:10]**  Simon Petrus dan had een zwaard, en trok het uit, en sloeg naar den dienstknecht des hoogepriesters, en kapte hem het rechteroor af. — De naam van den knecht was Malchus.
+**[18:10]** Simon Petrus dan had een zwaard, en trok het uit, en sloeg naar den dienstknecht des hoogepriesters, en kapte hem het rechteroor af. — De naam van den knecht was Malchus.
 
-**[18:11]** Maar Jezus zeide tot Petrus: Steek uw zwaard in de scheede! den drinkbeker, dien de Vader Mij gegeven heeft, zou Ik dien niet drinken? 
+**[18:11]** Maar Jezus zeide tot Petrus: Steek uw zwaard in de scheede! den drinkbeker, dien de Vader Mij gegeven heeft, zou Ik dien niet drinken?
 
-**[18:12]**  De bende dan, en de hoofdman, en de dienaars der Joden, grepen Jezus en bonden Hem vast;
+**[18:12]** De bende dan, en de hoofdman, en de dienaars der Joden, grepen Jezus en bonden Hem vast;
 
 **[18:13]** en voerden Hem eerst naar Annas; want deze was de schoonvader van Kajafas, die hoogepriester was in dat jaar.
 
-**[18:14]** Kajafas nu was het die den Joden den raad gegeven had, dat het voordeelig was dat één mensch zou sterven voor het volk. 
+**[18:14]** Kajafas nu was het die den Joden den raad gegeven had, dat het voordeelig was dat één mensch zou sterven voor het volk.
 
-**[18:15]**  Simon Petrus dan volgde Jezus, en een ander discipel. Deze discipel nu was bekend met den hoogepriester, en ging met Jezus mede naar den binnenhof van den hoogepriester.
+**[18:15]** Simon Petrus dan volgde Jezus, en een ander discipel. Deze discipel nu was bekend met den hoogepriester, en ging met Jezus mede naar den binnenhof van den hoogepriester.
 
 **[18:16]** En Petrus stond buiten bij de deur. De andere discipel dan, die bij den hoogepriester bekend was, kwam naar buiten en sprak met de deurbewaarster en bracht Petrus binnen.
 
 **[18:17]** De dienstmaagd dan, de deurbewaarster, zeide tot Petrus: Zijt ook gij niet uit de discipelen van dezen mensch? — Hij zeide: Neen!
 
-**[18:18]** De dienaren nu en de knechten stonden bij het kolenvuur dat zij aangestoken hadden omdat het koud was, en warmden zich; en ook Petrus stond bij hen en warmde zich. 
+**[18:18]** De dienaren nu en de knechten stonden bij het kolenvuur dat zij aangestoken hadden omdat het koud was, en warmden zich; en ook Petrus stond bij hen en warmde zich.
 
-**[18:19]**  De hoogepriester dan vroeg Jezus over zijn discipelen en over zijn leering.
+**[18:19]** De hoogepriester dan vroeg Jezus over zijn discipelen en over zijn leering.
 
 **[18:20]** Jezus antwoordde hem: Ik heb in het openbaar in de wereld gesproken; Ik heb altijd geleerd in de synagoge en in den tempel, waar al de Joden samenkomen, en in het heimelijk heb Ik niets gesproken.
 
@@ -55734,15 +55734,15 @@
 
 **[18:23]** Jezus antwoordde hem: Als Ik kwaad gesproken heb, geef dan reden van het kwade; maar indien goed, wat slaat gij Mij dan?
 
-**[18:24]** Annas zond Hem dan gebonden naar Kajafas den hoogepriester. 
+**[18:24]** Annas zond Hem dan gebonden naar Kajafas den hoogepriester.
 
-**[18:25]**  Simon Petrus nu stond en warmde zich. Zij zeiden dan tot hem: Zijt ook gij niet uit de discipelen van dezen? — En hij loochende het en zeide: Neen!
+**[18:25]** Simon Petrus nu stond en warmde zich. Zij zeiden dan tot hem: Zijt ook gij niet uit de discipelen van dezen? — En hij loochende het en zeide: Neen!
 
 **[18:26]** Een uit de dienstknechten des hoogepriesters, die van de familie was van hem dien Petrus het oor had afgekapt, zeide: Heb ik ook u niet gezien in den hof met Hem?
 
-**[18:27]** Wederom dan loochende het Petrus. En terstond kraaide een haan. 
+**[18:27]** Wederom dan loochende het Petrus. En terstond kraaide een haan.
 
-**[18:28]**  Zij brachten dan Jezus van Kajafas naar het rechthuis. — Het was ‘s morgens vroeg. — En de Joden zelf gingen niet naar het rechthuis, opdat zij niet besmet zouden worden, maar het pascha zouden mogen eten.
+**[18:28]** Zij brachten dan Jezus van Kajafas naar het rechthuis. — Het was ‘s morgens vroeg. — En de Joden zelf gingen niet naar het rechthuis, opdat zij niet besmet zouden worden, maar het pascha zouden mogen eten.
 
 **[18:29]** Pilatus dan ging uit naar buiten tot hen en zeide: Welke beschuldiging brengt gij tegen dezen mensch?
 
@@ -55750,9 +55750,9 @@
 
 **[18:31]** Pilatus dan zeide tot hen: Neemt gij Hem dan en oordeelt Hem naar uw wet! — De Joden dan zeiden tot hem: Ons is het niet geoorloofd iemand te dooden!
 
-**[18:32]** Opdat het woord van Jezus zou volbracht worden, dat Hij gesproken had, om te kennen te geven hoedanigen dood Hij zou sterven. 
+**[18:32]** Opdat het woord van Jezus zou volbracht worden, dat Hij gesproken had, om te kennen te geven hoedanigen dood Hij zou sterven.
 
-**[18:33]**  Pilatus dan ging wederom naar het rechthuis en riep Jezus en zeide tot Hem: Gij zijt de koning der Joden?
+**[18:33]** Pilatus dan ging wederom naar het rechthuis en riep Jezus en zeide tot Hem: Gij zijt de koning der Joden?
 
 **[18:34]** Jezus antwoordde: Zegt gij dat uit u zelven, of hebben anderen u over Mij gesproken?
 
@@ -55762,11 +55762,11 @@
 
 **[18:37]** Pilatus dan zeide tot Hem: Gij zijt dan toch een koning? — Jezus antwoordde: Gij zegt het, want een koning ben Ik! — Ik ben daartoe geboren en daartoe tot de wereld gezonden, opdat Ik aan de waarheid zou getuigenis geven. — Al wie uit de waarheid is, hoort naar mijn stem.
 
-**[18:38]** Pilatus zeide tot Hem: Wat is waarheid? — En dit gezegd hebbende, ging hij wederom naar buiten tot de Joden en zeide tot hen: Ik vind in Hem geen schuld! 
+**[18:38]** Pilatus zeide tot Hem: Wat is waarheid? — En dit gezegd hebbende, ging hij wederom naar buiten tot de Joden en zeide tot hen: Ik vind in Hem geen schuld!
 
-**[18:39]**  Maar gij zijt gewend dat ik u op het paaschfeest één gevangene loslaat; wilt gij dan, dat ik u den koning der Joden loslate?
+**[18:39]** Maar gij zijt gewend dat ik u op het paaschfeest één gevangene loslaat; wilt gij dan, dat ik u den koning der Joden loslate?
 
-**[18:40]** Zij schreeuwden dan allen wederom, zeggende: Niet dezen, maar Barabbas! — Barabbas nu was een moordenaar.  
+**[18:40]** Zij schreeuwden dan allen wederom, zeggende: Niet dezen, maar Barabbas! — Barabbas nu was een moordenaar.
 
 ### Chapter 19
 
@@ -55774,17 +55774,17 @@
 
 **[19:2]** En de soldaten vlochten een kroon uit doornen en zetten Hem die op het hoofd, en wierpen Hem een purperen kleed om,
 
-**[19:3]** en zij gingen tot Hem en zeiden: Wees gegroet, koning der Joden! — En zij gaven Hem stokslagen. 
+**[19:3]** en zij gingen tot Hem en zeiden: Wees gegroet, koning der Joden! — En zij gaven Hem stokslagen.
 
-**[19:4]**  Pilatus kwam wederom uit naar buiten en zeide tot hen: Ziet, ik breng Hem tot u naar buiten, opdat gij weet dat ik in Hem geen schuld vind.
+**[19:4]** Pilatus kwam wederom uit naar buiten en zeide tot hen: Ziet, ik breng Hem tot u naar buiten, opdat gij weet dat ik in Hem geen schuld vind.
 
 **[19:5]** Jezus dan kwam naar buiten, dragende de doornen kroon en het purperen kleed. En Pilatus zeide tot hen: Ziet, de mensch!
 
 **[19:6]** Toen de overpriesters en de dienaren Hem dan zagen, schreeuwden zij: Kruisig, kruisig Hem! — Pilatus zeide tot hen: Neemt gij Hem en kruisigt Hem, want ik vind in Hem geen schuld!
 
-**[19:7]** De Joden antwoordden: Wij hebben een wet, en volgens die wet moet Hij sterven, omdat Hij zich zelven Gods Zoon gemaakt heeft! 
+**[19:7]** De Joden antwoordden: Wij hebben een wet, en volgens die wet moet Hij sterven, omdat Hij zich zelven Gods Zoon gemaakt heeft!
 
-**[19:8]**  Toen dan Pilatus dit woord hoorde werd hij te meer bevreesd,
+**[19:8]** Toen dan Pilatus dit woord hoorde werd hij te meer bevreesd,
 
 **[19:9]** en ging wederom naar het rechthuis en zeide te Jezus: Vanwaar zijt Gij? — Maar Jezus gaf hem geen antwoord.
 
@@ -55792,45 +55792,45 @@
 
 **[19:11]** Jezus antwoordde: Gij zoudt geen macht tegen Mij hebben indien het u niet van boven gegeven ware; daarom, die Mij aan u heeft overgeleverd, heeft grooter zonde.
 
-**[19:12]** Hierop zocht Pilatus Hem los te laten; maar de Joden schreeuwden, zeggende: Als gij dezen loslaat, zijt gij geen vriend des keizers; al wie zich zelven koning maakt, verklaart zich tegen den keizer! 
+**[19:12]** Hierop zocht Pilatus Hem los te laten; maar de Joden schreeuwden, zeggende: Als gij dezen loslaat, zijt gij geen vriend des keizers; al wie zich zelven koning maakt, verklaart zich tegen den keizer!
 
-**[19:13]**  Pilatus dan, deze woorden gehoord hebbende, bracht Jezus naar buiten en ging zitten op den rechterstoel, op de plaats genaamd: Het Plaveisel, in het hebreeuwsch: Gabbatha.
+**[19:13]** Pilatus dan, deze woorden gehoord hebbende, bracht Jezus naar buiten en ging zitten op den rechterstoel, op de plaats genaamd: Het Plaveisel, in het hebreeuwsch: Gabbatha.
 
 **[19:14]** En het was de voorbereiding voor het paaschfeest en omtrent de zesde ure. — En hij zeide tot de Joden: Ziet, uw koning!
 
 **[19:15]** Dezen dan schreeuwden: Neem weg, kruisig Hem! — Pilatus zeide tot hen: Uw koning zal ik kruisigen? — De overpriesters antwoordden: Wij hebben geen koning, maar wel een keizer!
 
-**[19:16]** Toen gaf hij Hem dan aan hen over om gekruisigd te worden. 
+**[19:16]** Toen gaf hij Hem dan aan hen over om gekruisigd te worden.
 
-**[19:17]**  Zij namen dan Jezus en voerden Hem weg; en deze, zijn kruis dragende, ging uit naar de zoogenaamde plaats der doodshoofden, in het hebreeuwsch Golgotha genoemd,
+**[19:17]** Zij namen dan Jezus en voerden Hem weg; en deze, zijn kruis dragende, ging uit naar de zoogenaamde plaats der doodshoofden, in het hebreeuwsch Golgotha genoemd,
 
-**[19:18]** alwaar zij Hem kruisigden en met Hem twee anderen, aan elke zijde één, en Jezus in het midden. 
+**[19:18]** alwaar zij Hem kruisigden en met Hem twee anderen, aan elke zijde één, en Jezus in het midden.
 
-**[19:19]**  En Pilatus schreef ook een opschrift en stelde dat boven aan het kruis. En er was geschreven: Jezus, de Nazarener, de Koning der Joden.
+**[19:19]** En Pilatus schreef ook een opschrift en stelde dat boven aan het kruis. En er was geschreven: Jezus, de Nazarener, de Koning der Joden.
 
 **[19:20]** Dit opschrift dan lazen velen van de Joden, want de plaats, waar Jezus gekruisigd werd, was nabij de stad, en het was geschreven in het hebreeuwsch, grieksch en latijn.
 
 **[19:21]** De overpriesters der Joden dan zeiden tot Pilatus: Schrijf niet: De koning der Joden, maar dat Hij gezegd heeft: Ik ben koning der Joden.
 
-**[19:22]** Pilatus antwoordde: Wat ik geschreven heb, dat heb ik geschreven. 
+**[19:22]** Pilatus antwoordde: Wat ik geschreven heb, dat heb ik geschreven.
 
-**[19:23]**  De soldaten dan, toen zij Jezus gekruisigd hadden, namen zijn kleederen, en maakten vier deelen, voor elken soldaat een deel, en ook het onderkleed. Het onderkleed nu was zonder naad, van boven af uit één stuk geweven.
+**[19:23]** De soldaten dan, toen zij Jezus gekruisigd hadden, namen zijn kleederen, en maakten vier deelen, voor elken soldaat een deel, en ook het onderkleed. Het onderkleed nu was zonder naad, van boven af uit één stuk geweven.
 
-**[19:24]** Zij zeiden dan tot malkander: Laat ons dit niet scheuren, maar laat ons er over loten van wien het zijn zal. Opdat de Schrifture vervuld zou worden, die zegt: Zij hebben mijn kleederen onder malkander verdeeld en over mijn gewaad het lot geworpen. — Dit deden dan de soldaten. 
+**[19:24]** Zij zeiden dan tot malkander: Laat ons dit niet scheuren, maar laat ons er over loten van wien het zijn zal. Opdat de Schrifture vervuld zou worden, die zegt: Zij hebben mijn kleederen onder malkander verdeeld en over mijn gewaad het lot geworpen. — Dit deden dan de soldaten.
 
-**[19:25]**  Bij het kruis van Jezus nu stonden zijn moeder en de zuster zijner moeder, Maria, de vrouw van Klopas, en Maria Magdalena.
+**[19:25]** Bij het kruis van Jezus nu stonden zijn moeder en de zuster zijner moeder, Maria, de vrouw van Klopas, en Maria Magdalena.
 
 **[19:26]** Jezus dan zag zijn moeder, en den discipel dien Hij beminde bij haar staande, en zeide tot zijn moeder: Vrouw, zie uw zoon!
 
-**[19:27]** Daarna zeide Hij tot den discipel: Zie, uw moeder! En van die ure afnam de discipel haar in zijn eigen huls. 
+**[19:27]** Daarna zeide Hij tot den discipel: Zie, uw moeder! En van die ure afnam de discipel haar in zijn eigen huls.
 
-**[19:28]**  Na dezen zeide Jezus, die wist dat nu alles volbracht was, opdat de Schrifture zou vervuld worden: Ik heb dorst!
+**[19:28]** Na dezen zeide Jezus, die wist dat nu alles volbracht was, opdat de Schrifture zou vervuld worden: Ik heb dorst!
 
 **[19:29]** Er stond daar een vat vol azijn, en zij staken een spons vol azijn op een hijsopriet en brachten dat aan zijn mond.
 
-**[19:30]** Toen Hij dan den azijn genomen had, zeide Hij: Het is volbracht! En Hij boog het hoofd en gaf den geest. 
+**[19:30]** Toen Hij dan den azijn genomen had, zeide Hij: Het is volbracht! En Hij boog het hoofd en gaf den geest.
 
-**[19:31]**  De Joden dan, — omdat het voorbereiding voor den sabbat was, en opdat de lichamen niet op den sabbat aan het kruis zouden blijven, want de dag van dien sabbat was een hoogdag— vroegen Pilatus dat aan de gekruisigden de beenen gebroken, en zij afgenomen zouden worden.
+**[19:31]** De Joden dan, — omdat het voorbereiding voor den sabbat was, en opdat de lichamen niet op den sabbat aan het kruis zouden blijven, want de dag van dien sabbat was een hoogdag— vroegen Pilatus dat aan de gekruisigden de beenen gebroken, en zij afgenomen zouden worden.
 
 **[19:32]** De soldaten dan kwamen, en braken wel de beenen van den eersten en van den anderen, die met Hem gekruisigd waren.
 
@@ -55842,9 +55842,9 @@
 
 **[19:36]** Want dit is geschied opdat de Schrifture zou vervuld worden: Geen been van Hem zal gebroken worden.
 
-**[19:37]** En wederom een andere Schrifture zegt: Zij zullen zien dien zij doorstoken hebben. 
+**[19:37]** En wederom een andere Schrifture zegt: Zij zullen zien dien zij doorstoken hebben.
 
-**[19:38]**  Na dezen vroeg Jozef van Arimathea, — die een discipel van Jezus was, maar in het heimelijk, om de vreeze voor de Joden— aan Pilatus, dat hij het lichaam van Jezus zou mogen afnemen; en Pilatus liet het toe. Hij kwam dan en nam het lichaam van Jezus af.
+**[19:38]** Na dezen vroeg Jozef van Arimathea, — die een discipel van Jezus was, maar in het heimelijk, om de vreeze voor de Joden— aan Pilatus, dat hij het lichaam van Jezus zou mogen afnemen; en Pilatus liet het toe. Hij kwam dan en nam het lichaam van Jezus af.
 
 **[19:39]** En ook Nikodemus kwam, — die vroeger des nachts tot Jezus gekomen was— en bracht een mengsel van mirrhe en aloë, omtrent honderd pond.
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** Er was nu ter plaatse waar Hij gekruisigd was een hof, en in dien hof een nieuw graf, waarin nog nooit iemand gelegd was.
 
-**[19:42]** Aldaar dan leiden zij Jezus, wegens de voorbereiding der Joden, omdat het graf nabij was.  
+**[19:42]** Aldaar dan leiden zij Jezus, wegens de voorbereiding der Joden, omdat het graf nabij was.
 
 ### Chapter 20
 
@@ -55874,9 +55874,9 @@
 
 **[20:9]** Want nog verstonden zij de Schrifture niet, dat Hij moest verrijzen uit de dooden.
 
-**[20:10]** De discipelen dan gingen wederom naar huis. 
+**[20:10]** De discipelen dan gingen wederom naar huis.
 
-**[20:11]**  Doch Maria stond buiten bij het gaf te weenen. Terwijl zij dan weende, bukte zij in het graf,
+**[20:11]** Doch Maria stond buiten bij het gaf te weenen. Terwijl zij dan weende, bukte zij in het graf,
 
 **[20:12]** en zag twee engelen zitten in witte kleederen, een aan het hoofdeinde en een aan het voeteneinde, waar het lichaam van Jezus gelegen had.
 
@@ -55890,9 +55890,9 @@
 
 **[20:17]** Jezus zeide tot haar: Raak Mij niet aan, want Ik ben nog niet opgeklommen tot mijn Vader! maar ga heen tot mijn broeders en zeg tot hen: Ik klim op tot mijn Vader en uw Vader, en tot mijn God en uw God.
 
-**[20:18]** Maria Magdalena dan ging boodschappen aan de discipelen dat zij den Heere gezien had, en dat Hij dit tot haar gesproken had. 
+**[20:18]** Maria Magdalena dan ging boodschappen aan de discipelen dat zij den Heere gezien had, en dat Hij dit tot haar gesproken had.
 
-**[20:19]**  Toen het dan avond was geworden op dien eersten dag der week, en toen de deuren gesloten waren, waar de discipelen waren, uit vreeze voor de Joden, — kwam Jezus en stond in het midden, en zeide tot hen: Vrede zij ulieden!
+**[20:19]** Toen het dan avond was geworden op dien eersten dag der week, en toen de deuren gesloten waren, waar de discipelen waren, uit vreeze voor de Joden, — kwam Jezus en stond in het midden, en zeide tot hen: Vrede zij ulieden!
 
 **[20:20]** En dit gezegd hebbende, toonde Hij hun zijn handen en zijde. De discipelen dan waren verblijd dat zij den Heere zagen.
 
@@ -55904,19 +55904,19 @@
 
 **[20:24]** Thomas nu, een van de twaalven, die de Tweeling genoemd wordt, was niet bij hen toen Jezus kwam.
 
-**[20:25]** De andere discipelen dan zeiden tot hem: Wij hebben den Heere gezien! — Maar hij zeide tot hen: Als ik in zijn handen niet zie de gaten van de nagelen, en mijn vinger niet steke in de plaats der nagelen, en mijn hand niet steke in zijn zijde, zoo zal ik niet gelooven. 
+**[20:25]** De andere discipelen dan zeiden tot hem: Wij hebben den Heere gezien! — Maar hij zeide tot hen: Als ik in zijn handen niet zie de gaten van de nagelen, en mijn vinger niet steke in de plaats der nagelen, en mijn hand niet steke in zijn zijde, zoo zal ik niet gelooven.
 
-**[20:26]**  En acht dagen later waren zijn discipelen wederom binnen en Thomas met hen. Jezus kwam, toen de deuren gesloten waren en stond in het midden en zeide: Vrede zij ulieden!
+**[20:26]** En acht dagen later waren zijn discipelen wederom binnen en Thomas met hen. Jezus kwam, toen de deuren gesloten waren en stond in het midden en zeide: Vrede zij ulieden!
 
 **[20:27]** Daarna zeide Hij tot Thomas: Breng uw vinger hier en zie mijn handen, en breng uw hand en steek ze in mijn zijde, en zijt niet ongeloovig maar geloovig.
 
 **[20:28]** Thomas antwoordde en zeide tot Hem: Mijn Heere en mijn God!
 
-**[20:29]** Jezus zeide tot hem: Omdat gij Mij gezien hebt, Thomas, zoo hebt gij geloofd? Zalig zij, die niet gezien hebben, en toch hebben geloofd! 
+**[20:29]** Jezus zeide tot hem: Omdat gij Mij gezien hebt, Thomas, zoo hebt gij geloofd? Zalig zij, die niet gezien hebben, en toch hebben geloofd!
 
-**[20:30]**  Nog wel veel andere mirakelen heeft Jezus gedaan voor de oogen der discipelen, die niet staan geschreven in dit boek,
+**[20:30]** Nog wel veel andere mirakelen heeft Jezus gedaan voor de oogen der discipelen, die niet staan geschreven in dit boek,
 
-**[20:31]** maar deze zijn geschreven opdat gij gelooft dat Jezus de Christus is, de Zoon van God, en opdat gij die gelooft, het leven zoudt hebben in zijn Naam.  
+**[20:31]** maar deze zijn geschreven opdat gij gelooft dat Jezus de Christus is, de Zoon van God, en opdat gij die gelooft, het leven zoudt hebben in zijn Naam.
 
 ### Chapter 21
 
@@ -55946,9 +55946,9 @@
 
 **[21:13]** Jezus nu kwam en nam het brood en gaf het hun, en evenzoo den visch.
 
-**[21:14]** Dit was nu de derde keer dat Jezus aan de discipelen verschenen is, nadat Hij uit de dooden was verrezen. 
+**[21:14]** Dit was nu de derde keer dat Jezus aan de discipelen verschenen is, nadat Hij uit de dooden was verrezen.
 
-**[21:15]**  Toen zij dan het middagmaal gehouden hadden zeide Jezus tot Simon Petrus: Simon, Jonas zoon, bemint gij Mij meer dan dezen? — Hij zeide tot Hem: Ja, Heere! Gij weet dat ik U bemin! — Jezus zeide tot hem: Weid mijn lammeren!
+**[21:15]** Toen zij dan het middagmaal gehouden hadden zeide Jezus tot Simon Petrus: Simon, Jonas zoon, bemint gij Mij meer dan dezen? — Hij zeide tot Hem: Ja, Heere! Gij weet dat ik U bemin! — Jezus zeide tot hem: Weid mijn lammeren!
 
 **[21:16]** Wederom zeide Jezus tot hem voor den tweeden keer: Simon, Jonas zoon, bemint gij Mij? — Hij zeide tot Hem: Ja Heere! Gij weet dat ik U bemin! — Jezus zeide tot hem: Hoed mijn schapen!
 
@@ -55964,11 +55964,11 @@
 
 **[21:22]** Jezus zeide tot hem: Zoo Ik wil dat hij blijve totdat Ik kom, — wat raakt u dat? volg gij Mij?
 
-**[21:23]** Dit gerucht dan liep onder de broeders dat die discipel niet zou sterven. — Doch Jezus had tot hem niet gezegd dat hij niet sterven zou, maar: Zoo Ik wil dat hij blijve totdat Ik kom, wat raakt u dat? 
+**[21:23]** Dit gerucht dan liep onder de broeders dat die discipel niet zou sterven. — Doch Jezus had tot hem niet gezegd dat hij niet sterven zou, maar: Zoo Ik wil dat hij blijve totdat Ik kom, wat raakt u dat?
 
-**[21:24]**  Deze is de discipel die getuigenis geeft van deze dingen, en ze geschreven heeft, en wij weten dat zijn getuigenis waarachtig is.
+**[21:24]** Deze is de discipel die getuigenis geeft van deze dingen, en ze geschreven heeft, en wij weten dat zijn getuigenis waarachtig is.
 
-**[21:25]** Er zijn ook nog veel andere dingen, die Jezus gedaan heeft, en zoo die een voor een geschreven werden, ik meen dat zelfs de wereld de geschreven boeken niet zou bevatten.   
+**[21:25]** Er zijn ook nog veel andere dingen, die Jezus gedaan heeft, en zoo die een voor een geschreven werden, ik meen dat zelfs de wereld de geschreven boeken niet zou bevatten.
 
 ## Acts
 
@@ -55978,9 +55978,9 @@
 
 **[1:2]** tot op den dag dat Hij opgenomen werd, nadat Hij aan de Apostelen, die Hij verkozen had, door den Heiligen Geest bevelen had gegeven;
 
-**[1:3]** aan wie Hij ook, na zijn lijden, zich zelven levend heeft vertoond, in vele kenteekenen, daar Hij veertig dagen lang aan hen verscheen en sprak van de dingen die het koninkrijk Gods aangaan. 
+**[1:3]** aan wie Hij ook, na zijn lijden, zich zelven levend heeft vertoond, in vele kenteekenen, daar Hij veertig dagen lang aan hen verscheen en sprak van de dingen die het koninkrijk Gods aangaan.
 
-**[1:4]**  Toen Hij nu met hen samen was, gebood Hij hun van Jerusalem niet weg te gaan, maar de belofte des Vaders af te wachten, die gij, zeide Hij, van Mij gehoord hebt; 
+**[1:4]** Toen Hij nu met hen samen was, gebood Hij hun van Jerusalem niet weg te gaan, maar de belofte des Vaders af te wachten, die gij, zeide Hij, van Mij gehoord hebt;
 
 **[1:5]** want Johannes doopte wel met water, maar gijlieden zult met den Heiligen Geest gedoopt worden niet veel dagen na dezen.
 
@@ -55994,15 +55994,15 @@
 
 **[1:10]** En toen zij naar den hemel opzagen, terwijl Hij heenvoer, ziet, twee mannen stonden bij hen in witte kleederen,
 
-**[1:11]** die ook zeiden: Gij Galilesche mannen! wat staat gij naar den hemel te zien? deze Jezus, die van u is opgenomen naar den hemel, zal alzoo komen, gelijkerwijs gij Hem hebt zien heenvaren naar den hemel. 
+**[1:11]** die ook zeiden: Gij Galilesche mannen! wat staat gij naar den hemel te zien? deze Jezus, die van u is opgenomen naar den hemel, zal alzoo komen, gelijkerwijs gij Hem hebt zien heenvaren naar den hemel.
 
-**[1:12]**  Toen keerden zij terug naar Jerusalem van den berg, die de Berg der Olijven genoemd wordt, die dicht bij Jerusalem is, een sabbatsreize vandaar.
+**[1:12]** Toen keerden zij terug naar Jerusalem van den berg, die de Berg der Olijven genoemd wordt, die dicht bij Jerusalem is, een sabbatsreize vandaar.
 
 **[1:13]** En toen zij binnengekomen waren, gingen zij naar de bovenzaal, waar zij gewoonlijk hun verblijf hielden, namelijk Petrus, en Johannes, en Jakobus, en Andreas, Filippus en Thomas, Bartholomeüs en Mattheüs, Jakobus, de zoon van Alfeüs, en Simon de IJveraar, en Judas, de zoon van Jakobus.
 
-**[1:14]** Deze allen waren eendrachtig volhardende in het gebed met eenige vrouwen, en met Maria de moeder van Jezus, en met zijn broeders. 
+**[1:14]** Deze allen waren eendrachtig volhardende in het gebed met eenige vrouwen, en met Maria de moeder van Jezus, en met zijn broeders.
 
-**[1:15]**  En in die dagen stond Petrus op in het midden der broederen en sprak, terwijl er een schare bijeen was van omtrent honderd en twintig personen:
+**[1:15]** En in die dagen stond Petrus op in het midden der broederen en sprak, terwijl er een schare bijeen was van omtrent honderd en twintig personen:
 
 **[1:16]** Mannen broeders! de Schrifture moest vervuld worden, die de Heilige Geest heeft voorzegd door den mond van David, aangaande Judas, die de aanvoerder geworden is van hen die Jezus gevangen namen.
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** om aan te nemen de plaats van deze bediening en van het apostelschap, waarvan Judas is afgeweken, om te gaan naar zijn eigen plaats.
 
-**[1:26]** En zij gaven hun loten, en het lot viel op Matthias; en hij werd medegekozen tot de elf apostelen.  
+**[1:26]** En zij gaven hun loten, en het lot viel op Matthias; en hij werd medegekozen tot de elf apostelen.
 
 ### Chapter 2
 
@@ -56034,9 +56034,9 @@
 
 **[2:3]** En hun verschenen tongen, als van vuur, die zich verdeelden en op een ieder van hen zich nederzetten;
 
-**[2:4]** en allen werden vervuld met den Heiligen Geest en begonnen met andere tongen te spreken, gelijk de Geest hun gaf uit te spreken. 
+**[2:4]** en allen werden vervuld met den Heiligen Geest en begonnen met andere tongen te spreken, gelijk de Geest hun gaf uit te spreken.
 
-**[2:5]**  Er waren nu te Jerusalem Joden woonachtig, godvruchtige mannen van alle volk dat onder den hemel is.
+**[2:5]** Er waren nu te Jerusalem Joden woonachtig, godvruchtige mannen van alle volk dat onder den hemel is.
 
 **[2:6]** En als dit geluid geschied was, kwam de menigte zamen en ontroerde, omdat een ieder hen in zijn eigen taal hoorde spreken
 
@@ -56052,9 +56052,9 @@
 
 **[2:12]** Allen stonden dan verbaasd en verlegen, zeggende tot malkander: Wat mag dit toch zijn?
 
-**[2:13]** En anderen zeiden al spottende: Zij zijn vol zoeten wijn! 
+**[2:13]** En anderen zeiden al spottende: Zij zijn vol zoeten wijn!
 
-**[2:14]**  Maar Petrus, daar staande met de elven, verhief zijn stem en zeide tot hen: Gij joodsche mannen, en gij allen die te Jerusalem woont! dit zij u bekend en neemt mijn woorden ter oore!
+**[2:14]** Maar Petrus, daar staande met de elven, verhief zijn stem en zeide tot hen: Gij joodsche mannen, en gij allen die te Jerusalem woont! dit zij u bekend en neemt mijn woorden ter oore!
 
 **[2:15]** Want dezen zijn niet dronken, zooals gij meent, want het is de derde uur van den dag.
 
@@ -56098,9 +56098,9 @@
 
 **[2:35]** totdat Ik uw vijanden stelle tot een voetbank uwer voeten.
 
-**[2:36]** Met zekerheid wete dan het geheele huis Israëls, dat God Hem tot een Heere en Christus gemaakt heeft, dezen Jezus, dien gij gekruisigd hebt! 
+**[2:36]** Met zekerheid wete dan het geheele huis Israëls, dat God Hem tot een Heere en Christus gemaakt heeft, dezen Jezus, dien gij gekruisigd hebt!
 
-**[2:37]**  Dit nu hoorende, sneed het hun door het hart; en zij zeiden tot Petrus en de andere Apostelen: Wat zullen wij doen, mannen broeders?
+**[2:37]** Dit nu hoorende, sneed het hun door het hart; en zij zeiden tot Petrus en de andere Apostelen: Wat zullen wij doen, mannen broeders?
 
 **[2:38]** En Petrus zeide tot hen: Doet boetvaardigheid, en een ieder van u late zich doopen op den Naam van Jezus Christus, tot vergiffenis uwer zonden, en gij zult de gifte des Heiligen Geestes ontvangen.
 
@@ -56108,9 +56108,9 @@
 
 **[2:40]** En met meer andere woorden betuigde en vermaande hij hen, zeggende: Laat u redden van dit goddeloos geslacht!
 
-**[2:41]** Zij nu, die zijn woord aannamen, lieten zich doopen, en op dien dag werden omstreeks drie duizend zielen toegebracht. 
+**[2:41]** Zij nu, die zijn woord aannamen, lieten zich doopen, en op dien dag werden omstreeks drie duizend zielen toegebracht.
 
-**[2:42]**  En zij waren volhardende in de leer der Apostelen, en in de gemeenschap, en in het breken des broods, en in de gebeden.
+**[2:42]** En zij waren volhardende in de leer der Apostelen, en in de gemeenschap, en in het breken des broods, en in de gebeden.
 
 **[2:43]** En er kwam vreeze over iedere ziel; en veel mirakelen en teekenen geschiedden door de Apostelen in Jerusalem, zoo dat er een groote vreeze was over allen.
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** En dagelijks eendrachtig volhardende in den tempel, en aan huis brood brekende, namen zij voedsel in blijdschap en eenvoudigheid des harten,
 
-**[2:47]** en loofden God en hadden gunst bij het geheele volk. De Heere nu bracht er dagelijks toe tot de gemeente die behouden werden.  
+**[2:47]** en loofden God en hadden gunst bij het geheele volk. De Heere nu bracht er dagelijks toe tot de gemeente die behouden werden.
 
 ### Chapter 3
 
@@ -56142,9 +56142,9 @@
 
 **[3:9]** En al het volk zag hem wandelen en God loven,
 
-**[3:10]** en zij kenden hem, dat hij het was die om een aalmoes bij de Schoone poort des tempels had gezeten; en zij werden vol verbaasdheid en ontzetting over hetgeen hem overkomen was. 
+**[3:10]** en zij kenden hem, dat hij het was die om een aalmoes bij de Schoone poort des tempels had gezeten; en zij werden vol verbaasdheid en ontzetting over hetgeen hem overkomen was.
 
-**[3:11]**  En als hij Petrus en Johannes vasthield, liep al het volk tot hen samen, bij de gaanderij, die van Salomo genoemd, verbaasd zijnde.
+**[3:11]** En als hij Petrus en Johannes vasthield, liep al het volk tot hen samen, bij de gaanderij, die van Salomo genoemd, verbaasd zijnde.
 
 **[3:12]** En Petrus dit ziende antwoordde den volke aldus: Gij mannen Israëls! wat verwondert gij u over dit, of wat ziet gij ons sterk aan, alsof wij door eigen kracht of godvruchtigheid dezen hadden doen wandelen?
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** Gij zijt de kinderen der profeten en des verbonds dat God met onze vaderen gemaakt heeft, zeggende tot Abraham: En in uw nakomelingschap zullen alle geslachten der aarde gezegend worden.
 
-**[3:26]** Voor ulieden het eerst heeft God zijn knecht opgewekt en Hem gezonden, om u te zegenen daarin dat Hij een ieder uwer afkeere van uw boosheden.  
+**[3:26]** Voor ulieden het eerst heeft God zijn knecht opgewekt en Hem gezonden, om u te zegenen daarin dat Hij een ieder uwer afkeere van uw boosheden.
 
 ### Chapter 4
 
@@ -56184,9 +56184,9 @@
 
 **[4:3]** En zij sloegen de handen aan hen en stelden hen in bewaring tot den volgenden dag, want het was reeds avond.
 
-**[4:4]** Doch velen van hen die het woord gehoord hadden, geloofden, en het getal der mannen werd omtrent vijf duizend. 
+**[4:4]** Doch velen van hen die het woord gehoord hadden, geloofden, en het getal der mannen werd omtrent vijf duizend.
 
-**[4:5]**  Het geschiedde nu den volgenden dag dat hun oversten, en oudsten, en schriftgeleerden te Jerusalem vergaderden,
+**[4:5]** Het geschiedde nu den volgenden dag dat hun oversten, en oudsten, en schriftgeleerden te Jerusalem vergaderden,
 
 **[4:6]** en Annas de hoogepriester, en Kajafas, en Johannes, en Alexander, en allen die van de hoogepriesterlijke familie waren.
 
@@ -56200,9 +56200,9 @@
 
 **[4:11]** Deze Jezus is de steen die door u, de bouwlieden, is veracht, die geworden is tot een hoeksteen.
 
-**[4:12]** En in niemand anders is de behoudenis; want ook is er geen andere naam onder den hemel, die aan de menschen gegeven is, waarin wij moeten behouden worden. 
+**[4:12]** En in niemand anders is de behoudenis; want ook is er geen andere naam onder den hemel, die aan de menschen gegeven is, waarin wij moeten behouden worden.
 
-**[4:13]**  Toen zij nu de vrijmoedigheid van Petrus en Johannes zagen, en bevonden hadden dat zij ongeleerde en simpele menschen waren, verwonderden zij zich; en zij herkenden hen dat zij met Jezus geweest waren.
+**[4:13]** Toen zij nu de vrijmoedigheid van Petrus en Johannes zagen, en bevonden hadden dat zij ongeleerde en simpele menschen waren, verwonderden zij zich; en zij herkenden hen dat zij met Jezus geweest waren.
 
 **[4:14]** En den mensch die genezen was bijeen ziende staan, hadden zij niets tegen te spreken.
 
@@ -56220,9 +56220,9 @@
 
 **[4:21]** Maar zij dreigden hen nog meer en lieten hen los, om des volks wil, daar zij niets gevonden hadden hoe zij hen zouden straffen; want allen verheerlijkten God over het gebeurde.
 
-**[4:22]** Want de mensch, aan wien dit mirakel der genezing geschied was, was meer dan veertig jaar oud. 
+**[4:22]** Want de mensch, aan wien dit mirakel der genezing geschied was, was meer dan veertig jaar oud.
 
-**[4:23]**  Zij nu losgelaten zijnde, kwamen bij de hunnen en verhaalden al wat de overpriesters en de oudsten tot hen gezegd hadden.
+**[4:23]** Zij nu losgelaten zijnde, kwamen bij de hunnen en verhaalden al wat de overpriesters en de oudsten tot hen gezegd hadden.
 
 **[4:24]** En die dit hoorden verhieven eenparig de stem tot God en zeiden: Heere! Gij zijt het die den hemel en de aarde en de zee en al wat daarin is, geschapen hebt;
 
@@ -56238,9 +56238,9 @@
 
 **[4:30]** door het uitstrekken van uw hand tot genezing, en door het geschieden van mirakelen en teekenen door den Naam van uw heiligen knecht Jezus.
 
-**[4:31]** En als zij gebeden hadden, werd de plaats waarin zij vergaderd waren, bewogen, en allen werden vervuld met den Heiligen Geest, en spraken het woord Gods met vrijmoedigheid. 
+**[4:31]** En als zij gebeden hadden, werd de plaats waarin zij vergaderd waren, bewogen, en allen werden vervuld met den Heiligen Geest, en spraken het woord Gods met vrijmoedigheid.
 
-**[4:32]**  En de menigte der geloovigen was één van hart en ziel; en niet één zeide dat iets van hetgeen hij bezat zijn eigendom was, maar alle dingen hadden zij gemeen.
+**[4:32]** En de menigte der geloovigen was één van hart en ziel; en niet één zeide dat iets van hetgeen hij bezat zijn eigendom was, maar alle dingen hadden zij gemeen.
 
 **[4:33]** En met groote kracht gaven de Apostelen getuigenis van de verrijzenis van den Heere Jezus Christus; en groote genade was op hen allen.
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Jozef nu, door de Apostelen bijgenaamd Barnabas, (dat is te zeggen, zoon der vertroosting), een Leviet, afkomstig van Cyprus,
 
-**[4:37]** die een akker had, verkocht dien en bracht het geld en leide het aan de voeten der Apostelen.  
+**[4:37]** die een akker had, verkocht dien en bracht het geld en leide het aan de voeten der Apostelen.
 
 ### Chapter 5
 
@@ -56274,9 +56274,9 @@
 
 **[5:10]** En zij viel terstond voor zijn voeten en gaf den geest; en de jongelingen binnengekomen zijnde vonden haar dood, en droegen haar naar buiten en begroeven haar bij haar man.
 
-**[5:11]** En een groote vrees kwam over de geheele gemeente en over allen die dit hoorden. 
+**[5:11]** En een groote vrees kwam over de geheele gemeente en over allen die dit hoorden.
 
-**[5:12]**  Door de handen der Apostelen nu geschiedden veel teekenen en mirakelen onder het volk, en allen waren eensgezind in de gaanderij van Salomo.
+**[5:12]** Door de handen der Apostelen nu geschiedden veel teekenen en mirakelen onder het volk, en allen waren eensgezind in de gaanderij van Salomo.
 
 **[5:13]** Doch niemand van de anderen durfde zich bij hen voegen, maar het volk verhief hen zeer.
 
@@ -56284,9 +56284,9 @@
 
 **[5:15]** zoodat men zelfs de kranken naar de straten uitdroeg en nederleide op bedden en matrassen, opdat, als Petrus kwam, ten minste zijn schaduw iemand van hen zou overschaduwen.
 
-**[5:16]** Ook de schare van de rondom liggende steden kwam naar Jerusalem, brengende kranken en door onreine geesten gekwelden, die allen werden genezen. 
+**[5:16]** Ook de schare van de rondom liggende steden kwam naar Jerusalem, brengende kranken en door onreine geesten gekwelden, die allen werden genezen.
 
-**[5:17]**  Maar de hoogepriester stond op, en allen die met hem waren (de sekte der sadduceërs), en werden vervuld met nijdigheid,
+**[5:17]** Maar de hoogepriester stond op, en allen die met hem waren (de sekte der sadduceërs), en werden vervuld met nijdigheid,
 
 **[5:18]** en sloegen de handen aan de Apostelen en zetten hen in een openbare gevangenis.
 
@@ -56316,9 +56316,9 @@
 
 **[5:31]** dezen heeft God tot een Vorst en Verlosser door zijn rechterhand verhoogd, om boetvaardigheid en vergiffenis van zonden aan Israël te geven;
 
-**[5:32]** en wij zijn getuigen van deze dingen, en ook de Heilige Geest, dien God gegeven heeft aan degenen die Hem gehoorzaam zijn. 
+**[5:32]** en wij zijn getuigen van deze dingen, en ook de Heilige Geest, dien God gegeven heeft aan degenen die Hem gehoorzaam zijn.
 
-**[5:33]**  Toen zij dit nu hoorden werden zij woedend en beraadslaagden om hen te dooden.
+**[5:33]** Toen zij dit nu hoorden werden zij woedend en beraadslaagden om hen te dooden.
 
 **[5:34]** Maar een zeker fariseër stond op in den Raad, genaamd Gamaliël, een leeraar der wet, gezien bij het geheele volk, en gebood dat men de mannen wat zou doen buiten gaan.
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** Dezen nu gingen verheugd van voor den Raad, verblijd dat zij waardig geacht waren voor dien Naam smaad te dragen.
 
-**[5:42]** Den geheelen dag nu hielden zij in den tempel en bij de huizen niet op te leeren en Jezus Christus te prediken.  
+**[5:42]** Den geheelen dag nu hielden zij in den tempel en bij de huizen niet op te leeren en Jezus Christus te prediken.
 
 ### Chapter 6
 
@@ -56350,17 +56350,17 @@
 
 **[6:5]** En dit woord behaagde aan de geheele menigte, en zij verkozen Stefanus, een man vol van geloof en van den Heiligen Geest, en Filippus, en Prochorus, en Nikanor, en Timon, en Parmenas, en Nikolaas, een proseliet van Antiochië,
 
-**[6:6]** die zij voor de Apostelen stelden; en als deze gebeden hadden, leiden zij hun de handen op. 
+**[6:6]** die zij voor de Apostelen stelden; en als deze gebeden hadden, leiden zij hun de handen op.
 
-**[6:7]**  En het woord Gods vermeerderde, en het getal der discipelen in Jerusalem nam zeer toe, en een groote schare der priesters werd gehoorzaam aan het geloof.
+**[6:7]** En het woord Gods vermeerderde, en het getal der discipelen in Jerusalem nam zeer toe, en een groote schare der priesters werd gehoorzaam aan het geloof.
 
 **[6:8]** Stefanus nu, vol van genade en kracht, deed groote mirakelen en teekenen onder het volk.
 
 **[6:9]** En sommigen stonden op van de synagoge, genaamd der Libertijnen, en der Cyreneërs, en der Alexandrijnen, en van die uit Cilicië en Asië waren, en redetwistten met Stefanus;
 
-**[6:10]** en zij konden de wijsheid en den Geest niet wederstaan waarmede hijsprak. 
+**[6:10]** en zij konden de wijsheid en den Geest niet wederstaan waarmede hijsprak.
 
-**[6:11]**  Toen stookten zij mannen op, die zeiden dat zij hem lasterlijke woorden hadden hooren spreken tegen Mozes en God.
+**[6:11]** Toen stookten zij mannen op, die zeiden dat zij hem lasterlijke woorden hadden hooren spreken tegen Mozes en God.
 
 **[6:12]** En zij brachten het volk in oproer, met de oudsten en de schriftgeleerden en zij overvielen hem en sleepten hem mede en brachten hem voor den Raad,
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** want wij hebben hem hooren zeggen dat die Jezus de Nazarener deze plaats zal verwoesten en de gewoonten zal veranderen, die Mozes ons heeft overgeleverd!
 
-**[6:15]** En allen die in den Raad zaten, keken hem aan en zagen zijn aangezicht als het aangezicht van een engel.  
+**[6:15]** En allen die in den Raad zaten, keken hem aan en zagen zijn aangezicht als het aangezicht van een engel.
 
 ### Chapter 7
 
@@ -56476,9 +56476,9 @@
 
 **[7:52]** Wien der profeten hebben uw vaders niet vervolgd? — Zij hebben zelfs hen gedood die vooraf spraken van de komst des Rechtvaardigen, van wien gij nu verraders en moordenaars zijt geworden!
 
-**[7:53]** gij, die de wet ontvangen hebt, door bemiddeling der engelen, en ze niet hebt bewaard! 
+**[7:53]** gij, die de wet ontvangen hebt, door bemiddeling der engelen, en ze niet hebt bewaard!
 
-**[7:54]**  Toen zij nu dit hoorden, barstte hun het harte, en zij knarsten de tanden tegen hem.
+**[7:54]** Toen zij nu dit hoorden, barstte hun het harte, en zij knarsten de tanden tegen hem.
 
 **[7:55]** Maar hij was vol van den Heiligen Geest, en hield de oogen naar den hemel, en zag de glorie Gods en Jezus, staande aan Gods rechterhand;
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** En zij steenigden Stefanus, die aanriep en zeide: Heere Jezus! ontvang mijn geest!
 
-**[7:60]** En hij viel op de knieën en riep met een luide stem: Heere! reken hun deze zonde niet toe! — En als hij dit gezegd had, ontsliep hij. — En Saulus stemde mede toe in zijn dood.  
+**[7:60]** En hij viel op de knieën en riep met een luide stem: Heere! reken hun deze zonde niet toe! — En als hij dit gezegd had, ontsliep hij. — En Saulus stemde mede toe in zijn dood.
 
 ### Chapter 8
 
@@ -56498,9 +56498,9 @@
 
 **[8:2]** Eenige godvruchtige mannen nu begroeven Stefanus en maakten grooten rouw over hem.
 
-**[8:3]** En Saulus verwoestte de gemeente, daar hij de huizen binnenging, en mannen en vrouwen wegslepende, leverde hij ze over in de gevangenis. 
+**[8:3]** En Saulus verwoestte de gemeente, daar hij de huizen binnenging, en mannen en vrouwen wegslepende, leverde hij ze over in de gevangenis.
 
-**[8:4]**  Zij nu die verstrooid waren, trokken rond terwijl zij het woord verkondigden.
+**[8:4]** Zij nu die verstrooid waren, trokken rond terwijl zij het woord verkondigden.
 
 **[8:5]** En Filippus kwam af naar een stad van Samaria en predikte hun den Christus.
 
@@ -56508,9 +56508,9 @@
 
 **[8:7]** Want van velen, die onreine geesten hadden, gingen zij uit, roepende met luide stem, en veel lammen en kreupelen werden genezen;
 
-**[8:8]** en er ontstond groote blijdschap in die stad. 
+**[8:8]** en er ontstond groote blijdschap in die stad.
 
-**[8:9]**  Een zeker man nu, met name Simon, hield zich te voren in de stad op met tooverij, en verleidde het volk van Samaria, zich zelven voor wat groots uitgevende.
+**[8:9]** Een zeker man nu, met name Simon, hield zich te voren in de stad op met tooverij, en verleidde het volk van Samaria, zich zelven voor wat groots uitgevende.
 
 **[8:10]** Naar wien allen, van klein tot groot, luisterden, zeggende: Deze is de kracht Gods, die de groote genaamd wordt!
 
@@ -56540,9 +56540,9 @@
 
 **[8:23]** want ik zie dat gij zijt in een zeer bittere gal en in banden der onrechtvaardigheid.
 
-**[8:24]** Doch Simon antwoordde en zeide: Bidt gijlieden voor mij tot den Heere, opdat niets over mij kome van hetgeen gij gezegd hebt! 
+**[8:24]** Doch Simon antwoordde en zeide: Bidt gijlieden voor mij tot den Heere, opdat niets over mij kome van hetgeen gij gezegd hebt!
 
-**[8:25]**  Zij dan, nadat zij het woord des Heeren betuigd en gesproken hadden, keerden terug naar Jerusalem, en verkondigden in vele dorpen der Samaritanen het Evangelie.
+**[8:25]** Zij dan, nadat zij het woord des Heeren betuigd en gesproken hadden, keerden terug naar Jerusalem, en verkondigden in vele dorpen der Samaritanen het Evangelie.
 
 **[8:26]** En een engel des Heeren sprak tot Filippus en zeide: Sta op en ga naar het zuiden, op den weg die van Jerusalem naar Gaza leidt; deze is eenzaam.
 
@@ -56572,15 +56572,15 @@
 
 **[8:39]** Toen zij nu opkwamen uit het water, voerde de Geest des Heeren Filippus weg, en de kamerling zag hem niet meer, want hij ging zijn weg met vreugde.
 
-**[8:40]** Maar Filippus werd gevonden te Azote, en door trekkende verkondigde hij in alle steden het Evangelie totdat hij te Cesaréa kwam.  
+**[8:40]** Maar Filippus werd gevonden te Azote, en door trekkende verkondigde hij in alle steden het Evangelie totdat hij te Cesaréa kwam.
 
 ### Chapter 9
 
 **[9:1]** Saulus nu blies nog dreiging en moord tegen de discipelen des Heeren en ging naar den hoogepriester,
 
-**[9:2]** en vroeg aan hem om brieven naar Damaskus aan de synagogen, opdat, zoo hij daar eenige aanhangers van Jezus vond, hij die, beide mannen en vrouwen, geboeid naar Jerusalem zou voeren. 
+**[9:2]** en vroeg aan hem om brieven naar Damaskus aan de synagogen, opdat, zoo hij daar eenige aanhangers van Jezus vond, hij die, beide mannen en vrouwen, geboeid naar Jerusalem zou voeren.
 
-**[9:3]**  Onder de reis nu, toen hij Damaskus naderde, geschiedde het dat hem op eens een licht van den hemel omstraalde.
+**[9:3]** Onder de reis nu, toen hij Damaskus naderde, geschiedde het dat hem op eens een licht van den hemel omstraalde.
 
 **[9:4]** En hij viel op den grond en hoorde een stem die tot hem zeide: Saul, Saul! wat vervolgt gij Mij!
 
@@ -56596,7 +56596,7 @@
 
 **[9:10]** Er was nu te Damaskus een zeker discipel, Ananias genaamd; en de Heere zeide tot hem in een visioen: Ananias! — En hij zeide: Zie, hier ben ik, Heere!
 
-**[9:11]** En de Heere zeide tot hem: Sta op, ga naar de straat, de Rechte genaamd, en vraag in het huis van Judas naar een zekeren Saulus van Tarsus, want zie, hij bidt; 
+**[9:11]** En de Heere zeide tot hem: Sta op, ga naar de straat, de Rechte genaamd, en vraag in het huis van Judas naar een zekeren Saulus van Tarsus, want zie, hij bidt;
 
 **[9:12]** en hij heeft in een visioen een man gezien, met name Ananias, die tot hem kwam en hem de handen opleide opdat hij weder ziende zou worden.
 
@@ -56610,17 +56610,17 @@
 
 **[9:17]** Ananias nu ging heen, en kwam in het huis, en leide hem de handen op en zeide: Saul, broeder! de Heere heeft mij gezonden, Jezus, die u verscheen op den weg dien gij kwaamt, opdat gij weder ziende en met den Heiligen Geest vervuld zoudt worden.
 
-**[9:18]** En terstond vielen er als schillen van zijn oogen, en hij werd weder ziende; en hij stond op en werd gedoopt; en hij nam spijs en werd versterkt. 
+**[9:18]** En terstond vielen er als schillen van zijn oogen, en hij werd weder ziende; en hij stond op en werd gedoopt; en hij nam spijs en werd versterkt.
 
-**[9:19]**  Saulus nu was eenige dagen in Damaskus bij de discipelen,
+**[9:19]** Saulus nu was eenige dagen in Damaskus bij de discipelen,
 
 **[9:20]** en terstond predikte hij Jezus in de synagogen, dat Hij de Zoon van God is.
 
 **[9:21]** En allen die het hoorden, stonden verbaasd, en zeiden: Is deze het niet, die te Jerusalem hen uitroeide die dezen Naam aanroepen, en die daarom hier gekomen is opdat hij hen gebonden naar de overpriesters zou voeren?
 
-**[9:22]** Maar Saulus werd al meer bekrachtigd en beschaamde de Joden die in Damaskus woonden, daar hij bewees dat deze de Christus is. 
+**[9:22]** Maar Saulus werd al meer bekrachtigd en beschaamde de Joden die in Damaskus woonden, daar hij bewees dat deze de Christus is.
 
-**[9:23]**  Toen er nu veel dagen verloopen waren, beraadslaagden de Joden om hem om het leven te brengen.
+**[9:23]** Toen er nu veel dagen verloopen waren, beraadslaagden de Joden om hem om het leven te brengen.
 
 **[9:24]** Doch hun aanslag werd aan Saulus bekend. En zij bewaakten zelfs de poorten dag en nacht om hem om te brengen.
 
@@ -56634,19 +56634,19 @@
 
 **[9:29]** En hij sprak en redetwistte ook met de Hellenisten, maar die trachtten hem om te brengen.
 
-**[9:30]** Maar toen de broeders dit bemerkten, geleidden zij hem naar Cesarea en zonden hem weg naar Tarsus. 
+**[9:30]** Maar toen de broeders dit bemerkten, geleidden zij hem naar Cesarea en zonden hem weg naar Tarsus.
 
-**[9:31]**  De gemeente dan door geheel Judea en Galilea en Samaria had vrede, en werd uitgebreid, daar zij werd opgebouwd en wandelde in de vreeze des Heeren en in de vermaning des Heiligen Geestes. 
+**[9:31]** De gemeente dan door geheel Judea en Galilea en Samaria had vrede, en werd uitgebreid, daar zij werd opgebouwd en wandelde in de vreeze des Heeren en in de vermaning des Heiligen Geestes.
 
-**[9:32]**  Het geschiedde nu, toen Petrus overal heen trok, dat hij ook bij de heiligen kwam die te Lydda woonden.
+**[9:32]** Het geschiedde nu, toen Petrus overal heen trok, dat hij ook bij de heiligen kwam die te Lydda woonden.
 
 **[9:33]** En daar vond hij een man, Eneas genaamd, die al acht jaar te bed had gelegen en lam was.
 
 **[9:34]** En Petrus zeide tot hem: Eneas, Jezus Christus maakt u gezond! sta op en maak u zelven het bed! En hij stond dadelijk op.
 
-**[9:35]** En allen die te Lydda en te Saron woonden, zagen hem en bekeerden zich tot den Heere. 
+**[9:35]** En allen die te Lydda en te Saron woonden, zagen hem en bekeerden zich tot den Heere.
 
-**[9:36]**  Te Joppe nu was een zekere discipelin, genaamd Tabitha, dat is overgezet: Dorkas. Deze was vol goede werken en aalmoezen, die zij deed.
+**[9:36]** Te Joppe nu was een zekere discipelin, genaamd Tabitha, dat is overgezet: Dorkas. Deze was vol goede werken en aalmoezen, die zij deed.
 
 **[9:37]** Het geschiedde nu in die dagen dat zij ziek werd en stierf; en als zij haar gewasschen hadden, leiden zij haar in een bovenkamer.
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** En het werd bekend door geheel Joppe en velen geloofden in den Heere.
 
-**[9:43]** En het geschiedde dat hij vele dagen te Joppe bleef bij zekeren Simon, een leerlooier.  
+**[9:43]** En het geschiedde dat hij vele dagen te Joppe bleef bij zekeren Simon, een leerlooier.
 
 ### Chapter 10
 
@@ -56678,9 +56678,9 @@
 
 **[10:7]** Toen nu de engel, die tot Kornelius gesproken had, weggegaan was, riep hij twee zijner huisknechten en een godvruchtigen krijgsknecht, die steeds bij hem waren,
 
-**[10:8]** en hun alles verhaald hebbende, zond hij hen naar Joppe. 
+**[10:8]** en hun alles verhaald hebbende, zond hij hen naar Joppe.
 
-**[10:9]**  Den volgenden dag nu, terwijl dezen op weg waren en de stad naderden, klom Petrus op het dak om te bidden, omtrent de zesde ure.
+**[10:9]** Den volgenden dag nu, terwijl dezen op weg waren en de stad naderden, klom Petrus op het dak om te bidden, omtrent de zesde ure.
 
 **[10:10]** En hij kreeg honger en wilde wat eten. Maar terwijl zij het voor hem toebereidden, kwam er een geestverrukking over hem.
 
@@ -56706,9 +56706,9 @@
 
 **[10:21]** En Petrus ging naar beneden en zeide tot de mannen: Ziet, ik ben het dien gij zoekt; wat is de reden dat gij hier zijt?
 
-**[10:22]** En zij zeiden: Kornelius, een hoofdman, een rechtvaardig en godvruchtig man, en die getuigenis heeft van het geheele volk der Joden, is door een heiligen engel van Gods wege vermaand om u naar zijn huis te ontbieden en van u woorden te hooren. En Petrus leidde hen binnen en herbergde hen. 
+**[10:22]** En zij zeiden: Kornelius, een hoofdman, een rechtvaardig en godvruchtig man, en die getuigenis heeft van het geheele volk der Joden, is door een heiligen engel van Gods wege vermaand om u naar zijn huis te ontbieden en van u woorden te hooren. En Petrus leidde hen binnen en herbergde hen.
 
-**[10:23]**  Den volgenden dag nu stond Petrus op en ging met hen; en sommigen der broederen van Joppe gingen met hem.
+**[10:23]** Den volgenden dag nu stond Petrus op en ging met hen; en sommigen der broederen van Joppe gingen met hem.
 
 **[10:24]** En des anderen daags kwamen zij te Cesarea. En Kornelius was hen wachtende, en had zijn familie en naaste vrienden samengeroepen.
 
@@ -56748,9 +56748,9 @@
 
 **[10:42]** En Hij heeft ons geboden den volke te prediken en te betuigen dat Hij het is die door God is verordend tot een Rechter van levenden en dooden.
 
-**[10:43]** Aan dezen geven al de profeten getuigenis, dat door zijn Naam vergiffenis van zonden ontvangt een ieder die in Hem gelooft. 
+**[10:43]** Aan dezen geven al de profeten getuigenis, dat door zijn Naam vergiffenis van zonden ontvangt een ieder die in Hem gelooft.
 
-**[10:44]**  Terwijl Petrus nog deze woorden sprak, Adel de Heilige Geest op allen die het woord hoorden.
+**[10:44]** Terwijl Petrus nog deze woorden sprak, Adel de Heilige Geest op allen die het woord hoorden.
 
 **[10:45]** En de geloovigen uit de besnijdenis, zoovelen als er met Petrus medegekomen waren, stonden verbaasd, dat ook op de heidenen de gave des Heiligen Geestes was uitgestort.
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Toen antwoordde Petrus: Kan iemand wel het water weigeren, dat dezen niet zouden gedoopt worden, die toch den Heiligen Geest hebben ontvangen zooals ook wij?
 
-**[10:48]** En hij gebood dat zij in den Naam van den Heere Jezus Christus zouden gedoopt worden. Toen verzochten zij hem eenige dagen te blijven.  
+**[10:48]** En hij gebood dat zij in den Naam van den Heere Jezus Christus zouden gedoopt worden. Toen verzochten zij hem eenige dagen te blijven.
 
 ### Chapter 11
 
@@ -56766,9 +56766,9 @@
 
 **[11:2]** Maar toen Petrus te Jerusalem was gekomen twistten zij, die uit de besnijdenis waren, met hem,
 
-**[11:3]** en zeiden: Gij zijt ingegaan tot onbesnedenen en hebt met hen gegeten! 
+**[11:3]** en zeiden: Gij zijt ingegaan tot onbesnedenen en hebt met hen gegeten!
 
-**[11:4]**  Maar Petrus begon het hun achtereenvolgens te verklaren en zeide:
+**[11:4]** Maar Petrus begon het hun achtereenvolgens te verklaren en zeide:
 
 **[11:5]** Ik was in de stad Joppe, biddende; en ik zag in een geestverrukking een visioen: er daalde een groot linnen laken, aan de vier hoeken nedergelaten, uit den hemel en het kwam tot bij mij;
 
@@ -56796,39 +56796,39 @@
 
 **[11:17]** Indien God dan gelijke gifte aan hen heeft gegeven gelijk als aan ons, die in den Heere Jezus Christus hebben geloofd— wie was ik toch die God zou kunnen verhinderen?
 
-**[11:18]** Toen zij nu dit gehoord hadden, berustten zij erin, en gaven God de glorie, zeggende: Zoo heeft God dan ook aan de heidenen de boetvaardigheid ten leven gegeven! 
+**[11:18]** Toen zij nu dit gehoord hadden, berustten zij erin, en gaven God de glorie, zeggende: Zoo heeft God dan ook aan de heidenen de boetvaardigheid ten leven gegeven!
 
-**[11:19]**  Zij nu die verstrooid waren, door de verdrukking die over Stefanus was geschied, trokken door tot Fenicië, en Cyprus, en Antiochië, tot niemand het woord sprekende dan alleen tot de Joden.
+**[11:19]** Zij nu die verstrooid waren, door de verdrukking die over Stefanus was geschied, trokken door tot Fenicië, en Cyprus, en Antiochië, tot niemand het woord sprekende dan alleen tot de Joden.
 
 **[11:20]** Doch er waren onder hen eenige mannen van Cyprus en Cyrene, die naar Antiochië kwamen en ook tot de Grieken spraken, verkondigende den Heere Jezus.
 
-**[11:21]** En de hand des Heeren was met hen, en een groot getal geloofde en bekeerde zich tot den Heere. 
+**[11:21]** En de hand des Heeren was met hen, en een groot getal geloofde en bekeerde zich tot den Heere.
 
-**[11:22]**  En het gerucht van hen kwam ter ooren van de gemeente die te Jerusalem was; en zij zonden Barnabas uit, tot naar Antiochië toe.
+**[11:22]** En het gerucht van hen kwam ter ooren van de gemeente die te Jerusalem was; en zij zonden Barnabas uit, tot naar Antiochië toe.
 
 **[11:23]** Deze nu, aldaar gekomen zijnde en de genade Gods ziende, verheugde zich en vermaande allen om met een hartelijk voornemen bij den Heere te blijven.
 
-**[11:24]** Want hij was een goed man en vol des Heiligen Geestes en des geloofs. En een groote menigte werd den Heere toegevoegd. 
+**[11:24]** Want hij was een goed man en vol des Heiligen Geestes en des geloofs. En een groote menigte werd den Heere toegevoegd.
 
-**[11:25]**  En Barnabas ging naar Tarsus om Saulus op te zoeken; en hij vond en geleidde hem naar Antiochië.
+**[11:25]** En Barnabas ging naar Tarsus om Saulus op te zoeken; en hij vond en geleidde hem naar Antiochië.
 
-**[11:26]** En het gebeurde hun dat zij zelfs een geheel jaar samen waren in de gemeente en een groote schare onderwezen, en dat de discipelen te Antiochië het eerst christenen werden genoemd. 
+**[11:26]** En het gebeurde hun dat zij zelfs een geheel jaar samen waren in de gemeente en een groote schare onderwezen, en dat de discipelen te Antiochië het eerst christenen werden genoemd.
 
-**[11:27]**  In die dagen nu kwamen er profeten van Jerusalem naar Antiochië.
+**[11:27]** In die dagen nu kwamen er profeten van Jerusalem naar Antiochië.
 
 **[11:28]** En een van hen, Agabus genaamd, stond op en gaf door den Geest te kennen dat er een groote hongersnood zou komen over de geheele aarde; die ook gekomen is onder Klaudius.
 
 **[11:29]** En de discipelen besloten dat ieder, naar zijn vermogen, onderstand zou zenden aan de broederen die in Judea woonden.
 
-**[11:30]** En dit deden zij ook en zonden het naar de oudsten te Jerusalem door de hand van Barnabas en Saulus.  
+**[11:30]** En dit deden zij ook en zonden het naar de oudsten te Jerusalem door de hand van Barnabas en Saulus.
 
 ### Chapter 12
 
 **[12:1]** Omtrent dien tijd nu sloeg de koning Herodes de handen aan sommigen van de gemeente om hun kwaad te doen;
 
-**[12:2]** en hij doodde Jakobus, den broeder van Johannes, met het zwaard. 
+**[12:2]** en hij doodde Jakobus, den broeder van Johannes, met het zwaard.
 
-**[12:3]**  En toen hij zag dat dit den Joden welgevallig was, ging hij voort en nam ook Petrus gevangen; — het was in de dagen der ongezuurde brooden.
+**[12:3]** En toen hij zag dat dit den Joden welgevallig was, ging hij voort en nam ook Petrus gevangen; — het was in de dagen der ongezuurde brooden.
 
 **[12:4]** En als hij hem gegrepen had zette hij hem in de gevangenis, en gaf hem ter bewaking aan vier wachten, elk van vier soldaten, met het plan om hem na het paaschfeest voor het volk te brengen.
 
@@ -56856,23 +56856,23 @@
 
 **[12:16]** Petrus nu bleef kloppen, en als zij hadden opengedaan, zagen ze hem en stonden verbaasd.
 
-**[12:17]** En toen hij hun met de hand had gewenkt om te zwijgen, vertelde hij hoe de Heere hem uit de gevangenis had uitgeleid en zeide: Boodschapt dit aan Jakobus en de broeders. — En hij ging uit en vertrok naar een andere plaats. 
+**[12:17]** En toen hij hun met de hand had gewenkt om te zwijgen, vertelde hij hoe de Heere hem uit de gevangenis had uitgeleid en zeide: Boodschapt dit aan Jakobus en de broeders. — En hij ging uit en vertrok naar een andere plaats.
 
-**[12:18]**  Als het nu dag was geworden, was er geen kleine beweging onder de soldaten, wat er toch van Petrus mocht geworden zijn.
+**[12:18]** Als het nu dag was geworden, was er geen kleine beweging onder de soldaten, wat er toch van Petrus mocht geworden zijn.
 
-**[12:19]** En als Herodes hem had gezocht maar niet gevonden, ondervroeg hij de wachters en gebood dat zij zouden weggevoerd worden. En hij ging af van Judea naar Cesarea en bleef daar. 
+**[12:19]** En als Herodes hem had gezocht maar niet gevonden, ondervroeg hij de wachters en gebood dat zij zouden weggevoerd worden. En hij ging af van Judea naar Cesarea en bleef daar.
 
-**[12:20]**  Herodes nu was in twist met de Tyriërs en de Sidoniërs; maar zij kwamen gezamenlijk bij hem en wonnen Blastus, die des konings kamerheer was, voor zich, en verzochten om vrede; want hun land werd gespijzigd van dat des konings.
+**[12:20]** Herodes nu was in twist met de Tyriërs en de Sidoniërs; maar zij kwamen gezamenlijk bij hem en wonnen Blastus, die des konings kamerheer was, voor zich, en verzochten om vrede; want hun land werd gespijzigd van dat des konings.
 
 **[12:21]** En op een bepaalden dag deed Herodes een koninklijk kleed aan, en zittende op den rechterstoel hield hij een rede tot hen.
 
 **[12:22]** En het volk riep uit: De stem van een god en niet van een mensch!
 
-**[12:23]** En op dat zelfde oogenblik sloeg hem een engel des Heeren, omdat hij Gode de glorie niet gaf; en door de wormen verteerd zijnde, gaf hij den geest. 
+**[12:23]** En op dat zelfde oogenblik sloeg hem een engel des Heeren, omdat hij Gode de glorie niet gaf; en door de wormen verteerd zijnde, gaf hij den geest.
 
-**[12:24]**  En het woord Gods nam toe en vermeerderde. 
+**[12:24]** En het woord Gods nam toe en vermeerderde.
 
-**[12:25]**  Barnabas nu en Saulus keerden terug van Jerusalem, als zij den dienst volbracht hadden, en namen ook Johannes mede, die bijgenaamd wordt Markus.  
+**[12:25]** Barnabas nu en Saulus keerden terug van Jerusalem, als zij den dienst volbracht hadden, en namen ook Johannes mede, die bijgenaamd wordt Markus.
 
 ### Chapter 13
 
@@ -56880,9 +56880,9 @@
 
 **[13:2]** En terwijl zij den Heere dienden en vastten, zeide de Heilige Geest: Zondert mij Barnabas en Saulus af tot het werk waartoe Ik hen geroepen heb!
 
-**[13:3]** Toen vastten en baden zij en hun de handen opgelegd hebbende, lieten zij hen heengaan. 
+**[13:3]** Toen vastten en baden zij en hun de handen opgelegd hebbende, lieten zij hen heengaan.
 
-**[13:4]**  Zij dan nu, door den Heiligen Geest uitgezonden zijnde, gingen af naar Seleucië, en vandaar voeren zij over naar Cyprus.
+**[13:4]** Zij dan nu, door den Heiligen Geest uitgezonden zijnde, gingen af naar Seleucië, en vandaar voeren zij over naar Cyprus.
 
 **[13:5]** En in Salamis zijnde verkondigden zij het woord Gods in de synagogen der Joden, en zij hadden ook Johannes tot een dienaar.
 
@@ -56898,9 +56898,9 @@
 
 **[13:11]** En nu zie, de hand des Heeren is tegen u! en gij zult blind zijn en een tijd lang de zon niet zien! — En terstond viel over hem nevel en duisternis; en rondtastende zocht hij een wegwijzer.
 
-**[13:12]** Toen de stadhouder zag wat er geschied was, geloofde hij, en stond verslagen over de leer des Heeren. 
+**[13:12]** Toen de stadhouder zag wat er geschied was, geloofde hij, en stond verslagen over de leer des Heeren.
 
-**[13:13]**  Paulus nu en die bij hem waren, van Pafos afgevaren zijnde, kwamen te Perge in Pamfylië. Maar Johannes nam afscheid van hen en keerde terug naar Jerusalem.
+**[13:13]** Paulus nu en die bij hem waren, van Pafos afgevaren zijnde, kwamen te Perge in Pamfylië. Maar Johannes nam afscheid van hen en keerde terug naar Jerusalem.
 
 **[13:14]** En zij trokken door van Perge en kwamen te Antiochië in Pisidië, en gingen naar de synagoge op den dag des sabbats en zetten zich neder.
 
@@ -56962,9 +56962,9 @@
 
 **[13:43]** Toen nu de synagoge uitgegaan was volgden veel Joden en godvruchtige proselieten Paulus en Barnabas, die tot hen spraken en hen bewogen om bij de genade Gods te blijven.
 
-**[13:44]** Op den volgenden sabbat nu kwam bijna de geheele stad samen om het woord Gods te hooren. 
+**[13:44]** Op den volgenden sabbat nu kwam bijna de geheele stad samen om het woord Gods te hooren.
 
-**[13:45]**  Maar toen de Joden de schare zagen, werden zij met jaloezie vervuld, en zij wederspraken wat door Paulus gezegd werd, tegensprekende en lasterende.
+**[13:45]** Maar toen de Joden de schare zagen, werden zij met jaloezie vervuld, en zij wederspraken wat door Paulus gezegd werd, tegensprekende en lasterende.
 
 **[13:46]** Doch Paulus en Barnabas zeiden met vrijmoedigheid: Tot ulieden moest het woord Gods het eerst gesproken worden; maar omdat gij het verwerpt en u zelven des eeuwigen levens niet waardig oordeelt, ziet, wij keeren ons tot de heidenen!
 
@@ -56972,13 +56972,13 @@
 
 **[13:48]** Toen nu de heidenen dit hoorden waren zij verblijd en zij prezen het woord des Heeren, en zoovelen er verordineerd waren ten eeuwigen leven, geloofden.
 
-**[13:49]** En het woord des Heeren werd verbreid door den geheelen omtrek. 
+**[13:49]** En het woord des Heeren werd verbreid door den geheelen omtrek.
 
-**[13:50]**  Maar de Joden stookten de aanzienlijke vrouwen op, die godsdienstig waren, en de voornaamsten der stad, en verwekten een vervolging tegen Paulus en Barnabas, en wierpen hen uit hun gebied.
+**[13:50]** Maar de Joden stookten de aanzienlijke vrouwen op, die godsdienstig waren, en de voornaamsten der stad, en verwekten een vervolging tegen Paulus en Barnabas, en wierpen hen uit hun gebied.
 
 **[13:51]** Doch zij schudden het stof der voeten tegen hen af en kwamen te Ikonium.
 
-**[13:52]** En de discipelen werden vervuld met blijdschap en met den Heiligen Geest.  
+**[13:52]** En de discipelen werden vervuld met blijdschap en met den Heiligen Geest.
 
 ### Chapter 14
 
@@ -56994,9 +56994,9 @@
 
 **[14:6]** bemerkten zij dit en zij vluchtten naar de steden van Lykaonië, Lystre en Derbe, en den omtrek,
 
-**[14:7]** en daar verkondigden zij het Evangelie. 
+**[14:7]** en daar verkondigden zij het Evangelie.
 
-**[14:8]**  En er zat te Lystre een zeker man onmachtig aan de voeten, kreupel van zijn moeders lichaam af, die nooit gegaan had.
+**[14:8]** En er zat te Lystre een zeker man onmachtig aan de voeten, kreupel van zijn moeders lichaam af, die nooit gegaan had.
 
 **[14:9]** Deze hoorde Paulus spreken, die hem sterk aankeek en zag dat hij geloof had om verlost te worden.
 
@@ -57020,9 +57020,9 @@
 
 **[14:19]** Maar er kwamen eenige Joden daarbij van Antiochië en Ikonium, en nadat zij de scharen overreed en Paulus gesteenigd hadden, sleepten zij hem buiten de stad, meenende dat hij dood was.
 
-**[14:20]** Maar toen de discipelen hem omringden, stond hij op en ging in de stad; en den volgenden dag ging hij met Barnabas naar Derbe. 
+**[14:20]** Maar toen de discipelen hem omringden, stond hij op en ging in de stad; en den volgenden dag ging hij met Barnabas naar Derbe.
 
-**[14:21]**  Toen zij nu aan deze stad het Evangelie verkondigd en velen tot discipelen gemaakt hadden, keerden zij terug naar Lystre, en naar Ikonium, en naar Antiochië,
+**[14:21]** Toen zij nu aan deze stad het Evangelie verkondigd en velen tot discipelen gemaakt hadden, keerden zij terug naar Lystre, en naar Ikonium, en naar Antiochië,
 
 **[14:22]** versterkende de zielen der discipelen, hen vermanende om te blijven in het geloof en dat wij door veel verdrukkingen het koninkrijk Gods moeten ingaan.
 
@@ -57036,21 +57036,21 @@
 
 **[14:27]** Toen zij nu daar gekomen waren en de gemeente vergaderd hadden, verhaalden zij hoe groote dingen God met hen had gedaan, en dat Hij voor de heidenen de deur des geloofs had geopend.
 
-**[14:28]** En zij bleven geen korten tijd met de discipelen.  
+**[14:28]** En zij bleven geen korten tijd met de discipelen.
 
 ### Chapter 15
 
 **[15:1]** En sommigen, die van Judea afgekomen waren, leerden de broeders: Als gij niet besneden wordt naar de gewoonte van Mozes, dan kunt gij niet behouden worden.
 
-**[15:2]** Toen nu Paulus en Barnabas in geen kleinen strijd en twist met hen geraakt waren, besloten de broederen dat Paulus en Barnabas, en eenige anderen uit hen, zouden opgaan naar Jerusalem, tot de Apostelen en oudsten, wegens deze twistvraag. 
+**[15:2]** Toen nu Paulus en Barnabas in geen kleinen strijd en twist met hen geraakt waren, besloten de broederen dat Paulus en Barnabas, en eenige anderen uit hen, zouden opgaan naar Jerusalem, tot de Apostelen en oudsten, wegens deze twistvraag.
 
-**[15:3]**  Zij dan, door de gemeente uitgeleid zijnde, trokken door Fenicië en Samaria, verhalende de bekeering der heidenen, en deden al den broederen groote blijdschap aan.
+**[15:3]** Zij dan, door de gemeente uitgeleid zijnde, trokken door Fenicië en Samaria, verhalende de bekeering der heidenen, en deden al den broederen groote blijdschap aan.
 
 **[15:4]** En te Jerusalem gekomen zijnde, werden zij ontvangen door de gemeente, en de Apostelen, en de oudsten, en zij verhaalden al wat God met hen gedaan had.
 
-**[15:5]** Maar sommigen van de sekte der fariseërs, die geloofd hadden, stonden op en zeiden: Men moet hen besnijden en gebieden de wet van Mozes te onderhouden! 
+**[15:5]** Maar sommigen van de sekte der fariseërs, die geloofd hadden, stonden op en zeiden: Men moet hen besnijden en gebieden de wet van Mozes te onderhouden!
 
-**[15:6]**  De Apostelen nu en de oudsten vergaderden om deze zaak te overwegen.
+**[15:6]** De Apostelen nu en de oudsten vergaderden om deze zaak te overwegen.
 
 **[15:7]** En toen er veel twist ontstaan was stond Petrus op en zeide tot hen: Mannen broeders, gij weet dat God lang geleden onder u mij verkozen heeft, om door mijn mond de heidenen het woord des Evangelies te doen hooren en gelooven.
 
@@ -57096,9 +57096,9 @@
 
 **[15:28]** Want het heeft den Heiligen Geest en ons goedgedacht, geen meerderen last ulieden op te leggen dan dit noodzakelijke:
 
-**[15:29]** Dat gij u onthoudt van hetgeen den afgoden is geofferd, en van bloed, en van hetgeen gestikt is, en van hoererij. Als gij u van deze dingen wacht, zult gij goed doen. Vaartwel! 
+**[15:29]** Dat gij u onthoudt van hetgeen den afgoden is geofferd, en van bloed, en van hetgeen gestikt is, en van hoererij. Als gij u van deze dingen wacht, zult gij goed doen. Vaartwel!
 
-**[15:30]**  Zij kregen dan hun afscheid en kwamen te Antiochië; en de menigte vergaderd hebbende, gaven zij den brief over.
+**[15:30]** Zij kregen dan hun afscheid en kwamen te Antiochië; en de menigte vergaderd hebbende, gaven zij den brief over.
 
 **[15:31]** En toen zij dien gelezen hadden, verheugden zij zich over de vermaning.
 
@@ -57108,9 +57108,9 @@
 
 **[15:34]** Maar Silas wilde liever aldaar blijven.
 
-**[15:35]** Paulus nu en Barnabas bleven in Antiochië, leerende en verkondigende met veel anderen het woord des Heeren. 
+**[15:35]** Paulus nu en Barnabas bleven in Antiochië, leerende en verkondigende met veel anderen het woord des Heeren.
 
-**[15:36]**  Na sommige dagen nu zeide Paulus tot Barnabas: Laat ons nu terugkeeren en in elke stad, waar wij het woord des Heeren verkondigd hebben, de broeders bezoeken, om te zien hoe het hun gaat.
+**[15:36]** Na sommige dagen nu zeide Paulus tot Barnabas: Laat ons nu terugkeeren en in elke stad, waar wij het woord des Heeren verkondigd hebben, de broeders bezoeken, om te zien hoe het hun gaat.
 
 **[15:37]** En Barnabas wilde ook Johannes, bijgenaamd Markus, medenemen.
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** Maar Paulus verkoos Silas en vertrok, door de broederen aan de genade des Heeren bevolen zijnde.
 
-**[15:41]** En hij trok door Syrië en Cilicië en versterkte de gemeenten.  
+**[15:41]** En hij trok door Syrië en Cilicië en versterkte de gemeenten.
 
 ### Chapter 16
 
@@ -57128,9 +57128,9 @@
 
 **[16:2]** Van dezen gaven de broeders in Lystre en Ikonium een goed getuigenis.
 
-**[16:3]** Paulus nu wilde dat deze met hem zou vertrekken; en hij nam en besneed hem ter wille van de Joden die in die plaatsen waren; want allen wisten dat zijn vader een Griek was. 
+**[16:3]** Paulus nu wilde dat deze met hem zou vertrekken; en hij nam en besneed hem ter wille van de Joden die in die plaatsen waren; want allen wisten dat zijn vader een Griek was.
 
-**[16:4]**  Toen zij nu de steden doortrokken, gaven zij hun; de verordeningen over ter onderhouding, die van de Apostelen en oudsten in Jerusalem vastgesteld waren,
+**[16:4]** Toen zij nu de steden doortrokken, gaven zij hun; de verordeningen over ter onderhouding, die van de Apostelen en oudsten in Jerusalem vastgesteld waren,
 
 **[16:5]** De gemeenten dan werden versterkt in het geloof en vermeerderden dagelijks in getal.
 
@@ -57138,13 +57138,13 @@
 
 **[16:7]** En zij kwamen bij Mysië en zochten naar Bithynië te gaan, en ook dit liet hun de Geest van Jezus, niet toe.
 
-**[16:8]** En langs Mysië gegaan zijnde, kwamen zij af naar Troas. 
+**[16:8]** En langs Mysië gegaan zijnde, kwamen zij af naar Troas.
 
-**[16:9]**  En aan Paulus verscheen des nachts een visioen: Een zeker Macedonisch man stond, en vroeg hem dringend, zeggende: Kom over naar Macedonië en help ons!
+**[16:9]** En aan Paulus verscheen des nachts een visioen: Een zeker Macedonisch man stond, en vroeg hem dringend, zeggende: Kom over naar Macedonië en help ons!
 
-**[16:10]** Toen hij nu dit visioen had gezien, zochten wij terstond naar Macedonië te vertrekken, daaruit besluitende dat God ons geroepen had om hun het Evangelie te verkondigen. 
+**[16:10]** Toen hij nu dit visioen had gezien, zochten wij terstond naar Macedonië te vertrekken, daaruit besluitende dat God ons geroepen had om hun het Evangelie te verkondigen.
 
-**[16:11]**  Van Troas dan afgevaren zijnde, liepen wij rechtuit naar Samothrace, en den volgenden dag naar Neapolis;
+**[16:11]** Van Troas dan afgevaren zijnde, liepen wij rechtuit naar Samothrace, en den volgenden dag naar Neapolis;
 
 **[16:12]** en vandaar naar Filippi, dat de eerste stad is van dat deel van Macedonië, een kolonie.
 
@@ -57170,9 +57170,9 @@
 
 **[16:23]** En toen zij hun veel slagen gegeven hadden, wierpen zij hen in de gevangenis en geboden den gevangenbewaarder hen gestreng te bewaren.
 
-**[16:24]** Deze nu, zulk een gebod ontvangen hebbende, wierp hen in de binnenste gevangenis en sloot hun voeten in den blok. 
+**[16:24]** Deze nu, zulk een gebod ontvangen hebbende, wierp hen in de binnenste gevangenis en sloot hun voeten in den blok.
 
-**[16:25]**  Tegen middernacht nu baden en zongen Paulus en Silas Gode lofzangen en de gevangenen luisterden naar hen.
+**[16:25]** Tegen middernacht nu baden en zongen Paulus en Silas Gode lofzangen en de gevangenen luisterden naar hen.
 
 **[16:26]** En plotseling geschiedde er een groote aardbeving, zoodat de fundamenten der gevangenis schudden, en al de deuren gingen terstond open, en aller boeien werden los.
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** En zij kwamen en spraken hen toe; en hen uitgeleid hebbende, verzochten zij hen uit de stad te gaan.
 
-**[16:40]** En uit de gevangenis gegaan zijnde, gingen zij naar Lydia; en toen zij de broeders gezien hadden, vermaanden zij hen en gingen weg.  
+**[16:40]** En uit de gevangenis gegaan zijnde, gingen zij naar Lydia; en toen zij de broeders gezien hadden, vermaanden zij hen en gingen weg.
 
 ### Chapter 17
 
@@ -57222,9 +57222,9 @@
 
 **[17:8]** En zij stookten de menigte op en ook de oversten der stad die dit hoorden.
 
-**[17:9]** Maar toen zij van Jason en de anderen voldoening hadden ontvangen, lieten zij hen gaan. 
+**[17:9]** Maar toen zij van Jason en de anderen voldoening hadden ontvangen, lieten zij hen gaan.
 
-**[17:10]**  De broeders nu zonden terstond des nachts Paulus en Silas naar Berea, die, toen zij daar gekomen waren, naar de synagoge der Joden gingen.
+**[17:10]** De broeders nu zonden terstond des nachts Paulus en Silas naar Berea, die, toen zij daar gekomen waren, naar de synagoge der Joden gingen.
 
 **[17:11]** Dezen nu waren edeler dan die in Thessalonika, daar zij het woord ontvingen met alle toegenegenheid, en dagelijks de Schrifturen onderzochten of deze dingen alzoo waren.
 
@@ -57232,9 +57232,9 @@
 
 **[17:13]** Toen nu de Joden van Thessalonika vernomen hadden dat het woord Gods, door Paulus ook in Berea; werd verkondigd, kwame zij ook daar de scharen beroeren en opstoken.
 
-**[17:14]** Doch terstond zonden de broeders toen Paulus weg om naar de zeekust te gaan. Maar Silas en Timotheüs bleven aldaar. 
+**[17:14]** Doch terstond zonden de broeders toen Paulus weg om naar de zeekust te gaan. Maar Silas en Timotheüs bleven aldaar.
 
-**[17:15]**  Zij nu die Paulus uitgeleide deden, brachten hem naar Athene. En zij gingen terug, nadat zij bevel hadden gekregen voor Silas en Timotheüs dat zij zoo spoedig mogelijk tot hem zouden komen.
+**[17:15]** Zij nu die Paulus uitgeleide deden, brachten hem naar Athene. En zij gingen terug, nadat zij bevel hadden gekregen voor Silas en Timotheüs dat zij zoo spoedig mogelijk tot hem zouden komen.
 
 **[17:16]** Terwijl nu Paulus hen te Athene verwachtte, werd zijn geest in hem ontstoken, daar hij zag dat de stad zoo vol afgoderij was.
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** Zoo ging Paulus uit hun midden weg.
 
-**[17:34]** Doch eenige mannen voegden zich bij hem en geloofden; waaronder ook Dionysius de Areopagiet, en een vrouw genaamd Damaris, en anderen met hen.  
+**[17:34]** Doch eenige mannen voegden zich bij hem en geloofden; waaronder ook Dionysius de Areopagiet, en een vrouw genaamd Damaris, en anderen met hen.
 
 ### Chapter 18
 
@@ -57280,9 +57280,9 @@
 
 **[18:2]** En hij vond een zekeren Jood, met name Aquila, geboortig van Pontus, die kort geleden uit Italië was gekomen, met Priscilla zijn vrouw, omdat Klaudius had geboden dat al de Joden uit Rome zouden vertrekken.
 
-**[18:3]** En hij kwam bij hen, en omdat hij van hetzelfde beroep was, bleef hij bij hen en arbeidde, want zij waren tentenmakers van beroep. 
+**[18:3]** En hij kwam bij hen, en omdat hij van hetzelfde beroep was, bleef hij bij hen en arbeidde, want zij waren tentenmakers van beroep.
 
-**[18:4]**  Op iederen sabbat nu redetwistte hij in de synagoge en hij overtuigde Joden en Grieken.
+**[18:4]** Op iederen sabbat nu redetwistte hij in de synagoge en hij overtuigde Joden en Grieken.
 
 **[18:5]** Nadat nu Silas en Timotheüs van Macedonië afgekomen waren, sprak Paulus te vuriger, den Joden bewijzende dat Jezus is de Christus.
 
@@ -57296,9 +57296,9 @@
 
 **[18:10]** Want Ik ben met u en niemand zal u grijpen om u kwaad te doen, want Ik heb veel volk in deze stad.
 
-**[18:11]** Hij bleef dan een jaar en zes maanden, leerende onder hen het woord Gods. 
+**[18:11]** Hij bleef dan een jaar en zes maanden, leerende onder hen het woord Gods.
 
-**[18:12]**  Maar toen Gallio stadhouder van Achaje was, stonden de Joden eenparig tegen Paulus op en brachten hem voor den rechterstoel,
+**[18:12]** Maar toen Gallio stadhouder van Achaje was, stonden de Joden eenparig tegen Paulus op en brachten hem voor den rechterstoel,
 
 **[18:13]** zeggende: Deze raadt den menschen aan om God te dienen tegen de wet!
 
@@ -57308,9 +57308,9 @@
 
 **[18:16]** En hij dreef hen weg van den rechterstoel.
 
-**[18:17]** Doch zij allen grepen Sosthenes, den overste der synagoge, en sloegen hem voor den rechterstoel; en Gallio trok zich niets daarvan aan. 
+**[18:17]** Doch zij allen grepen Sosthenes, den overste der synagoge, en sloegen hem voor den rechterstoel; en Gallio trok zich niets daarvan aan.
 
-**[18:18]**  Als nu Paulus nog vele dagen daar gebleven was, nam hij afscheid van de broeders en ging scheep naar Syrië, en met hem Aquila en Priscilla, nadat hij zich te Kenchrea het hoofd geschoren had, want hij stond onder een gelofte.
+**[18:18]** Als nu Paulus nog vele dagen daar gebleven was, nam hij afscheid van de broeders en ging scheep naar Syrië, en met hem Aquila en Priscilla, nadat hij zich te Kenchrea het hoofd geschoren had, want hij stond onder een gelofte.
 
 **[18:19]** Zij kwamen nu te Efesus en daar liet hij hen achter; maar hij zelf ging naar de synagoge om met de Joden te redetwisten.
 
@@ -57318,11 +57318,11 @@
 
 **[18:21]** maar hij nam afscheid en zeide: Ik zal tot u terugkomen, als het God belieft. En hij voer af van Efesus;
 
-**[18:22]** en te Cesarea gekomen zijnde trok hij op, en de gemeente gegroet hebbende kwam hij af naar Antiochië. 
+**[18:22]** en te Cesarea gekomen zijnde trok hij op, en de gemeente gegroet hebbende kwam hij af naar Antiochië.
 
-**[18:23]**  En nadat hij daar eenigen tijd had doorgebracht ging hij heen en doorreisde het land van Galatië en Frygië, versterkende al de discipelen. 
+**[18:23]** En nadat hij daar eenigen tijd had doorgebracht ging hij heen en doorreisde het land van Galatië en Frygië, versterkende al de discipelen.
 
-**[18:24]**  Een zekere Jood nu, met name Apollos, geboortig van Alexandrië, een welsprekend man, kwam naar Efesus; en hij was machtig in de Schrifturen.
+**[18:24]** Een zekere Jood nu, met name Apollos, geboortig van Alexandrië, een welsprekend man, kwam naar Efesus; en hij was machtig in de Schrifturen.
 
 **[18:25]** Deze was onderwezen in den weg des Heeren, en vurig van geest zijnde, sprak en onderwees hij nauwkeurig de dingen aangaande Jezus; doch hij kende alleen den doop van Johannes.
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** Toen hij nu naar Achaje wilde gaan, moedigden de broeders hem aan, en schreven aan de discipelen dat zij hem zouden ontvangen. En daar gekomen zijnde, was hij zeer nuttig voor hen die geloofd hadden door de genade.
 
-**[18:28]** Want met kracht overtuigde hij de Joden in het openbaar, bewijzende door de Schrifturen dat Jezus is de Christus.  
+**[18:28]** Want met kracht overtuigde hij de Joden in het openbaar, bewijzende door de Schrifturen dat Jezus is de Christus.
 
 ### Chapter 19
 
@@ -57352,9 +57352,9 @@
 
 **[19:9]** Maar toen sommigen zich verhardden en ongehoorzaam waren, kwaadsprekende van den weg des Heeren voor de schare, week hij van hen, en zonderde de discipelen af, en onderwees dagelijks in de school van een zekeren Tyrannus.
 
-**[19:10]** En dit geschiedde twee jaar lang, zoodat allen die Asië bewoonden, het woord des Heeren hoorden, zoowel Joden als Grieken. 
+**[19:10]** En dit geschiedde twee jaar lang, zoodat allen die Asië bewoonden, het woord des Heeren hoorden, zoowel Joden als Grieken.
 
-**[19:11]**  En God deed buitengewone krachten door de handen van Paulus,
+**[19:11]** En God deed buitengewone krachten door de handen van Paulus,
 
 **[19:12]** zoodat zelfs doeken of gordels van zijn lichaam op de kranken gelegd werden; en de ziekten weken van hen en de booze geesten voeren uit.
 
@@ -57372,9 +57372,9 @@
 
 **[19:19]** en velen van degenen die met tooverkunsten hadden omgegaan, brachten hun boeken bijeen en verbrandden die in aller tegenwoordigheid; en de waarde daarvan berekend zijnde, bevonden zij die vijftig duizend zilverstukken.
 
-**[19:20]** Alzoo vermeerderde het woord des Heeren met kracht, en het kreeg de overhand. 
+**[19:20]** Alzoo vermeerderde het woord des Heeren met kracht, en het kreeg de overhand.
 
-**[19:21]**  Toen dit nu geschied was, nam Paulus in den geest het plan om door Macedonië en Achaje naar Jerusalem te gaan, en zeide: Nadat ik daar geweest ben moet ik ook Rome zien.
+**[19:21]** Toen dit nu geschied was, nam Paulus in den geest het plan om door Macedonië en Achaje naar Jerusalem te gaan, en zeide: Nadat ik daar geweest ben moet ik ook Rome zien.
 
 **[19:22]** En hij zond twee dergenen die hem dienden, Timotheüs en Erastus, naar Macedonië; maar hij zelf bleef nog een tijd in Asië.
 
@@ -57414,7 +57414,7 @@
 
 **[19:40]** Want wij loopen ook gevaar over het oproer van heden aangeklaagd te worden, daar er geen grond is waarop wij rekenschap zullen kunnen geven van deze samenspanning. En dit gezegd hebbende, deed hij de vergadering uiteen gaan.
 
-**[19:41]**  
+**[19:41]** 
 
 ### Chapter 20
 
@@ -57428,9 +57428,9 @@
 
 **[20:5]** Dezen nu waren vooruitgegaan en wachtten ons te Troas.
 
-**[20:6]** Wij voeren dan af van Filippi na de dagen der ongedeesemde brooden, en kwamen in vijf dagen bij hen te Troas, waar wij zeven dagen bleven. 
+**[20:6]** Wij voeren dan af van Filippi na de dagen der ongedeesemde brooden, en kwamen in vijf dagen bij hen te Troas, waar wij zeven dagen bleven.
 
-**[20:7]**  Toen wij nu op den eersten dag der week vergaderd waren om brood te breken, sprak Paulus tot hen, die des anderen daags vertrekken zou; en hij rekte zijn sermoen tot den middernacht.
+**[20:7]** Toen wij nu op den eersten dag der week vergaderd waren om brood te breken, sprak Paulus tot hen, die des anderen daags vertrekken zou; en hij rekte zijn sermoen tot den middernacht.
 
 **[20:8]** En er waren veel lampen in de bovenzaal waar wij vergaderd waren.
 
@@ -57440,9 +57440,9 @@
 
 **[20:11]** En hij ging naar boven en brak het brood en at; en hij sprak lang tot hen, tot den dageraad toe, en alzoo vertrok hij.
 
-**[20:12]** En zij brachten den jongen levend binnen, en waren niet weinig vertroost. 
+**[20:12]** En zij brachten den jongen levend binnen, en waren niet weinig vertroost.
 
-**[20:13]**  Wij nu gingen vooruit naar het schip en voeren af naar Assus, waar wij Paulus zouden opnemen; zoo toch had hij het beschikt, daar hij zelf te voet wilde gaan.
+**[20:13]** Wij nu gingen vooruit naar het schip en voeren af naar Assus, waar wij Paulus zouden opnemen; zoo toch had hij het beschikt, daar hij zelf te voet wilde gaan.
 
 **[20:14]** Toen hij nu te Assus zich bij ons gevoegd had, namen wij hem op en kwamen naar Mitylene;
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** En zij weenden allen zeer, en vielen Paulus om den hals en kusten hem,
 
-**[20:38]** allermeest bedroefd zijnde om het woord dat hij gezegd had, dat zij zijn aangezicht niet meer zouden zien. En zij vergezelden hem naar het schip.  
+**[20:38]** allermeest bedroefd zijnde om het woord dat hij gezegd had, dat zij zijn aangezicht niet meer zouden zien. En zij vergezelden hem naar het schip.
 
 ### Chapter 21
 
@@ -57506,9 +57506,9 @@
 
 **[21:5]** Toen wij nu die dagen hadden doorgebracht, vertrokken wij en gingen voort, terwijl allen met vrouwen en kinderen ons vergezelden tot buiten de stad; en nadat wij op den oever geknield en gebeden hadden,
 
-**[21:6]** groetten wij malkander, en wij gingen scheep, maar zij keerden terug naar huis. 
+**[21:6]** groetten wij malkander, en wij gingen scheep, maar zij keerden terug naar huis.
 
-**[21:7]**  Wij nu, de vaart van Tyrus volbracht hebbende, kwamen aan te Ptolemais, en de broeders groetende, bleven wij één dag bij hen.
+**[21:7]** Wij nu, de vaart van Tyrus volbracht hebbende, kwamen aan te Ptolemais, en de broeders groetende, bleven wij één dag bij hen.
 
 **[21:8]** En den volgenden dag vertrokken wij en kwamen te Cesarea; en wij gingen in het huis van Filippus den evangelist, die één was van de zeven en bleven bij hem.
 
@@ -57522,9 +57522,9 @@
 
 **[21:13]** Toen antwoordde Paulus en zeide: Wat doet gij, met zoo te weenen en mijn hart week te maken? want ik ben gereed niet alleen om gebonden te worden, maar zelfs om te Jerusalem te sterven voor den Naam van den Heere Jezus.
 
-**[21:14]** En daar hij zich niet liet afraden, berustten wij er in, zeggende: Des Heeren wille geschiede! 
+**[21:14]** En daar hij zich niet liet afraden, berustten wij er in, zeggende: Des Heeren wille geschiede!
 
-**[21:15]**  Na die dagen nu maakten wij ons reisvaardig en gingen op naar Jerusalem.
+**[21:15]** Na die dagen nu maakten wij ons reisvaardig en gingen op naar Jerusalem.
 
 **[21:16]** En er gingen ook eenigen der discipelen van Cesarea met ons mede, die zekeren Mnason van Cyprus medebrachten, een ouden discipel, bij wien wij zouden verblijven.
 
@@ -57546,9 +57546,9 @@
 
 **[21:25]** Wat nu de heidenen aangaat, die geloofd hebben, wij hebben ons oordeel geschreven, dat zij zich wachten moeten van hetgeen den afgoden is geofferd, en van bloed, en van het gestikte, en van hoererij.
 
-**[21:26]** Toen nam Paulus die mannen den volgenden dag mede, en zich met hen afgezonderd hebbende, ging hij naar den tempel en kondigde den laatste van de dagen der afzondering aan, totdat voor ieder van hen de offerande zou geofferd worden. 
+**[21:26]** Toen nam Paulus die mannen den volgenden dag mede, en zich met hen afgezonderd hebbende, ging hij naar den tempel en kondigde den laatste van de dagen der afzondering aan, totdat voor ieder van hen de offerande zou geofferd worden.
 
-**[21:27]**  Toen nu de zeven dagen ten einde liepen, zagen de Joden van Asië hem in den tempel, en maakten de gansche schare op en sloegen de handen aan hem,
+**[21:27]** Toen nu de zeven dagen ten einde liepen, zagen de Joden van Asië hem in den tempel, en maakten de gansche schare op en sloegen de handen aan hem,
 
 **[21:28]** roepende: Mannen Israëls! komt te hulp! deze is de man, die aan allen overal leert tegen het volk, en de wet, en deze plaats! ja, zelfs heeft hij Grieken naar den tempel gebracht en die heilige plaats ontwijd!
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** Maar Paulus zeide: Ik ben een joodsch man, van Tarsus in Cilicië, een burger van een niet onbekende stad; en ik bid u, laat mij toe tot het volk te spreken.
 
-**[21:40]** Toen het hem dan toegelaten was, stond Paulus op de trappen en wenkte het volk toe met de hand. En toen er een groote stilte was gekomen, sprak hij hen aan in de hebreeuwsche taal, zeggende:  
+**[21:40]** Toen het hem dan toegelaten was, stond Paulus op de trappen en wenkte het volk toe met de hand. En toen er een groote stilte was gekomen, sprak hij hen aan in de hebreeuwsche taal, zeggende:
 
 ### Chapter 22
 
@@ -57618,15 +57618,15 @@
 
 **[22:20]** en dat ik zelf er bijstond toen het bloed van uw getuige Stefanus werd vergoten, en er welbehagen in toonde, en de kleederen bewaarde van zijn moordenaars!
 
-**[22:21]** En Hij zeide tot mij: Ga heen, want Ik zal u verre weg tot de heidenen zenden! 
+**[22:21]** En Hij zeide tot mij: Ga heen, want Ik zal u verre weg tot de heidenen zenden!
 
-**[22:22]**  Zij hoorden dan Paulus tot dit woord toe; en zij verhieven hun stem, zeggende: Weg van de aarde met zoo een! hij mag niet blijven leven!
+**[22:22]** Zij hoorden dan Paulus tot dit woord toe; en zij verhieven hun stem, zeggende: Weg van de aarde met zoo een! hij mag niet blijven leven!
 
 **[22:23]** En alzoo zij schreeuwden en de kleederen van zich smeten en stof in de lucht wierpen,
 
-**[22:24]** gebood de overste om hem naar het kasteel te voeren, en zeide dat hij door geeselen moest onderzocht worden, opdat hij zou weten om welke reden zij zoo tegen hem riepen. 
+**[22:24]** gebood de overste om hem naar het kasteel te voeren, en zeide dat hij door geeselen moest onderzocht worden, opdat hij zou weten om welke reden zij zoo tegen hem riepen.
 
-**[22:25]**  Toen zij hem nu vastgebonden hadden met koorden, zeide Paulus tot den hoofdman die daar stond: Is het u geoorloofd iemand te geeselen die Romein is en niet veroordeeld?
+**[22:25]** Toen zij hem nu vastgebonden hadden met koorden, zeide Paulus tot den hoofdman die daar stond: Is het u geoorloofd iemand te geeselen die Romein is en niet veroordeeld?
 
 **[22:26]** Toen de hoofdman dit hoorde, ging hij naar den overste om hem dit te boodschappen, en zeide: Wat gaat gij doen? deze mensch is toch een Romein!
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Terstond lieten zij, die hem pijnigen zouden, van hem af; en de overste vreesde ook toen hij vernam dat hij Romein was en dat hij hem had gebonden.
 
-**[22:30]** Des anderen daags nu, daar hij nauwkeurig wilde weten waarvan hij door de Joden beschuldigd werd, liet hij hem de boeien afdoen en gebood dat de overpriesters en de geheele Raad zouden samenkomen; en hij bracht Paulus naar beneden en stelde hem voor hen.  
+**[22:30]** Des anderen daags nu, daar hij nauwkeurig wilde weten waarvan hij door de Joden beschuldigd werd, liet hij hem de boeien afdoen en gebood dat de overpriesters en de geheele Raad zouden samenkomen; en hij bracht Paulus naar beneden en stelde hem voor hen.
 
 ### Chapter 23
 
@@ -57648,21 +57648,21 @@
 
 **[23:4]** En die daarbij stonden zeiden: Scheldt gij den hoogepriester Gods?
 
-**[23:5]** Toén zeide Paulus: Ik wist niet, broeders! dat het de hoogepriester was; want er is geschreven: Van den overste uws volks zult gij geen kwaad spreken. 
+**[23:5]** Toén zeide Paulus: Ik wist niet, broeders! dat het de hoogepriester was; want er is geschreven: Van den overste uws volks zult gij geen kwaad spreken.
 
-**[23:6]**  En Paulus wist dat de eene helft van hen sadduceërs en de andere helft fariseërs waren, en hij riep in den Raad: Mannen broeders! ik ben fariseër, eens fariseërs zoon! over de hoop en de verrijzenis der dooden word ik geoordeeld
+**[23:6]** En Paulus wist dat de eene helft van hen sadduceërs en de andere helft fariseërs waren, en hij riep in den Raad: Mannen broeders! ik ben fariseër, eens fariseërs zoon! over de hoop en de verrijzenis der dooden word ik geoordeeld
 
 **[23:7]** Toen hij dit nu gezegd had, rees er een twist tusschen de fariseërs en sadduceërs, en de vergadering werd verdeeld.
 
 **[23:8]** Want de sadduceërs zeggen dat er geen verrijzenis is, noch engel, noch geest; maar de fariseërs belijden beide.
 
-**[23:9]** Er ontstond dan een groot geschreeuw, en sommige schriftgeleerden, van de partij der fariseërs, stonden op en streden, zeggende: Niets kwaads vinden wij in dezen mensch! en indien er eens een geest of engel tot hem gesproken heeft? 
+**[23:9]** Er ontstond dan een groot geschreeuw, en sommige schriftgeleerden, van de partij der fariseërs, stonden op en streden, zeggende: Niets kwaads vinden wij in dezen mensch! en indien er eens een geest of engel tot hem gesproken heeft?
 
-**[23:10]**  Toen er nu een hevige twist was, vreesde de overste dat Paulus door hen zou verscheurd worden, en hij gebood dat het krijgsvolk zou afkomen en hem uit hun midden wegrukken en naar het kasteel brengen.
+**[23:10]** Toen er nu een hevige twist was, vreesde de overste dat Paulus door hen zou verscheurd worden, en hij gebood dat het krijgsvolk zou afkomen en hem uit hun midden wegrukken en naar het kasteel brengen.
 
-**[23:11]** En den volgenden nacht stond de Heere bij hem en zeide: Houd moed, Paulus! want evenals gij van Mij te Jerusalem hebt getuigd, zoo moet gij ook te Rome getuigen! 
+**[23:11]** En den volgenden nacht stond de Heere bij hem en zeide: Houd moed, Paulus! want evenals gij van Mij te Jerusalem hebt getuigd, zoo moet gij ook te Rome getuigen!
 
-**[23:12]**  Toen het nu dag was geworden, spanden de Joden samen, en vervloekten zich zelven, zeggende dat zij niet zouden eten of drinken vóórdat ze Paulus zouden vermoord hebben.
+**[23:12]** Toen het nu dag was geworden, spanden de Joden samen, en vervloekten zich zelven, zeggende dat zij niet zouden eten of drinken vóórdat ze Paulus zouden vermoord hebben.
 
 **[23:13]** En er waren meer dan veertig die deze samenzwering gemaakt hadden.
 
@@ -57682,9 +57682,9 @@
 
 **[23:21]** maar geloof ze niet, want meer dan veertig mannen uit hen leggen hem lagen, die zich door een vervloeking verbonden hebben om niets te eten of te drinken vóórdat ze hem vermoord hebben; en nu zijn zij gereed en wachten op uw toezegging.
 
-**[23:22]** De overste dan liet den jongeling gaan en gebood hem: Zeg aan niemand dat gij mij dit hebt verteld! 
+**[23:22]** De overste dan liet den jongeling gaan en gebood hem: Zeg aan niemand dat gij mij dit hebt verteld!
 
-**[23:23]**  En hij riep twee hoofdmannen tot zich en zeide: Maakt tweehonderd soldaten gereed om naar Cesarea te gaan, en zeventig ruiters, en tweehonderd lansiers, tegen de derde ure van den nacht,
+**[23:23]** En hij riep twee hoofdmannen tot zich en zeide: Maakt tweehonderd soldaten gereed om naar Cesarea te gaan, en zeventig ruiters, en tweehonderd lansiers, tegen de derde ure van den nacht,
 
 **[23:24]** en zorgt voor zadelbeesten, om Paulus daarop te zetten en hem zonder letsel over te brengen naar den stadhouder Felix.
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** Nadat hij nu den brief gelezen had, vroeg de stadhouder uit welke provincie Paulus was? en vernomen hebbende dat hij uit Cilicië was, zeide hij:
 
-**[23:35]** Ik zal u verhooren, wanneer ook uw beschuldigers gekomen zijn. En hij gebood dat hij in het rechthuis van Herodes zou bewaard worden.  
+**[23:35]** Ik zal u verhooren, wanneer ook uw beschuldigers gekomen zijn. En hij gebood dat hij in het rechthuis van Herodes zou bewaard worden.
 
 ### Chapter 24
 
@@ -57728,9 +57728,9 @@
 
 **[24:8]** gebiedende zijn beschuldigers tot u te komen; van hem zelven zult gij kunnen te weten komen al datgene waarvan wij hem beschuldigen, indien gij hem onderzoekt.
 
-**[24:9]** En ook de Joden vielen hem aan, en zeiden dat deze dingen zoo waren. 
+**[24:9]** En ook de Joden vielen hem aan, en zeiden dat deze dingen zoo waren.
 
-**[24:10]**  En Paulus antwoordde, toen de stadhouder had gewenkt dat hij spreken zou: Wetende dat gij vele jaren rechter over dit volk geweest zijt, verantwoord ik mij welgemoed,
+**[24:10]** En Paulus antwoordde, toen de stadhouder had gewenkt dat hij spreken zou: Wetende dat gij vele jaren rechter over dit volk geweest zijt, verantwoord ik mij welgemoed,
 
 **[24:11]** omdat gij kunt vernemen dat het niet meer dan twaalf dagen is geleden dat ik opgegaan ben naar Jerusalem om te aanbidden;
 
@@ -57752,19 +57752,19 @@
 
 **[24:20]** of wel, laat dezen zelven zeggen welk onrecht zij in mij gevonden hebben, toen ik voor den Raad stond,
 
-**[24:21]** tenware dit ééne woord dat ik uitriep toen ik onder hen stond: Over de verrijzenis der dooden word ik heden door u geoordeeld! 
+**[24:21]** tenware dit ééne woord dat ik uitriep toen ik onder hen stond: Over de verrijzenis der dooden word ik heden door u geoordeeld!
 
-**[24:22]**  Felix nu, die den weg des Heeren nauwkeuriger kende, stelde hen uit, zeggende: Als Lysias, de overste zal afgekomen zijn, dan zal ik uw zaken onderzoeken.
+**[24:22]** Felix nu, die den weg des Heeren nauwkeuriger kende, stelde hen uit, zeggende: Als Lysias, de overste zal afgekomen zijn, dan zal ik uw zaken onderzoeken.
 
-**[24:23]** En hij gebood den hoofdman om Paulus te bewaren en meer vrijheid te geven, en om niemand der zijnen te verhinderen om hem te dienen. 
+**[24:23]** En hij gebood den hoofdman om Paulus te bewaren en meer vrijheid te geven, en om niemand der zijnen te verhinderen om hem te dienen.
 
-**[24:24]**  Na eenige dagen nu kwam Felix met Drusilla, zijn vrouw, die een Jodin was, en hij liet Paulus halen en hoorde hem over het geloof in Christus Jezus.
+**[24:24]** Na eenige dagen nu kwam Felix met Drusilla, zijn vrouw, die een Jodin was, en hij liet Paulus halen en hoorde hem over het geloof in Christus Jezus.
 
-**[24:25]** Doch toen Paulus sprak over rechtvaardigheid, en ingetogenheid, en het toekomend oordeel, werd Felix bevreesd en zeide: Ga voor ditmaal heen; ter gelegener tijd zal ik u tot mij roepen. 
+**[24:25]** Doch toen Paulus sprak over rechtvaardigheid, en ingetogenheid, en het toekomend oordeel, werd Felix bevreesd en zeide: Ga voor ditmaal heen; ter gelegener tijd zal ik u tot mij roepen.
 
-**[24:26]**  Tegelijk ook hoopte hij dat hem door Paulus geld zou worden gegeven, waarom hij hem ook meermalen liet roepen en met hem sprak.
+**[24:26]** Tegelijk ook hoopte hij dat hem door Paulus geld zou worden gegeven, waarom hij hem ook meermalen liet roepen en met hem sprak.
 
-**[24:27]** Doch toen er twee jaar verloopen waren, kreeg Felix tot opvolger Porcius Festus; en daar Felix den Joden een gunst wilde bewijzen, liet hij Paulus gevangen achter.  
+**[24:27]** Doch toen er twee jaar verloopen waren, kreeg Felix tot opvolger Porcius Festus; en daar Felix den Joden een gunst wilde bewijzen, liet hij Paulus gevangen achter.
 
 ### Chapter 25
 
@@ -57782,17 +57782,17 @@
 
 **[25:7]** En toen deze was binnengebracht, stonden de Joden, die van Jerusalem afgekomen waren, rond hem en brachten vele en zware beschuldigingen tegen hem in, die ze niet konden bewijzen,
 
-**[25:8]** daar Paulus zich verdedigde en zeide: Noch tegen de wet der Joden, noch tegen den tempel, noch tegen den keizer heb ik iets misdaan. 
+**[25:8]** daar Paulus zich verdedigde en zeide: Noch tegen de wet der Joden, noch tegen den tempel, noch tegen den keizer heb ik iets misdaan.
 
-**[25:9]**  Maar Festus wilde den Joden een gunst bewijzen en antwoordde Paulus: Wilt gij naar Jerusalem opgaan om daar voor mij over deze dingen geoordeeld te worden?
+**[25:9]** Maar Festus wilde den Joden een gunst bewijzen en antwoordde Paulus: Wilt gij naar Jerusalem opgaan om daar voor mij over deze dingen geoordeeld te worden?
 
 **[25:10]** Doch Paulus zeide: Ik sta voor des keizers rechterstoel, waar ik moet geoordeeld worden; den Joden heb ik niets misdaan, zooals gij zelf zeer goed weet!
 
 **[25:11]** Doe ik dan onrecht en heb ik iets gedaan dat den dood verdient, zoo weiger ik niet te sterven; maar zoo er niets waar is van hetgeen waarvan zij mij beschuldigen, dan kan niemand mij uit gunst aan hen overleveren; op den keizer beroep ik mij!
 
-**[25:12]** Toen antwoordde Festus, nadat hij met den Raad gesproken had: Op den keizer hebt gij u beroepen; tot den keizer zult gij gaan! 
+**[25:12]** Toen antwoordde Festus, nadat hij met den Raad gesproken had: Op den keizer hebt gij u beroepen; tot den keizer zult gij gaan!
 
-**[25:13]**  Toen er nu eenige dagen verloopen waren, kwamen koning Agrippa en Bernice naar Cesarea, om Festus te groeten.
+**[25:13]** Toen er nu eenige dagen verloopen waren, kwamen koning Agrippa en Bernice naar Cesarea, om Festus te groeten.
 
 **[25:14]** En alzoo zij vele dagen daar bleven, deelde Festus den koning de zaken aangaande Paulus mede, en zeide: Een zeker man is door Felix gebonden achtergelaten,
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** Maar ik heb niets zekers over hem aan den heer te schrijven; daarom heb ik hem voor ulieden gebracht, en voornamelijk voor u, koning Agrippa! opdat ik, na dit onderzoek, iets moge hebben om te schrijven;
 
-**[25:27]** want het lijkt mij onredelijk, een gevangene te zenden en niet ook de beschuldiging tegen hem op te geven.  
+**[25:27]** want het lijkt mij onredelijk, een gevangene te zenden en niet ook de beschuldiging tegen hem op te geven.
 
 ### Chapter 26
 
@@ -57868,17 +57868,17 @@
 
 **[26:22]** Doch de hulpe Gods verkregen hebbende, sta ik tot op dezen dag aan klein en groot te getuigen, zonder iets te zeggen dan wat de profeten en Mozes gesproken hebben dat geschieden zou:
 
-**[26:23]** dat de Christus zou lijden en dat Hij, de eerste uit de verrijzenis der dooden, een licht zou verkondigen aan dit volk en aan de heidenen! 
+**[26:23]** dat de Christus zou lijden en dat Hij, de eerste uit de verrijzenis der dooden, een licht zou verkondigen aan dit volk en aan de heidenen!
 
-**[26:24]**  Als hij zich nu aldus verdedigde, zeide Festus met een luide stem: Gij raast, Paulus! de groote geleerdheid brengt u tot razernij!
+**[26:24]** Als hij zich nu aldus verdedigde, zeide Festus met een luide stem: Gij raast, Paulus! de groote geleerdheid brengt u tot razernij!
 
 **[26:25]** Maar Paulus zeide: Ik raas niet, machtige Festus, maar ik spreek woorden van waarheid en gezond verstand!
 
 **[26:26]** Want de koning weet van deze dingen, tot wien ik ook met vrijmoedigheid spreek; want ik houd mij verzekerd dat niets van deze dingen hem onbekend is, want ze zijn niet in een hoek geschied.
 
-**[26:27]** Gelooft gij, koning Agrippa! in de profeten? — Ik weet dat gij gelooft! 
+**[26:27]** Gelooft gij, koning Agrippa! in de profeten? — Ik weet dat gij gelooft!
 
-**[26:28]**  En Agrippa zeide tot Paulus: Binnenkort overtuigt gij mij nog, om mij christen te maken!
+**[26:28]** En Agrippa zeide tot Paulus: Binnenkort overtuigt gij mij nog, om mij christen te maken!
 
 **[26:29]** En Paulus zeide: God gave dat in korten of langen tijd niet alleen gij, maar ook allen die mij heden hooren, zoodanig werdt als ik ben, deze banden uitgezonderd!
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** en terzijde gegaan zijnde, spraken zij tot malkander zeggende: Deze mensch doet niets dat den dood of banden verdient.
 
-**[26:32]** En Agrippa zeide tot Festus: Deze mensch kon losgelaten worden, als hij zich niet op den keizer had beroepen.  
+**[26:32]** En Agrippa zeide tot Festus: Deze mensch kon losgelaten worden, als hij zich niet op den keizer had beroepen.
 
 ### Chapter 27
 
@@ -57914,9 +57914,9 @@
 
 **[27:12]** Dewijl nu de haven ongeschikt was om er te overwinteren, vonden de meesten het geraden om vandaar weg te varen, of zij misschien konden aankomen en overwinteren te Fenix, een haven van Kreta, naar het zuidwesten en noordwesten gelegen.
 
-**[27:13]** Toen er nu een zachte zuidenwind begon te waaien en zij meenden dat zij hun doel bereikt hadden, lichtten zij het anker en zeilden langs Kreta, dicht onder de zeekust. 
+**[27:13]** Toen er nu een zachte zuidenwind begon te waaien en zij meenden dat zij hun doel bereikt hadden, lichtten zij het anker en zeilden langs Kreta, dicht onder de zeekust.
 
-**[27:14]**  Maar niet lang daarna sloeg er van dat eiland een stormwind neer, namelijk een noord–oostenwind.
+**[27:14]** Maar niet lang daarna sloeg er van dat eiland een stormwind neer, namelijk een noord–oostenwind.
 
 **[27:15]** En daar het schip werd meegesleept en aan den wind geen wederstand kon bieden, gaven wij het op en dreven weg.
 
@@ -57964,9 +57964,9 @@
 
 **[27:37]** Wij waren nu in het schip in het geheel tweehonderd zes en zeventig zielen sterk.
 
-**[27:38]** En nadat zij van spijze verzadigd waren, ontlastten zij het schip, door het koren in zee te werpen. 
+**[27:38]** En nadat zij van spijze verzadigd waren, ontlastten zij het schip, door het koren in zee te werpen.
 
-**[27:39]**  En toen het dag geworden was, kenden zij het land niet, maar zij bemerkten een zekeren inham die een oever had, waartegen zij, indien het mogelijk was, het schip zochten aan te zetten.
+**[27:39]** En toen het dag geworden was, kenden zij het land niet, maar zij bemerkten een zekeren inham die een oever had, waartegen zij, indien het mogelijk was, het schip zochten aan te zetten.
 
 **[27:40]** En zij kapten de ankers en lieten die aan de zee over, tegelijk de roerbanden losmakende; en zij haalden het razeil op naar den wind en hielden op den oever aan.
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** Maar de hoofdman, die Paulus wilde behouden, belette hun dit, en gebood dengenen die zwemmen konden, zich het eerst overboord te werpen, en aan wal te komen.
 
-**[27:44]** En de overigen, sommigen op planken, en anderen op stukken van het schip. En zoo geschiedde het dat zij allen behouden aan den wal kwamen.  
+**[27:44]** En de overigen, sommigen op planken, en anderen op stukken van het schip. En zoo geschiedde het dat zij allen behouden aan den wal kwamen.
 
 ### Chapter 28
 
@@ -57990,17 +57990,17 @@
 
 **[28:5]** Hij dan schudde het beest af in het vuur en leed geen kwaad.
 
-**[28:6]** En zij verwachtten dat hij zou opzwellen of terstond, dood nedervallen; maar toen zij, na lang wachten, zagen dat hem geen kwaad overkwam, veranderden zij van gedachte en zeiden dat hij een god was. 
+**[28:6]** En zij verwachtten dat hij zou opzwellen of terstond, dood nedervallen; maar toen zij, na lang wachten, zagen dat hem geen kwaad overkwam, veranderden zij van gedachte en zeiden dat hij een god was.
 
-**[28:7]**  In den omtrek nu van die plaats had de voornaamste van het eiland, met name Publius, een landgoed; en deze ontving ons, en herbergde ons vriendelijk drie dagen lang.
+**[28:7]** In den omtrek nu van die plaats had de voornaamste van het eiland, met name Publius, een landgoed; en deze ontving ons, en herbergde ons vriendelijk drie dagen lang.
 
 **[28:8]** En het geschiedde dat de vader van Publius met de koorts en dissenterie ziek lag; en Paulus ging tot hem, en gebeden hebbende leide hij hem de handen op en genas hem.
 
 **[28:9]** Toen dit nu geschied was, kwamen ook de andere kranken uit het eiland en werden genezen.
 
-**[28:10]** En zij bewezen ons veel eer, en toen wij wegvoeren, bezorgden zij ons wat wij van noode hadden. 
+**[28:10]** En zij bewezen ons veel eer, en toen wij wegvoeren, bezorgden zij ons wat wij van noode hadden.
 
-**[28:11]**  Na drie maanden nu zeilden wij heen in een schip van Alexandrië, dat op het eiland had overwinterd en de Dioscuren tot teeken had.
+**[28:11]** Na drie maanden nu zeilden wij heen in een schip van Alexandrië, dat op het eiland had overwinterd en de Dioscuren tot teeken had.
 
 **[28:12]** En wij leiden te Syrakuse aan en bleven daar drie dagen.
 
@@ -58008,9 +58008,9 @@
 
 **[28:14]** waar wij broeders vonden en verzocht werden zeven dagen bij hen te blijven; en alzoo kwamen wij naar Rome.
 
-**[28:15]** En vandaar kwamen de broeders, die van ons gehoord hadden, ons te gemoet tot aan Appiusmarkt en Drie Herbergen; en toen Paulus hen gezien had, dankte hij God en greep moed. 
+**[28:15]** En vandaar kwamen de broeders, die van ons gehoord hadden, ons te gemoet tot aan Appiusmarkt en Drie Herbergen; en toen Paulus hen gezien had, dankte hij God en greep moed.
 
-**[28:16]**  Toen wij nu te Rome gekomen waren, werd het aan Paulus toegelaten op zich zelven te wonen, met den soldaat die hem bewaarde.
+**[28:16]** Toen wij nu te Rome gekomen waren, werd het aan Paulus toegelaten op zich zelven te wonen, met den soldaat die hem bewaarde.
 
 **[28:17]** En het geschiedde na drie dagen dat hij de voornaamste Joden samenriep; en als zij vergaderd waren zeide hij tot hen: Mannen broeders! ik, die niets gedaan heb tegen het volk of de vaderlijke gewoonten, ben gebonden uit Jerusalem overgeleverd in de handen der Romeinen,
 
@@ -58036,11 +58036,11 @@
 
 **[28:28]** U zij dan bekend dat deze behoudenis van God tot de heidenen is gezonden, en die zullen hooren!
 
-**[28:29]** En als hij dit gezegd had, gingen de Joden weg, onder malkander veel twist hebbende. 
+**[28:29]** En als hij dit gezegd had, gingen de Joden weg, onder malkander veel twist hebbende.
 
-**[28:30]**  En Paulus bleef twee volle jaren in een eigen gehuurde woning en hij ontving allen die tot hem kwamen.
+**[28:30]** En Paulus bleef twee volle jaren in een eigen gehuurde woning en hij ontving allen die tot hem kwamen.
 
-**[28:31]** En hij predikte het koninkrijk Gods en leerde de dingen aangaande den Heere Jezus Christus met alle vrijmoedigheid, onverhinderd.   
+**[28:31]** En hij predikte het koninkrijk Gods en leerde de dingen aangaande den Heere Jezus Christus met alle vrijmoedigheid, onverhinderd.
 
 ## Romans
 
@@ -58058,9 +58058,9 @@
 
 **[1:6]** onder wie ook gijlieden zijt, geroepenen van Jezus Christus!
 
-**[1:7]** Aan allen die in Rome zijt, beminden Gods, geroepen heiligen! Genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus! 
+**[1:7]** Aan allen die in Rome zijt, beminden Gods, geroepen heiligen! Genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus!
 
-**[1:8]**  Vooreerst dan dank ik mijn God, door Jezus Christus, over u allen, omdat uw geloof bekend gemaakt wordt in de geheele wereld.
+**[1:8]** Vooreerst dan dank ik mijn God, door Jezus Christus, over u allen, omdat uw geloof bekend gemaakt wordt in de geheele wereld.
 
 **[1:9]** Want God is mijn getuige wien ik in mijn geest dien, in het Evangelie zijns Zoons, hoe ik onophoudelijk van u melding maak,
 
@@ -58074,13 +58074,13 @@
 
 **[1:14]** Aan Grieken toch, zoowel als aan Barbaren, aan verstandigen zoowel als aan onkundigen, ben ik schuldig;
 
-**[1:15]** zoodat ik voor mij ook bereidwillig ben om aan ulieden, die in Rome zijt, het Evangelie te verkondigen. 
+**[1:15]** zoodat ik voor mij ook bereidwillig ben om aan ulieden, die in Rome zijt, het Evangelie te verkondigen.
 
-**[1:16]**  Want ik schaam mij niet over het Evangelie, omdat het een kracht Gods is tot behoudenis voor een ieder die gelooft; den Jood eerst, en ook den Griek.
+**[1:16]** Want ik schaam mij niet over het Evangelie, omdat het een kracht Gods is tot behoudenis voor een ieder die gelooft; den Jood eerst, en ook den Griek.
 
-**[1:17]** Want Gods rechtvaardigheid wordt daarin geopenbaard uit geloof tot geloof, zooals geschreven is: de rechtvaardige zal uit geloof leven. 
+**[1:17]** Want Gods rechtvaardigheid wordt daarin geopenbaard uit geloof tot geloof, zooals geschreven is: de rechtvaardige zal uit geloof leven.
 
-**[1:18]**  Want Gods gramschap openbaart zich van den hemel over alle goddeloosheid en onrechtvaardigheid van de menschen die de waarheid in onrechtvaardigheid onderdrukken;
+**[1:18]** Want Gods gramschap openbaart zich van den hemel over alle goddeloosheid en onrechtvaardigheid van de menschen die de waarheid in onrechtvaardigheid onderdrukken;
 
 **[1:19]** omdat hetgeen van God kenbaar is, onder hen bekend is, want God heeft het hun bekend gemaakt.
 
@@ -58108,7 +58108,7 @@
 
 **[1:31]** onverstandigen, trouweloozen, zonder liefde, onbarmhartigen,
 
-**[1:32]** die, — ofschoon zij Gods oordeel kennen, dat die zulke dingen doen doodschuldig zijn, — niet alleen die dingen doen, maar zelfs hun goedkeuring geven aan die ze doen.  
+**[1:32]** die, — ofschoon zij Gods oordeel kennen, dat die zulke dingen doen doodschuldig zijn, — niet alleen die dingen doen, maar zelfs hun goedkeuring geven aan die ze doen.
 
 ### Chapter 2
 
@@ -58130,9 +58130,9 @@
 
 **[2:9]** Verdrukking en benauwdheid over alle ziel des mensch en die het kwade doet, eerst van den Jood en ook van den Griek;
 
-**[2:10]** maar glorie en eer en vrede over elk die het goede doet, eerst den Jood en ook den Griek. 
+**[2:10]** maar glorie en eer en vrede over elk die het goede doet, eerst den Jood en ook den Griek.
 
-**[2:11]**  Want er is geen aanzien des persoons bij God.
+**[2:11]** Want er is geen aanzien des persoons bij God.
 
 **[2:12]** Want zoo velen als er zonder wet gezondigd hebben zullen ook zonder wet verloren gaan, en zoovelen als er onder de wet gezondigd hebben zullen door de wet geoordeeld worden;
 
@@ -58142,9 +58142,9 @@
 
 **[2:15]** die toonen dat het werk der wet in hun harten is geschreven, terwijl hun konsciëntie mede getuigenis geeft en hun onderlinge redeneeringen hen beschuldigen of ook vrijspreken,
 
-**[2:16]** in den dag dat God de geheime dingen der menschen zal oordeelen naar mijn Evangelie, door Jezus Christus. 
+**[2:16]** in den dag dat God de geheime dingen der menschen zal oordeelen naar mijn Evangelie, door Jezus Christus.
 
-**[2:17]**  Indien gij dan nu den naam draagt van Jood, en steunt op de wet, en roemt in God,
+**[2:17]** Indien gij dan nu den naam draagt van Jood, en steunt op de wet, en roemt in God,
 
 **[2:18]** en kent zijn wil, en goedkeurt wat nuttig is, omdat gij onderwezen zijt uit de wet,
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** Want niet hij is Jood die dit voor het uitwendige is, en niet dat is besnijdenis die uitwendig, in het vleesch is;
 
-**[2:29]** maar Jood is hij die dat in het binnenste is, en besnijdenis is die des harten, in den geest, niet naar de letter. Diens roem is niet uit menschen maar uit God.  
+**[2:29]** maar Jood is hij die dat in het binnenste is, en besnijdenis is die des harten, in den geest, niet naar de letter. Diens roem is niet uit menschen maar uit God.
 
 ### Chapter 3
 
@@ -58186,9 +58186,9 @@
 
 **[3:7]** Maar als de waarheid Gods door mijn leugen overvloedig is geworden tot zijn glorie, wat word ik dan nog als zondaar geoordeeld?
 
-**[3:8]** En waarom zullen wij niet het kwade doen opdat daaruit het goede zou voortkomen? — zooals sommigen lasteren en zeggen dat wij leeren— wier veroordeeling rechtvaardig is. 
+**[3:8]** En waarom zullen wij niet het kwade doen opdat daaruit het goede zou voortkomen? — zooals sommigen lasteren en zeggen dat wij leeren— wier veroordeeling rechtvaardig is.
 
-**[3:9]**  Wat dan? Hebben wij iets vooruit bij de andere volken? — In het geheel niet! want wij hebben vooraf Joden en Grieken beschuldigd dat zij allen onder de zonde zijn,
+**[3:9]** Wat dan? Hebben wij iets vooruit bij de andere volken? — In het geheel niet! want wij hebben vooraf Joden en Grieken beschuldigd dat zij allen onder de zonde zijn,
 
 **[3:10]** zooals er geschreven is: er is geen rechtvaardige, niet één;
 
@@ -58206,9 +58206,9 @@
 
 **[3:17]** en den weg des vredes kennen zij niet;
 
-**[3:18]** er is geen vreeze Gods voor hun oogen. 
+**[3:18]** er is geen vreeze Gods voor hun oogen.
 
-**[3:19]**  Wij weten nu dat de wet alles wat zij zegt, tot degenen spreekt die onder de wet zijn, opdat alle mond gestopt en de gansche wereld voor God strafschuldig zij.
+**[3:19]** Wij weten nu dat de wet alles wat zij zegt, tot degenen spreekt die onder de wet zijn, opdat alle mond gestopt en de gansche wereld voor God strafschuldig zij.
 
 **[3:20]** Daarom zal uit werken der wet geen mensch voor Hem worden gerechtvaardigd, want door de wet is er kennis van zonde.
 
@@ -58222,9 +58222,9 @@
 
 **[3:25]** dien God heeft voorbestemd tot een verzoening in zijn bloed, door het geloof, tot betooning van zijn rechtvaardigheid, door het voorbijzien der zonden die onder de verdraagzaamheid Gods vroeger geschied zijn;
 
-**[3:26]** tot betooning zijner rechtvaardigheid in dezen tegenwoordigen tijd, opdat Hij rechtvaardig zij en de rechtvaardigmaker van hem die uit het geloof van Jezus is. 
+**[3:26]** tot betooning zijner rechtvaardigheid in dezen tegenwoordigen tijd, opdat Hij rechtvaardig zij en de rechtvaardigmaker van hem die uit het geloof van Jezus is.
 
-**[3:27]**  Waar is dan de roem? — Die is uitgesloten. — Door welke wet? — Van de werken? — Neen, maar door een wet des geloofs.
+**[3:27]** Waar is dan de roem? — Die is uitgesloten. — Door welke wet? — Van de werken? — Neen, maar door een wet des geloofs.
 
 **[3:28]** Want wij besluiten dat een mensch door het geloof wordt gerechtvaardigd, zonder werken der wet.
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** indien er althans maar één God is, die de besnijdenis zal rechtvaardigen uit het geloof en de onbesnedenheid door het geloof.
 
-**[3:31]** Vernietigen wij dan de wet door het geloof? — In het geheel niet, maar wij bevestigen de wet.  
+**[3:31]** Vernietigen wij dan de wet door het geloof? — In het geheel niet, maar wij bevestigen de wet.
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** maar ook om onzentwille, aan wie het zal toegerekend worden, die gelooven in Hem die Jezus onzen Heere uit de dooden heeft opgewekt;
 
-**[4:25]** die is overgeleverd om onze overtredingen en opgewekt om onze rechtvaardigmaking.  
+**[4:25]** die is overgeleverd om onze overtredingen en opgewekt om onze rechtvaardigmaking.
 
 ### Chapter 5
 
@@ -58308,9 +58308,9 @@
 
 **[5:10]** Want indien wij, toen wij vijanden waren, met God zijn verzoend door den dood zijns Zoons, dan zullen wij veelmeer, nu wij verzoend zijn, behouden worden in zijn leven.
 
-**[5:11]** En dit niet alleen, maar wij zijn ook roemende in God door onzen Heere Jezus Christus, door wien wij nu de verzoening bekomen hebben. 
+**[5:11]** En dit niet alleen, maar wij zijn ook roemende in God door onzen Heere Jezus Christus, door wien wij nu de verzoening bekomen hebben.
 
-**[5:12]**  Daarom, gelijk door één mensch de zonde tot de wereld is ingekomen, en door de zonde de dood, en alzoo tot alle menschen de dood is doorgegaan, omdat allen gezondigd hebben …
+**[5:12]** Daarom, gelijk door één mensch de zonde tot de wereld is ingekomen, en door de zonde de dood, en alzoo tot alle menschen de dood is doorgegaan, omdat allen gezondigd hebben …
 
 **[5:13]** want tot op de wet was er wel zonde in de wereld, maar zonde wordt niet toegerekend als er geen wet is.
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** En de wet is er nog bijgekomen, opdat de overtreding zou vermeerderen. Doch waar de zonde vermeerderde, is de genade meer overvloedig geworden,
 
-**[5:21]** opdat zooals de zonde heerschte in den dood, alzoo ook de genade heerschen zou door rechtvaardigheid tot eeuwig leven, door Jezus Christus onzen Heere.  
+**[5:21]** opdat zooals de zonde heerschte in den dood, alzoo ook de genade heerschen zou door rechtvaardigheid tot eeuwig leven, door Jezus Christus onzen Heere.
 
 ### Chapter 6
 
@@ -58352,15 +58352,15 @@
 
 **[6:10]** want wat Hij gestorven is, dat is Hij eens voor altijd der zonde gestorven, maar wat Hij leeft, dat leeft Hij Gode.
 
-**[6:11]** Alzoo ook gijlieden, rekent u zelven dood te zijn voor de zonde, maar levende voor God in Christus Jezus. 
+**[6:11]** Alzoo ook gijlieden, rekent u zelven dood te zijn voor de zonde, maar levende voor God in Christus Jezus.
 
-**[6:12]**  Dat dan de zonde niet heersche in uw sterfelijk lichaam, om te gehoorzamen aan zijn lusten,
+**[6:12]** Dat dan de zonde niet heersche in uw sterfelijk lichaam, om te gehoorzamen aan zijn lusten,
 
 **[6:13]** en stelt uw leden niet tot wapens der onrechtvaardigheid voor de zonde, maar stelt u zelven Gode als levenden uit de dooden, en uw leden tot wapens der rechtvaardigheid voor God;
 
-**[6:14]** want de zonde zal over u niet heerschen omdat gij niet zijt onder een wet maar onder genade. 
+**[6:14]** want de zonde zal over u niet heerschen omdat gij niet zijt onder een wet maar onder genade.
 
-**[6:15]**  Wat dan? — Zullen wij zondigen, omdat wij niet onder een wet zijn, maar onder genade? — In het geheel niet!
+**[6:15]** Wat dan? — Zullen wij zondigen, omdat wij niet onder een wet zijn, maar onder genade? — In het geheel niet!
 
 **[6:16]** Weet gij niet dat, wien gij u zelven stelt tot dienaren ter gehoorzaamheid, gij dienaars zijt desgenen dien gij gehoorzaamt, of van de zonde tot den dood, of van de gehoorzaamheid tot rechtvaardigheid?
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** Maar nu vrijgemaakt zijnde van de zonde en Gode dienstbaar geworden, hebt gij uw vrucht tot heiligmaking en het einde is het eeuwige leven;
 
-**[6:23]** want het loon der zonde is de dood, maar de gifte van Gods genade is het eeuwig leven in Christus Jezus onzen Heere.  
+**[6:23]** want het loon der zonde is de dood, maar de gifte van Gods genade is het eeuwig leven in Christus Jezus onzen Heere.
 
 ### Chapter 7
 
@@ -58390,9 +58390,9 @@
 
 **[7:5]** Want toen wij in het vleesch waren, werkten de lusten der zonden, die door de wet zijn, in onze leden om den dood vrucht te dragen;
 
-**[7:6]** maar nu zijn wij ontslagen van de wet, omdat wij gestorven zijn aan datgene waarin wij gebonden waren, zoodat wij dienen in nieuwheid des geestes en niet in oudheid der letter. 
+**[7:6]** maar nu zijn wij ontslagen van de wet, omdat wij gestorven zijn aan datgene waarin wij gebonden waren, zoodat wij dienen in nieuwheid des geestes en niet in oudheid der letter.
 
-**[7:7]**  Wat zullen wij dan zeggen? — Is de wet zonde? — In het geheel niet! — Maar ik kende de zonde niet dan door de wet. Want ik had ook van de begeerlijkheid niet geweten, als de wet niet zeide: gij zult niet begeeren!
+**[7:7]** Wat zullen wij dan zeggen? — Is de wet zonde? — In het geheel niet! — Maar ik kende de zonde niet dan door de wet. Want ik had ook van de begeerlijkheid niet geweten, als de wet niet zeide: gij zult niet begeeren!
 
 **[7:8]** Maar door het gebod aanleiding nemende, heeft de zonde in mij alle begeerlijkheid gewerkt; want zonder wet is de zonde dood.
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** Ellendig mensch als ik ben! wie zal mij verlossen uit het lichaam van dezen dood?
 
-**[7:25]** Gode zij dank door Jezus Christus, onzen Heere!Zoo dan, ik zelf ben naar het gemoed wel dienstbaar aan de wet Gods, maar naar het vleesch aan de wet der zonde.  
+**[7:25]** Gode zij dank door Jezus Christus, onzen Heere! Zoo dan, ik zelf ben naar het gemoed wel dienstbaar aan de wet Gods, maar naar het vleesch aan de wet der zonde.
 
 ### Chapter 8
 
@@ -58452,9 +58452,9 @@
 
 **[8:10]** Maar als Christus in ulieden is, dan is wel het lichaam dood vanwege de zonde, maar de geest is leven vanwege de rechtvaardigheid.
 
-**[8:11]** En indien de Geest in ulieden woont van Hem die Jezus uit de dooden verwekt heeft, dan zal Hij die Christus Jezus uit de dooden verwekt heeft ook uw sterfelijke lichamen levend maken door zijn in u wonenden Geest. 
+**[8:11]** En indien de Geest in ulieden woont van Hem die Jezus uit de dooden verwekt heeft, dan zal Hij die Christus Jezus uit de dooden verwekt heeft ook uw sterfelijke lichamen levend maken door zijn in u wonenden Geest.
 
-**[8:12]**  Zoo dan, broeders! wij zijn niet schuldig aan het vleesch om naar het vleesch te leven;
+**[8:12]** Zoo dan, broeders! wij zijn niet schuldig aan het vleesch om naar het vleesch te leven;
 
 **[8:13]** want als gij naar het vleesch leeft dan moet gij sterven, maar als gij door den geest de werkingen des lichaams doodt, dan zult gij leven;
 
@@ -58464,9 +58464,9 @@
 
 **[8:16]** Die zelfde Geest getuigt met onzen geest dat wij kinderen Gods zijn;
 
-**[8:17]** en indien kinderen, dan ook erfgenamen, zoowel erfgenamen van God als medeerfgenamen van Christus, indien wij althans mede lijden, opdat wij ook mede de glorie ontvangen. 
+**[8:17]** en indien kinderen, dan ook erfgenamen, zoowel erfgenamen van God als medeerfgenamen van Christus, indien wij althans mede lijden, opdat wij ook mede de glorie ontvangen.
 
-**[8:18]**  Want ik reken dat de smarten van den tegenwoordigen tijd niet te vergelijken zijn met de glorie die over ons zal geopenbaard worden.
+**[8:18]** Want ik reken dat de smarten van den tegenwoordigen tijd niet te vergelijken zijn met de glorie die over ons zal geopenbaard worden.
 
 **[8:19]** Want het reikhalzend verlangen der schepping verwacht de openbaarwording der zonen Gods.
 
@@ -58480,9 +58480,9 @@
 
 **[8:24]** In hope toch zijn wij behouden; maar een hope die gezien wordt is geen hope, want als iemand iets ziet, wat hoopt hij dan?
 
-**[8:25]** maar als wij hopen op hetgeen wij niet zien, dan verwachten wij het met volharding. 
+**[8:25]** maar als wij hopen op hetgeen wij niet zien, dan verwachten wij het met volharding.
 
-**[8:26]**  En desgelijks komt ook de Geest mede te hulp aan onze zwakheid; want wat wij bidden zullen zooals het zijn moet, weten wij niet, maar de Geest zelf treedt voor ons in met onuitsprekelijke verzuchtingen;
+**[8:26]** En desgelijks komt ook de Geest mede te hulp aan onze zwakheid; want wat wij bidden zullen zooals het zijn moet, weten wij niet, maar de Geest zelf treedt voor ons in met onuitsprekelijke verzuchtingen;
 
 **[8:27]** en Hij die de harten doorzoekt weet wat de meening des Geestes is, omdat Hij naar den wil van God intreedt voor de heiligen.
 
@@ -58490,9 +58490,9 @@
 
 **[8:29]** want die Hij te voren gekend heeft die heeft Hij ook te voren verordend tot gelijkvormigen aan het beeld van zijn Zoon, opdat deze zou zijn de Eerstgeborene onder veel broederen;
 
-**[8:30]** en die Hij te voren verordend heeft die heeft Hij ook geroepen, en die Hij geroepen heeft die heeft Hij ook gerechtvaardigd, en die Hij gerechtvaardigd heeft die heeft Hij ook de glorie gegeven. 
+**[8:30]** en die Hij te voren verordend heeft die heeft Hij ook geroepen, en die Hij geroepen heeft die heeft Hij ook gerechtvaardigd, en die Hij gerechtvaardigd heeft die heeft Hij ook de glorie gegeven.
 
-**[8:31]**  Wat zullen we dan hierop zeggen? — Als God vóór ons is, wie is dan tegen ons?
+**[8:31]** Wat zullen we dan hierop zeggen? — Als God vóór ons is, wie is dan tegen ons?
 
 **[8:32]** Hij toch, die zijn eigen Zoon niet gespaard heeft, maar dien voor ons allen heeft overgegeven, hoe? zal Hij ons met Hem niet alles schenken?
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** Want ik ben verzekerd dat geen dood of leven, geen engelen of overheden, geen tegenwoordige of toekomende dingen, geen machten,
 
-**[8:39]** geen hoogte of diepte, noch eenig ander schepsel, ons zal kunnen scheiden van de liefde Gods, die is in Christus Jezus, onzen Heere.  
+**[8:39]** geen hoogte of diepte, noch eenig ander schepsel, ons zal kunnen scheiden van de liefde Gods, die is in Christus Jezus, onzen Heere.
 
 ### Chapter 9
 
@@ -58518,11 +58518,11 @@
 
 **[9:3]** Want ik zou wenschen zelf een vervloeking te zijn van Christus, ten behoeve van mijn broederen die naar het vleesch mijn volk zijn,
 
-**[9:4]** die Israelieten zijn, van wie het zoonschap is, en de glorie, en de verbonden, en de wetgeving, en de eeredienst, en de beloften, 
+**[9:4]** die Israelieten zijn, van wie het zoonschap is, en de glorie, en de verbonden, en de wetgeving, en de eeredienst, en de beloften,
 
-**[9:5]**  Van wie de vaderen zijn, en uit wie de Christus is, wat het vleesch betreft, die God is boven allen, geprezen tot in eeuwigheid. Amen. 
+**[9:5]** Van wie de vaderen zijn, en uit wie de Christus is, wat het vleesch betreft, die God is boven allen, geprezen tot in eeuwigheid. Amen.
 
-**[9:6]**  Doch niet zoo, alsof Gods woord is vervallen; want niet allen zijn Israël die uit Israël zijn.
+**[9:6]** Doch niet zoo, alsof Gods woord is vervallen; want niet allen zijn Israël die uit Israël zijn.
 
 **[9:7]** Ook zijn zij niet allen kinderen omdat zij Abrahams nakomelingen zijn, maar: in Isaäk zal uw nakomelingschap genoemd worden;
 
@@ -58536,9 +58536,9 @@
 
 **[9:12]** toen werd tot haar gezegd: De oudere zal den jongere dienen,
 
-**[9:13]** zooals er geschreven is: Jakob heb Ik bemind, doch Esau gehaat. 
+**[9:13]** zooals er geschreven is: Jakob heb Ik bemind, doch Esau gehaat.
 
-**[9:14]**  Wat zullen wij dan zeggen? Er is toch geen onrechtvaardigheid bij God? In het geheel niet!
+**[9:14]** Wat zullen wij dan zeggen? Er is toch geen onrechtvaardigheid bij God? In het geheel niet!
 
 **[9:15]** Want tot Mozes zegt Hij: Ik zal Mij ontfermen over wien Ik Mij ontferm, en Ik zal medelijden hebben over wien Ik medelijden heb.
 
@@ -58546,9 +58546,9 @@
 
 **[9:17]** Want de Schrifture zegt tot Farao: Tot dit einde heb Ik u verwekt, opdat Ik in u mijn kracht zou betoonen, en opdat mijn Naam zou bekend worden over de gansche aarde.
 
-**[9:18]** Zoo ontfermt Hij zich dan over wien Hij wil, en Hij verhardt dien Hij wil. 
+**[9:18]** Zoo ontfermt Hij zich dan over wien Hij wil, en Hij verhardt dien Hij wil.
 
-**[9:19]**  Gij zult dan tot mij zeggen: Wat heeft Hij dan nog te verwijten? wie toch heeft zijn wil tegengestaan?
+**[9:19]** Gij zult dan tot mij zeggen: Wat heeft Hij dan nog te verwijten? wie toch heeft zijn wil tegengestaan?
 
 **[9:20]** O mensch, wie zijt gij toch, die tegen God het woord opneemt? Zal dan het maaksel tot den maker zeggen: Waarom hebt gij mij alzoo gemaakt?
 
@@ -58568,15 +58568,15 @@
 
 **[9:28]** Want de Heere zal zijn woord op aarde volbrengen en verhaast dat in rechtvaardigheid, dat voleindigende en verhaastende.
 
-**[9:29]** En zooals Jesaja vroeger gezegd had: Indien niet de Heere der legermachten ons een zaad had overgelaten, dan zouden wij als Sodom zijn geworden, en aan Gomorra zijn gelijk gemaakt. 
+**[9:29]** En zooals Jesaja vroeger gezegd had: Indien niet de Heere der legermachten ons een zaad had overgelaten, dan zouden wij als Sodom zijn geworden, en aan Gomorra zijn gelijk gemaakt.
 
-**[9:30]**  Wat zullen wij dan zeggen? — Dat de volken die de rechtvaardigheid niet zochten de rechtvaardigheid verkregen hebben; maar een rechtvaardigheid die uit het geloof is;
+**[9:30]** Wat zullen wij dan zeggen? — Dat de volken die de rechtvaardigheid niet zochten de rechtvaardigheid verkregen hebben; maar een rechtvaardigheid die uit het geloof is;
 
 **[9:31]** doch Israël, dat een wet der rechtvaardigheid zocht, is niet gekomen tot die wet.
 
 **[9:32]** Waarom? — Omdat het die zocht niet uit geloof maar als uit werken. Zij hebben gestooten aan den steen des aanstoots,
 
-**[9:33]** zooals er geschreven is: Zie, Ik leg in Sion een steen des aanstoots en een rots der ergernis, en die op Hem vertrouwt zal niet beschaamd worden.  
+**[9:33]** zooals er geschreven is: Zie, Ik leg in Sion een steen des aanstoots en een rots der ergernis, en die op Hem vertrouwt zal niet beschaamd worden.
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** En Jesaja verstout zich en zegt: Ik ben gevonden van die Mij niet zochten; Ik ben openbaar geworden aan die niet naar Mij vroegen.
 
-**[10:21]** Maar tot Israël zegt hij: Den ganschen dag heb Ik mijn handen uitgestrekt tot een ongehoorzaam en tegensprekend volk.  
+**[10:21]** Maar tot Israël zegt hij: Den ganschen dag heb Ik mijn handen uitgestrekt tot een ongehoorzaam en tegensprekend volk.
 
 ### Chapter 11
 
@@ -58642,9 +58642,9 @@
 
 **[11:9]** En David zegt: Hun tafel worde hun tot een strik en tot een val, en tot een ergernis, en tot een vergelding;
 
-**[11:10]** laat hun oogen verduisterd worden om niet te zien en verkrom hun rug ten allen tijd. 
+**[11:10]** laat hun oogen verduisterd worden om niet te zien en verkrom hun rug ten allen tijd.
 
-**[11:11]**  Ik zeg dan: Zij hebben toch niet gestruikeld opdat zij vallen zouden? In het geheel niet. Maar door hun overtreding is de behoudenis den volken overkomen, om hen tot jaloezie op te wekken.
+**[11:11]** Ik zeg dan: Zij hebben toch niet gestruikeld opdat zij vallen zouden? In het geheel niet. Maar door hun overtreding is de behoudenis den volken overkomen, om hen tot jaloezie op te wekken.
 
 **[11:12]** Indien nu hun overtreding de rijkdom der wereld is, en hun verlies de rijkdom der volken, hoeveel te meer zal het dan hun volheid zijn!
 
@@ -58670,9 +58670,9 @@
 
 **[11:23]** Maar ook zij, als zij niet blijven bij het ongeloof, zullen ingeënt worden, want God is machtig om hen weder in te enten.
 
-**[11:24]** Want als gij zijt afgehouwen van den olijfboom die van nature wild was, en ingeënt tegen nature op den tammen olijfboom, hoeveel te meer zullen zij, die natuurlijke takken zijn, worden ingeënt op hun eigen olijfboom? 
+**[11:24]** Want als gij zijt afgehouwen van den olijfboom die van nature wild was, en ingeënt tegen nature op den tammen olijfboom, hoeveel te meer zullen zij, die natuurlijke takken zijn, worden ingeënt op hun eigen olijfboom?
 
-**[11:25]**  Want ik wil niet, broeders, dat deze verborgenheid u onbekend zij, opdat gij niet wijs zijt bij u zelven: dat er een verharding is over een gedeelte van Israël, totdat de volheid der volken zal zijn ingegaan,
+**[11:25]** Want ik wil niet, broeders, dat deze verborgenheid u onbekend zij, opdat gij niet wijs zijt bij u zelven: dat er een verharding is over een gedeelte van Israël, totdat de volheid der volken zal zijn ingegaan,
 
 **[11:26]** en alzoo zal geheel Israël behouden worden, zooals er geschreven is: Uit Sion zal de Verlosser komen; Hij zal de goddeloosheden van Jakob wegdoen,
 
@@ -58686,23 +58686,23 @@
 
 **[11:31]** alzoo ook zijn dezen nu ongehoorzaam geworden door de barmhartigheid aan u, opdat ook zij nu barmhartigheid zouden ontvangen.
 
-**[11:32]** Want God heeft allen besloten tot ongehoorzaamheid opdat Hij allen zou barmhartig zijn. 
+**[11:32]** Want God heeft allen besloten tot ongehoorzaamheid opdat Hij allen zou barmhartig zijn.
 
-**[11:33]**  O diepte van rijkdom en wijsheid en kennisse Gods! Hoe ondoorzoekelijk zijn toch zijn oordeelen, en ondoorgrondelijk zijn wegen!
+**[11:33]** O diepte van rijkdom en wijsheid en kennisse Gods! Hoe ondoorzoekelijk zijn toch zijn oordeelen, en ondoorgrondelijk zijn wegen!
 
 **[11:34]** Wie toch heeft Gods verstand gekend? Of wie is zijn raadgever geweest?
 
 **[11:35]** Of wie heeft Hem eerst gegeven, zoodat het Hem zal wedergegeven worden?
 
-**[11:36]** Want uit Hem, en door Hem, en tot Hem zijn alle dingen! Hem de glorie tot in eeuwigheid! Amen.  
+**[11:36]** Want uit Hem, en door Hem, en tot Hem zijn alle dingen! Hem de glorie tot in eeuwigheid! Amen.
 
 ### Chapter 12
 
 **[12:1]** Ik vermaan u dan, broeders, bij de ontfermingen Gods, om uw lichamen te stellen tot een levende, heilige, Gode welgevallige offerande; dat zal zijn uw redelijke godsdienst.
 
-**[12:2]** En wordt niet gelijkvormig aan deze eeuw, maar wordt veranderd door de vernieuwing des gemoeds, om te beproeven welke de wil van God zij, wat goed en welgevallig en volmaakt zij. 
+**[12:2]** En wordt niet gelijkvormig aan deze eeuw, maar wordt veranderd door de vernieuwing des gemoeds, om te beproeven welke de wil van God zij, wat goed en welgevallig en volmaakt zij.
 
-**[12:3]**  Want door de genade die mij gegeven is, zeg ik aan elk die onder u is, om van zich zelven niet méér te denken dan hij moet denken, maar om gering te denken, naar de mate van geloof die God aan ieder gedeeld heeft.
+**[12:3]** Want door de genade die mij gegeven is, zeg ik aan elk die onder u is, om van zich zelven niet méér te denken dan hij moet denken, maar om gering te denken, naar de mate van geloof die God aan ieder gedeeld heeft.
 
 **[12:4]** Want gelijk wij één lichaam veel leden hebben, maar al die leden niet dezelfde werking hebben,
 
@@ -58712,9 +58712,9 @@
 
 **[12:7]** hetzij bediening, in het bedienen; hetzij die onderwijst, in de onderwijzing;
 
-**[12:8]** hetzij die vermaant, in de vermaning; die uitdeelt, in oprechtheid; die een bestuurder is, in ijver; die barmhartigheid doet, in blijdschap. 
+**[12:8]** hetzij die vermaant, in de vermaning; die uitdeelt, in oprechtheid; die een bestuurder is, in ijver; die barmhartigheid doet, in blijdschap.
 
-**[12:9]**  De liefde zij ongeveinsd. Zijt afkeerig van het kwade; hangt het goede aan.
+**[12:9]** De liefde zij ongeveinsd. Zijt afkeerig van het kwade; hangt het goede aan.
 
 **[12:10]** Zijt in de broederliefde jegens elkander liefderijk; gaat elkander voor in eere.
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** Maar als uw vijand honger heeft, geef hem dan te eten, als hij dorst heeft geef hem te drinken; want dit doende zult gij kolen van vuur op zijn hoofd stapelen.
 
-**[12:21]** Word niet overwonnen van het kwade, maar overwin gij het kwade met het goede.  
+**[12:21]** Word niet overwonnen van het kwade, maar overwin gij het kwade met het goede.
 
 ### Chapter 13
 
@@ -58752,23 +58752,23 @@
 
 **[13:5]** Dus is het noodig onderdanig te zijn, niet alleen om de straf, maar ook om de konsciëntie
 
-**[13:6]** Want daarom betaalt gij ook belastingen; want de oversten zijn dienaars van God, die gedurig op deze dingen letten. 
+**[13:6]** Want daarom betaalt gij ook belastingen; want de oversten zijn dienaars van God, die gedurig op deze dingen letten.
 
-**[13:7]**  Betaalt aan ieder wat gij schuldig zijt: belasting aan wien gij belasting, impost aan wien gij impost, vreeze aan wien gij vreeze, achting aan wien gij achting schuldig zijt.
+**[13:7]** Betaalt aan ieder wat gij schuldig zijt: belasting aan wien gij belasting, impost aan wien gij impost, vreeze aan wien gij vreeze, achting aan wien gij achting schuldig zijt.
 
 **[13:8]** Zijt aan niemand iets schuldig dan alleen een wederkeerige liefde, want die den ander bemint heeft de wet vervuld.
 
 **[13:9]** Want deze geboden: Gij zult niet echtbreken, gij zult niet doodslaan, gij zult niet stelen, gij zult geen valsch getuigenis geven, gij zult niet begeeren, en als er nog een ander gebod is, — in dit ééne woord zijn ze saamgevat, namelijk: Gij zult uw naaste beminnen als u zelven.
 
-**[13:10]** De liefde doet den naaste geen kwaad. Dus de vervulling der wet is de liefde. 
+**[13:10]** De liefde doet den naaste geen kwaad. Dus de vervulling der wet is de liefde.
 
-**[13:11]**  En dit te meer omdat gij den toestand kent, dat het hoog tijd is dat gij wakker wordt uit den slaap; want nu is de verlossing nader bij ons dan toen wij eerst geloofden.
+**[13:11]** En dit te meer omdat gij den toestand kent, dat het hoog tijd is dat gij wakker wordt uit den slaap; want nu is de verlossing nader bij ons dan toen wij eerst geloofden.
 
 **[13:12]** De nacht is voorbijgaande en de dag is nabij; laat ons dan afleggen de werken der duisternis en aandoen de wapenen des lichts.
 
 **[13:13]** Laat ons betamelijk wandelen, als in den dag; niet in overdadigheden en dronkenschappen, niet in wellusten en gemeenheden, niet in twist en jaloezie,
 
-**[13:14]** maar doet den Heere Jezus Christus aan, en zorgt niet voor het vleesch tot voldoening uwer lusten.  
+**[13:14]** maar doet den Heere Jezus Christus aan, en zorgt niet voor het vleesch tot voldoening uwer lusten.
 
 ### Chapter 14
 
@@ -58788,9 +58788,9 @@
 
 **[14:8]** Want als wij leven dan leven wij voor den Heere, en als wij sterven dan sterven wij voor den Heere. Hetzij dan dat wij leven, hetzij dat wij sterven, wij zijn des Heeren.
 
-**[14:9]** Want tot dien einde is Christus gestorven en leeft Hij, dat Hij zou heerschen over dooden en levenden. 
+**[14:9]** Want tot dien einde is Christus gestorven en leeft Hij, dat Hij zou heerschen over dooden en levenden.
 
-**[14:10]**  Gij dan, wat oordeelt gij uw broeder? Of ook gij, wat veracht gij uw broeder? Allen toch zullen wij gesteld worden voor den rechterstoel van God.
+**[14:10]** Gij dan, wat oordeelt gij uw broeder? Of ook gij, wat veracht gij uw broeder? Allen toch zullen wij gesteld worden voor den rechterstoel van God.
 
 **[14:11]** Want er is geschreven: Ik leef! zegt de Heere. Voor Mij zal alle knie buigen en alle tong zal God de glorie geven.
 
@@ -58806,9 +58806,9 @@
 
 **[14:17]** Want Gods koninkrijk is geen spijze en drank, maar rechtvaardigheid, en vrede, en blijdschap in den Heiligen Geest.
 
-**[14:18]** Want hij die in dezen aan Christus dienstbaar is, die is Gode aangenaam en bij de menschen geacht. 
+**[14:18]** Want hij die in dezen aan Christus dienstbaar is, die is Gode aangenaam en bij de menschen geacht.
 
-**[14:19]**  Laat ons dan najagen wat den vrede bevordert en den opbouw van elkander.
+**[14:19]** Laat ons dan najagen wat den vrede bevordert en den opbouw van elkander.
 
 **[14:20]** Verwoest niet het werk Gods om een spijze! Alle spijzen zijn toch rein, maar kwaad is het voor den mensch die eet tot een aanstoot.
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Het geloof dat gij hebt, heb dit bij u zelven voor Gods aangezicht. Gelukkig hij die zich zelven niet oordeelt in hetgeen hij goedkeurt.
 
-**[14:23]** Maar die twijfelt als hij eet is veroordeeld, omdat hij niet eet uit geloof. En al wat niet uit geloof geschiedt is zonde.  
+**[14:23]** Maar die twijfelt als hij eet is veroordeeld, omdat hij niet eet uit geloof. En al wat niet uit geloof geschiedt is zonde.
 
 ### Chapter 15
 
@@ -58844,9 +58844,9 @@
 
 **[15:12]** En wederom zegt Jesaja: De wortel van Jesse zal er zijn en die opstaat om de volken te gebieden; op Hem zullen de volken hopen.
 
-**[15:13]** De God nu der hope vervulle ulieden met alle blijdschap en vrede in het gelooven, opdat gij overvloedig moogt zijn in de hope, in de kracht des Heiligen Geestes. 
+**[15:13]** De God nu der hope vervulle ulieden met alle blijdschap en vrede in het gelooven, opdat gij overvloedig moogt zijn in de hope, in de kracht des Heiligen Geestes.
 
-**[15:14]**  Maar ik ben zelf overtuigd, mijn broeders, dat ook gijlieden vol zijt van goedheid, vervuld met alle kennis, ook machtig om elkander te vermanen.
+**[15:14]** Maar ik ben zelf overtuigd, mijn broeders, dat ook gijlieden vol zijt van goedheid, vervuld met alle kennis, ook machtig om elkander te vermanen.
 
 **[15:15]** Toch heb ik ulieden in zekeren zin te stoutmoediger geschreven, als om u wederom in gedachtenis te brengen aangaande de genade die mij van God gegeven is,
 
@@ -58860,9 +58860,9 @@
 
 **[15:20]** Ja, dat ik er een eere in stelde het Evangelie te prediken, niet waar Christus alreeds genoemd was, opdat ik niet zou bouwen op het fundament van een ander,
 
-**[15:21]** maar zooals geschreven is: Zij, aan wie het niet verkondigd was, die zullen zien, en zij die het niet gehoord hebben, die zullen verstaan. 
+**[15:21]** maar zooals geschreven is: Zij, aan wie het niet verkondigd was, die zullen zien, en zij die het niet gehoord hebben, die zullen verstaan.
 
-**[15:22]**  Daarom ook ben ik veel malen verhinderd geweest om tot ulieden te komen;
+**[15:22]** Daarom ook ben ik veel malen verhinderd geweest om tot ulieden te komen;
 
 **[15:23]** maar nu geen gelegenheid meer hebbende in deze gewesten en reeds vele jaren begeerte hebbende om tot ulieden te komen,
 
@@ -58876,15 +58876,15 @@
 
 **[15:28]** Als ik dan dit zal volbracht hebben en hun deze vrucht zal ter hand gesteld hebben dan zal ik door uw stad naar Spanje gaan.
 
-**[15:29]** En ik weet dat, als ik bij ulieden kom, ik komen zal in een volheid van den zegen van Christus. 
+**[15:29]** En ik weet dat, als ik bij ulieden kom, ik komen zal in een volheid van den zegen van Christus.
 
-**[15:30]**  En ik vermaan ulieden, broeders, door onzen Heere Jezus Christus en door de liefde des Geestes, om met mij mede te strijden in de gebeden voor mij tot God,
+**[15:30]** En ik vermaan ulieden, broeders, door onzen Heere Jezus Christus en door de liefde des Geestes, om met mij mede te strijden in de gebeden voor mij tot God,
 
 **[15:31]** opdat ik verlost moge worden van de ongehoorzamen in Judea, en dat mijn dienst die ik aan Jerusalem doe den heiligen aangenaam moge zijn,
 
 **[15:32]** opdat ik in blijdschap tot ulieden moge komen door den wil van God, om bij ulieden wat te rusten.
 
-**[15:33]** De God des vredes zij met u allen! Amen.  
+**[15:33]** De God des vredes zij met u allen! Amen.
 
 ### Chapter 16
 
@@ -58918,29 +58918,29 @@
 
 **[16:15]** Groet Filologus en Julia, Nereüs en zijn zuster, en Olympa, en al de heiligen die met hen zijn.
 
-**[16:16]** Groet elkander met een heiligen kus. U groeten al de gemeenten van Christus. 
+**[16:16]** Groet elkander met een heiligen kus. U groeten al de gemeenten van Christus.
 
-**[16:17]**  En ik vermaan ulieden, broeders, te letten op degenen die verdeeldheden en ergernissen veroorzaken tegen het onderwijs dat gij ontvangen hebt. Onttrekt u van hen.
+**[16:17]** En ik vermaan ulieden, broeders, te letten op degenen die verdeeldheden en ergernissen veroorzaken tegen het onderwijs dat gij ontvangen hebt. Onttrekt u van hen.
 
 **[16:18]** Want dezulken dienen onzen Heere Christus niet, maar hun eigen buik, en door vleiende en schoonklinkende woorden verleiden zij de harten der onnoozelen.
 
 **[16:19]** Want uw gehoorzaamheid is aan allen bekend geworden. Daarom verblijd ik mij over ulieden en ik wil dat gij verstandig zijt tot het goede maar onnoozel tot het kwade.
 
-**[16:20]** Maar de God des vredes zal den Satan binnenkort vertreden onder uw voeten. De genade van onzen Heere Jezus Christus zij met ulieden. 
+**[16:20]** Maar de God des vredes zal den Satan binnenkort vertreden onder uw voeten. De genade van onzen Heere Jezus Christus zij met ulieden.
 
-**[16:21]**  U groet Timotheüs mijn medearbeider, en Lukius, en Jason, en Sosipater mijn bloedverwanten.
+**[16:21]** U groet Timotheüs mijn medearbeider, en Lukius, en Jason, en Sosipater mijn bloedverwanten.
 
 **[16:22]** Ik Tertius die den brief heb geschreven, groet ulieden in den Heere.
 
 **[16:23]** U groet Gajus, de gastheer van mij en van de geheele gemeente. U groet Erastus, de penningmeester der stad en Quartus de broeder.
 
-**[16:24]** De genade van onzen Heere Jezus Christus zij met ulieden allen. Amen. 
+**[16:24]** De genade van onzen Heere Jezus Christus zij met ulieden allen. Amen.
 
-**[16:25]**  Hem nu die machtig is ulieden te versterken, volgens mijn Evangelie en de prediking van Jezus Christus, volgens de openbaring der verborgenheid, die gedurende onheugelijke tijden verzwegen is,
+**[16:25]** Hem nu die machtig is ulieden te versterken, volgens mijn Evangelie en de prediking van Jezus Christus, volgens de openbaring der verborgenheid, die gedurende onheugelijke tijden verzwegen is,
 
 **[16:26]** maar nu is geopenbaard en door de profetische Schrifturen volgens bevel des eeuwigen Gods is bekend geworden onder alle volken, tot gehoorzaamheid des geloofs,
 
-**[16:27]** den alleen wijzen God, door Jezus Christus, Hem de glorie tot in eeuwigheid! Amen.   
+**[16:27]** den alleen wijzen God, door Jezus Christus, Hem de glorie tot in eeuwigheid! Amen.
 
 ## I Corinthians
 
@@ -58950,9 +58950,9 @@
 
 **[1:2]** Aan de gemeente Gods die in Korinthe is, aan degenen die geheiligd zijn in Christus Jezus, geroepen heiligen, met allen die den Naam van onzen Heere Jezus Christus aanroepen in elke plaats, hunnen en onzen Heere:
 
-**[1:3]** Genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus. 
+**[1:3]** Genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus.
 
-**[1:4]**  Ik dank mijn God altijd over ulieden, vanwege de genade Gods die ulieden gegeven is in Christus Jezus;
+**[1:4]** Ik dank mijn God altijd over ulieden, vanwege de genade Gods die ulieden gegeven is in Christus Jezus;
 
 **[1:5]** dat gij in alle ding zijt rijk geworden in Hem, in alle woord en alle kennis;
 
@@ -58962,9 +58962,9 @@
 
 **[1:8]** die u ook zal bevestigen tot den einde toe als onberispelijk en in den dag van onzen Heere Jezus Christus.
 
-**[1:9]** God is getrouw, door wien gij geroepen zijt tot gemeenschap met zijn Zoon Jezus Christus. 
+**[1:9]** God is getrouw, door wien gij geroepen zijt tot gemeenschap met zijn Zoon Jezus Christus.
 
-**[1:10]**  Doch ik vermaan u, broeders, door den Naam van onzen Heere Jezus Christus, dat gij allen hetzelfde spreekt en dat er onder ulieden geen scheuringen zijn, maar dat gij vereenigd zijt in dezelfde gezindheid en in hetzelfde gevoelen.
+**[1:10]** Doch ik vermaan u, broeders, door den Naam van onzen Heere Jezus Christus, dat gij allen hetzelfde spreekt en dat er onder ulieden geen scheuringen zijn, maar dat gij vereenigd zijt in dezelfde gezindheid en in hetzelfde gevoelen.
 
 **[1:11]** Want mij is omtrent u bekend geworden, mijn broeders, door die van Chloë, dat er onder u twistingen zijn.
 
@@ -58976,9 +58976,9 @@
 
 **[1:15]** opdat niemand zou zeggen dat gij in mijn naam zijt gedoopt.
 
-**[1:16]** Doch ik heb ook het huisgezin van Stefanas gedoopt. Overigens weet ik niet dat ik iemand anders heb gedoopt. 
+**[1:16]** Doch ik heb ook het huisgezin van Stefanas gedoopt. Overigens weet ik niet dat ik iemand anders heb gedoopt.
 
-**[1:17]**  Want Christus heeft mij niet gezonden om te doopen maar om het Evangelie te verkondigen, niet in wijsheid des woords, opdat het kruis van Christus niet van kracht zou beroofd worden.
+**[1:17]** Want Christus heeft mij niet gezonden om te doopen maar om het Evangelie te verkondigen, niet in wijsheid des woords, opdat het kruis van Christus niet van kracht zou beroofd worden.
 
 **[1:18]** Want het woord des kruises is wel dwaasheid voor degenen die verloren gaan, maar voor ons die behouden worden, is het een kracht Gods.
 
@@ -58986,9 +58986,9 @@
 
 **[1:20]** Waar is de wijze? Waar is de schriftgeleerde? Waar is de twistredenaar dezer eeuw? Heeft God de wijsheid der wereld niet verdwaasd?
 
-**[1:21]** Want aangezien in de wijsheid Gods de wereld door de wijsheid God niet heeft gekend, zoo heeft het Gode behaagd door de dwaasheid der prediking te behouden die gelooven. 
+**[1:21]** Want aangezien in de wijsheid Gods de wereld door de wijsheid God niet heeft gekend, zoo heeft het Gode behaagd door de dwaasheid der prediking te behouden die gelooven.
 
-**[1:22]**  En omdat de Joden teekenen begeeren en de Grieken wijsheid zoeken,
+**[1:22]** En omdat de Joden teekenen begeeren en de Grieken wijsheid zoeken,
 
 **[1:23]** — doch wij den gekruisigden Christus prediken, den Joden wel een ergernis en den volken een dwaasheid
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** Doch uit Hem zijt gij in Christus Jezus, die voor ons van God geworden is wijsheid, en rechtvaardigheid, en heiliging, en verlossing;
 
-**[1:31]** opdat gelijk geschreven is, de roemende in den Heere roeme.  
+**[1:31]** opdat gelijk geschreven is, de roemende in den Heere roeme.
 
 ### Chapter 2
 
@@ -59030,9 +59030,9 @@
 
 **[2:10]** Doch aan ons heeft God het geopenbaard door den Geest; want de Geest onderzoekt alles, zelfs de diepten Gods.
 
-**[2:11]** Want wie van de menschen weet de dingen van een mensch, dan alleen de geest des menschen die in hem is? Zoo ook weet niemand de dingen Gods dan alleen de Geest Gods. 
+**[2:11]** Want wie van de menschen weet de dingen van een mensch, dan alleen de geest des menschen die in hem is? Zoo ook weet niemand de dingen Gods dan alleen de Geest Gods.
 
-**[2:12]**  Doch wij hebben niet ontvangen den geest der wereld, maar den Geest die uit God is, opdat wij zouden weten de dingen die van God ons in genade geschonken zijn,
+**[2:12]** Doch wij hebben niet ontvangen den geest der wereld, maar den Geest die uit God is, opdat wij zouden weten de dingen die van God ons in genade geschonken zijn,
 
 **[2:13]** die wij ook spreken, niet in woorden die de menschelijke wijsheid leert, maar in leeringen des Geestes, geestelijke dingen door geestelijke verklarende.
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** Maar de geestelijke mensch beoordeelt alles, doch hij zelf wordt van niemand beoordeeld.
 
-**[2:16]** Want wie kent den zin des Heeren, die Hem zou onderwijzen? Doch wij hebben den zin van Christus.  
+**[2:16]** Want wie kent den zin des Heeren, die Hem zou onderwijzen? Doch wij hebben den zin van Christus.
 
 ### Chapter 3
 
@@ -59060,9 +59060,9 @@
 
 **[3:8]** En de planter en begieter zijn gelijk, doch ieder zal zijn eigen loon ontvangen naar zijn eigen arbeid.
 
-**[3:9]** Want wij zijn Gods medearbeiders; Gods arbeidsveld, Gods gebouw zijt gijlieden. 
+**[3:9]** Want wij zijn Gods medearbeiders; Gods arbeidsveld, Gods gebouw zijt gijlieden.
 
-**[3:10]**  Naar de genade Gods die aan mij gegeven is heb ik als een verstandig bouwmeester een fundament gelegd; doch een ander bouwt daarop. Maar een ieder moge toezien hoe hij daarop bouwt!
+**[3:10]** Naar de genade Gods die aan mij gegeven is heb ik als een verstandig bouwmeester een fundament gelegd; doch een ander bouwt daarop. Maar een ieder moge toezien hoe hij daarop bouwt!
 
 **[3:11]** Een ander fundament toch kan niemand leggen, behalve het gelegde, dat is Jezus Christus.
 
@@ -59072,9 +59072,9 @@
 
 **[3:14]** Als iemands werk blijft, dat hij daarop gebouwd heeft, dan zal hij loon ontvangen.
 
-**[3:15]** Als iemands werk verbrand wordt dan zal hij verlies lijden; maar hij zelf zal worden behouden, doch als door het vuur heen. 
+**[3:15]** Als iemands werk verbrand wordt dan zal hij verlies lijden; maar hij zelf zal worden behouden, doch als door het vuur heen.
 
-**[3:16]**  Weet gij niet dat gij een tempel Gods zijt en dat de Geest Gods in ulieden woont?
+**[3:16]** Weet gij niet dat gij een tempel Gods zijt en dat de Geest Gods in ulieden woont?
 
 **[3:17]** Als iemand den tempel Gods verderft, dien zal God verderven, want de tempel Gods is heilig en zoodanigen zijt gij.
 
@@ -59088,27 +59088,27 @@
 
 **[3:22]** hetzij Paulus, hetzij Apollos, hetzij Kefas, hetzij wereld, hetzij leven, hetzij dood, hetzij tegenwoordige dingen, hetzij toekomende dingen, alles is van ulieden;
 
-**[3:23]** doch gij zijt van Christus, en Christus is van God.  
+**[3:23]** doch gij zijt van Christus, en Christus is van God.
 
 ### Chapter 4
 
 **[4:1]** Alzoo houde ieder ons als dienaars van Christus en bestuurders van Gods verborgenheden.
 
-**[4:2]** Voor het overige wordt in de bestuurders vereischt dat ieder getrouw worde bevonden. 
+**[4:2]** Voor het overige wordt in de bestuurders vereischt dat ieder getrouw worde bevonden.
 
-**[4:3]**  Voor mij nu is het allerminste dat ik van ulieden word geoordeeld, of van een menschelijk vonnis. Ja, ik oordeel ook mij zelven niet;
+**[4:3]** Voor mij nu is het allerminste dat ik van ulieden word geoordeeld, of van een menschelijk vonnis. Ja, ik oordeel ook mij zelven niet;
 
 **[4:4]** want ik weet niets tegen mij zelven, maar daarin ben ik niet gerechtvaardigd; doch die mij oordeelt is de Heere.
 
-**[4:5]** Zoo dan, beoordeelt niets voor den tijd, totdat de Heere zal gekomen zijn, die ook de verborgen dingen der duisternis zal aan het licht brengen en de raadslagen der harten zal openbaren; en alsdan zal ieder van God den lof ontvangen die hem toekomt. 
+**[4:5]** Zoo dan, beoordeelt niets voor den tijd, totdat de Heere zal gekomen zijn, die ook de verborgen dingen der duisternis zal aan het licht brengen en de raadslagen der harten zal openbaren; en alsdan zal ieder van God den lof ontvangen die hem toekomt.
 
-**[4:6]**  Deze dingen nu, broeders, heb ik bij vergelijking toegepast op mij zelven en op Apollos om uwentwil, opdat gij in ons niets zoudt leeren boven hetgeen geschreven is, opdat niet de een ten behoeve van een ander opgeblazen worde tegen den ander.
+**[4:6]** Deze dingen nu, broeders, heb ik bij vergelijking toegepast op mij zelven en op Apollos om uwentwil, opdat gij in ons niets zoudt leeren boven hetgeen geschreven is, opdat niet de een ten behoeve van een ander opgeblazen worde tegen den ander.
 
 **[4:7]** Want wie onderscheidt u? En wat hebt gij dat gij niet hebt ontvangen? En als gij het ontvangen hebt, wat beroemt gij u dan alsof gij het niet ontvangen hadt?
 
-**[4:8]** Reeds zijt gij verzadigd; reeds zijt gij rijk geworden; zonder ons hebt gij geheerscht; en ik zou willen dat gij zoudt heerschen opdat ook wij met u mochten heerschen! 
+**[4:8]** Reeds zijt gij verzadigd; reeds zijt gij rijk geworden; zonder ons hebt gij geheerscht; en ik zou willen dat gij zoudt heerschen opdat ook wij met u mochten heerschen!
 
-**[4:9]**  Want ik meen dat God ons, apostelen, als de laagsten heeft aangewezen, als ter dood veroordeelden, omdat wij een schouwspel zijn geworden voor de wereld, en voor engelen en menschen.
+**[4:9]** Want ik meen dat God ons, apostelen, als de laagsten heeft aangewezen, als ter dood veroordeelden, omdat wij een schouwspel zijn geworden voor de wereld, en voor engelen en menschen.
 
 **[4:10]** Wij zijn dwazen om Christus wil, maar gij zijt verstandigen in Christus; wij zijn zwakken, maar gij zijt sterken; gij zijt geëerden, maar wij zijn verachten.
 
@@ -59116,23 +59116,23 @@
 
 **[4:12]** en wij arbeiden, werkende met eigen handen; gescholden zijnde zegenen wij; vervolgd zijnde verdragen wij;
 
-**[4:13]** belasterd zijnde bidden wij; als uitvaagsel der wereld zijn wij geworden, als aller afschrapsel tot nu toe. 
+**[4:13]** belasterd zijnde bidden wij; als uitvaagsel der wereld zijn wij geworden, als aller afschrapsel tot nu toe.
 
-**[4:14]**  Niet om u te beschamen schrijf ik deze dingen, maar als mijn beminde kinderen vermaan ik ulieden,
+**[4:14]** Niet om u te beschamen schrijf ik deze dingen, maar als mijn beminde kinderen vermaan ik ulieden,
 
 **[4:15]** want al zoudt gij tien duizend opvoeders in Christus hebben, gij hebt toch niet veel vaders; want in Christus Jezus heb ik u door het Evangelie gewonnen.
 
 **[4:16]** Ik vermaan u dan: zijt mijn navolgers!
 
-**[4:17]** Om die reden heb ik Timotheüs tot ulieden gezonden, die mijn beminde en getrouwe zoon is in den Heere, die ulieden zal herinneren mijn wegen die in Christus Jezus zijn, zooals ik overal in iedere gemeente leer. 
+**[4:17]** Om die reden heb ik Timotheüs tot ulieden gezonden, die mijn beminde en getrouwe zoon is in den Heere, die ulieden zal herinneren mijn wegen die in Christus Jezus zijn, zooals ik overal in iedere gemeente leer.
 
-**[4:18]**  Alsof ik niet tot ulieden komen zou, zijn sommigen opgeblazen.
+**[4:18]** Alsof ik niet tot ulieden komen zou, zijn sommigen opgeblazen.
 
 **[4:19]** Doch ik zal spoedig tot u komen, als de Heere wil, en dan zal ik kennis nemen, niet van het woord der opgeblazenen, maar van de kracht.
 
 **[4:20]** Want niet in woord bestaat het koninkrijk Gods maar in kracht.
 
-**[4:21]** Wat wilt gij? Zal ik tot u komen met een roede, of in liefde en een geest van zachtmoedigheid?  
+**[4:21]** Wat wilt gij? Zal ik tot u komen met een roede, of in liefde en een geest van zachtmoedigheid?
 
 ### Chapter 5
 
@@ -59144,15 +59144,15 @@
 
 **[5:4]** in den Naam des Heeren Jezus, als gijlieden zult samen vergaderd zijn en mijn geest, met de kracht van onzen Heere Jezus,
 
-**[5:5]** denzulke over te geven aan den Satan, tot verderf des vleesches, opdat de geest gered worde in den dag des Heeren Jezus. 
+**[5:5]** denzulke over te geven aan den Satan, tot verderf des vleesches, opdat de geest gered worde in den dag des Heeren Jezus.
 
-**[5:6]**  Uw roem is niet fraai! Weet gij niet dat een weinig zuurdeesem den geheelen deegklomp zuur maakt?
+**[5:6]** Uw roem is niet fraai! Weet gij niet dat een weinig zuurdeesem den geheelen deegklomp zuur maakt?
 
 **[5:7]** Zuivert den ouden zuurdeesem uit, opdat gij een nieuwe deegklomp moogt zijn, zooals gij zonder zuurdeesem zijt. Want ook Christus, ons Pascha, is geslacht.
 
-**[5:8]** Laat ons dan feest houden, niet in een ouden zuurdeesem, noch in een zuurdeesem van kwaadheid en boosheid, maar in ongezuurdeesemde brooden van oprechtheid en waarheid. 
+**[5:8]** Laat ons dan feest houden, niet in een ouden zuurdeesem, noch in een zuurdeesem van kwaadheid en boosheid, maar in ongezuurdeesemde brooden van oprechtheid en waarheid.
 
-**[5:9]**  Ik heb u in den brief geschreven u niet te vermengen met hoereerders.
+**[5:9]** Ik heb u in den brief geschreven u niet te vermengen met hoereerders.
 
 **[5:10]** Doch ik bedoelde niet in het algemeen met de hoereerders dezer wereld, of de gierigaards en roovers, of afgodendienaars; want dan zoudt gij moeten uit de wereld gaan.
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** Want wat heb ik te oordeelen degenen die buiten de gemeente zijn? Oordeelt gij niet degenen die binnen de gemeente zijn?
 
-**[5:13]** Die buiten de gemeente zijn zal God oordeelen. Doet gij den booze uit uw midden weg!  
+**[5:13]** Die buiten de gemeente zijn zal God oordeelen. Doet gij den booze uit uw midden weg!
 
 ### Chapter 6
 
@@ -59180,19 +59180,19 @@
 
 **[6:8]** Maar gij doet onrecht en doet schade, en dat nog wel aan broeders!
 
-**[6:9]** Weet gij dan niet dat onrechtvaardigen Gods koninkrijk niet zullen erven? 
+**[6:9]** Weet gij dan niet dat onrechtvaardigen Gods koninkrijk niet zullen erven?
 
-**[6:10]**  Dwaalt niet! Noch hoereerders, noch afgodendienaars, noch echtbrekers, noch onzedelijken, noch onnatuurlijken, noch dieven, noch gierigaards, noch dronkaards, noch lasteraars, noch roovers, zullen Gods koninkrijk erven.
+**[6:10]** Dwaalt niet! Noch hoereerders, noch afgodendienaars, noch echtbrekers, noch onzedelijken, noch onnatuurlijken, noch dieven, noch gierigaards, noch dronkaards, noch lasteraars, noch roovers, zullen Gods koninkrijk erven.
 
-**[6:11]** En sommigen van u zijn alzoo geweest; maar gij zijt afgewasschen, maar gij zijt geheiligd, maar gij zijt gerechtvaardigd in den Naam van den Heere Jezus Christus en in den Geest onzes Gods. 
+**[6:11]** En sommigen van u zijn alzoo geweest; maar gij zijt afgewasschen, maar gij zijt geheiligd, maar gij zijt gerechtvaardigd in den Naam van den Heere Jezus Christus en in den Geest onzes Gods.
 
-**[6:12]**  Alles is mij geoorloofd, maar niet alles is nuttig. Alles is mij geoorloofd, maar ik zal mij door geen ding laten onderwerpen.
+**[6:12]** Alles is mij geoorloofd, maar niet alles is nuttig. Alles is mij geoorloofd, maar ik zal mij door geen ding laten onderwerpen.
 
 **[6:13]** De spijzen zijn voor den buik en de buik is voor de spijzen, maar God zal dezen en die wegdoen. Doch het lichaam is niet voor de hoererij maar voor den Heere, en de Heere voor het lichaam.
 
-**[6:14]** En God doet beide: Hij heeft den Heere opgewekt en zal ons opwekken door zijn kracht. 
+**[6:14]** En God doet beide: Hij heeft den Heere opgewekt en zal ons opwekken door zijn kracht.
 
-**[6:15]**  Weet gij niet dat uw lichamen leden van Christus zijn? Zal ik dan de leden van Christus nemen en die maken tot leden van een hoere? In het geheel niet!
+**[6:15]** Weet gij niet dat uw lichamen leden van Christus zijn? Zal ik dan de leden van Christus nemen en die maken tot leden van een hoere? In het geheel niet!
 
 **[6:16]** Of weet gij niet dat degene die zich bij een hoere voegt één lichaam met haar is? Want er wordt gezegd: die twee zullen tot één vleesch zijn.
 
@@ -59202,15 +59202,15 @@
 
 **[6:19]** Of weet gij niet dat uw lichaam een tempel is van den Heiligen Geest die in u is, dien gij van God hebt, en dat gij niet uws zelfs eigendom zijt?
 
-**[6:20]** Want gij zijt gekocht voor een grooten prijs. Geeft dan Gode de glorie in uw lichaam.  
+**[6:20]** Want gij zijt gekocht voor een grooten prijs. Geeft dan Gode de glorie in uw lichaam.
 
 ### Chapter 7
 
 **[7:1]** Aangaande de dingen nu waarvan gij mij hebt geschreven, het is voor een mensch goed geen vrouw aan te raken.
 
-**[7:2]** Doch om de hoererijen te vermijden, laat iederen man zijn eigen vrouw hebben en laat iedere vrouw haar eigen man hebben. 
+**[7:2]** Doch om de hoererijen te vermijden, laat iederen man zijn eigen vrouw hebben en laat iedere vrouw haar eigen man hebben.
 
-**[7:3]**  Dat de man aan de vrouw geve wat hij haar schuldig is; alzoo ook de vrouw aan den man.
+**[7:3]** Dat de man aan de vrouw geve wat hij haar schuldig is; alzoo ook de vrouw aan den man.
 
 **[7:4]** De vrouw heeft niet de macht over haar eigen lichaam, maar de man; alzoo ook heeft de man niet de macht over zijn eigen lichaam, maar de vrouw.
 
@@ -59218,13 +59218,13 @@
 
 **[7:6]** Doch ik zeg dit bij wijze van toelating, niet als gebod.
 
-**[7:7]** Want ik wou dat alle menschen waren zooals ik zelf ben. Maar ieder heeft zijn eigen gave van God; de een aldus, de ander alzoo. 
+**[7:7]** Want ik wou dat alle menschen waren zooals ik zelf ben. Maar ieder heeft zijn eigen gave van God; de een aldus, de ander alzoo.
 
-**[7:8]**  Doch ik zeg tot de ongetrouwden en de weduwen, dat het hun goed is als zij blijven zooals ik ben.
+**[7:8]** Doch ik zeg tot de ongetrouwden en de weduwen, dat het hun goed is als zij blijven zooals ik ben.
 
-**[7:9]** Maar als zij zich niet kunnen onthouden, laat ze dan trouwen; want beter is het te trouwen dan te branden. 
+**[7:9]** Maar als zij zich niet kunnen onthouden, laat ze dan trouwen; want beter is het te trouwen dan te branden.
 
-**[7:10]**  Doch den getrouwden beveel ik— niet ik, maar de Heere— dat de vrouw van den man niet scheide.
+**[7:10]** Doch den getrouwden beveel ik— niet ik, maar de Heere— dat de vrouw van den man niet scheide.
 
 **[7:11]** Doch indien zij scheidt, dat zij ongetrouwd blijve of met den man verzoene. En dat een man zijn vrouw niet verlate.
 
@@ -59252,9 +59252,9 @@
 
 **[7:23]** Tot een grooten prijs zijt gij gekocht; wordt geen dienaren van menschen.
 
-**[7:24]** Een ieder in hetgeen hij geroepen is, broeders, daarin blijve hij bij God! 
+**[7:24]** Een ieder in hetgeen hij geroepen is, broeders, daarin blijve hij bij God!
 
-**[7:25]**  Wat nu de maagden betreft, heb ik geen bevel des Heeren, maar ik geef mijn gevoelen, als een die barmhartigheid van den Heere verkregen heb om betrouwbaar te zijn.
+**[7:25]** Wat nu de maagden betreft, heb ik geen bevel des Heeren, maar ik geef mijn gevoelen, als een die barmhartigheid van den Heere verkregen heb om betrouwbaar te zijn.
 
 **[7:26]** Ik meen dan dat dit goed is, om de voorstaande moeilijkheid, namelijk dat het den mensch goed is te zijn zooals hij is.
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** Een vrouw is door de wet verbonden voor zoo langen tijd als haar man leeft; maar als de man is ontslapen dan is zij vrij om te trouwen met wien zij wil; alleenlijk in den Heere.
 
-**[7:40]** Doch gelukkiger is zij als zij blijft zooals zij is, naar mijn meening. En ik denk dat ik ook den Geest van God heb.  
+**[7:40]** Doch gelukkiger is zij als zij blijft zooals zij is, naar mijn meening. En ik denk dat ik ook den Geest van God heb.
 
 ### Chapter 8
 
@@ -59302,9 +59302,9 @@
 
 **[8:7]** Doch niet in allen is die kennis. Maar sommigen, die tot nog toe iets van den afgod denken, eten als van dingen die aan de afgoden geofferd zijn, en hun konsciëntie die zwak is, wordt daardoor bevlekt.
 
-**[8:8]** Doch spijze zal ons niet nader tot God brengen, en als wij eten dan zijn wij er niet beter om, en als wij niet eten dan zijn wij er niet minder om. 
+**[8:8]** Doch spijze zal ons niet nader tot God brengen, en als wij eten dan zijn wij er niet beter om, en als wij niet eten dan zijn wij er niet minder om.
 
-**[8:9]**  Maar ziet toe dat deze uw vrijheid geen aanstoot wordt voor de zwakken.
+**[8:9]** Maar ziet toe dat deze uw vrijheid geen aanstoot wordt voor de zwakken.
 
 **[8:10]** Want als iemand u, die kennis hebt, zou zien aanliggen in een afgodstempel, zou dan niet de konsciëntie van hem die zwak is, worden verkracht, om te eten van de dingen die aan de afgoden zijn geofferd?
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** En alzoo zondigende tegen de broeders en hun zwakke konsciëntie kwetsende zondigt gij tegen Christus.
 
-**[8:13]** Daarom, als spijze mijn broeder ergert, zal ik volstrekt nooit vleesch eten, opdat ik mijn broeder niet zou ergeren.  
+**[8:13]** Daarom, als spijze mijn broeder ergert, zal ik volstrekt nooit vleesch eten, opdat ik mijn broeder niet zou ergeren.
 
 ### Chapter 9
 
@@ -59344,9 +59344,9 @@
 
 **[9:14]** Zoo ook heeft de Heere geboden aan degenen die het Evangelie verkondigen om uit het Evangelie te leven.
 
-**[9:15]** Doch ik heb van deze dingen geen gebruik gemaakt. Ik heb dit ook niet geschreven opdat het in mijn geval alzoo zou geschieden; want ik zou veel liever sterven dan dat iemand mijn roem zou ontnemen. 
+**[9:15]** Doch ik heb van deze dingen geen gebruik gemaakt. Ik heb dit ook niet geschreven opdat het in mijn geval alzoo zou geschieden; want ik zou veel liever sterven dan dat iemand mijn roem zou ontnemen.
 
-**[9:16]**  Want als ik het Evangelie verkondig is dat mij geen roem, maar die plicht is mij opgelegd. Want wee mij als ik het niet zou verkondigen!
+**[9:16]** Want als ik het Evangelie verkondig is dat mij geen roem, maar die plicht is mij opgelegd. Want wee mij als ik het niet zou verkondigen!
 
 **[9:17]** Want als ik dat gewillig doe dan heb ik loon, maar als ik het onwillig doe, de bediening is mij toch toevertrouwd.
 
@@ -59360,15 +59360,15 @@
 
 **[9:22]** Voor de zwakken ben ik een zwakke geworden, opdat ik de zwakken zou winnen; voor allen ben ik alles geworden, opdat ik in alle geval sommigen behouden zou.
 
-**[9:23]** Alles doe ik om het Evangelie opdat ik er mede deelgenoot van worde. 
+**[9:23]** Alles doe ik om het Evangelie opdat ik er mede deelgenoot van worde.
 
-**[9:24]**  Weet gij niet dat zij die in de renbaan loopen allen wel loopen, doch dat er maar één den prijs ontvangt? Loopt gij alzoo dat gij dien verkrijgen moogt.
+**[9:24]** Weet gij niet dat zij die in de renbaan loopen allen wel loopen, doch dat er maar één den prijs ontvangt? Loopt gij alzoo dat gij dien verkrijgen moogt.
 
 **[9:25]** Al nu wie mededingt onthoudt zich van alles, en dezen doen dit om een verderfelijke kroon te bekomen; maar wij zoeken een onverderfelijke.
 
 **[9:26]** Wat mij aangaat, ik loop niet als in het onzekere, ik kamp niet als de lucht slaande,
 
-**[9:27]** maar ik bedwing mijn lichaam en breng het onder bedwang, opdat ik niet misschien, terwijl ik aan anderen predik zelf verwerpelijk worde.  
+**[9:27]** maar ik bedwing mijn lichaam en breng het onder bedwang, opdat ik niet misschien, terwijl ik aan anderen predik zelf verwerpelijk worde.
 
 ### Chapter 10
 
@@ -59390,15 +59390,15 @@
 
 **[10:9]** En laat ons den Heere niet tergen, zooals sommigen van hen getergd hebben en ze werden door de slangen vernield.
 
-**[10:10]** En murmureert niet, zooals sommigen van hen gemurmureerd hebben en ze werden vernield door den verderver. 
+**[10:10]** En murmureert niet, zooals sommigen van hen gemurmureerd hebben en ze werden vernield door den verderver.
 
-**[10:11]**  Deze dingen nu zijn hun overkomen bij maniere van voorbeelden, en ze zijn beschreven tot waarschuwing van ons tot wie de einden der eeuwen zijn gekomen.
+**[10:11]** Deze dingen nu zijn hun overkomen bij maniere van voorbeelden, en ze zijn beschreven tot waarschuwing van ons tot wie de einden der eeuwen zijn gekomen.
 
 **[10:12]** Alzoo die meent te staan moge toezien dat hij niet valle!
 
-**[10:13]** Een bekoring is u niet overkomen dan alleen een menschelijke; doch God is getrouw, die niet zal toelaten dat gij in bekoring komt boven hetgeen gij vermoogt, maar Hij zal met de bekoring ook den weg banen om te ontkomen, opdat gij ze kunt verdragen. 
+**[10:13]** Een bekoring is u niet overkomen dan alleen een menschelijke; doch God is getrouw, die niet zal toelaten dat gij in bekoring komt boven hetgeen gij vermoogt, maar Hij zal met de bekoring ook den weg banen om te ontkomen, opdat gij ze kunt verdragen.
 
-**[10:14]**  Daarom, mijn beminden, vlucht van den afgodendienst!
+**[10:14]** Daarom, mijn beminden, vlucht van den afgodendienst!
 
 **[10:15]** Als tot verstandigen spreek ik; beoordeelt gij wat ik zeg.
 
@@ -59412,9 +59412,9 @@
 
 **[10:20]** Neen, maar dat de heidenen datgene wat zij opofferen aan de booze geesten opofferen en niet aan God. En ik wil niet dat gij gemeenschap hebt met de booze geesten.
 
-**[10:21]** Gij kunt niet den drinkbeker des Heeren drinke en den drinkbeker der booze geesten; gij kunt niet deel hebben aan de tafel des Heeren en aan de tafel der booze geesten. 
+**[10:21]** Gij kunt niet den drinkbeker des Heeren drinke en den drinkbeker der booze geesten; gij kunt niet deel hebben aan de tafel des Heeren en aan de tafel der booze geesten.
 
-**[10:22]**  Of zullen wij den Heer tergen? Wij zijn toch niet sterker dan Hij?
+**[10:22]** Of zullen wij den Heer tergen? Wij zijn toch niet sterker dan Hij?
 
 **[10:23]** Alles is geoorloofd, maar alles is niet nuttig; alles is geoorloofd, maar alles is niet opbouwend.
 
@@ -59430,19 +59430,19 @@
 
 **[10:29]** Ik spreek hier van de konsciëntie, niet van u zelven maar van den ander: want waarom wordt mijn vrijheid geoordeeld van eens anders konsciëntie?
 
-**[10:30]** Als ik met dankzegging deel heb aan den maaltijd, waarom word ik gelasterd over iets waarvoor ik dankzeg? 
+**[10:30]** Als ik met dankzegging deel heb aan den maaltijd, waarom word ik gelasterd over iets waarvoor ik dankzeg?
 
-**[10:31]**  Hetzij dan dat gij eet, hetzij dat gij drinkt, of wat gij ook doet, doet alles tot glorie van God.
+**[10:31]** Hetzij dan dat gij eet, hetzij dat gij drinkt, of wat gij ook doet, doet alles tot glorie van God.
 
 **[10:32]** Geeft geen aanstoot, noch aan Joden, noch aan Grieken, noch aan de gemeente Gods;
 
-**[10:33]** zooals ik ook allen in alles behaag, niet zoekende mijn eigen voordeel maar dat van velen, opdat zij mogen behouden worden.  
+**[10:33]** zooals ik ook allen in alles behaag, niet zoekende mijn eigen voordeel maar dat van velen, opdat zij mogen behouden worden.
 
 ### Chapter 11
 
-**[11:1]** Zijt, mijn navolgers, zooals ook ik van Christus. 
+**[11:1]** Zijt, mijn navolgers, zooals ook ik van Christus.
 
-**[11:2]**  Ik prijs u, broeders, dat gij in alles aan mij gedachtig zijt en dat gij onderhoudt de instellingen, zooals ik u overgeleverd heb.
+**[11:2]** Ik prijs u, broeders, dat gij in alles aan mij gedachtig zijt en dat gij onderhoudt de instellingen, zooals ik u overgeleverd heb.
 
 **[11:3]** Doch ik wil dat gij weten zult dat Christus het Hoofd is van iederen man, en dat de man het hoofd is der vrouw, en God het Hoofd van Christus.
 
@@ -59458,9 +59458,9 @@
 
 **[11:9]** Want ook de man is niet geschapen om de vrouw, maar de vrouw om den man.
 
-**[11:10]** Daarom moet de vrouw een teeken van macht op het hoofd hebben, om der engelen wil. 
+**[11:10]** Daarom moet de vrouw een teeken van macht op het hoofd hebben, om der engelen wil.
 
-**[11:11]**  Hoe het ook zij, de vrouw is niet zonder den man, noch de man zonder de vrouw, in den Heere.
+**[11:11]** Hoe het ook zij, de vrouw is niet zonder den man, noch de man zonder de vrouw, in den Heere.
 
 **[11:12]** Want zooals de vrouw uit den man is, zoo is ook de man door de vrouw, maar alles is uit God.
 
@@ -59496,9 +59496,9 @@
 
 **[11:28]** De mensch onderzoeke dan zich zelven en alzoo ete hij van het brood en drinke uit den drinkbeker.
 
-**[11:29]** Want zoo wie eet en drinkt, die eet en drinkt zich zelven ten oordeel, als hij het lichaam des Heeren niet onderscheidt. 
+**[11:29]** Want zoo wie eet en drinkt, die eet en drinkt zich zelven ten oordeel, als hij het lichaam des Heeren niet onderscheidt.
 
-**[11:30]**  Daarom zijn onder ulieden veel zwakken en zieken, en niet weinigen slapen.
+**[11:30]** Daarom zijn onder ulieden veel zwakken en zieken, en niet weinigen slapen.
 
 **[11:31]** Want als wij ons zelven onderzochten dan zouden wij niet geoordeeld worden;
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** Zoo dan, mijn broeders, als gij samenkomt om te eten, wacht dan op elkander.
 
-**[11:34]** Als iemand honger heeft dan moet hij te huis eten, opdat gij niet tot een oordeel samenkomt. De overige dingen zal ik regelen als ik zal gekomen zijn.  
+**[11:34]** Als iemand honger heeft dan moet hij te huis eten, opdat gij niet tot een oordeel samenkomt. De overige dingen zal ik regelen als ik zal gekomen zijn.
 
 ### Chapter 12
 
@@ -59530,15 +59530,15 @@
 
 **[12:10]** en aan een ander werkingen van krachten, en aan een ander profetie, en aan een ander onderscheiding der geesten, en aan een ander verschillende soort van talen, en aan een ander verklaring van talen.
 
-**[12:11]** Dit alles nu werkt een en dezelfde Geest, bedeelende aan ieder in het bijzonder zooals Hij wil. 
+**[12:11]** Dit alles nu werkt een en dezelfde Geest, bedeelende aan ieder in het bijzonder zooals Hij wil.
 
-**[12:12]**  Want zooals het lichaam één is en vele ledematen heeft en al de ledematen des lichaams, die vele zijn, maar één lichaam zijn, alzoo ook de Christus.
+**[12:12]** Want zooals het lichaam één is en vele ledematen heeft en al de ledematen des lichaams, die vele zijn, maar één lichaam zijn, alzoo ook de Christus.
 
 **[12:13]** Want ook in één Geest zijn wij allen tot één lichaam gedoopt, hetzij Joden, hetzij Grieken, hetzij dienstbaren, hetzij vrijen; en wij zijn allen gelaafd tot één Geest.
 
-**[12:14]** En ook het lichaam is niet één lidmaat maar veel ledematen. 
+**[12:14]** En ook het lichaam is niet één lidmaat maar veel ledematen.
 
-**[12:15]**  Als nu de voet zou zeggen: omdat ik de hand niet ben, zoo ben ik niet van het lichaam; zou hij daarom niet van het lichaam zijn?
+**[12:15]** Als nu de voet zou zeggen: omdat ik de hand niet ben, zoo ben ik niet van het lichaam; zou hij daarom niet van het lichaam zijn?
 
 **[12:16]** En als het oor zou zeggen: omdat ik geen oog ben, zoo ben ik niet van het lichaam; zou het daarom niet van het lichaam zijn?
 
@@ -59562,15 +59562,15 @@
 
 **[12:26]** En als één lidmaat lijdt, dan lijden al de ledematen mede; als één lidmaat glorie ontvangt, dan zijn al de ledematen mede verheugd.
 
-**[12:27]** Gijlieden nu zijt het lichaam van Christus, en ledematen in het bijzonder. 
+**[12:27]** Gijlieden nu zijt het lichaam van Christus, en ledematen in het bijzonder.
 
-**[12:28]**  En God heeft sommigen in de gemeente aangesteld, vooreerst apostelen, ten tweede profeten, ten derde leeraars, daarna krachten, daarna gaven van genezingen, helpers, bestuurders, verschillende soorten van talen.
+**[12:28]** En God heeft sommigen in de gemeente aangesteld, vooreerst apostelen, ten tweede profeten, ten derde leeraars, daarna krachten, daarna gaven van genezingen, helpers, bestuurders, verschillende soorten van talen.
 
 **[12:29]** Allen zijn toch geen apostelen? Allen zijn toch geen profeten? Allen zijn geen leeraars? Allen zijn geen krachten?
 
 **[12:30]** Niet allen hebben gaven van genezingen? Niet allen spreken in verschillende talen? Niet allen zijn uitleggers?
 
-**[12:31]** Doch tracht gij allen naar de beste gaven. En een nog uitmuntender weg ga ik u aanwijzen.  
+**[12:31]** Doch tracht gij allen naar de beste gaven. En een nog uitmuntender weg ga ik u aanwijzen.
 
 ### Chapter 13
 
@@ -59586,9 +59586,9 @@
 
 **[13:6]** zij verheugt zich niet over de onrechtvaardigheid; zij verheugt zich met de waarheid;
 
-**[13:7]** alles bedekt zij; alles gelooft zij; alles hoopt zij; alles verdraagt zij. 
+**[13:7]** alles bedekt zij; alles gelooft zij; alles hoopt zij; alles verdraagt zij.
 
-**[13:8]**  De liefde vergaat nooit. Maar hetzij profetieën, zij zullen verdwijnen; hetzij talen, zij zullen ophouden; hetzij kennis, zij zal verdwijnen.
+**[13:8]** De liefde vergaat nooit. Maar hetzij profetieën, zij zullen verdwijnen; hetzij talen, zij zullen ophouden; hetzij kennis, zij zal verdwijnen.
 
 **[13:9]** Want ten deele kennen wij en ten deele profeeteren wij.
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** Want nu zien wij door een spiegel, in een raadsel maar alsdan aanschijn tegen aanschijn. Nu ken ik te deele, maar dan zal ik ten volle kennen zooals ik ook ten volle gekend ben.
 
-**[13:13]** En nu blijft geloof, hoop, liefde, deze drie; doch de voortreffelijkste van deze is de liefde.  
+**[13:13]** En nu blijft geloof, hoop, liefde, deze drie; doch de voortreffelijkste van deze is de liefde.
 
 ### Chapter 14
 
@@ -59610,9 +59610,9 @@
 
 **[14:4]** Die in een vreemde taal spreekt bouwt zich zelven op, maar die profeteert bouwt de gemeente op.
 
-**[14:5]** Ik wil wel dat gij allen spreekt in vreemde talen, maar vooral dat gij profeteert; want die profeteert is meerder dan die in vreemde talen spreekt, tenzij dan dat hij ze vertale, opdat de gemeente opbouwing ontvange. 
+**[14:5]** Ik wil wel dat gij allen spreekt in vreemde talen, maar vooral dat gij profeteert; want die profeteert is meerder dan die in vreemde talen spreekt, tenzij dan dat hij ze vertale, opdat de gemeente opbouwing ontvange.
 
-**[14:6]**  Maar nu, broeders, als ik tot u zou komen in vreemde talen sprekende, wat voordeel zou ik u toebrengen, indien ik tot u niet zou spreken óf in openbaring, óf in kennis, óf in profetie, óf in leering?
+**[14:6]** Maar nu, broeders, als ik tot u zou komen in vreemde talen sprekende, wat voordeel zou ik u toebrengen, indien ik tot u niet zou spreken óf in openbaring, óf in kennis, óf in profetie, óf in leering?
 
 **[14:7]** Zelfs de ziellooze dingen die geluid geven, hetzij een fluit, hetzij een harp, als zij geen verscheidenheid in toonen geven, hoe zal geweten worden wat op de fluit of op de harp gespeeld wordt?
 
@@ -59638,9 +59638,9 @@
 
 **[14:18]** Ik dank God dat ik meer in vreemde talen spreek dan gij allen.
 
-**[14:19]** Doch in een vergadering wil ik liever vijf woorden spreken met mijn verstand, opdat ik ook anderen zou onderwijzen, dan tien duizend woorden in een vreemde taal. 
+**[14:19]** Doch in een vergadering wil ik liever vijf woorden spreken met mijn verstand, opdat ik ook anderen zou onderwijzen, dan tien duizend woorden in een vreemde taal.
 
-**[14:20]**  Broeders, zijt geen kinderen in het verstand, maar zijt kinderen in de boosheid, en zijt volwassenen in het verstand.
+**[14:20]** Broeders, zijt geen kinderen in het verstand, maar zijt kinderen in de boosheid, en zijt volwassenen in het verstand.
 
 **[14:21]** In de wet is geschreven: In andere talen en met lippen van anderen zal Ik spreken tot dit volk, en ook alzoo zullen zij naar Mij niet hooren, zegt de Heere.
 
@@ -59666,13 +59666,13 @@
 
 **[14:32]** En de geesten der profeten zijn aan de profeten onderworpen.
 
-**[14:33]** Want God is niet een God van tweedracht maar van vrede. 
+**[14:33]** Want God is niet een God van tweedracht maar van vrede.
 
-**[14:34]**  Gelijk in al de gemeenten der heiligen moeten de vouwen in de vergaderingen zwijgen; want het is haar niet geoorloofd te spreken, maar zij moeten onderdanig zijn, zooals de wet zegt.
+**[14:34]** Gelijk in al de gemeenten der heiligen moeten de vouwen in de vergaderingen zwijgen; want het is haar niet geoorloofd te spreken, maar zij moeten onderdanig zijn, zooals de wet zegt.
 
-**[14:35]** Doch als zij iets willen leeren, dan moeten zij in huis haar eigen mannen er over vragen, want het is onwelvoegelijk voor een vrouw te spreken in de vergadering. 
+**[14:35]** Doch als zij iets willen leeren, dan moeten zij in huis haar eigen mannen er over vragen, want het is onwelvoegelijk voor een vrouw te spreken in de vergadering.
 
-**[14:36]**  Of is het woord Gods van u voortgekomen? Of is het tot u alleen gekomen?
+**[14:36]** Of is het woord Gods van u voortgekomen? Of is het tot u alleen gekomen?
 
 **[14:37]** Als iemand meent een profeet te zijn of een geestelijke, die moet bekennen van hetgeen ik u schrijf dat het van den Heere is.
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** Alzoo, mijn broeders, tracht naar het profeteeren en verbiedt niet te spreken in vreemde talen;
 
-**[14:40]** maar dat alles betamelijk en met orde geschiede!  
+**[14:40]** maar dat alles betamelijk en met orde geschiede!
 
 ### Chapter 15
 
@@ -59726,9 +59726,9 @@
 
 **[15:21]** Want naardien door een mensch de dood is, zoo is ook door een mensch de verrijzenis der dooden.
 
-**[15:22]** Want gelijk in Adam allen sterven, zoo ook zullen allen in Christus levend gemaakt worden. 
+**[15:22]** Want gelijk in Adam allen sterven, zoo ook zullen allen in Christus levend gemaakt worden.
 
-**[15:23]**  Maar een ieder in zijn eigen orde: de Eersteling Christus, daarna die van Christus zijn, in zijn verschijning,
+**[15:23]** Maar een ieder in zijn eigen orde: de Eersteling Christus, daarna die van Christus zijn, in zijn verschijning,
 
 **[15:24]** daarna komt het einde, wanneer Hij het koninkrijk aan God en den Vader zal overgegeven hebben, wanneer Hij alle heerschappij en alle macht en kracht zal vernietigd hebben.
 
@@ -59750,9 +59750,9 @@
 
 **[15:33]** Doolt niet! Kwade samensprekingen bederven goede zeden.
 
-**[15:34]** Ontwaakt rechtvaardiglijk en zondigt niet. Want sommigen hebben geen kennis van God. Tot beschaming zeg ik het u. 
+**[15:34]** Ontwaakt rechtvaardiglijk en zondigt niet. Want sommigen hebben geen kennis van God. Tot beschaming zeg ik het u.
 
-**[15:35]**  Maar, zal iemand zeggen: hoe worden de dooden opgewekt? En met welk lichaam komen zij?
+**[15:35]** Maar, zal iemand zeggen: hoe worden de dooden opgewekt? En met welk lichaam komen zij?
 
 **[15:36]** Gij onverstandige, wat gij zelf zaait wordt niet levend tenzij het gestorven is;
 
@@ -59782,9 +59782,9 @@
 
 **[15:49]** En gelijk wij het beeld des aardschen gedragen hebben, zoo zullen wij ook het beeld des bovenaardschen dragen.
 
-**[15:50]** Doch dit zeg ik, broeders, dat vleesch en bloed Gods koninkrijk niet kunnen beërven, en dat de verderfelijkheid de onverderfelijkheid niet beërft. 
+**[15:50]** Doch dit zeg ik, broeders, dat vleesch en bloed Gods koninkrijk niet kunnen beërven, en dat de verderfelijkheid de onverderfelijkheid niet beërft.
 
-**[15:51]**  Ziet, ik zeg ulieden een verborgenheid. Wij zullen wel niet allen sterven, maar wij zullen allen veranderd worden, in een wenk, in een oogenblik, bij de laatste bazuin.
+**[15:51]** Ziet, ik zeg ulieden een verborgenheid. Wij zullen wel niet allen sterven, maar wij zullen allen veranderd worden, in een wenk, in een oogenblik, bij de laatste bazuin.
 
 **[15:52]** Want de bazuin zal slaan en de dooden zullen onverderfelijk opgewekt worden en wij zullen veranderd worden.
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** Maar Gode zij dank, die ons de overwinning geeft door onzen Heere Jezus Christus.
 
-**[15:58]** Alzoo dan, mijn beminde broeders, zijt standvastig, onbewegelijk, altijd overvloedig in het werk des Heeren, daar gij weet dat uw arbeid niet tevergeefs is in den Heere.  
+**[15:58]** Alzoo dan, mijn beminde broeders, zijt standvastig, onbewegelijk, altijd overvloedig in het werk des Heeren, daar gij weet dat uw arbeid niet tevergeefs is in den Heere.
 
 ### Chapter 16
 
@@ -59808,9 +59808,9 @@
 
 **[16:3]** En wanneer ik gekomen zal zijn zal ik degenen, die gij door uw brieven geschikt acht, zenden om uw gift naar Jerusalem over te brengen.
 
-**[16:4]** En als het geschikt is dat ik zelf ga dan zullen zij met mij gaan. 
+**[16:4]** En als het geschikt is dat ik zelf ga dan zullen zij met mij gaan.
 
-**[16:5]**  Doch ik zal tot u komen als ik door Macedonië zal gegaan zijn, want ik moet door Macedonië gaan.
+**[16:5]** Doch ik zal tot u komen als ik door Macedonië zal gegaan zijn, want ik moet door Macedonië gaan.
 
 **[16:6]** En misschien zal ik bij u blijven of ook den winter doorbrengen, opdat gij mij moogt geleiden waar ik gaan zal.
 
@@ -59818,37 +59818,37 @@
 
 **[16:8]** Doch ik zal in Efesus blijven tot Pinksteren.
 
-**[16:9]** Want voor mij is een groote en krachtige deur geopend en er zijn veel tegenstanders. 
+**[16:9]** Want voor mij is een groote en krachtige deur geopend en er zijn veel tegenstanders.
 
-**[16:10]**  En wanneer Timotheüs zal gekomen zijn, ziet toe dat hij zonder vreeze bij u zij, want hij werkt het werk des Heeren, zooals ook ik.
+**[16:10]** En wanneer Timotheüs zal gekomen zijn, ziet toe dat hij zonder vreeze bij u zij, want hij werkt het werk des Heeren, zooals ook ik.
 
-**[16:11]** Dat dan niemand hem verachte, maar geleidt hem in vrede, opdat hij tot mij kome, want ik verwacht hem met de broeders. 
+**[16:11]** Dat dan niemand hem verachte, maar geleidt hem in vrede, opdat hij tot mij kome, want ik verwacht hem met de broeders.
 
-**[16:12]**  Wat nu den broeder Apollos betreft, ik heb hem zeer verzocht dat hij tot u zou komen met de broeders, doch het was in het geheel niet naar zijn zin om nu te komen, maar hij zal komen als hij gelegenheid zal hebben. 
+**[16:12]** Wat nu den broeder Apollos betreft, ik heb hem zeer verzocht dat hij tot u zou komen met de broeders, doch het was in het geheel niet naar zijn zin om nu te komen, maar hij zal komen als hij gelegenheid zal hebben.
 
-**[16:13]**  Waakt, staat in het geloof, houdt u mannelijk, zijt kloek!
+**[16:13]** Waakt, staat in het geloof, houdt u mannelijk, zijt kloek!
 
-**[16:14]** Laat al wat gij doet in liefde geschieden! 
+**[16:14]** Laat al wat gij doet in liefde geschieden!
 
-**[16:15]**  En ik verzoek u, broeders, — gij kent het huisgezin van Stefanas, dat het de eerstelingvrucht van Achaje is en dat zij zich zelven gesteld hebben ten dienste der heiligen
+**[16:15]** En ik verzoek u, broeders, — gij kent het huisgezin van Stefanas, dat het de eerstelingvrucht van Achaje is en dat zij zich zelven gesteld hebben ten dienste der heiligen
 
 **[16:16]** dat gij u ook onderwerpt aan dezulken en aan elk die medewerkt en arbeidt.
 
 **[16:17]** Ik ben verblijd over de aankomst van Stefanas en van Fortunatus en van Achaïkus, want wat van uw kant ontbrak dat hebben zij aangevuld.
 
-**[16:18]** Want zij hebben mijn geest verkwikt en den uwe. Erkent dan dezulken. 
+**[16:18]** Want zij hebben mijn geest verkwikt en den uwe. Erkent dan dezulken.
 
-**[16:19]**  U groeten de gemeenten van Asië. U groeten hartelijk in den Heere, Aquila en Priska, met de gemeente ten hunnen huize.
+**[16:19]** U groeten de gemeenten van Asië. U groeten hartelijk in den Heere, Aquila en Priska, met de gemeente ten hunnen huize.
 
 **[16:20]** U groeten al de broeders. Groet elkander met een heiligen kus.
 
-**[16:21]** De groetenis met mijn hand, van Paulus. 
+**[16:21]** De groetenis met mijn hand, van Paulus.
 
-**[16:22]**  Als iemand den Heere Jezus Christus niet bemint, die zij vervloekt! Maranatha!
+**[16:22]** Als iemand den Heere Jezus Christus niet bemint, die zij vervloekt! Maranatha!
 
 **[16:23]** De genade van den Heere Jezus Christus zij met ulieden!
 
-**[16:24]** Mijn liefde is met ulieden allen in Christus Jezus! Amen.   
+**[16:24]** Mijn liefde is met ulieden allen in Christus Jezus! Amen.
 
 ## II Corinthians
 
@@ -59856,9 +59856,9 @@
 
 **[1:1]** Paulus, apostel van Jezus Christus, door den wil van God, en Timotheüs de broeder, aan de gemeente Gods die in Korinthe is, met al de heiligen die in geheel Achaje zijn,
 
-**[1:2]** genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus! 
+**[1:2]** genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus!
 
-**[1:3]**  Geprezen zij de God en Vader van onzen Heere Jezus Christus, de Vader der barmhartigheden en de God aller vertroosting,
+**[1:3]** Geprezen zij de God en Vader van onzen Heere Jezus Christus, de Vader der barmhartigheden en de God aller vertroosting,
 
 **[1:4]** die ons vertroost in al onze verdrukking, opdat wij zouden kunnen vertroosten degenen die in alle verdrukking zijn, door de vertroosting waarmede wij zelven vertroost worden van God.
 
@@ -59866,23 +59866,23 @@
 
 **[1:6]** Doch hetzij dat wij verdrukt worden, het is tot uw vertroosting en behoudenis; hetzij dat wij vertroost worden, het is tot uw vertroosting, die werkzaam is in de volharding van dezelfde smarten die ook wij lijden.
 
-**[1:7]** En onze hoop is vast op ulieden, wetende dat, gelijk gij deelgenooten zijt van de smarten, gij ook alzoo deelgenooten zijt van de vertroosting. 
+**[1:7]** En onze hoop is vast op ulieden, wetende dat, gelijk gij deelgenooten zijt van de smarten, gij ook alzoo deelgenooten zijt van de vertroosting.
 
-**[1:8]**  Want wij willen niet, broeders, dat gij onkundig zijt van onze verdrukking die ons in Asië overkomen is, zoodat wij overmatig boven onze krachten bezwaard zijn geweest, zoodat wij zelfs wanhoopten aan het leven.
+**[1:8]** Want wij willen niet, broeders, dat gij onkundig zijt van onze verdrukking die ons in Asië overkomen is, zoodat wij overmatig boven onze krachten bezwaard zijn geweest, zoodat wij zelfs wanhoopten aan het leven.
 
 **[1:9]** Ja zelfs hadden wij in ons zelven reeds het vonnis des doods, opdat wij niet vertrouwen zouden op ons zelven, maar op dien God die de dooden opwekt;
 
 **[1:10]** die ons uit zoodanigen dood verlost heeft en verlost; op wien wij hopen dat Hij ons ook nog verlossen zal.
 
-**[1:11]** Ook gijlieden werkt toch mede in het gebed voor ons, opdat voor de gifte door vele personen aan ons toegebracht, voor ons ook door velen dankzegging gebracht worde. 
+**[1:11]** Ook gijlieden werkt toch mede in het gebed voor ons, opdat voor de gifte door vele personen aan ons toegebracht, voor ons ook door velen dankzegging gebracht worde.
 
-**[1:12]**  Want onze roem is deze: de getuigenis van onze konsciëntie dat wij in heiligheid en oprechtheid voor God, niet in vleeschelijke wijsheid, maar in de genade Gods, in de wereld verkeerd hebben, en inzonderheid bij ulieden.
+**[1:12]** Want onze roem is deze: de getuigenis van onze konsciëntie dat wij in heiligheid en oprechtheid voor God, niet in vleeschelijke wijsheid, maar in de genade Gods, in de wereld verkeerd hebben, en inzonderheid bij ulieden.
 
 **[1:13]** Want wij schrijven u geen andere dingen dan die gij leest of ook erkent; doch ik hoop dat gij ze tot den einde toe erkennen zult;
 
-**[1:14]** zooals gij ook ten deele ons erkend hebt, dat wij uw roem zijn gelijk gij ook de onze zijt, in den dag van onzen Heere Jezus. 
+**[1:14]** zooals gij ook ten deele ons erkend hebt, dat wij uw roem zijn gelijk gij ook de onze zijt, in den dag van onzen Heere Jezus.
 
-**[1:15]**  En in dit vertrouwen wilde ik eerst tot ulieden komen, opdat gij een tweede gunst zoudt ontvangen,
+**[1:15]** En in dit vertrouwen wilde ik eerst tot ulieden komen, opdat gij een tweede gunst zoudt ontvangen,
 
 **[1:16]** en langs u naar Macedonië trekken en wederom van Macedonië tot u komen en door ulieden voortgeholpen worden naar Judea.
 
@@ -59890,17 +59890,17 @@
 
 **[1:18]** Doch God is getuige dat ons woord tot u niet is Ja en Neen.
 
-**[1:19]** Want de Zoon van God, Jezus Christus, die onder u door ons gepredikt is, door mij en Silvanus en Timotheüs, was niet Ja en Neen, maar was Ja in Hem. 
+**[1:19]** Want de Zoon van God, Jezus Christus, die onder u door ons gepredikt is, door mij en Silvanus en Timotheüs, was niet Ja en Neen, maar was Ja in Hem.
 
-**[1:20]**  Want zoovele beloften Gods als er zijn, in Hem is het Ja; daarom is ook door Hem het Amen, Gode tot glorie door ons.
+**[1:20]** Want zoovele beloften Gods als er zijn, in Hem is het Ja; daarom is ook door Hem het Amen, Gode tot glorie door ons.
 
 **[1:21]** Maar die ons met ulieden vaststelt in Christus, en die ons gezalfd heeft, is God,
 
-**[1:22]** die ons ook verzegeld heeft en het onderpand des Geestes in onze harten gegeven heeft. 
+**[1:22]** die ons ook verzegeld heeft en het onderpand des Geestes in onze harten gegeven heeft.
 
-**[1:23]**  Maar ik aanroep God tot getuige over mijn leven, dat ik om u te sparen nog niet naar Korinthe ben gekomen.
+**[1:23]** Maar ik aanroep God tot getuige over mijn leven, dat ik om u te sparen nog niet naar Korinthe ben gekomen.
 
-**[1:24]** Niet omdat wij heerschappij voeren over uw geloof, maar wij zijn medearbeiders aan uw blijdschap; want door het geloof staat gij vast.  
+**[1:24]** Niet omdat wij heerschappij voeren over uw geloof, maar wij zijn medearbeiders aan uw blijdschap; want door het geloof staat gij vast.
 
 ### Chapter 2
 
@@ -59908,13 +59908,13 @@
 
 **[2:2]** Want als ik ulieden bedroef, wie is het dan die mij kan verblijden, dan alleen degene die door mij bedroefd is?
 
-**[2:3]** En ik heb dit zelfde geschreven opdat ik niet, als ik kom, droefheid zou hebben van degenen door wie ik verblijd moest worden, vertrouwende op u allen, dat mijn blijdschap uw aller blijdschap is. 
+**[2:3]** En ik heb dit zelfde geschreven opdat ik niet, als ik kom, droefheid zou hebben van degenen door wie ik verblijd moest worden, vertrouwende op u allen, dat mijn blijdschap uw aller blijdschap is.
 
-**[2:4]**  Want uit vele verdrukking en benauwdheid des harten heb ik ulieden geschreven met vele tranen; niet opdat gij zoudt bedroefd worden, maar opdat gij mijn liefde zoudt weten die ik overvloedig voor ulieden heb.
+**[2:4]** Want uit vele verdrukking en benauwdheid des harten heb ik ulieden geschreven met vele tranen; niet opdat gij zoudt bedroefd worden, maar opdat gij mijn liefde zoudt weten die ik overvloedig voor ulieden heb.
 
-**[2:5]** Doch als iemand bedroefd heeft, dan heeft hij mij niet bedroefd, maar ten deele, opdat ik hem niet bezware, u allen. 
+**[2:5]** Doch als iemand bedroefd heeft, dan heeft hij mij niet bedroefd, maar ten deele, opdat ik hem niet bezware, u allen.
 
-**[2:6]**  Den zoodanige is deze bestraffing voldoende, die door de meerderheid is toegedeeld,
+**[2:6]** Den zoodanige is deze bestraffing voldoende, die door de meerderheid is toegedeeld,
 
 **[2:7]** alzoo dat gij den zoodanige liever moet vergeven en vertroosten, opdat niet door al te groote droefheid de zoodanige worde verslonden.
 
@@ -59924,9 +59924,9 @@
 
 **[2:10]** Want aan wien gij iets vergeeft, die geef ik ook; en wat ik ook vergeven heb, als ik iets heb vergeven, dat deed ik om uwentwil, in de tegenwoordigheid van Christus, opdat de Satan geen voordeel op ons behale,
 
-**[2:11]** want zijn aanslagen zijn ons niet onbekend. 
+**[2:11]** want zijn aanslagen zijn ons niet onbekend.
 
-**[2:12]**  Doch toen ik naar Troas kwam om het Evangelie van den Christus, en toen mij een deur geopend was in den Heere,
+**[2:12]** Doch toen ik naar Troas kwam om het Evangelie van den Christus, en toen mij een deur geopend was in den Heere,
 
 **[2:13]** zoo heb ik toch geen rust gehad voor mijn geest omdat ik Titus mijn broeder daar niet vond, maar ik nam van hen afscheid en ging uit naar Macedonië.
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** Voor deze laatsten wel een reuke uit den dood tot den dood, maar voor de eersten een reuke uit het leven tot het leven. En wie is bekwaam tot deze dingen?
 
-**[2:17]** Want wij zijn niet als die velen, die Gods woord te koop aanbieden, maar als uit oprechtheid, maar als uit God, voor Gods aangezicht, spreken wij in Christus.  
+**[2:17]** Want wij zijn niet als die velen, die Gods woord te koop aanbieden, maar als uit oprechtheid, maar als uit God, voor Gods aangezicht, spreken wij in Christus.
 
 ### Chapter 3
 
@@ -59948,9 +59948,9 @@
 
 **[3:4]** En een zoodanig vertrouwen hebben wij door Christus op God.
 
-**[3:5]** Niet dat wij van ons zelven bekwaam zijn om iets te verstaan als uit ons zelven, maar onze bekwaamheid is uit God. 
+**[3:5]** Niet dat wij van ons zelven bekwaam zijn om iets te verstaan als uit ons zelven, maar onze bekwaamheid is uit God.
 
-**[3:6]**  Die ons ook bekwaam gemaakt heeft als dienaars van een nieuw verbond, niet van de letter maar van den geest; want de letter doodt maar de geest maakt levend.
+**[3:6]** Die ons ook bekwaam gemaakt heeft als dienaars van een nieuw verbond, niet van de letter maar van den geest; want de letter doodt maar de geest maakt levend.
 
 **[3:7]** Doch als de bediening des doods, die met letters in steenen gegraveerd is, in glorie is geweest, zoodat de kinderen Israëls niet konden blijven zien op het aangezicht van Mozes, vanwege de glorie zijns aangezichts die voorbijging,
 
@@ -59960,9 +59960,9 @@
 
 **[3:10]** En de bediening van Mozes, die verheerlijkt was, bezit niet de heerlijkheid in die mate, wegens de alles overtreffende heerlijkheid.
 
-**[3:11]** Want als hetgeen voorbijging door glorie was, hoeveel te meer zal hetgeen blijft in glorie zijn! 
+**[3:11]** Want als hetgeen voorbijging door glorie was, hoeveel te meer zal hetgeen blijft in glorie zijn!
 
-**[3:12]**  Zoodanige hoop dan hebbende, gebruiken wij veel vrijmoedigheid,
+**[3:12]** Zoodanige hoop dan hebbende, gebruiken wij veel vrijmoedigheid,
 
 **[3:13]** en doen niet zooals Mozes, die een bedekking leide op zijn aangezicht, opdat de kinderen Israëls niet zouden bleven zien op het einde van hetgeen voorbijgaande was.
 
@@ -59970,27 +59970,27 @@
 
 **[3:15]** Maar tot vandaag toe, zoo dikwijls als de wet van Mozes gelezen wordt, ligt een bedekking op hun harte.
 
-**[3:16]** Maar als het tot den Heere bekeerd zal zijn, dan wordt de bedekking weggenomen. 
+**[3:16]** Maar als het tot den Heere bekeerd zal zijn, dan wordt de bedekking weggenomen.
 
-**[3:17]**  Doch de Heere is de Geest, en waar de Geest des Heeren is, daar is vrijheid.
+**[3:17]** Doch de Heere is de Geest, en waar de Geest des Heeren is, daar is vrijheid.
 
-**[3:18]** Doch wij allen, die met een ongedekt aangezicht de glorie des Heeren als een spiegel weergeven, worden veranderd naar hetzelfde beeld, van glorie tot glorie, als van den Heer des Geestes.  
+**[3:18]** Doch wij allen, die met een ongedekt aangezicht de glorie des Heeren als een spiegel weergeven, worden veranderd naar hetzelfde beeld, van glorie tot glorie, als van den Heer des Geestes.
 
 ### Chapter 4
 
 **[4:1]** Daarom, nu wij deze bediening hebben naar de ons geschonken barmhartigheid, zoo zijn wij niet moedeloos,
 
-**[4:2]** maar wij hebben de verborgenheden der schande weggeworpen, niet wandelende in listigheid, noch Gods woord vervalschende, maar door de openbaring der waarheid maken wij ons zelven aannemelijk bij alle konsciëntiën der menschen, voor Gods aangezicht. 
+**[4:2]** maar wij hebben de verborgenheden der schande weggeworpen, niet wandelende in listigheid, noch Gods woord vervalschende, maar door de openbaring der waarheid maken wij ons zelven aannemelijk bij alle konsciëntiën der menschen, voor Gods aangezicht.
 
-**[4:3]**  Doch indien ook ons Evangelie bedekt is, dan is het bedekt in degenen die verloren gaan.
+**[4:3]** Doch indien ook ons Evangelie bedekt is, dan is het bedekt in degenen die verloren gaan.
 
 **[4:4]** in wie de god dezer eeuw de zinnen der ongeloovigen heeft verblind, opdat zij niet zouden zien het licht des Evangelies der glorie van Christus, die het beeld van God is.
 
-**[4:5]** Want niet ons zelven prediken wij, maar Christus Jezus als Heer en ons zelven als uw dienaars om Jezus wil. 
+**[4:5]** Want niet ons zelven prediken wij, maar Christus Jezus als Heer en ons zelven als uw dienaars om Jezus wil.
 
-**[4:6]**  Want dezelfde God die gezegd heeft: uit duisternis schijne het licht! die heeft ook in onze harten geschenen tot verlichting der kennis der glorie van God, in het aangezicht van Jezus Christus. 
+**[4:6]** Want dezelfde God die gezegd heeft: uit duisternis schijne het licht! die heeft ook in onze harten geschenen tot verlichting der kennis der glorie van God, in het aangezicht van Jezus Christus.
 
-**[4:7]**  Doch wij hebben dezen schat in aarden vaten, opdat de uitnemendheid der kracht zij van God, en niet uit ons,
+**[4:7]** Doch wij hebben dezen schat in aarden vaten, opdat de uitnemendheid der kracht zij van God, en niet uit ons,
 
 **[4:8]** die in alles verdrukt worden, doch niet in het nauw; geen raad wetende, doch niet radeloos;
 
@@ -60000,9 +60000,9 @@
 
 **[4:11]** Want wij worden al levende altijd overgegeven in den dood om Jezus wil, opdat ook het leven van Jezus openbaar zou worden in ons sterfelijk vleesch.
 
-**[4:12]** Zoo dan, de dood werkt in ons, maar het leven in ulieden. 
+**[4:12]** Zoo dan, de dood werkt in ons, maar het leven in ulieden.
 
-**[4:13]**  Doch hebbende denzelfden geest des geloofs, zooals er geschreven is: Ik heb geloofd daarom heb ik gesproken zoo gelooven wij ook en daarom spreken wij,
+**[4:13]** Doch hebbende denzelfden geest des geloofs, zooals er geschreven is: Ik heb geloofd daarom heb ik gesproken zoo gelooven wij ook en daarom spreken wij,
 
 **[4:14]** wetende dat Hij die den Heere Jezus heeft opgewekt, ook ons met Jezus zal opwekken en met u zal doen verschijnen.
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** Want onze lichte verdrukking, die maar voor een oogenblik is, werkt ons op de meest uitnemende wijze een eeuwig gewicht van glorie,
 
-**[4:18]** omdat wij niet het oog hebben op de dingen die zichtbaar zijn, maar op de dingen die niet zichtbaar zijn; want de zichtbare dingen zijn voor een tijd, maar de onzichtbare dingen zijn eeuwig.  
+**[4:18]** omdat wij niet het oog hebben op de dingen die zichtbaar zijn, maar op de dingen die niet zichtbaar zijn; want de zichtbare dingen zijn voor een tijd, maar de onzichtbare dingen zijn eeuwig.
 
 ### Chapter 5
 
@@ -60030,9 +60030,9 @@
 
 **[5:7]** — want door geloof wandelen wij, niet door aanschouwen—
 
-**[5:8]** zoo hebben wij goeden moed en begeeren liever uit te wonen uit het lichaam en in te wonen bij den Heere. 
+**[5:8]** zoo hebben wij goeden moed en begeeren liever uit te wonen uit het lichaam en in te wonen bij den Heere.
 
-**[5:9]**  Daarom trachten wij ook zeer, hetzij inwonende hetzij uitwonende, om welbehagelijk te zijn aan Hem.
+**[5:9]** Daarom trachten wij ook zeer, hetzij inwonende hetzij uitwonende, om welbehagelijk te zijn aan Hem.
 
 **[5:10]** Want wij allen moeten openbaar worden voor den rechterstoel van Christus, opdat ieder ontvange naar hetgeen hij door het lichaam gedaan heeft, hetzij goed hetzij kwaad.
 
@@ -60040,9 +60040,9 @@
 
 **[5:12]** Niet dat wij wederom ons zelven bij u aanprijzen, maar wij geven u gelegenheid om wegens ons te roemen, opdat gij u zoudt kunnen verantwoorden bij degenen die zich beroemen in den uitwendigen schijn en niet in het harte.
 
-**[5:13]** Want hetzij dat wij buiten zinnen zijn, we zijn het voor God; hetzij dat wij gezond van zinnen zijn, het is voor ulieden. 
+**[5:13]** Want hetzij dat wij buiten zinnen zijn, we zijn het voor God; hetzij dat wij gezond van zinnen zijn, het is voor ulieden.
 
-**[5:14]**  Want de liefde van Christus dringt ons,
+**[5:14]** Want de liefde van Christus dringt ons,
 
 **[5:15]** omdat wij dit oordeelen dat één voor allen gestorven is; dan zijn ook allen gestorven. En voor allen is; Hij gestorven opdat de levenden niet meer voor zich zelven zouden leven, maarvoor Hem die voor hen gestorven is en verrezen.
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** Voor Christus dus zijn wij gezanten, als van God die door ons vermaant: wij smeeken voor Christus, laat u met God verzoenen!
 
-**[5:21]** Want Hem die geen zonde gekend heeft, heeft Hij zonde gemaakt ten onzen behoeve, opdat wij zouden worden rechtvaardigheid Gods in Hem.  
+**[5:21]** Want Hem die geen zonde gekend heeft, heeft Hij zonde gemaakt ten onzen behoeve, opdat wij zouden worden rechtvaardigheid Gods in Hem.
 
 ### Chapter 6
 
@@ -60078,9 +60078,9 @@
 
 **[6:9]** als onbekenden en toch goed bekend, als stervenden en zie, wij leven; als gekastijd en toch niet gedood,
 
-**[6:10]** als bedroefden en toch altijd blijde zijnde, als armen en toch velen rijk makende, als niets hebbende en toch alles bezittende. 
+**[6:10]** als bedroefden en toch altijd blijde zijnde, als armen en toch velen rijk makende, als niets hebbende en toch alles bezittende.
 
-**[6:11]**  Onze mond is opengedaan tegen u, o Korinthiërs, ons hart is uitgebreid.
+**[6:11]** Onze mond is opengedaan tegen u, o Korinthiërs, ons hart is uitgebreid.
 
 **[6:12]** Gij hebt geen kleine plaats in ons, maar gij hebt een kleine plaats in uw eigen gemoed!
 
@@ -60094,13 +60094,13 @@
 
 **[6:17]** Daarom gaat uit hun midden en scheidt u af— zegt de Heere— en raakt het onreine niet aan, en Ik zal u aannemen.
 
-**[6:18]** En Ik zal u zijn tot een Vader, en gij zult Mij zijn tot zonen en dochteren, zegt de Heere, de Almachtige.  
+**[6:18]** En Ik zal u zijn tot een Vader, en gij zult Mij zijn tot zonen en dochteren, zegt de Heere, de Almachtige.
 
 ### Chapter 7
 
-**[7:1]** Deze beloften dan hebbende, beminden, laat ons van alle onreinheid van vleesch en geest ons zelven reinigen, volbrengende de heiligmaking in de vreeze Gods. 
+**[7:1]** Deze beloften dan hebbende, beminden, laat ons van alle onreinheid van vleesch en geest ons zelven reinigen, volbrengende de heiligmaking in de vreeze Gods.
 
-**[7:2]**  Opent uw harten voor ons! Niemand hebben wij onrecht aangedaan, niemand hebben wij benadeeld, van niemand hebben wij voordeel getrokken.
+**[7:2]** Opent uw harten voor ons! Niemand hebben wij onrecht aangedaan, niemand hebben wij benadeeld, van niemand hebben wij voordeel getrokken.
 
 **[7:3]** Tot veroordeeling spreek ik niet, want ik heb vooraf gezegd dat gij in onze harten zijt om samen te sterven en samen te leven.
 
@@ -60110,9 +60110,9 @@
 
 **[7:6]** Maar God, die de nedergedrukten vertroost, heeft ons vertroost in de aankomst van Titus.
 
-**[7:7]** Doch niet alleen in zijn aankomst, maar ook in de vertroosting waardoor hij bij u vertroost is geweest, terwijl hij ons verhaalde van uw verlangen, uw weenen, uw ijver voor mij, zoodat ik mij nog meer verheug. 
+**[7:7]** Doch niet alleen in zijn aankomst, maar ook in de vertroosting waardoor hij bij u vertroost is geweest, terwijl hij ons verhaalde van uw verlangen, uw weenen, uw ijver voor mij, zoodat ik mij nog meer verheug.
 
-**[7:8]**  Want alhoewel ik u in den brief bedroefd heb, ik heb daar toch geen berouw van; en al had ik er ook berouw van gehad— want ik zie dat die brief u voor een korten tijd bedroefd heeft—
+**[7:8]** Want alhoewel ik u in den brief bedroefd heb, ik heb daar toch geen berouw van; en al had ik er ook berouw van gehad— want ik zie dat die brief u voor een korten tijd bedroefd heeft—
 
 **[7:9]** zoo ben ik nu toch blijde, niet omdat gij zijt bedroefd geworden, maar omdat gij tot boetvaardigheid zijt bedroefd geworden; want gij zijt bedroefd geworden naar God, zoodat gij in niets van ons nadeel geleden hebt.
 
@@ -60120,15 +60120,15 @@
 
 **[7:11]** Want ziet, dat bedroefd worden naar God, hoe groote zorgvuldigheid heeft dat voor u gewerkt! wat een verdediging, wat een verontwaardiging, wat een vreeze, wat een verlangen, wat een ijver, wat een bestraffing! In alles hebt gij u zelven getoond zuiver te zijn in deze zaak.
 
-**[7:12]** Zoo dan, als ik u ook geschreven heb, dan is dit niet ter wille van hem die onrecht gedaan heeft, noch ter wille van hem dien onrecht aangedaan is, maar opdat uw zorgvuldigheid ten onzen behoeve zou openbaar worden voor u in Gods tegenwoordigheid. 
+**[7:12]** Zoo dan, als ik u ook geschreven heb, dan is dit niet ter wille van hem die onrecht gedaan heeft, noch ter wille van hem dien onrecht aangedaan is, maar opdat uw zorgvuldigheid ten onzen behoeve zou openbaar worden voor u in Gods tegenwoordigheid.
 
-**[7:13]**  Daarom zijn wij vertroost geweest. En bij onze vertroosting zijn wij nog veel overvloediger verblijd geworden over de blijdschap van Titus, omdat zijn geest verkwikt is van u allen.
+**[7:13]** Daarom zijn wij vertroost geweest. En bij onze vertroosting zijn wij nog veel overvloediger verblijd geworden over de blijdschap van Titus, omdat zijn geest verkwikt is van u allen.
 
 **[7:14]** Want als ik in iets bij hem over u geroemd heb, dan ben ik niet beschaamd geworden, maar zooals wij alles tot u in waarheid gesproken hebben, zoo is ook onze roem bij Titus waarheid geweest.
 
 **[7:15]** En zijn innerlijke genegenheden zijn te overvloediger tot u, als hij gedenkt aan de gehoorzaamheid van u allen, hoe gij hem met vreeze en beving ontvangen hebt.
 
-**[7:16]** Ik verblijd mij dat ik in alles van u vertrouwen mag hebben.  
+**[7:16]** Ik verblijd mij dat ik in alles van u vertrouwen mag hebben.
 
 ### Chapter 8
 
@@ -60140,15 +60140,15 @@
 
 **[8:4]** met veel aandrang ons smeekende om de gunst van ook deel te mogen hebben; aan dezen dienst jegens de heiligen.
 
-**[8:5]** En dat niet alleen, zooals wij gehoopt hadden, maar ze gaven zich zelven eerst aan den Heere en aan ons! door den wil van God. 
+**[8:5]** En dat niet alleen, zooals wij gehoopt hadden, maar ze gaven zich zelven eerst aan den Heere en aan ons! door den wil van God.
 
-**[8:6]**  Daarom hebben wij Titus verzocht om deze gunst ook, aan ulieden te volbrengen, zooals hij te voren begonnen was.
+**[8:6]** Daarom hebben wij Titus verzocht om deze gunst ook, aan ulieden te volbrengen, zooals hij te voren begonnen was.
 
 **[8:7]** Maar gelijk gij overvloedig zijt in alles, in geloof, en woord, en kennis, en allen ijver, en in uw liefde jegens ons, zoo moet gij ook in deze gunst overvloedig zijn.
 
-**[8:8]** Ik zeg dit niet als gebiedende, maar als om door den ijver van anderen ook de oprechtheid uwer liefde te beproeven. 
+**[8:8]** Ik zeg dit niet als gebiedende, maar als om door den ijver van anderen ook de oprechtheid uwer liefde te beproeven.
 
-**[8:9]**  Want gij kent de genade van onzen Heere Jezus Christus, dat Hij, rijk zijnde, arm geworden is om uwentwille, opdat gij door zijn armoede zoudt rijk worden.
+**[8:9]** Want gij kent de genade van onzen Heere Jezus Christus, dat Hij, rijk zijnde, arm geworden is om uwentwille, opdat gij door zijn armoede zoudt rijk worden.
 
 **[8:10]** En in dezen geef ik mijn gedachte. Want dit is ulieden tot nuttigheid, die niet alleen het doen maar het willen al een jaar geleden begonnen zijt.
 
@@ -60160,9 +60160,9 @@
 
 **[8:14]** Uw overvloed toch in dezen tegenwoordigen tijd is tot hun hulp, opdat ook hun overvloed eens u tot hulp zij; opdat er gelijkheid zij;
 
-**[8:15]** zooals er geschreven is: hij die veel verzamelde had geen overvloed en hij die weinig verzamelde kwam niet te kort. 
+**[8:15]** zooals er geschreven is: hij die veel verzamelde had geen overvloed en hij die weinig verzamelde kwam niet te kort.
 
-**[8:16]**  Gode nu zij dank, die denzelfden ijver voor u gegeven heeft in het hart van Titus,
+**[8:16]** Gode nu zij dank, die denzelfden ijver voor u gegeven heeft in het hart van Titus,
 
 **[8:17]** dat hij het verzoek heeft ingewilligd; zelfs was hij zeer ijverig en gewillig om tot u te gaan.
 
@@ -60174,25 +60174,25 @@
 
 **[8:21]** Want wij betrachten het goede, niet alleen voor het aangezicht des Heeren, maar ook voor het aangezicht der menschen.
 
-**[8:22]** Wij hebben dan met hen onzen broeder gezonden, dien wij in vele dingen dikwijls getrouw bevonden hebben, doch nu nog veel getrouwer vanwege het groot vertrouwen in u. 
+**[8:22]** Wij hebben dan met hen onzen broeder gezonden, dien wij in vele dingen dikwijls getrouw bevonden hebben, doch nu nog veel getrouwer vanwege het groot vertrouwen in u.
 
-**[8:23]**  Als iemand naar Titus onderzoek doet, hij is mijn medgezel en medearbeider bij u; of naar onze andere broeders, zij zijn afgezanten der gemeenten, een glorie van Christus.
+**[8:23]** Als iemand naar Titus onderzoek doet, hij is mijn medgezel en medearbeider bij u; of naar onze andere broeders, zij zijn afgezanten der gemeenten, een glorie van Christus.
 
-**[8:24]** Geeft hun dan een bewijs uwer liefde en van onzen roem ten uwen behoeve voor het aangezicht der gemeenten.  
+**[8:24]** Geeft hun dan een bewijs uwer liefde en van onzen roem ten uwen behoeve voor het aangezicht der gemeenten.
 
 ### Chapter 9
 
 **[9:1]** Om nu over dezen dienst aan de heiligen aan u te schrijven, dat is mij overbodig,
 
-**[9:2]** want ik weet uw bereidwilligheid, waarvan ik roem over u bij de Macedoniërs, omdat Achaje al een jaar lang bereid is geweest, en uw ijver heeft meerderen opgewekt. 
+**[9:2]** want ik weet uw bereidwilligheid, waarvan ik roem over u bij de Macedoniërs, omdat Achaje al een jaar lang bereid is geweest, en uw ijver heeft meerderen opgewekt.
 
-**[9:3]**  Ik heb dan de broeders gezonden, opdat onze roem over u in dit opzicht niet ijdel zou zijn en gij bereid moogt zijn zooals ik gezegd heb;
+**[9:3]** Ik heb dan de broeders gezonden, opdat onze roem over u in dit opzicht niet ijdel zou zijn en gij bereid moogt zijn zooals ik gezegd heb;
 
 **[9:4]** opdat niet, als de Macedoniërs met mij zouden komen, en zij u onvoorbereid zouden vinden, wij, (om niet te zeggen: gij) in dit vertrouwen beschaamd zouden staan.
 
-**[9:5]** Daarom heb ik het noodig geacht den broeders te verzoeken dat zij eerst naar u zouden gaan en vooraf in orde zouden brengen de u te voren aangekondigde kollekte, opdat die gereed zij als een gewillige, niet als een karige gifte. 
+**[9:5]** Daarom heb ik het noodig geacht den broeders te verzoeken dat zij eerst naar u zouden gaan en vooraf in orde zouden brengen de u te voren aangekondigde kollekte, opdat die gereed zij als een gewillige, niet als een karige gifte.
 
-**[9:6]**  En dit zeg ik: die karig zaait zal ook karig maaien, en die mildelijk zaait zal ook mildelijk maaien.
+**[9:6]** En dit zeg ik: die karig zaait zal ook karig maaien, en die mildelijk zaait zal ook mildelijk maaien.
 
 **[9:7]** Een ieder doe zooals hij in zijn hart heeft voorgenomen, niet met tegenzin of uit dwang, want God bemint een blijmoedigen gever.
 
@@ -60202,15 +60202,15 @@
 
 **[9:10]** Hij nu die den zaaier zaad verschaft, die verschaffe ook brood tot voedsel en zal uw zaad om te zaaien vermenigvuldigen en de vruchten uwer rechtvaardigheid vermeerderen;
 
-**[9:11]** daar gij in alles rijk zijt tot alle milddadigheid, die door ons dankzegging aan God voortbrengt. 
+**[9:11]** daar gij in alles rijk zijt tot alle milddadigheid, die door ons dankzegging aan God voortbrengt.
 
-**[9:12]**  Want de volbrenging van dezen dienst is niet alleen vervullende de behoeften der heiligen, maar is ook overvloedig door vele dankzeggingen aan God;
+**[9:12]** Want de volbrenging van dezen dienst is niet alleen vervullende de behoeften der heiligen, maar is ook overvloedig door vele dankzeggingen aan God;
 
 **[9:13]** overmits zij door de proeve dezer bediening God de glorie geven wegens de gehoorzaamheid uwer belijdenis van het Evangelie van Christus en wegens de milddadigheid uwer giften aan hen en aan allen,
 
 **[9:14]** en wegens hun gebed voor u, naar u verlangende vanwege de alles overtreffende genade Gods over u.
 
-**[9:15]** Gode zij dank voor zijn onuitsprekelijke gifte!  
+**[9:15]** Gode zij dank voor zijn onuitsprekelijke gifte!
 
 ### Chapter 10
 
@@ -60244,11 +60244,11 @@
 
 **[10:15]** Niet roemende boven mate in den arbeid van anderen, maar hopende dat, als uw geloof zal vermeerderd zijn, wij onder u zullen grooter worden naar onzen werkkring,
 
-**[10:16]** om het Evangelie te verkondigen tot de landen die voorbij u gelegen zijn, om niet te roemen in den werkkring van anderen die reeds bereid is. 
+**[10:16]** om het Evangelie te verkondigen tot de landen die voorbij u gelegen zijn, om niet te roemen in den werkkring van anderen die reeds bereid is.
 
-**[10:17]**  Doch die roemt roeme in den Heere.
+**[10:17]** Doch die roemt roeme in den Heere.
 
-**[10:18]** Want niet die zich zelven prijst, die is goedgekeurd, maar dien de Heere prijst.  
+**[10:18]** Want niet die zich zelven prijst, die is goedgekeurd, maar dien de Heere prijst.
 
 ### Chapter 11
 
@@ -60258,9 +60258,9 @@
 
 **[11:3]** Doch ik vrees dat uw zinnen misschien worden afgetrokken van de eenvoudigheid die naar Christus leidt, zooals de slang in haar listigheid Eva heeft verleid.
 
-**[11:4]** Want als er iemand komt die een anderen Jezus zou prediken, dien wij niet gepredikt hebben, of als gij een anderen Geest zoudt ontvangen dien gij niet ontvangen hebt, of een ander Evangelie dat gij niet ontvangen hebt, — dien verdraagt gij wel! 
+**[11:4]** Want als er iemand komt die een anderen Jezus zou prediken, dien wij niet gepredikt hebben, of als gij een anderen Geest zoudt ontvangen dien gij niet ontvangen hebt, of een ander Evangelie dat gij niet ontvangen hebt, — dien verdraagt gij wel!
 
-**[11:5]**  Ik laat mij toch voorstaan dat ik in niets minder ben dan die uitstekende apostelen!
+**[11:5]** Ik laat mij toch voorstaan dat ik in niets minder ben dan die uitstekende apostelen!
 
 **[11:6]** Want al ben ik slecht ter tale, dan ben ik het toch niet in kennis. Doch in alles hebben wij dit onder u getoond in alle opzichten.
 
@@ -60280,9 +60280,9 @@
 
 **[11:14]** En geen wonder! Want de Satan zelf doet zich voor als een lichtengel!
 
-**[11:15]** ‘t is dus niets bijzonders dat ook zijn dienaren zich voordoen als dienaars der rechtvaardigheid. Maar hun einde zal zijn naar hun werken! 
+**[11:15]** ‘t is dus niets bijzonders dat ook zijn dienaren zich voordoen als dienaars der rechtvaardigheid. Maar hun einde zal zijn naar hun werken!
 
-**[11:16]**  Ik zeg nog eens: dat niemand mij aanzie voor een dwaas. Doch als ge dit wilt, neemt mij dan aan als een dwaas, dat ik toch ook een weinigske roemen moge!
+**[11:16]** Ik zeg nog eens: dat niemand mij aanzie voor een dwaas. Doch als ge dit wilt, neemt mij dan aan als een dwaas, dat ik toch ook een weinigske roemen moge!
 
 **[11:17]** Wat ik spreek, dat spreek ik dus niet naar den Heere, maar als in dwaasheid, in deze zucht naar roem!
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** In Damaskus liet de stadhouder van den koning Aretas de stad der Damaskenen bezetten, om mij te vangen,
 
-**[11:33]** en ik werd door een venster in een mand langs den muur afgelaten, en zoo ontsnapte ik aan zijn handen.  
+**[11:33]** en ik werd door een venster in een mand langs den muur afgelaten, en zoo ontsnapte ik aan zijn handen.
 
 ### Chapter 12
 
@@ -60330,37 +60330,37 @@
 
 **[12:5]** Op zoodanige zal ik roemen, doch op mij zelven zal ik niet roemen, tenzij in mijn zwakheden.
 
-**[12:6]** Want als ik zou willen roemen, dan zou ik daarom geen dwaas zijn, want ik zou waarheid spreken. Doch ik laat daarvan af, opdat niemand van mij zou denken boven hetgeen hij van mij ziet of uit mij hoort. 
+**[12:6]** Want als ik zou willen roemen, dan zou ik daarom geen dwaas zijn, want ik zou waarheid spreken. Doch ik laat daarvan af, opdat niemand van mij zou denken boven hetgeen hij van mij ziet of uit mij hoort.
 
-**[12:7]**  En opdat ik niet hoovaardig zou worden op de uitnemendheid der openbaringen, is mij gegeven een doorn in het vleesch, een satansengel, om mij te geeselen, opdat ik niet hoovaardig zou worden.
+**[12:7]** En opdat ik niet hoovaardig zou worden op de uitnemendheid der openbaringen, is mij gegeven een doorn in het vleesch, een satansengel, om mij te geeselen, opdat ik niet hoovaardig zou worden.
 
 **[12:8]** Hierover nu heb ik driemaal den Heere aangeroepen, opdat die van mij wijken zou,
 
 **[12:9]** en Hij heeft tot mij gezegd: mijn genade zij u genoegzaam, want mijn kracht wordt in zwakheid volkomen.
 
-**[12:10]** Daarom heb ik vermaak in zwakheden, in smadingen, in moeilijkheden, in vervolgingen en benauwdheden, voor Christus; want als ik zwak ben, dan ben ik machtig. 
+**[12:10]** Daarom heb ik vermaak in zwakheden, in smadingen, in moeilijkheden, in vervolgingen en benauwdheden, voor Christus; want als ik zwak ben, dan ben ik machtig.
 
-**[12:11]**  Ik ben dwaas geworden. Gij hebt mij genoodzaakt, want ik behoorde door u aangeprezen te worden. In niets toch ben ik minder geweest dan die uitstekende apostelen, al ben ik ook niets.
+**[12:11]** Ik ben dwaas geworden. Gij hebt mij genoodzaakt, want ik behoorde door u aangeprezen te worden. In niets toch ben ik minder geweest dan die uitstekende apostelen, al ben ik ook niets.
 
 **[12:12]** Want de kenmerken van een apostel zijn onder u gewrocht in alle volharding, door teekenen en wonderen en krachten.
 
-**[12:13]** Want wat is er waarin gij minder geweest zijt dan de andere gemeenten, dan alleen daarin dat ik zelf u niet tot bezwaar ben geweest? Vergeeft mij dit ongelijk! 
+**[12:13]** Want wat is er waarin gij minder geweest zijt dan de andere gemeenten, dan alleen daarin dat ik zelf u niet tot bezwaar ben geweest? Vergeeft mij dit ongelijk!
 
-**[12:14]**  Ziet, dit is nu de derde keer dat ik gereed ben om tot u te komen en ik zal u niet tot bezwaar zijn. Want ik zoek niet het uwe, maar u. Want niet de kinderen moeten schatten verzamelen voor de ouders, doch de ouders voor de kinderen.
+**[12:14]** Ziet, dit is nu de derde keer dat ik gereed ben om tot u te komen en ik zal u niet tot bezwaar zijn. Want ik zoek niet het uwe, maar u. Want niet de kinderen moeten schatten verzamelen voor de ouders, doch de ouders voor de kinderen.
 
 **[12:15]** En ik zal zeer gaarne de kosten doen en voor uw zielen ten koste gegeven worden. Of zal ik, u overvloedig beminnende, te minder bemind worden?
 
-**[12:16]** Doch het zij zoo; ik heb u niet bezwaard. Maar slim zijnde, heb ik u door list gevangen. 
+**[12:16]** Doch het zij zoo; ik heb u niet bezwaard. Maar slim zijnde, heb ik u door list gevangen.
 
-**[12:17]**  Heb ik misschien door iemand van degenen die ik tot u gezonden heb u iets afgeperst?
+**[12:17]** Heb ik misschien door iemand van degenen die ik tot u gezonden heb u iets afgeperst?
 
-**[12:18]** Ik heb Titus aangezocht en met hem den broeder gezonden. Titus heeft u toch niet afgeperst? Hebben wij niet in een zelfden geest gewandeld? Niet in dezelfde voetstappen? 
+**[12:18]** Ik heb Titus aangezocht en met hem den broeder gezonden. Titus heeft u toch niet afgeperst? Hebben wij niet in een zelfden geest gewandeld? Niet in dezelfde voetstappen?
 
-**[12:19]**  Sedert langen tijd denkt gij dat wij ons zelven bij u verdedigen. Voor Gods aangezicht in Christus spreken wij. En dit alles, beminden, voor uw opbouwing!
+**[12:19]** Sedert langen tijd denkt gij dat wij ons zelven bij u verdedigen. Voor Gods aangezicht in Christus spreken wij. En dit alles, beminden, voor uw opbouwing!
 
 **[12:20]** Want ik vrees dat, als ik kom, ik u niet zóó zal vinden als ik begeer, en dat ik door u zóó zal gevonden worden als gij niet begeert; dat er misschien twist, jaloezie, gramschap, gekijf, achterklappingen, oorblazingen, verwaandheden, beroerten zijn.
 
-**[12:21]** Ik vrees dat, als ik wederom kom, mijn God mij bij u zal vernederen en dat ik zal treuren over velen die te voren gezondigd hebben en geen berouw gehad hebben over de onreinheid en hoererij en ontucht die zij bedreven hebben.  
+**[12:21]** Ik vrees dat, als ik wederom kom, mijn God mij bij u zal vernederen en dat ik zal treuren over velen die te voren gezondigd hebben en geen berouw gehad hebben over de onreinheid en hoererij en ontucht die zij bedreven hebben.
 
 ### Chapter 13
 
@@ -60370,9 +60370,9 @@
 
 **[13:3]** want gij zoekt een bewijs dat Christus in mij spreekt; Hij die jegens ulieden niet zwak is, maar krachtig is in ulieden.
 
-**[13:4]** Want wel is Hij gekruisigd uit zwakheid, maar Hij leeft in de kracht Gods; want ook wij zijn zwak in Hem, maar wij zullen leven in de kracht Gods voor u. 
+**[13:4]** Want wel is Hij gekruisigd uit zwakheid, maar Hij leeft in de kracht Gods; want ook wij zijn zwak in Hem, maar wij zullen leven in de kracht Gods voor u.
 
-**[13:5]**  Onderzoekt u zelven of gij in het geloof zijt, beproeft u zelven. Of erkent gij niet dat Christus Jezus in ulieden is? Tenzij dat gij onoprecht zijt.
+**[13:5]** Onderzoekt u zelven of gij in het geloof zijt, beproeft u zelven. Of erkent gij niet dat Christus Jezus in ulieden is? Tenzij dat gij onoprecht zijt.
 
 **[13:6]** Doch ik hoop dat gij weten zult dat wij niet onoprecht zijn.
 
@@ -60380,17 +60380,17 @@
 
 **[13:8]** Want wij vermogen niets tegen de waarheid, maar voor de waarheid.
 
-**[13:9]** Want wij verheugen ons als wij zwak zijn en gij sterk zijt, en ook dit begeeren wij, uw volmaking. 
+**[13:9]** Want wij verheugen ons als wij zwak zijn en gij sterk zijt, en ook dit begeeren wij, uw volmaking.
 
-**[13:10]**  Daarom schrijf ik dit, afwezig zijnde, opdat ik, tegenwoordig zijnde, niet strengelijk zou moeten handelen naar de macht die de Heere mij gegeven heeft tot opbouwing en niet tot nederwerping. 
+**[13:10]** Daarom schrijf ik dit, afwezig zijnde, opdat ik, tegenwoordig zijnde, niet strengelijk zou moeten handelen naar de macht die de Heere mij gegeven heeft tot opbouwing en niet tot nederwerping.
 
-**[13:11]**  Voorts, broeders, vaartwel, wordt volkomen, zijt getroost, zijt eensgezind, leeft in vrede! En de God van liefde en vrede zal met ulieden zijn!
+**[13:11]** Voorts, broeders, vaartwel, wordt volkomen, zijt getroost, zijt eensgezind, leeft in vrede! En de God van liefde en vrede zal met ulieden zijn!
 
 **[13:12]** Groet elkander met een heiligen kus. U groeten al de heiligen.
 
 **[13:13]** De genade van den Heere Jezus Christus, en de liefde Gods, en de gemeenschap des Heiligen Geestes zij met ulieden allen!
 
-**[13:14]**   
+**[13:14]** 
 
 ## Galatians
 
@@ -60404,9 +60404,9 @@
 
 **[1:4]** die zich zelven gegeven heeft voor onze zonden, opdat Hij ons trekken zou uit deze tegenwoordige booze eeuw, naar den wil van God, onzen Vader,
 
-**[1:5]** wien de glorie zij tot in alle eeuwigheid! Amen. 
+**[1:5]** wien de glorie zij tot in alle eeuwigheid! Amen.
 
-**[1:6]**  Ik ben verwonderd dat gij zóó spoedig van dengene die u geroepen heeft in de genade van Christus, afgetrokken zijt naar een ander evangelie.
+**[1:6]** Ik ben verwonderd dat gij zóó spoedig van dengene die u geroepen heeft in de genade van Christus, afgetrokken zijt naar een ander evangelie.
 
 **[1:7]** Niet dat er een ander is. Doch er zijn sommigen die u beroeren en die het Evangelie van Christus willen omkeeren.
 
@@ -60414,9 +60414,9 @@
 
 **[1:9]** Zooals wij vooraf gezegd hebben, zoo zeg ik nog wederom: als iemand ulieden een evangelie verkondigt, anders dan dat wat gij hebt ontvangen, die zij vervloekt!
 
-**[1:10]** Want moet ik de menschen tot vriend houden, of God? Of zoek ik aan menschen te behagen? — Als ik nog aan menschen behagen zou, dan zou ik toch geen dienaar van Christus zijn. 
+**[1:10]** Want moet ik de menschen tot vriend houden, of God? Of zoek ik aan menschen te behagen? — Als ik nog aan menschen behagen zou, dan zou ik toch geen dienaar van Christus zijn.
 
-**[1:11]**  Doch ik verklaar u, broeders! het Evangelie dat van mij verkondigd is, is niet naar den mensch;
+**[1:11]** Doch ik verklaar u, broeders! het Evangelie dat van mij verkondigd is, is niet naar den mensch;
 
 **[1:12]** want ik heb het ook niet van een mensch ontvangen noch geleerd, maar door een openbaring van Jezus Christus.
 
@@ -60442,7 +60442,7 @@
 
 **[1:23]** Alleenlijk hadden zij gehoord: hij die ons vroeger vervolgde predikt nu het geloof dat hij vroeger verwoestte.
 
-**[1:24]** En zij gaven in mij de glorie aan God.  
+**[1:24]** En zij gaven in mij de glorie aan God.
 
 ### Chapter 2
 
@@ -60464,17 +60464,17 @@
 
 **[2:9]** en als zij verstonden de genade die mij gegeven was, zoo gaven Jakobus, en Kefas, en Johannes, die geacht waren steunpilaren te zijn, aan mij en Barnabas de rechterhand der gemeenschap, opdat wij zouden gaan tot de heidenen en zij tot de besnedenen;
 
-**[2:10]** mits dat wij zouden gedenken aan de armen, hetgeen ik mij ook altijd gehaast heb om te doen. 
+**[2:10]** mits dat wij zouden gedenken aan de armen, hetgeen ik mij ook altijd gehaast heb om te doen.
 
-**[2:11]**  Doch toen Kefas gekomen was naar Antiochië stond ik hem tegen in zijn aangezicht, omdat hij te bestraffen was.
+**[2:11]** Doch toen Kefas gekomen was naar Antiochië stond ik hem tegen in zijn aangezicht, omdat hij te bestraffen was.
 
 **[2:12]** Want eer dat sommigen gekomen waren, van Jakobus gezonden, at hij mede met de heidenen, maar toen die gekomen waren onttrok hij zich en scheidde zich af, uit vreeze van degenen die uit de besnedenen waren.
 
 **[2:13]** En met hem huichelden ook de andere Joden, zoodat zelfs Barnabas werd medegesleept door hun huichelarij.
 
-**[2:14]** Maar toen ik zag dat zij niet recht wandelden naar de waarheid des Evangelies, sprak ik tot Kefas in aller tegenwoordigheid: als gij die een Jood zijt op zijn heidensch en niet op zijn joodsch leeft, hoe dwingt gij dan de heidenen om op zijn joodsch te leven? 
+**[2:14]** Maar toen ik zag dat zij niet recht wandelden naar de waarheid des Evangelies, sprak ik tot Kefas in aller tegenwoordigheid: als gij die een Jood zijt op zijn heidensch en niet op zijn joodsch leeft, hoe dwingt gij dan de heidenen om op zijn joodsch te leven?
 
-**[2:15]**  Wij die van afkomst Joden zijn en niet zondaars uit de heidenen,
+**[2:15]** Wij die van afkomst Joden zijn en niet zondaars uit de heidenen,
 
 **[2:16]** wij weten toch dat een mensch niet gerechtvaardigd wordt uit de werken der wet, maar alleen door het geloof van Jezus Christus. En wij hebben in Christus Jezus geloofd opdat wij zouden gerechtvaardigd worden uit het geloof van Christus en niet uit de werken der wet, omdat er uit werken der wet geen mensch zal gerechtvaardigd worden.
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** Met Christus ben ik gekruisigd, en nu leef ik niet meer, maar in mij leeft Christus; en wat ik nu leef in het vleesch, dat leef ik in het geloof van Gods Zoon die mij bemind heeft en zich zelven voor mij heeft overgegeven.
 
-**[2:21]** Ik veracht de genade Gods niet. Want als de rechtvaardigheid door de wet is dan is Christus tevergeefs gestorven.  
+**[2:21]** Ik veracht de genade Gods niet. Want als de rechtvaardigheid door de wet is dan is Christus tevergeefs gestorven.
 
 ### Chapter 3
 
@@ -60496,9 +60496,9 @@
 
 **[3:3]** Zijt gij zóó onverstandig? Begonnen zijnde met den Geest, eindigt gij nu met het vleesch?
 
-**[3:4]** Hebt gij dan tevergeefs zoodanig geleden? Als het maar tevergeefs was! 
+**[3:4]** Hebt gij dan tevergeefs zoodanig geleden? Als het maar tevergeefs was!
 
-**[3:5]**  Hij dan die ulieden den Geest mededeelt en krachten onder ulieden werkt, is dat uit de werken der wet of uit het gehoor van de prediking des geloofs?
+**[3:5]** Hij dan die ulieden den Geest mededeelt en krachten onder ulieden werkt, is dat uit de werken der wet of uit het gehoor van de prediking des geloofs?
 
 **[3:6]** Gelijk Abraham vertrouwde op God en het is hem toegerekend tot rechtvaardigheid;
 
@@ -60506,9 +60506,9 @@
 
 **[3:8]** En de Schriftuur, die vooraf gezien heeft dat God de volken uit het geloof rechtvaardigt, heeft te voren het Evangelie verkondigd aan Abraham, zeggende: in u zullen al de volken gezegend worden.
 
-**[3:9]** Dus zij die uit het geloof zijn, worden gezegend met den geloovigen Abraham. 
+**[3:9]** Dus zij die uit het geloof zijn, worden gezegend met den geloovigen Abraham.
 
-**[3:10]**  Zoovelen toch als er zijn uit de werken der wet, die zijn onder den vloek; want er is geschreven: Vervloekt is een ieder die niet blijft in al wat geschreven is in het boek der wet, om dat te doen.
+**[3:10]** Zoovelen toch als er zijn uit de werken der wet, die zijn onder den vloek; want er is geschreven: Vervloekt is een ieder die niet blijft in al wat geschreven is in het boek der wet, om dat te doen.
 
 **[3:11]** En dat niemand in de wet gerechtvaardigd wordt bij God, dat is klaar, want de rechtvaardige zal leven uit geloof.
 
@@ -60516,9 +60516,9 @@
 
 **[3:13]** Christus heeft ons vrijgekocht uit den vloek der wet, om onzentwille een vloek geworden zijnde, want er is geschreven: Vervloekt is al wie op een hout is gehangen,
 
-**[3:14]** opdat tot de volken de zegen van Abraham zou komen in Christus Jezus, opdat wij door het geloof de belofte des Geestes zouden ontvangen. 
+**[3:14]** opdat tot de volken de zegen van Abraham zou komen in Christus Jezus, opdat wij door het geloof de belofte des Geestes zouden ontvangen.
 
-**[3:15]**  Broeders, ik spreek naar den mensch. Zelfs een door menschen bevestigd verbond zal niemand vernietigen of daarbij doen.
+**[3:15]** Broeders, ik spreek naar den mensch. Zelfs een door menschen bevestigd verbond zal niemand vernietigen of daarbij doen.
 
 **[3:16]** Aan Abraham nu en aan zijn nakomelingschap zijn de beloften gegeven. Hij zegt niet: aan de nakomelingschappen, als van velen, maar als aan één: aan uw nakomelingschap, dat is Christus.
 
@@ -60536,9 +60536,9 @@
 
 **[3:23]** Eer dat het geloof kwam waren wij door de wet opgesloten in bewaring, tot het geloof dat openbaar worden zou,
 
-**[3:24]** zoodat de wet onze opvoedster is geweest om ons te brengen tot Christus, opdat wij uit het geloof zouden gerechtvaardigd worden. 
+**[3:24]** zoodat de wet onze opvoedster is geweest om ons te brengen tot Christus, opdat wij uit het geloof zouden gerechtvaardigd worden.
 
-**[3:25]**  Doch nu het geloof is gekomen, zijn wij niet meer onder de opvoedster;
+**[3:25]** Doch nu het geloof is gekomen, zijn wij niet meer onder de opvoedster;
 
 **[3:26]** want gij zijt allen zonen Gods door het geloof in Christus Jezus.
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** Daar is hier geen Jood noch Griek; daar is geen dienstknecht noch vrije; daar is geen mannelijk noch vrouwelijk; want gij zijt allen één in Christus Jezus.
 
-**[3:29]** En als gij van Christus zijt, dan zijt gij Abrahams nakomelingschap, naar de belofte dus erfgenamen.  
+**[3:29]** En als gij van Christus zijt, dan zijt gij Abrahams nakomelingschap, naar de belofte dus erfgenamen.
 
 ### Chapter 4
 
@@ -60562,17 +60562,17 @@
 
 **[4:6]** En omdat gij zonen zijt heeft God den Geest zijns Zoons uitgezonden in uw harten, die roept: Abba, dat is Vader;
 
-**[4:7]** zoodat gij niet meer een dienstknecht zijt, maar een zoon; en indien een zoon, dan ook een erfgenaam van God. 
+**[4:7]** zoodat gij niet meer een dienstknecht zijt, maar een zoon; en indien een zoon, dan ook een erfgenaam van God.
 
-**[4:8]**  Maar eertijds, toen gij God niet kendet, diendet gij degenen die van nature geen goden zijn.
+**[4:8]** Maar eertijds, toen gij God niet kendet, diendet gij degenen die van nature geen goden zijn.
 
 **[4:9]** Doch nu gij God kent, ja meer nog van God gekend zijt, hoe keert gij wederom tot de zwakken en arme eerste regelen, waaraan gij wederom u wilt dienstbaar maken?
 
 **[4:10]** Gij viert dagen, en maanden, en tijden, en jaren!
 
-**[4:11]** Ik vrees dat ik tevergeefs voor u gearbeid heb. 
+**[4:11]** Ik vrees dat ik tevergeefs voor u gearbeid heb.
 
-**[4:12]**  Wordt als ik, want ook ik ben geworden als gij, broeders! Ik bid u; gij hebt mij geen ongelijk aangedaan.
+**[4:12]** Wordt als ik, want ook ik ben geworden als gij, broeders! Ik bid u; gij hebt mij geen ongelijk aangedaan.
 
 **[4:13]** Doch gij weet dat ik aan u het eerst het Evangelie gepredikt heb wegens een zwakheid van het vleesch,
 
@@ -60584,9 +60584,9 @@
 
 **[4:17]** De ijver dien zij voor u hebben is niet goed. Maar zij willen u aftrekken van mij, opdat gij hen aanhangen zoudt.
 
-**[4:18]** Goed is het om altijd in het goede ijverig te zijn, en niet alleen als ik bij u tegenwoordig ben. 
+**[4:18]** Goed is het om altijd in het goede ijverig te zijn, en niet alleen als ik bij u tegenwoordig ben.
 
-**[4:19]**  Mijn kinderkens, om wie ik wederom in barensnood ben, totdat Christus in ulieden volwassen zal zijn!
+**[4:19]** Mijn kinderkens, om wie ik wederom in barensnood ben, totdat Christus in ulieden volwassen zal zijn!
 
 **[4:20]** Ik wilde nu wel bij u tegenwoordig zijn en veranderen van stem, want ik ben verlegen om uwentwil.
 
@@ -60610,13 +60610,13 @@
 
 **[4:30]** Maar wat zegt de Schriftuur? Werp de dienstmaagd buiten en haar zoon! want de zoon der dienstmaagd zal niet erven met den zoon der vrije.
 
-**[4:31]** Daarom, broeders, wij zijn niet kinderen van de dienstmaagd maar van de vrije,  
+**[4:31]** Daarom, broeders, wij zijn niet kinderen van de dienstmaagd maar van de vrije,
 
 ### Chapter 5
 
-**[5:1]** Door die vrijheid waarmede Christus ons vrijgemaakt heeft. Staat dan vast en laat u niet wederom vangen door het juk der dienstbaarheid! 
+**[5:1]** Door die vrijheid waarmede Christus ons vrijgemaakt heeft. Staat dan vast en laat u niet wederom vangen door het juk der dienstbaarheid!
 
-**[5:2]**  Ziet, ik Paulus zeg ulieden dat, als gij u laat besnijden, Christus u niets zal baten.
+**[5:2]** Ziet, ik Paulus zeg ulieden dat, als gij u laat besnijden, Christus u niets zal baten.
 
 **[5:3]** Ja ik betuig wederom aan een ieder mensch die zich laat besnijden, dat hij schuldig is de geheele wet te onderhouden.
 
@@ -60624,27 +60624,27 @@
 
 **[5:5]** Want wij verwachten door den Geest uit het geloof de hope der rechtvaardigheid.
 
-**[5:6]** Want in Christus Jezus geldt geen besnijdenis, noch onbesnedenheid, maar geloof, door liefde werkende. 
+**[5:6]** Want in Christus Jezus geldt geen besnijdenis, noch onbesnedenheid, maar geloof, door liefde werkende.
 
-**[5:7]**  Gij liept goed! Wie heeft u belet van gehoorzaam te zijn aan de waarheid?
+**[5:7]** Gij liept goed! Wie heeft u belet van gehoorzaam te zijn aan de waarheid?
 
 **[5:8]** Deze meening is niet uit Hem die u roept.
 
 **[5:9]** Een weinig zuurdeesem doet den geheelen deegklomp zuur worden.
 
-**[5:10]** Ik vertrouw van u in den Heere dat gij geen ander gevoelen hebt; maar die u beroert zal het oordeel dragen, wie hij ook zij. 
+**[5:10]** Ik vertrouw van u in den Heere dat gij geen ander gevoelen hebt; maar die u beroert zal het oordeel dragen, wie hij ook zij.
 
-**[5:11]**  Doch wat mij betreft, broeders, als ik nog de besnijdenis verkondig, wat word ik nog vervolgd? — Dan wordt de aanstootelijkheid van het kruis weggenomen.
+**[5:11]** Doch wat mij betreft, broeders, als ik nog de besnijdenis verkondig, wat word ik nog vervolgd? — Dan wordt de aanstootelijkheid van het kruis weggenomen.
 
-**[5:12]** Ik wou dat zij afgesneden wierden die u ontroeren! 
+**[5:12]** Ik wou dat zij afgesneden wierden die u ontroeren!
 
-**[5:13]**  Want gij zijt tot vrijheid geroepen, broeders! Doch niet tot een vrijheid die een oorzaak is voor het vleesch, maar dient malkander door de liefde.
+**[5:13]** Want gij zijt tot vrijheid geroepen, broeders! Doch niet tot een vrijheid die een oorzaak is voor het vleesch, maar dient malkander door de liefde.
 
 **[5:14]** Want de geheele wet wordt in één woord vervuld, in dit: gij zult uw evennaaste beminnen als u zelven.
 
-**[5:15]** Maar als gij malkander bijt en opeet, ziet toe dat gij niet door malkander wordt verslonden! 
+**[5:15]** Maar als gij malkander bijt en opeet, ziet toe dat gij niet door malkander wordt verslonden!
 
-**[5:16]**  Doch ik zeg: wandelt door den Geest en voldoet niet aan de lusten van het vleesch.
+**[5:16]** Doch ik zeg: wandelt door den Geest en voldoet niet aan de lusten van het vleesch.
 
 **[5:17]** Want het vleesch is belust tegen den geest, doch de geest tegen het vleesch. Want die strijden tegen malkander, opdat gij niet zoudt doen datgene wat gij wilt.
 
@@ -60654,9 +60654,9 @@
 
 **[5:20]** afgoderij, tooverij, vijandigheden, twist, jaloesie, toornigheden, gekijf, verdeeldheden, ketterijen,
 
-**[5:21]** nijdigheid, dronkenschap, brasserijen, en dergelijke, waarvan ik u te voren zeg, zooals ik te voren gezegd heb, dat zij die zulke dingen doen Gods koninkrijk niet zullen erven. 
+**[5:21]** nijdigheid, dronkenschap, brasserijen, en dergelijke, waarvan ik u te voren zeg, zooals ik te voren gezegd heb, dat zij die zulke dingen doen Gods koninkrijk niet zullen erven.
 
-**[5:22]**  Doch de vrucht des Geestes is liefde, blijdschap, vrede, geduld, goedertierenheid, goedheid, vertrouwen, zachtmoedigheid, matigheid.
+**[5:22]** Doch de vrucht des Geestes is liefde, blijdschap, vrede, geduld, goedertierenheid, goedheid, vertrouwen, zachtmoedigheid, matigheid.
 
 **[5:23]** Tegen dezulken is de wet niet.
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** Als wij leven door den Geest, laat ons dan ook door den Geest wandelen.
 
-**[5:26]** Laat ons niet ijdele eerzoekers zijn, die malkander tergen, malkander benijden.  
+**[5:26]** Laat ons niet ijdele eerzoekers zijn, die malkander tergen, malkander benijden.
 
 ### Chapter 6
 
@@ -60676,9 +60676,9 @@
 
 **[6:4]** Laat ieder zijn eigen werk beproeven, en dan zal hij roem hebben in zich zelven alleen, en niet in dat van een ander.
 
-**[6:5]** Want een ieder zal zijn eigen pak dragen. 
+**[6:5]** Want een ieder zal zijn eigen pak dragen.
 
-**[6:6]**  Maar die onderwezen wordt in het woord moet mededeelen aan die hem onderwijst in alle goede dingen.
+**[6:6]** Maar die onderwezen wordt in het woord moet mededeelen aan die hem onderwijst in alle goede dingen.
 
 **[6:7]** Dwaalt niet! God laat zich niet bespotten. Want zoo wat, een mensch zaait dat zal hij ook maaien.
 
@@ -60686,9 +60686,9 @@
 
 **[6:9]** Laat ons niet moede worden in het goeddoen, want ter rechter tijd zullen wij maaien als wij niet verslappen.
 
-**[6:10]** Zoo dan, nu wij tijd hebben, laat ons het goede doen jegens allen, maar het meest jegens de geloofsgenooten. 
+**[6:10]** Zoo dan, nu wij tijd hebben, laat ons het goede doen jegens allen, maar het meest jegens de geloofsgenooten.
 
-**[6:11]**  Ziet eens met hoe groote letters ik u geschreven heb met eigen hand!
+**[6:11]** Ziet eens met hoe groote letters ik u geschreven heb met eigen hand!
 
 **[6:12]** Zoovelen als zich schoon voordoen willen in het vleesch die dwingen u besneden te worden, alleen opdat zij niet zouden vervolgd worden vanwege het kruis van Christus.
 
@@ -60700,9 +60700,9 @@
 
 **[6:16]** En zoovelen als naar dezen regel zullen wandelen, over die zal vrede zijn en barmhartigheid, en over het Israël Gods.
 
-**[6:17]** En overigens, niemand doe mij overlast aan, want ik draag de merkteekenen van den Heere Jezus in mijn lichaam. 
+**[6:17]** En overigens, niemand doe mij overlast aan, want ik draag de merkteekenen van den Heere Jezus in mijn lichaam.
 
-**[6:18]**  De genade van onzen Heere Jezus Christus zij met uw geest, broeders! Amen.   
+**[6:18]** De genade van onzen Heere Jezus Christus zij met uw geest, broeders! Amen.
 
 ## Ephesians
 
@@ -60710,9 +60710,9 @@
 
 **[1:1]** Paulus, een apostel van Christus Jezus, door den wil van God, aan de heiligen die in Efesus zijn, en geloovigen in Christus Jezus,
 
-**[1:2]** genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus! 
+**[1:2]** genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus!
 
-**[1:3]**  Geprezen zij de God en Vader van onzen Heere Jezus Christus, die ons gezegend heeft met allen geestelijken zegen, in de hemelsche plaatsen, in Christus,
+**[1:3]** Geprezen zij de God en Vader van onzen Heere Jezus Christus, die ons gezegend heeft met allen geestelijken zegen, in de hemelsche plaatsen, in Christus,
 
 **[1:4]** zooals Hij ons heeft uitverkoren in Hem, vóór de grondlegging der wereld, opdat wij heilig en onbesmet zouden zijn voor zijn aangezicht;
 
@@ -60726,17 +60726,17 @@
 
 **[1:9]** daar Hij ons deed kennen de verborgenheid van zijn wil, naar zijn welbehagen, dat Hij in Hem had voorgenomen,
 
-**[1:10]** tot de bedeeling van de volheid der tijden, om alle dingen onder één Hoofd samen te brengen in Christus, die in de hemelen en die op de aarde zijn; 
+**[1:10]** tot de bedeeling van de volheid der tijden, om alle dingen onder één Hoofd samen te brengen in Christus, die in de hemelen en die op de aarde zijn;
 
-**[1:11]**  In Hem, in wien wij ook een erfdeel geworden zijn, te voren daartoe verkoren zijnde naar het voornemen van Hem die alle dingen werkt naar den raad van zijn wil,
+**[1:11]** In Hem, in wien wij ook een erfdeel geworden zijn, te voren daartoe verkoren zijnde naar het voornemen van Hem die alle dingen werkt naar den raad van zijn wil,
 
 **[1:12]** opdat wij zouden zijn tot lof zijner glorie, wij die te voren gehoopt hadden in Christus;
 
 **[1:13]** in wien ook gij, — die het woord der waarheid, het Evangelie uwer behoudenis gehoord hebt— in wien ook gij, die geloofd hebt, verzegeld zijt door den Heiligen Geest der belofte,
 
-**[1:14]** die een onderpand is onzer erfenis, tot verlossing van zijn eigendom, tot lof zijner glorie. 
+**[1:14]** die een onderpand is onzer erfenis, tot verlossing van zijn eigendom, tot lof zijner glorie.
 
-**[1:15]**  Daarom houd ook ik— die gehoord heb van het geloof in den Heere Jezus dat onder u is, en van de liefde tot al de heiligen,
+**[1:15]** Daarom houd ook ik— die gehoord heb van het geloof in den Heere Jezus dat onder u is, en van de liefde tot al de heiligen,
 
 **[1:16]** niet op voor u te danken, uwer gedenkende in mijn gebeden,
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** en alle dingen heeft Hij onder zijn voeten gesteld, en heeft Hem tot een Hoofd over alles gegeven aan de gemeente,
 
-**[1:23]** die zijn lichaam is, de volheid van Hem die alles in allen vervult.  
+**[1:23]** die zijn lichaam is, de volheid van Hem die alles in allen vervult.
 
 ### Chapter 2
 
@@ -60774,9 +60774,9 @@
 
 **[2:9]** niet uit werken, opdat niemand zich beroeme!
 
-**[2:10]** Want zijn maaksel zijn wij, geschapen in Christus Jezus voor goede werken, die God te voren bereid heeft, opdat wij daarin wandelen zouden. 
+**[2:10]** Want zijn maaksel zijn wij, geschapen in Christus Jezus voor goede werken, die God te voren bereid heeft, opdat wij daarin wandelen zouden.
 
-**[2:11]**  Daarom, gij die vroeger heidenen waart in het vleesch, die onbesnedenen werdt genoemd door de zoogenaamde besnijdenis in het vleesch, die met handen geschiedt,
+**[2:11]** Daarom, gij die vroeger heidenen waart in het vleesch, die onbesnedenen werdt genoemd door de zoogenaamde besnijdenis in het vleesch, die met handen geschiedt,
 
 **[2:12]** gedenkt dat gij in dien tijd waart zonder Christus, vervreemd van het burgerschap Israëls: en vreemd aan de verbonden der belofte, geen hope hebbende en zonder God in de wereld;
 
@@ -60790,15 +60790,15 @@
 
 **[2:17]** En Hij is vrede komen verkondigen aan ulieden die verre waart, en vrede aan hen die nabij waren;
 
-**[2:18]** want door Hem hebben wij beiden den toegang in één geest tot den Vader. 
+**[2:18]** want door Hem hebben wij beiden den toegang in één geest tot den Vader.
 
-**[2:19]**  Zoo dan, gij zijt niet meer vreemdelingen en bijwoners, maar ge zijt medeburgers der heiligen en huisgenooten Gods,
+**[2:19]** Zoo dan, gij zijt niet meer vreemdelingen en bijwoners, maar ge zijt medeburgers der heiligen en huisgenooten Gods,
 
 **[2:20]** gebouwd op het fundament der apostelen en profeten, terwijl Christus Jezus zelf de hoeksteen is;
 
 **[2:21]** in wien het geheele gebouw, goed samengevoegd, opwast tot een heiligen tempel in den Heere,
 
-**[2:22]** in wien ook gij mede gebouwd wordt tot een woning Gods in den Geest.  
+**[2:22]** in wien ook gij mede gebouwd wordt tot een woning Gods in den Geest.
 
 ### Chapter 3
 
@@ -60814,9 +60814,9 @@
 
 **[3:6]** dat de heidenen medeërfgenamen zijn, en medeleden van het lichaam, en mededeelgenooten der belofte in Christus Jezus, door het Evangelie,
 
-**[3:7]** waarvan ik een dienaar ben geworden naar de gifte der genade Gods, die mij gegeven is naar de werking zijner kracht. 
+**[3:7]** waarvan ik een dienaar ben geworden naar de gifte der genade Gods, die mij gegeven is naar de werking zijner kracht.
 
-**[3:8]**  Mij, den allerminste van alle heiligen is deze genade gegeven, om aan de heidenen te verkondigen den onnaspeurlijken rijkdom van Christus,
+**[3:8]** Mij, den allerminste van alle heiligen is deze genade gegeven, om aan de heidenen te verkondigen den onnaspeurlijken rijkdom van Christus,
 
 **[3:9]** en voor allen in het licht te stellen welke de bedeeling is der verborgenheid die door alle eeuwen heen verborgen is geweest in God die alle dingen geschapen heeft,
 
@@ -60826,9 +60826,9 @@
 
 **[3:12]** in wien wij hebben de vrijmoedigheid en den toegang in vertrouwen, door het geloof van Hem.
 
-**[3:13]** Daarom bid ik dat gij niet moedeloos wordt in mijn verdrukkingen voor u, die uw glorie zijn. 
+**[3:13]** Daarom bid ik dat gij niet moedeloos wordt in mijn verdrukkingen voor u, die uw glorie zijn.
 
-**[3:14]**  Daarom buig ik mijn knieën voor den Vader van onzen Heere Jezus Christus,
+**[3:14]** Daarom buig ik mijn knieën voor den Vader van onzen Heere Jezus Christus,
 
 **[3:15]** uit wien alle vaderschap, in de hemelen en op de aarde, genoemd wordt,
 
@@ -60838,11 +60838,11 @@
 
 **[3:18]** opdat gij bekwaam zoudt zijn om met al de heiligen te begrijpen, welke de breedte, en lengte, en diepte, en hoogte zij,
 
-**[3:19]** en om te kennen de liefde van Christus, die de kennis te boven gaat, opdat gij vervuld moogt zijn tot al de volheid Gods. 
+**[3:19]** en om te kennen de liefde van Christus, die de kennis te boven gaat, opdat gij vervuld moogt zijn tot al de volheid Gods.
 
-**[3:20]**  Hem nu, die machtig is boven alles te doen, verre boven hetgeen wij bidden of denken, naar de kracht die in ons werkt,
+**[3:20]** Hem nu, die machtig is boven alles te doen, verre boven hetgeen wij bidden of denken, naar de kracht die in ons werkt,
 
-**[3:21]** Hem zij de glorie in de gemeente en in Christus Jezus, door alle geslachten van alle eeuwen. Amen.  
+**[3:21]** Hem zij de glorie in de gemeente en in Christus Jezus, door alle geslachten van alle eeuwen. Amen.
 
 ### Chapter 4
 
@@ -60850,17 +60850,17 @@
 
 **[4:2]** met alle nederigheid en zachtmoedigheid, met geduld, verdragende malkander in liefde,
 
-**[4:3]** u benaarstigende om te bewaren de eenheid des geestes, in den band des vredes. 
+**[4:3]** u benaarstigende om te bewaren de eenheid des geestes, in den band des vredes.
 
-**[4:4]**  Eén lichaam is het en één Geest, gelijk gij ook geroepen zijt in één hope uwer roeping;
+**[4:4]** Eén lichaam is het en één Geest, gelijk gij ook geroepen zijt in één hope uwer roeping;
 
 **[4:5]** één Heer, één geloof, één doop,
 
 **[4:6]** één God en Vader van allen, die is over allen, en door allen, en in allen;
 
-**[4:7]** maar aan ieder onzer is de genade gegeven, naar de mate der gave van Christus. 
+**[4:7]** maar aan ieder onzer is de genade gegeven, naar de mate der gave van Christus.
 
-**[4:8]**  Daarom zegt God: opklimmende naar den hooge heeft Hij de gevangenis gevangen genomen; Hij heeft aan de menschen gaven gegeven.
+**[4:8]** Daarom zegt God: opklimmende naar den hooge heeft Hij de gevangenis gevangen genomen; Hij heeft aan de menschen gaven gegeven.
 
 **[4:9]** Dit nu: Hij is opgeklommen, wat is het anders, dan dat Hij ook is nedergedaald tot de onderste deelen der aarde?
 
@@ -60876,9 +60876,9 @@
 
 **[4:15]** maar opdat wij, de waarheid in liefde betrachtende, in alles zouden opgroeien tot Hem, die het Hoofd is, Christus,
 
-**[4:16]** uit wien het geheele lichaam, goed samengevoegd en verbonden zijnde door alle verband der gewrichten, naar de werking van elk deel in zijn mate, den groei van het lichaam krijgt, tot zijn opbouwing in liefde. 
+**[4:16]** uit wien het geheele lichaam, goed samengevoegd en verbonden zijnde door alle verband der gewrichten, naar de werking van elk deel in zijn mate, den groei van het lichaam krijgt, tot zijn opbouwing in liefde.
 
-**[4:17]**  Dit dan zeg en betuig ik in den Heere, dat gij niet meer wandelt zooals ook de heidenen wandelen in de ijdelheid van hun gedachte,
+**[4:17]** Dit dan zeg en betuig ik in den Heere, dat gij niet meer wandelt zooals ook de heidenen wandelen in de ijdelheid van hun gedachte,
 
 **[4:18]** verduisterd zijnde in het verstand, vervreemd van het leven Gods, wegens de onwetendheid die in hen is, wegens de hardheid van hun harte;
 
@@ -60908,23 +60908,23 @@
 
 **[4:31]** Alle bitterheid, en oploopendheid, en gramschap, en geschreeuw, en lastering worde van u weggedaan, met alle boosheid;
 
-**[4:32]** maar zijt jegens malkander goedertieren, barmhartig, vergevende malkander, zooals ook God in Christus ulieden heeft vergeven.  
+**[4:32]** maar zijt jegens malkander goedertieren, barmhartig, vergevende malkander, zooals ook God in Christus ulieden heeft vergeven.
 
 ### Chapter 5
 
 **[5:1]** Weest dan navolgers van God, als welbeminde kinderen,
 
-**[5:2]** en wandelt in liefde, zooals ook Christus u bemind heeft en zich zelven heeft overgegeven voor ons tot een gave en een offer, Gode tot een welriekenden reuk. 
+**[5:2]** en wandelt in liefde, zooals ook Christus u bemind heeft en zich zelven heeft overgegeven voor ons tot een gave en een offer, Gode tot een welriekenden reuk.
 
-**[5:3]**  Maar hoererij en alle onreinheid of gierigheid worde onder u zelfs niet genoemd, zooals het past aan heiligen,
+**[5:3]** Maar hoererij en alle onreinheid of gierigheid worde onder u zelfs niet genoemd, zooals het past aan heiligen,
 
 **[5:4]** noch oneerbaarheid, of zot geklap, of gekkernij, wat niet betaamt, maar veeleer dankzegging.
 
 **[5:5]** Want dit moet ge weten, dat geen hoereerder, of onreine, of gierigaard, die een afgodendienaar is, een erfdeel heeft in het koninkrijk van Christus en God.
 
-**[5:6]** Niemand misleide u met ijdele woorden, want om die dingen komt de toorn Gods over de kinderen der ongehoorzaamheid. 
+**[5:6]** Niemand misleide u met ijdele woorden, want om die dingen komt de toorn Gods over de kinderen der ongehoorzaamheid.
 
-**[5:7]**  Weest dus hun medeplichtigen niet!
+**[5:7]** Weest dus hun medeplichtigen niet!
 
 **[5:8]** Want vroeger waart gij duisternis, maar nu zijt gij licht in den Heere. Wandelt als kinderen des lichts,
 
@@ -60942,9 +60942,9 @@
 
 **[5:15]** Ziet dan nauwkeurig toe, hoe gij wandelt, niet als onverstandigen, maar als verstandigen,
 
-**[5:16]** den tijd uitkoopende, omdat de dagen slecht zijn. 
+**[5:16]** den tijd uitkoopende, omdat de dagen slecht zijn.
 
-**[5:17]**  Daarom, weest niet onverstandig, maar verstaat welke de wil des Heeren is,
+**[5:17]** Daarom, weest niet onverstandig, maar verstaat welke de wil des Heeren is,
 
 **[5:18]** en wordt niet dronken van wijn, waarin rampzaligheid is, maar wordt vol van den Geest,
 
@@ -60952,15 +60952,15 @@
 
 **[5:20]** dankende ten allen tijde voor alle dingen, God en den Vader, in den Naam van onzen Heere Jezus Christus,
 
-**[5:21]** malkander onderdanig zijnde in de vreeze van Christus. 
+**[5:21]** malkander onderdanig zijnde in de vreeze van Christus.
 
-**[5:22]**  Gij vrouwen, weest aan uw eigen mannen onderdanig, zooals aan den Heere;
+**[5:22]** Gij vrouwen, weest aan uw eigen mannen onderdanig, zooals aan den Heere;
 
 **[5:23]** want de man is het hoofd der vrouw, zooals ook Christus het Hoofd is der gemeente, Hij, de Behouder van het lichaam.
 
-**[5:24]** Maar gelijk de gemeente aan Christus onderdanig is, zoo ook de vrouwen aan haar mannen in alles. 
+**[5:24]** Maar gelijk de gemeente aan Christus onderdanig is, zoo ook de vrouwen aan haar mannen in alles.
 
-**[5:25]**  Gij mannen, bemint uw vrouwen, zooals ook Christus de gemeente bemind heeft, en zich zelven voor haar heeft overgegeven,
+**[5:25]** Gij mannen, bemint uw vrouwen, zooals ook Christus de gemeente bemind heeft, en zich zelven voor haar heeft overgegeven,
 
 **[5:26]** opdat Hij haar zou heiligen, nadat Hij haar gezuiverd heeft door het waterbad, in het woord,
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** Dit mysterie is groot, maar ik spreek ten opzichte van Christus en de gemeente.
 
-**[5:33]** Evenwel ook gij ieder in ‘t bijzonder moet uw vrouw zoo beminnen als u zelven, en de vrouw, dat zij haar man vreeze!  
+**[5:33]** Evenwel ook gij ieder in ‘t bijzonder moet uw vrouw zoo beminnen als u zelven, en de vrouw, dat zij haar man vreeze!
 
 ### Chapter 6
 
@@ -60984,21 +60984,21 @@
 
 **[6:2]** Eert uw vader en uw moeder— dat is het eerste gebod met een belofte
 
-**[6:3]** opdat het u welga en gij lang moogt leven op de aarde. 
+**[6:3]** opdat het u welga en gij lang moogt leven op de aarde.
 
-**[6:4]**  En gij vaders, maakt uw kinderen niet toornig, maar voedt ze op in het onderwijs en de vermaning des Heeren. 
+**[6:4]** En gij vaders, maakt uw kinderen niet toornig, maar voedt ze op in het onderwijs en de vermaning des Heeren.
 
-**[6:5]**  Gij dienstknechten, gehoorzaamt aan uw heeren naar het vleesch, met vreeze en beving, in eenvoudigheid van uw harte, als aan Christus,
+**[6:5]** Gij dienstknechten, gehoorzaamt aan uw heeren naar het vleesch, met vreeze en beving, in eenvoudigheid van uw harte, als aan Christus,
 
 **[6:6]** niet naar oogendienst, als menschenbehagers, maar als dienstknechten van Christus, die den wille Gods doet van harte,
 
 **[6:7]** en met goedwilligheid dient, als den Heere en niet den menschen,
 
-**[6:8]** daar gij weet dat wat een iegelijk goeds zal gedaan hebben, hij dat van den Heere zal weder ontvangen, hetzij dienstknecht, hetzij vrije. 
+**[6:8]** daar gij weet dat wat een iegelijk goeds zal gedaan hebben, hij dat van den Heere zal weder ontvangen, hetzij dienstknecht, hetzij vrije.
 
-**[6:9]**  En gij, heeren, doet aan hen hetzelfde en laat het dreigen na, daar gij weet dat zoowel hun als uw Heer in de hemelen is, en dat er geen aanneming des persoons bij Hem is. 
+**[6:9]** En gij, heeren, doet aan hen hetzelfde en laat het dreigen na, daar gij weet dat zoowel hun als uw Heer in de hemelen is, en dat er geen aanneming des persoons bij Hem is.
 
-**[6:10]**  Ten slotte, mijn broeders! wordt krachtig in den Heere en in de macht zijner sterkte.
+**[6:10]** Ten slotte, mijn broeders! wordt krachtig in den Heere en in de macht zijner sterkte.
 
 **[6:11]** Doet aan de volle wapenrusting Gods, opdat gij kunt staan tegen de kunstgrepen van den duivel.
 
@@ -61018,15 +61018,15 @@
 
 **[6:19]** en voor mij, opdat mij een woord gegeven worde bij het openen van mijn mond, om in vrijmoedigheid de verborgenheid des Evangelies bekend te maken,
 
-**[6:20]** waarvoor ik een gezant ben in een keten, opdat ik daarin met vrijmoedigheid handel, zooals ik moet spreken. 
+**[6:20]** waarvoor ik een gezant ben in een keten, opdat ik daarin met vrijmoedigheid handel, zooals ik moet spreken.
 
-**[6:21]**  Opdat nu ook gij moogt weten mijn omstandigheden, hoe het mij gaat, zal Tychikus, de beminde broeder en getrouwe dienaar in den Heere u alles bekendmaken,
+**[6:21]** Opdat nu ook gij moogt weten mijn omstandigheden, hoe het mij gaat, zal Tychikus, de beminde broeder en getrouwe dienaar in den Heere u alles bekendmaken,
 
-**[6:22]** dien ik juist daarom tot u gezonden heb, opdat gij zoudt weten onze omstandigheden en hij uw harten zou vertroosten. 
+**[6:22]** dien ik juist daarom tot u gezonden heb, opdat gij zoudt weten onze omstandigheden en hij uw harten zou vertroosten.
 
-**[6:23]**  Vrede den broederen en liefde met geloof, van God den Vader en den Heere Jezus Christus!
+**[6:23]** Vrede den broederen en liefde met geloof, van God den Vader en den Heere Jezus Christus!
 
-**[6:24]** De genade met allen die onzen Heere Jezus Christus in onvergankelijkheid beminnen!   
+**[6:24]** De genade met allen die onzen Heere Jezus Christus in onvergankelijkheid beminnen!
 
 ## Philippians
 
@@ -61034,9 +61034,9 @@
 
 **[1:1]** Paulus en Timotheüs, dienaren van Jezus Christus, aan al de heiligen in Christus Jezus die in Filippi zijn, met de opzieners en diakenen,
 
-**[1:2]** genade zij ulieden en vrede, van God onzen Vader en van den Heere Jezus Christus! 
+**[1:2]** genade zij ulieden en vrede, van God onzen Vader en van den Heere Jezus Christus!
 
-**[1:3]**  Ik dank mijn God wegens al wat ik van ulieden in gedachtenis heb,
+**[1:3]** Ik dank mijn God wegens al wat ik van ulieden in gedachtenis heb,
 
 **[1:4]** altijd in al mijn smeeking voor u allen met blijdschap het gebed doende,
 
@@ -61044,35 +61044,35 @@
 
 **[1:6]** vertrouwen hebbende hierin, dat Hij, die in ulieden een goed werk is begonnen, dit volkomen maken zal tot op den dag van Jezus Christus;
 
-**[1:7]** gelijk het recht is voor mij dat ik van u allen dit gevoelen heb, omdat gij mij in uw hart draagt, en omdat gij allen, zoowel in mijn banden als in de verdediging en bevestiging van het Evangelie, deelgenoten zijt van mijn genade. 
+**[1:7]** gelijk het recht is voor mij dat ik van u allen dit gevoelen heb, omdat gij mij in uw hart draagt, en omdat gij allen, zoowel in mijn banden als in de verdediging en bevestiging van het Evangelie, deelgenoten zijt van mijn genade.
 
-**[1:8]**  Want God is mijn getuige hoe ik naar u allen verlang, in de teedere liefde van Jezus Christus,
+**[1:8]** Want God is mijn getuige hoe ik naar u allen verlang, in de teedere liefde van Jezus Christus,
 
 **[1:9]** En dit bid ik, dat uw liefde nog meer en meer overvloedig worde in kennis en in alle verstand,
 
 **[1:10]** om te onderkennen de dingen die goed en kwaad zijn, opdat gij oprecht moogt zijn en onberispelijk tot den dag van Christus;
 
-**[1:11]** vervuld met een vrucht der rechtvaardigheid, die door Jezus Christus is tot glorie en lof van God. 
+**[1:11]** vervuld met een vrucht der rechtvaardigheid, die door Jezus Christus is tot glorie en lof van God.
 
-**[1:12]**  Doch ik wil dat gij weet, broeders, dat de dingen die mij overkomen zijn zeer tot bevordering des Evangelies zijn gekomen,
+**[1:12]** Doch ik wil dat gij weet, broeders, dat de dingen die mij overkomen zijn zeer tot bevordering des Evangelies zijn gekomen,
 
 **[1:13]** zoodat mijn banden in Christus openbaar geworden zijn in het geheele rechthuis en bij al de anderen,
 
-**[1:14]** en dat de meesten van de broeders in den Heere door mijn banden vertrouwen hebben gekregen en meer overvloedig het woord Gods onbevreesd durven spreken. 
+**[1:14]** en dat de meesten van de broeders in den Heere door mijn banden vertrouwen hebben gekregen en meer overvloedig het woord Gods onbevreesd durven spreken.
 
-**[1:15]**  Sommigen toch prediken wel den Christus door nijd en twist, maar anderen door goedwilligheid.
+**[1:15]** Sommigen toch prediken wel den Christus door nijd en twist, maar anderen door goedwilligheid.
 
 **[1:16]** Sommigen doen het uit liefde, wetende dat ik gesteld ben tot een verdediging van het Evangelie,
 
-**[1:17]** maar anderen verkondigen den Christus uit twistijver, niet oprechtelijk, meenende verdrukking toe te brengen aan mijn banden. 
+**[1:17]** maar anderen verkondigen den Christus uit twistijver, niet oprechtelijk, meenende verdrukking toe te brengen aan mijn banden.
 
-**[1:18]**  Maar wat zou dat zijn? — Als maar op alle maniere Christus verkondigd wordt, hetzij onder een schijn of in waarheid! En daarin verblijd ik mij en zal ik mij verblijden.
+**[1:18]** Maar wat zou dat zijn? — Als maar op alle maniere Christus verkondigd wordt, hetzij onder een schijn of in waarheid! En daarin verblijd ik mij en zal ik mij verblijden.
 
 **[1:19]** Want ik weet dat dit mij tot behoudenis zal verstrekken door uw gebed en door mededeeling van den Geest van Jezus Christus;
 
-**[1:20]** volgens mijn ernstige verwachting en hope; dat ik in niets zal worden beschaamd gemaakt! maar dat in al mijn vrijmoedigheid, zoowel altijd als ook nu, Christus zal groot gemaakt worden in mijn lichaam, hetzij door het leven, hetzij door den dood. 
+**[1:20]** volgens mijn ernstige verwachting en hope; dat ik in niets zal worden beschaamd gemaakt! maar dat in al mijn vrijmoedigheid, zoowel altijd als ook nu, Christus zal groot gemaakt worden in mijn lichaam, hetzij door het leven, hetzij door den dood.
 
-**[1:21]**  Want wat mij betreft, te leven is Christus, en te sterven is gewin.
+**[1:21]** Want wat mij betreft, te leven is Christus, en te sterven is gewin.
 
 **[1:22]** Doch in het vleesch te leven, of dat de vrucht is van mijn werk, en wat ik verkiezen zou, — ik weet het niet.
 
@@ -61082,15 +61082,15 @@
 
 **[1:25]** En dit vertrouwen hebbende, weet ik dat ik zal blijven en met u allen zal verblijven tot uw voortgang en blijdschap des geloofs,
 
-**[1:26]** opdat uw roem in mij overvloedig worde in Christus Jezus, als ik weer bij u tegenwoordig zal zijn. 
+**[1:26]** opdat uw roem in mij overvloedig worde in Christus Jezus, als ik weer bij u tegenwoordig zal zijn.
 
-**[1:27]**  Alleenlijk, gedraagt u waardiglijk het Evangelie van Christus, opdat hetzij ik kom, en u zie, hetzij ik afwezig ben, ik moge hooren van uw zaken, dat gij vast staat in één geest, met één gemoed strijdende voor het geloof des Evangelies,
+**[1:27]** Alleenlijk, gedraagt u waardiglijk het Evangelie van Christus, opdat hetzij ik kom, en u zie, hetzij ik afwezig ben, ik moge hooren van uw zaken, dat gij vast staat in één geest, met één gemoed strijdende voor het geloof des Evangelies,
 
 **[1:28]** en dat gij in geen ding verschrikt wordt door de tegenstanders. Hetgeen voor hen wel een bewijs is des verderfs, is voor u een oorzaak der zaligheid, en dat van God.
 
 **[1:29]** Want aan ulieden is het vergund ten behoeve van Christus, niet alleen om in Hem te gelooven maar ook om voor Hem te lijden,
 
-**[1:30]** hebbende denzelfden strijd als dien gij in mij gezien hebt en nu in mij hoort.  
+**[1:30]** hebbende denzelfden strijd als dien gij in mij gezien hebt en nu in mij hoort.
 
 ### Chapter 2
 
@@ -61100,9 +61100,9 @@
 
 **[2:3]** niets doende door twist, noch door ijdele eerzucht, maar elkander door nederigheid hooger achtende dan u zelven;
 
-**[2:4]** niet het oog hebbende op eigen voordeel, maar ook op dat van anderen. 
+**[2:4]** niet het oog hebbende op eigen voordeel, maar ook op dat van anderen.
 
-**[2:5]**  Gij moet dit gevoeler in u hebben dat ook in Christus Jezus was;
+**[2:5]** Gij moet dit gevoeler in u hebben dat ook in Christus Jezus was;
 
 **[2:6]** die, in de gestalte Gods zijnde, het geen roof geacht heeft om gelijkte zijn aan God.
 
@@ -61114,9 +61114,9 @@
 
 **[2:10]** opdat in den Naam van Jezus alle knie buigen zou van de hemelsche, en aardsche en onderaardsche schepselen,
 
-**[2:11]** en opdat alle tong zou uitspreken dat Jezus Christus Heer is, tot glorie van God den Vader. 
+**[2:11]** en opdat alle tong zou uitspreken dat Jezus Christus Heer is, tot glorie van God den Vader.
 
-**[2:12]**  Zoo dan, mijn beminden, gelijk gij altijd gehoorzaam zijt geweest, niet alleen in mijn tegenwoordigheid maar nu veel meer in mijn afwezigheid, gij moet met vreeze en beven uw eigen zaligheid uitwerken.
+**[2:12]** Zoo dan, mijn beminden, gelijk gij altijd gehoorzaam zijt geweest, niet alleen in mijn tegenwoordigheid maar nu veel meer in mijn afwezigheid, gij moet met vreeze en beven uw eigen zaligheid uitwerken.
 
 **[2:13]** Want God is het die in u werkt zoowel het willen als het werken, volgens zijn welbehagen.
 
@@ -61128,9 +61128,9 @@
 
 **[2:17]** Ja, al moest ook uw offerande en de bediening van uw geloof met mijn bloed begoten worden, zoo verheug ik mij en verblijd mij met u allen.
 
-**[2:18]** En om ditzelfde verheugt gij u met mij. 
+**[2:18]** En om ditzelfde verheugt gij u met mij.
 
-**[2:19]**  En ik hoop in den Heere Jezus Timotheüs spoedig tot u te zenden, opdat ik ook welgemoed moge zijn als ik uw zaken zal weten.
+**[2:19]** En ik hoop in den Heere Jezus Timotheüs spoedig tot u te zenden, opdat ik ook welgemoed moge zijn als ik uw zaken zal weten.
 
 **[2:20]** Want ik heb niemand zoo eensgezind met mij, die met zulk een oprechte genegenheid voor u zal bezorgd zijn.
 
@@ -61140,9 +61140,9 @@
 
 **[2:23]** Dezen dan hoop ik te zenden zoohaast als ik zal gezien hebben hoe het met mij zal gaan.
 
-**[2:24]** Doch ik vertrouw in den Heere dat ik ook zelf spoedig zal komen. 
+**[2:24]** Doch ik vertrouw in den Heere dat ik ook zelf spoedig zal komen.
 
-**[2:25]**  Intusschen heb ik noodig geacht om Epafroditus tot u te zenden, mijn broeder, en medearbeider, en medestrijder, en uw afgezant en bedienaar van mijn nooddruft.
+**[2:25]** Intusschen heb ik noodig geacht om Epafroditus tot u te zenden, mijn broeder, en medearbeider, en medestrijder, en uw afgezant en bedienaar van mijn nooddruft.
 
 **[2:26]** Want deze verlangde zeer naar u allen en was bekommerd, omdat gij gehoord hadt dat hij ziek was.
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** Ontvangt hem dan in den Heere met alle blijdschap, en houdt dezulken in waarde.
 
-**[2:30]** Want om het werk van Christus was hij nabij den, dood gekomen, zijn leven, wagende, opdat hij zou volkomen maken wat ontbreekt: aan uw bediening jegens mij.  
+**[2:30]** Want om het werk van Christus was hij nabij den, dood gekomen, zijn leven, wagende, opdat hij zou volkomen maken wat ontbreekt: aan uw bediening jegens mij.
 
 ### Chapter 3
 
@@ -61160,15 +61160,15 @@
 
 **[3:2]** Hoedt u voor de honden; hoedt u voor de kwade arbeiders; hoedt u voor de valsche besnijdenis.
 
-**[3:3]** Want wij zijn de besnijdenis, wij die God in den geest dienen, en roemen in Christus Jezus en niet op vleesch ons betrouwen. 
+**[3:3]** Want wij zijn de besnijdenis, wij die God in den geest dienen, en roemen in Christus Jezus en niet op vleesch ons betrouwen.
 
-**[3:4]**  Toch zou ik ook iets hebben om mij in het vleesch te betrouwen. Als er iemand anders is die in het vleesch vertrouwt, dan ik nog meer:
+**[3:4]** Toch zou ik ook iets hebben om mij in het vleesch te betrouwen. Als er iemand anders is die in het vleesch vertrouwt, dan ik nog meer:
 
 **[3:5]** besneden op den achtsten dag, uit het volk Israels, van den stam Benjamin, een Hebreër uit de Hebreërs, wat de wet betreft een fariseër,
 
-**[3:6]** wat den ijver betreft een vervolger der gemeente, wat de rechtvaardigheid in de wet betreft onberispelijk. 
+**[3:6]** wat den ijver betreft een vervolger der gemeente, wat de rechtvaardigheid in de wet betreft onberispelijk.
 
-**[3:7]**  Doch hetgeen mij een gewin was dat heb ik verlies geacht om Christus wil.
+**[3:7]** Doch hetgeen mij een gewin was dat heb ik verlies geacht om Christus wil.
 
 **[3:8]** Ja waarlijk, ik acht alle dingen verlies te zijn om de uitnemendheid der kennis van Christus Jezus mijn Heer, om wien ik dat alles verlies acht en acht het vuilnis te zijn, opdat ik Christus zou gewinnen,
 
@@ -61176,33 +61176,33 @@
 
 **[3:10]** om Hem te kennen en de kracht zijner verrijzenis en de gemeenschap aan zijn smarten, gelijkvormig wordende aan zijn dood;
 
-**[3:11]** of ik ook wellicht zou geraken tot de verrijzenis die uit de dooden is. 
+**[3:11]** of ik ook wellicht zou geraken tot de verrijzenis die uit de dooden is.
 
-**[3:12]**  Niet dat ik het al bekomen heb of al volmaakt ben, maar ik jaag er naar, of ik het aanvatten mocht, waartoe ik ook door Christus Jezus aangevat ben.
+**[3:12]** Niet dat ik het al bekomen heb of al volmaakt ben, maar ik jaag er naar, of ik het aanvatten mocht, waartoe ik ook door Christus Jezus aangevat ben.
 
 **[3:13]** Broeders! ik acht niet dat ik zelf het nog aangevat heb.
 
-**[3:14]** Maar één ding zeg ik: vergetende wat achter is, en mij uitstrekkende tot hetgeen vóór mij is, jaag ik naar het doelwit, naar den prijs der roeping Gods die van boven is, in Christus Jezus. 
+**[3:14]** Maar één ding zeg ik: vergetende wat achter is, en mij uitstrekkende tot hetgeen vóór mij is, jaag ik naar het doelwit, naar den prijs der roeping Gods die van boven is, in Christus Jezus.
 
-**[3:15]**  Voor zooveel wij dan volmaakt zijn, laat ons alzoo gezind zijn; en als gij anders gezind zijt dan zal God u ook dit openbaren.
+**[3:15]** Voor zooveel wij dan volmaakt zijn, laat ons alzoo gezind zijn; en als gij anders gezind zijt dan zal God u ook dit openbaren.
 
 **[3:16]** Ondertusschen, laat ons naar denzelfden regel wandelen, in hetgeen waartoe wij gekomen zijn.
 
-**[3:17]** Zijt te zamen mijn navolgers, broeders! En let op degenen die alzoo wandelen als gij ons tot voorbeeld hebt. 
+**[3:17]** Zijt te zamen mijn navolgers, broeders! En let op degenen die alzoo wandelen als gij ons tot voorbeeld hebt.
 
-**[3:18]**  Velen toch, van wie ik u dikwijls gesproken heb en nu ook weenende spreek, wandelen als vijanden van het kruis van Christus,
+**[3:18]** Velen toch, van wie ik u dikwijls gesproken heb en nu ook weenende spreek, wandelen als vijanden van het kruis van Christus,
 
 **[3:19]** wier einde is het verderf, wier god is de buik, en wier glorie is in hun schande, die de aardsche dingen bedenken.
 
 **[3:20]** Want ons burgerschap is in de hemelen, waaruit wij ook den Heere Jezus Christus als Verlosser verwachten,
 
-**[3:21]** die ons lichaam der vernedering zal veranderen tot gelijkvormigheid aan zijn lichaam der glorie, naar de kracht die Hij bezit om alle dingen aan zich zelven te onderwerpen.  
+**[3:21]** die ons lichaam der vernedering zal veranderen tot gelijkvormigheid aan zijn lichaam der glorie, naar de kracht die Hij bezit om alle dingen aan zich zelven te onderwerpen.
 
 ### Chapter 4
 
-**[4:1]** Zoo dan, mijn beminde en gewenschte broeders, mijn vreugde en kroon, staat alzoo vast in den Heere, beminden! 
+**[4:1]** Zoo dan, mijn beminde en gewenschte broeders, mijn vreugde en kroon, staat alzoo vast in den Heere, beminden!
 
-**[4:2]**  Ik vermaan Euodia en ook Syntyche vermaan ik, om in den Heere eensgezind te zijn,
+**[4:2]** Ik vermaan Euodia en ook Syntyche vermaan ik, om in den Heere eensgezind te zijn,
 
 **[4:3]** ja, ik verzoek ook u, getrouwe medearbeider! help haar die in het Evangelie met mij gestreden hebben, en met Klemens en mijn andere medearbeiders, wier namen in het boek des levens zijn.
 
@@ -61212,13 +61212,13 @@
 
 **[4:6]** Zijt in niets bekommerd, maar laat door al uw bidden en smeeken met dankzegging, uw begeerten bekend worden bij God.
 
-**[4:7]** En de vrede Gods, die boven alle verstand, gaat, zal uw harten en gedachten bewaren in Christus Jezus. 
+**[4:7]** En de vrede Gods, die boven alle verstand, gaat, zal uw harten en gedachten bewaren in Christus Jezus.
 
-**[4:8]**  En voor het overige, broeders! al wat waar is, al wat eerlijk is, al wat recht is, al wat rein is, al wat liefelijk is, al wat welluidend is, als er eenige deugd of eenige lof is— laat uw gedachten daarop zijn gevestigd.
+**[4:8]** En voor het overige, broeders! al wat waar is, al wat eerlijk is, al wat recht is, al wat rein is, al wat liefelijk is, al wat welluidend is, als er eenige deugd of eenige lof is— laat uw gedachten daarop zijn gevestigd.
 
-**[4:9]** En wat gij geleerd en ontvangen en gehoord en in mij gezien hebt, doet dat; en de God des vredes zal met ulieden zijn. 
+**[4:9]** En wat gij geleerd en ontvangen en gehoord en in mij gezien hebt, doet dat; en de God des vredes zal met ulieden zijn.
 
-**[4:10]**  En ik ben grootelijks verblijd in den Heere dat gij eindelijk wakker geworden zijt om aan mij te gedenken. Wel hadt gij er aan gedacht, maar gij hadt de gelegenheid niet.
+**[4:10]** En ik ben grootelijks verblijd in den Heere dat gij eindelijk wakker geworden zijt om aan mij te gedenken. Wel hadt gij er aan gedacht, maar gij hadt de gelegenheid niet.
 
 **[4:11]** Niet dat ik wegens gebrek spreek; want ik heb geleerd om tevreden te zijn in hetgeen ik ben.
 
@@ -61236,15 +61236,15 @@
 
 **[4:18]** Doch ik bezit alles en heb overvloed. Ik ben volkomen voorzien toen ik van Epafroditus ontvangen heb hetgeen van u kwam, een welriekende reuk, een aangename offerande, welbehagelijk aan God.
 
-**[4:19]** Doch mijn God zal al uw nooddruft vervullen, naar zijn rijkdom in glorie, in Christus Jezus. 
+**[4:19]** Doch mijn God zal al uw nooddruft vervullen, naar zijn rijkdom in glorie, in Christus Jezus.
 
-**[4:20]**  Gode en onzen Vader zij de glorie in alle eeuwigheden. Amen.
+**[4:20]** Gode en onzen Vader zij de glorie in alle eeuwigheden. Amen.
 
 **[4:21]** Groet alle heiligen in Christus Jezus.
 
 **[4:22]** U groeten de broeders die met mij zijn. U groeten al de heiligen en vooral die uit het huis des keizers zijn.
 
-**[4:23]** De genade van onzen Heere Jezus Christus zij met uw geest, Amen.   
+**[4:23]** De genade van onzen Heere Jezus Christus zij met uw geest, Amen.
 
 ## Colossians
 
@@ -61252,9 +61252,9 @@
 
 **[1:1]** Paulus, een apostel van Jezus Christus, door den wil van God, en Timotheüs de broeder,
 
-**[1:2]** aan de heilige en geloovige broeders in Christus te Kolosse, genade zij ulieden en vrede, van God onzen Vader, en van den Heere Jezus Christus! 
+**[1:2]** aan de heilige en geloovige broeders in Christus te Kolosse, genade zij ulieden en vrede, van God onzen Vader, en van den Heere Jezus Christus!
 
-**[1:3]**  Wij danken den God en Vader van onzen Heere Jezus Christus, en bidden altijd voor u,
+**[1:3]** Wij danken den God en Vader van onzen Heere Jezus Christus, en bidden altijd voor u,
 
 **[1:4]** gehoord hebbende mij; geloof in Christus Jezus, en de liefde die gij hebt tot al de heiligen,
 
@@ -61264,9 +61264,9 @@
 
 **[1:7]** gelijk gij ook geleerd hebt van Epafras, onzen beminden mededienstknecht, die voor u een getrouw dienaar van Christus is;
 
-**[1:8]** die ons ook bekend gemaakt heeft uw liefde in den geest. 
+**[1:8]** die ons ook bekend gemaakt heeft uw liefde in den geest.
 
-**[1:9]**  Daarom hebben ook wij, van den dag af dat wij het gehoord hebben, niet opgehouden voor u te bidden en te begeeren dat gij zoudt vervuld worden met de kennis van zijn wil, in alle geestelijke wijsheid en verstand;
+**[1:9]** Daarom hebben ook wij, van den dag af dat wij het gehoord hebben, niet opgehouden voor u te bidden en te begeeren dat gij zoudt vervuld worden met de kennis van zijn wil, in alle geestelijke wijsheid en verstand;
 
 **[1:10]** om waardiglijk te wandelen voor den Heere, tot alle welbehagelijkheid, in alle goed werk vrucht dragende en aanwassende in de kennis van God;
 
@@ -61288,15 +61288,15 @@
 
 **[1:19]** Want het heeft den Vader behaagd dat de geheele volheid wonen zou in Hem,
 
-**[1:20]** en dat Hij door Hem alle dingen zou verzoenen tot zich zelven, vrede gemaakt hebbende door het bloed zijns kruises, door Hem, zeg ik, zoowel de dingen op aarde als die in de hemelen zijn. 
+**[1:20]** en dat Hij door Hem alle dingen zou verzoenen tot zich zelven, vrede gemaakt hebbende door het bloed zijns kruises, door Hem, zeg ik, zoowel de dingen op aarde als die in de hemelen zijn.
 
-**[1:21]**  En Hij heeft u, die te voren vervreemd zijt geweest en vijanden in uw gezindheid, door de booze werken,
+**[1:21]** En Hij heeft u, die te voren vervreemd zijt geweest en vijanden in uw gezindheid, door de booze werken,
 
 **[1:22]** nu ook verzoend in het lichaam zijns vleesches, door den dood, om u heilig en onbevlekt en onberispelijk voor Hem te stellen,
 
-**[1:23]** indien het is dat gij gegrond en vast blijft in het geloof, en niet bewogen wordt van de hope des Evangelies dat gij gehoord hebt, dat gepredikt is aan alle schepsel onder den hemel en waarvan ik Paulus, een dienaar ben geworden. 
+**[1:23]** indien het is dat gij gegrond en vast blijft in het geloof, en niet bewogen wordt van de hope des Evangelies dat gij gehoord hebt, dat gepredikt is aan alle schepsel onder den hemel en waarvan ik Paulus, een dienaar ben geworden.
 
-**[1:24]**  Nu verheug ik mij in mijn lijden voor u, en ik maak in mijn vleesch volkomen wat nog ontbreekt aan de verdrukkingen van Christus, voor zijn lichaam, dat is de gemeente,
+**[1:24]** Nu verheug ik mij in mijn lijden voor u, en ik maak in mijn vleesch volkomen wat nog ontbreekt aan de verdrukkingen van Christus, voor zijn lichaam, dat is de gemeente,
 
 **[1:25]** waarvan ik een dienaar geworden ben, naar den last dien God mij gegeven heeft, om onder ulieden het woord Gods te vervullen,
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** dien wij verkondigen, door iederen mensch te vermanen en iederen mensch te onderwijzen in alle wijsheid, om iederen mensch volkomen te stellen in Christus;
 
-**[1:29]** waartoe ik ook arbeid, strijdende naar zijn werking die in mij werkt met kracht.  
+**[1:29]** waartoe ik ook arbeid, strijdende naar zijn werking die in mij werkt met kracht.
 
 ### Chapter 2
 
@@ -61314,9 +61314,9 @@
 
 **[2:2]** opdat hun harten vertroost mogen worden, te zamen gevoegd zijnde in liefde, en vervuld tot allen rijkdom, des verstands, tot kennis der verborgenheid van God en van Christus,
 
-**[2:3]** in wien al de schatten der wijsheid en der kennis verborgen zijn. 
+**[2:3]** in wien al de schatten der wijsheid en der kennis verborgen zijn.
 
-**[2:4]**  Dit zeg ik, opdat niemand van ulieden verleid worde door schoonklinkende: woorden.
+**[2:4]** Dit zeg ik, opdat niemand van ulieden verleid worde door schoonklinkende: woorden.
 
 **[2:5]** Want al ben ik lichamelijk afwezig, zoo ben ik met den geest toch met u, mij verheugende en ziende uw goede orde en de vastigheid van uw vertrouwen op Christus.
 
@@ -61338,9 +61338,9 @@
 
 **[2:14]** uitgewischt hebbende het handschrift dat tegen ons was. bestaande in inzettingen, dat ons tegenstond, en Hij heeft dit uit den weg genomen, het nagelende aan het kruis;
 
-**[2:15]** ontwapend hebbende de overheden en de machten, heeft Hij die openlijk ten toon gesteld, daarin over hen triumfeerende. 
+**[2:15]** ontwapend hebbende de overheden en de machten, heeft Hij die openlijk ten toon gesteld, daarin over hen triumfeerende.
 
-**[2:16]**  Dat u dan niemand oordeele in spijs of in drank, of over een feestdag, of over nieuwe maan of sabbaten,
+**[2:16]** Dat u dan niemand oordeele in spijs of in drank, of over een feestdag, of over nieuwe maan of sabbaten,
 
 **[2:17]** die schaduwen zijn van de dingen die toekomende waren, doch het lichaam is van Christus.
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** al welke dingen ten verderve gaan door het gebruik, naar de bevelen en leeringen der menschen?
 
-**[2:23]** Welke dingen een schijnreden van wijsheid hebben in een eigenwillige godsdienst, en in vernedering, en in lichaamskastijding, maar niet van eenige waarde zijn tegen voldoening van het vleesch.  
+**[2:23]** Welke dingen een schijnreden van wijsheid hebben in een eigenwillige godsdienst, en in vernedering, en in lichaamskastijding, maar niet van eenige waarde zijn tegen voldoening van het vleesch.
 
 ### Chapter 3
 
@@ -61378,21 +61378,21 @@
 
 **[3:10]** en aangetrokken den nieuwen mensch, die vernieuwd wordt tot kennis, naar het beeld van dengene die hem geschapen heeft;
 
-**[3:11]** alwaar niet is Griek en Jood, besnijdenis en onbesnedenheid, barbaar, Scyth, slaaf, vrije, maar alles en in alles is Christus. 
+**[3:11]** alwaar niet is Griek en Jood, besnijdenis en onbesnedenheid, barbaar, Scyth, slaaf, vrije, maar alles en in alles is Christus.
 
-**[3:12]**  Trekt dan aan, als uitverkorenen Gods, heiligen en beminden, een medelijdend gemoed, goedertierenheid, nederigheid, zachtmoedigheid, geduldigheid,
+**[3:12]** Trekt dan aan, als uitverkorenen Gods, heiligen en beminden, een medelijdend gemoed, goedertierenheid, nederigheid, zachtmoedigheid, geduldigheid,
 
 **[3:13]** malkander verdragende en malkander vergiffenis schenkende, als iemand tegen iemand een klacht heeft; gelijk Christus ulieden vergiffenis geschonken heeft, alzoo moet gij ook doen.
 
 **[3:14]** En boven dit alles moet jij de liefde aantrekken dat is de band der volmaaktheid.
 
-**[3:15]** En de vrede van Christus moge heerschen in uw harten, tot welken gij ook geroepen zijt in één lichaam; en zijt dankbaar. 
+**[3:15]** En de vrede van Christus moge heerschen in uw harten, tot welken gij ook geroepen zijt in één lichaam; en zijt dankbaar.
 
-**[3:16]**  Het woord van Christus wone overvloediglijk in ulieden, malkander in alle wijsheid onderwijzende en vermanende, door psalmen, lofzangen en geestelijke liederen, in aangenaamheid zingende voor God in uw harten,
+**[3:16]** Het woord van Christus wone overvloediglijk in ulieden, malkander in alle wijsheid onderwijzende en vermanende, door psalmen, lofzangen en geestelijke liederen, in aangenaamheid zingende voor God in uw harten,
 
-**[3:17]** en al wat gij doet, in woord of in werk, het zij alles in den Naam van den Heere Jezus, dankende God den Vader door Hem. 
+**[3:17]** en al wat gij doet, in woord of in werk, het zij alles in den Naam van den Heere Jezus, dankende God den Vader door Hem.
 
-**[3:18]**  Gij vrouwen, zijt onderdanig aan uw mannen, gelijk het in den Heere betaamt.
+**[3:18]** Gij vrouwen, zijt onderdanig aan uw mannen, gelijk het in den Heere betaamt.
 
 **[3:19]** Gij mannen, bemint uw vrouwen en zijt niet bitter tegen haar.
 
@@ -61406,29 +61406,29 @@
 
 **[3:24]** wetende dat gij van den Heere zult ontvangen het loon der erfenis, want gij dient den Heere Christus.
 
-**[3:25]** Want die onrecht doet die zal het onrecht dragen dat hij gedaan heeft, en er is geen uitzondering van persoon.  
+**[3:25]** Want die onrecht doet die zal het onrecht dragen dat hij gedaan heeft, en er is geen uitzondering van persoon.
 
 ### Chapter 4
 
-**[4:1]** Gij heeren, doet aan uw dienstknechten recht en billijkheid, wetende dat gij ook zelf een Heer inden hemel hebt. 
+**[4:1]** Gij heeren, doet aan uw dienstknechten recht en billijkheid, wetende dat gij ook zelf een Heer inden hemel hebt.
 
-**[4:2]**  Volhardt in het gebed, daarin wakende in dankzegging,
+**[4:2]** Volhardt in het gebed, daarin wakende in dankzegging,
 
 **[4:3]** tegelijk biddende ook voor ons, dat God ons een deur des woords opene, om de verborgenheid van Christus te spreken, om welke ik ook gebonden ben;
 
-**[4:4]** opdat ik die bekend maken moge zooals ik moet spreken. 
+**[4:4]** opdat ik die bekend maken moge zooals ik moet spreken.
 
-**[4:5]**  Wandelt in wijsheid bij degenen die buiten de gemeente zijn, den tijd waarnemende.
+**[4:5]** Wandelt in wijsheid bij degenen die buiten de gemeente zijn, den tijd waarnemende.
 
-**[4:6]** Uw woord zij altijd in vriendelijkheid, met zout besprengd, om te weten hoe gij elkander moet antwoorden. 
+**[4:6]** Uw woord zij altijd in vriendelijkheid, met zout besprengd, om te weten hoe gij elkander moet antwoorden.
 
-**[4:7]**  Al wat mij betreft zal Tychikus u bekend maken, de beminde broeder en getrouwe dienaar en mededienaar in den Heere,
+**[4:7]** Al wat mij betreft zal Tychikus u bekend maken, de beminde broeder en getrouwe dienaar en mededienaar in den Heere,
 
 **[4:8]** dien ik tot dat einde tot u gezonden heb, opdat hij wete hoe het u gaat en hij uw harten moge vertroosten;
 
-**[4:9]** met Onesimus, den getrouwen en beminden broeder, die uit de uwen is. Zij zullen u alles bekend maken wat hier omgaat. 
+**[4:9]** met Onesimus, den getrouwen en beminden broeder, die uit de uwen is. Zij zullen u alles bekend maken wat hier omgaat.
 
-**[4:10]**  U groet Aristarchus, mijn medestrijder, en Markus, de neef van Barnabas, omtrent wien gij bevelen ontvangen hebt, — als hij tot u komt, ontvangt hem dan—
+**[4:10]** U groet Aristarchus, mijn medestrijder, en Markus, de neef van Barnabas, omtrent wien gij bevelen ontvangen hebt, — als hij tot u komt, ontvangt hem dan—
 
 **[4:11]** en Jezus, die Justus genoemd wordt. Deze zijn uit de besnijdenis: zij alleen zijn mijn medearbeiders tot het koninkrijk Gods, die mij tot vertroosting zijn geweest.
 
@@ -61438,13 +61438,13 @@
 
 **[4:14]** U groet Lukas, de geneesheer, de beminde, en Demas.
 
-**[4:15]** Groet de broeders in Laodicea, en Nyntfas en de gemeente die in zijn huis is. 
+**[4:15]** Groet de broeders in Laodicea, en Nyntfas en de gemeente die in zijn huis is.
 
-**[4:16]**  En als deze brief bij u zal gelezen zijn, maakt dan dat hij ook gelezen worde in de gemeente der Laodiceërs, en dat ook gij dien brief leest die uit Laodicea geschreven is. 
+**[4:16]** En als deze brief bij u zal gelezen zijn, maakt dan dat hij ook gelezen worde in de gemeente der Laodiceërs, en dat ook gij dien brief leest die uit Laodicea geschreven is.
 
-**[4:17]**  En zegt tot Archippus: let op de bediening die gij ontvangen hebt in den Heere, dat gij die volbrengt! 
+**[4:17]** En zegt tot Archippus: let op de bediening die gij ontvangen hebt in den Heere, dat gij die volbrengt!
 
-**[4:18]**  De groetenis met mijn hand, van Paulus. Gedenkt aan mijn boeien. De genade met ulieden! Amen.   
+**[4:18]** De groetenis met mijn hand, van Paulus. Gedenkt aan mijn boeien. De genade met ulieden! Amen.
 
 ## I Thessalonians
 
@@ -61456,9 +61456,9 @@
 
 **[1:3]** zonder ophouden gedachtig zijnde aan het werk van uw geloof, en aan den arbeid van uw liefde, en aan de volharding van uw hope op onzen Heere Jezus Christus, voor het aangezicht van onzen God en Vader,
 
-**[1:4]** wetende, van God beminde broeders, uw uitverkiezing. 
+**[1:4]** wetende, van God beminde broeders, uw uitverkiezing.
 
-**[1:5]**  Want ons Evangelie is tot u gekomen niet alleen in woorden, maar ook in kracht, en in den Heiligen Geest, en met volle overtuiging, gelijk gij weet hoedanig wij onder u geweest zijn om uwentwil.
+**[1:5]** Want ons Evangelie is tot u gekomen niet alleen in woorden, maar ook in kracht, en in den Heiligen Geest, en met volle overtuiging, gelijk gij weet hoedanig wij onder u geweest zijn om uwentwil.
 
 **[1:6]** En gij zijt navolgers geworden van ons en van den Heere, hebbende het woord aangenomen in veel verdrukking, met blijdschap des Heiligen Geestes,
 
@@ -61468,15 +61468,15 @@
 
 **[1:9]** want zij zelven verhalen van ons, koedammen toegang wij tot u hadden, en hoe gij bekeerd zijt tot God van de afgoden, om den levenden waarachtigen God te dienen,
 
-**[1:10]** en zijn Zoon te verwachten uit de hemelen, dien Hij verwekt heeft uit de dooden, Jezus, die ons verlost van de gramschap die komende is.  
+**[1:10]** en zijn Zoon te verwachten uit de hemelen, dien Hij verwekt heeft uit de dooden, Jezus, die ons verlost van de gramschap die komende is.
 
 ### Chapter 2
 
 **[2:1]** Want gij weet zelf, broeders, onzen toegang tot ulieden, dat die niet tevergeefs is geweest,
 
-**[2:2]** maar te voren veel geleden hebbende en gesmaad zijnde in Filippi, zooals gij weet, zoo hebben wij toch met vrijmoedigheid in onzen God tot u het Evangelie gesproken, in veel strijd. 
+**[2:2]** maar te voren veel geleden hebbende en gesmaad zijnde in Filippi, zooals gij weet, zoo hebben wij toch met vrijmoedigheid in onzen God tot u het Evangelie gesproken, in veel strijd.
 
-**[2:3]**  Want onze vermaning was niet uit dwaling, noch uit onzuiverheid, noch uit bedrog;
+**[2:3]** Want onze vermaning was niet uit dwaling, noch uit onzuiverheid, noch uit bedrog;
 
 **[2:4]** maar, zooals wij van God waardig geacht zijn dat ons het Evangelie is toebetrouwd alzoo spreken wij, niet als behagende aan menschen maar aan God die onze harten beproeft.
 
@@ -61496,21 +61496,21 @@
 
 **[2:12]** en hebben getuigd dat gij zoudt wandelen waardiglijk voor God, die u roept tot zijn eigen koninkrijk en glorie.
 
-**[2:13]** En daarom danken ook wij God zonder ophouden dat, als gij het woord der tijding Gods van ons ontvangen hebt, gij dit niet ontvangen hebt als het woord van menschen, maar, zooals het waarlijk is, als een woord van God, die ook werkt in u die gelooft. 
+**[2:13]** En daarom danken ook wij God zonder ophouden dat, als gij het woord der tijding Gods van ons ontvangen hebt, gij dit niet ontvangen hebt als het woord van menschen, maar, zooals het waarlijk is, als een woord van God, die ook werkt in u die gelooft.
 
-**[2:14]**  Want gij zijt navolgers geworden, broeders, van de gemeenten Gods die in Judea zijn, in Christus Jezus, want dezelfde dingen hebt ook gij geleden van uw eigen medeburgers, zooals zij van de Joden,
+**[2:14]** Want gij zijt navolgers geworden, broeders, van de gemeenten Gods die in Judea zijn, in Christus Jezus, want dezelfde dingen hebt ook gij geleden van uw eigen medeburgers, zooals zij van de Joden,
 
 **[2:15]** die ook den Heere Jezus gedood hebben en de profeten, en die ons vervolgd hebben en aan God niet behagen en tegen alle menschen zijn,
 
-**[2:16]** die ons beletten om tot de heidenen te spreken opdat zij zouden behouden worden, — om ten allen tijde hun zonden vol te maken. Doch de gramschap is over hen gekomen tot den einde toe. 
+**[2:16]** die ons beletten om tot de heidenen te spreken opdat zij zouden behouden worden, — om ten allen tijde hun zonden vol te maken. Doch de gramschap is over hen gekomen tot den einde toe.
 
-**[2:17]**  Doch wij, broeders, voor een korten tijd van u gescheiden zijnde naar het aangezicht, niet naar het hart, hebben te overvloediger getracht om uw aangezicht te zien, met groot verlangen.
+**[2:17]** Doch wij, broeders, voor een korten tijd van u gescheiden zijnde naar het aangezicht, niet naar het hart, hebben te overvloediger getracht om uw aangezicht te zien, met groot verlangen.
 
 **[2:18]** Daarom hebben wij tot u willen komen, ik Paulus wel een en andermaal; maar de satan heeft het ons belet.
 
 **[2:19]** Want welke is toch onze hope, of blijdschap, of kroon des roems? Zijt gij dat niet voor onzen Heere Jezus Christus, in zijn verschijning?
 
-**[2:20]** Want gijlieden zijt onze glorie en blijdschap.  
+**[2:20]** Want gijlieden zijt onze glorie en blijdschap.
 
 ### Chapter 3
 
@@ -61522,9 +61522,9 @@
 
 **[3:4]** Want ook als wij bij u waren hebben wij u voorzegd dat wij zouden verdrukt worden, zooals het ook geschied is en gij weet het.
 
-**[3:5]** Daarom heb ik, niet langer kunnende wachten, hem gezonden om van uw geloof kennis te nemen, of niet de bekoorder u mocht bekoord hebben en onze arbeid tevergeefs mocht geweest zijn. 
+**[3:5]** Daarom heb ik, niet langer kunnende wachten, hem gezonden om van uw geloof kennis te nemen, of niet de bekoorder u mocht bekoord hebben en onze arbeid tevergeefs mocht geweest zijn.
 
-**[3:6]**  Maar als nu Timotheüs van u tot ons gekomen was en ons de goede boodschap gebracht had van uw geloof en liefde, en dat gij altijd goede gedachtenis van ons hebt, en zeer begeerig zijt om ons te zien, zooals wij ook om u te zien,
+**[3:6]** Maar als nu Timotheüs van u tot ons gekomen was en ons de goede boodschap gebracht had van uw geloof en liefde, en dat gij altijd goede gedachtenis van ons hebt, en zeer begeerig zijt om ons te zien, zooals wij ook om u te zien,
 
 **[3:7]** zoo zijn wij, broeders, daarom vertroost over ulieden in al onze moeilijkheid en verdrukking door uw geloof.
 
@@ -61534,11 +61534,11 @@
 
 **[3:10]** Nacht en dag zeer vuriglijk biddende om uw aangezicht te mogen zien en om aan te vullen hetgeen aan uw geloof ontbreekt.
 
-**[3:11]** Doch onze God en Vader zelf en onze Heere Jezus Christus, Hij bane onzen weg tot u. 
+**[3:11]** Doch onze God en Vader zelf en onze Heere Jezus Christus, Hij bane onzen weg tot u.
 
-**[3:12]**  En de Heere doe u toenemen en overvloedig worden in de liefde tot elkander en tot allen, zooals ook wij zijn tot ulieden,
+**[3:12]** En de Heere doe u toenemen en overvloedig worden in de liefde tot elkander en tot allen, zooals ook wij zijn tot ulieden,
 
-**[3:13]** ten einde uw harten te versterken om onberispelijk te zijn in heiligheid voor onzen God en Vader, in de verschijning van onzen Heere Jezus Christus met al zijn heiligen. Amen.  
+**[3:13]** ten einde uw harten te versterken om onberispelijk te zijn in heiligheid voor onzen God en Vader, in de verschijning van onzen Heere Jezus Christus met al zijn heiligen. Amen.
 
 ### Chapter 4
 
@@ -61556,17 +61556,17 @@
 
 **[4:7]** Want God heeft ons niet geroepen tot onzuiverheid maar in heiligmaking.
 
-**[4:8]** Die dus dit veracht, die veracht geen mensch maar God die ook zijn Heiligen Geest aan u heeft gegeven. 
+**[4:8]** Die dus dit veracht, die veracht geen mensch maar God die ook zijn Heiligen Geest aan u heeft gegeven.
 
-**[4:9]**  Doch aangaande de broederliefde heb ik niet noodig u te schrijven, want gij zelf zijt van God geleerd om elkander te beminnen.
+**[4:9]** Doch aangaande de broederliefde heb ik niet noodig u te schrijven, want gij zelf zijt van God geleerd om elkander te beminnen.
 
 **[4:10]** Want gij doet ook dit aan al de broeders in geheel Macedonië. Doch wij vermanen u, broeders, dat gij daarin meer toeneemt,
 
 **[4:11]** en dat gij uw best doe om stil te zijn en uw eigen dingen te doen en met uw handen te werken, zooals wij u bevolen hebben;
 
-**[4:12]** opdat gij betamelijk moogt wandelen voor degenen die buiten de gemeente; zijn en opdat gij van niemand iets noodig hebt. 
+**[4:12]** opdat gij betamelijk moogt wandelen voor degenen die buiten de gemeente; zijn en opdat gij van niemand iets noodig hebt.
 
-**[4:13]**  Doch wij willen niet broeders, dat gij onwetend zijt aangaande degenen die ontslapen zijn, opdat gij niet bedroefd zoudt zijn zooals de anderen die geen hop hebben.
+**[4:13]** Doch wij willen niet broeders, dat gij onwetend zijt aangaande degenen die ontslapen zijn, opdat gij niet bedroefd zoudt zijn zooals de anderen die geen hop hebben.
 
 **[4:14]** Want als wij gelooven dat Jezus gestorven is en verrezen, zoo zal God ook degenen die ontslapen zijn, door Jezus met Hem brengen.
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** Daarna wij, de levenden, de overgeblevenen, zullen tegelijk met hen weggerukt worden in de wolken, tot ontmoeting van den Heere in de lucht; en alzoo zullen wij altijd met den Heere zijn.
 
-**[4:18]** Vertroost dan elkander in deze woorden.  
+**[4:18]** Vertroost dan elkander in deze woorden.
 
 ### Chapter 5
 
@@ -61584,9 +61584,9 @@
 
 **[5:2]** want gij weet zelf zeer goed dat de dag des Heeren zal komen als een dief in den nacht.
 
-**[5:3]** Als zij zullen zeggen: vrede en veiligheid! dan overvalt hun een haastig verderf, zooals barensnood aan een zwangere; en zij zullen het geenszins ontvluchten. 
+**[5:3]** Als zij zullen zeggen: vrede en veiligheid! dan overvalt hun een haastig verderf, zooals barensnood aan een zwangere; en zij zullen het geenszins ontvluchten.
 
-**[5:4]**  Maar gij, broeders, gij zijt niet in duisternis, dat u die dag zou bevangen als een dief.
+**[5:4]** Maar gij, broeders, gij zijt niet in duisternis, dat u die dag zou bevangen als een dief.
 
 **[5:5]** Want gij zijt allen kinderen van het licht en kinderen van den dag; wij zijn niet van den nacht noch van de duisternis.
 
@@ -61600,13 +61600,13 @@
 
 **[5:10]** die voor ons gestorven is, opdat hetzij wij wakker zijn, hetzij wij slapen, te zamen met Hem leven zouden.
 
-**[5:11]** Daarom, vertroost elkander en bouwt elkander op, zooals gij ook doet. 
+**[5:11]** Daarom, vertroost elkander en bouwt elkander op, zooals gij ook doet.
 
-**[5:12]**  Doch wij verzoeken u, broeders, diegenen te erkennen die onder u arbeiden en die over u gesteld zijn in den Heere en die u vermanen,
+**[5:12]** Doch wij verzoeken u, broeders, diegenen te erkennen die onder u arbeiden en die over u gesteld zijn in den Heere en die u vermanen,
 
-**[5:13]** en hen zeer in groote waarde te houden in liefde om hun arbeid, zijt vreedzaam onder elkander. 
+**[5:13]** en hen zeer in groote waarde te houden in liefde om hun arbeid, zijt vreedzaam onder elkander.
 
-**[5:14]**  En wij vermanen u, broeders, bestraft de ongeregelden, bemoedigt de kleinmoedigen, ondersteunt de zwakken, zijt geduldig jegens allen.
+**[5:14]** En wij vermanen u, broeders, bestraft de ongeregelden, bemoedigt de kleinmoedigen, ondersteunt de zwakken, zijt geduldig jegens allen.
 
 **[5:15]** Ziet toe, dat niemand kwaad voor kwaad vergelde aan iemand, maar tracht altijd naar het goede voor elkander en voor allen.
 
@@ -61622,9 +61622,9 @@
 
 **[5:21]** Beproeft alles; houdt het goede vast.
 
-**[5:22]** Onthoudt u van allen schijn des kwaads. 
+**[5:22]** Onthoudt u van allen schijn des kwaads.
 
-**[5:23]**  De God des vredes zelf heilige u geheel en al, en uw geest en ziel en lichaam moge geheel onbevlekt bewaard zijn in de verschijning van onzen Heere Jezus Christus.
+**[5:23]** De God des vredes zelf heilige u geheel en al, en uw geest en ziel en lichaam moge geheel onbevlekt bewaard zijn in de verschijning van onzen Heere Jezus Christus.
 
 **[5:24]** Getrouw is Hij die u roept, die het ook zal doen.
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Ik bezweer u bij den Heere, dat deze brief moet voorgelezen worden aan al de broeders.
 
-**[5:28]** De genade van onzen Heere Jezus Christus zij met ulieden. Amen.   
+**[5:28]** De genade van onzen Heere Jezus Christus zij met ulieden. Amen.
 
 ## II Thessalonians
 
@@ -61642,15 +61642,15 @@
 
 **[1:1]** Paulus en Silvanus en Timotheüs, aan de gemeente der Thessalonikers, in God onzen Vader en den Heere Jezus Christus:
 
-**[1:2]** genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus! 
+**[1:2]** genade zij ulieden en vrede van God onzen Vader en van den Heere Jezus Christus!
 
-**[1:3]**  Wij moeten God altijd over u danken, broeders, gelijk betamelijk is, omdat uw geloof zeer aanwast en omdat de liefde van u allen tot malkander zeer toeneemt,
+**[1:3]** Wij moeten God altijd over u danken, broeders, gelijk betamelijk is, omdat uw geloof zeer aanwast en omdat de liefde van u allen tot malkander zeer toeneemt,
 
 **[1:4]** zoodat wij zelf ook in u roemen in de gemeenten Gods, over uw volhardingen geloof in al uw vervolgingen en de verdrukkingen die gij verdraagt,
 
-**[1:5]** tot een bewijs van Gods rechtvaardig oordeel, opdat gij waardig zoudt geacht worden het koninkrijk Gods waarvoor gij ook lijdt. 
+**[1:5]** tot een bewijs van Gods rechtvaardig oordeel, opdat gij waardig zoudt geacht worden het koninkrijk Gods waarvoor gij ook lijdt.
 
-**[1:6]**  Want het is rechtvaardig bij God om verdrukking te vergelden aan uw verdrukkers,
+**[1:6]** Want het is rechtvaardig bij God om verdrukking te vergelden aan uw verdrukkers,
 
 **[1:7]** en aan u die verdrukt wordt verkwikking met ons, in de openbaring van den Heere Jezus van den hemel, met de engelen zijner macht, in vlammend vuur,
 
@@ -61658,23 +61658,23 @@
 
 **[1:9]** die gestraft zullen worden met een eeuwig verderf van het aangezicht des Heeren en van de glorie zijner sterkte,
 
-**[1:10]** als Hij zal komen om de glorie te ontvangen in zijn heiligen en zich wonderbaar te vertoonen in allen die gelooven, in dien dag; want ons getuigenis aan ulieden is geloofd geworden. 
+**[1:10]** als Hij zal komen om de glorie te ontvangen in zijn heiligen en zich wonderbaar te vertoonen in allen die gelooven, in dien dag; want ons getuigenis aan ulieden is geloofd geworden.
 
-**[1:11]**  Tot dien einde bidden wij ook altijd voor ulieden, opdat onze God u uw roeping waardig moge maken en Hij al het welbehagen zijner goedheid en het werk des geloofs met kracht vervullen moge,
+**[1:11]** Tot dien einde bidden wij ook altijd voor ulieden, opdat onze God u uw roeping waardig moge maken en Hij al het welbehagen zijner goedheid en het werk des geloofs met kracht vervullen moge,
 
-**[1:12]** opdat de Naam van onzen Heere Jezus Christus in u de glorie ontvangen moge, en gij in Hem, naar de genade van onzen God en van den Heere Jezus Christus.  
+**[1:12]** opdat de Naam van onzen Heere Jezus Christus in u de glorie ontvangen moge, en gij in Hem, naar de genade van onzen God en van den Heere Jezus Christus.
 
 ### Chapter 2
 
 **[2:1]** Doch wij bidden u, broeders, wat aangaat de verschijning van onzen Heere Jezus Christus, en onze bijeenvergadering met Hem;
 
-**[2:2]** laat u toch niet lichtelijk beroeren van gemoed, noch verschrikken, zoo min door een geest, als door een woord of door een brief die door ons zou geschreven zijn, alsof de dag des Heeren voor de deur staat. 
+**[2:2]** laat u toch niet lichtelijk beroeren van gemoed, noch verschrikken, zoo min door een geest, als door een woord of door een brief die door ons zou geschreven zijn, alsof de dag des Heeren voor de deur staat.
 
-**[2:3]**  Laat niemand u verleiden op eenigerlei wijze, want die dag des Heeren komt niet als eerst de afval niet gekomen is en openbaar geworden is de mensch der wetteloosheid, de zoon des verderfs,
+**[2:3]** Laat niemand u verleiden op eenigerlei wijze, want die dag des Heeren komt niet als eerst de afval niet gekomen is en openbaar geworden is de mensch der wetteloosheid, de zoon des verderfs,
 
-**[2:4]** de tegenstander en verheffer van zich zelven boven al wat God genoemd wordt of wat godsdienstig vereerd wordt, zoodat hij zich zelven zal zetten in den tempel Gods, zich zelven voordoende alsof hij God is. 
+**[2:4]** de tegenstander en verheffer van zich zelven boven al wat God genoemd wordt of wat godsdienstig vereerd wordt, zoodat hij zich zelven zal zetten in den tempel Gods, zich zelven voordoende alsof hij God is.
 
-**[2:5]**  Hebt gij niet onthouden dat ik, toen ik nog bij ulieden was, u deze dingen gezegd heb?
+**[2:5]** Hebt gij niet onthouden dat ik, toen ik nog bij ulieden was, u deze dingen gezegd heb?
 
 **[2:6]** En nu weet gij wel wat hem terughoudt opdat hij op zijn tijd openbaar worde.
 
@@ -61688,9 +61688,9 @@
 
 **[2:11]** En daarom zendt God hun een kracht van doling, om ze in den leugen te doen gelooven,
 
-**[2:12]** opdat zij allen zouden geoordeeld worden die niet geloofd hebben in de waarheid, maar die een welbehagen gehad hebben in de onrechtvaardigheid. 
+**[2:12]** opdat zij allen zouden geoordeeld worden die niet geloofd hebben in de waarheid, maar die een welbehagen gehad hebben in de onrechtvaardigheid.
 
-**[2:13]**  Doch wij moeten God altijd danken over ulieden, broeders die van den Heere bemind zijt, omdat God u verkozen heeft van den beginne tot behoudenis, in heiligmaking des Geestes en geloof der waarheid,
+**[2:13]** Doch wij moeten God altijd danken over ulieden, broeders die van den Heere bemind zijt, omdat God u verkozen heeft van den beginne tot behoudenis, in heiligmaking des Geestes en geloof der waarheid,
 
 **[2:14]** waartoe Hij u ook geroepen heeft door ons Evangelie, tot bekoming der glorie van onzen Heere Jezus Christus.
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** En onze Heere Jezus Christus zelf en onze God en Vader die ons bemind heeft en een eeuwige vertroosting gegeven heeft, en goede hope in genade,
 
-**[2:17]** die moge uw harten vertroosten en versterken in alle goed werk en woord.  
+**[2:17]** die moge uw harten vertroosten en versterken in alle goed werk en woord.
 
 ### Chapter 3
 
@@ -61710,9 +61710,9 @@
 
 **[3:4]** En wij vertrouwen in den Heere van ulieden dat gij doet en doen zult wat wij gebieden.
 
-**[3:5]** Doch de Heere bestiere uw harten tot de liefde Gods en tot de volharding van Christus. 
+**[3:5]** Doch de Heere bestiere uw harten tot de liefde Gods en tot de volharding van Christus.
 
-**[3:6]**  En wij gebieden u, broeders, in den Naam van onzen Heere Jezus Christus, u te onttrekken van allen broeder die ongeregeld wandelt, en niet naar de overlevering die zij van ons ontvangen hebben.
+**[3:6]** En wij gebieden u, broeders, in den Naam van onzen Heere Jezus Christus, u te onttrekken van allen broeder die ongeregeld wandelt, en niet naar de overlevering die zij van ons ontvangen hebben.
 
 **[3:7]** Want gij weet zelf hoe noodig het is ons na te volgen, omdat wij ons niet ongeregeld gedragen hebben onder u;
 
@@ -61724,19 +61724,19 @@
 
 **[3:11]** Want wij hooren dat sommigen onder u ongeregeld wandelen, niet werkende maar ledig loopende.
 
-**[3:12]** Doch den zoodanige gebieden en vermanen wij in den Heere Jezus Christus, om stillekens te werken en hun eigen brood te eten. 
+**[3:12]** Doch den zoodanige gebieden en vermanen wij in den Heere Jezus Christus, om stillekens te werken en hun eigen brood te eten.
 
-**[3:13]**  Maar gij, broeders, houdt niet op van goed te doen.
+**[3:13]** Maar gij, broeders, houdt niet op van goed te doen.
 
 **[3:14]** En als iemand niet gehoorzaamt aan ons woord door dezen brief, houdt hem in het oog; hebt geen gemeenschap met hem opdat hij beschaamd worde;
 
-**[3:15]** en beschouwt hem niet als een vijand, maar bestraft hem als een broeder. 
+**[3:15]** en beschouwt hem niet als een vijand, maar bestraft hem als een broeder.
 
-**[3:16]**  Doch de Heere de vredes zelf geve u den vrede ten allen tijde, in alle wijze: De Heer zij met u allen!
+**[3:16]** Doch de Heere de vredes zelf geve u den vrede ten allen tijde, in alle wijze: De Heer zij met u allen!
 
 **[3:17]** De groetenis met mijn hand, van Paulus. Dit is een teeken in eiken brief. Alzoo schrijf ik.
 
-**[3:18]** De genade van onze Heere Jezus Christus zij me u allen. Amen.   
+**[3:18]** De genade van onze Heere Jezus Christus zij me u allen. Amen.
 
 ## I Timothy
 
@@ -61744,9 +61744,9 @@
 
 **[1:1]** Paulus, een apostel van Jezus Christus, naar het gebod van God, onzen Zaligmaker, en van Jezus Christus, onze hope,
 
-**[1:2]** aan Timotheüs, mijn oprechten zoon in het geloof: genade, barmhartigheid, vrede zij u, van God den Vader, en van Christus Jezus, onzen Heer. 
+**[1:2]** aan Timotheüs, mijn oprechten zoon in het geloof: genade, barmhartigheid, vrede zij u, van God den Vader, en van Christus Jezus, onzen Heer.
 
-**[1:3]**  Doe zooals ik u vermaand heb om in Efesus te blijven, als ik naar Macedonië ging, opdat gij aan sommigen zoudt gebieden geen vreemde leering te leeren,
+**[1:3]** Doe zooals ik u vermaand heb om in Efesus te blijven, als ik naar Macedonië ging, opdat gij aan sommigen zoudt gebieden geen vreemde leering te leeren,
 
 **[1:4]** noch zich bezig te houden met fabelen en eindelooze geslachtlijsten, die meer twistredenen voortbrengen dan opbouwing Gods, die in het geloof is.
 
@@ -61762,9 +61762,9 @@
 
 **[1:10]** voor hoereerders, voor sodomieters, voor menschendieven, voor leugenaars, voor meineedigen, en al het overige dat strijdt tegen de gezonde leering,
 
-**[1:11]** volgens het Evangelie der glorie van den zaligen God, dat mij toevertrouwd is. 
+**[1:11]** volgens het Evangelie der glorie van den zaligen God, dat mij toevertrouwd is.
 
-**[1:12]**  Ik dank onzen Heere Jezus Christus, die mij krach t gegeven heeft, dat Hij mij getrouw geacht heeft, stellende mij in de bediening,
+**[1:12]** Ik dank onzen Heere Jezus Christus, die mij krach t gegeven heeft, dat Hij mij getrouw geacht heeft, stellende mij in de bediening,
 
 **[1:13]** mij, die vroeger een lasteraar was, en een vervolger en een verdrukker: maar ik verkreeg barmhartigheid, omdat ik het onwetend deed in ongeloof.
 
@@ -61774,13 +61774,13 @@
 
 **[1:16]** Maar daarom verkreeg ik barmhartigheid, opdat Jezus Christus in mij, als den eerste, alle lankmoedigheid zou betoonen, tot een voorbeeld van degenen die gelooven zullen tot het eeuwige leven.
 
-**[1:17]** Den Koning nu der eeuwen, den onverderfelijken, onzichtbaren, eenigen God, zij lof en glorie tot in alle eeuwigheid! Amen. 
+**[1:17]** Den Koning nu der eeuwen, den onverderfelijken, onzichtbaren, eenigen God, zij lof en glorie tot in alle eeuwigheid! Amen.
 
-**[1:18]**  Dit gebod gebied ik u, mijn zoon Timotheüs, naar de profetieën die te voren over u gesproken zijn, dat gij in deze den goeden strijd zult strijden,
+**[1:18]** Dit gebod gebied ik u, mijn zoon Timotheüs, naar de profetieën die te voren over u gesproken zijn, dat gij in deze den goeden strijd zult strijden,
 
 **[1:19]** behoudende het geloof en een goede konsciëntie, die sommigen verstooten hebbende, schipbreuk hebben geleden in het geloof,
 
-**[1:20]** waaronder Hymeneüs en Alexander zijn, die ik aan den Satan heb overgegeven, opdat zij leeren mogen niet te lasteren.  
+**[1:20]** waaronder Hymeneüs en Alexander zijn, die ik aan den Satan heb overgegeven, opdat zij leeren mogen niet te lasteren.
 
 ### Chapter 2
 
@@ -61796,9 +61796,9 @@
 
 **[2:6]** die zich zelven gegeven heeft tot een losprijs voor allen, het getuigenis ter geschikter tijd,
 
-**[2:7]** waartoe ik gesteld ben als prediker en apostel, (ik spreek waarheid, ik lieg niet!) als leer aar der heidenen in geloof en waarheid. 
+**[2:7]** waartoe ik gesteld ben als prediker en apostel, (ik spreek waarheid, ik lieg niet!) als leer aar der heidenen in geloof en waarheid.
 
-**[2:8]**  Ik wil dan dat de mannen bidden in alle plaats, opheffende heilige handen, zonder gramschap en twisting.
+**[2:8]** Ik wil dan dat de mannen bidden in alle plaats, opheffende heilige handen, zonder gramschap en twisting.
 
 **[2:9]** Evenzoo dat ook de vrouwen in een zedig gewaad, met schaamte en ingetogenheid, zich zelven versieren, niet met haarvlechten en goud, of paarlen, of kostbare kleeding,
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** En Adam is niet verleid, maar de vrouw, verleid zijnde, is in overtreding geweest;
 
-**[2:15]** doch zij zal behouden worden door kinderen te baren, als zij blijven in geloof en liefde en heiligheid, met ingetogenheid.  
+**[2:15]** doch zij zal behouden worden door kinderen te baren, als zij blijven in geloof en liefde en heiligheid, met ingetogenheid.
 
 ### Chapter 3
 
@@ -61828,9 +61828,9 @@
 
 **[3:6]** geen nieuweling, opdat hij niet valle in het oordeel des duivels, door hoovaardigheid.
 
-**[3:7]** Hij moet ook een goed getuigenis hebben van degenen die buiten de gemeente zijn, opdat hij niet valle tot verachting en in een strik des duivels. 
+**[3:7]** Hij moet ook een goed getuigenis hebben van degenen die buiten de gemeente zijn, opdat hij niet valle tot verachting en in een strik des duivels.
 
-**[3:8]**  De diakenen insgelijks moet eerbaar zijn, niet dubbel van tong, niet genegen tot veel wijn, geen vuil gewin zoekers,
+**[3:8]** De diakenen insgelijks moet eerbaar zijn, niet dubbel van tong, niet genegen tot veel wijn, geen vuil gewin zoekers,
 
 **[3:9]** hebbende de verborgenheid des geloofs in een zuivere konsciëntie.
 
@@ -61840,13 +61840,13 @@
 
 **[3:12]** Diakens moeten aangesteld worden die mannen zijn van één vrouw, hun kinderen en hun eigen huisgezinnen goed bestieren.
 
-**[3:13]** Want die goed zullen gediend hebben als diakenen, die zullen voor zich zelven een goeden opgang verkrijgen en veel vrijmoedigheid in het geloof dat in Christus Jezus is. 
+**[3:13]** Want die goed zullen gediend hebben als diakenen, die zullen voor zich zelven een goeden opgang verkrijgen en veel vrijmoedigheid in het geloof dat in Christus Jezus is.
 
-**[3:14]**  Dit schrijf ik u, hopende haast tot u te komen;
+**[3:14]** Dit schrijf ik u, hopende haast tot u te komen;
 
 **[3:15]** doch als ik vertoef, opdat gij weten moogt hoe gij u moet gedragen in het huis Gods, dat is de gemeente van den levenden God, de pilaar en steun van de waarheid.
 
-**[3:16]** En buiten twijfel, groot is de verborgenheid der godvruchtigheid! Die geopenbaard is in het vleesch, is gerechtvaardigd in den geest, is verschenen aan de engelen, is gepredikt onder de heidenen, is geloofd in de wereld, is opgenomen in glorie!  
+**[3:16]** En buiten twijfel, groot is de verborgenheid der godvruchtigheid! Die geopenbaard is in het vleesch, is gerechtvaardigd in den geest, is verschenen aan de engelen, is gepredikt onder de heidenen, is geloofd in de wereld, is opgenomen in glorie!
 
 ### Chapter 4
 
@@ -61858,9 +61858,9 @@
 
 **[4:4]** Want alle schepsel Gods is goed, en niets is er verwerpelijk, genomen zijnde met dankzegging,
 
-**[4:5]** want het wordt geheiligd door Gods woord en door gebed. 
+**[4:5]** want het wordt geheiligd door Gods woord en door gebed.
 
-**[4:6]**  Deze dingen den broederen voorstellende zult gij een goed dienaar van Jezus Christus zijn, opgevoed met de woorden des geloofs en der goede leering die gij gevolgd hebt.
+**[4:6]** Deze dingen den broederen voorstellende zult gij een goed dienaar van Jezus Christus zijn, opgevoed met de woorden des geloofs en der goede leering die gij gevolgd hebt.
 
 **[4:7]** Doch verwerp de ongoddelijke en oudwijfsche fabelen, en oefen u zelven tot godvruchtigheid,
 
@@ -61868,9 +61868,9 @@
 
 **[4:9]** Waarachtig is het woord en waardig aller aanneming.
 
-**[4:10]** Want tot dien einde arbeiden wij en strijden wij, omdat wij hebben gehoopt op den levenden God, die een behouder is van alle menschen, doch het meest van de geloovigen. 
+**[4:10]** Want tot dien einde arbeiden wij en strijden wij, omdat wij hebben gehoopt op den levenden God, die een behouder is van alle menschen, doch het meest van de geloovigen.
 
-**[4:11]**  Verkondig en onderwijs deze dingen.
+**[4:11]** Verkondig en onderwijs deze dingen.
 
 **[4:12]** Dat niemand uw jonkheid verachte, maar zijt een voorbeeld der geloovigen in woord, in levensmanier, in liefde, in vertrouwen, in reinheid.
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** Bedenk deze dingen, maak er werk van, opdat uw vooruitgang openbaar zij aan allen.
 
-**[4:16]** Let op u zelven en op het onderwijs; volhard in deze dingen; want dit doende zult gij u zelven behouden en degenen die u hooren.  
+**[4:16]** Let op u zelven en op het onderwijs; volhard in deze dingen; want dit doende zult gij u zelven behouden en degenen die u hooren.
 
 ### Chapter 5
 
@@ -61914,17 +61914,17 @@
 
 **[5:15]** Want sommigen zijn alreeds afgeweken achter den Satan.
 
-**[5:16]** Als eenige geloovige, hetzij man of vrouw, weduwen heeft in zijn familie, dat hij die verzorge, en dat de gemeente niet bezwaard worde, opdat zij genoeg moge hebben voor degenen die waarlijk weduwen zijn. 
+**[5:16]** Als eenige geloovige, hetzij man of vrouw, weduwen heeft in zijn familie, dat hij die verzorge, en dat de gemeente niet bezwaard worde, opdat zij genoeg moge hebben voor degenen die waarlijk weduwen zijn.
 
-**[5:17]**  Voor de ouderlingen, die goed besturen, moet men dubbele achting hebben, vooral voor degenen die arbeiden in het woord en in het onderwijs.
+**[5:17]** Voor de ouderlingen, die goed besturen, moet men dubbele achting hebben, vooral voor degenen die arbeiden in het woord en in het onderwijs.
 
 **[5:18]** Want de Schriftuur zegt: een os die den dorschvloer treedt zult gij niet muilbanden en de werkman is zijn loon waardig.
 
 **[5:19]** Tegen een ouderling zult gij geen beschuldiging opnemen, dan alleen onder twee of drie getuigen.
 
-**[5:20]** Degenen die zondigen, moet gij bestraffen voor het aangezicht van allen, opdat ook de overigen mogen vreezen. 
+**[5:20]** Degenen die zondigen, moet gij bestraffen voor het aangezicht van allen, opdat ook de overigen mogen vreezen.
 
-**[5:21]**  Ik betuig voor het aangezicht van God en van Christus Jezus en van de uitverkoren engelen, dat gij deze dingen onderhoudt, zonder vooringenomenheid, niets doende naar voorliefde.
+**[5:21]** Ik betuig voor het aangezicht van God en van Christus Jezus en van de uitverkoren engelen, dat gij deze dingen onderhoudt, zonder vooringenomenheid, niets doende naar voorliefde.
 
 **[5:22]** Leg aan niemand haastelijk de handen op, en heb geen gemeenschap met de zonden van anderen. Bewaar u zelven rein.
 
@@ -61932,21 +61932,21 @@
 
 **[5:24]** De zonden van sommige menschen zijn vooraf openbaar, eer men ze onderzoekt, doch die van anderen komen daarna te voorschijn.
 
-**[5:25]** Desgelijks ook zijn de goede werken vooraf openbaar, en die het niet zijn die kunnen niet verborgen blijven.  
+**[5:25]** Desgelijks ook zijn de goede werken vooraf openbaar, en die het niet zijn die kunnen niet verborgen blijven.
 
 ### Chapter 6
 
 **[6:1]** zoovelen als er dienstbaren zijn onder het juk moeten hun eigen meesters allen eerbied waardig achten, opdat de Naam van God en de leering niet gelasterd worden moge.
 
-**[6:2]** En die geloovige meesters hebben mogen dezen niet minachten omdat zij broeders zijn, maar zij moeten hen te meer dienen omdat zij geloovig en bemind zijn, als zijnde mededeelgenooten derzelfde weldaad. Onderwijs deze dingen en vermaan hen. 
+**[6:2]** En die geloovige meesters hebben mogen dezen niet minachten omdat zij broeders zijn, maar zij moeten hen te meer dienen omdat zij geloovig en bemind zijn, als zijnde mededeelgenooten derzelfde weldaad. Onderwijs deze dingen en vermaan hen.
 
-**[6:3]**  Als iemand wat anders onderwijst en zich niet voegt naar de gezonde woorden van onzen Heere Jezus Christus, en naar het onderwijs dat naar de godvruchtigheid is,
+**[6:3]** Als iemand wat anders onderwijst en zich niet voegt naar de gezonde woorden van onzen Heere Jezus Christus, en naar het onderwijs dat naar de godvruchtigheid is,
 
 **[6:4]** die is opgeblazen, niets wetende, maar razende over vraagstukken en redeneeringen, waaruit nijdigheid voortkomt, twist, lasteringen, kwade bedenkingen,
 
-**[6:5]** krakeelingen van menschen die verdorven zijn van zin en van de waarheid beroofd, meenende dat de godvruchtigheid een gewin is. 
+**[6:5]** krakeelingen van menschen die verdorven zijn van zin en van de waarheid beroofd, meenende dat de godvruchtigheid een gewin is.
 
-**[6:6]**  En de godvruchtigheid is een groot gewin met vergenoegdheid.
+**[6:6]** En de godvruchtigheid is een groot gewin met vergenoegdheid.
 
 **[6:7]** Want wij hebben niets in de wereld gebracht en het is zeker dat wij er ook niets kunnen uitdragen.
 
@@ -61954,9 +61954,9 @@
 
 **[6:9]** Doch die willen rijk worden vallen in bekoring en in een strik en in vele dwaze en schadelijke begeerlijkheden, die de menschen doen zinken tot verderf en ondergang,
 
-**[6:10]** want een wortel van alle kwaad is de gierigheid, waartoe sommigen zich begevende zijn afgedwaald van het geloof en zich zelven met vele smarten hebben doorstoken. 
+**[6:10]** want een wortel van alle kwaad is de gierigheid, waartoe sommigen zich begevende zijn afgedwaald van het geloof en zich zelven met vele smarten hebben doorstoken.
 
-**[6:11]**  Maar gij, o mensch Gods! vlied deze dingen, en tracht naar rechtvaardigheid, godvruchtigheid, geloof, liefde, volharding, zachtmoedigheid.
+**[6:11]** Maar gij, o mensch Gods! vlied deze dingen, en tracht naar rechtvaardigheid, godvruchtigheid, geloof, liefde, volharding, zachtmoedigheid.
 
 **[6:12]** Strijd den goeden strijd des geloofs, grijp naar het eeuwige leven, waartoe gij geroepen zijt en de goede belijdenis beleden hebt voor het aangezicht van veel getuigen.
 
@@ -61966,17 +61966,17 @@
 
 **[6:15]** die Hij ter rechter tijd vertoonen zal, Hij de zalige en alleen machtige, de Koning dergenen die als koningen heerschen en de Heer dergenen die als heeren gebieden,
 
-**[6:16]** die alleen onsterfelijkheid bezit, een ongenaakbaar licht bewonende, dien geen mensch gezien heeft, noch zien kan; aan wien de eere toekomt en eeuwige kracht! Amen. 
+**[6:16]** die alleen onsterfelijkheid bezit, een ongenaakbaar licht bewonende, dien geen mensch gezien heeft, noch zien kan; aan wien de eere toekomt en eeuwige kracht! Amen.
 
-**[6:17]**  Aan de rijken in de tegenwoordige eeuw moet gij gebieden niet hoogmoedig te zijn, noch te vertrouwen op de ongestadigheid van den rijkdom, maar op den God die leeft en die ons alle dingen overvloediglijk verschaft tot gebruik;
+**[6:17]** Aan de rijken in de tegenwoordige eeuw moet gij gebieden niet hoogmoedig te zijn, noch te vertrouwen op de ongestadigheid van den rijkdom, maar op den God die leeft en die ons alle dingen overvloediglijk verschaft tot gebruik;
 
 **[6:18]** om weldadig te zijn, rijk te zijn in goede werken, gewillig te zijn tot uitdeelen, gemeenzaam te zijn,
 
-**[6:19]** voor zich zelven een goeden grond bijeen verzamelende tot de toekomst, opdat zij het waarachtige leven mogen bekomen. 
+**[6:19]** voor zich zelven een goeden grond bijeen verzamelende tot de toekomst, opdat zij het waarachtige leven mogen bekomen.
 
-**[6:20]**  O Timotheüs! bewaar wat u is toebetrouwd, u afkeerende van het ledig geklap en van de tegenspraak der zoogenaamde wetenschap,
+**[6:20]** O Timotheüs! bewaar wat u is toebetrouwd, u afkeerende van het ledig geklap en van de tegenspraak der zoogenaamde wetenschap,
 
-**[6:21]** die sommigen uitbazuinende, van het geloof zijn afgedoold. De genade zij met u! Amen.   
+**[6:21]** die sommigen uitbazuinende, van het geloof zijn afgedoold. De genade zij met u! Amen.
 
 ## II Timothy
 
@@ -61984,15 +61984,15 @@
 
 **[1:1]** Paulus, een apostel van Jezus Christus, door den wil van God, naar de belofte des levens dat in Christus Jezus is;
 
-**[1:2]** aan Timotheüs, mijn beminden zoon: genade, barmhartigheid, vrede, van God den Vader en van onzen Heere Jezus Christus! 
+**[1:2]** aan Timotheüs, mijn beminden zoon: genade, barmhartigheid, vrede, van God den Vader en van onzen Heere Jezus Christus!
 
-**[1:3]**  Ik dank God, wien ik dien van mijn voorouders af in een zuivere konsciëntie, gelijk ik onophoudelijk aan u gedachtig ben in mijn gebeden, nacht en dag,
+**[1:3]** Ik dank God, wien ik dien van mijn voorouders af in een zuivere konsciëntie, gelijk ik onophoudelijk aan u gedachtig ben in mijn gebeden, nacht en dag,
 
 **[1:4]** begeerende u te zien, gedachtig zijnde aan uw tranen, opdat ik vervuld moge; worden met blijdschap,
 
-**[1:5]** mij in gedachtenis brengende het ongeveinsd geloof dat in u is, dat eerst gewoond heeft in uw grootmoeder Loïs en in uw moeder Eunice; en ik ben overtuigd dat het ook in u is. 
+**[1:5]** mij in gedachtenis brengende het ongeveinsd geloof dat in u is, dat eerst gewoond heeft in uw grootmoeder Loïs en in uw moeder Eunice; en ik ben overtuigd dat het ook in u is.
 
-**[1:6]**  Daarom breng ik u in gedachtenis dat gij de genadegifte Gods weder moet opwekken die in u is door de oplegging mijner handen.
+**[1:6]** Daarom breng ik u in gedachtenis dat gij de genadegifte Gods weder moet opwekken die in u is door de oplegging mijner handen.
 
 **[1:7]** Want God heeft ons niet gegeven een geest van vreesachtigheid, maar van kracht en van liefde en van matigheid.
 
@@ -62004,19 +62004,19 @@
 
 **[1:11]** waartoe ik gesteld ben als een prediker en apostel en leeraar.
 
-**[1:12]** Om welke oorzaak ook ik deze dingen lijd, maar ik ben niet beschaamd geworden; want ik weet in wien ik geloofd heb, en ik ben overtuigd dat Hij machtig is te bewaren wat mij toebetrouwd is, tot dien dag. 
+**[1:12]** Om welke oorzaak ook ik deze dingen lijd, maar ik ben niet beschaamd geworden; want ik weet in wien ik geloofd heb, en ik ben overtuigd dat Hij machtig is te bewaren wat mij toebetrouwd is, tot dien dag.
 
-**[1:13]**  Houd vast het voorbeeld der gezonde woorden die gij van mij gehoord hebt in geloof en liefde, die in Christus Jezus is.
+**[1:13]** Houd vast het voorbeeld der gezonde woorden die gij van mij gehoord hebt in geloof en liefde, die in Christus Jezus is.
 
-**[1:14]** Bewaar het goede dat u toevertrouwd is, door den Heiligen Geest die in ons woont. 
+**[1:14]** Bewaar het goede dat u toevertrouwd is, door den Heiligen Geest die in ons woont.
 
-**[1:15]**  Gij weet dit, dat allen die in Asië zijn van mij afgekeerd zijn, waaronder ook Fygellus en Hermogenes.
+**[1:15]** Gij weet dit, dat allen die in Asië zijn van mij afgekeerd zijn, waaronder ook Fygellus en Hermogenes.
 
 **[1:16]** De Heere doe barmhartigheid aan het huisgezin van Onesiforus, want dikwijls heeft hij mij verkwikt en zich niet geschaamd over mijn boeien;
 
 **[1:17]** maar in Rome gekomen zijnde heeft hij mij weldra gezocht en gevonden;
 
-**[1:18]** de Heere geve hem barmhartigheid te vinden bij den Heere in dien dag. En hoezeer hij in Efesus is dienstig geweest, dat weet gij zeer wel.  
+**[1:18]** de Heere geve hem barmhartigheid te vinden bij den Heere in dien dag. En hoezeer hij in Efesus is dienstig geweest, dat weet gij zeer wel.
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** in zachtmoedigheid onderwijzende degenen die tegenstaan, of wellicht God hun te eenigertijd boetvaardigheid mocht geven tot kennis der waarheid,
 
-**[2:26]** en zij wederom wakker mochten worden uit den strik des duivels, onder wien zij gevangen waren tot zijn wil.  
+**[2:26]** en zij wederom wakker mochten worden uit den strik des duivels, onder wien zij gevangen waren tot zijn wil.
 
 ### Chapter 3
 
@@ -62082,17 +62082,17 @@
 
 **[3:4]** verraders, opgewonden, opgeblazen, meer liefhebbers van wellusten dan liefhebbers van God,
 
-**[3:5]** wel den vorm houdende van godvruchtigheid maar de kracht van deze verloochenende. Keer u ook af van dezen. 
+**[3:5]** wel den vorm houdende van godvruchtigheid maar de kracht van deze verloochenende. Keer u ook af van dezen.
 
-**[3:6]**  Want uit dezen zijn zij die insluipen in de huizen en de vrouwkens gevangen nemen die met zonden beladen zijn, gedreven wordende door velerlei begeerlijkheden,
+**[3:6]** Want uit dezen zijn zij die insluipen in de huizen en de vrouwkens gevangen nemen die met zonden beladen zijn, gedreven wordende door velerlei begeerlijkheden,
 
 **[3:7]** altijd leerende en nooit tot kennis der waarheid kunnende komen.
 
 **[3:8]** En op dezelfde wijze als Jannes en Jambres aan Mozes tegenstonden, zoo staan ook dezen de waarheid tegen menschen, verdorven van verstand, verwerpelijk wat het geloof betreft.
 
-**[3:9]** Maar zij zullen niet verder voortgaan, want hun onverstand zal voor allen openbaar zijn, gelijk ook dat van die Jannes en Jambres geweest is. 
+**[3:9]** Maar zij zullen niet verder voortgaan, want hun onverstand zal voor allen openbaar zijn, gelijk ook dat van die Jannes en Jambres geweest is.
 
-**[3:10]**  Doch gij hebt achtervolgd mijn onderwijs, omgang, inzicht, geloof, lankmoedigheid, liefde, volharding,
+**[3:10]** Doch gij hebt achtervolgd mijn onderwijs, omgang, inzicht, geloof, lankmoedigheid, liefde, volharding,
 
 **[3:11]** vervolgingen, smarten, hetgeen mij overkomen is in Antiochië, in Ikoniüm, in Lystre; hoedanige vervolgingen ik doorgestaan heb; en uit die allen heeft de Heer mij verlost.
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** Alle Schriftuur is van God ingegeven en dienstig tot onderwijzing, tot bestraffing, tot verbetering, tot opvoeding die in de rechtvaardigheid is
 
-**[3:17]** opdat de mensch Gods volkomen moge zijn, tot alle goed werk volkomen bereid.  
+**[3:17]** opdat de mensch Gods volkomen moge zijn, tot alle goed werk volkomen bereid.
 
 ### Chapter 4
 
@@ -62118,15 +62118,15 @@
 
 **[4:4]** En zij zullen het gehoor afkeeren van de waarheid, en zullen zich keeren tot fabelen.
 
-**[4:5]** Maar gij, wees waakzaam in alles, verdraag het kwade, doe het werk van een evangelist, volbreng uw dienstwerk. 
+**[4:5]** Maar gij, wees waakzaam in alles, verdraag het kwade, doe het werk van een evangelist, volbreng uw dienstwerk.
 
-**[4:6]**  Want ik word al geofferd en de tijd mijner losmaking is op handen.
+**[4:6]** Want ik word al geofferd en de tijd mijner losmaking is op handen.
 
 **[4:7]** Den goeden strijd heb ik gestreden, den loop heb ik volbracht, het geloof heb ik bewaard.
 
-**[4:8]** Voorts is voor mij weggelegd de kroon der rechtvaardigheid, die mij de Heere in dien dag geven zal, de rechtvaardige Rechter, doch niet alleen aan mij maar ook aan allen die zijn verschijning hebben bemind. 
+**[4:8]** Voorts is voor mij weggelegd de kroon der rechtvaardigheid, die mij de Heere in dien dag geven zal, de rechtvaardige Rechter, doch niet alleen aan mij maar ook aan allen die zijn verschijning hebben bemind.
 
-**[4:9]**  Spoed u om haast tot mij te komen.
+**[4:9]** Spoed u om haast tot mij te komen.
 
 **[4:10]** Want Demas heeft mij verlaten, uit liefde tot de tegenwoordige eeuw, en is gereisd naar Thessalonika, Krescens naar Galatië, Titus naar Dalmatië.
 
@@ -62144,15 +62144,15 @@
 
 **[4:17]** Doch de Heere heeft mij bijgestaan en bekrachtigd, opdat door mij de prediking volkomen zou worden, en al de heidenen ze hooren zouden; en ik ben verlost uit den muil van den leeuw.
 
-**[4:18]** De Heere zal mij verlossen van alle kwaad werk en zal mij bewaren tot zijn hemelsch koninkrijk. Hem zij de glorie tot in alle eeuwigheid! Amen. 
+**[4:18]** De Heere zal mij verlossen van alle kwaad werk en zal mij bewaren tot zijn hemelsch koninkrijk. Hem zij de glorie tot in alle eeuwigheid! Amen.
 
-**[4:19]**  Groet Priska en Aquila en het huisgezin van Onesiforus.
+**[4:19]** Groet Priska en Aquila en het huisgezin van Onesiforus.
 
 **[4:20]** Erastus is in Korinthe gebleven, doch Trofimus heb ik krank in Milete gelaten.
 
 **[4:21]** Spoed u om vóór den winter te komen. U groeten Eubulus, en Pudens, en Linus, en Klaudia, en al de broeders.
 
-**[4:22]** De Heere Jezus Christus zij met uw geest. De genade met ulieden! Amen.   
+**[4:22]** De Heere Jezus Christus zij met uw geest. De genade met ulieden! Amen.
 
 ## Titus
 
@@ -62164,9 +62164,9 @@
 
 **[1:3]** doch die zijn woord geopenbaard heeft ter zijner tijd in de prediking, die mij toevertrouwd is naar het gebod van God onzen Verlosser:
 
-**[1:4]** Aan Titus, mijn oprechten zoon naar het gemeenschappelijk geloof, genade en vrede zij u van God den Vader en van Jezus Christus onzen Verlosser. 
+**[1:4]** Aan Titus, mijn oprechten zoon naar het gemeenschappelijk geloof, genade en vrede zij u van God den Vader en van Jezus Christus onzen Verlosser.
 
-**[1:5]**  Om die oorzaak heb ik u in Kreta gelaten, opdat gij in orde zoudt brengen hetgeen er nog ontbrak en dat gij van stad tot stad oudsten zoudt aanstellen, zooals ik u geboden heb.
+**[1:5]** Om die oorzaak heb ik u in Kreta gelaten, opdat gij in orde zoudt brengen hetgeen er nog ontbrak en dat gij van stad tot stad oudsten zoudt aanstellen, zooals ik u geboden heb.
 
 **[1:6]** Als iemand onberispelijk is, de man van één vrouw, geloovige kinderen hebbende, niet onder beschuldiging van onmatigheid of ongehoorzaamheid.
 
@@ -62174,9 +62174,9 @@
 
 **[1:8]** maar gaarn herbergende, het goede beminnende, matig, rechtvaardig, heilig, ingetogen,
 
-**[1:9]** vasthoudende aan het woord des geloofs dat naar de leering is, opdat hij bekwaam zij zoowel om te vermanen in de gezonde leering als ook om de tegensprekers te wederleggen. 
+**[1:9]** vasthoudende aan het woord des geloofs dat naar de leering is, opdat hij bekwaam zij zoowel om te vermanen in de gezonde leering als ook om de tegensprekers te wederleggen.
 
-**[1:10]**  Want er zijn vele ongeregelden, ledige klappers en bedriegers, vooral die uit de besnijdenis zijn,
+**[1:10]** Want er zijn vele ongeregelden, ledige klappers en bedriegers, vooral die uit de besnijdenis zijn,
 
 **[1:11]** die men den mond moet stoppen, die geheele huisgezinnen verkeeren, onderwijzende wat niet behoort, om vuil gewin.
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Alles is zuiver voor degenen die zuiver zijn; doch voor degenen die besmet en ongeloovig zijn is niets zuiver, maar zoowel hun verstand als hun konsciëntie is besmet.
 
-**[1:16]** Zij belijden God te kennen, maar met de werken verloochenen zij Hem, want zij zijn afschuwelijk en ongehoorzaam en tot alle goed werk ongeschikt.  
+**[1:16]** Zij belijden God te kennen, maar met de werken verloochenen zij Hem, want zij zijn afschuwelijk en ongehoorzaam en tot alle goed werk ongeschikt.
 
 ### Chapter 2
 
@@ -62206,13 +62206,13 @@
 
 **[2:7]** u zelven een voorbeeld betoonende van goede werken, in het onderwijs onvervalschtheid, deftigheid
 
-**[2:8]** gezond in liet woord da niet veroordeeld kan worde opdat hij die van de tegenpartij is beschaamd worde en niets kwaads van ons te zeggen hebbe. 
+**[2:8]** gezond in liet woord da niet veroordeeld kan worde opdat hij die van de tegenpartij is beschaamd worde en niets kwaads van ons te zeggen hebbe.
 
-**[2:9]**  Vermaan de dienstbaren om onderdanig te zijn aan hun eigen meesters, om in alles welbehagelijk te zijn, niet tegensprekende,
+**[2:9]** Vermaan de dienstbaren om onderdanig te zijn aan hun eigen meesters, om in alles welbehagelijk te zijn, niet tegensprekende,
 
-**[2:10]** niets achterhoudende, maar alle goede trouw bewijzende, opdat zij het onderwijs van God onzen Verlosser in alles mogen versieren. 
+**[2:10]** niets achterhoudende, maar alle goede trouw bewijzende, opdat zij het onderwijs van God onzen Verlosser in alles mogen versieren.
 
-**[2:11]**  Want de genade Gods is verschenen, die voor alle menschen tot behoudenis is,
+**[2:11]** Want de genade Gods is verschenen, die voor alle menschen tot behoudenis is,
 
 **[2:12]** ons opvoedende, opdat wij, de goddeloosheid en de wereldsche lusten verzakende, matig, en rechtvaardig, en godvruchtig zouden leven in de tegenwoordige eeuw,
 
@@ -62220,15 +62220,15 @@
 
 **[2:14]** die zich zelven gegeven heeft voor ons opdat Hij ons zou vrijkoopen van alle onrechtvaardigheid en zich zelven een volk des eigendoms zou reinigen, dat ijverig is in goede werken.
 
-**[2:15]** Deze dingen moet gij spreken en vermanen en bestraffen met alle gezag. Niemand mag u verachten.  
+**[2:15]** Deze dingen moet gij spreken en vermanen en bestraffen met alle gezag. Niemand mag u verachten.
 
 ### Chapter 3
 
 **[3:1]** Vermaan hen om onderdanig te zijn aan overheden en machten, om gehoorzaam te zijn, om tot alle goed werk bereid te zijn,
 
-**[3:2]** om niemand te lasteren, om niet twistgierig te zijn, bescheiden te zijn, om alle zachtmoedigheid te betoonen jegens alle menschen. 
+**[3:2]** om niemand te lasteren, om niet twistgierig te zijn, bescheiden te zijn, om alle zachtmoedigheid te betoonen jegens alle menschen.
 
-**[3:3]**  Want ook wij waren eertijds onverstandig, ongehoorzaam, afdwalende, aan velerlei begeerlijkheden en wellusten dienstbaar, in slechtheid en afgunst levende, hatelijk, malkander hatende.
+**[3:3]** Want ook wij waren eertijds onverstandig, ongehoorzaam, afdwalende, aan velerlei begeerlijkheden en wellusten dienstbaar, in slechtheid en afgunst levende, hatelijk, malkander hatende.
 
 **[3:4]** Maar als de goedertierenheid en de menschlievendheid openbaar geworden is van God, onzen Behouder,
 
@@ -62236,23 +62236,23 @@
 
 **[3:6]** dien Hij rijkelijk over ons heeft uitgestort, door Jezus Christus, onzen Behouder,
 
-**[3:7]** opdat wij, gerechtvaardigd zijnde door zijn genade, erfgenamen zouden worden, naar de hope des eeuwigen levens. 
+**[3:7]** opdat wij, gerechtvaardigd zijnde door zijn genade, erfgenamen zouden worden, naar de hope des eeuwigen levens.
 
-**[3:8]**  Waarachtig is het woord, en wat deze dingen aangaat, ik wil dat gij ze ernstig bevestigt, opdat degenen die in God geloofd hebben zorg mogen dragen om goede werken voor te staan. Deze dingen zijn het die goed en voordeelig zijn voor de menschen;
+**[3:8]** Waarachtig is het woord, en wat deze dingen aangaat, ik wil dat gij ze ernstig bevestigt, opdat degenen die in God geloofd hebben zorg mogen dragen om goede werken voor te staan. Deze dingen zijn het die goed en voordeelig zijn voor de menschen;
 
 **[3:9]** doch dwaze vragen, en geslachtrekeningen, en twist, en strijd over de wet moet gij tegenstaan, want die zijn nadeelig en ledig.
 
 **[3:10]** Een mensch die scheuring aanricht moet gij, na een eerste en tweede vermaning verwerpen,
 
-**[3:11]** wetende dat de zoodanige verkeerd is en dat hij zondigt, zijnde door zich zelven veroordeeld. 
+**[3:11]** wetende dat de zoodanige verkeerd is en dat hij zondigt, zijnde door zich zelven veroordeeld.
 
-**[3:12]**  Als ik Artemas of Tychikus tot u zal zenden, spoed u dan om tot mij te komen naar Nikopolis, want aldaar heb ik besloten om den winter over te blijven.
+**[3:12]** Als ik Artemas of Tychikus tot u zal zenden, spoed u dan om tot mij te komen naar Nikopolis, want aldaar heb ik besloten om den winter over te blijven.
 
 **[3:13]** Begeleid Zenas den wetgeleerde en Apollos zorgvuldig, opdat hun niets ontbreke.
 
-**[3:14]** En ook de onzen moeten leeren goede werken voor te staan, waar de nood het vereischt, opdat zij niet onvruchtbaar mogen zijn. 
+**[3:14]** En ook de onzen moeten leeren goede werken voor te staan, waar de nood het vereischt, opdat zij niet onvruchtbaar mogen zijn.
 
-**[3:15]**  Allen die met mij zijn groeten u. Groet degenen, die ons beminnen in het geloof. De genade met ulieden allen! Amen.   
+**[3:15]** Allen die met mij zijn groeten u. Groet degenen, die ons beminnen in het geloof. De genade met ulieden allen! Amen.
 
 ## Philemon
 
@@ -62262,17 +62262,17 @@
 
 **[1:2]** en aan Appia, de zuster, en aan Arcliippus, onzen medestrijder, en aan de gemeente die in uw huis vergadert:
 
-**[1:3]** genade zij ulieden en vrede, van God onzen Vader en van den Heere Jezus Christus. 
+**[1:3]** genade zij ulieden en vrede, van God onzen Vader en van den Heere Jezus Christus.
 
-**[1:4]**  Ik dank mijn God, altijd uwer gedachtig zijnde in mijn gebeden,
+**[1:4]** Ik dank mijn God, altijd uwer gedachtig zijnde in mijn gebeden,
 
 **[1:5]** alzoo ik hoor van uw liefde en geloof, die gij hebt jegens den Heere Jezus en jegens al de heiligen,
 
 **[1:6]** zoodat de gemeenschap van uw geloof krachtig wordt, in de erkentenis van al het goede dat in u is, tot Christus!
 
-**[1:7]** Want ik heb veel vreugde en vertroosting wegens uw liefde, omdat de harten der heiligen door u verkwikt zijn, broeder! 
+**[1:7]** Want ik heb veel vreugde en vertroosting wegens uw liefde, omdat de harten der heiligen door u verkwikt zijn, broeder!
 
-**[1:8]**  Daarom, hoewel ik in Christus vrijmoedigheid heb om u te gebieden hetgeen betamelijk is,
+**[1:8]** Daarom, hoewel ik in Christus vrijmoedigheid heb om u te gebieden hetgeen betamelijk is,
 
 **[1:9]** zoo verzoek ik u liever in liefde— ik die Paulus ben, een oud man en nu ook een gevangene van Jezus Christus,
 
@@ -62298,15 +62298,15 @@
 
 **[1:20]** Ja, broeder! ik mag dit genoegen van u hebben in den Heere; verkwik mijn hart in den Heere!
 
-**[1:21]** Overtuigd van uw gehoorzaamheid schrijf ik u, wetende dat gij doen zult meer dan ik zeg. 
+**[1:21]** Overtuigd van uw gehoorzaamheid schrijf ik u, wetende dat gij doen zult meer dan ik zeg.
 
-**[1:22]**  Daarenboven, bereid mij ook een herberg, want ik hoop dat ik door uw gebeden ulieden zal geschonken worden. 
+**[1:22]** Daarenboven, bereid mij ook een herberg, want ik hoop dat ik door uw gebeden ulieden zal geschonken worden.
 
-**[1:23]**  U groet Epafras, mijn medestrijder in Christus Jezus,
+**[1:23]** U groet Epafras, mijn medestrijder in Christus Jezus,
 
 **[1:24]** Markus, Aristarchus, Demas, Lukas, mijn medearbeiders.
 
-**[1:25]** De genade van den Heere Jezus Christus zij met uw geest! Amen.   
+**[1:25]** De genade van den Heere Jezus Christus zij met uw geest! Amen.
 
 ## Hebrews
 
@@ -62318,9 +62318,9 @@
 
 **[1:3]** die— de glans van Gods glorie zijnde en de uitdrukking van zijn wezen, en alle dingen dragende door het woord zijner kracht, nadat Hij de reiniging der zonden had aangebracht— gezeten is aan de rechterhand der Majesteit in het allerhoogste;
 
-**[1:4]** zooveel voortreffelijker geworden zijnde dan de engelen, als Hij een uitnemender Naam boven hen heeft geërfd. 
+**[1:4]** zooveel voortreffelijker geworden zijnde dan de engelen, als Hij een uitnemender Naam boven hen heeft geërfd.
 
-**[1:5]**  Want tot wien van de engelen heeft God ooit gezegd: gij zijt mijn Zoon; Ik heb u lieden gewonnen? — en wederom: Ik zal Hem zijn tot een Vader en Hij zal Mij zijn tot een Zoon?
+**[1:5]** Want tot wien van de engelen heeft God ooit gezegd: gij zijt mijn Zoon; Ik heb u lieden gewonnen? — en wederom: Ik zal Hem zijn tot een Vader en Hij zal Mij zijn tot een Zoon?
 
 **[1:6]** En als Hij wederom den Eerstgeborene inbrengt tot de bewoonde aarde, zegt Hij: alle engelen Gods moeten voor Hem nederbuigen!
 
@@ -62338,7 +62338,7 @@
 
 **[1:13]** Tot wien van de engelen heeft God ooit gezegd: Zit aan mijn rechterhand totdat Ik uw vijanden maak tot uw voetbank?
 
-**[1:14]** Zijn zij niet allen dienstdoende geesten, uitgezonden ten dienste van degenen die de verlossing zullen beërven?  
+**[1:14]** Zijn zij niet allen dienstdoende geesten, uitgezonden ten dienste van degenen die de verlossing zullen beërven?
 
 ### Chapter 2
 
@@ -62348,9 +62348,9 @@
 
 **[2:3]** hoe zullen wij dan ontkomen, als wij een zóó groote verlossing verwaarloozen? Want deze, eerst door den Heere verkondigd zijnde, is ons bevestigd door degenen die gehoord hebben,
 
-**[2:4]** terwijl God mede getuigenis gaf door teekenen en mirakelen en allerlei krachten en uitdeelingen des Heiligen Geestes, naar zijn wil. 
+**[2:4]** terwijl God mede getuigenis gaf door teekenen en mirakelen en allerlei krachten en uitdeelingen des Heiligen Geestes, naar zijn wil.
 
-**[2:5]**  Want niet aan de engelen heeft God onderworpen de toekomende bewoonde aarde waarvan wij spreken.
+**[2:5]** Want niet aan de engelen heeft God onderworpen de toekomende bewoonde aarde waarvan wij spreken.
 
 **[2:6]** Maar iemand heeft ergens getuigd, zeggende: Wat is een mensch dat Gij aan hem gedenkt, of een menschenkind dat Gij op hem nederziet?
 
@@ -62358,9 +62358,9 @@
 
 **[2:8]** Want door alles aan hem te onderwerpen heeft God niets uitgesloten dat hem niet onderworpen zou zijn. — Doch nu zien wij nog niet dat alles aan hem onderworpen is,
 
-**[2:9]** maar Hem zien wij, die voor een korten tijd iets minder is geworden dan de engelen, namelijk Jezus, om het lijden des doods met glorie en eere gekroond, opdat Hij door de genade Gods voor allen den dood zou smaken. 
+**[2:9]** maar Hem zien wij, die voor een korten tijd iets minder is geworden dan de engelen, namelijk Jezus, om het lijden des doods met glorie en eere gekroond, opdat Hij door de genade Gods voor allen den dood zou smaken.
 
-**[2:10]**  Want het betaamde dat Hij, om wien en door wien alle dingen bestaan, en die vele zonen gebracht had tot de glorie, den Vorst hunner verlossing zou volmaken door smarten.
+**[2:10]** Want het betaamde dat Hij, om wien en door wien alle dingen bestaan, en die vele zonen gebracht had tot de glorie, den Vorst hunner verlossing zou volmaken door smarten.
 
 **[2:11]** Want zoowel Hij die heiligt als zij die geheiligd worden zijn allen uit Eén. Daarom schaamt Hij zich niet hen broeders te noemen,
 
@@ -62376,7 +62376,7 @@
 
 **[2:17]** Daarom moest Hij in alles gelijk worden aan de broederen, opdat Hij zou zijn een barmhartig en getrouw Hoogepriester in de dingen Gods, om de zonden des volks te verzoenen.
 
-**[2:18]** In datgene toch, wat Hij zelf in bekoring zijnde geleden heeft, kan Hij hulp verleenen aan degenen die in bekoring zijn.  
+**[2:18]** In datgene toch, wat Hij zelf in bekoring zijnde geleden heeft, kan Hij hulp verleenen aan degenen die in bekoring zijn.
 
 ### Chapter 3
 
@@ -62390,9 +62390,9 @@
 
 **[3:5]** En Mozes was wel getrouw in geheel zijn huis als een bedienaar, om getuigenis te geven van de dingen die zouden aangekondigd worden,
 
-**[3:6]** maar Christus als een Zoon over Godshuis, wiens huis wij zijn, als wij maar de vrijmoedigheid en den roem der hope vasthouden tot het laatste. 
+**[3:6]** maar Christus als een Zoon over Godshuis, wiens huis wij zijn, als wij maar de vrijmoedigheid en den roem der hope vasthouden tot het laatste.
 
-**[3:7]**  Daarom, zooals de Heilige Geest zegt: Heden, als gij zijn stem zult hooren,
+**[3:7]** Daarom, zooals de Heilige Geest zegt: Heden, als gij zijn stem zult hooren,
 
 **[3:8]** verhardt uw harten niet, zooals in den opstand, ten dage der bekoring in de woestijn,
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** En over wie heeft Hij gezworen dat zij niet zouden ingaan tot zijn ruste? Immers over degenen die ongehoorzaam geweest waren?
 
-**[3:19]** Wij zien dus dat zij niet hebben kunnen ingaan door ongeloof.  
+**[3:19]** Wij zien dus dat zij niet hebben kunnen ingaan door ongeloof.
 
 ### Chapter 4
 
@@ -62444,13 +62444,13 @@
 
 **[4:12]** Want Gods woord is levend, en werkzaam, en scherper dan alle tweesnijdend zwaard, en doorgaande tot verdeeling der ziel en des geestes, der verbindingen en des mergs, en is een beoordeelaar der gedachten en der overleggingen des harten.
 
-**[4:13]** En geen schepsel is verborgen voor Hem, maar alles is naakt en opengelegd voor de oogen van Hem aan wien wij rekenschap zullen geven. 
+**[4:13]** En geen schepsel is verborgen voor Hem, maar alles is naakt en opengelegd voor de oogen van Hem aan wien wij rekenschap zullen geven.
 
-**[4:14]**  Hebbende dan een grooten Hoogepriester, die door de hemelen is doorgegaan, Jezus den Zone Gods, laat ons de belijdenis bewaren.
+**[4:14]** Hebbende dan een grooten Hoogepriester, die door de hemelen is doorgegaan, Jezus den Zone Gods, laat ons de belijdenis bewaren.
 
 **[4:15]** Want wij hebben niet een hoogepriester die geen medegevoel kan hebben met onze zwakheden, maar een die in alle dingen eveneens in bekoring geweest is, doch zonder zonde.
 
-**[4:16]** Laat ons dan naderen met vrijmoedigheid tot den troon der genade, opdat wij barmhartigheid mogen verkrijgen en genade vinden, tot tijdige hulpe.  
+**[4:16]** Laat ons dan naderen met vrijmoedigheid tot den troon der genade, opdat wij barmhartigheid mogen verkrijgen en genade vinden, tot tijdige hulpe.
 
 ### Chapter 5
 
@@ -62464,23 +62464,23 @@
 
 **[5:5]** Zoo ook heeft de Christus zich zelven niet de glorie gegeven om Hoogepriester te worden, maar Hij die tot Hem gezegd heeft: Gij zijt mijn Zoon; Ik heb 17 heden gewonnen.
 
-**[5:6]** Zooals Hij ook op een andere plaats zegt: Gij zijt een eeuwig priester naar de orde van Melchizedek. 
+**[5:6]** Zooals Hij ook op een andere plaats zegt: Gij zijt een eeuwig priester naar de orde van Melchizedek.
 
-**[5:7]**  Deze heeft in de dagen zijns vleesches gebeden en smeekingen geofferd aan Hem die bij machte was Hem te verlossen uit den dood, met sterk geroep en met tranen; en verhoord zijnde wegens zijn godvruchtigheid,
+**[5:7]** Deze heeft in de dagen zijns vleesches gebeden en smeekingen geofferd aan Hem die bij machte was Hem te verlossen uit den dood, met sterk geroep en met tranen; en verhoord zijnde wegens zijn godvruchtigheid,
 
 **[5:8]** heeft Hij, ofschoon Hij Zoon was, de gehoorzaamheid geleerd door hetgeen Hij heeft geleden;
 
 **[5:9]** en volmaakt zijnde is Hij voor allen die Hem gehoorzamen de bron eener eeuwige behoudenis geworden,
 
-**[5:10]** door God verklaard zijnde tot Hoogepriester, naar de orde van Melchizedek. 
+**[5:10]** door God verklaard zijnde tot Hoogepriester, naar de orde van Melchizedek.
 
-**[5:11]**  Van dit nu hebben wij veel te zeggen en dingen die zwaar zijn om te verklaren, omdat gij traag in liet hooren zijt geworden.
+**[5:11]** Van dit nu hebben wij veel te zeggen en dingen die zwaar zijn om te verklaren, omdat gij traag in liet hooren zijt geworden.
 
 **[5:12]** Want wat den tijd betreft moest gij wel leeraars zijn; toch hebt gij wederom noodig dat men u onderwijze, welke de eerste beginselen zijn der godspraken; en gij zijt geworden die melk noodig hebt en niet vaste spijze.
 
 **[5:13]** Want ieder die aan de melk is, die is onbedreven in het woord der rechtvaardigheid, want hij is een kind.
 
-**[5:14]** Maar voor volwassenen is de vaste spijze, die door het gebruik de zinnen geoefend hebben, tot onderscheiding van goeden kwaad.  
+**[5:14]** Maar voor volwassenen is de vaste spijze, die door het gebruik de zinnen geoefend hebben, tot onderscheiding van goeden kwaad.
 
 ### Chapter 6
 
@@ -62498,9 +62498,9 @@
 
 **[6:7]** Want de aarde, die den regen indrinkt die dikwijls op haar komt, en geschikte planten voortbrengt voor degenen voor wie zij bebouwd is, die ontvangt zegen van God.
 
-**[6:8]** Maar als zij distelen en doornen voortbrengt dan is zij verwerpelijk en nabij den vloek; haar einde is tot verbranding. 
+**[6:8]** Maar als zij distelen en doornen voortbrengt dan is zij verwerpelijk en nabij den vloek; haar einde is tot verbranding.
 
-**[6:9]**  Maar wij zijn van ulieden, beminden, betere dingen wachtende en die tot verlossing leiden, ofschoon wij alzoo spreken.
+**[6:9]** Maar wij zijn van ulieden, beminden, betere dingen wachtende en die tot verlossing leiden, ofschoon wij alzoo spreken.
 
 **[6:10]** Want God is niet onrechtvaardig om uw arbeid te vergeten en de liefde die gij getoond hebt jegens zijn Naam, daar gij de heiligen gediend hebt en nog dient.
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** die wij als een anker der ziele hebben, zeker en vast, en ingaande tot in het, binnenste des voorhangsels
 
-**[6:20]** waar Jezus als voorlooper voor ons is ingegaan, die naar de orde van Melchizedek een Hoogepriester geworden is tot in eeuwigheid.  
+**[6:20]** waar Jezus als voorlooper voor ons is ingegaan, die naar de orde van Melchizedek een Hoogepriester geworden is tot in eeuwigheid.
 
 ### Chapter 7
 
@@ -62544,15 +62544,15 @@
 
 **[7:9]** En, om zoo te spreken, door Abraham heeft Levi, die tienden neemt, ook tienden gegeven;
 
-**[7:10]** want hij was nog in de lenden des vaders toen Melchizedek hem te gemoet ging. 
+**[7:10]** want hij was nog in de lenden des vaders toen Melchizedek hem te gemoet ging.
 
-**[7:11]**  Als er dan nu volkomenheid was door het levitische priesterdom— want met het oog op dit priesterschap heeft het volk de wet ontvangen— wat was het dan nog noodig dat er een ander priester zou opstaan naar de ordening van Melchizedek, en die niet naar de ordening van Aaron zou gerekend worden?
+**[7:11]** Als er dan nu volkomenheid was door het levitische priesterdom— want met het oog op dit priesterschap heeft het volk de wet ontvangen— wat was het dan nog noodig dat er een ander priester zou opstaan naar de ordening van Melchizedek, en die niet naar de ordening van Aaron zou gerekend worden?
 
 **[7:12]** Want bij verandering van het priesterschap moet noodzakelijk de wet anders worden.
 
-**[7:13]** Want Hij, op wien deze dingen gezegd worden, behoort tot een anderen stam, waarvan niemand tot den altaar getreden is. 
+**[7:13]** Want Hij, op wien deze dingen gezegd worden, behoort tot een anderen stam, waarvan niemand tot den altaar getreden is.
 
-**[7:14]**  Want het is duidelijk dat onze Heer uit den stam van Juda is voortgekomen, een stam waarvan Mozes niets gesproken heeft met het oog op het priesterschap.
+**[7:14]** Want het is duidelijk dat onze Heer uit den stam van Juda is voortgekomen, een stam waarvan Mozes niets gesproken heeft met het oog op het priesterschap.
 
 **[7:15]** En dat is nog veel duidelijker, als er naar de gelijkheid van Melchizedek een ander priester opstaat,
 
@@ -62568,9 +62568,9 @@
 
 **[7:21]** maar Jezus met eedzwering door dengene die tot Hem gezegd heeft: de Heere heeft gezworen, en zal geen berouw hebben: Gij zijt priester tot in eeuwigheid
 
-**[7:22]** van een des te beter verbond is Jezus borg geworden. 
+**[7:22]** van een des te beter verbond is Jezus borg geworden.
 
-**[7:23]**  En die anderen zijn wel in grooten getale priesters geworden, omdat zij door den dood verhinderd worden om te blijven;
+**[7:23]** En die anderen zijn wel in grooten getale priesters geworden, omdat zij door den dood verhinderd worden om te blijven;
 
 **[7:24]** maar deze, omdat Hij blijft tot in eeuwigheid, heeft een onvergankelijk priesterschap.
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** die niet noodig had dagelijks, zooals de hoogepriesters des ouden verbonds, om eerst offeranden op te dragen voor zijn eigen zonden, en daarna voor die des volks; want dat heeft Hij eens voor al gedaan, als Hij zich zelven opofferde.
 
-**[7:28]** Want de wet stelt aan tot hoogepriesters menschen die zwakheden hebben, maar het woord der eedzwering, dat na de wet kwam, stelt den Zoon aan, die tot in eeuwigheid volkomen geworden is.  
+**[7:28]** Want de wet stelt aan tot hoogepriesters menschen die zwakheden hebben, maar het woord der eedzwering, dat na de wet kwam, stelt den Zoon aan, die tot in eeuwigheid volkomen geworden is.
 
 ### Chapter 8
 
@@ -62588,17 +62588,17 @@
 
 **[8:2]** een bedienaar der heilige dingen en des waarachtigen tabernakels, dien de Heere heeft opgericht, niet een mensch.
 
-**[8:3]** Want alle hoogepriester wordt aangesteld om giften en offeranden op te dragen, waarom er noodzaak is dat ook deze Hoogepriester wat had dat Hij opdragen zou. 
+**[8:3]** Want alle hoogepriester wordt aangesteld om giften en offeranden op te dragen, waarom er noodzaak is dat ook deze Hoogepriester wat had dat Hij opdragen zou.
 
-**[8:4]**  Maar als Hij op aarde was zou Hij in het geheel geen priester zijn, omdat er dezulken zijn die giften offeren volgens de wet,
+**[8:4]** Maar als Hij op aarde was zou Hij in het geheel geen priester zijn, omdat er dezulken zijn die giften offeren volgens de wet,
 
 **[8:5]** die bedienaren zijn van hetgeen een afdruksel en schaduwe is der hemelsche dingen, zooals Mozes door God was vermaand toen hij den tabernakel zou volmaken: Zie toch toe— zeide God— dat gij alles maakt naar de type die u getoond is op den berg.
 
 **[8:6]** Maar nu heeft Christus een zooveel uitnemender bediening verkregen, als Hij ook van een beter verbond Middelaar is, dat op betere beloften is gegrond.
 
-**[8:7]** Want als dat eerste zonder gebreken was geweest dan zou er voor een tweede geen plaats gezocht zijn. 
+**[8:7]** Want als dat eerste zonder gebreken was geweest dan zou er voor een tweede geen plaats gezocht zijn.
 
-**[8:8]**  Want hen bestraffende zegt Hij: Ziet er komen dagen— zegt de Heere— dat Ik over het huis van Israël en over het huis van Juda een nieuw verbond zal volmaken;
+**[8:8]** Want hen bestraffende zegt Hij: Ziet er komen dagen— zegt de Heere— dat Ik over het huis van Israël en over het huis van Juda een nieuw verbond zal volmaken;
 
 **[8:9]** niet naar het verbond dat Ik gemaakt heb met hun vaderen in den dag als Ik hen bij de hand nam om hen uit te leiden uit het land van Egypte; want zij zijn niet gebleven in dit mijn verbond, en ook Ik heb op hen niet geacht, zegt de Heere;
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** want Ik zal genadig zijn met betrekking tot hun onrechtvaardigheden, en aan hun zonden zal Ik niet meer gedenken.
 
-**[8:13]** Als Hij spreekt van een nieuw verbond, dan heeft Hij het eerste voor oud verklaard. En dat wat oud is en verouderd staat op het punt van te verdwijnen.  
+**[8:13]** Als Hij spreekt van een nieuw verbond, dan heeft Hij het eerste voor oud verklaard. En dat wat oud is en verouderd staat op het punt van te verdwijnen.
 
 ### Chapter 9
 
@@ -62630,9 +62630,9 @@
 
 **[9:9]** die een gelijkenis is met het oog op den tegenwoordigen tijd, volgens welke giften en offeranden worden opgedragen die niet naar de konsciëntie kunnen volmaken degenen die bedienen,
 
-**[9:10]** daar zij alleen, — bestaande in spijzen en dranken en verschillende zuiveringen— vleeschelijke instellingen zijn, ingesteld tot op een tijd van hervorming. 
+**[9:10]** daar zij alleen, — bestaande in spijzen en dranken en verschillende zuiveringen— vleeschelijke instellingen zijn, ingesteld tot op een tijd van hervorming.
 
-**[9:11]**  Christus nu, als Hoogepriester der toekomende goederen gekomen zijnde, is eenmaal ingegaan tot het heiligdom door den meerderen en volmaakteren tabernakel die niet met handen is gemaakt, dat is niet van deze schepping,
+**[9:11]** Christus nu, als Hoogepriester der toekomende goederen gekomen zijnde, is eenmaal ingegaan tot het heiligdom door den meerderen en volmaakteren tabernakel die niet met handen is gemaakt, dat is niet van deze schepping,
 
 **[9:12]** noch door het bloed van bokken en kalveren, maar door zijn eigen bloed, een eeuwige verlossing verworven hebbende.
 
@@ -62640,9 +62640,9 @@
 
 **[9:14]** hoeveel te meer zal dan het bloed van Christus die door den eeuwigen Geest zich zelven onbevlekt aan God heeft opgeofferd, uw konsciëntie reinigen van doode werken, om den levenden God te dienen?
 
-**[9:15]** En daarom is Hij Middelaar van een nieuw verbond opdat, nu er een dood is bij gekomen tot verlossing der overtredingen die onder het eerste verbond waren, de geroepenen de belofte der eeuwige–erfenis zouden ontvangen. 
+**[9:15]** En daarom is Hij Middelaar van een nieuw verbond opdat, nu er een dood is bij gekomen tot verlossing der overtredingen die onder het eerste verbond waren, de geroepenen de belofte der eeuwige–erfenis zouden ontvangen.
 
-**[9:16]**  Want waar een testament is moet noodzakelijk de dood van den testamentmaker er bij komen.
+**[9:16]** Want waar een testament is moet noodzakelijk de dood van den testamentmaker er bij komen.
 
 **[9:17]** Want een testament is vast in dooden, maar het heeft nog geen kracht als de testamentmaker leeft.
 
@@ -62656,17 +62656,17 @@
 
 **[9:22]** En bijna alles wordt naar de wet in bloed gereinigd, en zonder bloedstorting geschiedt geen vergiffenis.
 
-**[9:23]** Het was dus noodzakelijk dat de afdruksels der dingen die in de. hemelen zijn door deze gereinigd zouden worden, maar de hemelsche dingen zelven door betere offeranden dan deze. 
+**[9:23]** Het was dus noodzakelijk dat de afdruksels der dingen die in de. hemelen zijn door deze gereinigd zouden worden, maar de hemelsche dingen zelven door betere offeranden dan deze.
 
-**[9:24]**  Want Christus is niet ingegaan tot een heiligdom dat met handen is gemaakt, als een tegenbeeld van het waarachtige, maar tot den hemel zelven, om nu te verschijnen voor Gods aangezicht ten onzen behoeve;
+**[9:24]** Want Christus is niet ingegaan tot een heiligdom dat met handen is gemaakt, als een tegenbeeld van het waarachtige, maar tot den hemel zelven, om nu te verschijnen voor Gods aangezicht ten onzen behoeve;
 
 **[9:25]** en ook niet om dikwijls zich zelven op te offeren, zooals de hoogepriester jaarlijks inging tot het heiligdom met bloed dat het zijne niet was;
 
-**[9:26]** — anders had Hij dikwijls moeten lijden van de grondlegging der wereld af— maar nu is Hij eenmaal, bij het einde der eeuwen, geopenbaard tot het wegdoen der zonde door zijn eigen offerande. 
+**[9:26]** — anders had Hij dikwijls moeten lijden van de grondlegging der wereld af— maar nu is Hij eenmaal, bij het einde der eeuwen, geopenbaard tot het wegdoen der zonde door zijn eigen offerande.
 
-**[9:27]**  En zooals het den menschen opgelegd is eenmaal te sterven, en er daarna een oordeel is,
+**[9:27]** En zooals het den menschen opgelegd is eenmaal te sterven, en er daarna een oordeel is,
 
-**[9:28]** alzoo ook zal de Christus, die eenmaal geofferd is om de zonden van velen te dragen, ten tweedemale zonder zonde verschijnen aan degenen die Hem verwachten tot verlossing.  
+**[9:28]** alzoo ook zal de Christus, die eenmaal geofferd is om de zonden van velen te dragen, ten tweedemale zonder zonde verschijnen aan degenen die Hem verwachten tot verlossing.
 
 ### Chapter 10
 
@@ -62676,9 +62676,9 @@
 
 **[10:3]** Maar in deze offeranden is er elk jaar weer gedachtenis aan de zonden.
 
-**[10:4]** Onmogelijk toch is het dat bloed van stieren en bokken zonden wegneemt! 
+**[10:4]** Onmogelijk toch is het dat bloed van stieren en bokken zonden wegneemt!
 
-**[10:5]**  Daarom, als Hij tot de wereld komt zegt Hij: offeranden en slachtoffers hebt Gij niet gewild, maar voor Mij hebt Gij een lichaam toebereid;
+**[10:5]** Daarom, als Hij tot de wereld komt zegt Hij: offeranden en slachtoffers hebt Gij niet gewild, maar voor Mij hebt Gij een lichaam toebereid;
 
 **[10:6]** ook brandoffers en zondoffers zijn U niet welgevallig geweest.
 
@@ -62696,31 +62696,31 @@
 
 **[10:13]** van dan af wachtende totdat zijn vijanden zullen gemaakt zijn tot een voetbank zijner voeten.
 
-**[10:14]** Want door één offerande heeft Hij volmaakt voor altijd degenen die worden geheiligd. 
+**[10:14]** Want door één offerande heeft Hij volmaakt voor altijd degenen die worden geheiligd.
 
-**[10:15]**  Doch ook de Heilige Geest getuigt het ons.
+**[10:15]** Doch ook de Heilige Geest getuigt het ons.
 
 **[10:16]** Want nadat de Heere gezegd heeft: Dit is het verbond dat Ik na die dagen met hen maken zal, zoo spreekt Hij: Ik zal mijn wetten geven in hun harten en op hun gemoed zal ik die schrijven,
 
 **[10:17]** en aan hun zonden en hun onrechtvaardigheden zal Ik geenszins meer gedenken.
 
-**[10:18]** Waar nu vergiffenis van deze is daar is geen offerande meer voor de zonde. 
+**[10:18]** Waar nu vergiffenis van deze is daar is geen offerande meer voor de zonde.
 
-**[10:19]**  Hebbende dan, broeders, vrijmoedigheid tot den ingang in de heilige plaats door het bloed van Jezus,
+**[10:19]** Hebbende dan, broeders, vrijmoedigheid tot den ingang in de heilige plaats door het bloed van Jezus,
 
 **[10:20]** dien Hij voor ons heeft ingewijd, als een nieuwen en levenden weg, door het voorhangsel heen, dat is door zijn vleesch;
 
 **[10:21]** en hebbende een grooten Priester over het huis Gods,
 
-**[10:22]** zoo laat ons naderen met een waarachtig hart in volheid des geloofs, de harten gereinigd zijnde van een kwade konsciëntie, en het lichaam gewasschen zijnde met zuiver water. 
+**[10:22]** zoo laat ons naderen met een waarachtig hart in volheid des geloofs, de harten gereinigd zijnde van een kwade konsciëntie, en het lichaam gewasschen zijnde met zuiver water.
 
-**[10:23]**  Laat ons vasthouden de belijdenis der onwankelbare hope; want getrouw is Hij die toegezegd heeft.
+**[10:23]** Laat ons vasthouden de belijdenis der onwankelbare hope; want getrouw is Hij die toegezegd heeft.
 
 **[10:24]** En laat ons op elkander letten tot opscherping van liefde en goede werken;
 
-**[10:25]** niet verzuimende onze gemeenschappelijke vergadering, zooals het de gewoonte is van sommigen, maar elkander vermanende, en dat des te meer als gij den dag ziet naderen. 
+**[10:25]** niet verzuimende onze gemeenschappelijke vergadering, zooals het de gewoonte is van sommigen, maar elkander vermanende, en dat des te meer als gij den dag ziet naderen.
 
-**[10:26]**  Want als wij opzettelijk zondigen, nadat wij de kennis der waarheid ontvangen hebben, dan blijft er voor de zonden geen offerande meer,
+**[10:26]** Want als wij opzettelijk zondigen, nadat wij de kennis der waarheid ontvangen hebben, dan blijft er voor de zonden geen offerande meer,
 
 **[10:27]** maar een zekere schrikkelijke verwachting des oordeels en hitte des vuurs dat de tegenstanders zal verslinden.
 
@@ -62730,9 +62730,9 @@
 
 **[10:30]** Want wij kennen Hem die gezegd heeft: Mijne is de wrake; Ik zal vergelden. En wederom; De Heere zal zijn volk oordeelen!
 
-**[10:31]** Schrikkelijk is het te vallen in de handen des levenden Gods! 
+**[10:31]** Schrikkelijk is het te vallen in de handen des levenden Gods!
 
-**[10:32]**  Doch denkt aan de vroegere dagen, waarin gij, verlicht zijnde, een zwaren strijd van smarten hebt doorgestaan,
+**[10:32]** Doch denkt aan de vroegere dagen, waarin gij, verlicht zijnde, een zwaren strijd van smarten hebt doorgestaan,
 
 **[10:33]** eensdeels ten toon gesteld door smaadheden en verdrukkingen, anderdeels deelgenooten geworden zijnde van hen die alzoo behandeld werden.
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** Doch— mijn rechtvaardige zal leven uit geloof, en als hij zich onttrekt dan heeft mijn ziel in hem geen welbehagen.
 
-**[10:39]** Maar wij zijn niet van hen die zich onttrekken ten verderve, maar die gelooven tot behoudenis der ziele.  
+**[10:39]** Maar wij zijn niet van hen die zich onttrekken ten verderve, maar die gelooven tot behoudenis der ziele.
 
 ### Chapter 11
 
@@ -62754,9 +62754,9 @@
 
 **[11:2]** In dit geloof toch hebben de Ouden getuigenis ontvangen.
 
-**[11:3]** Door het geloof verstaan wij dat de eeuwen zijn geformeerd door Gods Woord, zoodat hetgeen gezien wordt niet is geworden uit zichtbare dingen. 
+**[11:3]** Door het geloof verstaan wij dat de eeuwen zijn geformeerd door Gods Woord, zoodat hetgeen gezien wordt niet is geworden uit zichtbare dingen.
 
-**[11:4]**  Door het geloof heeft Abel een betere offerande aan God opgedragen dan Kaïn, waardoor hij bewezen is rechtvaardig te zijn, daar God getuigenis gaf over zijn giften, en daardoor spreekt hij nog, ofschoon hij gestorven is.
+**[11:4]** Door het geloof heeft Abel een betere offerande aan God opgedragen dan Kaïn, waardoor hij bewezen is rechtvaardig te zijn, daar God getuigenis gaf over zijn giften, en daardoor spreekt hij nog, ofschoon hij gestorven is.
 
 **[11:5]** Door het geloof is Henoch overgebracht om den dool niet te zien, en hij werd niet gevonden omdat God hem had overgebracht. Want vóór zijn overbrenging had hij getuigenis bekomen dat hij Gode welbehagelijk was.
 
@@ -62810,9 +62810,9 @@
 
 **[11:30]** Door het geloof zijn de muren van Jericho gevallen, nadat zij zeven dagen lang waren omringd geweest.
 
-**[11:31]** Door het geloof is Rahab de hoere niet omgekomen met de ongehoorzamen, omdat zij de verspieders met vrede had ontvangen. 
+**[11:31]** Door het geloof is Rahab de hoere niet omgekomen met de ongehoorzamen, omdat zij de verspieders met vrede had ontvangen.
 
-**[11:32]**  En wat zal ik nog zeggen? — Want de tijd zal mij ontbreken als ik zou spreken van Gideon, Barak, Samson, Jeftha, David en Samuël en de profeten,
+**[11:32]** En wat zal ik nog zeggen? — Want de tijd zal mij ontbreken als ik zou spreken van Gideon, Barak, Samson, Jeftha, David en Samuël en de profeten,
 
 **[11:33]** die door het geloof koninkrijken onderwierpen, rechtvaardigheid uitoefenden, beloften verkregen, de muilen van leeuwen stopten,
 
@@ -62824,11 +62824,11 @@
 
 **[11:37]** zij zijn gesteenigd, in stukken gezaagd, gekweld; zij stierven door het zwaard; zij liepen om in schaapsvellen en geitevellen, van alles beroofd, bedroefd, mishandeld zijnde.
 
-**[11:38]** — De wereld was hen niet waardig. — Zij hebben rondgedoold in woestijnen, en gebergten, en spelonken en holen der aarde. 
+**[11:38]** — De wereld was hen niet waardig. — Zij hebben rondgedoold in woestijnen, en gebergten, en spelonken en holen der aarde.
 
-**[11:39]**  En deze allen, ofschoon zij door het geloofgetuigenis hebben bekomen, hebben niet ontvangen wat beloofd was,
+**[11:39]** En deze allen, ofschoon zij door het geloofgetuigenis hebben bekomen, hebben niet ontvangen wat beloofd was,
 
-**[11:40]** omdat God omtrent ons wat beters op het oog had, opdat zij niet zouden volkomen zijn zonder ons.  
+**[11:40]** omdat God omtrent ons wat beters op het oog had, opdat zij niet zouden volkomen zijn zonder ons.
 
 ### Chapter 12
 
@@ -62842,9 +62842,9 @@
 
 **[12:5]** En gij hebt vergeten de vermaning die tot ulieden gezegd wordt als tot zonen: Mijn zoon, acht de kastijding des Heeren niet gering, en bezwijk niet als gij van Hem bestraft wordt
 
-**[12:6]** want dien Hij bemint kastijdt de Heere, en Hij geeselt eiken zoon dien Hij aanneemt. 
+**[12:6]** want dien Hij bemint kastijdt de Heere, en Hij geeselt eiken zoon dien Hij aanneemt.
 
-**[12:7]**  Volhardt onder kastijding; als jegens zonen gedraagt God zich jegens u. Want welke zoon is er die een vader niet kastijdt?
+**[12:7]** Volhardt onder kastijding; als jegens zonen gedraagt God zich jegens u. Want welke zoon is er die een vader niet kastijdt?
 
 **[12:8]** Doch als gij zonder kastijding zijt, die allen zijn deelachtig geworden, dan zijt gij bastaards en niet zonen.
 
@@ -62852,21 +62852,21 @@
 
 **[12:10]** Want de eersten hebben ons voor weinige dagen gekastijd, zooals het hun goed toescheen; maar deze laatste tot ons nut, opdat wij deelgenooten zouden worden van zijn heiligheid.
 
-**[12:11]** Alle kastijding nu schijnt voor het tegenwoordige niet tot vreugde maar tot droefheid te zijn; maar daarna brengt zij voor degenen die door haar geoefend worden, een vreedzame vrucht der rechtvaardigheid aan. 
+**[12:11]** Alle kastijding nu schijnt voor het tegenwoordige niet tot vreugde maar tot droefheid te zijn; maar daarna brengt zij voor degenen die door haar geoefend worden, een vreedzame vrucht der rechtvaardigheid aan.
 
-**[12:12]**  Daarom, heft op de trage handen en de wankelende knieën,
+**[12:12]** Daarom, heft op de trage handen en de wankelende knieën,
 
-**[12:13]** en maakt rechte paden voor uw voeten, opdat het kreupele niet erger worde, maar het eerder geneze. 
+**[12:13]** en maakt rechte paden voor uw voeten, opdat het kreupele niet erger worde, maar het eerder geneze.
 
-**[12:14]**  Jaagt na den vrede met allen, en de heiligmaking, zonder welke niemand den Heere zal zien,
+**[12:14]** Jaagt na den vrede met allen, en de heiligmaking, zonder welke niemand den Heere zal zien,
 
-**[12:15]** toeziende dat niet iemand terugvalle van de genade Gods; dat niet een wortel van bitterheid opwassende, beroering make, en door deze velen aangestoken worden. 
+**[12:15]** toeziende dat niet iemand terugvalle van de genade Gods; dat niet een wortel van bitterheid opwassende, beroering make, en door deze velen aangestoken worden.
 
-**[12:16]**  Dat niemand zij een hoereerder of onheilige, zooals Esau, die voor één spijze zijn eigen eerstgeboorte weggaf;
+**[12:16]** Dat niemand zij een hoereerder of onheilige, zooals Esau, die voor één spijze zijn eigen eerstgeboorte weggaf;
 
-**[12:17]** want gij weet dat ook later, als hij den zegen wilde beërven, hij verworpen werd; want een plaats der boetvaardigheid vond hij niet, ofschoon hij die zocht met tranen. 
+**[12:17]** want gij weet dat ook later, als hij den zegen wilde beërven, hij verworpen werd; want een plaats der boetvaardigheid vond hij niet, ofschoon hij die zocht met tranen.
 
-**[12:18]**  Want gij zijt niet genaderd tot een tastbaren berg, en een brandend vuur, en een wolk, en een donkerheid, en een onweder,
+**[12:18]** Want gij zijt niet genaderd tot een tastbaren berg, en een brandend vuur, en een wolk, en een donkerheid, en een onweder,
 
 **[12:19]** en een bazuingeklank, en een geluid van woorden, zoodanig dat zij die ze hoorden verzochten dat het woord, tot hen niet meer zou gericht worden;
 
@@ -62878,17 +62878,17 @@
 
 **[12:23]** tot de algemeene vergadering en de gemeente der eerstgeborenen die in de hemelen zijn opgeschreven, en tot God den Rechter van allen, en de geesten der rechtvaardigen die volmaakt zijn,
 
-**[12:24]** en tot Jezus, den Middelaar des Nieuwen Verbonds, en tot het bloed der besprenging dat betere dingen spreekt dan dat van Abel. 
+**[12:24]** en tot Jezus, den Middelaar des Nieuwen Verbonds, en tot het bloed der besprenging dat betere dingen spreekt dan dat van Abel.
 
-**[12:25]**  Ziet toe, dat gij dengene die spreekt niet verwerpt; want als zij niet ontvloden zijn die verwierpen dengene die op aarde van Godswege vermaande, hoeveel te meer wij niet, als wij ons afkeeren van dengene die van de hemelen is,
+**[12:25]** Ziet toe, dat gij dengene die spreekt niet verwerpt; want als zij niet ontvloden zijn die verwierpen dengene die op aarde van Godswege vermaande, hoeveel te meer wij niet, als wij ons afkeeren van dengene die van de hemelen is,
 
 **[12:26]** wiens stem toen de aarde deed schudden. Maar nu heeft Hij beloofd, zeggende: Nog eenmaal zal ik doen schudden niet alleen de aarde maar ook den hemel.
 
-**[12:27]** Dit woord nu: nog eenmaal, beteekent de verandering der beweegbare dingen, als die gemaakt zijn, opdat blijven zouden de dingen die niet beweegbaar zijn. 
+**[12:27]** Dit woord nu: nog eenmaal, beteekent de verandering der beweegbare dingen, als die gemaakt zijn, opdat blijven zouden de dingen die niet beweegbaar zijn.
 
-**[12:28]**  Daarom, nu wij een niet beweegbaar koninkrijk ontvangen, laat ons dankbaarheid bewijzen, waardoor wij op een welbehagelijke wijze God mogen dienen, met godvruchtigheid en vreeze;
+**[12:28]** Daarom, nu wij een niet beweegbaar koninkrijk ontvangen, laat ons dankbaarheid bewijzen, waardoor wij op een welbehagelijke wijze God mogen dienen, met godvruchtigheid en vreeze;
 
-**[12:29]** want onze God is een verteerend vuur.  
+**[12:29]** want onze God is een verteerend vuur.
 
 ### Chapter 13
 
@@ -62896,21 +62896,21 @@
 
 **[13:2]** Verwaarloost de liefde tot vreemdelingen niet, want door deze hebben sommigen engelen geherbergd zonder het te weten.
 
-**[13:3]** Zijt gedachtig aan de gevangenen alsof gij mede gevangenen waart, en aan degenen die mishandeld worden als die ook zelf in een lichaam zijt. 
+**[13:3]** Zijt gedachtig aan de gevangenen alsof gij mede gevangenen waart, en aan degenen die mishandeld worden als die ook zelf in een lichaam zijt.
 
-**[13:4]**  Het huwelijk zij onder allen eerlijk gehouden en het bed zij onbevlekt, want hoereerders en overspelers zal God oordeelen.
+**[13:4]** Het huwelijk zij onder allen eerlijk gehouden en het bed zij onbevlekt, want hoereerders en overspelers zal God oordeelen.
 
 **[13:5]** Uw wandel zij zonder geldzucht, tevreden zijnde met hetgeen gij hebt; want God heeft zelf gezegd: Ik zal u geenszins begeven en zal u geenszins verlaten.
 
-**[13:6]** Zoodat wij met goed vertrouwen kunnen zeggen: De Heere is mij een Helper, ik zal niet vreezen; wat zal een mensch mij doen? 
+**[13:6]** Zoodat wij met goed vertrouwen kunnen zeggen: De Heere is mij een Helper, ik zal niet vreezen; wat zal een mensch mij doen?
 
-**[13:7]**  Zijt gedachtig aan uw voorgangers, die Gods woord tot u gesproken hebben; en volgt hun geloof na, beschouwende de uitkomst van hun wandeling.
+**[13:7]** Zijt gedachtig aan uw voorgangers, die Gods woord tot u gesproken hebben; en volgt hun geloof na, beschouwende de uitkomst van hun wandeling.
 
-**[13:8]** Jezus Christus is dezelfde, gisteren, en heden, en tot in eeuwigheid. 
+**[13:8]** Jezus Christus is dezelfde, gisteren, en heden, en tot in eeuwigheid.
 
-**[13:9]**  Laat u niet medeslepen door verschillende en vreemde leeringen; want het is goed dat het harte wordt versterkt door genade; niet door spijze waarin geen nuttigheid is voor degenen die zich daaraan hechten. 
+**[13:9]** Laat u niet medeslepen door verschillende en vreemde leeringen; want het is goed dat het harte wordt versterkt door genade; niet door spijze waarin geen nuttigheid is voor degenen die zich daaraan hechten.
 
-**[13:10]**  Wij hebben een altaar waarvan zij geen recht hebben om te eten die in den tabernakel dienen.
+**[13:10]** Wij hebben een altaar waarvan zij geen recht hebben om te eten die in den tabernakel dienen.
 
 **[13:11]** Want de lichamen van die dieren wier bloed voor de zonde tot het heiligdom gebracht werd door den hoogepriester, werden verbrand buiten het leger.
 
@@ -62918,57 +62918,57 @@
 
 **[13:13]** Laat ons daarom tot Hem uitgaan buiten het leger, zijn smaadheid dragende.
 
-**[13:14]** Want hier hebben wij geen blijvende stad, maar de toekomende zoeken wij. 
+**[13:14]** Want hier hebben wij geen blijvende stad, maar de toekomende zoeken wij.
 
-**[13:15]**  Laat ons dan door Hem voortdurend een offerande; des lofs aan God opdragen, dat is een vrucht der lippen die zijn Naam belijden.
+**[13:15]** Laat ons dan door Hem voortdurend een offerande; des lofs aan God opdragen, dat is een vrucht der lippen die zijn Naam belijden.
 
-**[13:16]** En vergeet niet de weldadigheid en de mededeelzaamheid, want aan zoodanige offeranden heeft God een welbehagen. 
+**[13:16]** En vergeet niet de weldadigheid en de mededeelzaamheid, want aan zoodanige offeranden heeft God een welbehagen.
 
-**[13:17]**  Zijt gehoorzaam aan uw voorgangers en onderdanig, want die houden de wacht over uw zielen, als zullende rekenschap geven, opdat zij dit mogen doen met blijdschap en niet al zuchtende, hetgeen u niet tot voordeel zou zijn. 
+**[13:17]** Zijt gehoorzaam aan uw voorgangers en onderdanig, want die houden de wacht over uw zielen, als zullende rekenschap geven, opdat zij dit mogen doen met blijdschap en niet al zuchtende, hetgeen u niet tot voordeel zou zijn.
 
-**[13:18]**  Bidt voor ons, want wij zijn overtuigd dat wij een goede konsciëntie hebben, omdat wij in alles wenschen eerlijk te wandelen.
+**[13:18]** Bidt voor ons, want wij zijn overtuigd dat wij een goede konsciëntie hebben, omdat wij in alles wenschen eerlijk te wandelen.
 
-**[13:19]** En te meer vermaan ik u dat gij dit doet, opdat ik ulieden te eerder moge wedergegeven worden. 
+**[13:19]** En te meer vermaan ik u dat gij dit doet, opdat ik ulieden te eerder moge wedergegeven worden.
 
-**[13:20]**  De God des vredes nu, die den grooten Herder der schapen uit de dooden heeft wedergebracht, door het bloed van een eeuwig verbond, namelijk onzen Heere Jezus,
+**[13:20]** De God des vredes nu, die den grooten Herder der schapen uit de dooden heeft wedergebracht, door het bloed van een eeuwig verbond, namelijk onzen Heere Jezus,
 
-**[13:21]** die bekwame ulieden in alle goed werk om zijn wil te doen, werkende in u wat aangenaam is voor zijn aan gezicht door Jezus Christus, wien de glorie zij tot in alle eeuwen. Amen. 
+**[13:21]** die bekwame ulieden in alle goed werk om zijn wil te doen, werkende in u wat aangenaam is voor zijn aan gezicht door Jezus Christus, wien de glorie zij tot in alle eeuwen. Amen.
 
-**[13:22]**  Doch ik vermaan u broeders! verdraagt het woord der vermaning, want ik heb u geschreven in het kort.
+**[13:22]** Doch ik vermaan u broeders! verdraagt het woord der vermaning, want ik heb u geschreven in het kort.
 
-**[13:23]** Gij weet dat onze broeder Timotheüs is losgelaten; als hij spoedig komt hoop ik met hem ulieden te zien. 
+**[13:23]** Gij weet dat onze broeder Timotheüs is losgelaten; als hij spoedig komt hoop ik met hem ulieden te zien.
 
-**[13:24]**  Groet al uw voorgangers en al de heiligen. Ulieden groeten de broeders van Italië.
+**[13:24]** Groet al uw voorgangers en al de heiligen. Ulieden groeten de broeders van Italië.
 
-**[13:25]** De genade met u allen! Amen.   
+**[13:25]** De genade met u allen! Amen.
 
 ## James
 
 ### Chapter 1
 
-**[1:1]** Jakobus, een dienstknecht van God en van den Heere Jezus Christus, aan de twaalf stammen die in de verstrooiing zijn: zaligheid! 
+**[1:1]** Jakobus, een dienstknecht van God en van den Heere Jezus Christus, aan de twaalf stammen die in de verstrooiing zijn: zaligheid!
 
-**[1:2]**  Acht het voor enkel vreugde, mijn broeders, als gij rondom in menigvuldige bekoringen komt,
+**[1:2]** Acht het voor enkel vreugde, mijn broeders, als gij rondom in menigvuldige bekoringen komt,
 
 **[1:3]** wetende dat de beproeving van uw geloof volharding uitwerkt.
 
-**[1:4]** Doch de volharding moet een volkomen werk hebben; opdat gij volmaakt moogt zijn en volkomen, in geen ding gebrekkig. 
+**[1:4]** Doch de volharding moet een volkomen werk hebben; opdat gij volmaakt moogt zijn en volkomen, in geen ding gebrekkig.
 
-**[1:5]**  Doch als iemand van ulieden wijsheid noodig heeft, die moge ze begeeren van dien God, die aan een iegelijk mildelijk geeft en niet verwijt, en zij zal hem gegeven worden.
+**[1:5]** Doch als iemand van ulieden wijsheid noodig heeft, die moge ze begeeren van dien God, die aan een iegelijk mildelijk geeft en niet verwijt, en zij zal hem gegeven worden.
 
 **[1:6]** Doch hij moet ze in geloof begeeren, niets betwijfelende, want de twijfelaar is gelijk aan een golf der zee die door den wind wordt gedreven en op en neer geslingerd.
 
 **[1:7]** Want zulk een mensch moet niet denken dat hij iets zal ontvangen van den Heer;
 
-**[1:8]** een dubbelhartig man, onstandvastig in al zijn wegen! 
+**[1:8]** een dubbelhartig man, onstandvastig in al zijn wegen!
 
-**[1:9]**  Maar de broeder die gering van staat is moet roemen in zijn hoogheid,
+**[1:9]** Maar de broeder die gering van staat is moet roemen in zijn hoogheid,
 
 **[1:10]** en de rijke in zijn geringheid, want als een bloem des velds zal hij voorbijgaan.
 
-**[1:11]** Want de zon gaat op met haar hitte en het gras verdroogt, en zijn bloem valt af, en de schoonheid van haar gedaante gaat voorbij; alzoo ook zal de rijke in zijn wegen verdorren. 
+**[1:11]** Want de zon gaat op met haar hitte en het gras verdroogt, en zijn bloem valt af, en de schoonheid van haar gedaante gaat voorbij; alzoo ook zal de rijke in zijn wegen verdorren.
 
-**[1:12]**  Zalig de man die bekoring doorstaat, want beproefd zijnde zal hij de kroon des levens bekomen, die God beloofd heeft aan degenen die Hem beminnen.
+**[1:12]** Zalig de man die bekoring doorstaat, want beproefd zijnde zal hij de kroon des levens bekomen, die God beloofd heeft aan degenen die Hem beminnen.
 
 **[1:13]** Niemand, die in bekoring is, moge zeggen dat hij van God wordt bekoord, want God kan niet worden bekoord door het kwade en Hij zelf bekoort niemand.
 
@@ -62980,9 +62980,9 @@
 
 **[1:17]** Alle goede gifte en alle volkomen gave is van boven afdalende, van den Vader der lichten, bij wien niet de minste verandering is, of schijn van verwisseling.
 
-**[1:18]** Door zijn wil heeft Hij ons voortgebracht door het woord der waarheid, om ons te doen zijn de eerstelingen van zijn schepselen. 
+**[1:18]** Door zijn wil heeft Hij ons voortgebracht door het woord der waarheid, om ons te doen zijn de eerstelingen van zijn schepselen.
 
-**[1:19]**  Gij weet dit, mijn beminde broeders! Maar ieder mensch zij vlijtig om te hooren, traag om te spreken, traag tot gramschap.
+**[1:19]** Gij weet dit, mijn beminde broeders! Maar ieder mensch zij vlijtig om te hooren, traag om te spreken, traag tot gramschap.
 
 **[1:20]** Want de gramschap eens mans werkt niet uit wat voor God rechtvaardig is.
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** Als iemand meent godsdienstig te zijn, terwijl hij zijn tong niet bedwingt maar zijn hart misleidt, dan is de godsdienst van dezen ledig.
 
-**[1:27]** Zuivere en onbevlekte godsdienst bij God en den Vader is deze: weezen en weduwen in hun verdrukking te bezoeken, zich zelven onbesmet te bewaren van de wereld.  
+**[1:27]** Zuivere en onbevlekte godsdienst bij God en den Vader is deze: weezen en weduwen in hun verdrukking te bezoeken, zich zelven onbesmet te bewaren van de wereld.
 
 ### Chapter 2
 
@@ -63026,9 +63026,9 @@
 
 **[2:12]** Spreekt alzoo en doet alzoo als die geoordeeld zult worden door de wet der vrijheid.
 
-**[2:13]** Want een onbarmhartig oordeel zal komen over den– gene die geen barmhartigheid gedaan heeft. Barmhartigheid roemt tegen oordeel. 
+**[2:13]** Want een onbarmhartig oordeel zal komen over den– gene die geen barmhartigheid gedaan heeft. Barmhartigheid roemt tegen oordeel.
 
-**[2:14]**  Wat baat het, mijn broeders! als iemand zegt geloof te hebben, maar de werken heeft hij niet? Het geloof kan hem toch niet behouden?
+**[2:14]** Wat baat het, mijn broeders! als iemand zegt geloof te hebben, maar de werken heeft hij niet? Het geloof kan hem toch niet behouden?
 
 **[2:15]** Als een broeder of zuster naakt zou zijn en in gebrek aan dagelijksch voedsel,
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Evenzeer ook Rahab de hoere, is zij niet uit werken gerechtvaardigd, als zij de zendboden heeft ontvangen en langs een anderen weg heeft weggelaten?
 
-**[2:26]** Want evenals het lichaam zonder geest dood is, zoo ook is het geloof zonder werken dood.  
+**[2:26]** Want evenals het lichaam zonder geest dood is, zoo ook is het geloof zonder werken dood.
 
 ### Chapter 3
 
@@ -63078,9 +63078,9 @@
 
 **[3:11]** De fontein geeft toch uit denzelfden ader geen zoet en bitter?
 
-**[3:12]** Mijn broeders, een vijgeboom kan toch geen olijven voortbrengen, of een wijnstok geen vijgen? Zoo ook kan zout water geen zoet voortbrengen. 
+**[3:12]** Mijn broeders, een vijgeboom kan toch geen olijven voortbrengen, of een wijnstok geen vijgen? Zoo ook kan zout water geen zoet voortbrengen.
 
-**[3:13]**  Wie is wijs en verstannig onder u? Die moet toonen uit zijn goeden wandel zijn werken in zachtmoedige wijsheid.
+**[3:13]** Wie is wijs en verstannig onder u? Die moet toonen uit zijn goeden wandel zijn werken in zachtmoedige wijsheid.
 
 **[3:14]** Maar als gij in uw harten bittere jaloezie hebt en twist, beroemt u dan niet op de waarheid en liegt niet.
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** Maar de wijsheid van boven is ten eerste zuiver, daarna vreedzaam, bescheiden, gezeggelijk, vol van barmhartigheid en van goede vruchten, onpartijdig, ongeveinsd.
 
-**[3:18]** De vrucht nu der rechtvaardigheid wordt gezaaid in vrede door degenen die vrede stichten.  
+**[3:18]** De vrucht nu der rechtvaardigheid wordt gezaaid in vrede door degenen die vrede stichten.
 
 ### Chapter 4
 
@@ -63104,21 +63104,21 @@
 
 **[4:5]** Of denkt gij dat de Schriftuur tevergeefs spreekt? Zou de Geest die in ons woont lust hebben tot nijd?
 
-**[4:6]** Doch Hij geeft meerder genade. Daarom zet de Schriftuur: God wederstaat hoovaardigen, maar aan nederigen geeft Hij genade. 
+**[4:6]** Doch Hij geeft meerder genade. Daarom zet de Schriftuur: God wederstaat hoovaardigen, maar aan nederigen geeft Hij genade.
 
-**[4:7]**  Onderwerpt u dan aan God; wederstaat den duivel en hij zal van u wegvluchten.
+**[4:7]** Onderwerpt u dan aan God; wederstaat den duivel en hij zal van u wegvluchten.
 
 **[4:8]** Nadert tot God en Hij zal naderen tot u. Zuivert de handen, gij zondaars! en reinigt de harten, gij dubbelhartigen!
 
 **[4:9]** Gevoelt uw ellende, en treurt, en weent! Uw lachen worde veranderd in droefheid en uw blijdschap in treurigheid!
 
-**[4:10]** Vernedert u voor het aangezicht des Heeren en Hij zal u verhoogen. 
+**[4:10]** Vernedert u voor het aangezicht des Heeren en Hij zal u verhoogen.
 
-**[4:11]**  Spreekt geen kwaad van elkander, broeders! Die kwaad spreekt van zijn broeder of die zijn broeder oordeelt, die spreekt kwaad van de wet en oordeelt de wet. En als gij de wet oordeelt, dan zijt gij geen volbrenger van de wet maar een rechter.
+**[4:11]** Spreekt geen kwaad van elkander, broeders! Die kwaad spreekt van zijn broeder of die zijn broeder oordeelt, die spreekt kwaad van de wet en oordeelt de wet. En als gij de wet oordeelt, dan zijt gij geen volbrenger van de wet maar een rechter.
 
-**[4:12]** Doch er is maar één Wetgever en Rechter, die kan redden en verderven. Maar wie zijt gij, die uw naaste oordeelt? 
+**[4:12]** Doch er is maar één Wetgever en Rechter, die kan redden en verderven. Maar wie zijt gij, die uw naaste oordeelt?
 
-**[4:13]**  En wat u aangaat die zegt: van daag of morgen zullen wij naar deze of die stad gaan, en daar zullen wij een jaar verblijven en koophandel drijven en winst doen;
+**[4:13]** En wat u aangaat die zegt: van daag of morgen zullen wij naar deze of die stad gaan, en daar zullen wij een jaar verblijven en koophandel drijven en winst doen;
 
 **[4:14]** gij die niet weet wat er morgen gebeuren zal! Want hoedanig is uw leven? Want gij zijt een damp die een korten tijd gezien wordt en daarna verdwijnt!
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** maar nu beroemt gij u in uw grootspraak. Al zulke roem is kwaad.
 
-**[4:17]** Zoo dan, die het goede weet dat er te doen is, en het niet doet, dien is het tot zonde.  
+**[4:17]** Zoo dan, die het goede weet dat er te doen is, en het niet doet, dien is het tot zonde.
 
 ### Chapter 5
 
@@ -63140,35 +63140,35 @@
 
 **[5:5]** Gij hebt lekker geleefd op de aarde, en dartelheden nagevolgd, gij hebt uw harten vet gemest alsof het een hoogdag was.
 
-**[5:6]** Gij hebt veroordeeld, gij: hebt gedood den rechtvaardige, zonder dat hij u tegenstaat. 
+**[5:6]** Gij hebt veroordeeld, gij: hebt gedood den rechtvaardige, zonder dat hij u tegenstaat.
 
-**[5:7]**  Zijt dan geduldig, broeders, tot op de verschijning des Heeren. Ziet de landman verwacht de kostbare vrucht der aarde, geduldig zijnde over haar, totdat zij vroegen en laten regen ontvangen heeft.
+**[5:7]** Zijt dan geduldig, broeders, tot op de verschijning des Heeren. Ziet de landman verwacht de kostbare vrucht der aarde, geduldig zijnde over haar, totdat zij vroegen en laten regen ontvangen heeft.
 
 **[5:8]** Zijt ook gij geduldig, versterkt uw harten, want de verschijning des Heeren is nabij.
 
-**[5:9]** Zucht niet tegen elkander, broeders, opdat gij niet veroordeeld wordt. Ziet, de Rechter staat vóór de deur. 
+**[5:9]** Zucht niet tegen elkander, broeders, opdat gij niet veroordeeld wordt. Ziet, de Rechter staat vóór de deur.
 
-**[5:10]**  Broeders! Neemt aan als een voorbeeld, van mishandelingen, van geduld, de profeten die gesproken hebben in den Naam des Heeren.
+**[5:10]** Broeders! Neemt aan als een voorbeeld, van mishandelingen, van geduld, de profeten die gesproken hebben in den Naam des Heeren.
 
-**[5:11]** Ziet, wij houden diegenen voor gelukkig die volhard hebben. De volharding van Job hebt gij gehoord, en het einde des Heeren hebt gij gezien, dat de Heere zeer barmhartig is en ontfermend. 
+**[5:11]** Ziet, wij houden diegenen voor gelukkig die volhard hebben. De volharding van Job hebt gij gehoord, en het einde des Heeren hebt gij gezien, dat de Heere zeer barmhartig is en ontfermend.
 
-**[5:12]**  Doch vooral, mijn broeders, zweert toch niet! Noch bij den hemel, noch bij de aarde, noch bij eenigen anderen eed; maar uw ja zij ja, en uw neen, zij neen, opdat gij niet onder een oordeel valt. 
+**[5:12]** Doch vooral, mijn broeders, zweert toch niet! Noch bij den hemel, noch bij de aarde, noch bij eenigen anderen eed; maar uw ja zij ja, en uw neen, zij neen, opdat gij niet onder een oordeel valt.
 
-**[5:13]**  Is er iemand onder ulieden lijdende? Die moet bidden. — Is er iemand welgemoed? Die moet zingen.
+**[5:13]** Is er iemand onder ulieden lijdende? Die moet bidden. — Is er iemand welgemoed? Die moet zingen.
 
 **[5:14]** Is er iemand onder u krank? Die moet de oudsten der gemeente roepen, en die moeten over hem bidden, hem zalvende met olie in den Naam des Heeren;
 
-**[5:15]** en het gebed des geloofs zal den kranke behouden, en de Heere zal hem oprichten, en als hij zonden heeft gedaan zal hem dit vergeven worden. 
+**[5:15]** en het gebed des geloofs zal den kranke behouden, en de Heere zal hem oprichten, en als hij zonden heeft gedaan zal hem dit vergeven worden.
 
-**[5:16]**  Belijdt dan voor elkander de zonden en bidt voor elkander, opdat gij gezond moogt worden. Een krachtig gebed van een rechtvaardige vermag veel.
+**[5:16]** Belijdt dan voor elkander de zonden en bidt voor elkander, opdat gij gezond moogt worden. Een krachtig gebed van een rechtvaardige vermag veel.
 
 **[5:17]** Elias was een mensch van gelijke natuur als wij, en hij bad vurig dat het niet zou regenen, en het regende niet op de aarde in drie jaar en zes maanden;
 
-**[5:18]** en wederom bad hij, en de hemel gaf regen en de aarde bracht haar vrucht voort. 
+**[5:18]** en wederom bad hij, en de hemel gaf regen en de aarde bracht haar vrucht voort.
 
-**[5:19]**  Mijn broeders, als iemand onder ulieden is afgedoold van de waarheid en iemand hem terugbrengt,
+**[5:19]** Mijn broeders, als iemand onder ulieden is afgedoold van de waarheid en iemand hem terugbrengt,
 
-**[5:20]** die moet weten dat hij die een zondaar terugbrengt van zijn doolweg zijn ziel zal redden uit den dood en een menigte van zonden zal bedekken.   
+**[5:20]** die moet weten dat hij die een zondaar terugbrengt van zijn doolweg zijn ziel zal redden uit den dood en een menigte van zonden zal bedekken.
 
 ## I Peter
 
@@ -63176,9 +63176,9 @@
 
 **[1:1]** Petrus, een apostel van Jezus Christus, aan de uitverkorenen die vreemdelingen zijn der verstrooiing in Pontus, Galatië, Kappadocië, Asië en Bithynië,
 
-**[1:2]** naar de voorkennis van God den Vader, in heiligmaking des geestes, tot gehoorzaamheid en besprenging des bloeds van Jezus Christus: genade en vrede zij over ulieden vermenigvuldigd! 
+**[1:2]** naar de voorkennis van God den Vader, in heiligmaking des geestes, tot gehoorzaamheid en besprenging des bloeds van Jezus Christus: genade en vrede zij over ulieden vermenigvuldigd!
 
-**[1:3]**  Geprezen zij de God en Vader van onzen Heere Jezus Christus, die naar zijn groote barmhartigheid ons heeft wedergeboren tot een levende hope, door de verrijzenis van Jezus Christus: uit de dooden,
+**[1:3]** Geprezen zij de God en Vader van onzen Heere Jezus Christus, die naar zijn groote barmhartigheid ons heeft wedergeboren tot een levende hope, door de verrijzenis van Jezus Christus: uit de dooden,
 
 **[1:4]** tot een onverderfelijk, en onbesmettelijk, en onverwelkelijk erfdeel, dat in de hemelen bewaard wordt voor ulieden,
 
@@ -63190,15 +63190,15 @@
 
 **[1:8]** dien gij bemint alhoewel gij Hem niet gezien hebt, in wien gij ook, alhoewel Hem nu niet ziende maar geloovende, u verheugt met een onuitsprekelijke en verheerlijkte vreugde,
 
-**[1:9]** verkrijgende het einde uws geloofs, de behoudenis der zielen. 
+**[1:9]** verkrijgende het einde uws geloofs, de behoudenis der zielen.
 
-**[1:10]**  Aangaande welke behoudenis de profeten, die geprofeteerd hebben van de genade jegens ulieden, hebben onderzocht en doorzocht,
+**[1:10]** Aangaande welke behoudenis de profeten, die geprofeteerd hebben van de genade jegens ulieden, hebben onderzocht en doorzocht,
 
 **[1:11]** doorzoekende welkenen hoedanigen lijd de Geest van Christus die in hen was, bedoelde, die te voren getuigde van de smarten die op Christus zouden komen en de glorie die daarna komen zou;
 
-**[1:12]** aan wie geopenbaard is dat zij niet voor zich zelven maar voor ulieden deze dingen bedienden, die nu verkondigd zijn aan ulieden door degenen die u het Evangelie verkondigd hebben in den Heiligen Geest, die gezonden is van den hemel; welke dingen de engelen begeeren in te zien. 
+**[1:12]** aan wie geopenbaard is dat zij niet voor zich zelven maar voor ulieden deze dingen bedienden, die nu verkondigd zijn aan ulieden door degenen die u het Evangelie verkondigd hebben in den Heiligen Geest, die gezonden is van den hemel; welke dingen de engelen begeeren in te zien.
 
-**[1:13]**  Daarom opschortende de lenden uws verstands, zijt nuchter en hoopt volkomen op de genade die u toegebracht wordt in de openbaring van Jezus Christus;
+**[1:13]** Daarom opschortende de lenden uws verstands, zijt nuchter en hoopt volkomen op de genade die u toegebracht wordt in de openbaring van Jezus Christus;
 
 **[1:14]** als kinderen der gehoorzaamheid, u niet voegende naar uw vroegere begeerlijkheden uit den tijd uwer onwetendheid,
 
@@ -63214,15 +63214,15 @@
 
 **[1:20]** die wel voorgekend is vóór de grondlegging der wereld, doch aan het einde der tijden geopenbaard is om uwentwil,
 
-**[1:21]** die door Hem geloovig zijt in God, die Hem heeft opgewekt uit de dooden en Hem glorie gegeven, zoodat uw geloof ook hoop is op God. 
+**[1:21]** die door Hem geloovig zijt in God, die Hem heeft opgewekt uit de dooden en Hem glorie gegeven, zoodat uw geloof ook hoop is op God.
 
-**[1:22]**  Uw zielen dan gezuiverd hebbende in de gehoorzaamheid der waarheid tot ongeveinsde broederliefde, zoo bemint elkander vuriglijk uit een zuiver hart,
+**[1:22]** Uw zielen dan gezuiverd hebbende in de gehoorzaamheid der waarheid tot ongeveinsde broederliefde, zoo bemint elkander vuriglijk uit een zuiver hart,
 
 **[1:23]** gij die wedergeboren zijt niet uit verderfelijk maar uit onverderfelijk zaad door het woord van God, die leeft en blijft.
 
 **[1:24]** Want alle vleesch is als gras, en al zijn glorie als een grasbloem; het gras verdroogt en de bloem valt af;
 
-**[1:25]** maar het woord des Heeren blijft tot in eeuwigheid. En dat is het woord dat aan u verkondigd is.  
+**[1:25]** maar het woord des Heeren blijft tot in eeuwigheid. En dat is het woord dat aan u verkondigd is.
 
 ### Chapter 2
 
@@ -63244,13 +63244,13 @@
 
 **[2:9]** Maar gijlieden zijt een uitverkoren geslacht, een koninklijk priesterdom, een heilig volk, een volk ten erfdeel, opdat gij de krachten zoudt verkondigen van Hem die u geroepen heeft uit duisternis tot zijn wonderbaar licht.
 
-**[2:10]** Gij die eertijds Gods volk niet waart, doch nu Gods volk zijt, die geen barmhartigheid badt verkregen, maar nu barmhartigheid verkregen hebt. 
+**[2:10]** Gij die eertijds Gods volk niet waart, doch nu Gods volk zijt, die geen barmhartigheid badt verkregen, maar nu barmhartigheid verkregen hebt.
 
-**[2:11]**  Geliefden, ik vermaan u, als bijwoners en pelgrims, dat gij u onthoudt van de vleeschelijke lusten, die strijd voeren tegen de ziel,
+**[2:11]** Geliefden, ik vermaan u, als bijwoners en pelgrims, dat gij u onthoudt van de vleeschelijke lusten, die strijd voeren tegen de ziel,
 
-**[2:12]** en dat gij uw wandel betamelijk houdt onder de heidenen, opdat zij, in hetgeen zij van u kwaadspreken als van kwaaddoeners, uit de goede werken die zij opmerken, aan God de glorie geven mogen in den dag der bezoeking. 
+**[2:12]** en dat gij uw wandel betamelijk houdt onder de heidenen, opdat zij, in hetgeen zij van u kwaadspreken als van kwaaddoeners, uit de goede werken die zij opmerken, aan God de glorie geven mogen in den dag der bezoeking.
 
-**[2:13]**  Onderwerpt u aan alle menschelijke ordening, om des Heeren wil, hetzij aan een koning als die de opperste macht heeft,
+**[2:13]** Onderwerpt u aan alle menschelijke ordening, om des Heeren wil, hetzij aan een koning als die de opperste macht heeft,
 
 **[2:14]** hetzij aan stadhouders als die gezonden zijn door hem tot straf der kwaaddoeners, doch tot lof dergenen die goed doen.
 
@@ -63258,9 +63258,9 @@
 
 **[2:16]** Als vrije menschen, maar toch de vrijheid niet gebruikende als een dekmantel der kwaadheid, maar als dienaars van God.
 
-**[2:17]** Eert allen, bemint de broederschap, vreest God, eert den koning. 
+**[2:17]** Eert allen, bemint de broederschap, vreest God, eert den koning.
 
-**[2:18]**  Gij dienstknechten, zijt in alle eerbiedigheid onderdanig aan uw meesters, niet alleen aan de goeden en vriendelijken, maar ook aan de verkeerden.
+**[2:18]** Gij dienstknechten, zijt in alle eerbiedigheid onderdanig aan uw meesters, niet alleen aan de goeden en vriendelijken, maar ook aan de verkeerden.
 
 **[2:19]** Want dat is Gode aangenaam, als iemand om der konsciëntie wil voor God kwellingen verdraagt, ten onrechte lijdende.
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** die zelf onze zonden gedragen heeftin zijn lichaam op het kruis, opdat wij, der zonden afgestorven zijnde, voor de rechtvaardigheid zouden leven, door wiens striemen gij genezen zijt.
 
-**[2:25]** Want gij waart als dolende schapen, maar gij zijt nu wedergekeerd tot den Herder en Opziener uwer zielen.  
+**[2:25]** Want gij waart als dolende schapen, maar gij zijt nu wedergekeerd tot den Herder en Opziener uwer zielen.
 
 ### Chapter 3
 
@@ -63288,11 +63288,11 @@
 
 **[3:5]** Want alzoo ook versierden zich zelven eertijds de heilige vrouwen die op God hoopten, en aan haar mannen onderdanig waren;
 
-**[3:6]** zooals ook Sara aan Abraham onderdanig was, hem heer noemende, welker dochteren gij zijt geworden, als gij weldoet en u door geen vreeze laat ontstellen. 
+**[3:6]** zooals ook Sara aan Abraham onderdanig was, hem heer noemende, welker dochteren gij zijt geworden, als gij weldoet en u door geen vreeze laat ontstellen.
 
-**[3:7]**  Gij mannen evenzoo, leeft met haar verstandig, eerbiedigheid bewijzende aan het vrouwelijk geslacht als aan het zwakste, als die ook mede erfgenamen zijn van de genade des levens, opdat uw gebeden niet worden verhinderd. 
+**[3:7]** Gij mannen evenzoo, leeft met haar verstandig, eerbiedigheid bewijzende aan het vrouwelijk geslacht als aan het zwakste, als die ook mede erfgenamen zijn van de genade des levens, opdat uw gebeden niet worden verhinderd.
 
-**[3:8]**  En eindelijk, zijt allen eensgezind, medelijdend, broederlievend, barmhartig, nederig,
+**[3:8]** En eindelijk, zijt allen eensgezind, medelijdend, broederlievend, barmhartig, nederig,
 
 **[3:9]** geen kwaad met kwaad vergeldende of schelden met schelden, maar integendeel hen zegenende, want daartoe zijt gij geroepen, opdat gij den zegen zoudt beërven.
 
@@ -63310,9 +63310,9 @@
 
 **[3:16]** een goede konsciëntie hebbende, opdat zij beschaamd worden mogen in hetgeen zij van u kwaadspreken, zij die lasteren uw goeden wandel in Christus.
 
-**[3:17]** Want beter is het toch, als de wil van God zoo is, om weldoende te lijden, dan kwaaddoende. 
+**[3:17]** Want beter is het toch, als de wil van God zoo is, om weldoende te lijden, dan kwaaddoende.
 
-**[3:18]**  Want Christus is ook eenmaal voor de zonden gestorven, de Rechvaardige voor onrechtvaardigen, opdat Hij ons tot God zou brengen; die wel gedood is naar het vleesch, doch levend gemaakt naar den geest,
+**[3:18]** Want Christus is ook eenmaal voor de zonden gestorven, de Rechvaardige voor onrechtvaardigen, opdat Hij ons tot God zou brengen; die wel gedood is naar het vleesch, doch levend gemaakt naar den geest,
 
 **[3:19]** waarin Hij ook is heengegaan en gepredikt heeft aan geesten in de gevangenis,
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** dat water, waarvan het tegenbeeld, de doop, u nu ook behoudt, niet als een afwassching van de onreinheid des lichaams, maar als de toezegging van een goede konsciëntie tot God, door de verrijzenis van Jezus Christus,
 
-**[3:22]** die is aan Gods rechterhand, heengegaan naaiden hemel, terwijl engelen en krachten en machten Hem onderworpen zijn.  
+**[3:22]** die is aan Gods rechterhand, heengegaan naaiden hemel, terwijl engelen en krachten en machten Hem onderworpen zijn.
 
 ### Chapter 4
 
@@ -63334,19 +63334,19 @@
 
 **[4:5]** die rekenschap zullen geven aan Hem die gereed staat om te oordeelen levenden en dooden.
 
-**[4:6]** Want tot dat einde is ook aan de dooden het Evangelie verkondigd, opdat zij wel zouden geoordeeld worden naar den mensch in het vleesch, maar leven zouden naar God in den geest. 
+**[4:6]** Want tot dat einde is ook aan de dooden het Evangelie verkondigd, opdat zij wel zouden geoordeeld worden naar den mensch in het vleesch, maar leven zouden naar God in den geest.
 
-**[4:7]**  Maar het einde van alle dingen is nabij; zijt dan nuchter en waakt tot gebeden;
+**[4:7]** Maar het einde van alle dingen is nabij; zijt dan nuchter en waakt tot gebeden;
 
 **[4:8]** vooral vurige liefde hebbende jegens elkander, want de liefde bedekt een menigte van zonden;
 
-**[4:9]** voor elkander herbergzaam zijnde zonder murmureering. 
+**[4:9]** voor elkander herbergzaam zijnde zonder murmureering.
 
-**[4:10]**  Een ieder, zooals hij een genadegave ontvangen heeft, bestede die onder u zelven, als goede verzorgers der menigvuldige genade Gods.
+**[4:10]** Een ieder, zooals hij een genadegave ontvangen heeft, bestede die onder u zelven, als goede verzorgers der menigvuldige genade Gods.
 
-**[4:11]** Als iemand spreekt, dan spreke hij als woorden Gods, als iemand een bediening heeft, dan diene hij als uit kracht die God verleent, opdat God in alles de glorie ontvange, door Jezus Christus, aan wien de glorie toekomt, en de heerschappij tot in alle eeuwigheid. Amen. 
+**[4:11]** Als iemand spreekt, dan spreke hij als woorden Gods, als iemand een bediening heeft, dan diene hij als uit kracht die God verleent, opdat God in alles de glorie ontvange, door Jezus Christus, aan wien de glorie toekomt, en de heerschappij tot in alle eeuwigheid. Amen.
 
-**[4:12]**  Beminden, laat het u niet vreemd toeschijnen dat gij hevig verdrukt wordt, hetgeen over u komt om u te beproeven, alsof u iets vreemds overkwame;
+**[4:12]** Beminden, laat het u niet vreemd toeschijnen dat gij hevig verdrukt wordt, hetgeen over u komt om u te beproeven, alsof u iets vreemds overkwame;
 
 **[4:13]** maar voor zooveel gij deelgenooten van de smarten van Christus zijt zoo moet gij u verblijden, opdat gij u ook verheugen en verblijden moogt in de openbaring zijner glorie.
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** En als de rechtvaardige nauwelijks behouden wordt, de goddelooze en de zondaar waar zal die dan verschijnen;
 
-**[4:19]** Zoo dan, laat ook hen die lijden naar den wil van God, hun zielen aan den getrouwen Schepper overgeven in weldadigheid.  
+**[4:19]** Zoo dan, laat ook hen die lijden naar den wil van God, hun zielen aan den getrouwen Schepper overgeven in weldadigheid.
 
 ### Chapter 5
 
@@ -63370,9 +63370,9 @@
 
 **[5:3]** noch als heerschappijvoerders over het erfdeel, maar als voorbeelden zijnde voor de kudde.
 
-**[5:4]** En als de overste Herder zal verschenen zijn dan zult gij de onverwelkelijke kroon der glorie verkrijgen. 
+**[5:4]** En als de overste Herder zal verschenen zijn dan zult gij de onverwelkelijke kroon der glorie verkrijgen.
 
-**[5:5]**  Zoo ook, gij die jonger zijt, zijt onderdanig aan de oudsten. Ja, gij allen, versiert u zelven met nederigheid, want God wederstaat de hoovaardigen doch aan de nederigen geeft Hij genade.
+**[5:5]** Zoo ook, gij die jonger zijt, zijt onderdanig aan de oudsten. Ja, gij allen, versiert u zelven met nederigheid, want God wederstaat de hoovaardigen doch aan de nederigen geeft Hij genade.
 
 **[5:6]** Vernedert u dan onder de machtige hand Gods, opdat Hij u ter rechter tijd verhooge.
 
@@ -63380,17 +63380,17 @@
 
 **[5:8]** Zijt nuchter, waakt! Uw tegenpartij, de duivel, als een brullende leeuw, gaat hij rond, zoekende wien hij verslinden moge.
 
-**[5:9]** Wederstaat hem, vast in het geloof, wetende dat dezelfde smarten geleden worden door uw broeders die in de wereld zijn. 
+**[5:9]** Wederstaat hem, vast in het geloof, wetende dat dezelfde smarten geleden worden door uw broeders die in de wereld zijn.
 
-**[5:10]**  Doch de God van alle genade, die u geroepen heeft tot zijn eeuwige glorie in Christus, nadat gij een weinig zult geleden hebben, die zal u volmaken, versterken, bevestigen en fundeeren.
+**[5:10]** Doch de God van alle genade, die u geroepen heeft tot zijn eeuwige glorie in Christus, nadat gij een weinig zult geleden hebben, die zal u volmaken, versterken, bevestigen en fundeeren.
 
-**[5:11]** Hem zij de glorie en de heerschappij tot in alle eeuwigheid! Amen. 
+**[5:11]** Hem zij de glorie en de heerschappij tot in alle eeuwigheid! Amen.
 
-**[5:12]**  Door Silvanus, den getrouwen broeder naar ik meen, heb ik u in het kort geschreven, vermanende en getuigende dat deze is de waarachtige genade Gods; staat daarin vast!
+**[5:12]** Door Silvanus, den getrouwen broeder naar ik meen, heb ik u in het kort geschreven, vermanende en getuigende dat deze is de waarachtige genade Gods; staat daarin vast!
 
 **[5:13]** De medeuitverkorenedie in Babylon is groet u, en ook Markus mijn zoon.
 
-**[5:14]** Groet elkander met een kus der liefde. Vrede zij met u allen die in Christus zijt!   
+**[5:14]** Groet elkander met een kus der liefde. Vrede zij met u allen die in Christus zijt!
 
 ## II Peter
 
@@ -63398,9 +63398,9 @@
 
 **[1:1]** Simon Petrus, een dienaar en apostel van Jezus Christus, aan degenen die hetzelfde dierbaar geloof ontvangen hebben in de rechtvaardigheid van onzen God en Verlosser Jezus Christus:
 
-**[1:2]** genade en vrede zij ulieden vermenigvuldigd, inde kennis van God en onzen Heere Jezus Christus. 
+**[1:2]** genade en vrede zij ulieden vermenigvuldigd, inde kennis van God en onzen Heere Jezus Christus.
 
-**[1:3]**  Gelijk ons van zijn goddelijke kracht alle dingen, die tot het leven en de godvruchtigheid dienen, geschonken zijn, door de kennis van Hem die ons geroepen heeft door zijn eigen glorie en kracht,
+**[1:3]** Gelijk ons van zijn goddelijke kracht alle dingen, die tot het leven en de godvruchtigheid dienen, geschonken zijn, door de kennis van Hem die ons geroepen heeft door zijn eigen glorie en kracht,
 
 **[1:4]** waardoor Hij ons zijn kostbare en zeer groote beloften geschonken heeft, opdat gij door dezen zoudt deelgenooten worden van de goddelijke natuur, ontvloden zijnde het verderf dat in de wereld is, in de begeerlijkheid;
 
@@ -63412,13 +63412,13 @@
 
 **[1:8]** Want als deze dingen bij u te vinden zijn, en overvloedig zijn, dan zullen zij u niet ledig noch onvruchtbaar laten tot de kennis van onzen Heere Jezus Christus.
 
-**[1:9]** Want bij wien deze dingen niet te vinden zijn die is blind, bijziende, vergeten hebbende de reiniging van zijn vroegere zonden. 
+**[1:9]** Want bij wien deze dingen niet te vinden zijn die is blind, bijziende, vergeten hebbende de reiniging van zijn vroegere zonden.
 
-**[1:10]**  Daarom te meer, broeders, haast u om uw roeping en verkiezing vast te stellen; want dat doende zult gij nooit struikelen.
+**[1:10]** Daarom te meer, broeders, haast u om uw roeping en verkiezing vast te stellen; want dat doende zult gij nooit struikelen.
 
-**[1:11]** Want alzoo zal u een ruime ingang gebaand worden tot het eeuwig koninkrijk van onzen Heere en Zaligmaker Jezus Christus. 
+**[1:11]** Want alzoo zal u een ruime ingang gebaand worden tot het eeuwig koninkrijk van onzen Heere en Zaligmaker Jezus Christus.
 
-**[1:12]**  Daarom zal ik zorgen u altijd deze dingen te herinneren, alhoewel gij ze weet en bevestigd zijt in de waarheid die tegenwoordig geopenbaard is.
+**[1:12]** Daarom zal ik zorgen u altijd deze dingen te herinneren, alhoewel gij ze weet en bevestigd zijt in de waarheid die tegenwoordig geopenbaard is.
 
 **[1:13]** En ik meen dat het recht is, zoolang ik in dezen tabernakel ben, u op te wekken door herinnering,
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** dit vooral wetende, dat geen profetische schrift van eigen uitlegging is.
 
-**[1:21]** Want niet door den wil eens menschen is de profetie eertijds voortgebracht, maar van den Heiligen Geest gedreven zijnde, hebben menschen gesproken van God.  
+**[1:21]** Want niet door den wil eens menschen is de profetie eertijds voortgebracht, maar van den Heiligen Geest gedreven zijnde, hebben menschen gesproken van God.
 
 ### Chapter 2
 
@@ -63444,9 +63444,9 @@
 
 **[2:2]** En velen zullen hun verderfelijke dingen navolgen; om hunnentwil zal de weg der waarheid gelasterd worden;
 
-**[2:3]** en in gierighied zullen zij u met gemaakte woorden omkoopen; maar het oordeel over hen is al lang op weg en hun verderf slaapt niet. 
+**[2:3]** en in gierighied zullen zij u met gemaakte woorden omkoopen; maar het oordeel over hen is al lang op weg en hun verderf slaapt niet.
 
-**[2:4]**  Want is het dat God de engelen die gezondigd hebben niet gespaard heeft maar hen in de hel geworpen heeft, en overgegeven heeft in de boeien der duisternis, om bewaard te worden tot het oordeel;
+**[2:4]** Want is het dat God de engelen die gezondigd hebben niet gespaard heeft maar hen in de hel geworpen heeft, en overgegeven heeft in de boeien der duisternis, om bewaard te worden tot het oordeel;
 
 **[2:5]** en is het dat Hij de oude wereld niet gespaard, maar Noach den prediker der rechtvaardigheid, met zeven anderen bewaard heeft, als Hij den zondvloed deed komen over de wereld der goddeloozen,
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** Want het ware hun beter den weg der rechtvaardigheid niet gekend te hebben, dan dien gekend hebbende, zich af te keeren van het heilig gebod dat hun was overgeleverd.
 
-**[2:22]** Hun is overkomen hetgeen een waarachtig spreekwoord zegt: een hond keert weder tot zijn eigen uitbraaksel en een gewasschen zeug tot de wenteling in het slijk.  
+**[2:22]** Hun is overkomen hetgeen een waarachtig spreekwoord zegt: een hond keert weder tot zijn eigen uitbraaksel en een gewasschen zeug tot de wenteling in het slijk.
 
 ### Chapter 3
 
@@ -63504,9 +63504,9 @@
 
 **[3:9]** De Heer is niet traag in de belofte, zooals eenigen die traagheid achten; maar Hij handelt lankmoediglijk om uwentwil, niet willende dat eenigen verdorven worden maar dat allen tot boetvaardigheid komen.
 
-**[3:10]** Doch de dag des Heeren zal komen als een dief, waarin de hemelen meteen gedruisch zullen voorbijgaan, de elementen door hitte zullen versmelten, en de aarde en hetgeen in haar is zal verbrand worden. 
+**[3:10]** Doch de dag des Heeren zal komen als een dief, waarin de hemelen meteen gedruisch zullen voorbijgaan, de elementen door hitte zullen versmelten, en de aarde en hetgeen in haar is zal verbrand worden.
 
-**[3:11]**  Aangezien dan al deze dingen vergaan, hoedanig moet gij dan zijn in heiligen wandel en godvruchtigheid!
+**[3:11]** Aangezien dan al deze dingen vergaan, hoedanig moet gij dan zijn in heiligen wandel en godvruchtigheid!
 
 **[3:12]** Verwachtende en verlangende naar de verschijning van de dag Gods, om welken de hemelen brandende zullen vergaan en de elementen door hitte zullen versmelten.
 
@@ -63516,11 +63516,11 @@
 
 **[3:15]** En acht de lankmoedigheid van onzen Heer als redding, zooals ook onze geliefde broeder Paulus ulieden geschreven heeft, naar de wijsheid die hem gegeven is,
 
-**[3:16]** zooals ook in al de brieven waarin hij spreekt van deze dingen; waarin sommige dingen moeilijk zijn om te verstaan, die de ongeleerden en onstandvastigen verdraaien; zooals ook de andere Schriften, tot hun eigen verderf. 
+**[3:16]** zooals ook in al de brieven waarin hij spreekt van deze dingen; waarin sommige dingen moeilijk zijn om te verstaan, die de ongeleerden en onstandvastigen verdraaien; zooals ook de andere Schriften, tot hun eigen verderf.
 
-**[3:17]**  Gij dan, beminden, dat te voren wetende, wacht u dat gij niet, door de doling der goddeloozen mede vervoerd wordende, uitvalt van uw eigen vastigheid.
+**[3:17]** Gij dan, beminden, dat te voren wetende, wacht u dat gij niet, door de doling der goddeloozen mede vervoerd wordende, uitvalt van uw eigen vastigheid.
 
-**[3:18]** Maar wast op in genade en in kennis van onzen Heer en Verlosser Jezus Christus. Hem zij de glorie, zoowel nu als tot den dag der eeuwigheid. Amen.   
+**[3:18]** Maar wast op in genade en in kennis van onzen Heer en Verlosser Jezus Christus. Hem zij de glorie, zoowel nu als tot den dag der eeuwigheid. Amen.
 
 ## I John
 
@@ -63532,19 +63532,19 @@
 
 **[1:3]** hetgeen wij gezien hebben en gehoord, dat verkondigen wij ook ulieden, opdat ook gij gemeenschap zoudt hebben met ons, en opdat de gemeenschap die de onze is ook zij met den Vader en met zijn Zoon Jezus Christus.
 
-**[1:4]** En deze dingen schrijven wij ulieden, opdat onze blijdschap volkomen moge zijn. 
+**[1:4]** En deze dingen schrijven wij ulieden, opdat onze blijdschap volkomen moge zijn.
 
-**[1:5]**  En dat is de boodschap die wij gehoord hebben van Hem en die wij ulieden verkondigen, dat God licht is en dat er gansch geen duisternis is in Hem,
+**[1:5]** En dat is de boodschap die wij gehoord hebben van Hem en die wij ulieden verkondigen, dat God licht is en dat er gansch geen duisternis is in Hem,
 
 **[1:6]** als wij zeggen dat wij gemeenschap hebben met Hem, en wij wandelen in de duisternis, dan liegen wij en wij doen de waarheid niet.
 
-**[1:7]** Doch als wij in het licht wandelen zooals Hij in het licht is, dan hebben wij gemeenschap met elkander en het bloed van Jezus Christus, zijn Zoon, zuivert ons van alle zonde. 
+**[1:7]** Doch als wij in het licht wandelen zooals Hij in het licht is, dan hebben wij gemeenschap met elkander en het bloed van Jezus Christus, zijn Zoon, zuivert ons van alle zonde.
 
-**[1:8]**  Als wij zeggen dat wij geen zonde hebben dan brengen wij ons zelven in doling en de waarheid is niet in ons.
+**[1:8]** Als wij zeggen dat wij geen zonde hebben dan brengen wij ons zelven in doling en de waarheid is niet in ons.
 
 **[1:9]** Als wij onze zonden belijden, God is getrouw en rechtvaardig, dat Hij ons de zonden vergeve en dat Hij ons zuivere van alle onrechtvaardigheid.
 
-**[1:10]** Als wij zeggen dat wij niet gezondigd hebben, dan maken wij Hem tot een leugenaar, en zijn woord is niet in ons.  
+**[1:10]** Als wij zeggen dat wij niet gezondigd hebben, dan maken wij Hem tot een leugenaar, en zijn woord is niet in ons.
 
 ### Chapter 2
 
@@ -63558,9 +63558,9 @@
 
 **[2:5]** Doch die zijn woord bewaart, in dezen is waarlijk de liefde Gods volkomen geworden. Daarin weten wij dat wij in Hem zijn.
 
-**[2:6]** Die zegt in Hem te blijven die moet ook zelf evenalzoo wandelen als Hij gewandeld heeft. 
+**[2:6]** Die zegt in Hem te blijven die moet ook zelf evenalzoo wandelen als Hij gewandeld heeft.
 
-**[2:7]**  Mijn beminden, ik schrijf u geen nieuw gebod, maar een oud gebod, dat gij van den beginne gehad hebt. Dat oud gebod is het woord dat gij gehoord hebt.
+**[2:7]** Mijn beminden, ik schrijf u geen nieuw gebod, maar een oud gebod, dat gij van den beginne gehad hebt. Dat oud gebod is het woord dat gij gehoord hebt.
 
 **[2:8]** Wederom schrijf ik u een; nieuw gebod: hetgeen waarachtig is in Hem en in ulieden; want de duisternis gaat voorbij en het waarachtige licht schijnt alreeds.
 
@@ -63574,15 +63574,15 @@
 
 **[2:13]** Ik schrijf n, vaders, omdat gij gekend hebt Hem die van den beginne is. Ik schrijf u, jongelingen, omdat gij den kwade overwonnen hebt.
 
-**[2:14]** Ik heb u geschreven, kinderen, omdat gij den Vader gekend hebt. Ik heb u geschreven, vaders, omdat gij gekend hebt Hem die van den beginne is. Ik heb u geschreven, jongelingen omdat gij sterk zijt en omdat Gods woord in u blijft, en omdat gij den kwade overwonnen hebt. 
+**[2:14]** Ik heb u geschreven, kinderen, omdat gij den Vader gekend hebt. Ik heb u geschreven, vaders, omdat gij gekend hebt Hem die van den beginne is. Ik heb u geschreven, jongelingen omdat gij sterk zijt en omdat Gods woord in u blijft, en omdat gij den kwade overwonnen hebt.
 
-**[2:15]**  Bemint toch de wereld niet, noch hetgeen in de wereld is; als iemand de wereld bemint, dan is de liefde des Vaders niet in hem.
+**[2:15]** Bemint toch de wereld niet, noch hetgeen in de wereld is; als iemand de wereld bemint, dan is de liefde des Vaders niet in hem.
 
 **[2:16]** Want al wat in de wereld is, de begeerlijkheid des vleesches, en de begeerlijkheid der oogen, en de hoovaardij des levens, is niet uit den Vader, maar is uit de wereld.
 
-**[2:17]** En de wereld gaat voorbij, en haar begeerlijkheid; maar die den wil van God doet, die blijft tot in eeuwigheid. 
+**[2:17]** En de wereld gaat voorbij, en haar begeerlijkheid; maar die den wil van God doet, die blijft tot in eeuwigheid.
 
-**[2:18]**  Kinderkers, het is de laatste ure, en zooals gij gehoord hebt dat de Antichrist komt, zoo zijn ook nu vele antichristen opgestaan, vanwaar wij weten dat het de laatste ure is.
+**[2:18]** Kinderkers, het is de laatste ure, en zooals gij gehoord hebt dat de Antichrist komt, zoo zijn ook nu vele antichristen opgestaan, vanwaar wij weten dat het de laatste ure is.
 
 **[2:19]** Zij zijn uit ons uitgegaan, maar zij zijn uit ons niet geweest, want als zij uit ons geweest waren, dan zouden zij met ons gebleven zijn. Maar zij zijn uit ons uitgegaan opdat het openbaar worden zou dat allen niet uit ons zijn.
 
@@ -63596,15 +63596,15 @@
 
 **[2:24]** Wat u aangaat, laat datgene wat gij van den beginne gehoord hebt ook in u blijven. Als in u blijft hetgeen gij van den beginne gehoord hebt, dan zult gij ook in den Zoon en in den Vader blijven.
 
-**[2:25]** En dit is de belofte die Hij zelf ons beloofd heeft, het eeuwige leven. 
+**[2:25]** En dit is de belofte die Hij zelf ons beloofd heeft, het eeuwige leven.
 
-**[2:26]**  Deze dingen heb ik u geschreven aangaande degenen die u verleiden.
+**[2:26]** Deze dingen heb ik u geschreven aangaande degenen die u verleiden.
 
 **[2:27]** En wat u aangaat, de zalving die gij van Hem ontvangen hebt, blijft in u, en gij hebt niet van noode dat iemand u onderwijze. Maar gelijk zijn zalving u onderwijst van alles, en waarachtig is en geen leugen, alzoo blijft gij ook in Hem zooals zij u onderwezen heeft.
 
 **[2:28]** En nu, kinderkens, blijft in Hem, opdat als Hij zal geopenbaard zijn wij vrijmoedigheid mogen hebben, en niet beschaamd gemaakt worden van Hem in zijn verschijning.
 
-**[2:29]** Als gij weet dat Hij rechtvaardig is, dan weet gij ook dat al wie de rechtvaardigheid doet uit Hem geboren is.  
+**[2:29]** Als gij weet dat Hij rechtvaardig is, dan weet gij ook dat al wie de rechtvaardigheid doet uit Hem geboren is.
 
 ### Chapter 3
 
@@ -63612,9 +63612,9 @@
 
 **[3:2]** Beminden, nu zijn wij kinderen Gods, en het is nog niet geopenbaard wat wij zullen zijn. Wij weten dat, als het zal geopenbaard zijn, wij Hem zullen gelijk zijn, omdat wij Hem zullen zien zooals Hij is.
 
-**[3:3]** En al wie deze hoop op Hem heeft die reinigt zich zelven, zooals Hij rein is. 
+**[3:3]** En al wie deze hoop op Hem heeft die reinigt zich zelven, zooals Hij rein is.
 
-**[3:4]**  Al wie de zonde doet, doet ook de wetteloosheid, want de zonde is de wetteloosheid.
+**[3:4]** Al wie de zonde doet, doet ook de wetteloosheid, want de zonde is de wetteloosheid.
 
 **[3:5]** En gij weet dat Hij geopenbaard is om de zonde weg te nemen, en zonde is er in Hem niet.
 
@@ -63624,9 +63624,9 @@
 
 **[3:8]** Die de zonde doet is uit den duivel, want de duivel zondigt van den beginne. Daartoe is de Zoon van God geopenbaard, opdat Hij de werken des duivels vernielen zou.
 
-**[3:9]** Al wie uit God geboren is doet geen zonde, omdat Gods zaad in Hem blijft; en hij kan niet zondigen, omdat hij uit God is geboren. 
+**[3:9]** Al wie uit God geboren is doet geen zonde, omdat Gods zaad in Hem blijft; en hij kan niet zondigen, omdat hij uit God is geboren.
 
-**[3:10]**  Daarin zijn de kinderen Gods en de kinderen des duivels te kennen: al wie geen rechtvaardigheid doet die is niet uit God, en die zijn broeder niet bemint.
+**[3:10]** Daarin zijn de kinderen Gods en de kinderen des duivels te kennen: al wie geen rechtvaardigheid doet die is niet uit God, en die zijn broeder niet bemint.
 
 **[3:11]** Want dit is de boodschap die gij van den beginne gehoord hebt, dat wij elkander moeten beminnen,
 
@@ -63640,9 +63640,9 @@
 
 **[3:16]** Hierin hebben wij de liefde gekend, dat Hij voor ons zijn leven gesteld heeft, en wij zijn schuldig voor de broeders het leven te stellen.
 
-**[3:17]** Zoo wie dan het goed der wereld heeft en hij ziet zijn broeder gebrek hebben en hij zou zijn gemoed sluiten voor hem, hoe blijft de liefde Gods in Hem? 
+**[3:17]** Zoo wie dan het goed der wereld heeft en hij ziet zijn broeder gebrek hebben en hij zou zijn gemoed sluiten voor hem, hoe blijft de liefde Gods in Hem?
 
-**[3:18]**  Kinderkens, laat ons niet beminnen met woord of tong, maar met der daad en in waarheid.
+**[3:18]** Kinderkens, laat ons niet beminnen met woord of tong, maar met der daad en in waarheid.
 
 **[3:19]** En daarin weten wij dat wij uit de waarheid zijn, en voor zijn aangezicht zullen wij onze harten overtuigen.
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** En dat is zijn gebod, dat wij gelooven in den Naam van zijn Zoon Jezus Christus en elkander beminnen, zooals Hij ons een gebod gegeven heeft.
 
-**[3:24]** En die zijn geboden bewaart blijft in God en God, in hem. En daarin weten wij dat Hij in ons blijft, uit den Geest dien Hij ons heeft gegeven.  
+**[3:24]** En die zijn geboden bewaart blijft in God en God, in hem. En daarin weten wij dat Hij in ons blijft, uit den Geest dien Hij ons heeft gegeven.
 
 ### Chapter 4
 
@@ -63668,17 +63668,17 @@
 
 **[4:5]** Dezen zijn uit de wereld, daarom spreken zij uit de wereld en de wereld hoort hen.
 
-**[4:6]** Wij zijn uit God. Die God kent hoort ons; die uit God niet is, die hoort ons niet. Daaruit kennen wij den geest der waarheid en den geest der dwaling. 
+**[4:6]** Wij zijn uit God. Die God kent hoort ons; die uit God niet is, die hoort ons niet. Daaruit kennen wij den geest der waarheid en den geest der dwaling.
 
-**[4:7]**  Beminden, laat ons elkander beminnen, want de liefde is uit God, en al wie bemint is uit God geboren en kent God.
+**[4:7]** Beminden, laat ons elkander beminnen, want de liefde is uit God, en al wie bemint is uit God geboren en kent God.
 
 **[4:8]** Die niet bemint kent God niet, want God is liefde.
 
 **[4:9]** Daarin is de liefde Gods tot ons geopenbaard, dat God zijn eeniggeboren Zoon gezonden heeft tot de wereld, opdat wij zouden leven door Hem.
 
-**[4:10]** Daarin is de liefde, niet dat wij God bemind hebben, maar dat Hij ons bemind heeft en dat Hij zijn Zoon gezonden heeft, als zoenoffer voor onze zonden. 
+**[4:10]** Daarin is de liefde, niet dat wij God bemind hebben, maar dat Hij ons bemind heeft en dat Hij zijn Zoon gezonden heeft, als zoenoffer voor onze zonden.
 
-**[4:11]**  Beminden, als God ons alzoo heeft bemind, dan moeten wij ook malkander beminnen.
+**[4:11]** Beminden, als God ons alzoo heeft bemind, dan moeten wij ook malkander beminnen.
 
 **[4:12]** Niemand heeft ooit God aanschouwd. Als wij elkander beminnen dan blijft God in ons en zijn liefde is in ons volmaakt.
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** Als iemand zou zeggen: ik bemin God, en hij zou zijn broeder haten, dan is hij een leugenaar. Want die zijn broeder niet bemint dien hij gezien heeft, die kan God niet beminnen dien hij niet gezien heeft.
 
-**[4:21]** En dit gebod hebben wij van Hem, dat hij die God bemint, ook zijn broeder moet beminnen.  
+**[4:21]** En dit gebod hebben wij van Hem, dat hij die God bemint, ook zijn broeder moet beminnen.
 
 ### Chapter 5
 
@@ -63706,9 +63706,9 @@
 
 **[5:2]** Daarin weten wij dat wij de kinderen Gods beminnen, als wij God beminnen en zijn geboden doen.
 
-**[5:3]** Want dit is de liefde voor God, dat wij zijn geboden bewaren, en zijn geboden zijn niet zwaar. 
+**[5:3]** Want dit is de liefde voor God, dat wij zijn geboden bewaren, en zijn geboden zijn niet zwaar.
 
-**[5:4]**  Want al wat uit God geboren is overwint de wereld; en dit is de overwinning die de wereld overwint, ons geloof.
+**[5:4]** Want al wat uit God geboren is overwint de wereld; en dit is de overwinning die de wereld overwint, ons geloof.
 
 **[5:5]** Wie is het die de wereld overwint, dan alleen hij die gelooft dat Jezus is de Zoon van God?
 
@@ -63726,23 +63726,23 @@
 
 **[5:12]** Die den Zoon heeft die heeft het leven, die den Zoon van God niet heeft die heeft het leven niet.
 
-**[5:13]** Deze dingen heb ik aan u geschreven, opdat gij zoudt weten dat gij eeuwig leven hebt, gij die gelooft in den Naam des Zoons van God. 
+**[5:13]** Deze dingen heb ik aan u geschreven, opdat gij zoudt weten dat gij eeuwig leven hebt, gij die gelooft in den Naam des Zoons van God.
 
-**[5:14]**  En deze is de vrijmoedigheid die wij tot Hem hebben, dat als wij iets bidden naar zijn wil, Hij ons hoort.
+**[5:14]** En deze is de vrijmoedigheid die wij tot Hem hebben, dat als wij iets bidden naar zijn wil, Hij ons hoort.
 
 **[5:15]** En als wij weten dat Hij ons hoort, wat wij ook bidden, dan weten wij dat wij het gevraagde bezitten dat wij van Hem gebeden hebben.
 
 **[5:16]** Als iemand zijn broeder ziet zondigen een zonde niet tot den dood, dan zal hij bidden, en God zal hem het leven geven voor degenen die niet tot den dood zondigen. Er is een zonde tot den dood; niet voor deze zeg ik dat hij vragen zou.
 
-**[5:17]** Alle onrechtvaardigheid is zonde, en er is een zonde niet tot den dood. 
+**[5:17]** Alle onrechtvaardigheid is zonde, en er is een zonde niet tot den dood.
 
-**[5:18]**  Wij weten dat al wie uit God geboren is niet zondigt, maar die uit God geboren is houdt Hem vast en de booze raakt hem niet aan.
+**[5:18]** Wij weten dat al wie uit God geboren is niet zondigt, maar die uit God geboren is houdt Hem vast en de booze raakt hem niet aan.
 
 **[5:19]** Wij weten dat wij uit God zijn en dat de geheele wereld in het kwade ligt.
 
 **[5:20]** Doch wij weten dat de Zoon van God is gekomen, en Hij heeft ons verstand gegeven, opdat wij den Waarachtige zouden kennen; en wij zijn in den Waarachtige, in zijn Zoon Jezus Christus. Deze is de waarachtige God en het eeuwige leven.
 
-**[5:21]** Kinderkens, wacht u zelven van de afgoden!   
+**[5:21]** Kinderkens, wacht u zelven van de afgoden!
 
 ## II John
 
@@ -63752,15 +63752,15 @@
 
 **[1:2]** ter wille van de waarheid die in ons blijft, en met ons zal blijven tot in eeuwigheid:
 
-**[1:3]** genade, barmhartigheid, vrede zal met u zijn van God den Vader en van Jezus Christus, den Zoon des Vaders, in waarheid en liefde. 
+**[1:3]** genade, barmhartigheid, vrede zal met u zijn van God den Vader en van Jezus Christus, den Zoon des Vaders, in waarheid en liefde.
 
-**[1:4]**  Ik verblijd mij zeer dat ik er van uw kinderen gevonden heb die wandelen in de waarheid, zooals wij een gebod hebben ontvangen van den Vader.
+**[1:4]** Ik verblijd mij zeer dat ik er van uw kinderen gevonden heb die wandelen in de waarheid, zooals wij een gebod hebben ontvangen van den Vader.
 
 **[1:5]** En nu verzoek ik u, Kuria, niet als u een nieuw gebod schrijvende, maar dat wij van den beginne gehad hebben, dat wij malkander beminnen.
 
-**[1:6]** En dat is de liefde, dat wij naar zijn geboden wandelen; dit is het gebod, zooals gij van den beginne gehoord hebt, dat gij daarin zoudt wandelen. 
+**[1:6]** En dat is de liefde, dat wij naar zijn geboden wandelen; dit is het gebod, zooals gij van den beginne gehoord hebt, dat gij daarin zoudt wandelen.
 
-**[1:7]**  Want er zijn veel verleiders in de wereld uitgegaan, die niet belijden dat Jezus Christus in het vleesch komt; deze is de verleider en de Antichrist.
+**[1:7]** Want er zijn veel verleiders in de wereld uitgegaan, die niet belijden dat Jezus Christus in het vleesch komt; deze is de verleider en de Antichrist.
 
 **[1:8]** Ziet toe voor u zelven, opdat gij niet verliezen zoudt hetgeen wij gearbeid hebben, maar dat gij vollen loon moogt ontvangen.
 
@@ -63768,11 +63768,11 @@
 
 **[1:10]** Als iemand tot u komt en deze leering niet brengt, ontvangt hem niet in huis, en zegt tot hem niet: zijt gegroet!
 
-**[1:11]** Want die tot hem zegt: zijt gegroet! die neemt deel aan zijn slechte werken. 
+**[1:11]** Want die tot hem zegt: zijt gegroet! die neemt deel aan zijn slechte werken.
 
-**[1:12]**  U veel te schrijven hebbende wilde ik dit niet doen door papier en inkt, maar ik hoop tot u te komen en van mond tot mond te spreken, opdat onze blijdschap volkomen zij.
+**[1:12]** U veel te schrijven hebbende wilde ik dit niet doen door papier en inkt, maar ik hoop tot u te komen en van mond tot mond te spreken, opdat onze blijdschap volkomen zij.
 
-**[1:13]** U groeten de kinderen uwer zuster de uitverkorene.   
+**[1:13]** U groeten de kinderen uwer zuster de uitverkorene.
 
 ## III John
 
@@ -63780,9 +63780,9 @@
 
 **[1:1]** De ouderling, aan Gajus, den beminde, dien ik in waarheid bemin,
 
-**[1:2]** Beminde, vóór alle dingen wensch ik dat gij welvaart en gezond zijt, zooals uw ziel welvaart! 
+**[1:2]** Beminde, vóór alle dingen wensch ik dat gij welvaart en gezond zijt, zooals uw ziel welvaart!
 
-**[1:3]**  Ik ben zeer verblijd geweest, als er broeders kwamen en getuigenis gaven van uw oprechtheid, zooals gij ook in de waarheid wandelt.
+**[1:3]** Ik ben zeer verblijd geweest, als er broeders kwamen en getuigenis gaven van uw oprechtheid, zooals gij ook in de waarheid wandelt.
 
 **[1:4]** Grooter blijdschap toch heb ik niet, dan als ik hoor dat mijn kinderen in de waarheid wandelen.
 
@@ -63792,21 +63792,21 @@
 
 **[1:7]** Want zij zijn uitgegaan voor den Naam, niets nemende van de heidenen.
 
-**[1:8]** Wij moeten dan dezulken ontvangen, opdat wij medewerkers mogen zijn aan de waarheid. 
+**[1:8]** Wij moeten dan dezulken ontvangen, opdat wij medewerkers mogen zijn aan de waarheid.
 
-**[1:9]**  Ik heb geschreven aan de gemeente; maar Diotrefes, die over hen meester wil zijn, neemt ons niet aan.
+**[1:9]** Ik heb geschreven aan de gemeente; maar Diotrefes, die over hen meester wil zijn, neemt ons niet aan.
 
-**[1:10]** Daarom, als ik kom zal ik zijn werken in gedachtenis brengen die hij doet, met slechte woorden tegen ons klappende; en daarmede nog niet tevreden zijnde ontvangt hij zelfs de broeders niet, en hij verhindert die dit zouden willen doen, en werpt ze uit de gemeente. 
+**[1:10]** Daarom, als ik kom zal ik zijn werken in gedachtenis brengen die hij doet, met slechte woorden tegen ons klappende; en daarmede nog niet tevreden zijnde ontvangt hij zelfs de broeders niet, en hij verhindert die dit zouden willen doen, en werpt ze uit de gemeente.
 
-**[1:11]**  Beminde, volgt het kwade niet na, maar het goede. Die goed doet is uit God. Die kwaad doet heeft God niet gezien. 
+**[1:11]** Beminde, volgt het kwade niet na, maar het goede. Die goed doet is uit God. Die kwaad doet heeft God niet gezien.
 
-**[1:12]**  Aan Demetrius wordt getuigenis gegeven van allen en van de waarheid zelve: en wij geven ook getuigenis en gij weet dat onze getuigenis waarachtig is. 
+**[1:12]** Aan Demetrius wordt getuigenis gegeven van allen en van de waarheid zelve: en wij geven ook getuigenis en gij weet dat onze getuigenis waarachtig is.
 
-**[1:13]**  Ik had u veel te schrijven, maar ik wil u niet schrijven met inkt en pen,
+**[1:13]** Ik had u veel te schrijven, maar ik wil u niet schrijven met inkt en pen,
 
 **[1:14]** doch ik hoop u spoedig te zien, en dan zullen wij van mond tot mond spreken.
 
-**[1:15]** Vrede zij u! De vrienden groeten u! Groet de vrienden bij name!   
+**[1:15]** Vrede zij u! De vrienden groeten u! Groet de vrienden bij name!
 
 ## Jude
 
@@ -63814,9 +63814,9 @@
 
 **[1:1]** Judas, een dienaar van Jezus Christus, en broeder van Jakobus, aan de geroepenen, die in God den Vader bemind en door Jezus Christus bewaard zijn:
 
-**[1:2]** barmhartigheid, en vrede, en liefde zij over ulieden vermenigvuldigd! 
+**[1:2]** barmhartigheid, en vrede, en liefde zij over ulieden vermenigvuldigd!
 
-**[1:3]**  Beminden, alle naarstigheid doende om u te schrijven over onze gemeenschappelijke verlossing, zoo was ik gedrongen om u te schrijven en te vermanen om toch kloek te strijden voor het geloof dat eenmaal aan de heiligen is overgeleverd,
+**[1:3]** Beminden, alle naarstigheid doende om u te schrijven over onze gemeenschappelijke verlossing, zoo was ik gedrongen om u te schrijven en te vermanen om toch kloek te strijden voor het geloof dat eenmaal aan de heiligen is overgeleverd,
 
 **[1:4]** want er zijn sommige menschen ingekropen, die vroeger al te voren opgeschreven zijn tot dit oor deel, goddeloos, die de genade van onzen God veranderen in ontuchtigheid en die den eenigen Meester en onzen Heere Jezus Christus verloochenen.
 
@@ -63842,9 +63842,9 @@
 
 **[1:15]** om het oordeel uit te voeren tegen allen en om al hun goddeloozen te straffen, vanwege al hun werken van goddeloosheid die zij goddelooslijk gedaan hebben, en vanwege al de smadelijke woorden die de goddelooze zondaars gesproken hebben.
 
-**[1:16]** Dezen zijn murmureerders die altijd klagen, die wandelen naar hun begeerlijkheden, en wier mond opgeblazen dingen spreekt, den menschen lof toebrengende om des voordeels wil. 
+**[1:16]** Dezen zijn murmureerders die altijd klagen, die wandelen naar hun begeerlijkheden, en wier mond opgeblazen dingen spreekt, den menschen lof toebrengende om des voordeels wil.
 
-**[1:17]**  Doch gij, beminden, zijt gedachtig aan de woorden die voorzegd zijn van de apostelen van onzen Heer Jezus Christus,
+**[1:17]** Doch gij, beminden, zijt gedachtig aan de woorden die voorzegd zijn van de apostelen van onzen Heer Jezus Christus,
 
 **[1:18]** die ulieden zeiden dat er in den laatsten tijd spotters zullen zijn, die naar hun eigen goddelooze begeerlijkheden wandelen.
 
@@ -63856,11 +63856,11 @@
 
 **[1:22]** En hebt medelijden met degenen die onbeslist zijn.
 
-**[1:23]** Redt anderen, hen uit het vuur trekkende; ontfermt u over nog anderen met vrees, hatende ook zelfs het kleed dat van het vleesch besmet is. 
+**[1:23]** Redt anderen, hen uit het vuur trekkende; ontfermt u over nog anderen met vrees, hatende ook zelfs het kleed dat van het vleesch besmet is.
 
-**[1:24]**  Hem nu die machtig is u te bewaren van struikelen en u onbevlekt in vreugde te stellen voor het aangezicht zijner glorie,
+**[1:24]** Hem nu die machtig is u te bewaren van struikelen en u onbevlekt in vreugde te stellen voor het aangezicht zijner glorie,
 
-**[1:25]** den eenigen God, onzen Verlosser, door Jezus Christus onzen Heere, zij glorie, majesteit, heerschappij en macht door alle eeuwen, en nu en tot in alle eeuwigheid! Amen.   
+**[1:25]** den eenigen God, onzen Verlosser, door Jezus Christus onzen Heere, zij glorie, majesteit, heerschappij en macht door alle eeuwen, en nu en tot in alle eeuwigheid! Amen.
 
 ## Revelation of John
 
@@ -63870,9 +63870,9 @@
 
 **[1:2]** die van het woord Gods getuigenis heeft gegeven en van de getuigenis van Jezus Christus, van al wat hij gezien heeft.
 
-**[1:3]** Zalig hij die leest en zij die hooren de woorden dezer profetie, en die bewaren hetgeen daarin geschreven is, want de tijd is nabij! 
+**[1:3]** Zalig hij die leest en zij die hooren de woorden dezer profetie, en die bewaren hetgeen daarin geschreven is, want de tijd is nabij!
 
-**[1:4]**  Johannes, aan de zeven gemeenten die in Asië zijn: genade zij ulieden en vrede van Hem die is, en die was, en die komende is, en van de zeven Geesten die voor zijn troon zijn,
+**[1:4]** Johannes, aan de zeven gemeenten die in Asië zijn: genade zij ulieden en vrede van Hem die is, en die was, en die komende is, en van de zeven Geesten die voor zijn troon zijn,
 
 **[1:5]** en van Jezus Christus, den getrouwen Getuige, den Eerstgeborene der dooden en den Overste van de koningen der aarde! — Hem die ons bemint en die ons vrijgemaakt heeft uit onze zonden in zijn bloed,
 
@@ -63880,15 +63880,15 @@
 
 **[1:7]** Ziet, Hij komt met de wolken, en alle oog zal Hem zien, ook degenen die Hem doorstoken hebben, en al de geslachten der aarde zullen over Hem weeklagen! Ja. Amen.
 
-**[1:8]** Ik ben de Alfa en de Omega, — zegt de Heere God— die is, en die was, en die komende is, de Almachtige. 
+**[1:8]** Ik ben de Alfa en de Omega, — zegt de Heere God— die is, en die was, en die komende is, de Almachtige.
 
-**[1:9]**  Ik Johannes— uw broeder en medegenoot in de verdrukking en in het koninkrijk en in de volharding die in Jezus is— ik was in het eiland genaamd Patmos, wegens het woord van God en wegens de getuigenis van Jezus.
+**[1:9]** Ik Johannes— uw broeder en medegenoot in de verdrukking en in het koninkrijk en in de volharding die in Jezus is— ik was in het eiland genaamd Patmos, wegens het woord van God en wegens de getuigenis van Jezus.
 
 **[1:10]** Ik was in den geest op den dag des Heeren, en ik hoorde achter mij een groote stem als van een trompet, die zeide:
 
-**[1:11]** Hetgeen gij ziet, schrijf dat in een boek, en zend het aan de zeven gemeenten, die in Asië zijn; naar Efesus, en naar Smyrna, en naar Pergamus, en naar Thyatira, en naar Sardis, en naar Filadelfia, en naar Laodicea. 
+**[1:11]** Hetgeen gij ziet, schrijf dat in een boek, en zend het aan de zeven gemeenten, die in Asië zijn; naar Efesus, en naar Smyrna, en naar Pergamus, en naar Thyatira, en naar Sardis, en naar Filadelfia, en naar Laodicea.
 
-**[1:12]**  En ik wendde mij om te zien de stem die met mij gesproken had. En toen ik mij omwendde zag ik zeven gouden kandelaren,
+**[1:12]** En ik wendde mij om te zien de stem die met mij gesproken had. En toen ik mij omwendde zag ik zeven gouden kandelaren,
 
 **[1:13]** en in het midden der zeven kandelaren een die op een menschenzoon geleek, gekleed in een kleed tot aan de voeten, en omgord aan de borst met een gouden gordel;
 
@@ -63898,19 +63898,19 @@
 
 **[1:16]** En in zijn rechterhand had Hij zeven sterren, en uit zijn mond was een scherp zwaard uitgaande, dat van beide kanten sneed, en zijn aangezicht was zooals de zon schijnt in haar kracht.
 
-**[1:17]** En toen ik Hem zag viel ik aan zijn voeten als een doode. En Hij leide zijn rechterhand op mij, zeggende: vrees niet, Ik ben de Eerste en de Laatste, en de Levende; 
+**[1:17]** En toen ik Hem zag viel ik aan zijn voeten als een doode. En Hij leide zijn rechterhand op mij, zeggende: vrees niet, Ik ben de Eerste en de Laatste, en de Levende;
 
 **[1:18]** en Ik ben dood geweest en zie, Ik ben levend tot in alle eeuwigheid; en Ik heb de sleutels van den dood en het doodenrijk.
 
 **[1:19]** Schrijf dan wat gij gezien hebt, en wat is, en wat geschieden zal na dezen:
 
-**[1:20]** de verborgenheid der zeven sterren die gij gezien hebt in mijn rechterhand, en de zeven gouden kandelaren. De zeven sterren zijn engelen van de zeven gemeenten, en de zeven kandelaren zijn de zeven gemeenten.  
+**[1:20]** de verborgenheid der zeven sterren die gij gezien hebt in mijn rechterhand, en de zeven gouden kandelaren. De zeven sterren zijn engelen van de zeven gemeenten, en de zeven kandelaren zijn de zeven gemeenten.
 
 ### Chapter 2
 
 **[2:1]** Schrijf aan den engel der gemeente die in Efesus is: Dit zegt Hij die de zeven sterren in zijn rechterhand houdt, die wandelt in het midden der zeven gouden kandelaren:
 
-**[2:2]** Ik ken uw werken, en uw moeite, en uw volharding, en dat gij de kwaden niet kunt verdragen, en dat gij beproefd hebt degenen die zich zelven apostelen noemen, en het niet zijn, en hebt ze leugenaars bevonden; 
+**[2:2]** Ik ken uw werken, en uw moeite, en uw volharding, en dat gij de kwaden niet kunt verdragen, en dat gij beproefd hebt degenen die zich zelven apostelen noemen, en het niet zijn, en hebt ze leugenaars bevonden;
 
 **[2:3]** en gij hebt volharding, en om mijns Naams wil hebt gij verdragen, en gij zijt niet moede geworden.
 
@@ -63920,17 +63920,17 @@
 
 **[2:6]** Maar dit hebt gij, dat gij de werken der Nikolaïeten haat, die Ik ook haat.
 
-**[2:7]** Die een oor heeft, hij hoore wat de Geest zegt aan de gemeenten. Den overwinnaar, dien zal Ik te eten geven van den boom des levens, die in het paradijs van God is. 
+**[2:7]** Die een oor heeft, hij hoore wat de Geest zegt aan de gemeenten. Den overwinnaar, dien zal Ik te eten geven van den boom des levens, die in het paradijs van God is.
 
-**[2:8]**  En schrijf aan den engel der gemeente die in Smyrna is: Dit zegt de Eerste en de Laatste, die dood was en levend werd:
+**[2:8]** En schrijf aan den engel der gemeente die in Smyrna is: Dit zegt de Eerste en de Laatste, die dood was en levend werd:
 
 **[2:9]** Ik ken uw verdrukking en armoede— doch gij zijt rijk— en de lastering van de zijde dergenen die zich zelven Joden noemen, en het niet zijn, maar een synagoge des Satans zijn ze.
 
 **[2:10]** Vrees niets van hetgeen gij zult lijden. Zie, de duivel zal er uit ulieden in de gevangenis werpen, opdat gij beproefd zoudt worden, en gij zult een verdrukking hebben van tien dagen. Zijt getrouw tot den dood toe en Ik zal u geven de kroon des levens.
 
-**[2:11]** Die een oor heeft, hij hoore wat de Geest zegt aan de gemeenten. De overwinnaar, hij zal geenszins beschadigd worden van den tweeden dood. 
+**[2:11]** Die een oor heeft, hij hoore wat de Geest zegt aan de gemeenten. De overwinnaar, hij zal geenszins beschadigd worden van den tweeden dood.
 
-**[2:12]**  En schrijf aan den engel der gemeente die in Pergamus is: Dit zegt Hij die het scherpe zwaard heeft dat van beide kanten snijdt:
+**[2:12]** En schrijf aan den engel der gemeente die in Pergamus is: Dit zegt Hij die het scherpe zwaard heeft dat van beide kanten snijdt:
 
 **[2:13]** Ik weet waar gij woont, namelijk daar waar des Satans troon is. En gij bewaart mijn Naam en mijn geloof hebt gij niet verloochend in die dagen toen Antipas, mijn getrouwe getuige was, die gedood is bij ulieden waar de Satan woont.
 
@@ -63940,9 +63940,9 @@
 
 **[2:16]** Doe boetvaardigheid! want anders overval Ik u haastig en ik zal tegen hen strijden met het zwaard mijns monds.
 
-**[2:17]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten. Den overwinnaar zal Ik geven van het verborgen Manna, en Ik zal hem geven een witten steen, en op dien steen een nieuwen naam geschreven, dien niemand kent dan die hem ontvangt. 
+**[2:17]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten. Den overwinnaar zal Ik geven van het verborgen Manna, en Ik zal hem geven een witten steen, en op dien steen een nieuwen naam geschreven, dien niemand kent dan die hem ontvangt.
 
-**[2:18]**  En schrijf aan den engel der gemeente die in Thyatira is: Dat zegt de Zoon van God, die zijn oogen heeft als een vlamme vuurs, en wiens voeten gelijk zijn aan gloeiend koper:
+**[2:18]** En schrijf aan den engel der gemeente die in Thyatira is: Dat zegt de Zoon van God, die zijn oogen heeft als een vlamme vuurs, en wiens voeten gelijk zijn aan gloeiend koper:
 
 **[2:19]** Ik weet uw werken, en liefde, en geloof, en bediening, en volharding, en uw laatste werken, die meer zijn dan de eersten.
 
@@ -63964,7 +63964,7 @@
 
 **[2:28]** en Ik zal hem de morgenster geven.
 
-**[2:29]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten.  
+**[2:29]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten.
 
 ### Chapter 3
 
@@ -63978,9 +63978,9 @@
 
 **[3:5]** De overwinnaar zal aldus in witte kleederen gekleed worden, en Ik zal zijn naam geenszins uitwisschen uit het boek des levens, en Ik zal zijn naam belijden voor het aangezicht mijns Vaders en voor het aangezicht zijner engelen.
 
-**[3:6]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten. 
+**[3:6]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten.
 
-**[3:7]**  En schrijf aan den engel der gemeente die in Filadelfia is: Dit zegt de Heilige, de Waarachtige, die den sleutel Davids heeft, die opendoet en niemand zal sluiten, en die sluit en niemand doet open.
+**[3:7]** En schrijf aan den engel der gemeente die in Filadelfia is: Dit zegt de Heilige, de Waarachtige, die den sleutel Davids heeft, die opendoet en niemand zal sluiten, en die sluit en niemand doet open.
 
 **[3:8]** Ik weet uw werken; zie, Ik heb voor uw aangezicht een geopende deur gegeven, die niemand kan sluiten; want gij hebt kleine kracht, en gij hebt mijn woord bewaard, en mijn Naam niet verloochend.
 
@@ -63992,9 +63992,9 @@
 
 **[3:12]** Den overwinnaar zal Ik maken tot een pilaar in den tempel mijns Gods, en hij zal daar geenszins meer uitgaan: en Ik zal op hem schrijven den Naam mijns Gods, en den naam van de stad mijns Gods, van het nieuwe Jerusalem, dat nederdalende is uit den hemel van mijn God, en. ook mijn nieuwen Naam.
 
-**[3:13]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten. 
+**[3:13]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten.
 
-**[3:14]**  En schrijf aan den engel der gemeente die in Laodicea is: Dit zegt de Amen, de getrouwe en waarachtige Getuige, het Begin der schepping Gods:
+**[3:14]** En schrijf aan den engel der gemeente die in Laodicea is: Dit zegt de Amen, de getrouwe en waarachtige Getuige, het Begin der schepping Gods:
 
 **[3:15]** Ik weet uw werken, dat gij noch koud zijt noch heet. Och, dat gij koud waart of heet!
 
@@ -64010,7 +64010,7 @@
 
 **[3:21]** Den overwinnaar, hem zal Ik geven te zitten met Mij in mijn troon, zooals Ik ook, heb overwonnen en gezeten ben met mijn Vader in zijn troon.
 
-**[3:22]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten.  
+**[3:22]** Die een oor heeft, hij hoore wat de Geest zegt tot de gemeenten.
 
 ### Chapter 4
 
@@ -64018,9 +64018,9 @@
 
 **[4:2]** Terstond werd ik in den geest, en zie er was een troon gezet in den hemel, en Een zat er op den troon.
 
-**[4:3]** En die daar zat was gelijk aan een jaspis–steen, en een sardins, en er was een regenboog rond den troon, gelijk aan een smaragd. 
+**[4:3]** En die daar zat was gelijk aan een jaspis–steen, en een sardins, en er was een regenboog rond den troon, gelijk aan een smaragd.
 
-**[4:4]**  En rond den troon zag ik vier en twintig troonen, en op de troonen vier en twintig ouderlingen gezeten, gekleed in witte kleederen, en op hun hoofden gouden kroonen.
+**[4:4]** En rond den troon zag ik vier en twintig troonen, en op de troonen vier en twintig ouderlingen gezeten, gekleed in witte kleederen, en op hun hoofden gouden kroonen.
 
 **[4:5]** En uit den troon gingen bliksemen, en stemmen, en donderslagen. En zeven fakkels van vuur waren brandende vóór den troon; die zijn de zeven Geesten Gods.
 
@@ -64034,7 +64034,7 @@
 
 **[4:10]** dan zullen de vier en twintig ouderlingen nedervallen vóór dengene die op den troon zit, en zullen aanbidden den Levende tot in alle eeuwigheid, en zullen hun kroonen nederwerpen voor het aangezicht van den troon, zeggende:
 
-**[4:11]** Waardig zijt Gij, onze Heer en God! om te aanvaarden de glorie, en de eere, en de kracht; want Gij hebt alle dingen geschapen, en door uw wil bestaan zij en zijn zij geschapen.  
+**[4:11]** Waardig zijt Gij, onze Heer en God! om te aanvaarden de glorie, en de eere, en de kracht; want Gij hebt alle dingen geschapen, en door uw wil bestaan zij en zijn zij geschapen.
 
 ### Chapter 5
 
@@ -64046,13 +64046,13 @@
 
 **[5:4]** En ik weende zeer, omdat niemand waardig bevonden was om het boek open te doen of het in te zien.
 
-**[5:5]** En een uit de ouderlingen zeide tot mij: ween niet! zie, de Leeuw die uit den stam van Juda is, de Spruite Davids, heeft overwonnen, om het boek open te doen en zijn zeven zegelen. 
+**[5:5]** En een uit de ouderlingen zeide tot mij: ween niet! zie, de Leeuw die uit den stam van Juda is, de Spruite Davids, heeft overwonnen, om het boek open te doen en zijn zeven zegelen.
 
-**[5:6]**  En ik zag in het midden des troons en der vier levende wezens, en in het midden der ouderlingen, een Lam staan als geslacht, dat zeven hoornen had en zeven oogen; deze zijn de zeven Geesten Gods, die zijn uitgezonden tot de geheele aarde.
+**[5:6]** En ik zag in het midden des troons en der vier levende wezens, en in het midden der ouderlingen, een Lam staan als geslacht, dat zeven hoornen had en zeven oogen; deze zijn de zeven Geesten Gods, die zijn uitgezonden tot de geheele aarde.
 
-**[5:7]** En het kwam en nam het boek uit de rechterhand van Hem die op den troon zat. 
+**[5:7]** En het kwam en nam het boek uit de rechterhand van Hem die op den troon zat.
 
-**[5:8]**  En als het dat boek genomen had, vielen de vier levende wezens en de vier en twintig ouderlingen voor het aangezicht van het Lam, hebbende ieder een harp en gouden schalen, vol van reukwerk, dat zijn de gebeden der heiligen.
+**[5:8]** En als het dat boek genomen had, vielen de vier levende wezens en de vier en twintig ouderlingen voor het aangezicht van het Lam, hebbende ieder een harp en gouden schalen, vol van reukwerk, dat zijn de gebeden der heiligen.
 
 **[5:9]** En zij zongen een nieuw lied, zeggende: Gij zijt waardig om het boek te nemen en zijn zegelen open te doen, want Gij zijt geslacht en hebt Gode gekocht door uw bloed, menschen uit alle geslacht en taal en volk en natie,
 
@@ -64064,33 +64064,33 @@
 
 **[5:13]** En alle schepsel dat in den hemel is, en op de aarde, en onder de aarde, en op de zee, en al wat daarin is, hoorde ik ook zeggen: aan Hem die op den troon zit, en aan het Lam, zij de dankzegging, en de eerbied, en de glorie, en de heerschappij, tot in alle eeuwigheid!
 
-**[5:14]** En de vier levende wezens zeiden: Amen! En de ouderlingen vielen neder en aanbaden.  
+**[5:14]** En de vier levende wezens zeiden: Amen! En de ouderlingen vielen neder en aanbaden.
 
 ### Chapter 6
 
 **[6:1]** En ik zag dat het Lam een uit de zeven zegelen opendeed, en ik hoorde een uit de vier levende wezens spreken als met een donderstem: Kom en zie!
 
-**[6:2]** En ik zag en zie, een wit paard, en die daarop zat had een boog; en hem werd een kroon gegeven, en hij ging uit als overwinnaar en om te overwinnen. 
+**[6:2]** En ik zag en zie, een wit paard, en die daarop zat had een boog; en hem werd een kroon gegeven, en hij ging uit als overwinnaar en om te overwinnen.
 
-**[6:3]**  En als het Lam het tweede zegel opendeed, hoorde ik het tweede levende wezen zeggen Kom en zie!
+**[6:3]** En als het Lam het tweede zegel opendeed, hoorde ik het tweede levende wezen zeggen Kom en zie!
 
-**[6:4]** En er kwam een ander paard uit dat rossig was; en aan dengene die daarop zat werd de macht gegeven om den vrede van de aarde te nemen en opdat zij elkander zouden dooden, en aan hem werd een groot zwaard gegeven. 
+**[6:4]** En er kwam een ander paard uit dat rossig was; en aan dengene die daarop zat werd de macht gegeven om den vrede van de aarde te nemen en opdat zij elkander zouden dooden, en aan hem werd een groot zwaard gegeven.
 
-**[6:5]**  En als het Lam het derde zegel opendeed, hoorde ik het derde levende wezen zeggen: Kom en zie! En ik zag en zie, een zwart paard, en die daarop zat had een weegschaal in de hand.
+**[6:5]** En als het Lam het derde zegel opendeed, hoorde ik het derde levende wezen zeggen: Kom en zie! En ik zag en zie, een zwart paard, en die daarop zat had een weegschaal in de hand.
 
-**[6:6]** En ik hoorde als een stem in het midden der vier levende wezens, die zeide: een maatje tarwe voor een penning, en drie maatjes gerst voor een penning; en de olie en den wijn moogt gij niet beschadigen! 
+**[6:6]** En ik hoorde als een stem in het midden der vier levende wezens, die zeide: een maatje tarwe voor een penning, en drie maatjes gerst voor een penning; en de olie en den wijn moogt gij niet beschadigen!
 
-**[6:7]**  En als het Lam het vierde zegel opendeed, hoorde ik de stem van het vierde levende wezen zeggen: Kom en zie!
+**[6:7]** En als het Lam het vierde zegel opendeed, hoorde ik de stem van het vierde levende wezen zeggen: Kom en zie!
 
-**[6:8]** En ik zag en zie, een vaal paard, en die daarop zat, zijn naam was de Dood, en het doodenrijk volgde met hem. En aan dezen werd macht gegeven over het vierde deel der aarde, om te dooden met het zwaard, en met den honger, en met den dood, en door de wilde beesten der aarde. 
+**[6:8]** En ik zag en zie, een vaal paard, en die daarop zat, zijn naam was de Dood, en het doodenrijk volgde met hem. En aan dezen werd macht gegeven over het vierde deel der aarde, om te dooden met het zwaard, en met den honger, en met den dood, en door de wilde beesten der aarde.
 
-**[6:9]**  En toen het Lam het vijfde zegel opendeed, zag ik beneden onder den altaar de zielen dergenen die gedood waren om het woord Gods en om de getuigenis die zij behielden,
+**[6:9]** En toen het Lam het vijfde zegel opendeed, zag ik beneden onder den altaar de zielen dergenen die gedood waren om het woord Gods en om de getuigenis die zij behielden,
 
 **[6:10]** en zij riepen met een groote stem, zeggende: Tot wanneer, o heilige en waarachtige Meester, oordeelt en wreekt Gij ons bloed niet, van degenen die op de aarde wonen?
 
-**[6:11]** En aan ieder van hen werd een wit overkleed gegeven, en hun werd gezegd dat zij nog een korten tijd rustig moesten zijn, totdat ook hun mededienaars en hun broeders, die zouden gedood worden zooals ook zij, den loop zouden vervuld hebben. 
+**[6:11]** En aan ieder van hen werd een wit overkleed gegeven, en hun werd gezegd dat zij nog een korten tijd rustig moesten zijn, totdat ook hun mededienaars en hun broeders, die zouden gedood worden zooals ook zij, den loop zouden vervuld hebben.
 
-**[6:12]**  En ik zag, toen het Lam het zesde zegel opendeed, en er werd een groote aardbeving; en de zon werd zwart als een haren zak, en de geheele maan werd als bloed,
+**[6:12]** En ik zag, toen het Lam het zesde zegel opendeed, en er werd een groote aardbeving; en de zon werd zwart als een haren zak, en de geheele maan werd als bloed,
 
 **[6:13]** en de sterren des hemels vielen op de aarde, zooals een vijgeboom die zijn onrijpe vijgen afwerpt als hij door een sterken wind geschud wordt;
 
@@ -64100,17 +64100,17 @@
 
 **[6:16]** en zeiden tot de bergen en tot de rotsen: valt op ons en verbergt ons van het aangezicht van Hem die op den troon zit en van de gramschap des Lams!
 
-**[6:17]** Want de groote dag hunner gramschap is gekomen, en wie kan bestaan?  
+**[6:17]** Want de groote dag hunner gramschap is gekomen, en wie kan bestaan?
 
 ### Chapter 7
 
-**[7:1]** En daarna zag ik vier engelen staan aan de vier hoeken der aarde, die de vier winden der aarde terug hielden, opdat er geen wind zou waaien op de aarde, noch op de zee, noch op eenigen boom. 
+**[7:1]** En daarna zag ik vier engelen staan aan de vier hoeken der aarde, die de vier winden der aarde terug hielden, opdat er geen wind zou waaien op de aarde, noch op de zee, noch op eenigen boom.
 
-**[7:2]**  En ik zag een anderen engel opkomen van den opgang der zon, die het zegel van den levenden God had, en hij riep met een groote stem tot de vier engelen aan wie de macht gegeven was om de aarde en de zee te beschadigen,
+**[7:2]** En ik zag een anderen engel opkomen van den opgang der zon, die het zegel van den levenden God had, en hij riep met een groote stem tot de vier engelen aan wie de macht gegeven was om de aarde en de zee te beschadigen,
 
-**[7:3]** zeggende: beschadigt de aarde niet, noch de zee, noch de boomen, totdat wij de dienaren van onzen God zullen verzegeld hebben op hun voorhoofden! 
+**[7:3]** zeggende: beschadigt de aarde niet, noch de zee, noch de boomen, totdat wij de dienaren van onzen God zullen verzegeld hebben op hun voorhoofden!
 
-**[7:4]**  En ik hoorde het getal der verzegelden: honderd vier en veertig duizend, verzegelden uit elken stam der zonen Israels.
+**[7:4]** En ik hoorde het getal der verzegelden: honderd vier en veertig duizend, verzegelden uit elken stam der zonen Israels.
 
 **[7:5]** Uit den stam van Juda twaalf duizend verzegelden; uit den stam van Ruben twaalf duizend; uit den stam van Gad twaalf duizend;
 
@@ -64118,17 +64118,17 @@
 
 **[7:7]** uit den stam van Simeon twaalf duizend; uit den stam van Levi twaalf duizend; uit den stam van Issaschar twaalf duizend;
 
-**[7:8]** uit den stam van Zebulon twaalf duizend; uit den stam van Jozef twaalf duizend; uit den stam van Benjamin twaalf duizend verzegelden. 
+**[7:8]** uit den stam van Zebulon twaalf duizend; uit den stam van Jozef twaalf duizend; uit den stam van Benjamin twaalf duizend verzegelden.
 
-**[7:9]**  Na dezen zag ik, en ziet, een groote menigte, die niemand tellen kon, uit alle volk, en stammen, en natiën en talen, staande voor den troon en voor het Lam, gekleed in witte overkleederen, en palmtakken waren in hun handen.
+**[7:9]** Na dezen zag ik, en ziet, een groote menigte, die niemand tellen kon, uit alle volk, en stammen, en natiën en talen, staande voor den troon en voor het Lam, gekleed in witte overkleederen, en palmtakken waren in hun handen.
 
 **[7:10]** En zij riepen met een groote stem, zeggende: de verlossing zij onzen Gode die op den troon zit, en het Lam!
 
 **[7:11]** En al de engelen stonden rond den troon en rond de ouderlingen en de vier levende wezens, en zij vielen voor den troon op hun aangezichten en aanbaden God,
 
-**[7:12]** zeggende: Amen! De lofzegging, en de glorie, en de wijsheid, en de dankzeging, en de eerbied, en de macht, en de sterkte, zij onzen God tot in alle eeuwigheid! Amen. 
+**[7:12]** zeggende: Amen! De lofzegging, en de glorie, en de wijsheid, en de dankzeging, en de eerbied, en de macht, en de sterkte, zij onzen God tot in alle eeuwigheid! Amen.
 
-**[7:13]**  En een uit de ouderlingen antwoordde en zeide tot mij: dezen, die gekleed zijn in de witte kleederen, wie zijn ze, en vanwaar zijn ze gekomen?
+**[7:13]** En een uit de ouderlingen antwoordde en zeide tot mij: dezen, die gekleed zijn in de witte kleederen, wie zijn ze, en vanwaar zijn ze gekomen?
 
 **[7:14]** En ik zeide tot hem: heer, gij weet het! En hij zeide tot mij: dezen zijn het, die uit de groote verdrukking komen, en zij hebben hun overkleederen gewasschen, en die wit gemaakt in het bloed des Lams.
 
@@ -64136,35 +64136,35 @@
 
 **[7:16]** Zij zullen geen honger meer hebben noch dorst meer hebben, en ook zal op hen de zon niet vallen noch eenige hitte,
 
-**[7:17]** want het Lam, dat in het midden van den troon is, zal hen weiden en zal hen leiden langs fonteinen van wateren des levens; en God zal iederen traan van hun oogen afwisschen.  
+**[7:17]** want het Lam, dat in het midden van den troon is, zal hen weiden en zal hen leiden langs fonteinen van wateren des levens; en God zal iederen traan van hun oogen afwisschen.
 
 ### Chapter 8
 
-**[8:1]** En toen het Lam het zevende zegel opendeed, ontstond er een stilte in den hemel, van omtrent een half uur. 
+**[8:1]** En toen het Lam het zevende zegel opendeed, ontstond er een stilte in den hemel, van omtrent een half uur.
 
-**[8:2]**  En ik zag de zeven engelen die voor Gods aangezicht staan, en aan hen werden zeven trompetten gegeven. 
+**[8:2]** En ik zag de zeven engelen die voor Gods aangezicht staan, en aan hen werden zeven trompetten gegeven.
 
-**[8:3]**  En een ander engel kwam en stond hij den altaar, hebbende een gouden wierookvat; en aan hem werd veel reukwerk gegeven, opdat hij dit met de gebeden van alle heiligen zou leggen op den gouden altaar die voor het aangezicht van den troon was.
+**[8:3]** En een ander engel kwam en stond hij den altaar, hebbende een gouden wierookvat; en aan hem werd veel reukwerk gegeven, opdat hij dit met de gebeden van alle heiligen zou leggen op den gouden altaar die voor het aangezicht van den troon was.
 
 **[8:4]** En de rook van het reukwerk klom op met de gebeden der heiligen, uit de hand des engels, voor Gods aangezicht.
 
-**[8:5]** En de engel nam het wierookvat, en vulde dat van het vuur des altaars, en wierp het naar de aarde; en er geschiedden donderslagen en stemmen, en bliksemen, en aardbeving. 
+**[8:5]** En de engel nam het wierookvat, en vulde dat van het vuur des altaars, en wierp het naar de aarde; en er geschiedden donderslagen en stemmen, en bliksemen, en aardbeving.
 
-**[8:6]**  En de zeven engelen, die de zeven trompetten hadden, maakten zich gereed om te trompetten.
+**[8:6]** En de zeven engelen, die de zeven trompetten hadden, maakten zich gereed om te trompetten.
 
-**[8:7]** En de eerste engel heeft getrompet; en er ontstond hagel en vuur, gemengd met bloed, en het werd naar de aarde geworpen; en het derde deel der aarde is verbrand, en het derde deel der boomen is verbrand, en al het groene kruid is verbrand. 
+**[8:7]** En de eerste engel heeft getrompet; en er ontstond hagel en vuur, gemengd met bloed, en het werd naar de aarde geworpen; en het derde deel der aarde is verbrand, en het derde deel der boomen is verbrand, en al het groene kruid is verbrand.
 
-**[8:8]**  En de tweede engel heeft getrompet; en er werd als een groote berg brandende van vuur in de zee geworpen; en het derde deel der zee werd bloed,
+**[8:8]** En de tweede engel heeft getrompet; en er werd als een groote berg brandende van vuur in de zee geworpen; en het derde deel der zee werd bloed,
 
-**[8:9]** en het derde deel der schepselen, die leven hebben in de zee, stierven, en het derde deel der schepen is vergaan. 
+**[8:9]** en het derde deel der schepselen, die leven hebben in de zee, stierven, en het derde deel der schepen is vergaan.
 
-**[8:10]**  En de derde engel heeft getrompet; en er viel uit den hemel een groote ster, brandende als een fakkel, en zij viel op het derde deel der rivieren en op de fonteinen der wateren.
+**[8:10]** En de derde engel heeft getrompet; en er viel uit den hemel een groote ster, brandende als een fakkel, en zij viel op het derde deel der rivieren en op de fonteinen der wateren.
 
-**[8:11]** En de naam der ster wordt genoemd Alsem; en het derde deel der wateren werd tot alsem, en velen van de menschen stierven door de wateren, omdat zij bitter geworden waren. 
+**[8:11]** En de naam der ster wordt genoemd Alsem; en het derde deel der wateren werd tot alsem, en velen van de menschen stierven door de wateren, omdat zij bitter geworden waren.
 
-**[8:12]**  En de vierde engel heeft getrompet; en het derde deel der zon werd geslagen, en het derde deel der maan, en het derde deel der sterren, opdat het derde deel van dezen zou verduisterd zijn, en dat het derde deel van den dag niet zou schijnen, en de nacht evenzoo.
+**[8:12]** En de vierde engel heeft getrompet; en het derde deel der zon werd geslagen, en het derde deel der maan, en het derde deel der sterren, opdat het derde deel van dezen zou verduisterd zijn, en dat het derde deel van den dag niet zou schijnen, en de nacht evenzoo.
 
-**[8:13]** En ik zag en ik hoorde een arend vliegen door het midden des hemels, zeggende met een groote stem: wee, wee, wee, dengenen die op de aarde wonen vanwege de overige trompetstemmen van de drie engelen die nog zullen trompetten!  
+**[8:13]** En ik zag en ik hoorde een arend vliegen door het midden des hemels, zeggende met een groote stem: wee, wee, wee, dengenen die op de aarde wonen vanwege de overige trompetstemmen van de drie engelen die nog zullen trompetten!
 
 ### Chapter 9
 
@@ -64190,9 +64190,9 @@
 
 **[9:11]** Zij hadden tot hun koning den engel des afgronds, wiens naam in het Hebreeuwsch is Abaddon, en in het Grieksch is zijn naam Apollyon.
 
-**[9:12]** Het eene wee is voorbij; ziet, er komen nog twee weeën na dezen! 
+**[9:12]** Het eene wee is voorbij; ziet, er komen nog twee weeën na dezen!
 
-**[9:13]**  En de zesde engel heeft getrompet; en ik hoorde een stem uit de vier hoornen van den gouden altaar die voor Gods aangezicht is,
+**[9:13]** En de zesde engel heeft getrompet; en ik hoorde een stem uit de vier hoornen van den gouden altaar die voor Gods aangezicht is,
 
 **[9:14]** zeggende tot den zesden engel, die de trompet hield: maak de vier engelen los, die gebonden zijn bij de groote rivier den Eufraat!
 
@@ -64208,7 +64208,7 @@
 
 **[9:20]** En de overigen van de menschen, die niet gedood waren in deze plagen, hebben geen boetvaardigheid gedaan over de werken hunner handen, opdat zij niet zouden nederbuigen voor de booze geesten, en de afgoden van goud en van zilver en van koper en van steen en van hout, die noch zien kunnen, noch hooren, noch gaan.
 
-**[9:21]** En zij hebben geen boetvaardigheid gedaan over hun doodslagen, noch over hun tooverijen, noch over hun hoererijen, noch over hun diefstallen.  
+**[9:21]** En zij hebben geen boetvaardigheid gedaan over hun doodslagen, noch over hun tooverijen, noch over hun hoererijen, noch over hun diefstallen.
 
 ### Chapter 10
 
@@ -64232,7 +64232,7 @@
 
 **[10:10]** En ik nam het boeksken uit de hand des engels en ik at het op. En het was in mijn mond als honig zoo zoet, en als ik het opgegeten had werd mijn ingewand bitter.
 
-**[10:11]** En hij zeide tot mij: gij zult wederom moeten profeteeren over vele volken, en natiën, en talen, en koningen.  
+**[10:11]** En hij zeide tot mij: gij zult wederom moeten profeteeren over vele volken, en natiën, en talen, en koningen.
 
 ### Chapter 11
 
@@ -64262,9 +64262,9 @@
 
 **[11:13]** En in die zelfde ure geschiedde er een groote aardbeving; en het tiende deel der stad viel omver, en in die aardbeving stierven er zeven duizend namen van menschen; en de overigen werden bevreesd en gaven glorie aan den God des hemels.
 
-**[11:14]** Het tweede wee is voor bij; ziet, het derde wee komt haastig! 
+**[11:14]** Het tweede wee is voor bij; ziet, het derde wee komt haastig!
 
-**[11:15]**  En de zevende engel heeft getrompet; en er geschiedden groote stemmen in den hemel, zeggende: het koninkrijk der wereld is geworden van onzen Heere en van zijn Christus, en Hij zal heerschen tot in alle eeuwigheid!
+**[11:15]** En de zevende engel heeft getrompet; en er geschiedden groote stemmen in den hemel, zeggende: het koninkrijk der wereld is geworden van onzen Heere en van zijn Christus, en Hij zal heerschen tot in alle eeuwigheid!
 
 **[11:16]** En de vier en twintig ouderlingen, die voor Gods aangezicht zijn, zittende op hun troonen, vielen op hun aangezichten en aanbaden God,
 
@@ -64272,7 +64272,7 @@
 
 **[11:18]** en de volken waren toornig geworden, en uw gramschap is gekomen, en de tijd der dooden om geoordeeld te worden en om den loon te geven aan uw dienaren de profeten, en aan de heiligen, en aan degenen die uw Naam vreezen, aan de kleinen en de grooten, en om te verderven degenen die de aarde verdierven!
 
-**[11:19]** En de tempel Gods die in den hemel is werd opengedaan, en de ark zijns verbonds werd gezien in zijn tempel, en er geschiedden bliksemen, en stemmen, en donderslagen, en een aardbeving, en een groote hagel.  
+**[11:19]** En de tempel Gods die in den hemel is werd opengedaan, en de ark zijns verbonds werd gezien in zijn tempel, en er geschiedden bliksemen, en stemmen, en donderslagen, en een aardbeving, en een groote hagel.
 
 ### Chapter 12
 
@@ -64286,31 +64286,31 @@
 
 **[12:5]** En zij baarde een mannelijken zoon, die al de volken zou hoeden met een ijzeren roede. En haar kind werd weggerukt tot God en tot zijn troon.
 
-**[12:6]** En de vrouw vluchtte naar de woestijn, alwaar zij een plaats had van God toebereid, opdat zij daar haar voeden zouden, duizend twee honderd en zestig dagen. 
+**[12:6]** En de vrouw vluchtte naar de woestijn, alwaar zij een plaats had van God toebereid, opdat zij daar haar voeden zouden, duizend twee honderd en zestig dagen.
 
-**[12:7]**  En er ontstond een oorlog in den hemel; Michael en zijn engelen voerden oorlog met den draak. En de draak voerde ook oorlog en zijn engelen;
+**[12:7]** En er ontstond een oorlog in den hemel; Michael en zijn engelen voerden oorlog met den draak. En de draak voerde ook oorlog en zijn engelen;
 
 **[12:8]** en zij konden er niet tegen op, en hun plaats werd niet meer gevonden in den hemel.
 
-**[12:9]** En de groote draak, de oude slang, die genoemd wordt duivel en Satanas, die de geheele wereld verleidt, is geworpen: hij is geworpen op de aarde en zijn engelen zijn met hem geworpen. 
+**[12:9]** En de groote draak, de oude slang, die genoemd wordt duivel en Satanas, die de geheele wereld verleidt, is geworpen: hij is geworpen op de aarde en zijn engelen zijn met hem geworpen.
 
-**[12:10]**  En ik hoorde een groote stem in den hemel zeggen: nu is de verlossing, en de kracht, en het koninkrijk van onzen God en de macht van zijn Christus want de aanklager van onze broeders, die hen dag en nacht voor Gods aangezicht aanklaagde, is nedergeworpen.
+**[12:10]** En ik hoorde een groote stem in den hemel zeggen: nu is de verlossing, en de kracht, en het koninkrijk van onzen God en de macht van zijn Christus want de aanklager van onze broeders, die hen dag en nacht voor Gods aangezicht aanklaagde, is nedergeworpen.
 
 **[12:11]** En zij hebben hem overwonnen door het bloed van het Lam en door het woord hunner getuigenis, en zij hebben hun leven niet liefgehad tot den dood toe.
 
-**[12:12]** Daarom verblijdt u, o hemelen en die daarin woont! Wee de aarde en de zee, want de duivel is tot u afgekomen, hebbende een groote gramschap, wetende dat hij maar korten tijd heeft! 
+**[12:12]** Daarom verblijdt u, o hemelen en die daarin woont! Wee de aarde en de zee, want de duivel is tot u afgekomen, hebbende een groote gramschap, wetende dat hij maar korten tijd heeft!
 
-**[12:13]**  En toen de draak zag dat hij naar de aarde geworpen was, vervolgde hij de vrouw die den mannelijken zoon gebaard had.
+**[12:13]** En toen de draak zag dat hij naar de aarde geworpen was, vervolgde hij de vrouw die den mannelijken zoon gebaard had.
 
 **[12:14]** En aan de vrouw zijn de twee vleugelen van den grooten arend gegeven, opdat zij vliegen zou naar de woestijn, naar haar plaats, alwaar zij gevoed wordt een tijd, en tijden, en een halven tijd, van voor het aangezicht der slang.
 
 **[12:15]** En de slang wierp uit haar mond achter de vrouw water als een rivier, om haar door de rivier te doen wegvoeren.
 
-**[12:16]** En de aarde kwam de vrouw te hulp, en de aarde opende haar mond en verzwolg de rivier die de draak uit zijn muil geworpen had. 
+**[12:16]** En de aarde kwam de vrouw te hulp, en de aarde opende haar mond en verzwolg de rivier die de draak uit zijn muil geworpen had.
 
-**[12:17]**  En de draak werd vol gramschap tegen de vrouw, en hij ging om oorlog te voeren met de anderen van haar nakomelingen, die de geboden Gods bewaren en de getuigenis van Jezus hebben.
+**[12:17]** En de draak werd vol gramschap tegen de vrouw, en hij ging om oorlog te voeren met de anderen van haar nakomelingen, die de geboden Gods bewaren en de getuigenis van Jezus hebben.
 
-**[12:18]** En hij ging staan bij den oever der zee,  
+**[12:18]** En hij ging staan bij den oever der zee,
 
 ### Chapter 13
 
@@ -64332,9 +64332,9 @@
 
 **[13:9]** Als iemand een oor heeft, dat hij hoore!
 
-**[13:10]** Als iemand naar de gevangenis leidt, die gaat naar de gevangenis; als iemand met het zwaard zal dooden, die moet zelf met het zwaard gedood worden. Hier is de volharding en het geloof der heiligen. 
+**[13:10]** Als iemand naar de gevangenis leidt, die gaat naar de gevangenis; als iemand met het zwaard zal dooden, die moet zelf met het zwaard gedood worden. Hier is de volharding en het geloof der heiligen.
 
-**[13:11]**  En ik zag een ander beest opkomen uit de aarde en het had twee hoornen, gelijk aan een lam en het sprak als een draak.
+**[13:11]** En ik zag een ander beest opkomen uit de aarde en het had twee hoornen, gelijk aan een lam en het sprak als een draak.
 
 **[13:12]** En het oefent al de macht uit van het eerste beest voor zijn aangezicht, en het maakt dat de aarde en degenen die er op wonen zich nederbuigen voor het eerste beest, welks doodelijke wonde genezen was.
 
@@ -64348,7 +64348,7 @@
 
 **[13:17]** en dat niemand kan koopen of verkoopen dan alleen die het merkteeken, den naam van het beest heeft, of het getal van zijn naam.
 
-**[13:18]** Hier is de wijsheid. Die verstand heeft berekene het getal van het beest; want het is een getal van een mensch. En zijn getal is 666.  
+**[13:18]** Hier is de wijsheid. Die verstand heeft berekene het getal van het beest; want het is een getal van een mensch. En zijn getal is 666.
 
 ### Chapter 14
 
@@ -64360,25 +64360,25 @@
 
 **[14:4]** Dezen zijn het die met vrouwen niet bevlekt zijn, want zij zijn maagden. Dezen zijn zij, die het Lam volgen waar het ook heengaat. Dezen zijn gekocht van uit de menschen, een eersteling voor God en het Lam.
 
-**[14:5]** En in hun mond is geen leugen gevonden, want zij zijn onberispelijk. 
+**[14:5]** En in hun mond is geen leugen gevonden, want zij zijn onberispelijk.
 
-**[14:6]**  En ik zag een anderen engel, vliegende door het midden des hemels, hebbende het eeuwig Evangelie, om te verkondigen onder degenen die op de aarde wonen, en onder alle natie, en stam, en taal, en volk,
+**[14:6]** En ik zag een anderen engel, vliegende door het midden des hemels, hebbende het eeuwig Evangelie, om te verkondigen onder degenen die op de aarde wonen, en onder alle natie, en stam, en taal, en volk,
 
-**[14:7]** zeggende met een groote stem: vreest God en geeft Hem glorie, want de ure zijns oordeels is gekomen, en buigt u neder voor Hem die gemaakt heeft, den hemel, en de aarde, en de zee, en de fonteinen der wateren! 
+**[14:7]** zeggende met een groote stem: vreest God en geeft Hem glorie, want de ure zijns oordeels is gekomen, en buigt u neder voor Hem die gemaakt heeft, den hemel, en de aarde, en de zee, en de fonteinen der wateren!
 
-**[14:8]**  En een ander, een tweede engel, is gevolgd, die zeide: Gevallen, gevallen, is het groote Babylon! dat van den wijn der gramschap zijner hoererij al de volken heeft dronken gemaakt! 
+**[14:8]** En een ander, een tweede engel, is gevolgd, die zeide: Gevallen, gevallen, is het groote Babylon! dat van den wijn der gramschap zijner hoererij al de volken heeft dronken gemaakt!
 
-**[14:9]**  En een ander, een derde engel, is hen gevolgd, zeggende met een groote stem: als iemand nederbuigt voor het beest en zijn beeld, en het merkteeken ontvangt op zijn voorhoofd of op zijn hand,
+**[14:9]** En een ander, een derde engel, is hen gevolgd, zeggende met een groote stem: als iemand nederbuigt voor het beest en zijn beeld, en het merkteeken ontvangt op zijn voorhoofd of op zijn hand,
 
 **[14:10]** die zal ook zelf drinken van den wijn der gramschap Gods, die ongemengd is ingeschonken in den beker zijns toorns; en hij zal gepijnigd worden met vuur en sulfer, voor het aangezicht der heilige engelen en voor het aangezicht des Lams!
 
 **[14:11]** En de rook hunner pijniging klimt op tot in alle eeuwigheid, en zij hebben geen rust dag en nacht die voor het beest en voor zijn beeld nederknielen, en als iemand het merkteeken zijns naams ontvangt!
 
-**[14:12]** Hier is de volharding der heiligen, die de geboden Gods bewaren en het geloof van Jezus. 
+**[14:12]** Hier is de volharding der heiligen, die de geboden Gods bewaren en het geloof van Jezus.
 
-**[14:13]**  En ik hoorde een stem uit den hemel die zeide: Schrijf: zalig de dooden die in den Heere sterven! Van nu af zegt de Geest: ja zij zullen rusten van hun arbeid, want hun werken volgen met hen! 
+**[14:13]** En ik hoorde een stem uit den hemel die zeide: Schrijf: zalig de dooden die in den Heere sterven! Van nu af zegt de Geest: ja zij zullen rusten van hun arbeid, want hun werken volgen met hen!
 
-**[14:14]**  En ik zag, en ziet, een witte wolk, en op de wolk een gezeten, gelijk aan een zoon des menschen, hebbende op zijn hoofd een kroon van goud en in zijn hand een scherpe zeisen.
+**[14:14]** En ik zag, en ziet, een witte wolk, en op de wolk een gezeten, gelijk aan een zoon des menschen, hebbende op zijn hoofd een kroon van goud en in zijn hand een scherpe zeisen.
 
 **[14:15]** En een ander engel kwam uit den tempel, roepende met een groote stem tot dengene die op de wolk zat: zend mij zeisen en maai! want de ure is gekomen om te maaien, omdat de oogst der aarde is rijp geworden!
 
@@ -64390,51 +64390,51 @@
 
 **[14:19]** En de engel zond zijn zeisen naar de aarde, en hij sneed den wijngaard der aarde, en wierp dien in de groote wijnpers der gramschap Gods.
 
-**[14:20]** En de wijnpers werd buiten de stad getreden, en er kwam bloed uit de wijnpers tot aan de toornen der paarden, duizend en zes honderd stadiën ver.  
+**[14:20]** En de wijnpers werd buiten de stad getreden, en er kwam bloed uit de wijnpers tot aan de toornen der paarden, duizend en zes honderd stadiën ver.
 
 ### Chapter 15
 
-**[15:1]** En ik zag een ander groot en wonderlijk teeken in den hemel: zeven engelen, die de zeven laatste plagen hadden, want in deze is de gramschap Gods volkomen. 
+**[15:1]** En ik zag een ander groot en wonderlijk teeken in den hemel: zeven engelen, die de zeven laatste plagen hadden, want in deze is de gramschap Gods volkomen.
 
-**[15:2]**  En ik zag als een zee van glas, vermengd met vuur, en degenen die als overwinnaars komen van het beest, en van zijn beeld, en aan het getal zijns naams, staande bij de zee van glas, hebbende citers van God.
+**[15:2]** En ik zag als een zee van glas, vermengd met vuur, en degenen die als overwinnaars komen van het beest, en van zijn beeld, en aan het getal zijns naams, staande bij de zee van glas, hebbende citers van God.
 
 **[15:3]** En zij zongen het lied van Mozes, den dienstknecht Gods, en het lied des Lams, zeggende: Groot en wonderbaar zijn uw werken, o Heere God de Almachtige! rechtvaardig en waarachtig zijn van wegen, o Koning der eeuwen!
 
-**[15:4]** Wie zal, o Heere, uw Naam niet vreezen en glorie geven? Want Gij alleen zijt heilig! Want al de volken zullen komen en zich voor uw aangezicht nederbuigen, omdat uw oordeelen openbaar geworden zijn! 
+**[15:4]** Wie zal, o Heere, uw Naam niet vreezen en glorie geven? Want Gij alleen zijt heilig! Want al de volken zullen komen en zich voor uw aangezicht nederbuigen, omdat uw oordeelen openbaar geworden zijn!
 
-**[15:5]**  En daarna zag ik en ziet, de tempel des tabernakels der getuigenis in den hemel was geopend.
+**[15:5]** En daarna zag ik en ziet, de tempel des tabernakels der getuigenis in den hemel was geopend.
 
 **[15:6]** En de engelen, die de zeven plagen hadden, kwamen uit den tempel, bekleed met zuiver blinkend lijmvaad, en omgord aan de borsten met gouden gordels.
 
-**[15:7]** En een uit de vier levende wezens gaf aan de zeven engelen zeven schalen van goud, gevuld met de gramschap Gods, die leeft tot in alle eeuwigheid. 
+**[15:7]** En een uit de vier levende wezens gaf aan de zeven engelen zeven schalen van goud, gevuld met de gramschap Gods, die leeft tot in alle eeuwigheid.
 
-**[15:8]**  En de tempel werd vervuld met rook uit de glorie Gods en uit zijn kracht, en niemand kon in den tempel ingaan, totdat de zeven plagen der zeven engelen vervuld zouden zijn.  
+**[15:8]** En de tempel werd vervuld met rook uit de glorie Gods en uit zijn kracht, en niemand kon in den tempel ingaan, totdat de zeven plagen der zeven engelen vervuld zouden zijn.
 
 ### Chapter 16
 
 **[16:1]** En ik hoorde een groote stem uit den tempel, die sprak tot de zeven engelen: Gaat heen en giet de zeven schalen der gramschap Gods uit op de aarde!
 
-**[16:2]** En de eerste ging heen en goot zijn schaal uit over de aarde; en er kwam een kwaad en boosaardig gezweer over de menschen, die het merkteeken hadden van het beest, en die voor zijn beeld zich nederbogen. 
+**[16:2]** En de eerste ging heen en goot zijn schaal uit over de aarde; en er kwam een kwaad en boosaardig gezweer over de menschen, die het merkteeken hadden van het beest, en die voor zijn beeld zich nederbogen.
 
-**[16:3]**  En de tweede engel goot zijn schaal uit op de zee; en zij werd bloed als van een doode, en alle levende ziel stierf, die in de zee was 
+**[16:3]** En de tweede engel goot zijn schaal uit op de zee; en zij werd bloed als van een doode, en alle levende ziel stierf, die in de zee was
 
-**[16:4]**  En de derde engel goot zijn schaal uit op de rivieren, en op de fonteinen der wateren; en zij werden bloed.
+**[16:4]** En de derde engel goot zijn schaal uit op de rivieren, en op de fonteinen der wateren; en zij werden bloed.
 
 **[16:5]** En ik hoorde den engel der wateren zeggen: rechtvaardig zijt Gij, die zijt, en die waart, Gij Heilige! want Gij hebt dit geoordeeld!
 
 **[16:6]** Omdat zij het bloed der heiligen en der profeten vergoten hebben, zoo hebt Gij hun ook bloed te drinken gegeven; zij zijn het waardig!
 
-**[16:7]** En ik hoorde den altaar zeggen: ja, Heere God, de Almachtige! waarachtig en rechtvaardig zijn uw oordeelen! 
+**[16:7]** En ik hoorde den altaar zeggen: ja, Heere God, de Almachtige! waarachtig en rechtvaardig zijn uw oordeelen!
 
-**[16:8]**  En de vierde engel goot zijn schaal uit op de zon; en haar werd gegeven om de menschen door vuur te verhitten.
+**[16:8]** En de vierde engel goot zijn schaal uit op de zon; en haar werd gegeven om de menschen door vuur te verhitten.
 
-**[16:9]** En de menschen werden verhit met groote hitte, en zij lasterden den Naam van God die de macht heeft over die plagen, en zij deden geen boetvaardigheid om Hem glorie te geven. 
+**[16:9]** En de menschen werden verhit met groote hitte, en zij lasterden den Naam van God die de macht heeft over die plagen, en zij deden geen boetvaardigheid om Hem glorie te geven.
 
-**[16:10]**  En de vijfde engel goot zijn schaal uit over den troon van het beest; en zijn koninkrijk werd verduisterd, en zij kauwden hun tong vanwege de pijn,
+**[16:10]** En de vijfde engel goot zijn schaal uit over den troon van het beest; en zijn koninkrijk werd verduisterd, en zij kauwden hun tong vanwege de pijn,
 
-**[16:11]** en zij lasterden den God des hemels vanwege hun pijnen en vanwege hun gezweren, en zij deden geen boetvaardigheid vanwege hun werken. 
+**[16:11]** en zij lasterden den God des hemels vanwege hun pijnen en vanwege hun gezweren, en zij deden geen boetvaardigheid vanwege hun werken.
 
-**[16:12]**  En de zesde engel goot zijn schaal uit over de groote rivier, den Eufraat; en zijn water droogde uit, om den weg te banen der koningen van het Oosten.
+**[16:12]** En de zesde engel goot zijn schaal uit over de groote rivier, den Eufraat; en zijn water droogde uit, om den weg te banen der koningen van het Oosten.
 
 **[16:13]** En ik zag uit den muil van den draak, en uit den muil van het beest, en uit den muil van den schijnprofeet, drie onzuivere geesten uitkomen, als kikvorschen,
 
@@ -64442,9 +64442,9 @@
 
 **[16:15]** Ziet, Ik kom als een dief! Zalig die wakende is en zijn kleederen bewaart, opdat hij niet naakt wandele en men zijn schandelijkheid niet zie!
 
-**[16:16]** En zij vergaderden hen ter plaatse die in het Hebreeuwsch genoemd wordt: Armagedon. 
+**[16:16]** En zij vergaderden hen ter plaatse die in het Hebreeuwsch genoemd wordt: Armagedon.
 
-**[16:17]**  En de zevende engel goot zijn schaal uit over de lucht; en er kwam een groote stem uit den tempel, van den troon, die zeide: het is geschied!
+**[16:17]** En de zevende engel goot zijn schaal uit over de lucht; en er kwam een groote stem uit den tempel, van den troon, die zeide: het is geschied!
 
 **[16:18]** En er geschiedden bliksemen, en stemmen, en donderslagen, en er was een groote aardbeving, zooals er geen geweest is van dat de mensch op aarde is, een zoodanige aardbeving, zóó groot.
 
@@ -64452,7 +64452,7 @@
 
 **[16:20]** En alle eiland vluchtte weg, en er werden geen bergen meer gevonden.
 
-**[16:21]** En een groote hagel, als een talentpond zwaar, viel neder uit den hemel over de menschen; en de menschen lasterden God vanwege de plage des hagels, want de plage daarvan is zeer groot.  
+**[16:21]** En een groote hagel, als een talentpond zwaar, viel neder uit den hemel over de menschen; en de menschen lasterden God vanwege de plage des hagels, want de plage daarvan is zeer groot.
 
 ### Chapter 17
 
@@ -64460,15 +64460,15 @@
 
 **[17:2]** met wie de koningen der aarde hoererij bedreven hebben, en zij die de aarde bewonen zijn dronken geworden van den wijn harer hoererij.
 
-**[17:3]** En hij voerde mij weg in den geest naar een woestijn. En ik zag een vrouw zitten op een scharlaken rood beest, dat vol was van lasterlijke namen, en dat zeven koppen en tien hoornen had. 
+**[17:3]** En hij voerde mij weg in den geest naar een woestijn. En ik zag een vrouw zitten op een scharlaken rood beest, dat vol was van lasterlijke namen, en dat zeven koppen en tien hoornen had.
 
-**[17:4]**  En de vrouw was bekleed met purper en scharlaken, en versierd met goud en met kostelijk gesteente en met paarlen; en zij had in haar hand een drinkbeker van goud, die vol was van gruwelen en van de onzuiverheid harer hoererij;
+**[17:4]** En de vrouw was bekleed met purper en scharlaken, en versierd met goud en met kostelijk gesteente en met paarlen; en zij had in haar hand een drinkbeker van goud, die vol was van gruwelen en van de onzuiverheid harer hoererij;
 
 **[17:5]** en op haar voorhoofd had zij een naam geschreven: Verborgenheid, Babylon de groote, de moeder der hoererijen en der gruwelen der aarde.
 
-**[17:6]** En ik zag dat de vrouw dronken was van het bloed der heiligen en van het bloed der getuigen van Jezus. En als ik haar zag, stond ik verwonderd met groote verwondering. 
+**[17:6]** En ik zag dat de vrouw dronken was van het bloed der heiligen en van het bloed der getuigen van Jezus. En als ik haar zag, stond ik verwonderd met groote verwondering.
 
-**[17:7]**  En de engel zeide tot mij: waarom staat gij verwonderd? Ik zal u de geheimenis zeggen van de vrouw en van het beest dat haar draagt, dat de zeven koppen en de tien hoornen heeft.
+**[17:7]** En de engel zeide tot mij: waarom staat gij verwonderd? Ik zal u de geheimenis zeggen van de vrouw en van het beest dat haar draagt, dat de zeven koppen en de tien hoornen heeft.
 
 **[17:8]** Het beest, dat gij gezien hebt, was en is niet; en het zal opkomen uit den afgrond en ten verderve gaan, en degenen die op de aarde wonen, wier namen niet geschreven zijn op het boek des levens van de grondlegging der wereld, — die zullen verwonderd staan, als zij het beest zien, hoe het was en niet is en zal zijn.
 
@@ -64490,7 +64490,7 @@
 
 **[17:17]** Want God heeft in hun harten gegeven om zijn voornemen te doen, en om één zelfde voornemen te doen, en om hun koninkrijk aan het beest te geven, totdat de woorden Gods zullen vervuld zijn.
 
-**[17:18]** En de vrouw die gij gezien hebt is de groote stad die de regeering heeft over de koningen der aarde.  
+**[17:18]** En de vrouw die gij gezien hebt is de groote stad die de regeering heeft over de koningen der aarde.
 
 ### Chapter 18
 
@@ -64498,9 +64498,9 @@
 
 **[18:2]** En hij riep met een sterke stem zeggende: Gevallen, gevallen is Babylon de groote, en zij is geworden tot een woonplaats van booze geesten, en een schuilplaats van alle onzuivere geesten, en een schuilplaats van alle onzuiver en hatelijk gevogelte!
 
-**[18:3]** want van den wijn der gramschap harer hoererij hebben al de volken gedronken, en de koningen der aarde hebben met haar hoererij bedreven, en de kooplieden der aarde zijn rijk geworden uit de kracht van haar weelde. 
+**[18:3]** want van den wijn der gramschap harer hoererij hebben al de volken gedronken, en de koningen der aarde hebben met haar hoererij bedreven, en de kooplieden der aarde zijn rijk geworden uit de kracht van haar weelde.
 
-**[18:4]**  En ik hoorde een andere stem uit den hemel, zeggende: Gaat van haar uit, mijn volk! opdat gij geen deelgenootschap hebt aan haar zonden, en opdat gij niet ontvangt uit haar plagen;
+**[18:4]** En ik hoorde een andere stem uit den hemel, zeggende: Gaat van haar uit, mijn volk! opdat gij geen deelgenootschap hebt aan haar zonden, en opdat gij niet ontvangt uit haar plagen;
 
 **[18:5]** want haar zonden zijn opeen gestapeld tot aan den hemel, en God is haar onrechtvaardigheden gedachtig!
 
@@ -64508,9 +64508,9 @@
 
 **[18:7]** Zooveel als zij zich zelve glorie gegeven en in weelde geleefd heeft, doet haar zooveel pijn en rouw aan, want in haar hart zegt zij: als een koningin ben ik gezeten, en weduwe ben ik niet, en rouw zal ik in ‘t geheel niet zien!
 
-**[18:8]** Daarom zullen haar plagen in één dag komen, dood en rouw en honger, en met vuur zal zij verbrand worden; want sterk is de Heere, de God die haar oordeelt! 
+**[18:8]** Daarom zullen haar plagen in één dag komen, dood en rouw en honger, en met vuur zal zij verbrand worden; want sterk is de Heere, de God die haar oordeelt!
 
-**[18:9]**  En de koningen der aarde, die met haar hoererij bedreven en in weelde geleefd hebben, zullen over haar weenen en misbaar maken, als zij zien zullen den rook van haar brand;
+**[18:9]** En de koningen der aarde, die met haar hoererij bedreven en in weelde geleefd hebben, zullen over haar weenen en misbaar maken, als zij zien zullen den rook van haar brand;
 
 **[18:10]** van verre staande uit vreeze van haar pijne, zeggende: wee, wee! de stad, die groote, Babylon die sterke stad, want in één ure is haar oordeel gekomen!
 
@@ -64532,15 +64532,15 @@
 
 **[18:19]** En zij wierpen stof op hun hoofden, en riepen al weenende en treurende, zeggende: wee, wee! de stad, die groote, waarin allen rijk geworden zijn van haar weelde, die schepen in de zee hadden; want in één ure is zij verwoest!
 
-**[18:20]** Verheugt u over haar, o hemel, en gij heiligen, en apostelen, en profeten, want God heeft uw oordeel over haar geoordeeld! 
+**[18:20]** Verheugt u over haar, o hemel, en gij heiligen, en apostelen, en profeten, want God heeft uw oordeel over haar geoordeeld!
 
-**[18:21]**  En één sterke engel nam een steen op, als een grooten molensteen, en wierp dien in de zee, zeggende: alzoo zal Babylon, die groote stad, met geweld geworpen worden, en zij zal in het geheel niet meer gevonden worden!
+**[18:21]** En één sterke engel nam een steen op, als een grooten molensteen, en wierp dien in de zee, zeggende: alzoo zal Babylon, die groote stad, met geweld geworpen worden, en zij zal in het geheel niet meer gevonden worden!
 
 **[18:22]** en de stem van harpspelers, en van zangers, en van fluitspelers, en van trompetters zal in u niet meer gehoord worden; en geen kunstenaar van eenige kunst zal meer in u gevonden worden; en het geluid van een molen zal in u niet meer gehoord worden;
 
 **[18:23]** en het licht eener lamp zal in u niet meer schijnen, en de stem van een bruidegom en een bruid zal in u niet meer gehoord worden; want uw kooplieden waren de machtigen der aarde, omdat door uw tooverij al de volken verleid zijn geworden.
 
-**[18:24]** En in haar is het bloed gevonden van profeten, en van heiligen, en van allen die op de aarde gedood zijn.  
+**[18:24]** En in haar is het bloed gevonden van profeten, en van heiligen, en van allen die op de aarde gedood zijn.
 
 ### Chapter 19
 
@@ -64552,19 +64552,19 @@
 
 **[19:4]** En de vier en twintig ouderlingen en de vier levende wezens vielen neder en aanbaden God die op den troon gezeten is, zeggende: Amen, Hallelujah!
 
-**[19:5]** En er kwam een stem uit den troon die zeide: geeft lof aan onzen God, gij al zijn dienaren! gij die Hem vreest, de kleinen en de grooten! 
+**[19:5]** En er kwam een stem uit den troon die zeide: geeft lof aan onzen God, gij al zijn dienaren! gij die Hem vreest, de kleinen en de grooten!
 
-**[19:6]**  En ik hoorde als een stem eener groote menigte, en als een stem van vele wateren, en als een stem van sterke donderslagen, die zeiden: Hallelujah! Want de Heere, onze God, de Almachtige, regeert!
+**[19:6]** En ik hoorde als een stem eener groote menigte, en als een stem van vele wateren, en als een stem van sterke donderslagen, die zeiden: Hallelujah! Want de Heere, onze God, de Almachtige, regeert!
 
 **[19:7]** Laat ons blijde zijn en vreugde bedrijven, en laat ons de glorie aan Hem geven, want de bruiloft des Lams is gekomen en zijn vrouw heeft zich gereed gemaakt!
 
-**[19:8]** En haar is gegeven dat zij zich bekleede met fijn lijnwaad, helder en zuiver, want het fijn lijnwaad zijn de rechtvaardigheden der heiligen. 
+**[19:8]** En haar is gegeven dat zij zich bekleede met fijn lijnwaad, helder en zuiver, want het fijn lijnwaad zijn de rechtvaardigheden der heiligen.
 
-**[19:9]**  En hij zeide tot mij: Schrijf: zalig degenen die geroepen zijn tot den maaltijd van de bruiloft des Lams! En hij zeide tot mij: deze zijn de waarachtige woorden Gods!
+**[19:9]** En hij zeide tot mij: Schrijf: zalig degenen die geroepen zijn tot den maaltijd van de bruiloft des Lams! En hij zeide tot mij: deze zijn de waarachtige woorden Gods!
 
-**[19:10]** En ik viel neder voor zijn voeten om hem te aanbidden. En hij zeide tot mij: zie toe, doe het niet! ik ben de mededienaar van u en van uw broederen, die de getuigenis van Jezus hebben; aanbid God. Want de getuigenis van Jezus is de geest der profetie. 
+**[19:10]** En ik viel neder voor zijn voeten om hem te aanbidden. En hij zeide tot mij: zie toe, doe het niet! ik ben de mededienaar van u en van uw broederen, die de getuigenis van Jezus hebben; aanbid God. Want de getuigenis van Jezus is de geest der profetie.
 
-**[19:11]**  En ik zag den hemel opengedaan, en ziet, een wit paard, en die daarop zat, genaamd Getrouw en Waarachtig; en Hij oordeelt en strijdt in rechtvaardigheid.
+**[19:11]** En ik zag den hemel opengedaan, en ziet, een wit paard, en die daarop zat, genaamd Getrouw en Waarachtig; en Hij oordeelt en strijdt in rechtvaardigheid.
 
 **[19:12]** Zijn oogen waren een vlam van vuur, en over zijn hoofd waren vele diademen; en Hij had een Naam geschreven dien niemand weet dan alleen Hij zelf.
 
@@ -64574,9 +64574,9 @@
 
 **[19:15]** En uit zijn mond ging een scherpsnijdend zwaard, opdat Hij daarmede de volken slaan zou. En Hij zal hen hoeden met een staf van ijzer, en Hij treedt de wijnpers des toorns der gramschap van den almachtigen God.
 
-**[19:16]** En Hij heeft op zijn kleed en op zijn heup tot Naam geschreven: Koning van koningen en Heer van heeren. 
+**[19:16]** En Hij heeft op zijn kleed en op zijn heup tot Naam geschreven: Koning van koningen en Heer van heeren.
 
-**[19:17]**  En ik zag één engel in de zon staan en hij riep met een groote stem, zeggende tot al de vogelen die vliegen in het hemelruim: komt, verzamelt u tot den grooten maaltijd Gods,
+**[19:17]** En ik zag één engel in de zon staan en hij riep met een groote stem, zeggende tot al de vogelen die vliegen in het hemelruim: komt, verzamelt u tot den grooten maaltijd Gods,
 
 **[19:18]** opdat gij eten moogt het vleesch van koningen, en het vleesch van legeroversten, en het vleesch van sterken, en het vleesch van paarden en van degenen die er op zitten, en het vleesch van allen, zoowel van vrijen als van dienstbaren, en van kleinen en grooten.
 
@@ -64584,7 +64584,7 @@
 
 **[19:20]** En het beest werd gegrepen en daarmede de schijnprofeet, die de teekenen gedaan had voor zijn aangezicht, waardoor hij verleid had degenen die het merkteeken van het beest hadden ontvangen en die voor zijn beeld hadden geknield. Levende zijn die twee geworpen in den poel des vuurs, die van sulfer brandt.
 
-**[19:21]** En de overigen werden gedood door het zwaard dat uit den mond kwam van Hem die op het paard was gezeten, en al de vogelen werden verzadigd van hun vleesch.  
+**[19:21]** En de overigen werden gedood door het zwaard dat uit den mond kwam van Hem die op het paard was gezeten, en al de vogelen werden verzadigd van hun vleesch.
 
 ### Chapter 20
 
@@ -64592,23 +64592,23 @@
 
 **[20:2]** En hij greep den draak, de oude slang, die is de duivel en Satanas, en bond hem voor duizend jaar,
 
-**[20:3]** en wierp hem naar den afgrond en hij sloot dien toe en verzegelde dien over hem, opdat hij de volken niet meer zou verleiden, totdat de duizend jaar voleindigd zouden zijn. Daarna moet hij voor een korten tijd losgemaakt worden. 
+**[20:3]** en wierp hem naar den afgrond en hij sloot dien toe en verzegelde dien over hem, opdat hij de volken niet meer zou verleiden, totdat de duizend jaar voleindigd zouden zijn. Daarna moet hij voor een korten tijd losgemaakt worden.
 
-**[20:4]**  En ik zag troonen en zij zaten daarop, en het oordeel werd hun gegeven. En ik zag de zielen dergenen die onthoofd waren om de getuigenis van Jezus en om het woord Gods, en dezulken die niet voor het beest geknield hadden, noch voor zijn beeld en die het merkteeken op hun voorhoofd en op hun hand niet ontvangen hadden; en zij leefden en heerschten met den Christus duizend jaar.
+**[20:4]** En ik zag troonen en zij zaten daarop, en het oordeel werd hun gegeven. En ik zag de zielen dergenen die onthoofd waren om de getuigenis van Jezus en om het woord Gods, en dezulken die niet voor het beest geknield hadden, noch voor zijn beeld en die het merkteeken op hun voorhoofd en op hun hand niet ontvangen hadden; en zij leefden en heerschten met den Christus duizend jaar.
 
 **[20:5]** De overigen der dooden leefden niet, totdat de duizend jaar voleindigd zouden zijn. Deze is de eerste verrijzenis.
 
-**[20:6]** Zalig en heilig die deel heeft in die eerste verrijzenis; over dezen heeft de tweede dood geen macht, maar zij zullen priesters zijn voor God en den Christus, en zullen met Hem heerschen de duizend jaar. 
+**[20:6]** Zalig en heilig die deel heeft in die eerste verrijzenis; over dezen heeft de tweede dood geen macht, maar zij zullen priesters zijn voor God en den Christus, en zullen met Hem heerschen de duizend jaar.
 
-**[20:7]**  En wanneer de duizend jaar zullen voleindigd zijn, dan zal de Satan losgemaakt worden uit zijn gevangenis,
+**[20:7]** En wanneer de duizend jaar zullen voleindigd zijn, dan zal de Satan losgemaakt worden uit zijn gevangenis,
 
-**[20:8]** en hij zal uitgaan om de volken te verleiden die in de vier hoeken der aarde zijn, den God en den Magog, om die te verzamelen tot den oorlog; wier getal is als het zand der zee. 
+**[20:8]** en hij zal uitgaan om de volken te verleiden die in de vier hoeken der aarde zijn, den God en den Magog, om die te verzamelen tot den oorlog; wier getal is als het zand der zee.
 
-**[20:9]**  En zij zijn opgekomen over de breedte der aarde en zij omringden de legerplaats der heiligen en de beminde stad; en er daalde vuur uit den hemel van God en het verslond hen.
+**[20:9]** En zij zijn opgekomen over de breedte der aarde en zij omringden de legerplaats der heiligen en de beminde stad; en er daalde vuur uit den hemel van God en het verslond hen.
 
-**[20:10]** En de duivel die hen verleidde, werd geworpen in den poel des vuurs en des sulfers, waar het beest is en de schijnprofeet; en zij zullen gepijnigd worden dag en nacht tot in alle eeuwigheid. 
+**[20:10]** En de duivel die hen verleidde, werd geworpen in den poel des vuurs en des sulfers, waar het beest is en de schijnprofeet; en zij zullen gepijnigd worden dag en nacht tot in alle eeuwigheid.
 
-**[20:11]**  En ik zag een grooten witten troon en Hem die daarop gezeten was, van wiens aangezicht de aarde en de hemel wegvluchtten, en voor hen werd geen plaats gevonden.
+**[20:11]** En ik zag een grooten witten troon en Hem die daarop gezeten was, van wiens aangezicht de aarde en de hemel wegvluchtten, en voor hen werd geen plaats gevonden.
 
 **[20:12]** En ik zag de dooden, de grooten en de kleinen, staande voor het aangezicht van den troon, en er werden boeken geopend. En een ander boek werd geopend dat het boek des levens is. En de dooden werden geoordeeld uit hetgeen in de boeken geschreven was, naar hun werken.
 
@@ -64616,7 +64616,7 @@
 
 **[20:14]** En de dood en het doodenrijk werden geworpen naar den poel des vuurs. Dit is de tweede dood, de poel des vuurs.
 
-**[20:15]** En als iemand niet gevonden werd in het boek des levens geschreven te zijn, dan werd hij geworpen naar den poel des vuurs.  
+**[20:15]** En als iemand niet gevonden werd in het boek des levens geschreven te zijn, dan werd hij geworpen naar den poel des vuurs.
 
 ### Chapter 21
 
@@ -64634,9 +64634,9 @@
 
 **[21:7]** Die overwint zal deze dingen beërven, en Ik zal hem een God zijn en hij zal Mij een zoon zijn.
 
-**[21:8]** Maar wat aangaat den vreesachtigen en ongeloovigen, en gruwelijken, en doodslagers, en hoereerders, en toovenaars, en afgodendienaars en al den leugenaars, — hun deel is in den poel die brandt van vuur en sulfer, dat is de tweede dood. 
+**[21:8]** Maar wat aangaat den vreesachtigen en ongeloovigen, en gruwelijken, en doodslagers, en hoereerders, en toovenaars, en afgodendienaars en al den leugenaars, — hun deel is in den poel die brandt van vuur en sulfer, dat is de tweede dood.
 
-**[21:9]**  En er kwam een uit de zeven engelen die de zeven schalen hadden die vol geweest waren van de zeven laatste plagen, en hij sprak met mij zeggende: kom hier, ik zal u toonen de bruid, de vrouw des Lams!
+**[21:9]** En er kwam een uit de zeven engelen die de zeven schalen hadden die vol geweest waren van de zeven laatste plagen, en hij sprak met mij zeggende: kom hier, ik zal u toonen de bruid, de vrouw des Lams!
 
 **[21:10]** En hij voerde mij op in den geest naar een grooten en hoogen berg, en toonde mij de heilige stad Jerusalem, nederdalende uit den hemel van God, hebbende de glorie Gods.
 
@@ -64672,7 +64672,7 @@
 
 **[21:26]** En men zal de glorie en de eerbewijzingen der volken tot haar brengen.
 
-**[21:27]** En tot haar zal geenszins inkomen al wat gemeen is, en gruwelijkheid doet en leugen, maar wel die opgeschreven zijn in het boek des levens van het Lam.  
+**[21:27]** En tot haar zal geenszins inkomen al wat gemeen is, en gruwelijkheid doet en leugen, maar wel die opgeschreven zijn in het boek des levens van het Lam.
 
 ### Chapter 22
 
@@ -64684,21 +64684,21 @@
 
 **[22:4]** En zij zullen zijn aangezicht zien en zijn Naam op hun voorhoofden hebben.
 
-**[22:5]** En nacht zal er niet meer zijn en zij zullen geen fakkellicht of zonnelicht noodig hebben, want de Heere God zal over hen licht geven en zij zullen heerschen tot in alle eeuwigheid. 
+**[22:5]** En nacht zal er niet meer zijn en zij zullen geen fakkellicht of zonnelicht noodig hebben, want de Heere God zal over hen licht geven en zij zullen heerschen tot in alle eeuwigheid.
 
-**[22:6]**  En hij zeide tot mij: Deze woorden zijn getrouw en waarachtig, en de Heere, de God van de, geesten der profeten, heeft zijn engel gezonden om aan zijn dienaren te toonen de dingen die haast geschieden moeten.
+**[22:6]** En hij zeide tot mij: Deze woorden zijn getrouw en waarachtig, en de Heere, de God van de, geesten der profeten, heeft zijn engel gezonden om aan zijn dienaren te toonen de dingen die haast geschieden moeten.
 
-**[22:7]** En ziet, Ik kom haastiglijk! Zalig hij die de woorden der profetie van dit boek bewaart. 
+**[22:7]** En ziet, Ik kom haastiglijk! Zalig hij die de woorden der profetie van dit boek bewaart.
 
-**[22:8]**  En ik, Johannes, ben het die deze dingen gezien en gehoord heb. En toen ik ze gehoord en gezien had viel ik neder om te aanbidden voor de voeten van den engel die mij deze dingen getoond had.
+**[22:8]** En ik, Johannes, ben het die deze dingen gezien en gehoord heb. En toen ik ze gehoord en gezien had viel ik neder om te aanbidden voor de voeten van den engel die mij deze dingen getoond had.
 
 **[22:9]** En hij zeide tot mij: Zie toe en doe dat niet! Ik ben de mededienaar van u en van uw broeders de profeten, en van degenen die de woorden van dit boek bewaren. Aanbid God!
 
 **[22:10]** En hij zeide tot mij: De woorden der profetie van dit boek zult gij niet verzegelen, want de tijd is nabij.
 
-**[22:11]** Die onrecht doet, dat hij nog meer onrecht doe; en die onrein is, dat hij nog onreiner worde; en die rechtvaardig is, dat hij nog meer rechtvaardigheid doe; en die heilig is dat hij nog meer geheiligd worde. 
+**[22:11]** Die onrecht doet, dat hij nog meer onrecht doe; en die onrein is, dat hij nog onreiner worde; en die rechtvaardig is, dat hij nog meer rechtvaardigheid doe; en die heilig is dat hij nog meer geheiligd worde.
 
-**[22:12]**  Ziet, Ik kom haastigijk! En mijn loon is met Mij, om aan een ieder te vergelden naar dat zijn werk is!
+**[22:12]** Ziet, Ik kom haastigijk! En mijn loon is met Mij, om aan een ieder te vergelden naar dat zijn werk is!
 
 **[22:13]** Ik ben de Alfa en de Omega, de Eerste en de Laatste, het Begin en het Einde!
 
@@ -64708,13 +64708,13 @@
 
 **[22:16]** Ik, Jezus, heb mijn engel gezonden om voor ulieden van deze dingen te getuigen bij de gemeenten. Ik ben de Wortel en de Spruit van David, de blinkende Morgenster!
 
-**[22:17]** En de Geest en de bruid zeggen: Kom! — En die het hoort, zegge: Kom! — En die dorst heeft, kome, en die wil, neme het water des levens, voor niet. 
+**[22:17]** En de Geest en de bruid zeggen: Kom! — En die het hoort, zegge: Kom! — En die dorst heeft, kome, en die wil, neme het water des levens, voor niet.
 
-**[22:18]**  Ik betuig aan al wie de woorden der profetie van dit boek hoort: zoo wie toedoet tot deze dingen, God zal over hem toedoen de plagen die in dit boek geschreven zijn!
+**[22:18]** Ik betuig aan al wie de woorden der profetie van dit boek hoort: zoo wie toedoet tot deze dingen, God zal over hem toedoen de plagen die in dit boek geschreven zijn!
 
 **[22:19]** En zoo wie afdoet van de woorden des boeks dezer profetie, God zal zijn deel afdoen van den boom des levens, en uit de heilige stad en uit hetgeen in dat boek geschreven is.
 
 **[22:20]** Die deze dingen getuigt zegt: Ja, Ik kom haastiglijk! — Amen, kom Heere Jezus!
 
-**[22:21]** De genade van den Heere Jezus Christus zij met allen! Amen.   
+**[22:21]** De genade van den Heere Jezus Christus zij met allen! Amen.
 

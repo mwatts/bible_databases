@@ -198,7 +198,7 @@
 
 **[4:14]** Beholde thou castest me out thys day from of the face of the erth and fro thy syghte must I hyde my selfe ad I must be wandrynge and a vagabunde vpon the erth: Morover whosoever fyndeth me wyll kyll me,
 
-**[4:15]** And the LORde sayd vnto hi Not so but whosoever sleyth Cain shalbe punyshed .vij. folde. And ye LORde put a marke vpo Cain that no ma yt founde hym shulde kyll hym.
+**[4:15]** And the LORde sayd vnto hi Not so but whosoever sleyth Cain shalbe punyshed.vij. folde. And ye LORde put a marke vpo Cain that no ma yt founde hym shulde kyll hym.
 
 **[4:16]** And Cain went out fro the face of the LORde and dwelt in the lande Nod on the east syde of Eden.
 
@@ -232,61 +232,61 @@
 
 **[5:4]** And the dayes of Adam after he begat Seth were eyght hundred yere and begat sonnes and doughters.
 
-**[5:5]** and all the dayes of Adam which he lyved were .ix. hundred and .xxx. yere and then he dyed.
+**[5:5]** and all the dayes of Adam which he lyved were.ix. hundred and.xxx. yere and then he dyed.
 
-**[5:6]** And Seth lyved an hundred and .v. yeres and begat Enos.
+**[5:6]** And Seth lyved an hundred and.v. yeres and begat Enos.
 
-**[5:7]** And after he had begot Enos he lyved .viij. hundred and .vij. yere and begat sonnes and doughters.
+**[5:7]** And after he had begot Enos he lyved.viij. hundred and.vij. yere and begat sonnes and doughters.
 
-**[5:8]** And all the dayes of Seth were .ix. hundred and .xij. yere and dyed.
+**[5:8]** And all the dayes of Seth were.ix. hundred and.xij. yere and dyed.
 
-**[5:9]** And Enos lyved .lxxxx. yere and begat kenan.
+**[5:9]** And Enos lyved.lxxxx. yere and begat kenan.
 
-**[5:10]** And Enos after he begat kenan lyved viij. hundred and .xv. yere and begat sonnes and doughters:
+**[5:10]** And Enos after he begat kenan lyved viij. hundred and.xv. yere and begat sonnes and doughters:
 
-**[5:11]** and all the dayes of Enos were .ix hundred and .v. yere and than he dyed.
+**[5:11]** and all the dayes of Enos were.ix hundred and.v. yere and than he dyed.
 
-**[5:12]** And kenan lyued .lxx. yere and begat Mahalaliel.
+**[5:12]** And kenan lyued.lxx. yere and begat Mahalaliel.
 
-**[5:13]** And kenan after he had begot Mahalaliel lyved .viij. hundred and .xl. yere and begat sonnes and doughters:
+**[5:13]** And kenan after he had begot Mahalaliel lyved.viij. hundred and.xl. yere and begat sonnes and doughters:
 
-**[5:14]** and al the dayes of kenan were .ix. hundred and .x. yere and than he dyed.
+**[5:14]** and al the dayes of kenan were.ix. hundred and.x. yere and than he dyed.
 
-**[5:15]** And Mahalaliel lyued .lxv. yere and begat Iared.
+**[5:15]** And Mahalaliel lyued.lxv. yere and begat Iared.
 
-**[5:16]** And Mahalaliel after he had begot Iared lyved .viij. hundred and .xxx. yere and begat sonnes and doughters:
+**[5:16]** And Mahalaliel after he had begot Iared lyved.viij. hundred and.xxx. yere and begat sonnes and doughters:
 
-**[5:17]** and all the dayes of Mahalalyell were .viij. hundred nynetye and .v. yeare and than he dyed
+**[5:17]** and all the dayes of Mahalalyell were.viij. hundred nynetye and.v. yeare and than he dyed
 
-**[5:18]** And Iared lyved an hundred and .lxij. yere and begat Henoch:
+**[5:18]** And Iared lyved an hundred and.lxij. yere and begat Henoch:
 
-**[5:19]** and Iared lyved after he begat Henoch .viij. hundred yere and begat sonnes and doughters.
+**[5:19]** and Iared lyved after he begat Henoch.viij. hundred yere and begat sonnes and doughters.
 
-**[5:20]** And all the dayes of Iared were .ix. hundred and .lxij. yere and than he dyed.
+**[5:20]** And all the dayes of Iared were.ix. hundred and.lxij. yere and than he dyed.
 
-**[5:21]** And Henoch lyved .lxv. yere ad begat Mathusala.
+**[5:21]** And Henoch lyved.lxv. yere ad begat Mathusala.
 
-**[5:22]** And Henoch walked wyth god after he had begot Mathusala .iij. hundred yere and begat sonnes and doughters.
+**[5:22]** And Henoch walked wyth god after he had begot Mathusala.iij. hundred yere and begat sonnes and doughters.
 
-**[5:23]** And all the dayes of Henoch were .iij. hundred and .lxv. yere.
+**[5:23]** And all the dayes of Henoch were.iij. hundred and.lxv. yere.
 
 **[5:24]** and than Henoch lyved a godly lyfe and was nomore sene for God toke hym away.
 
 **[5:25]** And Mathusala lyved an hundred and lxxxvij. yere and begat Lamech:
 
-**[5:26]** and Mathusala after he had begot Lamech lyved .vij. hundred and .lxxxij. yere ad begat sonnes and doughters.
+**[5:26]** and Mathusala after he had begot Lamech lyved.vij. hundred and.lxxxij. yere ad begat sonnes and doughters.
 
-**[5:27]** And all the dayes of Methusala were .ix. hundred .lxix yere and than he dyed.
+**[5:27]** And all the dayes of Methusala were.ix. hundred.lxix yere and than he dyed.
 
-**[5:28]** And Lamech lyved an hundred .lxxxij. yere and begat a sonne
+**[5:28]** And Lamech lyved an hundred.lxxxij. yere and begat a sonne
 
 **[5:29]** and called hym Noe sayng. This same shall comforte vs: as concernynge oure worke and sorowe of oure handes which we haue aboute the erthe that the LORde hath cursed.
 
-**[5:30]** And Lamech lyved after he had begot Noe v. hundred nynetie and .v. yere and begat sonnes and doughters.
+**[5:30]** And Lamech lyved after he had begot Noe v. hundred nynetie and.v. yere and begat sonnes and doughters.
 
-**[5:31]** And all the dayes of Lamech were .vij. hundred .lxxvij. yere and than he dyed.
+**[5:31]** And all the dayes of Lamech were.vij. hundred.lxxvij. yere and than he dyed.
 
-**[5:32]** And when Noe was .v. hundred yere olde he begat Sem Ham and Iaphet.
+**[5:32]** And when Noe was.v. hundred yere olde he begat Sem Ham and Iaphet.
 
 ### Chapter 6
 
@@ -294,7 +294,7 @@
 
 **[6:2]** the sonnes of God sawe the doughters of men that they were fayre and toke vnto them wyves which they best liked amoge the all.
 
-**[6:3]** And the LORd sayd: My spirite shall not allwaye stryve withe man for they are flesh. Nevertheles I wyll geue them yet space and hundred and .xx. yeres
+**[6:3]** And the LORd sayd: My spirite shall not allwaye stryve withe man for they are flesh. Nevertheles I wyll geue them yet space and hundred and.xx. yeres
 
 **[6:4]** There were tirantes in the world in thos dayes. For after that the children of God had gone in vnto the doughters of men and had begotten them childern the same childern were the mightiest of the world and men of renowne
 
@@ -308,7 +308,7 @@
 
 **[6:9]** These are the generatios of Noe. Noe was a righteous man and vncorrupte in his tyme and walked wyth god.
 
-**[6:10]** And Noe begat .iij. sonnes: Sem Ham and Iapheth.
+**[6:10]** And Noe begat.iij. sonnes: Sem Ham and Iapheth.
 
 **[6:11]** And the erth was corrupte in the syghte of god and was full of mischefe.
 
@@ -318,9 +318,9 @@
 
 **[6:14]** Make the an arcke of pyne tree and make chaumbers in the arcke and pytch it wythin and wythout wyth pytch.
 
-**[6:15]** And of this facion shalt thou make it.The lenth of the arcke shall be .iij. hundred cubytes ad the bredth of it .l. cubytes and the heyth of it .xxx. cubytes.
+**[6:15]** And of this facion shalt thou make it.The lenth of the arcke shall be.iij. hundred cubytes ad the bredth of it.l. cubytes and the heyth of it.xxx. cubytes.
 
-**[6:16]** A wyndow shalt thou make aboue in the arcke. And wythin a cubyte compasse shalt thou finysh it.And the dore of the arcke shalt thou sette in ye syde of it: and thou shalt make it with .iij loftes one aboue an other.
+**[6:16]** A wyndow shalt thou make aboue in the arcke. And wythin a cubyte compasse shalt thou finysh it.And the dore of the arcke shalt thou sette in ye syde of it: and thou shalt make it with.iij loftes one aboue an other.
 
 **[6:17]** For behold I wil bringe in a floud of water apon the erth to destroy all flesh from vnder heaven wherin breth of life is so that all that is in the erth shall perish.
 
@@ -338,15 +338,15 @@
 
 **[7:1]** And the LORde sayd vnto Noe: goo in to the arcke both thou and all thy houssold. For the haue I sene rightuous before me in thys generacion.
 
-**[7:2]** Of all clene beastes take vnto the .vij. of every kynde the male and hys female And of vnclene beastes a payre the male and hys female:
+**[7:2]** Of all clene beastes take vnto the.vij. of every kynde the male and hys female And of vnclene beastes a payre the male and hys female:
 
 **[7:3]** lykewyse of the byrdes of the ayre vij. of every kynde male and female to save seed vppon all the erth.
 
-**[7:4]** For .vij. dayes hence wyll I send rayne vppo the erth .xl. dayes and .xl. nyghtes and wyll dystroy all maner of thynges that I haue made from of the face of the erth..
+**[7:4]** For.vij. dayes hence wyll I send rayne vppo the erth.xl. dayes and.xl. nyghtes and wyll dystroy all maner of thynges that I haue made from of the face of the erth..
 
 **[7:5]** And Noe dyd acordynge to all yt the lorde comaunded hym:
 
-**[7:6]** and Noe was .vi. hundred yere olde when the floud of water came vppon the erth:
+**[7:6]** and Noe was.vi. hundred yere olde when the floud of water came vppon the erth:
 
 **[7:7]** and Noe went and his sonnes and his wyfe and his sonnes wyves wyth hym in to the arke from the waters of the floud.
 
@@ -356,11 +356,11 @@
 
 **[7:10]** And the seventh daye the waters of the floud came vppon the erth.
 
-**[7:11]** In the .vi. hundred yere of Noes lyfe in the secode moneth in the .xvij daye of the moneth yt same daye were all the founteynes of the grete depe broken vp and the wyndowes of heave were opened
+**[7:11]** In the.vi. hundred yere of Noes lyfe in the secode moneth in the.xvij daye of the moneth yt same daye were all the founteynes of the grete depe broken vp and the wyndowes of heave were opened
 
-**[7:12]** ad there fell a rayne vpon the erth .xl. dayes and .xl. nyghtes.
+**[7:12]** ad there fell a rayne vpon the erth.xl. dayes and.xl. nyghtes.
 
-**[7:13]** And the selfe same daye went Noe Sem Ham and Iapheth Noes sonnes and Noes wyfe and the .iij. wyues of his sonnes wyth them in to the arke:
+**[7:13]** And the selfe same daye went Noe Sem Ham and Iapheth Noes sonnes and Noes wyfe and the.iij. wyues of his sonnes wyth them in to the arke:
 
 **[7:14]** both they and all maner of beastes in their kide and all maner of catell in their kynde and all maner of wormes that crepe vppon the erth in their kynde and all maner of byrdes in there kynde. and all maner off foules what soever had feders.
 
@@ -368,13 +368,13 @@
 
 **[7:16]** And they that came came male ad female of every flesh acordige as God comaunded hym: and ye LORde shytt the dore vppo him
 
-**[7:17]** And the floud came .xl. dayes and .xl. nyghtes vppon the erth and the water increased and bare vp the arcke ad it was lifte vp from of the erth
+**[7:17]** And the floud came.xl. dayes and.xl. nyghtes vppon the erth and the water increased and bare vp the arcke ad it was lifte vp from of the erth
 
 **[7:18]** And the water prevayled and increased exceadingly vppon the erth: and the arke went vppo he toppe of the waters.
 
 **[7:19]** And the waters prevayled excedingly above mesure vppo the erth so that all the hye hylles which are vnder all the partes of heaven were covered:
 
-**[7:20]** eve .xv. cubytes hye prevayled the waters so that the hylles were covered.
+**[7:20]** eve.xv. cubytes hye prevayled the waters so that the hylles were covered.
 
 **[7:21]** And all fleshe that moved on the erth bothe birdes catell and beastes perisshed with al that crepte on the erth and all men:
 
@@ -390,13 +390,13 @@
 
 **[8:2]** ad ye fountaynes of the depe ad the wyndowes of heave were stopte and the rayne of heaven was forbidde
 
-**[8:3]** and the waters returned from of ye erth ad abated after the ende of an hundred and .l. dayes.
+**[8:3]** and the waters returned from of ye erth ad abated after the ende of an hundred and.l. dayes.
 
-**[8:4]** And the arke rested vppo the mountayns of Ararat the .xvij. daye of the .vij. moneth.
+**[8:4]** And the arke rested vppo the mountayns of Ararat the.xvij. daye of the.vij. moneth.
 
 **[8:5]** And the waters went away ad decreased vntyll the x. moneth. And the fyrst daye of the tenth moneth the toppes of the mounteyns appered.
 
-**[8:6]** And after the ende of .xl. dayes. Noe opened the wyndow of the arke which he had made
+**[8:6]** And after the ende of.xl. dayes. Noe opened the wyndow of the arke which he had made
 
 **[8:7]** ad sent forth a raven which went out ever goinge and cominge agayne vntyll the waters were dreyed vpp vppon the erth
 
@@ -404,15 +404,15 @@
 
 **[8:9]** And when the doue coude fynde no restinge place for hyr fote she returned to him agayne vnto the arke for the waters were vppon the face of all the erth. And he put out hys honde and toke her and pulled hyr to hym in to the arke
 
-**[8:10]** And he abode yet .vij. dayes mo and sent out the doue agayne out of the arke
+**[8:10]** And he abode yet.vij. dayes mo and sent out the doue agayne out of the arke
 
 **[8:11]** And the doue came to hym agayne aboute eventyde and beholde: There was in hyr mouth a lefe of an olyve tre which she had plucked wherby Noe perceaved that the waters wer abated vppon the erth.
 
-**[8:12]** And he taried yet .vij. other dayes and sent forth the doue which from thence forth came no more agayne to him.
+**[8:12]** And he taried yet.vij. other dayes and sent forth the doue which from thence forth came no more agayne to him.
 
 **[8:13]** And it came to passe the syxte hundred and one yere and the fyrst daye of the fyrst moneth that the waters were dryed vpp apon the erth. And Noe toke off the hatches of the arke and loked: And beholde the face of the erth was drye.
 
-**[8:14]** so by the .xxvij. daye of the seconde moneth the erth was drye.
+**[8:14]** so by the.xxvij. daye of the seconde moneth the erth was drye.
 
 **[8:15]** And God spake vnto Noe saynge:
 
@@ -468,7 +468,7 @@
 
 **[9:18]** The sonnes of Noe that came out of the arke were: Sem Ham and Iapheth. And Ham he is the father of Canaa.
 
-**[9:19]** These are the .iij. sonnes of Noe and of these was all the world overspred.
+**[9:19]** These are the.iij. sonnes of Noe and of these was all the world overspred.
 
 **[9:20]** And Noe beynge an husbad man went furth and planted a vyneyarde
 
@@ -486,7 +486,7 @@
 
 **[9:27]** God increase Iapheth that he may dwelle in the tentes of Sem. And Canaan be their seruante.
 
-**[9:28]** And Noe lyved after the floude .iij. hundred and .l. yere: So that all the dayes of Noe were ix. hundred and .l. yere ad than he dyed.
+**[9:28]** And Noe lyved after the floude.iij. hundred and.l. yere: So that all the dayes of Noe were ix. hundred and.l. yere ad than he dyed.
 
 **[9:29]** 
 
@@ -540,7 +540,7 @@
 
 **[10:24]** And Arphachsad begat Sala and Sala begat Eber.
 
-**[10:25]** And Eber begat .ij. sonnes. The name of the one was Peleg for in his tyme the erth was devyded. And the name of his brother was Iaketanr
+**[10:25]** And Eber begat.ij. sonnes. The name of the one was Peleg for in his tyme the erth was devyded. And the name of his brother was Iaketanr
 
 **[10:26]** Iaketan begat Almodad Saleph Hyzarmoneth Iarah
 
@@ -578,37 +578,37 @@
 
 **[11:10]** These are the generations of Sem: Se was an hundred yere olde and begat Arcphachsad ij. yere after the floude.
 
-**[11:11]** And Se lyved after he had begot Arphachsad .v. hundred yere an begat sonnes and doughters.
+**[11:11]** And Se lyved after he had begot Arphachsad.v. hundred yere an begat sonnes and doughters.
 
-**[11:12]** And Arphacsad lyued .xxxv. yere and begat Sala
+**[11:12]** And Arphacsad lyued.xxxv. yere and begat Sala
 
-**[11:13]** and lyved after he had begot Sala iiij. hudred yere and .iij and begat sonnes and doughters.
+**[11:13]** and lyved after he had begot Sala iiij. hudred yere and.iij and begat sonnes and doughters.
 
-**[11:14]** And Sala was .xxx. yere old and begat Eber
+**[11:14]** And Sala was.xxx. yere old and begat Eber
 
-**[11:15]** ad lyued after he had begot Eber .iiij. hudred and thre yere ad begat sonnes and doughters
+**[11:15]** ad lyued after he had begot Eber.iiij. hudred and thre yere ad begat sonnes and doughters
 
-**[11:16]** When Eber was .xxxiiij. yere olde he begat Peleg
+**[11:16]** When Eber was.xxxiiij. yere olde he begat Peleg
 
-**[11:17]** and lyued after he had begot Peleg foure hundred and .xxx. yere and begat sonnes and doughters.
+**[11:17]** and lyued after he had begot Peleg foure hundred and.xxx. yere and begat sonnes and doughters.
 
-**[11:18]** And Peleg when he was .xxx. yere olde begat Regu
+**[11:18]** And Peleg when he was.xxx. yere olde begat Regu
 
-**[11:19]** and lyued after he had begot Regu. ij. hundred and .ix. yere and begat sonnes and doughters.
+**[11:19]** and lyued after he had begot Regu. ij. hundred and.ix. yere and begat sonnes and doughters.
 
-**[11:20]** And Regu when he had lyued .xxxij. yere begat Serug
+**[11:20]** And Regu when he had lyued.xxxij. yere begat Serug
 
-**[11:21]** and lyued after he had begot Serug .ij. hundred and .vij. yere and begat sonnes and doughters.
+**[11:21]** and lyued after he had begot Serug.ij. hundred and.vij. yere and begat sonnes and doughters.
 
-**[11:22]** And when Serug was .xxx. yere olde he begat Nahor
+**[11:22]** And when Serug was.xxx. yere olde he begat Nahor
 
-**[11:23]** and lyued after he had begot Nahor .ij. hundred yere and begat sonnes and doughters.
+**[11:23]** and lyued after he had begot Nahor.ij. hundred yere and begat sonnes and doughters.
 
-**[11:24]** And Nahor when he was .xxix. yere olde begat Terah
+**[11:24]** And Nahor when he was.xxix. yere olde begat Terah
 
-**[11:25]** and lyved after he had begot Terah an hundred and .xix. yere and begat sonnes and doughters.
+**[11:25]** and lyved after he had begot Terah an hundred and.xix. yere and begat sonnes and doughters.
 
-**[11:26]** And when Terah was .lxx. yere olde he begat Abram Nahor and Haran.
+**[11:26]** And when Terah was.lxx. yere olde he begat Abram Nahor and Haran.
 
 **[11:27]** And these are the generations of Terah. Terah begat Abram Nahor and Haran. And Haran begat Lot.
 
@@ -620,7 +620,7 @@
 
 **[11:31]** Than toke Terah Abram his sonne and Lot his sonne Harans sonne and Sarai his doughter in lawe his sone Abrams wyfe. And they went wyth hym from Vr in Chaldea to go in to the lade of Chanaan. And they came to Haran and dwelled there.
 
-**[11:32]** And when Terah was ij. hundred yere old and .v. he dyed in Haran.
+**[11:32]** And when Terah was ij. hundred yere old and.v. he dyed in Haran.
 
 ### Chapter 12
 
@@ -630,7 +630,7 @@
 
 **[12:3]** And I wyll blesse the that blesse the ad curse the that curse the. And in the shall be blessed all the generations of the erth.
 
-**[12:4]** And Abram wet as the LORde badd hym and Lot went wyth him. Abram was .lxxv. yere olde when he went out of Haran.
+**[12:4]** And Abram wet as the LORde badd hym and Lot went wyth him. Abram was.lxxv. yere olde when he went out of Haran.
 
 **[12:5]** And Abram toke Sarai his wyfe ad Lot his brothers sonne wyth all their goodes which they had goten and soulles which they had begoten in Haran. And they departed to goo in to the lade of Chanaan. And when they were come in to the lande of Chanaan
 
@@ -710,9 +710,9 @@
 
 **[14:3]** All these came together vnto the vale of siddim which is now the salt see
 
-**[14:4]** Twelve yere were they subiecte to kinge kedorlaomer and in the .xiij. yere rebelled.
+**[14:4]** Twelve yere were they subiecte to kinge kedorlaomer and in the.xiij. yere rebelled.
 
-**[14:5]** Therfore in the .xiiij. yere came kedorlaomer and the kynges that were wyth hym and smote the Raphayms in Astarath Karnaim and the Susims in Hain ad the Emyms in Sabe Kariathaim
+**[14:5]** Therfore in the.xiiij. yere came kedorlaomer and the kynges that were wyth hym and smote the Raphayms in Astarath Karnaim and the Susims in Hain ad the Emyms in Sabe Kariathaim
 
 **[14:6]** and the Hozyms in their awne mounte Seir vnto the playne of Pharan which bordreth vpon the wyldernesse.
 
@@ -730,7 +730,7 @@
 
 **[14:13]** Than came one that had escaped and tolde Abram the hebrue which dwelled in the okegrove of Mamre the Amoryte brother of Eschol and Aner: which were confederate wyth Abram.
 
-**[14:14]** When Abram herde that his brother was taken he harnessed his seruantes borne in his owne house .iij. hundred and .xviij. ad folowed tyll they came at Dan.
+**[14:14]** When Abram herde that his brother was taken he harnessed his seruantes borne in his owne house.iij. hundred and.xviij. ad folowed tyll they came at Dan.
 
 **[14:15]** And sette hymselfe ad his seruantes in aray and fell vpon them by nyght and smote them and chased them awaye vnto Hoba: which lyeth on the lefte hande of Damascos
 
@@ -770,7 +770,7 @@
 
 **[15:8]** And he sayde: LORde God whereby shall I knowe that I shall possesse it?
 
-**[15:9]** And he sayde vnto him: take an heyfer of .iij. yere olde and a she gotte of thre yeres olde and a thre yere olde ram a turtill doue and a yonge pigeon.
+**[15:9]** And he sayde vnto him: take an heyfer of.iij. yere olde and a she gotte of thre yeres olde and a thre yere olde ram a turtill doue and a yonge pigeon.
 
 **[15:10]** And he toke all these and devyded them in the myddes and layde euery pece one over agenst a nother. But the foules devyded he not.
 
@@ -802,7 +802,7 @@
 
 **[16:2]** Wherfore the sayde vnto Abram. Beholde the LORde hath closed me that I can not bere. I praye the goo in vnto my mayde peradueture I shall be multiplyed by meanes of her And Abram herde the voyce of Sarai. Than Sarai
 
-**[16:3]** Abrams wife toke Hagar hyr mayde the Egitian (after Abram had dwelled .x. yere in the lande of Canaan) and gaue her to hyr husbonde Abram to be his wyfe.
+**[16:3]** Abrams wife toke Hagar hyr mayde the Egitian (after Abram had dwelled.x. yere in the lande of Canaan) and gaue her to hyr husbonde Abram to be his wyfe.
 
 **[16:4]** And he wente in vnto Hagar and she conceaved. And when she sawe that she had conceyved hyr mastresse was despised in hyr syghte.
 
@@ -812,7 +812,7 @@
 
 **[16:7]** And the angell of the LORde founde her besyde a fountayne of water in the wyldernes: euen by a well in the way to Sur.
 
-**[16:8]** And he sayde: Hagar Sarais mayde whence comest thou and whether wylt thou goo ? And she answered: I flee from my mastresse Sarai.
+**[16:8]** And he sayde: Hagar Sarais mayde whence comest thou and whether wylt thou goo? And she answered: I flee from my mastresse Sarai.
 
 **[16:9]** And the angell of the LORde sayde vnto her: returne to thy mastresse agayne and submytte thy selfe vnder her handes.
 
@@ -828,7 +828,7 @@
 
 **[16:15]** And Hagar bare Abram a sonne and Abram called his sons name which Hagar bare Ismaell.
 
-**[16:16]** And Abram was .lxxxvi. yere olde when Hagar bare him Ismael.
+**[16:16]** And Abram was.lxxxvi. yere olde when Hagar bare him Ismael.
 
 ### Chapter 17
 
@@ -878,9 +878,9 @@
 
 **[17:23]** And Abraham toke Ismaell his sonne and all the servauntes borne in his housse and all that was bought with money as many as were menchildren amonge the me of Abrahas housse and circumcysed the foreskynne of their flesh even the selfe same daye as God had sayde vnto him.
 
-**[17:24]** Abraham was nynetie yere olde and .ix. when he cutt of the foreskynne of his flesh.
+**[17:24]** Abraham was nynetie yere olde and.ix. when he cutt of the foreskynne of his flesh.
 
-**[17:25]** And Ismaell his sonne was .xiij. yere olde when the foreskynne of hys flesh was circumcysed.
+**[17:25]** And Ismaell his sonne was.xiij. yere olde when the foreskynne of hys flesh was circumcysed.
 
 **[17:26]** The selfe same daye was Abraha circucised and Ismael his sonne.
 
@@ -934,29 +934,29 @@
 
 **[18:23]** and drewe nere and saydeWylt thou destroy the rightwes with the wyked?
 
-**[18:24]** Yf there be .l. rightwes within the cyte wilt thou destroy it and not spare the place for the sake of .l. rightwes that are therin?
+**[18:24]** Yf there be.l. rightwes within the cyte wilt thou destroy it and not spare the place for the sake of.l. rightwes that are therin?
 
 **[18:25]** That be farre from the that thou shuldest do after thys maner to sley the rightwes with the weked ad that the rightwes shulde be as the weked: that befarre from the. Shulde not the iudge of all ye worlde do acordynge to righte?
 
-**[18:26]** And the LORde sayde: Yf I fynde in Sodome .l. rightwes within the cyte I will spare all the place for their sakes.
+**[18:26]** And the LORde sayde: Yf I fynde in Sodome.l. rightwes within the cyte I will spare all the place for their sakes.
 
 **[18:27]** And Abraham answered and sayde: beholde I haue taken vppon me to speake vnto ye LORde ad yet am but dust ad asshes.
 
-**[18:28]** What though there lacke .v. of .l. rightwes wylt thou destroy all the cyte for lacke of .v? And he sayde: Yf I fynde there .xl. and .v. I will not destroy them.
+**[18:28]** What though there lacke.v. of.l. rightwes wylt thou destroy all the cyte for lacke of.v? And he sayde: Yf I fynde there.xl. and.v. I will not destroy them.
 
-**[18:29]** And he spake vnto him yet agayne and sayde: what yf there be .xl. foude there: And he sayde: I wyll not do it for forties sake.
+**[18:29]** And he spake vnto him yet agayne and sayde: what yf there be.xl. foude there: And he sayde: I wyll not do it for forties sake.
 
-**[18:30]** And he sayde: O let not my LORde be angrye that I speake. What yf there be foude .xxx. there? And he sayde: I will not do it yf I finde .xxx. there.
+**[18:30]** And he sayde: O let not my LORde be angrye that I speake. What yf there be foude.xxx. there? And he sayde: I will not do it yf I finde.xxx. there.
 
-**[18:31]** And be sayde: Oh se I haue begonne to speake vnto my LORde what yf there be .xx. founde there? And he sayde: I will not distroy the for tweties sake.
+**[18:31]** And be sayde: Oh se I haue begonne to speake vnto my LORde what yf there be.xx. founde there? And he sayde: I will not distroy the for tweties sake.
 
-**[18:32]** And he sayde: O let not my LORde be angrye that I speake yet but eue once more only. What yf ten be founde there?. And he sayde: I will not destroy the for .x. sake.
+**[18:32]** And he sayde: O let not my LORde be angrye that I speake yet but eue once more only. What yf ten be founde there?. And he sayde: I will not destroy the for.x. sake.
 
 **[18:33]** And the LORde wet his waye as soone as he had lefte comenynge with Abraha. And Abraham returned vnto his place
 
 ### Chapter 19
 
-**[19:1]** And there came .ij. angells to Sodome at euen. And Lot satt at the gate of the cyte. And Lot sawe the and rose vp agaynst them and he bowed hym selfe to he grounde with his face.
+**[19:1]** And there came.ij. angells to Sodome at euen. And Lot satt at the gate of the cyte. And Lot sawe the and rose vp agaynst them and he bowed hym selfe to he grounde with his face.
 
 **[19:2]** And he sayde: Se lordes turne in I praye you in to youre servauntes house and tary all nyghte and wash youre fete and ryse vp early and go on youre wayes. And they sayde: nay but we will byde in the streates all nyghte.
 
@@ -1014,7 +1014,7 @@
 
 **[19:29]** But yet whe God destroyed the cities of ye regio he thought a pon Abraha: and sent Lot out from the dager of the overthrowenge when he overthrewe the cyttes where Lot dwelled.
 
-**[19:30]** And Lot departed out of Zoar and dwelled in the mountayns ad his .ij. doughters with him for he feared to tary in Zoar: he dweld therfore in a caue both he and his .ij. doughters also.
+**[19:30]** And Lot departed out of Zoar and dwelled in the mountayns ad his.ij. doughters with him for he feared to tary in Zoar: he dweld therfore in a caue both he and his.ij. doughters also.
 
 **[19:31]** Than sayde the elder vnto the yonger oure father is olde and there are no moo men in the erth to come in vnto vs after the maner of all the world.
 
@@ -1078,7 +1078,7 @@
 
 **[21:3]** And Abraham called his sonnes name that was borne vnto him which Sara bare him Isaac:
 
-**[21:4]** and Abra circucysed Isaac his sone whe he was .viij. dayes olde as God commaunded him
+**[21:4]** and Abra circucysed Isaac his sone whe he was.viij. dayes olde as God commaunded him
 
 **[21:5]** And Abraha was an hundred yere olde when his sonne Isaac was borne vnto him.
 
@@ -1128,7 +1128,7 @@
 
 **[21:28]** And Abraham sett vij. lambes by them selues.
 
-**[21:29]** And Abimelech sayde vnto Abraham: what meane these .vij. lamdes which thou hast sett by them selues.
+**[21:29]** And Abimelech sayde vnto Abraham: what meane these.vij. lamdes which thou hast sett by them selues.
 
 **[21:30]** And he answered: vij. lambes shalt thou take of my hande that it maye be a wytnesse vnto me that I haue dygged this well:
 
@@ -1186,13 +1186,13 @@
 
 **[22:22]** and Cesed and Haso and Pildas and Iedlaph and Bethuel.
 
-**[22:23]** And Bethuel begat Rebecca. These .viij. dyd Milcha bere to Nachor Abrahams brother
+**[22:23]** And Bethuel begat Rebecca. These.viij. dyd Milcha bere to Nachor Abrahams brother
 
 **[22:24]** And his concubyne called Rheuma she bare also Tebah Gaham Thahas and Maacha.
 
 ### Chapter 23
 
-**[23:1]** Sara was an hundred and .xxvij. yere olde (for so longe lyued she)
+**[23:1]** Sara was an hundred and.xxvij. yere olde (for so longe lyued she)
 
 **[23:2]** and than dyed in a heade cyte called Hebron in the londe of Canaan. Than Abraham came to morne Sara and to wepe for her.
 
@@ -1222,7 +1222,7 @@
 
 **[23:15]** My lorde harken vnto me. The lande is worth iiij. hundreth sycles of syluer: But what is that betwixte the and me? bury thy deede.
 
-**[23:16]** And Abraham harkened vnto Ephron and weyde him the sylver which he had sayde in the audyence of the sonnes of Heth. Euen .iiij. hudred syluer sycles of currant money amonge marchauntes
+**[23:16]** And Abraham harkened vnto Ephron and weyde him the sylver which he had sayde in the audyence of the sonnes of Heth. Euen.iiij. hudred syluer sycles of currant money amonge marchauntes
 
 **[23:17]** Thus was the felde of Ephron where in the dubbill caue is before Mamre: euen the felde and the caue that is therein and all the trees of the felde which growe in all the borders rounde aboute made sure
 
@@ -1252,7 +1252,7 @@
 
 **[24:9]** And the seruaunte put his hand vnder the thye of Abraham and sware to him as concernynge that matter.
 
-**[24:10]** And the seruaunte toke .x. camels of the camels of his master and departed and had of all maner goodes of his master with him and stode vp and went to Mesopotamia vnto the cytie of Nahor.
+**[24:10]** And the seruaunte toke.x. camels of the camels of his master and departed and had of all maner goodes of his master with him and stode vp and went to Mesopotamia vnto the cytie of Nahor.
 
 **[24:11]** And made his camels to lye doune with out the cytie by a wels syde of water at euen: aboute the tyme that women come out to drawe water
 
@@ -1276,7 +1276,7 @@
 
 **[24:21]** And the felowe wondred at her. But helde his peace to wete whether the LORde had made his iourney prosperous or not.
 
-**[24:22]** And as the camels had lefte drynckynge he toke an earynge of halfe a sicle weght and .ij golden bracelettes for hyr hades of .x. sycles weyght of gold
+**[24:22]** And as the camels had lefte drynckynge he toke an earynge of halfe a sicle weght and.ij golden bracelettes for hyr hades of.x. sycles weyght of gold
 
 **[24:23]** and sayde vnto her: whose doughter art thou? tell me: ys there rowme in thy fathers house for vs to lodge in?
 
@@ -1342,7 +1342,7 @@
 
 **[24:54]** And then they ate and dranke both he and the men that were with him and taried all nyghte and rose vp in the mornynge.And he sayde: let me departe vnto my master.
 
-**[24:55]** But hir brother and hir mother sayde: let the damsell abyde with vs a while ad it be but even .x. dayes and than goo thy wayes.
+**[24:55]** But hir brother and hir mother sayde: let the damsell abyde with vs a while ad it be but even.x. dayes and than goo thy wayes.
 
 **[24:56]** And he sayde vnto them hinder me not: for the lorde hath prospered my iourney. Sende me awaye yt I maye goo vnto my master.
 
@@ -1382,7 +1382,7 @@
 
 **[25:6]** And vnto the sonnes of his concubines he haue giftes and sent them awaye from Isaac his sonne (while he yet lyved) east ward vnto the east contre.
 
-**[25:7]** These are the dayes of the life of Abraha which he lyved: an hudred and .lxxv. yere
+**[25:7]** These are the dayes of the life of Abraha which he lyved: an hudred and.lxxv. yere
 
 **[25:8]** and than fell seke ad dyed in a lustie age (whe he had lyved ynough) ad was put vnto his people.
 
@@ -1400,27 +1400,27 @@
 
 **[25:15]** Hadar Thema Ietur Naphis and Redma.
 
-**[25:16]** These are the sones of Ismael and these are their names in their townes and castels .xij. princes of natios.
+**[25:16]** These are the sones of Ismael and these are their names in their townes and castels.xij. princes of natios.
 
-**[25:17]** And these are the yeres of the lyfe of Ismael: an hudred and .xxxvij yere and than he fell seke and dyed and was layde vnto his people.
+**[25:17]** And these are the yeres of the lyfe of Ismael: an hudred and.xxxvij yere and than he fell seke and dyed and was layde vnto his people.
 
 **[25:18]** And he dweld from Euila vnto Sur yt is before Egypte as men go toward the Assirias. And he dyed in the presence of all his brethren.
 
 **[25:19]** And these are the generatios of Isaac Abrahas sonne: Abraha begat Isaac.
 
-**[25:20]** And Isaac was .xl. yere olde whe he toke Rebecca to wyfe the doughter of Bethuel the Sirian of Mesopotamia and sister to Iaban the Sirien.
+**[25:20]** And Isaac was.xl. yere olde whe he toke Rebecca to wyfe the doughter of Bethuel the Sirian of Mesopotamia and sister to Iaban the Sirien.
 
 **[25:21]** And Isaac made intercessio vnto ye LORde for his wife: because she was bare: and ye LORde was itreated of hi and Rebecca his wife coceaued:
 
 **[25:22]** and ye childern stroue together withi her, the she sayde: yf it shulde goo so to passe what helpeth it yt I am with childe? And she went and axed ye LORde.
 
-**[25:23]** And ye LORde sayde vnto her there are .ij. maner of people in the wombe and ij. nations shall springe out of thy bowels and the one nation shalbe myghtier than the other and the eldest shalbe servaunte vnto the yonger.
+**[25:23]** And ye LORde sayde vnto her there are.ij. maner of people in the wombe and ij. nations shall springe out of thy bowels and the one nation shalbe myghtier than the other and the eldest shalbe servaunte vnto the yonger.
 
-**[25:24]** And whe hir tyme was come to be delyuered beholde: there were .ij. twyns in hir wobe.
+**[25:24]** And whe hir tyme was come to be delyuered beholde: there were.ij. twyns in hir wobe.
 
 **[25:25]** And he that came out first was redde and rough ouer all as it were an hyde: and they called his name Esau.
 
-**[25:26]** And after ward his brother came out and his hande holdynge Esau by the hele. Wher fore his name was called Iacob. And Isaac was .lx. yere olde whe she bare the:
+**[25:26]** And after ward his brother came out and his hande holdynge Esau by the hele. Wher fore his name was called Iacob. And Isaac was.lx. yere olde whe she bare the:
 
 **[25:27]** and the boyes grewe and Esau became a conynge hunter and a tyllman. But Iacob was a simple man and dwelled in the tentes.
 
@@ -1506,7 +1506,7 @@
 
 **[26:33]** And he called it Seba wherfore the name of the cyte is called Berseba vnto this daye.
 
-**[26:34]** When Esau was .xl. yere olde he toke to wyfe Judith the doughter of Bely an Hethite and Busmath the doughter of Elon an Hethite
+**[26:34]** When Esau was.xl. yere olde he toke to wyfe Judith the doughter of Bely an Hethite and Busmath the doughter of Elon an Hethite
 
 **[26:35]** also which were dishobedient vnto Isaac and Rebecca.
 
@@ -1528,7 +1528,7 @@
 
 **[27:8]** Now therfore my sonne heare my voyce in that which I comaunde the:
 
-**[27:9]** gett the to the flocke and bringe me thece .ij. good kiddes and I will make meate of the for thi father soch as he loueth.
+**[27:9]** gett the to the flocke and bringe me thece.ij. good kiddes and I will make meate of the for thi father soch as he loueth.
 
 **[27:10]** And thou shalt brige it to thi father and he shal eate yt he maye blysse the before his deth
 
@@ -1582,7 +1582,7 @@
 
 **[27:35]** And he sayde thy brother came with subtilte ad hath take awaye thy blessynge.
 
-**[27:36]** Than sayde he: He maye well be called Iacob for he hath vndermyned me now .ij. tymes fyrst he toke awaye my byrthrighte: and se now hath he taken awaye my blessynge also. And he sayde hast thou kepte neuer a blessynge for me?
+**[27:36]** Than sayde he: He maye well be called Iacob for he hath vndermyned me now.ij. tymes fyrst he toke awaye my byrthrighte: and se now hath he taken awaye my blessynge also. And he sayde hast thou kepte neuer a blessynge for me?
 
 **[27:37]** Isaac answered and sayde vnto Esau: beholde I haue made him thi LORde and all his mothers childern haue I made his seruauntes. Moreouer wyth corne ad wyne haue I stablesshed him what ca I do vnto the now my sonne?
 
@@ -1654,7 +1654,7 @@
 
 **[29:1]** Then Iacob lyfte vp his fete and wet toward the east countre.
 
-**[29:2]** And as he loked aboute behold there was a well in the feld and .iij. flockes of shepe laye therby (for at that well were the flockes watered) and there laye a great stone at the well mouth
+**[29:2]** And as he loked aboute behold there was a well in the feld and.iij. flockes of shepe laye therby (for at that well were the flockes watered) and there laye a great stone at the well mouth
 
 **[29:3]** And the maner was to brynge the flockes thyther and to roull the stone fro the welles mouth and to water the shepe and to put the stone agayne vppon the wells mouth vnto his place.
 
@@ -1682,15 +1682,15 @@
 
 **[29:15]** And afterward Laban sayd vnto Iacob: though thou be my brother shuldest thou therfore serue me for nought?tell me what shall thi wages be?
 
-**[29:16]** And Laban had .ij. doughters the eldest called Lea and the yongest Rahel.
+**[29:16]** And Laban had.ij. doughters the eldest called Lea and the yongest Rahel.
 
 **[29:17]** Lea was tender eyed: But Rahel was bewtifull ad well fauored.
 
-**[29:18]** And Iacob loued her well and sayde: I will serue the .vij. yere for Rahel thy yongest doughter.
+**[29:18]** And Iacob loued her well and sayde: I will serue the.vij. yere for Rahel thy yongest doughter.
 
 **[29:19]** And Laban answered: it is better yt I geue her the than to another man? byde therfore with me.
 
-**[29:20]** And Iacob serued .vij. yeres for Rahel and they semed vnto him but a fewe dayes for the loue he had to her.
+**[29:20]** And Iacob serued.vij. yeres for Rahel and they semed vnto him but a fewe dayes for the loue he had to her.
 
 **[29:21]** And Iacob sayde vnto Laban geue me my wife that I maye lye with hir for the tyme appoynted me is come.
 
@@ -1704,13 +1704,13 @@
 
 **[29:26]** Laban answered: it is not the maner of this place to marke the yongest before the eldest.
 
-**[29:27]** Passe out this weke and tha shall this also be geuen the for ye seruyce which thou shalt serue me yet .vij. yeres more.
+**[29:27]** Passe out this weke and tha shall this also be geuen the for ye seruyce which thou shalt serue me yet.vij. yeres more.
 
 **[29:28]** And Iacob dyd eue so and passed out that weke and than he gaue hi Rahel his doughter to wyfe also.
 
 **[29:29]** And Laban gaue to Rahel his doughter Bilha his handmayde to be hir servaute.
 
-**[29:30]** So laye he by Rahel also and loued Rahel more than Lea and serued him yet .vij. yeres more.
+**[29:30]** So laye he by Rahel also and loued Rahel more than Lea and serued him yet.vij. yeres more.
 
 **[29:31]** When the LORde sawe that Lea was despised he made her frutefull: but Rahel was baren.
 
@@ -1718,7 +1718,7 @@
 
 **[29:33]** And she conceaued agayne and bare a sonne and sayde: the LORde hath herde that I am despised ad hath therfore geuen me this sonne also and she called him Simeon.
 
-**[29:34]** And she conceaued yet and bare a sonne ad sayde: now this once will my husbonde kepe me company because I haue borne him .iij. sonnes: and therfore she called his name Levi.
+**[29:34]** And she conceaued yet and bare a sonne ad sayde: now this once will my husbonde kepe me company because I haue borne him.iij. sonnes: and therfore she called his name Levi.
 
 **[29:35]** And she conceaued yet agayne and bare a sonne saynge? Now will I prayse the LORde: therfore she called his name Iuda and left bearynge.
 
@@ -1756,13 +1756,13 @@
 
 **[30:16]** And whe Iacob came from the feldes at euen Lea went out to mete him and sayde: come into me for I haue bought the with my sonnes mandragoras.And he slepte with her that nyghte.
 
-**[30:17]** And God herde Lea yt she coceaued and bare vnto Iacob yt .v. sonne.
+**[30:17]** And God herde Lea yt she coceaued and bare vnto Iacob yt.v. sonne.
 
 **[30:18]** Than sayde Lea. God hath geue me my rewarde because I gaue my mayde to my housbod and she called him Isachar.
 
 **[30:19]** And Lea coceaued yet agayne and bare Iacob the sexte sonne.
 
-**[30:20]** Than sayde she: God hath endewed me with a good dowry. Now will my housbond dwell with me because I haue borne him .vi. sonnes: and called his name Zabulo.
+**[30:20]** Than sayde she: God hath endewed me with a good dowry. Now will my housbond dwell with me because I haue borne him.vi. sonnes: and called his name Zabulo.
 
 **[30:21]** After that she bare a doughter and called her Dina.
 
@@ -1824,7 +1824,7 @@
 
 **[31:6]** And ye knowe how that I haue serued youre father with all my myghte.
 
-**[31:7]** And youre father hath disceaued me and chaunged my wages .x. tymes: But God suffred him not to hurte me.
+**[31:7]** And youre father hath disceaued me and chaunged my wages.x. tymes: But God suffred him not to hurte me.
 
 **[31:8]** When he sayde the spotted shalbe thy wages tha all the shepe barespotted. Yf he sayde the straked shalbe thi rewarde tha bare all the shepe straked:
 
@@ -1856,7 +1856,7 @@
 
 **[31:22]** Apo the thirde day after was it tolde Laba yt Iacob was fled.
 
-**[31:23]** Tha he toke his brethre with him and folowed after him .vij. dayes iourney and ouer toke him at the mounte Gilead.
+**[31:23]** Tha he toke his brethre with him and folowed after him.vij. dayes iourney and ouer toke him at the mounte Gilead.
 
 **[31:24]** And God came to Laba the Siria in a dreame by nyghte and sayde vnto him: take hede to thi selfe that thou speake not to Iacob oughte save good.
 
@@ -1876,7 +1876,7 @@
 
 **[31:32]** But with whome soeuer thou fyndest thy goddes let him dye here before oure brethre. Seke that thine is by me and take it to the: for Iacob wist not that Rahel had stolle the.
 
-**[31:33]** Tha wet Laba in to Iacobs tete and in to Leas tete and in to .ij. maydens tentes: but fownde the not. Tha wet he out of Leas tete and entred in to Rahels tete.
+**[31:33]** Tha wet Laba in to Iacobs tete and in to Leas tete and in to.ij. maydens tentes: but fownde the not. Tha wet he out of Leas tete and entred in to Rahels tete.
 
 **[31:34]** And Rahel toke the ymages and put them in the camels strawe and sate doune apo the. And Laba serched all the tete: but fownde the not.
 
@@ -1892,7 +1892,7 @@
 
 **[31:40]** Moreouer by daye the hete consumed me and the colde by nyghte and my slepe departed fro myne eyes.
 
-**[31:41]** Thus haue I bene .xx. yere in thi house and serued the .xiiij. yeres forthy .ij. doughters and vi. yere for thi shepe and thou hast changed my rewarde .x. tymes.
+**[31:41]** Thus haue I bene.xx. yere in thi house and serued the.xiiij. yeres forthy.ij. doughters and vi. yere for thi shepe and thou hast changed my rewarde.x. tymes.
 
 **[31:42]** And excepte the God of my father the God of Abraha and the God whome Isaac feareth had bene with me: surely thou haddest sent me awaye now all emptie. But God behelde my tribulation and the laboure of my handes: and rebuked the yester daye.
 
@@ -1934,15 +1934,15 @@
 
 **[32:5]** and haue gotten oxen asses and shepe menservauntes and wemanseruauntes and haue sent to shewe it mi lorde that I may fynde grace in thy syghte.
 
-**[32:6]** And the messengers came agayne to Iacob sainge: we came vnto thi brother Esau and he cometh ageynst the and .iiij. hundred men with hi.
+**[32:6]** And the messengers came agayne to Iacob sainge: we came vnto thi brother Esau and he cometh ageynst the and.iiij. hundred men with hi.
 
-**[32:7]** Than was Iacob greatlye afrayde and wist not which waye to turne him selfe and devyded the people that was with him and the shepe oxen and camels in to .ij. companies
+**[32:7]** Than was Iacob greatlye afrayde and wist not which waye to turne him selfe and devyded the people that was with him and the shepe oxen and camels in to.ij. companies
 
 **[32:8]** and sayde: Yf Esau come to the one parte and smyte it the other may saue it selfe.
 
 **[32:9]** And Iacob sayde: O god of my father Abraham and God of my father Isaac: LORde which saydest vnto me returne vnto thy cuntre and to thy kynrede and I will deall wel with the.
 
-**[32:10]** I am not worthy of the leaste of all the mercyes and treuth which thou hast shewed vnto thy seruaunte. For with my staf came I over this Iordane and now haue Igoten .ij. droves
+**[32:10]** I am not worthy of the leaste of all the mercyes and treuth which thou hast shewed vnto thy seruaunte. For with my staf came I over this Iordane and now haue Igoten.ij. droves
 
 **[32:11]** Delyver me from the handes of my brother Esau for I feare him: lest he will come and smyte the mother with the childeru.
 
@@ -1966,7 +1966,7 @@
 
 **[32:21]** So went the preset before him ad he taried all that nyghte in the tente
 
-**[32:22]** ad rose vp the same nyghte ad toke his .ij. wyves and his .ij. maydens and his .xi. sonnes and went ouer the foorde Iabok.
+**[32:22]** ad rose vp the same nyghte ad toke his.ij. wyves and his.ij. maydens and his.xi. sonnes and went ouer the foorde Iabok.
 
 **[32:23]** And he toke them ad sent the ouer the ryuer ad sent ouer that he had
 
@@ -1990,7 +1990,7 @@
 
 ### Chapter 33
 
-**[33:1]** Iacob lyfte vp his eyes and sawe hys brother Esau come and with him .iiij. hundred men. And he deuyded the childern vnto Lea and vnto Rahel and vnto ye ij. maydens.
+**[33:1]** Iacob lyfte vp his eyes and sawe hys brother Esau come and with him.iiij. hundred men. And he deuyded the childern vnto Lea and vnto Rahel and vnto ye ij. maydens.
 
 **[33:2]** And he put the maydens ad their childern formest ad Lea and hir childern after and Rahel ad Ioseph hindermost.
 
@@ -2138,7 +2138,7 @@
 
 **[35:21]** And Israell went thece and pitched vp his tent beyonde the toure of Eder.
 
-**[35:22]** And it chaunced as Israel dwelt in that lande that Ruben went and laye with Bilha his fathers concubyne and it came to Israels eare. The sonnes of Iacob were .xij. in nombre.
+**[35:22]** And it chaunced as Israel dwelt in that lande that Ruben went and laye with Bilha his fathers concubyne and it came to Israels eare. The sonnes of Iacob were.xij. in nombre.
 
 **[35:23]** The sonnes of Lea. Ruben Iacobs eldest sonne and Simeo Leui Iuda Isachar and Zabulon
 
@@ -2150,7 +2150,7 @@
 
 **[35:27]** Then Iacob went vnto Isaac his father to Mamre a pricipall cyte otherwise called Hebron: where Abraha and Isaac sogeorned as straungers.
 
-**[35:28]** And the dayes of Isaac were an hundred and .lxxx. yeres:
+**[35:28]** And the dayes of Isaac were an hundred and.lxxx. yeres:
 
 **[35:29]** and than fell he seke and dyed ad was put vnto his people: beynge olde and full of dayes. And his sonnes Esau ad Iacob buried him.
 
@@ -2246,7 +2246,7 @@
 
 **[37:1]** And Iacob dwelt in the lande wherein his father was a straunger yt is to saye in the lande of Canaan.
 
-**[37:2]** And these are the generations of Iacob: when Ioseph was .xvij. yere olde he kepte shepe with his brethren and the lad was with the sonnes of Bilha and of Zilpha his fathers wyues. And he brought vnto their father an euyll saynge yt was of them.
+**[37:2]** And these are the generations of Iacob: when Ioseph was.xvij. yere olde he kepte shepe with his brethren and the lad was with the sonnes of Bilha and of Zilpha his fathers wyues. And he brought vnto their father an euyll saynge yt was of them.
 
 **[37:3]** And Israel loued Ioseph more than all his childern because he begat hym in his olde age and he made him a coote of many coloures.
 
@@ -2260,7 +2260,7 @@
 
 **[37:8]** Than sayde his brethren vnto him: what shalt thou be oure kynge or shalt thou reigne ouer us? And they hated hi yet the more because of his dreame and of his wordes.
 
-**[37:9]** And he dreamed yet another dreame and told it his brethren saynge: beholde I haue had one dreame more: me thought the sonne and the moone and .xi. starres made obaysaunce to me.
+**[37:9]** And he dreamed yet another dreame and told it his brethren saynge: beholde I haue had one dreame more: me thought the sonne and the moone and.xi. starres made obaysaunce to me.
 
 **[37:10]** And when he had told it vnto his father and his brethern his father rebuked him and sayde vnto him: what meaneth this dreame which thou hast dreamed: shall I and thy mother and thy brethren come and fall on the grounde before the?
 
@@ -2298,7 +2298,7 @@
 
 **[37:27]** come on let vs sell him to the Ismaelites and let not oure handes be defyled vpon him: for he is oure brother and oure flesh. And his brethren were content.
 
-**[37:28]** Than as the Madianites marchaunt men passed by they drewe Ioseph out of the pytt and sold him vnto the Ismaelites for .xx. peces of syluer.And they brought him into Egipte.
+**[37:28]** Than as the Madianites marchaunt men passed by they drewe Ioseph out of the pytt and sold him vnto the Ismaelites for.xx. peces of syluer.And they brought him into Egipte.
 
 **[37:29]** And when Ruben came agayne vnto the pytt and founde not Ioseph there he rent his cloothes
 
@@ -2364,13 +2364,13 @@
 
 **[38:23]** And Iuda sayde: let her take it to her lest we be shamed: for I sente the kydd and thou coudest not fynde her.
 
-**[38:24]** And it came to passe that after .iij. monethes one tolde Iuda saynge: Thamar thy doughter in lawe hath played the whoore and with playnge the whoore is become great with childe. And Iuda sayde: brynge her forth ad let her be brente.
+**[38:24]** And it came to passe that after.iij. monethes one tolde Iuda saynge: Thamar thy doughter in lawe hath played the whoore and with playnge the whoore is become great with childe. And Iuda sayde: brynge her forth ad let her be brente.
 
 **[38:25]** And when they brought her forth she sent to her father in lawe saynge: by the ma vnto whome these thinges pertayne am I with childe. And sayd also: loke whose are this seall necklace and staffe.
 
 **[38:26]** And Iuda knewe them saynge: she is more rightwes tha I because I gaue her not to Sela my sone. But he laye with her nomore.
 
-**[38:27]** When tyme was come that she shulde be delyuered beholde there was .ij. twynnes in hyr wobe.
+**[38:27]** When tyme was come that she shulde be delyuered beholde there was.ij. twynnes in hyr wobe.
 
 **[38:28]** And as she traveled the one put out his hande and the mydwife toke and bownde a reed threde aboute it saynge: this wyll come out fyrst.
 
@@ -2446,13 +2446,13 @@
 
 **[40:9]** And the chefe butlar tolde his dreame to Ioseph and sayde vnto him. In my dreame me thought there stode a vyne before me
 
-**[40:10]** and in the vyne were .iij. braunches and it was as though it budded and her blossos shottforth: and ye grapes there of waxed rype.
+**[40:10]** and in the vyne were.iij. braunches and it was as though it budded and her blossos shottforth: and ye grapes there of waxed rype.
 
 **[40:11]** And I had Pharaos cuppe in my hande and toke of the grapes and wronge them in to Pharaos cuppe and delyvered Pharaos cuppe into his hande.
 
 **[40:12]** And Ioseph sayde vnto him this is the interpretation of it.
 
-**[40:13]** The .iij. braunches ar thre dayes: for within thre dayes shall Pharao lyft vp thine heade and restore the vnto thyne office agayne and thou shalt delyuer Pharaos cuppe in to his hade after the old maner even as thou dydest when thou wast his butlar.
+**[40:13]** The.iij. braunches ar thre dayes: for within thre dayes shall Pharao lyft vp thine heade and restore the vnto thyne office agayne and thou shalt delyuer Pharaos cuppe in to his hade after the old maner even as thou dydest when thou wast his butlar.
 
 **[40:14]** But thinke on me with the when thou art in good case and shewe mercie vnto me. And make mencion of me to Pharao and helpe to brynge me out of this house:
 
@@ -2462,9 +2462,9 @@
 
 **[40:17]** And in ye vppermost basket of all maner bakemeates for Pharao. And the byrdes ate them out of the basket apon my heade
 
-**[40:18]** Ioseph answered and sayde: this is the interpretation therof. The .iij. baskettes are .iij. dayes
+**[40:18]** Ioseph answered and sayde: this is the interpretation therof. The.iij. baskettes are.iij. dayes
 
-**[40:19]** for this daye .iij. dayes shall Pharao take thy heade from the and shall hange the on a tree and the byrdes shall eate thy flesh from of the.
+**[40:19]** for this daye.iij. dayes shall Pharao take thy heade from the and shall hange the on a tree and the byrdes shall eate thy flesh from of the.
 
 **[40:20]** And it came to passe the thyrde daye which was Pharaos byrth daye that he made a feast vnto all his servauntes. And he lyfted vpp the head of the chefe buttelar and of the chefe baker amonge his servauntes.
 
@@ -2476,19 +2476,19 @@
 
 ### Chapter 41
 
-**[41:1]** And it fortuned at .ij. yeres end that Pharao dreamed and thought that he stode by a ryuers syde and that there came out of the ryver
+**[41:1]** And it fortuned at.ij. yeres end that Pharao dreamed and thought that he stode by a ryuers syde and that there came out of the ryver
 
 **[41:2]** .vij. goodly kyne and fatt fleshed and fedd in a medowe.
 
-**[41:3]** And him though that .vij. other kyne came vp after them out of the ryver euelfauored and leane fleshed and stode by the other vpon the brynke of the ryuer.
+**[41:3]** And him though that.vij. other kyne came vp after them out of the ryver euelfauored and leane fleshed and stode by the other vpon the brynke of the ryuer.
 
-**[41:4]** And the evill favored and Ienefleshed kyne ate vp the .vij. welfauored and fatt kyne: and be awoke their with.
+**[41:4]** And the evill favored and Ienefleshed kyne ate vp the.vij. welfauored and fatt kyne: and be awoke their with.
 
-**[41:5]** And he slepte agayne and dreamed the second tyme that .vij. eares of corne grewe apon one stalke rancke and goodly.
+**[41:5]** And he slepte agayne and dreamed the second tyme that.vij. eares of corne grewe apon one stalke rancke and goodly.
 
-**[41:6]** And that .vij. thynne eares blasted with the wynde spronge vp after them:
+**[41:6]** And that.vij. thynne eares blasted with the wynde spronge vp after them:
 
-**[41:7]** and that the .vij. thynne eares deuowrerd the .vij. rancke and full eares. And than Pharao awaked: and se here is his dreame.
+**[41:7]** and that the.vij. thynne eares deuowrerd the.vij. rancke and full eares. And than Pharao awaked: and se here is his dreame.
 
 **[41:8]** When the mornynge came his sprete was troubled And he sent and casted for all the soythsayers of Egypte and all the wyse men there of and told them his dreame: but there was none of them that coude interpretate it vnto Pharao.
 
@@ -2512,27 +2512,27 @@
 
 **[41:18]** vij fatt fleshed ad well fauored kyne and fedd in the medowe.
 
-**[41:19]** And then .vij. other kyne came vp after them poore and very euell fauored ad leane fleshed: so that I neuer sawe their lyke in all the lande of Egipte in euell fauordnesse.
+**[41:19]** And then.vij. other kyne came vp after them poore and very euell fauored ad leane fleshed: so that I neuer sawe their lyke in all the lande of Egipte in euell fauordnesse.
 
-**[41:20]** And the .vij. leane and euell fauored kyne ate vpp the first .vij. fatt kyne
+**[41:20]** And the.vij. leane and euell fauored kyne ate vpp the first.vij. fatt kyne
 
 **[41:21]** And when they had eaten them vp a man cowde not perceaue that they had eate them: for they were still as evyll fauored as they were at the begynnynge. And I awoke.
 
-**[41:22]** And I sawe agayne in my dreame .vij. eares sprynge out of one stalk full and good
+**[41:22]** And I sawe agayne in my dreame.vij. eares sprynge out of one stalk full and good
 
-**[41:23]** and .vij. other eares wytherd thinne and blasted with wynde sprynge vp after them.
+**[41:23]** and.vij. other eares wytherd thinne and blasted with wynde sprynge vp after them.
 
-**[41:24]** And the thynne eares deuowred the .vij. good cares. And I haue tolde it vnto the sothsayers but no man can tell me what it meaneth.
+**[41:24]** And the thynne eares deuowred the.vij. good cares. And I haue tolde it vnto the sothsayers but no man can tell me what it meaneth.
 
 **[41:25]** Then Ioseph sayde vnto Pharao: both Pharaos dreames are one. And god doth shewe Pharao what he is aboute to do.
 
-**[41:26]** The vij. good kyne are .vij yeare: and the .vij. good eares are .vij. yere also and is but one dreame.
+**[41:26]** The vij. good kyne are.vij yeare: and the.vij. good eares are.vij. yere also and is but one dreame.
 
-**[41:27]** Lykewyse the .vij. thynne and euell fauored kyne that came out after them are .vij. yeares: and the .vij. emptie and blasted eares shalbe vij. yeares of hunger.
+**[41:27]** Lykewyse the.vij. thynne and euell fauored kyne that came out after them are.vij. yeares: and the.vij. emptie and blasted eares shalbe vij. yeares of hunger.
 
 **[41:28]** This is that which I sayde vnto Pharao that God doth shewe Pharao what he is aboute to doo.
 
-**[41:29]** Beholde there shall come .vij. yere of great plenteousnes through out all the lande of Egypte.
+**[41:29]** Beholde there shall come.vij. yere of great plenteousnes through out all the lande of Egypte.
 
 **[41:30]** And there shall aryse after them vij. yeres of hunger. So that all the plenteousnes shalbe forgeten in the lande of Egipte. And the hunger shall consume the lande:
 
@@ -2546,7 +2546,7 @@
 
 **[41:35]** and let them gather all the foode of these good yeres that come ad lay vp corne vnder the power of Pharo: that there may be foode in the cities
 
-**[41:36]** and there let them kepte it: that there may be foode in stoore in the lande agaynst the .vij. yeres of hunger which shall come in the lande of Egipte and that the lande perishe not thorow hunger.
+**[41:36]** and there let them kepte it: that there may be foode in stoore in the lande agaynst the.vij. yeres of hunger which shall come in the lande of Egipte and that the lande perishe not thorow hunger.
 
 **[41:37]** And the saynge pleased Pharao ad all his seruauntes.
 
@@ -2566,23 +2566,23 @@
 
 **[41:45]** And be called Iosephs name Zaphnath Paenea. And he gaue him to wyfe Asnath the doughter of Potiphara preast of On. Than went Ioseph abrode in the lade of Egipte.
 
-**[41:46]** And he was .xxx. yere olde whe he stode before Pharao kynge of Egipte. And than Ioseph departed from Pharao and went thorow out all the lande of Egipte.
+**[41:46]** And he was.xxx. yere olde whe he stode before Pharao kynge of Egipte. And than Ioseph departed from Pharao and went thorow out all the lande of Egipte.
 
-**[41:47]** And in the .vij. pleteous yeres they made sheves and gathered
+**[41:47]** And in the.vij. pleteous yeres they made sheves and gathered
 
-**[41:48]** vp all the fode of the .vij. plenteous yeres which were in the lande of Egipte and put it in to the cities. And he put the food of the feldes that grewe rounde aboute euery cyte: euen in the same.
+**[41:48]** vp all the fode of the.vij. plenteous yeres which were in the lande of Egipte and put it in to the cities. And he put the food of the feldes that grewe rounde aboute euery cyte: euen in the same.
 
 **[41:49]** And Ioseph layde vp corne in stoore lyke vnto the sande of the see in multitude out of mesure vntyll he left nombrynge: For it was with out nombre.
 
-**[41:50]** And vnto Ioseph were borne .ij. sonnes before the yeres of hunger came which Asnath the doughter of Potiphara preast of On bare vnto him.
+**[41:50]** And vnto Ioseph were borne.ij. sonnes before the yeres of hunger came which Asnath the doughter of Potiphara preast of On bare vnto him.
 
 **[41:51]** And he called the name of the first sonne Manasse for God (sayde he) hath made me forgett all my laboure and all my fathers husholde.
 
 **[41:52]** The seconde called he Ephraim for God (sayde he) hath caused me to growe in the lande of my trouble.
 
-**[41:53]** And when the .vij. yeres plenteousnes that was in the lands of Egypte were ended
+**[41:53]** And when the.vij. yeres plenteousnes that was in the lands of Egypte were ended
 
-**[41:54]** than came the .vij. yeres of derth acordynge as Ioseph had sayde. And the derth was in all landes: but in the lade of Egipte was there yet foode.
+**[41:54]** than came the.vij. yeres of derth acordynge as Ioseph had sayde. And the derth was in all landes: but in the lade of Egipte was there yet foode.
 
 **[41:55]** When now all the lande of Egipte began to hunger than cried the people to Pharao for bread. And Pharao sayde vnto all Egipte: goo vnto Ioseph and what he sayth to you that doo
 
@@ -2616,7 +2616,7 @@
 
 **[42:12]** And he sayde vnto them: nay verely but euen to se where the land is weake is youre comynge.
 
-**[42:13]** And they sayde: we thi seruauntes are .xij. brethern the sonnes of one man in the lande of Canaan. The yongest is yet with oure father and one no man woteth where he is.
+**[42:13]** And they sayde: we thi seruauntes are.xij. brethern the sonnes of one man in the lande of Canaan. The yongest is yet with oure father and one no man woteth where he is.
 
 **[42:14]** Ioseph sayde vnto them that is it that I sayde vnto you that ye are surelye spies.
 
@@ -2654,7 +2654,7 @@
 
 **[42:31]** And we sayde vnto him: we meane truely and are no spies.
 
-**[42:32]** We be .xij. bretren sones of oure father one is awaye and the yongest is now with oure father in the lande of Canaan.
+**[42:32]** We be.xij. bretren sones of oure father one is awaye and the yongest is now with oure father in the lande of Canaan.
 
 **[42:33]** And the lorde of the countre sayde vnto us: here by shall I knowe yf ye meane truely: leaue one of youre brethern here with me and take foode necessary for youre housholdes and get you awaye
 
@@ -2792,7 +2792,7 @@
 
 **[44:26]** we sayd yt we coude not goo. Neverthelesse if oure youngeste brother go with vs then will we goo for we maye not see the mannes face excepte oure yongest brother be with vs.
 
-**[44:27]** Then sayde thy servaunt oure father vnto vs. Ye knowe that my wyfe bare me .ij. sonnes.
+**[44:27]** Then sayde thy servaunt oure father vnto vs. Ye knowe that my wyfe bare me.ij. sonnes.
 
 **[44:28]** And the one went out from me and it is sayde of a suertie that he is torne in peaces of wyld beastes and I sawe him not sence.
 
@@ -2852,9 +2852,9 @@
 
 **[45:21]** And the childern of Israell dyd euen so And Ioseph gaue them charettes at the commaundment of Pharao and gaue them vitayle also to spende by the waye.
 
-**[45:22]** And he gaue vnto eche of them chaunge of rayment: but vnto Ben Iamin he gaue .iij. hundred peces of syluer and .v. chaunge of rayment.
+**[45:22]** And he gaue vnto eche of them chaunge of rayment: but vnto Ben Iamin he gaue.iij. hundred peces of syluer and.v. chaunge of rayment.
 
-**[45:23]** And vnto his father he sent after the same maner: .x. he asses laden with good out of Egipte and .x. she asses laden with corne bred and meate: to serue his father by the waye.
+**[45:23]** And vnto his father he sent after the same maner:.x. he asses laden with good out of Egipte and.x. she asses laden with corne bred and meate: to serue his father by the waye.
 
 **[45:24]** So sent he his brethern awaye and they departed. And he sayde vnto them: se that ye fall nor out by the waye.
 
@@ -2896,7 +2896,7 @@
 
 **[46:14]** The childern of Sebulon: Sered Elon and Iaheleel.
 
-**[46:15]** These be the childern of Lea which she bare vnto Iacob in Mesopotamia with his doughter Dina. All these soulles of his sonnes and doughters make .xxx and .vi.
+**[46:15]** These be the childern of Lea which she bare vnto Iacob in Mesopotamia with his doughter Dina. All these soulles of his sonnes and doughters make.xxx and.vi.
 
 **[46:16]** The childern of Gad: Ziphion Haggi Suni Ezbon Eri Arodi and Areli.
 
@@ -2916,11 +2916,11 @@
 
 **[46:24]** The childern of Nepthali? Iahezeel Guni Iezer and Sillem.
 
-**[46:25]** These are the sonnes of Bilha which Laban gaue vnto Rahel his doughter and she bare these vnto Iacob all together .vij. soulles
+**[46:25]** These are the sonnes of Bilha which Laban gaue vnto Rahel his doughter and she bare these vnto Iacob all together.vij. soulles
 
-**[46:26]** All the soulles that came with Iacob into Egipte which came out of his loyns (besyde his sonnes wifes) were all togither .lx. and .vi. soulles.
+**[46:26]** All the soulles that came with Iacob into Egipte which came out of his loyns (besyde his sonnes wifes) were all togither.lx. and.vi. soulles.
 
-**[46:27]** And the sonnes of Ioseph which were borne him in egipte were .ij. soules: So that all the soulles of the house of Iacob which came in to Egipte are lxx.
+**[46:27]** And the sonnes of Ioseph which were borne him in egipte were.ij. soules: So that all the soulles of the house of Iacob which came in to Egipte are lxx.
 
 **[46:28]** And he sent Iuda before him vnto Ioseph that the waye myghte be shewed him vnto Gosan and they came in to the lande of Gosan
 
@@ -2954,7 +2954,7 @@
 
 **[47:8]** And Pharao axed Iacob how old art thou?
 
-**[47:9]** And Iacob sayde vnto Pharao: the dayes of my pilgremage are an hundred and .xxx. yeres. Few and euell haue the dayes of my lyfe bene and haue not attayned vnto the yeres of the lyfe of my fathers in the dayes of their pilgremages.
+**[47:9]** And Iacob sayde vnto Pharao: the dayes of my pilgremage are an hundred and.xxx. yeres. Few and euell haue the dayes of my lyfe bene and haue not attayned vnto the yeres of the lyfe of my fathers in the dayes of their pilgremages.
 
 **[47:10]** And Iacob blessed Pharao and went out from him.
 
@@ -2984,7 +2984,7 @@
 
 **[47:23]** Then Ioseph sayde vnto the folke: beholde I haue boughte you this daye ad youre landes for Pharao. Take there seed and goo sowe the londe.
 
-**[47:24]** And of the encrease ye shall geue the fyfte parte vnto Pharao and .iiij. partes shalbe youre awne for seed to sowe the feld: and for you and them of youre housholdes and for youre childern to eate.
+**[47:24]** And of the encrease ye shall geue the fyfte parte vnto Pharao and.iiij. partes shalbe youre awne for seed to sowe the feld: and for you and them of youre housholdes and for youre childern to eate.
 
 **[47:25]** And they answered: Thou haste saued oure lyves Let vs fynde grace in the syghte of my lorde and let us be Pharaos servautes.
 
@@ -2992,7 +2992,7 @@
 
 **[47:27]** And Israel dwelt in Egipte: euen in the countre of Gosan. And they had their possessions therein and they grewe and multiplyed exceadingly.
 
-**[47:28]** Moreouer Iacob lyued in the lande of Egipte .xvij. yeres so that the hole age of Iacob was an hundred and .xlvij. yere.
+**[47:28]** Moreouer Iacob lyued in the lande of Egipte.xvij. yeres so that the hole age of Iacob was an hundred and.xlvij. yere.
 
 **[47:29]** When the tyme drewe nye that Israel must dye: he sent for his sonne Ioseph and sayde vnto him: Yf I haue founde grace in thy syghte put thy hande vnder my thye and deale mercifully ad truely with me that thou burie me not in Egipte:
 
@@ -3010,7 +3010,7 @@
 
 **[48:4]** and sayde vnto me: beholde I will make the growe and will multiplye the and will make a great nombre of people of the and will geue this lande vnto the and vnto thy seed after ye vnto an euerlastinge possession.
 
-**[48:5]** Now therfore thy .ij. sones Manasses ad Ephraim which were borne vnto the before I came to the in to Egipte shalbe myne: euen as Ruben and Simeo shall they be vnto me.
+**[48:5]** Now therfore thy.ij. sones Manasses ad Ephraim which were borne vnto the before I came to the in to Egipte shalbe myne: euen as Ruben and Simeo shall they be vnto me.
 
 **[48:6]** And the childern which thou getest after them shalbe thyne awne: but shalbe called with the names of their brethern in their enheritaunces.
 
@@ -3074,7 +3074,7 @@
 
 **[49:13]** Zabulon shall dwell in the hauen of the see and in the porte of shippes and shall reache vnto Sidon.
 
-**[49:14]** Isachar is a stronge asse he couched him doune betwene .ij. borders
+**[49:14]** Isachar is a stronge asse he couched him doune betwene.ij. borders
 
 **[49:15]** and sawe that rest was good and the lande that it was pleasant and bowed his shulder to beare and became a servaunte vnto trybute.
 
@@ -3102,7 +3102,7 @@
 
 **[49:27]** Ben Iamin is a raueshynge wolfe. In the mornynge be shall deuoure his praye ad at nyghte he shall deuyde his spoyle.
 
-**[49:28]** All these are the .xij. tribes of Israel and this is that which their father spake vnto them whe he blessed them euery man with a severall blessinge.
+**[49:28]** All these are the.xij. tribes of Israel and this is that which their father spake vnto them whe he blessed them euery man with a severall blessinge.
 
 **[49:29]** And he charged them and sayde vnto them. I shall be put vnto my people: se that ye burye me with my fathers in the caue that is in the felde of Ephron the Hethyte
 
@@ -3120,7 +3120,7 @@
 
 **[50:2]** And Ioseph commaunded his seruauntes that were Phisicions to embawme his father and the Phisicios ebawmed Israel
 
-**[50:3]** .xl. dayes loge for so loge doth ye embawminge last and the Egiptians bewepte him .lxx. dayes.
+**[50:3]** .xl. dayes loge for so loge doth ye embawminge last and the Egiptians bewepte him.lxx. dayes.
 
 **[50:4]** And when the dayes of wepynge were ended Ioseph spake vnto ye house of Pharao saynge: Yf I haue founde fauoure in youre eyes speake vnto Pharao and tell him how that
 
@@ -3134,7 +3134,7 @@
 
 **[50:9]** And there went with him also Charettes and horsemen: so that they were an exceadynge great companye.
 
-**[50:10]** And when they came to ye feld of Atad beyonde Iordane there they made great and exceadinge sore lamentacio. And he morned for his father .vij. dayes.
+**[50:10]** And when they came to ye feld of Atad beyonde Iordane there they made great and exceadinge sore lamentacio. And he morned for his father.vij. dayes.
 
 **[50:11]** When the enhabiters of the lande the Cananytes sawe the moornynge in ye felde of Atad they saide: this is a greate moornynge which the Egiptians make. Wherfore ye name of the place is called Abel mizraim which place lyeth beyonde Iordane.
 
@@ -3158,7 +3158,7 @@
 
 **[50:21]** feare not therfore for I will care for you and for youre childern and he spake kyndly vnto them.
 
-**[50:22]** Ioseph dwelt in Egipte and his fathers house also ad lyved an hundred and .x. yere.
+**[50:22]** Ioseph dwelt in Egipte and his fathers house also ad lyved an hundred and.x. yere.
 
 **[50:23]** And Ioseph sawe Ephraims childern eue vnto the thyrde generation. And vnto Machir the sonne of Manasses were childern borne and satt on Iosephs knees.
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** And Ioseph toke an ooth of the childern of Israel ad sayde: God will not fayle but vysett you se therfore that ye carye my boones hence.
 
-**[50:26]** And so Ioseph dyed when he was an hundred and .x. yere olde. And they enbawmed him and put him in a chest in Egipte.
+**[50:26]** And so Ioseph dyed when he was an hundred and.x. yere olde. And they enbawmed him and put him in a chest in Egipte.
 
 ## Exodus
 
@@ -48754,7 +48754,7 @@
 
 **[9:19]** And Iesus arose and folowed hym with hys disciples.
 
-**[9:20]** And beholde a woman which was diseased wt an yssue of bloude .xii. yeres came behynde hym and toched ye hem of hys vesture.
+**[9:20]** And beholde a woman which was diseased wt an yssue of bloude.xii. yeres came behynde hym and toched ye hem of hys vesture.
 
 **[9:21]** For she sayd in her silfe: yf I maye toche but even his vesture only I shalbe safe.
 
@@ -48794,15 +48794,15 @@
 
 ### Chapter 10
 
-**[10:1]** And he called his .xii. disciples vnto hym and gave them power over vnclene sprites to cast them oute and to heale all maner of sicknesses and all maner of deseases.
+**[10:1]** And he called his.xii. disciples vnto hym and gave them power over vnclene sprites to cast them oute and to heale all maner of sicknesses and all maner of deseases.
 
-**[10:2]** The names of the .xii. Apostles are these. The fyrst Simon called also Peter: and Andrew his brother. Iames the sonne of zebede aud Ihon his brother.
+**[10:2]** The names of the.xii. Apostles are these. The fyrst Simon called also Peter: and Andrew his brother. Iames the sonne of zebede aud Ihon his brother.
 
 **[10:3]** Philip and Bartlemew. Thomas and Mathew the Publican. Iames the sonne of Alphe and Lebbeus otherwyse called Taddeus.
 
 **[10:4]** Simon of Cane and Iudas Iscarioth which also betrayed hym.
 
-**[10:5]** These .xii. sent Iesus and comaunded them sayinge: Go not in to ye wayes yt leade to the gentyls and in to ye cities of ye Samaritans enter ye not.
+**[10:5]** These.xii. sent Iesus and comaunded them sayinge: Go not in to ye wayes yt leade to the gentyls and in to ye cities of ye Samaritans enter ye not.
 
 **[10:6]** But go rather to ye lost shepe of the housse of Israel.
 
@@ -48880,7 +48880,7 @@
 
 ### Chapter 11
 
-**[11:1]** And it came to passe when Iesus had made an ende of comaundinge his .xii. disciples that he departed thence to teache and to preache in their cities.
+**[11:1]** And it came to passe when Iesus had made an ende of comaundinge his.xii. disciples that he departed thence to teache and to preache in their cities.
 
 **[11:2]** When Ihon beinge in preson hearde ye workes of Christ he sent two of his disciples
 
@@ -49088,7 +49088,7 @@
 
 **[13:22]** He yt was sowne amoge thornes is he yt heareth ye worde of God: but the care of this worlde and the dissaytfulnes of ryches choke ye worde and so is he made vnfrutfull.
 
-**[13:23]** He which is sowne in ye good grounde is he yt heareth ye worde and vnderstodeth it which also bereth frute and bringeth forth some an.C. folde some sixtie folde and some .xxx. folde.
+**[13:23]** He which is sowne in ye good grounde is he yt heareth ye worde and vnderstodeth it which also bereth frute and bringeth forth some an.C. folde some sixtie folde and some.xxx. folde.
 
 **[13:24]** Another similitude put he forth vnto the sayinge: The kyngdome of heve is lyke vnto a man which sowed good seed in his felde.
 
@@ -49108,7 +49108,7 @@
 
 **[13:32]** which is ye leest of all seedes. But when it is groune it is the greatest amoge yerbes and it is a tree: so yt the bryddes of the ayer come and bylde in the brauches of it.
 
-**[13:33]** Another similitude sayde he to them. The kyngdome of heven is lyke vnto leve which a woman taketh and hydeth in .iii. peckes of meele tyll all be levended.
+**[13:33]** Another similitude sayde he to them. The kyngdome of heven is lyke vnto leve which a woman taketh and hydeth in.iii. peckes of meele tyll all be levended.
 
 **[13:34]** All these thynge spake Iesus vnto the people by similitudes and with oute similitudes spake he nothinge to them
 
@@ -49194,15 +49194,15 @@
 
 **[14:16]** But Iesus sayde vnto them. They have no neade to go awaye. Geve ye the to eate.
 
-**[14:17]** Then sayde they vnto him: we have here but .v. loves and two fysshes.
+**[14:17]** Then sayde they vnto him: we have here but.v. loves and two fysshes.
 
 **[14:18]** And he sayde: bringe the hyther to me.
 
-**[14:19]** And he comaunded ye people to syt downe on ye grasse: and toke ye .v. loves and the .ii. fysshes and loked vp to heven and blessed and brake and gave the loves to his disciples and the disciples gave them to ye people.
+**[14:19]** And he comaunded ye people to syt downe on ye grasse: and toke ye.v. loves and the.ii. fysshes and loked vp to heven and blessed and brake and gave the loves to his disciples and the disciples gave them to ye people.
 
 **[14:20]** And they dyd all eate and were suffised. And they gadered vp of ye gobbetes that remayned vii. basketes full.
 
-**[14:21]** And they yt ate werein nobre about .v.M. men besyde wemen and chyldren.
+**[14:21]** And they yt ate werein nobre about.v.M. men besyde wemen and chyldren.
 
 **[14:22]** And strayght waye Iesus made his disciples enter into a shippe and to goo over before him whill he sent ye people awaye.
 
@@ -49298,7 +49298,7 @@
 
 **[15:31]** in so moche that the people wondred to se the dome speake the maymed whole the halt to go and ye blynde to se. And they glorified the God of Israel.
 
-**[15:32]** Then Iesus called his disciples to him and sayde: I have compassion on ye people becau se they have cotynued with me now .iii. dayes and have nought to eate: and I wyll not let them departe fastinge leste they perisshe in ye waye.
+**[15:32]** Then Iesus called his disciples to him and sayde: I have compassion on ye people becau se they have cotynued with me now.iii. dayes and have nought to eate: and I wyll not let them departe fastinge leste they perisshe in ye waye.
 
 **[15:33]** And his disciples sayd vnto him: whece shuld we get so moche breed in ye wildernes as shuld suffise so greate a multitude?
 
@@ -49308,9 +49308,9 @@
 
 **[15:36]** and toke the seven loves and the fysshes and gave thankes and brake them and gave to his disciples and the disciples gave them to the people.
 
-**[15:37]** And they dyd all eate and were suffised. And they toke vp of the broke meate that was lefte .vii. basketes full.
+**[15:37]** And they dyd all eate and were suffised. And they toke vp of the broke meate that was lefte.vii. basketes full.
 
-**[15:38]** And yet they that ate were .iiii.M. men besyde wemen and chyldren.
+**[15:38]** And yet they that ate were.iiii.M. men besyde wemen and chyldren.
 
 **[15:39]** And he sent awaye the people and toke shippe and came into the parties of Magdala.
 
@@ -49332,9 +49332,9 @@
 
 **[16:8]** When Iesus vnderstode that he sayd vnto the. O ye of lytell faith why are youre mindes cumbred because ye have brought no breed?
 
-**[16:9]** Do ye not yet perceave nether remeber those .v. loves when there were .v.M. men and how many baskettes toke ye vp?
+**[16:9]** Do ye not yet perceave nether remeber those.v. loves when there were.v.M. men and how many baskettes toke ye vp?
 
-**[16:10]** Nether the .vii. loves when there were .iiiii.M. and how many baskettes toke ye vp?
+**[16:10]** Nether the.vii. loves when there were.iiiii.M. and how many baskettes toke ye vp?
 
 **[16:11]** Why perceave ye not then yt I spake not vnto you of breed whe I sayde beware of the leven of the Pharises and of the Saduces?
 
@@ -49380,7 +49380,7 @@
 
 **[17:3]** And beholde ther appered vnto the Moses and Helyas talkinge with him.
 
-**[17:4]** Then answered Peter and sayde to Iesus: master here is good beinge for vs. If thou wylt leet vs make here .iii. tabernacles one for the and one for Moses and one for Helyas.
+**[17:4]** Then answered Peter and sayde to Iesus: master here is good beinge for vs. If thou wylt leet vs make here.iii. tabernacles one for the and one for Moses and one for Helyas.
 
 **[17:5]** Whyll he yet spake beholde a bright cloude shadowed them. And beholde there came a voyce out of ye cloude sayinge: this is my deare sonne in whom I delite heare him.
 
@@ -49556,7 +49556,7 @@
 
 **[19:27]** Then answered Peter and sayde to him: Beholde we have forsaken all and folowed the what shall we have?
 
-**[19:28]** Iesus sayde vnto them: verely I saye to you: when the sonne of man shall syt in ye seate of his maieste ye which folowe me in ye seconde generacion shall syt also vpon .xii. seates and iudge ye .xii. tribes of Israel.
+**[19:28]** Iesus sayde vnto them: verely I saye to you: when the sonne of man shall syt in ye seate of his maieste ye which folowe me in ye seconde generacion shall syt also vpon.xii. seates and iudge ye.xii. tribes of Israel.
 
 **[19:29]** And whosoever forsaketh housses or brethren or systers other father or mother or wyfe or chyldren or landes for my names sake ye same shall receave an hundred folde and shall inheret everlastynge lyfe.
 
@@ -49596,7 +49596,7 @@
 
 **[20:16]** Soo the laste shalbe fyrste and the fyrste shalbe laste. For many are called and feawe be chosen.
 
-**[20:17]** And Iesus ascended to Ierusalem and toke the .xii. disciples a parte in the waye and sayde to the.
+**[20:17]** And Iesus ascended to Ierusalem and toke the.xii. disciples a parte in the waye and sayde to the.
 
 **[20:18]** Beholde we goo vp to Ierusalem and the sonne of ma shalbe betrayed vnto ye chefe prestes and vnto the scribes and they shall condene him to deeth
 
@@ -50006,7 +50006,7 @@
 
 ### Chapter 25
 
-**[25:1]** Then ye kyngdome of heven shalbe lykened vnto .x. virgins which toke their lampes and wet to mete the brydgrome:
+**[25:1]** Then ye kyngdome of heven shalbe lykened vnto.x. virgins which toke their lampes and wet to mete the brydgrome:
 
 **[25:2]** fyve of them were folysshe and fyve were wyse.
 
@@ -50034,11 +50034,11 @@
 
 **[25:14]** Lykwyse as a certeyne ma redy to take his iorney to a straunge coutre called his servautes and delivered to them his gooddes.
 
-**[25:15]** And vnto one he gave .v. talentes to another .ii. and to another one: to every man after his abilite and streyght waye departed.
+**[25:15]** And vnto one he gave.v. talentes to another.ii. and to another one: to every man after his abilite and streyght waye departed.
 
 **[25:16]** Then he that had receaved the fyve talentes went and bestowed them and wanne other fyve talentes.
 
-**[25:17]** Lykwyse he that receaved .ii. gayned other .ii.
+**[25:17]** Lykwyse he that receaved.ii. gayned other.ii.
 
 **[25:18]** But he yt receaved ye one went and digged a pit in the erth and hyd his masters money.
 
@@ -50048,7 +50048,7 @@
 
 **[25:21]** The his master sayde vnto him: well good servaut and faithfull. Thou hast bene faithfull in lytell I will make the ruler over moche: entre in into thy masters ioye.
 
-**[25:22]** Also he that receaved .ii. talentes came and sayde: master thou deliveredest vnto me .ii. talentes: beholde I have wone .ii. other talentes with them.
+**[25:22]** Also he that receaved.ii. talentes came and sayde: master thou deliveredest vnto me.ii. talentes: beholde I have wone.ii. other talentes with them.
 
 **[25:23]** And his master sayde vnto him well good servaunt and faithfull. Thou hast bene faithfull in lytell I wyll make the ruler over moche: go in into thy masters ioye.
 
@@ -50060,7 +50060,7 @@
 
 **[25:27]** thou oughtest therfore to have had my money to ye chaugers and then at my comynge shulde I have receaved myne awne with vauntage.
 
-**[25:28]** Take therfore the talent from him and geve it vnto him which hath .x. talentes.
+**[25:28]** Take therfore the talent from him and geve it vnto him which hath.x. talentes.
 
 **[25:29]** For vnto every man that hath shalbe geven and he shall have aboundance: and from him that hath not shalbe taken awaye even that he hath.
 
@@ -50138,7 +50138,7 @@
 
 **[26:19]** And the disciples did as Iesus had apoynted them and made redy the esterlambe.
 
-**[26:20]** When the even was come he sate doune wt the .xii.
+**[26:20]** When the even was come he sate doune wt the.xii.
 
 **[26:21]** And as they dyd eate he sayde: Verely I saye vnto you that one of you shall betraye me.
 
@@ -50204,7 +50204,7 @@
 
 **[26:52]** Then sayde Iesus vnto him: put vp thy swearde into his sheathe. For all that ley hond on ye swearde shall perisshe with ye swearde.
 
-**[26:53]** Ether thinkest thou that I cannot now praye to my father and he shall geve me moo then .xii. legions of angelles?
+**[26:53]** Ether thinkest thou that I cannot now praye to my father and he shall geve me moo then.xii. legions of angelles?
 
 **[26:54]** But how then shuld the scriptures be fulfylled: for so must it be.
 
@@ -50220,7 +50220,7 @@
 
 **[26:60]** but founde none: in somoche that when many false witnesses cam yet founde they none. At the last came two false witnesses
 
-**[26:61]** and sayd: This felowe sayde: I can distroye the temple of God and bylde it agayne in .iii. dayes.
+**[26:61]** and sayd: This felowe sayde: I can distroye the temple of God and bylde it agayne in.iii. dayes.
 
 **[26:62]** And the chefe preste arose and sayde to him: answerest thou nothinge? How is it yt these beare witnes ageynst the?
 
@@ -50256,7 +50256,7 @@
 
 **[27:2]** and brought him bounde and delivered him vnto Poncius Pilate the debite.
 
-**[27:3]** Then when Iudas which betrayed him sawe that he was condempned he repented him sylfe and brought ageyne the .xxx. plattes of sylver to ye chefe prestes and elders
+**[27:3]** Then when Iudas which betrayed him sawe that he was condempned he repented him sylfe and brought ageyne the.xxx. plattes of sylver to ye chefe prestes and elders
 
 **[27:4]** sayinge: I have synned betrayinge the innocent bloud. And they sayde: what is that to vs? Se thou to that.
 
@@ -50268,7 +50268,7 @@
 
 **[27:8]** Wherfore that felde is called the felde of bloud vntyll this daye.
 
-**[27:9]** Then was fulfylled that which was spoken by Ieremy the Prophet sayinge: and they toke .xxx. sylver plattes the prise of him that was valued whom they bought of the chyldren of Israel
+**[27:9]** Then was fulfylled that which was spoken by Ieremy the Prophet sayinge: and they toke.xxx. sylver plattes the prise of him that was valued whom they bought of the chyldren of Israel
 
 **[27:10]** and they gave them for the potters felde as the Lorde appoynted me.
 
@@ -50416,7 +50416,7 @@
 
 **[28:15]** And they toke the money and dyd as they were taught. And this sayinge is noysed amoge the Iewes vnto this daye.
 
-**[28:16]** Then the .xi. disciples went awaye into Galile in to a mountayne where Iesus had appoynted them.
+**[28:16]** Then the.xi. disciples went awaye into Galile in to a mountayne where Iesus had appoynted them.
 
 **[28:17]** And when they sawe hym they worshipped him. But some of them douted.
 
@@ -50606,7 +50606,7 @@
 
 **[3:13]** And he wet vp into a mountayne and called vnto him whom he wolde and they came vnto him.
 
-**[3:14]** And he ordeyned ye .xii. that they shuld be wt him and that he myght sende the to preache:
+**[3:14]** And he ordeyned ye.xii. that they shuld be wt him and that he myght sende the to preache:
 
 **[3:15]** and that they might have power to heale syknesses and to cast out devyls.
 
@@ -50670,7 +50670,7 @@
 
 **[4:9]** And he sayde vnto them: he that hath eares to heare let him heare.
 
-**[4:10]** And when he was alone they yt were aboute him with ye .xii. axed him of ye similitude.
+**[4:10]** And when he was alone they yt were aboute him with ye.xii. axed him of ye similitude.
 
 **[4:11]** And he sayde vnto the. To you it is geve to knowe the mistery of the kyngdome of God. But vnto them that are wt out shall all thinges be done in similitudes:
 
@@ -50760,7 +50760,7 @@
 
 **[5:12]** and all the devyls besought him sayinge: sende vs into the heerde of swyne yt we maye enter in to them.
 
-**[5:13]** And anone Iesus gave them leave. And the vnclene spretes wet out and entred into ye swyne. And the heerd starteled and ran hedling into the see. They were about .ii.M. swyne and they were drouned in the see.
+**[5:13]** And anone Iesus gave them leave. And the vnclene spretes wet out and entred into ye swyne. And the heerd starteled and ran hedling into the see. They were about.ii.M. swyne and they were drouned in the see.
 
 **[5:14]** And the swyne heerdes fleed and tolde it in ye cyte and in the countre. And they came out for to se what had hapened:
 
@@ -50784,7 +50784,7 @@
 
 **[5:24]** And he wet with him and moche people folowed him and thronged him.
 
-**[5:25]** And ther was a certen woman which was diseased of an yssue of bloude .xii. yeres
+**[5:25]** And ther was a certen woman which was diseased of an yssue of bloude.xii. yeres
 
 **[5:26]** and had suffred many thinges of many phisicios and had spet all yt she had and felte none amendmet at all but wexed worsse and worsse.
 
@@ -50898,13 +50898,13 @@
 
 **[6:37]** He answered and sayde vnto them: geve ye the to eate. And they sayde vnto him: shall we goo and bye ii.C. penyworth of breed and geve the to eate?
 
-**[6:38]** He sayde vnto the: how many loves have ye? Goo and loke. And when they had serched they sayde: v. and .ii. fysshes.
+**[6:38]** He sayde vnto the: how many loves have ye? Goo and loke. And when they had serched they sayde: v. and.ii. fysshes.
 
 **[6:39]** And he comaunded them to make them all syt doune by companyes apon the grene grasse.
 
 **[6:40]** And they sate doune here a rowe and there arowe by houndredes and by fyfties.
 
-**[6:41]** And he toke ye .v. loves and ye ii. fysshes and loked vp to heven and blessed and brake the loves and gave them to his disciples to put before the: and the .ii. fysshes he devyded amonge them all.
+**[6:41]** And he toke ye.v. loves and ye ii. fysshes and loked vp to heven and blessed and brake the loves and gave them to his disciples to put before the: and the.ii. fysshes he devyded amonge them all.
 
 **[6:42]** And they all dyd eate and were satisfied.
 
@@ -50998,7 +50998,7 @@
 
 **[7:30]** And when she was come home to her housse she founde the devyll departed and her doughter lyinge on the beed.
 
-**[7:31]** And he departed agayne from the coostes of Tyre and Sidon and came vnto the see of Galile thorowe ye middes of the coostos of ye .x. cities.
+**[7:31]** And he departed agayne from the coostes of Tyre and Sidon and came vnto the see of Galile thorowe ye middes of the coostos of ye.x. cities.
 
 **[7:32]** And they brought vnto him one yt was deffe and stambred in his speche and prayde him to laye his honde apon him.
 
@@ -51016,7 +51016,7 @@
 
 **[8:1]** In those dayes whe ther was a very greate companye and had nothinge to eate Iesus called his disciples to him and sayd vnto the:
 
-**[8:2]** I have copassion on this people because they have nowe bene with me .iii. dayes and have nothinge to eate:
+**[8:2]** I have copassion on this people because they have nowe bene with me.iii. dayes and have nothinge to eate:
 
 **[8:3]** And yf I shuld sende the awaye fastinge to their awne houses they shulde faynt by the waye. For dyvers of the came from farre.
 
@@ -51024,11 +51024,11 @@
 
 **[8:5]** And he axed them: how many loves have ye? They sayde: seven.
 
-**[8:6]** And he commaunded the people to syt doune on the grounde. And he toke the .vii. loves gave thankes brake and gave to his disciples to set before them. And they dyd set the before the people.
+**[8:6]** And he commaunded the people to syt doune on the grounde. And he toke the.vii. loves gave thankes brake and gave to his disciples to set before them. And they dyd set the before the people.
 
 **[8:7]** And they had a feawe smale fysshes. And he blessed them and comaunded them also to be set before them.
 
-**[8:8]** And they ate and were suffysed: And they toke vp yf the broken meate that was lefte .vii. baskettes full.
+**[8:8]** And they ate and were suffysed: And they toke vp yf the broken meate that was lefte.vii. baskettes full.
 
 **[8:9]** And they yt ate were in nomber aboute fowre thousand. And he sent them awaye.
 
@@ -51050,9 +51050,9 @@
 
 **[8:18]** Have ye eyes and se not? and have ye eares and heare not? Do ye not remember?
 
-**[8:19]** When I brake v. loves amonge .v.M. How many baskettes full of broke meate toke ye vp? They sayde vnto him twelve.
+**[8:19]** When I brake v. loves amonge.v.M. How many baskettes full of broke meate toke ye vp? They sayde vnto him twelve.
 
-**[8:20]** When I brake .vii. amonge .iiii. M. How many basketes of the levinges of broken meate toke ye vp? they sayde .vii.
+**[8:20]** When I brake.vii. amonge.iiii. M. How many basketes of the levinges of broken meate toke ye vp? they sayde.vii.
 
 **[8:21]** And he sayde vnto the: how is it yt ye vnderstonde not?
 
@@ -51094,13 +51094,13 @@
 
 **[9:1]** And he sayde vnto them: Verely I saye vnto you: There be some of the that stonde here which shall not taste of deeth tyll they have sene the kyngdome of God come wt power.
 
-**[9:2]** And after .vi. dayes Iesus toke Peter Iames and Iohn and leede them vp into an hye mountayne out of ye waye alone and he was transfigured before them.
+**[9:2]** And after.vi. dayes Iesus toke Peter Iames and Iohn and leede them vp into an hye mountayne out of ye waye alone and he was transfigured before them.
 
 **[9:3]** And his rayment dyd shyne and was made very whyte even as snowe: so whyte as noo fuller can make apon the erth.
 
 **[9:4]** And ther apered vnto them Helyas with Moses: and they talked with Iesu.
 
-**[9:5]** And Peter answered and sayde to Iesu: Master here is good beinge for vs let vs make .iii. tabernacles one for the one for Moses and one for Helyas.
+**[9:5]** And Peter answered and sayde to Iesu: Master here is good beinge for vs let vs make.iii. tabernacles one for the one for Moses and one for Helyas.
 
 **[9:6]** And yet he wist not what he sayde: for they were afrayde.
 
@@ -51256,7 +51256,7 @@
 
 **[10:31]** Many that are fyrst shalbe last: and the last fyrst.
 
-**[10:32]** And they were in ye waye goinge vp to Ierusalem. And Iesus wet before them: and they were amased and as they folowed were affrayde. And Iesus toke ye .xii. agayne and begane to tell the what thinges shuld happe vnto him.
+**[10:32]** And they were in ye waye goinge vp to Ierusalem. And Iesus wet before them: and they were amased and as they folowed were affrayde. And Iesus toke ye.xii. agayne and begane to tell the what thinges shuld happe vnto him.
 
 **[10:33]** Beholde we goo vp to Ierusalem and the sonne of man shalbe delyvered vnto the hye preestes and vnto the Scribes: and they shall condempne him to deeth and shall delyvre him to the gentyls:
 
@@ -51274,7 +51274,7 @@
 
 **[10:40]** but to sit on my right honde and on my lyfte honde ys not myne to geve but to them for whom it is prepared.
 
-**[10:41]** And when the .x. hearde that they bega to disdayne at Iames and Iohn.
+**[10:41]** And when the.x. hearde that they bega to disdayne at Iames and Iohn.
 
 **[10:42]** But Iesus called the vnto him and sayde to them: ye knowe that they which seme to beare rule amonge the gentyls raygne as lordes over the. And they that be greate amoge them exercyse auctorite over them.
 
@@ -51566,13 +51566,13 @@
 
 **[14:16]** And his disciples went forth and came to the cyte and founde as he had sayd vnto them: and made ready the ester lambe.
 
-**[14:17]** And at even he came with the .xii.
+**[14:17]** And at even he came with the.xii.
 
 **[14:18]** And as they sate at borde and ate Iesus sayde: Verely I saye vnto you: that one of you shall betraye me which eateth with me.
 
 **[14:19]** And they begane to morne and to saye to him one by one: ys it I? And a nother sayde: ys it I?
 
-**[14:20]** He answered and sayde vnto them: It ys one of the .xii. and the same deppeth with me in the platter.
+**[14:20]** He answered and sayde vnto them: It ys one of the.xii. and the same deppeth with me in the platter.
 
 **[14:21]** The sonne of man goeth as it ys written of him: but woo be to that man by whome the sonne of man is betrayed. Good were it for him if that man had never bene borne.
 
@@ -51866,11 +51866,11 @@
 
 **[1:23]** And it fortuned assone as ye tyme of his office was oute he departed home into his awne housse.
 
-**[1:24]** And after thoose dayes his wyfe Elizabeth coceaved and hyd her sylfe .v. monethes sayinge:
+**[1:24]** And after thoose dayes his wyfe Elizabeth coceaved and hyd her sylfe.v. monethes sayinge:
 
 **[1:25]** This wyse hath God dealte wt me in ye dayes when he loked on me to take from me the rebuke yt I suffred amonge men.
 
-**[1:26]** And in ye .vi. moneth ye angell Gabriel was sent fro god vnto a cite of Galile named Nazareth
+**[1:26]** And in ye.vi. moneth ye angell Gabriel was sent fro god vnto a cite of Galile named Nazareth
 
 **[1:27]** to a virgin spoused to a man whose name was Ioseph of ye housse of David and ye virgins name was Mary.
 
@@ -51930,7 +51930,7 @@
 
 **[1:55]** Even as he promised to oure fathers Abraham and to his seede for ever.
 
-**[1:56]** And mary aboode with hyr aboute a .iii. monethes and retourned agayne to hyr awne housse.
+**[1:56]** And mary aboode with hyr aboute a.iii. monethes and retourned agayne to hyr awne housse.
 
 **[1:57]** Elizabethes tyme was come that she shuld be delyvered and she brought forth a sonne.
 
@@ -52054,7 +52054,7 @@
 
 **[2:36]** And ther was a Prophetesse one Anna the doughter of Phanuel of the tribe of Aser: which was of a greate age and had lyved with an husbande. vii. yeres from her virginite.
 
-**[2:37]** And she had bene a wedowe aboute .iiii. scoore and .iiii. yere which went never oute of the temple but served God with fastinge and prayer nyght and daye.
+**[2:37]** And she had bene a wedowe aboute.iiii. scoore and.iiii. yere which went never oute of the temple but served God with fastinge and prayer nyght and daye.
 
 **[2:38]** And the same came forth that same houre and praysed the Lorde and spake of him to all that loked for redempcion in Hierusalem.
 
@@ -52064,7 +52064,7 @@
 
 **[2:41]** And his father and mother went to Hierusalem every yeare at the feeste of ester.
 
-**[2:42]** And when he was .xii. yere olde they went vp to Hierusalem after the custome of the feeste.
+**[2:42]** And when he was.xii. yere olde they went vp to Hierusalem after the custome of the feeste.
 
 **[2:43]** And when they had fulfilled the dayes as they returned home the chylde Iesus boode styll in Hierusalem vnknowynge to his father and mother.
 
@@ -52072,7 +52072,7 @@
 
 **[2:45]** And when they founde hym not they went backe agayne to Hierusalem and sought him.
 
-**[2:46]** And it fortuned after .iii. dayes that they founde him in the teple sittinge in the middes of the doctours both hearynge them and posinge them.
+**[2:46]** And it fortuned after.iii. dayes that they founde him in the teple sittinge in the middes of the doctours both hearynge them and posinge them.
 
 **[2:47]** And all that hearde him mervelled at his wit and answers.
 
@@ -52134,13 +52134,13 @@
 
 **[3:23]** And Iesus him silfe was about thirty yere of age when he begane beinge as men supposed the sonne of Ioseph. which Ioseph was the sonne of Heli
 
-**[3:24]** which was the sonne of Mathat which was the sonne of Levi: which was the sonne of Melchi: which was the sonne of Ianna:  which was the sonne of Ioseph:
+**[3:24]** which was the sonne of Mathat which was the sonne of Levi: which was the sonne of Melchi: which was the sonne of Ianna: which was the sonne of Ioseph:
 
 **[3:25]** which was the sonne of Matatthias: which was the sonne of Amos: which was the sonne of Nahum: which was the sonne of Esli: which was the sonne of Nagge:
 
 **[3:26]** which was the sonne of Maath: which was the sonne of Matathias: which was the sonne of Semei: which was the sonne of Ioseph: which was the sonne of Iuda:
 
-**[3:27]** which was the sonne of Iohanna:  which was the sonne of Rhesya: which was the sonne of zorobabel:  which was the sonne of Salathiel: which was the sonne of Neri:
+**[3:27]** which was the sonne of Iohanna: which was the sonne of Rhesya: which was the sonne of zorobabel: which was the sonne of Salathiel: which was the sonne of Neri:
 
 **[3:28]** which was the sonne of Melchi: which was the sonne of Addi: which was the sonne of Cosam: which was the sonne of Helmadam: which was the sonne of Her:
 
@@ -52150,11 +52150,11 @@
 
 **[3:31]** which was the sonne of Melea: which was the sonne of Menam: which was the sonne of Mathathan: which was the sonne of Nathan: which was the sonne of David:
 
-**[3:32]** which was the sonne of Iesse: which was the sonne of Obed: which was the sonne of Boos:  which was the sonne of Salmon: which was the sonne of Naason:
+**[3:32]** which was the sonne of Iesse: which was the sonne of Obed: which was the sonne of Boos: which was the sonne of Salmon: which was the sonne of Naason:
 
 **[3:33]** which was the sonne of Aminadab: which was the sonne of Aram: which was the sonne of Esrom: which was the sonne of Phares: which was the sonne of Iuda:
 
-**[3:34]** which was the sonne of Iacob:  which was the sonne of Ysaac: which was the sonne of Abraham: which was the sonne of Tharra: which was the sonne of Nachor:
+**[3:34]** which was the sonne of Iacob: which was the sonne of Ysaac: which was the sonne of Abraham: which was the sonne of Tharra: which was the sonne of Nachor:
 
 **[3:35]** which was the sonne of Saruch: which was the sonne of Ragau: which was the sonne of Phalec: which was the sonne of Heber: which was the sonne of Sala:
 
@@ -52168,7 +52168,7 @@
 
 **[4:1]** Iesus then full of the holy goost returnyd fro Iordan and was caryed of ye sprete into wildernes
 
-**[4:2]** and was .xl. dayes tempted of the devyll. And in thoose dayes ate he no thinge. And when they were ended he afterward hongred.
+**[4:2]** and was.xl. dayes tempted of the devyll. And in thoose dayes ate he no thinge. And when they were ended he afterward hongred.
 
 **[4:3]** And the devyll sayde vnto him: yf thou be the sonne of God comaunde this stone yt it be breed.
 
@@ -52406,7 +52406,7 @@
 
 **[6:35]** Wherfore love ye youre enemys do good and lende lokynge for nothinge agayne and youre rewarde shalbe greate and ye shalbe the chyldren of the hyest: for he is kynde vnto the vnkynde and to the evyll.
 
-**[6:36]**  Be ye therfore mercifull as youre father is mercifull.
+**[6:36]** Be ye therfore mercifull as youre father is mercifull.
 
 **[6:37]** Iudge not and ye shall not be Iudged. Condemne not: and ye shall not be condemned. Forgeve and ye shalbe forgeven.
 
@@ -52416,7 +52416,7 @@
 
 **[6:40]** The disciple is not above his master. Every ma shalbe perfecte even as his master is.
 
-**[6:41]** Why seyst thou a moote in thy brothers eye  considerest not ye beame yt is in thyne awne eye?
+**[6:41]** Why seyst thou a moote in thy brothers eye considerest not ye beame yt is in thyne awne eye?
 
 **[6:42]** Ether how canest thou saye to thy brother: Brother let me pull out ye moote that is in thyne eye: when thou perceavest not the beame that is in thyne awne eye? Ypocrite cast out ye beame out of thyne awne eye fyrst and then shalt thou se perfectly to pull out the moote out of thy brothers eye.
 
@@ -52446,7 +52446,7 @@
 
 **[7:5]** For he loveth oure nacion and hath bilt vs a sinagoge
 
-**[7:6]** And Iesus went with them.  And when he was not farre fro the housse the Centurio sent frendes to him sayinge vnto him: Lorde trouble not thy silfe: for I am not worthy yt thou shuldest enter vnder my roffe.
+**[7:6]** And Iesus went with them. And when he was not farre fro the housse the Centurio sent frendes to him sayinge vnto him: Lorde trouble not thy silfe: for I am not worthy yt thou shuldest enter vnder my roffe.
 
 **[7:7]** Wherfore I thought not my silfe worthy to come vnto the: but saye the worde and my servaunt shalbe whoole.
 
@@ -52456,7 +52456,7 @@
 
 **[7:10]** And they yt were sent turned backe home agayne and founde the servaunt that was sicke whoole.
 
-**[7:11]**  And it fortuned after that that he went into a cite called Naim and many of his disciples went wt him and moche people.
+**[7:11]** And it fortuned after that that he went into a cite called Naim and many of his disciples went wt him and moche people.
 
 **[7:12]** When he came nye to the gate of the cite: beholde ther was a deed man caried out which was ye only sonne of his mother and she was a widowe and moche people of the cite was with her.
 
@@ -52472,7 +52472,7 @@
 
 **[7:18]** And ye disciples of Iohn shewed him of all these thinges.
 
-**[7:19]** And Iohn called vnto him .ii. of his disciples and sent the to Iesus sayinge: Arte thou he that shall come: or shall we loke for another?
+**[7:19]** And Iohn called vnto him.ii. of his disciples and sent the to Iesus sayinge: Arte thou he that shall come: or shall we loke for another?
 
 **[7:20]** When the men were come vnto him they sayde: Iohn baptiste sent vs vnto ye sayinge: Arte thou he that shall come: or shall we wayte for another?
 
@@ -52496,7 +52496,7 @@
 
 **[7:30]** But the pharises and scribes despised ye counsell of god agaynst them selves and were not baptised of him.
 
-**[7:31]**  And ye lorde sayd: Wher vnto shall I lyke the men of this generacion and what thinge are they lyke?
+**[7:31]** And ye lorde sayd: Wher vnto shall I lyke the men of this generacion and what thinge are they lyke?
 
 **[7:32]** They are lyke vnto chyldre sittynge in ye market place and cryinge one to another and sayinge: We have pyped vnto you and ye hahave not daunsed: we have mourned to you and ye have not wept.
 
@@ -52554,7 +52554,7 @@
 
 **[8:8]** And some fell on good grounde and sproge vp and bare frute an hondred foolde. And as he sayde these thinges he cryed: He that hath eares to heare let him heare.
 
-**[8:9]**  And his disciples axed him sayinge: what maner similitude is this?
+**[8:9]** And his disciples axed him sayinge: what maner similitude is this?
 
 **[8:10]** And he sayde: vnto you is it geven to knowe the secretes of the kyngdom of God: but to other in similitudes that when they se they shuld not se: and when they heare they shuld not vnderstonde.
 
@@ -52568,7 +52568,7 @@
 
 **[8:15]** That in ye good grounde are they which with a good and pure hert heare the worde and kepe it and bringe forth frute with pacience.
 
-**[8:16]**  No man lyghteth a candell and covereth it vnder a vessell nether putteth it vnder ye table: but setteth it on a candelsticke that they that enter in maye se ye lyght.
+**[8:16]** No man lyghteth a candell and covereth it vnder a vessell nether putteth it vnder ye table: but setteth it on a candelsticke that they that enter in maye se ye lyght.
 
 **[8:17]** No thinge is in secret yt shall not come abroode: Nether eny thinge hyd that shall not be knowen and come to lyght.
 
@@ -52580,7 +52580,7 @@
 
 **[8:21]** He answered and sayd vnto them: my mother and my brethren are these which heare the worde of God and do it.
 
-**[8:22]**  And it chaunsed on a certayne daye that he went into a shippe and his disciples also and he sayde vnto them: Let vs goo over vnto the other syde of the lake. And they Lanched forthe.
+**[8:22]** And it chaunsed on a certayne daye that he went into a shippe and his disciples also and he sayde vnto them: Let vs goo over vnto the other syde of the lake. And they Lanched forthe.
 
 **[8:23]** And as they sayled he fell a slepe and there arose a storme of wynde in ye lake and they were fylled with water and were in ieopardy.
 
@@ -52596,7 +52596,7 @@
 
 **[8:29]** Then he comaunded ye foule sprete to come out of the man. For ofte tymes he caught him and he was bounde with chaynes and kept with fetters: and he brake the bondes and was caryed of the fende into wyldernes.
 
-**[8:30]**  And Iesus axed him sayinge: what is thy name? And he sayde: Legion because many devyls were entred into him.
+**[8:30]** And Iesus axed him sayinge: what is thy name? And he sayde: Legion because many devyls were entred into him.
 
 **[8:31]** And they besought him yt he wolde not comaunde the to goo out into ye depe.
 
@@ -52616,7 +52616,7 @@
 
 **[8:39]** Goo home agayne into thyne awne housse and shewe what great thinges God hath done to ye. And he went his waye and preached thorow out all the cite what great thinges Iesus had done vnto him.
 
-**[8:40]**  And it fortuned when Iesus was come agayne that ye people receaved him. For they all wayted for him.
+**[8:40]** And it fortuned when Iesus was come agayne that ye people receaved him. For they all wayted for him.
 
 **[8:41]** And beholde ther came a man named Iairus (and he was a ruler of ye synagoge) and he fell doune at Iesus fete and besought him yt he wolde come into his housse
 
@@ -52634,7 +52634,7 @@
 
 **[8:48]** And he sayde vnto hyr: Doughter be of good comforte Thy faith hath made the hoale goo in peace.
 
-**[8:49]**  Whyll he yet spake there came one from ye rulers of the synagogis housse which sayde to him: thy doughter is deed disease not the master.
+**[8:49]** Whyll he yet spake there came one from ye rulers of the synagogis housse which sayde to him: thy doughter is deed disease not the master.
 
 **[8:50]** When Iesus hearde that He answered the father sayinge: Feare not beleve only and she shalbe made whole.
 
@@ -52652,7 +52652,7 @@
 
 ### Chapter 9
 
-**[9:1]** Then called he the .xii. to gether and gave them power and auctorite over all devyls and that they myght heale diseases.
+**[9:1]** Then called he the.xii. to gether and gave them power and auctorite over all devyls and that they myght heale diseases.
 
 **[9:2]** And he sent them to preache the kyngdome of God and to cure the sick.
 
@@ -52670,7 +52670,7 @@
 
 **[9:9]** And Herod sayde: Iohn have I behedded: who then is this of whom I heare suche thinges? And he desyred to se him.
 
-**[9:10]**  And the Apostles retourned and tolde him what great thinges they had done. And he toke them and went a syde into a solitary place nye to a citie called Bethsaida.
+**[9:10]** And the Apostles retourned and tolde him what great thinges they had done. And he toke them and went a syde into a solitary place nye to a citie called Bethsaida.
 
 **[9:11]** And ye people knewe of it and folowed him. And he receaved them and spake vnto them of the kyngdome of God and healed them that had nede to be healed.
 
@@ -52706,7 +52706,7 @@
 
 **[9:27]** And I tell you of a surety: There be some of the yt stonde here which shall not tast of deeth tyll they se ye kyngdome of god.
 
-**[9:28]**  And it folowed about an .viii. dayes after thoose sayinges that he toke Peter Iames and Iohn and went vp into a moutayne to praye.
+**[9:28]** And it folowed about an.viii. dayes after thoose sayinges that he toke Peter Iames and Iohn and went vp into a moutayne to praye.
 
 **[9:29]** And as he prayed ye facion of his countenaunce was changed and his garment was whyte and shoone.
 
@@ -52742,7 +52742,7 @@
 
 **[9:45]** But they wist not what yt worde meant and yt was hyd fro the that they vnderstode yt not. And they feared to axe him of that sayinge.
 
-**[9:46]**  Then ther arose a disputacion amoge the: who shuld be the greatest.
+**[9:46]** Then ther arose a disputacion amoge the: who shuld be the greatest.
 
 **[9:47]** When Iesus perceaved ye thoughtes of their hertes he toke a chylde and set him hard by him
 
@@ -52764,7 +52764,7 @@
 
 **[9:56]** The sonne of ma ys not come to destroye mennes lives but to save them. And they went to another toune.
 
-**[9:57]**  And it chaunsed as he went in the waye a certayne man sayd vnto him: I will folowe the whither soever thou goo.
+**[9:57]** And it chaunsed as he went in the waye a certayne man sayd vnto him: I will folowe the whither soever thou goo.
 
 **[9:58]** Iesus sayd vnto him: foxes have holes and bryddes of ye ayer have nestes: but the sonne of man hath not where on to laye his heed.
 
@@ -53100,7 +53100,7 @@
 
 **[13:3]** I tell you naye: but except ye repent ye shall all in lyke wyse perysshe.
 
-**[13:4]** Or those .xviii. apon which ye toure in Syloe fell and slewe the thinke ye that they were synners above all men yt dwell in Ierusalem?
+**[13:4]** Or those.xviii. apon which ye toure in Syloe fell and slewe the thinke ye that they were synners above all men yt dwell in Ierusalem?
 
 **[13:5]** I tell you naye: But excepte ye repent ye all shall lykewyse perisshe.
 
@@ -53114,7 +53114,7 @@
 
 **[13:10]** And he taught in one of their sinagoges on ye saboth dayes.
 
-**[13:11]** And beholde ther was a woma which had a sprete of infirmite .xviii. yeares: and was bowed to gether and coulde not lifte vp hersilfe at all.
+**[13:11]** And beholde ther was a woma which had a sprete of infirmite.xviii. yeares: and was bowed to gether and coulde not lifte vp hersilfe at all.
 
 **[13:12]** When Iesus sawe her he called her to him and sayde to her: woman thou arte delyvered from thy disease.
 
@@ -53124,7 +53124,7 @@
 
 **[13:15]** Then answered him the Lorde and sayd: Ypocrite doth not eache one of you on the saboth daye lowse his oxe or his asse from the stall and leade him to the water?
 
-**[13:16]** And ought not this doughter of Abraham whom Sathan hath bounde loo .xviii. yeares be lowsed from this bonde on the saboth daye?
+**[13:16]** And ought not this doughter of Abraham whom Sathan hath bounde loo.xviii. yeares be lowsed from this bonde on the saboth daye?
 
 **[13:17]** And when he thus sayde all his adversaries were ashamed and all the people reioysed on all the excellent dedes that were done by him.
 
@@ -53226,7 +53226,7 @@
 
 **[14:30]** sayinge: this man beganne to bilde and was not able to make an ende.
 
-**[14:31]** Or what kynge goeth to make batayle agaynst another kinge and sitteth not doune fyrst and casteth in his mynde whether he be able wt ten thousande to mete him that cometh agaynst him wt .xx thousand.
+**[14:31]** Or what kynge goeth to make batayle agaynst another kinge and sitteth not doune fyrst and casteth in his mynde whether he be able wt ten thousande to mete him that cometh agaynst him wt.xx thousand.
 
 **[14:32]** Or els whyll ye other is yet a greate waye of he will sende embasseatours and desyre peace.
 
@@ -53252,7 +53252,7 @@
 
 **[15:7]** I say vnto you yt lyke wyse ioye shalbe in heven over one synner yt repenteth moore then over nynety and nyne iuste persons whiche nede noo repentauce.
 
-**[15:8]** Ether what woman havynge .x. grotes yf she loose one doth not lyght a candell and swepe ye housse and seke diligently tyll she fynde it?
+**[15:8]** Ether what woman havynge.x. grotes yf she loose one doth not lyght a candell and swepe ye housse and seke diligently tyll she fynde it?
 
 **[15:9]** And when she hath founde it she calleth her lovers and her neghbours sayinge: Reioyce wt me for I have founde the groate which I had loost.
 
@@ -53328,7 +53328,7 @@
 
 **[16:12]** And yf ye have not bene faithfull in another manes busines: who shall geve you youre awne?
 
-**[16:13]** No servaunt can serve .ii. masters for other he shall hate ye one and love ye other or els he shall lene to the one and despyse the other. Ye can not serve God and mammon.
+**[16:13]** No servaunt can serve.ii. masters for other he shall hate ye one and love ye other or els he shall lene to the one and despyse the other. Ye can not serve God and mammon.
 
 **[16:14]** All these thinges herde the pharises also which were coveteous and they mocked him.
 
@@ -53368,13 +53368,13 @@
 
 ### Chapter 17
 
-**[17:1]**  Then sayde he to ye disciples it can not be avoyded but that offences will come. Neverthelesse wo be to him thorow whom they come.
+**[17:1]** Then sayde he to ye disciples it can not be avoyded but that offences will come. Neverthelesse wo be to him thorow whom they come.
 
 **[17:2]** It were better for him that a mylstone were hanged aboute his necke and that he were cast into ye see then that he shuld offende one of this lytleons.
 
 **[17:3]** Take hede to youre selves. If thy brother trespas agaynst the rebuke him:
 
-**[17:4]** and yf he repent forgeve him. And though he sinne agest ye .vii. tymes in a daye and seve tymes in a daye tourne agayne to ye sayinge: it repenteth me forgeve him
+**[17:4]** and yf he repent forgeve him. And though he sinne agest ye.vii. tymes in a daye and seve tymes in a daye tourne agayne to ye sayinge: it repenteth me forgeve him
 
 **[17:5]** And the apostles sayde vnto the Lorde: increase oure faith.
 
@@ -53710,7 +53710,7 @@
 
 **[20:40]** And after that durst they not axe him eny question at all.
 
-**[20:41]**  Then sayde he vnto them: how saye they that Christ is Davids sonne?
+**[20:41]** Then sayde he vnto them: how saye they that Christ is Davids sonne?
 
 **[20:42]** And David him selfe sayth in the boke of the Psalmes: The Lorde sayde vnto my Lorde syt on my right honde
 
@@ -53764,7 +53764,7 @@
 
 **[21:19]** With youre pacience possesse youre soules.
 
-**[21:20]**  And when ye se Ierusalem beseged with an hoste then vnderstonde that the desolacio of the same is nye.
+**[21:20]** And when ye se Ierusalem beseged with an hoste then vnderstonde that the desolacio of the same is nye.
 
 **[21:21]** Then let them which are in Iewrye flye to the mountaynes. And let them which are in the middes of it departe oute. And let not them that are in other countreis enter ther in.
 
@@ -53774,7 +53774,7 @@
 
 **[21:24]** And they shall fall on the edge of the swearde and shalbe leed captive into all nacions. And Ierusalem shalbe trooden vnder fote of the gentyls vntyll the tyme of the gentyls be fulfilled.
 
-**[21:25]**  And ther shalbe signes in the sunne ad in the mone and in the starres: and in ye erth the people shalbe in soche perplexite yt they shall not tell which waye to turne them selves. The see and the waters shall roore
+**[21:25]** And ther shalbe signes in the sunne ad in the mone and in the starres: and in ye erth the people shalbe in soche perplexite yt they shall not tell which waye to turne them selves. The see and the waters shall roore
 
 **[21:26]** and menes hertes shall fayle them for feare and for lokinge after thoose thinges which shall come on the erth. For the powers of heve shall move.
 
@@ -53792,7 +53792,7 @@
 
 **[21:33]** Heaven and erth shall passe: but my wordes shall not passe.
 
-**[21:34]**  Take hede to youre selves lest youre hertes be overcome with surfettinge and dronkennes and cares of this worlde: and that that daye come on you vnwares.
+**[21:34]** Take hede to youre selves lest youre hertes be overcome with surfettinge and dronkennes and cares of this worlde: and that that daye come on you vnwares.
 
 **[21:35]** For as a snare shall it come on all them that sit on the face of the erthe.
 
@@ -53830,7 +53830,7 @@
 
 **[22:13]** And they wet and foude as he had sayd vnto the: and made redy ye ester lambe.
 
-**[22:14]**  And when the houre was come he sate doune and the twelve Apostles with him.
+**[22:14]** And when the houre was come he sate doune and the twelve Apostles with him.
 
 **[22:15]** And he sayde vnto them: I have inwardly desyred to eate this ester lambe with you before yt I suffre.
 
@@ -53850,7 +53850,7 @@
 
 **[22:23]** And they began to enquyre amoge them selves which of them it shuld be that shuld do that.
 
-**[22:24]**  And ther was a stryfe amoge the which of them shuld be taken for the greatest.
+**[22:24]** And ther was a stryfe amoge the which of them shuld be taken for the greatest.
 
 **[22:25]** And he sayde vnto them: the kynges of the getyls raygne over them and they that beare rule over them are called gracious lordes.
 
@@ -53872,7 +53872,7 @@
 
 **[22:34]** And he sayde: I tell the Peter the cocke shall not crowe this daye tyll thou have thryse denyed yt thou knewest me.
 
-**[22:35]**  And he sayde vnto them: when I sent you with out wallet and scripe and shoes? lacked ye eny thinge? And they sayd no.
+**[22:35]** And he sayde vnto them: when I sent you with out wallet and scripe and shoes? lacked ye eny thinge? And they sayd no.
 
 **[22:36]** And he sayde to them: but nowe he that hath a wallet let him take it vp and lykewyse his scrippe. And he that hath no swearde let him sell his coote and bye one.
 
@@ -54520,7 +54520,7 @@
 
 **[5:4]** For an angell wet doune at a certayne ceason into ye pole and troubled ye water. Whosoever then fyrst after the steringe of the water stepped in was made whoale of what soever disease he had.
 
-**[5:5]** And a certayne ma was theare which had bene diseased .xxxviii. yeares
+**[5:5]** And a certayne ma was theare which had bene diseased.xxxviii. yeares
 
 **[5:6]** When Iesus sawe him lye and knewe that he now longe tyme had bene diseased he sayde vnto him. Wilt thou be made whoale?
 
@@ -54644,7 +54644,7 @@
 
 **[6:18]** And ye see arose with a greate winde yt blew.
 
-**[6:19]** And when they had rowe aboute a .xxv. or a xxx. furlonges they sawe Iesus walke on ye see and drawe nye vnto the shyp and they were afrayed.
+**[6:19]** And when they had rowe aboute a.xxv. or a xxx. furlonges they sawe Iesus walke on ye see and drawe nye vnto the shyp and they were afrayed.
 
 **[6:20]** And he sayde vnto them: It is I be not a frayde.
 
@@ -55336,7 +55336,7 @@
 
 **[12:35]** Then Iesus sayde vnto them: yet a lytell whyle is the light wt you. Walke whill ye have light lest the darcknes come on you. He that walketh in the darke wotteth not whither he goeth.
 
-**[12:36]** Whyll ye have light beleve on the light that ye maye be the chyldren of light.  These thinges spake Iesus and departed and hyd him silfe fro them.
+**[12:36]** Whyll ye have light beleve on the light that ye maye be the chyldren of light. These thinges spake Iesus and departed and hyd him silfe fro them.
 
 **[12:37]** And though he had done so many myracles before them yet beleved not they on him
 
@@ -55482,7 +55482,7 @@
 
 **[14:18]** I will not leave you comfortlesse: but will come vnto you.
 
-**[14:19]**  Yet a litell whyle and the worlde seith me no moare: but ye shall se me. For I live and ye shall live.
+**[14:19]** Yet a litell whyle and the worlde seith me no moare: but ye shall se me. For I live and ye shall live.
 
 **[14:20]** That daye shall ye knowe that I am in my father and you in me and I in you
 
@@ -55494,7 +55494,7 @@
 
 **[14:24]** He that loveth me not kepeth not my sayinges. And the wordes which ye heare are not myne but the fathers which sent me.
 
-**[14:25]**  This have I spoken vnto you beynge yet present with you.
+**[14:25]** This have I spoken vnto you beynge yet present with you.
 
 **[14:26]** But that coforter which is the holy gost (whom my father will sende in my name) he shall teache you all thinges and bringe all thinges to youre remembraunce whatsoever I have tolde you.
 
@@ -55522,7 +55522,7 @@
 
 **[15:6]** Yf a man byde not in me he ys cast forthe as a braunche and is wyddered: and men gadder it and cast it into the fyre and it burneth.
 
-**[15:7]** Yf ye byde in me and my wordes also byde in you: axe what ye will and it shalbe done to you .
+**[15:7]** Yf ye byde in me and my wordes also byde in you: axe what ye will and it shalbe done to you.
 
 **[15:8]** Heare in is my father glorified that ye beare moche frute and be made my disciples.
 
@@ -55614,7 +55614,7 @@
 
 **[16:24]** Hitherto have ye axed nothinge in my name. Axe and ye shall receave it: that youre ioye maye be full.
 
-**[16:25]**  These thinges have I spoken vnto you in proverbes. The tyme will come when I shall no moare speake to you in proverbes: but I shall shewe you playnly from my father.
+**[16:25]** These thinges have I spoken vnto you in proverbes. The tyme will come when I shall no moare speake to you in proverbes: but I shall shewe you playnly from my father.
 
 **[16:26]** At that daye shall ye axe in myne name. And I saye not vnto you that I will speake vnto my father for you
 
@@ -55784,7 +55784,7 @@
 
 **[19:7]** The Iewes answered him. We have a lawe and by oure lawe he ought to dye: because he made him selfe the sonne of God.
 
-**[19:8]**  When Pylate hearde that sayinge he was the moare afrayde
+**[19:8]** When Pylate hearde that sayinge he was the moare afrayde
 
 **[19:9]** and went agayne into ye iudgment hall and sayde vnto Iesus: whence arte thou? But Iesus gave him none answere.
 
@@ -55902,11 +55902,11 @@
 
 **[20:23]** Whosoevers synnes ye remyt they are remitted vnto the. And whosoevers synnes ye retayne they are retayned.
 
-**[20:24]**  But Thomas one of ye twelve called Didymus was not with the when Iesus came.
+**[20:24]** But Thomas one of ye twelve called Didymus was not with the when Iesus came.
 
 **[20:25]** The other disciples sayd vnto him: we have sene ye lorde. And he sayde vnto the: except I se in his hondes the prent of the nayles and put my fynger in the holes of the nayles and thrust my honde into his syde I will not beleve.
 
-**[20:26]** And after .viii. dayes agayne his disciples were with in and Thomas with them. Then came Iesus when the dores were shut and stode in the myddes and sayde: peace be with you.
+**[20:26]** And after.viii. dayes agayne his disciples were with in and Thomas with them. Then came Iesus when the dores were shut and stode in the myddes and sayde: peace be with you.
 
 **[20:27]** After that sayde he to Thomas: bringe thy fynger hether and se my hondes and bringe thy honde and thrust it into my syde and be not faythlesse but belevynge.
 
@@ -55940,7 +55940,7 @@
 
 **[21:10]** Iesus sayde vnto them: bringe of the fysshe which ye have now caught.
 
-**[21:11]** Simon Peter stepped forthe and drewe the net to londe full of greate fysshes an hondred and .liii. And for all ther were so many yet was not the net broken.
+**[21:11]** Simon Peter stepped forthe and drewe the net to londe full of greate fysshes an hondred and.liii. And for all ther were so many yet was not the net broken.
 
 **[21:12]** Iesus sayde vnto them: come and dyne. And none of the disciples durste axe him: what arte thou? For they knewe that it was the lorde.
 
@@ -55948,13 +55948,13 @@
 
 **[21:14]** And this is now the thyrde tyme that Iesus appered to his disciples after that he was rysen agayne from deeth.
 
-**[21:15]**  When they had dyned Iesus sayde to Simon Peter: Simon Ioana lovest thou me more then these? He sayde vnto him: ye Lorde thou knowest that I love the. He sayde vnto him: fede my lambes.
+**[21:15]** When they had dyned Iesus sayde to Simon Peter: Simon Ioana lovest thou me more then these? He sayde vnto him: ye Lorde thou knowest that I love the. He sayde vnto him: fede my lambes.
 
 **[21:16]** He sayde to him agayne the seconde tyme: Simo Ioana lovest thou me? He sayde vnto him: ye lorde thou knowest that I love ye. He sayde vnto him: fede my shepe.
 
 **[21:17]** He sayde vnto him ye thyrde tyme: Simon Ioanna lovest thou me? And Peter sorowed because he sayde to him ye thyrde tyme lovest thou me and sayde vnto him: Lorde thou knowest all thinge thou knowest that I love the. Iesus sayde vnto him: fede my shepe.
 
-**[21:18]**  Verely verely I saye vnto the when thou wast yonge thou gerdedst thy selfe and walkedst whyther thou woldest: but when thou arte olde thou shalt stretche forthe thy hondes and a nother shall gyrde ye and leade the whyther thou woldest not.
+**[21:18]** Verely verely I saye vnto the when thou wast yonge thou gerdedst thy selfe and walkedst whyther thou woldest: but when thou arte olde thou shalt stretche forthe thy hondes and a nother shall gyrde ye and leade the whyther thou woldest not.
 
 **[21:19]** That spake he signifyinge by what deeth he shuld glorify God.And whe he had sayde thus he sayd to him folowe me.
 
@@ -56036,7 +56036,7 @@
 
 **[2:4]** and they were all filled with the holy goost and beganne to speake with other tonges even as the sprete gave them vtteraunce.
 
-**[2:5]**  And ther were dwellinge at Ierusalem Iewes devoute men which were of all nacions vnder heaven.
+**[2:5]** And ther were dwellinge at Ierusalem Iewes devoute men which were of all nacions vnder heaven.
 
 **[2:6]** When this was noysed aboute the multitude came to gether and were astonyed because that every man hearde the speake his awne touge.
 
@@ -56084,7 +56084,7 @@
 
 **[2:28]** Thou hast shewed me the wayes of lyfe and shalt make me full of ioye with thy countenaunce.
 
-**[2:29]**  Men and brethren let me frely speake vnto you of the partriarke David: For he is both deed and buryed and his sepulcre remayneth with vs vnto this daye.
+**[2:29]** Men and brethren let me frely speake vnto you of the partriarke David: For he is both deed and buryed and his sepulcre remayneth with vs vnto this daye.
 
 **[2:30]** Therfore seinge he was a Prophet and knewe that God had sworne with an othe to him that the frute of his loynes shuld sit on his seat (in that Christ shulde ryse agayne in the flesshe)
 
@@ -56266,7 +56266,7 @@
 
 **[5:6]** And the yonge men roose vp and put him a parte and caryed him out and buryed him.
 
-**[5:7]** And it fortuned as it were aboute the space of .iii. houres after that his wyfe came in ignoraunt of that which was done.
+**[5:7]** And it fortuned as it were aboute the space of.iii. houres after that his wyfe came in ignoraunt of that which was done.
 
 **[5:8]** And Peter sayde vnto her: Tell me gave ye the londe for so moche? And she sayde: ye for so moche
 
@@ -56382,7 +56382,7 @@
 
 **[7:5]** and he gave him none inheritaunce in it no not the bredeth of a fote: but promised yt he wolde geve it to him to possesse and to his seed after him when as yet he had no chylde.
 
-**[7:6]** God verely spake on this wyse that his seade shulde be a dweller in a straunge londe and that they shulde kepe them in bondage and entreate them evyll .iiii.C. yeares.
+**[7:6]** God verely spake on this wyse that his seade shulde be a dweller in a straunge londe and that they shulde kepe them in bondage and entreate them evyll.iiii.C. yeares.
 
 **[7:7]** But the nacion to whom they shalbe in bondage will I iudge sayde God. And after that shall they come forthe and serve me in this place.
 
@@ -56404,7 +56404,7 @@
 
 **[7:16]** and were translated into Sichem ond were put in ye sepulcre that Abraham bought for money of the sonnes of Emor at Sichem.
 
-**[7:17]**  When ye tyme of ye promes drue nye (which God had sworme to Abraham) the people grewe and multiplied in Egipte
+**[7:17]** When ye tyme of ye promes drue nye (which God had sworme to Abraham) the people grewe and multiplied in Egipte
 
 **[7:18]** till another kynge arose which knewe not of Ioseph.
 
@@ -56430,7 +56430,7 @@
 
 **[7:29]** Then fleed Moses at that sayenge and was a stranger in the londe of Madian where he begat two sonnes.
 
-**[7:30]** And when .xl. yeares were expired ther appered to him in the wyldernes of mounte Syna an angell of the Lorde in a flamme of fyre in a busshe.
+**[7:30]** And when.xl. yeares were expired ther appered to him in the wyldernes of mounte Syna an angell of the Lorde in a flamme of fyre in a busshe.
 
 **[7:31]** When Moses sawe it he wondred at the syght. And as he drue neare to beholde the voyce of the Lorde came vnto him:
 
@@ -56442,7 +56442,7 @@
 
 **[7:35]** This Moses whom they forsoke sayinge: who made the a ruelar and a iudge: the same God sent bothe a ruler and delyverer by ye hondes of the angell which appered to him in the busshe.
 
-**[7:36]** And the same brought them out shewynge wonders and signes in Egypte and in the reed see and in the wyldernes .xl. yeares.
+**[7:36]** And the same brought them out shewynge wonders and signes in Egypte and in the reed see and in the wyldernes.xl. yeares.
 
 **[7:37]** This is that Moses which sayde vnto the chyldre of Israel: A Prophet shall the Lorde youre God rayse vp vnto you of youre brethren lyke vnto me him shall ye heare.
 
@@ -56592,7 +56592,7 @@
 
 **[9:8]** And Saul arose from the erth and opened his eyes but sawe no man. Then ledde they him by the honde and brought him into Damasco.
 
-**[9:9]** And he was .iii. dayes with out syght and nether ate nor dranke.
+**[9:9]** And he was.iii. dayes with out syght and nether ate nor dranke.
 
 **[9:10]** And ther was a certayne disciple at Damasco named Ananias and to him sayde the lorde in a vision: Ananias. And the he sayde: beholde I am here lorde.
 
@@ -56680,13 +56680,13 @@
 
 **[10:8]** and tolde them all the mater and sent them to Ioppa.
 
-**[10:9]** On the morowe as they wet on their iorney and drewe nye vnto the cite Peter went vp into the toppe of ye housse to praye aboute the .vi. houre.
+**[10:9]** On the morowe as they wet on their iorney and drewe nye vnto the cite Peter went vp into the toppe of ye housse to praye aboute the.vi. houre.
 
 **[10:10]** Then wexed he an hongred and wolde have eate. But whyll they made redy. He fell into a trauce
 
-**[10:11]** and sawe heven opened and a certayne vessell come doune vnto him as it had bene a greate shete knyt at the .iiii. corners and was let doune to the erth
+**[10:11]** and sawe heven opened and a certayne vessell come doune vnto him as it had bene a greate shete knyt at the.iiii. corners and was let doune to the erth
 
-**[10:12]** where in wer all maner of .iiii. foted beastes of the erth and vermen and wormes and foules of the ayer.
+**[10:12]** where in wer all maner of.iiii. foted beastes of the erth and vermen and wormes and foules of the ayer.
 
 **[10:13]** And ther came a voyce to him: ryse Peter kyll and eate.
 
@@ -56722,7 +56722,7 @@
 
 **[10:29]** therfore came I vnto you with oute sayege naye assone as I was sent for. I axe therfore for what intent have ye sent for me?
 
-**[10:30]** And Cornelius sayde: This daye now .iiii. dayes I fasted and at the nynthe houre I prayde in my housse: and beholde a man stode before me in bright clothynge
+**[10:30]** And Cornelius sayde: This daye now.iiii. dayes I fasted and at the nynthe houre I prayde in my housse: and beholde a man stode before me in bright clothynge
 
 **[10:31]** and sayde: Cornelius thy prayer is hearde and thyne almes dedes are had in remembraunce in the sight of God.
 
@@ -56830,7 +56830,7 @@
 
 **[12:3]** and because he sawe that it pleased ye Iewes he proceded forther and toke Peter also. Then were the dayes of swete breed.
 
-**[12:4]** And when he had caught him he put him in preson and delyvered him to .iiii. quaternios of soudiers to be kepte entendynge after ester to brynge him forth to the people.
+**[12:4]** And when he had caught him he put him in preson and delyvered him to.iiii. quaternios of soudiers to be kepte entendynge after ester to brynge him forth to the people.
 
 **[12:5]** Then was Peter kepte in preson. But prayer was made with out ceasynge of the congregacion vnto God for him.
 
@@ -56910,13 +56910,13 @@
 
 **[13:17]** The God of this people chose oure fathers and exalted the people whe they dwelt as straugers in ye londe of Egypt and with a mighty arme brought them oute of it
 
-**[13:18]** and aboute the tyme of .xl. yeares suffred he their maners in the wyldernes.
+**[13:18]** and aboute the tyme of.xl. yeares suffred he their maners in the wyldernes.
 
 **[13:19]** And he destroyed. vii nacios in the londe of Canaan and devided their londe to them by lot.
 
-**[13:20]** And after warde he gave vnto them iudges aboute the space of .iiii.C. and .l. yeres vnto the tyme of Samuel ye Prophet.
+**[13:20]** And after warde he gave vnto them iudges aboute the space of.iiii.C. and.l. yeres vnto the tyme of Samuel ye Prophet.
 
-**[13:21]** And after that they desyred a kinge and God gave vnto them Saul the sonne of Cis a man of the tribe of Beniamin by the space of .xl. yeres.
+**[13:21]** And after that they desyred a kinge and God gave vnto them Saul the sonne of Cis a man of the tribe of Beniamin by the space of.xl. yeres.
 
 **[13:22]** And after he had put him doune he set vp David to be their kynge of whome he reported sayinge: I have founde David the sonne of Iesse a man after myne awne hert he shall fulfill all my will.
 
@@ -57346,7 +57346,7 @@
 
 **[19:6]** And Paul layde his hondes apon them and the holy gost came on them and they spake with tonges and prophesied
 
-**[19:7]** and all the men were aboute .xii.
+**[19:7]** and all the men were aboute.xii.
 
 **[19:8]** And he went into the synagoge and behaved him selfe boldely for the space of thre monethes disputynge and gevynge them exhortacions of the kyngdome of God.
 
@@ -57422,7 +57422,7 @@
 
 **[20:2]** And when he had gone over those parties and geven them large exhortacions he came into Grece
 
-**[20:3]** and there abode .iii. monethes. And when the Iewes layde wayte for him as he was about to sayle into Syria he purposed to returne thorowe Macedonia.
+**[20:3]** and there abode.iii. monethes. And when the Iewes layde wayte for him as he was about to sayle into Syria he purposed to returne thorowe Macedonia.
 
 **[20:4]** Ther acompanied him into Asia Sopater of Berrea and of Thessalonia Aristarcus and Secundus and Gayus of Derba and Timotheus: and out of Asia Tychicus and Trophimos.
 
@@ -57478,7 +57478,7 @@
 
 **[20:30]** Moreover of youre awne selves shall men aryse speakinge perverse thinges to drawe disciples after the.
 
-**[20:31]** Therfore awake and remember that by the space of .iii. yeares I ceased not to warne every one of you both nyght and daye with teares.
+**[20:31]** Therfore awake and remember that by the space of.iii. yeares I ceased not to warne every one of you both nyght and daye with teares.
 
 **[20:32]** And now brethren I comende you to God and to the worde of his grace which is able to bylde further and to geve you an inheritaunce amoge all them which are sanctified.
 
@@ -57502,7 +57502,7 @@
 
 **[21:3]** Then appered vnto vs Cyprus and we lefte it on the lefte honde and sayled vnto Syria and came vnto Tyre. For there the shyppe vnladed her burthen.
 
-**[21:4]** And when we had founde brethren we taryed there .vii. dayes. And they tolde Paul thorowe ye sprete that he shuld not goo vp to Ierusalem.
+**[21:4]** And when we had founde brethren we taryed there.vii. dayes. And they tolde Paul thorowe ye sprete that he shuld not goo vp to Ierusalem.
 
 **[21:5]** And when the dayes were ended we departed and went oure wayes and they all brought vs on oure waye wt their wyves and chyldren tyll we were come out of the cyte. And we kneled doune in the shore and prayde.
 
@@ -57540,7 +57540,7 @@
 
 **[21:22]** What is it therfore? The multitude must nedes come togeder. For they shall heare that thou arte come.
 
-**[21:23]** Do therfore this that we saye to the. We have .iiii. men which have a vowe on them.
+**[21:23]** Do therfore this that we saye to the. We have.iiii. men which have a vowe on them.
 
 **[21:24]** Them take and purifye thy selfe with them and do cost on them that they maye shave their heeddes and all shall knowe yt tho thinges which they have hearde concerninge the are nothinge: but that thou thy selfe also walkest and kepest the lawe.
 
@@ -57570,7 +57570,7 @@
 
 **[21:37]** And as Paul shuld have bene caryed into the castle he sayde vnto the hye Captayne: maye I speake vnto the? Which sayde: canst thou speake Greke?
 
-**[21:38]** Arte not thou that Egypcian which before these dayes made an vproure and ledde out into the wildernes .iiii. thousande men that were mortherers?
+**[21:38]** Arte not thou that Egypcian which before these dayes made an vproure and ledde out into the wildernes.iiii. thousande men that were mortherers?
 
 **[21:39]** But Paul sayde: I am a ma which am a Iewe of Tharsus a cite in Cicill a Citesyn of no vyle cite I beseche ye soffre me to speake vnto ye people.
 
@@ -57664,7 +57664,7 @@
 
 **[23:12]** When daye was come certayne of the Iewes gaddered them selves to geder and made a vowe sayinge that they wolde nether eate nor drinke till they had killed Paul.
 
-**[23:13]** They were aboute .xl. which had made this conspiracio.
+**[23:13]** They were aboute.xl. which had made this conspiracio.
 
 **[23:14]** And they cam to ye chefe prestes and elders and sayde: we have boude oure selves with a vowe that we will eate nothinge vntill we have slayne Paul.
 
@@ -57680,7 +57680,7 @@
 
 **[23:20]** And he sayd: the Iewes are determined to desyre the yt thou woldest brynge forth Paul to morowe into the counsell as though they wolde enquyre somwhat of him more parfectly.
 
-**[23:21]** But folowe not their mindes: for ther lyein wayte for him of the moo then .xl. men which have boude the selves wt a vowe that they will nether eate ner drinke till they have killed him. And now are they redy and loke for thy promes.
+**[23:21]** But folowe not their mindes: for ther lyein wayte for him of the moo then.xl. men which have boude the selves wt a vowe that they will nether eate ner drinke till they have killed him. And now are they redy and loke for thy promes.
 
 **[23:22]** The vpper captayne let ye yoge man departe and charged: se thou tell it out to no man that thou hast shewed these thinges to me.
 
@@ -57712,7 +57712,7 @@
 
 ### Chapter 24
 
-**[24:1]** After .v. dayes Ananias the hye preste descended with elders and with a certayne Oratour named Tartullus and enformed the ruelar of Paul.
+**[24:1]** After.v. dayes Ananias the hye preste descended with elders and with a certayne Oratour named Tartullus and enformed the ruelar of Paul.
 
 **[24:2]** When Paul was called forth Tartullus beganne to accuse him saying: Seynge yt we live in great quyetnes by the meanes of the and that many good thinges are done vnto this nacion thorow thy providence:
 
@@ -57732,7 +57732,7 @@
 
 **[24:10]** Then Paul (after that the rular him selfe had beckened vnto him that he shuld speake) answered: I shall with a moare quyet minde answere for my selfe for as moche as I vnderstonde yt thou hast bene of many yeares a iudge vnto this people
 
-**[24:11]** because that thou mayst knowe yt there are yet .xii. dayes sence I went vp to Ierusalem for to praye
+**[24:11]** because that thou mayst knowe yt there are yet.xii. dayes sence I went vp to Ierusalem for to praye
 
 **[24:12]** and that they nether founde me in the teple disputinge with eny man other raysinge vp the people nether in the Synagoges nor in the cite.
 
@@ -57836,7 +57836,7 @@
 
 **[26:6]** And now I stond and am iudged for the hope of the promes made of God vnto oure fathers:
 
-**[26:7]** vnto which promes oure .xii. tribes instantly servynge God daye and nyght hope to come. For which hopes sake kynge Agrippa am I accused of the Iewes.
+**[26:7]** vnto which promes oure.xii. tribes instantly servynge God daye and nyght hope to come. For which hopes sake kynge Agrippa am I accused of the Iewes.
 
 **[26:8]** Why shuld it be thought a thinge vncredible vnto you that god shuld rayse agayne the deed?
 
@@ -57944,9 +57944,9 @@
 
 **[27:27]** But when ye fourtethe nyght was come as we were caryed in Adria about mydnyght the shipmen demed that ther appered some countre vnto the:
 
-**[27:28]** and sounded and founde it .xx. feddoms. And when they had gone a lytell further they sounded agayne and founde .xv. feddoms.
+**[27:28]** and sounded and founde it.xx. feddoms. And when they had gone a lytell further they sounded agayne and founde.xv. feddoms.
 
-**[27:29]** Then fearinge lest they shuld have fallen on some Rocke they cast .iiii. ancres out of the sterne and wysshed for ye daye.
+**[27:29]** Then fearinge lest they shuld have fallen on some Rocke they cast.iiii. ancres out of the sterne and wysshed for ye daye.
 
 **[27:30]** As the shipmen were about to fle out of the ship and had let doune the bote into the see vnder a coloure as though they wolde have cast ancres out of the forshippe:
 
@@ -58002,7 +58002,7 @@
 
 **[28:11]** After thre monethes we departed in a ship of Alexandry which had wyntred in the yle whose badge was Castor and Pollux.
 
-**[28:12]** And whe we came to Cyracusa we taryed there .iii. dayes.
+**[28:12]** And whe we came to Cyracusa we taryed there.iii. dayes.
 
 **[28:13]** And from thence we set a compasse and came to Regium. And after one daye the south wynde blewe and we came the next daye to Putiolus:
 
@@ -58144,7 +58144,7 @@
 
 **[2:16]** at the daye when god shall iudge the secretes of men by Iesus Christ accordinge to my Gospell.
 
-**[2:17]**  Beholde thou arte called a Iewe and trustest in the lawe and reioysist in God
+**[2:17]** Beholde thou arte called a Iewe and trustest in the lawe and reioysist in God
 
 **[2:18]** and knowest his will and hast experience of good and bad in that thou arte informed by the lawe:
 
@@ -58212,7 +58212,7 @@
 
 **[3:20]** because that by ye dedes of the lawe shall no flesshe be iustified in the sight of God. For by the lawe commeth the knowledge of synne.
 
-**[3:21]**  Now verely is ye rigtewesnes that cometh of God declared without the fulfillinge of ye lawe havinge witnes yet of ye lawe and of the Prophetes.
+**[3:21]** Now verely is ye rigtewesnes that cometh of God declared without the fulfillinge of ye lawe havinge witnes yet of ye lawe and of the Prophetes.
 
 **[3:22]** The rightewesnes no dout which is good before God cometh by ye fayth of Iesus Christ vnto all and vpon all that beleve.Ther is no differece:
 
@@ -58252,7 +58252,7 @@
 
 **[4:8]** Blessed is that ma to whom the Lorde imputeth not synne.
 
-**[4:9]**  Came this blessednes then vpon the circumcised or vpon the vncircucised? We saye verely how that fayth was rekened to Abraham for rightewesnes.
+**[4:9]** Came this blessednes then vpon the circumcised or vpon the vncircucised? We saye verely how that fayth was rekened to Abraham for rightewesnes.
 
 **[4:10]** How was it rekened? in the tyme of circumcision? or in the tyme before he was circumcised? Not in tyme of circucision: but when he was yet vncircumcised.
 
@@ -58270,7 +58270,7 @@
 
 **[4:17]** As it is wrytten: I have made the a father to many nacions even before god whom thou hast beleved which quyckeneth the deed and called those thinges which be not as though they were.
 
-**[4:18]**  Which Abraham contrary to hope beleved in hope that he shuld be the father of many nacions accordynge to that which was spoken:
+**[4:18]** Which Abraham contrary to hope beleved in hope that he shuld be the father of many nacions accordynge to that which was spoken:
 
 **[4:19]** So shall thy seed be. And he faynted not in the fayth nor yet consydered hys awne body which was now deed even when he was almost an hondred yeare olde: nether yet that Sara was past chyldeberinge.
 
@@ -58322,7 +58322,7 @@
 
 **[5:17]** For yf by the synne of one deeth raigned by the meanes of one moche more shall they which receave aboundance of grace and of the gyfte of rightewesnes raygne in lyfe by the meanes of one (that is to saye) Iesus Christ.
 
-**[5:18]**  Lykewyse then as by the synne of one condemnacion cam on all men: eve so by the iustifyinge of one cometh the rightewesnes that bringeth lyfe vpo all men.
+**[5:18]** Lykewyse then as by the synne of one condemnacion cam on all men: eve so by the iustifyinge of one cometh the rightewesnes that bringeth lyfe vpo all men.
 
 **[5:19]** For as by one manes disobediece many be cam synners: so by ye obediece of one shall many be made righteous.
 
@@ -58368,7 +58368,7 @@
 
 **[6:18]** Ye are then made fre from synne and are be come the servauntes of rightewesnes.
 
-**[6:19]**  I will speake grossly because of the infirmitie of youre flesshe. As ye have geve youre membres servauntes to vnclennes and to iniquitie fro iniquitie vnto iniquitie: even so nowe geve youre membres servantes vnto rightewesnes yt ye maye be sanctified.
+**[6:19]** I will speake grossly because of the infirmitie of youre flesshe. As ye have geve youre membres servauntes to vnclennes and to iniquitie fro iniquitie vnto iniquitie: even so nowe geve youre membres servantes vnto rightewesnes yt ye maye be sanctified.
 
 **[6:20]** For when ye were the servauntes of synne ye were not vnder rightewesnes.
 
@@ -59074,7 +59074,7 @@
 
 **[3:15]** If eny manes worke burne he shall suffre losse: but he shalbe safe him selfe: neverthelesse yet as it were thorow fyre.
 
-**[3:16]**  Are ye not ware that ye are the temple of god and how that the sprete of god dwelleth in you?
+**[3:16]** Are ye not ware that ye are the temple of god and how that the sprete of god dwelleth in you?
 
 **[3:17]** Yf eny man defyle the temple of god him shall god destroye. For the temple of god is holy which temple ye are.
 
@@ -59386,7 +59386,7 @@
 
 **[10:7]** Nether be ye worshippers of Images as were some of them accordynge as it is written: The people sate doune to eate and drynke and rose vp agayne to playe.
 
-**[10:8]** Nether let vs comit fornicacion as some of them committed fornicacion and were destroyed in one daye .xxiii. thousande.
+**[10:8]** Nether let vs comit fornicacion as some of them committed fornicacion and were destroyed in one daye.xxiii. thousande.
 
 **[10:9]** Nether let vs tempte Christ as some of them tempted and were destroyed of serpentes.
 
@@ -59420,7 +59420,7 @@
 
 **[10:24]** Let no man seke his awne proffet: but let every man seke anothers welthe.
 
-**[10:25]**  What soever is solde in the market that eate and axe no questions for conscience sake
+**[10:25]** What soever is solde in the market that eate and axe no questions for conscience sake
 
 **[10:26]** For the erth is the lordis and all that therein is.
 
@@ -59562,7 +59562,7 @@
 
 **[12:26]** And yf one member suffer all suffer with him: yf one member be had in honoure all members be glad also.
 
-**[12:27]**  Ye are the body of Christ and members one of another.
+**[12:27]** Ye are the body of Christ and members one of another.
 
 **[12:28]** And God hath also ordeyned in the congregacion fyrst the Apostels secodarely prophetes thyrdly teachers then the that do miracles: after that the gyftes of healynge helpers governers diversite of tonges.
 
@@ -59588,7 +59588,7 @@
 
 **[13:7]** suffreth all thynge beleveth all thynges hopeth all thynges endureth in all thynges.
 
-**[13:8]** Though that prophesyinge fayle other tonges shall cease ) or knowledge vanysshe awaye yet love falleth never awaye
+**[13:8]** Though that prophesyinge fayle other tonges shall cease) or knowledge vanysshe awaye yet love falleth never awaye
 
 **[13:9]** For oure knowledge is vnparfect and oure prophesyinge is vnperfet.
 
@@ -59620,7 +59620,7 @@
 
 **[14:9]** Eve so lykwyse whe ye speake with toges excepte ye speake wordes that have signification how shall yt be vnderstonde what is spoke? For ye shall but speake in the ayer.
 
-**[14:10]**  Many kyndes of voyces are in the worlde and none of them are with out signification.
+**[14:10]** Many kyndes of voyces are in the worlde and none of them are with out signification.
 
 **[14:11]** If I knowe not what the voyce meaneth I shalbe vnto him that speaketh an alient: and and he that speaketh shalbe an alient vnto me
 
@@ -59658,7 +59658,7 @@
 
 **[14:28]** But yf ther be no interpreter let him kepe silence in the cogregacion and let him speake to him selfe and to God.
 
-**[14:29]**  Let the Prophetes speake two at once or thre at once and let other iudge.
+**[14:29]** Let the Prophetes speake two at once or thre at once and let other iudge.
 
 **[14:30]** Yf eny revelacio be made to another that sitteth by let the fyrst holde his peace.
 
@@ -59668,7 +59668,7 @@
 
 **[14:33]** For God is not causer of stryfe: but of peace as he is in all other congregacions of the saynctes.
 
-**[14:34]**  Let youre wyves kepe silence in the cogregacions. For it is not permitted vnto them to speake: but let them be vnder obedience as sayth the lawe.
+**[14:34]** Let youre wyves kepe silence in the cogregacions. For it is not permitted vnto them to speake: but let them be vnder obedience as sayth the lawe.
 
 **[14:35]** If they will learne enythinge let the axe their husbandes at home. For it is a shame for wemen to speake in the cogregacio.
 
@@ -62412,7 +62412,7 @@
 
 **[3:16]** For some whe they hearde rebelled: howbe it not all yt ca out of Egypt vnder Moses.
 
-**[3:17]** But with who was he despleased .xl. yeares? Was he not displeased with them that synned: whose carkases were overthorwen in the desert?
+**[3:17]** But with who was he despleased.xl. yeares? Was he not displeased with them that synned: whose carkases were overthorwen in the desert?
 
 **[3:18]** To whom sware he that they shuld not enter into his rest: but vnto them that beleved not?
 
@@ -63870,7 +63870,7 @@
 
 **[1:3]** Happy is he that redith and they that heare the wordes of the prophesy and kepe thoo thinges which are written therin. For the tyme is at honde.
 
-**[1:4]** Ihon to the .vii. congregacios in Asia. Grace be with you and peace from him which is and which was and which is to come and from the .vii. spretes which are present before his trone
+**[1:4]** Ihon to the.vii. congregacios in Asia. Grace be with you and peace from him which is and which was and which is to come and from the.vii. spretes which are present before his trone
 
 **[1:5]** and from Iesus Christ which is a faythfull witnes and fyrst begotte of the deed: and Lorde over the kinges of the erth. Vnto him that loved vs and wesshed vs fro synnes in his awne bloud
 
@@ -63886,7 +63886,7 @@
 
 **[1:11]** sayinge: I am Alpha and Omega the fyrst and the laste. That thou seist write in a boke and sende it vnto the congregacions which are in Asia vnto Ephesus and vnto Smyrna and vnto Pargamos and vnto Thiatira and vnto Sardis and vnto Philadelphia and vnto Laodicia.
 
-**[1:12]** And I turned backe to se the voyce that spake to me. And when I was turned: I sawe .vii golde candelstyckes
+**[1:12]** And I turned backe to se the voyce that spake to me. And when I was turned: I sawe.vii golde candelstyckes
 
 **[1:13]** and in the myddes of the cadelstyckes one lyke vnto ye sone of ma clothed with a lynnen garmet doune to the ground and gyrd aboute the pappes with a golden gyrdle
 
@@ -63924,7 +63924,7 @@
 
 **[2:9]** I knowe thy workes and tribulacion and poverte but thou art ryche: And I knowe the blaspemy of them whiche call them selves Iewes and are not: but are the congregacio of sathan.
 
-**[2:10]** Feare none of thoo thynges which thou shalt soffre. Beholde the devyll shall caste of you into preson to tempte you and ye shall have tribulacion .x. dayes. Be faythfull vnto the deeth and I will geve the a croune of lyfe.
+**[2:10]** Feare none of thoo thynges which thou shalt soffre. Beholde the devyll shall caste of you into preson to tempte you and ye shall have tribulacion.x. dayes. Be faythfull vnto the deeth and I will geve the a croune of lyfe.
 
 **[2:11]** Let him that hath ears heare what the sprete sayth to the congregacions: He that overcometh shall not be hurte of the seconde deeth.
 
@@ -64018,7 +64018,7 @@
 
 **[4:3]** And he that sat was to loke apo like vnto a iaspar stone and a sardyne stone: And there was a rayne bowe aboute the seate in syght lyke to an Emeralde.
 
-**[4:4]** And aboute the seate were .xxiiii. seates. And upon the seates .xxiiii. elders syttinge clothed in whyte rayment and had on their heddes crounes of gold.
+**[4:4]** And aboute the seate were.xxiiii. seates. And upon the seates.xxiiii. elders syttinge clothed in whyte rayment and had on their heddes crounes of gold.
 
 **[4:5]** And out of the seate proceded lightnynges and thundrynges and voyces and there wer vii. lampes of fyre burninge before ye seate which are the vii. sprettes of God.
 
@@ -64046,11 +64046,11 @@
 
 **[5:5]** And one of the elders sayde unto me: wepe not: Beholde a lion beinge of the tribe of Iuda the rote of Dauid hath obtayned to open the boke and to lose the vii. seales therof.
 
-**[5:6]** And I behelde and loo in the myddes of the seate and of the .iiii. bestes and in the myddes of the elders stode a lambe as though he had bene kylled which had vii. hornes and vii. eyes which are the spretes of God sent into all the worlde.
+**[5:6]** And I behelde and loo in the myddes of the seate and of the.iiii. bestes and in the myddes of the elders stode a lambe as though he had bene kylled which had vii. hornes and vii. eyes which are the spretes of God sent into all the worlde.
 
 **[5:7]** And he cam and toke the boke oute of the right honde of him that sate apon the seate.
 
-**[5:8]** And when he had take the boke the .iiii. bestes and xxiiii. elders fell doune before the labe havynge harpes and golden vialles full of odoures which are the prayers of saynctes
+**[5:8]** And when he had take the boke the.iiii. bestes and xxiiii. elders fell doune before the labe havynge harpes and golden vialles full of odoures which are the prayers of saynctes
 
 **[5:9]** and they songe a newe songe saynge: thou art worthy to take ye boke and to ope ye seales therof: for thou waste kylled and haste redemed vs by thy bloud out of all kynreddes and tonges and people and nacions
 
@@ -64062,7 +64062,7 @@
 
 **[5:13]** And all creatures which are in heven and on the erth and vnder the erth and in the see and all that are in them herd I sayinge: blyssinge honour glory and power be vnto hym that sytteth apon the seate and vnto the lambe for ever more.
 
-**[5:14]** And the .iiii. bestes sayd: Ame. And the .xxiiii. elders fell apon their faces and worshypped him that lyveth for ever more.
+**[5:14]** And the.iiii. bestes sayd: Ame. And the.xxiiii. elders fell apon their faces and worshypped him that lyveth for ever more.
 
 ### Chapter 6
 
@@ -64076,7 +64076,7 @@
 
 **[6:5]** And when he opened ye thyrde seale I herde the thyrde beste saye: come and se. And I behelde and loo a blacke hors: and he that sate on him had a payre of balances in his honde.
 
-**[6:6]** And I herd a voyce in the myddes of the .iiii. bestes saye: a measure of whete for a peny and iii. measures of barly for a peny: and oyle and wyne se thou hurte not.
+**[6:6]** And I herd a voyce in the myddes of the.iiii. bestes saye: a measure of whete for a peny and iii. measures of barly for a peny: and oyle and wyne se thou hurte not.
 
 **[6:7]** And when he opened the fourthe seale I herde the voyce of the fourthe beste saye: come and se.
 
@@ -64102,7 +64102,7 @@
 
 ### Chapter 7
 
-**[7:1]** And after that I sawe .iiii. angels stonde on the iiii. corners of ye erth holdynge ye iiii. wyndes of the erth that ye wyndes shulde not blowe on the erthe nether on the see nether on eny tree.
+**[7:1]** And after that I sawe.iiii. angels stonde on the iiii. corners of ye erth holdynge ye iiii. wyndes of the erth that ye wyndes shulde not blowe on the erthe nether on the see nether on eny tree.
 
 **[7:2]** And I sawe another angell ascende from the rysynge of the sunne: which had the seale of the lyvynge god and he cryed with a loude voyce to the iiii angelles (to whom power was geven to hurt the erth and the see)
 
@@ -64148,7 +64148,7 @@
 
 **[8:5]** And ye angell toke the senser and fylled it with fyre of the aultre and caste it into the erth and voyces were made and thondrynges and lightnynges and erthquake.
 
-**[8:6]** And the .vii. angells which had the .vii. tropettes prepared them selves to blowe.
+**[8:6]** And the.vii. angells which had the.vii. tropettes prepared them selves to blowe.
 
 **[8:7]** The fyrst angell blewe and there was made hayle and fyre which were myngled with bloud and they were caste into ye erth: and the thryd parte of trees was burnt and all grene grasse was brent.
 
@@ -64162,7 +64162,7 @@
 
 **[8:12]** And the fourth angell blew and the thyrde parte of the sunne was smytten and the thyrde parte of the mone and ye thyrde part of starres: so that the thyrde parte of them was darckned. And the daye was smytten that the thyrde part of it shulde not shyne and lyke wyse ye nyght.
 
-**[8:13]** And I behelde and herd an angell flyinge thorowe the myddes of heven sayinge with a lowde voyce: Woo wo to the inhabiters of the erth because of the voyces to come of the trompe of the .iii. angells which were yet to blowe.
+**[8:13]** And I behelde and herd an angell flyinge thorowe the myddes of heven sayinge with a lowde voyce: Woo wo to the inhabiters of the erth because of the voyces to come of the trompe of the.iii. angells which were yet to blowe.
 
 ### Chapter 9
 
@@ -64236,9 +64236,9 @@
 
 **[11:1]** And then was geven me a rede lyke vnto a rodd and it was sayd vnto me: Ryse and mete the temple of god and the aultre and them that worshippe therin
 
-**[11:2]** and the quyre which is within the temple cast oute and mete it not: for it is gevyn vnto the gentyles and the holy cite shall they treade vnderfote .xlii. monethes.
+**[11:2]** and the quyre which is within the temple cast oute and mete it not: for it is gevyn vnto the gentyles and the holy cite shall they treade vnderfote.xlii. monethes.
 
-**[11:3]** And I will geve power vnto my two wytnesses and they shall prophesy .M.iic. and .lx. dayes clothed in sacke cloth.
+**[11:3]** And I will geve power vnto my two wytnesses and they shall prophesy.M.iic. and.lx. dayes clothed in sacke cloth.
 
 **[11:4]** These are two olyve trees and two cadlestyckes stodinge before ye god of ye erth
 
@@ -64250,21 +64250,21 @@
 
 **[11:8]** And their boddyes shall lye in the stretes of the greate cite which spritually is called zodom and Egypte where oure lorde was crucified.
 
-**[11:9]** And they of the people and kynredes and tonges and they of the nacions shall se their bodyes .iii. dayes and an halfe and shall not suffre their boddyes to be put in graves.
+**[11:9]** And they of the people and kynredes and tonges and they of the nacions shall se their bodyes.iii. dayes and an halfe and shall not suffre their boddyes to be put in graves.
 
 **[11:10]** And they that dwell apon the erth shall reioyce over them and be glad and shall send gyftes one to another for these two prophetes vexed them yt dwelt on the erth.
 
-**[11:11]** And after .iii. dayes and an halffe the sprete of lyfe from god entred into the. And they stode vp apo their fete: and greate feare came apon the which sawe them.
+**[11:11]** And after.iii. dayes and an halffe the sprete of lyfe from god entred into the. And they stode vp apo their fete: and greate feare came apon the which sawe them.
 
 **[11:12]** And they herde a greate voyce from heven saying vnto the. Come vp hidder. And they ascended vp into heven in a cloude and their ennemyes sawe the.
 
-**[11:13]** And ye same houre was ther a gret erth quake and the tenthe parte of the cite fell and in the erth quake were slayne names of men seven .M. and the remnaunt were feared and gave glory to god of heven.
+**[11:13]** And ye same houre was ther a gret erth quake and the tenthe parte of the cite fell and in the erth quake were slayne names of men seven.M. and the remnaunt were feared and gave glory to god of heven.
 
 **[11:14]** The seconde woo is past and beholde ye thyrd woo wyll come ano
 
 **[11:15]** And the seventh angell blewe and therwere made great voyces in heve sayinge: the kyngdoms of this worlde are oure lordes and his christes and he shall raygne for ever more.
 
-**[11:16]** And the .xxiiii. elders which sytt before god on their seates fell apon their faces and worshipped God
+**[11:16]** And the.xxiiii. elders which sytt before god on their seates fell apon their faces and worshipped God
 
 **[11:17]** sayinge: we geve the thankes lorde God allmyghte: which arte and wast and arte to come for thou haste receaved thy great myght and hast raygned.
 
@@ -64278,7 +64278,7 @@
 
 **[12:2]** And she was wt chylde and cryed travayllinge in byrth and payned redy to be delyvered.
 
-**[12:3]** And ther appered another wonder in heven for beholde a gret red drago havynge .vii. heddes and ten hornes and crounes vpo his heddes:
+**[12:3]** And ther appered another wonder in heven for beholde a gret red drago havynge.vii. heddes and ten hornes and crounes vpo his heddes:
 
 **[12:4]** and his tayle drue the thyrde parte of the starres and cast them to the erth. And the dragon stode before the woman which was reddy to be delyvred: for to devoure her chylde as sone as it were borne.
 
@@ -64386,11 +64386,11 @@
 
 **[14:19]** And the angell thrust in his sykle on the erth and cut doune the grapes of the vyneyarde of the erth: and cast them into the gret wynefat of the wrath of god
 
-**[14:20]** and the wynefat was trodden with out the cite and bloud came oute of the fat eve vnto the hors brydles by the space of a thowsande and .vi.C. furlonges.
+**[14:20]** and the wynefat was trodden with out the cite and bloud came oute of the fat eve vnto the hors brydles by the space of a thowsande and.vi.C. furlonges.
 
 ### Chapter 15
 
-**[15:1]** And I sawe another signe in heve grett and mervellous .vii. angells havynge the seven laste plages for in the is fulfylled ye wrath of god.
+**[15:1]** And I sawe another signe in heve grett and mervellous.vii. angells havynge the seven laste plages for in the is fulfylled ye wrath of god.
 
 **[15:2]** And I sawe as it were a glassye see mingled with fyre and the that had gotten victory of the beest and of his ymage and of his marke and of the nombre of his name stode on the glassye see havinge ye harpes of god
 
@@ -64588,15 +64588,15 @@
 
 **[20:2]** And he toke the drago that olde serpet which is the devyll and Satanas and he bounde him a thousand yeares:
 
-**[20:3]** and cast him into the bottomlesse pit and he bounde him and set a seale on him yt he shuld desceaue the people no moare tyll the .M. yeares were fulfilled. And after yt he muste be loosed for a litell season.
+**[20:3]** and cast him into the bottomlesse pit and he bounde him and set a seale on him yt he shuld desceaue the people no moare tyll the.M. yeares were fulfilled. And after yt he muste be loosed for a litell season.
 
-**[20:4]** And I sawe seattes and they sat apon them and iudgement was geven vnto them: and I sawe the soules of them that were behedded for the witnes of Iesu and for the worde of God: which had not worshypped the best nether his ymage nether had taken his marke vpon their forheddes or on their hondes: and they lyved and raygned with Christ a .M. yere:
+**[20:4]** And I sawe seattes and they sat apon them and iudgement was geven vnto them: and I sawe the soules of them that were behedded for the witnes of Iesu and for the worde of God: which had not worshypped the best nether his ymage nether had taken his marke vpon their forheddes or on their hondes: and they lyved and raygned with Christ a.M. yere:
 
-**[20:5]** but the wother of the deed men lyved not agayne vntyll the .M. yere were fynisshed. This is that fyrst resurreccion.
+**[20:5]** but the wother of the deed men lyved not agayne vntyll the.M. yere were fynisshed. This is that fyrst resurreccion.
 
-**[20:6]** Blessed and holy is he that hath parte in the fyrst resurreccion. For on suche shall the seconde deeth have no power for they shalbe the prestes of God and of Christ and shall raygne with him a .M. yere.
+**[20:6]** Blessed and holy is he that hath parte in the fyrst resurreccion. For on suche shall the seconde deeth have no power for they shalbe the prestes of God and of Christ and shall raygne with him a.M. yere.
 
-**[20:7]** And when the .M. yeares are experied Satan shalbe lowsed out of his preson
+**[20:7]** And when the.M. yeares are experied Satan shalbe lowsed out of his preson
 
 **[20:8]** and shall goo oute to deceave the people which are in the foure quarters of the erth Gog and Magog to gadder them to gedder to batayle whose nombre is as the sonde of the see:
 
@@ -64642,11 +64642,11 @@
 
 **[21:13]** on the est parte iii gatis and on the north syde iii gates and to wardes the south iii gates and from the west iii gates:
 
-**[21:14]** and the wall of the cite had xii foundacions and in them the names of the lambes .xii. Apostles.
+**[21:14]** and the wall of the cite had xii foundacions and in them the names of the lambes.xii. Apostles.
 
 **[21:15]** And he that talked with me had a golden read to measure the cite with all and the gates therof and the wall therof.
 
-**[21:16]** And the cite was bylt iiii. square and the length was as large as the bredth of it and he measured the cite with the rede .xii M. fur longes: and the lenght and the bredth and ye heyth of it were equall.
+**[21:16]** And the cite was bylt iiii. square and the length was as large as the bredth of it and he measured the cite with the rede.xii M. fur longes: and the lenght and the bredth and ye heyth of it were equall.
 
 **[21:17]** And he measured the wall therof. an cxliiii. cubittes: the measure that ye angell had was after the measure that man vseth.
 

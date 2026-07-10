@@ -30618,7 +30618,7 @@
 
 ### Chapter 56
 
-**[56:1]** Au maître-chantre. — Sur «Colombe des térébinthes lointains.» !!- Poème de David, lorsque les Philistins le prirent dans Gath. Aie pitié de moi, ô Dieu! Car des hommes s'acharnent à ma perte; Tout le jour ils m'assaillent et me persécutent.
+**[56:1]** Au maître-chantre. — Sur «Colombe des térébinthes lointains.»!!- Poème de David, lorsque les Philistins le prirent dans Gath. Aie pitié de moi, ô Dieu! Car des hommes s'acharnent à ma perte; Tout le jour ils m'assaillent et me persécutent.
 
 **[56:2]** Tout le jour mes adversaires s'acharnent à me perdre; Car ils sont nombreux, ceux qui me provoquent avec insolence.
 
@@ -30730,7 +30730,7 @@
 
 ### Chapter 60
 
-**[60:1]** Au maître-chantre. — Sur «Le lys du témoignage». !!- Poème didactique de David, lorsqu'il fit la guerre aux Syriens de Mésopotamie et aux Syriens de Tsoba, et que Joab revint et défit douze mille Édomites dans la Vallée du Sel. O Dieu, tu nous as rejetés, tu nous as dispersés; Tu t'es irrité: relève-nous!
+**[60:1]** Au maître-chantre. — Sur «Le lys du témoignage».!!- Poème didactique de David, lorsqu'il fit la guerre aux Syriens de Mésopotamie et aux Syriens de Tsoba, et que Joab revint et défit douze mille Édomites dans la Vallée du Sel. O Dieu, tu nous as rejetés, tu nous as dispersés; Tu t'es irrité: relève-nous!
 
 **[60:2]** Tu as fait trembler la terre, tu l'as déchirée: Répare ses brèches; car elle est ébranlée.
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Louez-le avec les cymbales sonores; Louez-le avec les cymbales retentissantes!
 
-**[150:6]** Que tout ce qui respire loue l'Éternel! Louez l'Éternel! 
+**[150:6]** Que tout ce qui respire loue l'Éternel! Louez l'Éternel!
 
 ## Proverbs
 
@@ -49242,7 +49242,7 @@
 
 **[15:3]** Il leur répondit: Et vous, pourquoi transgressez-vous le commandement de Dieu par votre tradition?
 
-**[15:4]** Car Dieu a donné ce commandement: «Honore ton père et ta mère»; et: «Que celui qui maudira son père ou sa mère soit puni de mort !!-»
+**[15:4]** Car Dieu a donné ce commandement: «Honore ton père et ta mère»; et: «Que celui qui maudira son père ou sa mère soit puni de mort!!-»
 
 **[15:5]** Mais vous, vous dites: Celui qui dira à son père ou à sa mère: J'ai offert à Dieu ce dont je pourrais t'assister, — celui-là ne sera pas tenu d'honorer son père ou sa mère.
 
@@ -49952,7 +49952,7 @@
 
 **[24:25]** Vous voilà prévenus!
 
-**[24:26]** Si donc on vous dit: Le voici dans le désert. — n'y allez pas! Le voici dans l'intérieur de la maison !!- ne le croyez pas!
+**[24:26]** Si donc on vous dit: Le voici dans le désert. — n'y allez pas! Le voici dans l'intérieur de la maison!!- ne le croyez pas!
 
 **[24:27]** Car, comme l'éclair part de l'Orient et brille jusqu'à l'Occident, il en sera de même de l'avènement du Fils de l'homme.
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Allez donc, enseignez toutes les nations, en les baptisant au nom du Père, du Fils et du Saint-Esprit,
 
-**[28:20]** et en leur apprenant à garder tout ce que je vous ai commandé. Et voici que je suis avec vous tous les jours, jusqu'à la fin du monde! 
+**[28:20]** et en leur apprenant à garder tout ce que je vous ai commandé. Et voici que je suis avec vous tous les jours, jusqu'à la fin du monde!
 
 ## Mark
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Le Seigneur Jésus, après leur avoir ainsi parlé, fut enlevé au ciel, et il s'assit à la droite de Dieu.
 
-**[16:20]** Pour eux, étant partis, ils prêchèrent en tous lieux. Le Seigneur agissait avec eux, et il confirmait la parole par les miracles qui l'accompagnaient.] 
+**[16:20]** Pour eux, étant partis, ils prêchèrent en tous lieux. Le Seigneur agissait avec eux, et il confirmait la parole par les miracles qui l'accompagnaient.]
 
 ## Luke
 
@@ -54006,7 +54006,7 @@
 
 **[23:29]** Car voici que les jours viennent où l'on dira: Heureuses les stériles, heureuses les entrailles qui n'ont pas enfanté, et les mamelles qui n'ont point allaité!
 
-**[23:30]** Alors les hommes se mettront à dire aux montagnes: Tombez sur nous! !!- et aux coteaux: Couvrez-nous!
+**[23:30]** Alors les hommes se mettront à dire aux montagnes: Tombez sur nous!!!- et aux coteaux: Couvrez-nous!
 
 **[23:31]** Car si l'on fait ces choses au bois vert, qu'arrivera-t-il au bois sec?
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Eux, l'ayant adoré, s'en retournèrent à Jérusalem, pleins d'une grande joie.
 
-**[24:53]** Ils se tenaient continuellement dans le temple, bénissant Dieu. 
+**[24:53]** Ils se tenaient continuellement dans le temple, bénissant Dieu.
 
 ## John
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** C'est ce même disciple qui rend témoignage de ces choses, et qui les a écrites; et nous savons que son témoignage est véridique.
 
-**[21:25]** Il y a encore beaucoup d'autres choses que Jésus a faites; et si on les écrivait en détail, je ne pense pas que le monde entier pût contenir les livres qu'on écrirait. 
+**[21:25]** Il y a encore beaucoup d'autres choses que Jésus a faites; et si on les écrivait en détail, je ne pense pas que le monde entier pût contenir les livres qu'on écrirait.
 
 ## Acts
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Paul demeura deux ans entiers dans un logement qu'il avait loué. Il recevait tous ceux qui venaient le voir,
 
-**[28:31]** prêchant le royaume de Dieu, et enseignant ce qui concerne le Seigneur Jésus-Christ, avec une entière liberté et sans aucun empêchement. 
+**[28:31]** prêchant le royaume de Dieu, et enseignant ce qui concerne le Seigneur Jésus-Christ, avec une entière liberté et sans aucun empêchement.
 
 ## Romans
 
@@ -58152,7 +58152,7 @@
 
 **[2:20]** le docteur des ignorants, le maître des simples, ayant dans la loi la règle de la connaissance et de la vérité,
 
-**[2:21]** toi donc qui enseignes les autres, tu ne t'enseignes pas toi-même !!- Toi, qui prêches qu'on ne doit pas dérober, tu dérobes!
+**[2:21]** toi donc qui enseignes les autres, tu ne t'enseignes pas toi-même!!- Toi, qui prêches qu'on ne doit pas dérober, tu dérobes!
 
 **[2:22]** Toi, qui dis qu'il ne faut pas commettre d'adultère, tu commets l'adultère! Toi, qui as en abomination les idoles, tu t'empares de leurs dépouilles!
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** mais qui maintenant, sur l'ordre du Dieu éternel, a été manifesté et porté, par les écrits prophétiques, à la connaissance de toutes les nations, pour les amener à l'obéissance de la foi, —
 
-**[16:27]** à Dieu seul sage, soit la gloire dans tous les siècles, par Jésus-Christ! Amen. 
+**[16:27]** à Dieu seul sage, soit la gloire dans tous les siècles, par Jésus-Christ! Amen.
 
 ## I Corinthians
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Que la grâce du Seigneur Jésus-Christ soit avec vous!
 
-**[16:24]** Je vous aime tous, en Jésus-Christ. 
+**[16:24]** Je vous aime tous, en Jésus-Christ.
 
 ## II Corinthians
 
@@ -60324,7 +60324,7 @@
 
 **[12:2]** Je connais un homme en Christ, qui fut, il y a quatorze ans, ravi jusqu'au troisième ciel — si ce fut en son corps, je ne sais; si ce fut hors de son corps, je ne sais: Dieu le sait! —
 
-**[12:3]** Je sais que cet homme — si ce fut en son corps, ou sans son corps, je ne sais: Dieu le sait!... !!-
+**[12:3]** Je sais que cet homme — si ce fut en son corps, ou sans son corps, je ne sais: Dieu le sait!...!!-
 
 **[12:4]** fut ravi jusque dans le paradis et y entendit des paroles ineffables, qu'il n'est pas permis à un homme de révéler.
 
@@ -60390,7 +60390,7 @@
 
 **[13:13]** Tous les saints vous saluent.
 
-**[13:14]** Que la grâce du Seigneur Jésus-Christ, l'amour de Dieu et la communion du Saint-Esprit soient avec vous tous! 
+**[13:14]** Que la grâce du Seigneur Jésus-Christ, l'amour de Dieu et la communion du Saint-Esprit soient avec vous tous!
 
 ## Galatians
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Que désormais personne ne me fasse de la peine, car je porte en mon corps les stigmates de Jésus.
 
-**[6:18]** Frères, que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit! Amen. 
+**[6:18]** Frères, que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit! Amen.
 
 ## Ephesians
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Que la paix soit donnée aux frères, ainsi que l'amour avec la foi, de la part de Dieu, le Père, et du Seigneur Jésus-Christ!
 
-**[6:24]** Que la grâce soit avec tous ceux qui aiment notre Seigneur Jésus-Christ d'un amour inaltérable! 
+**[6:24]** Que la grâce soit avec tous ceux qui aiment notre Seigneur Jésus-Christ d'un amour inaltérable!
 
 ## Philippians
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Tous les saints vous saluent, et principalement ceux qui sont de la maison de César.
 
-**[4:23]** Que la grâce du Seigneur Jésus-Christ soit avec votre esprit! 
+**[4:23]** Que la grâce du Seigneur Jésus-Christ soit avec votre esprit!
 
 ## Colossians
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Enfin, dites à Archippe: Prends garde au ministère que tu as reçu au nom du Seigneur, afin de bien le remplir.
 
-**[4:18]** La salutation est de ma main, à moi, Paul. Souvenez-vous de mes liens. Que la grâce soit avec vous! 
+**[4:18]** La salutation est de ma main, à moi, Paul. Souvenez-vous de mes liens. Que la grâce soit avec vous!
 
 ## I Thessalonians
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Je vous en conjure par le Seigneur, que cette lettre soit lue à tous les frères.
 
-**[5:28]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous! 
+**[5:28]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous!
 
 ## II Thessalonians
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** La salutation est de ma main, à moi, Paul. C'est là ma signature dans toutes mes lettres: c'est ainsi que j'écris.
 
-**[3:18]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous! 
+**[3:18]** Que la grâce de notre Seigneur Jésus-Christ soit avec vous tous!
 
 ## I Timothy
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** Timothée, garde le dépôt qui t'a été confié; évite les discours vains et profanes, et les objections d'une science faussement ainsi nommée.
 
-**[6:21]** C'est pour s'être réclamés de cette science, que quelques-uns se sont détournés de la foi. Que la grâce soit avec vous! 
+**[6:21]** C'est pour s'être réclamés de cette science, que quelques-uns se sont détournés de la foi. Que la grâce soit avec vous!
 
 ## II Timothy
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Tâche de venir avant l'hiver. Eubulus, Pudens, Linus, Claudia et tous les frères te saluent.
 
-**[4:22]** Que le Seigneur soit avec ton esprit! Que la grâce soit avec vous! 
+**[4:22]** Que le Seigneur soit avec ton esprit! Que la grâce soit avec vous!
 
 ## Titus
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** Les nôtres aussi doivent apprendre à s'appliquer à de bonnes oeuvres pour subvenir aux besoins urgents, afin de ne pas demeurer stériles.
 
-**[3:15]** Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous! 
+**[3:15]** Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous!
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** ainsi que Marc, Aristarque, Démas et Luc, mes compagnons d'oeuvre.
 
-**[1:25]** Que la grâce du Seigneur Jésus-Christ soit avec votre esprit! 
+**[1:25]** Que la grâce du Seigneur Jésus-Christ soit avec votre esprit!
 
 ## Hebrews
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Saluez tous vos conducteurs et tous les saints. Ceux d'Italie vous saluent.
 
-**[13:25]** Que la grâce soit avec vous tous! 
+**[13:25]** Que la grâce soit avec vous tous!
 
 ## James
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Mes frères, si l'un de vous s'est égaré loin de la vérité et qu'un autre le ramène,
 
-**[5:20]** qu'il sache que celui qui ramène un pécheur de la voie où il s'égare, sauvera une âme de la mort et couvrira une multitude de péchés. 
+**[5:20]** qu'il sache que celui qui ramène un pécheur de la voie où il s'égare, sauvera une âme de la mort et couvrira une multitude de péchés.
 
 ## I Peter
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** L'Église des élus, qui est à Babylone, vous salue, ainsi que Marc, mon fils.
 
-**[5:14]** Saluez-vous les uns les autres par un baiser fraternel. Que la paix soit avec vous tous qui êtes en Christ! 
+**[5:14]** Saluez-vous les uns les autres par un baiser fraternel. Que la paix soit avec vous tous qui êtes en Christ!
 
 ## II Peter
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Vous donc, bien aimés, puisque vous êtes prévenus, tenez-vous sur vos gardes, de peur que vous ne soyez entraînés, vous aussi, dans l'égarement de ces pervers, et que vous ne veniez à déchoir de votre fermeté.
 
-**[3:18]** Croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui soit la gloire, maintenant et jusqu'au jour de l'éternité! 
+**[3:18]** Croissez dans la grâce et dans la connaissance de notre Seigneur et Sauveur Jésus-Christ. A lui soit la gloire, maintenant et jusqu'au jour de l'éternité!
 
 ## I John
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** Mais nous savons que le Fils de Dieu est venu, et il nous a donné l'intelligence nécessaire pour connaître Celui qui est le Véritable; et nous sommes dans le Véritable, en son Fils Jésus-Christ. C'est lui qui est le Dieu véritable et la vie éternelle.
 
-**[5:21]** Mes petits enfants, gardez-vous des idoles! 
+**[5:21]** Mes petits enfants, gardez-vous des idoles!
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** J'aurais bien des choses à vous dire: je ne veux pas le faire avec le papier et l'encre; mais j'espère aller vous voir et vous entretenir de vive voix, afin que notre joie soit parfaite.
 
-**[1:13]** Les enfants de ta soeur, l'élue, te saluent. 
+**[1:13]** Les enfants de ta soeur, l'élue, te saluent.
 
 ## III John
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** J'aurais bien des choses à te dire; mais je ne veux pas le faire avec l'encre et la plume.
 
-**[1:14]** J'espère te voir bientôt, et nous nous entretiendrons de vive voix. Que la paix soit avec toi! Les amis te saluent. Salue les amis, chacun en particulier. 
+**[1:14]** J'espère te voir bientôt, et nous nous entretiendrons de vive voix. Que la paix soit avec toi! Les amis te saluent. Salue les amis, chacun en particulier.
 
 ## Jude
 
@@ -63858,7 +63858,7 @@
 
 **[1:24]** Or, à celui qui peut vous préserver de toute chute et vous faire paraître irréprochables et joyeux en sa glorieuse présence,
 
-**[1:25]** au Dieu unique, notre Sauveur par Jésus-Christ notre Seigneur, soient gloire, grandeur, force et puissance, de toute éternité, maintenant et dans tous les siècles! Amen. 
+**[1:25]** au Dieu unique, notre Sauveur par Jésus-Christ notre Seigneur, soient gloire, grandeur, force et puissance, de toute éternité, maintenant et dans tous les siècles! Amen.
 
 ## Revelation of John
 
@@ -64712,5 +64712,5 @@
 
 **[22:20]** Celui qui rend témoignage de ces choses, dit: Oui, je viens bientôt. — Amen! — Viens, Seigneur Jésus!
 
-**[22:21]** Que la grâce du Seigneur Jésus soit avec tous! 
+**[22:21]** Que la grâce du Seigneur Jésus soit avec tous!
 

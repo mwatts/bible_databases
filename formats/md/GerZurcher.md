@@ -64,7 +64,7 @@
 
 **[1:30]** Aber allen Tieren der Erde und allen Vögeln des Himmels und allem, was sich regt auf der Erde, was Lebensodem in sich hat, gebe ich alles Gras und Kraut zur Nahrung. Und es geschah also.
 
-**[1:31]** Und Gott sah alles an, was er gemacht hatte, und siehe, es war sehr gut. Und es ward Abend und ward Morgen: der sechste Tag. 
+**[1:31]** Und Gott sah alles an, was er gemacht hatte, und siehe, es war sehr gut. Und es ward Abend und ward Morgen: der sechste Tag.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Darum verläßt der Mann Vater und Mutter und hängt seinem Weibe an, und sie werden ein Leib.
 
-**[2:25]** Und die beiden, der Mensch und sein Weib, waren nackt und schämten sich nicht. 
+**[2:25]** Und die beiden, der Mensch und sein Weib, waren nackt und schämten sich nicht.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** So schickte ihn Gott der Herr fort aus dem Garten Eden, daß er den Erdboden bebaue, von dem er genommen war.
 
-**[3:24]** Und er vertrieb den Menschen und ließ östlich vom Garten Eden die Cherube sich lagern und die Flamme des zuckenden Schwertes, den Weg zum Baume des Lebens zu bewachen. 
+**[3:24]** Und er vertrieb den Menschen und ließ östlich vom Garten Eden die Cherube sich lagern und die Flamme des zuckenden Schwertes, den Weg zum Baume des Lebens zu bewachen.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** Und Adam wohnte seinem Weibe abermals bei, und sie gebar einen Sohn, den hieß sie Seth, denn Gott hat mir, (so sprach sie,) einen andern Sproß gegeben für Abel, weil Kain ihn erschlagen hat.
 
-**[4:26]** Und auch dem Seth ward ein Sohn geboren; den hieß er Enos. Damals fing man an, den Namen Jahwes anzurufen. (1) der bes. Name des Gottes Israels lautete ursprünglich [Jahwe]. In der Reformationszeit kam dafür irrtümlicherweise die Namensform Jehova in Gebrauch. Die meisten Üs. wählten statt dessen nach jüd. Vorgang die allgemeine Bez. "der Herr", die in der Regel auch in unsrer Zürcher Bibel beibehalten ist. 
+**[4:26]** Und auch dem Seth ward ein Sohn geboren; den hieß er Enos. Damals fing man an, den Namen Jahwes anzurufen. (1) der bes. Name des Gottes Israels lautete ursprünglich [Jahwe]. In der Reformationszeit kam dafür irrtümlicherweise die Namensform Jehova in Gebrauch. Die meisten Üs. wählten statt dessen nach jüd. Vorgang die allgemeine Bez. "der Herr", die in der Regel auch in unsrer Zürcher Bibel beibehalten ist.
 
 ### Chapter 5
 
@@ -286,7 +286,7 @@
 
 **[5:31]** So betrug Lamechs ganze Lebenszeit 777 Jahre; dann starb er.
 
-**[5:32]** Als Noah fünfhundert Jahre alt war, zeugte er den Sem, den Ham und den Japhet. 
+**[5:32]** Als Noah fünfhundert Jahre alt war, zeugte er den Sem, den Ham und den Japhet.
 
 ### Chapter 6
 
@@ -332,7 +332,7 @@
 
 **[6:21]** Du aber nimm dir von jeglicher Speise, die man ißt, und lege dir einen Vorrat an, damit er dir und ihnen zur Nahrung diene.
 
-**[6:22]** Und Noah tat es; ganz wie ihm Gott geboten hatte, so tat er. 
+**[6:22]** Und Noah tat es; ganz wie ihm Gott geboten hatte, so tat er.
 
 ### Chapter 7
 
@@ -382,7 +382,7 @@
 
 **[7:23]** So vertilgte er alle Wesen, die auf dem Erdboden waren: die Menschen sowohl als das Vieh, das Kriechende und die Vögel des Himmels, die wurden vertilgt von der Erde; nur Noah blieb übrig und was mit ihm in der Arche war.
 
-**[7:24]** Und die Wasser nahmen zu auf der Erde, 150 Tage lang. 
+**[7:24]** Und die Wasser nahmen zu auf der Erde, 150 Tage lang.
 
 ### Chapter 8
 
@@ -428,7 +428,7 @@
 
 **[8:21]** Und der Herr roch den lieblichen Duft und sprach bei sich selbst: Ich will hinfort nicht mehr die Erde um der Menschen willen verfluchen; ist doch das Trachten des menschlichen Herzens böse von Jugend auf. Und ich will hinfort nicht mehr schlagen, was da lebt, wie ich getan habe. (a) 1Mo 6:5
 
-**[8:22]** Solange die Erde steht, soll nicht aufhören Saat und Ernte, Frost und Hitze, Sommer und Winter, Tag und Nacht. 
+**[8:22]** Solange die Erde steht, soll nicht aufhören Saat und Ernte, Frost und Hitze, Sommer und Winter, Tag und Nacht.
 
 ### Chapter 9
 
@@ -488,7 +488,7 @@
 
 **[9:28]** Noah lebte nach der Sintflut noch 350 Jahre,
 
-**[9:29]** und Noahs ganze Lebenszeit betrug 950 Jahre; dann starb er. 
+**[9:29]** und Noahs ganze Lebenszeit betrug 950 Jahre; dann starb er.
 
 ### Chapter 10
 
@@ -554,7 +554,7 @@
 
 **[10:31]** Das sind die Nachkommen Sems nach ihren Geschlechtern, ihren Sprachen, ihren Ländern, ihren Völkerschaften.
 
-**[10:32]** Das sind die Geschlechter der Nachkommen Noahs nach ihrer Abstammung, nach ihren Völkerschaften; und von diesen aus verzweigten sich die Völker auf der Erde nach der Sintflut. 
+**[10:32]** Das sind die Geschlechter der Nachkommen Noahs nach ihrer Abstammung, nach ihren Völkerschaften; und von diesen aus verzweigten sich die Völker auf der Erde nach der Sintflut.
 
 ### Chapter 11
 
@@ -620,7 +620,7 @@
 
 **[11:31]** Da nahm Tharah seinen Sohn Abram und seinen Enkel Lot, den Sohn Harans, und seine Schwiegertochter Sarai, das Weib seines Sohnes Abram, und führte sie hinweg aus Ur in Chaldäa, um ins Land Kanaan zu ziehen; und sie kamen bis Haran und liessen sich dort nieder.
 
-**[11:32]** Und Tharahs Lebenszeit betrug 205 Jahre; dann starb Tharah in Haran. 
+**[11:32]** Und Tharahs Lebenszeit betrug 205 Jahre; dann starb Tharah in Haran.
 
 ### Chapter 12
 
@@ -662,7 +662,7 @@
 
 **[12:19]** Warum hast du gesagt, sie sei deine Schwester, sodass ich sie mir zum Weibe genommen habe? Nun, da hast du dein Weib, nimm sie und ziehe hin!
 
-**[12:20]** Und der Pharao entbot seinethalben Leute; die mussten ihn und sein Weib und alles, was er hatte, geleiten. 
+**[12:20]** Und der Pharao entbot seinethalben Leute; die mussten ihn und sein Weib und alles, was er hatte, geleiten.
 
 ### Chapter 13
 
@@ -700,7 +700,7 @@
 
 **[13:17]** Auf, durchziehe das Land in die Länge und in die Breite; denn dir will ich es geben.
 
-**[13:18]** Da brach Abram mit seinen Zelten auf, zog hin und liess sich nieder bei der Terebinthe Mamres zu Hebron und baute daselbst dem Herrn einen Altar. 
+**[13:18]** Da brach Abram mit seinen Zelten auf, zog hin und liess sich nieder bei der Terebinthe Mamres zu Hebron und baute daselbst dem Herrn einen Altar.
 
 ### Chapter 14
 
@@ -750,7 +750,7 @@
 
 **[14:23]** Nicht einen Faden noch Schuhriemen, nichts von allem, was dein ist, will ich behalten, dass du nicht sagest, du habest Abram reich gemacht.
 
-**[14:24]** Nichts will ich! nur was die Leute gegessen haben, und den Anteil der Männer, die mit mir gezogen sind; Aner, Eskol und Mamre, die mögen ihren Anteil bekommen. 
+**[14:24]** Nichts will ich! nur was die Leute gegessen haben, und den Anteil der Männer, die mit mir gezogen sind; Aner, Eskol und Mamre, die mögen ihren Anteil bekommen.
 
 ### Chapter 15
 
@@ -794,7 +794,7 @@
 
 **[15:20]** die Hethiter, die Pheresiter und die Rephaiter,
 
-**[15:21]** die Amoriter, die Kanaaniter, die Girgasiter und die Jebusiter. 
+**[15:21]** die Amoriter, die Kanaaniter, die Girgasiter und die Jebusiter.
 
 ### Chapter 16
 
@@ -828,7 +828,7 @@
 
 **[16:15]** Und Hagar gebar dem Abram einen Sohn, und Abram nannte den Sohn, den Hagar ihm geboren hatte, Ismael.
 
-**[16:16]** Abram war 86 Jahre alt, als Hagar ihm den Ismael gebar. 
+**[16:16]** Abram war 86 Jahre alt, als Hagar ihm den Ismael gebar.
 
 ### Chapter 17
 
@@ -884,7 +884,7 @@
 
 **[17:26]** Noch am selben Tage wurden Abraham und sein Sohn Ismael beschnitten,
 
-**[17:27]** und alles, was männlich war in seinem Hause, der im Haus geborne wie der von Fremden um Geld gekaufte (Sklave), wurde mit ihm beschnitten. 
+**[17:27]** und alles, was männlich war in seinem Hause, der im Haus geborne wie der von Fremden um Geld gekaufte (Sklave), wurde mit ihm beschnitten.
 
 ### Chapter 18
 
@@ -952,7 +952,7 @@
 
 **[18:32]** Er sprach: Mein Herr zürne nicht, wenn ich noch diesmal rede. Vielleicht sind nur zehn darin zu finden. Er sprach: Ich will sie nicht verderben, um der zehne willen.
 
-**[18:33]** Dann ging der Herr hinweg, als er mit Abraham zu Ende geredet hatte. Abraham aber kehrte zurück an seinen Ort. 
+**[18:33]** Dann ging der Herr hinweg, als er mit Abraham zu Ende geredet hatte. Abraham aber kehrte zurück an seinen Ort.
 
 ### Chapter 19
 
@@ -1030,7 +1030,7 @@
 
 **[19:37]** Und die ältere gebar einen Sohn und nannte ihn Moab; der ist der Stammvater der Moabiter bis auf den heutigen Tag. (1) Meab = vom Vater.
 
-**[19:38]** Und auch die jüngere gebar einen Sohn und nannte ihn Ben-Ammi; der ist der Stammvater der Ammoniter bis auf den heutigen Tag. (1) d.i. Sohn meines Verwandten. 
+**[19:38]** Und auch die jüngere gebar einen Sohn und nannte ihn Ben-Ammi; der ist der Stammvater der Ammoniter bis auf den heutigen Tag. (1) d.i. Sohn meines Verwandten.
 
 ### Chapter 20
 
@@ -1068,7 +1068,7 @@
 
 **[20:17]** Nun betete Abraham zu Gott, und Gott heilte Abimelech, sein Weib und seine Mägde, dass sie Kinder bekamen.
 
-**[20:18]** Der Herr hatte nämlich jeden Mutterschoss im Hause Abimelechs verschlossen, um Saras, des Weibes Abrahams, willen. 
+**[20:18]** Der Herr hatte nämlich jeden Mutterschoss im Hause Abimelechs verschlossen, um Saras, des Weibes Abrahams, willen.
 
 ### Chapter 21
 
@@ -1138,7 +1138,7 @@
 
 **[21:33]** Abraham aber pflanzte in Beerseba eine Tamariske und rief daselbst den Namen des Herrn an, des ewigen Gottes.
 
-**[21:34]** Und er weilte noch lange Zeit als Fremdling im Philisterland. 
+**[21:34]** Und er weilte noch lange Zeit als Fremdling im Philisterland.
 
 ### Chapter 22
 
@@ -1188,7 +1188,7 @@
 
 **[22:23]** Bethuel aber hat die Rebekka gezeugt. Diese acht gebar Milka dem Nahor, dem Bruder Abrahams;
 
-**[22:24]** und seine Nebenfrau, mit Namen Rehuma, gebar auch Kinder: Tebah und Gaham, Thahas und Maacha. 
+**[22:24]** und seine Nebenfrau, mit Namen Rehuma, gebar auch Kinder: Tebah und Gaham, Thahas und Maacha.
 
 ### Chapter 23
 
@@ -1230,7 +1230,7 @@
 
 **[23:19]** Darnach begrub Abraham sein Weib Sara in der Höhle auf dem Grundstück Machpela gegenüber Mamre - das ist Hebron - im Lande Kanaan.
 
-**[23:20]** So ging das Grundstück samt der Höhle von den Hethitern als Grabstätte in Abrahams Besitz über. 
+**[23:20]** So ging das Grundstück samt der Höhle von den Hethitern als Grabstätte in Abrahams Besitz über.
 
 ### Chapter 24
 
@@ -1366,7 +1366,7 @@
 
 **[24:66]** Der Knecht aber erzählte Isaak alles, was er ausgerichtet hatte.
 
-**[24:67]** Da führte Isaak die Rebekka ins Zelt hinein, und er nahm sie sich zum Weibe und gewann sie lieb. So tröstete sich Isaak nach seiner Mutter Tod. 
+**[24:67]** Da führte Isaak die Rebekka ins Zelt hinein, und er nahm sie sich zum Weibe und gewann sie lieb. So tröstete sich Isaak nach seiner Mutter Tod.
 
 ### Chapter 25
 
@@ -1436,7 +1436,7 @@
 
 **[25:33]** Jakob sprach: So schwöre mir zuvor! Und er schwur ihm und verkaufte also dem Jakob seine Erstgeburt.
 
-**[25:34]** Da gab Jakob dem Esau Brot und das Linsengericht; der ass und trank, stand auf und ging davon. So achtete Esau die Erstgeburt gering. 
+**[25:34]** Da gab Jakob dem Esau Brot und das Linsengericht; der ass und trank, stand auf und ging davon. So achtete Esau die Erstgeburt gering.
 
 ### Chapter 26
 
@@ -1508,7 +1508,7 @@
 
 **[26:34]** Als Esau vierzig Jahre alt war, nahm er zum Weibe Judith, die Tochter des Hethiters Beeri, ferner Basmath, die Tochter des Hethiters Elon;
 
-**[26:35]** die waren für Isaak und Rebekka ein schwerer Kummer. 
+**[26:35]** die waren für Isaak und Rebekka ein schwerer Kummer.
 
 ### Chapter 27
 
@@ -1602,7 +1602,7 @@
 
 **[27:45]** bis sich der Zorn deines Bruders von dir wendet und er vergisst, was du ihm angetan hast; dann will ich nach dir schicken und dich von dort holen lassen. Warum sollte ich euch beide an einem Tag verlieren?
 
-**[27:46]** UND Rebekka sprach zu Isaak: Mir ist das Leben verleidet ob der Hethiterinnen; wenn Jakob auch ein solches Weib nimmt, eine von den Töchtern der Hethiter, eine Einheimische, was soll mir da das Leben? (a) 1Mo 26:34 35 
+**[27:46]** UND Rebekka sprach zu Isaak: Mir ist das Leben verleidet ob der Hethiterinnen; wenn Jakob auch ein solches Weib nimmt, eine von den Töchtern der Hethiter, eine Einheimische, was soll mir da das Leben? (a) 1Mo 26:34 35
 
 ### Chapter 28
 
@@ -1648,7 +1648,7 @@
 
 **[28:21]** und ich wohlbehalten wieder zu meines Vaters Haus zurückkomme, so soll der Herr mein Gott sein,
 
-**[28:22]** und dieser Stein, den ich als Malstein aufgerichtet habe, soll ein Gotteshaus werden, und alles, was du mir geben wirst, will ich dir getreulich verzehnten. 
+**[28:22]** und dieser Stein, den ich als Malstein aufgerichtet habe, soll ein Gotteshaus werden, und alles, was du mir geben wirst, will ich dir getreulich verzehnten.
 
 ### Chapter 29
 
@@ -1720,7 +1720,7 @@
 
 **[29:34]** Dann ward sie abermals schwanger und gebar einen Sohn; und sie sprach: Nun endlich wird mein Mann mir anhänglich sein; denn ich habe ihm drei Söhne geboren. Darum nannte sie ihn Levi.
 
-**[29:35]** Und noch einmal ward sie schwanger und gebar einen Sohn; und sie sprach: Nunmehr will ich den Herrn preisen! Darum nannte sie ihn Juda. Darnach hörte sie auf zu gebären. 
+**[29:35]** Und noch einmal ward sie schwanger und gebar einen Sohn; und sie sprach: Nunmehr will ich den Herrn preisen! Darum nannte sie ihn Juda. Darnach hörte sie auf zu gebären.
 
 ### Chapter 30
 
@@ -1808,7 +1808,7 @@
 
 **[30:42]** wenn aber die Tiere schwächlich waren, stellte er sie nicht hin. So fielen Laban die schwächlichen Tiere zu, Jakob aber die starken.
 
-**[30:43]** Daher ward der Mann über die Massen reich, sodass er viel Vieh, Mägde und Knechte, Kamele und Esel hatte. 
+**[30:43]** Daher ward der Mann über die Massen reich, sodass er viel Vieh, Mägde und Knechte, Kamele und Esel hatte.
 
 ### Chapter 31
 
@@ -1920,7 +1920,7 @@
 
 **[31:54]** Darnach schlachtete er ein Opfer auf dem Berge und lud seine Verwandten ein, das Mahl zu halten. Und als sie gegessen hatten, blieben sie auf dem Berge übernacht.
 
-**[31:55]** Am andern Morgen aber in der Frühe küsste Laban seine Enkel und seine Töchter und segnete sie; dann zog Laban hin und kehrte zurück an seinen Ort. (1) die Lutherbibel hat für Kap. 31,55; 32,1-32 die Zählung 32,1-33. 
+**[31:55]** Am andern Morgen aber in der Frühe küsste Laban seine Enkel und seine Töchter und segnete sie; dann zog Laban hin und kehrte zurück an seinen Ort. (1) die Lutherbibel hat für Kap. 31,55; 32,1-32 die Zählung 32,1-33.
 
 ### Chapter 32
 
@@ -1986,7 +1986,7 @@
 
 **[32:31]** Und als er an Pniel vorüber war, ging die Sonne auf; er hinkte aber an der Hüfte.
 
-**[32:32]** Daher essen die Israeliten bis auf den heutigen Tag den Muskelstrang nicht, der auf dem Hüftgelenk liegt, weil er Jakob auf das Hüftgelenk schlug, auf den Muskelstrang. 
+**[32:32]** Daher essen die Israeliten bis auf den heutigen Tag den Muskelstrang nicht, der auf dem Hüftgelenk liegt, weil er Jakob auf das Hüftgelenk schlug, auf den Muskelstrang.
 
 ### Chapter 33
 
@@ -2028,7 +2028,7 @@
 
 **[33:19]** Und er kaufte das Grundstück, auf dem er sein Zelt aufgeschlagen hatte, von den Söhnen Hemors, des Vaters Sichems, um hundert Taler.
 
-**[33:20]** Dort richtete er einen Malstein auf und baute einen Altar und nannte ihn "El, Gott Israels". 
+**[33:20]** Dort richtete er einen Malstein auf und baute einen Altar und nannte ihn "El, Gott Israels".
 
 ### Chapter 34
 
@@ -2092,7 +2092,7 @@
 
 **[34:30]** Da sprach Jakob zu Simeon und Levi: Ihr bringt mich ins Unglück, indem ihr mich bei den Bewohnern des Landes, den Kanaanitern und Pheresitern, verhasst macht, wo ich doch nur wenig Leute habe. Wenn sie sich nun wider mich zusammentun, so werden sie mich schlagen, und ich werde samt meinem Hause vertilgt.
 
-**[34:31]** Aber sie antworteten: Soll er unsere Schwester wie eine Dirne behandeln dürfen? 
+**[34:31]** Aber sie antworteten: Soll er unsere Schwester wie eine Dirne behandeln dürfen?
 
 ### Chapter 35
 
@@ -2152,7 +2152,7 @@
 
 **[35:28]** Isaak aber wurde 180 Jahre alt.
 
-**[35:29]** Dann verschied Isaak und starb und ward versammelt zu seinen Stammesgenossen, alt und lebenssatt; und seine Söhne Esau und Jakob begruben ihn. 
+**[35:29]** Dann verschied Isaak und starb und ward versammelt zu seinen Stammesgenossen, alt und lebenssatt; und seine Söhne Esau und Jakob begruben ihn.
 
 ### Chapter 36
 
@@ -2240,7 +2240,7 @@
 
 **[36:42]** der Fürst von Kenas, der Fürst von Theman, der Fürst von Mibzar,
 
-**[36:43]** der Fürst von Magdiel, der Fürst von Iram. Das sind die Fürsten von Edom nach ihren Wohnsitzen in dem Lande, das sie besetzt hatten - das ist von Esau, dem Vater der Edomiter. 
+**[36:43]** der Fürst von Magdiel, der Fürst von Iram. Das sind die Fürsten von Edom nach ihren Wohnsitzen in dem Lande, das sie besetzt hatten - das ist von Esau, dem Vater der Edomiter.
 
 ### Chapter 37
 
@@ -2314,7 +2314,7 @@
 
 **[37:35]** Da erhoben sich alle seine Söhne und Töchter, ihn zu trösten. Aber er wollte sich nicht trösten lassen und sprach: Nein, trauernd werde ich zu meinem Sohn ins Totenreich hinunterfahren. So beweinte ihn sein Vater.
 
-**[37:36]** Die Midianiter aber verkauften Joseph nach Ägypten an Potiphar, den Kämmerer des Pharao, den Obersten der Leibwache. 
+**[37:36]** Die Midianiter aber verkauften Joseph nach Ägypten an Potiphar, den Kämmerer des Pharao, den Obersten der Leibwache.
 
 ### Chapter 38
 
@@ -2376,7 +2376,7 @@
 
 **[38:29]** Als er aber seine Hand zurückzog, da kam sein Bruder heraus. Und sie sprach: Wie hast du dir doch einen Riss gerissen! Und man nannte ihn Perez. (1) d.i. Riss.
 
-**[38:30]** Darnach kam sein Bruder heraus, der den roten Faden um die Hand hatte; den nannte man Serah. 
+**[38:30]** Darnach kam sein Bruder heraus, der den roten Faden um die Hand hatte; den nannte man Serah.
 
 ### Chapter 39
 
@@ -2424,7 +2424,7 @@
 
 **[39:22]** also dass ihm dieser alle Gefangenen im Gefängnis anvertraute; alles, was dort geschah, geschah durch ihn.
 
-**[39:23]** Der Aufseher über das Gefängnis kümmerte sich um nichts, was in seiner Hand lag, weil der Herr mit ihm war; und der Herr gab Glück zu allem, was er tat. 
+**[39:23]** Der Aufseher über das Gefängnis kümmerte sich um nichts, was in seiner Hand lag, weil der Herr mit ihm war; und der Herr gab Glück zu allem, was er tat.
 
 ### Chapter 40
 
@@ -2472,7 +2472,7 @@
 
 **[40:22]** den Oberbäcker aber liess er hängen; wie Joseph es ihnen gedeutet hatte.
 
-**[40:23]** Aber der Obermundschenk gedachte Josephs nicht, sondern vergass ihn. 
+**[40:23]** Aber der Obermundschenk gedachte Josephs nicht, sondern vergass ihn.
 
 ### Chapter 41
 
@@ -2588,7 +2588,7 @@
 
 **[41:56]** Die Hungersnot aber herrschte auf der ganzen Erde. Nun öffnete Joseph alle Kornspeicher und verkaufte den Ägyptern Getreide. Und die Hungersnot wurde drückend im Lande Ägypten.
 
-**[41:57]** Und alle Welt kam zu Joseph nach Ägypten, um Korn zu kaufen; denn die Hungersnot war drückend in aller Welt. 
+**[41:57]** Und alle Welt kam zu Joseph nach Ägypten, um Korn zu kaufen; denn die Hungersnot war drückend in aller Welt.
 
 ### Chapter 42
 
@@ -2666,7 +2666,7 @@
 
 **[42:37]** Da erwiderte Ruben seinem Vater: Meine beiden Söhne magst du töten, wenn ich ihn dir nicht wieder bringe. Überlass ihn mir; ich bringe ihn dir wieder.
 
-**[42:38]** Aber er sprach: Mein Sohn soll nicht mit euch hinabziehen; denn sein Bruder ist tot, und er ist allein noch übrig. Wenn ihm ein Unfall zustiesse auf dem Wege, den ihr zieht, so würdet ihr meine grauen Haare mit Kummer ins Totenreich hinunterbringen. 
+**[42:38]** Aber er sprach: Mein Sohn soll nicht mit euch hinabziehen; denn sein Bruder ist tot, und er ist allein noch übrig. Wenn ihm ein Unfall zustiesse auf dem Wege, den ihr zieht, so würdet ihr meine grauen Haare mit Kummer ins Totenreich hinunterbringen.
 
 ### Chapter 43
 
@@ -2736,7 +2736,7 @@
 
 **[43:33]** Man setzte sie aber ihm gegenüber, vom Erstgebornen bis zum Jüngsten, genau nach dem Alter; darob sahen sich die Männer verwundert an.
 
-**[43:34]** Und er liess ihnen Gerichte auftragen von seinem Tische; dem Benjamin aber wurde fünfmal mehr aufgetragen als den andern. Und sie tranken mit ihm und wurden guter Dinge. 
+**[43:34]** Und er liess ihnen Gerichte auftragen von seinem Tische; dem Benjamin aber wurde fünfmal mehr aufgetragen als den andern. Und sie tranken mit ihm und wurden guter Dinge.
 
 ### Chapter 44
 
@@ -2806,7 +2806,7 @@
 
 **[44:33]** Darum erlaube jetzt, dass dein Knecht an des Knaben Statt hier bleibe als Sklave meines Herrn; der Knabe aber möge mit seinen Brüdern hinaufziehen.
 
-**[44:34]** Denn wie könnte ich zu meinem Vater hinaufziehen, wenn der Knabe nicht bei mir wäre? Ich möchte den Jammer nicht mitansehen, der über meinen Vater kommen würde. 
+**[44:34]** Denn wie könnte ich zu meinem Vater hinaufziehen, wenn der Knabe nicht bei mir wäre? Ich möchte den Jammer nicht mitansehen, der über meinen Vater kommen würde.
 
 ### Chapter 45
 
@@ -2864,7 +2864,7 @@
 
 **[45:27]** Da erzählten sie ihm alles, was Joseph zu ihnen geredet hatte. Und als er die Wagen sah, die Joseph gesandt hatte, um ihn hinzuführen, da lebte ihr Vater Jakob wieder auf.
 
-**[45:28]** Und Israel sprach: Genug! mein Sohn Joseph lebt noch! Ich will hin und ihn sehen, ehe ich sterbe. 
+**[45:28]** Und Israel sprach: Genug! mein Sohn Joseph lebt noch! Ich will hin und ihn sehen, ehe ich sterbe.
 
 ### Chapter 46
 
@@ -2934,7 +2934,7 @@
 
 **[46:33]** Wenn euch nun der Pharao rufen lässt und fragt: "Was ist euer Gewerbe?"
 
-**[46:34]** so sagt: "Deine Knechte sind Viehzüchter gewesen von Jugend an bis jetzt, wir wie unsre Väter", damit ihr im Lande Gosen wohnen dürft. - Alle Schafhirten sind nämlich den Ägyptern ein Greuel. 
+**[46:34]** so sagt: "Deine Knechte sind Viehzüchter gewesen von Jugend an bis jetzt, wir wie unsre Väter", damit ihr im Lande Gosen wohnen dürft. - Alle Schafhirten sind nämlich den Ägyptern ein Greuel.
 
 ### Chapter 47
 
@@ -2998,7 +2998,7 @@
 
 **[47:30]** sondern wenn ich mich nun zu meinen Vätern lege, so bringe mich aus Ägypten hinweg und begrabe mich in ihrer Grabstätte. Er sprach: Ich will tun, wie du gesagt hast. (a) 1Mo 50:5
 
-**[47:31]** Er aber sprach: So schwöre mir! Und er schwur ihm. Da verneigte sich Israel zu Häupten des Bettes. 
+**[47:31]** Er aber sprach: So schwöre mir! Und er schwur ihm. Da verneigte sich Israel zu Häupten des Bettes.
 
 ### Chapter 48
 
@@ -3044,7 +3044,7 @@
 
 **[48:21]** Dann sprach Israel zu Joseph: Siehe, ich sterbe nun; Gott aber wird mit euch sein und wird euch wieder in das Land eurer Väter bringen.
 
-**[48:22]** Und ich gebe dir als Vorzug vor deinen Brüdern einen Bergrücken, den ich den Amoritern abgenommen habe mit meinem Schwert und Bogen. (1) d.i. Sichem. 
+**[48:22]** Und ich gebe dir als Vorzug vor deinen Brüdern einen Bergrücken, den ich den Amoritern abgenommen habe mit meinem Schwert und Bogen. (1) d.i. Sichem.
 
 ### Chapter 49
 
@@ -3112,7 +3112,7 @@
 
 **[49:32]** auf dem Grundstück mit der Höhle darauf, das den Hethitern abgekauft wurde.
 
-**[49:33]** Als nun Jakob seinen Söhnen alle diese Weisungen gegeben hatte, zog er seine Füsse auf das Bett zurück, verschied und ward versammelt zu seinen Stammesgenossen. 
+**[49:33]** Als nun Jakob seinen Söhnen alle diese Weisungen gegeben hatte, zog er seine Füsse auf das Bett zurück, verschied und ward versammelt zu seinen Stammesgenossen.
 
 ### Chapter 50
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** Und Joseph nahm einen Eid von den Söhnen Israels und sprach: Wenn sich Gott euer annehmen wird, so führet meine Gebeine von hier mit hinauf. (a) 2Mo 13:19; Jos 24:32
 
-**[50:26]** Darnach starb Joseph, 110 Jahre alt; und man balsamierte ihn ein und legte ihn in Ägypten in einen Sarg.  
+**[50:26]** Darnach starb Joseph, 110 Jahre alt; und man balsamierte ihn ein und legte ihn in Ägypten in einen Sarg.
 
 ## Exodus
 
@@ -3214,7 +3214,7 @@
 
 **[1:21]** Und weil die Hebammen gottesfürchtig waren, schenkte er ihnen Kindersegen.
 
-**[1:22]** Da gebot der Pharao allen seinen Leuten: Alle Knaben, die den Hebräern geboren werden, werft in den Nil, alle Mädchen aber lasst am Leben. 
+**[1:22]** Da gebot der Pharao allen seinen Leuten: Alle Knaben, die den Hebräern geboren werden, werft in den Nil, alle Mädchen aber lasst am Leben.
 
 ### Chapter 2
 
@@ -3266,7 +3266,7 @@
 
 **[2:24]** Und Gott hörte ihr Wehklagen und gedachte seines Bundes mit Abraham, Isaak und Jakob. (a) 1Mo 15:18; 17:2; 26:3; 28:13
 
-**[2:25]** Und Gott sah auf die Israeliten und gab sich ihnen kund. 
+**[2:25]** Und Gott sah auf die Israeliten und gab sich ihnen kund.
 
 ### Chapter 3
 
@@ -3312,7 +3312,7 @@
 
 **[3:21]** Und ich werde diesem Volke bei den Ägyptern Gunst verschaffen, sodass ihr, wenn ihr auszieht, nicht mit leeren Händen ausziehen müsst;
 
-**[3:22]** sondern jedes Weib soll sich von ihrer Nachbarin und Hausgenossin silberne und goldene Schmucksachen und Kleider erbitten, die sollt ihr euren Söhnen und Töchtern anlegen und so die Ägypter berauben. (a) 2Mo 12:35 
+**[3:22]** sondern jedes Weib soll sich von ihrer Nachbarin und Hausgenossin silberne und goldene Schmucksachen und Kleider erbitten, die sollt ihr euren Söhnen und Töchtern anlegen und so die Ägypter berauben. (a) 2Mo 12:35
 
 ### Chapter 4
 
@@ -3376,7 +3376,7 @@
 
 **[4:30]** Und Aaron verkündete alle Worte, die der Herr zu Mose geredet hatte; und dieser tat die Zeichen vor den Augen des Volkes,
 
-**[4:31]** und das Volk glaubte. Und als sie hörten, dass der Herr sich Israels angenommen und dass er ihr Elend angesehen habe, verneigten sie sich und warfen sich nieder. 
+**[4:31]** und das Volk glaubte. Und als sie hörten, dass der Herr sich Israels angenommen und dass er ihr Elend angesehen habe, verneigten sie sich und warfen sich nieder.
 
 ### Chapter 5
 
@@ -3424,7 +3424,7 @@
 
 **[5:22]** Da wandte sich Mose wieder an den Herrn und sprach: Herr, warum handelst du so übel an deinem Volke? Warum hast du mich denn gesandt?
 
-**[5:23]** Seitdem ich zum Pharao gegangen bin, in deinem Namen zu reden, hat er an diesem Volke übel gehandelt; aber gerettet hast du dein Volk nicht. 
+**[5:23]** Seitdem ich zum Pharao gegangen bin, in deinem Namen zu reden, hat er an diesem Volke übel gehandelt; aber gerettet hast du dein Volk nicht.
 
 ### Chapter 6
 
@@ -3486,7 +3486,7 @@
 
 **[6:29]** da sprach er zu ihm: Ich bin der Herr; sage dem Pharao, dem König von Ägypten, alles, was ich dir sagen werde.
 
-**[6:30]** Mose aber sprach vor dem Herrn: Siehe, ich bin ungeschickt im Reden; wird da der Pharao auf mich hören? 
+**[6:30]** Mose aber sprach vor dem Herrn: Siehe, ich bin ungeschickt im Reden; wird da der Pharao auf mich hören?
 
 ### Chapter 7
 
@@ -3538,7 +3538,7 @@
 
 **[7:24]** Alle Ägypter aber gruben in der Umgebung des Nil nach Wasser, um zu trinken; denn das Wasser aus dem Nil konnten sie nicht trinken.
 
-**[7:25]** Das währte volle sieben Tage, nachdem der Herr den Nil geschlagen hatte. 
+**[7:25]** Das währte volle sieben Tage, nachdem der Herr den Nil geschlagen hatte.
 
 ### Chapter 8
 
@@ -3604,7 +3604,7 @@
 
 **[8:31]** Und der Herr tat nach dem Worte Moses: er liess die Bremsen weichen vom Pharao, von seinen Leuten und von seinem Volke, sodass nicht eine übrigblieb.
 
-**[8:32]** Aber der Pharao verstockte sein Herz auch diesmal und liess das Volk nicht ziehen. 
+**[8:32]** Aber der Pharao verstockte sein Herz auch diesmal und liess das Volk nicht ziehen.
 
 ### Chapter 9
 
@@ -3676,7 +3676,7 @@
 
 **[9:34]** Sobald aber der Pharao sah, dass Regen und Hagel und Donner aufgehört hatten, verharrte er in seiner Sünde und verstockte sein Herz, er und seine Leute.
 
-**[9:35]** Das Herz des Pharao blieb hart, und er liess die Israeliten nicht ziehen, wie es der Herr durch Mose vorausgesagt hatte. 
+**[9:35]** Das Herz des Pharao blieb hart, und er liess die Israeliten nicht ziehen, wie es der Herr durch Mose vorausgesagt hatte.
 
 ### Chapter 10
 
@@ -3736,7 +3736,7 @@
 
 **[10:28]** Und der Pharao sprach zu ihm: Hinweg von mir! Hüte dich, mir nochmals unter die Augen zu treten; denn sobald du mir wieder unter die Augen trittst, musst du sterben.
 
-**[10:29]** Mose antwortete: Du hast's gesagt - ich werde dir nicht wieder unter die Augen treten. 
+**[10:29]** Mose antwortete: Du hast's gesagt - ich werde dir nicht wieder unter die Augen treten.
 
 ### Chapter 11
 
@@ -3758,7 +3758,7 @@
 
 **[11:9]** Der Herr aber sprach zu Mose: Der Pharao wird nicht auf euch hören, damit meiner Wunder in Ägypten viel geschehen.
 
-**[11:10]** Und Mose und Aaron taten alle diese Wunder vor dem Pharao; doch der Herr verstockte das Herz des Pharao, und er liess die Israeliten nicht aus seinem Lande ziehen. 
+**[11:10]** Und Mose und Aaron taten alle diese Wunder vor dem Pharao; doch der Herr verstockte das Herz des Pharao, und er liess die Israeliten nicht aus seinem Lande ziehen.
 
 ### Chapter 12
 
@@ -3862,7 +3862,7 @@
 
 **[12:50]** Da taten alle Israeliten, wie der Herr dem Mose und dem Aaron geboten hatte; so taten sie.
 
-**[12:51]** An ebendiesem Tage führte der Herr die Israeliten nach ihren Heerscharen geordnet aus dem Lande Ägypten hinweg. 
+**[12:51]** An ebendiesem Tage führte der Herr die Israeliten nach ihren Heerscharen geordnet aus dem Lande Ägypten hinweg.
 
 ### Chapter 13
 
@@ -3908,7 +3908,7 @@
 
 **[13:21]** Der Herr aber zog vor ihnen her, am Tage in einer Wolkensäule, um ihnen den Weg zu zeigen, und des Nachts in einer Feuersäule, um ihnen zu leuchten, damit sie bei Tag und bei Nacht wandern könnten. (a) 2Mo 40:38; Ne 9:19; Ps 78:14; 105:39
 
-**[13:22]** Nie wich die Wolkensäule am Tage und nie die Feuersäule bei Nacht von der Spitze des Zuges. 
+**[13:22]** Nie wich die Wolkensäule am Tage und nie die Feuersäule bei Nacht von der Spitze des Zuges.
 
 ### Chapter 14
 
@@ -3972,7 +3972,7 @@
 
 **[14:30]** So errettete der Herr an jenem Tage Israel aus der Hand der Ägypter, und Israel sah die Ägypter tot am Gestade des Meeres liegen.
 
-**[14:31]** Als Israel sah, wie gewaltig sich die Hand des Herrn an den Ägyptern erwiesen hatte, da fürchtete das Volk den Herrn, und sie glaubten an den Herrn und an seinen Knecht Mose. 
+**[14:31]** Als Israel sah, wie gewaltig sich die Hand des Herrn an den Ägyptern erwiesen hatte, da fürchtete das Volk den Herrn, und sie glaubten an den Herrn und an seinen Knecht Mose.
 
 ### Chapter 15
 
@@ -4028,7 +4028,7 @@
 
 **[15:26]** Und er sprach: Wenn du dem Herrn, deinem Gott, treulich gehorchst und tust, was vor ihm recht ist, wenn du auf seine Gebote hörst und alle seine Satzungen hältst, so will ich keine von den Krankheiten über dich bringen, die ich über Ägypten gebracht habe; denn ich, der Herr, bin dein Arzt. (a) 5Mo 7:15
 
-**[15:27]** Dann kamen sie nach Elim; da waren zwölf Quellen mit Wasser und siebzig Palmen, und sie lagerten sich daselbst am Wasser. (a) 4Mo 33:9 
+**[15:27]** Dann kamen sie nach Elim; da waren zwölf Quellen mit Wasser und siebzig Palmen, und sie lagerten sich daselbst am Wasser. (a) 4Mo 33:9
 
 ### Chapter 16
 
@@ -4102,7 +4102,7 @@
 
 **[16:35]** Die Israeliten aber assen das Manna vierzig Jahre lang, bis sie in bewohntes Land kamen; bis sie an die Grenze des Landes Kanaan kamen, assen sie das Manna. (a) Jos 5:12
 
-**[16:36]** Der Gomer ist der zehnte Teil des Epha. 
+**[16:36]** Der Gomer ist der zehnte Teil des Epha.
 
 ### Chapter 17
 
@@ -4136,7 +4136,7 @@
 
 **[17:15]** Und Mose baute einen Altar und nannte ihn "Der Herr ist mein Panier".
 
-**[17:16]** Und er sprach: Die Hand an das Panier des Herrn! / Krieg hat der Herr mit Amalek / von Geschlecht zu Geschlecht! 
+**[17:16]** Und er sprach: Die Hand an das Panier des Herrn! / Krieg hat der Herr mit Amalek / von Geschlecht zu Geschlecht!
 
 ### Chapter 18
 
@@ -4192,7 +4192,7 @@
 
 **[18:26]** damit sie dem Volke jederzeit Recht sprächen; schwere Sachen sollten sie vor Mose bringen, kleine aber selbst entscheiden.
 
-**[18:27]** Darauf entliess Mose seinen Schwiegervater, und dieser zog in seine Heimat. 
+**[18:27]** Darauf entliess Mose seinen Schwiegervater, und dieser zog in seine Heimat.
 
 ### Chapter 19
 
@@ -4244,7 +4244,7 @@
 
 **[19:24]** Da sprach der Herr zu ihm: Geh, steige hinab und komm dann wieder herauf, du und Aaron mit dir; die Priester aber und das Volk sollen nicht vordringen, um zu dem Herrn heraufzusteigen, damit er nicht eine Lücke reisse unter ihnen.
 
-**[19:25]** Und Mose stieg zu dem Volke hinab und sagte es ihnen. 
+**[19:25]** Und Mose stieg zu dem Volke hinab und sagte es ihnen.
 
 ### Chapter 20
 
@@ -4298,7 +4298,7 @@
 
 **[20:25]** Willst du mir aber einen Altar aus Steinen machen, so sollst du ihn nicht aus behauenen Steinen bauen; denn wenn du sie mit dem Eisen behaust, so entweihst du sie. (a) 5Mo 27:5
 
-**[20:26]** Du sollst auch nicht auf Stufen zu meinem Altar emporsteigen, damit nicht deine Blösse vor ihm enthüllt werde. 
+**[20:26]** Du sollst auch nicht auf Stufen zu meinem Altar emporsteigen, damit nicht deine Blösse vor ihm enthüllt werde.
 
 ### Chapter 21
 
@@ -4372,7 +4372,7 @@
 
 **[21:35]** Wenn jemandes Rind das Rind eines andren stösst, sodass es stirbt, so sollen sie das lebende Rind verkaufen und den Erlös teilen, und auch das tote sollen sie teilen.
 
-**[21:36]** War es aber bekannt, dass das Rind schon seit einiger Zeit stössig war, und sein Besitzer hat es nicht gehütet, so soll er ein Rind für das andre erstatten, das tote aber gehört ihm. 
+**[21:36]** War es aber bekannt, dass das Rind schon seit einiger Zeit stössig war, und sein Besitzer hat es nicht gehütet, so soll er ein Rind für das andre erstatten, das tote aber gehört ihm.
 
 ### Chapter 22
 
@@ -4436,7 +4436,7 @@
 
 **[22:30]** Ebenso sollst du es halten mit deinem Rind und deinem Schaf: sieben Tage mag es bei seiner Mutter bleiben, am achten Tage aber sollst du es mir geben. (a) 3Mo 22:27
 
-**[22:31]** Ihr sollt mir heilige Leute sein: Fleisch von zerrissenen Tieren dürft ihr nicht essen; den Hunden sollt ihr es vorwerfen. (a) 3Mo 19:2 
+**[22:31]** Ihr sollt mir heilige Leute sein: Fleisch von zerrissenen Tieren dürft ihr nicht essen; den Hunden sollt ihr es vorwerfen. (a) 3Mo 19:2
 
 ### Chapter 23
 
@@ -4504,7 +4504,7 @@
 
 **[23:32]** Du sollst mit ihnen und mit ihren Göttern kein Abkommen treffen.
 
-**[23:33]** Sie sollen nicht in deinem Lande wohnen bleiben, damit sie dich nicht zur Sünde wider mich verleiten; denn wenn du ihren Göttern dientest, so würde dir das zum Fallstrick werden. (a) 5Mo 7:16 
+**[23:33]** Sie sollen nicht in deinem Lande wohnen bleiben, damit sie dich nicht zur Sünde wider mich verleiten; denn wenn du ihren Göttern dientest, so würde dir das zum Fallstrick werden. (a) 5Mo 7:16
 
 ### Chapter 24
 
@@ -4542,7 +4542,7 @@
 
 **[24:17]** Die Herrlichkeit des Herrn aber war für die Augen der Israeliten anzusehen wie ein verzehrendes Feuer auf dem Gipfel des Berges. (a) 5Mo 4:24; Heb 12:29
 
-**[24:18]** Da ging Mose mitten in die Wolke hinein. Und Mose stieg auf den Berg und blieb vierzig Tage und vierzig Nächte auf dem Berge. (a) 2Mo 34:28; 5Mo 9:9 
+**[24:18]** Da ging Mose mitten in die Wolke hinein. Und Mose stieg auf den Berg und blieb vierzig Tage und vierzig Nächte auf dem Berge. (a) 2Mo 34:28; 5Mo 9:9
 
 ### Chapter 25
 
@@ -4624,7 +4624,7 @@
 
 **[25:39]** Aus einem Talent reinen Goldes soll man ihn und alle diese Geräte machen.
 
-**[25:40]** Und sieh zu, dass du alles genau nach dem Urbild machst, das dir auf dem Berge gezeigt werden soll. (a) 2Mo 25:9; 26:30; 27:8 
+**[25:40]** Und sieh zu, dass du alles genau nach dem Urbild machst, das dir auf dem Berge gezeigt werden soll. (a) 2Mo 25:9; 26:30; 27:8
 
 ### Chapter 26
 
@@ -4700,7 +4700,7 @@
 
 **[26:36]** Endlich sollst du einen Vorhang machen für den Eingang des Zeltes, aus blauem und rotem Purpur, Karmesin und gezwirntem Byssus, in Buntweberarbeit.
 
-**[26:37]** Und für den Vorhang sollst du fünf Säulen aus Akazienholz machen und sie mit Gold überziehen; auch ihre Nägel sollen von Gold sein. Und du sollst fünf eherne Füsse für sie giessen. 
+**[26:37]** Und für den Vorhang sollst du fünf Säulen aus Akazienholz machen und sie mit Gold überziehen; auch ihre Nägel sollen von Gold sein. Und du sollst fünf eherne Füsse für sie giessen.
 
 ### Chapter 27
 
@@ -4744,7 +4744,7 @@
 
 **[27:20]** Du aber gebiete den Israeliten, dass sie dir reines Öl aus zerstoßenen Oliven für den Leuchter bringen, damit man eine immerbrennende Lampe aufstecken kann.
 
-**[27:21]** Im heiligen Zelte ausserhalb des Vorhangs, der vor (der Lade mit) dem Gesetz hängt, sollen Aaron und seine Söhne ihn herrichten, (dass er) vom Abend bis zum Morgen vor dem Herrn (brenne). Das ist für die Israeliten eine immerwährende, für alle Geschlechter gültige Verpflichtung. 
+**[27:21]** Im heiligen Zelte ausserhalb des Vorhangs, der vor (der Lade mit) dem Gesetz hängt, sollen Aaron und seine Söhne ihn herrichten, (dass er) vom Abend bis zum Morgen vor dem Herrn (brenne). Das ist für die Israeliten eine immerwährende, für alle Geschlechter gültige Verpflichtung.
 
 ### Chapter 28
 
@@ -4832,7 +4832,7 @@
 
 **[28:42]** Und du sollst ihnen linnene Beinkleider machen, die Blösse zu bedecken; von den Hüften bis zu den Schenkeln sollen sie reichen.
 
-**[28:43]** Und Aaron und seine Söhne sollen sie tragen, wenn sie ins heilige Zelt hineingehen oder an den Altar treten, um den Dienst im Heiligtum zu tun, damit sie nicht Schuld auf sich laden und sterben müssen. Das ist für ihn und seine Nachkommen eine immerwährende Verpflichtung. 
+**[28:43]** Und Aaron und seine Söhne sollen sie tragen, wenn sie ins heilige Zelt hineingehen oder an den Altar treten, um den Dienst im Heiligtum zu tun, damit sie nicht Schuld auf sich laden und sterben müssen. Das ist für ihn und seine Nachkommen eine immerwährende Verpflichtung.
 
 ### Chapter 29
 
@@ -4926,7 +4926,7 @@
 
 **[29:45]** Und ich will inmitten der Israeliten wohnen und ihr Gott sein, (a) 2Mo 25:8; 3Mo 26:12; Off 21:3
 
-**[29:46]** damit sie erkennen, dass ich, der Herr, ihr Gott bin, der sie aus dem Lande Ägypten herausgeführt hat, um mitten unter ihnen zu wohnen, ich, der Herr, ihr Gott. 
+**[29:46]** damit sie erkennen, dass ich, der Herr, ihr Gott bin, der sie aus dem Lande Ägypten herausgeführt hat, um mitten unter ihnen zu wohnen, ich, der Herr, ihr Gott.
 
 ### Chapter 30
 
@@ -5004,7 +5004,7 @@
 
 **[30:37]** In derselben Mischung aber, in der du das Räucherwerk herstellst, sollt ihr für euch selbst keines machen; als etwas dem Herrn Geweihtes soll es dir gelten.
 
-**[30:38]** Wer dergleichen macht, um sich an seinem Wohlgeruch zu freuen, der soll aus seinen Volksgenossen ausgerottet werden. 
+**[30:38]** Wer dergleichen macht, um sich an seinem Wohlgeruch zu freuen, der soll aus seinen Volksgenossen ausgerottet werden.
 
 ### Chapter 31
 
@@ -5042,7 +5042,7 @@
 
 **[31:17]** Er ist für alle Zeiten ein Zeichen zwischen mir und den Israeliten. Denn in sechs Tagen hat der Herr den Himmel und die Erde gemacht; am siebenten Tage aber hat er geruht und sich erquickt. (a) 1Mo 2:2; 2Mo 20:11
 
-**[31:18]** Und als er mit Mose auf dem Berge Sinai zu Ende geredet hatte, übergab er ihm die beiden Tafeln des Gesetzes, steinerne Tafeln, vom Finger Gottes beschrieben. (a) 5Mo 9:10 
+**[31:18]** Und als er mit Mose auf dem Berge Sinai zu Ende geredet hatte, übergab er ihm die beiden Tafeln des Gesetzes, steinerne Tafeln, vom Finger Gottes beschrieben. (a) 5Mo 9:10
 
 ### Chapter 32
 
@@ -5114,7 +5114,7 @@
 
 **[32:34]** So gehe nun und führe das Volk dorthin, wohin ich dir gesagt habe. Siehe, mein Engel soll vor dir her gehen. Aber zu meiner Zeit will ich ihre Sünde an ihnen heimsuchen.
 
-**[32:35]** Und der Herr brachte eine Plage über das Volk, dafür dass sie das Kalb angebetet, das Aaron gemacht hatte. 
+**[32:35]** Und der Herr brachte eine Plage über das Volk, dafür dass sie das Kalb angebetet, das Aaron gemacht hatte.
 
 ### Chapter 33
 
@@ -5162,7 +5162,7 @@
 
 **[33:22]** Wenn nun meine Herrlichkeit vorübergeht, will ich dich in eine Kluft des Felsens stellen und meine Hand schützend über dich breiten, bis ich vorüber bin.
 
-**[33:23]** Und wenn ich dann meine Hand weghebe, darfst du mir nachschauen, aber mein Angesicht kann niemand sehen. 
+**[33:23]** Und wenn ich dann meine Hand weghebe, darfst du mir nachschauen, aber mein Angesicht kann niemand sehen.
 
 ### Chapter 34
 
@@ -5234,7 +5234,7 @@
 
 **[34:34]** Und wenn Mose hineinging vor den Herrn, um mit ihm zu reden, legte er die Hülle ab, bis er wieder herauskam; und wenn er herauskam, teilte er den Israeliten mit, was ihm befohlen war.
 
-**[34:35]** Dann sahen die Israeliten, dass die Haut auf Moses Antlitz strahlte; Mose aber legte die Hülle wieder auf sein Antlitz, bis er hineinging, um mit ihm zu reden. 
+**[34:35]** Dann sahen die Israeliten, dass die Haut auf Moses Antlitz strahlte; Mose aber legte die Hülle wieder auf sein Antlitz, bis er hineinging, um mit ihm zu reden.
 
 ### Chapter 35
 
@@ -5306,7 +5306,7 @@
 
 **[35:34]** Er hat ihm auch die Gabe verliehen, (andere) zu unterweisen, ihm und Oholiab, dem Sohne Ahisamachs, vom Stamme Dan.
 
-**[35:35]** Er hat sie erfüllt mit künstlerischem Sinn, um allerlei Arbeiten zu schaffen, wie sie der Schmied und Zimmermann, der Kunstweber, der Buntweber in blauem und rotem Purpur, in Karmesin und Byssus, und der Weber schafft, indem sie allerlei Arbeiten ausführen und Erfindungen ersinnen. 
+**[35:35]** Er hat sie erfüllt mit künstlerischem Sinn, um allerlei Arbeiten zu schaffen, wie sie der Schmied und Zimmermann, der Kunstweber, der Buntweber in blauem und rotem Purpur, in Karmesin und Byssus, und der Weber schafft, indem sie allerlei Arbeiten ausführen und Erfindungen ersinnen.
 
 ### Chapter 36
 
@@ -5384,7 +5384,7 @@
 
 **[36:37]** Endlich machte er für den Eingang des Zeltes einen Vorhang aus Stoffen von blauem und rotem Purpur, Karmesin und gezwirntem Byssus, in Buntweberarbeit,
 
-**[36:38]** und fünf Säulen für denselben nebst ihren Nägeln; und er überzog ihre Köpfe und Querstangen mit Gold. Die fünf Füsse aber waren von Erz. 
+**[36:38]** und fünf Säulen für denselben nebst ihren Nägeln; und er überzog ihre Köpfe und Querstangen mit Gold. Die fünf Füsse aber waren von Erz.
 
 ### Chapter 37
 
@@ -5444,7 +5444,7 @@
 
 **[37:28]** Die Stangen machte er aus Akazienholz und überzog sie mit Gold.
 
-**[37:29]** Auch machte er das heilige Salböl und das reine, wohlriechende Räucherwerk, wie es der Salbenmischer bereitet. (a) 2Mo 30:25 
+**[37:29]** Auch machte er das heilige Salböl und das reine, wohlriechende Räucherwerk, wie es der Salbenmischer bereitet. (a) 2Mo 30:25
 
 ### Chapter 38
 
@@ -5508,7 +5508,7 @@
 
 **[38:30]** Daraus machte er die Füsse für die Türe des heiligen Zeltes, den ehernen Altar nebst dem ehernen Gitterwerk daran und alle Geräte des Altars,
 
-**[38:31]** ferner die Füsse des Vorhofs ringsum und die Füsse des Vorhoftors, sowie alle Pflöcke der Wohnung und alle Pflöcke des Vorhofs ringsum. 
+**[38:31]** ferner die Füsse des Vorhofs ringsum und die Füsse des Vorhoftors, sowie alle Pflöcke der Wohnung und alle Pflöcke des Vorhofs ringsum.
 
 ### Chapter 39
 
@@ -5596,7 +5596,7 @@
 
 **[39:42]** Genau so, wie der Herr dem Mose geboten hatte, führten die Israeliten alle Arbeiten aus.
 
-**[39:43]** Als nun Mose sah, dass sie das ganze Werk ausgeführt hatten - wie der Herr geboten hatte, so hatten sie es gemacht - da segnete er sie. 
+**[39:43]** Als nun Mose sah, dass sie das ganze Werk ausgeführt hatten - wie der Herr geboten hatte, so hatten sie es gemacht - da segnete er sie.
 
 ### Chapter 40
 
@@ -5674,7 +5674,7 @@
 
 **[40:37]** Wenn sich die Wolke aber nicht erhob, brachen sie nicht auf, bis sie sich erhob.
 
-**[40:38]** Denn die Wolke des Herrn war bei Tage über der Wohnung; des Nachts aber wurde sie feurig vor den Augen des ganzen Hauses Israel, solange sie auf der Wanderung waren. (a) 2Mo 13:21  
+**[40:38]** Denn die Wolke des Herrn war bei Tage über der Wohnung; des Nachts aber wurde sie feurig vor den Augen des ganzen Hauses Israel, solange sie auf der Wanderung waren. (a) 2Mo 13:21
 
 ## Leviticus
 
@@ -5712,7 +5712,7 @@
 
 **[1:16]** Und den Kropf mit den Federn soll er beseitigen und östlich neben dem Altar auf den Aschenhaufen werfen;
 
-**[1:17]** dann soll er ihm die Flügel einreissen, sie aber nicht abtrennen. Und der Priester soll es auf dem Altar verbrennen, auf dem Holz, das über dem Feuer liegt; ein Brandopfer ist es, ein lieblich duftendes Feueropfer für den Herrn. 
+**[1:17]** dann soll er ihm die Flügel einreissen, sie aber nicht abtrennen. Und der Priester soll es auf dem Altar verbrennen, auf dem Holz, das über dem Feuer liegt; ein Brandopfer ist es, ein lieblich duftendes Feueropfer für den Herrn.
 
 ### Chapter 2
 
@@ -5746,7 +5746,7 @@
 
 **[2:15]** Und du sollst Öl darauf tun und Weihrauch darauf legen; ein Speisopfer ist es.
 
-**[2:16]** Und der Priester soll alsdann den als Duftopfer bestimmten Teil von den zerriebenen Körnern und dem Öl samt allem Weihrauch verbrennen als Feueropfer für den Herrn. 
+**[2:16]** Und der Priester soll alsdann den als Duftopfer bestimmten Teil von den zerriebenen Körnern und dem Öl samt allem Weihrauch verbrennen als Feueropfer für den Herrn.
 
 ### Chapter 3
 
@@ -5782,7 +5782,7 @@
 
 **[3:16]** Das alles soll der Priester auf dem Altar als lieblich duftende Feueropferspeise für den Herrn verbrennen. Alles Fett gehört dem Herrn. (a) 3Mo 7:23
 
-**[3:17]** Es ist eine immerwährende Satzung für euch von Geschlecht zu Geschlecht in allen euren Wohnsitzen: ihr sollt nie und nimmer Fett oder Blut essen. (a) 1Mo 9:4; 3Mo 7:26; 17:10 
+**[3:17]** Es ist eine immerwährende Satzung für euch von Geschlecht zu Geschlecht in allen euren Wohnsitzen: ihr sollt nie und nimmer Fett oder Blut essen. (a) 1Mo 9:4; 3Mo 7:26; 17:10
 
 ### Chapter 4
 
@@ -5854,7 +5854,7 @@
 
 **[4:34]** Der Priester aber nehme mit dem Finger von dem Blute des Sündopfers und streiche es an die Hörner des Brandopferaltars, und alles (übrige) Blut giesse er beim Altar auf den Boden;
 
-**[4:35]** alles Fett aber soll er abtrennen, wie man das Fett beim Lamm des Heilsopfers abtrennt, und der Priester soll es auf dem Altar über den Feueropfern des Herrn verbrennen. So erwirkt ihm der Priester Sühne für die Sünde, die er begangen hat, und es wird ihm vergeben. 
+**[4:35]** alles Fett aber soll er abtrennen, wie man das Fett beim Lamm des Heilsopfers abtrennt, und der Priester soll es auf dem Altar über den Feueropfern des Herrn verbrennen. So erwirkt ihm der Priester Sühne für die Sünde, die er begangen hat, und es wird ihm vergeben.
 
 ### Chapter 5
 
@@ -5894,7 +5894,7 @@
 
 **[5:18]** so soll er einen fehllosen Widder aus der Herde nach deiner Schätzung als Schuldopfer zum Priester bringen, und der Priester erwirkt ihm Sühne für das unwissentliche Vergehen, das er, ohne es zu merken, begangen hat, und es wird ihm vergeben.
 
-**[5:19]** Ein Schuldopfer ist es; er hat sich gegen den Herrn verschuldet. 
+**[5:19]** Ein Schuldopfer ist es; er hat sich gegen den Herrn verschuldet.
 
 ### Chapter 6
 
@@ -5956,7 +5956,7 @@
 
 **[6:29]** Alles, was männlich ist unter den Priestern, darf davon essen; etwas Hochheiliges ist es.
 
-**[6:30]** Kein Sündopfer aber, von dessen Blut man etwas in das heilige Zelt hineinbringt, um im Heiligtum die Sühne zu vollziehen, darf gegessen werden, sondern es muss verbrannt werden. (a) 3Mo 4:5 12 16 21 
+**[6:30]** Kein Sündopfer aber, von dessen Blut man etwas in das heilige Zelt hineinbringt, um im Heiligtum die Sühne zu vollziehen, darf gegessen werden, sondern es muss verbrannt werden. (a) 3Mo 4:5 12 16 21
 
 ### Chapter 7
 
@@ -6034,7 +6034,7 @@
 
 **[7:37]** Das sind die Gesetze über das Brandopfer, das Speisopfer, das Sündopfer, das Schuldopfer, das Einweihungsopfer und das Heilsopfer,
 
-**[7:38]** die der Herr dem Mose auf dem Berge Sinai gebot, an dem Tage, da er den Israeliten Befehl gab, dem Herrn ihre Opfergaben darzubringen, in der Wüste am Sinai. 
+**[7:38]** die der Herr dem Mose auf dem Berge Sinai gebot, an dem Tage, da er den Israeliten Befehl gab, dem Herrn ihre Opfergaben darzubringen, in der Wüste am Sinai.
 
 ### Chapter 8
 
@@ -6108,7 +6108,7 @@
 
 **[8:35]** Am Eingang des heiligen Zeltes sollt ihr sieben Tage lang bleiben, Tag und Nacht, und die Vorschriften des Herrn befolgen, damit ihr nicht sterbet; denn so ist es mir geboten worden.
 
-**[8:36]** Und Aaron und seine Söhne taten alles, was der Herr durch Mose geboten hatte. 
+**[8:36]** Und Aaron und seine Söhne taten alles, was der Herr durch Mose geboten hatte.
 
 ### Chapter 9
 
@@ -6158,7 +6158,7 @@
 
 **[9:23]** Hierauf gingen Mose und Aaron in das heilige Zelt hinein, und als sie wieder herauskamen, segneten sie das Volk. Da erschien die Herrlichkeit des Herrn dem ganzen Volke,
 
-**[9:24]** und Feuer ging aus von dem Herrn und verzehrte das Brandopfer und die Fettstücke auf dem Altar. Als alles Volk das sah, jubelten sie und fielen auf ihr Angesicht. (a) 1Kön 18:38 
+**[9:24]** und Feuer ging aus von dem Herrn und verzehrte das Brandopfer und die Fettstücke auf dem Altar. Als alles Volk das sah, jubelten sie und fielen auf ihr Angesicht. (a) 1Kön 18:38
 
 ### Chapter 10
 
@@ -6200,7 +6200,7 @@
 
 **[10:19]** Aaron aber sprach zu Mose: Siehe, heute haben sie ihr Sündopfer und ihr Brandopfer vor dem Herrn dargebracht, und doch ist mir solches widerfahren. Hätte ich nun heute vom Sündopfer gegessen, wäre es dem Herrn wohlgefällig gewesen?
 
-**[10:20]** Als Mose das hörte, war er es zufrieden. 
+**[10:20]** Als Mose das hörte, war er es zufrieden.
 
 ### Chapter 11
 
@@ -6296,7 +6296,7 @@
 
 **[11:46]** Das ist das Gesetz über das Vieh und die Vögel und alle die Lebewesen, von denen das Wasser wimmelt, und über all das Getier, das auf der Erde sich tummelt,
 
-**[11:47]** damit ihr unterscheidet zwischen dem, was unrein, und dem, was rein ist, zwischen den Tieren, die man essen, und denen, die man nicht essen darf. 
+**[11:47]** damit ihr unterscheidet zwischen dem, was unrein, und dem, was rein ist, zwischen den Tieren, die man essen, und denen, die man nicht essen darf.
 
 ### Chapter 12
 
@@ -6314,7 +6314,7 @@
 
 **[12:7]** Der soll das Opfer vor dem Herrn darbringen und ihr so Sühne schaffen; dann wird sie rein von ihrem Blutfluss. Das ist das Gesetz über die Wöchnerin, sei es, dass sie einen Knaben oder ein Mädchen geboren hat.
 
-**[12:8]** Vermag sie aber kein Schaf, so nehme sie zwei Turteltauben oder zwei junge gewöhnliche Tauben, die eine zum Brandopfer und die andre zum Sündopfer, und der Priester soll ihr Sühne schaffen; dann wird sie rein. (a) 3Mo 5:7; Lu 2:24 
+**[12:8]** Vermag sie aber kein Schaf, so nehme sie zwei Turteltauben oder zwei junge gewöhnliche Tauben, die eine zum Brandopfer und die andre zum Sündopfer, und der Priester soll ihr Sühne schaffen; dann wird sie rein. (a) 3Mo 5:7; Lu 2:24
 
 ### Chapter 13
 
@@ -6434,7 +6434,7 @@
 
 **[13:58]** Wenn aber an dem Kleid oder dem gewobenen oder gewirkten Zeug oder an irgendwelchem ledernen Gegenstand der Schaden beim Waschen verschwindet, so soll man es nochmals waschen, dann ist es rein.
 
-**[13:59]** Das ist das Gesetz über das Aussatzmal an Kleidern, seien sie von Wolle oder von Flachs, oder an gewobenem oder gewirktem Zeug oder an irgendwelchem ledernen Gegenstand, wornach sie für rein oder für unrein zu erklären sind. 
+**[13:59]** Das ist das Gesetz über das Aussatzmal an Kleidern, seien sie von Wolle oder von Flachs, oder an gewobenem oder gewirktem Zeug oder an irgendwelchem ledernen Gegenstand, wornach sie für rein oder für unrein zu erklären sind.
 
 ### Chapter 14
 
@@ -6550,7 +6550,7 @@
 
 **[14:56]** über die Geschwulst, den Schorf und die hellen Flecken,
 
-**[14:57]** um Weisung zu geben, wann etwas für unrein oder für rein zu erklären sei. Das ist das Gesetz über den Aussatz. 
+**[14:57]** um Weisung zu geben, wann etwas für unrein oder für rein zu erklären sei. Das ist das Gesetz über den Aussatz.
 
 ### Chapter 15
 
@@ -6618,7 +6618,7 @@
 
 **[15:32]** Das ist das Gesetz über den, der an einem Fluss leidet, und über den, der einen Samenerguss hat, sodass er dadurch unrein wird,
 
-**[15:33]** und über die, welche am Monatsfluss leidet, und über den, der einen Fluss hat, es sei Mann oder Weib, und über einen Mann, der bei einer Unreinen liegt. 
+**[15:33]** und über die, welche am Monatsfluss leidet, und über den, der einen Fluss hat, es sei Mann oder Weib, und über einen Mann, der bei einer Unreinen liegt.
 
 ### Chapter 16
 
@@ -6688,7 +6688,7 @@
 
 **[16:33]** Der soll für das Heiligtum die Sühne vollziehen; auch für das heilige Zelt und für den Altar soll er die Sühne vollziehen, und ebenso für die Priester und das ganze Volk der Gemeinde.
 
-**[16:34]** Das soll euch als ewige Ordnung gelten, für die Israeliten Sühne zu erwirken wegen all ihrer Sünden, einmal im Jahr. Und Aaron tat, wie der Herr dem Mose geboten hatte. 
+**[16:34]** Das soll euch als ewige Ordnung gelten, für die Israeliten Sühne zu erwirken wegen all ihrer Sünden, einmal im Jahr. Und Aaron tat, wie der Herr dem Mose geboten hatte.
 
 ### Chapter 17
 
@@ -6722,7 +6722,7 @@
 
 **[17:15]** Und ein jeder, der ein verendetes oder zerrissenes Tier isst, er sei Einheimischer oder Fremdling, der soll seine Kleider waschen und sich in Wasser baden, und er bleibt unrein bis zum Abend; dann ist er wieder rein. (a) 2Mo 22:31; 3Mo 7:24; 11:40
 
-**[17:16]** Wenn er aber (seine Kleider) nicht wäscht und seinen Leib nicht badet, so hat er seine Schuld zu tragen. 
+**[17:16]** Wenn er aber (seine Kleider) nicht wäscht und seinen Leib nicht badet, so hat er seine Schuld zu tragen.
 
 ### Chapter 18
 
@@ -6784,7 +6784,7 @@
 
 **[18:29]** Denn alle, die irgendeinen dieser Greuel verüben, solche, die das tun, sollen aus ihren Volksgenossen ausgerottet werden.
 
-**[18:30]** Darum befolgt meine Vorschriften, dass ihr nicht nach den schändlichen Bräuchen tut, die man vor euch geübt hat, und euch dadurch verunreinigt; ich bin der Herr, euer Gott. 
+**[18:30]** Darum befolgt meine Vorschriften, dass ihr nicht nach den schändlichen Bräuchen tut, die man vor euch geübt hat, und euch dadurch verunreinigt; ich bin der Herr, euer Gott.
 
 ### Chapter 19
 
@@ -6860,7 +6860,7 @@
 
 **[19:36]** Richtige Waage, richtige Gewichtsteine, richtiges Epha und richtiges Hin sollt ihr brauchen; ich bin der Herr, euer Gott, der euch aus dem Lande Ägypten herausgeführt hat.
 
-**[19:37]** So haltet denn alle meine Satzungen und alle meine Vorschriften und tut darnach; ich bin der Herr. 
+**[19:37]** So haltet denn alle meine Satzungen und alle meine Vorschriften und tut darnach; ich bin der Herr.
 
 ### Chapter 20
 
@@ -6916,7 +6916,7 @@
 
 **[20:26]** Ihr sollt mir heilig sein, denn ich, der Herr, bin heilig, und ich habe euch aus den Völkern ausgesondert, dass ihr mein seiet.
 
-**[20:27]** Wenn in einem Mann oder Weib ein Totengeist oder Wahrsagegeist ist, so sollen sie getötet werden. Man soll sie steinigen; ihr Blut komme über sie! (a) 2Mo 22:18 
+**[20:27]** Wenn in einem Mann oder Weib ein Totengeist oder Wahrsagegeist ist, so sollen sie getötet werden. Man soll sie steinigen; ihr Blut komme über sie! (a) 2Mo 22:18
 
 ### Chapter 21
 
@@ -6966,7 +6966,7 @@
 
 **[21:23]** Nur zum Vorhange darf er nicht hineingehen, noch an den Altar treten, weil er ein Gebrechen hat, damit er meine Heiligtümer nicht entweihe; denn ich bin der Herr, der sie heiligt.
 
-**[21:24]** Und Mose redete solches zu Aaron und zu seinen Söhnen und zu allen Israeliten. 
+**[21:24]** Und Mose redete solches zu Aaron und zu seinen Söhnen und zu allen Israeliten.
 
 ### Chapter 22
 
@@ -7034,7 +7034,7 @@
 
 **[22:32]** Und ihr sollt meinen heiligen Namen nicht entweihen, damit ich heilig gehalten werde unter den Israeliten; ich bin der Herr, der euch heiligt,
 
-**[22:33]** der euch aus dem Lande Ägypten herausgeführt hat, um euer Gott zu sein, ich, der Herr. 
+**[22:33]** der euch aus dem Lande Ägypten herausgeführt hat, um euer Gott zu sein, ich, der Herr.
 
 ### Chapter 23
 
@@ -7124,7 +7124,7 @@
 
 **[23:43]** damit eure Nachkommen erfahren, dass ich die Israeliten in Hütten habe wohnen lassen, als ich sie aus dem Lande Ägypten herausführte, ich, der Herr, euer Gott.
 
-**[23:44]** Und Mose teilte den Israeliten die Festzeiten des Herrn mit. 
+**[23:44]** Und Mose teilte den Israeliten die Festzeiten des Herrn mit.
 
 ### Chapter 24
 
@@ -7172,7 +7172,7 @@
 
 **[24:22]** Einerlei Recht soll unter euch gelten, für den Fremdling wie für den Einheimischen; ich bin der Herr, euer Gott. (a) 2Mo 12:49
 
-**[24:23]** Und Mose redete mit den Israeliten; da führten sie den Flucher vor das Lager hinaus und steinigten ihn. So taten die Israeliten, wie der Herr dem Mose geboten hatte. 
+**[24:23]** Und Mose redete mit den Israeliten; da führten sie den Flucher vor das Lager hinaus und steinigten ihn. So taten die Israeliten, wie der Herr dem Mose geboten hatte.
 
 ### Chapter 25
 
@@ -7284,7 +7284,7 @@
 
 **[25:54]** Wird er aber nicht in dieser Weise losgekauft, so soll er im Halljahr mitsamt seinen Kindern frei ausgehen.
 
-**[25:55]** Denn mein sind die Israeliten als Knechte, meine Knechte sind sie, die ich aus dem Lande Ägypten herausgeführt habe, ich, der Herr, euer Gott. 
+**[25:55]** Denn mein sind die Israeliten als Knechte, meine Knechte sind sie, die ich aus dem Lande Ägypten herausgeführt habe, ich, der Herr, euer Gott.
 
 ### Chapter 26
 
@@ -7378,7 +7378,7 @@
 
 **[26:45]** Ich will zu ihrem Heil meines Bundes mit den Vorfahren gedenken, die ich vor den Augen der Heiden aus dem Lande Ägypten herausgeführt habe, um ihr Gott zu sein, ich, der Herr.
 
-**[26:46]** Das sind die Satzungen und Vorschriften und Gesetze, die der Herr auf dem Berge Sinai durch Mose zwischen sich und den Israeliten aufgestellt hat. 
+**[26:46]** Das sind die Satzungen und Vorschriften und Gesetze, die der Herr auf dem Berge Sinai durch Mose zwischen sich und den Israeliten aufgestellt hat.
 
 ### Chapter 27
 
@@ -7448,7 +7448,7 @@
 
 **[27:33]** Man soll nicht untersuchen, ob es gut oder schlecht sei, man soll es auch nicht vertauschen. Wenn es aber jemand doch vertauscht, so sollen beide Tiere dem Heiligtum verfallen und dürfen nicht gelöst werden.
 
-**[27:34]** Das sind die Gebote, die der Herr dem Mose auf dem Berge Sinai für die Israeliten gab.  
+**[27:34]** Das sind die Gebote, die der Herr dem Mose auf dem Berge Sinai für die Israeliten gab.
 
 ## Numbers
 
@@ -7560,7 +7560,7 @@
 
 **[1:53]** die Leviten aber sollen sich um die Wohnung des Gesetzes her lagern, damit nicht ein (Gottes-)Zorn über die Gemeinde Israels komme; so sollen die Leviten den Dienst an der Wohnung des Gesetzes versehen.
 
-**[1:54]** Und die Israeliten taten genau, wie der Herr dem Mose geboten hatte; so taten sie. 
+**[1:54]** Und die Israeliten taten genau, wie der Herr dem Mose geboten hatte; so taten sie.
 
 ### Chapter 2
 
@@ -7630,7 +7630,7 @@
 
 **[2:33]** Die Leviten aber wurden, wie es der Herr dem Mose geboten hatte, nicht mit den andern Israeliten gemustert. (a) 4Mo 1:49
 
-**[2:34]** Und die Israeliten taten genau, wie der Herr dem Mose geboten hatte: sie lagerten sich so nach ihren Panieren und brachen auch so auf, ein jeder nach seinem Geschlecht, bei seiner Familie. 
+**[2:34]** Und die Israeliten taten genau, wie der Herr dem Mose geboten hatte: sie lagerten sich so nach ihren Panieren und brachen auch so auf, ein jeder nach seinem Geschlecht, bei seiner Familie.
 
 ### Chapter 3
 
@@ -7734,7 +7734,7 @@
 
 **[3:50]** von den Erstgebornen der Israeliten erhob Mose das Geld, 1 365 Lot Silber nach heiligem Gewicht.
 
-**[3:51]** Und Mose gab das Lösegeld Aaron und seinen Söhnen nach dem Befehl des Herrn, wie der Herr dem Mose geboten hatte. 
+**[3:51]** Und Mose gab das Lösegeld Aaron und seinen Söhnen nach dem Befehl des Herrn, wie der Herr dem Mose geboten hatte.
 
 ### Chapter 4
 
@@ -7834,7 +7834,7 @@
 
 **[4:48]** alle Gemusterten unter ihnen zählten 8 580 Mann.
 
-**[4:49]** Nach dem Befehl des Herrn durch Mose wies man einem jeden zu, was er zu tun und was er zu tragen hatte. So wurden sie angewiesen, wie es der Herr dem Mose geboten hatte. 
+**[4:49]** Nach dem Befehl des Herrn durch Mose wies man einem jeden zu, was er zu tun und was er zu tragen hatte. So wurden sie angewiesen, wie es der Herr dem Mose geboten hatte.
 
 ### Chapter 5
 
@@ -7898,7 +7898,7 @@
 
 **[5:30]** oder wenn ein Geist der Eifersucht über einen Mann kommt, sodass er auf sein Weib eifersüchtig wird, so soll er das Weib vor den Herrn treten lassen, und der Priester verfahre mit ihr genau nach diesem Gesetze.
 
-**[5:31]** Der Mann bleibt frei von Schuld, ein solches Weib aber lädt Schuld auf sich. 
+**[5:31]** Der Mann bleibt frei von Schuld, ein solches Weib aber lädt Schuld auf sich.
 
 ### Chapter 6
 
@@ -7954,7 +7954,7 @@
 
 **[6:26]** Der Herr erhebe sein Angesicht auf dich und gebe dir Frieden!
 
-**[6:27]** Wenn sie so meinen Namen auf die Israeliten legen, will ich selbst sie segnen. 
+**[6:27]** Wenn sie so meinen Namen auf die Israeliten legen, will ich selbst sie segnen.
 
 ### Chapter 7
 
@@ -8134,7 +8134,7 @@
 
 **[7:88]** Und die Tiere für das Heilsopfer waren insgesamt: 24 Stiere, sechzig Widder, sechzig Böcke und sechzig einjährige männliche Lämmer. Das war die (Opfergabe zur) Einweihung des Altars, nachdem er gesalbt worden war.
 
-**[7:89]** Und als Mose in das heilige Zelt hineinging, um mit dem Herrn zu reden, hörte er die Stimme mit sich reden von der Deckplatte her, die auf der Lade des Gesetzes lag, von der Stelle zwischen den beiden Cheruben aus; und er redete mit ihm. (a) 2Mo 25:22; 4Mo 17:4 
+**[7:89]** Und als Mose in das heilige Zelt hineinging, um mit dem Herrn zu reden, hörte er die Stimme mit sich reden von der Deckplatte her, die auf der Lade des Gesetzes lag, von der Stelle zwischen den beiden Cheruben aus; und er redete mit ihm. (a) 2Mo 25:22; 4Mo 17:4
 
 ### Chapter 8
 
@@ -8188,7 +8188,7 @@
 
 **[8:25]** Mit fünfzig Jahren aber sollen sie vom Dienst zurücktreten und haben sie nicht mehr zu dienen,
 
-**[8:26]** sondern sie mögen ihre Brüder im heiligen Zelte bei der Besorgung von Obliegenheiten bedienen; eigentlichen Dienst aber sollen sie nicht mehr tun. So sollst du es mit den Leviten halten hinsichtlich ihrer Obliegenheiten. 
+**[8:26]** sondern sie mögen ihre Brüder im heiligen Zelte bei der Besorgung von Obliegenheiten bedienen; eigentlichen Dienst aber sollen sie nicht mehr tun. So sollst du es mit den Leviten halten hinsichtlich ihrer Obliegenheiten.
 
 ### Chapter 9
 
@@ -8236,7 +8236,7 @@
 
 **[9:22]** Oder wenn die Wolke zwei Tage oder einen Monat oder noch länger über der Wohnung verweilte, indem sie auf ihr ruhen blieb, so lagerten die Israeliten und brachen nicht auf; wenn sie sich aber weghob, so brachen sie auf.
 
-**[9:23]** Denn nach dem Gebot des Herrn lagerten sie sich, und nach dem Gebot des Herrn brachen sie auf; sie kamen der Anordnung des Herrn nach, wie der Herr es ihnen durch Mose gebot. 
+**[9:23]** Denn nach dem Gebot des Herrn lagerten sie sich, und nach dem Gebot des Herrn brachen sie auf; sie kamen der Anordnung des Herrn nach, wie der Herr es ihnen durch Mose gebot.
 
 ### Chapter 10
 
@@ -8310,7 +8310,7 @@
 
 **[10:35]** Wenn die Lade aufbrach, sprach Mose: Stehe auf, o Herr, dass deine Feinde zerstieben, / und die dich hassen, vor dir fliehen!
 
-**[10:36]** Und wenn sie Halt machte, sprach er: Lass dich nieder, o Herr, / und segne die Tausende Israels! 
+**[10:36]** Und wenn sie Halt machte, sprach er: Lass dich nieder, o Herr, / und segne die Tausende Israels!
 
 ### Chapter 11
 
@@ -8382,7 +8382,7 @@
 
 **[11:34]** Daher nannte man jenen Ort "die Lustgräber", weil man dort die Leute begrub, die lüstern gewesen waren.
 
-**[11:35]** Von den Lustgräbern zog das Volk weiter nach Hazeroth und blieb in Hazeroth. 
+**[11:35]** Von den Lustgräbern zog das Volk weiter nach Hazeroth und blieb in Hazeroth.
 
 ### Chapter 12
 
@@ -8414,7 +8414,7 @@
 
 **[12:14]** Der Herr sprach zu Mose: Wenn ihr Vater ihr ins Angesicht gespieen hätte, müsste sie sich nicht sieben Tage lang schämen? Sie soll sieben Tage lang aus dem Lager ausgeschlossen sein, und darnach mag sie wieder aufgenommen werden.
 
-**[12:15]** So wurde Mirjam sieben Tage lang aus dem Lager ausgeschlossen, und das Volk zog nicht weiter, bis Mirjam wieder aufgenommen war. (a) 3Mo 13:46 
+**[12:15]** So wurde Mirjam sieben Tage lang aus dem Lager ausgeschlossen, und das Volk zog nicht weiter, bis Mirjam wieder aufgenommen war. (a) 3Mo 13:46
 
 **[12:16]** 
 
@@ -8484,7 +8484,7 @@
 
 **[13:32]** Aber die Männer, die mit ihm hinaufgezogen waren, sprachen: Wir können nicht gegen dieses Volk ziehen; es ist uns zu stark.
 
-**[13:33]** Und sie berichteten den Israeliten schlimme Dinge von dem Lande, das sie ausgekundschaftet hatten, und sprachen: Das Land, das wir durchzogen haben, um es auszukundschaften, verzehrt seine Bewohner, und das ganze Volk, das wir darin sahen, besteht aus hochgewachsenen Leuten. Wir sahen dort auch die Riesen, die Enakiter aus dem Riesengeschlecht, und wir kamen uns vor wie Heuschrecken, und so erschienen wir auch ihnen. 
+**[13:33]** Und sie berichteten den Israeliten schlimme Dinge von dem Lande, das sie ausgekundschaftet hatten, und sprachen: Das Land, das wir durchzogen haben, um es auszukundschaften, verzehrt seine Bewohner, und das ganze Volk, das wir darin sahen, besteht aus hochgewachsenen Leuten. Wir sahen dort auch die Riesen, die Enakiter aus dem Riesengeschlecht, und wir kamen uns vor wie Heuschrecken, und so erschienen wir auch ihnen.
 
 ### Chapter 14
 
@@ -8576,7 +8576,7 @@
 
 **[14:44]** Aber vermessen zogen sie hinauf auf die Höhe des Gebirges, während die Bundeslade des Herrn und Mose das Lager nicht verliessen.
 
-**[14:45]** Da kamen die Amalekiter und Kanaaniter, die dort auf dem Gebirge wohnten, herab, schlugen sie und zersprengten sie bis nach Horma. 
+**[14:45]** Da kamen die Amalekiter und Kanaaniter, die dort auf dem Gebirge wohnten, herab, schlugen sie und zersprengten sie bis nach Horma.
 
 ### Chapter 15
 
@@ -8660,7 +8660,7 @@
 
 **[15:40]** damit ihr vielmehr all meiner Gebote gedenket und darnach tuet und so heilig seiet eurem Gott.
 
-**[15:41]** Ich bin der Herr, euer Gott, der ich euch aus dem Lande Ägypten herausgeführt habe, dass ich euer Gott sei - ich, der Herr, euer Gott. 
+**[15:41]** Ich bin der Herr, euer Gott, der ich euch aus dem Lande Ägypten herausgeführt habe, dass ich euer Gott sei - ich, der Herr, euer Gott.
 
 ### Chapter 16
 
@@ -8762,7 +8762,7 @@
 
 **[16:49]** 14 700 Menschen waren an der Plage gestorben, ausser denen, die um Korahs willen umgekommen waren.
 
-**[16:50]** Aaron aber kehrte zu Mose an den Eingang des heiligen Zeltes zurück, nachdem der Plage Einhalt getan war. 
+**[16:50]** Aaron aber kehrte zu Mose an den Eingang des heiligen Zeltes zurück, nachdem der Plage Einhalt getan war.
 
 ### Chapter 17
 
@@ -8790,7 +8790,7 @@
 
 **[17:12]** Die Israeliten aber sprachen zu Mose: Siehe, wir sterben dahin, wir kommen um, wir kommen alle um.
 
-**[17:13]** Jeder, der sich der Wohnung des Herrn naht, muss ja sterben! Sind wir nicht schon ganz und gar verloren? 
+**[17:13]** Jeder, der sich der Wohnung des Herrn naht, muss ja sterben! Sind wir nicht schon ganz und gar verloren?
 
 ### Chapter 18
 
@@ -8856,7 +8856,7 @@
 
 **[18:31]** Und ihr dürft es an jedem Orte essen, ihr und eure Familie; denn es ist euer Lohn für euren Dienst am heiligen Zelte.
 
-**[18:32]** Dann werdet ihr seinethalben keine Sünde auf euch laden, sofern ihr das Beste davon abhebt, und ihr werdet die heiligen Gaben der Israeliten nicht entweihen und werdet nicht sterben müssen. 
+**[18:32]** Dann werdet ihr seinethalben keine Sünde auf euch laden, sofern ihr das Beste davon abhebt, und ihr werdet die heiligen Gaben der Israeliten nicht entweihen und werdet nicht sterben müssen.
 
 ### Chapter 19
 
@@ -8902,7 +8902,7 @@
 
 **[19:21]** Das soll euch als ewige Satzung gelten. Und derjenige, der das Reinigungswasser gesprengt hat, soll seine Kleider waschen, und wer das Reinigungswasser berührt, wird unrein bis zum Abend.
 
-**[19:22]** Und alles, was der Unreine berührt, wird unrein, und der Mensch, der ihn berührt, wird unrein bis zum Abend. 
+**[19:22]** Und alles, was der Unreine berührt, wird unrein, und der Mensch, der ihn berührt, wird unrein bis zum Abend.
 
 ### Chapter 20
 
@@ -8962,7 +8962,7 @@
 
 **[20:28]** Und Mose zog Aaron die Kleider aus und legte sie seinem Sohne Eleasar an; und Aaron starb daselbst auf dem Gipfel des Berges. Mose aber und Eleasar stiegen herab vom Berge.
 
-**[20:29]** Als die ganze Gemeinde sah, dass Aaron verschieden war, beweinte ihn das ganze Haus Israel dreissig Tage lang. 
+**[20:29]** Als die ganze Gemeinde sah, dass Aaron verschieden war, beweinte ihn das ganze Haus Israel dreissig Tage lang.
 
 ### Chapter 21
 
@@ -9034,7 +9034,7 @@
 
 **[21:34]** Aber der Herr sprach zu Mose: Fürchte dich nicht vor ihm; denn ich gebe ihn mit Land und Leuten in deine Hand, und du magst mit ihm tun, wie du mit Sihon, dem König der Amoriter, getan hast, der zu Hesbon sass.
 
-**[21:35]** Und sie schlugen ihn und seine Söhne und sein ganzes Volk, dass keiner entrann und übrigblieb, und nahmen sein Land in Besitz. 
+**[21:35]** Und sie schlugen ihn und seine Söhne und sein ganzes Volk, dass keiner entrann und übrigblieb, und nahmen sein Land in Besitz.
 
 ### Chapter 22
 
@@ -9118,7 +9118,7 @@
 
 **[22:40]** Hier opferte Balak Rinder und Schafe und schickte davon an Bileam und an die Fürsten, die bei ihm waren.
 
-**[22:41]** Und am Morgen nahm Balak den Bileam mit sich und führte ihn hinauf nach Bamoth-Baal, von wo er den äussersten Teil des Volkes (Israel) sehen konnte. 
+**[22:41]** Und am Morgen nahm Balak den Bileam mit sich und führte ihn hinauf nach Bamoth-Baal, von wo er den äussersten Teil des Volkes (Israel) sehen konnte.
 
 ### Chapter 23
 
@@ -9180,7 +9180,7 @@
 
 **[23:29]** Und Bileam sprach zu Balak: Baue mir hier sieben Altäre und stelle mir hier sieben Stiere und sieben Widder bereit.
 
-**[23:30]** Balak tat, wie Bileam sagte, und opferte auf jedem Altar einen Stier und einen Widder. 
+**[23:30]** Balak tat, wie Bileam sagte, und opferte auf jedem Altar einen Stier und einen Widder.
 
 ### Chapter 24
 
@@ -9232,7 +9232,7 @@
 
 **[24:24]** Schiffe kommen von den Chittäern her, / die demütigen Assur und demütigen Heber. / Doch auch das wird untergehen.
 
-**[24:25]** Darnach machte sich Bileam auf und kehrte in seine Heimat zurück, und auch Balak zog seines Weges. 
+**[24:25]** Darnach machte sich Bileam auf und kehrte in seine Heimat zurück, und auch Balak zog seines Weges.
 
 ### Chapter 25
 
@@ -9270,7 +9270,7 @@
 
 **[25:17]** Bekämpft die Midianiter und schlagt sie;
 
-**[25:18]** denn sie haben euch bekämpft durch ihre Arglist, die sie wider euch verübt haben hinsichtlich des Peor und hinsichtlich ihrer Volksgenossin Kosbi, der Fürstentochter aus Midian, die am Tag der Plage um des Peor willen getötet wurde. 
+**[25:18]** denn sie haben euch bekämpft durch ihre Arglist, die sie wider euch verübt haben hinsichtlich des Peor und hinsichtlich ihrer Volksgenossin Kosbi, der Fürstentochter aus Midian, die am Tag der Plage um des Peor willen getötet wurde.
 
 ### Chapter 26
 
@@ -9402,7 +9402,7 @@
 
 **[26:64]** Darunter war keiner von denen, die von Mose und Aaron, dem Priester, gemustert worden waren, als diese die Israeliten in der Wüste am Sinai musterten; (a) 4Mo 1
 
-**[26:65]** denn der Herr hatte ihnen gesagt, sie müssten in der Wüste sterben, und es war keiner von ihnen übriggeblieben ausser Kaleb, dem Sohne Jephunnes, und Josua, dem Sohne Nuns. (a) 4Mo 14:23 24 
+**[26:65]** denn der Herr hatte ihnen gesagt, sie müssten in der Wüste sterben, und es war keiner von ihnen übriggeblieben ausser Kaleb, dem Sohne Jephunnes, und Josua, dem Sohne Nuns. (a) 4Mo 14:23 24
 
 ### Chapter 27
 
@@ -9450,7 +9450,7 @@
 
 **[27:22]** Und Mose tat, wie ihm der Herr geboten hatte: er nahm Josua und stellte ihn vor Eleasar, den Priester, und vor die ganze Gemeinde;
 
-**[27:23]** dann stützte er seine Hände auf ihn und setzte ihn ein, wie der Herr durch Mose befohlen hatte. 
+**[27:23]** dann stützte er seine Hände auf ihn und setzte ihn ein, wie der Herr durch Mose befohlen hatte.
 
 ### Chapter 28
 
@@ -9514,7 +9514,7 @@
 
 **[28:30]** dazu einen Ziegenbock, um euch Sühne zu erwirken.
 
-**[28:31]** Ausser dem täglichen Brandopfer mit seinem Speisopfer und den zugehörigen Trankopfern sollt ihr es darbringen. 
+**[28:31]** Ausser dem täglichen Brandopfer mit seinem Speisopfer und den zugehörigen Trankopfern sollt ihr es darbringen.
 
 ### Chapter 29
 
@@ -9594,7 +9594,7 @@
 
 **[29:38]** dazu einen Bock als Sündopfer ausser dem täglichen Brandopfer mit seinem Speisopfer und Trankopfer.
 
-**[29:39]** Diese (Opfer) sollt ihr dem Herrn an euren Festen darbringen ausser dem, was ihr an Brandopfern, Speisopfern, Trankopfern und Heilsopfern infolge eines Gelübdes oder freiwillig darbringt. 
+**[29:39]** Diese (Opfer) sollt ihr dem Herrn an euren Festen darbringen ausser dem, was ihr an Brandopfern, Speisopfern, Trankopfern und Heilsopfern infolge eines Gelübdes oder freiwillig darbringt.
 
 **[29:40]** 
 
@@ -9630,7 +9630,7 @@
 
 **[30:15]** Wenn ihr Mann bis zum andern Tage dazu schweigt, so lässt er damit alle ihre Gelübde oder Enthaltungen, die sie zu erfüllen hat, zu Recht bestehen; er hat sie zu Recht bestehen lassen, weil er an dem Tage, da er davon hörte, dazu schwieg.
 
-**[30:16]** Wenn er sie aber (erst einige Zeit), nachdem er davon gehört hat, aufhebt, so hat er ihre Schuld zu tragen. Das sind die Satzungen, die der Herr dem Mose geboten hat, damit sie gelten zwischen Mann und Weib und zwischen Vater und Tochter, solange sie noch ledig im Hause ihres Vaters ist. 
+**[30:16]** Wenn er sie aber (erst einige Zeit), nachdem er davon gehört hat, aufhebt, so hat er ihre Schuld zu tragen. Das sind die Satzungen, die der Herr dem Mose geboten hat, damit sie gelten zwischen Mann und Weib und zwischen Vater und Tochter, solange sie noch ledig im Hause ihres Vaters ist.
 
 ### Chapter 31
 
@@ -9740,7 +9740,7 @@
 
 **[31:53]** Was aber ein jeder von den Kriegsleuten erbeutet hatte, das war sein.
 
-**[31:54]** Und Mose und Eleasar, der Priester, nahmen das Gold von den Anführern der Tausende und Hunderte in Empfang und brachten es in das heilige Zelt, damit der Herr der Israeliten gedenke. 
+**[31:54]** Und Mose und Eleasar, der Priester, nahmen das Gold von den Anführern der Tausende und Hunderte in Empfang und brachten es in das heilige Zelt, damit der Herr der Israeliten gedenke.
 
 ### Chapter 32
 
@@ -9826,7 +9826,7 @@
 
 **[32:41]** Jair aber, der Sohn Manasses, zog hin und eroberte ihre Zeltdörfer und nannte sie Zeltdörfer Jairs.
 
-**[32:42]** Auch Nobah zog aus und eroberte Kenath samt seinen Nebenorten und nannte es nach seinem Namen Nobah. 
+**[32:42]** Auch Nobah zog aus und eroberte Kenath samt seinen Nebenorten und nannte es nach seinem Namen Nobah.
 
 ### Chapter 33
 
@@ -9940,7 +9940,7 @@
 
 **[33:55]** Wenn ihr aber die Bewohner des Landes nicht vor euch vertreibt, so werden die, die ihr von ihnen übriglasst, zu Dornen werden in euren Augen und zu Stacheln in euren Seiten, und sie werden euch bedrängen in dem Lande, wo ihr wohnt, (a) Jos 23:13; Ri 2:3
 
-**[33:56]** und so werde ich euch antun, was ich ihnen anzutun gedachte. 
+**[33:56]** und so werde ich euch antun, was ich ihnen anzutun gedachte.
 
 ### Chapter 34
 
@@ -10000,7 +10000,7 @@
 
 **[34:28]** Pedahel, der Sohn Ammihuds, als Fürst des Stammes der Naphthaliten.
 
-**[34:29]** Das sind die Männer, denen der Herr gebot, den Israeliten ihr Erbe im Lande Kanaan zuzuteilen. 
+**[34:29]** Das sind die Männer, denen der Herr gebot, den Israeliten ihr Erbe im Lande Kanaan zuzuteilen.
 
 ### Chapter 35
 
@@ -10070,7 +10070,7 @@
 
 **[35:33]** Und ihr sollt das Land, in dem ihr wohnt, nicht entweihen; denn das Blut entweiht das Land, und dem Lande kann nicht Sühne erwirkt werden für das Blut, das darin vergossen worden ist, es sei denn durch das Blut dessen, der es vergossen hat.
 
-**[35:34]** So verunreinigt denn das Land nicht, in dem ihr wohnt und in dessen Mitte ich wohne; denn ich, der Herr, wohne inmitten der Israeliten. 
+**[35:34]** So verunreinigt denn das Land nicht, in dem ihr wohnt und in dessen Mitte ich wohne; denn ich, der Herr, wohne inmitten der Israeliten.
 
 ### Chapter 36
 
@@ -10098,7 +10098,7 @@
 
 **[36:12]** Sie verheirateten sich mit Söhnen aus den Geschlechtern der Söhne Manasses, des Sohnes Josephs, und so blieb ihr Erbteil dem Stamme erhalten, zu dem das Geschlecht ihres Vaters gehörte.
 
-**[36:13]** Das sind die Gebote und Rechte, die der Herr den Israeliten durch Mose in den Gefilden Moabs am Jordan gegenüber Jericho gab.  
+**[36:13]** Das sind die Gebote und Rechte, die der Herr den Israeliten durch Mose in den Gefilden Moabs am Jordan gegenüber Jericho gab.
 
 ## Deuteronomy
 
@@ -10194,7 +10194,7 @@
 
 **[1:45]** Als ihr nun zurückkamt, da weintet ihr vor dem Herrn; doch der Herr hörte nicht auf eure Klage und neigte sein Ohr nicht zu euch.
 
-**[1:46]** So bliebet ihr in Kades eine lange Zeit - solang ihr eben bliebet. 
+**[1:46]** So bliebet ihr in Kades eine lange Zeit - solang ihr eben bliebet.
 
 ### Chapter 2
 
@@ -10270,7 +10270,7 @@
 
 **[2:36]** Von Aroer, das am Ufer des Baches Arnon liegt, und von der Stadt im Tale bis nach Gilead war keine Stadt, die uns zu fest gewesen wäre; alles gab der Herr, unser Gott, in unsre Hand.
 
-**[2:37]** Nur dem Lande der Ammoniter nahtest du dich nicht, allem, was seitwärts vom Bache Jabbok liegt, und den Städten auf dem Gebirge, ganz wie der Herr, unser Gott, geboten hatte. 
+**[2:37]** Nur dem Lande der Ammoniter nahtest du dich nicht, allem, was seitwärts vom Bache Jabbok liegt, und den Städten auf dem Gebirge, ganz wie der Herr, unser Gott, geboten hatte.
 
 ### Chapter 3
 
@@ -10330,7 +10330,7 @@
 
 **[3:28]** Beauftrage aber Josua, ermutige und stärke ihn; denn er soll vor dem Volke her hinübergehen, und er soll ihnen das Land zu eigen geben, das du sehen wirst."
 
-**[3:29]** So blieben wir im Tale gegenüber Beth-Peor. 
+**[3:29]** So blieben wir im Tale gegenüber Beth-Peor.
 
 ### Chapter 4
 
@@ -10430,7 +10430,7 @@
 
 **[4:48]** von Aroer an, das am Ufer des Baches Arnon liegt, bis zum Siongebirge - das ist der Hermon -
 
-**[4:49]** und die ganze Araba jenseits des Jordan, auf der Ostseite, bis zum Meer der Araba am Fuss der Abhänge des Pisga. 
+**[4:49]** und die ganze Araba jenseits des Jordan, auf der Ostseite, bis zum Meer der Araba am Fuss der Abhänge des Pisga.
 
 ### Chapter 5
 
@@ -10498,7 +10498,7 @@
 
 **[5:32]** So tut nun getreulich, wie euch der Herr, euer Gott, geboten hat, und weichet nicht zur Rechten noch zur Linken;
 
-**[5:33]** genau auf dem Wege, den euch der Herr, euer Gott, geboten hat, sollt ihr gehen, auf dass ihr am Leben bleibet und es euch wohl ergehe und ihr lange lebet in dem Lande, das ihr besetzen werdet. 
+**[5:33]** genau auf dem Wege, den euch der Herr, euer Gott, geboten hat, sollt ihr gehen, auf dass ihr am Leben bleibet und es euch wohl ergehe und ihr lange lebet in dem Lande, das ihr besetzen werdet.
 
 ### Chapter 6
 
@@ -10550,7 +10550,7 @@
 
 **[6:24]** Und der Herr gebot uns, nach allen diesen Satzungen zu tun und den Herrn, unsern Gott, zu fürchten, auf dass es uns wohl ergehe allezeit und er uns am Leben erhalte, wie es jetzt geschieht.
 
-**[6:25]** Und als Gerechte werden wir dastehen, wenn wir dieses ganze Gesetz getreulich erfüllen vor dem Herrn, unserm Gott, wie er uns geboten hat." 
+**[6:25]** Und als Gerechte werden wir dastehen, wenn wir dieses ganze Gesetz getreulich erfüllen vor dem Herrn, unserm Gott, wie er uns geboten hat."
 
 ### Chapter 7
 
@@ -10604,7 +10604,7 @@
 
 **[7:25]** Die Bilder ihrer Götter sollt ihr verbrennen: du sollst nicht nach dem Silber und dem Gold, das daran ist, verlangen und es an dich nehmen, auf dass es nicht zum Fallstrick für dich werde; denn solches ist dem Herrn, deinem Gott, ein Greuel,
 
-**[7:26]** und einen Greuel sollst du nicht in dein Haus bringen, dass du nicht gleich ihm dem Bann verfallest. Ekel und Abscheu sollst du davor haben; denn es ist dem Bann verfallen. (a) Jos 7:1 11 
+**[7:26]** und einen Greuel sollst du nicht in dein Haus bringen, dass du nicht gleich ihm dem Bann verfallest. Ekel und Abscheu sollst du davor haben; denn es ist dem Bann verfallen. (a) Jos 7:1 11
 
 ### Chapter 8
 
@@ -10646,7 +10646,7 @@
 
 **[8:19]** Doch wenn du des Herrn, deines Gottes, vergissest und andern Göttern nachgehst, ihnen dienst und sie anbetest, so beteure ich euch heute, dass ihr zugrunde gehen werdet.
 
-**[8:20]** Wie die Völker, die der Herr vor euch zugrunde richtet, so werdet ihr zugrunde gehen, dafür, dass ihr nicht auf die Stimme des Herrn, eures Gottes, hört. 
+**[8:20]** Wie die Völker, die der Herr vor euch zugrunde richtet, so werdet ihr zugrunde gehen, dafür, dass ihr nicht auf die Stimme des Herrn, eures Gottes, hört.
 
 ### Chapter 9
 
@@ -10706,7 +10706,7 @@
 
 **[9:28]** dass man in dem Lande, daraus du uns herausgeführt hast, nicht sage: "Weil ihr Gott sie nicht in das Land bringen konnte, das er ihnen verheissen hatte, und weil er sie hasste, hat er sie hinausgeführt, damit er sie sterben lasse in der Wüste." (a) 4Mo 14:15 16
 
-**[9:29]** Sie sind ja dein Volk und Eigentum, das du mit deiner grossen Kraft und deinem ausgereckten Arm herausgeführt hast. 
+**[9:29]** Sie sind ja dein Volk und Eigentum, das du mit deiner grossen Kraft und deinem ausgereckten Arm herausgeführt hast.
 
 ### Chapter 10
 
@@ -10752,7 +10752,7 @@
 
 **[10:21]** Er ist dein Loblied, und er ist dein Gott, der für dich jene grossen und furchtbaren Dinge getan, die deine Augen gesehen haben.
 
-**[10:22]** Ihrer siebzig Seelen zogen deine Väter hinab nach Ägypten, und nun hat dich der Herr, dein Gott, so zahlreich gemacht wie die Sterne des Himmels. (a) 1Mo 46:27 
+**[10:22]** Ihrer siebzig Seelen zogen deine Väter hinab nach Ägypten, und nun hat dich der Herr, dein Gott, so zahlreich gemacht wie die Sterne des Himmels. (a) 1Mo 46:27
 
 ### Chapter 11
 
@@ -10818,7 +10818,7 @@
 
 **[11:31]** Denn ihr werdet über den Jordan gehen, um hineinzukommen und das Land zu besetzen, das der Herr, euer Gott, euch geben will; und ihr werdet es besetzen und darin wohnen,
 
-**[11:32]** und dann erfüllt getreulich alle Satzungen und Rechte, die ich euch heute vorlege. 
+**[11:32]** und dann erfüllt getreulich alle Satzungen und Rechte, die ich euch heute vorlege.
 
 ### Chapter 12
 
@@ -10884,7 +10884,7 @@
 
 **[12:31]** Du sollst nicht so verfahren gegenüber dem Herrn, deinem Gott; denn alles, was dem Herrn ein Greuel ist und was er hasst, haben sie zu Ehren ihrer Götter getan; sogar ihre Söhne und ihre Töchter verbrannten sie ja ihren Göttern. (a) 5Mo 18:9
 
-**[12:32]** Alles, was ich euch gebiete, das sollt ihr getreulich halten; ihr sollt nichts dazu- und nichts davontun. (1) die Lutherbibel hat für 5.Mo. 12,32; 13,1-18 die Zählung 5.Mo. 13,1-19. (a) 5Mo 4:2 
+**[12:32]** Alles, was ich euch gebiete, das sollt ihr getreulich halten; ihr sollt nichts dazu- und nichts davontun. (1) die Lutherbibel hat für 5.Mo. 12,32; 13,1-18 die Zählung 5.Mo. 13,1-19. (a) 5Mo 4:2
 
 ### Chapter 13
 
@@ -10922,7 +10922,7 @@
 
 **[13:17]** Und nichts von dem, was dem Bann verfallen ist, soll in deiner Hand bleiben, auf dass der Herr von der Glut seines Zornes lasse und dir Erbarmen schenke und sich deiner erbarme und dich mehre, wie er deinen Vätern geschworen hat,
 
-**[13:18]** wenn du auf die Stimme des Herrn, deines Gottes, hörst und alle seine Gebote hältst, die ich dir heute gebe, sodass du tust, was dem Herrn, deinem Gott, wohlgefällt. 
+**[13:18]** wenn du auf die Stimme des Herrn, deines Gottes, hörst und alle seine Gebote hältst, die ich dir heute gebe, sodass du tust, was dem Herrn, deinem Gott, wohlgefällt.
 
 ### Chapter 14
 
@@ -10982,7 +10982,7 @@
 
 **[14:28]** Am Ende jedes dritten Jahres sollst du den ganzen Zehnten deines Ertrages von jenem Jahre herausgeben und in deinem Orte niederlegen;
 
-**[14:29]** dann mag der Levit, der ja keinen Anteil und Erbbesitz neben dir hat, der Fremdling, die Waise und die Witwe, die an deinem Orte wohnen, kommen und sich satt essen, auf dass der Herr, dein Gott, dich bei aller Arbeit deiner Hände segne, die du tust. (a) 5Mo 16:11 14; 26:11 12 
+**[14:29]** dann mag der Levit, der ja keinen Anteil und Erbbesitz neben dir hat, der Fremdling, die Waise und die Witwe, die an deinem Orte wohnen, kommen und sich satt essen, auf dass der Herr, dein Gott, dich bei aller Arbeit deiner Hände segne, die du tust. (a) 5Mo 16:11 14; 26:11 12
 
 ### Chapter 15
 
@@ -11030,7 +11030,7 @@
 
 **[15:22]** in deinem Orte sollst du sie essen, wie (das Fleisch) von der Gazelle und vom Hirsch, du seiest unrein oder rein. (a) 5Mo 12:15 22
 
-**[15:23]** Nur ihr Blut darfst du nicht essen, auf die Erde sollst du es ausschütten wie Wasser. (a) 5Mo 12:16 
+**[15:23]** Nur ihr Blut darfst du nicht essen, auf die Erde sollst du es ausschütten wie Wasser. (a) 5Mo 12:16
 
 ### Chapter 16
 
@@ -11076,7 +11076,7 @@
 
 **[16:21]** Du sollst dir keine Aschere von irgendwelchem Holze aufpflanzen neben dem Altar des Herrn, deines Gottes, den du dir machst,
 
-**[16:22]** und du sollst dir keinen Malstein errichten, den der Herr, dein Gott, hasst. (a) 3Mo 26:1 
+**[16:22]** und du sollst dir keinen Malstein errichten, den der Herr, dein Gott, hasst. (a) 3Mo 26:1
 
 ### Chapter 17
 
@@ -11118,7 +11118,7 @@
 
 **[17:19]** Und er soll es bei sich haben und soll darin lesen sein Leben lang, damit er den Herrn, seinen Gott, fürchten lerne und alle Worte dieses Gesetzes und diese Satzungen getreulich halte,
 
-**[17:20]** dass sich sein Herz nicht über seine Brüder erhebe und dass er nicht abweiche von dem Gesetze, weder zur Rechten noch zur Linken, auf dass er lange König sei inmitten Israels, er und seine Söhne. 
+**[17:20]** dass sich sein Herz nicht über seine Brüder erhebe und dass er nicht abweiche von dem Gesetze, weder zur Rechten noch zur Linken, auf dass er lange König sei inmitten Israels, er und seine Söhne.
 
 ### Chapter 18
 
@@ -11164,7 +11164,7 @@
 
 **[18:21]** Wenn du aber bei dir selber denkst: "Wie sollen wir erkennen, welches Wort der Herr nicht geredet hat?" (so wisse:)
 
-**[18:22]** wenn der Prophet im Namen des Herrn redet, und es erfüllt sich nicht und trifft nicht ein, so ist das ein Wort, das der Herr nicht geredet hat. In Vermessenheit hat es der Prophet geredet; fürchte dich nicht vor ihm. 
+**[18:22]** wenn der Prophet im Namen des Herrn redet, und es erfüllt sich nicht und trifft nicht ein, so ist das ein Wort, das der Herr nicht geredet hat. In Vermessenheit hat es der Prophet geredet; fürchte dich nicht vor ihm.
 
 ### Chapter 19
 
@@ -11208,7 +11208,7 @@
 
 **[19:20]** Die übrigen aber sollen es hören, dass sie sich fürchten und nie mehr eine solche böse Tat in deiner Mitte tun.
 
-**[19:21]** Da sollst du kein Erbarmen kennen: Leben um Leben, Auge um Auge, Zahn um Zahn, Hand um Hand, Fuss um Fuss. (a) 2Mo 21:23-25 
+**[19:21]** Da sollst du kein Erbarmen kennen: Leben um Leben, Auge um Auge, Zahn um Zahn, Hand um Hand, Fuss um Fuss. (a) 2Mo 21:23-25
 
 ### Chapter 20
 
@@ -11250,7 +11250,7 @@
 
 **[20:19]** Wenn du lange Zeit vor einer Stadt liegst, indem du wider sie Krieg führst, um sie einzunehmen, so sollst du ihre Bäume nicht verderben, indem du die Axt wider sie schwingst; du magst davon essen, sie selber aber sollst du nicht umhauen. Sind denn die Bäume des Feldes Menschen, dass du sie belagern müsstest?
 
-**[20:20]** Nur Bäume, von denen du weisst, dass man nicht davon essen kann, die magst du verderben und umhauen und Bollwerke daraus bauen wider die Stadt, die mit dir Krieg führt, bis sie fällt. 
+**[20:20]** Nur Bäume, von denen du weisst, dass man nicht davon essen kann, die magst du verderben und umhauen und Bollwerke daraus bauen wider die Stadt, die mit dir Krieg führt, bis sie fällt.
 
 ### Chapter 21
 
@@ -11298,7 +11298,7 @@
 
 **[21:22]** UND wenn jemand ein todeswürdiges Verbrechen begeht und getötet wird und du ihn an einen Pfahl hängst,
 
-**[21:23]** so darf sein Leichnam nicht übernacht am Pfahle bleiben, sondern du sollst ihn noch am selben Tage begraben. Denn ein Gehängter ist von Gott verflucht, und du sollst dein Land nicht verunreinigen, das dir der Herr, dein Gott, zu eigen geben will. (a) Ga 3:13 
+**[21:23]** so darf sein Leichnam nicht übernacht am Pfahle bleiben, sondern du sollst ihn noch am selben Tage begraben. Denn ein Gehängter ist von Gott verflucht, und du sollst dein Land nicht verunreinigen, das dir der Herr, dein Gott, zu eigen geben will. (a) Ga 3:13
 
 ### Chapter 22
 
@@ -11360,7 +11360,7 @@
 
 **[22:29]** so soll der Mann, der bei dem Mädchen gelegen, ihrem Vater fünfzig Lot Silber geben und sie zum Weibe nehmen dafür, dass er sie geschwächt hat; er darf sie nicht verstossen sein Leben lang.
 
-**[22:30]** Niemand soll das Weib seines Vaters heiraten, noch die Decke seines Vaters aufheben. (1) die Lutherbibel hat für 5.Mo. 22,30; 23,1-25 die Zählung 5.Mo. 23,1-26. (2) d.i. seine Stiefmutter. (a) 3Mo 18:8; 5Mo 27:20 
+**[22:30]** Niemand soll das Weib seines Vaters heiraten, noch die Decke seines Vaters aufheben. (1) die Lutherbibel hat für 5.Mo. 22,30; 23,1-25 die Zählung 5.Mo. 23,1-26. (2) d.i. seine Stiefmutter. (a) 3Mo 18:8; 5Mo 27:20
 
 ### Chapter 23
 
@@ -11412,7 +11412,7 @@
 
 **[23:24]** Wenn du in den Weinberg deines Nächsten kommst, so magst du Trauben essen nach Herzenslust, bis du genug hast; aber in dein Geschirr sollst du nichts tun.
 
-**[23:25]** Wenn du in das Kornfeld deines Nächsten kommst, so magst du mit der Hand Ähren abreissen; aber die Sichel sollst du nicht schwingen über das Korn deines Nächsten. 
+**[23:25]** Wenn du in das Kornfeld deines Nächsten kommst, so magst du mit der Hand Ähren abreissen; aber die Sichel sollst du nicht schwingen über das Korn deines Nächsten.
 
 ### Chapter 24
 
@@ -11458,7 +11458,7 @@
 
 **[24:21]** Wenn du in deinem Weinberg Lese hältst, so sollst du nicht Nachlese halten; dem Fremdling, der Waise und der Witwe soll es gehören.
 
-**[24:22]** Du sollst daran denken, dass du Sklave gewesen bist in Ägypten; darum gebiete ich dir, dass du solches tuest. 
+**[24:22]** Du sollst daran denken, dass du Sklave gewesen bist in Ägypten; darum gebiete ich dir, dass du solches tuest.
 
 ### Chapter 25
 
@@ -11498,7 +11498,7 @@
 
 **[25:18]** wie sie dir entgegentraten auf dem Wege und wie sie, als du müde und matt warst, alle, die aus Schwäche hinter dir zurückblieben, von dir abschnitten, ohne Gott zu fürchten.
 
-**[25:19]** Wenn nun der Herr, dein Gott, dir Ruhe schafft vor all deinen Feinden ringsumher, in dem Lande, das dir der Herr, dein Gott, zu eigen geben will, so sollst du auch den Namen der Amalekiter unter dem Himmel austilgen. Das vergiss nicht! (a) 1Sa 15:3 
+**[25:19]** Wenn nun der Herr, dein Gott, dir Ruhe schafft vor all deinen Feinden ringsumher, in dem Lande, das dir der Herr, dein Gott, zu eigen geben will, so sollst du auch den Namen der Amalekiter unter dem Himmel austilgen. Das vergiss nicht! (a) 1Sa 15:3
 
 ### Chapter 26
 
@@ -11538,7 +11538,7 @@
 
 **[26:18]** Der Herr aber hat dich heute erklären lassen, dass du sein Eigentumsvolk sein wollest, wie er dir gesagt hat, und dass du alle seine Gebote halten,
 
-**[26:19]** (a) und dass er dich erhöhen wolle über alle Völker, die er gemacht hat, an Lob, an Ruhm und Preis. (b) und dass du ein dem Herrn, deinem Gott, geweihtes Volk sein wollest, wie er geboten hat. (a) 5Mo 28:1 
+**[26:19]** (a) und dass er dich erhöhen wolle über alle Völker, die er gemacht hat, an Lob, an Ruhm und Preis. (b) und dass du ein dem Herrn, deinem Gott, geweihtes Volk sein wollest, wie er geboten hat. (a) 5Mo 28:1
 
 ### Chapter 27
 
@@ -11592,7 +11592,7 @@
 
 **[27:25]** Verflucht ist, wer sich bestechen lässt, einen unschuldigen Menschen zu töten. Und alles Volk soll sprechen: So sei es! (a) 2Mo 23:8
 
-**[27:26]** Verflucht ist, wer nicht die Worte dieses Gesetzes in Kraft erhält, indem er darnach tut. Und alles Volk soll sprechen: So sei es! 
+**[27:26]** Verflucht ist, wer nicht die Worte dieses Gesetzes in Kraft erhält, indem er darnach tut. Und alles Volk soll sprechen: So sei es!
 
 ### Chapter 28
 
@@ -11730,7 +11730,7 @@
 
 **[28:67]** Am Morgen wirst du sagen: "O wäre es Abend!" und am Abend wirst du sagen: "O wäre es Morgen!" ob der Angst deines Herzens, in der du dich ängstigst, und ob dem, was deine Augen sehen.
 
-**[28:68]** Und der Herr wird dich auf Schiffen wieder nach Ägypten führen, auf dem Wege, von dem ich dir gesagt habe: "Du sollst ihn nie mehr sehen", und ihr müsst euch daselbst euren Feinden als Sklaven und Sklavinnen verkaufen lassen; doch es wird kein Käufer da sein. (a) 5Mo 17:16; Hos 8:13 
+**[28:68]** Und der Herr wird dich auf Schiffen wieder nach Ägypten führen, auf dem Wege, von dem ich dir gesagt habe: "Du sollst ihn nie mehr sehen", und ihr müsst euch daselbst euren Feinden als Sklaven und Sklavinnen verkaufen lassen; doch es wird kein Käufer da sein. (a) 5Mo 17:16; Hos 8:13
 
 ### Chapter 29
 
@@ -11790,7 +11790,7 @@
 
 **[29:28]** Und der Herr riss sie aus ihrem Lande in Zorn und Grimm und grossem Groll und warf sie in ein andres Land, wie jetzt (geschehen ist)."
 
-**[29:29]** Was noch verborgen ist, steht bei dem Herrn, unserm Gott; was aber offenbar ist, gilt uns und unsern Kindern ewiglich, damit wir alle Worte dieses Gesetzes erfüllen. 
+**[29:29]** Was noch verborgen ist, steht bei dem Herrn, unserm Gott; was aber offenbar ist, gilt uns und unsern Kindern ewiglich, damit wir alle Worte dieses Gesetzes erfüllen.
 
 ### Chapter 30
 
@@ -11832,7 +11832,7 @@
 
 **[30:19]** Ich rufe heute Himmel und Erde wider euch zu Zeugen an: Leben und Tod habe ich euch vorgelegt, Segen und Fluch; so erwähle nun das Leben, auf dass du am Leben bleibest, du und deine Nachkommen,
 
-**[30:20]** indem du den Herrn, deinen Gott, liebst, auf sein Wort hörst und dich fest an ihn hältst - denn davon hängt dein Leben ab und dein hohes Alter -, auf dass du in dem Lande wohnen bleibest, das der Herr deinen Vätern Abraham, Isaak und Jakob zu geben geschworen hat. 
+**[30:20]** indem du den Herrn, deinen Gott, liebst, auf sein Wort hörst und dich fest an ihn hältst - denn davon hängt dein Leben ab und dein hohes Alter -, auf dass du in dem Lande wohnen bleibest, das der Herr deinen Vätern Abraham, Isaak und Jakob zu geben geschworen hat.
 
 ### Chapter 31
 
@@ -11894,7 +11894,7 @@
 
 **[31:29]** Denn ich weiss, dass ihr nach meinem Tode arg freveln und abweichen werdet von dem Wege, den ich euch geboten habe. Dann wird euch in den letzten Tagen das Unglück treffen, weil ihr tut, was dem Herrn missfällt, indem ihr ihn durch das Werk eurer Hände reizt.
 
-**[31:30]** Dann sprach Mose alle die Worte dieses Liedes vor der ganzen Gemeinde Israels: 
+**[31:30]** Dann sprach Mose alle die Worte dieses Liedes vor der ganzen Gemeinde Israels:
 
 ### Chapter 32
 
@@ -12000,7 +12000,7 @@
 
 **[32:51]** weil ihr mir inmitten der Israeliten untreu geworden seid beim Haderwasser zu Kades in der Wüste Zin, weil ihr mich nicht als den Heiligen geehrt habt inmitten der Israeliten. (a) 4Mo 20:12
 
-**[32:52]** Denn schauen darfst du zwar das Land, wie es dir gegenüberliegt, aber hineinkommen darfst du nicht in das Land, das ich Israel geben will. 
+**[32:52]** Denn schauen darfst du zwar das Land, wie es dir gegenüberliegt, aber hineinkommen darfst du nicht in das Land, das ich Israel geben will.
 
 ### Chapter 33
 
@@ -12060,7 +12060,7 @@
 
 **[33:28]** So wohnte Israel in Sicherheit, / für sich allein der Quell Jakobs, / in einem Land voll Korn und Wein, / und sein Himmel träufelt Tau. /
 
-**[33:29]** Heil dir, Israel, wer ist dir gleich, / du Volk, dem der Herr Sieg verleiht, / der Schild, der dich schirmt, / und das Schwert, das dich erhöht! / Deine Feinde müssen dir schmeicheln, / du aber trittst auf ihre Höhen. 
+**[33:29]** Heil dir, Israel, wer ist dir gleich, / du Volk, dem der Herr Sieg verleiht, / der Schild, der dich schirmt, / und das Schwert, das dich erhöht! / Deine Feinde müssen dir schmeicheln, / du aber trittst auf ihre Höhen.
 
 ### Chapter 34
 
@@ -12086,7 +12086,7 @@
 
 **[34:11]** (keiner ihm gleich) in all den Zeichen und Wundern, mit denen ihn der Herr gesandt hat, dass er sie im Lande Ägypten am Pharao, an allen seinen Dienern und an seinem ganzen Lande tue,
 
-**[34:12]** und in all (den Erweisen) der starken Hand und in all den grossen und furchtbaren Taten, die Mose vor den Augen ganz Israels getan hat.  
+**[34:12]** und in all (den Erweisen) der starken Hand und in all den grossen und furchtbaren Taten, die Mose vor den Augen ganz Israels getan hat.
 
 ## Joshua
 
@@ -12126,7 +12126,7 @@
 
 **[1:17]** Ganz wie wir Mose gehorsam gewesen sind, so wollen wir auch dir gehorsam sein. Wenn nur der Herr, dein Gott, mit dir ist, wie er mit Mose war!
 
-**[1:18]** Ein jeder, der sich deinem Befehle widersetzt und deinen Worten nicht gehorcht in allem, was du ihm gebietest, der soll sterben; nur sei fest und unentwegt! 
+**[1:18]** Ein jeder, der sich deinem Befehle widersetzt und deinen Worten nicht gehorcht in allem, was du ihm gebietest, der soll sterben; nur sei fest und unentwegt!
 
 ### Chapter 2
 
@@ -12176,7 +12176,7 @@
 
 **[2:23]** Also stiegen die beiden Männer wieder vom Gebirge herab, gingen hinüber und kamen zu Josua, dem Sohne Nuns, und erzählten ihm alles, was ihnen begegnet war.
 
-**[2:24]** Und sie sprachen zu Josua: Der Herr hat das ganze Land in unsre Hand gegeben, und es sind auch alle Bewohner des Landes verzagt vor uns. 
+**[2:24]** Und sie sprachen zu Josua: Der Herr hat das ganze Land in unsre Hand gegeben, und es sind auch alle Bewohner des Landes verzagt vor uns.
 
 ### Chapter 3
 
@@ -12212,7 +12212,7 @@
 
 **[3:16]** da blieb das Wasser, das von oben her kam, stehen; es erhob sich als ein Damm, sehr weit weg bei der Stadt Adam, die seitwärts von Zarthan liegt; das Wasser aber, das zum Meer der Steppe, dem Salzmeer, hinabfloss, verlief sich ganz. Also ging das Volk hindurch gegenüber Jericho.
 
-**[3:17]** Und die Priester, welche die Lade trugen, standen im Jordan still auf dem Trockenen, während ganz Israel trockenen Fusses hindurchging, bis alles Volk den Fluss völlig überschritten hatte. 
+**[3:17]** Und die Priester, welche die Lade trugen, standen im Jordan still auf dem Trockenen, während ganz Israel trockenen Fusses hindurchging, bis alles Volk den Fluss völlig überschritten hatte.
 
 ### Chapter 4
 
@@ -12262,7 +12262,7 @@
 
 **[4:23]** Denn der Herr, euer Gott, liess das Wasser des Jordan vor euch vertrocknen, bis ihr drüben waret, wie der Herr, euer Gott, mit dem Schilfmeer getan hat, das er vor uns vertrocknen liess, bis wir drüben waren -, (a) 2Mo 14:21
 
-**[4:24]** damit alle Völker auf Erden erkennen, dass die Hand des Herrn stark ist, auf dass sie den Herrn, euren Gott, allezeit fürchten. 
+**[4:24]** damit alle Völker auf Erden erkennen, dass die Hand des Herrn stark ist, auf dass sie den Herrn, euren Gott, allezeit fürchten.
 
 ### Chapter 5
 
@@ -12294,7 +12294,7 @@
 
 **[5:14]** Er sprach: Nein, sondern ich bin der Oberste über das Heer des Herrn; eben jetzt bin ich gekommen. Da fiel Josua auf sein Angesicht zur Erde, betete an und sprach zu ihm: Was hat mein Herr seinem Knechte zu sagen?
 
-**[5:15]** Und der Oberste über das Heer des Herrn sprach zu Josua: Ziehe deine Schuhe aus von deinen Füssen; denn die Stätte, da du stehst, ist heilig. Und Josua tat also. (a) 2Mo 3:5 
+**[5:15]** Und der Oberste über das Heer des Herrn sprach zu Josua: Ziehe deine Schuhe aus von deinen Füssen; denn die Stätte, da du stehst, ist heilig. Und Josua tat also. (a) 2Mo 3:5
 
 ### Chapter 6
 
@@ -12350,7 +12350,7 @@
 
 **[6:26]** Damals liess Josua die Leute schwören: Verflucht vor dem Herrn ist der Mann, der sich aufmacht und diese Stadt wieder baut; wenn er ihren Grund legt, koste es ihn seinen erstgebornen, und wenn er ihre Tore setzt, seinen jüngsten Sohn. (1) d.h. Jericho. (a) 1Kön 16:34
 
-**[6:27]** So war der Herr mit Josua, und sein Ruf ging durch das ganze Land. 
+**[6:27]** So war der Herr mit Josua, und sein Ruf ging durch das ganze Land.
 
 ### Chapter 7
 
@@ -12404,7 +12404,7 @@
 
 **[7:25]** Und Josua sprach: Wie hast du uns ins Unglück gebracht! So bringe dich denn der Herr ins Unglück an diesem Tage! Und ganz Israel steinigte ihn.
 
-**[7:26]** Dann errichtete man über ihm einen grossen Steinhaufen, (der dort liegt) bis auf diesen Tag. Der Herr aber liess ab von der Glut seines Zornes. Daher heisst jene Stätte Tal Achor bis auf diesen Tag. (1) der Erzähler hörte aus dem Namen Achor einen Anklang an das hebrW. für "ins Unglück bringen" heraus. - V. 25 
+**[7:26]** Dann errichtete man über ihm einen grossen Steinhaufen, (der dort liegt) bis auf diesen Tag. Der Herr aber liess ab von der Glut seines Zornes. Daher heisst jene Stätte Tal Achor bis auf diesen Tag. (1) der Erzähler hörte aus dem Namen Achor einen Anklang an das hebrW. für "ins Unglück bringen" heraus. - V. 25
 
 ### Chapter 8
 
@@ -12476,7 +12476,7 @@
 
 **[8:34]** Darnach las er alle Worte des Gesetzes vor, den Segen und den Fluch, ganz wie es im Gesetzbuche geschrieben steht.
 
-**[8:35]** Von allem, was Mose geboten hatte, war nicht ein Wort, das Josua der ganzen Gemeinde Israels nicht vorgelesen hätte, auch den Frauen und Kindern und den Fremdlingen, die mit ihnen zogen. 
+**[8:35]** Von allem, was Mose geboten hatte, war nicht ein Wort, das Josua der ganzen Gemeinde Israels nicht vorgelesen hätte, auch den Frauen und Kindern und den Fremdlingen, die mit ihnen zogen.
 
 ### Chapter 9
 
@@ -12532,7 +12532,7 @@
 
 **[9:26]** Und er tat ihnen so und errettete sie aus der Hand der Israeliten, dass sie sie nicht töteten.
 
-**[9:27]** Und Josua machte sie an jenem Tage zu Holzhauern und Wasserschöpfern für die Gemeinde und für den Altar des Herrn an dem Orte, den er erwählen würde, (und so ist es geblieben) bis auf diesen Tag. 
+**[9:27]** Und Josua machte sie an jenem Tage zu Holzhauern und Wasserschöpfern für die Gemeinde und für den Altar des Herrn an dem Orte, den er erwählen würde, (und so ist es geblieben) bis auf diesen Tag.
 
 ### Chapter 10
 
@@ -12620,7 +12620,7 @@
 
 **[10:42]** Und alle diese Könige samt ihrem Lande nahm Josua auf einmal; denn der Herr, der Gott Israels, stritt für Israel.
 
-**[10:43]** Darnach kehrte Josua und ganz Israel mit ihm nach Gilgal ins Lager zurück. 
+**[10:43]** Darnach kehrte Josua und ganz Israel mit ihm nach Gilgal ins Lager zurück.
 
 ### Chapter 11
 
@@ -12668,7 +12668,7 @@
 
 **[11:22]** Es blieben keine Enakiter übrig im Lande Israels; nur in Gaza, in Gath und in Asdod blieben etliche übrig.
 
-**[11:23]** Also nahm Josua das ganze Land ein, ganz wie der Herr zu Mose geredet hatte, und gab es Israel zum Erbbesitz, einem jeden Stamme seinen Teil; und das Land hatte Ruhe vom Kriege. 
+**[11:23]** Also nahm Josua das ganze Land ein, ganz wie der Herr zu Mose geredet hatte, und gab es Israel zum Erbbesitz, einem jeden Stamme seinen Teil; und das Land hatte Ruhe vom Kriege.
 
 ### Chapter 12
 
@@ -12718,7 +12718,7 @@
 
 **[12:23]** der König von Dor im Hügelland von Dor, der König von Gojim in Galiläa,
 
-**[12:24]** der König von Thirza - im ganzen 31 Könige. 
+**[12:24]** der König von Thirza - im ganzen 31 Könige.
 
 ### Chapter 13
 
@@ -12786,7 +12786,7 @@
 
 **[13:32]** Das sind die Gebiete, die Mose ausgeteilt hat in den Gefilden Moabs, jenseits des Jordan, gegenüber Jericho im Osten.
 
-**[13:33]** Dem Stamme Levi aber hat Mose keinen Erbbesitz gegeben; denn der Herr, der Gott Israels, er ist ihr Erbbesitz, wie er ihnen verheissen hat. (a) 4Mo 18:20; 5Mo 10:9 
+**[13:33]** Dem Stamme Levi aber hat Mose keinen Erbbesitz gegeben; denn der Herr, der Gott Israels, er ist ihr Erbbesitz, wie er ihnen verheissen hat. (a) 4Mo 18:20; 5Mo 10:9
 
 ### Chapter 14
 
@@ -12818,7 +12818,7 @@
 
 **[14:14]** Daher ward Hebron der Erbbesitz des Kenisiters Kaleb, des Sohnes Jephunnes, bis auf diesen Tag, weil er unwandelbar zum Herrn, dem Gott Israels, gehalten hatte.
 
-**[14:15]** Hebron aber hiess vor Zeiten Stadt des Arba; der war der grösste Mann unter den Enakitern. Und das Land hatte Ruhe vom Kriege. (1) [Kirjath-Arba] 
+**[14:15]** Hebron aber hiess vor Zeiten Stadt des Arba; der war der grösste Mann unter den Enakitern. Und das Land hatte Ruhe vom Kriege. (1) [Kirjath-Arba]
 
 ### Chapter 15
 
@@ -12946,7 +12946,7 @@
 
 **[15:62]** Nibsan und die Salzstadt und Engedi - sechs Ortschaften mit ihren Gehöften.
 
-**[15:63]** Die Jebusiter aber, welche Jerusalem bewohnten, konnte Juda nicht vertreiben. Und so blieben die Jebusiter in Jerusalem neben Juda wohnen bis auf diesen Tag. 
+**[15:63]** Die Jebusiter aber, welche Jerusalem bewohnten, konnte Juda nicht vertreiben. Und so blieben die Jebusiter in Jerusalem neben Juda wohnen bis auf diesen Tag.
 
 ### Chapter 16
 
@@ -12968,7 +12968,7 @@
 
 **[16:9]** dazu die Ortschaften der Ephraimiten, welche abgesondert mitten in dem Erbbesitz der Manassiten lagen, alle Ortschaften samt ihren Gehöften.
 
-**[16:10]** Sie vertrieben aber die Kanaaniter nicht, die in Geser wohnten. Und so blieben die Kanaaniter inmitten Ephraims wohnen bis auf diesen Tag und wurden fronpflichtig. 
+**[16:10]** Sie vertrieben aber die Kanaaniter nicht, die in Geser wohnten. Und so blieben die Kanaaniter inmitten Ephraims wohnen bis auf diesen Tag und wurden fronpflichtig.
 
 ### Chapter 17
 
@@ -13006,7 +13006,7 @@
 
 **[17:17]** Da sprach Josua zum Hause Joseph, zu Ephraim und Manasse: Du bist ein grosses Volk und hast grosse Kraft. Du sollst nicht nur ein Los haben,
 
-**[17:18]** sondern Bergland soll dir zufallen; wenn es Wald ist, so rode ihn aus, und es sollen seine Ausläufer dein sein. Denn du wirst die Kanaaniter vertreiben, obschon sie eiserne Wagen haben und stark sind. 
+**[17:18]** sondern Bergland soll dir zufallen; wenn es Wald ist, so rode ihn aus, und es sollen seine Ausläufer dein sein. Denn du wirst die Kanaaniter vertreiben, obschon sie eiserne Wagen haben und stark sind.
 
 ### Chapter 18
 
@@ -13064,7 +13064,7 @@
 
 **[18:27]** Rekem, Jirpeel, Tharala,
 
-**[18:28]** Zela, Eleph und Jebus - das ist Jerusalem -, Gibeath und Kirjath - vierzehn Ortschaften mit ihren Gehöften. Das ist der Erbbesitz der Benjaminiten, ihrer einzelnen Geschlechter. 
+**[18:28]** Zela, Eleph und Jebus - das ist Jerusalem -, Gibeath und Kirjath - vierzehn Ortschaften mit ihren Gehöften. Das ist der Erbbesitz der Benjaminiten, ihrer einzelnen Geschlechter.
 
 ### Chapter 19
 
@@ -13168,7 +13168,7 @@
 
 **[19:50]** Nach dem Befehl des Herrn gaben sie ihm die Stadt, die er forderte, nämlich Thimnath-Serah auf dem Gebirge Ephraim; da baute er die Stadt aus und liess sich darin nieder.
 
-**[19:51]** Das sind die Erbteile, die der Priester Eleasar und Josua, der Sohn Nuns, und die Stammeshäupter Israels durch das Los verteilten in Silo vor dem Herrn, am Eingang des heiligen Zeltes. So vollendeten sie die Verteilung des Landes. (a) Jos 18:1 
+**[19:51]** Das sind die Erbteile, die der Priester Eleasar und Josua, der Sohn Nuns, und die Stammeshäupter Israels durch das Los verteilten in Silo vor dem Herrn, am Eingang des heiligen Zeltes. So vollendeten sie die Verteilung des Landes. (a) Jos 18:1
 
 ### Chapter 20
 
@@ -13188,7 +13188,7 @@
 
 **[20:8]** Und jenseits des Jordan, bei Jericho, im Osten, bestimmten sie Bezer in der Wüste, auf der Ebene, aus dem Stamme Ruben und Ramoth in Gilead aus dem Stamme Gad und Golan in Basan aus dem Stamme Manasse. (a) 5Mo 4:41-43
 
-**[20:9]** Das waren die Städte, die für alle Israeliten und für die Fremdlinge, welche unter ihnen wohnten, bestimmt wurden, damit jeder, der jemand aus Versehen erschlüge, dahin fliehe und nicht sterbe durch den Bluträcher, ehe er vor der Gemeinde gestanden. 
+**[20:9]** Das waren die Städte, die für alle Israeliten und für die Fremdlinge, welche unter ihnen wohnten, bestimmt wurden, damit jeder, der jemand aus Versehen erschlüge, dahin fliehe und nicht sterbe durch den Bluträcher, ehe er vor der Gemeinde gestanden.
 
 ### Chapter 21
 
@@ -13280,7 +13280,7 @@
 
 **[21:44]** Und der Herr verschaffte ihnen ringsum Ruhe, ganz wie er ihren Vätern geschworen hatte, und keiner hielt stand vor ihnen von all ihren Feinden; alle ihre Feinde gab der Herr in ihre Hand.
 
-**[21:45]** Nichts fiel dahin von all dem Guten, das der Herr dem Hause Israel versprochen hatte; alles traf ein. (a) Jos 23:14 
+**[21:45]** Nichts fiel dahin von all dem Guten, das der Herr dem Hause Israel versprochen hatte; alles traf ein. (a) Jos 23:14
 
 ### Chapter 22
 
@@ -13350,7 +13350,7 @@
 
 **[22:33]** Da gefiel die Sache den Israeliten wohl, und sie lobten Gott und dachten nicht mehr daran, wider die Rubeniten und Gaditen ins Feld zu ziehen, um das Land zu verheeren, in dem diese wohnten.
 
-**[22:34]** Und die Rubeniten und Gaditen nannten den Altar Ed; denn, (sagten sie,) Zeuge soll er sein zwischen uns, dass Jahwe der (wahre) Gott ist. (1) d.h. Zeuge. (2) vgl. Anm. zu 1Mo 4:26. 
+**[22:34]** Und die Rubeniten und Gaditen nannten den Altar Ed; denn, (sagten sie,) Zeuge soll er sein zwischen uns, dass Jahwe der (wahre) Gott ist. (1) d.h. Zeuge. (2) vgl. Anm. zu 1Mo 4:26.
 
 ### Chapter 23
 
@@ -13384,7 +13384,7 @@
 
 **[23:15]** Wie nun alles Gute eingetroffen ist, das der Herr, euer Gott, euch verheissen hat, so wird der Herr auch alles Böse über euch kommen lassen, bis er euch vertilgt hat aus diesem schönen Lande, das euch der Herr, euer Gott, gegeben hat, (a) 5Mo 28:15-68
 
-**[23:16]** wenn ihr die Bundesordnung, die der Herr, euer Gott, euch gegeben hat, übertretet und hingeht und andern Göttern dient und sie anbetet; und der Zorn des Herrn wird über euch entbrennen, und ihr werdet bald vertilgt sein aus dem schönen Lande, das er euch gegeben hat. 
+**[23:16]** wenn ihr die Bundesordnung, die der Herr, euer Gott, euch gegeben hat, übertretet und hingeht und andern Göttern dient und sie anbetet; und der Zorn des Herrn wird über euch entbrennen, und ihr werdet bald vertilgt sein aus dem schönen Lande, das er euch gegeben hat.
 
 ### Chapter 24
 
@@ -13452,7 +13452,7 @@
 
 **[24:32]** Und die Gebeine Josephs, welche die Israeliten aus Ägypten heraufgebracht hatten, begruben sie zu Sichem in dem Grundstück, das Jakob von den Söhnen Hemors, des Vaters Sichems, um hundert Kesita gekauft und Joseph zum Erbbesitz gegeben hatte. (a) 1Mo 33:19; 50:25; 2Mo 13:19
 
-**[24:33]** Und als Eleasar, der Sohn Aarons, gestorben war, begrub man ihn zu Gibea, der Stadt seines Sohnes Pinehas, die ihm auf dem Gebirge Ephraim gegeben worden war.  
+**[24:33]** Und als Eleasar, der Sohn Aarons, gestorben war, begrub man ihn zu Gibea, der Stadt seines Sohnes Pinehas, die ihm auf dem Gebirge Ephraim gegeben worden war.
 
 ## Judges
 
@@ -13528,7 +13528,7 @@
 
 **[1:35]** So gelang es den Amoritern, in Har-Heres, Ajalon und Saalbim wohnen zu bleiben; doch die Hand des Hauses Joseph lastete immer schwerer auf ihnen, und so wurden sie fronpflichtig.
 
-**[1:36]** Das Gebiet der Edomiter aber erstreckte sich vom Skorpionensteig bis nach Sela und weiter hinauf. 
+**[1:36]** Das Gebiet der Edomiter aber erstreckte sich vom Skorpionensteig bis nach Sela und weiter hinauf.
 
 ### Chapter 2
 
@@ -13576,7 +13576,7 @@
 
 **[2:22]** um Israel durch sie zu prüfen, ob sie getreulich auf den Wegen des Herrn wandeln wie ihre Väter, oder nicht. (a) Ri 3:4
 
-**[2:23]** So liess der Herr diese Völker (im Lande), er vertrieb sie nicht alsobald und gab sie nicht in die Hand Josuas, 
+**[2:23]** So liess der Herr diese Völker (im Lande), er vertrieb sie nicht alsobald und gab sie nicht in die Hand Josuas,
 
 ### Chapter 3
 
@@ -13640,7 +13640,7 @@
 
 **[3:30]** So mussten sich an jenem Tage die Moabiter unter die Hand Israels beugen, und das Land hatte achtzig Jahre lang Ruhe.
 
-**[3:31]** Nach ihm trat Samgar auf, der Sohn Anaths; der schlug die Philister, sechshundert Mann, mit dem Ochsenstecken, und auch er errettete Israel. (a) Ri 5:6 
+**[3:31]** Nach ihm trat Samgar auf, der Sohn Anaths; der schlug die Philister, sechshundert Mann, mit dem Ochsenstecken, und auch er errettete Israel. (a) Ri 5:6
 
 ### Chapter 4
 
@@ -13690,7 +13690,7 @@
 
 **[4:23]** So demütigte Gott an jenem Tage Jabin, den König von Kanaan, vor den Israeliten.
 
-**[4:24]** Und die Hand der Israeliten lastete immer schwerer auf Jabin, dem König von Kanaan, bis sie ihn vernichtet hatten. 
+**[4:24]** Und die Hand der Israeliten lastete immer schwerer auf Jabin, dem König von Kanaan, bis sie ihn vernichtet hatten.
 
 ### Chapter 5
 
@@ -13754,7 +13754,7 @@
 
 **[5:30]** "Sicherlich finden sie, teilen sie Beute - / ein Weib, zwei Weiber für jeden Mann! / ein buntes Gewand, zwei bunte Gewänder als Beute für Sisera! / Ein Tuch, zwei Tücher, schön gewirkt, / für den Hals der Gemahlin!" /
 
-**[5:31]** So müssen umkommen, Herr, all deine Feinde! / Die dich aber lieben, sind wie die Sonne, / wenn sie aufgeht in ihrer Pracht. Und das Land hatte vierzig Jahre lang Ruhe. 
+**[5:31]** So müssen umkommen, Herr, all deine Feinde! / Die dich aber lieben, sind wie die Sonne, / wenn sie aufgeht in ihrer Pracht. Und das Land hatte vierzig Jahre lang Ruhe.
 
 ### Chapter 6
 
@@ -13836,7 +13836,7 @@
 
 **[6:39]** Und Gideon sprach zu Gott: Dein Zorn entbrenne nicht wider mich, wenn ich noch einmal rede; ich möchte es nur noch diesmal mit der Wolle versuchen: die Wolle allein soll trocken bleiben, während auf den Boden ringsum Tau fällt.
 
-**[6:40]** Und Gott fügte es so in jener Nacht: die Wolle allein blieb trocken, während auf dem Boden ringsum Tau lag. 
+**[6:40]** Und Gott fügte es so in jener Nacht: die Wolle allein blieb trocken, während auf dem Boden ringsum Tau lag.
 
 ### Chapter 7
 
@@ -13888,7 +13888,7 @@
 
 **[7:24]** Auch sandte Gideon Boten überall auf das Gebirge Ephraim und liess sagen: Zieht hinunter, den Midianitern entgegen, und schneidet ihnen das Wasser ab bis Beth-Bara am Jordan. Da wurden alle Männer von Ephraim aufgeboten, und sie schnitten ihnen das Wasser ab bis Beth-Bara am Jordan.
 
-**[7:25]** Und sie nahmen die beiden Fürsten der Midianiter, Oreb und Seeb gefangen; und sie töteten den Oreb am Rabenfelsen; und den Seeb töteten sie bei der Wolfskelter. Dann jagten sie den Midianitern nach; die Köpfe Orebs und Seebs aber brachten sie zu Gideon über den Jordan. (1) d.i. Rabe. (2) d.i. Wolf. 
+**[7:25]** Und sie nahmen die beiden Fürsten der Midianiter, Oreb und Seeb gefangen; und sie töteten den Oreb am Rabenfelsen; und den Seeb töteten sie bei der Wolfskelter. Dann jagten sie den Midianitern nach; die Köpfe Orebs und Seebs aber brachten sie zu Gideon über den Jordan. (1) d.i. Rabe. (2) d.i. Wolf.
 
 ### Chapter 8
 
@@ -13960,7 +13960,7 @@
 
 **[8:34]** Und die Israeliten gedachten nicht des Herrn, ihres Gottes, der sie aus der Hand aller ihrer Feinde ringsum errettet hatte,
 
-**[8:35]** und zeigten sich auch nicht dankbar gegen das Haus Jerubbaal-Gideons für all das Gute, das er Israel erwiesen hatte. (a) Ri 9:5 
+**[8:35]** und zeigten sich auch nicht dankbar gegen das Haus Jerubbaal-Gideons für all das Gute, das er Israel erwiesen hatte. (a) Ri 9:5
 
 ### Chapter 9
 
@@ -14076,7 +14076,7 @@
 
 **[9:56]** So vergalt Gott dem Abimelech den Frevel, den er an seinem Vater begangen hatte, indem er seine siebzig Brüder ermordete.
 
-**[9:57]** Auch den Männern von Sichem vergalt Gott alle ihre Freveltaten. So kam über sie der Fluch Jothams, des Sohnes Jerubbaals. 
+**[9:57]** Auch den Männern von Sichem vergalt Gott alle ihre Freveltaten. So kam über sie der Fluch Jothams, des Sohnes Jerubbaals.
 
 ### Chapter 10
 
@@ -14114,7 +14114,7 @@
 
 **[10:17]** Als aber die Ammoniter aufgeboten wurden und sich in Gilead lagerten, versammelten sich die Israeliten und lagerten sich in Mizpa.
 
-**[10:18]** Da sprachen die Leute, die Obersten von Gilead, zueinander: Wer ist der Mann, der den Kampf mit den Ammonitern aufnimmt? Er soll das Haupt über alle Bewohner von Gilead werden. 
+**[10:18]** Da sprachen die Leute, die Obersten von Gilead, zueinander: Wer ist der Mann, der den Kampf mit den Ammonitern aufnimmt? Er soll das Haupt über alle Bewohner von Gilead werden.
 
 ### Chapter 11
 
@@ -14196,7 +14196,7 @@
 
 **[11:39]** Nach zwei Monaten kam sie wieder zu ihrem Vater, und er tat ihr, wie er gelobt hatte. Sie hatte aber nie mit einem Manne verkehrt. Daher ward es Brauch in Israel:
 
-**[11:40]** Jahr um Jahr gehen die Töchter Israels hin, die Tochter Jephthas, des Gileaditers, zu besingen, vier Tage im Jahr. 
+**[11:40]** Jahr um Jahr gehen die Töchter Israels hin, die Tochter Jephthas, des Gileaditers, zu besingen, vier Tage im Jahr.
 
 ### Chapter 12
 
@@ -14228,7 +14228,7 @@
 
 **[12:14]** Der hatte vierzig Söhne und dreissig Enkel, die auf siebzig Eselsfüllen ritten. Er richtete Israel acht Jahre lang.
 
-**[12:15]** Darnach starb Abdon, der Sohn Hillels, aus Pireathon und wurde in Pireathon im Lande Ephraim auf dem Gebirge von Saalim begraben. 
+**[12:15]** Darnach starb Abdon, der Sohn Hillels, aus Pireathon und wurde in Pireathon im Lande Ephraim auf dem Gebirge von Saalim begraben.
 
 ### Chapter 13
 
@@ -14280,7 +14280,7 @@
 
 **[13:24]** Und das Weib gebar einen Sohn und nannte ihn Simson. Der Knabe aber wuchs heran, und der Herr segnete ihn.
 
-**[13:25]** Und der Geist des Herrn fing an, ihn zu treiben im Lager Dans zwischen Zorea und Esthaol. 
+**[13:25]** Und der Geist des Herrn fing an, ihn zu treiben im Lager Dans zwischen Zorea und Esthaol.
 
 ### Chapter 14
 
@@ -14322,7 +14322,7 @@
 
 **[14:19]** Dann kam der Geist des Herrn über ihn, und er ging hinab nach Askalon und erschlug dort dreissig Mann. Diesen nahm er ihre Gewänder ab und gab denen, die das Rätsel gelöst hatten, die Feierkleider. Und es entbrannte sein Zorn, und er ging hinauf in seines Vaters Haus.
 
-**[14:20]** Simsons Weib aber ward seinem Gefährten gegeben, der sein Brautführer gewesen war. 
+**[14:20]** Simsons Weib aber ward seinem Gefährten gegeben, der sein Brautführer gewesen war.
 
 ### Chapter 15
 
@@ -14364,7 +14364,7 @@
 
 **[15:19]** Da spaltete Gott die Höhlung im "Kinnbacken", sodass Wasser daraus hervorquoll; und als er getrunken hatte, kehrten seine Lebensgeister zurück, und er lebte wieder auf. Darum nennt man sie bis auf den heutigen Tag "Quelle des Rufers bei Lehi".
 
-**[15:20]** Und er richtete Israel in den Tagen der Philister zwanzig Jahre lang. 
+**[15:20]** Und er richtete Israel in den Tagen der Philister zwanzig Jahre lang.
 
 ### Chapter 16
 
@@ -14428,7 +14428,7 @@
 
 **[16:30]** und indem Simson dachte: Sei's denn, dass ich mit den Philistern sterbe! neigte er sich mit aller Macht. Da fiel das Haus auf die Fürsten und auf alles Volk, das darin war, sodass der Toten, die er in seinem Tode tötete, mehr waren als derer, die er in seinem Leben getötet hatte.
 
-**[16:31]** Hierauf kamen seine Brüder und alle seine Verwandten herab, hoben ihn auf und trugen ihn hinauf und begruben ihn zwischen Zorea und Esthaol im Grabe seines Vaters Manoah. Er hatte aber Israel zwanzig Jahre lang gerichtet. 
+**[16:31]** Hierauf kamen seine Brüder und alle seine Verwandten herab, hoben ihn auf und trugen ihn hinauf und begruben ihn zwischen Zorea und Esthaol im Grabe seines Vaters Manoah. Er hatte aber Israel zwanzig Jahre lang gerichtet.
 
 ### Chapter 17
 
@@ -14456,7 +14456,7 @@
 
 **[17:12]** Und Micha füllte dem Leviten die Hand, und so wurde der Jüngling sein Priester und blieb im Hause Michas. (1) vgl. Anm. zu 2Mo 28:41.
 
-**[17:13]** Und Micha dachte: Nun weiss ich, dass der Herr mir wohltun wird, weil der Levit mein Priester geworden ist. 
+**[17:13]** Und Micha dachte: Nun weiss ich, dass der Herr mir wohltun wird, weil der Levit mein Priester geworden ist.
 
 ### Chapter 18
 
@@ -14520,7 +14520,7 @@
 
 **[18:30]** Darnach stellten die Daniten das Bild für sich auf, und Jonathan, der Sohn Gersoms, des Sohnes Moses, und seine Söhne waren Priester des Stammes der Daniten bis zu der Zeit, da die Bevölkerung in die Verbannung wanderte. (a) 2Mo 2:22; 1Kön 12:29; Am 8:14
 
-**[18:31]** Und sie stellten das Bild für sich auf, das Micha gemacht hatte, (und es blieb dort,) solange das Haus Gottes in Silo bestand. (a) Ri 21:19; Jos 18:1; 1Sa 1:3 9 
+**[18:31]** Und sie stellten das Bild für sich auf, das Micha gemacht hatte, (und es blieb dort,) solange das Haus Gottes in Silo bestand. (a) Ri 21:19; Jos 18:1; 1Sa 1:3 9
 
 ### Chapter 19
 
@@ -14582,7 +14582,7 @@
 
 **[19:29]** Und als er heimkam, nahm er das Messer, ergriff seine Nebenfrau und zerstückte sie Glied um Glied in zwölf Stücke und sandte diese in alle Gaue Israels.
 
-**[19:30]** Und er befahl den Männern, die er aussandte: So sollt ihr zu allen Männern Israels sprechen: Ist dergleichen je geschehen seit der Zeit, da die Israeliten aus dem Lande Ägypten heraufgezogen sind, bis auf diesen Tag? Überlegt es euch, beratet und redet! Und ein jeder, der es sah, sprach: Dergleichen ist nicht geschehen noch gesehen worden seit der Zeit, da die Israeliten aus dem Lande Ägypten heraufgezogen sind, bis auf diesen Tag. 
+**[19:30]** Und er befahl den Männern, die er aussandte: So sollt ihr zu allen Männern Israels sprechen: Ist dergleichen je geschehen seit der Zeit, da die Israeliten aus dem Lande Ägypten heraufgezogen sind, bis auf diesen Tag? Überlegt es euch, beratet und redet! Und ein jeder, der es sah, sprach: Dergleichen ist nicht geschehen noch gesehen worden seit der Zeit, da die Israeliten aus dem Lande Ägypten heraufgezogen sind, bis auf diesen Tag.
 
 ### Chapter 20
 
@@ -14680,7 +14680,7 @@
 
 **[20:47]** Sechshundert Mann aber wandten sich und flohen gegen die Wüste hin zum Felsen Rimmon, und sie blieben vier Monate beim Felsen Rimmon.
 
-**[20:48]** Und die Männer Israels kehrten zu den Benjaminiten zurück und schlugen sie mit der Schärfe des Schwertes, Menschen sowohl als Vieh, überhaupt alles, was sich vorfand; auch verbrannten sie alle Städte, die sich vorfanden. 
+**[20:48]** Und die Männer Israels kehrten zu den Benjaminiten zurück und schlugen sie mit der Schärfe des Schwertes, Menschen sowohl als Vieh, überhaupt alles, was sich vorfand; auch verbrannten sie alle Städte, die sich vorfanden.
 
 ### Chapter 21
 
@@ -14732,7 +14732,7 @@
 
 **[21:24]** Jetzt gingen auch die Israeliten von dort auseinander, ein jeder zu seinem Stamm und zu seinem Geschlecht, und sie zogen von dannen, ein jeder in seinen Erbbesitz.
 
-**[21:25]** Zu jener Zeit gab es noch keinen König in Israel; ein jeder tat, was ihn recht dünkte.  
+**[21:25]** Zu jener Zeit gab es noch keinen König in Israel; ein jeder tat, was ihn recht dünkte.
 
 ## Ruth
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** Reich bin ich ausgezogen, und arm hat mich der Herr zurückgebracht. Warum heisst ihr mich Naemi, da doch der Herr gegen mich gezeugt, der Allmächtige mir Übles beschieden hat?
 
-**[1:22]** So kehrte Naemi mit der Moabiterin Ruth, ihrer Sohnsfrau, aus dem Gefilde Moabs zurück, und da sie in Bethlehem ankamen, begann gerade die Gerstenernte. 
+**[1:22]** So kehrte Naemi mit der Moabiterin Ruth, ihrer Sohnsfrau, aus dem Gefilde Moabs zurück, und da sie in Bethlehem ankamen, begann gerade die Gerstenernte.
 
 ### Chapter 2
 
@@ -14828,7 +14828,7 @@
 
 **[2:22]** Naemi erwiderte ihrer Sohnsfrau Ruth: Es ist gut, meine Tochter, wenn du mit seinen Mägden hinausgehst; so kann man dir auf einem andern Acker doch nichts antun.
 
-**[2:23]** So hielt sie sich beim Lesen zu den Mägden des Boas, bis die Gerstenernte und die Weizenernte zu Ende war; und sie wohnte bei ihrer Schwiegermutter. 
+**[2:23]** So hielt sie sich beim Lesen zu den Mägden des Boas, bis die Gerstenernte und die Weizenernte zu Ende war; und sie wohnte bei ihrer Schwiegermutter.
 
 ### Chapter 3
 
@@ -14866,7 +14866,7 @@
 
 **[3:17]** und sprach: Diese sechs Mass Gerste hat er mir gegeben; denn er sagte: Du sollst nicht leer zu deiner Schwiegermutter heimkommen.
 
-**[3:18]** Sie aber sprach: Bleibe jetzt ruhig hier, meine Tochter, bis du erfährst, wie die Sache ausfällt; denn der Mann wird nicht ruhen, bis er, und zwar heute noch, die Sache zu Ende geführt hat. 
+**[3:18]** Sie aber sprach: Bleibe jetzt ruhig hier, meine Tochter, bis du erfährst, wie die Sache ausfällt; denn der Mann wird nicht ruhen, bis er, und zwar heute noch, die Sache zu Ende geführt hat.
 
 ### Chapter 4
 
@@ -14912,7 +14912,7 @@
 
 **[4:21]** Salmon zeugte Boas, Boas zeugte Obed.
 
-**[4:22]** Obed zeugte Isai. Isai zeugte David.  
+**[4:22]** Obed zeugte Isai. Isai zeugte David.
 
 ## I Samuel
 
@@ -14972,7 +14972,7 @@
 
 **[1:27]** Um diesen Knaben habe ich gebetet; nun hat der Herr mir gewährt, was ich von ihm erflehte.
 
-**[1:28]** Darum leihe auch ich ihn dem Herrn; für sein ganzes Leben ist er dem Herrn geliehen. Und sie liess ihn daselbst vor dem Herrn. 
+**[1:28]** Darum leihe auch ich ihn dem Herrn; für sein ganzes Leben ist er dem Herrn geliehen. Und sie liess ihn daselbst vor dem Herrn.
 
 ### Chapter 2
 
@@ -15046,7 +15046,7 @@
 
 **[2:35]** Ich aber will mir einen treuen Priester bestellen, der nach meinem Herzen und nach meinem Sinne tut; dem will ich ein dauerndes Haus bauen, und der soll immerdar vor meinem Gesalbten ein und aus gehen. (a) 1Kön 2:35
 
-**[2:36]** Und wer dann noch von deinem Hause übrig ist, der wird kommen und sich vor ihm niederwerfen um ein Geldstück oder einen Brotfladen und wird sprechen: Lass mich doch zu einem Priesteramt zu, damit ich einen Bissen Brot zu essen habe. 
+**[2:36]** Und wer dann noch von deinem Hause übrig ist, der wird kommen und sich vor ihm niederwerfen um ein Geldstück oder einen Brotfladen und wird sprechen: Lass mich doch zu einem Priesteramt zu, damit ich einen Bissen Brot zu essen habe.
 
 ### Chapter 3
 
@@ -15090,7 +15090,7 @@
 
 **[3:20]** Und ganz Israel, von Dan bis Beerseba, erkannte, dass Samuel damit betraut war, Prophet des Herrn zu sein.
 
-**[3:21]** Und der Herr fuhr fort, in Silo zu erscheinen; denn der Herr offenbarte sich Samuel. Eli aber war sehr alt geworden, und der Wandel seiner Söhne vor dem Herrn wurde immer schlechter. 
+**[3:21]** Und der Herr fuhr fort, in Silo zu erscheinen; denn der Herr offenbarte sich Samuel. Eli aber war sehr alt geworden, und der Wandel seiner Söhne vor dem Herrn wurde immer schlechter.
 
 ### Chapter 4
 
@@ -15136,7 +15136,7 @@
 
 **[4:21]** und sie hiess den Knaben Ikabod, indem sie sprach: "Dahin ist die Herrlichkeit aus Israel!" - weil die Lade Gottes genommen war, und um ihres Schwiegervaters und ihres Mannes willen. (1) der Name bed. vlt. "Nicht-Herrlichkeit".
 
-**[4:22]** Und sie sprach: Dahin ist die Herrlichkeit aus Israel, denn die Lade Gottes ist genommen! 
+**[4:22]** Und sie sprach: Dahin ist die Herrlichkeit aus Israel, denn die Lade Gottes ist genommen!
 
 ### Chapter 5
 
@@ -15162,7 +15162,7 @@
 
 **[5:11]** So sandten sie hin und versammelten alle Fürsten der Philister und sprachen: Schicket die Lade des Gottes Israels wieder fort, dass sie heimkehre und nicht uns und unser Volk töte! Denn es war eine tödliche Bestürzung über die Stadt gekommen; die Hand Gottes lastete schwer auf ihr.
 
-**[5:12]** Die Leute aber, die nicht starben, wurden mit Beulen geschlagen, und das Wehgeschrei der Stadt stieg empor zum Himmel. 
+**[5:12]** Die Leute aber, die nicht starben, wurden mit Beulen geschlagen, und das Wehgeschrei der Stadt stieg empor zum Himmel.
 
 ### Chapter 6
 
@@ -15206,7 +15206,7 @@
 
 **[6:20]** Und die Leute von Beth-Semes sprachen: Wer kann bestehen vor dem Herrn, diesem heiligen Gott? und zu wem soll er von uns weg ziehen?
 
-**[6:21]** Und sie sandten Boten zu den Bewohnern von Kirjath-Jearim und liessen ihnen sagen: Die Philister haben die Lade des Herrn zurückgebracht; kommt herab und holt sie zu euch hinauf. 
+**[6:21]** Und sie sandten Boten zu den Bewohnern von Kirjath-Jearim und liessen ihnen sagen: Die Philister haben die Lade des Herrn zurückgebracht; kommt herab und holt sie zu euch hinauf.
 
 ### Chapter 7
 
@@ -15242,7 +15242,7 @@
 
 **[7:16]** er zog Jahr für Jahr umher und machte die Runde über Bethel, Gilgal und Mizpa und sprach Israel Recht an allen diesen Städten.
 
-**[7:17]** Dann kehrte er zurück nach Rama; denn dort war sein Haus, und dort sprach er Israel Recht. Und er baute daselbst dem Herrn einen Altar. 
+**[7:17]** Dann kehrte er zurück nach Rama; denn dort war sein Haus, und dort sprach er Israel Recht. Und er baute daselbst dem Herrn einen Altar.
 
 ### Chapter 8
 
@@ -15288,7 +15288,7 @@
 
 **[8:21]** Als Samuel alle Worte des Volkes gehört hatte, trug er sie dem Herrn vor.
 
-**[8:22]** Der Herr aber sprach zu Samuel: Willfahre ihrem Begehren und gib ihnen einen König. Darnach sprach Samuel zu den Männern Israels: Geht heim, ein jeder in seine Stadt. 
+**[8:22]** Der Herr aber sprach zu Samuel: Willfahre ihrem Begehren und gib ihnen einen König. Darnach sprach Samuel zu den Männern Israels: Geht heim, ein jeder in seine Stadt.
 
 ### Chapter 9
 
@@ -15344,7 +15344,7 @@
 
 **[9:26]** und er legte sich schlafen. Als aber die Morgenröte emporstieg, rief Samuel dem Saul nach dem Dach hinauf: Steh auf! ich will dich geleiten. Da erhob sich Saul, und sie beide, er und Samuel, gingen hinaus.
 
-**[9:27]** Während sie nun am Ende der Stadt hinabstiegen, sprach Samuel zu Saul: Sage dem Knechte, er solle uns vorausgehen; du aber stehe jetzt stille, dass ich dir kundtue, was Gott gesagt hat. 
+**[9:27]** Während sie nun am Ende der Stadt hinabstiegen, sprach Samuel zu Saul: Sage dem Knechte, er solle uns vorausgehen; du aber stehe jetzt stille, dass ich dir kundtue, was Gott gesagt hat.
 
 ### Chapter 10
 
@@ -15400,7 +15400,7 @@
 
 **[10:26]** Auch Saul ging heim nach Gibea, und mit ihm die Tapfern, denen Gott das Herz gerührt hatte.
 
-**[10:27]** Einige Nichtswürdige aber sprachen: Was kann der uns helfen? und sie verachteten ihn und brachten ihm kein Geschenk. 
+**[10:27]** Einige Nichtswürdige aber sprachen: Was kann der uns helfen? und sie verachteten ihn und brachten ihm kein Geschenk.
 
 ### Chapter 11
 
@@ -15432,7 +15432,7 @@
 
 **[11:14]** Und Samuel sprach zum Volke: Auf, lasst uns nach Gilgal gehen und dort das Königtum erneuern!
 
-**[11:15]** Da zog alles Volk nach Gilgal, und sie machten dort Saul zum König vor dem Herrn in Gilgal und schlachteten dort Heilsopfer vor dem Herrn. Und Saul und alle Männer Israels waren dort gar fröhlich. 
+**[11:15]** Da zog alles Volk nach Gilgal, und sie machten dort Saul zum König vor dem Herrn in Gilgal und schlachteten dort Heilsopfer vor dem Herrn. Und Saul und alle Männer Israels waren dort gar fröhlich.
 
 ### Chapter 12
 
@@ -15484,7 +15484,7 @@
 
 **[12:24]** Nur fürchtet den Herrn und dient ihm treulich mit ganzem Herzen; denn seht doch, wie grosse Dinge er an euch getan hat!
 
-**[12:25]** Wenn ihr aber Böses tut, so werdet ihr und euer König weggerafft. 
+**[12:25]** Wenn ihr aber Böses tut, so werdet ihr und euer König weggerafft.
 
 ### Chapter 13
 
@@ -15532,7 +15532,7 @@
 
 **[13:22]** So fand sich denn am Tage der Schlacht bei Michmas kein Schwert noch Spiess in der Hand des ganzen Volkes, das bei Saul und Jonathan war; Saul aber und seinem Sohne Jonathan waren sie zur Hand.
 
-**[13:23]** Ein Posten der Philister aber rückte nach dem Passe von Michmas vor. 
+**[13:23]** Ein Posten der Philister aber rückte nach dem Passe von Michmas vor.
 
 ### Chapter 14
 
@@ -15638,7 +15638,7 @@
 
 **[14:51]** Kis nämlich, der Vater Sauls, und Ner, der Vater Abners, waren die Söhne Abiels.
 
-**[14:52]** Aber der Krieg gegen die Philister war heftig, solange Saul lebte; und wenn Saul irgendeinen tapfern und kriegstüchtigen Mann sah, so zog er ihn an sich. 
+**[14:52]** Aber der Krieg gegen die Philister war heftig, solange Saul lebte; und wenn Saul irgendeinen tapfern und kriegstüchtigen Mann sah, so zog er ihn an sich.
 
 ### Chapter 15
 
@@ -15684,7 +15684,7 @@
 
 **[15:21]** Aber das Volk hat Schafe und Rinder von der Beute genommen, das Beste von dem, was dem Bann verfallen war, um es dem Herrn, deinem Gott, in Gilgal zu opfern.
 
-**[15:22]** Samuel aber sprach: Hat der Herr Wohlgefallen an Brandopfern und Schlachtopfern gleichwie am Gehorsam gegen den Herrn? Siehe, Gehorsam ist besser als Opfer, Aufmerken besser als Fett von Widdern. (a) Ps 50:7-14; Hos 6:6; Am 5:22; Mt 9:13 
+**[15:22]** Samuel aber sprach: Hat der Herr Wohlgefallen an Brandopfern und Schlachtopfern gleichwie am Gehorsam gegen den Herrn? Siehe, Gehorsam ist besser als Opfer, Aufmerken besser als Fett von Widdern. (a) Ps 50:7-14; Hos 6:6; Am 5:22; Mt 9:13
 
 **[15:23]** Denn Ungehorsam ist gerade so Sünde wie Wahrsagerei, und Widerspenstigkeit ist gerade so Frevel wie Abgötterei. Weil du das Wort des Herrn verworfen, hat er dich verworfen als König.
 
@@ -15758,7 +15758,7 @@
 
 **[16:22]** Und Saul sandte an Isai und liess ihm sagen: Lass doch David in meinem Dienste bleiben, denn er gefällt mir wohl.
 
-**[16:23]** Wenn nun der böse Geist über Saul kam, nahm David die Laute und spielte; dann wurde es Saul leichter und besser, und der böse Geist wich von ihm. 
+**[16:23]** Wenn nun der böse Geist über Saul kam, nahm David die Laute und spielte; dann wurde es Saul leichter und besser, und der böse Geist wich von ihm.
 
 ### Chapter 17
 
@@ -15876,7 +15876,7 @@
 
 **[17:57]** Als nun David nach dem Siege über den Philister zurückkam, nahm ihn Abner und führte ihn vor Saul, während er noch den Kopf des Philisters in der Hand hielt.
 
-**[17:58]** Und Saul sprach zu ihm: Wessen Sohn bist du, Knabe? David sprach: Der Sohn deines Knechtes Isai aus Bethlehem. 
+**[17:58]** Und Saul sprach zu ihm: Wessen Sohn bist du, Knabe? David sprach: Der Sohn deines Knechtes Isai aus Bethlehem.
 
 ### Chapter 18
 
@@ -15938,7 +15938,7 @@
 
 **[18:29]** da fürchtete er sich noch mehr vor David. So wurde Saul Davids Feind für alle Zeit.
 
-**[18:30]** Und die Fürsten der Philister zogen zu Felde; sooft sie aber auszogen, hatte David mehr Glück als alle Diener Sauls. So wurde sein Name hochgeehrt. 
+**[18:30]** Und die Fürsten der Philister zogen zu Felde; sooft sie aber auszogen, hatte David mehr Glück als alle Diener Sauls. So wurde sein Name hochgeehrt.
 
 ### Chapter 19
 
@@ -15988,7 +15988,7 @@
 
 **[19:23]** Als er nun von dort nach dem Prophetenhause in Rama ging, kam der Geist Gottes auch über ihn, und er war auf dem ganzen Wege in Verzückung, bis er zum Prophetenhause in Rama kam. (a) 1Sa 10:11
 
-**[19:24]** Und auch er zog seine Kleider aus, und auch er war in Verzückung vor Samuel und lag nackt da jenen ganzen Tag und die ganze Nacht. Daher sagt man: Ist Saul auch unter den Propheten? 
+**[19:24]** Und auch er zog seine Kleider aus, und auch er war in Verzückung vor Samuel und lag nackt da jenen ganzen Tag und die ganze Nacht. Daher sagt man: Ist Saul auch unter den Propheten?
 
 ### Chapter 20
 
@@ -16074,7 +16074,7 @@
 
 **[20:41]** Während nun der Bursche heimging, erhob sich David neben dem Erdhaufen, warf sich auf sein Angesicht zur Erde und verneigte sich dreimal; und sie küssten einander und weinten umeinander über die Massen.
 
-**[20:42]** Und Jonathan sprach zu David: Zieh hin in Frieden! Was wir beide einander im Namen des Herrn geschworen haben - da ist der Herr (Zeuge) zwischen mir und dir, zwischen meinen Nachkommen und deinen Nachkommen ewiglich! 
+**[20:42]** Und Jonathan sprach zu David: Zieh hin in Frieden! Was wir beide einander im Namen des Herrn geschworen haben - da ist der Herr (Zeuge) zwischen mir und dir, zwischen meinen Nachkommen und deinen Nachkommen ewiglich!
 
 ### Chapter 21
 
@@ -16106,7 +16106,7 @@
 
 **[21:14]** daher stellte er sich wahnsinnig und tat unter ihren Händen wie ein Rasender, trommelte gegen die Türflügel und liess den Geifer in den Bart triefen.
 
-**[21:15]** Da sprach Achis zu seinen Dienern: Ihr seht doch, dass der Mann verrückt ist! Warum bringt ihr ihn zu mir? Habe ich etwa nicht Verrückte genug, dass ihr den da herbringt, mich mit seiner Verrücktheit zu belästigen? Der soll in mein Haus kommen? 
+**[21:15]** Da sprach Achis zu seinen Dienern: Ihr seht doch, dass der Mann verrückt ist! Warum bringt ihr ihn zu mir? Habe ich etwa nicht Verrückte genug, dass ihr den da herbringt, mich mit seiner Verrücktheit zu belästigen? Der soll in mein Haus kommen?
 
 ### Chapter 22
 
@@ -16154,7 +16154,7 @@
 
 **[22:22]** David aber sprach zu Abjathar: Ich wusste schon an jenem Tage, dass der Edomiter Doeg, der ja dort war, es Saul verraten würde. Ich bin schuld am Tode aller aus deines Vaters Hause.
 
-**[22:23]** Bleibe bei mir und fürchte dich nicht! Denn wer dir nach dem Leben trachtet, der trachtet mir nach dem Leben; bei mir bist du in guter Hut. 
+**[22:23]** Bleibe bei mir und fürchte dich nicht! Denn wer dir nach dem Leben trachtet, der trachtet mir nach dem Leben; bei mir bist du in guter Hut.
 
 ### Chapter 23
 
@@ -16212,7 +16212,7 @@
 
 **[23:27]** kam auf einmal ein Bote zu Saul und sprach: Komm eilends; denn die Philister sind ins Land eingefallen.
 
-**[23:28]** Da stand Saul von der Verfolgung Davids ab und zog den Philistern entgegen. Daher heisst man jenen Ort "Fels des Entschlüpfens". 
+**[23:28]** Da stand Saul von der Verfolgung Davids ab und zog den Philistern entgegen. Daher heisst man jenen Ort "Fels des Entschlüpfens".
 
 **[23:29]** 
 
@@ -16260,7 +16260,7 @@
 
 **[24:21]** Und nun siehe, ich weiss wohl, dass du König werden wirst und dass das Königtum über Israel in deiner Hand Bestand haben wird.
 
-**[24:22]** So schwöre mir denn bei dem Herrn, dass du meine Nachkommen nach meinem Tode nicht ausrotten und meinen Namen aus meines Vaters Hause nicht austilgen wirst. Und David schwur Saul. Dann zog Saul heim, David aber und seine Leute stiegen auf die Bergfeste. 
+**[24:22]** So schwöre mir denn bei dem Herrn, dass du meine Nachkommen nach meinem Tode nicht ausrotten und meinen Namen aus meines Vaters Hause nicht austilgen wirst. Und David schwur Saul. Dann zog Saul heim, David aber und seine Leute stiegen auf die Bergfeste.
 
 ### Chapter 25
 
@@ -16350,7 +16350,7 @@
 
 **[25:43]** Die Ahinoam aber hatte sich David aus Jesreel geholt. So wurden alle beide seine Frauen.
 
-**[25:44]** Saul aber hatte seine Tochter Michal, das Weib Davids, dem Palti, dem Sohne des Lais von Gallim, gegeben. 
+**[25:44]** Saul aber hatte seine Tochter Michal, das Weib Davids, dem Palti, dem Sohne des Lais von Gallim, gegeben.
 
 ### Chapter 26
 
@@ -16402,7 +16402,7 @@
 
 **[26:24]** Und siehe, wie heute dein Leben mir wert gewesen ist, so möge mein Leben dem Herrn wert sein, und er möge mich aus aller Not erretten!
 
-**[26:25]** Da sprach Saul zu David: Gesegnet seist du, mein Sohn David! Gewiss wirst du es vollbringen und obsiegen. Darnach ging David seines Weges, Saul aber kehrte zurück an seinen Ort. 
+**[26:25]** Da sprach Saul zu David: Gesegnet seist du, mein Sohn David! Gewiss wirst du es vollbringen und obsiegen. Darnach ging David seines Weges, Saul aber kehrte zurück an seinen Ort.
 
 ### Chapter 27
 
@@ -16428,7 +16428,7 @@
 
 **[27:11]** Männer und Frauen aber brachte David deshalb nicht lebendig nach Gath, weil er dachte: Sie könnten gegen uns aussagen und sprechen: "So und so hat's David getrieben." Und das war sein Verfahren, solange er im Lande der Philister wohnte.
 
-**[27:12]** Achis aber traute David, weil er dachte: Er hat sich bei seinem Volke, bei Israel, gründlich verhasst gemacht; darum wird er für immer mein Untertan bleiben. 
+**[27:12]** Achis aber traute David, weil er dachte: Er hat sich bei seinem Volke, bei Israel, gründlich verhasst gemacht; darum wird er für immer mein Untertan bleiben.
 
 ### Chapter 28
 
@@ -16480,7 +16480,7 @@
 
 **[28:24]** Das Weib aber hatte ein gemästetes Kalb im Hause; das schlachtete sie eilends. Dann nahm sie Mehl, knetete es und buk daraus Brotfladen;
 
-**[28:25]** das setzte sie Saul und seinen Dienern vor. Und als sie gegessen hatten, standen sie auf und gingen noch in selbiger Nacht davon. 
+**[28:25]** das setzte sie Saul und seinen Dienern vor. Und als sie gegessen hatten, standen sie auf und gingen noch in selbiger Nacht davon.
 
 ### Chapter 29
 
@@ -16504,7 +16504,7 @@
 
 **[29:10]** So mache dich nun morgen frühe auf, du und die Knechte deines Herrn, die mit dir gekommen sind, und zieht an den Ort, den ich euch angewiesen habe, und denke nicht an etwas Böses; denn du bist mir lieb - macht euch also morgen frühe auf und ziehet ab, sobald es Tag wird.
 
-**[29:11]** Da machten sich David und seine Leute frühmorgens auf den Weg, um in das Land der Philister zurückzukehren. Die Philister aber zogen hinauf nach Jesreel. 
+**[29:11]** Da machten sich David und seine Leute frühmorgens auf den Weg, um in das Land der Philister zurückzukehren. Die Philister aber zogen hinauf nach Jesreel.
 
 ### Chapter 30
 
@@ -16568,7 +16568,7 @@
 
 **[30:30]** denen in Horma, denen in Bor-Asan, denen in Athach
 
-**[30:31]** und denen in Hebron und überallhin, wo David mit seinen Leuten umhergezogen war. 
+**[30:31]** und denen in Hebron und überallhin, wo David mit seinen Leuten umhergezogen war.
 
 ### Chapter 31
 
@@ -16596,7 +16596,7 @@
 
 **[31:12]** machten sich alle streitbaren Männer auf, gingen die ganze Nacht hindurch, nahmen den Leichnam Sauls und die Leichen seiner Söhne von der Mauer von Bethsan weg, brachten sie nach Jabes und verbrannten sie dort. (1) vlt. stand hier ursprünglich für "verbrannten sie dort": "hielten ihnen dort die Totenklage".
 
-**[31:13]** Dann nahmen sie ihre Gebeine und begruben sie unter der Tamariske in Jabes und fasteten sieben Tage lang.  
+**[31:13]** Dann nahmen sie ihre Gebeine und begruben sie unter der Tamariske in Jabes und fasteten sieben Tage lang.
 
 ## II Samuel
 
@@ -16654,7 +16654,7 @@
 
 **[1:26]** Es ist mir leid um dich, mein Bruder Jonathan, / du warst mir so hold! / Deine Liebe war mir köstlicher als Frauenliebe! /
 
-**[1:27]** Wie sind die Helden gefallen, / dahin die Rüstzeuge des Krieges! 
+**[1:27]** Wie sind die Helden gefallen, / dahin die Rüstzeuge des Krieges!
 
 ### Chapter 2
 
@@ -16720,7 +16720,7 @@
 
 **[2:31]** Die Knechte Davids aber hatten von den Benjaminiten, unter den Leuten Abners, 360 Mann erschlagen.
 
-**[2:32]** Und sie hoben Asahel auf und begruben ihn in seines Vaters Grab zu Bethlehem. Dann marschierten Joab und seine Leute die ganze Nacht, und sie kamen nach Hebron, als der Tag anbrach. 
+**[2:32]** Und sie hoben Asahel auf und begruben ihn in seines Vaters Grab zu Bethlehem. Dann marschierten Joab und seine Leute die ganze Nacht, und sie kamen nach Hebron, als der Tag anbrach.
 
 ### Chapter 3
 
@@ -16800,7 +16800,7 @@
 
 **[3:38]** Und der König sprach zu seinen Knechten: Wisst ihr nicht, dass heute ein Fürst und Grosser in Israel gefallen ist?
 
-**[3:39]** Ich bin heute zu schwach und zu gering für die Königsherrschaft, und diese Männer, die Söhne der Zeruja, sind mir durch Gewalttat überlegen. Der Herr vergelte dem, der die Untat verübt hat, nach seiner Untat! (a) 1Kön 2:28-34 
+**[3:39]** Ich bin heute zu schwach und zu gering für die Königsherrschaft, und diese Männer, die Söhne der Zeruja, sind mir durch Gewalttat überlegen. Der Herr vergelte dem, der die Untat verübt hat, nach seiner Untat! (a) 1Kön 2:28-34
 
 ### Chapter 4
 
@@ -16826,7 +16826,7 @@
 
 **[4:11]** Wieviel mehr, wenn ruchlose Menschen einen rechtschaffenen Mann im eigenen Hause auf seinem Lager ermordet haben - sollte ich da nicht sein Blut von euch fordern und euch von der Erde vertilgen?
 
-**[4:12]** Und David gab den Knechten Befehl, die machten sie nieder, hieben ihnen Hände und Füsse ab und hängten sie am Teiche zu Hebron auf. Den Kopf Isbaals aber nahmen sie und begruben ihn in Abners Grab zu Hebron. (a) 2Sa 3:32 
+**[4:12]** Und David gab den Knechten Befehl, die machten sie nieder, hieben ihnen Hände und Füsse ab und hängten sie am Teiche zu Hebron auf. Den Kopf Isbaals aber nahmen sie und begruben ihn in Abners Grab zu Hebron. (a) 2Sa 3:32
 
 ### Chapter 5
 
@@ -16878,7 +16878,7 @@
 
 **[5:24]** Wenn du es in den Wipfeln der Bakabäume einherschreiten hörst, dann brich los; denn alsdann ist der Herr vor dir her ausgezogen, das Heer der Philister zu schlagen.
 
-**[5:25]** Und David tat so, wie ihm der Herr geboten hatte, und er schlug die Philister von Gibeon an bis Geser. 
+**[5:25]** Und David tat so, wie ihm der Herr geboten hatte, und er schlug die Philister von Gibeon an bis Geser.
 
 ### Chapter 6
 
@@ -16926,7 +16926,7 @@
 
 **[6:22]** und mich noch mehr erniedrigen als diesmal und vor dir mich noch verächtlicher machen; aber bei den Mägden, von denen du redest, bei ihnen will ich mich zu Ehren bringen!
 
-**[6:23]** Michal aber, die Tochter Sauls, blieb kinderlos bis an den Tag ihres Todes. 
+**[6:23]** Michal aber, die Tochter Sauls, blieb kinderlos bis an den Tag ihres Todes.
 
 ### Chapter 7
 
@@ -16986,7 +16986,7 @@
 
 **[7:28]** Und nun, o Gott mein Herr, du bist Gott, und deine Worte sind Wahrheit; du hast deinem Knechte solches Glück verheissen -
 
-**[7:29]** so wollest du denn das Haus deines Knechtes segnen, dass es ewig vor dir bestehe; denn du, o Gott mein Herr, hast geredet, und durch deinen Segen wird das Haus deines Knechtes immerdar gesegnet sein. 
+**[7:29]** so wollest du denn das Haus deines Knechtes segnen, dass es ewig vor dir bestehe; denn du, o Gott mein Herr, hast geredet, und durch deinen Segen wird das Haus deines Knechtes immerdar gesegnet sein.
 
 ### Chapter 8
 
@@ -17024,7 +17024,7 @@
 
 **[8:17]** Zadok und Abjathar, der Sohn Ahimelechs, des Sohnes Ahitubs, waren Priester, Seraja war Staatsschreiber,
 
-**[8:18]** Benaja, der Sohn Jojadas, war über die Kreter und Plether gesetzt, und die Söhne Davids waren Priester. (1) d.h. Leibwache. (a) 2Sa 20:23 
+**[8:18]** Benaja, der Sohn Jojadas, war über die Kreter und Plether gesetzt, und die Söhne Davids waren Priester. (1) d.h. Leibwache. (a) 2Sa 20:23
 
 ### Chapter 9
 
@@ -17052,7 +17052,7 @@
 
 **[9:12]** Meribaal hatte einen kleinen Sohn, mit Namen Micha; und alle Hausgenossen Zibas waren Knechte Meribaals.
 
-**[9:13]** Meribaal also wohnte in Jerusalem; denn er ass allezeit an des Königs Tische. Er war aber lahm an beiden Füssen. 
+**[9:13]** Meribaal also wohnte in Jerusalem; denn er ass allezeit an des Königs Tische. Er war aber lahm an beiden Füssen.
 
 ### Chapter 10
 
@@ -17092,7 +17092,7 @@
 
 **[10:18]** Aber die Syrer flohen vor Israel, und David tötete den Syrern (die Bemannung von) siebenhundert Streitwagen sowie 40 000 Mann Fussvolk; auch Sobach, ihren Feldhauptmann, verwundete er, dass er dort starb.
 
-**[10:19]** Als sich nun alle die Könige, die Hadad-Eser untertan waren, von Israel geschlagen sahen, machten sie Frieden mit Israel und unterwarfen sich. Und die Syrer fürchteten sich, den Ammonitern noch fernerhin zu helfen. 
+**[10:19]** Als sich nun alle die Könige, die Hadad-Eser untertan waren, von Israel geschlagen sahen, machten sie Frieden mit Israel und unterwarfen sich. Und die Syrer fürchteten sich, den Ammonitern noch fernerhin zu helfen.
 
 ### Chapter 11
 
@@ -17148,7 +17148,7 @@
 
 **[11:26]** Als das Weib Urias hörte, dass ihr Mann Uria tot sei, hielt sie die Totenklage um ihren Gatten.
 
-**[11:27]** Sobald aber die Trauerzeit vorüber war, sandte David hin und liess sie in sein Haus holen, und sie ward sein Weib und gebar ihm einen Sohn. Dem Herrn aber missfiel, was David getan hatte. 
+**[11:27]** Sobald aber die Trauerzeit vorüber war, sandte David hin und liess sie in sein Haus holen, und sie ward sein Weib und gebar ihm einen Sohn. Dem Herrn aber missfiel, was David getan hatte.
 
 ### Chapter 12
 
@@ -17212,7 +17212,7 @@
 
 **[12:30]** Und er nahm dem Milkom die Krone vom Haupte, die einen Zentner Goldes wog; es war auch ein Edelstein daran, der kam auf das Haupt Davids. Auch führte er sehr reiche Beute aus der Stadt hinweg.
 
-**[12:31]** Die Bewohner aber, die darin waren, führte er weg und beschäftigte sie an den Sägen, an den eisernen Pickeln und eisernen Äxten und liess sie mit Ziegelformen arbeiten. So verfuhr er mit allen Städten der Ammoniter. Dann kehrte David mit allem Volke nach Jerusalem zurück. 
+**[12:31]** Die Bewohner aber, die darin waren, führte er weg und beschäftigte sie an den Sägen, an den eisernen Pickeln und eisernen Äxten und liess sie mit Ziegelformen arbeiten. So verfuhr er mit allen Städten der Ammoniter. Dann kehrte David mit allem Volke nach Jerusalem zurück.
 
 ### Chapter 13
 
@@ -17292,7 +17292,7 @@
 
 **[13:38]** Dort blieb er drei Jahre.
 
-**[13:39]** DARNACH stand des Königs Gemüt davon ab, mit Absalom zu hadern; denn er hatte sich über den Tod Amnons getröstet. 
+**[13:39]** DARNACH stand des Königs Gemüt davon ab, mit Absalom zu hadern; denn er hatte sich über den Tod Amnons getröstet.
 
 ### Chapter 14
 
@@ -17360,7 +17360,7 @@
 
 **[14:32]** Absalom antwortete Joab: Ich habe doch nach dir geschickt und dir entboten: Komm her, ich will dich zum König senden und ihm sagen lassen: "Warum bin ich von Gesur heimgekommen? Es wäre mir besser, ich wäre noch dort." Jetzt aber will ich dem König unter die Augen treten! Ist eine Schuld an mir, so töte er mich!
 
-**[14:33]** Da ging Joab zum König hinein und sagte es ihm, und der liess Absalom rufen. Als er zum König hereinkam, verneigte er sich vor ihm und warf sich vor dem König mit dem Angesicht zur Erde; der König aber küsste Absalom. 
+**[14:33]** Da ging Joab zum König hinein und sagte es ihm, und der liess Absalom rufen. Als er zum König hereinkam, verneigte er sich vor ihm und warf sich vor dem König mit dem Angesicht zur Erde; der König aber küsste Absalom.
 
 ### Chapter 15
 
@@ -17436,7 +17436,7 @@
 
 **[15:36]** Sieh, die haben dort ihre beiden Söhne bei sich, Zadok den Ahimaaz und Abjathar den Jonathan; durch diese könnt ihr mir alles berichten, was ihr hört.
 
-**[15:37]** So kam Husai, der Vertraute Davids, in die Stadt, als Absalom eben in Jerusalem einzog. 
+**[15:37]** So kam Husai, der Vertraute Davids, in die Stadt, als Absalom eben in Jerusalem einzog.
 
 ### Chapter 16
 
@@ -17484,7 +17484,7 @@
 
 **[16:22]** Da schlug man auf dem Dache für Absalom das Zelt auf, und Absalom ging vor den Augen von ganz Israel zu den Kebsweibern seines Vaters. (a) 2Sa 12:11
 
-**[16:23]** Wenn nämlich Ahithophel damals einen Rat gab, so galt es, wie wenn man Gott befragte; so galt jeder Rat Ahithophels bei David wie bei Absalom. 
+**[16:23]** Wenn nämlich Ahithophel damals einen Rat gab, so galt es, wie wenn man Gott befragte; so galt jeder Rat Ahithophels bei David wie bei Absalom.
 
 ### Chapter 17
 
@@ -17544,7 +17544,7 @@
 
 **[17:28]** bereits Ruhebetten, Decken, Schalen und irdene Geschirre gebracht; auch Weizen, Gerste, Mehl, geröstetes Korn, Bohnen und Linsen,
 
-**[17:29]** Honig, Sahne, Schafe und Kuhkäse hatten sie für David und für seine Leute zum Essen hergeschafft; denn sie dachten: Die Leute sind in der Wüste hungrig und müde und durstig geworden. 
+**[17:29]** Honig, Sahne, Schafe und Kuhkäse hatten sie für David und für seine Leute zum Essen hergeschafft; denn sie dachten: Die Leute sind in der Wüste hungrig und müde und durstig geworden.
 
 ### Chapter 18
 
@@ -17602,7 +17602,7 @@
 
 **[18:27]** Der Wächter rief: Mich dünkt, der erste laufe wie Ahimaaz, der Sohn Zadoks. Und der König sprach: Das ist ein trefflicher Mann; der bringt gute Botschaft.
 
-**[18:28]** Ahimaaz aber kam heran und sprach zum König: Heil! Dann warf er sich vor dem König auf sein Angesicht zur Erde und sprach: Gelobt sei der Herr, dein Gott, der die Leute preisgegeben hat, die ihre Hand erhoben haben wider meinen Herrn und König! 
+**[18:28]** Ahimaaz aber kam heran und sprach zum König: Heil! Dann warf er sich vor dem König auf sein Angesicht zur Erde und sprach: Gelobt sei der Herr, dein Gott, der die Leute preisgegeben hat, die ihre Hand erhoben haben wider meinen Herrn und König!
 
 **[18:29]** Der König aber sprach: Geht es dem jungen Mann, dem Absalom, gut? Ahimaaz erwiderte: Ich sah einen grossen Auflauf, als Joab, der Knecht des Königs, deinen Knecht entsandte; aber ich weiss nicht, was es war.
 
@@ -17700,7 +17700,7 @@
 
 **[19:42]** Da kamen auf einmal alle Männer Israels zum König und sprachen zu ihm: Warum haben unsre Brüder, die Männer Judas, dich entführt und den König und sein Haus über den Jordan gebracht und alle seine Männer mit ihm?
 
-**[19:43]** Da antworteten alle Männer Judas denen von Israel: Weil der König uns verwandt ist! Und warum zürnt ihr deswegen? Haben wir etwa ein Stück vom König gefressen, oder ist er von uns weggenommen worden? Aber die Männer Israels entgegneten denen von Juda: Wir haben zehnfach Anteil am König; dazu sind wir auch als die Erstgeborenen euch voraus! Warum habt ihr uns verachtet? Und haben wir denn nicht zuerst davon geredet, unsern König heimzuholen? Die von Juda aber redeten noch heftiger als die von Israel. 
+**[19:43]** Da antworteten alle Männer Judas denen von Israel: Weil der König uns verwandt ist! Und warum zürnt ihr deswegen? Haben wir etwa ein Stück vom König gefressen, oder ist er von uns weggenommen worden? Aber die Männer Israels entgegneten denen von Juda: Wir haben zehnfach Anteil am König; dazu sind wir auch als die Erstgeborenen euch voraus! Warum habt ihr uns verachtet? Und haben wir denn nicht zuerst davon geredet, unsern König heimzuholen? Die von Juda aber redeten noch heftiger als die von Israel.
 
 ### Chapter 20
 
@@ -17754,7 +17754,7 @@
 
 **[20:25]** Seja war Schreiber, und Zadok und Abjathar waren Priester;
 
-**[20:26]** auch der Jairiter Ira war ein Priester Davids. 
+**[20:26]** auch der Jairiter Ira war ein Priester Davids.
 
 ### Chapter 21
 
@@ -17800,7 +17800,7 @@
 
 **[21:21]** Als er nun Israel verhöhnte, erschlug ihn Jonathan, der Sohn Simeas, des Bruders Davids.
 
-**[21:22]** Diese vier stammten von den Riesen in Gath, und sie fielen durch die Hand Davids und seiner Leute. 
+**[21:22]** Diese vier stammten von den Riesen in Gath, und sie fielen durch die Hand Davids und seiner Leute.
 
 ### Chapter 22
 
@@ -17904,7 +17904,7 @@
 
 **[22:50]** Darum will ich dich preisen, Herr, / unter den Völkern deinem Namen lobsingen, /
 
-**[22:51]** der du deinem König grosses Heil verleihst / und deinem Gesalbten Huld erweisest, / David und seinem Hause ewiglich. 
+**[22:51]** der du deinem König grosses Heil verleihst / und deinem Gesalbten Huld erweisest, / David und seinem Hause ewiglich.
 
 ### Chapter 23
 
@@ -17984,7 +17984,7 @@
 
 **[23:38]** Ira aus Jatthir; Gareb aus Jatthir;
 
-**[23:39]** Uria, der Hethiter - im ganzen 37. 
+**[23:39]** Uria, der Hethiter - im ganzen 37.
 
 ### Chapter 24
 
@@ -18036,7 +18036,7 @@
 
 **[24:24]** Der König aber erwiderte Arauna: Nein! sondern ich will es dir abkaufen; denn ich mag dem Herrn, meinem Gott, nicht Brandopfer darbringen, die ich umsonst habe. So kaufte David die Tenne und die Rinder um fünfzig Lot Silber.
 
-**[24:25]** Dann baute David dem Herrn dort einen Altar und brachte Brandopfer und Heilsopfer dar; und der Herr liess sich für das Land erbitten, und der Seuche ward Einhalt getan in Israel.  
+**[24:25]** Dann baute David dem Herrn dort einen Altar und brachte Brandopfer und Heilsopfer dar; und der Herr liess sich für das Land erbitten, und der Seuche ward Einhalt getan in Israel.
 
 ## I Kings
 
@@ -18146,7 +18146,7 @@
 
 **[1:52]** Salomo sprach: Wenn er sich wacker hält, so soll kein Haar von ihm zur Erde fallen; wird aber Böses an ihm gefunden, so muss er sterben.
 
-**[1:53]** Und der König Salomo sandte hin und liess ihn vom Altar wegholen. Als er kam, warf er sich vor dem König Salomo nieder; Salomo aber sprach zu ihm: Geh in dein Haus! 
+**[1:53]** Und der König Salomo sandte hin und liess ihn vom Altar wegholen. Als er kam, warf er sich vor dem König Salomo nieder; Salomo aber sprach zu ihm: Geh in dein Haus!
 
 ### Chapter 2
 
@@ -18240,7 +18240,7 @@
 
 **[2:45]** Der König Salomo aber sei gesegnet, und der Thron Davids stehe immerdar fest vor dem Herrn!
 
-**[2:46]** Und der König gab dem Benaja, dem Sohne Jojadas, Befehl; der ging hinaus und stiess ihn nieder, dass er starb. Als nun das Königtum in Salomos Hand gefestigt war, 
+**[2:46]** Und der König gab dem Benaja, dem Sohne Jojadas, Befehl; der ging hinaus und stiess ihn nieder, dass er starb. Als nun das Königtum in Salomos Hand gefestigt war,
 
 ### Chapter 3
 
@@ -18298,7 +18298,7 @@
 
 **[3:27]** Da entschied der König: Die gesagt hat: "Gebt ihr das lebende Kind, nur tötet es nicht!" - die ist die Mutter.
 
-**[3:28]** Und ganz Israel hörte von dem Urteil, das der König gefällt hatte, und sie hatten Ehrfurcht vor dem König; denn sie sahen, dass göttliche Weisheit in ihm war, um Recht zu sprechen. 
+**[3:28]** Und ganz Israel hörte von dem Urteil, das der König gefällt hatte, und sie hatten Ehrfurcht vor dem König; denn sie sahen, dass göttliche Weisheit in ihm war, um Recht zu sprechen.
 
 ### Chapter 4
 
@@ -18340,7 +18340,7 @@
 
 **[4:19]** Geber, der Sohn Uris, im Gebiet von Gad, im Lande Sihons, des Königs der Amoriter, und des Königs Og von Basan. Und ein Statthalter war gesetzt über alle Statthalter im Lande.
 
-**[4:20]** Juda und Israel waren so zahlreich wie der Sand am Meer; sie assen und tranken und waren fröhlich. 
+**[4:20]** Juda und Israel waren so zahlreich wie der Sand am Meer; sie assen und tranken und waren fröhlich.
 
 **[4:21]** 
 
@@ -18406,7 +18406,7 @@
 
 **[5:17]** Du weisst selbst, dass mein Vater David dem Namen des Herrn, seines Gottes, kein Haus bauen konnte wegen der Kriege, mit denen seine Feinde ihn rings bedrängten, bis sie der Herr ihm unter die Fußsohlen legte. (a) 1Ch 28:3
 
-**[5:18]** Nun aber hat mir der Herr, mein Gott, auf allen Seiten Ruhe gegeben; kein Widersacher ist mehr da, kein Missgeschick. So gedenke ich denn nun dem Namen des Herrn, meines Gottes, ein Haus zu bauen, wie der Herr meinem Vater David verheissen hat: "Dein Sohn, den ich an deiner Statt auf deinen Thron setzen werde, der soll meinem Namen das Haus bauen." (a) 2Sa 7:13; 1Ch 22:10 So gebiete nun, dass man mir Zedern fälle auf dem Libanon; meine Knechte sollen deinen Knechten helfen, und den Lohn für deine Knechte will ich dir bezahlen, ganz wie du es verlangst. Du weisst ja, dass niemand unter uns ist, der Holz zu fällen versteht wie die Sidonier. Als nun Hiram die Botschaft Salomos hörte, war er hocherfreut und sprach: Gepriesen sei heute der Herr, der dem David einen weisen Sohn gegeben hat über dieses grosse Volk! Dann sandte Hiram zu Salomo und liess ihm sagen: Ich habe gehört, was du mir entboten hast; ich will all dein Begehren nach Zedern- und Zypressenstämmen erfüllen. Meine Knechte sollen sie vom Libanon ins Meer hinabschaffen; darnach will ich sie auf dem Meere flössen lassen bis an den Ort, den du mir bestimmen wirst. Dort will ich sie wieder auseinandernehmen, und du lässest sie dann holen. Du aber sollst auch mein Begehren erfüllen und meinem Hofe Speise liefern. Also lieferte Hiram dem Salomo Zedern- und Zypressenholz, soviel er haben wollte. Salomo aber lieferte dem Hiram 20 000 Kor Weizen zum Unterhalt für seinen Hof und 20 000 Bath vom feinsten Öl. So viel lieferte Salomo dem Hiram Jahr für Jahr. Und der Herr gab Salomo Weisheit, wie er ihm verheissen hatte; und es war Friede zwischen Hiram und Salomo, und sie schlossen einen Vertrag miteinander. Der König Salomo aber hob aus ganz Israel Fronarbeiter aus; es waren ihrer 30 000. Und er sandte sie abwechselnd auf den Libanon, jeden Monat zehntausend Mann: einen Monat waren sie auf dem Libanon und zwei Monate daheim. Und Adoniram war über die Fronarbeiter gesetzt. (a) 1Kön 4:6 Auch hatte Salomo 70 000 Lastträger und 80 000 Steinmetzen im Gebirge (Juda), ohne die Aufseher Salomos, die über die Arbeit gesetzt waren, nämlich 3 300, die den Arbeitern zu gebieten hatten. Und sie brachen auf Geheiss des Königs grosse, kostbare Steine, um den Grund des Tempels mit Quadern zu legen. Die Bauleute Salomos und die Bauleute Hirams und die Leute von Gebal behieben sie dann und richteten Holz und Steine zum Bau des Tempels her. 
+**[5:18]** Nun aber hat mir der Herr, mein Gott, auf allen Seiten Ruhe gegeben; kein Widersacher ist mehr da, kein Missgeschick. So gedenke ich denn nun dem Namen des Herrn, meines Gottes, ein Haus zu bauen, wie der Herr meinem Vater David verheissen hat: "Dein Sohn, den ich an deiner Statt auf deinen Thron setzen werde, der soll meinem Namen das Haus bauen." (a) 2Sa 7:13; 1Ch 22:10 So gebiete nun, dass man mir Zedern fälle auf dem Libanon; meine Knechte sollen deinen Knechten helfen, und den Lohn für deine Knechte will ich dir bezahlen, ganz wie du es verlangst. Du weisst ja, dass niemand unter uns ist, der Holz zu fällen versteht wie die Sidonier. Als nun Hiram die Botschaft Salomos hörte, war er hocherfreut und sprach: Gepriesen sei heute der Herr, der dem David einen weisen Sohn gegeben hat über dieses grosse Volk! Dann sandte Hiram zu Salomo und liess ihm sagen: Ich habe gehört, was du mir entboten hast; ich will all dein Begehren nach Zedern- und Zypressenstämmen erfüllen. Meine Knechte sollen sie vom Libanon ins Meer hinabschaffen; darnach will ich sie auf dem Meere flössen lassen bis an den Ort, den du mir bestimmen wirst. Dort will ich sie wieder auseinandernehmen, und du lässest sie dann holen. Du aber sollst auch mein Begehren erfüllen und meinem Hofe Speise liefern. Also lieferte Hiram dem Salomo Zedern- und Zypressenholz, soviel er haben wollte. Salomo aber lieferte dem Hiram 20 000 Kor Weizen zum Unterhalt für seinen Hof und 20 000 Bath vom feinsten Öl. So viel lieferte Salomo dem Hiram Jahr für Jahr. Und der Herr gab Salomo Weisheit, wie er ihm verheissen hatte; und es war Friede zwischen Hiram und Salomo, und sie schlossen einen Vertrag miteinander. Der König Salomo aber hob aus ganz Israel Fronarbeiter aus; es waren ihrer 30 000. Und er sandte sie abwechselnd auf den Libanon, jeden Monat zehntausend Mann: einen Monat waren sie auf dem Libanon und zwei Monate daheim. Und Adoniram war über die Fronarbeiter gesetzt. (a) 1Kön 4:6 Auch hatte Salomo 70 000 Lastträger und 80 000 Steinmetzen im Gebirge (Juda), ohne die Aufseher Salomos, die über die Arbeit gesetzt waren, nämlich 3 300, die den Arbeitern zu gebieten hatten. Und sie brachen auf Geheiss des Königs grosse, kostbare Steine, um den Grund des Tempels mit Quadern zu legen. Die Bauleute Salomos und die Bauleute Hirams und die Leute von Gebal behieben sie dann und richteten Holz und Steine zum Bau des Tempels her.
 
 ### Chapter 6
 
@@ -18484,7 +18484,7 @@
 
 **[6:37]** Im vierten Jahre, im Monat Siw, war der Grund zum Tempel des Herrn gelegt worden,
 
-**[6:38]** und im elften Jahre, im Monat Bul - das ist der achte Monat -, war der Tempel vollendet in allen seinen Teilen und in allem, was dazu gehörte; sieben Jahre also baute er daran. 
+**[6:38]** und im elften Jahre, im Monat Bul - das ist der achte Monat -, war der Tempel vollendet in allen seinen Teilen und in allem, was dazu gehörte; sieben Jahre also baute er daran.
 
 ### Chapter 7
 
@@ -18588,7 +18588,7 @@
 
 **[7:50]** dazu die Becken, Messer, Sprengschalen, Schüsseln und Räucherpfannen von gediegenem Gold; auch die Angeln an den Türflügeln des innern Raumes, des Allerheiligsten, und an den Türflügeln des Tempels, des Hauptraumes, waren von Gold.
 
-**[7:51]** Als nun alle Arbeiten vollendet waren, die der König Salomo am Tempel des Herrn machen liess, brachte er die Weihgeschenke seines Vaters David hinein; das Silber und das Gold und die Geräte legte er in den Schatzkammern des Tempels nieder. 
+**[7:51]** Als nun alle Arbeiten vollendet waren, die der König Salomo am Tempel des Herrn machen liess, brachte er die Weihgeschenke seines Vaters David hinein; das Silber und das Gold und die Geräte legte er in den Schatzkammern des Tempels nieder.
 
 ### Chapter 8
 
@@ -18722,7 +18722,7 @@
 
 **[8:65]** So beging Salomo damals das Fest und ganz Israel mit ihm, eine grosse Versammlung (aus dem ganzen Lande) von Hamath an bis an den Bach Ägyptens, vor dem Herrn, unserm Gott, sieben Tage lang.
 
-**[8:66]** Am achten Tage aber entliess er das Volk; und sie nahmen Abschied vom Könige und zogen nach Hause, fröhlich und wohlgemut ob all des Guten, das der Herr an seinem Knechte David und an seinem Volke Israel getan hatte. 
+**[8:66]** Am achten Tage aber entliess er das Volk; und sie nahmen Abschied vom Könige und zogen nach Hause, fröhlich und wohlgemut ob all des Guten, das der Herr an seinem Knechte David und an seinem Volke Israel getan hatte.
 
 ### Chapter 9
 
@@ -18780,7 +18780,7 @@
 
 **[9:27]** Und Hiram sandte auf den Schiffen seine Knechte aus, Seeleute, die des Meeres kundig waren, zusammen mit den Knechten Salomos,
 
-**[9:28]** und sie fuhren nach Ophir und holten dort Gold, 420 Talente, und brachten es dem König Salomo. 
+**[9:28]** und sie fuhren nach Ophir und holten dort Gold, 420 Talente, und brachten es dem König Salomo.
 
 ### Chapter 10
 
@@ -18840,7 +18840,7 @@
 
 **[10:28]** Die Einfuhr der Pferde für Salomo erfolgte von Ägypten und von Koa her; die Händler des Königs holten sie aus Koa gegen bare Bezahlung.
 
-**[10:29]** Ein Wagen kam bei der Ausfuhr aus Ägypten auf sechshundert Lot Silber zu stehen und ein Pferd auf 150. Ebenso wurden sie durch Vermittlung der Händler auch an alle Könige der Hethiter und an die Könige von Syrien ausgeführt. 
+**[10:29]** Ein Wagen kam bei der Ausfuhr aus Ägypten auf sechshundert Lot Silber zu stehen und ein Pferd auf 150. Ebenso wurden sie durch Vermittlung der Händler auch an alle Könige der Hethiter und an die Könige von Syrien ausgeführt.
 
 ### Chapter 11
 
@@ -18928,7 +18928,7 @@
 
 **[11:42]** Die Zeit aber, während welcher Salomo über ganz Israel in Jerusalem regiert hat, beträgt vierzig Jahre.
 
-**[11:43]** Und Salomo legte sich zu seinen Vätern und ward begraben in der Stadt seines Vaters David, und sein Sohn Rehabeam wurde König an seiner Statt. 
+**[11:43]** Und Salomo legte sich zu seinen Vätern und ward begraben in der Stadt seines Vaters David, und sein Sohn Rehabeam wurde König an seiner Statt.
 
 ### Chapter 12
 
@@ -18996,7 +18996,7 @@
 
 **[12:32]** Ferner setzte Jerobeam ein Fest an auf den fünfzehnten Tag des achten Monats, gleich dem Fest in Juda. So tat er in Bethel, um den Kälbern zu opfern, die er gemacht hatte, und liess die Höhenpriester, die er bestellt hatte, in Bethel ihres Amtes warten.
 
-**[12:33]** Und er stieg hinauf zu dem Altar, den er in Bethel gemacht hatte, am fünfzehnten Tage des achten Monats, des Monats, den er sich selbst erdacht hatte; er veranstaltete nämlich den Israeliten ein Fest und stieg hinauf zum Altar, um zu räuchern. 
+**[12:33]** Und er stieg hinauf zu dem Altar, den er in Bethel gemacht hatte, am fünfzehnten Tage des achten Monats, des Monats, den er sich selbst erdacht hatte; er veranstaltete nämlich den Israeliten ein Fest und stieg hinauf zum Altar, um zu räuchern.
 
 ### Chapter 13
 
@@ -19066,7 +19066,7 @@
 
 **[13:33]** Auch nach dieser Begebenheit kehrte Jerobeam nicht um von seinem bösen Wege, sondern bestellte wieder Höhenpriester aus allen Teilen des Volkes. Wer da wollte, den weihte er, und der ward Höhenpriester.
 
-**[13:34]** Dies gereichte dem Hause Jerobeams zur Sünde, sodass es vernichtet und vom Erdboden vertilgt wurde. 
+**[13:34]** Dies gereichte dem Hause Jerobeams zur Sünde, sodass es vernichtet und vom Erdboden vertilgt wurde.
 
 ### Chapter 14
 
@@ -19130,7 +19130,7 @@
 
 **[14:30]** Es war aber die ganze Zeit über Krieg zwischen Rehabeam und Jerobeam.
 
-**[14:31]** Und Rehabeam legte sich zu seinen Vätern und ward begraben bei seinen Vätern in der Davidsstadt. Seine Mutter hiess Naama, die Ammoniterin. Und sein Sohn Abia wurde König an seiner Statt. 
+**[14:31]** Und Rehabeam legte sich zu seinen Vätern und ward begraben bei seinen Vätern in der Davidsstadt. Seine Mutter hiess Naama, die Ammoniterin. Und sein Sohn Abia wurde König an seiner Statt.
 
 ### Chapter 15
 
@@ -19200,7 +19200,7 @@
 
 **[15:33]** Im dritten Jahre Asas, des Königs von Juda, wurde Baesa, der Sohn Ahias, König über Israel (und regierte) zu Thirza 24 Jahre;
 
-**[15:34]** und er tat, was dem Herrn missfiel, und wandelte auf dem Wege Jerobeams und in der Sünde, zu der er Israel verführt hatte. 
+**[15:34]** und er tat, was dem Herrn missfiel, und wandelte auf dem Wege Jerobeams und in der Sünde, zu der er Israel verführt hatte.
 
 ### Chapter 16
 
@@ -19270,7 +19270,7 @@
 
 **[16:33]** Auch machte Ahab eine Aschera und verübte noch andres, was den Herrn, den Gott Israels, erzürnte, mehr als alle Könige Israels, die vor ihm gewesen waren.
 
-**[16:34]** In seinen Tagen baute Hiel von Bethel Jericho wieder auf. Es kostete ihn seinen Erstgeborenen Abiram, als er ihren Grund legte, und seinen jüngsten Sohn Segub, als er ihre Tore einsetzte, nach dem Worte, das der Herr durch Josua, den Sohn Nuns, geredet hatte. (a) Jos 6:26 
+**[16:34]** In seinen Tagen baute Hiel von Bethel Jericho wieder auf. Es kostete ihn seinen Erstgeborenen Abiram, als er ihren Grund legte, und seinen jüngsten Sohn Segub, als er ihre Tore einsetzte, nach dem Worte, das der Herr durch Josua, den Sohn Nuns, geredet hatte. (a) Jos 6:26
 
 ### Chapter 17
 
@@ -19320,7 +19320,7 @@
 
 **[17:23]** Nun nahm Elia das Kind, trug es vom Obergemach in das Haus hinab und gab es seiner Mutter. Und Elia sprach: Sieh da, dein Sohn lebt.
 
-**[17:24]** Da sprach die Frau zu Elia: Jetzt weiss ich, dass du ein Gottesmann bist und dass das Wort des Herrn in deinem Munde Wahrheit ist. 
+**[17:24]** Da sprach die Frau zu Elia: Jetzt weiss ich, dass du ein Gottesmann bist und dass das Wort des Herrn in deinem Munde Wahrheit ist.
 
 ### Chapter 18
 
@@ -19414,7 +19414,7 @@
 
 **[18:45]** Und ehe man sich's versah, war der Himmel schwarz von Wolken und Sturm, und es kam ein gewaltiger Regen. Da stieg Ahab auf und fuhr nach Jesreel.
 
-**[18:46]** Die Hand des Herrn aber kam über Elia, sodass er seine Lenden gürtete und vor Ahab her lief bis nach Jesreel. 
+**[18:46]** Die Hand des Herrn aber kam über Elia, sodass er seine Lenden gürtete und vor Ahab her lief bis nach Jesreel.
 
 ### Chapter 19
 
@@ -19458,7 +19458,7 @@
 
 **[19:20]** Da verliess er die Rinder, lief Elia nach und sprach: Lass mich nur noch Vater und Mutter küssen, dann will ich dir nachfolgen. Er sprach zu ihm: Gehe hin und komme wieder, denn was habe ich dir getan! (a) Lu 9:61
 
-**[19:21]** Da wandte er sich von ihm, nahm das Joch Rinder und schlachtete sie. Mit dem Geschirr der Rinder kochte er das Fleisch und gab es den Leuten zu essen. Dann machte er sich auf, folgte Elia nach und diente ihm. 
+**[19:21]** Da wandte er sich von ihm, nahm das Joch Rinder und schlachtete sie. Mit dem Geschirr der Rinder kochte er das Fleisch und gab es den Leuten zu essen. Dann machte er sich auf, folgte Elia nach und diente ihm.
 
 ### Chapter 20
 
@@ -19546,7 +19546,7 @@
 
 **[20:42]** Der aber sprach zu ihm: So spricht der Herr: Weil du den Mann, der meinem Bann verfallen war, hast ziehen lassen, so musst du mit deinem Leben für ihn haften, und dein Volk für sein Volk.
 
-**[20:43]** Da ging der König von Israel missmutig und voll Zorn nach Hause und kam nach Samaria. 
+**[20:43]** Da ging der König von Israel missmutig und voll Zorn nach Hause und kam nach Samaria.
 
 ### Chapter 21
 
@@ -19606,7 +19606,7 @@
 
 **[21:28]** Da erging an Elia von Thisbe das Wort des Herrn:
 
-**[21:29]** Hast du gesehen, wie sich Ahab vor mir gedemütigt hat? Weil er sich nun vor mir gedemütigt, will ich das Unglück nicht schon zu seinen Lebzeiten herbeiführen; erst in den Tagen seines Sohnes will ich das Unglück über sein Haus bringen. (a) 2Kön 9:25 
+**[21:29]** Hast du gesehen, wie sich Ahab vor mir gedemütigt hat? Weil er sich nun vor mir gedemütigt, will ich das Unglück nicht schon zu seinen Lebzeiten herbeiführen; erst in den Tagen seines Sohnes will ich das Unglück über sein Haus bringen. (a) 2Kön 9:25
 
 ### Chapter 22
 
@@ -19714,7 +19714,7 @@
 
 **[22:52]** Ahasja, der Sohn Ahabs, wurde König über Israel in Samaria im siebzehnten Jahre Josaphats, des Königs von Juda, und regierte zwei Jahre über Israel.
 
-**[22:53]** Er tat, was dem Herrn missfiel, und wandelte auf dem Wege seines Vaters und seiner Mutter und auf dem Wege Jerobeams, des Sohnes Nebats, der Israel zur Sünde verführt hatte. (a) 1Kön 12:28 Er diente dem Baal und betete ihn an und erzürnte so den Herrn, den Gott Israels, ganz wie sein Vater getan hatte.  
+**[22:53]** Er tat, was dem Herrn missfiel, und wandelte auf dem Wege seines Vaters und seiner Mutter und auf dem Wege Jerobeams, des Sohnes Nebats, der Israel zur Sünde verführt hatte. (a) 1Kön 12:28 Er diente dem Baal und betete ihn an und erzürnte so den Herrn, den Gott Israels, ganz wie sein Vater getan hatte.
 
 ## II Kings
 
@@ -19754,7 +19754,7 @@
 
 **[1:17]** Also starb er nach dem Worte des Herrn, das Elia geredet hatte, und sein Bruder Joram wurde König an seiner Statt im zweiten Jahre Jorams, des Sohnes Josaphats, des Königs von Juda; denn er hatte keinen Sohn.
 
-**[1:18]** Was aber sonst noch von Ahasja zu sagen ist, was er getan hat, das steht ja geschrieben in der Chronik der Könige von Israel. 
+**[1:18]** Was aber sonst noch von Ahasja zu sagen ist, was er getan hat, das steht ja geschrieben in der Chronik der Könige von Israel.
 
 ### Chapter 2
 
@@ -19806,7 +19806,7 @@
 
 **[2:24]** Da wandte er sich um, und als er sie sah, fluchte er ihnen im Namen des Herrn, und es kamen zwei Bären aus dem Walde und zerrissen 42 von den Kindern.
 
-**[2:25]** Von dort ging er nach dem Berge Karmel und kehrte von da nach Samaria zurück. 
+**[2:25]** Von dort ging er nach dem Berge Karmel und kehrte von da nach Samaria zurück.
 
 ### Chapter 3
 
@@ -19862,7 +19862,7 @@
 
 **[3:26]** Als der König von Moab sah, dass ihm der Kampf zu schwer ward, nahm er siebenhundert Schwertkämpfer mit sich, um gegen den König von Edom durchzubrechen; aber es gelang nicht.
 
-**[3:27]** Da nahm er seinen erstgebornen Sohn, der nach ihm König werden sollte, und opferte ihn als Brandopfer auf der Mauer. Nun erhob sich ein grosser Zorn wider Israel, sodass sie von ihm ablassen und in ihr Land zurückkehren mussten. (a) 2Kön 16:3; 5Mo 18:10 
+**[3:27]** Da nahm er seinen erstgebornen Sohn, der nach ihm König werden sollte, und opferte ihn als Brandopfer auf der Mauer. Nun erhob sich ein grosser Zorn wider Israel, sodass sie von ihm ablassen und in ihr Land zurückkehren mussten. (a) 2Kön 16:3; 5Mo 18:10
 
 ### Chapter 4
 
@@ -19952,7 +19952,7 @@
 
 **[4:43]** Sein Diener erwiderte: Wie kann ich das hundert Männern vorsetzen? Er aber sprach: Gib es den Leuten zu essen; denn so spricht der Herr: Man wird essen und noch übriglassen. (1) V. 43-44: Mt 14:20
 
-**[4:44]** Da setzte er es ihnen vor, und sie assen und liessen noch übrig nach dem Worte des Herrn. 
+**[4:44]** Da setzte er es ihnen vor, und sie assen und liessen noch übrig nach dem Worte des Herrn.
 
 ### Chapter 5
 
@@ -20008,7 +20008,7 @@
 
 **[5:26]** Er aber sprach zu ihm: Bin ich nicht im Geiste mit dir gegangen, als einer von seinem Wagen stieg und dir entgegenkam? Nun wohl, du hast das Silber bekommen und magst dir Kleider, Ölbäume, Weinberge, Schafe, Rinder, Sklaven und Sklavinnen anschaffen,
 
-**[5:27]** aber der Aussatz Naemans wird dir und deinen Nachkommen immerdar anhaften. Da ging er von ihm hinaus, weiss vom Aussatz wie Schnee. 
+**[5:27]** aber der Aussatz Naemans wird dir und deinen Nachkommen immerdar anhaften. Da ging er von ihm hinaus, weiss vom Aussatz wie Schnee.
 
 ### Chapter 6
 
@@ -20076,7 +20076,7 @@
 
 **[6:32]** Elisa aber sass eben in seinem Hause und die Ältesten bei ihm. Da sandte der König einen Mann aus seiner Umgebung ab; aber ehe der Bote zu Elisa kam, hatte dieser zu den Ältesten gesagt: Habt ihr gesehen, wie dieser Mordgeselle hergesandt hat, um mir den Kopf abschlagen zu lassen? Gebt acht! wenn der Bote kommt, so verschliesst die Türe und drängt ihn an der Türe zurück. Man hört ja schon die Tritte seines Herrn hinter ihm.
 
-**[6:33]** Während der Bote noch mit ihnen redete, da kam auch schon der König zu ihm hinab und sprach: Sieh, so gross ist das Unglück, das der Herr über uns verhängt hat! Was soll ich da noch weiter auf den Herrn harren? 
+**[6:33]** Während der Bote noch mit ihnen redete, da kam auch schon der König zu ihm hinab und sprach: Sieh, so gross ist das Unglück, das der Herr über uns verhängt hat! Was soll ich da noch weiter auf den Herrn harren?
 
 ### Chapter 7
 
@@ -20118,7 +20118,7 @@
 
 **[7:19]** Da hatte der Offizier dem Gottesmann geantwortet: Und wenn der Herr Luken am Himmel machte, wie könnte das geschehen? Er aber hatte gesagt: Nun, du wirst es mit eignen Augen sehen, aber nicht davon essen.
 
-**[7:20]** So erging es ihm jetzt: das Volk zertrat ihn im Tore, dass er starb. 
+**[7:20]** So erging es ihm jetzt: das Volk zertrat ihn im Tore, dass er starb.
 
 ### Chapter 8
 
@@ -20178,7 +20178,7 @@
 
 **[8:28]** Er zog auch mit Joram, dem Sohne Ahabs, in den Krieg wider Hasael, den König von Syrien, nach Ramoth in Gilead; aber die Schützen verwundeten Joram.
 
-**[8:29]** Da kehrte der König Joram zurück, um sich in Jesreel heilen zu lassen von den Wunden, die ihm die Schützen bei Ramoth beigebracht hatten, als er mit Hasael, dem König von Syrien, kämpfte. Ahasja aber, der Sohn Jorams, der König von Juda, kam herab, um Joram, den Sohn Ahabs, in Jesreel zu besuchen, weil er krank lag. 
+**[8:29]** Da kehrte der König Joram zurück, um sich in Jesreel heilen zu lassen von den Wunden, die ihm die Schützen bei Ramoth beigebracht hatten, als er mit Hasael, dem König von Syrien, kämpfte. Ahasja aber, der Sohn Jorams, der König von Juda, kam herab, um Joram, den Sohn Ahabs, in Jesreel zu besuchen, weil er krank lag.
 
 ### Chapter 9
 
@@ -20254,7 +20254,7 @@
 
 **[9:36]** Da kamen sie wieder und sagten es ihm. Er aber sprach: So erfüllt sich, was der Herr durch seinen Knecht Elia von Thisbe geredet hat, als er sprach: "Auf dem Feld von Jesreel sollen die Hunde das Fleisch Isebels fressen, (a) 1Kön 21:23
 
-**[9:37]** und wie Dünger auf dem Felde soll der Leichnam Isebels sein auf der Flur von Jesreel", sodass man nicht sagen kann: Dies ist Isebel. 
+**[9:37]** und wie Dünger auf dem Felde soll der Leichnam Isebels sein auf der Flur von Jesreel", sodass man nicht sagen kann: Dies ist Isebel.
 
 ### Chapter 10
 
@@ -20328,7 +20328,7 @@
 
 **[10:35]** Und Jehu legte sich zu seinen Vätern, und man begrub ihn zu Samaria; und sein Sohn Joahas wurde König an seiner Statt.
 
-**[10:36]** Die Zeit aber, die Jehu in Samaria über Israel regiert hat, beträgt 28 Jahre. 
+**[10:36]** Die Zeit aber, die Jehu in Samaria über Israel regiert hat, beträgt 28 Jahre.
 
 ### Chapter 11
 
@@ -20372,7 +20372,7 @@
 
 **[11:20]** und alles Volk des Landes war fröhlich, und die Stadt blieb ruhig; Athalja aber hatte man im königlichen Palast mit dem Schwerte getötet.
 
-**[11:21]** SIEBEN Jahre alt war Joas, als er König wurde. (1) die Lutherbibel hat für 11,21 - 12,21 die Zählung 12,1-22. 
+**[11:21]** SIEBEN Jahre alt war Joas, als er König wurde. (1) die Lutherbibel hat für 11,21 - 12,21 die Zählung 12,1-22.
 
 ### Chapter 12
 
@@ -20416,7 +20416,7 @@
 
 **[12:20]** Seine Diener aber erhoben sich, zettelten eine Verschwörung an und erschlugen Joas im Hause Millo;
 
-**[12:21]** seine Diener Josachar, der Sohn Simeaths, und Josabad, der Sohn Somers, schlugen ihn tot. Und man begrub ihn in der Davidsstadt bei seinen Vätern, und sein Sohn Amazja wurde König an seiner Statt. 
+**[12:21]** seine Diener Josachar, der Sohn Simeaths, und Josabad, der Sohn Somers, schlugen ihn tot. Und man begrub ihn in der Davidsstadt bei seinen Vätern, und sein Sohn Amazja wurde König an seiner Statt.
 
 ### Chapter 13
 
@@ -20468,7 +20468,7 @@
 
 **[13:24]** Als aber Hasael, der König von Syrien, gestorben und sein Sohn Benhadad an seiner Statt König geworden war,
 
-**[13:25]** entriss Joas, der Sohn des Joahas, Benhadad, dem Sohne Hasaels, die Städte wieder, die dieser seinem Vater Joahas im Kriege weggenommen hatte; dreimal schlug ihn Joas und gewann so die Städte Israels zurück. 
+**[13:25]** entriss Joas, der Sohn des Joahas, Benhadad, dem Sohne Hasaels, die Städte wieder, die dieser seinem Vater Joahas im Kriege weggenommen hatte; dreimal schlug ihn Joas und gewann so die Städte Israels zurück.
 
 ### Chapter 14
 
@@ -20528,7 +20528,7 @@
 
 **[14:28]** Was sonst noch von Jerobeam zu sagen ist, von allem, was er getan hat, und von seiner kriegerischen Tüchtigkeit, wie er Krieg geführt und wie er Damaskus und Hamath an Israel zurückgebracht hat, das steht ja geschrieben in der Chronik der Könige von Israel. (a) 2Sa 8:6; 2Ch 8:3
 
-**[14:29]** Und Jerobeam legte sich zu seinen Vätern und ward begraben zu Samaria bei den Königen von Israel, und sein Sohn Sacharja wurde König an seiner Statt. 
+**[14:29]** Und Jerobeam legte sich zu seinen Vätern und ward begraben zu Samaria bei den Königen von Israel, und sein Sohn Sacharja wurde König an seiner Statt.
 
 ### Chapter 15
 
@@ -20606,7 +20606,7 @@
 
 **[15:37]** Zu jener Zeit fing der Herr an, den König Rezin von Syrien und Pekah, den Sohn Remaljas, wider Juda loszulassen.
 
-**[15:38]** Und Jotham legte sich zu seinen Vätern und ward begraben bei seinen Vätern in der Stadt seines Ahnherrn David, und sein Sohn Ahas wurde König an seiner Statt. 
+**[15:38]** Und Jotham legte sich zu seinen Vätern und ward begraben bei seinen Vätern in der Stadt seines Ahnherrn David, und sein Sohn Ahas wurde König an seiner Statt.
 
 ### Chapter 16
 
@@ -20648,7 +20648,7 @@
 
 **[16:19]** Was sonst noch von Ahas zu sagen ist, alles, was er getan hat, das steht ja geschrieben in der Chronik der Könige von Juda.
 
-**[16:20]** Und Ahas legte sich zu seinen Vätern und ward begraben in der Davidsstadt bei seinen Vätern, und sein Sohn Hiskia wurde König an seiner Statt. 
+**[16:20]** Und Ahas legte sich zu seinen Vätern und ward begraben in der Davidsstadt bei seinen Vätern, und sein Sohn Hiskia wurde König an seiner Statt.
 
 ### Chapter 17
 
@@ -20732,7 +20732,7 @@
 
 **[17:40]** Aber sie gehorchten nicht, sondern tun (noch immer) nach ihrer alten Weise.
 
-**[17:41]** Also verehrten diese Völker den Herrn und dienten zugleich ihren Götterbildern; auch ihre Kinder und Kindeskinder tun, wie ihre Väter getan, bis auf den heutigen Tag. 
+**[17:41]** Also verehrten diese Völker den Herrn und dienten zugleich ihren Götterbildern; auch ihre Kinder und Kindeskinder tun, wie ihre Väter getan, bis auf den heutigen Tag.
 
 ### Chapter 18
 
@@ -20808,7 +20808,7 @@
 
 **[18:36]** Die Leute aber schwiegen stille und antworteten ihm nichts; denn das war der Befehl des Königs: Antwortet ihm nicht!
 
-**[18:37]** Da kamen der Palastvorsteher Eljakim, der Sohn Hilkias, der Schreiber Sebna und der Kanzler Joah, der Sohn Asaphs, mit zerrissenen Kleidern zu Hiskia und meldeten ihm, was der Rabsake gesagt hatte. 
+**[18:37]** Da kamen der Palastvorsteher Eljakim, der Sohn Hilkias, der Schreiber Sebna und der Kanzler Joah, der Sohn Asaphs, mit zerrissenen Kleidern zu Hiskia und meldeten ihm, was der Rabsake gesagt hatte.
 
 ### Chapter 19
 
@@ -20884,7 +20884,7 @@
 
 **[19:36]** Da brach Sanherib, der König von Assyrien, auf und zog hinweg, kehrte heim und blieb in Ninive.
 
-**[19:37]** Und einstmals, als er im Tempel seines Gottes Nisroch anbetete, da erschlugen ihn Adrammelech und Sarezer mit dem Schwerte; und diese flüchteten sich ins Land Ararat, König aber wurde an seiner Statt sein Sohn Asarhaddon. 
+**[19:37]** Und einstmals, als er im Tempel seines Gottes Nisroch anbetete, da erschlugen ihn Adrammelech und Sarezer mit dem Schwerte; und diese flüchteten sich ins Land Ararat, König aber wurde an seiner Statt sein Sohn Asarhaddon.
 
 ### Chapter 20
 
@@ -20928,7 +20928,7 @@
 
 **[20:20]** Was sonst noch von Hiskia zu sagen ist, von all seiner kriegerischen Tüchtigkeit und wie er den Teich und die Wasserleitung gebaut und das Wasser in die Stadt geleitet hat, das steht ja geschrieben in der Chronik der Könige von Juda.
 
-**[20:21]** Und Hiskia legte sich zu seinen Vätern, und sein Sohn Manasse wurde König an seiner Statt. 
+**[20:21]** Und Hiskia legte sich zu seinen Vätern, und sein Sohn Manasse wurde König an seiner Statt.
 
 ### Chapter 21
 
@@ -20982,7 +20982,7 @@
 
 **[21:25]** Was sonst noch von Amon zu sagen ist, alles, was er getan hat, das steht ja geschrieben in der Chronik der Könige von Juda.
 
-**[21:26]** Und man begrub ihn in der Grabstätte seines Vaters, im Garten Ussas; und sein Sohn Josia wurde König an seiner Statt. 
+**[21:26]** Und man begrub ihn in der Grabstätte seines Vaters, im Garten Ussas; und sein Sohn Josia wurde König an seiner Statt.
 
 ### Chapter 22
 
@@ -21024,7 +21024,7 @@
 
 **[22:19]** Weil nun dein Herz weich geworden ist und du dich vor dem Herrn gedemütigt hast, als du vernahmst, was ich wider diesen Ort und seine Bewohner geredet habe - dass sie ein Ausdruck des Entsetzens und des Fluches werden sollen -, und weil du deine Kleider zerrissen und vor mir geweint hast, so habe auch ich gehört, spricht der Herr.
 
-**[22:20]** Darum, wenn ich dich dereinst zu deinen Vätern versammle, sollst du in Frieden in deiner Grabstätte geborgen werden, und deine Augen sollen all das Unglück, das ich über diesen Ort bringen will, nicht schauen. Und sie erstatteten dem Könige Bericht. 
+**[22:20]** Darum, wenn ich dich dereinst zu deinen Vätern versammle, sollst du in Frieden in deiner Grabstätte geborgen werden, und deine Augen sollen all das Unglück, das ich über diesen Ort bringen will, nicht schauen. Und sie erstatteten dem Könige Bericht.
 
 ### Chapter 23
 
@@ -21100,7 +21100,7 @@
 
 **[23:36]** 25 Jahre alt war Jojakim, als er König wurde, und elf Jahre regierte er zu Jerusalem. Seine Mutter hiess Sebudda, die Tochter Pedajas, von Ruma.
 
-**[23:37]** Er tat, was dem Herrn missfiel, ganz wie seine Väter getan hatten. 
+**[23:37]** Er tat, was dem Herrn missfiel, ganz wie seine Väter getan hatten.
 
 ### Chapter 24
 
@@ -21142,7 +21142,7 @@
 
 **[24:19]** Er tat, was dem Herrn missfiel, ganz wie Jojakim getan hatte.
 
-**[24:20]** Denn wegen des Zornes des Herrn kam es so weit, dass er Jerusalem und Juda von seinem Angesichte verwarf. ZEDEKIA aber fiel vom König von Babel ab. 
+**[24:20]** Denn wegen des Zornes des Herrn kam es so weit, dass er Jerusalem und Juda von seinem Angesichte verwarf. ZEDEKIA aber fiel vom König von Babel ab.
 
 ### Chapter 25
 
@@ -21204,7 +21204,7 @@
 
 **[25:29]** Er durfte seine Gefängniskleider ablegen und beständig an der königlichen Tafel essen sein ganzes Leben lang;
 
-**[25:30]** und sein Unterhalt, der ständige Unterhalt, wurde ihm Tag für Tag, soviel er bedurfte, vom König gewährt sein ganzes Leben lang.  
+**[25:30]** und sein Unterhalt, der ständige Unterhalt, wurde ihm Tag für Tag, soviel er bedurfte, vom König gewährt sein ganzes Leben lang.
 
 ## I Chronicles
 
@@ -21316,7 +21316,7 @@
 
 **[1:53]** der Fürst von Kenas, der Fürst von Theman, der Fürst von Mibzar,
 
-**[1:54]** der Fürst von Magdiel, der Fürst von Iram. Das sind die Fürsten von Edom. 
+**[1:54]** der Fürst von Magdiel, der Fürst von Iram. Das sind die Fürsten von Edom.
 
 ### Chapter 2
 
@@ -21428,7 +21428,7 @@
 
 **[2:54]** Die Söhne Salmas: Bethlehem und die Netophathiter, Atroth-Beth-Joab und die Hälfte der Manahathiter, nämlich die aus Zorea.
 
-**[2:55]** Und die Geschlechter der Schriftgelehrten, die zu Jabez wohnten: die Thireathiter, Simeathiter, Suchathiter. Das sind die Keniter, welche von Hammath, dem Vater des Hauses Rechab, abstammen. (a) Ri 1:16 
+**[2:55]** Und die Geschlechter der Schriftgelehrten, die zu Jabez wohnten: die Thireathiter, Simeathiter, Suchathiter. Das sind die Keniter, welche von Hammath, dem Vater des Hauses Rechab, abstammen. (a) Ri 1:16
 
 ### Chapter 3
 
@@ -21478,7 +21478,7 @@
 
 **[3:23]** Die Söhne Nearjas: Eljoenai, Hiskia und Asrikam, ihrer drei.
 
-**[3:24]** Die Söhne Eljoenais: Hodawja, Eljasib, Pelaja, Akkub, Johanan, Delaja und Anani, ihrer sieben. 
+**[3:24]** Die Söhne Eljoenais: Hodawja, Eljasib, Pelaja, Akkub, Johanan, Delaja und Anani, ihrer sieben.
 
 ### Chapter 4
 
@@ -21566,7 +21566,7 @@
 
 **[4:42]** Ein Teil aber von ihnen, den Simeoniten, ihrer fünfhundert Mann, zogen nach dem Gebirge Seir, an ihrer Spitze Pelatja, Nearja, Rephaja und Ussiel, die Söhne Jiseis.
 
-**[4:43]** Und sie erschlugen die letzten Entronnenen der Amalekiter und blieben daselbst wohnen bis auf diesen Tag. 
+**[4:43]** Und sie erschlugen die letzten Entronnenen der Amalekiter und blieben daselbst wohnen bis auf diesen Tag.
 
 ### Chapter 5
 
@@ -21620,7 +21620,7 @@
 
 **[5:25]** Als sie aber dem Gott ihrer Väter untreu wurden und sich den Götzen der Völker im Lande, die Gott vor ihnen vertilgt hatte, hingaben,
 
-**[5:26]** erregte der Gott Israels den Geist Phuls, des Königs von Assyrien, und den Geist Thilgath-Pilnesers des Königs von Assyrien; der führte die Rubeniten, die Gaditen und den halben Stamm Manasse gefangen hinweg und verbrachte sie nach Halah, nach Habor, in die Berge Mediens und an den Fluss Gosan, (und dort wohnen sie) bis auf diesen Tag. (1) Phul und Thilgath-Pilneser, (letzteres spätere Umbildung der gew. Namensform Thiglath-Pileser (a) 2Kön 15:19 29: bez ein und dieselbe Person. vgl. 2Kön 15:19 29 
+**[5:26]** erregte der Gott Israels den Geist Phuls, des Königs von Assyrien, und den Geist Thilgath-Pilnesers des Königs von Assyrien; der führte die Rubeniten, die Gaditen und den halben Stamm Manasse gefangen hinweg und verbrachte sie nach Halah, nach Habor, in die Berge Mediens und an den Fluss Gosan, (und dort wohnen sie) bis auf diesen Tag. (1) Phul und Thilgath-Pilneser, (letzteres spätere Umbildung der gew. Namensform Thiglath-Pileser (a) 2Kön 15:19 29: bez ein und dieselbe Person. vgl. 2Kön 15:19 29
 
 ### Chapter 6
 
@@ -21784,7 +21784,7 @@
 
 **[6:80]** im Stamme Gad: Ramoth in Gilead mit seinen Weideplätzen, Mahanaim mit seinen Weideplätzen,
 
-**[6:81]** Hesbon mit seinen Weideplätzen und Jaeser mit seinen Weideplätzen. 
+**[6:81]** Hesbon mit seinen Weideplätzen und Jaeser mit seinen Weideplätzen.
 
 ### Chapter 7
 
@@ -21866,7 +21866,7 @@
 
 **[7:39]** Die Söhne Ullas: Arah, Hanniel und Rizja.
 
-**[7:40]** Das alles sind Söhne Assers, Häupter der Familien, auserlesene, tüchtige Kriegsleute, die ersten der Fürsten. Ihr Familienregister wies für das Kriegsheer die Zahl von 26 000 Mann auf. 
+**[7:40]** Das alles sind Söhne Assers, Häupter der Familien, auserlesene, tüchtige Kriegsleute, die ersten der Fürsten. Ihr Familienregister wies für das Kriegsheer die Zahl von 26 000 Mann auf.
 
 ### Chapter 8
 
@@ -21948,7 +21948,7 @@
 
 **[8:39]** Die Söhne seines Bruders Esek: Ulam, sein Erstgeborner; Jehus, sein zweiter Sohn; Eliphelet, sein dritter.
 
-**[8:40]** Die Söhne Ulams aber waren tüchtige Männer, Bogenschützen; sie hatten viele Söhne und Enkel: 150. Diese alle gehören zu den Benjaminiten. 
+**[8:40]** Die Söhne Ulams aber waren tüchtige Männer, Bogenschützen; sie hatten viele Söhne und Enkel: 150. Diese alle gehören zu den Benjaminiten.
 
 ### Chapter 9
 
@@ -22038,7 +22038,7 @@
 
 **[9:43]** Moza zeugte Binea. Dessen Sohn war Rephaja; dessen Sohn Eleasa; dessen Sohn Azel.
 
-**[9:44]** Azel aber hatte sechs Söhne, die hiessen: Asrikam, Bochru, Ismael, Searja, Obadja und Hanan. Das sind die Söhne Azels. 
+**[9:44]** Azel aber hatte sechs Söhne, die hiessen: Asrikam, Bochru, Ismael, Searja, Obadja und Hanan. Das sind die Söhne Azels.
 
 ### Chapter 10
 
@@ -22068,7 +22068,7 @@
 
 **[10:13]** Also starb Saul um seiner Treulosigkeit willen, die er an dem Herrn begangen hatte, wegen des Wortes des Herrn, das er nicht gehalten hatte, und ferner weil er einen Totengeist befragt hatte, um eine Offenbarung zu bekommen, (a) 1Sa 15:23; 28:8
 
-**[10:14]** beim Herrn aber nicht Rat geholt hatte; darum liess er ihn umkommen und wandte das Königtum David, dem Sohne Isais, zu. 
+**[10:14]** beim Herrn aber nicht Rat geholt hatte; darum liess er ihn umkommen und wandte das Königtum David, dem Sohne Isais, zu.
 
 ### Chapter 11
 
@@ -22164,7 +22164,7 @@
 
 **[11:46]** Eliel aus Mahanaim; Jeribai und Josawja, die Söhne Elnaams; Jithma, der Moabiter;
 
-**[11:47]** Eliel, Obed und Jaasiel aus Zoba. 
+**[11:47]** Eliel, Obed und Jaasiel aus Zoba.
 
 ### Chapter 12
 
@@ -22246,7 +22246,7 @@
 
 **[12:39]** Und sie waren dort bei David drei Tage lang, assen und tranken; denn ihre Volksgenossen hatten für sie gesorgt.
 
-**[12:40]** Auch brachten die, die in ihrer Nähe bis nach Issaschar, Sebulon und Naphthali wohnten, Lebensmittel auf Eseln, Kamelen, Maultieren und Rindern, Mundvorrat an Mehl, ferner Feigen - und Rosinenkuchen, Wein und Öl, Rinder und Schafe in Menge; denn es herrschte Freude in Israel. 
+**[12:40]** Auch brachten die, die in ihrer Nähe bis nach Issaschar, Sebulon und Naphthali wohnten, Lebensmittel auf Eseln, Kamelen, Maultieren und Rindern, Mundvorrat an Mehl, ferner Feigen - und Rosinenkuchen, Wein und Öl, Rinder und Schafe in Menge; denn es herrschte Freude in Israel.
 
 ### Chapter 13
 
@@ -22276,7 +22276,7 @@
 
 **[13:13]** Und David liess die Lade nicht zu sich in die Davidsstadt bringen, sondern liess sie beiseite führen zu dem Hause Obed-Edoms aus Gath.
 
-**[13:14]** So verblieb die Lade Gottes drei Monate beim Hause Obed-Edoms in eignem Hause, und der Herr segnete das Haus Obed-Edoms und alles, was er hatte. 
+**[13:14]** So verblieb die Lade Gottes drei Monate beim Hause Obed-Edoms in eignem Hause, und der Herr segnete das Haus Obed-Edoms und alles, was er hatte.
 
 ### Chapter 14
 
@@ -22312,7 +22312,7 @@
 
 **[14:16]** Und David tat, wie Gott ihm geboten hatte, und sie schlugen das Heer der Philister von Gibeon an bis Geser.
 
-**[14:17]** Und der Ruhm Davids verbreitete sich in allen Landen, und der Herr liess den Schrecken vor ihm auf alle Völker fallen. 
+**[14:17]** Und der Ruhm Davids verbreitete sich in allen Landen, und der Herr liess den Schrecken vor ihm auf alle Völker fallen.
 
 ### Chapter 15
 
@@ -22340,7 +22340,7 @@
 
 **[15:12]** und sprach zu ihnen: Ihr seid die Familienhäupter der Leviten; so weihet euch nun samt euren Brüdern, damit ihr die Lade des Herrn, des Gottes Israels, hinaufbringet an die Stätte, die ich für sie hergerichtet habe.
 
-**[15:13]** Weil ihr das erstemal nicht dagewesen seid, hat der Herr, unser Gott, uns einen Verlust erleiden lassen, da wir nicht nach ihr fragten, wie es sich gebührte. (a) 1Ch 13:9-11 
+**[15:13]** Weil ihr das erstemal nicht dagewesen seid, hat der Herr, unser Gott, uns einen Verlust erleiden lassen, da wir nicht nach ihr fragten, wie es sich gebührte. (a) 1Ch 13:9-11
 
 **[15:14]** Also weihten sich die Priester und Leviten, um die Lade des Herrn, des Gottes Israels, hinaufzubringen.
 
@@ -22460,7 +22460,7 @@
 
 **[16:42]** auch hatten sie Trompeten und Zimbeln für die, die sie zu spielen pflegten, und Instrumente für die Gotteslieder; die Söhne Jeduthuns endlich waren Torhüter.
 
-**[16:43]** Darauf ging alles Volk nach Hause, und auch David wandte sich, um die Seinen zu begrüssen. 
+**[16:43]** Darauf ging alles Volk nach Hause, und auch David wandte sich, um die Seinen zu begrüssen.
 
 ### Chapter 17
 
@@ -22516,7 +22516,7 @@
 
 **[17:26]** Und nun, Herr, du bist Gott und hast deinem Knechte solches Glück verheissen -
 
-**[17:27]** so wollest du denn das Haus deines Knechtes segnen, dass es ewig vor dir bestehe; denn was du, Herr, segnest, das ist gesegnet für alle Zeiten! 
+**[17:27]** so wollest du denn das Haus deines Knechtes segnen, dass es ewig vor dir bestehe; denn was du, Herr, segnest, das ist gesegnet für alle Zeiten!
 
 ### Chapter 18
 
@@ -22552,7 +22552,7 @@
 
 **[18:16]** Zadok, der Sohn Ahitubs, und Ahimelech, der Sohn Abjathars, waren Priester, Sawsa war Staatsschreiber,
 
-**[18:17]** Benaja, der Sohn Jojadas, war über die Kreter und Plether gesetzt, und die Söhne Davids waren die Ersten zur Seite des Königs. (1) d.h. die Leibwache. 
+**[18:17]** Benaja, der Sohn Jojadas, war über die Kreter und Plether gesetzt, und die Söhne Davids waren die Ersten zur Seite des Königs. (1) d.h. die Leibwache.
 
 ### Chapter 19
 
@@ -22592,7 +22592,7 @@
 
 **[19:18]** Aber die Syrer flohen vor Israel. Und David tötete von den Syrern die Bemannung von siebentausend Streitwagen, sowie 40 000 Mann Fussvolk; auch den Feldhauptmann Sophach tötete er.
 
-**[19:19]** Als sich nun die Leute Hadar-Esers von den Israeliten geschlagen sahen, machten sie Frieden mit David und unterwarfen sich ihm. Und die Syrer hatten keine Lust mehr, den Ammonitern noch fernerhin zu helfen. 
+**[19:19]** Als sich nun die Leute Hadar-Esers von den Israeliten geschlagen sahen, machten sie Frieden mit David und unterwarfen sich ihm. Und die Syrer hatten keine Lust mehr, den Ammonitern noch fernerhin zu helfen.
 
 ### Chapter 20
 
@@ -22610,7 +22610,7 @@
 
 **[20:7]** Als er nun Israel verhöhnte, erschlug ihn Jonathan, der Sohn Simeas, des Bruders Davids.
 
-**[20:8]** Diese stammten von den Riesen in Gath, und sie fielen durch die Hand Davids und seiner Leute. 
+**[20:8]** Diese stammten von den Riesen in Gath, und sie fielen durch die Hand Davids und seiner Leute.
 
 ### Chapter 21
 
@@ -22672,7 +22672,7 @@
 
 **[21:29]** Die Wohnung des Herrn aber, die Mose in der Wüste hatte erstellen lassen, und der Brandopferaltar befanden sich zu jener Zeit auf der Opferhöhe zu Gibeon. (a) 1Ch 16:39; 2Mo 36
 
-**[21:30]** David wagte jedoch nicht, vor denselben hinzutreten, um Gott zu suchen; denn er war von Schrecken überwältigt vor dem Schwert des Engels des Herrn. 
+**[21:30]** David wagte jedoch nicht, vor denselben hinzutreten, um Gott zu suchen; denn er war von Schrecken überwältigt vor dem Schwert des Engels des Herrn.
 
 ### Chapter 22
 
@@ -22712,7 +22712,7 @@
 
 **[22:18]** Ist nicht der Herr, euer Gott, mit euch gewesen und hat euch Ruhe verschafft ringsumher? Hat er doch die Bewohner des Landes in meine Gewalt gegeben, und das Land ist dem Herrn und seinem Volke untertan.
 
-**[22:19]** So richtet denn Herz und Sinn darauf, den Herrn, euren Gott, zu suchen! Und macht euch auf und bauet das Heiligtum Gottes, des Herrn, damit man die Bundeslade des Herrn und die heiligen Geräte Gottes in das Haus bringe, das dem Namen des Herrn erbaut werden soll. 
+**[22:19]** So richtet denn Herz und Sinn darauf, den Herrn, euren Gott, zu suchen! Und macht euch auf und bauet das Heiligtum Gottes, des Herrn, damit man die Bundeslade des Herrn und die heiligen Geräte Gottes in das Haus bringe, das dem Namen des Herrn erbaut werden soll.
 
 ### Chapter 23
 
@@ -22778,7 +22778,7 @@
 
 **[23:31]** endlich bei jeder Darbringung von Brandopfern für den Herrn an den Sabbaten, Neumonden und Festen, wann sie in der erforderlichen Zahl nach der für sie bestehenden Vorschrift Tag für Tag vor dem Herrn dargebracht werden.
 
-**[23:32]** So sollen sie die Geschäfte am heiligen Zelt besorgen und die Geschäfte am Heiligtum und die Geschäfte an der Seite der Söhne Aarons, ihrer Stammesgenossen, beim Dienste im Hause des Herrn. 
+**[23:32]** So sollen sie die Geschäfte am heiligen Zelt besorgen und die Geschäfte am Heiligtum und die Geschäfte an der Seite der Söhne Aarons, ihrer Stammesgenossen, beim Dienste im Hause des Herrn.
 
 ### Chapter 24
 
@@ -22842,7 +22842,7 @@
 
 **[24:30]** Die Söhne Musis: Mahli, Eder und Jerimoth. Das sind die Nachkommen der Leviten nach ihren Familien.
 
-**[24:31]** Auch sie warfen Lose gleich ihren Stammesgenossen, den Söhnen Aarons, vor König David und Zadok und Ahimelech und vor den Familienhäuptern der Priester und Leviten, und zwar das Familienhaupt nicht anders als sein geringster Stammesgenosse. 
+**[24:31]** Auch sie warfen Lose gleich ihren Stammesgenossen, den Söhnen Aarons, vor König David und Zadok und Ahimelech und vor den Familienhäuptern der Priester und Leviten, und zwar das Familienhaupt nicht anders als sein geringster Stammesgenosse.
 
 ### Chapter 25
 
@@ -22906,7 +22906,7 @@
 
 **[25:30]** das dreiundzwanzigste auf Mahasioth, seine Söhne und Brüder, zusammen zwölf;
 
-**[25:31]** das vierundzwanzigste auf Romamthi-Eser, seine Söhne und Brüder, zusammen zwölf. 
+**[25:31]** das vierundzwanzigste auf Romamthi-Eser, seine Söhne und Brüder, zusammen zwölf.
 
 ### Chapter 26
 
@@ -22972,7 +22972,7 @@
 
 **[26:31]** Zu den Hebroniten gehörten: Jeria, das Oberhaupt - was die Hebroniten betrifft, ihre Geschlechter und Familien, so forschte man nach ihnen im vierzigsten Jahre der Regierung Davids, und es fanden sich welche, wackere Männer, zu Jaeser in Gilead -,
 
-**[26:32]** dazu seine Stammesgenossen, tüchtige Leute, ihrer 2 700; die setzte König David über die Rubeniten, die Gaditen und den halben Stamm Manasse für alle Angelegenheiten Gottes und des Königs. 
+**[26:32]** dazu seine Stammesgenossen, tüchtige Leute, ihrer 2 700; die setzte König David über die Rubeniten, die Gaditen und den halben Stamm Manasse für alle Angelegenheiten Gottes und des Königs.
 
 ### Chapter 27
 
@@ -23042,7 +23042,7 @@
 
 **[27:33]** Ahithophel war des Königs Ratgeber und der Arkiter Husai des Königs Freund. (a) 2Sa 15:12; 16:16
 
-**[27:34]** Ahithophels Nachfolger waren Jojada, der Sohn Benajas, und Abjathar. Des Königs Feldhauptmann war Joab. 
+**[27:34]** Ahithophels Nachfolger waren Jojada, der Sohn Benajas, und Abjathar. Des Königs Feldhauptmann war Joab.
 
 ### Chapter 28
 
@@ -23086,7 +23086,7 @@
 
 **[28:20]** Und David sprach zu seinem Sohne Salomo: Geh fest und unentwegt ans Werk, furchtlos und unverzagt; denn Gott, der Herr, mein Gott, wird mit dir sein! Er wird die Hand nicht von dir abziehen, noch dich verlassen, bis alle Arbeiten für den Dienst am Tempel vollendet sind.
 
-**[28:21]** Siehe, da sind bereits die Abteilungen der Priester und Leviten für jeglichen Dienst am Gotteshaus; und bei jedem Werke werden dir solche zur Seite sein, die sich mit ihrer Kunstfertigkeit für alle die Dienstleistungen zur Verfügung stellen, auch die Fürsten und das ganze Volk, für alle deine Angelegenheiten. 
+**[28:21]** Siehe, da sind bereits die Abteilungen der Priester und Leviten für jeglichen Dienst am Gotteshaus; und bei jedem Werke werden dir solche zur Seite sein, die sich mit ihrer Kunstfertigkeit für alle die Dienstleistungen zur Verfügung stellen, auch die Fürsten und das ganze Volk, für alle deine Angelegenheiten.
 
 ### Chapter 29
 
@@ -23148,7 +23148,7 @@
 
 **[29:29]** Die Geschichte König Davids aber, von Anfang bis zu Ende, siehe, sie ist ja aufgezeichnet in der Geschichte des Sehers Samuel und in der Geschichte des Propheten Nathan und in der Geschichte des Sehers Gad, (a) 1Ch 21:9; 2Sa 12:1 25
 
-**[29:30]** und zwar mit Einschluss seiner ganzen machtvollen Regierung und der Schicksale, die über ihn und über Israel und alle Königreiche der Länder ergangen sind.  
+**[29:30]** und zwar mit Einschluss seiner ganzen machtvollen Regierung und der Schicksale, die über ihn und über Israel und alle Königreiche der Länder ergangen sind.
 
 ## II Chronicles
 
@@ -23186,7 +23186,7 @@
 
 **[1:16]** Die Einfuhr der Pferde für Salomo erfolgte von Ägypten und von Koa her; die Händler des Königs holten sie aus Koa gegen bare Bezahlung.
 
-**[1:17]** Es kam bei der Ausfuhr aus Ägypten ein Wagen auf sechshundert Lot Silber und ein Pferd auf 150 zu stehen. Ebenso wurden sie durch Vermittlung der Händler auch an alle Könige der Hethiter und an die Könige von Syrien ausgeführt. 
+**[1:17]** Es kam bei der Ausfuhr aus Ägypten ein Wagen auf sechshundert Lot Silber und ein Pferd auf 150 zu stehen. Ebenso wurden sie durch Vermittlung der Händler auch an alle Könige der Hethiter und an die Könige von Syrien ausgeführt.
 
 ### Chapter 2
 
@@ -23224,7 +23224,7 @@
 
 **[2:17]** Und Salomo liess alle Fremdlinge im Lande Israels zählen nach der (früheren) Zählung, die sein Vater David veranstaltet hatte, und es fanden sich 153 600.
 
-**[2:18]** Und er machte 70 000 von ihnen zu Lastträgern, 80 000 zu Steinmetzen im Gebirge (Juda) und 3 600 zu Aufsehern, die die Leute zur Arbeit anzuhalten hatten. (a) 2Ch 8:7 8 
+**[2:18]** Und er machte 70 000 von ihnen zu Lastträgern, 80 000 zu Steinmetzen im Gebirge (Juda) und 3 600 zu Aufsehern, die die Leute zur Arbeit anzuhalten hatten. (a) 2Ch 8:7 8
 
 ### Chapter 3
 
@@ -23260,7 +23260,7 @@
 
 **[3:16]** Und er liess Kettengewinde anfertigen, die er oben an den Säulen anbrachte, ferner hundert Granatäpfel, die er an den Ketten befestigte.
 
-**[3:17]** Die Säulen richtete er vor dem Tempel auf, die eine zur Rechten, die andre zur Linken, und nannte die zur Rechten Jachin, die zur Linken Boas. 
+**[3:17]** Die Säulen richtete er vor dem Tempel auf, die eine zur Rechten, die andre zur Linken, und nannte die zur Rechten Jachin, die zur Linken Boas.
 
 ### Chapter 4
 
@@ -23306,7 +23306,7 @@
 
 **[4:21]** mit den goldenen Blumen, Lampen und Lichtscheren, alles aus lauterem Gold;
 
-**[4:22]** dazu die Messer, Sprengschalen, Schüsseln und Räucherpfannen von gediegenem Gold; auch die Angeln des Hauses an seinen inneren Türflügeln zum Allerheiligsten und an den Türflügeln des Tempels, des Hauptraumes, waren von Gold. 
+**[4:22]** dazu die Messer, Sprengschalen, Schüsseln und Räucherpfannen von gediegenem Gold; auch die Angeln des Hauses an seinen inneren Türflügeln zum Allerheiligsten und an den Türflügeln des Tempels, des Hauptraumes, waren von Gold.
 
 ### Chapter 5
 
@@ -23336,7 +23336,7 @@
 
 **[5:13]** und es geschah, als sie miteinander bliesen und sangen, war es zu hören wie eine Stimme zum Lob und Preis des Herrn; und als sie so anhoben mit Trompeten, Zimbeln und Saitenspiel und mit dem Lobpreis des Herrn: "Denn er ist freundlich; ja seine Güte währet ewig!" - da wurde der Tempel des Herrn von einer Wolke erfüllt. (a) Ps 136:1
 
-**[5:14]** Und die Priester konnten wegen der Wolke nicht hintreten, ihres Amtes zu warten; denn die Herrlichkeit des Herrn erfüllte den Tempel. 
+**[5:14]** Und die Priester konnten wegen der Wolke nicht hintreten, ihres Amtes zu warten; denn die Herrlichkeit des Herrn erfüllte den Tempel.
 
 ### Chapter 6
 
@@ -23422,7 +23422,7 @@
 
 **[6:41]** Und nun mache dich auf, Herr Gott, zu deiner Ruhstatt, / du und die Lade deiner Macht! / Deine Priester, Herr Gott, sollen sich kleiden in Heil, / und deine Frommen des Guten sich freuen! / (1) V. 41-42: Ps 132:8-10
 
-**[6:42]** Herr Gott, weise deinen Gesalbten nicht ab, / gedenke der Gnaden, die du deinem Knechte David verheissen! 
+**[6:42]** Herr Gott, weise deinen Gesalbten nicht ab, / gedenke der Gnaden, die du deinem Knechte David verheissen!
 
 ### Chapter 7
 
@@ -23468,7 +23468,7 @@
 
 **[7:21]** Und ein jeder, der an diesem Hause, das so erhaben war, vorübergeht, wird sich entsetzen, und wenn man fragt: "Warum hat der Herr diesem Lande und diesem Hause solches angetan?" (a) 5Mo 29:24
 
-**[7:22]** so wird man antworten: "Weil sie den Herrn, den Gott ihrer Väter, der sie aus dem Lande Ägypten herausgeführt hat, verlassen und sich an andre Götter gehalten, sie angebetet und ihnen gedient haben, darum hat er all dieses Unglück über sie gebracht." 
+**[7:22]** so wird man antworten: "Weil sie den Herrn, den Gott ihrer Väter, der sie aus dem Lande Ägypten herausgeführt hat, verlassen und sich an andre Götter gehalten, sie angebetet und ihnen gedient haben, darum hat er all dieses Unglück über sie gebracht."
 
 ### Chapter 8
 
@@ -23506,7 +23506,7 @@
 
 **[8:17]** Damals zog Salomo nach Ezjon-Geber und nach Elath, die im Lande der Edomiter am Gestade des Meeres liegen.
 
-**[8:18]** Und Huram sandte ihm durch seine Knechte Schiffe und Leute, die des Meeres kundig waren, und sie fuhren mit den Knechten Salomos zusammen nach Ophir und holten dort 450 Talente Gold und brachten es dem König Salomo. 
+**[8:18]** Und Huram sandte ihm durch seine Knechte Schiffe und Leute, die des Meeres kundig waren, und sie fuhren mit den Knechten Salomos zusammen nach Ophir und holten dort 450 Talente Gold und brachten es dem König Salomo.
 
 ### Chapter 9
 
@@ -23570,7 +23570,7 @@
 
 **[9:30]** Salomo regierte in Jerusalem über ganz Israel vierzig Jahre.
 
-**[9:31]** Und Salomo legte sich zu seinen Vätern, und man begrub ihn in der Stadt seines Vaters David, und sein Sohn Rehabeam wurde König an seiner Statt. 
+**[9:31]** Und Salomo legte sich zu seinen Vätern, und man begrub ihn in der Stadt seines Vaters David, und sein Sohn Rehabeam wurde König an seiner Statt.
 
 ### Chapter 10
 
@@ -23610,7 +23610,7 @@
 
 **[10:18]** Als nun Rehabeam den Fronvogt Hadoram hinsandte, warfen ihn die Israeliten mit Steinen zu Tode; der König Rehabeam aber stieg eilends auf seinen Wagen und floh nach Jerusalem.
 
-**[10:19]** So fiel Israel ab vom Hause David bis auf diesen Tag. 
+**[10:19]** So fiel Israel ab vom Hause David bis auf diesen Tag.
 
 ### Chapter 11
 
@@ -23658,7 +23658,7 @@
 
 **[11:22]** Und Rehabeam setzte Abia, den Sohn der Maacha, zum Familienhaupt ein, zum Fürsten unter seinen Brüdern; denn er gedachte, ihn zum König zu machen.
 
-**[11:23]** Und mit grosser Klugheit verteilte er aus der Schar seiner Söhne eine Anzahl auf alle Landstriche von Juda und Benjamin und auf alle befestigten Städte und gab ihnen reichliches Auskommen und verschaffte ihnen Frauen. 
+**[11:23]** Und mit grosser Klugheit verteilte er aus der Schar seiner Söhne eine Anzahl auf alle Landstriche von Juda und Benjamin und auf alle befestigten Städte und gab ihnen reichliches Auskommen und verschaffte ihnen Frauen.
 
 ### Chapter 12
 
@@ -23692,7 +23692,7 @@
 
 **[12:15]** Die Geschichte Rehabeams aber, von Anfang bis zu Ende, steht ja geschrieben in der Chronik des Propheten Semaja und der des Sehers Iddo. Die Kriege zwischen Rehabeam und Jerobeam aber währten die ganze Zeit. (a) 2Ch 11:2; 12:5; 13:22
 
-**[12:16]** Und Rehabeam legte sich zu seinen Vätern und ward in der Davidsstadt begraben. Und sein Sohn Abia wurde König an seiner Statt. 
+**[12:16]** Und Rehabeam legte sich zu seinen Vätern und ward in der Davidsstadt begraben. Und sein Sohn Abia wurde König an seiner Statt.
 
 ### Chapter 13
 
@@ -23738,7 +23738,7 @@
 
 **[13:21]** Abia aber wurde mächtig; er heiratete vierzehn Frauen und zeugte 22 Söhne und sechzehn Töchter.
 
-**[13:22]** Was sonst noch von Abia zu sagen ist, was er getan und was er geredet hat, das steht geschrieben in der Schrift des Propheten Iddo. 
+**[13:22]** Was sonst noch von Abia zu sagen ist, was er getan und was er geredet hat, das steht geschrieben in der Schrift des Propheten Iddo.
 
 ### Chapter 14
 
@@ -23770,7 +23770,7 @@
 
 **[14:14]** Sie vernichteten auch alle Städte in der Umgebung von Gerar; denn über diese war der Schrecken des Herrn gekommen. Und sie plünderten alle Städte; es war nämlich grosse Beute darin.
 
-**[14:15]** Und auch die Zelte mit den Viehherden schlugen sie und führten Schafe in Menge und Kamele hinweg und kehrten nach Jerusalem zurück. 
+**[14:15]** Und auch die Zelte mit den Viehherden schlugen sie und führten Schafe in Menge und Kamele hinweg und kehrten nach Jerusalem zurück.
 
 ### Chapter 15
 
@@ -23810,7 +23810,7 @@
 
 **[15:18]** Auch liess er die Weihgeschenke seines Vaters und seine eignen in den Tempel bringen, Silber, Gold und Geräte.
 
-**[15:19]** Bis zum 35. Jahre der Regierung Asas war kein Krieg. 
+**[15:19]** Bis zum 35. Jahre der Regierung Asas war kein Krieg.
 
 ### Chapter 16
 
@@ -23840,7 +23840,7 @@
 
 **[16:13]** Und Asa legte sich zu seinen Vätern; er starb im 41. Jahre seiner Regierung.
 
-**[16:14]** Und man begrub ihn in der Grabstätte, die er sich in der Davidsstadt hatte aushauen lassen, und legte ihn auf das Lager, das man mit Spezerei und allerlei Art von wohlriechenden Salben, in kunstgerechter Mischung bereitet, angefüllt hatte. Und sie zündeten ihm zu Ehren ein mächtig grosses Feuer an. (a) Jer 34:5 
+**[16:14]** Und man begrub ihn in der Grabstätte, die er sich in der Davidsstadt hatte aushauen lassen, und legte ihn auf das Lager, das man mit Spezerei und allerlei Art von wohlriechenden Salben, in kunstgerechter Mischung bereitet, angefüllt hatte. Und sie zündeten ihm zu Ehren ein mächtig grosses Feuer an. (a) Jer 34:5
 
 ### Chapter 17
 
@@ -23880,7 +23880,7 @@
 
 **[17:18]** und neben ihm Josabad, mit 180 000 Kriegsgerüsteten.
 
-**[17:19]** Diese standen im Dienste des Königs, ausser denen, welche der König in die befestigten Städte von ganz Juda gelegt hatte. 
+**[17:19]** Diese standen im Dienste des Königs, ausser denen, welche der König in die befestigten Städte von ganz Juda gelegt hatte.
 
 ### Chapter 18
 
@@ -23950,7 +23950,7 @@
 
 **[18:33]** Ein Mann aber hatte von ungefähr den Bogen gespannt und traf den König von Israel zwischen dem Ringelgurt und dem Panzer. Da sprach er zum Wagenlenker: Wende um und führe mich aus dem Kampfe weg; denn ich bin verwundet.
 
-**[18:34]** Da nun an jenem Tage die Schlacht heiss entbrannte, hielt sich der König von Israel den Syrern gegenüber aufrecht im Wagen bis zum Abend; um die Zeit des Sonnenuntergangs aber starb er. 
+**[18:34]** Da nun an jenem Tage die Schlacht heiss entbrannte, hielt sich der König von Israel den Syrern gegenüber aufrecht im Wagen bis zum Abend; um die Zeit des Sonnenuntergangs aber starb er.
 
 ### Chapter 19
 
@@ -23974,7 +23974,7 @@
 
 **[19:10]** wenn irgendeine Streitsache vor euch gebracht wird von seiten eurer Brüder, die in ihren Städten wohnen, wenn es zu entscheiden gilt über irgendeinen Fall von Blutschuld, über ein Gesetz oder Gebot, über Satzungen oder Rechte, so sollt ihr die Leute warnen, dass sie sich nicht gegen den Herrn verschulden und nicht sein Zorn über euch und eure Brüder komme. So sollt ihr tun, dass ihr euch nicht verschuldet.
 
-**[19:11]** Siehe, der Hohepriester Amarja ist euer Vorsteher in allen Angelegenheiten, die den Herrn betreffen, und Sebadja, der Sohn Ismaels, der Fürst aus dem Hause Juda, in allen Angelegenheiten, die den König betreffen, und als Beamte stehen euch die Leviten zur Verfügung. Nun gehet mannhaft ans Werk, und der Herr sei mit dem, der seine Pflicht tut. 
+**[19:11]** Siehe, der Hohepriester Amarja ist euer Vorsteher in allen Angelegenheiten, die den Herrn betreffen, und Sebadja, der Sohn Ismaels, der Fürst aus dem Hause Juda, in allen Angelegenheiten, die den König betreffen, und als Beamte stehen euch die Leviten zur Verfügung. Nun gehet mannhaft ans Werk, und der Herr sei mit dem, der seine Pflicht tut.
 
 ### Chapter 20
 
@@ -24050,7 +24050,7 @@
 
 **[20:36]** Er verbündete sich mit ihm, um Schiffe zu bauen, die nach Tharsis gehen sollten; diese Schiffe bauten sie in Ezjon-Geber.
 
-**[20:37]** Da weissagte Elieser, der Sohn Dodias aus Maresa, über Josaphat und sprach: Weil du dich mit Ahasja verbündet hast, zerbricht der Herr dein Machwerk. Und die Schiffe scheiterten und konnten nicht nach Tharsis fahren. 
+**[20:37]** Da weissagte Elieser, der Sohn Dodias aus Maresa, über Josaphat und sprach: Weil du dich mit Ahasja verbündet hast, zerbricht der Herr dein Machwerk. Und die Schiffe scheiterten und konnten nicht nach Tharsis fahren.
 
 ### Chapter 21
 
@@ -24092,7 +24092,7 @@
 
 **[21:19]** Und nach Jahr und Tag, nach Verfluss von zwei Jahren, traten ihm infolge der Krankheit die Eingeweide aus, sodass er unter furchtbaren Schmerzen starb. Und seine Leute zündeten ihm kein Feuer an, wie man zu Ehren seiner Väter getan hatte. (a) 2Ch 16:14
 
-**[21:20]** 32 Jahre alt war er, als er König wurde, und acht Jahre regierte er zu Jerusalem. So ging er dahin, von niemand bedauert. Sie begruben ihn in der Davidsstadt, doch nicht in den Gräbern der Könige. 
+**[21:20]** 32 Jahre alt war er, als er König wurde, und acht Jahre regierte er zu Jerusalem. So ging er dahin, von niemand bedauert. Sie begruben ihn in der Davidsstadt, doch nicht in den Gräbern der Könige.
 
 ### Chapter 22
 
@@ -24118,7 +24118,7 @@
 
 **[22:11]** Josabath aber, die Tochter des Königs (Joram), nahm Joas, den Sohn Ahasjas, brachte ihn heimlich mitten aus den Königssöhnen, die getötet werden sollten, beiseite und tat ihn samt seiner Amme in den Bettenraum; so verbarg ihn Josabath, die Tochter des Königs Joram, das Weib des Priesters Jojada - sie war nämlich die Schwester Ahasjas - vor Athalja, sodass diese ihn nicht töten konnte.
 
-**[22:12]** Und er war bei ihr im Tempel sechs Jahre lang versteckt, während Athalja über das Land herrschte. 
+**[22:12]** Und er war bei ihr im Tempel sechs Jahre lang versteckt, während Athalja über das Land herrschte.
 
 ### Chapter 23
 
@@ -24162,7 +24162,7 @@
 
 **[23:20]** Hierauf führte er zusammen mit den Obersten und den Vornehmen und denjenigen, die im Volk eine leitende Stellung einnahmen, und zusammen mit dem ganzen Volk des Landes den König aus dem Tempel des Herrn hinab, und sie zogen durch das obere Tor in den Königspalast ein. Dort setzten sie den König auf den Königsthron,
 
-**[23:21]** und alles Volk des Landes war fröhlich, und die Stadt blieb ruhig; Athalja aber hatte man mit dem Schwerte getötet. 
+**[23:21]** und alles Volk des Landes war fröhlich, und die Stadt blieb ruhig; Athalja aber hatte man mit dem Schwerte getötet.
 
 ### Chapter 24
 
@@ -24218,7 +24218,7 @@
 
 **[24:26]** Die sich aber gegen ihn verschworen hatten, waren: Sabad, der Sohn der Ammoniterin Simeath, und Josabad, der Sohn der Moabiterin Simrith.
 
-**[24:27]** Was aber seine Söhne betrifft und die vielen Prophetensprüche über ihn und den Neubau des Tempels, das steht ja geschrieben in der Erklärung zum Buch der Könige. Und sein Sohn Amazja wurde König an seiner Statt. 
+**[24:27]** Was aber seine Söhne betrifft und die vielen Prophetensprüche über ihn und den Neubau des Tempels, das steht ja geschrieben in der Erklärung zum Buch der Könige. Und sein Sohn Amazja wurde König an seiner Statt.
 
 ### Chapter 25
 
@@ -24276,7 +24276,7 @@
 
 **[25:27]** Und von der Zeit an, da Amazja vom Herrn abgefallen war, wurde in Jerusalem gegen ihn eine Verschwörung angezettelt. Da floh er nach Lachis; aber man sandte hinter ihm her und liess ihn daselbst töten.
 
-**[25:28]** Dann hob man ihn auf den Wagen, und man begrub ihn bei seinen Vätern in der Davidsstadt. 
+**[25:28]** Dann hob man ihn auf den Wagen, und man begrub ihn bei seinen Vätern in der Davidsstadt.
 
 ### Chapter 26
 
@@ -24324,7 +24324,7 @@
 
 **[26:22]** Was sonst noch von Usia zu sagen ist von Anfang bis zu Ende, das hat der Prophet Jesaja, der Sohn des Amoz, aufgezeichnet.
 
-**[26:23]** Und Usia legte sich zu seinen Vätern, und man begrub ihn bei seinen Vätern auf dem freien Felde bei der Grabstätte der Könige; denn sie sprachen: Es ist ein Aussätziger. Und sein Sohn Jotham wurde König an seiner Statt. 
+**[26:23]** Und Usia legte sich zu seinen Vätern, und man begrub ihn bei seinen Vätern auf dem freien Felde bei der Grabstätte der Könige; denn sie sprachen: Es ist ein Aussätziger. Und sein Sohn Jotham wurde König an seiner Statt.
 
 ### Chapter 27
 
@@ -24344,7 +24344,7 @@
 
 **[27:8]** 25 Jahre alt war er, als er König wurde, und sechzehn Jahre regierte er zu Jerusalem.
 
-**[27:9]** Und Jotham legte sich zu seinen Vätern, und man begrub ihn in der Davidsstadt, und sein Sohn Ahas wurde König an seiner Statt. 
+**[27:9]** Und Jotham legte sich zu seinen Vätern, und man begrub ihn in der Davidsstadt, und sein Sohn Ahas wurde König an seiner Statt.
 
 ### Chapter 28
 
@@ -24400,7 +24400,7 @@
 
 **[28:26]** Was sonst noch von ihm zu sagen ist, und alles, was er getan hat von Anfang bis zu Ende, das steht ja geschrieben im Buch der Könige von Juda und von Israel.
 
-**[28:27]** Und Ahas legte sich zu seinen Vätern und ward begraben in der Stadt, in Jerusalem; man setzte ihn nicht in den Gräbern der Könige Israels bei. Und sein Sohn Hiskia wurde König an seiner Statt. 
+**[28:27]** Und Ahas legte sich zu seinen Vätern und ward begraben in der Stadt, in Jerusalem; man setzte ihn nicht in den Gräbern der Könige Israels bei. Und sein Sohn Hiskia wurde König an seiner Statt.
 
 ### Chapter 29
 
@@ -24474,7 +24474,7 @@
 
 **[29:35]** Auch Brandopfer waren in Menge darzubringen samt den Fettstücken der Heilsopfer und den zum Brandopfer gehörenden Trankopfern. So wurde denn der Dienst am Tempel wiederhergestellt.
 
-**[29:36]** Hiskia aber und das ganze Volk waren hocherfreut über das, was Gott dem Volke hatte zuteil werden lassen; war doch die Sache sehr rasch vor sich gegangen. 
+**[29:36]** Hiskia aber und das ganze Volk waren hocherfreut über das, was Gott dem Volke hatte zuteil werden lassen; war doch die Sache sehr rasch vor sich gegangen.
 
 ### Chapter 30
 
@@ -24530,7 +24530,7 @@
 
 **[30:26]** Es war grosser Jubel in Jerusalem; denn seit den Tagen Salomos, des Sohnes Davids, des Königs von Israel, war solches nicht mehr dagewesen in Jerusalem.
 
-**[30:27]** Und die levitischen Priester erhoben sich und segneten das Volk, und ihre Stimme fand Erhörung, ihr Gebet drang bis zu seiner heiligen Wohnstatt, zum Himmel. (1) d.h. Gottes. (a) 4Mo 6:23-26 
+**[30:27]** Und die levitischen Priester erhoben sich und segneten das Volk, und ihre Stimme fand Erhörung, ihr Gebet drang bis zu seiner heiligen Wohnstatt, zum Himmel. (1) d.h. Gottes. (a) 4Mo 6:23-26
 
 ### Chapter 31
 
@@ -24574,7 +24574,7 @@
 
 **[31:20]** So tat Hiskia in ganz Juda; was vor dem Herrn, seinem Gott, gut und recht und Pflicht war, das tat er.
 
-**[31:21]** In allem Werk, das er hinsichtlich des Dienstes am Tempel und gemäss Gesetz und Gebot unternahm, um seinen Gott zu suchen, handelte er durchweg aufrichtig, und er hatte Glück. 
+**[31:21]** In allem Werk, das er hinsichtlich des Dienstes am Tempel und gemäss Gesetz und Gebot unternahm, um seinen Gott zu suchen, handelte er durchweg aufrichtig, und er hatte Glück.
 
 ### Chapter 32
 
@@ -24642,7 +24642,7 @@
 
 **[32:32]** Was sonst noch von Hiskia zu sagen ist und von seinen frommen Taten, siehe, das steht geschrieben im Offenbarungsbuch des Propheten Jesaja, des Sohnes des Amoz, und im Buch der Könige von Juda und von Israel.
 
-**[32:33]** Und Hiskia legte sich zu seinen Vätern, und man begrub ihn beim Aufstieg zu den Gräbern der Nachkommen Davids; und ganz Juda und die Bewohner Jerusalems erwiesen ihm Ehre bei seinem Tode. Und sein Sohn Manasse wurde König an seiner Statt. 
+**[32:33]** Und Hiskia legte sich zu seinen Vätern, und man begrub ihn beim Aufstieg zu den Gräbern der Nachkommen Davids; und ganz Juda und die Bewohner Jerusalems erwiesen ihm Ehre bei seinem Tode. Und sein Sohn Manasse wurde König an seiner Statt.
 
 ### Chapter 33
 
@@ -24694,7 +24694,7 @@
 
 **[33:24]** Da verschworen sich wider ihn seine eignen Diener und töteten ihn in seinem Palaste.
 
-**[33:25]** Aber das Landvolk erschlug alle, die sich wider den König Amon verschworen hatten, und das Landvolk machte seinen Sohn Josia zum König an seiner Statt. 
+**[33:25]** Aber das Landvolk erschlug alle, die sich wider den König Amon verschworen hatten, und das Landvolk machte seinen Sohn Josia zum König an seiner Statt.
 
 ### Chapter 34
 
@@ -24762,7 +24762,7 @@
 
 **[34:32]** Und er liess alle, die in Jerusalem anwesend waren, dem Bunde beitreten, und so handelten die Bewohner von Jerusalem entsprechend dem Bunde Gottes, des Gottes ihrer Väter.
 
-**[34:33]** Auch entfernte Josia all die greulichen Götzenbilder aus allen Landschaften der Israeliten, und alle die in Israel lebten, nötigte er, dem Herrn, ihrem Gott, zu dienen. Solange er lebte, wichen sie nicht vom Herrn, dem Gott ihrer Väter, ab. 
+**[34:33]** Auch entfernte Josia all die greulichen Götzenbilder aus allen Landschaften der Israeliten, und alle die in Israel lebten, nötigte er, dem Herrn, ihrem Gott, zu dienen. Solange er lebte, wichen sie nicht vom Herrn, dem Gott ihrer Väter, ab.
 
 ### Chapter 35
 
@@ -24818,7 +24818,7 @@
 
 **[35:26]** Was sonst noch von Josia zu sagen ist, seine frommen Taten, die dem entsprachen, was geschrieben steht im Gesetz des Herrn,
 
-**[35:27]** und seine Geschichte von Anfang bis zu Ende, siehe, das ist aufgezeichnet im Buch der Könige von Israel und von Juda. 
+**[35:27]** und seine Geschichte von Anfang bis zu Ende, siehe, das ist aufgezeichnet im Buch der Könige von Israel und von Juda.
 
 ### Chapter 36
 
@@ -24866,7 +24866,7 @@
 
 **[36:22]** Im ersten Jahre des Königs Cyrus von Persien erweckte der Herr, um das Wort zu erfüllen, das er durch Jeremia geredet hatte, den Geist des Cyrus, des Königs von Persien, sodass er überall in seinem ganzen Königreich mündlich und auch schriftlich verkünden liess: (a) Jer 29:10; Jes 44:28; Esr 1:1-3
 
-**[36:23]** So spricht Cyrus, der König von Persien: Alle Königreiche der Erde hat mir der Herr, der Gott des Himmels, gegeben, und er selber hat mir aufgetragen, ihm zu Jerusalem in Juda ein Haus zu bauen. Wer immer unter euch zu seinem Volke gehört, mit dem sei sein Gott, und er ziehe hinauf!  
+**[36:23]** So spricht Cyrus, der König von Persien: Alle Königreiche der Erde hat mir der Herr, der Gott des Himmels, gegeben, und er selber hat mir aufgetragen, ihm zu Jerusalem in Juda ein Haus zu bauen. Wer immer unter euch zu seinem Volke gehört, mit dem sei sein Gott, und er ziehe hinauf!
 
 ## Ezra
 
@@ -24876,7 +24876,7 @@
 
 **[1:2]** So spricht Cyrus, der König von Persien: Alle Königreiche der Erde hat mir der Herr, der Gott des Himmels, gegeben, und er selber hat mir aufgetragen, ihm zu Jerusalem in Juda ein Haus zu bauen.
 
-**[1:3]** Wer immer unter euch zu seinem Volke gehört, mit dem sei sein Gott, und er ziehe hinauf nach Jerusalem in Juda und baue das Haus des Herrn, des Gottes Israels. Das ist der Gott, der zu Jerusalem wohnt. 
+**[1:3]** Wer immer unter euch zu seinem Volke gehört, mit dem sei sein Gott, und er ziehe hinauf nach Jerusalem in Juda und baue das Haus des Herrn, des Gottes Israels. Das ist der Gott, der zu Jerusalem wohnt.
 
 **[1:4]** Und wer noch übrig ist, den sollen allerorten, wo er als Fremdling weilt, die Leute seines Ortes unterstützen mit Silber und Gold, mit Pferden und Vieh sowie mit freiwilligen Gaben für das Haus des Herrn in Jerusalem.
 
@@ -25034,7 +25034,7 @@
 
 **[2:69]** sie gaben nach ihrem Vermögen an den Schatz für den Gottesdienst 61 000 Drachmen in Gold, fünftausend Minen Silber und hundert Priestergewänder.
 
-**[2:70]** Und die Priester und Leviten und ein Teil des Volkes sowie die Sänger, Torhüter und Tempelhörigen liessen sich in den für sie bestimmten Ortschaften nieder, alle (übrigen) Israeliten aber in ihren Ortschaften. 
+**[2:70]** Und die Priester und Leviten und ein Teil des Volkes sowie die Sänger, Torhüter und Tempelhörigen liessen sich in den für sie bestimmten Ortschaften nieder, alle (übrigen) Israeliten aber in ihren Ortschaften.
 
 ### Chapter 3
 
@@ -25062,7 +25062,7 @@
 
 **[3:12]** Viele aber von den Priestern und Leviten und Familienhäuptern, die Alten, die den frühern Tempel noch gesehen hatten, weinten laut, als nun zu diesem der Grund gelegt wurde; viele andre jedoch brachen vor Freude in lauten Jubel aus. (a) Hag 2:3
 
-**[3:13]** Man konnte das Freudengeschrei nicht von dem lauten Weinen des Volkes unterscheiden; denn die Leute jubelten laut, sodass es weithin zu hören war. 
+**[3:13]** Man konnte das Freudengeschrei nicht von dem lauten Weinen des Volkes unterscheiden; denn die Leute jubelten laut, sodass es weithin zu hören war.
 
 ### Chapter 4
 
@@ -25112,7 +25112,7 @@
 
 **[4:23]** Als sodann die Abschrift des Schreibens des Königs Arthahsastha vor Rehum und Simsai, dem Schreiber, und ihren Genossen verlesen worden war, gingen sie eilends nach Jerusalem zu den Juden und zwangen sie mit Gewalt, (von ihrer Arbeit) abzustehen.
 
-**[4:24]** Darauf wurde die Arbeit am Gotteshause zu Jerusalem eingestellt und stand stille bis in das zweite Jahr der Regierung des Königs Darius von Persien. 
+**[4:24]** Darauf wurde die Arbeit am Gotteshause zu Jerusalem eingestellt und stand stille bis in das zweite Jahr der Regierung des Königs Darius von Persien.
 
 ### Chapter 5
 
@@ -25148,7 +25148,7 @@
 
 **[5:16]** Da kam jener Sesbazzar und legte die Fundamente zum Gotteshaus in Jerusalem; und seit der Zeit wird bis jetzt daran gebaut, aber es ist noch nicht fertig.'
 
-**[5:17]** Und nun, wenn es dem König gefällt, so forsche man nach in den Schatzhäusern des Königs dort in Babel, ob es sich so verhält, dass von König Cyrus befohlen worden ist, das Gotteshaus zu Jerusalem wieder aufzubauen, und der König wolle uns seine Entscheidung hierüber zukommen lassen." 
+**[5:17]** Und nun, wenn es dem König gefällt, so forsche man nach in den Schatzhäusern des Königs dort in Babel, ob es sich so verhält, dass von König Cyrus befohlen worden ist, das Gotteshaus zu Jerusalem wieder aufzubauen, und der König wolle uns seine Entscheidung hierüber zukommen lassen."
 
 ### Chapter 6
 
@@ -25194,7 +25194,7 @@
 
 **[6:21]** Und es assen die Israeliten, die aus der Verbannung zurückgekehrt waren, sowie alle, die sich von der Unreinigkeit der Heiden im Lande abgesondert und sich ihnen angeschlossen hatten, den Herrn, den Gott Israels, zu verehren.
 
-**[6:22]** Dann feierten sie das Fest der ungesäuerten Brote sieben Tage lang mit Freuden; denn der Herr hatte ihnen Freude geschenkt und ihnen das Herz des Königs von Assyrien zugewendet, sodass er sie in der Arbeit am Tempel des Gottes Israels kräftig unterstützte. 
+**[6:22]** Dann feierten sie das Fest der ungesäuerten Brote sieben Tage lang mit Freuden; denn der Herr hatte ihnen Freude geschenkt und ihnen das Herz des Königs von Assyrien zugewendet, sodass er sie in der Arbeit am Tempel des Gottes Israels kräftig unterstützte.
 
 ### Chapter 7
 
@@ -25252,7 +25252,7 @@
 
 **[7:27]** Gelobt sei der Herr, der Gott unsrer Väter, der dem König solches ins Herz gegeben hat, den Tempel des Herrn in Jerusalem zu verherrlichen,
 
-**[7:28]** und der mir die Gunst des Königs und seiner Räte und aller mächtigen Grossen des Königs zugewandt hat! So fasste ich denn Mut, da die Hand des Herrn, meines Gottes, über mir war, und versammelte Familienhäupter aus Israel, mit mir hinaufzuziehen. 
+**[7:28]** und der mir die Gunst des Königs und seiner Räte und aller mächtigen Grossen des Königs zugewandt hat! So fasste ich denn Mut, da die Hand des Herrn, meines Gottes, über mir war, und versammelte Familienhäupter aus Israel, mit mir hinaufzuziehen.
 
 ### Chapter 8
 
@@ -25326,7 +25326,7 @@
 
 **[8:35]** Damals brachten die Verbannten, die nun aus der Gefangenschaft heimgekehrt waren, dem Gott Israels Brandopfer dar: zwölf Stiere für ganz Israel, 96 Widder, 77 Lämmer, zwölf Böcke zum Sündopfer, alles als Brandopfer für den Herrn.
 
-**[8:36]** Dann übergaben sie die Befehle des Königs den Satrapen des Königs und den Statthaltern westlich des (Euphrat-)Stromes, und diese unterstützten das Volk und das Gotteshaus. 
+**[8:36]** Dann übergaben sie die Befehle des Königs den Satrapen des Königs und den Statthaltern westlich des (Euphrat-)Stromes, und diese unterstützten das Volk und das Gotteshaus.
 
 ### Chapter 9
 
@@ -25358,7 +25358,7 @@
 
 **[9:14]** sollten wir da wiederum deine Gebote brechen und mit den Völkern, die solche Greuel treiben, uns verschwägern? Würdest du uns da nicht zürnen und uns ganz vernichten, sodass keiner mehr übrigbliebe und gerettet würde?
 
-**[9:15]** O Herr, Gott Israels, du bist gerecht darin, dass heute nur noch ein Rest Geretteter von uns am Leben ist. Siehe, wir stehen da vor deinem Angesicht in unsrer Schuld; bei solchem Tun kann niemand vor dir bestehen. 
+**[9:15]** O Herr, Gott Israels, du bist gerecht darin, dass heute nur noch ein Rest Geretteter von uns am Leben ist. Siehe, wir stehen da vor deinem Angesicht in unsrer Schuld; bei solchem Tun kann niemand vor dir bestehen.
 
 ### Chapter 10
 
@@ -25448,7 +25448,7 @@
 
 **[10:43]** und vom Geschlechte Nebo: Jegiel, Matthithja, Sabad, Sebina, Jaddai, Joel und Benaja.
 
-**[10:44]** Diese alle hatten fremde Frauen genommen, und sie entliessen Frauen und Kinder.  
+**[10:44]** Diese alle hatten fremde Frauen genommen, und sie entliessen Frauen und Kinder.
 
 ## Nehemiah
 
@@ -25474,7 +25474,7 @@
 
 **[1:10]** Sie sind ja doch deine Knechte und dein Volk, das du durch deine grosse Kraft und durch deine starke Hand erlöst hast.
 
-**[1:11]** Ach Herr, lass doch dein Ohr aufmerken auf das Gebet deines Knechtes und auf das Gebet deiner Knechte, die willens sind, deinen Namen zu fürchten! Ja, lass es heute deinem Knechte gelingen, lass ihm Barmherzigkeit widerfahren vor diesem Mann! Ich war nämlich ein Mundschenk des Königs. 
+**[1:11]** Ach Herr, lass doch dein Ohr aufmerken auf das Gebet deines Knechtes und auf das Gebet deiner Knechte, die willens sind, deinen Namen zu fürchten! Ja, lass es heute deinem Knechte gelingen, lass ihm Barmherzigkeit widerfahren vor diesem Mann! Ich war nämlich ein Mundschenk des Königs.
 
 ### Chapter 2
 
@@ -25516,7 +25516,7 @@
 
 **[2:19]** Als aber Sanballat, der Horoniter, und Tobia, der ammonitische Beamte, und Gesem, der Araber, davon hörten, spotteten sie unser und taten verächtlich gegen uns und sprachen: Was ist das, was ihr da vornehmt? Wollt ihr von dem Könige abfallen?
 
-**[2:20]** Da antwortete ich ihnen und sprach: Der Gott des Himmels wird es uns gelingen lassen. Darum wollen wir, seine Knechte, darangehen und bauen; ihr aber habt weder Anteil noch Anrecht noch Andenken in Jerusalem. 
+**[2:20]** Da antwortete ich ihnen und sprach: Der Gott des Himmels wird es uns gelingen lassen. Darum wollen wir, seine Knechte, darangehen und bauen; ihr aber habt weder Anteil noch Anrecht noch Andenken in Jerusalem.
 
 ### Chapter 3
 
@@ -25582,7 +25582,7 @@
 
 **[3:31]** neben ihm Malchia, von der Zunft der Goldschmiede, bis an das Haus der Tempelhörigen und der Krämer gegenüber dem Wachttor und bis an den Ecksöller.
 
-**[3:32]** Zwischen dem Ecksöller und dem Schaftore besorgten die Goldschmiede und die Krämer die Ausbesserung. 
+**[3:32]** Zwischen dem Ecksöller und dem Schaftore besorgten die Goldschmiede und die Krämer die Ausbesserung.
 
 ### Chapter 4
 
@@ -25630,7 +25630,7 @@
 
 **[4:22]** Auch gebot ich zu jener Zeit dem Volke: Ein jeder bleibe mit seinen Leuten übernacht zu Jerusalem, dass sie für uns bei Nacht Wache halten und am Tage der Arbeit warten.
 
-**[4:23]** Und weder ich noch meine Brüder, noch meine Knappen, noch die Wachtmannschaften hinter mir - keiner von uns zog die Kleider aus; ein jeder trug seine Waffe an der Seite. 
+**[4:23]** Und weder ich noch meine Brüder, noch meine Knappen, noch die Wachtmannschaften hinter mir - keiner von uns zog die Kleider aus; ein jeder trug seine Waffe an der Seite.
 
 ### Chapter 5
 
@@ -25670,7 +25670,7 @@
 
 **[5:18]** Obschon ich aber täglich einen Ochsen, sechs auserlesene Schafe und Geflügel, sowie alle zehn Tage eine Menge Wein auftischte, so forderte ich doch den Unterhalt eines Statthalters nicht; denn die Fron lastete schwer auf diesem Volke.
 
-**[5:19]** Gedenke mir, mein Gott, zum Besten, was ich alles für dieses Volk getan habe! 
+**[5:19]** Gedenke mir, mein Gott, zum Besten, was ich alles für dieses Volk getan habe!
 
 ### Chapter 6
 
@@ -25710,7 +25710,7 @@
 
 **[6:18]** Denn viele in Juda waren durch Eidschwur mit ihm verbunden, weil er der Schwiegersohn Sechanjas, des Sohnes Arahs, war und sein Sohn Johanan die Tochter Mesullams, des Sohnes Berechjas, geheiratet hatte.
 
-**[6:19]** Die redeten sogar in meiner Gegenwart von seinen Vorzügen und hinterbrachten ihm meine Worte. Und Tobia sandte Briefe, um mich einzuschüchtern. 
+**[6:19]** Die redeten sogar in meiner Gegenwart von seinen Vorzügen und hinterbrachten ihm meine Worte. Und Tobia sandte Briefe, um mich einzuschüchtern.
 
 ### Chapter 7
 
@@ -25858,7 +25858,7 @@
 
 **[7:72]** Das übrige Volk gab 20 000 Drachmen in Gold, zweitausend Minen Silber und 67 Priestergewänder.
 
-**[7:73]** Darauf liessen sich die Priester und Leviten, die Torhüter, die Sänger sowie Leute aus dem Volk und die Tempelhörigen, kurz ganz Israel, in ihren Städten nieder. ALS nun der siebente Monat herangekommen war - die Israeliten waren bereits in ihren Ortschaften -, 
+**[7:73]** Darauf liessen sich die Priester und Leviten, die Torhüter, die Sänger sowie Leute aus dem Volk und die Tempelhörigen, kurz ganz Israel, in ihren Städten nieder. ALS nun der siebente Monat herangekommen war - die Israeliten waren bereits in ihren Ortschaften -,
 
 ### Chapter 8
 
@@ -25896,7 +25896,7 @@
 
 **[8:17]** Die ganze Gemeinde, alle, die aus der Gefangenschaft zurückgekehrt waren, machten Laubhütten und wohnten darin. Denn seit der Zeit Josuas, des Sohnes Nuns, bis auf jenen Tag hatten die Israeliten es nicht mehr so gehalten. Und es herrschte sehr grosse Freude.
 
-**[8:18]** Und Tag für Tag las Esra aus dem Gesetzbuch Gottes vor, vom ersten Tage an bis zum letzten. Sie begingen das Fest sieben Tage lang und am achten Tage die Festversammlung, wie es sich gebührt. 
+**[8:18]** Und Tag für Tag las Esra aus dem Gesetzbuch Gottes vor, vom ersten Tage an bis zum letzten. Sie begingen das Fest sieben Tage lang und am achten Tage die Festversammlung, wie es sich gebührt.
 
 ### Chapter 9
 
@@ -25974,7 +25974,7 @@
 
 **[9:37]** Seinen reichen Ertrag bringt es für die Könige, die du über uns gesetzt hast um unsrer Sünden willen; sie herrschen über unsre Leiber und über unser Vieh nach Belieben, und wir sind in grosser Not.
 
-**[9:38]** OB alldem treffen wir eine feste Abmachung und schreiben sie nieder. Und auf der gesiegelten Urkunde unterzeichnen unsre Fürsten, unsre Leviten und Priester. (1) die Lutherbibel hat für 9,38; 10,1-39 die Zählung 10,1-40. 
+**[9:38]** OB alldem treffen wir eine feste Abmachung und schreiben sie nieder. Und auf der gesiegelten Urkunde unterzeichnen unsre Fürsten, unsre Leviten und Priester. (1) die Lutherbibel hat für 9,38; 10,1-39 die Zählung 10,1-40.
 
 ### Chapter 10
 
@@ -26054,7 +26054,7 @@
 
 **[10:38]** Und der Priester, der Nachkomme Aarons, soll dabei sein, wenn die Leviten den Zehnten einsammeln, und die Leviten sollen den Zehnten vom Zehnten zum Hause unsres Gottes in die Zellen des Vorratshauses hinaufbringen. (a) 4Mo 18:26
 
-**[10:39]** In diese Zellen sollen die (gewöhnlichen) Israeliten und die Leviten die Abgabe von Korn, Wein und Öl bringen; dort befinden sich auch die heiligen Geräte, die diensttuenden Priester, die Torhüter und die Sänger. Wir wollen das Haus unsres Gottes nicht im Stiche lassen. 
+**[10:39]** In diese Zellen sollen die (gewöhnlichen) Israeliten und die Leviten die Abgabe von Korn, Wein und Öl bringen; dort befinden sich auch die heiligen Geräte, die diensttuenden Priester, die Torhüter und die Sänger. Wir wollen das Haus unsres Gottes nicht im Stiche lassen.
 
 ### Chapter 11
 
@@ -26128,7 +26128,7 @@
 
 **[11:35]** Lod und Ono im Tal der Zimmerleute.
 
-**[11:36]** Von den Leviten aber kamen einige judäische Abteilungen ins Gebiet von Benjamin. 
+**[11:36]** Von den Leviten aber kamen einige judäische Abteilungen ins Gebiet von Benjamin.
 
 ### Chapter 12
 
@@ -26224,7 +26224,7 @@
 
 **[12:46]** Denn schon vor alters in den Tagen Davids und Asaphs gab es Sängerführer und Lobgesänge und Lieder zum Preise Gottes.
 
-**[12:47]** Und ganz Israel gab zur Zeit Serubbabels und zur Zeit Nehemias den Sängern und Torhütern ihre Anteile, soviel ihnen Tag für Tag zukam. Sie entrichteten ihre Weihegaben an die Leviten; die Leviten aber entrichteten ihre Weihegaben an die Nachkommen Aarons. (a) 4Mo 18:26 
+**[12:47]** Und ganz Israel gab zur Zeit Serubbabels und zur Zeit Nehemias den Sängern und Torhütern ihre Anteile, soviel ihnen Tag für Tag zukam. Sie entrichteten ihre Weihegaben an die Leviten; die Leviten aber entrichteten ihre Weihegaben an die Nachkommen Aarons. (a) 4Mo 18:26
 
 ### Chapter 13
 
@@ -26288,7 +26288,7 @@
 
 **[13:30]** So reinigte ich sie von allem Ausländischen und stellte Dienstordnungen auf für die Priester und Leviten, je nach dem Dienstbereich eines jeden,
 
-**[13:31]** und für die Abgabe des Holzes zu bestimmten Zeiten und wegen der Erstlinge. Gedenke mir's, mein Gott, zum Besten!  
+**[13:31]** und für die Abgabe des Holzes zu bestimmten Zeiten und wegen der Erstlinge. Gedenke mir's, mein Gott, zum Besten!
 
 ## Esther
 
@@ -26336,7 +26336,7 @@
 
 **[1:21]** Diese Rede gefiel dem König und den Fürsten, und der König tat nach den Worten Memuchans;
 
-**[1:22]** er sandte Briefe in alle königlichen Provinzen, an jede Provinz in ihrer Schrift und an jedes Volk in seiner Sprache, dass jeder Mann Herr sein solle in seinem Hause. 
+**[1:22]** er sandte Briefe in alle königlichen Provinzen, an jede Provinz in ihrer Schrift und an jedes Volk in seiner Sprache, dass jeder Mann Herr sein solle in seinem Hause.
 
 ### Chapter 2
 
@@ -26384,7 +26384,7 @@
 
 **[2:22]** Mardochai vernahm davon und berichtete es der Königin Esther, und Esther sagte es dem König, wobei sie Mardochais Namen nannte.
 
-**[2:23]** Es wurde der Sache nachgeforscht, und da sie sich als richtig herausstellte, wurden die beiden an einen Pfahl gehängt und die Begebenheit für den König im Buch der Zeitgeschichte aufgezeichnet. 
+**[2:23]** Es wurde der Sache nachgeforscht, und da sie sich als richtig herausstellte, wurden die beiden an einen Pfahl gehängt und die Begebenheit für den König im Buch der Zeitgeschichte aufgezeichnet.
 
 ### Chapter 3
 
@@ -26416,7 +26416,7 @@
 
 **[3:14]** Die Abschrift des Schreibens, bestimmt als Gesetzeserlass für jede einzelne Provinz, sollte bei allen Völkern bekannt gemacht werden, damit sie auf den bestimmten Tag bereit seien.
 
-**[3:15]** Die Eilboten nun zogen auf des Königs Gebot schleunigst aus, und das Gesetz wurde in der Burg Susa bekannt gegeben; der König aber und Haman setzten sich zum Gelage, während die Stadt Susa in Bestürzung geriet. 
+**[3:15]** Die Eilboten nun zogen auf des Königs Gebot schleunigst aus, und das Gesetz wurde in der Burg Susa bekannt gegeben; der König aber und Haman setzten sich zum Gelage, während die Stadt Susa in Bestürzung geriet.
 
 ### Chapter 4
 
@@ -26452,7 +26452,7 @@
 
 **[4:16]** So gehe hin, versammle alle Juden, die sich zu Susa finden, und dann fastet um meinetwillen; drei Tage lang sollt ihr nicht essen noch trinken, weder bei Tag noch bei Nacht. Auch ich und meine Dienerinnen wollen gleicherweise fasten; hernach will ich zum König hineingehen, wiewohl es gegen das Gesetz ist. Komme ich dann um, nun, so komme ich um.
 
-**[4:17]** Mardochai ging hin und tat ganz so, wie ihm Esther aufgetragen hatte. 
+**[4:17]** Mardochai ging hin und tat ganz so, wie ihm Esther aufgetragen hatte.
 
 ### Chapter 5
 
@@ -26482,7 +26482,7 @@
 
 **[5:13]** Und doch genügt mir das alles nicht, solange ich noch den Juden Mardochai im Königstor sitzen sehe.
 
-**[5:14]** Da sprachen seine Gemahlin Seres und alle seine Freunde zu ihm: Man richte einen Pfahl her, fünfzig Ellen hoch, und dann sprich morgen früh zum König, dass man Mardochai daran aufhänge; so kannst du fröhlich mit dem König zum Gastmahle gehen. Der Vorschlag gefiel Haman, und er liess den Pfahl herrichten. 
+**[5:14]** Da sprachen seine Gemahlin Seres und alle seine Freunde zu ihm: Man richte einen Pfahl her, fünfzig Ellen hoch, und dann sprich morgen früh zum König, dass man Mardochai daran aufhänge; so kannst du fröhlich mit dem König zum Gastmahle gehen. Der Vorschlag gefiel Haman, und er liess den Pfahl herrichten.
 
 ### Chapter 6
 
@@ -26512,7 +26512,7 @@
 
 **[6:13]** Und Haman erzählte seiner Gemahlin Seres und allen seinen Freunden alles, was ihm begegnet war. Da sprachen seine Weisen und seine Gemahlin Seres zu ihm: Wenn Mardochai, vor dem du nun zu fallen begonnen hast, vom Stamme der Juden ist, so vermagst du nichts gegen ihn, sondern wirst noch vollends vor ihm zu Fall kommen.
 
-**[6:14]** Während sie noch mit ihm redeten, erschienen die Kämmerer des Königs und geleiteten Haman eilends zu dem Mahle, das Esther bereitet hatte. 
+**[6:14]** Während sie noch mit ihm redeten, erschienen die Kämmerer des Königs und geleiteten Haman eilends zu dem Mahle, das Esther bereitet hatte.
 
 ### Chapter 7
 
@@ -26534,7 +26534,7 @@
 
 **[7:9]** Und Harbona, einer der Kämmerer, die den König bedienten, sprach: Bereits steht ja auch der Pfahl, den Haman für Mardochai, den Wohltäter des Königs, hat errichten lassen, im Gehöfte Hamans, fünfzig Ellen hoch! Der König sprach: Hängt ihn daran!
 
-**[7:10]** So hängte man Haman an den Pfahl, den er für Mardochai hatte herrichten lassen. Da legte sich der Zorn des Königs. 
+**[7:10]** So hängte man Haman an den Pfahl, den er für Mardochai hatte herrichten lassen. Da legte sich der Zorn des Königs.
 
 ### Chapter 8
 
@@ -26570,7 +26570,7 @@
 
 **[8:16]** Für die Juden aber war eine Zeit des Glückes und der Freude, der Wonne und Ehre gekommen.
 
-**[8:17]** Und von Provinz zu Provinz und von Stadt zu Stadt, wohin immer des Königs Wort und Gesetz gelangte, da gab es Freude und Wonne bei den Juden, Gelage und Festtag, und viele aus der heidnischen Bevölkerung wurden Juden; denn der Schrecken vor den Juden war über sie gekommen. 
+**[8:17]** Und von Provinz zu Provinz und von Stadt zu Stadt, wohin immer des Königs Wort und Gesetz gelangte, da gab es Freude und Wonne bei den Juden, Gelage und Festtag, und viele aus der heidnischen Bevölkerung wurden Juden; denn der Schrecken vor den Juden war über sie gekommen.
 
 ### Chapter 9
 
@@ -26636,7 +26636,7 @@
 
 **[9:31]** sie sollten sich die Feier dieser Purimtage je zu der für sie angesetzten Zeit zur Pflicht machen, wie der Jude Mardochai und die Königin Esther es sich zur Pflicht gemacht und wie auch sie selber sich und ihre Nachkommen bezüglich der Wehklage und der Fastentage verpflichtet hätten.
 
-**[9:32]** Und Esthers Befehl erhob diese Purim-Vorschriften zum Gesetz, und er wurde in einer Urkunde aufgezeichnet. 
+**[9:32]** Und Esthers Befehl erhob diese Purim-Vorschriften zum Gesetz, und er wurde in einer Urkunde aufgezeichnet.
 
 ### Chapter 10
 
@@ -26644,7 +26644,7 @@
 
 **[10:2]** Alle Erweise seiner Macht und Gewalt aber und die eingehende Darstellung der hohen Würde, zu der Mardochai durch den König erhoben wurde, das ist ja aufgezeichnet in der Chronik der Könige von Medien und Persien;
 
-**[10:3]** denn der Jude Mardochai war der Erste im Range nach dem König Ahasveros, und er stand in hohem Ansehen bei den Juden und in Gunst bei der Menge seiner Volksgenossen als einer, der das Wohl seines Volkes suchte und für sein ganzes Geschlecht zum Besten redete.  
+**[10:3]** denn der Jude Mardochai war der Erste im Range nach dem König Ahasveros, und er stand in hohem Ansehen bei den Juden und in Gunst bei der Menge seiner Volksgenossen als einer, der das Wohl seines Volkes suchte und für sein ganzes Geschlecht zum Besten redete.
 
 ## Job
 
@@ -26692,7 +26692,7 @@
 
 **[1:21]** und sprach: Nackt bin ich aus meiner Mutter Schoss gekommen, / und nackt werde ich wieder dahingehen. / Der Herr hat's gegeben, der Herr hat's genommen; / der Name des Herrn sei gelobt! (a) Pre 5:14; 1Ti 6:7
 
-**[1:22]** In alledem versündigte sich Hiob nicht und redete nichts Törichtes wider Gott. (a) Hio 2:10 
+**[1:22]** In alledem versündigte sich Hiob nicht und redete nichts Törichtes wider Gott. (a) Hio 2:10
 
 ### Chapter 2
 
@@ -26720,7 +26720,7 @@
 
 **[2:12]** Als sie nun ihre Augen von ferne erhoben, erkannten sie ihn nicht wieder, und sie hoben laut zu weinen an und zerrissen ein jeder sein Gewand und streuten Staub gen Himmel auf ihre Häupter.
 
-**[2:13]** Und sie setzten sich zu ihm auf die Erde sieben Tage und sieben Nächte lang, ohne dass einer ein Wort zu ihm redete; denn sie sahen, dass der Schmerz sehr gross war. 
+**[2:13]** Und sie setzten sich zu ihm auf die Erde sieben Tage und sieben Nächte lang, ohne dass einer ein Wort zu ihm redete; denn sie sahen, dass der Schmerz sehr gross war.
 
 ### Chapter 3
 
@@ -26774,7 +26774,7 @@
 
 **[3:25]** Denn was ich fürchte, das kommt über mich, / wovor ich schaudere, das trifft mich. /
 
-**[3:26]** Noch habe ich keinen Frieden, keine Rast noch Ruhe - / da kommt (neues) Ungemach. 
+**[3:26]** Noch habe ich keinen Frieden, keine Rast noch Ruhe - / da kommt (neues) Ungemach.
 
 ### Chapter 4
 
@@ -26818,7 +26818,7 @@
 
 **[4:20]** zwischen Morgen und Abend zerschmettert werden / und unbeachtet auf ewig vergehn! /
 
-**[4:21]** Nicht wahr, wird abgebrochen das Zelt ihres Lebens, / so sterben sie, doch nicht in Weisheit!" 
+**[4:21]** Nicht wahr, wird abgebrochen das Zelt ihres Lebens, / so sterben sie, doch nicht in Weisheit!"
 
 ### Chapter 5
 
@@ -26874,7 +26874,7 @@
 
 **[5:26]** In voller Reife steigst du zu Grabe, / wie die Garbe einkommt zu ihrer Zeit. /
 
-**[5:27]** Siehe, das haben wir ergründet, so ist es! / Wir haben's gehört; du aber merke es dir! 
+**[5:27]** Siehe, das haben wir ergründet, so ist es! / Wir haben's gehört; du aber merke es dir!
 
 ### Chapter 6
 
@@ -26936,7 +26936,7 @@
 
 **[6:29]** Kehret doch um! es geschehe kein Unrecht! / Ja, kehret um! noch bin ich im Recht. /
 
-**[6:30]** Ist etwa Unrecht auf meiner Zunge? / Schmeckt nicht mein Gaumen das Unglück? / 
+**[6:30]** Ist etwa Unrecht auf meiner Zunge? / Schmeckt nicht mein Gaumen das Unglück? /
 
 ### Chapter 7
 
@@ -26980,7 +26980,7 @@
 
 **[7:20]** Habe ich gesündigt, was schadet es dir, du Menschenhüter? / Warum hast du mich dir zur Zielscheibe gemacht? / warum bin ich dir zur Last geworden? /
 
-**[7:21]** Und warum vergibst du mir nicht mein Vergehen / und lässest nicht hingehen meine Schuld? / Denn nun werde ich in den Staub mich legen, / und wenn du mich suchst, so bin ich nicht mehr. 
+**[7:21]** Und warum vergibst du mir nicht mein Vergehen / und lässest nicht hingehen meine Schuld? / Denn nun werde ich in den Staub mich legen, / und wenn du mich suchst, so bin ich nicht mehr.
 
 ### Chapter 8
 
@@ -27026,7 +27026,7 @@
 
 **[8:21]** Noch wird er deinen Mund mit Lachen füllen / und deine Lippen mit Jauchzen. /
 
-**[8:22]** Die dich hassen, werden sich mit Schande bedecken, / und das Zelt der Gottlosen ist nicht mehr. 
+**[8:22]** Die dich hassen, werden sich mit Schande bedecken, / und das Zelt der Gottlosen ist nicht mehr.
 
 ### Chapter 9
 
@@ -27098,7 +27098,7 @@
 
 **[9:34]** Er nehme weg von mir seine Rute, / dass mich der Schrecken vor ihm nicht verstöre! /
 
-**[9:35]** So will ich reden und ihn nicht fürchten; / denn solcher Dinge bin ich mir nicht bewusst. / 
+**[9:35]** So will ich reden und ihn nicht fürchten; / denn solcher Dinge bin ich mir nicht bewusst. /
 
 ### Chapter 10
 
@@ -27144,7 +27144,7 @@
 
 **[10:21]** ehe ich dahinfahre ohne Wiederkehr / ins Land der Finsternis und des Dunkels, / (a) Hio 7:10
 
-**[10:22]** ins Land so düster wie die schwarze Nacht, / ins Dunkel, wo kein Mittag ist. 
+**[10:22]** ins Land so düster wie die schwarze Nacht, / ins Dunkel, wo kein Mittag ist.
 
 ### Chapter 11
 
@@ -27186,7 +27186,7 @@
 
 **[11:19]** Du lagerst dich, und niemand wird dich schrecken, / und viele werden dich umschmeicheln; /
 
-**[11:20]** aber die Augen der Gottlosen schmachten dahin, / (jede) Zuflucht ist ihnen verloren, / und ihre Hoffnung ist Verhauchen der Seele. 
+**[11:20]** aber die Augen der Gottlosen schmachten dahin, / (jede) Zuflucht ist ihnen verloren, / und ihre Hoffnung ist Verhauchen der Seele.
 
 ### Chapter 12
 
@@ -27238,7 +27238,7 @@
 
 **[12:24]** Den Häuptern des Landes nimmt er den Verstand / und lässt sie irren in pfadloser Öde, /
 
-**[12:25]** dass sie tappen in Finsternis ohne Licht / und dass sie wie Trunkene taumeln. / 
+**[12:25]** dass sie tappen in Finsternis ohne Licht / und dass sie wie Trunkene taumeln. /
 
 ### Chapter 13
 
@@ -27296,7 +27296,7 @@
 
 **[13:27]** Dass du meine Füsse in den Block legst / und alle meine Pfade belauerst, / um meine Fußsohlen dir einen Kreis ziehst? / (a) Hio 33:11
 
-**[13:28]** Und er zerfällt wie vom Wurmfrass, / wie ein Kleid, das die Motten zerfressen. 
+**[13:28]** Und er zerfällt wie vom Wurmfrass, / wie ein Kleid, das die Motten zerfressen.
 
 ### Chapter 14
 
@@ -27342,7 +27342,7 @@
 
 **[14:21]** Seine Kinder kommen zu Ehren - er weiss es nicht; / sie kommen herunter - er gewahrt sie nicht. /
 
-**[14:22]** Nur solange sein Fleisch an ihm ist, fühlt es Schmerz, / solange seine Seele in ihm, trauert sie. 
+**[14:22]** Nur solange sein Fleisch an ihm ist, fühlt es Schmerz, / solange seine Seele in ihm, trauert sie.
 
 ### Chapter 15
 
@@ -27414,7 +27414,7 @@
 
 **[15:34]** Denn des Frevlers Rotte ist unfruchtbar, / und Feuer frisst die Zelte der Bestechung. /
 
-**[15:35]** Sie sind mit Mühsal schwanger und gebären Unheil, / und ihr Schoss bereitet Trug. (a) Ps 7:15; Jes 59:4 
+**[15:35]** Sie sind mit Mühsal schwanger und gebären Unheil, / und ihr Schoss bereitet Trug. (a) Ps 7:15; Jes 59:4
 
 ### Chapter 16
 
@@ -27460,7 +27460,7 @@
 
 **[16:21]** dass er Recht schaffe dem Manne gegen Gott, / dem Menschen gegen seinen Freund! /
 
-**[16:22]** Denn nur noch wenige Jahre, / und ich wandle den Pfad, den ich nicht wiederkehre. / (a) Hio 10:21 
+**[16:22]** Denn nur noch wenige Jahre, / und ich wandle den Pfad, den ich nicht wiederkehre. / (a) Hio 10:21
 
 ### Chapter 17
 
@@ -27494,7 +27494,7 @@
 
 **[17:15]** Wo denn ist für mich noch Hoffnung, / und mein Glück - wer kann es schauen? /
 
-**[17:16]** Kommt es hinab mit mir zur Unterwelt, / oder fahren wir zusammen in den Staub? 
+**[17:16]** Kommt es hinab mit mir zur Unterwelt, / oder fahren wir zusammen in den Staub?
 
 ### Chapter 18
 
@@ -27538,7 +27538,7 @@
 
 **[18:20]** Ob seines Tages erstarren die im Westen, / und die im Osten fasst ein Graus. / (1) d.i. Endes.
 
-**[18:21]** Ja, so ergeht es den Wohnungen des Ungerechten, / und so der Stätte dessen, der Gott nicht kennt. 
+**[18:21]** Ja, so ergeht es den Wohnungen des Ungerechten, / und so der Stätte dessen, der Gott nicht kennt.
 
 ### Chapter 19
 
@@ -27598,7 +27598,7 @@
 
 **[19:28]** Wenn ihr sagt: "Wie wollen wir ihn verfolgen, / den Grund der Sache an ihm finden!" /
 
-**[19:29]** so fürchtet für euch selbst das Schwert! / denn Zorn kommt über die Schuldigen, / auf dass ihr wisst: Es gibt noch ein Gericht. 
+**[19:29]** so fürchtet für euch selbst das Schwert! / denn Zorn kommt über die Schuldigen, / auf dass ihr wisst: Es gibt noch ein Gericht.
 
 ### Chapter 20
 
@@ -27658,7 +27658,7 @@
 
 **[20:28]** Fortwandern muss die Habe seines Hauses, / fortgerafft am Tage seines Zornes. /
 
-**[20:29]** Dies ist das Teil des Ruchlosen von Gott / und das Erbe seines Frevels von dem Herrn. 
+**[20:29]** Dies ist das Teil des Ruchlosen von Gott / und das Erbe seines Frevels von dem Herrn.
 
 ### Chapter 21
 
@@ -27728,7 +27728,7 @@
 
 **[21:33]** Angenehm sind ihm die Schollen des Tales, / und alle Welt zieht hinter ihm drein, / und vor ihm her die Menge sonder Zahl. /
 
-**[21:34]** Wie ist doch euer Trost so nichtig! / und eure Antworten - es bleibt nur die Falschheit. 
+**[21:34]** Wie ist doch euer Trost so nichtig! / und eure Antworten - es bleibt nur die Falschheit.
 
 ### Chapter 22
 
@@ -27790,7 +27790,7 @@
 
 **[22:29]** Denn Gott demütigt den Übermut, / doch wer die Augen niederschlägt, dem hilft er. / (a) Spr 29:23
 
-**[22:30]** Er erfüllt des Schuldlosen Begehr, / der gerettet wird durch die Reinheit seiner Hände. 
+**[22:30]** Er erfüllt des Schuldlosen Begehr, / der gerettet wird durch die Reinheit seiner Hände.
 
 ### Chapter 23
 
@@ -27826,7 +27826,7 @@
 
 **[23:16]** Ja, Gott hat mir das Herz verzagt gemacht, / und der Allmächtige hat mich erschreckt. /
 
-**[23:17]** Denn ich vergehe vor der Finsternis, / und mein Angesicht bedeckt das Dunkel. / 
+**[23:17]** Denn ich vergehe vor der Finsternis, / und mein Angesicht bedeckt das Dunkel. /
 
 ### Chapter 24
 
@@ -27878,7 +27878,7 @@
 
 **[24:24]** Seine Grösse währt nur kurze Zeit - dahin ist sie. / Sie werden gedemütigt, hingerafft wie alle Welt / und abgeschnitten wie die Spitze der Ähre. /
 
-**[24:25]** Und wenn nicht - wer will mich Lügen strafen / und meine Rede zunichte machen? 
+**[24:25]** Und wenn nicht - wer will mich Lügen strafen / und meine Rede zunichte machen?
 
 ### Chapter 25
 
@@ -27892,7 +27892,7 @@
 
 **[25:5]** Sieh, selbst der Mond, er ist nicht hell, / und die Sterne sind nicht rein vor ihm. / (a) Hio 15:15
 
-**[25:6]** Nun gar der Mensch, die Made, / und das Menschenkind, der Wurm! 
+**[25:6]** Nun gar der Mensch, die Made, / und das Menschenkind, der Wurm!
 
 ### Chapter 26
 
@@ -27922,7 +27922,7 @@
 
 **[26:13]** Durch seinen Hauch ward der Himmel heiter, / seine Hand durchbohrte die flüchtige Schlange. /
 
-**[26:14]** Sieh, das sind nur die Säume seiner Wege; / und wie leise ist das Wort, das wir vernehmen! / Doch die Donnersprache seiner Macht - wer fasst sie? 
+**[26:14]** Sieh, das sind nur die Säume seiner Wege; / und wie leise ist das Wort, das wir vernehmen! / Doch die Donnersprache seiner Macht - wer fasst sie?
 
 ### Chapter 27
 
@@ -27970,7 +27970,7 @@
 
 **[27:22]** Er schleudert auf ihn schonungslos Geschosse, / vor Seiner Hand muss er eilends fliehen. /
 
-**[27:23]** Er klatscht über ihn in die Hände / und zischt über ihn von Seiner Stätte aus. (1) o: nach gew. Auffassung: "Man klatscht über ihn in die Hände und zischt ihn aus von seinem Wohnort her." 
+**[27:23]** Er klatscht über ihn in die Hände / und zischt über ihn von Seiner Stätte aus. (1) o: nach gew. Auffassung: "Man klatscht über ihn in die Hände und zischt ihn aus von seinem Wohnort her."
 
 ### Chapter 28
 
@@ -28028,7 +28028,7 @@
 
 **[28:27]** da hat er sie gesehen und erforscht, / sie hingestellt und auch erprobt. /
 
-**[28:28]** Und er sprach zum Menschen: Siehe, / die Furcht des Herrn, das ist Weisheit, / und Böses meiden, das ist Erkenntnis. (a) Ps 111:10; Spr 1:7; 9:10; Pre 12:13 
+**[28:28]** Und er sprach zum Menschen: Siehe, / die Furcht des Herrn, das ist Weisheit, / und Böses meiden, das ist Erkenntnis. (a) Ps 111:10; Spr 1:7; 9:10; Pre 12:13
 
 ### Chapter 29
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** Ich lächelte ihnen zu, wenn sie verzagten, / mein heitres Angesicht trübten sie nicht. /
 
-**[29:25]** Ich bestimmte ihr Tun und sass da als Haupt / und thronte wie ein König in der Kriegerschar, / wie einer, der die Traurigen tröstet. / 
+**[29:25]** Ich bestimmte ihr Tun und sass da als Haupt / und thronte wie ein König in der Kriegerschar, / wie einer, der die Traurigen tröstet. /
 
 ### Chapter 30
 
@@ -28144,7 +28144,7 @@
 
 **[30:30]** Meine Haut fällt schwarz von mir, / und mein Gebein ist verdorrt vor Hitze. / (a) Ps 102:4; Kla 4:8
 
-**[30:31]** Zum Trauerlied ward mir die Laute, / zu lautem Weinen die Schalmei. 
+**[30:31]** Zum Trauerlied ward mir die Laute, / zu lautem Weinen die Schalmei.
 
 ### Chapter 31
 
@@ -28226,7 +28226,7 @@
 
 **[31:39]** wenn seinen Ertrag ich unbezahlt genoss / und seinen Besitzer seufzen machte, /
 
-**[31:40]** so sollen Dornen statt des Weizens, / und statt der Gerste Unkraut aufgehn! Zu Ende sind die Reden Hiobs. 
+**[31:40]** so sollen Dornen statt des Weizens, / und statt der Gerste Unkraut aufgehn! Zu Ende sind die Reden Hiobs.
 
 ### Chapter 32
 
@@ -28272,7 +28272,7 @@
 
 **[32:21]** Ich will nicht die Person ansehen, / will auch niemand zu Gefallen reden. /
 
-**[32:22]** Denn ich kann nicht zu Gefallen reden, / leicht möchte mein Schöpfer mich sonst dahinraffen. / 
+**[32:22]** Denn ich kann nicht zu Gefallen reden, / leicht möchte mein Schöpfer mich sonst dahinraffen. /
 
 ### Chapter 33
 
@@ -28340,7 +28340,7 @@
 
 **[33:32]** Hast du Worte, so gib mir Antwort; / sag an, denn gerne gäbe ich dir Recht. /
 
-**[33:33]** Wenn nicht, so höre du mir zu; / schweige, so will ich dich Weisheit lehren. 
+**[33:33]** Wenn nicht, so höre du mir zu; / schweige, so will ich dich Weisheit lehren.
 
 ### Chapter 34
 
@@ -28416,7 +28416,7 @@
 
 **[34:36]** Ach, würde Hiob doch fort und fort geprüft, / weil er entgegnet nach der Art der Frevler. /
 
-**[34:37]** Denn Frevel fügt er noch zu seiner Sünde, / in unsrer Mitte höhnt er laut / und macht viel Redens wider Gott." 
+**[34:37]** Denn Frevel fügt er noch zu seiner Sünde, / in unsrer Mitte höhnt er laut / und macht viel Redens wider Gott."
 
 ### Chapter 35
 
@@ -28450,7 +28450,7 @@
 
 **[35:15]** Nun aber, weil sein Zorn nicht straft / und er des Frevels nicht gross achtet, /
 
-**[35:16]** reisst Hiob seinen Mund auf zu eitlem Gerede / und macht viele Worte ohne Einsicht. 
+**[35:16]** reisst Hiob seinen Mund auf zu eitlem Gerede / und macht viele Worte ohne Einsicht.
 
 ### Chapter 36
 
@@ -28518,7 +28518,7 @@
 
 **[36:32]** Seine Hände bedeckt er mit Blitzen / und entbietet sie gegen das Ziel. /
 
-**[36:33]** Ihn kündet an sein Kriegsruf, / den Zorn erregend wider den Frevel. / 
+**[36:33]** Ihn kündet an sein Kriegsruf, / den Zorn erregend wider den Frevel. /
 
 ### Chapter 37
 
@@ -28568,7 +28568,7 @@
 
 **[37:23]** ihn selbst, den Allmächtigen, finden wir nicht. / Gross an Kraft und reich an Gerechtigkeit, / wird er das Recht nicht beugen. /
 
-**[37:24]** Darum sollen ihn die Menschen fürchten; / alle, die sich weise dünken, sieht er nicht an. 
+**[37:24]** Darum sollen ihn die Menschen fürchten; / alle, die sich weise dünken, sieht er nicht an.
 
 ### Chapter 38
 
@@ -28652,7 +28652,7 @@
 
 **[38:40]** wenn sie sich in den Höhlen ducken / und im Dickicht auf der Lauer liegen? /
 
-**[38:41]** Wer bereitet dem Raben seine Speise, / wenn seine Jungen zu Gott schreien, / aus Mangel an Nahrung umherirren? / (a) Ps 147:9 
+**[38:41]** Wer bereitet dem Raben seine Speise, / wenn seine Jungen zu Gott schreien, / aus Mangel an Nahrung umherirren? / (a) Ps 147:9
 
 ### Chapter 39
 
@@ -28714,7 +28714,7 @@
 
 **[39:29]** Von dort erspäht er sich den Frass, / fernhin sehen seine Augen. /
 
-**[39:30]** Und seine Jungen schlürfen Blut; / und wo Erschlagene sind, da ist er. (a) Mt 24:28 Und der Herr wandte sich an Hiob und sprach: (1) die Lutherbibel hat für 39,31-35; 40,1-28; 41,1-25 die Zählung 40,1-32; 41,1-26. Hadern will der Tadler mit dem Allmächtigen? / Der Gott zurechtwies, gebe darauf Antwort! Da antwortete Hiob dem Herrn und sprach: Siehe, ich bin zu gering, was soll ich dir antworten? / Ich lege die Hand auf meinen Mund. / Einmal habe ich geredet und wiederhole es nicht, / zweimal, und tue es nicht wieder. 
+**[39:30]** Und seine Jungen schlürfen Blut; / und wo Erschlagene sind, da ist er. (a) Mt 24:28 Und der Herr wandte sich an Hiob und sprach: (1) die Lutherbibel hat für 39,31-35; 40,1-28; 41,1-25 die Zählung 40,1-32; 41,1-26. Hadern will der Tadler mit dem Allmächtigen? / Der Gott zurechtwies, gebe darauf Antwort! Da antwortete Hiob dem Herrn und sprach: Siehe, ich bin zu gering, was soll ich dir antworten? / Ich lege die Hand auf meinen Mund. / Einmal habe ich geredet und wiederhole es nicht, / zweimal, und tue es nicht wieder.
 
 ### Chapter 40
 
@@ -28764,7 +28764,7 @@
 
 **[40:23]** Wird es einen Vertrag mit dir schliessen, / dass du es für immer zum Sklaven bekommst? /
 
-**[40:24]** Spielst du mit ihm wie mit einem Vogel / und bindest du es an für deine Mädchen? / Feilschen darum die Zunftgenossen, / verteilen sie es unter die Händler? / Kannst du seine Haut mit Stacheln spicken / und mit Fischharpunen seinen Kopf? / Lege nur deine Hand daran - / denke an den Kampf! - du tust es nicht wieder. / Sieh, deine Hoffnung wäre betrogen; / schon bei seinem Anblick würde einer hingestreckt. / 
+**[40:24]** Spielst du mit ihm wie mit einem Vogel / und bindest du es an für deine Mädchen? / Feilschen darum die Zunftgenossen, / verteilen sie es unter die Händler? / Kannst du seine Haut mit Stacheln spicken / und mit Fischharpunen seinen Kopf? / Lege nur deine Hand daran - / denke an den Kampf! - du tust es nicht wieder. / Sieh, deine Hoffnung wäre betrogen; / schon bei seinem Anblick würde einer hingestreckt. /
 
 ### Chapter 41
 
@@ -28816,7 +28816,7 @@
 
 **[41:24]** Auf Erden ist nicht seinesgleichen; / es ist gemacht, nie zu erschrecken. /
 
-**[41:25]** Alles, was hoch ist, fürchtet sich vor ihm; / es ist ein König über alle stolzen Tiere. 
+**[41:25]** Alles, was hoch ist, fürchtet sich vor ihm; / es ist ein König über alle stolzen Tiere.
 
 **[41:26]** 
 
@@ -28870,7 +28870,7 @@
 
 **[42:16]** Darnach lebte Hiob noch 140 Jahre, und er sah seine Kinder und Kindeskinder, vier Geschlechter.
 
-**[42:17]** Und Hiob starb alt und lebenssatt.  
+**[42:17]** Und Hiob starb alt und lebenssatt.
 
 ## Psalms
 
@@ -28886,7 +28886,7 @@
 
 **[1:5]** Darum werden die Gottlosen nicht bestehen im Gericht, / noch die Sünder in der Gemeinde der Gerechten. /
 
-**[1:6]** Denn der Herr kennt den Weg der Gerechten; / aber der Gottlosen Weg führt ins Verderben. 
+**[1:6]** Denn der Herr kennt den Weg der Gerechten; / aber der Gottlosen Weg führt ins Verderben.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Dienet dem Herrn mit Furcht, / und mit Zittern küsset seine Füsse, /
 
-**[2:12]** dass er nicht zürne / und euer Weg nicht ins Verderben führe; / denn leicht könnte sein Zorn entbrennen. / Wohl allen, die ihm vertrauen! 
+**[2:12]** dass er nicht zürne / und euer Weg nicht ins Verderben führe; / denn leicht könnte sein Zorn entbrennen. / Wohl allen, die ihm vertrauen!
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** Ich fürchte mich nicht vor viel Tausenden Volkes, / die rings wider mich sich gelagert haben. / (a) Ps 27:3
 
-**[3:8]** Stehe auf, o Herr, hilf mir, mein Gott! / denn du zerschlägst all meinen Feinden den Backen, / der Gottlosen Zähne zerschmetterst du. / Beim Herrn ist die Hilfe, / dein Segen über deinem Volke. 
+**[3:8]** Stehe auf, o Herr, hilf mir, mein Gott! / denn du zerschlägst all meinen Feinden den Backen, / der Gottlosen Zähne zerschmetterst du. / Beim Herrn ist die Hilfe, / dein Segen über deinem Volke.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** Viele sagen: "Wer erzeigt uns Gutes?" / Erhebe über uns das Licht deines Angesichtes, o Herr. / (a) 4Mo 6:26
 
-**[4:8]** Du hast mir grössere Freude ins Herz gegeben, / als sie haben bei der Fülle von Korn und Wein. / Im Frieden will ich mich niederlegen und einschlafen zumal; / denn du allein, Herr, hilfst mir, dass ich sicher wohne. (a) Ps 3:6; 3Mo 26:6 
+**[4:8]** Du hast mir grössere Freude ins Herz gegeben, / als sie haben bei der Fülle von Korn und Wein. / Im Frieden will ich mich niederlegen und einschlafen zumal; / denn du allein, Herr, hilfst mir, dass ich sicher wohne. (a) Ps 3:6; 3Mo 26:6
 
 ### Chapter 5
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** Lass sie büssen, o Gott, / lass sie fallen durch ihre Anschläge. / Ob der Menge ihrer Sünden verstosse sie; / denn sie lehnen sich auf wider dich. /
 
-**[5:12]** Aber lass sich freuen alle, die auf dich trauen, / lass sie jubeln immerdar; / du wollest sie beschirmen, / dass jauchzen über dich, die deinen Namen lieben. / (a) Ps 40:17 Denn du, Herr, segnest den Gerechten; / wie mit einem Schilde deckst du ihn mit deiner Gnade. 
+**[5:12]** Aber lass sich freuen alle, die auf dich trauen, / lass sie jubeln immerdar; / du wollest sie beschirmen, / dass jauchzen über dich, die deinen Namen lieben. / (a) Ps 40:17 Denn du, Herr, segnest den Gerechten; / wie mit einem Schilde deckst du ihn mit deiner Gnade.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** Weichet von mir, ihr Übeltäter alle, / denn der Herr hat mein lautes Weinen gehört, /
 
-**[6:10]** der Herr hat mein Flehen gehört, / der Herr nimmt an mein Gebet. / Es werden zuschanden, es erschrecken alle meine Feinde; / und abermals werden sie zuschanden im Nu. (a) Ps 35:4-6; 40:15 
+**[6:10]** der Herr hat mein Flehen gehört, / der Herr nimmt an mein Gebet. / Es werden zuschanden, es erschrecken alle meine Feinde; / und abermals werden sie zuschanden im Nu. (a) Ps 35:4-6; 40:15
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** Er gräbt eine Grube und höhlt sie aus; / doch er stürzt in die Grube, die er gemacht. / (a) Ps 9:16; 35:7 8; 57:7; 141:10; Spr 26:27
 
-**[7:17]** Sein Frevel kommt zurück auf sein Haupt, / auf seinen Scheitel seine Untat. / (a) 1Kön 8:32 Ich will dem Herrn danken nach seiner Gerechtigkeit / und will lobsingen dem Namen Gottes, des Höchsten. 
+**[7:17]** Sein Frevel kommt zurück auf sein Haupt, / auf seinen Scheitel seine Untat. / (a) 1Kön 8:32 Ich will dem Herrn danken nach seiner Gerechtigkeit / und will lobsingen dem Namen Gottes, des Höchsten.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** Schafe und Rinder allzumal, / dazu auch die Tiere des Feldes, /
 
-**[8:9]** die Vögel des Himmels, die Fische im Meere, / was da die Pfade der Fluten durchzieht. / Herr, unser Herrscher, / wie herrlich ist dein Name in allen Landen! 
+**[8:9]** die Vögel des Himmels, die Fische im Meere, / was da die Pfade der Fluten durchzieht. / Herr, unser Herrscher, / wie herrlich ist dein Name in allen Landen!
 
 ### Chapter 9
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** Denn nicht auf immer bleibt der Arme vergessen, / nicht ist die Hoffnung der Elenden ewig verloren. /
 
-**[9:20]** Stehe auf, o Herr, dass nicht der Mensch obsiege, / dass die Heiden vor dir gerichtet werden. / Lege, o Herr, einen Schrecken auf sie; / es sollen die Heiden erkennen, dass sie Menschen sind. / 
+**[9:20]** Stehe auf, o Herr, dass nicht der Mensch obsiege, / dass die Heiden vor dir gerichtet werden. / Lege, o Herr, einen Schrecken auf sie; / es sollen die Heiden erkennen, dass sie Menschen sind. /
 
 ### Chapter 10
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** Das Sehnen der Dulder hast du erhört, o Herr; / du achtest darauf, du neigest dein Ohr, /
 
-**[10:18]** Recht zu schaffen der Waise und dem Gedrückten; / nicht soll ferner Schrecken verbreiten / ein Mensch von der Erde. (a) 5Mo 10:18 
+**[10:18]** Recht zu schaffen der Waise und dem Gedrückten; / nicht soll ferner Schrecken verbreiten / ein Mensch von der Erde. (a) 5Mo 10:18
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** Er lässt regnen über die Gottlosen / Feuerkohlen und Schwefel, / und Glutwind ist der Trank, den er ihnen zuteilt. / (a) Ps 140:11
 
-**[11:7]** Denn der Herr ist gerecht, / er hat Gerechtigkeit lieb; / die Redlichen schauen sein Angesicht. (a) Ps 45:8 
+**[11:7]** Denn der Herr ist gerecht, / er hat Gerechtigkeit lieb; / die Redlichen schauen sein Angesicht. (a) Ps 45:8
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Die Reden des Herrn sind lautere Reden, / sind Silber, im Tiegel zu Boden geschmolzen, / siebenfach geläutert. / (a) Ps 18:31; 19:9; Spr 30:5
 
-**[12:8]** Du, o Herr, wollest uns bewahren, / du wollest uns beschützen / vor diesem Geschlecht auf ewig. / Ringsum wandeln die Gottlosen, / wenn Gemeinheit emporkommt unter den Menschenkindern. 
+**[12:8]** Du, o Herr, wollest uns bewahren, / du wollest uns beschützen / vor diesem Geschlecht auf ewig. / Ringsum wandeln die Gottlosen, / wenn Gemeinheit emporkommt unter den Menschenkindern.
 
 ### Chapter 13
 
@@ -29180,7 +29180,7 @@
 
 **[13:5]** dass nicht mein Feind sich rühme: "Ich habe ihn überwältigt!" / Meine Widersacher jubeln, dass ich wanke; / (a) Ps 25:2
 
-**[13:6]** ich aber vertraue deiner Gnade. / Es frohlocke mein Herz ob deiner Hilfe! / Singen will ich dem Herrn, dass er mir Gutes getan. 
+**[13:6]** ich aber vertraue deiner Gnade. / Es frohlocke mein Herz ob deiner Hilfe! / Singen will ich dem Herrn, dass er mir Gutes getan.
 
 ### Chapter 14
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** Ihr wollt zuschanden machen den Trost des Elenden, / dass der Herr seine Zuflucht ist. /
 
-**[14:7]** O dass von Zion die Hilfe für Israel käme! / Wenn der Herr wendet seines Volkes Geschick, / wird Jakob frohlocken, Israel fröhlich sein. (a) Ps 126:1; Jes 35:10 
+**[14:7]** O dass von Zion die Hilfe für Israel käme! / Wenn der Herr wendet seines Volkes Geschick, / wird Jakob frohlocken, Israel fröhlich sein. (a) Ps 126:1; Jes 35:10
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** der den Verworfenen verachtet, / aber die Gottesfürchtigen ehrt; / der Wort hält, auch wenn er sich zum Schaden geschworen; /
 
-**[15:5]** der sein Geld nicht um Zins gibt / und nicht Bestechung annimmt wider den Unschuldigen. / Wer das tut, wird nimmer wanken. (1) aÜs: "Wucher". (a) 2Mo 22:25; Spr 17:23 
+**[15:5]** der sein Geld nicht um Zins gibt / und nicht Bestechung annimmt wider den Unschuldigen. / Wer das tut, wird nimmer wanken. (1) aÜs: "Wucher". (a) 2Mo 22:25; Spr 17:23
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** Denn du gibst mein Leben nicht dem Tode preis / und lässest deinen Frommen nicht die Grube schauen. /
 
-**[16:11]** Du weisest mir den Pfad des Lebens: / Fülle der Freuden vor deinem Angesicht / und Wonnen in deiner Rechten ewiglich. 
+**[16:11]** Du weisest mir den Pfad des Lebens: / Fülle der Freuden vor deinem Angesicht / und Wonnen in deiner Rechten ewiglich.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** vor den Männern durch deine Hand, o Herr, / vor den Männern, deren Teil von der Welt ist, ihr Leben lang, / deren Bauch du füllst mit deinen Gütern, dass sie satt werden, / und die den Kindern ihren Überfluss hinterlassen. /
 
-**[17:15]** Ich aber will in Gerechtigkeit dein Angesicht schauen, / will mich sättigen, wenn ich erwache, an deinem Bilde. 
+**[17:15]** Ich aber will in Gerechtigkeit dein Angesicht schauen, / will mich sättigen, wenn ich erwache, an deinem Bilde.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** der mich von meinen Feinden errettet, / ja, der du über meine Widersacher mich erhebst, / mich befreist von dem Manne der Gewalttat. /
 
-**[18:50]** Darum will ich dich preisen unter den Völkern, / o Herr, und deinem Namen lobsingen, / (a) Ps 57:10; 108:4 der du deinem König grosses Heil verleihst / und deinem Gesalbten Huld erweisest, / David und seinem Hause ewiglich. (a) Ps 89:29 30 
+**[18:50]** Darum will ich dich preisen unter den Völkern, / o Herr, und deinem Namen lobsingen, / (a) Ps 57:10; 108:4 der du deinem König grosses Heil verleihst / und deinem Gesalbten Huld erweisest, / David und seinem Hause ewiglich. (a) Ps 89:29 30
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** Wer kann merken, wie oft er fehle? / Sprich mich ledig von meinen verborgenen Fehlern. /
 
-**[19:14]** Auch vor den Übermütigen bewahre deinen Knecht, / dass sie nicht über mich herrschen; / dann bin ich unsträflich und bleibe rein / von grosser Verschuldung. / Lass dir wohlgefallen die Reden meines Mundes / und das Sinnen meines Herzens, / o Herr, mein Fels und mein Erlöser! 
+**[19:14]** Auch vor den Übermütigen bewahre deinen Knecht, / dass sie nicht über mich herrschen; / dann bin ich unsträflich und bleibe rein / von grosser Verschuldung. / Lass dir wohlgefallen die Reden meines Mundes / und das Sinnen meines Herzens, / o Herr, mein Fels und mein Erlöser!
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** Durch Wagen sind jene, durch Rosse stark, / wir durch den Namen des Herrn, unsres Gottes. / (a) Jes 31:1; Sac 4:6; 9:10
 
-**[20:9]** Sie sinken und fallen, / wir stehen und bleiben. / O Herr, hilf dem König! / Erhöre uns am Tage, da wir rufen! 
+**[20:9]** Sie sinken und fallen, / wir stehen und bleiben. / O Herr, hilf dem König! / Erhöre uns am Tage, da wir rufen!
 
 ### Chapter 21
 
@@ -29444,7 +29444,7 @@
 
 **[21:12]** Wenn sie Böses wider dich anzetteln, Arglist ersinnen, / sie führen's nicht durch. /
 
-**[21:13]** Denn du machst, dass sie den Rücken wenden, / sobald du mit deinem Bogen auf ihr Antlitz zielst. / Erhebe dich, o Herr, in deiner Kraft, / so wollen wir singen und preisen deine Stärke. 
+**[21:13]** Denn du machst, dass sie den Rücken wenden, / sobald du mit deinem Bogen auf ihr Antlitz zielst. / Erhebe dich, o Herr, in deiner Kraft, / so wollen wir singen und preisen deine Stärke.
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Vor ihm nur werden niederfallen / alle, die in der Erde schlafen, / vor ihm die Kniee beugen alle, / die in den Staub hinabfuhren. / Doch meine Seele - ihm lebt sie! /
 
-**[22:31]** Meine Kinder werden ihm dienen, / werden erzählen vom Herrn dem kommenden Geschlecht, / und künden werden sie seine Gerechtigkeit / noch ungeborenem Volk; / denn der Herr hat es getan. 
+**[22:31]** Meine Kinder werden ihm dienen, / werden erzählen vom Herrn dem kommenden Geschlecht, / und künden werden sie seine Gerechtigkeit / noch ungeborenem Volk; / denn der Herr hat es getan.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Du deckst mir den Tisch / im Angesicht meiner Feinde; / du salbst mein Haupt mit Öl / und schenkst mir den Becher voll ein. / (a) Ps 92:11
 
-**[23:6]** Lauter Glück und Gnade werden mir folgen / all meine Tage, / und ich werde in des Herrn Hause weilen / mein Leben lang. 
+**[23:6]** Lauter Glück und Gnade werden mir folgen / all meine Tage, / und ich werde in des Herrn Hause weilen / mein Leben lang.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** Hebt hoch, ihr Tore, eure Häupter, / erhöht euch, ihr uralten Pforten, / dass der König der Herrlichkeit einziehe! /
 
-**[24:10]** "Wer ist denn der König der Herrlichkeit?" / Der Herr der Heerscharen, / er ist der König der Herrlichkeit! 
+**[24:10]** "Wer ist denn der König der Herrlichkeit?" / Der Herr der Heerscharen, / er ist der König der Herrlichkeit!
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Unschuld und Redlichkeit mögen mich behüten; / denn ich harre dein, o Herr. /
 
-**[25:22]** O Gott, erlöse Israel / aus allen seinen Nöten! (a) Ps 130:8 
+**[25:22]** O Gott, erlöse Israel / aus allen seinen Nöten! (a) Ps 130:8
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** Ich aber wandle unsträflich; / erlöse mich, Herr, und sei mir gnädig! /
 
-**[26:12]** Mein Fuss steht fest auf ebenem Plan. / Ich will den Herrn loben in der Gemeinde. (a) Ps 22:23; 35:18; 109:30 
+**[26:12]** Mein Fuss steht fest auf ebenem Plan. / Ich will den Herrn loben in der Gemeinde. (a) Ps 22:23; 35:18; 109:30
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** Ach, wenn ich nicht die Zuversicht hätte, / die Güte des Herrn zu schauen / im Lande der Lebenden - -! / (a) Ps 142:6; Jes 38:11
 
-**[27:14]** Harre des Herrn! Sei getrost und unverzagt, / und harre des Herrn! (a) Ps 31:25 
+**[27:14]** Harre des Herrn! Sei getrost und unverzagt, / und harre des Herrn! (a) Ps 31:25
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** Der Herr ist seines Volkes Hort, / eine rettende Wehr seinem Gesalbten. /
 
-**[28:9]** Hilf deinem Volke und segne dein Erbe, / und weide und trage sie immerdar! (a) Ps 78:71; 5Mo 9:29 
+**[28:9]** Hilf deinem Volke und segne dein Erbe, / und weide und trage sie immerdar! (a) Ps 78:71; 5Mo 9:29
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** Der Herr thront ob der Flut, / als König thront der Herr in Ewigkeit. /
 
-**[29:11]** Der Herr gebe seinem Volke Kraft, / der Herr segne sein Volk mit Heil! 
+**[29:11]** Der Herr gebe seinem Volke Kraft, / der Herr segne sein Volk mit Heil!
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** Höre, Herr, und sei mir gnädig! / Herr, sei du mein Helfer!" - /
 
-**[30:12]** da hast du mir meine Klage in Reigen verwandelt, / mein Trauerkleid gelöst, mich mit Freude gegürtet, / auf dass meine Seele dir lobsinge und nicht schweige. / Herr, mein Gott, in Ewigkeit will ich dich preisen. 
+**[30:12]** da hast du mir meine Klage in Reigen verwandelt, / mein Trauerkleid gelöst, mich mit Freude gegürtet, / auf dass meine Seele dir lobsinge und nicht schweige. / Herr, mein Gott, in Ewigkeit will ich dich preisen.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Ich aber wähnte in meiner Verzagtheit: / "Ich bin verstossen aus deinen Augen." / Fürwahr, da hast du mein lautes Flehen erhört, / als ich zu dir schrie. /
 
-**[31:24]** Liebet den Herrn, all seine Frommen! / Die Getreuen behütet der Herr, / doch reichlich vergilt er dem, der Hochmut übt. / Seid mir getrost und unverzagt, / ihr alle, die ihr des Herrn harret! (a) Ps 27:14 
+**[31:24]** Liebet den Herrn, all seine Frommen! / Die Getreuen behütet der Herr, / doch reichlich vergilt er dem, der Hochmut übt. / Seid mir getrost und unverzagt, / ihr alle, die ihr des Herrn harret! (a) Ps 27:14
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Der Gottlose hat viel Plage, / wer aber auf den Herrn vertraut, / den umgibt er mit Güte. /
 
-**[32:11]** Freut euch des Herrn und frohlockt, ihr Gerechten, / und jauchzet alle, / die ihr aufrichtigen Herzens seid! (a) Ps 64:11; 97:12 
+**[32:11]** Freut euch des Herrn und frohlockt, ihr Gerechten, / und jauchzet alle, / die ihr aufrichtigen Herzens seid! (a) Ps 64:11; 97:12
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** Ja, seiner freut sich unser Herz, / wir vertrauen seinem heiligen Namen. /
 
-**[33:22]** Deine Güte, o Herr, walte über uns, / wie wir deiner harren! 
+**[33:22]** Deine Güte, o Herr, walte über uns, / wie wir deiner harren!
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** Er behütet alle seine Gebeine, / dass ihrer nicht eins zerbrochen wird. /
 
-**[34:22]** Den Gottlosen wird das Unheil töten, / und die den Gerechten hassen, werden es büssen. / Der Herr erlöst die Seele seiner Knechte, / und alle, die auf ihn trauen, werden nicht büssen. 
+**[34:22]** Den Gottlosen wird das Unheil töten, / und die den Gerechten hassen, werden es büssen. / Der Herr erlöst die Seele seiner Knechte, / und alle, die auf ihn trauen, werden nicht büssen.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** Lass jauchzen und sich freuen, / die mir wünschen, dass ich Recht behalte; / lass sie immerdar sprechen: Hochgelobt sei der Herr, / der da will das Heil seines Knechtes! /
 
-**[35:28]** Und meine Zunge soll verkünden deine Gerechtigkeit, / deinen Ruhm den ganzen Tag. 
+**[35:28]** Und meine Zunge soll verkünden deine Gerechtigkeit, / deinen Ruhm den ganzen Tag.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Erhalte deine Gnade denen, die dich kennen, / und deine Treue denen, die aufrichtigen Herzens sind. /
 
-**[36:12]** Nicht trete mich der Fuss der Hoffart, / und die Hand der Gottlosen verscheuche mich nicht. / Da müssen fallen die Übeltäter, / werden gestürzt und vermögen nicht aufzustehen. 
+**[36:12]** Nicht trete mich der Fuss der Hoffart, / und die Hand der Gottlosen verscheuche mich nicht. / Da müssen fallen die Übeltäter, / werden gestürzt und vermögen nicht aufzustehen.
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** Die Hilfe der Gerechten kommt von dem Herrn, / er ist ihre Zuflucht in der Zeit der Not. / (a) Ps 46:2
 
-**[37:40]** Der Herr steht ihnen bei und errettet sie, / errettet sie von den Gottlosen und hilft ihnen, / weil sie auf ihn trauen. 
+**[37:40]** Der Herr steht ihnen bei und errettet sie, / errettet sie von den Gottlosen und hilft ihnen, / weil sie auf ihn trauen.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** die mir Gutes mit Bösem vergelten, / die wider mich sind, weil ich dem Guten nachjage. / (a) Ps 35:12
 
-**[38:22]** Verlass mich nicht, o Herr! / Mein Gott, sei mir nicht ferne! / Eile mir zu helfen, o Herr, mein Heil! (a) Ps 40:14 
+**[38:22]** Verlass mich nicht, o Herr! / Mein Gott, sei mir nicht ferne! / Eile mir zu helfen, o Herr, mein Heil! (a) Ps 40:14
 
 ### Chapter 39
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** Mit Strafen züchtigst du den Menschen um der Schuld willen / und lässest seine Anmut zergehen wie die Motte; / ein Hauch nur ist alles, was Mensch heisst. /
 
-**[39:13]** Höre mein Gebet, o Herr, vernimm mein Schreien, / schweige nicht zu meinen Tränen; / denn ich bin ein Gast bei dir, / ein Beisass wie alle meine Väter. / (a) Ps 119:19; 3Mo 25:23; 1Ch 29:15; Heb 11:13 Schaue weg von mir, dass ich heiter blicke, / ehe ich dahinfahre und nicht mehr bin. 
+**[39:13]** Höre mein Gebet, o Herr, vernimm mein Schreien, / schweige nicht zu meinen Tränen; / denn ich bin ein Gast bei dir, / ein Beisass wie alle meine Väter. / (a) Ps 119:19; 3Mo 25:23; 1Ch 29:15; Heb 11:13 Schaue weg von mir, dass ich heiter blicke, / ehe ich dahinfahre und nicht mehr bin.
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** es werden sich entsetzen ob ihrer Schmach, / die zu mir sprachen: "Ha! ha!" / (a) Ps 35:21
 
-**[40:17]** Es werden noch frohlocken und deiner sich freuen / alle, die dich suchen; / die dein Heil lieben, werden allezeit sagen: / "Der Herr ist gross!" / (a) Ps 35:27 Doch jetzt bin ich arm und elend; / o Herr, eile zu mir! / Meine Hilfe und mein Retter bist du; / mein Gott, säume nicht! 
+**[40:17]** Es werden noch frohlocken und deiner sich freuen / alle, die dich suchen; / die dein Heil lieben, werden allezeit sagen: / "Der Herr ist gross!" / (a) Ps 35:27 Doch jetzt bin ich arm und elend; / o Herr, eile zu mir! / Meine Hilfe und mein Retter bist du; / mein Gott, säume nicht!
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** Daran erkenne ich, dass du Gefallen an mir hast, / wenn mein Feind nicht über mich jauchzen darf. /
 
-**[41:13]** Ja, mich hältst du fest um meiner Unschuld willen / und lässest mich vor deinem Angesicht stehen allezeit. / Gepriesen sei der Herr, der Gott Israels, / von Ewigkeit zu Ewigkeit! Amen, Amen! 
+**[41:13]** Ja, mich hältst du fest um meiner Unschuld willen / und lässest mich vor deinem Angesicht stehen allezeit. / Gepriesen sei der Herr, der Gott Israels, / von Ewigkeit zu Ewigkeit! Amen, Amen!
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** Ich spreche zu Gott, meinem Fels: / Warum hast du meiner vergessen? / Warum muss ich trauernd einhergehn, da der Feind mich bedrängt? /
 
-**[42:11]** Wie Frass in meinen Gebeinen / ist mir der Hohn meiner Dränger, / da sie täglich zu mir sagen: "Wo ist nun dein Gott?" / Was bist du so gebeugt, meine Seele, / und so unruhig in mir? / Harre auf Gott; denn ich werde ihm noch danken, / ihm, meinem Helfer und meinem Gott! 
+**[42:11]** Wie Frass in meinen Gebeinen / ist mir der Hohn meiner Dränger, / da sie täglich zu mir sagen: "Wo ist nun dein Gott?" / Was bist du so gebeugt, meine Seele, / und so unruhig in mir? / Harre auf Gott; denn ich werde ihm noch danken, / ihm, meinem Helfer und meinem Gott!
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** Lass mich hineingehen zum Altare Gottes, / zu dem Gott, der meine Freude ist; / lass mich jubeln und auf der Harfe dich preisen, / o Herr, mein Gott! /
 
-**[43:5]** Was bist du so gebeugt, meine Seele, / und so unruhig in mir? / Harre auf Gott; denn ich werde ihm noch danken, / ihm, meinem Helfer und meinem Gott! 
+**[43:5]** Was bist du so gebeugt, meine Seele, / und so unruhig in mir? / Harre auf Gott; denn ich werde ihm noch danken, / ihm, meinem Helfer und meinem Gott!
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** Warum verbirgst du dein Angesicht, / vergissest unsres Elends und unsrer Drangsal? /
 
-**[44:26]** Denn in den Staub ist gebeugt unsre Seele, / und unser Leib klebt an der Erde. / (a) Ps 119:25 Mache dich auf, uns zu helfen, / und erlöse uns um deiner Gnade willen! 
+**[44:26]** Denn in den Staub ist gebeugt unsre Seele, / und unser Leib klebt an der Erde. / (a) Ps 119:25 Mache dich auf, uns zu helfen, / und erlöse uns um deiner Gnade willen!
 
 ### Chapter 45
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** geleiten sie mit Freuden und Frohlocken, / ziehen ein in den Königspalast. /
 
-**[45:17]** An deiner Väter Statt treten einst deine Söhne, / du wirst sie zu Fürsten setzen im ganzen Lande. / Ich will deinen Namen kundmachen unter allen Geschlechtern; / darum werden die Völker dich preisen immer und ewig. 
+**[45:17]** An deiner Väter Statt treten einst deine Söhne, / du wirst sie zu Fürsten setzen im ganzen Lande. / Ich will deinen Namen kundmachen unter allen Geschlechtern; / darum werden die Völker dich preisen immer und ewig.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** der den Kriegen steuert bis ans Ende der Welt, / der den Bogen zerbricht, den Speer zerschlägt / und die Schilde im Feuer verbrennt. / (a) Ps 76:4; Sac 7:10
 
-**[46:11]** "Lasset ab und erkennet, dass ich Gott bin, / erhaben unter den Völkern, erhaben auf Erden!" / Der Herr der Heerscharen ist mit uns, / eine Burg ist uns der Gott Jakobs. 
+**[46:11]** "Lasset ab und erkennet, dass ich Gott bin, / erhaben unter den Völkern, erhaben auf Erden!" / Der Herr der Heerscharen ist mit uns, / eine Burg ist uns der Gott Jakobs.
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** Denn Gott ist König der ganzen Erde; / singet ihm ein Lied! /
 
-**[47:9]** Gott ist König geworden über die Völker, / Gott hat sich gesetzt auf seinen heiligen Thron. / Die Fürsten der Völker sind versammelt / als Volk des Gottes Abrahams; / denn Gottes sind die Schilde der Erde, / hoch erhaben ist er. 
+**[47:9]** Gott ist König geworden über die Völker, / Gott hat sich gesetzt auf seinen heiligen Thron. / Die Fürsten der Völker sind versammelt / als Volk des Gottes Abrahams; / denn Gottes sind die Schilde der Erde, / hoch erhaben ist er.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Umkreiset den Zion, umwandelt ihn und zählt seine Türme; /
 
-**[48:14]** beachtet sein Bollwerk, durchwandert seine Paläste, / auf dass ihr erzählet dem künftigen Geschlecht: / Dies ist der Herr, unser Gott auf immer und ewig; / er wird uns leiten. 
+**[48:14]** beachtet sein Bollwerk, durchwandert seine Paläste, / auf dass ihr erzählet dem künftigen Geschlecht: / Dies ist der Herr, unser Gott auf immer und ewig; / er wird uns leiten.
 
 ### Chapter 49
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** Mag er seine Seele preisen in seinem Leben / und sie loben, dass sie sich gütlich tut - /
 
-**[49:20]** sie kommt doch zu der Wohnung seiner Väter, / die das Licht nimmermehr schauen. / Der Mensch in Pracht, doch ohne Verstand, / wird gleich dem Vieh, das abgetan wird. 
+**[49:20]** sie kommt doch zu der Wohnung seiner Väter, / die das Licht nimmermehr schauen. / Der Mensch in Pracht, doch ohne Verstand, / wird gleich dem Vieh, das abgetan wird.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Merket doch das, die ihr Gottes vergessen, / damit ich nicht zerreisse - und niemand rettet. /
 
-**[50:23]** Wer Dank opfert, der ehrt mich; / und wer unsträflich wandelt, / den lasse ich schauen mein Heil." 
+**[50:23]** Wer Dank opfert, der ehrt mich; / und wer unsträflich wandelt, / den lasse ich schauen mein Heil."
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** Denn Schlachtopfer begehrst du nicht, / und gäbe ich Brandopfer, es gefiele dir nicht. / (a) Ps 40:7; 50:13; Jes 1:11; Jer 6:20; Am 5:22; Mi 6:7
 
-**[51:19]** Das Opfer, das Gott gefällt, ist ein zerbrochener Geist, / ein zerschlagenes Herz wirst du, o Gott, nicht verachten. (a) Ps 34:19; Jes 57:15; 66:2 Tue Zion Gutes nach deiner Gnade, / baue die Mauern Jerusalems auf! / (a) Ps 147:2 Dann hast du Gefallen an rechten Opfern, / dann bringt man Stiere auf deinen Altar. 
+**[51:19]** Das Opfer, das Gott gefällt, ist ein zerbrochener Geist, / ein zerschlagenes Herz wirst du, o Gott, nicht verachten. (a) Ps 34:19; Jes 57:15; 66:2 Tue Zion Gutes nach deiner Gnade, / baue die Mauern Jerusalems auf! / (a) Ps 147:2 Dann hast du Gefallen an rechten Opfern, / dann bringt man Stiere auf deinen Altar.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** Und die Gerechten werden es schauen und schaudern, / und sie werden seiner lachen: /
 
-**[52:9]** "Seht, das ist der Mann, der nicht Gott zu seiner Zuflucht machte, / der da vertraute auf seinen grossen Reichtum, / der da trotzte auf seine Schätze." / (a) Ps 49:7 Ich aber bin wie ein grünender Ölbaum im Hause Gottes, / ich verlasse mich auf Gottes Gnade immer und ewig. / Ich will dich immerdar preisen, denn du machst es wohl, / will vor deinen Frommen verkünden, / dass dein Name voll Güte ist. 
+**[52:9]** "Seht, das ist der Mann, der nicht Gott zu seiner Zuflucht machte, / der da vertraute auf seinen grossen Reichtum, / der da trotzte auf seine Schätze." / (a) Ps 49:7 Ich aber bin wie ein grünender Ölbaum im Hause Gottes, / ich verlasse mich auf Gottes Gnade immer und ewig. / Ich will dich immerdar preisen, denn du machst es wohl, / will vor deinen Frommen verkünden, / dass dein Name voll Güte ist.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** Haben denn keinen Verstand die Übeltäter, / die mein Volk verzehren? / Sie essen Gottes Brot und rufen ihn nicht an. /
 
-**[53:6]** Da trifft sie gewaltiger Schrecken; / denn Gott zerstreut die Gebeine des Ruchlosen. / Sie werden zuschanden; denn Gott hat sie verworfen. / O dass von Zion die Hilfe für Israel käme! / Wenn Gott wendet seines Volkes Geschick, / wird Jakob frohlocken, Israel fröhlich sein! 
+**[53:6]** Da trifft sie gewaltiger Schrecken; / denn Gott zerstreut die Gebeine des Ruchlosen. / Sie werden zuschanden; denn Gott hat sie verworfen. / O dass von Zion die Hilfe für Israel käme! / Wenn Gott wendet seines Volkes Geschick, / wird Jakob frohlocken, Israel fröhlich sein!
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** Siehe, Gott ist mein Helfer; / der Herr ist es, der mein Leben erhält. /
 
-**[54:7]** Das Unheil soll auf meine Feinde zurückfallen; / vernichte sie, Herr, nach deiner Treue. / So will ich dir willig Opfer bringen, / will deinen Namen preisen, dass er voll Güte ist. / Denn er errettet mich aus aller Not, / und mein Auge schaut seine Lust an meinen Feinden. (a) Ps 59:11; 92:12 
+**[54:7]** Das Unheil soll auf meine Feinde zurückfallen; / vernichte sie, Herr, nach deiner Treue. / So will ich dir willig Opfer bringen, / will deinen Namen preisen, dass er voll Güte ist. / Denn er errettet mich aus aller Not, / und mein Auge schaut seine Lust an meinen Feinden. (a) Ps 59:11; 92:12
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Glatt wie Butter ist seine Rede, / doch Streit ist sein Sinnen; / seine Worte sind linder als Öl / und sind doch gezückte Schwerter. / (a) Ps 57:5; Jer 9:8
 
-**[55:23]** Wirf dein Anliegen auf den Herrn, / er wird dich versorgen; / er lässt den Gerechten nimmer wanken. / Doch du, o Gott, wirst sie hinabstossen / in die Tiefe der Grube; / die Blutgierigen und Falschen / werden ihre Tage nicht auf die Hälfte bringen. / Ich aber vertraue auf dich. 
+**[55:23]** Wirf dein Anliegen auf den Herrn, / er wird dich versorgen; / er lässt den Gerechten nimmer wanken. / Doch du, o Gott, wirst sie hinabstossen / in die Tiefe der Grube; / die Blutgierigen und Falschen / werden ihre Tage nicht auf die Hälfte bringen. / Ich aber vertraue auf dich.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Auf Gott vertraue ich, fürchte mich nicht; / was könnten Menschen mir antun? /
 
-**[56:13]** Ich schulde dir, Gott, Gelübde; / Dankopfer will ich dir bezahlen. / Denn du hast mein Leben vom Tode errettet, / ja, meine Füsse vom Sturze, / dass ich vor Gott wandle im Lichte des Lebens. (a) Ps 116:8 9 
+**[56:13]** Ich schulde dir, Gott, Gelübde; / Dankopfer will ich dir bezahlen. / Denn du hast mein Leben vom Tode errettet, / ja, meine Füsse vom Sturze, / dass ich vor Gott wandle im Lichte des Lebens. (a) Ps 116:8 9
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** Ich will dich preisen unter den Völkern, o Herr, / will dir lobsingen unter den Nationen. / (a) Ps 18:50
 
-**[57:11]** Denn gross bis zum Himmel ist deine Güte / und deine Treue bis an die Wolken. / (a) Ps 36:6 Erhebe dich über die Himmel, o Gott, / über die ganze Erde deine Herrlichkeit! 
+**[57:11]** Denn gross bis zum Himmel ist deine Güte / und deine Treue bis an die Wolken. / (a) Ps 36:6 Erhebe dich über die Himmel, o Gott, / über die ganze Erde deine Herrlichkeit!
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** Ehe eure Töpfe des Dornes Feuer merken, / wird Gott ihn, ob frisch, ob brennend, hinwegfegen. /
 
-**[58:11]** Der Gerechte wird sich freuen, dass er Rache schaut, / wird seine Füsse baden im Blute des Gottlosen. / (a) Ps 68:24 Dann wird man sagen: Ja, Lohn wird dem Gerechten! / Ja, es gibt noch ein göttliches Gericht auf Erden! 
+**[58:11]** Der Gerechte wird sich freuen, dass er Rache schaut, / wird seine Füsse baden im Blute des Gottlosen. / (a) Ps 68:24 Dann wird man sagen: Ja, Lohn wird dem Gerechten! / Ja, es gibt noch ein göttliches Gericht auf Erden!
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** Sie schweifen umher nach Speise, / murren, wenn sie nicht satt werden. /
 
-**[59:17]** Ich aber will deine Macht besingen / und jeden Morgen jubeln ob deiner Güte; / denn du bist meine Burg geworden / und meine Zuflucht zur Zeit meiner Not. / Meine Stärke, auf dich will ich achten; / denn Gott ist meine Burg. 
+**[59:17]** Ich aber will deine Macht besingen / und jeden Morgen jubeln ob deiner Güte; / denn du bist meine Burg geworden / und meine Zuflucht zur Zeit meiner Not. / Meine Stärke, auf dich will ich achten; / denn Gott ist meine Burg.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Wer wird mich führen nach der Feste, / wer mich geleiten nach Edom? /
 
-**[60:12]** Hast du doch, o Gott, uns verstossen / und ziehst nicht aus mit unsern Scharen! / (a) Ps 44:10 Schaffe uns Hilfe vor dem Bedränger! / eitel ist ja Menschenhilfe. / Mit Gott werden wir Taten tun; / er wird unsre Bedränger zertreten. (a) Ps 44:6 
+**[60:12]** Hast du doch, o Gott, uns verstossen / und ziehst nicht aus mit unsern Scharen! / (a) Ps 44:10 Schaffe uns Hilfe vor dem Bedränger! / eitel ist ja Menschenhilfe. / Mit Gott werden wir Taten tun; / er wird unsre Bedränger zertreten. (a) Ps 44:6
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Du wollest dem König die Tage seines Lebens mehren / und seine Jahre von Geschlecht zu Geschlecht. /
 
-**[61:8]** Er möge ewig thronen vor Gottes Angesicht; / lass Gnade und Treue ihn behüten! / So will ich deinem Namen lobsingen allezeit, / meine Gelübde bezahlen Tag für Tag. (a) Ps 22:26; 66:13; 116:14 18 
+**[61:8]** Er möge ewig thronen vor Gottes Angesicht; / lass Gnade und Treue ihn behüten! / So will ich deinem Namen lobsingen allezeit, / meine Gelübde bezahlen Tag für Tag. (a) Ps 22:26; 66:13; 116:14 18
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** Verlasset euch nicht auf Gewalt / und setzt nicht eitle Hoffnung auf Raub. / Wenn der Reichtum wächst, / hänget euer Herz nicht daran. / (a) Lu 12:19 20; 1Ti 6:17
 
-**[62:12]** Eines hat Gott geredet, / zwei Dinge sind's, die ich gehört: / dass Gottes die Macht ist, / und dein, o Herr, die Gnade. / Denn du vergiltst einem jeden nach seinem Tun. 
+**[62:12]** Eines hat Gott geredet, / zwei Dinge sind's, die ich gehört: / dass Gottes die Macht ist, / und dein, o Herr, die Gnade. / Denn du vergiltst einem jeden nach seinem Tun.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** Sie aber, die mir nach dem Leben stellen, / werden in die Tiefen der Erde hinabfahren. /
 
-**[63:11]** Sie werden dem Schwerte dahingegeben, / die Beute der Schakale werden sie. / Doch der König wird sich Gottes freuen, / alle, die bei ihm schwören, werden sich rühmen; / denn den Lügnern wird der Mund gestopft. 
+**[63:11]** Sie werden dem Schwerte dahingegeben, / die Beute der Schakale werden sie. / Doch der König wird sich Gottes freuen, / alle, die bei ihm schwören, werden sich rühmen; / denn den Lügnern wird der Mund gestopft.
 
 ### Chapter 64
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** Er bringt sie zu Fall ob ihrer Zunge; / es höhnen alle, die auf sie sehen. /
 
-**[64:10]** Da fürchten sich alle Menschen / und verkünden Gottes Tun / und verstehen sein Walten. / Der Gerechte wird sich des Herrn freuen / und zu ihm seine Zuflucht nehmen, / und alle redlichen Herzen werden sich rühmen. (a) Ps 68:4 
+**[64:10]** Da fürchten sich alle Menschen / und verkünden Gottes Tun / und verstehen sein Walten. / Der Gerechte wird sich des Herrn freuen / und zu ihm seine Zuflucht nehmen, / und alle redlichen Herzen werden sich rühmen. (a) Ps 68:4
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** Du krönst das Jahr mit deiner Güte, / und deine Spuren triefen von Fett. /
 
-**[65:13]** Es triefen die Anger der Steppe, / und mit Jubel gürten sich die Hügel; / die Berge bekleiden sich mit Herden, / und die Täler hüllen sich in Korn, / jauchzen sich zu und singen. 
+**[65:13]** Es triefen die Anger der Steppe, / und mit Jubel gürten sich die Hügel; / die Berge bekleiden sich mit Herden, / und die Täler hüllen sich in Korn, / jauchzen sich zu und singen.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** Aber wahrlich, Gott hat gehört, / er hat auf mein Flehen geachtet. /
 
-**[66:20]** Gelobt sei Gott, der mein Gebet nicht verworfen, / noch seine Gnade von mir gewendet hat! 
+**[66:20]** Gelobt sei Gott, der mein Gebet nicht verworfen, / noch seine Gnade von mir gewendet hat!
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Es müssen dich preisen, o Gott, die Völker, / dich preisen die Völker alle! /
 
-**[67:7]** Das Land hat seinen Ertrag gegeben, / es segnet uns Gott, unser Gott. / (a) Ps 85:13 Es segnet uns Gott, und es sollen ihn fürchten / alle Enden der Erde! 
+**[67:7]** Das Land hat seinen Ertrag gegeben, / es segnet uns Gott, unser Gott. / (a) Ps 85:13 Es segnet uns Gott, und es sollen ihn fürchten / alle Enden der Erde!
 
 ### Chapter 68
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** Ihm, der daherfährt im höchsten Himmel, dem ewigen! / Siehe, er lässt seine Stimme erschallen, eine mächtige Stimme. /
 
-**[68:35]** Gebet Gott die Macht! / Über Israel waltet seine Hoheit und seine Macht in den Wolken. / Furchtbar ist Gott von seinem Heiligtum aus. / Der Gott Israels, er gibt Kraft und Stärke dem Volke. / Gelobt sei Gott! (a) Ps 29:11 
+**[68:35]** Gebet Gott die Macht! / Über Israel waltet seine Hoheit und seine Macht in den Wolken. / Furchtbar ist Gott von seinem Heiligtum aus. / Der Gott Israels, er gibt Kraft und Stärke dem Volke. / Gelobt sei Gott! (a) Ps 29:11
 
 ### Chapter 69
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** Es lobe ihn Himmel und Erde, / das Meer und alles, was darin sich regt. /
 
-**[69:36]** Denn Gott wird Zion helfen / und die Städte Judas aufbauen, / dass man dort Wohnung nehme und sie besitze. / Und das Geschlecht seiner Knechte wird es ererben; / die seinen Namen lieben, werden darin wohnen. 
+**[69:36]** Denn Gott wird Zion helfen / und die Städte Judas aufbauen, / dass man dort Wohnung nehme und sie besitze. / Und das Geschlecht seiner Knechte wird es ererben; / die seinen Namen lieben, werden darin wohnen.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** Sie werden abziehen ob ihrer Schmach, / die da höhnen: "Ha! ha!" /
 
-**[70:5]** Es werden noch frohlocken und deiner sich freuen / alle, die dich suchen, / und die dein Heil lieben, werden allzeit sagen: / Gott ist gross! / Doch jetzt bin ich arm und elend; / o Gott, eile zu mir! / Meine Hilfe und mein Retter bist du; / o Herr, säume nicht! 
+**[70:5]** Es werden noch frohlocken und deiner sich freuen / alle, die dich suchen, / und die dein Heil lieben, werden allzeit sagen: / Gott ist gross! / Doch jetzt bin ich arm und elend; / o Gott, eile zu mir! / Meine Hilfe und mein Retter bist du; / o Herr, säume nicht!
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** Meine Lippen sollen frohlocken / und meine Seele, die du erlöst hast. /
 
-**[71:24]** Auch meine Zunge soll den ganzen Tag / reden von deiner Gerechtigkeit; / denn zuschanden wurden, erröten mussten, / die mein Unglück suchten. (a) Ps 40:15 
+**[71:24]** Auch meine Zunge soll den ganzen Tag / reden von deiner Gerechtigkeit; / denn zuschanden wurden, erröten mussten, / die mein Unglück suchten. (a) Ps 40:15
 
 ### Chapter 72
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** Und gelobt sei sein herrlicher Name in Ewigkeit, / alle Lande sollen seiner Herrlichkeit voll werden! Amen! Amen! /
 
-**[72:20]** Zu Ende sind die Gebete Davids, des Sohnes Isais. 
+**[72:20]** Zu Ende sind die Gebete Davids, des Sohnes Isais.
 
 ### Chapter 73
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** Denn siehe, die dir fernbleiben, kommen um; / du vernichtest alle, die dir untreu werden. /
 
-**[73:28]** Mir aber ist es köstlich, Gott nahe zu sein; / ich setze meine Zuversicht auf Gott, den Herrn, / und verkünde alle deine Werke. 
+**[73:28]** Mir aber ist es köstlich, Gott nahe zu sein; / ich setze meine Zuversicht auf Gott, den Herrn, / und verkünde alle deine Werke.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Stehe auf, o Gott, und führe deinen Streit, / gedenke, wie du stetsfort von Gottlosen geschmäht wirst. /
 
-**[74:23]** Vergiss nicht des Geschreis deiner Feinde, / des Tobens deiner Widersacher, das allzeit emporsteigt. 
+**[74:23]** Vergiss nicht des Geschreis deiner Feinde, / des Tobens deiner Widersacher, das allzeit emporsteigt.
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** Denn ein Kelch ist in der Hand des Herrn / mit schäumendem Wein, stark gewürztem; / und er schenkt ein der Reihe nach, / auch seine Hefe müssen schlürfen, / müssen trinken alle Gottlosen der Erde. / (a) Ps 60:5; Jer 25:15-26
 
-**[75:10]** Ich aber will immerdar jubeln, / will lobsingen dem Gotte Jakobs. / Alle Hörner der Gottlosen schlägt er ab; / aber hoch werden erhoben die Hörner des Gerechten. (1) vgl. Anm. zu 1Sa 2:1. 
+**[75:10]** Ich aber will immerdar jubeln, / will lobsingen dem Gotte Jakobs. / Alle Hörner der Gottlosen schlägt er ab; / aber hoch werden erhoben die Hörner des Gerechten. (1) vgl. Anm. zu 1Sa 2:1.
 
 ### Chapter 76
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** Ja, die Menschenvölker sollen dich preisen, / der Überrest der Völker dir Feste feiern. / (1) die gegebene Üs. beruht auf mehrfacher Textänderung. Der überlieferte Text bed: "Denn der Zorn des Menschen preist dich; / mit dem Überrest der Zornausbrüche gürtest du dich."
 
-**[76:12]** Tut Gelübde und erfüllt sie dem Herrn, eurem Gott; / alle ringsum sollen Gaben bringen dem Furchtbaren, / der Fürstenhochmut dämpft, / furchtbar den Königen der Erde. 
+**[76:12]** Tut Gelübde und erfüllt sie dem Herrn, eurem Gott; / alle ringsum sollen Gaben bringen dem Furchtbaren, / der Fürstenhochmut dämpft, / furchtbar den Königen der Erde.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Rollend erdröhnte dein Donner, / deine Blitze erhellten den Erdkreis; / die Erde erbebte, erzitterte. /
 
-**[77:20]** Dein Weg ging durchs Meer / und dein Pfad durch gewaltige Wasser, / doch deine Spuren waren nicht zu erkennen. / (a) 2Mo 14 Du führtest dein Volk wie eine Herde / durch Moses und Aarons Hand. (a) Ps 78:52 
+**[77:20]** Dein Weg ging durchs Meer / und dein Pfad durch gewaltige Wasser, / doch deine Spuren waren nicht zu erkennen. / (a) 2Mo 14 Du führtest dein Volk wie eine Herde / durch Moses und Aarons Hand. (a) Ps 78:52
 
 ### Chapter 78
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** holte ihn weg von den Mutterschafen, / dass er weide sein Volk Jakob / und sein Eigentum Israel. / (a) 1Sa 16:11-13
 
-**[78:72]** Und er weidete sie mit frommem Sinn, / leitete sie mit weiser Hand. 
+**[78:72]** Und er weidete sie mit frommem Sinn, / leitete sie mit weiser Hand.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** Und unsern Nachbarn vergilt / siebenfältig in ihren Busen den Hohn, / womit sie dich, Herr, gehöhnt haben! /
 
-**[79:13]** Wir aber, dein Volk, die Schafe deiner Weide, / wir wollen dir ewig Dank sagen / und deinen Ruhm verkünden / von Geschlecht zu Geschlecht. (a) Ps 100:3 
+**[79:13]** Wir aber, dein Volk, die Schafe deiner Weide, / wir wollen dir ewig Dank sagen / und deinen Ruhm verkünden / von Geschlecht zu Geschlecht. (a) Ps 100:3
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** Deine Hand sei über dem Mann deiner Rechten, / über dem Menschenkind, das du dir gestärkt hast. /
 
-**[80:19]** Lass uns leben, so wollen wir dich anrufen / und wollen nicht von dir weichen. / Herr der Heerscharen, stelle uns wieder her! / lass dein Angesicht leuchten, so wird uns geholfen. 
+**[80:19]** Lass uns leben, so wollen wir dich anrufen / und wollen nicht von dir weichen. / Herr der Heerscharen, stelle uns wieder her! / lass dein Angesicht leuchten, so wird uns geholfen.
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** Wie bald wollte ich ihre Feinde beugen / und meine Hand wider ihre Bedränger wenden! /
 
-**[81:16]** Ihre Hasser müssten ihnen schmeicheln, / und ihr Glück würde ewig währen. / Ich wollte sie speisen mit dem Mark des Weizens, / mit Honig aus dem Felsen wollte ich sie sättigen." (a) 5Mo 32:13 
+**[81:16]** Ihre Hasser müssten ihnen schmeicheln, / und ihr Glück würde ewig währen. / Ich wollte sie speisen mit dem Mark des Weizens, / mit Honig aus dem Felsen wollte ich sie sättigen." (a) 5Mo 32:13
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** Doch wahrlich, wie Menschen sollt ihr sterben, / sollt stürzen wie einer der Fürsten." /
 
-**[82:8]** Stehe auf, o Gott, richte die Erde! / denn dein Eigentum sind die Völker alle. 
+**[82:8]** Stehe auf, o Gott, richte die Erde! / denn dein Eigentum sind die Völker alle.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Mache ihr Angesicht voll Schmach, / dass sie nach deinem Namen fragen, o Herr! /
 
-**[83:18]** Sie sollen beschämt werden und erschrecken für immer, / dass sie vor Schande vergehen. / Dann werden sie erkennen, dass du allein / der Höchste bist über die ganze Erde. 
+**[83:18]** Sie sollen beschämt werden und erschrecken für immer, / dass sie vor Schande vergehen. / Dann werden sie erkennen, dass du allein / der Höchste bist über die ganze Erde.
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** Denn ein Tag in deinen Vorhöfen / ist besser als tausend draussen, / besser an der Schwelle stehen im Hause meines Gottes, / als wohnen in den Zelten des Frevels. /
 
-**[84:12]** Denn Gott der Herr ist Zinne und Schild, / Gnade und Ehre gibt der Herr; / er versagt nicht Glück / denen, die unsträflich wandeln. / O Herr der Heerscharen, / wohl dem Menschen, der dir vertraut! 
+**[84:12]** Denn Gott der Herr ist Zinne und Schild, / Gnade und Ehre gibt der Herr; / er versagt nicht Glück / denen, die unsträflich wandeln. / O Herr der Heerscharen, / wohl dem Menschen, der dir vertraut!
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Treue sprosst auf aus der Erde, / und Gerechtigkeit schaut hernieder vom Himmel. /
 
-**[85:13]** Dann spendet der Herr auch den Segen, / und unser Land gibt seinen Ertrag. / (a) Ps 67:7; 3Mo 26:4 Gerechtigkeit geht vor ihm her, / und Heil folgt der Spur seiner Schritte. 
+**[85:13]** Dann spendet der Herr auch den Segen, / und unser Land gibt seinen Ertrag. / (a) Ps 67:7; 3Mo 26:4 Gerechtigkeit geht vor ihm her, / und Heil folgt der Spur seiner Schritte.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Wende dich zu mir und sei mir gnädig! / verleihe deinem Knecht deine Stärke / und hilf dem Sohne deiner Magd. /
 
-**[86:17]** Tue an mir ein Zeichen zum Guten, / damit, die mich hassen, voll Beschämung es sehen, / dass du, Herr, mir geholfen und mich getröstet hast. 
+**[86:17]** Tue an mir ein Zeichen zum Guten, / damit, die mich hassen, voll Beschämung es sehen, / dass du, Herr, mir geholfen und mich getröstet hast.
 
 ### Chapter 87
 
@@ -31784,7 +31784,7 @@
 
 **[87:6]** Der Herr zählt im Buche der Völker: / "Der und der ist daselbst geboren." /
 
-**[87:7]** Und sie singen im Reigen: / "All meine Quellen sind in dir." 
+**[87:7]** Und sie singen im Reigen: / "All meine Quellen sind in dir."
 
 ### Chapter 88
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** Deine Zornesgluten gehen über mich hin, / deine Schrecknisse vernichten mich. /
 
-**[88:18]** Sie umfluten mich wie Wasser allezeit, / sie umringen mich allzumal. / Den Freund und Genossen hast du mir entfremdet, / mein Vertrauter ist die Finsternis. 
+**[88:18]** Sie umfluten mich wie Wasser allezeit, / sie umringen mich allzumal. / Den Freund und Genossen hast du mir entfremdet, / mein Vertrauter ist die Finsternis.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** Gedenke, o Herr, der Schmach deines Knechtes, / dass ich im Busen trage den Hohn der Völker, /
 
-**[89:52]** womit deine Feinde schmähen, o Herr, / womit sie schmähen die Fußstapfen deines Gesalbten! Gelobt sei der Herr in Ewigkeit! Amen, Amen. 
+**[89:52]** womit deine Feinde schmähen, o Herr, / womit sie schmähen die Fußstapfen deines Gesalbten! Gelobt sei der Herr in Ewigkeit! Amen, Amen.
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Lass deine Knechte dein Walten schauen / und ihre Kinder deine Herrlichkeit. /
 
-**[90:17]** Die Huld des Herrn, unsres Gottes, sei über uns! / Das Werk unsrer Hände wollest du fördern, / ja, fördere es, das Werk unsrer Hände! 
+**[90:17]** Die Huld des Herrn, unsres Gottes, sei über uns! / Das Werk unsrer Hände wollest du fördern, / ja, fördere es, das Werk unsrer Hände!
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** Er ruft mich an, und ich erhöre ihn: / ich bin bei ihm in der Not, / reisse ihn heraus und bringe ihn zu Ehren. / (a) Ps 50:15
 
-**[91:16]** Ich sättige ihn mit langem Leben und lasse ihn schauen mein Heil." (a) Ps 50:23 
+**[91:16]** Ich sättige ihn mit langem Leben und lasse ihn schauen mein Heil." (a) Ps 50:23
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** Gepflanzt im Hause des Herrn, / sprossen sie auf in den Vorhöfen unsres Gottes. / (a) Jes 61:3
 
-**[92:15]** Noch im Alter tragen sie Frucht, / sind saftvoll und frisch, / zu verkünden, wie gerecht der Herr, / mein Fels, an dem kein Unrecht ist. (a) 5Mo 32:4 
+**[92:15]** Noch im Alter tragen sie Frucht, / sind saftvoll und frisch, / zu verkünden, wie gerecht der Herr, / mein Fels, an dem kein Unrecht ist. (a) 5Mo 32:4
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** Hehrer als das Brausen grosser Wasser, / hehrer als die Brandung des Meeres, / hehr ist der Herr in der Höhe. /
 
-**[93:5]** Fest und verlässlich ist, was du bezeugt; / deinem Hause gebührt heilige Scheu, / o Herr, auf ewige Zeiten. 
+**[93:5]** Fest und verlässlich ist, was du bezeugt; / deinem Hause gebührt heilige Scheu, / o Herr, auf ewige Zeiten.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** Der Herr aber ist meine Burg / und mein Gott der Fels meiner Zuflucht. /
 
-**[94:23]** Er vergilt ihnen ihren Frevel / und vertilgt sie in ihrer Bosheit, / es vertilgt sie der Herr, unser Gott. 
+**[94:23]** Er vergilt ihnen ihren Frevel / und vertilgt sie in ihrer Bosheit, / es vertilgt sie der Herr, unser Gott.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** Vierzig Jahre hatte ich Abscheu / vor jenem Geschlechte und sprach: / Sie sind ein Volk irren Geistes - / und noch erkannten sie meine Wege nicht. / (a) 4Mo 14:34
 
-**[95:11]** So schwur ich denn in meinem Zorn: / Sie sollen nicht eingehen zu meiner Ruhstatt." (a) 4Mo 14:23 
+**[95:11]** So schwur ich denn in meinem Zorn: / Sie sollen nicht eingehen zu meiner Ruhstatt." (a) 4Mo 14:23
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Es juble das Feld und was darauf steht; / dann sollen jauchzen alle Bäume des Waldes / (a) Jes 55:12
 
-**[96:13]** vor dem Herrn, wenn er kommt, / wenn er kommt, die Erde zu richten. / Er richtet den Erdkreis gerecht / und die Völker nach seiner Treue. (a) Ps 98:9 
+**[96:13]** vor dem Herrn, wenn er kommt, / wenn er kommt, die Erde zu richten. / Er richtet den Erdkreis gerecht / und die Völker nach seiner Treue. (a) Ps 98:9
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Ein Licht erstrahlt dem Gerechten / und Freude den redlichen Herzen. / (a) Ps 112:4
 
-**[97:12]** Freut euch des Herrn, ihr Gerechten, / und preist seinen heiligen Namen! 
+**[97:12]** Freut euch des Herrn, ihr Gerechten, / und preist seinen heiligen Namen!
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Die Ströme sollen in die Hände klatschen / und die Berge allzumal jubeln /
 
-**[98:9]** vor dem Antlitz des Herrn; denn er kommt, / die Erde zu richten. / Er richtet den Erdkreis gerecht / und die Völker getreu. (a) Ps 96:13 
+**[98:9]** vor dem Antlitz des Herrn; denn er kommt, / die Erde zu richten. / Er richtet den Erdkreis gerecht / und die Völker getreu. (a) Ps 96:13
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** O Herr, unser Gott, du hast sie erhört; / du warst ihnen ein verzeihender Gott, / doch Rächer ihrer Vergehen. /
 
-**[99:9]** Erhebet den Herrn, unsern Gott, / und fallt nieder vor seinem heiligen Berge; / denn heilig ist der Herr, unser Gott! 
+**[99:9]** Erhebet den Herrn, unsern Gott, / und fallt nieder vor seinem heiligen Berge; / denn heilig ist der Herr, unser Gott!
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Ziehet ein durch seine Tore mit Danken, / in seine Vorhöfe mit Lobgesang; / danket ihm, preiset seinen Namen! /
 
-**[100:5]** Denn der Herr ist gütig; ewig währt seine Gnade / und seine Treue von Geschlecht zu Geschlecht. (a) Ps 106:1 
+**[100:5]** Denn der Herr ist gütig; ewig währt seine Gnade / und seine Treue von Geschlecht zu Geschlecht. (a) Ps 106:1
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** In meinem Hause soll keiner wohnen, / der Falschheit übt; / wer Lügen redet, / kann nicht bestehen vor meinen Augen. / (a) Spr 13:5
 
-**[101:8]** Mit jedem Morgen vernichte ich / die Frevler alle im Lande, / rotte aus alle Übeltäter / aus der Stadt des Herrn. 
+**[101:8]** Mit jedem Morgen vernichte ich / die Frevler alle im Lande, / rotte aus alle Übeltäter / aus der Stadt des Herrn.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** Sie werden vergehen, du aber bleibst; / wie ein Gewand zerfallen sie alle, / wie ein Kleid wechselst du sie, und sie gehen dahin. / (a) Jes 51:6; Lu 21:33; 2Pe 3:10
 
-**[102:28]** Du aber bleibest derselbe, / und deine Jahre nehmen kein Ende. / Die Kinder deiner Knechte werden ruhig wohnen, / und ihr Geschlecht wird vor dir bestehen. 
+**[102:28]** Du aber bleibest derselbe, / und deine Jahre nehmen kein Ende. / Die Kinder deiner Knechte werden ruhig wohnen, / und ihr Geschlecht wird vor dir bestehen.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Lobet den Herrn, all seine Heerscharen, / ihr seine Diener, die ihr seinen Willen erfüllt! /
 
-**[103:22]** Lobet den Herrn, all seine Werke, / an allen Orten seiner Herrschaft! / Lobe den Herrn, meine Seele! (a) Ps 145:10 
+**[103:22]** Lobet den Herrn, all seine Werke, / an allen Orten seiner Herrschaft! / Lobe den Herrn, meine Seele! (a) Ps 145:10
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** Möge mein Dichten ihm wohlgefallen; / ich freue mich des Herrn. / (a) Ps 19:15
 
-**[104:35]** Möchten die Sünder von der Erde verschwinden / und die Gottlosen nicht mehr sein! / Lobe den Herrn, meine Seele! / Hallelujah! (a) Ps 7:10 
+**[104:35]** Möchten die Sünder von der Erde verschwinden / und die Gottlosen nicht mehr sein! / Lobe den Herrn, meine Seele! / Hallelujah! (a) Ps 7:10
 
 ### Chapter 105
 
@@ -32424,7 +32424,7 @@
 
 **[105:3]** Rühmet euch seines heiligen Namens, / es freue sich innig, wer den Herrn sucht! /
 
-**[105:4]** Fraget nach dem Herrn und seiner Macht, / suchet sein Angesicht allezeit! / (a) Ps 27:8 
+**[105:4]** Fraget nach dem Herrn und seiner Macht, / suchet sein Angesicht allezeit! / (a) Ps 27:8
 
 **[105:5]** Gedenket der Wunder, die er getan, / seiner Zeichen und Urteilssprüche, /
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Hilf uns, Herr, unser Gott, / und sammle uns aus den Heiden, / damit wir deinem heiligen Namen danken und uns rühmen, / dass wir dich preisen dürfen! / (a) 5Mo 30:3; 1Ch 16:35
 
-**[106:48]** Gelobt sei der Herr, der Gott Israels, / von Ewigkeit zu Ewigkeit! / Und alles Volk spreche: Amen! / Hallelujah! (a) Ps 41:14 
+**[106:48]** Gelobt sei der Herr, der Gott Israels, / von Ewigkeit zu Ewigkeit! / Und alles Volk spreche: Amen! / Hallelujah! (a) Ps 41:14
 
 ### Chapter 107
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** "Die Gerechten sehen's und freuen sich; / alle Bosheit aber verschliesst ihr Maul." / (1) vgl. Hio 22:19 und Hio 5:16.
 
-**[107:43]** Wer ist verständig? Der behalte dieses / und merke auf die Gnadenbeweise des Herrn. 
+**[107:43]** Wer ist verständig? Der behalte dieses / und merke auf die Gnadenbeweise des Herrn.
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Hast du doch, o Gott, uns verstossen / und ziehst nicht aus mit unsern Scharen! /
 
-**[108:13]** Schaffe uns Hilfe vor dem Bedränger; / eitel ist ja Menschenhilfe. / Mit Gott werden wir Taten tun; / er wird unsre Bedränger zertreten. 
+**[108:13]** Schaffe uns Hilfe vor dem Bedränger; / eitel ist ja Menschenhilfe. / Mit Gott werden wir Taten tun; / er wird unsre Bedränger zertreten.
 
 ### Chapter 109
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** Ich will den Herrn laut preisen mit meinem Munde, / inmitten der Menge will ich ihn loben. /
 
-**[109:31]** Denn er steht dem Armen zur Rechten, / ihm zu helfen vor denen, die ihn verdammen. 
+**[109:31]** Denn er steht dem Armen zur Rechten, / ihm zu helfen vor denen, die ihn verdammen.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** Er hält unter den Heiden Gericht, / dass es voll wird von Leichen, / er zerschmettert Häupter auf weitem Lande. /
 
-**[110:7]** Er trinkt aus dem Bach am Wege; / darum erhebt er das Haupt. (1) d.h. der König. 
+**[110:7]** Er trinkt aus dem Bach am Wege; / darum erhebt er das Haupt. (1) d.h. der König.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** Er hat seinem Volke Erlösung gesandt, / hat seinen Bund auf ewig bestellt; / heilig und furchtbar ist sein Name. /
 
-**[111:10]** Die Furcht des Herrn ist der Anfang der Weisheit; / einsichtig handelt, wer darnach tut, / sein Ruhm bleibt ewig bestehen. (a) Hio 28:28; Spr 1:7; 9:10 
+**[111:10]** Die Furcht des Herrn ist der Anfang der Weisheit; / einsichtig handelt, wer darnach tut, / sein Ruhm bleibt ewig bestehen. (a) Hio 28:28; Spr 1:7; 9:10
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** Er streut aus, er gibt den Armen; / sein Heil bleibt ewig bestehen, / sein Horn ragt hoch in Ehren. / (1) vgl. Anm. zu 1Sa 2:1.
 
-**[112:10]** Der Gottlose sieht es, und es verdriesst ihn, / er knirscht mit den Zähnen und vergeht; / der Gottlosen Verlangen wird zunichte. 
+**[112:10]** Der Gottlose sieht es, und es verdriesst ihn, / er knirscht mit den Zähnen und vergeht; / der Gottlosen Verlangen wird zunichte.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** dass er ihn setze neben Fürsten, / neben die Fürsten seines Volkes; /
 
-**[113:9]** der die Unfruchtbare, die Kinderlose / zur fröhlichen Mutter von Kindern macht. / Hallelujah! (a) 1Sa 2:5 
+**[113:9]** der die Unfruchtbare, die Kinderlose / zur fröhlichen Mutter von Kindern macht. / Hallelujah! (a) 1Sa 2:5
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** Vor dem Herrn erbebe, o Erde, / vor dem Angesichte des Gottes Jakobs, / (a) Ps 104:32
 
-**[114:8]** der den Felsen wandelt zur Wasserflut / und den Kiesel zum sprudelnden Quell. (a) 2Mo 17:6; Jes 48:21 
+**[114:8]** der den Felsen wandelt zur Wasserflut / und den Kiesel zum sprudelnden Quell. (a) 2Mo 17:6; Jes 48:21
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** Die Toten preisen den Herrn nicht, / keiner von allen, die zur Stille hinabgefahren. / (a) Ps 6:6; 30:10; Jes 38:18
 
-**[115:18]** Wir aber, wir loben den Herrn / von nun an bis in Ewigkeit. / Hallelujah! 
+**[115:18]** Wir aber, wir loben den Herrn / von nun an bis in Ewigkeit. / Hallelujah!
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** Mein Gelübde will ich dem Herrn bezahlen, / bezahlen vor seinem ganzen Volke /
 
-**[116:19]** in den Vorhöfen am Hause des Herrn, / in deiner Mitte, Jerusalem! / Hallelujah! 
+**[116:19]** in den Vorhöfen am Hause des Herrn, / in deiner Mitte, Jerusalem! / Hallelujah!
 
 ### Chapter 117
 
 **[117:1]** LOBET den Herrn, alle Völker! / Preiset ihn, ihr Nationen alle! /
 
-**[117:2]** Denn mächtig waltet über uns seine Güte / und die Treue des Herrn bis in Ewigkeit. / Hallelujah! 
+**[117:2]** Denn mächtig waltet über uns seine Güte / und die Treue des Herrn bis in Ewigkeit. / Hallelujah!
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Du bist mein Gott, ich will dir danken; / mein Gott, ich will dich erheben. /
 
-**[118:29]** Danket dem Herrn, denn er ist freundlich, / und seine Güte währet ewig! 
+**[118:29]** Danket dem Herrn, denn er ist freundlich, / und seine Güte währet ewig!
 
 ### Chapter 119
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Lass meine Seele leben, dass sie dich lobe, / und deine Ordnungen mögen mir helfen! /
 
-**[119:176]** Ich bin verirrt wie ein verlorenes Schaf; / suche deinen Knecht, / denn deiner Gebote habe ich nicht vergessen. 
+**[119:176]** Ich bin verirrt wie ein verlorenes Schaf; / suche deinen Knecht, / denn deiner Gebote habe ich nicht vergessen.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** Zu lange schon wohne ich zusammen / mit denen, die den Frieden hassen! /
 
-**[120:7]** Ich halte Frieden; doch wenn ich nur rede, / so suchen sie Streit. 
+**[120:7]** Ich halte Frieden; doch wenn ich nur rede, / so suchen sie Streit.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** Der Herr behütet dich vor allem Übel, / er behütet dein Leben. /
 
-**[121:8]** Der Herr behütet deinen Ausgang und Eingang, / jetzt und immerdar. (a) 5Mo 28:6 
+**[121:8]** Der Herr behütet deinen Ausgang und Eingang, / jetzt und immerdar. (a) 5Mo 28:6
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** Um meiner Brüder und Freunde willen / will ich dir Frieden wünschen. /
 
-**[122:9]** Um des Hauses des Herrn, unsres Gottes, willen / will ich um Glück flehen für dich. 
+**[122:9]** Um des Hauses des Herrn, unsres Gottes, willen / will ich um Glück flehen für dich.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Sei uns gnädig, o Herr, sei uns gnädig! / Denn übersatt sind wir des Hohnes. /
 
-**[123:4]** Übersatt ist unsre Seele des Spottes der Sichern / und des Hohnes der Stolzen. 
+**[123:4]** Übersatt ist unsre Seele des Spottes der Sichern / und des Hohnes der Stolzen.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Unsre Seele ist wie ein Vogel, / der dem Netze der Vogelsteller entronnen; / das Netz ist zerrissen, und wir sind entronnen. / (a) Spr 6:5
 
-**[124:8]** Unsre Hilfe steht im Namen des Herrn, / der Himmel und Erde gemacht hat. (a) Ps 121:2 
+**[124:8]** Unsre Hilfe steht im Namen des Herrn, / der Himmel und Erde gemacht hat. (a) Ps 121:2
 
 ### Chapter 125
 
@@ -33474,7 +33474,7 @@
 
 **[125:4]** Tue Gutes, o Herr, den Guten / und denen, die aufrichtigen Herzens sind! /
 
-**[125:5]** Die aber auf krumme Wege abbiegen, / die lasse der Herr hinfahren mit den Übeltätern! / Heil über Israel! 
+**[125:5]** Die aber auf krumme Wege abbiegen, / die lasse der Herr hinfahren mit den Übeltätern! / Heil über Israel!
 
 ### Chapter 126
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** Die mit Tränen säen, / werden mit Jubel ernten. / (a) Joh 16:20
 
-**[126:6]** Man schreitet dahin unter Tränen / und streut den Samen, / mit Jubel kehrt man heim, / trägt hoch seine Garben. 
+**[126:6]** Man schreitet dahin unter Tränen / und streut den Samen, / mit Jubel kehrt man heim, / trägt hoch seine Garben.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** Wie Pfeile in der Hand des Helden, / so sind Söhne der Jugendkraft. /
 
-**[127:5]** Wohl dem Manne, der seinen Köcher mit ihnen gefüllt hat: / er wird nicht zuschanden, / wenn er mit den Widersachern redet im Tor. 
+**[127:5]** Wohl dem Manne, der seinen Köcher mit ihnen gefüllt hat: / er wird nicht zuschanden, / wenn er mit den Widersachern redet im Tor.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** Ja, so wird dich segnen / der Herr vom Zion her, / dass du deine Lust schauest am Glück Jerusalems / alle Tage deines Lebens, / (a) Ps 134:3
 
-**[128:6]** dass du schauest Kindeskinder. / Heil über Israel! 
+**[128:6]** dass du schauest Kindeskinder. / Heil über Israel!
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** mit dem der Schnitter die Hand nicht füllt, / noch der Garbenbinder den Arm, /
 
-**[129:8]** sodass, die vorübergehen, nicht sprechen: / "Der Segen des Herrn sei mit euch! / Wir segnen euch im Namen des Herrn." 
+**[129:8]** sodass, die vorübergehen, nicht sprechen: / "Der Segen des Herrn sei mit euch! / Wir segnen euch im Namen des Herrn."
 
 ### Chapter 130
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** harre, Israel, auf den Herrn! / Denn bei dem Herrn ist die Gnade, / bei ihm ist reichlich Erlösung. /
 
-**[130:8]** Ja, er wird Israel erlösen / von all seinen Sünden. 
+**[130:8]** Ja, er wird Israel erlösen / von all seinen Sünden.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** Fürwahr, ich habe meine Seele / gestillt und beruhigt. / Wie ein Entwöhnter bei seiner Mutter, / wie ein Entwöhnter ist stille in mir meine Seele. /
 
-**[131:3]** Harre, Israel, auf den Herrn / von nun an bis in Ewigkeit! (a) Ps 130:7 
+**[131:3]** Harre, Israel, auf den Herrn / von nun an bis in Ewigkeit! (a) Ps 130:7
 
 ### Chapter 132
 
@@ -33596,7 +33596,7 @@
 
 **[132:17]** Dort will ich David ein Horn sprossen lassen; / meinem Gesalbten habe ich eine Leuchte bereitet. / (1) vgl. Anm. zu 1Sa 2:1. (a) 1Kön 11:36
 
-**[132:18]** Seine Feinde will ich mit Schande bekleiden, / doch ihm soll auf dem Haupte die Krone glänzen." 
+**[132:18]** Seine Feinde will ich mit Schande bekleiden, / doch ihm soll auf dem Haupte die Krone glänzen."
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** Wie das köstliche Öl auf dem Haupte, / das niederfliesst auf den Bart, den Bart Aarons, / niederfliesst auf den Saum seiner Gewänder! / (a) 2Mo 29:7
 
-**[133:3]** Wie Hermontau, der herabfällt, / auf die Berge Zions! / Denn dahin hat der Herr den Segen entboten, / Leben bis in Ewigkeit. 
+**[133:3]** Wie Hermontau, der herabfällt, / auf die Berge Zions! / Denn dahin hat der Herr den Segen entboten, / Leben bis in Ewigkeit.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Hebt empor eure Hände zum Heiligtum / und lobet den Herrn! /
 
-**[134:3]** Vom Zion her segne dich der Herr, / der Himmel und Erde gemacht hat! (a) Ps 128:5 
+**[134:3]** Vom Zion her segne dich der Herr, / der Himmel und Erde gemacht hat! (a) Ps 128:5
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** Haus Levis, preiset den Herrn! / Die ihr den Herrn fürchtet, preiset den Herrn! /
 
-**[135:21]** Gepriesen sei der Herr vom Zion her, / er, der in Jerusalem thront! / Hallelujah! 
+**[135:21]** Gepriesen sei der Herr vom Zion her, / er, der in Jerusalem thront! / Hallelujah!
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** der Speise gibt allem Fleisch. / Ja, seine Güte währet ewig! / (a) Ps 145:15
 
-**[136:26]** Danket dem Herrn des Himmels! Ja, seine Güte währet ewig! 
+**[136:26]** Danket dem Herrn des Himmels! Ja, seine Güte währet ewig!
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** Tochter Babel, Verwüsterin! / Wohl dem, der dir vergilt, / was du uns getan! / (a) Jes 13:16-22; Jer 50:29
 
-**[137:9]** Wohl dem, der deine Kindlein packt / und am Felsen zerschmettert! 
+**[137:9]** Wohl dem, der deine Kindlein packt / und am Felsen zerschmettert!
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Wandle ich mitten in Drangsal, so erhältst du mich, / reckst gegen den Zorn meiner Feinde die Hand, / und deine Rechte hilft mir. /
 
-**[138:8]** Der Herr wird es für mich vollenden. / Herr, deine Güte währet ewig; / lass nicht fahren das Werk deiner Hände! 
+**[138:8]** Der Herr wird es für mich vollenden. / Herr, deine Güte währet ewig; / lass nicht fahren das Werk deiner Hände!
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Erforsche mich, Gott, und erkenne mein Herz; / prüfe mich und erkenne meine Gedanken. / (a) Ps 26:2
 
-**[139:24]** Sieh, ob ich auf dem Wege zur Pein bin, / und leite mich auf ewigem Wege! (1) nach and. alten L: "Sieh, ob Falschheit an mir ist, / und leite mich auf geradem Wege!" (a) Ps 86:11 
+**[139:24]** Sieh, ob ich auf dem Wege zur Pein bin, / und leite mich auf ewigem Wege! (1) nach and. alten L: "Sieh, ob Falschheit an mir ist, / und leite mich auf geradem Wege!" (a) Ps 86:11
 
 ### Chapter 140
 
@@ -33826,7 +33826,7 @@
 
 **[140:12]** Der Verleumder wird nicht bestehen im Lande; / den Gewalttätigen wird Unglück jagen, Stoss auf Stoss. /
 
-**[140:13]** Ich weiss, der Herr führt der Elenden Sache, / er schafft den Armen ihr Recht. / (a) Ps 9:19; 34:7 Ja, die Gerechten werden deinen Namen preisen, / die Frommen werden vor deinem Angesicht wohnen. 
+**[140:13]** Ich weiss, der Herr führt der Elenden Sache, / er schafft den Armen ihr Recht. / (a) Ps 9:19; 34:7 Ja, die Gerechten werden deinen Namen preisen, / die Frommen werden vor deinem Angesicht wohnen.
 
 ### Chapter 141
 
@@ -33848,7 +33848,7 @@
 
 **[141:9]** Behüte mich vor der Schlinge, die sie mir gelegt, / und vor den Fallstricken der Übeltäter. /
 
-**[141:10]** Lass die Gottlosen allzumal fallen ins eigne Netz, / indes ich (sicher) vorübergehe. (a) Ps 7:16; 9:16; 35:8; 57:7 
+**[141:10]** Lass die Gottlosen allzumal fallen ins eigne Netz, / indes ich (sicher) vorübergehe. (a) Ps 7:16; 9:16; 35:8; 57:7
 
 ### Chapter 142
 
@@ -33864,7 +33864,7 @@
 
 **[142:6]** Ich schreie zu dir, o Herr, / ich spreche: Du bist meine Zuversicht, / mein Teil im Lande der Lebenden. / (a) Ps 27:13
 
-**[142:7]** O merke auf mein Flehen; / denn ich bin gar schwach. / Errette mich vor meinen Verfolgern; / denn sie sind mir zu mächtig. / Führe mich hinaus aus dem Kerker, / dass ich deinen Namen preise! / Die Gerechten werden sich um mich scharen, / wenn du mir Gutes erweisest. (a) Ps 25:17; 143:11 
+**[142:7]** O merke auf mein Flehen; / denn ich bin gar schwach. / Errette mich vor meinen Verfolgern; / denn sie sind mir zu mächtig. / Führe mich hinaus aus dem Kerker, / dass ich deinen Namen preise! / Die Gerechten werden sich um mich scharen, / wenn du mir Gutes erweisest. (a) Ps 25:17; 143:11
 
 ### Chapter 143
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** Um deines Namens willen, o Herr, erhalte mich! / in deiner Treue führe meine Seele aus der Not. / (a) Ps 142:8
 
-**[143:12]** In deiner Güte vertilge meine Feinde / und lass umkommen alle, die mich bedrängen; / denn ich bin dein Knecht. 
+**[143:12]** In deiner Güte vertilge meine Feinde / und lass umkommen alle, die mich bedrängen; / denn ich bin dein Knecht.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** Unsre Rinder sind schwer beladen. / Kein Unglück, kein Ausfall / und kein Geschrei auf unsern Strassen! /
 
-**[144:15]** Wohl dem Volke, dem es also geht! / wohl dem Volke, dessen Gott der Herr ist! 
+**[144:15]** Wohl dem Volke, dem es also geht! / wohl dem Volke, dessen Gott der Herr ist!
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** Der Herr behütet alle, die ihn lieben, / alle Gottlosen aber wird er vertilgen. /
 
-**[145:21]** Mein Mund soll das Lob des Herrn verkünden, / und alles Fleisch lobe seinen heiligen Namen, immer und ewig! 
+**[145:21]** Mein Mund soll das Lob des Herrn verkünden, / und alles Fleisch lobe seinen heiligen Namen, immer und ewig!
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** Der Herr behütet den Fremdling, / Waisen und Witwen hilft er auf, / doch in die Irre führt er die Gottlosen. / (a) Ps 68:6
 
-**[146:10]** Der Herr wird herrschen in Ewigkeit, / dein Gott, o Zion, von Geschlecht zu Geschlecht! 
+**[146:10]** Der Herr wird herrschen in Ewigkeit, / dein Gott, o Zion, von Geschlecht zu Geschlecht!
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** Er verkündet Jakob sein Wort, / Israel seine Satzungen und Rechte. /
 
-**[147:20]** Dergleichen hat er keinem Volke getan: / seine Rechte kennen sie nicht. / Hallelujah! (a) 5Mo 4:8; Apg 14:16 
+**[147:20]** Dergleichen hat er keinem Volke getan: / seine Rechte kennen sie nicht. / Hallelujah! (a) 5Mo 4:8; Apg 14:16
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Sie sollen loben den Namen des Herrn; / denn sein Name allein ist erhaben, / seine Hoheit geht über Erde und Himmel. /
 
-**[148:14]** Er wird das Horn seinem Volk erhöhen - / ein Ruhm für all seine Frommen, / für die Söhne Israels, das Volk, das ihm nahesteht. / Hallelujah! (1) vgl. Anm. zu 1Sa 2:1. 
+**[148:14]** Er wird das Horn seinem Volk erhöhen - / ein Ruhm für all seine Frommen, / für die Söhne Israels, das Volk, das ihm nahesteht. / Hallelujah! (1) vgl. Anm. zu 1Sa 2:1.
 
 ### Chapter 149
 
@@ -34080,7 +34080,7 @@
 
 **[149:8]** ihre Könige mit Ketten zu binden / und ihre Edlen mit eisernen Fesseln, /
 
-**[149:9]** an ihnen zu vollziehen geschriebenes Gericht. / Ehre ist solches für all seine Frommen. / Hallelujah! 
+**[149:9]** an ihnen zu vollziehen geschriebenes Gericht. / Ehre ist solches für all seine Frommen. / Hallelujah!
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Lobet ihn mit klingenden Zimbeln, / lobet ihn mit schallenden Zimbeln! /
 
-**[150:6]** Alles, was Odem hat, lobe den Herrn! / Hallelujah! (a) Off 5:13  
+**[150:6]** Alles, was Odem hat, lobe den Herrn! / Hallelujah! (a) Off 5:13
 
 ## Proverbs
 
@@ -34164,7 +34164,7 @@
 
 **[1:32]** denn die Einfältigen bringt ihr eigner Abfall um, / und den Toren wird die eigne Sorglosigkeit zum Verderben. /
 
-**[1:33]** Wer aber auf mich hört, der wohnt sicher; / er lebt ruhig und hat kein Unheil zu fürchten." 
+**[1:33]** Wer aber auf mich hört, der wohnt sicher; / er lebt ruhig und hat kein Unheil zu fürchten."
 
 ### Chapter 2
 
@@ -34210,7 +34210,7 @@
 
 **[2:21]** denn die Rechtschaffenen werden das Land bewohnen / und die Unsträflichen darin übrigbleiben; / (a) Ps 37:29
 
-**[2:22]** die Gottlosen aber werden aus dem Lande vertilgt / und die Treulosen aus ihm herausgerissen. 
+**[2:22]** die Gottlosen aber werden aus dem Lande vertilgt / und die Treulosen aus ihm herausgerissen.
 
 ### Chapter 3
 
@@ -34282,7 +34282,7 @@
 
 **[3:34]** Des Spötters spottet er, / aber den Demütigen gibt er Gnade. / (a) 1Pe 5:5
 
-**[3:35]** Die Weisen kommen zu Ehren, / die Toren aber tragen Schande davon. 
+**[3:35]** Die Weisen kommen zu Ehren, / die Toren aber tragen Schande davon.
 
 ### Chapter 4
 
@@ -34338,7 +34338,7 @@
 
 **[4:26]** Geh immer zu auf gerader Bahn, / und alle deine Wege seien bestimmt. /
 
-**[4:27]** Weiche weder zur Rechten noch zur Linken, / halte deinen Fuss vom Bösen zurück. (a) 5Mo 5:32; Ps 119:101 
+**[4:27]** Weiche weder zur Rechten noch zur Linken, / halte deinen Fuss vom Bösen zurück. (a) 5Mo 5:32; Ps 119:101
 
 ### Chapter 5
 
@@ -34386,7 +34386,7 @@
 
 **[5:22]** Der Gottlose verfängt sich in seiner eignen Schuld, / wird festgehalten von den Stricken seiner Sünde. /
 
-**[5:23]** Aus Mangel an Zucht geht er zugrunde, / ob seiner grossen Torheit taumelt er hin. 
+**[5:23]** Aus Mangel an Zucht geht er zugrunde, / ob seiner grossen Torheit taumelt er hin.
 
 ### Chapter 6
 
@@ -34458,7 +34458,7 @@
 
 **[6:34]** Denn stammt aus Eifersucht der Grimm des Mannes, / so kennt er keine Schonung am Tag der Rache. /
 
-**[6:35]** Er sieht kein Lösegeld an; / wie viel du auch schenken willst, er nimmt es nicht. 
+**[6:35]** Er sieht kein Lösegeld an; / wie viel du auch schenken willst, er nimmt es nicht.
 
 ### Chapter 7
 
@@ -34514,7 +34514,7 @@
 
 **[7:26]** Denn viel sind der Erschlagenen, die sie gefällt, / und die sie gemordet, sind zahlreich. /
 
-**[7:27]** Ihr Haus ist ein Weg zur Unterwelt, / der hinabführt zu den Kammern des Todes. (a) Spr 2:18; 5:5; 9:18; 21:16 
+**[7:27]** Ihr Haus ist ein Weg zur Unterwelt, / der hinabführt zu den Kammern des Todes. (a) Spr 2:18; 5:5; 9:18; 21:16
 
 ### Chapter 8
 
@@ -34588,7 +34588,7 @@
 
 **[8:35]** Denn wer mich findet, der findet das Leben / und er erlangt Wohlgefallen beim Herrn. /
 
-**[8:36]** Wer mich aber verfehlt, der schädigt sich selber; / alle, die mich hassen, lieben den Tod." 
+**[8:36]** Wer mich aber verfehlt, der schädigt sich selber; / alle, die mich hassen, lieben den Tod."
 
 ### Chapter 9
 
@@ -34626,7 +34626,7 @@
 
 **[9:17]** "Gestohlenes Wasser ist süss, / und heimliches Brot schmeckt gut." (a) Spr 20:17
 
-**[9:18]** Und er weiss nicht, dass die Schatten dort hausen, / dass ihre Gäste in den Tiefen der Unterwelt lagern. (a) Spr 2:18; 21:16 
+**[9:18]** Und er weiss nicht, dass die Schatten dort hausen, / dass ihre Gäste in den Tiefen der Unterwelt lagern. (a) Spr 2:18; 21:16
 
 ### Chapter 10
 
@@ -34692,7 +34692,7 @@
 
 **[10:31]** Weisheit entspriesst dem Munde des Frommen, / aber die trugvolle Zunge wird abgehauen. /
 
-**[10:32]** Die Lippen des Frommen wissen, was wohlgefällig, / der Mund der Gottlosen nur, was verkehrt ist. / 
+**[10:32]** Die Lippen des Frommen wissen, was wohlgefällig, / der Mund der Gottlosen nur, was verkehrt ist. /
 
 ### Chapter 11
 
@@ -34756,7 +34756,7 @@
 
 **[11:30]** Des Rechttuns Frucht ist ein Baum des Lebens, / Unrechttun aber nimmt das Leben. /
 
-**[11:31]** Wenn dem Frommen auf Erden vergolten wird, / wieviel mehr dem Frevler und Sünder! / 
+**[11:31]** Wenn dem Frommen auf Erden vergolten wird, / wieviel mehr dem Frevler und Sünder! /
 
 ### Chapter 12
 
@@ -34814,7 +34814,7 @@
 
 **[12:27]** Der Lässige holt sein Wild nicht ein, / aber kostbares Gut wird dem fleissigen Mann. /
 
-**[12:28]** Auf dem Pfad der Gerechtigkeit ist Leben, / schandbarer Weg aber führt zum Tode. / 
+**[12:28]** Auf dem Pfad der Gerechtigkeit ist Leben, / schandbarer Weg aber führt zum Tode. /
 
 ### Chapter 13
 
@@ -34866,7 +34866,7 @@
 
 **[13:24]** Wer die Rute spart, der hasst seinen Sohn; / wer ihn liebhat, der züchtigt ihn beizeiten. / (a) Spr 23:13; 29:15
 
-**[13:25]** Der Fromme kann sich satt essen nach Lust, / der Bauch der Gottlosen muss darben. / 
+**[13:25]** Der Fromme kann sich satt essen nach Lust, / der Bauch der Gottlosen muss darben. /
 
 ### Chapter 14
 
@@ -34938,7 +34938,7 @@
 
 **[14:34]** Die Gerechtigkeit erhöht ein Volk, / aber die Sünde ist der Völker Schmach. /
 
-**[14:35]** Ein kluger Diener hat des Königs Gunst; / sein Zorn aber trifft den, der schändlich handelt. / 
+**[14:35]** Ein kluger Diener hat des Königs Gunst; / sein Zorn aber trifft den, der schändlich handelt. /
 
 ### Chapter 15
 
@@ -35006,7 +35006,7 @@
 
 **[15:32]** Wer Zucht in den Wind schlägt, verachtet sein Leben, / wer auf Rüge hört, der erwirbt Verstand. /
 
-**[15:33]** Die Furcht des Herrn ist die Schule der Weisheit, / und der Ehre geht Demut voran. / (a) Spr 1:7; 9:10; 18:12 
+**[15:33]** Die Furcht des Herrn ist die Schule der Weisheit, / und der Ehre geht Demut voran. / (a) Spr 1:7; 9:10; 18:12
 
 ### Chapter 16
 
@@ -35074,7 +35074,7 @@
 
 **[16:32]** Besser langmütig sein als ein Kriegsheld, / besser sich selbst beherrschen als Städte bezwingen. /
 
-**[16:33]** Das Los wird im Gewandbausch geschüttelt, / aber all sein Entscheid kommt vom Herrn. / 
+**[16:33]** Das Los wird im Gewandbausch geschüttelt, / aber all sein Entscheid kommt vom Herrn. /
 
 ### Chapter 17
 
@@ -35132,7 +35132,7 @@
 
 **[17:27]** Wer Einsicht hat, hält mit seinen Worten zurück, / und der Kaltblütige ist ein verständiger Mann. / (a) Spr 10:19
 
-**[17:28]** Auch der Tor kann für weise gelten, solange er schweigt, / für verständig, wenn er seine Lippen verschliesst. / 
+**[17:28]** Auch der Tor kann für weise gelten, solange er schweigt, / für verständig, wenn er seine Lippen verschliesst. /
 
 ### Chapter 18
 
@@ -35182,7 +35182,7 @@
 
 **[18:23]** Flehentlich redet der Arme, / der Reiche antwortet hart. /
 
-**[18:24]** Es gibt Gefährten, die gereichen zum Verderben; / mancher Freund aber ist anhänglicher als ein Bruder. / (a) Spr 17:17; 27:10 
+**[18:24]** Es gibt Gefährten, die gereichen zum Verderben; / mancher Freund aber ist anhänglicher als ein Bruder. / (a) Spr 17:17; 27:10
 
 ### Chapter 19
 
@@ -35242,7 +35242,7 @@
 
 **[19:28]** Ein nichtswürdiger Zeuge spottet des Rechts, / und der Mund der Gottlosen lässt Unrecht sprudeln. /
 
-**[19:29]** Für die Spötter sind Ruten bereit / und Streiche für den Rücken der Toren. / 
+**[19:29]** Für die Spötter sind Ruten bereit / und Streiche für den Rücken der Toren. /
 
 ### Chapter 20
 
@@ -35304,7 +35304,7 @@
 
 **[20:29]** Der Jünglinge Zier ist ihre Kraft, / und der Schmuck der Greise das graue Haar. / (a) Spr 16:31
 
-**[20:30]** Blutige Striemen treffen den Bösewicht / und Schläge das Innerste des Leibes. / 
+**[20:30]** Blutige Striemen treffen den Bösewicht / und Schläge das Innerste des Leibes. /
 
 ### Chapter 21
 
@@ -35368,7 +35368,7 @@
 
 **[21:30]** Keine Weisheit, keine Einsicht, kein Ratschlag kann bestehen / gegenüber dem Herrn. /
 
-**[21:31]** Das Ross ist gerüstet für den Tag der Schlacht; / aber der Sieg kommt vom Herrn. / 
+**[21:31]** Das Ross ist gerüstet für den Tag der Schlacht; / aber der Sieg kommt vom Herrn. /
 
 ### Chapter 22
 
@@ -35428,7 +35428,7 @@
 
 **[22:28]** Verrücke nicht die uralte Grenze, / die deine Väter gesetzt haben. / (a) Spr 23:10; 5Mo 19:14
 
-**[22:29]** Siehst du einen Mann geschickt in seinem Berufe - / in Königsdienst darf er treten, / Niedrigen wird er nicht dienen. / 
+**[22:29]** Siehst du einen Mann geschickt in seinem Berufe - / in Königsdienst darf er treten, / Niedrigen wird er nicht dienen. /
 
 ### Chapter 23
 
@@ -35500,7 +35500,7 @@
 
 **[23:34]** Du wirst sein wie einer, der dahinfährt auf hoher See, / wie ein Schiffer im heftigen Sturm. /
 
-**[23:35]** "Sie haben mich geschlagen - es tat mir nicht weh, / haben mich geprügelt - ich hab's nicht gespürt. / Wann werde ich aufwachen? - / dann will ich ihm wieder nachgehen." (1) d.h. dem Wein. 
+**[23:35]** "Sie haben mich geschlagen - es tat mir nicht weh, / haben mich geprügelt - ich hab's nicht gespürt. / Wann werde ich aufwachen? - / dann will ich ihm wieder nachgehen." (1) d.h. dem Wein.
 
 ### Chapter 24
 
@@ -35570,7 +35570,7 @@
 
 **[24:33]** "Noch ein bisschen schlafen, ein bisschen schlummern, / ein bisschen die Hände ineinander legen im Bett" -
 
-**[24:34]** da kommt über dich wie ein Räuber die Armut, / der Mangel wie ein gewappneter Mann. (1) V. 33-34: Spr 6:10 11 
+**[24:34]** da kommt über dich wie ein Räuber die Armut, / der Mangel wie ein gewappneter Mann. (1) V. 33-34: Spr 6:10 11
 
 ### Chapter 25
 
@@ -35628,7 +35628,7 @@
 
 **[25:27]** Zuviel Honig essen ist nicht gut; / drum sei sparsam mit ehrenden Worten. /
 
-**[25:28]** Wie eine Stadt mit durchbrochenem Wall / ist der Mann, der sich selbst nicht beherrscht. / 
+**[25:28]** Wie eine Stadt mit durchbrochenem Wall / ist der Mann, der sich selbst nicht beherrscht. /
 
 ### Chapter 26
 
@@ -35686,7 +35686,7 @@
 
 **[26:27]** Wer eine Grube gräbt, fällt darein, / und wer einen Stein wälzt, auf den rollt er zurück. / (a) Spr 28:10; Ps 7:16; Pre 10:8
 
-**[26:28]** Eine lügnerische Zunge hasst, die von ihr zermalmt sind, / und ein schmeichlerischer Mund bereitet Verderben. / 
+**[26:28]** Eine lügnerische Zunge hasst, die von ihr zermalmt sind, / und ein schmeichlerischer Mund bereitet Verderben. /
 
 ### Chapter 27
 
@@ -35742,7 +35742,7 @@
 
 **[27:26]** dann hast du Lämmer zu deiner Bekleidung / und Böcke als Kaufpreis für einen Acker, /
 
-**[27:27]** hast Ziegenmilch genug zur Nahrung für dich und dein Haus / und zum Unterhalt für deine Mägde. / 
+**[27:27]** hast Ziegenmilch genug zur Nahrung für dich und dein Haus / und zum Unterhalt für deine Mägde. /
 
 ### Chapter 28
 
@@ -35800,7 +35800,7 @@
 
 **[28:27]** Wer dem Armen gibt, muss nicht Mangel leiden; / wer aber seine Augen verhüllt, wird viel verflucht. / (a) Spr 19:17; 22:9; 5Mo 15:7
 
-**[28:28]** Wenn die Gottlosen hochkommen, verbergen sich die Leute; / gehen sie aber zugrunde, so gelangen die Frommen zur Macht. / (1) V. 12 
+**[28:28]** Wenn die Gottlosen hochkommen, verbergen sich die Leute; / gehen sie aber zugrunde, so gelangen die Frommen zur Macht. / (1) V. 12
 
 ### Chapter 29
 
@@ -35856,7 +35856,7 @@
 
 **[29:26]** Viele suchen Hilfe beim Herrscher; / aber der Herr schafft einem jeden sein Recht. /
 
-**[29:27]** Ein Greuel ist den Frommen, wer Unrecht tut, / dem Gottlosen ein Greuel, wer redlich wandelt. 
+**[29:27]** Ein Greuel ist den Frommen, wer Unrecht tut, / dem Gottlosen ein Greuel, wer redlich wandelt.
 
 ### Chapter 30
 
@@ -35924,7 +35924,7 @@
 
 **[30:32]** Magst du töricht auffahren / oder mit Überlegung - die Hand auf den Mund! /
 
-**[30:33]** Denn Druck auf die Milch erzeugt Butter, / und Druck auf die Nase erzeugt Blut, / und Druck auf den Zorn erzeugt Streit. 
+**[30:33]** Denn Druck auf die Milch erzeugt Butter, / und Druck auf die Nase erzeugt Blut, / und Druck auf den Zorn erzeugt Streit.
 
 ### Chapter 31
 
@@ -35988,7 +35988,7 @@
 
 **[31:30]** Wandelbar ist die Anmut, ein flüchtiger Hauch die Schönheit; / aber ein gottesfürchtiges Weib ist des Ruhmes wert. /
 
-**[31:31]** Zollt ihr, was sie verdient hat! / Ihre Werke verkünden ihr Lob in den Toren.  
+**[31:31]** Zollt ihr, was sie verdient hat! / Ihre Werke verkünden ihr Lob in den Toren.
 
 ## Ecclesiastes
 
@@ -36028,7 +36028,7 @@
 
 **[1:17]** Ich war darauf bedacht, zu erkennen, was Weisheit, / zu erkennen, was Tollheit und Torheit sei. / Doch ich erkannte: Auch dies ist nur ein Haschen nach Wind. / (a) Pre 7:26
 
-**[1:18]** Denn wo viel Weisheit, da ist viel Verdruss, / und je mehr Wissen, desto mehr Schmerz. / 
+**[1:18]** Denn wo viel Weisheit, da ist viel Verdruss, / und je mehr Wissen, desto mehr Schmerz. /
 
 ### Chapter 2
 
@@ -36082,7 +36082,7 @@
 
 **[2:25]** Denn wer kann essen und wer geniessen ohne ihn? /
 
-**[2:26]** Denn dem, der ihm wohlgefällt, / gibt Gott Weisheit und Einsicht und Freude; / den Sünder aber lässt er sammeln und anhäufen, / um es hernach dem zu geben, der ihm gefällt. / Auch das ist nichtig und ein Haschen nach Wind. (a) Hio 27:16 17; Spr 13:22; 28:8 
+**[2:26]** Denn dem, der ihm wohlgefällt, / gibt Gott Weisheit und Einsicht und Freude; / den Sünder aber lässt er sammeln und anhäufen, / um es hernach dem zu geben, der ihm gefällt. / Auch das ist nichtig und ein Haschen nach Wind. (a) Hio 27:16 17; Spr 13:22; 28:8
 
 ### Chapter 3
 
@@ -36128,7 +36128,7 @@
 
 **[3:21]** Wer weiss, ob der Odem der Menschenkinder emporsteigt, / der Odem des Tieres aber hinabfährt zur Erde? /
 
-**[3:22]** Und so sah ich: es gibt nichts Besseres, / als dass der Mensch fröhlich sei bei seinem Tun; / das ist sein Teil. / Denn wer will ihn dahin bringen, sich zu freuen / an dem, was nach ihm sein wird? 
+**[3:22]** Und so sah ich: es gibt nichts Besseres, / als dass der Mensch fröhlich sei bei seinem Tun; / das ist sein Teil. / Denn wer will ihn dahin bringen, sich zu freuen / an dem, was nach ihm sein wird?
 
 ### Chapter 4
 
@@ -36162,7 +36162,7 @@
 
 **[4:15]** Ich sah alle Lebenden, die unter der Sonne wandeln, / auf der Seite des jungen Mannes, der an seine Stelle trat. /
 
-**[4:16]** Da war kein Ende all des Volkes, / all derer, an deren Spitze er stand; / doch die Späteren werden sich nicht an ihm freuen. / Denn auch das ist nichtig und ein Haschen nach Wind. SEI behutsam, wenn du zum Hause Gottes gehst: / Hintreten, um zu hören, ist besser, / als wenn die Toren Opfer bringen; / denn sie wissen nichts als Böses zu tun. / (a) 1Sa 15:22; Spr 15:8 
+**[4:16]** Da war kein Ende all des Volkes, / all derer, an deren Spitze er stand; / doch die Späteren werden sich nicht an ihm freuen. / Denn auch das ist nichtig und ein Haschen nach Wind. SEI behutsam, wenn du zum Hause Gottes gehst: / Hintreten, um zu hören, ist besser, / als wenn die Toren Opfer bringen; / denn sie wissen nichts als Böses zu tun. / (a) 1Sa 15:22; Spr 15:8
 
 ### Chapter 5
 
@@ -36202,7 +36202,7 @@
 
 **[5:18]** Auch wenn Gott einem Reichtum und Schätze gibt / und ihm gestattet, davon zu geniessen, / sein Teil hinzunehmen und sich zu freuen / bei seiner Mühsal - das ist eine Gabe Gottes. /
 
-**[5:19]** Denn ein solcher denkt nicht viel / an die Kürze seines Lebens, / weil Gott ihm die Freude des Herzens gewährt. 
+**[5:19]** Denn ein solcher denkt nicht viel / an die Kürze seines Lebens, / weil Gott ihm die Freude des Herzens gewährt.
 
 **[5:20]** 
 
@@ -36228,7 +36228,7 @@
 
 **[6:10]** Was immer geschieht, das ist längst bestimmt, / feststeht, was aus einem Menschen wird, / und er kann nicht rechten / mit dem, der mächtiger ist als er. / (a) Hio 9:2 3
 
-**[6:11]** Denn je mehr Worte, desto mehr Nichtiges. / Was hat denn der Mensch davon? / 
+**[6:11]** Denn je mehr Worte, desto mehr Nichtiges. / Was hat denn der Mensch davon? /
 
 **[6:12]** 
 
@@ -36290,7 +36290,7 @@
 
 **[7:28]** Sieh, dies habe ich gefunden, spricht der Prediger, / (prüfend) eins um das andre, / um zu einem Ergebnis zu kommen. /
 
-**[7:29]** Was meine Seele immerfort suchte / und was ich nicht fand, ist dies: / unter tausend habe ich wohl einen Mann gefunden, / aber ein Weib unter diesen allen fand ich nicht. / Nur habe ich, siehe, das gefunden, / dass Gott die Menschen recht geschaffen hat; / sie aber suchen viele Künste. 
+**[7:29]** Was meine Seele immerfort suchte / und was ich nicht fand, ist dies: / unter tausend habe ich wohl einen Mann gefunden, / aber ein Weib unter diesen allen fand ich nicht. / Nur habe ich, siehe, das gefunden, / dass Gott die Menschen recht geschaffen hat; / sie aber suchen viele Künste.
 
 ### Chapter 8
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** (a) Als ich meinen Sinn darauf richtete, Weisheit zu lernen / und die Dinge zu beobachten, die auf Erden geschehen, / (b) ob auch bei Tag und bei Nacht / in seine Augen kein Schlaf kommt. / (1) V. 16-17: Versreihenfolge in Originalüs: 16a: 17a: 16b: 17b
 
-**[8:17]** (a) da erkannte ich, dass es dem Menschen unmöglich ist, / das ganze Tun Gottes zu ergründen, / alles, was unter der Sonne geschieht, / (b) Denn wie immer der Mensch sich abmüht, zu suchen, er ergründet es nicht; / und selbst wenn der Weise es zu verstehen meint, / er kann es doch nicht ergründen. 
+**[8:17]** (a) da erkannte ich, dass es dem Menschen unmöglich ist, / das ganze Tun Gottes zu ergründen, / alles, was unter der Sonne geschieht, / (b) Denn wie immer der Mensch sich abmüht, zu suchen, er ergründet es nicht; / und selbst wenn der Weise es zu verstehen meint, / er kann es doch nicht ergründen.
 
 ### Chapter 9
 
@@ -36364,7 +36364,7 @@
 
 **[9:17]** Worte von Weisen, die sich in Ruhe vernehmen lassen, / sind besser als das Geschrei eines Herrschers unter den Toren. /
 
-**[9:18]** Weisheit ist besser als Kriegswaffen; / ein einziger, der fehlgeht, verderbt viel Gutes. / 
+**[9:18]** Weisheit ist besser als Kriegswaffen; / ein einziger, der fehlgeht, verderbt viel Gutes. /
 
 ### Chapter 10
 
@@ -36406,7 +36406,7 @@
 
 **[10:19]** Um sich zu ergötzen, bereitet man eine Mahlzeit, / und Wein erfreut das Leben; / für Geld ist alles zu haben. / (a) Ri 9:13; Ps 104:15
 
-**[10:20]** Auch auf deinem Lager fluche nicht dem König, / auch in deiner Schlafkammer fluche nicht dem Reichen! / denn die Vögel des Himmels könnten den Laut forttragen, / und was Flügel hat, könnte die Rede verraten. (a) 2 Mo 22:28 
+**[10:20]** Auch auf deinem Lager fluche nicht dem König, / auch in deiner Schlafkammer fluche nicht dem Reichen! / denn die Vögel des Himmels könnten den Laut forttragen, / und was Flügel hat, könnte die Rede verraten. (a) 2 Mo 22:28
 
 ### Chapter 11
 
@@ -36428,7 +36428,7 @@
 
 **[11:9]** FREUE dich, Jüngling, in deiner Jugend, / sei guter Dinge in der Blüte des Lebens! / Wandle, wie es dein Herz gelüstet, / und geniesse, was deine Augen erschauen! / Doch wisse, dass um all diese Dinge / Gott dich vor Gericht ziehen wird! / (a) Pre 12:14; 2Kor 5:10
 
-**[11:10]** Banne den Unmut von deinem Herzen / und halte das Übel deinem Leibe fern! / Denn Jugend und schwarze Haare sind nichtig, / nichtig ist alles, was nachkommt. / 
+**[11:10]** Banne den Unmut von deinem Herzen / und halte das Übel deinem Leibe fern! / Denn Jugend und schwarze Haare sind nichtig, / nichtig ist alles, was nachkommt. /
 
 ### Chapter 12
 
@@ -36458,7 +36458,7 @@
 
 **[12:13]** Die Summe des Ganzen höre: Fürchte Gott und halte seine Gebote! denn das ist jedes Menschen Sache. (a) 5Mo 6:2; 10:12
 
-**[12:14]** Denn Gott wird jegliches Tun vor sein Gericht bringen, das über alles Verborgene ergeht, es sei gut oder böse. (a) Pre 11:9; Rö 2:16; 2Kor 5:10  
+**[12:14]** Denn Gott wird jegliches Tun vor sein Gericht bringen, das über alles Verborgene ergeht, es sei gut oder böse. (a) Pre 11:9; Rö 2:16; 2Kor 5:10
 
 ## Song of Solomon
 
@@ -36496,7 +36496,7 @@
 
 **[1:16]** "Wie schön bist du, mein Geliebter, wie hold! / Unser Lager ist grün; /
 
-**[1:17]** Zedern sind die Balken unsres Hauses / und unser Getäfel Zypressen." 
+**[1:17]** Zedern sind die Balken unsres Hauses / und unser Getäfel Zypressen."
 
 ### Chapter 2
 
@@ -36532,7 +36532,7 @@
 
 **[2:16]** Mein Geliebter ist mein, und ich bin sein, / der auf Lilienauen weidet. / (a) Hoh 6:3
 
-**[2:17]** Bis der Morgenwind weht / und die Schatten fliehen, / komm her, mein Geliebter, / tu's der Gazelle gleich / oder dem jungen Hirsch / auf den duftenden Bergen. (a) Hoh 8:14 
+**[2:17]** Bis der Morgenwind weht / und die Schatten fliehen, / komm her, mein Geliebter, / tu's der Gazelle gleich / oder dem jungen Hirsch / auf den duftenden Bergen. (a) Hoh 8:14
 
 ### Chapter 3
 
@@ -36556,7 +36556,7 @@
 
 **[3:10]** die Füsse von Silber, / die Lehne von Gold, / der Sitz ein Purpurkissen, / das Innere mit Ebenholz ausgelegt. / Ihr Töchter Jerusalems, /
 
-**[3:11]** kommt heraus und beschaut den König in der Krone, / mit der seine Mutter ihn krönte / am Tag seiner Hochzeit, / am Tag seiner Herzensfreude. 
+**[3:11]** kommt heraus und beschaut den König in der Krone, / mit der seine Mutter ihn krönte / am Tag seiner Hochzeit, / am Tag seiner Herzensfreude.
 
 ### Chapter 4
 
@@ -36590,7 +36590,7 @@
 
 **[4:15]** Mein Gartenquell ist ein Brunnen lebendigen Wassers, / das vom Libanon strömt." /
 
-**[4:16]** "Erwache, Nordwind, und komme, Süd, / durchwehe meinen Garten, / dass seine Balsamdüfte strömen! / Mein Geliebter komme in seinen Garten / und esse von seinen köstlichen Früchten!" / 
+**[4:16]** "Erwache, Nordwind, und komme, Süd, / durchwehe meinen Garten, / dass seine Balsamdüfte strömen! / Mein Geliebter komme in seinen Garten / und esse von seinen köstlichen Früchten!" /
 
 ### Chapter 5
 
@@ -36624,7 +36624,7 @@
 
 **[5:15]** seine Schenkel sind Marmorsäulen, / stehend auf goldenen Sockeln, / seine Gestalt dem Libanon gleich, / auserlesen wie Zedern; /
 
-**[5:16]** sein Gaumen ist lauter Süsse, / und alles an ihm ist Wonne. / So ist mein Geliebter, so ist mein Freund, / ihr Töchter Jerusalems." / 
+**[5:16]** sein Gaumen ist lauter Süsse, / und alles an ihm ist Wonne. / So ist mein Geliebter, so ist mein Freund, / ihr Töchter Jerusalems." /
 
 ### Chapter 6
 
@@ -36650,7 +36650,7 @@
 
 **[6:11]** Ich stieg hinab in den Nussgarten, / mich zu ergötzen an den Blüten im Tal, / zu sehen, ob der Weinstock gesprosst, / ob die Granaten in Blüte stehen.
 
-**[6:12]** (1) der überlieferte V. 12 ist völlig unverständlich. 
+**[6:12]** (1) der überlieferte V. 12 ist völlig unverständlich.
 
 **[6:13]** 
 
@@ -36680,7 +36680,7 @@
 
 **[7:12]** Komm, mein Geliebter, hinaus auf die Flur, / lass unter Cyperblüten uns nächtigen, /
 
-**[7:13]** am Morgen früh nach den Weingärten sehen, / ob der Weinstock gesprosst, / ob die Blüten sich aufgeschlossen, / ob die Granaten im Bluste stehen. / Dort will ich dir meine Liebe schenken. / (a) Hoh 6:11 Es duften die Liebesäpfel, / vor unsern Türen sind köstliche Früchte, / frische zusammen mit jährigen; / die habe ich, mein Geliebter, dir aufgespart. 
+**[7:13]** am Morgen früh nach den Weingärten sehen, / ob der Weinstock gesprosst, / ob die Blüten sich aufgeschlossen, / ob die Granaten im Bluste stehen. / Dort will ich dir meine Liebe schenken. / (a) Hoh 6:11 Es duften die Liebesäpfel, / vor unsern Türen sind köstliche Früchte, / frische zusammen mit jährigen; / die habe ich, mein Geliebter, dir aufgespart.
 
 ### Chapter 8
 
@@ -36710,7 +36710,7 @@
 
 **[8:13]** "Die du in den Gärten wohnst - / die Gefährten lauschen - / lass mich deine Stimme hören." /
 
-**[8:14]** "Fliehe, mein Geliebter! / Tue es der Gazelle gleich / oder dem jungen Hirsch / auf den Balsambergen!" (a) Hoh 2:9 17  
+**[8:14]** "Fliehe, mein Geliebter! / Tue es der Gazelle gleich / oder dem jungen Hirsch / auf den Balsambergen!" (a) Hoh 2:9 17
 
 ## Isaiah
 
@@ -36776,7 +36776,7 @@
 
 **[1:30]** Denn ihr werdet sein wie eine Terebinthe, deren Blätter welken, und wie ein Garten, der kein Wasser hat.
 
-**[1:31]** Und der Starke wird zum Werg und sein Werk zum Funken werden, und brennen werden beide zumal, ohne dass jemand löscht. 
+**[1:31]** Und der Starke wird zum Werg und sein Werk zum Funken werden, und brennen werden beide zumal, ohne dass jemand löscht.
 
 ### Chapter 2
 
@@ -36822,7 +36822,7 @@
 
 **[2:21]** hinein in die Felsspalten und in die Steinklüfte, vor dem Schrecken des Herrn und vor seiner hehren Majestät, wenn er sich erhebt, die Erde zu schrecken.
 
-**[2:22]** Lasset doch fahren den Menschen, in dessen Nase nur ein Hauch ist! Denn wofür ist er zu achten? 
+**[2:22]** Lasset doch fahren den Menschen, in dessen Nase nur ein Hauch ist! Denn wofür ist er zu achten?
 
 ### Chapter 3
 
@@ -36876,7 +36876,7 @@
 
 **[3:25]** Deine Männer sollen fallen durch das Schwert, und deine Helden im Kampfe.
 
-**[3:26]** Da werden ihre Tore klagen und trauern, und verheert wird sie am Boden sitzen. 
+**[3:26]** Da werden ihre Tore klagen und trauern, und verheert wird sie am Boden sitzen.
 
 ### Chapter 4
 
@@ -36890,7 +36890,7 @@
 
 **[4:5]** Und der Herr wird kommen, und es wird über der ganzen Stätte des Berges Zion und über seinen Versammlungen eine Wolke weilen bei Tage und Rauch und flammender Feuerglanz bei Nacht; denn über allem ist die Herrlichkeit des Herrn ein Schutz (a) 2Mo 13:22
 
-**[4:6]** und Schirm, und sie wird zum Schatten dienen vor der Hitze und zur Zuflucht und zum Obdach vor Unwetter und Regen. 
+**[4:6]** und Schirm, und sie wird zum Schatten dienen vor der Hitze und zur Zuflucht und zum Obdach vor Unwetter und Regen.
 
 ### Chapter 5
 
@@ -36952,7 +36952,7 @@
 
 **[5:29]** Sein Brüllen ist wie das der Löwin, es brüllt wie junge Löwen und knurrt, packt den Raub und schleppt ihn fort, und niemand rettet.
 
-**[5:30]** Es tost über ihm an jenem Tage wie Tosen des Meeres. Da blickt er auf die Erde, und siehe da, bange Finsternis, und das Licht wird verfinstert durch ihr Gewölk. (a) Jes 8:22 
+**[5:30]** Es tost über ihm an jenem Tage wie Tosen des Meeres. Da blickt er auf die Erde, und siehe da, bange Finsternis, und das Licht wird verfinstert durch ihr Gewölk. (a) Jes 8:22
 
 ### Chapter 6
 
@@ -36980,7 +36980,7 @@
 
 **[6:12]** und der Herr die Menschen weit hinwegführt und die Verödung gross wird inmitten des Landes.
 
-**[6:13]** Und ist noch ein Zehntel darin, so wird es wiederum vertilgt wie bei der Terebinthe und der Eiche, von denen beim Fällen noch ein Stumpf bleibt. Ein heiliger Same ist sein Stumpf. (a) Jes 4:3; Am 5:3 
+**[6:13]** Und ist noch ein Zehntel darin, so wird es wiederum vertilgt wie bei der Terebinthe und der Eiche, von denen beim Fällen noch ein Stumpf bleibt. Ein heiliger Same ist sein Stumpf. (a) Jes 4:3; Am 5:3
 
 ### Chapter 7
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** Mit Pfeil und Bogen wird man dorthin kommen; denn Dornen und Disteln wird das ganze Land sein.
 
-**[7:25]** Und auf alle Berge, die man jetzt mit der Hacke hackt, wirst du aus Furcht vor Dornen und Disteln nicht hingehen, sondern man wird die Rinder dahin treiben, und die Schafe werden sie zertreten. 
+**[7:25]** Und auf alle Berge, die man jetzt mit der Hacke hackt, wirst du aus Furcht vor Dornen und Disteln nicht hingehen, sondern man wird die Rinder dahin treiben, und die Schafe werden sie zertreten.
 
 ### Chapter 8
 
@@ -37078,7 +37078,7 @@
 
 **[8:21]** Sie ziehen umher, gedrückt und hungernd; und wenn sie Hunger leiden, so ergrimmen sie und verfluchen ihren König und ihren Gott. Und wendet man sich nach oben
 
-**[8:22]** und blickt auf die Erde: siehe, da ist Angst und Finsternis, Dunkel der Drangsal, und in die Nacht (ist man) hinabgestossen. 
+**[8:22]** und blickt auf die Erde: siehe, da ist Angst und Finsternis, Dunkel der Drangsal, und in die Nacht (ist man) hinabgestossen.
 
 ### Chapter 9
 
@@ -37122,7 +37122,7 @@
 
 **[9:20]** Man verschlang zur Rechten und blieb hungrig, man frass zur Linken und ward nicht satt; ein jeder frass das Fleisch seines Nächsten.
 
-**[9:21]** Manasse wider Ephraim und Ephraim wider Manasse, und diese zusammen wider Juda. Bei alledem hat sich sein Zorn nicht gewandt, und noch ist seine Hand ausgereckt. 
+**[9:21]** Manasse wider Ephraim und Ephraim wider Manasse, und diese zusammen wider Juda. Bei alledem hat sich sein Zorn nicht gewandt, und noch ist seine Hand ausgereckt.
 
 ### Chapter 10
 
@@ -37192,7 +37192,7 @@
 
 **[10:33]** Siehe, der Herr, der Gott der Heerscharen, zerschlägt die Äste der Krone mit Schreckensgewalt, und die Hochgewachsenen sind gefällt, und die Hohen sinken nieder. (a) Jes 2:11-17
 
-**[10:34]** Zusammengehauen wird das Dickicht des Waldes mit dem Eisen, und der Libanon fällt durch einen Herrlichen. 
+**[10:34]** Zusammengehauen wird das Dickicht des Waldes mit dem Eisen, und der Libanon fällt durch einen Herrlichen.
 
 ### Chapter 11
 
@@ -37226,7 +37226,7 @@
 
 **[11:15]** Der Herr wird die Zunge des ägyptischen Meeres austrocknen durch seinen Gluthauch und seine Hand schwingen über den (Euphrat-)Strom und ihn zerschlagen zu sieben Bächen, dass man mit Schuhen hindurchgehen kann.
 
-**[11:16]** So wird eine Strasse sein für den Rest seines Volkes, den die Assyrer übriggelassen, wie eine für Israel gewesen ist, als es aus dem Lande Ägypten heraufzog. (a) 2Mo 14:29 
+**[11:16]** So wird eine Strasse sein für den Rest seines Volkes, den die Assyrer übriggelassen, wie eine für Israel gewesen ist, als es aus dem Lande Ägypten heraufzog. (a) 2Mo 14:29
 
 ### Chapter 12
 
@@ -37240,7 +37240,7 @@
 
 **[12:5]** Lobsinget dem Herrn; denn Grosses hat er getan, kund sei das in aller Welt!
 
-**[12:6]** Jauchze und juble, Bewohnerin Zions! Denn gross ist in deiner Mitte der Heilige Israels." 
+**[12:6]** Jauchze und juble, Bewohnerin Zions! Denn gross ist in deiner Mitte der Heilige Israels."
 
 ### Chapter 13
 
@@ -37286,7 +37286,7 @@
 
 **[13:21]** sondern Wüstentiere werden daselbst lagern, und ihre Häuser werden voller Eulen sein. Strausse werden daselbst wohnen und Feldteufel daselbst tanzen,
 
-**[13:22]** Wildhunde heulen in ihren Palästen und Schakale in den Schlössern der Lust. Nahe rückt ihre Zeit, und ihre Tage verziehen nicht. (a) Jes 34:13 14 
+**[13:22]** Wildhunde heulen in ihren Palästen und Schakale in den Schlössern der Lust. Nahe rückt ihre Zeit, und ihre Tage verziehen nicht. (a) Jes 34:13 14
 
 ### Chapter 14
 
@@ -37352,7 +37352,7 @@
 
 **[14:31]** Heule, Pforte! Schreie, Stadt! Verzage, ganz Philisterland! Denn von Norden her kommt Rauch, und unter seinen Scharen sondert sich keiner ab.
 
-**[14:32]** Was wird man den Boten der Völker antworten? "Der Herr hat Zion gegründet, und dort finden Zuflucht die Elenden seines Volkes." 
+**[14:32]** Was wird man den Boten der Völker antworten? "Der Herr hat Zion gegründet, und dort finden Zuflucht die Elenden seines Volkes."
 
 ### Chapter 15
 
@@ -37372,7 +37372,7 @@
 
 **[15:8]** Ach! das Geschrei geht rings durch das Gebiet Moabs, bis Eglaim dringt sein Jammern, und bis Beer-Elim dringt sein Jammern.
 
-**[15:9]** Ach! die Wasser von Dimon sind voll Blut! denn über Dimon bringe ich noch neues (Unheil), einen Löwen für die Entronnenen Moabs und für den Rest von Adma. 
+**[15:9]** Ach! die Wasser von Dimon sind voll Blut! denn über Dimon bringe ich noch neues (Unheil), einen Löwen für die Entronnenen Moabs und für den Rest von Adma.
 
 ### Chapter 16
 
@@ -37402,7 +37402,7 @@
 
 **[16:13]** Dies ist das Wort, das der Herr vormals über Moab geredet hat.
 
-**[16:14]** Jetzt aber redet der Herr also: In drei Jahren, gleich den Jahren eines Söldners, wird die Herrlichkeit Moabs verächtlich sein samt all dem grossen Getümmel, und der Rest wird winzig klein, ohnmächtig sein. (a) Jes 21:16 
+**[16:14]** Jetzt aber redet der Herr also: In drei Jahren, gleich den Jahren eines Söldners, wird die Herrlichkeit Moabs verächtlich sein samt all dem grossen Getümmel, und der Rest wird winzig klein, ohnmächtig sein. (a) Jes 21:16
 
 ### Chapter 17
 
@@ -37432,7 +37432,7 @@
 
 **[17:13]** Nationen brausen wie das Brausen vieler Wasser. Doch er herrscht sie an, da fliehen sie fernhin, werden gejagt wie die Spreu auf den Bergen vor dem Winde, wie ein Staubwirbel vor der Windsbraut! (1) d.h. Gott. (a) Hio 21:18; Ps 1:4; 35:5
 
-**[17:14]** Zur Zeit des Abends: siehe da, Schrecken! Ehe der Morgen kommt, sind sie nicht mehr. Das ist das Geschick derer, die uns plündern, und das Los derer, die uns berauben. (a) Jes 37:36; 2Kön 19:35 
+**[17:14]** Zur Zeit des Abends: siehe da, Schrecken! Ehe der Morgen kommt, sind sie nicht mehr. Das ist das Geschick derer, die uns plündern, und das Los derer, die uns berauben. (a) Jes 37:36; 2Kön 19:35
 
 ### Chapter 18
 
@@ -37448,7 +37448,7 @@
 
 **[18:6]** Überlassen werden sie allesamt den Raubvögeln des Gebirges und dem Getier des Landes, dass die Raubvögel den Sommer darauf zubringen und alles Getier des Landes darauf überwintert.
 
-**[18:7]** Zu jener Zeit werden dem Herrn der Heerscharen Geschenke dargebracht werden von dem hochgewachsenen und blanken Volke, von der Nation, gefürchtet weit und breit, dem Volke der Vollkraft und Zertretung, dessen Land Ströme durchschneiden, dahin, wo der Name des Herrn der Heerscharen wohnt, nach dem Berge Zion. (a) Ps 68:32; Zef 3:10; Apg 8:27 
+**[18:7]** Zu jener Zeit werden dem Herrn der Heerscharen Geschenke dargebracht werden von dem hochgewachsenen und blanken Volke, von der Nation, gefürchtet weit und breit, dem Volke der Vollkraft und Zertretung, dessen Land Ströme durchschneiden, dahin, wo der Name des Herrn der Heerscharen wohnt, nach dem Berge Zion. (a) Ps 68:32; Zef 3:10; Apg 8:27
 
 ### Chapter 19
 
@@ -37500,7 +37500,7 @@
 
 **[19:24]** An jenem Tage wird Israel der Dritte im Bunde sein neben Ägypten und Assyrien, ein Segen inmitten der Erde,
 
-**[19:25]** die der Herr der Heerscharen segnet, indem er spricht: Gesegnet ist Ägypten, mein Volk, und Assyrien, das Werk meiner Hände, und Israel, mein Erbbesitz! 
+**[19:25]** die der Herr der Heerscharen segnet, indem er spricht: Gesegnet ist Ägypten, mein Volk, und Assyrien, das Werk meiner Hände, und Israel, mein Erbbesitz!
 
 ### Chapter 20
 
@@ -37514,7 +37514,7 @@
 
 **[20:5]** Da werden sie erschrecken und beschämt sein wegen Äthiopiens, nach dem sie ausschauen, und wegen Ägyptens, mit dem sie prahlen.
 
-**[20:6]** Und die Bewohner dieser Wüste werden an jenem Tage sprechen: Siehe, so steht es um die, nach denen wir ausschauten, zu denen wir geflohen sind um Hilfe, uns vor dem König von Assyrien zu retten. Wie sollten wir da entrinnen? 
+**[20:6]** Und die Bewohner dieser Wüste werden an jenem Tage sprechen: Siehe, so steht es um die, nach denen wir ausschauten, zu denen wir geflohen sind um Hilfe, uns vor dem König von Assyrien zu retten. Wie sollten wir da entrinnen?
 
 ### Chapter 21
 
@@ -37550,7 +37550,7 @@
 
 **[21:16]** Denn also hat der Herr zu mir geredet: Noch drei Jahre, wie die Jahre eines Söldners, so ist es aus mit aller Herrlichkeit Kedars, (a) Jer 49:28-33
 
-**[21:17]** und der Rest der Bogenschützen Kedars wird klein sein. Denn der Herr, der Gott Israels, hat es geredet. 
+**[21:17]** und der Rest der Bogenschützen Kedars wird klein sein. Denn der Herr, der Gott Israels, hat es geredet.
 
 ### Chapter 22
 
@@ -37602,7 +37602,7 @@
 
 **[22:24]** Und es wird sich an ihn hängen die ganze Bürde seiner Sippe, die (edlen) Sprosse und die Auswüchse, alles Kleingeschirr, alles Beckengeschirr, wie auch alles Kruggeschirr.
 
-**[22:25]** An jenem Tage, spricht der Herr der Heerscharen, wird der Nagel, der an einem festen Orte steckt, nachgeben, wird abbrechen und fallen, und die Last, die daran hängt, wird zugrunde gehen; denn der Herr hat es geredet. 
+**[22:25]** An jenem Tage, spricht der Herr der Heerscharen, wird der Nagel, der an einem festen Orte steckt, nachgeben, wird abbrechen und fallen, und die Last, die daran hängt, wird zugrunde gehen; denn der Herr hat es geredet.
 
 ### Chapter 23
 
@@ -37640,7 +37640,7 @@
 
 **[23:17]** Und nach siebzig Jahren wird der Herr sich (der Stadt) Tyrus annehmen, und sie wird wieder zu ihrem Buhlerlohne kommen und wird buhlen mit allen Königreichen der Welt auf dem ganzen Erdboden.
 
-**[23:18]** Aber ihr Erwerb und Buhlerlohn wird dem Herrn geweiht sein; man wird ihn nicht aufspeichern noch aufsparen, sondern denen, die im Angesichte des Herrn wohnen, wird ihr Erwerb zufallen, sich satt zu essen und sich prächtig zu kleiden. 
+**[23:18]** Aber ihr Erwerb und Buhlerlohn wird dem Herrn geweiht sein; man wird ihn nicht aufspeichern noch aufsparen, sondern denen, die im Angesichte des Herrn wohnen, wird ihr Erwerb zufallen, sich satt zu essen und sich prächtig zu kleiden.
 
 ### Chapter 24
 
@@ -37688,7 +37688,7 @@
 
 **[24:22]** Die werden zusammengesperrt in die Grube, wie man Gefangene einsperrt, und sie werden verschlossen in den Verschluss und nach vielen Tagen zur Strafe gezogen.
 
-**[24:23]** Der Mond wird erröten und die Sonne beschämt dastehen; denn König ist der Herr der Heerscharen auf dem Berge Zion und zu Jerusalem, und vor seinen Ältesten ist Herrlichkeit. (a) Jes 13:10; Mt 24:29 
+**[24:23]** Der Mond wird erröten und die Sonne beschämt dastehen; denn König ist der Herr der Heerscharen auf dem Berge Zion und zu Jerusalem, und vor seinen Ältesten ist Herrlichkeit. (a) Jes 13:10; Mt 24:29
 
 ### Chapter 25
 
@@ -37714,7 +37714,7 @@
 
 **[25:11]** Und breitet es seine Hände darin aus, wie der Schwimmer zum Schwimmen sie ausbreitet, so drückt er nieder sein Aufstreben samt dem Ringen seiner Hände.
 
-**[25:12]** Und die hohe Feste seiner Mauern wirft er nieder, stürzt er, stösst er zu Boden in den Staub. 
+**[25:12]** Und die hohe Feste seiner Mauern wirft er nieder, stürzt er, stösst er zu Boden in den Staub.
 
 ### Chapter 26
 
@@ -37758,7 +37758,7 @@
 
 **[26:20]** Wohlan, mein Volk, gehe hinein in deine Kammern und schliesse deine Türen hinter dir; verbirg dich einen kleinen Augenblick, bis der Zorn vorüber ist.
 
-**[26:21]** Denn siehe, schon zieht der Herr aus von seiner Stätte, um die Schuld der Erdbewohner an ihnen heimzusuchen. Dann wird die Erde ihr Blut aufdecken und ihre Erschlagenen nicht mehr verbergen. (a) Mi 1:3 
+**[26:21]** Denn siehe, schon zieht der Herr aus von seiner Stätte, um die Schuld der Erdbewohner an ihnen heimzusuchen. Dann wird die Erde ihr Blut aufdecken und ihre Erschlagenen nicht mehr verbergen. (a) Mi 1:3
 
 ### Chapter 27
 
@@ -37786,7 +37786,7 @@
 
 **[27:12]** An jenem Tage, da wird der Herr Ähren ausklopfen vom (Euphrat-)Strom an bis zum Bach Ägyptens. Und ihr werdet aufgelesen werden, einer nach dem andern, ihr Söhne Israels.
 
-**[27:13]** An jenem Tage, da wird die grosse Posaune erschallen, und sie werden heimkommen, die Verlornen im Lande Assyrien und die Versprengten im Lande Ägypten, und werden den Herrn anbeten auf dem heiligen Berge zu Jerusalem. (a) Jes 14:1 
+**[27:13]** An jenem Tage, da wird die grosse Posaune erschallen, und sie werden heimkommen, die Verlornen im Lande Assyrien und die Versprengten im Lande Ägypten, und werden den Herrn anbeten auf dem heiligen Berge zu Jerusalem. (a) Jes 14:1
 
 ### Chapter 28
 
@@ -37846,7 +37846,7 @@
 
 **[28:28]** Zermalmt man etwa das Brotkorn? Nein, nicht immerzu drischt er drauflos und treibt er das Rad seines Wagens und seine Rosse darüber; er zermalmt es nicht.
 
-**[28:29]** Auch das geht aus von dem Herrn der Heerscharen; wunderbar ist sein Rat und gross seine Weisheit. (a) Ps 86:10; Jer 32:18 19 
+**[28:29]** Auch das geht aus von dem Herrn der Heerscharen; wunderbar ist sein Rat und gross seine Weisheit. (a) Ps 86:10; Jer 32:18 19
 
 ### Chapter 29
 
@@ -37896,7 +37896,7 @@
 
 **[29:23]** Denn wenn sie sehen, was meine Hände unter ihnen getan, so werden sie meinen Namen heilig halten, werden heilig halten den Heiligen Jakobs und den Gott Israels fürchten;
 
-**[29:24]** und die irrenden Geistes waren, werden Einsicht lernen, und die murrten, werden Belehrung annehmen. 
+**[29:24]** und die irrenden Geistes waren, werden Einsicht lernen, und die murrten, werden Belehrung annehmen.
 
 ### Chapter 30
 
@@ -37964,7 +37964,7 @@
 
 **[30:32]** Und jedesmal, wenn die Zuchtrute einherfährt, die der Herr auf ihn herabführt, wird es geschehen unter Paukenschall und Lautenspiel, und mit geschwungenem (Arme) kämpfend streitet er mit ihnen. (1) and. nach 4Mo 6:20; 8:11-21: "und in Kämpfen, da er sie (als Opfer) schwingt, streitet er".
 
-**[30:33]** Denn längst ist die Brandstätte zubereitet; errichtet ist sie tief und breit. Ihr Holzstoss hat Feuer und Holz in Menge; wie ein Schwefelstrom entzündet ihn der Odem des Herrn. 
+**[30:33]** Denn längst ist die Brandstätte zubereitet; errichtet ist sie tief und breit. Ihr Holzstoss hat Feuer und Holz in Menge; wie ein Schwefelstrom entzündet ihn der Odem des Herrn.
 
 ### Chapter 31
 
@@ -37984,7 +37984,7 @@
 
 **[31:8]** Und Assur wird fallen durch das Schwert, doch nicht eines Mannes, ja fressen wird ihn das Schwert, doch nicht eines Menschen; und er wird vor dem Schwerte sich flüchten, und seine Krieger werden zu Fronknechten.
 
-**[31:9]** Sein Fels wird vor Furcht zerstieben, und seine Führer werden das Panier entsetzt verlassen. So spricht der Herr, der ein Feuer in Zion und einen Ofen zu Jerusalem hat. 
+**[31:9]** Sein Fels wird vor Furcht zerstieben, und seine Führer werden das Panier entsetzt verlassen. So spricht der Herr, der ein Feuer in Zion und einen Ofen zu Jerusalem hat.
 
 ### Chapter 32
 
@@ -38026,7 +38026,7 @@
 
 **[32:19]** Und stürzen wird in jähem Sturz der Wald und in Niedrigkeit niedersinken die Stadt.
 
-**[32:20]** Wohl euch: dann könnt ihr an allen Wassern säen und Rind und Esel überall frei schweifen lassen! 
+**[32:20]** Wohl euch: dann könnt ihr an allen Wassern säen und Rind und Esel überall frei schweifen lassen!
 
 ### Chapter 33
 
@@ -38076,7 +38076,7 @@
 
 **[33:23]** Schlaff sind deine Taue, nicht halten sie das Gestell ihres Mastes, lassen die Flagge nicht flattern. Dann teilen Blinde Raub in Fülle, und Lahme erbeuten Beute.
 
-**[33:24]** Und kein Einwohner wird sagen: Ich bin krank. Dem Volk, das darin wohnt, ist die Schuld vergeben. (a) 2Mo 23:25 
+**[33:24]** Und kein Einwohner wird sagen: Ich bin krank. Dem Volk, das darin wohnt, ist die Schuld vergeben. (a) 2Mo 23:25
 
 ### Chapter 34
 
@@ -38112,7 +38112,7 @@
 
 **[34:16]** Forschet in der Schrift des Herrn und leset: Keines von ihnen bleibt aus; denn der Mund des Herrn hat es geboten, und sein Geist hat sie versammelt. (a) Mt 24:35
 
-**[34:17]** Und er selbst hat ihnen das Los gefällt und seine Hand es ihnen zugemessen; bis in Ewigkeit werden sie es besitzen, von Geschlecht zu Geschlecht darin wohnen. 
+**[34:17]** Und er selbst hat ihnen das Los gefällt und seine Hand es ihnen zugemessen; bis in Ewigkeit werden sie es besitzen, von Geschlecht zu Geschlecht darin wohnen.
 
 ### Chapter 35
 
@@ -38134,7 +38134,7 @@
 
 **[35:9]** Dort wird kein Löwe sein, und kein reissendes Tier wird auf ihr hinansteigen, keins ist dort zu treffen; sondern Erlöste werden darauf gehen,
 
-**[35:10]** und die Befreiten des Herrn werden heimkehren und nach Zion kommen mit Jauchzen, ewige Freude über ihrem Haupte. Freude und Wonne wird bei ihnen einkehren, und Leid und Seufzen werden fliehen. (a) Jes 51:11; 65:19; Off 21:4 
+**[35:10]** und die Befreiten des Herrn werden heimkehren und nach Zion kommen mit Jauchzen, ewige Freude über ihrem Haupte. Freude und Wonne wird bei ihnen einkehren, und Leid und Seufzen werden fliehen. (a) Jes 51:11; 65:19; Off 21:4
 
 ### Chapter 36
 
@@ -38180,7 +38180,7 @@
 
 **[36:21]** Sie schwiegen aber stille und antworteten ihm nichts; denn das war der Befehl des Königs: Antwortet ihm nicht!
 
-**[36:22]** Da kamen der Palastvorsteher Eljakim, der Schreiber Sebna und der Kanzler Joah, der Sohn Asaphs, mit zerrissenen Kleidern zu Hiskia und meldeten ihm, was der Rabsake gesagt hatte. 
+**[36:22]** Da kamen der Palastvorsteher Eljakim, der Schreiber Sebna und der Kanzler Joah, der Sohn Asaphs, mit zerrissenen Kleidern zu Hiskia und meldeten ihm, was der Rabsake gesagt hatte.
 
 ### Chapter 37
 
@@ -38258,7 +38258,7 @@
 
 **[37:37]** Da brach Sanherib, der König von Assyrien, auf und zog hinweg, kehrte heim und blieb in Ninive.
 
-**[37:38]** Und einstmals, als er im Tempel seines Gottes Nisroch anbetete, da erschlugen ihn seine Söhne Adrammelech und Sarezer mit dem Schwerte; und diese flüchteten sich ins Land Ararat, König aber wurde an seiner Statt sein Sohn Asarhaddon. 
+**[37:38]** Und einstmals, als er im Tempel seines Gottes Nisroch anbetete, da erschlugen ihn seine Söhne Adrammelech und Sarezer mit dem Schwerte; und diese flüchteten sich ins Land Ararat, König aber wurde an seiner Statt sein Sohn Asarhaddon.
 
 ### Chapter 38
 
@@ -38304,7 +38304,7 @@
 
 **[38:21]** Und Jesaja sprach: Man bringe ein Feigenpflaster und streiche es auf das Geschwür, dass er gesund werde. (1) gehört vermutlich zwischen V. 8 u. 9.
 
-**[38:22]** Da sprach Hiskia: Was ist das Zeichen, dass ich in das Haus des Herrn hinaufgehen werde? (1) gehört vermutlich zwischen V. 6 u. 7. 
+**[38:22]** Da sprach Hiskia: Was ist das Zeichen, dass ich in das Haus des Herrn hinaufgehen werde? (1) gehört vermutlich zwischen V. 6 u. 7.
 
 ### Chapter 39
 
@@ -38322,7 +38322,7 @@
 
 **[39:7]** Und von den Söhnen, die von dir abstammen werden, von deinen Sprösslingen, wird man welche nehmen, dass sie Kämmerer seien im Palast des Königs von Babel.
 
-**[39:8]** Da sprach Hiskia zu Jesaja: Das Wort des Herrn, das du geredet hast, ist gut. Und er dachte: Es wird ja Friede und Sicherheit sein, solange ich lebe. 
+**[39:8]** Da sprach Hiskia zu Jesaja: Das Wort des Herrn, das du geredet hast, ist gut. Und er dachte: Es wird ja Friede und Sicherheit sein, solange ich lebe.
 
 ### Chapter 40
 
@@ -38386,7 +38386,7 @@
 
 **[40:30]** Jünglinge werden müde und matt, Krieger straucheln und fallen;
 
-**[40:31]** aber die auf den Herrn harren, empfangen immer neue Kraft, dass ihnen Schwingen wachsen wie Adlern, dass sie laufen und nicht ermatten, dass sie wandeln und nicht müde werden. 
+**[40:31]** aber die auf den Herrn harren, empfangen immer neue Kraft, dass ihnen Schwingen wachsen wie Adlern, dass sie laufen und nicht ermatten, dass sie wandeln und nicht müde werden.
 
 ### Chapter 41
 
@@ -38446,7 +38446,7 @@
 
 **[41:28]** Und ich sehe mich um, doch da ist niemand; keiner von diesen da weiss Rat, dass ich sie fragen könnte und sie mir Antwort gäben.
 
-**[41:29]** Siehe, sie alle sind nichts, nichtig sind ihre Werke, Luft und Leere ihre Bilder. 
+**[41:29]** Siehe, sie alle sind nichts, nichtig sind ihre Werke, Luft und Leere ihre Bilder.
 
 ### Chapter 42
 
@@ -38498,7 +38498,7 @@
 
 **[42:24]** Wer gab Jakob dem Plünderer preis und Israel den Räubern? Ist's nicht der Herr, wider den wir gesündigt haben, auf dessen Wegen sie nicht wandeln wollten und auf dessen Gesetz sie nicht hörten? (a) Da 9:5
 
-**[42:25]** Wer goss aus über Israel seinen Zorn und furchtbare Kriegsnot, dass sie ihn rings umloderte - doch er wurde nicht weise - und ihn versengte - doch er nahm's nicht zu Herzen -? 
+**[42:25]** Wer goss aus über Israel seinen Zorn und furchtbare Kriegsnot, dass sie ihn rings umloderte - doch er wurde nicht weise - und ihn versengte - doch er nahm's nicht zu Herzen -?
 
 ### Chapter 43
 
@@ -38556,7 +38556,7 @@
 
 **[43:27]** Schon dein Urahn hat gesündigt, und deine Vertreter brachen mir die Treue.
 
-**[43:28]** So musste ich entweihen die heiligen Fürsten, Jakob dem Banne preisgeben und Israel den Schmähungen. 
+**[43:28]** So musste ich entweihen die heiligen Fürsten, Jakob dem Banne preisgeben und Israel den Schmähungen.
 
 ### Chapter 44
 
@@ -38614,7 +38614,7 @@
 
 **[44:27]** der zu der Tiefe spricht: "Versiege!" und deine Ströme trockne ich aus;
 
-**[44:28]** der zu Cyrus spricht: "Mein Hirte!" und all mein Vorhaben soll er vollführen und zu Jerusalem sagen: "Werde gebaut!" und zum Tempel: "Werde gegründet!" (a) 2Ch 36:22 23; Esr 1:1 2 
+**[44:28]** der zu Cyrus spricht: "Mein Hirte!" und all mein Vorhaben soll er vollführen und zu Jerusalem sagen: "Werde gebaut!" und zum Tempel: "Werde gegründet!" (a) 2Ch 36:22 23; Esr 1:1 2
 
 ### Chapter 45
 
@@ -38666,7 +38666,7 @@
 
 **[45:24]** und sprechen: Nur in dem Herrn ist Heil und Stärke. Zu ihm werden kommen und sich schämen alle, die wider ihn zürnten.
 
-**[45:25]** Im Herrn wird Heil erlangen und frohlocken das ganze Geschlecht Israels. 
+**[45:25]** Im Herrn wird Heil erlangen und frohlocken das ganze Geschlecht Israels.
 
 ### Chapter 46
 
@@ -38694,7 +38694,7 @@
 
 **[46:12]** Höret auf mich, ihr Verzagten, die ihr fern seid vom Heil:
 
-**[46:13]** Schon lasse ich nahen mein Heil, es ist nicht fern, und meine Rettung wird nicht verziehen. Ich schaffe Rettung in Zion für Israel, meine Zier. 
+**[46:13]** Schon lasse ich nahen mein Heil, es ist nicht fern, und meine Rettung wird nicht verziehen. Ich schaffe Rettung in Zion für Israel, meine Zier.
 
 ### Chapter 47
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Siehe, sie sind wie Stoppeln, das Feuer verbrennt sie; sie retten ihr Leben nicht aus der Gewalt der Flamme - es ist keine Kohle, um sich zu wärmen, kein Feuer, davor zu sitzen.
 
-**[47:15]** So geht dir's mit deinen Zauberern, um die du dich mühtest, seit deiner Jugend. Ein jeder taumelt nach seiner Seite; keiner, der dich rettet! 
+**[47:15]** So geht dir's mit deinen Zauberern, um die du dich mühtest, seit deiner Jugend. Ein jeder taumelt nach seiner Seite; keiner, der dich rettet!
 
 ### Chapter 48
 
@@ -38772,7 +38772,7 @@
 
 **[48:21]** er führte sie durch Wüsten, doch sie litten nicht Durst; Wasser aus dem Felsen liess er ihnen rinnen; er spaltete den Fels, und es strömten die Wasser. (a) 2Mo 17:6; 4Mo 20:11
 
-**[48:22]** Kein Heil gibt es für die Gottlosen, spricht der Herr. (a) Jes 57:21 
+**[48:22]** Kein Heil gibt es für die Gottlosen, spricht der Herr. (a) Jes 57:21
 
 ### Chapter 49
 
@@ -38826,7 +38826,7 @@
 
 **[49:25]** So spricht der Herr: Wohl werden Gefangene dem Starken entrissen, und der Raub des Gewaltigen entrinnt: mit deinem Gegner streite ich und deine Kinder errette ich.
 
-**[49:26]** Ich lasse deine Peiniger ihr (eigenes) Fleisch verzehren, an ihrem Blute sich berauschen wie an Wein, damit alle Welt erkenne, dass ich, der Herr, dein Helfer bin, und dein Erlöser der Starke Jakobs. 
+**[49:26]** Ich lasse deine Peiniger ihr (eigenes) Fleisch verzehren, an ihrem Blute sich berauschen wie an Wein, damit alle Welt erkenne, dass ich, der Herr, dein Helfer bin, und dein Erlöser der Starke Jakobs.
 
 ### Chapter 50
 
@@ -38850,7 +38850,7 @@
 
 **[50:10]** Wer unter euch den Herrn fürchtet, der höre die Stimme seines Knechtes; wer in der Finsternis wandelt, dass ihm kein Lichtstrahl glänzt, der vertraue auf den Namen des Herrn und stütze sich auf seinen Gott!
 
-**[50:11]** Siehe, ihr alle, die ihr Feuer anzündet und Brandpfeile entflammt, geht hin in die Flamme eures Feuers und in die Brandpfeile, die ihr entzündet habt! Solches widerfährt euch von meiner Hand; am Ort der Qual sollt ihr liegen. 
+**[50:11]** Siehe, ihr alle, die ihr Feuer anzündet und Brandpfeile entflammt, geht hin in die Flamme eures Feuers und in die Brandpfeile, die ihr entzündet habt! Solches widerfährt euch von meiner Hand; am Ort der Qual sollt ihr liegen.
 
 ### Chapter 51
 
@@ -38898,7 +38898,7 @@
 
 **[51:22]** So spricht dein Gebieter, der Herr, dein Gott, der die Sache seines Volkes führt: Siehe, ich nehme aus deiner Hand den Taumelbecher, den Kelch meines Grimms; nicht sollst du ihn fürder mehr trinken.
 
-**[51:23]** Ich gebe ihn deinen Peinigern in die Hand, die zu deiner Seele gesprochen haben: "Ducke dich, dass wir über dich wegschreiten!" sodass du deinen Rücken zum Fussboden machen musstest gleich einer Strasse für die Wanderer. 
+**[51:23]** Ich gebe ihn deinen Peinigern in die Hand, die zu deiner Seele gesprochen haben: "Ducke dich, dass wir über dich wegschreiten!" sodass du deinen Rücken zum Fussboden machen musstest gleich einer Strasse für die Wanderer.
 
 ### Chapter 52
 
@@ -38930,7 +38930,7 @@
 
 **[52:14]** Wie sich viele über ihn entsetzten - so entstellt, nicht mehr menschlich war sein Aussehen und seine Gestalt nicht wie die der Menschenkinder -,
 
-**[52:15]** so wird er viele Völker in Erstaunen setzen, und Könige werden vor ihm ihren Mund verschliessen. Denn was ihnen nie erzählt ward, schauen sie, und was sie nie gehört, das werden sie gewahr. 
+**[52:15]** so wird er viele Völker in Erstaunen setzen, und Könige werden vor ihm ihren Mund verschliessen. Denn was ihnen nie erzählt ward, schauen sie, und was sie nie gehört, das werden sie gewahr.
 
 ### Chapter 53
 
@@ -38956,7 +38956,7 @@
 
 **[53:11]** Um der Mühsal seiner Seele willen wird er sich satt sehen; durch seine Erkenntnis wird er, der Gerechte, mein Knecht, vielen Gerechtigkeit schaffen, und ihre Verschuldungen wird er tragen. (a) 1Kor 1:30
 
-**[53:12]** Darum soll er erben unter den Grossen, und mit Starken soll er Beute teilen, dafür dass er sein Leben in den Tod dahingab und unter die Übeltäter gezählt ward, da er doch die Sünde der Vielen trug und für die Schuldigen eintrat. (a) Mr 15:28; Lu 23:33 
+**[53:12]** Darum soll er erben unter den Grossen, und mit Starken soll er Beute teilen, dafür dass er sein Leben in den Tod dahingab und unter die Übeltäter gezählt ward, da er doch die Sünde der Vielen trug und für die Schuldigen eintrat. (a) Mr 15:28; Lu 23:33
 
 ### Chapter 54
 
@@ -38992,7 +38992,7 @@
 
 **[54:16]** Siehe, ich habe den Schmied geschaffen, der ins Kohlenfeuer bläst und eine Waffe hervorbringt nach seiner Kunst; ich habe auch den Zerstörer geschaffen, um zu verderben.
 
-**[54:17]** Keine Waffe, wider dich geschmiedet, hat Glück, und jede Zunge, die wider dich klagt im Gerichte, überführst du des Unrechts. Dies ist das Erbe der Knechte des Herrn und ihr Heil von mir, spricht der Herr. 
+**[54:17]** Keine Waffe, wider dich geschmiedet, hat Glück, und jede Zunge, die wider dich klagt im Gerichte, überführst du des Unrechts. Dies ist das Erbe der Knechte des Herrn und ihr Heil von mir, spricht der Herr.
 
 ### Chapter 55
 
@@ -39020,7 +39020,7 @@
 
 **[55:12]** Denn in Freuden werdet ihr ausziehen, und in Frieden sollt ihr geleitet werden; die Berge und Hügel werden vor euch in Jubel ausbrechen und alle Bäume des Feldes in die Hände klatschen. (a) Jes 44:23
 
-**[55:13]** Statt der Dornen werden Zypressen wachsen und Myrten statt der Disteln. Dem Herrn zum Ruhme wird es geschehen, zum ewigen Zeichen, das nicht getilgt wird. 
+**[55:13]** Statt der Dornen werden Zypressen wachsen und Myrten statt der Disteln. Dem Herrn zum Ruhme wird es geschehen, zum ewigen Zeichen, das nicht getilgt wird.
 
 ### Chapter 56
 
@@ -39046,7 +39046,7 @@
 
 **[56:11]** sind heisshungrige Hunde, können nicht satt werden. Und das sind die Hirten, die nicht aufmerken können; ein jeder geht seinen eignen Weg, ein jeder seiner Beute nach, einer wie der andre. (a) Jer 6:13; 8:10
 
-**[56:12]** "Kommt her, (sprechen sie,) ich will Wein holen, da wollen wir uns voll trinken mit Rauschtrank, und morgen soll es zugehen wie heute, hochher und herrlich!" 
+**[56:12]** "Kommt her, (sprechen sie,) ich will Wein holen, da wollen wir uns voll trinken mit Rauschtrank, und morgen soll es zugehen wie heute, hochher und herrlich!"
 
 ### Chapter 57
 
@@ -39090,7 +39090,7 @@
 
 **[57:20]** Aber die Gottlosen sind wie das aufgewühlte Meer; denn zur Ruhe kann es nicht kommen, und seine Wasser wühlen Schlamm und Kot auf.
 
-**[57:21]** Kein Heil gibt es für die Gottlosen, spricht mein Gott. (a) Jes 48:22 
+**[57:21]** Kein Heil gibt es für die Gottlosen, spricht mein Gott. (a) Jes 48:22
 
 ### Chapter 58
 
@@ -39120,7 +39120,7 @@
 
 **[58:13]** Wenn du am Sabbat deinen Fuss zurückhältst und dein Geschäft nicht tust an meinem heiligen Tage, wenn du den Sabbat deine Lust nennst und das Heilige des Herrn ehrwürdig; wenn du ihn ehrst, sodass du deine Gänge nicht machst und deinem Geschäfte nicht nachgehst, noch eitle Worte redest:
 
-**[58:14]** dann wirst du an dem Herrn deine Lust haben, und ich will dich einherfahren lassen über die Höhen der Erde und dich mit dem Erbe deines Vaters Jakob speisen; denn der Mund des Herrn hat es verheissen. (a) 5Mo 32:13 
+**[58:14]** dann wirst du an dem Herrn deine Lust haben, und ich will dich einherfahren lassen über die Höhen der Erde und dich mit dem Erbe deines Vaters Jakob speisen; denn der Mund des Herrn hat es verheissen. (a) 5Mo 32:13
 
 ### Chapter 59
 
@@ -39164,7 +39164,7 @@
 
 **[59:20]** Und kommen wird der Erlöser für Zion und für die vom Abfall Bekehrten in Jakob, spricht der Herr.
 
-**[59:21]** Ich aber, ich schliesse diesen Bund mit ihnen, spricht der Herr: Mein Geist, der auf dir ruht, und meine Worte, die ich in deinen Mund gelegt, sollen aus deinem Munde nimmer weichen, noch aus dem Munde deiner Kinder und deiner Kindeskinder von nun an bis in Ewigkeit, spricht der Herr. (a) Jer 1:9 
+**[59:21]** Ich aber, ich schliesse diesen Bund mit ihnen, spricht der Herr: Mein Geist, der auf dir ruht, und meine Worte, die ich in deinen Mund gelegt, sollen aus deinem Munde nimmer weichen, noch aus dem Munde deiner Kinder und deiner Kindeskinder von nun an bis in Ewigkeit, spricht der Herr. (a) Jer 1:9
 
 ### Chapter 60
 
@@ -39210,7 +39210,7 @@
 
 **[60:21]** Deine Bürger werden lauter Gerechte sein und auf ewig das Land besitzen, als Spross meiner Pflanzung, als Werk meiner Hände, mir zur Verherrlichung.
 
-**[60:22]** Aus dem Kleinsten wird ein Stamm und aus dem Geringsten ein starkes Volk. Ich, der Herr, habe es verheissen; zu seiner Zeit lasse ich es eilends kommen. 
+**[60:22]** Aus dem Kleinsten wird ein Stamm und aus dem Geringsten ein starkes Volk. Ich, der Herr, habe es verheissen; zu seiner Zeit lasse ich es eilends kommen.
 
 ### Chapter 61
 
@@ -39234,7 +39234,7 @@
 
 **[61:10]** Laut will ich mich freuen des Herrn, meine Seele frohlocke ob meinem Gott; denn er kleidet mich mit Gewändern des Heils und umhüllt mich mit dem Mantel der Gerechtigkeit, gleich dem Bräutigam, der sich den Kopfschmuck aufsetzt, und wie die Braut, die ihr Geschmeide anlegt.
 
-**[61:11]** Denn wie die Erde ihr Gewächs hervorbringt und wie der Garten seine Saaten sprossen lässt, so wird Gott der Herr Gerechtigkeit sprossen lassen und Ruhm vor allen Völkern. 
+**[61:11]** Denn wie die Erde ihr Gewächs hervorbringt und wie der Garten seine Saaten sprossen lässt, so wird Gott der Herr Gerechtigkeit sprossen lassen und Ruhm vor allen Völkern.
 
 ### Chapter 62
 
@@ -39260,7 +39260,7 @@
 
 **[62:11]** Siehe, der Herr lässt sich vernehmen bis ans Ende der Erde: Saget der Tochter Zion: "Siehe, dein Heil kommt; siehe, die er gewonnen, kommen mit ihm; die er sich erworben, gehen vor ihm her." (a) Jes 40:10; Sac 9:9
 
-**[62:12]** Und man wird sie nennen "Heiliges Volk", "Erlöste des Herrn", und dich wird man nennen "Ersehnte", "Nimmerverlassene Stadt". 
+**[62:12]** Und man wird sie nennen "Heiliges Volk", "Erlöste des Herrn", und dich wird man nennen "Ersehnte", "Nimmerverlassene Stadt".
 
 ### Chapter 63
 
@@ -39300,7 +39300,7 @@
 
 **[63:18]** Warum schreiten die Gottlosen durch deinen Tempel, zertreten unsre Feinde dein Heiligtum?
 
-**[63:19]** Warum sind wir geworden wie solche, die du nie beherrscht hast, die nicht nach deinem Namen benannt sind? O dass du den Himmel zerrissest und führest herab, dass vor dir die Berge erbebten, (1) die Lutherbibel hat für 64,1-12 die Zählung 64,1-11; V. 1 und 2 sind dann als V. 1 gezählt. 
+**[63:19]** Warum sind wir geworden wie solche, die du nie beherrscht hast, die nicht nach deinem Namen benannt sind? O dass du den Himmel zerrissest und führest herab, dass vor dir die Berge erbebten, (1) die Lutherbibel hat für 64,1-12 die Zählung 64,1-11; V. 1 und 2 sind dann als V. 1 gezählt.
 
 ### Chapter 64
 
@@ -39324,7 +39324,7 @@
 
 **[64:10]** Unser heiliges, herrliches Haus, wo unsre Väter dich lobten, ist ein Raub des Feuers geworden, und alles, was uns köstlich war, ist verwüstet.
 
-**[64:11]** Willst du, o Herr, bei all dem zurückhalten, schweigen und uns beugen über die Massen? 
+**[64:11]** Willst du, o Herr, bei all dem zurückhalten, schweigen und uns beugen über die Massen?
 
 **[64:12]** 
 
@@ -39378,7 +39378,7 @@
 
 **[65:24]** Und ehe sie rufen, werde ich antworten; während sie noch reden, werde ich erhören. (a) Jes 30:19; 58:9
 
-**[65:25]** Wolf und Lamm werden einträchtig weiden, und der Löwe wird Stroh fressen wie das Rind; doch Staub ist das Brot der Schlange. Nichts Böses und nichts Verderbliches wird man tun auf meinem ganzen heiligen Berge, spricht der Herr. (a) Jes 11:6-9; 1Mo 3:14 
+**[65:25]** Wolf und Lamm werden einträchtig weiden, und der Löwe wird Stroh fressen wie das Rind; doch Staub ist das Brot der Schlange. Nichts Böses und nichts Verderbliches wird man tun auf meinem ganzen heiligen Berge, spricht der Herr. (a) Jes 11:6-9; 1Mo 3:14
 
 ### Chapter 66
 
@@ -39428,7 +39428,7 @@
 
 **[66:23]** Neumond um Neumond und Sabbat um Sabbat wird alles Fleisch kommen, vor mir anzubeten, spricht der Herr.
 
-**[66:24]** Und sie werden hinausgehen und die Leichen der Menschen anschauen, die von mir abgefallen sind; denn ihr Wurm wird nicht sterben, und ihr Feuer wird nicht erlöschen, und sie werden ein Abscheu sein für alles Fleisch.  
+**[66:24]** Und sie werden hinausgehen und die Leichen der Menschen anschauen, die von mir abgefallen sind; denn ihr Wurm wird nicht sterben, und ihr Feuer wird nicht erlöschen, und sie werden ein Abscheu sein für alles Fleisch.
 
 ## Jeremiah
 
@@ -39470,7 +39470,7 @@
 
 **[1:18]** Ich selbst, ich mache dich heute zur festen Burg, zur eisernen Säule und zu ehernen Mauer wider das ganze Land, wider die Könige Judas und seine Fürsten, wider seine Priester und wider das Volk des Landes. (a) Jer 15:20
 
-**[1:19]** Sie werden wider dich streiten, dich aber nicht überwältigen; denn ich bin mit dir, spricht der Herr, dich zu erretten. 
+**[1:19]** Sie werden wider dich streiten, dich aber nicht überwältigen; denn ich bin mit dir, spricht der Herr, dich zu erretten.
 
 ### Chapter 2
 
@@ -39546,7 +39546,7 @@
 
 **[2:36]** Wie leicht nimmst du es doch, deinen Weg zu ändern! Auch an Ägypten wirst du zuschanden, wie du an Assur zuschanden wurdest. (a) 2Ch 28:20; Jes 30:5
 
-**[2:37]** Auch von dort wirst du abziehen müssen und die Hände über dem Kopfe zusammenschlagen; denn der Herr hat sie verworfen, auf die du vertrautest, und es wird dir mit ihnen nicht glücken. 
+**[2:37]** Auch von dort wirst du abziehen müssen und die Hände über dem Kopfe zusammenschlagen; denn der Herr hat sie verworfen, auf die du vertrautest, und es wird dir mit ihnen nicht glücken.
 
 ### Chapter 3
 
@@ -39598,7 +39598,7 @@
 
 **[3:24]** Der Schandgott hat den Erwerb unsrer Väter verzehrt von unsrer Jugend auf, ihre Schafe und Rinder, ihre Söhne und Töchter.
 
-**[3:25]** So wollen wir uns denn in unsre Schande betten, und unsre Schmach bedecke uns! denn gegen den Herrn, unsern Gott, haben wir und unsre Väter gesündigt von Jugend an bis auf diesen Tag; wir haben nicht auf die Stimme des Herrn, unsres Gottes, gehört." 
+**[3:25]** So wollen wir uns denn in unsre Schande betten, und unsre Schmach bedecke uns! denn gegen den Herrn, unsern Gott, haben wir und unsre Väter gesündigt von Jugend an bis auf diesen Tag; wir haben nicht auf die Stimme des Herrn, unsres Gottes, gehört."
 
 ### Chapter 4
 
@@ -39662,7 +39662,7 @@
 
 **[4:30]** Und du, vergewaltigtes Weib, was willst du tun? Magst du dich kleiden in Karmesin, dich schmücken mit Goldschmuck, gross machen die Augen mit Schminke - du machst dich umsonst schön! Dich verschmähen die Buhlen, sie begehren dein Leben.
 
-**[4:31]** Denn Geschrei höre ich wie vom kreissenden Weibe, Angstruf wie von der werdenden Mutter, die Stimme der Tochter Zion, die ächzt und die Hände ausstreckt: "Wehe mir, es erliegt mein Leben den Mördern!" 
+**[4:31]** Denn Geschrei höre ich wie vom kreissenden Weibe, Angstruf wie von der werdenden Mutter, die Stimme der Tochter Zion, die ächzt und die Hände ausstreckt: "Wehe mir, es erliegt mein Leben den Mördern!"
 
 ### Chapter 5
 
@@ -39726,7 +39726,7 @@
 
 **[5:30]** Schreckliche, schaurige Dinge sind im Lande geschehen: (a) Jer 27:15; Hes 13:6
 
-**[5:31]** die Propheten weissagen im Dienst der Lüge, und die Priester stehen ihnen zur Seite mit ihren Weisungen, und meinem Volke gefällt es so - aber was wollt ihr tun, wenn's damit aus ist? 
+**[5:31]** die Propheten weissagen im Dienst der Lüge, und die Priester stehen ihnen zur Seite mit ihren Weisungen, und meinem Volke gefällt es so - aber was wollt ihr tun, wenn's damit aus ist?
 
 ### Chapter 6
 
@@ -39788,7 +39788,7 @@
 
 **[6:29]** Es schnaubt der Blasebalg, doch aus dem Feuer kommt nichts als Blei; umsonst schmelzt man und schmelzt, die Bösen lassen sich nicht ausscheiden.
 
-**[6:30]** Nennt sie verworfenes Silber; denn der Herr hat sie verworfen. 
+**[6:30]** Nennt sie verworfenes Silber; denn der Herr hat sie verworfen.
 
 ### Chapter 7
 
@@ -39858,7 +39858,7 @@
 
 **[7:33]** Und die Leichname dieses Volkes werden den Vögeln des Himmels und den Tieren der Erde zum Frasse dienen, und niemand wird sie verscheuchen. (a) Jer 19:7; 34:20; 5Mo 28:26
 
-**[7:34]** Dann mache ich in den Städten Judas und in den Gassen Jerusalems ein Ende dem Freudenjubel und Jauchzen, dem Jubel des Bräutigams und dem Jubel der Braut; denn das Land wird zur Wüste werden. (a) Jer 16:9; 25:10; Jes 24:8 
+**[7:34]** Dann mache ich in den Städten Judas und in den Gassen Jerusalems ein Ende dem Freudenjubel und Jauchzen, dem Jubel des Bräutigams und dem Jubel der Braut; denn das Land wird zur Wüste werden. (a) Jer 16:9; 25:10; Jes 24:8
 
 ### Chapter 8
 
@@ -39904,7 +39904,7 @@
 
 **[8:21]** Gebrochen liegt die Tochter meines Volkes, darob bin auch ich gebrochen, traure, und Entsetzen hat mich ergriffen.
 
-**[8:22]** Ist denn kein Balsam mehr in Gilead? ist kein Arzt mehr dort? Warum will nicht heilen die Wunde der Tochter meines Volkes? (a) Jer 46:11 
+**[8:22]** Ist denn kein Balsam mehr in Gilead? ist kein Arzt mehr dort? Warum will nicht heilen die Wunde der Tochter meines Volkes? (a) Jer 46:11
 
 ### Chapter 9
 
@@ -39958,7 +39958,7 @@
 
 **[9:25]** Siehe, es kommen Tage, spricht der Herr, da suche ich heim alle Beschnittenen, die doch unbeschnitten sind:
 
-**[9:26]** die Ägypter, Juden und Edomiter, die Ammoniter und Moabiter und alle, die sich den Haarrand stutzen, die in der Wüste wohnen; denn alle Völker sind unbeschnitten, und das ganze Haus Israel ist unbeschnittenen Herzens. 
+**[9:26]** die Ägypter, Juden und Edomiter, die Ammoniter und Moabiter und alle, die sich den Haarrand stutzen, die in der Wüste wohnen; denn alle Völker sind unbeschnitten, und das ganze Haus Israel ist unbeschnittenen Herzens.
 
 ### Chapter 10
 
@@ -40010,7 +40010,7 @@
 
 **[10:24]** Züchtige mich, o Herr, doch nach Billigkeit und nicht in deinem Zorn, dass du mich nicht gar zunichte machest. (a) Jer 30:11; Ps 6:2; 38:2
 
-**[10:25]** Schütte deinen Grimm aus über die Heiden, die dich nicht kennen, und über die Geschlechter, die deinen Namen nicht anrufen; denn sie haben Jakob gefressen und aufgerieben und seine Wohnstatt verwüstet. (a) Ps 79:6 7 
+**[10:25]** Schütte deinen Grimm aus über die Heiden, die dich nicht kennen, und über die Geschlechter, die deinen Namen nicht anrufen; denn sie haben Jakob gefressen und aufgerieben und seine Wohnstatt verwüstet. (a) Ps 79:6 7
 
 ### Chapter 11
 
@@ -40058,7 +40058,7 @@
 
 **[11:22]** Siehe, ich suche es heim an ihnen: die jungen Männer sollen durchs Schwert sterben, ihre Söhne und Töchter vor Hunger;
 
-**[11:23]** kein Überrest soll ihnen verbleiben. Denn ich bringe Unheil über die Männer von Anathoth im Jahr ihrer Heimsuchung. 
+**[11:23]** kein Überrest soll ihnen verbleiben. Denn ich bringe Unheil über die Männer von Anathoth im Jahr ihrer Heimsuchung.
 
 ### Chapter 12
 
@@ -40094,7 +40094,7 @@
 
 **[12:16]** Und wenn sie alsdann wirklich die Wege meines Volkes lernen, sodass sie bei meinem Namen schwören: "So wahr der Herr lebt!" wie sie mein Volk gelehrt haben, beim Baal zu schwören, so sollen sie mitten unter meinem Volke aufgebaut werden. (a) 5Mo 6:13
 
-**[12:17]** Wenn sie aber nicht gehorchen wollen, so werde ich ein solches Volk wegreissen, ja wegreissen und verderben, spricht der Herr. 
+**[12:17]** Wenn sie aber nicht gehorchen wollen, so werde ich ein solches Volk wegreissen, ja wegreissen und verderben, spricht der Herr.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:26]** Ich hebe dir auch die Schleppe hoch bis über das Gesicht, dass man deine Schande sehe, (a) Jes 47:2 3; Hes 16:37; Hos 2:10
 
-**[13:27]** deinen Ehebruch, dein Wiehern und dein schändliches Buhlen. Auf Hügeln und im Felde habe ich deine Greuel gesehen. Wehe dir, Jerusalem! wie lange soll es noch anstehen, bis du wieder rein wirst? (a) Jer 5:8 
+**[13:27]** deinen Ehebruch, dein Wiehern und dein schändliches Buhlen. Auf Hügeln und im Felde habe ich deine Greuel gesehen. Wehe dir, Jerusalem! wie lange soll es noch anstehen, bis du wieder rein wirst? (a) Jer 5:8
 
 ### Chapter 14
 
@@ -40196,7 +40196,7 @@
 
 **[14:21]** Verschmähe uns nicht, um deines Namens willen; schände nicht den Thron deiner Herrlichkeit! Sei eingedenk deines Bundes mit uns, brich ihn nicht!
 
-**[14:22]** Sind unter den Götzen der Heiden auch solche, die Regen spenden? oder gibt der Himmel (von selbst) Regenschauer? Bist du es nicht, o Herr, unser Gott? und müssen wir nicht auf dich hoffen? Hast doch du dies alles getan! (a) Jer 5:24; Ps 135:7 
+**[14:22]** Sind unter den Götzen der Heiden auch solche, die Regen spenden? oder gibt der Himmel (von selbst) Regenschauer? Bist du es nicht, o Herr, unser Gott? und müssen wir nicht auf dich hoffen? Hast doch du dies alles getan! (a) Jer 5:24; Ps 135:7
 
 ### Chapter 15
 
@@ -40240,7 +40240,7 @@
 
 **[15:20]** Ich mache dich für dieses Volk zur festen, ehernen Mauer, und sie werden wider dich streiten, dich aber nicht überwältigen; denn ich bin mit dir, dir zu helfen, dich zu retten, spricht der Herr. (a) Jer 1:18
 
-**[15:21]** Ich rette dich aus der Hand der Bösen, erlöse dich aus der Faust der Tyrannen. 
+**[15:21]** Ich rette dich aus der Hand der Bösen, erlöse dich aus der Faust der Tyrannen.
 
 ### Chapter 16
 
@@ -40284,7 +40284,7 @@
 
 **[16:20]** Wie kann ein Mensch sich Götter machen! - Die sind ja nicht Gott!
 
-**[16:21]** Darum, siehe, will ich sie diesmal fühlen lassen, sie fühlen lassen meine Hand und meine Macht, und sie sollen erkennen, dass "Herr" mein Name ist. (a) 2Mo 3:15 
+**[16:21]** Darum, siehe, will ich sie diesmal fühlen lassen, sie fühlen lassen meine Hand und meine Macht, und sie sollen erkennen, dass "Herr" mein Name ist. (a) 2Mo 3:15
 
 ### Chapter 17
 
@@ -40340,7 +40340,7 @@
 
 **[17:26]** Und aus den Städten Judas und dem Umkreis Jerusalems, aus dem Lande Benjamin und aus der Niederung, vom Gebirge und aus dem Südland werden sie kommen, Brandopfer und Schlachtopfer, Speisopfer und Weihrauch zu bringen, Dankopfer zu bringen in das Haus des Herrn.
 
-**[17:27]** Wenn ihr aber nicht hört auf mein Gebot, den Sabbattag heilig zu halten und am Sabbattage nicht mit Lasten beladen zu den Toren Jerusalems einzugehen, so werde ich Feuer legen an seine Tore; das wird die Paläste Jerusalems verzehren und wird nicht erlöschen. 
+**[17:27]** Wenn ihr aber nicht hört auf mein Gebot, den Sabbattag heilig zu halten und am Sabbattage nicht mit Lasten beladen zu den Toren Jerusalems einzugehen, so werde ich Feuer legen an seine Tore; das wird die Paläste Jerusalems verzehren und wird nicht erlöschen.
 
 ### Chapter 18
 
@@ -40388,7 +40388,7 @@
 
 **[18:22]** Wehruf erschalle aus ihren Häusern, wenn du plötzlich die Raubschar über sie kommen lässt! Denn sie haben eine Grube gegraben, mich zu fangen, und Schlingen gelegt für meine Füsse.
 
-**[18:23]** Du aber, Herr, du weisst, was sie planen, um mich zu töten. Verzeihe ihnen ihre Missetat nicht, und ihre Sünde lösche nicht aus vor deinen Augen! Sie sollen ein Anstoss bleiben vor dir; zur Zeit deines Zornes tue es ihnen an! 
+**[18:23]** Du aber, Herr, du weisst, was sie planen, um mich zu töten. Verzeihe ihnen ihre Missetat nicht, und ihre Sünde lösche nicht aus vor deinen Augen! Sie sollen ein Anstoss bleiben vor dir; zur Zeit deines Zornes tue es ihnen an!
 
 ### Chapter 19
 
@@ -40420,7 +40420,7 @@
 
 **[19:14]** Darnach kam Jeremia vom Thopheth, wohin ihn der Herr gesandt hatte zu weissagen, und trat in den Vorhof beim Hause des Herrn und sprach zu allem Volk:
 
-**[19:15]** So spricht der Herr der Heerscharen, der Gott Israels: Siehe, ich bringe über diese Stadt und all ihre Schwesterstädte all das Unheil, das ich ihr angedroht habe; denn sie sind halsstarrig und hören nicht auf meine Worte. 
+**[19:15]** So spricht der Herr der Heerscharen, der Gott Israels: Siehe, ich bringe über diese Stadt und all ihre Schwesterstädte all das Unheil, das ich ihr angedroht habe; denn sie sind halsstarrig und hören nicht auf meine Worte.
 
 ### Chapter 20
 
@@ -40458,7 +40458,7 @@
 
 **[20:17]** weil er mich nicht gemordet im Mutterleibe, sodass die Mutter mir zum Grabe geworden und ihr Schoss ewig schwanger geblieben wäre.
 
-**[20:18]** Warum nur kam ich aus Mutterschoss, dass ich Mühsal und Herzeleid schaute, dass meine Tage in Schande vergingen? 
+**[20:18]** Warum nur kam ich aus Mutterschoss, dass ich Mühsal und Herzeleid schaute, dass meine Tage in Schande vergingen?
 
 ### Chapter 21
 
@@ -40488,7 +40488,7 @@
 
 **[21:13]** Siehe, ich will an dich, die du das Tal bewohnst, du Fels in der Ebene! spricht der Herr. Die ihr sprecht: "Wer will wider uns herniedersteigen? wer eindringen in unsere Schlupfwinkel?" -
 
-**[21:14]** ich will euch heimsuchen, spricht der Herr, nach der Frucht eurer Taten, und Feuer legen an ihren Wald; das soll alles verzehren, was um sie her ist. (a) Hes 21:3 
+**[21:14]** ich will euch heimsuchen, spricht der Herr, nach der Frucht eurer Taten, und Feuer legen an ihren Wald; das soll alles verzehren, was um sie her ist. (a) Hes 21:3
 
 ### Chapter 22
 
@@ -40550,7 +40550,7 @@
 
 **[22:29]** Land, Land, Land, höre das Wort des Herrn!
 
-**[22:30]** So spricht der Herr: Schreibt diesen Mann auf als kinderlos, als einen Mann, der sein Leben lang kein Glück hat; denn keinem aus seinem Stamm wird es glücken, auf dem Throne Davids zu sitzen und noch einmal über Juda zu herrschen. 
+**[22:30]** So spricht der Herr: Schreibt diesen Mann auf als kinderlos, als einen Mann, der sein Leben lang kein Glück hat; denn keinem aus seinem Stamm wird es glücken, auf dem Throne Davids zu sitzen und noch einmal über Juda zu herrschen.
 
 ### Chapter 23
 
@@ -40632,7 +40632,7 @@
 
 **[23:39]** darum, siehe, will ich euch aufheben wie eine Last und wegwerfen, euch und die Stadt, die ich euch und euren Vätern gegeben habe, hinweg von meinem Angesicht,
 
-**[23:40]** und ich will ewige Schande auf euch legen, ewige, unvergessliche Schmach. (a) Jer 20:11 
+**[23:40]** und ich will ewige Schande auf euch legen, ewige, unvergessliche Schmach. (a) Jer 20:11
 
 ### Chapter 24
 
@@ -40654,7 +40654,7 @@
 
 **[24:9]** ich will sie zum Entsetzen machen für alle Königreiche der Erde, zur Schmach und zum Sprichwort, zum Gespött und zum Fluchwort an allen Orten, wohin ich sie verstosse. (a) Jer 15:4; 29:18 22; 5Mo 28:37
 
-**[24:10]** Und ich will das Schwert, den Hunger und die Pest gegen sie loslassen, bis sie ausgerottet sind aus dem Lande, das ich ihnen und ihren Vätern gegeben habe. (a) Jer 15:2; 34:17 
+**[24:10]** Und ich will das Schwert, den Hunger und die Pest gegen sie loslassen, bis sie ausgerottet sind aus dem Lande, das ich ihnen und ihren Vätern gegeben habe. (a) Jer 15:2; 34:17
 
 ### Chapter 25
 
@@ -40732,7 +40732,7 @@
 
 **[25:37]** verwüstet sind die friedlichen Auen vor dem glühenden Zorn des Herrn.
 
-**[25:38]** Die Löwen verlassen ihr Dickicht; denn ihr Land ist zur Wüste geworden vor dem gewalttätigen Schwert und vor seinem glühenden Zorn. 
+**[25:38]** Die Löwen verlassen ihr Dickicht; denn ihr Land ist zur Wüste geworden vor dem gewalttätigen Schwert und vor seinem glühenden Zorn.
 
 ### Chapter 26
 
@@ -40782,7 +40782,7 @@
 
 **[26:23]** die holten den Uria aus Ägypten und brachten ihn zum König Jojakim, und er liess ihn mit dem Schwerte hinrichten und seinen Leichnam in die Gräber des gemeinen Volkes werfen.
 
-**[26:24]** Dem Jeremia aber half Ahikam, der Sohn Saphans, sodass er nicht dem Volke ausgeliefert und nicht getötet wurde. (a) 2Kön 22:12 
+**[26:24]** Dem Jeremia aber half Ahikam, der Sohn Saphans, sodass er nicht dem Volke ausgeliefert und nicht getötet wurde. (a) 2Kön 22:12
 
 ### Chapter 27
 
@@ -40828,7 +40828,7 @@
 
 **[27:21]** ja, so spricht der Herr der Heerscharen, der Gott Israels, über die Geräte, die noch im Hause des Herrn und im Hause des Königs von Juda und in Jerusalem geblieben sind: (a) 2Ch 36:18
 
-**[27:22]** Sie werden nach Babel geführt werden, und dort werden sie bleiben bis zu dem Tage, da ich nach ihnen sehe und sie wieder an diesen Ort heraufbringe, spricht der Herr. 
+**[27:22]** Sie werden nach Babel geführt werden, und dort werden sie bleiben bis zu dem Tage, da ich nach ihnen sehe und sie wieder an diesen Ort heraufbringe, spricht der Herr.
 
 ### Chapter 28
 
@@ -40864,7 +40864,7 @@
 
 **[28:16]** Darum spricht der Herr also: Siehe, ich schicke dich weg vom Erdboden; noch in diesem Jahre wirst du sterben, weil du Abfall gepredigt hast wider den Herrn. (a) 5Mo 13:5
 
-**[28:17]** Und der Prophet Hananja starb noch im selben Jahre, im siebenten Monat. 
+**[28:17]** Und der Prophet Hananja starb noch im selben Jahre, im siebenten Monat.
 
 ### Chapter 29
 
@@ -40930,7 +40930,7 @@
 
 **[29:31]** Sende an alle Verbannten die Botschaft: So spricht der Herr über Semaja von Nehelam: Weil euch Semaja, den ich doch nicht gesandt habe, geweissagt und euch so verführt hat, euch auf Lüge zu verlassen,
 
-**[29:32]** darum spricht der Herr also: Siehe, ich werde Semaja von Nehelam und sein Geschlecht heimsuchen: niemand von den Seinen soll unter diesem Volke wohnen bleiben und das Glück schauen, das ich meinem Volke schaffen will, spricht der Herr; denn er hat Abfall gepredigt wider den Herrn. 
+**[29:32]** darum spricht der Herr also: Siehe, ich werde Semaja von Nehelam und sein Geschlecht heimsuchen: niemand von den Seinen soll unter diesem Volke wohnen bleiben und das Glück schauen, das ich meinem Volke schaffen will, spricht der Herr; denn er hat Abfall gepredigt wider den Herrn.
 
 ### Chapter 30
 
@@ -40980,7 +40980,7 @@
 
 **[30:23]** Siehe, ein Sturm geht aus vom Herrn, glühender Zorn; ein wirbelnder Sturm stürzt herab auf das Haupt der Frevler. (a) Jer 23:19
 
-**[30:24]** Nicht wendet sich der grimmige Zorn des Herrn, bis er das Sinnen seines Herzens vollbracht, zur Tat gemacht hat. Am Ende der Tage werdet ihr es recht verstehen. (a) Jer 23:20 
+**[30:24]** Nicht wendet sich der grimmige Zorn des Herrn, bis er das Sinnen seines Herzens vollbracht, zur Tat gemacht hat. Am Ende der Tage werdet ihr es recht verstehen. (a) Jer 23:20
 
 ### Chapter 31
 
@@ -41062,7 +41062,7 @@
 
 **[31:39]** von da wird die Meßschnur weitergehen geradeaus bis zum Hügel Gareb und dann umbiegen nach Goa.
 
-**[31:40]** Und das ganze Tal, die Leichen und die Fettopferasche samt allen Feldern bis zum Bach Kidron, bis an die Ecke des Rosstors gegen Osten hin, wird dem Herrn heilig sein. Es wird nie wieder eingerissen noch zerstört werden. 
+**[31:40]** Und das ganze Tal, die Leichen und die Fettopferasche samt allen Feldern bis zum Bach Kidron, bis an die Ecke des Rosstors gegen Osten hin, wird dem Herrn heilig sein. Es wird nie wieder eingerissen noch zerstört werden.
 
 ### Chapter 32
 
@@ -41152,7 +41152,7 @@
 
 **[32:43]** Und man wird wieder Äcker kaufen in diesem Lande, von dem ihr sagt: Es ist eine Wüste ohne Menschen und Vieh, dahingegeben in die Hand der Chaldäer.
 
-**[32:44]** Äcker wird man kaufen um Geld, den Kaufbrief schreiben und versiegeln und Zeugen zuziehen im Lande Benjamin und in der Umgebung Jerusalems, in den Städten Judas und in den Städten auf dem Gebirge, in den Städten der Niederung und in den Städten des Südlands. Denn ich werde ihr Geschick wenden, spricht der Herr. 
+**[32:44]** Äcker wird man kaufen um Geld, den Kaufbrief schreiben und versiegeln und Zeugen zuziehen im Lande Benjamin und in der Umgebung Jerusalems, in den Städten Judas und in den Städten auf dem Gebirge, in den Städten der Niederung und in den Städten des Südlands. Denn ich werde ihr Geschick wenden, spricht der Herr.
 
 ### Chapter 33
 
@@ -41206,7 +41206,7 @@
 
 **[33:25]** So spricht der Herr: So gewiss ich Tag und Nacht geschaffen und die Ordnungen des Himmels und der Erde festgesetzt habe,
 
-**[33:26]** so gewiss werde ich auch das Geschlecht Jakobs und meinen Knecht David nicht verwerfen, also dass ich aus seinem Geschlechte keine Fürsten mehr nähme über das Geschlecht Abrahams, Isaaks und Jakobs. Denn ich werde ihr Geschick wenden und mich ihrer erbarmen. (a) Jer 29:14; 30:3 
+**[33:26]** so gewiss werde ich auch das Geschlecht Jakobs und meinen Knecht David nicht verwerfen, also dass ich aus seinem Geschlechte keine Fürsten mehr nähme über das Geschlecht Abrahams, Isaaks und Jakobs. Denn ich werde ihr Geschick wenden und mich ihrer erbarmen. (a) Jer 29:14; 30:3
 
 ### Chapter 34
 
@@ -41252,7 +41252,7 @@
 
 **[34:21]** Auch Zedekia, den König von Juda, und seine Fürsten gebe ich in die Hand ihrer Feinde, in die Hand derer, die ihnen nach dem Leben trachten, in die Gewalt des Heers des Königs von Babel, das jetzt von euch abgezogen ist. (a) Jer 37:5
 
-**[34:22]** Siehe, ich gebiete, spricht der Herr, und bringe sie wieder vor diese Stadt, und sie werden wider sie streiten und sie einnehmen und verbrennen; und die Städte Judas mache ich zur unbewohnten Wüste. (a) Jer 37:8 
+**[34:22]** Siehe, ich gebiete, spricht der Herr, und bringe sie wieder vor diese Stadt, und sie werden wider sie streiten und sie einnehmen und verbrennen; und die Städte Judas mache ich zur unbewohnten Wüste. (a) Jer 37:8
 
 ### Chapter 35
 
@@ -41292,7 +41292,7 @@
 
 **[35:18]** Zur Familie der Rechabiten aber sprach Jeremia: So spricht der Herr der Heerscharen, der Gott Israels: Weil ihr dem Gebot Jonadabs, eures Ahns, gehorcht, alle seine Gebote gehalten und nach allem, was er euch geboten, getan habt,
 
-**[35:19]** darum spricht der Herr der Heerscharen, der Gott Israels, also: Es wird Jonadab, dem Sohne Rechabs, nie an einem (Nachkommen) fehlen, der mir diene. 
+**[35:19]** darum spricht der Herr der Heerscharen, der Gott Israels, also: Es wird Jonadab, dem Sohne Rechabs, nie an einem (Nachkommen) fehlen, der mir diene.
 
 ### Chapter 36
 
@@ -41358,7 +41358,7 @@
 
 **[36:31]** Und ich werde an ihm und seinem Geschlecht und seinen Dienern ihre Verschuldung ahnden; ich werde über sie und über die Bewohner Jerusalems und die Männer von Juda all das Unheil bringen, das ich ihnen angedroht habe, ohne dass sie darauf hörten.
 
-**[36:32]** Da nahm Jeremia eine andre Rolle und gab sie dem Schreiber Baruch, dem Sohne Nerias; der schrieb darauf nach dem Diktat Jeremias alle Worte des Buches, das Jojakim, der König von Juda, verbrannt hatte, und es wurden ihnen noch viele ähnliche Worte hinzugefügt. 
+**[36:32]** Da nahm Jeremia eine andre Rolle und gab sie dem Schreiber Baruch, dem Sohne Nerias; der schrieb darauf nach dem Diktat Jeremias alle Worte des Buches, das Jojakim, der König von Juda, verbrannt hatte, und es wurden ihnen noch viele ähnliche Worte hinzugefügt.
 
 ### Chapter 37
 
@@ -41402,7 +41402,7 @@
 
 **[37:20]** Und nun höre doch, mein Herr und König! Lass mein Flehen bei dir eine Stätte finden und schicke mich nicht wieder in das Haus des Kanzlers Jonathan; ich würde dort sterben.
 
-**[37:21]** Da gab der König Zedekia Befehl, und man verwahrte Jeremia im Wachthof und gab ihm täglich einen Brotfladen aus der Bäckergasse, bis alles Brot in der Stadt aufgegessen war. So blieb denn Jeremia im Wachthof. (a) Jer 32:2 
+**[37:21]** Da gab der König Zedekia Befehl, und man verwahrte Jeremia im Wachthof und gab ihm täglich einen Brotfladen aus der Bäckergasse, bis alles Brot in der Stadt aufgegessen war. So blieb denn Jeremia im Wachthof. (a) Jer 32:2
 
 ### Chapter 38
 
@@ -41460,7 +41460,7 @@
 
 **[38:27]** Und wirklich kamen alle Fürsten zu Jeremia und fragten ihn. Er aber gab ihnen Bescheid genau mit den Worten, die ihm der König befohlen hatte. Da liessen sie ihn in Ruhe; es hatte ja niemand das Gespräch gehört.
 
-**[38:28]** So blieb denn Jeremia im Wachthof bis zu dem Tage, da Jerusalem eingenommen wurde. 
+**[38:28]** So blieb denn Jeremia im Wachthof bis zu dem Tage, da Jerusalem eingenommen wurde.
 
 ### Chapter 39
 
@@ -41498,7 +41498,7 @@
 
 **[39:17]** Dich aber werde ich an jenem Tage erretten, spricht der Herr, dass du den Männern, vor denen du dich fürchtest, nicht in die Hände fallen sollst.
 
-**[39:18]** Ja, ich werde dich entrinnen lassen, dass du nicht durch das Schwert umkommen sollst; du wirst dein Leben als Beute davontragen, weil du auf mich vertraut hast, spricht der Herr. 
+**[39:18]** Ja, ich werde dich entrinnen lassen, dass du nicht durch das Schwert umkommen sollst; du wirst dein Leben als Beute davontragen, weil du auf mich vertraut hast, spricht der Herr.
 
 ### Chapter 40
 
@@ -41532,7 +41532,7 @@
 
 **[40:15]** Da sprach Johanan, der Sohn Kareahs, heimlich zu Gedalja in Mizpa: Ich will hingehen und Ismael, den Sohn Nethanjas, erschlagen, ohne dass ein Mensch davon erfährt. Warum soll er dich ermorden, sodass dann ganz Juda, das sich um dich gesammelt hat, sich zerstreut und der Rest Judas zugrunde geht?
 
-**[40:16]** Aber Gedalja, der Sohn Ahikams, sprach zu Johanan, dem Sohn Kareahs: Du darfst das nicht tun; denn was du von Ismael sagst, ist nicht wahr. 
+**[40:16]** Aber Gedalja, der Sohn Ahikams, sprach zu Johanan, dem Sohn Kareahs: Du darfst das nicht tun; denn was du von Ismael sagst, ist nicht wahr.
 
 ### Chapter 41
 
@@ -41570,7 +41570,7 @@
 
 **[41:17]** und sie zogen fort und blieben in Geruth-Chimham bei Bethlehem, um dann nach Ägypten weiterzuziehen
 
-**[41:18]** und so den Chaldäern zu entgehen; denn sie fürchteten sich vor ihnen, weil Ismael, der Sohn Nethanjas, Gedalja, den Sohn Ahikams, den der König von Babel über das Land gesetzt, erschlagen hatte. 
+**[41:18]** und so den Chaldäern zu entgehen; denn sie fürchteten sich vor ihnen, weil Ismael, der Sohn Nethanjas, Gedalja, den Sohn Ahikams, den der König von Babel über das Land gesetzt, erschlagen hatte.
 
 ### Chapter 42
 
@@ -41616,7 +41616,7 @@
 
 **[42:21]** Nun habe ich es euch heute zu wissen getan; aber ihr habt nicht auf die Stimme des Herrn, eures Gottes, gehört, noch auf irgend etwas, womit er mich zu euch gesandt hat.
 
-**[42:22]** So wisst jetzt wohl: Durchs Schwert, durch Hunger und Pest werdet ihr umkommen an dem Ort, wohin es euch zu gehen gefällt, um dort in der Fremde zu wohnen. 
+**[42:22]** So wisst jetzt wohl: Durchs Schwert, durch Hunger und Pest werdet ihr umkommen an dem Ort, wohin es euch zu gehen gefällt, um dort in der Fremde zu wohnen.
 
 ### Chapter 43
 
@@ -41644,7 +41644,7 @@
 
 **[43:12]** Und er wird Feuer legen an die Tempel der Götter Ägyptens, wird jene verbrennen, diese aber gefangen wegführen. Und er wird das Land Ägypten lausen, wie der Hirte sein Gewand laust, und darnach wird er wohlbehalten von dannen ziehen. (a) Jer 46:25
 
-**[43:13]** Die Obelisken von Beth-Semes im Lande Ägypten wird er zerbrechen, und die Tempel der Götter Ägyptens wird er verbrennen. (1) hebr. Name der ägyptischen Stadt On, die bei den Griechen Heliopolis heisst. 
+**[43:13]** Die Obelisken von Beth-Semes im Lande Ägypten wird er zerbrechen, und die Tempel der Götter Ägyptens wird er verbrennen. (1) hebr. Name der ägyptischen Stadt On, die bei den Griechen Heliopolis heisst.
 
 ### Chapter 44
 
@@ -41706,7 +41706,7 @@
 
 **[44:29]** Dies aber, spricht der Herr, sei euch das Zeichen dafür, dass ich euch an diesem Orte heimsuchen werde, damit ihr erkennet, dass meine Worte an euch sich erwahren werden zum Unheil:
 
-**[44:30]** also spricht der Herr: Siehe, ich gebe den Pharao Hophra, den König von Ägypten, in die Hand seiner Gegner und Todfeinde, wie ich Zedekia, den König von Juda, in die Hand Nebukadrezars, des Königs von Babel, seines Gegners und Todfeindes, gegeben habe. (a) Hes 29:19 
+**[44:30]** also spricht der Herr: Siehe, ich gebe den Pharao Hophra, den König von Ägypten, in die Hand seiner Gegner und Todfeinde, wie ich Zedekia, den König von Juda, in die Hand Nebukadrezars, des Königs von Babel, seines Gegners und Todfeindes, gegeben habe. (a) Hes 29:19
 
 ### Chapter 45
 
@@ -41718,7 +41718,7 @@
 
 **[45:4]** So sollst du zu ihm sagen: So spricht der Herr: "Siehe, was ich gebaut, ich reisse es nieder, und was ich gepflanzt, ich reisse es aus!
 
-**[45:5]** Und du begehrst Grosses für dich? Begehre es nicht! Denn siehe, ich bringe Unheil über alles Fleisch, spricht der Herr; aber dir gebe ich dein Leben zur Beute allerorten, wohin du gehst." (a) Jer 39:18 
+**[45:5]** Und du begehrst Grosses für dich? Begehre es nicht! Denn siehe, ich bringe Unheil über alles Fleisch, spricht der Herr; aber dir gebe ich dein Leben zur Beute allerorten, wohin du gehst." (a) Jer 39:18
 
 ### Chapter 46
 
@@ -41776,7 +41776,7 @@
 
 **[46:27]** Du aber, fürchte dich nicht, mein Knecht Jakob; erschrick nicht, Israel! Denn siehe, ich errette dich aus fernen Landen, dein Geschlecht aus dem Land der Gefangenschaft; und Jakob wird heimkehren, wird Ruhe haben und sicher leben, und niemand soll ihn aufschrecken. (a) Jer 30:10; Jes 43:5; 44:2
 
-**[46:28]** Fürchte dich nicht, mein Knecht Jakob, spricht der Herr; denn ich bin mit dir. Ich will den Garaus machen allen Völkern, unter die ich dich verstossen habe; nur dir will ich nicht den Garaus machen. Ich will dich züchtigen nach Billigkeit; doch gänzlich ungestraft kann ich dich nicht lassen. (a) Jer 30:11 
+**[46:28]** Fürchte dich nicht, mein Knecht Jakob, spricht der Herr; denn ich bin mit dir. Ich will den Garaus machen allen Völkern, unter die ich dich verstossen habe; nur dir will ich nicht den Garaus machen. Ich will dich züchtigen nach Billigkeit; doch gänzlich ungestraft kann ich dich nicht lassen. (a) Jer 30:11
 
 ### Chapter 47
 
@@ -41792,7 +41792,7 @@
 
 **[47:6]** Ha, Schwert des Herrn, wann endlich kommst du zur Ruhe? Kehre zurück in die Scheide, raste und halte dich still!
 
-**[47:7]** Wie könnte es ruhen, da doch der Herr ihm Befehl gab? Nach Askalon und ans Gestade des Meeres, dorthin hat er es entboten. 
+**[47:7]** Wie könnte es ruhen, da doch der Herr ihm Befehl gab? Nach Askalon und ans Gestade des Meeres, dorthin hat er es entboten.
 
 ### Chapter 48
 
@@ -41888,7 +41888,7 @@
 
 **[48:46]** Wehe dir, Moab! Du bist verloren, Volk des Kamos; denn weggeholt wurden deine Söhne in die Verbannung und deine Töchter in die Gefangenschaft.
 
-**[48:47]** Doch will ich das Geschick Moabs wenden am Ende der Tage, spricht der Herr. So weit das Gericht über Moab. 
+**[48:47]** Doch will ich das Geschick Moabs wenden am Ende der Tage, spricht der Herr. So weit das Gericht über Moab.
 
 ### Chapter 49
 
@@ -41968,7 +41968,7 @@
 
 **[49:38]** Ich werde meinen Richterstuhl in Elam aufstellen und König und Fürsten daraus vertilgen, spricht der Herr.
 
-**[49:39]** Aber am Ende der Tage werde ich das Geschick Elams wenden, spricht der Herr. 
+**[49:39]** Aber am Ende der Tage werde ich das Geschick Elams wenden, spricht der Herr.
 
 ### Chapter 50
 
@@ -42062,7 +42062,7 @@
 
 **[50:45]** Darum hört den Ratschluss, den der Herr über Babel beschlossen, und die Pläne, die er wider das Land der Chaldäer geplant hat: Fürwahr, weggeschleppt werden die Hirtenbuben! Fürwahr, es wird sich über sie entsetzen ihre Aue!
 
-**[50:46]** Vor dem Rufe: "Genommen ist Babel!" erbebt die Erde, ihr Schreien hört man unter den Völkern. 
+**[50:46]** Vor dem Rufe: "Genommen ist Babel!" erbebt die Erde, ihr Schreien hört man unter den Völkern.
 
 ### Chapter 51
 
@@ -42192,7 +42192,7 @@
 
 **[51:63]** Wenn du dann dieses Buch fertig verlesen hast, so binde einen Stein daran und wirf es mitten in den Euphrat
 
-**[51:64]** und sprich: "So wird Babel versinken und nicht wieder emporkommen ob des Unglücks, mit dem ich es heimsuchen werde." (1) im hebrT. folgen hier noch die Worte: "sich abmühten; so weit die Worte Jeremias". 
+**[51:64]** und sprich: "So wird Babel versinken und nicht wieder emporkommen ob des Unglücks, mit dem ich es heimsuchen werde." (1) im hebrT. folgen hier noch die Worte: "sich abmühten; so weit die Worte Jeremias".
 
 ### Chapter 52
 
@@ -42262,7 +42262,7 @@
 
 **[52:33]** Er durfte seine Gefängniskleider ablegen und beständig an der königlichen Tafel essen sein ganzes Leben lang.
 
-**[52:34]** Und sein Unterhalt, der ständige Unterhalt, wurde ihm vom König von Babel gewährt Tag für Tag, soviel er bedurfte, bis zum Tage seines Todes sein ganzes Leben lang.  
+**[52:34]** Und sein Unterhalt, der ständige Unterhalt, wurde ihm vom König von Babel gewährt Tag für Tag, soviel er bedurfte, bis zum Tage seines Todes sein ganzes Leben lang.
 
 ## Lamentations
 
@@ -42310,7 +42310,7 @@
 
 **[1:21]** Höre doch, wie ich seufze, ohne dass einer mich tröstet! / All meine Feinde kennen mein Unglück, sie freuen sich, dass du es getan, / dass du den Tag herbeigeführt, den du ausgerufen um all meiner Sünden willen. /
 
-**[1:22]** All ihre Bosheit komme vor dein Angesicht! Sie mögen mir gleich werden! / Wie du mir getan hast, so tue auch ihnen! / Denn meiner Seufzer sind viel, und mein Herz ist krank." (a) Jer 8:18 
+**[1:22]** All ihre Bosheit komme vor dein Angesicht! Sie mögen mir gleich werden! / Wie du mir getan hast, so tue auch ihnen! / Denn meiner Seufzer sind viel, und mein Herz ist krank." (a) Jer 8:18
 
 ### Chapter 2
 
@@ -42356,7 +42356,7 @@
 
 **[2:21]** Hingestreckt auf den Strassen liegen Knabe und Greis, / meine Jungfrauen und Jünglinge sind durch das Schwert gefallen; / du hast sie gemordet am Tag deines Zorns, erbarmungslos sie geschlachtet. /
 
-**[2:22]** Du beriefst sie wie am Festtag aus meinen Weilern ringsum; / doch am Tage des Zornes des Herrn ist keiner entronnen, entkommen. / Die ich gehätschelt und grossgezogen, mein Feind hat sie vertilgt. 
+**[2:22]** Du beriefst sie wie am Festtag aus meinen Weilern ringsum; / doch am Tage des Zornes des Herrn ist keiner entronnen, entkommen. / Die ich gehätschelt und grossgezogen, mein Feind hat sie vertilgt.
 
 ### Chapter 3
 
@@ -42490,7 +42490,7 @@
 
 **[3:65]** du wirst ihre Herzen verblenden. Dein Fluch treffe sie! /
 
-**[3:66]** Du wirst sie verfolgen mit Grimm, sie vertilgen unter deinem Himmel. 
+**[3:66]** Du wirst sie verfolgen mit Grimm, sie vertilgen unter deinem Himmel.
 
 ### Chapter 4
 
@@ -42536,7 +42536,7 @@
 
 **[4:21]** Freue dich nur und frohlocke, Tochter Edom, die du wohnst im Lande Uz! / Auch an dich wird der Kelch kommen; du wirst trunken werden und dich entblössen. / (a) Jer 25:15 21; 49:12
 
-**[4:22]** Deine Schuld ist getilgt, Tochter Zion; er wird dich nicht mehr in die Verbannung führen. / Deine Schuld, Tochter Edom, sucht er heim, deckt auf deine Sünden. (a) Jes 40:2 
+**[4:22]** Deine Schuld ist getilgt, Tochter Zion; er wird dich nicht mehr in die Verbannung führen. / Deine Schuld, Tochter Edom, sucht er heim, deckt auf deine Sünden. (a) Jes 40:2
 
 ### Chapter 5
 
@@ -42582,7 +42582,7 @@
 
 **[5:21]** Führe uns zu dir zurück, o Herr, auf dass wir wiederkehren! / Erneuere unsre Tage wie vor alters! / (a) Jer 17:14; 31:18
 
-**[5:22]** Oder hast du uns gänzlich verworfen, zürnest uns gar so sehr?  
+**[5:22]** Oder hast du uns gänzlich verworfen, zürnest uns gar so sehr?
 
 ## Ezekiel
 
@@ -42610,7 +42610,7 @@
 
 **[1:11]** Und ihre Flügel waren nach oben hin ausgespannt bei allen vieren; bei einem jeden berührten sich zwei Flügel mit denen der andern, während zweie ihre Leiber bedeckten.
 
-**[1:12]** Ein jedes ging gerade vor sich hin; wohin sie der Geist zu gehen trieb, dahin gingen sie, ohne sich im Gehen zu wenden. 
+**[1:12]** Ein jedes ging gerade vor sich hin; wohin sie der Geist zu gehen trieb, dahin gingen sie, ohne sich im Gehen zu wenden.
 
 **[1:13]** Und zwischen den lebenden Wesen war es anzusehen, wie wenn feurige Kohlen brennten; es war anzusehen, als würden Fackeln zwischen den lebenden Wesen hin und her fahren, und das Feuer hatte einen strahlenden Glanz, und aus dem Feuer fuhren Blitze.
 
@@ -42664,7 +42664,7 @@
 
 **[2:9]** Und ich sah, wie eine Hand gegen mich ausgestreckt war, und siehe, sie hielt eine Schriftrolle.
 
-**[2:10]** Und er breitete sie vor mir aus, und sie war auf der Vorderseite und auf der Rückseite beschrieben, und es waren darauf geschrieben Klage und Ach und Wehe. 
+**[2:10]** Und er breitete sie vor mir aus, und sie war auf der Vorderseite und auf der Rückseite beschrieben, und es waren darauf geschrieben Klage und Ach und Wehe.
 
 ### Chapter 3
 
@@ -42720,7 +42720,7 @@
 
 **[3:26]** Und ich werde dir die Zunge am Gaumen kleben lassen, dass du stumm bleibest und ihnen nicht ein Strafprediger seiest. Denn sie sind ein widerspenstiges Geschlecht.
 
-**[3:27]** Aber wenn ich mit dir rede, dann will ich deinen Mund auftun, und du sollst zu ihnen sagen: "So spricht Gott der Herr!" Wer dann hören will, der höre, und wer es lassen will, der lasse es! Denn sie sind ein widerspenstiges Geschlecht. (a) Hes 2:5 7 
+**[3:27]** Aber wenn ich mit dir rede, dann will ich deinen Mund auftun, und du sollst zu ihnen sagen: "So spricht Gott der Herr!" Wer dann hören will, der höre, und wer es lassen will, der lasse es! Denn sie sind ein widerspenstiges Geschlecht. (a) Hes 2:5 7
 
 ### Chapter 4
 
@@ -42756,7 +42756,7 @@
 
 **[4:16]** Dann sprach er zu mir: Menschensohn, siehe, ich will in Jerusalem die Stütze des Brotes zerbrechen - sie sollen ihr Brot abgewogen essen und in Bekümmernis, und ihr Wasser abgemessen trinken und mit Entsetzen -, (a) Hes 5:16; 3Mo 26:26
 
-**[4:17]** damit sie an Brot und Wasser Mangel leiden und sich entsetzen, einer wie der andre, und um ihrer Schuld willen dahinschwinden. 
+**[4:17]** damit sie an Brot und Wasser Mangel leiden und sich entsetzen, einer wie der andre, und um ihrer Schuld willen dahinschwinden.
 
 ### Chapter 5
 
@@ -42792,7 +42792,7 @@
 
 **[5:16]** wenn ich die bösen Pfeile des Hungers gegen dich abschiesse, damit sie Verderben bringen - ich werde sie abschiessen, euch zu verderben -, wenn ich dann immer stärkern Hunger über dich bringe und dir die Stütze des Brotes zerbreche, (a) Hes 4:16
 
-**[5:17]** wenn ich Hunger und wilde Tiere wider dich loslasse, damit sie dich der Kinder berauben, wenn Pest und Mord durch dich hinschreiten und ich das Schwert über dich bringe. Ich, der Herr, habe es geredet. (a) Hes 14:21; 3Mo 26:22 
+**[5:17]** wenn ich Hunger und wilde Tiere wider dich loslasse, damit sie dich der Kinder berauben, wenn Pest und Mord durch dich hinschreiten und ich das Schwert über dich bringe. Ich, der Herr, habe es geredet. (a) Hes 14:21; 3Mo 26:22
 
 ### Chapter 6
 
@@ -42822,7 +42822,7 @@
 
 **[6:13]** Alsdann werden sie erkennen, dass ich der Herr bin, wenn ihre Erschlagenen inmitten ihrer Götzen um ihre Altäre her liegen, auf jedem hohen Hügel, auf allen Gipfeln der Berge, unter jedem grünen Baum und jeder dichtbelaubten Terebinthe, dort, wo sie all ihren Götzen lieblich duftende Opfer darbrachten. (a) 1Kön 14:23
 
-**[6:14]** Und ich will meine Hand wider sie ausrecken und das Land zur Wüste und Einöde machen von der Steppe (Judas) an bis nach Ribla in all ihren Wohnsitzen, damit sie erkennen, dass ich der Herr bin. 
+**[6:14]** Und ich will meine Hand wider sie ausrecken und das Land zur Wüste und Einöde machen von der Steppe (Judas) an bis nach Ribla in all ihren Wohnsitzen, damit sie erkennen, dass ich der Herr bin.
 
 ### Chapter 7
 
@@ -42878,7 +42878,7 @@
 
 **[7:26]** Schlag kommt auf Schlag, und Schreckenskunde auf Schreckenskunde. Da werden sie beim Propheten (umsonst) Offenbarung suchen; und beim Priester wird keine Belehrung und bei den Ältesten kein Rat mehr sein.
 
-**[7:27]** Der König wird in Trauer sein, der Fürst in Entsetzen sich kleiden, und die Hände des gemeinen Volks werden starr vor Schrecken. Nach ihrem Wandel will ich ihnen tun und über sie urteilen nach ihren eignen Urteilen: sie sollen erkennen, dass ich der Herr bin. 
+**[7:27]** Der König wird in Trauer sein, der Fürst in Entsetzen sich kleiden, und die Hände des gemeinen Volks werden starr vor Schrecken. Nach ihrem Wandel will ich ihnen tun und über sie urteilen nach ihren eignen Urteilen: sie sollen erkennen, dass ich der Herr bin.
 
 ### Chapter 8
 
@@ -42916,7 +42916,7 @@
 
 **[8:17]** Da sprach er zu mir: Menschensohn, hast du's gesehen? Ist es dem Hause Juda nicht genug, diese Greuel zu tun, die sie hier verüben, dass sie das Land mit Gewalttat erfüllt und mich wieder zum Zorn gereizt haben? Siehe, sie halten sich grüne Zweige an die Nase.
 
-**[8:18]** So will denn auch ich in Zornglut handeln: mein Auge soll nicht gütig blicken, und ich will mich nicht erbarmen! Und wenn sie mir gleich mit lauter Stimme in die Ohren schreien, so werde ich sie doch nicht erhören. (a) Jes 1:15 
+**[8:18]** So will denn auch ich in Zornglut handeln: mein Auge soll nicht gütig blicken, und ich will mich nicht erbarmen! Und wenn sie mir gleich mit lauter Stimme in die Ohren schreien, so werde ich sie doch nicht erhören. (a) Jes 1:15
 
 ### Chapter 9
 
@@ -42940,7 +42940,7 @@
 
 **[9:10]** So soll denn auch mein Auge nicht gütig blicken, und ich will mich nicht erbarmen; ihren Wandel bringe ich über ihr Haupt. (a) Hes 5:11; 8:18
 
-**[9:11]** Und siehe, der Mann, der in Linnen gekleidet war und das Schreibzeug an der Seite hatte, erstattete Bericht: Ich habe getan, wie du mir befohlen hast. 
+**[9:11]** Und siehe, der Mann, der in Linnen gekleidet war und das Schreibzeug an der Seite hatte, erstattete Bericht: Ich habe getan, wie du mir befohlen hast.
 
 ### Chapter 10
 
@@ -42986,7 +42986,7 @@
 
 **[10:21]** Ein jeder hatte vier Gesichter und ein jeder vier Flügel, und unter ihren Flügeln war etwas wie Menschenhände.
 
-**[10:22]** Ihre Gesichter aber waren gerade so beschaffen wie die Gesichter, die ich am Flusse Chebar gesehen hatte; und sie gingen ein jeder gerade vor sich hin. 
+**[10:22]** Ihre Gesichter aber waren gerade so beschaffen wie die Gesichter, die ich am Flusse Chebar gesehen hatte; und sie gingen ein jeder gerade vor sich hin.
 
 ### Chapter 11
 
@@ -43038,7 +43038,7 @@
 
 **[11:24]** Mich aber hob der Geist empor und brachte mich in einem göttlichen Gesichte wieder zu den Verbannten nach Chaldäa. Dann hob sich das Gesicht, das ich gesehen hatte, von mir hinweg. (1) vgl. Anm. zu Hes 3:12.
 
-**[11:25]** Und ich erzählte den Verbannten alles, was mich der Herr im Gesichte hatte erleben lassen. 
+**[11:25]** Und ich erzählte den Verbannten alles, was mich der Herr im Gesichte hatte erleben lassen.
 
 ### Chapter 12
 
@@ -43096,7 +43096,7 @@
 
 **[12:27]** Menschensohn, siehe, das Haus Israel spricht: "Das Gesicht, das der da schaut, geht auf viel spätere Tage, und von fernen Zeiten weissagt er."
 
-**[12:28]** Darum sprich zu ihnen: So spricht Gott der Herr: Alle meine Worte werden sich nicht mehr hinausziehen. Was ich rede, das wird geschehen, spricht Gott der Herr. 
+**[12:28]** Darum sprich zu ihnen: So spricht Gott der Herr: Alle meine Worte werden sich nicht mehr hinausziehen. Was ich rede, das wird geschehen, spricht Gott der Herr.
 
 ### Chapter 13
 
@@ -43144,7 +43144,7 @@
 
 **[13:22]** Weil ihr das Herz des Gerechten fälschlich verzagt macht, dem ich nicht wehe tun wollte, dagegen die Hände des Gottlosen stärkt, damit er von seinem bösen Wege nicht umkehre, sodass ich ihn am Leben erhielte, (a) Jer 23:14
 
-**[13:23]** darum sollt ihr nicht mehr Trug schauen und nicht mehr Wahrsagerei treiben; ich will mein Volk aus euren Händen erretten, und ihr sollt erkennen, dass ich der Herr bin. 
+**[13:23]** darum sollt ihr nicht mehr Trug schauen und nicht mehr Wahrsagerei treiben; ich will mein Volk aus euren Händen erretten, und ihr sollt erkennen, dass ich der Herr bin.
 
 ### Chapter 14
 
@@ -43192,7 +43192,7 @@
 
 **[14:22]** wahrlich, es bleiben darin Gerettete übrig, die Söhne und Töchter herausführen. Wenn diese dann zu euch herauskommen und ihr ihren Wandel und ihr Tun seht, so werdet ihr euch trösten über das Unheil, das ich über Jerusalem gebracht habe, ja über alles, was ich über die Stadt gebracht habe.
 
-**[14:23]** Sie werden euch trösten; denn ihr werdet ihren Wandel und ihr Tun sehen und werdet erkennen, dass ich alles, was ich an Jerusalem getan, nicht ohne Ursache getan habe, spricht Gott der Herr. 
+**[14:23]** Sie werden euch trösten; denn ihr werdet ihren Wandel und ihr Tun sehen und werdet erkennen, dass ich alles, was ich an Jerusalem getan, nicht ohne Ursache getan habe, spricht Gott der Herr.
 
 ### Chapter 15
 
@@ -43210,7 +43210,7 @@
 
 **[15:7]** Ich richte mein Angesicht wider sie: aus dem Feuer sind sie herausgekommen, und das Feuer wird sie verzehren, damit ihr erkennet, dass ich der Herr bin, wenn ich mein Angesicht wider sie richte
 
-**[15:8]** und das Land zur Wüstenei mache, weil sie die Treue gebrochen haben, spricht Gott der Herr. 
+**[15:8]** und das Land zur Wüstenei mache, weil sie die Treue gebrochen haben, spricht Gott der Herr.
 
 ### Chapter 16
 
@@ -43338,7 +43338,7 @@
 
 **[16:62]** Ich will meinen Bund mit dir aufrichten, und du sollst erkennen, dass ich der Herr bin,
 
-**[16:63]** damit du daran denkest und dich schämest und vor Scham den Mund nicht mehr auftuest, wenn ich dir alles vergebe, was du getan hast, spricht Gott der Herr. 
+**[16:63]** damit du daran denkest und dich schämest und vor Scham den Mund nicht mehr auftuest, wenn ich dir alles vergebe, was du getan hast, spricht Gott der Herr.
 
 ### Chapter 17
 
@@ -43388,7 +43388,7 @@
 
 **[17:23]** auf dem hohen Berge Israels will ich es pflanzen. Und es wird Zweige treiben und Frucht tragen und zu einer herrlichen Zeder werden. Allerlei Getier wird unter ihr lagern, und allerlei Vögel werden im Schatten ihrer Zweige wohnen.
 
-**[17:24]** Dann werden alle Bäume des Feldes erkennen, dass ich, der Herr, den hohen Baum erniedrigt und den niedrigen Baum erhöht habe, dass ich den grünen Baum dürre gemacht und den dürren Baum zum Blühen gebracht habe. Ich, der Herr, habe es geredet und habe es vollbracht. (a) Hes 21:31; 22:14; 24:14; 36:36 
+**[17:24]** Dann werden alle Bäume des Feldes erkennen, dass ich, der Herr, den hohen Baum erniedrigt und den niedrigen Baum erhöht habe, dass ich den grünen Baum dürre gemacht und den dürren Baum zum Blühen gebracht habe. Ich, der Herr, habe es geredet und habe es vollbracht. (a) Hes 21:31; 22:14; 24:14; 36:36
 
 ### Chapter 18
 
@@ -43454,7 +43454,7 @@
 
 **[18:31]** Werfet von euch all die Missetaten, die ihr gegen mich begangen habt, und schaffet euch ein neues Herz und einen neuen Geist! Warum wollt ihr denn sterben, Haus Israel? (a) Hes 11:19; 33:11; 36:26
 
-**[18:32]** Habe ich doch kein Wohlgefallen am Tode dessen, der sterben muss, spricht Gott der Herr. So bekehret euch denn, auf dass ihr lebet! 
+**[18:32]** Habe ich doch kein Wohlgefallen am Tode dessen, der sterben muss, spricht Gott der Herr. So bekehret euch denn, auf dass ihr lebet!
 
 ### Chapter 19
 
@@ -43484,7 +43484,7 @@
 
 **[19:13]** Und jetzt ist sie in die Wüste gepflanzt, in dürres, durstiges Land.
 
-**[19:14]** Und Feuer ging aus von dem Aste, das frass ihre Ranken; es blieb an ihr kein mächtiger Ast mehr, kein Stab zum Herrschen. - Ein Klagelied ist dies, ein Klagelied ist es geworden. 
+**[19:14]** Und Feuer ging aus von dem Aste, das frass ihre Ranken; es blieb an ihr kein mächtiger Ast mehr, kein Stab zum Herrschen. - Ein Klagelied ist dies, ein Klagelied ist es geworden.
 
 ### Chapter 20
 
@@ -43574,7 +43574,7 @@
 
 **[20:43]** Dort werdet ihr eures Wandels gedenken und all der Taten, mit denen ihr euch verunreinigt habt, und ihr werdet euch selbst zum Abscheu werden ob all der bösen Taten, die ihr begangen habt. (a) Hes 6:9
 
-**[20:44]** Dann werdet ihr erkennen, dass ich der Herr bin, wenn ich so an euch handeln werde um meines Namens willen, nicht nach eurem bösen Wandel und nach euren verruchten Taten, Haus Israel, spricht Gott der Herr. 
+**[20:44]** Dann werdet ihr erkennen, dass ich der Herr bin, wenn ich so an euch handeln werde um meines Namens willen, nicht nach eurem bösen Wandel und nach euren verruchten Taten, Haus Israel, spricht Gott der Herr.
 
 **[20:45]** 
 
@@ -43650,7 +43650,7 @@
 
 **[21:31]** so spricht Gott der Herr: Den Kopfbund ab, und weg die Krone! nichts bleibt, wie es ist! Empor das Niedrige, und herunter das Hohe! (a) Hes 17:24
 
-**[21:32]** Trümmer, Trümmer, Trümmer will ich aus der Stadt machen! Wehe ihr! so soll sie bleiben, bis der kommt, dem das Recht zusteht und dem ich sie übergebe. Du aber, Menschensohn, weissage und sprich: So spricht Gott der Herr von den Ammonitern und ihrem Höhnen. Sprich: Ein Schwert, ein Schwert ist gezückt zum Morden, blankgefegt, dass es blitzt - während man dir Truggesichte verkündete, dir Lügen wahrsagte -, um an den Hals der Frevelentweihten gelegt zu werden, deren Tag kommt zur Zeit der Endstrafe. Kehre um, verweile nicht! An dem Orte, wo du erschaffen wurdest, im Lande deines Ursprungs, will ich dich richten. Und ich will meinen Grimm über dich ausschütten, das Feuer meines Zornes wider dich anfachen und dich rohen Menschen ausliefern, welche Verderben schmieden. Dem Feuer sollst du zum Frasse werden, dein Blut soll tief von der Erde bedeckt sein, man wird deiner nicht mehr gedenken; denn ich, der Herr, habe es geredet. 
+**[21:32]** Trümmer, Trümmer, Trümmer will ich aus der Stadt machen! Wehe ihr! so soll sie bleiben, bis der kommt, dem das Recht zusteht und dem ich sie übergebe. Du aber, Menschensohn, weissage und sprich: So spricht Gott der Herr von den Ammonitern und ihrem Höhnen. Sprich: Ein Schwert, ein Schwert ist gezückt zum Morden, blankgefegt, dass es blitzt - während man dir Truggesichte verkündete, dir Lügen wahrsagte -, um an den Hals der Frevelentweihten gelegt zu werden, deren Tag kommt zur Zeit der Endstrafe. Kehre um, verweile nicht! An dem Orte, wo du erschaffen wurdest, im Lande deines Ursprungs, will ich dich richten. Und ich will meinen Grimm über dich ausschütten, das Feuer meines Zornes wider dich anfachen und dich rohen Menschen ausliefern, welche Verderben schmieden. Dem Feuer sollst du zum Frasse werden, dein Blut soll tief von der Erde bedeckt sein, man wird deiner nicht mehr gedenken; denn ich, der Herr, habe es geredet.
 
 ### Chapter 22
 
@@ -43714,7 +43714,7 @@
 
 **[22:30]** Und ich suchte unter ihnen einen, der eine Mauer baute oder vor mir für das Land in die Bresche träte, dass ich es nicht verderbte; aber ich fand keinen. (a) Hes 13:5
 
-**[22:31]** Da schüttete ich meinen Zorn aus über sie, vertilgte sie durch das Feuer meines Grimms; ich liess ihren Wandel auf ihr Haupt kommen, spricht Gott der Herr. (a) Hes 9:10; 11:21; 16:43 
+**[22:31]** Da schüttete ich meinen Zorn aus über sie, vertilgte sie durch das Feuer meines Grimms; ich liess ihren Wandel auf ihr Haupt kommen, spricht Gott der Herr. (a) Hes 9:10; 11:21; 16:43
 
 ### Chapter 23
 
@@ -43814,7 +43814,7 @@
 
 **[23:48]** So will ich der Unzucht im Lande ein Ende machen, damit alle Weiber sich warnen lassen und nicht Unzucht treiben wie sie.
 
-**[23:49]** Man wird euch (die Strafe für) eure Unzucht auflegen, und die Versündigung mit euren Götzen werdet ihr tragen müssen, damit ihr erkennet, dass ich Gott der Herr bin. 
+**[23:49]** Man wird euch (die Strafe für) eure Unzucht auflegen, und die Versündigung mit euren Götzen werdet ihr tragen müssen, damit ihr erkennet, dass ich Gott der Herr bin.
 
 ### Chapter 24
 
@@ -43870,7 +43870,7 @@
 
 **[24:26]** an jenem Tage wird ein Entronnener zu dir kommen, es dir zu melden. (a) Hes 33:21
 
-**[24:27]** An jenem Tage, wenn der Entronnene kommt, wird dir der Mund aufgetan werden, und du wirst reden und nicht mehr stumm sein; und du wirst ihnen zum Zeichen werden, und sie werden erkennen, dass ich der Herr bin. 
+**[24:27]** An jenem Tage, wenn der Entronnene kommt, wird dir der Mund aufgetan werden, und du wirst reden und nicht mehr stumm sein; und du wirst ihnen zum Zeichen werden, und sie werden erkennen, dass ich der Herr bin.
 
 ### Chapter 25
 
@@ -43906,7 +43906,7 @@
 
 **[25:16]** darum will ich, spricht Gott der Herr, nun meine Hand wider die Philister ausrecken und die Kreter ausrotten und den Überrest am Gestade des Meeres umkommen lassen.
 
-**[25:17]** Ich will grosse Rachetaten an ihnen vollführen mit grimmigen Züchtigungen, damit sie erkennen, dass ich der Herr bin, wenn ich meine Rache an ihnen vollstrecke. 
+**[25:17]** Ich will grosse Rachetaten an ihnen vollführen mit grimmigen Züchtigungen, damit sie erkennen, dass ich der Herr bin, wenn ich meine Rache an ihnen vollstrecke.
 
 ### Chapter 26
 
@@ -43950,7 +43950,7 @@
 
 **[26:20]** so stosse ich dich hinab zu denen, die zur Grube gefahren, zu dem Volke der Vorzeit, und lasse dich wohnen im unterirdischen Land gleich uralten Trümmern, bei denen, die zur Grube gefahren, auf dass du nicht mehr bewohnt werdest und nicht mehr erstehest im Lande der Lebenden.
 
-**[26:21]** Ein jähes Ende will ich dir machen, dass du nicht mehr seiest. Man wird dich suchen und wird dich nimmermehr finden, spricht Gott der Herr. 
+**[26:21]** Ein jähes Ende will ich dir machen, dass du nicht mehr seiest. Man wird dich suchen und wird dich nimmermehr finden, spricht Gott der Herr.
 
 ### Chapter 27
 
@@ -44024,7 +44024,7 @@
 
 **[27:35]** Alle Bewohner der Meeresgestade sind entsetzt ob deines Geschicks, und all ihre Könige schaudern; verstört ist ihr Antlitz.
 
-**[27:36]** Die Handel treiben unter den Völkern, zischen dich aus; jähem Ende bist du verfallen, bist dahin auf immer!" 
+**[27:36]** Die Handel treiben unter den Völkern, zischen dich aus; jähem Ende bist du verfallen, bist dahin auf immer!"
 
 ### Chapter 28
 
@@ -44078,7 +44078,7 @@
 
 **[28:25]** So spricht Gott der Herr: Wenn ich die vom Hause Israel aus den Völkern, unter die sie zerstreut worden sind, wieder sammle, dann will ich mich an ihnen als den Heiligen erweisen vor den Augen der Heiden, und sie sollen in ihrem Lande wohnen, das ich meinem Knechte Jakob gegeben habe.
 
-**[28:26]** In Sicherheit werden sie darin wohnen, werden Häuser bauen und Weinberge pflanzen, ja, in Sicherheit werden sie wohnen, während ich Gerichte vollstrecke an all ihren Nachbarn, die sie verachten; und alsdann werden sie erkennen, dass ich, der Herr, ihr Gott bin. 
+**[28:26]** In Sicherheit werden sie darin wohnen, werden Häuser bauen und Weinberge pflanzen, ja, in Sicherheit werden sie wohnen, während ich Gerichte vollstrecke an all ihren Nachbarn, die sie verachten; und alsdann werden sie erkennen, dass ich, der Herr, ihr Gott bin.
 
 ### Chapter 29
 
@@ -44122,7 +44122,7 @@
 
 **[29:20]** Als Entgelt, um das er gearbeitet hat, gebe ich ihm das Land Ägypten, spricht Gott der Herr.
 
-**[29:21]** An jenem Tage will ich dem Hause Israel ein Horn wachsen lassen und dir den Mund wieder auftun in ihrer Mitte, damit sie erkennen, dass ich der Herr bin. (1) vgl. Anm. zu 1Sa 2:1. (a) Ps 132:17 
+**[29:21]** An jenem Tage will ich dem Hause Israel ein Horn wachsen lassen und dir den Mund wieder auftun in ihrer Mitte, damit sie erkennen, dass ich der Herr bin. (1) vgl. Anm. zu 1Sa 2:1. (a) Ps 132:17
 
 ### Chapter 30
 
@@ -44176,7 +44176,7 @@
 
 **[30:25]** Ja, die Arme des Königs von Babel werde ich stärken, dem Pharao aber werden die Arme herabsinken. Dann werden sie erkennen, dass ich der Herr bin, wenn ich dem König von Babel mein Schwert in die Hand gebe, dass er es recke wider das Land Ägypten.
 
-**[30:26]** Und ich werde die Ägypter unter die Völker versprengen und über die Länder zerstreuen, damit sie erkennen, dass ich der Herr bin. 
+**[30:26]** Und ich werde die Ägypter unter die Völker versprengen und über die Länder zerstreuen, damit sie erkennen, dass ich der Herr bin.
 
 ### Chapter 31
 
@@ -44214,7 +44214,7 @@
 
 **[31:17]** Auch sie fuhren mit ihm hinab ins Totenreich zu den vom Schwerte Erschlagenen, das Geschlecht derer, die in seinem Schatten gewohnt inmitten der Völker.
 
-**[31:18]** Wem warst du gleich an Herrlichkeit und an Grösse unter den Edenbäumen? - Mit den Edenbäumen wirst du hinabgestossen ins unterirdische Land, inmitten von Unbeschnittenen wirst du liegen bei den vom Schwerte Erschlagenen. Das ist der Pharao und all seine Menge, spricht Gott der Herr. (a) Hes 28:10 
+**[31:18]** Wem warst du gleich an Herrlichkeit und an Grösse unter den Edenbäumen? - Mit den Edenbäumen wirst du hinabgestossen ins unterirdische Land, inmitten von Unbeschnittenen wirst du liegen bei den vom Schwerte Erschlagenen. Das ist der Pharao und all seine Menge, spricht Gott der Herr. (a) Hes 28:10
 
 ### Chapter 32
 
@@ -44280,7 +44280,7 @@
 
 **[32:31]** Wenn dann der Pharao diese sieht, wird er sich trösten ob (des Geschicks) all seiner Menge. Vom Schwerte Erschlagene sind der Pharao und all seine Heeresmacht, spricht Gott der Herr.
 
-**[32:32]** Denn er hat Schrecken verbreitet im Lande der Lebenden, und so wird der Pharao und seine ganze Menge gebettet werden inmitten von Unbeschnittenen bei den vom Schwerte Erschlagenen, spricht Gott der Herr. 
+**[32:32]** Denn er hat Schrecken verbreitet im Lande der Lebenden, und so wird der Pharao und seine ganze Menge gebettet werden inmitten von Unbeschnittenen bei den vom Schwerte Erschlagenen, spricht Gott der Herr.
 
 ### Chapter 33
 
@@ -44348,7 +44348,7 @@
 
 **[33:32]** Und wahrlich, du bist ihnen wie ein Sänger der Liebe mit schöner Stimme und geschickt im Saitenspiel; sie hören wohl deine Worte, aber sie tun nicht darnach.
 
-**[33:33]** Wenn es dann aber kommt - und wahrlich, es kommt! - so werden sie erkennen, dass ein Prophet unter ihnen gewesen ist. 
+**[33:33]** Wenn es dann aber kommt - und wahrlich, es kommt! - so werden sie erkennen, dass ein Prophet unter ihnen gewesen ist.
 
 ### Chapter 34
 
@@ -44412,7 +44412,7 @@
 
 **[34:30]** Dann werden sie erkennen, dass ich, der Herr, ihr Gott bin und dass sie, das Haus Israel, mein Volk sind, spricht Gott der Herr.
 
-**[34:31]** Meine Schafe, die Schafe meiner Weide seid ihr, und ich, der Herr, bin euer Gott, spricht Gott der Herr. 
+**[34:31]** Meine Schafe, die Schafe meiner Weide seid ihr, und ich, der Herr, bin euer Gott, spricht Gott der Herr.
 
 ### Chapter 35
 
@@ -44444,7 +44444,7 @@
 
 **[35:14]** So spricht Gott der Herr:
 
-**[35:15]** Wie du dich freutest über das Erbe des Hauses Israel, weil es verödet ward, so will ich dir tun: zur Einöde sollst du werden, Gebirge Seir, und du, Edom, insgesamt, damit du erkennest, dass ich der Herr bin. 
+**[35:15]** Wie du dich freutest über das Erbe des Hauses Israel, weil es verödet ward, so will ich dir tun: zur Einöde sollst du werden, Gebirge Seir, und du, Edom, insgesamt, damit du erkennest, dass ich der Herr bin.
 
 ### Chapter 36
 
@@ -44522,7 +44522,7 @@
 
 **[36:37]** So spricht Gott der Herr: Ich werde mich vom Hause Israel erbitten lassen, für sie auch das noch zu tun: ich werde sie so zahlreich machen an Menschen wie eine Schafherde.
 
-**[36:38]** Gleich den geweihten Schafen, gleich den Schafen Jerusalems an den hohen Festen, so sollen Menschenherden die verwüsteten Städte bevölkern, damit man erkenne, dass ich der Herr bin. 
+**[36:38]** Gleich den geweihten Schafen, gleich den Schafen Jerusalems an den hohen Festen, so sollen Menschenherden die verwüsteten Städte bevölkern, damit man erkenne, dass ich der Herr bin.
 
 ### Chapter 37
 
@@ -44580,7 +44580,7 @@
 
 **[37:27]** Meine Wohnung wird über ihnen ragen, und ich werde ihr Gott sein, und sie werden mein Volk sein.
 
-**[37:28]** Dann werden die Völker erkennen, dass ich der Herr bin, der Israel heilig macht, wenn mein Heiligtum in ihrer Mitte sein wird in Ewigkeit. 
+**[37:28]** Dann werden die Völker erkennen, dass ich der Herr bin, der Israel heilig macht, wenn mein Heiligtum in ihrer Mitte sein wird in Ewigkeit.
 
 ### Chapter 38
 
@@ -44628,7 +44628,7 @@
 
 **[38:22]** Ich werde mit ihm ins Gericht gehen mit Pest und mit Blutbad; flutenden Regen und Hagelsteine, Feuer und Schwefel werde ich regnen lassen auf ihn und all seine Heerscharen und auf die vielen Völker, die bei ihm sind.
 
-**[38:23]** Gross und heilig werde ich mich erweisen, werde mich kundtun vor den Augen vieler Völker, damit sie erkennen, dass ich der Herr bin. 
+**[38:23]** Gross und heilig werde ich mich erweisen, werde mich kundtun vor den Augen vieler Völker, damit sie erkennen, dass ich der Herr bin.
 
 ### Chapter 39
 
@@ -44688,7 +44688,7 @@
 
 **[39:28]** Alsdann werden sie erkennen, dass ich, der Herr, ihr Gott bin, daran dass ich sie zu den Völkern in die Verbannung geführt, sie aber nun wieder in ihrem Lande versammelt habe, ohne einen von ihnen mehr dort zu lassen.
 
-**[39:29]** Und ich werde mein Angesicht nicht mehr vor ihnen verbergen, weil ich meinen Geist über das Haus Israel ausgegossen habe, spricht Gott der Herr. (a) Hes 36:26; Joe 2:28 
+**[39:29]** Und ich werde mein Angesicht nicht mehr vor ihnen verbergen, weil ich meinen Geist über das Haus Israel ausgegossen habe, spricht Gott der Herr. (a) Hes 36:26; Joe 2:28
 
 ### Chapter 40
 
@@ -44788,7 +44788,7 @@
 
 **[40:48]** Dann führte er mich zur Vorhalle des Tempelgebäudes und mass die Pfeiler der Vorhalle: sie hatten auf beiden Seiten eine Dicke von fünf Ellen. Die Breite des Toreingangs aber betrug vierzehn Ellen und die der Seitenwände des Toreingangs je drei Ellen. (a) 1Kön 6:3
 
-**[40:49]** Die Länge der Vorhalle betrug zwanzig Ellen und die Tiefe zwölf Ellen; auf zehn Stufen stieg man hinauf, und es standen Säulen an den Pfeilern, auf jeder Seite eine. (a) 1Kön 7:21 
+**[40:49]** Die Länge der Vorhalle betrug zwanzig Ellen und die Tiefe zwölf Ellen; auf zehn Stufen stieg man hinauf, und es standen Säulen an den Pfeilern, auf jeder Seite eine. (a) 1Kön 7:21
 
 ### Chapter 41
 
@@ -44842,7 +44842,7 @@
 
 **[41:25]** Auch an ihnen waren Cherube und Palmbäume angebracht, wie sie an den Wänden angebracht waren; und aussen auf der Vorderseite der Halle war ein Schirmdach von Holz.
 
-**[41:26]** Und Cherube und Palmbäume waren hüben und drüben an den Seitenwänden der Halle... (1) die drei letzten Worte des V. sind unübersetzbar. 
+**[41:26]** Und Cherube und Palmbäume waren hüben und drüben an den Seitenwänden der Halle... (1) die drei letzten Worte des V. sind unübersetzbar.
 
 ### Chapter 42
 
@@ -44884,7 +44884,7 @@
 
 **[42:19]** Er wandte sich und mass die Westseite: fünfhundert nach der Messrute.
 
-**[42:20]** Nach allen vier Windrichtungen mass er. Und ringsherum ging eine Mauer, fünfhundert Ellen lang und fünfhundert Ellen breit, um das Heilige von dem Nichtheiligen zu scheiden. 
+**[42:20]** Nach allen vier Windrichtungen mass er. Und ringsherum ging eine Mauer, fünfhundert Ellen lang und fünfhundert Ellen breit, um das Heilige von dem Nichtheiligen zu scheiden.
 
 ### Chapter 43
 
@@ -44940,7 +44940,7 @@
 
 **[43:26]** Sieben Tage lang sollen sie den Altar entsühnen und ihn reinigen und ihn so einweihen.
 
-**[43:27]** So soll man diese Tage zu Ende führen; am achten Tage sodann und weiterhin sollen die Priester eure Brandopfer und Heilsopfer auf dem Altar darbringen, und ich werde euch gnädig annehmen, spricht Gott der Herr. 
+**[43:27]** So soll man diese Tage zu Ende führen; am achten Tage sodann und weiterhin sollen die Priester eure Brandopfer und Heilsopfer auf dem Altar darbringen, und ich werde euch gnädig annehmen, spricht Gott der Herr.
 
 ### Chapter 44
 
@@ -45004,7 +45004,7 @@
 
 **[44:30]** Auch das Beste von den Erstlingen jedweder Art und jede Weihegabe irgendwelcher Art von allen euren Weihegaben soll den Priestern gehören. Ferner sollt ihr dem Priester das Beste eurer Grütze geben, damit Segen auf euren Häusern ruhe. (a) 2Mo 23:19
 
-**[44:31]** Von irgendwelchen verendeten oder zerrissenen Tieren aber, seien es Vögel oder Vierfüssler, dürfen die Priester nicht essen. (a) 3Mo 22:8 
+**[44:31]** Von irgendwelchen verendeten oder zerrissenen Tieren aber, seien es Vögel oder Vierfüssler, dürfen die Priester nicht essen. (a) 3Mo 22:8
 
 ### Chapter 45
 
@@ -45056,7 +45056,7 @@
 
 **[45:24]** Als Speisopfer aber soll er je ein Epha auf jeden Stier und je ein Epha auf jeden Widder darbringen lassen und je ein Hin Öl auf jedes Epha.
 
-**[45:25]** Am fünfzehnten Tage des siebenten Monats an dem Fest soll er die sieben Tage hindurch das gleiche darbringen lassen: die gleichen Sündopfer, die gleichen Brandopfer und die gleichen Speisopfer und gleich viel Öl. (a) 3Mo 23:34 
+**[45:25]** Am fünfzehnten Tage des siebenten Monats an dem Fest soll er die sieben Tage hindurch das gleiche darbringen lassen: die gleichen Sündopfer, die gleichen Brandopfer und die gleichen Speisopfer und gleich viel Öl. (a) 3Mo 23:34
 
 ### Chapter 46
 
@@ -45106,7 +45106,7 @@
 
 **[46:23]** Und es ging eine Steinreihe rings um sie her, rings um alle vier, und unten an den Steinschichten waren ringsherum Kochherde angelegt.
 
-**[46:24]** Da sagte er zu mir: Das sind die Küchen, wo die Tempeldiener das Schlachtopfer des Volkes kochen sollen. 
+**[46:24]** Da sagte er zu mir: Das sind die Küchen, wo die Tempeldiener das Schlachtopfer des Volkes kochen sollen.
 
 ### Chapter 47
 
@@ -45154,7 +45154,7 @@
 
 **[47:22]** Ihr sollt es als Erbbesitz verlosen unter euch und unter die Fremden, die unter euch weilen und unter euch Söhne gezeugt haben. Sie sollen euch gelten wie eingeborne Israeliten; mit euch sollen sie inmitten der Stämme Israels ihren Erbbesitz durchs Los erhalten.
 
-**[47:23]** In dem Stamme, bei dem der Fremdling weilt, dort sollt ihr ihm seinen Erbbesitz geben, spricht Gott der Herr. 
+**[47:23]** In dem Stamme, bei dem der Fremdling weilt, dort sollt ihr ihm seinen Erbbesitz geben, spricht Gott der Herr.
 
 ### Chapter 48
 
@@ -45226,7 +45226,7 @@
 
 **[48:34]** an der Westseite, die 4 500 Ellen misst, drei Tore: das Gad-Tor, das Asser-Tor, das Naphthali-Tor.
 
-**[48:35]** Ringsherum sind es 18 000 Ellen. Und fortan soll der Name der Stadt sein: "Der Herr allhier."  
+**[48:35]** Ringsherum sind es 18 000 Ellen. Und fortan soll der Name der Stadt sein: "Der Herr allhier."
 
 ## Daniel
 
@@ -45272,7 +45272,7 @@
 
 **[1:20]** Und in allen Fragen, wo es auf Wissen und Einsicht ankam und in denen er ihren Rat einholte, fand sie der König allen Gelehrten und Beschwörern in seinem ganzen Reiche zehnfach überlegen.
 
-**[1:21]** Und Daniel blieb bis zum ersten Jahr des Königs Cyrus (am königlichen Hofe). (a) Da 6:28; Esr 1:1 
+**[1:21]** Und Daniel blieb bis zum ersten Jahr des Königs Cyrus (am königlichen Hofe). (a) Da 6:28; Esr 1:1
 
 ### Chapter 2
 
@@ -45372,7 +45372,7 @@
 
 **[2:48]** Und der König erhöhte Daniel: er gab ihm viele grosse Geschenke und machte ihn zum Herrn über die ganze Provinz Babel und zum obersten Vorsteher über alle Weisen Babels.
 
-**[2:49]** Sadrach, Mesach und Abed-Nego aber betraute der König auf Daniels Bitte mit der Verwaltung der Provinz Babel, während Daniel am Hofe des Königs blieb. 
+**[2:49]** Sadrach, Mesach und Abed-Nego aber betraute der König auf Daniels Bitte mit der Verwaltung der Provinz Babel, während Daniel am Hofe des Königs blieb.
 
 ### Chapter 3
 
@@ -45434,7 +45434,7 @@
 
 **[3:29]** So erlasse ich nun den Befehl: Wer immer - welches Volkes, welcher Nation oder Zunge er auch sei - gegen den Gott Sadrachs, Mesachs und Abed-Negos irgend etwas sagt, der wird in Stücke zerhauen, und sein Haus wird zu einem Misthaufen gemacht; denn es gibt keinen andern Gott, der so zu erretten vermöchte.
 
-**[3:30]** Und der König setzte hierauf Sadrach, Mesach und Abed-Nego wieder in ihre Würde ein in der Provinz Babel. DER König Nebukadnezar an die Völker aller Nationen und Zungen, die auf der ganzen Erde wohnen: Heil euch in Fülle! Es hat mir gefallen, die Zeichen und Wunder kundzutun, die der höchste Gott an mir getan hat. Wie sind seine Zeichen so gross und seine Wunder so gewaltig! Sein Reich ist ein ewiges Reich, und seine Herrschaft währt von Geschlecht zu Geschlecht. (a) Da 2:44; Ps 145:13 
+**[3:30]** Und der König setzte hierauf Sadrach, Mesach und Abed-Nego wieder in ihre Würde ein in der Provinz Babel. DER König Nebukadnezar an die Völker aller Nationen und Zungen, die auf der ganzen Erde wohnen: Heil euch in Fülle! Es hat mir gefallen, die Zeichen und Wunder kundzutun, die der höchste Gott an mir getan hat. Wie sind seine Zeichen so gross und seine Wunder so gewaltig! Sein Reich ist ein ewiges Reich, und seine Herrschaft währt von Geschlecht zu Geschlecht. (a) Da 2:44; Ps 145:13
 
 ### Chapter 4
 
@@ -45504,7 +45504,7 @@
 
 **[4:33]** Zu derselben Zeit kam mir mein Verstand wieder, und zum Ruhme meiner Herrschaft kehrte auch meine Majestät und mein Glanz wieder. Meine Räte und Grossen suchten mich auf, ich wurde wieder über mein Reich gesetzt, und noch grössere Macht ward mir gegeben.
 
-**[4:34]** Nun lobe und erhebe und preise ich, Nebukadnezar, den König des Himmels: All sein Tun ist Wahrheit, und sein Walten ist gerecht und die da hochmütig wandeln, die vermag er zu demütigen. 
+**[4:34]** Nun lobe und erhebe und preise ich, Nebukadnezar, den König des Himmels: All sein Tun ist Wahrheit, und sein Walten ist gerecht und die da hochmütig wandeln, die vermag er zu demütigen.
 
 **[4:35]** 
 
@@ -45574,7 +45574,7 @@
 
 **[5:30]** In derselben Nacht wurde Belsazzar, der chaldäische König, getötet, (a) Jes 47:11; Jer 51:53
 
-**[5:31]** und Darius, der Meder, empfing das Königtum im Alter von 62 Jahren. (1) die Lutherbibel hat für Kap. 5,31; 6,1-28 die Zählung 6,1-29. 
+**[5:31]** und Darius, der Meder, empfing das Königtum im Alter von 62 Jahren. (1) die Lutherbibel hat für Kap. 5,31; 6,1-28 die Zählung 6,1-29.
 
 ### Chapter 6
 
@@ -45632,7 +45632,7 @@
 
 **[6:27]** Er errettet und er befreit, er tut Zeichen und Wunder am Himmel und auf Erden, er, der Daniel aus der Gewalt der Löwen errettet hat! -
 
-**[6:28]** Und diesem Daniel erging es wohl unter der Regierung des Darius und unter der Regierung des Persers Cyrus. 
+**[6:28]** Und diesem Daniel erging es wohl unter der Regierung des Darius und unter der Regierung des Persers Cyrus.
 
 ### Chapter 7
 
@@ -45690,7 +45690,7 @@
 
 **[7:27]** Und das Reich und die Herrschaft und die Macht über alle Reiche unter dem ganzen Himmel wird dem Volk der Heiligen des Höchsten gegeben werden. Ihr Reich ist ein ewiges Reich, und alle Mächte müssen ihnen dienen und untertan sein."
 
-**[7:28]** Hier endet der Bericht. Mich, Daniel, ängstigten meine Gedanken gar sehr, und mein Antlitz verfärbte sich, und ich behielt die Sache in meinem Sinn. 
+**[7:28]** Hier endet der Bericht. Mich, Daniel, ängstigten meine Gedanken gar sehr, und mein Antlitz verfärbte sich, und ich behielt die Sache in meinem Sinn.
 
 ### Chapter 8
 
@@ -45746,7 +45746,7 @@
 
 **[8:26]** Und das Gesicht von den Abenden und Morgen, das geoffenbart worden ist, ist Wahrheit. Du aber verwahre das Gesicht; denn es geht auf eine ferne Zeit. (a) Da 12:4
 
-**[8:27]** Darauf war ich, Daniel, eine Zeitlang krank; dann aber stand ich wieder auf und besorgte des Königs Geschäfte. Und ich war bestürzt über das Gesicht und verstand es nicht. 
+**[8:27]** Darauf war ich, Daniel, eine Zeitlang krank; dann aber stand ich wieder auf und besorgte des Königs Geschäfte. Und ich war bestürzt über das Gesicht und verstand es nicht.
 
 ### Chapter 9
 
@@ -45802,7 +45802,7 @@
 
 **[9:26]** nach den 62 Wochen, wird ein Gesalbter ohne Richterspruch ausgerottet werden, und die Stadt und das Heiligtum werden vernichtet samt einem Fürsten. Dann kommt das Ende mit Verheerung, und bis zum Ende ist Krieg.
 
-**[9:27]** Und für die Masse des Volks wird der Gottesdienst eine Woche lang aufgehoben sein; die Hälfte der Woche wird Schlacht- und Speisopfer aufhören, und auf das Heilige kommt ein Greuel der Verwüstung zu stehen, bis Vertilgung und Strafgericht sich über die Verwüstung ergiesst. (1) d.h. den Altar. (a) Da 8:12 13; 11:31; 12:11; Mt 24:15 
+**[9:27]** Und für die Masse des Volks wird der Gottesdienst eine Woche lang aufgehoben sein; die Hälfte der Woche wird Schlacht- und Speisopfer aufhören, und auf das Heilige kommt ein Greuel der Verwüstung zu stehen, bis Vertilgung und Strafgericht sich über die Verwüstung ergiesst. (1) d.h. den Altar. (a) Da 8:12 13; 11:31; 12:11; Mt 24:15
 
 ### Chapter 10
 
@@ -45846,7 +45846,7 @@
 
 **[10:20]** Da sprach er: Weisst du, warum ich zu dir gekommen bin? Nun will ich zurückkehren, mit dem (Engel-)Fürsten Persiens zu kämpfen. Und sobald ich von ihm loskomme, so erscheint auch schon der (Engel-)Fürst von Griechenland,
 
-**[10:21]** (a) Doch ich will dir nun kundtun, was aufgezeichnet ist im Buche der Wahrheit: (b) und nicht einer tritt mir stark zur Seite wider jene, ausser dass Michael, euer (Engel-)Fürst, (1) V. 21 - 11,1: Versreihenfolge in Originalüs: 21b, 1, 21a. 
+**[10:21]** (a) Doch ich will dir nun kundtun, was aufgezeichnet ist im Buche der Wahrheit: (b) und nicht einer tritt mir stark zur Seite wider jene, ausser dass Michael, euer (Engel-)Fürst, (1) V. 21 - 11,1: Versreihenfolge in Originalüs: 21b, 1, 21a.
 
 ### Chapter 11
 
@@ -45938,7 +45938,7 @@
 
 **[11:44]** Aber Gerüchte aus Osten und Norden werden ihn erschrecken, und in grossem Grimm wird er ausziehen, um viele zu verderben und zu vernichten.
 
-**[11:45]** Und er wird seine Prunkgezelte zwischen dem Meer und dem Berge der heiligen Zierde aufschlagen. Da wird er sein Ende finden, und niemand wird ihm helfen. (1) d.h. dem Zion. (a) Da 7:26 
+**[11:45]** Und er wird seine Prunkgezelte zwischen dem Meer und dem Berge der heiligen Zierde aufschlagen. Da wird er sein Ende finden, und niemand wird ihm helfen. (1) d.h. dem Zion. (a) Da 7:26
 
 ### Chapter 12
 
@@ -45966,7 +45966,7 @@
 
 **[12:12]** Wohl dem, der ausharrt und 1 335 Tage erreicht!
 
-**[12:13]** Du nun gehe hin und ruhe! Du wirst zu deinem Erbteil erstehen am Ende der Tage.  
+**[12:13]** Du nun gehe hin und ruhe! Du wirst zu deinem Erbteil erstehen am Ende der Tage.
 
 ## Hosea
 
@@ -45992,7 +45992,7 @@
 
 **[1:10]** Dereinst wird die Zahl der Kinder Israel werden wie der Sand am Meere, den man nicht messen noch zählen kann; und statt dass man zu ihnen sagt: Ihr seid nicht mein Volk, wird man zu ihnen sagen: Söhne des lebendigen Gottes. (1) die Lutherbibel hat für 1,10.11; 2,1-23 die Zählung 2,1-25. (a) 1Mo 32:12
 
-**[1:11]** Dann werden sich die Kinder Juda und die Kinder Israel zusammentun und sich ein Haupt erwählen und heraufziehen aus dem Lande; denn gross ist der Tag von Jesreel. (a) Jer 3:18; Hes 37:22 
+**[1:11]** Dann werden sich die Kinder Juda und die Kinder Israel zusammentun und sich ein Haupt erwählen und heraufziehen aus dem Lande; denn gross ist der Tag von Jesreel. (a) Jer 3:18; Hes 37:22
 
 ### Chapter 2
 
@@ -46040,7 +46040,7 @@
 
 **[2:22]** und die Erde wird dem Korn und dem Wein und dem Öl willfahren, und sie werden dem Jesreel willfahren. (1) Jesreel, d.h. "Gott pflanzt", sonst Name einer fruchtbaren Ebene, wird hier als Name für Israel gebraucht.
 
-**[2:23]** Und ich will ihn mir im Lande einpflanzen und will die "Nichtbegnadet" begnaden und zum "Nicht-mein-Volk" sagen: Mein Volk bist du! und er wird sagen: Mein Gott! (a) Hos 1:6 9 
+**[2:23]** Und ich will ihn mir im Lande einpflanzen und will die "Nichtbegnadet" begnaden und zum "Nicht-mein-Volk" sagen: Mein Volk bist du! und er wird sagen: Mein Gott! (a) Hos 1:6 9
 
 ### Chapter 3
 
@@ -46052,7 +46052,7 @@
 
 **[3:4]** Denn lange Zeit werden die Kinder Israels sitzen ohne König und ohne Fürst, ohne Opfer und ohne Malstein, ohne Ephod und Theraphim. (a) 2Ch 15:3
 
-**[3:5]** Hernach werden die Kinder Israels umkehren und werden den Herrn, ihren Gott, und David, ihren König, suchen, und sie werden bebend hineilen zu dem Herrn und zu seinem Segen am Ende der Tage. (a) Jer 30:9; Hes 34:24 
+**[3:5]** Hernach werden die Kinder Israels umkehren und werden den Herrn, ihren Gott, und David, ihren König, suchen, und sie werden bebend hineilen zu dem Herrn und zu seinem Segen am Ende der Tage. (a) Jer 30:9; Hes 34:24
 
 ### Chapter 4
 
@@ -46092,7 +46092,7 @@
 
 **[4:18]** eine Rotte von Zechern. Immerfort treiben sie Unzucht, lieben die Schande mehr als den, der ihr Ruhm sein sollte.
 
-**[4:19]** Ein Sturmwind wird sie in seine Flügel wickeln, und sie werden zuschanden ob ihrer Altäre. 
+**[4:19]** Ein Sturmwind wird sie in seine Flügel wickeln, und sie werden zuschanden ob ihrer Altäre.
 
 ### Chapter 5
 
@@ -46124,7 +46124,7 @@
 
 **[5:14]** Denn ich bin wie ein Löwe gegen Ephraim und wie ein Jungleu gegen das Haus Juda: ich, ich zerreisse und gehe davon, ich trage hinweg, und niemand rettet.
 
-**[5:15]** ICH gehe weg, zurück an meinen Ort, bis sie sich entsetzen und mein Angesicht suchen; wenn sie in Not sind, werden sie nach mir fragen. 
+**[5:15]** ICH gehe weg, zurück an meinen Ort, bis sie sich entsetzen und mein Angesicht suchen; wenn sie in Not sind, werden sie nach mir fragen.
 
 ### Chapter 6
 
@@ -46148,7 +46148,7 @@
 
 **[6:10]** In Bethel habe ich schauerliche Dinge gesehen; dort hast du Unzucht getrieben, Ephraim, hat Israel sich verunreinigt. (a) Hos 5:3
 
-**[6:11]** Auch dir, Juda, ist eine Ernte bereitet, wenn ich wende meines Volkes Geschick, wenn ich Israel heile. 
+**[6:11]** Auch dir, Juda, ist eine Ernte bereitet, wenn ich wende meines Volkes Geschick, wenn ich Israel heile.
 
 ### Chapter 7
 
@@ -46182,7 +46182,7 @@
 
 **[7:15]** Ich bin's doch, der ihre Arme gestärkt hat; aber sie sinnen Arges wider mich.
 
-**[7:16]** Sie wenden sich dem Baal zu, sind geworden wie ein trügerischer Bogen. Ihre Fürsten sollen fallen durch das Schwert wegen des Grimms ihrer Zunge, die meiner gespottet im Lande Ägypten. (a) Ps 78:57 
+**[7:16]** Sie wenden sich dem Baal zu, sind geworden wie ein trügerischer Bogen. Ihre Fürsten sollen fallen durch das Schwert wegen des Grimms ihrer Zunge, die meiner gespottet im Lande Ägypten. (a) Ps 78:57
 
 ### Chapter 8
 
@@ -46212,7 +46212,7 @@
 
 **[8:13]** Schlachtopfer lieben sie und opfern - Fleisch (lieben sie) und essen es; doch der Herr hat kein Gefallen an ihnen. Jetzt wird er ihrer Verschuldung gedenken und ihre Sünden heimsuchen; sie müssen zurück nach Ägypten. (a) Hos 6:6; 9:3 6; 11:5
 
-**[8:14]** Israel hat seines Schöpfers vergessen und sich Tempel gebaut, und Juda hat viele feste Städte gemacht. So will ich denn Feuer senden in seine Städte; das soll ihre Paläste verzehren. (a) Jer 2:32; Am 2:5 
+**[8:14]** Israel hat seines Schöpfers vergessen und sich Tempel gebaut, und Juda hat viele feste Städte gemacht. So will ich denn Feuer senden in seine Städte; das soll ihre Paläste verzehren. (a) Jer 2:32; Am 2:5
 
 ### Chapter 9
 
@@ -46248,7 +46248,7 @@
 
 **[9:16]** (a) Getroffen ist Ephraim, seine Wurzel verdorrt; Frucht werden sie nicht tragen. (b) Auch wenn sie Kinder bekommen, so töte ich die Lieblinge aus ihrem Schosse.
 
-**[9:17]** Mein Gott wird sie verwerfen, weil sie nicht auf ihn gehört: unstet müssen sie irren unter den Völkern. 
+**[9:17]** Mein Gott wird sie verwerfen, weil sie nicht auf ihn gehört: unstet müssen sie irren unter den Völkern.
 
 ### Chapter 10
 
@@ -46280,7 +46280,7 @@
 
 **[10:14]** darum wird sich Kriegsgetümmel in deinen Städten erheben, und alle deine Festen werden verwüstet werden, wie Salman zur Zeit des Krieges Beth-Arbel verwüstete: die Mutter wurde mitsamt den Kindern zerschmettert.
 
-**[10:15]** Ebenso werde ich euch tun, Haus Israel, um eurer grossen Bosheit willen. Mit dem Morgenrot ist dahingerafft der König von Israel. 
+**[10:15]** Ebenso werde ich euch tun, Haus Israel, um eurer grossen Bosheit willen. Mit dem Morgenrot ist dahingerafft der König von Israel.
 
 ### Chapter 11
 
@@ -46304,7 +46304,7 @@
 
 **[11:10]** Dem Herrn werden sie folgen, wenn er brüllt wie ein Löwe. Ja, er wird brüllen, und die Kinder eilen zitternd herzu vom Meer her,
 
-**[11:11]** wie Vögel eilen sie zitternd herzu aus Ägypten, wie Tauben aus dem Lande Assyrien; und ich will sie zurückbringen zu ihren Häusern, spricht der Herr. 
+**[11:11]** wie Vögel eilen sie zitternd herzu aus Ägypten, wie Tauben aus dem Lande Assyrien; und ich will sie zurückbringen zu ihren Häusern, spricht der Herr.
 
 **[11:12]** 
 
@@ -46336,7 +46336,7 @@
 
 **[12:13]** Jakob floh nach dem Gefilde Arams, und Israel diente um ein Weib, um ein Weib hütete er. (a) 1Mo 28:2; 29:20
 
-**[12:14]** Und durch einen Propheten führte der Herr Israel aus Ägypten herauf, und durch einen Propheten ward es behütet. Bittern Groll hat Ephraim erregt; darum wird ihr Herr ihre Blutschuld auf sie werfen, ihnen ihr schmachvolles Treiben vergelten. 
+**[12:14]** Und durch einen Propheten führte der Herr Israel aus Ägypten herauf, und durch einen Propheten ward es behütet. Bittern Groll hat Ephraim erregt; darum wird ihr Herr ihre Blutschuld auf sie werfen, ihnen ihr schmachvolles Treiben vergelten.
 
 ### Chapter 13
 
@@ -46370,7 +46370,7 @@
 
 **[13:15]** Wenn er auch sprosste mitten im Riedgras, es kommt der Ostwind, der Sturm des Herrn aus der Wüste, steigt herauf und trocknet aus seinen Brunnen, macht seine Quelle versiegen. Zum Raube wird die Schatzkammer mit all ihren köstlichen Geräten.
 
-**[13:16]** Samaria wird es büssen, dass es sich aufgelehnt hat gegen seinen Gott: sie fallen durch das Schwert, ihre Säuglinge werden zerschmettert und ihre Schwangern aufgeschlitzt. (1) die Lutherbibel hat für 13,16; 14,1-9 die Zählung 14,1-10. (a) 2Kön 15:16 
+**[13:16]** Samaria wird es büssen, dass es sich aufgelehnt hat gegen seinen Gott: sie fallen durch das Schwert, ihre Säuglinge werden zerschmettert und ihre Schwangern aufgeschlitzt. (1) die Lutherbibel hat für 13,16; 14,1-9 die Zählung 14,1-10. (a) 2Kön 15:16
 
 ### Chapter 14
 
@@ -46390,7 +46390,7 @@
 
 **[14:8]** Was sollen Ephraim fortan die Götzen? Ich allein habe ihn erhört und sehe nach ihm. Ich bin wie eine grünende Zypresse; von mir kommt deine Frucht."
 
-**[14:9]** Wer ist weise, dass er dieses verstehe, und wer verständig, dass er es einsehe? Denn die Wege des Herrn sind gerade, und Gerechte wandeln darauf, Frevler aber kommen auf ihnen zu Fall. (a) Ps 25:10; Spr 10:29  
+**[14:9]** Wer ist weise, dass er dieses verstehe, und wer verständig, dass er es einsehe? Denn die Wege des Herrn sind gerade, und Gerechte wandeln darauf, Frevler aber kommen auf ihnen zu Fall. (a) Ps 25:10; Spr 10:29
 
 ## Joel
 
@@ -46434,7 +46434,7 @@
 
 **[1:19]** Herr, dich rufe ich an! denn Feuer hat die Auen der Trift verzehrt, und die Flamme hat alle Bäume des Feldes versengt.
 
-**[1:20]** Auch die Tiere des Feldes lechzen auf zu dir; denn die Wasserbäche sind ausgetrocknet, und Feuer hat die Auen der Trift verzehrt." 
+**[1:20]** Auch die Tiere des Feldes lechzen auf zu dir; denn die Wasserbäche sind ausgetrocknet, und Feuer hat die Auen der Trift verzehrt."
 
 ### Chapter 2
 
@@ -46500,7 +46500,7 @@
 
 **[2:31]** Die Sonne wird sich in Finsternis wandeln und der Mond in Blut, ehe der grosse und furchtbare Tag des Herrn kommt. (a) Joe 3:15
 
-**[2:32]** Ein jeder aber, der den Namen des Herrn anruft, wird gerettet; denn auf dem Berge Zion und in Jerusalem wird Rettung sein, wie der Herr verheissen hat, und bei den Entronnenen, die der Herr beruft. (a) Ob 1:17; Rö 10:13 
+**[2:32]** Ein jeder aber, der den Namen des Herrn anruft, wird gerettet; denn auf dem Berge Zion und in Jerusalem wird Rettung sein, wie der Herr verheissen hat, und bei den Entronnenen, die der Herr beruft. (a) Ob 1:17; Rö 10:13
 
 ### Chapter 3
 
@@ -46544,7 +46544,7 @@
 
 **[3:20]** Juda aber wird ewig bewohnt sein und Jerusalem für und für.
 
-**[3:21]** Und ich räche ihr Blut, das ich nicht gerächt habe. Und der Herr wird auf Zion wohnen.  
+**[3:21]** Und ich räche ihr Blut, das ich nicht gerächt habe. Und der Herr wird auf Zion wohnen.
 
 ## Amos
 
@@ -46578,7 +46578,7 @@
 
 **[1:14]** Ich lege Feuer an die Mauer von Rabba, dass es seine Paläste verzehre beim Kriegslärm am Tage der Schlacht, beim Wetter am Tage des Sturms.
 
-**[1:15]** Ihr König zieht mit den Verbannten dahin, er mitsamt seinen Fürsten, spricht der Herr. 
+**[1:15]** Ihr König zieht mit den Verbannten dahin, er mitsamt seinen Fürsten, spricht der Herr.
 
 ### Chapter 2
 
@@ -46612,7 +46612,7 @@
 
 **[2:15]** und der Bogenschütze hält nicht stand. Der Schnellfüssige kann nicht entrinnen und der Reiter sein Leben nicht retten.
 
-**[2:16]** Auch wer unter den Helden ein tapferes Herz hat, flieht nackt an jenem Tage, spricht der Herr. 
+**[2:16]** Auch wer unter den Helden ein tapferes Herz hat, flieht nackt an jenem Tage, spricht der Herr.
 
 ### Chapter 3
 
@@ -46644,7 +46644,7 @@
 
 **[3:14]** An dem Tage, wo ich an Israel seine Freveltaten heimsuche, da suche ich sie heim an den Altären von Bethel; da werden die Hörner des Altars abgehauen und fallen zu Boden. (a) 1Kön 12:32; 2Kön 23:15
 
-**[3:15]** Und ich zerschlage das Winterhaus mitsamt dem Sommerhaus; aus ist's dann mit den Elfenbeinhäusern, die Ebenholzhäuser verschwinden, spricht der Herr. (a) Jer 36:22; 1Kön 22:39 
+**[3:15]** Und ich zerschlage das Winterhaus mitsamt dem Sommerhaus; aus ist's dann mit den Elfenbeinhäusern, die Ebenholzhäuser verschwinden, spricht der Herr. (a) Jer 36:22; 1Kön 22:39
 
 ### Chapter 4
 
@@ -46672,7 +46672,7 @@
 
 **[4:12]** Darum will ich dir dieses antun, Israel! - Weil ich dir dieses antun will, rüste dich, vor deinen Gott zu treten, Israel!
 
-**[4:13]** Denn siehe, der die Berge gebildet und den Wind geschaffen, der dem Menschen kundtut, was sein Sinnen ist, der die Morgenröte und das Dunkel macht, der über die Höhen der Erde schreitet - Herr, Gott der Heerscharen, ist sein Name! 
+**[4:13]** Denn siehe, der die Berge gebildet und den Wind geschaffen, der dem Menschen kundtut, was sein Sinnen ist, der die Morgenröte und das Dunkel macht, der über die Höhen der Erde schreitet - Herr, Gott der Heerscharen, ist sein Name!
 
 ### Chapter 5
 
@@ -46728,7 +46728,7 @@
 
 **[5:26]** So sollt ihr denn Sakkuth, euren König, und Kewan, den Stern eures Gottes, dahintragen, eure Bilder, die ihr euch gemacht habt.
 
-**[5:27]** Und ich will euch über Damaskus hinaus in die Verbannung führen, spricht der Herr - Gott der Heerscharen ist sein Name. (a) 2Kön 17:6 
+**[5:27]** Und ich will euch über Damaskus hinaus in die Verbannung führen, spricht der Herr - Gott der Heerscharen ist sein Name. (a) 2Kön 17:6
 
 ### Chapter 6
 
@@ -46758,7 +46758,7 @@
 
 **[6:13]** Die ihr euch freut wegen Lodebar, die ihr sprecht: "Haben wir nicht durch eigne Kraft uns Karnaim genommen?" (a) 1Mo 14:5
 
-**[6:14]** siehe, ich lasse ein Volk wider euch aufstehen, Haus Israel, spricht der Herr, der Gott der Heerscharen. Das wird euch bedrängen von dort an, wo man nach Hamath geht, bis zum Bach der Araba. 
+**[6:14]** siehe, ich lasse ein Volk wider euch aufstehen, Haus Israel, spricht der Herr, der Gott der Heerscharen. Das wird euch bedrängen von dort an, wo man nach Hamath geht, bis zum Bach der Araba.
 
 ### Chapter 7
 
@@ -46794,7 +46794,7 @@
 
 **[7:16]** Und nun, höre das Wort des Herrn! Du verbietest mir, wider Israel zu weissagen und zu reden wider das Haus Isaak.
 
-**[7:17]** Darum spricht der Herr also: "Dein Weib wird zur Dirne in der Stadt, deine Söhne und Töchter fallen durch das Schwert, dein Land wird mit der Meßschnur verteilt; du aber wirst in unreinem Lande sterben, und Israel muss in die Verbannung, hinweg aus seinem Lande." 
+**[7:17]** Darum spricht der Herr also: "Dein Weib wird zur Dirne in der Stadt, deine Söhne und Töchter fallen durch das Schwert, dein Land wird mit der Meßschnur verteilt; du aber wirst in unreinem Lande sterben, und Israel muss in die Verbannung, hinweg aus seinem Lande."
 
 ### Chapter 8
 
@@ -46824,7 +46824,7 @@
 
 **[8:13]** An jenem Tage fallen in Ohnmacht die schönen Jungfrauen und die jungen Männer vor Durst. (a) Hos 2:3
 
-**[8:14]** Die bei der Aschere von Samaria schwören und die sprechen: "So wahr dein Gott lebt, Dan!" und "So wahr dein Schutzgott lebt, Beerseba!" sie werden fallen und nicht wieder aufstehen. (a) Am 5:5; 1Kön 12:29 
+**[8:14]** Die bei der Aschere von Samaria schwören und die sprechen: "So wahr dein Gott lebt, Dan!" und "So wahr dein Schutzgott lebt, Beerseba!" sie werden fallen und nicht wieder aufstehen. (a) Am 5:5; 1Kön 12:29
 
 ### Chapter 9
 
@@ -46856,7 +46856,7 @@
 
 **[9:14]** Da wende ich das Geschick meines Volkes Israel, dass sie verwüstete Städte wieder aufbauen und darin wohnen, dass sie Weinberge pflanzen und ihren Wein trinken, dass sie Gärten anlegen und ihre Früchte geniessen. (a) Jes 65:21
 
-**[9:15]** Ich pflanze sie ein in ihr Land, und nie wieder werden sie ausgerissen aus ihrem Lande, das ich ihnen gegeben habe, spricht der Herr, dein Gott. (a) Jer 32:41  
+**[9:15]** Ich pflanze sie ein in ihr Land, und nie wieder werden sie ausgerissen aus ihrem Lande, das ich ihnen gegeben habe, spricht der Herr, dein Gott. (a) Jer 32:41
 
 ## Obadiah
 
@@ -46902,7 +46902,7 @@
 
 **[1:20]** Und die Verbannten der Israeliten werden das Land der Phönizier in Besitz nehmen bis nach Sarepta, und die Verbannten Jerusalems, die in Sepharad sind, werden die Städte des Südlands in Besitz nehmen.
 
-**[1:21]** Und Retter werden hinaufziehen auf den Berg Zion, Gericht zu halten über das Gebirge Esaus. Und das Reich wird des Herrn sein! (a) Jes 24:23  
+**[1:21]** Und Retter werden hinaufziehen auf den Berg Zion, Gericht zu halten über das Gebirge Esaus. Und das Reich wird des Herrn sein! (a) Jes 24:23
 
 ## Jonah
 
@@ -46938,7 +46938,7 @@
 
 **[1:15]** Und sie nahmen Jona und warfen ihn ins Meer. Da stand das Meer ab von seinem Wüten.
 
-**[1:16]** Es kam aber grosse Furcht vor dem Herrn über die Männer, und sie schlachteten dem Herrn ein Opfer und taten Gelübde. 
+**[1:16]** Es kam aber grosse Furcht vor dem Herrn über die Männer, und sie schlachteten dem Herrn ein Opfer und taten Gelübde.
 
 **[1:17]** 
 
@@ -46962,7 +46962,7 @@
 
 **[2:9]** Die an nichtige Götzen sich halten, / verlassen (ihn,) ihre Zuflucht. / (a) Ps 31:7
 
-**[2:10]** Ich aber will mit lautem Danken / dir Opfer bringen; / was ich gelobt habe, will ich erfüllen! / Die Hilfe steht bei dem Herrn. (a) Ps 50:14; 116:17 18 Und der Herr gebot dem Fisch, und er spie Jona ans Land. 
+**[2:10]** Ich aber will mit lautem Danken / dir Opfer bringen; / was ich gelobt habe, will ich erfüllen! / Die Hilfe steht bei dem Herrn. (a) Ps 50:14; 116:17 18 Und der Herr gebot dem Fisch, und er spie Jona ans Land.
 
 ### Chapter 3
 
@@ -46984,7 +46984,7 @@
 
 **[3:9]** Wer weiss, vielleicht gereut es Gott doch noch, und er lässt ab von seinem grimmigen Zorn, dass wir nicht untergehen." (a) Jer 18:8; Joe 2:14
 
-**[3:10]** Als nun Gott ihr Tun sah, dass sie sich von ihrem bösen Wandel bekehrten, liess er sich das Unheil gereuen, das er ihnen angedroht hatte, und er tat es nicht. 
+**[3:10]** Als nun Gott ihr Tun sah, dass sie sich von ihrem bösen Wandel bekehrten, liess er sich das Unheil gereuen, das er ihnen angedroht hatte, und er tat es nicht.
 
 ### Chapter 4
 
@@ -47008,7 +47008,7 @@
 
 **[4:10]** Da sprach der Herr: Dich jammert des Rizinus, um den du doch keine Mühe gehabt und den du nicht grossgezogen hast, der in einer Nacht geworden und in einer Nacht verdorben ist.
 
-**[4:11]** Und mich sollte der grossen Stadt Ninive nicht jammern, in der über 120 000 Menschen sind, die zwischen rechts und links noch nicht unterscheiden können, dazu die Menge Vieh?  
+**[4:11]** Und mich sollte der grossen Stadt Ninive nicht jammern, in der über 120 000 Menschen sind, die zwischen rechts und links noch nicht unterscheiden können, dazu die Menge Vieh?
 
 ## Micah
 
@@ -47044,7 +47044,7 @@
 
 **[1:15]** Bis zum Eroberer bringe ich euch, ihr Bewohner von Maresa: bis nach Adullam wird die Herrlichkeit Israels kommen.
 
-**[1:16]** Mache dich kahl und schere dich wegen deiner geliebten Kinder! Mache dir eine Glatze, so gross wie die des Geiers; denn sie werden gefangen von dir hinweggeführt. 
+**[1:16]** Mache dich kahl und schere dich wegen deiner geliebten Kinder! Mache dir eine Glatze, so gross wie die des Geiers; denn sie werden gefangen von dir hinweggeführt.
 
 ### Chapter 2
 
@@ -47072,7 +47072,7 @@
 
 **[2:12]** Sammeln will ich ganz Jakob, zusammenbringen den Rest Israels; ich will sie vereinigen wie Schafe im Pferch, wie eine Herde auf der Trift, eine tosende Menge von Menschen. (a) Jer 31:10; Hes 36:37
 
-**[2:13]** Der Durchbrecher zieht vor ihnen her; sie brechen durch, durchschreiten das Tor und drängen hinaus. Ihr König schreitet vor ihnen einher, der Herr an ihrer Spitze. (a) Jes 52:12 
+**[2:13]** Der Durchbrecher zieht vor ihnen her; sie brechen durch, durchschreiten das Tor und drängen hinaus. Ihr König schreitet vor ihnen einher, der Herr an ihrer Spitze. (a) Jes 52:12
 
 ### Chapter 3
 
@@ -47098,7 +47098,7 @@
 
 **[3:11]** Seine Häupter sprechen Recht um Bestechung, seine Priester geben Weisung um Lohn, und seine Propheten wahrsagen um Geld - und dabei verlassen sie sich auf den Herrn und sprechen: "Ist nicht der Herr in unsrer Mitte? Es kann kein Unglück über uns kommen." (a) Jes 1:23; Jer 7:4-15
 
-**[3:12]** Darum wird Zion um euretwillen zum Feld umgepflügt, Jerusalem wird zum Trümmerhaufen und der Tempelberg zur Waldeshöhe. (a) Ps 79:1; Jer 9:11; 26:18 
+**[3:12]** Darum wird Zion um euretwillen zum Feld umgepflügt, Jerusalem wird zum Trümmerhaufen und der Tempelberg zur Waldeshöhe. (a) Ps 79:1; Jer 9:11; 26:18
 
 ### Chapter 4
 
@@ -47126,7 +47126,7 @@
 
 **[4:12]** Sie aber kennen die Gedanken des Herrn nicht und verstehen nicht seinen Ratschluss, dass er sie gesammelt wie Garben auf einer Tenne.
 
-**[4:13]** Auf und drisch, Tochter Zion! denn ich gebe dir eiserne Hörner, ich gebe dir eherne Hufe, dass du viele Völker zermalmest. Ihren Raub sollst du dem Herrn weihen, ihren Reichtum dem Herrn der ganzen Erde. 
+**[4:13]** Auf und drisch, Tochter Zion! denn ich gebe dir eiserne Hörner, ich gebe dir eherne Hufe, dass du viele Völker zermalmest. Ihren Raub sollst du dem Herrn weihen, ihren Reichtum dem Herrn der ganzen Erde.
 
 ### Chapter 5
 
@@ -47158,7 +47158,7 @@
 
 **[5:14]** da reisse ich die Ascheren aus deiner Mitte und vernichte deine Götzen.
 
-**[5:15]** Und ich übe in Zorn und Grimm Rache an den Völkern, die nicht haben hören wollen. 
+**[5:15]** Und ich übe in Zorn und Grimm Rache an den Völkern, die nicht haben hören wollen.
 
 ### Chapter 6
 
@@ -47192,7 +47192,7 @@
 
 **[6:15]** Du wirst säen, aber nicht ernten; du wirst Oliven keltern, aber mit Öl dich nicht salben, Trauben keltern, und doch keinen Wein trinken. (a) 5Mo 28:38-40; Am 5:11; Zef 1:13; Hag 1:6
 
-**[6:16]** Du hast dich gehalten an die Satzungen Omris, an alle Taten des Hauses Ahabs, und bist gewandelt in ihren Ratschlägen - damit ich dich zur Wüste mache und ihre Bewohner zum Gespött; so sollt ihr die Schmähung der Völker tragen." (a) 1Kön 16:25 29-33 
+**[6:16]** Du hast dich gehalten an die Satzungen Omris, an alle Taten des Hauses Ahabs, und bist gewandelt in ihren Ratschlägen - damit ich dich zur Wüste mache und ihre Bewohner zum Gespött; so sollt ihr die Schmähung der Völker tragen." (a) 1Kön 16:25 29-33
 
 ### Chapter 7
 
@@ -47234,7 +47234,7 @@
 
 **[7:19]** Er wird sich wiederum unser erbarmen, unsre Schuld unter die Füsse treten. Du wirst all unsre Sünden in die Tiefe des Meeres versenken.
 
-**[7:20]** Du wirst Jakob Treue erweisen und Abraham Güte, wie du unsern Vätern geschworen hast in den Tagen der Vorzeit.  
+**[7:20]** Du wirst Jakob Treue erweisen und Abraham Güte, wie du unsern Vätern geschworen hast in den Tagen der Vorzeit.
 
 ## Nahum
 
@@ -47266,7 +47266,7 @@
 
 **[1:13]** Und nun will ich sein Joch, das auf dir lastet, zerbrechen, will deine Bande zerreissen.
 
-**[1:14]** Darum hat der Herr wider dich Befehl erlassen: Dein Name soll nicht mehr fortgepflanzt werden. Aus dem Hause deines Gottes tilge ich Schnitzbild und Gussbild; ich mache die Schmach dir zum Grabe. (a) Mi 5:13 
+**[1:14]** Darum hat der Herr wider dich Befehl erlassen: Dein Name soll nicht mehr fortgepflanzt werden. Aus dem Hause deines Gottes tilge ich Schnitzbild und Gussbild; ich mache die Schmach dir zum Grabe. (a) Mi 5:13
 
 **[1:15]** 
 
@@ -47296,7 +47296,7 @@
 
 **[2:12]** Wo ist nun die Lagerstatt der Löwen und die Höhle für die Jungleuen, wohin sich der Löwe zurückzog, der junge Leu, wo keiner sie aufschreckte?
 
-**[2:13]** der Löwe, der raubte, dass seine Jungen genug hatten, der für seine Löwinnen würgte, der mit Raub seine Höhlen füllte und seine Lagerstätten mit zerrissener Beute! Siehe, ich will an dich, spricht der Herr der Heerscharen; ich lasse dein Lager in Rauch aufgehen, das Schwert soll deine Jungleuen fressen! Ich mache deinem Rauben auf Erden ein Ende, und die Stimme deiner Boten wird nicht mehr gehört! 
+**[2:13]** der Löwe, der raubte, dass seine Jungen genug hatten, der für seine Löwinnen würgte, der mit Raub seine Höhlen füllte und seine Lagerstätten mit zerrissener Beute! Siehe, ich will an dich, spricht der Herr der Heerscharen; ich lasse dein Lager in Rauch aufgehen, das Schwert soll deine Jungleuen fressen! Ich mache deinem Rauben auf Erden ein Ende, und die Stimme deiner Boten wird nicht mehr gehört!
 
 ### Chapter 3
 
@@ -47336,7 +47336,7 @@
 
 **[3:18]** Geschlafen haben deine Hirten, König von Assur, geschlummert deine Edlen; dein Volk ist zerstreut auf den Bergen, und niemand ist, der sie sammelt.
 
-**[3:19]** Keine Heilung gibt es für deinen Schaden, tödlich ist deine Wunde. Alle, die von dir hören, klatschen über dich in die Hände; denn über wen ist nicht deine Bosheit ergangen ohne Unterlass?  
+**[3:19]** Keine Heilung gibt es für deinen Schaden, tödlich ist deine Wunde. Alle, die von dir hören, klatschen über dich in die Hände; denn über wen ist nicht deine Bosheit ergangen ohne Unterlass?
 
 ## Habakkuk
 
@@ -47374,7 +47374,7 @@
 
 **[1:16]** Darum opfert er seinem Netze und räuchert seinem Garn; denn durch sie wird ihm sein reichlich Teil und ein fettes Mahl.
 
-**[1:17]** Soll er denn ewig sein Schwert zücken und ohne Unterlass die Völker schonungslos würgen? 
+**[1:17]** Soll er denn ewig sein Schwert zücken und ohne Unterlass die Völker schonungslos würgen?
 
 ### Chapter 2
 
@@ -47416,7 +47416,7 @@
 
 **[2:19]** Wehe dem, der zum Holz spricht: "Erwache!" und zum stummen Stein: "Stehe auf!" Dergleichen sollte weissagen? Es ist ja gefasst in Silber und Gold, und keinerlei Odem ist in ihm.
 
-**[2:20]** Aber der Herr ist in seinem heiligen Tempel - stille vor ihm, alle Welt! (a) Ps 11:4; Zef 1:7; Sac 2:13 
+**[2:20]** Aber der Herr ist in seinem heiligen Tempel - stille vor ihm, alle Welt! (a) Ps 11:4; Zef 1:7; Sac 2:13
 
 ### Chapter 3
 
@@ -47456,7 +47456,7 @@
 
 **[3:18]** Ich aber will ob dem Herrn frohlocken, will jubeln ob dem Gott meines Heils.
 
-**[3:19]** Gott der Herr ist meine Kraft! Er macht meine Füsse den Hinden gleich und lässt mich auf Höhen schreiten. (a) Ps 18:34  
+**[3:19]** Gott der Herr ist meine Kraft! Er macht meine Füsse den Hinden gleich und lässt mich auf Höhen schreiten. (a) Ps 18:34
 
 ## Zephaniah
 
@@ -47496,7 +47496,7 @@
 
 **[1:17]** Da will ich die Menschen ängstigen, dass sie umhergehen wie die Blinden, weil sie wider den Herrn gesündigt haben. Ihr Blut soll ausgeschüttet werden wie Staub und ihr Fleisch wie Kot.
 
-**[1:18]** Auch ihr Silber und ihr Gold vermag nicht, sie zu retten am Zornestage des Herrn, wenn vom Feuer seines Eiferns die ganze Erde verzehrt wird; denn Vernichtung, ja jähes Verderben bereitet er allen Bewohnern der Erde. (a) Zef 3:8; Hes 7:19 
+**[1:18]** Auch ihr Silber und ihr Gold vermag nicht, sie zu retten am Zornestage des Herrn, wenn vom Feuer seines Eiferns die ganze Erde verzehrt wird; denn Vernichtung, ja jähes Verderben bereitet er allen Bewohnern der Erde. (a) Zef 3:8; Hes 7:19
 
 ### Chapter 2
 
@@ -47528,7 +47528,7 @@
 
 **[2:14]** Und mitten darin werden Herden lagern, allerlei Tiere des Feldes; ihre Säulenknäufe werden zu Schlupfwinkeln für Rohrdommel und Igel. Die Eule wird im Fenster singen und der Rabe auf der Schwelle. (a) Jes 13:21; 34:11
 
-**[2:15]** Das ist die fröhliche Stadt, die so sicher thronte, die in ihrem Herzen sprach: "Ich bin's und niemand sonst." Wie ist sie zur Wüste geworden, zum Lager der Tiere! Wer an ihr vorübergeht, zischt sie aus und schüttelt (höhnisch) die Hand. (a) Jes 47:8 
+**[2:15]** Das ist die fröhliche Stadt, die so sicher thronte, die in ihrem Herzen sprach: "Ich bin's und niemand sonst." Wie ist sie zur Wüste geworden, zum Lager der Tiere! Wer an ihr vorübergeht, zischt sie aus und schüttelt (höhnisch) die Hand. (a) Jes 47:8
 
 ### Chapter 3
 
@@ -47570,7 +47570,7 @@
 
 **[3:19]** Siehe, ich mache den Garaus all deinen Bedrückern zu jener Zeit, doch ich will erretten, was hinkt, und was versprengt ist, will ich sammeln, will sie zu Ruhm und Ehren bringen in aller Welt. (a) Mi 4:6 7
 
-**[3:20]** Zu jener Zeit will ich euch heimbringen, zu jener Zeit will ich euch sammeln; denn ich will euch zu Ruhm und Ehren bringen bei allen Völkern der Erde, wenn ich euer Geschick wende vor euren Augen, spricht der Herr.  
+**[3:20]** Zu jener Zeit will ich euch heimbringen, zu jener Zeit will ich euch sammeln; denn ich will euch zu Ruhm und Ehren bringen bei allen Völkern der Erde, wenn ich euer Geschick wende vor euren Augen, spricht der Herr.
 
 ## Haggai
 
@@ -47604,7 +47604,7 @@
 
 **[1:14]** So erweckte der Herr den Eifer Serubbabels, des Sohnes Sealthiels, des Statthalters von Juda, und den Eifer Josuas, des Sohnes Jozadaks, des Hohenpriesters, und den Eifer aller Übriggebliebenen des Volkes, dass sie eingingen und am Hause des Herrn der Heerscharen, ihres Gottes, sich an die Arbeit machten
 
-**[1:15]** am 24. Tage des sechsten Monats. IM zweiten Jahre des Königs Darius, 
+**[1:15]** am 24. Tage des sechsten Monats. IM zweiten Jahre des Königs Darius,
 
 ### Chapter 2
 
@@ -47652,7 +47652,7 @@
 
 **[2:22]** und Königsthrone umstürzen; die Macht der heidnischen Reiche will ich vernichten, will umwerfen die Streitwagen und die darauf fahren, und niedersinken sollen Rosse und Reiter, ein jeder durch das Schwert des andern.
 
-**[2:23]** An jenem Tage, spricht der Herr der Heerscharen, nehme ich dich, Serubbabel, Sohn Sealthiels, meinen Knecht, spricht der Herr, dass du mir seist wie ein Siegelring; denn dich habe ich erwählt, spricht der Herr der Heerscharen. (a) Sac 4:6 7  
+**[2:23]** An jenem Tage, spricht der Herr der Heerscharen, nehme ich dich, Serubbabel, Sohn Sealthiels, meinen Knecht, spricht der Herr, dass du mir seist wie ein Siegelring; denn dich habe ich erwählt, spricht der Herr der Heerscharen. (a) Sac 4:6 7
 
 ## Zechariah
 
@@ -47698,7 +47698,7 @@
 
 **[1:20]** Dann liess mich der Herr vier Schmiede sehen.
 
-**[1:21]** Da sprach ich: Was kommen diese zu tun? Er antwortete und sprach: Jenes also sind die Hörner, die Juda zerstreut haben, sodass es sein Haupt nicht mehr erhob. Und diese sind gekommen, sie zu schrecken, niederzuwerfen die Hörner der Völker, die das Horn wider das Land Juda erhoben haben, es zu zerstreuen. 
+**[1:21]** Da sprach ich: Was kommen diese zu tun? Er antwortete und sprach: Jenes also sind die Hörner, die Juda zerstreut haben, sodass es sein Haupt nicht mehr erhob. Und diese sind gekommen, sie zu schrecken, niederzuwerfen die Hörner der Völker, die das Horn wider das Land Juda erhoben haben, es zu zerstreuen.
 
 ### Chapter 2
 
@@ -47726,7 +47726,7 @@
 
 **[2:12]** Und der Herr wird Juda als sein Erbteil zu seinem Eigentum machen im heiligen Lande und Jerusalem wieder erwählen. (a) Sac 1:17
 
-**[2:13]** Stille, alle Welt, vor dem Herrn! Denn schon erhebt er sich von seiner heiligen Stätte. (a) Hab 2:20; Zef 1:7 
+**[2:13]** Stille, alle Welt, vor dem Herrn! Denn schon erhebt er sich von seiner heiligen Stätte. (a) Hab 2:20; Zef 1:7
 
 ### Chapter 3
 
@@ -47748,7 +47748,7 @@
 
 **[3:9]** Denn siehe, auf dem Steine, den ich vor Josua hingelegt habe - auf einem Steine ruhen sieben Augen -, siehe, auf diesem will ich nun die Schrift eingraben, spricht der Herr der Heerscharen, und ich will die Schuld jenes Landes an einem Tage austilgen. (a) Sac 4:10
 
-**[3:10]** An jenem Tage werdet ihr einander einladen unter den Weinstock und den Feigenbaum, spricht der Herr der Heerscharen. (a) 1Kön 5:5; Mi 4 4 
+**[3:10]** An jenem Tage werdet ihr einander einladen unter den Weinstock und den Feigenbaum, spricht der Herr der Heerscharen. (a) 1Kön 5:5; Mi 4 4
 
 ### Chapter 4
 
@@ -47778,7 +47778,7 @@
 
 **[4:13]** Er sprach zu mir: Weisst du nicht, was diese bedeuten? Ich sprach: Nein, mein Herr.
 
-**[4:14]** Da sprach er: Das sind die beiden Gesalbten, die vor dem Herrn der ganzen Erde stehen. 
+**[4:14]** Da sprach er: Das sind die beiden Gesalbten, die vor dem Herrn der ganzen Erde stehen.
 
 ### Chapter 5
 
@@ -47802,7 +47802,7 @@
 
 **[5:10]** Da fragte ich den Engel, der mit mir redete: Wohin bringen sie den Scheffel?
 
-**[5:11]** Er antwortete mir: Sie wollen ihr ein Haus bauen im Lande Sinear, und wenn es hergerichtet ist, sie dort niedersetzen, wohin sie gehört. (1) d.h. dem Weibe im Scheffel. 
+**[5:11]** Er antwortete mir: Sie wollen ihr ein Haus bauen im Lande Sinear, und wenn es hergerichtet ist, sie dort niedersetzen, wohin sie gehört. (1) d.h. dem Weibe im Scheffel.
 
 ### Chapter 6
 
@@ -47834,7 +47834,7 @@
 
 **[6:14]** Die Krone aber soll zum Andenken an Heldai, Tobia, Jedaja und Josia, den Sohn Zephanjas, im Tempel des Herrn bleiben.
 
-**[6:15]** Und die in der Ferne wohnen, werden kommen und am Tempel des Herrn bauen, damit ihr erkennet, dass der Herr der Heerscharen mich zu euch gesandt hat. Das wird geschehen, wenn ihr auf die Stimme des Herrn, eures Gottes, hört. (a) Sac 8:22; Jes 43:6; 60:10 
+**[6:15]** Und die in der Ferne wohnen, werden kommen und am Tempel des Herrn bauen, damit ihr erkennet, dass der Herr der Heerscharen mich zu euch gesandt hat. Das wird geschehen, wenn ihr auf die Stimme des Herrn, eures Gottes, hört. (a) Sac 8:22; Jes 43:6; 60:10
 
 ### Chapter 7
 
@@ -47864,7 +47864,7 @@
 
 **[7:13]** Und wie er rief, sie aber nicht hörten - ebenso, sprach nun der Herr der Heerscharen, sollen sie jetzt rufen, ich aber werde nicht hören. (a) Jes 1:15; Jer 11:11
 
-**[7:14]** Und ich verwehte sie wie ein Sturm über alle Völker, die ihnen unbekannt waren, und hinter ihnen wurde das Land verödet, sodass niemand mehr hin und her zog, und so machten sie das liebliche Land zur Wüste. 
+**[7:14]** Und ich verwehte sie wie ein Sturm über alle Völker, die ihnen unbekannt waren, und hinter ihnen wurde das Land verödet, sodass niemand mehr hin und her zog, und so machten sie das liebliche Land zur Wüste.
 
 ### Chapter 8
 
@@ -47912,7 +47912,7 @@
 
 **[8:22]** So werden viele Völker und mächtige Nationen kommen, den Herrn der Heerscharen in Jerusalem zu suchen und den Herrn anzuflehen.
 
-**[8:23]** So spricht der Herr der Heerscharen: In jenen Tagen werden zehn Männer aus Völkern aller Zungen einen Juden beim Rocksaum fassen und sagen: Wir wollen mit euch gehen; denn wir haben gehört, dass Gott mit euch ist. 
+**[8:23]** So spricht der Herr der Heerscharen: In jenen Tagen werden zehn Männer aus Völkern aller Zungen einen Juden beim Rocksaum fassen und sagen: Wir wollen mit euch gehen; denn wir haben gehört, dass Gott mit euch ist.
 
 ### Chapter 9
 
@@ -47948,7 +47948,7 @@
 
 **[9:16]** Der Herr, ihr Gott, wird ihnen helfen an jenem Tage, wie eine Herde wird er sie weiden auf seinem Lande.
 
-**[9:17]** Ja, wie schön und wie lieblich ist es! Korn und Wein sprossen darin; wie schimmernde Edelsteine sind Jünglinge und Jungfrauen. (a) 5Mo 33:28 
+**[9:17]** Ja, wie schön und wie lieblich ist es! Korn und Wein sprossen darin; wie schimmernde Edelsteine sind Jünglinge und Jungfrauen. (a) 5Mo 33:28
 
 ### Chapter 10
 
@@ -47974,7 +47974,7 @@
 
 **[10:11]** Sie werden durch das Meer Ägyptens ziehen, und er wird im Meere die Wellen schlagen und alle Tiefen des Nil austrocknen; und gestürzt wird der Hochmut Assurs, und das Szepter Ägyptens muss weichen. (1) d.h. der Herr. (a) Jes 11:15
 
-**[10:12]** Und ich mache sie stark durch den Herrn, dass sie seines Namens sich rühmen, spricht der Herr. 
+**[10:12]** Und ich mache sie stark durch den Herrn, dass sie seines Namens sich rühmen, spricht der Herr.
 
 ### Chapter 11
 
@@ -48010,7 +48010,7 @@
 
 **[11:16]** Denn siehe, ich lasse einen Hirten im Lande erstehen, der des Verkommenen nicht achtet, das Versprengte nicht sucht und das Zerbrochne nicht heilt, der das Gesunde nicht versorgt, sondern das Fleisch des Gemästeten verzehrt und ihre Klauen zerreisst.
 
-**[11:17]** Wehe über den nichtsnutzigen Hirten, der die Schafe verlässt! Verderben über seinen Arm und sein rechtes Auge! Sein Arm soll gänzlich verdorren, und sein rechtes Auge soll völlig erlöschen! 
+**[11:17]** Wehe über den nichtsnutzigen Hirten, der die Schafe verlässt! Verderben über seinen Arm und sein rechtes Auge! Sein Arm soll gänzlich verdorren, und sein rechtes Auge soll völlig erlöschen!
 
 ### Chapter 12
 
@@ -48040,7 +48040,7 @@
 
 **[12:13]** das Geschlecht des Hauses Levi besonders und seine Frauen besonders, das Geschlecht Simei besonders und seine Frauen besonders;
 
-**[12:14]** ebenso alle übrigen Geschlechter, ein jedes Geschlecht besonders und seine Frauen besonders. 
+**[12:14]** ebenso alle übrigen Geschlechter, ein jedes Geschlecht besonders und seine Frauen besonders.
 
 ### Chapter 13
 
@@ -48060,7 +48060,7 @@
 
 **[13:8]** Und im ganzen Lande, spricht der Herr, sollen zwei Teile ausgerottet werden und umkommen; aber der dritte Teil wird darin übrigbleiben.
 
-**[13:9]** Und den dritten Teil will ich ins Feuer bringen, will sie schmelzen, wie man das Silber schmelzt, will sie läutern, wie man das Gold läutert. Sie werden meinen Namen anrufen, und ich werde sie erhören. Ich sage: Mein Volk sind sie! und sie werden sagen: Der Herr ist unser Gott! (a) Ps 91:15; Hos 2:23 
+**[13:9]** Und den dritten Teil will ich ins Feuer bringen, will sie schmelzen, wie man das Silber schmelzt, will sie läutern, wie man das Gold läutert. Sie werden meinen Namen anrufen, und ich werde sie erhören. Ich sage: Mein Volk sind sie! und sie werden sagen: Der Herr ist unser Gott! (a) Ps 91:15; Hos 2:23
 
 ### Chapter 14
 
@@ -48104,7 +48104,7 @@
 
 **[14:20]** An jenem Tage wird an den Schellen der Rosse geschrieben stehen: "Heilig dem Herrn", und die Töpfe im Hause des Herrn werden sein wie die Opferschalen vor dem Altar. (a) 2Mo 39:30
 
-**[14:21]** Und alle Töpfe in Jerusalem und in Juda werden dem Herrn der Heerscharen heilig sein; und alle, die Opfer darbringen, werden kommen und welche nehmen und darin kochen. Und es wird im Hause des Herrn der Heerscharen kein Krämer mehr sein an jenem Tage. (a) Joe 3:17; Mt 21:12; Off 21:27  
+**[14:21]** Und alle Töpfe in Jerusalem und in Juda werden dem Herrn der Heerscharen heilig sein; und alle, die Opfer darbringen, werden kommen und welche nehmen und darin kochen. Und es wird im Hause des Herrn der Heerscharen kein Krämer mehr sein an jenem Tage. (a) Joe 3:17; Mt 21:12; Off 21:27
 
 ## Malachi
 
@@ -48136,7 +48136,7 @@
 
 **[1:13]** Ihr sagt: "Sieh, welch eine Mühsal!" und ihr verachtet mich, spricht der Herr der Heerscharen. Ihr bringt Geraubtes und Lahmes und Krankes, bringt es als Opfergabe, und ich sollte es wohlgefällig annehmen aus eurer Hand? spricht der Herr der Heerscharen.
 
-**[1:14]** Verflucht der Betrüger, der in seiner Herde ein männliches Tier hat, das er gelobt, und gleichwohl dem Herrn ein verdorbenes opfert! Denn ein grosser König bin ich, spricht der Herr der Heerscharen, und gefürchtet ist mein Name unter den Völkern. 
+**[1:14]** Verflucht der Betrüger, der in seiner Herde ein männliches Tier hat, das er gelobt, und gleichwohl dem Herrn ein verdorbenes opfert! Denn ein grosser König bin ich, spricht der Herr der Heerscharen, und gefürchtet ist mein Name unter den Völkern.
 
 ### Chapter 2
 
@@ -48172,7 +48172,7 @@
 
 **[2:16]** Denn ich hasse die Scheidung, spricht der Herr, der Gott Israels, und dass man mit Frevel sein Kleid bedeckt, spricht der Herr der Heerscharen. Darum nehmt euch in acht in eurem Geist und brecht nicht die Treue! (a) 5Mo 24:1; Mt 19:8
 
-**[2:17]** Ihr ermüdet den Herrn mit euren Reden. Da fragt ihr: "Womit ermüden wir ihn?" - Damit, dass ihr denkt: "Ein jeder, der Böses tut, ist doch gut in den Augen des Herrn, und an solchen hat er Gefallen - oder wo ist denn der Gott des Gerichts?" 
+**[2:17]** Ihr ermüdet den Herrn mit euren Reden. Da fragt ihr: "Womit ermüden wir ihn?" - Damit, dass ihr denkt: "Ein jeder, der Böses tut, ist doch gut in den Augen des Herrn, und an solchen hat er Gefallen - oder wo ist denn der Gott des Gerichts?"
 
 ### Chapter 3
 
@@ -48210,7 +48210,7 @@
 
 **[3:17]** Sie werden mein Eigentum werden, spricht der Herr der Heerscharen, auf den Tag, da ich einschreite, und ich werde mich ihrer erbarmen, wie einer sich seines Sohnes erbarmt, der ihm dient. (a) 5Mo 7:6
 
-**[3:18]** Da werdet ihr wieder den Unterschied zwischen dem Gerechten und dem Gottlosen sehen, zwischen dem, der Gott dient, und dem, der ihm nicht dient. 
+**[3:18]** Da werdet ihr wieder den Unterschied zwischen dem Gerechten und dem Gottlosen sehen, zwischen dem, der Gott dient, und dem, der ihm nicht dient.
 
 ### Chapter 4
 
@@ -48224,7 +48224,7 @@
 
 **[4:5]** Siehe, ich sende euch den Propheten Elia, ehe der grosse und furchtbare Tag des Herrn kommt. (a) Joe 2:31; Mt 11:14; Mr 9:11
 
-**[4:6]** Und er wird das Herz der Väter den Söhnen und das Herz der Söhne den Vätern wieder zuwenden, dass ich nicht komme und das Land mit dem Banne schlage. (a) Lu 1:17  
+**[4:6]** Und er wird das Herz der Väter den Söhnen und das Herz der Söhne den Vätern wieder zuwenden, dass ich nicht komme und das Land mit dem Banne schlage. (a) Lu 1:17
 
 ## Matthew
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** Als aber Joseph vom Schlaf erwacht war, tat er, wie ihm der Engel des Herrn befohlen hatte, und nahm sein Weib zu sich.
 
-**[1:25]** Und er erkannte sie nicht, bis sie einen Sohn geboren hatte und er gab ihm den Namen Jesus. (1) nach and. alter Bezeugung: "bis sie ihren ersten Sohn geboren hatte"; - wie Lu 2:7 (a) Lu 2:7 21 
+**[1:25]** Und er erkannte sie nicht, bis sie einen Sohn geboren hatte und er gab ihm den Namen Jesus. (1) nach and. alter Bezeugung: "bis sie ihren ersten Sohn geboren hatte"; - wie Lu 2:7 (a) Lu 2:7 21
 
 ### Chapter 2
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** Als er jedoch hörte, dass Archelaus anstatt seines Vaters Herodes über Judäa regierte, fürchtete er sich, dahin zu gehen. Nachdem er aber im Traum eine Weisung empfangen hatte, zog er hinweg in das Gebiet von Galiläa
 
-**[2:23]** und kam in eine Stadt namens Nazareth und nahm (dort) Wohnung, damit erfüllt würde, was durch die Propheten gesagt worden ist: Er wird "Nazoräer" heissen. (1) in dieser Form findet sich die Weissagung im AT nirgends. Gemeint ist ws. Jes 11:1: "Ein Schoss aus seinen (d.h. Isais) (Lu 1:26; 2:39; Jes 11:1; 53:2; Sac 6:12; Joh 1:46) Wurzeln wird Frucht tragen" "Schoss" heisst nämlich im Heb [nezer]: und von diesem Worte konnte "Nazoräer" herzustammen scheinen 
+**[2:23]** und kam in eine Stadt namens Nazareth und nahm (dort) Wohnung, damit erfüllt würde, was durch die Propheten gesagt worden ist: Er wird "Nazoräer" heissen. (1) in dieser Form findet sich die Weissagung im AT nirgends. Gemeint ist ws. Jes 11:1: "Ein Schoss aus seinen (d.h. Isais) (Lu 1:26; 2:39; Jes 11:1; 53:2; Sac 6:12; Joh 1:46) Wurzeln wird Frucht tragen" "Schoss" heisst nämlich im Heb [nezer]: und von diesem Worte konnte "Nazoräer" herzustammen scheinen
 
 ### Chapter 3
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** Als aber Jesus getauft worden war, stieg er alsbald aus dem Wasser; und siehe, die Himmel taten sich auf, und er sah den Geist Gottes wie eine Taube herabschweben und auf ihn kommen. (1) ein. alte Textzeugen fügen hinzu: "ihm". (a) Jes 11:2
 
-**[3:17]** Und siehe, eine Stimme aus den Himmeln sprach: "Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe." (a) Mt 17:5; Lu 9:35; 2Pe 1:17; Ps 2:7; Jes 42:1 
+**[3:17]** Und siehe, eine Stimme aus den Himmeln sprach: "Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe." (a) Mt 17:5; Lu 9:35; 2Pe 1:17; Ps 2:7; Jes 42:1
 
 ### Chapter 4
 
@@ -48414,7 +48414,7 @@
 
 **[4:24]** Und sein Ruf verbreitete sich in ganz Syrien; und sie brachten alle Leidenden zu ihm, die mit mancherlei Krankheiten und Qualen behaftet waren, Besessene und Mondsüchtige und Gelähmte, und er heilte sie. (a) Mr 6:55; Mt 17:15
 
-**[4:25]** Und es folgte ihm eine grosse Volksmenge nach aus Galiläa und aus dem Gebiet der Zehn Städte und aus Jerusalem und Judäa und von jenseits des Jordan. (a) Mr 3:7 8; Lu 6:17-19 
+**[4:25]** Und es folgte ihm eine grosse Volksmenge nach aus Galiläa und aus dem Gebiet der Zehn Städte und aus Jerusalem und Judäa und von jenseits des Jordan. (a) Mr 3:7 8; Lu 6:17-19
 
 ### Chapter 5
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** Und wenn ihr nur eure Brüder grüsst, was tut ihr Besonderes? Tun nicht auch die Heiden dasselbe?
 
-**[5:48]** Ihr nun sollt vollkommen sein, wie euer himmlischer Vater vollkommen ist. (a) 5Mo 18:13; 3Mo 19:2 
+**[5:48]** Ihr nun sollt vollkommen sein, wie euer himmlischer Vater vollkommen ist. (a) 5Mo 18:13; 3Mo 19:2
 
 ### Chapter 6
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** Suchet vielmehr zuerst sein Reich und seine Gerechtigkeit! dann werden euch alle diese Dinge hinzugefügt werden. (a) 1Kön 3:13 14; Lu 10:42; 12:31
 
-**[6:34]** Darum sorget euch nicht um den morgenden Tag; denn der morgende Tag wird seine eigne Sorge haben. Jeder Tag hat genug an seiner eignen Plage. 
+**[6:34]** Darum sorget euch nicht um den morgenden Tag; denn der morgende Tag wird seine eigne Sorge haben. Jeder Tag hat genug an seiner eignen Plage.
 
 ### Chapter 7
 
@@ -48642,7 +48642,7 @@
 
 **[7:28]** Und es geschah, als Jesus diese Reden beendet hatte, erstaunte die Volksmenge über seine Lehre; (a) Mt 22:33; Mr 1:22; Lu 4:32
 
-**[7:29]** denn er lehrte sie wie einer, der Gewalt hat, und nicht wie ihre Schriftgelehrten. (a) Joh 7:46 
+**[7:29]** denn er lehrte sie wie einer, der Gewalt hat, und nicht wie ihre Schriftgelehrten. (a) Joh 7:46
 
 ### Chapter 8
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** Die Hirten aber flohen und gingen in die Stadt und verkündigten alles, auch was mit den Besessenen vorgegangen war.
 
-**[8:34]** Und siehe, die ganze Stadt ging hinaus, Jesus entgegen; und als sie ihn sahen, baten sie ihn, aus ihrem Gebiet wegzugehen. 
+**[8:34]** Und siehe, die ganze Stadt ging hinaus, Jesus entgegen; und als sie ihn sahen, baten sie ihn, aus ihrem Gebiet wegzugehen.
 
 ### Chapter 9
 
@@ -48790,7 +48790,7 @@
 
 **[9:37]** Da sagte er zu seinen Jüngern: Die Ernte ist gross, aber der Arbeiter sind wenige. (a) Lu 10:2; Joh 4:35
 
-**[9:38]** Bittet daher den Herrn der Ernte, dass er Arbeiter in seine Ernte sende! 
+**[9:38]** Bittet daher den Herrn der Ernte, dass er Arbeiter in seine Ernte sende!
 
 ### Chapter 10
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Wer einen Propheten aufnimmt, weil er ein Prophet ist, wird den Lohn eines Propheten empfangen; und wer einen Gerechten aufnimmt, weil er ein Gerechter ist, wird den Lohn eines Gerechten empfangen; (a) 1Kön 17:9-24; 2Kön 4:8-37
 
-**[10:42]** und wer einem dieser Geringen auch nur einen Becher kalten Wassers zu trinken gibt, weil er ein Jünger ist, wahrlich, ich sage euch: Ihm soll sein Lohn nicht mangeln. (a) Mt 25:40; Mr 9:41 
+**[10:42]** und wer einem dieser Geringen auch nur einen Becher kalten Wassers zu trinken gibt, weil er ein Jünger ist, wahrlich, ich sage euch: Ihm soll sein Lohn nicht mangeln. (a) Mt 25:40; Mr 9:41
 
 ### Chapter 11
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Nehmet mein Joch auf euch und lernet von mir, denn ich bin sanftmütig und von Herzen demütig; so "werdet ihr Ruhe finden für eure Seelen". (a) Jer 6:16; Sac 9:9; Php 2:5-8
 
-**[11:30]** Denn mein Joch ist sanft und meine Last ist leicht. (a) 1Jo 5:3 
+**[11:30]** Denn mein Joch ist sanft und meine Last ist leicht. (a) 1Jo 5:3
 
 ### Chapter 12
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** Und er streckte seine Hand über seine Jünger aus und sprach: Siehe, das sind meine Mutter und meine Brüder!
 
-**[12:50]** Denn wer den Willen meines Vaters in den Himmeln tut, der ist mir Bruder und Schwester und Mutter. (a) Joh 15:14 
+**[12:50]** Denn wer den Willen meines Vaters in den Himmeln tut, der ist mir Bruder und Schwester und Mutter. (a) Joh 15:14
 
 ### Chapter 13
 
@@ -49158,7 +49158,7 @@
 
 **[13:57]** Und sie nahmen Anstoss an ihm. Jesus aber sprach zu ihnen: Ein Prophet ist nirgends verachtet ausser in seiner Vaterstadt und in seinem Hause. (a) Joh 4:44
 
-**[13:58]** Und er vollbrachte dort nicht viele Machttaten um ihres Unglaubens willen. 
+**[13:58]** Und er vollbrachte dort nicht viele Machttaten um ihres Unglaubens willen.
 
 ### Chapter 14
 
@@ -49232,7 +49232,7 @@
 
 **[14:35]** Und als ihn die Männer jenes Ortes erkannten, sandten sie in jene ganze Umgegend, und man brachte alle Kranken zu ihm.
 
-**[14:36]** Und sie baten ihn, dass sie auch nur die Quaste seines Kleides anrühren dürften; und alle, die sie anrührten, wurden gerettet. (a) Mt 9:21; Lu 6:19 
+**[14:36]** Und sie baten ihn, dass sie auch nur die Quaste seines Kleides anrühren dürften; und alle, die sie anrührten, wurden gerettet. (a) Mt 9:21; Lu 6:19
 
 ### Chapter 15
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** Die aber gegessen hatten, waren viertausend Männer, ohne die Frauen und Kinder.
 
-**[15:39]** Und nachdem er die Volksmenge entlassen hatte, stieg er ins Schiff und kam in das Gebiet von Magdala. (1) andre, sehr nahmhafte alte Textzeugen haben: "von Magadan", das sonst nicht bekannt ist. 
+**[15:39]** Und nachdem er die Volksmenge entlassen hatte, stieg er ins Schiff und kam in das Gebiet von Magdala. (1) andre, sehr nahmhafte alte Textzeugen haben: "von Magadan", das sonst nicht bekannt ist.
 
 ### Chapter 16
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** Denn der Sohn des Menschen wird in der Herrlichkeit seines Vaters mit seinen Engeln kommen, und dann wird er jedem nach seinem Tun vergelten. (a) Mt 24:30; 25:31; Joh 5:29; Rö 2:6; Ps 62:13; Spr 24:12
 
-**[16:28]** Wahrlich, ich sage euch: Unter denen, die hier stehen, sind einige, die den Tod nicht schmecken werden, bis sie den Sohn des Menschen mit seiner Königsherrschaft haben kommen sehen. (a) Mt 10:23 
+**[16:28]** Wahrlich, ich sage euch: Unter denen, die hier stehen, sind einige, die den Tod nicht schmecken werden, bis sie den Sohn des Menschen mit seiner Königsherrschaft haben kommen sehen. (a) Mt 10:23
 
 ### Chapter 17
 
@@ -49426,7 +49426,7 @@
 
 **[17:26]** Da er aber sagte: Von den Fremden, sprach Jesus zu ihm: Also sind die Söhne frei.
 
-**[17:27]** Doch damit wir ihnen keinen Anstoss geben, geh an den See, wirf die Angel aus und nimm den ersten Fisch, der heraufkommt, und wenn du sein Maul öffnest, wirst du ein Vierdrachmenstück finden; das nimm und gib es ihnen für mich und dich! (a) Rö 14:13; 1Kor 8:13 
+**[17:27]** Doch damit wir ihnen keinen Anstoss geben, geh an den See, wirf die Angel aus und nimm den ersten Fisch, der heraufkommt, und wenn du sein Maul öffnest, wirst du ein Vierdrachmenstück finden; das nimm und gib es ihnen für mich und dich! (a) Rö 14:13; 1Kor 8:13
 
 ### Chapter 18
 
@@ -49498,7 +49498,7 @@
 
 **[18:34]** Und sein Herr wurde zornig und übergab ihn den Folterknechten, bis er alles bezahlt hätte, was er ihm schuldig war. (a) Mt 5:26
 
-**[18:35]** So wird auch mein himmlischer Vater euch tun, wenn ihr nicht jeder seinem Bruder von Herzen vergebt. (a) Mt 6:15; Mr 11:25 
+**[18:35]** So wird auch mein himmlischer Vater euch tun, wenn ihr nicht jeder seinem Bruder von Herzen vergebt. (a) Mt 6:15; Mr 11:25
 
 ### Chapter 19
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** Und jeder, der Häuser oder Brüder oder Schwestern oder Vater oder Mutter oder Weib oder Kinder oder Äcker um meines Namens willen verlassen hat, der wird es vielfältig empfangen und das ewige Leben ererben.
 
-**[19:30]** Viele aber, welche Erste sind, werden Letzte sein, und (viele,) welche Letzte sind, Erste. (a) Mt 20:16; Lu 13:30 
+**[19:30]** Viele aber, welche Erste sind, werden Letzte sein, und (viele,) welche Letzte sind, Erste. (a) Mt 20:16; Lu 13:30
 
 ### Chapter 20
 
@@ -49630,7 +49630,7 @@
 
 **[20:33]** Sie sagten zu ihm: Herr, dass unsre Augen geöffnet werden.
 
-**[20:34]** Da hatte Jesus Erbarmen mit ihnen und berührte ihre Augen; und alsbald sahen sie wieder und folgten ihm nach. 
+**[20:34]** Da hatte Jesus Erbarmen mit ihnen und berührte ihre Augen; und alsbald sahen sie wieder und folgten ihm nach.
 
 ### Chapter 21
 
@@ -49654,7 +49654,7 @@
 
 **[21:10]** Und als er in Jerusalem einzog, kam die ganze Stadt in Bewegung und sagte: Wer ist das?
 
-**[21:11]** Die Volksmenge aber sagte: Das ist der Prophet Jesus aus Nazareth in Galiläa. 
+**[21:11]** Die Volksmenge aber sagte: Das ist der Prophet Jesus aus Nazareth in Galiläa.
 
 **[21:12]** UND Jesus ging in den Tempel Gottes und trieb alle, die im Tempel verkauften und kauften, hinaus und stiess die Tische der Wechsler und die Sitze der Taubenverkäufer um (a) Sac 14:21
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** Wenn nun David ihn "Herr" nennt, wie kann er (dann) sein Sohn sein?
 
-**[22:46]** Und niemand konnte ihm ein Wort antworten; auch wagte es von jenem Tag an niemand mehr, ihn zu fragen. (a) Mr 12:34; Lu 20:40 
+**[22:46]** Und niemand konnte ihm ein Wort antworten; auch wagte es von jenem Tag an niemand mehr, ihn zu fragen. (a) Mr 12:34; Lu 20:40
 
 ### Chapter 23
 
@@ -49898,7 +49898,7 @@
 
 **[23:38]** Siehe, euer Haus wird euch öde gelassen. (a) Mt 24:2; Jer 12:7; 1Kön 9:7 8
 
-**[23:39]** Denn ich sage euch: Ihr werdet mich von jetzt an nicht (mehr) sehen, bis ihr sprechen werdet: "Gepriesen sei, der da kommt im Namen des Herrn." (a) Mt 21:9; Joh 12:13; Ps 118:26 
+**[23:39]** Denn ich sage euch: Ihr werdet mich von jetzt an nicht (mehr) sehen, bis ihr sprechen werdet: "Gepriesen sei, der da kommt im Namen des Herrn." (a) Mt 21:9; Joh 12:13; Ps 118:26
 
 ### Chapter 24
 
@@ -50002,7 +50002,7 @@
 
 **[24:50]** so wird der Herr jenes Knechtes an einem Tage kommen, an dem er es nicht erwartet, und zu einer Stunde, die er nicht weiss,
 
-**[24:51]** und wird ihn in Stücke hauen lassen und ihm sein Teil unter den Heuchlern geben. Dort wird Heulen und Zähneknirschen sein. (a) Mt 8:12 
+**[24:51]** und wird ihn in Stücke hauen lassen und ihm sein Teil unter den Heuchlern geben. Dort wird Heulen und Zähneknirschen sein. (a) Mt 8:12
 
 ### Chapter 25
 
@@ -50096,7 +50096,7 @@
 
 **[25:45]** Dann wird er ihnen antworten: Wahrlich, ich sage euch: Wiefern ihr es einem dieser Geringsten nicht getan habt, habt ihr es auch mir nicht getan.
 
-**[25:46]** Und diese werden in die ewige Strafe gehen, die Gerechten aber in das ewige Leben. (a) Joh 5:29; Da 12:2 
+**[25:46]** Und diese werden in die ewige Strafe gehen, die Gerechten aber in das ewige Leben. (a) Joh 5:29; Da 12:2
 
 ### Chapter 26
 
@@ -50248,7 +50248,7 @@
 
 **[26:74]** Darauf fing er an zu fluchen und zu schwören: Ich kenne den Menschen nicht. Und alsbald krähte der Hahn.
 
-**[26:75]** Da erinnerte sich Petrus des Wortes Jesu, der gesagt hatte: Ehe der Hahn kräht, wirst du mich dreimal verleugnen. Und er ging hinaus und weinte bitterlich. (a) Mt 26:34 
+**[26:75]** Da erinnerte sich Petrus des Wortes Jesu, der gesagt hatte: Ehe der Hahn kräht, wirst du mich dreimal verleugnen. Und er ging hinaus und weinte bitterlich. (a) Mt 26:34
 
 ### Chapter 27
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** Pilatus sagte zu ihnen: Ihr sollt eine Wache haben; gehet hin, bewachet es, so gut ihr könnt!
 
-**[27:66]** Die aber gingen hin, versiegelten den Stein und bewachten das Grab gemeinsam mit der Wache. 
+**[27:66]** Die aber gingen hin, versiegelten den Stein und bewachten das Grab gemeinsam mit der Wache.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Darum gehet hin und machet alle Völker zu Jüngern und taufet sie auf den Namen des Vaters und des Sohnes und des heiligen Geistes, (a) Mt 10:5 6; Mr 16:15 16
 
-**[28:20]** und lehret sie alles halten, was ich euch befohlen habe! und siehe, ich bin bei euch alle Tage bis an das Ende der Welt. (1) V. 19-20 w:"...machet alle Völker zu Jüngern, indem ihr sie tauft auf den Namen des Vaters und des Sohnes und des heiligen Geistes, indem ihr sie alles halten lehrt, was ich euch befohlen habe!" (a) Mt 5:19; 18:20; Joh 14:23  
+**[28:20]** und lehret sie alles halten, was ich euch befohlen habe! und siehe, ich bin bei euch alle Tage bis an das Ende der Welt. (1) V. 19-20 w:"...machet alle Völker zu Jüngern, indem ihr sie tauft auf den Namen des Vaters und des Sohnes und des heiligen Geistes, indem ihr sie alles halten lehrt, was ich euch befohlen habe!" (a) Mt 5:19; 18:20; Joh 14:23
 
 ## Mark
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** und sprach zu ihm: Sieh zu, sage niemandem etwas, sondern geh hin, zeige dich dem Priester und opfere für deine Reinigung, was Mose befohlen hat, ihnen zum Zeugnis! (a) 3Mo 14:2-32
 
-**[1:45]** Der aber ging hinweg und fing an, die Sache vielfach zu verkündigen und auszubreiten, sodass er nicht mehr offen in eine Stadt hineingehen konnte, sondern er war draussen an einsamen Orten, und sie kamen von überallher zu ihm. 
+**[1:45]** Der aber ging hinweg und fing an, die Sache vielfach zu verkündigen und auszubreiten, sodass er nicht mehr offen in eine Stadt hineingehen konnte, sondern er war draussen an einsamen Orten, und sie kamen von überallher zu ihm.
 
 ### Chapter 2
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** Und er sprach zu ihnen: Der Sabbat ist um des Menschen willen geschaffen worden und nicht der Mensch um des Sabbats willen. (a) 5Mo 5:14
 
-**[2:28]** Somit ist der Sohn des Menschen Herr auch über den Sabbat. 
+**[2:28]** Somit ist der Sohn des Menschen Herr auch über den Sabbat.
 
 ### Chapter 3
 
@@ -50648,7 +50648,7 @@
 
 **[3:34]** Und indem er ringsumher die um ihn Sitzenden ansieht, sagt er: Siehe, das sind meine Mutter und meine Brüder.
 
-**[3:35]** Wer den Willen Gottes tut, der ist mir Bruder und Schwester und Mutter. 
+**[3:35]** Wer den Willen Gottes tut, der ist mir Bruder und Schwester und Mutter.
 
 ### Chapter 4
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** Und er sprach zu ihnen: Warum seid ihr so furchtsam? Habt ihr noch keinen Glauben?
 
-**[4:41]** Und sie gerieten in grosse Furcht und sagten zueinander: Wer ist doch dieser, dass ihm sogar der Wind und der See gehorsam sind? 
+**[4:41]** Und sie gerieten in grosse Furcht und sagten zueinander: Wer ist doch dieser, dass ihm sogar der Wind und der See gehorsam sind?
 
 ### Chapter 5
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** Da stand das Mädchen sogleich auf und ging umher; es war nämlich zwölf Jahre alt. Und sie gerieten alsbald in grosses Staunen.
 
-**[5:43]** Und er gebot ihnen ernstlich, dass niemand dies erfahren solle, und befahl, ihr zu essen zu geben. (a) Mr 1:44; 7:36 
+**[5:43]** Und er gebot ihnen ernstlich, dass niemand dies erfahren solle, und befahl, ihr zu essen zu geben. (a) Mr 1:44; 7:36
 
 ### Chapter 6
 
@@ -50934,7 +50934,7 @@
 
 **[6:55]** und sie liefen in jener ganzen Landschaft umher und fingen an, die Kranken auf den Betten hierhin und dorthin zu tragen, wo sie hörten, dass er (gerade) sei.
 
-**[6:56]** Und wo er in Dörfer oder Städte oder Gehöfte hineinging, legten sie die Kranken auf die Marktplätze und baten ihn, dass sie auch nur die Quaste seines Kleides anrühren dürften. Und alle, die sie anrührten, wurden gesund. (a) Mr 5:27 28; Apg 5:15; 19:11 12 
+**[6:56]** Und wo er in Dörfer oder Städte oder Gehöfte hineinging, legten sie die Kranken auf die Marktplätze und baten ihn, dass sie auch nur die Quaste seines Kleides anrühren dürften. Und alle, die sie anrührten, wurden gesund. (a) Mr 5:27 28; Apg 5:15; 19:11 12
 
 ### Chapter 7
 
@@ -51010,7 +51010,7 @@
 
 **[7:36]** Und er gebot ihnen, dass sie es niemandem sagen sollten; aber soviel er es ihnen gebot, um soviel mehr machten sie es kund. (a) Mr 1:43-45
 
-**[7:37]** Und sie erstaunten im höchsten Mass und sprachen: Er hat alles wohl gemacht, und die Tauben macht er hören und die Stummen reden. (a) Jes 35:5 
+**[7:37]** Und sie erstaunten im höchsten Mass und sprachen: Er hat alles wohl gemacht, und die Tauben macht er hören und die Stummen reden. (a) Jes 35:5
 
 ### Chapter 8
 
@@ -51088,7 +51088,7 @@
 
 **[8:37]** Denn was könnte ein Mensch als Gegenwert (zur Wiedererlangung) seines Lebens geben? (a) Ps 49:8 9
 
-**[8:38]** Denn wer sich meiner und meiner Worte schämt unter diesem abtrünnigen und sündhaften Geschlecht, dessen wird sich auch der Sohn des Menschen schämen, wenn er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln. (1) vgl. Anm. zu Mt 12:39. (a) Mt 10:33 
+**[8:38]** Denn wer sich meiner und meiner Worte schämt unter diesem abtrünnigen und sündhaften Geschlecht, dessen wird sich auch der Sohn des Menschen schämen, wenn er kommen wird in der Herrlichkeit seines Vaters mit den heiligen Engeln. (1) vgl. Anm. zu Mt 12:39. (a) Mt 10:33
 
 ### Chapter 9
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** Denn jeder wird mit Feuer gesalzen werden, und jedes Opfer wird mit Salz gesalzen werden. (1) mehrere alte Textzeugen lassen diese Worte weg (a) 3Mo 2:13
 
-**[9:50]** Das Salz ist etwas Gutes; wenn aber das Salz salzlos wird, womit wollt ihr es wieder kräftig machen? Habet Salz in euch und haltet Frieden untereinander! (a) Mt 5:13; Lu 14:34; Kol 4:6; Rö 12:18; Heb 12:14 
+**[9:50]** Das Salz ist etwas Gutes; wenn aber das Salz salzlos wird, womit wollt ihr es wieder kräftig machen? Habet Salz in euch und haltet Frieden untereinander! (a) Mt 5:13; Lu 14:34; Kol 4:6; Rö 12:18; Heb 12:14
 
 ### Chapter 10
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** Und Jesus begann und sprach zu ihm: Was willst du, dass ich dir tun soll? Der Blinde aber sagte zu ihm: Rabbuni, dass ich wiedersehen kann.
 
-**[10:52]** Da sprach Jesus zu ihm: Geh hin; dein Glaube hat dich gerettet. Und alsbald sah er wieder und folgte ihm auf dem Wege nach. (a) Mr 5:34 
+**[10:52]** Da sprach Jesus zu ihm: Geh hin; dein Glaube hat dich gerettet. Und alsbald sah er wieder und folgte ihm auf dem Wege nach. (a) Mr 5:34
 
 ### Chapter 11
 
@@ -51364,7 +51364,7 @@
 
 **[11:32]** Sollen wir vielmehr sagen: Von Menschen? - Sie fürchteten (nämlich) das Volk; denn alle hielten dafür, Johannes sei wirklich ein Prophet gewesen.
 
-**[11:33]** Und sie antworteten Jesus und sagten: Wir wissen es nicht. Da sprach Jesus zu ihnen: So sage auch ich euch nicht, in was für einer Vollmacht ich dies tue. 
+**[11:33]** Und sie antworteten Jesus und sagten: Wir wissen es nicht. Da sprach Jesus zu ihnen: So sage auch ich euch nicht, in was für einer Vollmacht ich dies tue.
 
 ### Chapter 12
 
@@ -51454,7 +51454,7 @@
 
 **[12:43]** Da rief er seine Jünger zu sich und sprach zu ihnen: Wahrlich, ich sage euch: Diese arme Witwe hat mehr eingelegt als alle, die in den Opferstock eingelegt haben.
 
-**[12:44]** Denn alle haben aus ihrem Überfluss eingelegt; diese aber hat aus ihrem Mangel heraus alles eingelegt, was sie hatte, ihr ganzes Gut. 
+**[12:44]** Denn alle haben aus ihrem Überfluss eingelegt; diese aber hat aus ihrem Mangel heraus alles eingelegt, was sie hatte, ihr ganzes Gut.
 
 ### Chapter 13
 
@@ -51530,7 +51530,7 @@
 
 **[13:36]** damit er nicht, wenn er auf einmal kommt, euch schlafend finde.
 
-**[13:37]** Was ich aber euch sage, das sage ich allen: Wachet! 
+**[13:37]** Was ich aber euch sage, das sage ich allen: Wachet!
 
 ### Chapter 14
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** Er aber fing an, zu fluchen und zu schwören: Ich kenne diesen Menschen nicht, von dem ihr redet.
 
-**[14:72]** Und alsbald krähte der Hahn zum zweitenmal. Da erinnerte sich Petrus des Wortes, wie Jesus zu ihm gesagt hatte: Ehe der Hahn zweimal kräht, wirst du mich dreimal verleugnen. Und er verhüllte sich und weinte. 
+**[14:72]** Und alsbald krähte der Hahn zum zweitenmal. Da erinnerte sich Petrus des Wortes, wie Jesus zu ihm gesagt hatte: Ehe der Hahn zweimal kräht, wirst du mich dreimal verleugnen. Und er verhüllte sich und weinte.
 
 ### Chapter 15
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** Dieser kaufte Leinwand, nahm ihn herab, hüllte ihn in die Leinwand, legte ihn in eine Gruft, die in einen Felsen gehauen war, und wälzte einen Stein vor die Türe der Gruft.
 
-**[15:47]** Maria aus Magdala aber und die Maria des Joses sahen, wo er hingelegt worden war. 
+**[15:47]** Maria aus Magdala aber und die Maria des Joses sahen, wo er hingelegt worden war.
 
 ### Chapter 16
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Der Herr Jesus nun wurde, nachdem er zu ihnen geredet hatte, in den Himmel emporgehoben und setzte sich zur Rechten Gottes. (a) Lu 24:50-53; Apg 1:4-11; 1Ti 3:16; Ps 110:1; Heb 1:3 13
 
-**[16:20]** Sie aber zogen aus und predigten überall, indem der Herr mitwirkte und das Wort durch die begleitenden Zeichen bestätigte. (a) Heb 2:4; Apg 3:16; 5:12; 14:3  
+**[16:20]** Sie aber zogen aus und predigten überall, indem der Herr mitwirkte und das Wort durch die begleitenden Zeichen bestätigte. (a) Heb 2:4; Apg 3:16; 5:12; 14:3
 
 ## Luke
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** zu leuchten denen, die in Finsternis und Todesschatten sitzen, / zu leiten unsre Füsse auf den Weg des Friedens. (a) Jes 9:2; 42:7; 49:6; 58:8; Mt 4:16
 
-**[1:80]** Das Kindlein aber wuchs und wurde stark im Geist und war in der Einöde bis zum Tage seines Auftretens vor Israel. (a) Lu 2:40; 3:2; Mt 3:1 
+**[1:80]** Das Kindlein aber wuchs und wurde stark im Geist und war in der Einöde bis zum Tage seines Auftretens vor Israel. (a) Lu 2:40; 3:2; Mt 3:1
 
 ### Chapter 2
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** Und er ging mit ihnen hinab und kam nach Nazareth und war ihnen untertan. Und seine Mutter behielt alle die Worte in ihrem Herzen. (1) V. 19
 
-**[2:52]** Und Jesus nahm zu an Weisheit und Alter und Gnade bei Gott und Menschen. (a) 1Sa 2:26 
+**[2:52]** Und Jesus nahm zu an Weisheit und Alter und Gnade bei Gott und Menschen. (a) 1Sa 2:26
 
 ### Chapter 3
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** der des Methusalah, der des Henoch, der des Jared, der des Mahalaleel, der des Kenan,
 
-**[3:38]** der des Enos, der des Seth, der des Adam, der Gottes. (a) 1Mo 4:25 26; 5:1-3 
+**[3:38]** der des Enos, der des Seth, der des Adam, der Gottes. (a) 1Mo 4:25 26; 5:1-3
 
 ### Chapter 4
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** Er jedoch sprach zu ihnen: Auch den andern Städten muss ich das Evangelium vom Reiche Gottes verkündigen; denn dazu bin ich gesandt. (a) Lu 8:1
 
-**[4:44]** Und er predigte in den Synagogen des jüdischen Landes. (a) Mt 4:23 
+**[4:44]** Und er predigte in den Synagogen des jüdischen Landes. (a) Mt 4:23
 
 ### Chapter 5
 
@@ -52332,7 +52332,7 @@
 
 **[5:38]** Sondern neuen Wein soll man in neue Schläuche füllen.
 
-**[5:39]** Und niemand, der alten getrunken hat, will neuen; denn er sagt: Der alte ist gut. 
+**[5:39]** Und niemand, der alten getrunken hat, will neuen; denn er sagt: Der alte ist gut.
 
 ### Chapter 6
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** Er ist gleich einem Menschen, der beim Bau eines Hauses tief grub und die Grundmauer auf dem Felsen errichtete. Als aber eine Flut kam, stiess der Wasserstrom an jenes Haus, und er vermochte es nicht zu erschüttern, weil es gut gebaut war.
 
-**[6:49]** Wer aber hört und nicht tut, ist gleich einem Menschen, der ein Haus ohne Grundmauer auf das Erdreich baute; und der Wasserstrom stiess daran, und alsbald stürzte es zusammen, und der Einsturz jenes Hauses war gross. 
+**[6:49]** Wer aber hört und nicht tut, ist gleich einem Menschen, der ein Haus ohne Grundmauer auf das Erdreich baute; und der Wasserstrom stiess daran, und alsbald stürzte es zusammen, und der Einsturz jenes Hauses war gross.
 
 ### Chapter 7
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** Da fingen die Tischgenossen an, bei sich selbst zu sagen: Wer ist dieser, der sogar Sünden vergibt?
 
-**[7:50]** Er sprach aber zu der Frau: Dein Glaube hat dich gerettet; geh hin in Frieden! (a) Lu 8:48; 17:19; 18:42; Mr 5:34 
+**[7:50]** Er sprach aber zu der Frau: Dein Glaube hat dich gerettet; geh hin in Frieden! (a) Lu 8:48; 17:19; 18:42; Mr 5:34
 
 ### Chapter 8
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** Da kehrte ihr Geist wieder, und sie stand sofort auf; und er befahl, ihr zu essen zu geben.
 
-**[8:56]** Und ihre Eltern erstaunten; er aber gebot ihnen, niemandem zu sagen, was geschehen war. (a) Lu 5:14; Mr 7:36 
+**[8:56]** Und ihre Eltern erstaunten; er aber gebot ihnen, niemandem zu sagen, was geschehen war. (a) Lu 5:14; Mr 7:36
 
 ### Chapter 9
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** Es sagte aber auch ein andrer: Ich will dir nachfolgen, Herr; zuvor jedoch erlaube mir, von denen, die in meinem Hause sind, Abschied zu nehmen. (a) 1Kön 19:20
 
-**[9:62]** Da sprach Jesus zu ihm: Niemand, der seine Hand an den Pflug legt und zurückblickt, ist tauglich für das Reich Gottes. (a) Lu 17:32 33 
+**[9:62]** Da sprach Jesus zu ihm: Niemand, der seine Hand an den Pflug legt und zurückblickt, ist tauglich für das Reich Gottes. (a) Lu 17:32 33
 
 ### Chapter 10
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** Doch der Herr antwortete und sprach zu ihr: Martha, Martha, du machst dir Sorge und Unruhe um viele Dinge. (1) V. 41-42: Mt 6:33; Joh 6:27 33
 
-**[10:42]** Weniges aber ist not; Maria nämlich hat das gute Teil erwählt, und das soll nicht von ihr genommen werden. (1) viele alte Textzeugen haben: "Eins aber ist not; Maria aber..." noch andre verbinden beide L. so: "Weniges aber ist not oder (nur) eins: Maria nämlich..." 
+**[10:42]** Weniges aber ist not; Maria nämlich hat das gute Teil erwählt, und das soll nicht von ihr genommen werden. (1) viele alte Textzeugen haben: "Eins aber ist not; Maria aber..." noch andre verbinden beide L. so: "Weniges aber ist not oder (nur) eins: Maria nämlich..."
 
 ### Chapter 11
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** Und als er von dort weggegangen war, fingen die Schriftgelehrten und die Pharisäer an, ihm scharf nachzustellen und ihn über mehrere Dinge auszufragen,
 
-**[11:54]** indem sie ihm auflauerten, um etwas aus seinem Munde zu erhaschen. (a) Lu 20:20; Joh 8:6 
+**[11:54]** indem sie ihm auflauerten, um etwas aus seinem Munde zu erhaschen. (a) Lu 20:20; Joh 8:6
 
 ### Chapter 12
 
@@ -53090,7 +53090,7 @@
 
 **[12:58]** Denn wenn du mit deinem Gegner zum Beamten gehst, so gib dir unterwegs Mühe, gütlich von ihm loszukommen, damit er dich nicht etwa vor den Richter schleppt und der Richter dich dem Gerichtsdiener übergibt und der Gerichtsdiener dich ins Gefängnis setzt. (1) V. 58-59: Mt 5:25 26
 
-**[12:59]** Ich sage dir: Du wirst von dort nicht herauskommen, bis du auch den letzten Heller bezahlt hast. 
+**[12:59]** Ich sage dir: Du wirst von dort nicht herauskommen, bis du auch den letzten Heller bezahlt hast.
 
 ### Chapter 13
 
@@ -53162,7 +53162,7 @@
 
 **[13:34]** Jerusalem, Jerusalem, das die Propheten tötet und die steinigt, die zu ihm gesandt sind, wie oft habe ich deine Kinder sammeln wollen wie eine Henne ihre Küchlein unter ihre Flügel, und ihr habt nicht gewollt!
 
-**[13:35]** Siehe, euer Haus wird euch öde gelassen. Ich sage euch aber: Ihr werdet mich nicht sehen, bis die Zeit kommen wird, wo ihr sprecht: "Gepriesen sei, der da kommt im Namen des Herrn!" (a) Ps 69:26; 118:26; Mt 21:9; Lu 19:38 
+**[13:35]** Siehe, euer Haus wird euch öde gelassen. Ich sage euch aber: Ihr werdet mich nicht sehen, bis die Zeit kommen wird, wo ihr sprecht: "Gepriesen sei, der da kommt im Namen des Herrn!" (a) Ps 69:26; 118:26; Mt 21:9; Lu 19:38
 
 ### Chapter 14
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Das Salz nun ist etwas Gutes; wenn aber sogar das Salz seine Schärfe verliert, womit soll es wieder kräftig gemacht werden? (a) Mt 5:13; Mr 9:50
 
-**[14:35]** Es ist weder für das Erdreich noch für den Dünger tauglich; man wirft es hinaus. Wer Ohren hat, zu hören, der höre! 
+**[14:35]** Es ist weder für das Erdreich noch für den Dünger tauglich; man wirft es hinaus. Wer Ohren hat, zu hören, der höre!
 
 ### Chapter 15
 
@@ -53300,7 +53300,7 @@
 
 **[15:31]** Da sagte er zu ihm: Kind, du bist allezeit bei mir, und alles, was mein ist, ist dein. (a) Joh 17:10
 
-**[15:32]** Du solltest aber fröhlich sein und dich freuen; denn dieser dein Bruder war tot und ist lebendig geworden, und (war) verloren und ist wiedergefunden worden. 
+**[15:32]** Du solltest aber fröhlich sein und dich freuen; denn dieser dein Bruder war tot und ist lebendig geworden, und (war) verloren und ist wiedergefunden worden.
 
 ### Chapter 16
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** Der jedoch sagte: Nein, Vater Abraham, sondern wenn einer von den Toten zu ihnen geht, werden sie Busse tun.
 
-**[16:31]** Da sprach er zu ihm: Wenn sie auf Mose und die Propheten nicht hören, werden sie sich auch nicht gewinnen lassen, wenn einer von den Toten aufersteht. (a) Joh 5:46; 11:43-53 
+**[16:31]** Da sprach er zu ihm: Wenn sie auf Mose und die Propheten nicht hören, werden sie sich auch nicht gewinnen lassen, wenn einer von den Toten aufersteht. (a) Joh 5:46; 11:43-53
 
 ### Chapter 17
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** [Zwei werden auf dem Felde sein; der eine wird angenommen und der andre zurückgelassen werden.] (1) ein. Textzeugen fügen diesen Vers hinzu - vgl. Mt 24:40
 
-**[17:37]** Und sie antworteten und sagten zu ihm: Wo, Herr? Er aber sprach zu ihnen: Wo die Leichen sind, da sammeln sich auch die Adler. (a) Hio 39:30; Mt 24:28 
+**[17:37]** Und sie antworteten und sagten zu ihm: Wo, Herr? Er aber sprach zu ihnen: Wo die Leichen sind, da sammeln sich auch die Adler. (a) Hio 39:30; Mt 24:28
 
 ### Chapter 18
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** Und Jesus sprach zu ihm: Werde wieder sehend! Dein Glaube hat dich gerettet. (a) Lu 7:50; 17:19
 
-**[18:43]** Und sofort wurde er wieder sehend, und er folgte ihm nach und pries Gott. Und alles Volk, das zusah, gab Gott die Ehre. (a) Lu 7:16; 17:15; 19:37 
+**[18:43]** Und sofort wurde er wieder sehend, und er folgte ihm nach und pries Gott. Und alles Volk, das zusah, gab Gott die Ehre. (a) Lu 7:16; 17:15; 19:37
 
 ### Chapter 19
 
@@ -53626,7 +53626,7 @@
 
 **[19:47]** Und er lehrte täglich im Tempel; die Hohenpriester aber und die Schriftgelehrten und die Vornehmsten des Volkes suchten ihn ins Verderben zu bringen, (a) Lu 21:37; 22:53; Joh 18:20; Mt 21:45 46
 
-**[19:48]** und sie fanden nicht, was sie tun sollten; denn das ganze Volk hing ihm an und hörte auf ihn. (a) Lu 21:38; Mr 12:37 
+**[19:48]** und sie fanden nicht, was sie tun sollten; denn das ganze Volk hing ihm an und hörte auf ihn. (a) Lu 21:38; Mr 12:37
 
 ### Chapter 20
 
@@ -53722,7 +53722,7 @@
 
 **[20:46]** Hütet euch vor den Schriftgelehrten, die gern in langen Gewändern einhergehen und die Begrüssungen auf den Märkten und den Vorsitz in den Synagogen und die obersten Plätze bei den Mahlzeiten lieben, (a) Lu 11:43
 
-**[20:47]** die die Häuser der Witwen aufzehren und (dabei) zum Schein lange Gebete sprechen; diese werden ein (um so) strengeres Gericht empfangen. 
+**[20:47]** die die Häuser der Witwen aufzehren und (dabei) zum Schein lange Gebete sprechen; diese werden ein (um so) strengeres Gericht empfangen.
 
 ### Chapter 21
 
@@ -53800,7 +53800,7 @@
 
 **[21:37]** ER lehrte aber die Tage über im Tempel, des Nachts dagegen ging er hinaus und übernachtete an dem Berge, der der Ölberg heisst. (a) Lu 19:47; Mt 21:17; Joh 8:1; 18:1
 
-**[21:38]** Und alles Volk machte sich frühe zu ihm auf, um ihn im Tempel zu hören. (a) Lu 19:48 
+**[21:38]** Und alles Volk machte sich frühe zu ihm auf, um ihn im Tempel zu hören. (a) Lu 19:48
 
 ### Chapter 22
 
@@ -53944,7 +53944,7 @@
 
 **[22:70]** Sie sagten aber alle: So bist du also der Sohn Gottes? Er antwortete ihnen: Ihr sagt es, dass ich es bin.
 
-**[22:71]** Da sagten sie: Was bedürfen wir weiter Zeugnis? Wir haben es ja selbst aus seinem Munde gehört. 
+**[22:71]** Da sagten sie: Was bedürfen wir weiter Zeugnis? Wir haben es ja selbst aus seinem Munde gehört.
 
 ### Chapter 23
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** Es waren aber die Frauen, die ihn von Galiläa her begleitet hatten, mitgegangen und beschauten die Gruft und wie sein Leib hingelegt wurde.
 
-**[23:56]** Nachdem sie aber zurückgekehrt waren, bereiteten sie Balsam und Salben. Und den Sabbat über ruhten sie nach dem Gesetz. (a) Mr 16:1; 2Mo 20:10 
+**[23:56]** Nachdem sie aber zurückgekehrt waren, bereiteten sie Balsam und Salben. Und den Sabbat über ruhten sie nach dem Gesetz. (a) Mr 16:1; 2Mo 20:10
 
 ### Chapter 24
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Und sie warfen sich anbetend vor ihm nieder und kehrten mit grosser Freude nach Jerusalem zurück. (a) Joh 5:23; 16:22
 
-**[24:53]** Und sie waren allezeit im Tempel und priesen Gott.  
+**[24:53]** Und sie waren allezeit im Tempel und priesen Gott.
 
 ## John
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** Jesus antwortete und sprach zu ihm: Weil ich dir sagte: Ich sah dich unter dem Feigenbaum, glaubst du? Grösseres als dies wirst du sehen.
 
-**[1:51]** Und er sagt zu ihm: Wahrlich, wahrlich, ich sage euch: Ihr werdet den Himmel offen und "die Engel Gottes auf und nieder steigen" sehen auf den Sohn des Menschen. (a) 1Mo 28:12; Mt 4:11 
+**[1:51]** Und er sagt zu ihm: Wahrlich, wahrlich, ich sage euch: Ihr werdet den Himmel offen und "die Engel Gottes auf und nieder steigen" sehen auf den Sohn des Menschen. (a) 1Mo 28:12; Mt 4:11
 
 ### Chapter 2
 
@@ -54324,7 +54324,7 @@
 
 **[2:24]** Doch Jesus selbst vertraute sich ihnen nicht an, weil er alle kannte (a) Joh 6:64
 
-**[2:25]** und weil er nicht nötig hatte, dass jemand über den Menschen Zeugnis ablegte; denn er erkannte selbst, was im Menschen war. 
+**[2:25]** und weil er nicht nötig hatte, dass jemand über den Menschen Zeugnis ablegte; denn er erkannte selbst, was im Menschen war.
 
 ### Chapter 3
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** Der Vater liebt den Sohn und hat alles in seine Hand gegeben. (a) Joh 5:20; 10:17; 17:2; Mt 11:27
 
-**[3:36]** Wer an den Sohn glaubt, hat ewiges Leben; wer aber dem Sohne nicht gehorcht, wird das Leben nicht sehen, sondern der Zorn Gottes bleibt über ihm. (1) V. 15 18; 1Jo 5:12; Rö 11:20 30-32; Heb 3:18 19 
+**[3:36]** Wer an den Sohn glaubt, hat ewiges Leben; wer aber dem Sohne nicht gehorcht, wird das Leben nicht sehen, sondern der Zorn Gottes bleibt über ihm. (1) V. 15 18; 1Jo 5:12; Rö 11:20 30-32; Heb 3:18 19
 
 ### Chapter 4
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** Da erkannte der Vater, dass (es geschehen war) zu jener Stunde, in der Jesus zu ihm gesprochen hatte: Dein Sohn lebt. Und er glaubte samt seinem ganzen Hause. (a) Apg 16:15 31-34
 
-**[4:54]** Dies war hinwiederum das zweite Zeichen, das Jesus tat, als er aus Judäa nach Galiläa gekommen war. (a) Joh 2:11 
+**[4:54]** Dies war hinwiederum das zweite Zeichen, das Jesus tat, als er aus Judäa nach Galiläa gekommen war. (a) Joh 2:11
 
 ### Chapter 5
 
@@ -54604,7 +54604,7 @@
 
 **[5:46]** Denn wenn ihr Mose glaubtet, würdet ihr mir glauben; denn über mich hat jener geschrieben. (a) Lu 24:44; 5Mo 18:15 18
 
-**[5:47]** Wenn ihr aber seinen Schriften nicht glaubt, wie werdet ihr meinen Worten glauben? (a) Lu 16:31 
+**[5:47]** Wenn ihr aber seinen Schriften nicht glaubt, wie werdet ihr meinen Worten glauben? (a) Lu 16:31
 
 ### Chapter 6
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** Jesus antwortete ihnen: Habe nicht ich euch Zwölf erwählt? Und unter euch ist einer ein Teufel. (a) Lu 6:13; Joh 13:18; 15:16
 
-**[6:71]** Er meinte aber Judas, den Sohn des Simon Ischarioth; denn dieser sollte ihn verraten, einer von den Zwölfen. (1) V. 64; Joh 12:4; 18:2 
+**[6:71]** Er meinte aber Judas, den Sohn des Simon Ischarioth; denn dieser sollte ihn verraten, einer von den Zwölfen. (1) V. 64; Joh 12:4; 18:2
 
 ### Chapter 7
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** Sie antworteten und sagten zu ihm: Bist auch du aus Galiläa? Forsche, und du wirst sehen, dass aus Galiläa kein Prophet ersteht. (1) V. 41; 1:46
 
-**[7:53]** UND sie gingen jeder in sein Haus. (1) dieser Abschnitt, Joh. 7,53 - 8,11, ist eine Einschaltung von andrer Hand. 
+**[7:53]** UND sie gingen jeder in sein Haus. (1) dieser Abschnitt, Joh. 7,53 - 8,11, ist eine Einschaltung von andrer Hand.
 
 ### Chapter 8
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Jesus sprach zu ihnen: Wahrlich, wahrlich, ich sage euch: Ehe Abraham war, bin ich. (a) Joh 1:1 2
 
-**[8:59]** Da hoben sie Steine auf, um sie auf ihn zu werfen. Jesus aber verbarg sich und ging aus dem Tempel hinaus. (a) Joh 10:31; Mt 23:37 
+**[8:59]** Da hoben sie Steine auf, um sie auf ihn zu werfen. Jesus aber verbarg sich und ging aus dem Tempel hinaus. (a) Joh 10:31; Mt 23:37
 
 ### Chapter 9
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** Einige der Pharisäer, die bei ihm waren, hörten dies und sagten zu ihm: Sind etwa auch wir blind?
 
-**[9:41]** Jesus sprach zu ihnen: Wenn ihr blind wäret, hättet ihr keine Sünde. Nun aber sagt ihr: Wir sehen. Eure Sünde bleibt. (a) Joh 15:22 
+**[9:41]** Jesus sprach zu ihnen: Wenn ihr blind wäret, hättet ihr keine Sünde. Nun aber sagt ihr: Wir sehen. Eure Sünde bleibt. (a) Joh 15:22
 
 ### Chapter 10
 
@@ -55146,7 +55146,7 @@
 
 **[10:41]** Und viele kamen zu ihm und sagten: Johannes hat zwar kein Zeichen getan; was aber Johannes über diesen gesagt hat, ist alles wahr gewesen. (a) Joh 3:27-30
 
-**[10:42]** Und viele glaubten dort an ihn. (a) Joh 2:23; 7:31; 11:45 
+**[10:42]** Und viele glaubten dort an ihn. (a) Joh 2:23; 7:31; 11:45
 
 ### Chapter 11
 
@@ -55262,7 +55262,7 @@
 
 **[11:56]** Sie suchten nun Jesus und sagten, als sie miteinander im Tempel standen: Was meint ihr? Kommt er etwa nicht zum Fest? (a) Joh 7:11; 12:9
 
-**[11:57]** Die Hohenpriester und die Pharisäer hatten aber Befehl gegeben, es anzuzeigen, wenn jemand wisse, wo er sei, damit sie sich seiner bemächtigen könnten. 
+**[11:57]** Die Hohenpriester und die Pharisäer hatten aber Befehl gegeben, es anzuzeigen, wenn jemand wisse, wo er sei, damit sie sich seiner bemächtigen könnten.
 
 ### Chapter 12
 
@@ -55364,7 +55364,7 @@
 
 **[12:49]** Denn ich habe nicht von mir aus geredet, sondern der Vater, der mich gesandt hat, er hat mir Auftrag gegeben, was ich sagen und was ich reden soll. (a) Joh 8:26 28
 
-**[12:50]** Und ich weiss, dass sein Auftrag ewiges Leben ist. Was ich also rede, das rede ich so, wie es mir der Vater gesagt hat. (a) Joh 3:34; 6:40; 17:2 
+**[12:50]** Und ich weiss, dass sein Auftrag ewiges Leben ist. Was ich also rede, das rede ich so, wie es mir der Vater gesagt hat. (a) Joh 3:34; 6:40; 17:2
 
 ### Chapter 13
 
@@ -55442,7 +55442,7 @@
 
 **[13:37]** Petrus sagt zu ihm: Herr, warum kann ich dir jetzt nicht folgen? Mein Leben will ich für dich hingeben.
 
-**[13:38]** Jesus antwortet: Dein Leben willst du für mich hingeben? Wahrlich, wahrlich, ich sage dir: Der Hahn wird nicht krähen, bis du mich dreimal verleugnet hast. 
+**[13:38]** Jesus antwortet: Dein Leben willst du für mich hingeben? Wahrlich, wahrlich, ich sage dir: Der Hahn wird nicht krähen, bis du mich dreimal verleugnet hast.
 
 ### Chapter 14
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Ich werde nicht mehr vieles mit euch reden; denn es kommt der Fürst der Welt. Und an mir findet er nichts; (a) Joh 12:31; 16:11; Eph 2:2
 
-**[14:31]** aber die Welt soll erkennen, dass ich den Vater liebe und so tue, wie mir der Vater geboten hat. (Darum) stehet auf, lasset uns von hier weggehen! (a) Joh 10:18; Mt 26:46 
+**[14:31]** aber die Welt soll erkennen, dass ich den Vater liebe und so tue, wie mir der Vater geboten hat. (Darum) stehet auf, lasset uns von hier weggehen! (a) Joh 10:18; Mt 26:46
 
 ### Chapter 15
 
@@ -55562,7 +55562,7 @@
 
 **[15:26]** Wenn der Beistand kommt, den ich euch vom Vater her senden werde, der Geist der Wahrheit, der vom Vater ausgeht, so wird der von mir zeugen. (1) vgl. Anm. zu Joh 14:16. (a) Joh 14:16 26; Lu 24:49; 1Jo 5:6
 
-**[15:27]** Aber auch ihr seid Zeugen, weil ihr von Anfang an bei mir seid. (a) Apg 1:8 21 22; 5:32; Lu 1:2 
+**[15:27]** Aber auch ihr seid Zeugen, weil ihr von Anfang an bei mir seid. (a) Apg 1:8 21 22; 5:32; Lu 1:2
 
 ### Chapter 16
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** Siehe, die Stunde kommt und ist (schon) gekommen, wo ihr euch zerstreuen werdet, jeder in seine Heimat, und mich allein lassen werdet - und doch bin ich nicht allein, denn der Vater ist bei mir. (a) Mr 14:27 50; Joh 8:29
 
-**[16:33]** Dies habe ich zu euch geredet, damit ihr in mir Frieden habt. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden. (a) Joh 14:27; Rö 5:1; 1Jo 5:4 
+**[16:33]** Dies habe ich zu euch geredet, damit ihr in mir Frieden habt. In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden. (a) Joh 14:27; Rö 5:1; 1Jo 5:4
 
 ### Chapter 17
 
@@ -55684,7 +55684,7 @@
 
 **[17:25]** Gerechter Vater - die Welt hat dich nicht erkannt; ich aber habe dich erkannt, und diese haben erkannt, dass du mich gesandt hast. (a) Joh 8:19
 
-**[17:26]** Und ich habe ihnen deinen Namen kundgetan und werde ihn kundtun, damit die Liebe, mit der du mich geliebt hast, in ihnen sei und ich in ihnen. (a) Joh 15:9 
+**[17:26]** Und ich habe ihnen deinen Namen kundgetan und werde ihn kundtun, damit die Liebe, mit der du mich geliebt hast, in ihnen sei und ich in ihnen. (a) Joh 15:9
 
 ### Chapter 18
 
@@ -55766,7 +55766,7 @@
 
 **[18:39]** Es besteht aber ein Brauch bei euch, dass ich euch am Passafest einen freilasse; wollt ihr nun, dass ich euch den König der Juden freilasse?
 
-**[18:40]** Da schrieen sie wiederum: Nicht diesen, sondern Barabbas! Barabbas aber war ein Räuber. (a) Apg 3:14 
+**[18:40]** Da schrieen sie wiederum: Nicht diesen, sondern Barabbas! Barabbas aber war ein Räuber. (a) Apg 3:14
 
 ### Chapter 19
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** Es war aber an dem Ort, wo man ihn gekreuzigt hatte, ein Garten und in dem Garten eine neue Gruft, in die noch nie jemand gelegt worden war.
 
-**[19:42]** Dahin legten sie nun Jesus wegen des Rüsttages der Juden, weil die Gruft nahe war. 
+**[19:42]** Dahin legten sie nun Jesus wegen des Rüsttages der Juden, weil die Gruft nahe war.
 
 ### Chapter 20
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** NOCH viele andre Zeichen nun tat Jesus vor den Jüngern, die in diesem Buche nicht aufgeschrieben sind. (a) Joh 2:11; 12:37; 21:25; Apg 1:3
 
-**[20:31]** Diese aber sind aufgeschrieben, damit ihr glaubt, dass Jesus der Christus, der Sohn Gottes ist und damit ihr dadurch, dass ihr glaubt, in seinem Namen Leben habt. (a) Joh 3:16; 6:69; Mt 16:16; 1Jo 5:13; Rö 1:17 
+**[20:31]** Diese aber sind aufgeschrieben, damit ihr glaubt, dass Jesus der Christus, der Sohn Gottes ist und damit ihr dadurch, dass ihr glaubt, in seinem Namen Leben habt. (a) Joh 3:16; 6:69; Mt 16:16; 1Jo 5:13; Rö 1:17
 
 ### Chapter 21
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** DAS ist der Jünger, der von diesen Dingen zeugt und dies geschrieben hat; und wir wissen, dass sein Zeugnis wahr ist. (a) Joh 15:27; 19:35; 3Jo 1:12; Off 1:2
 
-**[21:25]** Es gibt aber noch viel andres, was Jesus getan hat; und wenn eins nach dem andern aufgeschrieben würde, glaube ich, sogar die Welt könnte die Bücher nicht fassen, die geschrieben würden. (a) Joh 20:30  
+**[21:25]** Es gibt aber noch viel andres, was Jesus getan hat; und wenn eins nach dem andern aufgeschrieben würde, glaube ich, sogar die Welt könnte die Bücher nicht fassen, die geschrieben würden. (a) Joh 20:30
 
 ## Acts
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** den Platz dieses Dienstes und Apostelamtes zu empfangen, von welchem Judas abgetreten ist, um an seinen Ort zu gehen. (a) Ps 109:8
 
-**[1:26]** Und sie legten Lose für sie ein, und das Los fiel auf Matthias, und er wurde den elf Aposteln zugesellt. (a) Spr 16:33 
+**[1:26]** Und sie legten Lose für sie ein, und das Los fiel auf Matthias, und er wurde den elf Aposteln zugesellt. (a) Spr 16:33
 
 ### Chapter 2
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** Und täglich verharrten sie einmütig im Tempel, und abwechselnd von Haus zu Haus brachen sie das Brot und nahmen die Speise zu sich mit Frohlocken und in Lauterkeit des Herzens,
 
-**[2:47]** lobten Gott und hatten Gunst bei dem ganzen Volke. Der Herr aber tat täglich solche hinzu, die gerettet wurden. (1) V. 21; Apg 4:4; 5:14 
+**[2:47]** lobten Gott und hatten Gunst bei dem ganzen Volke. Der Herr aber tat täglich solche hinzu, die gerettet wurden. (1) V. 21; Apg 4:4; 5:14
 
 ### Chapter 3
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern geschlossen hat, indem er zu Abraham sprach: "Und durch deine Nachkommenschaft werden alle Geschlechter der Erde gesegnet werden." (a) 1Mo 12:3; 22:18; 26:4; Ga 3:8
 
-**[3:26]** Euch zuerst hat Gott seinen Knecht erstehen lassen und ihn gesandt, euch zu segnen, indem ihr euch ein jeder von seinen schlechten Taten abwendet. (a) Apg 13:46; Mt 10:6 
+**[3:26]** Euch zuerst hat Gott seinen Knecht erstehen lassen und ihn gesandt, euch zu segnen, indem ihr euch ein jeder von seinen schlechten Taten abwendet. (a) Apg 13:46; Mt 10:6
 
 ### Chapter 4
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Joseph aber, von den Aposteln Barnabas zubenannt das heisst übersetzt: Sohn des Zuspruchs, ein Levit, aus Cypern gebürtig, (a) Apg 11:22 24; 13:2; 15:39
 
-**[4:37]** der einen Acker hatte, veräusserte (ihn), brachte das Geld und legte es den Aposteln zu Füssen. 
+**[4:37]** der einen Acker hatte, veräusserte (ihn), brachte das Geld und legte es den Aposteln zu Füssen.
 
 ### Chapter 5
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** Sie nun gingen freudig vom Hohen Rat fort, weil sie gewürdigt worden waren, für den Namen (Jesu) Schmach zu leiden. (a) 1Pe 4:13; Lu 6:22 23; 21:17
 
-**[5:42]** Und sie hörten nicht auf, jeden Tag im Tempel und Haus für Haus zu lehren und das Evangelium von Jesus dem Christus zu predigen. (a) Apg 18:5 
+**[5:42]** Und sie hörten nicht auf, jeden Tag im Tempel und Haus für Haus zu lehren und das Evangelium von Jesus dem Christus zu predigen. (a) Apg 18:5
 
 ### Chapter 6
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** Denn wir haben ihn sagen hören: Dieser Jesus, der Nazoräer, wird diese Stätte zerstören und die Gebräuche ändern, die uns Mose überliefert hat. (a) Mt 24:2; 26:61
 
-**[6:15]** Und alle, die im Hohen Rate sassen, blickten ihn an und sahen sein Angesicht (verklärt) wie das Angesicht eines Engels. (a) Lu 4:20; Mt 13:43 
+**[6:15]** Und alle, die im Hohen Rate sassen, blickten ihn an und sahen sein Angesicht (verklärt) wie das Angesicht eines Engels. (a) Lu 4:20; Mt 13:43
 
 ### Chapter 7
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** Und sie steinigten den Stephanus, der (den Herrn) anrief und sprach: Herr Jesus, nimm meinen Geist auf! (a) Ps 31:6; Lu 23:46
 
-**[7:60]** Er kniete aber nieder und rief mit lauter Stimme: Herr, rechne ihnen diese Sünde nicht zu! Und als er dies gesprochen hatte, entschlief er. (a) Mt 5:44; Lu 23:34; 2Ch 24:22 
+**[7:60]** Er kniete aber nieder und rief mit lauter Stimme: Herr, rechne ihnen diese Sünde nicht zu! Und als er dies gesprochen hatte, entschlief er. (a) Mt 5:44; Lu 23:34; 2Ch 24:22
 
 ### Chapter 8
 
@@ -56572,7 +56572,7 @@
 
 **[8:39]** Als sie aber aus dem Wasser heraufgestiegen waren, entrückte der Geist des Herrn den Philippus, und der Hofbeamte sah ihn nicht mehr; denn er zog freudig seines Weges. (a) 1Kön 18:12; Apg 16:34
 
-**[8:40]** Den Philippus aber fand man in Asdod, und er zog umher und predigte das Evangelium in allen Städten, bis er nach Cäsarea kam. (1) V. 4; Apg 21:8 9 
+**[8:40]** Den Philippus aber fand man in Asdod, und er zog umher und predigte das Evangelium in allen Städten, bis er nach Cäsarea kam. (1) V. 4; Apg 21:8 9
 
 ### Chapter 9
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** Das wurde in ganz Joppe kund, und viele kamen zum Glauben an den Herrn. (a) Apg 19:17
 
-**[9:43]** Es begab sich aber, dass er eine Reihe von Tagen in Joppe bei einem gewissen Simon, einem Gerber, blieb. (a) Apg 10:6 
+**[9:43]** Es begab sich aber, dass er eine Reihe von Tagen in Joppe bei einem gewissen Simon, einem Gerber, blieb. (a) Apg 10:6
 
 ### Chapter 10
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Kann etwa jemand das Wasser verweigern, dass diese nicht getauft würden, die den heiligen Geist empfangen haben wie auch wir? (a) Apg 11:17; 8:36; 2:38 41
 
-**[10:48]** Und er ordnete an, dass sie getauft würden im Namen Jesu Christi. Da baten sie ihn, einige Tage zu bleiben. 
+**[10:48]** Und er ordnete an, dass sie getauft würden im Namen Jesu Christi. Da baten sie ihn, einige Tage zu bleiben.
 
 ### Chapter 11
 
@@ -56820,7 +56820,7 @@
 
 **[11:29]** Die Jünger aber beschlossen, dass ein jeder von ihnen, je nachdem er es vermochte, den Brüdern, die in Judäa wohnten, (etwas) zur Unterstützung senden sollte; (a) Ga 2:10; 2Kor 8:7 12; Rö 15:25-27
 
-**[11:30]** und das taten sie auch, indem sie es durch die Hand von Barnabas und Saulus an die Ältesten abschickten. (a) Apg 12:25 
+**[11:30]** und das taten sie auch, indem sie es durch die Hand von Barnabas und Saulus an die Ältesten abschickten. (a) Apg 12:25
 
 ### Chapter 12
 
@@ -56872,7 +56872,7 @@
 
 **[12:24]** Das Wort des Herrn jedoch wuchs und mehrte sich. (a) Apg 6:7; 19:20; Jes 55:11
 
-**[12:25]** Barnabas aber und Saulus kehrten von Jerusalem zurück, nachdem sie die Hilfeleistung vollbracht hatten. Und sie nahmen Johannes mit dem Zunamen Markus mit sich. (1) V. 12; Apg 11:29 30; 13:5 13; 15:37 
+**[12:25]** Barnabas aber und Saulus kehrten von Jerusalem zurück, nachdem sie die Hilfeleistung vollbracht hatten. Und sie nahmen Johannes mit dem Zunamen Markus mit sich. (1) V. 12; Apg 11:29 30; 13:5 13; 15:37
 
 ### Chapter 13
 
@@ -56978,7 +56978,7 @@
 
 **[13:51]** Da schüttelten sie den Staub von ihren Füssen (zum Zeugnis) wider sie und zogen nach Ikonium. (a) Apg 18:6; Lu 10:10 11
 
-**[13:52]** Und die Jünger wurden mit Freude und heiligem Geist erfüllt. 
+**[13:52]** Und die Jünger wurden mit Freude und heiligem Geist erfüllt.
 
 ### Chapter 14
 
@@ -57036,7 +57036,7 @@
 
 **[14:27]** Als sie aber angekommen waren und die Gemeinde versammelt hatten, erzählten sie, wie grosse Dinge Gott, (der) mit ihnen (war,) getan hatte und dass er den Heiden eine Türe zum Glauben aufgetan habe. (a) Apg 15:3 4 12; 21:19; 11:18; 1Kor 16:9
 
-**[14:28]** Sie hielten sich aber geraume Zeit bei den Jüngern auf. 
+**[14:28]** Sie hielten sich aber geraume Zeit bei den Jüngern auf.
 
 ### Chapter 15
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** Paulus aber wählte sich Silas und zog aus, von den Brüdern der Gnade des Herrn empfohlen. (1) V. 22 32; Apg 14:26; 20:32
 
-**[15:41]** Er durchzog aber Syrien und Cilicien und stärkte die Gemeinden. (1) V. 23; Apg 14:22 
+**[15:41]** Er durchzog aber Syrien und Cilicien und stärkte die Gemeinden. (1) V. 23; Apg 14:22
 
 ### Chapter 16
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** und kamen, redeten ihnen zu, führten sie hinaus und baten sie, aus der Stadt fortzugehen. (a) Lu 8:37
 
-**[16:40]** Als sie aber das Gefängnis verlassen hatten, gingen sie ins Haus der Lydia; und als sie die Brüder sahen, sprachen sie ihnen zu und zogen hinweg. 
+**[16:40]** Als sie aber das Gefängnis verlassen hatten, gingen sie ins Haus der Lydia; und als sie die Brüder sahen, sprachen sie ihnen zu und zogen hinweg.
 
 ### Chapter 17
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** So ging Paulus aus ihrer Mitte hinweg.
 
-**[17:34]** Einige Männer aber schlossen sich ihm an und wurden gläubig, unter denen auch Dionysius, ein Mitglied des Areopags, und eine Frau namens Damaris waren und andre mit ihnen. 
+**[17:34]** Einige Männer aber schlossen sich ihm an und wurden gläubig, unter denen auch Dionysius, ein Mitglied des Areopags, und eine Frau namens Damaris waren und andre mit ihnen.
 
 ### Chapter 18
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** Als er aber nach Achaja hinübergehen wollte, bestärkten (ihn) die Brüder darin und schrieben den Jüngern, sie möchten ihn aufnehmen. Und als er ankam, wurde er denen, die gläubig geworden waren, durch die Gnade eine grosse Hilfe; (a) 1Kor 3:6
 
-**[18:28]** denn mit Nachdruck widerlegte er öffentlich die Juden, indem er durch die Schriften bewies, dass Jesus der Christus sei. (1) V. 5; Apg 9:22; 17:3 
+**[18:28]** denn mit Nachdruck widerlegte er öffentlich die Juden, indem er durch die Schriften bewies, dass Jesus der Christus sei. (1) V. 5; Apg 9:22; 17:3
 
 ### Chapter 19
 
@@ -57412,7 +57412,7 @@
 
 **[19:39]** Wenn ihr aber noch weiterhin etwas begehrt, wird es in der gesetzmässigen Volksversammlung erledigt werden.
 
-**[19:40]** Denn wir stehen in Gefahr, des Aufruhrs angeklagt zu werden wegen des heutigen Tages, weil kein Grund vorhanden ist, mit dem wir über diese Zusammenrottung Rechenschaft ablegen könnten. Und mit diesen Worten löste er die Versammlung auf. 
+**[19:40]** Denn wir stehen in Gefahr, des Aufruhrs angeklagt zu werden wegen des heutigen Tages, weil kein Grund vorhanden ist, mit dem wir über diese Zusammenrottung Rechenschaft ablegen könnten. Und mit diesen Worten löste er die Versammlung auf.
 
 **[19:41]** 
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** Es erhob sich aber bei allen lautes Wehklagen, und sie fielen dem Paulus um den Hals und küssten ihn (a) Rö 16:16; 1Pe 5:14
 
-**[20:38]** schmerzlich betrübt, am meisten über das Wort, das er gesagt hatte, dass sie sein Angesicht nicht mehr sehen würden. Darnach gaben sie ihm das Geleite zum Schiff. (1) V. 25 
+**[20:38]** schmerzlich betrübt, am meisten über das Wort, das er gesagt hatte, dass sie sein Angesicht nicht mehr sehen würden. Darnach gaben sie ihm das Geleite zum Schiff. (1) V. 25
 
 ### Chapter 21
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** Da sagte Paulus: Ich bin ein Jude aus Tarsus in Cilicien, Bürger einer nicht unberühmten Stadt. Ich bitte dich aber, erlaube mir, zum Volke zu reden. (a) Apg 9:11
 
-**[21:40]** Und als er es erlaubt hatte, winkte Paulus auf der Treppe stehend dem Volke mit der Hand; nachdem aber grosse Stille eingetreten war, redete er sie in hebräischer Sprache an und sagte: (a) Apg 13:16 
+**[21:40]** Und als er es erlaubt hatte, winkte Paulus auf der Treppe stehend dem Volke mit der Hand; nachdem aber grosse Stille eingetreten war, redete er sie in hebräischer Sprache an und sagte: (a) Apg 13:16
 
 ### Chapter 22
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Alsbald nun standen die, welche ihn (unter Geisselhieben) verhören wollten, von ihm ab; aber auch der Oberst fürchtete sich, da er erfahren hatte, dass er ein Römer sei, und weil er ihn hatte fesseln lassen. (a) Apg 16:38; 21:33
 
-**[22:30]** DA er aber sicher erfahren wollte, wessen er von den Juden angeklagt werde, liess er ihm am folgenden Tage die Fesseln abnehmen und befahl, dass die Hohenpriester und der ganze Hohe Rat zusammenkommen sollten; dann liess er den Paulus hinabbringen und vor sie stellen. (a) Apg 21:34; 23:28 
+**[22:30]** DA er aber sicher erfahren wollte, wessen er von den Juden angeklagt werde, liess er ihm am folgenden Tage die Fesseln abnehmen und befahl, dass die Hohenpriester und der ganze Hohe Rat zusammenkommen sollten; dann liess er den Paulus hinabbringen und vor sie stellen. (a) Apg 21:34; 23:28
 
 ### Chapter 23
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** Nachdem er aber (den Brief) gelesen und gefragt hatte, aus was für einer Provinz er sei, und nachdem er erfahren hatte, dass er aus Cilicien war, (a) Apg 22:3
 
-**[23:35]** sagte er: Ich werde dich verhören, wenn auch deine Ankläger angekommen sind. Und er befahl, ihn im Palast des Herodes zu bewachen. (a) Apg 25:16 
+**[23:35]** sagte er: Ich werde dich verhören, wenn auch deine Ankläger angekommen sind. Und er befahl, ihn im Palast des Herodes zu bewachen. (a) Apg 25:16
 
 ### Chapter 24
 
@@ -57764,7 +57764,7 @@
 
 **[24:26]** Zugleich hoffte er auch, dass ihm von Paulus Geld gegeben würde. Daher liess er ihn auch öfter kommen und besprach sich mit ihm.
 
-**[24:27]** Als aber zwei Jahre um waren, bekam Felix zum Nachfolger Porcius Festus; und da er den Juden eine Gunst erweisen wollte, liess Felix den Paulus gefesselt zurück. (a) Apg 12:3; 25:9 
+**[24:27]** Als aber zwei Jahre um waren, bekam Felix zum Nachfolger Porcius Festus; und da er den Juden eine Gunst erweisen wollte, liess Felix den Paulus gefesselt zurück. (a) Apg 12:3; 25:9
 
 ### Chapter 25
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** Doch weiss ich dem Herrn nichts Zuverlässiges über ihn zu schreiben. Daher habe ich ihn euch und vor allem dir, König Agrippa, vorführen lassen, damit ich nach geschehener Untersuchung weiss, was ich schreiben soll. (a) Apg 26:3
 
-**[25:27]** Denn es scheint mir ungereimt, einen Gefangenen abzusenden und nicht auch die Anschuldigungen anzugeben, die gegen ihn vorliegen. 
+**[25:27]** Denn es scheint mir ungereimt, einen Gefangenen abzusenden und nicht auch die Anschuldigungen anzugeben, die gegen ihn vorliegen.
 
 ### Chapter 26
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** Und als sie sich zurückgezogen hatten, redeten sie miteinander und sagten: Dieser Mensch begeht nichts, was Tod oder Fesseln verdient. (a) Apg 23:29
 
-**[26:32]** Agrippa aber sagte zu Festus: Dieser Mensch hätte freigelassen werden können, wenn er nicht Berufung an den Kaiser eingelegt hätte. (a) Apg 25:11; 28:19 
+**[26:32]** Agrippa aber sagte zu Festus: Dieser Mensch hätte freigelassen werden können, wenn er nicht Berufung an den Kaiser eingelegt hätte. (a) Apg 25:11; 28:19
 
 ### Chapter 27
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** Da aber der Hauptmann den Paulus retten wollte, hinderte er sie an ihrem Vorhaben und befahl, die, welche schwimmen könnten, sollten sich zuerst ins Meer werfen und ans Land gehen (1) V. 3
 
-**[27:44]** und (dann) die übrigen teils auf Brettern, teils auf irgendwelchen Gegenständen vom Schiff. Und so geschah es, dass alle ans Land gerettet wurden. (1) V. 22-25 
+**[27:44]** und (dann) die übrigen teils auf Brettern, teils auf irgendwelchen Gegenständen vom Schiff. Und so geschah es, dass alle ans Land gerettet wurden. (1) V. 22-25
 
 ### Chapter 28
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Er blieb aber zwei ganze Jahre in einer eignen Mietwohnung und nahm alle auf, die bei ihm eintraten,
 
-**[28:31]** und predigte (dabei) das Reich Gottes und lehrte von dem Herrn Jesus Christus mit aller Freimütigkeit ungehindert. (1) V. 23; Apg 19:8; 2Ti 2:9; Eph 6:18-20  
+**[28:31]** und predigte (dabei) das Reich Gottes und lehrte von dem Herrn Jesus Christus mit aller Freimütigkeit ungehindert. (1) V. 23; Apg 19:8; 2Ti 2:9; Eph 6:18-20
 
 ## Romans
 
@@ -58108,7 +58108,7 @@
 
 **[1:31]** unvernünftig, treulos, lieblos, unbarmherzig;
 
-**[1:32]** sie, die das Recht Gottes zwar kennen dass nämlich die, welche solches verüben, des Todes würdig sind, aber nicht nur selbst dies tun, sondern auch ihr Wohlgefallen an denen haben, die es verüben. 
+**[1:32]** sie, die das Recht Gottes zwar kennen dass nämlich die, welche solches verüben, des Todes würdig sind, aber nicht nur selbst dies tun, sondern auch ihr Wohlgefallen an denen haben, die es verüben.
 
 ### Chapter 2
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** Denn nicht der ist ein Jude, der es äusserlich ist, und nicht das ist Beschneidung, die äusserlich am Fleische geschieht, (a) Rö 9:6; Mt 3:9; Joh 8:39
 
-**[2:29]** sondern der ist ein Jude, der es innerlich ist, und das ist Beschneidung, die am Herzen geschieht, im Geiste, nicht nach dem Buchstaben. Ein solcher hat sein Lob nicht von Menschen, sondern von Gott. (a) 5Mo 30:6; Php 3:3 
+**[2:29]** sondern der ist ein Jude, der es innerlich ist, und das ist Beschneidung, die am Herzen geschieht, im Geiste, nicht nach dem Buchstaben. Ein solcher hat sein Lob nicht von Menschen, sondern von Gott. (a) 5Mo 30:6; Php 3:3
 
 ### Chapter 3
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** weil ja Gott (nur) einer ist, der die Beschnittenen aus Glauben und die Unbeschnittenen durch den Glauben gerechtsprechen wird. (a) Rö 4:11 12; Apg 15:11; Ga 3:8
 
-**[3:31]** Heben wir also das Gesetz auf durch den Glauben? Das sei ferne! Vielmehr halten wir das Gesetz aufrecht. (a) Rö 6:15; Jak 2:14; Mt 5:17 
+**[3:31]** Heben wir also das Gesetz auf durch den Glauben? Das sei ferne! Vielmehr halten wir das Gesetz aufrecht. (a) Rö 6:15; Jak 2:14; Mt 5:17
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** sondern auch unsertwegen, denen es angerechnet werden soll, weil wir an den glauben, welcher Jesus, unsern Herrn, auferweckt hat von den Toten, (a) Rö 15:4; 10:9; 1Pe 1:21
 
-**[4:25]** ihn, der dahingegeben wurde um unsrer Übertretungen willen und auferweckt wurde um unsrer Gerechtsprechung willen. (a) Rö 3:25; 8:32 34; 1Pe 1:3; Jes 53:1 5 
+**[4:25]** ihn, der dahingegeben wurde um unsrer Übertretungen willen und auferweckt wurde um unsrer Gerechtsprechung willen. (a) Rö 3:25; 8:32 34; 1Pe 1:3; Jes 53:1 5
 
 ### Chapter 5
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** Das Gesetz aber ist daneben hereingekommen, damit die Übertretung noch grösser würde. Wo jedoch die Sünde grösser wurde, da erwies sich die Gnade noch überschwenglicher, (a) Rö 7:13; Ga 3:19
 
-**[5:21]** damit, wie die Sünde herrschte in dem Tode, so auch die Gnade herrsche durch die Gerechtigkeit zum ewigen Leben durch Jesus Christus, unsern Herrn. (a) Rö 6:23 
+**[5:21]** damit, wie die Sünde herrschte in dem Tode, so auch die Gnade herrsche durch die Gerechtigkeit zum ewigen Leben durch Jesus Christus, unsern Herrn. (a) Rö 6:23
 
 ### Chapter 6
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** Jetzt hingegen, da ihr von der Sünde befreit, aber Gott dienstbar geworden seid, habt ihr eure Frucht für die Heiligung und als das Ende ewiges Leben. (a) Ga 6:8; 1Pe 1:9
 
-**[6:23]** Denn der Sünde Sold ist der Tod; die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unsrem Herrn. (a) Rö 5:12; 1Jo 5:11; Jak 1:15 
+**[6:23]** Denn der Sünde Sold ist der Tod; die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unsrem Herrn. (a) Rö 5:12; 1Jo 5:11; Jak 1:15
 
 ### Chapter 7
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** Ich elender Mensch! wer wird mich erlösen von diesem Leibe des Todes? (a) Rö 8:10
 
-**[7:25]** Dank sei Gott durch Jesus Christus, unsern Herrn! Also diene ich nun selbst mit meinem Innern dem Gesetz Gottes, mit dem Fleisch aber dem Gesetz der Sünde. (a) Rö 8:2; 1Kor 15:57 
+**[7:25]** Dank sei Gott durch Jesus Christus, unsern Herrn! Also diene ich nun selbst mit meinem Innern dem Gesetz Gottes, mit dem Fleisch aber dem Gesetz der Sünde. (a) Rö 8:2; 1Kor 15:57
 
 ### Chapter 8
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** Denn ich bin dessen gewiss, dass weder Tod noch Leben, weder Engel noch Gewalten, weder Gegenwärtiges noch Zukünftiges, noch Kräfte, (a) Eph 1:21; 6:12; Kol 2:15; 1Pe 3:22
 
-**[8:39]** weder Hohes noch Tiefes, noch irgendein andres Geschöpf uns zu scheiden vermag von der Liebe Gottes, die in Christus Jesus ist, unsrem Herrn. (a) Joh 10:28 
+**[8:39]** weder Hohes noch Tiefes, noch irgendein andres Geschöpf uns zu scheiden vermag von der Liebe Gottes, die in Christus Jesus ist, unsrem Herrn. (a) Joh 10:28
 
 ### Chapter 9
 
@@ -58576,7 +58576,7 @@
 
 **[9:32]** Warum? Weil (es) nicht aus Glauben (ihm nachtrachtete), sondern wie (wenn sie) aus Werken (käme). Sie stiessen an den Stein des Anstosses, (a) 1Kor 1:23; 1Pe 2:8; Jes 58:2
 
-**[9:33]** wie geschrieben steht: "Siehe, ich lege in Zion einen Stein des Anstosses und einen Felsen des Ärgernisses; und wer an ihn glaubt, wird nicht zuschanden werden." (a) Jes 8:14; 28:16; Mt 21:42 44; 1Pe 2:6 
+**[9:33]** wie geschrieben steht: "Siehe, ich lege in Zion einen Stein des Anstosses und einen Felsen des Ärgernisses; und wer an ihn glaubt, wird nicht zuschanden werden." (a) Jes 8:14; 28:16; Mt 21:42 44; 1Pe 2:6
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** Jesaja aber erkühnt sich und sagt: "Ich bin von denen gefunden worden, die mich nicht suchten, ich bin denen offenbar geworden, die nicht nach mir fragten." (a) Jes 65:1
 
-**[10:21]** In bezug auf Israel dagegen sagt er: "Den ganzen Tag habe ich (in Liebe) meine Hände ausgebreitet gegen ein ungehorsames und widerspenstiges Volk." (a) Jes 65:2 
+**[10:21]** In bezug auf Israel dagegen sagt er: "Den ganzen Tag habe ich (in Liebe) meine Hände ausgebreitet gegen ein ungehorsames und widerspenstiges Volk." (a) Jes 65:2
 
 ### Chapter 11
 
@@ -58694,7 +58694,7 @@
 
 **[11:35]** Oder wer hat ihm (etwas) zuvor gegeben, dass es ihm wiedervergolten werden müsste?"
 
-**[11:36]** Denn aus ihm und durch ihn und zu ihm hin sind alle Dinge. Sein ist die Ehre in Ewigkeit! Amen. (a) Rö 16:27; 1Kor 8:6; 2Pe 3:18 
+**[11:36]** Denn aus ihm und durch ihn und zu ihm hin sind alle Dinge. Sein ist die Ehre in Ewigkeit! Amen. (a) Rö 16:27; 1Kor 8:6; 2Pe 3:18
 
 ### Chapter 12
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** Vielmehr, "wenn dein Feind hungert, so speise ihn; wenn er dürstet, so tränke ihn; denn wenn du dies tust, wirst du feurige Kohlen auf sein Haupt sammeln". (a) Spr 25:21 22; Mt 5:44
 
-**[12:21]** Lass dich vom Bösen nicht überwinden, sondern überwinde das Böse durch das Gute! 
+**[12:21]** Lass dich vom Bösen nicht überwinden, sondern überwinde das Böse durch das Gute!
 
 ### Chapter 13
 
@@ -58768,7 +58768,7 @@
 
 **[13:13]** Lasset uns ehrbar wandeln als am Tage, nicht in Schmausereien und Trinkgelagen, nicht in Buhlereien und Ausschweifungen, nicht in Streit und Eifersucht, (a) Lu 21:34; Eph 5:18
 
-**[13:14]** sondern ziehet den Herrn Jesus Christus an und pfleget das Fleisch nicht so, dass Begierden erwachen! (a) Ga 3:27; 5:16: 1Pe 2:11 
+**[13:14]** sondern ziehet den Herrn Jesus Christus an und pfleget das Fleisch nicht so, dass Begierden erwachen! (a) Ga 3:27; 5:16: 1Pe 2:11
 
 ### Chapter 14
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Du hast Glauben; habe ihn für dich selbst vor Gott! Wohl dem, der sich selbst nicht richten muss in dem, was er gutheisst! (a) 1Jo 3:21
 
-**[14:23]** Wer dagegen zweifelt, wenn er isst, der ist verurteilt, weil es nicht aus Glauben geschieht; alles aber, was nicht aus Glauben geschieht, ist Sünde. (1) V. 14 
+**[14:23]** Wer dagegen zweifelt, wenn er isst, der ist verurteilt, weil es nicht aus Glauben geschieht; alles aber, was nicht aus Glauben geschieht, ist Sünde. (1) V. 14
 
 ### Chapter 15
 
@@ -58884,7 +58884,7 @@
 
 **[15:32]** auf dass ich nach dem Willen Gottes mit Freude zu euch komme und mich mit euch erquicke. (a) Rö 1:10
 
-**[15:33]** Der Gott des Friedens aber sei mit euch allen! Amen. (a) Rö 16:20; 1Th 5:23; 2Th 3:16 
+**[15:33]** Der Gott des Friedens aber sei mit euch allen! Amen. (a) Rö 16:20; 1Th 5:23; 2Th 3:16
 
 ### Chapter 16
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** jetzt aber geoffenbart und durch prophetische Schriften nach dem Auftrag des ewigen Gottes an alle Heiden kundgemacht worden ist, um Gehorsam des Glaubens zu bewirken - (a) Eph 3:4 5; 1Pe 1:20
 
-**[16:27]** dem allein weisen Gott durch Jesus Christus, ihm sei die Ehre in alle Ewigkeit! Amen. (1) die V. 25-27 fehlen in gewichtigen alten Textzeugen; in andern stehen sie hinter Rö 14:23, in noch andern sowohl dort als auch an unserer Stelle, wo die meisten sie haben. (a) Rö 11:36; 1Ti 1:17  
+**[16:27]** dem allein weisen Gott durch Jesus Christus, ihm sei die Ehre in alle Ewigkeit! Amen. (1) die V. 25-27 fehlen in gewichtigen alten Textzeugen; in andern stehen sie hinter Rö 14:23, in noch andern sowohl dort als auch an unserer Stelle, wo die meisten sie haben. (a) Rö 11:36; 1Ti 1:17
 
 ## I Corinthians
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** Von ihm aber kommt es, dass ihr in Christus Jesus seid, der uns zur Weisheit gemacht worden ist von Gott, zur Gerechtigkeit und zur Heiligung und zur Erlösung, (1) V. 24; Rö 3:24; 2Kor 5:18 21; Eph 1:7
 
-**[1:31]** damit (es geschehe), wie geschrieben steht: "Wer sich rühmt, der rühme sich des Herrn." (a) Jer 9:23 24; 2Kor 10:17 
+**[1:31]** damit (es geschehe), wie geschrieben steht: "Wer sich rühmt, der rühme sich des Herrn." (a) Jer 9:23 24; 2Kor 10:17
 
 ### Chapter 2
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** Der geistbegabte dagegen beurteilt zwar alles, er selbst aber wird von keinem beurteilt. (a) 1Jo 2:20
 
-**[2:16]** "Denn wer hat den Sinn des Herrn erkannt, dass er ihn unterwiese?" Wir aber haben den Sinn Christi. (a) Jes 40:13; Jer 23:18 
+**[2:16]** "Denn wer hat den Sinn des Herrn erkannt, dass er ihn unterwiese?" Wir aber haben den Sinn Christi. (a) Jes 40:13; Jer 23:18
 
 ### Chapter 3
 
@@ -59088,7 +59088,7 @@
 
 **[3:22]** es sei Paulus oder Apollos oder Kephas, es sei Welt oder Leben oder Tod, es sei Gegenwärtiges oder Zukünftiges: Alles ist euer, (a) 1Kor 1:12; V 4; Rö 8:38 39
 
-**[3:23]** ihr aber seid Christi, Christus aber ist Gottes. 
+**[3:23]** ihr aber seid Christi, Christus aber ist Gottes.
 
 ### Chapter 4
 
@@ -59132,7 +59132,7 @@
 
 **[4:20]** Denn nicht auf Worten beruht das Reich Gottes, sondern auf Kraft. (a) 1Kor 2:4; Lu 17:20 21
 
-**[4:21]** Was wollt ihr? Soll ich mit der Rute zu euch kommen oder mit Liebe und dem Geiste der Sanftmut? (a) 2Kor 13:10 
+**[4:21]** Was wollt ihr? Soll ich mit der Rute zu euch kommen oder mit Liebe und dem Geiste der Sanftmut? (a) 2Kor 13:10
 
 ### Chapter 5
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** Denn was soll ich die, welche draussen sind, richten? Richtet nicht (auch) ihr die, welche drinnen sind? (a) Kol 4:5
 
-**[5:13]** Die aber, welche draussen sind, wird Gott richten. Schaffet den Bösen aus eurer Mitte hinweg! (a) 2Th 3:6 
+**[5:13]** Die aber, welche draussen sind, wird Gott richten. Schaffet den Bösen aus eurer Mitte hinweg! (a) 2Th 3:6
 
 ### Chapter 6
 
@@ -59202,7 +59202,7 @@
 
 **[6:19]** Oder wisst ihr nicht, dass euer Leib ein Tempel des heiligen Geistes in euch ist, den ihr von Gott habt, und dass ihr nicht euch selbst angehört? (a) 1Kor 3:16
 
-**[6:20]** Denn ihr seid teuer erkauft worden; so verherrlichet nun Gott mit eurem Leibe! (a) 1Kor 7:23; 1Pe 1:18 19 
+**[6:20]** Denn ihr seid teuer erkauft worden; so verherrlichet nun Gott mit eurem Leibe! (a) 1Kor 7:23; 1Pe 1:18 19
 
 ### Chapter 7
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** EINE Frau ist gebunden, solange ihr Mann lebt; ist aber der Mann entschlafen, so ist sie frei, sich, mit wem sie will, zu verheiraten, nur (geschehe es) im Herrn. (a) Rö 7:2
 
-**[7:40]** Doch ist sie glückseliger, wenn sie so bleibt, nach meiner Meinung. Ich glaube aber ebenfalls den Geist Gottes zu haben. 
+**[7:40]** Doch ist sie glückseliger, wenn sie so bleibt, nach meiner Meinung. Ich glaube aber ebenfalls den Geist Gottes zu haben.
 
 ### Chapter 8
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** Wenn ihr euch aber so an den Brüdern versündigt und ihr schwaches Gewissen verletzt, so versündigt ihr euch an Christus.
 
-**[8:13]** Darum, wenn Speise meinem Bruder Anstoss bereitet, so will ich in Ewigkeit kein Fleisch essen, damit ich meinem Bruder nicht Anstoss bereite. (a) Rö 14:21 
+**[8:13]** Darum, wenn Speise meinem Bruder Anstoss bereitet, so will ich in Ewigkeit kein Fleisch essen, damit ich meinem Bruder nicht Anstoss bereite. (a) Rö 14:21
 
 ### Chapter 9
 
@@ -59368,7 +59368,7 @@
 
 **[9:26]** Ich nun laufe so wie einer, der nicht ins Ungewisse läuft; ich kämpfe so wie einer, der nicht in die Luft schlägt;
 
-**[9:27]** sondern ich kasteie meinen Leib und knechte ihn, damit ich nicht etwa, nachdem ich andern Herold gewesen bin, selbst verwerflich werde. (1) der Gedanke daran, dass Paulus diese Heroldstätigkeit durch Predigen ausübt, hat zu der Üs. geführt: "damit ich nicht etwa, nachdem ich andern gepredigt habe, selbst verwerflich werde". (a) Rö 8:13 14; 13:14 
+**[9:27]** sondern ich kasteie meinen Leib und knechte ihn, damit ich nicht etwa, nachdem ich andern Herold gewesen bin, selbst verwerflich werde. (1) der Gedanke daran, dass Paulus diese Heroldstätigkeit durch Predigen ausübt, hat zu der Üs. geführt: "damit ich nicht etwa, nachdem ich andern gepredigt habe, selbst verwerflich werde". (a) Rö 8:13 14; 13:14
 
 ### Chapter 10
 
@@ -59436,7 +59436,7 @@
 
 **[10:32]** Werdet unanstössig sowohl für Juden als für Griechen als für die Gemeinde Gottes, (a) Rö 14:13
 
-**[10:33]** wie auch ich in allen Dingen allen zu Gefallen lebe, indem ich nicht meinen Nutzen, sondern den der vielen suche, damit sie gerettet werden. (a) 1Kor 8:13; 9:9-22 
+**[10:33]** wie auch ich in allen Dingen allen zu Gefallen lebe, indem ich nicht meinen Nutzen, sondern den der vielen suche, damit sie gerettet werden. (a) 1Kor 8:13; 9:9-22
 
 ### Chapter 11
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** Darum, meine Brüder, wenn ihr zum Essen zusammenkommt, so wartet aufeinander!
 
-**[11:34]** Hungert jemand, so esse er daheim, damit ihr nicht (euch) zum Gericht zusammenkommt. Das übrige aber werde ich anordnen, wenn ich komme. (a) 1Kor 16:5 
+**[11:34]** Hungert jemand, so esse er daheim, damit ihr nicht (euch) zum Gericht zusammenkommt. Das übrige aber werde ich anordnen, wenn ich komme. (a) 1Kor 16:5
 
 ### Chapter 12
 
@@ -59570,7 +59570,7 @@
 
 **[12:30]** Haben etwa alle Gnadengaben zu Heilungen? Reden etwa alle in Zungen? Legen etwa alle aus?
 
-**[12:31]** Eifert aber nach den grössern Gnadengaben! Und ich zeige euch einen noch weit trefflichern Weg. (a) 1Kor 14:1 
+**[12:31]** Eifert aber nach den grössern Gnadengaben! Und ich zeige euch einen noch weit trefflichern Weg. (a) 1Kor 14:1
 
 ### Chapter 13
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** Denn wir sehen jetzt (nur wie) mittels eines Spiegels in rätselhafter Gestalt, dann aber von Angesicht zu Angesicht. Jetzt ist mein Erkennen Stückwerk, dann aber werde ich völlig erkennen, wie ich auch völlig erkannt worden bin. (a) 1Kor 8:3; 4Mo 12:8; 2Kor 3:18; 5:7; 1Jo 3:2
 
-**[13:13]** Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei; am grössten aber unter diesen ist die Liebe. (a) Kol 3:14; 1Th 1:3; Heb 10:22-24 
+**[13:13]** Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei; am grössten aber unter diesen ist die Liebe. (a) Kol 3:14; 1Th 1:3; Heb 10:22-24
 
 ### Chapter 14
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** Darum, meine Brüder, eifert nach dem Reden aus Eingebung, und das Reden in Zungen wehret nicht!
 
-**[14:40]** Alles aber geschehe wohlanständig und in Ordnung! (a) Kol 2:5 
+**[14:40]** Alles aber geschehe wohlanständig und in Ordnung! (a) Kol 2:5
 
 ### Chapter 15
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** Gott aber sei Dank, der uns den Sieg gibt durch unsern Herrn Jesus Christus. (a) 1Kor 2:14
 
-**[15:58]** Darum, meine lieben Brüder, werdet fest, unerschütterlich, allezeit reich im Werk des Herrn, weil ihr wisst, dass eure Arbeit nicht vergeblich ist im Herrn. (a) 1Kor 16:13 
+**[15:58]** Darum, meine lieben Brüder, werdet fest, unerschütterlich, allezeit reich im Werk des Herrn, weil ihr wisst, dass eure Arbeit nicht vergeblich ist im Herrn. (a) 1Kor 16:13
 
 ### Chapter 16
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Die Gnade des Herrn Jesus sei mit euch! (a) Rö 16:24
 
-**[16:24]** Meine Liebe ist mit euch allen in Christus Jesus.  
+**[16:24]** Meine Liebe ist mit euch allen in Christus Jesus.
 
 ## II Corinthians
 
@@ -59900,7 +59900,7 @@
 
 **[1:23]** Ich aber rufe Gott zum Zeugen wider meine Seele an, dass ich aus Schonung für euch nicht mehr nach Korinth gekommen bin. (a) 2Kor 12:20 21
 
-**[1:24]** Nicht dass wir Herren über euren Glauben wären, sondern wir sind Mitarbeiter an eurer Freude; denn im Glauben steht ihr. (a) 2Kor 4:5; 1Pe 5:3 
+**[1:24]** Nicht dass wir Herren über euren Glauben wären, sondern wir sind Mitarbeiter an eurer Freude; denn im Glauben steht ihr. (a) 2Kor 4:5; 1Pe 5:3
 
 ### Chapter 2
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** den einen ein Geruch aus Tod zum Tod, den andern ein Geruch aus Leben zum Leben. Und wer ist dazu tüchtig, (wenn nicht ich)? (a) Lu 2:34; Rö 1:16
 
-**[2:17]** Denn wir bieten nicht wie die vielen das Wort Gottes verfälscht dar, sondern so wie aus Lauterkeit, sondern so wie aus Gott heraus, vor Gott, in Christus reden wir. (a) 2Kor 1:12; 4:2 
+**[2:17]** Denn wir bieten nicht wie die vielen das Wort Gottes verfälscht dar, sondern so wie aus Lauterkeit, sondern so wie aus Gott heraus, vor Gott, in Christus reden wir. (a) 2Kor 1:12; 4:2
 
 ### Chapter 3
 
@@ -59974,7 +59974,7 @@
 
 **[3:17]** Der Herr aber ist der Geist; wo aber der Geist des Herrn ist, da ist Freiheit. (a) Rö 8:2; 1Kor 15:45
 
-**[3:18]** Wir alle aber spiegeln mit aufgedecktem Angesicht die Herrlichkeit des Herrn wider und werden (dadurch) in dasselbe Bild verwandelt von Herrlichkeit zu Herrlichkeit wie von dem Herrn aus, welcher Geist ist. (a) Rö 8:29 
+**[3:18]** Wir alle aber spiegeln mit aufgedecktem Angesicht die Herrlichkeit des Herrn wider und werden (dadurch) in dasselbe Bild verwandelt von Herrlichkeit zu Herrlichkeit wie von dem Herrn aus, welcher Geist ist. (a) Rö 8:29
 
 ### Chapter 4
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** Denn die schnell vorübergehende leichte Last unsrer Trübsal schafft uns nach überreichem Masse zu überreichem Ertrag ein ewiges Gewicht an Herrlichkeit, (a) Rö 8:17 18; 1Pe 1:6 7
 
-**[4:18]** da wir nicht schauen auf das Sichtbare, sondern auf das Unsichtbare. Denn das Sichtbare ist zeitlich, das Unsichtbare aber ist ewig. (a) Rö 8:24 25; Heb 10:34; 11:1 
+**[4:18]** da wir nicht schauen auf das Sichtbare, sondern auf das Unsichtbare. Denn das Sichtbare ist zeitlich, das Unsichtbare aber ist ewig. (a) Rö 8:24 25; Heb 10:34; 11:1
 
 ### Chapter 5
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** So sind wir nun Gesandte für Christus, indem Gott durch uns ermahnt; wir bitten für Christus: Lasset euch versöhnen mit Gott! (a) Jes 52:7; Joh 20:21
 
-**[5:21]** Er hat den, der von keiner Sünde wusste, für uns zur Sünde gemacht, damit wir in ihm die Gerechtigkeit Gottes würden. (a) Rö 8:3 4; Ga 3:13; 1Kor 1:30; 1Pe 2:22 24; 3:18 
+**[5:21]** Er hat den, der von keiner Sünde wusste, für uns zur Sünde gemacht, damit wir in ihm die Gerechtigkeit Gottes würden. (a) Rö 8:3 4; Ga 3:13; 1Kor 1:30; 1Pe 2:22 24; 3:18
 
 ### Chapter 6
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** Darum "ziehet aus ihrer Mitte aus und sondert euch ab", spricht der Herr, und "rühret nichts Unreines an, so will ich euch aufnehmen". (a) 4Mo 16:26; Jes 52:11; Off 18:4
 
-**[6:18]** Und "ich will euch ein Vater sein, und ihr sollt mir Söhne und Töchter sein", spricht der Herr, der Allmächtige. (a) Jer 31:9; Hos 1:10: Joh 1:12 
+**[6:18]** Und "ich will euch ein Vater sein, und ihr sollt mir Söhne und Töchter sein", spricht der Herr, der Allmächtige. (a) Jer 31:9; Hos 1:10: Joh 1:12
 
 ### Chapter 7
 
@@ -60128,7 +60128,7 @@
 
 **[7:15]** Und sein Herz ist euch in höherem Masse zugetan, da er sich an euer aller Gehorsam erinnert, wie ihr ihn mit Furcht und Zittern aufgenommen habt.
 
-**[7:16]** Ich freue mich, dass ich mich in allem auf euch verlassen kann. 
+**[7:16]** Ich freue mich, dass ich mich in allem auf euch verlassen kann.
 
 ### Chapter 8
 
@@ -60178,7 +60178,7 @@
 
 **[8:23]** Sei es, dass es sich um Titus handelt, so ist er mein Genosse und in Hinsicht auf euch mein Mitarbeiter; seien es unsre Brüder, so sind sie Abgesandte von Gemeinden, ein Abglanz Christi. (a) 2Kor 7:13; Rö 16:7
 
-**[8:24]** Indem ihr nun den Beweis eurer Liebe und unsres Rühmens eurethalben ihnen gegenüber erbringt, (tut ihr es) im Angesicht der Gemeinden. (a) 2Kor 7:14 15 
+**[8:24]** Indem ihr nun den Beweis eurer Liebe und unsres Rühmens eurethalben ihnen gegenüber erbringt, (tut ihr es) im Angesicht der Gemeinden. (a) 2Kor 7:14 15
 
 ### Chapter 9
 
@@ -60210,7 +60210,7 @@
 
 **[9:14]** wobei auch sie im Gebet für euch sich nach euch sehnen wegen der überreichen Gnade Gottes gegen euch.
 
-**[9:15]** Dank sei Gott für seine unaussprechliche Gabe! (a) Rö 6:23 
+**[9:15]** Dank sei Gott für seine unaussprechliche Gabe! (a) Rö 6:23
 
 ### Chapter 10
 
@@ -60248,7 +60248,7 @@
 
 **[10:17]** "Wer sich aber rühmt, der rühme sich des Herrn!" (a) Jer 9:23 24; 1Kor 1:31
 
-**[10:18]** Denn nicht der ist bewährt, der sich selbst empfiehlt, sondern der, den der Herr empfiehlt. (a) Spr 27:2; 1Kor 4:5 
+**[10:18]** Denn nicht der ist bewährt, der sich selbst empfiehlt, sondern der, den der Herr empfiehlt. (a) Spr 27:2; 1Kor 4:5
 
 ### Chapter 11
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** In Damaskus liess der Statthalter des Königs Aretas die Stadt der Damaszener bewachen, um sich meiner zu bemächtigen, (a) Apg 9:24 25
 
-**[11:33]** und ich wurde durch ein Fenster in einem Korb durch die Stadtmauer hinabgelassen und entrann seinen Händen. 
+**[11:33]** und ich wurde durch ein Fenster in einem Korb durch die Stadtmauer hinabgelassen und entrann seinen Händen.
 
 ### Chapter 12
 
@@ -60360,7 +60360,7 @@
 
 **[12:20]** Denn ich fürchte, ich möchte bei meinem Kommen euch wohl nicht so finden, wie ich wünsche, und ich möchte von euch so befunden werden, wie ihr nicht wünscht: es möchten wohl Hader, Eifersucht, Zornausbrüche, Ränke, Verleumdungen, Ohrenbläsereien, Überhebungen, Zerrüttungen sich (bei Euch) finden; (a) 2Kor 10:2; 1Kor 1:11; 4:6; Ga 5:19-21
 
-**[12:21]** es möchte, wenn ich komme, mein Gott mich vor euch von neuem demütigen und ich möchte genötigt sein, über viele von denen zu trauern, die zuvor gesündigt hatten und nicht Busse getan haben wegen der unsaubern Dinge und der Unzucht und Ausschweifung, die sie getrieben haben. (a) 2Kor 2:1; 13:2; 1Kor 6:15-20 
+**[12:21]** es möchte, wenn ich komme, mein Gott mich vor euch von neuem demütigen und ich möchte genötigt sein, über viele von denen zu trauern, die zuvor gesündigt hatten und nicht Busse getan haben wegen der unsaubern Dinge und der Unzucht und Ausschweifung, die sie getrieben haben. (a) 2Kor 2:1; 13:2; 1Kor 6:15-20
 
 ### Chapter 13
 
@@ -60388,7 +60388,7 @@
 
 **[13:12]** Grüsset einander mit dem heiligen Kuss! Es grüssen euch die Heiligen alle. (a) 1Kor 16:20; 1Th 5:26
 
-**[13:13]** Die Gnade des Herrn Jesus Christus und die Liebe Gottes und die Gemeinschaft des heiligen Geistes sei mit euch allen! (a) Ga 6:18; Rö 5:5  
+**[13:13]** Die Gnade des Herrn Jesus Christus und die Liebe Gottes und die Gemeinschaft des heiligen Geistes sei mit euch allen! (a) Ga 6:18; Rö 5:5
 
 **[13:14]** 
 
@@ -60442,7 +60442,7 @@
 
 **[1:23]** Sie hörten vielmehr nur: Der uns einst verfolgte, verkündigt jetzt den Glauben, den er einst zerstörte;
 
-**[1:24]** und sie priesen Gott meinethalben. 
+**[1:24]** und sie priesen Gott meinethalben.
 
 ### Chapter 2
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** ich lebe, aber nicht mehr ich, sondern Christus lebt in mir. Was ich aber jetzt im Fleische lebe, das lebe ich im Glauben an den Sohn Gottes, der mich geliebt und sich für mich dahingegeben hat. (a) Ga 1:4; 2Kor 5:15; Joh 17:23
 
-**[2:21]** Ich verwerfe die Gnade Gottes nicht (wie meine Gegner); denn wenn die Gerechtigkeit durch das Gesetz kommt, dann ist ja Christus umsonst gestorben! 
+**[2:21]** Ich verwerfe die Gnade Gottes nicht (wie meine Gegner); denn wenn die Gerechtigkeit durch das Gesetz kommt, dann ist ja Christus umsonst gestorben!
 
 ### Chapter 3
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** Da ist nicht Jude noch Grieche, da ist nicht Sklave noch Freier, da ist nicht Mann und Weib; denn ihr alle seid einer in Christus Jesus. (a) Rö 10:12; 1Kor 12:13; Eph 2:14 15; Kol 3:11
 
-**[3:29]** Wenn ihr aber Christus angehört, seid ihr ja Abrahams Nachkommenschaft, Erben gemäss der Verheissung. (1) V. 7 9; Rö 9:7 
+**[3:29]** Wenn ihr aber Christus angehört, seid ihr ja Abrahams Nachkommenschaft, Erben gemäss der Verheissung. (1) V. 7 9; Rö 9:7
 
 ### Chapter 4
 
@@ -60610,7 +60610,7 @@
 
 **[4:30]** Aber was sagt die Schrift? "Treibe die Sklavin und ihren Sohn aus, denn der Sohn der Sklavin soll nicht mit dem Sohn der Freien erben." (a) 1Mo 21:10 12
 
-**[4:31]** Daher, ihr Brüder, sind wir nicht Kinder der Sklavin, sondern der Freien. 
+**[4:31]** Daher, ihr Brüder, sind wir nicht Kinder der Sklavin, sondern der Freien.
 
 ### Chapter 5
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** Wenn wir im Geiste leben, so lasset uns im Geiste auch wandeln! (1) V. 16; Rö 8:4 5
 
-**[5:26]** Lasset uns nicht nach eitler Ehre begierig werden, einander (nicht) herausfordern, einander (nicht) beneiden! (a) Php 2:3 
+**[5:26]** Lasset uns nicht nach eitler Ehre begierig werden, einander (nicht) herausfordern, einander (nicht) beneiden! (a) Php 2:3
 
 ### Chapter 6
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Hinfort mache mir niemand Beschwerde! denn ich trage die Malzeichen Jesu an meinem Leibe. (a) 2Kor 4:10
 
-**[6:18]** Die Gnade unsres Herrn Jesus Christus sei mit eurem Geist, ihr Brüder! Amen. (a) Php 4:23; 2Ti 4:22; Phm 1:25  
+**[6:18]** Die Gnade unsres Herrn Jesus Christus sei mit eurem Geist, ihr Brüder! Amen. (a) Php 4:23; 2Ti 4:22; Phm 1:25
 
 ## Ephesians
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** Und alles hat er seinen Füssen unterworfen und hat ihn zum Haupt über alles der Kirche gegeben, (1) im Grundtext steht dasselbe Wort, das sonst die einzelne "Gemeinde" bed. Hier und Eph 3:10; 5:23-25 27 29 32; Kol 1:18 24; 1Kor 12:28; Mt 16:18 bez. es die ganze Christenheit. (a) 1Kor 15:26; Eph 4:15; 5:23; Kol 1:18
 
-**[1:23]** die sein Leib ist, die Fülle dessen, der (doch) alles mit allem erfüllt. (1) vgl. Eph 5:23-33 (a) Eph 3:19; 1Kor 12:27; Kol 1:19 
+**[1:23]** die sein Leib ist, die Fülle dessen, der (doch) alles mit allem erfüllt. (1) vgl. Eph 5:23-33 (a) Eph 3:19; 1Kor 12:27; Kol 1:19
 
 ### Chapter 2
 
@@ -60798,7 +60798,7 @@
 
 **[2:21]** in dem der ganze Bau zusammengefügt heranwächst zu einem heiligen Tempel im Herrn, (a) Eph 4:16; Kol 2:19
 
-**[2:22]** in dem auch ihr miterbaut werdet zu einer Wohnung Gottes im Geist. (a) 1Kor 3:16; 1Pe 2:5 
+**[2:22]** in dem auch ihr miterbaut werdet zu einer Wohnung Gottes im Geist. (a) 1Kor 3:16; 1Pe 2:5
 
 ### Chapter 3
 
@@ -60842,7 +60842,7 @@
 
 **[3:20]** Dem aber, der über alles hinaus in noch weit höherem Masse zu tun vermag, als wir bitten oder verstehen, nach der Kraft, die in uns wirkt, (a) Rö 16:25-27; Kol 1:29
 
-**[3:21]** ihm gebührt die Ehre in der Gemeinde und in Christus Jesus bis zu allen Geschlechtern von Ewigkeit zu Ewigkeit. Amen. (a) Php 4:20 
+**[3:21]** ihm gebührt die Ehre in der Gemeinde und in Christus Jesus bis zu allen Geschlechtern von Ewigkeit zu Ewigkeit. Amen. (a) Php 4:20
 
 ### Chapter 4
 
@@ -60908,7 +60908,7 @@
 
 **[4:31]** Alle Bitterkeit und Grimm und Zorn und Geschrei und Lästerung sei von euch weggetan samt aller Bosheit! (a) Kol 3:8; 1Pe 2:1
 
-**[4:32]** Seid vielmehr gegeneinander gütig, barmherzig, und vergebet einander, wie auch Gott durch Christus euch vergeben hat! (a) Kol 3:12 13; Mt 18:21-35 
+**[4:32]** Seid vielmehr gegeneinander gütig, barmherzig, und vergebet einander, wie auch Gott durch Christus euch vergeben hat! (a) Kol 3:12 13; Mt 18:21-35
 
 ### Chapter 5
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** Dieses Geheimnis ist gross; ich aber deute es auf Christus und auf die Kirche. (a) 2Kor 11:2; Off 19:7
 
-**[5:33]** Doch auch unter euch soll jeder einzelne seine Frau so lieben wie sich selbst, die Frau aber soll vor dem Mann Ehrfurcht haben. 
+**[5:33]** Doch auch unter euch soll jeder einzelne seine Frau so lieben wie sich selbst, die Frau aber soll vor dem Mann Ehrfurcht haben.
 
 ### Chapter 6
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Friede sei den Brüdern und Liebe samt Glauben von Gott, dem Vater, und dem Herrn Jesus Christus! (a) 1Pe 5:14
 
-**[6:24]** Die Gnade sei mit allen, die unsern Herrn Jesus Christus liebhaben in Unvergänglichkeit. (a) Php 4:23; 1Pe 1:8  
+**[6:24]** Die Gnade sei mit allen, die unsern Herrn Jesus Christus liebhaben in Unvergänglichkeit. (a) Php 4:23; 1Pe 1:8
 
 ## Philippians
 
@@ -61090,7 +61090,7 @@
 
 **[1:29]** Denn euch wurde verliehen, nicht nur an Christus zu glauben, sondern auch für ihn zu leiden, (a) Apg 5:41; 1Pe 4:13
 
-**[1:30]** indem ihr denselben Kampf erlebt, wie ihr ihn an mir gesehen habt und jetzt von mir hört. (a) Apg 16:22; 1Th 2:2 
+**[1:30]** indem ihr denselben Kampf erlebt, wie ihr ihn an mir gesehen habt und jetzt von mir hört. (a) Apg 16:22; 1Th 2:2
 
 ### Chapter 2
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** So nehmet ihn nun im Herrn mit aller Freude auf, und haltet solche Männer in Ehren! (a) 1Kor 16:18; 1Ti 5:17
 
-**[2:30]** Denn um des Werkes Christi willen ist er bis nahe zum Tod gekommen und hat sein Leben aufs Spiel gesetzt, um zu ersetzen, was bei eurer Dienstleistung gegen mich noch fehlte. (1) gemeint ist die Anwesenheit der Philipper bei Paulus. 
+**[2:30]** Denn um des Werkes Christi willen ist er bis nahe zum Tod gekommen und hat sein Leben aufs Spiel gesetzt, um zu ersetzen, was bei eurer Dienstleistung gegen mich noch fehlte. (1) gemeint ist die Anwesenheit der Philipper bei Paulus.
 
 ### Chapter 3
 
@@ -61196,7 +61196,7 @@
 
 **[3:20]** Denn das Reich, in dem wir Bürger sind, ist in den Himmeln, und aus ihm erwarten wir auch als Heiland den Herrn Jesus Christus, (a) Eph 2:6; Heb 11:13-16; 13:14; Tit 2:13
 
-**[3:21]** der unsern Leib der Niedrigkeit verwandeln wird, sodass er gleichgestaltet wird seinem Leib der Herrlichkeit vermöge der Kraft, mit der er auch alle Dinge sich untertan machen kann. (a) 1Kor 15:43 49 52 53; 1Jo 3:2 
+**[3:21]** der unsern Leib der Niedrigkeit verwandeln wird, sodass er gleichgestaltet wird seinem Leib der Herrlichkeit vermöge der Kraft, mit der er auch alle Dinge sich untertan machen kann. (a) 1Kor 15:43 49 52 53; 1Jo 3:2
 
 ### Chapter 4
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Es grüssen euch alle Heiligen, ganz besonders aber die aus dem Hause des Kaisers. (a) Php 1:13; 2Kor 13:12
 
-**[4:23]** Die Gnade des Herrn Jesus Christus sei mit eurem Geiste! (a) 1Kor 16:23; Ga 6:18; 2Ti 4:22  
+**[4:23]** Die Gnade des Herrn Jesus Christus sei mit eurem Geiste! (a) 1Kor 16:23; Ga 6:18; 2Ti 4:22
 
 ## Colossians
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** Und ihn verkündigen wir und ermahnen jeden Menschen und lehren jeden Menschen in aller Weisheit, damit wir jeden Menschen vollkommen in Christus (vor Gott) hinstellen, (a) Eph 4:13
 
-**[1:29]** wofür ich auch arbeite und kämpfe gemäss seiner Wirksamkeit, die sich in mir wirksam erweist in Kraft. (a) Eph 3:7 20 
+**[1:29]** wofür ich auch arbeite und kämpfe gemäss seiner Wirksamkeit, die sich in mir wirksam erweist in Kraft. (a) Eph 3:7 20
 
 ### Chapter 2
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** was (doch) alles zur Vernichtung durch den Verbrauch bestimmt ist - nach den Geboten und Lehren der Menschen, (a) Mt 15:9
 
-**[2:23]** was zwar den Ruf der Weisheit hat in selbsterwähltem Gottesdienst und (unterwürfiger) Demut und schonungsloser Härte gegen den Leib, (aber) nicht in irgendeiner wertvollen Sache, (sondern) nur in Hinsicht auf die Sättigung des Fleisches. (a) 1Ti 4:8 
+**[2:23]** was zwar den Ruf der Weisheit hat in selbsterwähltem Gottesdienst und (unterwürfiger) Demut und schonungsloser Härte gegen den Leib, (aber) nicht in irgendeiner wertvollen Sache, (sondern) nur in Hinsicht auf die Sättigung des Fleisches. (a) 1Ti 4:8
 
 ### Chapter 3
 
@@ -61406,7 +61406,7 @@
 
 **[3:24]** weil ihr wisst, dass ihr vom Herrn als Vergeltung das Erbe empfangen werdet! Dem Herrn Christus dienet!
 
-**[3:25]** Denn wer Unrecht tut, wird (die Vergeltung für das) empfangen, was er Unrechtes getan hat, und es gibt kein Ansehen der Person. (a) Rö 2:11; 2Kor 5:10 
+**[3:25]** Denn wer Unrecht tut, wird (die Vergeltung für das) empfangen, was er Unrechtes getan hat, und es gibt kein Ansehen der Person. (a) Rö 2:11; 2Kor 5:10
 
 ### Chapter 4
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Und saget dem Archippus: Sieh auf den Dienst, den du im Herrn empfangen hast, damit du ihn erfüllest! (a) Phm 1:2
 
-**[4:18]** Der Gruss mit meiner, des Paulus, Hand. Gedenket meiner Fesseln! Die Gnade sei mit euch! (a) 1Kor 16:21; 2Th 3:17; Heb 13:3  
+**[4:18]** Der Gruss mit meiner, des Paulus, Hand. Gedenket meiner Fesseln! Die Gnade sei mit euch! (a) 1Kor 16:21; 2Th 3:17; Heb 13:3
 
 ## I Thessalonians
 
@@ -61468,7 +61468,7 @@
 
 **[1:9]** Denn sie selbst erzählen von uns, welchen Eingang wir bei euch gefunden haben und wie ihr euch von den Götzen zu Gott bekehrt habt, um dem lebendigen und wahren Gott zu dienen (a) 1Th 2:1; Apg 14:15; 1Kor 12:2
 
-**[1:10]** und aus den Himmeln seinen Sohn zu erwarten, den er von den Toten auferweckt hat, Jesus, unsern Retter vor dem zukünftigen Zorn. (a) 1Th 4:16; 5:9; Rö 5:9; Tit 2:13; Apg 17:31 
+**[1:10]** und aus den Himmeln seinen Sohn zu erwarten, den er von den Toten auferweckt hat, Jesus, unsern Retter vor dem zukünftigen Zorn. (a) 1Th 4:16; 5:9; Rö 5:9; Tit 2:13; Apg 17:31
 
 ### Chapter 2
 
@@ -61510,7 +61510,7 @@
 
 **[2:19]** Denn wer ist unsre Hoffnung oder unsre Freude oder unser Ruhmeskranz? oder seid nicht auch ihr es vor unsrem Herrn Jesus bei seiner Wiederkunft? (a) 2Kor 1:14; Php 2:16; 4:1; 2Th 1:4
 
-**[2:20]** Ja, ihr seid unser Ruhm und unsre Freude. 
+**[2:20]** Ja, ihr seid unser Ruhm und unsre Freude.
 
 ### Chapter 3
 
@@ -61538,7 +61538,7 @@
 
 **[3:12]** euch aber lasse der Herr wachsen und reich werden in der Liebe gegeneinander und gegen jedermann, wie auch wir gegen euch (in der Liebe reich sind), (a) 1Th 4:9 10
 
-**[3:13]** um eure Herzen zu stärken, dass sie untadelig seien in Heiligkeit vor unsrem Gott und Vater bei der Wiederkunft unsres Herrn Jesus mit allen seinen Heiligen. Amen. (a) 1Th 5:23; 2Th 1:7 10; Php 1:10 
+**[3:13]** um eure Herzen zu stärken, dass sie untadelig seien in Heiligkeit vor unsrem Gott und Vater bei der Wiederkunft unsres Herrn Jesus mit allen seinen Heiligen. Amen. (a) 1Th 5:23; 2Th 1:7 10; Php 1:10
 
 ### Chapter 4
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** darnach werden wir, die Lebenden, die Übrigbleibenden, zugleich mit ihnen entrückt werden in Wolken dem Herrn entgegen in die Luft; und so werden wir allezeit bei dem Herrn sein. (a) Joh 12:26; 14:3; 17:24; 2Kor 5:8
 
-**[4:18]** Darum tröstet einander mit diesen Worten! 
+**[4:18]** Darum tröstet einander mit diesen Worten!
 
 ### Chapter 5
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Ich beschwöre euch bei dem Herrn, dass der Brief allen Brüdern vorgelesen werde. (a) Kol 4:16
 
-**[5:28]** Die Gnade unsres Herrn Jesus Christus sei mit euch! (a) Rö 16:20 24  
+**[5:28]** Die Gnade unsres Herrn Jesus Christus sei mit euch! (a) Rö 16:20 24
 
 ## II Thessalonians
 
@@ -61662,7 +61662,7 @@
 
 **[1:11]** Und im Hinblick darauf beten wir auch allezeit für euch, dass euch unser Gott der (endgültigen) Berufung würdigen und alles Wohlgefallen an der Gütigkeit und alles Werk des Glaubens in Kraft vollenden wolle, (a) 1Th 1:2 3
 
-**[1:12]** damit der Name unsres Herrn Jesus in euch verherrlicht werde und ihr in ihm nach der Gnade unsres Gottes und des Herrn Jesus Christus. 
+**[1:12]** damit der Name unsres Herrn Jesus in euch verherrlicht werde und ihr in ihm nach der Gnade unsres Gottes und des Herrn Jesus Christus.
 
 ### Chapter 2
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** Unser Herr Jesus Christus selbst aber und Gott, unser Vater, der uns geliebt und in Gnaden einen ewigen Trost und eine gute Hoffnung gegeben hat, (a) 1Pe 5:10
 
-**[2:17]** tröste eure Herzen und stärke (sie) in jedem guten Werk und Wort! (a) 1Th 3:11-13 
+**[2:17]** tröste eure Herzen und stärke (sie) in jedem guten Werk und Wort! (a) 1Th 3:11-13
 
 ### Chapter 3
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Der Gruss mit meiner, des Paulus, Hand. Das ist ein Zeichen in jedem Brief; so schreibe ich. (a) 2Th 2:2; 1Kor 16:21
 
-**[3:18]** Die Gnade unsres Herrn Jesus Christus sei mit euch allen! (a) 1Th 5:28  
+**[3:18]** Die Gnade unsres Herrn Jesus Christus sei mit euch allen! (a) 1Th 5:28
 
 ## I Timothy
 
@@ -61780,7 +61780,7 @@
 
 **[1:19]** indem du Glauben und ein gutes Gewissen behältst, das gewisse Leute von sich gestossen und (dadurch) am Glauben Schiffbruch gelitten haben, (a) 1Ti 3:9; 6:10 21; Apg 24:16
 
-**[1:20]** unter welchen Hymenäus ist und Alexander, die ich dem Satan übergeben habe, damit sie gezüchtigt werden, nicht (mehr) zu lästern. (a) 2Ti 2:17 18; 4:14; 1Kor 5:5 
+**[1:20]** unter welchen Hymenäus ist und Alexander, die ich dem Satan übergeben habe, damit sie gezüchtigt werden, nicht (mehr) zu lästern. (a) 2Ti 2:17 18; 4:14; 1Kor 5:5
 
 ### Chapter 2
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** Und Adam wurde nicht verführt, das Weib vielmehr wurde verführt und ist in Übertretung geraten. (a) 1Mo 3:6; 2Kor 11:3
 
-**[2:15]** Sie wird aber gerettet werden durch das Kindergebären, wenn sie in Glauben und Liebe und Heiligung mit Sittsamkeit verbleiben. (1) d.h. die Frauen. (a) 1Ti 5:14; Tit 2:4 5 
+**[2:15]** Sie wird aber gerettet werden durch das Kindergebären, wenn sie in Glauben und Liebe und Heiligung mit Sittsamkeit verbleiben. (1) d.h. die Frauen. (a) 1Ti 5:14; Tit 2:4 5
 
 ### Chapter 3
 
@@ -61846,7 +61846,7 @@
 
 **[3:15]** für den Fall aber, dass ich verziehe, sollst du wissen, wie man sich verhalten muss im Hause Gottes, das ja die Gemeinde des lebendigen Gottes ist, die Säule und Grundfeste der Wahrheit.
 
-**[3:16]** Und anerkanntermassen gross ist das Geheimnis der Frömmigkeit: Der geoffenbart worden ist im Fleisch, als gerecht erwiesen im Geist, erschienen ist den Engeln, gepredigt unter den Heiden, geglaubt in der Welt, hinaufgenommen in Herrlichkeit. (1) die hier beginnenden sechs Verszeilen sind vlt. einem uralten chr. Hymnus entnommen. (a) Mr 16:19; Joh 1:14; Apg 1:9 10; Rö 1:3 4; 1Kor 15:5-9; Eph 1:20-22 
+**[3:16]** Und anerkanntermassen gross ist das Geheimnis der Frömmigkeit: Der geoffenbart worden ist im Fleisch, als gerecht erwiesen im Geist, erschienen ist den Engeln, gepredigt unter den Heiden, geglaubt in der Welt, hinaufgenommen in Herrlichkeit. (1) die hier beginnenden sechs Verszeilen sind vlt. einem uralten chr. Hymnus entnommen. (a) Mr 16:19; Joh 1:14; Apg 1:9 10; Rö 1:3 4; 1Kor 15:5-9; Eph 1:20-22
 
 ### Chapter 4
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** Dies lass deine Sorge sein, darin lebe, damit dein Fortschreiten jedermann offenbar sei!
 
-**[4:16]** Habe acht auf dich selbst und auf die Lehre, halte fest an diesen Dingen! denn wenn du dies tust, wirst du sowohl dich selbst erretten als auch die, welche auf dich hören. (a) Apg 20:28 
+**[4:16]** Habe acht auf dich selbst und auf die Lehre, halte fest an diesen Dingen! denn wenn du dies tust, wirst du sowohl dich selbst erretten als auch die, welche auf dich hören. (a) Apg 20:28
 
 ### Chapter 5
 
@@ -61932,7 +61932,7 @@
 
 **[5:24]** Etlicher Menschen Sünden sind offenkundig und gehen (ihnen) zum Gericht voran, etlichen aber auch folgen sie (dahin erst) nach.
 
-**[5:25]** Ebenso sind auch die guten Werke offenkundig, und die (Werke), bei denen es sich anders verhält, können nicht verborgen bleiben. (a) Ga 5:22 23 
+**[5:25]** Ebenso sind auch die guten Werke offenkundig, und die (Werke), bei denen es sich anders verhält, können nicht verborgen bleiben. (a) Ga 5:22 23
 
 ### Chapter 6
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** O Timotheus, bewahre das anvertraute Gut und gehe den heillosen, nichtigen Geschwätzen und Streitsätzen der fälschlich so genannten "Erkenntnis" aus dem Wege, (1) gemeint ist wohl die reine Lehre des Evangeliums; so auch 2Ti 1:14. (a) 2Ti 1:14; 2:14 16
 
-**[6:21]** durch deren willige Anerkennung gewisse Leute vom Glauben abgeirrt sind. Die Gnade sei mit euch! (a) 1Ti 1:6 19; 2Ti 2:18  
+**[6:21]** durch deren willige Anerkennung gewisse Leute vom Glauben abgeirrt sind. Die Gnade sei mit euch! (a) 1Ti 1:6 19; 2Ti 2:18
 
 ## II Timothy
 
@@ -62016,7 +62016,7 @@
 
 **[1:17]** sondern als er nach Rom gekommen war, hat er mich eifrig aufgesucht und gefunden. (a) Apg 28:30
 
-**[1:18]** Der Herr gebe ihm, dass er Barmherzigkeit finde von seiten des Herrn an jenem Tage! Und wie viele Dienste er in Ephesus geleistet hat, weisst du besser (als ich). (a) Mt 5:7 
+**[1:18]** Der Herr gebe ihm, dass er Barmherzigkeit finde von seiten des Herrn an jenem Tage! Und wie viele Dienste er in Ephesus geleistet hat, weisst du besser (als ich). (a) Mt 5:7
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** mit Sanftmut die Widerspenstigen zurechtweisend, ob ihnen etwa Gott Sinnesänderung verleihe zur Erkenntnis der Wahrheit (a) 1Th 5:14; 1Ti 2:4
 
-**[2:26]** und sie wieder zur Besinnung kommen aus der Schlinge des Teufels heraus, nachdem sie von ihm gefangen worden sind für seinen Willen. (a) Lu 22:31 32 
+**[2:26]** und sie wieder zur Besinnung kommen aus der Schlinge des Teufels heraus, nachdem sie von ihm gefangen worden sind für seinen Willen. (a) Lu 22:31 32
 
 ### Chapter 3
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** Jede von Gottes Geist eingegebene Schrift ist auch nütze zur Lehre, zur Überführung (des Sünders), zur Besserung, zur Erziehung in der Gerechtigkeit, (a) 2Pe 1:19-21
 
-**[3:17]** damit der Mensch Gottes vollkommen sei, zu jedem guten Werke völlig ausgerüstet. 
+**[3:17]** damit der Mensch Gottes vollkommen sei, zu jedem guten Werke völlig ausgerüstet.
 
 ### Chapter 4
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Beeile dich, vor dem Winter zu kommen! Es grüsst dich Eubulus und Pudens und Linus und Claudia und die Brüder alle.
 
-**[4:22]** Der Herr sei mit deinem Geiste! Die Gnade sei mit euch! (a) Ga 6:18  
+**[4:22]** Der Herr sei mit deinem Geiste! Die Gnade sei mit euch! (a) Ga 6:18
 
 ## Titus
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Den Reinen ist alles rein; den Befleckten und Ungläubigen aber ist nichts rein, sondern befleckt ist sowohl ihr Sinn als ihr Gewissen. (a) Rö 14:14 20; Mt 15:11
 
-**[1:16]** Sie erklären feierlich, Gott zu kennen, mit den Werken aber verleugnen sie ihn, indem sie verabscheuungswürdig sind und ungehorsam und zu jedem guten Werk untüchtig. (a) 2Ti 3:5 17 
+**[1:16]** Sie erklären feierlich, Gott zu kennen, mit den Werken aber verleugnen sie ihn, indem sie verabscheuungswürdig sind und ungehorsam und zu jedem guten Werk untüchtig. (a) 2Ti 3:5 17
 
 ### Chapter 2
 
@@ -62220,7 +62220,7 @@
 
 **[2:14]** der sich für uns dahingegeben hat, um uns von allem gesetzwidrigen Wesen zu erlösen und für sich selbst ein Volk zum Eigentum zu reinigen, das eifrig wäre in guten Werken. (a) 1Ti 2:6; Eph 2:10; 5:27; 1Pe 2:9; 2Mo 19:5; 5Mo 14:2
 
-**[2:15]** Dies rede und ermahne und erweise mit aller Entschiedenheit; niemand soll dich missachten! (a) 1Ti 4:11 12 
+**[2:15]** Dies rede und ermahne und erweise mit aller Entschiedenheit; niemand soll dich missachten! (a) 1Ti 4:11 12
 
 ### Chapter 3
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** Aber auch die Unsrigen sollen lernen, sich guter Werke zu befleissigen für die notwendigen Bedürfnisse, damit sie nicht ohne Frucht seien. (1) V. 8; Jak 2:14-26; Mt 5:16; 7:16-20
 
-**[3:15]** Es grüssen dich alle, die bei mir sind. Grüsse die, welche im Glauben uns lieben! Die Gnade sei mit euch allen! (a) Php 4:23  
+**[3:15]** Es grüssen dich alle, die bei mir sind. Grüsse die, welche im Glauben uns lieben! Die Gnade sei mit euch allen! (a) Php 4:23
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** Markus, Aristarch, Demas, Lukas, meine Mitarbeiter. (a) Apg 12:12 (b) Apg 19:29 (c) Kol 4:14
 
-**[1:25]** Die Gnade des Herrn Jesus Christus sei mit eurem Geist! (a) Ga 6:18  
+**[1:25]** Die Gnade des Herrn Jesus Christus sei mit eurem Geist! (a) Ga 6:18
 
 ## Hebrews
 
@@ -62338,11 +62338,11 @@
 
 **[1:13]** Zu welchem von den Engeln aber hat er jemals gesagt: "Setze dich zu meiner Rechten, / bis ich hinlege deine Feinde / als Schemel für deine Füsse"? (a) Ps 110:1; Mt 22:44; Apg 2:34
 
-**[1:14]** Sind sie nicht alle dienstbare Geister, zum Dienst ausgesandt um derer willen, die das Heil ererben sollen? (a) Ps 34:8; 91:11 12 
+**[1:14]** Sind sie nicht alle dienstbare Geister, zum Dienst ausgesandt um derer willen, die das Heil ererben sollen? (a) Ps 34:8; 91:11 12
 
 ### Chapter 2
 
-**[2:1]** DESHALB müssen wir desto mehr auf das Gehörte achten, damit wir nicht etwa (am Ziel) vorbeigleiten. 
+**[2:1]** DESHALB müssen wir desto mehr auf das Gehörte achten, damit wir nicht etwa (am Ziel) vorbeigleiten.
 
 **[2:2]** Denn wenn das durch Engel verkündigte Wort fest wurde und jede Übertretung und jeder Ungehorsam gerechten Lohn empfing, (1) gemeint ist das Wort der Gesetzgebung am Sinai; vgl. Ga 3:19. (a) Apg 7:38 53
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** Welchen aber schwur er, sie sollten nicht in seine Ruhe eingehen, als nur denen, die ungehorsam gewesen waren? (1) V. 11
 
-**[3:19]** Und wir sehen, dass sie nicht eingehen konnten wegen (ihres) Unglaubens. (a) Heb 4:6 
+**[3:19]** Und wir sehen, dass sie nicht eingehen konnten wegen (ihres) Unglaubens. (a) Heb 4:6
 
 ### Chapter 4
 
@@ -62450,7 +62450,7 @@
 
 **[4:15]** Denn wir haben nicht einen Hohenpriester, der mit unsern Schwachheiten nicht Mitgefühl haben könnte, vielmehr einen, der in allem auf gleiche Weise versucht worden ist (wie wir, doch) ohne Sünde. (a) Heb 5:2; 2:17 18
 
-**[4:16]** So lasset uns nun mit Zuversicht zum Thron der Gnade hinzugehen, damit wir Barmherzigkeit erlangen und Gnade finden zu rechtzeitiger Hilfe! (a) Heb 10:22; Rö 5:2 
+**[4:16]** So lasset uns nun mit Zuversicht zum Thron der Gnade hinzugehen, damit wir Barmherzigkeit erlangen und Gnade finden zu rechtzeitiger Hilfe! (a) Heb 10:22; Rö 5:2
 
 ### Chapter 5
 
@@ -62480,7 +62480,7 @@
 
 **[5:13]** Denn jeder, der (noch wie ein Kind) Milch geniesst, ist unerfahren in der eigentlichen Lehre (für Gereifte); denn er ist unmündig. (a) Eph 4:14
 
-**[5:14]** Für Gereifte aber ist die feste Speise, für die (nämlich), welche vermöge ihrer Gewöhnung geübte Sinne haben zur Unterscheidung des Guten und des Bösen. (a) Php 1:10; Rö 16:19; 1Mo 2:17; 3:5 
+**[5:14]** Für Gereifte aber ist die feste Speise, für die (nämlich), welche vermöge ihrer Gewöhnung geübte Sinne haben zur Unterscheidung des Guten und des Bösen. (a) Php 1:10; Rö 16:19; 1Mo 2:17; 3:5
 
 ### Chapter 6
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** Und diese besitzen wir als einen Anker der Seele, der sicher und fest ist und ins Innere hinter dem Vorhang hineinreicht, (a) Heb 9:2-5 24; 3Mo 16:2 12
 
-**[6:20]** wohin als Vorläufer für uns Jesus eingegangen ist, der nach der Weise Melchisedeks Hoherpriester geworden ist in Ewigkeit. (a) Heb 4:14; 5:6; Ps 110:4 
+**[6:20]** wohin als Vorläufer für uns Jesus eingegangen ist, der nach der Weise Melchisedeks Hoherpriester geworden ist in Ewigkeit. (a) Heb 4:14; 5:6; Ps 110:4
 
 ### Chapter 7
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** der nicht wie die Hohenpriester täglich nötig hat, zuerst für die eignen Sünden Opfer darzubringen, dann für die des Volks; denn dies hat er einmal getan, als er sich selbst darbrachte. (a) Hebr 5:3; 3Mo 16:6 15 17; Heb 9:12 26
 
-**[7:28]** Denn das Gesetz bestellt Menschen zu Hohenpriestern, welche Schwachheit (an sich) haben, das Wort des Eidschwurs aber, der später als das Gesetz erfolgte, den Sohn, der in Ewigkeit vollendet ist. (a) Heb 5:1 2; Ps 2:7 
+**[7:28]** Denn das Gesetz bestellt Menschen zu Hohenpriestern, welche Schwachheit (an sich) haben, das Wort des Eidschwurs aber, der später als das Gesetz erfolgte, den Sohn, der in Ewigkeit vollendet ist. (a) Heb 5:1 2; Ps 2:7
 
 ### Chapter 8
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** Denn ich werde gegen ihre Ungerechtigkeiten gnädig sein und ihrer Sünden nicht mehr gedenken." (a) Heb 10:17; Jes 43:25
 
-**[8:13]** Indem er sagt: "Einen neuen (Bund)", hat er den ersten für veraltet erklärt. Was aber veraltet ist und sich überlebt hat, ist dem Verschwinden nahe. (a) Rö 10:4 
+**[8:13]** Indem er sagt: "Einen neuen (Bund)", hat er den ersten für veraltet erklärt. Was aber veraltet ist und sich überlebt hat, ist dem Verschwinden nahe. (a) Rö 10:4
 
 ### Chapter 9
 
@@ -62666,7 +62666,7 @@
 
 **[9:27]** Und wie den Menschen bevorsteht, einmal zu sterben, darnach aber das Gericht, (a) 1Mo 3:19; 2Kor 5:10
 
-**[9:28]** so wird auch Christus, nachdem er einmal geopfert worden ist, um die Sünden vieler hinwegzunehmen, zum zweitenmal ohne (Beziehung auf) Sünde denen erscheinen, die ihn zum Heil erwarten. (a) Heb 10:10 12 14; Jes 53:12; 1Pe 2:24; Rö 6:10; Php 3:20 
+**[9:28]** so wird auch Christus, nachdem er einmal geopfert worden ist, um die Sünden vieler hinwegzunehmen, zum zweitenmal ohne (Beziehung auf) Sünde denen erscheinen, die ihn zum Heil erwarten. (a) Heb 10:10 12 14; Jes 53:12; 1Pe 2:24; Rö 6:10; Php 3:20
 
 ### Chapter 10
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** Mein Gerechter aber wird aus Glauben leben; und wenn er feig zurückweicht, hat meine Seele kein Gefallen an ihm". (a) Hab 2:4; Rö 1:17; Ga 3:11
 
-**[10:39]** Wir aber sind nicht solche, die feig zurückweichen, um (so) zugrunde zu gehen, sondern solche, die glauben, um (so) das (ewige) Leben zu gewinnen. (a) 1Pe 1:9 
+**[10:39]** Wir aber sind nicht solche, die feig zurückweichen, um (so) zugrunde zu gehen, sondern solche, die glauben, um (so) das (ewige) Leben zu gewinnen. (a) 1Pe 1:9
 
 ### Chapter 11
 
@@ -62828,7 +62828,7 @@
 
 **[11:39]** Und diese alle erlangten, obschon sie durch den Glauben (ein gutes) Zeugnis besassen, die Verheissung nicht, (1) V. 2 13
 
-**[11:40]** weil Gott für uns etwas Besseres vorgesehen hat, damit sie nicht ohne uns zur (himmlischen) Vollendung gelangen sollten. (a) Off 6:11 
+**[11:40]** weil Gott für uns etwas Besseres vorgesehen hat, damit sie nicht ohne uns zur (himmlischen) Vollendung gelangen sollten. (a) Off 6:11
 
 ### Chapter 12
 
@@ -62888,7 +62888,7 @@
 
 **[12:28]** Darum lasset uns, weil wir ein unerschütterliches Reich empfangen, Dankbarkeit hegen, durch die wir Gott wohlgefällig dienen mit Scheu und Furcht. (a) Kol 1:12
 
-**[12:29]** Denn unser Gott ist ein verzehrendes Feuer. (a) 5Mo 4:24; 9:3; Jes 33:14 
+**[12:29]** Denn unser Gott ist ein verzehrendes Feuer. (a) 5Mo 4:24; 9:3; Jes 33:14
 
 ### Chapter 13
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Grüsset alle eure Vorsteher und alle Heiligen! Es grüssen euch die von Italien. (1) V. 7 17
 
-**[13:25]** Die Gnade sei mit euch allen! (a) Off 22:21  
+**[13:25]** Die Gnade sei mit euch allen! (a) Off 22:21
 
 ## James
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** Wenn jemand meint, er diene Gott, während er seine Zunge nicht im Zaum hält, sondern sein Herz betrügt, dessen Gottesdienst ist nichtig. (a) Jak 3:2; 1Pe 3:10; Ps 34:14
 
-**[1:27]** Ein reiner und unbefleckter Dienst vor Gott, dem Vater, ist dieser: Waisen und Witwen in ihrer Trübsal zu besuchen und sich selbst von der Welt unbefleckt zu erhalten. (a) Jes 1:17 
+**[1:27]** Ein reiner und unbefleckter Dienst vor Gott, dem Vater, ist dieser: Waisen und Witwen in ihrer Trübsal zu besuchen und sich selbst von der Welt unbefleckt zu erhalten. (a) Jes 1:17
 
 ### Chapter 2
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Ist aber nicht ebenso auch die Dirne Rahab aus Werken gerechtgesprochen worden, weil sie die Boten aufnahm und auf einem andern Weg hinausliess? (a) Jos 2:1-21; Heb 11:31
 
-**[2:26]** Denn wie der Leib ohne Geist tot ist, so ist auch der Glaube ohne Werke tot. (1) V. 17 
+**[2:26]** Denn wie der Leib ohne Geist tot ist, so ist auch der Glaube ohne Werke tot. (1) V. 17
 
 ### Chapter 3
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** Aber die Weisheit von oben ist fürs erste rein, dann friedsam, freundlich, fügsam, voll Barmherzigkeit und guter Früchte, frei von Zweifel, frei von Heuchelei. (a) 1Ti 1:5
 
-**[3:18]** Die Frucht der Gerechtigkeit aber wird in Frieden gesät von denen, die Frieden halten. (a) Jes 32:17; Heb 12:11; Mt 5:9; Php 1:11 
+**[3:18]** Die Frucht der Gerechtigkeit aber wird in Frieden gesät von denen, die Frieden halten. (a) Jes 32:17; Heb 12:11; Mt 5:9; Php 1:11
 
 ### Chapter 4
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** Jetzt aber rühmt ihr euch in euren Prahlereien. Jedes derartige Rühmen ist böse.
 
-**[4:17]** Wer nun weiss, Gutes zu tun, und tut es nicht, dem ist es Sünde. (a) Lu 12:47 
+**[4:17]** Wer nun weiss, Gutes zu tun, und tut es nicht, dem ist es Sünde. (a) Lu 12:47
 
 ### Chapter 5
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Meine Brüder, wenn jemand unter euch von der Wahrheit abgeirrt ist und es bekehrt ihn jemand, (a) Ga 6:1
 
-**[5:20]** der wisse: Wer einen Sünder von seinem Irrweg bekehrt, der wird seine (eigne) Seele vom Tode retten und eine Menge von Sünden zudecken. (a) Mt 18:15; Ps 51:15; Spr 10:12; 1Pe 4:8  
+**[5:20]** der wisse: Wer einen Sünder von seinem Irrweg bekehrt, der wird seine (eigne) Seele vom Tode retten und eine Menge von Sünden zudecken. (a) Mt 18:15; Ps 51:15; Spr 10:12; 1Pe 4:8
 
 ## I Peter
 
@@ -63222,7 +63222,7 @@
 
 **[1:24]** Denn "alles Fleisch ist wie Gras und all seine Herrlichkeit wie die Blume des Grases. Das Gras verdorrt, und die Blume fällt ab, (a) Jes 40:6-8
 
-**[1:25]** aber des Herrn Wort bleibt in Ewigkeit." Dies ist aber das Wort, das euch als frohe Botschaft verkündigt worden ist. 
+**[1:25]** aber des Herrn Wort bleibt in Ewigkeit." Dies ist aber das Wort, das euch als frohe Botschaft verkündigt worden ist.
 
 ### Chapter 2
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** Er hat unsre Sünden an seinem Leibe selber an das Holz hinauf getragen, damit wir von den Sünden loskämen und der Gerechtigkeit lebten; "durch seine Wunden seid ihr geheilt worden". (a) Jes 53:5; Rö 6:11 18
 
-**[2:25]** Denn ihr irrtet umher wie Schafe, aber ihr habt euch jetzt hingewandt zu dem Hirten und Hüter eurer Seelen. (a) Jes 53:6; Joh 10:11 14 
+**[2:25]** Denn ihr irrtet umher wie Schafe, aber ihr habt euch jetzt hingewandt zu dem Hirten und Hüter eurer Seelen. (a) Jes 53:6; Joh 10:11 14
 
 ### Chapter 3
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** das jetzt im Gegenbild auch euch rettet: die Taufe. (Sie ist ja) nicht ein Abtun der Unsauberkeit des Fleisches, sondern eine Bitte an Gott um ein gutes Gewissen durch die Auferstehung Jesu Christi, (a) Heb 10:22; Eph 5:26
 
-**[3:22]** der zur Rechten Gottes ist, nachdem er in den Himmel gefahren ist und ihm die Engel und Mächte und Kräfte unterworfen worden sind. (a) Eph 1:20 21 
+**[3:22]** der zur Rechten Gottes ist, nachdem er in den Himmel gefahren ist und ihm die Engel und Mächte und Kräfte unterworfen worden sind. (a) Eph 1:20 21
 
 ### Chapter 4
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** Und wenn "der Gerechte kaum gerettet wird, wo wird (dann erst) der Gottlose und Sünder zu sehen sein"? (a) Spr 11:31
 
-**[4:19]** Darum sollen auch die, welche nach dem Willen Gottes leiden, dem treuen Schöpfer ihre Seelen empfehlen und dabei recht tun. (a) Ps 31:6; Lu 23:46 
+**[4:19]** Darum sollen auch die, welche nach dem Willen Gottes leiden, dem treuen Schöpfer ihre Seelen empfehlen und dabei recht tun. (a) Ps 31:6; Lu 23:46
 
 ### Chapter 5
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** Es grüsst euch die Miterwählte in Babylon und Markus, mein Sohn. (1) das ist jedenfalls die Gemeinde. (a) Apg 12:12 25
 
-**[5:14]** Grüsset einander mit dem Kuss der Liebe! Friede sei (mit) euch allen, die in Christus sind!  
+**[5:14]** Grüsset einander mit dem Kuss der Liebe! Friede sei (mit) euch allen, die in Christus sind!
 
 ## II Peter
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** indem ihr dies zuerst erkennt, dass keine Weissagung der Schrift durch (des Propheten) eigne Deutung (der Zukunft) zustande kommt.
 
-**[1:21]** Denn niemals ist eine Weissagung durch menschlichen Willen hervorgebracht worden, sondern durch den heiligen Geist getrieben haben Menschen von Gott aus geredet. (a) 2Ti 3:16 17; 1Pe 1:10-12 
+**[1:21]** Denn niemals ist eine Weissagung durch menschlichen Willen hervorgebracht worden, sondern durch den heiligen Geist getrieben haben Menschen von Gott aus geredet. (a) 2Ti 3:16 17; 1Pe 1:10-12
 
 ### Chapter 2
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** Denn es wäre ihnen besser, sie hätten den Weg der Gerechtigkeit nicht erkannt, als dass sie sich, nachdem sie ihn erkannt haben, von dem ihnen überlieferten heiligen Gebot wieder abwenden. (a) Lu 12:47 48; Heb 10:26
 
-**[2:22]** Es ist ihnen widerfahren, was das wahre Sprichwort sagt: "Ein Hund kehrt wieder um zu dem, was er selber ausgespieen hat", und: "ein Schwein, das sich gebadet hat, geht wieder in den Mistpfuhl." (a) Spr 26:11 
+**[2:22]** Es ist ihnen widerfahren, was das wahre Sprichwort sagt: "Ein Hund kehrt wieder um zu dem, was er selber ausgespieen hat", und: "ein Schwein, das sich gebadet hat, geht wieder in den Mistpfuhl." (a) Spr 26:11
 
 ### Chapter 3
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Da nun ihr, Geliebte, (dies) vorherwisst, so hütet euch, dass ihr nicht durch den Irrtum der Zuchtlosen mit fortgerissen werdet und aus eurem eignen festen Stand herausfallt! (a) Mr 13:5
 
-**[3:18]** Wachset vielmehr in der Gnade und in der Erkenntnis unsres Herrn und Heilandes Jesus Christus! Ihm gebührt die Ehre, jetzt sowohl als am Tage der Ewigkeit. (a) Juda 1:25  
+**[3:18]** Wachset vielmehr in der Gnade und in der Erkenntnis unsres Herrn und Heilandes Jesus Christus! Ihm gebührt die Ehre, jetzt sowohl als am Tage der Ewigkeit. (a) Juda 1:25
 
 ## I John
 
@@ -63544,7 +63544,7 @@
 
 **[1:9]** Wenn wir unsre Sünden bekennen, ist er treu und gerecht, sodass er uns die Sünden vergibt und uns von aller Ungerechtigkeit reinigt. (a) Spr 28:13; Ps 32:1-5
 
-**[1:10]** Wenn wir sagen, dass wir nicht gesündigt haben, machen wir ihn zum Lügner, und sein Wort ist nicht in uns. 
+**[1:10]** Wenn wir sagen, dass wir nicht gesündigt haben, machen wir ihn zum Lügner, und sein Wort ist nicht in uns.
 
 ### Chapter 2
 
@@ -63604,7 +63604,7 @@
 
 **[2:28]** Und jetzt, Kinder, bleibet in ihm, damit wir, wenn er sich offenbaren wird, Zuversicht haben und nicht zuschanden werden vor ihm bei seiner Wiederkunft! (a) 1Jo 4:17
 
-**[2:29]** Wenn ihr wisst, dass er gerecht ist, so erkennet, dass auch jeder, der die Gerechtigkeit tut, aus ihm gezeugt ist! (a) 1Jo 3:7-10 
+**[2:29]** Wenn ihr wisst, dass er gerecht ist, so erkennet, dass auch jeder, der die Gerechtigkeit tut, aus ihm gezeugt ist! (a) 1Jo 3:7-10
 
 ### Chapter 3
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** Und das ist sein Gebot, dass wir an den Namen seines Sohnes Jesus Christus glauben und einander lieben, wie er uns geboten hat. (a) Joh 6:29; 15:12 17
 
-**[3:24]** Und wer seine Gebote hält, der bleibt in ihm und er (wiederum) in ihm; und daran erkennen wir, dass er in uns bleibt: an dem Geiste, den er uns gegeben hat. (a) 1Jo 4:13; Rö 8:9 
+**[3:24]** Und wer seine Gebote hält, der bleibt in ihm und er (wiederum) in ihm; und daran erkennen wir, dass er in uns bleibt: an dem Geiste, den er uns gegeben hat. (a) 1Jo 4:13; Rö 8:9
 
 ### Chapter 4
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** Wenn jemand sagt: Ich liebe Gott, und (doch) seinen Bruder hasst, ist er ein Lügner. Denn wer seinen Bruder nicht liebt, den er von Angesicht kennt, kann Gott nicht lieben, den er von Angesicht nicht kennt. (a) 1Jo 2:4 9
 
-**[4:21]** Und dieses Gebot haben wir von ihm, dass, wer Gott liebt, auch seinen Bruder lieben soll. (a) Mt 22:36-40 
+**[4:21]** Und dieses Gebot haben wir von ihm, dass, wer Gott liebt, auch seinen Bruder lieben soll. (a) Mt 22:36-40
 
 ### Chapter 5
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** Wir wissen aber, dass der Sohn Gottes gekommen ist und uns Einsicht gegeben hat, den Wahren zu erkennen; und wir sind in dem Wahren, (indem wir) in seinem Sohne Jesus Christus (sind). Dies ist der wahre Gott und ewiges Leben. (a) Joh 17:3
 
-**[5:21]** Kinder, hütet euch vor den Götzen! (a) 1Kor 10:14  
+**[5:21]** Kinder, hütet euch vor den Götzen! (a) 1Kor 10:14
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** WIEWOHL ich euch vieles zu schreiben hätte, will ich es nicht mit Papier und Tinte tun, sondern ich hoffe, zu euch zu kommen und mündlich (mit euch) zu reden, damit unsre Freude vollkommen sei. (a) 1Jo 1:4; 3Jo 1:13 14
 
-**[1:13]** Es grüssen dich die Kinder deiner auserwählten Schwester.  
+**[1:13]** Es grüssen dich die Kinder deiner auserwählten Schwester.
 
 ## III John
 
@@ -63806,7 +63806,7 @@
 
 **[1:14]** Ich hoffe vielmehr, dich recht bald zu sehen; dann wollen wir mündlich reden.
 
-**[1:15]** Friede sei (mit) dir! Es grüssen dich die Freunde. Grüsse die Freunde mit Namen!  
+**[1:15]** Friede sei (mit) dir! Es grüssen dich die Freunde. Grüsse die Freunde mit Namen!
 
 ## Jude
 
@@ -63860,7 +63860,7 @@
 
 **[1:24]** DEM aber, der euch vor Fehltritten zu behüten und untadelig, mit Frohlocken vor seine Herrlichkeit zu stellen vermag, (a) 1Th 5:23; Rö 16:25-27
 
-**[1:25]** dem alleinigen Gott, unsrem Heiland durch Jesus Christus, unsern Herrn, gebührt Ehre, Majestät, Macht und Gewalt vor aller Zeit und jetzt und in alle Ewigkeit. Amen. (a) 1Ti 1:17; 2Pe 3:18  
+**[1:25]** dem alleinigen Gott, unsrem Heiland durch Jesus Christus, unsern Herrn, gebührt Ehre, Majestät, Macht und Gewalt vor aller Zeit und jetzt und in alle Ewigkeit. Amen. (a) 1Ti 1:17; 2Pe 3:18
 
 ## Revelation of John
 
@@ -63904,7 +63904,7 @@
 
 **[1:19]** Schreibe nun, was du gesehen hast und was es bedeutet und was nachher geschehen soll,
 
-**[1:20]** das Geheimnis der sieben Sterne, die du auf meiner Rechten gesehen hast, nebst den sieben goldenen Leuchtern: Die sieben Sterne sind die Engel der sieben Gemeinden, und die sieben Leuchter sind die sieben Gemeinden. 
+**[1:20]** das Geheimnis der sieben Sterne, die du auf meiner Rechten gesehen hast, nebst den sieben goldenen Leuchtern: Die sieben Sterne sind die Engel der sieben Gemeinden, und die sieben Leuchter sind die sieben Gemeinden.
 
 ### Chapter 2
 
@@ -63964,7 +63964,7 @@
 
 **[2:28]** wie auch ich (solche Macht) von meinem Vater empfangen habe -, und ich will ihm den Morgenstern geben. (a) Off 3:6 13 22
 
-**[2:29]** Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt! 
+**[2:29]** Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt!
 
 ### Chapter 3
 
@@ -64010,7 +64010,7 @@
 
 **[3:21]** Wer überwindet, dem will ich verleihen, mit mir auf meinem Thron zu sitzen, wie auch ich überwunden und mich mit meinem Vater auf seinen Thron gesetzt habe. (a) Mt 19:28; Heb 12:2
 
-**[3:22]** Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt! 
+**[3:22]** Wer ein Ohr hat, der höre, was der Geist den Gemeinden sagt!
 
 ### Chapter 4
 
@@ -64034,7 +64034,7 @@
 
 **[4:10]** werfen sich die 24 Ältesten nieder vor dem, der auf dem Throne sitzt, und beten den an, der in alle Ewigkeit lebt, legen ihre Kronen vor dem Throne nieder und sprechen: (1) eig: "Kränze". Vgl. Anm. zu Jak 1:12. (a) Off 5:14
 
-**[4:11]** "Würdig bist du, unser Herr und Gott, zu empfangen den Preis und die Ehre und die Macht; denn du hast alle Dinge geschaffen, und kraft deines Willens waren sie und wurden sie geschaffen." (a) Joh 1:3; Eph 3:9 
+**[4:11]** "Würdig bist du, unser Herr und Gott, zu empfangen den Preis und die Ehre und die Macht; denn du hast alle Dinge geschaffen, und kraft deines Willens waren sie und wurden sie geschaffen." (a) Joh 1:3; Eph 3:9
 
 ### Chapter 5
 
@@ -64064,7 +64064,7 @@
 
 **[5:13]** Und jedes Geschöpf, das im Himmel und auf Erden und unter der Erde und auf dem Meer ist, und alles, was in ihnen lebt, hörte ich sagen: "Dem, der auf dem Throne sitzt, und dem Lamm gebührt das Lob und die Ehre und der Ruhm und die Macht in alle Ewigkeit." (a) Off 13:10-12; Php 2:10
 
-**[5:14]** Und die vier Wesen sprachen: Amen, und die Ältesten warfen sich nieder und beteten an. (a) Off 19:4 
+**[5:14]** Und die vier Wesen sprachen: Amen, und die Ältesten warfen sich nieder und beteten an. (a) Off 19:4
 
 ### Chapter 6
 
@@ -64100,7 +64100,7 @@
 
 **[6:16]** und sie sagten zu den Bergen und den Felsen: Fallet auf uns und verberget uns vor dem Angesicht dessen, der auf dem Throne sitzt, und vor dem Zorn des Lammes! (a) Hos 10:8; Lu 23:30
 
-**[6:17]** Denn gekommen ist der grosse Tag seines Zorns, und wer kann bestehen? (a) Zef 1:14 18; Mal 3:2 
+**[6:17]** Denn gekommen ist der grosse Tag seines Zorns, und wer kann bestehen? (a) Zef 1:14 18; Mal 3:2
 
 ### Chapter 7
 
@@ -64136,7 +64136,7 @@
 
 **[7:16]** Sie werden nicht mehr hungern und werden nicht mehr dürsten, und die Sonne wird sie nicht treffen noch irgendeine Glut. (a) Jes 49:10; Ps 121:5 6
 
-**[7:17]** Denn das Lamm, das mitten vor dem Throne steht, wird sie weiden und sie zu Wasserquellen des (ewigen) Lebens leiten; und Gott wird alle Tränen abwischen von ihren Augen. (a) Off 5:6; 21:4; Ps 23:2; Jes 25:8 
+**[7:17]** Denn das Lamm, das mitten vor dem Throne steht, wird sie weiden und sie zu Wasserquellen des (ewigen) Lebens leiten; und Gott wird alle Tränen abwischen von ihren Augen. (a) Off 5:6; 21:4; Ps 23:2; Jes 25:8
 
 ### Chapter 8
 
@@ -64164,7 +64164,7 @@
 
 **[8:12]** Und der vierte Engel posaunte; da wurde der dritte Teil der Sonne und der dritte Teil des Mondes und der dritte Teil der Sterne getroffen, damit ihr dritter Teil verfinstert würde und der Tag nicht schiene seinen dritten Teil und die Nacht in gleicher Weise. (a) 2Mo 10:21
 
-**[8:13]** Und ich schaute auf; und ich hörte einen Adler, der im Zenit flog und mit lauter Stimme sprach: Wehe, wehe, wehe denen, die auf Erden wohnen, wegen der übrigen Stimmen der Posaune der drei Engel, die (noch) posaunen werden! (a) Off 9:12; 11:14; 12:12 
+**[8:13]** Und ich schaute auf; und ich hörte einen Adler, der im Zenit flog und mit lauter Stimme sprach: Wehe, wehe, wehe denen, die auf Erden wohnen, wegen der übrigen Stimmen der Posaune der drei Engel, die (noch) posaunen werden! (a) Off 9:12; 11:14; 12:12
 
 ### Chapter 9
 
@@ -64208,7 +64208,7 @@
 
 **[9:20]** Und die übrigen Menschen, die durch diese Plagen nicht getötet wurden, taten nicht einmal Busse (durch Abwendung) von den Werken ihrer Hände, sodass sie die Dämonen und die goldenen und die silbernen und die ehernen und die steinernen und die hölzernen Götzen nicht (mehr) angebetet hätten, die weder sehen noch hören, noch gehen können, (a) Off 16:9 11; 1Kor 10:20; Ps 115:4-7
 
-**[9:21]** und taten nicht Busse von ihren Mordtaten noch von ihren Zaubereien, noch von ihrer Unzucht, noch von ihren Diebstählen. 
+**[9:21]** und taten nicht Busse von ihren Mordtaten noch von ihren Zaubereien, noch von ihrer Unzucht, noch von ihren Diebstählen.
 
 ### Chapter 10
 
@@ -64232,7 +64232,7 @@
 
 **[10:10]** Und ich nahm das Büchlein aus der Hand des Engels und verschlang es; und es war in meinem Munde süss wie Honig, und als ich es verschlungen hatte, wurde es mir bitter im Bauche.
 
-**[10:11]** Und man sagte zu mir: Du sollst abermals weissagen über viele Völker und Nationen und Sprachen und Könige! 
+**[10:11]** Und man sagte zu mir: Du sollst abermals weissagen über viele Völker und Nationen und Sprachen und Könige!
 
 ### Chapter 11
 
@@ -64272,7 +64272,7 @@
 
 **[11:18]** Und die Völker sind zornig geworden; da ist dein Zorn gekommen und die Zeit der Toten, dass sie gerichtet werden und dass du den Lohn gibst deinen Knechten, den Propheten und den Heiligen und denen, die deinen Namen fürchten, den Kleinen und den Grossen, und dass du die ins Verderben bringst, die die Erde verderben."
 
-**[11:19]** Und es öffnete sich der Tempel Gottes im Himmel, und die Lade seines Bundes in seinem Tempel wurde sichtbar. Und es entstanden Blitze und Stimmen und Donnerschläge und ein Erdbeben und grosser Hagel. (a) Off 15:5 
+**[11:19]** Und es öffnete sich der Tempel Gottes im Himmel, und die Lade seines Bundes in seinem Tempel wurde sichtbar. Und es entstanden Blitze und Stimmen und Donnerschläge und ein Erdbeben und grosser Hagel. (a) Off 15:5
 
 ### Chapter 12
 
@@ -64310,7 +64310,7 @@
 
 **[12:17]** Und der Drache ergrimmte über das Weib und ging hin, Krieg zu führen mit den übrigen ihrer Nachkommenschaft, die die Gebote Gottes befolgen und das Zeugnis über Jesus festhalten. (a) Off 14:12
 
-**[12:18]** UND ich trat auf den Sand des Meeres. 
+**[12:18]** UND ich trat auf den Sand des Meeres.
 
 ### Chapter 13
 
@@ -64348,7 +64348,7 @@
 
 **[13:17]** und dass niemand kaufen oder verkaufen kann als nur der, welcher das Malzeichen hat, (nämlich) den Namen des Tieres oder die Zahl seines Namens.
 
-**[13:18]** Hier ist die Weisheit (vonnöten). Wer Verstand hat, berechne die Zahl des Tieres; sie ist nämlich die Zahl eines Menschen. Und zwar ist seine Zahl 666. (a) Off 17:9 
+**[13:18]** Hier ist die Weisheit (vonnöten). Wer Verstand hat, berechne die Zahl des Tieres; sie ist nämlich die Zahl eines Menschen. Und zwar ist seine Zahl 666. (a) Off 17:9
 
 ### Chapter 14
 
@@ -64390,7 +64390,7 @@
 
 **[14:19]** Und der Engel legte seine Sichel an die Erde und schnitt den Weinstock der Erde und schüttete (die Trauben) in die grosse Kelter des Zornes Gottes. (a) Off 19:15
 
-**[14:20]** Und die Kelter wurde ausserhalb der Stadt getreten, und es floss Blut aus der Kelter bis an die Zügel der Pferde, 1 600 Stadien weit. (a) Jes 63:3 
+**[14:20]** Und die Kelter wurde ausserhalb der Stadt getreten, und es floss Blut aus der Kelter bis an die Zügel der Pferde, 1 600 Stadien weit. (a) Jes 63:3
 
 ### Chapter 15
 
@@ -64408,7 +64408,7 @@
 
 **[15:7]** Und eins von den vier Wesen gab den sieben Engeln sieben goldene Schalen voll des Zornes Gottes, der in alle Ewigkeit lebt. (a) Off 4:6
 
-**[15:8]** "Und der Tempel wurde voll Rauch" von der Herrlichkeit Gottes und von seiner Macht, und niemand konnte in den Tempel hineingehen, bis die sieben Plagen der sieben Engel vollendet waren. (a) 2Mo 40:34; 1Kön 8:10; Jes 6:4 
+**[15:8]** "Und der Tempel wurde voll Rauch" von der Herrlichkeit Gottes und von seiner Macht, und niemand konnte in den Tempel hineingehen, bis die sieben Plagen der sieben Engel vollendet waren. (a) 2Mo 40:34; 1Kön 8:10; Jes 6:4
 
 ### Chapter 16
 
@@ -64452,7 +64452,7 @@
 
 **[16:20]** Und alle Inseln entschwanden, und Berge waren nicht (mehr) zu finden. (a) Off 6:14
 
-**[16:21]** Und ein grosser Hagel, wie zentnerschwer, kam aus dem Himmel auf die Menschen herab, und die Menschen lästerten Gott wegen der Plage des Hagels, weil dessen Plage sehr gross ist. (a) 2Mo 9:18 23 
+**[16:21]** Und ein grosser Hagel, wie zentnerschwer, kam aus dem Himmel auf die Menschen herab, und die Menschen lästerten Gott wegen der Plage des Hagels, weil dessen Plage sehr gross ist. (a) 2Mo 9:18 23
 
 ### Chapter 17
 
@@ -64490,7 +64490,7 @@
 
 **[17:17]** denn Gott hat ihnen ins Herz gegeben, seine Meinung auszuführen, und zwar eine Meinung auszuführen und ihre Herrschaft auf das Tier zu übertragen, bis die Worte Gottes erfüllt sein werden.
 
-**[17:18]** Und das Weib, das du gesehen hast, ist die grosse Stadt, die die Herrschaft über die Könige der Erde hat. 
+**[17:18]** Und das Weib, das du gesehen hast, ist die grosse Stadt, die die Herrschaft über die Könige der Erde hat.
 
 ### Chapter 18
 
@@ -64540,7 +64540,7 @@
 
 **[18:23]** und das Licht der Lampe wird nicht mehr in dir scheinen, und die Stimme des Bräutigams und der Braut wird nicht mehr in dir vernommen werden - deine Kaufleute waren nämlich die Grossen der Erde -, weil durch deine Zauberei alle Völker verführt wurden; (a) Jer 25:10; Jes 23:8
 
-**[18:24]** und in ihr wurde das Blut der Propheten und Heiligen gefunden und aller derer, die auf Erden hingeschlachtet worden sind. (a) Off 17:6; Mt 23:35-37 
+**[18:24]** und in ihr wurde das Blut der Propheten und Heiligen gefunden und aller derer, die auf Erden hingeschlachtet worden sind. (a) Off 17:6; Mt 23:35-37
 
 ### Chapter 19
 
@@ -64584,7 +64584,7 @@
 
 **[19:20]** Und das Tier wurde ergriffen und mit ihm der falsche Prophet, der vor seinen Augen die Zeichen getan hatte, durch welche er die verführte, die das Malzeichen des Tieres annahmen und die sein Bild anbeteten; lebendig wurden die beiden in den Feuersee geworfen, der von Schwefel brennt. (a) Off 13:11-17; 20:10; Da 7:11
 
-**[19:21]** Und die übrigen wurden getötet mit dem Schwert, das aus dem Munde dessen hervorging, der auf dem Pferde sass, und alle Vögel sättigten sich von ihrem Fleisch. 
+**[19:21]** Und die übrigen wurden getötet mit dem Schwert, das aus dem Munde dessen hervorging, der auf dem Pferde sass, und alle Vögel sättigten sich von ihrem Fleisch.
 
 ### Chapter 20
 
@@ -64616,7 +64616,7 @@
 
 **[20:14]** Und der Tod und das Totenreich wurden in den Feuersee geworfen. Dies ist der zweite Tod, der Feuersee. (a) 1Kor 15:26 54 55
 
-**[20:15]** Und wenn jemand nicht im Buch des Lebens aufgezeichnet gefunden wurde, so wurde er in den Feuersee geworfen. 
+**[20:15]** Und wenn jemand nicht im Buch des Lebens aufgezeichnet gefunden wurde, so wurde er in den Feuersee geworfen.
 
 ### Chapter 21
 
@@ -64672,7 +64672,7 @@
 
 **[21:26]** und man wird die Herrlichkeit und die Pracht der Völker in sie bringen.
 
-**[21:27]** Und nicht wird irgend etwas Unreines in sie eingehen, noch wer Greuel und Lüge übt, sondern nur die, welche im Lebensbuch des Lammes geschrieben stehen. (a) Jes 52:1 
+**[21:27]** Und nicht wird irgend etwas Unreines in sie eingehen, noch wer Greuel und Lüge übt, sondern nur die, welche im Lebensbuch des Lammes geschrieben stehen. (a) Jes 52:1
 
 ### Chapter 22
 
@@ -64716,5 +64716,5 @@
 
 **[22:20]** Es sagt der, welcher dies bezeugt: Ja, ich komme bald. Amen. Komm, Herr Jesus! (a) 1Kor 16:22
 
-**[22:21]** Die Gnade des Herrn Jesus sei mit allen! (a) Rö 16:24  
+**[22:21]** Die Gnade des Herrn Jesus sei mit allen! (a) Rö 16:24
 

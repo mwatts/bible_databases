@@ -50166,7 +50166,7 @@
 
 **[26:33]** Dansoor Peddyr as dooyrt eh rish, Ga dy vaill credjue dy chooilley ghooinney kyndagh rhyt's, cha vaill my chredjue's dy bragh.
 
-**[26:34]** Dooyrt Yeesey rish, Dy firrinagh ta mee gra rhyt , Noght hene roish gerrym chellee, dy nob uss mish three keayrtyn.
+**[26:34]** Dooyrt Yeesey rish, Dy firrinagh ta mee gra rhyt, Noght hene roish gerrym chellee, dy nob uss mish three keayrtyn.
 
 **[26:35]** Dooyrt Peddyr rish, Dy beign dou goll dy baase mayrt, cha nobbin oo. As er yn aght cheddin loayr ooilley ny ostyllyn.
 
@@ -51902,7 +51902,7 @@
 
 **[1:41]** As haink eh gy-kione, tra cheayll Elizabeth bannaghey Moirrey, dy lheim yn oikan ayns e brein, as va Elizabeth lhieent lesh y Spyrryd Noo.
 
-**[1:42]** As loayr ee lesh ard-choraa as dooyrt ee, Bannit t'ou uss mastey mraane, as bannit ta sluight dty vre&iuml;n.
+**[1:42]** As loayr ee lesh ard-choraa as dooyrt ee, Bannit t'ou uss mastey mraane, as bannit ta sluight dty vreïn.
 
 **[1:43]** As kys ta'n (ooashley) aym, dy vel moir my Hiarn er jeet dy my yeeaghyn?
 
@@ -51930,11 +51930,11 @@
 
 **[1:55]** (Myr loayr eh rish nyn shenn-ayryn, rish Abraham as e luight) er son dy bragh.
 
-**[1:56]** As duirree Moirrey m&acirc;ree mysh three meeghyn, as haink ee reesht gys e thie hene.
+**[1:56]** As duirree Moirrey mâree mysh three meeghyn, as haink ee reesht gys e thie hene.
 
 **[1:57]** Nish va slane traa Elizabeth er jeet dy ve livreit, as hug ee mac son y theihll.
 
-**[1:58]** As cheayll ny naboonyn as y sleih mooinjerey eck, kys va'n Chiarn er hoilshaghey ard-vyghin jee; as ghow ad boggey m&acirc;ree.
+**[1:58]** As cheayll ny naboonyn as y sleih mooinjerey eck, kys va'n Chiarn er hoilshaghey ard-vyghin jee; as ghow ad boggey mâree.
 
 **[1:59]** As haink eh gy-kione er yn hoghtoo laa dy daink ad dy ghiarey-chymmylt yn lhiannoo; as denmys ad eh Zacharias, lurg ennym e ayrey.
 
@@ -51950,7 +51950,7 @@
 
 **[1:65]** As huitt aggle (arrymagh) er ooilley nyn naboonyn: as hie goo jeh ooilley ny reddyn shoh magh trooid ooilley cheer sleitagh Yudea.
 
-**[1:66]** As adsyn ooilley cheayll shoh, hasht ad ayns nyn greeaghyn ad, gra, Cren monney dy ghooinney vees eh shoh? as va laue yn Chiarn m&acirc;rish.
+**[1:66]** As adsyn ooilley cheayll shoh, hasht ad ayns nyn greeaghyn ad, gra, Cren monney dy ghooinney vees eh shoh? as va laue yn Chiarn mârish.
 
 **[1:67]** As va'n ayr echey Zacharias lhieent lesh y Spyrryd Noo, as ren eh phadeyrys, gra,
 
@@ -51994,7 +51994,7 @@
 
 **[2:6]** As shen myr ve, choud as v'ad ayns shen, dy row yn traa er jeet jeeish dy ve livreit.
 
-**[2:7]** As hug ee son y theihll yn chied mac rug jee, as hoill ee eh ayns aanrityn so&iuml;llee, as hug ee eh ny lhie ayns manjoor, er-y-fa nagh row room er nyn son ayns y thie-oast.
+**[2:7]** As hug ee son y theihll yn chied mac rug jee, as hoill ee eh ayns aanrityn soïllee, as hug ee eh ny lhie ayns manjoor, er-y-fa nagh row room er nyn son ayns y thie-oast.
 
 **[2:8]** Nish v'ayns y cheer cheddin bochilley mooie er y vagher freayll arrey er nyn shioltaneyn 'syn oie.
 
@@ -52060,7 +52060,7 @@
 
 **[2:39]** As tra v'ad er chooilleeney dy chooilley nhee cordail rish leigh yn Chiarn, haink ad reesht gys Galilee, gys yn ard-valley oc hene Nazareth.
 
-**[2:40]** As daase y lhiannoo, as v'eh er ny niartaghey 'sy spyrryd, as lhieent lesh creenaght, as va grayse Yee m&acirc;rish.
+**[2:40]** As daase y lhiannoo, as v'eh er ny niartaghey 'sy spyrryd, as lhieent lesh creenaght, as va grayse Yee mârish.
 
 **[2:41]** Nish va e ayr as e voir goll seose gys Jerusalem dy chooilley vlein ec feailley ny caisht.
 
@@ -52078,11 +52078,11 @@
 
 **[2:48]** As tra honnick ad eh, v'ad fo mooarane atchim; as dooyrt e voir rish, Vac, cre'n-fa t'ou er n'yannoo myr shoh rooin? cur-my-ner, ta dty ayr as mish er ve briaght dy trimshagh er dty hon.
 
-**[2:49]** As dooyrt eh roo, Kys dy row shiu briaght er my hon's? nagh row fys eu dy beign dou ve mysh obbyr my Ayrey ?
+**[2:49]** As dooyrt eh roo, Kys dy row shiu briaght er my hon's? nagh row fys eu dy beign dou ve mysh obbyr my Ayrey?
 
 **[2:50]** As cha row toiggyl oc jeh'n raa loayr eh roo.
 
-**[2:51]** As hie eh sheese m&acirc;roo, as haink eh gys Nazareth, as v'eh biallagh daue: as hasht e voir ooilley ny raaghyn shoh ayns e cree.
+**[2:51]** As hie eh sheese mâroo, as haink eh gys Nazareth, as v'eh biallagh daue: as hasht e voir ooilley ny raaghyn shoh ayns e cree.
 
 **[2:52]** As ren Yeesey bishaghey ayns creenaght as aase, as ayns foayr rish Jee as dooinney.
 
@@ -52114,7 +52114,7 @@
 
 **[3:13]** As dooyrt eh roo, Ny trog-jee ny smoo na ta er nyn gurrym.
 
-**[3:14]** As d&ecirc;nee ny sidooryn myrgeddin, jeh, gra, As cre ta orrinyn dy yannoo? As dooyrt eh roo, Ny jean-jee tranlaase er dooinney erbee, ny jean-jee cassid vreagagh er dooinney erbee, as bee-jee booiagh lesh nyn vaill.
+**[3:14]** As dênee ny sidooryn myrgeddin, jeh, gra, As cre ta orrinyn dy yannoo? As dooyrt eh roo, Ny jean-jee tranlaase er dooinney erbee, ny jean-jee cassid vreagagh er dooinney erbee, as bee-jee booiagh lesh nyn vaill.
 
 **[3:15]** As myr va'n pobble ayns imnea, as dy chooilley ghooinney smooinaghtyn ayns nyn greeaghyn mychione Ean, nee eh va'n Creest mannagh nee;
 
@@ -52248,7 +52248,7 @@
 
 **[4:41]** As haink drogh-spyrrydyn myrgeddin magh ass ymmodee, gyllagh as gra, Oo yn Creest Mac Yee. As hug eh oghsan daue, as cha lhig eh daue loayrt; son va fys oc dy nee eh va'n Creest.
 
-**[4:42]** As 'sy vadran, jimmee eh roish, as hie eh gys boayl er-lheh: as va'n pobble briaght er e hon, as cheet huggey, as chionney er, eh dy uirriaght m&acirc;roo.
+**[4:42]** As 'sy vadran, jimmee eh roish, as hie eh gys boayl er-lheh: as va'n pobble briaght er e hon, as cheet huggey, as chionney er, eh dy uirriaght mâroo.
 
 **[4:43]** As dooyrt eh roo, Shegin dooys reeriaght Yee y phreacheil gys ard-valjyn elley myrgeddin: son er yn oyr shen ta mee er my choyrt.
 
@@ -52272,7 +52272,7 @@
 
 **[5:8]** Tra honnick Simon Peddyr shoh, huitt eh sheese ec glioonyn Yeesey, gra, Immee voym, son ta mee my ghooinney peccoil, O Hiarn.
 
-**[5:9]** Son ghow eshyn, as ooilley ny va m&acirc;rish, yindys mooar jeh'n lught dy eeastyn v'ad er ghoaill:
+**[5:9]** Son ghow eshyn, as ooilley ny va mârish, yindys mooar jeh'n lught dy eeastyn v'ad er ghoaill:
 
 **[5:10]** Myr ren neesht Jamys as Ean mec Zebedee, va nyn barteeassyn marish Simon. As dooyrt Yeesey rish Simon, Ny bee aggle ort, veih shoh magh nee oo goaill deiney.
 
@@ -52288,7 +52288,7 @@
 
 **[5:16]** Agh hie eshyn eh-hene roish gys yn aasagh, dy ghoaill padjer.
 
-**[5:17]** As haink eh gy-kione laa dy row, myr v'eh gynsaghey, dy row Phariseeyn as fir-ynsee yn leigh nyn soie liorish, v'er jeet magh ass ooilley baljyn Ghalilee, as Judea as Jerusalem: as va pooar y Chiarn feer vreeoil m&acirc;rish ayns lheihys doghanyn.
+**[5:17]** As haink eh gy-kione laa dy row, myr v'eh gynsaghey, dy row Phariseeyn as fir-ynsee yn leigh nyn soie liorish, v'er jeet magh ass ooilley baljyn Ghalilee, as Judea as Jerusalem: as va pooar y Chiarn feer vreeoil mârish ayns lheihys doghanyn.
 
 **[5:18]** As cur-my-ner, hug sleih lhieu ayns lhiabbee dooinney va ching jeh'n palsee: as v'ad shirrey y chur lhieu stiagh eh, dy hoiaghey eh kiongoyrt rish
 
@@ -52312,7 +52312,7 @@
 
 **[5:28]** As daag eh ooilley as dirree eh seose, as deiyr eh er.
 
-**[5:29]** As ren Levi aarlaghey mooar er e hon ayns e hie hene: as va sheshaght vooar dy phublicanee as dy eallagh elley nyn soie ec y voayrd m&acirc;roo.
+**[5:29]** As ren Levi aarlaghey mooar er e hon ayns e hie hene: as va sheshaght vooar dy phublicanee as dy eallagh elley nyn soie ec y voayrd mâroo.
 
 **[5:30]** Agh va ny scrudeyryn oc as ny Phariseeyn jymmoosagh rish e ynseydee, gra, Cre'n-fa ta shiu gee as giu marish publicanee as peccee?
 
@@ -52322,7 +52322,7 @@
 
 **[5:33]** As dooyrt ad roo, Cre'n-fa ta ynseydee Ean trostey dy mennick, as jannoo padjeryn, as myrgeddin ynseydee ny Phariseeyn; agh ta'n vooinjer ayd's gee as giu?
 
-**[5:34]** As dooyrt eh roo, Bailliu mooinjer y chamyr-phoosee dy hrostey, choud as ta dooinney yn phoosee m&acirc;roo?
+**[5:34]** As dooyrt eh roo, Bailliu mooinjer y chamyr-phoosee dy hrostey, choud as ta dooinney yn phoosee mâroo?
 
 **[5:35]** Agh hig ny laghyn, tra vees dooinney yn phoosee er ny ghoaill ersooyl voue, as eisht nee ad trostey ayns ny laghyn shen.
 
@@ -52352,7 +52352,7 @@
 
 **[6:8]** Agh va fys echeysyn er ny smooinaghtyn oc, as dooyrt eh rish y dooinney lesh y laue shyrgit, Irree seose as shass magh er y laare. As dirree eh, as hass eh magh.
 
-**[6:9]** Eisht dooyrt Yeesey roo, F&ecirc;nyms un red jiuish, Vel eh lowal er laghyn y doonaght dy yannoo mie, ny dy yannoo olk? dy hauail bioys, ny dy stroie eh?
+**[6:9]** Eisht dooyrt Yeesey roo, Fênyms un red jiuish, Vel eh lowal er laghyn y doonaght dy yannoo mie, ny dy yannoo olk? dy hauail bioys, ny dy stroie eh?
 
 **[6:10]** As yeeagh eh mygeayrt orroo ooilley, as dooyrt eh rish y dooinney, Sheeyn magh dty laue. As ren eh shen; as va'n laue echey er ny lheihys myr y laue elley.
 
@@ -52360,7 +52360,7 @@
 
 **[6:12]** As haink eh gy-kione ayns ny laghyn shen, dy jagh eh seose er slieau dy ghoaill padjer, as dy ren eh tannaghtyn fud ny hoie ayns padjer gys Jee.
 
-**[6:13]** As tra va'n laa er hoilshagh, de&iuml;e eh er e ynseydee huggey: as jeusyn reih eh ghhaa-yeig, denmys eh myrgeddin nyn os tyllyn:
+**[6:13]** As tra va'n laa er hoilshagh, deïe eh er e ynseydee huggey: as jeusyn reih eh ghhaa-yeig, denmys eh myrgeddin nyn os tyllyn:
 
 **[6:14]** Simon (denmys eh myrgeddin Peddyr) as Andreays e vraar, Jamys as Ean, Philip as Parlane,
 
@@ -52394,7 +52394,7 @@
 
 **[6:29]** As huggeysyn woaillys oo er y derrey lieckan, chyndaa myrgeddin yn lieckan elley: as eshyn ghoys ersooyl dty chloagey, ny bee noi dty chooat y lhiggey lesh myrgeddin.
 
-**[6:30]** Cur da dy chooilley ghooinney ta jannoo aghin hood; as jehsyn ta goaill ersooyl dty chooid vo&iuml;d, ny shir ad reesht.
+**[6:30]** Cur da dy chooilley ghooinney ta jannoo aghin hood; as jehsyn ta goaill ersooyl dty chooid voïd, ny shir ad reesht.
 
 **[6:31]** As myr bailliuish deiney dy yannoo riuish, jean-jee shiuish myrgeddin roosyn.
 
@@ -52446,7 +52446,7 @@
 
 **[7:5]** Son t'eh ny charrey da'n ashoon ain, as t'eh er hroggal synagogue dooin.
 
-**[7:6]** Eisht hie Yeesey m&acirc;roo. As tra v'eh er jeet er-gerrey da'n thie, hug y centurion caarjyn huggey, gra rish, Hiarn, ny boir oo hene, son cha vel mish feeu oo dy heet stiagh fo my chlea.
+**[7:6]** Eisht hie Yeesey mâroo. As tra v'eh er jeet er-gerrey da'n thie, hug y centurion caarjyn huggey, gra rish, Hiarn, ny boir oo hene, son cha vel mish feeu oo dy heet stiagh fo my chlea.
 
 **[7:7]** As er-yn-oyr shen cha yeeagh mee orrym pene dy ve feeu dy heet hood: agh loayr y fockle, as nee my er-mooinjerey coural.
 
@@ -52458,7 +52458,7 @@
 
 **[7:11]** As haink eh gy-kione yn laa er-giyn dy jagh eh gys ard-valley va enmyssit Nain, as hie ymmodee jeh e ynseydee marish, as mooarrane sleih.
 
-**[7:12]** Nish tra haink eh er-gerrey da giat yn ard-valley, cur-my-ner, va sleih cur lhieu magh dooinney marroo, va ny ynrycan mac da e voir, as v'eeish ny ben-treoghe: as va ymmodee jeh sleih yn ard-valley m&acirc;ree.
+**[7:12]** Nish tra haink eh er-gerrey da giat yn ard-valley, cur-my-ner, va sleih cur lhieu magh dooinney marroo, va ny ynrycan mac da e voir, as v'eeish ny ben-treoghe: as va ymmodee jeh sleih yn ard-valley mâree.
 
 **[7:13]** As tra honnick y Chiarn ee, va chymmey echey urree, as dooyrt eh r'ee, Ny jean keayney.
 
@@ -52474,7 +52474,7 @@
 
 **[7:19]** As deie Ean er jees jeh e ynseydee as hug eh ad er chaghteraght gys Yeesey, gra, Nee uss Eh va ry-hoi cheet, ny vel shin dy yeeaghyn son fer elley?
 
-**[7:20]** Tra va ny deiney er jeet huggey, dooyrt ad, Ta Ean Bastey er nyn goyrt shin dy &ecirc;naght jeed, Nee uss Eh va ry-hoi cheet, ny vel shin dy yeeaghyn son fer elley?
+**[7:20]** Tra va ny deiney er jeet huggey, dooyrt ad, Ta Ean Bastey er nyn goyrt shin dy ênaght jeed, Nee uss Eh va ry-hoi cheet, ny vel shin dy yeeaghyn son fer elley?
 
 **[7:21]** As ayns yn oor cheddin v'eh lheihys ymmodee jeh ny aslayntyn as ny doghanyn, as ny drogh-spyrrydyn oc, as da ymmodee va doal v'eh coyrt soilshey.
 
@@ -52494,7 +52494,7 @@
 
 **[7:29]** As ren ooilley yn pobble cheayll eh as ny publicanee Jee y heyrey, as v'ad er nyn mashtey lesh bashtey Ean.
 
-**[7:30]** Agh ren ny Phariseeyn as fir-ynsee yn leigh soiaghey beg jeh coyrle Yee nyn 'o&iuml; oc hene, as cha row ad er nyn mashtey liorish.
+**[7:30]** Agh ren ny Phariseeyn as fir-ynsee yn leigh soiaghey beg jeh coyrle Yee nyn 'oï oc hene, as cha row ad er nyn mashtey liorish.
 
 **[7:31]** As dooyrt y Chiarn, Cre gys nee'm deiney yn cheeloghe shoh y hoylaghey? as cre rish t'ad goll?
 
@@ -52532,7 +52532,7 @@
 
 **[7:48]** As dooyrt eh r'ee, Ta dty pheccaghyn er nyn leih dhyt.
 
-**[7:49]** As ren y vooinjer va nyn soie ec bee m&acirc;rish, toshiaght dy ghra cheu-sthie jeu hene, Quoi eh shoh ta myrgeddin leih peccaghyn?
+**[7:49]** As ren y vooinjer va nyn soie ec bee mârish, toshiaght dy ghra cheu-sthie jeu hene, Quoi eh shoh ta myrgeddin leih peccaghyn?
 
 **[7:50]** As dooyrt eh rish y ven, Ta dty chredjue er dty hauail; immee ayns shee.
 
@@ -52550,11 +52550,11 @@
 
 **[8:6]** As huitt paart er creg, as cha leah as ve er n'aase seose, hie eh naardey, er-yn-oyr dy row eh laccal soo.
 
-**[8:7]** As huitt paart mastey drineyn, as daase ny drineyn seose m&acirc;rish, as phloogh ad eh.
+**[8:7]** As huitt paart mastey drineyn, as daase ny drineyn seose mârish, as phloogh ad eh.
 
-**[8:8]** As huitt cooid elley jeh ayns thalloo mie, as daase eh seose, as dymmyrk eh mess keead-filley. As tra v'eh er ghra shoh, de&iuml;e eh, Eshyn ta cleayshyn echey dy chlashtyn, lhig da clashtyn.
+**[8:8]** As huitt cooid elley jeh ayns thalloo mie, as daase eh seose, as dymmyrk eh mess keead-filley. As tra v'eh er ghra shoh, deïe eh, Eshyn ta cleayshyn echey dy chlashtyn, lhig da clashtyn.
 
-**[8:9]** As d&ecirc;nee e ostyllyn jeh, gra, Cre ta er ny hoiggal liorish y coraa-dorraghey shoh?
+**[8:9]** As dênee e ostyllyn jeh, gra, Cre ta er ny hoiggal liorish y coraa-dorraghey shoh?
 
 **[8:10]** As dooyrt eh, Diuish te er ny choyrt dy hoiggal folliaghtyn reeriaght Yee; agh da feallagh elley ayns coraaghyn-dorraghey: ga t'ad fakin cha vel ad cur-my-ner, as clashtyn cha vel ad toiggal.
 
@@ -52596,7 +52596,7 @@
 
 **[8:29]** (Son v'eh er harey yn spyrryd neu ghlen dy heet magh ass y dooinney. Son v'eh dy mennick er hoiaghey er: as v'eh freilt kianlt lesh geulaghyn, as ayns yiarnyn; as vrish eh ny geulaghyn, as v'eh er ny ve eiyrit liorish y drogh-spyrryd gys yn aasagh.)
 
-**[8:30]** As d&ecirc;nee Yeesey jeh, gra, Cre'n ennym t'ort? As dooyrt eh, Legion: er-yn oyr dy row ymmodee drogh-spyrrydyn er n'gholl stiagh ayn.
+**[8:30]** As dênee Yeesey jeh, gra, Cre'n ennym t'ort? As dooyrt eh, Legion: er-yn oyr dy row ymmodee drogh-spyrrydyn er n'gholl stiagh ayn.
 
 **[8:31]** As ghuee ad er gyn eh dy oardaghey daue goll sheese gys y diunid.
 
@@ -54820,7 +54820,7 @@
 
 **[7:34]** Shirree shiu mee agh cha vow shiu mee: as y raad ta mish, cha vod shiuish cheet.
 
-**[7:35]** Eisht dooyrt ny Hewnyn nyn mast' oc hene, C'raad hed eh, nagh vow mayd eh? jed eh gys ny Hewnyn t'er nyn skeayley mastey ny Ashoonee, as adsyn y ynsaghey .
+**[7:35]** Eisht dooyrt ny Hewnyn nyn mast' oc hene, C'raad hed eh, nagh vow mayd eh? jed eh gys ny Hewnyn t'er nyn skeayley mastey ny Ashoonee, as adsyn y ynsaghey.
 
 **[7:36]** Cre'n monney dy raa shoh t'eh er loayrt, Shirree shiu mee, agh cha vow shiu mee: as y raad ta mish cha vod shiuish cheet?
 
@@ -54946,7 +54946,7 @@
 
 **[8:43]** Cre'n-fa nagh vel shiu toiggal my ghlare? te son nagh vel shiu cur geill da my ghoo.
 
-**[8:44]** Ta shiuish jeh'n ayr eu yn drogh spyrryd, as saynt nyn ayrey ver shiu rish: v'eshyn ny ghunver er-dyn toshiaght, as cha ren eh tannaghtyn 'syn ynrickys, son nagh vel yn irriney ayn. Tra t'eh loayrt breg, t'eh loayrt jeh e chooid hene : son t'eh ny vreagerey, as ayr ny breagey.
+**[8:44]** Ta shiuish jeh'n ayr eu yn drogh spyrryd, as saynt nyn ayrey ver shiu rish: v'eshyn ny ghunver er-dyn toshiaght, as cha ren eh tannaghtyn 'syn ynrickys, son nagh vel yn irriney ayn. Tra t'eh loayrt breg, t'eh loayrt jeh e chooid hene: son t'eh ny vreagerey, as ayr ny breagey.
 
 **[8:45]** As ga dy vel mee ginsh diu yn irriney, cha vel shiu dy my chredjal.
 
@@ -54994,7 +54994,7 @@
 
 **[9:7]** As dooyrt eh rish, Immee as oonlee oo hene ayns poyll Siloam (ta shen 'sy ghlare ainyn, Er ny choyrt) Hie eh roish er-y-fa shen, as doonlee eh eh-hene, as haink eh as e hoilshey echey.
 
-**[9:8]** Dooyrt ny naboonyn er-y-fa shen, as adsyn va roie er vakin eh dy row eh doal, Nagh nee shoh eshyn boallagh soie shirrey jeirk ?
+**[9:8]** Dooyrt ny naboonyn er-y-fa shen, as adsyn va roie er vakin eh dy row eh doal, Nagh nee shoh eshyn boallagh soie shirrey jeirk?
 
 **[9:9]** Dooyrt paart, She shoh eh: dooyrt feallagh elley, T'eh goll-rish: agh dooyrt eh hene, She mish eh.
 
@@ -55340,7 +55340,7 @@
 
 **[12:37]** Agh ga dy ren eh whilleen mirril kiongoyrt roo, foast cha chred ad ayn:
 
-**[12:38]** As shen myr va goan Esaias y phadeyr cooilleenit, Hiarn, quoi ta er chredjal yn goo ain ? as quoi gys ta roih yn Chiarn er ve soilshit?
+**[12:38]** As shen myr va goan Esaias y phadeyr cooilleenit, Hiarn, quoi ta er chredjal yn goo ain? as quoi gys ta roih yn Chiarn er ve soilshit?
 
 **[12:39]** Shen-y-fa cha voddagh ad credjal, rere myr dooyrt Esaias ayns ynnyd elley.
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** As ymmodee cowraghyn elley dy jarroo ren Yeesey ayns fenish e ostyllyn, nagh vel scruit ayns y lioar shoh.
 
-**[20:31]** Agh t'ad shoh scruit, dy voddagh shiuish credjal dy nee Yeesey yn Creest Mac Yee, as liorish credjal shiu dy chosney bea trooid yn ennym echeysyn. [ (John 20:32) Dooyrt Yeesey,Voirrey. Hyndaa ee ee-hene, as dooyrt ee rish, Rabboni, ta shen dy ghra, Vainshter. ]
+**[20:31]** Agh t'ad shoh scruit, dy voddagh shiuish credjal dy nee Yeesey yn Creest Mac Yee, as liorish credjal shiu dy chosney bea trooid yn ennym echeysyn. [(John 20:32) Dooyrt Yeesey,Voirrey. Hyndaa ee ee-hene, as dooyrt ee rish, Rabboni, ta shen dy ghra, Vainshter.]
 
 ### Chapter 21
 

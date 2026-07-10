@@ -21914,7 +21914,7 @@
 
 **[8:22]** And Ishpan, and Heber, and Eliel,
 
-**[8:23]** And  Abdon, and Zichri, and Hanan,
+**[8:23]** And Abdon, and Zichri, and Hanan,
 
 **[8:24]** And Hananiah, and Elam, and Antothijah,
 
@@ -31592,7 +31592,7 @@
 
 ### Chapter 81
 
-**[81:1]** To the chief Musician upon Gittith, [A Psalm]  of Asaph. Sing aloud to God our strength: make a joyful noise to the God of Jacob.
+**[81:1]** To the chief Musician upon Gittith, [A Psalm] of Asaph. Sing aloud to God our strength: make a joyful noise to the God of Jacob.
 
 **[81:2]** Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.
 
@@ -35460,7 +35460,7 @@
 
 **[23:14]** Thou shalt beat him with the rod, and shalt deliver his soul from hell.
 
-**[23:15]** My son, if thy heart be wise, my heart shall rejoice,  even mine.
+**[23:15]** My son, if thy heart be wise, my heart shall rejoice, even mine.
 
 **[23:16]** Yes, my reins shall rejoice, when thy lips speak right things.
 
@@ -53480,7 +53480,7 @@
 
 **[18:18]** And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?
 
-**[18:19]** And Jesus said to him, Why callest thou me good?  none [is] good, save one, [that is] God.
+**[18:19]** And Jesus said to him, Why callest thou me good? none [is] good, save one, [that is] God.
 
 **[18:20]** Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor thy father and thy mother.
 

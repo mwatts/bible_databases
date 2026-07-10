@@ -64,7 +64,7 @@
 
 **[1:30]** Og alle dyri på jordi og alle fuglarne under himmelen og alt det som yrer på jordi, alt som hev ande og liv, gjev eg alt det grøne graset til føda.» Og so vart det.
 
-**[1:31]** Og Gud skoda alt han hadde gjort, og sjå: det var ovleg godt. Og det vart kveld, og det vart morgon, sette dagen. 
+**[1:31]** Og Gud skoda alt han hadde gjort, og sjå: det var ovleg godt. Og det vart kveld, og det vart morgon, sette dagen.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Difor skal mannen skiljast med far sin og mor si og halda seg hjå kona si, og dei skal verta eitt kjøt.
 
-**[2:25]** Og dei var nakne, både mannen og kona hans, og blygdest ikkje. 
+**[2:25]** Og dei var nakne, både mannen og kona hans, og blygdest ikkje.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** Og Herren Gud viste honom ut or Edens hage, og sette honom til å dyrka jordi, som han var teken utav.
 
-**[3:24]** Og han dreiv mannen burt, og framfyre Edens hage sette han kerubarne med logande sverd, som dei let brå att og fram: dei skulde vakta vegen til livsens tre. 
+**[3:24]** Og han dreiv mannen burt, og framfyre Edens hage sette han kerubarne med logande sverd, som dei let brå att og fram: dei skulde vakta vegen til livsens tre.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** Og Adam budde med kona si som han fyrr hadde gjort, og ho åtte ein son, og kalla honom Set. «For Gud hev sett meg ein annan son i staden hans Abel,» sagde ho, «for di Kain slo honom i hel.»
 
-**[4:26]** Og Set fekk og ein son, og kalla honom Enos. Då tok dei til å kalla på Herren. 
+**[4:26]** Og Set fekk og ein son, og kalla honom Enos. Då tok dei til å kalla på Herren.
 
 ### Chapter 5
 
@@ -286,7 +286,7 @@
 
 **[5:31]** Og alle dagarne hans Lamek vart sju hundrad og sju og sytti år. So døydde han.
 
-**[5:32]** Då Noah hadde fyllt fem hundrad år, fekk han sønerne Sem og Kham og Jafet. 
+**[5:32]** Då Noah hadde fyllt fem hundrad år, fekk han sønerne Sem og Kham og Jafet.
 
 ### Chapter 6
 
@@ -332,7 +332,7 @@
 
 **[6:21]** Og du skal sanka av all den mat som etande er, og samla det til deg: for deg og for deim skal det vera til føda.»
 
-**[6:22]** Og Noah gjorde so; han gjorde i alle måtar so som Gud sagde honom fyre. 
+**[6:22]** Og Noah gjorde so; han gjorde i alle måtar so som Gud sagde honom fyre.
 
 ### Chapter 7
 
@@ -382,7 +382,7 @@
 
 **[7:23]** So rudde han ut kvart liv som på jordi fanst, både folk og fe og krek og fuglarne i lufti. Dei vart utrudde av verdi, og att vart berre Noah og det som var med honom i arki.
 
-**[7:24]** Og vatnet flødde yver jordi i hundrad og femti dagar. 
+**[7:24]** Og vatnet flødde yver jordi i hundrad og femti dagar.
 
 ### Chapter 8
 
@@ -428,7 +428,7 @@
 
 **[8:21]** Og Herren kjende den gode gimen, og Herren sagde i sitt hjarta: «Eg vil aldri meir forbanna jordi for menneskja skuld; for mannehjarta emnar berre på vondt, alt ifrå ungdomen. Og eg vil aldri meir drepa alt liv, so som eg no gjorde.
 
-**[8:22]** Heretter skal sånad og skurd, og kulde og hite, og sumar og vinter, og dag og natt aldri trjota, so lenge som jordi stend.» 
+**[8:22]** Heretter skal sånad og skurd, og kulde og hite, og sumar og vinter, og dag og natt aldri trjota, so lenge som jordi stend.»
 
 ### Chapter 9
 
@@ -488,7 +488,7 @@
 
 **[9:28]** Etter storflodi livde Noah endå tri hundrad og femti år.
 
-**[9:29]** Og alle dagarne hans Noah vart ni hundrad og femti år. So døydde han. 
+**[9:29]** Og alle dagarne hans Noah vart ni hundrad og femti år. So døydde han.
 
 ### Chapter 10
 
@@ -554,7 +554,7 @@
 
 **[10:31]** Dette er sønerne hans Sem, med sine ætter og tungemål, i sine land og med sine rike.
 
-**[10:32]** Dette var dei folki som hev kome frå sønerne hans Noah, etter sine ættgreiner, i sine rike. Og frå deim hev alle folkeslag greina seg ut yver jordi etter storflodi. 
+**[10:32]** Dette var dei folki som hev kome frå sønerne hans Noah, etter sine ættgreiner, i sine rike. Og frå deim hev alle folkeslag greina seg ut yver jordi etter storflodi.
 
 ### Chapter 11
 
@@ -620,7 +620,7 @@
 
 **[11:31]** Og Tarah tok med seg Abram, son sin, og Lot Haransson, soneson sin, og Saraj, sonekona si, kona hans Abram, og dei tok ut saman frå Ur i Kaldæa, og vilde fara til Kana’ans-land. Og dei kom til Kharan, og vart buande der.
 
-**[11:32]** Og dagarne hans Tarah vart tvo hundrad og fem år. So døydde Tarah i Kharan. 
+**[11:32]** Og dagarne hans Tarah vart tvo hundrad og fem år. So døydde Tarah i Kharan.
 
 ### Chapter 12
 
@@ -662,7 +662,7 @@
 
 **[12:19]** Kvi sagde du at ho var syster di, so eg tok henne og vilde havt henne til kona? Sjå der hev du kona di! Tak henne og far din veg!»
 
-**[12:20]** Og Farao sette nokre menner til å fylgja honom ut or landet med kona hans og alt det han åtte. 
+**[12:20]** Og Farao sette nokre menner til å fylgja honom ut or landet med kona hans og alt det han åtte.
 
 ### Chapter 13
 
@@ -700,7 +700,7 @@
 
 **[13:17]** Upp, og far landet igjenom, so langt og so breidt som det er! For deg vil eg gjeva det.»
 
-**[13:18]** So flutte Abram tjeldbuderne, og kom til eikelunden åt Mamre i Hebron. Der vart han buande, og bygde Herren eit altar. 
+**[13:18]** So flutte Abram tjeldbuderne, og kom til eikelunden åt Mamre i Hebron. Der vart han buande, og bygde Herren eit altar.
 
 ### Chapter 14
 
@@ -750,7 +750,7 @@
 
 **[14:23]** Ikkje so mykje som ein tråd eller ei skoreim tek eg imot av det som ditt er. Du skal ikkje hava det å segja: «Eg gjorde Abram rik.»
 
-**[14:24]** Eg vil ingen ting hava, anna enn den maten som sveinarne hev ete, og den luten som fell på dei mennerne som var med meg, Aner og Eskol og Mamre; lat deim få sin lut!» 
+**[14:24]** Eg vil ingen ting hava, anna enn den maten som sveinarne hev ete, og den luten som fell på dei mennerne som var med meg, Aner og Eskol og Mamre; lat deim få sin lut!»
 
 ### Chapter 15
 
@@ -794,7 +794,7 @@
 
 **[15:20]** og hetitarne og perizitarne og refa’itarne
 
-**[15:21]** og amoritarne og kananitarne og girgasitarne og jebusitarne.» 
+**[15:21]** og amoritarne og kananitarne og girgasitarne og jebusitarne.»
 
 ### Chapter 16
 
@@ -828,7 +828,7 @@
 
 **[16:15]** Og Hagar fekk ein son, og Abram kalla son sin, som Hagar hadde fenge, Ismael.
 
-**[16:16]** Abram var seks og åtteti år gamall, då han fekk Ismael med Hagar. 
+**[16:16]** Abram var seks og åtteti år gamall, då han fekk Ismael med Hagar.
 
 ### Chapter 17
 
@@ -884,7 +884,7 @@
 
 **[17:26]** Denne same dagen vart dei umskorne, både Abraham og Ismael, son hans.
 
-**[17:27]** Og alle karar i huset hans, både dei som var fødde i huset, og dei framande, som var kjøpte for pengar, dei vart umskorne med honom. 
+**[17:27]** Og alle karar i huset hans, både dei som var fødde i huset, og dei framande, som var kjøpte for pengar, dei vart umskorne med honom.
 
 ### Chapter 18
 
@@ -952,7 +952,7 @@
 
 **[18:32]** Då sagde Abraham: «Herren må ikkje verta vreid, um eg talar berre denne eine gongen til! Um det finst no ti -?» Og han svara: «Eg skal ikkje øydeleggja honom, for dei ti skuld.»
 
-**[18:33]** So gjekk Herren burt, då han hadde tala til endes med Abraham. Og Abraham gjekk heim att til seg. 
+**[18:33]** So gjekk Herren burt, då han hadde tala til endes med Abraham. Og Abraham gjekk heim att til seg.
 
 ### Chapter 19
 
@@ -1030,7 +1030,7 @@
 
 **[19:37]** Og den eldste fekk ein son, og kalla honom Moab. Frå honom er Moab-folket ætta, alt til den dag i dag.
 
-**[19:38]** Og den yngste fekk og ein son, og kalla honom Ben-Ammi. Frå honom er Ammons-sønerne ætta, alt til den dag i dag. 
+**[19:38]** Og den yngste fekk og ein son, og kalla honom Ben-Ammi. Frå honom er Ammons-sønerne ætta, alt til den dag i dag.
 
 ### Chapter 20
 
@@ -1068,7 +1068,7 @@
 
 **[20:17]** So bad Abraham til Gud for deim, og Gud lækte Abimelek og kona hans og ternorne hans, so dei fekk born.
 
-**[20:18]** For Herren hadde heiltupp stengt kvart morsliv i huset åt Abimelek for Sara skuld, kona hans Abraham. 
+**[20:18]** For Herren hadde heiltupp stengt kvart morsliv i huset åt Abimelek for Sara skuld, kona hans Abraham.
 
 ### Chapter 21
 
@@ -1138,7 +1138,7 @@
 
 **[21:33]** Og Abraham sette ei tamariska i Be’erseba, og der kalla han på Herren, ævordoms Gud.
 
-**[21:34]** Og Abraham heldt lenge til i Filistarlandet. 
+**[21:34]** Og Abraham heldt lenge til i Filistarlandet.
 
 ### Chapter 22
 
@@ -1188,7 +1188,7 @@
 
 **[22:23]** Og Betuel var far åt Rebekka. Desse åtte sønerne fekk Nahor, bror åt Abraham, med Milka.
 
-**[22:24]** Og med fylgjekona si, ho heitte Re’uma, fekk han og born; det var Tebah og Gaham og Tahas og Ma’aka. 
+**[22:24]** Og med fylgjekona si, ho heitte Re’uma, fekk han og born; det var Tebah og Gaham og Tahas og Ma’aka.
 
 ### Chapter 23
 
@@ -1230,7 +1230,7 @@
 
 **[23:19]** Sidan jorda Abraham Sara, kona si, i helleren på Makpelagjordet, austanfor Mamre, der Hebron no ligg, i Kana’ans-land.
 
-**[23:20]** Og gjordet med helleren som var der, kom frå Hets-sønerne yver på Abrahams hender, so han fekk det til eigande gravstad. 
+**[23:20]** Og gjordet med helleren som var der, kom frå Hets-sønerne yver på Abrahams hender, so han fekk det til eigande gravstad.
 
 ### Chapter 24
 
@@ -1366,7 +1366,7 @@
 
 **[24:66]** So fortalde tenaren Isak alt det han hadde gjort.
 
-**[24:67]** Og Isak leidde henne inn i den tjeldbudi som Sara, mor hans, hadde havt, og tok Rebekka heim til seg, og ho vart kona hans, og han heldt henne kjær. So fekk Isak trøyst i sorgi yver mor si. 
+**[24:67]** Og Isak leidde henne inn i den tjeldbudi som Sara, mor hans, hadde havt, og tok Rebekka heim til seg, og ho vart kona hans, og han heldt henne kjær. So fekk Isak trøyst i sorgi yver mor si.
 
 ### Chapter 25
 
@@ -1436,7 +1436,7 @@
 
 **[25:33]** «Gjer fyrst eiden på det!» sagde Jakob. So gjorde Esau eiden på det, og selde odelen sin til Jakob.
 
-**[25:34]** Og Jakob gav Esau brød og linsevelling, og han åt, og drakk, og reis upp, og gjekk sin veg. So lite vyrde Esau odelen. 
+**[25:34]** Og Jakob gav Esau brød og linsevelling, og han åt, og drakk, og reis upp, og gjekk sin veg. So lite vyrde Esau odelen.
 
 ### Chapter 26
 
@@ -1508,7 +1508,7 @@
 
 **[26:34]** Då Esau var fyrti år gamall, gifte han seg med Jehudit, dotter åt ein hetit som heitte Be’eri, og med Basmat, dotter åt ein annan hetit, som heitte Elon.
 
-**[26:35]** Og det vart ei hjartesorg for Isak og Rebekka. 
+**[26:35]** Og det vart ei hjartesorg for Isak og Rebekka.
 
 ### Chapter 27
 
@@ -1602,7 +1602,7 @@
 
 **[27:45]** til vreiden hans hev gjeve seg, og han hev gløymt det du hev gjort imot honom! Då skal eg senda bod og henta deg heim att. Kvi skulde eg missa dykk båe tvo på ein dag?»
 
-**[27:46]** So sagde Rebekka med Isak: «Eg er so leid av livet for desse Hets-døtterne skuld! Skulde no Jakob og taka seg ei kona utav Hets-døtterne, slik ei som desse, ei her ifrå landet, kva hadde eg då liva etter?» 
+**[27:46]** So sagde Rebekka med Isak: «Eg er so leid av livet for desse Hets-døtterne skuld! Skulde no Jakob og taka seg ei kona utav Hets-døtterne, slik ei som desse, ei her ifrå landet, kva hadde eg då liva etter?»
 
 ### Chapter 28
 
@@ -1648,7 +1648,7 @@
 
 **[28:21]** og eg kjem vel heim att til huset åt far min, so skal Herren vera min Gud,
 
-**[28:22]** og denne steinen, som eg hev reist upp til eit merke, han skal verta eit gudshus, og av alt du gjev meg, skal eg svara deg tiend.» 
+**[28:22]** og denne steinen, som eg hev reist upp til eit merke, han skal verta eit gudshus, og av alt du gjev meg, skal eg svara deg tiend.»
 
 ### Chapter 29
 
@@ -1720,7 +1720,7 @@
 
 **[29:34]** Og ho vart med barn endå ein gong, og åtte ein son, og sagde: «No lyt fulla mannen min halda seg til meg, sidan han hev fenge tri søner med meg.» Difor kalla dei honom Levi.
 
-**[29:35]** Og ho vart med barn fjorde gongen, og åtte ein son, og sagde: «No vil eg lova Herren.» Difor kalla ho honom Juda. So fekk ho ikkje fleire born då. 
+**[29:35]** Og ho vart med barn fjorde gongen, og åtte ein son, og sagde: «No vil eg lova Herren.» Difor kalla ho honom Juda. So fekk ho ikkje fleire born då.
 
 ### Chapter 30
 
@@ -1808,7 +1808,7 @@
 
 **[30:42]** Men var det slikt som ikkje vilde trivast, so sette han ikkje stavarne der. Soleis fekk Laban det feet som ikkje vilde trivast, og Jakob det som var trivelegt.
 
-**[30:43]** Og mannen vart rikare og rikare, og fekk mykje bufe, og gjentor og drengjer, og kamelar og asen. 
+**[30:43]** Og mannen vart rikare og rikare, og fekk mykje bufe, og gjentor og drengjer, og kamelar og asen.
 
 ### Chapter 31
 
@@ -1920,7 +1920,7 @@
 
 **[31:54]** Og Jakob ofra eit slagtoffer på fjellet, og bad skyldfolki sine eta med seg. Og dei åt med honom, og var på fjellet um natti.
 
-**[31:55]** Um morgonen tidleg reis Laban upp, og kysste barneborni og døtterne sine, og velsigna deim. So tok Laban ut, og for heim att til seg. 
+**[31:55]** Um morgonen tidleg reis Laban upp, og kysste barneborni og døtterne sine, og velsigna deim. So tok Laban ut, og for heim att til seg.
 
 ### Chapter 32
 
@@ -1986,7 +1986,7 @@
 
 **[32:31]** Og med same han var komen framum Penuel, rann soli. Og han var halt i mjødmi.
 
-**[32:32]** Difor er det so den dag i dag, at Israels-sønerne aldri et den store seni som er på mjødmeskåli, av di han snart mjødmeskåli hans Jakob på den store seni der er. 
+**[32:32]** Difor er det so den dag i dag, at Israels-sønerne aldri et den store seni som er på mjødmeskåli, av di han snart mjødmeskåli hans Jakob på den store seni der er.
 
 ### Chapter 33
 
@@ -2028,7 +2028,7 @@
 
 **[33:19]** Og det jordstykket som han hadde sett upp tjeldbudi si på, kjøpte han av sønerne hans Hemor, far åt Sikem, for hundrad gullpengar.
 
-**[33:20]** Og han bygde eit altar der, og kalla det: «Gud er Gud åt Israel». 
+**[33:20]** Og han bygde eit altar der, og kalla det: «Gud er Gud åt Israel».
 
 ### Chapter 34
 
@@ -2092,7 +2092,7 @@
 
 **[34:30]** Då sagde Jakob med Simeon og Levi: «De hev gjort meg ei stor sorg! De veld at eg fær eit uord på meg hjå landslyden, kananitarne og perizitarne. Me er då berre ein liten flokk, og samlar dei seg imot meg, so kjem dei til å slå meg i hel, og tyna både meg og mitt hus.»
 
-**[34:31]** «Skulde han fara åt med syster vår som med ei skjøkja?» sagde dei. 
+**[34:31]** «Skulde han fara åt med syster vår som med ei skjøkja?» sagde dei.
 
 ### Chapter 35
 
@@ -2152,7 +2152,7 @@
 
 **[35:28]** Og dagarne hans Isak vart hundrad og åtteti år.
 
-**[35:29]** Då sålast Isak og døydde, og kom saman med federne sine, gamall og mett av dagar. Og Esau og Jakob, sønerne hans, fylgde honom til gravi. 
+**[35:29]** Då sålast Isak og døydde, og kom saman med federne sine, gamall og mett av dagar. Og Esau og Jakob, sønerne hans, fylgde honom til gravi.
 
 ### Chapter 36
 
@@ -2240,7 +2240,7 @@
 
 **[36:42]** Kenaz-jarlen, Teman-jarlen, Mibsar-jarlen,
 
-**[36:43]** Magdiel-jarlen, Iram-jarlen. Det var jarlarne i Edom, etter bustaderne sine i det landet dei åtte. Dette var ætti hans Esau, far åt Edom-folket. 
+**[36:43]** Magdiel-jarlen, Iram-jarlen. Det var jarlarne i Edom, etter bustaderne sine i det landet dei åtte. Dette var ætti hans Esau, far åt Edom-folket.
 
 ### Chapter 37
 
@@ -2314,7 +2314,7 @@
 
 **[37:35]** Og alle sønerne og døtterne hans kom og vilde trøysta honom, men han let seg ikkje trøysta; «Med sorg og sut lyt eg fara ned til son min i nåheimen!» sagde han. Og far hans gret yver honom;
 
-**[37:36]** men midjanitarne selde honom i Egyptarland, til Potifar, som var hirdmann hjå Farao og hovding yver livvakti. 
+**[37:36]** men midjanitarne selde honom i Egyptarland, til Potifar, som var hirdmann hjå Farao og hovding yver livvakti.
 
 ### Chapter 38
 
@@ -2376,7 +2376,7 @@
 
 **[38:29]** Men so drog han handi attende, og då kom bror hans fram! Då sagde ho: «Korleis er det du bryt deg fram!» Og dei kalla honom Peres.
 
-**[38:30]** So kom bror hans, han som hadde den raude tråden kring handi. Honom kalla dei Zerah. 
+**[38:30]** So kom bror hans, han som hadde den raude tråden kring handi. Honom kalla dei Zerah.
 
 ### Chapter 39
 
@@ -2424,7 +2424,7 @@
 
 **[39:22]** Og styresmannen i fangetårnet sette Josef til å sjå etter alle fangarne som var i tårnet, og alt som der skulde gjerast, det laut han gjera.
 
-**[39:23]** Styresmannen i fangetårnet såg ikkje etter nokon verdeleg ting som Josef hadde under hender. For Herren var med honom; og kva han so gjorde, so lagde Herren lukka til. 
+**[39:23]** Styresmannen i fangetårnet såg ikkje etter nokon verdeleg ting som Josef hadde under hender. For Herren var med honom; og kva han so gjorde, so lagde Herren lukka til.
 
 ### Chapter 40
 
@@ -2472,7 +2472,7 @@
 
 **[40:22]** og bakarmeisteren hengde han, so som Josef hadde spått deim.
 
-**[40:23]** Men skjenkjarmeisteren kom ikkje i hug Josef; han gløymde honom. 
+**[40:23]** Men skjenkjarmeisteren kom ikkje i hug Josef; han gløymde honom.
 
 ### Chapter 41
 
@@ -2588,7 +2588,7 @@
 
 **[41:56]** Og naudi breidde seg yver heile jordi. Men Josef let upp alle kornbuderne og selde til egyptarane; for naudi var hard i Egyptarlandet.
 
-**[41:57]** Og frå heile verdi kom dei til Egyptarland og vilde kjøpa korn hjå Josef; for naudi var stor all verdi yver. 
+**[41:57]** Og frå heile verdi kom dei til Egyptarland og vilde kjøpa korn hjå Josef; for naudi var stor all verdi yver.
 
 ### Chapter 42
 
@@ -2666,7 +2666,7 @@
 
 **[42:37]** Då sagde Ruben med far sin: «Båe sønerne mine kann du drepa, kjem eg ikkje heim til deg att med honom! Gjev honom berre i mine hender! Eg skal hava honom heim att til deg.»
 
-**[42:38]** Men han svara: «Son min skal ikkje fara med dykk der ned. For bror hans er burte, og han er att åleine, og hender det honom nokor ulukka på den vegen de ferdast etter, so kjem de til å senda dei grå håri mine med sorg ned i nåheimen.» Men svolten var hard i landet. 
+**[42:38]** Men han svara: «Son min skal ikkje fara med dykk der ned. For bror hans er burte, og han er att åleine, og hender det honom nokor ulukka på den vegen de ferdast etter, so kjem de til å senda dei grå håri mine med sorg ned i nåheimen.» Men svolten var hard i landet.
 
 ### Chapter 43
 
@@ -2734,7 +2734,7 @@
 
 **[43:32]** Dei vart sessa midt fyre honom etter alderen, frå den eldste til den yngste, og dei såg på kvarandre og undrast.
 
-**[43:33]** Og det vart sendt um til deim av dei retterne som han sjølv åt av, og Benjamin fekk fem gonger so mykje som dei andre. Og dei drakk med honom, og vart fjåge. 
+**[43:33]** Og det vart sendt um til deim av dei retterne som han sjølv åt av, og Benjamin fekk fem gonger so mykje som dei andre. Og dei drakk med honom, og vart fjåge.
 
 **[43:34]** 
 
@@ -2806,7 +2806,7 @@
 
 **[44:33]** Lat difor meg få vera att i staden for sveinen, og vera trælen din, og lat sveinen få fara heim att med brørne sine.
 
-**[44:34]** For korleis kunde eg koma heim att til far min, når sveinen ikkje var med? Eg tolde ikkje sjå på den sorg som då kom yver far min.» 
+**[44:34]** For korleis kunde eg koma heim att til far min, når sveinen ikkje var med? Eg tolde ikkje sjå på den sorg som då kom yver far min.»
 
 ### Chapter 45
 
@@ -2864,7 +2864,7 @@
 
 **[45:27]** So sagde dei honom alt det Josef hadde sagt med deim, og han såg vognerne som Josef hadde sendt til å henta honom i. Då kvikna far deira i hugen:
 
-**[45:28]** «Å du store syn!» sagde Israel, «Josef, son min, er endå i live! Eg vil av og sjå honom, fyrr eg døyr.» 
+**[45:28]** «Å du store syn!» sagde Israel, «Josef, son min, er endå i live! Eg vil av og sjå honom, fyrr eg døyr.»
 
 ### Chapter 46
 
@@ -2934,7 +2934,7 @@
 
 **[46:33]** Når so Farao kallar dykk til seg og spør: «Kva hev de til liveveg?»
 
-**[46:34]** so skal de svara: «Fehyrdingar hev tenarane dine vore alt ifrå ungdomen og til no, både me og federne våre» - so de kann få bu i Gosenlandet; for egyptarane hev ein stygg til alle sauehyrdingar.» 
+**[46:34]** so skal de svara: «Fehyrdingar hev tenarane dine vore alt ifrå ungdomen og til no, både me og federne våre» - so de kann få bu i Gosenlandet; for egyptarane hev ein stygg til alle sauehyrdingar.»
 
 ### Chapter 47
 
@@ -2998,7 +2998,7 @@
 
 **[47:30]** Lat meg få kvila hjå federne mine! Før meg burt frå Egyptarland, og jorda meg i gravi deira!» Og han svara: «Eg skal gjera som du segjer.»
 
-**[47:31]** Då sagde Israel: «Gjer eiden på det!» So gjorde han eiden på det. Og Israel lutte seg ned yver hovudgjerdi og bad. 
+**[47:31]** Då sagde Israel: «Gjer eiden på det!» So gjorde han eiden på det. Og Israel lutte seg ned yver hovudgjerdi og bad.
 
 ### Chapter 48
 
@@ -3044,7 +3044,7 @@
 
 **[48:21]** Sidan sagde Israel med Josef: «No lyt eg døy, men Gud skal vera med dykk og fylgja dykk attende til landet åt federne dykkar.
 
-**[48:22]** Og eg gjev deg ein bergås framum brørne dine; den tok eg frå amoriten med sverdet og bogen min.» 
+**[48:22]** Og eg gjev deg ein bergås framum brørne dine; den tok eg frå amoriten med sverdet og bogen min.»
 
 ### Chapter 49
 
@@ -3112,7 +3112,7 @@
 
 **[49:32]** på det gjordet og i den helleren der, som var kjøpt av Hets-sønerne.»
 
-**[49:33]** Då Jakob var ferdig med dei fyresegnerne han hadde å gjeva sønerne sine, drog han føterne upp i sengi. Og han sålast og kom til federne sine. 
+**[49:33]** Då Jakob var ferdig med dei fyresegnerne han hadde å gjeva sønerne sine, drog han føterne upp i sengi. Og han sålast og kom til federne sine.
 
 ### Chapter 50
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** Og Josef tok ein eid av Israels-sønerne, og sagde: «Når Gud kjem og hentar dykk, då skal de taka beini mine med her ifrå.»
 
-**[50:26]** Og Josef døydde, då han var hundrad og ti år gamall, og dei salva liket hans, og lagde det i kista i Egyptarland.  
+**[50:26]** Og Josef døydde, då han var hundrad og ti år gamall, og dei salva liket hans, og lagde det i kista i Egyptarland.
 
 ## Exodus
 
@@ -3214,7 +3214,7 @@
 
 **[1:21]** Og for di ljosmøderne hadde age for Gud, so gav han deim ætt og avkjøme.
 
-**[1:22]** Men Farao sende bod utyver til heile folket sitt og sagde: «Kvar son som kjem til verdi, skal de kasta i elvi; berre døtterne skal de lata liva!» 
+**[1:22]** Men Farao sende bod utyver til heile folket sitt og sagde: «Kvar son som kjem til verdi, skal de kasta i elvi; berre døtterne skal de lata liva!»
 
 ### Chapter 2
 
@@ -3266,7 +3266,7 @@
 
 **[2:24]** Og Gud høyrde korleis dei sukka og stunde, og Gud mintest sambandet sitt med Abraham og Isak og Jakob.
 
-**[2:25]** For Gud hadde auga med Israels-borni, og Gud visste korleis til stod. 
+**[2:25]** For Gud hadde auga med Israels-borni, og Gud visste korleis til stod.
 
 ### Chapter 3
 
@@ -3312,7 +3312,7 @@
 
 **[3:21]** Og eg vil gjera det so at egyptarane fær godvilje for dette folket, so de ikkje skal fara tomhendte, når de fer;
 
-**[3:22]** men kvar kona skal beda grannekona si, eller den ho bur i hus med, um sylv og gull og helgeklæde, og det skal de lata sønerne og døtterne dykkar hava på seg; det skal vera herfanget de tek av egyptarane.»» 
+**[3:22]** men kvar kona skal beda grannekona si, eller den ho bur i hus med, um sylv og gull og helgeklæde, og det skal de lata sønerne og døtterne dykkar hava på seg; det skal vera herfanget de tek av egyptarane.»»
 
 ### Chapter 4
 
@@ -3376,7 +3376,7 @@
 
 **[4:30]** Og Aron bar fram alle dei ordi som Herren hadde tala til Moses, og gjorde teikni, so folket såg på det.
 
-**[4:31]** Og folket trudde; og då dei høyrde at Herren var komen og vilde lydast til Israels-borni, og at han hadde set kva vande dei var i, so lagde dei seg på kne og bad. 
+**[4:31]** Og folket trudde; og då dei høyrde at Herren var komen og vilde lydast til Israels-borni, og at han hadde set kva vande dei var i, so lagde dei seg på kne og bad.
 
 ### Chapter 5
 
@@ -3424,7 +3424,7 @@
 
 **[5:22]** Og Moses vende seg atter til Herren og sagde: «Herre, kvi fer du so ille med dette folket? Kvi hev du då sendt meg?
 
-**[5:23]** For alt ifrå den stund eg gjekk fram for Farao og tala i ditt namn, hev han ikkje gjort anna enn vondt mot dette folket, og du hev ikkje hjelpt folket ditt ein grand.» 
+**[5:23]** For alt ifrå den stund eg gjekk fram for Farao og tala i ditt namn, hev han ikkje gjort anna enn vondt mot dette folket, og du hev ikkje hjelpt folket ditt ein grand.»
 
 ### Chapter 6
 
@@ -3486,7 +3486,7 @@
 
 **[6:29]** då tok Herren soleis til ords: «Eg er Herren! Seg no med Farao, egyptarkongen, alt det eg segjer til deg!»
 
-**[6:30]** Og Moses svara, der han stod for Guds augo: «Du veit eg er munnvalen; er det då ventande at Farao vil høyra på meg?» 
+**[6:30]** Og Moses svara, der han stod for Guds augo: «Du veit eg er munnvalen; er det då ventande at Farao vil høyra på meg?»
 
 ### Chapter 7
 
@@ -3520,7 +3520,7 @@
 
 **[7:15]** Gakk til honom i morgon tidleg - då kjem han ned åt elvi - og statt på elvbakken, so han møter deg, og staven som vart skapt um til ein orm, skal du hava i handi.
 
-**[7:16]** Og so skal du segja med honom: «Herren, Hebræarguden, sende meg til deg og sagde: «Lat folket mitt fara, so dei kann tena meg i øydemarki!» Men det hev ’kje du vilja lydt på endå.
+**[7:16]** Og so skal du segja med honom: «Herren, Hebræarguden, sende meg til deg og sagde: «Lat folket mitt fara, so dei kann tena meg i øydemarki!» Men det hev’kje du vilja lydt på endå.
 
 **[7:17]** Og Herren segjer so: «Dette skal du hava til merke på at eg er Herren: Sjå no vil eg slå i elvevatnet med denne staven, som eg hev i handi mi, og so skal det verta til blod.
 
@@ -3538,7 +3538,7 @@
 
 **[7:24]** Men alle egyptarane grov kringum elvi etter drikkevatn; for dei kunde ikkje drikka elvevatnet.
 
-**[7:25]** So leid det sju dagar etter Herren hadde gjort elvi til blod. 
+**[7:25]** So leid det sju dagar etter Herren hadde gjort elvi til blod.
 
 ### Chapter 8
 
@@ -3596,7 +3596,7 @@
 
 **[8:27]** Tri dagsleider ut i øydemarki vil me fara, og so ofra til Herren, vår Gud, soleis som han segjer oss fyre.»
 
-**[8:28]** Då sagde Farao: «Eg fær lata dykk fara då, so de kann ofra til Herren, Guden dykkar, i øydemarki, men de må ’kje fara langt! Bed for meg!»
+**[8:28]** Då sagde Farao: «Eg fær lata dykk fara då, so de kann ofra til Herren, Guden dykkar, i øydemarki, men de må’kje fara langt! Bed for meg!»
 
 **[8:29]** «Ja, no gjeng eg ut, og vil beda til Herren,» svara Moses, «og i morgon skal avåtet kverva burt frå Farao og frå mennerne og folket hans. Berre no Farao ikkje vil svika oss meir, men lata folket fara, so dei kann ofra til Herren!»
 
@@ -3604,7 +3604,7 @@
 
 **[8:31]** Og Herren gjorde som Moses bad, og let avåtet kverva burt både frå Farao og mennerne og folket hans; det fanst ikkje att eit einaste fly.
 
-**[8:32]** Men Farao slo seg rang denne gongen og, og slepte ikkje folket av stad. 
+**[8:32]** Men Farao slo seg rang denne gongen og, og slepte ikkje folket av stad.
 
 ### Chapter 9
 
@@ -3676,7 +3676,7 @@
 
 **[9:34]** Men då Farao såg at regnet og haglet og tora hadde stogga, so heldt han på og synda, og herde seg til, både han og mennerne hans.
 
-**[9:35]** Det gjekk som Herren hadde havt Moses til å segja: Farao var hard som stein, og vilde ikkje lata Israels-folket fara. 
+**[9:35]** Det gjekk som Herren hadde havt Moses til å segja: Farao var hard som stein, og vilde ikkje lata Israels-folket fara.
 
 ### Chapter 10
 
@@ -3736,7 +3736,7 @@
 
 **[10:28]** Og Farao sagde til Moses: «Gakk ifrå meg! Vara deg! Kom aldri meir for augo mine! For den dag eg ser deg for augo att, skal du døy.»
 
-**[10:29]** «Ja no sagde du det sjølv,» svara Moses, «og eg kjem aldri meir for augo dine.» 
+**[10:29]** «Ja no sagde du det sjølv,» svara Moses, «og eg kjem aldri meir for augo dine.»
 
 ### Chapter 11
 
@@ -3758,7 +3758,7 @@
 
 **[11:9]** Då Herren sagde til Moses: «Farao skal ikkje høyra på dykk, so eg kann få gjort mange under i Egyptarlandet,»
 
-**[11:10]** so gjorde Moses og Aron alle desse underi for augo åt Farao; men Herren hadde lagt so strid ein hug i Farao, og han slepte ikkje Israels-folket or landet sitt. 
+**[11:10]** so gjorde Moses og Aron alle desse underi for augo åt Farao; men Herren hadde lagt so strid ein hug i Farao, og han slepte ikkje Israels-folket or landet sitt.
 
 ### Chapter 12
 
@@ -3768,7 +3768,7 @@
 
 **[12:3]** Tala no de til heile Israels-lyden og seg: «Den tiande dagen i denne månaden skal kvar husbonde taka seg ut eit lamb til huset sitt.
 
-**[12:4]** Men er lyden hans for liten til å eta upp eitt lamb, so skal han og næmaste grannen taka seg ut eit i hop, etter som dei hev folk til: de skal ’kje rekna fleire folk på kvart lamb enn at alle fær metta seg.
+**[12:4]** Men er lyden hans for liten til å eta upp eitt lamb, so skal han og næmaste grannen taka seg ut eit i hop, etter som dei hev folk til: de skal’kje rekna fleire folk på kvart lamb enn at alle fær metta seg.
 
 **[12:5]** Eit lytelaust verlamb lyt det vera, og årsgamalt; i staden for eit lamb kann de og taka eit kid.
 
@@ -3786,7 +3786,7 @@
 
 **[12:12]** For den same natti vil eg fara igjenom Egyptarlandet, og slå i hel alt som frumbore er i Egyptarland, både folk og fe; og alle egyptargudarne vil eg døma og refsa, eg, Herren.
 
-**[12:13]** Og blodet på dei husi som de er i, skal vera til eit merke for meg, når eg ser blodet, skal eg fara framum dykk, og de skal ’kje verta fyre noko vondt, når eg slær i hel folk i Egyptarland.
+**[12:13]** Og blodet på dei husi som de er i, skal vera til eit merke for meg, når eg ser blodet, skal eg fara framum dykk, og de skal’kje verta fyre noko vondt, når eg slær i hel folk i Egyptarland.
 
 **[12:14]** Og sidan skal denne dagen vera ein minnedag for dykk: då skal de halda helg og høgtid for Herren; ei æveleg lov skal det vera for dykk og etterkomarane dykkar å halda heilag den dagen.
 
@@ -3862,7 +3862,7 @@
 
 **[12:50]** Og alt Israels-folket gjorde dette; som Herren hadde sagt til Moses og Aron, so gjorde dei.
 
-**[12:51]** Soleis gjekk det til den dagen då Herren fylgde Israels-folket ut or Egyptarland, fylking etter fylking. 
+**[12:51]** Soleis gjekk det til den dagen då Herren fylgde Israels-folket ut or Egyptarland, fylking etter fylking.
 
 ### Chapter 13
 
@@ -3908,7 +3908,7 @@
 
 **[13:21]** Og Herren gjekk fyre deim um dagen i ein skystopul, som leidde deim rette vegen, og um natti i ein eldstopul, som lyste for deim, so dei kunde fara natt og dag.
 
-**[13:22]** Skystopulen kvarv ikkje frå folket um dagen, og eldstopulen ikkje um natti. 
+**[13:22]** Skystopulen kvarv ikkje frå folket um dagen, og eldstopulen ikkje um natti.
 
 ### Chapter 14
 
@@ -3972,7 +3972,7 @@
 
 **[14:30]** Soleis berga Herren den dagen Israel for egyptarane, og Israel skoda egyptarane korleis dei låg daude på havstrandi.
 
-**[14:31]** Og då folket såg Guds allmagt på det han gjorde med egyptarane, då fekk dei age for Herren, og dei trudde på Herren og på Moses, tenaren hans. 
+**[14:31]** Og då folket såg Guds allmagt på det han gjorde med egyptarane, då fekk dei age for Herren, og dei trudde på Herren og på Moses, tenaren hans.
 
 ### Chapter 15
 
@@ -4028,7 +4028,7 @@
 
 **[15:26]** Og han sagde: «Høyrer du vel etter ordi åt Herren, din Gud, og gjer det som rett er i hans augo, og lyder du bodi og held alle loverne hans, so skal du sleppa alle dei sjukarne, som eg hev lagt på egyptarane; for eg, Herren, vil vera lækjaren din.»
 
-**[15:27]** Sidan kom dei til Elim. Der var det tolv kjeldor og sytti palmetre, og dei lægra seg der, frammed vatnet. 
+**[15:27]** Sidan kom dei til Elim. Der var det tolv kjeldor og sytti palmetre, og dei lægra seg der, frammed vatnet.
 
 ### Chapter 16
 
@@ -4102,7 +4102,7 @@
 
 **[16:35]** Israels-folket åt manna i fyrti år, til dess dei kom til bygde land; manna åt dei alt til dei kom til utenden av Kana’ans-landet.
 
-**[16:36]** Ei kanna, det var tiandeparten av ei skjeppa. 
+**[16:36]** Ei kanna, det var tiandeparten av ei skjeppa.
 
 ### Chapter 17
 
@@ -4136,7 +4136,7 @@
 
 **[17:15]** Då bygde Moses eit altar og kalla det: «Herren er hermerket mitt»,
 
-**[17:16]** og han kvad: «Frå Herrens høgsæte ei hand er lyft! Med ufred søkjer han Amalek, ætt for ætt.» 
+**[17:16]** og han kvad: «Frå Herrens høgsæte ei hand er lyft! Med ufred søkjer han Amalek, ætt for ætt.»
 
 ### Chapter 18
 
@@ -4192,7 +4192,7 @@
 
 **[18:26]** Dei skifte då til kvar tid rett millom folket; alle vande saker kom dei til Moses med, men i alle småsaker dømde dei sjølve.
 
-**[18:27]** So baud Moses farvel med verfar sin, og han for heim att til sitt eige land. 
+**[18:27]** So baud Moses farvel med verfar sin, og han for heim att til sitt eige land.
 
 ### Chapter 19
 
@@ -4244,7 +4244,7 @@
 
 **[19:24]** Og Herren sagde til honom: «Gakk no berre ned, og kom so upp att, både du og Aron! Men prestarne og ålmugen må ikkje brjota seg fram og stiga upp til Herren; for då kjem han til å fara inn imillom deim.»
 
-**[19:25]** So gjekk Moses ned til folket og sagde det med deim. 
+**[19:25]** So gjekk Moses ned til folket og sagde det med deim.
 
 ### Chapter 20
 
@@ -4298,7 +4298,7 @@
 
 **[20:25]** Men gjer du eit steinaltar åt meg, so skal du ikkje byggja det av hoggen stein; for brukar du bitjarn på steinarne, so vanhelgar du deim.
 
-**[20:26]** Heller ikkje skal du stiga upp til altaret mitt etter ei tropp, so du nækjer blygsli di uppyver det. 
+**[20:26]** Heller ikkje skal du stiga upp til altaret mitt etter ei tropp, so du nækjer blygsli di uppyver det.
 
 ### Chapter 21
 
@@ -4322,7 +4322,7 @@
 
 **[21:10]** Tek han seg ei onnor attåt henne, so skal han ikkje lata den fyrste vanta kost eller klæde eller hjåsvæve.
 
-**[21:11]** Dersom han ikkje let henne få sin rett i desse tri stykki, so skal ho sleppa fri for inkje; ho skal ’kje leggja pengar.
+**[21:11]** Dersom han ikkje let henne få sin rett i desse tri stykki, so skal ho sleppa fri for inkje; ho skal’kje leggja pengar.
 
 **[21:12]** Den som slær ein mann so han døyr, han skal lata livet.
 
@@ -4372,7 +4372,7 @@
 
 **[21:35]** Når uksen åt ein mann stangar i hel ein framand ukse, då skal eigarane selja den uksen som liver, og byta pengarne millom seg, og den daude uksen skal dei og byta.
 
-**[21:36]** Men er det kunnigt at uksen var olm, og eigaren ikkje hev agta honom, so skal han gjeva ein ukse i staden, og sjølv hava den daude. 
+**[21:36]** Men er det kunnigt at uksen var olm, og eigaren ikkje hev agta honom, so skal han gjeva ein ukse i staden, og sjølv hava den daude.
 
 ### Chapter 22
 
@@ -4436,7 +4436,7 @@
 
 **[22:30]** Det same skal du gjera med nauti dine og småfeet ditt; sju dagar skal frumsungen fylgja mor si; den åttande dagen skal du lata meg få honom.
 
-**[22:31]** Heilage menner skal de vera meg. Kjøt som de finn ihelrivne på marki, skal de ikkje eta; for hundarne skal de kasta det. 
+**[22:31]** Heilage menner skal de vera meg. Kjøt som de finn ihelrivne på marki, skal de ikkje eta; for hundarne skal de kasta det.
 
 ### Chapter 23
 
@@ -4444,11 +4444,11 @@
 
 **[23:2]** Fylg ikkje flokken i det som vondt er! Tala ikkje soleis på tinget at du hallar etter hopen og rengjer retten!
 
-**[23:3]** Um det so er ein arming, so skal du ’kje snilda på saki hans.
+**[23:3]** Um det so er ein arming, so skal du’kje snilda på saki hans.
 
 **[23:4]** Når du finn ein ukse eller eit asen som hev vildra seg burt, og som uvenen din eig, so skal du hava deim attende til honom!
 
-**[23:5]** Når du ser at asnet åt uvenen din hev sige under kløvi, so må du ’kje tenkja på å ganga ifrå honom; du lyt hjelpa honom å løysa kløvi!
+**[23:5]** Når du ser at asnet åt uvenen din hev sige under kløvi, so må du’kje tenkja på å ganga ifrå honom; du lyt hjelpa honom å løysa kløvi!
 
 **[23:6]** Reng ikkje retten for fatigfolk på tinget!
 
@@ -4504,7 +4504,7 @@
 
 **[23:32]** Aldri må du gjera noko samband med deim eller gudarne deira.
 
-**[23:33]** Dei må ikkje bu i landet ditt; for då kunde dei lokka deg til å synda mot meg, og tenar du gudarne deira, so vert det deg til ei snara.»» 
+**[23:33]** Dei må ikkje bu i landet ditt; for då kunde dei lokka deg til å synda mot meg, og tenar du gudarne deira, so vert det deg til ei snara.»»
 
 ### Chapter 24
 
@@ -4542,7 +4542,7 @@
 
 **[24:17]** Og herlegdomen åt Herren var å sjå til for augo åt Israels-folket som ein logande eld på fjelltinden.
 
-**[24:18]** So gjekk Moses inn i skyi, og steig upp på nuten. Og Moses var på fjellet i fyrti dagar og fyrti næter. 
+**[24:18]** So gjekk Moses inn i skyi, og steig upp på nuten. Og Moses var på fjellet i fyrti dagar og fyrti næter.
 
 ### Chapter 25
 
@@ -4624,7 +4624,7 @@
 
 **[25:39]** Tri vågar skirt gull skal de bruka til ljosestaken og alle desse gognerne.
 
-**[25:40]** Sjå no til at du fær gjort dette etter det bilætet som vart synt deg på fjellet. 
+**[25:40]** Sjå no til at du fær gjort dette etter det bilætet som vart synt deg på fjellet.
 
 ### Chapter 26
 
@@ -4700,7 +4700,7 @@
 
 **[26:36]** Til døri på tjeldet skal du gjera eit tæpe av purpur og skarlak og karmesin og kvitt tvinna lingarn. Det skal vera utsauma med rosor.
 
-**[26:37]** Du skal gjera fem akaziestolpar til det, og deim skal du gullklæda; dei skal hava hakar av gull, og du skal støypa fem koparstabbar til deim. 
+**[26:37]** Du skal gjera fem akaziestolpar til det, og deim skal du gullklæda; dei skal hava hakar av gull, og du skal støypa fem koparstabbar til deim.
 
 ### Chapter 27
 
@@ -4744,7 +4744,7 @@
 
 **[27:20]** Seg no du til Israels-folket at dei skal gjeva deg skir olje av sundstøytte oljeber til ljosestaken, so lamporne kann setjast upp til kvar tid.
 
-**[27:21]** I møtetjeldet, utanfor tæpet som heng attfor lovtavlorne, skal Aron og sønerne hans stella lamporne, so dei kann lysa for Herrens åsyn frå kveld til morgon; det skal vera ei fast sed hjå Israels-folket, ætt etter ætt, i all æva. 
+**[27:21]** I møtetjeldet, utanfor tæpet som heng attfor lovtavlorne, skal Aron og sønerne hans stella lamporne, so dei kann lysa for Herrens åsyn frå kveld til morgon; det skal vera ei fast sed hjå Israels-folket, ætt etter ætt, i all æva.
 
 ### Chapter 28
 
@@ -4832,7 +4832,7 @@
 
 **[28:42]** So skal du gjera deim lereftsbrøker til å gøyma blygsli si med: frå mjødmarne og ned på låri skal brøkene nå.
 
-**[28:43]** Og Aron og sønerne hans skal hava deim på seg, når dei gjeng inn i møtetjeldet eller stig fram åt altaret og held gudstenesta i heilagdomen, so dei ikkje skal føra skuld yver seg og lata livet. Det skal vera ei lov for honom og ætti hans i all æva. 
+**[28:43]** Og Aron og sønerne hans skal hava deim på seg, når dei gjeng inn i møtetjeldet eller stig fram åt altaret og held gudstenesta i heilagdomen, so dei ikkje skal føra skuld yver seg og lata livet. Det skal vera ei lov for honom og ætti hans i all æva.
 
 ### Chapter 29
 
@@ -4926,7 +4926,7 @@
 
 **[29:45]** Eg vil bu midt imillom Israels-folket og vera deira Gud,
 
-**[29:46]** og dei skal sanna at eg er Herren, deira Gud, som leidde deim ut or Egyptarlandet, og vil bu millom deim, eg, Herren, deira Gud. 
+**[29:46]** og dei skal sanna at eg er Herren, deira Gud, som leidde deim ut or Egyptarlandet, og vil bu millom deim, eg, Herren, deira Gud.
 
 ### Chapter 30
 
@@ -5004,7 +5004,7 @@
 
 **[30:37]** Røykjelse som er soleis blanda som denne, må de ikkje laga åt dykk sjølve; han skal vera vigd åt Herren.
 
-**[30:38]** Den som lagar slik røykjelse til å anga på, han skal rydjast ut or folket sitt.» 
+**[30:38]** Den som lagar slik røykjelse til å anga på, han skal rydjast ut or folket sitt.»
 
 ### Chapter 31
 
@@ -5042,7 +5042,7 @@
 
 **[31:17]** det skal vera eit ævelegt merke på sambandet millom meg og Israels-folket. For i seks dagar skapte Herren himmelen og jordi, men den sjuande dagen heldt seg roleg og kvilde.»»
 
-**[31:18]** Då han hadde tala til endes med Moses på Sinaifjellet, gav han honom dei tvo lovtavlorne; det var steintavlor som Gud hadde skrive på med fingeren sin. 
+**[31:18]** Då han hadde tala til endes med Moses på Sinaifjellet, gav han honom dei tvo lovtavlorne; det var steintavlor som Gud hadde skrive på med fingeren sin.
 
 ### Chapter 32
 
@@ -5114,7 +5114,7 @@
 
 **[32:34]** Gakk no du, og fylg folket dit som eg hev sagt deg! Sjå, engelen min skal ganga framfyre deg. Men når min time kjem, vil eg heimsøkja deim for syndi deira.»
 
-**[32:35]** Og Herren førde ulukka yver folket for di dei hadde gjort kalven, den som Aron laga åt deim. 
+**[32:35]** Og Herren førde ulukka yver folket for di dei hadde gjort kalven, den som Aron laga åt deim.
 
 ### Chapter 33
 
@@ -5162,7 +5162,7 @@
 
 **[33:22]** og når herlegdomen min fer framum, so skal eg setja deg i denne bergskori, og halda handi mi yver deg, til dess eg hev kome framum.
 
-**[33:23]** Då skal eg taka handi mi burt att; so kann du sjå meg attantil; men andlitet mitt fær ingen sjå.» 
+**[33:23]** Då skal eg taka handi mi burt att; so kann du sjå meg attantil; men andlitet mitt fær ingen sjå.»
 
 ### Chapter 34
 
@@ -5234,7 +5234,7 @@
 
 **[34:34]** Men når han gjekk fram for Herrens åsyn og skulde tala med honom, tok han sløret burt, til han skulde ut att; so kom han ut og tala til Israels-folket det han var fyresagd.
 
-**[34:35]** Då såg Israels-folket korleis det stråla av andlitet hans Moses, og Moses hadde sløret for andlitet att, til dess han skulde inn og tala med Herren. 
+**[34:35]** Då såg Israels-folket korleis det stråla av andlitet hans Moses, og Moses hadde sløret for andlitet att, til dess han skulde inn og tala med Herren.
 
 ### Chapter 35
 
@@ -5306,7 +5306,7 @@
 
 **[35:34]** Og gåva til å læra frå seg hev han lagt både i honom og Åhåliab, son åt Akhisamak, av Dans-ætti.
 
-**[35:35]** Han hev fyllt deim med kunstnarånd, so dei kann både smida og snikra, og gjera åklæde med innvovne bilæte og rosor av purpur og skarlak og karmesin og kvitt lingarn, og veva kva dei vil, alt arbeid kann dei greida, og kunstverk kann dei skapa. 
+**[35:35]** Han hev fyllt deim med kunstnarånd, so dei kann både smida og snikra, og gjera åklæde med innvovne bilæte og rosor av purpur og skarlak og karmesin og kvitt lingarn, og veva kva dei vil, alt arbeid kann dei greida, og kunstverk kann dei skapa.
 
 ### Chapter 36
 
@@ -5384,7 +5384,7 @@
 
 **[36:37]** Til tjelddøri gjorde dei eit tæpe av purpur og skarlak og karmesin og kvitt tvinna lingarn. Det var utsauma med rosor;
 
-**[36:38]** dei gjorde fem stolpar til det, med hakarne som høyrde attåt, og klædde stolpehovudi og teinarne med gull; og dei fem stabbarne som høyrde til, gjorde dei av kopar. 
+**[36:38]** dei gjorde fem stolpar til det, med hakarne som høyrde attåt, og klædde stolpehovudi og teinarne med gull; og dei fem stabbarne som høyrde til, gjorde dei av kopar.
 
 ### Chapter 37
 
@@ -5444,7 +5444,7 @@
 
 **[37:28]** Stengerne og gjorde han av akazietre, og klædde deim med gull.
 
-**[37:29]** So laga han den heilage salvingsoljen og den reine, angande røykjelsen på same måten som apotekarane gjer det. 
+**[37:29]** So laga han den heilage salvingsoljen og den reine, angande røykjelsen på same måten som apotekarane gjer det.
 
 ### Chapter 38
 
@@ -5508,7 +5508,7 @@
 
 **[38:30]** Av den gjorde dei stabbarne til møtetjelddøri, og koparaltaret med kopargrindi som høyrer til, og alle altargognerne,
 
-**[38:31]** og stabbarne til garden rundt ikring tunet, og stolparne til tunporten, og alle pålarne til huset og garden rundt ikring. 
+**[38:31]** og stabbarne til garden rundt ikring tunet, og stolparne til tunporten, og alle pålarne til huset og garden rundt ikring.
 
 ### Chapter 39
 
@@ -5596,7 +5596,7 @@
 
 **[39:42]** Som Herren hadde sagt Moses fyre, heiltupp soleis hadde Israels-folket gjort alt arbeidet.
 
-**[39:43]** Og Moses skoda heile verket, og då han såg at det var ferdigt, og at dei i alle måtar hadde gjort det soleis som Herren hadde sagt, so velsigna han deim. 
+**[39:43]** Og Moses skoda heile verket, og då han såg at det var ferdigt, og at dei i alle måtar hadde gjort det soleis som Herren hadde sagt, so velsigna han deim.
 
 ### Chapter 40
 
@@ -5674,7 +5674,7 @@
 
 **[40:37]** Men når skyi ikkje lyfte seg, so tok dei ikkje ut, men drygde til den dagen ho lyfte seg att.
 
-**[40:38]** For Herrens sky låg yver huset um dagen, og um natti skein ho som eld for augo åt heile Israels-ætti på alle ferderne deira.  
+**[40:38]** For Herrens sky låg yver huset um dagen, og um natti skein ho som eld for augo åt heile Israels-ætti på alle ferderne deira.
 
 ## Leviticus
 
@@ -5712,7 +5712,7 @@
 
 **[1:16]** So skal han taka ut krelen med goret som er i, og kasta det attmed altaret, på austsida, der oska er,
 
-**[1:17]** og so flekkja fuglen med vengjerne på; deim må han ikkje skjera av. Sidan skal presten brenna fuglen på altaret, på veden som er lagd på elden, so røyken stig upp mot himmelen; då er det eit brennoffer åt Herren, ein offerret som anger godt. 
+**[1:17]** og so flekkja fuglen med vengjerne på; deim må han ikkje skjera av. Sidan skal presten brenna fuglen på altaret, på veden som er lagd på elden, so røyken stig upp mot himmelen; då er det eit brennoffer åt Herren, ein offerret som anger godt.
 
 ### Chapter 2
 
@@ -5746,7 +5746,7 @@
 
 **[2:15]** Det skal du hella olje yver og leggja røykjelse attmed; då er det eit rett grjonoffer.
 
-**[2:16]** Og presten skal brenna noko av det grøypte kornet og av oljen og all røykjelsen, so røyken stig upp mot himmelen til ei minning; då er det ein god offerrett for Herren. 
+**[2:16]** Og presten skal brenna noko av det grøypte kornet og av oljen og all røykjelsen, so røyken stig upp mot himmelen til ei minning; då er det ein god offerrett for Herren.
 
 ### Chapter 3
 
@@ -5782,7 +5782,7 @@
 
 **[3:16]** og presten skal brenna det på altaret, so røyken stig upp mot himmelen; då er det ein offerrett som angar godt. Alt feitt høyrer Herren til.
 
-**[3:17]** Ei æveleg lov skal det vera for dykk og etterkomarane dykkar i kvar ein heim, at de aldri må eta feitt og blod.»» 
+**[3:17]** Ei æveleg lov skal det vera for dykk og etterkomarane dykkar i kvar ein heim, at de aldri må eta feitt og blod.»»
 
 ### Chapter 4
 
@@ -5854,7 +5854,7 @@
 
 **[4:34]** Og presten skal taka noko av syndofferblodet på fingeren, og strjuka det på horni åt brennofferaltaret, og det som er att av blodet, skal han hella ut tett innmed altarfoten.
 
-**[4:35]** Alt feittet skal han taka utor, liksom dei gjer med takkoffersauen, og presten skal brenna det på altaret saman med offerretterne åt Herren. Når presten soleis hev bore fram soningsoffer for den syndi han hev gjort, skal han få tilgjeving. 
+**[4:35]** Alt feittet skal han taka utor, liksom dei gjer med takkoffersauen, og presten skal brenna det på altaret saman med offerretterne åt Herren. Når presten soleis hev bore fram soningsoffer for den syndi han hev gjort, skal han få tilgjeving.
 
 ### Chapter 5
 
@@ -5894,7 +5894,7 @@
 
 **[5:18]** so skal han til bot for si skuld koma til presten med ein lytelaus ver av fenaden sin, ein som etter ditt skyn er eit fullgodt offer; og presten skal bera fram soningsoffer for den misgjerdi han hev gjort og ikkje visste av, og då skal han få tilgjeving.
 
-**[5:19]** Dette er eit skuldoffer; for det var visst at han bar på ei skuld imot Herren.» Og Herren tala atter til Moses, og sagde: «Når nokon syndar og gjer svik imot Herren og dyl burt noko som grannen hev gjeve honom i varveitsla eller sett i vissa hjå honom, eller som han hev teke eller truga til seg av grannen, eller han finn noko som ein annan hev mist og so dyl det, eller når han gjer rang eid um eitt eller anna som han eller andre kann ha synda med, so skal den som soleis hev synda og ført skuld yver seg, gjeva att det han hev teke, eller truga til seg, eller fenge i varveitsla eller funne, og det han hev gjort rang eid um, kva det no kann vera. Han skal gjeva det att med fullt verd, og leggja femteparten attåt; til eigarmannen skal han gjeva det, og det same dagen som han ber fram skuldofferet sitt. Og til bot for si skuld skal han koma til Herren med ein lytelaus ver av fenaden sin, ein som etter ditt skyn er eit fullgodt offer, og gjeva honom til presten; det skal vera skuldofferet hans. So skal presten gjera soning for honom for Herrens åsyn, og då skal han få tilgjeving for alle gjerningar som han kann ha ført skuld yver seg med.» 
+**[5:19]** Dette er eit skuldoffer; for det var visst at han bar på ei skuld imot Herren.» Og Herren tala atter til Moses, og sagde: «Når nokon syndar og gjer svik imot Herren og dyl burt noko som grannen hev gjeve honom i varveitsla eller sett i vissa hjå honom, eller som han hev teke eller truga til seg av grannen, eller han finn noko som ein annan hev mist og so dyl det, eller når han gjer rang eid um eitt eller anna som han eller andre kann ha synda med, so skal den som soleis hev synda og ført skuld yver seg, gjeva att det han hev teke, eller truga til seg, eller fenge i varveitsla eller funne, og det han hev gjort rang eid um, kva det no kann vera. Han skal gjeva det att med fullt verd, og leggja femteparten attåt; til eigarmannen skal han gjeva det, og det same dagen som han ber fram skuldofferet sitt. Og til bot for si skuld skal han koma til Herren med ein lytelaus ver av fenaden sin, ein som etter ditt skyn er eit fullgodt offer, og gjeva honom til presten; det skal vera skuldofferet hans. So skal presten gjera soning for honom for Herrens åsyn, og då skal han få tilgjeving for alle gjerningar som han kann ha ført skuld yver seg med.»
 
 ### Chapter 6
 
@@ -5942,7 +5942,7 @@
 
 **[6:22]** Alle menner som er prestar, må eta av dette offeret; det er høgheilagt.
 
-**[6:23]** Men dei syndofferi som det vert bore blod av inn i møtetjeldet til å sona med i heilagdomen, dei må aldri etast; dei skal brennast i elden. 
+**[6:23]** Men dei syndofferi som det vert bore blod av inn i møtetjeldet til å sona med i heilagdomen, dei må aldri etast; dei skal brennast i elden.
 
 **[6:24]** 
 
@@ -6034,7 +6034,7 @@
 
 **[7:37]** Dette var lovi um brennofferet og um grjonofferet og um syndofferet og um skuldofferet og um vigsleofferet og um takkofferet,
 
-**[7:38]** den som Herren kunngjorde for Moses på Sinaifjellet, den gongen han gav Israels-folket det bodet at dei skulde bera fram offergåvorne sine for Herren i øydemarki kring Sinai. 
+**[7:38]** den som Herren kunngjorde for Moses på Sinaifjellet, den gongen han gav Israels-folket det bodet at dei skulde bera fram offergåvorne sine for Herren i øydemarki kring Sinai.
 
 ### Chapter 8
 
@@ -6108,7 +6108,7 @@
 
 **[8:35]** Og i møtetjelddøri skal de sitja dag og natt i sju jamdøger og halda dykk etter det som Herren hev sagt, so de ikkje skal missa livet; for so hev Herren sagt med meg.»
 
-**[8:36]** Og Aron og sønerne hans gjorde alt det som Herren hadde late Moses segja til deim. 
+**[8:36]** Og Aron og sønerne hans gjorde alt det som Herren hadde late Moses segja til deim.
 
 ### Chapter 9
 
@@ -6158,7 +6158,7 @@
 
 **[9:23]** Sidan gjekk Moses og Aron inn i møtetjeldet, og då dei kom ut att, velsigna dei folket. Då synte herlegdomen åt Herren seg for heile folket,
 
-**[9:24]** og det for eld ut frå Herren åsyn og brende upp det som var på altaret, både brennofferet og feittet, og då folket såg det, ropa dei alle høgt av gleda, og kasta seg ned, med andlitet mot jordi. 
+**[9:24]** og det for eld ut frå Herren åsyn og brende upp det som var på altaret, både brennofferet og feittet, og då folket såg det, ropa dei alle høgt av gleda, og kasta seg ned, med andlitet mot jordi.
 
 ### Chapter 10
 
@@ -6200,7 +6200,7 @@
 
 **[10:19]** Då svara Aron: «Du veit at dei i dag hev bore fram syndofferet og brennofferet sitt for Herrens åsyn, og endå hev slik ei ulukka hendt meg. Um eg no hadde ete syndoffer i dag, trur du då Herren hadde tykt vel um det?»
 
-**[10:20]** Då Moses høyrde det, tykte han det var rett. 
+**[10:20]** Då Moses høyrde det, tykte han det var rett.
 
 ### Chapter 11
 
@@ -6296,7 +6296,7 @@
 
 **[11:46]** Dette er lovi um dyri og fuglarne og alt det livande som leikar i vatnet, og alle dei kvikjende som yrer på jordi,
 
-**[11:47]** so de kann skilja det reine frå det ureine, og dei dyri som kann etast frå deim, som ikkje må etast.»» 
+**[11:47]** so de kann skilja det reine frå det ureine, og dei dyri som kann etast frå deim, som ikkje må etast.»»
 
 ### Chapter 12
 
@@ -6314,7 +6314,7 @@
 
 **[12:7]** og presten skal ofra det for Herrens åsyn, og gjera soning for henne, so ho vert rein etter blødingi. Denne lovi gjeld for alle kvende som hev fenge barn, anten det er son eller dotter.
 
-**[12:8]** Men den sim ikkje hev råd til å ofra eit lamb, skal ho taka tvo turtelduvor eller tvo duveungar, den eine til brennoffer og den andre til syndoffer, og presten skal gjera soning for henne; då vert ho rein att.»» 
+**[12:8]** Men den sim ikkje hev råd til å ofra eit lamb, skal ho taka tvo turtelduvor eller tvo duveungar, den eine til brennoffer og den andre til syndoffer, og presten skal gjera soning for henne; då vert ho rein att.»»
 
 ### Chapter 13
 
@@ -6366,7 +6366,7 @@
 
 **[13:24]** Hev nokon fenge eit brunesår på hudi, og kjøtet som gror i såret ter seg som ein bleikraud eller kvit flekk,
 
-**[13:25]** so skal presten skoda såret. Synest då flekken liggja djupare enn skinnet, og hev håri på honom kvitna, so er det spillsykja som hev brote ut i brunesåret, og presten skal segja mannen urein; det er spillsykja, det er ’kje til å taka mist av.
+**[13:25]** so skal presten skoda såret. Synest då flekken liggja djupare enn skinnet, og hev håri på honom kvitna, so er det spillsykja som hev brote ut i brunesåret, og presten skal segja mannen urein; det er spillsykja, det er’kje til å taka mist av.
 
 **[13:26]** Men ser presten, når han skodar flekken, at det ikkje er kvite hår på honom, og at han ikkje er lågare enn skinnet, og at han er dim, so skal han stengja mannen inne i sju dagar.
 
@@ -6434,7 +6434,7 @@
 
 **[13:58]** Men dei klædi og det vovne og bundne tyet, og det leret som flekkjerne gjeng burt av når ein tvær det, det skal tvåast upp att, so er det reint.
 
-**[13:59]** Dette er lovi um åtflekkjer på ull- eller linklæde og vevnad og bunding, og allslags ting som er gjorde av ler, so de kann vita når sovore skal haldast for reint, og når det skal haldast for ureint.» 
+**[13:59]** Dette er lovi um åtflekkjer på ull- eller linklæde og vevnad og bunding, og allslags ting som er gjorde av ler, so de kann vita når sovore skal haldast for reint, og når det skal haldast for ureint.»
 
 ### Chapter 14
 
@@ -6550,7 +6550,7 @@
 
 **[14:56]** og um notror og utbrot og ljose flekkjer på hudi,
 
-**[14:57]** so de kann vita når noko er ureint, og når det er reint.» Dette var lovi um spillsykja. 
+**[14:57]** so de kann vita når noko er ureint, og når det er reint.» Dette var lovi um spillsykja.
 
 ### Chapter 15
 
@@ -6618,7 +6618,7 @@
 
 **[15:32]** Dette er lovi um deim som hev flod: um menner som det gjeng såd frå, so dei vert ureine,
 
-**[15:33]** og um kvende som hev månadstidi si, og um folk som er flodsjuke, både menner og kvende, og um menner som ligg med ureine kvende.»» 
+**[15:33]** og um kvende som hev månadstidi si, og um folk som er flodsjuke, både menner og kvende, og um menner som ligg med ureine kvende.»»
 
 ### Chapter 16
 
@@ -6688,7 +6688,7 @@
 
 **[16:33]** og gjera soning for det høgheilage romet og møtetjeldet og altaret; og prestarne og heila ålmugen skal han og gjera soning for.
 
-**[16:34]** Det skal vera ei æveleg lov hjå dykk, at dei ein gong um året skal gjera soning for Israels-borni og reinsa deim for alle synderne deira.» Og Aron gjorde som Herren hadde sagt til Moses. 
+**[16:34]** Det skal vera ei æveleg lov hjå dykk, at dei ein gong um året skal gjera soning for Israels-borni og reinsa deim for alle synderne deira.» Og Aron gjorde som Herren hadde sagt til Moses.
 
 ### Chapter 17
 
@@ -6722,7 +6722,7 @@
 
 **[17:15]** Hev nokon mann, anten han er fødd i landet eller han er framand, ete av eit dyr som er sjølvdaudt eller ihelrive, so skal han två klædi sine og lauga seg, og er urein alt til kvelds; sidan er han rein.
 
-**[17:16]** Tvær han ikkje klædi sine og ikkje laugar likamen sin, so gjer han ei synd som han lyt lida for.»» 
+**[17:16]** Tvær han ikkje klædi sine og ikkje laugar likamen sin, so gjer han ei synd som han lyt lida for.»»
 
 ### Chapter 18
 
@@ -6784,7 +6784,7 @@
 
 **[18:29]** For alle dei som gjer slike skjemdarverk, dei skal rydjast ut or folket sitt.
 
-**[18:30]** So haldt då dei bodi eg hev gjeve dykk, og tak ikkje etter dei fæle ugjerderne som dei hadde, dei som var fyre dykk; for med det gjer de dykk ureine: Kom i hug: eg er Herren, dykkar Gud!»» 
+**[18:30]** So haldt då dei bodi eg hev gjeve dykk, og tak ikkje etter dei fæle ugjerderne som dei hadde, dei som var fyre dykk; for med det gjer de dykk ureine: Kom i hug: eg er Herren, dykkar Gud!»»
 
 ### Chapter 19
 
@@ -6860,7 +6860,7 @@
 
 **[19:36]** rett vegt og rette lodd, rett skjeppa og rett kanna skal de bruka. Eg er Herren, dykkar Gud, som fylgde dykk ut or Egyptarlandet.
 
-**[19:37]** Agta vel på alle loverne og retterne mine, og liv etter deim! Kom i hug: eg er Herren!»» 
+**[19:37]** Agta vel på alle loverne og retterne mine, og liv etter deim! Kom i hug: eg er Herren!»»
 
 ### Chapter 20
 
@@ -6916,7 +6916,7 @@
 
 **[20:26]** De skal vera meg heilage; for eg, Herren, er heilag, og eg hev skilt dykk ut frå alle andre folkeslag, so de skal høyra meg til.
 
-**[20:27]** Er det nokon mann eller noko kvende som fer med å mana fram draugar eller spåvette, so skal dei lata livet: dei skal steinast i hel, og blodet deira kjem på deim sjølve.»» 
+**[20:27]** Er det nokon mann eller noko kvende som fer med å mana fram draugar eller spåvette, so skal dei lata livet: dei skal steinast i hel, og blodet deira kjem på deim sjølve.»»
 
 ### Chapter 21
 
@@ -6966,7 +6966,7 @@
 
 **[21:23]** men etter di det er lyte på honom, må han ikkje ganga fram til forhenget, og ikkje koma innåt altaret; for då vanhelgar han heilagdomarne mine. Kom i hug: det er eg, Herren, som hev helga deim.»»
 
-**[21:24]** Og Moses sagde alt dette til Aron og sønerne hans og til heile Israels-lyden. 
+**[21:24]** Og Moses sagde alt dette til Aron og sønerne hans og til heile Israels-lyden.
 
 ### Chapter 22
 
@@ -7034,7 +7034,7 @@
 
 **[22:32]** Vanhelga ikkje mitt heilage namn, men lat det helgast hjå Israels-folket! Kom ihug: eg er Herren, som hev helga dykk,
 
-**[22:33]** og som fylgde dykk ut or Egyptarlandet og vil vera dykkar Gud - eg, Herren.» 
+**[22:33]** og som fylgde dykk ut or Egyptarlandet og vil vera dykkar Gud - eg, Herren.»
 
 ### Chapter 23
 
@@ -7124,7 +7124,7 @@
 
 **[23:43]** so etterkomarane dykkar skal minnast at eg let Israels-sønerne bu i lauvhyttor då eg fylgde deim ut or Egyptarlandet, eg, Herren, deira Gud.»»
 
-**[23:44]** Og Moses kunngjorde Herrens høgtider for Israels-folket. 
+**[23:44]** Og Moses kunngjorde Herrens høgtider for Israels-folket.
 
 ### Chapter 24
 
@@ -7172,7 +7172,7 @@
 
 **[24:22]** Det er same retten for dykk alle, for den framande likso vel som for den som er fødd og boren i landet; for eg, Herren, er dykkar Gud.»»
 
-**[24:23]** Og Moses kunngjorde dette for Israels-folket, og dei førde spottaren ut or lægret, og steina honom i hel: Israels-mennerne gjorde som Herren hadde sagt til Moses. 
+**[24:23]** Og Moses kunngjorde dette for Israels-folket, og dei førde spottaren ut or lægret, og steina honom i hel: Israels-mennerne gjorde som Herren hadde sagt til Moses.
 
 ### Chapter 25
 
@@ -7284,7 +7284,7 @@
 
 **[25:54]** Vert han ikkje utløyst på den måten som nemnt er, so vert han fri i jubelåret, både han og borni hans.
 
-**[25:55]** For meg høyrer Israels-sønerne til, og er tenarane mine - mine tenarar er dei; eg henta deim ut or Egyptarlandet, eg, Herren, dykkar Gud. 
+**[25:55]** For meg høyrer Israels-sønerne til, og er tenarane mine - mine tenarar er dei; eg henta deim ut or Egyptarlandet, eg, Herren, dykkar Gud.
 
 ### Chapter 26
 
@@ -7298,7 +7298,7 @@
 
 **[26:5]** Treskjartidi skal vera hjå dykk til vinonni byrjar, og vinonni vara til vinteren, og de skal eta dykk mette av maten som de hev avla, og liva trygge i landet.
 
-**[26:6]** Fred vil eg gjeva i landet: de skal liggja og kvila, og ingen skal skræma dykk upp; udyri, deim vil eg øyda, so dei kverv burt ifrå landet, og sverd skal ’kje herja i riket;
+**[26:6]** Fred vil eg gjeva i landet: de skal liggja og kvila, og ingen skal skræma dykk upp; udyri, deim vil eg øyda, so dei kverv burt ifrå landet, og sverd skal’kje herja i riket;
 
 **[26:7]** uvenerne skal de elta, og dei skal stupa framfor dykk:
 
@@ -7314,7 +7314,7 @@
 
 **[26:13]** Eg er dykkar Gud, eg, Herren, som henta dykk ut or Egyptarlandet, der som de træla for andre; eg braut sund stengern’ i oket, so de kunde ganga rake.
 
-**[26:14]** Men vil de ’kje høyra på meg, og gjer de ’kje alt det eg baud dykk,
+**[26:14]** Men vil de’kje høyra på meg, og gjer de’kje alt det eg baud dykk,
 
 **[26:15]** mismæter de mine rettar og leidest loverne mine, so de ikkje gjer som eg sagde, og bryt de sambandet med meg,
 
@@ -7322,25 +7322,25 @@
 
 **[26:17]** Eg kvesser augo imot dykk: for fienden skal de rjuka, uvenen skal trakka dykk ned; de skal røma, um ingen er etter dykk.
 
-**[26:18]** Og vil de endå ’kje lyda, so skal eg refsa dykk meir, sju gonger, for synderne dykkar.
+**[26:18]** Og vil de endå’kje lyda, so skal eg refsa dykk meir, sju gonger, for synderne dykkar.
 
 **[26:19]** Eg bryt dykkar ovmod og magt: eg gjer dykkar himmel som jarn, og jordi dykkar som kopar.
 
 **[26:20]** Då øyder de nyttelaust krafti; for jordi gjev ingi grøda, og trei gjev ingi alda.
 
-**[26:21]** Og gjer de meg endå imot, og vil de ’kje høyra på meg, so slær eg dykk endå sju gonger, som synderne dykkar er verde.
+**[26:21]** Og gjer de meg endå imot, og vil de’kje høyra på meg, so slær eg dykk endå sju gonger, som synderne dykkar er verde.
 
 **[26:22]** Imot dykk sender eg udyr som ranar borni ifrå dykk, og drep ned bufeet dykkar, og veld at de tynnest i talet, so vegarne dykkar vert aude.
 
-**[26:23]** Og let de dykk endå ’kje tukta, men driv på og gjer meg imot,
+**[26:23]** Og let de dykk endå’kje tukta, men driv på og gjer meg imot,
 
 **[26:24]** so gjer eg og dykk imot, og slær dykk endå sju gonger for alt det som de hev synda;
 
 **[26:25]** eg sender eit sverd yver dykk, som skal hemna pakti de braut; og samlar de dykk i byarn’, so sender eg sott inn ibland dykk, og de skal falla i fiendehand.
 
-**[26:26]** Eg skal minka soleis på maten, som var dykkar styrk og studnad, at tie konor skal steikja brødet åt dykk i ein omn; dei skal gjeva det att etter vegt, og de skal ’kje få eta dykk mette.
+**[26:26]** Eg skal minka soleis på maten, som var dykkar styrk og studnad, at tie konor skal steikja brødet åt dykk i ein omn; dei skal gjeva det att etter vegt, og de skal’kje få eta dykk mette.
 
-**[26:27]** Og høyrer de endå ’kje på meg, og herder de på og trassar,
+**[26:27]** Og høyrer de endå’kje på meg, og herder de på og trassar,
 
 **[26:28]** so fer eg imot dykk med vreide, og refsar dykk endå sju gonger for alle syndern’ de gjorde.
 
@@ -7378,7 +7378,7 @@
 
 **[26:45]** Eg vil minnast mi pakt med dei gamle, som eg henta ut or Egyptarland midt for augo på heidningefolki, og var deira Gud, eg, Herren!»»
 
-**[26:46]** Dette er dei bodi og rettarne og loverne som Herren sette millom seg og Israels-folket på Sinaifjellet og let Moses kunngjera for deim. 
+**[26:46]** Dette er dei bodi og rettarne og loverne som Herren sette millom seg og Israels-folket på Sinaifjellet og let Moses kunngjera for deim.
 
 ### Chapter 27
 
@@ -7448,7 +7448,7 @@
 
 **[27:33]** Ein skal ikkje sjå etter um det er godt eller ringt, og ikkje byta det um. Vert det bytt i eit anna dyr, so skal dei høyra heilagdomen båe, og kann ikkje verta attløyste.»»
 
-**[27:34]** Dette var dei loverne som Herren gav Moses på Sinaifjellet og baud honom kunngjera for Israels-folket.  
+**[27:34]** Dette var dei loverne som Herren gav Moses på Sinaifjellet og baud honom kunngjera for Israels-folket.
 
 ## Numbers
 
@@ -7560,7 +7560,7 @@
 
 **[1:53]** men levitarne skal lægra seg kringum gudshuset, so det ikkje skal koma vreide yver Israels-lyden; for det er levitarne som skal taka vare på gudshuset.»
 
-**[1:54]** Og Israels-borni gjorde so; dei gjorde i alle måtar som Herren hadde sagt med Moses. 
+**[1:54]** Og Israels-borni gjorde so; dei gjorde i alle måtar som Herren hadde sagt med Moses.
 
 ### Chapter 2
 
@@ -7630,7 +7630,7 @@
 
 **[2:33]** Men levitarne vart ikkje mynstra saman med hitt Israels-folket; for det hadde Herren sagt med Moses at han ikkje skulde gjera.
 
-**[2:34]** Og Israels-sønerne gjorde i eitt og alt som Herren hadde sagt med Moses; soleis lægra dei seg under fanorne sine, og soleis drog dei fram, kvar etter si ætt og med sine frendar. 
+**[2:34]** Og Israels-sønerne gjorde i eitt og alt som Herren hadde sagt med Moses; soleis lægra dei seg under fanorne sine, og soleis drog dei fram, kvar etter si ætt og med sine frendar.
 
 ### Chapter 3
 
@@ -7734,7 +7734,7 @@
 
 **[3:50]** av desse same frumborne Israels-borni fekk han pengarne - det var eit tusund og tri hundrad og fem og seksti dalar i heilag mynt -
 
-**[3:51]** og han gav deim til Aron og sønerne hans etter Herrens ord; for so hadde Herren sagt med honom. 
+**[3:51]** og han gav deim til Aron og sønerne hans etter Herrens ord; for so hadde Herren sagt med honom.
 
 ### Chapter 4
 
@@ -7834,7 +7834,7 @@
 
 **[4:48]** so var det åtte tusund og fem hundrad og åtteti mann.
 
-**[4:49]** Dei vart no etter Herrens bod sette til å gjera kvar sitt arbeid og bera kvar si byrd og greida kvar si ærend, og Moses rettleide deim, som Herren hadde sagt med honom. 
+**[4:49]** Dei vart no etter Herrens bod sette til å gjera kvar sitt arbeid og bera kvar si byrd og greida kvar si ærend, og Moses rettleide deim, som Herren hadde sagt med honom.
 
 ### Chapter 5
 
@@ -7898,7 +7898,7 @@
 
 **[5:30]** eller når det kjem ei åbryskap yver ein mann, so han mistrur kona si, då skal han leida kona fram for Herrens åsyn, og presten skal gjera med henne so som er sagt i denne lovi.
 
-**[5:31]** Mannen skal vera fri for skuld, men kona lyt lida for brotet sitt.»» 
+**[5:31]** Mannen skal vera fri for skuld, men kona lyt lida for brotet sitt.»»
 
 ### Chapter 6
 
@@ -7954,7 +7954,7 @@
 
 **[6:26]** Herren lyfte si åsyn på deg, og gjeve deg fred!»»
 
-**[6:27]** Dei skal lysa mitt namn yver Israels-borni, so vil eg velsigna deim.» 
+**[6:27]** Dei skal lysa mitt namn yver Israels-borni, so vil eg velsigna deim.»
 
 ### Chapter 7
 
@@ -8134,7 +8134,7 @@
 
 **[7:88]** og av takkoffer-fe fire og tjuge uksar og seksti verar og seksti bukkar og seksti årsgamle verlamb. Det var vigslegåvorne som vart framborne då altaret var salva.
 
-**[7:89]** Då so Moses gjekk inn i møtetjeldet og skulde tala med Herren, so høyrde han ei røyst som tala til honom frå romet yver lovtavlekista millom båe kerubarne - der tala Gud til honom. 
+**[7:89]** Då so Moses gjekk inn i møtetjeldet og skulde tala med Herren, so høyrde han ei røyst som tala til honom frå romet yver lovtavlekista millom båe kerubarne - der tala Gud til honom.
 
 ### Chapter 8
 
@@ -8188,7 +8188,7 @@
 
 **[8:25]** men so snart dei hev fyllt femti år, skal dei gjeva seg utor tenesta, og ikkje arbeida lenger.
 
-**[8:26]** Dei kann vera brørne sine til hjelp i møtetjeldet med eitt og anna som er å gjera der, men dei skal ikkje hava fast tenesta. Soleis skal du skipa det med levitarne og tenesta deira.» 
+**[8:26]** Dei kann vera brørne sine til hjelp i møtetjeldet med eitt og anna som er å gjera der, men dei skal ikkje hava fast tenesta. Soleis skal du skipa det med levitarne og tenesta deira.»
 
 ### Chapter 9
 
@@ -8236,7 +8236,7 @@
 
 **[9:22]** Eller ho låg der eit par dagar, eller ein månad, eller endå lenger. Når skyi drygde so lenge, og vart liggjande yver gudshuset, heldt Israels-folket seg i lægret og tok ikkje ut; men so snart ho steig til vers, tok dei ut.
 
-**[9:23]** Etter Herrens ord lægra dei seg, og etter Herrens ord tok dei ut. Dei retta seg etter Herrens vilje, soleis som Moses hadde sagt deim frå Herren. 
+**[9:23]** Etter Herrens ord lægra dei seg, og etter Herrens ord tok dei ut. Dei retta seg etter Herrens vilje, soleis som Moses hadde sagt deim frå Herren.
 
 ### Chapter 10
 
@@ -8310,7 +8310,7 @@
 
 **[10:35]** Og kvar gong kista tok i veg, kvad Moses: «Reis deg, Herre, so fienden ryk og uvenern’ dine rømer for deg!»
 
-**[10:36]** Og når ho let seg ned, kvad han: «Herre, kom atter til alle dei tusund Israels-ætter!» 
+**[10:36]** Og når ho let seg ned, kvad han: «Herre, kom atter til alle dei tusund Israels-ætter!»
 
 ### Chapter 11
 
@@ -8382,7 +8382,7 @@
 
 **[11:34]** Difor kallar dei den staden Kibrot-Hatta’ava; for der vart dei jorda dei som hadde vore so fysne.
 
-**[11:35]** Frå Kibrot-Hatta’ava for folket til Haserot, og der vart dei verande ei tid. 
+**[11:35]** Frå Kibrot-Hatta’ava for folket til Haserot, og der vart dei verande ei tid.
 
 ### Chapter 12
 
@@ -8416,7 +8416,7 @@
 
 **[12:15]** So stengde dei Mirjam ute frå lægret i sju dagar, og folket tok ikkje av stad, fyrr dei hadde teke henne inn att.
 
-**[12:16]** Sidan tok folket ut frå Haserot, og slo læger i Paranheidi. 
+**[12:16]** Sidan tok folket ut frå Haserot, og slo læger i Paranheidi.
 
 ### Chapter 13
 
@@ -8484,7 +8484,7 @@
 
 **[13:32]** Og dei lasta burt landet for Israels-folket, og sagde: «Det landet me for igjenom og skoda, er eit land til å øyda ut folk; og alle me såg der, var kjempekarar;
 
-**[13:33]** der såg me risarne, Anaks-sønerne, som er av riseætt, og mot deim tyktest me å vera berre som engsprettor, og so tykte dei og.» 
+**[13:33]** der såg me risarne, Anaks-sønerne, som er av riseætt, og mot deim tyktest me å vera berre som engsprettor, og so tykte dei og.»
 
 ### Chapter 14
 
@@ -8576,7 +8576,7 @@
 
 **[14:44]** Like vel var dei so uvyrdne at dei styrmde av stad til høgfjellet. Men Herrens sambandskista og Moses flutte seg ikkje frå lægret.
 
-**[14:45]** Og amalekitarne og kananitarne, som budde på det fjellet, kom ned, og slo deim og jaga deim frå einannan, og elte deim alt til Horma. 
+**[14:45]** Og amalekitarne og kananitarne, som budde på det fjellet, kom ned, og slo deim og jaga deim frå einannan, og elte deim alt til Horma.
 
 ### Chapter 15
 
@@ -8660,7 +8660,7 @@
 
 **[15:40]** Det er so de skal koma i hug å halda alle bodi mine og vera heilage for dykkar Gud.
 
-**[15:41]** Eg er Herren, dykkar Gud, som førde dykk ut or Egyptarlandet, og vil vera dykkar Gud. Eg, Herren, er dykkar Gud.» 
+**[15:41]** Eg er Herren, dykkar Gud, som førde dykk ut or Egyptarlandet, og vil vera dykkar Gud. Eg, Herren, er dykkar Gud.»
 
 ### Chapter 16
 
@@ -8762,7 +8762,7 @@
 
 **[16:49]** men det var fjortan tusund og sju hundrad som døydde i den sotti, umfram deim som miste livet for Korahs skuld.
 
-**[16:50]** Då sotti hadde gjeve seg, gjekk Aron attende til Moses, til møtetjelddøri. 
+**[16:50]** Då sotti hadde gjeve seg, gjekk Aron attende til Moses, til møtetjelddøri.
 
 ### Chapter 17
 
@@ -8790,7 +8790,7 @@
 
 **[17:12]** Men Israels-borni sagde til Moses: «Sjå no er det ute med oss; me døyr, me døyr alle saman!
 
-**[17:13]** Kjem nokon innåt - innåt Herrens hus - so misser han livet. Er det ikkje då ute med oss alle?» 
+**[17:13]** Kjem nokon innåt - innåt Herrens hus - so misser han livet. Er det ikkje då ute med oss alle?»
 
 ### Chapter 18
 
@@ -8856,7 +8856,7 @@
 
 **[18:31]** de kann eta det kvar de vil, både de og folket dykkar; for det er løni de skal hava for arbeidet i møtetjeldet.
 
-**[18:32]** De ber ingi synd for det, når det berre gjev frå dykk det beste, og de vanhelgar ikkje dei heilage gåvorne frå Israels-folket, og skal ikkje lata livet.»» 
+**[18:32]** De ber ingi synd for det, når det berre gjev frå dykk det beste, og de vanhelgar ikkje dei heilage gåvorne frå Israels-folket, og skal ikkje lata livet.»»
 
 ### Chapter 19
 
@@ -8902,7 +8902,7 @@
 
 **[19:21]** Dette skal vera ei æveleg lov hjå deim. Den som skvette skiringsvatnet, skal tvo klædi sine, og den som kjem nær skiringsvatnet, er urein alt til kvelds.
 
-**[19:22]** Alt det den ureine kjem nær, vert ureint, og alle som kjem innåt honom, er ureine til kvelds.»» 
+**[19:22]** Alt det den ureine kjem nær, vert ureint, og alle som kjem innåt honom, er ureine til kvelds.»»
 
 ### Chapter 20
 
@@ -8940,9 +8940,9 @@
 
 **[20:17]** Snilde deg, lat oss få fara igjenom landet ditt! Me skal ikkje ganga yver åkrarne eller vinhagarne, og ikkje taka vatn or brunnarne; me skal fara etter kongsvegen og ikkje taka av, korkje til høgre eller vinstre, fyrr me er komne igjenom landet ditt.»»
 
-**[20:18]** Men Edom svara: «Du må ’kje fara fram her; gjer du det, so møter eg deg med sverd i hand.»
+**[20:18]** Men Edom svara: «Du må’kje fara fram her; gjer du det, so møter eg deg med sverd i hand.»
 
-**[20:19]** «Eg skal fylgja storvegen,» sagde Israel, «og dersom eg drikk av vatnet ditt, eg eller buskapen min, so skal eg gjeva deg like for det. Det kann då ’kje gjera noko um eg gjeng etter vegen.»
+**[20:19]** «Eg skal fylgja storvegen,» sagde Israel, «og dersom eg drikk av vatnet ditt, eg eller buskapen min, so skal eg gjeva deg like for det. Det kann då’kje gjera noko um eg gjeng etter vegen.»
 
 **[20:20]** «Nei, du slepp ikkje fram her,» svara Edom, og gjekk imot deim med mykje folk og våpn.
 
@@ -8962,7 +8962,7 @@
 
 **[20:28]** og Moses tok av Aron presteklædi, og hadde deim på Eleazar, son hans. So døydde Aron der uppå fjellet, og då Moses og Eleazar kom ned av fjellet,
 
-**[20:29]** og folket såg at Aron var burte, då syrgde alle Israels-ætterne yver honom i tretti dagar. 
+**[20:29]** og folket såg at Aron var burte, då syrgde alle Israels-ætterne yver honom i tretti dagar.
 
 ### Chapter 21
 
@@ -9034,7 +9034,7 @@
 
 **[21:34]** Men Herren sagde til Moses: «Du treng ikkje vera rædd honom! Eg gjev honom i dine hender med alt folket og landet hans, og du kann gjera med honom som du gjorde med Sihon, kongen yver amoritarne, som budde i Hesbon.»
 
-**[21:35]** So hogg dei honom ned, både honom og sønerne og folket hans, so ingen vart att eller slapp undan, og sidan eigna dei åt seg landet. 
+**[21:35]** So hogg dei honom ned, både honom og sønerne og folket hans, so ingen vart att eller slapp undan, og sidan eigna dei åt seg landet.
 
 ### Chapter 22
 
@@ -9096,7 +9096,7 @@
 
 **[22:29]** «Du hev havt meg til narr,» svara Bileam. «Hadde eg havt eit sverd i handi, so hadde eg slege deg i hel med det same.»
 
-**[22:30]** Då sagde asna: «Er ’kje eg asna di, som du hev ride på alt du hev vore til? Hev eg då havt for vis å fara soleis med deg?» «Nei,» sagde Bileam,
+**[22:30]** Då sagde asna: «Er’kje eg asna di, som du hev ride på alt du hev vore til? Hev eg då havt for vis å fara soleis med deg?» «Nei,» sagde Bileam,
 
 **[22:31]** og i det same opna Herren augo hans, so han såg Herrens engel, som stod på vegen med drege sverd i handi. Då kasta han seg på kne, og bøygde hovudet.
 
@@ -9118,7 +9118,7 @@
 
 **[22:40]** Der slagta Balak storfe og småfe, og sende til Bileam og dei hovdingarne som var med honom.
 
-**[22:41]** Morgonen etter tok kongen Bileam med seg upp på Bamot-Ba’al; derifrå kunde han sjå enden av Israels-lægret. 
+**[22:41]** Morgonen etter tok kongen Bileam med seg upp på Bamot-Ba’al; derifrå kunde han sjå enden av Israels-lægret.
 
 ### Chapter 23
 
@@ -9138,7 +9138,7 @@
 
 **[23:8]** Koss kann eg beda vondt yv’ den som Gud vil vel og ikkje vondt, og lysa heitan harm yv’ ein som Herren ikkje harmast på?
 
-**[23:9]** Frå høgste nuten ser eg han, frå haugarn’ eg augna kann: Ein lyd som liver for seg sjølv. Med heidningfolk held han ’kje lag.
+**[23:9]** Frå høgste nuten ser eg han, frå haugarn’ eg augna kann: Ein lyd som liver for seg sjølv. Med heidningfolk held han’kje lag.
 
 **[23:10]** Kven kann upprekna Jakobs ætt, og taka tal på Israel? Det vøre telja sand i strand og gyvet som på jordi fyk. Mått’ eg som desse gode døy, og få ei endelykt som dei!»
 
@@ -9180,7 +9180,7 @@
 
 **[23:29]** Då sagde Bileam til honom: «Bygg sju altar for meg her, og få meg hit sju unge uksar og sju verar!»
 
-**[23:30]** Og Balak gjorde som Bileam sagde, og på kvart alter ein ukse og ein ver. 
+**[23:30]** Og Balak gjorde som Bileam sagde, og på kvart alter ein ukse og ein ver.
 
 ### Chapter 24
 
@@ -9232,7 +9232,7 @@
 
 **[24:24]** Med skip frå Kittimleidi kjem; dei døyver Assur, døyver deim som burtanfyre elvi bur, so dei og utor heimen kverv.»
 
-**[24:25]** So gjorde Bileam seg reidug, og for heim att, og Balak tok og på si leid. 
+**[24:25]** So gjorde Bileam seg reidug, og for heim att, og Balak tok og på si leid.
 
 ### Chapter 25
 
@@ -9270,7 +9270,7 @@
 
 **[25:17]** «De skal søkja åt midjanitarne og slå deim ned;
 
-**[25:18]** for dei sat um dykk og lagde svikråder mot dykk då det hende, dette med Peor og Kozbi, frenka deira, hovdingdotteri frå Midjan, som vart drepi den gongen sotti kom yver dykk for Peors skuld.» 
+**[25:18]** for dei sat um dykk og lagde svikråder mot dykk då det hende, dette med Peor og Kozbi, frenka deira, hovdingdotteri frå Midjan, som vart drepi den gongen sotti kom yver dykk for Peors skuld.»
 
 ### Chapter 26
 
@@ -9402,7 +9402,7 @@
 
 **[26:64]** Millom deim fanst det ingen som Moses og Aron, øvstepresten, hadde skrive inn i manntalet då dei mynstra Israels-sønerne i Sinaiheidi.
 
-**[26:65]** For Herren hadde sagt at dei skulde døy i øydemarki, og no var det ingen annan att enn Kaleb, son åt Jefunne, og Josva, son åt Nun. 
+**[26:65]** For Herren hadde sagt at dei skulde døy i øydemarki, og no var det ingen annan att enn Kaleb, son åt Jefunne, og Josva, son åt Nun.
 
 ### Chapter 27
 
@@ -9450,7 +9450,7 @@
 
 **[27:22]** Moses gjorde som Moses sagde; han tok og leidde Josva fram for Eleazar, øvstepresten, og heile lyden,
 
-**[27:23]** og Eleazar lagde henderne på honom, og sette honom inn til styresmann, som Herren hadde havt Moses til å segja med honom. 
+**[27:23]** og Eleazar lagde henderne på honom, og sette honom inn til styresmann, som Herren hadde havt Moses til å segja med honom.
 
 ### Chapter 28
 
@@ -9514,7 +9514,7 @@
 
 **[28:30]** og so ein geitebukk til soning for dykk.
 
-**[28:31]** Det skal de ofra umfram det daglege brennofferet og grjonofferet som høyrer til. Offeri skal vera lytelause, og dei vanlege drykkofferi skal fylgja med. 
+**[28:31]** Det skal de ofra umfram det daglege brennofferet og grjonofferet som høyrer til. Offeri skal vera lytelause, og dei vanlege drykkofferi skal fylgja med.
 
 ### Chapter 29
 
@@ -9594,7 +9594,7 @@
 
 **[29:38]** og ein syndofferbukk, umfram det daglege brennofferet med sitt grjonoffer og drykkoffer.
 
-**[29:39]** Dette er det de skal ofra Herren på høgtiderne dykkar, umfram det de hev lova eller gjev i godvilje, anten det er brennoffer eller grjonoffer eller drykkoffer eller takkoffer.»» 
+**[29:39]** Dette er det de skal ofra Herren på høgtiderne dykkar, umfram det de hev lova eller gjev i godvilje, anten det er brennoffer eller grjonoffer eller drykkoffer eller takkoffer.»»
 
 **[29:40]** 
 
@@ -9630,7 +9630,7 @@
 
 **[30:15]** Men tegjer han um det til andre dagen, so hev han stadfest alt det ho hev lova eller bunde seg til; han hev stadfest det med di han tagde då han fekk vita det.
 
-**[30:16]** Og gjer han det fyrst um inkje ei tid etter han fekk høyra um det, so ber han ansvaret for brotet hennar.» Dette er dei fyresegnerne Herren gav Moses um den retten ein mann hev yver kona si, og ein far yver dotter si, so lenge ho er ung og er heime hjå faren. 
+**[30:16]** Og gjer han det fyrst um inkje ei tid etter han fekk høyra um det, so ber han ansvaret for brotet hennar.» Dette er dei fyresegnerne Herren gav Moses um den retten ein mann hev yver kona si, og ein far yver dotter si, so lenge ho er ung og er heime hjå faren.
 
 ### Chapter 31
 
@@ -9740,7 +9740,7 @@
 
 **[31:53]** Men mannskapet hadde og vunne mykje gull, kvar åt seg.
 
-**[31:54]** Då Moses og Eleazar, øvstepresten, hadde teke imot gullet av hovdingarne, bar dei det inn i møtetjeldet og gøymde det der til ei minning for Herren um Israels-folket. 
+**[31:54]** Då Moses og Eleazar, øvstepresten, hadde teke imot gullet av hovdingarne, bar dei det inn i møtetjeldet og gøymde det der til ei minning for Herren um Israels-folket.
 
 ### Chapter 32
 
@@ -9786,7 +9786,7 @@
 
 **[32:21]** og alle stridsmennerne dykkar fer yver Jordan for Herrens augo, til han hev drive fiendarne sine or syne,
 
-**[32:22]** og vender de ’kje heim att fyrr landet er vunne for Herrens augo, so hev de ingi skuld på dykk, korkje mot Herren eller Israel, og dette landet her skal vera dykkar eigedom med Herrens vilje.
+**[32:22]** og vender de’kje heim att fyrr landet er vunne for Herrens augo, so hev de ingi skuld på dykk, korkje mot Herren eller Israel, og dette landet her skal vera dykkar eigedom med Herrens vilje.
 
 **[32:23]** Men gjer de det ikkje, då syndar de imot Herren, og skal få kjenna at syndi finn dykk att.
 
@@ -9826,7 +9826,7 @@
 
 **[32:41]** Ja’ir, son åt Manasse, for av stad og tok tjeldbyarne deira, og kalla deim Ja’irsbyarne.
 
-**[32:42]** Og Nobah for av, og tok Kenatborgi og grenderne der ikring og gav borgi sitt eige namn, Nobah. 
+**[32:42]** Og Nobah for av, og tok Kenatborgi og grenderne der ikring og gav borgi sitt eige namn, Nobah.
 
 ### Chapter 33
 
@@ -9940,7 +9940,7 @@
 
 **[33:55]** Men driv de deim ikkje ut, dei som no bur i landet, so skal dei som de sparer verta tornar i augo og broddar i sidorne dykkar, og dei skal plåga dykk i dykkar eige land.
 
-**[33:56]** Og det som eg hadde sett meg fyre å gjera med deim, det skal eg då gjera med dykk.»» 
+**[33:56]** Og det som eg hadde sett meg fyre å gjera med deim, det skal eg då gjera med dykk.»»
 
 ### Chapter 34
 
@@ -10000,7 +10000,7 @@
 
 **[34:28]** og ein hovding av Naftali-ætti: Pedael, son åt Ammihud.»
 
-**[34:29]** Desse mennerne var det som Herren sagde skulde skifta eigedomarne millom Israels-sønerne i Kana’ans-landet. 
+**[34:29]** Desse mennerne var det som Herren sagde skulde skifta eigedomarne millom Israels-sønerne i Kana’ans-landet.
 
 ### Chapter 35
 
@@ -10070,7 +10070,7 @@
 
 **[35:33]** De skal ikkje vanhelga det landet de bur i; for blodet vanhelgar landet, og landet fær ikkje soning for blodet som hev runne der utan med blodet av den som rende det ut.
 
-**[35:34]** Difor skal du ikkje sulka det landet de bur i, og som eg hev min bustad i; for eg Herren, hev bustaden min millom Israels-folket.»» 
+**[35:34]** Difor skal du ikkje sulka det landet de bur i, og som eg hev min bustad i; for eg Herren, hev bustaden min millom Israels-folket.»»
 
 ### Chapter 36
 
@@ -10098,7 +10098,7 @@
 
 **[36:12]** med menner som var ætta frå Manasse, son åt Josef, gifte dei seg, so odelen deira kom til å fylgja den ætti dei høyrde til.
 
-**[36:13]** Dette var dei bodi og loverne som Herren let Moses kunngjera for Israels-folket på Moabmoarne ved Jordanelvi der ho renn frammed Jeriko.  
+**[36:13]** Dette var dei bodi og loverne som Herren let Moses kunngjera for Israels-folket på Moabmoarne ved Jordanelvi der ho renn frammed Jeriko.
 
 ## Deuteronomy
 
@@ -10194,7 +10194,7 @@
 
 **[1:45]** Då kom de attende, og klaga dykk for Herren; men Herren høyrde ikkje på dykk, og lydde ikkje på klagorne dykkar,
 
-**[1:46]** og de laut vera i Kades heile den lange tidi de veit. 
+**[1:46]** og de laut vera i Kades heile den lange tidi de veit.
 
 ### Chapter 2
 
@@ -10206,7 +10206,7 @@
 
 **[2:4]** Og til folket skal du segja so: «No kjem de til å fara gjenom riket åt brørne dykkar, Esaus-sønerne, dom bur i Se’ir, og dei vert rædde dykk; men agta dykk vel
 
-**[2:5]** at de ikkje yppar ufred med deim; eg kann ’kje lata dykk få so mykje som ei fotbreidd av landet deira; for Se’irfjelli hev eg gjeve Esau til eigedom.
+**[2:5]** at de ikkje yppar ufred med deim; eg kann’kje lata dykk få so mykje som ei fotbreidd av landet deira; for Se’irfjelli hev eg gjeve Esau til eigedom.
 
 **[2:6]** Den maten de treng, lyt de kjøpa av deim, og vatnet de drikk, lyt de og gjeva pengar for.
 
@@ -10270,7 +10270,7 @@
 
 **[2:36]** Frå Aroer, som ligg inn med Arnon, og frå byen i dalen til Gilead fanst det ikkje ei borg som var oss for sterk; Herren lagde deim alle opne for oss.
 
-**[2:37]** Men landet åt Ammons-sønerne let du vera i fred, både det som ligg frammed Jabbokåi og fjellbygderne, alt det som Herren, vår Gud, hadde meinka oss å koma inn i. 
+**[2:37]** Men landet åt Ammons-sønerne let du vera i fred, både det som ligg frammed Jabbokåi og fjellbygderne, alt det som Herren, vår Gud, hadde meinka oss å koma inn i.
 
 ### Chapter 3
 
@@ -10330,7 +10330,7 @@
 
 **[3:28]** So skal du segja Josva fyre, og styrkja og stålsetja honom; for han skal føra dette folket yver og hjelpa deim til å vinna det landet du fær sjå.»
 
-**[3:29]** So lagde me oss til i dalen, midt for Bet-Peor. 
+**[3:29]** So lagde me oss til i dalen, midt for Bet-Peor.
 
 ### Chapter 4
 
@@ -10430,7 +10430,7 @@
 
 **[4:48]** frå Aroer, som ligg innmed Arnonåi, til Sionsfjellet, det som dei kallar Hermon,
 
-**[4:49]** og heile Moalandet austanfor Jordan alt til Moavatnet, nedunder Pisgaliderne. 
+**[4:49]** og heile Moalandet austanfor Jordan alt til Moavatnet, nedunder Pisgaliderne.
 
 ### Chapter 5
 
@@ -10498,7 +10498,7 @@
 
 **[5:32]** So kom då i hug å gjera som Herren, dykkar Gud, hev sagt dykk! Tak ikkje or leidi, korkje til høgre eller vinstre!
 
-**[5:33]** Fylg allstødt den vegen som Herren hev synt dykk! Då skal de trivast og liva både vel og lenge i det landet de fær til eiga. 
+**[5:33]** Fylg allstødt den vegen som Herren hev synt dykk! Då skal de trivast og liva både vel og lenge i det landet de fær til eiga.
 
 ### Chapter 6
 
@@ -10550,7 +10550,7 @@
 
 **[6:24]** Då sette han oss fyre å halda alle desse bodi, og ottast Herren, vår Gud, so det skulde ganga oss vel alle dagar, og han kunde lata oss liva, som han til dessa hev gjort.
 
-**[6:25]** Og det skal reknast oss til rettferd at me held alle desse bodi og liver etter deim for Herrens augo, soleis som han hev sagt oss.» 
+**[6:25]** Og det skal reknast oss til rettferd at me held alle desse bodi og liver etter deim for Herrens augo, soleis som han hev sagt oss.»
 
 ### Chapter 7
 
@@ -10604,7 +10604,7 @@
 
 **[7:25]** Gudebilæti deira skal du kasta på elden, og ikkje bry deg um sylvet og gullet på deim, eller eigna det til deg; det vilde føra deg i ulukka; for det er ein styggedom for Herren, din Gud,
 
-**[7:26]** og slik styggedom skal du ikkje hava inn i huset ditt, so du vert forbanna liksom det; du skal styggjast ved det og sky det; for det er bannstøytt. 
+**[7:26]** og slik styggedom skal du ikkje hava inn i huset ditt, so du vert forbanna liksom det; du skal styggjast ved det og sky det; for det er bannstøytt.
 
 ### Chapter 8
 
@@ -10646,7 +10646,7 @@
 
 **[8:19]** Men gløymer du Herren, og held deg til andre gudar, og tener deim, og bøygjer kne for deim, so er det ute med dykk, det segjer eg dykk for visst.
 
-**[8:20]** Liksom dei folki Herren no gjer ende på for dykkar skuld, soleis skal de og ganga til grunnar, for di de ikkje lyder Herren, dykkar Gud. 
+**[8:20]** Liksom dei folki Herren no gjer ende på for dykkar skuld, soleis skal de og ganga til grunnar, for di de ikkje lyder Herren, dykkar Gud.
 
 ### Chapter 9
 
@@ -10672,7 +10672,7 @@
 
 **[9:11]** Då dei fyrti jamdøgri var lidne, gav Herren meg dei tvo steintavlorne, sambandstavlorne,
 
-**[9:12]** og sagde til meg: «Skunda deg ned att; for folket ditt, som du fylgde ut or Egyptarland, hev bore seg stygt åt; det var ’kje lenge fyrr dei tok utav den leidi eg synte deim; dei hev støypt seg eit gudebilæte!
+**[9:12]** og sagde til meg: «Skunda deg ned att; for folket ditt, som du fylgde ut or Egyptarland, hev bore seg stygt åt; det var’kje lenge fyrr dei tok utav den leidi eg synte deim; dei hev støypt seg eit gudebilæte!
 
 **[9:13]** Eg hev halde auga med dette folket,» sagde Herren, «og set at det er eit hardkyndt folk.
 
@@ -10706,7 +10706,7 @@
 
 **[9:28]** Elles kunne dei segja so som i det landet du hev ført oss utor: «Herren var ikkje god til å fylgja deim fram til det landet han hadde lova deim, og han hata deim og; difor førde han deim ut i øydemarki, og let deim døy der.»
 
-**[9:29]** Dei er då din eigen lyd, som du hev leidt ut med di store magt og din sterke arm.» 
+**[9:29]** Dei er då din eigen lyd, som du hev leidt ut med di store magt og din sterke arm.»
 
 ### Chapter 10
 
@@ -10752,7 +10752,7 @@
 
 **[10:21]** Han skal vera det gildaste du veit; han er din Gud som for di skuld hev gjort alt dette store og agelege som du hev set for augo dine.
 
-**[10:22]** Sytti i talet for federne dine ned til Egyptarland, men no hev Herren, din Gud, auka dykk so de er mange som stjernorne på himmelen. 
+**[10:22]** Sytti i talet for federne dine ned til Egyptarland, men no hev Herren, din Gud, auka dykk so de er mange som stjernorne på himmelen.
 
 ### Chapter 11
 
@@ -10818,7 +10818,7 @@
 
 **[11:31]** For no gjeng du yver Jordan, og skal taka imot det landet som Herren, din Gud, gjev deg; når du so hev eigna det til deg, og bur i det,
 
-**[11:32]** sjå då til at du held alle dei loverne og bodi eg legg fyre deg i dag! 
+**[11:32]** sjå då til at du held alle dei loverne og bodi eg legg fyre deg i dag!
 
 ### Chapter 12
 
@@ -10884,7 +10884,7 @@
 
 **[12:31]** Far aldri åt som dei gjer, når du dyrkar Herren, din Gud; for alt det som Herren mislikar, og som er ein styggedom hans augo, det gjer dei for gudarne sine; jamvel sønerne og døtterne sine brenner dei til æra for desse gudarne sine.
 
-**[12:32]** Alt det eg segjer dykk fyre, skal de gøyma i hjarta, og liva etter det; de må ingen ting leggja attåt, og ingen ting taka ifrå. 
+**[12:32]** Alt det eg segjer dykk fyre, skal de gøyma i hjarta, og liva etter det; de må ingen ting leggja attåt, og ingen ting taka ifrå.
 
 ### Chapter 13
 
@@ -10922,7 +10922,7 @@
 
 **[13:17]** Du må ikkje halda att noko av det som er bannstøytt; då skal Herren stagga sin brennande vreide, og gjeva deg nåde, og hava deg kjær, og auka ætti di, som han lova federne dine -
 
-**[13:18]** so sant du lyder Herren, din Gud, og held alle bodi hans, deim som eg ber fram for deg i dag, og gjer det som rett er i hans augo. 
+**[13:18]** so sant du lyder Herren, din Gud, og held alle bodi hans, deim som eg ber fram for deg i dag, og gjer det som rett er i hans augo.
 
 ### Chapter 14
 
@@ -10982,7 +10982,7 @@
 
 **[14:28]** Tridje kvart år skal du taka undan heile tiendi av det du hev avla det året, og leggja det upp i byarne dine.
 
-**[14:29]** So skal levitarne koma; for dei hev ingen arvlut liksom du; og dei framande og farlause og enkjorne som bur innan portarne dykkar, skal koma, og få det dei treng. Då skal Herren, din Gud, velsigna deg i alt det du gjer og tek deg fyre. 
+**[14:29]** So skal levitarne koma; for dei hev ingen arvlut liksom du; og dei framande og farlause og enkjorne som bur innan portarne dykkar, skal koma, og få det dei treng. Då skal Herren, din Gud, velsigna deg i alt det du gjer og tek deg fyre.
 
 ### Chapter 15
 
@@ -11030,7 +11030,7 @@
 
 **[15:22]** men heime hjå dykk sjølve kann de eta deim anten det er reine og ureine, liksom det var gasella eller hjort,
 
-**[15:23]** so nær som blodet; det må de ikkje eta; du skal slå det ut på marki som vatn. 
+**[15:23]** so nær som blodet; det må de ikkje eta; du skal slå det ut på marki som vatn.
 
 ### Chapter 16
 
@@ -11076,7 +11076,7 @@
 
 **[16:21]** Du skal ikkje setja noko tre som er vigt til Asjera attmed altaret som du byggjer åt Herren, din Gud.
 
-**[16:22]** Og du skal ikkje reisa nokon minnestein som Herren, din Gud, mislikar. 
+**[16:22]** Og du skal ikkje reisa nokon minnestein som Herren, din Gud, mislikar.
 
 ### Chapter 17
 
@@ -11118,7 +11118,7 @@
 
 **[17:19]** og den skal han hava hjå seg og lesa i alle sine livedagar, so han kann læra å ottast Herren, sin Gud, og bera alle desse lovbodi og fyresegnerne i hugen og liva etter deim,
 
-**[17:20]** og so han ikkje skal ovmoda seg yver brørne sine og koma burt ifrå lovi; då skal han liva lenge i riket sitt i Israel, både han og borni hans. 
+**[17:20]** og so han ikkje skal ovmoda seg yver brørne sine og koma burt ifrå lovi; då skal han liva lenge i riket sitt i Israel, både han og borni hans.
 
 ### Chapter 18
 
@@ -11164,7 +11164,7 @@
 
 **[18:21]** Og um du tenkjer med deg: «Korleis kann me vita um eit ord kjem frå Herren eller ikkje?»
 
-**[18:22]** so høyr her: Når ein profet talar i Herrens namn, og det han hev sagt ikkje hender og ikkje gjeng fram, so hev det ordet ikkje kome frå Herren; då er det noko profeten hev våga seg til å tala på eigi hand, og du tarv ikkje vera rædd honom. 
+**[18:22]** so høyr her: Når ein profet talar i Herrens namn, og det han hev sagt ikkje hender og ikkje gjeng fram, so hev det ordet ikkje kome frå Herren; då er det noko profeten hev våga seg til å tala på eigi hand, og du tarv ikkje vera rædd honom.
 
 ### Chapter 19
 
@@ -11208,7 +11208,7 @@
 
 **[19:20]** Og dei andre skal høyra det og ræddast, so det aldri meir vert gjort slik ei ugjerning millom dykk.
 
-**[19:21]** Du skal ingen spara, men krevja liv for liv, auga for auga, tonn for tonn, hand for hand, fot for fot. 
+**[19:21]** Du skal ingen spara, men krevja liv for liv, auga for auga, tonn for tonn, hand for hand, fot for fot.
 
 ### Chapter 20
 
@@ -11250,7 +11250,7 @@
 
 **[20:19]** Når du hev kringsett ein by og lyt liggja der lenge fyrr du fær teke honom, so skal du ikkje skamføra trei som veks der, og setja øks i deim. Du kann eta av deim, men du skal ikkje skadehogga deim. Trei på marki er då ikkje folk, so du tarv stridast med deim?
 
-**[20:20]** Men dei trei som du veit ikkje ber etande frukt, deim kann du øyda og hogga ned, og byggja kringsetjingsverk mot byen du ligg i strid med, til han lyt gjeva seg. 
+**[20:20]** Men dei trei som du veit ikkje ber etande frukt, deim kann du øyda og hogga ned, og byggja kringsetjingsverk mot byen du ligg i strid med, til han lyt gjeva seg.
 
 ### Chapter 21
 
@@ -11298,7 +11298,7 @@
 
 **[21:22]** Hev nokon gjort eit brot som det er sett livsstraff for, og han so hev vorte avretta og hengd upp på eit tre,
 
-**[21:23]** so må ikkje liket hans verta hangande på treet natti yver, men du skal jorda honom same dagen; for Guds forbanning ligg på den som er upphengd, og du skal ikkje gjera landet ditt ureint, det som Herren, din Gud, hev gjeve deg til odel og eiga. 
+**[21:23]** so må ikkje liket hans verta hangande på treet natti yver, men du skal jorda honom same dagen; for Guds forbanning ligg på den som er upphengd, og du skal ikkje gjera landet ditt ureint, det som Herren, din Gud, hev gjeve deg til odel og eiga.
 
 ### Chapter 22
 
@@ -11360,7 +11360,7 @@
 
 **[22:29]** so skal mannen gjeva far åt gjenta eit halvt hundrad sylvdalar, og ho skal verta kona hans, for di han hev skjemt henne ut, og han må aldri skilja seg med henne.
 
-**[22:30]** Ingen må taka stykmor si til kona, eller søkja seng med henne. 
+**[22:30]** Ingen må taka stykmor si til kona, eller søkja seng med henne.
 
 ### Chapter 23
 
@@ -11412,7 +11412,7 @@
 
 **[23:24]** Kjem du inn i annan manns vinhage, so kann du eta druvor, so mykje du vil, til du er nøgd; men du må ikkje henta i kopp.
 
-**[23:25]** Kjem du inn i annan manns åker, so kann du taka aks med handi; men sigd må du ikkje koma med i annan manns åker. 
+**[23:25]** Kjem du inn i annan manns åker, so kann du taka aks med handi; men sigd må du ikkje koma med i annan manns åker.
 
 ### Chapter 24
 
@@ -11458,7 +11458,7 @@
 
 **[24:21]** Når du hev hausta vinhagen, skal du ikkje henta dei druvorne som att er; dei skal vera åt dei framande og dei farlause og enkjorne.
 
-**[24:22]** Kom i hug at du var træl i Egyptarlandet! Difor er det eg segjer deg at du skal fara so. 
+**[24:22]** Kom i hug at du var træl i Egyptarlandet! Difor er det eg segjer deg at du skal fara so.
 
 ### Chapter 25
 
@@ -11498,7 +11498,7 @@
 
 **[25:18]** korleis dei kom yver dykk på vegen, medan de var trøytte og mode, og hogg ned deim som for attarst i heren dykkar, alle deim som var veike og hadde gjeve seg etter; so lite ottast dei Gud!
 
-**[25:19]** Og når du er komen til det landet som Herren, din Gud, gjev deg til odel og eiga, og han hev gjeve deg fred for alle fiendar dine rundt ikring, då skal du rydja ut or verdi alt som Amalek heitar; gløym ikkje det! 
+**[25:19]** Og når du er komen til det landet som Herren, din Gud, gjev deg til odel og eiga, og han hev gjeve deg fred for alle fiendar dine rundt ikring, då skal du rydja ut or verdi alt som Amalek heitar; gløym ikkje det!
 
 ### Chapter 26
 
@@ -11538,7 +11538,7 @@
 
 **[26:18]** Og Herren hev i dag teke imot den lovnaden av deg at du vil vera hans eige folk, soleis som han hev sagt deg; og halda alle bodi hans,
 
-**[26:19]** og då vil han gjera deg til det høgste av alle folk han hev skapt, til æra og gjetord og pryd, og du skal vera eit heilagt folk, vigt til Herren, din Gud, soleis som han hev sagt.» 
+**[26:19]** og då vil han gjera deg til det høgste av alle folk han hev skapt, til æra og gjetord og pryd, og du skal vera eit heilagt folk, vigt til Herren, din Gud, soleis som han hev sagt.»
 
 ### Chapter 27
 
@@ -11592,7 +11592,7 @@
 
 **[27:25]** «Forbanna vere den som tek mutor, og valdar at ein uskuldig let livet!» Og heile folket skal segja: «Ja, ja!»
 
-**[27:26]** «Forbanna vere den som ikkje held alle bodi i denne lovi, og ikkje liver etter deim!» Og heile folket skal segja: «Ja, ja!» 
+**[27:26]** «Forbanna vere den som ikkje held alle bodi i denne lovi, og ikkje liver etter deim!» Og heile folket skal segja: «Ja, ja!»
 
 ### Chapter 28
 
@@ -11624,7 +11624,7 @@
 
 **[28:14]** og aldri tek utav den rette leid, og gløymer ordi som eg lærde deg, og fylgjer nokon annan Gud, og bed til honom.
 
-**[28:15]** Men vil du ikkje høyra på røysti åt Herren, din Gud, hugsar og held du ’kje alle bodi og loverne hans, deim som eg legg fram for deg i dag, skal det ganga deg so at kvar våbøn eg nemner, skal nå deg og taka deg att:
+**[28:15]** Men vil du ikkje høyra på røysti åt Herren, din Gud, hugsar og held du’kje alle bodi og loverne hans, deim som eg legg fram for deg i dag, skal det ganga deg so at kvar våbøn eg nemner, skal nå deg og taka deg att:
 
 **[28:16]** Forbanna vere du i by! Forbanna vere du på land!
 
@@ -11654,7 +11654,7 @@
 
 **[28:29]** då lyt du trivla deg fram midt i dagsens ljos, den blinde lik som all tid gjeng i myrkrer, og aldri når du målet som du stemnar mot. Plåga og plundra vert du dag for dag, og ingen finst det som kann hjelpa deg.
 
-**[28:30]** Ein annan mann tek bruri di i fang; i huset du hev bygt, fær du ’kje bu; av hagen du hev stelt, fær du ’kje frukt.
+**[28:30]** Ein annan mann tek bruri di i fang; i huset du hev bygt, fær du’kje bu; av hagen du hev stelt, fær du’kje frukt.
 
 **[28:31]** Slagta vert uksarna dine med du ser på det; men du fær ikkje smaka deira kjøt; asni vert rana frå deg, og kjem aldri att; og fienden tek sauerne - ingen hjelper deg.
 
@@ -11676,7 +11676,7 @@
 
 **[28:40]** I heile landet er det oljetre; men endå fær du aldri salva deg; det kastar karten, oljetreet ditt.
 
-**[28:41]** Born fær du, men du må ’kje hava deim; for dei vert hertekne og førde burt.
+**[28:41]** Born fær du, men du må’kje hava deim; for dei vert hertekne og førde burt.
 
 **[28:42]** Avåtet legg seg tett på alle tre og grøda som veks upp av jordi di.
 
@@ -11710,7 +11710,7 @@
 
 **[28:57]** og gjev deim ikkje av si etterferd, eller av det vesle barnet som ho fekk, men, snøydd for alt, et ho det sjølv i løynd, til å berga livet i den naud og trong som fiendarne fører henne i når han kringset dykk i kvar by og borg.
 
-**[28:58]** Held du ’kje alle bod i denne lov, deim som stend skrivne her i denne bok, ottast du ikkje det høgheilage og agelege namnet åt din Gud,
+**[28:58]** Held du’kje alle bod i denne lov, deim som stend skrivne her i denne bok, ottast du ikkje det høgheilage og agelege namnet åt din Gud,
 
 **[28:59]** skal Herren senda fæle ulukkor yver deg sjølv og yver ætti di, svære og endelause ulukkor og endelause vonde sjukdomar.
 
@@ -11730,7 +11730,7 @@
 
 **[28:67]** Kvar morgon segjer du: «Gjev det var kveld!» og vert det kveld: «Gjev det var morgon att!» Slik rædsla kjenner du i hugen din, og slik ei syn lyt augo dine sjå.
 
-**[28:68]** På skip skal Herren senda dykk attende til Egyptarland, den vegen som eg sagde deg at du aldri meir skulde sjå; der skal de verta bodne ut i mengd åt dykkar fiendar til trælar og til trælkvende, men ingen idest kjøpa dykk.» 
+**[28:68]** På skip skal Herren senda dykk attende til Egyptarland, den vegen som eg sagde deg at du aldri meir skulde sjå; der skal de verta bodne ut i mengd åt dykkar fiendar til trælar og til trælkvende, men ingen idest kjøpa dykk.»
 
 ### Chapter 29
 
@@ -11768,7 +11768,7 @@
 
 **[29:17]** Og de såg dei ufysne styggetingi av stokk og stein, av sylv og gull, som dei hadde til gudar.
 
-**[29:18]** Lat det då ikkje finnast hjå dykk mann eller kvinna, ætt eller ættgrein som i dag vender hjarta sitt burt frå Herren, vår Gud, og gjeng av og tener gudarne åt desse folki! Lat det ’kje finnast nokon som er rot til trollber og malurt,
+**[29:18]** Lat det då ikkje finnast hjå dykk mann eller kvinna, ætt eller ættgrein som i dag vender hjarta sitt burt frå Herren, vår Gud, og gjeng av og tener gudarne åt desse folki! Lat det’kje finnast nokon som er rot til trollber og malurt,
 
 **[29:19]** og som tenkjer med seg, når han høyrer ordi i denne pakti: «Eg er like sæl; det gjeng meg like godt, um eg trassar og fer etter min eigen hug!» For slike kjem til å føra ulukka yver bygd og by.
 
@@ -11790,7 +11790,7 @@
 
 **[29:28]** Han rykte deim upp or landet deira i harm og vreide og græe, og slengde deim burt til eit anna land, og der hev dei lote vera til denne dag.»
 
-**[29:29]** Det dulde høyrer Herren, vår Gud, til, men det som er openberra, gjeld for oss og borni våre i all æva; di skal me halda alle bodi i denne lovi. 
+**[29:29]** Det dulde høyrer Herren, vår Gud, til, men det som er openberra, gjeld for oss og borni våre i all æva; di skal me halda alle bodi i denne lovi.
 
 ### Chapter 30
 
@@ -11832,7 +11832,7 @@
 
 **[30:19]** Himmel og jord tek eg i dag til vitne på at eg hev lagt fram for deg liv og daude, velsigning og våbøn! Vel då livet, so skal du få liva, både du og ætti di!
 
-**[30:20]** Elska Herren, din Gud, og lyd bodi hans, og haldt deg til honom! for då vinn du livet, og når ein høg alder, og fær bu i det landet som Herren lova federne dine, Abraham og Isak og Jakob.» 
+**[30:20]** Elska Herren, din Gud, og lyd bodi hans, og haldt deg til honom! for då vinn du livet, og når ein høg alder, og fær bu i det landet som Herren lova federne dine, Abraham og Isak og Jakob.»
 
 ### Chapter 31
 
@@ -11888,13 +11888,13 @@
 
 **[31:26]** «Tak denne lovboki og legg henne ned innmed sambandskista åt Herren, dykkar Gud; der skal ho liggja og vera eit vitne imot dykk.
 
-**[31:27]** For eg veit kor tråssuge og stride de er. Hev de ’kje alt no, medan eg liver og er hjå dykk, vore ulyduge mot Herren! Korleis vil det då verta når eg er burte?
+**[31:27]** For eg veit kor tråssuge og stride de er. Hev de’kje alt no, medan eg liver og er hjå dykk, vore ulyduge mot Herren! Korleis vil det då verta når eg er burte?
 
 **[31:28]** Kalla no i hop alle styresmennerne fot ætterne dykkar og alle formennerne, so vil eg kveda desse versi for deim, og taka himmelen og jordi til vitne mot deim.
 
 **[31:29]** For eg veit vel at når eg er burte, kjem de til å forsynda dykk storleg, og taka utav den vegen eg hev synt dykk; men ulukka skal koma yver dykk fyrr leidi lyktar, når de gjer det som Herren mislikar og argar honom upp med framferdi dykkar.»
 
-**[31:30]** So kvad Moses dette kvædet frå ende til annan, for heile Israels-lyden: 
+**[31:30]** So kvad Moses dette kvædet frå ende til annan, for heile Israels-lyden:
 
 ### Chapter 32
 
@@ -11906,9 +11906,9 @@
 
 **[32:4]** Eit fjell er han, stød i si framferd; for rett fylgjer alle hans fet - ein trufast Gud og truverdig; rettferdig og rettvis er han.
 
-**[32:5]** Men borni hans dei var ’kje hans born; dei synda imot ham stygt, seg sjølve til skam og vanæra, ei rang og svikefull ætt.
+**[32:5]** Men borni hans dei var’kje hans born; dei synda imot ham stygt, seg sjølve til skam og vanæra, ei rang og svikefull ætt.
 
-**[32:6]** Er det soleis de løner Herren, du dårlege, fåvise folk! Er ’kje han din far og din fostrar? Han laga deg og gav deg liv.
+**[32:6]** Er det soleis de løner Herren, du dårlege, fåvise folk! Er’kje han din far og din fostrar? Han laga deg og gav deg liv.
 
 **[32:7]** Hugs etter ævordoms dagar, gransk åri, ætt etter ætt! Spør far din, han gjev deg fråsegn, dine gamle, av deim fær du grein.
 
@@ -11958,13 +11958,13 @@
 
 **[32:30]** Koss kunde ein mann elta tusund, og tvo slå ti tusund på flog, hadd’ ikkje hjelpi gjenge frå deim og Herren gjeve deim upp?
 
-**[32:31]** For deira vern er ’kje som vår vern; det vitnar fienden sjølv.
+**[32:31]** For deira vern er’kje som vår vern; det vitnar fienden sjølv.
 
 **[32:32]** I Sodoma voks deira vintre, skaut upp av Gomorras grunn; druvorn’ dei ber, det er trollber, og beisk er kvar einaste krans;
 
 **[32:33]** Vinen av deim er orme-eiter og øgjeleg drakefraud.
 
-**[32:34]** «Ligg ’kje dette gøymt i mi stova, forsegla i mine skrin?
+**[32:34]** «Ligg’kje dette gøymt i mi stova, forsegla i mine skrin?
 
 **[32:35]** Eg råder for hemn og for attgjeld når foten deira skrid ut. Alt lid det mot undergangsdagen, og forloga deira kjem fort.»
 
@@ -12000,7 +12000,7 @@
 
 **[32:51]** for di de ikkje for ærleg fram mot meg millom Israels-sønerne ved Meribakjelda i Kades i Sinøydemarki, og ikkje synte Israels-sønerne allmagti mi.
 
-**[32:52]** Du skal få sjå landet framfyre deg, men inn skal du ikkje koma i det landet som eg vil gjeva Israels-sønerne.» 
+**[32:52]** Du skal få sjå landet framfyre deg, men inn skal du ikkje koma i det landet som eg vil gjeva Israels-sønerne.»
 
 ### Chapter 33
 
@@ -12060,7 +12060,7 @@
 
 **[33:28]** So bur då Israel trygt, og Jakobs-ætti åleine, i eit land fullt av druvor og korn, og doggi dryp frå hans himmel!
 
-**[33:29]** Å, Israel, kor du er sæl! Kven er vel som du? - eit folk som hev Herren til frelsar, din verjande skjold og ditt velduge sverd! Sjå, fiendarne smeikjer for deg, med du yver høgderne deira skrid fram!» 
+**[33:29]** Å, Israel, kor du er sæl! Kven er vel som du? - eit folk som hev Herren til frelsar, din verjande skjold og ditt velduge sverd! Sjå, fiendarne smeikjer for deg, med du yver høgderne deira skrid fram!»
 
 ### Chapter 34
 
@@ -12086,7 +12086,7 @@
 
 **[34:11]** Kom i hug alle dei teikn og under Herren sette honom til å gjera i Egyptarland med Farao og alle mennarne og heile landet hans,
 
-**[34:12]** og kom i hug alle dei store verk og agelege gjerningar han gjorde for augo åt heile Israel!  
+**[34:12]** og kom i hug alle dei store verk og agelege gjerningar han gjorde for augo åt heile Israel!
 
 ## Joshua
 
@@ -12126,7 +12126,7 @@
 
 **[1:17]** Liksom me lydde Moses i alle ting, soleis vil me og lyda deg, berre Herren, din Gud, er med deg, som han var med Moses.
 
-**[1:18]** Den som set seg upp imot bodi dine og ikkje lyder deg i alt du segjer han fyre, han skal døy. Ver du berre sterk og stød!» 
+**[1:18]** Den som set seg upp imot bodi dine og ikkje lyder deg i alt du segjer han fyre, han skal døy. Ver du berre sterk og stød!»
 
 ### Chapter 2
 
@@ -12176,7 +12176,7 @@
 
 **[2:23]** So tok dei tvo ferdamennerne på heimvegen og gjekk ned frå fjellet, og sette yver elvi, og kom til Josva Nunsson, og sagde frå um alt det som hadde hendt deim.
 
-**[2:24]** «Herren hev gjeve heile landet i våre hender,» sagde dei til Josva, «og alle som bur der, er so rædde oss at dei skjelv.» 
+**[2:24]** «Herren hev gjeve heile landet i våre hender,» sagde dei til Josva, «og alle som bur der, er so rædde oss at dei skjelv.»
 
 ### Chapter 3
 
@@ -12212,7 +12212,7 @@
 
 **[3:16]** då stana det vatnet som kom ovantil, og stod som ein vegg alt uppmed Adam, den byen som ligg jamsides med Saretan, og det som rann nedetter til Moavatnet, eller Saltsjøen, vart reint burte. So gjekk folket yver åi midt for Jeriko.
 
-**[3:17]** Men prestarne som bar sambandskista åt Herren, vart standande på turre botnen midt i Jordan, medan alle israelitarne gjekk turrskodde yver åi, til heile folket var kome vel yver. 
+**[3:17]** Men prestarne som bar sambandskista åt Herren, vart standande på turre botnen midt i Jordan, medan alle israelitarne gjekk turrskodde yver åi, til heile folket var kome vel yver.
 
 ### Chapter 4
 
@@ -12262,7 +12262,7 @@
 
 **[4:23]** «av di Herren, dykkar Gud, turka ut åi framfyre dykk, medan de gjekk yver, liksom han turka ut Sevhavet for oss då me for yver det,
 
-**[4:24]** so alle folkeslag på jordi skulde sjå at Herrens hand er sterk, og de alle dagar skulde ottast Herren, dykkar Gud.»» 
+**[4:24]** so alle folkeslag på jordi skulde sjå at Herrens hand er sterk, og de alle dagar skulde ottast Herren, dykkar Gud.»»
 
 ### Chapter 5
 
@@ -12294,7 +12294,7 @@
 
 **[5:14]** «Nei», svara han, «eg er hovdingen yver Herrens her. No er eg komen.» Josva fall på kne og bøygde seg til jordi og sagde: «Kva hev herren min å segja tenaren sin?»
 
-**[5:15]** Då svara hovdingen yver Herrens her: «Drag skoen av foten din! for den staden du stend på, er heilag.» Og Josva gjorde so. 
+**[5:15]** Då svara hovdingen yver Herrens her: «Drag skoen av foten din! for den staden du stend på, er heilag.» Og Josva gjorde so.
 
 ### Chapter 6
 
@@ -12350,7 +12350,7 @@
 
 **[6:26]** Den gongen lyste Josva ei våbøn, og kvad: «Til vå og våde vere vigd den mannen som vågar byggja upp av nyom byen Jeriko! Når han hev tufta, tape han den fyrste sonen, som han fekk! Og når han set inn portarne, misse han yngste sonen sin!»
 
-**[6:27]** Soleis var Herren med Josva, og det gjekk gjetord um honom yver heile landet. 
+**[6:27]** Soleis var Herren med Josva, og det gjekk gjetord um honom yver heile landet.
 
 ### Chapter 7
 
@@ -12404,7 +12404,7 @@
 
 **[7:25]** Og Josva sagde til honom: «Kvi førde du slik ulukka yver oss? I dag skal Herren føra ulukka yver deg!» So tok heile Israel og steina honom i hel og brende og steina alt som høyrde honom til.
 
-**[7:26]** Sidan kasta dei i hop ei stor steinrøys yver honom; den hev lege der alt til denne dag. Då døyvde Herren den brennande harmen sin. Men sidan vart den staden kalla Akordalen, og det namnet hev han den dag i dag. 
+**[7:26]** Sidan kasta dei i hop ei stor steinrøys yver honom; den hev lege der alt til denne dag. Då døyvde Herren den brennande harmen sin. Men sidan vart den staden kalla Akordalen, og det namnet hev han den dag i dag.
 
 ### Chapter 8
 
@@ -12476,7 +12476,7 @@
 
 **[8:34]** So las han upp alle ordi i lovi, både velsigningi og våbøni, heiltupp soleis som det stend skrive i lovboki.
 
-**[8:35]** Det fanst ikkje eit ord av alt det Moses hadde sagt fyre, utan Josva las det upp for heile Israels-lyden med både kvinnor og born, og for dei framande som fylgdest med deim. 
+**[8:35]** Det fanst ikkje eit ord av alt det Moses hadde sagt fyre, utan Josva las det upp for heile Israels-lyden med både kvinnor og born, og for dei framande som fylgdest med deim.
 
 ### Chapter 9
 
@@ -12532,7 +12532,7 @@
 
 **[9:26]** Då gjorde han det so med deim; Han berga dei for Israels-sønerne, so dei ikkje vart drepne;
 
-**[9:27]** men samstundes sette han dei til å hogga ved og bera vatn for lyden og til altaret på den staden Herren valde seg ut, og det hev dei gjort alt til denne dag. 
+**[9:27]** men samstundes sette han dei til å hogga ved og bera vatn for lyden og til altaret på den staden Herren valde seg ut, og det hev dei gjort alt til denne dag.
 
 ### Chapter 10
 
@@ -12620,7 +12620,7 @@
 
 **[10:42]** Og alle desse kongarne og riki deira vann han yver med ein gong; for Herren, Israels Gud, stridde for Israel.
 
-**[10:43]** Sidan for Josva med heile Israel attende til Gilgal-lægret. 
+**[10:43]** Sidan for Josva med heile Israel attende til Gilgal-lægret.
 
 ### Chapter 11
 
@@ -12668,7 +12668,7 @@
 
 **[11:22]** Ingen anakit vart att i Israelslandet, berre dei som var i Gasa og Gat og Asdod, fekk liva.
 
-**[11:23]** Josva lagde under seg heile landet, heiltupp soleis som Herren hadde sagt til Moses, og let israelitarne få det til odel og eiga etter sine folkegreiner og ætter, då landet var kome til ro etter ufreden. 
+**[11:23]** Josva lagde under seg heile landet, heiltupp soleis som Herren hadde sagt til Moses, og let israelitarne få det til odel og eiga etter sine folkegreiner og ætter, då landet var kome til ro etter ufreden.
 
 ### Chapter 12
 
@@ -12718,7 +12718,7 @@
 
 **[12:23]** kongen i Dor på Dorhøgderne, ein, kongen yver Gojim attmed Gilgal, ein,
 
-**[12:24]** kongen i Tirsa, ein, i alt ein og tretti kongar. 
+**[12:24]** kongen i Tirsa, ein, i alt ein og tretti kongar.
 
 ### Chapter 13
 
@@ -12786,7 +12786,7 @@
 
 **[13:32]** Dette var den odelsjordi Moses luta ut, på Moabmoarne austanfor Jordanåi, som renn frammed Jeriko.
 
-**[13:33]** Men Levi-ætti gav han ikkje noko odelsland. Herren, Israels Gud, er deira odel, soleis som han hadde lova deim. 
+**[13:33]** Men Levi-ætti gav han ikkje noko odelsland. Herren, Israels Gud, er deira odel, soleis som han hadde lova deim.
 
 ### Chapter 14
 
@@ -12818,7 +12818,7 @@
 
 **[14:14]** Soleis var det Kaleb Jefunneson av Kenaz-ætti fekk Hebron, og sidan hev den eigedomen fylgt ætti hans alt til denne dag, for di han heldt seg so trutt etter Herren, Israels Gud.
 
-**[14:15]** Hebron heitte fyrr Arbabyen, etter den største mannen millom anakitarne. Då var det ende på ufreden, og landet fekk ro. 
+**[14:15]** Hebron heitte fyrr Arbabyen, etter den største mannen millom anakitarne. Då var det ende på ufreden, og landet fekk ro.
 
 ### Chapter 15
 
@@ -12946,7 +12946,7 @@
 
 **[15:62]** og Nibsan og Ir-Hammelah og En-Gedi, seks byar med grenderne ikring.
 
-**[15:63]** Men Juda-sønerne vann ikkje driva ut jebusitarne, som budde i Jerusalem; dei hev vorte buande i hop med Juda-sønerne i Jerusalem alt til denne dag. 
+**[15:63]** Men Juda-sønerne vann ikkje driva ut jebusitarne, som budde i Jerusalem; dei hev vorte buande i hop med Juda-sønerne i Jerusalem alt til denne dag.
 
 ### Chapter 16
 
@@ -12968,7 +12968,7 @@
 
 **[16:9]** og attåt det dei byarne som vart utskilde åt Efraims-sønerne i Manassefylket, både byarne og grenderne som låg ikring.
 
-**[16:10]** Men Efraims-sønerne dreiv ikkje ut dei kananitarne som budde i Gezer; Kananitarne vart buande i Efraimsfylket, som dei gjer den dag i dag, men laut gjera trælearbeid. 
+**[16:10]** Men Efraims-sønerne dreiv ikkje ut dei kananitarne som budde i Gezer; Kananitarne vart buande i Efraimsfylket, som dei gjer den dag i dag, men laut gjera trælearbeid.
 
 ### Chapter 17
 
@@ -13006,7 +13006,7 @@
 
 **[17:17]** Då sagde Josva til Josefs-ætti, Efraim og Manasse: «Mykje folk hev du, og sterk er du! Du skal få meir enn ein lut.
 
-**[17:18]** Men det er ei fjellbygd du fær; det er skog der, og den lyt du hogga, og landet skal vera ditt til ytste endarne; for kananitarne skal du driva ut, endå dei hev jarnvogner, og endå dei er sterke.» 
+**[17:18]** Men det er ei fjellbygd du fær; det er skog der, og den lyt du hogga, og landet skal vera ditt til ytste endarne; for kananitarne skal du driva ut, endå dei hev jarnvogner, og endå dei er sterke.»
 
 ### Chapter 18
 
@@ -13064,7 +13064,7 @@
 
 **[18:27]** og Rekem og Jirpe’el og Tarala
 
-**[18:28]** og Sela, Elef og Jebus, som no heiter Jerusalem, og Gibat og Kirjat, fjortan byar, med grenderne ikring. Dette var landet åt Benjamins-sønerne og ættgreinerne deira. 
+**[18:28]** og Sela, Elef og Jebus, som no heiter Jerusalem, og Gibat og Kirjat, fjortan byar, med grenderne ikring. Dette var landet åt Benjamins-sønerne og ættgreinerne deira.
 
 ### Chapter 19
 
@@ -13168,7 +13168,7 @@
 
 **[19:50]** dei gav honom, etter Herrens bod, den byen han bad um, Timnat-Serah på Efraimsfjellet; og han bygde upp byen, og busette seg der.
 
-**[19:51]** Dette var dei odelseigorne som Eleazar, øvstepresten, og Josva Nunsson og hovdingarne yver Israels ætter og ættgreiner luta ut i Silo, for Herrens åsyn i møtetjelddøri. Dermed var dei ferdige med å skifta ut landet. 
+**[19:51]** Dette var dei odelseigorne som Eleazar, øvstepresten, og Josva Nunsson og hovdingarne yver Israels ætter og ættgreiner luta ut i Silo, for Herrens åsyn i møtetjelddøri. Dermed var dei ferdige med å skifta ut landet.
 
 ### Chapter 20
 
@@ -13188,7 +13188,7 @@
 
 **[20:8]** Og austanfor Jordan, som renn frammed Jeriko, let dei upp desse: i Rubensfylket: Beser i øydemarki, på høgsletta; i Gadsfylket: Ramot i Gilead; i Manassefylket: Golan i Basan.
 
-**[20:9]** Dette var dei byarne som vart kåra til fredstader åt alle Israels-sønerne og åt dei framande som heldt til hjå deim, so den som av vanvare drep eit menneskje, kunde røma dit og ikkje skulde døy for hemnarhand, fyrr han hev stade til doms for lyden. 
+**[20:9]** Dette var dei byarne som vart kåra til fredstader åt alle Israels-sønerne og åt dei framande som heldt til hjå deim, so den som av vanvare drep eit menneskje, kunde røma dit og ikkje skulde døy for hemnarhand, fyrr han hev stade til doms for lyden.
 
 ### Chapter 21
 
@@ -13280,7 +13280,7 @@
 
 **[21:44]** Og Herren let deim hava fred på alle leder, heiltupp soleis som han hadde lova federne deira. Ingen av alle uvenerne deira kunde standa seg imot deim; Herren gav alle fiendar i deira hender.
 
-**[21:45]** Ikkje eit einaste av alle dei gode ordi Herren hadde tala til Israels hus, vart um inkje; alt saman gjekk fram. 
+**[21:45]** Ikkje eit einaste av alle dei gode ordi Herren hadde tala til Israels hus, vart um inkje; alt saman gjekk fram.
 
 ### Chapter 22
 
@@ -13316,7 +13316,7 @@
 
 **[22:16]** «So segjer heile Herrens lyd: «Kva er dette for svik de no hev gjort mot Israels Gud, med di de no hev vendt dykk burt ifrå Herren og bygt dykk eit altar? Kvifor hev de no sett dykk upp imot Herren?
 
-**[22:17]** Var det ’kje nok med det brotet me gjorde då me heldt oss til Peor, so ulukka kom yver Herrens lyd? Det brotet hev me endå ikkje reinsa oss frå,
+**[22:17]** Var det’kje nok med det brotet me gjorde då me heldt oss til Peor, so ulukka kom yver Herrens lyd? Det brotet hev me endå ikkje reinsa oss frå,
 
 **[22:18]** og so vender de dykk no burt frå Herren! Men set de dykk i dag upp imot Herren, so fær heile Israel i morgon kjenna hans vreide.
 
@@ -13332,7 +13332,7 @@
 
 **[22:24]** Men det var ein ting me var rædde, difor gjorde me dette: me tenkte borni dykkar ein gong kunde koma til å segja til våre born: «Kva hev de å gjera med Herren, Israels Gud?
 
-**[22:25]** Hev ’kje Herren sett eit skilmerke, Jordan, millom oss og dykk, de Rubens-søner og Gads-søner! De eig ikkje med i Herren.» Soleis kunde borni dykkar få våre born til å halda upp med å ottast Herren.
+**[22:25]** Hev’kje Herren sett eit skilmerke, Jordan, millom oss og dykk, de Rubens-søner og Gads-søner! De eig ikkje med i Herren.» Soleis kunde borni dykkar få våre born til å halda upp med å ottast Herren.
 
 **[22:26]** So kom me på at me vilde byggja dette altaret, ikkje til brennoffer eller slagtoffer,
 
@@ -13350,7 +13350,7 @@
 
 **[22:33]** Og Israels-sønerne tykte godt um svaret; dei takka Gud og tenkte ikkje lenger på å taka ut i strid mot Rubens-sønerne og Gads-sønerne og øyda landet dei budde i.
 
-**[22:34]** Men Rubens-sønerne og Gads-sønerne kalla det altaret Vitne: «Eit vitne», sagde dei, «skal det vere imillom at Herren er den sanne Gud.» 
+**[22:34]** Men Rubens-sønerne og Gads-sønerne kalla det altaret Vitne: «Eit vitne», sagde dei, «skal det vere imillom at Herren er den sanne Gud.»
 
 ### Chapter 23
 
@@ -13384,7 +13384,7 @@
 
 **[23:15]** Men liksom det hev gjenge etter alle dei gode ordi som Herren, dykkar Gud, hev tala til dykk, soleis skal Herren lata alt det vonde han hev truga med koma yver dykk, til han hev rudt dykk ut or dette gilde landet som han hev gjeve dykk.
 
-**[23:16]** Bryt de sambandet med Herren, dykkar Gud, det som han hev sagt at det skal halda, og gjeng de av og tener andre gudar og bed til deim, då skal Herrens harm loga imot dykk, og de skal vonom snøggare verta utrudde or det gilde landet han hev gjeve dykk. 
+**[23:16]** Bryt de sambandet med Herren, dykkar Gud, det som han hev sagt at det skal halda, og gjeng de av og tener andre gudar og bed til deim, då skal Herrens harm loga imot dykk, og de skal vonom snøggare verta utrudde or det gilde landet han hev gjeve dykk.
 
 ### Chapter 24
 
@@ -13452,7 +13452,7 @@
 
 **[24:32]** Beini åt Josef, som Israels-sønerne hadde ført med seg frå Egyptarland, gravla dei attmed Sikem, på den marki som Jakob hadde kjøpt av sønerne åt Hemor, far hans Sikem, for hundrad gullpenger, og som Josefs-borni hadde fenge til odel og eiga.
 
-**[24:33]** Sidan døydde Eleazar, son åt Aron, og vart gravlagd i Gibea på Efraimsheidi, ein by som hadde vorte gjeven åt Pinehas, son hans.  
+**[24:33]** Sidan døydde Eleazar, son åt Aron, og vart gravlagd i Gibea på Efraimsheidi, ein by som hadde vorte gjeven åt Pinehas, son hans.
 
 ## Judges
 
@@ -13528,13 +13528,13 @@
 
 **[1:35]** Sjølve var dei god til å halda seg i Har-Heres og i Ajjalon og Sa’albim, men sidan fekk Josefs-ætti yvertaket, og nøydde deim til å træla for seg.
 
-**[1:36]** Landskilet åt amoritarne gjekk frå Skorpionskardet um Knausen og uppetter. 
+**[1:36]** Landskilet åt amoritarne gjekk frå Skorpionskardet um Knausen og uppetter.
 
 ### Chapter 2
 
 **[2:1]** Herrens engel kom frå Gilgal upp til Bokim og sagde: «Eg henta dykk ut or Egyptarland, og fylgde dykk til det landet eg lova federne dykkar, og eg sagde: «Aldri i verdi skal eg brjota mi pakt med dykk,
 
-**[2:2]** og de skal ikkje gjera samband med deim som bur her i landet; de skal riva ned altari deira!» Men de høyrde ikkje på ordi mine. Kvi gjorde de ’kje det?
+**[2:2]** og de skal ikkje gjera samband med deim som bur her i landet; de skal riva ned altari deira!» Men de høyrde ikkje på ordi mine. Kvi gjorde de’kje det?
 
 **[2:3]** So segjer eg dykk: Eg vil ikkje driva deim burt for dykk; dei skal vera til broddar i sidorne dykkar, og gudarne deira skal verta ei snara for dykk.»
 
@@ -13568,7 +13568,7 @@
 
 **[2:18]** Og kvar gong Herren let ein domar standa fram millom deim, so var Herren med domaren, og berga deim frå uvenerne deira so lenge domaren livde; for Herren ynkast yver deim når dei sukka og stunde for di dei vart tvinga og trælka.
 
-**[2:19]** Men ikkje fyrr var domaren burte, fyrr dei fall ifrå att, og for endå verre åt enn federne sine, heldt seg til andre gudar, og dyrka deim, og bad til deim; dei lagde ’kje ned noko av det vonde dei hadde fyre seg, eller av si tråssuge framferd.
+**[2:19]** Men ikkje fyrr var domaren burte, fyrr dei fall ifrå att, og for endå verre åt enn federne sine, heldt seg til andre gudar, og dyrka deim, og bad til deim; dei lagde’kje ned noko av det vonde dei hadde fyre seg, eller av si tråssuge framferd.
 
 **[2:20]** Då vart Herren harm på Israel, og han sagde: «For di dette folket hev brote den pakti eg gjorde med federne deira, og ikkje hev lydt mine ord,
 
@@ -13576,7 +13576,7 @@
 
 **[2:22]** med deim skal Israel røynast um dei vilde halda seg etter Herrens vegar og ganga på deim, som federne deira gjorde.»
 
-**[2:23]** Soleis var det Herren let desse folki få vera, og ikkje straks dreiv deim ut, og ikkje gav deim i Josvas hender. 
+**[2:23]** Soleis var det Herren let desse folki få vera, og ikkje straks dreiv deim ut, og ikkje gav deim i Josvas hender.
 
 ### Chapter 3
 
@@ -13640,7 +13640,7 @@
 
 **[3:30]** Moab laut den dagen bøygja seg under Israels velde, og sidan hadde landet fred i åtteti år.
 
-**[3:31]** Etter Ehud kom Samgar, son åt Anat. Han felte seks hundrad mann av filistarane, med piggstaven som han dreiv uksarne med; han og berga Israel. 
+**[3:31]** Etter Ehud kom Samgar, son åt Anat. Han felte seks hundrad mann av filistarane, med piggstaven som han dreiv uksarne med; han og berga Israel.
 
 ### Chapter 4
 
@@ -13670,11 +13670,11 @@
 
 **[4:13]** baud han ut stridsmagti si, og for med alle vognerne sine, ni hundrad jarnvogner, og alt folket han hadde med seg, frå Haroset-Haggojim til Kisonåi.
 
-**[4:14]** Då sagde Debora til Barak: «Kom no! For i dag vil Herren gjeva Sisera i dine hender. Veit du ’kje at Herren gjeng fyre deg i striden?» So for Barak ned av Taborfjellet, og det fylgde honom ti tusund mann.
+**[4:14]** Då sagde Debora til Barak: «Kom no! For i dag vil Herren gjeva Sisera i dine hender. Veit du’kje at Herren gjeng fyre deg i striden?» So for Barak ned av Taborfjellet, og det fylgde honom ti tusund mann.
 
 **[4:15]** Og Herren sette ein støkk i Sisera og alle vognkjemporne og heile heren hans, so dei ikkje kunde standa seg for Barak og sverdet hans; då steig Sisera ned av vogni, og rømde på sin fot.
 
-**[4:16]** Men Barak elte vognerne og heren alt til Haroset-Haggojim, og heile Sisera-heren fall for sverdet; det vart ’kje att ein einaste mann.
+**[4:16]** Men Barak elte vognerne og heren alt til Haroset-Haggojim, og heile Sisera-heren fall for sverdet; det vart’kje att ein einaste mann.
 
 **[4:17]** Sisera rømde på sin fot til tjeldbudi hennar Jael, kona åt Heber, keniten; for det var fred millom Jabin, Hasor-kongen, og ætti åt Heber.
 
@@ -13690,7 +13690,7 @@
 
 **[4:23]** Den dagen bøygde Gud Jabin i kne for Israel;
 
-**[4:24]** og Israels hand låg tyngre og tyngre på Jabin, Kana’ans-kongen, til dei reint gjorde ende på honom. 
+**[4:24]** og Israels hand låg tyngre og tyngre på Jabin, Kana’ans-kongen, til dei reint gjorde ende på honom.
 
 ### Chapter 5
 
@@ -13708,7 +13708,7 @@
 
 **[5:7]** Ein førar fattast Israel, ein førar, alt til du steig fram, til du steig fram, Debora, som ei mor i Israel.
 
-**[5:8]** Gud valde nye styrarar; då stod det strid i portarne: Ein såg ’kje skjold og ikkje spjot hjå fyrti tusund hermenn i heile Israel.
+**[5:8]** Gud valde nye styrarar; då stod det strid i portarne: Ein såg’kje skjold og ikkje spjot hjå fyrti tusund hermenn i heile Israel.
 
 **[5:9]** Hjå hovdingarn’ i Israel er hugen min, hjå Herren som friviljug møtte fram til strid! Lov Herren, Israel!
 
@@ -13738,7 +13738,7 @@
 
 **[5:22]** Hardt slo hestehovarn’ i marki, med kjemporne køyrde, køyrde av stad i strjukande tan.
 
-**[5:23]** «Bann Meroz,» Herrens engel sa, «bann deim som bur der, bann deim burt! Dei kom ’kje Herrens her til hjelp. Dei hjelpte ikkje kjemporn’ hans.»
+**[5:23]** «Bann Meroz,» Herrens engel sa, «bann deim som bur der, bann deim burt! Dei kom’kje Herrens her til hjelp. Dei hjelpte ikkje kjemporn’ hans.»
 
 **[5:24]** Velsigna ver i kvendeflokk Jael, Hebers, kenitens, viv! Framum kvar kvinna som i buder bur, velsigna vere ho!
 
@@ -13754,7 +13754,7 @@
 
 **[5:30]** «Visst finn dei herfang, og skifter: Ei møy, tvo møyar til manns, farga klæde åt Sisera, farga klæde og krota; ein farga kjol, tvo krota tjeld for kvar ei herteki kvinna.»
 
-**[5:31]** Gjev, Herre, at uvenern’ dine må alle so ganga til grunnar, og dei deg elskar må vera som soli stig upp i sitt velde.» Sidan hadde landet fred i fyrti år. 
+**[5:31]** Gjev, Herre, at uvenern’ dine må alle so ganga til grunnar, og dei deg elskar må vera som soli stig upp i sitt velde.» Sidan hadde landet fred i fyrti år.
 
 ### Chapter 6
 
@@ -13766,7 +13766,7 @@
 
 **[6:4]** dei lægra seg midt imot deim og øydde grøda i landet radt burtåt Gaza, og leivde ikkje ein matbite i Israel, og ingen sau, eller ukse, eller asen.
 
-**[6:5]** For dei kom dragande med buskapen og tjeldbuderne sine, so tett som grashoppar; det var ’kje tal på deim og kamelarne deira, og kvar dei for fram, lagde dei landet i øyde.
+**[6:5]** For dei kom dragande med buskapen og tjeldbuderne sine, so tett som grashoppar; det var’kje tal på deim og kamelarne deira, og kvar dei for fram, lagde dei landet i øyde.
 
 **[6:6]** Israel vart reint utarma av herjingarne deira, og Israels-sønerne ropa til Herren.
 
@@ -13836,13 +13836,13 @@
 
 **[6:39]** Då sagde Gideon til Gud: «Ver ikkje vond på meg, um eg talar endå ein gong! Eg vilde so gjerne få gjera ei prøve til med skinnet! Kjære, lat skinnet vera turt, med heile marki er dogga!»
 
-**[6:40]** Og natti etter gjorde Gud som han bad! Skinnet heldt seg turt, men heile marki var dogga. 
+**[6:40]** Og natti etter gjorde Gud som han bad! Skinnet heldt seg turt, men heile marki var dogga.
 
 ### Chapter 7
 
 **[7:1]** Jerubba’al - det er den same som Gideon - og alt folket som var med honom, tok ut tidleg um morgonen, og lægra seg ved Harodkjelda, og Midjans-heren låg nordanfor, frå Morehaugen og burtetter legdi.
 
-**[7:2]** Då sagde Herren til Gideon: «Du hev for mykje folk med deg! Eg vil ’kje gjeva midjanitarne i henderne på so mange; elles kunde Israel kyta for meg og segja: «Det er mi eigi hand som hev berga meg!»
+**[7:2]** Då sagde Herren til Gideon: «Du hev for mykje folk med deg! Eg vil’kje gjeva midjanitarne i henderne på so mange; elles kunde Israel kyta for meg og segja: «Det er mi eigi hand som hev berga meg!»
 
 **[7:3]** Ropa no ut for folket: «Den som er rædd og fælen, kann snu og fara heim att frå Gileadfjellet!»» Då var det tvo og tjuge tusund mann som snudde heim, og ti tusund vart att.
 
@@ -13866,7 +13866,7 @@
 
 **[7:13]** Då Gideon kom, var der ein som fortalde felagen sin ein draum: «No skal du høyra kva eg hev drøymt!», sagde han: «Eg tykte eg såg ei byggkaka kom trillande inn i Midjans-lægret, og då ho kom til tjeldet, skuva ho til det, so det rulla i koll, og der låg det.»
 
-**[7:14]** «Dette er ’kje noko anna enn sverdet åt Gideon Joasson, israeliten,» svara hin; «Gud hev gjeve midjanitarne og heile lægret i henderne hans.»
+**[7:14]** «Dette er’kje noko anna enn sverdet åt Gideon Joasson, israeliten,» svara hin; «Gud hev gjeve midjanitarne og heile lægret i henderne hans.»
 
 **[7:15]** Då Gideon høyrde draumen og uttydingi, lagde han seg på kne og takka Gud. Han gjekk attende til Israels-lægret og sagde: «Ris upp! Herren hev gjeve Midjans-lægret i henderne dykkar!»
 
@@ -13888,15 +13888,15 @@
 
 **[7:24]** Og yver heile Efraimsheidi sende Gideon folk som ropa ut: «Far ned og møt midjanitarne, og steng deim av frå elvi, frå Jordan, alt burt til Bet-Bara!» Då vart alle Efraims-mennerne utbodne og stengde vegen til elvi, til Jordan, alt burtåt Bet-Bara.
 
-**[7:25]** Dei tok tvo av Midjans-hovdingarne, Oreb og Ze’eb, og drap Oreb på Ramneberget, og Ze’eb ved Ulvepersa. Sidan sette dei etter midjanitarne og kom med hovudi av Oreb og Ze’eb til Gideon på hi sida Jordan. 
+**[7:25]** Dei tok tvo av Midjans-hovdingarne, Oreb og Ze’eb, og drap Oreb på Ramneberget, og Ze’eb ved Ulvepersa. Sidan sette dei etter midjanitarne og kom med hovudi av Oreb og Ze’eb til Gideon på hi sida Jordan.
 
 ### Chapter 8
 
-**[8:1]** Efraims-mennerne sagde til Gideon: «Korleis er det du hev bore deg imot oss! Kvi sende du ’kje bod etter oss då du tok ut i striden mot midjanitare?» Og dei tok kvast på honom.
+**[8:1]** Efraims-mennerne sagde til Gideon: «Korleis er det du hev bore deg imot oss! Kvi sende du’kje bod etter oss då du tok ut i striden mot midjanitare?» Og dei tok kvast på honom.
 
-**[8:2]** Då sagde han til deim: «Kva hev eg gjort no som kann liknast med det de hev gjort? Var ’kje etterrakstren åt Efraim betre enn avlingi åt Abiezer?
+**[8:2]** Då sagde han til deim: «Kva hev eg gjort no som kann liknast med det de hev gjort? Var’kje etterrakstren åt Efraim betre enn avlingi åt Abiezer?
 
-**[8:3]** I dykkar hender gav Gud midjanitar-hovdingarne, Oreb og Ze’eb! Og kva hev eg vunnest gjort, so eg kunde mæla meg med dykk?» Då han tala so, logna dei og var ’kje vonde på honom lenger.
+**[8:3]** I dykkar hender gav Gud midjanitar-hovdingarne, Oreb og Ze’eb! Og kva hev eg vunnest gjort, so eg kunde mæla meg med dykk?» Då han tala so, logna dei og var’kje vonde på honom lenger.
 
 **[8:4]** Gideon kom til Jordan, og for yver, han og dei tri hundrad mann som var med honom, og dei var trøytte og svoltne.
 
@@ -13960,7 +13960,7 @@
 
 **[8:34]** Israels-sønerne kom ikkje i hug Herren, sin Gud, som hadde berga deim frå alle fiendar rundt ikring;
 
-**[8:35]** og dei gjorde ikkje vel mot Jerubba’als, Gideons, ætt for alt det gode han hadde gjort Israel. 
+**[8:35]** og dei gjorde ikkje vel mot Jerubba’als, Gideons, ætt for alt det gode han hadde gjort Israel.
 
 ### Chapter 9
 
@@ -14018,7 +14018,7 @@
 
 **[9:27]** Dei gjekk ut på marki, og hausta vinhagarne sine og persa druvorne; so heldt dei takkehøgtid, og gjekk inn i templet åt guden sin, og åt og drakk og banna Abimelek.
 
-**[9:28]** Og Ga’al Ebedsson sagde: «Er Abimelek slik mann, og sikemitarne slike folk, at me skulde vera tenarane hans? Hev ’kje son åt Jerubba’al og Zebul, futen hans, tent ætti åt Hemor, den gamle Sikems-kongen? Men kvi skulde me so tena honom mannen.
+**[9:28]** Og Ga’al Ebedsson sagde: «Er Abimelek slik mann, og sikemitarne slike folk, at me skulde vera tenarane hans? Hev’kje son åt Jerubba’al og Zebul, futen hans, tent ætti åt Hemor, den gamle Sikems-kongen? Men kvi skulde me so tena honom mannen.
 
 **[9:29]** Gjev eg hadde hand yver dette folket, so skulde eg snart få Abimelek or vegen. Auka heren din, Abimelek, og kom!» kytte han.
 
@@ -14076,7 +14076,7 @@
 
 **[9:56]** Soleis hemnde Gud den ugjerningi Abimelek gjorde mot far sin då han drap dei sytti brørne sine.
 
-**[9:57]** Og alt det vonde Sikems-mennerne hadde gjort, let Gud koma attyver deim; den våbøni Jotam Jerubba’alsson hadde lyst, fekk dei sanna. 
+**[9:57]** Og alt det vonde Sikems-mennerne hadde gjort, let Gud koma attyver deim; den våbøni Jotam Jerubba’alsson hadde lyst, fekk dei sanna.
 
 ### Chapter 10
 
@@ -14100,7 +14100,7 @@
 
 **[10:10]** Då ropa Israels-sønerne til Herren og sagde: «Me hev synda mot deg! Me hev vendt oss frå vår Gud og dyrka Ba’als-bilæti!»
 
-**[10:11]** Og Herren sagde til Israels-sønerne: «Hev eg ’kje berga dykk frå egyptarane og frå amoritarne, frå Ammons-sønerne og frå filistarane?
+**[10:11]** Og Herren sagde til Israels-sønerne: «Hev eg’kje berga dykk frå egyptarane og frå amoritarne, frå Ammons-sønerne og frå filistarane?
 
 **[10:12]** Og då sidonarane og amalekitarne og maonitarne plåga dykk, og de ropa til meg, berga eg dykk frå deim og.
 
@@ -14114,7 +14114,7 @@
 
 **[10:17]** Ammons-sønerne baud ut heren sin, og lægra seg i Gilead. Då samla Israels-sønerne seg og slo læger i Mispa.
 
-**[10:18]** Og herfolket, Gileads-fyrstarne, sagde seg imillom: «Kvar er den mannen som vil ganga fyrst i striden mot ammonitarne? Han skal vera hovding yver alle Gileads-buarne!» 
+**[10:18]** Og herfolket, Gileads-fyrstarne, sagde seg imillom: «Kvar er den mannen som vil ganga fyrst i striden mot ammonitarne? Han skal vera hovding yver alle Gileads-buarne!»
 
 ### Chapter 11
 
@@ -14130,7 +14130,7 @@
 
 **[11:6]** «Kom og ver føraren vår,» sagde dei med honom, «so vil me strida mot ammonitarne!»
 
-**[11:7]** «Var det ’kje de som hata meg, og dreiv meg burt frå heimen min?» svara Jefta; «kvi kjem de då til meg no som de er i naud?»
+**[11:7]** «Var det’kje de som hata meg, og dreiv meg burt frå heimen min?» svara Jefta; «kvi kjem de då til meg no som de er i naud?»
 
 **[11:8]** «Difor er det me no kjem att til deg,» svara styresmennerne: «Gjeng du med oss og strider mot ammonitarne, so skal du vera hovdingen vår og styra alle Gileads-buarne.»
 
@@ -14164,11 +14164,11 @@
 
 **[11:23]** So hev då Herren, Israels Gud, teke landet frå amoritarne og gjeve det til folket sitt, til Israel, og no vil du eigna det til deg!
 
-**[11:24]** Er det ’kje so at det som Kamos, guden din, let deg vinna, det eignar du til deg, og alt det som Herren, vår Gud, gjer rydigt for oss, det eignar me til oss?
+**[11:24]** Er det’kje so at det som Kamos, guden din, let deg vinna, det eignar du til deg, og alt det som Herren, vår Gud, gjer rydigt for oss, det eignar me til oss?
 
 **[11:25]** Er då du so mykje betre enn Balak Sipporsson, Moabs-kongen? Trætta han med Israel, eller tok på deim?
 
-**[11:26]** No er det tri hundrad år sidan Israel busette seg i Hesbon og dei bygderne som ligg umkring, og i Aroer, og bygdarne der umkring og i alle byarne langsmed Arnon; kvi hev de ’kje teke deim att i all den tidi?
+**[11:26]** No er det tri hundrad år sidan Israel busette seg i Hesbon og dei bygderne som ligg umkring, og i Aroer, og bygdarne der umkring og i alle byarne langsmed Arnon; kvi hev de’kje teke deim att i all den tidi?
 
 **[11:27]** Eg hev ikkje gjort deg noko vondt; men du gjer meg stor urett med di du tek på meg. Herren, som er den øvste domaren, skal i dag døma millom Israel og Ammon.»»
 
@@ -14184,7 +14184,7 @@
 
 **[11:33]** Han slo deim, og elte deim frå Aroer til burtimot Minnit, og tok tjuge byar ifrå deim; sidan elte han deim alt til Abel-Keramim, det vart eit stort mannefall på deim. Då laut Ammons-sønerne bøygja seg under Israel.
 
-**[11:34]** Då Jefta kom heim att til garden sin i Mispa, gjekk dotter hans ut imot honom, og fagna honom med trummor og dans; ho var einaste barnet hans; umfram henne hadde han ’kje anten son eller dotter.
+**[11:34]** Då Jefta kom heim att til garden sin i Mispa, gjekk dotter hans ut imot honom, og fagna honom med trummor og dans; ho var einaste barnet hans; umfram henne hadde han’kje anten son eller dotter.
 
 **[11:35]** Med det same han fekk sjå henne, reiv han sund klædi sine, og ropa: «Gud trøyste oss, mi dotter! for ei sorg du veld meg! for ei ulukke du fører meg i! Eg hev gjort so dyr ein lovnad til Herren, og eg kann ikkje taka att ordet mitt.»
 
@@ -14196,11 +14196,11 @@
 
 **[11:39]** Men då tvo månader var lidne, kom ho att til far sin, og då gjorde han med henne det som han hadde lova; og ho hadde aldri vore nær nokon mann. Sidan vart det sed i Israel
 
-**[11:40]** at Israels-døtterne år for år gjeng av og syng minnekvede um dotter åt Jefta frå Gilead, fire dagar um året. 
+**[11:40]** at Israels-døtterne år for år gjeng av og syng minnekvede um dotter åt Jefta frå Gilead, fire dagar um året.
 
 ### Chapter 12
 
-**[12:1]** Efraimitarne baud ut mannskapet sitt, og for nordetter, og sagde til Jefta: «Kvi sende du ’kje bod etter oss då du for av stad og vilde strida mot ammonitarne? No vil me setja eld på husi dine og brenna deg inne.»
+**[12:1]** Efraimitarne baud ut mannskapet sitt, og for nordetter, og sagde til Jefta: «Kvi sende du’kje bod etter oss då du for av stad og vilde strida mot ammonitarne? No vil me setja eld på husi dine og brenna deg inne.»
 
 **[12:2]** «Eg og folket mitt låg i ein hard strid med ammonitarne, svara Jefta; «då ropa eg på dykk, men de hjelpte meg ikkje imot deim;
 
@@ -14228,15 +14228,15 @@
 
 **[12:14]** Han hadde fyrti søner og tretti sonesøner; dei reid på sytti asenfolar. Han styrde Israel i åtte år.
 
-**[12:15]** So døydde Abdon Hillelsson frå Piraton, og vart gravlagd i Piraton i Efraimsland, på Amaleksfjell. 
+**[12:15]** So døydde Abdon Hillelsson frå Piraton, og vart gravlagd i Piraton i Efraimsland, på Amaleksfjell.
 
 ### Chapter 13
 
 **[13:1]** Men Israels-sønerne gjorde atter det som var Herren imot. Då let han filistarane få magt yver deim i fyrti år.
 
-**[13:2]** Det var ein mann av Dans-ætti som heitte Manoah. Han budde i Sora. Kona hans var ’kje barnkjømd; ho hadde aldri ått barn.
+**[13:2]** Det var ein mann av Dans-ætti som heitte Manoah. Han budde i Sora. Kona hans var’kje barnkjømd; ho hadde aldri ått barn.
 
-**[13:3]** Og Herrens engel synte seg for kona, og sagde: «Kjære, eg veit at du er ’kje barnkjømd og aldri hev ått barn, men du skal verta umhender og eiga ein son.
+**[13:3]** Og Herrens engel synte seg for kona, og sagde: «Kjære, eg veit at du er’kje barnkjømd og aldri hev ått barn, men du skal verta umhender og eiga ein son.
 
 **[13:4]** Agta deg no, og drikk ikkje vin eller sterk drykk, og et ikkje noko ureint!
 
@@ -14260,7 +14260,7 @@
 
 **[13:14]** Ho må ikkje eta noko som kjem av vintreet, og ikkje drikka vin eller sterk drykk, og ikkje eta noko ureint; alt det eg hev sagt til henne, lyt ho halda seg etter.»
 
-**[13:15]** «Kann du ’kje bia eit bil, so me fær stella til eit kid for deg!» sagde Manoah. For han visste ikkje at det var Herrens engel.
+**[13:15]** «Kann du’kje bia eit bil, so me fær stella til eit kid for deg!» sagde Manoah. For han visste ikkje at det var Herrens engel.
 
 **[13:16]** «Um eg biar, so et eg like vel ikkje av maten din,» svara Herrens engel; «men vil du laga til eit brennoffer åt Herren, so gjer det!»
 
@@ -14280,7 +14280,7 @@
 
 **[13:24]** Då det leid på, fekk kona ein son, og kalla honom Samson. Guten voks upp, og Herren velsigna honom.
 
-**[13:25]** Det var i Dans-lægret millom Sora og Estaol, Herrens ande fyrst tok til å driva honom. 
+**[13:25]** Det var i Dans-lægret millom Sora og Estaol, Herrens ande fyrst tok til å driva honom.
 
 ### Chapter 14
 
@@ -14294,7 +14294,7 @@
 
 **[14:5]** So gjekk Samson og foreldri hans ned til Timna. Då dei kom til vinhagarne utanfor byen, for ei ung løva burande imot honom;
 
-**[14:6]** då kom Herrens ande yver honom, og han tok løva, og sleit henne sund med berre nevarne, som det skulde vore eit kid; men han sagde ’kje med foreldri sine kva han hadde gjort.
+**[14:6]** då kom Herrens ande yver honom, og han tok løva, og sleit henne sund med berre nevarne, som det skulde vore eit kid; men han sagde’kje med foreldri sine kva han hadde gjort.
 
 **[14:7]** So gjekk han ned og tala med gjenta; og han lika henne framifrå godt.
 
@@ -14314,21 +14314,21 @@
 
 **[14:15]** Den sjuande dagen sagde dei til bruri: «Få mannen din til å segja oss løysningi på gåta, elles brenner me upp både deg og folket ditt! Er det for å arma oss ut at de hev bede oss hit?»
 
-**[14:16]** Då gret bruri framfyre honom, og sagde: «Du held ikkje av meg! Du berre hatar meg! Du hev bode landsmennerne mine ei gåta, men meg hev du ikkje sagt korleis ho skal løysast!» «Eg hev ’kje sagt det med far min og mor mi; skulde eg so segja det med deg?» svara Samson.
+**[14:16]** Då gret bruri framfyre honom, og sagde: «Du held ikkje av meg! Du berre hatar meg! Du hev bode landsmennerne mine ei gåta, men meg hev du ikkje sagt korleis ho skal løysast!» «Eg hev’kje sagt det med far min og mor mi; skulde eg so segja det med deg?» svara Samson.
 
 **[14:17]** Men ho hekk yver honom og gret alle dei sju dagarne som gjestebodet varde, og den sjuande dagen sagde han det med henne, av di ho plåga honom so. So løyste ho gåta for landsmennerne sine,
 
-**[14:18]** og fyrr soli gladde den sjuande dagen, kom mennerne i byen og sagde til honom: «Kva er søtar’ enn honning? Kva er sterkar’ enn løva?» Då svara Samson: «Hadde de ’kje pløgt med mi kviga, so hadde de ’kje løyst mi gåta.»
+**[14:18]** og fyrr soli gladde den sjuande dagen, kom mennerne i byen og sagde til honom: «Kva er søtar’ enn honning? Kva er sterkar’ enn løva?» Då svara Samson: «Hadde de’kje pløgt med mi kviga, so hadde de’kje løyst mi gåta.»
 
 **[14:19]** Og Herrens ande kom yver honom; han gjekk ned til Askalon, og slo i hel tretti filistarar, tok klædi deira, og let deim som hadde løyst gåta få deim til høgtidsklede; og harm som han var, for han heim att til garden åt far sin.
 
-**[14:20]** Men kona hans vart gjevi til den fylgjesmannen, som han hadde valt seg til brursvein. 
+**[14:20]** Men kona hans vart gjevi til den fylgjesmannen, som han hadde valt seg til brursvein.
 
 ### Chapter 15
 
 **[15:1]** Då det leid um ei tid, og dei hadde teke til med kveiteskurden, kom Samson og vilde lydast til kona si. Han hadde med seg eit kid, og sagde: «Lat meg få koma inn i kammerset til kona mi!» Men far hennar vilde ikkje gjeva honom lov til det.
 
-**[15:2]** «Eg tenkte so visst at du ikkje lika henne meir,» sagde faren, «og so gav eg henne til brursveinen din. Kann du ’kje taka den yngre systeri i staden? ho er då mykje vænare!»
+**[15:2]** «Eg tenkte so visst at du ikkje lika henne meir,» sagde faren, «og so gav eg henne til brursveinen din. Kann du’kje taka den yngre systeri i staden? ho er då mykje vænare!»
 
 **[15:3]** Då sagde Samson: «Denne gongen er eg saklaus, um eg gjer filistarane vondt!»
 
@@ -14346,7 +14346,7 @@
 
 **[15:10]** Og Juda-mennerne sagde: «Kvi kjem de hit og tek på oss?» «Me vil binda Samson og gjera like eins mot honom som han hev gjort mot oss,» svara dei.
 
-**[15:11]** So for tri tusund mann av Juda-ætti ned til Etamdjuvet, og sagde til Samson: «Veit du ’kje at filistarane råder her i landet? Kvi hev du då gjort oss dette?» «Som dei gjorde mot meg, so hev eg gjort mot deim,» svara han.
+**[15:11]** So for tri tusund mann av Juda-ætti ned til Etamdjuvet, og sagde til Samson: «Veit du’kje at filistarane råder her i landet? Kvi hev du då gjort oss dette?» «Som dei gjorde mot meg, so hev eg gjort mot deim,» svara han.
 
 **[15:12]** Då sagde dei: «Me er komne hit for å binda deg og gjeva deg i henderne på filistarane.» «Lova meg at ikkje de vil slå meg i hel!» sagde Samson.
 
@@ -14364,7 +14364,7 @@
 
 **[15:19]** Då opna Gud den hola som er i Lehi, og det rann vatn utor henne, so han fekk drikka; då rådde han atti, og kvikna til. Difor kalla dei den kjelda Roparkjelda; ho er endå i Lehi.
 
-**[15:20]** Samson styrde Israel i tjuge år; det var i filistartidi. 
+**[15:20]** Samson styrde Israel i tjuge år; det var i filistartidi.
 
 ### Chapter 16
 
@@ -14428,7 +14428,7 @@
 
 **[16:30]** «Lat meg døy i hop med filistarane!» sagde han, og tok i med all si magt; då ramla huset i hop yver fyrstarne og yver alt folket som var der, og dei som han drap då han døydde, var fleire enn dei han hadde drepe med han livde.
 
-**[16:31]** Men brørne hans og alt skyldfolket kom og tok honom, og førde honom heim, og sette honom ned i gravstaden åt Manoah, far hans, millom Sora og Estaol. Då hadde han styrt Israel i tjuge år. 
+**[16:31]** Men brørne hans og alt skyldfolket kom og tok honom, og førde honom heim, og sette honom ned i gravstaden åt Manoah, far hans, millom Sora og Estaol. Då hadde han styrt Israel i tjuge år.
 
 ### Chapter 17
 
@@ -14456,7 +14456,7 @@
 
 **[17:12]** Mika feste den unge leviten til prest for seg, og han vart verande i huset hans Mika.
 
-**[17:13]** «No veit eg at Herren vil gjera vel mot meg,» sagde Mika, «sidan eg hev fenge ein levit til prest.» 
+**[17:13]** «No veit eg at Herren vil gjera vel mot meg,» sagde Mika, «sidan eg hev fenge ein levit til prest.»
 
 ### Chapter 18
 
@@ -14496,7 +14496,7 @@
 
 **[18:18]** Då no desse kararne hadde vore inn i huset hans Mika og teke gudsbilætet med gullkåpa og husgudarne og det støypte fotstykket, so sagde presten til deim: «Kva er det de gjer!»
 
-**[18:19]** «Teg deg og agta munnen din!» svara dei. «Kom heller med oss, og ver far og prest for oss! Er det ’kje mykje betre for deg å vera prest for ei heil ætt og grein av Israel enn for ein huslyd?»
+**[18:19]** «Teg deg og agta munnen din!» svara dei. «Kom heller med oss, og ver far og prest for oss! Er det’kje mykje betre for deg å vera prest for ei heil ætt og grein av Israel enn for ein huslyd?»
 
 **[18:20]** Dette lika presten vel. Han tok gullkåpa og husgudarne og gudsbilætet, og gav seg med flokken.
 
@@ -14520,7 +14520,7 @@
 
 **[18:30]** Der sette dei upp att gudsbilætet, og Jonatan, son åt Gersom, Moses’ son, var prest for Dans-ætti, og so var etterkomarane hans alt til den dagen då landet vart øydt.
 
-**[18:31]** Gudsbilætet som Mika hadde gjort seg, vart standande hjå deim so lenge Guds hus var i Silo. 
+**[18:31]** Gudsbilætet som Mika hadde gjort seg, vart standande hjå deim so lenge Guds hus var i Silo.
 
 ### Chapter 19
 
@@ -14582,7 +14582,7 @@
 
 **[19:29]** Og då han kom heim, treiv han ein kniv, og tok fylgjekona si, og lema henne sund i tolv luter, og deim sende han kring i heile Israelsriket.
 
-**[19:30]** Og alle som såg det, sagde: «Slikt hev aldri hendt og aldri vore spurt, alt ifrå den dagen då Israels-sønerne for frå Egyptarland og til denne dag. Tenk etter, legg råd, og tala!» 
+**[19:30]** Og alle som såg det, sagde: «Slikt hev aldri hendt og aldri vore spurt, alt ifrå den dagen då Israels-sønerne for frå Egyptarland og til denne dag. Tenk etter, legg råd, og tala!»
 
 ### Chapter 20
 
@@ -14680,7 +14680,7 @@
 
 **[20:47]** Då snudde dei um, og rømde ut i øydemarki, til Rimmonshøgdi, seks hundrad mann, og dei vart verande på Rimmonshøgdi i fire månader.
 
-**[20:48]** Men Israels-mennerne for attende til Benjaminslandet, og øydde det med odd og egg; både byarne med sine folk, og bufeet, og alt det dei fann, og alle byarne som fanst der, sette dei eld på. 
+**[20:48]** Men Israels-mennerne for attende til Benjaminslandet, og øydde det med odd og egg; både byarne med sine folk, og bufeet, og alt det dei fann, og alle byarne som fanst der, sette dei eld på.
 
 ### Chapter 21
 
@@ -14732,7 +14732,7 @@
 
 **[21:24]** På same tid drog Israels-sønerne og burt derifrå, kvar til si bygd og si ætt; kvar for heim til sin odelsgard.
 
-**[21:25]** I dei dagar var det ingen konge i Israel; kvar gjorde som han hadde hug til.  
+**[21:25]** I dei dagar var det ingen konge i Israel; kvar gjorde som han hadde hug til.
 
 ## Ruth
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** Rik for eg herifrå, og tomhendt hev Herren late meg koma att. Kvifor kallar de meg No’omi då når Herren hev vitna mot meg, og den Allmegtige hev late det ganga meg so ille?»
 
-**[1:22]** So kom då No’omi heim att frå Moabland med sonekona si, moabitkvinna Rut, og dei kom til Betlehem då dei tok til med skurdonni. 
+**[1:22]** So kom då No’omi heim att frå Moabland med sonekona si, moabitkvinna Rut, og dei kom til Betlehem då dei tok til med skurdonni.
 
 ### Chapter 2
 
@@ -14828,7 +14828,7 @@
 
 **[2:22]** Då sagde No’omi til Rut, sonekona si: «Ja, det er best, dotter mi, at du gjeng med tenestgjentorne hans; so dei ikkje skal gjera deg noko vondt på ein annan åker.»
 
-**[2:23]** So heldt ho seg åt tenestgjentorne hans Boaz og plukka aks der til dei vart ferdige både med bygg- og kveiteskurden. Men ho budde hjå vermor si. 
+**[2:23]** So heldt ho seg åt tenestgjentorne hans Boaz og plukka aks der til dei vart ferdige både med bygg- og kveiteskurden. Men ho budde hjå vermor si.
 
 ### Chapter 3
 
@@ -14866,7 +14866,7 @@
 
 **[3:17]** Og ho sagde: «Desse seks måli med bygg gav han meg og sagde: «Du skal ikkje koma tomhendt heim til vermor di.»»
 
-**[3:18]** Då svara ho: «Haldt deg no roleg, dotter mi, til du fær sjå korleis det gjeng! for den mannen gjev seg ikkje fyrr han fær avgjort saki i dag.» 
+**[3:18]** Då svara ho: «Haldt deg no roleg, dotter mi, til du fær sjå korleis det gjeng! for den mannen gjev seg ikkje fyrr han fær avgjort saki i dag.»
 
 ### Chapter 4
 
@@ -14912,7 +14912,7 @@
 
 **[4:21]** Salmon var far åt Boaz, og Boaz far åt Obed.
 
-**[4:22]** Obed var far åt Isai, og Isai far åt David.  
+**[4:22]** Obed var far åt Isai, og Isai far åt David.
 
 ## I Samuel
 
@@ -14972,7 +14972,7 @@
 
 **[1:27]** Um denne guten bad eg, og Herren høyrde bøni mi og gav meg det eg bad um.
 
-**[1:28]** Difor gjev eg honom att til Herren, so han skal vera ei gåva frå Herren alle sine livedager.» Og dei bad til Herren der. 
+**[1:28]** Difor gjev eg honom att til Herren, so han skal vera ei gåva frå Herren alle sine livedager.» Og dei bad til Herren der.
 
 ### Chapter 2
 
@@ -15046,7 +15046,7 @@
 
 **[2:35]** Eg vil reisa meg upp ein pålitande prest som gjer etter min hug og vilje. Åt honom vil eg byggja eit traust hus, so han allstødt skal gjera tenesta framfor den eg salvar.
 
-**[2:36]** Då vil det henda at alle som vert att i ætti di, kjem og kastar seg å gruve for honom og tiggar um ein skilling eller ein brødleiv, og segjer: «Kjære væne, set meg til medhjelpar i eit av preste-embætti dine, so eg kann få ein bite mat å eta!»»» 
+**[2:36]** Då vil det henda at alle som vert att i ætti di, kjem og kastar seg å gruve for honom og tiggar um ein skilling eller ein brødleiv, og segjer: «Kjære væne, set meg til medhjelpar i eit av preste-embætti dine, so eg kann få ein bite mat å eta!»»»
 
 ### Chapter 3
 
@@ -15090,7 +15090,7 @@
 
 **[3:20]** Heile Israel frå Dan til Be’erseba skyna at Samuel var utvald til profet for Herren.
 
-**[3:21]** Og Herren heldt fram med å syna seg i Silo. For Herren openberra seg for Samuel i Silo gjenom Herrens ord. 
+**[3:21]** Og Herren heldt fram med å syna seg i Silo. For Herren openberra seg for Samuel i Silo gjenom Herrens ord.
 
 ### Chapter 4
 
@@ -15136,7 +15136,7 @@
 
 **[4:21]** Ho kalla guten I-kabod: «Kvorven er herlegdomen frå Israel,» sagde ho. Ho kom i hug Guds kista som var falli i fiendehand, og so verfaren og mannen.
 
-**[4:22]** «Kvorven er herlegdomen frå Israel,» sagde ho, «for Guds kista var falli i fiendehand.» 
+**[4:22]** «Kvorven er herlegdomen frå Israel,» sagde ho, «for Guds kista var falli i fiendehand.»
 
 ### Chapter 5
 
@@ -15162,7 +15162,7 @@
 
 **[5:11]** Dei sende då bod og stemnde alle filistarfyrstarne saman og sagde: «Send burt kista åt Israels Gud, og lat henne koma heim att til rette staden sin, og ikkje tyna meg og folket mitt!» Ein daudsens angest hadde gripe heile byen; for Guds hand låg ovtung på deim.
 
-**[5:12]** Dei folki som ikkje døydde, vart søkte med svullsot. Og klageropet frå byen steig upp til himmelen. 
+**[5:12]** Dei folki som ikkje døydde, vart søkte med svullsot. Og klageropet frå byen steig upp til himmelen.
 
 ### Chapter 6
 
@@ -15206,7 +15206,7 @@
 
 **[6:20]** Og Bet-Semes-buarne sagde: «Kven kann standa seg for Herren, den heilage Gud? og kven vil han no heimsøkja når han dreg upp frå oss?»
 
-**[6:21]** Dei sende bod til deim som budde i Kirjat-Jearim, og sagde: «Filistarane hev sendt heim att Herrens kista. Kom hit ned og før henne upp til dykk!» 
+**[6:21]** Dei sende bod til deim som budde i Kirjat-Jearim, og sagde: «Filistarane hev sendt heim att Herrens kista. Kom hit ned og før henne upp til dykk!»
 
 ### Chapter 7
 
@@ -15242,7 +15242,7 @@
 
 **[7:16]** Kvart år ferdast han rundt til Betel, Gilgal og Mispa; og han skilde trættor i Israel på alle desse staderne.
 
-**[7:17]** So for han heim att til Rama; for der åtte han heime, og der skilde han elles trættorne millom israelitarne. Og der bygde han eit altar for Herren. 
+**[7:17]** So for han heim att til Rama; for der åtte han heime, og der skilde han elles trættorne millom israelitarne. Og der bygde han eit altar for Herren.
 
 ### Chapter 8
 
@@ -15288,7 +15288,7 @@
 
 **[8:21]** Då Samuel høyrde alt det folket sagde, bar han det fram for Herren.
 
-**[8:22]** Og Herren sagde til Samuel: «Lyd deim og set ein konge yver deim!» Då sagde Samuel til Israels-sønerne: «Far heim kvar til sin by!» 
+**[8:22]** Og Herren sagde til Samuel: «Lyd deim og set ein konge yver deim!» Då sagde Samuel til Israels-sønerne: «Far heim kvar til sin by!»
 
 ### Chapter 9
 
@@ -15344,7 +15344,7 @@
 
 **[9:26]** Tidleg næste morgon då det lyste av dag, ropa Samuel på Saul uppe på taket: «Ris upp, so vil eg fylgja deg på veg!» Saul reis upp, og dei gjekk båe av stad, han og Samuel.
 
-**[9:27]** Då dei var komne utanfor byen, sagde Samuel med Saul: «Bed drengen ganga fyre oss!» - han so gjorde - men sjølv må du stogga eit bil, so skal du få høyra det Gud hev tala. 
+**[9:27]** Då dei var komne utanfor byen, sagde Samuel med Saul: «Bed drengen ganga fyre oss!» - han so gjorde - men sjølv må du stogga eit bil, so skal du få høyra det Gud hev tala.
 
 ### Chapter 10
 
@@ -15400,7 +15400,7 @@
 
 **[10:26]** Saul gjekk ogso heim til Gibea. Og med honom fylgde ein flokk djerve karar, som var gripne i hjarta av Gud.
 
-**[10:27]** Men nokre illmenne sagde: «Kva hjelp kann denne mannen gjeva oss?» Dei vanvyrde honom og bar ingi hyllingsgåva til honom. Men han læst som han inkje gådde. 
+**[10:27]** Men nokre illmenne sagde: «Kva hjelp kann denne mannen gjeva oss?» Dei vanvyrde honom og bar ingi hyllingsgåva til honom. Men han læst som han inkje gådde.
 
 ### Chapter 11
 
@@ -15432,7 +15432,7 @@
 
 **[11:14]** Og Samuel sagde med folket: «Kom, lat oss ganga til Gilgal og nya upp kongedømet der!»
 
-**[11:15]** Og heile folket gjekk til Gilgal, og gjorde Saul til konge der framfor Herren i Gilgal, og ofra takkoffer framfor Herren. Og alle Israels-mennerne gledde seg med ovstor fagnad. 
+**[11:15]** Og heile folket gjekk til Gilgal, og gjorde Saul til konge der framfor Herren i Gilgal, og ofra takkoffer framfor Herren. Og alle Israels-mennerne gledde seg med ovstor fagnad.
 
 ### Chapter 12
 
@@ -15484,7 +15484,7 @@
 
 **[12:24]** Berre de vil bera age for Herren og ten honom truleg av all dykkar hug! For sjå kor store ting han hev gjort for dykk!
 
-**[12:25]** Men gjer de det som vondt er, so er det ute både med dykk og kongen dykkar.» 
+**[12:25]** Men gjer de det som vondt er, so er det ute både med dykk og kongen dykkar.»
 
 ### Chapter 13
 
@@ -15532,7 +15532,7 @@
 
 **[13:22]** Av dette hadde det seg so at då slaget skulde standa, hadde ingen av mennerne åt Saul og Jonatan sverd eller spjot. Einast Saul og Jonatan, son hans hadde våpn.
 
-**[13:23]** Filistarane sette fram ein utpost i Mikmasskardet. 
+**[13:23]** Filistarane sette fram ein utpost i Mikmasskardet.
 
 ### Chapter 14
 
@@ -15638,7 +15638,7 @@
 
 **[14:51]** for Kis, Sauls far, og Ner, Abners far, var søner åt Abiel.
 
-**[14:52]** Krigen mot filistarane var allstødt hard so lenge Saul livde. Og so tidt Saul såg ei kjempa eller ein dugande kar, tok han honom i si tenesta. 
+**[14:52]** Krigen mot filistarane var allstødt hard so lenge Saul livde. Og so tidt Saul såg ei kjempa eller ein dugande kar, tok han honom i si tenesta.
 
 ### Chapter 15
 
@@ -15710,7 +15710,7 @@
 
 **[15:34]** Samuel gjekk til Rama, og Saul for heim att til Sauls Gibea.
 
-**[15:35]** Samuel vilde ikkje sjå Saul meir so lenge han livde. For Samuel syrgde yver Saul, av di Herren angra han hadde gjort Saul til konge yver Israel. 
+**[15:35]** Samuel vilde ikkje sjå Saul meir so lenge han livde. For Samuel syrgde yver Saul, av di Herren angra han hadde gjort Saul til konge yver Israel.
 
 ### Chapter 16
 
@@ -15758,7 +15758,7 @@
 
 **[16:22]** Og Saul sende bod til Isai og bad: «Kjære, lat David stogga hjå meg! for eg hev fenge godvilje for honom.»
 
-**[16:23]** So tidt åndi frå Gud kom yver Saul, so tok David harpa og leika på henne. Då letna det for Saul. Han besna, og den vonde åndi slepte honom. 
+**[16:23]** So tidt åndi frå Gud kom yver Saul, so tok David harpa og leika på henne. Då letna det for Saul. Han besna, og den vonde åndi slepte honom.
 
 ### Chapter 17
 
@@ -15876,7 +15876,7 @@
 
 **[17:57]** Og då David kom att, etter han hadde felt filistaren, tok Abner og førde honom fram for Saul; han heldt hovudet åt filistaren i handi.
 
-**[17:58]** Og Saul spurde honom: «Kven er du son til, guten min?» David svara: «Son til tenaren din, Isai i Betlehem.» 
+**[17:58]** Og Saul spurde honom: «Kven er du son til, guten min?» David svara: «Son til tenaren din, Isai i Betlehem.»
 
 ### Chapter 18
 
@@ -15938,7 +15938,7 @@
 
 **[18:29]** Men Saul vart stendigt meir og meir rædd David. So vart Saul uvenen åt David for heile livet.
 
-**[18:30]** Men filistarfyrstarne for i herferd. Og so tidt det for ut, hadde David meir lukka med seg enn hermennerne åt Saul. Og namnet hans vart høgvyrdt. 
+**[18:30]** Men filistarfyrstarne for i herferd. Og so tidt det for ut, hadde David meir lukka med seg enn hermennerne åt Saul. Og namnet hans vart høgvyrdt.
 
 ### Chapter 19
 
@@ -15988,7 +15988,7 @@
 
 **[19:23]** Då han gjekk dit, til Nevajot ved Rama, kom gudsåndi yver honom og, so han gjekk i profetisk eldhug heile vegen, til dess han kom til Nevajot ved Rama.
 
-**[19:24]** Då reiv han og av seg klædi, med di han og vart teken av profetisk eldhug framfor Samuel. Og han datt i koll og låg der naken heile den dagen og natti med. Difor plar dei segjer: «Er Saul og millom profetarne?» 
+**[19:24]** Då reiv han og av seg klædi, med di han og vart teken av profetisk eldhug framfor Samuel. Og han datt i koll og låg der naken heile den dagen og natti med. Difor plar dei segjer: «Er Saul og millom profetarne?»
 
 ### Chapter 20
 
@@ -16074,7 +16074,7 @@
 
 **[20:41]** Då sveinen var faren, reis David upp på sørsida. Han fall å gruve til jordi, og bøygde seg tri gonger. Dei kysste einannan, og gret med einannan. Og David stridgret.
 
-**[20:42]** Jonatan sagde til David: «Far i fred! Lat det standa med magt det me batt med ein eid i Herrens namn, då me sagde: «Herren skal vere vitne millom meg og deg, og millom mi ætt og di ætt, til æveleg tid!»» So reis David upp og gjekk sin veg. Og Jonatan gjekk heim att til byen. 
+**[20:42]** Jonatan sagde til David: «Far i fred! Lat det standa med magt det me batt med ein eid i Herrens namn, då me sagde: «Herren skal vere vitne millom meg og deg, og millom mi ætt og di ætt, til æveleg tid!»» So reis David upp og gjekk sin veg. Og Jonatan gjekk heim att til byen.
 
 ### Chapter 21
 
@@ -16106,7 +16106,7 @@
 
 **[21:14]** Då sagde Akis med tenarane sine: «De ser då mannen hev mist vitet! Kvi fører de honom til meg?
 
-**[21:15]** Vantar det meg på vitløysor, sidan de førar denne mannen hit, so han skal te seg galen framfor meg? Kva hev han å gjera her i huset?» 
+**[21:15]** Vantar det meg på vitløysor, sidan de førar denne mannen hit, so han skal te seg galen framfor meg? Kva hev han å gjera her i huset?»
 
 ### Chapter 22
 
@@ -16154,7 +16154,7 @@
 
 **[22:22]** «Eg skyna det alt den gong,» sagde David til Abjatar, «at når edomiten Doeg var der, vilde han melda det til Saul. Eg er upphavet til dråpet på heile di ætt.
 
-**[22:23]** Haldt deg hjå meg! ver hugheil! Den som vil taka livet av meg, vil taka livet av deg. Du er no i mi varetekt.» 
+**[22:23]** Haldt deg hjå meg! ver hugheil! Den som vil taka livet av meg, vil taka livet av deg. Du er no i mi varetekt.»
 
 ### Chapter 23
 
@@ -16212,7 +16212,7 @@
 
 **[23:27]** so kom det bod til Saul: «Skunda deg og kom! filistarane hev falle inn i landet.»
 
-**[23:28]** So heldt Saul upp med å forfølja David, og drog mot filistarane. Derav fekk den staden namnet Sela-Hammahlekot. 
+**[23:28]** So heldt Saul upp med å forfølja David, og drog mot filistarane. Derav fekk den staden namnet Sela-Hammahlekot.
 
 **[23:29]** 
 
@@ -16260,7 +16260,7 @@
 
 **[24:21]** Sjå no skynar eg at du skal verta konge, og at kongedømet yver Israel skal vera fast i di hand.
 
-**[24:22]** Men gjer no eid ved Herren at du ikkje vil rydja ut mi ætt etter meg og ikkje strjuka ut namnet mitt or ætti mi!» David gjorde den eiden til Saul. So for Saul heim. David og kararne hans drog upp i fjellborgi. 
+**[24:22]** Men gjer no eid ved Herren at du ikkje vil rydja ut mi ætt etter meg og ikkje strjuka ut namnet mitt or ætti mi!» David gjorde den eiden til Saul. So for Saul heim. David og kararne hans drog upp i fjellborgi.
 
 ### Chapter 25
 
@@ -16350,7 +16350,7 @@
 
 **[25:43]** David hadde dessutan teke til kona Ahinoam frå Jizre’el, so båe desse tvo vart konorne hans.
 
-**[25:44]** Men Saul hadde gjeve Mikal, dotter si, kona hans David, åt Palti La’isson frå Gallim. 
+**[25:44]** Men Saul hadde gjeve Mikal, dotter si, kona hans David, åt Palti La’isson frå Gallim.
 
 ### Chapter 26
 
@@ -16402,7 +16402,7 @@
 
 **[26:24]** Difor: liksom eg hev halde ditt liv so høgt i dag, so skal Herren og halda mitt liv høgt, og han skal fria meg ut or all naud.»
 
-**[26:25]** Saul sagde med David: «Velsigna vere du, David, son min! Det du tek deg fyre, skal du ogso sanneleg magtast gjera.» So for David sin veg, og Saul drog heim att. 
+**[26:25]** Saul sagde med David: «Velsigna vere du, David, son min! Det du tek deg fyre, skal du ogso sanneleg magtast gjera.» So for David sin veg, og Saul drog heim att.
 
 ### Chapter 27
 
@@ -16428,7 +16428,7 @@
 
 **[27:11]** Ingi livande sjæl sparde David, so dei kunde koma til Gat. For han tenkte: «Dei kunde slarva um oss og segja: «Det og det hev David gjort; soleis hev han fare åt heile tidi han budde i Filistarlandet.»»
 
-**[27:12]** Men Akis trudde David, og tenkte: «Han hev fenge uord på seg hjå Israel, folket sitt, og no vil han tena meg alle dager.» 
+**[27:12]** Men Akis trudde David, og tenkte: «Han hev fenge uord på seg hjå Israel, folket sitt, og no vil han tena meg alle dager.»
 
 ### Chapter 28
 
@@ -16480,7 +16480,7 @@
 
 **[28:24]** Kona hadde ein gjødkalv heime. Ho skunda seg, fekk slagta honom. So tok ho mjøl, knoda og baka søtebrød.
 
-**[28:25]** So bar ho det fram for Saul og tenarane. Og då dei hadde ete, reis dei upp, og gjekk av stad same natti. 
+**[28:25]** So bar ho det fram for Saul og tenarane. Og då dei hadde ete, reis dei upp, og gjekk av stad same natti.
 
 ### Chapter 29
 
@@ -16504,7 +16504,7 @@
 
 **[29:10]** Ris no tidleg upp i morgon, du og tenarane åt herren din som er komne med deg; og når det de hev gjort, so far dykkar veg so snart det ljosnar!»
 
-**[29:11]** David og kararne hans reis då upp tidleg, for sin veg um morgonen, og kom heim att til Filistarlandet. Men filistarane drog upp til Jizre’el. 
+**[29:11]** David og kararne hans reis då upp tidleg, for sin veg um morgonen, og kom heim att til Filistarlandet. Men filistarane drog upp til Jizre’el.
 
 ### Chapter 30
 
@@ -16568,7 +16568,7 @@
 
 **[30:30]** i Horma, i Bor-Asan, i Atak,
 
-**[30:31]** i Hebron, og alle dei staderne der David hadde ferdast med kararne sine. 
+**[30:31]** i Hebron, og alle dei staderne der David hadde ferdast med kararne sine.
 
 ### Chapter 31
 
@@ -16596,7 +16596,7 @@
 
 **[31:12]** tok dei i veg, alle våpnføre karar, gjekk heile natti, tok ned frå muren i Bet-San Sauls lik og liki av sønerne hans, for so til Jabes og brende liki der.
 
-**[31:13]** So tok dei og grov beini deira ned under tamariska i Jabes og heldt fasta i sju dagar.  
+**[31:13]** So tok dei og grov beini deira ned under tamariska i Jabes og heldt fasta i sju dagar.
 
 ## II Samuel
 
@@ -16654,7 +16654,7 @@
 
 **[1:26]** Sårt eg deg syrgjer, Jonatan, bror min! Utifrå yndeleg var du for meg. Kjærleiken din kjærare var meg enn kvende-elsk.
 
-**[1:27]** Ai ei! at kjempor fall, og båe strids-sverdi øyddest! 
+**[1:27]** Ai ei! at kjempor fall, og båe strids-sverdi øyddest!
 
 ### Chapter 2
 
@@ -16720,7 +16720,7 @@
 
 **[2:31]** David folk hadde drepe tri hundrad og seksti mann av benjaminitarne og Abner-folket.
 
-**[2:32]** Dei tok Asael og gravlagde honom i farsgravi i Betlehem. So gjekk dei heile natti, Joab og mennerne hans, og kom ved dagsprett til Hebron. 
+**[2:32]** Dei tok Asael og gravlagde honom i farsgravi i Betlehem. So gjekk dei heile natti, Joab og mennerne hans, og kom ved dagsprett til Hebron.
 
 ### Chapter 3
 
@@ -16800,7 +16800,7 @@
 
 **[3:38]** Kongen sagde med tenararne sine: «Veit de det er ein hovding og stor mann som er fallen i dag i Israel?
 
-**[3:39]** Eg er endå veik, endå eg er salva til konge. Og desse kararne, Seruja-sønerne, er sterkare enn eg. Herren løne nidingen etter nidingsverket hans!» 
+**[3:39]** Eg er endå veik, endå eg er salva til konge. Og desse kararne, Seruja-sønerne, er sterkare enn eg. Herren løne nidingen etter nidingsverket hans!»
 
 ### Chapter 4
 
@@ -16826,7 +16826,7 @@
 
 **[4:11]** Men når nidingar myrder ein rettvis mann i heimen hans, i sengi - kor mykje meir må eg ikkje krevja blodet hans av dykkar hender, og rydja dykk burt frå jordi!»
 
-**[4:12]** David baud sveinarne sine drepa deim, og hogga av deim hender og føter og hengje deim upp attmed Hebrontjørni. Hovudet hans Isboset tok dei og gravlagde i Abners grav i Hebron. 
+**[4:12]** David baud sveinarne sine drepa deim, og hogga av deim hender og føter og hengje deim upp attmed Hebrontjørni. Hovudet hans Isboset tok dei og gravlagde i Abners grav i Hebron.
 
 ### Chapter 5
 
@@ -16878,7 +16878,7 @@
 
 **[5:24]** So snart du høyrer ljoden av stig i topparne på bakatrei, so må du springa fram. For då dreg Herren ut framfyre deg og vinn yver filistarheren!»
 
-**[5:25]** David gjorde som Herren baud; og han slo filistarane og forfylgde deim frå Geba heilt fram til Gezer. 
+**[5:25]** David gjorde som Herren baud; og han slo filistarane og forfylgde deim frå Geba heilt fram til Gezer.
 
 ### Chapter 6
 
@@ -16926,7 +16926,7 @@
 
 **[6:22]** og småminka meg meir, og verta ring i mine augo. Men hjå dei tenestgjentorne du nemnde, hjå deim skal eg verta høgvyrd.»
 
-**[6:23]** Mikal Saulsdotter vart verande barnlaus alt til sin døyande dag. 
+**[6:23]** Mikal Saulsdotter vart verande barnlaus alt til sin døyande dag.
 
 ### Chapter 7
 
@@ -16986,7 +16986,7 @@
 
 **[7:28]** Og no, Herre, Herre! Du er Gud, og dine ord er sætande, og du hev lova tenaren din alt dette gode.
 
-**[7:29]** So gjer no vel, velsigna huset mitt so det må standa i all æva for di åsyn! Ja, du hev sagt det, Herre, Herre! Med di velsigning skal huset åt tenaren velsignast til æveleg tid. 
+**[7:29]** So gjer no vel, velsigna huset mitt so det må standa i all æva for di åsyn! Ja, du hev sagt det, Herre, Herre! Med di velsigning skal huset åt tenaren velsignast til æveleg tid.
 
 ### Chapter 8
 
@@ -17024,7 +17024,7 @@
 
 **[8:17]** Sadok Ahitubsson og Ahimelek Abjatarsson var prestar. Og Seraja var riksskrivar.
 
-**[8:18]** Benaja Jojadason var hovding yver livvakti. Sønerne åt David var prestar. 
+**[8:18]** Benaja Jojadason var hovding yver livvakti. Sønerne åt David var prestar.
 
 ### Chapter 9
 
@@ -17052,7 +17052,7 @@
 
 **[9:12]** Mefiboset hadde ein liten son, Mika heitte han. Alle som budde i huset åt Siba, vart tenarar for Mefiboset.
 
-**[9:13]** Men sjølv budde Mefiboset i Jerusalem, då han stødt åt ved kongens bord. Han var lam på båe føterne. 
+**[9:13]** Men sjølv budde Mefiboset i Jerusalem, då han stødt åt ved kongens bord. Han var lam på båe føterne.
 
 ### Chapter 10
 
@@ -17092,7 +17092,7 @@
 
 **[10:18]** Men syrarane rømde for Israel, og David hogg ned sju hundrad krigshestar og fyrti tusund hestfolk av syrarheren; og herhovdingen Sobak fekk banehogg der.
 
-**[10:19]** Då alle lydkongarne under Hadadezer såg dei var slegne av Israel, gjorde dei fred med Israel og vart tenarane deira. So våga ikkje syrarane hjelpa ammonitarne meir.» 
+**[10:19]** Då alle lydkongarne under Hadadezer såg dei var slegne av Israel, gjorde dei fred med Israel og vart tenarane deira. So våga ikkje syrarane hjelpa ammonitarne meir.»
 
 ### Chapter 11
 
@@ -17148,7 +17148,7 @@
 
 **[11:26]** Då kona hans Uria spurde at mannen hennar var fallen, øya og gret ho yver husbonden sin.
 
-**[11:27]** Då syrgjetidi var ute, sende David bod og let henta henne heim til seg. Ho vart kona hans, og ho åtte ein son. Men det David hadde gjort, var ilt i Herrens augo. 
+**[11:27]** Då syrgjetidi var ute, sende David bod og let henta henne heim til seg. Ho vart kona hans, og ho åtte ein son. Men det David hadde gjort, var ilt i Herrens augo.
 
 ### Chapter 12
 
@@ -17212,7 +17212,7 @@
 
 **[12:30]** Han tok kongekruna frå hovudet på kongen. Ho var av gull og vog vel tvo vågar og var prydd med ein glimestein. Ho vart no sett på Davids hovud. Eit veldugt herfang førde han heim frå byen.
 
-**[12:31]** Folket i byen slæpte han burt, og sette til arbeid ved sagbruki, med treskjevalsorne av jarn og med jarnøksarne, og let deim træla ved tiglomnarne. Soleis gjorde han med alle ammonitarne. So snudde David med alt folket heim att til Jerusalem. 
+**[12:31]** Folket i byen slæpte han burt, og sette til arbeid ved sagbruki, med treskjevalsorne av jarn og med jarnøksarne, og let deim træla ved tiglomnarne. Soleis gjorde han med alle ammonitarne. So snudde David med alt folket heim att til Jerusalem.
 
 ### Chapter 13
 
@@ -17292,7 +17292,7 @@
 
 **[13:38]** Absalom flydde og for til Gesur, og heldt seg der i tri år.
 
-**[13:39]** Men kong David let vera å draga ut mot Absalom; han hadde lote trøysta seg i sorgi yver at Amnon var dåen. 
+**[13:39]** Men kong David let vera å draga ut mot Absalom; han hadde lote trøysta seg i sorgi yver at Amnon var dåen.
 
 ### Chapter 14
 
@@ -17360,7 +17360,7 @@
 
 **[14:32]** «Eg sende då bod etter deg,» svara Absalom, «og bad deg koma hit, so eg kunde senda deg til kongen med desse ordi: «Kvifor fekk eg koma heim frå Gesur? det vøre betre for meg um eg hadde halde meg der framleides.» No vil eg fram for kongen. Er eg saka i nokor illgjerning, so fær han drepa meg.»
 
-**[14:33]** Då gjekk Joab til kongen og melde honom det. Kongen kalla då til seg Absalom; og han kom inn til kongen, kasta seg å gruve for honom og bøygde seg til jordi framfor kongen. Og kongen kysste Absalom. 
+**[14:33]** Då gjekk Joab til kongen og melde honom det. Kongen kalla då til seg Absalom; og han kom inn til kongen, kasta seg å gruve for honom og bøygde seg til jordi framfor kongen. Og kongen kysste Absalom.
 
 ### Chapter 15
 
@@ -17436,7 +17436,7 @@
 
 **[15:36]** Dei hev ogso båe sønerne sine heime: Sadok hev Ahima’as, og Abjatar hev Jonatan. Med deim kann du senda meg bod um alt du fretter.»
 
-**[15:37]** So gjekk då Husai, venen åt David, inn i byen, samstundes som Absalom drog inn i Jerusalem. 
+**[15:37]** So gjekk då Husai, venen åt David, inn i byen, samstundes som Absalom drog inn i Jerusalem.
 
 ### Chapter 16
 
@@ -17484,7 +17484,7 @@
 
 **[16:22]** So slo dei upp tjeld åt Absalom uppå taket. Og Absalom låg med fylgjekonorne åt far sin, so heile Israel såg på.
 
-**[16:23]** I dei dagarne galdt ei råd som Ahitofel gav, like mykje som svar frå Gud. So mykje galdt alle Ahitofels råder både hjå David og hjå Absalom. 
+**[16:23]** I dei dagarne galdt ei råd som Ahitofel gav, like mykje som svar frå Gud. So mykje galdt alle Ahitofels råder både hjå David og hjå Absalom.
 
 ### Chapter 17
 
@@ -17544,7 +17544,7 @@
 
 **[17:28]** ført dit sengjer, skåler og kruskjerald. Og kveite, bygg, mjøl, steikte aks, baunor, linsor,
 
-**[17:29]** honning, tjukkmjølk, sauer og mjølk-ost hadde dei med seg til mat åt David og folket hans. For dei tenkte: «Folki hev vorte svoltne, trøytte og tyrste i øydemarki.» 
+**[17:29]** honning, tjukkmjølk, sauer og mjølk-ost hadde dei med seg til mat åt David og folket hans. For dei tenkte: «Folki hev vorte svoltne, trøytte og tyrste i øydemarki.»
 
 ### Chapter 18
 
@@ -17612,7 +17612,7 @@
 
 **[18:32]** Kongen spurde ætiopen: «Stend det vel til med den unge mannen, med Absalom?» Ætiopen svara: «Gjev det må ganga soleis med uvenerne dine, herre konge, og med alle som reiser seg mot deg og vil gjera deg mein, som det gjekk med den unge mannen!»
 
-**[18:33]** Då vart kongen reint ille ved, gjekk upp i taksalen yver porten, og gret. Og alt medan han gjekk, jamra han: «Absalom, son min, Absalom, son min, son min! Gjev eg hadde døytt i staden din! Absalom, son min, son min!» 
+**[18:33]** Då vart kongen reint ille ved, gjekk upp i taksalen yver porten, og gret. Og alt medan han gjekk, jamra han: «Absalom, son min, Absalom, son min, son min! Gjev eg hadde døytt i staden din! Absalom, son min, son min!»
 
 ### Chapter 19
 
@@ -17700,7 +17700,7 @@
 
 **[19:42]** Juda-mennerne svara Israels-mennerne: «Kongen stend då næmare oss. Kvifor er de harme for det? Hev me livt på kongen, eller fenge nokor gåva?»
 
-**[19:43]** Israels-mennerne svara Juda-mennerne: «Ti gonger større lut enn de hev me i honom som er konge, soleis ogso i David. Kvifor hev de vanvyrdt oss? Var det ikkje me som fyrst tala um å henta kongen vår heim?» Det svaret Juda-mennerne gav, var endå argare enn det Israels-mennerne hadde gjeve. 
+**[19:43]** Israels-mennerne svara Juda-mennerne: «Ti gonger større lut enn de hev me i honom som er konge, soleis ogso i David. Kvifor hev de vanvyrdt oss? Var det ikkje me som fyrst tala um å henta kongen vår heim?» Det svaret Juda-mennerne gav, var endå argare enn det Israels-mennerne hadde gjeve.
 
 ### Chapter 20
 
@@ -17754,7 +17754,7 @@
 
 **[20:25]** Seja var riksskrivar. Sadok og Abjatar var prestar.
 
-**[20:26]** Dessutan var Ira av Ja’irs-ætti prest hjå David. 
+**[20:26]** Dessutan var Ira av Ja’irs-ætti prest hjå David.
 
 ### Chapter 21
 
@@ -17800,7 +17800,7 @@
 
 **[21:21]** Han svivyrde Israels-mennerne. Jonatan, son åt Simea, bror åt David, gav honom difor banehugg.
 
-**[21:22]** Desse fire var ætta frå Rafa i Gat. Og dei fall for David og mennerne hans. 
+**[21:22]** Desse fire var ætta frå Rafa i Gat. Og dei fall for David og mennerne hans.
 
 ### Chapter 22
 
@@ -17904,7 +17904,7 @@
 
 **[22:50]** Difor, Herre, vil eg prisa deg millom heidningarn’, og lovsyngja ditt namn.
 
-**[22:51]** For han gjer kongen sin sigersæl, gjer miskunn mot honom han salva, mot David og ætti hans til æveleg tid.» 
+**[22:51]** For han gjer kongen sin sigersæl, gjer miskunn mot honom han salva, mot David og ætti hans til æveleg tid.»
 
 ### Chapter 23
 
@@ -17916,7 +17916,7 @@
 
 **[23:4]** han likjest på dagsprett når soli renn, ein morgon forutan skyer, når graset grønkast i sol etter regn.
 
-**[23:5]** Er det ’kje so med mitt hus hjå Gud? Han gjorde ævelegt samband med meg, feste og trygde meg heilt og fullt. Ja, alt som vert meg til frelsa og gleda, det let han visseleg veksa åt meg.
+**[23:5]** Er det’kje so med mitt hus hjå Gud? Han gjorde ævelegt samband med meg, feste og trygde meg heilt og fullt. Ja, alt som vert meg til frelsa og gleda, det let han visseleg veksa åt meg.
 
 **[23:6]** Men uvyrdor likjest alle på utkasta tornar, ein vil ikkje taka i deim med hender.
 
@@ -17984,7 +17984,7 @@
 
 **[23:38]** jitriten Ir, jitriten Gareb,
 
-**[23:39]** hetiten Uria. I alt var dei sju og tretti. 
+**[23:39]** hetiten Uria. I alt var dei sju og tretti.
 
 ### Chapter 24
 
@@ -18036,7 +18036,7 @@
 
 **[24:24]** Kongen svara Aravna: «Nei, eg vil kjøpa det av deg for full pris. Eg vil ikkje ofra åt Herren, min Gud, brennoffer som ingen ting kostar.» So kjøpte David treskjarvollen og feet for femti sylvdalar.
 
-**[24:25]** David bygde der eit altar åt Herren, og ofra brennoffer og takkoffer. Då bønhøyrde Herren landet. Og då stana sotti som hadde herja Israel.  
+**[24:25]** David bygde der eit altar åt Herren, og ofra brennoffer og takkoffer. Då bønhøyrde Herren landet. Og då stana sotti som hadde herja Israel.
 
 ## I Kings
 
@@ -18146,7 +18146,7 @@
 
 **[1:52]** Då sagde Salomo: «Vil han bera seg åt som ein fagnamann, so skal ikkje eit hår av hovudet hans falla til jordi; men syner det seg at han fer med noko vondt, so skal han døy.»
 
-**[1:53]** So sende kong Salomo folk av stad, og dei førde honom ned ifrå altaret; han kom då og kasta seg ned for kong Salomo, og Salomo sagde til honom: «Gakk heim!» 
+**[1:53]** So sende kong Salomo folk av stad, og dei førde honom ned ifrå altaret; han kom då og kasta seg ned for kong Salomo, og Salomo sagde til honom: «Gakk heim!»
 
 ### Chapter 2
 
@@ -18240,7 +18240,7 @@
 
 **[2:45]** Men kong Salomo skal verta velsigna, og Davids kongsstol standa fast for Herrens åsyn i all æva.»
 
-**[2:46]** Etter bod frå kongen gjekk so Benaja Jojadason ut og hogg honom ned, og han døydde. Og Salomo heldt kongedømet med endå fastare hand. 
+**[2:46]** Etter bod frå kongen gjekk so Benaja Jojadason ut og hogg honom ned, og han døydde. Og Salomo heldt kongedømet med endå fastare hand.
 
 ### Chapter 3
 
@@ -18298,7 +18298,7 @@
 
 **[3:27]** Då svara kongen og sagde: «Gjev henne der det livande barnet; drep det ikkje! Ho er mori.»
 
-**[3:28]** Og då denne domen som kongen hadde sagt, spurdest i heile Israel, fekk dei age for kongen; for dei såg at Guds visdom var i honom, so han kunde døma rett. 
+**[3:28]** Og då denne domen som kongen hadde sagt, spurdest i heile Israel, fekk dei age for kongen; for dei såg at Guds visdom var i honom, so han kunde døma rett.
 
 ### Chapter 4
 
@@ -18368,7 +18368,7 @@
 
 **[4:33]** Han tala um trei, like frå cederen på Libanon til isopen som veks uppetter murveggen; han tala um firfot-dyri og fuglarne, um krypdyri og fiskarne.
 
-**[4:34]** Frå alle land kom dei og vilde høyra på visdomen åt Salomo, frå alle kongarne på jordi som høyrde gjete kor vis han var. 
+**[4:34]** Frå alle land kom dei og vilde høyra på visdomen åt Salomo, frå alle kongarne på jordi som høyrde gjete kor vis han var.
 
 ### Chapter 5
 
@@ -18406,7 +18406,7 @@
 
 **[5:17]** Etter bod frå kongen braut dei ut store steinar, kostesame steinar til grunnmur under huset, firhogne steinar.
 
-**[5:18]** Og bygningsmennerne til Salomo og Hiram og mennerne frå Gebal hogg til og gjorde ferdig trevyrket og steinarne til husbygningi. 
+**[5:18]** Og bygningsmennerne til Salomo og Hiram og mennerne frå Gebal hogg til og gjorde ferdig trevyrket og steinarne til husbygningi.
 
 ### Chapter 6
 
@@ -18484,7 +18484,7 @@
 
 **[6:37]** I det fjorde året, i månaden siv, vart grunnen lagd til Herrens hus,
 
-**[6:38]** og i det ellevte året, i månaden bul - det er åttande månaden - var huset ferdigt i alle stykke og heilt som det skulde vera. I sju år var det då bygt på det. 
+**[6:38]** og i det ellevte året, i månaden bul - det er åttande månaden - var huset ferdigt i alle stykke og heilt som det skulde vera. I sju år var det då bygt på det.
 
 ### Chapter 7
 
@@ -18588,7 +18588,7 @@
 
 **[7:50]** og fati, knivarne, skålarne, kannorne og glodpannorne av skiraste gullet, dessutan gullhengslorne til dørerne inst i huset, til det høgheilage romet, og til husdørerne inn til tempelsalen.
 
-**[7:51]** Då det no var undangjort alt det arbeid kong Salomo hadde med Herrens hus, so førde Salomo inn der heilaggåvorne åt David, far sin: sylvet, gullet og gognerne; han lagde det inn i skattkammeri i Herrens hus. 
+**[7:51]** Då det no var undangjort alt det arbeid kong Salomo hadde med Herrens hus, so førde Salomo inn der heilaggåvorne åt David, far sin: sylvet, gullet og gognerne; han lagde det inn i skattkammeri i Herrens hus.
 
 ### Chapter 8
 
@@ -18722,7 +18722,7 @@
 
 **[8:65]** På den tid høgtida Salomo helgi saman med heile Israel - ein stor møtelyd like frå den staden der vegen gjeng til Hamat og til Egyptarlands-bekken - framfor Herren, vår Gud, i sju dagar og endå i sju dagar, fjortan dagar i alt.
 
-**[8:66]** Den åttande dagen let han folket fara, og dei bad velliva med kongen og tok heim kvar til seg, glade og velnøgde for alt det gode som Herren hadde gjort imot David, tenaren sin, og mot Israel, folket sitt. 
+**[8:66]** Den åttande dagen let han folket fara, og dei bad velliva med kongen og tok heim kvar til seg, glade og velnøgde for alt det gode som Herren hadde gjort imot David, tenaren sin, og mot Israel, folket sitt.
 
 ### Chapter 9
 
@@ -18780,7 +18780,7 @@
 
 **[9:27]** Og Hiram sende sjøvant mannskap av sitt folk til skipi i lag med folket åt Salomo.
 
-**[9:28]** Dei for til Ofir og henta gull derifrå, eit tusund og femti våger, som dei førde til kong Salomo. 
+**[9:28]** Dei for til Ofir og henta gull derifrå, eit tusund og femti våger, som dei førde til kong Salomo.
 
 ### Chapter 10
 
@@ -18840,7 +18840,7 @@
 
 **[10:28]** Og hestarne som Salomo fekk seg, førde han inn frå Egyptarland; ein flokk kjøpmenner hjå kongen henta ei viss mengd til ein fastsett pris.
 
-**[10:29]** Kvar vogn som vart henta upp og utførd frå Egyptarland, kosta seks hundrad lodd sylv, og kvar hest eit hundrad og femti. På same vis vart dei, med deira hjelp, utførde til alle kongarne hjå hetitarne og i Syria. 
+**[10:29]** Kvar vogn som vart henta upp og utførd frå Egyptarland, kosta seks hundrad lodd sylv, og kvar hest eit hundrad og femti. På same vis vart dei, med deira hjelp, utførde til alle kongarne hjå hetitarne og i Syria.
 
 ### Chapter 11
 
@@ -18928,7 +18928,7 @@
 
 **[11:42]** Den tid Salomo var konge i Jerusalem yver heile Israel, var fyrti år.
 
-**[11:43]** So lagde Salomo seg til kvile hjå federne sine og vart gravlagd i byen åt David, far sin, og Rehabeam, son hans, vart konge i staden hans. 
+**[11:43]** So lagde Salomo seg til kvile hjå federne sine og vart gravlagd i byen åt David, far sin, og Rehabeam, son hans, vart konge i staden hans.
 
 ### Chapter 12
 
@@ -18996,7 +18996,7 @@
 
 **[12:32]** Og Jerobeam skipa til ei høgtid i den åttande månaden, på den femtande dagen i månaden, i likskap med høgtidi i Juda, og han ofra på altaret. So gjorde han i Betel, med di han ofra til kalvarne som han hadde laga, og dei som han hadde sett til offerhaug-prestar, let han gjera tenesta i Betel.
 
-**[12:33]** Og han ofra på det altaret han hadde laga i Betel, den femtande dagen i åttande månaden, den månaden som han hadde valt ut etter sitt eige hovud. Han skipa då til ei høgtid for Israels-borni og steig upp til altaret og vilde kveikja offereld. 
+**[12:33]** Og han ofra på det altaret han hadde laga i Betel, den femtande dagen i åttande månaden, den månaden som han hadde valt ut etter sitt eige hovud. Han skipa då til ei høgtid for Israels-borni og steig upp til altaret og vilde kveikja offereld.
 
 ### Chapter 13
 
@@ -19066,7 +19066,7 @@
 
 **[13:33]** Jerobeam vende like vel ikkje um ifrå sin vonde veg etter denne hendingi, men heldt fram med å gjera til prestar ved offerhaugarne både likt og ulikt. Den som berre hadde hug til det, fekk av honom handi fyllt, so dei kunde verta prestar ved haugarne.
 
-**[13:34]** På denne vis vart Jerobeam upphavsmann til synd i ætti si og orsak til at huset hans vart utrudt og utstroke av jordi. 
+**[13:34]** På denne vis vart Jerobeam upphavsmann til synd i ætti si og orsak til at huset hans vart utrudt og utstroke av jordi.
 
 ### Chapter 14
 
@@ -19130,7 +19130,7 @@
 
 **[14:30]** Millom Rehabeam og Jerobeam var det ufred stødt.
 
-**[14:31]** Og Rehabeam lagde seg til kvile hjå federne sine, og vart gravlagd hjå federne sine i Davidsbyen. Mor hans heitte Na’ama, ammonitkvinna. Og Abiam, son hans, vart konge i staden hans. 
+**[14:31]** Og Rehabeam lagde seg til kvile hjå federne sine, og vart gravlagd hjå federne sine i Davidsbyen. Mor hans heitte Na’ama, ammonitkvinna. Og Abiam, son hans, vart konge i staden hans.
 
 ### Chapter 15
 
@@ -19200,7 +19200,7 @@
 
 **[15:33]** I det tridje styringsåret åt Juda-kongen Asa vart Basea Ahiason konge yver heile Israel i Tirsa, og det var han i fire og tjuge år.
 
-**[15:34]** Han gjorde det som vondt var i Herrens augo, og stemnde fram på Jerobeams veg og i den synd som han hadde fenge Israel til å gjera. 
+**[15:34]** Han gjorde det som vondt var i Herrens augo, og stemnde fram på Jerobeams veg og i den synd som han hadde fenge Israel til å gjera.
 
 ### Chapter 16
 
@@ -19270,7 +19270,7 @@
 
 **[16:33]** Ahab fekk ei Asjera tillaga og gjorde meir til å harma Herren, Israels Gud, enn alle Israels-kongarne som hadde vore fyre honom.
 
-**[16:34]** I hans tid bygde beteliten Hiel upp att Jeriko. Men det kosta honom eldste son hans, Abiram, å leggja grunnen; og det kosta honom yngste son hans, Segub, å setja upp portarne, etter det ord Herren hadde tala gjenom Josva Nunsson. 
+**[16:34]** I hans tid bygde beteliten Hiel upp att Jeriko. Men det kosta honom eldste son hans, Abiram, å leggja grunnen; og det kosta honom yngste son hans, Segub, å setja upp portarne, etter det ord Herren hadde tala gjenom Josva Nunsson.
 
 ### Chapter 17
 
@@ -19320,7 +19320,7 @@
 
 **[17:23]** Og Elia tok barnet ifrå salen og hadde det nedatt i huset og gav det til mori, og Elia sagde: «Sjå, son din liver!»
 
-**[17:24]** Då sagde kvinna til Elia: «No veit eg at du er ein gudsmann, og at Herrens ord i din munn er sanning.» 
+**[17:24]** Då sagde kvinna til Elia: «No veit eg at du er ein gudsmann, og at Herrens ord i din munn er sanning.»
 
 ### Chapter 18
 
@@ -19414,7 +19414,7 @@
 
 **[18:45]** Og i ei handevending myrkna himmelen til med skyer og storm, og snart silregnde det. Men Ahab køyrde av stad og for til Jizre’el.
 
-**[18:46]** Og Herrens hand kom yver Elia, so at han sette livgjord ikring seg og sprang fyre Ahab like til Jizre’el. 
+**[18:46]** Og Herrens hand kom yver Elia, so at han sette livgjord ikring seg og sprang fyre Ahab like til Jizre’el.
 
 ### Chapter 19
 
@@ -19458,7 +19458,7 @@
 
 **[19:20]** Då slepte han uksarne og sprang etter Elia og sagde: «Lat meg få kyssa far min og mor mi, so skal eg fylgja deg!» Han sagde til honom: «Snu heim att då! Men kom i hug kva eg hev gjort med deg!»
 
-**[19:21]** So gjekk han ifrå honom att og tok dei tvo uksarne og slagta deim, og med oket åt uksarne koka han kjøtet deira og gav folket, og dei åt. Sidan tok han ut og fylgde Elia og vart tenaren hans. 
+**[19:21]** So gjekk han ifrå honom att og tok dei tvo uksarne og slagta deim, og med oket åt uksarne koka han kjøtet deira og gav folket, og dei åt. Sidan tok han ut og fylgde Elia og vart tenaren hans.
 
 ### Chapter 20
 
@@ -19546,7 +19546,7 @@
 
 **[20:42]** Han sagde til honom: «So segjer Herren: «Sidan du hev slept or henderne den mannen som eg hev bannstøytt, so skal ditt liv svara for hans liv, og ditt folk for hans folk.»»
 
-**[20:43]** Og Israels-kongen for heim, mismodig og harm, og kom til Samaria. 
+**[20:43]** Og Israels-kongen for heim, mismodig og harm, og kom til Samaria.
 
 ### Chapter 21
 
@@ -19606,7 +19606,7 @@
 
 **[21:28]** Då kom Herrens ord til Elia frå Tisbe soleis:
 
-**[21:29]** «Hev du set korleis Ahab audmykjer seg for meg? For di han audmykjer seg, skal eg ikkje lata ulukka koma i hans livstid; men i hans sons tid skal eg lata ulukka koma yver huset hans.» 
+**[21:29]** «Hev du set korleis Ahab audmykjer seg for meg? For di han audmykjer seg, skal eg ikkje lata ulukka koma i hans livstid; men i hans sons tid skal eg lata ulukka koma yver huset hans.»
 
 ### Chapter 22
 
@@ -19714,7 +19714,7 @@
 
 **[22:52]** Ahazja Ahabsson vart konge yver Israel i det syttande styringsåret åt Juda-kongen Josafat, og han rådde yver Israel i tvo år.
 
-**[22:53]** Og han gjorde det som vondt var i Herrens augo og for fram i fotefari åt far sin og mor si og Jerobeam Nebatsson, han som fekk Israel til å synda. Og han tente Ba’al og bad til honom, og harma Herren, Israels Gud, plent som far hans hadde gjort.  
+**[22:53]** Og han gjorde det som vondt var i Herrens augo og for fram i fotefari åt far sin og mor si og Jerobeam Nebatsson, han som fekk Israel til å synda. Og han tente Ba’al og bad til honom, og harma Herren, Israels Gud, plent som far hans hadde gjort.
 
 ## II Kings
 
@@ -19754,7 +19754,7 @@
 
 **[1:17]** Og han døydde so som Herren tala ved Elia. Og Joram vart konge etter honom; for han hadde ingen son. Dette hende i andre styringsåret åt Juda-kongen Joram Josafatsson.
 
-**[1:18]** Det som elles er å fortelja um Ahazja, det han gjorde, det er uppskrive i krønikeboki åt Israels-kongarne. 
+**[1:18]** Det som elles er å fortelja um Ahazja, det han gjorde, det er uppskrive i krønikeboki åt Israels-kongarne.
 
 ### Chapter 2
 
@@ -19806,7 +19806,7 @@
 
 **[2:24]** Han såg seg ikring. Og då han vart var deim, lyste han våbøn yver deim i Herrens namn. Tvo binnor kom då ut or skogen og reiv sund tvo og fyrti av borni.
 
-**[2:25]** Derifrå gjekk han til Karmelfjellet, og derifrå attende til Samaria. 
+**[2:25]** Derifrå gjekk han til Karmelfjellet, og derifrå attende til Samaria.
 
 ### Chapter 3
 
@@ -19862,7 +19862,7 @@
 
 **[3:26]** Då Moab-kongen såg at han ikkje kunde standa seg i striden, tok han sju hundrad mann våpnføre mann med seg og vilde slå seg igjenom fram til Edom-kongen. Men det mislukkast.
 
-**[3:27]** Då tok han fyrstefødde son sin som skulde verta konge i staden hans, og ofra honom på muren til brennoffer. Og ein stor harm råka Israel, so dei laut brjota upp derifrå og snu heim att. 
+**[3:27]** Då tok han fyrstefødde son sin som skulde verta konge i staden hans, og ofra honom på muren til brennoffer. Og ein stor harm råka Israel, so dei laut brjota upp derifrå og snu heim att.
 
 ### Chapter 4
 
@@ -19952,7 +19952,7 @@
 
 **[4:43]** «Kor kann eg setja fram dette åt hundrad mann?» spurde tenaren. «Gjev folki å eta!» svara han; «Herren segjer: «Dei skal eta og endå leiva.»»
 
-**[4:44]** Og han sette det fram for deim, og dei åt, og dei leivde endå noko, so som Herren hadde sagt. 
+**[4:44]** Og han sette det fram for deim, og dei åt, og dei leivde endå noko, so som Herren hadde sagt.
 
 ### Chapter 5
 
@@ -20008,7 +20008,7 @@
 
 **[5:26]** Då sagde han: «Tru eg ikkje fylgde deg i åndi då ein mann snudde seg frå vogni og møtte deg? Er det no tid å taka imot sylv og få seg klæde og oljetre og vinhagar og sauer og bufe og tenarar og ternor?
 
-**[5:27]** Spillsykja hans Na’aman skal koma yver deg og ætti di for alle tider.» Og han gjekk ut frå honom, spillsjuk og kvit som snø. 
+**[5:27]** Spillsykja hans Na’aman skal koma yver deg og ætti di for alle tider.» Og han gjekk ut frå honom, spillsjuk og kvit som snø.
 
 ### Chapter 6
 
@@ -20076,7 +20076,7 @@
 
 **[6:32]** Sende han so ein fyre seg til Elisa, der han sat i heimen saman med dei øvste. Men fyrr bodet kom til honom, sagde han med dei øvste: Skynar de at denne mordarsonen hev sendt ein mann hit til å taka hovudet mitt? Sjå no til og lat att døri, og haldt henne stengd når bodet kjem! Høyrer det ikkje stigi til herren hans bak honom?»
 
-**[6:33]** Medan han tala soleis med deim, såg dei bodet koma ned til honom med dei ordi: «Sjå for ei ulukka Herren hev sendt! kvifor skal eg då bia på Herren meir?» 
+**[6:33]** Medan han tala soleis med deim, såg dei bodet koma ned til honom med dei ordi: «Sjå for ei ulukka Herren hev sendt! kvifor skal eg då bia på Herren meir?»
 
 ### Chapter 7
 
@@ -20118,7 +20118,7 @@
 
 **[7:19]** Det var då hermannen svara gudsmannen: «Um so Herren laga lukor på himmelen, vilde sovore vera ugjerande.» Og han svara: «Du skal få sjå det med eigne augo, men du fær ikkje eta av det!»
 
-**[7:20]** Det gjekk honom so; folket trakka honom ned på torget, og det vart banen hans. 
+**[7:20]** Det gjekk honom so; folket trakka honom ned på torget, og det vart banen hans.
 
 ### Chapter 8
 
@@ -20178,7 +20178,7 @@
 
 **[8:28]** Saman med Joram Ahabsson for han i herferd mot syrarkongen Hazael ved Ramot i Gilead. Men Joram vart såra av syrarane.
 
-**[8:29]** Kong Joram vende då attende til Jizre’el, og vilde få lækt dei såri han hadde fenge av syrarane, i slaget ved Rama mot syrarkongen Hazael. Og Juda-kongen Ahazja Joramsson drog ned og vilde sjå um Joram Ahabsson i Jizre’el, etter di han låg sjuk. 
+**[8:29]** Kong Joram vende då attende til Jizre’el, og vilde få lækt dei såri han hadde fenge av syrarane, i slaget ved Rama mot syrarkongen Hazael. Og Juda-kongen Ahazja Joramsson drog ned og vilde sjå um Joram Ahabsson i Jizre’el, etter di han låg sjuk.
 
 ### Chapter 9
 
@@ -20254,7 +20254,7 @@
 
 **[9:36]** Då dei kom att og melde honom det, sagde han: «So var Herrens ord, som han tala ved tenaren sin, Elia frå Tisbe: «På Jizre’els-vangen skal hundarne eta Jezabels kjøt;
 
-**[9:37]** liket åt Jezabel vert til møk på marki på Jizre’els-vangen, so ingen kann segja: Dette er Jezabel!»» 
+**[9:37]** liket åt Jezabel vert til møk på marki på Jizre’els-vangen, so ingen kann segja: Dette er Jezabel!»»
 
 ### Chapter 10
 
@@ -20328,7 +20328,7 @@
 
 **[10:35]** Jehu lagde seg til kvile hjå federne sine og vart gravlagd i Samaria. Joahaz, son hans, vart konge i staden hans.
 
-**[10:36]** Den tidi Jehu var konge yver Israel i Samaria, var åtte og tjuge år. 
+**[10:36]** Den tidi Jehu var konge yver Israel i Samaria, var åtte og tjuge år.
 
 ### Chapter 11
 
@@ -20372,7 +20372,7 @@
 
 **[11:20]** og alt folket fegnast; og byen kom til ro. Men Atalja hadde dei hogge i hel i kongsgarden.
 
-**[11:21]** Sju år gamall var Joas då han vart konge. 
+**[11:21]** Sju år gamall var Joas då han vart konge.
 
 ### Chapter 12
 
@@ -20416,7 +20416,7 @@
 
 **[12:20]** Hirdmennerne hans gjorde uppreist, samansvor seg og slo i hel Joas i Millo-bygnaden, som rekk ned mot Silla.
 
-**[12:21]** Det var Jozakar Sim’atsson og Jozabad Somersson, hirdmennerne hans, som slo honom i hel. Han vart gravlagd hjå federne sine i Davidsbyen; og Amasja, son hans, vart konge i staden hans. 
+**[12:21]** Det var Jozakar Sim’atsson og Jozabad Somersson, hirdmennerne hans, som slo honom i hel. Han vart gravlagd hjå federne sine i Davidsbyen; og Amasja, son hans, vart konge i staden hans.
 
 ### Chapter 13
 
@@ -20468,7 +20468,7 @@
 
 **[13:24]** Syrarkongen Hazael døydde, og Benhadad, son hans, vart konge i staden hans.
 
-**[13:25]** Då tok Joas Joahazson att frå Benhadad Hazaelsson dei byarne som han hadde teke frå Joahaz, far hans. Tri gonger slo Joas deim, og tok soleis att Israels byar. 
+**[13:25]** Då tok Joas Joahazson att frå Benhadad Hazaelsson dei byarne som han hadde teke frå Joahaz, far hans. Tri gonger slo Joas deim, og tok soleis att Israels byar.
 
 ### Chapter 14
 
@@ -20528,7 +20528,7 @@
 
 **[14:28]** Det som elles er å fortelja um Jerobeam, um alt det han gjorde og um hans storverk, um krigarne han førde og landevinningi for Israel som han vann att frå Damaskus og Hamat, det som fyrr hadde høyrt til Juda, det er uppskrive i krønikeboki åt Israels-kongarne.
 
-**[14:29]** Jerobeam lagde seg til kvile hjå federne sine, hjå Israels-kongarne, og Zakarja, son hans, vart konge i staden hans. 
+**[14:29]** Jerobeam lagde seg til kvile hjå federne sine, hjå Israels-kongarne, og Zakarja, son hans, vart konge i staden hans.
 
 ### Chapter 15
 
@@ -20606,7 +20606,7 @@
 
 **[15:37]** Ved den tid tok Herren til å senda syrerkongen Resin og Pekah Remaljason inn i Juda.
 
-**[15:38]** Jotam lagde seg til kvile hjå federne sine, og vart gravlagd hjå federne sine i byen åt David, far sin. Og Ahaz, son hans, vart konge i staden hans. 
+**[15:38]** Jotam lagde seg til kvile hjå federne sine, og vart gravlagd hjå federne sine i byen åt David, far sin. Og Ahaz, son hans, vart konge i staden hans.
 
 ### Chapter 16
 
@@ -20648,7 +20648,7 @@
 
 **[16:19]** Det som elles er å fortelja um Ahaz, det han gjorde, det er uppskrive i krønikeboki åt Juda-kongarne.
 
-**[16:20]** Ahaz lagde seg til kvile hjå federne sine og vart gravlagd hjå federne sine i Davidsbyen. Og Hizkia, son hans, vart konge i staden hans. 
+**[16:20]** Ahaz lagde seg til kvile hjå federne sine og vart gravlagd hjå federne sine i Davidsbyen. Og Hizkia, son hans, vart konge i staden hans.
 
 ### Chapter 17
 
@@ -20732,7 +20732,7 @@
 
 **[17:40]** Men dei vilde ikkje høyra, men for fram på same vis som fyrr.
 
-**[17:41]** So bar desse folki age for Herren, men tente samstundes gudebilæti sine. Og borni og barneborni deira gjer den dag i dag so som federne deira gjorde. 
+**[17:41]** So bar desse folki age for Herren, men tente samstundes gudebilæti sine. Og borni og barneborni deira gjer den dag i dag so som federne deira gjorde.
 
 ### Chapter 18
 
@@ -20808,7 +20808,7 @@
 
 **[18:36]** Folket tagde, svara honom ikkje eit ord: for so var kongens bod: «Ikkje svara honom!»
 
-**[18:37]** Eljakim Hilkiason, drottseten, og Sebna, riksskrivaren, og Joah Asafsson, kanslaren, kom då attende til Hizkia med sundrivne klæde, og melde honom ordi hans Rabsake. 
+**[18:37]** Eljakim Hilkiason, drottseten, og Sebna, riksskrivaren, og Joah Asafsson, kanslaren, kom då attende til Hizkia med sundrivne klæde, og melde honom ordi hans Rabsake.
 
 ### Chapter 19
 
@@ -20860,7 +20860,7 @@
 
 **[19:24]** eg borar meg brunnar og vatn drikk eg hjå framande folk; med fotsolen min turkar eg ut alle Egyptarlands elvar.»
 
-**[19:25]** Hev du ’kje høyrt at eg hev longe laga det so? Frå ævordsleg tid hev eg fyreåt fastsett dette! Og no let eg det koma i verk! Du fekk magt til å øyda sterke borgar til steinrøysar aude.
+**[19:25]** Hev du’kje høyrt at eg hev longe laga det so? Frå ævordsleg tid hev eg fyreåt fastsett dette! Og no let eg det koma i verk! Du fekk magt til å øyda sterke borgar til steinrøysar aude.
 
 **[19:26]** Folki deira vart veike og valne, skalv og stod til skammar. Det gjekk deim som gras på marki og grøne urter, som vokstrar på taket som moldaks i bryddande åker.
 
@@ -20884,7 +20884,7 @@
 
 **[19:36]** Då tok assyrarkongen Sankerib ut og drog burt og snudde heim att, og heldt seg sidan i Nineve.
 
-**[19:37]** Ein gong han heldt bøn i huset åt Nisrok, guden sin, hogg Adrammelek og Sareser honom ned med sverd; dei kom seg undan til Araratslandet. Og Asarhaddon, son hans, vart konge i staden hans. 
+**[19:37]** Ein gong han heldt bøn i huset åt Nisrok, guden sin, hogg Adrammelek og Sareser honom ned med sverd; dei kom seg undan til Araratslandet. Og Asarhaddon, son hans, vart konge i staden hans.
 
 ### Chapter 20
 
@@ -20928,7 +20928,7 @@
 
 **[20:20]** Det som elles er å fortelja um Hizkia og alle hans storverk, kor han bygde dammen og vatsleidingi, og førde vatnet til byen, det er uppskrive i krønikeboki åt Juda-kongarne.
 
-**[20:21]** Hizkia lagde seg til kvile hjå federne sine, og Manasse, son hans, vart konge i staden hans. 
+**[20:21]** Hizkia lagde seg til kvile hjå federne sine, og Manasse, son hans, vart konge i staden hans.
 
 ### Chapter 21
 
@@ -20982,7 +20982,7 @@
 
 **[21:25]** Det som elles er å fortelja um Amon, det han gjorde, det er uppskrive i krønikeboki åt Juda-kongarne.
 
-**[21:26]** Han vart gravlagd i gravi i Uzzias hage. Josia, son hans, vart konge i staden hans. 
+**[21:26]** Han vart gravlagd i gravi i Uzzias hage. Josia, son hans, vart konge i staden hans.
 
 ### Chapter 22
 
@@ -21024,7 +21024,7 @@
 
 **[22:19]** Av di hjarta ditt vart mjukt, og du bøygde deg for Herrens åsyn då du høyrde det eg hev tala mot denne staden og folket her, at dei skal verta til rædsla og forbanning, av di du reiv sund klædi dine og gret for mi åsyn, so hev eg og høyrt, segjer Herren.
 
-**[22:20]** Difor let eg deg samlast til federne dine og koma i fred i gravi di, og augo dine skal sleppa å sjå all den ulukka eg sender yver denne staden.»» Og dei kom att til kongen med dette svaret. 
+**[22:20]** Difor let eg deg samlast til federne dine og koma i fred i gravi di, og augo dine skal sleppa å sjå all den ulukka eg sender yver denne staden.»» Og dei kom att til kongen med dette svaret.
 
 ### Chapter 23
 
@@ -21100,7 +21100,7 @@
 
 **[23:36]** Fem og tjuge år gamall var Jojakim då han vart konge, og han elleve år rådde han i Jerusalem. Mor hans heitte Zebida Pedajadotter, frå Ruma.
 
-**[23:37]** Han gjorde det som vondt var i Herrens augo, plent som federne hans. 
+**[23:37]** Han gjorde det som vondt var i Herrens augo, plent som federne hans.
 
 ### Chapter 24
 
@@ -21142,7 +21142,7 @@
 
 **[24:19]** Han gjorde det som vondt var i Herrens augo, plent som Jojakim.
 
-**[24:20]** Det var for Herrens harm skuld det gjekk so med Jerusalem og Juda, til dess han støytte deim burt frå si åsyn. Sidkia fall ifrå Babel-kongen. 
+**[24:20]** Det var for Herrens harm skuld det gjekk so med Jerusalem og Juda, til dess han støytte deim burt frå si åsyn. Sidkia fall ifrå Babel-kongen.
 
 ### Chapter 25
 
@@ -21204,7 +21204,7 @@
 
 **[25:29]** Han fekk leggja av seg fangebunaden, og gjekk kvar dag til kongens bord, so lenge han livde.
 
-**[25:30]** Kost og tæring naut han dagvisst på kongens kostnad, til kvar dag det han trong for dagen, heile si livetid.  
+**[25:30]** Kost og tæring naut han dagvisst på kongens kostnad, til kvar dag det han trong for dagen, heile si livetid.
 
 ## I Chronicles
 
@@ -21316,7 +21316,7 @@
 
 **[1:53]** Kenaz-jarlen, Teman-jarlen, Mibsar-jarlen,
 
-**[1:54]** Magdiel-jarlen, Iram-jarlen. Det var jarlarne i Edom. 
+**[1:54]** Magdiel-jarlen, Iram-jarlen. Det var jarlarne i Edom.
 
 ### Chapter 2
 
@@ -21428,7 +21428,7 @@
 
 **[2:54]** Sønerne åt Salma var Betlehem og netofatitarne, Atrot-Bet-Joab og helvti av manahtitarne, soritarne.
 
-**[2:55]** Og ætterne av dei skriftlærde som budde i Jabes, var tiratitar, simatitar og sukatitar. Dette var dei kinitarne som var ætta frå Hammat, far for åt Rekab-huset. 
+**[2:55]** Og ætterne av dei skriftlærde som budde i Jabes, var tiratitar, simatitar og sukatitar. Dette var dei kinitarne som var ætta frå Hammat, far for åt Rekab-huset.
 
 ### Chapter 3
 
@@ -21478,7 +21478,7 @@
 
 **[3:23]** Sønerne hans Nearja var Eljoenai og Hizkia og Azrikam, tri i alt.
 
-**[3:24]** Sønerne åt Eljoenai var Hodavja, Eljasib og Pelaja, og Akkub og Johanan og Delaja og Anani, sju i talet. 
+**[3:24]** Sønerne åt Eljoenai var Hodavja, Eljasib og Pelaja, og Akkub og Johanan og Delaja og Anani, sju i talet.
 
 ### Chapter 4
 
@@ -21566,7 +21566,7 @@
 
 **[4:42]** Og det var fem hundrad mann av deim, av Simeons-sønerne, som for til Se’irfjelli, og Pelatja og Nearja og Refaja og Uzziel, sønerne hans Jisi, var fyregangsmennerne deira.
 
-**[4:43]** Og dei drap den siste leivningen amalekitarne; so slo dei seg ned der, og bur der den dag i dag. 
+**[4:43]** Og dei drap den siste leivningen amalekitarne; so slo dei seg ned der, og bur der den dag i dag.
 
 ### Chapter 5
 
@@ -21620,7 +21620,7 @@
 
 **[5:25]** Men dei var utrue mot fedreguden og heldt seg med gudarne åt det folket der i landet som Gud hadde tynt for augo deira.
 
-**[5:26]** Då øste Israels Gud upp hugen hjå assyrarkongen Pul og assyrarkongen Tilgat-Pilneser, og han førde deim burt, rubenitarne og gaditarne og eine helvti av Manasse-ætti, og flutte deim til Halah og Habor og Hara og Gozanelvi, og der dei er den dag i dag. 
+**[5:26]** Då øste Israels Gud upp hugen hjå assyrarkongen Pul og assyrarkongen Tilgat-Pilneser, og han førde deim burt, rubenitarne og gaditarne og eine helvti av Manasse-ætti, og flutte deim til Halah og Habor og Hara og Gozanelvi, og der dei er den dag i dag.
 
 ### Chapter 6
 
@@ -21784,7 +21784,7 @@
 
 **[6:80]** og i Gadsfylket Ramot i Gilead og Mahanajim
 
-**[6:81]** og Hesbon og Jazer, med bumarki som høyrde til. 
+**[6:81]** og Hesbon og Jazer, med bumarki som høyrde til.
 
 ### Chapter 7
 
@@ -21866,7 +21866,7 @@
 
 **[7:39]** Sønerne åt Ulla var Arah og Hanniel og Risja.
 
-**[7:40]** Alle desse var søner åt Asser, hovdingar for ættgreinerne sine, utvalde stridsføre hermenner, dei høgste hovdingarne; og dei som stod i ættarlista og var duglege hermenner, var seks og tjuge tusund i talet. 
+**[7:40]** Alle desse var søner åt Asser, hovdingar for ættgreinerne sine, utvalde stridsføre hermenner, dei høgste hovdingarne; og dei som stod i ættarlista og var duglege hermenner, var seks og tjuge tusund i talet.
 
 ### Chapter 8
 
@@ -21948,7 +21948,7 @@
 
 **[8:39]** Og sønerne åt Esek, bror hans, var Ulam, som var eldst, Je’us, den andre, og Elifelet, den tridje.
 
-**[8:40]** Og sønerne hans Ulam var stridsføre hermenner, som spente boge, og dei hadde mange søner og sonesøner, hundrad og femti i talet. Alle desse var Benjamins-søner. 
+**[8:40]** Og sønerne hans Ulam var stridsføre hermenner, som spente boge, og dei hadde mange søner og sonesøner, hundrad og femti i talet. Alle desse var Benjamins-søner.
 
 ### Chapter 9
 
@@ -22038,7 +22038,7 @@
 
 **[9:43]** Mosa fekk sonen Bina. Hans son var Refaja; hans son var Elasa; hans son var Asel.
 
-**[9:44]** Og Asel hadde seks søner, og namni deira var: Azrikam, Bokeru, Ismael, Searja, Obadja og Hanan. Dette var sønerne åt Asel. 
+**[9:44]** Og Asel hadde seks søner, og namni deira var: Azrikam, Bokeru, Ismael, Searja, Obadja og Hanan. Dette var sønerne åt Asel.
 
 ### Chapter 10
 
@@ -22068,7 +22068,7 @@
 
 **[10:13]** So let Saul livet for sin utruskap mot Herren, med di han ikkje hadde fylgt Herrens ord, og like eins for di han hadde spurt ei som mana fram draugar og søkt råd hjå henne.
 
-**[10:14]** Han hadde ikkje søkt råd hjå Herren; difor let Herren honom døy, og sidan let han David Isaison få kongedømet. 
+**[10:14]** Han hadde ikkje søkt råd hjå Herren; difor let Herren honom døy, og sidan let han David Isaison få kongedømet.
 
 ### Chapter 11
 
@@ -22164,7 +22164,7 @@
 
 **[11:46]** Eliel Hammahavim og Jeribai og Josavja, søner åt Elna’am, og Jitma, moabiten,
 
-**[11:47]** Eliel, Obed og Ja’asiel Hammesobaja. 
+**[11:47]** Eliel, Obed og Ja’asiel Hammesobaja.
 
 ### Chapter 12
 
@@ -22246,7 +22246,7 @@
 
 **[12:39]** Og dei var der hjå David i tri dagar og åt og drakk; for brørne deira hadde laga til åt deim.
 
-**[12:40]** Dei som budde nær ved, alt upp til Issakar, Sebulon og Naftali, førde og nøgdi med føda til deim, på asen, kamelar, muldyr og uksar; grjonmat, fikekakor, rosinkakor, vin og olje, bufe og sauer; for det var gleda i Israel. 
+**[12:40]** Dei som budde nær ved, alt upp til Issakar, Sebulon og Naftali, førde og nøgdi med føda til deim, på asen, kamelar, muldyr og uksar; grjonmat, fikekakor, rosinkakor, vin og olje, bufe og sauer; for det var gleda i Israel.
 
 ### Chapter 13
 
@@ -22276,7 +22276,7 @@
 
 **[13:13]** Difor flutte ikkje David kista til seg i Davidsbyen, men sette henne inn i huset åt gatiten Obed-Edom.
 
-**[13:14]** Guds kista vart då verande ved huset hans Obed-Edom, der ho stod i sitt eige hus i tri månader; men Herren velsigna Obed-Edoms hus og alt det som høyrde honom til. 
+**[13:14]** Guds kista vart då verande ved huset hans Obed-Edom, der ho stod i sitt eige hus i tri månader; men Herren velsigna Obed-Edoms hus og alt det som høyrde honom til.
 
 ### Chapter 14
 
@@ -22312,7 +22312,7 @@
 
 **[14:16]** Og David gjorde som Gud hadde bode honom, og dei slo filistarheren og sette etter deim alt ifrå Gibeon og til Gezer.
 
-**[14:17]** Og gjetordet um David gjekk yver alle land, og Herren let det koma rædsla for honom yver alle folki. 
+**[14:17]** Og gjetordet um David gjekk yver alle land, og Herren let det koma rædsla for honom yver alle folki.
 
 ### Chapter 15
 
@@ -22372,7 +22372,7 @@
 
 **[15:28]** Og heile Israel flutte Herrens sambandskista upp med fagnadrop og lurljom, og dei bles i trompetar og slo på cymblar let harpor og cithrar.
 
-**[15:29]** Då so Herrens sambandskista kom til Davidsbyen, såg Mikal, dotter åt Saul, ut gjenom vindauga, og då ho fekk auga på kong David, som hoppa og leika seg, vanvyrde ho honom i sitt hjarta. 
+**[15:29]** Då so Herrens sambandskista kom til Davidsbyen, såg Mikal, dotter åt Saul, ut gjenom vindauga, og då ho fekk auga på kong David, som hoppa og leika seg, vanvyrde ho honom i sitt hjarta.
 
 ### Chapter 16
 
@@ -22460,7 +22460,7 @@
 
 **[16:42]** Og trompetarne og cymblarne åt spelemennerne vart gøymde hjå Heman og Jedutun, og like eins andre spelgogner som høyrde gudstenesta til. Og Jedutuns-sønerne gjorde han til dørvaktarar.
 
-**[16:43]** Deretter gjekk heile lyden heim, kvar til sitt; men David snudde heim att, vilde helsa på husfolket sitt. 
+**[16:43]** Deretter gjekk heile lyden heim, kvar til sitt; men David snudde heim att, vilde helsa på husfolket sitt.
 
 ### Chapter 17
 
@@ -22516,7 +22516,7 @@
 
 **[17:26]** Og no, Herre, du er Gud, og etter di du hev lova tenaren din denne gode ting,
 
-**[17:27]** so lat det no og tekkjast deg å velsigna huset åt tenaren din, so det vart verande æveleg for di åsyn. For det som du, Herre, velsignar, det er velsigna i all æva.» 
+**[17:27]** so lat det no og tekkjast deg å velsigna huset åt tenaren din, so det vart verande æveleg for di åsyn. For det som du, Herre, velsignar, det er velsigna i all æva.»
 
 ### Chapter 18
 
@@ -22552,7 +22552,7 @@
 
 **[18:16]** Sadok Ahitubsson og Abimelek Abjatarsson var prestar og Savsa riksskrivar,
 
-**[18:17]** Benaja Jojadason var hovding yver livvakti, men Davids søner var dei fyrste ved sida åt kongen. 
+**[18:17]** Benaja Jojadason var hovding yver livvakti, men Davids søner var dei fyrste ved sida åt kongen.
 
 ### Chapter 19
 
@@ -22592,7 +22592,7 @@
 
 **[19:18]** Men syrarane rømde for Israel, og David hogg ned hermennerne på sju tusund vogner og fyrti tusund mann fotfolk av syrarane; herhovdingen Sofak felte han og.
 
-**[19:19]** Då tenarane åt Hadarezer såg at dei hadde roke for israelitarne, gjorde dei fred med David og vart tenarane hans. Då vilde ikkje syrarane hjelpa ammonitarne meir. 
+**[19:19]** Då tenarane åt Hadarezer såg at dei hadde roke for israelitarne, gjorde dei fred med David og vart tenarane hans. Då vilde ikkje syrarane hjelpa ammonitarne meir.
 
 ### Chapter 20
 
@@ -22610,7 +22610,7 @@
 
 **[20:7]** Han hædde Israel; men Jonatan, son åt Simea, som var bror åt David, drap honom.
 
-**[20:8]** Desse var ætta frå Rafa i Gat, og dei fall for David og tenarane hans. 
+**[20:8]** Desse var ætta frå Rafa i Gat, og dei fall for David og tenarane hans.
 
 ### Chapter 21
 
@@ -22672,7 +22672,7 @@
 
 **[21:29]** Men Herrens hus som Moses hadde late gjera i øydemarki, og brennofferaltaret stod den tidi på offerhaugen i Gibeon.
 
-**[21:30]** Men David våga ikkje å ganga dit og søkja Gud, so forfærd var han for sverdet åt Herrens engel. 
+**[21:30]** Men David våga ikkje å ganga dit og søkja Gud, so forfærd var han for sverdet åt Herrens engel.
 
 ### Chapter 22
 
@@ -22712,7 +22712,7 @@
 
 **[22:18]** «Herren, dykkar Gud, er då med dykk og hev gjeve dykk ro på alle sidor; for han hev gjeve i mi hand deim som fyrr budde i landet, og det er lagt under Herren og hans folk.
 
-**[22:19]** So vend no dykkar hjarta og hug til å søkja Herren dykkar Gud, og tak til og bygg Herren Guds heilagdom, so de kann få føra Herrens sambandskista og alt det andre som høyrer til Guds heilagdom, inn i det huset som skal byggjast åt Herrens namn.» 
+**[22:19]** So vend no dykkar hjarta og hug til å søkja Herren dykkar Gud, og tak til og bygg Herren Guds heilagdom, so de kann få føra Herrens sambandskista og alt det andre som høyrer til Guds heilagdom, inn i det huset som skal byggjast åt Herrens namn.»
 
 ### Chapter 23
 
@@ -22778,7 +22778,7 @@
 
 **[23:31]** Og dei skulde ofra alle brennoffer åt Herren på kviledagar og høgtiderne, so mange som fastsett var, og soleis som det var deim fyresagt, allstødt for Herrens åsyn.
 
-**[23:32]** Dei skulde gjera alt arbeidet som trongst ved møtetjeldet, og det som skulde gjerast ved heilagdomen, det som Arons-sønerne, brørne deira, hadde å gjera med gudstenesta i Herrens hus. 
+**[23:32]** Dei skulde gjera alt arbeidet som trongst ved møtetjeldet, og det som skulde gjerast ved heilagdomen, det som Arons-sønerne, brørne deira, hadde å gjera med gudstenesta i Herrens hus.
 
 ### Chapter 24
 
@@ -22842,7 +22842,7 @@
 
 **[24:30]** og sønerne åt Musi var Mahli og Eder og Jerimot. Dette var levitsøner etter ættgreinerne deira.
 
-**[24:31]** Dei og dro strå liksom frendarne deira, Arons-sønerne, medan kong David og Sadok og Ahimelek og ættarhovdingarne for prestarne og levitarne var til stades, hovdingen for ætti likso vel som dei yngste frendarne deira. 
+**[24:31]** Dei og dro strå liksom frendarne deira, Arons-sønerne, medan kong David og Sadok og Ahimelek og ættarhovdingarne for prestarne og levitarne var til stades, hovdingen for ætti likso vel som dei yngste frendarne deira.
 
 ### Chapter 25
 
@@ -22906,7 +22906,7 @@
 
 **[25:30]** den tri og tjugande vart Mahaziot og sønerne og brørne hans, tolv i talet,
 
-**[25:31]** den fire og tjugande vart Romamti-Ezer og sønerne og brørne hans, tolv i talet. 
+**[25:31]** den fire og tjugande vart Romamti-Ezer og sønerne og brørne hans, tolv i talet.
 
 ### Chapter 26
 
@@ -22972,7 +22972,7 @@
 
 **[26:31]** Til hebronitarne høyrde Jeria, hovdingen for hebronitarne etter deira ættgreiner og huslydar; i det fyrtiande styringsåret åt Davids vart dei yversedde, og det fanst då dugande folk hjå dei i Jazer i Gilead.
 
-**[26:32]** Brørne hans, duglege menner, var tvo tusund og sju hundrad hovud for huslydar; deim sette kong David yver rubenitarne, gaditarne og den halve Manasse-ætti, til å greida med alle Guds og kongens målemne. 
+**[26:32]** Brørne hans, duglege menner, var tvo tusund og sju hundrad hovud for huslydar; deim sette kong David yver rubenitarne, gaditarne og den halve Manasse-ætti, til å greida med alle Guds og kongens målemne.
 
 ### Chapter 27
 
@@ -23042,7 +23042,7 @@
 
 **[27:33]** Ahitofel var rådgjevaren åt kongen, og Husai, arkiten, var kongens ven.
 
-**[27:34]** Etter Ahitofel kom Jojada Benajason og Abjatar. Og Joab var kongens herhovding. 
+**[27:34]** Etter Ahitofel kom Jojada Benajason og Abjatar. Og Joab var kongens herhovding.
 
 ### Chapter 28
 
@@ -23086,7 +23086,7 @@
 
 **[28:20]** Og David sagde til Salomo, son sin: «Ver sterk og stød og tak fat på verket; du skal ikkje ræddast og ikkje fæla. For Gud Herren, min Gud, skal vera med deg. Han vil ikkje sleppa deg og slå handi av deg, fyrr det er fullført, alt arbeidet som skal gjerast for tenesta i Herrens hus.
 
-**[28:21]** Og sjå, her er alle skifti av prestar og levitar, som skal gjera allskyns tenesta i Guds hus. Og til alt som skal gjerast, hev du hjå deg alle slag folk som er viljuge og hev fenge visdom til alle slag arbeid; dessutan er hovdingarne og alt folket reiduge til alt det du segjer deim fyre.» 
+**[28:21]** Og sjå, her er alle skifti av prestar og levitar, som skal gjera allskyns tenesta i Guds hus. Og til alt som skal gjerast, hev du hjå deg alle slag folk som er viljuge og hev fenge visdom til alle slag arbeid; dessutan er hovdingarne og alt folket reiduge til alt det du segjer deim fyre.»
 
 ### Chapter 29
 
@@ -23148,7 +23148,7 @@
 
 **[29:29]** Og soga um kong David frå upphavet til enden, ho er uppskrivi i krønikeboki åt sjåaren Samuel, i krønikeboki åt profeten Natan og i krønikeboki åt sjåaren Gad.
 
-**[29:30]** Der er og fortalt um heile styringi hans, og um storverki hans, og den lagnad som kom yver honom og Israel og alle andre land og rike.  
+**[29:30]** Der er og fortalt um heile styringi hans, og um storverki hans, og den lagnad som kom yver honom og Israel og alle andre land og rike.
 
 ## II Chronicles
 
@@ -23186,7 +23186,7 @@
 
 **[1:16]** Hestarne sine fekk Salomo frå Egyptarland, med di kjøpmennerne åt kongen kjøpte deim der mot betaling.
 
-**[1:17]** Dei førde ut ei vogn frå Egyptarland for seks hundrad sylvdalar og ein hest for hundrad og femti. Og ved deira hjelp førde dei ut slike på same måten til alle hetitarkongarne og til syrarkongarne. 
+**[1:17]** Dei førde ut ei vogn frå Egyptarland for seks hundrad sylvdalar og ein hest for hundrad og femti. Og ved deira hjelp førde dei ut slike på same måten til alle hetitarkongarne og til syrarkongarne.
 
 ### Chapter 2
 
@@ -23224,7 +23224,7 @@
 
 **[2:17]** Salomo let då rekna upp alle dei framande mennerne som budde i Israels land, etter den teljingi som David, far hans, hadde gjort; og dei kom til at det var hundrad og tri og femti tusund og seks hundrad.
 
-**[2:18]** Av deim gjorde han sytti tusund til berarar, åtteti tusund til steinhoggarar på fjelli og tri tusund og seks hundrad til formenner som skulde halda folket i arbeid. 
+**[2:18]** Av deim gjorde han sytti tusund til berarar, åtteti tusund til steinhoggarar på fjelli og tri tusund og seks hundrad til formenner som skulde halda folket i arbeid.
 
 ### Chapter 3
 
@@ -23260,7 +23260,7 @@
 
 **[3:16]** Dessutan gjorde han hengjekransar til koren og sette deim på det øvste av sulorne; og på hjengjekransarne sette han hundrad granateple.
 
-**[3:17]** Sulorne sette han framanfor templet, ei til høgre og ei til vinstre; den som var høgre, kalla han Jakin, den vinstre Boaz. 
+**[3:17]** Sulorne sette han framanfor templet, ei til høgre og ei til vinstre; den som var høgre, kalla han Jakin, den vinstre Boaz.
 
 ### Chapter 4
 
@@ -23306,7 +23306,7 @@
 
 **[4:21]** med blomarne og lamporne og ljossakserne av gull, og det av det aller beste gullet,
 
-**[4:22]** knivarne og skålarne og kannorne og glodpannorne av skirt gull, og med umsyn til inngangarne til huset, so var dei indre dørerne til det høgheilage romet, og dørerne i huset, som førde til tempelsalen, av gull. 
+**[4:22]** knivarne og skålarne og kannorne og glodpannorne av skirt gull, og med umsyn til inngangarne til huset, so var dei indre dørerne til det høgheilage romet, og dørerne i huset, som førde til tempelsalen, av gull.
 
 ### Chapter 5
 
@@ -23336,7 +23336,7 @@
 
 **[5:13]** og i same augneblinken då lurblåsarane og songarane sette i alle som ein med å lova og prisa Herren, og dei let lurarne og cymblarne og spelgognerne klinga, og lova Herren for han er god, og hans miskunn varer æveleg - då vart huset, Herrens hus, fyllt av ei sky,
 
-**[5:14]** so prestarne kunde ikkje standa og gjera tenesta for skuld skyi; for Herrens herlegdom fyllte Guds hus. 
+**[5:14]** so prestarne kunde ikkje standa og gjera tenesta for skuld skyi; for Herrens herlegdom fyllte Guds hus.
 
 ### Chapter 6
 
@@ -23422,7 +23422,7 @@
 
 **[6:41]** So reis deg då, Herre Gud, og kom til kvilestaden din, du med di velduge kista! Lat prestarne dine, Herre Gud, klæda seg i frelsa, og dine gudlege gleda yver det gode!
 
-**[6:42]** Herre Gud, vis ikkje ifrå deg åsyni åt den du hev salva, kom i hug nåden mot David, tenaren din!» 
+**[6:42]** Herre Gud, vis ikkje ifrå deg åsyni åt den du hev salva, kom i hug nåden mot David, tenaren din!»
 
 ### Chapter 7
 
@@ -23468,7 +23468,7 @@
 
 **[7:21]** Og yver dette huset, som var so høgreist, skal alle verta forfærde som gjeng framum det, når dei segjer: «Kvifor hev Herren fare soleis åt med dette landet og dette huset?»
 
-**[7:22]** då skal dei svara: «For di dei vende seg ifrå Herren, sin fedregud, som førde deim ut or Egyptarland, og heldt seg til andre gudar, og bad til deim og tente deim. Difor hev Herren late alt dette vonde koma yver deim.»» 
+**[7:22]** då skal dei svara: «For di dei vende seg ifrå Herren, sin fedregud, som førde deim ut or Egyptarland, og heldt seg til andre gudar, og bad til deim og tente deim. Difor hev Herren late alt dette vonde koma yver deim.»»
 
 ### Chapter 8
 
@@ -23506,7 +23506,7 @@
 
 **[8:17]** Den gongen drog Salomo til Esjon-Geber og til Elot ved havstrandi i Edomlandet.
 
-**[8:18]** Og Huram sende skip og sjøvant mannskap til honom med folki sine, dei siglde til Ofir saman med folki åt Salomo, og derifrå henta dei elleve hundrad våger gull, som dei førde til kong Salomo. 
+**[8:18]** Og Huram sende skip og sjøvant mannskap til honom med folki sine, dei siglde til Ofir saman med folki åt Salomo, og derifrå henta dei elleve hundrad våger gull, som dei førde til kong Salomo.
 
 ### Chapter 9
 
@@ -23570,7 +23570,7 @@
 
 **[9:30]** Salomo var konge i Jerusalem yver heile Israel i fyrti år.
 
-**[9:31]** So lagde Salomo seg til kvile hjå federne sine og vart gravlagd i far sin, Davids, by. Og Rehabeam, son hans, vart konge i staden hans. 
+**[9:31]** So lagde Salomo seg til kvile hjå federne sine og vart gravlagd i far sin, Davids, by. Og Rehabeam, son hans, vart konge i staden hans.
 
 ### Chapter 10
 
@@ -23610,7 +23610,7 @@
 
 **[10:18]** Og då kong Rehabeam sende i veg Hadoram, som hadde øvste tilsynet med pliktarbeidet til deim, då steina Israels-sønerne honom i hel. Då skunda kong Rehabeam seg upp i vogni si og rømde til Jerusalem.
 
-**[10:19]** So reiv då Israel seg laus frå Davids hus, og soleis hev det vore til den dag i dag. 
+**[10:19]** So reiv då Israel seg laus frå Davids hus, og soleis hev det vore til den dag i dag.
 
 ### Chapter 11
 
@@ -23658,7 +23658,7 @@
 
 **[11:22]** Difor sette han Abia, son åt Ma’aka, til hovding og fyrste millom brørne sine; for han var tenkt på å gjera honom til konge.
 
-**[11:23]** Og på visleg måte skifte han ut alle landsluterne og dei faste borgerne i Juda og Benjamin til alle sønerne sine, og gav deim flust til å leva av og fekk deim konor i mengd. 
+**[11:23]** Og på visleg måte skifte han ut alle landsluterne og dei faste borgerne i Juda og Benjamin til alle sønerne sine, og gav deim flust til å leva av og fekk deim konor i mengd.
 
 ### Chapter 12
 
@@ -23692,7 +23692,7 @@
 
 **[12:15]** Det som er å fortelja um Rehabeam frå fyrste til sist, det er uppskrive i krønikorne åt profeten Semaja og sjåaren Iddo, der som ættartali er upprekna. Millom Rehabeam og Jeroboam var det ufred stødt.
 
-**[12:16]** Og Rehabeam lagde seg til kvile hjå federne sine, og Abia, son hans, vart konge i staden hans. 
+**[12:16]** Og Rehabeam lagde seg til kvile hjå federne sine, og Abia, son hans, vart konge i staden hans.
 
 ### Chapter 13
 
@@ -23738,7 +23738,7 @@
 
 **[13:21]** Men Abia vart megtig. Han tok seg fire konor og vart far til tvo og tjugeto søner og sekstan døtter.
 
-**[13:22]** Det som elles er å fortelja um Abia, um hans ferd og ord, er uppskrive i utleggjingi åt profeten Iddo. 
+**[13:22]** Det som elles er å fortelja um Abia, um hans ferd og ord, er uppskrive i utleggjingi åt profeten Iddo.
 
 ### Chapter 14
 
@@ -23770,7 +23770,7 @@
 
 **[14:14]** Og dei tok alle byarne rundt ikring Gerar, for ein støkk frå Herren hadde kome yver deim, og dei plundra alle byarne, for det var mykje herfang i deim.
 
-**[14:15]** Jamvel buskaps-tjeldi tok dei, og dei drog med seg ei mengd med småfe og kamelar, og so snudde dei heim att til Jerusalem. 
+**[14:15]** Jamvel buskaps-tjeldi tok dei, og dei drog med seg ei mengd med småfe og kamelar, og so snudde dei heim att til Jerusalem.
 
 ### Chapter 15
 
@@ -23810,7 +23810,7 @@
 
 **[15:18]** Heilaggåvorne åt far sin og heilaggåvorne sine eigne flutte han inn i Guds hus, sylv og gull og ymse ting.
 
-**[15:19]** Det vart ingen ufred fyrr i det fem og trettiande styringsåret åt Asa. 
+**[15:19]** Det vart ingen ufred fyrr i det fem og trettiande styringsåret åt Asa.
 
 ### Chapter 16
 
@@ -23840,7 +23840,7 @@
 
 **[16:13]** Og Asa lagde seg til kvile hjå federne sine og døydde i det eitt og fyrtiande styringsåret sitt.
 
-**[16:14]** Dei gravlagde honom i gravi hans, som han hadde late hogga ut i Davidsbyen, og lagde honom på ei lega som dei hadde fyllt med kryddor av ymse slag som var tillaga i salveblanding, og dei kveikte eit ovlagt bål for honom. 
+**[16:14]** Dei gravlagde honom i gravi hans, som han hadde late hogga ut i Davidsbyen, og lagde honom på ei lega som dei hadde fyllt med kryddor av ymse slag som var tillaga i salveblanding, og dei kveikte eit ovlagt bål for honom.
 
 ### Chapter 17
 
@@ -23880,7 +23880,7 @@
 
 **[17:18]** jamsides honom Jozabad med hundrad og åtteti tusund djerve stridsmenner.
 
-**[17:19]** Dette var dei som stod i tenesta åt kongen, umfram deim som kongen hadde lagt i borgbyarne i heile Juda. 
+**[17:19]** Dette var dei som stod i tenesta åt kongen, umfram deim som kongen hadde lagt i borgbyarne i heile Juda.
 
 ### Chapter 18
 
@@ -23950,7 +23950,7 @@
 
 **[18:33]** Men ein mann som spente bogen og skaut på måfå, råka Israels-kongen millom brynjeskøytingarne og brynja. Då baud han vognstyraren sin: «Snu, og før meg ut or heren! for eg er såra.»
 
-**[18:34]** Men striden vart hardare og hardare den dagen, og Israels-kongen vart standande i vogni si imot syrarane like til um kvelden; og ved soleglad døydde han. 
+**[18:34]** Men striden vart hardare og hardare den dagen, og Israels-kongen vart standande i vogni si imot syrarane like til um kvelden; og ved soleglad døydde han.
 
 ### Chapter 19
 
@@ -23974,7 +23974,7 @@
 
 **[19:10]** Kvar gong det vert lagt fram for dykk ei rettstrætta frå brørne dykkar, som bur i byarne sine, anten det er dom i ei dråpssak eller eit bod, ei lov eller vedtekter og rettar, då skal de vara deim åt, so dei ikkje syndar imot Herren, og det kjem vreide yver dykk og brørne dykkar. Gjer soleis, so det ikkje skal draga skuld yver dykk!
 
-**[19:11]** I alt det som kjem ved Herren, skal øvstepresten Amarja vera formannen dykkar, og i alt det som kjem ved kongen, skal Zebadja Ismaelsson, hovdingen for Juda-ætti, vera formann; og levitarne skal vera tilsynsmenner under dykk. Tak no hugheilt fat på verket, og Herren skal vere med den som er god.» 
+**[19:11]** I alt det som kjem ved Herren, skal øvstepresten Amarja vera formannen dykkar, og i alt det som kjem ved kongen, skal Zebadja Ismaelsson, hovdingen for Juda-ætti, vera formann; og levitarne skal vera tilsynsmenner under dykk. Tak no hugheilt fat på verket, og Herren skal vere med den som er god.»
 
 ### Chapter 20
 
@@ -24050,7 +24050,7 @@
 
 **[20:36]** Og han gjorde samlag med honom um å byggja skip som skulde sigla til Tarsis. Dei bygde skip i Esjon-Geber.
 
-**[20:37]** Men Eliezer Dodavason frå Maresa spådde mot Josafat og sagde: «For di du hev gjort samlag med Ahazja, vil Herren gjera tiltaket ditt um inkje.» Og nokre skip forliste og kunde ikkje sigla til Tarsis. 
+**[20:37]** Men Eliezer Dodavason frå Maresa spådde mot Josafat og sagde: «For di du hev gjort samlag med Ahazja, vil Herren gjera tiltaket ditt um inkje.» Og nokre skip forliste og kunde ikkje sigla til Tarsis.
 
 ### Chapter 21
 
@@ -24092,7 +24092,7 @@
 
 **[21:19]** Etter år og dag, då tvo år var lidne, fall innvolarne hans fram for skuld sjukdomen hans, og han døydde med harde lidingar. Folket hans kveikte ikkje noko bål for honom, soleis som for federne hans.
 
-**[21:20]** Tvo og tretti år gamall var han då han vart konge; i åtte år rådde han i Jerusalem. Dei gravlagde honom i Davidsbyen, men ikkje i kongegraverne. 
+**[21:20]** Tvo og tretti år gamall var han då han vart konge; i åtte år rådde han i Jerusalem. Dei gravlagde honom i Davidsbyen, men ikkje i kongegraverne.
 
 ### Chapter 22
 
@@ -24118,7 +24118,7 @@
 
 **[22:11]** Men Josabat, dotter åt kongen, tok Joas Ahazjason, og fekk honom burt ifrå kongssønerne, som var drepne, og fekk honom og fostermor hans inn i sengkammerset. Soleis gøymde Josabat, dotter åt kong Joram og kona åt presten Jojada - for ho var syster åt Ahazja - honom for Atalja, so ho fekk ikkje drepe honom.
 
-**[22:12]** So var han hjå deim i Guds hus burtgøymd i seks år, medan Atalja styrde i landet. 
+**[22:12]** So var han hjå deim i Guds hus burtgøymd i seks år, medan Atalja styrde i landet.
 
 ### Chapter 23
 
@@ -24162,7 +24162,7 @@
 
 **[23:20]** Og han tok hundradhovdingarne og dei fornæme og dei megtigaste bland folket og heile landslyden og førde kongen ned frå Herrens hus. Og dei gjekk gjenom den øvre porten til huset åt kongen og sette kongen i kongsstolen.
 
-**[23:21]** Då gledde heile landslyden seg, og byen kom til ro; men Atalja hadde dei drepe med sverd. 
+**[23:21]** Då gledde heile landslyden seg, og byen kom til ro; men Atalja hadde dei drepe med sverd.
 
 ### Chapter 24
 
@@ -24218,7 +24218,7 @@
 
 **[24:26]** Dei som svor seg saman imot honom, var Zabad, son åt ammonitkvinna Simat, og Jozabad, son åt moabitkvinna Simrit.
 
-**[24:27]** Um sønerne hans og alle profetordi imot honom og grunnleggjingi av Guds hus, det finst uppskrive i utleggjingi til kongeboki. Amasja, son hans, vart konge i staden hans. 
+**[24:27]** Um sønerne hans og alle profetordi imot honom og grunnleggjingi av Guds hus, det finst uppskrive i utleggjingi til kongeboki. Amasja, son hans, vart konge i staden hans.
 
 ### Chapter 25
 
@@ -24276,7 +24276,7 @@
 
 **[25:27]** Men frå den tid då Amasja sveik Herren, skipa dei ei samansverjing imot honom i Jerusalem, og då han rømde til Lakis, sende dei folk etter honom dit, og dei drap honom der.
 
-**[25:28]** Dei lyfte honom upp på hesteryggen og gravlagde honom hjå federne i Judabyen. 
+**[25:28]** Dei lyfte honom upp på hesteryggen og gravlagde honom hjå federne i Judabyen.
 
 ### Chapter 26
 
@@ -24324,7 +24324,7 @@
 
 **[26:22]** Det som elles er å fortelja um Uzzia frå fyrst til sist, hev profeten Jesaja, son åt Amos, skrive upp.
 
-**[26:23]** Og Uzzia lagde seg til kvile hjå federne sine, og dei gravla honom hjå federne hans på den marki der kongegravarne var; for dei kom i hug at han hadde vore spillsjuk. Og Jotam, son hans, vart konge i staden hans. 
+**[26:23]** Og Uzzia lagde seg til kvile hjå federne sine, og dei gravla honom hjå federne hans på den marki der kongegravarne var; for dei kom i hug at han hadde vore spillsjuk. Og Jotam, son hans, vart konge i staden hans.
 
 ### Chapter 27
 
@@ -24344,7 +24344,7 @@
 
 **[27:8]** Fem og tjuge år var han då han vart konge, og sekstan år styrde han i Jerusalem.
 
-**[27:9]** So lagde Jotam seg til kvile hjå federne sine, og dei gravlagde honom i Davidsbyen, og Ahaz, son hans, vart konge i staden hans. 
+**[27:9]** So lagde Jotam seg til kvile hjå federne sine, og dei gravlagde honom i Davidsbyen, og Ahaz, son hans, vart konge i staden hans.
 
 ### Chapter 28
 
@@ -24400,7 +24400,7 @@
 
 **[28:26]** Det som elles er å fortelja um honom og heile hans ferd frå fyrst til sist, det er uppskrive i Judas og Israels kongebok.
 
-**[28:27]** Og Ahaz lagde seg til kvile hjå federne sine, og dei gravla honom i byen, i Jerusalem; for dei vilde ikkje gravleggja honom i graverne åt Israels-kongarne. Og Hizkia, son hans, vart konge i staden hans. 
+**[28:27]** Og Ahaz lagde seg til kvile hjå federne sine, og dei gravla honom i byen, i Jerusalem; for dei vilde ikkje gravleggja honom i graverne åt Israels-kongarne. Og Hizkia, son hans, vart konge i staden hans.
 
 ### Chapter 29
 
@@ -24474,7 +24474,7 @@
 
 **[29:35]** Dessutan var det ei mengd med brennoffer og attåt deim feittstykki av takkofferi og dei drykkofferi som høyrde til brennofferi. Soleis fekk dei i stand tenesta i Herrens hus.
 
-**[29:36]** Og Hizkia og heile folket gledde seg yver det som Gud hadde gjort for folket; for alt dette gjekk fyre seg med eit slag. 
+**[29:36]** Og Hizkia og heile folket gledde seg yver det som Gud hadde gjort for folket; for alt dette gjekk fyre seg med eit slag.
 
 ### Chapter 30
 
@@ -24530,7 +24530,7 @@
 
 **[30:26]** Og det var stor gleda i Jerusalem; for sidan dagarne åt Israels-kongen Salomo Davidsson hadde det ikkje hendt noko slikt i Jerusalem.
 
-**[30:27]** Og levitprestarne stod upp og velsigna folket, og røysti deira vart høyrd; for bøni deira nådde fram til den heilage bustaden hans, til himmelen. 
+**[30:27]** Og levitprestarne stod upp og velsigna folket, og røysti deira vart høyrd; for bøni deira nådde fram til den heilage bustaden hans, til himmelen.
 
 ### Chapter 31
 
@@ -24574,7 +24574,7 @@
 
 **[31:20]** Soleis gjorde Hizkia i heile Juda, og han gjorde det som godt og rett og sant var for Herren, sin Guds åsyn.
 
-**[31:21]** Alle dei verki som han tok seg fyre i tenesta for Guds hus, i lovi og i bodet med det fyremål å søkja sin Gud, alle dei gjorde han av heile sitt hjarta, og han hadde lukka med seg. 
+**[31:21]** Alle dei verki som han tok seg fyre i tenesta for Guds hus, i lovi og i bodet med det fyremål å søkja sin Gud, alle dei gjorde han av heile sitt hjarta, og han hadde lukka med seg.
 
 ### Chapter 32
 
@@ -24642,7 +24642,7 @@
 
 **[32:32]** Det som elles er å fortelja um Hizkia og godgjerningarne hans, er uppskrive i openberringi åt profeten Jesaja Amosson og i boki um Juda- og Israels-kongarne.
 
-**[32:33]** Og Hizkia lagde seg til kvile hjå federne sine, og dei gravlagde honom der som ein stig upp til graverne åt Davids-sønerne; og alle Juda-mennerne og Jerusalems-buarne synte honom stor æra ved avferdi hans. Og Manasse, son hans, vart konge i staden hans. 
+**[32:33]** Og Hizkia lagde seg til kvile hjå federne sine, og dei gravlagde honom der som ein stig upp til graverne åt Davids-sønerne; og alle Juda-mennerne og Jerusalems-buarne synte honom stor æra ved avferdi hans. Og Manasse, son hans, vart konge i staden hans.
 
 ### Chapter 33
 
@@ -24694,7 +24694,7 @@
 
 **[33:24]** Tenarane hans svor seg saman mot honom og drap honom i huset hans.
 
-**[33:25]** Men landsfolket drap alle deim som hadde svore seg saman imot kong Amon, og landsfolket tok Josia, son hans, til konge i staden hans. 
+**[33:25]** Men landsfolket drap alle deim som hadde svore seg saman imot kong Amon, og landsfolket tok Josia, son hans, til konge i staden hans.
 
 ### Chapter 34
 
@@ -24762,7 +24762,7 @@
 
 **[34:32]** Og han let deim ganga inn i pakti, som fanst i Jerusalem og Benjamin, og alle Jerusalems-buarne gjorde etter pakti med Gud, deira fedregud.
 
-**[34:33]** Og Josia fekk burt all styggedomen frå alle dei landi som høyrde til Israels-sønerne, og han nøydde alle som fanst i Israel til å tena Herren, sin Gud. So lenge som han livde, vende dei seg ikkje burt i frå Herren, deira fedregud. 
+**[34:33]** Og Josia fekk burt all styggedomen frå alle dei landi som høyrde til Israels-sønerne, og han nøydde alle som fanst i Israel til å tena Herren, sin Gud. So lenge som han livde, vende dei seg ikkje burt i frå Herren, deira fedregud.
 
 ### Chapter 35
 
@@ -24818,7 +24818,7 @@
 
 **[35:26]** Det som elles er å fortelja um Josia og dei gudlege gjerningarne som han gjorde etter det som er fyreskrive i Herrens lov,
 
-**[35:27]** og soga hans frå fyrst til sist, det er uppskrive i boki um Israels- og Juda-kongarne. 
+**[35:27]** og soga hans frå fyrst til sist, det er uppskrive i boki um Israels- og Juda-kongarne.
 
 ### Chapter 36
 
@@ -24866,7 +24866,7 @@
 
 **[36:22]** Men i det fyrste året åt Kyrus, kongen i Persia, vekte Herren hugen i persarkongen Kyrus - for Herrens ord i Jeremias munn skulde nå sitt endemål - og han let ropa ut i alt sitt rike, og sende brev ikring med sovori kunngjering:
 
-**[36:23]** «So segjer Kyrus, kongen i Persia: «Alle kongerike på jordi hev Herren, Gud i himmelen, gjeve meg, og han hev lagt på meg at eg skal byggja honom eit hus i Jerusalem i Juda. Er det nokon millom dykk av alt hans folk, so vere Herren, hans Gud, med honom, og han drage upp dit!»»  
+**[36:23]** «So segjer Kyrus, kongen i Persia: «Alle kongerike på jordi hev Herren, Gud i himmelen, gjeve meg, og han hev lagt på meg at eg skal byggja honom eit hus i Jerusalem i Juda. Er det nokon millom dykk av alt hans folk, so vere Herren, hans Gud, med honom, og han drage upp dit!»»
 
 ## Ezra
 
@@ -24892,7 +24892,7 @@
 
 **[1:10]** tretti gullskålar og fire hundrad og ti sylvskålar av ringare slag og tusund andre kjerald.
 
-**[1:11]** Kjeraldi av gull og sylv var i alt fem tusund og fire hundrad. Alt dette førde Sesbassar med seg då dei burtførde for upp frå Babel til Jerusalem. 
+**[1:11]** Kjeraldi av gull og sylv var i alt fem tusund og fire hundrad. Alt dette førde Sesbassar med seg då dei burtførde for upp frå Babel til Jerusalem.
 
 ### Chapter 2
 
@@ -25034,7 +25034,7 @@
 
 **[2:69]** Kvar av deim lagde i byggjekassa, etter som han hadde råd til, og det kom inn tri hundrad tusund dalar i gull og fem og tjuge tusund dalar i sylv, dertil eit hundrad prestekjolar.
 
-**[2:70]** Prestarne og levitarne og nokre av lyden, songarane, dørvaktarane og tempelsveinarne, sette då bu i sine byar, og heile Israel elles busette seg kvar i sin by. 
+**[2:70]** Prestarne og levitarne og nokre av lyden, songarane, dørvaktarane og tempelsveinarne, sette då bu i sine byar, og heile Israel elles busette seg kvar i sin by.
 
 ### Chapter 3
 
@@ -25062,7 +25062,7 @@
 
 **[3:12]** Men mange av prestarne og levitarne og ættarhovdingarne, dei gamle som hadde set det fyrre huset, gret høgt då dei såg på at grunnvollen til dette huset vart lagd; men mange var so glade at dei ropa høgt av fagnad.
 
-**[3:13]** Det var rådlaust for folket å skilja frå kvartanna fagnadropi og folkegråten; for folket sette i med velduge fagnadrop, og omen av dette lyddest langan leid. 
+**[3:13]** Det var rådlaust for folket å skilja frå kvartanna fagnadropi og folkegråten; for folket sette i med velduge fagnadrop, og omen av dette lyddest langan leid.
 
 ### Chapter 4
 
@@ -25112,7 +25112,7 @@
 
 **[4:23]** So snart som dette brevet frå kong Artahsasta hadde vorte lese for Rehum og skrivaren Simsai og embætsbrørne deira, for dei snøgt til jødarne i Jerusalem og hindra dei med vald og magt.
 
-**[4:24]** Då vart det stans med byggjingi på Guds hus i Jerusalem. Det vart ingenting gjort med dette fyrr Darius hadde vorte konge i Persia, det andre året han styrde. 
+**[4:24]** Då vart det stans med byggjingi på Guds hus i Jerusalem. Det vart ingenting gjort med dette fyrr Darius hadde vorte konge i Persia, det andre året han styrde.
 
 ### Chapter 5
 
@@ -25148,7 +25148,7 @@
 
 **[5:16]** So kom då den same Sesbassar og lagde grunnen til Guds hus i Jerusalem. Dei hev bygt på det til denne tid, men endå er det ikkje ferdigt.»
 
-**[5:17]** Soframt no kongen so tykkjer, skulde det vore leita etter i skattkammeret der i Babel, um det er so at kong Kyrus hev gjeve lov til å byggja dette gudshuset i Jerusalem. Sidan lyt kongen lata oss vita kva som er hans vilje i denne saki.» 
+**[5:17]** Soframt no kongen so tykkjer, skulde det vore leita etter i skattkammeret der i Babel, um det er so at kong Kyrus hev gjeve lov til å byggja dette gudshuset i Jerusalem. Sidan lyt kongen lata oss vita kva som er hans vilje i denne saki.»
 
 ### Chapter 6
 
@@ -25194,7 +25194,7 @@
 
 **[6:21]** Israels-sønerne som var komne heim att or utlægdi, åt då saman med alle som hadde skilt seg frå ureinskapen åt heidningarne i landet og slege lag med deim, av di dei vilde søkja Herren, Israels Gud.
 
-**[6:22]** Og dei heldt søtebrødhelgi i sju dagar med fagnad. Herren sjølv hadde gjort deim glade, med di han hadde snutt hjarta åt assyrarkongen til deim, so han var med og studde deim i arbeidet på huset åt Gud, Israels Gud. 
+**[6:22]** Og dei heldt søtebrødhelgi i sju dagar med fagnad. Herren sjølv hadde gjort deim glade, med di han hadde snutt hjarta åt assyrarkongen til deim, so han var med og studde deim i arbeidet på huset åt Gud, Israels Gud.
 
 ### Chapter 7
 
@@ -25252,7 +25252,7 @@
 
 **[7:27]** Pris vere Herren, Gud åt federne våre, at han gav kongen slikt i hugen, til å pryda Herrens hus i Jerusalem,
 
-**[7:28]** og at han let meg finna nåde hjå kongen og rådsmennerne hans og hjå alle dei megtige hovdingarne åt kongen! Eg fekk mod då eg såg at Herren, min Gud, heldt handi si yver meg, og eg samla kringum meg nokre ættarhovdingar av Israel; dei skulde vera med meg på heimferd. 
+**[7:28]** og at han let meg finna nåde hjå kongen og rådsmennerne hans og hjå alle dei megtige hovdingarne åt kongen! Eg fekk mod då eg såg at Herren, min Gud, heldt handi si yver meg, og eg samla kringum meg nokre ættarhovdingar av Israel; dei skulde vera med meg på heimferd.
 
 ### Chapter 8
 
@@ -25326,7 +25326,7 @@
 
 **[8:35]** Dei hertekne som var komne heim att or utlægdi, ofra no brennoffer til Israels Gud. Dei ofra tolv uksar for heile Israel og seks og nitti verar, sju og sytti lamb og tolv syndoffer-bukkar, alt til brennoffer åt Herren.
 
-**[8:36]** So gav dei frå seg kongsbodet til dei kongelege satraparne og til jarlarne i landi på hi sida elvi. Desse kom då og med hjelp både til lyden og til Guds hus. 
+**[8:36]** So gav dei frå seg kongsbodet til dei kongelege satraparne og til jarlarne i landi på hi sida elvi. Desse kom då og med hjelp både til lyden og til Guds hus.
 
 ### Chapter 9
 
@@ -25358,7 +25358,7 @@
 
 **[9:14]** skulde me då brjota bodordi dine att og hava samgifte med folk som driv sovorne styggedomar? Måtte du ikkje då harmast på oss, so du reint kom til å tyna oss so ingen leivning var att, og ingen berga seg undan?
 
-**[9:15]** Herre, Israels Gud! du er rettvis når me her i dag berre er ein leivning som er berga. Sjå no ligg me her i vår skuld framfor deg. Som det no er, kann ingen verta standande for deg.» 
+**[9:15]** Herre, Israels Gud! du er rettvis når me her i dag berre er ein leivning som er berga. Sjå no ligg me her i vår skuld framfor deg. Som det no er, kann ingen verta standande for deg.»
 
 ### Chapter 10
 
@@ -25448,7 +25448,7 @@
 
 **[10:43]** av Nebo-sønerne: Je’iel, Mattitja, Zabad, Zebina, Jaddu, Joel og Benaja.
 
-**[10:44]** Alle desse hadde teke framande kvende til konor. Og millom konorne var det sume som hadde fenge born.  
+**[10:44]** Alle desse hadde teke framande kvende til konor. Og millom konorne var det sume som hadde fenge born.
 
 ## Nehemiah
 
@@ -25474,7 +25474,7 @@
 
 **[1:10]** Dei er då tenarane dine og folket ditt som du fria ut med di store magt og di sterke hand.
 
-**[1:11]** Å Herre, lat øyra ditt agta på bøni frå tenaren din og bøni frå tenarane dine, dei som gjerne vil ottast ditt namn. Å, lat tenaren din hava lukka med seg i dag; lat meg finna medhug hjå denne mannen!» - Eg var den gongen skjenkjar hjå kongen. 
+**[1:11]** Å Herre, lat øyra ditt agta på bøni frå tenaren din og bøni frå tenarane dine, dei som gjerne vil ottast ditt namn. Å, lat tenaren din hava lukka med seg i dag; lat meg finna medhug hjå denne mannen!» - Eg var den gongen skjenkjar hjå kongen.
 
 ### Chapter 2
 
@@ -25516,7 +25516,7 @@
 
 **[2:19]** Men då horoniten Sanballat og den ammonitiske tenestmannen Tobia og arabaren Gesem spurde dette, spotta dei oss og svivyrde oss: «Kva er det de gjer på?» sagde dei. «Vil de gjera upprør mot kongen?»
 
-**[2:20]** Då gav eg deim dette svaret: «Gud i himmelen vil gjeva oss lukka. Og me, hans tenarar, vil ganga i veg og byggja. Men de hev ikkje anten lut eller rett eller minne i Jerusalem.» 
+**[2:20]** Då gav eg deim dette svaret: «Gud i himmelen vil gjeva oss lukka. Og me, hans tenarar, vil ganga i veg og byggja. Men de hev ikkje anten lut eller rett eller minne i Jerusalem.»
 
 ### Chapter 3
 
@@ -25582,7 +25582,7 @@
 
 **[3:31]** Etter honom arbeidde Malkia, ein av gullsmedarne, heilt fram til huset for tempelsveinarne og kræmarane, midt imot Mynstringsporten og fram til Hyrnesalen.
 
-**[3:32]** Og millom Hyrnesalen og Saueporten arbeidde gullsmedarne og kræmarane. 
+**[3:32]** Og millom Hyrnesalen og Saueporten arbeidde gullsmedarne og kræmarane.
 
 ### Chapter 4
 
@@ -25630,7 +25630,7 @@
 
 **[4:22]** Samstundes baud eg folket: «Kvar og ein med sin dreng skal vera med natti inne i Jerusalem, so me kann hava deim til vakt um natti og til arbeid um dagen.»
 
-**[4:23]** Korkje eg eller frendarne mine eller drengjerne eller vaktmennerne mine, kom or klædi. Våpni var for kvar og ein likso umissande som vatn. 
+**[4:23]** Korkje eg eller frendarne mine eller drengjerne eller vaktmennerne mine, kom or klædi. Våpni var for kvar og ein likso umissande som vatn.
 
 ### Chapter 5
 
@@ -25670,7 +25670,7 @@
 
 **[5:18]** Og det vart tillaga på min kostnad kvar dag ein ukse og seks utvalde sauer, umfram fuglar, og tiande kvar dag mykje vin av alle slag; like vel kravde eg ikkje jarlekosten, for arbeidet låg tungt på dette folket.
 
-**[5:19]** Kom meg i hug, min Gud, og rekna meg til godes alt det eg hev gjort for dette folket! 
+**[5:19]** Kom meg i hug, min Gud, og rekna meg til godes alt det eg hev gjort for dette folket!
 
 ### Chapter 6
 
@@ -25710,7 +25710,7 @@
 
 **[6:18]** Mange jødar var i svorne vener av honom; han var måg til Sekanja Arahsson; og Johanan, son hans, var gift med dotter åt Mesullam Berekjason.
 
-**[6:19]** Gong på gong tala dei med meg um dygderne hans, og mine ord bar dei fram til honom. Tobia sende ogso brev til å skræma meg. 
+**[6:19]** Gong på gong tala dei med meg um dygderne hans, og mine ord bar dei fram til honom. Tobia sende ogso brev til å skræma meg.
 
 ### Chapter 7
 
@@ -25858,7 +25858,7 @@
 
 **[7:72]** Og det som hitt folket gav, var hundrad tusund dalar i gull, seksti tusund dalar i sylv, og sju og seksti prestekjolar.
 
-**[7:73]** Prestarne og levitarne og dørvaktarane og songarane, og nokre av lyden, og tempelsveinarne og heile Israel elles sette då bu i sine byar. Då den sjuande månaden kom, var Israels-sønerne i sine byar. 
+**[7:73]** Prestarne og levitarne og dørvaktarane og songarane, og nokre av lyden, og tempelsveinarne og heile Israel elles sette då bu i sine byar. Då den sjuande månaden kom, var Israels-sønerne i sine byar.
 
 ### Chapter 8
 
@@ -25896,7 +25896,7 @@
 
 **[8:17]** Heile lyden, alle som var heimkomne frå utlægdi, bygde seg lauvhyttor og budde i deim. Sidan dei dagarne då Jesua Nunsson livde og like til denne dagen hadde Israels-borni ikkje gjort det. Og der var ovleg stor gleda.
 
-**[8:18]** Kvar dag las dei upp or Guds lovbok, frå fyrste dagen til siste; dei heldt høgtig i sju dagar, og på den åttande heldt dei stor samlingshøgtid, etter fastsett skikk. 
+**[8:18]** Kvar dag las dei upp or Guds lovbok, frå fyrste dagen til siste; dei heldt høgtig i sju dagar, og på den åttande heldt dei stor samlingshøgtid, etter fastsett skikk.
 
 ### Chapter 9
 
@@ -25974,7 +25974,7 @@
 
 **[9:37]** Si rike grøda ber det til bate for dei kongar som du sette yver oss for våre synder skuld. Og dei råder og rikjer etter eige tykkje yver kropparne våre og buskapen vår. Me er i stor naud.»
 
-**[9:38]** På grunn av alt dette gjer me eit fast samband, som me skriv upp; og på det forsigla brevet stend: Hovdingarne, levitarne og prestarne våre. 
+**[9:38]** På grunn av alt dette gjer me eit fast samband, som me skriv upp; og på det forsigla brevet stend: Hovdingarne, levitarne og prestarne våre.
 
 ### Chapter 10
 
@@ -26054,7 +26054,7 @@
 
 **[10:38]** Ein prest, ein av Arons-sønerne, er med levitarne når dei samlar inn tiendi; og sjølve fører levitarne tiendeparten av tienden si upp til vår Guds hus, til kovarne i forrådshuset.
 
-**[10:39]** Både Israels-sønerne og Levi-sønerne føre reidorne av korn og druvesaft og olje til kovarne, der kjeraldi er som høyrer til heilagdomen, og der prestarne som gjer tenesta, og like eins portvaktarane og songarane. - Soleis vil me ikkje gløyma vår Guds hus. 
+**[10:39]** Både Israels-sønerne og Levi-sønerne føre reidorne av korn og druvesaft og olje til kovarne, der kjeraldi er som høyrer til heilagdomen, og der prestarne som gjer tenesta, og like eins portvaktarane og songarane. - Soleis vil me ikkje gløyma vår Guds hus.
 
 ### Chapter 11
 
@@ -26128,7 +26128,7 @@
 
 **[11:35]** Lod og Ono, Handverkardalen.
 
-**[11:36]** Nokre skift av levitarne som høyrde til Juda, busette seg i Benjamin. 
+**[11:36]** Nokre skift av levitarne som høyrde til Juda, busette seg i Benjamin.
 
 ### Chapter 12
 
@@ -26224,7 +26224,7 @@
 
 **[12:46]** for alt i gamall tid, i Davids dagar, og songarhovdingen Asafs dagar, ljoda lovsongar og takkesongar til Gud.
 
-**[12:47]** Og i Zerubbabels og Nehemias dagar gav heile Israel songarane og portvaktarane dei reidorne dei skulde hava frå dag til annan. Levitarne fekk sine heilage gåvor, og dei reidde ut heilage gåvor til Arons-sønerne. 
+**[12:47]** Og i Zerubbabels og Nehemias dagar gav heile Israel songarane og portvaktarane dei reidorne dei skulde hava frå dag til annan. Levitarne fekk sine heilage gåvor, og dei reidde ut heilage gåvor til Arons-sønerne.
 
 ### Chapter 13
 
@@ -26288,7 +26288,7 @@
 
 **[13:30]** Soleis reinsa eg deim for alt framandt. Eg fastsette tenestorne for prestarne og levitarne, det kvar skulde ha umsut med i sitt arbeid,
 
-**[13:31]** og korleis det skulde vera med vedofferet til visse tider og med fyrstegrøda. Kom meg i hug for dette, min Gud, og rekna meg det til godes!  
+**[13:31]** og korleis det skulde vera med vedofferet til visse tider og med fyrstegrøda. Kom meg i hug for dette, min Gud, og rekna meg det til godes!
 
 ## Esther
 
@@ -26336,7 +26336,7 @@
 
 **[1:21]** Dette ordet lika kongen og stormennerne godt, og kongen gjorde som Memukan hadde sagt.
 
-**[1:22]** Brev vart sende til alle jarledømi åt kongen, til kvart jarledøme med deira skrift og til kvart folk på deira tungemål: at kvar mann skulde vera herre i sitt hus, og tala sitt eige folkemål. 
+**[1:22]** Brev vart sende til alle jarledømi åt kongen, til kvart jarledøme med deira skrift og til kvart folk på deira tungemål: at kvar mann skulde vera herre i sitt hus, og tala sitt eige folkemål.
 
 ### Chapter 2
 
@@ -26384,7 +26384,7 @@
 
 **[2:22]** Mordokai fekk vita dette, og sagde det med dronning Ester; so nemde Ester det med kongen på Mordokais vegner.
 
-**[2:23]** Saki vart granska, og det viste seg at det var sant, og dei tvo vart hengde i ein galge. Dette vart uppskrive i krønikeboki for kongen. 
+**[2:23]** Saki vart granska, og det viste seg at det var sant, og dei tvo vart hengde i ein galge. Dette vart uppskrive i krønikeboki for kongen.
 
 ### Chapter 3
 
@@ -26416,7 +26416,7 @@
 
 **[3:14]** I brevet stod at det skulde verta utferda ei lov og kunngjord for alle folk i kvart jarlerike, med bod um at dei skulde vera budde til den dagen.
 
-**[3:15]** Snøggbodi skunda seg av stad på kongens bod, so snart påbodet var gjeve i borgi Susan. Kongen og Haman sette seg til å drikka. Men byen Susan var reint forfjetra. 
+**[3:15]** Snøggbodi skunda seg av stad på kongens bod, so snart påbodet var gjeve i borgi Susan. Kongen og Haman sette seg til å drikka. Men byen Susan var reint forfjetra.
 
 ### Chapter 4
 
@@ -26452,7 +26452,7 @@
 
 **[4:16]** «Gakk og få saman alle jødar som finst i Susan, og haldt fasta for meg, so de korkje et eller drikk noko på tri døger, natt og dag. Eg og ternorne mine vil og fasta sameleis. Og so vil eg ganga inn til kongen, endå det er ulovlegt. Lyt eg so døy, so lat meg døy!»
 
-**[4:17]** Mordokai gjekk av stad og gjorde i alle måtar so som Ester hadde bode honom. 
+**[4:17]** Mordokai gjekk av stad og gjorde i alle måtar so som Ester hadde bode honom.
 
 ### Chapter 5
 
@@ -26482,7 +26482,7 @@
 
 **[5:13]** Men alt dette kann eg ikkje lita meg med, so lenge eg ser jøden Mordokai sitja i kongsporten.»
 
-**[5:14]** Då sagde Zeres, kona hans, og venerne hans til honom: «Lat deim gjera ein galge, femti alner høg, og bed kongen i morgon um å få hengja Mordokai i den! So kann du fara glad til gjestebords med kongen.» Denne rådi lika Haman godt, og han let deim gjera galgen i stand. 
+**[5:14]** Då sagde Zeres, kona hans, og venerne hans til honom: «Lat deim gjera ein galge, femti alner høg, og bed kongen i morgon um å få hengja Mordokai i den! So kann du fara glad til gjestebords med kongen.» Denne rådi lika Haman godt, og han let deim gjera galgen i stand.
 
 ### Chapter 6
 
@@ -26512,7 +26512,7 @@
 
 **[6:13]** Og Haman fortalde Zeres, kona si, og alle venerne sine alt det som hadde hendt honom. Då sagde vismennerne hans og Zeres, kona hans, med honom: «Um so er at Mordokai, som du tek til å liggja under for, er av jødeætt, so magtast du ingen ting mot honom; du kjem til å liggja reint under for honom.»
 
-**[6:14]** Medan dei endå tala med honom, kom hirdmennerne åt kongen og skulde snøggast henta Haman til gjestebodet som Ester hadde laga til. 
+**[6:14]** Medan dei endå tala med honom, kom hirdmennerne åt kongen og skulde snøggast henta Haman til gjestebodet som Ester hadde laga til.
 
 ### Chapter 7
 
@@ -26534,7 +26534,7 @@
 
 **[7:9]** Harbona, ein av hirdmennerne som gjorde tenesta hjå kongen, sagde: «Attmed huset åt Haman stend det alt ein galge, femti alner høg; den let Haman reisa åt Mordokai, som med sine ord gjorde kongen gagn.» «Heng honom der!» sagde kongen.
 
-**[7:10]** So hengde dei Haman upp i den galgen han hadde reist åt Mordokai. Og kongens harm gav seg att. 
+**[7:10]** So hengde dei Haman upp i den galgen han hadde reist åt Mordokai. Og kongens harm gav seg att.
 
 ### Chapter 8
 
@@ -26570,7 +26570,7 @@
 
 **[8:16]** For jødarne rana no ljos og gleda, fagnad og vyrdnad.
 
-**[8:17]** Og i kvart jarlerike og i kvar ein by som kongens ord og påbod nådde til, der vart det gleda og fagnad på jødarne, med gilde og høgtid. Mange av folki i landet gjekk yver til jødedomen, so stor otte hadde dei fenge for jødarne. 
+**[8:17]** Og i kvart jarlerike og i kvar ein by som kongens ord og påbod nådde til, der vart det gleda og fagnad på jødarne, med gilde og høgtid. Mange av folki i landet gjekk yver til jødedomen, so stor otte hadde dei fenge for jødarne.
 
 ### Chapter 9
 
@@ -26636,7 +26636,7 @@
 
 **[9:31]** um å halda ved lag desse purim-dagarne på den fastsette tidi, soleis som jøden Mordokai og dronning Ester hadde bode deim, og soleis som dei hadde stadfest det for seg sjølve og etterkomarane sine, med fyresegner um fasta og klagerop.
 
-**[9:32]** Påbodet frå Ester gjorde desse purim-bodi til lov. Og dei vart uppskrive i ei bok. 
+**[9:32]** Påbodet frå Ester gjorde desse purim-bodi til lov. Og dei vart uppskrive i ei bok.
 
 ### Chapter 10
 
@@ -26644,7 +26644,7 @@
 
 **[10:2]** Alt det han gjorde i si magt og sitt velde, og ei greinleg melding um den høge rang som kongen lyfte Mordokai upp til, det er uppskrive i krønikeboki åt dei mediske og persiske kongarne.
 
-**[10:3]** Jøden Mordokai var den som stod kong Ahasveros næmest, og han var stor millom jødarne og kjær for dei mange brørne sine; han søkte det som godt var for folket sitt, og tala til bate for all si ætt.  
+**[10:3]** Jøden Mordokai var den som stod kong Ahasveros næmest, og han var stor millom jødarne og kjær for dei mange brørne sine; han søkte det som godt var for folket sitt, og tala til bate for all si ætt.
 
 ## Job
 
@@ -26692,7 +26692,7 @@
 
 **[1:21]** og sagde: «Naken kom eg or moderliv; naken fer eg attende. Herren gav, og Herren tok; Herrens namn vere lova!»
 
-**[1:22]** Tråss i alt dette synda ikkje Job, og klaga ikkje på Gud. 
+**[1:22]** Tråss i alt dette synda ikkje Job, og klaga ikkje på Gud.
 
 ### Chapter 2
 
@@ -26714,13 +26714,13 @@
 
 **[2:9]** Då sagde kona hans til honom: «Er du endå ulasteleg? Banna Gud, so du kann få døy!»
 
-**[2:10]** Men han svara henne: «Du talar som ei fåvis kvinna. Me tek imot av Gud det gode, skal me ’kje taka og det vonde?» Tråss i alt dette synda ikkje Job med lipporne sine.
+**[2:10]** Men han svara henne: «Du talar som ei fåvis kvinna. Me tek imot av Gud det gode, skal me’kje taka og det vonde?» Tråss i alt dette synda ikkje Job med lipporne sine.
 
 **[2:11]** Tri vener til Job fekk høyra um den ulukka som hadde kome yver honom; dei kom kvar frå sin heimstad, Elifaz frå Teman, Bildad frå Suah, og Sofar frå Na’ama, og dei avtala seg imillom at dei skulde ganga til honom for å syna honom samhug og trøysta honom.
 
 **[2:12]** Men alt på langt fråstand såg dei at han var heilt ukjenneleg; og dei sette i og gret og reiv sund kapporne sine og kasta mold yver hovudi upp i lufti.
 
-**[2:13]** Og dei sat hjå honom på jordi i sju dagar og sju næter; og ingen av deim sagde eit ord til honom, for dei såg at han pintest hardt. 
+**[2:13]** Og dei sat hjå honom på jordi i sju dagar og sju næter; og ingen av deim sagde eit ord til honom, for dei såg at han pintest hardt.
 
 ### Chapter 3
 
@@ -26740,7 +26740,7 @@
 
 **[3:8]** Dagbannarar skal henne banna, dei som kann mana upp Livjatan,
 
-**[3:9]** Og morgonstjernor skal ’kje skina; fåfengt ho venta skal på ljoset - augbrunerne av morgonroden -
+**[3:9]** Og morgonstjernor skal’kje skina; fåfengt ho venta skal på ljoset - augbrunerne av morgonroden -
 
 **[3:10]** av di ho ei livsdøri stengde på mor mi, so eg slapp for kval.
 
@@ -26774,7 +26774,7 @@
 
 **[3:25]** Meg råkar det eg ottast fyre; det som eg ræddast, hender meg.
 
-**[3:26]** Snaudt fær eg fred, snaudt fær eg ro, snaudt lindring - so kjem uro att.» 
+**[3:26]** Snaudt fær eg fred, snaudt fær eg ro, snaudt lindring - so kjem uro att.»
 
 ### Chapter 4
 
@@ -26818,7 +26818,7 @@
 
 **[4:20]** Dei er frå morgon og til kveld; ein krasar deim - kven merkar det? - Og dei vert ikkje funne meir.
 
-**[4:21]** Når deira tjeldsnor vert rykt upp, dei døyr og ingen visdom fær.» 
+**[4:21]** Når deira tjeldsnor vert rykt upp, dei døyr og ingen visdom fær.»
 
 ### Chapter 5
 
@@ -26874,7 +26874,7 @@
 
 **[5:26]** I mannskraft til di grav du gjeng, lik korn, køyrt inn i rette tid.
 
-**[5:27]** Det hev me granska; so det er; so høyr og merka deg det då!» 
+**[5:27]** Det hev me granska; so det er; so høyr og merka deg det då!»
 
 ### Chapter 6
 
@@ -26936,7 +26936,7 @@
 
 **[6:29]** Vend um, lat ikkje urett skje! Vend um, enn hev eg rett i dette.
 
-**[6:30]** Finst det vel fals på tunga mi? Kann ei min gom ulukka smaka? 
+**[6:30]** Finst det vel fals på tunga mi? Kann ei min gom ulukka smaka?
 
 ### Chapter 7
 
@@ -26952,15 +26952,15 @@
 
 **[7:6]** Mi tid fer snøggar’ enn ein skutel, og ho kverv utan nokor von.
 
-**[7:7]** Hugs på: mitt liv er som ein pust; mitt auga ser ’kje lukka meir.
+**[7:7]** Hugs på: mitt liv er som ein pust; mitt auga ser’kje lukka meir.
 
 **[7:8]** Snart er eg løynd for alle augo; du fåfengt stirer etter meg.
 
 **[7:9]** Som skyi framum fer og kverv, so ingen att frå helheim vender,
 
-**[7:10]** snur ei attende til sitt hus; hans heimstad kjenner han ’kje meir.
+**[7:10]** snur ei attende til sitt hus; hans heimstad kjenner han’kje meir.
 
-**[7:11]** Difor vil ’kje munnen stagga, men tala i min djupe hugverk og klaga i mi sjælenaud.
+**[7:11]** Difor vil’kje munnen stagga, men tala i min djupe hugverk og klaga i mi sjælenaud.
 
 **[7:12]** Er eg eit hav, er eg ein drake, med di du vaktar so på meg?
 
@@ -26980,7 +26980,7 @@
 
 **[7:20]** Hev eg gjort synd, kva gjer eg deg, du som på mannen vaktar stødt? Kvi hev du meg til skiva valt? So eg hev vorte meg ei byrd?
 
-**[7:21]** Kvi gjev du ikkje syndi til? Kvi ansar du på mine brot? No sig eg snart i moldi ned; og leitar du, so er eg burte.» 
+**[7:21]** Kvi gjev du ikkje syndi til? Kvi ansar du på mine brot? No sig eg snart i moldi ned; og leitar du, so er eg burte.»
 
 ### Chapter 8
 
@@ -27012,7 +27012,7 @@
 
 **[8:14]** Hans tillit sunderskori vert, hans tiltru vert til kongurvev;
 
-**[8:15]** Det hus han styd seg til, det dett; det som han triv til, stend ’kje fast.
+**[8:15]** Det hus han styd seg til, det dett; det som han triv til, stend’kje fast.
 
 **[8:16]** Han saftfull veks, med soli skin; hans greiner yver hagen heng,
 
@@ -27026,7 +27026,7 @@
 
 **[8:21]** Han enn din munn med lått skal fylla og lipporne med gledesong;
 
-**[8:22]** men skammi klæda skal din fiend’; gudløysetjeld finst ikkje meir.» 
+**[8:22]** men skammi klæda skal din fiend’; gudløysetjeld finst ikkje meir.»
 
 ### Chapter 9
 
@@ -27034,11 +27034,11 @@
 
 **[9:2]** «Eg veit for visst at det er so; kva rett fær mannen imot Gud?
 
-**[9:3]** Um han med honom vilde trætta, han kann ’kje svara eitt til tusund.
+**[9:3]** Um han med honom vilde trætta, han kann’kje svara eitt til tusund.
 
 **[9:4]** Vis som han er og sterk i velde - kven kann vel strafflaust tråssa honom,
 
-**[9:5]** som fjelli flyt, dei veit ’kje av det, og velter deim upp i harm,
+**[9:5]** som fjelli flyt, dei veit’kje av det, og velter deim upp i harm,
 
 **[9:6]** som ruggar jordi frå sin plass, so pilarne hennar skjelv,
 
@@ -27058,7 +27058,7 @@
 
 **[9:14]** Kor kann vel eg då svara han? Kor skal for han eg ordi leggja?
 
-**[9:15]** Um eg hev rett, eg kann ’kje svara, men lyt min domar be um nåde.
+**[9:15]** Um eg hev rett, eg kann’kje svara, men lyt min domar be um nåde.
 
 **[9:16]** Og um han svara når eg ropa, eg trudde ei mi røyst han høyrde.
 
@@ -27076,7 +27076,7 @@
 
 **[9:23]** Når svipa brått gjev ulivssår, med lått han ser den gode lida.
 
-**[9:24]** Han jordi gav i nidings hand; på domarar han syni kverver. Er det ’kje han, kven er det då?
+**[9:24]** Han jordi gav i nidings hand; på domarar han syni kverver. Er det’kje han, kven er det då?
 
 **[9:25]** Mitt liv fer snøggare enn lauparen, dei kverv, men lukka såg det aldri;
 
@@ -27098,7 +27098,7 @@
 
 **[9:34]** Når berre han tok riset frå meg og ikkje skræmde meg med rædsla,
 
-**[9:35]** eg skulde tala utan otte; sjølv dømer eg meg annarleis. 
+**[9:35]** eg skulde tala utan otte; sjølv dømer eg meg annarleis.
 
 ### Chapter 10
 
@@ -27142,9 +27142,9 @@
 
 **[10:20]** Er ikkje mine dagar få? Haldt upp! Slepp meg, so eg litt glad kann verta,
 
-**[10:21]** fyrr eg gjeng burt, og kjem ’kje att, til myrkre land med daudeskugge,
+**[10:21]** fyrr eg gjeng burt, og kjem’kje att, til myrkre land med daudeskugge,
 
-**[10:22]** eit land so myrkt som svarte natti, med daudeskugge og vanskipnad, der dagsljoset er som myrke natt!»» 
+**[10:22]** eit land so myrkt som svarte natti, med daudeskugge og vanskipnad, der dagsljoset er som myrke natt!»»
 
 ### Chapter 11
 
@@ -27186,7 +27186,7 @@
 
 **[11:19]** Du ligg, og ingen upp deg skræmer, og mange vil deg gjerne tekkjast.
 
-**[11:20]** Men augo veiknar på dei vonde; dei hev ’kje nokor tilflugt meir, men ventar på å anda ut.» 
+**[11:20]** Men augo veiknar på dei vonde; dei hev’kje nokor tilflugt meir, men ventar på å anda ut.»
 
 ### Chapter 12
 
@@ -27238,7 +27238,7 @@
 
 **[12:24]** Han vitet tek frå jordheimsfyrstar og let veglaus heid deim vildra;
 
-**[12:25]** dei sviv i myrkret utan ljos, han let dei raga liksom drukne. 
+**[12:25]** dei sviv i myrkret utan ljos, han let dei raga liksom drukne.
 
 ### Chapter 13
 
@@ -27296,7 +27296,7 @@
 
 **[13:27]** og legg i stokken mine føter, og vaktar alle mine vegar, slær krins um mine foteblad.
 
-**[13:28]** Og det mot ein som morkna er, lik klædeplagg som mol et upp. 
+**[13:28]** Og det mot ein som morkna er, lik klædeplagg som mol et upp.
 
 ### Chapter 14
 
@@ -27322,7 +27322,7 @@
 
 **[14:11]** Som vatnet renn ut or ein sjø, som elvi minkar, turkast ut,
 
-**[14:12]** so ligg ein mann, ris ikkje upp; til himmeln kverv, dei vaknar ikkje; ein kann ’kje vekkja deim or svevnen.
+**[14:12]** so ligg ein mann, ris ikkje upp; til himmeln kverv, dei vaknar ikkje; ein kann’kje vekkja deim or svevnen.
 
 **[14:13]** Å, gjev du gøymde meg i helheim, løynde meg, til din vreide gav seg, gav meg ein frest, og so meg hugsa!
 
@@ -27340,9 +27340,9 @@
 
 **[14:20]** og tyngjer honom ned for alltid. Han fer av stad; med åsyn rengd du sender honom burt frå deg.
 
-**[14:21]** Han veit ’kje um hans born vert heidra; han merkar ikkje um dei armast;
+**[14:21]** Han veit’kje um hans born vert heidra; han merkar ikkje um dei armast;
 
-**[14:22]** Hans eigen kropp hans liding valdar, og sjæli græt for eigi sorg.» 
+**[14:22]** Hans eigen kropp hans liding valdar, og sjæli græt for eigi sorg.»
 
 ### Chapter 15
 
@@ -27374,7 +27374,7 @@
 
 **[15:14]** Kor kann vel mannen vera rein? Og kvinnefødde hava rett?
 
-**[15:15]** På sine heilage han lit ei; for honom er ’kje himmeln rein,
+**[15:15]** På sine heilage han lit ei; for honom er’kje himmeln rein,
 
 **[15:16]** langt mindre då ein styggeting, ein mann som urett drikk som med vatn.
 
@@ -27388,7 +27388,7 @@
 
 **[15:21]** I øyro rædsletonar ljomar; fyrr han veit av, kjem tynaren.
 
-**[15:22]** Han trur ’kje han kann fly frå myrkret; han venta lyt det kvasse sverd.
+**[15:22]** Han trur’kje han kann fly frå myrkret; han venta lyt det kvasse sverd.
 
 **[15:23]** Han leitar etter brød: Kvar er det? Han veit, ein myrk dag er for hand.
 
@@ -27402,9 +27402,9 @@
 
 **[15:28]** Han budde i bannstøytte byar, i hus som ingen burde bu i, men til grushaugar etla var.
 
-**[15:29]** Han vart ’kje rik, hans gods kverv burt, hans grøda luter ei mot jordi.
+**[15:29]** Han vart’kje rik, hans gods kverv burt, hans grøda luter ei mot jordi.
 
-**[15:30]** Han kann ’kje koma undan myrkret. Hans greiner turkast burt i hiten, og han kjem burt ved hans munns ande.
+**[15:30]** Han kann’kje koma undan myrkret. Hans greiner turkast burt i hiten, og han kjem burt ved hans munns ande.
 
 **[15:31]** Trur han på fåfengd, vert han narra, og berre fåfengd haustar han.
 
@@ -27414,7 +27414,7 @@
 
 **[15:34]** Ein syndarflokk set ingi frukt, og elden øyder mute- tjeldi.
 
-**[15:35]** Dei avlar møda, føder tjon, og svik i fanget sitt dei nører.» 
+**[15:35]** Dei avlar møda, føder tjon, og svik i fanget sitt dei nører.»
 
 ### Chapter 16
 
@@ -27422,7 +27422,7 @@
 
 **[16:2]** «Eg hev høyrt nok av dette slag; d’er brysam trøyst de alle gjev.
 
-**[16:3]** Vert det ’kje slutt på tome ord? Kva er det som til svar deg driv?
+**[16:3]** Vert det’kje slutt på tome ord? Kva er det som til svar deg driv?
 
 **[16:4]** Eg skulde tala liksom de, i fall de var i staden min; eg sette ord i hop mot dykk, eg riste hovudet mot dykk;
 
@@ -27460,7 +27460,7 @@
 
 **[16:21]** Han døme millom Gud og mann og millom mannen og hans ven.
 
-**[16:22]** Og ikkje mange år det vert fyrr eg gjeng burt og kjem ’kje att. 
+**[16:22]** Og ikkje mange år det vert fyrr eg gjeng burt og kjem’kje att.
 
 ### Chapter 17
 
@@ -27494,7 +27494,7 @@
 
 **[17:15]** Kvar vert det då av voni mi? Mi von, kven augnar henne då?
 
-**[17:16]** Til helheims bommar fer ho ned, når eg til kvile gjeng i moldi.» 
+**[17:16]** Til helheims bommar fer ho ned, når eg til kvile gjeng i moldi.»
 
 ### Chapter 18
 
@@ -27538,7 +27538,7 @@
 
 **[18:20]** Og vestmenn støkk for dagen hans, og austmenn vert av rædsla slegne.
 
-**[18:21]** Just soleis gjeng det nidings hus, den heim der ingen kjenner Gud.» 
+**[18:21]** Just soleis gjeng det nidings hus, den heim der ingen kjenner Gud.»
 
 ### Chapter 19
 
@@ -27554,7 +27554,7 @@
 
 **[19:6]** Hugs på at Gud hev bøygt meg ned og spana kringum meg sitt garn.
 
-**[19:7]** Eg ropar: «Vald!» - men eg fær ’kje svar; eg ropar: «Hjelp!» men fær ’kje rett.
+**[19:7]** Eg ropar: «Vald!» - men eg fær’kje svar; eg ropar: «Hjelp!» men fær’kje rett.
 
 **[19:8]** Han stengjer vegen for min fot, og myrker legg han på min stig.
 
@@ -27598,7 +27598,7 @@
 
 **[19:28]** De segjer: «Me vil jaga honom!» - som um orsaki låg hjå meg!
 
-**[19:29]** Men de lyt agta dykk for sverdet; for vreide vert ved sverdet straffa. Og de skal vita: domen kjem.» 
+**[19:29]** Men de lyt agta dykk for sverdet; for vreide vert ved sverdet straffa. Og de skal vita: domen kjem.»
 
 ### Chapter 20
 
@@ -27608,7 +27608,7 @@
 
 **[20:3]** Ei skamleg skrapa fær eg høyra, men kloke svar mi ånd gjev meg.
 
-**[20:4]** Veit du ’kje at frå ævords tid, frå mannen fyrst på jord vart sett,
+**[20:4]** Veit du’kje at frå ævords tid, frå mannen fyrst på jord vart sett,
 
 **[20:5]** ugudlege hev stokkut jubel, vanheilage stuttvarug gleda?
 
@@ -27636,11 +27636,11 @@
 
 **[20:17]** Han fær visst ikkje skoda bekkjer, ei heller flaum av mjølk og honning.
 
-**[20:18]** Han rikdom vinn, men nyt han ikkje; han samlar gods, men vert ’kje glad.
+**[20:18]** Han rikdom vinn, men nyt han ikkje; han samlar gods, men vert’kje glad.
 
 **[20:19]** Han krasa småfolk, let deim liggja, han rana hus som han ei byggjer.
 
-**[20:20]** Han kjende ikkje ro inni seg, men med sin skatt han slepp ’kje undan.
+**[20:20]** Han kjende ikkje ro inni seg, men med sin skatt han slepp’kje undan.
 
 **[20:21]** Hans hækna sparer ingen ting; og difor kverv hans lukka burt.
 
@@ -27658,7 +27658,7 @@
 
 **[20:28]** Hans heime-forråd fer sin veg, renn burt på vreidedagen hans.
 
-**[20:29]** Slikt etlar Gud til gudlaus mann; det lovar Gud til arv åt honom.» 
+**[20:29]** Slikt etlar Gud til gudlaus mann; det lovar Gud til arv åt honom.»
 
 ### Chapter 21
 
@@ -27688,11 +27688,11 @@
 
 **[21:13]** I lukka liver dei si tid og fer so brått til helheim ned.
 
-**[21:14]** Til Gud dei segjer: «Haldt deg burte!» Me vil ’kje kjenna dine vegar!
+**[21:14]** Til Gud dei segjer: «Haldt deg burte!» Me vil’kje kjenna dine vegar!
 
 **[21:15]** Kvi skal me tena den Allsterke? Kva gagnar det å be til honom?»
 
-**[21:16]** «Dei hev ’kje lukka si i handi» - Langt burt frå meg med gudlaus råd!
+**[21:16]** «Dei hev’kje lukka si i handi» - Langt burt frå meg med gudlaus råd!
 
 **[21:17]** Når sloknar lampa for gudlause? Når kjem ulukka yver deim? Gjev han deim straff i vreidesmod?
 
@@ -27718,7 +27718,7 @@
 
 **[21:28]** De spør: «Kvar er vel stormannshuset? Kvar er det tjeld der gudlause bur?»
 
-**[21:29]** Hev de ’kje høyrt av ferdafolk - de trur vel det som dei fortel -:
+**[21:29]** Hev de’kje høyrt av ferdafolk - de trur vel det som dei fortel -:
 
 **[21:30]** «Den vonde frå ulukka slepp; han berga vert på vreidedagen.
 
@@ -27728,7 +27728,7 @@
 
 **[21:33]** Søtt søv han under torv i dal, og i hans far all verdi fer, som tallause gjekk fyre honom.
 
-**[21:34]** Det trøystar meg med tome ord; av dykkar svar er sviket att.» 
+**[21:34]** Det trøystar meg med tome ord; av dykkar svar er sviket att.»
 
 ### Chapter 22
 
@@ -27790,7 +27790,7 @@
 
 **[22:29]** Gjeng vegen ned, du ropar: «Upp!» Han hjelpar den bljug-øygde mann.
 
-**[22:30]** Ja, ikkje-skuldfri mann han bergar, frelst vert han ved di reine hand.» 
+**[22:30]** Ja, ikkje-skuldfri mann han bergar, frelst vert han ved di reine hand.»
 
 ### Chapter 23
 
@@ -27808,7 +27808,7 @@
 
 **[23:7]** Ein skuldfri stod då for han fram; for alltid slapp eg domar min.
 
-**[23:8]** Gjeng eg i aust, han er ’kje der; mot vest, eg vert han ikkje var;
+**[23:8]** Gjeng eg i aust, han er’kje der; mot vest, eg vert han ikkje var;
 
 **[23:9]** i nord han verkar, ei eg ser han, han snur mot sud, eg ser han ikkje.
 
@@ -27826,11 +27826,11 @@
 
 **[23:16]** Ja, Gud hev brote ned mitt mod, og Allvald hev gjort meg fælen,
 
-**[23:17]** ei er det myrkret som meg tyner, og ei mi eigi myrke åsyn. 
+**[23:17]** ei er det myrkret som meg tyner, og ei mi eigi myrke åsyn.
 
 ### Chapter 24
 
-**[24:1]** Kvi hev ’kje Allvald tider set? Kvi ser hans vener ei hans dagar?
+**[24:1]** Kvi hev’kje Allvald tider set? Kvi ser hans vener ei hans dagar?
 
 **[24:2]** Dei fører deildesteinar burt, stel fe og sender det på beite,
 
@@ -27870,15 +27870,15 @@
 
 **[24:20]** Av moderlivet gløymd han er, og makkar mettar seg på honom; det ingen er som minnest han; so brotsverk brest liksom eit tre.
 
-**[24:21]** Han plundra ho som ikkje fødde, som ufør var til barne-eign; mot enkja gjorde han ’kje vel.
+**[24:21]** Han plundra ho som ikkje fødde, som ufør var til barne-eign; mot enkja gjorde han’kje vel.
 
 **[24:22]** Men han styd valdsmann med si kraft, og dei fær atter standa upp som hadde mist all von um livet.
 
 **[24:23]** Han styd deim so dei liver trygt, hans augo vaktar deira vegar.
 
-**[24:24]** Høgt stig dei, brått - dei er ’kje meir - dei sig og døyr som alle andre, vert skorne av som aks på strå.
+**[24:24]** Høgt stig dei, brått - dei er’kje meir - dei sig og døyr som alle andre, vert skorne av som aks på strå.
 
-**[24:25]** Er det ’kje so? Kven legg imot? Kven gjer no mine ord um inkje?» 
+**[24:25]** Er det’kje so? Kven legg imot? Kven gjer no mine ord um inkje?»
 
 ### Chapter 25
 
@@ -27890,9 +27890,9 @@
 
 **[25:4]** Kor kann ein mann ha rett mot Gud? Er vel ein kvinnefødd uskuldig?
 
-**[25:5]** Sjå, månen er ’kje klår ein gong, og stjernon’ er ’kje reine for han.
+**[25:5]** Sjå, månen er’kje klår ein gong, og stjernon’ er’kje reine for han.
 
-**[25:6]** Enn mannen då, den vesle krypen? Menneskjebarnet, denne makk?» 
+**[25:6]** Enn mannen då, den vesle krypen? Menneskjebarnet, denne makk?»
 
 ### Chapter 26
 
@@ -27922,7 +27922,7 @@
 
 **[26:13]** Og himmelen klårnar ved hans ande; hans hand den snøgge ormen drap.
 
-**[26:14]** Sjå her utkanten av hans veg; det berre kviskring er me høyrer. Kven skynar, når hans allmagt torar? 
+**[26:14]** Sjå her utkanten av hans veg; det berre kviskring er me høyrer. Kven skynar, når hans allmagt torar?
 
 ### Chapter 27
 
@@ -27970,7 +27970,7 @@
 
 **[27:22]** Han utan miskunn på han skyt; frå handi hans han røma må.
 
-**[27:23]** Med hender klappar dei åt han og pip han frå hans heimstad burt. 
+**[27:23]** Med hender klappar dei åt han og pip han frå hans heimstad burt.
 
 ### Chapter 28
 
@@ -28002,7 +28002,7 @@
 
 **[28:14]** Avgrunnen dyn: «Her ei han er!» Og havet segjer: «Ikkje her!»
 
-**[28:15]** Du kann ’kje kjøpa han for gull, men sylv ei vega prisen full,
+**[28:15]** Du kann’kje kjøpa han for gull, men sylv ei vega prisen full,
 
 **[28:16]** og ei for gull ifrå Ofir, ei for onyks, ei for safir.
 
@@ -28028,7 +28028,7 @@
 
 **[28:27]** då såg han og synte fram og granska honom umhugsam.
 
-**[28:28]** Til menneskja han sagde so: «I Herrens otte visdom sit, og fly det vonde, det er vit.»» 
+**[28:28]** Til menneskja han sagde so: «I Herrens otte visdom sit, og fly det vonde, det er vit.»»
 
 ### Chapter 29
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** Eg smilte til mismodige, mitt andlit fekk dei ikkje myrkt.
 
-**[29:25]** Når eg deim vitja, sat eg fremst, sat som ein konge i sin herflokk, lik ein som trøystar syrgjande. 
+**[29:25]** Når eg deim vitja, sat eg fremst, sat som ein konge i sin herflokk, lik ein som trøystar syrgjande.
 
 ### Chapter 30
 
@@ -28132,7 +28132,7 @@
 
 **[30:24]** Kven kavar ikkje når han søkk? Kven ropar ikkje ut i fåren?
 
-**[30:25]** Gret eg ’kje sjølv med den fortrykte, og syrgde yver fatigmann?
+**[30:25]** Gret eg’kje sjølv med den fortrykte, og syrgde yver fatigmann?
 
 **[30:26]** Eg vona godt, men det kom vondt, eg venta ljos, men myrker kom.
 
@@ -28144,11 +28144,11 @@
 
 **[30:30]** Mi hud er svart og flaknar av; det brenn i mine bein av hite.
 
-**[30:31]** Min cither hev eg bytt i sorg, og fløyta mi med gråtar-mål. 
+**[30:31]** Min cither hev eg bytt i sorg, og fløyta mi med gråtar-mål.
 
 ### Chapter 31
 
-**[31:1]** Med augo hev eg gjort ei pakt; eg skal ’kje skygna etter møy.
+**[31:1]** Med augo hev eg gjort ei pakt; eg skal’kje skygna etter møy.
 
 **[31:2]** Kva gav meg elles Gud der uppe? Kva arv gav Allvald frå det høge?
 
@@ -28210,7 +28210,7 @@
 
 **[31:31]** hev ei mitt husfolk stendigt sagt: «Kven gjekk vel svolten frå hans bord?»
 
-**[31:32]** - Eg let ’kje framand natta ute; for ferdamann eg opna døri -
+**[31:32]** - Eg let’kje framand natta ute; for ferdamann eg opna døri -
 
 **[31:33]** hev eg som Adam dult mi synd, og løynt mi misgjerd i min barm,
 
@@ -28226,7 +28226,7 @@
 
 **[31:39]** åt eg hans grøda ubetalt, tok livet eg av eigarmannen:
 
-**[31:40]** Lat då for kveite klunger gro, og ugras der eg sådde bygg!» Her endar Jobs tale. 
+**[31:40]** Lat då for kveite klunger gro, og ugras der eg sådde bygg!» Her endar Jobs tale.
 
 ### Chapter 32
 
@@ -28246,7 +28246,7 @@
 
 **[32:8]** Nei, ånd lyt til hjå menneski; og Allvalds ande gjev deim vit.
 
-**[32:9]** Dei gamle er ’kje alltid vise, kvithærde veit ’kje stødt det rette.
+**[32:9]** Dei gamle er’kje alltid vise, kvithærde veit’kje stødt det rette.
 
 **[32:10]** Difor eg segjer: Høyr på meg; eg vil og segja det eg veit.
 
@@ -28256,7 +28256,7 @@
 
 **[32:13]** Seg ikkje: «Visdom der me fann; Gud slå han ned, folk kann det ikkje.»
 
-**[32:14]** Han hev ’kje tala imot meg, og ei med dykkar ord eg svarar.
+**[32:14]** Han hev’kje tala imot meg, og ei med dykkar ord eg svarar.
 
 **[32:15]** Dei er forstøkte, svarar ikkje, dei vantar ord å føra fram.
 
@@ -28272,7 +28272,7 @@
 
 **[32:21]** Eg ikkje tek parti for nokon og smeikjer ei for nokor mann;
 
-**[32:22]** å smeikja kann eg ikkje med; min skapar elles burt meg reiv. 
+**[32:22]** å smeikja kann eg ikkje med; min skapar elles burt meg reiv.
 
 ### Chapter 33
 
@@ -28288,7 +28288,7 @@
 
 **[33:6]** Eg er din likemann for Gud, eg og av leiret forma er.
 
-**[33:7]** Du tarv ’kje vera rædd for meg, min trykk skal ikkje tyngja deg.
+**[33:7]** Du tarv’kje vera rædd for meg, min trykk skal ikkje tyngja deg.
 
 **[33:8]** Men du hev sagt for øyro mine - eg høyrde ljoden av ditt ord -:
 
@@ -28328,7 +28328,7 @@
 
 **[33:26]** Han bed til Gud og nåde fær, so han hans åsyn ser med jubel. Og so fær mannen att si rettferd.
 
-**[33:27]** Han syng for folk og segjer so: «Eg synda hev og krenkt det rette, men hev ’kje fenge lika for det;
+**[33:27]** Han syng for folk og segjer so: «Eg synda hev og krenkt det rette, men hev’kje fenge lika for det;
 
 **[33:28]** mi sjæl frå gravi berga han, med gleda fær eg ljoset sjå.»
 
@@ -28340,7 +28340,7 @@
 
 **[33:32]** Um du hev ord, so gjev meg svar! Tala, eg gjev deg gjerne rett.
 
-**[33:33]** I anna fall so høyr på meg, teg medan eg deg visdom lærer!» 
+**[33:33]** I anna fall so høyr på meg, teg medan eg deg visdom lærer!»
 
 ### Chapter 34
 
@@ -28366,7 +28366,7 @@
 
 **[34:11]** Han løner mannen for hans gjerd, fer med han etter all hans ferd.
 
-**[34:12]** Nei, urettferdig er ’kje Gud, og Allvald krenkjer ikkje retten.
+**[34:12]** Nei, urettferdig er’kje Gud, og Allvald krenkjer ikkje retten.
 
 **[34:13]** Kven let vel honom styra jordi? Og kven hev grunna jordheims-kringen?
 
@@ -28386,9 +28386,9 @@
 
 **[34:21]** Hans augo ser til mannsens ferd, han skodar kvart eit stig han tek;
 
-**[34:22]** det finst ’kje skugge eller myrker der illgjerdsmenn kann løyna seg.
+**[34:22]** det finst’kje skugge eller myrker der illgjerdsmenn kann løyna seg.
 
-**[34:23]** Han tarv ’kje lenge sjå på mannen fyrr han lyt møta Gud til doms.
+**[34:23]** Han tarv’kje lenge sjå på mannen fyrr han lyt møta Gud til doms.
 
 **[34:24]** Han utan forhøyr storfolk krasar og andre set i deira stad.
 
@@ -28416,7 +28416,7 @@
 
 **[34:36]** Gjev Job må allstødt verta prøvd for sine svar på nidings vis!
 
-**[34:37]** For han legg brotsverk til si synd og ber seg vyrdlaust millom oss, og talar mange ord mot Gud.» 
+**[34:37]** For han legg brotsverk til si synd og ber seg vyrdlaust millom oss, og talar mange ord mot Gud.»
 
 ### Chapter 35
 
@@ -28438,7 +28438,7 @@
 
 **[35:9]** Dei klagar yver urett stor og skrik um hjelp mot valdsmenns arm;
 
-**[35:10]** men spør ’kje: «Kvar er Gud, min skapar, som let ved natt lovsongar tona,
+**[35:10]** men spør’kje: «Kvar er Gud, min skapar, som let ved natt lovsongar tona,
 
 **[35:11]** gjev oss meir vit enn dyr på mark og meir forstand enn fugl i luft?»
 
@@ -28450,7 +28450,7 @@
 
 **[35:15]** Og no, når vreiden hans ei refser, tru han ei kjenner dårskapen?
 
-**[35:16]** Men Job let upp sin munn til fåfengd, uvitugt talar han so mykje.» 
+**[35:16]** Men Job let upp sin munn til fåfengd, uvitugt talar han so mykje.»
 
 ### Chapter 36
 
@@ -28464,9 +28464,9 @@
 
 **[36:5]** Sjå, Gud er sterk, men vander ingen, han som er veldug i forstandskraft.
 
-**[36:6]** Han let ’kje gudlaus mann få liva; men armingarne gjev han rett.
+**[36:6]** Han let’kje gudlaus mann få liva; men armingarne gjev han rett.
 
-**[36:7]** Han snur ’kje augo frå rettvise; hjå kongar på sin konungsstol han let deim ævleg sitja høgt.
+**[36:7]** Han snur’kje augo frå rettvise; hjå kongar på sin konungsstol han let deim ævleg sitja høgt.
 
 **[36:8]** Um dei i lekkjor bundne vart og i ulukkesnaror fanga,
 
@@ -28478,7 +28478,7 @@
 
 **[36:12]** um ikkje, fær dei styng av spjotet, og i sin dårskap andast dei.
 
-**[36:13]** Men vreiden trivst i vonde hjarto; dei bed ’kje, um dei bundne vert;
+**[36:13]** Men vreiden trivst i vonde hjarto; dei bed’kje, um dei bundne vert;
 
 **[36:14]** i ungdomstidi skal dei døy, forgangast som utukt-sveinar.
 
@@ -28492,7 +28492,7 @@
 
 **[36:19]** Kann klaga hjelpa deg or naud, kor mykje enn du stræva vil?
 
-**[36:20]** Du må ’kje lengta etter natti då folk vert rykte frå sin stad!
+**[36:20]** Du må’kje lengta etter natti då folk vert rykte frå sin stad!
 
 **[36:21]** Gjev agt, so ei til synd du vender, for det du heller vil enn lida.
 
@@ -28518,7 +28518,7 @@
 
 **[36:32]** Han sveiper henderne i ljos og sender det mot fienden.
 
-**[36:33]** Hans tora meldar um hans koma, ja, feet varslar når han kjem. 
+**[36:33]** Hans tora meldar um hans koma, ja, feet varslar når han kjem.
 
 ### Chapter 37
 
@@ -28568,7 +28568,7 @@
 
 **[37:23]** Til Allvald kann me ikkje nå, til han som er so stor i magt; men rett og rettferd ei han krenkjer.
 
-**[37:24]** Difor ber folket age for han, han ansar ingen sjølvklok mann.» 
+**[37:24]** Difor ber folket age for han, han ansar ingen sjølvklok mann.»
 
 ### Chapter 38
 
@@ -28646,7 +28646,7 @@
 
 **[38:37]** Kven tel med visdom skyerne? Kven tømer himmelfati ut,
 
-**[38:38]** når turre mold vert samanrend, jordklumpar kleimer seg i hop? 
+**[38:38]** når turre mold vert samanrend, jordklumpar kleimer seg i hop?
 
 **[38:39]** 
 
@@ -28668,7 +28668,7 @@
 
 **[39:6]** Dei bøygjer seg, fø’r sine ungar, so er det slutt med deira rider.
 
-**[39:7]** På marki kidi veks seg store, spring burt og kjem ’kje att til deim.
+**[39:7]** På marki kidi veks seg store, spring burt og kjem’kje att til deim.
 
 **[39:8]** Kven let villasnet renna fritt, tok bandet av det skjerre dyr,
 
@@ -28714,7 +28714,7 @@
 
 **[39:29]** Flyg hauken upp ved ditt forstand og spilar vengjerne mot sud?
 
-**[39:30]** Stig ørnen høgt av di du byd, og byggjer reiret sitt i høgdi? Han bur på berg og held seg der, på kvasse tind og høge nut. Derfrå han spæjar etter mat, hans augo yver viddi skodar. Hans ungar gløypar i seg blod; der det finst lik, der er han og.» Og Herren svara Job og sagde: «Vil klandraren med Allvald trætta? Lat han som lastar Gud då svara!» Då svara Job Herren og sagde: «For ring eg er; kva skal eg svara? Eg handi legg på munnen min. Ein gong eg tala, no eg tegjer, tvo gong’ - eg gjer det ikkje meir.» 
+**[39:30]** Stig ørnen høgt av di du byd, og byggjer reiret sitt i høgdi? Han bur på berg og held seg der, på kvasse tind og høge nut. Derfrå han spæjar etter mat, hans augo yver viddi skodar. Hans ungar gløypar i seg blod; der det finst lik, der er han og.» Og Herren svara Job og sagde: «Vil klandraren med Allvald trætta? Lat han som lastar Gud då svara!» Då svara Job Herren og sagde: «For ring eg er; kva skal eg svara? Eg handi legg på munnen min. Ein gong eg tala, no eg tegjer, tvo gong’ - eg gjer det ikkje meir.»
 
 ### Chapter 40
 
@@ -28764,7 +28764,7 @@
 
 **[40:23]** Tru han vil gjera samband med deg og din træl for alltid verta?
 
-**[40:24]** Kann du han som leikfugl halda for smågjentorne i band? Handlar fiskarlag med honom, skiftar ut til kræmarar? Kann hans hud med spjot du fylla, og hans hovud med harpunar? Berre prøv - du skal det minnast; enn ein gong du gjer det ikkje! Kvar og ein vil missa voni, verta feld ved syni av han. 
+**[40:24]** Kann du han som leikfugl halda for smågjentorne i band? Handlar fiskarlag med honom, skiftar ut til kræmarar? Kann hans hud med spjot du fylla, og hans hovud med harpunar? Berre prøv - du skal det minnast; enn ein gong du gjer det ikkje! Kvar og ein vil missa voni, verta feld ved syni av han.
 
 ### Chapter 41
 
@@ -28816,7 +28816,7 @@
 
 **[41:24]** Liken hans på jord ei finst, denne skapning utan ræddhug.
 
-**[41:25]** Han ser ned på alt som høgt er, konge yver alle kaute.» 
+**[41:25]** Han ser ned på alt som høgt er, konge yver alle kaute.»
 
 **[41:26]** 
 
@@ -28870,7 +28870,7 @@
 
 **[42:16]** Etter dette livde Job hundrad og fyrti år, og såg born og barneborn, fire ættleder.
 
-**[42:17]** Og Job døydde gamall og mett av dagar.  
+**[42:17]** Og Job døydde gamall og mett av dagar.
 
 ## Psalms
 
@@ -28886,7 +28886,7 @@
 
 **[1:5]** Difor skal dei ugudlege ikkje standa seg i domen, og syndarar ikkje i samlingi av dei rettferdige.
 
-**[1:6]** For Herren kjenner vegen dei rettferdige fer, men den vegen dei ugudlege fer, gjeng til grunns. 
+**[1:6]** For Herren kjenner vegen dei rettferdige fer, men den vegen dei ugudlege fer, gjeng til grunns.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Ten Herren med age, og fagna dykk med otte!
 
-**[2:12]** Kyss sonen, so han ikkje skal verta vreid, og de skal ganga til grunnar på vegen! For hans vreide kunde lett kveikjast. Sæle er alle dei som set si lit til honom! 
+**[2:12]** Kyss sonen, so han ikkje skal verta vreid, og de skal ganga til grunnar på vegen! For hans vreide kunde lett kveikjast. Sæle er alle dei som set si lit til honom!
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** Eg ottast ikkje for ti tusund av folk, som hev lægra seg imot meg rundt ikring.
 
-**[3:8]** Statt upp, Herre, frels meg, min Gud! For du hev slege alle mine fiendar på kinni, du hev knasa tennerne på dei ugudlege. Herren høyrer frelsa til. Lat di velsigning vera yver ditt folk! Sela. 
+**[3:8]** Statt upp, Herre, frels meg, min Gud! For du hev slege alle mine fiendar på kinni, du hev knasa tennerne på dei ugudlege. Herren høyrer frelsa til. Lat di velsigning vera yver ditt folk! Sela.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** Mange segjer: «Kven vil syna oss noko godt?» Lyft du yver oss ljoset frå di åsyn, Herre!
 
-**[4:8]** Du hev gjeve meg større gleda i mitt hjarta enn dei hev når deira korn og vin fell rikeleg. I fred vil eg både leggja meg og sovna; for du, Herre, let meg einsaman bu i trygd. 
+**[4:8]** Du hev gjeve meg større gleda i mitt hjarta enn dei hev når deira korn og vin fell rikeleg. I fred vil eg både leggja meg og sovna; for du, Herre, let meg einsaman bu i trygd.
 
 ### Chapter 5
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** Gud, døm dei skuldige! Lat deim falla for sine eigne meinråder, støyt deim ned for deira mange misgjerningar! for dei hev gjort upprør mot deg.
 
-**[5:12]** Men lat alle deim gleda seg, som set si lid til deg! Lat deim til æveleg tid fagna seg høgt, av di du vil verja deim; og lat deim som elskar ditt namn frygda seg i deg! For du, Herre, velsignar den rettferdige; du vernar honom med nåde som med ein skjold. 
+**[5:12]** Men lat alle deim gleda seg, som set si lid til deg! Lat deim til æveleg tid fagna seg høgt, av di du vil verja deim; og lat deim som elskar ditt namn frygda seg i deg! For du, Herre, velsignar den rettferdige; du vernar honom med nåde som med ein skjold.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** Vik ifrå meg, alle de som gjer urett! For Herren hev høyrt mitt gråtmål.
 
-**[6:10]** Herren hev høyrt mi audmjuke påkalling, Herren, tek imot mi bøn. Alle mine fiendar skal verta skjemde og storleg forfærde; dei skal venda attende, verta skjemde i ein augneblink. 
+**[6:10]** Herren hev høyrt mi audmjuke påkalling, Herren, tek imot mi bøn. Alle mine fiendar skal verta skjemde og storleg forfærde; dei skal venda attende, verta skjemde i ein augneblink.
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** Ei grav hev han grave og hola ut; men han fell i den greft som han gjorde.
 
-**[7:17]** Den ulukka han gjer, kjem att yver hans hovud, og yver hans kvervel fell hans valdsverk ned. Eg vil prisa Herren etter hans rettferd og lovsyngja namnet åt Herren den Høgste. 
+**[7:17]** Den ulukka han gjer, kjem att yver hans hovud, og yver hans kvervel fell hans valdsverk ned. Eg vil prisa Herren etter hans rettferd og lovsyngja namnet åt Herren den Høgste.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** Småfe og storfe, alle saman, og jamvel dei ville dyr i marki,
 
-**[8:9]** fuglen under himmelen og fisken i havet, alt det som fer på havsens stigar. Herre, vår Herre, kor herlegt ditt namn er yver all jordi! 
+**[8:9]** fuglen under himmelen og fisken i havet, alt det som fer på havsens stigar. Herre, vår Herre, kor herlegt ditt namn er yver all jordi!
 
 ### Chapter 9
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** For den fatige vert ikkje gløymd for alltid, dei arme folks von ikkje spillt i all æva.
 
-**[9:20]** Statt upp, Herre, lat ikkje menneskje få magt, lat heidningarne verta dømde for di åsyn! Set rædsla i deim, Herre! Lat heidningarne kjenna at dei er menneskje! Sela. 
+**[9:20]** Statt upp, Herre, lat ikkje menneskje få magt, lat heidningarne verta dømde for di åsyn! Set rædsla i deim, Herre! Lat heidningarne kjenna at dei er menneskje! Sela.
 
 ### Chapter 10
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** Herre, du hev høyrt ynskjet frå dei arme, du styrkjer deira hjarta, du vender øyra ditt til,
 
-**[10:18]** so du gjev den farlause og nedtyngde sin rett. Ikkje lenger skal menneskjet som er av jordi halda fram med å skræma. 
+**[10:18]** so du gjev den farlause og nedtyngde sin rett. Ikkje lenger skal menneskjet som er av jordi halda fram med å skræma.
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** Han skal lata snaror regna ned på dei ugudlege, eld og svåvel og glodheit vind vert deim tilmælt i deira staup.
 
-**[11:7]** For Herren er rettferdig, han elskar rettferd, den trugne skal skoda hans åsyn. 
+**[11:7]** For Herren er rettferdig, han elskar rettferd, den trugne skal skoda hans åsyn.
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Herrens ord er reine ord, eit sylv som er reinsa i verkstaden på jordi, sju gonger skirt.
 
-**[12:8]** Du, Herre, vil vakta deim, du vil verja dei mot denne ætti for alltid. Rundt um vil dei ugudlege sviva ikring, når nidingskap vert sett høgt hjå menneskjeborni. 
+**[12:8]** Du, Herre, vil vakta deim, du vil verja dei mot denne ætti for alltid. Rundt um vil dei ugudlege sviva ikring, når nidingskap vert sett høgt hjå menneskjeborni.
 
 ### Chapter 13
 
@@ -29180,7 +29180,7 @@
 
 **[13:5]** so min fiende ikkje skal segja: «Eg hev vunne yver honom,» so mine motstandarar ikkje skal fagna seg yver at eg fell.
 
-**[13:6]** Men eg set mi lit til di miskunn, mitt hjarta skal fagna seg i di frelsa; eg vil lovsyngja Herren, for han hev gjort vel imot meg. 
+**[13:6]** Men eg set mi lit til di miskunn, mitt hjarta skal fagna seg i di frelsa; eg vil lovsyngja Herren, for han hev gjort vel imot meg.
 
 ### Chapter 14
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** Den arme manns råd må de gjerne gjera til skammar; for Herren er hans tilhygge.
 
-**[14:7]** Å, gjev frelsa frå Sion må koma yver Israel! Når Herren vender sitt folks vanlukka, då skal Jakob fagna seg, Israel gleda seg. 
+**[14:7]** Å, gjev frelsa frå Sion må koma yver Israel! Når Herren vender sitt folks vanlukka, då skal Jakob fagna seg, Israel gleda seg.
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** Svivyrdeleg er i hans augo den gudlause, men han ærar deim som ottast Herren. Sver han til sin eigen skade, so bryt han då aldri sin eid.
 
-**[15:5]** Han låner ikkje sine pengar ut for renta og tek ikkje mutor imot den saklause. Den som gjer dette, skal i all æva ikkje verta rikka. 
+**[15:5]** Han låner ikkje sine pengar ut for renta og tek ikkje mutor imot den saklause. Den som gjer dette, skal i all æva ikkje verta rikka.
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** For du vil ikkje yverlata mi sjæl til helheimen, du vil ikkje lata din heilage sjå undergang.
 
-**[16:11]** Du vil kunngjera meg livsens veg; ei nøgd med gleda er for di åsyn, fagnad ved di høgre hand til æveleg tid. 
+**[16:11]** Du vil kunngjera meg livsens veg; ei nøgd med gleda er for di åsyn, fagnad ved di høgre hand til æveleg tid.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** frå menner med di hand, Herre, frå menner av denne verdi, som hev sin lut i dette liv, og som du fyller buken på med dine skattar, dei som er rike på søner og let sine avleivor etter seg til sine born!
 
-**[17:15]** Eg skal i rettferd skoda ditt andlit, eg skal, når eg vaknar, mettast av di åsyn. 
+**[17:15]** Eg skal i rettferd skoda ditt andlit, eg skal, når eg vaknar, mettast av di åsyn.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** som frelser meg frå mine fiendar; ja - du lyfter meg høgt yver deim som stend imot meg, frå valdsmannen bergar du meg.
 
-**[18:50]** Difor vil eg prisa deg millom heidningarne, Herre, og lovsyngja ditt namn. Han gjer frelsa stor for sin konge, og gjer miskunn mot den som er salva av honom, mot David og hans ætt til æveleg tid. 
+**[18:50]** Difor vil eg prisa deg millom heidningarne, Herre, og lovsyngja ditt namn. Han gjer frelsa stor for sin konge, og gjer miskunn mot den som er salva av honom, mot David og hans ætt til æveleg tid.
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** Kven merkar kor tidt han fer vilt? Forlat meg mine løynlege brester!
 
-**[19:14]** Haldt og din tenar frå skamløysor, lat deim ikkje få magt yver meg! So vert eg ulastande og utan skuld for stor misgjerning. Lat talen i min munn og tanken i mitt hjarta vera til hugnad for di åsyn, Herre, du mitt berg og min atterløysar! 
+**[19:14]** Haldt og din tenar frå skamløysor, lat deim ikkje få magt yver meg! So vert eg ulastande og utan skuld for stor misgjerning. Lat talen i min munn og tanken i mitt hjarta vera til hugnad for di åsyn, Herre, du mitt berg og min atterløysar!
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** Desse prisar vogner, og hine prisar hestar, men me prisar namnet åt Herren, vår Gud.
 
-**[20:9]** Dei sig i kne og fell, men me stend og held oss uppe. Herre, frels kongen! Han svare oss den dag me ropar! 
+**[20:9]** Dei sig i kne og fell, men me stend og held oss uppe. Herre, frels kongen! Han svare oss den dag me ropar!
 
 ### Chapter 21
 
@@ -29444,7 +29444,7 @@
 
 **[21:12]** For dei stila på vondt imot deg, dei lagde upp meinråder; dei kann ingen ting.
 
-**[21:13]** For du skal få deim til å snu ryggen til, med dine bogestrengjer sigtar du på deira andlit. Reis deg, Herre, i di magt! So vil me lovsyngja og prisa ditt velde. 
+**[21:13]** For du skal få deim til å snu ryggen til, med dine bogestrengjer sigtar du på deira andlit. Reis deg, Herre, i di magt! So vil me lovsyngja og prisa ditt velde.
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Alle rikmenner på jordi skal eta og tilbeda; for hans åsyn skal dei bøygja kne, alle dei som stig ned i dusti, og den som ikkje kann halda si sjæl i live.
 
-**[22:31]** Etterkomarar skal tena honom; det skal verta fortalt um Herren til den komande ætt. Dei skal koma og forkynna hans rettferd for det folk som vert født, at han hev gjort det. 
+**[22:31]** Etterkomarar skal tena honom; det skal verta fortalt um Herren til den komande ætt. Dei skal koma og forkynna hans rettferd for det folk som vert født, at han hev gjort det.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Du dukar bord åt meg framfor augo på mine fiendar, du salvar mitt hovud med olje; det fløder yver mitt staup.
 
-**[23:6]** Berre lukka og miskunn skal fylgja meg alle mine livdagar, og eg skal bu i Herrens hus i ævelengd. 
+**[23:6]** Berre lukka og miskunn skal fylgja meg alle mine livdagar, og eg skal bu i Herrens hus i ævelengd.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** De portar, lyft upp dykkar hovud! ja lyft dykk upp, de ævelege dører, so kongen den herlege kann koma inn!
 
-**[24:10]** Kven er då kongen den herlege? Herren, allhers drott; han er kongen den herlege. Sela. 
+**[24:10]** Kven er då kongen den herlege? Herren, allhers drott; han er kongen den herlege. Sela.
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Lat uskyld og trurøkna verja meg, for eg ventar på deg.
 
-**[25:22]** Å Gud, løys Israel ut or alle sine trengslor! 
+**[25:22]** Å Gud, løys Israel ut or alle sine trengslor!
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** Men eg fer fram i mi uskyld; løys meg ut og ver meg nådig!
 
-**[26:12]** Min fot stend på slettlende. I samlingarne skal eg lova Herren. 
+**[26:12]** Min fot stend på slettlende. I samlingarne skal eg lova Herren.
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** Å, dersom eg ikkje trudde at eg skulde få sjå Herrens godhug i livsens land -!
 
-**[27:14]** Venta på Herren, ver hugheil, og lat ditt hjarta verta sterkt. Ja, venta på Herren! 
+**[27:14]** Venta på Herren, ver hugheil, og lat ditt hjarta verta sterkt. Ja, venta på Herren!
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** Herren er styrke for sitt folk, og ei vern til frelsa for den han hev salva.
 
-**[28:9]** Frels ditt folk og velsigna din arv, og fød deim og ber deim til æveleg tid! 
+**[28:9]** Frels ditt folk og velsigna din arv, og fød deim og ber deim til æveleg tid!
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** Herren sat yver storflodi, og Herren sit konge til æveleg tid.
 
-**[29:11]** Herren gjeve sitt folk styrke, Herren velsigne sitt folk med fred! 
+**[29:11]** Herren gjeve sitt folk styrke, Herren velsigne sitt folk med fred!
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** Herre, høyr og ver meg nådig! Herre, ver min hjelpar!»
 
-**[30:12]** Du vende mi sorg um til dans for meg, du klædde av meg min syrgjebunad og gyrde meg med gleda, so mi æra kann lovsyngja deg og ikkje tagna. Herre, min Gud, eg vil æveleg prisa deg. 
+**[30:12]** Du vende mi sorg um til dans for meg, du klædde av meg min syrgjebunad og gyrde meg med gleda, so mi æra kann lovsyngja deg og ikkje tagna. Herre, min Gud, eg vil æveleg prisa deg.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Og eg, eg sagde i mi hugsott: «Eg er burtriven frå dine augo!» men endå høyrde du røysti av mine audmjuke bøner, då eg ropa til deg.
 
-**[31:24]** Elska Herren, alle hans trugne! Herren vaktar dei trufaste, men gjev rikeleg attergjeld til den som fer med ovmod. Ver hugheile og lat dykkar hjarta vera sterkt, alle de som ventar på Herren! 
+**[31:24]** Elska Herren, alle hans trugne! Herren vaktar dei trufaste, men gjev rikeleg attergjeld til den som fer med ovmod. Ver hugheile og lat dykkar hjarta vera sterkt, alle de som ventar på Herren!
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Den ugudlege hev mange pinor, men den som lit på Herren, honom kransar han med miskunn.
 
-**[32:11]** Gled dykk i Herren og fegnast, de rettferdige, og syng av fagnad, alle de trurøkne i hjarta! 
+**[32:11]** Gled dykk i Herren og fegnast, de rettferdige, og syng av fagnad, alle de trurøkne i hjarta!
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** For i honom gled vårt hjarta seg, for me set vår lit til hans heilage namn.
 
-**[33:22]** Di nåde, Herre, vere yver oss, so som me vonar på deg! 
+**[33:22]** Di nåde, Herre, vere yver oss, so som me vonar på deg!
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** Herren tek vare på alle hans bein, ikkje eitt av deim vert brote.
 
-**[34:22]** Ulukka drep den ugudlege, og dei som hatar den rettferdige, vert saka. Herren løyser ut deira sjæl som tener honom, og av dei som flyr til honom, vert ingen saka. 
+**[34:22]** Ulukka drep den ugudlege, og dei som hatar den rettferdige, vert saka. Herren løyser ut deira sjæl som tener honom, og av dei som flyr til honom, vert ingen saka.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** Lat deim fagna seg og gleda seg, som unner meg min rett, og lat deim alltid segja: «Høglova vere Herren, som unner sin tenar at det gjeng honom godt!»
 
-**[35:28]** Og mi tunga skal kveda ut di rettferd, heile dagen din pris. 
+**[35:28]** Og mi tunga skal kveda ut di rettferd, heile dagen din pris.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Lat di miskunn vara lenge for deim som kjenner deg, og di rettferd for dei trurøkne i hjarta!
 
-**[36:12]** Lat ikkje ovmods fot koma yver meg, og hand av ugudlege ikkje jaga meg burt! Der fell dei som gjer urett; dei vert støytte ned og kann ikkje standa upp. 
+**[36:12]** Lat ikkje ovmods fot koma yver meg, og hand av ugudlege ikkje jaga meg burt! Der fell dei som gjer urett; dei vert støytte ned og kann ikkje standa upp.
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** Og frelsa for dei rettferdige kjem frå Herren, deira sterke vern i trengsels tid.
 
-**[37:40]** Og Herren hjelper deim og friar deim ut, han friar deim frå dei ugudlege og frelser deim, for dei flyr til honom. 
+**[37:40]** Og Herren hjelper deim og friar deim ut, han friar deim frå dei ugudlege og frelser deim, for dei flyr til honom.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** Og dei som løner godt med vondt, stend meg imot, av di eg fer etter det gode.
 
-**[38:22]** Forlat meg ikkje, Herre! Min Gud, ver ikkje langt ifrå meg! Kom meg snart til hjelp, Herre, mi frelsa! 
+**[38:22]** Forlat meg ikkje, Herre! Min Gud, ver ikkje langt ifrå meg! Kom meg snart til hjelp, Herre, mi frelsa!
 
 ### Chapter 39
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** Tuktar du ein mann med refsing for skuld, so fortærer du hans fagerleik som motten. Berre fåfengd er kvart menneskje. Sela.
 
-**[39:13]** Høyr mi bøn, Herre, og vend øyra til mitt rop; teg ikkje til min gråt! for eg er framand hjå deg, ein gjest som alle mine feder. Sjå burt frå meg, so eg kann kvikna til, fyrr eg fer herifrå og er ikkje meir! 
+**[39:13]** Høyr mi bøn, Herre, og vend øyra til mitt rop; teg ikkje til min gråt! for eg er framand hjå deg, ein gjest som alle mine feder. Sjå burt frå meg, so eg kann kvikna til, fyrr eg fer herifrå og er ikkje meir!
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** Lat dei verta forfærde yver si skjemd, dei som segjer til meg: «Ha, ha!»
 
-**[40:17]** Lat deim fegnast og gleda seg i deg alle dei som søkjer deg! Lat deim som elskar di frelsa alltid segja: «Høglova vere Herren!» For eg er arm og fatig; Herren vil tenkja på meg. Du er mi hjelp og min frelsar; min Gud, dryg ikkje! 
+**[40:17]** Lat deim fegnast og gleda seg i deg alle dei som søkjer deg! Lat deim som elskar di frelsa alltid segja: «Høglova vere Herren!» For eg er arm og fatig; Herren vil tenkja på meg. Du er mi hjelp og min frelsar; min Gud, dryg ikkje!
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** På dette kjenner eg at du hev hugnad i meg, at min fiende ikkje fær setja i glederop yver meg.
 
-**[41:13]** Og meg held du uppe i mi uskyld og set meg for di åsyn til æveleg tid. Lova vere Herren, Israels Gud, frå æva og til æva! Amen, amen! 
+**[41:13]** Og meg held du uppe i mi uskyld og set meg for di åsyn til æveleg tid. Lova vere Herren, Israels Gud, frå æva og til æva! Amen, amen!
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** Eg må segja til Gud, mitt berg: «Kvi hev du gløymt meg? Kvi skal eg ganga svartklædd under fiende-trykk?»
 
-**[42:11]** Det er som knasing i mine bein, at mine fiendar spottar meg, med di dei heile dagen segjer til meg: «Kvar er din Gud?» Kvi er du nedbøygd, mi sjæl, og kvi bruser du i meg? Venta på Gud, for eg skal endå lova honom, mitt andlits frelsa og min Gud. 
+**[42:11]** Det er som knasing i mine bein, at mine fiendar spottar meg, med di dei heile dagen segjer til meg: «Kvar er din Gud?» Kvi er du nedbøygd, mi sjæl, og kvi bruser du i meg? Venta på Gud, for eg skal endå lova honom, mitt andlits frelsa og min Gud.
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** so eg kann koma til Guds altar, til Gud, min fagnad og mi gleda, og lova deg på cither, Gud, min Gud!
 
-**[43:5]** Kvi er du nedbøygd, mi sjæl, og kvi bruser du i meg? Venta på Gud, for eg skal endå lova honom, mitt andlits frelsa og min Gud. 
+**[43:5]** Kvi er du nedbøygd, mi sjæl, og kvi bruser du i meg? Venta på Gud, for eg skal endå lova honom, mitt andlits frelsa og min Gud.
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** Kvi løyner du di åsyn, gløymer vår armodsdom og vår trengsla?
 
-**[44:26]** For vår sjæl er nedbøygd i moldi, vår likam nedtrykt til jordi. Statt upp til hjelp for oss, og løys oss ut for din nåde skuld! 
+**[44:26]** For vår sjæl er nedbøygd i moldi, vår likam nedtrykt til jordi. Statt upp til hjelp for oss, og løys oss ut for din nåde skuld!
 
 ### Chapter 45
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** Dei vert leidde fram med gleda og fagnad, dei gjeng inn i kongshalli.
 
-**[45:17]** I staden for dine feder skal dine søner koma; du skal setja deim til hovdingar utyver heile jordi. Eg vil setja ditt namn eit minne millom alle ætter; difor skal folki lova deg æveleg og alltid. 
+**[45:17]** I staden for dine feder skal dine søner koma; du skal setja deim til hovdingar utyver heile jordi. Eg vil setja ditt namn eit minne millom alle ætter; difor skal folki lova deg æveleg og alltid.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** Han gjer ende på herferder yver all jordi, bryt bogen sund og høgg spjotet av; stridsvognerne brenner han upp i eld.
 
-**[46:11]** «Haldt upp og kjenn at eg er Gud! Eg er upphøgd millom folki, upphøgd på jordi.» Herren, allhers drott, er med oss; Jakobs Gud er vår faste borg. Sela. 
+**[46:11]** «Haldt upp og kjenn at eg er Gud! Eg er upphøgd millom folki, upphøgd på jordi.» Herren, allhers drott, er med oss; Jakobs Gud er vår faste borg. Sela.
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** For Gud er konge yver all jordi; syng til hans lov ein visleg song!
 
-**[47:9]** Gud hev teke riket yver folki, Gud hev sett seg på sin heilage kongsstol. Folkedrottarne samlar seg som eit folk til Abrahams Gud; for skjoldarne på jordi høyrer Gud til, han er høgt upphøgd. 
+**[47:9]** Gud hev teke riket yver folki, Gud hev sett seg på sin heilage kongsstol. Folkedrottarne samlar seg som eit folk til Abrahams Gud; for skjoldarne på jordi høyrer Gud til, han er høgt upphøgd.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Gakk ikring Sion, far rundt um henne, tel hennar tårn!
 
-**[48:14]** Legg merke til hennar vollar, gakk igjenom hennar hallar, so de kann fortelja um det til den komande ætt. For denne Gud er vår Gud æveleg og alltid; han skal føra oss ut yver dauden. 
+**[48:14]** Legg merke til hennar vollar, gakk igjenom hennar hallar, so de kann fortelja um det til den komande ætt. For denne Gud er vår Gud æveleg og alltid; han skal føra oss ut yver dauden.
 
 ### Chapter 49
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** Um han og velsignar si sjæl i si livstid, og dei prisar deg for di du gjer deg gode dagar,
 
-**[49:20]** so skal du då koma til di fedreætt, dei som ikkje ser ljoset i all æva. Eit menneskje i høg vyrdnad, som ikkje hev vit, vert lik dyri; dei må tagna. 
+**[49:20]** so skal du då koma til di fedreætt, dei som ikkje ser ljoset i all æva. Eit menneskje i høg vyrdnad, som ikkje hev vit, vert lik dyri; dei må tagna.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Gjev gaum etter dette, de som gløymer Gud, so eg ikkje skal riva burt, og ingen frelser.
 
-**[50:23]** Den som ofrar meg takk, han ærar meg, og den som gjeng den rette veg, honom vil eg lata sjå Guds frelsa!» 
+**[50:23]** Den som ofrar meg takk, han ærar meg, og den som gjeng den rette veg, honom vil eg lata sjå Guds frelsa!»
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** For du hev ikkje lyst til slagtoffer - elles skulde eg gjeva deg det; i brennoffer hev du ikkje hugnad.
 
-**[51:19]** Offer for Gud er ei sundbroti ånd; eit sundbrote og knust hjarta vil du, Gud, ikkje forsmå. Gjer vel imot Sion etter din nåde, bygg murarne åt Jerusalem! Då skal du hava hugnad i rettferds offer, i brennoffer og heiloffer; då skal dei ofra uksar på ditt altar. 
+**[51:19]** Offer for Gud er ei sundbroti ånd; eit sundbrote og knust hjarta vil du, Gud, ikkje forsmå. Gjer vel imot Sion etter din nåde, bygg murarne åt Jerusalem! Då skal du hava hugnad i rettferds offer, i brennoffer og heiloffer; då skal dei ofra uksar på ditt altar.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** Og dei rettferdige skal sjå det og ottast, og dei skal læ åt honom og segja:
 
-**[52:9]** «Sjå der den mann som ikkje heldt Gud for si vern, men sette si lit til sin store rikdom og sette sin styrke i sin vondskap.» Men eg er som eit grønt oljetre i Guds hus; eg set mi lit til Guds nåde æveleg og alltid. Eg vil lova deg til æveleg tid, for du hev gjort det, og eg vil vona på ditt namn, for det er godt, for augo på dine trugne. 
+**[52:9]** «Sjå der den mann som ikkje heldt Gud for si vern, men sette si lit til sin store rikdom og sette sin styrke i sin vondskap.» Men eg er som eit grønt oljetre i Guds hus; eg set mi lit til Guds nåde æveleg og alltid. Eg vil lova deg til æveleg tid, for du hev gjort det, og eg vil vona på ditt namn, for det er godt, for augo på dine trugne.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** Veit dei det då ikkje, dei som gjer urett? Dei et mitt folk som dei et brød; på Gud kallar dei ikkje.
 
-**[53:6]** Då vert dei storleg rædde, der ingen ræddhug var; for Gud spreider beini av deim som lægrar seg mot deg; du gjer deim til skammar, for Gud hev støytt deim burt. Å, gjev frelsa frå Sion må koma yver Israel! Når Gud vender sitt folks vanlukka, då skal Jakob fagna seg, Israel gleda seg. 
+**[53:6]** Då vert dei storleg rædde, der ingen ræddhug var; for Gud spreider beini av deim som lægrar seg mot deg; du gjer deim til skammar, for Gud hev støytt deim burt. Å, gjev frelsa frå Sion må koma yver Israel! Når Gud vender sitt folks vanlukka, då skal Jakob fagna seg, Israel gleda seg.
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** Sjå, Gud hjelper meg, Herren er den som held uppe mi sjæl.
 
-**[54:7]** Det vonde skal falla tilbake på deim som lurar på meg; gjer deim til inkjes i din truskap! Med viljugt hjarta vil eg ofra til deg; ditt namn vil eg prisa, Herre, for det er godt. For det friar meg ut or all naud, og på mine fiendar ser mitt auga med lyst. 
+**[54:7]** Det vonde skal falla tilbake på deim som lurar på meg; gjer deim til inkjes i din truskap! Med viljugt hjarta vil eg ofra til deg; ditt namn vil eg prisa, Herre, for det er godt. For det friar meg ut or all naud, og på mine fiendar ser mitt auga med lyst.
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Ordi frå hans munn er håle som smør, men hans hjarta er fullt av strid. Hans ord er mjukare enn olje, og dei er då utdregne sverd.
 
-**[55:23]** Kasta byrdi di på Herren, og han skal halda deg uppe! han skal ikkje i all æva lata den rettferdige verta rikka. Men du, Gud, skal støyta deim ned i den djupe grav; blodgiruge og falske menner skal ikkje nå til helvti av si livetid; men eg set mi lit til deg. 
+**[55:23]** Kasta byrdi di på Herren, og han skal halda deg uppe! han skal ikkje i all æva lata den rettferdige verta rikka. Men du, Gud, skal støyta deim ned i den djupe grav; blodgiruge og falske menner skal ikkje nå til helvti av si livetid; men eg set mi lit til deg.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Til Gud set eg lit, eg ottast ikkje; kva kann menneskje gjera meg?
 
-**[56:13]** Gud, eg hev lovnader på meg til deg; eg vil løysa deim ut med takkoffer til deg. For du hev berga mi sjæl frå dauden, ja mine føter frå fall, so eg kann ferdast for Gud i ljoset åt dei livande. 
+**[56:13]** Gud, eg hev lovnader på meg til deg; eg vil løysa deim ut med takkoffer til deg. For du hev berga mi sjæl frå dauden, ja mine føter frå fall, so eg kann ferdast for Gud i ljoset åt dei livande.
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** Eg vil prisa deg millom folki, Herre, eg vil lovsyngja deg millom folkeslagi.
 
-**[57:11]** For di miskunn er stor til himmelen, og din truskap til dei høge skyer. Gud, syn deg høg yver himmelen, di æra yver heile jordi! 
+**[57:11]** For di miskunn er stor til himmelen, og din truskap til dei høge skyer. Gud, syn deg høg yver himmelen, di æra yver heile jordi!
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** Fyrr dykkar grytor fær kjenna klungerriset, skal han blåsa det burt, både det friske og det som brenn.
 
-**[58:11]** Den rettferdige skal gleda seg, av di han ser hemn; han skal två sine føter i blodet av den ugudlege. Og folk skal segja: «Det finst då frukt for den rettferdige; der er då ein Gud som dømer på jordi.» 
+**[58:11]** Den rettferdige skal gleda seg, av di han ser hemn; han skal två sine føter i blodet av den ugudlege. Og folk skal segja: «Det finst då frukt for den rettferdige; der er då ein Gud som dømer på jordi.»
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** Dei flakkar um etter mat, vert dei ikkje mette, nattar dei yver.
 
-**[59:17]** Men eg vil syngja um di magt og um morgonen lovsyngja di miskunn; for du er mi borg og mi livd den dag eg er i naud. Min styrke! for deg vil eg syngja; for Gud er mi borg, min miskunnsame Gud. 
+**[59:17]** Men eg vil syngja um di magt og um morgonen lovsyngja di miskunn; for du er mi borg og mi livd den dag eg er i naud. Min styrke! for deg vil eg syngja; for Gud er mi borg, min miskunnsame Gud.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Kven vil føra meg til den faste by? Kven leider meg til Edom?
 
-**[60:12]** Hev ikkje du, Gud, støytt oss burt? og du, Gud, gjeng ikkje ut med våre herar? Gjev oss hjelp imot fienden, for mannehjelp er fåfengd! Med Guds hjelp skal me gjera storverk, og han skal treda ned våre fiendar. 
+**[60:12]** Hev ikkje du, Gud, støytt oss burt? og du, Gud, gjeng ikkje ut med våre herar? Gjev oss hjelp imot fienden, for mannehjelp er fåfengd! Med Guds hjelp skal me gjera storverk, og han skal treda ned våre fiendar.
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Du vil leggja dagar til kongens dagar, hans år skal vera som ætt etter ætt.
 
-**[61:8]** Han skal sitja æveleg for Guds åsyn; set miskunn og truskap til å vara honom! So vil eg æveleg lovsyngja ditt namn, at eg kann løysa mine lovnader dag etter dag. 
+**[61:8]** Han skal sitja æveleg for Guds åsyn; set miskunn og truskap til å vara honom! So vil eg æveleg lovsyngja ditt namn, at eg kann løysa mine lovnader dag etter dag.
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** Lit ikkje på vald, og set ikkje fåfengd von til ran! Når buet veks, fest ikkje hjarta ved det!
 
-**[62:12]** Ein gong hev Gud sagt, tvo gonger hev eg høyrt dette, at styrke høyrer Gud til. Og hjå deg, Herre, er miskunn, for du gjev kvar ein etter hans gjerning. 
+**[62:12]** Ein gong hev Gud sagt, tvo gonger hev eg høyrt dette, at styrke høyrer Gud til. Og hjå deg, Herre, er miskunn, for du gjev kvar ein etter hans gjerning.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** Men dei som stend meg etter livet og vil tyna det, dei skal koma til dei nedste djup i jordi.
 
-**[63:11]** Dei skal verta yvergjevne til sverdmagt, verta til ran for revar. Men kongen skal gleda seg i Gud; kvar den som sver ved honom, skal prisa seg sæl, for ljugararne skal verta målbundne. 
+**[63:11]** Dei skal verta yvergjevne til sverdmagt, verta til ran for revar. Men kongen skal gleda seg i Gud; kvar den som sver ved honom, skal prisa seg sæl, for ljugararne skal verta målbundne.
 
 ### Chapter 64
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** Dei stupar ned, deira tunge kjem yver deim, alle som ser på deim, rister på hovudet.
 
-**[64:10]** Og alle menneskje ræddast og forkynner Guds gjerning, og hans verk skynar dei. Den rettferdige gleder seg i Herren og flyr til honom, og alle ærlege av hjarta prise seg sæle. 
+**[64:10]** Og alle menneskje ræddast og forkynner Guds gjerning, og hans verk skynar dei. Den rettferdige gleder seg i Herren og flyr til honom, og alle ærlege av hjarta prise seg sæle.
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** Du hev krynt ditt gode år, og dine fotspor dryp av feitt.
 
-**[65:13]** Beiti i øydemarki dryp, og haugarne gyrdar seg med lovsong. Engjarne er klædde med sauer, og dalarne er fyllte med korn; folk fegnast og syng. 
+**[65:13]** Beiti i øydemarki dryp, og haugarne gyrdar seg med lovsong. Engjarne er klædde med sauer, og dalarne er fyllte med korn; folk fegnast og syng.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** Men Gud hev høyrt, han lydde på mi bønerøyst.
 
-**[66:20]** Lova vere Gud, som ikkje viste mi bøn ifrå seg og ikkje tok frå meg si miskunn! 
+**[66:20]** Lova vere Gud, som ikkje viste mi bøn ifrå seg og ikkje tok frå meg si miskunn!
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Folki skal prisa deg, Gud, folki skal prisa deg alle saman.
 
-**[67:7]** Landet hev gjeve si grøda; Gud, vår Gud velsignar oss. Gud velsignar oss, og alle heimsens endar skal ottast honom. 
+**[67:7]** Landet hev gjeve si grøda; Gud, vår Gud velsignar oss. Gud velsignar oss, og alle heimsens endar skal ottast honom.
 
 ### Chapter 68
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** Han som fer fram i dei eldegamle himle-himlar! Sjå, han let si røyst høyra, ei veldug røyst.
 
-**[68:35]** Gjev Gud magt! Yver Israel er hans høgd, og hans magt i dei høge skyer. Skræmeleg er du, Gud, frå dine heilagdomar; Israels Gud, han gjev folket magt og styrke. Lova vere Gud! 
+**[68:35]** Gjev Gud magt! Yver Israel er hans høgd, og hans magt i dei høge skyer. Skræmeleg er du, Gud, frå dine heilagdomar; Israels Gud, han gjev folket magt og styrke. Lova vere Gud!
 
 ### Chapter 69
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** Himmel og jord skal lova honom, havet og alt som krek i det.
 
-**[69:36]** For Gud skal frelsa Sion og byggja byarne i Juda, og dei skal bu der og eiga deim. Og avkjømet til hans tenarar skal erva deim, og dei som elskar hans namn, skal bu der. 
+**[69:36]** For Gud skal frelsa Sion og byggja byarne i Juda, og dei skal bu der og eiga deim. Og avkjømet til hans tenarar skal erva deim, og dei som elskar hans namn, skal bu der.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** Lat deim snu for si skjemd dei som segjer: «Ha, ha!»
 
-**[70:5]** Lat deim fegnast og gleda seg i deg, alle dei som søkjer deg! Lat deim som elskar di frelsa, alltid segja: «Høglova vere Gud!» For eg er arm og fatig; Gud, kom snart til meg! Du er mi hjelp og min frelsar; Herre, dryg ikkje! 
+**[70:5]** Lat deim fegnast og gleda seg i deg, alle dei som søkjer deg! Lat deim som elskar di frelsa, alltid segja: «Høglova vere Gud!» For eg er arm og fatig; Gud, kom snart til meg! Du er mi hjelp og min frelsar; Herre, dryg ikkje!
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** Mine lippor skal fegnast når eg syng deg lov, og mi sjæl, som du hev løyst ut.
 
-**[71:24]** Ogso tunga mi skal heile dagen kveda ut di rettferd, for dei hev vorte til skam og spott, dei som søkjer mi ulukka. 
+**[71:24]** Ogso tunga mi skal heile dagen kveda ut di rettferd, for dei hev vorte til skam og spott, dei som søkjer mi ulukka.
 
 ### Chapter 72
 
@@ -31178,7 +31178,7 @@
 
 **[72:19]** Og lova vere hans herlege namn i all æva! og all jordi verte full av hans æra! Amen, amen!
 
-**[72:20]** Ende på bønerne av David, son åt Isai. 
+**[72:20]** Ende på bønerne av David, son åt Isai.
 
 ### Chapter 73
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** For sjå, dei som er langt burte frå deg, skal ganga til grunnar; du tyner alle som i hor gjeng frå deg.
 
-**[73:28]** Men for meg er det godt å halda meg nær til Gud, eg set mi lit til Herren, Herren, at eg må fortelja alle dine gjerningar. 
+**[73:28]** Men for meg er det godt å halda meg nær til Gud, eg set mi lit til Herren, Herren, at eg må fortelja alle dine gjerningar.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Statt upp, Gud! før di sak! Kom i hug at du vert spotta av dåren heile dagen!
 
-**[74:23]** Gløym ikkje røysti åt dine fiendar, ståket frå dine motstandarar som alltid stig upp! 
+**[74:23]** Gløym ikkje røysti åt dine fiendar, ståket frå dine motstandarar som alltid stig upp!
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** For eit staup er i Herrens hand med skumande vin, det er fullt av kryddevin, og han skjenkjer av det, ja, bermen skal dei suga til seg og drikka, alle dei ugudlege på jordi.
 
-**[75:10]** Men eg vil forkynna det æveleg, eg vil lovsyngja Jakobs Gud. Og alle horni på dei ugudlege vil eg hogga av; horni på den rettferdige skal reisa seg høgt. 
+**[75:10]** Men eg vil forkynna det æveleg, eg vil lovsyngja Jakobs Gud. Og alle horni på dei ugudlege vil eg hogga av; horni på den rettferdige skal reisa seg høgt.
 
 ### Chapter 76
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** For manne-harm må prisa deg, med endå større harm gyrder du deg.
 
-**[76:12]** Gjer lovnad og haldt det de lova til Herren, dykkar Gud! Alle kring honom skal føra gåvor til den skræmelege. Han staggar stormodet hjå hovdingar, han er skræmeleg for kongarne på jordi. 
+**[76:12]** Gjer lovnad og haldt det de lova til Herren, dykkar Gud! Alle kring honom skal føra gåvor til den skræmelege. Han staggar stormodet hjå hovdingar, han er skræmeleg for kongarne på jordi.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Di tora dunde i kvervelstormen, eldingar lyste upp jordriket, jordi skalv og riste.
 
-**[77:20]** I havet gjekk din veg, og dine stigar gjenom store vatn, og dine fotspor vart ikkje kjende. Du førde ditt folk som ei hjord ved handi åt Moses og Aron. 
+**[77:20]** I havet gjekk din veg, og dine stigar gjenom store vatn, og dine fotspor vart ikkje kjende. Du førde ditt folk som ei hjord ved handi åt Moses og Aron.
 
 ### Chapter 78
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** Han førde honom frå lambsauerne som han fylgde, til å gjæta Jakob, sitt folk, og Israel, sin arv.
 
-**[78:72]** Og han gjætte deim etter sitt ærlege hjarta, og med si kloke hand leidde han deim. 
+**[78:72]** Og han gjætte deim etter sitt ærlege hjarta, og med si kloke hand leidde han deim.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** Gjev våre grannar sjufald att i deira fang den spott som dei hev spotta deg med, Herre!
 
-**[79:13]** Og me, ditt folk og den hjord du beiter, me vil lova deg æveleg, frå ætt til ætt vil me kunngjera din pris. 
+**[79:13]** Og me, ditt folk og den hjord du beiter, me vil lova deg æveleg, frå ætt til ætt vil me kunngjera din pris.
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** Haldt di hand yver mannen ved di høgre hand, yver menneskjesonen som du hev valt deg ut,
 
-**[80:19]** so vil me ikkje vika frå deg! Gjer oss levande att, so vil me kalla på ditt namn! Herre Gud, allhers drott, reis oss upp att, og lat ditt andlit lysa, so me vert frelste! 
+**[80:19]** so vil me ikkje vika frå deg! Gjer oss levande att, so vil me kalla på ditt namn! Herre Gud, allhers drott, reis oss upp att, og lat ditt andlit lysa, so me vert frelste!
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** Snart skulde eg då bøygja deira fiendar, eg skulde venda mi hand imot deira motstandarar.
 
-**[81:16]** Dei som hatar Herren, skulde høla honom, og deira tid skulde vara æveleg. Og eg skulde føda honom med den beste kveite, og frå berget skulde eg metta deg med honning.» 
+**[81:16]** Dei som hatar Herren, skulde høla honom, og deira tid skulde vara æveleg. Og eg skulde føda honom med den beste kveite, og frå berget skulde eg metta deg med honning.»
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** Men sanneleg, som menneskje skal de døy, og som ein av hovdingarne skal de falla.»
 
-**[82:8]** Statt upp, Gud, haldt dom yver jordi! For du eig alle heidningar. 
+**[82:8]** Statt upp, Gud, haldt dom yver jordi! For du eig alle heidningar.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Fyll deira andlit med skam, at dei må søkja ditt namn, Herre!
 
-**[83:18]** Lat deim skjemmast og skræmast æveleg og alltid, lat dei verta skjemde og ganga til grunnar! Og lat deim få vita, at einast du hev namnet Herre, den Høgste yver heile jordi! 
+**[83:18]** Lat deim skjemmast og skræmast æveleg og alltid, lat dei verta skjemde og ganga til grunnar! Og lat deim få vita, at einast du hev namnet Herre, den Høgste yver heile jordi!
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** For ein dag i dine fyregardar er betre enn tusund andre; eg vil heller standa ved dørstokken i min Guds hus enn bu i tjeldi til gudløysa.
 
-**[84:12]** For Gud Herren er sol og skjold, nåde og ære gjev Herren, han held ikkje undan noko godt frå deim som ferdast i uskyld. Herre, allhers drott, sæl er den mann som set si lit til deg! 
+**[84:12]** For Gud Herren er sol og skjold, nåde og ære gjev Herren, han held ikkje undan noko godt frå deim som ferdast i uskyld. Herre, allhers drott, sæl er den mann som set si lit til deg!
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Truskap skal renna upp av jordi, og rettferd skoda ned frå himmelen.
 
-**[85:13]** Herren skal og gjeva det som gode, og vårt land skal gjeva si grøda. Rettferd skal ganga fyre honom og gjera hans fotspor til sin veg. 
+**[85:13]** Herren skal og gjeva det som gode, og vårt land skal gjeva si grøda. Rettferd skal ganga fyre honom og gjera hans fotspor til sin veg.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Vend deg til meg og ver meg nådig, gjev din tenar styrken din, og frels son åt di tenestkvinna!
 
-**[86:17]** Gjer eit teikn med meg til det gode, at dei som hatar meg, må sjå det og skjemmast, av di du, Herre, hev hjelpt meg og trøysta meg. 
+**[86:17]** Gjer eit teikn med meg til det gode, at dei som hatar meg, må sjå det og skjemmast, av di du, Herre, hev hjelpt meg og trøysta meg.
 
 ### Chapter 87
 
@@ -31784,7 +31784,7 @@
 
 **[87:6]** Herren skal telja soleis, når folki vert uppskrivne: «Denne er fødd der.» Sela.
 
-**[87:7]** Og dei som syng og dei som dansar, skal segja: «Alle mine kjeldor er i deg.» 
+**[87:7]** Og dei som syng og dei som dansar, skal segja: «Alle mine kjeldor er i deg.»
 
 ### Chapter 88
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** Logarne av din harm hev gjenge yver meg, dine skræmor hev gjort meg til inkjes.
 
-**[88:18]** Dei hev ringa seg um meg som vatn all dagen, dei hev i samlag kringsett meg. Du hev drive langt burt frå meg ven og næste, mine kjenningar er myrkret. 
+**[88:18]** Dei hev ringa seg um meg som vatn all dagen, dei hev i samlag kringsett meg. Du hev drive langt burt frå meg ven og næste, mine kjenningar er myrkret.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** Herre, kom i hug den skam som ligg yver dine tenarar, at eg må bera i fanget alle dei mange folk,
 
-**[89:52]** at dine fiendar spottar, Herre, at dei spottar hans fotspor som du hev salva. Lova vere Herren æveleg! Amen, amen! 
+**[89:52]** at dine fiendar spottar, Herre, at dei spottar hans fotspor som du hev salva. Lova vere Herren æveleg! Amen, amen!
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Lat di gjerning syna seg for tenarane dine og din herlegdom yver deira born!
 
-**[90:17]** Og Herren, vår Guds ynde vere yver oss, og det våre hender gjer, gjeve du framgang for oss, ja, det våre hender gjer, det gjeve du framgang! 
+**[90:17]** Og Herren, vår Guds ynde vere yver oss, og det våre hender gjer, gjeve du framgang for oss, ja, det våre hender gjer, det gjeve du framgang!
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** Han skal kalla på meg, og eg skal svara honom, eg er med honom i naud, eg vil fria honom ut og føra honom til æra.
 
-**[91:16]** Med eit langt liv vil eg metta honom og lata honom sjå mi frelsa.» 
+**[91:16]** Med eit langt liv vil eg metta honom og lata honom sjå mi frelsa.»
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** Dei er planta i Herrens hus og skal grønka i Guds fyregardar.
 
-**[92:15]** Endå i høg alder skyt dei friske renningar, dei er groande og grønkande til å forkynna at Herren er rettvis, han, mitt berg, og at det ingen urett er i honom. 
+**[92:15]** Endå i høg alder skyt dei friske renningar, dei er groande og grønkande til å forkynna at Herren er rettvis, han, mitt berg, og at det ingen urett er i honom.
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** Men meir enn duren av dei store vatn, dei herlege, havbroti, er Herren herleg i det høge.
 
-**[93:5]** Dine vitnemål er ovleg trufaste; heilagdom høver for huset ditt, Herre, so lenge som dagarne varer. 
+**[93:5]** Dine vitnemål er ovleg trufaste; heilagdom høver for huset ditt, Herre, so lenge som dagarne varer.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** Då vert Herren ei borg for meg, og min Gud vert eit berg som eg flyr til.
 
-**[94:23]** Og han let deira urett koma attende yver deim, og for deira vondskap skal han gjera ende på deim, ja, Herren, vår Gud, skal gjera ende på deim. 
+**[94:23]** Og han let deira urett koma attende yver deim, og for deira vondskap skal han gjera ende på deim, ja, Herren, vår Gud, skal gjera ende på deim.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** I fyrti år var eg leid av den ætti, og eg sagde: «Dei er eit folk med villfarande hjarta, og dei kjenner ikkje vegarne mine.»
 
-**[95:11]** So svor eg i min vreide: «Sanneleg, dei skal ikkje koma inn til mi kvila.» 
+**[95:11]** So svor eg i min vreide: «Sanneleg, dei skal ikkje koma inn til mi kvila.»
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Marki frygde seg og alt det som på marki er! Då fegnast alle tre i skogen
 
-**[96:13]** for Herrens åsyn; for han kjem, for han kjem til å døma jordi; han skal døma jordriket med rettferd og folki i sin truskap. 
+**[96:13]** for Herrens åsyn; for han kjem, for han kjem til å døma jordi; han skal døma jordriket med rettferd og folki i sin truskap.
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Ljos er utsått for den rettferdige, og gleda for dei ærlege i hjarta.
 
-**[97:12]** Gled dykk, de rettferdige, i Herren! Syng lov for hans heilage namn! 
+**[97:12]** Gled dykk, de rettferdige, i Herren! Syng lov for hans heilage namn!
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Elvarne klappe i hender, fjelli fagne seg med
 
-**[98:9]** for Herrens åsyn, for han kjem til å døma jordi, han skal døma jordriket med rettferd og folki med rettvisa. 
+**[98:9]** for Herrens åsyn, for han kjem til å døma jordi, han skal døma jordriket med rettferd og folki med rettvisa.
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** Herre vår Gud, du svara deim, du var deim ein Gud som tilgav deim, men og ein hemnar yver deira gjerningar.
 
-**[99:9]** Høglova Herren, vår Gud! Og fall ned for hans heilage fjell! For heilag er Herren, vår Gud. 
+**[99:9]** Høglova Herren, vår Gud! Og fall ned for hans heilage fjell! For heilag er Herren, vår Gud.
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Kom inn i hans portar med takk, i hans fyregardar med lov, prisa honom, lova hans namn!
 
-**[100:5]** For Herren er god, hans miskunn varer æveleg, og hans truskap frå ætt til ætt. 
+**[100:5]** For Herren er god, hans miskunn varer æveleg, og hans truskap frå ætt til ætt.
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** I mitt hus skal ingen få bu som fer med svik; den som talar lygn, skal ikkje standa for augo mine.
 
-**[101:8]** Kvar morgon vil eg tyna alle ugudlege i landet, so eg kann rydja ut or Herrens by alle ugjerningsmenner. 
+**[101:8]** Kvar morgon vil eg tyna alle ugudlege i landet, so eg kann rydja ut or Herrens by alle ugjerningsmenner.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** Dei skal forgangast, men du stend; alle skal dei eldast som eit klæde, som ein klædnad skifter du deim, og dei vert umskifte;
 
-**[102:28]** men du er den same, og dine år tek aldri ende. Borni åt dine tenarar skal bu i ro, og deira avkjøme skal standa trygt for di åsyn. 
+**[102:28]** men du er den same, og dine år tek aldri ende. Borni åt dine tenarar skal bu i ro, og deira avkjøme skal standa trygt for di åsyn.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Lova Herren, alle hans herar, de hans tenarar som gjer hans vilje!
 
-**[103:22]** Lova Herren alle hans verk på alle stader i hans rike! Lova Herren mi sjæl! 
+**[103:22]** Lova Herren alle hans verk på alle stader i hans rike! Lova Herren mi sjæl!
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** Gjev min tale kunde tekkjast honom! Eg vil gleda meg i Herren.
 
-**[104:35]** Gjev syndarar måtte kverva burt frå jordi, og ugudlege ikkje lenger finnast! Lova Herren, mi sjæl! Halleluja, lova Herren. 
+**[104:35]** Gjev syndarar måtte kverva burt frå jordi, og ugudlege ikkje lenger finnast! Lova Herren, mi sjæl! Halleluja, lova Herren.
 
 ### Chapter 105
 
@@ -32506,7 +32506,7 @@
 
 **[105:44]** og han gav deim landi åt heidningarne, og folkeslags arbeid tok dei til eigedom,
 
-**[105:45]** at dei skulde halda hans fyresegner og taka vare på hans lover. Halleluja! 
+**[105:45]** at dei skulde halda hans fyresegner og taka vare på hans lover. Halleluja!
 
 ### Chapter 106
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Frels oss, Herre vår Gud, og samla oss frå heidningarne, so me kann prisa ditt heilage namn, rosa oss av ditt lov!
 
-**[106:48]** Lova vere Herren, Israels Gud, frå æva og til æva! Og alt folket segje: Amen. Halleluja! 
+**[106:48]** Lova vere Herren, Israels Gud, frå æva og til æva! Og alt folket segje: Amen. Halleluja!
 
 ### Chapter 107
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** Dei ærlege ser det og gled seg, og all vondskap let att sin munn.
 
-**[107:43]** Den som er vis, han gjeve gaum etter dette, og dei må merke Herrens nådegjerningar. 
+**[107:43]** Den som er vis, han gjeve gaum etter dette, og dei må merke Herrens nådegjerningar.
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Hev ikkje du, Gud, støytt oss burt? og du, Gud, gjeng ikkje ut med våre herar.
 
-**[108:13]** Gjev oss hjelp mot fienden! for mannehjelp er fåfengd. Med Guds hjelp skal me gjera storverk, og han skal treda ned våre fiendar. 
+**[108:13]** Gjev oss hjelp mot fienden! for mannehjelp er fåfengd. Med Guds hjelp skal me gjera storverk, og han skal treda ned våre fiendar.
 
 ### Chapter 109
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** Eg vil takka Herren storleg med min munn, og midt imillom mange vil eg lova honom.
 
-**[109:31]** For han stend på høgre sida åt den fatige til å frelsa honom frå deim som dømer hans sjæl. 
+**[109:31]** For han stend på høgre sida åt den fatige til å frelsa honom frå deim som dømer hans sjæl.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** Han dømer millom heidningarne, fyller upp med lik, han knasar hovud utyver den vide jord.
 
-**[110:7]** Or bekken drikk han på vegen, difor lyfter han hovudet høgt. 
+**[110:7]** Or bekken drikk han på vegen, difor lyfter han hovudet høgt.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** Han hev sendt sitt folk utløysing, han hev skipa si pakt æveleg, hans namn er heilagt og skræmelegt.
 
-**[111:10]** Otte for Herren er upphav til visdom, godt vit hev alle som gjer etter det. Hans pris varer æveleg. 
+**[111:10]** Otte for Herren er upphav til visdom, godt vit hev alle som gjer etter det. Hans pris varer æveleg.
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** Han strår ut, gjev til dei fatige, hans rettferd stend alltid, hans horn skal verta upplyft med æra.
 
-**[112:10]** Den ugudlege skal sjå det og harmast, han skal skjera tenner og tærast upp, det dei ugudlege hev lyst til, vert upp i inkje. 
+**[112:10]** Den ugudlege skal sjå det og harmast, han skal skjera tenner og tærast upp, det dei ugudlege hev lyst til, vert upp i inkje.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** til å setja honom hjå hovdingar, hjå sitt folks hovdingar;
 
-**[113:9]** han som let ufruktsame bu heime som ei glad barnemor. Halleluja! 
+**[113:9]** han som let ufruktsame bu heime som ei glad barnemor. Halleluja!
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** For Herrens åsyn må du skjelva, jord, for Jakobs Guds åsyn!
 
-**[114:8]** Han som gjer berget til ein sjø, harde steinen til ei vatskjelda. 
+**[114:8]** Han som gjer berget til ein sjø, harde steinen til ei vatskjelda.
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** Dei daude lovar ikkje Herren, ingen av deim som stig ned i stilla.
 
-**[115:18]** Men me skal lova Herren frå no og til æveleg tid. Halleluja! 
+**[115:18]** Men me skal lova Herren frå no og til æveleg tid. Halleluja!
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** Mine lovnader vil eg halda for Herren, og det for augo på alt hans folk,
 
-**[116:19]** i fyregardarne til Herrens hus, midt i deg, Jerusalem. Halleluja! 
+**[116:19]** i fyregardarne til Herrens hus, midt i deg, Jerusalem. Halleluja!
 
 ### Chapter 117
 
 **[117:1]** Lova Herren, alle heidningar, prisa honom alle folk!
 
-**[117:2]** For megtig er hans miskunn yver oss, og Herrens truskap varer i all æva. Halleluja! 
+**[117:2]** For megtig er hans miskunn yver oss, og Herrens truskap varer i all æva. Halleluja!
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Min Gud er du, og eg vil prisa deg, min Gud, eg vil upphøgja deg.
 
-**[118:29]** Prisa Herren, for han er god, for æveleg varer hans miskunn! 
+**[118:29]** Prisa Herren, for han er god, for æveleg varer hans miskunn!
 
 ### Chapter 119
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Lat mi sjæl leva og lova deg, og lat dine domar hjelpa meg!
 
-**[119:176]** Eg hev fare vilt; leita upp din tenar som ein burtkomen sau! for dine bodord hev eg ikkje gløymt. 
+**[119:176]** Eg hev fare vilt; leita upp din tenar som ein burtkomen sau! for dine bodord hev eg ikkje gløymt.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** Lenge nok hev sjæli mi butt hjå deim som hatar fred.
 
-**[120:7]** Eg er berre fred, men når eg talar, er dei ferdige til strid. 
+**[120:7]** Eg er berre fred, men når eg talar, er dei ferdige til strid.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** Herren skal vara deg frå alt vondt, han skal vara di sjæl.
 
-**[121:8]** Herren skal vara din utgang og din inngang frå no og til æveleg tid. 
+**[121:8]** Herren skal vara din utgang og din inngang frå no og til æveleg tid.
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** For mine brør og vener skuld vil eg segja: «Fred vere i deg!»
 
-**[122:9]** For Herrens, vår Guds, hus skuld vil eg søkja det som er godt for deg. 
+**[122:9]** For Herrens, vår Guds, hus skuld vil eg søkja det som er godt for deg.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Ver oss nådig, Herre, ver oss nådig! for me er ovleg metta med vanvyrdnad.
 
-**[123:4]** Ovleg metta er vår sjæl med spott ifrå dei kaute, med vanvyrdnad frå valdsmenner. 
+**[123:4]** Ovleg metta er vår sjæl med spott ifrå dei kaute, med vanvyrdnad frå valdsmenner.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Vår sjæl slapp undan som ein fugl or fangarsnara. Snara rivna sund, og me slapp undan.
 
-**[124:8]** Vår hjelp er i Herrens namn, han som gjorde himmel og jord. 
+**[124:8]** Vår hjelp er i Herrens namn, han som gjorde himmel og jord.
 
 ### Chapter 125
 
@@ -33474,7 +33474,7 @@
 
 **[125:4]** Gjer godt, Herre, mot dei gode, og imot deim som hev eit ærlegt hjarta!
 
-**[125:5]** Men deim som vender seg burt til sine krokute vegar, skal Herren lata fara med illgjerningsmenner. Fred vere yver Israel! 
+**[125:5]** Men deim som vender seg burt til sine krokute vegar, skal Herren lata fara med illgjerningsmenner. Fred vere yver Israel!
 
 ### Chapter 126
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** Dei som sår med tåror, skal hausta med glederop.
 
-**[126:6]** Dei gjeng av stad og græt og ber sitt såkorn. So kjem dei att med fagnadrop og ber sine kornband. 
+**[126:6]** Dei gjeng av stad og græt og ber sitt såkorn. So kjem dei att med fagnadrop og ber sine kornband.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** Som piler i kjempehand, soleis er ungdoms søner.
 
-**[127:5]** Sæl er den mann som hev sitt pilehus fullt av deim! Ikkje skal dei verta til skammar, når dei talar med fiendar i porten. 
+**[127:5]** Sæl er den mann som hev sitt pilehus fullt av deim! Ikkje skal dei verta til skammar, når dei talar med fiendar i porten.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** Herren signe deg frå Sion! sjå med lyst på Jerusalems lukka alle dine livedagar!
 
-**[128:6]** Og måtte du sjå born av dine born! Fred vere yver Israel! 
+**[128:6]** Og måtte du sjå born av dine born! Fred vere yver Israel!
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** slåttaren fær ikkje handi full, og bundelbindaren ikkje eit fang.
 
-**[129:8]** Og dei som gjeng framum, segjer ikkje: «Herrens velsigning vere yver dykk, me velsignar dykk i Herrens namn!» 
+**[129:8]** Og dei som gjeng framum, segjer ikkje: «Herrens velsigning vere yver dykk, me velsignar dykk i Herrens namn!»
 
 ### Chapter 130
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** Venta, Israel, på Herren! for hjå Herren er nåden, og stor utløysing er hjå honom.
 
-**[130:8]** Og han skal løysa Israel frå alle deira misgjerningar. 
+**[130:8]** Og han skal løysa Israel frå alle deira misgjerningar.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** Nei, eg hev fenge sjæli til å vera still og tegja som avvant barn hjå mor si, som avvant barn er sjæli mi hjå meg.
 
-**[131:3]** Venta, Israel, på Herren, frå no og i all æva! 
+**[131:3]** Venta, Israel, på Herren, frå no og i all æva!
 
 ### Chapter 132
 
@@ -33596,7 +33596,7 @@
 
 **[132:17]** Der vil eg lata veksa upp eit horn for David, der hev eg stelt til ei lampa for den eg hev salva.
 
-**[132:18]** Hans fiendar vil eg klæda med skam, men yver honom skal hans kruna stråla.» 
+**[132:18]** Hans fiendar vil eg klæda med skam, men yver honom skal hans kruna stråla.»
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** Det er liksom den gode olje uppå hovudet, som renn ned yver skjegget, Arons skjegg, og som renn ned på saumen av hans klædnad,
 
-**[133:3]** som dogg frå Hermon, som renn ned på Sions fjell. For der hev Herren laga til velsigningi, liv i all æva. 
+**[133:3]** som dogg frå Hermon, som renn ned på Sions fjell. For der hev Herren laga til velsigningi, liv i all æva.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Lyft dykkar hender upp til heilagdomen og lova Herren!
 
-**[134:3]** Herren signe deg frå Sion, han som gjorde himmel og jord! 
+**[134:3]** Herren signe deg frå Sion, han som gjorde himmel og jord!
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** Levis hus, lova Herren! De som ottast Herren, lova Herren!
 
-**[135:21]** Lova vere Herren frå Sion, han som bur i Jerusalem! Halleluja! 
+**[135:21]** Lova vere Herren frå Sion, han som bur i Jerusalem! Halleluja!
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** Han som gjev alt som liver brød, for æveleg varer hans miskunn.
 
-**[136:26]** Prisa Gud i himmelen, for æveleg varer hans miskunn! 
+**[136:26]** Prisa Gud i himmelen, for æveleg varer hans miskunn!
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** Babels dotter, du øydelagde! sæl er den som gjev deg løn for den gjerning du gjorde imot oss!
 
-**[137:9]** Sæl er den som tek og krasar dine småborn imot berget! 
+**[137:9]** Sæl er den som tek og krasar dine småborn imot berget!
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Um eg ferdast midt i naudi, held du meg i live, mot harmen til mine fiendar retter du ut di hand, og ho frelser meg, di høgre hand.
 
-**[138:8]** Herren vil fullføra sitt verk for meg. Herre, di miskunn varer æveleg; det verk dine hender hev gjort, må du ikkje gjeva upp! 
+**[138:8]** Herren vil fullføra sitt verk for meg. Herre, di miskunn varer æveleg; det verk dine hender hev gjort, må du ikkje gjeva upp!
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Ransaka meg, Gud, og kjenn mitt hjarta! Prøv meg og kjenn mine tankar!
 
-**[139:24]** Og sjå um eg er på veg til pinsla, og leid meg på æveleg veg! 
+**[139:24]** Og sjå um eg er på veg til pinsla, og leid meg på æveleg veg!
 
 ### Chapter 140
 
@@ -33826,7 +33826,7 @@
 
 **[140:12]** Ein munnkåt mann skal ikkje trygt på jordi, den vonde valdsmann skal dei jaga til han sturtar.
 
-**[140:13]** Eg veit at Herren skal greida saki for armingen, og retten for dei fatige. Ja, dei rettferdige skal prisa namnet ditt, dei ærlege skal bu for di åsyn. 
+**[140:13]** Eg veit at Herren skal greida saki for armingen, og retten for dei fatige. Ja, dei rettferdige skal prisa namnet ditt, dei ærlege skal bu for di åsyn.
 
 ### Chapter 141
 
@@ -33848,7 +33848,7 @@
 
 **[141:9]** Vara meg ifrå fella dei hev sett for meg, og snarorne til deim som gjer urett!
 
-**[141:10]** Lat dei ugudlege falla i sine eigne garn, medan eg gjeng uskadd framum! 
+**[141:10]** Lat dei ugudlege falla i sine eigne garn, medan eg gjeng uskadd framum!
 
 ### Chapter 142
 
@@ -33864,7 +33864,7 @@
 
 **[142:6]** Eg ropar til deg, Herre! Eg segjer: «Du er mi livd, min lut i landet åt dei livande.»
 
-**[142:7]** Agta på mitt klagerop, for eg er ovleg arm! Fria meg frå mine forfylgjarar, for dei er meg for sterke. Før mi sjæl or fengslet, so eg kann lova ditt namn! Kring meg skal dei rettferdige samla seg, når du gjer vel imot meg. 
+**[142:7]** Agta på mitt klagerop, for eg er ovleg arm! Fria meg frå mine forfylgjarar, for dei er meg for sterke. Før mi sjæl or fengslet, so eg kann lova ditt namn! Kring meg skal dei rettferdige samla seg, når du gjer vel imot meg.
 
 ### Chapter 143
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** For ditt namn skuld, Herre, haldt meg i live! I di rettferd før mi sjæl ut or trengsla!
 
-**[143:12]** Og ryd i di miskunn ut mine fiendar, og øydelegg alle som trengjer mi sjæl, for eg er din tenar. 
+**[143:12]** Og ryd i di miskunn ut mine fiendar, og øydelegg alle som trengjer mi sjæl, for eg er din tenar.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** so våre kyr kann hava kalv, og der ikkje må vera brot og ikkje tap, og inkje klagerop på våre gator.
 
-**[144:15]** Sælt er det folk som hev det soleis; sælt er det folk som hev Herren til Gud. 
+**[144:15]** Sælt er det folk som hev det soleis; sælt er det folk som hev Herren til Gud.
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** Herren varar alle deim som elskar honom, men alle ugudlege tyner han.
 
-**[145:21]** Min munn skal mæla um Herrens pris, og alt kjøt skal lova hans heilage namn i all æva og alltid. 
+**[145:21]** Min munn skal mæla um Herrens pris, og alt kjøt skal lova hans heilage namn i all æva og alltid.
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** Herren varar dei framande, farlause og enkjor held han uppe, men han villar vegen for dei ugudlege.
 
-**[146:10]** Herren skal vera konge æveleg, din Gud, Sion, frå ætt til ætt. Halleluja! 
+**[146:10]** Herren skal vera konge æveleg, din Gud, Sion, frå ætt til ætt. Halleluja!
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** Han hev kunngjort sitt ord for Jakob, sine fyresegner og rettar for Israel.
 
-**[147:20]** Soleis hev han ikkje gjort med noko folk, og hans rettar - deim kjenner dei ikkje. Halleluja! 
+**[147:20]** Soleis hev han ikkje gjort med noko folk, og hans rettar - deim kjenner dei ikkje. Halleluja!
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Dei skal lova Herrens namn, for berre hans namn er høgt, hans herlegdom er yver jord og himmel,
 
-**[148:14]** og han hev lyft upp eit horn for sitt folk, til ein lovsong for alle sine trugne, for Israels born, det folk som er honom nær. Halleluja! 
+**[148:14]** og han hev lyft upp eit horn for sitt folk, til ein lovsong for alle sine trugne, for Israels born, det folk som er honom nær. Halleluja!
 
 ### Chapter 149
 
@@ -34080,7 +34080,7 @@
 
 **[149:8]** til å binda deira kongar med lekkjor og deira storfolk med jarnband,
 
-**[149:9]** til å fullføra fyreskriven dom yver deim. Æra er dette for alle hans trugne. Halleluja! 
+**[149:9]** til å fullføra fyreskriven dom yver deim. Æra er dette for alle hans trugne. Halleluja!
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Lova honom med klingande cymblar, lova honom med ljomande cymblar!
 
-**[150:6]** Alt som hev ande, love Herren! Halleluja!  
+**[150:6]** Alt som hev ande, love Herren! Halleluja!
 
 ## Proverbs
 
@@ -34114,7 +34114,7 @@
 
 **[1:7]** Otte for Herren er upphav til kunnskap, uvitingar vanvyrder visdom og age.
 
-**[1:8]** Høyr etter, son min, når far din deg agar, og kasta ’kje frå deg det mor di deg lærer!
+**[1:8]** Høyr etter, son min, når far din deg agar, og kasta’kje frå deg det mor di deg lærer!
 
 **[1:9]** For det er ein yndeleg krans for ditt hovud, og kjedor kring halsen din.
 
@@ -34164,7 +34164,7 @@
 
 **[1:32]** For einvisa drep dei einfaldne, og tryggleiken dårarne tyner.
 
-**[1:33]** Men den bur trygt, som høyrer på meg, verna um ulukke-rædsla.» 
+**[1:33]** Men den bur trygt, som høyrer på meg, verna um ulukke-rædsla.»
 
 ### Chapter 2
 
@@ -34210,7 +34210,7 @@
 
 **[2:21]** for dei ærlege skal bu i landet, og dei ulastelege der skal verta att,
 
-**[2:22]** men dei ugudlege skal rydjast ut or landet, og svikarane skal verta rivne burt frå det. 
+**[2:22]** men dei ugudlege skal rydjast ut or landet, og svikarane skal verta rivne burt frå det.
 
 ### Chapter 3
 
@@ -34260,7 +34260,7 @@
 
 **[3:23]** Då vandrar du trygt din veg og støyter ikkje din fot.
 
-**[3:24]** Når du legg deg, so kvekk du ’kje upp, men du ligg og søv so godt.
+**[3:24]** Når du legg deg, so kvekk du’kje upp, men du ligg og søv so godt.
 
 **[3:25]** Du skal ikkje ottast for bråstøkk, eller uver som yver ugudlege kjem.
 
@@ -34282,7 +34282,7 @@
 
 **[3:34]** Gjeld det spottarar, so spottar han, men dei audmjuke gjev han nåde.
 
-**[3:35]** Vismenner erver æra, men dårer ber med seg skam til løn. 
+**[3:35]** Vismenner erver æra, men dårer ber med seg skam til løn.
 
 ### Chapter 4
 
@@ -34316,7 +34316,7 @@
 
 **[4:15]** Lat han vera, gakk ikkje på han, vik frå han og kom deg undan!
 
-**[4:16]** For dei søv ikkje, fær dei ’kje synda, dei misser svevnen, fær dei ikkje folk til å falla.
+**[4:16]** For dei søv ikkje, fær dei’kje synda, dei misser svevnen, fær dei ikkje folk til å falla.
 
 **[4:17]** Gudløysa er det brødet dei et og vald er den vinen dei drikk.
 
@@ -34338,7 +34338,7 @@
 
 **[4:26]** Jamna stigen for din fot, og lat alle dine vegar vera støde.
 
-**[4:27]** Vik ei til høgre eller vinstre, vend foten ifrå det vonde! 
+**[4:27]** Vik ei til høgre eller vinstre, vend foten ifrå det vonde!
 
 ### Chapter 5
 
@@ -34356,7 +34356,7 @@
 
 **[5:7]** Og no, søner, høyr på meg, og vik ikkje frå det munnen min mæler!
 
-**[5:8]** Lat din veg vera langt frå henne, kom ’kje nær til husdøri hennar!
+**[5:8]** Lat din veg vera langt frå henne, kom’kje nær til husdøri hennar!
 
 **[5:9]** Annars gjev du din vænleik til andre, åt ein hardstyrar åri dine.
 
@@ -34386,7 +34386,7 @@
 
 **[5:22]** Den gudlause vert fanga i misgjerningarne sine, hans synde-band bind honom fast.
 
-**[5:23]** Han døyr av di han ikkje let seg aga, og ved sin store dårskap tumlar han i koll. 
+**[5:23]** Han døyr av di han ikkje let seg aga, og ved sin store dårskap tumlar han i koll.
 
 ### Chapter 6
 
@@ -34428,7 +34428,7 @@
 
 **[6:19]** den som lyg og vitnar falskt, den som yppar strid millom brør.
 
-**[6:20]** Son min, tak vare på bodet åt far din, og kasta ’kje frå deg læra åt mor di!
+**[6:20]** Son min, tak vare på bodet åt far din, og kasta’kje frå deg læra åt mor di!
 
 **[6:21]** Bitt deim alltid til hjarta ditt, knyt deim um halsen din!
 
@@ -34438,7 +34438,7 @@
 
 **[6:24]** Dei kann vara deg frå den vonde kvinna, frå den sleipe framande tunga.
 
-**[6:25]** Ikkje trå i hjarta etter vænleiken hennar, og lat ho ’kje fanga deg med augneloki sine!
+**[6:25]** Ikkje trå i hjarta etter vænleiken hennar, og lat ho’kje fanga deg med augneloki sine!
 
 **[6:26]** For skjøkja armar ut til siste brødbit, og gifte kona jagtar etter dyre livet.
 
@@ -34458,7 +34458,7 @@
 
 **[6:34]** For mannen harmast i åbryskap, på hemnsdagen sparer han ikkje.
 
-**[6:35]** Han bryr seg ikkje um nokor bot og tek ’kje imot um du gjev han mykje. 
+**[6:35]** Han bryr seg ikkje um nokor bot og tek’kje imot um du gjev han mykje.
 
 ### Chapter 7
 
@@ -34482,7 +34482,7 @@
 
 **[7:10]** Då kom kvinna imot han i skjøkjebunad og innful i hjarta -
 
-**[7:11]** bråkande er ho og vill, heime hev ho ’kje ro.
+**[7:11]** bråkande er ho og vill, heime hev ho’kje ro.
 
 **[7:12]** Snart på gata, snart på torgi, med kvart hyrna stend ho på lur -
 
@@ -34514,7 +34514,7 @@
 
 **[7:26]** For mange med ulivssår hev ho felt, og stort er talet på deim ho hev drepe.
 
-**[7:27]** Hennar hus er vegar til helheim, dei gjeng ned til daudens kot. 
+**[7:27]** Hennar hus er vegar til helheim, dei gjeng ned til daudens kot.
 
 ### Chapter 8
 
@@ -34588,7 +34588,7 @@
 
 **[8:35]** For den som finn meg, finn livet og fær velsigning frå Herren.
 
-**[8:36]** Men den som missar meg, skader seg sjølv, og alle som hatar meg, elskar dauden.» 
+**[8:36]** Men den som missar meg, skader seg sjølv, og alle som hatar meg, elskar dauden.»
 
 ### Chapter 9
 
@@ -34606,7 +34606,7 @@
 
 **[9:7]** Den som refser ein spottar, fær skam yver seg, den som lastar ein gudlaus, fær seg ein flekk.
 
-**[9:8]** Lasta ’kje spottaren, han vil hata deg! Lasta den vise, han vil elska deg!
+**[9:8]** Lasta’kje spottaren, han vil hata deg! Lasta den vise, han vil elska deg!
 
 **[9:9]** Gjev ein vismann, so aukar hans visdom, lær ein rettferdig, so lærar han meir.
 
@@ -34626,7 +34626,7 @@
 
 **[9:17]** «Stole vatn er søtt, og ljuvlegt er løyn-ete brød.»
 
-**[9:18]** Og han veit ’kje at der bur daudingar, at hennar gjester er i helheims djup. 
+**[9:18]** Og han veit’kje at der bur daudingar, at hennar gjester er i helheims djup.
 
 ### Chapter 10
 
@@ -34692,7 +34692,7 @@
 
 **[10:31]** Rettferdig manns munn ber visdoms frukt, men avskori vert den falske tunga.
 
-**[10:32]** Rettferdig manns lippor søkjer hugnad, men munnen på gudlause berre fals. 
+**[10:32]** Rettferdig manns lippor søkjer hugnad, men munnen på gudlause berre fals.
 
 ### Chapter 11
 
@@ -34736,7 +34736,7 @@
 
 **[11:20]** Dei range i hugen hev Herren ein stygg til, men han likar deim som ulastande ferdast.
 
-**[11:21]** Det kann du gjeva handi på, den vonde vert ’kje urefst, men ætti åt rettferdige slepp undan.
+**[11:21]** Det kann du gjeva handi på, den vonde vert’kje urefst, men ætti åt rettferdige slepp undan.
 
 **[11:22]** Som ein gullring i eit grisetryne er ei fager kvinna utan vit.
 
@@ -34756,7 +34756,7 @@
 
 **[11:30]** Rettferdig manns frukt er eit livsens tre, og sjæler vinn den vise.
 
-**[11:31]** Du ser rettferdig mann fær vederlag på jordi, kor mykje meir då den ugudlege og syndaren! 
+**[11:31]** Du ser rettferdig mann fær vederlag på jordi, kor mykje meir då den ugudlege og syndaren!
 
 ### Chapter 12
 
@@ -34814,7 +34814,7 @@
 
 **[12:27]** Letingen steikjer ikkje si veidn, men annsemd er rikdom so dyr for menneskja.
 
-**[12:28]** På rettferds stig er liv, og gonga på vegen gjeng ikkje til dauden. 
+**[12:28]** På rettferds stig er liv, og gonga på vegen gjeng ikkje til dauden.
 
 ### Chapter 13
 
@@ -34866,7 +34866,7 @@
 
 **[13:24]** Den som sparer riset sitt, hatar son sin, men den som elskar han, tuktar honom tidleg.
 
-**[13:25]** Rettferdige hev mat til å metta seg på, men gudlause gjeng med magen tom. 
+**[13:25]** Rettferdige hev mat til å metta seg på, men gudlause gjeng med magen tom.
 
 ### Chapter 14
 
@@ -34938,7 +34938,7 @@
 
 **[14:34]** Rettferd upphøgjer eit folk, men syndi er skam for folki.
 
-**[14:35]** Kongen likar godt den kloke tenar, men harmast på den som skjemmer seg ut. 
+**[14:35]** Kongen likar godt den kloke tenar, men harmast på den som skjemmer seg ut.
 
 ### Chapter 15
 
@@ -35006,7 +35006,7 @@
 
 **[15:32]** Den som vandar age, vanvyrder si sjæl, den som høyrer på rettleiding, vinn seg vit.
 
-**[15:33]** Otte for Herren er age til visdom, og fyre æra gjeng andmykt. 
+**[15:33]** Otte for Herren er age til visdom, og fyre æra gjeng andmykt.
 
 ### Chapter 16
 
@@ -35018,7 +35018,7 @@
 
 **[16:4]** Herren hev gjort kvar ting til sitt endemål, ogso den ugudlege til uferdsdagen.
 
-**[16:5]** Kvar ovmodig er ei gruv for Herren, du kann vera viss, han skal ’kje verta urefst.
+**[16:5]** Kvar ovmodig er ei gruv for Herren, du kann vera viss, han skal’kje verta urefst.
 
 **[16:6]** Med kjærleik og truskap vert misgjerning sona ut, med otte for Herren flyr ein frå det vonde.
 
@@ -35074,7 +35074,7 @@
 
 **[16:32]** Ein tolug mann er betre enn ei kjempa, og den som styrer hugen sin, stend yver den som tek ein by.
 
-**[16:33]** Dei kastar terningen i fanget, men all hans avgjerd kjem frå Herren. 
+**[16:33]** Dei kastar terningen i fanget, men all hans avgjerd kjem frå Herren.
 
 ### Chapter 17
 
@@ -35108,7 +35108,7 @@
 
 **[17:15]** Den som frikjenner ein ugudleg og den som domfeller ein rettferdig, dei er båe tvo ein styggedom for Herren.
 
-**[17:16]** Kva skal pengar i handi på dåren? Å kjøpa visdom hev han ’kje vit til.
+**[17:16]** Kva skal pengar i handi på dåren? Å kjøpa visdom hev han’kje vit til.
 
 **[17:17]** Venen elskar alltid, og bror vert fødd til hjelp i naud.
 
@@ -35128,11 +35128,11 @@
 
 **[17:25]** Uvitug son er til gremme for far sin, og beisk sorg for henne som fødde’n.
 
-**[17:26]** Det er ’kje godt at og rettferdige fær refsing, og ei at fagna folk fær slag for det som rett er.
+**[17:26]** Det er’kje godt at og rettferdige fær refsing, og ei at fagna folk fær slag for det som rett er.
 
 **[17:27]** Den skynsame sparer på ordi, og den vituge mann er kald i hugen.
 
-**[17:28]** Um dåren tagde, gjekk han og for vismann, og for ein vitug mann når han heldt munn. 
+**[17:28]** Um dåren tagde, gjekk han og for vismann, og for ein vitug mann når han heldt munn.
 
 ### Chapter 18
 
@@ -35144,7 +35144,7 @@
 
 **[18:4]** Ordi i ein manns munn er djupe vatn, fløymande bekkjer, visdoms kjelda.
 
-**[18:5]** D’er ’kje godt når ein gjev den gudlause medhald og rengjer rettferdig manns rett.
+**[18:5]** D’er’kje godt når ein gjev den gudlause medhald og rengjer rettferdig manns rett.
 
 **[18:6]** Dåre-lippor kjem uppi trætta, og munnen hans ropar etter slag.
 
@@ -35182,7 +35182,7 @@
 
 **[18:23]** Den fatige bed og barmar seg, men den rike svarar med harde ord.
 
-**[18:24]** Ein mann med mange vener gjeng det ille, men ven kann vera trugnare enn nokon bror. 
+**[18:24]** Ein mann med mange vener gjeng det ille, men ven kann vera trugnare enn nokon bror.
 
 ### Chapter 19
 
@@ -35194,7 +35194,7 @@
 
 **[19:4]** Velstand samla mange vener, men fatigmann vert skild frå venen sin.
 
-**[19:5]** Det falske vitnet skal ’kje verta urefst, og den som andar lygn, skal ikkje sleppa undan.
+**[19:5]** Det falske vitnet skal’kje verta urefst, og den som andar lygn, skal ikkje sleppa undan.
 
 **[19:6]** Mange smeikjer den gjæve, og kvar mann er ven med den rauste.
 
@@ -35202,7 +35202,7 @@
 
 **[19:8]** Den som elskar si sjæl, han vinn seg vit, den som vaktar sitt skyn, skal finna lukka.
 
-**[19:9]** Det falske vitnet skal ’kje verta urefst, og den som andar lygn, skal tynast.
+**[19:9]** Det falske vitnet skal’kje verta urefst, og den som andar lygn, skal tynast.
 
 **[19:10]** Det høver ei for dåren å hava gode dagar, enn mindre for ein træl å råda yver hovdingar.
 
@@ -35242,7 +35242,7 @@
 
 **[19:28]** Eit nidings-vitne spottar det som rett er, og munnen på gudlause gløyper urett.
 
-**[19:29]** Refsingsdomar er ferdige for spottaren og slag for ryggen på dårar. 
+**[19:29]** Refsingsdomar er ferdige for spottaren og slag for ryggen på dårar.
 
 ### Chapter 20
 
@@ -35304,7 +35304,7 @@
 
 **[20:29]** Ei æra for ungdomar er deira kraft, og ein prydnad for dei gamle er grått hår.
 
-**[20:30]** Svidande sår reinser burt det vonde, ja, slag reinsar hjartans inste rom. 
+**[20:30]** Svidande sår reinser burt det vonde, ja, slag reinsar hjartans inste rom.
 
 ### Chapter 21
 
@@ -35368,7 +35368,7 @@
 
 **[21:30]** Det finst ingen visdom og inkje vit og ingi råd imot Herren.
 
-**[21:31]** Hesten vert budd til herferdsdagen, men sigeren kjem ifrå Herren. 
+**[21:31]** Hesten vert budd til herferdsdagen, men sigeren kjem ifrå Herren.
 
 ### Chapter 22
 
@@ -35410,7 +35410,7 @@
 
 **[22:19]** Av di du skal lita på Herren, lærer eg deg i dag, just deg.
 
-**[22:20]** Hev eg ’kje skrive fyndord til deg med råder og kunnskap
+**[22:20]** Hev eg’kje skrive fyndord til deg med råder og kunnskap
 
 **[22:21]** til å kunngjera deg det som rett er, sannings ord, so du med sannings ord kann svara deim som sender deg?
 
@@ -35428,7 +35428,7 @@
 
 **[22:28]** Flyt ikkje gamall merkestein som federne dine hev sett!
 
-**[22:29]** Ser du ein mann som er dugleg i arbeidet, han skal tena hjå kongar og ikkje hjå småfolk. 
+**[22:29]** Ser du ein mann som er dugleg i arbeidet, han skal tena hjå kongar og ikkje hjå småfolk.
 
 ### Chapter 23
 
@@ -35500,7 +35500,7 @@
 
 **[23:34]** Du vert som låg du i havsens djup, eller låg i toppen av mastri.
 
-**[23:35]** «Dei slo meg, men det gjorde ’kje vondt, dei banka meg, men eg kjende det ikkje. Når skal eg vakna? Eg vil få tak i endå meir.» 
+**[23:35]** «Dei slo meg, men det gjorde’kje vondt, dei banka meg, men eg kjende det ikkje. Når skal eg vakna? Eg vil få tak i endå meir.»
 
 ### Chapter 24
 
@@ -35558,7 +35558,7 @@
 
 **[24:27]** Fullfør yrket ditt ute, og gjer det ferdigt for deg på marki! Sidan kann du byggja deg hus
 
-**[24:28]** ver ikkje vitne mot næsten din utan grunn, for du vil vel ’kje svika med lipporne dine?
+**[24:28]** ver ikkje vitne mot næsten din utan grunn, for du vil vel’kje svika med lipporne dine?
 
 **[24:29]** Seg ikkje: «Som han hev gjort med meg, so vil eg gjera med han. Eg vil løna mannen etter hans gjerning.»
 
@@ -35570,7 +35570,7 @@
 
 **[24:33]** «Endå litt soving, endå litt blunding, endå litt kvild med henderne i kross!
 
-**[24:34]** So kjem armodi di som ein farande fant, og naudi som skjoldvæpna mann.» 
+**[24:34]** So kjem armodi di som ein farande fant, og naudi som skjoldvæpna mann.»
 
 ### Chapter 25
 
@@ -35628,7 +35628,7 @@
 
 **[25:27]** Eta for mykje honning er ikkje godt, men å granska det vandaste er ei æra.
 
-**[25:28]** Som ein by med murarne brotne og burte er mannen som ikkje kann styra sin hug. 
+**[25:28]** Som ein by med murarne brotne og burte er mannen som ikkje kann styra sin hug.
 
 ### Chapter 26
 
@@ -35686,7 +35686,7 @@
 
 **[26:27]** Den som grev ei grav, skal stupa nedi, den som velter ein stein, skal få han yver seg att.
 
-**[26:28]** Den falske tunga hatar deim som ho hev krasa, og den sleipe munnen fører til fall. 
+**[26:28]** Den falske tunga hatar deim som ho hev krasa, og den sleipe munnen fører til fall.
 
 ### Chapter 27
 
@@ -35742,7 +35742,7 @@
 
 **[27:26]** då hev du lamb til klæde, og bukkar til å kjøpa deg åker for,
 
-**[27:27]** og geitemjølk nok til mat for deg, til mat for huset ditt og til livsupphald for gjentorne dine. 
+**[27:27]** og geitemjølk nok til mat for deg, til mat for huset ditt og til livsupphald for gjentorne dine.
 
 ### Chapter 28
 
@@ -35786,9 +35786,9 @@
 
 **[28:20]** Ein trufast mann fær rik velsigning, men den som renner etter rikdom, vert ei urefst.
 
-**[28:21]** Det er ’kje godt når ein gjer mannemun, men mang ein mann vert brotsmann for ein brødbit.
+**[28:21]** Det er’kje godt når ein gjer mannemun, men mang ein mann vert brotsmann for ein brødbit.
 
-**[28:22]** I bråhast vil den ovundsjuke verta rik, og han veit ’kje at vanråd vil koma på han.
+**[28:22]** I bråhast vil den ovundsjuke verta rik, og han veit’kje at vanråd vil koma på han.
 
 **[28:23]** Den som refser ein mann, vinn seg takk til slutt meir enn den som smeikjer med tunga si.
 
@@ -35800,7 +35800,7 @@
 
 **[28:27]** Den som gjev den fatige, vantar inkje, men den som let att augo, fær mykje banning yver seg.
 
-**[28:28]** Når gudlause kjem seg upp, då gøymer folk seg, men når dei gjeng til grunns, då aukar dei rettferdige. 
+**[28:28]** Når gudlause kjem seg upp, då gøymer folk seg, men når dei gjeng til grunns, då aukar dei rettferdige.
 
 ### Chapter 29
 
@@ -35820,7 +35820,7 @@
 
 **[29:8]** Spottarar øser upp ein by, men vismenner stiller vreiden.
 
-**[29:9]** Når vismann fører sak mot dåren, vert dåren sinna og lær, og kann ’kje vera still.
+**[29:9]** Når vismann fører sak mot dåren, vert dåren sinna og lær, og kann’kje vera still.
 
 **[29:10]** Dei blodfuse hatar ein skuldlaus mann, og stend dei ærlege etter livet.
 
@@ -35840,7 +35840,7 @@
 
 **[29:18]** Utan profetsyn vert folket vilt, men sæl er den som held lovi.
 
-**[29:19]** Med ord let trælen seg ikkje tukta, for han skynar deim vel, men bryr seg ’kje um deim.
+**[29:19]** Med ord let trælen seg ikkje tukta, for han skynar deim vel, men bryr seg’kje um deim.
 
 **[29:20]** Ser du ein mann som er snar til å tala, dåren gjev større von enn han.
 
@@ -35856,7 +35856,7 @@
 
 **[29:26]** Mange vil te seg fram for ein styrar, men frå Herren fær kvar mann sin rett.
 
-**[29:27]** Ein styggedom for rettferdige er ein urettferdig mann, og ein styggedom for den gudlause er den som fer ærleg fram. 
+**[29:27]** Ein styggedom for rettferdige er ein urettferdig mann, og ein styggedom for den gudlause er den som fer ærleg fram.
 
 ### Chapter 30
 
@@ -35900,7 +35900,7 @@
 
 **[30:20]** Soleis ber utru kona seg åt: Ho et og turkar seg um munnen og segjer: «Eg hev ikkje gjort noko vondt.»
 
-**[30:21]** Under tri skjelv jordi, under fire kann ho ’kje herda:
+**[30:21]** Under tri skjelv jordi, under fire kann ho’kje herda:
 
 **[30:22]** under trælen når han vert konge, og dåren når han fær eta seg mett,
 
@@ -35908,9 +35908,9 @@
 
 **[30:24]** Fire finst det som er små på jordi, og endå hev dei fenge visdom stor:
 
-**[30:25]** Mauren er ’kje noko sterkt folk, og endå lagar han sin mat um sumaren.
+**[30:25]** Mauren er’kje noko sterkt folk, og endå lagar han sin mat um sumaren.
 
-**[30:26]** Fjellgrevlingarne er ’kje noko veldugt folk, og endå byggjer dei seg hus i berget.
+**[30:26]** Fjellgrevlingarne er’kje noko veldugt folk, og endå byggjer dei seg hus i berget.
 
 **[30:27]** Grashopparne hev ingen konge, og endå fær dei alle ut i fylking.
 
@@ -35924,7 +35924,7 @@
 
 **[30:32]** Gjer du deg stor, anten narr eller klårtenkt, so legg handi på munnen!
 
-**[30:33]** For trykk på mjølk gjev smør, og trykk på nase gjev blod, og trykk på vreide gjev strid. 
+**[30:33]** For trykk på mjølk gjev smør, og trykk på nase gjev blod, og trykk på vreide gjev strid.
 
 ### Chapter 31
 
@@ -35962,7 +35962,7 @@
 
 **[31:17]** Kraft ho bind seg til belte um livet og gjer sine armar sterke.
 
-**[31:18]** Ho merkar at hushaldet hennar gjeng godt, då sloknar ’kje lampa hennar um natti.
+**[31:18]** Ho merkar at hushaldet hennar gjeng godt, då sloknar’kje lampa hennar um natti.
 
 **[31:19]** Ho retter henderne ut etter rokken, og fingrarne tek til teinen.
 
@@ -35988,7 +35988,7 @@
 
 **[31:30]** Vænleik er fals og fagerskap fåfengd; ei kona som ottast Herren, skal prisast.
 
-**[31:31]** Lat ho få det ho vann med henderne sine, og pris i portarne av sine verk.  
+**[31:31]** Lat ho få det ho vann med henderne sine, og pris i portarne av sine verk.
 
 ## Ecclesiastes
 
@@ -36028,7 +36028,7 @@
 
 **[1:17]** Eg lagde hugen på å skyna visdomen og skyna vitløysa og dårskap. Men eg skyna at det var jag etter vind det og.
 
-**[1:18]** For med mykje visdom du mykje gremmest, og aukar du kunnskap, so aukar du kvida. 
+**[1:18]** For med mykje visdom du mykje gremmest, og aukar du kunnskap, so aukar du kvida.
 
 ### Chapter 2
 
@@ -36082,7 +36082,7 @@
 
 **[2:25]** For kven kann eta og kven kann njota noko utan honom?
 
-**[2:26]** For den mannen som er honom til hugnad, gjev han visdom og kunnskap og gleda. Men den som syndar, gjev han strævet med å samla og draga i hop so den som er til hugnad for Gud kann få det. Det og er fåfengd og jag etter vind. 
+**[2:26]** For den mannen som er honom til hugnad, gjev han visdom og kunnskap og gleda. Men den som syndar, gjev han strævet med å samla og draga i hop so den som er til hugnad for Gud kann få det. Det og er fåfengd og jag etter vind.
 
 ### Chapter 3
 
@@ -36128,7 +36128,7 @@
 
 **[3:21]** Kven veit um åndi åt menneski stig uppetter, og um åndi åt dyri fer ned til jordi?»
 
-**[3:22]** So skyna eg at ingen ting er betre enn at mannen er glad i arbeidet sitt, for det er hans lut. For kven kann føra honom so langt, at han ser inn i det som skal koma etter honom? 
+**[3:22]** So skyna eg at ingen ting er betre enn at mannen er glad i arbeidet sitt, for det er hans lut. For kven kann føra honom so langt, at han ser inn i det som skal koma etter honom?
 
 ### Chapter 4
 
@@ -36162,7 +36162,7 @@
 
 **[4:15]** Eg såg alle livande som ferdast under soli fylgja med ungdomen, han den andre som skulde koma i staden for hin.
 
-**[4:16]** Det var ingen ende på alt folket, alle dei som han var førar for. Like vel er dei ikkje glade i honom, dei som sidan kom. Nei, det og er fåfengd og jag etter vind. Agta foten din når du gjeng til Guds hus! Det er betre at ein held seg nær og høyrer enn at dårar ber fram slagtoffer; for dei gjer vondt av di dei ikkje veit. 
+**[4:16]** Det var ingen ende på alt folket, alle dei som han var førar for. Like vel er dei ikkje glade i honom, dei som sidan kom. Nei, det og er fåfengd og jag etter vind. Agta foten din når du gjeng til Guds hus! Det er betre at ein held seg nær og høyrer enn at dårar ber fram slagtoffer; for dei gjer vondt av di dei ikkje veit.
 
 ### Chapter 5
 
@@ -36202,7 +36202,7 @@
 
 **[5:18]** Og so tidt Gud gjev ein mann rikdom og skattar og attpå gjer honom før til å njota godt av det og taka sin lut og gleda seg i møda si, so er det ei gåva frå Gud.
 
-**[5:19]** For då tenkjer han ikkje so mykje på livedagarne sine, av di Gud gjev honom nok å gjera med hjartegleda hans. 
+**[5:19]** For då tenkjer han ikkje so mykje på livedagarne sine, av di Gud gjev honom nok å gjera med hjartegleda hans.
 
 **[5:20]** 
 
@@ -36230,7 +36230,7 @@
 
 **[6:11]** For det finst ein ordrikdom som berre aukar fåfengdi, kva gagn hev mannen av det?
 
-**[6:12]** For kven veit kva som er godt for mannen i livet, i alle hans fåfengde livedagar som han fer igjenom som ein skugge? Og kven segjer med mannen kva som skal henda under soli etter hans tid? 
+**[6:12]** For kven veit kva som er godt for mannen i livet, i alle hans fåfengde livedagar som han fer igjenom som ein skugge? Og kven segjer med mannen kva som skal henda under soli etter hans tid?
 
 ### Chapter 7
 
@@ -36290,7 +36290,7 @@
 
 **[7:28]** Det som eg stødt hev leita etter, men ikkje funne, det er: Ein mann millom tusund hev eg funne, men ei kvinna hev eg ikkje funne millom alle deim.
 
-**[7:29]** Berre dette hev eg funne ut, skal du vita, at Gud hev skapt menneskja rett, men dei søkjer mange krokar. 
+**[7:29]** Berre dette hev eg funne ut, skal du vita, at Gud hev skapt menneskja rett, men dei søkjer mange krokar.
 
 ### Chapter 8
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** Når eg lagde hugen på å få kjenna visdom og å sjå det strævet som dei stræver med på jordi - for korkje dag eller natt fær dei blund på augo -
 
-**[8:17]** då såg eg at det er so med alt Guds verk, at menneskja ikkje kann grunda ut det som hender under soli. For alt det menneskja strævar med å granska det ut, fær ho ikkje tak i det, ja, um ein vismann tenkjer at han skal skyna det, so kann han ikkje grunda det ut. 
+**[8:17]** då såg eg at det er so med alt Guds verk, at menneskja ikkje kann grunda ut det som hender under soli. For alt det menneskja strævar med å granska det ut, fær ho ikkje tak i det, ja, um ein vismann tenkjer at han skal skyna det, so kann han ikkje grunda det ut.
 
 ### Chapter 9
 
@@ -36364,7 +36364,7 @@
 
 **[9:17]** Vismanna-ord som ein høyrer i ro, er betre enn hovdings skrik millom dårar.
 
-**[9:18]** Visdom er betre enn våpn, men ein syndar kann tyna mykje godt. 
+**[9:18]** Visdom er betre enn våpn, men ein syndar kann tyna mykje godt.
 
 ### Chapter 10
 
@@ -36406,7 +36406,7 @@
 
 **[10:19]** Til gaman held dei gilde, og vin gjev livet gleda, og pengar greider alt.
 
-**[10:20]** Ikkje ein gong i tankarne må du banna ein konge, og ikkje i ditt sengrom banna ein rikmann. For himmelens fuglar ber ljoden burt, og dei fløygde melder din tala. 
+**[10:20]** Ikkje ein gong i tankarne må du banna ein konge, og ikkje i ditt sengrom banna ein rikmann. For himmelens fuglar ber ljoden burt, og dei fløygde melder din tala.
 
 ### Chapter 11
 
@@ -36428,7 +36428,7 @@
 
 **[11:9]** Gled deg, du ungdom, med du er ung, ver godt i laget i ungdoms-åri, og far dei vegar som hugen vil, og fylg det som lokkar augo. Men det skal du vita at for alt dette vil Gud draga deg til doms.
 
-**[11:10]** Få gremmelse ut or hugen din, haldt liding burte frå likamen din! for ungdom og morgonrode er fåfengd. 
+**[11:10]** Få gremmelse ut or hugen din, haldt liding burte frå likamen din! for ungdom og morgonrode er fåfengd.
 
 ### Chapter 12
 
@@ -36458,7 +36458,7 @@
 
 **[12:13]** Endelykti er dette, når du hev høyrt alt: Ottast Gud og haldt hans bodord! Det er målet for alle menneskje.
 
-**[12:14]** For kvar gjerning vil Gud føra fram for domen yver alt det som løynt er, anten det so er godt eller vondt.  
+**[12:14]** For kvar gjerning vil Gud føra fram for domen yver alt det som løynt er, anten det so er godt eller vondt.
 
 ## Song of Solomon
 
@@ -36496,7 +36496,7 @@
 
 **[1:16]** «Å, kor du er fager, min ven, kor du er ljuv. Og vårt lægje er grønt.
 
-**[1:17]** Cedrar er bjelkarn’ i vårt hus, cypressar er himling.» 
+**[1:17]** Cedrar er bjelkarn’ i vårt hus, cypressar er himling.»
 
 ### Chapter 2
 
@@ -36532,7 +36532,7 @@
 
 **[2:16]** Min ven er min, og eg er hans, han som gjæter millom liljor.»
 
-**[2:17]** «Skrid du, min ven, til dagen vert sval, og skuggarne flyr, ei gasella lik eller ungan hjort uppi skardefjellom.» 
+**[2:17]** «Skrid du, min ven, til dagen vert sval, og skuggarne flyr, ei gasella lik eller ungan hjort uppi skardefjellom.»
 
 ### Chapter 3
 
@@ -36542,7 +36542,7 @@
 
 **[3:3]** Eg vaktar møtte, som i byen sveiv. «Hev de set han som leikar i min hug?»
 
-**[3:4]** Snaudt hadd’ eg kome framum deim, då eg fann han som leikar i min hug. Eg heldt han og eg slepte han ’kje laus, fyrr eg fekk han i huset hennar mor, inn i kleven hennar som meg åtte.
+**[3:4]** Snaudt hadd’ eg kome framum deim, då eg fann han som leikar i min hug. Eg heldt han og eg slepte han’kje laus, fyrr eg fekk han i huset hennar mor, inn i kleven hennar som meg åtte.
 
 **[3:5]** Eg hjarteleg bed dykk, Jerusalems døtter, ved gasellor og hindar i skog, at ikkje de vekkje eller eggje kjærleik, fyrr sjølv han so vil.»
 
@@ -36556,7 +36556,7 @@
 
 **[3:10]** Han av sylv heve stolparne gjort og karmen av gull, der er purpurlagd sess. Inni prydd - ei kjærleiksgåva frå Jerusalems døtter.
 
-**[3:11]** Gakk ut og sjå, de Sions døtter, på kong Salomo, med kruna han fekk av si mor på sin brudlaupsdag, på sin hjarte-fagnads dag.» 
+**[3:11]** Gakk ut og sjå, de Sions døtter, på kong Salomo, med kruna han fekk av si mor på sin brudlaupsdag, på sin hjarte-fagnads dag.»
 
 ### Chapter 4
 
@@ -36590,7 +36590,7 @@
 
 **[4:15]** som ei hagekjelda, ein brunn med rennande vatn, med tilsig frå Libanon.»
 
-**[4:16]** «Vakna, nordanvind, kom, du sunnanvind, gjenom hagen min blås, so angen fær strøyma, og venen til hagen sin kjem og et si kostelege frukt!» 
+**[4:16]** «Vakna, nordanvind, kom, du sunnanvind, gjenom hagen min blås, so angen fær strøyma, og venen til hagen sin kjem og et si kostelege frukt!»
 
 ### Chapter 5
 
@@ -36624,7 +36624,7 @@
 
 **[5:15]** Føterne marmor-stolpar på fine gull-stettar. Som Libanon er han å sjå, som ein ceder traust.
 
-**[5:16]** Hans munn er søt, hugnad er han all. Slik er venen og felagen min, de Jerusalems døtter.» 
+**[5:16]** Hans munn er søt, hugnad er han all. Slik er venen og felagen min, de Jerusalems døtter.»
 
 ### Chapter 6
 
@@ -36650,9 +36650,9 @@
 
 **[6:11]** «Eg gjekk ned i natahagen, vilde sjå kor det grønkast i dale, vilde sjå um vintreet spratt, um granateple-treet bar blom.
 
-**[6:12]** Eg visste ’kje av, fyrr hugen meg drog og meg sette på mitt gjæve folks vogn.»
+**[6:12]** Eg visste’kje av, fyrr hugen meg drog og meg sette på mitt gjæve folks vogn.»
 
-**[6:13]** «Å, snu deg, snu deg, Sulammit! Snu deg, snu deg, so me deg ser.» «Kva er det å sjå på Sulammit?» «Ein dans som i Mahanajim.» 
+**[6:13]** «Å, snu deg, snu deg, Sulammit! Snu deg, snu deg, so me deg ser.» «Kva er det å sjå på Sulammit?» «Ein dans som i Mahanajim.»
 
 ### Chapter 7
 
@@ -36680,7 +36680,7 @@
 
 **[7:12]** Og i otta inni vingardom sjå, um vintreet sprett, um knupparne spring, um granattreet blømer! Der vil eg gjeva min elsk til deg.
 
-**[7:13]** Frå kjærleiks-epli strøymer ein fræn, alle slag frukt er ved dørom. Nye og gamle, min ven, hev eg gøymt til deg. 
+**[7:13]** Frå kjærleiks-epli strøymer ein fræn, alle slag frukt er ved dørom. Nye og gamle, min ven, hev eg gøymt til deg.
 
 ### Chapter 8
 
@@ -36710,7 +36710,7 @@
 
 **[8:13]** Du som bur inni hagom, felager lyder, lat meg høyra ditt mål!»
 
-**[8:14]** «Å fly, du min ven, ei gasella lik eller ungan hjort på dei angande fjellom!»  
+**[8:14]** «Å fly, du min ven, ei gasella lik eller ungan hjort på dei angande fjellom!»
 
 ## Isaiah
 
@@ -36776,7 +36776,7 @@
 
 **[1:30]** For de skal verta som ei eik med visnande lauv og som ein hage utan vatn.
 
-**[1:31]** Og den sterke skal verta til stry og hans verk til ein gneiste, og dei brenn båe til saman, og ingen sløkkjer. 
+**[1:31]** Og den sterke skal verta til stry og hans verk til ein gneiste, og dei brenn båe til saman, og ingen sløkkjer.
 
 ### Chapter 2
 
@@ -36822,7 +36822,7 @@
 
 **[2:21]** Og dei skal fly inn i fjellskortor og skard for Herrens rædsla og for hans høgvelde og herlegdom, når han reiser seg og skræmer jordi.
 
-**[2:22]** So set ikkje lenger dykkar lit til menneskja, som berre eig ein liten livspust i nosi si! Kva er ho å bry seg um? 
+**[2:22]** So set ikkje lenger dykkar lit til menneskja, som berre eig ein liten livspust i nosi si! Kva er ho å bry seg um?
 
 ### Chapter 3
 
@@ -36876,7 +36876,7 @@
 
 **[3:25]** Mennerne dine skal falla for sverd og kjemporne dine i krig.
 
-**[3:26]** Og portarne hennar skal gråta og låta, og einsleg sit ho att i gruset.» 
+**[3:26]** Og portarne hennar skal gråta og låta, og einsleg sit ho att i gruset.»
 
 ### Chapter 4
 
@@ -36890,7 +36890,7 @@
 
 **[4:5]** Og yver alt Sions-fjell og møtelydarne der skal Herren skapa ei sky og ein røyk um dagen og skinet av ein logande eld um natti; for yver all herlegdomen skal det vera ein kvelv.
 
-**[4:6]** Og ei hytta skal vera til livd mot dagsens hite og til vern og berging mot uver og regn. 
+**[4:6]** Og ei hytta skal vera til livd mot dagsens hite og til vern og berging mot uver og regn.
 
 ### Chapter 5
 
@@ -36952,7 +36952,7 @@
 
 **[5:29]** Han burar som løva, han murrar som ungløvorne; burande grip han sitt rov og ber det burt, og det er ingen som bergar.
 
-**[5:30]** Det durar inn yver honom på den dagen som duren av havet; og skodar han på jordi, so er det myrker og naud, ljoset vert dimt under dei tunge skyer! 
+**[5:30]** Det durar inn yver honom på den dagen som duren av havet; og skodar han på jordi, so er det myrker og naud, ljoset vert dimt under dei tunge skyer!
 
 ### Chapter 6
 
@@ -36980,7 +36980,7 @@
 
 **[6:12]** til dess Herren hev sendt folket langt burt, og øydestaderne hev vorte mange i landet.
 
-**[6:13]** Og finst det endå att ein tiandepart, so skal den og øydast ut liksom ei terebinta eller ei eik, som berre rotstuven er att av, når dei vert nedhogne. Denne stuven skal vera eit heilagt sæde.» 
+**[6:13]** Og finst det endå att ein tiandepart, so skal den og øydast ut liksom ei terebinta eller ei eik, som berre rotstuven er att av, når dei vert nedhogne. Denne stuven skal vera eit heilagt sæde.»
 
 ### Chapter 7
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** Med piler og bogar skal ein ganga dit; for alt landet ber torn og tistel.
 
-**[7:25]** Og alle dei berg der dei no onnar med hakka, skal ingen meir setja sin fot på av otte for torn og tistel; dei skal verta hamnegangar åt uksar, og utmark som vert nedtrakka av sauer.» 
+**[7:25]** Og alle dei berg der dei no onnar med hakka, skal ingen meir setja sin fot på av otte for torn og tistel; dei skal verta hamnegangar åt uksar, og utmark som vert nedtrakka av sauer.»
 
 ### Chapter 8
 
@@ -37078,7 +37078,7 @@
 
 **[8:21]** Dei skal flakka umkring i landet plåga og hungrande, og i sin hunger skal dei harmast og banna sin konge og sin Gud. Og dei skal skoda upp,
 
-**[8:22]** og dei skal skoda ned på jordi; men sjå, der er naud og natt og myrker og angest. Ut i svarte natti er dei drivne. 
+**[8:22]** og dei skal skoda ned på jordi; men sjå, der er naud og natt og myrker og angest. Ut i svarte natti er dei drivne.
 
 ### Chapter 9
 
@@ -37122,7 +37122,7 @@
 
 **[9:20]** Dei høgg til høgre og hungrar endå, dei glefser til vinstre og vert ikkje mette; kvar og ein et holdet av sin eigen arm:
 
-**[9:21]** Manasse et Efraim og Efraim Manasse; og båe tvo til saman kastar seg yver Juda. Men med alt dette hev ikkje vreiden hans vendt seg, og endå retter han ut handi. 
+**[9:21]** Manasse et Efraim og Efraim Manasse; og båe tvo til saman kastar seg yver Juda. Men med alt dette hev ikkje vreiden hans vendt seg, og endå retter han ut handi.
 
 ### Chapter 10
 
@@ -37192,7 +37192,7 @@
 
 **[10:33]** Sjå, Herren, Allhers-Herren, høgg kruna av med gruveleg kraft; dei rake stomnar er felte; dei røslege tre ligg brotne i bakken.
 
-**[10:34]** Den tjukke skogen vert nedhoggen med øksi. Libanon fell for den herlege. 
+**[10:34]** Den tjukke skogen vert nedhoggen med øksi. Libanon fell for den herlege.
 
 ### Chapter 11
 
@@ -37226,7 +37226,7 @@
 
 **[11:15]** Og Herren skal turka upp viki av Egyptarhavet, og i brennande harm svinga handi yver elvi, og han skal kløyva henne i sju bekkjer, so ein kann ganga turrskodd yver.
 
-**[11:16]** So skal det verta ein brøytt veg for leivningen av folket hans, som er att frå Assyria, liksom det var for Israel den dagen dei drog upp frå Egyptarland. 
+**[11:16]** So skal det verta ein brøytt veg for leivningen av folket hans, som er att frå Assyria, liksom det var for Israel den dagen dei drog upp frå Egyptarland.
 
 ### Chapter 12
 
@@ -37240,7 +37240,7 @@
 
 **[12:5]** Syng lov for Herren, for storverk hev han gjort! Lat heile verdi få vita det!
 
-**[12:6]** Ropa av frygd og fagnad, de som bur på Sion! For stor er Israels Heilage hjå dykk!» 
+**[12:6]** Ropa av frygd og fagnad, de som bur på Sion! For stor er Israels Heilage hjå dykk!»
 
 ### Chapter 13
 
@@ -37286,7 +37286,7 @@
 
 **[13:21]** Men villdyr skal liggja der, og husi fyllast av hubro; strutsar skal bu der, og raggetroll hoppa ikring.
 
-**[13:22]** Ulvar skal yla i borgerne og sjakalar i vellyst-slotti. Snart stundar timen til, og dagarne skal ikkje drygast ut. 
+**[13:22]** Ulvar skal yla i borgerne og sjakalar i vellyst-slotti. Snart stundar timen til, og dagarne skal ikkje drygast ut.
 
 ### Chapter 14
 
@@ -37312,7 +37312,7 @@
 
 **[14:11]** Ned til helheimen hev din herlegdom sokke med brusen frå dine harpor; du ligg på ei roti lega, hev makkar til yverbreidsla.
 
-**[14:12]** Kor er du ’kje fallen frå himmelen, du strålande morgonstjerna, kor er du ikkje felt til jordi, du som slo ned folkeslag!
+**[14:12]** Kor er du’kje fallen frå himmelen, du strålande morgonstjerna, kor er du ikkje felt til jordi, du som slo ned folkeslag!
 
 **[14:13]** Det var du som sagde i hjarta ditt: «Eg vil stiga til himmels, høgt yver Guds stjernor vil eg reisa kongsstolen min. Eg vil setja meg på Tingfjellet lengst uppe i nord!
 
@@ -37352,7 +37352,7 @@
 
 **[14:31]** Jamra deg, du port! øya deg, du by! Miss modet, alt Filistarland! For nordan ifrå kjem ein røyk! i fiendeskararne dreg ingen seg att-or.
 
-**[14:32]** Kva skal ein då svara sendemennerne frå heidningfolki? At Herren hev grunnfest Sion, og at der finn armingarne i folket hans livd. 
+**[14:32]** Kva skal ein då svara sendemennerne frå heidningfolki? At Herren hev grunnfest Sion, og at der finn armingarne i folket hans livd.
 
 ### Chapter 15
 
@@ -37372,7 +37372,7 @@
 
 **[15:8]** Ja, klageropi gjeng yver alt Moabs land; til Eglajim når deira våling, og til Be’er-Elim når deira våling.
 
-**[15:9]** For Dimonsvatnet er fullt av blod. Og endå meir let eg koma yver Dimon: ei løva yver deim som er berga av Moab, yver leivningen i landet. 
+**[15:9]** For Dimonsvatnet er fullt av blod. Og endå meir let eg koma yver Dimon: ei løva yver deim som er berga av Moab, yver leivningen i landet.
 
 ### Chapter 16
 
@@ -37402,7 +37402,7 @@
 
 **[16:13]** Dette er det ordet som Herren fordom hev tala til Moab.
 
-**[16:14]** Men no talar Herren so: Innan tri år - so som ein leigekar reknar åri - skal Moabs herlegdom og all hans store folkesverm vera lite vyrd, og leivningen som er att, skal vera liten og vesall, ikkje mykje verd. 
+**[16:14]** Men no talar Herren so: Innan tri år - so som ein leigekar reknar åri - skal Moabs herlegdom og all hans store folkesverm vera lite vyrd, og leivningen som er att, skal vera liten og vesall, ikkje mykje verd.
 
 ### Chapter 17
 
@@ -37432,7 +37432,7 @@
 
 **[17:13]** Ja, det dyn av folkeslag som når store vatn dynja. Men han trugar deim, og dei flyr langt burt; dei vert føykte som agner for vind på fjelli, dei kverv som fjom i storm.
 
-**[17:14]** Um kvelden, sjå då er det rædsla, og innan morgonen lyser, er han ikkje meir til. Soleis gjeng det deim som plundrar oss, dette er luten åt deim som ranar hjå oss. 
+**[17:14]** Um kvelden, sjå då er det rædsla, og innan morgonen lyser, er han ikkje meir til. Soleis gjeng det deim som plundrar oss, dette er luten åt deim som ranar hjå oss.
 
 ### Chapter 18
 
@@ -37448,7 +37448,7 @@
 
 **[18:6]** Dei skal alle saman verta gjevne åt rovfuglarne på fjelli og åt dyri i marki; rovfuglarne skal der hava reiri sine um sumaren, og alle dyr på marki skal hava sitt tilhald der um vinteren.
 
-**[18:7]** På den tidi skal det berast gåvor fram til Herren, allhers drott, frå det røslege folket med glansande hud, frå folket som dei ottast vida ikring, det sterke og sigersæle folket i det landet som vert gjenomskore av elvar - til den staden der namnet åt Herren, allhers drott, bur, til Sionsfjellet. 
+**[18:7]** På den tidi skal det berast gåvor fram til Herren, allhers drott, frå det røslege folket med glansande hud, frå folket som dei ottast vida ikring, det sterke og sigersæle folket i det landet som vert gjenomskore av elvar - til den staden der namnet åt Herren, allhers drott, bur, til Sionsfjellet.
 
 ### Chapter 19
 
@@ -37500,7 +37500,7 @@
 
 **[19:24]** På den dagen skal Israel vera tridjemann i sambandet med Egyptarland og Assyria, ei velsigning midt på jordi,
 
-**[19:25]** for di Herren, allhers drott, signar deim og segjer: Signa vere du Egypt, mitt folk, og du Assyria, verket av mine hender, og du Israel, min arv. 
+**[19:25]** for di Herren, allhers drott, signar deim og segjer: Signa vere du Egypt, mitt folk, og du Assyria, verket av mine hender, og du Israel, min arv.
 
 ### Chapter 20
 
@@ -37514,7 +37514,7 @@
 
 **[20:5]** Då skal dei verta forfælte og skjemmast yver Ætiopia, som var voni deira, og yver Egyptarland, som dei rosa seg av.
 
-**[20:6]** Og dei som bur på denne strandi, skal segja på den dagen: «Soleis gjekk det med deim me studde oss til, med deim me flydde til i von um hjelp imot assyrarkongen. Korleis kann då me koma undan?»» 
+**[20:6]** Og dei som bur på denne strandi, skal segja på den dagen: «Soleis gjekk det med deim me studde oss til, med deim me flydde til i von um hjelp imot assyrarkongen. Korleis kann då me koma undan?»»
 
 ### Chapter 21
 
@@ -37550,7 +37550,7 @@
 
 **[21:16]** For soleis hev Herren sagt til meg: Um eit år, so som leigekaren reknar året, skal det vera ute med all herlegdomen åt Kedar.
 
-**[21:17]** Og lite skal det då vera att av bogarne åt kjemporne i Kedar. For Herren, Israels Gud, hev tala. 
+**[21:17]** Og lite skal det då vera att av bogarne åt kjemporne i Kedar. For Herren, Israels Gud, hev tala.
 
 ### Chapter 22
 
@@ -37602,7 +37602,7 @@
 
 **[22:24]** Men so framt heile tyngdi av farshuset hengjer seg på honom med alle sine ætlingar og frendar - alle småkjerald, frå fati til leirkrukkorne -
 
-**[22:25]** På den dagen, segjer Herren, allhers drott, skal spikaren i den faste veggen losna, han skal ganga av og detta ned, og byrdi som hekk på honom, skal krasast. For Herren hev tala.» 
+**[22:25]** På den dagen, segjer Herren, allhers drott, skal spikaren i den faste veggen losna, han skal ganga av og detta ned, og byrdi som hekk på honom, skal krasast. For Herren hev tala.»
 
 ### Chapter 23
 
@@ -37640,7 +37640,7 @@
 
 **[23:17]** Når dei sytti åri er lidne, skal Herren gjesta Tyrus, og ho skal atter få fara til å taka imot skjøkjeløn og driva utukt med alle kongeriki på den vide jord.
 
-**[23:18]** Men handelsvinsten hennar og skjøkjeløni skal verta helga åt Herren. Det skal ikkje leggjast upp eller gøymast, men dei som bur for Herrens åsyn, skal av denne vinsten hava rikeleg føda og prydelege klæde. 
+**[23:18]** Men handelsvinsten hennar og skjøkjeløni skal verta helga åt Herren. Det skal ikkje leggjast upp eller gøymast, men dei som bur for Herrens åsyn, skal av denne vinsten hava rikeleg føda og prydelege klæde.
 
 ### Chapter 24
 
@@ -37688,7 +37688,7 @@
 
 **[24:22]** og dei skal sankast som fangar i hola og setjast fast i fangehuset, og etter mange dagar skal dei få si straff.
 
-**[24:23]** Og månen skal blygjast og soli skjemmast. For Herren, allhers drott, råder på Sionsfjellet og i Jerusalem, og framfor augo på hans styresmenner er det herlegdom. 
+**[24:23]** Og månen skal blygjast og soli skjemmast. For Herren, allhers drott, råder på Sionsfjellet og i Jerusalem, og framfor augo på hans styresmenner er det herlegdom.
 
 ### Chapter 25
 
@@ -37714,7 +37714,7 @@
 
 **[25:11]** Og han skal breida ut henderne i det liksom ein symjar breider deim ut og vil symja. Men han skal stagga storlætet hans til tråss for sløgdi av hans hender.
 
-**[25:12]** Og dei høgmura borgerne dine skal han riva ned, grunnsturta, jamna med jordi so dei ligg i dusti.» 
+**[25:12]** Og dei høgmura borgerne dine skal han riva ned, grunnsturta, jamna med jordi so dei ligg i dusti.»
 
 ### Chapter 26
 
@@ -37758,7 +37758,7 @@
 
 **[26:20]** Gakk då, mitt folk, inn i kovarne dine, og lat att dørerne etter deg! Gøym deg ein augneblink, til dess vreiden gjeng yver.
 
-**[26:21]** For sjå, Herren gjeng ut frå bustaden sin og vil heimsøkja jordbuarne for deira misgjerder skuld, og jordi skal syna fram sitt utrende blod og ikkje meir dylja sine drepne. 
+**[26:21]** For sjå, Herren gjeng ut frå bustaden sin og vil heimsøkja jordbuarne for deira misgjerder skuld, og jordi skal syna fram sitt utrende blod og ikkje meir dylja sine drepne.
 
 ### Chapter 27
 
@@ -37786,7 +37786,7 @@
 
 **[27:12]** Og det skal henda på den dagen, at Herren skal halda ei frukthausting alt frå Storelvi til Egyptarlands-bekken, og de, Israels born, skal verte sanka, ein for ein.
 
-**[27:13]** Og det skal henda på den dagen at dei skal blåsa i ein stor lur, og då skal dei koma dei burtkomne i Assurs land og dei burtdrivne i Egyptarlandet, og dei skal tilbeda Herren på det heilage fjellet i Jerusalem. 
+**[27:13]** Og det skal henda på den dagen at dei skal blåsa i ein stor lur, og då skal dei koma dei burtkomne i Assurs land og dei burtdrivne i Egyptarlandet, og dei skal tilbeda Herren på det heilage fjellet i Jerusalem.
 
 ### Chapter 28
 
@@ -37812,7 +37812,7 @@
 
 **[28:11]** Ja vel, med stamande lippor og i eit framandt tungemål skal han tala til dette folket,
 
-**[28:12]** han som sagde til deim: «Dette er ro, lat den trøytte få kvila, og dette er kvila.» Men dei vilde ’kje høyra.
+**[28:12]** han som sagde til deim: «Dette er ro, lat den trøytte få kvila, og dette er kvila.» Men dei vilde’kje høyra.
 
 **[28:13]** So skal då Herrens ord verta deim gnag og gnag, gnag og gnag, gnål og gnål, gnål og gnål, noko her, noko der, so dei skal ganga og detta baklenges og verta sundbrotne og bundne og fanga.
 
@@ -37846,7 +37846,7 @@
 
 **[28:28]** Vert brødkorn krasa? Nei, ein treskjer det ikkje stødt, og når ein driv sine vogn og hestar yver det, so knusar ein det ikkje.
 
-**[28:29]** Ogso dette kjem frå Herren, allhers drott. Han er underfull i råd, stor i visdom. 
+**[28:29]** Ogso dette kjem frå Herren, allhers drott. Han er underfull i råd, stor i visdom.
 
 ### Chapter 29
 
@@ -37896,7 +37896,7 @@
 
 **[29:23]** For når han og borni hans ser det mine hender hev gjort midt ibland deim, då skal dei helga namnet mitt, og dei skal helga Jakobs Heilage, og Israels Gud skal dei ottast.
 
-**[29:24]** Og dei som for vilt i si ånd, skal læra vit, og dei som knurrar, skal taka mot lærdom. 
+**[29:24]** Og dei som for vilt i si ånd, skal læra vit, og dei som knurrar, skal taka mot lærdom.
 
 ### Chapter 30
 
@@ -37964,7 +37964,7 @@
 
 **[30:32]** Og kvar gong straffestaven som Herren let falla på honom, fer ned, skal det ganga fyre seg med klang av trummor og cithrar, og i stridar mot det med svingande arm.
 
-**[30:33]** For ei brandtuft er tilbudd longe; ogso for kongen er ho tilbudd, djup og vid; bålet hennar hev eld og ved i mengd; anden åt Herren, lik ein svåvelstraum, set det i brand. 
+**[30:33]** For ei brandtuft er tilbudd longe; ogso for kongen er ho tilbudd, djup og vid; bålet hennar hev eld og ved i mengd; anden åt Herren, lik ein svåvelstraum, set det i brand.
 
 ### Chapter 31
 
@@ -37984,7 +37984,7 @@
 
 **[31:8]** Og Assur skal falla for eit sverd som ikkje høyrer ein mann til, og eit sverd som ikkje høyrer eit menneskje til, skal øyda honom, og han skal røma for sverdet, og hans unge menner skal verta trælar.
 
-**[31:9]** Og berget hans skal røma for rædsla, og fyrstarne hans skal skræmast burt ifrå fana si, segjer Herren, som hev elden sin i Sion og omnen sin i Jerusalem. 
+**[31:9]** Og berget hans skal røma for rædsla, og fyrstarne hans skal skræmast burt ifrå fana si, segjer Herren, som hev elden sin i Sion og omnen sin i Jerusalem.
 
 ### Chapter 32
 
@@ -38026,7 +38026,7 @@
 
 **[32:19]** Men det skal hagla når skogen fell, og djupt skal byen søkka ned.
 
-**[32:20]** Sæle er de som sår attved alle vatn, som let uksen og asnet vera på frifot! 
+**[32:20]** Sæle er de som sår attved alle vatn, som let uksen og asnet vera på frifot!
 
 ### Chapter 33
 
@@ -38044,7 +38044,7 @@
 
 **[33:7]** Høyr kjemporne deira skrik der ute, fredsbodi græt sårt.
 
-**[33:8]** Ålmannvegarne er aude, ferdafolk er der ’kje meir - han hev brote pakti, vanvyrdt byarne, ikkje vyrdt noko menneskje.
+**[33:8]** Ålmannvegarne er aude, ferdafolk er der’kje meir - han hev brote pakti, vanvyrdt byarne, ikkje vyrdt noko menneskje.
 
 **[33:9]** Landet folnar, visnar; Libanon stend skjemd, folnar burt; Saron er som den aude mark; og Basan og Karmel rister lauvet av seg.
 
@@ -38076,7 +38076,7 @@
 
 **[33:23]** Slakke heng togi dine, dei evlar ikkje stydja mastri, dei held ikkje seglet utspent - då vert herfang bytt i mengd, jamvel dei lame ranar ran.
 
-**[33:24]** Og ingen ibuar skal segja: «Eg er sjuk.» Folket som bur der, hev fenge si misgjerd forlati. 
+**[33:24]** Og ingen ibuar skal segja: «Eg er sjuk.» Folket som bur der, hev fenge si misgjerd forlati.
 
 ### Chapter 34
 
@@ -38112,7 +38112,7 @@
 
 **[34:16]** Leita etter i Herrens bok og les! Ikkje eitt av deim vantar, det eine saknar ikkje det andre. For hans munn byd det, og hans ånd sankar deim,
 
-**[34:17]** og han kastar lut for deim, og handi hans ætlar deim det med mælesnøre. Til æveleg tid skal dei eiga det, frå ætt til ætt skal dei bu i det. 
+**[34:17]** og han kastar lut for deim, og handi hans ætlar deim det med mælesnøre. Til æveleg tid skal dei eiga det, frå ætt til ætt skal dei bu i det.
 
 ### Chapter 35
 
@@ -38134,7 +38134,7 @@
 
 **[35:9]** Der skal det ingi løva vera, og inkje villdyr skal koma inn på honom, dei skal ikkje finnast der; men utløyste skal ferdast der.
 
-**[35:10]** Og Herrens frikjøpte skal snu heim att og koma til Sion med fagnadrop, og æveleg gleda er det yver hovudet deira; frygd og gleda skal dei nå, og sorg og sukk skal røma.» 
+**[35:10]** Og Herrens frikjøpte skal snu heim att og koma til Sion med fagnadrop, og æveleg gleda er det yver hovudet deira; frygd og gleda skal dei nå, og sorg og sukk skal røma.»
 
 ### Chapter 36
 
@@ -38180,7 +38180,7 @@
 
 **[36:21]** Og dei tagde og svara honom ikkje eit ord; for so var kongens bod: «Ikkje svara honom!»
 
-**[36:22]** Eljakim Hilkiason, drottseten, og Sebna, riksskrivaren, og Joah Asafsson, kanslaren, kom då attende til Hizkia med sundrivne klæde og melde honom ordi hans Rabsake. 
+**[36:22]** Eljakim Hilkiason, drottseten, og Sebna, riksskrivaren, og Joah Asafsson, kanslaren, kom då attende til Hizkia med sundrivne klæde og melde honom ordi hans Rabsake.
 
 ### Chapter 37
 
@@ -38234,7 +38234,7 @@
 
 **[37:25]** eg hev grave og drukke vatn; med fotsolen min eg turkar ut alle Egyptarlands elvar.»
 
-**[37:26]** Hev du ’kje høyrt at eg hev longe laga det so? Frå ævordsleg tid hev eg fyreåt fastsett dette! Og no let eg det koma i verk! Du fekk magt til å øyda sterke borgar til steinrøysar aude.
+**[37:26]** Hev du’kje høyrt at eg hev longe laga det so? Frå ævordsleg tid hev eg fyreåt fastsett dette! Og no let eg det koma i verk! Du fekk magt til å øyda sterke borgar til steinrøysar aude.
 
 **[37:27]** Folki deira vart veike og valne, skalv og stod til skammar. Det gjekk deim som graset på marki og grøne urtar, som vokstrar på taket, som kornåker fyrr han hev skote.
 
@@ -38258,7 +38258,7 @@
 
 **[37:37]** Då tok assyrarkongen Sanherib ut og drog burt og snudde heim att, og heldt seg sidan i Nineve.
 
-**[37:38]** Ein gong han heldt bøn i huset åt Nisrok, guden sin, hogg sønerne hans, Adrammelek og Sareser, honom ned med sverd. Dei kom seg undan til Araratlandet, og Asarhaddon, son hans, vart konge i staden hans. 
+**[37:38]** Ein gong han heldt bøn i huset åt Nisrok, guden sin, hogg sønerne hans, Adrammelek og Sareser, honom ned med sverd. Dei kom seg undan til Araratlandet, og Asarhaddon, son hans, vart konge i staden hans.
 
 ### Chapter 38
 
@@ -38304,7 +38304,7 @@
 
 **[38:21]** Jesaja sagde dei skulde taka ei fikekaka og leggja til plåster på svullen, so han skulde friskna til att.
 
-**[38:22]** Hizkia sagde: «Kva skal eg hava til merke på at eg skal ganga upp til Herrens hus?» 
+**[38:22]** Hizkia sagde: «Kva skal eg hava til merke på at eg skal ganga upp til Herrens hus?»
 
 ### Chapter 39
 
@@ -38322,7 +38322,7 @@
 
 **[39:7]** Og sume av sønerne dine, ætta frå deg, utstokne frå deg, skal takast, og dei skal verta hirdmenner i slottet åt Babel-kongen.»
 
-**[39:8]** Då sagde Hizkia til Jesaja: «Godt er Herrens ord som du hev tala.» Og han sagde framleides: «Det vert då fred og trygd so lenge eg liver.» 
+**[39:8]** Då sagde Hizkia til Jesaja: «Godt er Herrens ord som du hev tala.» Og han sagde framleides: «Det vert då fred og trygd so lenge eg liver.»
 
 ### Chapter 40
 
@@ -38366,7 +38366,7 @@
 
 **[40:20]** Er ein for arm til slik ei gåva, vel han seg tre som ikkje morknar, og leitar upp ein dugleg meister, som set eit stødigt bilæt’ upp.
 
-**[40:21]** Skynar de ikkje? Høyrer de ikkje? Er det ’kje meldt dykk frå fyrste stund? Greider de ikkje jorderiks grunnar?
+**[40:21]** Skynar de ikkje? Høyrer de ikkje? Er det’kje meldt dykk frå fyrste stund? Greider de ikkje jorderiks grunnar?
 
 **[40:22]** Han sit høgt yver jordheims-kringen, dei som der bur, er som grashoppesverm. Himmelen breidde han ut som ein florduk, spana han ut som eit tjeld til å bu i.
 
@@ -38380,13 +38380,13 @@
 
 **[40:27]** Kvi vil du segja, Jakob, og tala so, Israel: «Min veg er løynd for Herren, og min rett kjem burt for min Gud?»
 
-**[40:28]** Hev du ’kje skyna det? Hev du ’kje høyrt det? Herren han er ein æveleg Gud, han hev skapt den vide verdi. Han vert ikkje trøytt, han vert ikkje mod, hans vit kann ingen grunda ut.
+**[40:28]** Hev du’kje skyna det? Hev du’kje høyrt det? Herren han er ein æveleg Gud, han hev skapt den vide verdi. Han vert ikkje trøytt, han vert ikkje mod, hans vit kann ingen grunda ut.
 
 **[40:29]** Han gjev den trøytte kraft og aukar styrken for magtlaus mann.
 
 **[40:30]** Gutar vert trøytte og mode, og unge karar lyt snåva.
 
-**[40:31]** Men dei som vonar på Herren, fær atter kraft, dei fær nye vengjefjører som ørnar. Dei spring og trøytnar ikkje, dei gjeng og mødest ei. 
+**[40:31]** Men dei som vonar på Herren, fær atter kraft, dei fær nye vengjefjører som ørnar. Dei spring og trøytnar ikkje, dei gjeng og mødest ei.
 
 ### Chapter 41
 
@@ -38446,7 +38446,7 @@
 
 **[41:28]** Eg ser meg um, men der er ingen, imillom deim kann ingen gjeva greida, so eg deim kunde spyrja, og dei svara.
 
-**[41:29]** Sjå, alle er dei ingen ting, og deira verk er inkjevetta, og deira bilæte er luft og vind. 
+**[41:29]** Sjå, alle er dei ingen ting, og deira verk er inkjevetta, og deira bilæte er luft og vind.
 
 ### Chapter 42
 
@@ -38498,13 +38498,13 @@
 
 **[42:24]** Kven gav Jakob burt til ran og til ransmenn Israel utan Herren som me synda mot, som hans vegar dei ei fara vilde og ei høyra på hans lov?
 
-**[42:25]** So rende han yver deim sin heite harm og ein veldug krig. Det ikring deim loga, men dei skyna inkje, brende deim, men dei la ikkje det på hjarta. 
+**[42:25]** So rende han yver deim sin heite harm og ein veldug krig. Det ikring deim loga, men dei skyna inkje, brende deim, men dei la ikkje det på hjarta.
 
 ### Chapter 43
 
 **[43:1]** Og no segjer Herren so, han som skapte deg, Jakob, og laga deg, Israel: Ver urædd! for eg hev løyst deg ut, eg hev ropa deg på namn, du er min.
 
-**[43:2]** Fer du gjenom vatn, so er eg med deg, gjenom elvar, so skal dei ’kje riva deg burt. Gjeng du i eld, du svidar deg ei, og logen skal ikkje brenna deg.
+**[43:2]** Fer du gjenom vatn, so er eg med deg, gjenom elvar, so skal dei’kje riva deg burt. Gjeng du i eld, du svidar deg ei, og logen skal ikkje brenna deg.
 
 **[43:3]** For eg, Herren, er din Gud, Israels Heilage er din frelsar. Egyptarland gjev eg til løysepeng for deg, Ætiopia og Seba til vederlag for deg.
 
@@ -38512,7 +38512,7 @@
 
 **[43:5]** Ver ikkje rædd! for eg er med deg; austanfrå vil eg føra di ætt, og vestanfrå vil eg samla deg.
 
-**[43:6]** Eg segjer til nordheimen: «Kom med deim!» Og til sudheimen: «Haldt deim ’kje att! Kom med sønerne mine langt burtanfrå og døtterne mine frå verdsens ende,
+**[43:6]** Eg segjer til nordheimen: «Kom med deim!» Og til sudheimen: «Haldt deim’kje att! Kom med sønerne mine langt burtanfrå og døtterne mine frå verdsens ende,
 
 **[43:7]** kvar den som heiter etter mitt namn, og som eg hev skapt til mi æra, og som eg hev laga og gjort.»
 
@@ -38556,7 +38556,7 @@
 
 **[43:27]** Den fyrste far din synda, og dine målsmenn var utrue mot meg.
 
-**[43:28]** So laut eg vanhelga heilage hovdingar, lysa Jakob i bann og Israel gjeva til spott. 
+**[43:28]** So laut eg vanhelga heilage hovdingar, lysa Jakob i bann og Israel gjeva til spott.
 
 ### Chapter 44
 
@@ -38614,7 +38614,7 @@
 
 **[44:27]** Eg segjer til djupet: «Torna, dine straumar turkar eg ut!»
 
-**[44:28]** Eg segjer til Kyrus: «Min hyrding!» Han skal fullføra all min vilje og til Jerusalem segja: «Vert bygd! Og templet verta grunnlagt!» 
+**[44:28]** Eg segjer til Kyrus: «Min hyrding!» Han skal fullføra all min vilje og til Jerusalem segja: «Vert bygd! Og templet verta grunnlagt!»
 
 ### Chapter 45
 
@@ -38666,7 +38666,7 @@
 
 **[45:24]** Berre hjå Herren, skal dei segja um meg, er rettferd og magt. Til honom skal dei koma og skjemmast alle som harmast på honom.
 
-**[45:25]** I Herren vinn dei rettferd og rosar seg alle som er av Israels ætt. 
+**[45:25]** I Herren vinn dei rettferd og rosar seg alle som er av Israels ætt.
 
 ### Chapter 46
 
@@ -38694,7 +38694,7 @@
 
 **[46:12]** Høyr på meg, de stridlyndte, som er langt burte frå rettferd!
 
-**[46:13]** Eg fører hit mi rettferd, ho er ikkje langt burte, og mi frelsa skal ikkje drygja. Eg gjev frelsa i Sion og til Israel min herlegdom. 
+**[46:13]** Eg fører hit mi rettferd, ho er ikkje langt burte, og mi frelsa skal ikkje drygja. Eg gjev frelsa i Sion og til Israel min herlegdom.
 
 ### Chapter 47
 
@@ -38718,7 +38718,7 @@
 
 **[47:10]** Du var trygg i vondskapen din og sa: «Det er ingen som ser meg!» Visdomen din og vitskapen din hev dåra deg, so du sa i ditt hjarta: «Eg og ingen annan!»
 
-**[47:11]** So skal det då vondt koma yver deg, som du veit ’kje å venda av, ei ulukka skal falla yver deg, som du ikkje kann sona burt, og brått skal det koma yver deg tjon når du ikkje varast.
+**[47:11]** So skal det då vondt koma yver deg, som du veit’kje å venda av, ei ulukka skal falla yver deg, som du ikkje kann sona burt, og brått skal det koma yver deg tjon når du ikkje varast.
 
 **[47:12]** Kom no med dine bannlysingar, dine mange trollingar, som du hev stræva med ifrå ungdomen! Kanskje kunde du finna hjelp, kanskje skræma ulukka burt.
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Men dei hev vorte som halm, elden brenner deim upp, dei kann ikkje berga sitt eige livet or loge-vald. Det er ikkje glod til å verma seg med, ikkje bål til å sitja attved.
 
-**[47:15]** So gjeng det deg med deim du hev stræva for, handelsvenerne dine frå ungdomen din. Dei vildrar kvar sin veg, ingen som hjelper deg. 
+**[47:15]** So gjeng det deg med deim du hev stræva for, handelsvenerne dine frå ungdomen din. Dei vildrar kvar sin veg, ingen som hjelper deg.
 
 ### Chapter 48
 
@@ -38742,7 +38742,7 @@
 
 **[48:6]** Du hev høyrt det, sjå det no alt i hop! Og de, må de ikkje sanna det? Men no eg forkynner deg nytt, dulde ting som du ikkje veit um.
 
-**[48:7]** No vert det skapt og ikkje fyrr, og du hev ’kje høyrt um det fyrr i dag, so du ikkje skulde segja: «Det visste eg!»
+**[48:7]** No vert det skapt og ikkje fyrr, og du hev’kje høyrt um det fyrr i dag, so du ikkje skulde segja: «Det visste eg!»
 
 **[48:8]** Du hev korkje høyrt eller visst det eller fyrr fenge øyra upp for det, for eg visste at du er falsk, og «utru» du heiter frå moderliv.
 
@@ -38772,7 +38772,7 @@
 
 **[48:21]** Dei tyrste ikkje; i øydemark førde han deim, vatn or berget let han sildra åt deim, han kløyvde berget, og vatnet renn.
 
-**[48:22]** Dei gudlause hev ingen fred, segjer Herren. 
+**[48:22]** Dei gudlause hev ingen fred, segjer Herren.
 
 ### Chapter 49
 
@@ -38826,7 +38826,7 @@
 
 **[49:25]** Ja! for so segjer Herren: Både skal dei taka fangar frå kjempa, og valdsmanns herfang skal sleppa undan, og eg vil strida med motparten din og frelsa sønerne dine.
 
-**[49:26]** Eg let dine trælkarar eta sitt eige kjøt og drikka sitt blod som druvesaft. Og alt kjøt skal kjenna at det er eg, Herren, som frelsar deg, og at Jakobs Velduge løyser deg ut. 
+**[49:26]** Eg let dine trælkarar eta sitt eige kjøt og drikka sitt blod som druvesaft. Og alt kjøt skal kjenna at det er eg, Herren, som frelsar deg, og at Jakobs Velduge løyser deg ut.
 
 ### Chapter 50
 
@@ -38838,7 +38838,7 @@
 
 **[50:4]** Herren, Herren hev gjeve meg ei læresveins-tunga, so eg kann vita å kveikja den trøytte med ord. Han vekkjer kvar morgon, han vekkjer mitt øyra til å høyra på læresveins vis.
 
-**[50:5]** Herren, Herren hev opna mitt øyra, eg var ikkje strid og drog meg ’kje undan.
+**[50:5]** Herren, Herren hev opna mitt øyra, eg var ikkje strid og drog meg’kje undan.
 
 **[50:6]** Min rygg baud eg fram åt deim som slo, og kinni åt deim som i skjegget reiv. Eg løynde ikkje mitt andlit for hæding og sputt.
 
@@ -38850,7 +38850,7 @@
 
 **[50:10]** Kven er det av dykk som ottast Herren, og høyrer på røysti åt tenaren hans? Um han ferdast i myrker, og ikkje ser minste ljos, skal han lita lel på Herrens namn og stydja seg på sin Gud.
 
-**[50:11]** Men alle de som kveikjer eld, som væpnar dykk med brennande piler! Inn med dykk i logen av elden dykkar, og under dei brandpiler de hev kveikt! Frå mi hand skal det koma yver dykk, i pinsla skal de få liggja. 
+**[50:11]** Men alle de som kveikjer eld, som væpnar dykk med brennande piler! Inn med dykk i logen av elden dykkar, og under dei brandpiler de hev kveikt! Frå mi hand skal det koma yver dykk, i pinsla skal de få liggja.
 
 ### Chapter 51
 
@@ -38870,7 +38870,7 @@
 
 **[51:8]** For mol skal deim eta som klæde, og åt skal deim eta som ull. Men æveleg varer mi rettferd, og mi frelsa frå ætt til ætt.
 
-**[51:9]** Vakna, vakna, klæd deg i kraft, du Herrens arm! Vakna upp som i fordoms tid, som i gamle dagar! Var det ’kje du som ubeistet hogg, og sjøormen stakk i hel?
+**[51:9]** Vakna, vakna, klæd deg i kraft, du Herrens arm! Vakna upp som i fordoms tid, som i gamle dagar! Var det’kje du som ubeistet hogg, og sjøormen stakk i hel?
 
 **[51:10]** Var det ikkje du som turrlagde havet, vatnet i store-djupet, havbotnen gjorde til veg, so dei utløyste der kunde fara?
 
@@ -38898,7 +38898,7 @@
 
 **[51:22]** So segjer herren din, Herren, din Gud som forsvarer sitt folk: No tek eg tumleskåli or handi på deg, mitt vreide-staup skal du ikkje tøma meir.
 
-**[51:23]** Og eg gjev det i handi på plagaran’ dine, dei som sagde til deg: «Legg deg ned, so me kann få trøda på deg!» og du gjorde din rygg lik flate marki, som ei gata for ferdafolk. 
+**[51:23]** Og eg gjev det i handi på plagaran’ dine, dei som sagde til deg: «Legg deg ned, so me kann få trøda på deg!» og du gjorde din rygg lik flate marki, som ei gata for ferdafolk.
 
 ### Chapter 52
 
@@ -38930,7 +38930,7 @@
 
 **[52:14]** Som dei fælte av deg mange - so umenneskjeleg skamførd såg han ut og ei som mannsborn hans skapnad var -
 
-**[52:15]** so fær han mange folkeslag til å furda, yver honom skal kongar tagna; for dei ser det som ei var fortalt deim, og dei ansar på det som dei aldri hev høyrt. 
+**[52:15]** so fær han mange folkeslag til å furda, yver honom skal kongar tagna; for dei ser det som ei var fortalt deim, og dei ansar på det som dei aldri hev høyrt.
 
 ### Chapter 53
 
@@ -38956,7 +38956,7 @@
 
 **[53:11]** For si sjæle-møda skal han sjå det og mettast, ved sin kunnskap gjev han rettferd, min rettvise tenar, til mange, med di han ber deira skuld.
 
-**[53:12]** Difor gjev eg honom mange til lut, og sterke fær han til herfang, for han tømde si sjæl til dauden og vart millom brotsmenner rekna, medan han bar syndi åt mange, og han for brotsmenner bad. 
+**[53:12]** Difor gjev eg honom mange til lut, og sterke fær han til herfang, for han tømde si sjæl til dauden og vart millom brotsmenner rekna, medan han bar syndi åt mange, og han for brotsmenner bad.
 
 ### Chapter 54
 
@@ -38966,7 +38966,7 @@
 
 **[54:3]** For du skal breida deg til høgre og vinstre, og di ætt skal taka heidningfolk til eiga og folka upp att øydelagde byar.
 
-**[54:4]** Ottast ikkje, for du skal ikkje turva skjemmast, ver ikkje skamfull, for du skal ikkje turva raudna. Nei, skammi frå ungdomen skal du gløyma, og spotti frå enkjestandet skal du ’kje minnast meir.
+**[54:4]** Ottast ikkje, for du skal ikkje turva skjemmast, ver ikkje skamfull, for du skal ikkje turva raudna. Nei, skammi frå ungdomen skal du gløyma, og spotti frå enkjestandet skal du’kje minnast meir.
 
 **[54:5]** For mannen din er skaparen din, Allhers-Herren er namnet hans, og Israels Heilage er din utløysar. Han heitar Gud for all jordi.
 
@@ -38992,7 +38992,7 @@
 
 **[54:16]** Sjå, eg hev skapt smeden som blæs i kolelden og lagar våpn til sitt bruk, og eg hev skapt tynaren til å øyda det.
 
-**[54:17]** Alle våpn dei smider mot deg, skal vanheppast; og kvar tunga som yppar strider med deg, skal du få domfelt. Det er den arv som Herrens tenarar fær, og deira rettferd frå meg, segjer Herren. 
+**[54:17]** Alle våpn dei smider mot deg, skal vanheppast; og kvar tunga som yppar strider med deg, skal du få domfelt. Det er den arv som Herrens tenarar fær, og deira rettferd frå meg, segjer Herren.
 
 ### Chapter 55
 
@@ -39020,7 +39020,7 @@
 
 **[55:12]** Ja, med gleda skal de draga ut og verta førde i fred. Fjell og haugar skal setja i med fagnadrop fyre dykk, og alle tre på marki skal klappa i hender.
 
-**[55:13]** I staden for tornar skal det veksa cypressor, i staden for tistlar veksa myrt. Dermed fær Herren eit ærenamn, eit ævemerke, som aldri vert øydt. 
+**[55:13]** I staden for tornar skal det veksa cypressor, i staden for tistlar veksa myrt. Dermed fær Herren eit ærenamn, eit ævemerke, som aldri vert øydt.
 
 ### Chapter 56
 
@@ -39046,7 +39046,7 @@
 
 **[56:11]** dei er hækne hundar, vert aldri mette, og slike folk er hyrdingar, som ikkje veit å gjeva gaum! Dei vender seg alle sin eigen veg, kvar til si eigi vinning, alle som ein.
 
-**[56:12]** «Kom, eg skal henta vin, so vil me drikka rusdrykk; som i dag skal morgondagen vera, me skal hava det herlegt.» 
+**[56:12]** «Kom, eg skal henta vin, so vil me drikka rusdrykk; som i dag skal morgondagen vera, me skal hava det herlegt.»
 
 ### Chapter 57
 
@@ -39090,7 +39090,7 @@
 
 **[57:20]** Men dei gudlause er som det bårande havet, det kann ikkje halda seg stilt, og bylgjorne rotar upp søyla og skarn.
 
-**[57:21]** Dei gudlause hev ingen fred, segjer min Gud. 
+**[57:21]** Dei gudlause hev ingen fred, segjer min Gud.
 
 ### Chapter 58
 
@@ -39098,7 +39098,7 @@
 
 **[58:2]** Meg spør dei dag for dag, mine vegar vil dei vita, som eit folk som hev livt i rettferd og ei vendt seg frå sin Guds rett, krev dei av meg rettferdige domar, dei vil at Gud skal koma.
 
-**[58:3]** «Kvi fastar me, og du ser det ikkje? Kvi spekjer me oss, og du agtar ’kje på det?» - Jau, på fastedagen finn de forretning og driv til arbeid alle dykkar folk.
+**[58:3]** «Kvi fastar me, og du ser det ikkje? Kvi spekjer me oss, og du agtar’kje på det?» - Jau, på fastedagen finn de forretning og driv til arbeid alle dykkar folk.
 
 **[58:4]** Sjå, de fastar med kiv og strid, med hogg og slag av gudlause nevar, ikkje fastar de i dag, so røysti dykkar kann høyrast i det høge.
 
@@ -39120,7 +39120,7 @@
 
 **[58:13]** Held du foten din att frå kviledagen, so du ei driv ditt yrke på min heilagdag, kallar du kviledagen «ei lyst», Herrens heilagdag «høgvyrd», ærar du honom og held deg frå dine tiltak, ikkje driv med ditt yrke eller prat -
 
-**[58:14]** då skal du frygda deg i Herren, yver haugarne i landet let eg deg fara og let deg njota arven åt Jakob, far din; for Herrens munn hev tala. 
+**[58:14]** då skal du frygda deg i Herren, yver haugarne i landet let eg deg fara og let deg njota arven åt Jakob, far din; for Herrens munn hev tala.
 
 ### Chapter 59
 
@@ -39164,7 +39164,7 @@
 
 **[59:20]** Og han kjem som utløysar for Sion, og for deim som snur seg frå synd i Jakob, so er Herrens ord.
 
-**[59:21]** Og dette er den pakt som eg på mi sida gjer med deim, segjer Herren: Min ande som er yver deg, og mine ord som eg hev lagt deg i munnen, dei skal ikkje vika frå din munn, og ikkje frå munnen åt borni dine, og ikkje heller frå munnen åt barneborni dine, segjer Herren, frå no og i all æva. 
+**[59:21]** Og dette er den pakt som eg på mi sida gjer med deim, segjer Herren: Min ande som er yver deg, og mine ord som eg hev lagt deg i munnen, dei skal ikkje vika frå din munn, og ikkje frå munnen åt borni dine, og ikkje heller frå munnen åt barneborni dine, segjer Herren, frå no og i all æva.
 
 ### Chapter 60
 
@@ -39210,7 +39210,7 @@
 
 **[60:21]** Og ditt folk, dei er alle rettferdige, æveleg skal dei landet eiga, dei er renningen av mi planting, verket av mine hender til mi æra.
 
-**[60:22]** Den minste skal verta til tusund, den ringaste til eit veldugt folk. Eg er Herren, i si tid set eg det brått i verk. 
+**[60:22]** Den minste skal verta til tusund, den ringaste til eit veldugt folk. Eg er Herren, i si tid set eg det brått i verk.
 
 ### Chapter 61
 
@@ -39234,7 +39234,7 @@
 
 **[61:10]** Eg gled meg storleg i Herren, sjæli mi fegnast i min Gud. For han hev klædt meg i frelse-klæde, sveipt meg i rettferds-kåpa, som ein brudgom seg pryder med prestehuva og ei brur tek på seg sin prydnad.
 
-**[61:11]** For som jordi sin grode let renna, og hagen sitt sæde let veksa, so let Herren, Herren rettferd renna og lovsong for alle folks åsyn. 
+**[61:11]** For som jordi sin grode let renna, og hagen sitt sæde let veksa, so let Herren, Herren rettferd renna og lovsong for alle folks åsyn.
 
 ### Chapter 62
 
@@ -39260,7 +39260,7 @@
 
 **[62:11]** Høyr, Herren let det ljoma til heimsens ende: Seg til Sions dotter: Sjå, di frelsa kjem! Sjå, si løn hev han med seg, og hans vederlag gjeng fyre honom.
 
-**[62:12]** Og dei skal kallast «det heilage folket», «Herrens løyste»; og du sjølv skal heita «den søkte», «byen som ikkje er aud». 
+**[62:12]** Og dei skal kallast «det heilage folket», «Herrens løyste»; og du sjølv skal heita «den søkte», «byen som ikkje er aud».
 
 ### Chapter 63
 
@@ -39300,7 +39300,7 @@
 
 **[63:18]** Eit lite bil hev ditt heilage folk havt si eiga, so trakka våre uvener ned din heilagdom.
 
-**[63:19]** Det hev vorte med oss som du aldri hadde rådt yver oss, som ditt namn hadde ei vore nemnt yver oss. 
+**[63:19]** Det hev vorte med oss som du aldri hadde rådt yver oss, som ditt namn hadde ei vore nemnt yver oss.
 
 ### Chapter 64
 
@@ -39324,7 +39324,7 @@
 
 **[64:10]** Vårt heilage hus, det herlege, der federne våre deg lova, hev vorte uppbrent med eld, og all vår hugnad hev vorte grushaugar.
 
-**[64:11]** Kann du halda deg att med alt dette, Herre? Vil du tegja og trykkja oss so tungt? 
+**[64:11]** Kann du halda deg att med alt dette, Herre? Vil du tegja og trykkja oss so tungt?
 
 **[64:12]** 
 
@@ -39378,7 +39378,7 @@
 
 **[65:24]** Og det skal vera so, at fyrr dei ropar, vil eg svara, og medan dei endå talar, vil eg høyra.
 
-**[65:25]** Ulv og lamb skal beita i saman, og løva skal eta halm som uksen, og ormen skal hava mold til mat. Ingen skal gjera vondt eller ugagn på heile mitt heilage fjell, segjer Herren. 
+**[65:25]** Ulv og lamb skal beita i saman, og løva skal eta halm som uksen, og ormen skal hava mold til mat. Ingen skal gjera vondt eller ugagn på heile mitt heilage fjell, segjer Herren.
 
 ### Chapter 66
 
@@ -39428,7 +39428,7 @@
 
 **[66:23]** Kvar månad på nymånedagen og kvar vika på kviledagen skal alt kjøt koma og kasta seg ned for mi åsyn, segjer Herren.
 
-**[66:24]** Og dei skal ganga ut og sjå på liki åt dei menner som hev falle frå meg; for makken deira skal ikkje dauda, og elden deira skal ikkje slokna, og dei skal vera ei gruv for alt kjøt.  
+**[66:24]** Og dei skal ganga ut og sjå på liki åt dei menner som hev falle frå meg; for makken deira skal ikkje dauda, og elden deira skal ikkje slokna, og dei skal vera ei gruv for alt kjøt.
 
 ## Jeremiah
 
@@ -39470,7 +39470,7 @@
 
 **[1:18]** Og eg, sjå eg hev i dag gjort deg til ei fast borg og til ein jarnstolpe og til ein koparmur mot alt landet: mot kongarne i Juda, mot hovdingarne, mot prestarne og mot lyden i landet.
 
-**[1:19]** Dei skal strida mot deg og ikkje vinna på deg. For eg er med deg, segjer Herren, og skal berga deg. 
+**[1:19]** Dei skal strida mot deg og ikkje vinna på deg. For eg er med deg, segjer Herren, og skal berga deg.
 
 ### Chapter 2
 
@@ -39546,7 +39546,7 @@
 
 **[2:36]** Kvi fer du so langt burt i ei onnor leid? Med Egyptarland og skal du verta til skammar, likeins som du vart til skammar med Assyria.
 
-**[2:37]** Derifrå med skal du ganga ut med henderne yver ditt hovud. For Herren hev støytt burt deim du leit, og du fær ingi lukka med deim. 
+**[2:37]** Derifrå med skal du ganga ut med henderne yver ditt hovud. For Herren hev støytt burt deim du leit, og du fær ingi lukka med deim.
 
 ### Chapter 3
 
@@ -39598,7 +39598,7 @@
 
 **[3:24]** Og skjemdar-tinget hev ete upp det federne våre stræva i hop alt frå vår ungdom, deira sauer og kyr, deira søner og døtter.
 
-**[3:25]** Lat oss då liggja i vår skjemd, og lat skammi vår breida seg yver oss! For mot Herren, vår Gud, hev me synda, me og federne våre, alt frå ungdom og til denne dag, og me hev ikkje lydt Herren, vår Guds, røyst. 
+**[3:25]** Lat oss då liggja i vår skjemd, og lat skammi vår breida seg yver oss! For mot Herren, vår Gud, hev me synda, me og federne våre, alt frå ungdom og til denne dag, og me hev ikkje lydt Herren, vår Guds, røyst.
 
 ### Chapter 4
 
@@ -39662,7 +39662,7 @@
 
 **[4:30]** Og du, når du vert øydelagd, kva vil du då gjera? Endå um du klæder deg i purpur og pryder deg med gull-prydnad og gjer augo dine store med sminka, so er det fåfengt at du gjer deg fager; dine elskarar vanvyrdar deg, dei stend deg etter livet.
 
-**[4:31]** For eg høyrer rop nett som av ei kvinna i barnsnaud, naudrop som av kvinna når ho fær fyrste barnet, rop av dotteri Sion. Ho styn, ho retter ut henderne sine: Eie meg! Sjæli mi sig vanmegtig i mordar-vald. 
+**[4:31]** For eg høyrer rop nett som av ei kvinna i barnsnaud, naudrop som av kvinna når ho fær fyrste barnet, rop av dotteri Sion. Ho styn, ho retter ut henderne sine: Eie meg! Sjæli mi sig vanmegtig i mordar-vald.
 
 ### Chapter 5
 
@@ -39726,7 +39726,7 @@
 
 **[5:30]** Grysjelege og gruelege ting gjeng fyre seg i landet.
 
-**[5:31]** Profetarne spår lygn, og prestarne er strenge herrar etter deira råd, og lyden min likar det. Men kva vil de gjera når enden på dette kjem? 
+**[5:31]** Profetarne spår lygn, og prestarne er strenge herrar etter deira råd, og lyden min likar det. Men kva vil de gjera når enden på dette kjem?
 
 ### Chapter 6
 
@@ -39750,7 +39750,7 @@
 
 **[6:10]** Kven skal eg tala til og vitna for, so dei høyrer? Sjå, øyra deira er u-umskore so dei ikkje kann gjeva gaum; sjå, Herrens ord er vorte til spott bland deim, dei likar det ikkje,
 
-**[6:11]** Men eg er full av Herrens harm, eg er utmødd av å halda honom inne. .
+**[6:11]** Men eg er full av Herrens harm, eg er utmødd av å halda honom inne..
 
 **[6:12]** Og husi deira skal koma i annan manns eige, deira jorder og konor like eins. For eg vil retta ut mi hand mot deim som bur i landet, segjer Herren.
 
@@ -39788,7 +39788,7 @@
 
 **[6:29]** Smidjebelgen hev blåse, men av elden kjem berre bly; til fåfengs var den reinsande smelting, og dei vonde vart ikkje utskilde.
 
-**[6:30]** «Sylv som er vanda» kallar dei deim, for Herren hev vanda deim. 
+**[6:30]** «Sylv som er vanda» kallar dei deim, for Herren hev vanda deim.
 
 ### Chapter 7
 
@@ -39858,7 +39858,7 @@
 
 **[7:33]** Og liki av dette folket skal verta til mat åt fuglarne under himmelen og dyri på jord, og ingen skal skræma deim burt.
 
-**[7:34]** Då vil eg lata kverva burt or byarne i Juda og frå gatorne i Jerusalem fagnadrøyst og glederøyst, røyst av brudgom og røyst av brur, for landet skal verta lagt i øyde. 
+**[7:34]** Då vil eg lata kverva burt or byarne i Juda og frå gatorne i Jerusalem fagnadrøyst og glederøyst, røyst av brudgom og røyst av brur, for landet skal verta lagt i øyde.
 
 ### Chapter 8
 
@@ -39904,7 +39904,7 @@
 
 **[8:21]** Eg er tynt for tjonet på dotteri, folket mitt, eg gjeng i syrgjeklæde, fæla hev teke meg.
 
-**[8:22]** Finst det då ikkje balsam i Gilead, eller bid det ingen lækjar der? Eller kvi hev ikkje dotteri, folket mitt, fenge bendsel på? 
+**[8:22]** Finst det då ikkje balsam i Gilead, eller bid det ingen lækjar der? Eller kvi hev ikkje dotteri, folket mitt, fenge bendsel på?
 
 ### Chapter 9
 
@@ -39958,7 +39958,7 @@
 
 **[9:25]** Sjå, dei dagar skal koma, segjer Herren, då eg vil heimsøkja alle umskorne som er u-umskorne:
 
-**[9:26]** Egyptarland og Juda, Edom og Ammons-sønerne og Moab og alle med rundklypt hår, som bur i øydemarki. For alle heidningfolki er u-umskorne, og heile Israels hus er u-umskore på hjarta. 
+**[9:26]** Egyptarland og Juda, Edom og Ammons-sønerne og Moab og alle med rundklypt hår, som bur i øydemarki. For alle heidningfolki er u-umskorne, og heile Israels hus er u-umskore på hjarta.
 
 ### Chapter 10
 
@@ -40010,7 +40010,7 @@
 
 **[10:24]** Refs meg, Herre, men med måte, ikkje i din vreide, so du ikkje skal gjera meg reint til inkjes.
 
-**[10:25]** Renn harmen din ut yver heidningfolki som ikkje kjenner deg, og yver ætter som ikkje påkallar namnet ditt! For dei hev ete på Jakob, ja, ete honom upp og gjort ende på honom, og bustaden hans hev dei lagt i øyde. 
+**[10:25]** Renn harmen din ut yver heidningfolki som ikkje kjenner deg, og yver ætter som ikkje påkallar namnet ditt! For dei hev ete på Jakob, ja, ete honom upp og gjort ende på honom, og bustaden hans hev dei lagt i øyde.
 
 ### Chapter 11
 
@@ -40058,7 +40058,7 @@
 
 **[11:22]** - difor, so segjer Herren, allhers drott: Sjå, eg vil heimsøkja deim dei unge menner skal falla for sverd, deira søner og døtter skal døy av svolt.
 
-**[11:23]** Og ikkje noko skal verta leivt åt deim; for eg sender ulukka på mennerne i Anatot det året dei vert heimsøkte. 
+**[11:23]** Og ikkje noko skal verta leivt åt deim; for eg sender ulukka på mennerne i Anatot det året dei vert heimsøkte.
 
 ### Chapter 12
 
@@ -40094,7 +40094,7 @@
 
 **[12:16]** Um dei då lærer seg mitt folks vegar, so dei sver ved mitt namn: «So sant som Herren liver» - liksom dei lærde mitt folk å sverja ved Ba’al, då skal dei verta uppatt-bygde midt ibland mitt folk.
 
-**[12:17]** Men um dei ikkje lyder, då vil eg rykkja upp det folket, rykkja det upp og tyna det, segjer Herren. 
+**[12:17]** Men um dei ikkje lyder, då vil eg rykkja upp det folket, rykkja det upp og tyna det, segjer Herren.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:26]** So vil då eg og lyfta upp din kjolefald yver ditt andlit, so di skam vert synberr.
 
-**[13:27]** Hordomen din og kneggjingi di, den skamlause ulivnaden din uppå haugar på marki, all skjemdarferdi di hev eg set. Usæle Jerusalem! Kor lenge kjem det ikkje endå til å vara fyrr du vert rein! 
+**[13:27]** Hordomen din og kneggjingi di, den skamlause ulivnaden din uppå haugar på marki, all skjemdarferdi di hev eg set. Usæle Jerusalem! Kor lenge kjem det ikkje endå til å vara fyrr du vert rein!
 
 ### Chapter 14
 
@@ -40196,7 +40196,7 @@
 
 **[14:21]** For ditt namn skuld støyt oss ikkje frå deg, lat ikkje din herlegdoms kongsstol verta svivyrd! Kom i hug, brjot ikkje di pakt med oss!
 
-**[14:22]** Finst det nokon av dei fåfenglege gudarne åt heidningfolki som kann gjeva regn? Eller sender himmelen regnskurer av seg sjølv? Er det ikkje du, Herre, vår Gud? Me stundar på deg, for du hev gjort alt dette. 
+**[14:22]** Finst det nokon av dei fåfenglege gudarne åt heidningfolki som kann gjeva regn? Eller sender himmelen regnskurer av seg sjølv? Er det ikkje du, Herre, vår Gud? Me stundar på deg, for du hev gjort alt dette.
 
 ### Chapter 15
 
@@ -40240,7 +40240,7 @@
 
 **[15:20]** Og eg vil gjera deg til ein fast koparmur mot dette folket; og dei skal strida imot deg, men ikkje vinna på deg, for eg er med deg og vil frelsa og berga deg, segjer Herren.
 
-**[15:21]** Eg vil berga deg utor henderne på dei vonde og fria deg utor nevarne på valdsmenner. 
+**[15:21]** Eg vil berga deg utor henderne på dei vonde og fria deg utor nevarne på valdsmenner.
 
 ### Chapter 16
 
@@ -40284,7 +40284,7 @@
 
 **[16:20]** Kann mannen gjera seg gudar? - slikt er då ikkje gudar.»
 
-**[16:21]** Difor, sjå, eg vil lata deim kjenna det, denne gongen vil eg lata deim kjenna mi hand og mitt velde, so dei skal få vita at namnet mitt er Herren. 
+**[16:21]** Difor, sjå, eg vil lata deim kjenna det, denne gongen vil eg lata deim kjenna mi hand og mitt velde, so dei skal få vita at namnet mitt er Herren.
 
 ### Chapter 17
 
@@ -40340,7 +40340,7 @@
 
 **[17:26]** Og frå Juda-byarne og frå umkverven kring Jerusalem og frå Benjaminslandet og frå låglandet og frå heiderne og frå Sudlandet, skal dei koma og bera fram brennoffer og slagtoffer og grjonoffer og røykjelse, og bera fram takkoffer i Herrens hus.
 
-**[17:27]** Men um de ikkje høyrer på meg, so de held kviledagen heilag og ikkje kjem med nokor byrd og ber inn gjenom Jerusalems-portarne på kviledagen, då vil eg kveikja eld på portarne, og han skal øyda slotti i Jerusalem og ikkje slokna. 
+**[17:27]** Men um de ikkje høyrer på meg, so de held kviledagen heilag og ikkje kjem med nokor byrd og ber inn gjenom Jerusalems-portarne på kviledagen, då vil eg kveikja eld på portarne, og han skal øyda slotti i Jerusalem og ikkje slokna.
 
 ### Chapter 18
 
@@ -40388,7 +40388,7 @@
 
 **[18:22]** Lat naudrop høyrast or husi deira når du let mordflokkar brått koma yver deim! For dei hev grave ei grav til å fanga meg i og lurt upp snaror for føterne mine.
 
-**[18:23]** Men du, Herre, kjenner alle deira råder imot meg til å drepa meg; gjev deim ikkje til deira misgjerning, og lat ikkje deira synd verta utstroki for di åsyn! Lat deim stupa for di åsyn; i di vreide-tid gjere du upp med deim! 
+**[18:23]** Men du, Herre, kjenner alle deira råder imot meg til å drepa meg; gjev deim ikkje til deira misgjerning, og lat ikkje deira synd verta utstroki for di åsyn! Lat deim stupa for di åsyn; i di vreide-tid gjere du upp med deim!
 
 ### Chapter 19
 
@@ -40420,7 +40420,7 @@
 
 **[19:14]** Og Jeremia kom frå Tofet, dit som Herren hadde sendt honom til å spå, og han stod i fyregarden til Herrens hus og sagde med alt folket:
 
-**[19:15]** «So segjer Herren, allhers drott, Israels Gud: Sjå, yver denne byen og yver alle dei byarne som høyrer honom til, let eg koma all den ulukka som eg hev tala imot deim; for dei gjeng der hardnakka og høyrer ikkje mine ord.» 
+**[19:15]** «So segjer Herren, allhers drott, Israels Gud: Sjå, yver denne byen og yver alle dei byarne som høyrer honom til, let eg koma all den ulukka som eg hev tala imot deim; for dei gjeng der hardnakka og høyrer ikkje mine ord.»
 
 ### Chapter 20
 
@@ -40458,7 +40458,7 @@
 
 **[20:17]** for di han ikkje drap meg alt i moderlivet, so mor mi vart mi grav, og livet hennar æveleg fremmelegt!
 
-**[20:18]** Kvi kom eg då ut or moderlivet til å sjå møda og sorg og enda mine dagar i skam? 
+**[20:18]** Kvi kom eg då ut or moderlivet til å sjå møda og sorg og enda mine dagar i skam?
 
 ### Chapter 21
 
@@ -40488,7 +40488,7 @@
 
 **[21:13]** Sjå, eg skal finna deg, du som bur i dalen, uppå berget på sletta, segjer Herren - de som segjer: «Kven kann koma ned yver oss, kven kann koma inn i bustaderne våre?»
 
-**[21:14]** Og eg vil heimsøkja dykk etter den frukti dykkar verk hev bore, segjer Herren, og setja eld i skogen deira, og han skal øyda alt der rundt ikring. 
+**[21:14]** Og eg vil heimsøkja dykk etter den frukti dykkar verk hev bore, segjer Herren, og setja eld i skogen deira, og han skal øyda alt der rundt ikring.
 
 ### Chapter 22
 
@@ -40550,7 +40550,7 @@
 
 **[22:29]** Land, land, land, høyr Herrens ord!
 
-**[22:30]** So segjer Herren: Skriv upp denne mannen barnlaus, ein uheppen mann all sin dag. For ingen av hans avkjøme skal få lukka til å sitja i Davids kongsstol og heretter rikja yver Juda. 
+**[22:30]** So segjer Herren: Skriv upp denne mannen barnlaus, ein uheppen mann all sin dag. For ingen av hans avkjøme skal få lukka til å sitja i Davids kongsstol og heretter rikja yver Juda.
 
 ### Chapter 23
 
@@ -40632,7 +40632,7 @@
 
 **[23:39]** difor, sjå, so vil eg reint gløyma dykk og kasta dykk og byen som eg gav dykk og federne dykkar, burt frå mi åsyn.
 
-**[23:40]** Og eg vil leggja på dykk ei æveleg skjemd og ei æveleg skam, som aldri skal gløymast. 
+**[23:40]** Og eg vil leggja på dykk ei æveleg skjemd og ei æveleg skam, som aldri skal gløymast.
 
 ### Chapter 24
 
@@ -40654,7 +40654,7 @@
 
 **[24:9]** Og eg vil gjera deim til ei skræma og ein stygg for alle riki på jordi, til ei hæding og eit ordtøke, til ei spott og ei våbøn på alle dei stader som eg driv deim burt til.
 
-**[24:10]** Og eg vil senda imot deim sverdet og svolten og sotti, til dei vert reint utrudde or landet som eg gav deim og federne deira. 
+**[24:10]** Og eg vil senda imot deim sverdet og svolten og sotti, til dei vert reint utrudde or landet som eg gav deim og federne deira.
 
 ### Chapter 25
 
@@ -40732,7 +40732,7 @@
 
 **[25:37]** og dei fredfulle engjarne vert aude for Herrens brennande vreide.
 
-**[25:38]** Fram stig han som ei ungløva ut or si kjørr; ja, landet deira vert til ei audn for det herjande sverdet og for hans brennande vreide. 
+**[25:38]** Fram stig han som ei ungløva ut or si kjørr; ja, landet deira vert til ei audn for det herjande sverdet og for hans brennande vreide.
 
 ### Chapter 26
 
@@ -40782,7 +40782,7 @@
 
 **[26:23]** Og dei tok Uria ut or Egyptarlandet og for med honom til kong Jojakim, og han let drepa honom med sverd og kasta liket hans millom ålmuge-graverne.
 
-**[26:24]** Men Ahikam Safansson heldt si hand yver Jeremia, so han ikkje vart gjeven i henderne på folket og miste livet. 
+**[26:24]** Men Ahikam Safansson heldt si hand yver Jeremia, so han ikkje vart gjeven i henderne på folket og miste livet.
 
 ### Chapter 27
 
@@ -40828,7 +40828,7 @@
 
 **[27:21]** ja, so segjer Herren, allhers drott, Israels Gud, um dei kjeraldi som er att i Herrens hus og i Juda-kongens hus og i Jerusalem:
 
-**[27:22]** Til Babel skal dei verta flutte, og der skal dei vera alt til den dagen eg ser etter deim, segjer Herren, og fører deim upp og attende til denne staden. 
+**[27:22]** Til Babel skal dei verta flutte, og der skal dei vera alt til den dagen eg ser etter deim, segjer Herren, og fører deim upp og attende til denne staden.
 
 ### Chapter 28
 
@@ -40864,7 +40864,7 @@
 
 **[28:16]** Difor, so segjer Herren so: Sjå, eg tek deg burt frå jordi; i dette året skal du døy, for du hev preika fråfall frå Herren.»
 
-**[28:17]** Og profeten Hananja døydde same året i den sjuande månaden. 
+**[28:17]** Og profeten Hananja døydde same året i den sjuande månaden.
 
 ### Chapter 29
 
@@ -40930,7 +40930,7 @@
 
 **[29:31]** Gjer ordsending til alle dei burtførde og seg: So segjer Herren um Semaja, nehelamiten: Sidan Semaja hev spått åt dykk, endå eg ikkje hev sendt honom, og fenge dykk til å lita på lygn,
 
-**[29:32]** difor, so segjer Herren: Sjå, eg heimsøkjer Semaja, nehelamiten, og avkjømet hans; ingen av deim skal få bu millom dette folket, og han skal ikkje få sjå det gode som eg gjer med folket mitt, segjer Herren, for han hev preika fråfall frå Herren. 
+**[29:32]** difor, so segjer Herren: Sjå, eg heimsøkjer Semaja, nehelamiten, og avkjømet hans; ingen av deim skal få bu millom dette folket, og han skal ikkje få sjå det gode som eg gjer med folket mitt, segjer Herren, for han hev preika fråfall frå Herren.
 
 ### Chapter 30
 
@@ -40980,7 +40980,7 @@
 
 **[30:23]** Sjå, ein storm frå Herren - vreide bryt fram - ein rjukande storm: ned på hovudet åt dei ugudlege kjem han i kvervlar.
 
-**[30:24]** Herrens brennande vreide skal ikkje halda upp fyrr han hev gjort og sett i verk sitt hjartans tankar. I dagarne som kjem, skal de skyna det. 
+**[30:24]** Herrens brennande vreide skal ikkje halda upp fyrr han hev gjort og sett i verk sitt hjartans tankar. I dagarne som kjem, skal de skyna det.
 
 ### Chapter 31
 
@@ -41062,7 +41062,7 @@
 
 **[31:39]** og mælesnori skal ganga derifrå beint på yver Garebhaugen, og so bøygja til Goa.
 
-**[31:40]** Og heile Daudskrott- og Oskedalen og alle markerne burtåt Kidronsbekken alt aust til Hesteport-hyrna, skal vera helga åt Herren. Nokor øyding eller nedrivning skal det ikkje meir vera der i all æva. 
+**[31:40]** Og heile Daudskrott- og Oskedalen og alle markerne burtåt Kidronsbekken alt aust til Hesteport-hyrna, skal vera helga åt Herren. Nokor øyding eller nedrivning skal det ikkje meir vera der i all æva.
 
 ### Chapter 32
 
@@ -41152,7 +41152,7 @@
 
 **[32:43]** Og jorder skal verta kjøpte i dette landet som de kallar «ei audn utan folk og fe, gjevi i henderne på kaldæarane».
 
-**[32:44]** Jorder skal dei kjøpa for sylv og skriva kjøpebrev med innsigle på og vitne til i Benjaminslandet og i umkverven kring Jerusalem og i Juda-byarne, både i fjellbyarne og i byarne på flatlendet og i Sudlandet. For eg vil gjera ende på deira utlægd, segjer Herren. 
+**[32:44]** Jorder skal dei kjøpa for sylv og skriva kjøpebrev med innsigle på og vitne til i Benjaminslandet og i umkverven kring Jerusalem og i Juda-byarne, både i fjellbyarne og i byarne på flatlendet og i Sudlandet. For eg vil gjera ende på deira utlægd, segjer Herren.
 
 ### Chapter 33
 
@@ -41206,7 +41206,7 @@
 
 **[33:25]** So segjer Herren: Hev eg ikkje gjort mi pakt med dag og natt, ikkje gjeve lover for himmel og jord,
 
-**[33:26]** då vil eg støyta frå meg ætti åt Jakob og åt min tenar David, so eg ikkje av ætti hans tek styresmenner yver ætti åt Abraham og Isak og Jakob. For eg vil enda utlægdi deira og miskunna deim. 
+**[33:26]** då vil eg støyta frå meg ætti åt Jakob og åt min tenar David, so eg ikkje av ætti hans tek styresmenner yver ætti åt Abraham og Isak og Jakob. For eg vil enda utlægdi deira og miskunna deim.
 
 ### Chapter 34
 
@@ -41252,7 +41252,7 @@
 
 **[34:21]** Og Sidkia, Juda-kongen, og hovdingarne hans gjev eg i henderne på deira fiendar og i henderne på deim som ligg deim etter livet, og i henderne på Babel-kongens her, som no er faren burt frå dykk.
 
-**[34:22]** Sjå, eg gjev deim det påbodet, segjer Herren, at dei skal snu tilbake til denne byen, og dei skal strida imot honom og taka honom og brenna honom upp i eld. Og byarne i Juda gjer eg til ei audn, der ingen bur.» 
+**[34:22]** Sjå, eg gjev deim det påbodet, segjer Herren, at dei skal snu tilbake til denne byen, og dei skal strida imot honom og taka honom og brenna honom upp i eld. Og byarne i Juda gjer eg til ei audn, der ingen bur.»
 
 ### Chapter 35
 
@@ -41292,7 +41292,7 @@
 
 **[35:18]** Men til Rekabs-ætti sagde Jeremia: So segjer Herren, allhers drott, Israels Gud: Av di at de hev lydt påbodet frå Jonadab, ættfaren dykkar, og halde alle bodi hans og gjort stødt som han baud dykk,
 
-**[35:19]** difor, so segjer Herren, allhers drott, Israels Gud: Jonadab Rekabssons skal aldri vanta ein mann som kann standa framfor mi åsyn. 
+**[35:19]** difor, so segjer Herren, allhers drott, Israels Gud: Jonadab Rekabssons skal aldri vanta ein mann som kann standa framfor mi åsyn.
 
 ### Chapter 36
 
@@ -41358,7 +41358,7 @@
 
 **[36:31]** Og eg vil heimsøkja honom og avkjømet hans og tenarane hans for deira misgjerning, og eg vil lata koma yver deim og yver Jerusalems-buarne og Juda-mennerne alle dei ulukkor som eg hev truga dei med utan at dei høyrde.»
 
-**[36:32]** Då tok Jeremia ein annan rull og gav honom til skrivaren Baruk Neriason, og han skreiv på honom etter Jeremias munn alle dei ordi som hadde stade i den boki som Jojakim, Juda-kongen, hadde brent upp i eld. Og til deim var det endå lagt mykje av same slaget. 
+**[36:32]** Då tok Jeremia ein annan rull og gav honom til skrivaren Baruk Neriason, og han skreiv på honom etter Jeremias munn alle dei ordi som hadde stade i den boki som Jojakim, Juda-kongen, hadde brent upp i eld. Og til deim var det endå lagt mykje av same slaget.
 
 ### Chapter 37
 
@@ -41402,7 +41402,7 @@
 
 **[37:20]** Og høyr no, herre konge! Å, lat mi bøn koma fram for di åsyn og send meg ikkje attende til huset åt riksskrivaren Jonatan, so eg ikkje skal døy der!»
 
-**[37:21]** Sidkia gav då påbod, og so sette dei Jeremia i varveitsla i vaktgarden og gav honom ein brødleiv um dagen frå Bakargata, til alt brødet var ende i byen. Jeremia vart då verande i vaktgarden. 
+**[37:21]** Sidkia gav då påbod, og so sette dei Jeremia i varveitsla i vaktgarden og gav honom ein brødleiv um dagen frå Bakargata, til alt brødet var ende i byen. Jeremia vart då verande i vaktgarden.
 
 ### Chapter 38
 
@@ -41460,7 +41460,7 @@
 
 **[38:27]** Og alle hovdingarne kom til Jeremia og spurde honom, han svara deim med kvart det ord som kongen hadde bede honom um. Då let dei honom vera i fred, for saki hadde ikkje vorte kjend.
 
-**[38:28]** Og Jeremia sat i vaktgarden alt til den dagen då Jerusalem vart teke. 
+**[38:28]** Og Jeremia sat i vaktgarden alt til den dagen då Jerusalem vart teke.
 
 ### Chapter 39
 
@@ -41498,7 +41498,7 @@
 
 **[39:17]** Men deg vil eg berga den dagen, segjer Herren, og du skal ikkje verta gjeven i henderne på dei menner som du ræddast.
 
-**[39:18]** For eg vil lata deg sleppa undan, og du skal ikkje falla for sverd, men vinna ditt liv til herfang, av di du leit på meg, segjer Herren. 
+**[39:18]** For eg vil lata deg sleppa undan, og du skal ikkje falla for sverd, men vinna ditt liv til herfang, av di du leit på meg, segjer Herren.
 
 ### Chapter 40
 
@@ -41532,7 +41532,7 @@
 
 **[40:15]** Og Johanan Kareahsson sagde i løynd med Gedalja i Mispa: «Lat meg ganga og drepa Ismael Netanjason! og ingen skal få vita det. Kvi skal han slå deg i hel, og alt Juda spreidast, dei som hev samla seg til deg, og leivningen av Juda tyntast?»
 
-**[40:16]** Men Gedalja Ahikamsson sagde med Johanan Kareahsson: «Gjer ikkje det! For det er lygn det du melder um Ismael.» 
+**[40:16]** Men Gedalja Ahikamsson sagde med Johanan Kareahsson: «Gjer ikkje det! For det er lygn det du melder um Ismael.»
 
 ### Chapter 41
 
@@ -41570,7 +41570,7 @@
 
 **[41:17]** Dei for då av stad, men stana i Kimham-herbyrget, som er attmed Betlehem, og vilde halda fram med ferdi til Egyptarland
 
-**[41:18]** - for kaldæarane skuld, for dei ottast deim av di Ismael Netanjason hadde drepe Gedalja Ahikamsson, som Babel-kongen hadde sett yver landet. 
+**[41:18]** - for kaldæarane skuld, for dei ottast deim av di Ismael Netanjason hadde drepe Gedalja Ahikamsson, som Babel-kongen hadde sett yver landet.
 
 ### Chapter 42
 
@@ -41616,7 +41616,7 @@
 
 **[42:21]** Og eg hev kunngjort dykk det i dag, men de hev ikkje lydt på røysti åt Herren, dykkar Gud, i noko av det som han hev sendt meg med til dykk.
 
-**[42:22]** Og vita skal de no, at de lyt døy for sverd, av svolt og i sott på den staden som de stundar etter å koma til so de kunde bu der. 
+**[42:22]** Og vita skal de no, at de lyt døy for sverd, av svolt og i sott på den staden som de stundar etter å koma til so de kunde bu der.
 
 ### Chapter 43
 
@@ -41644,7 +41644,7 @@
 
 **[43:12]** Og eg vil kveikja eld på gudehusi i Egyptarland, og han skal brenna deim upp og føra gudarne burt. Og han skal sveipa Egyptarlandet um seg, likeins som hyrdingen sveiper kappa si um seg. Og sidan skal han fara derifrå i fred.
 
-**[43:13]** Og han skal brjota sund sulorne i Bet-Semes, som er i Egyptarlandet, og gudehusi i Egyptarland skal han brenna upp med eld. 
+**[43:13]** Og han skal brjota sund sulorne i Bet-Semes, som er i Egyptarlandet, og gudehusi i Egyptarland skal han brenna upp med eld.
 
 ### Chapter 44
 
@@ -41706,7 +41706,7 @@
 
 **[44:29]** Og dette skal vera teiknet for dykk, segjer Herren, at eg vil heimsøkja dykk på denne staden, so de skal få vita at mine ord til dykk um ulukka stend ved lag:
 
-**[44:30]** So segjer Herren: Sjå, eg gjev Farao Hofra, egyptarkongen, i fiendehender og i henderne på deim som ligg honom etter livet, likeins som eg hev gjeve Sidkia, Juda-kongen, i henderne på Nebukadressar, Babel-kongen, som var fienden hans og låg honom etter livet.» 
+**[44:30]** So segjer Herren: Sjå, eg gjev Farao Hofra, egyptarkongen, i fiendehender og i henderne på deim som ligg honom etter livet, likeins som eg hev gjeve Sidkia, Juda-kongen, i henderne på Nebukadressar, Babel-kongen, som var fienden hans og låg honom etter livet.»
 
 ### Chapter 45
 
@@ -41718,7 +41718,7 @@
 
 **[45:4]** So skal du segja med honom: So segjer Herren: Sjå, det eg hev bygt upp, det riv eg ned, og det eg hev planta, det rykkjer eg upp, og dette gjeld heile jordi.
 
-**[45:5]** Og du, du trår etter store ting åt deg: ikkje trå etter deim! For sjå, eg let ulukka koma yver alt kjøt, segjer Herren. Men eg vil gjeva deg livet ditt til herfang på kvar den stad du ferdast. 
+**[45:5]** Og du, du trår etter store ting åt deg: ikkje trå etter deim! For sjå, eg let ulukka koma yver alt kjøt, segjer Herren. Men eg vil gjeva deg livet ditt til herfang på kvar den stad du ferdast.
 
 ### Chapter 46
 
@@ -41776,7 +41776,7 @@
 
 **[46:27]** Men ottast ikkje, du min tenar Jakob, og ræddast ikkje, Israel! For sjå, eg frelser deg ut or burtlengste land, og avkjømet ut or utlægdi. Og Jakob skal koma tilbake og liva i ro og fred, og ingen skal skræma honom.
 
-**[46:28]** Ottast ikkje, du min tenar Jakob, segjer Herren; for eg er med deg. For eg vil gjera ende på alle dei folki som eg hev drive deg til. Men deg vil eg ikkje gjera ende på, men aga deg med måte, men reint utan refsing kann eg ikkje lata deg vera. 
+**[46:28]** Ottast ikkje, du min tenar Jakob, segjer Herren; for eg er med deg. For eg vil gjera ende på alle dei folki som eg hev drive deg til. Men deg vil eg ikkje gjera ende på, men aga deg med måte, men reint utan refsing kann eg ikkje lata deg vera.
 
 ### Chapter 47
 
@@ -41792,7 +41792,7 @@
 
 **[47:6]** Ai, ei, du Herrens sverd! Kor lenge skal du hava det so annvint? Drag deg atter inn i slira di, haldt deg i ro og ver still!
 
-**[47:7]** Kor kunde du få kvila deg, sidan Herren hev gjeve deg påbod? Til Askalon og til Havstrandi, dit hev han etla deg. 
+**[47:7]** Kor kunde du få kvila deg, sidan Herren hev gjeve deg påbod? Til Askalon og til Havstrandi, dit hev han etla deg.
 
 ### Chapter 48
 
@@ -41888,7 +41888,7 @@
 
 **[48:46]** Usæl du Moab! Det er ute med folket åt Kamos; for sønerne dine vert tekne til fangar og døtterne dine til herfang.
 
-**[48:47]** Men eg gjera ende på Moabs utlægd når tider er lidne, segjer Herren. So langt domen yver Moab. 
+**[48:47]** Men eg gjera ende på Moabs utlægd når tider er lidne, segjer Herren. So langt domen yver Moab.
 
 ### Chapter 49
 
@@ -41968,7 +41968,7 @@
 
 **[49:38]** Og eg vil setja kongsstolen min i Elam, og eg vil tyna der både konge og hovdingar, segjer Herren.
 
-**[49:39]** Men når tider er lidne, vil eg gjera ende på Elams utlægd, segjer Herren. 
+**[49:39]** Men når tider er lidne, vil eg gjera ende på Elams utlægd, segjer Herren.
 
 ### Chapter 50
 
@@ -42062,7 +42062,7 @@
 
 **[50:45]** Difor, høyr den rådgjerdi Herren hev teke um Babel, og dei tankarne han hev tenkt um Kaldæarlandet: Sanneleg, dei skal dragsa deim burt, dei små lambi, sanneleg, beitemarki deira skal taka fæla av deim.
 
-**[50:46]** Av ropet: «Babel er teki!» bivrar jordi, og millom folki skrik dei ende yver seg. 
+**[50:46]** Av ropet: «Babel er teki!» bivrar jordi, og millom folki skrik dei ende yver seg.
 
 ### Chapter 51
 
@@ -42192,7 +42192,7 @@
 
 **[51:63]** Og når du hev lese upp denne boki til endes, skal du binda ein stein til henne og kasta henne midt ut i Frat
 
-**[51:64]** og segja: «Soleis skal Babel søkka og ikkje koma upp att,» for den ulukka som eg let koma yver byen, og trøytte skal dei verta.» Hit når Jeremia-ordi. 
+**[51:64]** og segja: «Soleis skal Babel søkka og ikkje koma upp att,» for den ulukka som eg let koma yver byen, og trøytte skal dei verta.» Hit når Jeremia-ordi.
 
 ### Chapter 52
 
@@ -42262,7 +42262,7 @@
 
 **[52:33]** Han fekk leggja av seg fangebunaden, og gjekk kvar dag til kongens bord, so lenge han livde.
 
-**[52:34]** Kost og tæring naut han dagvisst på kongens kostnad til kvar dag det han trong for dagen, alt til sin døyande dag, heile si livetid.  
+**[52:34]** Kost og tæring naut han dagvisst på kongens kostnad til kvar dag det han trong for dagen, alt til sin døyande dag, heile si livetid.
 
 ## Lamentations
 
@@ -42310,7 +42310,7 @@
 
 **[1:21]** Dei høyrde kor eg sukka, eg; åt meg var der ingen trøystar. Alle mine fiendar høyrde um mi ulukka; dei gledde seg yver at du hadde gjort det. Men du let koma ein dag du hev forkynt; og då skal dei verta som eg.
 
-**[1:22]** Lat all deira vondskap koma for di åsyn, og gjer mot deim som du hev gjort mot meg for alle mine synder skuld. For mine sukkar er mange, og hjarta mitt er sjukt. 
+**[1:22]** Lat all deira vondskap koma for di åsyn, og gjer mot deim som du hev gjort mot meg for alle mine synder skuld. For mine sukkar er mange, og hjarta mitt er sjukt.
 
 ### Chapter 2
 
@@ -42356,7 +42356,7 @@
 
 **[2:21]** På jordi i gatorne ligg ung og gamall. Mine møyar og gutar er falne for sverd. Du slo i hel på din vreide-dag, du slagta utan nåde.
 
-**[2:22]** Du kalla som på ein høgtidsdag rædslor mot meg alle stader ifrå; og på Herrens vreide-dag fanst det ingen som vart berga og slapp undan. Deim eg hev bore på armar og ale upp, hev min fiende tynt. 
+**[2:22]** Du kalla som på ein høgtidsdag rædslor mot meg alle stader ifrå; og på Herrens vreide-dag fanst det ingen som vart berga og slapp undan. Deim eg hev bore på armar og ale upp, hev min fiende tynt.
 
 ### Chapter 3
 
@@ -42490,7 +42490,7 @@
 
 **[3:65]** Du vil leggja eit sveip yver deira hjarta, du vil bannstøyta deim.
 
-**[3:66]** Du vil elta deim i vreide, og tyna deim so dei ikkje bid meir under Herrens himmel. 
+**[3:66]** Du vil elta deim i vreide, og tyna deim so dei ikkje bid meir under Herrens himmel.
 
 ### Chapter 4
 
@@ -42536,7 +42536,7 @@
 
 **[4:21]** Fagna og gled deg, du Edoms dotter, du som bur i Us-landet! Du og skal drikka same skåli, du skal verta drukki og nækja deg.
 
-**[4:22]** Di misgjerd er ende, Sions dotter. Han vil ikkje gjera deg utlæg att. Di misgjerd vil han heimsøkja, Edoms dotter, gjera synberre dine synder. 
+**[4:22]** Di misgjerd er ende, Sions dotter. Han vil ikkje gjera deg utlæg att. Di misgjerd vil han heimsøkja, Edoms dotter, gjera synberre dine synder.
 
 ### Chapter 5
 
@@ -42582,7 +42582,7 @@
 
 **[5:21]** Vend oss, Herre, til deg, so kjem me; nya upp att våre dagar frå gamalt!
 
-**[5:22]** For du kann vel ikkje reint ha støytt oss burt, vera so ovleg harm på oss.  
+**[5:22]** For du kann vel ikkje reint ha støytt oss burt, vera so ovleg harm på oss.
 
 ## Ezekiel
 
@@ -42642,7 +42642,7 @@
 
 **[1:27]** Og eg såg noko liksom sylvblanda gull, sjåande til liksom eld med ein ljosgard ikring, frå det som var sjåande til å vera lenderne hans og so uppetter. Og frå det som var sjåande til å vera lenderne hans og nedetter såg eg noko liksom eld å sjå til, med eit skin rundt ikring.
 
-**[1:28]** Liksom syni av bogen i skyi på ein regndag, soleis var syni av skinet rundt ikring. Soleis var openberringi av Herrens herlegdom å sjå til. Og då eg fekk sjå det, fall eg ned på mitt andlit, og eg høyrde røysti av ein som tala. 
+**[1:28]** Liksom syni av bogen i skyi på ein regndag, soleis var syni av skinet rundt ikring. Soleis var openberringi av Herrens herlegdom å sjå til. Og då eg fekk sjå det, fall eg ned på mitt andlit, og eg høyrde røysti av ein som tala.
 
 ### Chapter 2
 
@@ -42664,7 +42664,7 @@
 
 **[2:9]** Og som eg såg, og sjå, ei hand var rett ut til meg. Og sjå, i den var ein bokrull.
 
-**[2:10]** Og han rulla honom upp framfor mi åsyn, og han var fullskriven inni og utanpå. Og skrive var det på honom syrgjesongar, sukkar og verop. 
+**[2:10]** Og han rulla honom upp framfor mi åsyn, og han var fullskriven inni og utanpå. Og skrive var det på honom syrgjesongar, sukkar og verop.
 
 ### Chapter 3
 
@@ -42720,7 +42720,7 @@
 
 **[3:26]** Og tunga di let eg hanga fast ved gomerne dine, so du vert mållaus og ikkje vert deim ein refsingsmann. For ei tråssug ætt er dei.
 
-**[3:27]** Men når eg talar med deg, vil eg opna munnen din; då skal du segja til deim: So segjer Herren, Herren: Den som vil lyda på, han lyde, og den som ikkje vil gjeva gaum, han late vera! For ei tråssug ætt er dei.» 
+**[3:27]** Men når eg talar med deg, vil eg opna munnen din; då skal du segja til deim: So segjer Herren, Herren: Den som vil lyda på, han lyde, og den som ikkje vil gjeva gaum, han late vera! For ei tråssug ætt er dei.»
 
 ### Chapter 4
 
@@ -42756,7 +42756,7 @@
 
 **[4:16]** Og han sagde med meg: «Du menneskjeson! Sjå, eg bryt sund brødstaven for Jerusalem, og dei skal eta brød etter vegt og med otte og drikka vatn etter mål og med fælske,
 
-**[4:17]** so dei skal vanta brød og vatn og verta forstøkte både ein og hin, og vanmegtast for si misgjerning.» 
+**[4:17]** so dei skal vanta brød og vatn og verta forstøkte både ein og hin, og vanmegtast for si misgjerning.»
 
 ### Chapter 5
 
@@ -42792,7 +42792,7 @@
 
 **[5:16]** når eg sender ibland deim dei vonde hunger-pilerne som er etla til tynarverk, deim eg sender til å tyna dykk med, når eg let svolten herja dykk og bryt sund brødstaven for dykk.
 
-**[5:17]** Eg vil senda yver dykk hunger og udyr, og dei skal gjera deg barnlaus, og sott og blod skal ganga yver deg, og sverd vil eg lata koma yver deg. Eg Herren, hev tala. 
+**[5:17]** Eg vil senda yver dykk hunger og udyr, og dei skal gjera deg barnlaus, og sott og blod skal ganga yver deg, og sverd vil eg lata koma yver deg. Eg Herren, hev tala.
 
 ### Chapter 6
 
@@ -42822,7 +42822,7 @@
 
 **[6:13]** Og de skal sanna et eg er Herren, når deira gjenomstungne ligg midt imillom deira ufysne avgudar, rundt kringum altari deira, på kvar ein høg haug, på alle fjelltoppar og under kvart eit grønt tre og under kvar ei lauvrik eik, på den staden der dei ofra godange åt dei ufysne avgudarne sine.
 
-**[6:14]** Og eg vil retta ut handi mi mot deim og gjera landet til audn og øyda - verre enn Dibla-øydemarki - kvar dei so bur, og dei skal sanna at eg er Herren. 
+**[6:14]** Og eg vil retta ut handi mi mot deim og gjera landet til audn og øyda - verre enn Dibla-øydemarki - kvar dei so bur, og dei skal sanna at eg er Herren.
 
 ### Chapter 7
 
@@ -42878,7 +42878,7 @@
 
 **[7:26]** Ulukka på ulukka skal koma, fretnad på fretnad fær ein høyra; og dei skal søkja etter syn hjå profeten, lov skal kverva for presten, og råder for dei gamle.
 
-**[7:27]** Kongen skal syrgja, og fyrsten skal klæda seg i fælske, og henderne på landslyden skal skjelva. Etter åtferdi deira vil eg gjera med deim, og med deira domar vil eg døma deim, og dei skal sanna at eg er Herren. 
+**[7:27]** Kongen skal syrgja, og fyrsten skal klæda seg i fælske, og henderne på landslyden skal skjelva. Etter åtferdi deira vil eg gjera med deim, og med deira domar vil eg døma deim, og dei skal sanna at eg er Herren.
 
 ### Chapter 8
 
@@ -42916,7 +42916,7 @@
 
 **[8:17]** Og han sagde med meg: «Hev du set det, menneskjeson? Kunde ikkje Juda-lyden nøgja seg med å gjera dei styggjor dei her hev gjort, men måtte fylla landet med vald og atter harma meg upp? Og sjå kor dei no held kvisten upp for nosi!
 
-**[8:18]** So vil då eg og fara fram i vreide; mitt auga skal ikkje spara, og miskunn gjer eg ikkje. Og um dei ropar for mine øyro med sterkt mål, so vil eg ikkje høyra deim.» 
+**[8:18]** So vil då eg og fara fram i vreide; mitt auga skal ikkje spara, og miskunn gjer eg ikkje. Og um dei ropar for mine øyro med sterkt mål, so vil eg ikkje høyra deim.»
 
 ### Chapter 9
 
@@ -42940,7 +42940,7 @@
 
 **[9:10]** So vil då ikkje heller eg lata mitt auga spara, og miskunn gjer eg ikkje; deira åtferd vil eg leggja på deira hovud.»
 
-**[9:11]** Og sjå, mannen i linklædnaden som hadde skrivestellet ved lendi, kom tilbake med svar og sagde: «Eg hev gjort som du baud meg.» 
+**[9:11]** Og sjå, mannen i linklædnaden som hadde skrivestellet ved lendi, kom tilbake med svar og sagde: «Eg hev gjort som du baud meg.»
 
 ### Chapter 10
 
@@ -42986,7 +42986,7 @@
 
 **[10:21]** Og det var fire andlit på kvart eitt av dei fire, og fire vengjer på kvart eit, og eitkvart på skap som mannehender under vengjerne deira.
 
-**[10:22]** Og skapnaden på andliti deira det var dei andliti som eg hadde set attmed elvi Kebar; soleis såg dei ut, og dei var det. Og kvart eitt av deim gjekk beint fram. 
+**[10:22]** Og skapnaden på andliti deira det var dei andliti som eg hadde set attmed elvi Kebar; soleis såg dei ut, og dei var det. Og kvart eitt av deim gjekk beint fram.
 
 ### Chapter 11
 
@@ -43038,7 +43038,7 @@
 
 **[11:24]** Og åndi lyfte meg og førde meg til Kaldæa, til dei burtførde - i syni, ved Guds Ande, hende det. Og upp ifrå meg for syni som eg hadde set.
 
-**[11:25]** Og eg tala til dei burtførde alle dei Herrens ord som han hadde synt meg. 
+**[11:25]** Og eg tala til dei burtførde alle dei Herrens ord som han hadde synt meg.
 
 ### Chapter 12
 
@@ -43096,7 +43096,7 @@
 
 **[12:27]** Menneskjeson! Sjå, Israels-lyden segjer: «Syni han ser, gjeld dagar langt undan, og um ukomne tider spår han.»
 
-**[12:28]** Seg difor med deim: So segjer Herren, Herren: No heretter skal ikkje noko av mine ord drygjast ut lenger, det ord som eg talar, skal setjast i verk, segjer Herren, Herren. 
+**[12:28]** Seg difor med deim: So segjer Herren, Herren: No heretter skal ikkje noko av mine ord drygjast ut lenger, det ord som eg talar, skal setjast i verk, segjer Herren, Herren.
 
 ### Chapter 13
 
@@ -43144,7 +43144,7 @@
 
 **[13:22]** For di de ved lygn fær rettferdig manns hjarta til å vanmodast, endå eg ikkje hev gjort honom vanmoda, og de hev gjort gudlaus manns hender sterke, for at han ikkje skulde venda um frå sin vonde veg so eg kunde få halda honom i live,
 
-**[13:23]** difor skal de ikkje hava fåfengde syner, og rune-kunster fær det ikkje fara med lenger; og eg vil berga mitt folk ut or dykkar hender, og de skal sanna at eg er Herren. 
+**[13:23]** difor skal de ikkje hava fåfengde syner, og rune-kunster fær det ikkje fara med lenger; og eg vil berga mitt folk ut or dykkar hender, og de skal sanna at eg er Herren.
 
 ### Chapter 14
 
@@ -43192,7 +43192,7 @@
 
 **[14:22]** Men sjå, det vert leivt nokre undankomne, som vert burtførde, søner og døtter - sjå, dei skal fara til dykk, og de skal sjå deira åtferd og gjerningar; då skal de trøysta dykk etter ulukka som eg førde yver Jerusalem, alt som eg let koma yver det.
 
-**[14:23]** Og dei skal trøysta dykk, når de ser deira åtferd og gjerningar. Då skal de skyna at eg ikkje utan grunn hev gjort alt det eg hev gjort imot det, segjer Herren, Herren. 
+**[14:23]** Og dei skal trøysta dykk, når de ser deira åtferd og gjerningar. Då skal de skyna at eg ikkje utan grunn hev gjort alt det eg hev gjort imot det, segjer Herren, Herren.
 
 ### Chapter 15
 
@@ -43210,7 +43210,7 @@
 
 **[15:7]** Og eg vil setja mi åsyn mot deim; utor elden gjekk dei, men elden skal endå øyda deim ut. Og de skal sanna at eg er Herren, når eg set mi åsyn mot deim.
 
-**[15:8]** Og eg vil gjera landet til ei øydemark, for di dei hev svike meg, segjer Herren, Herren. 
+**[15:8]** Og eg vil gjera landet til ei øydemark, for di dei hev svike meg, segjer Herren, Herren.
 
 ### Chapter 16
 
@@ -43338,7 +43338,7 @@
 
 **[16:62]** Og eg vil gjera mi pakt med deg, og du skal sanna at eg er Herren,
 
-**[16:63]** for at du skal minnast og blygjast og ikkje lata upp munnen din berre for blygsl, når eg tilgjev deg alt det du hev gjort, segjer Herren, Herren. 
+**[16:63]** for at du skal minnast og blygjast og ikkje lata upp munnen din berre for blygsl, når eg tilgjev deg alt det du hev gjort, segjer Herren, Herren.
 
 ### Chapter 17
 
@@ -43388,7 +43388,7 @@
 
 **[17:23]** På Israels høge fjell vil eg planta honom, og han skal få greiner og bera frukt og verta eit gildt cedertre. Og alle fuglar, alt fljugande, skal bu under det, i skuggen av greinerne på det skal dei bu.
 
-**[17:24]** Og alle trei på marki skal skyna at eg, Herren, hev gjort eit høgt tre lågt og eit lågt tre høgt, hev late eit grønt tre torna og eit turt tre grønka. Eg, Herren, hev tala, og eg set det i verk. 
+**[17:24]** Og alle trei på marki skal skyna at eg, Herren, hev gjort eit høgt tre lågt og eit lågt tre høgt, hev late eit grønt tre torna og eit turt tre grønka. Eg, Herren, hev tala, og eg set det i verk.
 
 ### Chapter 18
 
@@ -43454,7 +43454,7 @@
 
 **[18:31]** Kasta frå dykk alle dykkar misgjerningar som de hev misfare dykk med, og få dykk eit nytt hjarta og ei ny ånd! For kvi vil de døy, du Israels lyd?
 
-**[18:32]** For eg hev ikkje hugnad i dauden åt den som døyr, segjer Herren, Herren. So vend då um, so skal de liva! 
+**[18:32]** For eg hev ikkje hugnad i dauden åt den som døyr, segjer Herren, Herren. So vend då um, so skal de liva!
 
 ### Chapter 19
 
@@ -43484,7 +43484,7 @@
 
 **[19:13]** Og no er det planta i audni, i eit land so turt og tyrst.
 
-**[19:14]** Og eld gjekk ut frå den kvistute grein, han øydde frukti. Og det hev ikkje meir nokor sterk grein til hovdingstav.» - Ein syrgjesong er det, og til ein syrgjesong vart det. 
+**[19:14]** Og eld gjekk ut frå den kvistute grein, han øydde frukti. Og det hev ikkje meir nokor sterk grein til hovdingstav.» - Ein syrgjesong er det, og til ein syrgjesong vart det.
 
 ### Chapter 20
 
@@ -43584,7 +43584,7 @@
 
 **[20:48]** Og alt kjøt skal sjå at eg, Herren, hev kveikt honom; slokna skal han ikkje.
 
-**[20:49]** Då sagde eg: «Å, Herre, Herre! Dei segjer um meg: «Er det ikkje berre i likningar han talar?»» 
+**[20:49]** Då sagde eg: «Å, Herre, Herre! Dei segjer um meg: «Er det ikkje berre i likningar han talar?»»
 
 ### Chapter 21
 
@@ -43650,7 +43650,7 @@
 
 **[21:31]** Eg vil renna utyver deg min harm, min vreideloge vil eg blåsa imot deg og gjeva deg i henderne på villmenner, meistrar i tynarverk.
 
-**[21:32]** Elden skal øyda deg, ditt blod skal verta utrent midt i landet, ingen skal koma deg i meir hug; for eg, Herren, hev tala. 
+**[21:32]** Elden skal øyda deg, ditt blod skal verta utrent midt i landet, ingen skal koma deg i meir hug; for eg, Herren, hev tala.
 
 ### Chapter 22
 
@@ -43714,7 +43714,7 @@
 
 **[22:30]** Og eg leita etter ein mann millom deim som vilde mura mur og standa i gapet framfor mi åsyn til vern for landet, so eg ikkje skulde leggja det i øyde, men eg fann ingen.
 
-**[22:31]** So vil eg då renna ut min vreide, i min brennande harm gjer eg ende på deim. Åtferdi deira legg eg på deira eige hovud, segjer Herren, Herren. 
+**[22:31]** So vil eg då renna ut min vreide, i min brennande harm gjer eg ende på deim. Åtferdi deira legg eg på deira eige hovud, segjer Herren, Herren.
 
 ### Chapter 23
 
@@ -43814,7 +43814,7 @@
 
 **[23:48]** Soleis vil eg gjera ende på skjemdarferdi i landet, og alle kvinnor skal læra å vara seg, so dei ikkje fer med slik ei skjemdarferd som dei.
 
-**[23:49]** Og dei skal leggja dykkar skjemdarferd på dykk, og dykkar synder med dei ufysne avgudarne dykkar skal de bera, og de skal sanna at eg er Herren, Herren. 
+**[23:49]** Og dei skal leggja dykkar skjemdarferd på dykk, og dykkar synder med dei ufysne avgudarne dykkar skal de bera, og de skal sanna at eg er Herren, Herren.
 
 ### Chapter 24
 
@@ -43870,7 +43870,7 @@
 
 **[24:26]** at den dagen skal dei som slepp undan koma til deg og gjera det kunnigt, so folk høyrer på?
 
-**[24:27]** Den same dagen skal du få lata upp munnen, når dei undansloppne er komne, og du skal tala og ikkje lenger vera mållaus, og du skal vera eit teikn åt deim, og dei skal sanna at eg er Herren. 
+**[24:27]** Den same dagen skal du få lata upp munnen, når dei undansloppne er komne, og du skal tala og ikkje lenger vera mållaus, og du skal vera eit teikn åt deim, og dei skal sanna at eg er Herren.
 
 ### Chapter 25
 
@@ -43906,7 +43906,7 @@
 
 **[25:16]** difor, so segjer Herren, Herren: Sjå, eg rettar ut handi mi mot filistarane og ryd ut kretarane og tyner det som vert leivt attmed havstrandi.
 
-**[25:17]** Og eg vil lata stor hemn råma deim vreide-refsingar, og dei skal sanna at eg er Herren, når eg let hemnen min nå deim. 
+**[25:17]** Og eg vil lata stor hemn råma deim vreide-refsingar, og dei skal sanna at eg er Herren, når eg let hemnen min nå deim.
 
 ### Chapter 26
 
@@ -43950,7 +43950,7 @@
 
 **[26:20]** då støyper eg deg ned med deim som i gravi fer ned, til folket frå fordom, og let deg bu i nedheimen, i audner frå æva, med deim som fer ned i gravi, so ingen skal bu i deg; men eg vil gjeva pryda i landet åt dei livande.
 
-**[26:21]** Til ei skræma vil eg gjera deg, og so er du upp i inkje, og ein skal leita etter deg, men ikkje finna deg i all æva, segjer Herren, Herren. 
+**[26:21]** Til ei skræma vil eg gjera deg, og so er du upp i inkje, og ein skal leita etter deg, men ikkje finna deg i all æva, segjer Herren, Herren.
 
 ### Chapter 27
 
@@ -44024,7 +44024,7 @@
 
 **[27:35]** Alle som bur på havstrenderne, tek fæla av din lagnad; det rys deira kongar i holdet, deira andlit bivra.
 
-**[27:36]** Kjøpmennerne ibland folkeslagi hæder deg; Ei skræma er du vorten, du er ikkje til - i all æva. 
+**[27:36]** Kjøpmennerne ibland folkeslagi hæder deg; Ei skræma er du vorten, du er ikkje til - i all æva.
 
 ### Chapter 28
 
@@ -44078,7 +44078,7 @@
 
 **[28:25]** So segjer Herren, Herren: Når eg samlar Israels-lyden ifrå folki der som dei er spreidde, då vil eg helga meg på deim framfor augo på folkeslag, og dei skal bu i sitt land som eg gav min tenar Jakob.
 
-**[28:26]** Og dei skal bu der i trygd og byggja hus og planta vinhagar, ja, dei skal bu i trygd, medan eg held dom yver alle deira grannar som vanvyrde deim. Og dei skal sanna at eg, Herren, er deira Gud. 
+**[28:26]** Og dei skal bu der i trygd og byggja hus og planta vinhagar, ja, dei skal bu i trygd, medan eg held dom yver alle deira grannar som vanvyrde deim. Og dei skal sanna at eg, Herren, er deira Gud.
 
 ### Chapter 29
 
@@ -44122,7 +44122,7 @@
 
 **[29:20]** Til løn åt honom for strævet gjev eg honom Egyptarland; for dei hev arbeidt for meg, segjer Herren, Herren.
 
-**[29:21]** Den same dagen vil eg lata eit horn veksa upp åt Israels-lyden; og du skal få lata upp din munn midt ibland deim, og dei skal sanna at eg er Herren. 
+**[29:21]** Den same dagen vil eg lata eit horn veksa upp åt Israels-lyden; og du skal få lata upp din munn midt ibland deim, og dei skal sanna at eg er Herren.
 
 ### Chapter 30
 
@@ -44176,7 +44176,7 @@
 
 **[30:25]** Ja, Babel-kongens armar vil eg styrkja, men Faraos armar skal siga ned. Og dei skal sanna at eg er Herren, når eg gjev Babel-kongen sverdet mitt i hand, og han retter det ut mot Egyptarland.
 
-**[30:26]** Og eg vil spreida egyptarane ibland folki og strå deim ut i landi, og dei skal sanna at eg er Herren. 
+**[30:26]** Og eg vil spreida egyptarane ibland folki og strå deim ut i landi, og dei skal sanna at eg er Herren.
 
 ### Chapter 31
 
@@ -44214,7 +44214,7 @@
 
 **[31:17]** Dei og for ned i helheimen til deim som var slegne i hel med sverd. For dei hadde vore hans arm medan dei sat i livd i hans skugge midt imillom folki.
 
-**[31:18]** Kven likjest du soleis på i herlegdom og storvyrda ibland Eden-trei? - So skal du då verta støypt med Eden-trei ned i nedheimen; midt imillom u-umskorne skal du liggja med deim som er slegne i hel med sverd. Dette er Farao og heile hans ståkande mengd, segjer Herren, Herren. 
+**[31:18]** Kven likjest du soleis på i herlegdom og storvyrda ibland Eden-trei? - So skal du då verta støypt med Eden-trei ned i nedheimen; midt imillom u-umskorne skal du liggja med deim som er slegne i hel med sverd. Dette er Farao og heile hans ståkande mengd, segjer Herren, Herren.
 
 ### Chapter 32
 
@@ -44280,7 +44280,7 @@
 
 **[32:31]** Deim skal Farao sjå, og huggast yver all si ståkande mengd. Slegne i hel med sverd er Farao og heile hans her, segjer Herren, Herren.
 
-**[32:32]** For eg breidde ut rædsla for honom i landet åt dei livande. Og han skal verta lagd hjå dei u-umskorne, med deim som er slegne i hel med sverd, Farao og all hans ståkande mengd, segjer Herren, Herren. 
+**[32:32]** For eg breidde ut rædsla for honom i landet åt dei livande. Og han skal verta lagd hjå dei u-umskorne, med deim som er slegne i hel med sverd, Farao og all hans ståkande mengd, segjer Herren, Herren.
 
 ### Chapter 33
 
@@ -44348,7 +44348,7 @@
 
 **[33:32]** Og sjå, du er som eit elskhugskvæde åt deim, som ein songar med vænt mål og ljuvlegt spel. Og dei lyder på ordi dine, men gjer ikkje etter deim.
 
-**[33:33]** Men når det kjem - og koma skal det - då skal dei sanna at ein profet hev vore millom deim. 
+**[33:33]** Men når det kjem - og koma skal det - då skal dei sanna at ein profet hev vore millom deim.
 
 ### Chapter 34
 
@@ -44412,7 +44412,7 @@
 
 **[34:30]** Og dei skal sanna at eg, Herren, deira Gud, er med deim, og at dei, Israels-lyden, er mitt folk, segjer Herren, Herren.
 
-**[34:31]** Og de, sauerne mine, sauerne som eg beiter, menneskje er de. Eg er dykkar Gud segjer, Herren, Herren. 
+**[34:31]** Og de, sauerne mine, sauerne som eg beiter, menneskje er de. Eg er dykkar Gud segjer, Herren, Herren.
 
 ### Chapter 35
 
@@ -44444,7 +44444,7 @@
 
 **[35:14]** So segjer Herren, Herren: Medan all jordi fagnar seg, vil eg leggja deg i øyde.
 
-**[35:15]** Likeins som du fagna deg yver arvluten åt Israels-lyden, at han vart avøyd, so vil eg gjera med deg; til audn skal du verta, du Se’irfjell, og alt Edom - alt i hop, og dei skal sanna at eg er Herren. 
+**[35:15]** Likeins som du fagna deg yver arvluten åt Israels-lyden, at han vart avøyd, so vil eg gjera med deg; til audn skal du verta, du Se’irfjell, og alt Edom - alt i hop, og dei skal sanna at eg er Herren.
 
 ### Chapter 36
 
@@ -44522,7 +44522,7 @@
 
 **[36:37]** So segjer Herren, Herren: I dette og vil eg lata Israels born finna meg, so eg gjer det for deim: Eg let menneskje aukast som ein saueflokk.
 
-**[36:38]** Som ein heilag saueflokk, som Jerusalems-sauer i høgtiderne, soleis skal dei aude byarne verta: fulle med manneflokkar. Og dei skal sanna at eg er Herren. 
+**[36:38]** Som ein heilag saueflokk, som Jerusalems-sauer i høgtiderne, soleis skal dei aude byarne verta: fulle med manneflokkar. Og dei skal sanna at eg er Herren.
 
 ### Chapter 37
 
@@ -44580,7 +44580,7 @@
 
 **[37:27]** Og min bustad skal vera yver deim, og eg skal vera deira Gud, og dei skal vera mitt folk.
 
-**[37:28]** Og folki skal sanna at eg er Herren som helgar Israel, når min heilagdom vert verande millom deim æveleg.» 
+**[37:28]** Og folki skal sanna at eg er Herren som helgar Israel, når min heilagdom vert verande millom deim æveleg.»
 
 ### Chapter 38
 
@@ -44628,7 +44628,7 @@
 
 **[38:22]** Og eg vil halda dom yver honom med sott og med blod. Og hyljande regn og haglande steinar, eld og svåvel vil eg lata regna yver honom og yver hans herskarar og yver dei mange folkeslag som er med honom.
 
-**[38:23]** Og eg vil syna meg stor og heilag og gjera meg kjend for augo på mange folkeslag. Og dei skal sanna at eg er Herren. 
+**[38:23]** Og eg vil syna meg stor og heilag og gjera meg kjend for augo på mange folkeslag. Og dei skal sanna at eg er Herren.
 
 ### Chapter 39
 
@@ -44688,7 +44688,7 @@
 
 **[39:28]** då skal dei sanna at eg er Herren, deira Gud, med di at eg førde deim burt til folkeslagi, men samlar deim no inn i deira eige land og ikkje leiver ein einaste av deim etter meg der.
 
-**[39:29]** So vil eg aldri meir løyna mi åsyn for deim, for eg hev rent ut min ande yver Israels-lyden, segjer Herren, Herren. 
+**[39:29]** So vil eg aldri meir løyna mi åsyn for deim, for eg hev rent ut min ande yver Israels-lyden, segjer Herren, Herren.
 
 ### Chapter 40
 
@@ -44788,7 +44788,7 @@
 
 **[40:48]** So let han meg koma til forhalli i huset. Og han mælte stolparne i forhalli: fem alner på den eine sida og fem alner på hi, og breiddi på porten: tri alner på den eine sida og tri alner på hi.
 
-**[40:49]** Forhalli var tjuge alner lang og elleve alner breid, og ho hadde troppestig som dei steig upp til henne på. Og det var sulor innmed stolparne, ei på kvar sida. 
+**[40:49]** Forhalli var tjuge alner lang og elleve alner breid, og ho hadde troppestig som dei steig upp til henne på. Og det var sulor innmed stolparne, ei på kvar sida.
 
 ### Chapter 41
 
@@ -44842,7 +44842,7 @@
 
 **[41:25]** Og på deim, på tempeldørerne, var det gjort kerubar og palmor likeins som på veggjerne. Og det var eit vartak av tre på framsida åt forhalli utantil.
 
-**[41:26]** Og det var vindaugo med fast grind og palmor på sideveggjerne åt forhalli, på båe sidor, likeins på sidekovarne i huset og på vartaki. 
+**[41:26]** Og det var vindaugo med fast grind og palmor på sideveggjerne åt forhalli, på båe sidor, likeins på sidekovarne i huset og på vartaki.
 
 ### Chapter 42
 
@@ -44884,7 +44884,7 @@
 
 **[42:19]** Han snudde og gjekk mot vestsida; han mælte fem hundrad stenger etter mælestong.
 
-**[42:20]** På dei fire sidorne mælte han det. Det hadde ein mur rundt ikring: fem hundrad stenger lang og fem hundrad breid, til å skilja det heilage frå det som var uhelga. 
+**[42:20]** På dei fire sidorne mælte han det. Det hadde ein mur rundt ikring: fem hundrad stenger lang og fem hundrad breid, til å skilja det heilage frå det som var uhelga.
 
 ### Chapter 43
 
@@ -44940,7 +44940,7 @@
 
 **[43:26]** I sju dagar skal dei gjera soning for altaret og reinsa det og vigja det.
 
-**[43:27]** Og når dei hev fullenda dei dagarne, skal prestarne åttande dagen og fremetter ofra brennofferet dykkar og takkofferi dykkar på altaret, og eg vil hava hugnad i dykk, segjer Herren, Herren.» 
+**[43:27]** Og når dei hev fullenda dei dagarne, skal prestarne åttande dagen og fremetter ofra brennofferet dykkar og takkofferi dykkar på altaret, og eg vil hava hugnad i dykk, segjer Herren, Herren.»
 
 ### Chapter 44
 
@@ -45004,7 +45004,7 @@
 
 **[44:30]** Det aller fyrste av allslags grøda og alle offergåvor av alle slag skal vera åt prestarne. Og det fyrste gropet de mel, skal de gjeva presten, so velsigning må koma yver huset ditt.
 
-**[44:31]** Noko sjølvdaudt eller ihelrive av fugl eller fe må ikkje prestarne eta. 
+**[44:31]** Noko sjølvdaudt eller ihelrive av fugl eller fe må ikkje prestarne eta.
 
 ### Chapter 45
 
@@ -45056,7 +45056,7 @@
 
 **[45:24]** Og til grjonoffer skal han ofra ein efa med kvar ukse og ein efa med kvar ver og ein åttung olje med kvar efa.
 
-**[45:25]** Den femtande dagen i sjuande månaden, på høgtidi, skal han gjera likeins både syndofferet og med brennofferet og med grjonofferet og oljen i sju dagar. 
+**[45:25]** Den femtande dagen i sjuande månaden, på høgtidi, skal han gjera likeins både syndofferet og med brennofferet og med grjonofferet og oljen i sju dagar.
 
 ### Chapter 46
 
@@ -45106,7 +45106,7 @@
 
 **[46:23]** Og det gjekk ein murgard rundt ikring inni deim, rundt ikring i alle fire. So var det gjort gruvor til å koka i nedantil med murgarden rundt ikring.
 
-**[46:24]** Og han sagde med meg: «Dette er kokehusi der tenarane i huset skal koka slagtofferi åt folket.» 
+**[46:24]** Og han sagde med meg: «Dette er kokehusi der tenarane i huset skal koka slagtofferi åt folket.»
 
 ### Chapter 47
 
@@ -45154,7 +45154,7 @@
 
 **[47:22]** Og soleis skal det vera: De skal skifta det ut til odel åt dykk sjølve og dei framande som bur hjå dykk og hev fenge born ibland dykk. Og dei skal vera for dykk som dei som er fødde og borne i sjølve Israel; odelsjord skal dei hava med dykk ibland ætterne i Israel.
 
-**[47:23]** Og so skal det vera: I den ætti der den framande bur, der skal de gjeva honom odelsjordi si, segjer Herren, Herren. 
+**[47:23]** Og so skal det vera: I den ætti der den framande bur, der skal de gjeva honom odelsjordi si, segjer Herren, Herren.
 
 ### Chapter 48
 
@@ -45226,7 +45226,7 @@
 
 **[48:34]** Vestsida: fire tusund og fem hundrad; dei tri portarne der: Gad-porten, ein; Asser-porten, ein; Naftali-porten, ein.
 
-**[48:35]** Rundt ikring: attan tusund. Og namnet på byen skal vera frå den dagen: «Herren er der».  
+**[48:35]** Rundt ikring: attan tusund. Og namnet på byen skal vera frå den dagen: «Herren er der».
 
 ## Daniel
 
@@ -45272,7 +45272,7 @@
 
 **[1:20]** Og stødt når kongen spurde deim til i ei sak som det skulde visdom til å skyna seg på, fann han at dei var ti gonger visare enn alle runemeistrar og manarar som fanst i heile hans rike.
 
-**[1:21]** Og Daniel heldt fram soleis til det fyrste styringsåret åt kong Kyrus. 
+**[1:21]** Og Daniel heldt fram soleis til det fyrste styringsåret åt kong Kyrus.
 
 ### Chapter 2
 
@@ -45372,7 +45372,7 @@
 
 **[2:48]** Etter dette gjorde kongen Daniel til ein stor mann, og gav honom mange dyre gåvor og sette honom til herre yver alt Babelsfylket, og til forstandar for alle dei vise i Babel.
 
-**[2:49]** Og Daniel bad kongen, og han sette Sadrak og Mesak og Abed-Nego til å styra Babelsfylket, men Daniel sjølv stana i kongsgarden. 
+**[2:49]** Og Daniel bad kongen, og han sette Sadrak og Mesak og Abed-Nego til å styra Babelsfylket, men Daniel sjølv stana i kongsgarden.
 
 ### Chapter 3
 
@@ -45434,7 +45434,7 @@
 
 **[3:29]** So gjev eg no det bodet at kven det so er av alle folk og ætter og tungemål som segjer noko usømelegt um Sadrak, Mesak og Abed-Negos Gud, han skal hoggast i sund, og huset hans skal gjerast til ein sorphaug; for det finst ingen gud som kann hjelpa so som han.»
 
-**[3:30]** So let kongen Sadrak, Mesak og Abed-Nego koma til stor æra og magt i Babelsfylket. 
+**[3:30]** So let kongen Sadrak, Mesak og Abed-Nego koma til stor æra og magt i Babelsfylket.
 
 ### Chapter 4
 
@@ -45510,7 +45510,7 @@
 
 **[4:36]** So fekk eg då på den tidi vitet mitt att, og eg fekk att min herlegdom og glans, mitt kongedøme til æra, og rådsherrarne og stormennerne mine leita meg upp. Og eg vart innsett i kongedømet mitt att, og endå større magt vart meg gjevi.
 
-**[4:37]** Difor prisar no eg, Nebukadnessar, og høglovar og ærar kongen i himmelen; for alle hans gjerningar er sanning, og vegarne hans er rette, og han kann bøygja deim ned som ferdast i ovmod. 
+**[4:37]** Difor prisar no eg, Nebukadnessar, og høglovar og ærar kongen i himmelen; for alle hans gjerningar er sanning, og vegarne hans er rette, og han kann bøygja deim ned som ferdast i ovmod.
 
 ### Chapter 5
 
@@ -45572,7 +45572,7 @@
 
 **[5:29]** Då baud Belsassar, og dei klædde Daniel i purpur, og hengde ei gullkjeda um halsen hans, og ropa ut um honom at han skulde vera tridje mannen i riket.
 
-**[5:30]** Same natti vart Belsassar, kaldæarkongen, drepen. 
+**[5:30]** Same natti vart Belsassar, kaldæarkongen, drepen.
 
 **[5:31]** 
 
@@ -45632,7 +45632,7 @@
 
 **[6:27]** Hermed gjev eg det bodet at i heile mitt rike skal folk skjelva og ottast for Daniels Gud. For han er den livande Gud, som skal vera i all æva; og riket hans er eit som ikkje kann øydast, og veldet hans varer alt til enden.
 
-**[6:28]** Han frelsar og friar ut, han gjer teikn og under i himmelen og på jordi, han som hev frelst Daniel or løve-vald.» Og denne Daniel steig i æra og magt i styringstidi åt Darius og persaren Kyrus. 
+**[6:28]** Han frelsar og friar ut, han gjer teikn og under i himmelen og på jordi, han som hev frelst Daniel or løve-vald.» Og denne Daniel steig i æra og magt i styringstidi åt Darius og persaren Kyrus.
 
 ### Chapter 7
 
@@ -45690,7 +45690,7 @@
 
 **[7:27]** Men herredøme og veldet og stordom yver alle rike under himmelen skal verta gjeve til lyden av dei heilage åt den Høgste. Hans rike skal vera eit ævelegt rike, og alle herrevelde skal tena og lyda det.»
 
-**[7:28]** Her sluttar fråsegni. Men eg, Daniel, vart full av mange urolege tankar, og eg skifte liter i andlitet; men eg gøymde i hjarta mitt det som hadde hendt. 
+**[7:28]** Her sluttar fråsegni. Men eg, Daniel, vart full av mange urolege tankar, og eg skifte liter i andlitet; men eg gøymde i hjarta mitt det som hadde hendt.
 
 ### Chapter 8
 
@@ -45746,7 +45746,7 @@
 
 **[8:26]** Og sanning er syni um kveldarne og morgnarne, som no er umtala. Men gøym du denne syni, for ho peikar langt fram i tidi.»
 
-**[8:27]** Men eg, Daniel, vart reint utav det og låg sjuk ei tid. Sidan kom eg meg på føterne att og gjorde mi tenesta hjå kongen; og eg var forstøkt yver syni; men det var ingen som merka det. 
+**[8:27]** Men eg, Daniel, vart reint utav det og låg sjuk ei tid. Sidan kom eg meg på føterne att og gjorde mi tenesta hjå kongen; og eg var forstøkt yver syni; men det var ingen som merka det.
 
 ### Chapter 9
 
@@ -45802,7 +45802,7 @@
 
 **[9:26]** Men etter dei tvo og seksti vikorne skal ein som er salva, verta utrudd og inkje hava. Og byen og heilagdomen skal verta øydde av folket åt ein fyrste som kjem, og han skal enda i ein storflaum; Og alt til enden skal det vera strid. Øyding er urikkeleg avgjord.
 
-**[9:27]** Og han skal gjera eit sterkt samband med mange for ei vika, og ved honom skal slagtoffer og grjonoffer vera avteke for ei halv vika; og på styggedoms veng skal øydaren koma. Detta skal ganga fyre seg, til dess øyding og urikkeleg avgjord straffedom strøymer ut yver øydaren.» 
+**[9:27]** Og han skal gjera eit sterkt samband med mange for ei vika, og ved honom skal slagtoffer og grjonoffer vera avteke for ei halv vika; og på styggedoms veng skal øydaren koma. Detta skal ganga fyre seg, til dess øyding og urikkeleg avgjord straffedom strøymer ut yver øydaren.»
 
 ### Chapter 10
 
@@ -45844,7 +45844,7 @@
 
 **[10:19]** Då sagde han: «Kann du skyna kvifor eg er komen til deg? Men eg lyt straks venda attende og strida mot hovdingen yver Persia, og når eg dreg ut, kjem Javan-hovdingen.
 
-**[10:20]** Like vel vil eg kunngjera deg kva som er skrive i sanningsboki. Og det er ikkje ein som hjelper meg mot desse utan Mikael, hovdingen dykkar. 
+**[10:20]** Like vel vil eg kunngjera deg kva som er skrive i sanningsboki. Og det er ikkje ein som hjelper meg mot desse utan Mikael, hovdingen dykkar.
 
 **[10:21]** 
 
@@ -45938,7 +45938,7 @@
 
 **[11:44]** Då skal han frå aust og nord høyra tidender som støkkjer honom; og han skal draga ut i stor vreide til å øyda og tyna mange.
 
-**[11:45]** Og slottstjeldi sine skal han setja upp millom havet og det herlege heilagdoms-fjellet. Men so ber det til enden med honom, og ingen skal hjelpa honom. 
+**[11:45]** Og slottstjeldi sine skal han setja upp millom havet og det herlege heilagdoms-fjellet. Men so ber det til enden med honom, og ingen skal hjelpa honom.
 
 ### Chapter 12
 
@@ -45966,7 +45966,7 @@
 
 **[12:12]** Sæl er den som biar og når fram til eit tusund tvo hundrad og fem og tretti dagar.
 
-**[12:13]** Men gakk du av stad til endelykti! Når du hev kvilt, skal du standa upp og få din lut, når dagarne fær ende.»  
+**[12:13]** Men gakk du av stad til endelykti! Når du hev kvilt, skal du standa upp og få din lut, når dagarne fær ende.»
 
 ## Hosea
 
@@ -45992,7 +45992,7 @@
 
 **[1:10]** Men talet på Israels born skal vera som sanden på havsens strand, den som ikkje kann mælast eller teljast. Og det skal verta so, at der ein fyrr sagde til deim: «De er ikkje mitt folk,» der skal ein segja til deim: «Borni åt den livande Gud.»
 
-**[1:11]** Og Juda-borni og Israels-borni skal fylkja seg saman og velja seg ein konge og fara upp or landet. For stor er Jizre’els dag. 
+**[1:11]** Og Juda-borni og Israels-borni skal fylkja seg saman og velja seg ein konge og fara upp or landet. For stor er Jizre’els dag.
 
 ### Chapter 2
 
@@ -46040,7 +46040,7 @@
 
 **[2:22]** Og jordi skal bønhøyra kornet og druvesafti og oljen, og dei skal bønhøyra Jizre’el.
 
-**[2:23]** Og plantar meg henne i landet og miskunnar Lo-Ruhama, og eg segjer til Lo-Ammi: «Folket mitt er du!» og ho, ho skal segja: «Min Gud!» 
+**[2:23]** Og plantar meg henne i landet og miskunnar Lo-Ruhama, og eg segjer til Lo-Ammi: «Folket mitt er du!» og ho, ho skal segja: «Min Gud!»
 
 ### Chapter 3
 
@@ -46052,7 +46052,7 @@
 
 **[3:4]** For i mange dagar skal Israels-borni sitja utan konge og hovding, utan ofring og bilætsulor, utan messehakel og husgudar.
 
-**[3:5]** So skal Israels-borni venda um og søkja Herren, sin Gud, og David, kongen sin. Og bivrande skal dei koma til Herren og til hans velsigning i dei seinste dagar. 
+**[3:5]** So skal Israels-borni venda um og søkja Herren, sin Gud, og David, kongen sin. Og bivrande skal dei koma til Herren og til hans velsigning i dei seinste dagar.
 
 ### Chapter 4
 
@@ -46092,7 +46092,7 @@
 
 **[4:18]** Drikkinga deira er måtelaus. Hegdelaust driv dei sitt horeliv. Skjoldarne hennar elskar det som skamlegt er.
 
-**[4:19]** Med eit stormver skal gripa deim med vengjerne sine, og dei skal verta til skammar med ofringarne sine. 
+**[4:19]** Med eit stormver skal gripa deim med vengjerne sine, og dei skal verta til skammar med ofringarne sine.
 
 ### Chapter 5
 
@@ -46124,7 +46124,7 @@
 
 **[5:14]** For eg, som ei løva er eg mot Efraim og som ei ungløva mot Juda hus. Og eg, ja eg riv sund og fer min veg med det, og ikkje finst den som kann berga.
 
-**[5:15]** Eg gjeng min veg attende til min stad, til dess dei hev lide det dei hev fortent, og so fer til å søkja mi åsyn. I si naud skal dei leita etter meg. 
+**[5:15]** Eg gjeng min veg attende til min stad, til dess dei hev lide det dei hev fortent, og so fer til å søkja mi åsyn. I si naud skal dei leita etter meg.
 
 ### Chapter 6
 
@@ -46148,7 +46148,7 @@
 
 **[6:10]** I Israels hus hev eg set gruvelege ting. Der driv Efraim på med hor, sulkar Israel seg til.
 
-**[6:11]** Ogso for deg, Juda, er tiletla ei skurdonn, når eg vender mitt folks lagnad. 
+**[6:11]** Ogso for deg, Juda, er tiletla ei skurdonn, når eg vender mitt folks lagnad.
 
 ### Chapter 7
 
@@ -46182,7 +46182,7 @@
 
 **[7:15]** Det var eg som lærde deim upp, og som styrkte armarne deira. Men imot meg hev dei ilt i hugen.
 
-**[7:16]** Dei vender um, men ikkje uppetter. Dei er liksom ein sviksam boge. Falla for sverd skal hovdingarne deira for si hatige tunga skuld. For det vert dei hædde i Egyptarlandet. 
+**[7:16]** Dei vender um, men ikkje uppetter. Dei er liksom ein sviksam boge. Falla for sverd skal hovdingarne deira for si hatige tunga skuld. For det vert dei hædde i Egyptarlandet.
 
 ### Chapter 8
 
@@ -46212,7 +46212,7 @@
 
 **[8:13]** Til slagtoffergåvor åt meg ofrar dei kjøt som dei et - Herren hev ikkje hugnad i deim. No kjem han i hug misgjerningarne deira og heimsøkjer deira synder. Dei skal fara attende til Egyptarland.
 
-**[8:14]** Og etter di Israel hev gløymt skaparen sin og bygt seg borgar, og Juda hev sett seg upp mange borgfaste byar, so skal eg senda eld mot byarne hans, og han skal øyda borgerne hans. 
+**[8:14]** Og etter di Israel hev gløymt skaparen sin og bygt seg borgar, og Juda hev sett seg upp mange borgfaste byar, so skal eg senda eld mot byarne hans, og han skal øyda borgerne hans.
 
 ### Chapter 9
 
@@ -46248,7 +46248,7 @@
 
 **[9:16]** Stungen er Efraim, roti deira turka, frukt skal dei ikkje bera. Og um dei fær born, drep eg den dyre livsfrukti deira.
 
-**[9:17]** Min Gud skal støyta deim burt; for ikkje lydde deim på honom, og dei skal flakka heimlause ikring millom folki. 
+**[9:17]** Min Gud skal støyta deim burt; for ikkje lydde deim på honom, og dei skal flakka heimlause ikring millom folki.
 
 ### Chapter 10
 
@@ -46280,7 +46280,7 @@
 
 **[10:14]** Med det reiser seg ein stridsdun millom fylki dine, og alle borgfesti dine skal falla, liksom Bet-Arbel vart lagt i øyde av Salman den stridsdagen då dei krasa både mor og barn.
 
-**[10:15]** Slikt skal Betel føra yver dykk for dykkar store vondskap. Når morgonen rodar, er det ute, ute med Israels-kongen. 
+**[10:15]** Slikt skal Betel føra yver dykk for dykkar store vondskap. Når morgonen rodar, er det ute, ute med Israels-kongen.
 
 ### Chapter 11
 
@@ -46304,7 +46304,7 @@
 
 **[11:10]** Etter Herren skal dei då fylgja, som ei løva skal han bura. Ja, han skal bura, og bivrande skal born koma frå havet.
 
-**[11:11]** Bivrande skal dei koma som fuglar frå Egyptarland og som duvor frå Assurs land. Og eg vil lata deim bu i husi sine, segjer Herren. 
+**[11:11]** Bivrande skal dei koma som fuglar frå Egyptarland og som duvor frå Assurs land. Og eg vil lata deim bu i husi sine, segjer Herren.
 
 **[11:12]** 
 
@@ -46336,7 +46336,7 @@
 
 **[12:13]** Og Jakob rømde til Aramsletta, og Israel træla for ei kona - og for ei kona gjætte han.
 
-**[12:14]** Men ved ein profet førde Herren Israel frå Egyptarland, og ved ein profet gjætte han honom. Sår harm hev Efraim valde. Difor skal Herren hans lata blodskuldi hans koma yver honom, og han skal venda hans skjemdarferd mot honom sjølv. 
+**[12:14]** Men ved ein profet førde Herren Israel frå Egyptarland, og ved ein profet gjætte han honom. Sår harm hev Efraim valde. Difor skal Herren hans lata blodskuldi hans koma yver honom, og han skal venda hans skjemdarferd mot honom sjølv.
 
 ### Chapter 13
 
@@ -46368,7 +46368,7 @@
 
 **[13:14]** Or helheims vald vil eg fria deim, frå dauden vil eg løysa deim ut. Kvar er di sott, du daude? Kvar er di tyning, du helheim? Anger er løynd for augo mine.
 
-**[13:15]** For han, millom brørne sine stend han lavande av frukt; det kjem ein austanvind, eit Herrens ver, farande upp ifrå øydemarki. Då turkar brunnen hans upp, og kjelda hans tryt. Han ranar skatten, alle slag kostnadting. 
+**[13:15]** For han, millom brørne sine stend han lavande av frukt; det kjem ein austanvind, eit Herrens ver, farande upp ifrå øydemarki. Då turkar brunnen hans upp, og kjelda hans tryt. Han ranar skatten, alle slag kostnadting.
 
 **[13:16]** 
 
@@ -46390,7 +46390,7 @@
 
 **[14:8]** Dei som bur i skuggen hans, skal atter avla korn og bløma som vintreet. Minnet um honom skal vera som vin ifrå Libanon.
 
-**[14:9]** Men du, Efraim! Kva skal eg med avgudarne meir? Eg bønhøyrer og ser til honom. Eg er som eit grønt cypresstre. Frå meg skal di frukt vera å finna. Den som er vis, han agte på dette, den som er vitug, merke seg det! For Herrens vegar er rette, og rettvise ferdast på deim, men illgjerdsmenner stuper på deim.  
+**[14:9]** Men du, Efraim! Kva skal eg med avgudarne meir? Eg bønhøyrer og ser til honom. Eg er som eit grønt cypresstre. Frå meg skal di frukt vera å finna. Den som er vis, han agte på dette, den som er vitug, merke seg det! For Herrens vegar er rette, og rettvise ferdast på deim, men illgjerdsmenner stuper på deim.
 
 ## Joel
 
@@ -46434,7 +46434,7 @@
 
 **[1:19]** Til deg, Herre, ropar eg. For elden han åt hamni på heidi, og logen leika i ved og i tre.
 
-**[1:20]** Jamvel dyri i marki etter deg mun stynja, for turre er bekkjefari. Og elden han åt hamni på heidi. 
+**[1:20]** Jamvel dyri i marki etter deg mun stynja, for turre er bekkjefari. Og elden han åt hamni på heidi.
 
 ### Chapter 2
 
@@ -46490,7 +46490,7 @@
 
 **[2:26]** Og de skal få nøgdi eta og mettast. Og då skal de lova namnet åt Herren dykkar Gud, han som hev underleg stelt med dykk, og ikkje skal folket mitt æveleg skjemmast.
 
-**[2:27]** Og de skal merka at eg bur midt i Israel, og at eg er Herren, dykkar Gud, og ingen annan, og ikkje skal folket mitt æveleg skjemmast. 
+**[2:27]** Og de skal merka at eg bur midt i Israel, og at eg er Herren, dykkar Gud, og ingen annan, og ikkje skal folket mitt æveleg skjemmast.
 
 **[2:28]** 
 
@@ -46544,7 +46544,7 @@
 
 **[3:20]** Sol og måne dei svartnar, og stjernorne løyner sin glans.
 
-**[3:21]** Og Herren burar frå Sion, frå Jerusalem gjallar hans mål. Og det bivrar både himmel og jord. Men Herren er ei livd for sitt folk og ei borg for Israels søner. Ja, kjenna skal de at eg er Herren, dykkar Gud, som bur på Sion, mitt heilage berg. Og Jerusalem skal ein heilagdom vera, frammandfolk der aldri meir stiga inn. Då skal på den dagen druvesafti drjupa av fjelli og mjølk frå haugarne strøyma, og alle bekkjer i Juda fløyma med vatn. Ei kjelda spring ut frå Herrens hus og vatnar Akaziedalen. Men Egypt skal øydeland verta, og Edom som ville heidi, for valdsverk mot Judas born. Dei hev øydt skuldlaust blod i sitt land. Men Juda skal sitja æveleg trygt, og Jerusalem frå ætt til ætt. Og eg vil hemner deira blod, som eg ikkje hemnde fyrr. Og Herren skal bu på Sion.  
+**[3:21]** Og Herren burar frå Sion, frå Jerusalem gjallar hans mål. Og det bivrar både himmel og jord. Men Herren er ei livd for sitt folk og ei borg for Israels søner. Ja, kjenna skal de at eg er Herren, dykkar Gud, som bur på Sion, mitt heilage berg. Og Jerusalem skal ein heilagdom vera, frammandfolk der aldri meir stiga inn. Då skal på den dagen druvesafti drjupa av fjelli og mjølk frå haugarne strøyma, og alle bekkjer i Juda fløyma med vatn. Ei kjelda spring ut frå Herrens hus og vatnar Akaziedalen. Men Egypt skal øydeland verta, og Edom som ville heidi, for valdsverk mot Judas born. Dei hev øydt skuldlaust blod i sitt land. Men Juda skal sitja æveleg trygt, og Jerusalem frå ætt til ætt. Og eg vil hemner deira blod, som eg ikkje hemnde fyrr. Og Herren skal bu på Sion.
 
 ## Amos
 
@@ -46578,7 +46578,7 @@
 
 **[1:14]** So kveikjer eg eld i Rabbas mur, han skal øyda deira borger, medan herropet dunar i striden, og eit hardver på stormdagen blæs,
 
-**[1:15]** og i landlysing kongen skal gå, han sjølv med hovdingarn’ saman, segjer Herren. 
+**[1:15]** og i landlysing kongen skal gå, han sjølv med hovdingarn’ saman, segjer Herren.
 
 ### Chapter 2
 
@@ -46602,17 +46602,17 @@
 
 **[2:10]** Det var eg som dykk førde frå Egyptarland og dykk leidde i villmarki fram gjenom fyrti år til å vinna Amorit-landet.
 
-**[2:11]** Eg vekte profetar av dykkar søner, naziræarar bland dykkar ungdomar. Er det ’kje so, de Israels-born? Segjer Herren.
+**[2:11]** Eg vekte profetar av dykkar søner, naziræarar bland dykkar ungdomar. Er det’kje so, de Israels-born? Segjer Herren.
 
 **[2:12]** Men de gav naziræaran’ vin, og baud profetarn’ og sagde: «Profetera ikkje!»
 
 **[2:13]** Sjå no skal eg lata det dynja under dykk som under ei full-lest kornvogn.
 
-**[2:14]** Og den rappe kjem ingen stad av, og den sterke fær ’kje bruka si magt, og kjempa skal ’kje berga sitt liv.
+**[2:14]** Og den rappe kjem ingen stad av, og den sterke fær’kje bruka si magt, og kjempa skal’kje berga sitt liv.
 
-**[2:15]** Mannen med bogen er magtlaus, og lett på fot kann ’kje berga seg, og mannen på hest skal ’kje berga sitt liv.
+**[2:15]** Mannen med bogen er magtlaus, og lett på fot kann’kje berga seg, og mannen på hest skal’kje berga sitt liv.
 
-**[2:16]** Hugdjervaste kjempa ho lyt naken røma på dagen den, segjer Herren. 
+**[2:16]** Hugdjervaste kjempa ho lyt naken røma på dagen den, segjer Herren.
 
 ### Chapter 3
 
@@ -46644,7 +46644,7 @@
 
 **[3:14]** Den dagen eg straffar Israel brot, då straffar eg Betels altar, og altarhorni vert hogne, og dei skal falla til jordi.
 
-**[3:15]** Eg vinterstova hogg ned, sumarstova med. Filsbeinssalar skal falla, og mange hus skal verta øydde, segjer Herren. 
+**[3:15]** Eg vinterstova hogg ned, sumarstova med. Filsbeinssalar skal falla, og mange hus skal verta øydde, segjer Herren.
 
 ### Chapter 4
 
@@ -46658,21 +46658,21 @@
 
 **[4:5]** Til takkoffer syra brød brenn, lys ut at de fri-offer gjer. For slikt mun de lika, de Israels born, segjer Herren, Herren.
 
-**[4:6]** Det var eg som let dykk i kvar ein by vanta maten i munn, brødløysa gav eg i kvar ein heim. Og De vende ’kje um til meg, segjer Herren.
+**[4:6]** Det var eg som let dykk i kvar ein by vanta maten i munn, brødløysa gav eg i kvar ein heim. Og De vende’kje um til meg, segjer Herren.
 
 **[4:7]** Det var eg som heldt regnet attende tri månader fyre skurden. Eg gav regn til den eine byen, den andre byen fekk ingen ting. Den eine åkren fekk regn, og den åkren som ikkje fekk regn, han turka burt.
 
-**[4:8]** Og tvo, tri byar gjekk til ein by til ein vatsdrykk å få, og dei fekk ikkje nok. Men de vende ’kje um til meg, segjer Herren.
+**[4:8]** Og tvo, tri byar gjekk til ein by til ein vatsdrykk å få, og dei fekk ikkje nok. Men de vende’kje um til meg, segjer Herren.
 
-**[4:9]** Kornet eg slo med sotbrand og rust, og hagarne mange og vinbergi og fike- og oljetrei. Deim åt grashoppen upp. Men de vende ’kje um til meg, segjer Herren.
+**[4:9]** Kornet eg slo med sotbrand og rust, og hagarne mange og vinbergi og fike- og oljetrei. Deim åt grashoppen upp. Men de vende’kje um til meg, segjer Herren.
 
-**[4:10]** Eg sende sotti på dykk liksom i Egypt. Eg drap dykkar gutar med sverd. Hestarn’ vart herfang. Eg let dykk illtev frå valen i nasarne få. Men de vende ’kje um til meg, segjer Herren.
+**[4:10]** Eg sende sotti på dykk liksom i Egypt. Eg drap dykkar gutar med sverd. Hestarn’ vart herfang. Eg let dykk illtev frå valen i nasarne få. Men de vende’kje um til meg, segjer Herren.
 
-**[4:11]** Eg gjorde ein omstøyt ibland dykk, som då Gud støytte ned Sodoma og Gomorra. Og de vart som ein brand berga or eld. Men de vende ’kje um til meg, segjer Herren.
+**[4:11]** Eg gjorde ein omstøyt ibland dykk, som då Gud støytte ned Sodoma og Gomorra. Og de vart som ein brand berga or eld. Men de vende’kje um til meg, segjer Herren.
 
 **[4:12]** Difor gjer eg med deg, Israel, so. Sidan eg gjerne vil gjera so med deg, bu deg til å møta din Gud, Israel.
 
-**[4:13]** For sjå: Han som lagar fjelli og skaper vinden, og ein mann sine tankar fortel, og myrker bryt til morgonljos, han som stig på jordheims haugar - Herren, allhers drott, er namnet hans. 
+**[4:13]** For sjå: Han som lagar fjelli og skaper vinden, og ein mann sine tankar fortel, og myrker bryt til morgonljos, han som stig på jordheims haugar - Herren, allhers drott, er namnet hans.
 
 ### Chapter 5
 
@@ -46720,7 +46720,7 @@
 
 **[5:22]** ja, um de meg brennoffer gjev og grjonoffer, det hugar ikkje meg. Eg gjev ikkje på gjødkalve-offer gaum.
 
-**[5:23]** Lat meg vera i fred for din buldrande song, ditt harpespel lyder eg ’kje på.
+**[5:23]** Lat meg vera i fred for din buldrande song, ditt harpespel lyder eg’kje på.
 
 **[5:24]** Men lat rett velta fram som vatn, og rettferd som rennande bekk!
 
@@ -46728,7 +46728,7 @@
 
 **[5:26]** Og bar det då Sukkot, dykkar konge, og Kijun, dykkar bilæte, dykkar gudestjerna, som de hadde gjort dykk?
 
-**[5:27]** Eg vil føra dykk av burtanfor Damaskus, segjer han som heiter Herren, allhers Gud. 
+**[5:27]** Eg vil føra dykk av burtanfor Damaskus, segjer han som heiter Herren, allhers Gud.
 
 ### Chapter 6
 
@@ -46758,7 +46758,7 @@
 
 **[6:13]** I heimløyser hev dei si frygd, dei kved: «Var me ikkje hæve, at me hev vunne oss velde?»
 
-**[6:14]** For sjå, eg reiser imot dykk, Israels hus, eit folk, segjer Herren, allhers Gud. Og det skal dykk slå, frå Hamats grensa til øydemarks å. 
+**[6:14]** For sjå, eg reiser imot dykk, Israels hus, eit folk, segjer Herren, allhers Gud. Og det skal dykk slå, frå Hamats grensa til øydemarks å.
 
 ### Chapter 7
 
@@ -46794,13 +46794,13 @@
 
 **[7:16]** Og no skal du høyra ordet frå Herren. So segjer du: «Ver ikkje profet for Israel. Og ikkje du preike mot Isaks hus!»
 
-**[7:17]** Difor so talar Herren: Di kona vert skjøkja i byen, dine søner og døtter skal falla for sverd, med mælesnor vert gjordet ditt bytt, du sjølv i eit ureint land skal døy, og Israel førast burt frå sitt land.» 
+**[7:17]** Difor so talar Herren: Di kona vert skjøkja i byen, dine søner og døtter skal falla for sverd, med mælesnor vert gjordet ditt bytt, du sjølv i eit ureint land skal døy, og Israel førast burt frå sitt land.»
 
 ### Chapter 8
 
 **[8:1]** Soleis let Herren, Herren meg sjå: Der stod ei korg med mogi frukt.
 
-**[8:2]** Og han sagde: «Kva er det du ser, Amos?» Eg svara: «Ei korg med mogi frukt.» Og Herren sagde: «Haust-moge er mitt folk Israel. Eg vil ’kje bera yver med det meir.
+**[8:2]** Og han sagde: «Kva er det du ser, Amos?» Eg svara: «Ei korg med mogi frukt.» Og Herren sagde: «Haust-moge er mitt folk Israel. Eg vil’kje bera yver med det meir.
 
 **[8:3]** Og slotts-songarn’ yling vert på dagen den,» segjer Herren, Herren. Lik er i mengd kvar ein stad stilt slengde av.
 
@@ -46812,7 +46812,7 @@
 
 **[8:7]** Ved Jakobs byrgskap Herren svor: Aldri skal alt dykkar verk verta gløymt.
 
-**[8:8]** Skulde ’kje for slikt då skjelva jordi og heile mannheimen syrgja, og reint gå i flaum som Nilen, stiga og falla som Egyptarelvi?
+**[8:8]** Skulde’kje for slikt då skjelva jordi og heile mannheimen syrgja, og reint gå i flaum som Nilen, stiga og falla som Egyptarelvi?
 
 **[8:9]** Og det hender på dagen den, segjer Herren, Herren, ved høgstdags bil let eg sol gå ned, og jordi skal myrkna på ljosan dag.
 
@@ -46824,7 +46824,7 @@
 
 **[8:13]** På den dagen skal fagre møyar og unge menn av torsten tynast,
 
-**[8:14]** Dei som sver ved Samarias synd, og som segjer: «So sant din Gud liver, Dan, og so sant Be’ersebas vis liver.» Dei sig ned og ris aldri upp meir. 
+**[8:14]** Dei som sver ved Samarias synd, og som segjer: «So sant din Gud liver, Dan, og so sant Be’ersebas vis liver.» Dei sig ned og ris aldri upp meir.
 
 ### Chapter 9
 
@@ -46856,7 +46856,7 @@
 
 **[9:14]** Og eg lagnaden snur for mitt folk Israel. Dei skal øydegardar byggja og bu der sjølv, dei skal vinberg planta og drikka deira vin, de skal stella seg hagar og eta deira frukt.
 
-**[9:15]** Eg let deim bu i sitt land, og dei skal ikkje meir rivast upp frå sin heim, som eg deim gav, segjer Herren, din Gud.  
+**[9:15]** Eg let deim bu i sitt land, og dei skal ikkje meir rivast upp frå sin heim, som eg deim gav, segjer Herren, din Gud.
 
 ## Obadiah
 
@@ -46870,7 +46870,7 @@
 
 **[1:4]** Um du enn byggjer høgt som ørnen, og reiret ditt ligg millom stjernorne, eg kastar deg ned derifrå, segjer Herren.
 
-**[1:5]** Um tjuvar kom til deg eller ransmenn um natti - kor du vert reint til inkjes! - Vilde dei ’kje stela det dei trong? Og kom dei og hausta ditt vinberg, vilde dei ’kje leiva etter seg?
+**[1:5]** Um tjuvar kom til deg eller ransmenn um natti - kor du vert reint til inkjes! - Vilde dei’kje stela det dei trong? Og kom dei og hausta ditt vinberg, vilde dei’kje leiva etter seg?
 
 **[1:6]** Å, kor dei ransakar Esau, kor dei granskar hans skattar!
 
@@ -46902,7 +46902,7 @@
 
 **[1:20]** Og dei burtførte av denne fylking av Israels-borni skal taka det som finst av kananitar alt til Sarefat, og dei burtførde frå Jerusalem som er i Sefarad, skal taka Sudlands-byarne i eiga.
 
-**[1:21]** Og frelsarar skal draga upp på Sionsfjellet og døma Esaufjellet, og kongsveldet skal høyra Herren til.  
+**[1:21]** Og frelsarar skal draga upp på Sionsfjellet og døma Esaufjellet, og kongsveldet skal høyra Herren til.
 
 ## Jonah
 
@@ -46938,7 +46938,7 @@
 
 **[1:15]** Og dei tok Jona og kasta honom i havet, og straks heldt havet upp å rasa.
 
-**[1:16]** Då fekk mennerne fekk stor age for Herren, og dei ofra slagtoffer til honom og gjorde lovnader. 
+**[1:16]** Då fekk mennerne fekk stor age for Herren, og dei ofra slagtoffer til honom og gjorde lovnader.
 
 **[1:17]** 
 
@@ -46962,7 +46962,7 @@
 
 **[2:9]** Dei som tek vare på tome avgudar, gjeng frå si miskunn.
 
-**[2:10]** Men med lovsongs tonar vil eg ofra til deg, det eg lova, vil eg halda. Hjå Herren er frelsa!» Då baud Herren fisken, og han spydde Jona upp på land. 
+**[2:10]** Men med lovsongs tonar vil eg ofra til deg, det eg lova, vil eg halda. Hjå Herren er frelsa!» Då baud Herren fisken, og han spydde Jona upp på land.
 
 ### Chapter 3
 
@@ -46984,7 +46984,7 @@
 
 **[3:9]** Kven veit? Gud kunde då venda um og angra det, venda um frå den brennande vreide sin, so me ikkje gjeng under.»
 
-**[3:10]** Då no Gud såg det dei gjorde, at dei vende um frå sin vonde veg, angra han det vonde han hadde sagt han vilde gjera mot deim, og han gjorde det ikkje. 
+**[3:10]** Då no Gud såg det dei gjorde, at dei vende um frå sin vonde veg, angra han det vonde han hadde sagt han vilde gjera mot deim, og han gjorde det ikkje.
 
 ### Chapter 4
 
@@ -47008,7 +47008,7 @@
 
 **[4:10]** Då sagde Herren: «Du ynkast yver kikajonen, som du ikkje hev havt møda med og ikkje hev ale upp, som kom til på ei natt og gjekk til grunns etter ei natt;
 
-**[4:11]** og so skulde ikkje eg ynkast yver Nineve, den store byen, der det finst meir enn eit hundrad og tjuge tusund menneskje som ikkje kann skilja millom høgre og vinstre, og mange dyr!»  
+**[4:11]** og so skulde ikkje eg ynkast yver Nineve, den store byen, der det finst meir enn eit hundrad og tjuge tusund menneskje som ikkje kann skilja millom høgre og vinstre, og mange dyr!»
 
 ## Micah
 
@@ -47044,7 +47044,7 @@
 
 **[1:15]** Endå ein gong let eg landvinnaren koma yver dykk som bur i de Maresa. Radt til Adullam skal Israels herlegdom koma.
 
-**[1:16]** Raka deg og klypp deg, i sorg yver kjæleborni dine! Gjer deg snaud til gagns som gribben; for dei vert førde burt ifrå deg. 
+**[1:16]** Raka deg og klypp deg, i sorg yver kjæleborni dine! Gjer deg snaud til gagns som gribben; for dei vert førde burt ifrå deg.
 
 ### Chapter 2
 
@@ -47072,7 +47072,7 @@
 
 **[2:12]** Samla, ja, samla vil eg deg, Jakob, so mange du er; sanka, ja, sanka eg leivningen av Israel. Eg vil føra deim saman som sauer til ei kvi, som ein buskap til sitt beite, so det vert dyn av menneskje.
 
-**[2:13]** Vegbrøytaren fer fyre deim; dei bryt seg igjenom og stimar fram gjenom grindi og slepp ut; kongen deira fer fyre deim, og Herren er i brodden for deim. 
+**[2:13]** Vegbrøytaren fer fyre deim; dei bryt seg igjenom og stimar fram gjenom grindi og slepp ut; kongen deira fer fyre deim, og Herren er i brodden for deim.
 
 ### Chapter 3
 
@@ -47098,7 +47098,7 @@
 
 **[3:11]** hovdingarne der dømer for mutor, prestarne lærer for løn, og profetarne spår for pengar, alt medan dei styd seg på Herren og segjer: «Er ikkje Herren midt imillom oss? Det kjem ingi ulukka yver oss.»
 
-**[3:12]** Difor skal for dykkar skuld Sion verta pløgd som ein åker og Jerusalem skal verta til steinrøysar, og tempelberget til skoghaugar. 
+**[3:12]** Difor skal for dykkar skuld Sion verta pløgd som ein åker og Jerusalem skal verta til steinrøysar, og tempelberget til skoghaugar.
 
 ### Chapter 4
 
@@ -47126,7 +47126,7 @@
 
 **[4:12]** Men dei kjenner ikkje Herrens tankar og skynar ikkje hans rådgjerd; for han hev samla deim som kornband på treskjarstaden.
 
-**[4:13]** So reis deg då og tresk, du dotter Sion! for eg vil gjeva deg horn av jarn og klauver av kopar, so du kann knustra mange folk; og herfanget deira skal du bannlysa åt Herren, og skattar deira til allheims drott. No flokkar du deg saman, du dotter «flokk». Skansar hev dei kasta upp imot oss. Med staven slær dei Israels domar på kinnbeinet. 
+**[4:13]** So reis deg då og tresk, du dotter Sion! for eg vil gjeva deg horn av jarn og klauver av kopar, so du kann knustra mange folk; og herfanget deira skal du bannlysa åt Herren, og skattar deira til allheims drott. No flokkar du deg saman, du dotter «flokk». Skansar hev dei kasta upp imot oss. Med staven slær dei Israels domar på kinnbeinet.
 
 ### Chapter 5
 
@@ -47156,7 +47156,7 @@
 
 **[5:13]** Og eg vil riva upp Astarte-stolparne dine or landet ditt, og byarne dine vil eg øyda.
 
-**[5:14]** Og i vreide og harm tek eg hemn yver dei heidningfolk som ikkje vilde høyra. 
+**[5:14]** Og i vreide og harm tek eg hemn yver dei heidningfolk som ikkje vilde høyra.
 
 **[5:15]** 
 
@@ -47192,7 +47192,7 @@
 
 **[6:15]** Du skal så, men ikkje få hausta. Du skal pressa olivor, men ikkje få salva deg med olje. Du skal pressa druvesaft, men ikkje få drikka vin.
 
-**[6:16]** For fyreskrifterne åt Omri agtar dei vel på, og all gjerning av Ahabs hus, og etter deira råder er det de ferdast, for eg skal gjera deg til ei skræma og ibuarane dine til spott, og vanæra yver folket mitt skal de bera. 
+**[6:16]** For fyreskrifterne åt Omri agtar dei vel på, og all gjerning av Ahabs hus, og etter deira råder er det de ferdast, for eg skal gjera deg til ei skræma og ibuarane dine til spott, og vanæra yver folket mitt skal de bera.
 
 ### Chapter 7
 
@@ -47234,7 +47234,7 @@
 
 **[7:19]** Atter skal han miskunna oss og trakka ned vår skuld. Du skal kasta alle synderne deira i havsens djup.
 
-**[7:20]** Du skal syna Jakob truskap og Abraham miskunn, soleis som du hev svore åt federne våre i gamle dagar.  
+**[7:20]** Du skal syna Jakob truskap og Abraham miskunn, soleis som du hev svore åt federne våre i gamle dagar.
 
 ## Nahum
 
@@ -47266,7 +47266,7 @@
 
 **[1:13]** For no vil eg brjota det oket han lagde på deg, og slita bandi dine.
 
-**[1:14]** Men um deg byd Herren so: Inkje avkjøme skal heretter koma frå namnet ditt. Or huset åt guden din vil eg rydja ut både skorne og støypte bilæte. Ei grav vil eg bu til åt deg. For du er funnen for lett. 
+**[1:14]** Men um deg byd Herren so: Inkje avkjøme skal heretter koma frå namnet ditt. Or huset åt guden din vil eg rydja ut både skorne og støypte bilæte. Ei grav vil eg bu til åt deg. For du er funnen for lett.
 
 **[1:15]** 
 
@@ -47296,7 +47296,7 @@
 
 **[2:12]** Kvar er no løvehiet, etar-staden åt ungløvorne, der løva og løvemori gjekk, og løve-ungen, og ingen skræmde deim?
 
-**[2:13]** Kvar er løva som rana so mykje som ungarne vilde hava, og drap åt løvemøderne, ja, fyllte upp holorne sine med ran og hii sine med det sundrivne? Sjå, eg skal venda mot deg, segjer Herren, allhers drott. Vognerne dine skal eg lata ganga upp i røyk, og dine unge løvor skal sverdet øyda. Eg skal rydja ditt rov ut frå jordi. Og ingen skal meir høyra røysti åt dine sendemenner. 
+**[2:13]** Kvar er løva som rana so mykje som ungarne vilde hava, og drap åt løvemøderne, ja, fyllte upp holorne sine med ran og hii sine med det sundrivne? Sjå, eg skal venda mot deg, segjer Herren, allhers drott. Vognerne dine skal eg lata ganga upp i røyk, og dine unge løvor skal sverdet øyda. Eg skal rydja ditt rov ut frå jordi. Og ingen skal meir høyra røysti åt dine sendemenner.
 
 ### Chapter 3
 
@@ -47336,7 +47336,7 @@
 
 **[3:18]** Hyrdingarne dine blundar, du Assur-konge, gjævingarne dine søv. Folket ditt sundsprengt på fjelli, og ingen samlar det saman.
 
-**[3:19]** Ditt mein er ulækjande, ditt sår er til ulivs. Ved tiendi um deg klappar alle i handi. For kven hev ikkje din vondskap råka stødt og stendigt?  
+**[3:19]** Ditt mein er ulækjande, ditt sår er til ulivs. Ved tiendi um deg klappar alle i handi. For kven hev ikkje din vondskap råka stødt og stendigt?
 
 ## Habakkuk
 
@@ -47374,7 +47374,7 @@
 
 **[1:16]** Difor ofrar han til garnet sitt, brenner røykjelse for noti si, for dei gjev honom hans feite lut og mergfull mat.
 
-**[1:17]** Skal han difor få tøma garnet sitt og stødt og stendigt drepa folkeslag utan skonsel? 
+**[1:17]** Skal han difor få tøma garnet sitt og stødt og stendigt drepa folkeslag utan skonsel?
 
 ### Chapter 2
 
@@ -47416,7 +47416,7 @@
 
 **[2:19]** Usæl den som segjer til stokken: «Vakna!» Og: «Reis deg!» til mållause steinen. Skulde den vera lærar? Visst er han slegen med gull og sylv, men det finst ikkje ånd i honom.
 
-**[2:20]** Men Herren er i sitt heilage tempel; ver still for honom, all jordi! 
+**[2:20]** Men Herren er i sitt heilage tempel; ver still for honom, all jordi!
 
 ### Chapter 3
 
@@ -47456,7 +47456,7 @@
 
 **[3:18]** Men eg vil frygda meg i Herren, vil gleda meg i Gud som frelser meg.
 
-**[3:19]** Herren, Herren er min styrke, han gjev meg føter som ei hind og let meg skrida yver mine haugar. Til songmeisteren, med min strengleik.  
+**[3:19]** Herren, Herren er min styrke, han gjev meg føter som ei hind og let meg skrida yver mine haugar. Til songmeisteren, med min strengleik.
 
 ## Zephaniah
 
@@ -47496,7 +47496,7 @@
 
 **[1:17]** Då vil eg setja folk i slik angest, at dei gjeng der som blinde, for di dei hev synda mot Herren. Blodet deira skal verta burtslengt som mold, og kjøtet deira som møk.
 
-**[1:18]** Korkje sylvet eller gullet deira skal kunde berga deim på Herrens vreide-dag, når elden frå hans brennhug øyder all jordi; for han vil gjera ende, ja, ein brå ende på alle deim som bur på jordi. 
+**[1:18]** Korkje sylvet eller gullet deira skal kunde berga deim på Herrens vreide-dag, når elden frå hans brennhug øyder all jordi; for han vil gjera ende, ja, ein brå ende på alle deim som bur på jordi.
 
 ### Chapter 2
 
@@ -47528,7 +47528,7 @@
 
 **[2:14]** Hjorder skal lægra seg der inne, alle slag villdyr i flokk. Pelikan og bustyvel skal natta på sulehovudi der, fuglelåt høyrast i vindaugo, øyda bu på dørstokken, for cederpanelet hev han rive.
 
-**[2:15]** Dette er den jublande byen, som sat so trygt og sagde i sitt hjarta: «Eg og ingen annan!» Kor aud han er vorten, eit læger for villdyr! Kvar den som framum fer, blistrar og vinkar med handi. 
+**[2:15]** Dette er den jublande byen, som sat so trygt og sagde i sitt hjarta: «Eg og ingen annan!» Kor aud han er vorten, eit læger for villdyr! Kvar den som framum fer, blistrar og vinkar med handi.
 
 ### Chapter 3
 
@@ -47570,7 +47570,7 @@
 
 **[3:19]** Sjå, på den tidi vil eg taka på trælkarane dine, og eg vil frelsa dei halte og sanka saman dei burtdrivne og gjera deim til æra og gjetord yver heile jordi, der dei fyrr var vanæra.
 
-**[3:20]** På den tid let eg dykk koma heim att, på den tid sankar eg dykk, og eg vil gjera dykk til gjetord og æra millom alle folki på jordi, når eg vender lagnaden dykkar for augo på dykk, segjer Herren.  
+**[3:20]** På den tid let eg dykk koma heim att, på den tid sankar eg dykk, og eg vil gjera dykk til gjetord og æra millom alle folki på jordi, når eg vender lagnaden dykkar for augo på dykk, segjer Herren.
 
 ## Haggai
 
@@ -47604,7 +47604,7 @@
 
 **[1:14]** Og Herren kveikte hugen hjå Zerubbabel Sealtielsson, jarlen yver Juda, og hjå øvstepresten Josva Josadaksson og hjå alle deim som var att av folket, so dei lagde i veg og arbeidde på huset åt Herren, allhers drott, deira Gud;
 
-**[1:15]** den fire og tjugande dagen i sette månaden i andre styringsåret åt kong Darius. 
+**[1:15]** den fire og tjugande dagen i sette månaden i andre styringsåret åt kong Darius.
 
 ### Chapter 2
 
@@ -47652,7 +47652,7 @@
 
 **[2:22]** eg skal velta i koll kongsstolarne og tyna veldet åt dei heidne kongeriki; eg skal velta stridsvognerne og deim som stend på deim, og hestarne skal stupa og ridarene med, den eine for sverdet åt hin.
 
-**[2:23]** Den dagen, segjer Herren, allhers drott, tek eg deg, Zerubbabel Sealtielsson, du min tenar, og gjer deg til ein seglring; for deg hev eg valt ut, segjer Herren, allhers drott.  
+**[2:23]** Den dagen, segjer Herren, allhers drott, tek eg deg, Zerubbabel Sealtielsson, du min tenar, og gjer deg til ein seglring; for deg hev eg valt ut, segjer Herren, allhers drott.
 
 ## Zechariah
 
@@ -47690,7 +47690,7 @@
 
 **[1:16]** Difor segjer Herren so: Eg vil atter venda meg til Jerusalem med miskunn. Huset mitt skal verta bygt der, segjer Herren, allhers drott, og mælesnor skal verta spana ut yver Jerusalem.
 
-**[1:17]** Framleides skal du forkynna: So segjer Herren, allhers drott: Endå ein gong skal byarne mine fløyma yver av det som godt er, endå skal Herren trøysta Sion, endå ein gong velja ut Jerusalem.» 
+**[1:17]** Framleides skal du forkynna: So segjer Herren, allhers drott: Endå ein gong skal byarne mine fløyma yver av det som godt er, endå skal Herren trøysta Sion, endå ein gong velja ut Jerusalem.»
 
 **[1:18]** 
 
@@ -47726,7 +47726,7 @@
 
 **[2:12]** For so segjer Herren, drott: For sin herlegdom skuld hev Herren sendt meg til heidningfolki som plundra dykk; for den som rører dykk, rører ved augnesteinen hans.
 
-**[2:13]** Sjå, eg lyfter handi mi mot deim, og dei skal verta til herfang for trælarne sine, og de skal få kjenna at Herren, allhers drott, hev sendt meg. Ropa høgt av frygd og gleda, du dotter Sion! For sjå, eg kjem og vil bu hjå deg, segjer Herren. Og mange heidningfolk skal venda seg til Herren på den dagen og verta mitt folk; ja, eg vil bu hjå deg, og du skal få kjenna at Herren, allhers drott, hev sendt meg til deg. Og til sin eigedom og arvlut skal Herren taka Juda i det heilage landet og endå ein gong velja ut Jerusalem. Ver stilt, alt kjøt, for Herren! For han hev rise upp og gjenge ut or sin heilage bustad. 
+**[2:13]** Sjå, eg lyfter handi mi mot deim, og dei skal verta til herfang for trælarne sine, og de skal få kjenna at Herren, allhers drott, hev sendt meg. Ropa høgt av frygd og gleda, du dotter Sion! For sjå, eg kjem og vil bu hjå deg, segjer Herren. Og mange heidningfolk skal venda seg til Herren på den dagen og verta mitt folk; ja, eg vil bu hjå deg, og du skal få kjenna at Herren, allhers drott, hev sendt meg til deg. Og til sin eigedom og arvlut skal Herren taka Juda i det heilage landet og endå ein gong velja ut Jerusalem. Ver stilt, alt kjøt, for Herren! For han hev rise upp og gjenge ut or sin heilage bustad.
 
 ### Chapter 3
 
@@ -47748,7 +47748,7 @@
 
 **[3:9]** For sjå, den steinen som eg hev lagt framfor Josva - på denne eine steinen vaker sju augo - på denne steinen ritar eg innskrifti som høyrer til, segjer Herren, allhers drott, og eg taka burt syndeskuldi åt dette landet på ein einaste dag.
 
-**[3:10]** På den dagen, segjer Herren, allhers drott, skal kvar og ein av dykk kunna beda venen sin til gjestebod under vintreet og fiketreet.» 
+**[3:10]** På den dagen, segjer Herren, allhers drott, skal kvar og ein av dykk kunna beda venen sin til gjestebod under vintreet og fiketreet.»
 
 ### Chapter 4
 
@@ -47778,7 +47778,7 @@
 
 **[4:13]** Då sagde han til meg: «Kva? Veit du ikkje kva desse skal tyda?» Eg svara: «Nei, herre.»
 
-**[4:14]** Då sagde han: «Det er dei tvo olje-sønerne som stend hjå herren yver all jordi.» 
+**[4:14]** Då sagde han: «Det er dei tvo olje-sønerne som stend hjå herren yver all jordi.»
 
 ### Chapter 5
 
@@ -47802,7 +47802,7 @@
 
 **[5:10]** Då spurde eg engelen som tala med meg: «Kvar skal dei av med skjeppa?»
 
-**[5:11]** Han svara: «Dei skal byggja eit hus åt henne i Sinearlandet, og når det er ferdigt, skal ho setjast ned der på sin stad.» 
+**[5:11]** Han svara: «Dei skal byggja eit hus åt henne i Sinearlandet, og når det er ferdigt, skal ho setjast ned der på sin stad.»
 
 ### Chapter 6
 
@@ -47834,7 +47834,7 @@
 
 **[6:14]** Men kruna skal vera i Herrens tempel til minne um Helem, Tobia og Jedaja og Hen Sefanjason.
 
-**[6:15]** Og langt burtanfrå skal dei koma og byggja på Herrens tempel, og de skal få kjenna at Herren, allhers drott, hev sendt meg til dykk. Og dette skal henda dersom de høyrer vel på røysti åt Herren, dykkar Gud.» 
+**[6:15]** Og langt burtanfrå skal dei koma og byggja på Herrens tempel, og de skal få kjenna at Herren, allhers drott, hev sendt meg til dykk. Og dette skal henda dersom de høyrer vel på røysti åt Herren, dykkar Gud.»
 
 ### Chapter 7
 
@@ -47864,7 +47864,7 @@
 
 **[7:13]** Og av di dei ikkje vilde høyra når han ropa, so sagde no Herren, allhers drott: Eg vil ikkje høyra når dei ropar;
 
-**[7:14]** men eg skal føykja deim burt millom alle heidningfolki som dei ikkje kjenner, og landet skal liggja audt etter deim, so ingen fer att og fram. Soleis gjorde dei det herlege landet til ei øydemark. 
+**[7:14]** men eg skal føykja deim burt millom alle heidningfolki som dei ikkje kjenner, og landet skal liggja audt etter deim, so ingen fer att og fram. Soleis gjorde dei det herlege landet til ei øydemark.
 
 ### Chapter 8
 
@@ -47912,7 +47912,7 @@
 
 **[8:22]** Og då skal det koma mange folkeslag og mannsterke heidningfolk og søkja Herren, allhers drott, i Jerusalem, og blidka Herren.
 
-**[8:23]** So segjer Herren, allhers drott: I dei dagarne skal det henda at ti mann av alle dei tungemål som vert tala millom heidningfolk, tek fat i kjolesnippen åt ein mann frå Juda og segjer: «Me vil ganga med dykk; for me hev høyrt at Herren er med dykk.» 
+**[8:23]** So segjer Herren, allhers drott: I dei dagarne skal det henda at ti mann av alle dei tungemål som vert tala millom heidningfolk, tek fat i kjolesnippen åt ein mann frå Juda og segjer: «Me vil ganga med dykk; for me hev høyrt at Herren er med dykk.»
 
 ### Chapter 9
 
@@ -47948,7 +47948,7 @@
 
 **[9:16]** Ja, Herren, deira Gud, skal gjeva deim siger på denne dag; for dei er då det folket han hev teke til si hjord, og liksom glimesteinar i ei kruna strålar yver landet hans.
 
-**[9:17]** Å, kor gildt og kor fagert det er! Kornet gjev ungguten merg i bein, og druvesafti fostrar upp fagre møyar. 
+**[9:17]** Å, kor gildt og kor fagert det er! Kornet gjev ungguten merg i bein, og druvesafti fostrar upp fagre møyar.
 
 ### Chapter 10
 
@@ -47974,7 +47974,7 @@
 
 **[10:11]** Han skal draga fram gjenom havet i trengsla; bylgjorne skal slå ned i havet, og alle djupi i Nilen skal turkast ut; Assurs byrgskap skal støytast ned, og kongsstaven skal vika frå Egyptarland.
 
-**[10:12]** Men deim skal eg gjera sterke i Herren, og i hans namn skal dei ferdast, segjer Herren. 
+**[10:12]** Men deim skal eg gjera sterke i Herren, og i hans namn skal dei ferdast, segjer Herren.
 
 ### Chapter 11
 
@@ -48010,7 +48010,7 @@
 
 **[11:16]** For sjå, eg let ein hyrding risa upp i landet, ein som ikkje bryr seg um dei burtkomne, ikkje leitar etter dei villfarne, ikkje heilar dei brotne og ikkje syter for dei friske; men kjøtet av dei feite et han, og klauverne deira riv han av.
 
-**[11:17]** Usæl den skarvehyrdingen som svik sauerne! Sverd yver armen hans og yver høgre auga hans! Visna, ja, visna skal armen hans, og høgre auga hans verta blindt. 
+**[11:17]** Usæl den skarvehyrdingen som svik sauerne! Sverd yver armen hans og yver høgre auga hans! Visna, ja, visna skal armen hans, og høgre auga hans verta blindt.
 
 ### Chapter 12
 
@@ -48040,7 +48040,7 @@
 
 **[12:13]** ættgreini frå Levis hus for seg og deira kvinnor for seg, Sime’is ættgrein for seg og deira kvinnor for seg;
 
-**[12:14]** like eins alle dei andre ættgreinerne for seg og kvinnorne deira for seg. 
+**[12:14]** like eins alle dei andre ættgreinerne for seg og kvinnorne deira for seg.
 
 ### Chapter 13
 
@@ -48060,7 +48060,7 @@
 
 **[13:8]** Og i heile landet, segjer Herren, skal tvo tridjepartar øydast og andast; men ein tridjepart skal leivast der,
 
-**[13:9]** og denne tridjeparten let eg ganga gjenom elden og skirer honom som ein skirer sylv, og prøver honom som ein prøver gull. Dei skal kalla på mitt namn, og eg skal svara deim; eg skal segja: «Dette er mitt folk;» og dei skal svara: «Herren er min Gud.» 
+**[13:9]** og denne tridjeparten let eg ganga gjenom elden og skirer honom som ein skirer sylv, og prøver honom som ein prøver gull. Dei skal kalla på mitt namn, og eg skal svara deim; eg skal segja: «Dette er mitt folk;» og dei skal svara: «Herren er min Gud.»
 
 ### Chapter 14
 
@@ -48104,7 +48104,7 @@
 
 **[14:20]** På den dagen skal det standa på bjøllerne åt hestarne: «Vigd åt Herren,» og grytorne i Herrens hus skal vera som offerskålerne framfor altaret.
 
-**[14:21]** Og kvar einaste gryta i Jerusalem og Juda skal vera vigd åt Herren, allhers drott, so alle dei som ofrar, kann koma og taka av deim og koka i deim, og det skal ikkje meir finnast nokon kræmer i huset åt Herren, allhers drott, på den dagen.  
+**[14:21]** Og kvar einaste gryta i Jerusalem og Juda skal vera vigd åt Herren, allhers drott, so alle dei som ofrar, kann koma og taka av deim og koka i deim, og det skal ikkje meir finnast nokon kræmer i huset åt Herren, allhers drott, på den dagen.
 
 ## Malachi
 
@@ -48136,7 +48136,7 @@
 
 **[1:13]** «Å, for ei møda!» segjer de, og de blæs åt det, segjer Herren, allhers drott; og når de ber fram offergåvor, kjem de med det som de hev rana, det som er halt og sjukt. Skulde eg hava hugnad i slike gåvor frå dykkar hand? segjer Herren.
 
-**[1:14]** Nei, forbanna vere den som fer med svik, som eig handyr i buskapen og hev gjort ein lovnad, men so ofrar til Herren eit gjelddyr. Ein stor konge er eg, segjer Herren, allhers Gud, og namnet mitt er skræmeleg millom folki. 
+**[1:14]** Nei, forbanna vere den som fer med svik, som eig handyr i buskapen og hev gjort ein lovnad, men so ofrar til Herren eit gjelddyr. Ein stor konge er eg, segjer Herren, allhers Gud, og namnet mitt er skræmeleg millom folki.
 
 ### Chapter 2
 
@@ -48172,7 +48172,7 @@
 
 **[2:16]** Eg hatar skilsmål, segjer Herren, Israels Gud; med det sveiper ein vald um klædi sine, segjer Herren, allhers drott. So tak då vare på dykkar liv og far ikkje med svik.
 
-**[2:17]** De trøyttar Herren med dykkar ord. De spør: «Korleis trøytta me?» Jau, de segjer: «Kvar den som gjer vondt, er god i Herrens augo, og han hev hugnad i deim. Kvar er elles Gud som held dom?» 
+**[2:17]** De trøyttar Herren med dykkar ord. De spør: «Korleis trøytta me?» Jau, de segjer: «Kvar den som gjer vondt, er god i Herrens augo, og han hev hugnad i deim. Kvar er elles Gud som held dom?»
 
 ### Chapter 3
 
@@ -48210,7 +48210,7 @@
 
 **[3:17]** Og dei skal vera min eigedom, segjer Herren, allhers drott, på den dagen som eg skaper, og eg skal spara deim liksom ein mann sparer son sin som tener honom.
 
-**[3:18]** Då skal de atter sjå skil på den rettferdige og den gudlause, den som tener Gud og den som ikkje tener honom. 
+**[3:18]** Då skal de atter sjå skil på den rettferdige og den gudlause, den som tener Gud og den som ikkje tener honom.
 
 ### Chapter 4
 
@@ -48224,7 +48224,7 @@
 
 **[4:5]** Sjå, eg sender dykk profeten Elia fyrr Herrens store og skræmelege dag kjem.
 
-**[4:6]** Han skal venda fedrehjarto til borni og barnehjarto til federne, so eg ikkje skal koma og slå landet med bann.     
+**[4:6]** Han skal venda fedrehjarto til borni og barnehjarto til federne, so eg ikkje skal koma og slå landet med bann.
 
 ## Matthew
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** Då Josef vakna or svevnen, gjorde han som Herrens engel hadde sagt med honom, og flutte bruri si heim.
 
-**[1:25]** Men han kom ikkje nær henne fyrr ho hadde fenge sonen sin; honom kalla han Jesus. 
+**[1:25]** Men han kom ikkje nær henne fyrr ho hadde fenge sonen sin; honom kalla han Jesus.
 
 ### Chapter 2
 
@@ -48316,7 +48316,7 @@
 
 **[2:17]** Då vart det sanna det som Jeremia, profeten, hev tala, når han segjer:
 
-**[2:18]** «Dei høyrde ei røyst i Rama - gråt og øying stor: Rakel ho gret for borni sine, og ansa ’kje trøystarord; for burte er dei, burte!»
+**[2:18]** «Dei høyrde ei røyst i Rama - gråt og øying stor: Rakel ho gret for borni sine, og ansa’kje trøystarord; for burte er dei, burte!»
 
 **[2:19]** Då Herodes var avliden, syner Herrens engel seg i draume for Josef i Egyptarland og segjer:
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** Men då han fekk spurt at Arkelaus hadde vorte konge i Judariket etter far sin, Herodes, torde han ikkje koma dit. Han gjorde som Gud sagde til honom i draume, og for burt til Galilæa-bygderne,
 
-**[2:23]** og då han kom til ein by som heiter Nasaret, vart han buande der. Soleis skulde det koma til å sannast det som er sagt gjenom profetarne, at han skulde kallast Nasaræar. 
+**[2:23]** og då han kom til ein by som heiter Nasaret, vart han buande der. Soleis skulde det koma til å sannast det som er sagt gjenom profetarne, at han skulde kallast Nasaræar.
 
 ### Chapter 3
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** Med det same Jesus var døypt, steig han upp or vatnet. Då opna himmelen seg for honom, og han såg Guds Ande koma dalande nedyver seg som ei duva,
 
-**[3:17]** og ei røyst frå himmelen sagde: «Dette er Son min, han som eg elskar, han som eg hev hugnad i.» 
+**[3:17]** og ei røyst frå himmelen sagde: «Dette er Son min, han som eg elskar, han som eg hev hugnad i.»
 
 ### Chapter 4
 
@@ -48414,7 +48414,7 @@
 
 **[4:24]** Det gjekk gjetord um honom yver heile Syria, og dei kom til honom med alle som hadde vondt og drogst med eikor sott eller plåga, forgjorde og nedfall-sjuke og lamne, og han gjorde deim gode att.
 
-**[4:25]** Og det fylgde honom ein stor folkehop frå Galilæa og Dekapolis og Jerusalem og Judalandet og bygderne på hi sida Jordan. 
+**[4:25]** Og det fylgde honom ein stor folkehop frå Galilæa og Dekapolis og Jerusalem og Judalandet og bygderne på hi sida Jordan.
 
 ### Chapter 5
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** Og um de helsar «Guds fred» berre til brørne dykkar, kva stort gjer de då? Gjer ikkje heidningarne det same?
 
-**[5:48]** Ver då de fullkomne, som far dykkar i himmelen er! 
+**[5:48]** Ver då de fullkomne, som far dykkar i himmelen er!
 
 ### Chapter 6
 
@@ -48520,7 +48520,7 @@
 
 **[6:2]** Vil du gjeva ei sælebotsgåva, so blås ikkje fyrst i luren um det, som hyklarane gjer i synagogorne og på gatorne, so folk skal rosa deim; det segjer eg dykk for sant: Dei hev alt fenge si løn!
 
-**[6:3]** Men når du gjev ei sælebotsgåva, so lat ’kje den vinstre handi di vita kva den høgre handi di gjer!
+**[6:3]** Men når du gjev ei sælebotsgåva, so lat’kje den vinstre handi di vita kva den høgre handi di gjer!
 
 **[6:4]** Lat gåva di vera duld, og far din som ser det som dult er, han skal løna deg upp i dagen!
 
@@ -48574,7 +48574,7 @@
 
 **[6:29]** men eg segjer dykk at ikkje sjølve Salomo i all sin herlegdom var so klædd som ei av deim.
 
-**[6:30]** Klæder no Gud soleis graset på marki, det som stend i dag og vert kasta i omnen i morgon, skulde han då ’kje mykje heller klæda dykk, de fåtruande!
+**[6:30]** Klæder no Gud soleis graset på marki, det som stend i dag og vert kasta i omnen i morgon, skulde han då’kje mykje heller klæda dykk, de fåtruande!
 
 **[6:31]** So må de då ikkje syta og segja: «Kva skal me eta?» eller: «Kva skal me drikka?» eller: «Kva skal me klæda oss med?»
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** Søk fyrst Guds rike og hans rettferd, so skal de få alt dette attpå!
 
-**[6:34]** So syt då ikkje for morgondagen! Morgondagen lyt syta for seg. Kvar dag hev nok med si møda. 
+**[6:34]** So syt då ikkje for morgondagen! Morgondagen lyt syta for seg. Kvar dag hev nok med si møda.
 
 ### Chapter 7
 
@@ -48606,7 +48606,7 @@
 
 **[7:10]** eller ein orm når han bed um ein fisk?
 
-**[7:11]** Når no de veit å gjeva borni dykkar gode gåvor, de som er vonde, kor mykje meir vil so ’kje far dykkar i himmelen gjeva noko godt til deim som bed honom!
+**[7:11]** Når no de veit å gjeva borni dykkar gode gåvor, de som er vonde, kor mykje meir vil so’kje far dykkar i himmelen gjeva noko godt til deim som bed honom!
 
 **[7:12]** Alt som de då vil at andre skal gjera mot dykk, det skal de og gjera mot deim; for so er lovi og profetarne.
 
@@ -48642,7 +48642,7 @@
 
 **[7:28]** Då Jesus hadde tala desse ordi, då var folket reint upp i under yver læra hans.
 
-**[7:29]** For han lærde deim som ein som hev velde, og ikkje som deira skriftlærde. 
+**[7:29]** For han lærde deim som ein som hev velde, og ikkje som deira skriftlærde.
 
 ### Chapter 8
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** Gjætarane rømde, og då dei kom til byen, fortalde dei alt saman, og sagde korleis det hadde gjenge med dei forgjorde.
 
-**[8:34]** Då gjekk alt byfolket ut imot Jesus, og då dei fekk sjå honom, bad dei at han vilde fara burt ifrå bygderne deira. 
+**[8:34]** Då gjekk alt byfolket ut imot Jesus, og då dei fekk sjå honom, bad dei at han vilde fara burt ifrå bygderne deira.
 
 ### Chapter 9
 
@@ -48776,7 +48776,7 @@
 
 **[9:30]** Og med ein gong kunde dei sjå. Jesus tala strengt til deim og sagde: «Sjå til at ingen fær vita det!»
 
-**[9:31]** Men dei var ’kje fyrr komne ut, fyrr dei bar gjetordet hans ut yver alle bygder.
+**[9:31]** Men dei var’kje fyrr komne ut, fyrr dei bar gjetordet hans ut yver alle bygder.
 
 **[9:32]** Med same dei gjekk ut, kom det nokre folk til honom med ein mållaus mann som hadde ei vond ånd i seg.
 
@@ -48790,7 +48790,7 @@
 
 **[9:37]** Då sagde han til læresveinarne sine: «Grøda er stor, men onnefolki er få.
 
-**[9:38]** Bed då honom som eig grøda at han vil senda arbeidsfolk til å hausta inn grøda si!» 
+**[9:38]** Bed då honom som eig grøda at han vil senda arbeidsfolk til å hausta inn grøda si!»
 
 ### Chapter 10
 
@@ -48860,7 +48860,7 @@
 
 **[10:33]** Men den som avneittar meg for folk, honom skal eg og avneitta for far min i himmelen.
 
-**[10:34]** De må ’kje tru eg er komen for å føra fred ned på jordi! Eg er ’kje komen med fred, men med sverd.
+**[10:34]** De må’kje tru eg er komen for å føra fred ned på jordi! Eg er’kje komen med fred, men med sverd.
 
 **[10:35]** Eg er komen for å setja ufred millom far og son, og millom mor og dotter, og millom vermor og sonekona,
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Den som tek imot ein profet for di han er ein profet, skal få same løni som ein profet, og den som tek imot ein rettferdig for di han er rettferdig, skal få same løni som ein rettferdig.
 
-**[10:42]** Og den som gjev ein av desse små um det er ’kje anna enn ei skål med kaldt vatn, for di han er min læresvein, han skal på ingen måte missa løna si, det segjer eg dykk for visst.» 
+**[10:42]** Og den som gjev ein av desse små um det er’kje anna enn ei skål med kaldt vatn, for di han er min læresvein, han skal på ingen måte missa løna si, det segjer eg dykk for visst.»
 
 ### Chapter 11
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Tak mitt ok på dykk, og lær av meg! for eg er mild og mjuk i hjarta, og de skal finna kvild for sjælerne dykkar.
 
-**[11:30]** For mitt ok er godt, og mi byrd er lett.» 
+**[11:30]** For mitt ok er godt, og mi byrd er lett.»
 
 ### Chapter 12
 
@@ -48946,11 +48946,11 @@
 
 **[12:2]** Då farisæarane såg det, sagde dei til honom: «Sjå læresveinarne dine! - no gjer dei noko som ingen hev lov til å gjera på ein kviledag.»
 
-**[12:3]** Han svara: «Hev de ’kje lese kva David gjorde då han var svolten, han og dei som var med honom,
+**[12:3]** Han svara: «Hev de’kje lese kva David gjorde då han var svolten, han og dei som var med honom,
 
 **[12:4]** at han gjekk inn i Guds hus, og åt skodebrødi, og dei hadde han ikkje lov til å eta, korkje han eller fylgjesmennerne hans, men berre prestarne.
 
-**[12:5]** Eller hev de ’kje lese i lovi at prestarne bryt helgi i templet på kviledagen, og er endå skuldlause?
+**[12:5]** Eller hev de’kje lese i lovi at prestarne bryt helgi i templet på kviledagen, og er endå skuldlause?
 
 **[12:6]** Men eg segjer dykk, at her er det som er større enn templet.
 
@@ -48964,7 +48964,7 @@
 
 **[12:11]** Då sagde han til deim: «Kven av dykk dreg ikkje upp att ein sau som hev dotte ned i eit dike for honom på ein kviledag?
 
-**[12:12]** Og kor mykje meir er ’kje eit menneskje enn ein sau! So må det då vera rett å gjera vel på kviledagen.»
+**[12:12]** Og kor mykje meir er’kje eit menneskje enn ein sau! So må det då vera rett å gjera vel på kviledagen.»
 
 **[12:13]** So segjer han til mannen: «Rett fram handi!» Då rette han henne fram, og ho vart frisk liksom hi handi.
 
@@ -48980,7 +48980,7 @@
 
 **[12:19]** Han trættar ikkje, ropar ikkje høgt. I gatorn’ ingen høyra fær hans røyst:
 
-**[12:20]** Den brotne røyri krys han ikkje sund, rjukande skaren sløkkjer han ’kje ut, fyrr retten han til siger fram hev ført.
+**[12:20]** Den brotne røyri krys han ikkje sund, rjukande skaren sløkkjer han’kje ut, fyrr retten han til siger fram hev ført.
 
 **[12:21]** Til han skal folket setja voni si.»
 
@@ -49018,7 +49018,7 @@
 
 **[12:38]** Då tok nokre skriftlærde og farisæarar til ords og sagde: «Meister, me vil gjerne sjå eit teikn av deg!»
 
-**[12:39]** Han svara: «Ei vond og utru ætt krev etter teikn, men dei skal ’kje få anna teikn enn det som hende Jonas, profeten.
+**[12:39]** Han svara: «Ei vond og utru ætt krev etter teikn, men dei skal’kje få anna teikn enn det som hende Jonas, profeten.
 
 **[12:40]** For liksom Jona var tri dagar og tri næter i fiskebuken, soleis skal Menneskjesonen vera tri jamdøger under jordi.
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** So rette han handi ut mot læresveinarne sine og sagde: «Sjå der er mor mi og brørne mine;
 
-**[12:50]** for den som gjer det far min i himmelen vil, han er bror min og syster mi og mor mi.» 
+**[12:50]** for den som gjer det far min i himmelen vil, han er bror min og syster mi og mor mi.»
 
 ### Chapter 13
 
@@ -49096,7 +49096,7 @@
 
 **[13:26]** Då no åkeren voks upp og skaut aks, so kom svimlingen og til synes.
 
-**[13:27]** Då gjekk sveinarne til husbonden og sagde: «Herre, sådde du ’kje godt frø i åkeren din? Kvar kjem då ugraset frå?»
+**[13:27]** Då gjekk sveinarne til husbonden og sagde: «Herre, sådde du’kje godt frø i åkeren din? Kvar kjem då ugraset frå?»
 
 **[13:28]** «Det hev ein uven gjort,» svara han. «Vil du me skal ganga og rykkja det upp?» segjer dei.
 
@@ -49152,13 +49152,13 @@
 
 **[13:54]** So kom han til fødesheimen sin og lærde deim i synagoga deira, so dei vart reint upp i under og sagde: «Kvar hev han fenge slik visdom frå og slike underfulle krafter?
 
-**[13:55]** Er ’kje dette timbremanns-sonen? Heiter ikkje mor hans Maria, og brørne hans Jakob og Josef og Simon og Judas?
+**[13:55]** Er’kje dette timbremanns-sonen? Heiter ikkje mor hans Maria, og brørne hans Jakob og Josef og Simon og Judas?
 
-**[13:56]** Og systerne hans, bur dei ’kje alle her i grendi? Kvar hev so han fenge alt det frå?»
+**[13:56]** Og systerne hans, bur dei’kje alle her i grendi? Kvar hev so han fenge alt det frå?»
 
 **[13:57]** Og dei støyttest ved honom. Men Jesus sagde til deim: «Ein profet er ikkje vanvyrd utan i si eige grend og i si eigi ætt.»
 
-**[13:58]** Og han gjorde ikkje mange under der, for di dei var so vantrune. 
+**[13:58]** Og han gjorde ikkje mange under der, for di dei var so vantrune.
 
 ### Chapter 14
 
@@ -49194,7 +49194,7 @@
 
 **[14:16]** «Dei treng ikkje ganga burt,» sagde Jesus; «gjev de deim mat!»
 
-**[14:17]** «Me hev ’kje her anna fem brødleivar og tvo fiskar,» svara dei.
+**[14:17]** «Me hev’kje her anna fem brødleivar og tvo fiskar,» svara dei.
 
 **[14:18]** «Kom hit til meg med det!» sagde han.
 
@@ -49232,7 +49232,7 @@
 
 **[14:35]** Folket der i bygdi kjende honom att, og sende bod kringum i heile grannelaget. Då kom dei til honom med alle som hadde vondt,
 
-**[14:36]** og dei bad um dei berre måtte få taka i falden på kjolen hans, og alle som kom nær honom, vart gode att. 
+**[14:36]** og dei bad um dei berre måtte få taka i falden på kjolen hans, og alle som kom nær honom, vart gode att.
 
 ### Chapter 15
 
@@ -49256,7 +49256,7 @@
 
 **[15:10]** So kalla han folket hitåt seg og sagde til deim: «Høyr etter, og tenk på det eg segjer!»
 
-**[15:11]** Det er ’kje det som kjem inn i munnen som gjer menneskja urein, men det som gjeng ut or munnen, det er det som gjer menneskja urein!
+**[15:11]** Det er’kje det som kjem inn i munnen som gjer menneskja urein, men det som gjeng ut or munnen, det er det som gjer menneskja urein!
 
 **[15:12]** Då gjekk læresveinarne fram og sagde til honom: «Veit du at farisæarane vart arge då dei høyrde det du sagde?»
 
@@ -49286,7 +49286,7 @@
 
 **[15:25]** So kom ho og fall på kne for honom og sagde: «Herre, hjelp meg!»
 
-**[15:26]** Men han svara: «Det er ’kje vænt å taka brødet frå borni og kasta det for hund-ungarne.»
+**[15:26]** Men han svara: «Det er’kje vænt å taka brødet frå borni og kasta det for hund-ungarne.»
 
 **[15:27]** «Det er sant, Herre,» sagde ho, «men hund-ungarne et då av dei molarne som fell frå bordet åt herrarne deira.»
 
@@ -49298,7 +49298,7 @@
 
 **[15:31]** so folket undra seg då dei såg at mållause tala, og kryplingar vart friske og føre, og halte gjekk ikring, og blinde såg; og dei lova Israels Gud.
 
-**[15:32]** Då kalla Jesus læresveinarne til seg og sagde: Eg tykkjer hjarteleg synd i folket; for no hev dei alt vore hjå meg i tri dagar, og dei hev ’kje noko å eta; og ikkje vil eg senda deim fastande frå meg; for då kunde dei ormegtast på vegen.»
+**[15:32]** Då kalla Jesus læresveinarne til seg og sagde: Eg tykkjer hjarteleg synd i folket; for no hev dei alt vore hjå meg i tri dagar, og dei hev’kje noko å eta; og ikkje vil eg senda deim fastande frå meg; for då kunde dei ormegtast på vegen.»
 
 **[15:33]** Læresveinarne svara: «Kor skal me her i øydemarki få brød nok til å metta so stor ein hop?»
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** Og det var fire tusund mann som hadde ete, umfram kvinnor og born.
 
-**[15:39]** Sidan bad Jesus farvel med folket, og steig ut i båten og for til Magadanbygdi. 
+**[15:39]** Sidan bad Jesus farvel med folket, og steig ut i båten og for til Magadanbygdi.
 
 ### Chapter 16
 
@@ -49322,7 +49322,7 @@
 
 **[16:3]** og um morgonen: «I dag vert det uver; for himmelen er raud og myrk.» Himmelsbragdi veit de å døma um, men tidarteikni kann de ikkje tyda.
 
-**[16:4]** Ei vond og utru ætt krev etter teikn, men dei skal ’kje få anna teikn enn Jona-teiknet.» Dermed snudde han seg ifrå deim og gjekk burt.
+**[16:4]** Ei vond og utru ætt krev etter teikn, men dei skal’kje få anna teikn enn Jona-teiknet.» Dermed snudde han seg ifrå deim og gjekk burt.
 
 **[16:5]** Då dei so for yver til hi sida, gløymde læresveinarne å taka brød med seg.
 
@@ -49336,7 +49336,7 @@
 
 **[16:10]** og ikkje dei sju leivarne til dei fire tusund, og kor mange korger de då fekk att?
 
-**[16:11]** Kann de då ’kje skyna at det ikkje var brød eg tala til dykk um? Men agta dykk for farisæar- og sadducæar-surdeigen!»
+**[16:11]** Kann de då’kje skyna at det ikkje var brød eg tala til dykk um? Men agta dykk for farisæar- og sadducæar-surdeigen!»
 
 **[16:12]** Då skyna dei at det ikkje var surdeigen i brødet han hadde meint, men læra åt farisæarane og sadducæarane.
 
@@ -49360,7 +49360,7 @@
 
 **[16:22]** Peter tok honom til sides og for til å telja for honom og sagde: «Hjelpe deg Gud, Herre! Slikt må aldri henda deg!»
 
-**[16:23]** Då snudde han seg imot Peter og sagde: «Gakk utor augo mine, Satan! Du er meg eit styggje, for du hev ’kje ans for det som er Guds vilje, men berre for det som er menneskjevilje.»
+**[16:23]** Då snudde han seg imot Peter og sagde: «Gakk utor augo mine, Satan! Du er meg eit styggje, for du hev’kje ans for det som er Guds vilje, men berre for det som er menneskjevilje.»
 
 **[16:24]** Same gongen sagde Jesus til læresveinarne sine: «Vil nokon vera i lag med meg, so lyt han gløyma seg sjølv, og taka krossen sin upp og fylgja etter meg.
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** For Menneskjesonen skal koma i herlegdomen åt far sin med englarne sine, og då skal han gjeva kvar og ein lika for det dei hev gjort.
 
-**[16:28]** Det segjer eg dykk for visst: Sume av dei som stend her, skal ikkje smaka dauden fyrr dei hev set Menneskjesonen koma i sitt kongelege velde.» 
+**[16:28]** Det segjer eg dykk for visst: Sume av dei som stend her, skal ikkje smaka dauden fyrr dei hev set Menneskjesonen koma i sitt kongelege velde.»
 
 ### Chapter 17
 
@@ -49388,7 +49388,7 @@
 
 **[17:7]** Jesus gjekk burt åt deim og tok i deim og sagde: «Reis dykk upp, og ver ikkje rædde!»
 
-**[17:8]** Men då dei såg upp, vart dei ’kje vare nokon utan Jesus åleine.
+**[17:8]** Men då dei såg upp, vart dei’kje vare nokon utan Jesus åleine.
 
 **[17:9]** So gjekk dei ned av fjellet, og Jesus sagde til deim: «Tala ikkje til nokon um den syni de hev havt, fyrr Menneskjesonen hev stade upp frå dei daude!»
 
@@ -49426,7 +49426,7 @@
 
 **[17:26]** «Av framande,» svara Peter. «So er borni skattefrie då,» sagde Jesus.
 
-**[17:27]** «Men me vil ikkje arga deim - gakk ned til sjøen og kasta ut kroken, og grip den fyrste fisken som kjem upp! Når du so opnar gapet på honom, skal du finna ein stater; tak den og gjev deim for meg og deg!» 
+**[17:27]** «Men me vil ikkje arga deim - gakk ned til sjøen og kasta ut kroken, og grip den fyrste fisken som kjem upp! Når du so opnar gapet på honom, skal du finna ein stater; tak den og gjev deim for meg og deg!»
 
 ### Chapter 18
 
@@ -49434,7 +49434,7 @@
 
 **[18:2]** Då kalla han til seg eit lite barn, og sette det midt imillom deim
 
-**[18:3]** og sagde: «Det segjer eg dykk for sant: Vender de ’kje um, og vert som borni, so kjem de aldri inn i himmelriket.
+**[18:3]** og sagde: «Det segjer eg dykk for sant: Vender de’kje um, og vert som borni, so kjem de aldri inn i himmelriket.
 
 **[18:4]** Den som gjer seg sjølv liten som dette barnet, han er den største i himmelriket;
 
@@ -49452,7 +49452,7 @@
 
 **[18:11]** For Menneskjesonen er komen for å frelsa det som var fortapt.
 
-**[18:12]** Kva trur de? - Um ein mann hev hundrad sauer, og ein av deim villar seg burt, let han ’kje då dei ni og nitti ganga lause i fjellet og tek ut og leitar etter den som fer vilt?
+**[18:12]** Kva trur de? - Um ein mann hev hundrad sauer, og ein av deim villar seg burt, let han’kje då dei ni og nitti ganga lause i fjellet og tek ut og leitar etter den som fer vilt?
 
 **[18:13]** og hender det at han finn honom, då segjer eg dykk for visst: Han gleder seg meir yver honom enn yver dei ni og nitti som ikkje hev villa seg burt.
 
@@ -49478,7 +49478,7 @@
 
 **[18:24]** Då han no tok til med uppgjerdi, førde dei fram for honom ein som var skuldig ti millionar dalar.
 
-**[18:25]** Men han hadde ’kje noko å greida det med. So sagde herren hans at han skulde seljast, både han og kona hans og borni og alt det han åtte, so gjelda kunde greidast.
+**[18:25]** Men han hadde’kje noko å greida det med. So sagde herren hans at han skulde seljast, både han og kona hans og borni og alt det han åtte, so gjelda kunde greidast.
 
 **[18:26]** Då fall tenaren på kne for honom og sagde: «Ver tolug med meg, so skal du få det alt saman!»
 
@@ -49494,11 +49494,11 @@
 
 **[18:32]** Då kalla herren honom fyre seg og sagde til honom: «Du vonde tenar! Heile den store skuldi di gav eg deg etter då du bad meg!
 
-**[18:33]** Skulde so ’kje du og ha vore mild imot medtenaren din, som eg var imot deg!»
+**[18:33]** Skulde so’kje du og ha vore mild imot medtenaren din, som eg var imot deg!»
 
 **[18:34]** Og herren hans vart harm og gav honom yver til fangevaktarane, so dei skulde pina honom til han hadde greidt all skuldi.
 
-**[18:35]** So skal og far min i himmelen gjera med dykk, når de ikkje av hjarta tilgjev kvarandre. 
+**[18:35]** So skal og far min i himmelen gjera med dykk, når de ikkje av hjarta tilgjev kvarandre.
 
 ### Chapter 19
 
@@ -49508,7 +49508,7 @@
 
 **[19:3]** Då kom farisæarane til honom, og vilde freista honom og sagde: «Tru ein mann hev lov til å skilja seg frå kona si, kva orsak han tykkjest hava?»
 
-**[19:4]** Han svara: «Hev de ’kje lese at skaparen alt ifrå det fyrste skapte deim mann og kvinna,
+**[19:4]** Han svara: «Hev de’kje lese at skaparen alt ifrå det fyrste skapte deim mann og kvinna,
 
 **[19:5]** og sagde: «Difor skal mannen skiljast med far sin og mor si og halda seg hjå kona si, og dei tvo skal vera eitt kjøt?»
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** Og kvar som hev skilt seg med hus eller brør eller syster eller far eller mor eller born eller gardar for mitt namn skuld, han skal få det att mange gonger og erva eit ævelegt liv.
 
-**[19:30]** Men mange av dei fyrste skal vera dei siste, og mange av dei siste dei fyrste. 
+**[19:30]** Men mange av dei fyrste skal vera dei siste, og mange av dei siste dei fyrste.
 
 ### Chapter 20
 
@@ -49586,13 +49586,13 @@
 
 **[20:11]** då dei fekk den, mukka dei mot husbonden og sagde:
 
-**[20:12]** «Desse siste hev ’kje arbeidt meir enn ein time, og so gjev du deim likt med oss, som hev slite og sveitta heile dagen!»
+**[20:12]** «Desse siste hev’kje arbeidt meir enn ein time, og so gjev du deim likt med oss, som hev slite og sveitta heile dagen!»
 
-**[20:13]** Då svara han ein av deim: «Eg gjer deg ikkje urett, venen min. Var me ’kje samde um ei mark?
+**[20:13]** Då svara han ein av deim: «Eg gjer deg ikkje urett, venen min. Var me’kje samde um ei mark?
 
 **[20:14]** Tak du ditt og gakk! Men eg hev hug til å gjeva denne siste likso mykje som deg.
 
-**[20:15]** Hev eg ’kje lov til å gjera med mitt som eg vil? Eller ser du ilt til det at eg gjer vel?»
+**[20:15]** Hev eg’kje lov til å gjera med mitt som eg vil? Eller ser du ilt til det at eg gjer vel?»
 
 **[20:16]** Soleis skal dei siste vera dei fyrste, og dei fyrste dei siste; for mange er kalla, men få utvalde.»
 
@@ -49618,7 +49618,7 @@
 
 **[20:27]** og den som vil vera den fyrste av dykk, lyt vera træl for dei andre.
 
-**[20:28]** Menneskjesonen er ’kje heller komen for å tenast, men for å tena og gjeva livet sitt til løysepening for mange.»
+**[20:28]** Menneskjesonen er’kje heller komen for å tenast, men for å tena og gjeva livet sitt til løysepening for mange.»
 
 **[20:29]** Då dei tok ut frå Jeriko, fylgde det mykje folk med honom.
 
@@ -49630,7 +49630,7 @@
 
 **[20:33]** «Herre, lat oss få att syni!» svara dei.
 
-**[20:34]** Jesus tykte synd i deim og tok burtpå augo deira; og med ein gong kunde dei sjå, og dei fylgde honom. 
+**[20:34]** Jesus tykte synd i deim og tok burtpå augo deira; og med ein gong kunde dei sjå, og dei fylgde honom.
 
 ### Chapter 21
 
@@ -49670,7 +49670,7 @@
 
 **[21:18]** Då han gjekk inn til byen att um morgonen, vart han svolten.
 
-**[21:19]** Då fekk han sjå eit einsleg fiketre attmed vegen. Han gjekk der burt, men fann ’kje anna på treet enn lauv. Då sagde han til det: «Aldri i verdi skal det koma frukt på deg meir.» Og straks turka fiketreet.
+**[21:19]** Då fekk han sjå eit einsleg fiketre attmed vegen. Han gjekk der burt, men fann’kje anna på treet enn lauv. Då sagde han til det: «Aldri i verdi skal det koma frukt på deg meir.» Og straks turka fiketreet.
 
 **[21:20]** Då læresveinarne såg det, undra dei seg og sagde: «Korleis kunde det hava seg at fiketreet turka so brått?»
 
@@ -49724,7 +49724,7 @@
 
 **[21:45]** Då dei øvste prestarne og farisæarane høyrde likningarne hans, skyna dei at det var deim han tala um.
 
-**[21:46]** Og dei tenkte på å gripa honom, men torde ikkje for folket; for dei heldt honom for ein profet. 
+**[21:46]** Og dei tenkte på å gripa honom, men torde ikkje for folket; for dei heldt honom for ein profet.
 
 ### Chapter 22
 
@@ -49788,7 +49788,7 @@
 
 **[22:30]** For i eit anna liv er det ingen som gifter seg eller vert burtgift; dei er som Guds englar i himmelen.
 
-**[22:31]** Men at dei avlidne skal standa upp att, hev de ’kje lese kva Gud hev tala til dykk um det, når han segjer:
+**[22:31]** Men at dei avlidne skal standa upp att, hev de’kje lese kva Gud hev tala til dykk um det, når han segjer:
 
 **[22:32]** «Eg er Abrahams Gud og Isaks Gud og Jakobs Gud?» Og han er ikkje Gud for dei daude, men for dei livande.»
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** Kallar no David honom herre, korleis kann han då vera son hans?»
 
-**[22:46]** Men ingen kunde svara honom eit ord. Og ingen torde etter den dag koma med fleire spursmål til honom. 
+**[22:46]** Men ingen kunde svara honom eit ord. Og ingen torde etter den dag koma med fleire spursmål til honom.
 
 ### Chapter 23
 
@@ -49852,11 +49852,11 @@
 
 **[23:15]** Ve yver dykk skriftlærde og farisæarar, hyklarar som de er! de fer land og strand og leitar etter ein fylgjesvein, og finn de ein, so gjer de honom til eit helvitesbarn, tvo gonger verre enn de er sjølve.
 
-**[23:16]** Ve yver dykk, blinde vegleidarar! de som segjer: «Um ein sver ved templet, so er det ’kje noko, men sver han ved gullet i templet, då er han bunden.»
+**[23:16]** Ve yver dykk, blinde vegleidarar! de som segjer: «Um ein sver ved templet, so er det’kje noko, men sver han ved gullet i templet, då er han bunden.»
 
 **[23:17]** Dårar og blinde! Kva er størst, gullet, eller templet som gav gullet si vigsla?
 
-**[23:18]** og: «Um ein sver ved altaret, so er det ’kje noko, men sver han ved offeret som er på det, då er han bunden.»
+**[23:18]** og: «Um ein sver ved altaret, so er det’kje noko, men sver han ved offeret som er på det, då er han bunden.»
 
 **[23:19]** Blindingar! Kva er då størst, offeret, eller altaret som vigslar offeret?
 
@@ -49894,17 +49894,17 @@
 
 **[23:36]** Det segjer eg dykk for visst: Yver denne ætti skal det koma alt saman.
 
-**[23:37]** Jerusalem, Jerusalem, du som slær i hel profetarne, og steinar deim som er sende til deg, kor tidt hev eg ’kje vilja samla borni dine kring meg, liksom ein fugl samlar ungarne sine under vengjerne! Men de vilde ikkje.
+**[23:37]** Jerusalem, Jerusalem, du som slær i hel profetarne, og steinar deim som er sende til deg, kor tidt hev eg’kje vilja samla borni dine kring meg, liksom ein fugl samlar ungarne sine under vengjerne! Men de vilde ikkje.
 
 **[23:38]** Sjå no skal de få hava huset dykkar audt.
 
-**[23:39]** For eg segjer dykk: De fær aldri sjå meg meir fyrr de ropar: «Velsigna vere han som kjem i Herrens namn!»» 
+**[23:39]** For eg segjer dykk: De fær aldri sjå meg meir fyrr de ropar: «Velsigna vere han som kjem i Herrens namn!»»
 
 ### Chapter 24
 
 **[24:1]** Då Jesus steig ut or templet og tok til å ganga burtetter vegen, gjekk læresveinarne fram og vilde syna honom tempelbygningarne.
 
-**[24:2]** «Ja, ser de ’kje alt dette!» svara han. «Det segjer eg dykk for sant: Her ligg ikkje stein på stein som ikkje skal rivast ned.»
+**[24:2]** «Ja, ser de’kje alt dette!» svara han. «Det segjer eg dykk for sant: Her ligg ikkje stein på stein som ikkje skal rivast ned.»
 
 **[24:3]** Sidan, då han sat på Oljeberget, og ingen annan var med, gjekk læresveinarne fram til honom og sagde: «Seg oss: Når skal alt dette henda, og kva merke skal me hava på koma di og enden på verdi!»
 
@@ -49944,7 +49944,7 @@
 
 **[24:21]** For då skal det vera slik hard naud at det aldri hev vore slik naud frå verdi vart til og til no, og vert ikkje sidan heller.
 
-**[24:22]** Og vart ikkje den tidi stutt, so fanst det ’kje liv som vart berga; men for dei utvalde skuld skal den tidi vera stutt.
+**[24:22]** Og vart ikkje den tidi stutt, so fanst det’kje liv som vart berga; men for dei utvalde skuld skal den tidi vera stutt.
 
 **[24:23]** Um nokon då segjer til dykk: «Sjå her er Messias,» eller «der,» so må de ikkje tru det.
 
@@ -50002,7 +50002,7 @@
 
 **[24:50]** då skal husbonden hans koma på ein dag han ikkje ventar det, og i ein time han ikkje veit av,
 
-**[24:51]** og skjera honom midt i tvo, og lata honom få sin lut med hyklarane, der dei græt og skjer tenner. 
+**[24:51]** og skjera honom midt i tvo, og lata honom få sin lut med hyklarane, der dei græt og skjer tenner.
 
 ### Chapter 25
 
@@ -50058,7 +50058,7 @@
 
 **[25:26]** Då svara husbonden: «Du låke og late tenar! Du visste at eg haustar der eg ikkje sådde, og sankar der eg ikkje strådde!
 
-**[25:27]** Skulde du ’kje då ha sett pengarne mine i banken! so hadde eg fenge mine att med rentor når eg kom heim.
+**[25:27]** Skulde du’kje då ha sett pengarne mine i banken! so hadde eg fenge mine att med rentor når eg kom heim.
 
 **[25:28]** Tak ifrå honom dei tusund dalarne, og gjev deim til den som hev ti tusund!
 
@@ -50094,9 +50094,9 @@
 
 **[25:44]** Då tek dei og til ords og segjer: «Herre, når hev me set deg svolten, eller tyrst, eller heimlaus, eller naken, eller sjuk, eller i fengsel, og hev ikkje tent deg?»
 
-**[25:45]** Og han svarar: «Det segjer eg dykk for sant: Alt det de ikkje hev gjort mot ein av desse minste, det hev de ’kje gjort mot meg heller.»
+**[25:45]** Og han svarar: «Det segjer eg dykk for sant: Alt det de ikkje hev gjort mot ein av desse minste, det hev de’kje gjort mot meg heller.»
 
-**[25:46]** So skal dei ganga burt til æveleg straff, men dei rettferdige til eit ævelegt liv. 
+**[25:46]** So skal dei ganga burt til æveleg straff, men dei rettferdige til eit ævelegt liv.
 
 ### Chapter 26
 
@@ -50156,7 +50156,7 @@
 
 **[26:28]** Dette er blodet mitt, paktblodet, som renn for mange til forlating for synderne.
 
-**[26:29]** Eg segjer dykk, at heretter skal eg ’kje drikka av denne druvesafti, fyrr den dagen eg drikk henne ny med dykk i riket åt far min.»
+**[26:29]** Eg segjer dykk, at heretter skal eg’kje drikka av denne druvesafti, fyrr den dagen eg drikk henne ny med dykk i riket åt far min.»
 
 **[26:30]** Då dei so hadde sunge lovsongen, gjekk dei ut til Oljeberget.
 
@@ -50178,7 +50178,7 @@
 
 **[26:39]** Og han gjekk eit lite stykke fram, og lagde seg ned på kne og bad: «Far, er det råd, so lat denne skåli takast ifrå meg! Men ikkje som eg vil, berre som du vil!»
 
-**[26:40]** Då han kom attende til læresveinarne, såg han at dei sov. Då sagde han til Peter: «So var de ’kje god til å vaka ein time med meg!
+**[26:40]** Då han kom attende til læresveinarne, såg han at dei sov. Då sagde han til Peter: «So var de’kje god til å vaka ein time med meg!
 
 **[26:41]** Vak og bed, so de ikkje skal koma i freisting! Åndi er viljug, men kjøtet er veikt.»
 
@@ -50204,7 +50204,7 @@
 
 **[26:52]** Då sagde Jesus til honom: «Stikk sverdet ditt i slira! for alle som grip til sverdet, skal falla for sverdet.
 
-**[26:53]** Eller trur du ’kje eg kunde beda far min, og han i denne stundi vilde senda meg meir enn tolv herar med englar?
+**[26:53]** Eller trur du’kje eg kunde beda far min, og han i denne stundi vilde senda meg meir enn tolv herar med englar?
 
 **[26:54]** Men korleis skulde då skrifterne sannast, dei som segjer at dette lyt henda?»
 
@@ -50248,7 +50248,7 @@
 
 **[26:74]** Då sette han i og banna og svor: «Eg kjenner ikkje den mannen!» Og med det same gol hanen.
 
-**[26:75]** Då kom Peter i hug dei ordi Jesus hadde sagt til honom: «Fyrr hanen gjel, skal du hava avneitta meg tri gonger.» Og han gjekk ut og gret sårt. 
+**[26:75]** Då kom Peter i hug dei ordi Jesus hadde sagt til honom: «Fyrr hanen gjel, skal du hava avneitta meg tri gonger.» Og han gjekk ut og gret sårt.
 
 ### Chapter 27
 
@@ -50262,7 +50262,7 @@
 
 **[27:5]** Då kasta han pengarne frå seg i templet og tok ut; og sidan gjekk han burt og hengde seg upp.
 
-**[27:6]** Dei øvste prestarne tok pengarne og sagde: «Det er ’kje rett å leggja deim i tempelkista; for det er blodpengar.»
+**[27:6]** Dei øvste prestarne tok pengarne og sagde: «Det er’kje rett å leggja deim i tempelkista; for det er blodpengar.»
 
 **[27:7]** So tok dei den rådi at dei for desse pengarne kjøpte Pottemakaråkeren til gravstad for framande.
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** Då sagde Pilatus: «Her hev de vakt! Gakk no og tak vare på gravi som de best kann!»
 
-**[27:66]** So gjekk dei og sette vakti til å varveitsla gravi, etter dei hadde forsigla steinen. 
+**[27:66]** So gjekk dei og sette vakti til å varveitsla gravi, etter dei hadde forsigla steinen.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Gakk då ut, og gjer alle folki til læresveinar, med di de døyper deim til namnet åt Faderen og Sonen og den Heilage Ande,
 
-**[28:20]** og lærer deim å halda alt det som eg hev bode dykk. Og sjå, eg er med dykk alle dagar so lenge verdi stend!»  
+**[28:20]** og lærer deim å halda alt det som eg hev bode dykk. Og sjå, eg er med dykk alle dagar so lenge verdi stend!»
 
 ## Mark
 
@@ -50442,7 +50442,7 @@
 
 **[1:6]** Johannes var klædd i kamelhår og hadde eit lerbelte kring livet, og det han åt, var grashoppar og villhonning.
 
-**[1:7]** Og han tala til folket og sagde: «Det kjem ein etter meg som er sterkare enn eg; eg er ’kje verdig å bøygja meg ned og løysa skobandet hans.
+**[1:7]** Og han tala til folket og sagde: «Det kjem ein etter meg som er sterkare enn eg; eg er’kje verdig å bøygja meg ned og løysa skobandet hans.
 
 **[1:8]** Eg hev døypt dykk med vatn, men han skal døypa dykk med den Heilage Ande.»
 
@@ -50496,7 +50496,7 @@
 
 **[1:33]** og heile byen hadde samla seg utfor døri.
 
-**[1:34]** Og han lækte mange som drogst med ymse sjukdomar, og dreiv ut mange vonde ånder, men han let ’kje ånderne få lov til å tala, av di dei kjende honom.
+**[1:34]** Og han lækte mange som drogst med ymse sjukdomar, og dreiv ut mange vonde ånder, men han let’kje ånderne få lov til å tala, av di dei kjende honom.
 
 **[1:35]** I otta, fyrr det vart dag, reis han upp og gjekk ut og burt til ein øydestad; der heldt han bøn.
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** «Agta deg at du ikkje segjer dette med nokon,» sagde han, «men gakk burt og te deg for presten, og ber fram det offeret for reinsingi di som Moses hev sagt, so du kann vitna for deim!»
 
-**[1:45]** Men mannen var ’kje fyrr komen ut, fyrr han tok til å tala mykje um det og bera det utyver, so Jesus ikkje lenger kunde ganga berrsynt inn i nokon by; han heldt seg utanfor, på øydestader, og der kom dei til honom frå alle kantar. 
+**[1:45]** Men mannen var’kje fyrr komen ut, fyrr han tok til å tala mykje um det og bera det utyver, so Jesus ikkje lenger kunde ganga berrsynt inn i nokon by; han heldt seg utanfor, på øydestader, og der kom dei til honom frå alle kantar.
 
 ### Chapter 2
 
@@ -50554,7 +50554,7 @@
 
 **[2:16]** Og då dei skriftlærde millom farisæarane såg at han åt i lag med syndarar og tollmenner, sagde dei til læresveinarne hans: «Et han i lag med tollmenner og syndarar?»
 
-**[2:17]** Jesus høyrde det og sagde til deim: «Det er ’kje dei friske som treng lækjar, men dei som hev vondt. Eg er ikkje komen for å kalla rettferdige, men syndarar.»
+**[2:17]** Jesus høyrde det og sagde til deim: «Det er’kje dei friske som treng lækjar, men dei som hev vondt. Eg er ikkje komen for å kalla rettferdige, men syndarar.»
 
 **[2:18]** Både læresveinarne åt Johannes og læresveinarne åt farisæarane heldt fasta. Og folk kom og spurde Jesus: «Korleis hev det seg at læresveinarne åt Johannes og åt farisæarane fastar, men dine læresveinar fastar ikkje?»
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** So sagde han til deim: «Kviledagen vart til for menneskja skuld, og ikkje menneskja for kviledagen skuld.
 
-**[2:28]** Difor råder Menneskjesonen yver kviledagen og.» 
+**[2:28]** Difor råder Menneskjesonen yver kviledagen og.»
 
 ### Chapter 3
 
@@ -50648,7 +50648,7 @@
 
 **[3:34]** So såg han rundt på deim som sat i ein ring kringum honom, og sagde: «Sjå det er mor mi og brørne mine!
 
-**[3:35]** Den som gjer det Gud vil, han er bror min og syster mi og mor mi.» 
+**[3:35]** Den som gjer det Gud vil, han er bror min og syster mi og mor mi.»
 
 ### Chapter 4
 
@@ -50676,7 +50676,7 @@
 
 **[4:12]** so dei skal sjå, men ikkje skilja, og høyra, men ikkje skyna; elles kunde dei venda um og få tilgjeving.
 
-**[4:13]** Men skynar de ’kje denne likningi, sagde han, korleis kann de då greida alle dei andre likningarne?
+**[4:13]** Men skynar de’kje denne likningi, sagde han, korleis kann de då greida alle dei andre likningarne?
 
 **[4:14]** Såmannen, det er den som sår Guds ord.
 
@@ -50692,7 +50692,7 @@
 
 **[4:20]** Men dei som var sådde i god jord, det er dei som høyrer Guds ord og tek imot det, og gjev grøda i tretti og seksti og hundrad foll.»
 
-**[4:21]** Sidan sagde han til deim: «Når dei kjem inn med eit ljos, set dei det då under skjeppa eller sengi? set dei det ’kje i staken?
+**[4:21]** Sidan sagde han til deim: «Når dei kjem inn med eit ljos, set dei det då under skjeppa eller sengi? set dei det’kje i staken?
 
 **[4:22]** For ingen ting er dult utan det vert openberra, og ingen ting vart løynt utan det laut fram i ljoset.
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** Og han sagde til deim: «Kvi er de rædde? Hev de endå ingi tru?»
 
-**[4:41]** Men dei var fulle av otte og sagde seg imillom: «Kva er då dette for ein, som både vinden og sjøen lyder?» 
+**[4:41]** Men dei var fulle av otte og sagde seg imillom: «Kva er då dette for ein, som både vinden og sjøen lyder?»
 
 ### Chapter 5
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** Og straks reis veslegjenta upp og gjekk ikring; for ho var tolv år. Då vart dei straks reint som dei var frå seg.
 
-**[5:43]** Men han forbaud deim strengt å lata nokon få vita det, og sagde dei skulde gjeva henne mat. 
+**[5:43]** Men han forbaud deim strengt å lata nokon få vita det, og sagde dei skulde gjeva henne mat.
 
 ### Chapter 6
 
@@ -50828,7 +50828,7 @@
 
 **[6:2]** Då kviledagen kom, tok han til å læra folket i synagoga, og dei mange som høyrde på honom, var reint upp i under og sagde: «Kvar hev han dette frå? Kva er det for visdom han hev fenge? Og slike underverk som han gjer!
 
-**[6:3]** Er ’kje dette timbremannen, son åt Maria og bror åt Jakob og Joses og Judas og Simon? Og bur ’kje systerne hans her i grendi?» Og dei stygdest ved honom.
+**[6:3]** Er’kje dette timbremannen, son åt Maria og bror åt Jakob og Joses og Judas og Simon? Og bur’kje systerne hans her i grendi?» Og dei stygdest ved honom.
 
 **[6:4]** Men Jesus sagde til deim: «Ein profet er ikkje vanvyrd utan i si eige grend og hjå sitt eige folk og i sin eigen heim!»
 
@@ -50838,9 +50838,9 @@
 
 **[6:7]** Og han kalla dei tolv til seg, og tok til å senda deim ut, tvo og tvo, og gav dei magt yver dei ureine ånderne.
 
-**[6:8]** Han sagde til deim at dei skulde ’kje hava anna med seg på ferdi enn ein stav, ikkje brød, ikkje skreppa, ikkje kopar i beltet;
+**[6:8]** Han sagde til deim at dei skulde’kje hava anna med seg på ferdi enn ein stav, ikkje brød, ikkje skreppa, ikkje kopar i beltet;
 
-**[6:9]** sandalar kunde dei ganga med, men dei måtte ’kje hava på seg meir enn ei trøya.
+**[6:9]** sandalar kunde dei ganga med, men dei måtte’kje hava på seg meir enn ei trøya.
 
 **[6:10]** «Kvar gong de kjem inn i eit hus,» sagde han, «so ver der til de fer burt frå den bygdi.
 
@@ -50860,7 +50860,7 @@
 
 **[6:18]** men Johannes sagde til honom: «Du må ikkje hava brorkona di!»
 
-**[6:19]** Difor bar Herodias hat til honom, og vilde at han skulde drepast, men fekk det ’kje fram.
+**[6:19]** Difor bar Herodias hat til honom, og vilde at han skulde drepast, men fekk det’kje fram.
 
 **[6:20]** For Herodes hadde age for Johannes, av di han visste han var ein rettferdig og heilag mann, og han heldt handi yver honom; når han høyrde honom, kom han i tvil um mangt og mykje, og han høyrde honom gjerne.
 
@@ -50922,7 +50922,7 @@
 
 **[6:49]** Då dei såg at han gjekk på sjøen, tenkte dei at det var eit skrymt, og dei sette i et skrik;
 
-**[6:50]** for dei såg honom alle og vart fælne. Men i det same tala han til deim og sagde: «Ver hugheile! Det er eg! Ver ’kje rædde!»
+**[6:50]** for dei såg honom alle og vart fælne. Men i det same tala han til deim og sagde: «Ver hugheile! Det er eg! Ver’kje rædde!»
 
 **[6:51]** So steig han upp i båten til deim, og vinden stilna. Men dei var so forstøkte at dei var reint ifrå seg.
 
@@ -50934,7 +50934,7 @@
 
 **[6:55]** og dei sprang rundt i heile grannelaget og tok til å bera dei sjuke kring i sengjerne sine dit som dei høyrde han var.
 
-**[6:56]** Og kvar han kom, til grender eller byar eller gardar, lagde dei sine sjuke på tunet, og bad um dei måtte få taka um so berre i falden på kjolen hans, og alle som kom nær honom, vart gode att. 
+**[6:56]** Og kvar han kom, til grender eller byar eller gardar, lagde dei sine sjuke på tunet, og bad um dei måtte få taka um so berre i falden på kjolen hans, og alle som kom nær honom, vart gode att.
 
 ### Chapter 7
 
@@ -50972,7 +50972,7 @@
 
 **[7:17]** Då han var komen inn og hadde skilst ifrå folket, spurde læresveinarne honom um dette ordtøket.
 
-**[7:18]** «Er de og so uvituge?» svara han. «Skynar de ’kje at det som kjem inn i menneskjet utantil, kann aldri gjera honom urein?
+**[7:18]** «Er de og so uvituge?» svara han. «Skynar de’kje at det som kjem inn i menneskjet utantil, kann aldri gjera honom urein?
 
 **[7:19]** For det kjem ikkje inn i hjarta hans, men i buken, og fer ut der det skal; soleis vert all føda rein.
 
@@ -50990,7 +50990,7 @@
 
 **[7:26]** det var ei heidningkona, av syro-fønikisk ætt. Og ho bad at han vilde driva den vonde åndi ut or dotter hennar.
 
-**[7:27]** «Lat fyrst borni få eta seg mette!» svara han; «det er ’kje vænt å taka brødet frå borni og kasta det for hund-ungarne.»
+**[7:27]** «Lat fyrst borni få eta seg mette!» svara han; «det er’kje vænt å taka brødet frå borni og kasta det for hund-ungarne.»
 
 **[7:28]** «Jau, Herre,» svara ho; «små-hundarne et då og under bordet av smularne etter borni.»
 
@@ -51010,7 +51010,7 @@
 
 **[7:36]** Jesus forbaud deim å segja det med nokon. Men di meir han forbaud det, di meir bar dei det utyver.
 
-**[7:37]** Dei var reint tekne og sagde: «Han hev gjort alt vel! dei dauve gjev han høyrsel, og dei mållause mæle.» 
+**[7:37]** Dei var reint tekne og sagde: «Han hev gjort alt vel! dei dauve gjev han høyrsel, og dei mållause mæle.»
 
 ### Chapter 8
 
@@ -51044,7 +51044,7 @@
 
 **[8:15]** So vara han deim åt og sagde: «Sjå dykk fyre, og agta dykk for surdeigen åt farisæarane og surdeigen åt Herodes!»
 
-**[8:16]** Då tala dei med kvarandre um at dei hadde ’kje brød.
+**[8:16]** Då tala dei med kvarandre um at dei hadde’kje brød.
 
 **[8:17]** Jesus gådde det og sagde til deim: «Kvi talar de um at de ikkje hev brød? Ser og skynar de endå ingen ting? Er de so tungnæme?
 
@@ -51088,7 +51088,7 @@
 
 **[8:37]** For kva kann menneskjet gjeva i byte for sjæli si?
 
-**[8:38]** For den som skjemmest ved meg og ordi mine i denne utrue og synduge ætti, honom skal og Menneskjesonen skjemmast ved når han kjem i herlegdomen åt Far sin med dei heilage englarne. 
+**[8:38]** For den som skjemmest ved meg og ordi mine i denne utrue og synduge ætti, honom skal og Menneskjesonen skjemmast ved når han kjem i herlegdomen åt Far sin med dei heilage englarne.
 
 ### Chapter 9
 
@@ -51126,7 +51126,7 @@
 
 **[9:17]** Då svara ein av folket: «Meister, eg er komen til deg med son min. Han hev ei mållaus ånd i seg;
 
-**[9:18]** når ho tek honom, riv ho og slit i honom, so fraudi stend utor munnen, og han skjer tenner og visnar burt. Eg bad læresveinarne dine at dei vilde driva henne ut, men dei var ’kje god til.»
+**[9:18]** når ho tek honom, riv ho og slit i honom, so fraudi stend utor munnen, og han skjer tenner og visnar burt. Eg bad læresveinarne dine at dei vilde driva henne ut, men dei var’kje god til.»
 
 **[9:19]** Då tok Jesus til ords og sagde: «Å, du vantrune ætt! Kor lenge skal eg vera hjå dykk? Kor lenge skal eg tola dykk? Kom hit til meg med honom!»
 
@@ -51154,7 +51154,7 @@
 
 **[9:31]** for han lærde sveinarne sine og sagde: Menneskjesonen skal gjevast yver i menneskjehender, og dei skal drepa honom; og tri dagar etter han er drepen, skal han standa upp att.
 
-**[9:32]** Men dei skyna ’kje det ordet, og torde ikkje spyrja honom.
+**[9:32]** Men dei skyna’kje det ordet, og torde ikkje spyrja honom.
 
 **[9:33]** So kom dei til Kapernaum, og då han var heime att, spurde han deim: «Kva var det de tala um på vegen?»
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** For kvart menneskje skal saltast med eld, liksom kvart offer vert salta med salt.
 
-**[9:50]** Salt er ein godt; men vert saltet saltlaust, kva vil de då salta det med? Hav salt i dykk sjølve, og haldt fred med kvarandre!» 
+**[9:50]** Salt er ein godt; men vert saltet saltlaust, kva vil de då salta det med? Hav salt i dykk sjølve, og haldt fred med kvarandre!»
 
 ### Chapter 10
 
@@ -51282,7 +51282,7 @@
 
 **[10:44]** og den som vil vera den fyrste av dykk, lyt vera træl for dykk alle.
 
-**[10:45]** For Menneskjesonen er ’kje heller komen for å tenast, men for å tena og gjeva sitt liv til løysepening for mange.»
+**[10:45]** For Menneskjesonen er’kje heller komen for å tenast, men for å tena og gjeva sitt liv til løysepening for mange.»
 
 **[10:46]** So kom dei til Jeriko. Då Jesus tok ut att frå Jeriko med læresveinarne sine og ein svær folkehop, sat son åt Timæus, Bartimæus, ein blind tiggar, attmed vegen,
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** Og Jesus sagde til honom: «Kva vil du eg skal gjera for deg?» «Meister, lat meg få att syni!» svara den blinde.
 
-**[10:52]** Då sagde Jesus til honom: «Gakk heim att! Trui di hev hjelpt deg.» Og med ein gong fekk han att syni, og fylgde Jesus på vegen. 
+**[10:52]** Då sagde Jesus til honom: «Gakk heim att! Trui di hev hjelpt deg.» Og med ein gong fekk han att syni, og fylgde Jesus på vegen.
 
 ### Chapter 11
 
@@ -51324,7 +51324,7 @@
 
 **[11:12]** Dagen etter, då dei gjekk frå Betania, kjende han seg svolten.
 
-**[11:13]** Langt burte såg han eit fiketre med lauv på; han gjekk burtåt, og vilde sjå um han kunde finna noko på det; men då han kom dit, fann han ’kje anna enn lauv; for det var ikkje tidi for fikor.
+**[11:13]** Langt burte såg han eit fiketre med lauv på; han gjekk burtåt, og vilde sjå um han kunde finna noko på det; men då han kom dit, fann han’kje anna enn lauv; for det var ikkje tidi for fikor.
 
 **[11:14]** Då tala han til treet og sagde: «Gjev aldri i verdi nokon må koma til å eta frukt av deg meir!» Og det høyrde læresveinarne på.
 
@@ -51332,7 +51332,7 @@
 
 **[11:16]** og let ingen få lov til å bera nokon reidskap gjenom templet.
 
-**[11:17]** Og han lærde deim og sagde: «Stend det ’kje skrive: «Mitt hus skal kallast eit bønehus for alle folk?» Men de hev gjort det til eit røvarbol.»
+**[11:17]** Og han lærde deim og sagde: «Stend det’kje skrive: «Mitt hus skal kallast eit bønehus for alle folk?» Men de hev gjort det til eit røvarbol.»
 
 **[11:18]** Dei øvste prestarne og dei skriftlærde fekk høyra det, og lurde på korleis dei skulde få teke livet av honom; dei var rædde honom; for alle folk var hugtekne av læra hans.
 
@@ -51364,7 +51364,7 @@
 
 **[11:32]** Lat oss heller svara: «Frå menneskje!»» men det torde dei ikkje for folket; for alle trudde at Johannes var retteleg ein profet.
 
-**[11:33]** So svara dei honom: «Det veit me ikkje.» «Då segjer ikkje eg dykk heller kva rett eg hev til å gjera dette,» sagde Jesus. 
+**[11:33]** So svara dei honom: «Det veit me ikkje.» «Då segjer ikkje eg dykk heller kva rett eg hev til å gjera dette,» sagde Jesus.
 
 ### Chapter 12
 
@@ -51386,7 +51386,7 @@
 
 **[12:9]** Kva skal han no gjera, han som eig vinhagen? Han skal koma og gjera ende på brukarane og lata andre få vingarden.
 
-**[12:10]** Hev de ’kje lese dette skriftordet heller: «Den steinen byggjarane vanda, Den var det som vart hyrnestein;
+**[12:10]** Hev de’kje lese dette skriftordet heller: «Den steinen byggjarane vanda, Den var det som vart hyrnestein;
 
 **[12:11]** D’er Herren sjølv som so hev gjort det; For oss er det eit under stort?»»
 
@@ -51406,7 +51406,7 @@
 
 **[12:19]** «Meister, Moses hev skrive den lovi for oss at når bror åt ein mann døyr barnlaus, og kona liver etter, då skal broren taka enkja og halda uppe ætti åt bror sin.
 
-**[12:20]** No var det var ein gong sju brør. Den fyrste tok seg ei kona; han døydde, og det var ’kje born etter honom.
+**[12:20]** No var det var ein gong sju brør. Den fyrste tok seg ei kona; han døydde, og det var’kje born etter honom.
 
 **[12:21]** So tok den andre enkja; han og døydde barnlaus. Like eins den tridje,
 
@@ -51414,11 +51414,11 @@
 
 **[12:23]** Kven av deim skal ho vera kona åt i eit anna liv, når dei hev stade upp att? For alle sju hev havt henne til kona.»
 
-**[12:24]** «Syner ’kje dette at de fer vilt, og ikkje kjenner skrifterne og ikkje Guds magt?» svara Jesus.
+**[12:24]** «Syner’kje dette at de fer vilt, og ikkje kjenner skrifterne og ikkje Guds magt?» svara Jesus.
 
 **[12:25]** «Når dei hev stade upp frå dei daude, gifter dei seg ikkje, og vert ikkje burtgifte; dei er som englarne i himmelen.
 
-**[12:26]** Men um dei avlidne - at dei skal standa upp att - hev de ’kje lese i boki åt Moses, i soga um klungeren, korleis Gud sagde til honom: «Eg er Abrahams Gud og Isaks Gud og Jakobs Gud?»
+**[12:26]** Men um dei avlidne - at dei skal standa upp att - hev de’kje lese i boki åt Moses, i soga um klungeren, korleis Gud sagde til honom: «Eg er Abrahams Gud og Isaks Gud og Jakobs Gud?»
 
 **[12:27]** Og han er ikkje Gud for dei daude, men for dei livande. De tek storleg i mist.»
 
@@ -51454,7 +51454,7 @@
 
 **[12:43]** Då kalla han læresveinarne til seg og sagde: «Det segjer eg dykk for sant: Denne fatige enkja hev lagt meir enn alle dei som lagde i kista.
 
-**[12:44]** For dei gav alle av nøgdi si; men ho gav av si fatige råd alt det ho åtte, alt ho hadde til å livberga seg med.» 
+**[12:44]** For dei gav alle av nøgdi si; men ho gav av si fatige råd alt det ho åtte, alt ho hadde til å livberga seg med.»
 
 ### Chapter 13
 
@@ -51496,7 +51496,7 @@
 
 **[13:19]** For den tidi skal vera so hard at det aldri hev vore so hard ei tid frå upphavet åt skaparverket som Gud hev gjort, og til no, og vert ikkje sidan heller.
 
-**[13:20]** Og gjorde ’kje Herren den tidi stutt, so vart ’kje eit liv berga; men for deira skuld som han valde seg ut, hev han gjort den tidi stutt.
+**[13:20]** Og gjorde’kje Herren den tidi stutt, so vart’kje eit liv berga; men for deira skuld som han valde seg ut, hev han gjort den tidi stutt.
 
 **[13:21]** Um nokon då segjer med dykk: «Sjå her er Messias - Sjå der!» so må de ikkje tru det!
 
@@ -51526,11 +51526,11 @@
 
 **[13:34]** Det er liksom med ein mann som drog utanlands. Då han for heimantil, sette han sveinarne sine til å styra for seg. Kvar fekk sitt å gjera, og til portnaren sagde han at han laut vaka.
 
-**[13:35]** So vak då! For de veit ’kje når husbonden kjem - um kvelden, eller midnattsbil, eller i otta, eller i dagrenningi.
+**[13:35]** So vak då! For de veit’kje når husbonden kjem - um kvelden, eller midnattsbil, eller i otta, eller i dagrenningi.
 
 **[13:36]** Lat honom ikkje finna dykk sovande, um han skulde koma uventande på dykk!
 
-**[13:37]** Men det eg segjer dykk, det segjer eg alle: Ver vakne!» 
+**[13:37]** Men det eg segjer dykk, det segjer eg alle: Ver vakne!»
 
 ### Chapter 14
 
@@ -51570,7 +51570,7 @@
 
 **[14:18]** og då dei hadde sett seg til bords, sagde han: «Det segjer eg dykk for sant: Ein av dykk kjem til å svika meg, ein som et i lag med meg.»
 
-**[14:19]** Då tok dei til å stura, og spurde honom, ein for ein: «Det er vel ’kje eg?»
+**[14:19]** Då tok dei til å stura, og spurde honom, ein for ein: «Det er vel’kje eg?»
 
 **[14:20]** «Det er ein av dykk tolv, svara han, «den som duppar med meg i fatet.
 
@@ -51606,7 +51606,7 @@
 
 **[14:36]** «Abba» - Fader - sagde han, «alt er mogelegt for deg; tak denne skåli frå meg! Men ikkje som eg vil, berre som du vil!»
 
-**[14:37]** Då han kom attende, såg han at dei hadde sovna. Då sagde han til Peter: «Simon, søv du? Var du ’kje god til å vaka ein time?
+**[14:37]** Då han kom attende, såg han at dei hadde sovna. Då sagde han til Peter: «Simon, søv du? Var du’kje god til å vaka ein time?
 
 **[14:38]** Vak og bed, so de ikkje skal koma i freisting! Åndi er viljug, men kjøtet er veikt.»
 
@@ -51616,7 +51616,7 @@
 
 **[14:41]** So kom han tridje gongen, og sagde til deim: «De søv og kviler, de! Det er nok! Timen er komen. No skal Menneskjesonen gjevast i henderne på syndarar.
 
-**[14:42]** Statt upp og lat oss ganga! Svikaren er ’kje langt undan!»
+**[14:42]** Statt upp og lat oss ganga! Svikaren er’kje langt undan!»
 
 **[14:43]** Og straks - fyrr han hadde tala ut, kjem Judas, ein av dei tolv, og med honom ein flokk med sverd og stavar; dei kom frå dei øvste prestarne og dei skriftlærde og styresmennerne.
 
@@ -51642,7 +51642,7 @@
 
 **[14:54]** Peter fylgde eit langt stykke etter, til han kom inn i garden åt øvstepresten; der vart han sitjande hjå tenarane og vermde seg ved elden.
 
-**[14:55]** Dei øvste prestarne og heile det Høge Rådet leita etter vitnemål mot Jesus, so dei kunde få dømt honom frå livet; men dei fekk ’kje noko på honom.
+**[14:55]** Dei øvste prestarne og heile det Høge Rådet leita etter vitnemål mot Jesus, so dei kunde få dømt honom frå livet; men dei fekk’kje noko på honom.
 
 **[14:56]** Det var mange som vitna rangt imot honom, men vitnemåli høvde ikkje i hop.
 
@@ -51650,7 +51650,7 @@
 
 **[14:58]** «Me høyrde honom segja: «Eg skal riva ned dette templet som er gjort med hender, og på tri dagar skal eg byggja eit anna som ikkje er gjort med hender.»»
 
-**[14:59]** Men endå høvde ’kje vitnemåli deira i hop.
+**[14:59]** Men endå høvde’kje vitnemåli deira i hop.
 
 **[14:60]** Og øvstepresten reiste seg og steig fram ibland deim og sagde til Jesus: «Svarar du inkje på det som desse vitnar imot deg?»
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** Då tok han til å banna og sverja: «Eg kjenner ikkje den mannen de talar um.»
 
-**[14:72]** Og i det same gol hanen andre gongen. Då kom Peter i hug det ordet som Jesus hadde sagt til honom: Fyrr hanen hev gale tvo gonger, skal du avneitta meg tri gonger. Og han tok det til hjarta og gret. 
+**[14:72]** Og i det same gol hanen andre gongen. Då kom Peter i hug det ordet som Jesus hadde sagt til honom: Fyrr hanen hev gale tvo gonger, skal du avneitta meg tri gonger. Og han tok det til hjarta og gret.
 
 ### Chapter 15
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** So kjøpte Josef linty og tok honom ned, sveipte honom i lintyet og lagde honom i ei grav som var hoggi ut i berget, og so velte han ein stein attfor gravopningi.
 
-**[15:47]** Og Maria Magdalena og Joses-Maria såg staden der han vart lagd. 
+**[15:47]** Og Maria Magdalena og Joses-Maria såg staden der han vart lagd.
 
 ### Chapter 16
 
@@ -51790,7 +51790,7 @@
 
 **[16:7]** Men gakk no av stad og seg med læresveinarne hans og med Peter at han gjeng fyre dykk til Galilæa; der skal de sjå honom, som han hev sagt dykk.»
 
-**[16:8]** Då gjekk dei ut att og rømde frå gravi; for fælska hadde teke deim, so dei skalv og var mest ifrå seg. Og dei tala ’kje eit ord til nokon, so rædde var dei.
+**[16:8]** Då gjekk dei ut att og rømde frå gravi; for fælska hadde teke deim, so dei skalv og var mest ifrå seg. Og dei tala’kje eit ord til nokon, so rædde var dei.
 
 **[16:9]** Då Jesus hadde stade upp att, tidleg den fyrste dagen i vika, synte han seg fyrst for Maria Magdalena, som han hadde drive sju vonde ånder utor.
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** Etter Herren Jesus hadde tala til deim, vart han teken upp til himmels og sette seg ved Guds høgre hand.
 
-**[16:20]** Og dei gjekk ut og tala Guds ord alle stader, og Herren var med deim og stadfeste ordet med dei teikni som fylgde med.  
+**[16:20]** Og dei gjekk ut og tala Guds ord alle stader, og Herren var med deim og stadfeste ordet med dei teikni som fylgde med.
 
 ## Luke
 
@@ -51832,7 +51832,7 @@
 
 **[1:6]** Båe var dei rettferdige for Gud; dei fylgde alle Herrens bod og fyresegner, og ingen kunde finna noko å lasta deim for.
 
-**[1:7]** Men dei hadde ikkje born; for Elisabet var ’kje barnkjømd, og dei var båe fram i åri.
+**[1:7]** Men dei hadde ikkje born; for Elisabet var’kje barnkjømd, og dei var båe fram i åri.
 
 **[1:8]** So var det ein dag Zakarja gjorde prestetenesta for Gud; for turen var komen til hans lag,
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** Lysa for deim som sit i myrkr og daudsens skodd, og styra inn på velferds-veg vår fot.»
 
-**[1:80]** Og guten voks og vart sterk i åndi; han heldt seg i øydemarkerne til tidi kom då han skulde førast fram for Israel. 
+**[1:80]** Og guten voks og vart sterk i åndi; han heldt seg i øydemarkerne til tidi kom då han skulde førast fram for Israel.
 
 ### Chapter 2
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** So fylgde han deim heim til Nasaret, og var lydug mot deim. Men mor hans gøymde alt dette i hjarta sitt.
 
-**[2:52]** Og Jesus gjekk fram i visdom og vokster og velvilje hjå Gud og menneskje. 
+**[2:52]** Og Jesus gjekk fram i visdom og vokster og velvilje hjå Gud og menneskje.
 
 ### Chapter 3
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** son åt Metusalah, son åt Enok, son åt Jared, son åt Malalael, son åt Kenan,
 
-**[3:38]** son åt Enos, son åt Set, son åt Adam, Guds son. 
+**[3:38]** son åt Enos, son åt Set, son åt Adam, Guds son.
 
 ### Chapter 4
 
@@ -52208,7 +52208,7 @@
 
 **[4:21]** So tok han til ords og byrja soleis: «I dag hev dette skriftordet sannast, som de sjølve kann høyra.»
 
-**[4:22]** Og alle let vel um honom, og undra seg yver dei ovfagre ordi som kom frå hans munn. «Er ’kje dette son åt Josef?» sagde dei.
+**[4:22]** Og alle let vel um honom, og undra seg yver dei ovfagre ordi som kom frå hans munn. «Er’kje dette son åt Josef?» sagde dei.
 
 **[4:23]** Då sagde han til deim: «De vil visst segja med meg som det stend i ordtøket: «Lækjar, læk deg sjølv! Me hev høyrt um alt det som er gjort i Kapernaum - gjer no like eins her i fødesheimen din!»
 
@@ -52216,7 +52216,7 @@
 
 **[4:25]** Og det segjer eg dykk med sannom: Det var mange enkjor i Israel i Elias’ dagar, då himmelen var stengd i tri år og seks månader, so det vart stor svolt og naud i heile landet,
 
-**[4:26]** og endå vart ’kje Elias send til nokor av deim, men berre til Sarepta i Sidonarlandet, til ei enkja der.
+**[4:26]** og endå vart’kje Elias send til nokor av deim, men berre til Sarepta i Sidonarlandet, til ei enkja der.
 
 **[4:27]** Og det var mange spilte i Israel den tid profeten Elisa livde, og endå vart ingen av deim rein att, men berre Na’aman, syraren.»
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** Då sagde han til deim: «Eg lyt bera ut fagnadbodet um Guds rike til dei andre byarne og; for det vart eg send for.»
 
-**[4:44]** Og han heldt ved og tala ordet i synagogorne i Galilæa. 
+**[4:44]** Og han heldt ved og tala ordet i synagogorne i Galilæa.
 
 ### Chapter 5
 
@@ -52332,7 +52332,7 @@
 
 **[5:38]** Ny vin lyt ein hava på nye lerflaskor.
 
-**[5:39]** Og ingen som hev drukke gamall vin, hev hug på ny vin. «Den gamle er best!» segjer han.» 
+**[5:39]** Og ingen som hev drukke gamall vin, hev hug på ny vin. «Den gamle er best!» segjer han.»
 
 ### Chapter 6
 
@@ -52340,7 +52340,7 @@
 
 **[6:2]** Då sagde nokre av farisæarane: «Kvi gjer de slikt som ingen hev lov til å gjera på kviledagen?»
 
-**[6:3]** Men Jesus tok til ords og sagde til deim: «Hev de då ’kje lese kva David gjorde då han og mennerne hans var svoltne?
+**[6:3]** Men Jesus tok til ords og sagde til deim: «Hev de då’kje lese kva David gjorde då han og mennerne hans var svoltne?
 
 **[6:4]** korleis han gjekk inn i Guds hus og tok skodebrødi og åt, og gav mennerne sine! Og dei brødi hev ingen lov til å eta utan berre prestarne.»
 
@@ -52412,7 +52412,7 @@
 
 **[6:38]** Gjev, so skal dei gjeva dykk! Eit godt, stappa, sikka og yverfullt mål skal dei gjeva dykk i fanget. For det målet de mæler med, skal dei mæla att åt dykk med.»»
 
-**[6:39]** Han sagde deim og ei likning: «Kann ein blind leida ein blind? kjem dei ’kje båe til å falla i grefti?
+**[6:39]** Han sagde deim og ei likning: «Kann ein blind leida ein blind? kjem dei’kje båe til å falla i grefti?
 
 **[6:40]** Læresveinen er ikkje yver meisteren; men er han heilt utlært, so vert han lik meisteren sin.
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** han er lik ein mann som vilde byggja seg eit hus, og som grov djupt i tufti og lagde grunnsteinarne på berget. Då det so kom ein flaum, og straumen braut imot huset, vann han ikkje å rikka det, av di det var godt bygt.
 
-**[6:49]** Men den som høyrer, og ikkje gjer etter det han høyrer, han er lik ein mann som bygde seg eit hus på berre marki, forutan grunnsteinar. Då so straumen braut imot huset, datt det i hop med ein gong, og det vart eit stort fall då det huset datt.» 
+**[6:49]** Men den som høyrer, og ikkje gjer etter det han høyrer, han er lik ein mann som bygde seg eit hus på berre marki, forutan grunnsteinar. Då so straumen braut imot huset, datt det i hop med ein gong, og det vart eit stort fall då det huset datt.»
 
 ### Chapter 7
 
@@ -52446,7 +52446,7 @@
 
 **[7:5]** «for han elskar folket vårt, og det er han som hev bygt synagoga åt oss.»
 
-**[7:6]** Jesus gjekk med deim; men då han ikkje hadde langt att til huset, sende hovudsmannen nokre vener til honom med det bodet: «Herre, du skal ’kje umaka deg! Eg er for ring til at du skulde stiga inn under taket mitt;
+**[7:6]** Jesus gjekk med deim; men då han ikkje hadde langt att til huset, sende hovudsmannen nokre vener til honom med det bodet: «Herre, du skal’kje umaka deg! Eg er for ring til at du skulde stiga inn under taket mitt;
 
 **[7:7]** difor heldt eg meg heller ikkje verdig til å koma til deg. Men seg eit ord, so guten min vert god att!
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** Dei som sat med til bords, tok til å tenkja med seg: «Kven er han, som jamvel tilgjev synder?»
 
-**[7:50]** Men han sagde til kvinna: «Trui di hev frelst deg! Gakk heim, og liv sæl.» 
+**[7:50]** Men han sagde til kvinna: «Trui di hev frelst deg! Gakk heim, og liv sæl.»
 
 ### Chapter 8
 
@@ -52556,7 +52556,7 @@
 
 **[8:9]** Læresveinarne spurde honom kva den likningi skulde tyda.
 
-**[8:10]** Då sagde han: «De fer vita løyndomarne i Guds rike, men dei andre fær høyra deim i likningar, so um dei ser, skal dei ’kje sjå, og um dei høyrer, skal dei ikkje håtta.
+**[8:10]** Då sagde han: «De fer vita løyndomarne i Guds rike, men dei andre fær høyra deim i likningar, so um dei ser, skal dei’kje sjå, og um dei høyrer, skal dei ikkje håtta.
 
 **[8:11]** Men likningi er so å tyda: Sædet er Guds ord.
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** Då kom åndi hennar att, og ho reis upp med ein gong; og han sagde med deim at dei skulde gjeva henne mat.
 
-**[8:56]** Foreldri hennar var reint frå seg av gleda. Men han forbaud deim å tala til nokon um det som var hendt. 
+**[8:56]** Foreldri hennar var reint frå seg av gleda. Men han forbaud deim å tala til nokon um det som var hendt.
 
 ### Chapter 9
 
@@ -52676,7 +52676,7 @@
 
 **[9:12]** Då dagen tok til å halla, gjekk dei tolv fram til honom og sagde: «Send folket frå deg, so dei kann ganga til grenderne og gardarne her ikring og koma i hus og få seg noko til å liva av! For her er me på ein øydestad.»
 
-**[9:13]** «Gjev de deim mat!» svara han. «Me hev ’kje meir enn fem brødleivar og tvo fiskar,» sagde dei; «eller skal me ganga ’stad og kjøpa mat åt alt dette folket?»
+**[9:13]** «Gjev de deim mat!» svara han. «Me hev’kje meir enn fem brødleivar og tvo fiskar,» sagde dei; «eller skal me ganga’stad og kjøpa mat åt alt dette folket?»
 
 **[9:14]** - det var um lag fem tusund mann. Då sagde han til læresveinarne: «Lat deim setja seg ned i bordlag på ikring femti mann!»
 
@@ -52760,7 +52760,7 @@
 
 **[9:54]** Då Jakob og Johannes, læresveinarne hans, såg det, sagde dei: «Herre, vil du me skal segja at det skal fara eld ned frå himmelen og øyda deim, soleis som Elia gjorde?»
 
-**[9:55]** Då snudde han seg og tala strengt til deim og sagde: «Veit det ’kje kva ånd de er av?
+**[9:55]** Då snudde han seg og tala strengt til deim og sagde: «Veit det’kje kva ånd de er av?
 
 **[9:56]** Menneskjesonen er ikkje komen for å øyda menneskjeliv, men for å frelsa.» So gjekk dei til ei onnor grend.
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** Det var ein annan og som sagde: «Eg vil fylgja deg, Herre, men lat meg fyrst få beda farvel med deim som heime er!»
 
-**[9:62]** Jesus svara: «Ingen som hev lagt handi på plogen, og so ser attum seg, høver for Guds rike.» 
+**[9:62]** Jesus svara: «Ingen som hev lagt handi på plogen, og so ser attum seg, høver for Guds rike.»
 
 ### Chapter 10
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** Då svara Herren: «Marta, Marta, du gjer deg hugsott og uro med mange ting;
 
-**[10:42]** men det er eitt som trengst! Maria hev valt seg den gode luten, og den skal ikkje takast ifrå henne.» 
+**[10:42]** men det er eitt som trengst! Maria hev valt seg den gode luten, og den skal ikkje takast ifrå henne.»
 
 ### Chapter 11
 
@@ -52874,7 +52874,7 @@
 
 **[11:5]** So sagde han til deim: «Um nokon av dykk hev ein ven, og gjeng til han midt på natti og segjer: «Kjære, lån meg tri brødleivar!
 
-**[11:6]** for ein ven hev kome innum meg på ei ferd, og eg hev ’kje noko å setja fram åt honom -
+**[11:6]** for ein ven hev kome innum meg på ei ferd, og eg hev’kje noko å setja fram åt honom -
 
 **[11:7]** skulde so han der inne svara: «Gjer meg ikkje slikt bry! Døri er longe stengd, og småborni mine er i seng med meg; eg kann ikkje standa upp og gjeva deg det?»
 
@@ -52888,7 +52888,7 @@
 
 **[11:12]** eller når han bad um eit egg, vilde gjeva honom ein skorpion?
 
-**[11:13]** Når då de som er vonde, veit å gjeva borni dykkar gode gåvor, kor mykje meir vil so ’kje Faderen frå himmelen gjeva den Heilage Ande åt deim som bed honom?»
+**[11:13]** Når då de som er vonde, veit å gjeva borni dykkar gode gåvor, kor mykje meir vil so’kje Faderen frå himmelen gjeva den Heilage Ande åt deim som bed honom?»
 
 **[11:14]** Ein gong dreiv han ut ei vond ånd, som var mållaus, og då åndi var utfari, tala den mållause. Folket undra seg,
 
@@ -52920,7 +52920,7 @@
 
 **[11:28]** Då sagde han: «Sæle er heller dei som høyrer Guds ord og tek vare på det!»
 
-**[11:29]** Som no folket flokka seg kring honom, tok han til ords og sagde: «Denne ætti er ei vond ætt; dei krev etter teikn, men dei skal ’kje få anna teikn enn Jona-teiknet.
+**[11:29]** Som no folket flokka seg kring honom, tok han til ords og sagde: «Denne ætti er ei vond ætt; dei krev etter teikn, men dei skal’kje få anna teikn enn Jona-teiknet.
 
 **[11:30]** For liksom Jona vart eit teikn for Nineve-folket, soleis skal og Menneskjesonen vera det for denne ætti.
 
@@ -52942,7 +52942,7 @@
 
 **[11:39]** Då sagde Herren til honom: «Ja, de farisæarar, de reinskar skåler og fat utvendes, men innvendes er de fulle av ran og vondskap.
 
-**[11:40]** Dårar! Han som gjorde det som er utvendes, gjorde han ’kje det som er innvendes og?
+**[11:40]** Dårar! Han som gjorde det som er utvendes, gjorde han’kje det som er innvendes og?
 
 **[11:41]** Men gjer ei sælebotsgåva av det som inni er; då skal de sjå at alt er reint for dykk!
 
@@ -52954,7 +52954,7 @@
 
 **[11:45]** Då tok ein av dei lovkunnige til ords og sagde: «Meister, når du segjer slikt, gjeng du oss og for nær!»
 
-**[11:46]** Jesus svara: «Ve yver dykk lovkunnige og! De lesser svære byrer på folk, og sjølve rører de ’kje byrderne med ein einaste finger.
+**[11:46]** Jesus svara: «Ve yver dykk lovkunnige og! De lesser svære byrer på folk, og sjølve rører de’kje byrderne med ein einaste finger.
 
 **[11:47]** Ve yver dykk! De byggjer minnesmerke yver profetarne, og det var federne dykkar som slo deim i hel.
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** Då han gjekk ut att, tok dei skriftlærde og farisæarane til å verta fælt nærsøkne og frega honom um mangt og mykje,
 
-**[11:54]** alt med dei lurde på honom og vilde få tak i eitkvart ordet frå hans munn. 
+**[11:54]** alt med dei lurde på honom og vilde få tak i eitkvart ordet frå hans munn.
 
 ### Chapter 12
 
@@ -53020,7 +53020,7 @@
 
 **[12:23]** Livet er meir enn maten, og likamen meir enn klædi.
 
-**[12:24]** Agta på ramnarne! dei sår ikkje og haustar ikkje, dei hev ikkje stabbur og ikkje løda - Gud føder deim. Kor mykje meir er ’kje de enn fuglarne!
+**[12:24]** Agta på ramnarne! dei sår ikkje og haustar ikkje, dei hev ikkje stabbur og ikkje løda - Gud føder deim. Kor mykje meir er’kje de enn fuglarne!
 
 **[12:25]** Og kven av dykk kann leggja ei aln til si livslengd, um han syter aldri so mykje?
 
@@ -53028,9 +53028,9 @@
 
 **[12:27]** Agta på liljorne, korleis dei veks! dei korkje spinn eller vev; men eg segjer dykk: Ikkje ein gong Salomo i all sin herlegdom var so klædd som ei av deim.
 
-**[12:28]** Klæder no Gud soleis graset på marki, det som stend i dag og vert kasta i omnen i morgon, kor mykje heller vil han då ’kje klæda dykk, de fåtruande!
+**[12:28]** Klæder no Gud soleis graset på marki, det som stend i dag og vert kasta i omnen i morgon, kor mykje heller vil han då’kje klæda dykk, de fåtruande!
 
-**[12:29]** So tenk no ’kje de heller allstødt på kva de skal eta, og kva de skal drikka, og lat ’kje hugen vanka for vidt!
+**[12:29]** So tenk no’kje de heller allstødt på kva de skal eta, og kva de skal drikka, og lat’kje hugen vanka for vidt!
 
 **[12:30]** Det er heidningarne kring i verdi som spør etter alt dette; men far dykkar veit at de treng desse ting.
 
@@ -53090,7 +53090,7 @@
 
 **[12:58]** Soleis når du gjeng for retten med motparten din, gjer deg då fyre, so du kann koma tilliks med honom på vegen! Elles dreg han deg gjerne for domaren, og domaren sender deg yver til futen, og futen set deg i fengsel;
 
-**[12:59]** du slepp ikkje ut att, segjer eg deg, fyrr du hev greidt alt, til siste skjerv.» 
+**[12:59]** du slepp ikkje ut att, segjer eg deg, fyrr du hev greidt alt, til siste skjerv.»
 
 ### Chapter 13
 
@@ -53110,7 +53110,7 @@
 
 **[13:8]** «Herre, lat det få standa i år og!» svara vingardsmannen, «til eg fær grave kring det og lagt hævd innåt;
 
-**[13:9]** kann henda det ber eit anna år; gjer det ’kje det, so fær du hogga det ned!»»
+**[13:9]** kann henda det ber eit anna år; gjer det’kje det, so fær du hogga det ned!»»
 
 **[13:10]** Ein kviledag lærde Jesus i ei av synagogorne.
 
@@ -53160,9 +53160,9 @@
 
 **[13:33]** men i dag og i morgon og dagen etter lyt eg ferdast; for det ber aldri til at ein profet let livet annanstad enn i Jerusalem.»
 
-**[13:34]** Jerusalem, Jerusalem, du som slær i hel profetarne og steinar deim som er sende til deg, kor ofte vilde eg ’kje ha samla borni dine kring meg, liksom fuglemori samlar ungeflokken under vengjerne! Men de vilde ikkje.
+**[13:34]** Jerusalem, Jerusalem, du som slær i hel profetarne og steinar deim som er sende til deg, kor ofte vilde eg’kje ha samla borni dine kring meg, liksom fuglemori samlar ungeflokken under vengjerne! Men de vilde ikkje.
 
-**[13:35]** Sjå no skal de få hava huset dykkar sjølve. Eg segjer dykk: De fær aldri sjå meg fyrr den tidi kjem då de ropar: «Velsigna vere han som kjem i Herrens namn!»» 
+**[13:35]** Sjå no skal de få hava huset dykkar sjølve. Eg segjer dykk: De fær aldri sjå meg fyrr den tidi kjem då de ropar: «Velsigna vere han som kjem i Herrens namn!»»
 
 ### Chapter 14
 
@@ -53176,7 +53176,7 @@
 
 **[14:5]** Og til dei andre sagde han: «Kven av dykk dreg ikkje straks upp att son sin eller uksen sin, dersom dei dett nedi ein brunn på ein kviledag?»
 
-**[14:6]** Men dei var ’kje god til å svara honom noko på det.
+**[14:6]** Men dei var’kje god til å svara honom noko på det.
 
 **[14:7]** Då han gådde korleis gjesterne valde seg ut dei øvste sæti, sagde han deim denne likningi:
 
@@ -53220,13 +53220,13 @@
 
 **[14:27]** Den som ikkje ber krossen sin og kjem etter meg, kann ikkje vera min læresvein.
 
-**[14:28]** Vil nokon av dykk byggja eit tårn, tur han ’kje då fyrst set seg ned og reknar etter kva det vil kosta, um han hev nok til å fullføra det.
+**[14:28]** Vil nokon av dykk byggja eit tårn, tur han’kje då fyrst set seg ned og reknar etter kva det vil kosta, um han hev nok til å fullføra det.
 
 **[14:29]** For hev han lagt grunnsteinarne, og ikkje er god til å gjera det ferdigt, so tek alle som ser det til å gjera narr av honom og segja:
 
-**[14:30]** «Den mannen tok til å byggja, og var ’kje god til å gjera det ferdigt!»
+**[14:30]** «Den mannen tok til å byggja, og var’kje god til å gjera det ferdigt!»
 
-**[14:31]** Eller um ein konge vil draga ut i strid mot ein annan konge, tru han ’kje då fyrst set seg ned og slær yver um han med ti tusund mann kann møta ein som kjem imot han med tjuge tusund?
+**[14:31]** Eller um ein konge vil draga ut i strid mot ein annan konge, tru han’kje då fyrst set seg ned og slær yver um han med ti tusund mann kann møta ein som kjem imot han med tjuge tusund?
 
 **[14:32]** Og kann han ikkje, so gjer han av ei sendeferd og tingar um fred, med hin endå er langt burte.
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Salt er ein god ting; men vert saltet og dove, kva skal so det kryddast med?
 
-**[14:35]** Det duger korkje i mold eller møk; dei kastar det ut. Høyr etter, kvar som høyra kann!» 
+**[14:35]** Det duger korkje i mold eller møk; dei kastar det ut. Høyr etter, kvar som høyra kann!»
 
 ### Chapter 15
 
@@ -53244,7 +53244,7 @@
 
 **[15:3]** Då sagde han deim denne likningi:
 
-**[15:4]** Um ein av dykk hev hundrad sauer og misser ein av deim, let han ’kje då dei ni og nitti vera att i beitemarki, og gjeng av og leitar etter den han hev mist, til han finn honom?
+**[15:4]** Um ein av dykk hev hundrad sauer og misser ein av deim, let han’kje då dei ni og nitti vera att i beitemarki, og gjeng av og leitar etter den han hev mist, til han finn honom?
 
 **[15:5]** Og når han hev funne honom, er han glad og tek honom på herdarne sine;
 
@@ -53252,7 +53252,7 @@
 
 **[15:7]** Eg segjer dykk: Soleis er det gleda i himmelen yver ein syndar som vender um, meir enn yver ni og nitti rettferdige som ikkje treng umvending.
 
-**[15:8]** Eller um ei kvinna hev ti sylvpeningar, og misser ein av deim, kveikjer ho ’kje då ljos og sopar huset og leitar trottugt, til dess ho finn honom?
+**[15:8]** Eller um ei kvinna hev ti sylvpeningar, og misser ein av deim, kveikjer ho’kje då ljos og sopar huset og leitar trottugt, til dess ho finn honom?
 
 **[15:9]** Og når ho hev funne honom, kallar ho i hop vener og grannkonor og segjer: «Gled dykk med meg! Eg hev funne peningen eg hadde mist.»
 
@@ -53262,7 +53262,7 @@
 
 **[15:12]** Den yngste av deim sagde til faren: «Far, lat meg få den luten av buet som fell på meg!» So skifte han midelen millom deim.
 
-**[15:13]** Det var ’kje mange dagarne lidne, so samla den yngste sonen alt sitt og for langt burt til eit anna land. Der gav han seg i ulivnad, og øydde upp det han åtte.
+**[15:13]** Det var’kje mange dagarne lidne, so samla den yngste sonen alt sitt og for langt burt til eit anna land. Der gav han seg i ulivnad, og øydde upp det han åtte.
 
 **[15:14]** Då han hadde sett til alt, vart det uår og svolt der i landet, og han tok til å lida naud.
 
@@ -53274,7 +53274,7 @@
 
 **[15:18]** Eg vil taka i veg og ganga heim til far min og segja til honom: «Far, eg hev synda mot himmelen og mot deg!
 
-**[15:19]** Eg er ’kje verd å kallast son din lenger; lat meg få vera som ein av leigekararne dine!»»
+**[15:19]** Eg er’kje verd å kallast son din lenger; lat meg få vera som ein av leigekararne dine!»»
 
 **[15:20]** So tok han i vegen og gjekk heim til far sin. Med han endå var langt burte, vart far hans var honom, og ynkast inderleg; han sprang imot honom og kasta seg um halsen på honom og kysste honom.
 
@@ -53300,7 +53300,7 @@
 
 **[15:31]** «Du er allstødt hjå meg, barnet mitt,» svara faren, «og alt som mitt er, er ditt.»
 
-**[15:32]** Men no skulde me vera glade og fegne; for denne bror din var daud og hev livna, var burtkomen og er attfunnen!»» 
+**[15:32]** Men no skulde me vera glade og fegne; for denne bror din var daud og hev livna, var burtkomen og er attfunnen!»»
 
 ### Chapter 16
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** «Å nei, fader Abraham!» sagde han; «men kjem nokon til deim frå dei daude, so gjer dei bot.»
 
-**[16:31]** Då sagde Abraham: «Høyrer dei ikkje på Moses og profetarne, so trur dei ikkje heller um nokon stend upp frå dei daude.»» 
+**[16:31]** Då sagde Abraham: «Høyrer dei ikkje på Moses og profetarne, so trur dei ikkje heller um nokon stend upp frå dei daude.»»
 
 ### Chapter 17
 
@@ -53382,11 +53382,11 @@
 
 **[17:7]** Um nokon av dykk hev ein dreng som pløgjer eller gjæter, segjer han då til honom når han kjem heim frå marki: «Kom straks og set deg til bords?»
 
-**[17:8]** Segjer han ’kje heller: «Stell til kveldsmaten åt meg, bind livgjordi um deg, og gakk meg til handa med eg et og drikk! Sidan kann du eta og drikka?»
+**[17:8]** Segjer han’kje heller: «Stell til kveldsmaten åt meg, bind livgjordi um deg, og gakk meg til handa med eg et og drikk! Sidan kann du eta og drikka?»
 
 **[17:9]** Takkar han vel drengen for di han gjorde som han var fyresagd? Eg trur ikkje det.
 
-**[17:10]** Soleis de og; når de hev gjort alt som var sagt dykk, so seg: «Me er uturvande tenarar! Me hev ’kje gjort anna enn det som var skyldnaden vår.»»
+**[17:10]** Soleis de og; når de hev gjort alt som var sagt dykk, so seg: «Me er uturvande tenarar! Me hev’kje gjort anna enn det som var skyldnaden vår.»»
 
 **[17:11]** Med han var på vegen til Jerusalem og for midt imillom Samaria og Galilæa,
 
@@ -53400,7 +53400,7 @@
 
 **[17:16]** og kasta seg å gruve framfor føterne hans og takka honom; det var ein samaritan.
 
-**[17:17]** Då tok Jesus til ords og sagde: «Vart dei ’kje reine alle ti? Kvar er då dei ni?
+**[17:17]** Då tok Jesus til ords og sagde: «Vart dei’kje reine alle ti? Kvar er då dei ni?
 
 **[17:18]** Var det ingen utan denne framande som kom attende og vilde gjeva Gud æra?»
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** Tvo skal vera utpå marki; den eine skal hentast, og hin setjast att.»
 
-**[17:37]** Då tok læresveinarne til ords og sagde: «Kvar, Herre?» Han svara: «Der liket er, der vil ørnane sankast innåt.» 
+**[17:37]** Då tok læresveinarne til ords og sagde: «Kvar, Herre?» Han svara: «Der liket er, der vil ørnane sankast innåt.»
 
 ### Chapter 18
 
@@ -53456,7 +53456,7 @@
 
 **[18:6]** Høyr kva den urettferdige domaren segjer,» sagde Herren;
 
-**[18:7]** «skulde so ’kje Gud hjelpa sine utvalde til retten sin, dei som ropar til honom dag og natt, um han so drygjer det ut for deim?
+**[18:7]** «skulde so’kje Gud hjelpa sine utvalde til retten sin, dei som ropar til honom dag og natt, um han so drygjer det ut for deim?
 
 **[18:8]** Eg segjer dykk: Han skal hjelpa deim til retten sin, og det fort. Men når Menneskjesonen kjem, skal han då finna trui på jordi?»
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** «No fær du att syni! Trui di hev hjelpt deg,» sagde Jesus.
 
-**[18:43]** Og straks fekk han att syni si og fylgde honom alt med han lova Gud; og alt folket som såg det, gav Gud æra og pris. 
+**[18:43]** Og straks fekk han att syni si og fylgde honom alt med han lova Gud; og alt folket som såg det, gav Gud æra og pris.
 
 ### Chapter 19
 
@@ -53626,7 +53626,7 @@
 
 **[19:47]** Sidan lærde han dagstødt i templet. Øvsteprestarne og dei skriftlærde var trådde etter å få rudt honom or vegen, og so gjorde dei fyrste mennerne i folket,
 
-**[19:48]** men dei kunde ikkje finna ut korleis dei skulde bera seg åt med det; for heile folket hekk ved honom og lydde på honom. 
+**[19:48]** men dei kunde ikkje finna ut korleis dei skulde bera seg åt med det; for heile folket hekk ved honom og lydde på honom.
 
 ### Chapter 20
 
@@ -53722,7 +53722,7 @@
 
 **[20:46]** «Agta dykk for dei skriftlærde som likar å ganga ikring i side kjolar og gjerne vil helsast torgi og hava dei fremste sessarne i synagogorne og dei høgste sæti i gjestebod!
 
-**[20:47]** dei som et upp huset for enkjor og for ei syn skuld held lange bøner. Dei skal få so mykje strengare dom.» 
+**[20:47]** dei som et upp huset for enkjor og for ei syn skuld held lange bøner. Dei skal få so mykje strengare dom.»
 
 ### Chapter 21
 
@@ -53800,7 +53800,7 @@
 
 **[21:37]** Um dagarne lærde han i templet; men um kveldarne gjekk han ut or byen og var natti yver på den åsen dei kallar Oljeberget.
 
-**[21:38]** Og alt folket kom tidleg um morgonen til honom i templet og lydde på honom. 
+**[21:38]** Og alt folket kom tidleg um morgonen til honom i templet og lydde på honom.
 
 ### Chapter 22
 
@@ -53856,7 +53856,7 @@
 
 **[22:26]** So må det ikkje vera med dykk; men den som er største ibland dykk, skal vera som han var yngst, og styraren som han var tenar.
 
-**[22:27]** For kven er størst, den som sit til bords, eller den som ber på bordet? Er det ’kje den som sit til bords? Men eg er berre som ein bordsvein ibland dykk.
+**[22:27]** For kven er størst, den som sit til bords, eller den som ber på bordet? Er det’kje den som sit til bords? Men eg er berre som ein bordsvein ibland dykk.
 
 **[22:28]** De er dei som heldt ut hjå meg i røyningarne mine,
 
@@ -53908,7 +53908,7 @@
 
 **[22:52]** So sagde han til deim som var komne og skulde taka honom, øvsteprestarne og tempelhovdingarne og styresmennerne: «De kjem med sverd og stavar som eg skulde vera ein røvar!
 
-**[22:53]** Den tid eg var saman med dykk i templet dag etter dag, då baud de ’kje til å gripa meg. Men no er det dykkar time, no er det myrkret som råder.»
+**[22:53]** Den tid eg var saman med dykk i templet dag etter dag, då baud de’kje til å gripa meg. Men no er det dykkar time, no er det myrkret som råder.»
 
 **[22:54]** So tok dei honom og førde honom burt og inn i garden åt øvstepresten; og Peter fylgde eit langt stykke etter.
 
@@ -53922,7 +53922,7 @@
 
 **[22:59]** Då um lag ein time var liden, var det ein til som sanna det og sagde: «Jau visst var denne og med honom; han er då ein galilæar.»
 
-**[22:60]** «Eg veit ’kje kva du talar um, mann!» sagde Peter. Og straks, fyrr han hadde tala ut, gol hanen.
+**[22:60]** «Eg veit’kje kva du talar um, mann!» sagde Peter. Og straks, fyrr han hadde tala ut, gol hanen.
 
 **[22:61]** Då vende Herren seg og såg på Peter; og Peter kom i hug det ordet Herren hadde sagt til honom: «Fyrr hanen gjel i natt, hev du avneitta meg tri gonger.»
 
@@ -53944,7 +53944,7 @@
 
 **[22:70]** Då spurde dei alle: «Er du då Guds Son?» Han svara: «De segjer det, og eg er det.»
 
-**[22:71]** «Kva skal me med fleire vitnemål?» sagde dei då; «no høyrde me det av hans eigen munn!» 
+**[22:71]** «Kva skal me med fleire vitnemål?» sagde dei då; «no høyrde me det av hans eigen munn!»
 
 ### Chapter 23
 
@@ -53974,7 +53974,7 @@
 
 **[23:13]** So kalla Pilatus i hop øvsteprestarne og rådsherrarne og folket
 
-**[23:14]** og dei sagde til deim: «De hev ført denne mannen fram for meg og skulda honom for at han leider folket på avveg. No hev eg lydt honom ut, so de hev høyrt på det, men eg hev ’kje funne honom saka i noko av det de klagar honom for.
+**[23:14]** og dei sagde til deim: «De hev ført denne mannen fram for meg og skulda honom for at han leider folket på avveg. No hev eg lydt honom ut, so de hev høyrt på det, men eg hev’kje funne honom saka i noko av det de klagar honom for.
 
 **[23:15]** Og det hev ikkje Herodes heller; for eg sende dykk til honom. So kann de sjå, at han hev ikkje gjort noko, som han skulde lata livet for.
 
@@ -53990,7 +53990,7 @@
 
 **[23:21]** Men dei ropa imot: «Krossfest honom, krossfest honom!»
 
-**[23:22]** So tala han til deim tridje gongen og sagde: «Kva vondt hev han då gjort, denne mannen? Eg hev ’kje funne honom saka i noko som han kann dømast frå livet for. Difor vil eg refsa honom og so gjeva honom fri.»
+**[23:22]** So tala han til deim tridje gongen og sagde: «Kva vondt hev han då gjort, denne mannen? Eg hev’kje funne honom saka i noko som han kann dømast frå livet for. Difor vil eg refsa honom og so gjeva honom fri.»
 
 **[23:23]** Men dei braut på, og kravde med høge rop at han skulde krossfestast, og ropi deira fekk yvertaket.
 
@@ -54024,7 +54024,7 @@
 
 **[23:38]** Og uppyver honom var det ei innskrift: «Dette er kongen yver jødarne.»
 
-**[23:39]** Ein av illgjerningsmennerne som hekk der, hædde honom og sagde: «Er ’kje du Messias? - hjelp deg sjølv og oss!»
+**[23:39]** Ein av illgjerningsmennerne som hekk der, hædde honom og sagde: «Er’kje du Messias? - hjelp deg sjølv og oss!»
 
 **[23:40]** Då tok den andre til ords, og skjemde på honom og sagde: «Ottast ikkje du heller Gud, du som er under same domen?
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** Nokre av dei kvinnorne som hadde vore med han frå Galilæa, fylgde etter; dei skoda gravi og såg korleis likamen hans vart lagd.
 
-**[23:56]** So gjekk dei heim att og laga til angande kryddor og salvar. Kviledagen heldt dei seg i ro etter lovi. 
+**[23:56]** So gjekk dei heim att og laga til angande kryddor og salvar. Kviledagen heldt dei seg i ro etter lovi.
 
 ### Chapter 24
 
@@ -54138,7 +54138,7 @@
 
 **[24:38]** Då sagde han til deim: «Kvi er de so forstøkte, og kvifor vaknar det tvil i hjarta dykkar?
 
-**[24:39]** Sjå henderne og føterne mine, at det er eg sjølv! Kjenn på meg og sjå! Ei ånd hev då ’kje kjøt og bein, som de ser eg hev.»
+**[24:39]** Sjå henderne og føterne mine, at det er eg sjølv! Kjenn på meg og sjå! Ei ånd hev då’kje kjøt og bein, som de ser eg hev.»
 
 **[24:40]** Då han hadde sagt det, synte han deim henderne og føterne sine.
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** Og dei kasta seg på kne og tilbad honom. So gjekk dei attende til Jerusalem i stor gleda,
 
-**[24:53]** og sidan var dei allstødt i templet og lova og prisa Gud.  
+**[24:53]** og sidan var dei allstødt i templet og lova og prisa Gud.
 
 ## John
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** [Stu21: 51] «Trur du for di eg sagde deg at eg hadde set deg innunder fiketreet?» svara Jesus; «du skal få sjå større ting enn det.
 
-**[1:51]** [Stu21: 52] Det segjer eg dykk for visst og sant,» sagde han med honom: «De skal sjå himmelen open og Guds englar stiga upp og stiga ned yver Menneskjesonen.» 
+**[1:51]** [Stu21: 52] Det segjer eg dykk for visst og sant,» sagde han med honom: «De skal sjå himmelen open og Guds englar stiga upp og stiga ned yver Menneskjesonen.»
 
 ### Chapter 2
 
@@ -54324,7 +54324,7 @@
 
 **[2:24]** Men sjølv trudde Jesus seg ikkje til deim, av di han kjende alle,
 
-**[2:25]** og ikkje trong at nokon skulde vitna um noko menneskje; for han visste sjølv kva som budde i det menneskjet. 
+**[2:25]** og ikkje trong at nokon skulde vitna um noko menneskje; for han visste sjølv kva som budde i det menneskjet.
 
 ### Chapter 3
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** Faderen elskar Sonen, og hev gjeve alt i hans hender.
 
-**[3:36]** Den som trur på Sonen, hev æveleg liv; men den som ikkje lyder Sonen, fær ikkje sjå livet, men Guds vreide vert verande yver honom». 
+**[3:36]** Den som trur på Sonen, hev æveleg liv; men den som ikkje lyder Sonen, fær ikkje sjå livet, men Guds vreide vert verande yver honom».
 
 ### Chapter 4
 
@@ -54484,7 +54484,7 @@
 
 **[4:41]** Og mange fleire trudde for skuld ordet han tala,
 
-**[4:42]** og dei sagde til kvinna: «No trur me ’kje lenger for skuld det du hev tala; for me hev sjølve høyrt honom og veit no for visst at han er den som skal frelsa verdi.»
+**[4:42]** og dei sagde til kvinna: «No trur me’kje lenger for skuld det du hev tala; for me hev sjølve høyrt honom og veit no for visst at han er den som skal frelsa verdi.»
 
 **[4:43]** Då dei tvo dagarne var lidne, tok han ut derifrå og for til Galilæa;
 
@@ -54496,7 +54496,7 @@
 
 **[4:47]** Då han fekk høyra at Jesus hadde teke ut frå Judæa og var komen til Galilæa, gjekk han til honom og bad at han vilde koma ned og lækja son hans; for han låg på det siste.
 
-**[4:48]** Jesus svara: «Ser de ’kje teikn og under, so trur de ikkje.»
+**[4:48]** Jesus svara: «Ser de’kje teikn og under, so trur de ikkje.»
 
 **[4:49]** Kongsmannen segjer til honom: «Herre, kom ned innan barnet mitt døyr!»
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** Då skyna faren at det var i den same timen som Jesus hadde sagt til honom: «Son din liver,» og han trudde, både han og heile hans hus.
 
-**[4:54]** Dette var det andre teiknet Jesus gjorde då han no atter kom frå Judæa til Galilæa. 
+**[4:54]** Dette var det andre teiknet Jesus gjorde då han no atter kom frå Judæa til Galilæa.
 
 ### Chapter 5
 
@@ -54600,11 +54600,11 @@
 
 **[5:44]** Korleis kann de tru, de som tek imot æra av kvarandre, men ikkje søkjer den æra som kjem frå den einaste Gud?
 
-**[5:45]** De må ’kje tenkja eg vil klaga dykk for far min! Det er ein som klagar dykk, Moses, han som de hev sett dykkar von til.
+**[5:45]** De må’kje tenkja eg vil klaga dykk for far min! Det er ein som klagar dykk, Moses, han som de hev sett dykkar von til.
 
 **[5:46]** For trudde de Moses, so trudde de meg; for det er meg han hev skrive um.
 
-**[5:47]** Men når de ikkje trur hans skrifter, korleis skal de då tru mine ord?» 
+**[5:47]** Men når de ikkje trur hans skrifter, korleis skal de då tru mine ord?»
 
 ### Chapter 6
 
@@ -54658,7 +54658,7 @@
 
 **[6:25]** og då dei fann han der, på hi sida av sjøen, sagde dei til honom: «Når kom du hit, meister?»
 
-**[6:26]** Jesus svara deim: «Det segjer eg dykk for visst og sant: Det er ’kje for di de såg teikn at de leitar etter meg, men for di de åt av brødi og vart mette.
+**[6:26]** Jesus svara deim: «Det segjer eg dykk for visst og sant: Det er’kje for di de såg teikn at de leitar etter meg, men for di de åt av brødi og vart mette.
 
 **[6:27]** Vinn dykk ikkje føda som forgjengst, men føda som varer og gjev eit ævelegt liv! Den skal Menneskjesonen gjeva dykk; for honom hev Faderen, Gud, sett sitt innsigle på.»
 
@@ -54690,7 +54690,7 @@
 
 **[6:41]** Då murra jødarne og fann åt honom, for di han sagde: «Eg er brødet som kom ned frå himmelen.»
 
-**[6:42]** «Er ’kje dette Jesus Josefsson? sagde dei; «me kjenner då både far hans og mor hans; korleis hev det seg at han no segjer: «Eg hev kome ned frå himmelen?»»
+**[6:42]** «Er’kje dette Jesus Josefsson? sagde dei; «me kjenner då både far hans og mor hans; korleis hev det seg at han no segjer: «Eg hev kome ned frå himmelen?»»
 
 **[6:43]** Då tok Jesus til ords og sagde til deim: «Haldt ikkje på å murra dykk imillom!
 
@@ -54722,7 +54722,7 @@
 
 **[6:57]** Som den livande Faderen sende meg, og eg liver ved Faderen, so skal og den som et meg liva ved meg.
 
-**[6:58]** Det er brødet som kom ned frå himmelen; det er ’kje som det federne dykkar åt, og so døydde: den som et dette brødet, skal liva i all æva.»
+**[6:58]** Det er brødet som kom ned frå himmelen; det er’kje som det federne dykkar åt, og so døydde: den som et dette brødet, skal liva i all æva.»
 
 **[6:59]** Dette sagde han i eit synagogemøte, med han lærde i Kapernaum.
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** «Hev eg ikkje sjølv valt dykk ut, alle tolv?» svara Jesus, «og ein av dykk er ein djevel!»
 
-**[6:71]** Han meinte Judas, son åt Simon Iskariot; for det var han som sidan skulde svika honom - han, ein av dei tolv. 
+**[6:71]** Han meinte Judas, son åt Simon Iskariot; for det var han som sidan skulde svika honom - han, ein av dei tolv.
 
 ### Chapter 7
 
@@ -54782,13 +54782,13 @@
 
 **[7:15]** Jødarne undra seg og sagde: «Kvar hev han lærdomen sin frå, som ikkje hev gjenge på nokon skule?»
 
-**[7:16]** Då tok Jesus til ords og sagde til deim: «Mi læra er ’kje mi, men hans som sende meg.
+**[7:16]** Då tok Jesus til ords og sagde til deim: «Mi læra er’kje mi, men hans som sende meg.
 
 **[7:17]** Vil nokon gjera etter hans vilje, skal han få røyna um læra er frå Gud, eller um eg talar av meg sjølv.
 
 **[7:18]** Den som talar av seg sjølv, søkjer si eigi æra; men den som søkjer æra åt den som hev sendt honom, er sannordig, og det finst ikkje urett i honom.
 
-**[7:19]** Hev ’kje Moses gjeve dykk lovi? og ingen av dykk held lovi. Kvi tenkjer de på å drepa meg?»
+**[7:19]** Hev’kje Moses gjeve dykk lovi? og ingen av dykk held lovi. Kvi tenkjer de på å drepa meg?»
 
 **[7:20]** «Du er forgjord!» svara folket, «kven tenkjer på å drepa deg?»
 
@@ -54800,7 +54800,7 @@
 
 **[7:24]** Døm ikkje etter det som er utvendes, men lat domen dykkar vera rettferdig!»
 
-**[7:25]** Det var nokre av Jerusalems-buarne som sagde: «Er ’kje dette den mannen som dei tenkjer på å drepa?
+**[7:25]** Det var nokre av Jerusalems-buarne som sagde: «Er’kje dette den mannen som dei tenkjer på å drepa?
 
 **[7:26]** og no talar han fritt ut, og dei segjer ikkje eit ord til honom! Skulde dei styrande retteleg ha skyna at han er Messias?
 
@@ -54810,7 +54810,7 @@
 
 **[7:29]** eg kjenner honom, for eg kjem ifrå honom, og det var han som sende meg.»
 
-**[7:30]** Då vilde dei gripa honom; men ingen lagde hand på honom; for endå var ’kje tidi hans komi.
+**[7:30]** Då vilde dei gripa honom; men ingen lagde hand på honom; for endå var’kje tidi hans komi.
 
 **[7:31]** Men mange av folket trudde på honom og sagde: «Når Messias kjem, tru han då gjer fleire teikn enn denne mannen hev gjort?»
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** «Er du og frå Galilæa, kann henda?» svara dei. «Granska etter, so fær du sjå at det aldri kjem nokon profet frå Galilæa!»
 
-**[7:53]** So gjekk kvar heim til seg. 
+**[7:53]** So gjekk kvar heim til seg.
 
 ### Chapter 8
 
@@ -54908,7 +54908,7 @@
 
 **[8:24]** difor sagde eg dykk at de skal døy i synderne dykkar; når de ikkje trur at eg er den eg er, so skal de døy i synderne dykkar.»
 
-**[8:25]** «Kven er du?» sagde dei då. «Kvi let eg ’kje heller reint vera å tala til dykk?» svara Jesus.
+**[8:25]** «Kven er du?» sagde dei då. «Kvi let eg’kje heller reint vera å tala til dykk?» svara Jesus.
 
 **[8:26]** «Mykje hev eg å segja og døma um dykk; men han som sende meg, er sannordig, og eg talar ikkje anna til verdi enn det eg hev høyrt av honom.»
 
@@ -54946,7 +54946,7 @@
 
 **[8:43]** «Kvi skynar de ikkje min tale? Av di de ikkje toler å høyra ordi mine!
 
-**[8:44]** De hev djevelen til far, og det de vil, er å gjera det far dykkar hugast; han var ein manndråpar frå fyrste tid, og hev ’kje sitt støde i sanningi; for det finst ikkje sanning i honom. Når han talar lygn, talar han av sitt eige; for han er ein ljugar og far åt lygni.
+**[8:44]** De hev djevelen til far, og det de vil, er å gjera det far dykkar hugast; han var ein manndråpar frå fyrste tid, og hev’kje sitt støde i sanningi; for det finst ikkje sanning i honom. Når han talar lygn, talar han av sitt eige; for han er ein ljugar og far åt lygni.
 
 **[8:45]** Men av eg talar sanningi, trur det meg ikkje.
 
@@ -54954,7 +54954,7 @@
 
 **[8:47]** Den som er av Gud, høyrer Guds ord; de er ikkje av Gud, difor er det de ikkje høyrer.»
 
-**[8:48]** Då tok jødarne til ords og sagde til honom: «Er det ’kje sant som me segjer at du er ein samaritan, og er forgjord?»
+**[8:48]** Då tok jødarne til ords og sagde til honom: «Er det’kje sant som me segjer at du er ein samaritan, og er forgjord?»
 
 **[8:49]** Jesus svara: «Eg er ikkje forgjord; eg ærar Far min, og de vanærar meg.
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Jesus sagde til deim: «Det segjer eg dykk for visst og sant: Fyrr Abraham vart til, er eg til.»
 
-**[8:59]** Då tok dei upp steinar og vilde kasta på honom; men Jesus løynde seg og gjekk ut or templet. 
+**[8:59]** Då tok dei upp steinar og vilde kasta på honom; men Jesus løynde seg og gjekk ut or templet.
 
 ### Chapter 9
 
@@ -54992,15 +54992,15 @@
 
 **[9:6]** Med so sagt sputta han på jordi og laga ei gyrma av sputtet; den gyrma smurde han på augo hans
 
-**[9:7]** og sagde til honom: «Gakk og två deg i Siloadammen!» - Siloa tyder sendemann -. So gjekk han ’stad og tvo seg, og då han kom att, kunde han sjå.
+**[9:7]** og sagde til honom: «Gakk og två deg i Siloadammen!» - Siloa tyder sendemann -. So gjekk han’stad og tvo seg, og då han kom att, kunde han sjå.
 
-**[9:8]** Då sagde grannarne og dei som jamleg hadde set honom fyrr - for han var ein tiggar: «Er ’kje det han som sat og bad seg?»
+**[9:8]** Då sagde grannarne og dei som jamleg hadde set honom fyrr - for han var ein tiggar: «Er’kje det han som sat og bad seg?»
 
 **[9:9]** «Jau, det er han,» sagde andre. Endå andre sagde: «Nei, men han er lik honom.» Sjølv sagde han: «Det er eg.»
 
 **[9:10]** «Korleis vart augo dine opna?» sagde dei då.
 
-**[9:11]** Han svara: «Den mannen som dei kallar Jesus, laga ei gyrma og smurde på augo mine og sagde til meg: «Gakk til Siloa og två deg!» So gjekk eg ’stad og tvo meg, og då fekk eg syni mi.»
+**[9:11]** Han svara: «Den mannen som dei kallar Jesus, laga ei gyrma og smurde på augo mine og sagde til meg: «Gakk til Siloa og två deg!» So gjekk eg’stad og tvo meg, og då fekk eg syni mi.»
 
 **[9:12]** «Kvar er han, den mannen?» spurde dei. «Eg veit ikkje,» segjer han.
 
@@ -55020,7 +55020,7 @@
 
 **[9:20]** «Me veit at dette er vår son, og at han er fødd blind,» svara foreldri hans;
 
-**[9:21]** «men korleis det hev seg at han no ser, det veit me ikkje, og kven som hev opna augo hans, veit me ’kje heller. Spør honom sjølv! Han er gamall nok; han kann sjølv svara for seg.»
+**[9:21]** «men korleis det hev seg at han no ser, det veit me ikkje, og kven som hev opna augo hans, veit me’kje heller. Spør honom sjølv! Han er gamall nok; han kann sjølv svara for seg.»
 
 **[9:22]** Det sagde foreldri hans av di dei var rædde jødarne; for jødarne var alt samrådde um at den som kanna honom for Messias, skulde støytast ut or synagoga;
 
@@ -55044,7 +55044,7 @@
 
 **[9:32]** Frå ævords tid hev det ikkje vore spurt at nokon hev opna augo på ein blindfødd.
 
-**[9:33]** Var ’kje denne mannen komen frå Gud, kunde han ingen ting gjera.»
+**[9:33]** Var’kje denne mannen komen frå Gud, kunde han ingen ting gjera.»
 
 **[9:34]** Då ropa dei imot honom: «I synder er du fødd og boren, og du vil læra oss!» og kasta honom ut.
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** Nokre farisæarar som var innmed honom, høyrde det og sagde: «Kann henda me og er blinde?»
 
-**[9:41]** Då sagde Jesus: «Var de blinde, so hadde de ikkje synd; men no segjer de: «Me ser» - og syndi dykkar vert verande der ho var.» 
+**[9:41]** Då sagde Jesus: «Var de blinde, so hadde de ikkje synd; men no segjer de: «Me ser» - og syndi dykkar vert verande der ho var.»
 
 ### Chapter 10
 
@@ -55130,7 +55130,7 @@
 
 **[10:33]** «For eit gildt verk steinar me deg ikkje,» svara jødarne, «men for gudsspotting, for di du som er eit menneskje, gjer deg sjølv til Gud.»
 
-**[10:34]** Jesus svara: «Stend det ’kje skrive i lovi dykkar: «Eg hev sagt: «De er gudar?»»
+**[10:34]** Jesus svara: «Stend det’kje skrive i lovi dykkar: «Eg hev sagt: «De er gudar?»»
 
 **[10:35]** Når no lovi kallar deim som Guds ord kom til, for gudar - og Skrifti kann ikkje gjerast um inkje -
 
@@ -55146,7 +55146,7 @@
 
 **[10:41]** Og kom mange til honom, og dei sagde: «Johannes gjorde fulla ikkje noko teikn, men alt det Johannes sagde um denne mannen, var sant.»
 
-**[10:42]** Og mange trudde på honom der. 
+**[10:42]** Og mange trudde på honom der.
 
 ### Chapter 11
 
@@ -55156,7 +55156,7 @@
 
 **[11:3]** Systerne sende då bod til honom med dei ordi: «Herre, han som du hev so kjær, ligg sjuk!»
 
-**[11:4]** Då Jesus høyrde det, sagde han: «Den sotti er ’kje nokor helsott, men ho er til Guds æra; Guds son skal få æra av det.»
+**[11:4]** Då Jesus høyrde det, sagde han: «Den sotti er’kje nokor helsott, men ho er til Guds æra; Guds son skal få æra av det.»
 
 **[11:5]** Jesus heldt mykje av Marta og syster hennar og Lasarus.
 
@@ -55166,7 +55166,7 @@
 
 **[11:8]** «Rabbi,» sagde læresveinarne, «nyst vilde jødarne steina deg, og so fer du dit att!»
 
-**[11:9]** «Er det ’kje tolv timar i dagen?» svara Jesus; «den som gjeng um dagen, snåvar ikkje; for han ser ljoset åt denne verdi;
+**[11:9]** «Er det’kje tolv timar i dagen?» svara Jesus; «den som gjeng um dagen, snåvar ikkje; for han ser ljoset åt denne verdi;
 
 **[11:10]** men den som gjeng um natti, han snåvar, av di han ikkje hev ljoset i seg.»
 
@@ -55204,7 +55204,7 @@
 
 **[11:27]** «Ja, Herre,» svara ho, «eg hev trutt, og trur, at du er Messias, Guds son, han som skulde koma til verdi.»
 
-**[11:28]** Med so sagt gjekk ho av ’stad og kalla på Maria, syster si, og sagde til henne i løynd: «Meisteren er her og spør etter deg.»
+**[11:28]** Med so sagt gjekk ho av’stad og kalla på Maria, syster si, og sagde til henne i løynd: «Meisteren er her og spør etter deg.»
 
 **[11:29]** Då ho høyrde det, reiste ho seg snøgt og gjekk ut til honom.
 
@@ -55262,7 +55262,7 @@
 
 **[11:56]** Då leita dei etter Jesus, og sagde seg imillom med dei stod i templet: «Kva tenkjer de? Kjem han slett ikkje til høgtidi?»
 
-**[11:57]** Men øvsteprestarne og farisæarane hadde gjeve påbod um at dersom nokon fekk vita kvar han var, skulde han segja frå, so dei kunde gripa honom. 
+**[11:57]** Men øvsteprestarne og farisæarane hadde gjeve påbod um at dersom nokon fekk vita kvar han var, skulde han segja frå, so dei kunde gripa honom.
 
 ### Chapter 12
 
@@ -55324,7 +55324,7 @@
 
 **[12:29]** Folket som stod der og høyrde det, sagde at tora hadde slege. Andre sagde: «Det var ein engel som tala til honom.
 
-**[12:30]** Då tok Jesus til ords og sagde: «Det var ’kje for mi skuld denne røysti kom, men for dykkar skuld.
+**[12:30]** Då tok Jesus til ords og sagde: «Det var’kje for mi skuld denne røysti kom, men for dykkar skuld.
 
 **[12:31]** No gjeng det dom yver denne verdi; no skal hovdingen yver denne verdi kastast ut.
 
@@ -55358,13 +55358,13 @@
 
 **[12:46]** Eg er komen til verdi - eit ljos, so ingen som trur på meg, skal verta verande i myrkret.
 
-**[12:47]** Um nokon høyrer ordi mine og ikkje tek vare på deim, so dømer ikkje eg honom; for eg er ’kje komen på den måten at eg skal døma verdi, men at eg skal frelsa verdi.
+**[12:47]** Um nokon høyrer ordi mine og ikkje tek vare på deim, so dømer ikkje eg honom; for eg er’kje komen på den måten at eg skal døma verdi, men at eg skal frelsa verdi.
 
 **[12:48]** Den som vandar meg og ikkje tek imot ordi mine, hev den som dømer honom: det ordet eg hev tala, det skal døma honom på den siste dag.
 
 **[12:49]** For eg hev ikkje tala av meg sjølv; men Faderen, som sende meg, han hev sagt meg fyre kva eg skal segja og kva eg skal tala;
 
-**[12:50]** og eg veit at hans fyresegn er eit ævelegt liv. So talar eg då det som eg talar heiltupp so som Faderen hev sagt meg.» 
+**[12:50]** og eg veit at hans fyresegn er eit ævelegt liv. So talar eg då det som eg talar heiltupp so som Faderen hev sagt meg.»
 
 ### Chapter 13
 
@@ -55388,7 +55388,7 @@
 
 **[13:10]** «Den som hev lauga seg, treng ikkje två anna enn føterne; elles er han heiltupp rein,» segjer Jesus; «og de er reine, men ikkje alle.»
 
-**[13:11]** Han visste kven som skulde svika honom; difor var det han sagde: «De er ’kje reine alle.»
+**[13:11]** Han visste kven som skulde svika honom; difor var det han sagde: «De er’kje reine alle.»
 
 **[13:12]** Då han no hadde tvege føterne deira og teke på seg kjolen sin og sett seg til bords att, sagde han til deim: «Skynar de kva det er eg hev gjort med dykk?
 
@@ -55442,19 +55442,19 @@
 
 **[13:37]** «Kvi kann eg ikkje fylgja deg straks, Herre?» segjer Peter; «eg vil gjeva mitt liv for deg!»
 
-**[13:38]** «Vil du gjeva ditt liv for meg?» svara Jesus; «det segjer eg deg for visst og sant: Hanen skal ikkje gala fyrr du hev avneitta meg tri gonger.» 
+**[13:38]** «Vil du gjeva ditt liv for meg?» svara Jesus; «det segjer eg deg for visst og sant: Hanen skal ikkje gala fyrr du hev avneitta meg tri gonger.»
 
 ### Chapter 14
 
 **[14:1]** «Lat ikkje hjarta dykkar uroast! Tru på Gud, og tru på meg!
 
-**[14:2]** I huset åt Far min er det mange rom; var det ’kje so, vilde eg vel då sagt dykk det; for eg gjeng burt og vil stella til ein verestad åt dykk.
+**[14:2]** I huset åt Far min er det mange rom; var det’kje so, vilde eg vel då sagt dykk det; for eg gjeng burt og vil stella til ein verestad åt dykk.
 
 **[14:3]** Og når eg hev gjenge burt og stelt til ein verestad åt dykk, kjem eg att og tek dykk til meg, so de og skal vera der eg er.
 
 **[14:4]** Og vegen dit eg gjeng, den veit de.»
 
-**[14:5]** Tomas segjer til honom: «Herre, me veit ’kje kvar du gjeng av; korleis kann me då vita vegen?»
+**[14:5]** Tomas segjer til honom: «Herre, me veit’kje kvar du gjeng av; korleis kann me då vita vegen?»
 
 **[14:6]** Jesus svarar: «Eg er vegen og sanningi og livet. Ingen kjem til Faderen utan gjenom meg;
 
@@ -55480,7 +55480,7 @@
 
 **[14:17]** Sannings-Anden, som verdi ikkje kann få, for ho ser honom ikkje og kjenner honom ikkje. De kjenner honom; for han bur hjå dykk og skal vera inni dykk.
 
-**[14:18]** Eg vil ’kje lata dykk vera att åleine som foreldrelause born; eg kjem til dykk.
+**[14:18]** Eg vil’kje lata dykk vera att åleine som foreldrelause born; eg kjem til dykk.
 
 **[14:19]** Um ei liti stund ser verdi meg ikkje lenger; men de ser meg; for eg liver, og de skal liva.
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Heretter kjem eg ikkje til å tala mykje med dykk; for no kjem hovdingen yver verdi. I meg eig han ingen ting,
 
-**[14:31]** men eg vil verdi skal sjå at eg elskar Faderen, og gjer so som Faderen hev sagt til meg! Reis dykk, og lat oss ganga ifrå her!» 
+**[14:31]** men eg vil verdi skal sjå at eg elskar Faderen, og gjer so som Faderen hev sagt til meg! Reis dykk, og lat oss ganga ifrå her!»
 
 ### Chapter 15
 
@@ -55556,13 +55556,13 @@
 
 **[15:23]** Den som hatar meg, hatar og far min.
 
-**[15:24]** Hadde eg ’kje gjort slike verk bland deim som ingen annan hev gjort, so hadde dei ikkje synd; men no hev dei set deim, og like vel hatar dei både meg og far min.
+**[15:24]** Hadde eg’kje gjort slike verk bland deim som ingen annan hev gjort, so hadde dei ikkje synd; men no hev dei set deim, og like vel hatar dei både meg og far min.
 
 **[15:25]** Men det er av di det laut sannast det ordet som er skrive i lovi deira: «Utan orsak hata dei meg.»
 
 **[15:26]** Når målsmannen kjem, han som eg vilde senda dykk frå Faderen, Sannings-Anden, som gjeng ut frå Faderen, so skal han vitna um meg.
 
-**[15:27]** Men de og skal vitna; for de hev vore med meg frå det fyrste.» 
+**[15:27]** Men de og skal vitna; for de hev vore med meg frå det fyrste.»
 
 ### Chapter 16
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** «sjå, det kjem ei stund - ja, ho er alt komi - då de skal spreidast, kvar til sin heim, og lata meg vera att åleine. Men eg er ikkje åleine; far min er med meg.
 
-**[16:33]** Dette hev eg tala til dykk, so de skal hava fred i meg. I verdi hev de trengsel; men ver hugheile! eg hev vunne yver verdi.» 
+**[16:33]** Dette hev eg tala til dykk, so de skal hava fred i meg. I verdi hev de trengsel; men ver hugheile! eg hev vunne yver verdi.»
 
 ### Chapter 17
 
@@ -55684,7 +55684,7 @@
 
 **[17:25]** Rettferdige Fader, verdi kjenner deg ikkje, men eg kjenner deg, og desse hev kanna at du hev sendt meg;
 
-**[17:26]** eg hev gjort namnet ditt kunnigt for deim og skal gjera det kunnigt, so den kjærleiken du hev havt til meg, kann vera i deim, og eg sjølv kann vera i deim.» 
+**[17:26]** eg hev gjort namnet ditt kunnigt for deim og skal gjera det kunnigt, so den kjærleiken du hev havt til meg, kann vera i deim, og eg sjølv kann vera i deim.»
 
 ### Chapter 18
 
@@ -55708,7 +55708,7 @@
 
 **[18:10]** Simon Peter hadde eit sverd; han drog det og hogg til tenaren åt øvstepresten, og sneidde av honom det høgre øyra. Tenaren heitte Malkus.
 
-**[18:11]** Då sagde Jesus til Peter: «Stikk sverdet ditt i slira! Lyt eg ’kje drikka den skåli som Far min hev gjeve meg?»
+**[18:11]** Då sagde Jesus til Peter: «Stikk sverdet ditt i slira! Lyt eg’kje drikka den skåli som Far min hev gjeve meg?»
 
 **[18:12]** So tok dei og batt Jesus - det var vaktmannskapet og hovdingen deira og sveinarne åt jødarne.
 
@@ -55758,7 +55758,7 @@
 
 **[18:35]** «Er då eg ein jøde?» svara Pilatus; «folket ditt og øvsteprestarne hev gjeve deg yver til meg. Kva hev du gjort?»
 
-**[18:36]** Jesus svara: «Mitt rike er ikkje av denne verdi; var riket mitt av denne verdi, so vilde sveinarne mine strida for meg, so eg ikkje skulde koma i henderne på jødarne. Men no er ’kje riket mitt av denne verdi.»
+**[18:36]** Jesus svara: «Mitt rike er ikkje av denne verdi; var riket mitt av denne verdi, so vilde sveinarne mine strida for meg, so eg ikkje skulde koma i henderne på jødarne. Men no er’kje riket mitt av denne verdi.»
 
 **[18:37]** «Men so er du då ein konge?» sagde Pilatus. Jesus svara: «Det er som du segjer; eg er ein konge. Til det er eg fødd, og til det er eg komen til verdi, at eg skal vitna for sanningi. Kvar den som er av sanningi, lyder på mi røyst.»
 
@@ -55766,7 +55766,7 @@
 
 **[18:39]** men de er vane med at eg gjev dykk ein fri på påskehøgtidi - vil de då at eg skal gjeva dykk kongen yver jødarne fri?»
 
-**[18:40]** Men dei ropa alle på nytt: «Ikkje han, men Barabbas!» Barabbas, det var ein røvar. 
+**[18:40]** Men dei ropa alle på nytt: «Ikkje han, men Barabbas!» Barabbas, det var ein røvar.
 
 ### Chapter 19
 
@@ -55788,9 +55788,9 @@
 
 **[19:9]** han gjekk inn att i borgi og spurde Jesus: «Kvar er du ifrå?» Men Jesus gav han ikkje noko svar.
 
-**[19:10]** Pilatus segjer til honom: «Svarar du meg ikkje? Veit du ’kje at eg hev magt til å gjeva deg fri og hev magt til å krossfesta deg?»
+**[19:10]** Pilatus segjer til honom: «Svarar du meg ikkje? Veit du’kje at eg hev magt til å gjeva deg fri og hev magt til å krossfesta deg?»
 
-**[19:11]** Jesus svara: «Du hadde ingi magt yver meg, var det ’kje gjeve deg ovantil. Difor hev han større synd den som gav meg yver til deg.»
+**[19:11]** Jesus svara: «Du hadde ingi magt yver meg, var det’kje gjeve deg ovantil. Difor hev han større synd den som gav meg yver til deg.»
 
 **[19:12]** Frå den stundi vilde Pilatus gjerne gjeva honom fri. Men jødarne ropa: «Gjev du honom fri, er du ikkje ven med keisaren. Kvar den som gjer seg sjølv til konge, set seg upp imot keisaren.»
 
@@ -55840,7 +55840,7 @@
 
 **[19:35]** Dette vitnar ein som hev set det, og vitnemålet hans er sætande; han veit sjølv at han segjer sant, so de og må tru.
 
-**[19:36]** For dette hende av di Skrifti laut sannast: «Det skal ’kje brjotast sund eit bein på honom.»
+**[19:36]** For dette hende av di Skrifti laut sannast: «Det skal’kje brjotast sund eit bein på honom.»
 
 **[19:37]** Og eit anna skriftord att lyder so: «Dei skal sjå burt på honom som dei hev gjenomstunge.»
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** På den staden han vart krossfest var det ein hage, og i hagen ei ny grav, som det endå aldri hadde vorte sett ned nokon i.
 
-**[19:42]** Der lagde dei då Jesus, av di det var fyrebuingsdagen åt jødarne, og gravi var nær innmed. 
+**[19:42]** Der lagde dei då Jesus, av di det var fyrebuingsdagen åt jødarne, og gravi var nær innmed.
 
 ### Chapter 20
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** Endå mange andre teikn gjorde Jesus for augo åt læresveinarne sine, teikn som ikkje er skrive i denne boki.
 
-**[20:31]** Men desse er skrivne so de skal tru at Jesus er Messias, Guds Son, og so de som trur skal hava liv i hans namn. 
+**[20:31]** Men desse er skrivne so de skal tru at Jesus er Messias, Guds Son, og so de som trur skal hava liv i hans namn.
 
 ### Chapter 21
 
@@ -55924,7 +55924,7 @@
 
 **[21:2]** Simon Peter og Tomas - han som me kallar Didymus - og Natanael - han frå Kana i Galilæa - og Sebedæus-sønerne og tvo andre av læresveinarne var der i hop.
 
-**[21:3]** Då segjer Simon Peter til deim: «Eg gjeng ’stad å fiska.» «Me vil og med,» segjer dei. So tok dei ut og steig i båten; men den natti fekk dei ’kje noko.
+**[21:3]** Då segjer Simon Peter til deim: «Eg gjeng’stad å fiska.» «Me vil og med,» segjer dei. So tok dei ut og steig i båten; men den natti fekk dei’kje noko.
 
 **[21:4]** I det bilet det tok til å dagast, stod Jesus med ein gong på strandi; men læresveinarne visste ikkje at det var han.
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** Det er den læresveinen som vitnar um desse ting og hev skrive dette, og me veit at vitnemålet hans er sant.
 
-**[21:25]** Det er endå mykje anna som Jesus hev gjort. Skulde det skrivast upp, kvar ting for seg, trur eg ikkje heile verdi vilde røma dei bøkerne som då laut skrivast.  
+**[21:25]** Det er endå mykje anna som Jesus hev gjort. Skulde det skrivast upp, kvar ting for seg, trur eg ikkje heile verdi vilde røma dei bøkerne som då laut skrivast.
 
 ## Acts
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** til å få lut i denne tenesta og apostelgjerning som Judas gjekk burt ifrå til å fara til sin egen stad!»
 
-**[1:26]** Og dei kasta lut millom deim, og luten fall på Mattias, og han vart rekna saman med dei elleve apostlarne. 
+**[1:26]** Og dei kasta lut millom deim, og luten fall på Mattias, og han vart rekna saman med dei elleve apostlarne.
 
 ### Chapter 2
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** Og kvar dag søkte dei samheldigt templet og braut brødet heime og fekk seg føda med fagnad og hjartans einfelde,
 
-**[2:47]** medan dei lova Gud og hadde ynde hjå alt folket. Men kvar dag lagde Herren til kyrkjelyden deim som let seg frelsa. 
+**[2:47]** medan dei lova Gud og hadde ynde hjå alt folket. Men kvar dag lagde Herren til kyrkjelyden deim som let seg frelsa.
 
 ### Chapter 3
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** De er born åt profetarne og åt den pakti som Gud gjorde med våre feder, då han sagde til Abraham: «Og i di ætt skal alle ætter på jordi velsignast.»
 
-**[3:26]** De var dei fyrste som Gud sende tenaren sin til, då han let honom koma fram for at han skulde velsigna dykk, med di kvar av dykk vender seg frå sin vondskap.» 
+**[3:26]** De var dei fyrste som Gud sende tenaren sin til, då han let honom koma fram for at han skulde velsigna dykk, med di kvar av dykk vender seg frå sin vondskap.»
 
 ### Chapter 4
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Men Josef, som apostlarne hadde kalla med tilnamn Barnabas, det tyder: påminnaren, ein levit, ætta frå Kypern,
 
-**[4:37]** som åtte ein åker, selde honom og bar pengarne fram og lagde deim for føterne på apostlarne. 
+**[4:37]** som åtte ein åker, selde honom og bar pengarne fram og lagde deim for føterne på apostlarne.
 
 ### Chapter 5
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** So gjekk dei då burt frå rådet, glade yver at dei var haldne verdige til å lida vanæra for hans namn skuld.
 
-**[5:42]** Og dei heldt ikkje upp med å læra kvar dag i templet og heime og forkynna evangeliet um Kristus Jesus. 
+**[5:42]** Og dei heldt ikkje upp med å læra kvar dag i templet og heime og forkynna evangeliet um Kristus Jesus.
 
 ### Chapter 6
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** For me hev høyrt honom segja at denne Jesus frå Nasaret skal riva ned denne staden og brigda dei sedvanar som Moses gav oss.»
 
-**[6:15]** Og då alle deim som sat i rådet, stirde på honom, såg dei åsyni hans som ein engels åsyn. 
+**[6:15]** Og då alle deim som sat i rådet, stirde på honom, såg dei åsyni hans som ein engels åsyn.
 
 ### Chapter 7
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** Og dei steina Stefanus, medan han bad og sagde: «Herre Jesus, tak imot mi ånd!»
 
-**[7:60]** Men han fall på kne og ropa med høg røyst: «Herre, tilrekna deim ikkje denne syndi!» Og då han hadde sagt dette, sovna han av. 
+**[7:60]** Men han fall på kne og ropa med høg røyst: «Herre, tilrekna deim ikkje denne syndi!» Og då han hadde sagt dette, sovna han av.
 
 ### Chapter 8
 
@@ -56572,7 +56572,7 @@
 
 **[8:39]** Men då dei steig upp or vatnet, rykte Herrens Ande Filip burt, og hirdmannen såg honom ikkje meir; for han for glad sin veg.
 
-**[8:40]** Men Filip vart funnen i Asdod. Og han gjekk ikring og forkynte evangeliet i alle byarne, til han kom til Cæsaræa. 
+**[8:40]** Men Filip vart funnen i Asdod. Og han gjekk ikring og forkynte evangeliet i alle byarne, til han kom til Cæsaræa.
 
 ### Chapter 9
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** Dette vart kunnigt yver heile Joppe, og mange kom til tru på Herren.
 
-**[9:43]** So vart det til det at han vart verande mange dagar i Joppe hjå ein som heitte Simon, ein garvar. 
+**[9:43]** So vart det til det at han vart verande mange dagar i Joppe hjå ein som heitte Simon, ein garvar.
 
 ### Chapter 10
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Då svara Peter: «Kann vel nokon meinka vatnet, at ikkje desse må verta døypte, som hev fenge den Heilage Ande liksom me?»
 
-**[10:48]** Og han baud at dei skulde verta døypte i Jesu Kristi namn. Og dei bad honom drygja der nokre dagar. 
+**[10:48]** Og han baud at dei skulde verta døypte i Jesu Kristi namn. Og dei bad honom drygja der nokre dagar.
 
 ### Chapter 11
 
@@ -56820,7 +56820,7 @@
 
 **[11:29]** Læresveinarne sette seg då fyre å senda noko, etter som kvar av deim hadde råd, til hjelp for dei brørne som budde i Judæa.
 
-**[11:30]** Det gjorde dei ogso, og dei sende det til dei eldste gjenom Barnabas og Saulus. 
+**[11:30]** Det gjorde dei ogso, og dei sende det til dei eldste gjenom Barnabas og Saulus.
 
 ### Chapter 12
 
@@ -56872,7 +56872,7 @@
 
 **[12:24]** Men Guds ord hadde framgang og vann mange.
 
-**[12:25]** Og Barnabas og Saulus for atter frå Jerusalem då dei hadde fullført si tenesta, og tok og med seg Johannes som var kalla med tilnamnet Markus. 
+**[12:25]** Og Barnabas og Saulus for atter frå Jerusalem då dei hadde fullført si tenesta, og tok og med seg Johannes som var kalla med tilnamnet Markus.
 
 ### Chapter 13
 
@@ -56978,7 +56978,7 @@
 
 **[13:51]** Dei riste dusti av føterne sine mot deim og kom til Ikonium.
 
-**[13:52]** Men læresveinarne vart fyllte med gleda og den Heilage Ande. 
+**[13:52]** Men læresveinarne vart fyllte med gleda og den Heilage Ande.
 
 ### Chapter 14
 
@@ -57036,7 +57036,7 @@
 
 **[14:27]** Då dei kom dit, samla dei kyrkjelyden og fortalde kor store ting Gud hadde gjort ved deim, og at han hadde opna døri til tru for heidningarne.
 
-**[14:28]** Og dei drygde der ikkje so kort tid saman med læresveinarne. 
+**[14:28]** Og dei drygde der ikkje so kort tid saman med læresveinarne.
 
 ### Chapter 15
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** Men Paulus valde Silas til fylgjesvein og drog ut etter at brørne hadde gjeve honom yver til Herrens nåde.
 
-**[15:41]** Og han for gjenom Syria og Kilikia og styrkte kyrkjelydarne. 
+**[15:41]** Og han for gjenom Syria og Kilikia og styrkte kyrkjelydarne.
 
 ### Chapter 16
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** dei kom og tala vel med deim og førde deim ut og bad deim fara frå byen.
 
-**[16:40]** So gjekk dei ut or fengslet og gjekk inn til Lydia; og då dei hadde set brørne og gjeve deim påminningar, drog dei burt. 
+**[16:40]** So gjekk dei ut or fengslet og gjekk inn til Lydia; og då dei hadde set brørne og gjeve deim påminningar, drog dei burt.
 
 ### Chapter 17
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** So gjekk då Paulus burt ifrå deim.
 
-**[17:34]** Men nokre menner heldt seg til honom og kom til tru, millom deim ogso Dionysius, ein av domarane på Areopagus, og ei kvinna med namnet Damaris og andre med deim. 
+**[17:34]** Men nokre menner heldt seg til honom og kom til tru, millom deim ogso Dionysius, ein av domarane på Areopagus, og ei kvinna med namnet Damaris og andre med deim.
 
 ### Chapter 18
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** Då han so vilde draga derifrå til Akaia, talde brørne honom til og skreiv til læresveinarne um å taka imot honom. Og då han kom dit, var han ved Guds nåde til stor hjelp for dei truande.
 
-**[18:28]** For med kraft målbatt han jødarne openberrleg for alle, med di han synte ut or skrifterne at Jesus er Messias. 
+**[18:28]** For med kraft målbatt han jødarne openberrleg for alle, med di han synte ut or skrifterne at Jesus er Messias.
 
 ### Chapter 19
 
@@ -57412,7 +57412,7 @@
 
 **[19:39]** Men dersom det er noko anna de søkjer, so skal det verta avgjort på det lovlege ålmannating.
 
-**[19:40]** For det er jamvel fåre for at me skal verta klaga for upprør etter dette i dag, då det ingen grunn finst, som me kann bruka til å gjera greida for dette upplaupet.» [Stu21: 41] Og med å segja dette fekk han hopen til å skiljast. 
+**[19:40]** For det er jamvel fåre for at me skal verta klaga for upprør etter dette i dag, då det ingen grunn finst, som me kann bruka til å gjera greida for dette upplaupet.» [Stu21: 41] Og med å segja dette fekk han hopen til å skiljast.
 
 **[19:41]** 
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** Då brast dei alle i sterk gråt og fall Paulus um halsen og kysste honom.
 
-**[20:38]** Og mest vondt gjorde deim det ordet han hadde sagt, at dei ikkje meir skulde få sjå hans åsyn. So fylgde dei honom til skipet. 
+**[20:38]** Og mest vondt gjorde deim det ordet han hadde sagt, at dei ikkje meir skulde få sjå hans åsyn. So fylgde dei honom til skipet.
 
 ### Chapter 21
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** Då sagde Paulus: «Eg er ein jøde frå Tarsus, borgar av ein ikkje ukjend by i Kilikia. Men eg bed deg: Gjev meg lov å tala til folket!»
 
-**[21:40]** Då han gav honom lov, stelte Paulus seg i troppi og slo til ljod åt folket med handi. Då det vart reint stilt, tala han til deim på det hebraiske målet og sagde: 
+**[21:40]** Då han gav honom lov, stelte Paulus seg i troppi og slo til ljod åt folket med handi. Då det vart reint stilt, tala han til deim på det hebraiske målet og sagde:
 
 ### Chapter 22
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Då gjekk dei straks frå honom, dei som skulde forhøyra honom; men ogso den øvste hovudsmannen vart rædd, då han fekk vita at han var romersk borgar, for di han hadde bunde honom.
 
-**[22:30]** Men dagen etter, då han no vilde få full greida på det som jødarne klaga honom for, løyste han honom or lekkjorne og baud at øvsteprestarne og heile rådet skulde koma saman. Og han førde Paulus ned og stelte honom fram for deim. 
+**[22:30]** Men dagen etter, då han no vilde få full greida på det som jødarne klaga honom for, løyste han honom or lekkjorne og baud at øvsteprestarne og heile rådet skulde koma saman. Og han førde Paulus ned og stelte honom fram for deim.
 
 ### Chapter 23
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** Då han hadde lese det og spurt kva land han var ifrå, og hadde fenge vita at han var frå Kilikia, sagde han:
 
-**[23:35]** «Eg skal taka deg i forhøyr når klagarane dine kjem.» Og han baud at han skulde haldast i varetekt i Herodes-borgi. 
+**[23:35]** «Eg skal taka deg i forhøyr når klagarane dine kjem.» Og han baud at han skulde haldast i varetekt i Herodes-borgi.
 
 ### Chapter 24
 
@@ -57764,7 +57764,7 @@
 
 **[24:26]** Han hadde og den voni, at han skulde få pengar av Paulus; difor sende han og oftare bod etter honom og tala med honom.
 
-**[24:27]** Då tvo år var lidne, fekk Feliks til ettermann Porcius Festus; og då Feliks vilde vinna seg takk av jødarne, let han Paulus bunden etter seg. 
+**[24:27]** Då tvo år var lidne, fekk Feliks til ettermann Porcius Festus; og då Feliks vilde vinna seg takk av jødarne, let han Paulus bunden etter seg.
 
 ### Chapter 25
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** Noko visst hev eg ikkje å skriva til herren um honom; difor førde eg honom fram for dykk og serleg for deg, kong Agrippa, so eg, når forhøyr er halde, kann hava noko å skriva.
 
-**[25:27]** For eg tykkjer det er meiningslaust når eg sender ein fange, at eg ikkje kann segja frå um klagemåli mot honom.» 
+**[25:27]** For eg tykkjer det er meiningslaust når eg sender ein fange, at eg ikkje kann segja frå um klagemåli mot honom.»
 
 ### Chapter 26
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** og dei gjekk i einrom og tala med kvarandre og sagde: «Denne mannen gjer ingen ting som skulde gjera honom skuldig til daude eller lekkjor.»
 
-**[26:32]** Og Agrippa sagde til Festus: Denne mannen kunde vera laten laus, um han ikkje hadde skote saki si inn for keisaren.» 
+**[26:32]** Og Agrippa sagde til Festus: Denne mannen kunde vera laten laus, um han ikkje hadde skote saki si inn for keisaren.»
 
 ### Chapter 27
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** Men hovudsmannen, som vilde berga Paulus, hindra deim i denne rådi og gav det påbodet at dei som kunde symja, fyrst skulde kasta seg ut og koma i land,
 
-**[27:44]** og so dei andre, sume på bordstubbar, andre på stykke av skipet. Og soleis hende det seg at alle vart berga i land. 
+**[27:44]** og so dei andre, sume på bordstubbar, andre på stykke av skipet. Og soleis hende det seg at alle vart berga i land.
 
 ### Chapter 28
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** Han vart då verande heile tvo år i det herbyrget som han hadde leigt seg, og tok imot alle som kom til honom,
 
-**[28:31]** og han forkynte Guds rike og lærde um Herren Jesus med alt frimod og utan hinder.  
+**[28:31]** og han forkynte Guds rike og lærde um Herren Jesus med alt frimod og utan hinder.
 
 ## Romans
 
@@ -58108,7 +58108,7 @@
 
 **[1:31]** uvituge, usætande, ukjærlege, miskunnlause;
 
-**[1:32]** slike som vel kjenner Guds dom, at dei som gjer slikt, er verde dauden, og endå ikkje berre gjer det, men og gjev deim medhald som gjer det. 
+**[1:32]** slike som vel kjenner Guds dom, at dei som gjer slikt, er verde dauden, og endå ikkje berre gjer det, men og gjev deim medhald som gjer det.
 
 ### Chapter 2
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** For ikkje den er jøde som er det i synom, og ikkje heller er det umskjering som er det i synom, på kjøtet.
 
-**[2:29]** Men den som er jøde i løyndom, han er jøde, og umskjering er hjarteumskjering i ånd, ikkje i bokstav. Ein slik hev ros, ikkje av menneskje, men av Gud. 
+**[2:29]** Men den som er jøde i løyndom, han er jøde, og umskjering er hjarteumskjering i ånd, ikkje i bokstav. Ein slik hev ros, ikkje av menneskje, men av Gud.
 
 ### Chapter 3
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** so sant Gud er ein, og han rettferdiggjer dei umskorne av tru, og dei u-umskorne ved tru.
 
-**[3:31]** Gjer me då lovi um inkje med trui? Nei, langt ifrå; me stadfester lovi. 
+**[3:31]** Gjer me då lovi um inkje med trui? Nei, langt ifrå; me stadfester lovi.
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** men og for vår skuld som det skal verta tilrekna, me som trur på honom som vekte upp Jesus, vår Herre, frå dei daude,
 
-**[4:25]** han som vart gjeven for våre brot og uppvekt til vår rettferdiggjering. 
+**[4:25]** han som vart gjeven for våre brot og uppvekt til vår rettferdiggjering.
 
 ### Chapter 5
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** Men lovi kom attåt, so fallet skulde verta stort; men der syndi vart stor, vart nåden endå større,
 
-**[5:21]** so liksom syndi rådde ved dauden, skulde nåden og råda ved rettferd til ævelegt liv ved Jesus Kristus, vår Herre. 
+**[5:21]** so liksom syndi rådde ved dauden, skulde nåden og råda ved rettferd til ævelegt liv ved Jesus Kristus, vår Herre.
 
 ### Chapter 6
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** Men no då de er frigjorde frå syndi og hev vorte Guds tenarar, hev de dykkar frukt til helging, og endelykti er ævelegt liv.
 
-**[6:23]** For den løn som syndi gjev, er dauden, men Guds nådegåva er ævelegt liv i Kristus Jesus, vår Herre. 
+**[6:23]** For den løn som syndi gjev, er dauden, men Guds nådegåva er ævelegt liv i Kristus Jesus, vår Herre.
 
 ### Chapter 7
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** Eg arme menneskje! kven skal frelsa meg frå denne daudens likam?
 
-**[7:25]** Gud vere takk ved Jesus Kristus, vår Herre! - So tener då eg i meg sjølv Guds lov med hugen, men syndelovi med kjøtet. 
+**[7:25]** Gud vere takk ved Jesus Kristus, vår Herre! - So tener då eg i meg sjølv Guds lov med hugen, men syndelovi med kjøtet.
 
 ### Chapter 8
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** For eg er viss på at korkje daude eller liv, korkje englar eller herrar, korkje det som no er eller det som koma skal eller nokor magt,
 
-**[8:39]** korkje høgd eller dypt eller noko annan skapning skal kunna skilja oss frå Guds kjærleik i Kristus Jesus, vår Herre. 
+**[8:39]** korkje høgd eller dypt eller noko annan skapning skal kunna skilja oss frå Guds kjærleik i Kristus Jesus, vår Herre.
 
 ### Chapter 9
 
@@ -58576,7 +58576,7 @@
 
 **[9:32]** Kvifor so? For di dei ikkje søkte henne med tru, men med gjerningar, for dei støytte seg på støytesteinen,
 
-**[9:33]** som skrive stend: «Sjå, eg legg i Sion ein stein til støyt og eit berg til stygg; den som trur på honom, skal ikkje verta til skammar.» 
+**[9:33]** som skrive stend: «Sjå, eg legg i Sion ein stein til støyt og eit berg til stygg; den som trur på honom, skal ikkje verta til skammar.»
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** Og Jesaja vågar seg til å segja: «Eg vart funnen av deim som ikkje søkte meg; eg synte meg for deim som ikkje spurde etter meg.»
 
-**[10:21]** Men um Israel segjer han: «All dagen rette eg ut henderne mine til eit ulydugt og motstridigt folk.» 
+**[10:21]** Men um Israel segjer han: «All dagen rette eg ut henderne mine til eit ulydugt og motstridigt folk.»
 
 ### Chapter 11
 
@@ -58694,7 +58694,7 @@
 
 **[11:35]** Eller kven gav honom noko fyreåt, so han skulde få vederlag att?
 
-**[11:36]** For av honom og ved honom og til honom er alle ting. Han skal hava æra i all æva! Amen. 
+**[11:36]** For av honom og ved honom og til honom er alle ting. Han skal hava æra i all æva! Amen.
 
 ### Chapter 12
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** Um då fienden din er hungrig, so gjev honom mat; er han tyrst, so gjev honom drikka! for når du gjer det, sankar du gloande kol på hovudet hans.
 
-**[12:21]** Lat ikkje det vonde vinna yver deg, men vinn du yver det vonde med det gode! 
+**[12:21]** Lat ikkje det vonde vinna yver deg, men vinn du yver det vonde med det gode!
 
 ### Chapter 13
 
@@ -58768,7 +58768,7 @@
 
 **[13:13]** Lat oss ferdasta sømeleg som um dagen, ikkje i svir og drykk, ikkje i utukt og lauslivnad, ikkje i kiv og ovund,
 
-**[13:14]** men iklæd dykk Herren Jesus Kristus, og hav ikkje soleis umsut for kjøtet, at det vekkjer lyster! 
+**[13:14]** men iklæd dykk Herren Jesus Kristus, og hav ikkje soleis umsut for kjøtet, at det vekkjer lyster!
 
 ### Chapter 14
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Du hev tru; hav henne hjå deg sjølv for Gud! Sæl er den som ikkje dømer seg sjølv i det han valet han gjer;
 
-**[14:23]** men den som tvilar - et han, so er han dømd, av di det ikkje er gjort av tru; alt som ikkje er av tru, det er synd. 
+**[14:23]** men den som tvilar - et han, so er han dømd, av di det ikkje er gjort av tru; alt som ikkje er av tru, det er synd.
 
 ### Chapter 15
 
@@ -58884,7 +58884,7 @@
 
 **[15:32]** so eg kann koma til dykk med gleda, um Gud so vil, og kveikjast upp i samvære med dykk.
 
-**[15:33]** Fredsens Gud vere med dykk alle! Amen. 
+**[15:33]** Fredsens Gud vere med dykk alle! Amen.
 
 ### Chapter 16
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** men no er komen til synes, og i profetiske skrifter etter den ævelege Guds fyresegn kunngjord for alle folk til å verka lydnad i tru,
 
-**[16:27]** han, den eine vise Gud ved Jesus Kristus, skal hava æra i all æva! Amen.  
+**[16:27]** han, den eine vise Gud ved Jesus Kristus, skal hava æra i all æva! Amen.
 
 ## I Corinthians
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** Men av honom er de i Kristus Jesus, som for oss hev vorte visdom frå Gud og rettferd og helging og utløysing,
 
-**[1:31]** so at, som det stend skrive, den som rosar seg, skal rosa seg i Herren. 
+**[1:31]** so at, som det stend skrive, den som rosar seg, skal rosa seg i Herren.
 
 ### Chapter 2
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** Men den åndelege dømer alt, men sjølv vert han dømd av ingen.
 
-**[2:16]** For kven kjende Herrens hug, so han kunde læra honom? Men me hev Kristi hug. 
+**[2:16]** For kven kjende Herrens hug, so han kunde læra honom? Men me hev Kristi hug.
 
 ### Chapter 3
 
@@ -59088,7 +59088,7 @@
 
 **[3:22]** anten det er Paulus eller Apollos eller Kefas, anten det er verdi eller liv eller daude, anten det er det som no er, eller det som koma skal: alt høyrer dykk til;
 
-**[3:23]** men de høyrer Kristus til, og Kristus høyrer Gud til. 
+**[3:23]** men de høyrer Kristus til, og Kristus høyrer Gud til.
 
 ### Chapter 4
 
@@ -59132,7 +59132,7 @@
 
 **[4:20]** For Guds rike stend ikkje i ord, men kraft.
 
-**[4:21]** Kva vil de? Skal eg koma til dykk med ris eller med kjærleik og ei smålåti ånd? 
+**[4:21]** Kva vil de? Skal eg koma til dykk med ris eller med kjærleik og ei smålåti ånd?
 
 ### Chapter 5
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** For kva hev vel eg med å døma deim som er utanfor? Dømer ikkje de og berre dei som er innanfor?
 
-**[5:13]** men Gud skal døma deim som er utanfor. So støyt då ut den vonde frå dykk sjølve! 
+**[5:13]** men Gud skal døma deim som er utanfor. So støyt då ut den vonde frå dykk sjølve!
 
 ### Chapter 6
 
@@ -59202,7 +59202,7 @@
 
 **[6:19]** Eller veit de ikkje, at likamen dykkar er eit tempel for den Heilage Ande som bur i dykk, han som de hev frå Gud, og at de ikkje er dykkar eigne?
 
-**[6:20]** For de er dyrt kjøpte. Æra då Gud i dykkar likam! 
+**[6:20]** For de er dyrt kjøpte. Æra då Gud i dykkar likam!
 
 ### Chapter 7
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** Ei kona er bundi so lenge mannen hennar liver; men når mannen hennar er avsovna, er ho fri, so ho kann gifta seg med kven ho vil, berre det vert gjort i Herren.
 
-**[7:40]** Men sælare er ho, um ho vert verande som ho er, etter mi meining. Men eg trur og at eg hev Guds Ande. 
+**[7:40]** Men sælare er ho, um ho vert verande som ho er, etter mi meining. Men eg trur og at eg hev Guds Ande.
 
 ### Chapter 8
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** Men når de soleis syndar imot brørne og sårar deira veike samvit, so syndar de mot Kristus.
 
-**[8:13]** Difor, dersom mat valdar støyt for bror min, so vil eg i all æva ikkje eta kjøt, so eg ikkje skal valda støyt for bror min. 
+**[8:13]** Difor, dersom mat valdar støyt for bror min, so vil eg i all æva ikkje eta kjøt, so eg ikkje skal valda støyt for bror min.
 
 ### Chapter 9
 
@@ -59368,7 +59368,7 @@
 
 **[9:26]** So renner eg då soleis, ikkje som på det uvisse; eg fiktar ikkje som den som slær ut i veret.
 
-**[9:27]** Men eg tvingar min likam og trælkar honom, so ikkje eg som preikar for andre, skal sjølv verta funnen uverdig. 
+**[9:27]** Men eg tvingar min likam og trælkar honom, so ikkje eg som preikar for andre, skal sjølv verta funnen uverdig.
 
 ### Chapter 10
 
@@ -59436,7 +59436,7 @@
 
 **[10:32]** Ver ikkje til meinstøyt korkje for jødar eller grækarar eller for Guds kyrkja,
 
-**[10:33]** liksom eg og i alt strævar å tekkjast alle, då eg ikkje søkjer det som er gagnlegt for meg sjølv, men for dei mange, at dei må verta frelste. 
+**[10:33]** liksom eg og i alt strævar å tekkjast alle, då eg ikkje søkjer det som er gagnlegt for meg sjølv, men for dei mange, at dei må verta frelste.
 
 ### Chapter 11
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** Difor, mine brør, når de kjem saman til å eta, so skift med kvarandre!
 
-**[11:34]** Men dersom nokon hungrar, so ete han heime, so de ikkje skal koma saman til dom. Det andre skal eg fyreskriva når eg kjem. 
+**[11:34]** Men dersom nokon hungrar, so ete han heime, so de ikkje skal koma saman til dom. Det andre skal eg fyreskriva når eg kjem.
 
 ### Chapter 12
 
@@ -59570,7 +59570,7 @@
 
 **[12:30]** Hev alle nådegåvor til lækja? Kann alle tala med tungor? Kann alle tyda deim?
 
-**[12:31]** Men streva etter dei største nådegåvor! Og eg skal visa dykk ein endå betre veg. 
+**[12:31]** Men streva etter dei største nådegåvor! Og eg skal visa dykk ein endå betre veg.
 
 ### Chapter 13
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** For no ser me i ein spegel, i ei gåta, men då skal me sjå åsyn til åsyn; no kjenner eg i stykkjevis, men då skal eg kjenna fullt ut, liksom eg og fullt ut er kjend.
 
-**[13:13]** Men no vert dei verande desse tri: Tru, von, kjærleik, og størst av deim er kjærleiken. 
+**[13:13]** Men no vert dei verande desse tri: Tru, von, kjærleik, og størst av deim er kjærleiken.
 
 ### Chapter 14
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** Difor, brør, stræva etter å kunna tala profetisk, og hindra ingen i å tala i tungor!
 
-**[14:40]** Men lat alt ganga sømeleg og skipeleg til! 
+**[14:40]** Men lat alt ganga sømeleg og skipeleg til!
 
 ### Chapter 15
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** Men Gud vere takk, som gjev oss siger ved vår Herre Jesus Kristus!
 
-**[15:58]** Difor, mine kjære brør, ver faste og uruggelege, alltid rike i Herrens gjerning, då de veit at dykkar arbeid er ikkje fåfengt i Herren! 
+**[15:58]** Difor, mine kjære brør, ver faste og uruggelege, alltid rike i Herrens gjerning, då de veit at dykkar arbeid er ikkje fåfengt i Herren!
 
 ### Chapter 16
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** Herren Jesu nåde vere med dykk!
 
-**[16:24]** Min kjærleik er med dykk alle i Kristus Jesus.  
+**[16:24]** Min kjærleik er med dykk alle i Kristus Jesus.
 
 ## II Corinthians
 
@@ -59900,7 +59900,7 @@
 
 **[1:23]** Men eg kallar Gud til vitne for mi sjæl, at det var for di eg vilde spara dykk at eg ikkje endå er komen til Korint;
 
-**[1:24]** ikkje at me er herrar yver dykkar tru, men me er medverkande til dykkar gleda; for de stend i trui. 
+**[1:24]** ikkje at me er herrar yver dykkar tru, men me er medverkande til dykkar gleda; for de stend i trui.
 
 ### Chapter 2
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** for desse ein ange av daude til daude, for hine ein ange av liv til liv. Og kven er vel dugleg til dette?
 
-**[2:17]** For me er ikkje slike som dei mange, at me falskar Guds ord til eigi vinning, men som i reinleik, ja, som av Gud talar me for Guds åsyn i Kristus. 
+**[2:17]** For me er ikkje slike som dei mange, at me falskar Guds ord til eigi vinning, men som i reinleik, ja, som av Gud talar me for Guds åsyn i Kristus.
 
 ### Chapter 3
 
@@ -59974,7 +59974,7 @@
 
 **[3:17]** Men Herren er Anden; men der Herrens Ande er, der er fridom.
 
-**[3:18]** Men me som med usveipt åsyn ser Herrens herlegdom som i ein spegel, me vert alle umlaga til det same bilæte frå herlegdom til herlegdom, liksom av Herrens Ande. 
+**[3:18]** Men me som med usveipt åsyn ser Herrens herlegdom som i ein spegel, me vert alle umlaga til det same bilæte frå herlegdom til herlegdom, liksom av Herrens Ande.
 
 ### Chapter 4
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** For vår kortvarande og lette trengsla verkar for oss ei æveleg nøgd av herlegdom i yvermål på yvermål,
 
-**[4:18]** med di me ikkje fester oss ved det synlege, men ved det usynlege; for det synlege er timelegt, men det usynlege ævelegt. 
+**[4:18]** med di me ikkje fester oss ved det synlege, men ved det usynlege; for det synlege er timelegt, men det usynlege ævelegt.
 
 ### Chapter 5
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** So er me då sendebod i staden for Kristus, liksom Gud sjølv gav fyreteljing gjenom oss. Me bed i staden for Kristus: Lat dykk forlika med Gud!
 
-**[5:21]** Den som ikkje visste av synd, hev han gjort til synd for oss, so me skal verta rettferdige for Gud i honom. 
+**[5:21]** Den som ikkje visste av synd, hev han gjort til synd for oss, so me skal verta rettferdige for Gud i honom.
 
 ### Chapter 6
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** «Difor, gakk ut frå deim, og skil dykk frå deim, segjer Herren, og rør ikkje ved ureint, so skal eg taka imot dykk,
 
-**[6:18]** og eg skal vera dykk ein fader, og de skal vera meg søner og døtter, segjer Herren, den allmegtige.» 
+**[6:18]** og eg skal vera dykk ein fader, og de skal vera meg søner og døtter, segjer Herren, den allmegtige.»
 
 ### Chapter 7
 
@@ -60128,7 +60128,7 @@
 
 **[7:15]** Og hans kjærleik til dykk er endå sterkare, når han minnest lydnaden hjå dykk alle, korleis de tok imot honom med age og otte.
 
-**[7:16]** Eg gled meg yver at eg i alt kann lita på dykk. 
+**[7:16]** Eg gled meg yver at eg i alt kann lita på dykk.
 
 ### Chapter 8
 
@@ -60178,7 +60178,7 @@
 
 **[8:23]** Anten det då er tale um Titus, so er han min lagsmann og medarbeidar hjå dykk, eller um våre brør, so er dei sendemenner frå kyrkjelydarne, Kristi æra.
 
-**[8:24]** Syn deim då sanningi av dykkar kjærleik og av vår ros yver dykk, og det for augo på kyrkjelydarne! 
+**[8:24]** Syn deim då sanningi av dykkar kjærleik og av vår ros yver dykk, og det for augo på kyrkjelydarne!
 
 ### Chapter 9
 
@@ -60210,7 +60210,7 @@
 
 **[9:14]** med di dei og i bøn for dykk lengtar etter dykk for den Guds nåde som er so ovrik yver dykk.
 
-**[9:15]** Gud vere takk for si usegjelege gåva! 
+**[9:15]** Gud vere takk for si usegjelege gåva!
 
 ### Chapter 10
 
@@ -60248,7 +60248,7 @@
 
 **[10:17]** Men den som rosar seg, rose seg i Herren!
 
-**[10:18]** For ikkje den som prisar seg sjølv, held prøva, men den som Herren prisar. 
+**[10:18]** For ikkje den som prisar seg sjølv, held prøva, men den som Herren prisar.
 
 ### Chapter 11
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** I Damaskus let kong Aretas’ landshovding vakta damaskenarbyen, då han vilde gripa meg;
 
-**[11:33]** og gjenom ein glugg i muren vart eg fira ned i ei korg og slapp ut or hans hender. 
+**[11:33]** og gjenom ein glugg i muren vart eg fira ned i ei korg og slapp ut or hans hender.
 
 ### Chapter 12
 
@@ -60360,7 +60360,7 @@
 
 **[12:20]** For eg ottast for, at når eg kjem, skal eg ikkje finna dykk slike som eg vil, og at eg skal verta funnen av dykk slik som de ikkje vil - at der skal vera kiv, ovund, vreide, stridssykja, baktale, drøsor, ovmod, utstyr,
 
-**[12:21]** at når eg kjem, skal min Gud atter audmykja meg hjå dykk, og eg skal syrgja yver mange av deim som fyrr synda og ikkje hev umvendt seg frå den ureinskap og lauslivnad og used som dei dreiv. 
+**[12:21]** at når eg kjem, skal min Gud atter audmykja meg hjå dykk, og eg skal syrgja yver mange av deim som fyrr synda og ikkje hev umvendt seg frå den ureinskap og lauslivnad og used som dei dreiv.
 
 ### Chapter 13
 
@@ -60388,7 +60388,7 @@
 
 **[13:12]** Helsa kvarandre med ein heilag kyss! Alle dei heilage helsar dykk.
 
-**[13:13]** Herren Jesu Kristi nåde og Guds kjærleik og den Heilage Andens samfund vere med dykk alle!  
+**[13:13]** Herren Jesu Kristi nåde og Guds kjærleik og den Heilage Andens samfund vere med dykk alle!
 
 **[13:14]** 
 
@@ -60442,7 +60442,7 @@
 
 **[1:23]** Dei hadde berre høyrt gjete: «Han som fyrr forfylgde oss, han forkynner no den trui som han fyrr øydde ut.»
 
-**[1:24]** Og dei lova Gud for meg. 
+**[1:24]** Og dei lova Gud for meg.
 
 ### Chapter 2
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** Eg er krossfest med Kristus, eg liver ikkje sjølv meir, men Kristus liver i meg, og det livet eg no liver i kjøtet, det liver eg i trui på Guds son, som elska meg og gav seg sjølv for meg.
 
-**[2:21]** Eg mismæter ikkje Guds nåde; for dersom rettferd er å vinna ved lovi, so døydde Kristus utan grunn. 
+**[2:21]** Eg mismæter ikkje Guds nåde; for dersom rettferd er å vinna ved lovi, so døydde Kristus utan grunn.
 
 ### Chapter 3
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** Her er ikkje jøde eller grækar, her er ikkje træl eller fri mann, her er ikkje mann og kvinna; for de er alle ein i Kristus Jesus.
 
-**[3:29]** Men høyrer de Kristus til, so er de og Abrahams ætt, ervingar etter lovnaden. 
+**[3:29]** Men høyrer de Kristus til, so er de og Abrahams ætt, ervingar etter lovnaden.
 
 ### Chapter 4
 
@@ -60610,7 +60610,7 @@
 
 **[4:30]** Men kva segjer Skrifti? «Driv ut trælkvinna og son hennar; for son åt trælkvinna skal slett ikkje taka arv med son åt den frie kvinna.»
 
-**[4:31]** So er me då, brør, ikkje born åt trælkvinna, men åt den frie kvinna. 
+**[4:31]** So er me då, brør, ikkje born åt trælkvinna, men åt den frie kvinna.
 
 ### Chapter 5
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** Liver me i Anden, so lat oss og ferdast i Anden!
 
-**[5:26]** Lat oss ikkje søkja fåfengd æra, so me eggjar kvarandre og ovundar kvarandre! 
+**[5:26]** Lat oss ikkje søkja fåfengd æra, so me eggjar kvarandre og ovundar kvarandre!
 
 ### Chapter 6
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** Heretter må ingen gjera meg bry! for eg ber Jesu merke på min likam.
 
-**[6:18]** Vår Herre Jesu Kristi nåde vere med dykkar ånd, brør! Amen.  
+**[6:18]** Vår Herre Jesu Kristi nåde vere med dykkar ånd, brør! Amen.
 
 ## Ephesians
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** og han lagde alt under hans føter og gav honom som hovud yver alle ting åt kyrkja,
 
-**[1:23]** som er hans likam, fyllt av honom som fyller alt i alle. 
+**[1:23]** som er hans likam, fyllt av honom som fyller alt i alle.
 
 ### Chapter 2
 
@@ -60798,7 +60798,7 @@
 
 **[2:21]** som kvar bygning vert samanbunden ved og veks upp til eit heilagt tempel i Herren,
 
-**[2:22]** og i honom vert de og uppbygde med dei andre til ein Guds bustad i Anden. 
+**[2:22]** og i honom vert de og uppbygde med dei andre til ein Guds bustad i Anden.
 
 ### Chapter 3
 
@@ -60842,7 +60842,7 @@
 
 **[3:20]** Men honom som er megtig til å gjera yver alle ting, ovlangt yver det som me bed um eller skynar, etter den kraft som er verksam i oss,
 
-**[3:21]** honom vera æra i kyrkja og i Kristus Jesus gjenom alle ætter i alle ævor! Amen. 
+**[3:21]** honom vera æra i kyrkja og i Kristus Jesus gjenom alle ætter i alle ævor! Amen.
 
 ### Chapter 4
 
@@ -60908,7 +60908,7 @@
 
 **[4:31]** All illska og villska og vreide og skriking og spotting vere langt ifrå dykk liksom all vondskap!
 
-**[4:32]** Men ver gode mot kvarandre, miskunnsame, so de tilgjev kvarandre, liksom og Gud hev tilgjeve dykk i Kristus. 
+**[4:32]** Men ver gode mot kvarandre, miskunnsame, so de tilgjev kvarandre, liksom og Gud hev tilgjeve dykk i Kristus.
 
 ### Chapter 5
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** Denne løyndomen er stor - men eg tenkjer på Kristus og kyrkja.
 
-**[5:33]** Men de og skal elska kvar si kona som seg sjølv, og kona hava age for mannen. 
+**[5:33]** Men de og skal elska kvar si kona som seg sjølv, og kona hava age for mannen.
 
 ### Chapter 6
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Fred vere med brørne og kjærleik med tru frå Gud Fader og Herren Jesus Kristus!
 
-**[6:24]** Nåde vere med alle som elskar vår Herre Jesus Kristus med uforgjengeleg kjærleik!  
+**[6:24]** Nåde vere med alle som elskar vår Herre Jesus Kristus med uforgjengeleg kjærleik!
 
 ## Philippians
 
@@ -61090,7 +61090,7 @@
 
 **[1:29]** For dykk vart det unnt, for Kristi skuld, ikkje berre å tru på honom, men og å lida for hans skuld,
 
-**[1:30]** med di de hev den same strid som de såg på meg og no høyrer um meg. 
+**[1:30]** med di de hev den same strid som de såg på meg og no høyrer um meg.
 
 ### Chapter 2
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** Tak då imot han i Herren med all gleda, og haldt slike i æra!
 
-**[2:30]** For for Kristi gjerning skuld kom han dauden nær, då han ikkje vyrde sitt liv, so han kunde bøta på saknaden av dykk ved tenesta mot meg. 
+**[2:30]** For for Kristi gjerning skuld kom han dauden nær, då han ikkje vyrde sitt liv, so han kunde bøta på saknaden av dykk ved tenesta mot meg.
 
 ### Chapter 3
 
@@ -61196,7 +61196,7 @@
 
 **[3:20]** For vårt borgarsamfund er i himmelen, der me og ventar Herren Jesus Kristus ifrå som frelsar,
 
-**[3:21]** han som skal umskapa vår nedrings-likam, so han vert lik hans herlegdoms-likam etter hans kraft til å leggja alle ting under seg. 
+**[3:21]** han som skal umskapa vår nedrings-likam, so han vert lik hans herlegdoms-likam etter hans kraft til å leggja alle ting under seg.
 
 ### Chapter 4
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** Alle dei heilage helsar dykk, mest dei som høyrer til keisarens hus.
 
-**[4:23]** Herren Jesu Kristi nåde vere med dykkar ånd!  
+**[4:23]** Herren Jesu Kristi nåde vere med dykkar ånd!
 
 ## Colossians
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** Og honom forkynner me, med di me påminner kvart menneskje og lærer kvart menneskje med all visdom, so me kann framstella kvart menneskje fullkome i Kristus.
 
-**[1:29]** For dette arbeider eg og, med di eg strider med hans kraft som verkar i meg med styrke. 
+**[1:29]** For dette arbeider eg og, med di eg strider med hans kraft som verkar i meg med styrke.
 
 ### Chapter 2
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** - det vil segja slikt som då alt saman er etla til øyding ved bruk - etter bod og lærdomar av menneskje,
 
-**[2:23]** som vel hev ord for visdom ved sjølvgjord dyrking og audmykt og vyrdløysa mot likamen, men ikkje ved noko som er æra verdt, berre til mette for kjøtet? 
+**[2:23]** som vel hev ord for visdom ved sjølvgjord dyrking og audmykt og vyrdløysa mot likamen, men ikkje ved noko som er æra verdt, berre til mette for kjøtet?
 
 ### Chapter 3
 
@@ -61406,7 +61406,7 @@
 
 **[3:24]** då de veit at de skal få arven til løn av Herren. Ten Herren Kristus!
 
-**[3:25]** Men den som gjer urett, skal få den urett att som han gjorde, og det vert ikkje gjort skil på folk. 
+**[3:25]** Men den som gjer urett, skal få den urett att som han gjorde, og det vert ikkje gjort skil på folk.
 
 ### Chapter 4
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** Og seg til Arkippus: «Tak vare på den tenesta som du hev motteke i Herren, so du fullfører henne!»
 
-**[4:18]** Helsing med mi, Paulus’, hand: Kom i hug mine lekkjor! Nåden vere med dykk!  
+**[4:18]** Helsing med mi, Paulus’, hand: Kom i hug mine lekkjor! Nåden vere med dykk!
 
 ## I Thessalonians
 
@@ -61468,7 +61468,7 @@
 
 **[1:9]** for dei fortel sjølve um oss, kva inngang me fann hjå dykk, og korleis de vende dykk til Gud frå avgudarne, til å tena den livande og sanne Gud
 
-**[1:10]** og venta på hans son frå himmelen, honom som han vekte upp frå dei daude, Jesus, som frelsar oss frå den komande vreiden. 
+**[1:10]** og venta på hans son frå himmelen, honom som han vekte upp frå dei daude, Jesus, som frelsar oss frå den komande vreiden.
 
 ### Chapter 2
 
@@ -61510,7 +61510,7 @@
 
 **[2:19]** For kven er vel vår von eller gleda eller heiderskrans? Er ikkje de det og for vår Herre Jesu Kristi åsyn i hans tilkoma?
 
-**[2:20]** For de er vår æra og gleda. 
+**[2:20]** For de er vår æra og gleda.
 
 ### Chapter 3
 
@@ -61538,7 +61538,7 @@
 
 **[3:12]** Og dykk gjere Herren fullrådde og ovrike på kjærleik til kvarandre og til alle, liksom me er det mot dykk,
 
-**[3:13]** for at han kann styrkja hjarto dykkar, so de vert ulastelege i heilagdom for vår Gud og Faders åsyn, når vår Herre Jesus kjem med alle sine heilage! 
+**[3:13]** for at han kann styrkja hjarto dykkar, so de vert ulastelege i heilagdom for vår Gud og Faders åsyn, når vår Herre Jesus kjem med alle sine heilage!
 
 ### Chapter 4
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** so skal me som liver, som vert att, saman med deim verta rykte i skyer upp i lufti til å møta Herren, og so skal me alltid vera med Herren.
 
-**[4:18]** So trøysta då kvarandre med desse ord! 
+**[4:18]** So trøysta då kvarandre med desse ord!
 
 ### Chapter 5
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** Eg manar dykk ved Herren, at de let brevet verta lese for alle dei heilage brørne.
 
-**[5:28]** Vår Herre Jesu Kristi nåde vere med dykk!  
+**[5:28]** Vår Herre Jesu Kristi nåde vere med dykk!
 
 ## II Thessalonians
 
@@ -61662,7 +61662,7 @@
 
 **[1:11]** Difor bed me og alltid for dykk, at vår Gud må finna dykk verdige til kallet og kraftigt fylla dykk med all hug til det gode og verksemd i trui,
 
-**[1:12]** so vår Herre Jesu namn må verta herleggjort i dykk, og de i honom, etter vår Guds og Herren Jesu Kristi nåde! 
+**[1:12]** so vår Herre Jesu namn må verta herleggjort i dykk, og de i honom, etter vår Guds og Herren Jesu Kristi nåde!
 
 ### Chapter 2
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** Men han vår Herre Jesus Kristus, og Gud, vår Fader, som elska oss og gav oss ei æveleg trøyst og ei god von i nåde,
 
-**[2:17]** han trøyste dykkar hjarto og styrkje dykk i all god gjerning og tale! 
+**[2:17]** han trøyste dykkar hjarto og styrkje dykk i all god gjerning og tale!
 
 ### Chapter 3
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** Helsing med mi, Paulus’ hand, som er eit merke i kvart brev. Soleis skriv eg:
 
-**[3:18]** Vår Herre Jesu Kristi nåde vere med dykk alle!  
+**[3:18]** Vår Herre Jesu Kristi nåde vere med dykk alle!
 
 ## I Timothy
 
@@ -61780,7 +61780,7 @@
 
 **[1:19]** med di du hev tru og eit godt samvit, som sume hev støytt ifrå seg og lide skipbrot på trui;
 
-**[1:20]** imillom deim er Hymenæus og Aleksander, som eg hev gjeve yver til Satan, so dei skal verta tukta til å lata vera å spotta. 
+**[1:20]** imillom deim er Hymenæus og Aleksander, som eg hev gjeve yver til Satan, so dei skal verta tukta til å lata vera å spotta.
 
 ### Chapter 2
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** og Adam vart ikkje dåra; men kvinna vart dåra og fall i misgjerning.
 
-**[2:15]** Men ho skal verta frelst gjenom si barneign, um dei vert standande i tru og kjærleik og helging med æra. 
+**[2:15]** Men ho skal verta frelst gjenom si barneign, um dei vert standande i tru og kjærleik og helging med æra.
 
 ### Chapter 3
 
@@ -61846,7 +61846,7 @@
 
 **[3:15]** men um eg drygjer, at du so skal vita korleis ein skal ferdast i Guds hus, som er kyrkja åt den livande Gud, pilaren og grunnvollen til sanningi.
 
-**[3:16]** Og som kvar må sanna, stor er den løyndom i gudlegdomen: Han som vart openberra i kjøt, rettferdiggjord i ånd, sedd av englar, forkynt millom folkeslag, trudd i verdi, uppteken i herlegdom. 
+**[3:16]** Og som kvar må sanna, stor er den løyndom i gudlegdomen: Han som vart openberra i kjøt, rettferdiggjord i ånd, sedd av englar, forkynt millom folkeslag, trudd i verdi, uppteken i herlegdom.
 
 ### Chapter 4
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** Tenk på dette, liv i dette, so din framgang kann vera kunnig for alle!
 
-**[4:16]** Gjev agt på deg sjølv og på læra, haldt ved med det! for når du det gjer, skal du frelsa både deg sjølv og deim som høyrer deg. 
+**[4:16]** Gjev agt på deg sjølv og på læra, haldt ved med det! for når du det gjer, skal du frelsa både deg sjølv og deim som høyrer deg.
 
 ### Chapter 5
 
@@ -61932,7 +61932,7 @@
 
 **[5:24]** Hjå nokre menneskje er synderne openberre og kjem i fyrevegen for deim til dom; men hjå andre fylgjer dei etter.
 
-**[5:25]** Like eins er dei gode gjerningarne openberre; og dei som det ikkje er so med, kann ikkje verta dulde like vel. 
+**[5:25]** Like eins er dei gode gjerningarne openberre; og dei som det ikkje er so med, kann ikkje verta dulde like vel.
 
 ### Chapter 6
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** Du, Timoteus, tak vare på det som er nedlagt hjå deg, og vend deg frå det vanheilage tome svall og dei motsegner av den kunnskap, som falskeleg vert kalla so,
 
-**[6:21]** som sume vedkjenner seg og hev fare vilt i trui! Nåden vere med deg!  
+**[6:21]** som sume vedkjenner seg og hev fare vilt i trui! Nåden vere med deg!
 
 ## II Timothy
 
@@ -62016,7 +62016,7 @@
 
 **[1:17]** Men då han var komen til Rom, leita han med stor umak etter meg og fann meg.
 
-**[1:18]** Herren gjeve at han må finna miskunn hjå Herren på hin dagen! Og kor mykje han tente meg i Efesus, det veit du best. 
+**[1:18]** Herren gjeve at han må finna miskunn hjå Herren på hin dagen! Og kor mykje han tente meg i Efesus, det veit du best.
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** so han med spaklynde tuktar dei som segjer imot, um Gud då ein gong vilde gjeva deim umvending, so dei kunde kjenna sanningi,
 
-**[2:26]** og vakna or ruset i djevelens snara, han som dei er fanga av til å gjera hans vilje. 
+**[2:26]** og vakna or ruset i djevelens snara, han som dei er fanga av til å gjera hans vilje.
 
 ### Chapter 3
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** Heile skrifti er innanda av Gud og er dugleg til lærdom, til yvertyding, til rettleiding, til uppseding i rettferd,
 
-**[3:17]** so gudsmannen kann verta fullkomen, dugleg til all god gjerning. 
+**[3:17]** so gudsmannen kann verta fullkomen, dugleg til all god gjerning.
 
 ### Chapter 4
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Gjer deg umak med å koma fyre vinteren! Eubulus og Pudens og Linus og Klaudia og alle brørne helsar deg.
 
-**[4:22]** Herren Jesus vere med di ånd! Nåden vere med dykk!  
+**[4:22]** Herren Jesus vere med di ånd! Nåden vere med dykk!
 
 ## Titus
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Alt er reint for dei reine; men for dei ureine og vantruande er ingen ting rein; men både deira hug og samvit er ureine.
 
-**[1:16]** Dei segjer at dei kjenner Gud; men i sine gjerningar forneittar dei honom, med di dei er styggjelege og ulyduge og duglause til all god gjerning. 
+**[1:16]** Dei segjer at dei kjenner Gud; men i sine gjerningar forneittar dei honom, med di dei er styggjelege og ulyduge og duglause til all god gjerning.
 
 ### Chapter 2
 
@@ -62220,7 +62220,7 @@
 
 **[2:14]** han som gav seg sjølv for oss, so han kunde løysa oss ut frå all urettferd og reinsa seg eit eigedomsfolk som er ihuga til gode gjerningar.
 
-**[2:15]** Dette skal du tala og påminna og refsa med all fyresegn. Lat ingen vanvyrda deg! 
+**[2:15]** Dette skal du tala og påminna og refsa med all fyresegn. Lat ingen vanvyrda deg!
 
 ### Chapter 3
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** Men lat og våre læra å driva på gode gjerningar, etter som torv er til, so dei ikkje skal vera fruktlause.
 
-**[3:15]** Alle som er hjå meg, helsar deg. Helsa deim som elskar oss i trui! Nåden vere med dykk alle!  
+**[3:15]** Alle som er hjå meg, helsar deg. Helsa deim som elskar oss i trui! Nåden vere med dykk alle!
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** like eins Markus, Aristarkus, Demas, Lukas, mine medarbeidarar.
 
-**[1:25]** Vår Herre Jesu Kristi nåde vere med dykkar ånd!  
+**[1:25]** Vår Herre Jesu Kristi nåde vere med dykkar ånd!
 
 ## Hebrews
 
@@ -62338,7 +62338,7 @@
 
 **[1:13]** Men kven av englarne hev han noko sinn sagt det til: «Set deg ved mi høgre hand, til dess eg legg dine fiendar til skammel under dine føter?»
 
-**[1:14]** Er dei ikkje alle saman tenande ånder, som vert utsende til tenesta for deira skuld som skal erva frelsa? 
+**[1:14]** Er dei ikkje alle saman tenande ånder, som vert utsende til tenesta for deira skuld som skal erva frelsa?
 
 ### Chapter 2
 
@@ -62376,7 +62376,7 @@
 
 **[2:17]** Difor laut han verta brørne sine lik i alle ting, so han kunde verta ein miskunnsam og trufast øvsteprest for Gud til å gjera soning for synderne åt folket.
 
-**[2:18]** For av di han sjølv hev lide og vore freista, so kann han koma deim til hjelp som vert freista. 
+**[2:18]** For av di han sjølv hev lide og vore freista, so kann han koma deim til hjelp som vert freista.
 
 ### Chapter 3
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** Og kven var det han svor um, at dei ikkje skulde koma inn til hans kvila, utan um deim som var vantruande?
 
-**[3:19]** So ser me då at dei ikkje kunde koma inn for vantru skuld. 
+**[3:19]** So ser me då at dei ikkje kunde koma inn for vantru skuld.
 
 ### Chapter 4
 
@@ -62450,7 +62450,7 @@
 
 **[4:15]** For me hev ikkje ein øvsteprest som ikkje kann hava medynk med vår vesaldom, men ein som er røynd i alle ting i likning med oss, då utan synd.
 
-**[4:16]** Lat oss difor med frimod ganga fram for nådens kongsstol, so me kann få miskunn og finna nåde til hjelp i rette tid! 
+**[4:16]** Lat oss difor med frimod ganga fram for nådens kongsstol, so me kann få miskunn og finna nåde til hjelp i rette tid!
 
 ### Chapter 5
 
@@ -62480,7 +62480,7 @@
 
 **[5:13]** For kvar den som fær mjølk, er urøynd i rettferds ord; for han er eit barn.
 
-**[5:14]** Men fast føda er for vaksne, for deim som ved tame hev tilvande sansar til å skilja millom godt og vondt. 
+**[5:14]** Men fast føda er for vaksne, for deim som ved tame hev tilvande sansar til å skilja millom godt og vondt.
 
 ### Chapter 6
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** den me hev som eit anker for sjæli, eit som er trygt og fast og når inn um forhenget,
 
-**[6:20]** der Jesus gjekk inn som fyregangsmann for oss, med di han vart øvsteprest etter Melkisedeks vis til æveleg tid. 
+**[6:20]** der Jesus gjekk inn som fyregangsmann for oss, med di han vart øvsteprest etter Melkisedeks vis til æveleg tid.
 
 ### Chapter 7
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** ein som ikkje dagleg treng til, som øvsteprestarne, å bera fram offer fyrst for sine eigne synder og so for synderne åt folket; for det gjorde han ein gong for alle då han ofra seg sjølv.
 
-**[7:28]** For lovi set til øvsteprestar menneskje som hev vesaldom; men den eids ord som kom etter lovi, set Sonen inn, han som er fullenda for all æva. 
+**[7:28]** For lovi set til øvsteprestar menneskje som hev vesaldom; men den eids ord som kom etter lovi, set Sonen inn, han som er fullenda for all æva.
 
 ### Chapter 8
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** For eg vil vera nådig mot misgjerderne deira, og synderne deira vil eg ikkje lenger koma i hug.»
 
-**[8:13]** Med di han segjer: «ei ny», hev han dømt den fyrste som gamall; men det som vert gamalt og foraldra, er nær ved å kverva burt. 
+**[8:13]** Med di han segjer: «ei ny», hev han dømt den fyrste som gamall; men det som vert gamalt og foraldra, er nær ved å kverva burt.
 
 ### Chapter 9
 
@@ -62666,7 +62666,7 @@
 
 **[9:27]** Og liksom det er so laga at menneski lyt døy EIN gong, og sidan kjem dom,
 
-**[9:28]** soleis er og Kristus ofra EIN gong for å taka burt synderne frå dei mange; og andre gongen skal han, utan synd, syna seg til frelsa for deim som ventar på honom. 
+**[9:28]** soleis er og Kristus ofra EIN gong for å taka burt synderne frå dei mange; og andre gongen skal han, utan synd, syna seg til frelsa for deim som ventar på honom.
 
 ### Chapter 10
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** «Men den rettferdige, ved tru skal han liva;» og: «Um nokon dreg seg undan, so hev mi sjæl ikkje hugnad i honom.»
 
-**[10:39]** Men me er ikkje av deim som dreg seg undan til fortaping, men av deim som trur til frelsa for sjæli. 
+**[10:39]** Men me er ikkje av deim som dreg seg undan til fortaping, men av deim som trur til frelsa for sjæli.
 
 ### Chapter 11
 
@@ -62828,7 +62828,7 @@
 
 **[11:39]** Og endå alle desse fekk vitnemål for si tru, nådde dei ikkje lovnaden,
 
-**[11:40]** etter di Gud fyreåt hadde set ut noko betre for oss, so dei ikkje skulde verta fullkomne utan oss. 
+**[11:40]** etter di Gud fyreåt hadde set ut noko betre for oss, so dei ikkje skulde verta fullkomne utan oss.
 
 ### Chapter 12
 
@@ -62888,7 +62888,7 @@
 
 **[12:28]** Lat difor oss som fær eit uruggelegt rike, vera takksame og dermed tena Gud til hans hugnad med blygd og otte!
 
-**[12:29]** For vår Gud er ein øydande eld. 
+**[12:29]** For vår Gud er ein øydande eld.
 
 ### Chapter 13
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Helsa alle dykkar forstandarar og alle dei heilage! Dei frå Italia helsar dykk.
 
-**[13:25]** Nåden vere med dykk alle!  
+**[13:25]** Nåden vere med dykk alle!
 
 ## James
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** Dersom nokon meiner at han er ein gudsdyrkar, og ikkje tøymer tunga si, men dårar sitt eige hjarta, hans gudsdyrking er fåfengd.
 
-**[1:27]** Ei rein og lytelaus gudsdyrking for Gud og Faderen er dette: å sjå til faderlause og enkjor i deira trengsla, å halda seg sjølv uflekka av verdi. 
+**[1:27]** Ei rein og lytelaus gudsdyrking for Gud og Faderen er dette: å sjå til faderlause og enkjor i deira trengsla, å halda seg sjølv uflekka av verdi.
 
 ### Chapter 2
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Like eins og med skjøkja Rahab: vart ho ikkje rettferdiggjord ved gjerningar, då ho tok imot sendemennerne og slepte deim ut ein annan veg?
 
-**[2:26]** For liksom likamen er daud utan ånd, so er og trui daud utan gjerningar. 
+**[2:26]** For liksom likamen er daud utan ånd, so er og trui daud utan gjerningar.
 
 ### Chapter 3
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** Men visdomen ovantil, han er fyrst og fremst rein, og dinæst fredsam, rimeleg, ettergjevande, full av miskunn og gode frukter, fri for tvil og fri for skrymt.
 
-**[3:18]** Men rettferds frukt vert sådd i fred for deim som held fred. 
+**[3:18]** Men rettferds frukt vert sådd i fred for deim som held fred.
 
 ### Chapter 4
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** Men no rosar de dykk sjølve i dykkar storlæte. All slik ros er vond.
 
-**[4:17]** Den som då veit å gjera godt, men ikkje gjer det, han hev synd for det. 
+**[4:17]** Den som då veit å gjera godt, men ikkje gjer det, han hev synd for det.
 
 ### Chapter 5
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Mine brør! Um nokon av dykk hev fare vilt frå sanningi, og nokon umvender honom,
 
-**[5:20]** han skal vita, at den som umvender ein syndar frå hans ville veg, han frelser ei sjæl frå dauden og løyner ei mengd med synder.  
+**[5:20]** han skal vita, at den som umvender ein syndar frå hans ville veg, han frelser ei sjæl frå dauden og løyner ei mengd med synder.
 
 ## I Peter
 
@@ -63222,7 +63222,7 @@
 
 **[1:24]** For alt kjøt er som gras, og all herlegdomen hjå det som blom på gras. Graset visna, og blomen på det fall av.
 
-**[1:25]** Men Herrens ord varer i all æva. Dette er det ordet som er forkynt for dykk ved evangeliet. 
+**[1:25]** Men Herrens ord varer i all æva. Dette er det ordet som er forkynt for dykk ved evangeliet.
 
 ### Chapter 2
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** han bar synderne våre på likamen sin upp på treet, so me skal døy av frå synderne våre og liva for rettferdi, då de er lækte ved hans sår.
 
-**[2:25]** For de var villfarande som sauer, men hev no vendt um til hyrdingen og tilsynsmannen for sjælerne dykkar. 
+**[2:25]** For de var villfarande som sauer, men hev no vendt um til hyrdingen og tilsynsmannen for sjælerne dykkar.
 
 ### Chapter 3
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** det som no og frelser oss i motbilætet dåpen, som ikkje er avleggjing av ureinskap på kroppen, men eit godt samvits pakt med Gud ved Jesu Kristi uppstoda,
 
-**[3:22]** han som er uppfaren til himmelen og er ved Guds høgre hand, der englar og magter og krafter er honom underlagde. 
+**[3:22]** han som er uppfaren til himmelen og er ved Guds høgre hand, der englar og magter og krafter er honom underlagde.
 
 ### Chapter 4
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** Og dersom den rettferdige vandt vert frelst, kvar skal det då verta av den ugudlege og syndaren?
 
-**[4:19]** Difor skal og dei som lid etter Guds vilje, gjeva yver sjælerne sine til den trufaste skaparen, med di dei gjer det gode. 
+**[4:19]** Difor skal og dei som lid etter Guds vilje, gjeva yver sjælerne sine til den trufaste skaparen, med di dei gjer det gode.
 
 ### Chapter 5
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** Den medutvalde kyrkjelyden i Babylon helsar dykk, like eins Markus, son min.
 
-**[5:14]** Helsa kvarandre med kjærleiks kyss! Fred vere med alle dykk som er i Kristus!  
+**[5:14]** Helsa kvarandre med kjærleiks kyss! Fred vere med alle dykk som er i Kristus!
 
 ## II Peter
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** men di de fyrst og fremst veit dette, at inkje profetord i skrifti er gjeve til eigi tyding.
 
-**[1:21]** For aldri er noko profetord framkome av mannevilje; men dei heilage Guds menner tala, drivne av den Heilage Ande. 
+**[1:21]** For aldri er noko profetord framkome av mannevilje; men dei heilage Guds menner tala, drivne av den Heilage Ande.
 
 ### Chapter 2
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** For det var betre for deim at dei ikkje hadde kjent rettferds veg, enn at dei kjende honom og so vende seg burt att frå det heilage bodet som var yvergjeve deim.
 
-**[2:22]** Det hev gjenge deim etter det sanne ordtøket: «Ein hund vendar atter til si eigi spya,» og: «Ei lauga su velter seg i søyla.» 
+**[2:22]** Det hev gjenge deim etter det sanne ordtøket: «Ein hund vendar atter til si eigi spya,» og: «Ei lauga su velter seg i søyla.»
 
 ### Chapter 3
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** So må då de, mine kjære, som fyreåt veit dette, vara dykk, so de ikkje skal verta dregne med i villa av dei ugudlege og falla frå dykkar eigen faste grunn!
 
-**[3:18]** Men veks i nåde og kjennskap til vår Herre og frelsar Jesus Kristus! Honom vere æra både no og til æveleg tid! Amen.  
+**[3:18]** Men veks i nåde og kjennskap til vår Herre og frelsar Jesus Kristus! Honom vere æra både no og til æveleg tid! Amen.
 
 ## I John
 
@@ -63544,7 +63544,7 @@
 
 **[1:9]** Dersom me sannar synderne våre, so er han trufast og rettferdig, so han forlet oss synderne og reinsar oss frå all urettferd.
 
-**[1:10]** Dersom me segjer at me ikkje hev synda, so gjer me honom til ljugar, og hans ord er ikkje i oss. 
+**[1:10]** Dersom me segjer at me ikkje hev synda, so gjer me honom til ljugar, og hans ord er ikkje i oss.
 
 ### Chapter 2
 
@@ -63604,7 +63604,7 @@
 
 **[2:28]** Og no, born, ver i honom, so me kann hava frimod når han vert openberra, og ikkje verta til skammar for honom i hans tilkoma!
 
-**[2:29]** Veit de at han er rettferdig, so skynar de at kvar den som gjer rettferd, er fødd av honom. 
+**[2:29]** Veit de at han er rettferdig, so skynar de at kvar den som gjer rettferd, er fødd av honom.
 
 ### Chapter 3
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** Og dette er hans bod, at me skal tru på hans son Jesus Kristi namn og elska kvarandre, so som han baud oss.
 
-**[3:24]** Og den som held hans bod, han vert verande i honom og han i honom; og på dette veit me at han vert verande i oss, av den Ande som han hev gjeve oss. 
+**[3:24]** Og den som held hans bod, han vert verande i honom og han i honom; og på dette veit me at han vert verande i oss, av den Ande som han hev gjeve oss.
 
 ### Chapter 4
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** Dersom nokon segjer: «Eg elskar Gud», og han hatar bror sin, han er ein ljugar; for den som ikkje elskar bror sin som han hev set, kor kann han elska Gud, som han ikkje hev set?
 
-**[4:21]** Og dette bodet hev me frå honom, at den som elskar Gud, han skal og elska bror sin. 
+**[4:21]** Og dette bodet hev me frå honom, at den som elskar Gud, han skal og elska bror sin.
 
 ### Chapter 5
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** Men me veit at Guds son er komen og hev gjeve oss skyn til å kjenna den Sanne; og me er i den Sanne, i hans son Jesus Kristus. Han er den sanne Gud og det ævelege livet.
 
-**[5:21]** Born, vara dykk for avgudarne!  
+**[5:21]** Born, vara dykk for avgudarne!
 
 ## II John
 
@@ -63772,7 +63772,7 @@
 
 **[1:12]** Endå eg hev mykje å skriva til dykk, vil eg ikkje gjera det med papir og blekk; men eg vonar å koma til dykk og tala munnleg med dykk, so vår gleda kann verta fullkomi.
 
-**[1:13]** Borni til di utvalde syster helsar deg.  
+**[1:13]** Borni til di utvalde syster helsar deg.
 
 ## III John
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** Eg hadde mangt å skriva til deg, men eg vil ikkje skriva til deg med blekk og penn.
 
-**[1:14]** Men eg vonar å få sjå deg snart, og då skal me talast ved munn til munn. Fred vere med deg! Venerne helsar deg. Helsa venerne med namn!  
+**[1:14]** Men eg vonar å få sjå deg snart, og då skal me talast ved munn til munn. Fred vere med deg! Venerne helsar deg. Helsa venerne med namn!
 
 ## Jude
 
@@ -63858,7 +63858,7 @@
 
 **[1:24]** Men honom som er megtig til å halda dykk uppe so de ikkje snåvar, og føra dykk lytelause fram for sin herlegdom i fagnad,
 
-**[1:25]** den einaste Gud, vår frelsar ved Jesus Kristus, vår Herre, honom høyrer herlegdom til og majestæt og velde og magt fyre all tid og no og i all æva. Amen.  
+**[1:25]** den einaste Gud, vår frelsar ved Jesus Kristus, vår Herre, honom høyrer herlegdom til og majestæt og velde og magt fyre all tid og no og i all æva. Amen.
 
 ## Revelation of John
 
@@ -63902,7 +63902,7 @@
 
 **[1:19]** Skriv då det du såg, både det som er, og det som skal henda heretter,
 
-**[1:20]** løyndomen med dei sju stjernorne som du såg i mi høgre hand, og dei sju gull-ljosestakarne! Dei sju stjernorne er englar for dei sju kyrkjelydarne, og dei sju ljosestakarne er dei sju kyrkjelydarne.» 
+**[1:20]** løyndomen med dei sju stjernorne som du såg i mi høgre hand, og dei sju gull-ljosestakarne! Dei sju stjernorne er englar for dei sju kyrkjelydarne, og dei sju ljosestakarne er dei sju kyrkjelydarne.»
 
 ### Chapter 2
 
@@ -63962,7 +63962,7 @@
 
 **[2:28]** og eg vil gjeva honom morgonstjerna.
 
-**[2:29]** Den som hev øyra, han høyre kva Anden segjer til kyrkjelydarne!» 
+**[2:29]** Den som hev øyra, han høyre kva Anden segjer til kyrkjelydarne!»
 
 ### Chapter 3
 
@@ -64008,7 +64008,7 @@
 
 **[3:21]** Den som sigrar, honom vil eg gjeva å sitja med meg på min kongsstol, liksom og eg hev sigra og sett meg med min Fader på hans kongsstol.
 
-**[3:22]** Den som hev øyra, han høyre kva Anden segjer til kyrkjelydarne!» 
+**[3:22]** Den som hev øyra, han høyre kva Anden segjer til kyrkjelydarne!»
 
 ### Chapter 4
 
@@ -64032,7 +64032,7 @@
 
 **[4:10]** so fell dei fire og tjuge eldste ned for honom som sit på stolen, og tilbed honom som liver i all æva, og kastar krunorne sine ned for stolen og segjer:
 
-**[4:11]** «Verdig er du, Herre, til å få æra og pris og magt! for du skapte alle ting, og for din vilje skuld var dei til og vart dei skapte!» 
+**[4:11]** «Verdig er du, Herre, til å få æra og pris og magt! for du skapte alle ting, og for din vilje skuld var dei til og vart dei skapte!»
 
 ### Chapter 5
 
@@ -64062,7 +64062,7 @@
 
 **[5:13]** Og kvar skapning som er i himmelen og på jordi og under jordi og på havet, og alt det som er i deim, høyrde eg segja: «Honom som sit på stolen, og Lambet tilhøyrer velsigning og pris og æra og magt i all æva!»
 
-**[5:14]** Og dei fire livendi sagde: «Amen!» Og dei fire og tjuge eldste fall ned og tilbad. 
+**[5:14]** Og dei fire livendi sagde: «Amen!» Og dei fire og tjuge eldste fall ned og tilbad.
 
 ### Chapter 6
 
@@ -64098,7 +64098,7 @@
 
 **[6:16]** Og dei segjer til fjelli og hamrarne: «Fall yver oss og gøym oss for hans åsyn som sit på kongsstolen og for vreiden til Lambet!
 
-**[6:17]** For deira store vreide-dag er komen, og kven kann standa seg?» 
+**[6:17]** For deira store vreide-dag er komen, og kven kann standa seg?»
 
 ### Chapter 7
 
@@ -64134,7 +64134,7 @@
 
 **[7:16]** Dei skal ikkje lenger hungra og ikkje lenger tyrsta; ikkje heller skal soli falla på deim eller nokon hite;
 
-**[7:17]** for Lambet som er midt framfor kongsstolen, skal vakta deim og leida deim til livsens vatskjeldor, og Gud skal turka kvar tåra frå augo deira.» 
+**[7:17]** for Lambet som er midt framfor kongsstolen, skal vakta deim og leida deim til livsens vatskjeldor, og Gud skal turka kvar tåra frå augo deira.»
 
 ### Chapter 8
 
@@ -64162,7 +64162,7 @@
 
 **[8:12]** Og den fjorde engelen bles. Og tridjeparten av soli vart slegen, og tridjeparten av månen og tridjeparten av stjernorne, so tridjeparten av deim skulde verta formyrkt, og tridjeparten av dagen missa ljoset sitt, og natti like eins.
 
-**[8:13]** Og eg såg, og eg høyrde ein ørn som flaug under det høgste av himmelen og sagde med høg røyst: «Usæle, usæle, usæle dei som bur på jordi, for dei andre basunrøyster av dei tri englar som endå skal blåsa!» 
+**[8:13]** Og eg såg, og eg høyrde ein ørn som flaug under det høgste av himmelen og sagde med høg røyst: «Usæle, usæle, usæle dei som bur på jordi, for dei andre basunrøyster av dei tri englar som endå skal blåsa!»
 
 ### Chapter 9
 
@@ -64206,7 +64206,7 @@
 
 **[9:20]** Og dei andre menneskje, som ikkje vart drepne i desse plågorne, vende ikkje um frå dei verki deira hender hadde gjort, so dei heldt upp med å tilbeda dei vonde ånder og avgudarne av gull og av sylv og av kopar og av stein og av tre, som korkje kann sjå eller høyra eller ganga.
 
-**[9:21]** Og dei vende ikkje um frå mordgjerningarne sine eller frå trolldomskunsterne sine eller frå hordomen sin eller frå tjuvskapen sin. 
+**[9:21]** Og dei vende ikkje um frå mordgjerningarne sine eller frå trolldomskunsterne sine eller frå hordomen sin eller frå tjuvskapen sin.
 
 ### Chapter 10
 
@@ -64230,7 +64230,7 @@
 
 **[10:10]** Og eg tok den litle boki or handi på engelen og åt henne, og ho var søt som honning i munnen min, men då eg hadde ete henne, sveid det i magen min.
 
-**[10:11]** Og dei segjer til meg: «Du skal atter spå um mange landslydar og folk og tungemål og kongar.» 
+**[10:11]** Og dei segjer til meg: «Du skal atter spå um mange landslydar og folk og tungemål og kongar.»
 
 ### Chapter 11
 
@@ -64270,7 +64270,7 @@
 
 **[11:18]** Og heidningarne hev vorte vreide, og din vreide er komen, og den tid då dei daude skal dømast, og då du skal løna dine tenarar, profetarne og dei heilage og deim som ottast ditt namn, dei små og dei store, og då du skal øyda deim som øyder jordi.»
 
-**[11:19]** Og Guds tempel i himmelen vart upplate, og hans sambandskista vart sedd i templet hans; og det kom ljoneldar og røyster og toredunar og jordskjelv og stort hagl. 
+**[11:19]** Og Guds tempel i himmelen vart upplate, og hans sambandskista vart sedd i templet hans; og det kom ljoneldar og røyster og toredunar og jordskjelv og stort hagl.
 
 ### Chapter 12
 
@@ -64306,7 +64306,7 @@
 
 **[12:16]** Men jordi kom kvinna til hjelp, og jordi opna sin munn og svelgde elvi som draken spruta ut or gapet sitt.
 
-**[12:17]** Og draken vart arg på kvinna og gjekk burt og skulde strida med dei andre av hennar ætt, dei som held Guds bod og hev Jesu vitnemål. Og eg stod på sanden ved havet. 
+**[12:17]** Og draken vart arg på kvinna og gjekk burt og skulde strida med dei andre av hennar ætt, dei som held Guds bod og hev Jesu vitnemål. Og eg stod på sanden ved havet.
 
 ### Chapter 13
 
@@ -64344,7 +64344,7 @@
 
 **[13:17]** og at ingen kann kjøpa eller selja, utan den som hev merket, namnet på dyret eller talet for dette namnet.
 
-**[13:18]** Her er det visdomen! Den som hev vit, han rekne ut talet til dyret; for det er talet for eit menneskje, og talet for det er seks hundrad og seks og seksti. 
+**[13:18]** Her er det visdomen! Den som hev vit, han rekne ut talet til dyret; for det er talet for eit menneskje, og talet for det er seks hundrad og seks og seksti.
 
 ### Chapter 14
 
@@ -64386,7 +64386,7 @@
 
 **[14:19]** Og engelen let sigden sin fara yver jordi og skar frukti av vintreet på jordi og kasta henne i den store vinpersa til Guds vreide.
 
-**[14:20]** Og vinpersa vart trødd utanfor byen, og det gjekk blod ut frå persa heilt upp til beisli på hestarne, so langt som tusund og seks hundrad stadier. 
+**[14:20]** Og vinpersa vart trødd utanfor byen, og det gjekk blod ut frå persa heilt upp til beisli på hestarne, so langt som tusund og seks hundrad stadier.
 
 ### Chapter 15
 
@@ -64404,7 +64404,7 @@
 
 **[15:7]** Og eit av dei fire livendi gav dei sju englarne sju gullskåler, fyllte med Guds vreide, hans som liver i all æva.
 
-**[15:8]** Og templet var fyllt med røyk av Guds herlegdom og av hans magt, og ingen kunde ganga inn i templet fyrr dei sju plågorne frå dei sju englarne var fullenda. 
+**[15:8]** Og templet var fyllt med røyk av Guds herlegdom og av hans magt, og ingen kunde ganga inn i templet fyrr dei sju plågorne frå dei sju englarne var fullenda.
 
 ### Chapter 16
 
@@ -64448,7 +64448,7 @@
 
 **[16:20]** Og kvar øy kvarv burt, og fjell vart ikkje funne.
 
-**[16:21]** Og stort hagl, som hundrad pund tungt, fall ned frå himmelen på menneski, og menneski spotta Gud for plåga av haglet; for den plåga var ovleg stor. 
+**[16:21]** Og stort hagl, som hundrad pund tungt, fall ned frå himmelen på menneski, og menneski spotta Gud for plåga av haglet; for den plåga var ovleg stor.
 
 ### Chapter 17
 
@@ -64486,7 +64486,7 @@
 
 **[17:17]** For Gud gav deim i hjarta å fullføra hans tanke og fullføra den eine og same tanken og gjeva dyret sitt rike, til dess Guds ord er fullførde.
 
-**[17:18]** Og kvinna som du såg, er den store byen som hev kongeveldet yver kongarne på jordi.» 
+**[17:18]** Og kvinna som du såg, er den store byen som hev kongeveldet yver kongarne på jordi.»
 
 ### Chapter 18
 
@@ -64536,7 +64536,7 @@
 
 **[18:23]** Og ljos av lampa skal ikkje lenger skina i deg, og røyst av brudgom og brur ikkje lenger verta høyrd i deg; for dine kjøpmenner var storkararne på jordi, av di alle folk vart dåra ved din trolldom.
 
-**[18:24]** Og i henne vart det funne blod av profetar og heilage og av alle deim som er myrde på jordi.» 
+**[18:24]** Og i henne vart det funne blod av profetar og heilage og av alle deim som er myrde på jordi.»
 
 ### Chapter 19
 
@@ -64580,7 +64580,7 @@
 
 **[19:20]** Og dyret vart gripe, og saman med det den falske profeten, han som for augo på det hadde gjort dei teikni han hadde dåra deim med som tok merket åt dyret og tilbad bilætet av det. Desse tvo vart kasta livande i eldsjøen som brenn med svåvel.
 
-**[19:21]** Og dei andre vart drepne med sverdet hans som sat på hesten, det som gjekk ut or munnen hans. Og alle fuglarne vart metta av kjøtet deira. 
+**[19:21]** Og dei andre vart drepne med sverdet hans som sat på hesten, det som gjekk ut or munnen hans. Og alle fuglarne vart metta av kjøtet deira.
 
 ### Chapter 20
 
@@ -64612,7 +64612,7 @@
 
 **[20:14]** Og dauden og helheimen vart kasta i eldsjøen. Dette er den andre dauden: eldsjøen.
 
-**[20:15]** Og dersom nokon ikkje vart funnen uppskriven i livsens bok, so vart han kasta i eldsjøen. 
+**[20:15]** Og dersom nokon ikkje vart funnen uppskriven i livsens bok, so vart han kasta i eldsjøen.
 
 ### Chapter 21
 
@@ -64668,7 +64668,7 @@
 
 **[21:26]** Og dei skal bera herlegdomen og æra frå folki til honom.
 
-**[21:27]** Og inkje ureint skal koma inn i honom, og ingen som fer med styggedom og lygn; berre dei som er innskrivne i livsens bok hjå Lambet. 
+**[21:27]** Og inkje ureint skal koma inn i honom, og ingen som fer med styggedom og lygn; berre dei som er innskrivne i livsens bok hjå Lambet.
 
 ### Chapter 22
 
@@ -64712,5 +64712,5 @@
 
 **[22:20]** Han som vitnar dette, segjer: «Ja, eg kjem snart.» Amen, ja kom, Herre Jesus!
 
-**[22:21]** Vår Herre Jesu Kristi nåde vere med dykk alle! Amen.   
+**[22:21]** Vår Herre Jesu Kristi nåde vere med dykk alle! Amen.
 

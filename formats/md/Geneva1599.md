@@ -64,7 +64,7 @@
 
 **[1:30]** Likewise to euery beast of the earth, and to euery foule of the heauen, and to euery thing that moueth vpon the earth, which hath life in it selfe, euery greene herbe shall be for meate. and it was so.
 
-**[1:31]** And God sawe all that he had made, and loe, it was very good. So the euening and the morning were the sixt day.  
+**[1:31]** And God sawe all that he had made, and loe, it was very good. So the euening and the morning were the sixt day.
 
 ### Chapter 2
 
@@ -116,7 +116,7 @@
 
 **[2:24]** Therefore shall man leaue his father and his mother, and shall cleaue to his wife, and they shall be one flesh.
 
-**[2:25]** And they were both naked, the man and his wife, and were not ashamed.  
+**[2:25]** And they were both naked, the man and his wife, and were not ashamed.
 
 ### Chapter 3
 
@@ -166,7 +166,7 @@
 
 **[3:23]** Therefore the Lord God sent him foorth from the garden of Eden, to till ye earth, whence he was taken.
 
-**[3:24]** Thus he cast out man, and at the East side of the garden of Eden he set the Cherubims, and the blade of a sworde shaken, to keepe the way of the tree of life.  
+**[3:24]** Thus he cast out man, and at the East side of the garden of Eden he set the Cherubims, and the blade of a sworde shaken, to keepe the way of the tree of life.
 
 ### Chapter 4
 
@@ -220,7 +220,7 @@
 
 **[4:25]** And Adam knewe his wife againe, and she bare a sonne, and she called his name Sheth: for God, saide she, hath appointed me another seede for Habel, because Kain slewe him.
 
-**[4:26]** And to ye same Sheth also there was borne a sonne, and he called his name Enosh. Then beganne men to call vpon the name of the Lord.  
+**[4:26]** And to ye same Sheth also there was borne a sonne, and he called his name Enosh. Then beganne men to call vpon the name of the Lord.
 
 ### Chapter 5
 
@@ -286,7 +286,7 @@
 
 **[5:31]** So all the dayes of Lamech were seuen hundreth seuentie and seuen yeeres: and he died.
 
-**[5:32]** And Noah was fiue hundreth yeere olde. And Noah begate Shem, Ham and Iapheth.  
+**[5:32]** And Noah was fiue hundreth yeere olde. And Noah begate Shem, Ham and Iapheth.
 
 ### Chapter 6
 
@@ -332,7 +332,7 @@
 
 **[6:21]** And take thou with thee of all meate that is eaten: and thou shalt gather it to thee, that it may be meate for thee and for them.
 
-**[6:22]** Noah therefore did according vnto all, that God commanded him: euen so did he.  
+**[6:22]** Noah therefore did according vnto all, that God commanded him: euen so did he.
 
 ### Chapter 7
 
@@ -382,7 +382,7 @@
 
 **[7:23]** So he destroyed euery thing that was vpon the earth, from man to beast, to ye creeping thing, and to the foule of the heauen: they were euen destroyed from the earth. And Noah onely remained; and they that were with him in ye Arke.
 
-**[7:24]** And the waters preuailed vpon the earth an hundreth and fiftie dayes.  
+**[7:24]** And the waters preuailed vpon the earth an hundreth and fiftie dayes.
 
 ### Chapter 8
 
@@ -428,7 +428,7 @@
 
 **[8:21]** And the Lord smellled a sauour of rest, and the Lord said in his heart, I will hencefoorth curse the ground no more for mans cause: for the imagination of mans heart is euill, euen from his youth: neither will I smite any more all things liuing, as I haue done.
 
-**[8:22]** Hereafter seede time and haruest, and colde and heate, and sommer and winter, and day and night shall not cease, so long as ye earth remaineth.  
+**[8:22]** Hereafter seede time and haruest, and colde and heate, and sommer and winter, and day and night shall not cease, so long as ye earth remaineth.
 
 ### Chapter 9
 
@@ -488,7 +488,7 @@
 
 **[9:28]** And Noah liued after the flood three hundreth and fiftie yeeres.
 
-**[9:29]** So all the dayes of Noah were nine hundreth and fiftie yeeres: and he died.  
+**[9:29]** So all the dayes of Noah were nine hundreth and fiftie yeeres: and he died.
 
 ### Chapter 10
 
@@ -554,7 +554,7 @@
 
 **[10:31]** These are the sonnes of Shem according to their families, according to their tongues, in their countreis and nations.
 
-**[10:32]** These are the families of the sonnes of Noah, after their generations among their people: and out of these were the nations diuided in the earth after the flood.  
+**[10:32]** These are the families of the sonnes of Noah, after their generations among their people: and out of these were the nations diuided in the earth after the flood.
 
 ### Chapter 11
 
@@ -620,7 +620,7 @@
 
 **[11:31]** Then Terah tooke Abram his sonne, and Lot the sonne of Haran, his sonnes sonne, and Sarai his daughter in lawe, his sonne Abrams wife: and they departed together from Vr of the Caldees, to goe into the land of Canaan, and they came to Haran, and dwelt there.
 
-**[11:32]** So the dayes of Terah were two hundreth and fiue yeeres, and Terah died in Haran.  
+**[11:32]** So the dayes of Terah were two hundreth and fiue yeeres, and Terah died in Haran.
 
 ### Chapter 12
 
@@ -662,7 +662,7 @@
 
 **[12:19]** Why saidest thou, She is my sister, that I should take her to be my wife? Nowe therefore beholde thy wife, take her and goe thy way.
 
-**[12:20]** And Pharaoh gaue men commandement concerning him: and they conueyed him forth, and his wife, and all that he had.  
+**[12:20]** And Pharaoh gaue men commandement concerning him: and they conueyed him forth, and his wife, and all that he had.
 
 ### Chapter 13
 
@@ -700,7 +700,7 @@
 
 **[13:17]** Arise, walke through the land, in ye length thereof, and breadth thereof: for I will giue it vnto thee.
 
-**[13:18]** Then Abram remoued his tent, and came and dwelled in the plaine of Mamre, which is in Hebron, and builded there an altar vnto ye Lord.  
+**[13:18]** Then Abram remoued his tent, and came and dwelled in the plaine of Mamre, which is in Hebron, and builded there an altar vnto ye Lord.
 
 ### Chapter 14
 
@@ -750,7 +750,7 @@
 
 **[14:23]** That I will not take of all that is thine, so much as a threde or shoolatchet, lest thou shouldest say, I haue made Abram riche,
 
-**[14:24]** Saue onely that, which the yong men haue eaten, and the partes of the men which went with me, Aner, Eshcol, and Mamre: let them take their partes.  
+**[14:24]** Saue onely that, which the yong men haue eaten, and the partes of the men which went with me, Aner, Eshcol, and Mamre: let them take their partes.
 
 ### Chapter 15
 
@@ -794,7 +794,7 @@
 
 **[15:20]** And the Hittites, and the Perizzites, and the Rephaims,
 
-**[15:21]** The Amorites also, and the Canaanites, and the Girgashites, and the Iebusites.  
+**[15:21]** The Amorites also, and the Canaanites, and the Girgashites, and the Iebusites.
 
 ### Chapter 16
 
@@ -828,7 +828,7 @@
 
 **[16:15]** And Hagar bare Abram a sonne, and Abram called his sonnes name, which Hagar bare, Ishmael.
 
-**[16:16]** And Abram was foure score and sixe yeere olde, when Hagar bare him Ishmael.  
+**[16:16]** And Abram was foure score and sixe yeere olde, when Hagar bare him Ishmael.
 
 ### Chapter 17
 
@@ -884,7 +884,7 @@
 
 **[17:26]** The selfe same day was Abraham circumcised, and Ishmael his sonne:
 
-**[17:27]** And all the men of his house, both borne in his house, and bought with money of the stranger, were circumcised with him.  
+**[17:27]** And all the men of his house, both borne in his house, and bought with money of the stranger, were circumcised with him.
 
 ### Chapter 18
 
@@ -952,7 +952,7 @@
 
 **[18:32]** Then he saide, Let not my Lord be nowe angrie, and I will speake but this once, What if tenne be found there? And he answered, I will not destroy it for tennes sake.
 
-**[18:33]** And the Lord went his way when he had left communing with Abraham, and Abraham returned vnto his place.  
+**[18:33]** And the Lord went his way when he had left communing with Abraham, and Abraham returned vnto his place.
 
 ### Chapter 19
 
@@ -1030,7 +1030,7 @@
 
 **[19:37]** And the elder bare a sonne, and she called his name Moab: the same is the father of the Moabites vnto this day.
 
-**[19:38]** And the yonger bare a sonne also, and she called his name Ben-ammi: the same is the father of the Ammonites vnto this day.  
+**[19:38]** And the yonger bare a sonne also, and she called his name Ben-ammi: the same is the father of the Ammonites vnto this day.
 
 ### Chapter 20
 
@@ -1068,7 +1068,7 @@
 
 **[20:17]** Then Abraham prayed vnto God, and God healed Abimelech, and his wife, and his women seruants: and they bare children.
 
-**[20:18]** For the Lord had shut vp euery wombe of the house of Abimelech, because of Sarah Abrahams wife.  
+**[20:18]** For the Lord had shut vp euery wombe of the house of Abimelech, because of Sarah Abrahams wife.
 
 ### Chapter 21
 
@@ -1138,7 +1138,7 @@
 
 **[21:33]** And Abraham planted a groue in Beer-sheba, and called there on the Name of ye Lord, the euerlasting God.
 
-**[21:34]** And Abraham was a stranger in the Philistims land a long season.  
+**[21:34]** And Abraham was a stranger in the Philistims land a long season.
 
 ### Chapter 22
 
@@ -1188,7 +1188,7 @@
 
 **[22:23]** And Bethuel begate Rebekah: these eight did Milcah beare to Nahor Abrahams brother.
 
-**[22:24]** And his concubine called Reumah, she bare also Tebah, and Gahan, and Thahash and Maachah.  
+**[22:24]** And his concubine called Reumah, she bare also Tebah, and Gahan, and Thahash and Maachah.
 
 ### Chapter 23
 
@@ -1230,7 +1230,7 @@
 
 **[23:19]** And after this, Abraham buried Sarah his wife in the caue of the fielde of Machpelah ouer against Mamre: the same is Hebron in the land of Canaan.
 
-**[23:20]** Thus the fielde and the caue, that is therein, was made sure vnto Abraham for a possession of buriall by the Hittites.  
+**[23:20]** Thus the fielde and the caue, that is therein, was made sure vnto Abraham for a possession of buriall by the Hittites.
 
 ### Chapter 24
 
@@ -1366,7 +1366,7 @@
 
 **[24:66]** And the seruant tolde Izhak all things, that he had done.
 
-**[24:67]** Afterward Izhak brought her into the tent of Sarah his mother, and he tooke Rebekah, and she was his wife, and he loued her: So Izhak was comforted after his mothers death.  
+**[24:67]** Afterward Izhak brought her into the tent of Sarah his mother, and he tooke Rebekah, and she was his wife, and he loued her: So Izhak was comforted after his mothers death.
 
 ### Chapter 25
 
@@ -1436,7 +1436,7 @@
 
 **[25:33]** Iaakob then said, Sweare to me euen now. And he sware to him, and solde his birthright vnto Iaakob.
 
-**[25:34]** Then Iaakob gaue Esau bread and pottage of lentiles: and he did eate and drinke, and rose vp, and went his way: So Esau contemned his birthright.  
+**[25:34]** Then Iaakob gaue Esau bread and pottage of lentiles: and he did eate and drinke, and rose vp, and went his way: So Esau contemned his birthright.
 
 ### Chapter 26
 
@@ -1508,7 +1508,7 @@
 
 **[26:34]** Nowe when Esau was fourtie yeere olde, he tooke to wife Iudith, the daughter of Beeri an Hittite, and Bashemath the daughter of Elon an Hittite also.
 
-**[26:35]** And they were a griefe of minde to Izhak and to Rebekah.  
+**[26:35]** And they were a griefe of minde to Izhak and to Rebekah.
 
 ### Chapter 27
 
@@ -1602,7 +1602,7 @@
 
 **[27:45]** And till thy brothers wrath turne away from thee, and hee forget the thinges, which thou hast done to him: then will I sende and take thee from thence: why shoulde I bee depriued of you both in one day?
 
-**[27:46]** Also Rebekah said to Izhak, I am weary of my life, for the daughters of Heth. If Iaakob take a wife of the daughters of Heth like these of the daughters of the lande, what auaileth it me to liue?  
+**[27:46]** Also Rebekah said to Izhak, I am weary of my life, for the daughters of Heth. If Iaakob take a wife of the daughters of Heth like these of the daughters of the lande, what auaileth it me to liue?
 
 ### Chapter 28
 
@@ -1648,7 +1648,7 @@
 
 **[28:21]** So that I come againe vnto my fathers house in safetie, then shall the Lord be my God.
 
-**[28:22]** And this stone, which I haue set vp as a pillar, shall be Gods house: and of all that thou shalt giue me, wil I giue the tenth vnto thee.  
+**[28:22]** And this stone, which I haue set vp as a pillar, shall be Gods house: and of all that thou shalt giue me, wil I giue the tenth vnto thee.
 
 ### Chapter 29
 
@@ -1720,7 +1720,7 @@
 
 **[29:34]** And she conceiued againe and bare a sonne, and said, Now at this time wil my husband keepe mee company, because I haue borne him three sonnes: therefore was his name called Leui.
 
-**[29:35]** Moreouer shee conceiued againe and bare a sonne, saying, Nowe will I prayse the Lord: therefore shee called his name Iudah, and left bearing.  
+**[29:35]** Moreouer shee conceiued againe and bare a sonne, saying, Nowe will I prayse the Lord: therefore shee called his name Iudah, and left bearing.
 
 ### Chapter 30
 
@@ -1808,7 +1808,7 @@
 
 **[30:42]** But when the sheepe were feeble, hee put them not in: and so the feebler were Labans, and the stronger Iaakobs.
 
-**[30:43]** So the man increased exceedingly, and had many flockes, and maide seruantes, and men seruants, and camels and asses.  
+**[30:43]** So the man increased exceedingly, and had many flockes, and maide seruantes, and men seruants, and camels and asses.
 
 ### Chapter 31
 
@@ -1920,7 +1920,7 @@
 
 **[31:54]** Then Iaakob did offer a sacrifice vpon the mount, and called his brethren to eate bread. and they did eate bread, and taried all night in the mount.
 
-**[31:55]** And earely in the morning Laban rose vp and kissed his sonnes and his daughters, and blessed them, and Laban departing, went vnto his place againe.  
+**[31:55]** And earely in the morning Laban rose vp and kissed his sonnes and his daughters, and blessed them, and Laban departing, went vnto his place againe.
 
 ### Chapter 32
 
@@ -1986,7 +1986,7 @@
 
 **[32:31]** And the sunne rose vp to him as he passed Peniel, and he halted vpon his thigh.
 
-**[32:32]** Therefore the children of Israel eate not of the sinewe that shranke in the hollowe of the thigh, vnto this day: because he touched the sinew that shranke in the holow of Iaakobs thigh.  
+**[32:32]** Therefore the children of Israel eate not of the sinewe that shranke in the hollowe of the thigh, vnto this day: because he touched the sinew that shranke in the holow of Iaakobs thigh.
 
 ### Chapter 33
 
@@ -2028,7 +2028,7 @@
 
 **[33:19]** And there he bought a parcell of ground, where hee pitched his tent, at the hande of the sonnes of Hamor Shechems father, for an hundreth pieces of money.
 
-**[33:20]** And he set vp there an altar, and called it, The mightie God of Israel.  
+**[33:20]** And he set vp there an altar, and called it, The mightie God of Israel.
 
 ### Chapter 34
 
@@ -2092,7 +2092,7 @@
 
 **[34:30]** Then Iaakob said to Simeon and Leui, Ye haue troubled me, and made me stinke among the inhabitats of the land, aswell the Canaanites, as the Perizzites, and and I being few in nomber, they shall gather theselues together against me, and slay me, and so shall I, and my house be destroied.
 
-**[34:31]** And they answered, Shoulde hee abuse our sister as a whore?  
+**[34:31]** And they answered, Shoulde hee abuse our sister as a whore?
 
 ### Chapter 35
 
@@ -2152,7 +2152,7 @@
 
 **[35:28]** And the daies of Izhak were an hundreth and fourescore yeeres.
 
-**[35:29]** And Izhak gaue vp the ghost and died, and was gathered vnto his people, being olde and full of daies: and his sonnes Esau and Iaakob buried him.  
+**[35:29]** And Izhak gaue vp the ghost and died, and was gathered vnto his people, being olde and full of daies: and his sonnes Esau and Iaakob buried him.
 
 ### Chapter 36
 
@@ -2240,7 +2240,7 @@
 
 **[36:42]** Duke Kenaz, Duke Teman, Duke Mibzar,
 
-**[36:43]** Duke Magdiel, Duke Iram: these bee the Dukes of Edom, according to their habitations, in the lande of their inheritance. This Esau is the father of Edom.  
+**[36:43]** Duke Magdiel, Duke Iram: these bee the Dukes of Edom, according to their habitations, in the lande of their inheritance. This Esau is the father of Edom.
 
 ### Chapter 37
 
@@ -2314,7 +2314,7 @@
 
 **[37:35]** Then all his sonnes and all his daughters rose vp to comfort him, but he woulde not be comforted, but said, Surely I will go downe into the graue vnto my sonne mourning: so his father wept for him.
 
-**[37:36]** And the Midianites solde him into Egypt vnto Potiphar an Eunuche of Pharaohs, and his chiefe stewarde.  
+**[37:36]** And the Midianites solde him into Egypt vnto Potiphar an Eunuche of Pharaohs, and his chiefe stewarde.
 
 ### Chapter 38
 
@@ -2376,7 +2376,7 @@
 
 **[38:29]** But when he plucked his hand backe againe, loe, his brother came out, and the midwife said, How hast thou broken the breach vpon thee? and his name was called Pharez.
 
-**[38:30]** And afterward came out his brother that had the red threde about his hande, and his name was called Zarah.  
+**[38:30]** And afterward came out his brother that had the red threde about his hande, and his name was called Zarah.
 
 ### Chapter 39
 
@@ -2424,7 +2424,7 @@
 
 **[39:22]** And the keeper of the prison committed to Iosephs hande all the prisoners that were in the prison, and whatsoeuer they did there, that did he.
 
-**[39:23]** And the keeper of the prison looked vnto nothing that was vnder his hande, seeing that the Lord was with him: for whatsoeuer he did, the Lord made it to prosper.  
+**[39:23]** And the keeper of the prison looked vnto nothing that was vnder his hande, seeing that the Lord was with him: for whatsoeuer he did, the Lord made it to prosper.
 
 ### Chapter 40
 
@@ -2472,7 +2472,7 @@
 
 **[40:22]** But he hanged the chiefe baker, as Ioseph had interpreted vnto them.
 
-**[40:23]** Yet the chiefe butler did not remember Ioseph, but forgate him.  
+**[40:23]** Yet the chiefe butler did not remember Ioseph, but forgate him.
 
 ### Chapter 41
 
@@ -2588,7 +2588,7 @@
 
 **[41:56]** When the famine was vpon all the land, Ioseph opened all places, wherein the store was, and solde vnto the Egyptians: for the famine waxed sore in the land of Egypt.
 
-**[41:57]** And all countries came to Egypt to bye corne of Ioseph, because the famine was sore in all landes.  
+**[41:57]** And all countries came to Egypt to bye corne of Ioseph, because the famine was sore in all landes.
 
 ### Chapter 42
 
@@ -2666,7 +2666,7 @@
 
 **[42:37]** Then Reuben answered his father, saying, Slay my two sonnes, if I bring him not to thee againe: deliuer him to mine hand, and I will bring him to thee againe.
 
-**[42:38]** But he said, My sonne shall not go downe with you: for his brother is dead, and he is left alone: if death come vnto him by the way which ye goe, then ye shall bring my gray head with sorow vnto the graue.  
+**[42:38]** But he said, My sonne shall not go downe with you: for his brother is dead, and he is left alone: if death come vnto him by the way which ye goe, then ye shall bring my gray head with sorow vnto the graue.
 
 ### Chapter 43
 
@@ -2736,7 +2736,7 @@
 
 **[43:33]** So they sate before him: the eldest according vnto his age, and the yongest according vnto his youth. and the men marueiled among themselues.
 
-**[43:34]** And they tooke meases from before him, and sent to them: but Beniamins mease was fiue times so much as any of theirs: and they drunke, and had of the best drinke with him.  
+**[43:34]** And they tooke meases from before him, and sent to them: but Beniamins mease was fiue times so much as any of theirs: and they drunke, and had of the best drinke with him.
 
 ### Chapter 44
 
@@ -2806,7 +2806,7 @@
 
 **[44:33]** Nowe therefore, I pray thee, let me thy seruant bide for the childe, as a seruant to my Lord, and let the childe go vp with his brethren.
 
-**[44:34]** For how can I go vp to my father, if the childe be not with me, vnlesse I woulde see the euil that shall come on my father?  
+**[44:34]** For how can I go vp to my father, if the childe be not with me, vnlesse I woulde see the euil that shall come on my father?
 
 ### Chapter 45
 
@@ -2864,7 +2864,7 @@
 
 **[45:27]** And they told him al the words of Ioseph, which he had said vnto the: but when he saw the charets, which Ioseph had sent to cary him, then the spirit of Iaakob their father reuiued.
 
-**[45:28]** And Israel said, I haue inough: Ioseph my sonne is yet aliue: I will go and see him yer I die.  
+**[45:28]** And Israel said, I haue inough: Ioseph my sonne is yet aliue: I will go and see him yer I die.
 
 ### Chapter 46
 
@@ -2934,7 +2934,7 @@
 
 **[46:33]** And if Pharaoh call you, and aske you, What is your trade?
 
-**[46:34]** Then ye shall say, Thy seruants are men occupied about cattell, from our childehood euen vnto this time, both we and our fathers: that yee may dwell in the lande of Goshen: for euery sheepe keeper is an abomination vnto the Egyptians.  
+**[46:34]** Then ye shall say, Thy seruants are men occupied about cattell, from our childehood euen vnto this time, both we and our fathers: that yee may dwell in the lande of Goshen: for euery sheepe keeper is an abomination vnto the Egyptians.
 
 ### Chapter 47
 
@@ -2998,7 +2998,7 @@
 
 **[47:30]** But when I shall sleepe with my fathers, thou shalt carry me out of Egypt, and bury mee in their buryall. And he answered, I will doe as thou hast sayde.
 
-**[47:31]** The he said, Sweare vnto me. And he sware vnto him. And Israel worshipped towardes the beds head.  
+**[47:31]** The he said, Sweare vnto me. And he sware vnto him. And Israel worshipped towardes the beds head.
 
 ### Chapter 48
 
@@ -3044,7 +3044,7 @@
 
 **[48:21]** Then Israel said vnto Ioseph, Behold, I die, and God shall be with you, and bring you againe vnto the land of your fathers.
 
-**[48:22]** Moreouer, I haue giuen vnto thee one portion aboue thy brethren, which I gate out of the hand of the Amorite by my sworde and by my bowe.  
+**[48:22]** Moreouer, I haue giuen vnto thee one portion aboue thy brethren, which I gate out of the hand of the Amorite by my sworde and by my bowe.
 
 ### Chapter 49
 
@@ -3112,7 +3112,7 @@
 
 **[49:32]** The purchase of the fielde and the caue that is therein, was bought of the children of Heth.
 
-**[49:33]** Thus Iaakob made an end of giuing charge to his sonnes, and plucked vp his feete into the bed and gaue vp the ghost, and was gathered to his people.  
+**[49:33]** Thus Iaakob made an end of giuing charge to his sonnes, and plucked vp his feete into the bed and gaue vp the ghost, and was gathered to his people.
 
 ### Chapter 50
 
@@ -3166,7 +3166,7 @@
 
 **[50:25]** And Ioseph tooke an othe of the children of Israel, saying, God will surely visite you, and ye shall cary my bones hence.
 
-**[50:26]** So Ioseph died, when he was an hundreth and ten yere olde: and they enbaumed him and put him in a chest in Egypt.   
+**[50:26]** So Ioseph died, when he was an hundreth and ten yere olde: and they enbaumed him and put him in a chest in Egypt.
 
 ## Exodus
 
@@ -3214,7 +3214,7 @@
 
 **[1:21]** And because ye midwiues feared God, therefore he made them houses.
 
-**[1:22]** Then Pharaoh charged all his people, saying, Euery man childe that is borne, cast yee into the riuer, but reserue euery maide childe aliue.  
+**[1:22]** Then Pharaoh charged all his people, saying, Euery man childe that is borne, cast yee into the riuer, but reserue euery maide childe aliue.
 
 ### Chapter 2
 
@@ -3266,7 +3266,7 @@
 
 **[2:24]** Then God heard their mone, and God remembred his couenant with Abraham, Izhak, and Iaakob.
 
-**[2:25]** So God looked vpon the children of Israel, and God had respect vnto them.  
+**[2:25]** So God looked vpon the children of Israel, and God had respect vnto them.
 
 ### Chapter 3
 
@@ -3312,7 +3312,7 @@
 
 **[3:21]** And I will make this people to be fauoured of the Egyptians: so that when ye go, ye shall not goe emptie.
 
-**[3:22]** For euery woman shall aske of her neighbour, and of her that soiourneth in her house, iewels of siluer and iewels of gold and raiment, and ye shall put them on your sonnes, and on your daughters, and shall spoyle the Egyptians.  
+**[3:22]** For euery woman shall aske of her neighbour, and of her that soiourneth in her house, iewels of siluer and iewels of gold and raiment, and ye shall put them on your sonnes, and on your daughters, and shall spoyle the Egyptians.
 
 ### Chapter 4
 
@@ -3376,7 +3376,7 @@
 
 **[4:30]** And Aaron told all the wordes, which the Lord had spoken vnto Moses, and he did the miracles in the sight of the people,
 
-**[4:31]** And the people beleeued, and when they heard that the Lord had visited the children of Israel, and had looked vpon their tribulation, they bowed downe, and worshipped.  
+**[4:31]** And the people beleeued, and when they heard that the Lord had visited the children of Israel, and had looked vpon their tribulation, they bowed downe, and worshipped.
 
 ### Chapter 5
 
@@ -3392,7 +3392,7 @@
 
 **[5:6]** Therefore Pharaoh gaue commandement the same day vnto the taskemasters of the people, and to their officers, saying,
 
-**[5:7]** Ye shall giue the people no more strawe, to make bricke ( as in time past) but let them goe and gather them strawe them selues:
+**[5:7]** Ye shall giue the people no more strawe, to make bricke (as in time past) but let them goe and gather them strawe them selues:
 
 **[5:8]** Notwithstanding lay vpon them the nober of bricke, which they made in time past, diminish nothing thereof: for they be idle, therefore they crie, saying, Let vs go to offer sacrifice vnto our God.
 
@@ -3424,7 +3424,7 @@
 
 **[5:22]** Wherefore Moses returned to the Lord, and saide, Lord, why hast thou afflicted this people? wherefore hast thou thus sent me?
 
-**[5:23]** For since I came to Pharaoh to speake in thy Name, he hath vexed this people, and yet thou hast not deliuered thy people.  
+**[5:23]** For since I came to Pharaoh to speake in thy Name, he hath vexed this people, and yet thou hast not deliuered thy people.
 
 ### Chapter 6
 
@@ -3486,7 +3486,7 @@
 
 **[6:29]** When the Lord, I say, spake vnto Moses, saying, I am the Lord, speake thou vnto Pharaoh the King of Egypt all that I say vnto thee,
 
-**[6:30]** Then Moses said before the Lord, Behold, I am of vncircumcised lips, and how shall Pharaoh heare me?  
+**[6:30]** Then Moses said before the Lord, Behold, I am of vncircumcised lips, and how shall Pharaoh heare me?
 
 ### Chapter 7
 
@@ -3538,7 +3538,7 @@
 
 **[7:24]** All the Egyptians then digged rounde about the riuer for waters to drinke: for they could not drinke of the water of the riuer.
 
-**[7:25]** And this continued fully seuen dayes after the Lord had smitten the riuer.  
+**[7:25]** And this continued fully seuen dayes after the Lord had smitten the riuer.
 
 ### Chapter 8
 
@@ -3604,7 +3604,7 @@
 
 **[8:31]** And the Lord did according to the saying of Moses, and the swarmes of flies departed from Pharaoh, from his seruants, and from his people, and there remained not one.
 
-**[8:32]** Yet Pharaoh hardened his heart at this time also, and did not let the people goe.  
+**[8:32]** Yet Pharaoh hardened his heart at this time also, and did not let the people goe.
 
 ### Chapter 9
 
@@ -3676,7 +3676,7 @@
 
 **[9:34]** And when Pharaoh sawe that the raine and the haile and the thunder were ceased, hee sinned againe, and hardened his heart, both he, and his seruants.
 
-**[9:35]** So the heart of Pharaoh was hardened: neither would he let the children of Israel goe, as the Lord had said by Moses.  
+**[9:35]** So the heart of Pharaoh was hardened: neither would he let the children of Israel goe, as the Lord had said by Moses.
 
 ### Chapter 10
 
@@ -3736,7 +3736,7 @@
 
 **[10:28]** And Pharaoh sayde vnto him, Get thee from mee: looke thou see my face no more: for whensoeuer thou commest in my sight, thou shalt dye.
 
-**[10:29]** Then Moses said, Thou hast said well: from henceforth will I see thy face no more.  
+**[10:29]** Then Moses said, Thou hast said well: from henceforth will I see thy face no more.
 
 ### Chapter 11
 
@@ -3758,7 +3758,7 @@
 
 **[11:9]** And the Lord saide vnto Moses, Pharaoh shall not heare you, that my wonders may bee multiplied in the land of Egypt.
 
-**[11:10]** So Moses and Aaron did all these wonders before Pharaoh: but the Lord hardened Pharaohs heart, and he suffred not the children of Israel to goe out of his lande.  
+**[11:10]** So Moses and Aaron did all these wonders before Pharaoh: but the Lord hardened Pharaohs heart, and he suffred not the children of Israel to goe out of his lande.
 
 ### Chapter 12
 
@@ -3862,7 +3862,7 @@
 
 **[12:50]** Then all the children of Israel did as the Lord commanded Moses and Aaron: so did they.
 
-**[12:51]** And the selfe same day did the Lord bring the children of Israel out of the land of Egypt by their armies.  
+**[12:51]** And the selfe same day did the Lord bring the children of Israel out of the land of Egypt by their armies.
 
 ### Chapter 13
 
@@ -3908,7 +3908,7 @@
 
 **[13:21]** And the Lord went before them by day in a pillar of a cloude to leade them the way, and by night in a pillar of fire to giue them light, that they might go both by day and by night.
 
-**[13:22]** He tooke not away the pillar of ye cloude by day, nor the pillar of fire by night from before the people.  
+**[13:22]** He tooke not away the pillar of ye cloude by day, nor the pillar of fire by night from before the people.
 
 ### Chapter 14
 
@@ -3972,7 +3972,7 @@
 
 **[14:30]** Thus the Lord saued Israel the same day out of the hand of the Egyptians, and Israel sawe the Egyptians dead vpon the Sea banke.
 
-**[14:31]** And Israel saw the mightie power, which the Lord shewed vpon the Egyptians: so the people feared the Lord, and beleeued the Lord, and his seruant Moses.  
+**[14:31]** And Israel saw the mightie power, which the Lord shewed vpon the Egyptians: so the people feared the Lord, and beleeued the Lord, and his seruant Moses.
 
 ### Chapter 15
 
@@ -4028,7 +4028,7 @@
 
 **[15:26]** And sayd, if thou wilt diligently hearken, O Israel, vnto the voyce of the Lord thy God, and wilt do that, which is right in his sight, and wilt giue eare vnto his commandements, and keepe all his ordinances, then will I put none of these diseases vpon thee, which I brought vpon the Egyptians: for I am the Lord that healeth thee.
 
-**[15:27]** And they came to Elim, where were twelue fountaines of water, and seuentie palme trees, and they camped thereby the waters.  
+**[15:27]** And they came to Elim, where were twelue fountaines of water, and seuentie palme trees, and they camped thereby the waters.
 
 ### Chapter 16
 
@@ -4102,7 +4102,7 @@
 
 **[16:35]** And the children of Israel did eate MAN fourtie yeres, vntill they came vnto a land inhabited: they did eate MAN vntill they came to the borders of the land of Canaan.
 
-**[16:36]** The Omer is the tenth part of the Ephah.  
+**[16:36]** The Omer is the tenth part of the Ephah.
 
 ### Chapter 17
 
@@ -4136,7 +4136,7 @@
 
 **[17:15]** (And Moses builte an altar and called the name of it, Iehouah-nissi)
 
-**[17:16]** Also he said, The Lord hath sworne, that he will haue warre with Amalek from generation to generation.  
+**[17:16]** Also he said, The Lord hath sworne, that he will haue warre with Amalek from generation to generation.
 
 ### Chapter 18
 
@@ -4192,7 +4192,7 @@
 
 **[18:26]** And they iudged the people at all seasons, but they brought the hard causes vnto Moses: for they iudged all small matters themselues.
 
-**[18:27]** Afterward Moses let his father in law depart, and he went into his countrey.  
+**[18:27]** Afterward Moses let his father in law depart, and he went into his countrey.
 
 ### Chapter 19
 
@@ -4244,7 +4244,7 @@
 
 **[19:24]** And the Lord sayd vnto him, Go, get thee downe, and come vp, thou, and Aaron with thee: but let not the Priestes and the people breake their boundes to come vp vnto the Lord, least he destroy them.
 
-**[19:25]** So Moses went downe vnto the people, and tolde them.  
+**[19:25]** So Moses went downe vnto the people, and tolde them.
 
 ### Chapter 20
 
@@ -4298,7 +4298,7 @@
 
 **[20:25]** But if thou wilt make mee an altar of stone, thou shalt not buylde it of hewen stones: for if thou lift vp thy toole vpon them, thou hast polluted them.
 
-**[20:26]** Neither shalt thou goe vp by steppes vnto mine altar, that thy filthines be not discouered thereon.  
+**[20:26]** Neither shalt thou goe vp by steppes vnto mine altar, that thy filthines be not discouered thereon.
 
 ### Chapter 21
 
@@ -4372,7 +4372,7 @@
 
 **[21:35]** And if a mans oxe hurt his neighbours oxe that he die, then they shall sel the liue oxe, and deuide the money thereof, and the dead oxe also they shall deuide.
 
-**[21:36]** Or if it bee knowen that the oxe hath vsed to push in times past, and his master hath not kept him, he shall pay oxe for oxe, but the dead shall be his owne.  
+**[21:36]** Or if it bee knowen that the oxe hath vsed to push in times past, and his master hath not kept him, he shall pay oxe for oxe, but the dead shall be his owne.
 
 ### Chapter 22
 
@@ -4436,7 +4436,7 @@
 
 **[22:30]** Likewise shalt thou do with thine oxen and with thy sheepe: seuen dayes it shall bee with his damme, and the eight day thou shalt giue it me.
 
-**[22:31]** Ye shall be an holy people vnto me, neither shall ye eate any flesh that is torne of beastes in the fielde: ye shall cast it to the dogge.  
+**[22:31]** Ye shall be an holy people vnto me, neither shall ye eate any flesh that is torne of beastes in the fielde: ye shall cast it to the dogge.
 
 ### Chapter 23
 
@@ -4504,7 +4504,7 @@
 
 **[23:32]** Thou shalt make no couenant with them, nor with their gods:
 
-**[23:33]** Neither shall they dwell in thy lande, least they make thee sinne against me: for if thou serue their gods, surely it shall be thy destruction.  
+**[23:33]** Neither shall they dwell in thy lande, least they make thee sinne against me: for if thou serue their gods, surely it shall be thy destruction.
 
 ### Chapter 24
 
@@ -4542,7 +4542,7 @@
 
 **[24:17]** And the sight of the glorie of the Lord was like consuming fire on the top of the moutaine, in the eyes of the children of Israel.
 
-**[24:18]** And Moses entred into the middes of the cloude, and went vp to the mountaine: and Moses was in the mount fourtie dayes and fourty nightes.  
+**[24:18]** And Moses entred into the middes of the cloude, and went vp to the mountaine: and Moses was in the mount fourtie dayes and fourty nightes.
 
 ### Chapter 25
 
@@ -4624,7 +4624,7 @@
 
 **[25:39]** Of a talent of fine gold shalt thou make it with all these instruments.
 
-**[25:40]** Looke therefore that thou make them after their facion, that was shewed thee in the mountaine.  
+**[25:40]** Looke therefore that thou make them after their facion, that was shewed thee in the mountaine.
 
 ### Chapter 26
 
@@ -4700,7 +4700,7 @@
 
 **[26:36]** Also thou shalt make an hanging for the dore of ye Tabernacle of blew silke, and purple, and skarlet, and fine twined linen wrought with needle.
 
-**[26:37]** And thou shalt make for the hanging fiue pillars of Shittim, and couer them with gold: their heads shalbe of golde, and thou shalt cast fiue sockets of brasse for them.  
+**[26:37]** And thou shalt make for the hanging fiue pillars of Shittim, and couer them with gold: their heads shalbe of golde, and thou shalt cast fiue sockets of brasse for them.
 
 ### Chapter 27
 
@@ -4744,7 +4744,7 @@
 
 **[27:20]** And thou shalt commande the children of Israel, that they bring vnto thee pure oyle oliue beaten, for the light, that the lampes may alway burne.
 
-**[27:21]** In the Tabernacle of the Congregation without the vaile, which is before the Testimony, shall Aaron and his sonnes dresse them from euening to morning before the Lord, for a statute for euer vnto their generations, to be obserued by the children of Israel.  
+**[27:21]** In the Tabernacle of the Congregation without the vaile, which is before the Testimony, shall Aaron and his sonnes dresse them from euening to morning before the Lord, for a statute for euer vnto their generations, to be obserued by the children of Israel.
 
 ### Chapter 28
 
@@ -4832,7 +4832,7 @@
 
 **[28:42]** Thou shalt also make them linen breeches to couer their priuities: from the loynes vnto the thighs shall they reache.
 
-**[28:43]** And they shalbe for Aaron and his sonnes when they come into the Tabernacle of the Congregation, or whe they come vnto the altar to minister in the holy place, that they commit not iniquitie, and so die. This shalbe a lawe for euer vnto him and to his seede after him.  
+**[28:43]** And they shalbe for Aaron and his sonnes when they come into the Tabernacle of the Congregation, or whe they come vnto the altar to minister in the holy place, that they commit not iniquitie, and so die. This shalbe a lawe for euer vnto him and to his seede after him.
 
 ### Chapter 29
 
@@ -4926,7 +4926,7 @@
 
 **[29:45]** And I will dwell among the children of Israel, and will bee their God.
 
-**[29:46]** Then shall they knowe that I am ye Lord their God, that brought them out of the lande of Egypt, that I might dwell among them: I am the Lord their God.  
+**[29:46]** Then shall they knowe that I am ye Lord their God, that brought them out of the lande of Egypt, that I might dwell among them: I am the Lord their God.
 
 ### Chapter 30
 
@@ -5004,7 +5004,7 @@
 
 **[30:37]** And ye shall not make vnto you any composition like this perfume, which thou shalt make: it shalbe vnto thee holy for the Lord.
 
-**[30:38]** Whosoeuer shall make like vnto that to smelll thereto, euen he shalbe cut off from his people.  
+**[30:38]** Whosoeuer shall make like vnto that to smelll thereto, euen he shalbe cut off from his people.
 
 ### Chapter 31
 
@@ -5042,7 +5042,7 @@
 
 **[31:17]** It is a signe betweene me and the children of Israel for euer: for in sixe dayes the Lord made the heauen and the earth, and in the seuenth day he ceased, and rested.
 
-**[31:18]** Thus (when the Lord had made an ende of communing with Moses vpon mount Sinai) he gaue him two Tables of the Testimonie, euen tables of stone, written with the finger of God.  
+**[31:18]** Thus (when the Lord had made an ende of communing with Moses vpon mount Sinai) he gaue him two Tables of the Testimonie, euen tables of stone, written with the finger of God.
 
 ### Chapter 32
 
@@ -5114,7 +5114,7 @@
 
 **[32:34]** Go nowe therefore, bring the people vnto the place which I commanded thee: behold, mine Angel shall goe before thee, but yet in the day of my visitation I wil visite their sinne vpon them.
 
-**[32:35]** So the Lord plagued the people, because they caused Aaron to make ye calfe which he made.  
+**[32:35]** So the Lord plagued the people, because they caused Aaron to make ye calfe which he made.
 
 ### Chapter 33
 
@@ -5162,7 +5162,7 @@
 
 **[33:22]** And while my glory passeth by, I will put thee in a cleft of the rocke, and will couer thee with mine hand whiles I passe by.
 
-**[33:23]** After I will take away mine hande, and thou shalt see my backe parts: but my face shall not be seene.  
+**[33:23]** After I will take away mine hande, and thou shalt see my backe parts: but my face shall not be seene.
 
 ### Chapter 34
 
@@ -5182,7 +5182,7 @@
 
 **[34:8]** Then Moses made haste and bowed him selfe to the earth, and worshipped,
 
-**[34:9]** And sayde, O Lord, I pray thee, If I haue founde grace in thy sight, that the Lord woulde nowe goe with vs ( for it is a stiffe necked people) and pardon our iniquitie and our sinne, and take vs for thine inheritance.
+**[34:9]** And sayde, O Lord, I pray thee, If I haue founde grace in thy sight, that the Lord woulde nowe goe with vs (for it is a stiffe necked people) and pardon our iniquitie and our sinne, and take vs for thine inheritance.
 
 **[34:10]** And he answered, Behold, I will make a couenant before all thy people, and will do marueiles, such as haue not bene done in all the worlde, neyther in all nations: and all the people among whom thou art, shall see the worke of the Lord: for it is a terrible thing that I will do with thee.
 
@@ -5234,7 +5234,7 @@
 
 **[34:34]** But, when Moses came before the Lord to speake with him, he tooke off the couering vntill he came out: then he came out, and spake vnto the children of Israel that which he was commanded.
 
-**[34:35]** And the children of Israel sawe the face of Moses, howe the skin of Moses face shone bright: therefore Moses put the couering vpon his face, vntill he went to speake with God.  
+**[34:35]** And the children of Israel sawe the face of Moses, howe the skin of Moses face shone bright: therefore Moses put the couering vpon his face, vntill he went to speake with God.
 
 ### Chapter 35
 
@@ -5306,7 +5306,7 @@
 
 **[35:34]** And he hath put in his heart that hee may teach other: both hee, and Aholiab the sonne of Ahisamach of the tribe of Dan:
 
-**[35:35]** Them hath he filled with wisdome of heart to worke all maner of cunning and broidred, and needle worke: in blewe silke, and in purple, in skarlet, and in fine linnen and weauing, euen to do all maner of worke and subtill inuentions.  
+**[35:35]** Them hath he filled with wisdome of heart to worke all maner of cunning and broidred, and needle worke: in blewe silke, and in purple, in skarlet, and in fine linnen and weauing, euen to do all maner of worke and subtill inuentions.
 
 ### Chapter 36
 
@@ -5384,7 +5384,7 @@
 
 **[36:37]** And he made an hanging for the Tabernacle doore, of blew silke, and purple, and skarlet, and fine twined linnen, and needle worke,
 
-**[36:38]** And the fiue pillars of it with their hookes, and ouerlayde their chapiters and their filets with golde, but their fiue sockets were of brasse.  
+**[36:38]** And the fiue pillars of it with their hookes, and ouerlayde their chapiters and their filets with golde, but their fiue sockets were of brasse.
 
 ### Chapter 37
 
@@ -5444,7 +5444,7 @@
 
 **[37:28]** Also he made the barres of Shittim wood, and ouerlayde them with golde.
 
-**[37:29]** And he made the holy anointing oyle, and the sweete pure incense after ye apothecaries arte.  
+**[37:29]** And he made the holy anointing oyle, and the sweete pure incense after ye apothecaries arte.
 
 ### Chapter 38
 
@@ -5508,7 +5508,7 @@
 
 **[38:30]** Whereof he made the sockets to the doore of the Tabernacle of the Congregation, and the brasen altar, and the brasen grate which was for it, with all the instruments of the Altar,
 
-**[38:31]** And the sockets of the court round about, and the sockets for the court gate, and al the pins of the Tabernacle, and all the pins of the court round about.  
+**[38:31]** And the sockets of the court round about, and the sockets for the court gate, and al the pins of the Tabernacle, and all the pins of the court round about.
 
 ### Chapter 39
 
@@ -5596,7 +5596,7 @@
 
 **[39:42]** According to euery poynt that the Lord had commanded Moses, so the children of Israel made all the worke.
 
-**[39:43]** And Moses beheld al the worke, and behold, they had done it as the Lord had commanded: so had they done: and Moses blessed them.  
+**[39:43]** And Moses beheld al the worke, and behold, they had done it as the Lord had commanded: so had they done: and Moses blessed them.
 
 ### Chapter 40
 
@@ -5674,7 +5674,7 @@
 
 **[40:37]** But if the cloude ascended not, then they iourneyed not till the day that it ascended.
 
-**[40:38]** For the cloude of the Lord was vpon the Tabernacle by day, and fire was in it by night in the sight of all the house of Israel, throughout all their iourneyes.   
+**[40:38]** For the cloude of the Lord was vpon the Tabernacle by day, and fire was in it by night in the sight of all the house of Israel, throughout all their iourneyes.
 
 ## Leviticus
 
@@ -5712,7 +5712,7 @@
 
 **[1:16]** And he shall plucke out his maw with his fethers, and cast them beside the altar on the East part in the place of the ashes.
 
-**[1:17]** And he shall cleaue it with his wings, but not deuide it asunder: and the Priest shall burne it vpon the altar vpon the wood that is in the fire: for it is a burnt offering, an oblation made by fire for a sweete sauour vnto the Lord.  
+**[1:17]** And he shall cleaue it with his wings, but not deuide it asunder: and the Priest shall burne it vpon the altar vpon the wood that is in the fire: for it is a burnt offering, an oblation made by fire for a sweete sauour vnto the Lord.
 
 ### Chapter 2
 
@@ -5746,7 +5746,7 @@
 
 **[2:15]** After, thou shalt put oyle vpon it, and lay incense thereon: for it is a meate offring.
 
-**[2:16]** And the Priest shall burne the memoriall of it, euen of that that is beaten, and of the oyle of it, with all the incense thereof: for it is an offring vnto the Lord made by fire.  
+**[2:16]** And the Priest shall burne the memoriall of it, euen of that that is beaten, and of the oyle of it, with all the incense thereof: for it is an offring vnto the Lord made by fire.
 
 ### Chapter 3
 
@@ -5782,7 +5782,7 @@
 
 **[3:16]** So the Priest shall burne them vpon the altar, as the meate of an offering made by fire for a sweete sauour: all the fatte is the Lordes.
 
-**[3:17]** This shalbe a perpetual ordinance for your generations, throughout al your dwellings, so that ye shall eate neither fatte nor blood.  
+**[3:17]** This shalbe a perpetual ordinance for your generations, throughout al your dwellings, so that ye shall eate neither fatte nor blood.
 
 ### Chapter 4
 
@@ -5854,7 +5854,7 @@
 
 **[4:34]** Then the Priest shall take of the blood of the sinne offring with his finger, and put it vpon the hornes of the burnt offring altar, and shall powre al the rest of the blood thereof at the foote of the altar.
 
-**[4:35]** And he shall take away all the fat thereof, as the fatte of the lambe of the peace offrings is taken away: then the Priest shall burne it vpon the altar with the oblations of the Lord made by fire, and the Priest shall make an atonement for him concerning his sinne that he hath committed, and it shalbe forgiuen him.  
+**[4:35]** And he shall take away all the fat thereof, as the fatte of the lambe of the peace offrings is taken away: then the Priest shall burne it vpon the altar with the oblations of the Lord made by fire, and the Priest shall make an atonement for him concerning his sinne that he hath committed, and it shalbe forgiuen him.
 
 ### Chapter 5
 
@@ -5894,7 +5894,7 @@
 
 **[5:18]** Then shall he bring a ramme without blemishe out of the flocke, in thy estimation worth two shekels for a trespasse offring vnto ye Priest: and the Priest shall make an atonement for him concerning his ignorance wherein he erred, and was not ware: so it shalbe forgiuen him.
 
-**[5:19]** This is the trespasse offring for the trespasse committed against the Lord.  
+**[5:19]** This is the trespasse offring for the trespasse committed against the Lord.
 
 ### Chapter 6
 
@@ -5956,7 +5956,7 @@
 
 **[6:29]** All the males among the Priestes shall eate thereof, for it is most holy.
 
-**[6:30]** But no sinne offering, whose blood is brought into the Tabernacle of the Congregation to make reconciliation in the holy place, shalbe eaten, but shalbe burnt in the fire.  
+**[6:30]** But no sinne offering, whose blood is brought into the Tabernacle of the Congregation to make reconciliation in the holy place, shalbe eaten, but shalbe burnt in the fire.
 
 ### Chapter 7
 
@@ -6034,7 +6034,7 @@
 
 **[7:37]** This is also the lawe of the burnt offring of the meate offring, and of the sinne offring, and of the trespasse offring, and of the consecrations, and of the peace offrings,
 
-**[7:38]** Which the Lord commanded Moses in the mount Sinai, when he commanded the children of Israel to offer their giftes vnto the Lord in the wildernesse of Sinai.  
+**[7:38]** Which the Lord commanded Moses in the mount Sinai, when he commanded the children of Israel to offer their giftes vnto the Lord in the wildernesse of Sinai.
 
 ### Chapter 8
 
@@ -6108,7 +6108,7 @@
 
 **[8:35]** Therefore shall yee abide at the doore of the Tabernacle of the Congregation day and night, seuen dayes, and shall keepe the watch of the Lord, that ye dye not: for so I am commanded.
 
-**[8:36]** So Aaron and his sonnes did all thinges which the Lord had commanded by the hand of Moses.  
+**[8:36]** So Aaron and his sonnes did all thinges which the Lord had commanded by the hand of Moses.
 
 ### Chapter 9
 
@@ -6158,7 +6158,7 @@
 
 **[9:23]** After, Moses and Aaron went into the Tabernacle of the Congregation, and came out, and blessed the people, and the glorie of the Lord appeared to all the people.
 
-**[9:24]** And there came a fire out from the Lord and consumed vpon the Altar the burnt offring and the fatte: which when all the people sawe, they gaue thankes, and fell on their faces.  
+**[9:24]** And there came a fire out from the Lord and consumed vpon the Altar the burnt offring and the fatte: which when all the people sawe, they gaue thankes, and fell on their faces.
 
 ### Chapter 10
 
@@ -6200,7 +6200,7 @@
 
 **[10:19]** And Aaron said vnto Moses, Behold, this day haue they offred their sinne offring, and their burnt offring before the Lord, and such things as thou knowest are come vnto mee: If I had eaten the sinne offring to day, should it haue bene accepted in the sight of the Lord?
 
-**[10:20]** So when Moses heard it, he was content.  
+**[10:20]** So when Moses heard it, he was content.
 
 ### Chapter 11
 
@@ -6296,7 +6296,7 @@
 
 **[11:46]** This is the law of beasts, and of foules, and of euery liuing thing that moueth in the waters, and of euery thing that creepeth vpon the earth:
 
-**[11:47]** That there may be a difference betweene the vncleane and cleane, and betweene the beast that may be eaten, and the beast that ought not to be eaten.  
+**[11:47]** That there may be a difference betweene the vncleane and cleane, and betweene the beast that may be eaten, and the beast that ought not to be eaten.
 
 ### Chapter 12
 
@@ -6314,7 +6314,7 @@
 
 **[12:7]** Who shall offer it before the Lord, and make an atonement for her: so she shalbe purged of the issue of her blood this is the law for her that hath borne a male or female.
 
-**[12:8]** But if she bee not able to bring a lambe, she shall bring two turtles, or two yong pigeons: the one for a burnt offring, and the other for a sinne offring: and the Priest shall make an atonement for her: so she shall be cleane.  
+**[12:8]** But if she bee not able to bring a lambe, she shall bring two turtles, or two yong pigeons: the one for a burnt offring, and the other for a sinne offring: and the Priest shall make an atonement for her: so she shall be cleane.
 
 ### Chapter 13
 
@@ -6434,7 +6434,7 @@
 
 **[13:58]** If thou hast washed ye garment or ye warpe, or ye woofe, or whatsouer thing of skin it be, if the plague be departed therefrom, then shall it be washed the second time, and be cleane.
 
-**[13:59]** This is the lawe of the plague of leprosie in a garment of wollen or linnen, or in the warpe, or in the woofe, or in any thing of skin, to make it cleane or vncleane.  
+**[13:59]** This is the lawe of the plague of leprosie in a garment of wollen or linnen, or in the warpe, or in the woofe, or in any thing of skin, to make it cleane or vncleane.
 
 ### Chapter 14
 
@@ -6550,7 +6550,7 @@
 
 **[14:56]** And of the swelling, and of the skab, and of the white spot.
 
-**[14:57]** This is the lawe of the leprosie to teache when a thing is vncleane, and when it is cleane.  
+**[14:57]** This is the lawe of the leprosie to teache when a thing is vncleane, and when it is cleane.
 
 ### Chapter 15
 
@@ -6618,7 +6618,7 @@
 
 **[15:32]** This is the lawe of him that hath an issue, and of him from whome goeth an issue of seede whereby he is defiled:
 
-**[15:33]** Also of her that is sicke of her floures, and of him that hath a running issue, whether it bee man or woman, and of him that lyeth with her which is vncleane.  
+**[15:33]** Also of her that is sicke of her floures, and of him that hath a running issue, whether it bee man or woman, and of him that lyeth with her which is vncleane.
 
 ### Chapter 16
 
@@ -6688,7 +6688,7 @@
 
 **[16:33]** And shall purge the Holy Sanctuarie and the Tabernacle of the Congregation, and shall clense the altar, and make an atonement for the Priests and for all the people of the Congregation.
 
-**[16:34]** And this shalbe an euerlasting ordinance vnto you, to make an atonement for the children of Israel for all their sinnes once a yeere: and as the Lord commanded Moses, he did.  
+**[16:34]** And this shalbe an euerlasting ordinance vnto you, to make an atonement for the children of Israel for all their sinnes once a yeere: and as the Lord commanded Moses, he did.
 
 ### Chapter 17
 
@@ -6722,7 +6722,7 @@
 
 **[17:15]** And euery person that eateth it which dyeth alone, or that which is torne with beastes, whether it be one of the same countrey or a stranger, he shall both wash his clothes, and wash himselfe in water, and be vncleane vnto the euen: after he shalbe cleane.
 
-**[17:16]** But if he wash them not, nor wash his flesh, then he shall beare his iniquitie.  
+**[17:16]** But if he wash them not, nor wash his flesh, then he shall beare his iniquitie.
 
 ### Chapter 18
 
@@ -6784,7 +6784,7 @@
 
 **[18:29]** For whosoeuer shall commit any of these abominations, the persons that doe so, shall bee cut off from among their people.
 
-**[18:30]** Therefore shall yee keepe mine ordinances that ye do not any of the abominable customes, which haue bene done before you, and that yee defile not your selues therein: for I am the Lord your God.  
+**[18:30]** Therefore shall yee keepe mine ordinances that ye do not any of the abominable customes, which haue bene done before you, and that yee defile not your selues therein: for I am the Lord your God.
 
 ### Chapter 19
 
@@ -6860,7 +6860,7 @@
 
 **[19:36]** You shall haue iust ballances, true weightes, a true Ephah, and a true Hin. I am the Lord your God, which haue brought you out of the lande of Egypt.
 
-**[19:37]** Therefore shall ye obserue all mine ordinances, and all my iudgements, and doe them: I am the Lord.  
+**[19:37]** Therefore shall ye obserue all mine ordinances, and all my iudgements, and doe them: I am the Lord.
 
 ### Chapter 20
 
@@ -6916,7 +6916,7 @@
 
 **[20:26]** Therefore shall ye be holie vnto me: for I the Lord am holy, and I haue separated you from other people, that ye shoulde be mine.
 
-**[20:27]** And if a man or woman haue a spirite of diuination, or soothsaying in them, they shall die the death: they shall stone them to death, their blood shalbe vpon them.  
+**[20:27]** And if a man or woman haue a spirite of diuination, or soothsaying in them, they shall die the death: they shall stone them to death, their blood shalbe vpon them.
 
 ### Chapter 21
 
@@ -6966,7 +6966,7 @@
 
 **[21:23]** But he shall not goe in vnto the vaile, nor come neere the altar, because hee hath a blemish, least he pollute my Sanctuaries: for I am the Lord that sanctifie them.
 
-**[21:24]** Thus spake Moses vnto Aaron, and to his sonnes, and to all the children of Israel.  
+**[21:24]** Thus spake Moses vnto Aaron, and to his sonnes, and to all the children of Israel.
 
 ### Chapter 22
 
@@ -7034,7 +7034,7 @@
 
 **[22:32]** Neither shall ye pollute mine holy Name, but I will be halowed among the children of Israel. I the Lord sanctifie you,
 
-**[22:33]** Which haue brought you out of the land of Egypt, to be your God: I am the Lord.  
+**[22:33]** Which haue brought you out of the land of Egypt, to be your God: I am the Lord.
 
 ### Chapter 23
 
@@ -7124,7 +7124,7 @@
 
 **[23:43]** That your posterity may know that I haue made the children of Israel to dwell in boothes, when I brought them out of the lande of Egypt: I am the Lord your God.
 
-**[23:44]** So Moses declared vnto the children of Israel the feastes of the Lord.  
+**[23:44]** So Moses declared vnto the children of Israel the feastes of the Lord.
 
 ### Chapter 24
 
@@ -7172,7 +7172,7 @@
 
 **[24:22]** Ye shall haue one lawe: it shalbe aswel for the stranger as for one borne in the countrey: for I am the Lord your God.
 
-**[24:23]** Then Moses tolde the children of Israel, and they brought the blasphemer out of the hoste, and stoned him with stones: so the children of Israel did as the Lord had commanded Moses.  
+**[24:23]** Then Moses tolde the children of Israel, and they brought the blasphemer out of the hoste, and stoned him with stones: so the children of Israel did as the Lord had commanded Moses.
 
 ### Chapter 25
 
@@ -7284,7 +7284,7 @@
 
 **[25:54]** And if he be not redeemed thus, he shall go out in the yeere of Iubile, he, and his children with him.
 
-**[25:55]** For vnto me the children of Israel are seruants: they are my seruants, who I haue brought out of the land of Egypt: I am ye Lord your God.  
+**[25:55]** For vnto me the children of Israel are seruants: they are my seruants, who I haue brought out of the land of Egypt: I am ye Lord your God.
 
 ### Chapter 26
 
@@ -7378,7 +7378,7 @@
 
 **[26:45]** But I will remember for them the couenant of olde when I brought them out of ye land of Egypt in the sight of the heathen that I might be their God: I am the Lord.
 
-**[26:46]** These are the ordinances, and the iudgements, and the lawes, which the Lord made betweene him, and the children of Israel in mount Sinai, by the hand of Moses.  
+**[26:46]** These are the ordinances, and the iudgements, and the lawes, which the Lord made betweene him, and the children of Israel in mount Sinai, by the hand of Moses.
 
 ### Chapter 27
 
@@ -7448,7 +7448,7 @@
 
 **[27:33]** He shall not looke if it be good or bad, neither shall he change it: els if he change it, both it, and that it was changed withall, shalbe holy, and it shall not be redeemed.
 
-**[27:34]** These are the commandements which the Lord commanded by Moses vnto the children of Israel in mount Sinai.   
+**[27:34]** These are the commandements which the Lord commanded by Moses vnto the children of Israel in mount Sinai.
 
 ## Numbers
 
@@ -7560,7 +7560,7 @@
 
 **[1:53]** But the Leuites shall pitch rounde about the Tabernacle of the Testimonie, least vengeance come vpon the Congregation of the children of Israel, and the Leuites shall take the charge of the Tabernacle of the Testimonie.
 
-**[1:54]** So the children of Israel did according to all that ye Lord had comanded Moses: so did they.  
+**[1:54]** So the children of Israel did according to all that ye Lord had comanded Moses: so did they.
 
 ### Chapter 2
 
@@ -7630,7 +7630,7 @@
 
 **[2:33]** But the Leuites were not nombred among the children of Israel, as the Lord had commanded Moses.
 
-**[2:34]** And the children of Israel did according to all that the Lord had commanded Moses: so they pitched according to their standards, and so they iourneyed euery one with his families, according to the houses of their fathers.  
+**[2:34]** And the children of Israel did according to all that the Lord had commanded Moses: so they pitched according to their standards, and so they iourneyed euery one with his families, according to the houses of their fathers.
 
 ### Chapter 3
 
@@ -7734,7 +7734,7 @@
 
 **[3:50]** Of the first borne of the children of Israel tooke he the mony: eue a thousand three hundreth three score and fiue shekels after the shekel of the Sanctuarie.
 
-**[3:51]** And Moses gaue the money of them that were redeemed, vnto Aaron and to his sonnes according to the word of the Lord, as the Lord had commanded Moses.  
+**[3:51]** And Moses gaue the money of them that were redeemed, vnto Aaron and to his sonnes according to the word of the Lord, as the Lord had commanded Moses.
 
 ### Chapter 4
 
@@ -7834,7 +7834,7 @@
 
 **[4:48]** So the nombers of them were eight thousand, fiue hundreth and foure score.
 
-**[4:49]** According to the commandement of the Lord by the hand of Moses did Aaron nomber them, euery one according to his seruice, and according to his charge. Thus were they of that tribe nombred, as the Lord commanded Moses.  
+**[4:49]** According to the commandement of the Lord by the hand of Moses did Aaron nomber them, euery one according to his seruice, and according to his charge. Thus were they of that tribe nombred, as the Lord commanded Moses.
 
 ### Chapter 5
 
@@ -7898,7 +7898,7 @@
 
 **[5:30]** Or when a man is moued with a ielous minde being ielous ouer his wife then shall he bring the woman before the Lord, and the Priest shall do to her according to al this lawe,
 
-**[5:31]** And the man shalbe free from sinne, but this woman shall beare her iniquitie.  
+**[5:31]** And the man shalbe free from sinne, but this woman shall beare her iniquitie.
 
 ### Chapter 6
 
@@ -7954,7 +7954,7 @@
 
 **[6:26]** The Lord lift vp his coutenance vpon thee, and giue thee peace.
 
-**[6:27]** So they shall put my Name vpon the children of Israel, and I wil blesse them.  
+**[6:27]** So they shall put my Name vpon the children of Israel, and I wil blesse them.
 
 ### Chapter 7
 
@@ -8134,7 +8134,7 @@
 
 **[7:88]** And all the bullocks for the peace offrings were foure and twentie bullockes, the rammes sixtie, the hee goates sixtie, the lambes of a yeere olde sixtie: this was the dedication of the Altar, after that it was anointed.
 
-**[7:89]** And when Moses went into the Tabernacle of the Congregation, to speake with God, he heard the voyce of one speaking vnto him from the Merciseat, that was vpon the Arke of the Testimonie betweene the two Cherubims, and he spake to him.  
+**[7:89]** And when Moses went into the Tabernacle of the Congregation, to speake with God, he heard the voyce of one speaking vnto him from the Merciseat, that was vpon the Arke of the Testimonie betweene the two Cherubims, and he spake to him.
 
 ### Chapter 8
 
@@ -8188,7 +8188,7 @@
 
 **[8:25]** And after the age of fiftie yeere, they shall cease from executing the office, and shall serue no more:
 
-**[8:26]** But they shall minister with their brethre in the Tabernacle of the Congregation, to keepe things committed to their charge, but they shall doe no seruice: thus shalt thou doe vnto the Leuites touching their charges.  
+**[8:26]** But they shall minister with their brethre in the Tabernacle of the Congregation, to keepe things committed to their charge, but they shall doe no seruice: thus shalt thou doe vnto the Leuites touching their charges.
 
 ### Chapter 9
 
@@ -8236,7 +8236,7 @@
 
 **[9:22]** Or if the cloude taryed two dayes or a moneth, or a yeere vpon the Tabernacle, abiding thereon, the children of Israel abode still, and iourneyed not: but when it was taken vp, they iourneyed.
 
-**[9:23]** At the commandement of the Lord they pitched, and at the commandement of the Lord they iourneyed, keeping the watch of the Lord at the commandement of the Lord by the hand of Moses.  
+**[9:23]** At the commandement of the Lord they pitched, and at the commandement of the Lord they iourneyed, keeping the watch of the Lord at the commandement of the Lord by the hand of Moses.
 
 ### Chapter 10
 
@@ -8310,7 +8310,7 @@
 
 **[10:35]** And when the Arke went forwarde, Moses saide, Rise vp, Lord, and let thine enemies bee scattered, and let them that hate thee, flee before thee.
 
-**[10:36]** And when it rested, hee sayde, Returne, O Lord, to the many thousands of Israel.  
+**[10:36]** And when it rested, hee sayde, Returne, O Lord, to the many thousands of Israel.
 
 ### Chapter 11
 
@@ -8382,7 +8382,7 @@
 
 **[11:34]** So the name of the place was called, Kibroth-hattaauah: for there they buried the people that fell a lusting.
 
-**[11:35]** From Kibroth-hattaauah ye people tooke their iourney to Hazeroth, and abode at Hazeroth.  
+**[11:35]** From Kibroth-hattaauah ye people tooke their iourney to Hazeroth, and abode at Hazeroth.
 
 ### Chapter 12
 
@@ -8414,7 +8414,7 @@
 
 **[12:14]** And the Lord said vnto Moses, If her father had spit in her face, shoulde she not haue bene ashamed seuen dayes? let her be shut out of the hoste seuen dayes, and after she shall bee receiued.
 
-**[12:15]** So Miriam was shut out of the hoste seuen dayes, and the people remooued not, till Miriam was brought in againe.  
+**[12:15]** So Miriam was shut out of the hoste seuen dayes, and the people remooued not, till Miriam was brought in againe.
 
 **[12:16]** 
 
@@ -8484,7 +8484,7 @@
 
 **[13:32]** But the men, that went vp with him, saide, we be not able to goe vp against the people: for they are stronger then we.
 
-**[13:33]** So they brought vp an euill report of the land which they had searched for the children of Israel, saying, The lande which we haue gone through to search it out, is a land that eateth vp the inhabitants thereof: for all the people that we sawe in it, are men of great stature. For there we sawe gyants, the sonnes of Anak, which come of the gyants, so that we seemed in our sight like grashoppers: and so wee were in their sight.  
+**[13:33]** So they brought vp an euill report of the land which they had searched for the children of Israel, saying, The lande which we haue gone through to search it out, is a land that eateth vp the inhabitants thereof: for all the people that we sawe in it, are men of great stature. For there we sawe gyants, the sonnes of Anak, which come of the gyants, so that we seemed in our sight like grashoppers: and so wee were in their sight.
 
 ### Chapter 14
 
@@ -8576,7 +8576,7 @@
 
 **[14:44]** Yet they presumed obstinately to goe vp to the top of the mountaine: but the Arke of the couenant of the Lord, and Moses departed not out of the campe.
 
-**[14:45]** Then the Amalekites and the Canaanites, which dwelt in that mountaine, came downe and smote them, and consumed them vnto Hormah.  
+**[14:45]** Then the Amalekites and the Canaanites, which dwelt in that mountaine, came downe and smote them, and consumed them vnto Hormah.
 
 ### Chapter 15
 
@@ -8660,7 +8660,7 @@
 
 **[15:40]** That yee may remember and doe all my commandements, and bee holy vnto your God.
 
-**[15:41]** I am the Lord your God, which brought you out of the lande of Egypt, to bee your God: I am the Lord your God.  
+**[15:41]** I am the Lord your God, which brought you out of the lande of Egypt, to bee your God: I am the Lord your God.
 
 ### Chapter 16
 
@@ -8762,7 +8762,7 @@
 
 **[16:49]** So they died of this plague fourtene thousande and seuen hundreth, beside them that dyed in the conspiracie of Korah.
 
-**[16:50]** And Aaron went againe vnto Moses before the doore of the Tabernacle of the Congregation, and the plague was stayed.  
+**[16:50]** And Aaron went againe vnto Moses before the doore of the Tabernacle of the Congregation, and the plague was stayed.
 
 ### Chapter 17
 
@@ -8790,7 +8790,7 @@
 
 **[17:12]** And the children of Israel spake vnto Moses, saying, Behold, we are dead, we perish, we are all lost:
 
-**[17:13]** Whosoeuer commeth neere, or approcheth to the Tabernacle of the Lord, shall dye: shall we be consumed and dye?  
+**[17:13]** Whosoeuer commeth neere, or approcheth to the Tabernacle of the Lord, shall dye: shall we be consumed and dye?
 
 ### Chapter 18
 
@@ -8856,7 +8856,7 @@
 
 **[18:31]** And ye shall eate it in al places, ye, and your housholdes: for it is your wages for your seruice in the Tabernacle of the Congregation.
 
-**[18:32]** And ye shall beare no sinne by the reason of it, when ye haue offred the fatte of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.  
+**[18:32]** And ye shall beare no sinne by the reason of it, when ye haue offred the fatte of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.
 
 ### Chapter 19
 
@@ -8902,7 +8902,7 @@
 
 **[19:21]** And it shalbe a perpetual lawe vnto them, that he that sprinkleth the sprinkling water, shall wash his clothes: also hee that toucheth the sprinkling water, shalbe vncleane vntill euen.
 
-**[19:22]** And whatsoeuer the vncleane person toucheth, shall be vncleane: and the person that toucheth him, shalbe vncleane vntill the euen.  
+**[19:22]** And whatsoeuer the vncleane person toucheth, shall be vncleane: and the person that toucheth him, shalbe vncleane vntill the euen.
 
 ### Chapter 20
 
@@ -8962,7 +8962,7 @@
 
 **[20:28]** And Moses put off Aarons clothes, and put them vpon Eleazar his sonne: so Aaron dyed there in the top of the mount: and Moses and Eleazar came downe from off the mount.
 
-**[20:29]** When al the Congregation sawe that Aaron was dead, al the house of Israel wept for Aaron thirtie dayes.  
+**[20:29]** When al the Congregation sawe that Aaron was dead, al the house of Israel wept for Aaron thirtie dayes.
 
 ### Chapter 21
 
@@ -9034,7 +9034,7 @@
 
 **[21:34]** Then the Lord said vnto Moses, Feare him not: for I haue deliuered him into thine hand and all his people, and his land: and thou shalt do to him as thou diddest vnto Sihon the king of the Amorites, which dwelt at Heshbon.
 
-**[21:35]** They smote him therefore, and his sonnes, and all his people, vntill there was none left him: so they conquered his land.  
+**[21:35]** They smote him therefore, and his sonnes, and all his people, vntill there was none left him: so they conquered his land.
 
 ### Chapter 22
 
@@ -9118,7 +9118,7 @@
 
 **[22:40]** Then Balak offred bullockes, and sheepe, and sent thereof to Balaam, and to the princes that were with him.
 
-**[22:41]** And on the morowe Balak tooke Balaam, and brought him vp into the hie places of Baal, that thence hee might see the vtmost part of the people.  
+**[22:41]** And on the morowe Balak tooke Balaam, and brought him vp into the hie places of Baal, that thence hee might see the vtmost part of the people.
 
 ### Chapter 23
 
@@ -9180,7 +9180,7 @@
 
 **[23:29]** Then Balaam sayde vnto Balak, Make me here seuen altars, and prepare me here seuen bullocks, and seuen rammes.
 
-**[23:30]** And Balak did as Balaam had sayd, and offred a bullocke and a ram on euery altar.  
+**[23:30]** And Balak did as Balaam had sayd, and offred a bullocke and a ram on euery altar.
 
 ### Chapter 24
 
@@ -9232,7 +9232,7 @@
 
 **[24:24]** The ships also shall come from the coastes of Chittim, and subdue Asshur, and shall subdue Eber, and he also shall come to destruction.
 
-**[24:25]** Then Balaam rose vp, and went and returned to his place: and Balak also went his way.  
+**[24:25]** Then Balaam rose vp, and went and returned to his place: and Balak also went his way.
 
 ### Chapter 25
 
@@ -9270,7 +9270,7 @@
 
 **[25:17]** Vexe the Midianites, and smite them:
 
-**[25:18]** For they trouble you with their wiles, wherewith they haue beguiled you as concerning Peor, and as concerning their sister Cozbi ye daughter of a prince of Midian, which was slayne in the day of the plague because of Peor.  
+**[25:18]** For they trouble you with their wiles, wherewith they haue beguiled you as concerning Peor, and as concerning their sister Cozbi ye daughter of a prince of Midian, which was slayne in the day of the plague because of Peor.
 
 ### Chapter 26
 
@@ -9402,7 +9402,7 @@
 
 **[26:64]** And among these there was not a man of them, whome Moses and Aaron the Priest nobred, when they tolde the children of Israel in the wildernes of Sinai.
 
-**[26:65]** For the Lord said of them, They shall die in the wildernes: so there was not left a man of them, saue Caleb the sonne of Iephunneh, and Ioshua the sonne of Nun.  
+**[26:65]** For the Lord said of them, They shall die in the wildernes: so there was not left a man of them, saue Caleb the sonne of Iephunneh, and Ioshua the sonne of Nun.
 
 ### Chapter 27
 
@@ -9450,7 +9450,7 @@
 
 **[27:22]** So Moses did as the Lord had commanded him, and he tooke Ioshua, and set him before Eleazar the Priest, and before all the Congregation.
 
-**[27:23]** Then he put his handes vpon him, and gaue him a charge, as the Lord had spoken by the hand of Moses.  
+**[27:23]** Then he put his handes vpon him, and gaue him a charge, as the Lord had spoken by the hand of Moses.
 
 ### Chapter 28
 
@@ -9514,7 +9514,7 @@
 
 **[28:30]** And an hee goate to make an atonement for you:
 
-**[28:31]** (Ye shall doe this besides the continuall burnt offring, and his meate offring:) see they be without blemish, with their drinke offrings.  
+**[28:31]** (Ye shall doe this besides the continuall burnt offring, and his meate offring:) see they be without blemish, with their drinke offrings.
 
 ### Chapter 29
 
@@ -9594,7 +9594,7 @@
 
 **[29:38]** And an hee goat for a sinne offring, beside the continuall burnt offring, and his meate offring, and his drinke offring.
 
-**[29:39]** These things ye shall do vnto the Lord in your feastes, beside your vowes, and your free offrings, for your burnt offrings, and for your meate offrings, and for your drinke offrings and for your peace offrings.  
+**[29:39]** These things ye shall do vnto the Lord in your feastes, beside your vowes, and your free offrings, for your burnt offrings, and for your meate offrings, and for your drinke offrings and for your peace offrings.
 
 **[29:40]** 
 
@@ -9630,7 +9630,7 @@
 
 **[30:15]** But if her husband holde his peace concerning her from day to day, then he stablisheth al her vowes and all her bondes which shee hath made: hee hath confirmed them because he held his peace concerning her the same day that hee hearde them.
 
-**[30:16]** But if he breake them after that he hath heard them, then shall he beare her iniquitie. These are the ordinances which the Lord commanded Moses, betweene a man and his wife, and betweene the father and his daughter, being young in her fathers house.  
+**[30:16]** But if he breake them after that he hath heard them, then shall he beare her iniquitie. These are the ordinances which the Lord commanded Moses, betweene a man and his wife, and betweene the father and his daughter, being young in her fathers house.
 
 ### Chapter 31
 
@@ -9740,7 +9740,7 @@
 
 **[31:53]** (For the men of warre had spoyled, euery man for him selfe)
 
-**[31:54]** And Moses and Eleazar the Priest tooke the golde of the captaines ouer the thousandes, and ouer the hundreds, and brought it into the Tabernacle of the Congregation, for a memoriall of the children of Israel before the Lord.  
+**[31:54]** And Moses and Eleazar the Priest tooke the golde of the captaines ouer the thousandes, and ouer the hundreds, and brought it into the Tabernacle of the Congregation, for a memoriall of the children of Israel before the Lord.
 
 ### Chapter 32
 
@@ -9826,7 +9826,7 @@
 
 **[32:41]** And Iair the sonne of Manasseh went and tooke the small townes thereof, and called them Hauoth Iair.
 
-**[32:42]** Also Nobah went and tooke Kenath, with the villages thereof and called it Nobah, after his owne name.  
+**[32:42]** Also Nobah went and tooke Kenath, with the villages thereof and called it Nobah, after his owne name.
 
 ### Chapter 33
 
@@ -9940,7 +9940,7 @@
 
 **[33:55]** But if ye will not driue out the inhabitants of the land before you, then those which yee let ramaine of them, shalbe prickes in your eyes, and thornes in your sides, and shall vexe you in the land wherein ye dwell.
 
-**[33:56]** Moreouer, it shall come to passe, that I shall doe vnto you, as I thought to do vnto them.  
+**[33:56]** Moreouer, it shall come to passe, that I shall doe vnto you, as I thought to do vnto them.
 
 ### Chapter 34
 
@@ -10000,7 +10000,7 @@
 
 **[34:28]** And of the tribe of the sonnes of Naphtali, the prince Pedahel, the sonne of Ammihud.
 
-**[34:29]** These are they, whome the Lord commanded to deuide the inheritance vnto the children of Israel, in the land of Canaan.  
+**[34:29]** These are they, whome the Lord commanded to deuide the inheritance vnto the children of Israel, in the land of Canaan.
 
 ### Chapter 35
 
@@ -10070,7 +10070,7 @@
 
 **[35:33]** So ye shall not pollute the land wherein ye shall dwell: for blood defileth the land: and the land cannot be clensed of the blood that is shed therein, but by the blood of him that shed it.
 
-**[35:34]** Defile not therefore the lande which yee shall inhabite, For I dwell in the middes thereof: for I the Lord dwel among the children of Israel.  
+**[35:34]** Defile not therefore the lande which yee shall inhabite, For I dwell in the middes thereof: for I the Lord dwel among the children of Israel.
 
 ### Chapter 36
 
@@ -10098,7 +10098,7 @@
 
 **[36:12]** They were wiues to certaine of the families of the sonnes of Manasseh the sonne of Ioseph: so their inheritance remained in the tribe of the familie of their father.
 
-**[36:13]** These are the commandements and lawes which the Lord commanded by the hand of Moses, vnto the children of Israel in the plaine of Moab, by Iorden toward Iericho.   
+**[36:13]** These are the commandements and lawes which the Lord commanded by the hand of Moses, vnto the children of Israel in the plaine of Moab, by Iorden toward Iericho.
 
 ## Deuteronomy
 
@@ -10194,7 +10194,7 @@
 
 **[1:45]** And when ye came againe, ye wept before the Lord, but the Lord would not heare your voyce, nor incline his eares vnto you.
 
-**[1:46]** So ye abode in Kadesh a long time, according to the time that ye had remained before.  
+**[1:46]** So ye abode in Kadesh a long time, according to the time that ye had remained before.
 
 ### Chapter 2
 
@@ -10270,7 +10270,7 @@
 
 **[2:36]** From Aroer, which is by the banke of the riuer of Arnon, and from the citie that is vpon the riuer, euen vnto Gilead: there was not one citie that escaped vs: for the Lord our God deliuered vp all before vs.
 
-**[2:37]** Onely vnto the land of the children of Ammon thou camest not, nor vnto any place of the riuer Iabbok, nor vnto the cities in the mountaines, nor vnto whatsoeuer the Lord our God forbade vs.  
+**[2:37]** Onely vnto the land of the children of Ammon thou camest not, nor vnto any place of the riuer Iabbok, nor vnto the cities in the mountaines, nor vnto whatsoeuer the Lord our God forbade vs.
 
 ### Chapter 3
 
@@ -10330,7 +10330,7 @@
 
 **[3:28]** But charge Ioshua, and incourage him, and bolden him: for hee shall goe before this people, and he shall deuide for inheritance vnto them, the land which thou shalt see.
 
-**[3:29]** So wee abode in the valley ouer against Beth-Peor.  
+**[3:29]** So wee abode in the valley ouer against Beth-Peor.
 
 ### Chapter 4
 
@@ -10430,7 +10430,7 @@
 
 **[4:48]** From Aroer, which is by the banke of the riuer Arnon, euen vnto mount Sion, which is Hermon,
 
-**[4:49]** And all the plaine by Iorden Eastwarde, euen vnto the Sea, of ye plaine, vnder the springs of Pisgah.  
+**[4:49]** And all the plaine by Iorden Eastwarde, euen vnto the Sea, of ye plaine, vnder the springs of Pisgah.
 
 ### Chapter 5
 
@@ -10498,7 +10498,7 @@
 
 **[5:32]** Take heede therefore, that ye doe as the Lord your God hath commanded you: turne not aside to the right hand nor to the left,
 
-**[5:33]** But walke in all the wayes which the Lord your God hath commanded you, that ye may liue, and that it may goe well with you: and that ye may prolong your dayes in the land which ye shall possesse.  
+**[5:33]** But walke in all the wayes which the Lord your God hath commanded you, that ye may liue, and that it may goe well with you: and that ye may prolong your dayes in the land which ye shall possesse.
 
 ### Chapter 6
 
@@ -10550,7 +10550,7 @@
 
 **[6:24]** Therefore the Lord hath commanded vs, to doe all these ordinances, and to feare the Lord our God, that it may goe euer well with vs, and that he may preserue vs aliue as at this present.
 
-**[6:25]** Moreouer, this shall be our righteousnes before the Lord our God, if we take heede to keepe all these commandements, as he hath commanded vs.  
+**[6:25]** Moreouer, this shall be our righteousnes before the Lord our God, if we take heede to keepe all these commandements, as he hath commanded vs.
 
 ### Chapter 7
 
@@ -10604,7 +10604,7 @@
 
 **[7:25]** The grauen images of their gods shall ye burne with fire, and couet not the siluer and golde, that is on them, nor take it vnto thee, least thou be snared therewith: for it is an abomination before the Lord thy God.
 
-**[7:26]** Bring not therefore abomination into thine house, lest, thou be accursed like it, but vtterly abhorre it, and count it most abominable: for it is accursed.  
+**[7:26]** Bring not therefore abomination into thine house, lest, thou be accursed like it, but vtterly abhorre it, and count it most abominable: for it is accursed.
 
 ### Chapter 8
 
@@ -10646,7 +10646,7 @@
 
 **[8:19]** And if thou forget the Lord thy God, and walke after other gods, and serue them, and worship them, I testifie vnto you this day that ye shall surely perish.
 
-**[8:20]** As the nations which the Lord destroyeth before you, so ye shall perish, because ye woulde not be obedient vnto the voyce of the Lord your God.  
+**[8:20]** As the nations which the Lord destroyeth before you, so ye shall perish, because ye woulde not be obedient vnto the voyce of the Lord your God.
 
 ### Chapter 9
 
@@ -10706,7 +10706,7 @@
 
 **[9:28]** Lest the countrey, whence thou broughtest them, say, Because ye Lord was not able to bring them into the land which he promised them, or because he hated them, he caried them out, to slay them in the wildernesse.
 
-**[9:29]** Yet they are thy people, and thine inheritance, which thou broughtest out by thy mightie power, and by thy stretched out arme.  
+**[9:29]** Yet they are thy people, and thine inheritance, which thou broughtest out by thy mightie power, and by thy stretched out arme.
 
 ### Chapter 10
 
@@ -10752,7 +10752,7 @@
 
 **[10:21]** He is thy praise, and hee is thy God, that hath done for thee these great and terrible things, which thine eyes haue seene.
 
-**[10:22]** Thy fathers went downe into Egypt with seuentie persons, and now the Lord thy God hath made thee, as ye starres of ye heauen in multitude.  
+**[10:22]** Thy fathers went downe into Egypt with seuentie persons, and now the Lord thy God hath made thee, as ye starres of ye heauen in multitude.
 
 ### Chapter 11
 
@@ -10818,7 +10818,7 @@
 
 **[11:31]** For yee shall passe ouer Iorden, to goe in to possesse the land, which ye Lord your God giueth you, and ye shall possesse it, and dwell therein.
 
-**[11:32]** Take heede therefore that ye doe all the commandements and the lawes, which I set before you this day.  
+**[11:32]** Take heede therefore that ye doe all the commandements and the lawes, which I set before you this day.
 
 ### Chapter 12
 
@@ -10884,7 +10884,7 @@
 
 **[12:31]** Thou shalt not doe so vnto the Lord thy God: for al abomination, which the Lord hateth, haue they done vnto their gods: for they haue burned both their sonnes and their daughters with fire to their gods.
 
-**[12:32]** Therefore whatsoeuer I command you, take heede you doe it: thou shalt put nothing thereto, nor take ought therefrom.  
+**[12:32]** Therefore whatsoeuer I command you, take heede you doe it: thou shalt put nothing thereto, nor take ought therefrom.
 
 ### Chapter 13
 
@@ -10922,7 +10922,7 @@
 
 **[13:17]** And there shall cleaue nothing of ye damned thing to thine hand, that the Lord may turne from the fiercenes of his wrath, and shewe thee mercie, and haue compassion on thee and multiplie thee, as he hath sworne vnto thy fathers:
 
-**[13:18]** When thou shalt obey the voyce of the Lord thy God, and keepe all his commandements which I command thee this day, that thou do that which is right in the eyes of the Lord thy God.  
+**[13:18]** When thou shalt obey the voyce of the Lord thy God, and keepe all his commandements which I command thee this day, that thou do that which is right in the eyes of the Lord thy God.
 
 ### Chapter 14
 
@@ -10982,7 +10982,7 @@
 
 **[14:28]** At the end of three yeere thou shalt bring foorth all the tithes of thine increase of the same yeere, and lay it vp within thy gates.
 
-**[14:29]** Then ye Leuite shall come, because he hath no part nor inheritance with thee, and the stranger, and the fatherlesse, and the widowe, which are within thy gates, and shall eate, and be filled, that the Lord thy God may blesse thee in al the worke of thine hand which thou doest.  
+**[14:29]** Then ye Leuite shall come, because he hath no part nor inheritance with thee, and the stranger, and the fatherlesse, and the widowe, which are within thy gates, and shall eate, and be filled, that the Lord thy God may blesse thee in al the worke of thine hand which thou doest.
 
 ### Chapter 15
 
@@ -11030,7 +11030,7 @@
 
 **[15:22]** But shalt eate it within thy gates: the vncleane, and the cleane shall eate it alike, as the roe bucke, and as the hart.
 
-**[15:23]** Onely thou shalt not eate the blood thereof, but powre it vpon the ground as water.  
+**[15:23]** Onely thou shalt not eate the blood thereof, but powre it vpon the ground as water.
 
 ### Chapter 16
 
@@ -11076,7 +11076,7 @@
 
 **[16:21]** Thou shalt plant thee no groue of any trees neere vnto the altar of the Lord thy God, which thou shalt make thee.
 
-**[16:22]** Thou shalt set thee vp no pillar, which thing the Lord thy God hateth.  
+**[16:22]** Thou shalt set thee vp no pillar, which thing the Lord thy God hateth.
 
 ### Chapter 17
 
@@ -11118,7 +11118,7 @@
 
 **[17:19]** And it shall be with him, and he shall reade therein all daies of his life, that he may learne to feare the Lord his God, and to keepe all ye words of this Lawe, and these ordinances for to doe them:
 
-**[17:20]** That his heart be not lifted vp aboue his brethren, and that he turne not from the commandement, to the right hand or to the left, but that he may prolong his daies in his kingdom, he, and his sonnes in the middes of Israel.  
+**[17:20]** That his heart be not lifted vp aboue his brethren, and that he turne not from the commandement, to the right hand or to the left, but that he may prolong his daies in his kingdom, he, and his sonnes in the middes of Israel.
 
 ### Chapter 18
 
@@ -11164,7 +11164,7 @@
 
 **[18:21]** And if thou thinke in thine heart, Howe shall we knowe the worde which the Lord hath not spoken?
 
-**[18:22]** When a prophet speaketh in the Name of the Lord, if the thing follow not nor come to passe, that is the thing which the Lord hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not therefore be afraid of him.  
+**[18:22]** When a prophet speaketh in the Name of the Lord, if the thing follow not nor come to passe, that is the thing which the Lord hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not therefore be afraid of him.
 
 ### Chapter 19
 
@@ -11208,7 +11208,7 @@
 
 **[19:20]** And the rest shall heare this, and feare, and shall henceforth commit no more any such wickednes among you.
 
-**[19:21]** Therefore thine eye shall have no compassion, but life for life, eye for eye, tooth for tooth, hand for hand, foote for foote.  
+**[19:21]** Therefore thine eye shall have no compassion, but life for life, eye for eye, tooth for tooth, hand for hand, foote for foote.
 
 ### Chapter 20
 
@@ -11250,7 +11250,7 @@
 
 **[20:19]** When thou hast besieged a citie long time, and made warre against it to take it, destroy not the trees therof, by smiting an axe into them: for thou mayest eate of them: therfore thou shalt not cut them downe to further thee in the siege, (for the tree of the field is mans life)
 
-**[20:20]** Onely those trees, which thou knowest are not for meate, those shalt thou destroy and cut downe, and make fortes against the citie that maketh warre with thee, vntil thou subdue it.  
+**[20:20]** Onely those trees, which thou knowest are not for meate, those shalt thou destroy and cut downe, and make fortes against the citie that maketh warre with thee, vntil thou subdue it.
 
 ### Chapter 21
 
@@ -11298,7 +11298,7 @@
 
 **[21:22]** If a man also haue committed a trespasse worthy of death, and is put to death, and thou hangest him on a tree,
 
-**[21:23]** His body shall not remaine all night vpon the tree, but thou shalt bury him the same day: for the curse of God is on him that is hanged. Defile not therfore thy land which the Lord thy God giueth thee to inherite.  
+**[21:23]** His body shall not remaine all night vpon the tree, but thou shalt bury him the same day: for the curse of God is on him that is hanged. Defile not therfore thy land which the Lord thy God giueth thee to inherite.
 
 ### Chapter 22
 
@@ -11360,7 +11360,7 @@
 
 **[22:29]** Then the man that lay with her, shall giue vnto the maydes father fiftie shekels of siluer: and she shalbe his wife, because he hath humbled her: he can not put her away all his life.
 
-**[22:30]** No man shall take his fathers wife, nor shall vncouer his fathers skirt.  
+**[22:30]** No man shall take his fathers wife, nor shall vncouer his fathers skirt.
 
 ### Chapter 23
 
@@ -11412,7 +11412,7 @@
 
 **[23:24]** When thou commest vnto thy neighbours vineyard, then thou mayest eate grapes at thy pleasure, as much as thou wilt: but thou shalt put none in thy vessell.
 
-**[23:25]** When thou commest into thy neighbours corne thou mayest plucke the eares with thine hand, but thou shalt not moue a sickle to thy neighbours corne.  
+**[23:25]** When thou commest into thy neighbours corne thou mayest plucke the eares with thine hand, but thou shalt not moue a sickle to thy neighbours corne.
 
 ### Chapter 24
 
@@ -11458,7 +11458,7 @@
 
 **[24:21]** When thou gatherest thy vineyard, thou shalt not gather the grapes cleane after thee, but they shalbe for the stranger, for the fatherlesse, and for the widowe.
 
-**[24:22]** And remember that thou wast a seruant in the land of Egypt: therefore I command thee to doe this thing.  
+**[24:22]** And remember that thou wast a seruant in the land of Egypt: therefore I command thee to doe this thing.
 
 ### Chapter 25
 
@@ -11498,7 +11498,7 @@
 
 **[25:18]** How he met thee by ye way, and smote ye hindmost of you, all that were feeble behind thee, when thou wast fainted and weary, and he feared not God.
 
-**[25:19]** Therefore, when the Lord thy God hath giuen thee rest from all thine enemies round about in the land, which the Lord thy God giueth thee for an inheritance to possesse it, then thou shalt put out the remembrance of Amalek from vnder heauen: forget not.  
+**[25:19]** Therefore, when the Lord thy God hath giuen thee rest from all thine enemies round about in the land, which the Lord thy God giueth thee for an inheritance to possesse it, then thou shalt put out the remembrance of Amalek from vnder heauen: forget not.
 
 ### Chapter 26
 
@@ -11538,7 +11538,7 @@
 
 **[26:18]** And the Lord hath set thee vp this day, to be a precious people vnto him (as hee hath promised thee) and that thou shouldest keepe all his commandements,
 
-**[26:19]** And to make thee high aboue al nations (which he hath made) in praise, and in name, and in glory, and that thou shouldest be an holy people vnto the Lord thy God, as he hath said.  
+**[26:19]** And to make thee high aboue al nations (which he hath made) in praise, and in name, and in glory, and that thou shouldest be an holy people vnto the Lord thy God, as he hath said.
 
 ### Chapter 27
 
@@ -11592,7 +11592,7 @@
 
 **[27:25]** Cursed be he that taketh a reward to put to death innocent blood: And all the people shall say: So be it.
 
-**[27:26]** Cursed be he that confirmeth not all the wordes of this Law, to do them: And all the people shall say: So be it.  
+**[27:26]** Cursed be he that confirmeth not all the wordes of this Law, to do them: And all the people shall say: So be it.
 
 ### Chapter 28
 
@@ -11730,7 +11730,7 @@
 
 **[28:67]** In the morning thou shalt say, Woulde God it were euening, and at the euening thou shalt say, Would God it were morning, for ye feare of thine heart, which thou shalt feare, and for the sight of thine eyes, which thou shalt see.
 
-**[28:68]** And the Lord shall bring thee into Egypt againe with shippes by the way, whereof I saide vnto thee, Thou shalt see it no more againe: and there yee shall sell your selues vnto your enemies for bondmen and bondwomen, and there shalbe no byer.  
+**[28:68]** And the Lord shall bring thee into Egypt againe with shippes by the way, whereof I saide vnto thee, Thou shalt see it no more againe: and there yee shall sell your selues vnto your enemies for bondmen and bondwomen, and there shalbe no byer.
 
 ### Chapter 29
 
@@ -11790,7 +11790,7 @@
 
 **[29:28]** And ye Lord hath rooted them out of their land in anger, and in wrath, and in great indignation, and hath cast them into another land, as appeareth this day.
 
-**[29:29]** The secret things belong to the Lord our God, but the things reueiled belong vnto vs, and to our children for euer, that we may doe all the wordes of this Lawe.  
+**[29:29]** The secret things belong to the Lord our God, but the things reueiled belong vnto vs, and to our children for euer, that we may doe all the wordes of this Lawe.
 
 ### Chapter 30
 
@@ -11832,7 +11832,7 @@
 
 **[30:19]** I call heauen and earth to recorde this day against you, that I haue set before you life and death, blessing and cursing. therefore chuse life, that both thou and thy seede may liue,
 
-**[30:20]** By louing the Lord thy God, by obeying his voyce, and by cleauing vnto him: for he is thy life, and the length of thy dayes: that thou mayest dwell in the lande which the Lord sware vnto thy fathers, Abraham, Izhak, and Iaakob, to giue them.  
+**[30:20]** By louing the Lord thy God, by obeying his voyce, and by cleauing vnto him: for he is thy life, and the length of thy dayes: that thou mayest dwell in the lande which the Lord sware vnto thy fathers, Abraham, Izhak, and Iaakob, to giue them.
 
 ### Chapter 31
 
@@ -11894,7 +11894,7 @@
 
 **[31:29]** For I am sure that after my death ye will vtterly be corrupt and turne from the way, which I haue commanded you: therefore euill will come vpon you at the length, because ye will comit euill in the sight of the Lord, by prouoking him to anger through the worke of your hands.
 
-**[31:30]** Thus Moses spake in the audience of all the congregation of Israel the wordes of this song, vntill he had ended them.  
+**[31:30]** Thus Moses spake in the audience of all the congregation of Israel the wordes of this song, vntill he had ended them.
 
 ### Chapter 32
 
@@ -12000,7 +12000,7 @@
 
 **[32:51]** Because ye trespassed against me among the children of Israel, at the waters of Meribah, at Kadesh in the wildernesse of Zin: for ye sanctified me not among the children of Israel.
 
-**[32:52]** Thou shalt therefore see the lande before thee, but shalt not go thither, I meane, into the land which I giue the children of Israel.  
+**[32:52]** Thou shalt therefore see the lande before thee, but shalt not go thither, I meane, into the land which I giue the children of Israel.
 
 ### Chapter 33
 
@@ -12060,7 +12060,7 @@
 
 **[33:28]** Then Israel the fountaine of Iaakob shall dwell alone in safetie in a lande of wheat, and wine: also his heauens shall drop the dewe.
 
-**[33:29]** Blessed art thou, O Israel: who is like vnto thee, O people saued by the Lord, the shielde of thine helpe, and which is the sword of thy glorie? therefore thine enemies shall bee in subiection to thee, and thou shalt tread vpon their hie places.  
+**[33:29]** Blessed art thou, O Israel: who is like vnto thee, O people saued by the Lord, the shielde of thine helpe, and which is the sword of thy glorie? therefore thine enemies shall bee in subiection to thee, and thou shalt tread vpon their hie places.
 
 ### Chapter 34
 
@@ -12086,7 +12086,7 @@
 
 **[34:11]** In all ye miracles and wonders which ye Lord sent him to do in ye land of Egypt before Pharaoh and before all his seruantes, and before al his land,
 
-**[34:12]** And in all that mightie hand and all that great feare, which Moses wrought in the sight of all Israel.   
+**[34:12]** And in all that mightie hand and all that great feare, which Moses wrought in the sight of all Israel.
 
 ## Joshua
 
@@ -12126,7 +12126,7 @@
 
 **[1:17]** As we obeyed Moses in all things, so will we obey thee: onely the Lord thy God be with thee, as he was with Moses.
 
-**[1:18]** Whosoeuer shall rebell against thy commandement, and will not obey thy wordes in all that thou commaundest him, let him bee put to death: onely be strong and of good courage.  
+**[1:18]** Whosoeuer shall rebell against thy commandement, and will not obey thy wordes in all that thou commaundest him, let him bee put to death: onely be strong and of good courage.
 
 ### Chapter 2
 
@@ -12176,7 +12176,7 @@
 
 **[2:23]** So the two men returned, and descended from the mountaine, and passed ouer, and came to Ioshua the sonne of Nun, and tolde him all things that came vnto them.
 
-**[2:24]** Also they saide vnto Ioshua, Surely the Lord hath deliuered into our handes all the lande: for euen all the inhabitants of the countrey faint because of vs.  
+**[2:24]** Also they saide vnto Ioshua, Surely the Lord hath deliuered into our handes all the lande: for euen all the inhabitants of the countrey faint because of vs.
 
 ### Chapter 3
 
@@ -12212,7 +12212,7 @@
 
 **[3:16]** Then the waters that came downe from aboue, stayed and rose vpon an heape and departed farre from the citie of Adam, that was beside Zaretan: but the waters that came downe towarde the Sea of the wildernes, euen the salt Sea, failed, and were cut off: so the people went right ouer against Iericho.
 
-**[3:17]** But the Priestes that bare the Arke of the couenant of the Lord, stoode drie within Iorden readie prepared, and all the Israelites went ouer dry, vntill all the people were gone cleane ouer through Iorden.  
+**[3:17]** But the Priestes that bare the Arke of the couenant of the Lord, stoode drie within Iorden readie prepared, and all the Israelites went ouer dry, vntill all the people were gone cleane ouer through Iorden.
 
 ### Chapter 4
 
@@ -12262,7 +12262,7 @@
 
 **[4:23]** For the Lord your God dryed vp ye waters of Iorden before you, vntill ye were gone ouer, as the Lord your God did the red Sea, which hee dryed vp before vs, till we were gone ouer,
 
-**[4:24]** That all the people of the worlde may know that the hand of the Lord is mightie, that ye might feare the Lord your God continually.  
+**[4:24]** That all the people of the worlde may know that the hand of the Lord is mightie, that ye might feare the Lord your God continually.
 
 ### Chapter 5
 
@@ -12294,7 +12294,7 @@
 
 **[5:14]** And he said, Nay, but as a captaine of the host of the Lord am I nowe come: then Ioshua fel on his face to the earth, and did worship, and saide vnto him, What sayth my Lord vnto his seruant?
 
-**[5:15]** And the captaine of ye Lords host said vnto Ioshua, Loose thy shoe of thy foote: for ye place wheron thou standest, is holy: and Ioshua did so.  
+**[5:15]** And the captaine of ye Lords host said vnto Ioshua, Loose thy shoe of thy foote: for ye place wheron thou standest, is holy: and Ioshua did so.
 
 ### Chapter 6
 
@@ -12350,7 +12350,7 @@
 
 **[6:26]** And Ioshua sware at that time, saying, Cursed be the man before ye Lord, that riseth vp, and buildeth this citie Iericho: hee shall lay the foundation thereof in his eldest sonne, and in his yongest sonne shall hee set vp the gates of it.
 
-**[6:27]** So the Lord was with Ioshua, and he was famous through all the world.  
+**[6:27]** So the Lord was with Ioshua, and he was famous through all the world.
 
 ### Chapter 7
 
@@ -12404,7 +12404,7 @@
 
 **[7:25]** And Ioshua said, In as much as thou hast troubled vs, the Lord shall trouble thee this day: and all Israel threwe stones at him, and burned them with fire, and stoned them with stones.
 
-**[7:26]** And they cast vpon him a great heape of stones vnto this day: and so the Lord turned from his fierce wrath: therefore hee called the name of that place, The valley of Achor, vnto this day.  
+**[7:26]** And they cast vpon him a great heape of stones vnto this day: and so the Lord turned from his fierce wrath: therefore hee called the name of that place, The valley of Achor, vnto this day.
 
 ### Chapter 8
 
@@ -12476,7 +12476,7 @@
 
 **[8:34]** Then afterwarde hee read all the wordes of the Lawe, the blessings and cursings, according to all that is written in the booke of the Lawe.
 
-**[8:35]** There was not a worde of all that Moses had commanded, which Ioshua read not before all the Congregation of Israel, as well before the women and the children, as the stranger that was conuersant among them.  
+**[8:35]** There was not a worde of all that Moses had commanded, which Ioshua read not before all the Congregation of Israel, as well before the women and the children, as the stranger that was conuersant among them.
 
 ### Chapter 9
 
@@ -12532,7 +12532,7 @@
 
 **[9:26]** Euen so did he vnto them, and deliuered them out of the hand of the children of Israel, that they slewe them not.
 
-**[9:27]** And Ioshua appointed them that same day to be hewers of wood, and drawers of water for the Congregation, and for the altar of the Lord vnto this day, in the place which he should chuse.  
+**[9:27]** And Ioshua appointed them that same day to be hewers of wood, and drawers of water for the Congregation, and for the altar of the Lord vnto this day, in the place which he should chuse.
 
 ### Chapter 10
 
@@ -12620,7 +12620,7 @@
 
 **[10:42]** And all these Kings, and their land did Ioshua take at one time, because the Lord God of Israel fought for Israel.
 
-**[10:43]** Afterward, Ioshua and all Israel with him returned vnto the campe in Gilgal.  
+**[10:43]** Afterward, Ioshua and all Israel with him returned vnto the campe in Gilgal.
 
 ### Chapter 11
 
@@ -12668,7 +12668,7 @@
 
 **[11:22]** There was no Anakim left in the lande of the children of Israel: onely in Azzah, in Gath, and in Ashdod were they left.
 
-**[11:23]** So Ioshua tooke the whole land, according to all that the Lord had saide vnto Moses: and Ioshua gaue it for an inheritance vnto Israel according to their portion through their tribes: then the land was at rest without warre.  
+**[11:23]** So Ioshua tooke the whole land, according to all that the Lord had saide vnto Moses: and Ioshua gaue it for an inheritance vnto Israel according to their portion through their tribes: then the land was at rest without warre.
 
 ### Chapter 12
 
@@ -12718,7 +12718,7 @@
 
 **[12:23]** The King of Dor, in the countrey of Dor, one: the King of the nations of Gilgal, one:
 
-**[12:24]** The King of Tirzah, one. all the Kings were thirtie and one.  
+**[12:24]** The King of Tirzah, one. all the Kings were thirtie and one.
 
 ### Chapter 13
 
@@ -12786,7 +12786,7 @@
 
 **[13:32]** These are the heritages, which Moses did distribute in the plaine of Moab beyond Iorden, toward Iericho Eastward.
 
-**[13:33]** But vnto the tribe of Leui Moses gaue none inheritance: for the Lord God of Israel is their inheritance, as he said vnto them.  
+**[13:33]** But vnto the tribe of Leui Moses gaue none inheritance: for the Lord God of Israel is their inheritance, as he said vnto them.
 
 ### Chapter 14
 
@@ -12818,7 +12818,7 @@
 
 **[14:14]** Hebron therefore became the inheritance of Caleb the sonne of Iephunneh the Kenezite, vnto this day: because he followed constantly the Lord God of Israel.
 
-**[14:15]** And the name of Hebron was before time, Kiriath-arba: which Arba was a great man amog the Anakims: thus the land ceassed from warre.  
+**[14:15]** And the name of Hebron was before time, Kiriath-arba: which Arba was a great man amog the Anakims: thus the land ceassed from warre.
 
 ### Chapter 15
 
@@ -12946,7 +12946,7 @@
 
 **[15:62]** And Nibshan, and the citie of salt, and Engedi: sixe cities with their villages.
 
-**[15:63]** Neuerthelesse, the Iebusites that were the inhabitants of Ierusalem, could not the children of Iudah cast out, but the Iebusites dwell with the children of Iudah at Ierusalem vnto this day.  
+**[15:63]** Neuerthelesse, the Iebusites that were the inhabitants of Ierusalem, could not the children of Iudah cast out, but the Iebusites dwell with the children of Iudah at Ierusalem vnto this day.
 
 ### Chapter 16
 
@@ -12968,7 +12968,7 @@
 
 **[16:9]** And the separate cities for the children of Ephraim were among the inheritance of the children of Manasseh: all the cities with their villages.
 
-**[16:10]** And they cast not out the Canaanite that dwelt in Gezer, but the Canaanite dwelt among the Ephraimites vnto this day, and serued vnder tribute.  
+**[16:10]** And they cast not out the Canaanite that dwelt in Gezer, but the Canaanite dwelt among the Ephraimites vnto this day, and serued vnder tribute.
 
 ### Chapter 17
 
@@ -13006,7 +13006,7 @@
 
 **[17:17]** And Ioshua spake vnto the house of Ioseph, to Ephraim, and to Manasseh, saying, Thou art a great people, and hast great power, and shalt not haue one lot.
 
-**[17:18]** Therefore the mountaine shall be thine: for it is a wood, and thou shalt cut it downe: and the endes of it shall be thine, and thou shalt cast out the Canaanites, though they haue yron charets, and though they be strong.  
+**[17:18]** Therefore the mountaine shall be thine: for it is a wood, and thou shalt cut it downe: and the endes of it shall be thine, and thou shalt cast out the Canaanites, though they haue yron charets, and though they be strong.
 
 ### Chapter 18
 
@@ -13064,7 +13064,7 @@
 
 **[18:27]** And Rekem, and Irpeel, and Taralah,
 
-**[18:28]** And Zela, Eleph, and Iebusi, (which is Ierusalem) Gibeath, and Kiriath: fourteene cities with their villages: this is the inheritance of the children of Beniamin according to their families.  
+**[18:28]** And Zela, Eleph, and Iebusi, (which is Ierusalem) Gibeath, and Kiriath: fourteene cities with their villages: this is the inheritance of the children of Beniamin according to their families.
 
 ### Chapter 19
 
@@ -13168,7 +13168,7 @@
 
 **[19:50]** According to the worde of the Lord they gaue him the citie which hee asked, euen Timnath-serah in mount Ephraim: and hee built the citie and dwelt therein.
 
-**[19:51]** These are ye heritages which Eleazar the Priest, and Ioshua the sonne of Nun, and the chiefe fathers of the tribes of the children of Israel deuided by lot in Shiloh before the Lord at the doore of the Tabernacle of the Congregation: so they made an ende of deuiding the countrey.  
+**[19:51]** These are ye heritages which Eleazar the Priest, and Ioshua the sonne of Nun, and the chiefe fathers of the tribes of the children of Israel deuided by lot in Shiloh before the Lord at the doore of the Tabernacle of the Congregation: so they made an ende of deuiding the countrey.
 
 ### Chapter 20
 
@@ -13188,7 +13188,7 @@
 
 **[20:8]** And on the other side Iorden toward Iericho Eastward, they appoynted Bezer in the wildernesse vpon the plaine, out of the tribe of Reuben, and Ramoth in Gilead, out of the tribe of Gad, and Golan in Bashan, out of the tribe of Manasseh.
 
-**[20:9]** These were the cities appoynted for all the children of Israel, and for the stranger that soiourned among them, that whosoeuer killed any person ignorantly, might flee thither, and not die by the hande of the auenger of blood, vntill hee stoode before the Congregation.  
+**[20:9]** These were the cities appoynted for all the children of Israel, and for the stranger that soiourned among them, that whosoeuer killed any person ignorantly, might flee thither, and not die by the hande of the auenger of blood, vntill hee stoode before the Congregation.
 
 ### Chapter 21
 
@@ -13280,7 +13280,7 @@
 
 **[21:44]** Also the Lord gaue them rest rounde about according to all that hee had sworne vnto their fathers: and there stoode not a man of all their enemies before them: for the Lord deliuered all their enemies into their hand.
 
-**[21:45]** There failed nothing of all the good things, which the Lord hath sayde vnto the house of Israel, but all came to passe.  
+**[21:45]** There failed nothing of all the good things, which the Lord hath sayde vnto the house of Israel, but all came to passe.
 
 ### Chapter 22
 
@@ -13350,7 +13350,7 @@
 
 **[22:33]** And the saying pleased the children of Israel: and the children of Israel blessed God, and minded not to goe against them in battell, for to destroy the land, wherein the children of Reuben, and Gad dwelt.
 
-**[22:34]** Then the children of Reuben, and the children of Gad called the altar Ed: for it shall be a witnesse betweene vs, that the Lord is God.  
+**[22:34]** Then the children of Reuben, and the children of Gad called the altar Ed: for it shall be a witnesse betweene vs, that the Lord is God.
 
 ### Chapter 23
 
@@ -13384,7 +13384,7 @@
 
 **[23:15]** Therefore as all good things are come vpon you, which the Lord your God promised you, so shall the Lord bring vpon you euery euill thing, vntill he haue destroyed you out of this good land, which ye Lord your God hath giue you.
 
-**[23:16]** When ye shall transgresse the couenant of the Lord your God, which he commanded you, and shall goe and serue other gods, and bowe your selues to them, then shall the wrath of the Lord waxe hote against you, and ye shall perish quickely out of the good lande which he hath giuen you.  
+**[23:16]** When ye shall transgresse the couenant of the Lord your God, which he commanded you, and shall goe and serue other gods, and bowe your selues to them, then shall the wrath of the Lord waxe hote against you, and ye shall perish quickely out of the good lande which he hath giuen you.
 
 ### Chapter 24
 
@@ -13452,7 +13452,7 @@
 
 **[24:32]** And the bones of Ioseph, which the children of Israel brought out of Egypt, buried they in Shechem in a parcell of ground which Iaakob bought of the sonnes of Hamor the father of Shechem, for an hundreth pieces of siluer, and the children of Ioseph had them in their inheritance.
 
-**[24:33]** Also Eleazar the sonne of Aaron died, whome they buried in the hill of Phinehas his sonne, which was giuen him in mount Ephraim.   
+**[24:33]** Also Eleazar the sonne of Aaron died, whome they buried in the hill of Phinehas his sonne, which was giuen him in mount Ephraim.
 
 ## Judges
 
@@ -13528,7 +13528,7 @@
 
 **[1:35]** And the Ammonites dwelt still in mount Heres in Aijalon, and in Shaalbim, and when the hand of Iosephs familie preuailed, they became tributaries:
 
-**[1:36]** And the coast of the Amorites was from Maaleh-akrabbim, euen from Selah and vpward.  
+**[1:36]** And the coast of the Amorites was from Maaleh-akrabbim, euen from Selah and vpward.
 
 ### Chapter 2
 
@@ -13576,7 +13576,7 @@
 
 **[2:22]** That through them I may proue Israel, whether they wil keepe the way of the Lord, to walke therein, as their fathers kept it, or not.
 
-**[2:23]** So the Lord left those nations, and droue them not out immediatly, neither deliuered them into the hand of Ioshua.  
+**[2:23]** So the Lord left those nations, and droue them not out immediatly, neither deliuered them into the hand of Ioshua.
 
 ### Chapter 3
 
@@ -13640,7 +13640,7 @@
 
 **[3:30]** So Moab was subdued that daye, vnder the hand of Israel: and the land had rest fourescore yeeres.
 
-**[3:31]** And after him was Shamgar the sonne of Anath, which slewe of the Philistims sixe hundreth men with an oxe goade, and he also deliuered Israel.  
+**[3:31]** And after him was Shamgar the sonne of Anath, which slewe of the Philistims sixe hundreth men with an oxe goade, and he also deliuered Israel.
 
 ### Chapter 4
 
@@ -13690,7 +13690,7 @@
 
 **[4:23]** So God brought downe Iabin the King of Canaan that day before the children of Israel.
 
-**[4:24]** And the hande of the children of Israel prospered, and preuailed against Iabin the King of Canaan, vntill they had destroyed Iabin King of Canaan.  
+**[4:24]** And the hande of the children of Israel prospered, and preuailed against Iabin the King of Canaan, vntill they had destroyed Iabin King of Canaan.
 
 ### Chapter 5
 
@@ -13754,7 +13754,7 @@
 
 **[5:30]** Haue they not gotten, and they deuide the spoyle? euery man hath a mayde or two. Sisera hath a praye of diuers coloured garmentes, a pray of sundry colours made of needle worke: of diuers colours of needle worke on both sides, for the chiefe of the spoyle.
 
-**[5:31]** So let all thine enemies perish, O Lord: but they that loue him, shall be as the Sunne when he riseth in his might, and the lande had rest fourtie yeres.  
+**[5:31]** So let all thine enemies perish, O Lord: but they that loue him, shall be as the Sunne when he riseth in his might, and the lande had rest fourtie yeres.
 
 ### Chapter 6
 
@@ -13836,7 +13836,7 @@
 
 **[6:39]** Againe, Gideon sayde vnto God, Be not angry with me, that I may speake once more: let me prooue once againe, I pray thee, with the fleece: let it now be drie onely vpon the fleece, and let dewe be vpon all the ground.
 
-**[6:40]** And God did so that same night: for it was drie vpon the fleece onely, and there was dewe on all the ground.  
+**[6:40]** And God did so that same night: for it was drie vpon the fleece onely, and there was dewe on all the ground.
 
 ### Chapter 7
 
@@ -13888,7 +13888,7 @@
 
 **[7:24]** And Gideon sent messengers vnto all mount Ephraim, saying, Come downe against the Midianites, and take before them the waters vnto Beth-barah, and Iorden. Then all the men of Ephraim gathered together and tooke the waters vnto Beth-barah, and Iorden.
 
-**[7:25]** And they tooke two princes of the Midianites, Oreb and Zeeb, and slew Oreb vpon the rocke Oreb, and slewe Zeeb at the winepresse of Zeeb, and pursued the Midianites, and brought the heads of Oreb and Zeeb to Gideon beyonde Iorden.  
+**[7:25]** And they tooke two princes of the Midianites, Oreb and Zeeb, and slew Oreb vpon the rocke Oreb, and slewe Zeeb at the winepresse of Zeeb, and pursued the Midianites, and brought the heads of Oreb and Zeeb to Gideon beyonde Iorden.
 
 ### Chapter 8
 
@@ -13960,7 +13960,7 @@
 
 **[8:34]** And the children of Israel remembred not the Lord their God, which had deliuered the out of the hands of all their enemies on euery side.
 
-**[8:35]** Neither shewed they mercy on the house of Ierubbaal, or Gideon, according to al the goodnesse which he had shewed vnto Israel.  
+**[8:35]** Neither shewed they mercy on the house of Ierubbaal, or Gideon, according to al the goodnesse which he had shewed vnto Israel.
 
 ### Chapter 9
 
@@ -14076,7 +14076,7 @@
 
 **[9:56]** Thus God rendred the wickednes of Abimelech, which he did vnto his father, in slaying his seuentie brethren.
 
-**[9:57]** Also all the wickednes of the men of Shechem did God bring vpon their heads. So vpon them came the curse of Iotham the sonne of Ierubbaal.  
+**[9:57]** Also all the wickednes of the men of Shechem did God bring vpon their heads. So vpon them came the curse of Iotham the sonne of Ierubbaal.
 
 ### Chapter 10
 
@@ -14114,7 +14114,7 @@
 
 **[10:17]** Then the children of Ammon gathered themselues together, and pitched in Gilead: and the children of Israel assembled themselues, and pitched in Mizpeh.
 
-**[10:18]** And the people and princes of Gilead said one to another, Whosoeuer will beginne the battell against the children of Ammon, the same shall be head ouer all the inhabitants of Gilead.  
+**[10:18]** And the people and princes of Gilead said one to another, Whosoeuer will beginne the battell against the children of Ammon, the same shall be head ouer all the inhabitants of Gilead.
 
 ### Chapter 11
 
@@ -14196,7 +14196,7 @@
 
 **[11:39]** And after the ende of two moneths, she turned againe vnto her father, who did with her according to his vowe which he had vowed, and she had knowen no man. and it was a custome in Israel:
 
-**[11:40]** The daughters of Israel went yere by yere to lament the daughter of Iphtah the Gileadite, foure dayes in a yeere.  
+**[11:40]** The daughters of Israel went yere by yere to lament the daughter of Iphtah the Gileadite, foure dayes in a yeere.
 
 ### Chapter 12
 
@@ -14228,7 +14228,7 @@
 
 **[12:14]** And he had fourty sonnes and thirtie nephewes that rode on seuentie assecoltes: and he iudged Israel eight yeeres.
 
-**[12:15]** Then dyed Abdon the sonne of Hillel the Pirathonite, and was buryed in Pirathon, in ye lande of Ephraim, in the Mount of the Amalekites.  
+**[12:15]** Then dyed Abdon the sonne of Hillel the Pirathonite, and was buryed in Pirathon, in ye lande of Ephraim, in the Mount of the Amalekites.
 
 ### Chapter 13
 
@@ -14280,7 +14280,7 @@
 
 **[13:24]** And the wife bare a sonne, and called his name Samson: and the childe grewe, and the Lord blessed him.
 
-**[13:25]** And the Spirite of the Lord beganne to strengthen him in the host of Dan, betweene Zorah, and Eshtaol.  
+**[13:25]** And the Spirite of the Lord beganne to strengthen him in the host of Dan, betweene Zorah, and Eshtaol.
 
 ### Chapter 14
 
@@ -14322,7 +14322,7 @@
 
 **[14:19]** And the Spirite of the Lord came vpon him, and he went downe to Ashkelon, and slew thirtie men of them and spoyled them, and gaue chaunge of garments vnto them, which expounded the riddle: and his wrath was kindled, and he went vp to his fathers house.
 
-**[14:20]** Then Samsons wife was giuen to his companion, whom he had vsed as his friend.  
+**[14:20]** Then Samsons wife was giuen to his companion, whom he had vsed as his friend.
 
 ### Chapter 15
 
@@ -14364,7 +14364,7 @@
 
 **[15:19]** Then God brake the cheeke tooth, that was in the iawe, and water came thereout: and when he had drunke, his Spirit came againe, and he was reuiued: wherefore the name therof is called, Enhakkore, which is in Lehi vnto this day.
 
-**[15:20]** And hee iudged Israel in the dayes of the Philistims twentie yeeres.  
+**[15:20]** And hee iudged Israel in the dayes of the Philistims twentie yeeres.
 
 ### Chapter 16
 
@@ -14428,7 +14428,7 @@
 
 **[16:30]** Then Samson saide, Let me lose my life with the Philistims: and he bowed him with all his might, and the house fell vpon the princes, and vpon all the people that were therein. so the dead which he slewe at his death were more then they which he had slaine in his life.
 
-**[16:31]** Then his brethren, and all the house of his father came downe and tooke him, and brought him vp and buryed him betweene Zorah and Eshtaol, in the sepulchre of Manoah his father: nowe he had iudged Israel twenty yeeres.  
+**[16:31]** Then his brethren, and all the house of his father came downe and tooke him, and brought him vp and buryed him betweene Zorah and Eshtaol, in the sepulchre of Manoah his father: nowe he had iudged Israel twenty yeeres.
 
 ### Chapter 17
 
@@ -14456,7 +14456,7 @@
 
 **[17:12]** And Michah consecrated the Leuite, and the yong man was his Priest, and was in the house of Michah.
 
-**[17:13]** Then said Michah, Nowe I know that the Lord will be good vnto me, seeing I haue a Leuite to my Priest.  
+**[17:13]** Then said Michah, Nowe I know that the Lord will be good vnto me, seeing I haue a Leuite to my Priest.
 
 ### Chapter 18
 
@@ -14520,7 +14520,7 @@
 
 **[18:30]** Then the children of Dan set them vp the grauen image: and Ionathan the sonne of Gershom, the sonne of Manasseh and his sonnes were the Priestes in the tribe of the Danites vntil the day of the captiuitie of the lande.
 
-**[18:31]** So they set them vp the grauen image, which Michah had made, all the while the house of God was in Shiloh.  
+**[18:31]** So they set them vp the grauen image, which Michah had made, all the while the house of God was in Shiloh.
 
 ### Chapter 19
 
@@ -14582,7 +14582,7 @@
 
 **[19:29]** And whe he was come to his house, he took a knife, and laid hand on his concubine, and deuided her in pieces with her bones into twelue parts, and sent her through all quarters of Israel.
 
-**[19:30]** And all that saw it, said, There was no such thing done or seene since the time that the children of Israel came vp from the lande of Egypt vnto this day: consider the matter, consult and giue sentence.  
+**[19:30]** And all that saw it, said, There was no such thing done or seene since the time that the children of Israel came vp from the lande of Egypt vnto this day: consider the matter, consult and giue sentence.
 
 ### Chapter 20
 
@@ -14680,7 +14680,7 @@
 
 **[20:47]** But sixe hundreth men turned and fled to the wildernesse vnto the rocke of Rimmon, and abode in the rocke of Rimmon foure moneths.
 
-**[20:48]** Then the men of Israel returned vnto the children of Beniamin, and smote them with the edge of the sword from the men of the citie vnto the beasts, and all that came to hand: also they set on fire all the cities that they coulde come by.  
+**[20:48]** Then the men of Israel returned vnto the children of Beniamin, and smote them with the edge of the sword from the men of the citie vnto the beasts, and all that came to hand: also they set on fire all the cities that they coulde come by.
 
 ### Chapter 21
 
@@ -14732,7 +14732,7 @@
 
 **[21:24]** So the children of Israel departed thence at that time, euery man to his tribe, and to his familie, and went out from thence euery man to his inheritance.
 
-**[21:25]** In those dayes there was no King in Israel, but euery man did that which was good in his eyes.   
+**[21:25]** In those dayes there was no King in Israel, but euery man did that which was good in his eyes.
 
 ## Ruth
 
@@ -14780,7 +14780,7 @@
 
 **[1:21]** I went out full, and the Lord hath caused me to returne emptie: why call ye me Naomi, seeing the Lord hath humbled me, and the Almightie hath brought me vnto aduersitie?
 
-**[1:22]** So Naomi returned and Ruth the Moabitesse her daughter in law with her, when she came out of the countrey of Moab: and they came to Beth-lehem in the beginning of barly haruest.  
+**[1:22]** So Naomi returned and Ruth the Moabitesse her daughter in law with her, when she came out of the countrey of Moab: and they came to Beth-lehem in the beginning of barly haruest.
 
 ### Chapter 2
 
@@ -14828,7 +14828,7 @@
 
 **[2:22]** And Naomi answered vnto Ruth her daughter in lawe, It is best, my daughter, that thou goe out with his maides, that they meete thee not in an other fielde.
 
-**[2:23]** Then she kept her by the maides of Boaz, to gather vnto the end of barly haruest, and of wheate haruest, and dwelt with her mother in lawe.  
+**[2:23]** Then she kept her by the maides of Boaz, to gather vnto the end of barly haruest, and of wheate haruest, and dwelt with her mother in lawe.
 
 ### Chapter 3
 
@@ -14866,7 +14866,7 @@
 
 **[3:17]** And said, These sixe measures of barly gaue he me: for he sayd to me, Thou shalt not come emptie vnto thy mother in lawe.
 
-**[3:18]** Then sayd she, My daughter, sit still, vntill thou knowe how the thing will fall: for the man wil not be in rest, vntill he hath finished the matter this same day.  
+**[3:18]** Then sayd she, My daughter, sit still, vntill thou knowe how the thing will fall: for the man wil not be in rest, vntill he hath finished the matter this same day.
 
 ### Chapter 4
 
@@ -14892,7 +14892,7 @@
 
 **[4:11]** And all the people that were in the gate, and the Elders sayd, We are witnesses: the Lord make the wife that commeth into thine house, like Rahel and like Leah, which twaine did build the house of Israel: and that thou mayest doe worthily in Ephrathah, and be famous in Beth-lehem,
 
-**[4:12]** And that thine house be like the house of Pharez ( whom Thamar bare vnto Iudah) of the seede which the Lord shall giue thee of this yong woman.
+**[4:12]** And that thine house be like the house of Pharez (whom Thamar bare vnto Iudah) of the seede which the Lord shall giue thee of this yong woman.
 
 **[4:13]** So Boaz tooke Ruth, and she was his wife: and when he went in vnto her, the Lord gaue that she conceiued, and bare a sonne.
 
@@ -14912,7 +14912,7 @@
 
 **[4:21]** And Salmon begate Boaz, and Boaz begat Obed,
 
-**[4:22]** And Obed begate Ishai, and Ishai begate Dauid.   
+**[4:22]** And Obed begate Ishai, and Ishai begate Dauid.
 
 ## I Samuel
 
@@ -14972,7 +14972,7 @@
 
 **[1:27]** I prayed for this childe, and the Lord hath giuen me my desire which I asked of him.
 
-**[1:28]** Therefore also I haue giuen him vnto the Lord: as long as he liueth hee shalbe giuen vnto the Lord: and he worshipped the Lord there.  
+**[1:28]** Therefore also I haue giuen him vnto the Lord: as long as he liueth hee shalbe giuen vnto the Lord: and he worshipped the Lord there.
 
 ### Chapter 2
 
@@ -15046,7 +15046,7 @@
 
 **[2:35]** And I will stirre me vp a faithfull Priest, that shall do according to mine heart and according to my minde: and I wil build him a sure house, and he shall walke before mine Anointed for euer.
 
-**[2:36]** And all that are left in thine house, shall come and bowe downe to him for a piece of siluer and a morsell of bread, and shall say, Appoint me, I pray thee, to one of the priestes offices, that I may eate a morsell of bread.  
+**[2:36]** And all that are left in thine house, shall come and bowe downe to him for a piece of siluer and a morsell of bread, and shall say, Appoint me, I pray thee, to one of the priestes offices, that I may eate a morsell of bread.
 
 ### Chapter 3
 
@@ -15090,7 +15090,7 @@
 
 **[3:20]** And all Israel from Dan to Beer-sheba knew that faithfull Samuel was the Lordes Prophet.
 
-**[3:21]** And the Lord appeared againe in Shiloh: for the Lord reueiled himselfe to Samuel in Shiloh by his word.  
+**[3:21]** And the Lord appeared againe in Shiloh: for the Lord reueiled himselfe to Samuel in Shiloh by his word.
 
 ### Chapter 4
 
@@ -15136,7 +15136,7 @@
 
 **[4:21]** And she named the childe Ichabod, saying, The glory is departed from Israel, because the Arke of God was taken, and because of her father in lawe and her husband.
 
-**[4:22]** She sayde againe, The glory is departed from Israel: for the Arke of God is taken.  
+**[4:22]** She sayde againe, The glory is departed from Israel: for the Arke of God is taken.
 
 ### Chapter 5
 
@@ -15162,7 +15162,7 @@
 
 **[5:11]** Therefore they sent, and gathered together all the princes of the Philistims and sayd, Sende away the Arke of the God of Israel, and let it returne to his owne place, that it slay vs not and our people: for there was a destruction and death throughout all the citie, and the hand of God was very sore there.
 
-**[5:12]** And the men that dyed not, were smitten with the emerods: and the cry of the citie went vp to heauen.  
+**[5:12]** And the men that dyed not, were smitten with the emerods: and the cry of the citie went vp to heauen.
 
 ### Chapter 6
 
@@ -15206,7 +15206,7 @@
 
 **[6:20]** Wherefore the men of Beth-shemesh said, Who is able to stand before this holy Lord God? and to whom shall he go from vs?
 
-**[6:21]** And they sent messengers to the inhabitans of Kiriath-iearim, saying, The Philistims haue brought againe the Arke of the Lord: come ye downe and take it vp to you.  
+**[6:21]** And they sent messengers to the inhabitans of Kiriath-iearim, saying, The Philistims haue brought againe the Arke of the Lord: come ye downe and take it vp to you.
 
 ### Chapter 7
 
@@ -15242,7 +15242,7 @@
 
 **[7:16]** And went about yeere by yere to Beth-el, and Gilgal, and Mizpeh, and iudged Israel in all those places.
 
-**[7:17]** Afterward hee returned to Ramah: for there was his house, and there he iudged Israel: also he built an altar there vnto the Lord.  
+**[7:17]** Afterward hee returned to Ramah: for there was his house, and there he iudged Israel: also he built an altar there vnto the Lord.
 
 ### Chapter 8
 
@@ -15288,7 +15288,7 @@
 
 **[8:21]** Therefore when Samuel heard all ye wordes of ye people, he rehearsed the in ye eares of ye Lord.
 
-**[8:22]** And the Lord saide to Samuel, Hearken vnto their voyce, and make them a King. And Samuel said vnto the men of Israel, Goe euery man vnto his citie.  
+**[8:22]** And the Lord saide to Samuel, Hearken vnto their voyce, and make them a King. And Samuel said vnto the men of Israel, Goe euery man vnto his citie.
 
 ### Chapter 9
 
@@ -15344,7 +15344,7 @@
 
 **[9:26]** And when they arose early about ye spring of the day, Samuel called Saul to the top of the house, saying, Vp, that I may send thee away. And Saul arose, and they went out, both he, and Samuel.
 
-**[9:27]** And when they were come downe to the ende of the citie, Samuel said to Saul, Bid the seruant goe before vs, (and he went) but stand thou still nowe, that I may shewe thee the worde of God.  
+**[9:27]** And when they were come downe to the ende of the citie, Samuel said to Saul, Bid the seruant goe before vs, (and he went) but stand thou still nowe, that I may shewe thee the worde of God.
 
 ### Chapter 10
 
@@ -15400,7 +15400,7 @@
 
 **[10:26]** Saul also went home to Gibeah, and there followed him a bande of men, whose heart God had touched,
 
-**[10:27]** But the wicked men saide, Howe shall hee saue vs? So they despised him, and brought him no presents: but he held his tongue.  
+**[10:27]** But the wicked men saide, Howe shall hee saue vs? So they despised him, and brought him no presents: but he held his tongue.
 
 ### Chapter 11
 
@@ -15432,7 +15432,7 @@
 
 **[11:14]** Then saide Samuel vnto ye people, Come, that we may goe to Gilgal, and renue the kingdome there.
 
-**[11:15]** So all the people went to Gilgal, and made Saul King there before the Lord in Gilgal: and there they offered peace offerings before the Lord: and there Saul and all the men of Israel reioyced exceedingly.  
+**[11:15]** So all the people went to Gilgal, and made Saul King there before the Lord in Gilgal: and there they offered peace offerings before the Lord: and there Saul and all the men of Israel reioyced exceedingly.
 
 ### Chapter 12
 
@@ -15484,7 +15484,7 @@
 
 **[12:24]** Therefore feare you the Lord, and serue him in the trueth with all your hearts, and consider howe great things he hath done for you.
 
-**[12:25]** But if ye doe wickedly, ye shall perish, both yee, and your King.  
+**[12:25]** But if ye doe wickedly, ye shall perish, both yee, and your King.
 
 ### Chapter 13
 
@@ -15532,7 +15532,7 @@
 
 **[13:22]** So whe the day of battell was come, there was neither sworde nor speare founde in the handes of any of the people that were with Saul and with Ionathan: but onely with Saul and Ionathan his sonne was there founde.
 
-**[13:23]** And the garison of the Philistims came out to the passage of Michmash.  
+**[13:23]** And the garison of the Philistims came out to the passage of Michmash.
 
 ### Chapter 14
 
@@ -15638,7 +15638,7 @@
 
 **[14:51]** And Kish was Sauls father: and Ner the father of Abner was the sonne of Abiel.
 
-**[14:52]** And there was sore warre against the Philistims all the dayes of Saul: and whomsoeuer Saul sawe to be a strong man, and meete for the warre, he tooke him vnto him.  
+**[14:52]** And there was sore warre against the Philistims all the dayes of Saul: and whomsoeuer Saul sawe to be a strong man, and meete for the warre, he tooke him vnto him.
 
 ### Chapter 15
 
@@ -15710,7 +15710,7 @@
 
 **[15:34]** So Samuel departed to Ramah, and Saul went vp to his house to Gibeah of Saul.
 
-**[15:35]** And Samuel came no more to see Saul vntill the day of his death: but Samuel mourned for Saul, and the Lord repented that hee made Saul King ouer Israel.  
+**[15:35]** And Samuel came no more to see Saul vntill the day of his death: but Samuel mourned for Saul, and the Lord repented that hee made Saul King ouer Israel.
 
 ### Chapter 16
 
@@ -15758,7 +15758,7 @@
 
 **[16:22]** And Saul sent to Ishai, saying, Let Dauid nowe remaine with me: for he hath found fauour in my sight.
 
-**[16:23]** And so when the euil spirite of God came vpon Saul, Dauid tooke an harpe and plaied with his hande, and Saul was refreshed, and was eased: for the euill spirit departed from him.  
+**[16:23]** And so when the euil spirite of God came vpon Saul, Dauid tooke an harpe and plaied with his hande, and Saul was refreshed, and was eased: for the euill spirit departed from him.
 
 ### Chapter 17
 
@@ -15876,7 +15876,7 @@
 
 **[17:57]** And when Dauid was returned from the slaughter of the Philistim, then Abner tooke him, and brought him before Saul with the head of the Philistim in his hand.
 
-**[17:58]** And Saul sayde to him, Whose sonne art thou, thou yong man? And Dauid answered, I am the sonne of thy seruant Ishai the Bethlehemite.  
+**[17:58]** And Saul sayde to him, Whose sonne art thou, thou yong man? And Dauid answered, I am the sonne of thy seruant Ishai the Bethlehemite.
 
 ### Chapter 18
 
@@ -15938,7 +15938,7 @@
 
 **[18:29]** Then Saul was more and more afrayde of Dauid, and Saul became alway Dauids enemie.
 
-**[18:30]** And when the Princes of the Philistims went forth, at their going forth Dauid behaued himselfe more wisely then all the seruants of Saul, so that his name was much set by.  
+**[18:30]** And when the Princes of the Philistims went forth, at their going forth Dauid behaued himselfe more wisely then all the seruants of Saul, so that his name was much set by.
 
 ### Chapter 19
 
@@ -15988,7 +15988,7 @@
 
 **[19:23]** And he went thither, euen to Naioth in Ramah, and the Spirit of God came vpon him also, and he went prophecying vntill hee came to Naioth in Ramah.
 
-**[19:24]** And he stript off his clothes, and he prophesied also before Samuel, and fell downe naked all that day and all that night: therefore they say, Is Saul also among the Prophets?  
+**[19:24]** And he stript off his clothes, and he prophesied also before Samuel, and fell downe naked all that day and all that night: therefore they say, Is Saul also among the Prophets?
 
 ### Chapter 20
 
@@ -16074,7 +16074,7 @@
 
 **[20:41]** Assoone as the boy was gone, Dauid arose out of a place that was towarde the South, and fel on his face to the ground, and bowed him selfe three times: and they kissed one another, and wept both twaine, till Dauid exceeded.
 
-**[20:42]** Therefore Ionathan said to Dauid, Goe in peace: that which we haue sworne both of vs in the Name of the Lord, saying, The Lord be betweene me and thee, and betweene my seede and betweene thy seede, let it stand for euer. And he arose and departed, and Ionathan went into the citie.  
+**[20:42]** Therefore Ionathan said to Dauid, Goe in peace: that which we haue sworne both of vs in the Name of the Lord, saying, The Lord be betweene me and thee, and betweene my seede and betweene thy seede, let it stand for euer. And he arose and departed, and Ionathan went into the citie.
 
 ### Chapter 21
 
@@ -16106,7 +16106,7 @@
 
 **[21:14]** Then said Achish vnto his seruants, Lo, ye see the man is beside him selfe, wherefore haue ye brought him to me?
 
-**[21:15]** Haue I neede of mad men, that ye haue brought this fellowe to play the mad man in my presence? shall he come into mine house?  
+**[21:15]** Haue I neede of mad men, that ye haue brought this fellowe to play the mad man in my presence? shall he come into mine house?
 
 ### Chapter 22
 
@@ -16154,7 +16154,7 @@
 
 **[22:22]** And Dauid sayd vnto Abiathar, I knewe it the same day, when Doeg the Edomite was there, that he would tell Saul. I am the cause of the death of all the persons of thy fathers house.
 
-**[22:23]** Abide thou with me, and feare not: for he that seeketh my life, shall seeke thy life also: for with me thou shalt be in safegard.  
+**[22:23]** Abide thou with me, and feare not: for he that seeketh my life, shall seeke thy life also: for with me thou shalt be in safegard.
 
 ### Chapter 23
 
@@ -16212,7 +16212,7 @@
 
 **[23:27]** But there came a messenger to Saul, saying, Haste thee, and come: for the Philistims haue inuaded the land.
 
-**[23:28]** Wherefore Saul returned from pursuing Dauid, and went against the Philistims. Therefore they called that place, Sela-hammahlekoth.  
+**[23:28]** Wherefore Saul returned from pursuing Dauid, and went against the Philistims. Therefore they called that place, Sela-hammahlekoth.
 
 **[23:29]** 
 
@@ -16260,7 +16260,7 @@
 
 **[24:21]** For now behold, I know that thou shalt be King, and that the kingdome of Israel shall be stablished in thine hand.
 
-**[24:22]** Sweare now therfore vnto me by the Lord, that thou wilt not destroy my seede after me, and that thou wilt not abolish my name out of my fathers house. So Dauid sware vnto Saul, and Saul went home: but Dauid and his men went vp vnto ye hold.  
+**[24:22]** Sweare now therfore vnto me by the Lord, that thou wilt not destroy my seede after me, and that thou wilt not abolish my name out of my fathers house. So Dauid sware vnto Saul, and Saul went home: but Dauid and his men went vp vnto ye hold.
 
 ### Chapter 25
 
@@ -16350,7 +16350,7 @@
 
 **[25:43]** Dauid also tooke Ahinoam of Izreel, and they were both his wiues.
 
-**[25:44]** Now Saul had giuen Michal his daughter Dauids wife to Phalti the sonne of Laish, which was of Gallim.  
+**[25:44]** Now Saul had giuen Michal his daughter Dauids wife to Phalti the sonne of Laish, which was of Gallim.
 
 ### Chapter 26
 
@@ -16402,7 +16402,7 @@
 
 **[26:24]** And beholde, like as thy life was much set by this day in mine eyes: so let my life be set by in the eyes of the Lord, that he may deliuer me out of all tribulation.
 
-**[26:25]** Then Saul said to Dauid, Blessed art thou, my sonne Dauid: for thou shalt doe great things, and also preuaile. So Dauid went his way, and Saul returned to his place.  
+**[26:25]** Then Saul said to Dauid, Blessed art thou, my sonne Dauid: for thou shalt doe great things, and also preuaile. So Dauid went his way, and Saul returned to his place.
 
 ### Chapter 27
 
@@ -16428,7 +16428,7 @@
 
 **[27:11]** And Dauid saued neither man nor woman aliue, to bring them to Gath, saying, Lest they should tel on vs, and say, So did Dauid, and so will be his maner all the while that he dwelleth in the countrey of the Philistims.
 
-**[27:12]** And Achish beleeued Dauid, saying, He hath made his people of Israel vtterly to abhorre him: therefore he shalbe my seruant for euer.  
+**[27:12]** And Achish beleeued Dauid, saying, He hath made his people of Israel vtterly to abhorre him: therefore he shalbe my seruant for euer.
 
 ### Chapter 28
 
@@ -16480,7 +16480,7 @@
 
 **[28:24]** Nowe the woman had a fat calfe in the house, and she hasted, and killed it, and tooke floure and kneaded it, and baked of it vnleauened bread.
 
-**[28:25]** Then she brought them before Saul, and before his seruants: and when they had eaten, they stoode, and went away the same night.  
+**[28:25]** Then she brought them before Saul, and before his seruants: and when they had eaten, they stoode, and went away the same night.
 
 ### Chapter 29
 
@@ -16504,7 +16504,7 @@
 
 **[29:10]** Wherefore now rise vp earely in the morning with thy masters seruants that are come with thee: and when ye be vp earely, assoone as ye haue light, depart.
 
-**[29:11]** So Dauid and his men rose vp earely to depart in the morning, and to returne into the lande of the Philistims: and the Philistims went vp to Izreel.  
+**[29:11]** So Dauid and his men rose vp earely to depart in the morning, and to returne into the lande of the Philistims: and the Philistims went vp to Izreel.
 
 ### Chapter 30
 
@@ -16568,7 +16568,7 @@
 
 **[30:30]** And to them of Hormah, and to them of Chor-ashan, and to them of Athach,
 
-**[30:31]** And to them of Hebron, and to all the places where Dauid and his men had hanted.  
+**[30:31]** And to them of Hebron, and to all the places where Dauid and his men had hanted.
 
 ### Chapter 31
 
@@ -16596,7 +16596,7 @@
 
 **[31:12]** Then they arose (as many as were strong men) and went all night, and tooke the body of Saul, and the bodies of his sonnes, from the wall of Beth-shan, and came to Iabesh, and burnt them there,
 
-**[31:13]** And tooke their bones and buried them vnder a tree at Iabesh, and fasted seuen dayes.   
+**[31:13]** And tooke their bones and buried them vnder a tree at Iabesh, and fasted seuen dayes.
 
 ## II Samuel
 
@@ -16652,7 +16652,7 @@
 
 **[1:25]** Howe were the mightie slaine in the mids of the battel! O Ionathan, thou wast slaine in thine hie places.
 
-**[1:26]** Wo is me for thee, my brother Ionathan: very kinde hast thou bene vnto me: thy loue to me was wonderfull, passing the loue of women: howe are the mightie ouerthrowen, and the weapons of warre destroyed!  
+**[1:26]** Wo is me for thee, my brother Ionathan: very kinde hast thou bene vnto me: thy loue to me was wonderfull, passing the loue of women: howe are the mightie ouerthrowen, and the weapons of warre destroyed!
 
 **[1:27]** 
 
@@ -16720,7 +16720,7 @@
 
 **[2:31]** But the seruants of Dauid had smitten of Beniamin, and of Abners men, so that three hundreth and threescore men dyed.
 
-**[2:32]** And they tooke vp Asahel, and buried him in the sepulchre of his father, which was in Bethlehem: and Ioab and his men went all night, and when they came to Hebron, the day arose.  
+**[2:32]** And they tooke vp Asahel, and buried him in the sepulchre of his father, which was in Bethlehem: and Ioab and his men went all night, and when they came to Hebron, the day arose.
 
 ### Chapter 3
 
@@ -16800,7 +16800,7 @@
 
 **[3:38]** And the King said vnto his seruants, Know ye not, that there is a prince and a great man falle this day in Israel?
 
-**[3:39]** And I am this day weake and newly anoynted King: and these men the sonnes of Zeruiah be too harde for me: the Lord rewarde the doer of euill according to his wickednesse.  
+**[3:39]** And I am this day weake and newly anoynted King: and these men the sonnes of Zeruiah be too harde for me: the Lord rewarde the doer of euill according to his wickednesse.
 
 ### Chapter 4
 
@@ -16826,7 +16826,7 @@
 
 **[4:11]** How much more, when wicked men haue slaine a righteous person in his owne house, and vpon his bed? shall I not now therfore require his blood at your hand, and take you from the earth?
 
-**[4:12]** Then Dauid commanded his yong men, and they slew them, and cut off their hands and their feete, and hanged them vp ouer the poole in Hebron: but they tooke the head of Ishbosheth, and buried it in the sepulchre of Abner in Hebron.  
+**[4:12]** Then Dauid commanded his yong men, and they slew them, and cut off their hands and their feete, and hanged them vp ouer the poole in Hebron: but they tooke the head of Ishbosheth, and buried it in the sepulchre of Abner in Hebron.
 
 ### Chapter 5
 
@@ -16878,7 +16878,7 @@
 
 **[5:24]** And when thou hearest the noyse of one going in the toppes of the mulberie trees, then remoue: for then shall the Lord goe out before thee, to smite the hoste of the Philistims.
 
-**[5:25]** Then Dauid did so as the Lord had commanded him, and smote the Philistims from Geba, vntil thou come to Gazer.  
+**[5:25]** Then Dauid did so as the Lord had commanded him, and smote the Philistims from Geba, vntil thou come to Gazer.
 
 ### Chapter 6
 
@@ -16926,7 +16926,7 @@
 
 **[6:22]** And will yet be more vile then thus, and will be low in mine owne sight, and of the verie same maidseruants, which thou hast spoken of, shall I be had in honour.
 
-**[6:23]** Therfore Michal the daughter of Saul had no childe vnto the day of her death.  
+**[6:23]** Therfore Michal the daughter of Saul had no childe vnto the day of her death.
 
 ### Chapter 7
 
@@ -16986,7 +16986,7 @@
 
 **[7:28]** Therefore now, O Lord God, (for thou art God, and thy words be true, and thou hast tolde this goodnes vnto thy seruant)
 
-**[7:29]** Therefore nowe let it please thee to blesse the house of thy seruant, that it may continue for euer before thee: for thou, O Lord God, hast spoken it: and let the house of thy seruant be blessed for euer, with thy blessing.  
+**[7:29]** Therefore nowe let it please thee to blesse the house of thy seruant, that it may continue for euer before thee: for thou, O Lord God, hast spoken it: and let the house of thy seruant be blessed for euer, with thy blessing.
 
 ### Chapter 8
 
@@ -17024,7 +17024,7 @@
 
 **[8:17]** And Zadok the sonne of Ahitub, and Ahimelech the sonne of Abiathar were the Priestes, and Seraiah the Scribe.
 
-**[8:18]** And Benaiah the sonne of Iehoiada and the Cherethites and the Pelethites, and Dauids sonnes were chiefe rulers.  
+**[8:18]** And Benaiah the sonne of Iehoiada and the Cherethites and the Pelethites, and Dauids sonnes were chiefe rulers.
 
 ### Chapter 9
 
@@ -17052,7 +17052,7 @@
 
 **[9:12]** Mephibosheth also had a yong sonne named Micha, and all that dwelled in the house of Ziba, were seruants vnto Mephibosheth.
 
-**[9:13]** And Mephibosheth dwelt in Ierusalem: for he did eate continually at the Kings table, and was lame on both his feete.  
+**[9:13]** And Mephibosheth dwelt in Ierusalem: for he did eate continually at the Kings table, and was lame on both his feete.
 
 ### Chapter 10
 
@@ -17092,7 +17092,7 @@
 
 **[10:18]** And the Aramites fled before Israel: and Dauid destroyed seuen hundreth charets of the Aramites, and fourtie thousande horsemen, and smote Shobach the captaine of his hoste, who dyed there.
 
-**[10:19]** And when all the Kings, that were seruants to Hadarezer, saw that they fell before Israel, they made peace with Israel, and serued them. and the Aramites feared to helpe the children of Ammon any more.  
+**[10:19]** And when all the Kings, that were seruants to Hadarezer, saw that they fell before Israel, they made peace with Israel, and serued them. and the Aramites feared to helpe the children of Ammon any more.
 
 ### Chapter 11
 
@@ -17148,7 +17148,7 @@
 
 **[11:26]** And when the wife of Vriah heard that her husband Vriah was dead, she mourned for her husband.
 
-**[11:27]** So when the mourning was past, Dauid sent and tooke her into his house, and shee became his wife, and bare him a sonne: but ye thing that Dauid had done, displeased the Lord.  
+**[11:27]** So when the mourning was past, Dauid sent and tooke her into his house, and shee became his wife, and bare him a sonne: but ye thing that Dauid had done, displeased the Lord.
 
 ### Chapter 12
 
@@ -17212,7 +17212,7 @@
 
 **[12:30]** And he tooke their Kings crowne from his head, (which weighed a talent of golde, with precious stones) and it was set on Dauids head: and he brought away the spoyle of the citie in exceeding great abundance.
 
-**[12:31]** And he carryed away the people that was therein, and put them vnder sawes, and vnder yron harowes, and vnder axes of yron, and cast them into the tyle kylne: euen thus did he with all the cities of the children of Ammon. Then Dauid and all the people returned vnto Ierusalem.  
+**[12:31]** And he carryed away the people that was therein, and put them vnder sawes, and vnder yron harowes, and vnder axes of yron, and cast them into the tyle kylne: euen thus did he with all the cities of the children of Ammon. Then Dauid and all the people returned vnto Ierusalem.
 
 ### Chapter 13
 
@@ -17292,7 +17292,7 @@
 
 **[13:38]** So Absalom fled, and went to Geshur, and was there three yeeres.
 
-**[13:39]** And King Dauid desired to go forth vnto Absalom, because he was pacified concerning Amnon, seeing he was dead.  
+**[13:39]** And King Dauid desired to go forth vnto Absalom, because he was pacified concerning Amnon, seeing he was dead.
 
 ### Chapter 14
 
@@ -17360,7 +17360,7 @@
 
 **[14:32]** And Absalom answered Ioab, Beholde, I sent for thee, saying, Come thou hither, and I wil send thee to the King for to say, Wherefore am I come from Geshur? It had bene better for me to haue bene there still: nowe therefore let mee see the Kings face: and if there be any trespasse in me, let him kill me.
 
-**[14:33]** Then Ioab came to the King, and told him: and he called for Absalom, who came to the King, and bowed himselfe to the grounde on his face before the King, and the King kissed Absalom.  
+**[14:33]** Then Ioab came to the King, and told him: and he called for Absalom, who came to the King, and bowed himselfe to the grounde on his face before the King, and the King kissed Absalom.
 
 ### Chapter 15
 
@@ -17436,7 +17436,7 @@
 
 **[15:36]** Beholde, there are with them their two sonnes: Ahimaaz Zadoks sonne, and Ionathan Abiathars sonne: by them also shall ye send me euery thing that ye can heare.
 
-**[15:37]** So Hushai Dauids friend went into the citie: and Absalom came into Ierusalem.  
+**[15:37]** So Hushai Dauids friend went into the citie: and Absalom came into Ierusalem.
 
 ### Chapter 16
 
@@ -17484,7 +17484,7 @@
 
 **[16:22]** So they spread Absalom a tent vpon the top of the house, and Absalom went in to his fathers concubines in the sight of all Israel.
 
-**[16:23]** And the counsell of Ahithophel which he counseled in those dayes, was like as one had asked counsell at the oracle of God: so was all the counsel of Ahithophel both with Dauid and with Absalom.  
+**[16:23]** And the counsell of Ahithophel which he counseled in those dayes, was like as one had asked counsell at the oracle of God: so was all the counsel of Ahithophel both with Dauid and with Absalom.
 
 ### Chapter 17
 
@@ -17492,7 +17492,7 @@
 
 **[17:2]** And I will come vpon him: for he is wearie, and weake handed: so I will feare him, and all the people that are with him, shall flee, and I will smite the King onely,
 
-**[17:3]** And I will bring againe all the people vnto thee, and when all shall returne, ( the man whome thou seekest being slaine) all the people shalbe in peace.
+**[17:3]** And I will bring againe all the people vnto thee, and when all shall returne, (the man whome thou seekest being slaine) all the people shalbe in peace.
 
 **[17:4]** And the saying pleased Absalom well, and all the Elders of Israel.
 
@@ -17544,7 +17544,7 @@
 
 **[17:28]** Brought beds, and basens, and earthen vessels, and wheat, and barley, and floure, and parched corne, and beanes, and lentiles, and parched corne.
 
-**[17:29]** And they brought hony, and butter, and sheepe, and cheese of kine for Dauid and for the people that were with him, to eate: for they said, The people is hungry, and wearie, and thirstie in the wildernesse.  
+**[17:29]** And they brought hony, and butter, and sheepe, and cheese of kine for Dauid and for the people that were with him, to eate: for they said, The people is hungry, and wearie, and thirstie in the wildernesse.
 
 ### Chapter 18
 
@@ -17612,7 +17612,7 @@
 
 **[18:32]** Then the King saide vnto Cushi, Is the yong man Absalom safe? And Cushi answered, The enemies of my lorde the King, and all that rise against thee to doe thee hurt, be as that yong man is.
 
-**[18:33]** And the King was mooued, and went vp to the chamber ouer the gate, and wept: and as he went, thus he said, O my sonne Absalom, my sonne, my sonne Absalom: woulde God I had dyed for thee, O Absalom, my sonne, my sonne.  
+**[18:33]** And the King was mooued, and went vp to the chamber ouer the gate, and wept: and as he went, thus he said, O my sonne Absalom, my sonne, my sonne Absalom: woulde God I had dyed for thee, O Absalom, my sonne, my sonne.
 
 ### Chapter 19
 
@@ -17700,7 +17700,7 @@
 
 **[19:42]** And all the men of Iudah answered the men of Israel, Because the King is neere of kin to vs: and wherefore now be ye angry for this matter? haue we eaten of the Kings cost, or haue wee taken any bribes?
 
-**[19:43]** And the men of Israel answered the men of Iudah, and saide, Wee haue ten partes in the King, and haue also more right to Dauid then ye: Why then did ye despise vs, that our aduise should not bee first had in restoring our King? And the wordes of the men of Iudah were fiercer then the wordes of the men of Israel.  
+**[19:43]** And the men of Israel answered the men of Iudah, and saide, Wee haue ten partes in the King, and haue also more right to Dauid then ye: Why then did ye despise vs, that our aduise should not bee first had in restoring our King? And the wordes of the men of Iudah were fiercer then the wordes of the men of Israel.
 
 ### Chapter 20
 
@@ -17754,7 +17754,7 @@
 
 **[20:25]** And Sheia was Scribe, and Zadok and Abiathar the Priests,
 
-**[20:26]** And also Ira the Iairite was chiefe about Dauid.  
+**[20:26]** And also Ira the Iairite was chiefe about Dauid.
 
 ### Chapter 21
 
@@ -17800,7 +17800,7 @@
 
 **[21:21]** And when hee reuiled Israel, Ionathan the sonne of Shima the brother of Dauid slewe him.
 
-**[21:22]** These foure were borne to Haraphah in Gath, and died by the hande of Dauid and by the hands of his seruants.  
+**[21:22]** These foure were borne to Haraphah in Gath, and died by the hande of Dauid and by the hands of his seruants.
 
 ### Chapter 22
 
@@ -17904,7 +17904,7 @@
 
 **[22:50]** Therefore I will praise thee, O Lord amog the nations, and will sing vnto thy Name)
 
-**[22:51]** He is the tower of saluation for his King, and sheweth mercie to his anointed, euen to Dauid, and to his seede for euer.  
+**[22:51]** He is the tower of saluation for his King, and sheweth mercie to his anointed, euen to Dauid, and to his seede for euer.
 
 ### Chapter 23
 
@@ -17984,7 +17984,7 @@
 
 **[23:38]** Ira the Ithrite: Gareb the Ithrite:
 
-**[23:39]** Uriiah the Hittite, thirtie and seuen in all.  
+**[23:39]** Uriiah the Hittite, thirtie and seuen in all.
 
 ### Chapter 24
 
@@ -18036,7 +18036,7 @@
 
 **[24:24]** Then the King saide vnto Araunah, Not so, but I will bye it of thee at a price, and will not offer burnt offring vnto ye Lord my God of that which doeth cost me nothing. So Dauid bought the threshing floore, and the oxen for fiftie shekels of siluer.
 
-**[24:25]** And Dauid built there an altar vnto the Lord, and offred burnt offrings and peace offrings, and the Lord was appeased toward ye lande, and the plague ceased from Israel.   
+**[24:25]** And Dauid built there an altar vnto the Lord, and offred burnt offrings and peace offrings, and the Lord was appeased toward ye lande, and the plague ceased from Israel.
 
 ## I Kings
 
@@ -18146,7 +18146,7 @@
 
 **[1:52]** Then Salomon sayd, If he will shewe him selfe a worthy man, there shall not an heare of him fall to the earth, but if wickednes be found in him, he shall dye.
 
-**[1:53]** Then King Salomon sent, and they brought him from the altar, and he came and did obeisance vnto King Salomon. And Salomon sayde vnto him, Go to thine house.  
+**[1:53]** Then King Salomon sent, and they brought him from the altar, and he came and did obeisance vnto King Salomon. And Salomon sayde vnto him, Go to thine house.
 
 ### Chapter 2
 
@@ -18240,7 +18240,7 @@
 
 **[2:45]** And let King Salomon be blessed, and the throne of Dauid stablished before the Lord for euer.
 
-**[2:46]** So the King comanded Benaiah the sonne of Iehoiada: who went out and smote him that he dyed. And the kingdome was established in the hand of Salomon.  
+**[2:46]** So the King comanded Benaiah the sonne of Iehoiada: who went out and smote him that he dyed. And the kingdome was established in the hand of Salomon.
 
 ### Chapter 3
 
@@ -18298,7 +18298,7 @@
 
 **[3:27]** Then the King answered, and sayde, Giue her the liuing childe, and slay him not: this is his mother.
 
-**[3:28]** And all Israel heard the iudgement, which the King had iudged, and they feared the King: for they sawe that the wisedome of God was in him to doe iustice.  
+**[3:28]** And all Israel heard the iudgement, which the King had iudged, and they feared the King: for they sawe that the wisedome of God was in him to doe iustice.
 
 ### Chapter 4
 
@@ -18368,7 +18368,7 @@
 
 **[4:33]** And he spake of trees, from the cedar tree that is in Lebanon, euen vnto the hyssope that springeth out of the wall: he spake also of beasts, and of foules, and of creeping thinges, and of fishes.
 
-**[4:34]** And there came of all people to heare the wisedome of Salomon, from all Kings of the earth, which had heard of his wisedome.  
+**[4:34]** And there came of all people to heare the wisedome of Salomon, from all Kings of the earth, which had heard of his wisedome.
 
 ### Chapter 5
 
@@ -18406,7 +18406,7 @@
 
 **[5:17]** And the King commanded them, and they brought great stones and costly stones to make the foundation of the house, euen hewed stones.
 
-**[5:18]** And Salomons workemen, and the workemen of Hiram, and the masons hewed and prepared timber and stones for the buylding of the house.  
+**[5:18]** And Salomons workemen, and the workemen of Hiram, and the masons hewed and prepared timber and stones for the buylding of the house.
 
 ### Chapter 6
 
@@ -18484,7 +18484,7 @@
 
 **[6:37]** In the fourth yeere was the foundation of the house of the Lord layed in the moneth of Zif:
 
-**[6:38]** And in the eleuenth yeere in the moneth of Bul, (which is the eight moneth) hee finished the house with all the furniture thereof, and in euery point: so was he seuen yeere in building it.  
+**[6:38]** And in the eleuenth yeere in the moneth of Bul, (which is the eight moneth) hee finished the house with all the furniture thereof, and in euery point: so was he seuen yeere in building it.
 
 ### Chapter 7
 
@@ -18502,7 +18502,7 @@
 
 **[7:7]** Then he made a porch for the throne, where he iudged, euen a porch of iudgement, and it was sieled with cedar from pauement to pauement.
 
-**[7:8]** And in his house, where he dwelt, was an other hall more inwarde then the porche which was of the same worke. Also Salomon made an house for Pharaohs daughter ( whom he had taken to wife) like vnto this porche.
+**[7:8]** And in his house, where he dwelt, was an other hall more inwarde then the porche which was of the same worke. Also Salomon made an house for Pharaohs daughter (whom he had taken to wife) like vnto this porche.
 
 **[7:9]** All these were of costly stones, hewed by measure, and sawed with sawes within and without, from the foundation vnto the stones of an hand breadth, and on the outside to the great court.
 
@@ -18588,7 +18588,7 @@
 
 **[7:50]** And the bowles, and the hookes, and the basens, and the spoones, and the ashpannes of pure golde, and the hinges of golde for the doores of the house within, euen for the most holy place, and for the doores of the house, to wit, of the Temple.
 
-**[7:51]** So was finished all the worke that King Salomon made for the house of the Lord, and Salomon brought in the things which Dauid his father had dedicated: the siluer and the golde and the vessels, and layed them among the treasures of the house of the Lord.  
+**[7:51]** So was finished all the worke that King Salomon made for the house of the Lord, and Salomon brought in the things which Dauid his father had dedicated: the siluer and the golde and the vessels, and layed them among the treasures of the house of the Lord.
 
 ### Chapter 8
 
@@ -18682,7 +18682,7 @@
 
 **[8:45]** Heare thou then in heauen their prayer and their supplication, and iudge their cause.
 
-**[8:46]** If they sinne against thee, ( for there is no man that sinneth not) and thou be angry with them, and deliuer them vnto the enemies, so that they cary them away prisoners vnto the land of the enemies, either farre or neere,
+**[8:46]** If they sinne against thee, (for there is no man that sinneth not) and thou be angry with them, and deliuer them vnto the enemies, so that they cary them away prisoners vnto the land of the enemies, either farre or neere,
 
 **[8:47]** Yet if they turne againe vnto their heart in the lande (to the which they be caryed away captiues) and returne and pray vnto thee in the lande of them that caryed them away captiues, saying, We haue sinned, we haue transgressed, and done wickedly,
 
@@ -18722,7 +18722,7 @@
 
 **[8:65]** And Salomon made at that time a feast and all Israel with him, a very great Congregation, euen from the entring in of Hamath vnto the riuer of Egypt, before the Lord our God, seuen dayes and seuen dayes, euen fourteene dayes.
 
-**[8:66]** And the eight day he sent the people away: and they thanked the King and went vnto their tentes ioyous and with glad heart, because of al the goodnesse that the Lord had done for Dauid his seruant, and for Israel his people.  
+**[8:66]** And the eight day he sent the people away: and they thanked the King and went vnto their tentes ioyous and with glad heart, because of al the goodnesse that the Lord had done for Dauid his seruant, and for Israel his people.
 
 ### Chapter 9
 
@@ -18780,7 +18780,7 @@
 
 **[9:27]** And Hiram sent with the nauie his seruats, that were mariners, and had knowledge of the sea, with the seruants of Salomon.
 
-**[9:28]** And they came to Ophir and sette from thence foure hundreth and twentie talents of gold, and brought it to King Salomon.  
+**[9:28]** And they came to Ophir and sette from thence foure hundreth and twentie talents of gold, and brought it to King Salomon.
 
 ### Chapter 10
 
@@ -18840,7 +18840,7 @@
 
 **[10:28]** Also Salomon had horses brought out of Egypt, and fine linen: the Kings marchants receiued the linen for a price.
 
-**[10:29]** There came vp and went out of Egypt some charet, worth sixe hundreth shekels of siluer: that is, one horse, an hundreth and fiftie and thus they brought horses to all the Kings of the Hittites and to the Kings of Aram by their meanes.  
+**[10:29]** There came vp and went out of Egypt some charet, worth sixe hundreth shekels of siluer: that is, one horse, an hundreth and fiftie and thus they brought horses to all the Kings of the Hittites and to the Kings of Aram by their meanes.
 
 ### Chapter 11
 
@@ -18928,7 +18928,7 @@
 
 **[11:42]** The time that Salomon reigned in Ierusalem ouer all Israel, was fourtie yeere.
 
-**[11:43]** And Salomon slept with his fathers and was buried in the citie of Dauid his father: and Rehoboam his sonne reigned in his steade.  
+**[11:43]** And Salomon slept with his fathers and was buried in the citie of Dauid his father: and Rehoboam his sonne reigned in his steade.
 
 ### Chapter 12
 
@@ -18996,7 +18996,7 @@
 
 **[12:32]** And Ieroboam made a feast the fifteenth day of the eight moneth, like vnto the feast that is in Iudah, and offred on the altar. So did he in Beth-el and offered vnto the calues that he had made: and he placed in Beth-el the Priestes of the hie places, which he had made.
 
-**[12:33]** And he offered vpon the altar, which he had made in Beth-el, the fifteenth day of the eight moneth, (euen in the moneth which he had forged of his owne heart) and made a solemne feast vnto the children of Israel: and he went vp to the altar, to burne incense.  
+**[12:33]** And he offered vpon the altar, which he had made in Beth-el, the fifteenth day of the eight moneth, (euen in the moneth which he had forged of his owne heart) and made a solemne feast vnto the children of Israel: and he went vp to the altar, to burne incense.
 
 ### Chapter 13
 
@@ -19066,7 +19066,7 @@
 
 **[13:33]** Howbeit after this, Ieroboam conuerted not from his wicked way, but turned againe, and made of the lowest of the people Priests of the hie places. Who would, might consecrate him selfe, and be of the Priestes of the hie places.
 
-**[13:34]** And this thing turned to sinne vnto the house of Ieroboam, euen to roote it out, and destroy it from the face of the earth.  
+**[13:34]** And this thing turned to sinne vnto the house of Ieroboam, euen to roote it out, and destroy it from the face of the earth.
 
 ### Chapter 14
 
@@ -19130,7 +19130,7 @@
 
 **[14:30]** And there was warre betweene Rehoboam and Ieroboam continually.
 
-**[14:31]** And Rehoboam slept with his fathers, and was buried with his fathers in the citie of Dauid: his mothers name was Naamah an Ammonite. And Abiiam his sonne reigned in his stead.  
+**[14:31]** And Rehoboam slept with his fathers, and was buried with his fathers in the citie of Dauid: his mothers name was Naamah an Ammonite. And Abiiam his sonne reigned in his stead.
 
 ### Chapter 15
 
@@ -19200,7 +19200,7 @@
 
 **[15:33]** In the thirde yeere of Asa King of Iudah, began Baasha the sonne of Ahijah to reigne ouer all Israel in Tirzah, and reigned foure and twentie yeeres.
 
-**[15:34]** And he did euill in the sight of the Lord, walking in the way of Ieroboam, and in his sinne, wherewith he made Israel to sinne.  
+**[15:34]** And he did euill in the sight of the Lord, walking in the way of Ieroboam, and in his sinne, wherewith he made Israel to sinne.
 
 ### Chapter 16
 
@@ -19270,7 +19270,7 @@
 
 **[16:33]** And Ahab made a groue, and Ahab proceeded, and did prouoke the Lord God of Israel more then all the kings of Israel that were before him.
 
-**[16:34]** In his dayes did Hiel the Bethelite buylde Iericho: he layed the foundation thereof in Abiram his eldest sonne, and set vp the gates thereof in his yongest sonne Segub, according to the worde of the Lord which he spake by Ioshua the sonne of Nun.  
+**[16:34]** In his dayes did Hiel the Bethelite buylde Iericho: he layed the foundation thereof in Abiram his eldest sonne, and set vp the gates thereof in his yongest sonne Segub, according to the worde of the Lord which he spake by Ioshua the sonne of Nun.
 
 ### Chapter 17
 
@@ -19320,7 +19320,7 @@
 
 **[17:23]** And Eliiah tooke the childe, and brought him downe out of the chamber into the house, and deliuered him vnto his mother, and Eliiah sayd, Behold, thy sonne liueth.
 
-**[17:24]** And the woman saide vnto Eliiah, Now I knowe that thou art a man of God, and that the worde of the Lord in thy mouth is true.  
+**[17:24]** And the woman saide vnto Eliiah, Now I knowe that thou art a man of God, and that the worde of the Lord in thy mouth is true.
 
 ### Chapter 18
 
@@ -19414,7 +19414,7 @@
 
 **[18:45]** And in the meane while the heauen was blacke with cloudes and winde, and there was a great rayne. Then Ahab went vp and came to Izreel.
 
-**[18:46]** And the hand of the Lord was on Eliiah, and he girded vp his Ioynes, and ran before Ahab till he came to Izreel.  
+**[18:46]** And the hand of the Lord was on Eliiah, and he girded vp his Ioynes, and ran before Ahab till he came to Izreel.
 
 ### Chapter 19
 
@@ -19458,7 +19458,7 @@
 
 **[19:20]** And he left the oxen, and ran after Eliiah, and sayde, Let mee, I pray thee, kisse my father and my mother, and then I wil follow thee. Who answered him, Go, returne: for what haue I done to thee?
 
-**[19:21]** And when he went backe againe from him, he tooke a couple of oxen, and slewe them, and sod their flesh with the instruments of the oxen, and gaue vnto the people, and they did eate: then he arose and went after Eliiah, and ministred vnto him.  
+**[19:21]** And when he went backe againe from him, he tooke a couple of oxen, and slewe them, and sod their flesh with the instruments of the oxen, and gaue vnto the people, and they did eate: then he arose and went after Eliiah, and ministred vnto him.
 
 ### Chapter 20
 
@@ -19546,7 +19546,7 @@
 
 **[20:42]** And he said vnto him, Thus saith the Lord, Because thou hast let goe out of thine handes a man whom I appoynted to dye, thy life shall goe for his life, and thy people for his people.
 
-**[20:43]** And the King of Israel went to his house heauie and in displeasure, and came to Samaria.  
+**[20:43]** And the King of Israel went to his house heauie and in displeasure, and came to Samaria.
 
 ### Chapter 21
 
@@ -19606,7 +19606,7 @@
 
 **[21:28]** And the worde of the Lord came to Eliiah the Tishbite, saying,
 
-**[21:29]** Seest thou how Ahab is humbled before me? because he submitteth himselfe before me, I will not bring that euill in his dayes, but in his sonnes dayes wil I bring euill vpon his house.  
+**[21:29]** Seest thou how Ahab is humbled before me? because he submitteth himselfe before me, I will not bring that euill in his dayes, but in his sonnes dayes wil I bring euill vpon his house.
 
 ### Chapter 22
 
@@ -19714,7 +19714,7 @@
 
 **[22:52]** But he did euill in the sight of the Lord, and walked in the way of his father, and in the way of his mother, and in the way of Ieroboam the sonne of Nebat, which made Israel to sinne.
 
-**[22:53]** For he serued Baal and worshipped him, and prouoked the Lord God of Israel vnto wrath, according vnto all that his father had done.   
+**[22:53]** For he serued Baal and worshipped him, and prouoked the Lord God of Israel vnto wrath, according vnto all that his father had done.
 
 ## II Kings
 
@@ -19754,7 +19754,7 @@
 
 **[1:17]** So he dyed according to the worde of the Lord which Eliiah had spoken. And Iehoram began to reigne in his steade, in the seconde yeere of Iehoram the sonne of Iehoshaphat King of Iudah, because he had no sonne.
 
-**[1:18]** Concerning the rest of the actes of Ahaziah, that he did, are they not written in the booke of the Chronicles of the Kings of Israel?  
+**[1:18]** Concerning the rest of the actes of Ahaziah, that he did, are they not written in the booke of the Chronicles of the Kings of Israel?
 
 ### Chapter 2
 
@@ -19806,7 +19806,7 @@
 
 **[2:24]** And he turned backe, and looked on them, and cursed them in the name of the Lord. And two beares came out of the forest, and tare in pieces two and fourtie children of them.
 
-**[2:25]** So he went from thence to mount Carmel, and from thence he returned to Samaria.  
+**[2:25]** So he went from thence to mount Carmel, and from thence he returned to Samaria.
 
 ### Chapter 3
 
@@ -19862,7 +19862,7 @@
 
 **[3:26]** And when the King of Moab saw that the battel was too sore for him, he tooke with him seuen hudreth men that drew the sword, to break through vnto the King of Edom: but they could not.
 
-**[3:27]** Then he tooke his eldest sonne, that should haue reigned in his stead, and offered him for a burnt offring vpon the wall: so that Israel was sore grieued, and they departed from him, and returned to their countrey.  
+**[3:27]** Then he tooke his eldest sonne, that should haue reigned in his stead, and offered him for a burnt offring vpon the wall: so that Israel was sore grieued, and they departed from him, and returned to their countrey.
 
 ### Chapter 4
 
@@ -19952,7 +19952,7 @@
 
 **[4:43]** And his seruant answered, How shoulde I set this before an hundreth men? He sayd againe, Giue it vnto the people, that they may eate: for thus sayth the Lord, They shall eate, and there shall remaine.
 
-**[4:44]** So he set it before them, and they did eate, and left ouer, according to the word of the Lord.  
+**[4:44]** So he set it before them, and they did eate, and left ouer, according to the word of the Lord.
 
 ### Chapter 5
 
@@ -20008,7 +20008,7 @@
 
 **[5:26]** But he saide vnto him, Went not mine heart with thee when the man turned againe from his charet to meete thee? Is this a time to take money, and to receiue garments, and oliues, and vineyardes, and sheepe, and oxen, and men seruants, and maide seruants?
 
-**[5:27]** The leprosie therefore of Naaman shall cleaue vnto thee, and to thy seede for euer. And he went out from his presence a leper white as snowe.  
+**[5:27]** The leprosie therefore of Naaman shall cleaue vnto thee, and to thy seede for euer. And he went out from his presence a leper white as snowe.
 
 ### Chapter 6
 
@@ -20076,7 +20076,7 @@
 
 **[6:32]** (Nowe Elisha sate in his house, and the Elders sate with him.) And the King sent a man before him: but before the messenger came to him, he saide to the Elders, See ye not howe this murtherers sonne hath sent to take away mine head? take heede when the messenger commeth, and shut the doore and handle him roughly at the doore: is not the sounde of his masters feete behinde him?
 
-**[6:33]** While he yet talked with them, beholde, the messenger came downe vnto him, and saide, Behold, this euill commeth of the Lord: should I attende on the Lord any longer?  
+**[6:33]** While he yet talked with them, beholde, the messenger came downe vnto him, and saide, Behold, this euill commeth of the Lord: should I attende on the Lord any longer?
 
 ### Chapter 7
 
@@ -20118,7 +20118,7 @@
 
 **[7:19]** But the prince had answered the man of God, and saide, Though the Lord would make windowes in the heauen, coulde it come so to passe? And he said, Behold, thou shalt see it with thine eyes, but thou shalt not eate thereof.
 
-**[7:20]** And so it came vnto him: for the people trode vpon him in the gate, and he dyed.  
+**[7:20]** And so it came vnto him: for the people trode vpon him in the gate, and he dyed.
 
 ### Chapter 8
 
@@ -20178,7 +20178,7 @@
 
 **[8:28]** And he went with Ioram the sonne of Ahab to warre against Hazael King of Aram in Ramoth Gilead, and the Aramites smote Ioram.
 
-**[8:29]** And King Ioram returned to bee healed in Izreel of the wounds which ye Aramites had giuen him at Ramah, whe he fought against Hazael King of Aram. And Ahaziah the sonne of Iehoram King of Iudah went downe to see Ioram the sonne of Ahab in Izreel, because he was sicke.  
+**[8:29]** And King Ioram returned to bee healed in Izreel of the wounds which ye Aramites had giuen him at Ramah, whe he fought against Hazael King of Aram. And Ahaziah the sonne of Iehoram King of Iudah went downe to see Ioram the sonne of Ahab in Izreel, because he was sicke.
 
 ### Chapter 9
 
@@ -20254,7 +20254,7 @@
 
 **[9:36]** Wherefore they came agayne and tolde him. And he said, This is the worde of the Lord, which he spake by his seruant Eliiah the Tishbite, saying, In the fielde of Izreel shall ye dogs eate the flesh of Iezebel.
 
-**[9:37]** And the carkeis of Iezebel shalbe as doung vpon the ground in the field of Izreel, so that none shall say, This is Iezebel.  
+**[9:37]** And the carkeis of Iezebel shalbe as doung vpon the ground in the field of Izreel, so that none shall say, This is Iezebel.
 
 ### Chapter 10
 
@@ -20328,7 +20328,7 @@
 
 **[10:35]** And Iehu slept with his fathers, and they buryed him in Samaria, and Iehoahaz his sonne reigned in his stead.
 
-**[10:36]** And the time that Iehu reigned ouer Israel in Samaria is eight and twentie yeeres.  
+**[10:36]** And the time that Iehu reigned ouer Israel in Samaria is eight and twentie yeeres.
 
 ### Chapter 11
 
@@ -20372,7 +20372,7 @@
 
 **[11:20]** And all the people of the land reioyced, and the citie was in quiet: for they had slaine Athaliah with the sworde beside the Kings house.
 
-**[11:21]** Seuen yeere olde was Iehoash when he began to reigne.  
+**[11:21]** Seuen yeere olde was Iehoash when he began to reigne.
 
 ### Chapter 12
 
@@ -20416,7 +20416,7 @@
 
 **[12:20]** And his seruants arose and wrought treason, and slewe Ioash in the house of Millo, when he came downe to Silla:
 
-**[12:21]** Euen Iozachar the sonne of Shimeath, and Iehozabad the sonne of Shomer his seruants smote him, and he dyed: and they buried him with his fathers in the citie of Dauid. And Amaziah his sonne reigned in his stead.  
+**[12:21]** Euen Iozachar the sonne of Shimeath, and Iehozabad the sonne of Shomer his seruants smote him, and he dyed: and they buried him with his fathers in the citie of Dauid. And Amaziah his sonne reigned in his stead.
 
 ### Chapter 13
 
@@ -20468,7 +20468,7 @@
 
 **[13:24]** So Hazael the King of Aram dyed: and Ben-hadad his sonne reigned in his stead.
 
-**[13:25]** Therefore Iehoash the sonne of Iehoahaz returned, and tooke out of the hand of Ben-hadad the sonne of Hazael the cities which he had taken away by warre out of the hand of Iehoahaz his father: for three times did Ioash beate him, and restored the cities vnto Israel.  
+**[13:25]** Therefore Iehoash the sonne of Iehoahaz returned, and tooke out of the hand of Ben-hadad the sonne of Hazael the cities which he had taken away by warre out of the hand of Iehoahaz his father: for three times did Ioash beate him, and restored the cities vnto Israel.
 
 ### Chapter 14
 
@@ -20528,7 +20528,7 @@
 
 **[14:28]** Concerning the rest of the actes of Ieroboam, and all that he did, and his valiant deedes, and how he fought, and how he restored Damascus, and Hamath to Iudah in Israel, are they not written in the booke of the Chronicles of the Kings of Israel?
 
-**[14:29]** So Ieroboam slept with his fathers, euen with the Kings of Israel, and Zachariah his sonne reigned in his steade.  
+**[14:29]** So Ieroboam slept with his fathers, euen with the Kings of Israel, and Zachariah his sonne reigned in his steade.
 
 ### Chapter 15
 
@@ -20606,7 +20606,7 @@
 
 **[15:37]** In those dayes the Lord began to send against Iudah Rezin the king of Aram, and Pekah the sonne of Remaliah.
 
-**[15:38]** And Iotham slept with his fathers, and was buryed with his fathers in the citie of Dauid his father, and Ahaz his sonne reigned in his steade.  
+**[15:38]** And Iotham slept with his fathers, and was buryed with his fathers in the citie of Dauid his father, and Ahaz his sonne reigned in his steade.
 
 ### Chapter 16
 
@@ -20648,7 +20648,7 @@
 
 **[16:19]** Concerning the rest of the actes of Ahaz, which he did, are they not written in the booke of the Chronicles of the Kings of Iudah?
 
-**[16:20]** And Ahaz slept with his fathers, and was buryed with his fathers in the citie of Dauid, and Hezekiah his sonne reigned in his steade.  
+**[16:20]** And Ahaz slept with his fathers, and was buryed with his fathers in the citie of Dauid, and Hezekiah his sonne reigned in his steade.
 
 ### Chapter 17
 
@@ -20732,7 +20732,7 @@
 
 **[17:40]** Howbeit they obeyed not, but did after their olde custome.
 
-**[17:41]** So these nations feared the Lord, and serued their images also: so did their children, and their childrens children: as did their fathers, so do they vnto this day.  
+**[17:41]** So these nations feared the Lord, and serued their images also: so did their children, and their childrens children: as did their fathers, so do they vnto this day.
 
 ### Chapter 18
 
@@ -20808,7 +20808,7 @@
 
 **[18:36]** But the people helde their peace, and answered not him a worde: for the Kings commandement was, saying, Answere ye him not.
 
-**[18:37]** Then Eliakim, the sonne of Hilkiah which was steward of the house, and Shebnah the chanceller, and Ioah the sonne of Asaph the recorder came to Hezekiah with their clothes rent, and tolde him the wordes of Rabshakeh.  
+**[18:37]** Then Eliakim, the sonne of Hilkiah which was steward of the house, and Shebnah the chanceller, and Ioah the sonne of Asaph the recorder came to Hezekiah with their clothes rent, and tolde him the wordes of Rabshakeh.
 
 ### Chapter 19
 
@@ -20884,7 +20884,7 @@
 
 **[19:36]** So Saneherib King of Asshur departed, and went his way, and returned, and dwelt in Nineueh.
 
-**[19:37]** And as he was in the Temple worshipping Nisroch his god, Adramelech and Sharezer his sonnes slewe him with the sworde: and they escaped into the land of Ararat, and Esarhaddon his sonne reigned in his steade.  
+**[19:37]** And as he was in the Temple worshipping Nisroch his god, Adramelech and Sharezer his sonnes slewe him with the sworde: and they escaped into the land of Ararat, and Esarhaddon his sonne reigned in his steade.
 
 ### Chapter 20
 
@@ -20928,7 +20928,7 @@
 
 **[20:20]** Concerning the rest of the actes of Hezekiah, and all his valiant deedes, and howe he made a poole and a cundite, and brought water into the citie, are they not written in the booke of the Chronicles of the Kings of Iudah?
 
-**[20:21]** And Hezekiah slept with his fathers: and Manasseh his sonne reigned in his steade.  
+**[20:21]** And Hezekiah slept with his fathers: and Manasseh his sonne reigned in his steade.
 
 ### Chapter 21
 
@@ -20982,7 +20982,7 @@
 
 **[21:25]** Concerning the rest of the actes of Amon, which he did, are they not written in the booke of the Chronicles of the Kings of Iudah?
 
-**[21:26]** And they buried him in his sepulchre in the garden of Vzza: and Iosiah his sonne reigned in his steade.  
+**[21:26]** And they buried him in his sepulchre in the garden of Vzza: and Iosiah his sonne reigned in his steade.
 
 ### Chapter 22
 
@@ -21024,7 +21024,7 @@
 
 **[22:19]** But because thine heart did melt, and thou hast humbled thy selfe before the Lord, when thou heardest what I spake against this place, and against the inhabitants of the same, to wit, that it should be destroyed and accursed, and hast rent thy clothes, and wept before me, I haue also heard it, saith the Lord.
 
-**[22:20]** Beholde therefore, I wil gather thee to thy fathers, and thou shalt be put in thy graue in peace, and thine eyes shall not see all the euil, which I will bring vpon this place. Thus they brought the King worde againe.  
+**[22:20]** Beholde therefore, I wil gather thee to thy fathers, and thou shalt be put in thy graue in peace, and thine eyes shall not see all the euil, which I will bring vpon this place. Thus they brought the King worde againe.
 
 ### Chapter 23
 
@@ -21100,7 +21100,7 @@
 
 **[23:36]** Iehoiakim was fiue and twentie yere olde, when he began to reigne, and he reigned eleuen yeeres in Ierusalem. His mothers name also was Zebudah the daughter of Pedaiah of Rumah.
 
-**[23:37]** And he did euill in the sight of the Lord, according to all that his fathers had done.  
+**[23:37]** And he did euill in the sight of the Lord, according to all that his fathers had done.
 
 ### Chapter 24
 
@@ -21142,7 +21142,7 @@
 
 **[24:19]** And he did euill in the sight of the Lord, according to all that Iehoiakim had done.
 
-**[24:20]** Therefore certainly the wrath of the Lord was against Ierusalem and Iudah vntill he cast them out of his sight. And Zedekiah rebelled against the King of Babel.  
+**[24:20]** Therefore certainly the wrath of the Lord was against Ierusalem and Iudah vntill he cast them out of his sight. And Zedekiah rebelled against the King of Babel.
 
 ### Chapter 25
 
@@ -21204,7 +21204,7 @@
 
 **[25:29]** And changed his prison garments: and he did continually eate bread before him, all the dayes of his life.
 
-**[25:30]** And his portion was a continual portion giuen him by the King, euery day a certaine, all the dayes of his life.   
+**[25:30]** And his portion was a continual portion giuen him by the King, euery day a certaine, all the dayes of his life.
 
 ## I Chronicles
 
@@ -21316,7 +21316,7 @@
 
 **[1:53]** Duke Kenaz, duke Teman, duke Mibzar,
 
-**[1:54]** Duke Magdiel, duke Iram: these were the dukes of Edom.  
+**[1:54]** Duke Magdiel, duke Iram: these were the dukes of Edom.
 
 ### Chapter 2
 
@@ -21428,7 +21428,7 @@
 
 **[2:54]** The sonnes of Salma of Beth-lehem, and the Netophathite, the crownes of the house of Ioab, and halfe the Manahthites and the Zorites.
 
-**[2:55]** And the families of the Scribes dwelling at Iabez, the Tirathites, the Shimmeathites, the Shuchathites, which are the Kenites, that came of Hammath the father of the house of Rechab.  
+**[2:55]** And the families of the Scribes dwelling at Iabez, the Tirathites, the Shimmeathites, the Shuchathites, which are the Kenites, that came of Hammath the father of the house of Rechab.
 
 ### Chapter 3
 
@@ -21478,7 +21478,7 @@
 
 **[3:23]** And the sonnes of Neariah were Elioenai, and Hezekiiah, and Azrikam, three.
 
-**[3:24]** And the sonnes of Elioenai were Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Iohanan, and Delaiah, and Anani, seuen.  
+**[3:24]** And the sonnes of Elioenai were Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Iohanan, and Delaiah, and Anani, seuen.
 
 ### Chapter 4
 
@@ -21566,7 +21566,7 @@
 
 **[4:42]** And besides these, fiue hundreth men of the sonnes of Simeon went to mount Seir, and Pelatiah, and Neariah, and Rophaiah, and Vzziel the sonnes of Ishi were their captaines,
 
-**[4:43]** And they smote the rest of Amalek that had escaped, and they dwelt there vnto this day.  
+**[4:43]** And they smote the rest of Amalek that had escaped, and they dwelt there vnto this day.
 
 ### Chapter 5
 
@@ -21620,7 +21620,7 @@
 
 **[5:25]** But they transgressed against the God of their fathers, and went a whoring after the gods of the people of the lande, whome God had destroyed before them.
 
-**[5:26]** And the God of Israel stirred vp the spirit of Pul king of Asshur, and the spirite of Tilgath Pilneeser king of Asshur, and he caryed them away: euen the Reubenites and the Gadites, and the halfe tribe of Manasseh, and brought them vnto Halah and Habor, and Hara, and to the riuer Gozan, vnto this day.  
+**[5:26]** And the God of Israel stirred vp the spirit of Pul king of Asshur, and the spirite of Tilgath Pilneeser king of Asshur, and he caryed them away: euen the Reubenites and the Gadites, and the halfe tribe of Manasseh, and brought them vnto Halah and Habor, and Hara, and to the riuer Gozan, vnto this day.
 
 ### Chapter 6
 
@@ -21784,7 +21784,7 @@
 
 **[6:80]** And out of the tribe of Gad Ramoth in Gilead with her suburbes, and Mahanaim with her suburbes,
 
-**[6:81]** And Heshbon with her suburbes, and Iaazer with her suburbes.  
+**[6:81]** And Heshbon with her suburbes, and Iaazer with her suburbes.
 
 ### Chapter 7
 
@@ -21866,7 +21866,7 @@
 
 **[7:39]** And the sonnes of Vlla, Harah, and Haniel, and Rizia.
 
-**[7:40]** All these were the children of Asher, the heads of their fathers houses, noble men, valiant men of warre and chiefe princes, and they were rekoned by their genealogies for warre and for battell to the nomber of sixe and twentie thousand men.  
+**[7:40]** All these were the children of Asher, the heads of their fathers houses, noble men, valiant men of warre and chiefe princes, and they were rekoned by their genealogies for warre and for battell to the nomber of sixe and twentie thousand men.
 
 ### Chapter 8
 
@@ -21948,7 +21948,7 @@
 
 **[8:39]** And the sonnes of Eshek his brother were Vlam his eldest sonne, Iehush the second, and Eliphelet the third.
 
-**[8:40]** And the sonnes of Vlam were valiant men of warre which shot with the bow, and had many sonnes and nephewes, an hundreth and fiftie: all these were of the sonnes of Beniamin.  
+**[8:40]** And the sonnes of Vlam were valiant men of warre which shot with the bow, and had many sonnes and nephewes, an hundreth and fiftie: all these were of the sonnes of Beniamin.
 
 ### Chapter 9
 
@@ -22038,7 +22038,7 @@
 
 **[9:43]** And Moza begate Binea, whose sonne was Rephaiah, and his sonne was Eleasah, and his sonne Azel.
 
-**[9:44]** And Azel had sixe sonnes, whose names are these, Azrikam, Bocheru, and Ismael, and Sheariah, and Obadiah, and Hanan: these are the sonnes of Azel.  
+**[9:44]** And Azel had sixe sonnes, whose names are these, Azrikam, Bocheru, and Ismael, and Sheariah, and Obadiah, and Hanan: these are the sonnes of Azel.
 
 ### Chapter 10
 
@@ -22068,7 +22068,7 @@
 
 **[10:13]** So Saul dyed for his transgression, that he committed against the Lord, euen against the word of the Lord, which he kept not, and in that he sought and asked counsel of a familiar spirit,
 
-**[10:14]** And asked not of the Lord: therefore he slewe him, and turned the kingdome vnto Dauid the sonne of Ishai.  
+**[10:14]** And asked not of the Lord: therefore he slewe him, and turned the kingdome vnto Dauid the sonne of Ishai.
 
 ### Chapter 11
 
@@ -22164,7 +22164,7 @@
 
 **[11:46]** Eliel the Mahauite, and Ieribai and Ioshauiah the sonnes of Elnaam, and Ithmah the Moabite,
 
-**[11:47]** Eliel and Obed, and Iaasiel the Mesobaite.  
+**[11:47]** Eliel and Obed, and Iaasiel the Mesobaite.
 
 ### Chapter 12
 
@@ -22246,7 +22246,7 @@
 
 **[12:39]** And there they were with Dauid three dayes, eating and drinking: for their brethren had prepared for them.
 
-**[12:40]** Moreouer they that were neere them vntill Issachar, and Zebulun, and Naphtali brought bread vpon asses, and on camels, and on mules, and on oxen, euen meate, floure, figges, and reisins, and wine and oyle, and beeues and sheepe abundantly: for there was ioy in Israel.  
+**[12:40]** Moreouer they that were neere them vntill Issachar, and Zebulun, and Naphtali brought bread vpon asses, and on camels, and on mules, and on oxen, euen meate, floure, figges, and reisins, and wine and oyle, and beeues and sheepe abundantly: for there was ioy in Israel.
 
 ### Chapter 13
 
@@ -22276,7 +22276,7 @@
 
 **[13:13]** Therefore Dauid brought not the Arke to him into the citie of Dauid, but caused it to turne into the house of Obed Edom the Gittite.
 
-**[13:14]** So the Arke of God remained in the house of Obed Edom, euen in his house three moneths: and the Lord blessed the house of Obed Edom, and all that he had.  
+**[13:14]** So the Arke of God remained in the house of Obed Edom, euen in his house three moneths: and the Lord blessed the house of Obed Edom, and all that he had.
 
 ### Chapter 14
 
@@ -22312,7 +22312,7 @@
 
 **[14:16]** So Dauid did as God had commanded him: and they smote the hoste of the Philistims from Gibeon euen to Gezer.
 
-**[14:17]** And the fame of Dauid went out into all landes, and the Lord brought the feare of him vpon all nations.  
+**[14:17]** And the fame of Dauid went out into all landes, and the Lord brought the feare of him vpon all nations.
 
 ### Chapter 15
 
@@ -22372,7 +22372,7 @@
 
 **[15:28]** Thus all Israel brought vp the Arke of the Lordes couenant with shouting and sounde of cornet, and with trumpets, and with cymbales, making a sound with violes and with harpes.
 
-**[15:29]** And when the Arke of the couenant of the Lord came into the citie of Dauid, Michal the daughter of Saul looked out at a windowe, and sawe King Dauid dauncing and playing, and she despised him in her heart.  
+**[15:29]** And when the Arke of the couenant of the Lord came into the citie of Dauid, Michal the daughter of Saul looked out at a windowe, and sawe King Dauid dauncing and playing, and she despised him in her heart.
 
 ### Chapter 16
 
@@ -22460,7 +22460,7 @@
 
 **[16:42]** Euen with them were Heman and Ioduthun, to make a sound with the cornets and with the cymbales, with excellent instruments of musicke: and the sonnes of Ieduthun were at the gate.
 
-**[16:43]** And all the people departed, euerie man to his house: and Dauid returned to blesse his house.  
+**[16:43]** And all the people departed, euerie man to his house: and Dauid returned to blesse his house.
 
 ### Chapter 17
 
@@ -22516,7 +22516,7 @@
 
 **[17:26]** Therefore nowe Lord (for thou art God, and hast spoken this goodnesse vnto thy seruant)
 
-**[17:27]** Now therfore, it hath pleased thee to blesse the house of thy seruant, that it may bee before thee for euer: for thou, O Lord, hast blessed it, and it shalbe blessed for euer.  
+**[17:27]** Now therfore, it hath pleased thee to blesse the house of thy seruant, that it may bee before thee for euer: for thou, O Lord, hast blessed it, and it shalbe blessed for euer.
 
 ### Chapter 18
 
@@ -22552,7 +22552,7 @@
 
 **[18:16]** And Zadok the sonne of Ahitub, and Abimelech the sonne of Abiathar were the Priests, and Shausha the Scribe,
 
-**[18:17]** And Benaiah the sonne of Iehoiada was ouer the Cherethites and the Pelethites: and the sonnes of Dauid were chiefe about the King.  
+**[18:17]** And Benaiah the sonne of Iehoiada was ouer the Cherethites and the Pelethites: and the sonnes of Dauid were chiefe about the King.
 
 ### Chapter 19
 
@@ -22592,7 +22592,7 @@
 
 **[19:18]** But the Aramites fled before Israel, and Dauid destroyed of the Aramites seuen thousand charets, and fourtie thousand footemen, and killed Shophach the captaine of the hoste.
 
-**[19:19]** And when the seruants of Hadarezer sawe that they fell before Israel, they made peace with Dauid, and serued him. And the Aramites would no more succour the children of Ammon.  
+**[19:19]** And when the seruants of Hadarezer sawe that they fell before Israel, they made peace with Dauid, and serued him. And the Aramites would no more succour the children of Ammon.
 
 ### Chapter 20
 
@@ -22610,7 +22610,7 @@
 
 **[20:7]** And when he reuiled Israel, Iehonathan the sonne of Shimea Dauids brother did slay him.
 
-**[20:8]** These were borne vnto Haraphah at Gath, and fell by the hand of Dauid: and by the hands of his seruants.  
+**[20:8]** These were borne vnto Haraphah at Gath, and fell by the hand of Dauid: and by the hands of his seruants.
 
 ### Chapter 21
 
@@ -22672,7 +22672,7 @@
 
 **[21:29]** (But the Tabernacle of the Lord which Moses had made in the wildernesse, and the altar of burnt offring were at that season in the hie place at Gibeon.
 
-**[21:30]** And Dauid could not go before it to aske counsel at God: for he was afraide of the sworde of the Angel of the Lord.)  
+**[21:30]** And Dauid could not go before it to aske counsel at God: for he was afraide of the sworde of the Angel of the Lord.)
 
 ### Chapter 22
 
@@ -22712,7 +22712,7 @@
 
 **[22:18]** Is not the Lord your God with you, and hath giuen you rest on euerie side? for hee hath giuen the inhabitants of the land into mine hand, and the land is subdued before the Lord and before his people.
 
-**[22:19]** Nowe set your hearts and your soules to seeke the Lord your God, and arise, and builde the Sanctuarie of the Lord God to bring the Arke of the couenant of the Lord, and the holy vessels of God into the house built for the Name of the Lord.  
+**[22:19]** Nowe set your hearts and your soules to seeke the Lord your God, and arise, and builde the Sanctuarie of the Lord God to bring the Arke of the couenant of the Lord, and the holy vessels of God into the house built for the Name of the Lord.
 
 ### Chapter 23
 
@@ -22778,7 +22778,7 @@
 
 **[23:31]** And to offer all burnt offrings vnto the Lord, in the Sabbaths, in the moneths, and at the appointed times, according to the nomber and according to their custome continually before the Lord,
 
-**[23:32]** And that they should keepe the charge of the Tabernacle of the Congregation, and the charge of ye holy place, and the charge of ye sonnes of Aaron their brethren in the seruice of ye house of the Lord.  
+**[23:32]** And that they should keepe the charge of the Tabernacle of the Congregation, and the charge of ye holy place, and the charge of ye sonnes of Aaron their brethren in the seruice of ye house of the Lord.
 
 ### Chapter 24
 
@@ -22842,7 +22842,7 @@
 
 **[24:30]** And the sonnes of Mushi were Mahli, and Eder, and Ierimoth: these were sonnes of the Leuites after the houshold of their fathers.
 
-**[24:31]** And these also cast lots with their brethren the sonnes of Aaron before King Dauid, and Zadok and Ahimelech and the chiefe fathers of the Priests, and of the Leuites, euen the chiefe of the families against their yonger brethren.  
+**[24:31]** And these also cast lots with their brethren the sonnes of Aaron before King Dauid, and Zadok and Ahimelech and the chiefe fathers of the Priests, and of the Leuites, euen the chiefe of the families against their yonger brethren.
 
 ### Chapter 25
 
@@ -22906,7 +22906,7 @@
 
 **[25:30]** The three and twentieth, to Mahazioth, he, his sonnes and his brethren twelue.
 
-**[25:31]** The foure and twentieth, to Romamti-ezer, he, his sonnes and his brethren twelue.  
+**[25:31]** The foure and twentieth, to Romamti-ezer, he, his sonnes and his brethren twelue.
 
 ### Chapter 26
 
@@ -22972,7 +22972,7 @@
 
 **[26:31]** Among the Hebronites was Iediiah the chiefest, euen the Hebronites by his generations according to the families. And in the fourtieth yere of the reigne of Dauid they were sought for: and there were founde among them men of actiuitie at Iazer in Gilead.
 
-**[26:32]** And his brethren men of actiuitie, two thousand and seuen hundreth chiefe fathers, whom King Dauid made rulers ouer the Reubenites, and the Gadites, and the halfe tribe of Manasseh, for euery matter perteining to God, and for the Kings busines.  
+**[26:32]** And his brethren men of actiuitie, two thousand and seuen hundreth chiefe fathers, whom King Dauid made rulers ouer the Reubenites, and the Gadites, and the halfe tribe of Manasseh, for euery matter perteining to God, and for the Kings busines.
 
 ### Chapter 27
 
@@ -23042,7 +23042,7 @@
 
 **[27:33]** And Ahitophel was the Kings counseller, and Hushai the Archite the Kings friend.
 
-**[27:34]** And after Ahitophel was Iehoiada the sonne of Benaiah and Abiathar: and captaine of the Kings armie was Ioab.  
+**[27:34]** And after Ahitophel was Iehoiada the sonne of Benaiah and Abiathar: and captaine of the Kings armie was Ioab.
 
 ### Chapter 28
 
@@ -23086,7 +23086,7 @@
 
 **[28:20]** And Dauid said to Salomon his sonne, Be strong, and of a valiant courage and doe it: feare not, nor be afraide: for the Lord God, euen my God is with thee: he will not leaue thee nor forsake thee till thou hast finished all the worke for the seruice of the house of the Lord.
 
-**[28:21]** Beholde also, the companies of the Priests and the Leuites for all the seruice of the house of God, euen they shall be with thee for the whole worke, with euery free heart that is skilfull in any maner of seruice. The princes also and all the people will be wholy at thy commandement.  
+**[28:21]** Beholde also, the companies of the Priests and the Leuites for all the seruice of the house of God, euen they shall be with thee for the whole worke, with euery free heart that is skilfull in any maner of seruice. The princes also and all the people will be wholy at thy commandement.
 
 ### Chapter 29
 
@@ -23148,7 +23148,7 @@
 
 **[29:29]** Concerning the actes of Dauid the King first and last, behold, they are written in the booke of Samuel the Seer, and in the booke of Nathan the Prophet, and in the booke of Gad the Seer,
 
-**[29:30]** With all his reigne and his power, and times that went ouer him, and ouer Israel and ouer all the kingdomes of the earth.   
+**[29:30]** With all his reigne and his power, and times that went ouer him, and ouer Israel and ouer all the kingdomes of the earth.
 
 ## II Chronicles
 
@@ -23186,7 +23186,7 @@
 
 **[1:16]** Also Salomon had horses brought out of Egypt and fine linen: the Kings marchants receiued the fine linen for a price.
 
-**[1:17]** They came vp also and brought out of Egypt some charet, worth sixe hundreth shekels of siluer, that is an horse for an hundreth and fiftie: and thus they brought horses to all the Kings of the Hittites, and to the Kings of Aram by their meanes.  
+**[1:17]** They came vp also and brought out of Egypt some charet, worth sixe hundreth shekels of siluer, that is an horse for an hundreth and fiftie: and thus they brought horses to all the Kings of the Hittites, and to the Kings of Aram by their meanes.
 
 ### Chapter 2
 
@@ -23224,7 +23224,7 @@
 
 **[2:17]** And Salomon nombred al the strangers that were in the land of Israel, after the nombring that his father Dauid had nombred them: and they were found an hundreth and three and fiftie thousand, and sixe hundreth.
 
-**[2:18]** And he set seuentie thousande of them to the burden, and fourescore thousande to hewe stones in the mountaine, and three thousande and sixe hundreth ouerseers to cause the people to worke.  
+**[2:18]** And he set seuentie thousande of them to the burden, and fourescore thousande to hewe stones in the mountaine, and three thousande and sixe hundreth ouerseers to cause the people to worke.
 
 ### Chapter 3
 
@@ -23260,7 +23260,7 @@
 
 **[3:16]** He made also chaines for the oracle, and put them on the heads of the pillars, and made an hundreth pomegranates, and put them among the chaines.
 
-**[3:17]** And he set vp the pillars before the Temple, one on the right hande and the other on the left, and called that on the right hand Iachin, and that on the left hand Boaz.  
+**[3:17]** And he set vp the pillars before the Temple, one on the right hande and the other on the left, and called that on the right hand Iachin, and that on the left hand Boaz.
 
 ### Chapter 4
 
@@ -23306,7 +23306,7 @@
 
 **[4:21]** And the floures and the lampes, and the snuffers of gold, which was fine golde.
 
-**[4:22]** And the hookes, and the basens, and the spoones, and the ashpans of pure golde: the entrie also of the house and doores thereof within, euen of the most holy place: and the doores of the house, to wit, of the Temple were of golde.  
+**[4:22]** And the hookes, and the basens, and the spoones, and the ashpans of pure golde: the entrie also of the house and doores thereof within, euen of the most holy place: and the doores of the house, to wit, of the Temple were of golde.
 
 ### Chapter 5
 
@@ -23336,7 +23336,7 @@
 
 **[5:13]** And they were as one, blowing trumpets, and singing, and made one sounde to bee heard in praysing and thanking the Lord, and when they lift vp their voyce with trumpets and with cymbales, and with instruments of musicke, and when they praysed the Lord, singing, For he is good, because his mercie lasteth for euer) then the house, euen the house of the Lord was filled with a cloude,
 
-**[5:14]** So that the Priests could not stand to minister, because of the cloude: for the glory of the Lord had filled the house of God.  
+**[5:14]** So that the Priests could not stand to minister, because of the cloude: for the glory of the Lord had filled the house of God.
 
 ### Chapter 6
 
@@ -23410,7 +23410,7 @@
 
 **[6:35]** Then heare thou in heauen their prayer and their supplication, and iudge their cause.
 
-**[6:36]** If they sinne against thee ( for there is no man that sinneth not) and thou be angry with them and deliuer them vnto the enemies, and they take them and cary them away captiue vnto a land farre or neere,
+**[6:36]** If they sinne against thee (for there is no man that sinneth not) and thou be angry with them and deliuer them vnto the enemies, and they take them and cary them away captiue vnto a land farre or neere,
 
 **[6:37]** If they turne againe to their heart in the lande whither they be caryed in captiues, and turne and pray vnto thee in the lande of their captiuitie, saying, We haue sinned, we haue transgressed and haue done wickedly,
 
@@ -23422,7 +23422,7 @@
 
 **[6:41]** Nowe therefore arise, O Lord God, to come into thy rest, thou, and the Arke of thy strength: O Lord God, let thy Priestes be clothed with saluation, and let thy Saints reioyce in goodnesse.
 
-**[6:42]** O Lord God, refuse not the face of thine anoynted: remember the mercies promised to Dauid thy seruant.  
+**[6:42]** O Lord God, refuse not the face of thine anoynted: remember the mercies promised to Dauid thy seruant.
 
 ### Chapter 7
 
@@ -23468,7 +23468,7 @@
 
 **[7:21]** And this house which is most hie, shall be an astonishment to euery one that passeth by it, so that he shall say, Why hath the Lord done thus to this lande, and to this house?
 
-**[7:22]** And they shall answere, Because they forsooke the Lord God of their fathers, which brought them out of the lande of Egypt, and haue taken holde on other gods, and haue worshipped them, and serued them, therefore hath he brought all this euill vpon them.  
+**[7:22]** And they shall answere, Because they forsooke the Lord God of their fathers, which brought them out of the lande of Egypt, and haue taken holde on other gods, and haue worshipped them, and serued them, therefore hath he brought all this euill vpon them.
 
 ### Chapter 8
 
@@ -23506,7 +23506,7 @@
 
 **[8:17]** Then went Salomon to Ezion-geber, and to Eloth by the sea side in the lande of Edom.
 
-**[8:18]** And Huram sent him by the handes of his seruants, shippes, and seruants that had knowledge of the sea: and they went with the seruants of Salomon to Ophir, and brought thence foure hundreth and fiftie talents of golde, and brought them to King Salomon.  
+**[8:18]** And Huram sent him by the handes of his seruants, shippes, and seruants that had knowledge of the sea: and they went with the seruants of Salomon to Ophir, and brought thence foure hundreth and fiftie talents of golde, and brought them to King Salomon.
 
 ### Chapter 9
 
@@ -23570,7 +23570,7 @@
 
 **[9:30]** And Salomon reigned in Ierusalem ouer all Israel fourtie yeeres.
 
-**[9:31]** And Salomon slept with his fathers, and they buryed him in the citie of Dauid his father: and Rehoboam his sonne reigned in his steade.  
+**[9:31]** And Salomon slept with his fathers, and they buryed him in the citie of Dauid his father: and Rehoboam his sonne reigned in his steade.
 
 ### Chapter 10
 
@@ -23610,7 +23610,7 @@
 
 **[10:18]** Then King Rehoboam sent Hadoram that was ouer the tribute, and the children of Israel stoned him with stones, that he died: then King Rehoboam made speede to get him vp to his charet, to flee to Ierusalem.
 
-**[10:19]** And Israel rebelled against the house of Dauid vnto this day.  
+**[10:19]** And Israel rebelled against the house of Dauid vnto this day.
 
 ### Chapter 11
 
@@ -23658,7 +23658,7 @@
 
 **[11:22]** And Rehoboam made Abiiah the sonne of Maakah the chiefe ruler among his brethren: for he thought to make him King.
 
-**[11:23]** And he taught him: and dispersed all his sonnes throughout all the countreis of Iudah and Beniamin vnto euery strong citie: and hee gaue them aboundance of vitaile, and desired many wiues.  
+**[11:23]** And he taught him: and dispersed all his sonnes throughout all the countreis of Iudah and Beniamin vnto euery strong citie: and hee gaue them aboundance of vitaile, and desired many wiues.
 
 ### Chapter 12
 
@@ -23692,7 +23692,7 @@
 
 **[12:15]** The actes also of Rehoboam, first and last, are they not written in the booke of Shemaiah the Prophet, and Iddo the Seer, in rehearsing the genealogie? and there was warre alway betweene Rehoboam and Ieroboam.
 
-**[12:16]** And Rehoboam slept with his fathers, and was buried in the citie of Dauid, and Abiiah his sonne reigned in his stead.  
+**[12:16]** And Rehoboam slept with his fathers, and was buried in the citie of Dauid, and Abiiah his sonne reigned in his stead.
 
 ### Chapter 13
 
@@ -23738,7 +23738,7 @@
 
 **[13:21]** So Abiiah waxed mightie, and marryed foureteene wiues, and begate two and twentie sonnes, and sixteene daughters.
 
-**[13:22]** The rest of the actes of Abiiah and his maners and his sayings are written in the storie of the Prophet Iddo.  
+**[13:22]** The rest of the actes of Abiiah and his maners and his sayings are written in the storie of the Prophet Iddo.
 
 ### Chapter 14
 
@@ -23770,7 +23770,7 @@
 
 **[14:14]** And they smote all the cities rounde about Gerar: for the feare of the Lord came vpon them, and they spoyled all the cities, for there was exceeding much spoyle in them.
 
-**[14:15]** Yea, and they smote the tents of cattel, and carried away plentie of sheepe and camels, and returned to Ierusalem.  
+**[14:15]** Yea, and they smote the tents of cattel, and carried away plentie of sheepe and camels, and returned to Ierusalem.
 
 ### Chapter 15
 
@@ -23810,7 +23810,7 @@
 
 **[15:18]** Also he brought into the house of God the things that his father had dedicate, and that he had dedicate, siluer, and golde, and vessels.
 
-**[15:19]** And there was no warre vnto the fiue and thirtieth yeere of the reigne of Asa.  
+**[15:19]** And there was no warre vnto the fiue and thirtieth yeere of the reigne of Asa.
 
 ### Chapter 16
 
@@ -23840,7 +23840,7 @@
 
 **[16:13]** So Asa slept with his fathers, and dyed in the one and fourtieth yeere of his reigne.
 
-**[16:14]** And they buryed him in one of his sepulchres, which he had made for him selfe in the citie of Dauid, and layed him in the bed, which they had filled with sweete odours and diuers kindes of spices made by the arte of the apoticarie: and they burnt odours for him with an exceeding great fire.  
+**[16:14]** And they buryed him in one of his sepulchres, which he had made for him selfe in the citie of Dauid, and layed him in the bed, which they had filled with sweete odours and diuers kindes of spices made by the arte of the apoticarie: and they burnt odours for him with an exceeding great fire.
 
 ### Chapter 17
 
@@ -23880,7 +23880,7 @@
 
 **[17:18]** And at his hand Iehozabad, and with him an hundreth and fourescore thousand armed to the warre.
 
-**[17:19]** These waited on the King, besides those which the King put in the strong cities thoroughout all Iudah.  
+**[17:19]** These waited on the King, besides those which the King put in the strong cities thoroughout all Iudah.
 
 ### Chapter 18
 
@@ -23950,7 +23950,7 @@
 
 **[18:33]** Then a certaine man drewe a bowe mightily, and smote the King of Israel betweene the ioyntes of his brigandine: Therefore he saide to his charetman, Turne thine hand, and carie mee out of the host: for I am hurt.
 
-**[18:34]** And the battel increased that day: and the King of Israel stood still in his charet against the Aramites vntil euen, and dyed at the time of the sunne going downe.  
+**[18:34]** And the battel increased that day: and the King of Israel stood still in his charet against the Aramites vntil euen, and dyed at the time of the sunne going downe.
 
 ### Chapter 19
 
@@ -23974,7 +23974,7 @@
 
 **[19:10]** And in euery cause that shall come to you of your brethren that dwel in their cities, betweene blood and blood, betweene law and precept, statutes and iudgements, ye shall iudge them, and admonish them that they trespasse not against the Lord, that wrath come not vpon you and vpon your brethren. This shall ye do and trespasse not.
 
-**[19:11]** And behold, Amariah the Priest shalbe the chiefe ouer you in all matters of the Lord, and Zebadiah ye sonne of Ishmael, a ruler of the house of Iudah, shalbe for al the Kings affaires, and the Leuites shalbe officers before you. Bee of courage, and doe it, and the Lord shalbe with the good.  
+**[19:11]** And behold, Amariah the Priest shalbe the chiefe ouer you in all matters of the Lord, and Zebadiah ye sonne of Ishmael, a ruler of the house of Iudah, shalbe for al the Kings affaires, and the Leuites shalbe officers before you. Bee of courage, and doe it, and the Lord shalbe with the good.
 
 ### Chapter 20
 
@@ -24050,7 +24050,7 @@
 
 **[20:36]** And he ioyned with him, to make ships to go to Tarshish: and they made the shippes in Ezion Gaber.
 
-**[20:37]** Then Eliezer ye sonne of Dodauah of Mareshah prophecied against Iehoshaphat, saying, Because thou hast ioyned thy selfe with Ahaziah, the Lord hath broken thy workes. and the shippes were broken, that they were not able to go to Tarshish.  
+**[20:37]** Then Eliezer ye sonne of Dodauah of Mareshah prophecied against Iehoshaphat, saying, Because thou hast ioyned thy selfe with Ahaziah, the Lord hath broken thy workes. and the shippes were broken, that they were not able to go to Tarshish.
 
 ### Chapter 21
 
@@ -24092,7 +24092,7 @@
 
 **[21:19]** And in processe of time, euen after the end of two yeeres, his guttes fell out with his disease: so he dyed of sore diseases: and his people made no burning for him like the burning of his fathers.
 
-**[21:20]** When he began to reigne, he was two and thirtie yeere olde, and reigned in Ierusalem eight yeere, and liued without being desired: yet they buryed him in the citie of Dauid, but not among the sepulchres of the Kings.  
+**[21:20]** When he began to reigne, he was two and thirtie yeere olde, and reigned in Ierusalem eight yeere, and liued without being desired: yet they buryed him in the citie of Dauid, but not among the sepulchres of the Kings.
 
 ### Chapter 22
 
@@ -24118,7 +24118,7 @@
 
 **[22:11]** But Iehoshabeath the daughter of ye King, tooke Ioash the sonne of Ahaziah, and stale him from among the Kings sonnes, that shoulde be slayne, and put him and his nource in the bed chamber: so Iehoshabeath the daughter of King Iehoram the wife of Iehoiada the Priest (for shee was the sister of Ahaziah) hid him from Athaliah: so she slew him not.
 
-**[22:12]** And hee was with them hid in the house of God sixe yeeres, whiles Athaliah reigned ouer the land.  
+**[22:12]** And hee was with them hid in the house of God sixe yeeres, whiles Athaliah reigned ouer the land.
 
 ### Chapter 23
 
@@ -24162,7 +24162,7 @@
 
 **[23:20]** And he tooke the captaines of hundreths, and the noble men, and the gouernours of the people, and all the people of the land, and he caused the King to come downe out of the house of the Lord, and they went thorowe the hie gate of the Kings house, and set the King vpon the throne of the kingdome.
 
-**[23:21]** Then all the people of the land reioyced, and the citie was quiet, after that they had slaine Athaliah with the sword.  
+**[23:21]** Then all the people of the land reioyced, and the citie was quiet, after that they had slaine Athaliah with the sword.
 
 ### Chapter 24
 
@@ -24218,7 +24218,7 @@
 
 **[24:26]** And these are they that conspired against him, Zabad the sonne of Shimrath an Ammonitesse, and Iehozabad the sonne of Shimrith a Moabitesse.
 
-**[24:27]** But his sonnes, and the summe of the taxe gathered by him, and the foundation of the house of God, behold, they are written in the storie of the booke of the Kings. And Amaziah his sonne reigned in his steade.  
+**[24:27]** But his sonnes, and the summe of the taxe gathered by him, and the foundation of the house of God, behold, they are written in the storie of the booke of the Kings. And Amaziah his sonne reigned in his steade.
 
 ### Chapter 25
 
@@ -24276,7 +24276,7 @@
 
 **[25:27]** Nowe after the time that Amaziah did turne away from ye Lord, they wrought treason against him in Ierusalem: and when he was fled to Lachish, they sent to Lachish after him, and slewe him there.
 
-**[25:28]** And they brought him vpon horses, and buried him with his fathers in the citie of Iudah.  
+**[25:28]** And they brought him vpon horses, and buried him with his fathers in the citie of Iudah.
 
 ### Chapter 26
 
@@ -24324,7 +24324,7 @@
 
 **[26:22]** Concerning the rest of the acts of Vzziah, first and last, did Isaiah the Prophet the sonne of Amoz write.
 
-**[26:23]** So Vzziah slept with his fathers, and they buryed him with his fathers in the fielde of the burial, which perteined to the kings: for they said, He is a leper. And Iotham his sonne reigned in his steade.  
+**[26:23]** So Vzziah slept with his fathers, and they buryed him with his fathers in the fielde of the burial, which perteined to the kings: for they said, He is a leper. And Iotham his sonne reigned in his steade.
 
 ### Chapter 27
 
@@ -24344,7 +24344,7 @@
 
 **[27:8]** He was fiue and twentie yeere olde when he began to reigne, and reigned sixteene yeere in Ierusalem.
 
-**[27:9]** And Iotham slept with his fathers, and they buryed him in the citie of Dauid: and Ahaz his sonne reigned in his stead.  
+**[27:9]** And Iotham slept with his fathers, and they buryed him in the citie of Dauid: and Ahaz his sonne reigned in his stead.
 
 ### Chapter 28
 
@@ -24400,7 +24400,7 @@
 
 **[28:26]** Concerning the rest of his actes, and all his wayes first and last, beholde, they are written in the booke of the Kings of Iudah, and Israel.
 
-**[28:27]** And Ahaz slept with his fathers, and they buried him in the citie of Ierusalem, but brought him not vnto the sepulchres of the Kings of Israel: and Hezekiah his sonne reigned in his stead.  
+**[28:27]** And Ahaz slept with his fathers, and they buried him in the citie of Ierusalem, but brought him not vnto the sepulchres of the Kings of Israel: and Hezekiah his sonne reigned in his stead.
 
 ### Chapter 29
 
@@ -24474,7 +24474,7 @@
 
 **[29:35]** And also the burnt offerings were many with the fat of the peace offrings and the drinke offrings for the burnt offring. so the seruice of the house of the Lord was set in order.
 
-**[29:36]** Then Hezekiah reioyced and all the people, that God had made the people so ready: for the thing was done suddenly.  
+**[29:36]** Then Hezekiah reioyced and all the people, that God had made the people so ready: for the thing was done suddenly.
 
 ### Chapter 30
 
@@ -24530,7 +24530,7 @@
 
 **[30:26]** So there was great ioye in Ierusalem: for since the time of Salomon the sonne of Dauid King of Israel there was not the like thing in Ierusalem.
 
-**[30:27]** Then the Priests and the Leuites arose, and blessed the people, and their voyce was heard, and their prayer came vp vnto heauen, to his holy habitation.  
+**[30:27]** Then the Priests and the Leuites arose, and blessed the people, and their voyce was heard, and their prayer came vp vnto heauen, to his holy habitation.
 
 ### Chapter 31
 
@@ -24574,7 +24574,7 @@
 
 **[31:20]** And thus did Hezekiah throughout al Iudah, and did well, and vprightly, and truely before the Lord his God.
 
-**[31:21]** And in all the workes that he began for the seruice of the house of God, both in the Law and in the commandements, to seeke his God, he did it with all his heart, and prospered.  
+**[31:21]** And in all the workes that he began for the seruice of the house of God, both in the Law and in the commandements, to seeke his God, he did it with all his heart, and prospered.
 
 ### Chapter 32
 
@@ -24642,7 +24642,7 @@
 
 **[32:32]** Concerning the rest of the actes of Hezekiah, and his goodnesse, beholde, they are written in the vision of Ishiah the Prophet, the sonne of Amoz, in the booke of the Kings of Iudah and Israel.
 
-**[32:33]** So Hezekiah slept with his fathers, and they buryed him in the highest sepulchre of the sonnes of Dauid: and all Iudah and the inhabitants of Ierusalem did him honour at his death: and Manasseh his sonne reigned in his stead.  
+**[32:33]** So Hezekiah slept with his fathers, and they buryed him in the highest sepulchre of the sonnes of Dauid: and all Iudah and the inhabitants of Ierusalem did him honour at his death: and Manasseh his sonne reigned in his stead.
 
 ### Chapter 33
 
@@ -24694,7 +24694,7 @@
 
 **[33:24]** And his seruants conspired against him, and slewe him in his owne house.
 
-**[33:25]** But the people of the land slewe all them that had conspired against King Amon: and the people of the land made Iosiah his sonne King in his steade.  
+**[33:25]** But the people of the land slewe all them that had conspired against King Amon: and the people of the land made Iosiah his sonne King in his steade.
 
 ### Chapter 34
 
@@ -24762,7 +24762,7 @@
 
 **[34:32]** And he caused all that were found in Ierusalem, and Beniamin to stande to it: and the inhabitants of Ierusalem did according to the couenant of God, euen the God of their fathers.
 
-**[34:33]** So Iosiah tooke away al the abominations out of all the countreis that perteined to the children of Israel, and compelled all that were found in Israel, to serue the Lord their God: so all his dayes they turned not backe from the Lord God of their fathers.  
+**[34:33]** So Iosiah tooke away al the abominations out of all the countreis that perteined to the children of Israel, and compelled all that were found in Israel, to serue the Lord their God: so all his dayes they turned not backe from the Lord God of their fathers.
 
 ### Chapter 35
 
@@ -24818,7 +24818,7 @@
 
 **[35:26]** Concerning the rest of the actes of Iosiah and his goodnesse, doing as it was written in the Lawe of the Lord,
 
-**[35:27]** And his deedes, first and last, behold, they are written in the booke of the Kings of Israel and Iudah.  
+**[35:27]** And his deedes, first and last, behold, they are written in the booke of the Kings of Israel and Iudah.
 
 ### Chapter 36
 
@@ -24866,7 +24866,7 @@
 
 **[36:22]** But in the first yeere of Cyrus King of Persia (when the worde of the Lord, spoken by the mouth of Ieremiah, was finished) the Lord stirred vp the spirit of Cyrus King of Persia, and he made a proclamation through all his kingdome, and also by writing, saying,
 
-**[36:23]** Thus saith Cyrus King of Persia, All the kingdomes of the earth hath the Lord God of heauen giuen me, and hath commanded me to build him an house in Ierusalem, that is in Iudah. Who is among you of all his people, with whom the Lord his God is? let him goe vp.   
+**[36:23]** Thus saith Cyrus King of Persia, All the kingdomes of the earth hath the Lord God of heauen giuen me, and hath commanded me to build him an house in Ierusalem, that is in Iudah. Who is among you of all his people, with whom the Lord his God is? let him goe vp.
 
 ## Ezra
 
@@ -24892,7 +24892,7 @@
 
 **[1:10]** Thirtie boules of gold, and of siluer boules of the second sort, foure hundreth and tenne, and of other vessels, a thousand.
 
-**[1:11]** All the vessels of golde and siluer were fiue thousand and foure hundreth. Sheshbazzar brought vp all with them of the captiuitie that came vp from Babel to Ierusalem.  
+**[1:11]** All the vessels of golde and siluer were fiue thousand and foure hundreth. Sheshbazzar brought vp all with them of the captiuitie that came vp from Babel to Ierusalem.
 
 ### Chapter 2
 
@@ -25034,7 +25034,7 @@
 
 **[2:69]** They gaue after their abilitie vnto the treasure of the worke, euen one and threescore thousand drammes of golde, and fiue thousand pieces of siluer, and an hundreth Priests garments.
 
-**[2:70]** So the Priests and the Leuites, and a certeine of the people, and the singers, and the porters, and the Nethinims dwelt in their cities, and all Israel in their cities.  
+**[2:70]** So the Priests and the Leuites, and a certeine of the people, and the singers, and the porters, and the Nethinims dwelt in their cities, and all Israel in their cities.
 
 ### Chapter 3
 
@@ -25062,7 +25062,7 @@
 
 **[3:12]** Many also of the Priests and the Leuites and the chiefe of the fathers, ancient men which had seene the first house, (when the foundation of this house was layed before their eyes) wept with a loud voyce, and many shouted aloud for ioy,
 
-**[3:13]** So that the people coulde not discerne the sound of the shoute for ioy, from the noyse of the weeping of the people: for the people shouted with a loude crie, and the noyse was heard farre off.  
+**[3:13]** So that the people coulde not discerne the sound of the shoute for ioy, from the noyse of the weeping of the people: for the people shouted with a loude crie, and the noyse was heard farre off.
 
 ### Chapter 4
 
@@ -25112,7 +25112,7 @@
 
 **[4:23]** When the copie of king Artahshashtes letter was read before Rehum and Shimshai the scribe, and their companions, they went vp in all the haste to Ierusalem vnto the Iewes, and caused them to cease by force and power.
 
-**[4:24]** Then ceased the worke of the house of God, which was in Ierusalem, and did stay vnto the second yeere of Darius King of Persia.  
+**[4:24]** Then ceased the worke of the house of God, which was in Ierusalem, and did stay vnto the second yeere of Darius King of Persia.
 
 ### Chapter 5
 
@@ -25148,7 +25148,7 @@
 
 **[5:16]** Then came the same Sheshbazzar and layde the foundation of the house of God, which is in Ierusalem, and since that time euen vntill nowe, hath it bene in buylding, yet is it not finished.
 
-**[5:17]** Nowe therefore if it please the King, let there be searche made in the house of the Kings treasures, which is there in Babel, whether a decree hath bene made by King Cyrus, to build this house of God in Ierusalem, and let the King send his minde concerning this.  
+**[5:17]** Nowe therefore if it please the King, let there be searche made in the house of the Kings treasures, which is there in Babel, whether a decree hath bene made by King Cyrus, to build this house of God in Ierusalem, and let the King send his minde concerning this.
 
 ### Chapter 6
 
@@ -25194,7 +25194,7 @@
 
 **[6:21]** So the children of Israel which were come againe out of captiuitie, and all such as had separated themselues vnto them, from the filthines of the Heathen of the land, to seeke the Lord God of Israel, did eate,
 
-**[6:22]** And they kept ye feast of vnleauened bread seuen dayes with ioy: for the Lord had made them glad, and turned the heart of the King of Asshur vnto them, to incourage them in the worke of the house of God, euen the God of Israel.  
+**[6:22]** And they kept ye feast of vnleauened bread seuen dayes with ioy: for the Lord had made them glad, and turned the heart of the King of Asshur vnto them, to incourage them in the worke of the house of God, euen the God of Israel.
 
 ### Chapter 7
 
@@ -25252,7 +25252,7 @@
 
 **[7:27]** Blessed be the Lord God of our fathers, which so hath put in the Kings heart, to beautifie the house of the Lord that is in Ierusalem,
 
-**[7:28]** And hath enclined mercy toward me, before the King and his counsellers, and before all the Kings mightie Princes: and I was comforted by the hand of the Lord my God which was vpon me, and I gathered the chiefe of Israel to goe vp with me.  
+**[7:28]** And hath enclined mercy toward me, before the King and his counsellers, and before all the Kings mightie Princes: and I was comforted by the hand of the Lord my God which was vpon me, and I gathered the chiefe of Israel to goe vp with me.
 
 ### Chapter 8
 
@@ -25326,7 +25326,7 @@
 
 **[8:35]** Also the children of the captiuitie, which were come out of captiuitie, offred burnt offrings vnto the God of Israel, twelue bullockes for all Israel, ninetie and sixe rammes, seuentie and seuen lambes, and twelue hee goates for sinne: all was a burnt offring of the Lord.
 
-**[8:36]** And they deliuered the Kings commission vnto the Kings officers, and to the captaines beyond the Riuer: and they promoted the people, and the house of God.  
+**[8:36]** And they deliuered the Kings commission vnto the Kings officers, and to the captaines beyond the Riuer: and they promoted the people, and the house of God.
 
 ### Chapter 9
 
@@ -25358,7 +25358,7 @@
 
 **[9:14]** Should we returne to breake thy commadements, and ioyne in affinitie with the people of such abominations? wouldest not thou be angrie towarde vs till thou haddest consumed vs, so that there should be no remnant nor any escaping?
 
-**[9:15]** O Lord God of Israel, thou art iust, for we haue bene reserued to escape, as appeareth this day: beholde, we are before thee in our trespasse: therfore we canot stand before thee because of it.  
+**[9:15]** O Lord God of Israel, thou art iust, for we haue bene reserued to escape, as appeareth this day: beholde, we are before thee in our trespasse: therfore we canot stand before thee because of it.
 
 ### Chapter 10
 
@@ -25448,7 +25448,7 @@
 
 **[10:43]** Of the sonnes of Nebo, Ieiel, Mattithiah, Zabad, Zebina, Iadau, and Ioel, Benaiah.
 
-**[10:44]** All these had taken strange wiues: and among them were women that had children.   
+**[10:44]** All these had taken strange wiues: and among them were women that had children.
 
 ## Nehemiah
 
@@ -25474,7 +25474,7 @@
 
 **[1:10]** Now these are thy seruants and thy people, whome thou hast redeemed by thy great power, and by thy mightie hand.
 
-**[1:11]** O Lord, I beseech thee, let thine eare now hearken to the prayer of thy seruant, and to the prayer of thy seruants, who desire to feare thy Name, and I pray thee, cause thy seruant to prosper this day, and giue him fauour in the presence of this man: for I was the Kings butler.  
+**[1:11]** O Lord, I beseech thee, let thine eare now hearken to the prayer of thy seruant, and to the prayer of thy seruants, who desire to feare thy Name, and I pray thee, cause thy seruant to prosper this day, and giue him fauour in the presence of this man: for I was the Kings butler.
 
 ### Chapter 2
 
@@ -25516,7 +25516,7 @@
 
 **[2:19]** But when Sanballat the Horonite, and Tobiah the seruant an Ammonite, and Geshem the Arabian heard it, they mocked vs and despised vs, and said, What a thing is this that ye doe? Will ye rebell against the King?
 
-**[2:20]** Then answered I them, and sayd to them, The God of heauen, he will prosper vs, and we his seruants will rise vp and buylde: but as for you, ye haue no portion nor right, nor memoriall in Ierusalem.  
+**[2:20]** Then answered I them, and sayd to them, The God of heauen, he will prosper vs, and we his seruants will rise vp and buylde: but as for you, ye haue no portion nor right, nor memoriall in Ierusalem.
 
 ### Chapter 3
 
@@ -25582,7 +25582,7 @@
 
 **[3:31]** After him fortified Malchiah the goldesmiths sonne, vntil the house of the Nethinims, and of ye marchants ouer against the gate Miphkad, and to the chamber in the corner.
 
-**[3:32]** And betweene the chamber of the corner vnto the sheepegate fortified the goldesmithes and the marchantes.  
+**[3:32]** And betweene the chamber of the corner vnto the sheepegate fortified the goldesmithes and the marchantes.
 
 ### Chapter 4
 
@@ -25630,7 +25630,7 @@
 
 **[4:22]** And at the same time said I vnto the people, Let euery one with his seruant lodge within Ierusalem, that they may be a watch for vs in the night, and labour in the day.
 
-**[4:23]** So neither I, nor my brethren, nor my seruants, nor the men of the warde, (which followed me) none of vs did put off our clothes, saue euery one put them off for washing.  
+**[4:23]** So neither I, nor my brethren, nor my seruants, nor the men of the warde, (which followed me) none of vs did put off our clothes, saue euery one put them off for washing.
 
 ### Chapter 5
 
@@ -25670,7 +25670,7 @@
 
 **[5:18]** And there was prepared daily an oxe, and sixe chosen sheepe, and birdes were prepared for me, and within ten dayes wine for all in abundance. Yet for all this I required not the bread of the gouernour: for the bondage was grieuous vnto this people.
 
-**[5:19]** Remember me, O my God, in goodnesse, according to all that I haue done for this people.  
+**[5:19]** Remember me, O my God, in goodnesse, according to all that I haue done for this people.
 
 ### Chapter 6
 
@@ -25710,7 +25710,7 @@
 
 **[6:18]** For there were many in Iudah, that were sworne vnto him: for he was the sonne in lawe of Shechaniah, the sonne of Arah: and his sonne Iehonathan had the daughter of Meshullam, the sonne of Berechiah.
 
-**[6:19]** Yea, they spake in his praise before me, and tolde him my wordes, and Tobiah sent letters to put me in feare.  
+**[6:19]** Yea, they spake in his praise before me, and tolde him my wordes, and Tobiah sent letters to put me in feare.
 
 ### Chapter 7
 
@@ -25858,7 +25858,7 @@
 
 **[7:72]** And the rest of the people gaue twentie thousand drammes of golde, and two thousande pieces of siluer, and three score and seuen Priestes garments.
 
-**[7:73]** And the Priestes, and Leuites, and the porters and the singers and the rest of the people and the Nethinims, and all Israel dwelt in their cities: and when the seuenth moneth came, the children of Israel were in their cities.  
+**[7:73]** And the Priestes, and Leuites, and the porters and the singers and the rest of the people and the Nethinims, and all Israel dwelt in their cities: and when the seuenth moneth came, the children of Israel were in their cities.
 
 ### Chapter 8
 
@@ -25896,7 +25896,7 @@
 
 **[8:17]** And all the Congregation of them that were come againe out of the captiuitie made boothes, and sate vnder the boothes: for since the time of Ieshua the sonne of Nun vnto this day, had not the children of Israel done so, and there was very great ioy.
 
-**[8:18]** And he read in the booke of the Lawe of God euery day, from the first day vnto the last day. and they kept the feast seuen dayes, and on the eight day a solemne assemblie, according vnto the maner.  
+**[8:18]** And he read in the booke of the Lawe of God euery day, from the first day vnto the last day. and they kept the feast seuen dayes, and on the eight day a solemne assemblie, according vnto the maner.
 
 ### Chapter 9
 
@@ -25956,7 +25956,7 @@
 
 **[9:28]** But when they had rest, they returned to doe euill before thee: therefore leftest thou them in the hande of their enemies, so that they had the dominion ouer them, yet when they conuerted and cryed vnto thee, thou heardest them from heauen, and deliueredst them according to thy great mercies many times,
 
-**[9:29]** And protestedst among them that thou mightest bring them againe vnto thy Lawe: but they behaued them selues proudely, and hearkened not vnto thy commandements, but sinned against thy iudgements ( which a man should doe and liue in them) and pulled away the shoulder, and were stiffenecked, and woulde not heare.
+**[9:29]** And protestedst among them that thou mightest bring them againe vnto thy Lawe: but they behaued them selues proudely, and hearkened not vnto thy commandements, but sinned against thy iudgements (which a man should doe and liue in them) and pulled away the shoulder, and were stiffenecked, and woulde not heare.
 
 **[9:30]** Yet thou diddest forbeare them many yeeres, and protestedst among them by thy Spirite, euen by the hande of thy Prophets, but they woulde not heare: therefore gauest thou them into the hande of the people of the lands.
 
@@ -25974,7 +25974,7 @@
 
 **[9:37]** And it yeeldeth much fruit vnto the kings whom thou hast set ouer vs, because of our sinnes: and they haue dominion ouer our bodyes and ouer our cattell at their pleasure, and we are in great affliction.
 
-**[9:38]** Now because of all this we make a sure couenant, and write it, and our princes, our Leuites and our Priestes seale vnto it.  
+**[9:38]** Now because of all this we make a sure couenant, and write it, and our princes, our Leuites and our Priestes seale vnto it.
 
 ### Chapter 10
 
@@ -26054,7 +26054,7 @@
 
 **[10:38]** And the Priest, the sonne of Aaron shall be with the Leuites, when ye Leuites take tithes, and the Leuites shall bring vp the tenth parte of the tithes vnto the house of our God, vnto the chambers of the treasure house.
 
-**[10:39]** For the children of Israel, and the children of Leui shall bring vp the offerings of the corne, of the wine, and of the oyle, vnto the chabers: and there shalbe the vessels of the Sanctuarie, and the Priestes that minister, and the porters, and the fingers, and we will not forsake the house of our God.  
+**[10:39]** For the children of Israel, and the children of Leui shall bring vp the offerings of the corne, of the wine, and of the oyle, vnto the chabers: and there shalbe the vessels of the Sanctuarie, and the Priestes that minister, and the porters, and the fingers, and we will not forsake the house of our God.
 
 ### Chapter 11
 
@@ -26128,7 +26128,7 @@
 
 **[11:35]** Lod and Ono, in the carpenters valley.
 
-**[11:36]** And of the Leuites were diuisions in Iudah and in Beniamin.  
+**[11:36]** And of the Leuites were diuisions in Iudah and in Beniamin.
 
 ### Chapter 12
 
@@ -26224,7 +26224,7 @@
 
 **[12:46]** For in the dayes of Dauid and Asaph, of olde were chiefe singers, and songs of praise and thankesgiuing vnto God.
 
-**[12:47]** And in the dayes of Zerubbabel, and in the dayes of Nehemiah did al Israel giue portions vnto the singers and porters, euerie day his portion, and they gaue the holy things vnto the Leuites, and the Leuites gaue the holy things vnto the sonnes of Aaron.  
+**[12:47]** And in the dayes of Zerubbabel, and in the dayes of Nehemiah did al Israel giue portions vnto the singers and porters, euerie day his portion, and they gaue the holy things vnto the Leuites, and the Leuites gaue the holy things vnto the sonnes of Aaron.
 
 ### Chapter 13
 
@@ -26288,7 +26288,7 @@
 
 **[13:30]** Then cleansed I them from all strangers, and appoynted the wardes of the Priestes and of the Leuites, euery one in his office,
 
-**[13:31]** And for the offring of the wood at times appoynted, and for the first fruites. Remember me, O my God, in goodnes.   
+**[13:31]** And for the offring of the wood at times appoynted, and for the first fruites. Remember me, O my God, in goodnes.
 
 ## Esther
 
@@ -26336,7 +26336,7 @@
 
 **[1:21]** And this saying pleased the King and the princes, and the King did according to the worde of Memucan.
 
-**[1:22]** For he sent letters into all the prouinces of the King, into euery prouince according to the writing thereof, and to euery people after their language, that euery man should beare rule in his owne house, and that he should publish it in the language of that same people.  
+**[1:22]** For he sent letters into all the prouinces of the King, into euery prouince according to the writing thereof, and to euery people after their language, that euery man should beare rule in his owne house, and that he should publish it in the language of that same people.
 
 ### Chapter 2
 
@@ -26382,7 +26382,7 @@
 
 **[2:21]** In those dayes whe Mordecai sate in the Kings gate, two of the Kings eunuches, Bigthan and Teresh, which kept the doore, were wroth, and sought to lay hand on the King Ahashuerosh.
 
-**[2:22]** And the thing was knowen to Mordecai, and he tolde it vnto Queene Ester, and Ester certified the King thereof in Mordecais name: and when inquisition was made, it was found so: therefore they were both hanged on a tree: and it was written in the booke of the Chronicles before the King.  
+**[2:22]** And the thing was knowen to Mordecai, and he tolde it vnto Queene Ester, and Ester certified the King thereof in Mordecais name: and when inquisition was made, it was found so: therefore they were both hanged on a tree: and it was written in the booke of the Chronicles before the King.
 
 **[2:23]** 
 
@@ -26416,7 +26416,7 @@
 
 **[3:14]** The contents of the writing was, that there shoulde be giuen a commandement in all prouinces, and published vnto all people, that they should be ready against the same day.
 
-**[3:15]** And the postes compelled by the Kings commandement went forth, and the commandement was giuen in the palace at Shushan: and the King and Haman sate drinking, but the citie of Shushan was in perplexitie.  
+**[3:15]** And the postes compelled by the Kings commandement went forth, and the commandement was giuen in the palace at Shushan: and the King and Haman sate drinking, but the citie of Shushan was in perplexitie.
 
 ### Chapter 4
 
@@ -26452,7 +26452,7 @@
 
 **[4:16]** Goe, and assemble all the Iewes that are found in Shushan, and fast ye for me, and eate not, nor drinke in three dayes, day nor night. I also and my maydes will fast likewise, and so will I go in to the King, which is not according to the lawe: and if I perish, I perish.
 
-**[4:17]** So Mordecai went his way, and did according to all that Ester had commanded him.  
+**[4:17]** So Mordecai went his way, and did according to all that Ester had commanded him.
 
 ### Chapter 5
 
@@ -26482,7 +26482,7 @@
 
 **[5:13]** But al this doth nothing auaile me, as long as I see Mordecai ye Iewe sitting at ye Kings gate.
 
-**[5:14]** Then sayde Zeresh his wife and all his friends vnto him, Let them make a tree of fiftie cubites hie, and to morowe speake thou vnto the King, that Mordecai may be hanged thereon: then shalt thou goe ioyfully with the King vnto the banket. And the thing pleased Haman, and he caused to make the tree.  
+**[5:14]** Then sayde Zeresh his wife and all his friends vnto him, Let them make a tree of fiftie cubites hie, and to morowe speake thou vnto the King, that Mordecai may be hanged thereon: then shalt thou goe ioyfully with the King vnto the banket. And the thing pleased Haman, and he caused to make the tree.
 
 ### Chapter 6
 
@@ -26512,7 +26512,7 @@
 
 **[6:13]** And Haman tolde Zeresh his wife, and all his friends all that had befallen him. Then sayd his wise men, and Zeresh his wife vnto him, If Mordecai be of the seede of the Iewes, before whom thou hast begunne to fall; thou shalt not preuaile against him, but shalt surely fall before him.
 
-**[6:14]** And while they were yet talking with him, came the Kings eunuches and hasted to bring Haman vnto the banket that Ester had prepared.  
+**[6:14]** And while they were yet talking with him, came the Kings eunuches and hasted to bring Haman vnto the banket that Ester had prepared.
 
 ### Chapter 7
 
@@ -26534,7 +26534,7 @@
 
 **[7:9]** And Harbonah one of the eunuches, sayde in the presence of the King, Beholde, there standeth yet the tree in Hamans house fiftie cubites hie, which Haman had prepared for Mordecai, that spake good for the King. Then the King sayd, Hang him thereon.
 
-**[7:10]** So they hanged Haman on the tree, that he had prepared for Mordecai: then was the Kings wrath pacified.  
+**[7:10]** So they hanged Haman on the tree, that he had prepared for Mordecai: then was the Kings wrath pacified.
 
 ### Chapter 8
 
@@ -26570,7 +26570,7 @@
 
 **[8:16]** And vnto the Iewes was come light and ioy and gladnes, and honour.
 
-**[8:17]** Also in all and euery prouince, and in al and euery citie and place, where the Kings commandement and his decree came, there was ioy and gladnes to the Iewes, a feast and good day, and many of the people of the land became Iewes: for the feare of the Iewes fell vpon them.  
+**[8:17]** Also in all and euery prouince, and in al and euery citie and place, where the Kings commandement and his decree came, there was ioy and gladnes to the Iewes, a feast and good day, and many of the people of the land became Iewes: for the feare of the Iewes fell vpon them.
 
 ### Chapter 9
 
@@ -26636,7 +26636,7 @@
 
 **[9:31]** To confirme these dayes of Purim, according to their seasons, as Mordecai the Iewe and Ester the Queene had appointed them, and as they had promised for them selues and for their seede with fasting and prayer.
 
-**[9:32]** And the decree of Ester confirmed these words of Purim, and was written in the booke.  
+**[9:32]** And the decree of Ester confirmed these words of Purim, and was written in the booke.
 
 ### Chapter 10
 
@@ -26644,7 +26644,7 @@
 
 **[10:2]** And all the actes of his power, and of his might, and the declaration of the dignitie of Mordecai, wherwith the King magnified him, are they not written in the booke of the Chronicles of the Kings of Media and Persia?
 
-**[10:3]** For Mordecai the Iewe was the second vnto King Ahashuerosh, and great among the Iewes, and accepted among the multitude of his brethren, who procured the wealth of his people, and spake peaceably to all his seede.   
+**[10:3]** For Mordecai the Iewe was the second vnto King Ahashuerosh, and great among the Iewes, and accepted among the multitude of his brethren, who procured the wealth of his people, and spake peaceably to all his seede.
 
 ## Job
 
@@ -26692,7 +26692,7 @@
 
 **[1:21]** And sayd, Naked came I out of my mothers wombe, and naked shall I returne thither: the Lord hath giuen, and the Lord hath taken it: blessed be the Name of the Lord.
 
-**[1:22]** In all this did not Iob sinne, nor charge God foolishly.  
+**[1:22]** In all this did not Iob sinne, nor charge God foolishly.
 
 ### Chapter 2
 
@@ -26720,7 +26720,7 @@
 
 **[2:12]** So when they lift vp their eyes a farre off, they knewe him not: therefore they lift vp their voyces and wept, and euery one of them rent his garment, and sprinkled dust vpon their heads toward the heauen.
 
-**[2:13]** So they sate by him vpon the ground seuen dayes, and seuen nights, and none spake a worde vnto him: for they sawe, that the griefe was very great.  
+**[2:13]** So they sate by him vpon the ground seuen dayes, and seuen nights, and none spake a worde vnto him: for they sawe, that the griefe was very great.
 
 ### Chapter 3
 
@@ -26774,7 +26774,7 @@
 
 **[3:25]** For the thing I feared, is come vpon me, and the thing that I was afraid of, is come vnto me.
 
-**[3:26]** I had no peace, neither had I quietnesse, neither had I rest, yet trouble is come.  
+**[3:26]** I had no peace, neither had I quietnesse, neither had I rest, yet trouble is come.
 
 ### Chapter 4
 
@@ -26818,7 +26818,7 @@
 
 **[4:20]** They be destroyed from the morning vnto the euening: they perish for euer, without regarde.
 
-**[4:21]** Doeth not their dignitie goe away with them? do they not die, and that without wisdom?  
+**[4:21]** Doeth not their dignitie goe away with them? do they not die, and that without wisdom?
 
 ### Chapter 5
 
@@ -26874,7 +26874,7 @@
 
 **[5:26]** Thou shalt goe to thy graue in a ful age, as a ricke of corne commeth in due season into the barne.
 
-**[5:27]** Lo, thus haue we inquired of it, and so it is: heare this and knowe it for thy selfe.  
+**[5:27]** Lo, thus haue we inquired of it, and so it is: heare this and knowe it for thy selfe.
 
 ### Chapter 6
 
@@ -26934,7 +26934,7 @@
 
 **[6:28]** Nowe therefore be content to looke vpon me: for I will not lie before your face.
 
-**[6:29]** Turne, I pray you, let there be none iniquitie: returne, I say, and ye shall see yet my righteousnesse in that behalfe. Is there iniquitie in my tongue? doeth not my mouth feele sorowes?  
+**[6:29]** Turne, I pray you, let there be none iniquitie: returne, I say, and ye shall see yet my righteousnesse in that behalfe. Is there iniquitie in my tongue? doeth not my mouth feele sorowes?
 
 **[6:30]** 
 
@@ -26980,7 +26980,7 @@
 
 **[7:20]** I haue sinned, what shall I do vnto thee? O thou preseruer of me, why hast thou set me as a marke against thee, so that I am a burden vnto my selfe?
 
-**[7:21]** And why doest thou not pardon my trespasse? and take away mine iniquitie? for nowe shall I sleepe in the dust, and if thou seekest me in the morning, I shall not be found.  
+**[7:21]** And why doest thou not pardon my trespasse? and take away mine iniquitie? for nowe shall I sleepe in the dust, and if thou seekest me in the morning, I shall not be found.
 
 ### Chapter 8
 
@@ -27026,7 +27026,7 @@
 
 **[8:21]** Till he haue filled thy mouth with laughter, and thy lippes with ioy.
 
-**[8:22]** They that hate thee, shall be clothed with shame, and the dwelling of the wicked shall not remaine.  
+**[8:22]** They that hate thee, shall be clothed with shame, and the dwelling of the wicked shall not remaine.
 
 ### Chapter 9
 
@@ -27098,7 +27098,7 @@
 
 **[9:34]** Let him take his rod away from me, and let not his feare astonish me:
 
-**[9:35]** Then will I speake, and feare him not: but because I am not so, I holde me still.  
+**[9:35]** Then will I speake, and feare him not: but because I am not so, I holde me still.
 
 ### Chapter 10
 
@@ -27144,7 +27144,7 @@
 
 **[10:21]** Before I goe and shall not returne, euen to the land of darkenesse and shadow of death:
 
-**[10:22]** Into a land, I say, darke as darknes it selfe, and into the shadow of death, where is none order, but the light is there as darkenesse.  
+**[10:22]** Into a land, I say, darke as darknes it selfe, and into the shadow of death, where is none order, but the light is there as darkenesse.
 
 ### Chapter 11
 
@@ -27186,7 +27186,7 @@
 
 **[11:19]** For when thou takest thy rest, none shall make thee afraide: yea, many shall make sute vnto thee.
 
-**[11:20]** But the eyes of the wicked shall faile, and their refuge shall perish, and their hope shalbe sorow of minde.  
+**[11:20]** But the eyes of the wicked shall faile, and their refuge shall perish, and their hope shalbe sorow of minde.
 
 ### Chapter 12
 
@@ -27238,7 +27238,7 @@
 
 **[12:24]** He taketh away the heartes of the that are the chiefe ouer the people of the earth, and maketh them to wander in the wildernes out of the way.
 
-**[12:25]** They grope in the darke without light: and he maketh the to stagger like a drunken man.  
+**[12:25]** They grope in the darke without light: and he maketh the to stagger like a drunken man.
 
 ### Chapter 13
 
@@ -27296,7 +27296,7 @@
 
 **[13:27]** Thou puttest my feete also in the stocks, and lookest narrowly vnto all my pathes, and makest the print thereof in ye heeles of my feet.
 
-**[13:28]** Such one consumeth like a rotten thing, and as a garment that is motheaten.  
+**[13:28]** Such one consumeth like a rotten thing, and as a garment that is motheaten.
 
 ### Chapter 14
 
@@ -27342,7 +27342,7 @@
 
 **[14:21]** And he knoweth not if his sonnes shall be honourable, neither shall he vnderstand concerning them, whether they shalbe of lowe degree,
 
-**[14:22]** But while his flesh is vpon him, he shall be sorowfull, and while his soule is in him, it shall mourne.  
+**[14:22]** But while his flesh is vpon him, he shall be sorowfull, and while his soule is in him, it shall mourne.
 
 ### Chapter 15
 
@@ -27414,7 +27414,7 @@
 
 **[15:34]** For the congregation of the hypocrite shalbe desolate, and fire shall deuoure the houses of bribes.
 
-**[15:35]** For they conceiue mischiefe and bring foorth vanitie, and their bellie hath prepared deceite.  
+**[15:35]** For they conceiue mischiefe and bring foorth vanitie, and their bellie hath prepared deceite.
 
 ### Chapter 16
 
@@ -27460,7 +27460,7 @@
 
 **[16:21]** Oh that a man might pleade with God, as man with his neighbour!
 
-**[16:22]** For the yeeres accounted come, and I shall go the way, whence I shall not returne.  
+**[16:22]** For the yeeres accounted come, and I shall go the way, whence I shall not returne.
 
 ### Chapter 17
 
@@ -27494,7 +27494,7 @@
 
 **[17:15]** Where is then now mine hope? or who shall consider the thing, that I hoped for?
 
-**[17:16]** They shall goe downe into the bottome of the pit: surely it shall lye together in the dust.  
+**[17:16]** They shall goe downe into the bottome of the pit: surely it shall lye together in the dust.
 
 ### Chapter 18
 
@@ -27538,7 +27538,7 @@
 
 **[18:20]** The posteritie shalbe astonied at his day, and feare shall come vpon the ancient.
 
-**[18:21]** Surely such are the habitations of the wicked, and this is the place of him that knoweth not God.  
+**[18:21]** Surely such are the habitations of the wicked, and this is the place of him that knoweth not God.
 
 ### Chapter 19
 
@@ -27598,7 +27598,7 @@
 
 **[19:28]** But yee sayde, Why is hee persecuted? And there was a deepe matter in me.
 
-**[19:29]** Be ye afraide of the sworde: for the sworde will be auenged of wickednesse, that yee may knowe that there is a iudgement.  
+**[19:29]** Be ye afraide of the sworde: for the sworde will be auenged of wickednesse, that yee may knowe that there is a iudgement.
 
 ### Chapter 20
 
@@ -27658,7 +27658,7 @@
 
 **[20:28]** The increase of his house shall go away: it shall flow away in the day of his wrath.
 
-**[20:29]** This is the portion of the wicked man from God, and the heritage that he shall haue of God for his wordes.  
+**[20:29]** This is the portion of the wicked man from God, and the heritage that he shall haue of God for his wordes.
 
 ### Chapter 21
 
@@ -27728,7 +27728,7 @@
 
 **[21:33]** The slimie valley shalbe sweete vnto him, and euery man shall draw after him, as before him there were innumerable.
 
-**[21:34]** How then comfort ye me in vaine, seeing in your answeres there remaine but lyes?  
+**[21:34]** How then comfort ye me in vaine, seeing in your answeres there remaine but lyes?
 
 ### Chapter 22
 
@@ -27790,7 +27790,7 @@
 
 **[22:29]** When others are cast downe, then shalt thou say, I am lifted vp: and God shall saue the humble person.
 
-**[22:30]** The innocent shall deliuer the yland, and it shalbe preserued by the purenes of thine hands.  
+**[22:30]** The innocent shall deliuer the yland, and it shalbe preserued by the purenes of thine hands.
 
 ### Chapter 23
 
@@ -27826,7 +27826,7 @@
 
 **[23:16]** For God hath softened mine heart, and the Almightie hath troubled me.
 
-**[23:17]** For I am not cut off in darknesse, but he hath hid the darkenesse from my face.  
+**[23:17]** For I am not cut off in darknesse, but he hath hid the darkenesse from my face.
 
 ### Chapter 24
 
@@ -27878,7 +27878,7 @@
 
 **[24:24]** They are exalted for a litle, but they are gone, and are brought lowe as all others: they are destroyed, and cut off as the toppe of an eare of corne.
 
-**[24:25]** But if it be not so, where is he? or who wil proue me a lyer, and make my words of no value?  
+**[24:25]** But if it be not so, where is he? or who wil proue me a lyer, and make my words of no value?
 
 ### Chapter 25
 
@@ -27892,7 +27892,7 @@
 
 **[25:5]** Behold, he wil giue no light to the moone, and the starres are vncleane in his sight.
 
-**[25:6]** How much more man, a worme, euen the sonne of man, which is but a worme?  
+**[25:6]** How much more man, a worme, euen the sonne of man, which is but a worme?
 
 ### Chapter 26
 
@@ -27922,7 +27922,7 @@
 
 **[26:13]** His Spirite hath garnished the heauens, and his hand hath formed the crooked serpent.
 
-**[26:14]** Loe, these are part of his wayes: but how litle a portion heare we of him? and who can vnderstand his fearefull power?  
+**[26:14]** Loe, these are part of his wayes: but how litle a portion heare we of him? and who can vnderstand his fearefull power?
 
 ### Chapter 27
 
@@ -27970,7 +27970,7 @@
 
 **[27:22]** And God shall cast vpon him and not spare, though he would faine flee out of his hand.
 
-**[27:23]** Euery man shall clap their hands at him, and hisse at him out of their place.  
+**[27:23]** Euery man shall clap their hands at him, and hisse at him out of their place.
 
 ### Chapter 28
 
@@ -28028,7 +28028,7 @@
 
 **[28:27]** Then did he see it, and counted it: he prepared it and also considered it.
 
-**[28:28]** And vnto man he said, Behold, the feare of the Lord is wisedome, and to depart from euil is vnderstanding.  
+**[28:28]** And vnto man he said, Behold, the feare of the Lord is wisedome, and to depart from euil is vnderstanding.
 
 ### Chapter 29
 
@@ -28080,7 +28080,7 @@
 
 **[29:24]** If I laughed on them, they beleeued it not: neither did they cause the light of my countenance to fall.
 
-**[29:25]** I appoynted out their way, and did sit as chiefe, and dwelt as a King in the army, and like him that comforteth the mourners.  
+**[29:25]** I appoynted out their way, and did sit as chiefe, and dwelt as a King in the army, and like him that comforteth the mourners.
 
 ### Chapter 30
 
@@ -28144,7 +28144,7 @@
 
 **[30:30]** My skinne is blacke vpon me, and my bones are burnt with heate.
 
-**[30:31]** Therefore mine harpe is turned to mourning, and mine organs into the voyce of them that weepe.  
+**[30:31]** Therefore mine harpe is turned to mourning, and mine organs into the voyce of them that weepe.
 
 ### Chapter 31
 
@@ -28226,7 +28226,7 @@
 
 **[31:39]** If I haue eaten the fruites thereof without siluer: or if I haue grieued the soules of the masters thereof,
 
-**[31:40]** Let thistles growe in steade of wheate, and cockle in the stead of Barley. The wordes of Iob are ended.  
+**[31:40]** Let thistles growe in steade of wheate, and cockle in the stead of Barley. The wordes of Iob are ended.
 
 ### Chapter 32
 
@@ -28272,7 +28272,7 @@
 
 **[32:21]** I will not now accept the person of man, neyther will I giue titles to man.
 
-**[32:22]** For I may not giue titles, lest my Maker should take me away suddenly.  
+**[32:22]** For I may not giue titles, lest my Maker should take me away suddenly.
 
 ### Chapter 33
 
@@ -28340,7 +28340,7 @@
 
 **[33:32]** If there be matter, answere me, and speak: for I desire to iustifie thee.
 
-**[33:33]** If thou hast not, heare me: holde thy tongue, and I will teach thee wisedome.  
+**[33:33]** If thou hast not, heare me: holde thy tongue, and I will teach thee wisedome.
 
 ### Chapter 34
 
@@ -28416,7 +28416,7 @@
 
 **[34:36]** I desire that Iob may be tryed, vnto the ende touching the answeres for wicked men.
 
-**[34:37]** For he addeth rebellion vnto his sinne: he clappeth his handes among vs, and multiplieth his wordes against God.  
+**[34:37]** For he addeth rebellion vnto his sinne: he clappeth his handes among vs, and multiplieth his wordes against God.
 
 ### Chapter 35
 
@@ -28450,7 +28450,7 @@
 
 **[35:15]** But nowe because his anger hath not visited, nor called to count the euill with great extremitie,
 
-**[35:16]** Therfore Iob openeth his mouth in vaine, and multiplieth wordes without knowledge.  
+**[35:16]** Therfore Iob openeth his mouth in vaine, and multiplieth wordes without knowledge.
 
 ### Chapter 36
 
@@ -28518,7 +28518,7 @@
 
 **[36:32]** He couereth the light with the clouds, and commandeth them to go against it.
 
-**[36:33]** His companion sheweth him thereof, and there is anger in rising vp.  
+**[36:33]** His companion sheweth him thereof, and there is anger in rising vp.
 
 ### Chapter 37
 
@@ -28568,7 +28568,7 @@
 
 **[37:23]** It is the Almightie: we can not finde him out: he is excellent in power and iudgement, and aboundant in iustice: he afflicteth not.
 
-**[37:24]** Let men therefore feare him: for he will not regarde any that are wise in their owne conceit.  
+**[37:24]** Let men therefore feare him: for he will not regarde any that are wise in their owne conceit.
 
 ### Chapter 38
 
@@ -28646,7 +28646,7 @@
 
 **[38:37]** Who can nomber cloudes by wisedome? or who can cause to cease the bottels of heaue,
 
-**[38:38]** When the earth groweth into hardnesse, and the clottes are fast together?  
+**[38:38]** When the earth groweth into hardnesse, and the clottes are fast together?
 
 **[38:39]** 
 
@@ -28714,7 +28714,7 @@
 
 **[39:29]** Shall the hauke flie by thy wisedome, stretching out his wings toward the South?
 
-**[39:30]** Doeth the eagle mount vp at thy commandement, or make his nest on hie? Shee abideth and remaineth in the rocke, euen vpon the toppe of the rocke, and the tower. From thence she spieth for meate, and her eyes beholde afarre off. His young ones also sucke vp blood: and where the slaine are, there is she. Moreouer ye Lord spake vnto Iob, and said, Is this to learne to striue with the Almightie? he that reprooueth God, let him answere to it. Then Iob answered the Lord, saying, Beholde, I am vile: what shall I answere thee? I will lay mine hand vpon my mouth. Once haue I spoken, but I will answere no more, yea twise, but I will proceede no further.  
+**[39:30]** Doeth the eagle mount vp at thy commandement, or make his nest on hie? Shee abideth and remaineth in the rocke, euen vpon the toppe of the rocke, and the tower. From thence she spieth for meate, and her eyes beholde afarre off. His young ones also sucke vp blood: and where the slaine are, there is she. Moreouer ye Lord spake vnto Iob, and said, Is this to learne to striue with the Almightie? he that reprooueth God, let him answere to it. Then Iob answered the Lord, saying, Beholde, I am vile: what shall I answere thee? I will lay mine hand vpon my mouth. Once haue I spoken, but I will answere no more, yea twise, but I will proceede no further.
 
 ### Chapter 40
 
@@ -28764,7 +28764,7 @@
 
 **[40:23]** Will hee make a couenant with thee? and wilt thou take him as a seruant for euer?
 
-**[40:24]** Wilt thou play with him as with a bird? or wilt thou bynd him for thy maydes? Shall the companions baket with him? shall they deuide him among the marchants? Canst thou fill the basket with his skinne? or the fishpanier with his head? Lay thine hand vpon him: remember the battel, and do no more so. Behold, his hope is in vaine: for shall not one perish euen at the sight of him?  
+**[40:24]** Wilt thou play with him as with a bird? or wilt thou bynd him for thy maydes? Shall the companions baket with him? shall they deuide him among the marchants? Canst thou fill the basket with his skinne? or the fishpanier with his head? Lay thine hand vpon him: remember the battel, and do no more so. Behold, his hope is in vaine: for shall not one perish euen at the sight of him?
 
 ### Chapter 41
 
@@ -28816,7 +28816,7 @@
 
 **[41:24]** In the earth there is none like him: hee is made without feare.
 
-**[41:25]** He beholdeth al hie things: he is a King ouer all the children of pride.  
+**[41:25]** He beholdeth al hie things: he is a King ouer all the children of pride.
 
 **[41:26]** 
 
@@ -28870,7 +28870,7 @@
 
 **[42:16]** And after this liued Iob an hundreth and fourtie yeres, and sawe his sonnes, and his sonnes sonnes, euen foure generations.
 
-**[42:17]** So Iob dyed, being old, and full of dayes.   
+**[42:17]** So Iob dyed, being old, and full of dayes.
 
 ## Psalms
 
@@ -28886,7 +28886,7 @@
 
 **[1:5]** Therefore the wicked shall not stande in the iudgement, nor sinners in the assemblie of the righteous.
 
-**[1:6]** For the Lord knoweth the way of the righteous, and the way of the wicked shall perish.  
+**[1:6]** For the Lord knoweth the way of the righteous, and the way of the wicked shall perish.
 
 ### Chapter 2
 
@@ -28912,7 +28912,7 @@
 
 **[2:11]** Serue the Lord in feare, and reioyce in trembling.
 
-**[2:12]** Kisse the sonne, least he be angry, and ye perish in the way, when his wrath shall suddenly burne. blessed are all that trust in him.  
+**[2:12]** Kisse the sonne, least he be angry, and ye perish in the way, when his wrath shall suddenly burne. blessed are all that trust in him.
 
 ### Chapter 3
 
@@ -28930,7 +28930,7 @@
 
 **[3:7]** O Lord, arise: helpe me, my God: for thou hast smitten all mine enemies vpon the cheeke bone: thou hast broken the teeth of the wicked.
 
-**[3:8]** Saluation belongeth vnto the Lord, and thy blessing is vpon thy people. Selah.  
+**[3:8]** Saluation belongeth vnto the Lord, and thy blessing is vpon thy people. Selah.
 
 ### Chapter 4
 
@@ -28948,7 +28948,7 @@
 
 **[4:7]** Thou hast giuen mee more ioye of heart, then they haue had, when their wheate and their wine did abound.
 
-**[4:8]** I will lay mee downe, and also sleepe in peace: for thou, Lord, onely makest me dwell in safetie.  
+**[4:8]** I will lay mee downe, and also sleepe in peace: for thou, Lord, onely makest me dwell in safetie.
 
 ### Chapter 5
 
@@ -28974,7 +28974,7 @@
 
 **[5:11]** And let all them that trust in thee, reioyce and triumph for euer, and couer thou them: and let them, that loue thy Name, reioyce in thee.
 
-**[5:12]** For thou Lord wilt blesse the righteous, and with fauour wilt compasse him, as with a shielde.  
+**[5:12]** For thou Lord wilt blesse the righteous, and with fauour wilt compasse him, as with a shielde.
 
 ### Chapter 6
 
@@ -28996,7 +28996,7 @@
 
 **[6:9]** The Lord hath heard my petition: the Lord will receiue my prayer.
 
-**[6:10]** All mine enemies shall be confounded and sore vexed: they shall be turned backe, and put to shame suddenly.  
+**[6:10]** All mine enemies shall be confounded and sore vexed: they shall be turned backe, and put to shame suddenly.
 
 ### Chapter 7
 
@@ -29032,7 +29032,7 @@
 
 **[7:16]** His mischiefe shall returne vpon his owne head, and his crueltie shall fall vpon his owne pate.
 
-**[7:17]** I wil praise the Lord according to his righteousnes, and will sing praise to the Name of the Lord most high.  
+**[7:17]** I wil praise the Lord according to his righteousnes, and will sing praise to the Name of the Lord most high.
 
 ### Chapter 8
 
@@ -29052,7 +29052,7 @@
 
 **[8:8]** The foules of the ayre, and the fish of the sea, and that which passeth through the paths of the seas.
 
-**[8:9]** O Lord our Lord, howe excellent is thy Name in all the world!  
+**[8:9]** O Lord our Lord, howe excellent is thy Name in all the world!
 
 ### Chapter 9
 
@@ -29094,7 +29094,7 @@
 
 **[9:19]** Vp Lord: let not man preuaile: let the heathen be iudged in thy sight.
 
-**[9:20]** Put them in feare, O Lord, that the heathen may knowe that they are but men. Selah.  
+**[9:20]** Put them in feare, O Lord, that the heathen may knowe that they are but men. Selah.
 
 ### Chapter 10
 
@@ -29132,7 +29132,7 @@
 
 **[10:17]** Lord, thou hast heard the desire of the poore: thou preparest their heart: thou bendest thine eare to them,
 
-**[10:18]** To iudge the fatherlesse and poore, that earthly man cause to feare no more.  
+**[10:18]** To iudge the fatherlesse and poore, that earthly man cause to feare no more.
 
 ### Chapter 11
 
@@ -29148,7 +29148,7 @@
 
 **[11:6]** Vpon the wicked he shall raine snares, fire, and brimstone, and stormie tempest: this is the porcion of their cup.
 
-**[11:7]** For the righteous Lord loueth righteousnes: his countenance doeth beholde the iust.  
+**[11:7]** For the righteous Lord loueth righteousnes: his countenance doeth beholde the iust.
 
 ### Chapter 12
 
@@ -29166,7 +29166,7 @@
 
 **[12:7]** Thou wilt keepe them, O Lord: thou wilt preserue him from this generation for euer.
 
-**[12:8]** The wicked walke on euery side: when they are exalted, it is a shame for the sonnes of men.  
+**[12:8]** The wicked walke on euery side: when they are exalted, it is a shame for the sonnes of men.
 
 ### Chapter 13
 
@@ -29178,7 +29178,7 @@
 
 **[13:4]** Lest mine enemie say, I haue preuailed against him: and they that afflict me, reioyce when I slide.
 
-**[13:5]** But I trust in thy mercie: mine heart shall reioyce in thy saluation: I will sing to the Lord, because he hath delt louingly with me.  
+**[13:5]** But I trust in thy mercie: mine heart shall reioyce in thy saluation: I will sing to the Lord, because he hath delt louingly with me.
 
 **[13:6]** 
 
@@ -29196,7 +29196,7 @@
 
 **[14:6]** You haue made a mocke at the counsell of the poore, because the Lord is his trust.
 
-**[14:7]** Oh giue saluation vnto Israel out of Zion: when the Lord turneth the captiuitie of his people, then Iaakob shall reioyce, and Israel shall be glad.  
+**[14:7]** Oh giue saluation vnto Israel out of Zion: when the Lord turneth the captiuitie of his people, then Iaakob shall reioyce, and Israel shall be glad.
 
 ### Chapter 15
 
@@ -29208,7 +29208,7 @@
 
 **[15:4]** In whose eyes a vile person is contemned, but he honoureth them that feare the Lord: he that sweareth to his owne hinderance and changeth not.
 
-**[15:5]** He that giueth not his money vnto vsurie, nor taketh reward against the innocent: hee that doeth these things, shall neuer be moued.  
+**[15:5]** He that giueth not his money vnto vsurie, nor taketh reward against the innocent: hee that doeth these things, shall neuer be moued.
 
 ### Chapter 16
 
@@ -29232,7 +29232,7 @@
 
 **[16:10]** For thou wilt not leaue my soule in the graue: neither wilt thou suffer thine holy one to see corruption.
 
-**[16:11]** Thou wilt shew me the path of life: in thy presence is the fulnesse of ioy: and at thy right hand there are pleasures for euermore.  
+**[16:11]** Thou wilt shew me the path of life: in thy presence is the fulnesse of ioy: and at thy right hand there are pleasures for euermore.
 
 ### Chapter 17
 
@@ -29264,7 +29264,7 @@
 
 **[17:14]** From men by thine hand, O Lord, from men of the world, who haue their portion in this life, whose bellies thou fillest with thine hid treasure: their children haue ynough, and leaue the rest of their substance for their children.
 
-**[17:15]** But I will beholde thy face in righteousnes, and when I awake, I shalbe satisfied with thine image.  
+**[17:15]** But I will beholde thy face in righteousnes, and when I awake, I shalbe satisfied with thine image.
 
 ### Chapter 18
 
@@ -29366,7 +29366,7 @@
 
 **[18:49]** Therefore I will prayse thee, O Lord, among the nations, and wil sing vnto thy Name.
 
-**[18:50]** Great deliuerances giueth hee vnto his King, and sheweth mercie to his anoynted, euen to Dauid, and to his seede for euer.  
+**[18:50]** Great deliuerances giueth hee vnto his King, and sheweth mercie to his anoynted, euen to Dauid, and to his seede for euer.
 
 ### Chapter 19
 
@@ -29396,7 +29396,7 @@
 
 **[19:13]** Keepe thy seruant also from presumptuous sinnes: let them not reigne ouer me: so shall I be vpright, and made cleane from much wickednes.
 
-**[19:14]** Let the wordes of my mouth, and the meditation of mine heart be acceptable in thy sight, O Lord, my strength, and my redeemer.  
+**[19:14]** Let the wordes of my mouth, and the meditation of mine heart be acceptable in thy sight, O Lord, my strength, and my redeemer.
 
 ### Chapter 20
 
@@ -29416,7 +29416,7 @@
 
 **[20:8]** They are brought downe and fallen, but we are risen, and stand vpright.
 
-**[20:9]** Saue Lord: let the King heare vs in the day that we call.  
+**[20:9]** Saue Lord: let the King heare vs in the day that we call.
 
 ### Chapter 21
 
@@ -29444,7 +29444,7 @@
 
 **[21:12]** Therefore shalt thou put them aparte, and the strings of thy bowe shalt thou make readie against their faces.
 
-**[21:13]** Be thou exalted, O Lord, in thy strength: so will we sing and prayse thy power.  
+**[21:13]** Be thou exalted, O Lord, in thy strength: so will we sing and prayse thy power.
 
 ### Chapter 22
 
@@ -29508,7 +29508,7 @@
 
 **[22:30]** Their seede shall serue him: it shalbe counted vnto the Lord for a generation.
 
-**[22:31]** They shall come, and shall declare his righteousnesse vnto a people that shall be borne, because he hath done it.  
+**[22:31]** They shall come, and shall declare his righteousnesse vnto a people that shall be borne, because he hath done it.
 
 ### Chapter 23
 
@@ -29522,7 +29522,7 @@
 
 **[23:5]** Thou doest prepare a table before me in the sight of mine aduersaries: thou doest anoynt mine head with oyle, and my cuppe runneth ouer.
 
-**[23:6]** Doubtlesse kindnesse and mercie shall follow me all the dayes of my life, and I shall remaine a long season in the house of the Lord.  
+**[23:6]** Doubtlesse kindnesse and mercie shall follow me all the dayes of my life, and I shall remaine a long season in the house of the Lord.
 
 ### Chapter 24
 
@@ -29544,7 +29544,7 @@
 
 **[24:9]** Lift vp your heads, ye gates, and lift vp your selues, ye euerlasting doores, and the King of glorie shall come in.
 
-**[24:10]** Who is this King of glory? the Lord of hostes, he is the King of glorie. Selah.  
+**[24:10]** Who is this King of glory? the Lord of hostes, he is the King of glorie. Selah.
 
 ### Chapter 25
 
@@ -29590,7 +29590,7 @@
 
 **[25:21]** Let mine vprightnes and equitie preserue me: for mine hope is in thee.
 
-**[25:22]** Deliuer Israel, O God, out of all his troubles.  
+**[25:22]** Deliuer Israel, O God, out of all his troubles.
 
 ### Chapter 26
 
@@ -29616,7 +29616,7 @@
 
 **[26:11]** But I will walke in mine innocencie: redeeme me therefore, and be mercifull vnto me.
 
-**[26:12]** My foote standeth in vprightnesse: I will praise thee, O Lord, in the Congregations.  
+**[26:12]** My foote standeth in vprightnesse: I will praise thee, O Lord, in the Congregations.
 
 ### Chapter 27
 
@@ -29646,7 +29646,7 @@
 
 **[27:13]** I should haue fainted, except I had beleeued to see the goodnes of the Lord in the land of the liuing.
 
-**[27:14]** Hope in the Lord: be strong, and he shall comfort thine heart, and trust in the Lord.  
+**[27:14]** Hope in the Lord: be strong, and he shall comfort thine heart, and trust in the Lord.
 
 ### Chapter 28
 
@@ -29666,7 +29666,7 @@
 
 **[28:8]** The Lord is their strength, and he is the strength of the deliuerances of his anointed.
 
-**[28:9]** Saue thy people, and blesse thine inheritance: feede them also, and exalt them for euer.  
+**[28:9]** Saue thy people, and blesse thine inheritance: feede them also, and exalt them for euer.
 
 ### Chapter 29
 
@@ -29690,7 +29690,7 @@
 
 **[29:10]** The Lord sitteth vpon the flood, and the Lord doeth remaine King for euer.
 
-**[29:11]** The Lord shall giue strength vnto his people: the Lord shall blesse his people with peace.  
+**[29:11]** The Lord shall giue strength vnto his people: the Lord shall blesse his people with peace.
 
 ### Chapter 30
 
@@ -29716,7 +29716,7 @@
 
 **[30:11]** Thou hast turned my mourning into ioy: thou hast loosed my sacke and girded mee with gladnesse.
 
-**[30:12]** Therefore shall my tongue praise thee and not cease: O Lord my God, I will giue thankes vnto thee for euer.  
+**[30:12]** Therefore shall my tongue praise thee and not cease: O Lord my God, I will giue thankes vnto thee for euer.
 
 ### Chapter 31
 
@@ -29766,7 +29766,7 @@
 
 **[31:23]** Loue ye the Lord all his Saintes: for the Lord preserueth the faithfull, and rewardeth abundantly the proud doer.
 
-**[31:24]** All ye that trust in the Lord, be strong, and he shall establish your heart.  
+**[31:24]** All ye that trust in the Lord, be strong, and he shall establish your heart.
 
 ### Chapter 32
 
@@ -29790,7 +29790,7 @@
 
 **[32:10]** Many sorowes shall come to the wicked: but he, that trusteth in the Lord, mercie shall compasse him.
 
-**[32:11]** Be glad ye righteous, and reioyce in the Lord, and be ioyfull all ye, that are vpright in heart.  
+**[32:11]** Be glad ye righteous, and reioyce in the Lord, and be ioyfull all ye, that are vpright in heart.
 
 ### Chapter 33
 
@@ -29836,7 +29836,7 @@
 
 **[33:21]** Surely our heart shall reioyce in him, because we trusted in his holy Name.
 
-**[33:22]** Let thy mercie, O Lord, be vpon vs, as we trust in thee.  
+**[33:22]** Let thy mercie, O Lord, be vpon vs, as we trust in thee.
 
 ### Chapter 34
 
@@ -29882,7 +29882,7 @@
 
 **[34:21]** But malice shall slay the wicked: and they that hate the righteous, shall perish.
 
-**[34:22]** The Lord redeemeth the soules of his seruants: and none, that trust in him, shall perish.  
+**[34:22]** The Lord redeemeth the soules of his seruants: and none, that trust in him, shall perish.
 
 ### Chapter 35
 
@@ -29940,7 +29940,7 @@
 
 **[35:27]** But let them be ioyful and glad, that loue my righteousnesse: yea, let them say alway, Let the Lord be magnified, which loueth the prosperitie of his seruant.
 
-**[35:28]** And my tongue shall vtter thy righteousnesse, and thy praise euery day.  
+**[35:28]** And my tongue shall vtter thy righteousnesse, and thy praise euery day.
 
 ### Chapter 36
 
@@ -29966,7 +29966,7 @@
 
 **[36:11]** Let not ye foote of pride come against me, and let not the hand of ye wicked men moue me.
 
-**[36:12]** There they are fallen that worke iniquity: they are cast downe, and shall not be able to rise.  
+**[36:12]** There they are fallen that worke iniquity: they are cast downe, and shall not be able to rise.
 
 ### Chapter 37
 
@@ -30048,7 +30048,7 @@
 
 **[37:39]** But the saluation of the righteous men shalbe of the Lord: he shalbe their strength in the time of trouble.
 
-**[37:40]** For the Lord shall helpe them, and deliuer them: he shall deliuer them from the wicked, and shall saue them, because they trust in him.  
+**[37:40]** For the Lord shall helpe them, and deliuer them: he shall deliuer them from the wicked, and shall saue them, because they trust in him.
 
 ### Chapter 38
 
@@ -30094,7 +30094,7 @@
 
 **[38:21]** Forsake me not, O Lord: be not thou farre from me, my God.
 
-**[38:22]** Haste thee to helpe mee, O my Lord, my saluation.  
+**[38:22]** Haste thee to helpe mee, O my Lord, my saluation.
 
 ### Chapter 39
 
@@ -30122,7 +30122,7 @@
 
 **[39:12]** Heare my prayer, O Lord, and hearken vnto my cry: keepe not silence at my teares, for I am a strager with thee, and a soiourner as all my fathers.
 
-**[39:13]** Stay thine anger from me, that I may recouer my strength, before I go hence and be not.  
+**[39:13]** Stay thine anger from me, that I may recouer my strength, before I go hence and be not.
 
 ### Chapter 40
 
@@ -30158,7 +30158,7 @@
 
 **[40:16]** Let all them, that seeke thee, reioyce and be glad in thee: and let them, that loue thy saluation, say alway, The Lord be praysed.
 
-**[40:17]** Though I be poore and needie, the Lord thinketh on mee: thou art mine helper and my deliuerer: my God, make no tarying.  
+**[40:17]** Though I be poore and needie, the Lord thinketh on mee: thou art mine helper and my deliuerer: my God, make no tarying.
 
 ### Chapter 41
 
@@ -30186,7 +30186,7 @@
 
 **[41:12]** And as for me, thou vpholdest me in mine integritie, and doest set me before thy face for euer.
 
-**[41:13]** Blessed be the Lord God of Israel worlde without ende. So be it, euen so be it.  
+**[41:13]** Blessed be the Lord God of Israel worlde without ende. So be it, euen so be it.
 
 ### Chapter 42
 
@@ -30210,7 +30210,7 @@
 
 **[42:10]** My bones are cut asunder, while mine enemies reproch me, saying dayly vnto me, Where is thy God?
 
-**[42:11]** Why art thou cast downe, my soule? and why art thou disquieted within mee? waite on God: for I wil yet giue him thankes: he is my present helpe, and my God.  
+**[42:11]** Why art thou cast downe, my soule? and why art thou disquieted within mee? waite on God: for I wil yet giue him thankes: he is my present helpe, and my God.
 
 ### Chapter 43
 
@@ -30222,7 +30222,7 @@
 
 **[43:4]** Then wil I go vnto the altar of God, euen vnto the God of my ioy and gladnes: and vpon the harpe wil I giue thanks vnto thee, O God, my God.
 
-**[43:5]** Why art thou cast downe, my soule? and why art thou disquieted within mee? waite on God: for I will yet giue him thankes, he is my present helpe, and my God.  
+**[43:5]** Why art thou cast downe, my soule? and why art thou disquieted within mee? waite on God: for I will yet giue him thankes, he is my present helpe, and my God.
 
 ### Chapter 44
 
@@ -30276,7 +30276,7 @@
 
 **[44:25]** For our soule is beaten downe vnto the dust: our belly cleaueth vnto the ground.
 
-**[44:26]** Rise vp for our succour, and redeeme vs for thy mercies sake.  
+**[44:26]** Rise vp for our succour, and redeeme vs for thy mercies sake.
 
 ### Chapter 45
 
@@ -30312,7 +30312,7 @@
 
 **[45:16]** In steade of thy fathers shall thy children be: thou shalt make them princes through all the earth.
 
-**[45:17]** I will make thy Name to be remembred through all generations: therefore shall the people giue thanks vnto thee world without ende.  
+**[45:17]** I will make thy Name to be remembred through all generations: therefore shall the people giue thanks vnto thee world without ende.
 
 ### Chapter 46
 
@@ -30336,7 +30336,7 @@
 
 **[46:10]** Be still and knowe that I am God: I will be exalted among the heathen, and I wil be exalted in the earth.
 
-**[46:11]** The Lord of hostes is with vs: the God of Iaakob is our refuge. Selah.  
+**[46:11]** The Lord of hostes is with vs: the God of Iaakob is our refuge. Selah.
 
 ### Chapter 47
 
@@ -30356,7 +30356,7 @@
 
 **[47:8]** God reigneth ouer the heathen: God sitteth vpon his holy throne.
 
-**[47:9]** The princes of the people are gathered vnto the people of the God of Abraham: for the shields of the world belong to God: he is greatly to be exalted.  
+**[47:9]** The princes of the people are gathered vnto the people of the God of Abraham: for the shields of the world belong to God: he is greatly to be exalted.
 
 ### Chapter 48
 
@@ -30386,7 +30386,7 @@
 
 **[48:13]** Marke well the wall thereof: beholde her towres, that ye may tell your posteritie.
 
-**[48:14]** For this God is our God for euer and euer: he shall be our guide vnto the death.  
+**[48:14]** For this God is our God for euer and euer: he shall be our guide vnto the death.
 
 ### Chapter 49
 
@@ -30428,7 +30428,7 @@
 
 **[49:19]** He shall enter into the generation of his fathers, and they shall not liue for euer.
 
-**[49:20]** Man is in honour, and vnderstandeth not: he is like to beasts that perish.  
+**[49:20]** Man is in honour, and vnderstandeth not: he is like to beasts that perish.
 
 ### Chapter 50
 
@@ -30476,7 +30476,7 @@
 
 **[50:22]** Oh cosider this, ye that forget God, least I teare you in pieces, and there be none that can deliuer you.
 
-**[50:23]** He that offereth praise, shall glorifie mee: and to him, that disposeth his way aright, will I shew the saluation of God.  
+**[50:23]** He that offereth praise, shall glorifie mee: and to him, that disposeth his way aright, will I shew the saluation of God.
 
 ### Chapter 51
 
@@ -30516,7 +30516,7 @@
 
 **[51:18]** Bee fauourable vnto Zion for thy good pleasure: builde the walles of Ierusalem.
 
-**[51:19]** Then shalt thou accept ye sacrifices of righteousnes, euen the burnt offering and oblation: then shall they offer calues vpon thine altar.  
+**[51:19]** Then shalt thou accept ye sacrifices of righteousnes, euen the burnt offering and oblation: then shall they offer calues vpon thine altar.
 
 ### Chapter 52
 
@@ -30536,7 +30536,7 @@
 
 **[52:8]** But I shall bee like a greene oliue tree in the house of God: for I trusted in the mercie of God for euer and euer.
 
-**[52:9]** I will alway praise thee, for that thou hast done this, and I will hope in thy Name, because it is good before thy Saints.  
+**[52:9]** I will alway praise thee, for that thou hast done this, and I will hope in thy Name, because it is good before thy Saints.
 
 ### Chapter 53
 
@@ -30550,7 +30550,7 @@
 
 **[53:5]** There they were afraide for feare, where no feare was: for God hath scattered the bones of him that besieged thee: thou hast put them to confusion, because God hath cast them off.
 
-**[53:6]** Oh giue saluation vnto Israel out of Zion: when God turneth the captiuitie of his people, then Iaakob shall reioyce, and Israel shalbe glad.  
+**[53:6]** Oh giue saluation vnto Israel out of Zion: when God turneth the captiuitie of his people, then Iaakob shall reioyce, and Israel shalbe glad.
 
 ### Chapter 54
 
@@ -30566,7 +30566,7 @@
 
 **[54:6]** Then I will sacrifice freely vnto thee: I wil praise thy Name, O Lord, because it is good.
 
-**[54:7]** For he hath deliuered me out of al trouble, and mine eye hath seene my desire vpon mine enemies.  
+**[54:7]** For he hath deliuered me out of al trouble, and mine eye hath seene my desire vpon mine enemies.
 
 ### Chapter 55
 
@@ -30614,7 +30614,7 @@
 
 **[55:22]** Cast thy burden vpon the Lord, and hee shall nourish thee: he wil not suffer the righteous to fall for euer.
 
-**[55:23]** And thou, O God, shalt bring them downe into the pitte of corruption: the bloudie, and deceitfull men shall not liue halfe their dayes: but I will trust in thee.  
+**[55:23]** And thou, O God, shalt bring them downe into the pitte of corruption: the bloudie, and deceitfull men shall not liue halfe their dayes: but I will trust in thee.
 
 ### Chapter 56
 
@@ -30642,7 +30642,7 @@
 
 **[56:12]** Thy vowes are vpon me, O God: I will render prayses vnto thee.
 
-**[56:13]** For thou hast deliuered my soule from death, and also my feete from falling, that I may walke before God in the light of the liuing.  
+**[56:13]** For thou hast deliuered my soule from death, and also my feete from falling, that I may walke before God in the light of the liuing.
 
 ### Chapter 57
 
@@ -30666,7 +30666,7 @@
 
 **[57:10]** For thy mercie is great vnto the heauens, and thy trueth vnto the cloudes.
 
-**[57:11]** Exalt thy selfe, O God, aboue the heauens, and let thy glory be vpon all the earth.  
+**[57:11]** Exalt thy selfe, O God, aboue the heauens, and let thy glory be vpon all the earth.
 
 ### Chapter 58
 
@@ -30690,7 +30690,7 @@
 
 **[58:10]** The righteous shall reioyce when he seeeth the vengeance: he shall wash his feete in the blood of the wicked.
 
-**[58:11]** And men shall say, Verily there is fruite for the righteous: doutlesse there is a God that iudgeth in the earth.  
+**[58:11]** And men shall say, Verily there is fruite for the righteous: doutlesse there is a God that iudgeth in the earth.
 
 ### Chapter 59
 
@@ -30726,7 +30726,7 @@
 
 **[59:16]** But I wil sing of thy power, and will prayse thy mercy in the morning: for thou hast bene my defence and refuge in the day of my trouble.
 
-**[59:17]** Vnto thee, O my Strength, wil I sing: for God is my defence, and my mercifull God.  
+**[59:17]** Vnto thee, O my Strength, wil I sing: for God is my defence, and my mercifull God.
 
 ### Chapter 60
 
@@ -30752,7 +30752,7 @@
 
 **[60:11]** Giue vs helpe against trouble: for vaine is the helpe of man.
 
-**[60:12]** Through God we shall doe valiantly: for he shall tread downe our enemies.  
+**[60:12]** Through God we shall doe valiantly: for he shall tread downe our enemies.
 
 ### Chapter 61
 
@@ -30770,7 +30770,7 @@
 
 **[61:7]** Hee shall dwell before God for euer: prepare mercie and faithfulnes that they may preserue him.
 
-**[61:8]** So will I alway sing prayse vnto thy Name in performing dayly my vowes.  
+**[61:8]** So will I alway sing prayse vnto thy Name in performing dayly my vowes.
 
 ### Chapter 62
 
@@ -30796,7 +30796,7 @@
 
 **[62:11]** God spake once or twise, I haue heard it, that power belongeth vnto God,
 
-**[62:12]** And to thee, O Lord, mercie: for thou rewardest euery one according to his worke.  
+**[62:12]** And to thee, O Lord, mercie: for thou rewardest euery one according to his worke.
 
 ### Chapter 63
 
@@ -30820,7 +30820,7 @@
 
 **[63:10]** They shall cast him downe with the edge of the sword, and they shall be a portion for foxes.
 
-**[63:11]** But the King shall reioyce in God, and all that sweare by him shall reioyce in him: for the mouth of them that speake lyes, shall be stopped.  
+**[63:11]** But the King shall reioyce in God, and all that sweare by him shall reioyce in him: for the mouth of them that speake lyes, shall be stopped.
 
 ### Chapter 64
 
@@ -30842,7 +30842,7 @@
 
 **[64:9]** And all men shall see it, and declare the worke of God, and they shall vnderstand, what he hath wrought.
 
-**[64:10]** But the righteous shall be glad in the Lord, and trust in him: and all that are vpright of heart, shall reioyce.  
+**[64:10]** But the righteous shall be glad in the Lord, and trust in him: and all that are vpright of heart, shall reioyce.
 
 ### Chapter 65
 
@@ -30870,7 +30870,7 @@
 
 **[65:12]** They drop vpon the pastures of the wildernesse: and the hils shalbe compassed with gladnes.
 
-**[65:13]** The pastures are clad with sheepe: the valleis also shalbe couered with corne: therefore they shoute for ioye, and sing.  
+**[65:13]** The pastures are clad with sheepe: the valleis also shalbe couered with corne: therefore they shoute for ioye, and sing.
 
 ### Chapter 66
 
@@ -30912,7 +30912,7 @@
 
 **[66:19]** But God hath heard me, and considered the voyce of my prayer.
 
-**[66:20]** Praysed be God, which hath not put backe my prayer, nor his mercie from me.  
+**[66:20]** Praysed be God, which hath not put backe my prayer, nor his mercie from me.
 
 ### Chapter 67
 
@@ -30928,7 +30928,7 @@
 
 **[67:6]** Then shall the earth bring foorth her increase, and God, euen our God shall blesse vs.
 
-**[67:7]** God shall blesse vs, and all the endes of the earth shall feare him.  
+**[67:7]** God shall blesse vs, and all the endes of the earth shall feare him.
 
 ### Chapter 68
 
@@ -31000,7 +31000,7 @@
 
 **[68:34]** Ascribe the power to God: for his maiestie is vpon Israel, and his strength is in the cloudes.
 
-**[68:35]** O God, thou art terrible out of thine holie places: the God of Israel is hee that giueth strength and power vnto the people: praised be God.  
+**[68:35]** O God, thou art terrible out of thine holie places: the God of Israel is hee that giueth strength and power vnto the people: praised be God.
 
 ### Chapter 69
 
@@ -31074,7 +31074,7 @@
 
 **[69:35]** For God will saue Zion, and builde the cities of Iudah, that men may dwell there and haue it in possession.
 
-**[69:36]** The seede also of his seruants shall inherit it: and they that loue his name, shall dwel therein.  
+**[69:36]** The seede also of his seruants shall inherit it: and they that loue his name, shall dwel therein.
 
 ### Chapter 70
 
@@ -31086,7 +31086,7 @@
 
 **[70:4]** But let all those that seeke thee, be ioyfull and glad in thee, and let all that loue thy saluation, say alwaies, God be praised.
 
-**[70:5]** Nowe I am poore and needie: O God, make haste to me: thou art mine helper, and my deliuerer: O Lord, make no tarying.  
+**[70:5]** Nowe I am poore and needie: O God, make haste to me: thou art mine helper, and my deliuerer: O Lord, make no tarying.
 
 ### Chapter 71
 
@@ -31136,7 +31136,7 @@
 
 **[71:23]** My lippes will reioyce when I sing vnto thee, and my soule, which thou hast deliuered.
 
-**[71:24]** My tongue also shall talke of thy righteousnesse daily: for they are confounded and brought vnto shame, that seeke mine hurt.  
+**[71:24]** My tongue also shall talke of thy righteousnesse daily: for they are confounded and brought vnto shame, that seeke mine hurt.
 
 ### Chapter 72
 
@@ -31176,7 +31176,7 @@
 
 **[72:18]** Blessed be the Lord God, euen the God of Israel, which onely doeth wonderous things.
 
-**[72:19]** And blessed be his glorious Name for euer: and let all the earth be filled with his glorie. So be it, euen so be it. HERE END THE prayers of Dauid, the sonne of Ishai.  
+**[72:19]** And blessed be his glorious Name for euer: and let all the earth be filled with his glorie. So be it, euen so be it. HERE END THE prayers of Dauid, the sonne of Ishai.
 
 **[72:20]** 
 
@@ -31236,7 +31236,7 @@
 
 **[73:27]** For loe, they that withdrawe themselues from thee, shall perish: thou destroyest all them that goe a whoring from thee.
 
-**[73:28]** As for me, it is good for me to draw neere to God: therefore I haue put my trust in the Lord God, that I may declare all thy workes.  
+**[73:28]** As for me, it is good for me to draw neere to God: therefore I haue put my trust in the Lord God, that I may declare all thy workes.
 
 ### Chapter 74
 
@@ -31284,7 +31284,7 @@
 
 **[74:22]** Arise, O God: mainteine thine owne cause: remember thy dayly reproche by the foolish man.
 
-**[74:23]** Forget not the voyce of thine enemies: for the tumult of them, that rise against thee, ascendeth continually.  
+**[74:23]** Forget not the voyce of thine enemies: for the tumult of them, that rise against thee, ascendeth continually.
 
 ### Chapter 75
 
@@ -31306,7 +31306,7 @@
 
 **[75:9]** But I will declare for euer, and sing prayses vnto the God of Iaakob.
 
-**[75:10]** All the hornes of the wicked also will I breake: but the hornes of the righteous shalbe exalted.  
+**[75:10]** All the hornes of the wicked also will I breake: but the hornes of the righteous shalbe exalted.
 
 ### Chapter 76
 
@@ -31332,7 +31332,7 @@
 
 **[76:11]** Vowe and performe vnto the Lord your God, all ye that be rounde about him: let them bring presents vnto him that ought to be feared.
 
-**[76:12]** He shall cut off the spirit of princes: he is terrible to the Kings of the earth.  
+**[76:12]** He shall cut off the spirit of princes: he is terrible to the Kings of the earth.
 
 ### Chapter 77
 
@@ -31374,7 +31374,7 @@
 
 **[77:19]** Thy way is in the Sea, and thy paths in the great waters, and thy footesteps are not knowen.
 
-**[77:20]** Thou diddest leade thy people like sheepe by the hand of Moses and Aaron.  
+**[77:20]** Thou diddest leade thy people like sheepe by the hand of Moses and Aaron.
 
 ### Chapter 78
 
@@ -31520,7 +31520,7 @@
 
 **[78:71]** Euen from behinde the ewes with yong brought he him to feede his people in Iaakob, and his inheritance in Israel.
 
-**[78:72]** So he fed them according to the simplicitie of his heart, and guided them by the discretion of his hands.  
+**[78:72]** So he fed them according to the simplicitie of his heart, and guided them by the discretion of his hands.
 
 ### Chapter 79
 
@@ -31548,7 +31548,7 @@
 
 **[79:12]** And render to our neighbours seuen folde into their bosome their reproche, wherewith they haue reproched thee, O Lord.
 
-**[79:13]** So wee thy people, and sheepe of thy pasture shall praise thee for euer: and from generation to generation we will set foorth thy praise.  
+**[79:13]** So wee thy people, and sheepe of thy pasture shall praise thee for euer: and from generation to generation we will set foorth thy praise.
 
 ### Chapter 80
 
@@ -31588,7 +31588,7 @@
 
 **[80:18]** So will not we goe backe from thee: reuiue thou vs, and we shall call vpon thy Name.
 
-**[80:19]** Turne vs againe, O Lord God of hostes: cause thy face to shine and we shalbe saued.  
+**[80:19]** Turne vs againe, O Lord God of hostes: cause thy face to shine and we shalbe saued.
 
 ### Chapter 81
 
@@ -31622,7 +31622,7 @@
 
 **[81:15]** The haters of the Lord should haue bene subiect vnto him, and their time should haue endured for euer.
 
-**[81:16]** And God would haue fedde them with the fatte of wheat, and with honie out of the rocke would I haue sufficed thee.  
+**[81:16]** And God would haue fedde them with the fatte of wheat, and with honie out of the rocke would I haue sufficed thee.
 
 ### Chapter 82
 
@@ -31640,7 +31640,7 @@
 
 **[82:7]** But ye shall die as a man, and yee princes, shall fall like others.
 
-**[82:8]** O God, arise, therefore iudge thou the earth: for thou shalt inherite all nations.  
+**[82:8]** O God, arise, therefore iudge thou the earth: for thou shalt inherite all nations.
 
 ### Chapter 83
 
@@ -31678,7 +31678,7 @@
 
 **[83:17]** Let them be confounded and troubled for euer: yea, let them be put to shame and perish,
 
-**[83:18]** That they may knowe that thou, which art called Iehouah, art alone, euen the most High ouer all the earth.  
+**[83:18]** That they may knowe that thou, which art called Iehouah, art alone, euen the most High ouer all the earth.
 
 ### Chapter 84
 
@@ -31704,7 +31704,7 @@
 
 **[84:11]** For the Lord God is the sunne and shielde vnto vs: the Lord will giue grace and glory, and no good thing will he withhold from them that walke vprightly.
 
-**[84:12]** O Lord of hostes, blessed is the man that trusteth in thee.  
+**[84:12]** O Lord of hostes, blessed is the man that trusteth in thee.
 
 ### Chapter 85
 
@@ -31732,7 +31732,7 @@
 
 **[85:12]** Yea, the Lord shall giue good things, and our land shall giue her increase.
 
-**[85:13]** Righteousnesse shall go before him, and shall set her steps in the way.  
+**[85:13]** Righteousnesse shall go before him, and shall set her steps in the way.
 
 ### Chapter 86
 
@@ -31768,7 +31768,7 @@
 
 **[86:16]** Turne vnto me, and haue mercy vpon me: giue thy strength vnto thy seruant, and saue the sonne of thine handmayd.
 
-**[86:17]** Shew a token of thy goodnes towarde me, that they which hate me, may see it, and be ashamed, because thou, O Lord, hast holpen me and comforted me.  
+**[86:17]** Shew a token of thy goodnes towarde me, that they which hate me, may see it, and be ashamed, because thou, O Lord, hast holpen me and comforted me.
 
 ### Chapter 87
 
@@ -31784,7 +31784,7 @@
 
 **[87:6]** The Lord shall count, when hee writeth the people, He was borne there. Selah.
 
-**[87:7]** Aswell the singers as the players on instruments shall prayse thee: all my springs are in thee.  
+**[87:7]** Aswell the singers as the players on instruments shall prayse thee: all my springs are in thee.
 
 ### Chapter 88
 
@@ -31822,7 +31822,7 @@
 
 **[88:17]** They came round about me dayly like water, and compassed me together.
 
-**[88:18]** My louers and friends hast thou put away from me, and mine acquaintance hid themselues.  
+**[88:18]** My louers and friends hast thou put away from me, and mine acquaintance hid themselues.
 
 ### Chapter 89
 
@@ -31928,7 +31928,7 @@
 
 **[89:51]** For thine enemies haue reproched thee, O Lord, because they haue reproched the footesteps of thine Anointed.
 
-**[89:52]** Praised be the Lord for euermore. So be it, euen so be it.  
+**[89:52]** Praised be the Lord for euermore. So be it, euen so be it.
 
 ### Chapter 90
 
@@ -31964,7 +31964,7 @@
 
 **[90:16]** Let thy worke bee seene towarde thy seruants, and thy glory vpon their children.
 
-**[90:17]** And let the beautie of the Lord our God be vpon vs, and direct thou the worke of our hands vpon vs, euen direct the worke of our handes.  
+**[90:17]** And let the beautie of the Lord our God be vpon vs, and direct thou the worke of our hands vpon vs, euen direct the worke of our handes.
 
 ### Chapter 91
 
@@ -31998,7 +31998,7 @@
 
 **[91:15]** He shall call vpon me, and I wil heare him: I will be with him in trouble: I will deliuer him, and glorifie him.
 
-**[91:16]** With long life wil I satisfie him, and shew him my saluation.  
+**[91:16]** With long life wil I satisfie him, and shew him my saluation.
 
 ### Chapter 92
 
@@ -32030,7 +32030,7 @@
 
 **[92:14]** They shall still bring foorth fruite in their age: they shall be fat and flourishing,
 
-**[92:15]** To declare that the Lord my rocke is righteous, and that none iniquitie is in him.  
+**[92:15]** To declare that the Lord my rocke is righteous, and that none iniquitie is in him.
 
 ### Chapter 93
 
@@ -32042,7 +32042,7 @@
 
 **[93:4]** The waues of ye sea are marueilous through the noyse of many waters, yet the Lord on High is more mightie.
 
-**[93:5]** Thy testimonies are very sure: holinesse becommeth thine House, O Lord, for euer.  
+**[93:5]** Thy testimonies are very sure: holinesse becommeth thine House, O Lord, for euer.
 
 ### Chapter 94
 
@@ -32090,7 +32090,7 @@
 
 **[94:22]** But the Lord is my refuge, and my God is the rocke of mine hope.
 
-**[94:23]** And hee will recompence them their wickednes, and destroy them in their owne malice: yea, the Lord our God shall destroy them.  
+**[94:23]** And hee will recompence them their wickednes, and destroy them in their owne malice: yea, the Lord our God shall destroy them.
 
 ### Chapter 95
 
@@ -32114,7 +32114,7 @@
 
 **[95:10]** Fourtie yeeres haue I contended with this generation, and said, They are a people that erre in heart, for they haue not knowen my wayes.
 
-**[95:11]** Wherefore I sware in my wrath, saying, Surely they shall not enter into my rest.  
+**[95:11]** Wherefore I sware in my wrath, saying, Surely they shall not enter into my rest.
 
 ### Chapter 96
 
@@ -32142,7 +32142,7 @@
 
 **[96:12]** Let the field be ioyfull, and all that is in it: let all the trees of the wood then reioyce
 
-**[96:13]** Before the Lord: for he commeth, for he cometh to iudge the earth: he wil iudge the world with righteousnes, and the people in his trueth.  
+**[96:13]** Before the Lord: for he commeth, for he cometh to iudge the earth: he wil iudge the world with righteousnes, and the people in his trueth.
 
 ### Chapter 97
 
@@ -32168,7 +32168,7 @@
 
 **[97:11]** Light is sowen for the righteous, and ioy for the vpright in heart.
 
-**[97:12]** Reioyce ye righteous in the Lord, and giue thankes for his holy remembrance.  
+**[97:12]** Reioyce ye righteous in the Lord, and giue thankes for his holy remembrance.
 
 ### Chapter 98
 
@@ -32188,7 +32188,7 @@
 
 **[98:8]** Let the floods clap their hands, and let the mountaines reioyce together
 
-**[98:9]** Before the Lord: for he is come to iudge the earth: with righteousnesse shall hee iudge the world, and the people with equitie.  
+**[98:9]** Before the Lord: for he is come to iudge the earth: with righteousnesse shall hee iudge the world, and the people with equitie.
 
 ### Chapter 99
 
@@ -32208,7 +32208,7 @@
 
 **[99:8]** Thou heardest them, O Lord our God: thou wast a fauourable God vnto them, though thou didst take vengeance for their inuentions.
 
-**[99:9]** Exalt the Lord our God, and fall downe before his holy Mountaine: for the Lord our God is holy.  
+**[99:9]** Exalt the Lord our God, and fall downe before his holy Mountaine: for the Lord our God is holy.
 
 ### Chapter 100
 
@@ -32220,7 +32220,7 @@
 
 **[100:4]** Enter into his gates with prayse, and into his courts with reioycing: prayse him and blesse his Name.
 
-**[100:5]** For the Lord is good: his mercy is euerlasting, and his trueth is from generation to generation.  
+**[100:5]** For the Lord is good: his mercy is euerlasting, and his trueth is from generation to generation.
 
 ### Chapter 101
 
@@ -32238,7 +32238,7 @@
 
 **[101:7]** There shall no deceitful person dwell within mine house: he that telleth lyes, shall not remaine in my sight.
 
-**[101:8]** Betimes will I destroy all the wicked of the land, that I may cut off all the workers of iniquitie from the Citie of the Lord.  
+**[101:8]** Betimes will I destroy all the wicked of the land, that I may cut off all the workers of iniquitie from the Citie of the Lord.
 
 ### Chapter 102
 
@@ -32296,7 +32296,7 @@
 
 **[102:27]** But thou art the same, and thy yeeres shall not fayle.
 
-**[102:28]** The children of thy seruants shall continue, and their seede shall stand fast in thy sight.  
+**[102:28]** The children of thy seruants shall continue, and their seede shall stand fast in thy sight.
 
 ### Chapter 103
 
@@ -32342,7 +32342,7 @@
 
 **[103:21]** Prayse the Lord, all ye his hostes, ye his seruants that doe his pleasure.
 
-**[103:22]** Prayse the Lord, all ye his workes, in all places of his dominion: my soule, prayse thou the Lord.  
+**[103:22]** Prayse the Lord, all ye his workes, in all places of his dominion: my soule, prayse thou the Lord.
 
 ### Chapter 104
 
@@ -32414,7 +32414,7 @@
 
 **[104:34]** Let my wordes be acceptable vnto him: I will reioyce in the Lord.
 
-**[104:35]** Let the sinners be consumed out of the earth, and the wicked till there be no more: O my soule, prayse thou the Lord. Prayse ye the Lord.  
+**[104:35]** Let the sinners be consumed out of the earth, and the wicked till there be no more: O my soule, prayse thou the Lord. Prayse ye the Lord.
 
 ### Chapter 105
 
@@ -32506,7 +32506,7 @@
 
 **[105:44]** And gaue them the lands of the heathen, and they tooke the labours of the people in possession,
 
-**[105:45]** That they might keepe his statutes, and obserue his Lawes. Prayse ye the Lord.  
+**[105:45]** That they might keepe his statutes, and obserue his Lawes. Prayse ye the Lord.
 
 ### Chapter 106
 
@@ -32604,7 +32604,7 @@
 
 **[106:47]** Saue vs, O Lord our God, and gather vs from among the heathen, that we may praise thine holy Name, and glorie in thy praise.
 
-**[106:48]** Blessed be the Lord God of Israel for euer and euer, and let all the people say, So be it. Praise yee the Lord.  
+**[106:48]** Blessed be the Lord God of Israel for euer and euer, and let all the people say, So be it. Praise yee the Lord.
 
 ### Chapter 107
 
@@ -32692,7 +32692,7 @@
 
 **[107:42]** The righteous shall see it, and reioyce, and all iniquitie shall stoppe her mouth.
 
-**[107:43]** Who is wise that hee may obserue these things? for they shall vnderstand the louing kindnesse of the Lord.  
+**[107:43]** Who is wise that hee may obserue these things? for they shall vnderstand the louing kindnesse of the Lord.
 
 ### Chapter 108
 
@@ -32720,7 +32720,7 @@
 
 **[108:12]** Giue vs helpe against trouble: for vaine is the helpe of man.
 
-**[108:13]** Through God we shall doe valiantly: for he shall treade downe our enemies.  
+**[108:13]** Through God we shall doe valiantly: for he shall treade downe our enemies.
 
 ### Chapter 109
 
@@ -32784,7 +32784,7 @@
 
 **[109:30]** I will giue thankes vnto the Lord greatly with my mouth and praise him among ye multitude.
 
-**[109:31]** For he will stand at the right hand of the poore, to saue him from them that woulde condemne his soule.  
+**[109:31]** For he will stand at the right hand of the poore, to saue him from them that woulde condemne his soule.
 
 ### Chapter 110
 
@@ -32800,7 +32800,7 @@
 
 **[110:6]** He shalbe iudge among the heathen: he shall fill all with dead bodies, and smite the head ouer great countreis.
 
-**[110:7]** He shall drinke of the brooke in the way: therefore shall he lift vp his head.  
+**[110:7]** He shall drinke of the brooke in the way: therefore shall he lift vp his head.
 
 ### Chapter 111
 
@@ -32822,7 +32822,7 @@
 
 **[111:9]** He sent redemption vnto his people: he hath commanded his couenant for euer: holy and fearefull is his Name.
 
-**[111:10]** The beginning of wisedome is the feare of the Lord: all they that obserue them, haue good vnderstanding: his praise endureth for euer.  
+**[111:10]** The beginning of wisedome is the feare of the Lord: all they that obserue them, haue good vnderstanding: his praise endureth for euer.
 
 ### Chapter 112
 
@@ -32844,7 +32844,7 @@
 
 **[112:9]** He hath distributed and giuen to ye poore: his righteousnesse remaineth for euer: his horne shalbe exalted with glory.
 
-**[112:10]** The wicked shall see it and be angrie: he shall gnash with his teeth, and consume away: the desire of the wicked shall perish.  
+**[112:10]** The wicked shall see it and be angrie: he shall gnash with his teeth, and consume away: the desire of the wicked shall perish.
 
 ### Chapter 113
 
@@ -32864,7 +32864,7 @@
 
 **[113:8]** That he may set him with the princes, euen with the princes of his people.
 
-**[113:9]** He maketh the barren woman to dwell with a familie, and a ioyfull mother of children. Prayse ye the Lord.  
+**[113:9]** He maketh the barren woman to dwell with a familie, and a ioyfull mother of children. Prayse ye the Lord.
 
 ### Chapter 114
 
@@ -32882,7 +32882,7 @@
 
 **[114:7]** The earth trembled at the presence of the Lord, at the presence of the God of Iaakob,
 
-**[114:8]** Which turneth the rocke into waterpooles, and the flint into a fountaine of water.  
+**[114:8]** Which turneth the rocke into waterpooles, and the flint into a fountaine of water.
 
 ### Chapter 115
 
@@ -32920,7 +32920,7 @@
 
 **[115:17]** The dead prayse not the Lord, neither any that goe downe into the place of silence.
 
-**[115:18]** But we will prayse the Lord from henceforth and for euer. Prayse ye the Lord.  
+**[115:18]** But we will prayse the Lord from henceforth and for euer. Prayse ye the Lord.
 
 ### Chapter 116
 
@@ -32960,13 +32960,13 @@
 
 **[116:18]** I will pay my vowes vnto the Lord, euen nowe in the presence of all his people,
 
-**[116:19]** In the courtes of ye Lords house, euen in the middes of thee, O Ierusalem. Praise ye the Lord.  
+**[116:19]** In the courtes of ye Lords house, euen in the middes of thee, O Ierusalem. Praise ye the Lord.
 
 ### Chapter 117
 
 **[117:1]** All nations, praise ye the Lord: all ye people, praise him.
 
-**[117:2]** For his louing kindnes is great toward vs, and the trueth of the Lord endureth for euer. Praise yee the Lord.  
+**[117:2]** For his louing kindnes is great toward vs, and the trueth of the Lord endureth for euer. Praise yee the Lord.
 
 ### Chapter 118
 
@@ -33026,7 +33026,7 @@
 
 **[118:28]** Thou art my God, and I will praise thee, euen my God: therefore I will exalt thee.
 
-**[118:29]** Praise ye the Lord, because he is good: for his mercie endureth for euer.  
+**[118:29]** Praise ye the Lord, because he is good: for his mercie endureth for euer.
 
 ### Chapter 119
 
@@ -33380,7 +33380,7 @@
 
 **[119:175]** Let my soule liue, and it shall praise thee, and thy iudgements shall helpe me.
 
-**[119:176]** I haue gone astraye like a lost sheepe: seeke thy seruant, for I doe not forget thy commandements.  
+**[119:176]** I haue gone astraye like a lost sheepe: seeke thy seruant, for I doe not forget thy commandements.
 
 ### Chapter 120
 
@@ -33396,7 +33396,7 @@
 
 **[120:6]** My soule hath too long dwelt with him that hateth peace.
 
-**[120:7]** I seeke peace, and when I speake thereof, they are bent to warre.  
+**[120:7]** I seeke peace, and when I speake thereof, they are bent to warre.
 
 ### Chapter 121
 
@@ -33414,7 +33414,7 @@
 
 **[121:7]** The Lord shall preserue thee from all euil: he shall keepe thy soule.
 
-**[121:8]** The Lord shall preserue thy going out, and thy comming in from henceforth and for euer.  
+**[121:8]** The Lord shall preserue thy going out, and thy comming in from henceforth and for euer.
 
 ### Chapter 122
 
@@ -33434,7 +33434,7 @@
 
 **[122:8]** For my brethren and neighbours sakes I will wish thee now prosperitie.
 
-**[122:9]** Because of the House of the Lord our God, I will procure thy wealth.  
+**[122:9]** Because of the House of the Lord our God, I will procure thy wealth.
 
 ### Chapter 123
 
@@ -33444,7 +33444,7 @@
 
 **[123:3]** Haue mercie vpon vs, O Lord, haue mercie vpon vs: for we haue suffered too much contempt.
 
-**[123:4]** Our soule is filled too full of ye mocking of the wealthy, and of the despitefulnes of the proude.  
+**[123:4]** Our soule is filled too full of ye mocking of the wealthy, and of the despitefulnes of the proude.
 
 ### Chapter 124
 
@@ -33462,7 +33462,7 @@
 
 **[124:7]** Our soule is escaped, euen as a bird out of the snare of the foulers: the snare is broken, and we are deliuered.
 
-**[124:8]** Our helpe is in the Name of the Lord, which hath made heauen and earth.  
+**[124:8]** Our helpe is in the Name of the Lord, which hath made heauen and earth.
 
 ### Chapter 125
 
@@ -33474,7 +33474,7 @@
 
 **[125:4]** Doe well, O Lord, vnto those that be good and true in their hearts.
 
-**[125:5]** But these that turne aside by their crooked wayes, them shall the Lord leade with the workers of iniquitie: but peace shalbe vpon Israel.  
+**[125:5]** But these that turne aside by their crooked wayes, them shall the Lord leade with the workers of iniquitie: but peace shalbe vpon Israel.
 
 ### Chapter 126
 
@@ -33488,7 +33488,7 @@
 
 **[126:5]** They that sowe in teares, shall reape in ioy.
 
-**[126:6]** They went weeping and caried precious seede: but they shall returne with ioye and bring their sheaues.  
+**[126:6]** They went weeping and caried precious seede: but they shall returne with ioye and bring their sheaues.
 
 ### Chapter 127
 
@@ -33500,7 +33500,7 @@
 
 **[127:4]** As are the arrowes in the hand of ye strong man: so are the children of youth.
 
-**[127:5]** Blessed is the man, that hath his quiuer full of them: for they shall not be ashamed, when they speake with their enemies in the gate.  
+**[127:5]** Blessed is the man, that hath his quiuer full of them: for they shall not be ashamed, when they speake with their enemies in the gate.
 
 ### Chapter 128
 
@@ -33514,7 +33514,7 @@
 
 **[128:5]** The Lord out of Zion shall blesse thee, and thou shalt see the wealth of Ierusalem all the dayes of thy life.
 
-**[128:6]** Yea, thou shalt see thy childrens children, and peace vpon Israel.  
+**[128:6]** Yea, thou shalt see thy childrens children, and peace vpon Israel.
 
 ### Chapter 129
 
@@ -33532,7 +33532,7 @@
 
 **[129:7]** Whereof the mower filleth not his hand, neither the glainer his lap:
 
-**[129:8]** Neither they, which go by, say, The blessing of the Lord be vpon you, or, We blesse you in the Name of the Lord.  
+**[129:8]** Neither they, which go by, say, The blessing of the Lord be vpon you, or, We blesse you in the Name of the Lord.
 
 ### Chapter 130
 
@@ -33550,7 +33550,7 @@
 
 **[130:7]** Let Israel waite on the Lord: for with the Lord is mercie, and with him is great redemption.
 
-**[130:8]** And he shall redeeme Israel from all his iniquities.  
+**[130:8]** And he shall redeeme Israel from all his iniquities.
 
 ### Chapter 131
 
@@ -33558,7 +33558,7 @@
 
 **[131:2]** Surely I haue behaued my selfe, like one wained from his mother, and kept silence: I am in my selfe as one that is wained.
 
-**[131:3]** Let Israel waite on the Lord from hencefoorth and for euer.  
+**[131:3]** Let Israel waite on the Lord from hencefoorth and for euer.
 
 ### Chapter 132
 
@@ -33596,7 +33596,7 @@
 
 **[132:17]** There will I make the horne of Dauid to bud: for I haue ordeined a light for mine Anoynted.
 
-**[132:18]** His enemies will I clothe with shame, but on him his crowne shall florish.  
+**[132:18]** His enemies will I clothe with shame, but on him his crowne shall florish.
 
 ### Chapter 133
 
@@ -33604,7 +33604,7 @@
 
 **[133:2]** It is like to the precious oyntment vpon the head, that runneth downe vpon the beard, euen vnto Aarons beard, which went downe on the border of his garments:
 
-**[133:3]** And as the dew of Hermon, which falleth vpon the mountaines of Zion: for there the Lord appointed the blessing and life for euer.  
+**[133:3]** And as the dew of Hermon, which falleth vpon the mountaines of Zion: for there the Lord appointed the blessing and life for euer.
 
 ### Chapter 134
 
@@ -33612,7 +33612,7 @@
 
 **[134:2]** Lift vp your hands to the Sanctuarie, and praise the Lord.
 
-**[134:3]** The Lord, that hath made heauen and earth, blesse thee out of Zion.  
+**[134:3]** The Lord, that hath made heauen and earth, blesse thee out of Zion.
 
 ### Chapter 135
 
@@ -33656,7 +33656,7 @@
 
 **[135:20]** Praise the Lord, ye house of Leui: ye that feare the Lord, praise the Lord.
 
-**[135:21]** Praised bee the Lord out of Zion, which dwelleth in Ierusalem. Praise ye the Lord.  
+**[135:21]** Praised bee the Lord out of Zion, which dwelleth in Ierusalem. Praise ye the Lord.
 
 ### Chapter 136
 
@@ -33710,7 +33710,7 @@
 
 **[136:25]** Which giueth foode to all flesh: for his mercie endureth for euer.
 
-**[136:26]** Praise ye the God of heauen: for his mercie endureth for euer.  
+**[136:26]** Praise ye the God of heauen: for his mercie endureth for euer.
 
 ### Chapter 137
 
@@ -33730,7 +33730,7 @@
 
 **[137:8]** O daughter of Babel, worthy to be destroyed, blessed shall he be that rewardeth thee, as thou hast serued vs.
 
-**[137:9]** Blessed shall he be that taketh and dasheth thy children against the stones.  
+**[137:9]** Blessed shall he be that taketh and dasheth thy children against the stones.
 
 ### Chapter 138
 
@@ -33748,7 +33748,7 @@
 
 **[138:7]** Though I walke in the middes of trouble, yet wilt thou reuiue me: thou wilt stretch foorth thine hand vpon the wrath of mine enemies, and thy right hand shall saue me.
 
-**[138:8]** The Lord will performe his worke toward me: O Lord, thy mercie endureth for euer: forsake not the workes of thine handes.  
+**[138:8]** The Lord will performe his worke toward me: O Lord, thy mercie endureth for euer: forsake not the workes of thine handes.
 
 ### Chapter 139
 
@@ -33798,7 +33798,7 @@
 
 **[139:23]** Try mee, O God, and knowe mine heart: prooue me and know my thoughtes,
 
-**[139:24]** And consider if there be any way of wickednes in me, and leade me in the way for euer.  
+**[139:24]** And consider if there be any way of wickednes in me, and leade me in the way for euer.
 
 ### Chapter 140
 
@@ -33826,7 +33826,7 @@
 
 **[140:12]** I know that the Lord will auenge the afflicted, and iudge the poore.
 
-**[140:13]** Surely the righteous shall prayse thy Name, and the iust shall dwell in thy presence.  
+**[140:13]** Surely the righteous shall prayse thy Name, and the iust shall dwell in thy presence.
 
 ### Chapter 141
 
@@ -33848,7 +33848,7 @@
 
 **[141:9]** Keepe me from the snare, which they haue layde for me, and from the grennes of the workers of iniquitie.
 
-**[141:10]** Let the wicked fall into his nettes together, whiles I escape.  
+**[141:10]** Let the wicked fall into his nettes together, whiles I escape.
 
 ### Chapter 142
 
@@ -33864,7 +33864,7 @@
 
 **[142:6]** Hearken vnto my crye, for I am brought very lowe: deliuer me from my persecuters, for they are too strong for me.
 
-**[142:7]** Bring my soule out of prison, that I may prayse thy Name: then shall the righteous come about me, when thou art beneficiall vnto me.  
+**[142:7]** Bring my soule out of prison, that I may prayse thy Name: then shall the righteous come about me, when thou art beneficiall vnto me.
 
 ### Chapter 143
 
@@ -33890,7 +33890,7 @@
 
 **[143:11]** Quicken me, O Lord, for thy Names sake, and for thy righteousnesse bring my soule out of trouble.
 
-**[143:12]** And for thy mercy slay mine enemies, and destroy all them that oppresse my soule: for I am thy seruant.  
+**[143:12]** And for thy mercy slay mine enemies, and destroy all them that oppresse my soule: for I am thy seruant.
 
 ### Chapter 144
 
@@ -33922,7 +33922,7 @@
 
 **[144:14]** That our oxen may be strong to labour: that there be none inuasion, nor going out, nor no crying in our streetes.
 
-**[144:15]** Blessed are the people, that be so, yea, blessed are the people, whose God is the Lord.  
+**[144:15]** Blessed are the people, that be so, yea, blessed are the people, whose God is the Lord.
 
 ### Chapter 145
 
@@ -33966,7 +33966,7 @@
 
 **[145:20]** The Lord preserueth all them that loue him: but he will destroy all the wicked.
 
-**[145:21]** My mouth shall speake the prayse of the Lord, and all flesh shall blesse his holy Name for euer and euer.  
+**[145:21]** My mouth shall speake the prayse of the Lord, and all flesh shall blesse his holy Name for euer and euer.
 
 ### Chapter 146
 
@@ -33988,7 +33988,7 @@
 
 **[146:9]** The Lord keepeth the strangers: he relieueth the fatherlesse and widowe: but he ouerthroweth the way of the wicked.
 
-**[146:10]** The Lord shall reigne for euer: O Zion, thy God endureth from generation to generation. Prayse ye the Lord.  
+**[146:10]** The Lord shall reigne for euer: O Zion, thy God endureth from generation to generation. Prayse ye the Lord.
 
 ### Chapter 147
 
@@ -34030,7 +34030,7 @@
 
 **[147:19]** He sheweth his word vnto Iaakob, his statutes and his iudgements vnto Israel.
 
-**[147:20]** He hath not dealt so with euery nation, neither haue they knowen his iudgements. Prayse ye the Lord.  
+**[147:20]** He hath not dealt so with euery nation, neither haue they knowen his iudgements. Prayse ye the Lord.
 
 ### Chapter 148
 
@@ -34060,7 +34060,7 @@
 
 **[148:13]** Let them prayse the Name of the Lord: for his Name onely is to be exalted, and his prayse aboue the earth and the heauens.
 
-**[148:14]** For he hath exalted the horne of his people, which is a prayse for all his Saintes, euen for the children of Israel, a people that is neere vnto him. Prayse ye the Lord.  
+**[148:14]** For he hath exalted the horne of his people, which is a prayse for all his Saintes, euen for the children of Israel, a people that is neere vnto him. Prayse ye the Lord.
 
 ### Chapter 149
 
@@ -34080,7 +34080,7 @@
 
 **[149:8]** To binde their Kings in chaines, and their nobles with fetters of yron,
 
-**[149:9]** That they may execute vpon them the iudgement that is written: this honour shall be to all his Saintes. Prayse ye the Lord.  
+**[149:9]** That they may execute vpon them the iudgement that is written: this honour shall be to all his Saintes. Prayse ye the Lord.
 
 ### Chapter 150
 
@@ -34094,7 +34094,7 @@
 
 **[150:5]** Prayse ye him with sounding cymbales: prayse ye him with high sounding cymbales.
 
-**[150:6]** Let euery thing that hath breath prayse the Lord. Prayse ye the Lord.   
+**[150:6]** Let euery thing that hath breath prayse the Lord. Prayse ye the Lord.
 
 ## Proverbs
 
@@ -34164,7 +34164,7 @@
 
 **[1:32]** For ease slaieth the foolish, and the prosperitie of fooles destroyeth them.
 
-**[1:33]** But he that obeyeth me, shall dwell safely, and be quiet from feare of euill.  
+**[1:33]** But he that obeyeth me, shall dwell safely, and be quiet from feare of euill.
 
 ### Chapter 2
 
@@ -34210,7 +34210,7 @@
 
 **[2:21]** For the iust shall dwell in the land, and the vpright men shall remaine in it.
 
-**[2:22]** But the wicked shalbe cut off from ye earth, and the transgressours shalbe rooted out of it.  
+**[2:22]** But the wicked shalbe cut off from ye earth, and the transgressours shalbe rooted out of it.
 
 ### Chapter 3
 
@@ -34282,7 +34282,7 @@
 
 **[3:34]** With the scornefull he scorneth, but hee giueth grace vnto the humble.
 
-**[3:35]** The wise shall inherite glorie: but fooles dishonour, though they be exalted.  
+**[3:35]** The wise shall inherite glorie: but fooles dishonour, though they be exalted.
 
 ### Chapter 4
 
@@ -34338,7 +34338,7 @@
 
 **[4:26]** Ponder the path of thy feete, and let all thy waies be ordred aright.
 
-**[4:27]** Turne not to the right hande, nor to the left, but remooue thy foote from euill.  
+**[4:27]** Turne not to the right hande, nor to the left, but remooue thy foote from euill.
 
 ### Chapter 5
 
@@ -34386,7 +34386,7 @@
 
 **[5:22]** His owne iniquities shall take the wicked himselfe, and he shall be holden with the cordes of his owne sinne.
 
-**[5:23]** Hee shall die for fault of instruction, and shall goe astray through his great follie.  
+**[5:23]** Hee shall die for fault of instruction, and shall goe astray through his great follie.
 
 ### Chapter 6
 
@@ -34458,7 +34458,7 @@
 
 **[6:34]** For ielousie is the rage of a man: therefore he will not spare in the day of vengeance.
 
-**[6:35]** He cannot beare the sight of any raunsome: neither will he consent, though thou augment the giftes.  
+**[6:35]** He cannot beare the sight of any raunsome: neither will he consent, though thou augment the giftes.
 
 ### Chapter 7
 
@@ -34514,7 +34514,7 @@
 
 **[7:26]** For shee hath caused many to fall downe wounded, and the strong men are all slaine by her.
 
-**[7:27]** Her house is the way vnto ye graue, which goeth downe to the chambers of death.  
+**[7:27]** Her house is the way vnto ye graue, which goeth downe to the chambers of death.
 
 ### Chapter 8
 
@@ -34586,7 +34586,7 @@
 
 **[8:34]** For he that findeth me, findeth life, and shall obteine fauour of the Lord.
 
-**[8:35]** But he that sinneth against me, hurteth his owne soule: and all that hate me, loue death.  
+**[8:35]** But he that sinneth against me, hurteth his owne soule: and all that hate me, loue death.
 
 **[8:36]** 
 
@@ -34626,7 +34626,7 @@
 
 **[9:17]** Stollen waters are sweete, and hid bread is pleasant.
 
-**[9:18]** But he knoweth not, that ye dead are there, and that her ghestes are in the depth of hell.  
+**[9:18]** But he knoweth not, that ye dead are there, and that her ghestes are in the depth of hell.
 
 ### Chapter 10
 
@@ -34692,7 +34692,7 @@
 
 **[10:31]** The mouth of the iust shall be fruitfull in wisdome: but the tongue of the froward shall be cut out.
 
-**[10:32]** The lips of the righteous knowe what is acceptable: but the mouth of the wicked speaketh froward things.  
+**[10:32]** The lips of the righteous knowe what is acceptable: but the mouth of the wicked speaketh froward things.
 
 ### Chapter 11
 
@@ -34756,7 +34756,7 @@
 
 **[11:30]** The fruite of the righteous is as a tree of life, and he that winneth soules, is wise.
 
-**[11:31]** Beholde, the righteous shalbe recompensed in the earth: howe much more the wicked and the sinner?  
+**[11:31]** Beholde, the righteous shalbe recompensed in the earth: howe much more the wicked and the sinner?
 
 ### Chapter 12
 
@@ -34814,7 +34814,7 @@
 
 **[12:27]** The deceitfull man rosteth not, that hee tooke in hunting: but the riches of the diligent man are precious.
 
-**[12:28]** Life is in the way of righteousnesse, and in that path way there is no death.  
+**[12:28]** Life is in the way of righteousnesse, and in that path way there is no death.
 
 ### Chapter 13
 
@@ -34866,7 +34866,7 @@
 
 **[13:24]** He that spareth his rodde, hateth his sonne: but he that loueth him, chasteneth him betime.
 
-**[13:25]** The righteous eateth to the contentation of his minde: but the belly of the wicked shall want.  
+**[13:25]** The righteous eateth to the contentation of his minde: but the belly of the wicked shall want.
 
 ### Chapter 14
 
@@ -34938,7 +34938,7 @@
 
 **[14:34]** Iustice exalteth a nation, but sinne is a shame to the people.
 
-**[14:35]** The pleasure of a King is in a wise seruant: but his wrath shalbe toward him that is lewde.  
+**[14:35]** The pleasure of a King is in a wise seruant: but his wrath shalbe toward him that is lewde.
 
 ### Chapter 15
 
@@ -35006,7 +35006,7 @@
 
 **[15:32]** Hee that refuseth instruction, despiseth his owne soule: but he that obeyeth correction, getteth vnderstanding.
 
-**[15:33]** The feare of the Lord is the instruction of wisdome: and before honour, goeth humilitie.  
+**[15:33]** The feare of the Lord is the instruction of wisdome: and before honour, goeth humilitie.
 
 ### Chapter 16
 
@@ -35074,7 +35074,7 @@
 
 **[16:32]** He that is slowe vnto anger, is better then the mightie man: and hee that ruleth his owne minde, is better then he that winneth a citie.
 
-**[16:33]** The lot is cast into the lap: but the whole disposition thereof is of the Lord.  
+**[16:33]** The lot is cast into the lap: but the whole disposition thereof is of the Lord.
 
 ### Chapter 17
 
@@ -35132,7 +35132,7 @@
 
 **[17:27]** Hee that hath knowledge, spareth his wordes, and a man of vnderstanding is of an excellent spirit.
 
-**[17:28]** Euen a foole (when he holdeth his peace) is counted wise, and hee that stoppeth his lips, prudent.  
+**[17:28]** Euen a foole (when he holdeth his peace) is counted wise, and hee that stoppeth his lips, prudent.
 
 ### Chapter 18
 
@@ -35182,7 +35182,7 @@
 
 **[18:23]** The poore speaketh with prayers: but the rich answereth roughly.
 
-**[18:24]** A man that hath friends, ought to shew him selfe friendly: for a friend is neerer then a brother.  
+**[18:24]** A man that hath friends, ought to shew him selfe friendly: for a friend is neerer then a brother.
 
 ### Chapter 19
 
@@ -35242,7 +35242,7 @@
 
 **[19:28]** A wicked witnes mocketh at iudgement, and the mouth of ye wicked swalloweth vp iniquitie.
 
-**[19:29]** But iudgements are prepared for the scorners, and stripes for the backe of the fooles.  
+**[19:29]** But iudgements are prepared for the scorners, and stripes for the backe of the fooles.
 
 ### Chapter 20
 
@@ -35304,7 +35304,7 @@
 
 **[20:29]** The beautie of yong men is their strength, and the glory of the aged is the gray head.
 
-**[20:30]** The blewnes of the wound serueth to purge the euill, and the stripes within the bowels of the belly.  
+**[20:30]** The blewnes of the wound serueth to purge the euill, and the stripes within the bowels of the belly.
 
 ### Chapter 21
 
@@ -35368,7 +35368,7 @@
 
 **[21:30]** There is no wisedome, neither vnderstanding, nor counsell against the Lord.
 
-**[21:31]** The horse is prepared against the day of battell: but saluation is of the Lord.  
+**[21:31]** The horse is prepared against the day of battell: but saluation is of the Lord.
 
 ### Chapter 22
 
@@ -35428,7 +35428,7 @@
 
 **[22:28]** Thou shalt not remooue the ancient bounds which thy fathers haue made.
 
-**[22:29]** Thou seest that a diligent man in his businesse standeth before Kings, and standeth not before the base sort.  
+**[22:29]** Thou seest that a diligent man in his businesse standeth before Kings, and standeth not before the base sort.
 
 ### Chapter 23
 
@@ -35500,7 +35500,7 @@
 
 **[23:34]** And thou shalt bee as one that sleepeth in the middes of the sea, and as hee that sleepeth in the toppe of the maste.
 
-**[23:35]** They haue stricken mee, shalt thou say, but I was not sicke: they haue beaten mee, but I knew not, when I awoke: therefore will I seeke it yet still.  
+**[23:35]** They haue stricken mee, shalt thou say, but I was not sicke: they haue beaten mee, but I knew not, when I awoke: therefore will I seeke it yet still.
 
 ### Chapter 24
 
@@ -35570,7 +35570,7 @@
 
 **[24:33]** Yet a litle sleepe, a litle slumber, a litle folding of the handes to sleepe.
 
-**[24:34]** So thy pouertie commeth as one that traueileth by the way, and thy necessitie like an armed man.  
+**[24:34]** So thy pouertie commeth as one that traueileth by the way, and thy necessitie like an armed man.
 
 ### Chapter 25
 
@@ -35628,7 +35628,7 @@
 
 **[25:27]** It is not good to eate much hony: so to search their owne glory is not glory.
 
-**[25:28]** A man that refraineth not his appetite, is like a citie which is broken downe and without walles.  
+**[25:28]** A man that refraineth not his appetite, is like a citie which is broken downe and without walles.
 
 ### Chapter 26
 
@@ -35686,7 +35686,7 @@
 
 **[26:27]** He that diggeth a pit shall fall therein, and he that rolleth a stone, it shall returne vnto him.
 
-**[26:28]** A false tongue hateth the afflicted, and a flattering mouth causeth ruine.  
+**[26:28]** A false tongue hateth the afflicted, and a flattering mouth causeth ruine.
 
 ### Chapter 27
 
@@ -35742,7 +35742,7 @@
 
 **[27:26]** The lambes are for thy clothing, and the goates are the price of the fielde.
 
-**[27:27]** And let the milke of the goates be sufficient for thy foode, for the foode of thy familie, and for the sustenance of thy maydes.  
+**[27:27]** And let the milke of the goates be sufficient for thy foode, for the foode of thy familie, and for the sustenance of thy maydes.
 
 ### Chapter 28
 
@@ -35800,7 +35800,7 @@
 
 **[28:27]** He that giueth vnto the poore, shall not lacke: but he that hideth his eyes, shall haue many curses.
 
-**[28:28]** When the wicked rise vp, men hide them selues: but when they perish, ye righteous increase.  
+**[28:28]** When the wicked rise vp, men hide them selues: but when they perish, ye righteous increase.
 
 ### Chapter 29
 
@@ -35856,7 +35856,7 @@
 
 **[29:26]** Many doe seeke the face of the ruler: but euery mans iudgement commeth from the Lord.
 
-**[29:27]** A wicked man is abomination to the iust, and he that is vpright in his way, is abomination to the wicked.  
+**[29:27]** A wicked man is abomination to the iust, and he that is vpright in his way, is abomination to the wicked.
 
 ### Chapter 30
 
@@ -35924,7 +35924,7 @@
 
 **[30:32]** If thou hast bene foolish in lifting thy selfe vp, and if thou hast thought wickedly, lay thine hand vpon thy mouth.
 
-**[30:33]** When one churneth milke, he bringeth foorth butter: and he that wringeth his nose, causeth blood to come out: so he that forceth wrath, bringeth foorth strife.  
+**[30:33]** When one churneth milke, he bringeth foorth butter: and he that wringeth his nose, causeth blood to come out: so he that forceth wrath, bringeth foorth strife.
 
 ### Chapter 31
 
@@ -35988,7 +35988,7 @@
 
 **[31:30]** Fauour is deceitfull, and beautie is vanitie: but a woman that feareth the Lord, she shall be praysed.
 
-**[31:31]** Giue her of the fruite of her hands, and let her owne workes prayse her in the gates.   
+**[31:31]** Giue her of the fruite of her hands, and let her owne workes prayse her in the gates.
 
 ## Ecclesiastes
 
@@ -36028,7 +36028,7 @@
 
 **[1:17]** And I gaue mine heart to knowe wisdome and knowledge, madnes and foolishnes: I knew also that this is a vexation of the spirit.
 
-**[1:18]** For in the multitude of wisedome is much griefe: and he that increaseth knowledge, increaseth sorowe.  
+**[1:18]** For in the multitude of wisedome is much griefe: and he that increaseth knowledge, increaseth sorowe.
 
 ### Chapter 2
 
@@ -36082,7 +36082,7 @@
 
 **[2:25]** For who could eate, and who could haste to outward things more then I?
 
-**[2:26]** Surely to a man that is good in his sight, God giueth wisdome, and knowledge, and ioy: but to the sinner he giueth paine, to gather, and to heape to giue to him that is good before God: this is also vanitie, and vexation of the spirit.  
+**[2:26]** Surely to a man that is good in his sight, God giueth wisdome, and knowledge, and ioy: but to the sinner he giueth paine, to gather, and to heape to giue to him that is good before God: this is also vanitie, and vexation of the spirit.
 
 ### Chapter 3
 
@@ -36128,7 +36128,7 @@
 
 **[3:21]** Who knoweth whether the spirit of man ascend vpward, and the spirit of the beast descend downeward to the earth?
 
-**[3:22]** Therefore I see that there is nothing better then that a man shoulde reioyce in his affaires, because that is his portion. For who shall bring him to see what shalbe after him?  
+**[3:22]** Therefore I see that there is nothing better then that a man shoulde reioyce in his affaires, because that is his portion. For who shall bring him to see what shalbe after him?
 
 ### Chapter 4
 
@@ -36162,7 +36162,7 @@
 
 **[4:15]** I behelde all the liuing, which walke vnder the sunne, with the second childe, which shall stand vp in his place.
 
-**[4:16]** There is none ende of all the people, nor of all that were before them, and they that come after, shall not reioyce in him: surely this is also vanitie and vexation of spirit. Take heede to thy foote when thou entrest into the House of God, and be more neere to heare then to giue the sacrifice of fooles: for they knowe not that they doe euil.  
+**[4:16]** There is none ende of all the people, nor of all that were before them, and they that come after, shall not reioyce in him: surely this is also vanitie and vexation of spirit. Take heede to thy foote when thou entrest into the House of God, and be more neere to heare then to giue the sacrifice of fooles: for they knowe not that they doe euil.
 
 ### Chapter 5
 
@@ -36202,7 +36202,7 @@
 
 **[5:18]** Also to euery man to whom God hath giuen riches and treasures, and giueth him power to eate thereof, and to take his part, and to enioy his labour: this is the gift of God.
 
-**[5:19]** Surely hee will not much remember the dayes of his life, because God answereth to the ioy of his heart.  
+**[5:19]** Surely hee will not much remember the dayes of his life, because God answereth to the ioy of his heart.
 
 **[5:20]** 
 
@@ -36226,7 +36226,7 @@
 
 **[6:9]** The sight of ye eye is better then to walke in ye lustes: this also is vanitie, and vexation of spirit.
 
-**[6:10]** What is that that hath bene? the name thereof is nowe named: and it is knowen that it is man: and he cannot striue with him that is stronger then he.  
+**[6:10]** What is that that hath bene? the name thereof is nowe named: and it is knowen that it is man: and he cannot striue with him that is stronger then he.
 
 **[6:11]** 
 
@@ -36290,7 +36290,7 @@
 
 **[7:28]** And I finde more bitter then death the woman whose heart is as nettes and snares, and her handes, as bands: he that is good before God, shalbe deliuered from her, but the sinner shall be taken by her.
 
-**[7:29]** Beholde, sayth the Preacher, this haue I found, seeking one by one to finde the count: And yet my soule seeketh, but I finde it not: I haue found one man of a thousand: but a woman among them all haue I not founde. Onely loe, this haue I founde, that God hath made man righteous: but they haue sought many inuentions.  
+**[7:29]** Beholde, sayth the Preacher, this haue I found, seeking one by one to finde the count: And yet my soule seeketh, but I finde it not: I haue found one man of a thousand: but a woman among them all haue I not founde. Onely loe, this haue I founde, that God hath made man righteous: but they haue sought many inuentions.
 
 ### Chapter 8
 
@@ -36326,7 +36326,7 @@
 
 **[8:16]** When I applied mine heart to knowe wisedome, and to behold the busines that is done on earth, that neither day nor night the eyes of man take sleepe,
 
-**[8:17]** Then I behelde the whole worke of God, that man cannot finde out ye worke that is wrought vnder the sunne: for the which man laboureth to seeke it, and cannot finde it: yea, and though the wise man thinke to knowe it, he cannot finde it.  
+**[8:17]** Then I behelde the whole worke of God, that man cannot finde out ye worke that is wrought vnder the sunne: for the which man laboureth to seeke it, and cannot finde it: yea, and though the wise man thinke to knowe it, he cannot finde it.
 
 ### Chapter 9
 
@@ -36364,7 +36364,7 @@
 
 **[9:17]** The wordes of the wise are more heard in quietnes, then the crye of him that ruleth among fooles.
 
-**[9:18]** Better is wisedome then weapons of warre: but one sinner destroyeth much good.  
+**[9:18]** Better is wisedome then weapons of warre: but one sinner destroyeth much good.
 
 ### Chapter 10
 
@@ -36406,7 +36406,7 @@
 
 **[10:19]** They prepare bread for laughter, and wine comforteth the liuing, but siluer answereth to all.
 
-**[10:20]** Curse not the King, no not in thy thought, neither curse the rich in thy bed chamber: for the foule of the heauen shall carie the voice, and that which hath wings, shall declare the matter.  
+**[10:20]** Curse not the King, no not in thy thought, neither curse the rich in thy bed chamber: for the foule of the heauen shall carie the voice, and that which hath wings, shall declare the matter.
 
 ### Chapter 11
 
@@ -36428,7 +36428,7 @@
 
 **[11:9]** Reioyce, O yong man, in thy youth, and let thine heart cheere thee in the dayes of thy youth: and walke in the waies of thine heart, and in the sight of thine eyes: but knowe that for all these things, God wil bring thee to iudgement.
 
-**[11:10]** Therefore take away griefe out of thine heart, and cause euil to depart from thy flesh: for childehood and youth are vanitie.  
+**[11:10]** Therefore take away griefe out of thine heart, and cause euil to depart from thy flesh: for childehood and youth are vanitie.
 
 ### Chapter 12
 
@@ -36458,7 +36458,7 @@
 
 **[12:13]** Let vs heare the end of all: feare God and keepe his commandements: for this is the whole duetie of man.
 
-**[12:14]** For God will bring euery worke vnto iudgement, with euery secret thing, whether it be good or euill.   
+**[12:14]** For God will bring euery worke vnto iudgement, with euery secret thing, whether it be good or euill.
 
 ## Song of Solomon
 
@@ -36494,7 +36494,7 @@
 
 **[1:15]** My welbeloued, beholde, thou art faire and pleasant: also our bed is greene:
 
-**[1:16]** The beames of our house are cedars, our rafters are of firre.  
+**[1:16]** The beames of our house are cedars, our rafters are of firre.
 
 **[1:17]** 
 
@@ -36532,7 +36532,7 @@
 
 **[2:16]** My welbeloued is mine, and I am his: hee feedeth among the lilies,
 
-**[2:17]** Vntil the day breake, and the shadowes flee away: returne, my welbeloued, and be like a roe, or a yong hart vpon the mountaines of Bether.  
+**[2:17]** Vntil the day breake, and the shadowes flee away: returne, my welbeloued, and be like a roe, or a yong hart vpon the mountaines of Bether.
 
 ### Chapter 3
 
@@ -36556,7 +36556,7 @@
 
 **[3:10]** Hee made the pillars thereof of siluer, and the pauement thereof of gold, the hangings thereof of purple, whose middes was paued with the loue of the daughters of Ierusalem.
 
-**[3:11]** Come forth, ye daughters of Zion, and behold the King Salomon with the crowne, wherewith his mother crowned him in ye day of his mariage, and in the day of the gladnes of his heart.  
+**[3:11]** Come forth, ye daughters of Zion, and behold the King Salomon with the crowne, wherewith his mother crowned him in ye day of his mariage, and in the day of the gladnes of his heart.
 
 ### Chapter 4
 
@@ -36590,7 +36590,7 @@
 
 **[4:15]** O fountaine of the gardens, O well of liuing waters, and the springs of Lebanon.
 
-**[4:16]** Arise, O North, and come O South, and blowe on my garden that the spices thereof may flow out: let my welbeloued come to his garden, and eate his pleasant fruite.  
+**[4:16]** Arise, O North, and come O South, and blowe on my garden that the spices thereof may flow out: let my welbeloued come to his garden, and eate his pleasant fruite.
 
 ### Chapter 5
 
@@ -36624,7 +36624,7 @@
 
 **[5:15]** His legges are as pillars of marble, set vpon sockets of fine golde: his countenance as Lebanon, excellent as the cedars.
 
-**[5:16]** His mouth is as sweete thinges, and hee is wholy delectable: this is my welbeloued, and this is my louer, O daughters of Ierusalem. O the fairest among women, whither is thy welbeloued gone? whither is thy welbeloued turned aside, that we may seeke him with thee?  
+**[5:16]** His mouth is as sweete thinges, and hee is wholy delectable: this is my welbeloued, and this is my louer, O daughters of Ierusalem. O the fairest among women, whither is thy welbeloued gone? whither is thy welbeloued turned aside, that we may seeke him with thee?
 
 ### Chapter 6
 
@@ -36650,7 +36650,7 @@
 
 **[6:11]** I knewe nothing, my soule set me as the charets of my noble people.
 
-**[6:12]** Returne, returne, O Shulamite, returne: returne that we may behold thee. What shall you see in the Shulamite, but as the company of an armie?  
+**[6:12]** Returne, returne, O Shulamite, returne: returne that we may behold thee. What shall you see in the Shulamite, but as the company of an armie?
 
 **[6:13]** 
 
@@ -36680,7 +36680,7 @@
 
 **[7:12]** Let vs get vp early to the vines, let vs see if the vine florish, whether it hath budded the small grape, or whether the pomegranates florish: there will I giue thee my loue.
 
-**[7:13]** The mandrakes haue giuen a smelll, and in our gates are all sweete things, new and olde: my welbeloued, I haue kept them for thee.  
+**[7:13]** The mandrakes haue giuen a smelll, and in our gates are all sweete things, new and olde: my welbeloued, I haue kept them for thee.
 
 ### Chapter 8
 
@@ -36710,7 +36710,7 @@
 
 **[8:13]** O thou that dwellest in the gardens, the companions hearken vnto thy voyce: cause me to heare it.
 
-**[8:14]** O my welbeloued, flee away, and be like vnto the roe, or to the yong harte vpon ye mountaines of spices.   
+**[8:14]** O my welbeloued, flee away, and be like vnto the roe, or to the yong harte vpon ye mountaines of spices.
 
 ## Isaiah
 
@@ -36776,7 +36776,7 @@
 
 **[1:30]** For ye shalbe as an oke, whose leafe fadeth: and as a garden that hath no water.
 
-**[1:31]** And the strong shall be as towe, and the maker thereof, as a sparke: and they shall both burne together, and none shall quench them.  
+**[1:31]** And the strong shall be as towe, and the maker thereof, as a sparke: and they shall both burne together, and none shall quench them.
 
 ### Chapter 2
 
@@ -36822,7 +36822,7 @@
 
 **[2:21]** To goe into the holes of the rockes, and into the toppes of the ragged rockes from before the feare of the Lord, and from the glory of his maiestie, when he shall rise to destroy the earth.
 
-**[2:22]** Cease you from the man whose breath is in his nostrels: for wherein is he to be esteemed?  
+**[2:22]** Cease you from the man whose breath is in his nostrels: for wherein is he to be esteemed?
 
 ### Chapter 3
 
@@ -36876,7 +36876,7 @@
 
 **[3:25]** Thy men shall fall by the sworde, and thy strength in the battell.
 
-**[3:26]** Then shall her gates mourne and lament, and she, being desolate, shall sit vpon the ground.  
+**[3:26]** Then shall her gates mourne and lament, and she, being desolate, shall sit vpon the ground.
 
 ### Chapter 4
 
@@ -36890,7 +36890,7 @@
 
 **[4:5]** And the Lord shall create vpon euery place of mount Zion, and vpon the assemblies thereof, a cloude and smoke by day, and the shining of a flaming fire by night: for vpon all the glory shall be a defence.
 
-**[4:6]** And a couering shalbe for a shadow in the day for the heate, and a place of refuge and a couert for the storme and for the raine.  
+**[4:6]** And a couering shalbe for a shadow in the day for the heate, and a place of refuge and a couert for the storme and for the raine.
 
 ### Chapter 5
 
@@ -36952,7 +36952,7 @@
 
 **[5:29]** His roaring shalbe like a lyon, and he shall roare like lyons whelpes: they shall roare, and lay holde of the praye: they shall take it away, and none shall deliuer it.
 
-**[5:30]** And in that day they shall roare vpon them, as the roaring of the sea: and if they looke vnto the earth, beholde darkenesse, and sorowe, and the light shalbe darkened in their skie.  
+**[5:30]** And in that day they shall roare vpon them, as the roaring of the sea: and if they looke vnto the earth, beholde darkenesse, and sorowe, and the light shalbe darkened in their skie.
 
 ### Chapter 6
 
@@ -36980,7 +36980,7 @@
 
 **[6:12]** And the Lord haue remoued men farre away, and there be a great desolation in the mids of the land.
 
-**[6:13]** But yet in it shalbe a tenth, and shall returne, and shalbe eaten vp as an elme or an oke, which haue a substance in them, when they cast their leaues: so the holy seede shall be the substance thereof.  
+**[6:13]** But yet in it shalbe a tenth, and shall returne, and shalbe eaten vp as an elme or an oke, which haue a substance in them, when they cast their leaues: so the holy seede shall be the substance thereof.
 
 ### Chapter 7
 
@@ -37032,7 +37032,7 @@
 
 **[7:24]** With arrowes and with bowe shall one come thither: because all the land shall be briers and thornes.
 
-**[7:25]** But on all the mountaines, which shalbe digged with the mattocke, there shall not come thither the feare of briers and thornes: but they shalbe for the sending out of bullocks, and for the treading of sheepe.  
+**[7:25]** But on all the mountaines, which shalbe digged with the mattocke, there shall not come thither the feare of briers and thornes: but they shalbe for the sending out of bullocks, and for the treading of sheepe.
 
 ### Chapter 8
 
@@ -37078,7 +37078,7 @@
 
 **[8:21]** Then he that is afflicted and famished, shall go to and from in it: and when he shalbe hungry, he shall euen freat himselfe, and curse his King and his gods, and shall looke vpward.
 
-**[8:22]** And when he shall looke to the earth, beholde trouble, and darkenes, vexation and anguish, and he is driuen to darkenes.  
+**[8:22]** And when he shall looke to the earth, beholde trouble, and darkenes, vexation and anguish, and he is driuen to darkenes.
 
 ### Chapter 9
 
@@ -37122,7 +37122,7 @@
 
 **[9:20]** And he shall snatch at the right hand, and be hungrie: and he shall eate on the left hand, and shall not be satisfied: euery one shall eate ye flesh of his owne arme.
 
-**[9:21]** Manasseh, Ephraim: and Ephraim Manasseh, and they both shall be against Iudah yet for all this his wrath is not turned away, but his hand is stretched out still.  
+**[9:21]** Manasseh, Ephraim: and Ephraim Manasseh, and they both shall be against Iudah yet for all this his wrath is not turned away, but his hand is stretched out still.
 
 ### Chapter 10
 
@@ -37192,7 +37192,7 @@
 
 **[10:33]** Beholde, the Lord God of hostes shall cut off the bough with feare, and they of high stature shalbe cut off, and the hie shalbe humbled.
 
-**[10:34]** And he shall cut away the thicke places of the forest with yron, and Lebanon shall haue a mightie fall.  
+**[10:34]** And he shall cut away the thicke places of the forest with yron, and Lebanon shall haue a mightie fall.
 
 ### Chapter 11
 
@@ -37226,7 +37226,7 @@
 
 **[11:15]** The Lord also shall vtterly destroy the tongue of the Egyptians sea, and with his mightie winde shall lift vp his hand ouer the riuer, and shall smite him in his seuen streames, and cause men to walke therein with shooes.
 
-**[11:16]** And there shalbe a path to the remnant of his people, which are left of Asshur, like as it was vnto Israel in the day that he came vp out of the land of Egypt.  
+**[11:16]** And there shalbe a path to the remnant of his people, which are left of Asshur, like as it was vnto Israel in the day that he came vp out of the land of Egypt.
 
 ### Chapter 12
 
@@ -37240,7 +37240,7 @@
 
 **[12:5]** Sing vnto the Lord, for he hath done excellent things: this is knowen in all the worlde.
 
-**[12:6]** Cry out, and shoute, O inhabitant of Zion: for great is ye holy one of Israel in the middes of thee.  
+**[12:6]** Cry out, and shoute, O inhabitant of Zion: for great is ye holy one of Israel in the middes of thee.
 
 ### Chapter 13
 
@@ -37286,7 +37286,7 @@
 
 **[13:21]** But Ziim shall lodge there, and their houses shall be ful of Ohim: Ostriches shall dwel there, and the Satyrs shall dance there.
 
-**[13:22]** And Iim shall crie in their palaces, and dragons in their pleasant palaces: and the time thereof is readie to come, and the daies thereof shall not be prolonged.  
+**[13:22]** And Iim shall crie in their palaces, and dragons in their pleasant palaces: and the time thereof is readie to come, and the daies thereof shall not be prolonged.
 
 ### Chapter 14
 
@@ -37352,7 +37352,7 @@
 
 **[14:31]** Howle, O gate, crie, O citie: thou whole lande of Palestina art dissolued, for there shall come from the North a smoke, and none shalbe alone, at his time appointed.
 
-**[14:32]** What shall then one answere the messengers of the Gentiles? That the Lord hath stablished Zion, and the poore of his people shall trust in it.  
+**[14:32]** What shall then one answere the messengers of the Gentiles? That the Lord hath stablished Zion, and the poore of his people shall trust in it.
 
 ### Chapter 15
 
@@ -37372,7 +37372,7 @@
 
 **[15:8]** For the crie went round about the borders of Moab: and the howling thereof vnto Eglaim, and the skriking thereof vnto Beer Elim,
 
-**[15:9]** Because the waters of Dimon shall be full of blood: for I will bring more vpon Dimon, euen lyons vpon him that escapeth of Moab, and to the remnant of the land.  
+**[15:9]** Because the waters of Dimon shall be full of blood: for I will bring more vpon Dimon, euen lyons vpon him that escapeth of Moab, and to the remnant of the land.
 
 ### Chapter 16
 
@@ -37402,7 +37402,7 @@
 
 **[16:13]** This is the word that the Lord hath spoken against Moab since that time.
 
-**[16:14]** And nowe the Lord hath spoken, saying, In three yeres, as the yeeres of a hireling, and the glorie of Moab shall be contemned in all the great multitude, and the remnant shalbe very small and feeble.  
+**[16:14]** And nowe the Lord hath spoken, saying, In three yeres, as the yeeres of a hireling, and the glorie of Moab shall be contemned in all the great multitude, and the remnant shalbe very small and feeble.
 
 ### Chapter 17
 
@@ -37432,7 +37432,7 @@
 
 **[17:13]** The people shall make a sounde like the noise of many waters: but God shall rebuke them, and they shall flee farre off, and shalbe chased as the chaffe of the mountaines before the winde, and as a rolling thing before the whirlewinde.
 
-**[17:14]** And loe, in the euening there is trouble: but afore the morning it is gone. This is the portion of them that spoyle vs, and the lot of them that robbe vs.  
+**[17:14]** And loe, in the euening there is trouble: but afore the morning it is gone. This is the portion of them that spoyle vs, and the lot of them that robbe vs.
 
 ### Chapter 18
 
@@ -37448,7 +37448,7 @@
 
 **[18:6]** They shall be left together vnto the foules of the mountaines, and to the beastes of the earth: for the foule shall sommer vpon it, and euery beast of the earth shall winter vpon it.
 
-**[18:7]** At that time shall a present be brought vnto the Lord of hostes, (a people that is scattered abroade, and spoyled, and of a terrible people from their beginning hitherto, a nation, by litle and litle euen troden vnder foote, whose land the riuers haue spoyled) to the place of the Name of the Lord of hostes, euen the mount Zion.  
+**[18:7]** At that time shall a present be brought vnto the Lord of hostes, (a people that is scattered abroade, and spoyled, and of a terrible people from their beginning hitherto, a nation, by litle and litle euen troden vnder foote, whose land the riuers haue spoyled) to the place of the Name of the Lord of hostes, euen the mount Zion.
 
 ### Chapter 19
 
@@ -37500,7 +37500,7 @@
 
 **[19:24]** In that day shall Israel be the third with Egypt and Asshur, euen a blessing in the middes of the land.
 
-**[19:25]** For the Lord of hostes shall blesse it, saying, Blessed be my people Egypt and Asshur, the worke of mine hands, and Israel mine inheritance.  
+**[19:25]** For the Lord of hostes shall blesse it, saying, Blessed be my people Egypt and Asshur, the worke of mine hands, and Israel mine inheritance.
 
 ### Chapter 20
 
@@ -37514,7 +37514,7 @@
 
 **[20:5]** And they shall feare, and be ashamed of Ethiopia their expectation, and of Egypt their glory.
 
-**[20:6]** Then shall the inhabitant of this yle say in that day, Behold, such is our expectation, whither we fledde for helpe to be deliuered from the King of Asshur, and howe shall we be deliuered?  
+**[20:6]** Then shall the inhabitant of this yle say in that day, Behold, such is our expectation, whither we fledde for helpe to be deliuered from the King of Asshur, and howe shall we be deliuered?
 
 ### Chapter 21
 
@@ -37550,7 +37550,7 @@
 
 **[21:16]** For thus hath the Lord sayd vnto me, Yet a yeere according to the yeeres of an hireling, and all the glorie of Kedar shall faile.
 
-**[21:17]** And the residue of the nomber of ye strong archers of the sonnes of Kedar shall be fewe: for the Lord God of Israel hath spoken it.  
+**[21:17]** And the residue of the nomber of ye strong archers of the sonnes of Kedar shall be fewe: for the Lord God of Israel hath spoken it.
 
 ### Chapter 22
 
@@ -37602,7 +37602,7 @@
 
 **[22:24]** And they shall hang vpon him all the glorie of his fathers house, euen of the nephewes and posteritie all small vessels, from the vessels of the cuppes, euen to all the instruments of musike.
 
-**[22:25]** In that day, sayeth the Lord of hostes, shall the naile, that is fastned in the sure place, depart and shall be broken, and fall: and the burden, that was vpon it, shall bee cut off: for the Lord hath spoken it.  
+**[22:25]** In that day, sayeth the Lord of hostes, shall the naile, that is fastned in the sure place, depart and shall be broken, and fall: and the burden, that was vpon it, shall bee cut off: for the Lord hath spoken it.
 
 ### Chapter 23
 
@@ -37640,7 +37640,7 @@
 
 **[23:17]** And at the ende of seuentie yeres shall the Lord visite Tyrus, and shee shall returne to her wages, and shall commit fornication with all the kingdomes of the earth, that are in the world.
 
-**[23:18]** Yet her occupying and her wages shall bee holy vnto the Lord: it shall not be laied vp nor kept in store, but her marchandise shalbe for them that dwell before the Lord, to eate sufficiently, and to haue durable clothing.  
+**[23:18]** Yet her occupying and her wages shall bee holy vnto the Lord: it shall not be laied vp nor kept in store, but her marchandise shalbe for them that dwell before the Lord, to eate sufficiently, and to haue durable clothing.
 
 ### Chapter 24
 
@@ -37688,7 +37688,7 @@
 
 **[24:22]** And they shall be gathered together, as the prisoners in the pit: and they shall be shut vp in the prison, and after many daies shall they be visited.
 
-**[24:23]** Then the moone shall be abashed, and the sunne ashamed, when the Lord of hostes shall reigne in mount Zion and in Ierusalem: and glory shalbe before his ancient men.  
+**[24:23]** Then the moone shall be abashed, and the sunne ashamed, when the Lord of hostes shall reigne in mount Zion and in Ierusalem: and glory shalbe before his ancient men.
 
 ### Chapter 25
 
@@ -37714,7 +37714,7 @@
 
 **[25:11]** And he shall stretche out his hande in the middes of them (as he that swimmeth, stretcheth them out to swimme) and with the strength of his handes shall he bring downe their pride.
 
-**[25:12]** The defence also of the height of thy walles shall he bring downe and lay lowe, and cast them to the ground, euen vnto the dust.  
+**[25:12]** The defence also of the height of thy walles shall he bring downe and lay lowe, and cast them to the ground, euen vnto the dust.
 
 ### Chapter 26
 
@@ -37758,7 +37758,7 @@
 
 **[26:20]** Come, my people: enter thou into thy chambers, and shut thy doores after thee: hide thy selfe for a very litle while, vntill the indignation passe ouer.
 
-**[26:21]** For lo, the Lord commeth out of his place, to visite the iniquitie of the inhabitants of the earth vpon them: and the earth shall disclose her blood, and shall no more hide her slaine.  
+**[26:21]** For lo, the Lord commeth out of his place, to visite the iniquitie of the inhabitants of the earth vpon them: and the earth shall disclose her blood, and shall no more hide her slaine.
 
 ### Chapter 27
 
@@ -37786,7 +37786,7 @@
 
 **[27:12]** And in that day shall the Lord thresh from the chanell of the Riuer vnto the riuer of Egypt, and ye shalbe gathered, one by one, O children of Israel.
 
-**[27:13]** In that day also shall the great trumpet be blowen, and they shall come, which perished in the land of Asshur: and they that were chased into the lande of Egypt, and they shall worship the Lord in the holy Mount at Ierusalem.  
+**[27:13]** In that day also shall the great trumpet be blowen, and they shall come, which perished in the land of Asshur: and they that were chased into the lande of Egypt, and they shall worship the Lord in the holy Mount at Ierusalem.
 
 ### Chapter 28
 
@@ -37846,7 +37846,7 @@
 
 **[28:28]** Bread corne when it is threshed, hee doeth not alway thresh it, neither doeth the wheele of his cart still make a noyse, neither will he breake it with the teeth thereof.
 
-**[28:29]** This also commeth from the Lord of hostes, which is wonderfull in counsell, and excellent in workes.  
+**[28:29]** This also commeth from the Lord of hostes, which is wonderfull in counsell, and excellent in workes.
 
 ### Chapter 29
 
@@ -37896,7 +37896,7 @@
 
 **[29:23]** But when he seeth his children, the worke of mine hands, in the mids of him, they shall sanctifie my Name, and sanctifie the holy one of Iaakob, and shall feare the God of Israel.
 
-**[29:24]** Then they that erred in spirit, shall haue vnderstanding, and they that murmured, shall learne doctrine.  
+**[29:24]** Then they that erred in spirit, shall haue vnderstanding, and they that murmured, shall learne doctrine.
 
 ### Chapter 30
 
@@ -37964,7 +37964,7 @@
 
 **[30:32]** And in euery place that ye staffe shall passe, it shall cleaue fast, which the Lord shall lay vpon him with tabrets and harpes: and with battels, and lifting vp of hands shall he fight against it.
 
-**[30:33]** For Tophet is prepared of olde: it is euen prepared for the King: hee hath made it deepe and large: the burning thereof is fire and much wood: the breath of the Lord, like a riuer of brimstone, doeth kindle it.  
+**[30:33]** For Tophet is prepared of olde: it is euen prepared for the King: hee hath made it deepe and large: the burning thereof is fire and much wood: the breath of the Lord, like a riuer of brimstone, doeth kindle it.
 
 ### Chapter 31
 
@@ -37984,7 +37984,7 @@
 
 **[31:8]** Then shall Asshur fall by the sworde, not of man, neither shall the sworde of man deuoure him, and hee shall flee from the sworde, and his yong men shall faint.
 
-**[31:9]** And he shall go for feare to his towre, and his princes shall be afraide of the standart, sayeth the Lord, whose fire is in Zion, and his fornace in Ierusalem.  
+**[31:9]** And he shall go for feare to his towre, and his princes shall be afraide of the standart, sayeth the Lord, whose fire is in Zion, and his fornace in Ierusalem.
 
 ### Chapter 32
 
@@ -38026,7 +38026,7 @@
 
 **[32:19]** When it haileth, it shall fall on the forest, and the citie shall be set in the lowe place.
 
-**[32:20]** Blessed are ye that sowe vpon all waters, and driue thither the feete of the oxe and the asse.  
+**[32:20]** Blessed are ye that sowe vpon all waters, and driue thither the feete of the oxe and the asse.
 
 ### Chapter 33
 
@@ -38076,7 +38076,7 @@
 
 **[33:23]** Thy cordes are loosed: they could not well strengthen their maste, neither coulde they spread the saile: then shall the praye be deuided for a great spoile: yea, the lame shall take away the pray.
 
-**[33:24]** And none inhabitant shall say, I am sicke: the people that dwell therein, shall haue their iniquitie forgiuen.  
+**[33:24]** And none inhabitant shall say, I am sicke: the people that dwell therein, shall haue their iniquitie forgiuen.
 
 ### Chapter 34
 
@@ -38112,7 +38112,7 @@
 
 **[34:16]** Seeke in the booke of the Lord, and reade: none of these shall fayle, none shall want her make: for his mouth hath commanded, and his very Spirit hath gathered them.
 
-**[34:17]** And he hath cast the lot for them, and his hand hath deuided it vnto them by line: they shall possesse it for euer: from generation to generation shall they dwell in it.  
+**[34:17]** And he hath cast the lot for them, and his hand hath deuided it vnto them by line: they shall possesse it for euer: from generation to generation shall they dwell in it.
 
 ### Chapter 35
 
@@ -38134,7 +38134,7 @@
 
 **[35:9]** There shall be no lyon, nor noysome beastes shall ascend by it, neither shall they be found there, that the redeemed may walke.
 
-**[35:10]** Therefore the redeemed of the Lord shall returne and come to Zion with prayse: and euerlasting ioy shall bee vpon their heads: they shall obteine ioye and gladnesse, and sorow and mourning shall flee away.  
+**[35:10]** Therefore the redeemed of the Lord shall returne and come to Zion with prayse: and euerlasting ioy shall bee vpon their heads: they shall obteine ioye and gladnesse, and sorow and mourning shall flee away.
 
 ### Chapter 36
 
@@ -38180,7 +38180,7 @@
 
 **[36:21]** Then they kept silence, and answered him not a worde: for the Kings commandement was, saying, Answere him not.
 
-**[36:22]** Then came Eliakim the sonne of Hilkiah the steward of the house, and Shebna the chanceller, and Ioah the sonne of Asaph the recorder, vnto Hezekiah with rent clothes, and tolde him the wordes of Rabshakeh.  
+**[36:22]** Then came Eliakim the sonne of Hilkiah the steward of the house, and Shebna the chanceller, and Ioah the sonne of Asaph the recorder, vnto Hezekiah with rent clothes, and tolde him the wordes of Rabshakeh.
 
 ### Chapter 37
 
@@ -38258,7 +38258,7 @@
 
 **[37:37]** So Saneherib king of Asshur departed, and went away and returned and dwelt at Nineueh.
 
-**[37:38]** And as he was in the temple worshipping of Nisroch his god, Adramelech and Sharezer his sonnes slewe him with the sword, and they escaped into the land of Ararat: and Esarhaddon his sonne reigned in his steade.  
+**[37:38]** And as he was in the temple worshipping of Nisroch his god, Adramelech and Sharezer his sonnes slewe him with the sword, and they escaped into the land of Ararat: and Esarhaddon his sonne reigned in his steade.
 
 ### Chapter 38
 
@@ -38304,7 +38304,7 @@
 
 **[38:21]** Then said Isaiah, Take a lumpe of drye figs and lay it vpon the boyle, and he shall recouer.
 
-**[38:22]** Also Hezekiah had said, What is ye signe, that I shall goe vp into the House of the Lord?  
+**[38:22]** Also Hezekiah had said, What is ye signe, that I shall goe vp into the House of the Lord?
 
 ### Chapter 39
 
@@ -38322,7 +38322,7 @@
 
 **[39:7]** And of thy sonnes, that shall proceede out of thee, and which thou shalt beget, shall they take away, and they shall be eunuches in the palace of the King of Babel.
 
-**[39:8]** Then said Hezekiah to Isaiah, The worde of the Lord is good, which thou hast spoken: and he saide, Yet let there be peace, and trueth in my dayes.  
+**[39:8]** Then said Hezekiah to Isaiah, The worde of the Lord is good, which thou hast spoken: and he saide, Yet let there be peace, and trueth in my dayes.
 
 ### Chapter 40
 
@@ -38386,7 +38386,7 @@
 
 **[40:30]** Euen the yong men shall faint, and be wearie, and the yong men shall stumble and fall.
 
-**[40:31]** But they that waite vpon the Lord, shall renue their strength: they shall lift vp the wings as the eagles: they shall runne, and not be wearie, and they shall walke and not faint.  
+**[40:31]** But they that waite vpon the Lord, shall renue their strength: they shall lift vp the wings as the eagles: they shall runne, and not be wearie, and they shall walke and not faint.
 
 ### Chapter 41
 
@@ -38446,7 +38446,7 @@
 
 **[41:28]** But when I behelde, there was none, and when I inquired of them, there was no counsellor, and when I demaunded of them, they answered not a woorde.
 
-**[41:29]** Beholde, they are all vanitie: their worke is of nothing, their images are wind and confusion.  
+**[41:29]** Beholde, they are all vanitie: their worke is of nothing, their images are wind and confusion.
 
 ### Chapter 42
 
@@ -38498,7 +38498,7 @@
 
 **[42:24]** Who gaue Iaakob for a spoyle, and Israel to the robbers? Did not ye Lord, because we haue sinned against him? for they woulde not walke in his waies, neither be obedient vnto his Lawe.
 
-**[42:25]** Therefore hee hath powred vpon him his fierce wrath, and the strength of battell: and it set him on fire round about, and he knewe not, and it burned him vp, yet he considered not.  
+**[42:25]** Therefore hee hath powred vpon him his fierce wrath, and the strength of battell: and it set him on fire round about, and he knewe not, and it burned him vp, yet he considered not.
 
 ### Chapter 43
 
@@ -38556,7 +38556,7 @@
 
 **[43:27]** Thy first father hath sinned, and thy teachers haue transgressed against me.
 
-**[43:28]** Therefore I haue prophaned the rulers of the Sanctuarie, and haue made Iaakob a curse, and Israel a reproche.  
+**[43:28]** Therefore I haue prophaned the rulers of the Sanctuarie, and haue made Iaakob a curse, and Israel a reproche.
 
 ### Chapter 44
 
@@ -38614,7 +38614,7 @@
 
 **[44:27]** He saith to the deepe, Be drye and I will drye vp thy floods.
 
-**[44:28]** He saith to Cyrus, Thou art my shepheard: and he shall performe all my desire: saying also to Ierusalem, Thou shalt be built: and to the Temple, Thy foundation shall be surely layed.  
+**[44:28]** He saith to Cyrus, Thou art my shepheard: and he shall performe all my desire: saying also to Ierusalem, Thou shalt be built: and to the Temple, Thy foundation shall be surely layed.
 
 ### Chapter 45
 
@@ -38666,7 +38666,7 @@
 
 **[45:24]** Surely he shall say, In the Lord haue I righteousnesse and strength: he shall come vnto him, and all that prouoke him, shall be ashamed.
 
-**[45:25]** The whole seede of Israel shall be iustified, and glorie in the Lord.  
+**[45:25]** The whole seede of Israel shall be iustified, and glorie in the Lord.
 
 ### Chapter 46
 
@@ -38694,7 +38694,7 @@
 
 **[46:12]** Heare me, ye stubburne hearted, that are farre from iustice.
 
-**[46:13]** I bring neere my iustice: it shall not be farre off, and my saluation shall not tarie: for I wil giue saluation in Zion, and my glory vnto Israel.  
+**[46:13]** I bring neere my iustice: it shall not be farre off, and my saluation shall not tarie: for I wil giue saluation in Zion, and my glory vnto Israel.
 
 ### Chapter 47
 
@@ -38726,7 +38726,7 @@
 
 **[47:14]** Beholde, they shall be as stubble: the fire shall burne them: they shall not deliuer their owne liues from the power of the flame: there shalbe no coles to warme at, nor light to sit by.
 
-**[47:15]** Thus shall they serue thee, with whom thou hast wearied thee, euen thy marchants from thy youth: euery one shall wander to his owne quarter: none shall saue thee.  
+**[47:15]** Thus shall they serue thee, with whom thou hast wearied thee, euen thy marchants from thy youth: euery one shall wander to his owne quarter: none shall saue thee.
 
 ### Chapter 48
 
@@ -38772,7 +38772,7 @@
 
 **[48:21]** And they were not thirstie: hee led them through the wildernesse: hee caused the waters to flowe out of the rocke for them: for he claue the rocke, and the water gushed out.
 
-**[48:22]** There is no peace, sayeth the Lord, vnto the wicked.  
+**[48:22]** There is no peace, sayeth the Lord, vnto the wicked.
 
 ### Chapter 49
 
@@ -38826,7 +38826,7 @@
 
 **[49:25]** But thus sayeth the Lord, euen the captiuitie of the mightie shall be taken away: and the pray of the tyrant shall be deliuered: for I wil contend with him that contendeth with thee, and I will saue thy children,
 
-**[49:26]** And will feede them that spoile thee, with their owne flesh, and they shall be drunken with their owne bloode, as with sweete wine: and all flesh shall know that I the Lord am thy sauiour and thy redeemer, the mighty one of Iaakob.  
+**[49:26]** And will feede them that spoile thee, with their owne flesh, and they shall be drunken with their owne bloode, as with sweete wine: and all flesh shall know that I the Lord am thy sauiour and thy redeemer, the mighty one of Iaakob.
 
 ### Chapter 50
 
@@ -38850,7 +38850,7 @@
 
 **[50:10]** Who is among you that feareth the Lord? let him heare the voyce of his seruant: hee that walketh in darkenesse, and hath no light, let him trust in the Name of the Lord, and staye vpon his God.
 
-**[50:11]** Beholde, all you kindle a fire, and are compassed about with sparkes: walke in the light of your fire, and in the sparkes that ye haue kindled. This shall ye haue of mine hand: ye shall lye downe in sorowe.  
+**[50:11]** Beholde, all you kindle a fire, and are compassed about with sparkes: walke in the light of your fire, and in the sparkes that ye haue kindled. This shall ye haue of mine hand: ye shall lye downe in sorowe.
 
 ### Chapter 51
 
@@ -38898,7 +38898,7 @@
 
 **[51:22]** Thus saith thy Lord God, euen God that pleadeth the cause of his people, Beholde, I haue taken out of thine hande the cuppe of trembling, euen the dregges of the cuppe of my wrath: thou shalt drinke it no more.
 
-**[51:23]** But I will put it into their hande that spoile thee: which haue said to thy soule, Bowe downe, that wee may goe ouer, and thou hast layde thy bodie as the grounde, and as the streete to them that went ouer.  
+**[51:23]** But I will put it into their hande that spoile thee: which haue said to thy soule, Bowe downe, that wee may goe ouer, and thou hast layde thy bodie as the grounde, and as the streete to them that went ouer.
 
 ### Chapter 52
 
@@ -38928,7 +38928,7 @@
 
 **[52:13]** Beholde, my seruant shall prosper: he shall be exalted and extolled, and be very hie.
 
-**[52:14]** As many were astonied at thee (his visage was so deformed of men, and his forme of the sonnes of men) so shall hee sprinkle many nations: the Kings shall shut their mouthes at him: for that which had not bene tolde them, shall they see, and that which they had not heard, shall they vnderstande.  
+**[52:14]** As many were astonied at thee (his visage was so deformed of men, and his forme of the sonnes of men) so shall hee sprinkle many nations: the Kings shall shut their mouthes at him: for that which had not bene tolde them, shall they see, and that which they had not heard, shall they vnderstande.
 
 **[52:15]** 
 
@@ -38956,7 +38956,7 @@
 
 **[53:11]** Hee shall see of the trauaile of his soule, and shall be satisfied: by his knowledge shall my righteous seruant iustifie many: for hee shall beare their iniquities.
 
-**[53:12]** Therefore will I giue him a portion with the great, and he shall deuide the spoyle with the strong, because hee hath powred out his soule vnto death: and he was counted with the transgressers, and he bare the sinne of many, and prayed for the trespassers.  
+**[53:12]** Therefore will I giue him a portion with the great, and he shall deuide the spoyle with the strong, because hee hath powred out his soule vnto death: and he was counted with the transgressers, and he bare the sinne of many, and prayed for the trespassers.
 
 ### Chapter 54
 
@@ -38992,7 +38992,7 @@
 
 **[54:16]** Beholde, I haue created the smith that bloweth the coales in the fire, and him that bringeth forth an instrument for his worke, and I haue created the destroyer to destroy.
 
-**[54:17]** But all the weapons that are made against thee, shall not prosper: and euery tongue that shall rise against thee in iudgement, thou shalt condemne. This is the heritage of the Lords seruants, and their righteousnesse is of me, sayth the Lord.  
+**[54:17]** But all the weapons that are made against thee, shall not prosper: and euery tongue that shall rise against thee in iudgement, thou shalt condemne. This is the heritage of the Lords seruants, and their righteousnesse is of me, sayth the Lord.
 
 ### Chapter 55
 
@@ -39020,7 +39020,7 @@
 
 **[55:12]** Therefore ye shall go out with ioy, and be led forth with peace: the mountaines and the hilles shall breake foorth before you into ioye, and all the trees of the fielde shall clap their handes.
 
-**[55:13]** For thornes there shall grow firre trees: for nettles shall growe the myrrhe tree, and it shalbe to the Lord for a name, and for an euerlasting signe that shall not be taken away.  
+**[55:13]** For thornes there shall grow firre trees: for nettles shall growe the myrrhe tree, and it shalbe to the Lord for a name, and for an euerlasting signe that shall not be taken away.
 
 ### Chapter 56
 
@@ -39046,7 +39046,7 @@
 
 **[56:11]** And these griedy dogs can neuer haue ynough: and these shepheards cannot vnderstand: for they all looke to their owne way, euery one for his aduantage, and for his owne purpose.
 
-**[56:12]** Come, I wil bring wine, and we wil fill our selues with strong drinke, and to morowe shalbe as this day, and much more abundant.  
+**[56:12]** Come, I wil bring wine, and we wil fill our selues with strong drinke, and to morowe shalbe as this day, and much more abundant.
 
 ### Chapter 57
 
@@ -39090,7 +39090,7 @@
 
 **[57:20]** But the wicked are like the raging sea, that can not rest, whose waters cast vp myre and dirt.
 
-**[57:21]** There is no peace, sayth my God, to the wicked.  
+**[57:21]** There is no peace, sayth my God, to the wicked.
 
 ### Chapter 58
 
@@ -39120,7 +39120,7 @@
 
 **[58:13]** If thou turne away thy foote from the Sabbath, from doing thy will on mine holy day, and call the Sabbath a delite, to consecrate it, as glorious to the Lord, and shalt honour him, not doing thine owne wayes, nor seeking thine owne will, nor speaking a vaine word,
 
-**[58:14]** Then shalt thou delite in the Lord, and I wil cause thee to mount vpon the hie places of the earth, and feede thee with the heritage of Iaakob thy father: for the mouth of ye Lord hath spoken it.  
+**[58:14]** Then shalt thou delite in the Lord, and I wil cause thee to mount vpon the hie places of the earth, and feede thee with the heritage of Iaakob thy father: for the mouth of ye Lord hath spoken it.
 
 ### Chapter 59
 
@@ -39164,7 +39164,7 @@
 
 **[59:20]** And the Redeemer shall come vnto Zion, and vnto them that turne from iniquitie in Iaakob, saith the Lord.
 
-**[59:21]** And I will make this my couenant with them, saith the Lord. My Spirit that is vpon thee, and my wordes, which I haue put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seede, nor out of the mouth of the seede of thy seede, saith the Lord, from hencefoorth euen for euer.  
+**[59:21]** And I will make this my couenant with them, saith the Lord. My Spirit that is vpon thee, and my wordes, which I haue put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seede, nor out of the mouth of the seede of thy seede, saith the Lord, from hencefoorth euen for euer.
 
 ### Chapter 60
 
@@ -39210,7 +39210,7 @@
 
 **[60:21]** Thy people also shalbe all righteous: they shall possesse the land for euer, the grasse of my planting shalbe the worke of mine handes, that I may be glorified.
 
-**[60:22]** A litle one shall become as a thousande, and a small one as a strong nation: I the Lord wil hasten it in due time.  
+**[60:22]** A litle one shall become as a thousande, and a small one as a strong nation: I the Lord wil hasten it in due time.
 
 ### Chapter 61
 
@@ -39234,7 +39234,7 @@
 
 **[61:10]** I will greatly reioyce in the Lord, and my soule shall be ioyfull in my God: for he hath clothed mee with the garments of saluation, and couered me with the robe of righteousnes: hee hath decked me like a bridegrome, and as a bride tireth herselfe with her iewels.
 
-**[61:11]** For as the earth bringeth foorth her bud, and as the garden causeth to growe that which is sowen in it: so the Lord God will cause righteousnesse to grow and praise before all the heathen.  
+**[61:11]** For as the earth bringeth foorth her bud, and as the garden causeth to growe that which is sowen in it: so the Lord God will cause righteousnesse to grow and praise before all the heathen.
 
 ### Chapter 62
 
@@ -39260,7 +39260,7 @@
 
 **[62:11]** Beholde, the Lord hath proclaimed vnto the endes of the world: tell the daughter Zion, Beholde, thy Sauiour commeth: beholde, his wages is with him, and his worke is before him.
 
-**[62:12]** And they shall call them, The holy people, the redeemed of the Lord, and thou shalt be named, A citie sought out and not forsaken.  
+**[62:12]** And they shall call them, The holy people, the redeemed of the Lord, and thou shalt be named, A citie sought out and not forsaken.
 
 ### Chapter 63
 
@@ -39300,7 +39300,7 @@
 
 **[63:18]** The people of thine holinesse haue possessed it, but a litle while: for our aduersaries haue troden downe thy Sanctuarie.
 
-**[63:19]** We haue bene as they, ouer whome thou neuer barest rule, and vpon whom thy Name was not called.  
+**[63:19]** We haue bene as they, ouer whome thou neuer barest rule, and vpon whom thy Name was not called.
 
 ### Chapter 64
 
@@ -39326,7 +39326,7 @@
 
 **[64:11]** The House of our Sanctuarie and of our glorie, where our fathers praysed thee, is burnt vp with fire and all our pleasant things are wasted.
 
-**[64:12]** Wilt thou holde thy selfe still at these things, O Lord? wilt thou holde thy peace and afflict vs aboue measure?  
+**[64:12]** Wilt thou holde thy selfe still at these things, O Lord? wilt thou holde thy peace and afflict vs aboue measure?
 
 ### Chapter 65
 
@@ -39378,7 +39378,7 @@
 
 **[65:24]** Yea, before they call, I will answere, and whiles they speake, I will heare.
 
-**[65:25]** The wolfe and the lambe shall feede together, and the lyon shall eate strawe like the bullocke: and to the serpent dust shall be his meate. They shall no more hurt nor destroy in all mine holy Mountaine, saith the Lord.  
+**[65:25]** The wolfe and the lambe shall feede together, and the lyon shall eate strawe like the bullocke: and to the serpent dust shall be his meate. They shall no more hurt nor destroy in all mine holy Mountaine, saith the Lord.
 
 ### Chapter 66
 
@@ -39428,7 +39428,7 @@
 
 **[66:23]** And from moneth to moneth, and from Sabbath to Sabbath shall all flesh come to worship before me, saith the Lord.
 
-**[66:24]** And they shall goe forth, and looke vpon the carkases of the men that haue transgressed against me: for their worme shall not dye, neither shall their fire be quenched, and they shalbe an abhorring vnto all flesh.   
+**[66:24]** And they shall goe forth, and looke vpon the carkases of the men that haue transgressed against me: for their worme shall not dye, neither shall their fire be quenched, and they shalbe an abhorring vnto all flesh.
 
 ## Jeremiah
 
@@ -39470,7 +39470,7 @@
 
 **[1:18]** For I, beholde, I this day haue made thee a defenced citie, and an yron pillar and walles of brasse against the whole lande, against the Kings of Iudah, and against the princes thereof, against the Priestes thereof and against the people of the lande.
 
-**[1:19]** For they shall fight against thee, but they shall not preuaile against thee: for I am with thee to deliuer thee, sayth the Lord.  
+**[1:19]** For they shall fight against thee, but they shall not preuaile against thee: for I am with thee to deliuer thee, sayth the Lord.
 
 ### Chapter 2
 
@@ -39546,7 +39546,7 @@
 
 **[2:36]** Why runnest thou about so much to change thy waies? for thou shalt be confounded of Egypt, as thou art confounded of Asshur.
 
-**[2:37]** For thou shalt goe foorth from thence, and thine hands vpon thine head, because the Lord hath reiected thy confidence, and thou shalt not prosper thereby.  
+**[2:37]** For thou shalt goe foorth from thence, and thine hands vpon thine head, because the Lord hath reiected thy confidence, and thou shalt not prosper thereby.
 
 ### Chapter 3
 
@@ -39598,7 +39598,7 @@
 
 **[3:24]** For confusion hath deuoured our fathers labour, from our youth their sheepe and their bullocks, their sonnes and their daughters.
 
-**[3:25]** Wee lie downe in our confusion, and our shame couereth vs: for we haue sinned against the Lord our God, we and our fathers from our youth, euen vnto this day, and haue not obeyed the voyce of the Lord our God.  
+**[3:25]** Wee lie downe in our confusion, and our shame couereth vs: for we haue sinned against the Lord our God, we and our fathers from our youth, euen vnto this day, and haue not obeyed the voyce of the Lord our God.
 
 ### Chapter 4
 
@@ -39662,7 +39662,7 @@
 
 **[4:30]** And when thou shalt be destroyed, what wilt thou doe? Though thou clothest thy selfe with skarlet, though thou deckest thee with ornaments of golde, though thou paintest thy face with colours, yet shalt thou trimme thy selfe in vaine: for thy louers will abhorre thee and seeke thy life.
 
-**[4:31]** For I haue heard a noyse as of a woman trauailing, or as one labouring of her first child, euen the voyce of the daughter Zion that sigheth and stretcheth out her handes: woe is me nowe: for my soule fainteth because of the murtherers.  
+**[4:31]** For I haue heard a noyse as of a woman trauailing, or as one labouring of her first child, euen the voyce of the daughter Zion that sigheth and stretcheth out her handes: woe is me nowe: for my soule fainteth because of the murtherers.
 
 ### Chapter 5
 
@@ -39726,7 +39726,7 @@
 
 **[5:30]** An horrible and filthie thing is committed in the land.
 
-**[5:31]** The Prophets prophesie lies, and ye Priests receiue giftes in their handes, and my people delite therein. What will ye then doe in the ende thereof?  
+**[5:31]** The Prophets prophesie lies, and ye Priests receiue giftes in their handes, and my people delite therein. What will ye then doe in the ende thereof?
 
 ### Chapter 6
 
@@ -39788,7 +39788,7 @@
 
 **[6:29]** The bellowes are burnt: the lead is consumed in the fire: the founder melteth in vaine: for the wicked are not taken away.
 
-**[6:30]** They shall call them reprobate siluer, because the Lord hath reiected them.  
+**[6:30]** They shall call them reprobate siluer, because the Lord hath reiected them.
 
 ### Chapter 7
 
@@ -39858,7 +39858,7 @@
 
 **[7:33]** And ye carkeises of this people shalbe meat for the foules of the heauen and for the beastes of the earth, and none shall fraie them away.
 
-**[7:34]** Then I will cause to cease from the cities of Iudah and from the streetes of Ierusalem the voice of mirth and the voice of gladnesse, the voice of the bridegrom and the voice of the bride: for the lande shalbe desolate.  
+**[7:34]** Then I will cause to cease from the cities of Iudah and from the streetes of Ierusalem the voice of mirth and the voice of gladnesse, the voice of the bridegrom and the voice of the bride: for the lande shalbe desolate.
 
 ### Chapter 8
 
@@ -39904,7 +39904,7 @@
 
 **[8:21]** I am sore vexed for the hurt of ye daughter of my people: I am heauie, and astonishment hath taken me.
 
-**[8:22]** Is there no balme at Gilead? is there no Physition there? Why then is not the health of the daughter of my people recouered.  
+**[8:22]** Is there no balme at Gilead? is there no Physition there? Why then is not the health of the daughter of my people recouered.
 
 ### Chapter 9
 
@@ -39958,7 +39958,7 @@
 
 **[9:25]** Beholde, the dayes come, sayth the Lord, that I wil visite all them, which are circumcised with the vncircumcised:
 
-**[9:26]** Egypt and Iudah, and Edom, and the children of Ammon, and Moab, and all the vtmost corners of them that dwell in the wildernesse: for all these nations are vncircumcised, and al the house of Israel are vncircumcised in the heart.  
+**[9:26]** Egypt and Iudah, and Edom, and the children of Ammon, and Moab, and all the vtmost corners of them that dwell in the wildernesse: for all these nations are vncircumcised, and al the house of Israel are vncircumcised in the heart.
 
 ### Chapter 10
 
@@ -40010,7 +40010,7 @@
 
 **[10:24]** O Lord, correct mee, but with iudgement, not in thine anger, least thou bring mee to nothing.
 
-**[10:25]** Powre out thy wrath vpon the heathen, that knowe thee not, and vpon the families that call not on thy Name: for they haue eaten vp Iaakob and deuoured him and consumed him, and haue made his habitation desolate.  
+**[10:25]** Powre out thy wrath vpon the heathen, that knowe thee not, and vpon the families that call not on thy Name: for they haue eaten vp Iaakob and deuoured him and consumed him, and haue made his habitation desolate.
 
 ### Chapter 11
 
@@ -40058,7 +40058,7 @@
 
 **[11:22]** Thus therefore sayth the Lord of hostes, Beholde, I will visite them: the yong men shall die by the sword: their sonnes and their daughters shall die by famine,
 
-**[11:23]** And none of them shall remaine: for I will bring a plague vpon the men of Anathoth, euen the yeere of their visitation.  
+**[11:23]** And none of them shall remaine: for I will bring a plague vpon the men of Anathoth, euen the yeere of their visitation.
 
 ### Chapter 12
 
@@ -40094,7 +40094,7 @@
 
 **[12:16]** And if they will learne the wayes of my people, to sweare by my Name, (The Lord liueth, as they taught my people to sweare by Baal) then shall they be built in the middes of my people.
 
-**[12:17]** But if they will not obey, then will I vtterly plucke vp, and destroy that nation, sayeth the Lord.  
+**[12:17]** But if they will not obey, then will I vtterly plucke vp, and destroy that nation, sayeth the Lord.
 
 ### Chapter 13
 
@@ -40150,7 +40150,7 @@
 
 **[13:26]** Therefore I haue also discouered thy skirts vpon thy face, that thy shame may appeare.
 
-**[13:27]** I haue seene thine adulteries, and thy neiings, the filthinesse of thy whoredome on the hils in the fieldes, and thine abominations. Wo vnto thee, O Ierusalem: wilt thou not bee made cleane? when shall it once be?  
+**[13:27]** I haue seene thine adulteries, and thy neiings, the filthinesse of thy whoredome on the hils in the fieldes, and thine abominations. Wo vnto thee, O Ierusalem: wilt thou not bee made cleane? when shall it once be?
 
 ### Chapter 14
 
@@ -40196,7 +40196,7 @@
 
 **[14:21]** Doe not abhorre vs: for thy Names sake cast not downe the throne of thy glory: remember and breake not thy couenant with vs.
 
-**[14:22]** Are there any among the vanities of the Gentiles, that can giue raine? or can the heauens giue showres? is it not thou, O Lord our God? therefore we will waite vpon thee: for thou hast made all these things.  
+**[14:22]** Are there any among the vanities of the Gentiles, that can giue raine? or can the heauens giue showres? is it not thou, O Lord our God? therefore we will waite vpon thee: for thou hast made all these things.
 
 ### Chapter 15
 
@@ -40240,7 +40240,7 @@
 
 **[15:20]** And I will make thee vnto this people a strong brasen wall, and they shall fight against thee, but they shall not preuaile against thee: for I am with thee to saue thee and to deliuer thee, saith ye Lord.
 
-**[15:21]** And I will deliuer thee out of the hand of the wicked, and I will redeeme thee out of the hand of the tyrants.  
+**[15:21]** And I will deliuer thee out of the hand of the wicked, and I will redeeme thee out of the hand of the tyrants.
 
 ### Chapter 16
 
@@ -40284,7 +40284,7 @@
 
 **[16:20]** Shall a man make gods vnto himselfe, and they are no gods?
 
-**[16:21]** Beholde, therefore I will this once teach them: I will shewe them mine hande and my power, and they shall know that my Name is the Lord.  
+**[16:21]** Beholde, therefore I will this once teach them: I will shewe them mine hande and my power, and they shall know that my Name is the Lord.
 
 ### Chapter 17
 
@@ -40340,7 +40340,7 @@
 
 **[17:26]** And they shall come from the cities of Iudah, and from about Ierusalem, and from the land of Beniamin, and from the plaine, and from the mountaines, and from the South, which shall bring burnt offrings, and sacrifices, and meate offrings, and incense, and shall bring sacrifice of prayse into the house of the Lord.
 
-**[17:27]** But if ye will not heare me to sanctifie the Sabbath day, and not to beare a burden nor to go through the gates of Ierusalem in the Sabbath day, then will I kindle a fire in the gates thereof, and it shall deuoure the palaces of Ierusalem, and it shall not be quenched.  
+**[17:27]** But if ye will not heare me to sanctifie the Sabbath day, and not to beare a burden nor to go through the gates of Ierusalem in the Sabbath day, then will I kindle a fire in the gates thereof, and it shall deuoure the palaces of Ierusalem, and it shall not be quenched.
 
 ### Chapter 18
 
@@ -40388,7 +40388,7 @@
 
 **[18:22]** Let the crye bee heard from their houses, when thou shalt bring an hoste suddenly vpon them: for they haue digged a pit to take me, and hid snares for my feete.
 
-**[18:23]** Yet Lord thou knowest al their counsel against me tendeth to death: forgiue not their iniquitie, neither put out their sinne from thy sight, but let them be ouerthrowen before thee: deale thus with them in the time of thine anger.  
+**[18:23]** Yet Lord thou knowest al their counsel against me tendeth to death: forgiue not their iniquitie, neither put out their sinne from thy sight, but let them be ouerthrowen before thee: deale thus with them in the time of thine anger.
 
 ### Chapter 19
 
@@ -40420,7 +40420,7 @@
 
 **[19:14]** Then came Ieremiah from Topheth, where the Lord had sent him to prophecie, and he stood in the court of the Lordes house, and sayde to all the people,
 
-**[19:15]** Thus saith the Lord of hostes, the God of Israel, Beholde, I will bring vpon this citie, and vpon all her townes, all the plagues that I haue pronounced against it, because they haue hardened their neckes, and would not heare my wordes.  
+**[19:15]** Thus saith the Lord of hostes, the God of Israel, Beholde, I will bring vpon this citie, and vpon all her townes, all the plagues that I haue pronounced against it, because they haue hardened their neckes, and would not heare my wordes.
 
 ### Chapter 20
 
@@ -40458,7 +40458,7 @@
 
 **[20:17]** Because he hath not slaine me, euen from the wombe, or that my mother might haue bene my graue, or her wobe a perpetual conception.
 
-**[20:18]** How is it, that I came forth of the wombe, to see labour and sorowe, that my dayes shoulde be consumed with shame?  
+**[20:18]** How is it, that I came forth of the wombe, to see labour and sorowe, that my dayes shoulde be consumed with shame?
 
 ### Chapter 21
 
@@ -40488,7 +40488,7 @@
 
 **[21:13]** Beholde, I come against thee, O inhabitant of the valley, and rocke of the plaine, saith the Lord, which say, Who shall come downe against vs? or who shall enter into our habitations?
 
-**[21:14]** But I will visite you according to the fruite of your workes, saith the Lord, and I will kindle a fire in the forest thereof, and it shall deuoure rounde about it.  
+**[21:14]** But I will visite you according to the fruite of your workes, saith the Lord, and I will kindle a fire in the forest thereof, and it shall deuoure rounde about it.
 
 ### Chapter 22
 
@@ -40550,7 +40550,7 @@
 
 **[22:29]** O earth, earth, earth, heare the worde of the Lord.
 
-**[22:30]** Thus saith the Lord, Write this man destitute of children, a man that shall not prosper in his dayes: for there shall be no man of his seede that shall prosper and sit vpon the throne of Dauid, or beare rule any more in Iudah.  
+**[22:30]** Thus saith the Lord, Write this man destitute of children, a man that shall not prosper in his dayes: for there shall be no man of his seede that shall prosper and sit vpon the throne of Dauid, or beare rule any more in Iudah.
 
 ### Chapter 23
 
@@ -40632,7 +40632,7 @@
 
 **[23:39]** Therefore beholde, I, euen I will vtterly forget you, and I will forsake you, and the citie that I gaue you and your fathers, and cast you out of my presence,
 
-**[23:40]** And will bring an euerlasting reproche vpon you, and a perpetual shame which shall neuer be forgotten.  
+**[23:40]** And will bring an euerlasting reproche vpon you, and a perpetual shame which shall neuer be forgotten.
 
 ### Chapter 24
 
@@ -40654,7 +40654,7 @@
 
 **[24:9]** I will euen giue them for a terrible plague to all the kingdomes of the earth, and for a reproche, and for a prouerbe, for a common talke, and for a curse, in all places where I shall cast them.
 
-**[24:10]** And I will sende the sworde, the famine, and the pestilence among them, till they bee consumed out of the land, that I gaue vnto them and to their fathers.  
+**[24:10]** And I will sende the sworde, the famine, and the pestilence among them, till they bee consumed out of the land, that I gaue vnto them and to their fathers.
 
 ### Chapter 25
 
@@ -40732,7 +40732,7 @@
 
 **[25:37]** And the best pastures are destroyed because of the wrath and indignation of the Lord.
 
-**[25:38]** He hath forsaken his couert, as the lyon: for their land is waste, because of the wrath of the oppressor, and because of ye wrath of his indignatio.  
+**[25:38]** He hath forsaken his couert, as the lyon: for their land is waste, because of the wrath of the oppressor, and because of ye wrath of his indignatio.
 
 ### Chapter 26
 
@@ -40782,7 +40782,7 @@
 
 **[26:23]** And they fet Vriiah out of Egypt, and brought him vnto Iehoiakim the King, who slew him with the sword, and cast his dead bodie into the graues of the children of the people.
 
-**[26:24]** But the hande of Ahikam the sonne of Shaphan was with Ieremiah that they shoulde not giue him into the hande of the people to put him to death.  
+**[26:24]** But the hande of Ahikam the sonne of Shaphan was with Ieremiah that they shoulde not giue him into the hande of the people to put him to death.
 
 ### Chapter 27
 
@@ -40828,7 +40828,7 @@
 
 **[27:21]** For thus saith the Lord of hostes the God of Israel, concerning the vessels that remaine in the House of the Lord, and in the house of the King of Iudah, and at Ierusalem,
 
-**[27:22]** They shall be brought to Babel, and there they shalbe vntil the day that I visite them, saith the Lord: then will I bring them vp, and restore them vnto this place.  
+**[27:22]** They shall be brought to Babel, and there they shalbe vntil the day that I visite them, saith the Lord: then will I bring them vp, and restore them vnto this place.
 
 ### Chapter 28
 
@@ -40864,7 +40864,7 @@
 
 **[28:16]** Therefore thus saith the Lord, Beholde, I will cast thee from of the earth: this yeere thou shalt die, because thou hast spoken rebelliously against the Lord.
 
-**[28:17]** So Hananiah the Prophet died the same yeere in the seuenth moneth.  
+**[28:17]** So Hananiah the Prophet died the same yeere in the seuenth moneth.
 
 ### Chapter 29
 
@@ -40930,7 +40930,7 @@
 
 **[29:31]** Send to all them of the captiuitie, saying, Thus saith the Lord of Shemaiah the Nehelamite, Because that Shemaiah hath prophecied vnto you, and I sent him not, and hee caused you to trust in a lye,
 
-**[29:32]** Therefore thus saieth the Lord, Behold, I wil visite Shemaiah the Nehelamite, and his seede: hee shall not haue a man to dwell among this people, neither shall he beholde the good, that I will doe for my people, sayth the Lord, because he hath spoken rebelliously against the Lord.  
+**[29:32]** Therefore thus saieth the Lord, Behold, I wil visite Shemaiah the Nehelamite, and his seede: hee shall not haue a man to dwell among this people, neither shall he beholde the good, that I will doe for my people, sayth the Lord, because he hath spoken rebelliously against the Lord.
 
 ### Chapter 30
 
@@ -40980,7 +40980,7 @@
 
 **[30:23]** Beholde, the tempest of the Lord goeth foorth with wrath: the whirlewinde that hangeth ouer, shall light vpon the head of the wicked.
 
-**[30:24]** The fierce wrath of the Lord shall not returne, vntill he haue done, and vntill he haue performed the intents of his heart: in the latter dayes ye shall vnderstand it.  
+**[30:24]** The fierce wrath of the Lord shall not returne, vntill he haue done, and vntill he haue performed the intents of his heart: in the latter dayes ye shall vnderstand it.
 
 ### Chapter 31
 
@@ -41062,7 +41062,7 @@
 
 **[31:39]** And the line of the measure shall go foorth in his presence vpon the hil Gareb, and shall compasse about to Goath.
 
-**[31:40]** And the whole valley of the dead bodies, and of the ashes, and all the fields vnto the brooke of Kidron, and vnto the corner of the horsegate toward the East, shalbe holy vnto the Lord, neither shall it be plucked vp nor destroyed any more for euer.  
+**[31:40]** And the whole valley of the dead bodies, and of the ashes, and all the fields vnto the brooke of Kidron, and vnto the corner of the horsegate toward the East, shalbe holy vnto the Lord, neither shall it be plucked vp nor destroyed any more for euer.
 
 ### Chapter 32
 
@@ -41152,7 +41152,7 @@
 
 **[32:43]** And the fields shalbe possessed in this land, whereof ye say, It is desolate without man or beast, and shalbe giuen into the hand of the Caldeans.
 
-**[32:44]** Men shall buy fields for siluer, and make writings and seale them, and take witnesses in the land of Beniamin, and round about Ierusalem, and in the cities of Iudah, and in the cities of the mountaines, and in the cities of the plaine, and in the cities of the South: for I wil cause their captiuitie to returne, saith the Lord.  
+**[32:44]** Men shall buy fields for siluer, and make writings and seale them, and take witnesses in the land of Beniamin, and round about Ierusalem, and in the cities of Iudah, and in the cities of the mountaines, and in the cities of the plaine, and in the cities of the South: for I wil cause their captiuitie to returne, saith the Lord.
 
 ### Chapter 33
 
@@ -41206,7 +41206,7 @@
 
 **[33:25]** Thus sayth the Lord, If my couenant be not with day and night, and if I haue not appointed the order of heauen and earth,
 
-**[33:26]** Then will I cast away the seede of Iaakob and Dauid my seruant, and not take of his seede to be rulers ouer the seede of Abraham, Izhak, and Iaakob: for I wil cause their captiuitie to returne, and haue compassion on them.  
+**[33:26]** Then will I cast away the seede of Iaakob and Dauid my seruant, and not take of his seede to be rulers ouer the seede of Abraham, Izhak, and Iaakob: for I wil cause their captiuitie to returne, and haue compassion on them.
 
 ### Chapter 34
 
@@ -41252,7 +41252,7 @@
 
 **[34:21]** And Zedekiah King of Iudah, and his princes will I giue into the hand of their enemies, and into the hande of them that seeke their life, and into the hande of the King of Babels hoste, which are gone vp from you.
 
-**[34:22]** Beholde, I will commande, saith the Lord, and cause them to returne to this citie, and they shall fight against it, and take it, and burne it with fire: and I will make the cities of Iudah desolate without an inhabitant.  
+**[34:22]** Beholde, I will commande, saith the Lord, and cause them to returne to this citie, and they shall fight against it, and take it, and burne it with fire: and I will make the cities of Iudah desolate without an inhabitant.
 
 ### Chapter 35
 
@@ -41292,7 +41292,7 @@
 
 **[35:18]** And Ieremiah said to the house of the Rechabites, Thus saith the Lord of hostes the God of Israel, Because ye haue obeyed the commandement of Ionadab your father, and kept all his precepts, and done according vnto all that hee hath commanded you,
 
-**[35:19]** Therefore thus saith the Lord of hostes, the God of Israel, Ionadab the sonne of Rechab shall not want a man, to stand before me for euer.  
+**[35:19]** Therefore thus saith the Lord of hostes, the God of Israel, Ionadab the sonne of Rechab shall not want a man, to stand before me for euer.
 
 ### Chapter 36
 
@@ -41358,7 +41358,7 @@
 
 **[36:31]** And I will visite him and his seede, and his seruants for their iniquitie, and I will bring vpon them, and vpon the inhabitants of Ierusalem, and vpon the men of Iudah all the euil that I haue pronounced against them: but they would not heare.
 
-**[36:32]** Then tooke Ieremiah another roule, and gaue it Baruch the scribe the sonne of Neriah, which wrote therein at the mouth of Ieremiah all the wordes of the booke which Iehoiakim King of Iudah had burnt in the fire, and there were added besides them many like wordes.  
+**[36:32]** Then tooke Ieremiah another roule, and gaue it Baruch the scribe the sonne of Neriah, which wrote therein at the mouth of Ieremiah all the wordes of the booke which Iehoiakim King of Iudah had burnt in the fire, and there were added besides them many like wordes.
 
 ### Chapter 37
 
@@ -41402,7 +41402,7 @@
 
 **[37:20]** Therefore heare nowe, I pray thee, O my lorde the King: let my prayer be accepted before thee, that thou cause mee not to returne to the house of Iehonathan the scribe, least I die there.
 
-**[37:21]** Then Zedekiah the King commanded, that they should put Ieremiah in the court of the prison, and that they should giue him dayly a piece of bread out of the bakers streete vntill all the bread in the citie were eaten vp. Thus Ieremiah remained in the court of the prison.  
+**[37:21]** Then Zedekiah the King commanded, that they should put Ieremiah in the court of the prison, and that they should giue him dayly a piece of bread out of the bakers streete vntill all the bread in the citie were eaten vp. Thus Ieremiah remained in the court of the prison.
 
 ### Chapter 38
 
@@ -41460,7 +41460,7 @@
 
 **[38:27]** Then came all the princes vnto Ieremiah and asked him. And he tolde them according to all these wordes that the King had commanded: so they left off speaking with him, for the matter was not perceiued.
 
-**[38:28]** So Ieremiah abode still in the court of the prison, vntill the day that Ierusalem was taken: and he was there, when Ierusalem was taken.  
+**[38:28]** So Ieremiah abode still in the court of the prison, vntill the day that Ierusalem was taken: and he was there, when Ierusalem was taken.
 
 ### Chapter 39
 
@@ -41498,7 +41498,7 @@
 
 **[39:17]** But I wil deliuer thee in that day, saith the Lord, and thou shalt not be giuen into the hand of the men whome thou fearest.
 
-**[39:18]** For I will surely deliuer thee, and thou shalt not fall by the sworde, but thy life shall be for a praye vnto thee, because thou hast put thy trust in me, sayth the Lord.  
+**[39:18]** For I will surely deliuer thee, and thou shalt not fall by the sworde, but thy life shall be for a praye vnto thee, because thou hast put thy trust in me, sayth the Lord.
 
 ### Chapter 40
 
@@ -41532,7 +41532,7 @@
 
 **[40:15]** Then Iohanan the sonne of Kareah spake to Gedaliah in Mizpah secretly, saying, Let me goe, I pray thee, and I will slay Ishmael the sonne of Nethaniah, and no man shall know it. Wherefore should he kill thee, that all the Iewes, which are gathered vnto thee, shoulde be scattered, and the remnant in Iudah perish?
 
-**[40:16]** But Gedaliah the sonne of Ahikam said vnto Iohanan the sonne of Kareah, Thou shalt not doe this thing: for thou speakest falsely of Ishmael.  
+**[40:16]** But Gedaliah the sonne of Ahikam said vnto Iohanan the sonne of Kareah, Thou shalt not doe this thing: for thou speakest falsely of Ishmael.
 
 ### Chapter 41
 
@@ -41570,7 +41570,7 @@
 
 **[41:17]** And they departed and dwelt in Geruth Chimham, which is by Beth-lehem, to goe and to enter into Egypt,
 
-**[41:18]** Because of the Caldeans: for they feared them, because Ishmael ye sonne of Nethaniah had slaine Gedaliah the sonne of Ahikam, whom the King of Babel made gouernour in the land.  
+**[41:18]** Because of the Caldeans: for they feared them, because Ishmael ye sonne of Nethaniah had slaine Gedaliah the sonne of Ahikam, whom the King of Babel made gouernour in the land.
 
 ### Chapter 42
 
@@ -41616,7 +41616,7 @@
 
 **[42:21]** Therefore I haue this day declared it you, but you haue not obeyed the voyce of the Lord your God, nor any thing for the which he hath sent me vnto you.
 
-**[42:22]** Nowe therefore, knowe certeinely that ye shall die by the sworde, by the famine, and by the pestilence, in the place whither ye desire to goe and dwell.  
+**[42:22]** Nowe therefore, knowe certeinely that ye shall die by the sworde, by the famine, and by the pestilence, in the place whither ye desire to goe and dwell.
 
 ### Chapter 43
 
@@ -41644,7 +41644,7 @@
 
 **[43:12]** And I wil kindle a fire in the houses of the gods of Egypt, and he shall burne them and carie them away captiues, and he shall aray himself with the land of Egypt, as a shepheard putteth on his garment, and shall depart from thence in peace.
 
-**[43:13]** He shall breake also ye images of Beth-shemesh, that is in the lande of Egypt, and the houses of the gods of the Egyptians shall he burne with fire.  
+**[43:13]** He shall breake also ye images of Beth-shemesh, that is in the lande of Egypt, and the houses of the gods of the Egyptians shall he burne with fire.
 
 ### Chapter 44
 
@@ -41706,7 +41706,7 @@
 
 **[44:29]** And this shall be a signe vnto you, saith the Lord, whe I visit you in this place, that ye may know that my words shall surely stand against you for euill.
 
-**[44:30]** Thus sayth the Lord, Beholde, I will giue Pharaoh Hophra King of Egypt into the hand of his enemies, and into the hand of them that seeke his life: as I gaue Zedekiah King of Iudah into the hand of Nebuchad-nezzar King of Babel his enemie, who also sought his life.  
+**[44:30]** Thus sayth the Lord, Beholde, I will giue Pharaoh Hophra King of Egypt into the hand of his enemies, and into the hand of them that seeke his life: as I gaue Zedekiah King of Iudah into the hand of Nebuchad-nezzar King of Babel his enemie, who also sought his life.
 
 ### Chapter 45
 
@@ -41718,7 +41718,7 @@
 
 **[45:4]** Thus shalt thou say vnto him, The Lord sayeth thus, Behold, that which I haue built, will I destroy, and that which I haue planted, will I plucke vp, euen this whole lande.
 
-**[45:5]** And seekest thou great things for thy self? seeke them not: for beholde, I wil bring a plague vpon al flesh, saith the Lord: but thy life wil I giue thee for a pray in all places, whither thou goest.  
+**[45:5]** And seekest thou great things for thy self? seeke them not: for beholde, I wil bring a plague vpon al flesh, saith the Lord: but thy life wil I giue thee for a pray in all places, whither thou goest.
 
 ### Chapter 46
 
@@ -41776,7 +41776,7 @@
 
 **[46:27]** But feare not thou, O my seruant Iaakob, and be not thou afraid, O Israel: for behold, I will deliuer thee from a farre countrey, and thy seede from the land of their captiuitie, and Iaakob shall returne and be in rest, and prosperitie, and none shall make him afraid.
 
-**[46:28]** Feare thou not, O Iaakob my seruant, saith the Lord: for I am with thee, and I will vtterly destroy all the nations, whither I haue driuen thee: but I will not vtterly destroy thee, but correct thee by iudgement, and not vtterly cut thee off.  
+**[46:28]** Feare thou not, O Iaakob my seruant, saith the Lord: for I am with thee, and I will vtterly destroy all the nations, whither I haue driuen thee: but I will not vtterly destroy thee, but correct thee by iudgement, and not vtterly cut thee off.
 
 ### Chapter 47
 
@@ -41792,7 +41792,7 @@
 
 **[47:6]** O thou sword of the Lord, how long will it be or thou cease! turne againe into thy scaberd, rest and be still.
 
-**[47:7]** Howe can it cease, seeing the Lord hath giuen it a charge against Ashkelon, and against the sea banke? euen there hath he appointed it.  
+**[47:7]** Howe can it cease, seeing the Lord hath giuen it a charge against Ashkelon, and against the sea banke? euen there hath he appointed it.
 
 ### Chapter 48
 
@@ -41888,7 +41888,7 @@
 
 **[48:46]** Wo be vnto thee, O Moab: the people of Chemosh perisheth: for thy sonnes are taken captiues, and thy daughters led into captiuitie.
 
-**[48:47]** Yet will I bring againe the captiuitie of Moab in the latter dayes, sayeth the Lord. Thus farre of the iudgement of Moab.  
+**[48:47]** Yet will I bring againe the captiuitie of Moab in the latter dayes, sayeth the Lord. Thus farre of the iudgement of Moab.
 
 ### Chapter 49
 
@@ -41906,7 +41906,7 @@
 
 **[49:7]** To Edom thus sayeth the Lord of hostes: Is wisdome no more in Teman? is counsel perished from their children? is their wisdome vanished?
 
-**[49:8]** Flee, ye inhabitants of Dedan ( they are turned backe, and haue consulted to dwell) for I haue brought the destruction of Esau vpon him, and the time of his visitation.
+**[49:8]** Flee, ye inhabitants of Dedan (they are turned backe, and haue consulted to dwell) for I haue brought the destruction of Esau vpon him, and the time of his visitation.
 
 **[49:9]** If the grape gatherers come to thee, would they not leaue some grapes? if theeues come by night, they will destroy till they haue ynough.
 
@@ -41950,7 +41950,7 @@
 
 **[49:29]** Their tents and their flocks shall they take away: yea, they shall take to themselues their curtaines and all their vessels, and their camels, and they shall crie vnto them, Feare is on euery side.
 
-**[49:30]** Flee, get you farre off ( they haue consulted to dwell) O ye inhabitants of Hazor, saith the Lord: for Nebuchad-nezzar King of Babel hath taken counsell against you, and hath deuised a purpose against you.
+**[49:30]** Flee, get you farre off (they haue consulted to dwell) O ye inhabitants of Hazor, saith the Lord: for Nebuchad-nezzar King of Babel hath taken counsell against you, and hath deuised a purpose against you.
 
 **[49:31]** Arise, and get you vp vnto the welthy nation that dwelleth without care, saith the Lord, which haue neither gates nor barres, but dwel alone.
 
@@ -41966,7 +41966,7 @@
 
 **[49:37]** For I will cause Elam to be afraied before their enemies, and before them that seeke their liues, and will bring vpon them a plague, euen the indignation of my wrath, saieth the Lord, and I wil sende the sworde after them till I haue consumed them.
 
-**[49:38]** And I wil set my throne in Elam, and I wil destroy both the King and the princes from thence, saith the Lord: but in the latter daies I wil bring againe the captiuitie of Elam, sayeth the Lord.  
+**[49:38]** And I wil set my throne in Elam, and I wil destroy both the King and the princes from thence, saith the Lord: but in the latter daies I wil bring againe the captiuitie of Elam, sayeth the Lord.
 
 **[49:39]** 
 
@@ -42062,7 +42062,7 @@
 
 **[50:45]** Therefore heare the counsell of the Lord that hee hath deuised against Babel, and his purpose that hee hath conceiued against the lande of the Caldeans: surely the least of the flocke shall drawe them out: surely he shall make their habitation desolate with them.
 
-**[50:46]** At the noyse of the winning of Babel the earth is moued, and the crye is heard among the nations.  
+**[50:46]** At the noyse of the winning of Babel the earth is moued, and the crye is heard among the nations.
 
 ### Chapter 51
 
@@ -42192,7 +42192,7 @@
 
 **[51:63]** And when thou hast made an ende of reading this booke, thou shalt binde a stone to it, and cast it in the middes of Euphrates,
 
-**[51:64]** And shalt say, Thus shall Babel be drowned, and shall not rise from the euil, that I will bring vpon her: and they shall be weary. Thus farre are the wordes of Ieremiah.  
+**[51:64]** And shalt say, Thus shall Babel be drowned, and shall not rise from the euil, that I will bring vpon her: and they shall be weary. Thus farre are the wordes of Ieremiah.
 
 ### Chapter 52
 
@@ -42262,7 +42262,7 @@
 
 **[52:33]** And changed his pryson garmentes, and he did continually eate bread before him all the dayes of his life.
 
-**[52:34]** His porcion was a continuall portion giuen him of ye king of Babel, euery day a certaine, all the dayes of his life vntill he died.   
+**[52:34]** His porcion was a continuall portion giuen him of ye king of Babel, euery day a certaine, all the dayes of his life vntill he died.
 
 ## Lamentations
 
@@ -42310,7 +42310,7 @@
 
 **[1:21]** They haue heard that I mourne, but there is none to comfort mee: all mine enemies haue heard of my trouble, and are glad, that thou hast done it: thou wilt bring the day, that thou hast pronounced, and they shalbe like vnto me.
 
-**[1:22]** Let all their wickednes come before thee: do vnto them, as thou hast done vnto me, for all my transgressions: for my sighes are many, and mine heart is heauy.  
+**[1:22]** Let all their wickednes come before thee: do vnto them, as thou hast done vnto me, for all my transgressions: for my sighes are many, and mine heart is heauy.
 
 ### Chapter 2
 
@@ -42356,7 +42356,7 @@
 
 **[2:21]** The yong and the olde lie on the ground in the streetes: my virgins and my yong men are fallen by the sworde: thou hast slaine them in the day of thy wrath: thou hast killed and not spared.
 
-**[2:22]** Thou hast called as in a solemne daye my terrours rounde about, so that in the day of the Lordes wrath none escaped nor remained: those that I haue nourished and brought vp, hath mine enemie consumed.  
+**[2:22]** Thou hast called as in a solemne daye my terrours rounde about, so that in the day of the Lordes wrath none escaped nor remained: those that I haue nourished and brought vp, hath mine enemie consumed.
 
 ### Chapter 3
 
@@ -42490,7 +42490,7 @@
 
 **[3:65]** Giue them sorow of heart, euen thy curse to them.
 
-**[3:66]** Persecute with wrath and destroy them from vnder the heauen, O Lord.  
+**[3:66]** Persecute with wrath and destroy them from vnder the heauen, O Lord.
 
 ### Chapter 4
 
@@ -42536,7 +42536,7 @@
 
 **[4:21]** Reioyce and be glad, O daughter Edom, that dwellest in the lande of Vz, the cuppe also shall passe through vnto thee: thou shalt be drunken and vomit.
 
-**[4:22]** Thy punishment is accomplished, O daughter Zion: he will no more carie thee away into captiuitie, but he will visite thine iniquitie, O daughter Edom, he wil discouer thy sinnes.  
+**[4:22]** Thy punishment is accomplished, O daughter Zion: he will no more carie thee away into captiuitie, but he will visite thine iniquitie, O daughter Edom, he wil discouer thy sinnes.
 
 ### Chapter 5
 
@@ -42582,7 +42582,7 @@
 
 **[5:21]** Turne thou vs vnto thee, O Lord, and we shalbe turned: renue our dayes as of olde.
 
-**[5:22]** But thou hast vtterly reiected vs: thou art exceedingly angry against vs.   
+**[5:22]** But thou hast vtterly reiected vs: thou art exceedingly angry against vs.
 
 ## Ezekiel
 
@@ -42642,7 +42642,7 @@
 
 **[1:27]** And I sawe as the appearance of amber, and as the similitude of fire round about within it to looke to, euen from his loynes vpwarde: and to looke to, euen from his loynes downewarde, I sawe as a likenesse of fire, and brightnesse round about it.
 
-**[1:28]** As the likenesse of the bowe, that is in the cloude in the day of raine, so was the appearance of the light round about. This was the appearance of the similitude of the glorie of the Lord: and when I sawe it, I fell vpon my face, and I heard a voyce of one that spake.  
+**[1:28]** As the likenesse of the bowe, that is in the cloude in the day of raine, so was the appearance of the light round about. This was the appearance of the similitude of the glorie of the Lord: and when I sawe it, I fell vpon my face, and I heard a voyce of one that spake.
 
 ### Chapter 2
 
@@ -42664,7 +42664,7 @@
 
 **[2:9]** And when I looked vp, beholde, an hande was sent vnto me, and loe, a roule of a booke was therein.
 
-**[2:10]** And he spred it before me, and it was written within and without, and there was written therein, Lamentations, and mourning, and woe.  
+**[2:10]** And he spred it before me, and it was written within and without, and there was written therein, Lamentations, and mourning, and woe.
 
 ### Chapter 3
 
@@ -42720,7 +42720,7 @@
 
 **[3:26]** And I will make thy tongue cleaue to the roofe of thy mouth, that thou shalt be dume, and shalt not be to them as a man that rebuketh: for they are a rebellious house.
 
-**[3:27]** But when I shall haue spoken vnto thee, I will open thy mouth, and thou shalt say vnto them, Thus saith the Lord God, He that heareth, let him heare, and he that leaueth off, let him leaue: for they are a rebellious house.  
+**[3:27]** But when I shall haue spoken vnto thee, I will open thy mouth, and thou shalt say vnto them, Thus saith the Lord God, He that heareth, let him heare, and he that leaueth off, let him leaue: for they are a rebellious house.
 
 ### Chapter 4
 
@@ -42756,7 +42756,7 @@
 
 **[4:16]** Moreouer, he said vnto me, Sonne of man, beholde, I will breake the staffe of bread in Ierusalem, and they shall eate bread by weight, and with care, and they shall drinke water by measure, and with astonishment.
 
-**[4:17]** Because that bread and water shall faile, they shalbe astonied one with another, and shall consume away for their iniquitie.  
+**[4:17]** Because that bread and water shall faile, they shalbe astonied one with another, and shall consume away for their iniquitie.
 
 ### Chapter 5
 
@@ -42792,7 +42792,7 @@
 
 **[5:16]** When I shall sende vpon them the euill arrowes of famine, which shalbe for their destruction, and which I will sende to destroy you: and I will encrease the famine vpon you, and wil breake your staffe of bread.
 
-**[5:17]** So will I send vpon you famine, and euill beastes, and they shall spoyle thee, and pestilence and blood shall passe through thee, and I will bring the sworde vpon thee: I the Lord haue spoken it.  
+**[5:17]** So will I send vpon you famine, and euill beastes, and they shall spoyle thee, and pestilence and blood shall passe through thee, and I will bring the sworde vpon thee: I the Lord haue spoken it.
 
 ### Chapter 6
 
@@ -42822,7 +42822,7 @@
 
 **[6:13]** Then ye shall knowe, that I am ye Lord, when their slaine men shalbe among their idoles round about their altars, vpon euerie hie hill in al the toppes of the mountaines, and vnder euery greene tree, and vnder euerie thicke oke, which is the place where they did offer sweete sauour to all their idoles.
 
-**[6:14]** So will I stretch mine hand vpon them, and make the lande waste, and desolate from the wildernes vnto Diblath in all their habitations, and they shall know, that I am the Lord.  
+**[6:14]** So will I stretch mine hand vpon them, and make the lande waste, and desolate from the wildernes vnto Diblath in all their habitations, and they shall know, that I am the Lord.
 
 ### Chapter 7
 
@@ -42878,7 +42878,7 @@
 
 **[7:26]** Calamitie shall come vpon calamitie, and rumour shall bee vpon rumour: then shall they seeke a vision of the Prophet: but the Lawe shall perish from the Priest, and counsel from the Ancient.
 
-**[7:27]** The King shall mourne, and the prince shall be clothed with desolation, and the handes of the people in the land shall be troubled: I wil doe vnto them according to their waies, and according to their iudgements will I iudge them, and they shall knowe that I am the Lord.  
+**[7:27]** The King shall mourne, and the prince shall be clothed with desolation, and the handes of the people in the land shall be troubled: I wil doe vnto them according to their waies, and according to their iudgements will I iudge them, and they shall knowe that I am the Lord.
 
 ### Chapter 8
 
@@ -42916,7 +42916,7 @@
 
 **[8:17]** The he said vnto me, Hast thou seene this, O sonne of man? Is it a small thing to the house of Iudah to commit these abominations which they do here? for they haue filled the land with crueltie, and haue returned to prouoke mee: and loe, they haue cast out stinke before their noses.
 
-**[8:18]** Therefore will I also execute my wrath: mine eye shall not spare them, neither will I haue pitie, and though they crie in mine eares with a loude voyce, yet will I not heare them.  
+**[8:18]** Therefore will I also execute my wrath: mine eye shall not spare them, neither will I haue pitie, and though they crie in mine eares with a loude voyce, yet will I not heare them.
 
 ### Chapter 9
 
@@ -42940,7 +42940,7 @@
 
 **[9:10]** As touching me also, mine eye shall not spare them, neither will I haue pitie, but will recompence their wayes vpon their heades.
 
-**[9:11]** And beholde, the man clothed with linen which had the ynkhorne by his side, made report, and saide, Lord, I haue done as thou hast commanded me.  
+**[9:11]** And beholde, the man clothed with linen which had the ynkhorne by his side, made report, and saide, Lord, I haue done as thou hast commanded me.
 
 ### Chapter 10
 
@@ -42986,7 +42986,7 @@
 
 **[10:21]** Euery one had foure faces, and euery one foure wings, and the likenesse of mans hands was vnder their wings.
 
-**[10:22]** And the likenesse of their faces was the selfe same faces, which I sawe by the riuer Chebar, and the appearance of the Cherubims was ye selfe same, and they went euery one straight forwarde.  
+**[10:22]** And the likenesse of their faces was the selfe same faces, which I sawe by the riuer Chebar, and the appearance of the Cherubims was ye selfe same, and they went euery one straight forwarde.
 
 ### Chapter 11
 
@@ -43038,7 +43038,7 @@
 
 **[11:24]** Afterwarde the Spirite tooke me vp, and brought me in a vision by the Spirit of God into Caldea to them that were led away captiues: so the vision that I had seene, went vp from me.
 
-**[11:25]** Then I declared vnto them that were led away captiues, all the things that the Lord had shewed me.  
+**[11:25]** Then I declared vnto them that were led away captiues, all the things that the Lord had shewed me.
 
 ### Chapter 12
 
@@ -43096,7 +43096,7 @@
 
 **[12:27]** Sonne of man, beholde, they of the house of Israel say, The vision that hee seeth, is for many dayes to come, and he prophecieth of the times that are farre off.
 
-**[12:28]** Therefore say vnto them, Thus sayth the Lord God, All my wordes shall no longer be delayed, but that thing which I haue spoken, shall be done, saith the Lord God.  
+**[12:28]** Therefore say vnto them, Thus sayth the Lord God, All my wordes shall no longer be delayed, but that thing which I haue spoken, shall be done, saith the Lord God.
 
 ### Chapter 13
 
@@ -43144,7 +43144,7 @@
 
 **[13:22]** Because with your lyes yee haue made the heart of the righteous sadde, whome I haue not made sad, and strengthened the hands of the wicked, that he should not returne from his wicked way, by promising him life,
 
-**[13:23]** Therefore ye shall see no more vanitie, nor diuine diuinatios: for I wil deliuer my people out of your hand, and ye shall know that I am ye Lord.  
+**[13:23]** Therefore ye shall see no more vanitie, nor diuine diuinatios: for I wil deliuer my people out of your hand, and ye shall know that I am ye Lord.
 
 ### Chapter 14
 
@@ -43192,7 +43192,7 @@
 
 **[14:22]** Yet beholde, therein shalbe left a remnant of them that shalbe caryed away both sonnes and daughters: behold, they shall come forth vnto you, and ye shall see their way, and their enterprises: and ye shall be comforted, concerning the euill that I haue brought vpon Ierusalem, euen concerning al that I haue brought vpon it.
 
-**[14:23]** And they shall comfort you, when yee see their way and their enterprises: and ye shall know, that I haue not done without cause all that I haue done in it, saith the Lord God.  
+**[14:23]** And they shall comfort you, when yee see their way and their enterprises: and ye shall know, that I haue not done without cause all that I haue done in it, saith the Lord God.
 
 ### Chapter 15
 
@@ -43210,7 +43210,7 @@
 
 **[15:7]** And I will set my face against them: they shall go out from one fire, and another fire shall consume them: and ye shall know, that I am the Lord, when I set my face against them,
 
-**[15:8]** And when I make the lande waste, because they haue greatly offended, saith the Lord God.  
+**[15:8]** And when I make the lande waste, because they haue greatly offended, saith the Lord God.
 
 ### Chapter 16
 
@@ -43338,7 +43338,7 @@
 
 **[16:62]** And I wil establish my couenant with thee, and thou shalt knowe that I am the Lord,
 
-**[16:63]** That thou mayest remember, and be ashamed, and neuer open thy mouth any more: because of thy shame when I am pacified toward thee, for all that thou hast done, saith the Lord God.  
+**[16:63]** That thou mayest remember, and be ashamed, and neuer open thy mouth any more: because of thy shame when I am pacified toward thee, for all that thou hast done, saith the Lord God.
 
 ### Chapter 17
 
@@ -43388,7 +43388,7 @@
 
 **[17:23]** Euen in the hie mountaine of Israel will I plant it: and it shall bring forth boughes and beare fruite, and be an excellent cedar, and vnder it shall remaine all birds, and euery foule shall dwell in the shadow of the branches thereof.
 
-**[17:24]** And all the trees of the fielde shall knowe that I the Lord haue brought downe the hie tree, and exalted the lowe tree, that I haue dried vp the greene tree, and made the drie tree to florish: I the Lord haue spoken it, and haue done it.  
+**[17:24]** And all the trees of the fielde shall knowe that I the Lord haue brought downe the hie tree, and exalted the lowe tree, that I haue dried vp the greene tree, and made the drie tree to florish: I the Lord haue spoken it, and haue done it.
 
 ### Chapter 18
 
@@ -43454,7 +43454,7 @@
 
 **[18:31]** Cast away from you all your transgressions, whereby ye haue transgressed, and make you a newe heart and a new spirit: for why will ye die, O house of Israel?
 
-**[18:32]** For I desire not the death of him that dyeth, sayth the Lord God: cause therefore one another to returne, and liue ye.  
+**[18:32]** For I desire not the death of him that dyeth, sayth the Lord God: cause therefore one another to returne, and liue ye.
 
 ### Chapter 19
 
@@ -43484,7 +43484,7 @@
 
 **[19:13]** And now she is planted in the wildernes in a drie and thirstie ground.
 
-**[19:14]** And fire is gone out of a rod of her branches, which hath deuoured her fruite, so that she hath no strong rod to be a scepter to rule: this is a lamentation and shalbe for a lamentation.  
+**[19:14]** And fire is gone out of a rod of her branches, which hath deuoured her fruite, so that she hath no strong rod to be a scepter to rule: this is a lamentation and shalbe for a lamentation.
 
 ### Chapter 20
 
@@ -43582,7 +43582,7 @@
 
 **[20:47]** And say to the forest of the South, Heare the worde of the Lord: thus saith the Lord God, Beholde, I will kindle a fire in thee, and it shall deuoure all the greene wood in thee, and all the drie wood: the continuall flame shall not bee quenched, and euery face from the South to the North shall be burnt therein.
 
-**[20:48]** And all flesh shall see, that I the Lord haue kindled it, and it shall not bee quenched. Then saide I, Ah Lord God, they say of me, Doeth not he speake parables?  
+**[20:48]** And all flesh shall see, that I the Lord haue kindled it, and it shall not bee quenched. Then saide I, Ah Lord God, they say of me, Doeth not he speake parables?
 
 **[20:49]** 
 
@@ -43650,7 +43650,7 @@
 
 **[21:31]** And I wil powre out mine indignation vpon thee, and will blowe against thee in the fire of my wrath, and deliuer thee into the hand of beastly men, and skilfull to destroy.
 
-**[21:32]** Thou shalt bee in the fire to be deuoured: thy blood shall be in the middes of the lande, and thou shalt be no more remembred: for I the Lord haue spoken it.  
+**[21:32]** Thou shalt bee in the fire to be deuoured: thy blood shall be in the middes of the lande, and thou shalt be no more remembred: for I the Lord haue spoken it.
 
 ### Chapter 22
 
@@ -43714,7 +43714,7 @@
 
 **[22:30]** And I sought for a man among them, that should make vp the hedge, and stand in the gap before me for the land, that I should not destroy it, but I found none.
 
-**[22:31]** Therefore haue I powred out mine indignation vpon them, and consumed them with the fire of my wrath: their owne wayes haue I rendred vpon their heads, sayth the Lord God.  
+**[22:31]** Therefore haue I powred out mine indignation vpon them, and consumed them with the fire of my wrath: their owne wayes haue I rendred vpon their heads, sayth the Lord God.
 
 ### Chapter 23
 
@@ -43814,7 +43814,7 @@
 
 **[23:48]** Thus will I cause wickednesse to cease out of the land, that all women may be taught not to doe after your wickednesse.
 
-**[23:49]** And they shall laye your wickednesse vpon you, and ye shall beare the sinnes of your idoles, and ye shall knowe that I am the Lord God.  
+**[23:49]** And they shall laye your wickednesse vpon you, and ye shall beare the sinnes of your idoles, and ye shall knowe that I am the Lord God.
 
 ### Chapter 24
 
@@ -43870,7 +43870,7 @@
 
 **[24:26]** That he that escapeth in that day, shall come vnto thee to tell thee that which hee hath heard with his eares?
 
-**[24:27]** In that day shall thy mouth be opened to him which is escaped, and thou shalt speake, and be no more dumme, and thou shalt be a signe vnto them, and they shall knowe that I am the Lord.  
+**[24:27]** In that day shall thy mouth be opened to him which is escaped, and thou shalt speake, and be no more dumme, and thou shalt be a signe vnto them, and they shall knowe that I am the Lord.
 
 ### Chapter 25
 
@@ -43906,7 +43906,7 @@
 
 **[25:16]** Therefore thus sayth the Lord God, Behold, I will stretche out mine hand vpon the Philistims, and I will cut off the Cherethims, and destroy the remnant of the sea coast.
 
-**[25:17]** And I will execute great vengeance vpon them with rebukes of mine indignation, and they shall knowe that I am the Lord, when I shall lay my vengeance vpon them.  
+**[25:17]** And I will execute great vengeance vpon them with rebukes of mine indignation, and they shall knowe that I am the Lord, when I shall lay my vengeance vpon them.
 
 ### Chapter 26
 
@@ -43950,7 +43950,7 @@
 
 **[26:20]** When I shall cast thee downe with them that descende into the pitte, with the people of olde time, and shall set thee in the lowe partes of the earth, like the olde ruines, with them, I say, which goe downe to the pitte, so that thou shalt not be inhabited, and I shall shewe my glory in the land of the liuing,
 
-**[26:21]** I will bring thee to nothing, and thou shalt be no more: though thou be sought for, yet shalt thou neuer be found againe, sayth the Lord God.  
+**[26:21]** I will bring thee to nothing, and thou shalt be no more: though thou be sought for, yet shalt thou neuer be found againe, sayth the Lord God.
 
 ### Chapter 27
 
@@ -44024,7 +44024,7 @@
 
 **[27:35]** All the inhabitantes of the yles shall be astonished at thee, and all their Kings shall be sore afraide and troubled in their countenance.
 
-**[27:36]** The marchants among the people shall hisse at thee: thou shalt be a terrour, and neuer shalt be any more.  
+**[27:36]** The marchants among the people shall hisse at thee: thou shalt be a terrour, and neuer shalt be any more.
 
 ### Chapter 28
 
@@ -44078,7 +44078,7 @@
 
 **[28:25]** Thus saith the Lord God, When I shall haue gathered the house of Israel from the people where they are scattered, and shalbe sanctified in them in the sight of the heathen, then shall they dwel in the land, that I haue giuen to my seruant Iaakob.
 
-**[28:26]** And they shall dwell safely therein, and shall builde houses, and plant vineyards: yea, they shall dwell safely, when I haue executed iudgements vpon al round about them that despise them, and they shall knowe that I am the Lord their God.  
+**[28:26]** And they shall dwell safely therein, and shall builde houses, and plant vineyards: yea, they shall dwell safely, when I haue executed iudgements vpon al round about them that despise them, and they shall knowe that I am the Lord their God.
 
 ### Chapter 29
 
@@ -44122,7 +44122,7 @@
 
 **[29:20]** I haue giuen him the land of Egypt for his labour, that he serued against it, because they wrought for me, sayth the Lord God.
 
-**[29:21]** In that day will I cause the horne of the house of Israel to growe, and I will giue thee an open mouth in the middes of them, and they shall knowe that I am the Lord.  
+**[29:21]** In that day will I cause the horne of the house of Israel to growe, and I will giue thee an open mouth in the middes of them, and they shall knowe that I am the Lord.
 
 ### Chapter 30
 
@@ -44176,7 +44176,7 @@
 
 **[30:25]** But I will strengthen the armes of the king of Babel, and the armes of Pharaoh shall fall downe, and they shall knowe, that I am the Lord, when I shall put my sworde into the hand of the King of Babel, and he shall stretch it out vpon the land of Egypt.
 
-**[30:26]** And I will scatter the Egyptians among the nations, and disperse them among ye countreys, and they shall knowe, that I am the Lord.  
+**[30:26]** And I will scatter the Egyptians among the nations, and disperse them among ye countreys, and they shall knowe, that I am the Lord.
 
 ### Chapter 31
 
@@ -44214,7 +44214,7 @@
 
 **[31:17]** They also went downe to hell with him vnto them that be slaine with the sworde, and his arme, and they that dwelt vnder his shadowe in the middes of the heathen.
 
-**[31:18]** To whom art thou thus like in glorie and in greatnesse among the trees of Eden? yet thou shalt be cast downe with the trees of Eden vnto the nether partes of the earth: thou shalt sleepe in the middes of the vncircumcised, with them that be slaine by the sworde: this is Pharaoh and all his multitude, sayth the Lord God.  
+**[31:18]** To whom art thou thus like in glorie and in greatnesse among the trees of Eden? yet thou shalt be cast downe with the trees of Eden vnto the nether partes of the earth: thou shalt sleepe in the middes of the vncircumcised, with them that be slaine by the sworde: this is Pharaoh and all his multitude, sayth the Lord God.
 
 ### Chapter 32
 
@@ -44280,7 +44280,7 @@
 
 **[32:31]** Pharaoh shall see them, and hee shall be comforted ouer all his multitude: Pharaoh, and all his armie shall be slaine by the sword, saieth the Lord God.
 
-**[32:32]** For I haue caused my feare to be in the lande of the liuing: and he shall be laid in the mids of the vncircumcised with them, that are slaine by the sword, euen Pharaoh and all his multitude, sayeth the Lord God.  
+**[32:32]** For I haue caused my feare to be in the lande of the liuing: and he shall be laid in the mids of the vncircumcised with them, that are slaine by the sword, euen Pharaoh and all his multitude, sayeth the Lord God.
 
 ### Chapter 33
 
@@ -44348,7 +44348,7 @@
 
 **[33:32]** And loe, thou art vnto them, as a iesting song of one that hath a pleasant voyce, and can sing well: for they heare thy woordes, but they doe them not.
 
-**[33:33]** And when this commeth to passe (for loe, it will come) then shall they know, that a Prophet hath bene among them.  
+**[33:33]** And when this commeth to passe (for loe, it will come) then shall they know, that a Prophet hath bene among them.
 
 ### Chapter 34
 
@@ -44412,7 +44412,7 @@
 
 **[34:30]** Thus shall they vnderstande, that I the Lord their God am with them, and that they, euen the house of Israel, are my people, sayth the Lord God.
 
-**[34:31]** And yee my sheepe, the sheepe of my pasture are men, and I am your God, saith the Lord God.  
+**[34:31]** And yee my sheepe, the sheepe of my pasture are men, and I am your God, saith the Lord God.
 
 ### Chapter 35
 
@@ -44444,7 +44444,7 @@
 
 **[35:14]** Thus sayth the Lord God, So shall all the world reioyce when I shall make thee desolate.
 
-**[35:15]** As thou diddest reioyce at the inheritance of the house of Israel, because it was desolate, so will I doe vnto thee: thou shalt be desolate, O mount Seir, and all Idumea wholly, and they shall know, that I am the Lord.  
+**[35:15]** As thou diddest reioyce at the inheritance of the house of Israel, because it was desolate, so will I doe vnto thee: thou shalt be desolate, O mount Seir, and all Idumea wholly, and they shall know, that I am the Lord.
 
 ### Chapter 36
 
@@ -44522,7 +44522,7 @@
 
 **[36:37]** Thus saith the Lord God, I will yet for this be sought of ye house of Israel, to performe it vnto them: I wil encrease them with men like a flocke.
 
-**[36:38]** As the holy flocke, as the flocke of Ierusalem in their solemne feastes, so shall the desolate cities be filled with flockes of men, and they shall know, that I am the Lord.  
+**[36:38]** As the holy flocke, as the flocke of Ierusalem in their solemne feastes, so shall the desolate cities be filled with flockes of men, and they shall know, that I am the Lord.
 
 ### Chapter 37
 
@@ -44580,7 +44580,7 @@
 
 **[37:27]** My tabernacle also shalbe with them: yea, I will be their God, and they shalbe my people.
 
-**[37:28]** Thus the heathen shall knowe, that I the Lord do sanctifie Israel, when my Sanctuarie shall be among them for euermore.  
+**[37:28]** Thus the heathen shall knowe, that I the Lord do sanctifie Israel, when my Sanctuarie shall be among them for euermore.
 
 ### Chapter 38
 
@@ -44628,7 +44628,7 @@
 
 **[38:22]** And I will pleade against him with pestilence, and with blood, and I will cause to raine vpon him and vpon his bands, and vpon the great people, that are with him, a sore raine, and hailestones, fire, and brimstone.
 
-**[38:23]** Thus will I be magnified, and sanctified, and knowen in the eyes of many nations, and they shall knowe, that I am the Lord.  
+**[38:23]** Thus will I be magnified, and sanctified, and knowen in the eyes of many nations, and they shall knowe, that I am the Lord.
 
 ### Chapter 39
 
@@ -44688,7 +44688,7 @@
 
 **[39:28]** Then shall they know, that I am the Lord their God, which caused them to be led into captiuitie among the heathen: but I haue gathered them vnto their owne land, and haue left none of them any more there,
 
-**[39:29]** Neither wil I hide my face any more from them: for I haue powred out my Spirit vpon the house of Israel, sayth the Lord God.  
+**[39:29]** Neither wil I hide my face any more from them: for I haue powred out my Spirit vpon the house of Israel, sayth the Lord God.
 
 ### Chapter 40
 
@@ -44788,7 +44788,7 @@
 
 **[40:48]** And hee brought mee to the porch of the house, and measured the postes of the porch, fiue cubites on this side, and fiue cubites on that side: and the breadth of the gate was three cubites on this side, and three cubites on that side.
 
-**[40:49]** The length of the porch was twentie cubites, and ye breadth eleuen cubites, and he brought me by the steps whereby they went vp to it, and there were pillars by the postes, one on this side, and another on that side.  
+**[40:49]** The length of the porch was twentie cubites, and ye breadth eleuen cubites, and he brought me by the steps whereby they went vp to it, and there were pillars by the postes, one on this side, and another on that side.
 
 ### Chapter 41
 
@@ -44842,7 +44842,7 @@
 
 **[41:25]** And vpon the doores of the Temple there were made Cherubims and palmetrees, like as was made vpon the walles, and there were thicke plankes vpon the forefront of the porch without.
 
-**[41:26]** And there were narow windowes and palme trees on the one side, and on the other side, by the sides of the porch, and vpon ye sides of the house, and thicke plankes.  
+**[41:26]** And there were narow windowes and palme trees on the one side, and on the other side, by the sides of the porch, and vpon ye sides of the house, and thicke plankes.
 
 ### Chapter 42
 
@@ -44884,7 +44884,7 @@
 
 **[42:19]** He turned about also to the West side, and measured fiue hundreth reedes with the measuring reede.
 
-**[42:20]** He measured it by the foure sides: it had a wall round about, fiue hundreth reedes long, and fiue hundreth broade to make a separation betweene the Sanctuarie, and the prophane place.  
+**[42:20]** He measured it by the foure sides: it had a wall round about, fiue hundreth reedes long, and fiue hundreth broade to make a separation betweene the Sanctuarie, and the prophane place.
 
 ### Chapter 43
 
@@ -44940,7 +44940,7 @@
 
 **[43:26]** Thus shall they seuen dayes purifie the altar, and clense it, and consecrate it.
 
-**[43:27]** And when these dayes are expired, vpon the eight day and so forth, the Priests shall make your burnt offrings vpon the altar, and your peace offrings, and I will accept you, saith the Lord God.  
+**[43:27]** And when these dayes are expired, vpon the eight day and so forth, the Priests shall make your burnt offrings vpon the altar, and your peace offrings, and I will accept you, saith the Lord God.
 
 ### Chapter 44
 
@@ -45004,7 +45004,7 @@
 
 **[44:30]** And all the first of all the first borne, and euery oblation, euen all of euery sort of your oblations shall be the Priestes. Ye shall also giue vnto the Priest the first of your dough, that he may cause the blessing to rest in thine house.
 
-**[44:31]** The Priests shall not eate of any thing, that is dead, or torne, whether it be foule or beast.  
+**[44:31]** The Priests shall not eate of any thing, that is dead, or torne, whether it be foule or beast.
 
 ### Chapter 45
 
@@ -45056,7 +45056,7 @@
 
 **[45:24]** And he shall prepare a meate offring of an Ephah for a bullocke, an Ephah for a ramme, and an Hin of oyle for an Ephah.
 
-**[45:25]** In the seuenth moneth, in the fifteenth day of the moneth, shall he do the like in the feast for seuen dayes, according to the sinne offring, according to the burnt offring, and according to the meate offring, and according to the oyle.  
+**[45:25]** In the seuenth moneth, in the fifteenth day of the moneth, shall he do the like in the feast for seuen dayes, according to the sinne offring, according to the burnt offring, and according to the meate offring, and according to the oyle.
 
 ### Chapter 46
 
@@ -45106,7 +45106,7 @@
 
 **[46:23]** And there went a wall about them, euen about those foure, and kitchins were made vnder the walles rounde about.
 
-**[46:24]** Then said he vnto me, This is the kitchin where the ministers of the house shall seethe the sacrifice of the people.  
+**[46:24]** Then said he vnto me, This is the kitchin where the ministers of the house shall seethe the sacrifice of the people.
 
 ### Chapter 47
 
@@ -45154,7 +45154,7 @@
 
 **[47:22]** And you shall deuide it by lot for an inheritance vnto you, and to the strangers that dwell among you, which shall beget children among you, and they shall be vnto you, as borne in the countrey among the children of Israel, they shall part inheritance with you in the middes of the tribes of Israel.
 
-**[47:23]** And in what tribe the stranger dwelleth, there shall ye giue him his inheritance, saith the Lord God.  
+**[47:23]** And in what tribe the stranger dwelleth, there shall ye giue him his inheritance, saith the Lord God.
 
 ### Chapter 48
 
@@ -45226,7 +45226,7 @@
 
 **[48:34]** At the West side, fiue hundreth and foure thousand, with their three gates, one gate of Gad, one gate of Asher, and one gate of Naphtali.
 
-**[48:35]** It was rounde about eighteene thousande measures, and the name of the citie from that day shalbe, The Lord is there.   
+**[48:35]** It was rounde about eighteene thousande measures, and the name of the citie from that day shalbe, The Lord is there.
 
 ## Daniel
 
@@ -45272,7 +45272,7 @@
 
 **[1:20]** And in all matters of wisedome, and vnderstanding that the King enquired of them, hee founde them tenne times better then all the inchanters and astrologians, that were in all his realme.
 
-**[1:21]** And Daniel was vnto the first yeere of king Cyrus.  
+**[1:21]** And Daniel was vnto the first yeere of king Cyrus.
 
 ### Chapter 2
 
@@ -45372,7 +45372,7 @@
 
 **[2:48]** So the King made Daniel a great man, and gaue him many and great giftes. Hee made him gouernour ouer the whole prouince of Babel, and chiefe of the rulers, and aboue all the wise men of Babel.
 
-**[2:49]** Then Daniel made request to the King, and hee set Shadrach, Meshach, and Abednego ouer the charge of the prouince of Babel: but Daniel sate in the gate of the King.  
+**[2:49]** Then Daniel made request to the King, and hee set Shadrach, Meshach, and Abednego ouer the charge of the prouince of Babel: but Daniel sate in the gate of the King.
 
 ### Chapter 3
 
@@ -45434,7 +45434,7 @@
 
 **[3:29]** Therefore I make a decree, that euery people, nation, and language, which speake any blasphemie against the God of Shadrach, Meshach and Abednego, shalbe drawen in pieces, and their houses shall be made a iakes, because there is no god that can deliuer after this sort.
 
-**[3:30]** Then the King promoted Shadrach, Meshach and Abednego in the prouince of Babel. Nebuchad-nezzar King vnto all people, nations and languages, that dwell in all the world, Peace be multiplied vnto you: I thought it good to declare the signes and wonders, that the hie God hath wrought toward me. How great are his signes, and how mightie are his wonders! his kingdome is an euerlasting kingdome, and his dominion is from generation to generation.  
+**[3:30]** Then the King promoted Shadrach, Meshach and Abednego in the prouince of Babel. Nebuchad-nezzar King vnto all people, nations and languages, that dwell in all the world, Peace be multiplied vnto you: I thought it good to declare the signes and wonders, that the hie God hath wrought toward me. How great are his signes, and how mightie are his wonders! his kingdome is an euerlasting kingdome, and his dominion is from generation to generation.
 
 ### Chapter 4
 
@@ -45504,7 +45504,7 @@
 
 **[4:33]** At the same time was mine vnderstanding restored vnto me, and I returned to the honour of my kingdome: my glory and my beautie was restored vnto me, and my counsellours and my princes sought vnto me, and I was established in my kingdome, and my glory was augmented toward me.
 
-**[4:34]** Now therefore I Nebuchad-nezzar prayse and extoll and magnifie the King of heauen, whose workes are all trueth, and his wayes iudgement, and those that walke in pride, he is able to abase.  
+**[4:34]** Now therefore I Nebuchad-nezzar prayse and extoll and magnifie the King of heauen, whose workes are all trueth, and his wayes iudgement, and those that walke in pride, he is able to abase.
 
 **[4:35]** 
 
@@ -45574,7 +45574,7 @@
 
 **[5:30]** The same night was Belshazzar the King of the Caldeans slaine.
 
-**[5:31]** And Darius of the Medes tooke the kingdome, being threescore and two yeere olde.  
+**[5:31]** And Darius of the Medes tooke the kingdome, being threescore and two yeere olde.
 
 ### Chapter 6
 
@@ -45632,7 +45632,7 @@
 
 **[6:27]** Hee rescueth and deliuereth, and hee worketh signes and wonders in heauen and in earth, who hath deliuered Daniel from the power of the lyons.
 
-**[6:28]** So this Daniel prospered in the reigne of Darius and in the reigne of Cyrus of Persia.  
+**[6:28]** So this Daniel prospered in the reigne of Darius and in the reigne of Cyrus of Persia.
 
 ### Chapter 7
 
@@ -45690,7 +45690,7 @@
 
 **[7:27]** And the kingdome, and dominion, and the greatnesse of the kingdome vnder the whole heauen shalbe giue to the holy people of the most High, whose kingdome is an euerlasting kingdome and all powers shall serue and obey him.
 
-**[7:28]** Euen this is the ende of the matter, I Daniel had many cogitations which troubled mee, and my countenance changed in me: but I kept the matter in mine heart.  
+**[7:28]** Euen this is the ende of the matter, I Daniel had many cogitations which troubled mee, and my countenance changed in me: but I kept the matter in mine heart.
 
 ### Chapter 8
 
@@ -45746,7 +45746,7 @@
 
 **[8:26]** And the vision of the euening and the morning, which is declared, is true: therefore seale thou vp the vision, for it shall be after many dayes.
 
-**[8:27]** And I Daniel was striken and sicke certaine dayes: but when I rose vp, I did the Kings busines, and I was astonished at the vision, but none vnderstood it.  
+**[8:27]** And I Daniel was striken and sicke certaine dayes: but when I rose vp, I did the Kings busines, and I was astonished at the vision, but none vnderstood it.
 
 ### Chapter 9
 
@@ -45802,7 +45802,7 @@
 
 **[9:26]** And after threescore and two weekes, shall Messiah be slaine, and shall haue nothing,, and the people of the prince that shall come, shall destroy the citie and the Sanctuarie, and the end thereof shalbe with a flood: and vnto the end of the battell it shalbe destroyed by desolations.
 
-**[9:27]** And he shall confirme the couenant with many for one weeke: and in the middes of the weeke he shall cause the sacrifice and the oblation to cease, and for the ouerspreading of the abominations, he shall make it desolate, euen vntill the consummation determined shalbe powred vpon the desolate.  
+**[9:27]** And he shall confirme the couenant with many for one weeke: and in the middes of the weeke he shall cause the sacrifice and the oblation to cease, and for the ouerspreading of the abominations, he shall make it desolate, euen vntill the consummation determined shalbe powred vpon the desolate.
 
 ### Chapter 10
 
@@ -45846,7 +45846,7 @@
 
 **[10:20]** Then saide he, Knowest thou wherefore I am come vnto thee? but nowe will I returne to fight with the prince of Persia: and when I am gone forth, loe, the prince of Grecia shall come.
 
-**[10:21]** But I will shew thee that which is decreeed in the Scripture of trueth: and there is none that holdeth with me in these things, but Michael your prince.  
+**[10:21]** But I will shew thee that which is decreeed in the Scripture of trueth: and there is none that holdeth with me in these things, but Michael your prince.
 
 ### Chapter 11
 
@@ -45938,7 +45938,7 @@
 
 **[11:44]** But the tidings out of the East and the North shall trouble him: therefore he shall goe foorth with great wrath to destroy and roote out many.
 
-**[11:45]** And he shall plant the tabernacles of his palace betweene the seas in the glorious and holy mountaine, yet he shall come to his end, and none shall helpe him.  
+**[11:45]** And he shall plant the tabernacles of his palace betweene the seas in the glorious and holy mountaine, yet he shall come to his end, and none shall helpe him.
 
 ### Chapter 12
 
@@ -45966,7 +45966,7 @@
 
 **[12:12]** Blessed is he that waiteth and commeth to the thousand, three hundreth and fiue and thirtie daies.
 
-**[12:13]** But go thou thy way til the end be: for thou shalt rest and stand vp in thy lot, at the end of ye daies.   
+**[12:13]** But go thou thy way til the end be: for thou shalt rest and stand vp in thy lot, at the end of ye daies.
 
 ## Hosea
 
@@ -45992,7 +45992,7 @@
 
 **[1:10]** Yet the nomber of the children of Israel shall be as the sande of the sea, which can not be measured nor tolde: and in the place where it was saide vnto them, Yee are not my people, it shall be saide vnto them, Yee are the sonnes of the liuing God.
 
-**[1:11]** Then shall the children of Iudah, and the children of Israel be gathered together, and appoint them selues one head, and they shall come vp out of the land: for great is the day of Izreel.  
+**[1:11]** Then shall the children of Iudah, and the children of Israel be gathered together, and appoint them selues one head, and they shall come vp out of the land: for great is the day of Izreel.
 
 ### Chapter 2
 
@@ -46040,7 +46040,7 @@
 
 **[2:22]** And the earth shall heare the corne, and the wine, and the oyle, and they shall heare Izreel.
 
-**[2:23]** And I will sowe her vnto me in the earth, and I will haue mercie vpon her, that was not pitied, and I will say to them which were not my people, Thou art my people. And they shall say, Thou art my God.  
+**[2:23]** And I will sowe her vnto me in the earth, and I will haue mercie vpon her, that was not pitied, and I will say to them which were not my people, Thou art my people. And they shall say, Thou art my God.
 
 ### Chapter 3
 
@@ -46052,7 +46052,7 @@
 
 **[3:4]** For the children of Israel shall remaine many dayes without a King and without a prince, and without an offering, and without an image, and without an Ephod and without Teraphim.
 
-**[3:5]** Afterward shall the children of Israel conuert, and seeke the Lord their God, and Dauid their King, and shall feare the Lord, and his goodnes in the latter dayes.  
+**[3:5]** Afterward shall the children of Israel conuert, and seeke the Lord their God, and Dauid their King, and shall feare the Lord, and his goodnes in the latter dayes.
 
 ### Chapter 4
 
@@ -46092,7 +46092,7 @@
 
 **[4:18]** Their drunkennes stinketh: they haue committed whoredome: their rulers loue to say with shame, Bring ye.
 
-**[4:19]** The winde hath bounde them vp in her wings, and they shalbe ashamed of their sacrifices.  
+**[4:19]** The winde hath bounde them vp in her wings, and they shalbe ashamed of their sacrifices.
 
 ### Chapter 5
 
@@ -46124,7 +46124,7 @@
 
 **[5:14]** For I will be vnto Ephraim as a lyon, and as a lyons whelpe to the house of Iudah: I, euen I will spoyle, and goe away: I will take away, and none shall rescue it.
 
-**[5:15]** I will go, and returne to my place, til they acknowledge their fault, and seeke me: in their affliction they will seeke me diligently.  
+**[5:15]** I will go, and returne to my place, til they acknowledge their fault, and seeke me: in their affliction they will seeke me diligently.
 
 ### Chapter 6
 
@@ -46148,7 +46148,7 @@
 
 **[6:10]** I haue seene vileny in the house of Israel: there is ye whoredome of Ephraim: Israel is defiled.
 
-**[6:11]** Yea, Iudah hath set a plant for thee, whiles I woulde returne ye captiuitie of my people.  
+**[6:11]** Yea, Iudah hath set a plant for thee, whiles I woulde returne ye captiuitie of my people.
 
 ### Chapter 7
 
@@ -46182,7 +46182,7 @@
 
 **[7:15]** Though I haue boud and strengthened their arme, yet doe they imagine mischiefe against me.
 
-**[7:16]** They returne, but not to the most high: they are like a deceitfull bowe: their princes shall fall by the sword, for the rage of their tongues: this shall be their derision in the land of Egypt.  
+**[7:16]** They returne, but not to the most high: they are like a deceitfull bowe: their princes shall fall by the sword, for the rage of their tongues: this shall be their derision in the land of Egypt.
 
 ### Chapter 8
 
@@ -46212,7 +46212,7 @@
 
 **[8:13]** They sacrifice flesh for ye sacrifices of mine offerings, and eate it: but the Lord accepteth them not: now will he remember their iniquitie, and visite their sinnes: they shall returne to Egypt.
 
-**[8:14]** For Israel hath forgotten his maker, and buildeth Temples, and Iudah hath increased strong cities: but I will sende a fire vpon his cities, and it shall deuoure the palaces thereof.  
+**[8:14]** For Israel hath forgotten his maker, and buildeth Temples, and Iudah hath increased strong cities: but I will sende a fire vpon his cities, and it shall deuoure the palaces thereof.
 
 ### Chapter 9
 
@@ -46248,7 +46248,7 @@
 
 **[9:16]** Ephraim is smitten, their roote is dried vp: they can bring no fruite: yea, though they bring foorth, yet will I slaie euen the dearest of their bodie.
 
-**[9:17]** My God will cast them away, because they did not obey him: and they shall wander among the nations.  
+**[9:17]** My God will cast them away, because they did not obey him: and they shall wander among the nations.
 
 ### Chapter 10
 
@@ -46280,7 +46280,7 @@
 
 **[10:14]** Therefore shall a tumult arise among thy people, and all thy munitions shall be destroyed, as Shalman destroyed Beth-arbell in the daie of battell: the mother with the children was dashed in pieces.
 
-**[10:15]** So shall Beth-el doe vnto you, because of your malicious wickednes: in a morning shall the King of Israel be destroied.  
+**[10:15]** So shall Beth-el doe vnto you, because of your malicious wickednes: in a morning shall the King of Israel be destroied.
 
 ### Chapter 11
 
@@ -46306,7 +46306,7 @@
 
 **[11:11]** They shall feare as a sparrow out of Egypt, and as a doue of the lande of Asshur, and I will place them in their houses, sayth the Lord.
 
-**[11:12]** Ephraim copasseth me about with lies, and the house of Israel with deceit: but Iudah yet ruleth with God, and is faithfull with the Saints.  
+**[11:12]** Ephraim copasseth me about with lies, and the house of Israel with deceit: but Iudah yet ruleth with God, and is faithfull with the Saints.
 
 ### Chapter 12
 
@@ -46336,7 +46336,7 @@
 
 **[12:13]** And by a Prophet the Lord brought Israel out of Egypt, and by a Prophet was he reserued.
 
-**[12:14]** But Ephraim prouoked him with hie places: therefore shall his blood be powred vpon him, and his reproche shall his Lord reward him.  
+**[12:14]** But Ephraim prouoked him with hie places: therefore shall his blood be powred vpon him, and his reproche shall his Lord reward him.
 
 ### Chapter 13
 
@@ -46368,7 +46368,7 @@
 
 **[13:14]** I wil redeeme them from the power of the graue: I will deliuer them from death: O death, I wil be thy death: O graue, I will be thy destruction: repentance is hid from mine eyes.
 
-**[13:15]** Though he grewe vp among his brethren, an East winde shall come, euen the winde of the Lord shall come vp from the wildernesse, and drie vp his veine, and his fountaine shalbe dryed vp: he shall spoyle the treasure of all pleasant vessels.  
+**[13:15]** Though he grewe vp among his brethren, an East winde shall come, euen the winde of the Lord shall come vp from the wildernesse, and drie vp his veine, and his fountaine shalbe dryed vp: he shall spoyle the treasure of all pleasant vessels.
 
 **[13:16]** 
 
@@ -46390,7 +46390,7 @@
 
 **[14:8]** They that dwel vnder his shadow, shall returne: they shall reuiue as the corne, and florish as the vine: the sent thereof shalbe as the wine of Lebanon.
 
-**[14:9]** Ephraim shall say, What haue I to doe any more with idoles? I haue heard him, and looked vpon him: I am like a greene firre tree: vpon me is thy fruite founde. Who is wise, and he shall vnderstande these things? and prudent, and he shall knowe them? for the wayes of the Lord are righteous, and the iust shall walke in them: but the wicked shall fall therein.   
+**[14:9]** Ephraim shall say, What haue I to doe any more with idoles? I haue heard him, and looked vpon him: I am like a greene firre tree: vpon me is thy fruite founde. Who is wise, and he shall vnderstande these things? and prudent, and he shall knowe them? for the wayes of the Lord are righteous, and the iust shall walke in them: but the wicked shall fall therein.
 
 ## Joel
 
@@ -46434,7 +46434,7 @@
 
 **[1:19]** O Lord, to thee will I crie: for the fire hath deuoured the pastures of the wildernesse, and the flame hath burnt vp all the trees of the fielde.
 
-**[1:20]** The beasts of the fielde cry also vnto thee: for the riuers of waters are dried vp, and the fire hath deuoured the pastures of the wildernes.  
+**[1:20]** The beasts of the fielde cry also vnto thee: for the riuers of waters are dried vp, and the fire hath deuoured the pastures of the wildernes.
 
 ### Chapter 2
 
@@ -46500,7 +46500,7 @@
 
 **[2:31]** The sunne shalbe turned into darkenesse, and the moone into blood, before the great and terrible day of the Lord come.
 
-**[2:32]** But whosoeuer shall call on the Name of the Lord, shalbe saued: for in mount Zion, and in Ierusale shalbe deliuerance, as the Lord hath said, and in the remnant, whom the Lord shall call.  
+**[2:32]** But whosoeuer shall call on the Name of the Lord, shalbe saued: for in mount Zion, and in Ierusale shalbe deliuerance, as the Lord hath said, and in the remnant, whom the Lord shall call.
 
 ### Chapter 3
 
@@ -46544,7 +46544,7 @@
 
 **[3:20]** But Iudah shall dwell for euer, and Ierusalem from generation to generation.
 
-**[3:21]** For I will clense their blood, that I haue not clensed, and the Lord will dwell in Zion.   
+**[3:21]** For I will clense their blood, that I haue not clensed, and the Lord will dwell in Zion.
 
 ## Amos
 
@@ -46578,7 +46578,7 @@
 
 **[1:14]** Therefore will I kindle a fire in the wall of Rabbah, and it shall deuoure the palaces thereof, with shouting in the day of battell, and with a tempest in the day of the whirlewinde.
 
-**[1:15]** And their King shall go into captiuitie, he and his princes together, saith the Lord.  
+**[1:15]** And their King shall go into captiuitie, he and his princes together, saith the Lord.
 
 ### Chapter 2
 
@@ -46612,7 +46612,7 @@
 
 **[2:15]** Nor he that handleth the bowe, shall stand, and he that is swift of foote, shall not escape, neyther shall he that rideth the horse, saue his life.
 
-**[2:16]** And he that is of a mighty courage among the strong men, shall flee away naked in that day, sayth the Lord.  
+**[2:16]** And he that is of a mighty courage among the strong men, shall flee away naked in that day, sayth the Lord.
 
 ### Chapter 3
 
@@ -46644,7 +46644,7 @@
 
 **[3:14]** Surely in the day that I shall visit the transgressions of Israel vpon him, I wil also visite the altars of Beth-el, and the hornes of the altar shall be broken off, and fall to the ground.
 
-**[3:15]** And I wil smite the winter house with the sommer house, and the houses of yuorie shall perish, and the great houses shalbe consumed, sayth the Lord.  
+**[3:15]** And I wil smite the winter house with the sommer house, and the houses of yuorie shall perish, and the great houses shalbe consumed, sayth the Lord.
 
 ### Chapter 4
 
@@ -46672,7 +46672,7 @@
 
 **[4:12]** Therefore, thus wil I do vnto thee, O Israel: and because I wil doe this vnto thee, prepare to meete thy God, O Israel.
 
-**[4:13]** For lo, he that formeth the mountaines, and createth the winde, and declareth vnto man what is his thought: which maketh the morning darkenesse, and walketh vpon the hie places of the earth, the Lord God of hostes is his Name.  
+**[4:13]** For lo, he that formeth the mountaines, and createth the winde, and declareth vnto man what is his thought: which maketh the morning darkenesse, and walketh vpon the hie places of the earth, the Lord God of hostes is his Name.
 
 ### Chapter 5
 
@@ -46728,7 +46728,7 @@
 
 **[5:26]** But you haue borne Siccuth your King, and Chiun your images, and the starre of your gods, which ye made to your selues.
 
-**[5:27]** Therefore wil I cause you to goe into captiuitie beyond Damascus, saith the Lord, whose Name is the God of hostes.  
+**[5:27]** Therefore wil I cause you to goe into captiuitie beyond Damascus, saith the Lord, whose Name is the God of hostes.
 
 ### Chapter 6
 
@@ -46758,7 +46758,7 @@
 
 **[6:13]** Ye reioyce in a thing of nought: yee say, Haue not wee gotten vs hornes by our owne strength?
 
-**[6:14]** But behold, I wil raise vp against you a nation, O house of Israel, sayeth the Lord God of hostes: and they shall afflict you, from the entring in of Hamath vnto the riuer of the wildernes.  
+**[6:14]** But behold, I wil raise vp against you a nation, O house of Israel, sayeth the Lord God of hostes: and they shall afflict you, from the entring in of Hamath vnto the riuer of the wildernes.
 
 ### Chapter 7
 
@@ -46794,7 +46794,7 @@
 
 **[7:16]** Now therefore heare thou the word of the Lord. Thou sayest, Prophecie not against Israel, and speake nothing against the house of Izhak.
 
-**[7:17]** Therefore thus sayth the Lord, Thy wife shall be an harlot in the citie, and thy sonnes and thy daughters shall fall by the sword, and thy land shall be deuided by line: and thou shalt die in a polluted land, and Israel shall surely go into captiuitie forth of his land.  
+**[7:17]** Therefore thus sayth the Lord, Thy wife shall be an harlot in the citie, and thy sonnes and thy daughters shall fall by the sword, and thy land shall be deuided by line: and thou shalt die in a polluted land, and Israel shall surely go into captiuitie forth of his land.
 
 ### Chapter 8
 
@@ -46824,7 +46824,7 @@
 
 **[8:13]** In that day shall the faire virgines and the yong men perish for thirst.
 
-**[8:14]** They that sweare by the sinne of Samaria, and that say, Thy God, O Dan, liueth, and the maner of Beer-sheba liueth, euen they shall fall, and neuer rise vp againe.  
+**[8:14]** They that sweare by the sinne of Samaria, and that say, Thy God, O Dan, liueth, and the maner of Beer-sheba liueth, euen they shall fall, and neuer rise vp againe.
 
 ### Chapter 9
 
@@ -46856,7 +46856,7 @@
 
 **[9:14]** And I will bring againe the captiuitie of my people of Israel: and they shall build the waste cities, and inhabite the, and they shall plant vineyardes, and drinke the wine thereof: they shall also make gardens, and eate the fruites of them.
 
-**[9:15]** And I wil plant them vpon their land, and they shall no more bee pulled vp againe out of their lande, which I haue giuen them, sayeth the Lord thy God.   
+**[9:15]** And I wil plant them vpon their land, and they shall no more bee pulled vp againe out of their lande, which I haue giuen them, sayeth the Lord thy God.
 
 ## Obadiah
 
@@ -46902,7 +46902,7 @@
 
 **[1:20]** And the captiuitie of this host of the children of Israel, which were among the Canaanites, shall possesse vnto Zarephath, and the captiuitie of Ierusalem, which is in Sepharad, shall possesse the cities of the South.
 
-**[1:21]** And they that shall saue, shall come vp to mount Zion to iudge the mount of Esau, and the kingdome shalbe the Lords.   
+**[1:21]** And they that shall saue, shall come vp to mount Zion to iudge the mount of Esau, and the kingdome shalbe the Lords.
 
 ## Jonah
 
@@ -46940,7 +46940,7 @@
 
 **[1:16]** Then the men feared the Lord exceedingly, and offered a sacrifice vnto the Lord, and made vowes.
 
-**[1:17]** Nowe the Lord had prepared a great fish to swallowe vp Ionah: and Ionah was in the belly of the fish three dayes, and three nightes.  
+**[1:17]** Nowe the Lord had prepared a great fish to swallowe vp Ionah: and Ionah was in the belly of the fish three dayes, and three nightes.
 
 ### Chapter 2
 
@@ -46962,7 +46962,7 @@
 
 **[2:9]** But I will sacrifice vnto thee with the voice of thankesgiuing, and will pay that that I haue vowed: saluation is of the Lord.
 
-**[2:10]** And the Lord spake vnto the fish, and it cast out Ionah vpon the dry lande.  
+**[2:10]** And the Lord spake vnto the fish, and it cast out Ionah vpon the dry lande.
 
 ### Chapter 3
 
@@ -46984,7 +46984,7 @@
 
 **[3:9]** Who can tell if God will turne, and repent and turne away from his fierce wrath, that we perish not?
 
-**[3:10]** And God sawe their workes that they turned from their euill wayes: and God repented of the euill that he had said that he woulde doe vnto them, and he did it not.  
+**[3:10]** And God sawe their workes that they turned from their euill wayes: and God repented of the euill that he had said that he woulde doe vnto them, and he did it not.
 
 ### Chapter 4
 
@@ -47008,7 +47008,7 @@
 
 **[4:10]** Then said the Lord, Thou hast had pitie on the gourde for the which thou hast not laboured, neither madest it growe, which came vp in a night, and perished in a night,
 
-**[4:11]** And shoulde not I spare Nineueh that great citie, wherein are sixe score thousande persons, that cannot discerne betweene their right hand, and their left hand, and also much cattell?   
+**[4:11]** And shoulde not I spare Nineueh that great citie, wherein are sixe score thousande persons, that cannot discerne betweene their right hand, and their left hand, and also much cattell?
 
 ## Micah
 
@@ -47044,7 +47044,7 @@
 
 **[1:15]** Yet will I bring an heire vnto thee, O inhabitant of Mareshah, he shall come vnto Adullam, the glorie of Israel.
 
-**[1:16]** Make thee balde: and shaue thee for thy delicate children: enlarge thy baldenesse as the eagle, for they are gone into captiuity from thee.  
+**[1:16]** Make thee balde: and shaue thee for thy delicate children: enlarge thy baldenesse as the eagle, for they are gone into captiuity from thee.
 
 ### Chapter 2
 
@@ -47072,7 +47072,7 @@
 
 **[2:12]** I will surely gather thee wholy, O Iaakob: I will surely gather the remnant of Israel: I will put them together as the sheepe of Bozrah, euen as the flocke in the mids of their folde: the cities shall be full of brute of the men.
 
-**[2:13]** The breaker vp shall come vp before them: they shall breake out, and passe by the gate, and goe out by it, and their King shall goe before them, and the Lord shalbe vpon their heades.  
+**[2:13]** The breaker vp shall come vp before them: they shall breake out, and passe by the gate, and goe out by it, and their King shall goe before them, and the Lord shalbe vpon their heades.
 
 ### Chapter 3
 
@@ -47098,7 +47098,7 @@
 
 **[3:11]** The heads thereof iudge for rewardes, and the Priestes thereof teache for hyre, and the prophets thereof prophecie for money: yet wil they leane vpon the Lord, and say, Is not the Lord among vs? no euill can come vpon vs.
 
-**[3:12]** Therefore shall Zion for your sake bee plowed as a field, and Ierusalem shalbe an heape, and the mountaine of the house, as the hye places of the forest.  
+**[3:12]** Therefore shall Zion for your sake bee plowed as a field, and Ierusalem shalbe an heape, and the mountaine of the house, as the hye places of the forest.
 
 ### Chapter 4
 
@@ -47126,7 +47126,7 @@
 
 **[4:12]** But they knowe not the thoughtes of the Lord: they vnderstand not his counsell, for he shall gather them as the sheaues in the barne.
 
-**[4:13]** Arise, and thresh, O daughter Zion: for I will make thine horne yron, and I will make thine hooues brasse, and thou shalt breake in pieces many people: and I will consecrate their riches vnto the Lord, and their substance vnto the ruler of the whole worlde.  
+**[4:13]** Arise, and thresh, O daughter Zion: for I will make thine horne yron, and I will make thine hooues brasse, and thou shalt breake in pieces many people: and I will consecrate their riches vnto the Lord, and their substance vnto the ruler of the whole worlde.
 
 ### Chapter 5
 
@@ -47158,7 +47158,7 @@
 
 **[5:14]** And I wil plucke vp thy groues out of the middes of thee: so will I destroy thine enemies.
 
-**[5:15]** And I will execute a vegeance in my wrath and indignation vpon the heathen, which they haue not heard.  
+**[5:15]** And I will execute a vegeance in my wrath and indignation vpon the heathen, which they haue not heard.
 
 ### Chapter 6
 
@@ -47192,7 +47192,7 @@
 
 **[6:15]** Thou shalt sowe, but not reape: thou shalt treade the oliues, but thou shalt not anoint thee with oyle, and make sweete wine, but shalt not drinke wine.
 
-**[6:16]** For the statutes of Omri are kept, and all the maner of the house of Ahab, and ye walke in their counsels, that I should make thee waste, and the inhabitants thereof an hissing: therefore ye shall beare the reproche of my people.  
+**[6:16]** For the statutes of Omri are kept, and all the maner of the house of Ahab, and ye walke in their counsels, that I should make thee waste, and the inhabitants thereof an hissing: therefore ye shall beare the reproche of my people.
 
 ### Chapter 7
 
@@ -47234,7 +47234,7 @@
 
 **[7:19]** He will turne againe, and haue compassion vpon vs: he will subdue our iniquities, and cast all their sinnes into the bottome of the sea.
 
-**[7:20]** Thou wilt perfourme thy trueth to Iaakob, and mercie to Abraham, as thou hast sworne vnto our fathers in olde time.   
+**[7:20]** Thou wilt perfourme thy trueth to Iaakob, and mercie to Abraham, as thou hast sworne vnto our fathers in olde time.
 
 ## Nahum
 
@@ -47268,7 +47268,7 @@
 
 **[1:14]** And the Lord hath giuen a commandement concerning thee, that no more of thy name be sowen: out of the house of thy gods will I cut off the grauen, and the molten image: I will make it thy graue for thee, for thou art vile.
 
-**[1:15]** Beholde vpon the mountaines the feete of him that declareth, and publisheth peace: O Iudah, keepe thy solemne feastes, perfourme thy vowes: for the wicked shall no more passe thorowe thee: he is vtterly cut off.  
+**[1:15]** Beholde vpon the mountaines the feete of him that declareth, and publisheth peace: O Iudah, keepe thy solemne feastes, perfourme thy vowes: for the wicked shall no more passe thorowe thee: he is vtterly cut off.
 
 ### Chapter 2
 
@@ -47296,7 +47296,7 @@
 
 **[2:12]** The lyon did teare in pieces ynough for his whelpes, and woryed for his lyonesse, and filled his holes with praye, and his dennes with, spoyle.
 
-**[2:13]** Beholde, I come vnto thee, sayeth the Lord of hostes, and I will burne her charets in the smoke, and the sworde shall deuoure thy yong lyons, and I will cut off thy spoyle from the earth, and the voyce of thy messengers shall no more be heard.  
+**[2:13]** Beholde, I come vnto thee, sayeth the Lord of hostes, and I will burne her charets in the smoke, and the sworde shall deuoure thy yong lyons, and I will cut off thy spoyle from the earth, and the voyce of thy messengers shall no more be heard.
 
 ### Chapter 3
 
@@ -47336,7 +47336,7 @@
 
 **[3:18]** Thy shepheardes doe sleepe, O King of Asshur: thy strong men lie downe: thy people is scattered vpon the mountaines, and no man gathereth them.
 
-**[3:19]** There is no healing of thy wounde: thy plague is grieuous: all that heare the brute of thee, shall clap the handes ouer thee: for vpon whome hath not thy malice passed continually?   
+**[3:19]** There is no healing of thy wounde: thy plague is grieuous: all that heare the brute of thee, shall clap the handes ouer thee: for vpon whome hath not thy malice passed continually?
 
 ## Habakkuk
 
@@ -47374,7 +47374,7 @@
 
 **[1:16]** Therefore they sacrifice vnto their net, and burne incense vnto their yarne, because by them their portion is fat and their meat plenteous.
 
-**[1:17]** Shall they therefore stretch out their net and not spare continually to slay the nations?  
+**[1:17]** Shall they therefore stretch out their net and not spare continually to slay the nations?
 
 ### Chapter 2
 
@@ -47416,7 +47416,7 @@
 
 **[2:19]** Wo vnto him that sayth to the wood, Awake, and to the dumme stone, Rise vp, it shall teach thee: beholde, it is layde ouer with golde and siluer, and there is no breath in it.
 
-**[2:20]** But the Lord is in his holy Temple: let all the earth keepe silence before him.  
+**[2:20]** But the Lord is in his holy Temple: let all the earth keepe silence before him.
 
 ### Chapter 3
 
@@ -47456,7 +47456,7 @@
 
 **[3:18]** But I will reioyce in the Lord: I will ioy in the God of my saluation.
 
-**[3:19]** The Lord God is my strength: hee will make my feete like hindes feete, and he will make me to walke vpon mine hie places. To the chiefe singer on Neginothai.   
+**[3:19]** The Lord God is my strength: hee will make my feete like hindes feete, and he will make me to walke vpon mine hie places. To the chiefe singer on Neginothai.
 
 ## Zephaniah
 
@@ -47496,7 +47496,7 @@
 
 **[1:17]** And I will bring distresse vpon men, that they shall walke like blind men, because they haue sinned against the Lord, and their blood shall be powred out as dust, and their flesh as the dongue.
 
-**[1:18]** Neither their siluer nor their golde shalbe able to deliuer them in ye day of the Lords wrath, but the whole lande shalbe deuoured by the fire of his ielousie: for hee shall make euen a speedie riddance of all them that dwell in the land.  
+**[1:18]** Neither their siluer nor their golde shalbe able to deliuer them in ye day of the Lords wrath, but the whole lande shalbe deuoured by the fire of his ielousie: for hee shall make euen a speedie riddance of all them that dwell in the land.
 
 ### Chapter 2
 
@@ -47528,7 +47528,7 @@
 
 **[2:14]** And flockes shall lie in the middes of her, and all the beastes of the nations, and the pelicane, and the owle shall abide in the vpper postes of it: the voyce of birdes shall sing in the windowes, and desolations shalbe vpon the postes: for the cedars are vncouered.
 
-**[2:15]** This is the reioycing citie that dwelt carelesse, that said in her heart, I am, and there is none besides me: how is she made waste, and the lodging of the beastes! euery one that passeth by her, shall hisse and wagge his hand.  
+**[2:15]** This is the reioycing citie that dwelt carelesse, that said in her heart, I am, and there is none besides me: how is she made waste, and the lodging of the beastes! euery one that passeth by her, shall hisse and wagge his hand.
 
 ### Chapter 3
 
@@ -47570,7 +47570,7 @@
 
 **[3:19]** Beholde, at that time I will bruise all that afflict thee, and I will saue her that halteth, and gather her that was cast out, and I will get them praise and fame in all the landes of their shame.
 
-**[3:20]** At that time wil I bring you againe, and then wil I gather you: for I wil giue you a name and a praise among all people of the earth, when I turne backe your captiuitie before your eyes, saith the Lord.   
+**[3:20]** At that time wil I bring you againe, and then wil I gather you: for I wil giue you a name and a praise among all people of the earth, when I turne backe your captiuitie before your eyes, saith the Lord.
 
 ## Haggai
 
@@ -47602,7 +47602,7 @@
 
 **[1:13]** Then spake Haggai the Lords messenger in the Lords message vnto the people, saying, I am with you, sayth the Lord.
 
-**[1:14]** And the Lord stirred vp the spirite of Zerubbabel, the sonne of Shealtiel a prince of Iudah, and the spirit of Iehoshua the sonne of Iehozadak the hie Priest, and the spirit of all the remnant of the people, and they came, and did the worke in the House of the Lord of hostes their God.  
+**[1:14]** And the Lord stirred vp the spirite of Zerubbabel, the sonne of Shealtiel a prince of Iudah, and the spirit of Iehoshua the sonne of Iehozadak the hie Priest, and the spirit of all the remnant of the people, and they came, and did the worke in the House of the Lord of hostes their God.
 
 **[1:15]** 
 
@@ -47652,7 +47652,7 @@
 
 **[2:22]** Speake to Zerubbabel the prince of Iudah, and say, I wil shake the heauens and the earth,
 
-**[2:23]** And I will ouerthrowe the throne of kingdomes, and I wil destroy the strength of the kingdomes of the heathen, and I wil ouerthrowe the charets, and those that ride in them, and the horse and the riders shall come downe, euery one by the sword of his brother. In that day, saith the Lord of hostes, will I take thee, O Zerubbabel my seruant, the sonne of Shealtiel, sayth the Lord, and wil make thee as a signet: for I haue chosen thee, sayth the Lord of hostes.   
+**[2:23]** And I will ouerthrowe the throne of kingdomes, and I wil destroy the strength of the kingdomes of the heathen, and I wil ouerthrowe the charets, and those that ride in them, and the horse and the riders shall come downe, euery one by the sword of his brother. In that day, saith the Lord of hostes, will I take thee, O Zerubbabel my seruant, the sonne of Shealtiel, sayth the Lord, and wil make thee as a signet: for I haue chosen thee, sayth the Lord of hostes.
 
 ## Zechariah
 
@@ -47698,7 +47698,7 @@
 
 **[1:20]** And the Lord shewed me foure carpenters.
 
-**[1:21]** Then said I, What come these to doe? And he answered, and said, These are the hornes, which haue scattered Iudah, so that a man durst not lift vp his head: but these are come to fray them, and to cast out the hornes of the Gentiles, which lift vp their horne ouer the land of Iudah, to scatter it.  
+**[1:21]** Then said I, What come these to doe? And he answered, and said, These are the hornes, which haue scattered Iudah, so that a man durst not lift vp his head: but these are come to fray them, and to cast out the hornes of the Gentiles, which lift vp their horne ouer the land of Iudah, to scatter it.
 
 ### Chapter 2
 
@@ -47726,7 +47726,7 @@
 
 **[2:12]** And the Lord shall inherite Iudah his portion in the holy lande, and shall chuse Ierusalem againe.
 
-**[2:13]** Let all flesh be still before the Lord: for he is raised vp out of his holy place.  
+**[2:13]** Let all flesh be still before the Lord: for he is raised vp out of his holy place.
 
 ### Chapter 3
 
@@ -47748,7 +47748,7 @@
 
 **[3:9]** For loe, the stone that I haue layd before Iehoshua: vpon one stone shalbe seuen eyes: beholde, I will cut out the grauing thereof, saith the Lord of hostes, and I will take away the iniquitie of this land in one day.
 
-**[3:10]** In that day, saith the Lord of hostes, shall ye call euery man his neighbour vnder the vine, and vnder the figge tree.  
+**[3:10]** In that day, saith the Lord of hostes, shall ye call euery man his neighbour vnder the vine, and vnder the figge tree.
 
 ### Chapter 4
 
@@ -47778,7 +47778,7 @@
 
 **[4:13]** And hee answered me, and saide, Knowest thou not what these bee? And I sayde, No, my Lord.
 
-**[4:14]** Then said he, These are the two oliue branches, that stand with the ruler of the whole earth.  
+**[4:14]** Then said he, These are the two oliue branches, that stand with the ruler of the whole earth.
 
 ### Chapter 5
 
@@ -47802,7 +47802,7 @@
 
 **[5:10]** Then saide I to the Angel that talked with me, Whither doe these beare the Ephah?
 
-**[5:11]** And hee saide vnto mee, To builde it an house in the lande of Shinar, and it shall be established and set there vpon her owne place.  
+**[5:11]** And hee saide vnto mee, To builde it an house in the lande of Shinar, and it shall be established and set there vpon her owne place.
 
 ### Chapter 6
 
@@ -47834,7 +47834,7 @@
 
 **[6:14]** And the crownes shall be to Helem, and to Tobijah, and to Iedaiah, and to Hen the sonne of Zephaniah, for a memoriall in the Temple of the Lord.
 
-**[6:15]** And they that are farre off, shall come and build in the Temple of the Lord, and ye shall know, that the Lord of hostes hath sent me vnto you. And this shall come to passe, if ye will obey the voyce of the Lord your God.  
+**[6:15]** And they that are farre off, shall come and build in the Temple of the Lord, and ye shall know, that the Lord of hostes hath sent me vnto you. And this shall come to passe, if ye will obey the voyce of the Lord your God.
 
 ### Chapter 7
 
@@ -47864,7 +47864,7 @@
 
 **[7:13]** Therefore it is come to passe, that as he cried, and they would not heare, so they cried, and I would not heare, sayth the Lord of hostes.
 
-**[7:14]** But I scattered them among all the nations, whom they knew not: thus the land was desolate after them, that no man passed through nor returned: for they layd the pleasant land waste.  
+**[7:14]** But I scattered them among all the nations, whom they knew not: thus the land was desolate after them, that no man passed through nor returned: for they layd the pleasant land waste.
 
 ### Chapter 8
 
@@ -47912,7 +47912,7 @@
 
 **[8:22]** Yea, great people and mightie nations shall come to seeke the Lord of hostes in Ierusalem, and to pray before the Lord.
 
-**[8:23]** Thus sayth the Lord of hostes, In those dayes shall ten men take holde out of all languages of the nations, euen take holde of the skirt of him that is a Iewe, and say, We will go with you: for we haue heard that God is with you.  
+**[8:23]** Thus sayth the Lord of hostes, In those dayes shall ten men take holde out of all languages of the nations, euen take holde of the skirt of him that is a Iewe, and say, We will go with you: for we haue heard that God is with you.
 
 ### Chapter 9
 
@@ -47948,7 +47948,7 @@
 
 **[9:16]** And the Lord their God shall deliuer them in that day as the flocke of his people: for they shall be as the stones of the crowne lifted up upon his land.
 
-**[9:17]** For howe great is his goodnesse! and howe great is his beautie! corne shall make the yong men cherefull, and newe wine the maides.  
+**[9:17]** For howe great is his goodnesse! and howe great is his beautie! corne shall make the yong men cherefull, and newe wine the maides.
 
 ### Chapter 10
 
@@ -47974,7 +47974,7 @@
 
 **[10:11]** And he shall goe into the sea with affliction, and shall smite the waues in the sea, and all the depthes of the riuer shall drye vp: and the pride of Asshur shall be cast downe, and the scepter of Egypt shall depart away.
 
-**[10:12]** And I will strengthen them in the Lord, and they shall walke in his Name, sayth the Lord.  
+**[10:12]** And I will strengthen them in the Lord, and they shall walke in his Name, sayth the Lord.
 
 ### Chapter 11
 
@@ -48010,7 +48010,7 @@
 
 **[11:16]** For loe, I will rayse vp a shepheard in the land, which shall not looke for the thing, that is lost, nor seeke the tender lambes, nor heale that that is hurt, nor feede that that standeth vp: but he shall eate the flesh of the fat, and teare their clawes in pieces.
 
-**[11:17]** O idole shepheard that leaueth the flocke: the sword shalbe vpon his arme, and vpon his right eye. His arme shall be cleane dryed vp, and his right eye shall be vtterly darkened.  
+**[11:17]** O idole shepheard that leaueth the flocke: the sword shalbe vpon his arme, and vpon his right eye. His arme shall be cleane dryed vp, and his right eye shall be vtterly darkened.
 
 ### Chapter 12
 
@@ -48040,7 +48040,7 @@
 
 **[12:13]** The familie of the house of Leui apart, and their wiues apart: the familie of Shemei apart, and their wiues apart:
 
-**[12:14]** All the families that remaine, euery familie apart, and their wiues apart.  
+**[12:14]** All the families that remaine, euery familie apart, and their wiues apart.
 
 ### Chapter 13
 
@@ -48060,7 +48060,7 @@
 
 **[13:8]** And in all the land, sayeth the Lord, two partes therein shall be cut off, and die: but the third shall be left therein.
 
-**[13:9]** And I will bring that third part thorowe the fire, and will fine them as the siluer is fined, and will trye them as golde is tryed: they shall call on my Name, and I will heare them: I will say, It is my people, and they shall say, The Lord is my God.  
+**[13:9]** And I will bring that third part thorowe the fire, and will fine them as the siluer is fined, and will trye them as golde is tryed: they shall call on my Name, and I will heare them: I will say, It is my people, and they shall say, The Lord is my God.
 
 ### Chapter 14
 
@@ -48104,7 +48104,7 @@
 
 **[14:20]** In that day shall there be written vpon the bridles of the horses, The holinesse vnto the Lord, and the pottes in the Lords house shall be like the bowles before the altar.
 
-**[14:21]** Yea, euery potte in Ierusalem and Iudah shall be holy vnto the Lord of hostes, and all they that sacrifice, shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the House of the Lord of hostes.   
+**[14:21]** Yea, euery potte in Ierusalem and Iudah shall be holy vnto the Lord of hostes, and all they that sacrifice, shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the House of the Lord of hostes.
 
 ## Malachi
 
@@ -48136,7 +48136,7 @@
 
 **[1:13]** Ye said also, Beholde, it is a wearines, and ye haue snuffed at it, sayth the Lord of hostes, and ye offred that which was torne, and the lame and the sicke: thus yee offred an offring: shoulde I accept this of your hand, sayth the Lord?
 
-**[1:14]** But cursed be the deceiuer, which hath in his flocke a male, and voweth, and sacrificeth vnto ye Lord a corrupt thing: for I am a great King, sayth the Lord of hostes, and my Name is terrible among the heathen.  
+**[1:14]** But cursed be the deceiuer, which hath in his flocke a male, and voweth, and sacrificeth vnto ye Lord a corrupt thing: for I am a great King, sayth the Lord of hostes, and my Name is terrible among the heathen.
 
 ### Chapter 2
 
@@ -48172,7 +48172,7 @@
 
 **[2:16]** If thou hatest her, put her away, sayeth the Lord God of Israel, yet he couereth the iniurie vnder his garment, saieth the Lord of hosts: therefore keepe your selues in your spirite, and transgresse not.
 
-**[2:17]** Yee haue wearied the Lord with your woordes: yet yee say, Wherein haue we wearied him? When ye say, Euery one that doeth euill, is good in the sight of the Lord, and he deliteth in them. Or where is the God of iudgement?  
+**[2:17]** Yee haue wearied the Lord with your woordes: yet yee say, Wherein haue we wearied him? When ye say, Euery one that doeth euill, is good in the sight of the Lord, and he deliteth in them. Or where is the God of iudgement?
 
 ### Chapter 3
 
@@ -48210,7 +48210,7 @@
 
 **[3:17]** And they shall be to me, sayeth the Lord of hostes, in that day that I shall do this, for a flocke, and I will spare them, as a man spareth his owne sonne that serueth him.
 
-**[3:18]** Then shall you returne, and discerne betweene the righteous and wicked, betweene him that serueth God, and him that serueth him not.  
+**[3:18]** Then shall you returne, and discerne betweene the righteous and wicked, betweene him that serueth God, and him that serueth him not.
 
 ### Chapter 4
 
@@ -48224,7 +48224,7 @@
 
 **[4:5]** Beholde, I will sende you Eliiah the Prophet before the comming of the great and fearefull day of the Lord.
 
-**[4:6]** And he shall turne the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with cursing.   
+**[4:6]** And he shall turne the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with cursing.
 
 ## Matthew
 
@@ -48278,7 +48278,7 @@
 
 **[1:24]** Then Ioseph, being raised from sleepe, did as the Angel of the Lord had inioyned him, and tooke his wife.
 
-**[1:25]** But he knew her not, til she had broght forth her first borne sonne, and he called his name JESUS.  
+**[1:25]** But he knew her not, til she had broght forth her first borne sonne, and he called his name JESUS.
 
 ### Chapter 2
 
@@ -48326,7 +48326,7 @@
 
 **[2:22]** But whe he heard that Archelaus did reigne in Iudea in stead of his father Herod, he was afraide to go thither: yet after he was warned of God in a dreame, he turned aside into the parts of Galile,
 
-**[2:23]** And went and dwelt in a citie called Nazareth, that it might be fulfilled which was spoken by the Prophets, which was, That hee should be called a Nazarite.  
+**[2:23]** And went and dwelt in a citie called Nazareth, that it might be fulfilled which was spoken by the Prophets, which was, That hee should be called a Nazarite.
 
 ### Chapter 3
 
@@ -48362,7 +48362,7 @@
 
 **[3:16]** And Iesus when hee was baptized, came straight out of the water. And lo, the heaues were opened vnto him, and Iohn saw the Spirit of God descending like a doue, and lighting vpon him.
 
-**[3:17]** And loe, a voyce came from heauen, saying, This is my beloued Sonne, in whome I am well pleased.  
+**[3:17]** And loe, a voyce came from heauen, saying, This is my beloued Sonne, in whome I am well pleased.
 
 ### Chapter 4
 
@@ -48414,7 +48414,7 @@
 
 **[4:24]** And his fame spread abroad through all Syria: and they brought vnto him all sicke people, that were taken with diuers diseases and torments, and them that were possessed with deuils, and those which were lunatike, and those that had the palsey: and he healed them.
 
-**[4:25]** And there folowed him great multitudes out of Galile, and Decapolis, and Hierusalem, and Iudea, and from beyond Iordan.  
+**[4:25]** And there folowed him great multitudes out of Galile, and Decapolis, and Hierusalem, and Iudea, and from beyond Iordan.
 
 ### Chapter 5
 
@@ -48512,7 +48512,7 @@
 
 **[5:47]** And if ye be friendly to your brethren onely, what singular thing doe ye? doe not euen the Publicanes likewise?
 
-**[5:48]** Ye shall therefore be perfit, as your Father which is in heauen, is perfite.  
+**[5:48]** Ye shall therefore be perfit, as your Father which is in heauen, is perfite.
 
 ### Chapter 6
 
@@ -48582,7 +48582,7 @@
 
 **[6:33]** But seeke ye first the kingdome of God, and his righteousnesse, and all these things shall be ministred vnto you.
 
-**[6:34]** Care not then for the morowe: for the morowe shall care for it selfe: the day hath ynough with his owne griefe.  
+**[6:34]** Care not then for the morowe: for the morowe shall care for it selfe: the day hath ynough with his owne griefe.
 
 ### Chapter 7
 
@@ -48642,7 +48642,7 @@
 
 **[7:28]** And it came to passe, when Iesus had ended these wordes, the people were astonied at his doctrine.
 
-**[7:29]** For he taught them as one hauing authoritie, and not as the Scribes.  
+**[7:29]** For he taught them as one hauing authoritie, and not as the Scribes.
 
 ### Chapter 8
 
@@ -48712,7 +48712,7 @@
 
 **[8:33]** Then the heardmen fled: and when they were come into the citie, they tolde all things, and what was become of them that were possessed with the deuils.
 
-**[8:34]** And beholde, all ye citie came out to meete Iesus: and when they sawe him, they besought him to depart out of their coastes.  
+**[8:34]** And beholde, all ye citie came out to meete Iesus: and when they sawe him, they besought him to depart out of their coastes.
 
 ### Chapter 9
 
@@ -48790,7 +48790,7 @@
 
 **[9:37]** Then saide he to his disciples, Surely the haruest is great, but the labourers are fewe.
 
-**[9:38]** Wherefore pray the Lord of the haruest, that he woulde sende foorth labourers into his haruest.  
+**[9:38]** Wherefore pray the Lord of the haruest, that he woulde sende foorth labourers into his haruest.
 
 ### Chapter 10
 
@@ -48876,7 +48876,7 @@
 
 **[10:41]** Hee that receiueth a Prophet in the name of a Prophet, shall receiue a Prophetes rewarde: and hee that receiueth a righteous man, in the name of a righteous man, shall receiue the rewarde of a righteous man.
 
-**[10:42]** And whosoeuer shall giue vnto one of these litle ones to drinke a cuppe of colde water onely, in the name of a disciple, verely I say vnto you, he shall not lose his rewarde.  
+**[10:42]** And whosoeuer shall giue vnto one of these litle ones to drinke a cuppe of colde water onely, in the name of a disciple, verely I say vnto you, he shall not lose his rewarde.
 
 ### Chapter 11
 
@@ -48938,7 +48938,7 @@
 
 **[11:29]** Take my yoke on you, and learne of me that I am meeke and lowly in heart: and ye shall finde rest vnto your soules.
 
-**[11:30]** For my yoke is easie, and my burden light.  
+**[11:30]** For my yoke is easie, and my burden light.
 
 ### Chapter 12
 
@@ -49040,7 +49040,7 @@
 
 **[12:49]** And he stretched foorth his hand toward his disciples, and said, Beholde my mother and my brethren.
 
-**[12:50]** For whosoeuer shall doe my Fathers will which is in heauen, the same is my brother and sister and mother.  
+**[12:50]** For whosoeuer shall doe my Fathers will which is in heauen, the same is my brother and sister and mother.
 
 ### Chapter 13
 
@@ -49158,7 +49158,7 @@
 
 **[13:57]** And they were offended with him. Then Iesus said to them, A Prophet is not without honour, saue in his owne countrey, and in his owne house.
 
-**[13:58]** And he did not many great woorkes there, for their vnbeliefes sake.  
+**[13:58]** And he did not many great woorkes there, for their vnbeliefes sake.
 
 ### Chapter 14
 
@@ -49232,7 +49232,7 @@
 
 **[14:35]** And when the men of that place knewe him, they sent out into all that countrey rounde about, and brought vnto him all that were sicke,
 
-**[14:36]** And besought him, that they might touch the hemme of his garment onely: and as many as touched it, were made whole.  
+**[14:36]** And besought him, that they might touch the hemme of his garment onely: and as many as touched it, were made whole.
 
 ### Chapter 15
 
@@ -49312,7 +49312,7 @@
 
 **[15:38]** And they that had eaten, were foure thousand men, beside women, and litle children.
 
-**[15:39]** Then Iesus sent away the multitude, and tooke ship, and came into the partes of Magdala.  
+**[15:39]** Then Iesus sent away the multitude, and tooke ship, and came into the partes of Magdala.
 
 ### Chapter 16
 
@@ -49370,7 +49370,7 @@
 
 **[16:27]** For the Sonne of man shall come in the glory of his Father with his Angels, and then shall he giue to euery man according to his deedes.
 
-**[16:28]** Verely I say vnto you, there bee some of them that stande here, which shall not taste of death, till they haue seene the Sonne of man come in his kingdome.  
+**[16:28]** Verely I say vnto you, there bee some of them that stande here, which shall not taste of death, till they haue seene the Sonne of man come in his kingdome.
 
 ### Chapter 17
 
@@ -49426,7 +49426,7 @@
 
 **[17:26]** Peter sayd vnto him, Of strangers. Then said Iesus vnto him, Then are the children free.
 
-**[17:27]** Neuerthelesse, lest we should offend them: goe to the sea, and cast in an angle, and take the first fish that commeth vp, and when thou hast opened his mouth, thou shalt finde a piece of twentie pence: that take, and giue it vnto them for me and thee.  
+**[17:27]** Neuerthelesse, lest we should offend them: goe to the sea, and cast in an angle, and take the first fish that commeth vp, and when thou hast opened his mouth, thou shalt finde a piece of twentie pence: that take, and giue it vnto them for me and thee.
 
 ### Chapter 18
 
@@ -49498,7 +49498,7 @@
 
 **[18:34]** So his Lord was wroth, and deliuered him to the tormentours, till he should pay all that was due to him.
 
-**[18:35]** So likewise shall mine heauenly Father doe vnto you, except ye forgiue from your hearts, eche one to his brother their trespasses.  
+**[18:35]** So likewise shall mine heauenly Father doe vnto you, except ye forgiue from your hearts, eche one to his brother their trespasses.
 
 ### Chapter 19
 
@@ -49560,7 +49560,7 @@
 
 **[19:29]** And whosoeuer shall forsake houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my Names sake, he shall receiue an hundreth folde more, and shall inherite euerlasting life.
 
-**[19:30]** But many that are first, shalbe last, and the last shalbe first.  
+**[19:30]** But many that are first, shalbe last, and the last shalbe first.
 
 ### Chapter 20
 
@@ -49630,7 +49630,7 @@
 
 **[20:33]** They saide to him, Lord, that our eyes may be opened.
 
-**[20:34]** And Iesus mooued with compassion, touched their eyes, and immediatly their eyes receiued sight, and they followed him.  
+**[20:34]** And Iesus mooued with compassion, touched their eyes, and immediatly their eyes receiued sight, and they followed him.
 
 ### Chapter 21
 
@@ -49724,7 +49724,7 @@
 
 **[21:45]** And when the chiefe Priestes and Pharises had heard his parables, they perceiued that hee spake of them.
 
-**[21:46]** And they seeking to laye handes on him, feared the people, because they tooke him as a Prophet.  
+**[21:46]** And they seeking to laye handes on him, feared the people, because they tooke him as a Prophet.
 
 ### Chapter 22
 
@@ -49818,7 +49818,7 @@
 
 **[22:45]** If then Dauid call him Lord, howe is he his sonne?
 
-**[22:46]** And none could answere him a worde, neither durst any from that day foorth aske him any moe questions.  
+**[22:46]** And none could answere him a worde, neither durst any from that day foorth aske him any moe questions.
 
 ### Chapter 23
 
@@ -49898,7 +49898,7 @@
 
 **[23:38]** Beholde, your habitation shalbe left vnto you desolate,
 
-**[23:39]** For I say vnto you, ye shall not see mee henceforth till that ye say, Blessed is he that commeth in the Name of the Lord.  
+**[23:39]** For I say vnto you, ye shall not see mee henceforth till that ye say, Blessed is he that commeth in the Name of the Lord.
 
 ### Chapter 24
 
@@ -50002,7 +50002,7 @@
 
 **[24:50]** That seruaunts master will come in a day, when he looketh not for him, and in an houre that he is not ware of,
 
-**[24:51]** And will cut him off, and giue him his portion with hypocrites: there shalbe weeping, and gnashing of teeth.  
+**[24:51]** And will cut him off, and giue him his portion with hypocrites: there shalbe weeping, and gnashing of teeth.
 
 ### Chapter 25
 
@@ -50096,7 +50096,7 @@
 
 **[25:45]** Then shall he answere them, and say, Verely I say vnto you, in as much as ye did it not to one of the least of these, ye did it not to me.
 
-**[25:46]** And these shall goe into euerlasting paine, and the righteous into life eternall.  
+**[25:46]** And these shall goe into euerlasting paine, and the righteous into life eternall.
 
 ### Chapter 26
 
@@ -50248,7 +50248,7 @@
 
 **[26:74]** Then began hee to curse himselfe, and to sweare, saying, I knowe not the man. And immediately the cocke crewe.
 
-**[26:75]** Then Peter remembred the wordes of Iesus, which had sayde vnto him, Before the cocke crowe thou shalt denie me thrise. So he went out, and wept bitterly.  
+**[26:75]** Then Peter remembred the wordes of Iesus, which had sayde vnto him, Before the cocke crowe thou shalt denie me thrise. So he went out, and wept bitterly.
 
 ### Chapter 27
 
@@ -50382,7 +50382,7 @@
 
 **[27:65]** Then Pilate saide vnto them, Ye haue a watch: goe, and make it sure as ye knowe.
 
-**[27:66]** And they went, and made the sepulchre sure with the watch, and sealed the stone.  
+**[27:66]** And they went, and made the sepulchre sure with the watch, and sealed the stone.
 
 ### Chapter 28
 
@@ -50424,7 +50424,7 @@
 
 **[28:19]** Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,
 
-**[28:20]** Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.   
+**[28:20]** Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.
 
 ## Mark
 
@@ -50518,7 +50518,7 @@
 
 **[1:44]** And sayde vnto him, See thou say nothing to any man, but get thee hence, and shewe thy selfe to the Priest, and offer for thy clensing those things, which Moses commanded, for a testimoniall vnto them.
 
-**[1:45]** But when he was departed, hee began to tel many things, and to publish the matter: so that Iesus could no more openly enter into the citie, but was without in desert places: and they came to him from euery quarter.  
+**[1:45]** But when he was departed, hee began to tel many things, and to publish the matter: so that Iesus could no more openly enter into the citie, but was without in desert places: and they came to him from euery quarter.
 
 ### Chapter 2
 
@@ -50576,7 +50576,7 @@
 
 **[2:27]** And hee sayde to them, The Sabbath was made for man, and not man for the Sabbath.
 
-**[2:28]** Wherefore the Sonne of man is Lord, euen of the Sabbath.  
+**[2:28]** Wherefore the Sonne of man is Lord, euen of the Sabbath.
 
 ### Chapter 3
 
@@ -50648,7 +50648,7 @@
 
 **[3:34]** And hee looked rounde about on them, which sate in compasse about him, and saide, Beholde my mother and my brethren.
 
-**[3:35]** For whosoeuer doeth the will of God, he is my brother, and my sister, and mother.  
+**[3:35]** For whosoeuer doeth the will of God, he is my brother, and my sister, and mother.
 
 ### Chapter 4
 
@@ -50732,7 +50732,7 @@
 
 **[4:40]** Then he saide vnto them, Why are ye so fearefull? how is it that ye haue no faith?
 
-**[4:41]** And they feared exceedingly, and said one to another, Who is this, that both the winde and sea obey him?  
+**[4:41]** And they feared exceedingly, and said one to another, Who is this, that both the winde and sea obey him?
 
 ### Chapter 5
 
@@ -50820,7 +50820,7 @@
 
 **[5:42]** And straightway the mayden arose, and walked: for shee was of the age of twelue yeeres, and they were astonied out of measure.
 
-**[5:43]** And he charged them straitly that no man should knowe of it, and commanded to giue her meate.  
+**[5:43]** And he charged them straitly that no man should knowe of it, and commanded to giue her meate.
 
 ### Chapter 6
 
@@ -50934,7 +50934,7 @@
 
 **[6:55]** And ran about throughout all that region round about, and began to cary hither and thither in couches all that were sicke, where they heard that he was.
 
-**[6:56]** And whithersoeuer he entred into townes, or cities, or villages, they laide their sicke in the streetes, and prayed him that they might touch at the least the edge of his garment. And as many as touched him, were made whole.  
+**[6:56]** And whithersoeuer he entred into townes, or cities, or villages, they laide their sicke in the streetes, and prayed him that they might touch at the least the edge of his garment. And as many as touched him, were made whole.
 
 ### Chapter 7
 
@@ -51010,7 +51010,7 @@
 
 **[7:36]** And he commanded them, that they should tell no man: but howe much soeuer hee forbad them, the more a great deale they published it,
 
-**[7:37]** And were beyonde measure astonied, saying, Hee hath done all thinges well: he maketh both the deafe to heare, and the domme to speake.  
+**[7:37]** And were beyonde measure astonied, saying, Hee hath done all thinges well: he maketh both the deafe to heare, and the domme to speake.
 
 ### Chapter 8
 
@@ -51088,7 +51088,7 @@
 
 **[8:37]** Or what exchange shall a man giue for his soule?
 
-**[8:38]** For whosoeuer shall be ashamed of mee, and of my wordes among this adulterous and sinfull generation, of him shall the Sonne of man be ashamed also, when he commeth in the glorie of his Father with the holy Angels.  
+**[8:38]** For whosoeuer shall be ashamed of mee, and of my wordes among this adulterous and sinfull generation, of him shall the Sonne of man be ashamed also, when he commeth in the glorie of his Father with the holy Angels.
 
 ### Chapter 9
 
@@ -51190,7 +51190,7 @@
 
 **[9:49]** For euery man shalbe salted with fire: and euery sacrifice shalbe salted with salt.
 
-**[9:50]** Salt is good: but if the salt be vnsauerie, wherewith shall it be seasoned? haue salt in your selues, and haue peace one with another.  
+**[9:50]** Salt is good: but if the salt be vnsauerie, wherewith shall it be seasoned? haue salt in your selues, and haue peace one with another.
 
 ### Chapter 10
 
@@ -51296,7 +51296,7 @@
 
 **[10:51]** And Iesus answered, and said vnto him, What wilt thou that I doe vnto thee? And the blinde sayd vnto him, Lord, that I may receiue sight.
 
-**[10:52]** Then Iesus sayde vnto him, Goe thy way: thy fayth hath saued thee. And by and by, he receiued his sight, and folowed Iesus in the way.  
+**[10:52]** Then Iesus sayde vnto him, Goe thy way: thy fayth hath saued thee. And by and by, he receiued his sight, and folowed Iesus in the way.
 
 ### Chapter 11
 
@@ -51364,7 +51364,7 @@
 
 **[11:32]** But if we say, Of men, we feare the people: for all men counted Iohn, that he was a Prophet in deede.
 
-**[11:33]** Then they answered, and saide vnto Iesus, We cannot tell. And Iesus answered, and said vnto them, Neither will I tell you by what authoritie I doe these things.  
+**[11:33]** Then they answered, and saide vnto Iesus, We cannot tell. And Iesus answered, and said vnto them, Neither will I tell you by what authoritie I doe these things.
 
 ### Chapter 12
 
@@ -51454,7 +51454,7 @@
 
 **[12:43]** Then he called vnto him his disciples, and said vnto them, Verely I say vnto you, that this poore widowe hath cast more in, then all they which haue cast into the treasurie.
 
-**[12:44]** For they all did cast in of their superfluitie: but she of her pouertie did cast in all that she had, euen all her liuing.  
+**[12:44]** For they all did cast in of their superfluitie: but she of her pouertie did cast in all that she had, euen all her liuing.
 
 ### Chapter 13
 
@@ -51530,7 +51530,7 @@
 
 **[13:36]** Least if he come suddenly, he should finde you sleeping.
 
-**[13:37]** And those things that I say vnto you, I say vnto all men, Watch.  
+**[13:37]** And those things that I say vnto you, I say vnto all men, Watch.
 
 ### Chapter 14
 
@@ -51676,7 +51676,7 @@
 
 **[14:71]** And he began to curse, and sweare, saying, I knowe not this man of whom ye speake.
 
-**[14:72]** Then the seconde time the cocke crewe, and Peter remembred the woorde that Iesus had saide vnto him, Before the cocke crowe twise, thou shalt denie me thrise, and waying that with himselfe, he wept.  
+**[14:72]** Then the seconde time the cocke crewe, and Peter remembred the woorde that Iesus had saide vnto him, Before the cocke crowe twise, thou shalt denie me thrise, and waying that with himselfe, he wept.
 
 ### Chapter 15
 
@@ -51772,7 +51772,7 @@
 
 **[15:46]** Who bought a linnen cloth, and tooke him downe, and wrapped him in the linnen cloth, and laide him in a tombe that was hewen out of a rocke, and rolled a stone vnto the doore of the sepulchre:
 
-**[15:47]** And Marie Magdalene, and Marie Ioses mother, behelde where he should be layed.  
+**[15:47]** And Marie Magdalene, and Marie Ioses mother, behelde where he should be layed.
 
 ### Chapter 16
 
@@ -51814,7 +51814,7 @@
 
 **[16:19]** So after ye Lord had spoken vnto them, he was receiued into heauen, and sate at the right hand of God.
 
-**[16:20]** And they went foorth, and preached euery where. And the Lord wrought with them, and confirmed the worde with signes that folowed. Amen.   
+**[16:20]** And they went foorth, and preached euery where. And the Lord wrought with them, and confirmed the worde with signes that folowed. Amen.
 
 ## Luke
 
@@ -51978,7 +51978,7 @@
 
 **[1:79]** To giue light to them that sit in darknes, and in the shadow of death, and to guide our feete into the way of peace.
 
-**[1:80]** And the childe grewe, and waxed strong in spirit, and was in the wildernesse, til the day came that he should shewe him selfe vnto Israel.  
+**[1:80]** And the childe grewe, and waxed strong in spirit, and was in the wildernesse, til the day came that he should shewe him selfe vnto Israel.
 
 ### Chapter 2
 
@@ -52084,7 +52084,7 @@
 
 **[2:51]** Then hee went downe with them, and came to Nazareth, and was subiect to them: and his mother kept all these sayings in her heart.
 
-**[2:52]** And Iesus increased in wisedome, and stature, and in fauour with God and men.  
+**[2:52]** And Iesus increased in wisedome, and stature, and in fauour with God and men.
 
 ### Chapter 3
 
@@ -52162,7 +52162,7 @@
 
 **[3:37]** The sonne of Mathusala, the sonne of Enoch, the sonne of Iared, the sonne of Maleleel, the sonne of Cainan,
 
-**[3:38]** The sonne of Enos, the sonne of Seth, the sonne of Adam, the sonne of God.  
+**[3:38]** The sonne of Enos, the sonne of Seth, the sonne of Adam, the sonne of God.
 
 ### Chapter 4
 
@@ -52252,7 +52252,7 @@
 
 **[4:43]** But he sayd vnto them, Surely I must also preach the kingdome of God to other cities: for therefore am I sent.
 
-**[4:44]** And hee preached in the Synagogues of Galile.  
+**[4:44]** And hee preached in the Synagogues of Galile.
 
 ### Chapter 5
 
@@ -52332,7 +52332,7 @@
 
 **[5:38]** But newe wine must be powred into newe vessels: so both are preserued.
 
-**[5:39]** Also no man that drinketh olde wine, straightway desireth newe: for he sayth, The olde is more profitable.  
+**[5:39]** Also no man that drinketh olde wine, straightway desireth newe: for he sayth, The olde is more profitable.
 
 ### Chapter 6
 
@@ -52432,7 +52432,7 @@
 
 **[6:48]** He is like a man which built an house, and digged deepe, and layde the fundation on a rocke: and when the waters arose, the flood beat vpon that house, and coulde not shake it: for it was grounded vpon a rocke.
 
-**[6:49]** But hee that heareth and doeth not, is like a man that built an house vpon the earth without foundation, against which the flood did beate, and it fell by and by: and the fall of that house was great.  
+**[6:49]** But hee that heareth and doeth not, is like a man that built an house vpon the earth without foundation, against which the flood did beate, and it fell by and by: and the fall of that house was great.
 
 ### Chapter 7
 
@@ -52534,7 +52534,7 @@
 
 **[7:49]** And they that sate at table with him, began to say within themselues, Who is this that euen forgiueth sinnes?
 
-**[7:50]** And he said to the woman, Thy faith hath saued thee: goe in peace.  
+**[7:50]** And he said to the woman, Thy faith hath saued thee: goe in peace.
 
 ### Chapter 8
 
@@ -52648,7 +52648,7 @@
 
 **[8:55]** And her spirite came againe, and she rose straightway: and he comanded to giue her meate.
 
-**[8:56]** Then her parents were astonied: but hee commanded them that they should tell no man what was done.  
+**[8:56]** Then her parents were astonied: but hee commanded them that they should tell no man what was done.
 
 ### Chapter 9
 
@@ -52774,7 +52774,7 @@
 
 **[9:61]** Then another saide, I will follow thee, Lord: but let me first go bid them farewell, which are at mine house.
 
-**[9:62]** And Iesus saide vnto him, No man that putteth his hand to the plough, and looketh backe, is apt to the kingdome of God.  
+**[9:62]** And Iesus saide vnto him, No man that putteth his hand to the plough, and looketh backe, is apt to the kingdome of God.
 
 ### Chapter 10
 
@@ -52860,7 +52860,7 @@
 
 **[10:41]** And Iesus answered, and said vnto her, Martha, Martha, thou carest, and art troubled about many things:
 
-**[10:42]** But one thing is needefull, Marie hath chosen the good part, which shall not be taken away from her.  
+**[10:42]** But one thing is needefull, Marie hath chosen the good part, which shall not be taken away from her.
 
 ### Chapter 11
 
@@ -52970,7 +52970,7 @@
 
 **[11:53]** And as he sayde these things vnto them, the Scribes and Pharises began to vrge him sore, and to prouoke him to speake of many things,
 
-**[11:54]** Laying wait for him, and seeking to catche some thing of his mouth, whereby they might accuse him.  
+**[11:54]** Laying wait for him, and seeking to catche some thing of his mouth, whereby they might accuse him.
 
 ### Chapter 12
 
@@ -53090,7 +53090,7 @@
 
 **[12:58]** While thou goest with thine aduersarie to the ruler, as thou art in the way, giue diligence in the way, that thou mayest be deliuered from him, least he drawe thee to the iudge, and the iudge deliuer thee to the iayler, and the iayler cast thee into prison.
 
-**[12:59]** I tell thee, thou shalt not depart thence, till thou hast payed the vtmost mite.  
+**[12:59]** I tell thee, thou shalt not depart thence, till thou hast payed the vtmost mite.
 
 ### Chapter 13
 
@@ -53162,7 +53162,7 @@
 
 **[13:34]** O Hierusalem, Hierusalem, which killest the Prophets, and stonest them that are sent to thee, howe often would I haue gathered thy children together, as the henne gathereth her brood vnder her wings, and ye would not!
 
-**[13:35]** Beholde, your house is left vnto you desolate: and verely I tell you, ye shall not see me vntill the time come that ye shall say, Blessed is he that commeth in the Name of the Lord.  
+**[13:35]** Beholde, your house is left vnto you desolate: and verely I tell you, ye shall not see me vntill the time come that ye shall say, Blessed is he that commeth in the Name of the Lord.
 
 ### Chapter 14
 
@@ -53234,7 +53234,7 @@
 
 **[14:34]** Salt is good: but if salt haue lost his sauour, wherewith shall it be salted?
 
-**[14:35]** It is neither meete for the land, nor yet for the dunghill, but men cast it out. He that hath eares to heare, let him heare.  
+**[14:35]** It is neither meete for the land, nor yet for the dunghill, but men cast it out. He that hath eares to heare, let him heare.
 
 ### Chapter 15
 
@@ -53298,7 +53298,7 @@
 
 **[15:30]** But when this thy sonne was come, which hath deuoured thy good with harlots, thou hast for his sake killed the fat calfe.
 
-**[15:31]** And he said vnto him, Sonne, thou art euer with me, and al that I haue, is thine. It was meete that we shoulde make merie, and be glad: for this thy brother was dead, and is aliue againe: and hee was lost, but he is found.  
+**[15:31]** And he said vnto him, Sonne, thou art euer with me, and al that I haue, is thine. It was meete that we shoulde make merie, and be glad: for this thy brother was dead, and is aliue againe: and hee was lost, but he is found.
 
 **[15:32]** 
 
@@ -53364,7 +53364,7 @@
 
 **[16:30]** And he sayde, Nay, father Abraham: but if one came vnto them from the dead, they will amend their liues.
 
-**[16:31]** Then he saide vnto him, If they heare not Moses and the Prophets, neither will they be persuaded, though one rise from the dead againe.  
+**[16:31]** Then he saide vnto him, If they heare not Moses and the Prophets, neither will they be persuaded, though one rise from the dead againe.
 
 ### Chapter 17
 
@@ -53440,7 +53440,7 @@
 
 **[17:36]** Two shalbe in the fielde: one shalbe receiued, and another shalbe left.
 
-**[17:37]** And they answered, and saide to him, Where, Lord? And he said vnto them, Wheresoeuer the body is, thither shall also the eagles bee gathered together.  
+**[17:37]** And they answered, and saide to him, Where, Lord? And he said vnto them, Wheresoeuer the body is, thither shall also the eagles bee gathered together.
 
 ### Chapter 18
 
@@ -53528,7 +53528,7 @@
 
 **[18:42]** And Iesus said vnto him, Receiue thy sight: thy faith hath saued thee.
 
-**[18:43]** Then immediatly he receiued his sight, and followed him, praysing God: and all the people, when they sawe this, gaue praise to God.  
+**[18:43]** Then immediatly he receiued his sight, and followed him, praysing God: and all the people, when they sawe this, gaue praise to God.
 
 ### Chapter 19
 
@@ -53626,7 +53626,7 @@
 
 **[19:47]** And he taught dayly in the Temple. And the hie Priests and the Scribes, and the chiefe of the people sought to destroy him.
 
-**[19:48]** But they could not finde what they might doe to him: for all the people hanged vpon him when they heard him.  
+**[19:48]** But they could not finde what they might doe to him: for all the people hanged vpon him when they heard him.
 
 ### Chapter 20
 
@@ -53722,7 +53722,7 @@
 
 **[20:46]** Beware of the Scribes, which willingly go in long robes, and loue salutations in the markets, and the highest seates in the assemblies, and the chiefe roomes at feastes:
 
-**[20:47]** Which deuoure widowes houses, and in shewe make long prayers: These shall receiue greater damnation.  
+**[20:47]** Which deuoure widowes houses, and in shewe make long prayers: These shall receiue greater damnation.
 
 ### Chapter 21
 
@@ -53800,7 +53800,7 @@
 
 **[21:37]** Nowe in the day time hee taught in the Temple, and at night hee went out, and abode in the mount that is called the mount of Oliues.
 
-**[21:38]** And all the people came in the morning to him, to heare him in the Temple.  
+**[21:38]** And all the people came in the morning to him, to heare him in the Temple.
 
 ### Chapter 22
 
@@ -53944,7 +53944,7 @@
 
 **[22:70]** Then sayd they all, Art thou then ye Sonne of God? And he sayd to them, Ye say, that I am.
 
-**[22:71]** Then sayd they, What neede we any further witnes? for we our selues haue heard it of his owne mouth.  
+**[22:71]** Then sayd they, What neede we any further witnes? for we our selues haue heard it of his owne mouth.
 
 ### Chapter 23
 
@@ -54058,7 +54058,7 @@
 
 **[23:55]** And the women also that followed after, which came with him from Galile, behelde the sepulchre, and how his body was layd.
 
-**[23:56]** And they returned and prepared odours, and ointments, and rested the Sabbath day according to the commandement.  
+**[23:56]** And they returned and prepared odours, and ointments, and rested the Sabbath day according to the commandement.
 
 ### Chapter 24
 
@@ -54166,7 +54166,7 @@
 
 **[24:52]** And they worshipped him, and returned to Hierusalem with great ioy,
 
-**[24:53]** And were continually in the Temple, praysing, and lauding God, Amen.   
+**[24:53]** And were continually in the Temple, praysing, and lauding God, Amen.
 
 ## John
 
@@ -54272,7 +54272,7 @@
 
 **[1:50]** Iesus answered, and sayde vnto him, Because I sayde vnto thee, I sawe thee vnder the figtree, beleeuest thou? thou shalt see greater things then these.
 
-**[1:51]** And he saide vnto him, Verely, verely I say vnto you, hereafter shall yee see heauen open, and the Angels of God ascending, and descending vpon that Sonne of man.  
+**[1:51]** And he saide vnto him, Verely, verely I say vnto you, hereafter shall yee see heauen open, and the Angels of God ascending, and descending vpon that Sonne of man.
 
 ### Chapter 2
 
@@ -54324,7 +54324,7 @@
 
 **[2:24]** But Iesus did not commit him selfe vnto them, because he knewe them all,
 
-**[2:25]** And had no neede that any should testifie of man: for he knewe what was in man.  
+**[2:25]** And had no neede that any should testifie of man: for he knewe what was in man.
 
 ### Chapter 3
 
@@ -54398,7 +54398,7 @@
 
 **[3:35]** The Father loueth the Sonne, and hath giuen all things into his hande.
 
-**[3:36]** Hee that beleeueth in the Sonne, hath euerlasting life, and hee that obeyeth not the Sonne, shall not see life, but the wrath of God abideth on him.  
+**[3:36]** Hee that beleeueth in the Sonne, hath euerlasting life, and hee that obeyeth not the Sonne, shall not see life, but the wrath of God abideth on him.
 
 ### Chapter 4
 
@@ -54508,7 +54508,7 @@
 
 **[4:53]** Then the father knew, that it was the same houre in the which Iesus had said vnto him, Thy sonne liueth. And he beleeued, and all his houshold.
 
-**[4:54]** This second miracle did Iesus againe, after he was come out of Iudea into Galile.  
+**[4:54]** This second miracle did Iesus againe, after he was come out of Iudea into Galile.
 
 ### Chapter 5
 
@@ -54604,7 +54604,7 @@
 
 **[5:46]** For had ye beleeued Moses, ye would haue beleeued me: for he wrote of me.
 
-**[5:47]** But if ye beleeue not his writings, how shall ye beleeue my wordes?  
+**[5:47]** But if ye beleeue not his writings, how shall ye beleeue my wordes?
 
 ### Chapter 6
 
@@ -54748,7 +54748,7 @@
 
 **[6:70]** Iesus answered them, Haue not I chosen you twelue, and one of you is a deuill?
 
-**[6:71]** Now he spake it of Iudas Iscariot the sonne of Simon: for hee it was that shoulde betraie him, though he was one of the twelue.  
+**[6:71]** Now he spake it of Iudas Iscariot the sonne of Simon: for hee it was that shoulde betraie him, though he was one of the twelue.
 
 ### Chapter 7
 
@@ -54856,7 +54856,7 @@
 
 **[7:52]** They answered, and said vnto him, Art thou also of Galile? Searche and looke: for out of Galile ariseth no Prophet.
 
-**[7:53]** And euery man wet vnto his owne house.  
+**[7:53]** And euery man wet vnto his owne house.
 
 ### Chapter 8
 
@@ -54976,7 +54976,7 @@
 
 **[8:58]** Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.
 
-**[8:59]** Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.  
+**[8:59]** Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.
 
 ### Chapter 9
 
@@ -55060,7 +55060,7 @@
 
 **[9:40]** And some of the Pharises which were with him, heard these things, and sayd vnto him, Are we blinde also?
 
-**[9:41]** Iesus sayd vnto them, If ye were blinde, ye should not haue sinne: but nowe ye say, We see: therefore your sinne remaineth.  
+**[9:41]** Iesus sayd vnto them, If ye were blinde, ye should not haue sinne: but nowe ye say, We see: therefore your sinne remaineth.
 
 ### Chapter 10
 
@@ -55146,7 +55146,7 @@
 
 **[10:41]** And many resorted vnto him, and saide, Iohn did no miracle: but all thinges that Iohn spake of this man, were true.
 
-**[10:42]** And many beleeued in him there.  
+**[10:42]** And many beleeued in him there.
 
 ### Chapter 11
 
@@ -55262,7 +55262,7 @@
 
 **[11:56]** Then sought they for Iesus, and spake among themselues, as they stoode in the Temple, What thinke ye, that he cometh not to the feast?
 
-**[11:57]** Now both the high Priestes and the Pharises had giuen a commandement, that if any man knew where he were, he should shew it, that they might take him.  
+**[11:57]** Now both the high Priestes and the Pharises had giuen a commandement, that if any man knew where he were, he should shew it, that they might take him.
 
 ### Chapter 12
 
@@ -55364,7 +55364,7 @@
 
 **[12:49]** For I haue not spoken of my selfe: but the Father which sent me, hee gaue me a commandement what I should say, and what I should speake.
 
-**[12:50]** And I knowe that his commandement is life euerlasting: the thinges therefore that I speake, I speake them so as the Father sayde vnto me.  
+**[12:50]** And I knowe that his commandement is life euerlasting: the thinges therefore that I speake, I speake them so as the Father sayde vnto me.
 
 ### Chapter 13
 
@@ -55442,7 +55442,7 @@
 
 **[13:37]** Peter sayd vnto him, Lord, why can I not follow thee now? I will lay downe my life for thy sake.
 
-**[13:38]** Iesus answered him, Wilt thou lay downe thy life for my sake? Verely, verely I say vnto thee, The cocke shall not crowe, till thou haue denied me thrise.  
+**[13:38]** Iesus answered him, Wilt thou lay downe thy life for my sake? Verely, verely I say vnto thee, The cocke shall not crowe, till thou haue denied me thrise.
 
 ### Chapter 14
 
@@ -55506,7 +55506,7 @@
 
 **[14:30]** Hereafter will I not speake many things vnto you: for the prince of this world commeth, and hath nought in me.
 
-**[14:31]** But it is that the world may knowe that I loue my Father: and as the Father hath commanded me, so I doe. Arise, let vs goe hence.  
+**[14:31]** But it is that the world may knowe that I loue my Father: and as the Father hath commanded me, so I doe. Arise, let vs goe hence.
 
 ### Chapter 15
 
@@ -55562,7 +55562,7 @@
 
 **[15:26]** But when that Comforter shall come, whom I will send vnto you from the Father, euen the Spirit of trueth, which proceedeth of the Father, he shall testifie of me.
 
-**[15:27]** And ye shall witnesse also, because ye haue bene with me from the beginning.  
+**[15:27]** And ye shall witnesse also, because ye haue bene with me from the beginning.
 
 ### Chapter 16
 
@@ -55630,7 +55630,7 @@
 
 **[16:32]** Beholde, the houre commeth, and is already come, that ye shalbe scattered euery man into his owne, and shall leaue me alone: but I am not alone: for the Father is with me.
 
-**[16:33]** These thinges haue I spoken vnto you, that in me ye might haue peace: in the world ye shall haue affliction, but be of good comfort: I haue ouercome the world.  
+**[16:33]** These thinges haue I spoken vnto you, that in me ye might haue peace: in the world ye shall haue affliction, but be of good comfort: I haue ouercome the world.
 
 ### Chapter 17
 
@@ -55684,7 +55684,7 @@
 
 **[17:25]** O righteous Father, the worlde also hath not knowen thee, but I haue knowen thee, and these haue knowen, that thou hast sent me.
 
-**[17:26]** And I haue declared vnto the thy Name, and will declare it, that the loue wherewith thou hast loued me, may be in them, and I in them.  
+**[17:26]** And I haue declared vnto the thy Name, and will declare it, that the loue wherewith thou hast loued me, may be in them, and I in them.
 
 ### Chapter 18
 
@@ -55766,7 +55766,7 @@
 
 **[18:39]** But you haue a custome, that I shoulde deliuer you one loose at the Passeouer: will yee then that I loose vnto you the King of ye Iewes?
 
-**[18:40]** Then cried they all againe, saying, Not him, but Barabbas: nowe this Barabbas was a murtherer.  
+**[18:40]** Then cried they all againe, saying, Not him, but Barabbas: nowe this Barabbas was a murtherer.
 
 ### Chapter 19
 
@@ -55852,7 +55852,7 @@
 
 **[19:41]** And in that place where Iesus was crucified, was a garden, and in the garden a newe sepulchre, wherein was neuer man yet laid.
 
-**[19:42]** There then laide they Iesus, because of the Iewes Preparation day, for the sepulchre was neere.  
+**[19:42]** There then laide they Iesus, because of the Iewes Preparation day, for the sepulchre was neere.
 
 ### Chapter 20
 
@@ -55916,7 +55916,7 @@
 
 **[20:30]** And many other signes also did Iesus in the presence of his disciples, which are not written in this booke.
 
-**[20:31]** But these things are written, that ye might beleeue, that Iesus is that Christ that Sonne of God, and that in beleeuing ye might haue life through his Name.  
+**[20:31]** But these things are written, that ye might beleeue, that Iesus is that Christ that Sonne of God, and that in beleeuing ye might haue life through his Name.
 
 ### Chapter 21
 
@@ -55968,7 +55968,7 @@
 
 **[21:24]** This is that disciple, which testifieth of these things, and wrote these things, and we know that his testimonie is true.
 
-**[21:25]** Nowe there are also many other things which Iesus did, the which if they should be written euery one, I suppose the world coulde not conteine the bookes that shoulde be written, Amen.   
+**[21:25]** Nowe there are also many other things which Iesus did, the which if they should be written euery one, I suppose the world coulde not conteine the bookes that shoulde be written, Amen.
 
 ## Acts
 
@@ -56024,7 +56024,7 @@
 
 **[1:25]** That he may take the roume of this ministration and Apostleship, from which Iudas hath gone astray, to goe to his owne place.
 
-**[1:26]** Then they gaue foorth their lottes: and the lotte fell on Matthias, and hee was by a common consent counted with the eleuen Apostles.  
+**[1:26]** Then they gaue foorth their lottes: and the lotte fell on Matthias, and hee was by a common consent counted with the eleuen Apostles.
 
 ### Chapter 2
 
@@ -56120,7 +56120,7 @@
 
 **[2:46]** And they continued dayly with one accord in the Temple, and breaking bread at home, did eate their meate together with gladnesse and singlenesse of heart,
 
-**[2:47]** Praysing God, and had fauour with all the people: and the Lord added to the Church from day to day, such as should be saued.  
+**[2:47]** Praysing God, and had fauour with all the people: and the Lord added to the Church from day to day, such as should be saued.
 
 ### Chapter 3
 
@@ -56174,7 +56174,7 @@
 
 **[3:25]** Ye are the children of the Prophets, and of the couenant, which God hath made vnto our fathers, saying to Abraham, Euen in thy seede shall all the kindreds of the earth be blessed.
 
-**[3:26]** First vnto you hath God raysed vp his Sonne Iesus, and him hee hath sent to blesse you, in turning euery one of you from your iniquities.  
+**[3:26]** First vnto you hath God raysed vp his Sonne Iesus, and him hee hath sent to blesse you, in turning euery one of you from your iniquities.
 
 ### Chapter 4
 
@@ -56250,7 +56250,7 @@
 
 **[4:36]** Also Ioses which was called of the Apostles, Barnabas (that is by interpretation the sonne of consolation) being a Leuite, and of the countrey of Cyprus,
 
-**[4:37]** Where as he had land, solde it, and brought the money, and laid it downe at the Apostles feete.  
+**[4:37]** Where as he had land, solde it, and brought the money, and laid it downe at the Apostles feete.
 
 ### Chapter 5
 
@@ -56336,7 +56336,7 @@
 
 **[5:41]** So they departed from the Councill, reioycing, that they were counted worthy to suffer rebuke for his Name.
 
-**[5:42]** And dayly in the Temple, and from house to house they ceased not to teach, and preach Iesus Christ.  
+**[5:42]** And dayly in the Temple, and from house to house they ceased not to teach, and preach Iesus Christ.
 
 ### Chapter 6
 
@@ -56368,7 +56368,7 @@
 
 **[6:14]** For we haue heard him say, that this Iesus of Nazareth shall destroy this place, and shall change the ordinances, which Moses gaue vs.
 
-**[6:15]** And as all that sate in the Councill, looked stedfastly on him, they saw his face as it had bene the face of an Angel.  
+**[6:15]** And as all that sate in the Councill, looked stedfastly on him, they saw his face as it had bene the face of an Angel.
 
 ### Chapter 7
 
@@ -56490,7 +56490,7 @@
 
 **[7:59]** And they stoned Steuen, who called on God, and said, Lord Iesus, receiue my spirit.
 
-**[7:60]** And he kneeled downe, and cried with a loude voyce, Lord, laye not this sinne to their charge. And when he had thus spoken, he slept.  
+**[7:60]** And he kneeled downe, and cried with a loude voyce, Lord, laye not this sinne to their charge. And when he had thus spoken, he slept.
 
 ### Chapter 8
 
@@ -56572,7 +56572,7 @@
 
 **[8:39]** And assoone as they were come vp out of the water, the Spirit of the Lord caught away Philip, that the Eunuche sawe him no more: so he went on his way reioycing.
 
-**[8:40]** But Philippe was found at Azotus, and he walked to and from preaching in all the cities, till he came to Cesarea.  
+**[8:40]** But Philippe was found at Azotus, and he walked to and from preaching in all the cities, till he came to Cesarea.
 
 ### Chapter 9
 
@@ -56660,7 +56660,7 @@
 
 **[9:42]** And it was knowen throughout all Ioppa, and many beleeued in the Lord.
 
-**[9:43]** And it came to passe that he taried many dayes in Ioppa with one Simon a Tanner.  
+**[9:43]** And it came to passe that he taried many dayes in Ioppa with one Simon a Tanner.
 
 ### Chapter 10
 
@@ -56758,7 +56758,7 @@
 
 **[10:47]** Can any man forbid water, that these should not be baptized, which haue receiued the holy Ghost, as well as we?
 
-**[10:48]** So he commanded them to be baptized in the Name of the Lord. Then prayed they him to tary certaine dayes.  
+**[10:48]** So he commanded them to be baptized in the Name of the Lord. Then prayed they him to tary certaine dayes.
 
 ### Chapter 11
 
@@ -56820,7 +56820,7 @@
 
 **[11:29]** Then the disciples, euery man according to his ability, purposed to sende succour vnto the brethren which dwelt in Iudea.
 
-**[11:30]** Which thing they also did, and sent it to the Elders, by the hand of Barnabas and Saul.  
+**[11:30]** Which thing they also did, and sent it to the Elders, by the hand of Barnabas and Saul.
 
 ### Chapter 12
 
@@ -56872,7 +56872,7 @@
 
 **[12:24]** And the worde of God grewe, and multiplied.
 
-**[12:25]** So Barnabas and Saul returned from Hierusalem, when they had fulfilled their office, and tooke with them Iohn, whose surname was Marke.  
+**[12:25]** So Barnabas and Saul returned from Hierusalem, when they had fulfilled their office, and tooke with them Iohn, whose surname was Marke.
 
 ### Chapter 13
 
@@ -56978,7 +56978,7 @@
 
 **[13:51]** But they shooke off the dust of their feete against them, and came vnto Iconium.
 
-**[13:52]** And the disciples were filled with ioy, and with the holy Ghost.  
+**[13:52]** And the disciples were filled with ioy, and with the holy Ghost.
 
 ### Chapter 14
 
@@ -57036,7 +57036,7 @@
 
 **[14:27]** And when they were come and had gathered the Church together, they rehearsed all the things that God had done by them, and howe he had opened the doore of faith vnto the Gentiles.
 
-**[14:28]** So there they abode a long time with the disciples.  
+**[14:28]** So there they abode a long time with the disciples.
 
 ### Chapter 15
 
@@ -57120,7 +57120,7 @@
 
 **[15:40]** And Paul chose Silas and departed, being commended of the brethren vnto the grace of God.
 
-**[15:41]** And he went through Syria and Cilicia, stablishing the Churches.  
+**[15:41]** And he went through Syria and Cilicia, stablishing the Churches.
 
 ### Chapter 16
 
@@ -57202,7 +57202,7 @@
 
 **[16:39]** Then came they and praied them, and brought them out, and desired them to depart out of the citie.
 
-**[16:40]** And they went out of the prison, and entred into the house of Lydia: and when they had seene the brethren, they comforted them, and departed.  
+**[16:40]** And they went out of the prison, and entred into the house of Lydia: and when they had seene the brethren, they comforted them, and departed.
 
 ### Chapter 17
 
@@ -57272,7 +57272,7 @@
 
 **[17:33]** And so Paul departed from among them.
 
-**[17:34]** Howbeit certaine men claue vnto Paul, and beleeued: among whome was also Denys Areopagita, and a woman named Damaris, and other with them.  
+**[17:34]** Howbeit certaine men claue vnto Paul, and beleeued: among whome was also Denys Areopagita, and a woman named Damaris, and other with them.
 
 ### Chapter 18
 
@@ -57330,7 +57330,7 @@
 
 **[18:27]** And when hee was minded to goe into Achaia, the brethren exhorting him, wrote to the disciples to receiue him: and after hee was come thither, he holpe them much which had beleeued through grace.
 
-**[18:28]** For mightily hee confuted publikely the Iewes, with great vehemencie, shewing by the Scriptures, that Iesus was that Christ.  
+**[18:28]** For mightily hee confuted publikely the Iewes, with great vehemencie, shewing by the Scriptures, that Iesus was that Christ.
 
 ### Chapter 19
 
@@ -57414,7 +57414,7 @@
 
 **[19:40]** For we are euen in ieopardie to be accused of this dayes sedition, for as much as there is no cause, whereby we may giue a reason of this concourse of people.
 
-**[19:41]** And when he had thus spoken, hee let the assembly depart.  
+**[19:41]** And when he had thus spoken, hee let the assembly depart.
 
 ### Chapter 20
 
@@ -57492,7 +57492,7 @@
 
 **[20:37]** Then they wept all abundantly, and fell on Pauls necke, and kissed him,
 
-**[20:38]** Being chiefly sorie for the words which he spake, That they should see his face no more. And they accompanied him vnto the shippe.  
+**[20:38]** Being chiefly sorie for the words which he spake, That they should see his face no more. And they accompanied him vnto the shippe.
 
 ### Chapter 21
 
@@ -57574,7 +57574,7 @@
 
 **[21:39]** Then Paul sayde, Doubtlesse, I am a man which am a Iewe, and citizen of Tarsus, a famous citie of Cilicia, and I beseech thee, suffer mee to speake vnto the people.
 
-**[21:40]** And when he had giuen him licence, Paul stoode on the grieces, and beckened with the hand vnto the people: and when there was made great silence, hee spake vnto them in the Hebrewe tongue, saying,  
+**[21:40]** And when he had giuen him licence, Paul stoode on the grieces, and beckened with the hand vnto the people: and when there was made great silence, hee spake vnto them in the Hebrewe tongue, saying,
 
 ### Chapter 22
 
@@ -57636,7 +57636,7 @@
 
 **[22:29]** Then straightway they departed from him, which should haue examined him: and the chiefe captaine also was afrayd, after he knewe that hee was a Romane, and that he had bound him.
 
-**[22:30]** On the next day, because hee would haue knowen the certaintie wherefore he was accused of the Iewes, he loosed him from his bonds, and commanded the hie Priests and all their Councill to come together: and he brought Paul, and set him before them.  
+**[22:30]** On the next day, because hee would haue knowen the certaintie wherefore he was accused of the Iewes, he loosed him from his bonds, and commanded the hie Priests and all their Councill to come together: and he brought Paul, and set him before them.
 
 ### Chapter 23
 
@@ -57708,7 +57708,7 @@
 
 **[23:34]** So when the Gouernour had read it, hee asked of what prouince he was: and when he vnderstoode that he was of Cilicia,
 
-**[23:35]** I will heare thee, said he, when thine accusers also are come, and commanded him to bee kept in Herods iudgement hall.  
+**[23:35]** I will heare thee, said he, when thine accusers also are come, and commanded him to bee kept in Herods iudgement hall.
 
 ### Chapter 24
 
@@ -57764,7 +57764,7 @@
 
 **[24:26]** Hee hoped also that money shoulde haue bene giuen him of Paul, that he might loose him: wherefore hee sent for him the oftner, and communed with him.
 
-**[24:27]** When two yeeres were expired, Porcius Festus came into Felix roume: and Felix willing to get fauour of the Iewes, left Paul bound.  
+**[24:27]** When two yeeres were expired, Porcius Festus came into Felix roume: and Felix willing to get fauour of the Iewes, left Paul bound.
 
 ### Chapter 25
 
@@ -57820,7 +57820,7 @@
 
 **[25:26]** Of whome I haue no certaine thing to write vnto my Lord: wherefore I haue brought him forth vnto you, and specially vnto thee, King Agrippa, that after examination had, I might haue somewhat to write.
 
-**[25:27]** For me thinketh it vnreasonable to send a prisoner, and not to shewe the causes which are layde against him.  
+**[25:27]** For me thinketh it vnreasonable to send a prisoner, and not to shewe the causes which are layde against him.
 
 ### Chapter 26
 
@@ -57886,7 +57886,7 @@
 
 **[26:31]** And when they were gone apart, they talked betweene themselues, saying, This man doeth nothing worthy of death, nor of bonds.
 
-**[26:32]** Then sayd Agrippa vnto Festus, This man might haue bene loosed, if hee had not appealed vnto Cesar.  
+**[26:32]** Then sayd Agrippa vnto Festus, This man might haue bene loosed, if hee had not appealed vnto Cesar.
 
 ### Chapter 27
 
@@ -57976,7 +57976,7 @@
 
 **[27:43]** But the Centurion willing to saue Paul, stayed them from this counsell, and commanded that they that coulde swimme, shoulde cast them selues first into the sea, and goe out to land:
 
-**[27:44]** And the other, some on boardes, and some on certaine pieces of the ship: and so it came to passe that they came all safe to land.  
+**[27:44]** And the other, some on boardes, and some on certaine pieces of the ship: and so it came to passe that they came all safe to land.
 
 ### Chapter 28
 
@@ -58040,7 +58040,7 @@
 
 **[28:30]** And Paul remained two yeeres full in an house hired for himselfe, and receiued all that came in vnto him,
 
-**[28:31]** Preaching the kingdome of God, and teaching those things which concerne the Lord Iesus Christ, with all boldnesse of speache, without let.   
+**[28:31]** Preaching the kingdome of God, and teaching those things which concerne the Lord Iesus Christ, with all boldnesse of speache, without let.
 
 ## Romans
 
@@ -58106,7 +58106,7 @@
 
 **[1:30]** Backbiters, haters of God, doers of wrong, proude, boasters, inuenters of euil things, disobedient to parents, without vnderstanding, couenant breakers, without naturall affection, such as can neuer be appeased, mercilesse.
 
-**[1:31]** Which men, though they knew ye Lawe of God, how that they which comit such things are worthie of death, yet not onely do the same, but also fauour them that doe them.  
+**[1:31]** Which men, though they knew ye Lawe of God, how that they which comit such things are worthie of death, yet not onely do the same, but also fauour them that doe them.
 
 **[1:32]** 
 
@@ -58168,7 +58168,7 @@
 
 **[2:28]** For hee is not a Iewe, which is one outwarde: neither is that circumcision, which is outward in the flesh:
 
-**[2:29]** But he is a Iewe which is one within, and the circumcision is of the heart, in the spirite not in the letter, whose praise is not of men, but of God.  
+**[2:29]** But he is a Iewe which is one within, and the circumcision is of the heart, in the spirite not in the letter, whose praise is not of men, but of God.
 
 ### Chapter 3
 
@@ -58232,7 +58232,7 @@
 
 **[3:30]** For it is one God, who shall iustifie circumcision of faith, and vncircumcision through faith.
 
-**[3:31]** Doe we then make the Lawe of none effect through faith? God forbid: yea, we establish the Lawe.  
+**[3:31]** Doe we then make the Lawe of none effect through faith? God forbid: yea, we establish the Lawe.
 
 ### Chapter 4
 
@@ -58284,7 +58284,7 @@
 
 **[4:24]** But also for vs, to whom it shalbe imputed for righteousnesse, which beleeue in him that raised vp Iesus our Lord from the dead,
 
-**[4:25]** Who was deliuered to death for our sinnes, and is risen againe for our iustification.  
+**[4:25]** Who was deliuered to death for our sinnes, and is risen againe for our iustification.
 
 ### Chapter 5
 
@@ -58328,7 +58328,7 @@
 
 **[5:20]** Moreouer the Law entred thereupon that the offence shoulde abound: neuerthelesse, where sinne abounded, there grace abounded much more:
 
-**[5:21]** That as sinne had reigned vnto death, so might grace also reigne by righteousnesse vnto eternall life, through Iesus Christ our Lord.  
+**[5:21]** That as sinne had reigned vnto death, so might grace also reigne by righteousnesse vnto eternall life, through Iesus Christ our Lord.
 
 ### Chapter 6
 
@@ -58376,7 +58376,7 @@
 
 **[6:22]** But now being freed from sinne, and made seruants vnto God, ye haue your fruit in holines, and the end, euerlasting life.
 
-**[6:23]** For the wages of sinne is death: but the gift of God is eternall life, through Iesus Christ our Lord.  
+**[6:23]** For the wages of sinne is death: but the gift of God is eternall life, through Iesus Christ our Lord.
 
 ### Chapter 7
 
@@ -58428,7 +58428,7 @@
 
 **[7:24]** O wretched man that I am, who shall deliuer me from the body of this death!
 
-**[7:25]** I thanke God through Iesus Christ our Lord. Then I my selfe in my minde serue the Lawe of God, but in my flesh the lawe of sinne.  
+**[7:25]** I thanke God through Iesus Christ our Lord. Then I my selfe in my minde serue the Lawe of God, but in my flesh the lawe of sinne.
 
 ### Chapter 8
 
@@ -58508,7 +58508,7 @@
 
 **[8:38]** For I am perswaded that neither death, nor life, nor Angels, nor principalities, nor powers, nor things present, nor things to come,
 
-**[8:39]** Nor height, nor depth, nor any other creature shalbe able to separate vs from the loue of God, which is in Christ Iesus our Lord.  
+**[8:39]** Nor height, nor depth, nor any other creature shalbe able to separate vs from the loue of God, which is in Christ Iesus our Lord.
 
 ### Chapter 9
 
@@ -58576,7 +58576,7 @@
 
 **[9:32]** Wherefore? Because they sought it not by faith, but as it were by the workes of the Lawe: for they haue stumbled at the stumbling stone,
 
-**[9:33]** As it is written, Beholde, I lay in Sion a stumbling stone, and a rocke to make men fall: and euery one that beleeueth in him, shall not be ashamed.  
+**[9:33]** As it is written, Beholde, I lay in Sion a stumbling stone, and a rocke to make men fall: and euery one that beleeueth in him, shall not be ashamed.
 
 ### Chapter 10
 
@@ -58620,7 +58620,7 @@
 
 **[10:20]** And Esaias is bolde, and saith, I was found of them that sought me not, and haue bene made manifest to them that asked not after me.
 
-**[10:21]** And vnto Israel hee sayth, All the day long haue I stretched foorth mine hand vnto a disobedient, and gainesaying people.  
+**[10:21]** And vnto Israel hee sayth, All the day long haue I stretched foorth mine hand vnto a disobedient, and gainesaying people.
 
 ### Chapter 11
 
@@ -58694,7 +58694,7 @@
 
 **[11:35]** Or who hath giuen vnto him first, and he shalbe recompensed?
 
-**[11:36]** For of him, and through him, and for him are all things: to him be glory for euer. Amen.  
+**[11:36]** For of him, and through him, and for him are all things: to him be glory for euer. Amen.
 
 ### Chapter 12
 
@@ -58738,7 +58738,7 @@
 
 **[12:20]** Therefore, if thine enemie hunger, feede him: if he thirst, giue him drinke: for in so doing, thou shalt heape coales of fire on his head.
 
-**[12:21]** Bee not ouercome of euill, but ouercome euill with goodnesse.  
+**[12:21]** Bee not ouercome of euill, but ouercome euill with goodnesse.
 
 ### Chapter 13
 
@@ -58768,7 +58768,7 @@
 
 **[13:13]** So that wee walke honestly, as in the day: not in gluttonie, and drunkennesse, neither in chambering and wantonnes, nor in strife and enuying.
 
-**[13:14]** But put yee on the Lord JESUS CHRIST, and take no thought for the flesh, to fulfill the lustes of it.  
+**[13:14]** But put yee on the Lord JESUS CHRIST, and take no thought for the flesh, to fulfill the lustes of it.
 
 ### Chapter 14
 
@@ -58816,7 +58816,7 @@
 
 **[14:22]** Hast thou faith? haue it with thy selfe before God: blessed is hee that condemneth not himselfe in that thing which he aloweth.
 
-**[14:23]** For he that doubteth, is condemned if he eate, because he eateth not of faith: and whatsoeuer is not of faith, is sinne.  
+**[14:23]** For he that doubteth, is condemned if he eate, because he eateth not of faith: and whatsoeuer is not of faith, is sinne.
 
 ### Chapter 15
 
@@ -58884,7 +58884,7 @@
 
 **[15:32]** That I may come vnto you with ioy by the will of God, and may with you be refreshed.
 
-**[15:33]** Thus the God of peace be with you all. Amen.  
+**[15:33]** Thus the God of peace be with you all. Amen.
 
 ### Chapter 16
 
@@ -58940,7 +58940,7 @@
 
 **[16:26]** (But nowe is opened, and published among all nations by the Scriptures of the Prophetes, at the commandement of the euerlasting God for the obedience of faith)
 
-**[16:27]** To God, I say, only wise, be praise through Iesus Christ for euer. Amen.  Written to the Romans from Corinthus, and sent by Phebe, seruaunt of the Church which is at Cenchrea. 
+**[16:27]** To God, I say, only wise, be praise through Iesus Christ for euer. Amen. Written to the Romans from Corinthus, and sent by Phebe, seruaunt of the Church which is at Cenchrea.
 
 ## I Corinthians
 
@@ -59006,7 +59006,7 @@
 
 **[1:30]** But ye are of him in Christ Iesus, who of God is made vnto vs wisedome and righteousnesse, and sanctification, and redemption,
 
-**[1:31]** That, according as it is written, Hee that reioyceth, let him reioyce in the Lord.  
+**[1:31]** That, according as it is written, Hee that reioyceth, let him reioyce in the Lord.
 
 ### Chapter 2
 
@@ -59040,7 +59040,7 @@
 
 **[2:15]** But hee that is spirituall, discerneth all things: yet he himselfe is iudged of no man.
 
-**[2:16]** For who hath knowen the minde of the Lord, that hee might instruct him? But we haue the minde of Christ.  
+**[2:16]** For who hath knowen the minde of the Lord, that hee might instruct him? But we haue the minde of Christ.
 
 ### Chapter 3
 
@@ -59088,7 +59088,7 @@
 
 **[3:22]** Whether it be Paul, or Apollos, or Cephas, or the world, or life, or death: whether they be things present, or thinges to come, euen all are yours,
 
-**[3:23]** And ye Christes, and Christ Gods.  
+**[3:23]** And ye Christes, and Christ Gods.
 
 ### Chapter 4
 
@@ -59132,7 +59132,7 @@
 
 **[4:20]** For the kingdome of God is not in worde, but in power.
 
-**[4:21]** What will ye? shall I come vnto you with a rod, or in loue, and in ye spirite of meekenes?  
+**[4:21]** What will ye? shall I come vnto you with a rod, or in loue, and in ye spirite of meekenes?
 
 ### Chapter 5
 
@@ -59160,7 +59160,7 @@
 
 **[5:12]** For what haue I to doe, to iudge them also which are without? doe ye not iudge them that are within?
 
-**[5:13]** But God iudgeth them that are without. Put away therefore from among your selues that wicked man.  
+**[5:13]** But God iudgeth them that are without. Put away therefore from among your selues that wicked man.
 
 ### Chapter 6
 
@@ -59202,7 +59202,7 @@
 
 **[6:19]** Knowe yee not, that your body is the temple of the holy Ghost, which is in you, whom ye haue of God? and yee are not your owne.
 
-**[6:20]** For yee are bought for a price: therefore glorifie God in your bodie, and in your spirit: for they are Gods.  
+**[6:20]** For yee are bought for a price: therefore glorifie God in your bodie, and in your spirit: for they are Gods.
 
 ### Chapter 7
 
@@ -59284,7 +59284,7 @@
 
 **[7:39]** The wife is bounde by the Lawe, as long as her husband liueth: but if her husband bee dead, shee is at libertie to marie with whome she will, onely in the Lord.
 
-**[7:40]** But shee is more blessed, if she so abide, in my iudgement: and I thinke that I haue also the Spirite of God.  
+**[7:40]** But shee is more blessed, if she so abide, in my iudgement: and I thinke that I haue also the Spirite of God.
 
 ### Chapter 8
 
@@ -59312,7 +59312,7 @@
 
 **[8:12]** Nowe when ye sinne so against the brethren, and wound their weake conscience, ye sinne against Christ.
 
-**[8:13]** Wherefore if meate offende my brother, I wil eate no flesh while the world standeth, that I may not offend my brother.  
+**[8:13]** Wherefore if meate offende my brother, I wil eate no flesh while the world standeth, that I may not offend my brother.
 
 ### Chapter 9
 
@@ -59368,7 +59368,7 @@
 
 **[9:26]** I therefore so runne, not as vncertainely: so fight I, not as one that beateth the ayre.
 
-**[9:27]** But I beate downe my body, and bring it into subiection, lest by any meanes after that I haue preached to other, I my selfe should be reproued.  
+**[9:27]** But I beate downe my body, and bring it into subiection, lest by any meanes after that I haue preached to other, I my selfe should be reproued.
 
 ### Chapter 10
 
@@ -59436,7 +59436,7 @@
 
 **[10:32]** Giue none offence, neither to the Iewes, nor to the Grecians, nor to the Church of God:
 
-**[10:33]** Euen as I please all men in all things, not seeking mine owne profite, but the profite of many, that they might be saued.  
+**[10:33]** Euen as I please all men in all things, not seeking mine owne profite, but the profite of many, that they might be saued.
 
 ### Chapter 11
 
@@ -59506,7 +59506,7 @@
 
 **[11:33]** Wherefore, my brethren, when ye come together to eate, tary one for another.
 
-**[11:34]** And if any man be hungry, let him eate at home, that ye come not together vnto condemnation. Other things will I set in order when I come.  
+**[11:34]** And if any man be hungry, let him eate at home, that ye come not together vnto condemnation. Other things will I set in order when I come.
 
 ### Chapter 12
 
@@ -59570,7 +59570,7 @@
 
 **[12:30]** Are all doers of miracles? haue all the gifts of healing? doe all speake with tongues? doe all interprete?
 
-**[12:31]** But desire you the best giftes, and I will yet shewe you a more excellent way.  
+**[12:31]** But desire you the best giftes, and I will yet shewe you a more excellent way.
 
 ### Chapter 13
 
@@ -59598,7 +59598,7 @@
 
 **[13:12]** For nowe we see through a glasse darkely: but then shall wee see face to face. Nowe I know in part: but then shall I know euen as I am knowen.
 
-**[13:13]** And nowe abideth faith, hope and loue, euen these three: but the chiefest of these is loue.  
+**[13:13]** And nowe abideth faith, hope and loue, euen these three: but the chiefest of these is loue.
 
 ### Chapter 14
 
@@ -59680,7 +59680,7 @@
 
 **[14:39]** Wherefore, brethren, couet to prophecie, and forbid not to speake languages.
 
-**[14:40]** Let all things be done honestly, and by order.  
+**[14:40]** Let all things be done honestly, and by order.
 
 ### Chapter 15
 
@@ -59798,7 +59798,7 @@
 
 **[15:57]** But thankes be vnto God, which hath giuen vs victorie through our Lord Iesus Christ.
 
-**[15:58]** Therefore my beloued brethren, be ye stedfast, vnmoueable, aboundant alwayes in the worke of the Lord, forasmuch as ye knowe that your labour is not in vaine in the Lord.  
+**[15:58]** Therefore my beloued brethren, be ye stedfast, vnmoueable, aboundant alwayes in the worke of the Lord, forasmuch as ye knowe that your labour is not in vaine in the Lord.
 
 ### Chapter 16
 
@@ -59848,7 +59848,7 @@
 
 **[16:23]** The grace of our Lord Iesus Christ be with you.
 
-**[16:24]** My loue be with you all in Christ Iesus, Amen.  The first Epistle to the Corinthians, written from Philippi, and sent by Stephanas, and Fortunatus, and Achaicus, and Timotheus. 
+**[16:24]** My loue be with you all in Christ Iesus, Amen. The first Epistle to the Corinthians, written from Philippi, and sent by Stephanas, and Fortunatus, and Achaicus, and Timotheus.
 
 ## II Corinthians
 
@@ -59900,7 +59900,7 @@
 
 **[1:23]** Nowe, I call God for a recorde vnto my soule, that to spare you, I came not as yet vnto Corinthus.
 
-**[1:24]** Not that wee haue dominion ouer your faith, but wee are helpers of your ioy: for by faith yee stande.  
+**[1:24]** Not that wee haue dominion ouer your faith, but wee are helpers of your ioy: for by faith yee stande.
 
 ### Chapter 2
 
@@ -59936,7 +59936,7 @@
 
 **[2:16]** To the one we are the sauour of death, vnto death, and to the other the sauour of life, vnto life: and who is sufficient for these things?
 
-**[2:17]** For wee are not as many, which make marchandise of the woorde of God: but as of sinceritie, but as of God in ye sight of God speake we in Christ.  
+**[2:17]** For wee are not as many, which make marchandise of the woorde of God: but as of sinceritie, but as of God in ye sight of God speake we in Christ.
 
 ### Chapter 3
 
@@ -59974,7 +59974,7 @@
 
 **[3:17]** Nowe the Lord is the Spirite, and where the Spirite of the Lord is, there is libertie.
 
-**[3:18]** But we al behold as in a mirrour the glory of the Lord with open face, and are changed into the same image, from glorie to glorie, as by the Spirit of the Lord.  
+**[3:18]** But we al behold as in a mirrour the glory of the Lord with open face, and are changed into the same image, from glorie to glorie, as by the Spirit of the Lord.
 
 ### Chapter 4
 
@@ -60012,7 +60012,7 @@
 
 **[4:17]** For our light affliction which is but for a moment, causeth vnto vs a farre most excellent and an eternall waight of glorie:
 
-**[4:18]** While we looke not on the thinges which are seene, but on the things which are not seene: for the things which are seene, are temporall: but the things which are not seene, are eternall.  
+**[4:18]** While we looke not on the thinges which are seene, but on the things which are not seene: for the things which are seene, are temporall: but the things which are not seene, are eternall.
 
 ### Chapter 5
 
@@ -60056,7 +60056,7 @@
 
 **[5:20]** Now then are we ambassadours for Christ: as though God did beseeche you through vs, we pray you in Christes steade, that ye be reconciled to God.
 
-**[5:21]** For he hath made him to be sinne for vs, which knewe no sinne, that we should be made the righteousnesse of God in him.  
+**[5:21]** For he hath made him to be sinne for vs, which knewe no sinne, that we should be made the righteousnesse of God in him.
 
 ### Chapter 6
 
@@ -60094,7 +60094,7 @@
 
 **[6:17]** Wherefore come out from among them, and separate your selues, saith the Lord, and touch none vncleane thing, and I wil receiue you.
 
-**[6:18]** And I will be a Father vnto you, and ye shalbe my sonnes and daughters, saith the Lord almightie.  
+**[6:18]** And I will be a Father vnto you, and ye shalbe my sonnes and daughters, saith the Lord almightie.
 
 ### Chapter 7
 
@@ -60128,7 +60128,7 @@
 
 **[7:15]** And his inwarde affection is more aboundant toward you, when he remembreth the obedience of you all, and howe with feare and trembling ye receiued him.
 
-**[7:16]** I reioyce therefore that I may put my confidence in you in all things.  
+**[7:16]** I reioyce therefore that I may put my confidence in you in all things.
 
 ### Chapter 8
 
@@ -60178,7 +60178,7 @@
 
 **[8:23]** Whether any doe inquire of Titus, he is my fellowe and helper to you ward: or of our brethren, they are messengers of the Churches, and the glorie of Christ.
 
-**[8:24]** Wherefore shew toward them, and before the Churches the proofe of your loue, and of the reioycing that we haue of you.  
+**[8:24]** Wherefore shew toward them, and before the Churches the proofe of your loue, and of the reioycing that we haue of you.
 
 ### Chapter 9
 
@@ -60210,7 +60210,7 @@
 
 **[9:14]** And in their praier for you, to log after you greatly, for the aboundant grace of God in you.
 
-**[9:15]** Thankes therefore bee vnto God for his vnspeakeable gift.  
+**[9:15]** Thankes therefore bee vnto God for his vnspeakeable gift.
 
 ### Chapter 10
 
@@ -60248,7 +60248,7 @@
 
 **[10:17]** But let him that reioyceth, reioyce in the Lord.
 
-**[10:18]** For hee that praiseth himselfe, is not alowed, but he whome the Lord praiseth.  
+**[10:18]** For hee that praiseth himselfe, is not alowed, but he whome the Lord praiseth.
 
 ### Chapter 11
 
@@ -60316,7 +60316,7 @@
 
 **[11:32]** In Damascus the gouernour of the people vnder King Aretas, layde watch in the citie of the Damascens, and would haue caught me.
 
-**[11:33]** But at a window was I let downe in a basket through the wall, and escaped his handes.  
+**[11:33]** But at a window was I let downe in a basket through the wall, and escaped his handes.
 
 ### Chapter 12
 
@@ -60360,7 +60360,7 @@
 
 **[12:20]** For I feare least when I come, I shall not finde you such as I would: and that I shalbe found vnto you such as ye woulde not, and least there be strife, enuying, wrath, contentions, backebitings, whisperings, swellings and discord.
 
-**[12:21]** I feare least when I come againe, my God abase me among you, and I shall bewaile many of them which haue sinned already, and haue not repented of the vncleannesse, and fornication, and wantonnesse which they haue committed.  
+**[12:21]** I feare least when I come againe, my God abase me among you, and I shall bewaile many of them which haue sinned already, and haue not repented of the vncleannesse, and fornication, and wantonnesse which they haue committed.
 
 ### Chapter 13
 
@@ -60388,7 +60388,7 @@
 
 **[13:12]** Greete one another with an holy kisse. All the Saintes salute you.
 
-**[13:13]** The grace of our Lord Iesus Christ, and the loue of God, and the communion of the holy Ghost be with you all, Amen.  The seconde Epistle to the Corinthians, written from Philippi, a citie in Macedonia, and sent by Titus and Lucas. 
+**[13:13]** The grace of our Lord Iesus Christ, and the loue of God, and the communion of the holy Ghost be with you all, Amen. The seconde Epistle to the Corinthians, written from Philippi, a citie in Macedonia, and sent by Titus and Lucas.
 
 **[13:14]** 
 
@@ -60440,7 +60440,7 @@
 
 **[1:22]** But they had heard onely some say, Hee which persecuted vs in time past, nowe preacheth the faith which before he destroyed.
 
-**[1:23]** And they glorified God for me.  
+**[1:23]** And they glorified God for me.
 
 **[1:24]** 
 
@@ -60486,7 +60486,7 @@
 
 **[2:20]** I am crucified with Christ, but I liue, yet not I any more, but Christ liueth in me: and in that that I now liue in the flesh, I liue by the faith in the Sonne of God, who hath loued me, and giuen him selfe for me.
 
-**[2:21]** I doe not abrogate the grace of God: for if righteousnes be by the Lawe, then Christ dyed without a cause.  
+**[2:21]** I doe not abrogate the grace of God: for if righteousnes be by the Lawe, then Christ dyed without a cause.
 
 ### Chapter 3
 
@@ -60546,7 +60546,7 @@
 
 **[3:28]** There is neither Iewe nor Grecian: there is neither bonde nor free: there is neither male nor female: for ye are all one in Christ Iesus.
 
-**[3:29]** And if ye be Christes, then are ye Abrahams seede, and heires by promise.  
+**[3:29]** And if ye be Christes, then are ye Abrahams seede, and heires by promise.
 
 ### Chapter 4
 
@@ -60610,7 +60610,7 @@
 
 **[4:30]** But what sayth the Scripture? Put out the seruant and her sonne: for the sonne of the seruant shall not be heire with the sonne of the free woman.
 
-**[4:31]** Then brethren, we are not children of the seruant, but of the free woman.  
+**[4:31]** Then brethren, we are not children of the seruant, but of the free woman.
 
 ### Chapter 5
 
@@ -60664,7 +60664,7 @@
 
 **[5:25]** If we liue in the Spirit, let vs also walke in the Spirit.
 
-**[5:26]** Let vs not be desirous of vaine glorie, prouoking one another, enuying one another.  
+**[5:26]** Let vs not be desirous of vaine glorie, prouoking one another, enuying one another.
 
 ### Chapter 6
 
@@ -60702,7 +60702,7 @@
 
 **[6:17]** From henceforth let no man put me to busines: for I beare in my body the markes of the Lord Iesus.
 
-**[6:18]** Brethren, the grace of our Lord Iesus Christ be with your spirit, Amen.  Vnto the Galatians written from Rome. 
+**[6:18]** Brethren, the grace of our Lord Iesus Christ be with your spirit, Amen. Vnto the Galatians written from Rome.
 
 ## Ephesians
 
@@ -60752,7 +60752,7 @@
 
 **[1:22]** And hath made all things subiect vnder his feete, and hath giuen him ouer all things to be the head to the Church,
 
-**[1:23]** Which is his body, euen the fulnesse of him that filleth all in all things.  
+**[1:23]** Which is his body, euen the fulnesse of him that filleth all in all things.
 
 ### Chapter 2
 
@@ -60798,7 +60798,7 @@
 
 **[2:21]** In whom all the building coupled together, groweth vnto an holy Temple in the Lord.
 
-**[2:22]** In whom ye also are built together to be the habitation of God by the Spirit.  
+**[2:22]** In whom ye also are built together to be the habitation of God by the Spirit.
 
 ### Chapter 3
 
@@ -60842,7 +60842,7 @@
 
 **[3:20]** Vnto him therefore that is able to do exceeding aboundantly aboue all that we aske or thinke, according to the power that worketh in vs,
 
-**[3:21]** Be praise in the Church by Christ Iesus, throughout all generations for euer, Amen.  
+**[3:21]** Be praise in the Church by Christ Iesus, throughout all generations for euer, Amen.
 
 ### Chapter 4
 
@@ -60908,7 +60908,7 @@
 
 **[4:31]** Let all bitternesse, and anger, and wrath, crying, and euill speaking be put away from you, with all maliciousnesse.
 
-**[4:32]** Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you.  
+**[4:32]** Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you.
 
 ### Chapter 5
 
@@ -60976,7 +60976,7 @@
 
 **[5:32]** This is a great secrete, but I speake concerning Christ, and concerning the Church.
 
-**[5:33]** Therefore euery one of you, doe ye so: let euery one loue his wife, euen as himselfe, and let the wife see that shee feare her husband.  
+**[5:33]** Therefore euery one of you, doe ye so: let euery one loue his wife, euen as himselfe, and let the wife see that shee feare her husband.
 
 ### Chapter 6
 
@@ -61026,7 +61026,7 @@
 
 **[6:23]** Peace be with the brethren, and loue with faith from God the Father, and from the Lord Iesus Christ.
 
-**[6:24]** Grace be with all them which loue our Lord Iesus Christ, to their immortalitie, Amen.  Written from Rome vnto the Ephesians, and sent by Tychicus. 
+**[6:24]** Grace be with all them which loue our Lord Iesus Christ, to their immortalitie, Amen. Written from Rome vnto the Ephesians, and sent by Tychicus.
 
 ## Philippians
 
@@ -61090,7 +61090,7 @@
 
 **[1:29]** For vnto you it is giuen for Christ, that not onely ye should beleeue in him, but also suffer for his sake,
 
-**[1:30]** Hauing the same fight, which ye sawe in me, and nowe heare to be in me.  
+**[1:30]** Hauing the same fight, which ye sawe in me, and nowe heare to be in me.
 
 ### Chapter 2
 
@@ -61152,7 +61152,7 @@
 
 **[2:29]** Receiue him therefore in the Lord with all gladnesse, and make much of such:
 
-**[2:30]** Because that for the woorke of Christ he was neere vnto death, and regarded not his life, to fulfill that seruice which was lacking on your part towarde me.  
+**[2:30]** Because that for the woorke of Christ he was neere vnto death, and regarded not his life, to fulfill that seruice which was lacking on your part towarde me.
 
 ### Chapter 3
 
@@ -61196,7 +61196,7 @@
 
 **[3:20]** But our conuersation is in heauen, from whence also we looke for the Sauiour, euen the Lord Iesus Christ,
 
-**[3:21]** Who shall change our vile bodie, that it may be fashioned like vnto his glorious body, according to the working, whereby hee is able euen to subdue all things vnto him selfe.  
+**[3:21]** Who shall change our vile bodie, that it may be fashioned like vnto his glorious body, according to the working, whereby hee is able euen to subdue all things vnto him selfe.
 
 ### Chapter 4
 
@@ -61244,7 +61244,7 @@
 
 **[4:22]** All the Saintes salute you, and most of all they which are of Cesars houshold.
 
-**[4:23]** The grace of our Lord Iesus Christ be with you all, Amen.  Written to the Philippians from Rome, and sent by Epaphroditus. 
+**[4:23]** The grace of our Lord Iesus Christ be with you all, Amen. Written to the Philippians from Rome, and sent by Epaphroditus.
 
 ## Colossians
 
@@ -61306,7 +61306,7 @@
 
 **[1:28]** Whome we preache, admonishing euery man, and teaching euery man in all wisdome, that we may present euery man perfect in Christ Iesus,
 
-**[1:29]** Whereunto I also labour and striue, according to his working which worketh in me mightily.  
+**[1:29]** Whereunto I also labour and striue, according to his working which worketh in me mightily.
 
 ### Chapter 2
 
@@ -61354,7 +61354,7 @@
 
 **[2:22]** Which al perish with the vsing, and are after the commandements and doctrines of men.
 
-**[2:23]** Which thinges haue in deede a shewe of wisdome, in voluntarie religion and humblenesse of minde, and in not sparing the body, which are thinges of no valewe, sith they perteine to the filling of the flesh.  
+**[2:23]** Which thinges haue in deede a shewe of wisdome, in voluntarie religion and humblenesse of minde, and in not sparing the body, which are thinges of no valewe, sith they perteine to the filling of the flesh.
 
 ### Chapter 3
 
@@ -61406,7 +61406,7 @@
 
 **[3:24]** Knowing that of the Lord ye shall receiue the reward of the inheritance: for ye serue the Lord Christ.
 
-**[3:25]** But he that doeth wrong, shall receiue for the wrong that he hath done: and there is no respect of persons.  
+**[3:25]** But he that doeth wrong, shall receiue for the wrong that he hath done: and there is no respect of persons.
 
 ### Chapter 4
 
@@ -61444,7 +61444,7 @@
 
 **[4:17]** And say to Archippus, Take heede to the ministerie, that thou hast receiued in the Lord, that thou fulfill it.
 
-**[4:18]** The salutation by the hand of me Paul. Remember my bands. Grace be with you, Amen.  Written from Rome to the Colossians, and sent by Tychicus, and Onesimus. 
+**[4:18]** The salutation by the hand of me Paul. Remember my bands. Grace be with you, Amen. Written from Rome to the Colossians, and sent by Tychicus, and Onesimus.
 
 ## I Thessalonians
 
@@ -61468,7 +61468,7 @@
 
 **[1:9]** For they themselues shew of vs what maner of entring in we had vnto you, and how ye turned to God from idoles, to serue the liuing and true God,
 
-**[1:10]** And to looke for his sonne from heauen, whome he raised from the dead, euen Iesus which deliuereth vs from that wrath to come.  
+**[1:10]** And to looke for his sonne from heauen, whome he raised from the dead, euen Iesus which deliuereth vs from that wrath to come.
 
 ### Chapter 2
 
@@ -61510,7 +61510,7 @@
 
 **[2:19]** For what is our hope or ioye, or crowne of reioycing? are not euen you it in the presence of our Lord Iesus Christ at his comming?
 
-**[2:20]** Yea, ye are our glory and ioy.  
+**[2:20]** Yea, ye are our glory and ioy.
 
 ### Chapter 3
 
@@ -61538,7 +61538,7 @@
 
 **[3:12]** And the Lord increase you, and make you abound in loue one toward another, and towarde all men, euen as we doe toward you:
 
-**[3:13]** To make your hearts stable and vnblameable in holines before God euen our Father, at the comming of our Lord Iesus Christ with all his Saints.  
+**[3:13]** To make your hearts stable and vnblameable in holines before God euen our Father, at the comming of our Lord Iesus Christ with all his Saints.
 
 ### Chapter 4
 
@@ -61576,7 +61576,7 @@
 
 **[4:17]** Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.
 
-**[4:18]** Wherefore, comfort your selues one another with these wordes.  
+**[4:18]** Wherefore, comfort your selues one another with these wordes.
 
 ### Chapter 5
 
@@ -61634,7 +61634,7 @@
 
 **[5:27]** I charge you in the Lord, that this Epistle be read vnto all the brethren the Saintes.
 
-**[5:28]** The grace of our Lord Iesus Christ be with you, Amen.  The first Epistle vnto the Thessalonians written from Athens. 
+**[5:28]** The grace of our Lord Iesus Christ be with you, Amen. The first Epistle vnto the Thessalonians written from Athens.
 
 ## II Thessalonians
 
@@ -61658,11 +61658,11 @@
 
 **[1:9]** Which shall be punished with euerlasting perdition, from the presence of the Lord, and from the glory of his power,
 
-**[1:10]** When he shall come to be glorified in his Saints, and to be made marueilous in all them that beleeue ( because our testimonie toward you was beleeued) in that day.
+**[1:10]** When he shall come to be glorified in his Saints, and to be made marueilous in all them that beleeue (because our testimonie toward you was beleeued) in that day.
 
 **[1:11]** Wherefore, we also pray alwayes for you, that our God may make you worthy of this calling, and fulfill all the good pleasure of his goodnes, and the worke of faith with power,
 
-**[1:12]** That the Name of our Lord Iesus Christ may be glorified in you, and ye in him, according to the grace of our God, and of the Lord Iesus Christ.  
+**[1:12]** That the Name of our Lord Iesus Christ may be glorified in you, and ye in him, according to the grace of our God, and of the Lord Iesus Christ.
 
 ### Chapter 2
 
@@ -61698,7 +61698,7 @@
 
 **[2:16]** Now the same Iesus Christ our Lord; and our God euen the Father which hath loued vs, and hath giuen vs euerlasting consolation and good hope through grace,
 
-**[2:17]** Comfort your hearts, and stablish you in euery word and good worke.  
+**[2:17]** Comfort your hearts, and stablish you in euery word and good worke.
 
 ### Chapter 3
 
@@ -61736,7 +61736,7 @@
 
 **[3:17]** The salutation of me Paul, with mine owne hand, which is ye token in euery Epistle: so I write,
 
-**[3:18]** The grace of our Lord Iesus Christ be with you all, Amen.  The second Epistle to the Thessalonians, written from Athens. 
+**[3:18]** The grace of our Lord Iesus Christ be with you all, Amen. The second Epistle to the Thessalonians, written from Athens.
 
 ## I Timothy
 
@@ -61780,7 +61780,7 @@
 
 **[1:19]** Hauing faith and a good conscience, which some haue put away, and as concerning faith, haue made shipwracke.
 
-**[1:20]** Of whom is Hymeneus, and Alexander, whom I haue deliuered vnto Satan, that they might learne not to blaspheme.  
+**[1:20]** Of whom is Hymeneus, and Alexander, whom I haue deliuered vnto Satan, that they might learne not to blaspheme.
 
 ### Chapter 2
 
@@ -61812,7 +61812,7 @@
 
 **[2:14]** And Adam was not deceiued, but the woman was deceiued, and was in the transgression.
 
-**[2:15]** Notwithstanding, through bearing of children she shalbe saued if they continue in faith, and loue, and holines with modestie.  
+**[2:15]** Notwithstanding, through bearing of children she shalbe saued if they continue in faith, and loue, and holines with modestie.
 
 ### Chapter 3
 
@@ -61846,7 +61846,7 @@
 
 **[3:15]** But if I tary long, that thou maist yet know, how thou oughtest to behaue thy self in ye house of God, which is the Church of the liuing God, the pillar and ground of trueth.
 
-**[3:16]** And without controuersie, great is the mysterie of godlinesse, which is, God is manifested in the flesh, iustified in the Spirit, seene of Angels, preached vnto the Gentiles, beleeued on in the world, and receiued vp in glorie.  
+**[3:16]** And without controuersie, great is the mysterie of godlinesse, which is, God is manifested in the flesh, iustified in the Spirit, seene of Angels, preached vnto the Gentiles, beleeued on in the world, and receiued vp in glorie.
 
 ### Chapter 4
 
@@ -61880,7 +61880,7 @@
 
 **[4:15]** These things exercise, and giue thy selfe vnto them, that it may be seene howe thou profitest among all men.
 
-**[4:16]** Take heede vnto thy selfe, and vnto learning: continue therein: for in doing this thou shalt both saue thy selfe, and them that heare thee.  
+**[4:16]** Take heede vnto thy selfe, and vnto learning: continue therein: for in doing this thou shalt both saue thy selfe, and them that heare thee.
 
 ### Chapter 5
 
@@ -61932,7 +61932,7 @@
 
 **[5:24]** Some mens sinnes are open before hand, and goe before vnto iudgement: but some mens folowe after.
 
-**[5:25]** Likewise also the good woorkes are manifest before hande, and they that are otherwise, cannot be hid.  
+**[5:25]** Likewise also the good woorkes are manifest before hande, and they that are otherwise, cannot be hid.
 
 ### Chapter 6
 
@@ -61976,7 +61976,7 @@
 
 **[6:20]** O Timotheus, keepe that which is committed vnto thee, and auoide prophane and vaine babblings, and oppositios of science falsely so called,
 
-**[6:21]** Which while some professe, they haue erred concerning the faith. Grace be with thee, Amen.  The first Epistle to Timotheus, written from Laodicea, which is the chiefest citie of Phrygia Pacaciana. 
+**[6:21]** Which while some professe, they haue erred concerning the faith. Grace be with thee, Amen. The first Epistle to Timotheus, written from Laodicea, which is the chiefest citie of Phrygia Pacaciana.
 
 ## II Timothy
 
@@ -62016,7 +62016,7 @@
 
 **[1:17]** But when he was at Rome, he sought me out very diligently, and found me.
 
-**[1:18]** The Lord graunt vnto him, that he may finde mercie with the Lord at that day, and in how many things he hath ministred vnto me at Ephesus, thou knowest very well.  
+**[1:18]** The Lord graunt vnto him, that he may finde mercie with the Lord at that day, and in how many things he hath ministred vnto me at Ephesus, thou knowest very well.
 
 ### Chapter 2
 
@@ -62070,7 +62070,7 @@
 
 **[2:25]** Instructing them with meekenesse that are contrary minded, prouing if God at any time will giue them repentance, that they may acknowledge the trueth,
 
-**[2:26]** And come to amendment out of that snare of the deuil, of whom they are taken prisoners, to doe his will.  
+**[2:26]** And come to amendment out of that snare of the deuil, of whom they are taken prisoners, to doe his will.
 
 ### Chapter 3
 
@@ -62106,7 +62106,7 @@
 
 **[3:16]** For the whole Scripture is giuen by inspiration of God, and is profitable to teache, to conuince, to correct, and to instruct in righteousnesse,
 
-**[3:17]** That the man of God may be absolute, being made perfect vnto all good workes.  
+**[3:17]** That the man of God may be absolute, being made perfect vnto all good workes.
 
 ### Chapter 4
 
@@ -62152,7 +62152,7 @@
 
 **[4:21]** Make speede to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
 
-**[4:22]** The Lord Iesus Christ be with thy spirit. Grace be with you, Amen.   The second Epistle written from Rome vnto Timotheus, the first Bishop elected of the Church of Ephesus, when Paul was presented the second time before the Emperour Nero. 
+**[4:22]** The Lord Iesus Christ be with thy spirit. Grace be with you, Amen. The second Epistle written from Rome vnto Timotheus, the first Bishop elected of the Church of Ephesus, when Paul was presented the second time before the Emperour Nero.
 
 ## Titus
 
@@ -62188,7 +62188,7 @@
 
 **[1:15]** Vnto the pure are all things pure, but vnto them that are defiled, and vnbeleeuing, is nothing pure, but euen their mindes and consciences are defiled.
 
-**[1:16]** They professe that they know God, but by works they deny him, and are abominable and disobedient, and vnto euery good worke reprobate.  
+**[1:16]** They professe that they know God, but by works they deny him, and are abominable and disobedient, and vnto euery good worke reprobate.
 
 ### Chapter 2
 
@@ -62220,7 +62220,7 @@
 
 **[2:14]** Who gaue him selfe for vs, that hee might redeeme vs from all iniquitie, and purge vs to bee a peculiar people vnto himselfe, zealous of good woorkes.
 
-**[2:15]** These things speake, and exhort, and conuince with all authoritie. See that no man despise thee.  
+**[2:15]** These things speake, and exhort, and conuince with all authoritie. See that no man despise thee.
 
 ### Chapter 3
 
@@ -62252,7 +62252,7 @@
 
 **[3:14]** And let ours also learne to shewe foorth good woorkes for necessary vses, that they be not vnfruitfull.
 
-**[3:15]** All that are with mee, salute thee. Greete them that loue vs in the faith. Grace bee with you all, Amen.   To Titus, elect the first bishoppe of the Church of the Cretians, written from Nicopolis in Macedonia. 
+**[3:15]** All that are with mee, salute thee. Greete them that loue vs in the faith. Grace bee with you all, Amen. To Titus, elect the first bishoppe of the Church of the Cretians, written from Nicopolis in Macedonia.
 
 ## Philemon
 
@@ -62306,7 +62306,7 @@
 
 **[1:24]** Marcus, Aristarchus, Demas and Luke, my felowe helpers.
 
-**[1:25]** The grace of our Lord Iesus Christ be with your spirit, Amen.   Written from Rome to Philemon, and send by Onesimus a seruant. 
+**[1:25]** The grace of our Lord Iesus Christ be with your spirit, Amen. Written from Rome to Philemon, and send by Onesimus a seruant.
 
 ## Hebrews
 
@@ -62338,7 +62338,7 @@
 
 **[1:13]** Vnto which also of the Angels saide he at any time, Sit at my right hand, til I make thine enemies thy footestoole?
 
-**[1:14]** Are they not al ministring spirits, sent forth to minister, for their sakes which shalbe heires of saluation?  
+**[1:14]** Are they not al ministring spirits, sent forth to minister, for their sakes which shalbe heires of saluation?
 
 ### Chapter 2
 
@@ -62376,7 +62376,7 @@
 
 **[2:17]** Wherefore in all things it behoued him to be made like vnto his brethren, that hee might be mercifull, and a faithfull hie Priest in things concerning God, that he might make reconciliation for the sinnes of the people.
 
-**[2:18]** For in that he suffered, and was tempted, he is able to succour them that are tempted.  
+**[2:18]** For in that he suffered, and was tempted, he is able to succour them that are tempted.
 
 ### Chapter 3
 
@@ -62416,7 +62416,7 @@
 
 **[3:18]** And to whom sware he that they should not enter into his rest, but vnto them that obeyed not?
 
-**[3:19]** So we see that they could not enter in, because of vnbeliefe.  
+**[3:19]** So we see that they could not enter in, because of vnbeliefe.
 
 ### Chapter 4
 
@@ -62450,7 +62450,7 @@
 
 **[4:15]** For we haue not an hie Priest, which can not be touched with the feeling of our infirmities, but was in all things tempted in like sort, yet without sinne.
 
-**[4:16]** Let vs therefore goe boldly vnto ye throne of grace, that we may receiue mercy, and finde grace to helpe in time of neede.  
+**[4:16]** Let vs therefore goe boldly vnto ye throne of grace, that we may receiue mercy, and finde grace to helpe in time of neede.
 
 ### Chapter 5
 
@@ -62480,7 +62480,7 @@
 
 **[5:13]** For euery one that vseth milke, is inexpert in the worde of righteousnes: for he is a babe.
 
-**[5:14]** But strong meate belongeth to them that are of age, which through long custome haue their wits exercised, to discerne both good and euill.  
+**[5:14]** But strong meate belongeth to them that are of age, which through long custome haue their wits exercised, to discerne both good and euill.
 
 ### Chapter 6
 
@@ -62522,7 +62522,7 @@
 
 **[6:19]** Which hope we haue, as an ancre of the soule, both sure and stedfast, and it entreth into that which is within the vaile,
 
-**[6:20]** Whither the forerunner is for vs entred in, euen Iesus that is made an hie Priest for euer after the order of Melchi-sedec.  
+**[6:20]** Whither the forerunner is for vs entred in, euen Iesus that is made an hie Priest for euer after the order of Melchi-sedec.
 
 ### Chapter 7
 
@@ -62580,7 +62580,7 @@
 
 **[7:27]** Which needeth not daily as those hie Priests to offer vp sacrifice, first for his owne sinnes, and then for the peoples: for that did he once, when he offered vp himselfe.
 
-**[7:28]** For the Law maketh men hie Priestes, which haue infirmitie: but the word of the othe that was since the Lawe, maketh the Sonne, who is consecrated for euermore.  
+**[7:28]** For the Law maketh men hie Priestes, which haue infirmitie: but the word of the othe that was since the Lawe, maketh the Sonne, who is consecrated for euermore.
 
 ### Chapter 8
 
@@ -62608,7 +62608,7 @@
 
 **[8:12]** For I will bee mercifull to their vnrighteousnes, and I wil remember their sinnes and their iniquities no more.
 
-**[8:13]** In that he saith a new Testament, he hath abrogate the olde: nowe that which is disanulled and waxed olde, is ready to vanish away.  
+**[8:13]** In that he saith a new Testament, he hath abrogate the olde: nowe that which is disanulled and waxed olde, is ready to vanish away.
 
 ### Chapter 9
 
@@ -62666,7 +62666,7 @@
 
 **[9:27]** And as it is appointed vnto men that they shall once die, and after that commeth the iudgement:
 
-**[9:28]** So Christ was once offered to take away the sinnes of many, and vnto them that looke for him, shall he appeare the second time without sinne vnto saluation.  
+**[9:28]** So Christ was once offered to take away the sinnes of many, and vnto them that looke for him, shall he appeare the second time without sinne vnto saluation.
 
 ### Chapter 10
 
@@ -62746,7 +62746,7 @@
 
 **[10:38]** Nowe the iust shall liue by faith: but if any withdrawe himselfe, my soule shall haue no pleasure in him.
 
-**[10:39]** But we are not they which withdrawe our selues vnto perdition, but follow faith vnto the conseruation of the soule.  
+**[10:39]** But we are not they which withdrawe our selues vnto perdition, but follow faith vnto the conseruation of the soule.
 
 ### Chapter 11
 
@@ -62828,7 +62828,7 @@
 
 **[11:39]** And these all through faith obteined good report, and receiued not the promise,
 
-**[11:40]** God prouiding a better thing for vs, that they without vs should not be made perfite.  
+**[11:40]** God prouiding a better thing for vs, that they without vs should not be made perfite.
 
 ### Chapter 12
 
@@ -62888,7 +62888,7 @@
 
 **[12:28]** Wherefore seeing we receiue a kingdome, which cannot be shaken, let vs haue grace whereby we may so serue God, that we may please him with reuerence and feare.
 
-**[12:29]** For euen our God is a consuming fire.  
+**[12:29]** For euen our God is a consuming fire.
 
 ### Chapter 13
 
@@ -62940,7 +62940,7 @@
 
 **[13:24]** Salute all them that haue the ouersight of you, and all the Saintes. They of Italie salute you.
 
-**[13:25]** Grace be with you all, Amen.  Written to the Hebrewes from Italie, and sent by Timotheus. 
+**[13:25]** Grace be with you all, Amen. Written to the Hebrewes from Italie, and sent by Timotheus.
 
 ## James
 
@@ -62998,7 +62998,7 @@
 
 **[1:26]** If any man amog you seeme religious, and refraineth not his tongue, but deceiueth his owne heart, this mans religion is vaine.
 
-**[1:27]** Pure religion and vndefiled before God, euen the Father, is this, to visite the fatherlesse, and widdowes in their aduersitie, and to keepe himselfe vnspotted of the world.  
+**[1:27]** Pure religion and vndefiled before God, euen the Father, is this, to visite the fatherlesse, and widdowes in their aduersitie, and to keepe himselfe vnspotted of the world.
 
 ### Chapter 2
 
@@ -63052,7 +63052,7 @@
 
 **[2:25]** Likewise also was not Rahab the harlot iustified through workes, when she had receiued ye messengers, and sent them out another way?
 
-**[2:26]** For as the body without ye spirit is dead, euen so the faith without workes is dead.  
+**[2:26]** For as the body without ye spirit is dead, euen so the faith without workes is dead.
 
 ### Chapter 3
 
@@ -63090,7 +63090,7 @@
 
 **[3:17]** But the wisedome that is from aboue, is first pure, then peaceable, gentle, easie to be intreated, full of mercie and good fruites, without iudging, and without hipocrisie.
 
-**[3:18]** And the fruite of righteousnesse is sowen in peace, of them that make peace.  
+**[3:18]** And the fruite of righteousnesse is sowen in peace, of them that make peace.
 
 ### Chapter 4
 
@@ -63126,7 +63126,7 @@
 
 **[4:16]** But now ye reioyce in your boastings: all such reioycing is euill.
 
-**[4:17]** Therefore, to him that knoweth how to doe well, and doeth it not, to him it is sinne.  
+**[4:17]** Therefore, to him that knoweth how to doe well, and doeth it not, to him it is sinne.
 
 ### Chapter 5
 
@@ -63168,7 +63168,7 @@
 
 **[5:19]** Brethren, if any of you hath erred from the trueth, and some man hath conuerted him,
 
-**[5:20]** Let him know that he which hath conuerted the sinner from going astray out of his way, shall saue a soule from death, and shall hide a multitude of sinnes.   
+**[5:20]** Let him know that he which hath conuerted the sinner from going astray out of his way, shall saue a soule from death, and shall hide a multitude of sinnes.
 
 ## I Peter
 
@@ -63222,7 +63222,7 @@
 
 **[1:24]** For all flesh is as grasse, and all the glorie of man is as the flower of grasse. The grasse withereth, and the flower falleth away.
 
-**[1:25]** But the worde of the Lord endureth for euer: and this is the woorde which is preached among you.  
+**[1:25]** But the worde of the Lord endureth for euer: and this is the woorde which is preached among you.
 
 ### Chapter 2
 
@@ -63274,7 +63274,7 @@
 
 **[2:24]** Who his owne selfe bare our sinnes in his body on the tree, that we being dead to sinne, should liue in righteousnesse: by whose stripes ye were healed.
 
-**[2:25]** For ye were as sheepe going astray: but are nowe returned vnto the shepheard and Bishop of your soules.  
+**[2:25]** For ye were as sheepe going astray: but are nowe returned vnto the shepheard and Bishop of your soules.
 
 ### Chapter 3
 
@@ -63320,7 +63320,7 @@
 
 **[3:21]** Whereof the baptisme that nowe is, answering that figure, (which is not a putting away of the filth of the flesh, but a confident demaunding which a good conscience maketh to God) saueth vs also by the resurrection of Iesus Christ,
 
-**[3:22]** Which is at the right hand of God, gone into heauen, to whom the Angels, and Powers, and might are subiect.  
+**[3:22]** Which is at the right hand of God, gone into heauen, to whom the Angels, and Powers, and might are subiect.
 
 ### Chapter 4
 
@@ -63360,7 +63360,7 @@
 
 **[4:18]** And if the righteous scarcely bee saued, where shall the vngodly and the sinner appeare?
 
-**[4:19]** Wherefore let them that suffer according to the will of God, commit their soules to him in well doing, as vnto a faithfull Creator.  
+**[4:19]** Wherefore let them that suffer according to the will of God, commit their soules to him in well doing, as vnto a faithfull Creator.
 
 ### Chapter 5
 
@@ -63390,7 +63390,7 @@
 
 **[5:13]** The Church that is at Babylon elected together with you, saluteth you, and Marcus my sonne.
 
-**[5:14]** Greete yee one another with the kisse of loue. Peace be with you all which are in Christ Iesus, Amen.   
+**[5:14]** Greete yee one another with the kisse of loue. Peace be with you all which are in Christ Iesus, Amen.
 
 ## II Peter
 
@@ -63436,7 +63436,7 @@
 
 **[1:20]** So that yee first knowe this, that no prophecie of the Scripture is of any priuate interpretation.
 
-**[1:21]** For the prophecie came not in olde time by the will of man: but holy men of God spake as they were moued by the holy Ghost.  
+**[1:21]** For the prophecie came not in olde time by the will of man: but holy men of God spake as they were moued by the holy Ghost.
 
 ### Chapter 2
 
@@ -63482,7 +63482,7 @@
 
 **[2:21]** For it had bene better for them, not to haue acknowledged the way of righteousnes, then after they haue acknowledged it, to turne from the holy commandement giuen vnto them.
 
-**[2:22]** But it is come vnto them, according to the true Prouerbe, The dogge is returned to his owne vomit: and, The sowe that was washed, to the wallowing in the myre.  
+**[2:22]** But it is come vnto them, according to the true Prouerbe, The dogge is returned to his owne vomit: and, The sowe that was washed, to the wallowing in the myre.
 
 ### Chapter 3
 
@@ -63520,7 +63520,7 @@
 
 **[3:17]** Ye therefore beloued, seeing ye know these thinges before, beware, lest ye be also plucked away with the errour of the wicked, and fall from your owne stedfastnesse.
 
-**[3:18]** But grow in grace, and in the knowledge of our Lord and Sauiour Iesus Christ: to him be glory both now and for euermore. Amen.   
+**[3:18]** But grow in grace, and in the knowledge of our Lord and Sauiour Iesus Christ: to him be glory both now and for euermore. Amen.
 
 ## I John
 
@@ -63544,7 +63544,7 @@
 
 **[1:9]** If we acknowledge our sinnes, he is faithfull and iust, to forgiue vs our sinnes, and to clense vs from all vnrighteousnes.
 
-**[1:10]** If wee say we haue not sinned, wee make him a liar, and his word is not in vs.  
+**[1:10]** If wee say we haue not sinned, wee make him a liar, and his word is not in vs.
 
 ### Chapter 2
 
@@ -63604,7 +63604,7 @@
 
 **[2:28]** And nowe, litle children, abide in him, that when he shall appeare, we may be bolde, and not be ashamed before him at his comming.
 
-**[2:29]** If ye know that he is righteous, know ye that he which doeth righteously, is borne of him.  
+**[2:29]** If ye know that he is righteous, know ye that he which doeth righteously, is borne of him.
 
 ### Chapter 3
 
@@ -63654,7 +63654,7 @@
 
 **[3:23]** This is then his commandement, That we beleeue in the Name of his Sonne Iesus Christ, and loue one another as hee gaue commandement.
 
-**[3:24]** For hee that keepeth his commandements, dwelleth in him, and he in him: and hereby we knowe that hee abideth in vs, euen by that Spirit which he hath giuen vs.  
+**[3:24]** For hee that keepeth his commandements, dwelleth in him, and he in him: and hereby we knowe that hee abideth in vs, euen by that Spirit which he hath giuen vs.
 
 ### Chapter 4
 
@@ -63698,7 +63698,7 @@
 
 **[4:20]** If any man say, I loue God, and hate his brother, he is a liar: for how can he that loueth not his brother whom he hath seene, loue God whom he hath not seene?
 
-**[4:21]** And this commandement haue we of him, that he that loueth God, should loue his brother also.  
+**[4:21]** And this commandement haue we of him, that he that loueth God, should loue his brother also.
 
 ### Chapter 5
 
@@ -63742,7 +63742,7 @@
 
 **[5:20]** But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.
 
-**[5:21]** Litle children, keepe your selues from idoles, Amen.   
+**[5:21]** Litle children, keepe your selues from idoles, Amen.
 
 ## II John
 
@@ -63770,7 +63770,7 @@
 
 **[1:11]** For he that biddeth him, God speede, is partaker of his euill deedes. Although I had many things to write vnto you, yet I woulde not write with paper and ynke: but I trust to come vnto you, and speake mouth to mouth, that our ioy may be full.
 
-**[1:12]** The sonnes of thine elect sister greete thee, Amen.   
+**[1:12]** The sonnes of thine elect sister greete thee, Amen.
 
 **[1:13]** 
 
@@ -63804,7 +63804,7 @@
 
 **[1:13]** I haue many things to write: but I will not with yncke and pen write vnto thee:
 
-**[1:14]** For I trust I shall shortly see thee, and we shall speake mouth to mouth. Peace be with thee. The friends salute thee. Greete the friends by name.   
+**[1:14]** For I trust I shall shortly see thee, and we shall speake mouth to mouth. Peace be with thee. The friends salute thee. Greete the friends by name.
 
 **[1:15]** 
 
@@ -63860,7 +63860,7 @@
 
 **[1:24]** Nowe vnto him that is able to keepe you, that ye fall not, and to present you faultlesse before the presence of his glorie with ioy,
 
-**[1:25]** That is, to God only wise, our Sauiour, be glorie, and maiestie, and dominion, and power, both nowe and for euer, Amen.   
+**[1:25]** That is, to God only wise, our Sauiour, be glorie, and maiestie, and dominion, and power, both nowe and for euer, Amen.
 
 ## Revelation of John
 
@@ -63904,7 +63904,7 @@
 
 **[1:19]** Write the things which thou hast seene, and the things which are, and the things which shall come hereafter.
 
-**[1:20]** The misterie of the seuen starres which thou sawest in my right hand, and the seuen golden candlestickes, is this, The seuen starres are the Angels of the seuen Churches: and the seuen candlestickes which thou sawest, are the seuen Churches.  
+**[1:20]** The misterie of the seuen starres which thou sawest in my right hand, and the seuen golden candlestickes, is this, The seuen starres are the Angels of the seuen Churches: and the seuen candlestickes which thou sawest, are the seuen Churches.
 
 ### Chapter 2
 
@@ -63964,7 +63964,7 @@
 
 **[2:28]** Euen as I receiued of my Father, so will I giue him the morning starre.
 
-**[2:29]** Let him that hath an eare, heare what the Spirite saith to the Churches.  
+**[2:29]** Let him that hath an eare, heare what the Spirite saith to the Churches.
 
 ### Chapter 3
 
@@ -64010,7 +64010,7 @@
 
 **[3:21]** To him that ouercommeth, will I graunt to sit with me in my throne, euen as I ouercame, and sit with my Father in his throne.
 
-**[3:22]** Let him that hath an eare, heare what the Spirit saieth vnto the Churches.  
+**[3:22]** Let him that hath an eare, heare what the Spirit saieth vnto the Churches.
 
 ### Chapter 4
 
@@ -64034,7 +64034,7 @@
 
 **[4:10]** The foure and twentie Elders fell downe before him that sate on the throne and worshipped him that liueth for euermore, and cast their crownes before the throne, saying,
 
-**[4:11]** Thou art worthy, O Lord, to receiue glory and honour, and power: for thou hast created all things, and for thy wils sake they are, and haue beene created.  
+**[4:11]** Thou art worthy, O Lord, to receiue glory and honour, and power: for thou hast created all things, and for thy wils sake they are, and haue beene created.
 
 ### Chapter 5
 
@@ -64064,7 +64064,7 @@
 
 **[5:13]** And al the creatures which are in heauen, and on the earth, and vnder the earth, and in the sea, and al that are in them, heard I, saying, Praise, and honour, and glory, and power be vnto him, that sitteth vpon the throne, and vnto the Lambe for euermore.
 
-**[5:14]** And the foure beasts said, Amen, and the foure and twentie Elders fell downe and worshipped him that liueth for euermore.  
+**[5:14]** And the foure beasts said, Amen, and the foure and twentie Elders fell downe and worshipped him that liueth for euermore.
 
 ### Chapter 6
 
@@ -64100,7 +64100,7 @@
 
 **[6:16]** And said to the mountaines and rocks, Fal on vs, and hide vs from the presence of him that sitteth on the throne, and from the wrath of the Lambe.
 
-**[6:17]** For the great day of his wrath is come, and who can stand?  
+**[6:17]** For the great day of his wrath is come, and who can stand?
 
 ### Chapter 7
 
@@ -64136,7 +64136,7 @@
 
 **[7:16]** They shall hunger no more, neither thirst any more, neither shall the sunne light on them, neither any heate.
 
-**[7:17]** For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.  
+**[7:17]** For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.
 
 ### Chapter 8
 
@@ -64164,7 +64164,7 @@
 
 **[8:12]** And the fourth Angel blew the trumpet, and the thirde part of the sunne was smitten, and the thirde part of the moone, and the thirde part of the starres, so that the thirde part of them was darkened: and the day was smitten, that the thirde part of it could not shine, and likewise the night.
 
-**[8:13]** And I beheld, and heard one Angel flying thorow the middes of heauen, saying with a loude voyce, Woe, woe, woe to the inhabitants of the earth, because of the sounds to come of the trumpet of the three Angels, which were yet to blowe the trumpets.  
+**[8:13]** And I beheld, and heard one Angel flying thorow the middes of heauen, saying with a loude voyce, Woe, woe, woe to the inhabitants of the earth, because of the sounds to come of the trumpet of the three Angels, which were yet to blowe the trumpets.
 
 ### Chapter 9
 
@@ -64208,7 +64208,7 @@
 
 **[9:20]** And the remnant of the men which were not killed by these plagues, repented not of the works of their handes that they should not worship deuils, and idoles of golde and of siluer, and of brasse, and of stone, and of wood, which neither can see, neither heare nor goe.
 
-**[9:21]** Also they repented not of their murder, and of their sorcerie, neither of their fornication, nor of their theft.  
+**[9:21]** Also they repented not of their murder, and of their sorcerie, neither of their fornication, nor of their theft.
 
 ### Chapter 10
 
@@ -64232,7 +64232,7 @@
 
 **[10:10]** Then I tooke the litle booke out of ye Angels hand, and ate it vp, and it was in my mouth as sweete as hony: but whe I had eaten it my belly was bitter.
 
-**[10:11]** And he said vnto me, Thou must prophecie againe among the people and nations, and tongues, and to many Kings.  
+**[10:11]** And he said vnto me, Thou must prophecie againe among the people and nations, and tongues, and to many Kings.
 
 ### Chapter 11
 
@@ -64272,7 +64272,7 @@
 
 **[11:18]** And the Gentiles were angrie, and thy wrath is come, and the time of the dead, that they shoulde be iudged, and that thou shouldest giue reward vnto thy seruants the Prophets, and to the Saintes, and to them that feare thy Name, to small and great, and shouldest destroy them, which destroy the earth.
 
-**[11:19]** Then the Temple of God was opened in heauen, and there was seene in his Temple the Arke of his couenant: and there were lightnings, and voyces, and thundrings, and earthquake, and much haile.  
+**[11:19]** Then the Temple of God was opened in heauen, and there was seene in his Temple the Arke of his couenant: and there were lightnings, and voyces, and thundrings, and earthquake, and much haile.
 
 ### Chapter 12
 
@@ -64310,7 +64310,7 @@
 
 **[12:17]** Then the dragon was wroth with the woman, and went and made warre with the remnant of her seede, which keepe the comaundements of God, and haue the testimonie of Iesus Christ.
 
-**[12:18]** And I stood on the sea sand.  
+**[12:18]** And I stood on the sea sand.
 
 ### Chapter 13
 
@@ -64348,7 +64348,7 @@
 
 **[13:17]** And that no man might buy or sell, saue hee that had the marke, or the name of the beast, or the number of his name.
 
-**[13:18]** Here is wisdome. Let him that hath wit, count the number of the beast: for it is the number of a man, and his number is sixe hundreth threescore and sixe.  
+**[13:18]** Here is wisdome. Let him that hath wit, count the number of the beast: for it is the number of a man, and his number is sixe hundreth threescore and sixe.
 
 ### Chapter 14
 
@@ -64390,7 +64390,7 @@
 
 **[14:19]** And the Angel thrust in his sharpe sickle on the earth, and cut downe the vines of the vineyard of the earth, and cast them into that great wine presse of the wrath of God.
 
-**[14:20]** And the wine presse was troden without the citie, and blood came out of the wine presse, vnto the horse bridles, by the space of a thousand and sixe hundreth furlongs.  
+**[14:20]** And the wine presse was troden without the citie, and blood came out of the wine presse, vnto the horse bridles, by the space of a thousand and sixe hundreth furlongs.
 
 ### Chapter 15
 
@@ -64408,7 +64408,7 @@
 
 **[15:7]** And one of the foure beastes gaue vnto the seuen Angels seuen golden vials full of the wrath of God, which liueth for euermore.
 
-**[15:8]** And the Temple was full of the smoke of the glory of God and of his power, and no man was able to enter into the Temple, till the seuen plagues of the seuen Angels were fulfilled.  
+**[15:8]** And the Temple was full of the smoke of the glory of God and of his power, and no man was able to enter into the Temple, till the seuen plagues of the seuen Angels were fulfilled.
 
 ### Chapter 16
 
@@ -64452,7 +64452,7 @@
 
 **[16:20]** And euery yle fled away, and the mountaines were not found.
 
-**[16:21]** And there fell a great haile, like talents, out of heauen vpon the men, and men blasphemed God, because of the plague of the haile: for the plague thereof was exceeding great.  
+**[16:21]** And there fell a great haile, like talents, out of heauen vpon the men, and men blasphemed God, because of the plague of the haile: for the plague thereof was exceeding great.
 
 ### Chapter 17
 
@@ -64490,7 +64490,7 @@
 
 **[17:17]** For God hath put in their heartes to fulfill his will, and to doe with one consent for to giue their kingdome vnto the beast, vntill the wordes of God be fulfilled.
 
-**[17:18]** And that woman which thou sawest, is that great citie, which reigneth ouer the kings of ye earth.  
+**[17:18]** And that woman which thou sawest, is that great citie, which reigneth ouer the kings of ye earth.
 
 ### Chapter 18
 
@@ -64540,7 +64540,7 @@
 
 **[18:23]** And the light of a candle shall shine no more in thee: and the voyce of the bridegrome and of the bride shalbe heard no more in thee: for thy marchants were the great men of the earth: and with thine inchantments were deceiued all nations.
 
-**[18:24]** And in her was found the blood of the Prophets, and of the Saints, and of all that were slaine vpon the earth.  
+**[18:24]** And in her was found the blood of the Prophets, and of the Saints, and of all that were slaine vpon the earth.
 
 ### Chapter 19
 
@@ -64584,7 +64584,7 @@
 
 **[19:20]** But ye beast was taken, and with him that false prophet that wrought miracles before him, whereby he deceiued them that receiued ye beastes marke, and them that worshipped his image. These both were aliue cast into a lake of fire, burning with brimstone.
 
-**[19:21]** And the remnant were slayne with the sword of him that sitteth vpon the horse, which commeth out of his mouth, and all the foules were filled full with their flesh.  
+**[19:21]** And the remnant were slayne with the sword of him that sitteth vpon the horse, which commeth out of his mouth, and all the foules were filled full with their flesh.
 
 ### Chapter 20
 
@@ -64616,7 +64616,7 @@
 
 **[20:14]** And death and hell were cast into the lake of fire: this is the second death.
 
-**[20:15]** And whosoeuer was not found written in the booke of life, was cast into the lake of fire.  
+**[20:15]** And whosoeuer was not found written in the booke of life, was cast into the lake of fire.
 
 ### Chapter 21
 
@@ -64672,7 +64672,7 @@
 
 **[21:26]** And the glorie, and honour of the Gentiles shall be brought vnto it.
 
-**[21:27]** And there shall enter into it none vncleane thing, neither whatsoeuer woorketh abomination or lies: but they which are written in ye Lambes booke of life.  
+**[21:27]** And there shall enter into it none vncleane thing, neither whatsoeuer woorketh abomination or lies: but they which are written in ye Lambes booke of life.
 
 ### Chapter 22
 
@@ -64716,5 +64716,5 @@
 
 **[22:20]** He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.
 
-**[22:21]** The grace of our Lord Iesus Christ be with you all, AMEN.   
+**[22:21]** The grace of our Lord Iesus Christ be with you all, AMEN.
 
