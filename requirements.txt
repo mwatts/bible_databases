@@ -1,0 +1,6 @@
+future
+mysql-connector-python
+pyarrow
+pymysql
+pysword
+PyYAML

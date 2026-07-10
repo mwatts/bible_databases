@@ -12,6 +12,8 @@ from generators.text.csv_generator import CSVGenerator
 from generators.text.plaintext_generator import TextGenerator
 from generators.text.yaml_generator import YAMLGenerator
 from generators.text.markdown_generator import MDGenerator
+from generators.parquet.parquet_generator import ParquetGenerator
+
 
 def create_format_directories(format_directory):
     formats = ['sql', 'sqlite', 'csv', 'txt', 'json', 'yaml', 'md']
@@ -34,7 +36,7 @@ def generate_all_versions():
     # Generate all formats for each language and translation
     for language in languages:
         language_path = os.path.join(source_directory, language)
-        
+
         # List all translations for the current language
         translations = [d for d in os.listdir(language_path) if os.path.isdir(os.path.join(language_path, d))]
 
@@ -69,6 +71,10 @@ def generate_all_versions():
                 # Generate MD format
                 md_generator = MDGenerator(source_directory, format_directory)
                 md_generator.generate(language, translation)
+
+                # Generate Parquet format
+                parquet_generator = ParquetGenerator(source_directory, format_directory)
+                parquet_generator.generate(language, translation)
 
                 print(f"Completed generating formats for {translation} in {language}")
             except Exception as e:

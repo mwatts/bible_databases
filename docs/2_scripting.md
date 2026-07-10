@@ -6,11 +6,19 @@ Python is the primary scripting language used in this project. To ensure consist
 
 To use the scripts in the scripts directory, be sure you have the dependencies installed:
 
+```sh
+pip install mysql-connector-python
+pip install future
+pip install pysword
+pip install PyYAML
+pip install pyarrow
+pip install pymysql
 ```
-pip install mysql.connector
-pip install past.builtins
-pip install pysword.modules
-pip install yaml
+
+You may also install all PyPI dependencies from the root project directory with:
+
+```sh
+python -m pip install -r requirements.txt
 ```
 
 ### Scripts Breakdown
@@ -58,6 +66,10 @@ pip install yaml
 #### `generate_mysql.py`
 - **Description**: Generates MySQL SQL dump files for Bible translations. Each translation is processed and output as an SQL dump file.
 - **Usage**: Run the script to create SQL dump files for each translation.
+
+#### `generate_parquet.py`
+- **Description**: Generate Parquet files for Bible translations. Each translation is processed and output as a .parquet file.
+- **Usage**: Run the script to create .parquet files for each translation.
 
 #### `generate_psql.py`
 - **Description**: Generates PostgreSQL SQL dump files for Bible translations. Each translation is processed and output as an SQL dump file.
